@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the brightside.me privacy policy that was archived on 2017-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171119001556id_/https%3A//brightside.me/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the brightside.me privacy policy that was archived on 2018-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181226192725id_/https%3A//brightside.me/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-        <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-1044.min.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script async="" defer="" type="text/javascript" src="https://content.mql5.com/core.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwcGVFJTGwIFVFBUAQMP"};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,n,e)])}catch(s){try{i("ierr",[s,c.now(),!0])}catch(u){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t){i("err",[t,c.now()])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,n,e){u&&(d+=1)}),s.on("fn-err",function(t,n,e){u&&(this.thrown=!0,o(e))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):w?w(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!w&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1044.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script>
+        <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-1099.min.js"></script><script src="https://quantcast.mgr.consensu.org/cmp.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script async="" defer="" type="text/javascript" src="https://content.mql5.com/core.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1099.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <meta name="referrer" content="always">
     <meta name="referrer" content="unsafe-url">
@@ -15,92 +15,278 @@
     <meta property="fb:app_id" content="381091015394947">
     <meta property="fb:pages" content="727974550664624">
 
-<title>Политика конфиденциальности</title><meta name="description" content="Our site is dedicated to creativity. We made BrightSide to help nurture the seeds of creativity found in all of us. We believe imagination should be at the heart of everything people do. BrightSide is the place to find the most inspiring manifestations of this from around the world. ">
+<title>Privacy policy</title><meta name="description" content="Our site is dedicated to creativity. We made BrightSide to help nurture the seeds of creativity found in all of us. We believe imagination should be at the heart of everything people do. BrightSide is the place to find the most inspiring manifestations of this from around the world.">
 <meta name="keywords" content="Inspiration. Creativity. Wonder.">
-    	<link href="//iface.brightside.me/assets/styles-common-a7bdc8d339fc88d289d9c0a8033c3db96a289367.css" rel="stylesheet" type="text/css">
-	
+        <link href="//iface.brightside.me/assets/styles-common-c33b88348c04381fe25eac17541541dbfe941f19.css" rel="stylesheet" type="text/css">
+
 <!--[if lte IE 8.0]>
-    	<link href="//iface.brightside.me/assets/styles-common-IE-a7bdc8d339fc88d289d9c0a8033c3db96a289367.css" rel="stylesheet" type="text/css" />
-	<![endif]-->        
-<!-- Google Analytics -->
-<script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-    ga('create', {
-        trackingId: 'UA-65516416-1',
-        cookieDomain: 'none',
-        allowLinker: true
-    });
-
-    
-
-    
-    
-    ga('require', 'displayfeatures');
-    ga('send', 'pageview');
-</script>
-<!-- End Google Analytics -->
-
-<!--finteza test-->
-    <script type="text/javascript">
-        var fcoreobj=fcoreobj||{};fcoreobj.act=fcoreobj.act||[];
-        !function(){if(!fcoreobj.inited){var e,t;(e=document.createElement("script")).async=!0,e.defer=!0,e.type="text/javascript",e.src="https://content.mql5.com/core.js",(t=document.getElementsByTagName("script")[0])&&t.parentNode&&t.parentNode.insertBefore(e,t),fcoreobj.inited=!0}}();
-        fcoreobj.act.push(function(){fcoreobj.lead('egbycdlwjbdieeqlgxltffigeibusyflvb');});
-    </script>
-<!--end finteza test-->    
+<link href="//iface.brightside.me/assets/styles-common-IE-c33b88348c04381fe25eac17541541dbfe941f19.css" rel="stylesheet" type="text/css"/>
+<![endif]-->        
 <!--[if lte IE 8.0]>
-<script type="text/javascript" src="//iface.brightside.me/@/AdMeCommon/Layouts/js/elements.js"></script>
+<script type="text/javascript" src="//iface.brightside.me/@/admefamily/Layouts/js/elements.js"></script>
 <![endif]-->
 
-<script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
-<script type="text/javascript" src="//iface.brightside.me/@/AdMeCommon/Layouts/js/prebid-sovnr.js" async="async"></script>
+<script type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js" async="async"></script>
+<script type="text/javascript" src="https://c.amazon-adsystem.com/aax2/apstag.js" async="async"></script>
 <script>
     var googletag = googletag || {};
     googletag.cmd = googletag.cmd || [];
-
-    var pbjs = pbjs || {};
-    pbjs.que = pbjs.que || [];
 </script>
 <script>
     window.dataLayer = window.dataLayer || [];
         dataLayer.push({"webstats":{"project":3,"pixel":"https:\/\/webstats.thesoul-publishing.com\/track\/ws.gif"}});
     </script>
-<script>
+<script type="text/javascript" src="/@/admefamily/Layouts/js/prebid_10_11_2018.js" async="async"></script>
+<script type="text/javascript">
+    var PREBID_TIMEOUT = 2000;
+    var pbjs = pbjs || {};
+    pbjs.que = pbjs.que || [];
+    pbjs.que.push(function () {
+        pbjs.setConfig({
+            //debug: true,
+            priceGranularity: {
+                "buckets": [{
+                    "precision": 2,
+                    "min": 0.01,
+                    "max": 135,
+                    "increment": 0.01
+                }]
+            },
+            consentManagement: {
+                cmpApi: 'iab',
+                timeout: 120000,
+                allowAuctionWithoutConsent: true
+            },
+        });
+
+        // pbjs.enableAnalytics([{
+        //     provider: 'ga',
+        //     options: {
+        //         enableDistribution: false
+        //     }
+        // }]);
+    });
+
+    var apstag = {
+        init: function () {
+            this._Q.push(['i', arguments]);
+        },
+        fetchBids: function () {
+            this._Q.push(['f', arguments]);
+        },
+        setDisplayBids: function () {
+        },
+        targetingKeys: function () {
+            return [];
+        },
+        _Q: [['i', [{
+            pubID: '1ff8f497-fba4-4240-889b-7e60a73131fd',
+            adServer: 'googletag',
+            gdpr: {
+                cmpTimeout: 120000
+            }
+        }]]]
+    };
+</script>
+
+<script type="text/javascript">
 
     var TSP = {
         DFP: {
-            networkId: '47947404',
+            networkId: '21702212373',
             currentTimestamp: (new Date()).getTime(),
-            prebid: {
-                bids: [
-                    { bidder: 'sovrn', params: { tagid: '489582' } }
-                ],
-                sendAdserverRequest: function() {
-                    if (!pbjs.adserverRequestSent) {
-                        pbjs.adserverRequestSent = true;
-                        googletag.cmd.push(function() {
-                            pbjs.que.push(function() {
-                                pbjs.setTargetingForGPTAsync();
-                            });
-                        });
-                    }
-                },
-                getNewPrebidSlot: function (slotTrg, sizes, divId){
-                    pbjs.que.push(function() {
-                        pbjs.addAdUnits([{code: divId, sizes: sizes, bids: TSP.DFP.prebid.bids }]);
-                        pbjs.requestBids({ bidsBackHandler: TSP.DFP.prebid.sendAdserverRequest });
-                    });
-
-                    return TSP.DFP.getNewSlot(slotTrg, sizes, divId);
-                }
-            },
             triggeredSlots: {
                 csEnded: {}
             },
+            levels: {},
             tags: {},
+            queue: [],
+            consent: null,
+            requestManager: {
+                slots: {},
+                color: '#4caf4f',
+                opColor: '#f44336',
+                timeColor: '#607d8b',
+                console: {},
+                consoleDebug: location.search.indexOf('pbaps') !== -1,
+                consoleAdd: function(slotName, item) {
+                    if (!this.console[slotName]) {
+                        this.console[slotName] = [];
+                    }
+                    var slot = this.console[slotName],
+                        last = slot[slot.length - 1],
+                        debug = this.consoleDebug;
+
+                    if (last === '%c timer I %c done %c') {
+                        debug ? console.log(
+                            slotName + ': ' + item[0],
+                            'background:#35495e;padding:1px;border-radius:3px 0 0 3px;color:#fff',
+                            'background:'+item[1]+';padding:1px;border-radius:0 3px 3px 0;color:#fff',
+                            'background:transparent'
+                        ) : null;
+                    } else {
+                        slot.push(item);
+                        last = slot[slot.length - 1];
+                        if (last[0] === '%c timer I %c done %c') {
+                            debug ? console.group(slotName) : null;
+                            slot.forEach(function(item) {
+                                debug ? console.log(
+                                    item[0],
+                                    'background:#35495e;padding:1px;border-radius:3px 0 0 3px;color:#fff',
+                                    'background:'+item[1]+';padding:1px;border-radius:0 3px 3px 0;color:#fff',
+                                    'background:transparent'
+                                ) : null;
+                            });
+                            debug ? console.groupEnd() : null;
+                        }
+                    }
+                },
+                bidders: {
+                    prebid: {
+                        slots: {},
+                        color: '#03a9f4',
+                        handler: null,
+                        getBidderSlot: null,
+                        update: function(bidderSlot, divId) {
+                            bidderSlot.divId = divId;
+                        },
+                        refresh: function (bidderSlot) {
+                            TSP.DFP.requestManager.consoleAdd(bidderSlot.slotName, ['%c prebid %c refresh %c', this.color]);
+                            pbjs.setTargetingForGPTAsync([bidderSlot.divId]);
+                        },
+                    },
+                    amazon: {
+                        slots: {},
+                        color: '#ff9800',
+                        handler: null,
+                        getBidderSlot: null,
+                        update: function(bidderSlot, bids) {
+                            bidderSlot.bids = bids;
+                        },
+                        refresh: function(bidderSlot) {
+                            TSP.DFP.requestManager.consoleAdd(bidderSlot.slotName, ['%c amazon %c refresh %c', this.color]);
+                            var targetings = apstag.targetingKeys().reduce(function (acc, targeting) {
+                                if (bidderSlot.bids && bidderSlot.bids[0] && bidderSlot.bids[0][targeting]) {
+                                    acc[targeting] = bidderSlot.bids[0][targeting];
+                                }
+                                return acc;
+                            }, {});
+
+                            if(targetings) {
+                                Object.keys(targetings).forEach(function (key) {
+                                    bidderSlot.slot.setTargeting(key, targetings[key]);
+                                });
+                            }
+                        }
+                    }
+                },
+                getBidderSlot: function (bidderSlot) {
+                    return bidderSlot ? this.slots[bidderSlot.slotName] : null;
+                },
+                biddersSlotsReduce: function (fn, acc, bidderSlot) {
+                    var self = this, bidders = this.bidders;
+                    return Object.keys(bidders).reduce(function (acc, bidderName, index) {
+                        var bidder = bidders[bidderName];
+                        bidderSlot = self.getBidderSlot.call(bidder, bidderSlot);
+                        return fn.call(self, acc, bidderSlot, bidder, bidderName, index);
+                    }, acc);
+                },
+                init: function() {
+                    this.biddersSlotsReduce(function (acc, bidderSlot, bidder, bidderName) {
+                        bidder.getBidderSlot = this.getBidderSlot.bind(bidder)
+                        bidder.handler = this.handler.bind(this, bidderName);
+                        return bidder;
+                    });
+                },
+                addBidderSlot: function (defaults, slot) {
+                    var slotName = slot.getSlotId().getId();
+                    var requestManagerSlot = this.getBidderSlot({slotName: slotName});
+
+                    if (!requestManagerSlot) {
+                        requestManagerSlot = {
+                            slot: slot,
+                            slotName: slotName,
+                            ready: false
+                        };
+                        this.slots[slotName] = requestManagerSlot;
+
+                        this.biddersSlotsReduce(function (acc, bidderSlot, bidder, bidderName) {
+                            if (!bidderSlot) {
+                                bidderSlot = {
+                                    slot: slot,
+                                    slotName: slotName,
+                                    ready: false
+                                };
+                                Object.keys(defaults[bidderName]).forEach(function(key) {
+                                    bidderSlot[key] = defaults[bidderName][key]
+                                });
+                                bidder.slots[slotName] = bidderSlot;
+                            }
+                        });
+                    }
+                    return requestManagerSlot;
+                },
+                handler: function (bidderName, defaults, slot) {
+                    var args = Array.prototype.slice.call(arguments, 2);
+
+                    var requestManagerSlot = this.addBidderSlot(defaults, slot),
+                        bidder = this.bidders[bidderName],
+                        bidderSlot = bidder.getBidderSlot(requestManagerSlot);
+
+                    this.consoleAdd(bidderSlot.slotName, ['%c ' + bidderName + ' %c handling %c', bidder.color]);
+
+                    bidderSlot.ready = true;
+                    args[0] = bidderSlot;
+                    bidder.update.apply(bidder, args);
+
+                    var ready = this.biddersSlotsReduce(function (acc, bidderSlot, bidder) {
+                        return acc && (bidderSlot.ready || !bidderSlot.need);
+                    }, true, requestManagerSlot);
+
+                    this.consoleAdd(bidderSlot.slotName, ['%c ' + bidderName + ' %c ' + (!requestManagerSlot.ready ? '' : 'not ') + 'pass to refresh' + ' %c', bidder.color]);
+
+                    if (!requestManagerSlot.ready) {
+                        if (ready) {
+                            this.consoleAdd(bidderSlot.slotName, ['%c ' + bidderName + ' %c request refresh I %c', bidder.color]);
+                            this.refresh(bidderSlot);
+                        }
+                    }
+                },
+                waitTimeout: function(defaults, slot, timeout) {
+                    var requestManagerSlot = this.addBidderSlot(defaults, slot);
+
+                    this.consoleAdd(requestManagerSlot.slotName, ['%c timer I %c start %c', this.opColor]);
+
+                    var needWait = this.biddersSlotsReduce(function (acc, bidderSlot, bidder) {
+                        return acc || bidderSlot.need;
+                    }, false, requestManagerSlot);
+
+                    requestManagerSlot.startTime = Date.now();
+                    if (needWait) {
+                        window.setTimeout(this.refresh.bind(this), timeout, requestManagerSlot);
+                    } else {
+                        this.refresh(requestManagerSlot);
+                    }
+                },
+                refresh: function (bidderSlot) {
+                    var requestManagerSlot = this.getBidderSlot(bidderSlot);
+
+                    this.consoleAdd(requestManagerSlot.slotName, ['%c common %c refresh I ' + (!requestManagerSlot.readyFirst ? '' : 'not ') + 'pass' + ' %c', this.color]);
+                    this.consoleAdd(requestManagerSlot.slotName, ['%c timer I %c time %c ' + (Date.now() - requestManagerSlot.startTime), this.timeColor]);
+
+                    if (!requestManagerSlot.ready) {
+                        requestManagerSlot.ready = true;
+
+                        this.biddersSlotsReduce(function (acc, bidderSlot, bidder) {
+                            return bidder.refresh(bidderSlot);
+                        }, null, requestManagerSlot);
+
+                        googletag.pubads().refresh([requestManagerSlot.slot], { changeCorrelator: true });
+                        this.consoleAdd(requestManagerSlot.slotName, ['%c common %c refresh I %c', this.color]);
+                        this.consoleAdd(requestManagerSlot.slotName, ['%c timer I %c done %c', this.opColor]);
+                    }
+                }
+            },
             getSizes: function (slot) {
                 var sizes = [];
 
@@ -117,10 +303,13 @@
             getSlotTrg: function (slot) {
                 return slot.getTargetingMap();
             },
-            getSlotByFrameId: function(frameId){
-                return googletag.pubads().getSlots().reduce(function(result, slot){
+            getSlotByFrameId: function (frameId) {
+                return googletag.pubads().getSlots().reduce(function (result, slot) {
                     return result === null ? frameId.indexOf(slot.getSlotId().getId()) > 0 ? slot : null : result;
                 }, null);
+            },
+            getDomFrameBySlot: function (slot) {
+                return document.getElementById('google_ads_iframe_' + slot.getSlotId().getId());
             },
             Switch: function (windowFrameId) {
                 var slot = TSP.DFP.getSlotByFrameId(windowFrameId);
@@ -130,97 +319,121 @@
                     var divId = slot.getSlotElementId();
 
                     TSP.DFP.continueCs(divId, sizes, slotTrg, slot);
+
                 }
                 return;
             },
-            getNewSlot: function (slotTrg, sizes, divId){
-                var suffix = slotTrg.cs_level_max.toString() == 1 ? '' : '-x' + slotTrg.cs_level.toString();
-                var newSlot = googletag.defineSlot('/' + TSP.DFP.networkId + '/' + slotTrg.cs_name.toString() + suffix, sizes, divId)
-                    .setTargeting("cs_slot_index", [slotTrg.cs_slot_index.toString()])
-                    .setTargeting("cs_name", [slotTrg.cs_name.toString()])
-                    .setTargeting("cs_level", [slotTrg.cs_level.toString()])
-                    .setTargeting("cs_level_max", [slotTrg.cs_level_max.toString()])
-                    .addService(googletag.pubads());
+            getNewSlot: function (name, level, sizes, divId) {
+                var newSlot = googletag.defineSlot('/' + TSP.DFP.networkId + '/' + name, sizes, divId);
+                                newSlot.setTargeting("cl", level);
+                                newSlot.addService(googletag.pubads());
 
                 return newSlot;
             },
-            removeSlot: function(slot, hide){
+            removeSlot: function (slot, hide, destroy) {
                 var elem = document.getElementById(slot.getSlotElementId()),
                     slotTrg = TSP.DFP.getSlotTrg(slot);
-                elem.setAttribute('data-level', slotTrg.cs_level[0]);
-                elem.setAttribute('data-slot-index', slotTrg.cs_slot_index[0]);
-                elem.setAttribute('data-slot-num', slot.getSlotId().getInstance());
+                elem.setAttribute('data-level', slotTrg.cl[0]);
 
-                googletag.pubads().clear([slot]);
-                googletag.destroySlots([slot]);
+                if (destroy) {
+                    googletag.pubads().clear([slot]);
+                    googletag.destroySlots([slot]);
+                }
 
-                if(hide){
+                if (hide) {
                     elem.style.display = "none";
                     elem.style.width = "0px";
                 }
             },
-            startScrollDependentCs: function(name, divId, sizes, slotIndex, lvl, maxLvl, delay) {
-                googletag.cmd.push(function () {
+            startScrollDependentCs: function (name, divId, sizes, slotIndex, levels, delay, prebidSetup, apsSizes, flags) {
+                if (TSP.DFP.consent) {
+                    TSP.DFP.levels[divId] = levels;
 
-                    var div = document.getElementById(divId);
-                    if (! div) {
-                        return;
-                    }
-
-                    div.parentNode.setAttribute('data-state', 'started');
-
-                    var distance = parseInt(Math.max(document.documentElement.clientHeight, window.innerHeight || 900) * 1.5);
-                    var rendered = false;
-
-                    var bottomLine = function () {
-                        return Math.max(document.documentElement.clientHeight, window.innerHeight || 0) + (window.scrollY || window.pageYOffset);
-                    };
-
-                    function render() {
-                        rendered = true;
-
-                        setTimeout(function() {
-                            var slot = TSP.DFP.getNewSlot({
-                                cs_slot_index: [slotIndex.toString()],
-                                cs_name: [name.toString()],
-                                cs_level: [lvl.toString()],
-                                cs_level_max: [maxLvl.toString()]
-                            }, sizes, divId);
-
-                            googletag.display(divId);
-                            googletag.pubads().refresh([slot]);
-                        }, delay);
-                    }
-
-                    var checkScrollPosition = function () {
-                        if (bottomLine() + distance >= div.offsetTop && !rendered) {
-                            render();
-                            window.removeEventListener('scroll', checkScrollPosition);
+                    googletag.cmd.push(function () {
+                        var div = document.getElementById(divId);
+                        if (!div) {
+                            return;
                         }
-                    };
 
-                    if (bottomLine() + distance >= div.offsetTop) {
-                        render();
-                    } else {
-                        window.addEventListener('scroll', checkScrollPosition);
-                    }
-                });
+                        div.parentNode.setAttribute('data-state', 'started');
+
+                        var distance = parseInt(Math.max(document.documentElement.clientHeight, window.innerHeight || 900) * 1.5);
+                        var rendered = false;
+
+                        var bottomLine = function () {
+                            return Math.max(document.documentElement.clientHeight, window.innerHeight || 0) + (window.scrollY || window.pageYOffset);
+                        };
+
+                        function render() {
+                            rendered = true;
+
+                            setTimeout(function () {
+                                var cs_level = TSP.DFP.levels[divId].shift().toString();
+                                var slot = TSP.DFP.getNewSlot(name, cs_level, sizes, divId);
+                                var defaults = {
+                                    prebid: {need: flags ? flags.prebid : false, divId: divId},
+                                    amazon: {need: flags ? flags.amazon : false}
+                                }
+
+                                if (prebidSetup) {
+                                    pbjs.que.push(function () {
+                                        pbjs.addAdUnits([prebidSetup]);
+                                        pbjs.requestBids({
+                                            timeout: PREBID_TIMEOUT,
+                                            adUnitCodes: [divId],
+                                            bidsBackHandler: TSP.DFP.requestManager.bidders.prebid.handler.bind(TSP.DFP.requestManager.bidders.prebid, defaults, slot, divId)
+                                        });
+                                    });
+                                }
+
+                                if (apsSizes) {
+                                    apstag.fetchBids({
+                                        timeout: PREBID_TIMEOUT,
+                                        slots: [{
+                                            slotID: divId,
+                                            slotName: '/' + TSP.DFP.networkId + '/' + name.toString(),
+                                            sizes: apsSizes
+                                        }]
+                                    }, TSP.DFP.requestManager.bidders.amazon.handler.bind(TSP.DFP.requestManager.bidders.amazon, defaults, slot));
+                                }
+
+                                TSP.DFP.requestManager.waitTimeout(defaults, slot, PREBID_TIMEOUT);
+                                googletag.display(divId);
+
+                            }, delay);
+                        }
+
+                        var checkScrollPosition = function () {
+                            if (bottomLine() + distance >= div.offsetTop && !rendered) {
+                                render();
+                                window.removeEventListener('scroll', checkScrollPosition);
+                            }
+                        };
+
+                        if (bottomLine() + distance >= div.offsetTop) {
+                            render();
+                        } else {
+                            window.addEventListener('scroll', checkScrollPosition);
+                        }
+                    });
+                } else {
+                    TSP.DFP.queue.push(TSP.DFP.startScrollDependentCs.bind(null, name, divId, sizes, slotIndex, levels, delay, prebidSetup, apsSizes, flags));
+                }
             },
-            continueCs: function(divId, sizes, slotTrg, oldSlot) {
-                if (parseInt(slotTrg.cs_level_max[0]) > 1 && parseInt(slotTrg.cs_level[0]) < parseInt(slotTrg.cs_level_max[0])) {
-                    // destroy old slot to use the div again
-                    TSP.DFP.removeSlot(oldSlot);
-
-                    var nextLvl = parseInt(slotTrg.cs_level[0]) + 1;
-                    slotTrg.cs_level[0] = nextLvl.toString();
-
-                    var newSlot = TSP.DFP.getNewSlot(slotTrg, sizes, divId);
-                    googletag.display(divId);
-                    googletag.pubads().refresh([newSlot]);
-
+            continueCs: function (divId, sizes, slotTrg, oldSlot) {
+                if (TSP.DFP.levels[divId].length > 0) {
+                                        oldSlot.setTargeting("cl", [TSP.DFP.levels[divId].shift().toString()]);
+                    
+                    googletag.pubads().refresh([oldSlot], {changeCorrelator: true});
                 } else {
                     Object.keys(TSP.DFP.triggeredSlots.csEnded).forEach(function (trSlotKey) {
-                        var args = { action: 'cs-ended', divId: divId, sizes: sizes, slotTrg: slotTrg, oldSlot: oldSlot };
+                        var args = {
+                            action: 'cs-ended',
+                            divId: divId,
+                            sizes: sizes,
+                            slotTrg: slotTrg,
+                            oldSlot: oldSlot
+                        };
                         var trSlot = TSP.DFP.triggeredSlots.csEnded[trSlotKey];
                         if (trSlot.trigger && trSlot.trigger(args)) {
                             trSlot.action(args);
@@ -230,10 +443,10 @@
                         }
                     });
 
-                    TSP.DFP.removeSlot(oldSlot, true);
+                    TSP.DFP.removeSlot(oldSlot, true, true);
                 }
             },
-            slotListener: function (event) {
+            slotRenderedListener: function (event) {
                 var divId = event.slot.getSlotElementId();
                 var sizes = TSP.DFP.getSizes(event.slot);
                 var slotTrg = TSP.DFP.getSlotTrg(event.slot);
@@ -244,168 +457,216 @@
                     // we have an ad, we may send an event to GA for example.
                     var divElem = document.getElementById(divId);
                     divElem.parentNode.setAttribute('data-state', 'rendered');
-
-                    var slotNum = event.slot.getSlotId().getInstance();
-
-                    var frame = divElem.firstElementChild.firstElementChild;
-                    frame.addEventListener('load', function(){
-                        this.contentWindow.postMessage(JSON.stringify({
-                            namespace: 'AdMeGroup',
-                            action: 'setId',
-                            id: frame.id,
-                            num: slotNum,
-                            currentTimestamp: TSP.DFP.currentTimestamp
-                        }), '*');
-                    });
                 }
             },
-            messageListener: function(event) {
-                var data;
+            slotOnloadListener: function (event) {
+                var frame = TSP.DFP.getDomFrameBySlot(event.slot);
+                var slotNum = event.slot.getSlotId().getInstance();
+                frame.contentWindow.postMessage(JSON.stringify({
+                    namespace: 'AdMeGroup',
+                    action: 'setId',
+                    id: frame.id,
+                    num: slotNum,
+                    currentTimestamp: TSP.DFP.currentTimestamp
+                }), '*');
+            },
+            messageListener: function (event) {
+                var data, str = String(event.data);
 
-                if(event.origin == "https://tpc.googlesyndication.com" && String(event.data).substring(0, 1) === '{') {
+                if (str.substring(0, 1) === '{' && str.indexOf('AdMeGroup') !== -1) {
                     try {
                         data = JSON.parse(event.data);
-                    } catch (ex){
+                    } catch (ex) {
                         data = null;
                     }
 
-                    if(data && data.namespace == 'AdMeGroup' && data.action) {
-
-                        if(TSP.DFP.messageListeners[data.action]){
-                            TSP.DFP.messageListeners[data.action](data);
-                        }
+                    if (data && data.namespace === 'AdMeGroup' && data.action && TSP.DFP.messageListeners[data.action]) {
+                        TSP.DFP.messageListeners[data.action](data);
                     }
                 }
             },
             messageListeners: {
-                continueCs: function(data){
+                continueCs: function (data) {
                     window.TSP.DFP.Switch(data.id);
                 },
-                resize: function(data){
+                resize: function (data) {
                     var slot = TSP.DFP.getSlotByFrameId(data.id).getSlotElementId();
                     slot = document.getElementById(slot);
 
-                    [null, 'firstElementChild', 'firstElementChild'].reduce(function(elem, key){
+                    [null, 'firstElementChild', 'firstElementChild'].reduce(function (elem, key) {
                         elem = key ? elem[key] : elem;
-                        if(data.mode == 'style'){
-                            if(data.width || data.width === 0) {
+                        if (data.mode === 'style') {
+                            if (data.width || data.width === 0) {
                                 elem.style.width = data.width;
                             }
-                            if(data.height || data.height === 0) {
+                            if (data.height || data.height === 0) {
                                 elem.style.height = data.height;
                             }
                         } else {
-                            if(data.width || data.width === 0) {
+                            if (data.width || data.width === 0) {
                                 elem.width = data.width;
                             }
-                            if(data.height || data.height === 0) {
+                            if (data.height || data.height === 0) {
                                 elem.height = data.height;
                             }
                         }
 
                         return elem;
                     }, slot);
+                },
+            },
+        },
+        executeWhenReachedPagePercentage: function (percentage, callback, selector) {
+            if (typeof percentage !== 'number') {
+                console.error(
+                    'First parameter must be a number, got',
+                    typeof percentage,
+                    'instead'
+                );
+            }
+
+            if (typeof callback !== 'function') {
+                console.error(
+                    'Second parameter must be a function, got',
+                    typeof callback,
+                    'instead'
+                );
+            }
+
+            if (selector !== undefined) {
+                var element = document.querySelector(selector);
+            }
+
+            function getDocumentLength() {
+                if (element) {
+                    return Math.max(
+                        element.scrollHeight,
+                        element.offsetHeight,
+                        element.clientHeight
+                    );
+                }
+
+                var D = document;
+                return Math.max(
+                    D.body.scrollHeight, D.documentElement.scrollHeight,
+                    D.body.offsetHeight, D.documentElement.offsetHeight,
+                    D.body.clientHeight, D.documentElement.clientHeight
+                );
+            }
+
+            function getWindowLength() {
+                return window.innerHeight ||
+                    (document.documentElement || document.body).clientHeight;
+            }
+
+            function getScrollableLength() {
+                if (getDocumentLength() > getWindowLength()) {
+                    return getDocumentLength() - getWindowLength();
+                } else {
+                    return 0;
                 }
             }
-        }
+
+            var scrollableLength = getScrollableLength();
+
+            window.addEventListener("resize", function () {
+                scrollableLength = getScrollableLength();
+            }, false);
+
+            function getCurrentScrolledLengthPosition() {
+                return (window.pageYOffset ||
+                    (document.documentElement || document.body.parentNode || document.body).scrollTop) - (element ? element.offsetTop : 0);
+            }
+
+            function getPercentageScrolled() {
+                if (scrollableLength === 0) {
+                    return 100;
+                } else {
+                    return getCurrentScrolledLengthPosition() / scrollableLength * 100;
+                }
+            }
+
+            var executeCallback = (function () {
+                var wasExecuted = false;
+                return function () {
+                    if (!wasExecuted && getPercentageScrolled() > percentage) {
+                        wasExecuted = true;
+                        callback();
+                    }
+                };
+            })();
+
+            if (getDocumentLength() === 0 ||
+                (getWindowLength() / getDocumentLength() * 100 >= percentage)) {
+                callback();
+            } else {
+                window.addEventListener('scroll', executeCallback, false);
+            }
+        },
     };
 
     window.TSP = TSP;
+    TSP.DFP.requestManager.init();
 
-    googletag.cmd.push(function() {
+    googletag.cmd.push(function () {
 
         googletag.pubads().enableSingleRequest();
         googletag.pubads().disableInitialLoad();
-                googletag.pubads().setTargeting("p","brightside");
+                googletag.pubads().setTargeting("p", "brightside");
+                
         
-        if (window.location.href.indexOf('utm_source=fb_r') > 0) {
-            googletag.pubads().setTargeting("fbr","true");
-        }
-
-        googletag.pubads().addEventListener('slotRenderEnded', window.TSP.DFP.slotListener);
+        googletag.pubads().addEventListener('slotRenderEnded', window.TSP.DFP.slotRenderedListener);
+        googletag.pubads().addEventListener('slotOnload', window.TSP.DFP.slotOnloadListener);
         googletag.pubads().collapseEmptyDivs(true);
         googletag.pubads().setCentering(true);
         googletag.enableServices();
 
         window.addEventListener("message", TSP.DFP.messageListener);
-        setTimeout(TSP.DFP.prebid.sendAdserverRequest, 700);
     });
-</script>    <script type="text/javascript">
-    TSP.DFP.tags.teads = function(frameId, pid, lang, mobile, selector) {
+</script>
+    <script type="text/javascript">
+    TSP.DFP.tags.teads = function(frameId, pid, lang, mobile, selector, pageid) {
         var elem = document.getElementById(frameId);
         elem.contentWindow.location = 'about:blank';
         elem.parentElement.parentElement.style.height = "inherit";
         elem.style.width = "100%";
         elem.style.height = "0px";
+
+        TSP.DFP.tags.teadsFrameId = frameId;
 
         selector = !selector ? '#' + elem.parentElement.id : selector;
         selector = selector.replace(/\//g, '\\$&');
-        var needLib = !window._ttf;
 
-        window._ttf = window._ttf || [];
-        window._ttf.push({
-            pid: pid,
-            lang: lang,
-            slot: selector,
-            format: 'inread',
-            mobile: mobile,
-            minSlot: 1,
-            components: {skip: {delay: 0}},
-            mutable: true,
-            css: "padding: 0px 0px 16px;",
-            passBack: function() {
-                TSP.DFP.Switch(frameId);
+        (function (w, d, s) {
+            function ttag() {
+                w.teads.page(pageid).placement(pid, {
+                    slider: {
+                        allow_corner_position: false,
+                        allow_top_position: false
+                    },
+                    "css": "padding: 0px 0px 16px;",
+                    "format": "inread",
+                    "slot": {
+                        "selector": selector,
+                        "minimum": 1
+                    }
+                }).passback(function passback() {
+                    TSP.DFP.Switch(TSP.DFP.tags.teadsFrameId);
+                }).serve();
             }
-        });
-
-        if(needLib) {
-            var js = document.createElement('script'),
-                s = document.getElementsByTagName('script')[0];
-            js.type = "text/javascript";
-            js.async = true;
-            js.src = '//cdn.teads.tv/media/format.js';
-            s.parentNode.insertBefore(js, s);
-        }
-    };
-</script><script type="text/javascript">
-    TSP.DFP.tags.seedr = function(frameId, gid, divId) {
-        var elem = document.getElementById(frameId);
-        elem.contentWindow.location = 'about:blank';
-        elem.parentElement.parentElement.style.width = "100%";
-        elem.parentElement.parentElement.style.height = "inherit";
-        elem.style.width = "100%";
-        elem.style.height = "0px";
-
-        divId = !divId ? elem.parentElement : document.getElementById(divId);
-
-        if(!window.SeedrPlayer) {
-            (function (a, b, c, d, e, f, g, h) {
-                g = b.createElement(c);
-                g.src = d;
-                g.type = "application/javascript";
-                g.async = true;
-                g.onload = showAd;
-                h = b.getElementsByTagName(c)[0];
-                h.parentNode.insertBefore(g, h);
-                a[f] = [];
-                a[e] = function () {
-                    a[f].push(Array.prototype.slice.apply(arguments));
-                }
-            })(window, document, "script", (document.location.protocol ===
-                "https:" ? "https:" : "http:") + "//cdn01.nativeroll.tv/js/seedr-player.min.js",
-                "SeedrPlayer", "seedrInit"
-            );
-        } else {
-            showAd();
-        }
-
-        function showAd() {
-            SeedrPlayer(divId, 50, {
-                gid: gid, onError: function() {
-                    TSP.DFP.Switch(frameId);
-                }
-            });
-        }
+            try {
+                d = w.top.document || d;
+                w = w.top.document ? w.top : w;
+            } catch (e) {}
+            if (w.teads && w.teads.page) {
+                ttag();
+            } else if (!w.teadsscript) {
+                s.src = '//cdn.teads.tv/media/format/v3/teads-format.min.js';
+                s.async = true;
+                s.onload = ttag;
+                w.teadsscript = d.getElementsByTagName('head')[0].appendChild(s);
+            }
+        })(window, document, document.createElement('script'));
     };
 </script><script type="text/javascript">
     TSP.DFP.tags.vengovision = function(frameId, siteId, divId) {
@@ -480,11 +741,12 @@
 </script></head>
 <body data-domain="brightside.me" data-locale-short="en" data-locale-full="en_US" data-twitter-account="bright_side_me">
 <div class="top-ad" align="center">
-    <div id="div-gpt-ad-3418683169874-0" class="dfp-ad-block-div" style="width:1000px;">
-    <script>
-        window.TSP.DFP.startScrollDependentCs('desktop-topline', 'div-gpt-ad-3418683169874-0', [[1000,120],[1000,250],[728,90],[750,100],[750,200],[930,180],[950,90],[960,90],[970,90],[970,250],[980,90],[980,120]], '0', 1, 5, 0);
+    <div id="div-gpt-ad-9257220555557-1" class="dfp-ad-block-div ">
+    <script type="text/javascript">
+        window.TSP.DFP.startScrollDependentCs('d-billboard', 'div-gpt-ad-9257220555557-1', [[1000,250],[1000,120],[1000,90],[980,120],[980,90],[970,250],[970,90],[960,90],[950,90],[930,180],[750,200],[750,100],[728,90]], '1', ["first","last"], 0, {"code":"div-gpt-ad-9257220555557-1","sizes":[[1000,250],[1000,120],[1000,90],[980,120],[980,90],[970,250],[970,90],[960,90],[950,90],[930,180],[750,200],[750,100],[728,90]],"bids":[{"bidder":"appnexus","params":{"placementId":12957591}},{"bidder":"criteo","params":{"zoneId":1177711}},{"bidder":"rhythmone","params":{"placementId":77813}},{"bidder":"conversant","params":{"site_id":"117476"}},{"bidder":"aol","params":{"placement":4853026,"network":"11461.1"}},{"bidder":"ix","params":{"siteId":"210042","size":[970,250]}}]}, [[970,250],[728,90]], {"prebid":true,"amazon":true});
     </script>
-</div></div>
+</div>
+</div>
 <main class="page"><div class="wrap footer-placeholder">
         <!-- Header -->
         <header class="new-header">
@@ -525,31 +787,31 @@
                     </ul>
                     <div class="fresh">
                             <ul>
-                                <li class=" js-webstats-reach js-webstats-click " data-id="399210">
-                <a class="fresh-pic" href="/inspiration-psychology/these-11-tricks-will-prevent-you-from-quitting-the-gym-after-1-month-399210/">
-                    <img alt="These&nbsp;11 Tricks Will Prevent You From Quitting the Gym After&nbsp;1 Month" title="These&nbsp;11 Tricks Will Prevent You From Quitting the Gym After&nbsp;1 Month" width="70" height="70" src="https://files.brightside.me/files/news/part_39/399210/preview-17088460-70x70-70-1511030623.jpg">
+                                <li class=" js-webstats-reach js-webstats-click " data-id="668260">
+                <a class="fresh-pic" href="/inspiration-girls-stuff/9-popular-beauty-procedures-beauticians-would-never-get-done-on-themselves-668260/">
+                    <img alt="9&nbsp;Popular Beauty Procedures Beauticians Would Never Get Done on&nbsp;Themselves" title="9&nbsp;Popular Beauty Procedures Beauticians Would Never Get Done on&nbsp;Themselves" width="70" height="70" src="https://files.brightside.me/files/news/part_66/668260/preview-8695860-70x70-70-1545735253.jpg">
                 </a>
                 <div class="fresh-inner">
                     <p>
-                        <a href="/inspiration-psychology/these-11-tricks-will-prevent-you-from-quitting-the-gym-after-1-month-399210/" data-ga-category="InternalClicks" data-ga-action="MenuArticles">These&nbsp;11 Tricks Will Prevent You From Quitting the Gym After&nbsp;1 Month</a>                    </p>
+                        <a href="/inspiration-girls-stuff/9-popular-beauty-procedures-beauticians-would-never-get-done-on-themselves-668260/" data-ga-category="User behavior" data-ga-action="Article Menu">9&nbsp;Popular Beauty Procedures Beauticians Would Never Get Done on&nbsp;Themselves</a>                    </p>
                 </div>
             </li>
-                                <li class=" js-webstats-reach js-webstats-click " data-id="399160">
-                <a class="fresh-pic" href="/inspiration-health/our-ears-can-indicate-our-health-and-these-8-factors-shouldnt-be-ignored-399160/">
-                    <img alt="Our Ears Can Indicate Our Health, and These&nbsp;8 Factors Shouldn’t Be&nbsp;Ignored" title="Our Ears Can Indicate Our Health, and These&nbsp;8 Factors Shouldn’t Be&nbsp;Ignored" width="70" height="70" src="https://files.brightside.me/files/news/part_39/399160/preview-17086810-70x70-70-1511030342.jpg">
+                                <li class=" js-webstats-reach js-webstats-click " data-id="668210">
+                <a class="fresh-pic" href="/inspiration-health/8-home-first-aid-kit-rules-we-often-ignore-and-it-can-affect-our-health-668210/">
+                    <img alt="8&nbsp;Home First-Aid Kit Rules We&nbsp;Often Ignore, and It&nbsp;Can Affect Our Health" title="8&nbsp;Home First-Aid Kit Rules We&nbsp;Often Ignore, and It&nbsp;Can Affect Our Health" width="70" height="70" src="https://files.brightside.me/files/news/part_66/668210/preview-8693410-70x70-70-1545734070.jpg">
                 </a>
                 <div class="fresh-inner">
                     <p>
-                        <a href="/inspiration-health/our-ears-can-indicate-our-health-and-these-8-factors-shouldnt-be-ignored-399160/" data-ga-category="InternalClicks" data-ga-action="MenuArticles">Our Ears Can Indicate Our Health, and These&nbsp;8 Factors Shouldn’t Be&nbsp;Ignored</a>                    </p>
+                        <a href="/inspiration-health/8-home-first-aid-kit-rules-we-often-ignore-and-it-can-affect-our-health-668210/" data-ga-category="User behavior" data-ga-action="Article Menu">8&nbsp;Home First-Aid Kit Rules We&nbsp;Often Ignore, and It&nbsp;Can Affect Our Health</a>                    </p>
                 </div>
             </li>
-                                <li class=" js-webstats-reach js-webstats-click " data-id="399060">
-                <a class="fresh-pic" href="/inspiration-psychology/these-incredible-optical-illusions-will-give-your-brain-a-workout-399060/">
-                    <img alt="18&nbsp;Incredible Optical Illusions That Will Give Your Brain a&nbsp;Workout" title="18&nbsp;Incredible Optical Illusions That Will Give Your Brain a&nbsp;Workout" width="70" height="70" src="https://files.brightside.me/files/news/part_39/399060/preview-17081660-70x70-70-1511009624.jpg">
+                                <li class=" js-webstats-reach js-webstats-click " data-id="667860">
+                <a class="fresh-pic" href="/inspiration-health/scientists-claim-taking-a-nap-can-prevent-diseases-improve-your-memory-speed-up-weight-loss-and-even-more-667860/">
+                    <img alt="Scientists Claim Taking a&nbsp;Nap Can Prevent Diseases, Improve Your Memory, Speed Up&nbsp;Weight Loss, and Even More" title="Scientists Claim Taking a&nbsp;Nap Can Prevent Diseases, Improve Your Memory, Speed Up&nbsp;Weight Loss, and Even More" width="70" height="70" src="https://files.brightside.me/files/news/part_66/667860/preview-8682410-70x70-70-1545728122.jpg">
                 </a>
                 <div class="fresh-inner">
                     <p>
-                        <a href="/inspiration-psychology/these-incredible-optical-illusions-will-give-your-brain-a-workout-399060/" data-ga-category="InternalClicks" data-ga-action="MenuArticles">18&nbsp;Incredible Optical Illusions That Will Give Your Brain a&nbsp;Workout</a>                    </p>
+                        <a href="/inspiration-health/scientists-claim-taking-a-nap-can-prevent-diseases-improve-your-memory-speed-up-weight-loss-and-even-more-667860/" data-ga-category="User behavior" data-ga-action="Article Menu">Scientists Claim Taking a&nbsp;Nap Can Prevent Diseases, Improve Your Memory, Speed Up&nbsp;Weight Loss, and Even More</a>                    </p>
                 </div>
             </li>
             </ul>
@@ -557,10 +819,10 @@
                 </div>
                 <ul class="header__nav-footer">
         <li><a href="/article/how-we-make-bright-side-83405/">About Bright Side</a></li>
-        <li><a href="/article/vacancy-freelance-writer-for-bright-side-83455/">Vacancy</a></li>
         <li><a href="https://thesoul-publishing.com/#contacts">Contact us</a></li>
-        <li><a href="/article/copyright-policy-117605/">Copyright policy</a></li>
         <li><a href="/privacy/">Privacy policy</a></li>
+        <li><a href="/copyrights/">Copyright Policy</a></li>
+        <li><a href="/cookies/">Cookies Policy</a></li>
     </ul>            </div>
         </li>
                     <li class="header-nav-sec js-main-menu-container">
@@ -596,31 +858,31 @@
                     </ul>
                     <div class="fresh">
                             <ul>
-                                <li class=" js-webstats-reach js-webstats-click " data-id="399260">
-                <a class="fresh-pic" href="/creativity-photography/24-photo-proofs-of-why-men-never-get-bored-399260/">
-                    <img alt="24&nbsp;Photo Proofs of&nbsp;Why Men Live Less Than Women" title="24&nbsp;Photo Proofs of&nbsp;Why Men Live Less Than Women" width="70" height="70" src="https://files.brightside.me/files/news/part_39/399260/preview-17091660-70x70-70-1511030957.jpg">
+                                <li class=" js-webstats-reach js-webstats-click " data-id="668310">
+                <a class="fresh-pic" href="/creativity-home/7-cleaning-systems-that-can-save-you-a-ton-of-time-668310/">
+                    <img alt="7&nbsp;Cleaning Systems That Can Save You a&nbsp;Ton of&nbsp;Time" title="7&nbsp;Cleaning Systems That Can Save You a&nbsp;Ton of&nbsp;Time" width="70" height="70" src="https://files.brightside.me/files/news/part_66/668310/preview-8696910-70x70-70-1545736417.jpg">
                 </a>
                 <div class="fresh-inner">
                     <p>
-                        <a href="/creativity-photography/24-photo-proofs-of-why-men-never-get-bored-399260/" data-ga-category="InternalClicks" data-ga-action="MenuArticles">24&nbsp;Photo Proofs of&nbsp;Why Men Live Less Than Women</a>                    </p>
+                        <a href="/creativity-home/7-cleaning-systems-that-can-save-you-a-ton-of-time-668310/" data-ga-category="User behavior" data-ga-action="Article Menu">7&nbsp;Cleaning Systems That Can Save You a&nbsp;Ton of&nbsp;Time</a>                    </p>
                 </div>
             </li>
-                                <li class=" js-webstats-reach js-webstats-click " data-id="398960">
-                <a class="fresh-pic" href="/creativity-design/12-inventions-created-to-start-saving-the-worldtoday-398960/">
-                    <img alt="12&nbsp;Inventions Created to&nbsp;Start Saving the World...Today" title="12&nbsp;Inventions Created to&nbsp;Start Saving the World...Today" width="70" height="70" src="https://files.brightside.me/files/news/part_39/398960/preview-17078110-70x70-70-1510981995.jpg">
+                                <li class=" js-webstats-reach js-webstats-click " data-id="668160">
+                <a class="fresh-pic" href="/creativity-art/a-russian-confectioner-makes-cakes-that-are-so-magnificent-any-museum-would-love-to-expose-them-668160/">
+                    <img alt="A&nbsp;Russian Confectioner Makes Cakes That Are So&nbsp;Magnificent, Any Museum Would Love to&nbsp;Expose Them" title="A&nbsp;Russian Confectioner Makes Cakes That Are So&nbsp;Magnificent, Any Museum Would Love to&nbsp;Expose Them" width="70" height="70" src="https://files.brightside.me/files/news/part_66/668160/preview-8692560-70x70-70-1545731315.jpg">
                 </a>
                 <div class="fresh-inner">
                     <p>
-                        <a href="/creativity-design/12-inventions-created-to-start-saving-the-worldtoday-398960/" data-ga-category="InternalClicks" data-ga-action="MenuArticles">12&nbsp;Inventions Created to&nbsp;Start Saving the World...Today</a>                    </p>
+                        <a href="/creativity-art/a-russian-confectioner-makes-cakes-that-are-so-magnificent-any-museum-would-love-to-expose-them-668160/" data-ga-category="User behavior" data-ga-action="Article Menu">A&nbsp;Russian Confectioner Makes Cakes That Are So&nbsp;Magnificent, Any Museum Would Love to&nbsp;Expose Them</a>                    </p>
                 </div>
             </li>
-                                <li class=" js-webstats-reach js-webstats-click " data-id="398610">
-                <a class="fresh-pic" href="/creativity-photography/these-18-photos-embody-a-crime-against-humanity-398610/">
-                    <img alt="These&nbsp;18 Photos Embody &quot;A&nbsp;Crime Against Humanity&quot;" title="These&nbsp;18 Photos Embody &quot;A&nbsp;Crime Against Humanity&quot;" width="70" height="70" src="https://files.brightside.me/files/news/part_39/398610/preview-17066860-70x70-70-1510931820.jpg">
+                                <li class=" js-webstats-reach js-webstats-click " data-id="668010">
+                <a class="fresh-pic" href="/creativity-art/an-israeli-artist-illustrates-crazy-moments-of-his-family-life-and-theres-a-lot-we-can-learn-from-him-668010/">
+                    <img alt="An&nbsp;Israeli Artist Illustrates Crazy Moments of&nbsp;His Family Life, and There’s a&nbsp;Lot We&nbsp;Can Learn From Him" title="An&nbsp;Israeli Artist Illustrates Crazy Moments of&nbsp;His Family Life, and There’s a&nbsp;Lot We&nbsp;Can Learn From Him" width="70" height="70" src="https://files.brightside.me/files/news/part_66/668010/preview-8688460-70x70-70-1545729048.jpg">
                 </a>
                 <div class="fresh-inner">
                     <p>
-                        <a href="/creativity-photography/these-18-photos-embody-a-crime-against-humanity-398610/" data-ga-category="InternalClicks" data-ga-action="MenuArticles">These&nbsp;18 Photos Embody "A&nbsp;Crime Against Humanity"</a>                    </p>
+                        <a href="/creativity-art/an-israeli-artist-illustrates-crazy-moments-of-his-family-life-and-theres-a-lot-we-can-learn-from-him-668010/" data-ga-category="User behavior" data-ga-action="Article Menu">An&nbsp;Israeli Artist Illustrates Crazy Moments of&nbsp;His Family Life, and There’s a&nbsp;Lot We&nbsp;Can Learn From Him</a>                    </p>
                 </div>
             </li>
             </ul>
@@ -628,10 +890,10 @@
                 </div>
                 <ul class="header__nav-footer">
         <li><a href="/article/how-we-make-bright-side-83405/">About Bright Side</a></li>
-        <li><a href="/article/vacancy-freelance-writer-for-bright-side-83455/">Vacancy</a></li>
         <li><a href="https://thesoul-publishing.com/#contacts">Contact us</a></li>
-        <li><a href="/article/copyright-policy-117605/">Copyright policy</a></li>
         <li><a href="/privacy/">Privacy policy</a></li>
+        <li><a href="/copyrights/">Copyright Policy</a></li>
+        <li><a href="/cookies/">Cookies Policy</a></li>
     </ul>            </div>
         </li>
                     <li class="header-nav-sec js-main-menu-container">
@@ -667,31 +929,31 @@
                     </ul>
                     <div class="fresh">
                             <ul>
-                                <li class=" js-webstats-reach js-webstats-click " data-id="399260">
-                <a class="fresh-pic" href="/creativity-photography/24-photo-proofs-of-why-men-never-get-bored-399260/">
-                    <img alt="24&nbsp;Photo Proofs of&nbsp;Why Men Live Less Than Women" title="24&nbsp;Photo Proofs of&nbsp;Why Men Live Less Than Women" width="70" height="70" src="https://files.brightside.me/files/news/part_39/399260/preview-17091660-70x70-70-1511030957.jpg">
+                                <li class=" js-webstats-reach js-webstats-click " data-id="668560">
+                <a class="fresh-pic" href="/wonder-animals/20-adorable-dogs-we-fell-in-love-with-once-and-forever-668560/">
+                    <img alt="20&nbsp;Adorable Dogs We&nbsp;Fell in&nbsp;Love With Once and Forever" title="20&nbsp;Adorable Dogs We&nbsp;Fell in&nbsp;Love With Once and Forever" width="70" height="70" src="https://files.brightside.me/files/news/part_66/668560/preview-8704360-70x70-70-1545742036.jpg">
                 </a>
                 <div class="fresh-inner">
                     <p>
-                        <a href="/creativity-photography/24-photo-proofs-of-why-men-never-get-bored-399260/" data-ga-category="InternalClicks" data-ga-action="MenuArticles">24&nbsp;Photo Proofs of&nbsp;Why Men Live Less Than Women</a>                    </p>
+                        <a href="/wonder-animals/20-adorable-dogs-we-fell-in-love-with-once-and-forever-668560/" data-ga-category="User behavior" data-ga-action="Article Menu">20&nbsp;Adorable Dogs We&nbsp;Fell in&nbsp;Love With Once and Forever</a>                    </p>
                 </div>
             </li>
-                                <li class=" js-webstats-reach js-webstats-click " data-id="399310">
-                <a class="fresh-pic" href="/wonder-films/these-12-movie-stars-dont-appear-in-dangerous-or-sensitive-scenesthese-people-do-it-for-them-399310/">
-                    <img alt="These&nbsp;12 Movie Stars Don’t Appear in&nbsp;Dangerous or&nbsp;Sensitive Scenes...These People Do&nbsp;It&nbsp;For Them" title="These&nbsp;12 Movie Stars Don’t Appear in&nbsp;Dangerous or&nbsp;Sensitive Scenes...These People Do&nbsp;It&nbsp;For Them" width="70" height="70" src="https://files.brightside.me/files/news/part_39/399310/preview-17094160-70x70-70-1511031085.jpg">
+                                <li class=" js-webstats-reach js-webstats-click " data-id="668510">
+                <a class="fresh-pic" href="/wonder-people/a-girl-from-russia-travels-around-the-world-to-capture-the-variety-of-female-beauty-and-we-cant-get-enough-668510/">
+                    <img alt="A&nbsp;Girl From Russia Travels Around the World to&nbsp;Capture the Variety of&nbsp;Female Beauty, and We&nbsp;Can’t Get Enough" title="A&nbsp;Girl From Russia Travels Around the World to&nbsp;Capture the Variety of&nbsp;Female Beauty, and We&nbsp;Can’t Get Enough" width="70" height="70" src="https://files.brightside.me/files/news/part_66/668510/preview-8702710-70x70-70-1545741911.jpg">
                 </a>
                 <div class="fresh-inner">
                     <p>
-                        <a href="/wonder-films/these-12-movie-stars-dont-appear-in-dangerous-or-sensitive-scenesthese-people-do-it-for-them-399310/" data-ga-category="InternalClicks" data-ga-action="MenuArticles">These&nbsp;12 Movie Stars Don’t Appear in&nbsp;Dangerous or&nbsp;Sensitive Scenes...These People Do&nbsp;It&nbsp;For Them</a>                    </p>
+                        <a href="/wonder-people/a-girl-from-russia-travels-around-the-world-to-capture-the-variety-of-female-beauty-and-we-cant-get-enough-668510/" data-ga-category="User behavior" data-ga-action="Article Menu">A&nbsp;Girl From Russia Travels Around the World to&nbsp;Capture the Variety of&nbsp;Female Beauty, and We&nbsp;Can’t Get Enough</a>                    </p>
                 </div>
             </li>
-                                <li class=" js-webstats-reach js-webstats-click " data-id="399110">
-                <a class="fresh-pic" href="/wonder-people/the-23-best-photobombs-that-made-these-weddings-even-more-memorable-399110/">
-                    <img alt="The&nbsp;23 Best Photobombs That Made These Weddings Even More Memorable" title="The&nbsp;23 Best Photobombs That Made These Weddings Even More Memorable" width="70" height="70" src="https://files.brightside.me/files/news/part_39/399110/preview-17084710-70x70-70-1511020088.jpg">
+                                <li class=" js-webstats-reach js-webstats-click " data-id="668410">
+                <a class="fresh-pic" href="/wonder-curiosities/9-weird-accessories-that-were-terribly-popular-back-in-the-day-668410/">
+                    <img alt="9&nbsp;Weird Accessories That Were Terribly Popular Back in&nbsp;the Day" title="9&nbsp;Weird Accessories That Were Terribly Popular Back in&nbsp;the Day" width="70" height="70" src="https://files.brightside.me/files/news/part_66/668410/preview-8699760-70x70-70-1545740346.jpg">
                 </a>
                 <div class="fresh-inner">
                     <p>
-                        <a href="/wonder-people/the-23-best-photobombs-that-made-these-weddings-even-more-memorable-399110/" data-ga-category="InternalClicks" data-ga-action="MenuArticles">The&nbsp;23 Best Photobombs That Made These Weddings Even More Memorable</a>                    </p>
+                        <a href="/wonder-curiosities/9-weird-accessories-that-were-terribly-popular-back-in-the-day-668410/" data-ga-category="User behavior" data-ga-action="Article Menu">9&nbsp;Weird Accessories That Were Terribly Popular Back in&nbsp;the Day</a>                    </p>
                 </div>
             </li>
             </ul>
@@ -699,10 +961,10 @@
                 </div>
                 <ul class="header__nav-footer">
         <li><a href="/article/how-we-make-bright-side-83405/">About Bright Side</a></li>
-        <li><a href="/article/vacancy-freelance-writer-for-bright-side-83455/">Vacancy</a></li>
         <li><a href="https://thesoul-publishing.com/#contacts">Contact us</a></li>
-        <li><a href="/article/copyright-policy-117605/">Copyright policy</a></li>
         <li><a href="/privacy/">Privacy policy</a></li>
+        <li><a href="/copyrights/">Copyright Policy</a></li>
+        <li><a href="/cookies/">Cookies Policy</a></li>
     </ul>            </div>
         </li>
             </ul>
@@ -711,11 +973,16 @@
     <ul class="header-inner-nav">
     </ul>
     <form action="/search/" class="search js-search">
+        <a href="#" class="search__link"></a>
         <fieldset>
-            <input class="search-field search-focused" type="text" name="q"> <span class="search-button" title="Find"><input type="submit" value="Find"></span>
+            <input class="search-field" type="text" name="q">
+            <span class="search-button" title="Find">
+                <input type="submit" value="Find">
+            </span>
         </fieldset>
     </form>
-</div>
+                <a href="/profile/login/" class="subscribe js-auth">Log in</a>
+    </div>
 
         </header>
         <!-- /Header -->
@@ -726,392 +993,324 @@
     .privacy h3 {font-size:20px; padding-bottom:10px;}
 
 </style>
-<section class="privacy content justcontent">
+<section class="privacy content justcontent gdpr__dialog_disabled">
     <article class="article">
         <h2>Privacy Policy</h2>
         <p>
-            Welcome to our Privacy Policy (henceforth, <u>“this Policy”</u>). We have compiled this Policy to help you
-            better understand the nature of your relationship with us and enable you to make informed decisions
-            about certain aspects of our relationship. Because of that, we encourage you to read this Policy
-            carefully. You continued use of our website confirms your agreement with this Policy.
+            Last updated on&nbsp;25&nbsp;May, 2018
         </p>
         <p>
-            We understand and respect your concerns about the privacy of your personal information. Because of
-            this and because trust is the main building block of our business, we wish to explain some of the key
-            principles underpinning this Policy. This Policy is intended to attain the following objectives:
+            Welcome to&nbsp;the Privacy Policy of&nbsp;*Bright Side. The privacy of&nbsp;our website visitors is&nbsp;very important to&nbsp;us, and we&nbsp;are committed to&nbsp;safeguarding&nbsp;it. This policy explains what we&nbsp;will do&nbsp;with your personal information.
         </p>
+
+        <p style="padding: 0 0 0 25px;">
+            <i>
+                *Bright Side («<u>our Website</u>») is&nbsp;owned and operated by&nbsp;ADME (CY) LTD («<u>we</u>»,&nbsp;«<u>us</u>», or&nbsp;«<u>our</u>»).
+            </i>
+        </p>
+
+        <h3>1. Types of&nbsp;Personal Information That Might Be&nbsp;Collected</h3>
+
+        <p>
+            When you visit our Website, the following types of&nbsp;*Personally Identifiable Information (as&nbsp;such term is&nbsp;explained at&nbsp;the end of&nbsp;this Section) about you may be&nbsp;collected:
+        </p>
+
         <ul>
-            <li>ensure that you understand what kind of information about you we collect with your permission;</li>
-            <li>explain what we do with such information; and</li>
-            <li>hold us accountable for protecting your rights and your privacy under this Policy.</li>
+            <li>your&nbsp;IP address;</li>
+            <li>your operating system and browser software used to&nbsp;access our Website;</li>
+            <li>other information, as&nbsp;will be&nbsp;explained in&nbsp;Section&nbsp;4 (<i>With Whom We&nbsp;Share Information</i>) below; <br>and</li>
+            <li>in&nbsp;the event you contact&nbsp;us by&nbsp;email, we&nbsp;may keep a&nbsp;record of&nbsp;that correspondence; such record may include, apart from your email address, the Personally Identifiable Information that you will include in&nbsp;the communication.</li>
         </ul>
-        <h3>Personal Information We Collect</h3>
-        <p>
-            As used in this Policy, “personal information” is understood as all data that relates to an identifiable
-            human being whose identity is apparent, or can reasonably be inferred, from the data.
-        </p>
-        <p>
-            Our website does not collect your personal information, with the exception of your IP address and
-            certain information collected by Google Analytics, as will be explained below. In addition, our website
-            may be detecting non-personally identifiable geo-location information to optimize our service, however
-            our website does not collect your precise geo-location or associate the detected geo-location data
-            with a specific user. We do not sell your personal information to advertisers or other third parties. In
-            certain instances, we may request your email address to communicate with you. If this happens, your
-            email address will only be used to communicate with you and deleted upon your request.
-        </p>
-        <h3>Use of IP Addresses and Browser Settings</h3>
-        <p>
-            When you visit our website, we register the IP address and browser settings of your computer or other
-            device. The IP address is the numerical address of your computer or other device used to visit our
-            website. Browser settings can include the type of browser you use, browser language and time zone.
-            We collect this information so that we can trace the computer or device used in cases of misuse or
-            unlawful actions in connection with visits to or use of our website. Moreover, we may collect this
-            information for various internal business purposes, such as:
-        </p>
+
+        <p>Such data are collected by&nbsp;Our Partners (as&nbsp;such term is&nbsp;explained in&nbsp;Section&nbsp;4).</p>
+
+        <p>If&nbsp;you wish to&nbsp;register on&nbsp;our Website in&nbsp;order to&nbsp;receive our subscription-based services, we&nbsp;will ask you to&nbsp;provide the following data:</p>
+
         <ul>
-            <li>generating statistics;</li>
-            <li>measuring traffic and popularity of content areas;</li>
-            <li>gathering broad demographic data for prospective advertisers;</li>
-            <li>identifying usage trends and expanding our business activities;</li>
-            <li>general data analysis and administering our site and affiliated sites;</li>
-            <li>improving or modifying our website, developing new services and functionality; and</li>
-            <li>
-                complying with applicable legal requirements and legal process, requests from governmental authorities,
-                relevant industry standards and our internal policies.
-            </li>
+            <li>your email address;</li>
+            <li>your gender; <br>and</li>
+            <li>your date of&nbsp;birth.</li>
         </ul>
+
         <p>
-            We may also use your IP address and browser settings in other manners and for other purposes for
-            which we will provide specific notice on this website at the time of collection. We may use or disclose
-            your IP address and browser settings for any legitimate purpose to the extent permitted by applicable law.
+            In&nbsp;addition, when subscribing for any of&nbsp;the services offered on&nbsp;our Website you will be&nbsp;requested to&nbsp;identify your display name and choose your profile image which may be&nbsp;an&nbsp;avatar or&nbsp;a&nbsp;photo. The display name is&nbsp;what will be&nbsp;displayed next to&nbsp;your comments on&nbsp;our Website. We&nbsp;strongly encourage you not to&nbsp;use your real-life name and/or surname as&nbsp;your display name.
         </p>
-        <h3>Google Analytics</h3>
+
         <p>
-            We use a tool commonly known as “Google Analytics”, an industry standard analytics tool operated by
-            Google, to collect information about use of our website. We also rely on Google Analytics for
-            purposes of display advertising and personalized advertising, as such terms will be explained below.
-            Google Analytics collects information such as how often users visit our website and what other sites
-            they visited prior to reaching our website. We use the information we obtain from Google Analytics for
-            the purposes of improving our website.
+            We&nbsp;never share with third parties any of&nbsp;the data supplied by&nbsp;you as&nbsp;part of&nbsp;subscription-based services/registration.
         </p>
+
+        <h3>2. Ways Personal Information Might Be&nbsp;Used</h3>
+
         <p>
-            Google Analytics collects only the&nbsp;IP&nbsp;address assigned to your computer or other device and your
-            browser settings on the date you visit our website, rather than your name or other identifying
-            information. We never combine the information collected through the use of Google Analytics with any
-            other kind of personally identifiable information. Although Google Analytics will usually plant a
-            permanent cookie on your web browser to identify you as a unique user the next time you visit our
-            website, such cookie cannot be used by anyone but Google. The ability of Google to use and share
-            information collected by Google Analytics about your visits to our website is restricted by the
-            <a href="https://www.google.com/analytics/tos.html" target="_blank" rel="noopener noreferrer">
-                Google Analytics Terms of Use
-            </a> and the
-            <a href="https://www.google.com/privacypolicy.html" target="_blank" rel="noopener noreferrer">Google Privacy Policy</a>.
-            Please note that you can prevent Google
-            Analytics from recognizing you on return visits to our website by&nbsp;disabling cookies on the browser of
-            your computer or device.
+            <i>Use of&nbsp;Personal Data by&nbsp;Us.</i> We&nbsp;collect and use your Personally Identifiable Information for the following legitimate business purposes of&nbsp;ADME (CY) LTD and the group of&nbsp;companies to&nbsp;which it&nbsp;belongs:
         </p>
-        <h3>Cookies</h3>
-        <p>
-            We may use cookies in order to customize our website for return visitors. These cookies are not
-            required for website functionality. In addition, third-party ad networks and our business partners, such
-            as Facebook or YouTube, may install cookies depending on their configuration. You are not required
-            to accept cookies in order to be able to use our website. Please note, further, that many web browsers
-            contain a feature allowing you to manage your preferences with respect to cookies. More specifically,
-            you can set your browser to refuse certain cookies or delete them entirely. You may be able to
-            manage other technologies in the same way that you manage cookies using your browser’s
-            preferences. On the other hand, please be mindful that if you choose to block cookies, doing so may
-            prevent certain features on our website from functioning.
-        </p>
-        <p>
-            A cookie is a small file placed on your computer or other device when you visit a website that can be
-            understood by the website that issued the cookie. We and Our Partners (as such term is explained in
-            the next section) use the information collected by cookies to remember who you are to log you in and
-            your preferences, to serve content tailored to your needs or interests and to assess how our website
-            is used. You can accept or decline cookies through your browser settings. To learn more, please look
-            at the cookie settings available in your specific web browser(s).
-        </p>
-        <h3>Display Advertising (Also Known as Third-Party Advertising) on Our Website</h3>
-        <p>
-            We may allow third parties, including carefully selected ad networks and business partners of TheSoul
-            Publishing (henceforth, <u>“Our Partners”</u>), to display advertising on our website. Because of that, our
-            website may display advertisements from Our Partners that link to websites of Our Partners. We
-            cannot control or be held responsible for privacy practices and content of Our Partners. We encourage
-            you to read their privacy policies to find out how they collect and process your personal information.
-        </p>
-        <p>
-            In addition, some of Our Partners may recognize your computer or device through cookies or other
-            technologies each time they send you an online ad. This enables them to understand where you, or
-            others who are using your computer or other device, saw their advertisement and to deliver ads that
-            they believe may be of interest to you.
-        </p>
-        <h3>Personalized Advertising (Formerly Known as Interest-Based Advertising)</h3>
-        <p>
-            Our website permits Our Partners to collect certain information about you to provide personalized
-            advertising to you. Our Partners are leading digital performance-based advertising groups which put
-            great effort in making sure that your personal information is safe and used properly. They may be
-            collecting from your computer or device certain information, such as:
-        </p>
+
         <ul>
-            <li>your gender;</li>
-            <li>your age;</li>
-            <li>your location; and</li>
-            <li>areas of your interests.</li>
+            <li>to&nbsp;carry out general data analysis and to&nbsp;administer our Website and affiliated sites;</li>
+            <li>to&nbsp;generate statistics and measure web traffic and popularity of&nbsp;specific areas of&nbsp;our Website;</li>
+            <li>to&nbsp;identify usage trends and expand our business activities;</li>
+            <li>to&nbsp;build higher quality and develop more useful services by&nbsp;performing statistical analyses of&nbsp;the collective characteristics and behavior of&nbsp;our users</li>
+            <li>to&nbsp;improve or&nbsp;modify our Website, develop new services and functionality;</li>
+            <li>to&nbsp;comply with applicable legal requirements, legal process and relevant industry standards, and satisfy requests by&nbsp;governmental and supervisory authorities; <br>and</li>
+            <li>to&nbsp;identify and prevent fraud.</li>
         </ul>
+
         <p>
-            In addition, they may be collecting certain information related to your PC, laptop, mobile phone or
-            other device attributes and traffic/session information, such as:
+            Additionally, if&nbsp;you choose to&nbsp;register on&nbsp;our Website in&nbsp;order to&nbsp;receive our subscription-based services, your Personally Identifiable Information will be&nbsp;used in&nbsp;order to&nbsp;communicate with you.
         </p>
+
+        <p>
+            If, at&nbsp;any time, you decide to&nbsp;unsubscribe from receiving future emails, detailed unsubscribe instructions will be&nbsp;displayed at&nbsp;the bottom of&nbsp;each email.
+        </p>
+
+        <p>
+            <i>Use of&nbsp;Personal Data by&nbsp;Our Partners.</i> Our Partners (as&nbsp;such term is&nbsp;explained in&nbsp;Section&nbsp;4, With Whom We&nbsp;Share Information) may be&nbsp;collecting and using your Personally Identifiable Information to&nbsp;tailor the content that advertisers display to&nbsp;you, including building relevant data segments based on&nbsp;what you click and view and when or&nbsp;how many times you have viewed&nbsp;it; for these purposes, they use the information collected by&nbsp;technologies, such as&nbsp;pixel tags or&nbsp;cookies, to&nbsp;improve the services provided by&nbsp;third-party advertising companies, which include Google. The list of&nbsp;Google partners can be&nbsp;viewed&nbsp;at <a href="/partners/" target="_blank">partners</a>.
+        </p>
+
+        <h3>3. What You Agree to&nbsp;by&nbsp;Using Our Website</h3>
+
+        <p>
+            We&nbsp;will ask for your consent and agreement that we&nbsp;may collect and use your Personally Identifiable Information in&nbsp;accordance with this Privacy Policy, and as&nbsp;permitted or&nbsp;required by&nbsp;law. You are free to&nbsp;refuse to&nbsp;give consent or&nbsp;to&nbsp;withdraw the consent that you had given. Please note, however, that if&nbsp;you refuse or&nbsp;withdraw your consent some of&nbsp;the features available on&nbsp;our Website may not be&nbsp;available to&nbsp;you. Please note that we&nbsp;may also rely on&nbsp;legitimate interests or&nbsp;fulfillment of&nbsp;a&nbsp;contract to&nbsp;continue processing your Personally Identifiable Information. <b>Consent can be&nbsp;withdrawn at&nbsp;any time by&nbsp;navigating&nbsp;to <a href="#" class="js-change-consent">consent</a> and clicking the box to&nbsp;remove consent.</b>
+        </p>
+
+        <p>
+            Please understand that, if&nbsp;you decide to&nbsp;register on&nbsp;our Website in&nbsp;order to&nbsp;receive our subscription-based services, by&nbsp;submitting any Personally Identifiable Information to&nbsp;us, you are giving consent and agreeing that we&nbsp;may collect and use all Personally Identifiable Information that you submit in&nbsp;accordance with this Privacy Policy and as&nbsp;permitted or&nbsp;required by&nbsp;law. If&nbsp;you do&nbsp;not agree with these terms, please do&nbsp;not provide any Personally Identifiable Information to&nbsp;us.
+        </p>
+
+        <p>
+            Before using Personally Identifiable Information for a&nbsp;purpose other than any of&nbsp;the purposes set out in&nbsp;the preceding Section&nbsp;2 (Ways Personal Information Might Be&nbsp;Used) we&nbsp;will request your explicit consent.
+        </p>
+
+        <h3>4. With Whom We&nbsp;Share Information</h3>
+
+        <p>
+            Except as&nbsp;set forth in&nbsp;this Policy or&nbsp;as&nbsp;explicitly agreed by&nbsp;you, <b>we&nbsp;will not disclose any of&nbsp;your Personally Identifiable Information.</b> In&nbsp;addition to&nbsp;the other uses set forth in&nbsp;this Policy, we&nbsp;may disclose and otherwise use Personally Identifiable Information as&nbsp;described below.
+        </p>
+
+        <p>
+            <i>Our Partners.</i> We&nbsp;allow third parties, including carefully selected ad&nbsp;networks and business partners (referred to&nbsp;as&nbsp;«<u>Our Partners</u>»), to&nbsp;display advertising on&nbsp;our Website. Our Partners may, for instance, collect, use and share your information to&nbsp;make or&nbsp;help&nbsp;us make predictions about your interests, and may provide you with offers, promotional materials, and advertisements. In&nbsp;addition, Our Partners may be&nbsp;collecting certain information related to&nbsp;your&nbsp;PC, laptop, mobile phone or&nbsp;other device attributes and traffic/session information. Our Website permits Our Partners to&nbsp;collect your Personally Identifiable Information to&nbsp;provide personalized advertising to&nbsp;you. Our Partners are leading digital performance-based advertising groups which put great effort in&nbsp;making sure that your personal information is&nbsp;safe and used properly.
+        </p>
+
+        <p>
+            <i>Service Providers.</i> Your information may be&nbsp;collected by&nbsp;entities that provide services to&nbsp;us, including companies that deliver web analytics, data processing, data enhancement and customer insights, advertising, email distribution, and other services.
+        </p>
+
+        <p>
+            <i>Other Parties (when required by&nbsp;law or&nbsp;as&nbsp;necessary to&nbsp;protect our services).</i> We&nbsp;may disclose your information (including Personally Identifiable Information) to&nbsp;other parties in&nbsp;order&nbsp;to:
+        </p>
+
         <ul>
-            <li>the model of your computer or device;</li>
-            <li>the make of your computer or device;</li>
-            <li>your computer or device agent details;</li>
-            <li>the ID of your computer or device;</li>
-            <li>session durations; and</li>
-            <li>activity information.</li>
+            <li>protect our legal rights or&nbsp;property, the legal rights or&nbsp;property of&nbsp;our affiliates, and sites or&nbsp;services we&nbsp;work with;</li>
+            <li>protect the rights, safety and security of&nbsp;our users, ourselves, or&nbsp;any other person or&nbsp;entity;</li>
+            <li>prevent fraud (or&nbsp;for risk management purposes); <br>or</li>
+            <li>comply with applicable legal requirements, legal process or&nbsp;request for cooperation by&nbsp;a&nbsp;governmental or&nbsp;supervisory authority, whether or&nbsp;not legally required. For example, we&nbsp;may be&nbsp;required to&nbsp;disclose your information to&nbsp;meet national security or&nbsp;law enforcement requirements.</li>
         </ul>
-        <h3><u><i>Use of Information Toward Personal Advertising</i></u></h3>
+
         <p>
-            The information collected by Our Partners is used to analyze trends, understand user activities and
-            gather demographic information to enable, manage and develop their personalized ads and related
-            services. Our Partners may share such information with their affiliates. To do this, Our Partners use
-            technologies such as cookies and web beacons to collect information about your interaction with our
-            website and third-party websites. This type of information does not identify you personally and,
-            typically, is aggregated with other data to create segments – groups of users and general interest
-            categories that are inferred based on a range of factors (for example, “sports fan”). Our Partners use
-            this information to form a more accurate picture of the interests of the audiences with which they
-            interact – including you – so that their ads are more relevant to those interests.
+            <i>Other Parties (in&nbsp;connection with transfer of&nbsp;assets).</i> If&nbsp;we&nbsp;make a&nbsp;sale or&nbsp;transfer of&nbsp;assets, or&nbsp;are otherwise involved in&nbsp;a&nbsp;merger or&nbsp;transfer (or&nbsp;due diligence related to&nbsp;such a&nbsp;transaction), or&nbsp;in&nbsp;the unlikely event of&nbsp;bankruptcy, we&nbsp;may transfer your Personally Identifiable Information as&nbsp;part of&nbsp;that transaction.
         </p>
+
         <p>
-            In addition, Our Partners may use the information collected from these types of cookie or similar
-            technologies for a variety of other purposes, including:
+            <i>Use for Analytical and Ad&nbsp;Serving Purposes.</i> We&nbsp;use standard tools common within the industry, such as&nbsp;Google Analytics, to&nbsp;collect information about use of&nbsp;our Website. These tools collect information such as&nbsp;how often you visit our Website and what other sites you visited prior to&nbsp;reaching our Website. We&nbsp;use the information we&nbsp;obtain from analytical tools for the purposes of&nbsp;improving our Website. The analytical tools collect only the&nbsp;IP address assigned to&nbsp;your computer or&nbsp;other device and your browser settings as&nbsp;of&nbsp;the moment you visit our Website, rather than your name or&nbsp;other identifying information.
         </p>
+
+        <p>
+            We&nbsp;also use standard tools common within the industry, such as&nbsp;DoubleClick for Publishers operated by&nbsp;Google, enabling placement and management of&nbsp;personalized advertising services on&nbsp;our Website. These tools use cookies to&nbsp;target advertising based on&nbsp;what is&nbsp;relevant to&nbsp;you as&nbsp;a&nbsp;user to&nbsp;improve advertising and to&nbsp;avoid showing ads that you have already seen. Cookies themselves contain no&nbsp;Personally Identifiable Information. They relate to&nbsp;your web activity, rather than your identity. Tools such as&nbsp;DoubleClick will send a&nbsp;cookie to&nbsp;your web browser after any impression, click, or&nbsp;other activity by&nbsp;you on&nbsp;our servers. If&nbsp;your web browser accepts the cookie, the cookie will be&nbsp;planted on&nbsp;your web browser. DoubleClick will usually send a&nbsp;cookie to&nbsp;your web browser when you visit any webpage displaying DoubleClick ads. Webpages containing DoubleClick ads include ad&nbsp;tags that instruct web browsers to&nbsp;request ad&nbsp;content from our servers. When the server delivers the ad&nbsp;content, it&nbsp;will also send a&nbsp;cookie.
+        </p>
+
+        <p>
+            Finally, our Website relies on&nbsp;common industry tools Google Display Network Impression Reporting and Google Analytics Demographics and Interest Reporting. These tools help&nbsp;us understand the composition of&nbsp;viewers of&nbsp;our Website in&nbsp;terms of&nbsp;gender, age and interests. We&nbsp;need this information in&nbsp;order to&nbsp;understand what types of&nbsp;creative content we&nbsp;need to&nbsp;develop to&nbsp;suit the interests of&nbsp;different demographic and interest groups. In&nbsp;addition, Our Partners may need this information to&nbsp;develop marketing content. You may, at&nbsp;any time, opt out of&nbsp;Google Analytics tracking, including Google Display Network Impression Reporting and Google Analytics Demographics and Interest Reporting, by&nbsp;installing the <a href="https://tools.google.com/dlpage/gaoptout/" target="_blank">Google Analytics Opt-Out Browser Add-On</a>. You may also opt out of&nbsp;ad&nbsp;serving through <a href="https://adssettings.google.com/u/0/authenticated" target="_blank">Google’s opt-out page</a>.
+        </p>
+
+        <p>
+            The personal data privacy aspects of&nbsp;all Google products, services and features, including Google Analytics and DoubleClick, are covered by&nbsp;<a href="https://policies.google.com/privacy" target="_blank">Google Privacy Policy</a>. Please be&nbsp;assured that we&nbsp;never combine the information collected through the use of&nbsp;Google Analytics or&nbsp;DoubleClick with any other Personally Identifiable Information. Moreover, permanent cookies planted on&nbsp;your web browser by&nbsp;Google products to&nbsp;identify you as&nbsp;a&nbsp;unique user the next time you visit our Website, cannot be&nbsp;used by&nbsp;anyone but Google. The ability of&nbsp;Google to&nbsp;use and share information collected by&nbsp;Google Analytics or&nbsp;DoubleClick about your visits to&nbsp;our Website is&nbsp;restricted by&nbsp;<a href="https://www.google.com/intl/en_ALL/doubleclick/tos/dfp-api-terms.html" target="_blank">DoubleClick Terms and Conditions</a>, <a href="https://www.google.com/analytics/terms/us.html" target="_blank">Google Analytics Terms of&nbsp;Use</a> and <a href="https://www.google.com/privacypolicy.html" target="_blank">Google Privacy Policy</a>.
+        </p>
+
+        <p>
+            You can opt out of&nbsp;ads personalization using Google’s Ads Settings by&nbsp;following the instructions contained on&nbsp;the following resource of&nbsp;Google&nbsp;— <a href="https://www.google.com/privacypolicy.html" target="_blank">Google Ads Settings</a>. If&nbsp;you choose to&nbsp;opt out of&nbsp;ads personalization, you will no&nbsp;longer receive personalized advertising.
+        </p>
+
+        <h3>5. Cross-Border Transfer of&nbsp;Information</h3>
+
+        <p>
+            We&nbsp;generally maintain centralized servers and systems in&nbsp;Europe and may maintain servers and systems elsewhere. These servers and systems are managed by&nbsp;us or&nbsp;on&nbsp;our behalf, or&nbsp;by&nbsp;our affiliates located in&nbsp;Europe.
+        </p>
+
+        <p>
+            In&nbsp;the event of&nbsp;transfer and processing of&nbsp;your Personally Identifiable Information outside the EEA for the purposes described above, we&nbsp;will ascertain that the information receives the same level of&nbsp;protection as&nbsp;if&nbsp;it&nbsp;remained within the EEA, including when entering into data transfer agreements, using the EU&nbsp;Commission approved Standard Contractual Clauses, or&nbsp;by&nbsp;relying on&nbsp;certification schemes such as&nbsp;the EU-US Privacy Shield.
+        </p>
+
+        <h3>6. How We&nbsp;Keep Your Information Secure</h3>
+
+        <p>
+            We&nbsp;use commercially reasonable physical, electronic, and procedural safeguards to&nbsp;protect your Personally Identifiable Information from loss, misuse, and unauthorized access, disclosure, alteration, and destruction in&nbsp;accordance with requirements of&nbsp;applicable laws.
+        </p>
+
+        <h3>7. Use of ‘Cookies’</h3>
+
+        <p>
+            We&nbsp;also use (or&nbsp;may use) ‘cookies’ when you visit our Website. For more information on&nbsp;our use of&nbsp;cookies, please refer to&nbsp;our Cookie Policy.
+        </p>
+
+        <h3>8. Use of&nbsp;Information for Personal Advertising</h3>
+
+        <p>
+            The information collected by&nbsp;Our Partners is&nbsp;used to&nbsp;analyze trends, understand user activities and gather demographic information to&nbsp;enable, manage and develop their personalized ads and related services. Our Partners may share such information with their affiliates. To&nbsp;do&nbsp;this, Our Partners use technologies such as&nbsp;cookies and web beacons to&nbsp;collect information about your interaction with our Website and third-party websites. This type of&nbsp;information does not identify you personally and, typically, is&nbsp;aggregated with other data to&nbsp;create segments —groups of&nbsp;users and general interest categories that are inferred based on&nbsp;a&nbsp;range of&nbsp;factors (for example, «sports fan»). Our Partners use this information to&nbsp;form a&nbsp;more accurate picture of&nbsp;the interests of&nbsp;the audiences with which they interact&nbsp;— including you&nbsp;— so&nbsp;that their ads are more relevant to&nbsp;those interests.
+        </p>
+
+        <p>
+            In&nbsp;addition, Our Partners may use the information collected from these types of&nbsp;cookie or&nbsp;similar technologies for a&nbsp;variety of&nbsp;other purposes, including:
+        </p>
+
         <ul>
-            <li>in conjunction with advertising that appears on other third-party websites;</li>
-            <li>to measure the effectiveness of web-based and email advertisements; and</li>
-            <li>
-                for reporting website traffic, statistics, advertisement data and other interaction with ads and the
-                websites on which they are served.
-            </li>
+            <li>in&nbsp;conjunction with advertising that appears on&nbsp;other third-party websites;</li>
+            <li>to&nbsp;measure the effectiveness of&nbsp;web-based and email advertisements; <br>and</li>
+            <li>for reporting website traffic, statistics, advertisement data and other interaction with ads and the websites on&nbsp;which they are served.</li>
         </ul>
+
         <p>
-            Our Partners retain your information in accordance with their legitimate business purposes for
-            processing. Thereafter, the information is removed, archived for restricted legitimate interests, or
-            anonymized. Non-identifying information may be kept without time and use limitations.
+            Our Partners retain your information in&nbsp;accordance with their legitimate business purposes for processing. Thereafter, the information is&nbsp;removed, archived for restricted legitimate interests, or&nbsp;anonymized. Non-identifying information may be&nbsp;kept without time and use limitations.
         </p>
+
+        <h3>9. Retention of&nbsp;Personal Information</h3>
+
         <p>
-            We do not have access to or control over cookies or other features that Our Partners may use, and
-            the information practices of Our Partners and third-party websites are not covered by this Policy.
-            Please contact them directly for more information about their privacy practices.
+            If&nbsp;you reside or&nbsp;are located in&nbsp;the EEA, your Personally Identifiable Information will be&nbsp;stored for no&nbsp;longer than necessary for the purpose for which the Personally Identifiable Information was collected. The length of&nbsp;time Personally Identifiable Information is&nbsp;retained depends on&nbsp;the purpose for which such information was collected and/or as&nbsp;required to&nbsp;comply with applicable laws and establish, exercise or&nbsp;defend our legal rights.
         </p>
-        <h3><u><i>Why Would You Want to Receive Personalized Ads?</i></u></h3>
+
+        <h3>10. Your Legal Rights</h3>
+
         <p>
-            Consumers like to receive personalized ads for many different reasons. Personalized ads are helpful
-            because they are more tailored to your particular interests. Personalized ads are more likely to help
-            you discover new products and services that are actually relevant to you and your interests. In short,
-            receiving personalized ads can help improve your access to new products, services and features that
-            are most relevant to you. Moreover, you will not see the same ads over and over, because the
-            number of times you see a particular personalized ad is limited. By opting-out of personalized ads,
-            you lose all of these benefits.
+            You have certain rights in&nbsp;relation to&nbsp;your Personally Identifiable Information. Depending on&nbsp;the jurisdiction, you have the right to&nbsp;request that&nbsp;we:
         </p>
-        <h3><u><i>Opting-Out of Receiving Personalized Ads</i></u></h3>
-        <p>If you do not want our website to show you personalized ads please be advised to do any of the following:</p>
+
         <ul>
-            <li>
-                use Google’s service enabling opt out of seeing personalized ads by clicking
-                <a href="https://support.google.com/ads/answer/2662922" target="_blank" rel="noopener noreferrer">
-                    Google Ads Help for opting out of seeing personalized ads
-                </a>
-                and follow the instructions;
-            </li>
-            <li>
-                use the general opt out mechanism from third party advertisers who are members of the Network
-                Advertising Initiative (NAI) by clicking
-                <a href="https://optout.networkadvertising.org/#!/" target="_blank" rel="noopener noreferrer">
-                    NAI Opt Out of Interest-Based Advertising
-                </a>
-                and follow the instructions; or
-            </li>
-            <li>
-                disable and delete cookies from the browser settings of your computer or device as follows:
-                <ul>
-                    <li>
-                        for Internet Explorer, click
-                        <a href="https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies" target="_blank" rel="noopener noreferrer">
-                            Microsoft Support for deleting and managing cookies
-                        </a>
-                        and follow the instructions;
-                    </li>
-                    <li>
-                        for Firefox, click
-                        <a href="https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences" target="_blank" rel="noopener noreferrer">
-                            Firefox Support for disabling cookies and changing cookie settings
-                        </a>
-                        and
-                        <a href="https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored" target="_blank" rel="noopener noreferrer">
-                            Firefox Support for deleting cookies to remove the information websites have stored on your computer
-                        </a>
-                        and follow the instructions;
-                    </li>
-                    <li>
-                        for Google Chrome, click
-                        <a href="https://support.google.com/chrome/answer/95647" target="_blank" rel="noopener noreferrer">
-                            Google Chrome Help to clear, enable, and manage cookies in Chrome
-                        </a>
-                        and follow the instructions; or
-                    </li>
-                    <li>
-                        for Safari, click
-                        <a href="https://help.apple.com/safari/mac/8.0/#/sfri11471" target="_blank" rel="noopener noreferrer">
-                            Safari Help for managing cookies and website data
-                        </a>
-                        and follow the instructions.
-                    </li>
-                </ul>
-            </li>
+            <li>provide access to&nbsp;any Personally Identifiable Information&nbsp;we, or&nbsp;Our Partners, hold about you;</li>
+            <li>update any Personally Identifiable Information which is&nbsp;out of&nbsp;date or&nbsp;incorrect;</li>
+            <li>delete any Personally Identifiable Information which&nbsp;we, or&nbsp;Our Partners, are holding about you;</li>
+            <li>object to&nbsp;certain means of&nbsp;processing of&nbsp;Personally Identifiable Information (e.g., opt-out from marketing communications);</li>
+            <li>restrict the way in&nbsp;which we&nbsp;process your Personally Identifiable Information;</li>
+            <li>provide your Personally Identifiable Information to&nbsp;a&nbsp;third-party service provider; <br>or</li>
+            <li>provide you with a&nbsp;copy of&nbsp;any Personally Identifiable Information which we&nbsp;hold about you.</li>
         </ul>
+
+        <h3>11. Children’s Privacy</h3>
+
         <p>
-            Please note that if you choose to opt-out, your opt-out will be managed through the use of cookies. If
-            you delete these cookies or use a different browser or computer, you will have to make this same
-            selection again.
+            No&nbsp;part of&nbsp;our Website is&nbsp;directed to&nbsp;children or&nbsp;minors under the age of&nbsp;18, and we&nbsp;do&nbsp;not knowingly collect Personally Identifiable Information from anyone that we&nbsp;know is&nbsp;under 18&nbsp;years of&nbsp;age. If&nbsp;you are under 16&nbsp;years of&nbsp;age (unless a&nbsp;lower age threshold between 13&nbsp;and 16&nbsp;applies in&nbsp;your country), then please do&nbsp;not use or&nbsp;access this Website, or&nbsp;ask your parents for permission before using our Website or&nbsp;sending any information about yourself to&nbsp;anyone over the Internet. We&nbsp;will take appropriate steps to&nbsp;delete any Personally Identifiable Information of&nbsp;persons less than 13&nbsp;years of&nbsp;age that has been collected on&nbsp;our Website without verifiable parental consent upon learning of&nbsp;the existence of&nbsp;such Personally Identifiable Information.
         </p>
-        <h3>Plugins</h3>
+
+        <h3>12. Questions, Suggestions and Complaints</h3>
+
         <p>
-            Our website may have “plugins” (such as the Facebook “Like” button) to third party sites or offer login
-            (such as log in with Facebook) through a third-party account. Third party plugins and login features,
-            including their loading, operation and use, are governed by the privacy policy and terms of use of the
-            third party providing them.
+            If&nbsp;you have any privacy-related questions, suggestions, unresolved problems, or&nbsp;complaints you may contact&nbsp;us at&nbsp;<a href="mailto:legalops@thesoul-publishing.com">legalops@thesoul-publishing.com</a>.
         </p>
-        <h3>Other Situations</h3>
-        <p>We may disclose your IP address and other information about you:</p>
-        <ul>
-            <li>as part of the sale of one of our websites to another company;</li>
-            <li>
-                to protect and defend the rights and property of TheSoul Publishing Group (including with respect
-                to enforcing our Terms and Conditions); and
-            </li>
-            <li>when required by law, a governmental authority or by a court order.</li>
-        </ul>
-        <h3>Contact Us</h3>
         <p>
-            If you have questions or concerns regarding the privacy of your personal information or this Policy,
-            please contact us directly as specified on the contact form for this website.
+            If&nbsp;you reside or&nbsp;are located within the EEA, we&nbsp;may assist with all queries regarding our processing of&nbsp;Personally Identifiable Information. We&nbsp;request that you please attempt to&nbsp;resolve any issues related to&nbsp;your Personally Identifiable Information with&nbsp;us first. If&nbsp;you reside or&nbsp;are located within the EEA, you may also make a&nbsp;complaint to&nbsp;the supervisory authority for data protection in&nbsp;your country of&nbsp;residence (such&nbsp;as, for instance, the UK&nbsp;Information Commissioner’s Office for the&nbsp;UK) or&nbsp;seek a&nbsp;remedy through local courts if&nbsp;you believe that your rights have been breached.
         </p>
-        <h3>Security</h3>
+
+        <h3>13. External Links</h3>
+
         <p>
-            We seek to use reasonable organizational, technical and administrative measures to protect your IP
-            address and other personal information within our organization and we regularly monitor our system
-            for vulnerabilities. However, since the Internet is not a 100% secure environment, we cannot ensure
-            or warrant the security of information about you. Please note that electronic communication,
-            particularly email, is not necessarily secure against interception. For these reasons, we request that
-            you refrain from sending to us any personal data about you or any other individuals through world
-            wide web, unless strictly necessary.
+            Our Website may display links to&nbsp;websites of&nbsp;third-party content providers, other than Our Partners. We&nbsp;do&nbsp;not disclose your Personally Identifiable Information to&nbsp;third parties, other than Our Partners, without obtaining your consent specifically permitting such disclosure. We&nbsp;do&nbsp;not endorse and are not responsible for the privacy practices and content of&nbsp;such third parties. We&nbsp;encourage you to&nbsp;review their privacy policies to&nbsp;understand how they collect and process your Personally Identifiable Information.
         </p>
-        <h3>Changes to this Policy</h3>
+
+        <h3>14. Changes to&nbsp;This Policy</h3>
+
         <p>
-            If we decide to amend this Policy, we will post the amendments on this website prior to such
-            amendments becoming effective. In addition, we will indicate the effective date when this Policy will
-            be amended. You will then have an opportunity to decide whether you wish to continue using our
-            website under the amended Privacy Policy.
+            We&nbsp;revise and evaluate this Policy periodically in&nbsp;light of&nbsp;changing business practices, technology and legal requirements. As&nbsp;a&nbsp;result, this Policy will be&nbsp;updated from time to&nbsp;time. Any such changes will be&nbsp;posted on&nbsp;this page. Any change, update, or&nbsp;modification will be&nbsp;effective immediately upon posting on&nbsp;our Website.
+        </p>
+
+        <h3>15. Contact Us</h3>
+
+        <p>
+            If&nbsp;you have any questions or&nbsp;concerns regarding this Policy, our privacy practices, or&nbsp;to&nbsp;exercise your rights, please contact&nbsp;us by&nbsp;email at&nbsp;<a href="mailto:legalops@thesoul-publishing.com">legalops@thesoul-publishing.com</a>. You also may contact&nbsp;us by&nbsp;sending a&nbsp;letter or&nbsp;request&nbsp;to:
+        </p>
+
+        <p>
+            General Counsel<br>
+            ADME (CY) LTD<br>
+            Office 102, 28th Oktovriou Str.&nbsp;359<br>
+            Limassol 3107, Cyprus
         </p>
     </article>
-</section>
-        </div>
+</section>        </div>
     </div>
 </main>
-
-
 <div class="footer-container">
-
-
     <footer class="footer">
         <div class="footer-inner" style="width:100%;">
             <nav class="footer-info-links">
                 <ul>
                                             <li><a href="/article/how-we-make-bright-side-83405/">About Bright Side</a></li>
-                                            <li><a href="/article/vacancy-freelance-writer-for-bright-side-83455/">Vacancy</a></li>
                                             <li><a href="https://thesoul-publishing.com/#contacts">Contact us</a></li>
-                                            <li><a href="/article/copyright-policy-117605/">Copyright policy</a></li>
                                             <li><a href="/privacy/">Privacy policy</a></li>
+                                            <li><a href="/copyrights/">Copyright Policy</a></li>
+                                            <li><a href="/cookies/">Cookies Policy</a></li>
                                     </ul>
 
                 <ul class="footer-social">
-                    <li><a href="https://www.facebook.com/brightside" class="fb" title="Facebook" target="_blank"><img src="//iface.brightside.me/@/AdMeCommon/Layouts/i/i11.png" alt="Facebook"></a></li>
-                    <li><a href="https://twitter.com/bright_side_me" class="tw" title="Twitter" target="_blank"><img src="//iface.brightside.me/@/AdMeCommon/Layouts/i/i11.png" alt="Twitter"></a></li>
-                    <li><a href="/rss/" class="rss" title="RSS"><img src="//iface.brightside.me/@/AdMeCommon/Layouts/i/i11.png" alt="RSS"></a></li>
+                    <li><a href="https://www.facebook.com/brightside" class="fb" title="Facebook" target="_blank"><img src="//iface.brightside.me/@/admefamily/Layouts/i/i11.png" alt="Facebook"></a></li>
+                    <li><a href="https://twitter.com/bright_side_me" class="tw" title="Twitter" target="_blank"><img src="//iface.brightside.me/@/admefamily/Layouts/i/i11.png" alt="Twitter"></a></li>
+                    <li><a href="/rss/" class="rss" title="RSS"><img src="//iface.brightside.me/@/admefamily/Layouts/i/i11.png" alt="RSS"></a></li>
                 </ul>
             </nav>
 
             <address class="copy" style="width:100%;">
-                © 2014–2017 <a href="https://thesoul-publishing.com" target="_blank" style="color:#fff; text-decoration:underline;">TheSoul
-                    Publishing</a>. All rights reserved. All materials on this site are copyrighted and may not be used unless authorized by the Bright Side.<br>
-                <a href="https://www.youtube.com/channel/UCm6Tb4lgLVxeC14AhYBaxOQ" target="_blank" style="color:#fff; text-decoration:underline; text-align: center;">Nursery rhymes
-                    for children &amp; baby songs – kids learning colors, shapes, ABCs</a> — visit our new Youtube channel!<br><br>
-                <br><br>
-
-            </address>
+                © 2014–2018 <a href="https://thesoul-publishing.com" target="_blank" style="color:#fff; text-decoration:underline;">TheSoul
+                    Publishing</a>. All rights reserved. All materials on this site are copyrighted and may not be used unless authorized by the Bright Side.            </address>
         </div>
 
         <div class="counters">
             <div class="counters-column">
-                <!-- Yandex.Metrika counter -->
-<script type="text/javascript">
-    (function (d, w, c) {
-        (w[c] = w[c] || []).push(function() {
-            try {
-                w.yaCounter31579283 = new Ya.Metrika({
-                    id:31579283,
-                    clickmap:true,
-                    trackLinks:true,
-                    accurateTrackBounce:true,
-                    webvisor:true,
-                    trackHash:true
-                });
-            } catch(e) { }
+                
+    <!-- Google Analytics -->
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', {
+        trackingId: 'UA-65516416-1',
+        cookieDomain: 'none',
+        allowLinker: true,
+    });
+
+    
+
+    
+    
+    ga('require', 'displayfeatures');
+    ga('send', 'pageview');
+
+    if (document.querySelector('.js-article-content')) {
+        obj = {
+            hitType: 'event',
+            eventCategory: 'Content interaction',
+            eventLabel: document.URL,
+            eventValue: 0,
+        };
+
+        [25, 50, 75, 100].forEach(function (percent) {
+           window.TSP.executeWhenReachedPagePercentage(percent, function () {
+                obj.eventValue = percent;
+                obj.eventAction = 'Post Scroll ' + percent + '%';
+                ga('send', obj);
+            }, '.js-article-content');
         });
+    }
+</script>
+<!-- End Google Analytics -->
 
-        var n = d.getElementsByTagName("script")[0],
-            s = d.createElement("script"),
-            f = function () { n.parentNode.insertBefore(s, n); };
-        s.type = "text/javascript";
-        s.async = true;
-        s.src = "https://mc.yandex.ru/metrika/watch.js";
-
-        if (w.opera == "[object Opera]") {
-            d.addEventListener("DOMContentLoaded", f, false);
-        } else { f(); }
-    })(document, window, "yandex_metrika_callbacks");
-</script>
-<noscript><div><img src="https://mc.yandex.ru/watch/31579283" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->                <script>(function() {
-        var _fbq = window._fbq || (window._fbq = []);
-        if (!_fbq.loaded) {
-            var fbds = document.createElement('script');
-            fbds.async = true;
-            fbds.src = '//connect.facebook.net/en_US/fbds.js';
-            var s = document.getElementsByTagName('script')[0];
-            s.parentNode.insertBefore(fbds, s);
-            _fbq.loaded = true;
-        }
-        _fbq.push(['addPixelId', '1628999790718603']);
-    })();
-    window._fbq = window._fbq || [];
-    window._fbq.push(['track', 'PixelInitialized', {}]);
-</script>
-<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1628999790718603&amp;ev=PixelInitialized" /></noscript>                <!-- Begin comScore Tag -->
-<script>
-    var _comscore = _comscore || [];
-    _comscore.push({ c1: "2", c2: "19962933" });
-    (function() {
-        var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
-        s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
-        el.parentNode.insertBefore(s, el);
-    })();
-</script>
-<noscript>
-    <img src="https://sb.scorecardresearch.com/p?c1=2&c2=19962933&cv=2.0&cj=1" />
-</noscript>
-<!-- End comScore Tag -->                
-<script>
+<!--finteza test-->
+    <script type="text/javascript">
+        var fcoreobj=fcoreobj||{};fcoreobj.act=fcoreobj.act||[];
+        !function(){if(!fcoreobj.inited){var e,t;(e=document.createElement("script")).async=!0,e.defer=!0,e.type="text/javascript",e.src="https://content.mql5.com/core.js",(t=document.getElementsByTagName("script")[0])&&t.parentNode&&t.parentNode.insertBefore(e,t),fcoreobj.inited=!0}}();
+        fcoreobj.act.push(function(){fcoreobj.lead('egbycdlwjbdieeqlgxltffigeibusyflvb');});
+    </script>
+<!--end finteza test-->                <script>
     var pageLoadStart = Date.now();
     var pageLinkClickOccured = false;
 
@@ -1148,22 +1347,445 @@
             nonInteraction = false;
         }
 
-        if (AdMeCommon.Analytics && !pageLinkClickOccured) {
-            AdMeCommon.Analytics.event('Page', 'Unload', 'timeSpent', timeDelta, nonInteraction);
+        if (AdMeFamily.Analytics && !pageLinkClickOccured) {
+            AdMeFamily.Analytics.event('Content interaction', 'Page closed', 'timeSpent', timeDelta, nonInteraction);
         }
     }
 
     window.onbeforeunload=beforeOnloadTrackEvent;
-</script>            </div>
+</script>
+                <!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter31579283 = new Ya.Metrika({
+                    id:31579283,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true,
+                    trackHash:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/31579283" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->            </div>
         </div>
     </footer>
 </div>
 <div id="fb-root"></div>
-
+<!-- Dialog Auth -->
+<div class="dialog js-dialog-auth js-dialog" data-set-focus-to=".js-auth-email">
+    <h3 class="d-title">Log in</h3>
+    <div class="d-auth">
+        <p>You can log in with:</p>
+        <ul>
+    <li><a href="/profile/login/facebook/" title="Facebook" class="d-fb js-anchor-ext-auth"><span></span></a></li>
+    <li><a href="/profile/login/google/" title="Google" class="d-gl js-anchor-ext-auth"><span></span></a></li>
+</ul>    </div>
+    <form action="/profile/login" method="post" class="d-auth-form">
+        <p>Or as a website user BrightSide.me:</p>
+        <fieldset>
+            <div class="d-auth-form-block">
+                <label for="email">E-mail:</label>
+                <div class="d-auth-form-field">
+                    
+<input type="email" name="email" value="" class="js-auth-email" tabindex="1" id="email">                    <a href="/profile/register/" data-ga-category="User behavior" data-ga-action="Signup email">
+                        I want to sign up                    </a>
+                </div>
+            </div>
+            <div class="d-auth-form-block">
+                <label for="passwrd">Password:</label>
+                <div class="d-auth-form-field">
+                    
+<input type="password" name="passwrd" id="passwrd" value="" tabindex="2">                    <a href="/profile/lostpass/">I forgot my password</a>
+                </div>
+            </div>
+            <input type="hidden" name="s_last_page" value="/privacy"> <input type="hidden" name="remember" value="1">
+            <input type="submit" name="submit" id="submit" value="Sign in" class="js-auth-submit">        </fieldset>
+    </form>
+</div>
+<!-- /Dialog Auth -->
 <a href="#" class="scroll-top"></a>
 
-    <script type="text/javascript" src="//iface.brightside.me/assets/js-common-a7bdc8d339fc88d289d9c0a8033c3db96a289367.js"></script>
-        <script type="text/javascript" src="//iface.brightside.me/assets/js-common-footer-a7bdc8d339fc88d289d9c0a8033c3db96a289367.js"></script>
-    <!-- Designed by Pavel Radaev -->
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"24f0ec8ff0","applicationID":"15016628","transactionName":"Y1BRYhNRDUNTVEYLV1oaclUVWQxeHXZWL113Wl5bDl5McUBDWwFUURp6WAVVGx9CRVsUWVdM","queueTime":0,"applicationTime":42,"atts":"TxdGFFtLHhwQVhBYQ0lI","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+    <script type="text/javascript" src="//iface.brightside.me/assets/js-common-c33b88348c04381fe25eac17541541dbfe941f19.js"></script>
+        <script type="text/javascript" src="//iface.brightside.me/assets/js-common-footer-c33b88348c04381fe25eac17541541dbfe941f19.js"></script>
+    
+<script type="text/javascript">
+    function runAnalytics() {
+        (function(win, doc, cb){
+    (win[cb] = win[cb] || []).push(function() {
+        try {
+            tnsCounterAdme_ru = new TNS.TnsCounter({
+                'account':'adme_ru',
+                'tmsec': 'adme_total'
+            });
+        } catch(e){}
+    });
+
+    var tnsscript = doc.createElement('script');
+    tnsscript.type = 'text/javascript';
+    tnsscript.async = true;
+    tnsscript.src = ('https:' == doc.location.protocol ? 'https:' : 'http:') +
+    '//www.tns-counter.ru/tcounter.js';
+    var s = doc.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(tnsscript, s);
+})(window, this.document,'tnscounter_callback');
+        !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('consent', 'grant');
+fbq('init', '1628999790718603');
+fbq('track', 'ViewContent');
+
+window.TSP.executeWhenReachedPagePercentage(75, function() {
+  fbq('trackCustom', '75percent');
+});
+
+setTimeout(function () {
+    fbq('trackCustom', '30sec');
+}, 30000);
+
+$('body').on('click', 'a', function() {
+    fbq('track', 'Lead');
+});        var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "19962933" });
+(function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+})();    }
+</script>
+
+<style type="text/css">
+    .qc-cmp-button {
+        background-color: #368bd6 !important;
+        border-color: #368bd6 !important;
+    }
+
+    .qc-cmp-alt-action,
+    .qc-cmp-link {
+        color: #368bd6 !important;
+    }
+
+    .qc-cmp-button {
+        color: #fff !important;
+    }
+
+    .qc-cmp-button.qc-cmp-secondary-button {
+        color: #1e4b73 !important;
+    }
+
+    .qc-cmp-button.qc-cmp-button.qc-cmp-secondary-button:hover {
+        color: #ffffff !important;
+    }
+
+    .qc-cmp-button.qc-cmp-secondary-button {
+        border-color: #368bd6 !important;
+        background-color: transparent !important;
+    }
+
+    .qc-cmp-button.qc-cmp-secondary-button:hover {
+        background-color: #368bd6 !important;
+    }
+
+    .qc-cmp-ui,
+    .qc-cmp-ui .qc-cmp-main-messaging,
+    .qc-cmp-ui .qc-cmp-messaging,
+    .qc-cmp-ui .qc-cmp-beta-messaging,
+    .qc-cmp-ui .qc-cmp-title,
+    .qc-cmp-ui .qc-cmp-sub-title,
+    .qc-cmp-ui .qc-cmp-purpose-info,
+    .qc-cmp-ui .qc-cmp-table,
+    .qc-cmp-ui .qc-cmp-table-header,
+    .qc-cmp-ui .qc-cmp-vendor-list,
+    .qc-cmp-ui .qc-cmp-vendor-list-title {
+        color: #000000 !important;
+    }
+
+    .qc-cmp-ui a,
+    .qc-cmp-ui .qc-cmp-alt-action {
+        color: #0064af !important;
+    }
+
+    .qc-cmp-ui {
+        background-color: #ffffff !important;
+    }
+
+    .qc-cmp-publisher-purposes-table .qc-cmp-table-header, .qc-cmp-vendors-purposes-table .qc-cmp-table-header {
+        background-color: #fafafa !important;
+    }
+
+    .qc-cmp-publisher-purposes-table .qc-cmp-table-row, .qc-cmp-vendors-purposes-table .qc-cmp-table-row {
+        background-color: #fafafa !important;
+    }
+
+    .qc-cmp-scrolling-section {
+        border: 1px solid #bebebe !important;
+    }
+    .qc-cmp-table-header {
+        line-height:20px !important;
+    }
+</style>
+
+<!-- Quantcast Choice. Consent Manager Tag -->
+<script type="text/javascript" async="true">
+    var cmpLang = 'en';
+    var elem = document.createElement('script');
+    elem.src = 'https://quantcast.mgr.consensu.org/cmp.js';
+    elem.async = true;
+    elem.type = "text/javascript";
+    var scpt = document.getElementsByTagName('script')[0];
+    scpt.parentNode.insertBefore(elem, scpt);
+
+    (function () {
+        var gdprAppliesGlobally = true;
+
+        function addFrame() {
+            if (!window.frames['__cmpLocator']) {
+                if (document.body) {
+                    var body = document.body,
+                        iframe = document.createElement('iframe');
+                    iframe.style = 'display:none';
+                    iframe.name = '__cmpLocator';
+                    body.appendChild(iframe);
+                } else {
+                    // In the case where this stub is located in the head,
+                    // this allows us to inject the iframe more quickly than
+                    // relying on DOMContentLoaded or other events.
+                    setTimeout(addFrame, 5);
+                }
+            }
+        }
+
+        addFrame();
+
+        function cmpMsgHandler(event) {
+            var msgIsString = typeof event.data === "string";
+            var json;
+            if (msgIsString) {
+                json = event.data.indexOf("__cmpCall") != -1 ? JSON.parse(event.data) : {};
+            } else {
+                json = event.data;
+            }
+            if (json.__cmpCall) {
+                var i = json.__cmpCall;
+                window.__cmp(i.command, i.parameter, function (retValue, success) {
+                    var returnMsg = {
+                        "__cmpReturn": {
+                            "returnValue": retValue,
+                            "success": success,
+                            "callId": i.callId
+                        }
+                    };
+                    event.source.postMessage(msgIsString ?
+                        JSON.stringify(returnMsg) : returnMsg, '*');
+                });
+            }
+        }
+
+        window.__cmp = function (c) {
+            var b = arguments;
+            if (!b.length) {
+                return __cmp.a;
+            }
+            else if (b[0] === 'ping') {
+                b[2]({
+                    "gdprAppliesGlobally": gdprAppliesGlobally,
+                    "cmpLoaded": false
+                }, true);
+            } else if (c == '__cmp')
+                return false;
+            else {
+                if (typeof __cmp.a === 'undefined') {
+                    __cmp.a = [];
+                }
+                __cmp.a.push([].slice.apply(b));
+            }
+        }
+        window.__cmp.gdprAppliesGlobally = gdprAppliesGlobally;
+        window.__cmp.msgHandler = cmpMsgHandler;
+        if (window.addEventListener) {
+            window.addEventListener('message', cmpMsgHandler, false);
+        }
+        else {
+            window.attachEvent('onmessage', cmpMsgHandler);
+        }
+    })();
+</script><iframe name="__cmpLocator" style="display: none;"></iframe>
+<!-- End Quantcast Choice. Consent Manager Tag -->
+
+<script type="text/javascript">
+    (function () {
+        function runConsentCode() {
+            document.body.style.overflowY = ''
+            if (TSP && TSP.DFP && TSP.DFP.consent) {
+                if (!isConsentCodeRunned) {
+                    isConsentCodeRunned = true;
+
+                    if (TSP.DFP.queue) {
+                        TSP.DFP.queue.forEach(function(fn) {
+                            fn()
+                        })
+                    }
+
+                    runAnalytics();
+                }
+            }
+        }
+
+        function checkConsent () {
+            window.__cmp('getPublisherConsents', null, function (publisherResponse, publisherSuccess) {
+                window.__cmp('getVendorConsents', null, function (vendorResponse, vendorSuccess) {
+                    var currentConsent = TSP.DFP.consent;
+
+                    if (vendorResponse && vendorResponse.gdprApplies && publisherResponse && publisherResponse.standardPurposeConsents) {
+                        var userVendorConsent = null;
+                        var userPublisherConsent = null;
+
+                        if (vendorSuccess && vendorResponse.purposeConsents) {
+                            userVendorConsent = vendorResponse.purposeConsents[1] && vendorResponse.purposeConsents[2] && vendorResponse.purposeConsents[3] && vendorResponse.purposeConsents[4] && vendorResponse.purposeConsents[5];
+                        }
+
+                        if (publisherSuccess && publisherResponse.standardPurposeConsents) {
+                            userPublisherConsent = publisherResponse.standardPurposeConsents[1] && publisherResponse.standardPurposeConsents[2] && publisherResponse.standardPurposeConsents[3] && publisherResponse.standardPurposeConsents[4] && publisherResponse.standardPurposeConsents[5];
+                        }
+
+                        TSP.DFP.consent = userVendorConsent && userPublisherConsent ? 1 : 0;
+                    } else {
+                        TSP.DFP.consent = 1;
+                    }
+
+                    if (TSP.DFP.consent === 1) {
+                        runConsentCode();
+
+                        if (currentConsent !== TSP.DFP.consent) {
+                            AdMeFamily.Analytics.event('User behavior', 'GDPR', 'Consent given', 0);
+                        }
+                    } else {
+                        window.__cmp('displayConsentUi');
+                        setTimeout(function () {
+                            window.__cmp('setConsentUiCallback', consentUiCallback);
+                        }, 300);
+                    }
+                });
+            });
+        }
+
+        function consentUiCallback (event) {
+            if (event) {
+                switch (event.reason) {
+                    case 'ui-closed':
+                        if (event.uiShown) {
+                            checkConsent();
+                        } else {
+                            window.__cmp('displayConsentUi');
+                        }
+                        break;
+                    case 'consent-current':
+                        checkConsent();
+                        break;
+                    case 'not-EU':
+                        checkConsent();
+                        break;
+                    case 'unsupported-browser':
+                        break;
+                    default:
+                        break;
+                }
+            }
+        }
+
+        function checkLang(lang) {
+            switch (lang) {
+                case 'fr':
+                    return 'fr';
+                case 'es':
+                    return 'es';
+                case 'pt':
+                    return 'pt';
+                default:
+                    return 'en';
+            }
+        }
+
+        var isConsentCodeRunned = false;
+        var isConsentHidden = false;
+        var isConsentInitialised = false;
+
+        if (window.location) {
+            if (window.location.pathname === '/privacy/') {
+                isConsentHidden = true;
+            }
+
+            if (window.location.pathname === '/partners/') {
+                isConsentHidden = true;
+            }
+        }
+
+        var initialiseConsent = function() {
+            window.__cmp('init', {
+                'Language': checkLang(cmpLang),
+                'Initial Screen Body Text Option': 1,
+                'Display UI': 'inEU',
+                'Publisher Purpose IDs': [2, 3, 4, 5, 1],
+                'Min Days Between UI Displays': 99999,
+                'Publisher Name': 'TheSoul Publishing, Google, Facebook, and other <a href=\'https://support.google.com/admob/answer/9012903?hl=en-GB&ref_topic=2745287\' target=\'_blank\'>ads and measurement technology providers</a>',
+                'Post Consent Page': window.location.href,
+                'Consent Scope': 'service',
+                'UI Layout': 'banner',
+                'No Option': false,
+                'Default Value for Toggles': 'off',
+                'Non-Consent Display Frequency': 0
+            });
+
+            window.__cmp('setConsentUiCallback', consentUiCallback);
+
+            isConsentInitialised = true;
+        };
+
+        if (window.__cmp && !isConsentHidden) {
+            isConsentInitialised = true;
+        };
+
+        if (window.__cmp && !isConsentHidden) {
+            initialiseConsent();
+        }
+
+        $('.js-change-consent').on('click', function(e) {
+            e.preventDefault();
+
+            if (!isConsentInitialised) {
+                initialiseConsent();
+
+                window.__cmp('displayConsentUi');
+            }
+        })
+    }());
+</script>
+<script src="https://www.gstatic.com/firebasejs/5.0.4/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/5.0.4/firebase-messaging.js"></script>
+<script>
+    FCM.init('972168234735');
+</script>
+
+<!-- Designed by Pavel Radaev -->
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"24f0ec8ff0","applicationID":"15016628","transactionName":"Y1BRYhNRDUNTVEYLV1oaclUVWQxeHXZWL113Wl5bDl5McUBDWwFUURp6WAVVGx9CRVsUWVdM","queueTime":0,"applicationTime":9,"atts":"TxdGFFtLHhwQVhBYQ0lI","errorBeacon":"bam.nr-data.net","agent":""}</script>
 </body></html>
