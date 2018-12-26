@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afreechat.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626153606id_/https%3A//afreechat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afreechat.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226234252id_/https%3A//afreechat.com/privacy) for the most accurate reproduction.*
 
 # aFreeChat - Privacy Policy
 
@@ -57,7 +57,7 @@ When we believe disclosure is appropriate in connection with efforts to investig
 
 **4\. Children's privacy**
 
-Although our Service is a general audience Service, we require that our Users are of the legal age required to enter into a contract. This Service is not intended for use by children under 13 years of age, and we do not knowingly collect personal information from children under 13. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5e0e2c37283f3d271e3f182c3b3b1d363f2a703d3133 "Contact Us")
+Although our Service is a general audience Service, we require that our Users are of the legal age required to enter into a contract. This Service is not intended for use by children under 13 years of age, and we do not knowingly collect personal information from children under 13. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us [Privacy@aFreeChat.com.](mailto:Privacy@aFreeChat.com "Contact Us")
 
 **5\. Onward transfer and consent to international processing**
 
@@ -79,4 +79,4 @@ This Privacy Policy is effective as of the date stated at the top of this Privac
 
 **9\. To Contact Us**
 
-If you have questions about this Privacy Policy, please e-mail us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#eebe9c87988f8d97ae8fa89c8b8bad868f9ac08d8183 "Contact Us") with “Privacy Policy” in the subject line. For all other questions, please use the information provided in the Terms of Service to contact us.
+If you have questions about this Privacy Policy, please e-mail us at [Privacy@aFreeChat.com.](mailto:Privacy@aFreeChat.com "Contact Us") with “Privacy Policy” in the subject line. For all other questions, please use the information provided in the Terms of Service to contact us.
