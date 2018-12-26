@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the userbenchmark.com privacy policy that was archived on 2018-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180309112029id_/http%3A//www.userbenchmark.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the userbenchmark.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226055512id_/http%3A//www.userbenchmark.com/page/privacy) for the most accurate reproduction.*
 
 # UserBenchmark Privacy Policy - UserBenchmark
 
@@ -18,7 +18,7 @@ UserBenchmark may change this policy by updating this page. You should check thi
 
 ### What we collect
 
-We will collect the following personally identifiable information should you choose to create an account:
+If you choose to create an account we will collect the following personally identifiable information:
 
   * Username
   * Email address and website url
@@ -36,7 +36,7 @@ If you choose to download and run our software we will collect:
 
 ### What we do with the information we gather
 
-We rely on legitimate interests to use this information to provide you with a better and more personalized service. Specifically, this includes some or all of the following reasons:
+We rely on legitimate interests as the legal basis to use this information to provide you with a better and more personalized service. This includes some or all of the following reasons:
 
   * To collect and present computer component performance statistics
   * To generate hardware rankings and recommendations
@@ -61,13 +61,21 @@ Cookies on UserBenchmark are used in the following way:
 
   * Traffic log cookies identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to your needs
   * To remember your login details (where you have created an account and chosen to auto login)
-  * Third party vendors, including Google, use cookies to serve ads based on your prior visits to a website ([how Google uses data when you use UserBenchmark](http://www.google.com/policies/privacy/partners/)).
-  * Google's use of the [DoubleClick cookie](https://support.google.com/dfp_premium/answer/2839090?hl=en) enables it and its partners to serve ads that are based on your visits to UserBenchmark and/or other sites across the Internet
-  * You may opt out of using the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). (Alternatively, you can opt out of a third-party vendor's use of cookies for interest-based advertising by visiting [aboutads.info](http://www.aboutads.info/).) 
+  * Third party vendors, including Google, use cookies to serve ads based on your prior visits to a website.
 
 
 
 Overall, cookies help us provide you with a better website, by remembering your login details and by enabling us to monitor which pages you find useful and which you do not.
+
+* * *
+
+### Third Party Ads
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
+
+Google's use of the DoubleClick cookie enables it and its partners to serve ads that are based on your visits to UserBenchmark and/or other sites across the Internet. Find out more about how Google manages data in its ads products [here](https://www.google.com/policies/technologies/partner-sites/). You can see and control what information Google use to show you ads by visiting [ad settings](https://adssettings.google.com/).
+
+You can opt out of a third-party vendor's use of cookies for interest-based advertising by visiting [aboutads.info](http://www.aboutads.info/).
 
 * * *
 
