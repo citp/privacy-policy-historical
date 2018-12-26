@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entertainmentdaily.co.uk privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626071751id_/http%3A//www.entertainmentdaily.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entertainmentdaily.co.uk privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226151759id_/http%3A//www.entertainmentdaily.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Entertainment Daily
 
@@ -67,6 +67,10 @@ For more information on the privacy practices of Facebook, please visit Facebook
 
 [How Google uses information from sites or apps that use our services](https://policies.google.com/technologies/partner-sites)
 
+  * ### Awin
+
+[Awin Privacy Policy](https://www.awin.com/gb/legal/privacy-policy-gb) \- see section 2.3 "When using our technologies and services via websites and online services of our clients" 
+
 
 
 
@@ -130,7 +134,7 @@ This Policy shall be governed and construed in accordance with the laws of Engla
 
 ## Contact Us
 
-If you have questions or wish to submit a Data Access request, please email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#167277627738676373647f736556727f717f62777a74796e3875797b) or write to Data Protection Officer, Digitalbox, 2-4 Henry Street, Bath, BA1 1JT and we will respond as soon as possible. We may need to establish proof of your identity before we provide information. 
+If you have questions or wish to submit a Data Access request, please email [data.queries@digitalbox.com](mailto:data.queries@digitalbox.com) or write to Data Protection Officer, Digitalbox, 2-4 Henry Street, Bath, BA1 1JT and we will respond as soon as possible. We may need to establish proof of your identity before we provide information. 
 
   
 
