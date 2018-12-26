@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savefile.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124183840id_/https%3A//sedo.com/us/about-us/policies/protecting-your-privacy/%3Flanguage%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savefile.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226025708id_/https%3A//sedo.com/us/about-us/policies/protecting-your-privacy) for the most accurate reproduction.*
 
 # Protecting your Privacy
 
@@ -128,9 +128,9 @@ Our Web site includes Social Media Features, such as the Facebook Like and Recom
 
 ## Links to 3rd Party Sites 
 
-Our Site includes links to other Web sites whose privacy practices may differ from those of Sedo. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Web site you visit.
+Our Site includes links to other Web sites whose privacy practices may differ from those of Sedo. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Web site you visit. 
 
-## Testimonials 
+## Testimonials
 
 We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at privacy@sedo.com.
 
@@ -145,7 +145,7 @@ We reserve the right to make changes to this Privacy Policy at any time by posti
 Mail:  
 Attention Privacy/Legal Department  
 Sedo.com, LLC  
-161 First Street, Fourth Floor  
+222 Third Street, Suite 3120  
 Cambridge, MA 02142  
 USA 
 
