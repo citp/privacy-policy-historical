@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatschools.org privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626011642id_/https%3A//www.greatschools.org/gk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatschools.org privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226092010id_/https%3A//www.greatschools.org/gk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | GreatSchools
 
@@ -146,7 +146,7 @@ We specifically recommend that parents or teachers monitor any new sites before 
 
 #### Public Forums
 
-GreatSchools makes it possible for our users to share information through options such as school reviews, article feedback and message boards. Please remember that any information that is disclosed in these areas becomes public information. Consequently, you should exercise caution when deciding to disclose your personal information.
+GreatSchools makes it possible for our users to share information through options such as school reviews and article feedback. Please remember that any information that is disclosed in these areas becomes public information. Consequently, you should exercise caution when deciding to disclose your personal information.
 
 #### Our Commitment to Children’s Privacy
 
