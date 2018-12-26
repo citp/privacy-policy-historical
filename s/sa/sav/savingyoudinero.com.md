@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savingyoudinero.com privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619015111id_/https%3A//www.savingyoudinero.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savingyoudinero.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226101626id_/https%3A//www.savingyoudinero.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Saving You Dinero
 
