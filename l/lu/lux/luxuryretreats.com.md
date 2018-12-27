@@ -1,12 +1,58 @@
-> *The following text is extracted and transformed from the luxuryretreats.com privacy policy that was archived on 2018-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180501211625id_/https%3A//www.luxuryretreats.com/privacy-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxuryretreats.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227142444id_/https%3A//www.luxuryretreats.com/privacy-terms%23Privacy) for the most accurate reproduction.*
 
 # Privacy & Terms | Luxury Retreats
+
+The legal stuff about using our site
+
+## Terms of Use
+
+[Version Français](https://web.archive.org/privacy-terms?lang=fr)
+
+These Terms of Use (the "Terms") apply to the Luxury Retreats website located at [www.luxuryretreats.com](https://www.luxuryretreats.com/) and all associated sites linked to [www.luxuryretreats.com](https://www.luxuryretreats.com/) by Luxury Retreats International Inc. and its affiliates (collectively, the "Site"). The site is the property of Luxury Retreats and its licensors. By using the Site, you agree to these Terms.
+
+Luxury Retreats may at any time revise or modify these Terms by updating this posting. You are bound by such revisions and modifications so we encourage you to visit this page to review the most current Terms from time to time. Luxury Retreats reserves the right to, without notice and for any reason, modify or remove content from this Site, suspend or terminate the operation of the Site and deny access to any user to all or part of this Site.
+
+### Content
+
+You should assume that all text, graphics, interfaces, photographs, trademarks, logos, sounds, artwork and computer code (collectively, "Content"), including but not limited to the design, structure, selection, coordination, expression, "look and feel" and arrangement of such Content, contained on the Site is owned or licensed by or to Luxury Retreats, and is protected by copyright and trademark laws, and various other intellectual property rights and unfair competition laws.
+
+You may download Content displayed on this Site for personal, non-commercial use only. You must retain all copyright and other proprietary notices on downloaded Content. You may not reproduce, republish, post, publicly display, transmit or distribute any Content unless expressly permitted in these Terms or elsewhere on the Site.
+
+### Submissions
+
+We appreciate hearing from you. Please note that, apart from your personal information (which is addressed in our Privacy Policy), any communications or materials you send to the Site, including data, questions, comments, suggestions or submissions ("Submissions"), are and will be treated as non-confidential and nonproprietary. Luxury Retreats may use your Submissions for any purpose, including reproduction, transmission, disclosure, publication, broadcast, and posting. By making a Submission to the Site, you irrevocably transfer and assign to Luxury Retreats copyrights or other rights that you may have in such material and you waive any right to compensation.
+
+Luxury Retreats takes no responsibility and assumes no liability for any Submissions posted or submitted by you. We reserve the sole discretion to determine whether to publish or use your Submissions. You are fully responsible for the content of your Submissions and will be solely liable for any damages resulting from any violation of any law or the rights of Luxury Retreats or any other person, or any other harm resulting from your Submissions.
+
+### Indemnification
+
+You agree to defend, indemnify and hold harmless Luxury Retreats and its affiliates and their respective directors, officers, employees and agents from and against all demands, losses, liability, claims or expenses, including attorneys’ fees, made against Luxury Retreats by any third party due to or arising out of or in connection with your use of the Site.
+
+### Additional Rules and Conditions
+
+Separate terms and conditions, including your cancellation rights, if any, will apply to your reservation and purchase of travel-related goods and services that you select. Please read these separate terms and conditions carefully. Any violation of these additional terms and conditions may result in cancellation of your reservation(s) or in your forfeiting any monies paid for such reservation(s).
+
+### Miscellaneous
+
+These Terms shall be governed by the laws of Barbados, without regard to its conflict of laws provisions. You consent and submit to the exclusive jurisdiction of the courts located in Barbados, in all questions and controversies arising out of your use of this site and this Agreement. The relationship between Luxury Retreats and you will be that of independent contractors, and neither of us nor any of our respective officers, agents or employees will be held or construed to be partners, joint ventures, fiduciaries, employees or agents of the other. If any part of these Terms is determined to be invalid or unenforceable pursuant to applicable law, including the warranty disclaimers and liability limitations set forth above, then the invalid or unenforceable provision will be deemed superseded by a valid, enforceable provision that most closely matches the intent of the original provision and the remainder of these Terms shall continue in effect. You may not assign, convey, subcontract or delegate your rights, duties or obligations hereunder.
+
+### Use of the Site
+
+You may not use the Site or any Content for any purpose that is unlawful or prohibited by these Terms or that infringes the rights of Luxury Retreats or others.
+
+You also agree not to: (i) make any false, speculative or fraudulent inquiry, request or reservation; (ii) access, monitor or copy any content or information of this Site using any deep-link, page-scrape, robot, spider or other automatic device, program, algorithm or any similar process; (iii) take any action that imposes, or may impose an unreasonable or disproportionately large load on our infrastructure; (iv) use any device, software or routine to interfere with the proper working of the Site, any transaction being conducted on the Site or any other person’s use of the Site; or (v) attempt to gain unauthorized access to the Site or any systems or networks connected to the Site by hacking or any other illegitimate means.
+
+### No Warranties; Limitation of Liabilities
+
+WHILE LUXURY RETREATS USES REASONABLE EFFORTS TO INCLUDE ACCURATE AND UP-TO-DATE INFORMATION ON THE SITE, LUXURY RETREATS MAKES NO WARRANTIES OR REPRESENTATIONS AS TO ITS ACCURACY. THE PROPERTIES, INFORMATION, PRODUCTS AND SERVICES PUBLISHED ON THIS SITE MAY INCLUDE INACCURACIES OR ERRORS, INCLUDING PRICING ERRORS. IN PARTICULAR, LUXURY RETREATS DOES NOT GUARANTEE THE ACCURACY OF, AND DISCLAIMS ALL LIABILITY FOR ANY ERRORS OR OTHER INACCURACIES RELATING TO THE INFORMATION AND DESCRIPTION OF THE VILLAS AND OTHER TRAVEL PRODUCTS DISPLAYED ON THIS SITE (INCLUDING, WITHOUT LIMITATION, THE PRICING, PHOTOGRAPHS, LIST OF AMENITIES AND GENERAL PRODUCT DESCRIPTIONS), MUCH OF WHICH INFORMATION IS PROVIDED BY THE RESPECTIVE SUPPLIERS. IN ADDITION, LUXURY RETREATS EXPRESSLY RESERVES THE RIGHT TO CORRECT ANY PRICING ERRORS ON THE SITE AND/OR ON PENDING RESERVATIONS MADE UNDER AN INCORRECT PRICE. IN SUCH EVENT, YOU WILL HAVE THE OPTION TO KEEP YOUR PENDING RESERVATION AT THE CORRECT PRICE OR CANCEL YOUR RESERVATION WITHOUT PENALTY. THE PROPERTY OWNERS AND OTHER SUPPLIERS PROVIDING TRAVEL OR OTHER SERVICES IN CONNECTION WITH THE SITE ARE INDEPENDENT CONTRACTORS AND NOT AGENTS OR EMPLOYEES OF LUXURY RETREATS. LUXURY RETREATS AND ITS AFFILIATES ARE NOT LIABLE FOR THE ACTS, ERRORS, OMISSIONS, REPRESENTATIONS, WARRANTIES, BREACHES OR NEGLIGENCE OF ANY SUCH SUPPLIERS OR FOR ANY PERSONAL INJURIES, DEATH, PROPERTY DAMAGE, OR OTHER DAMAGES OR EXPENSES RESULTING THEREFROM. BY OFFERING TRAVEL PRODUCTS AND SERVICES LOCATED IN PARTICULAR DESTINATIONS, LUXURY RETREATS DOES NOT REPRESENT OR WARRANT THAT TRAVEL TO SUCH POINTS IS ADVISABLE OR WITHOUT RISK, AND IS NOT LIABLE FOR DAMAGES OR LOSSES THAT MAY RESULT FROM TRAVEL TO SUCH DESTINATIONS.
+
+THE INFORMATION AND SERVICES PROVIDED OR REFERENCED ON THE SITE ARE PROVIDED "AS IS" AND WITH ALL FAULTS, AND THE ENTIRE RISK AS TO SATISFACTORY QUALITY, PERFORMANCE, ACCURACY AND EFFORT IS WITH THE USER. IN NO EVENT SHALL LUXURY RETREATS, ITS AFFILIATES AND/OR THEIR RESPECTIVE SUPPLIERS BE LIABLE FOR ANY DIRECT, INDIRECT, PUNITIVE, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR IN ANY WAY CONNECTED WITH THE USE OF OR ACCESS TO THIS SITE OR THE DELAY OR INABILITY TO USE THIS SITE, OR FOR ANY VIRUSES, INFORMATION, SOFTWARE, LINKED SITES, PRODUCTS AND SERVICES OBTAINED THROUGH THE SITE, OR OTHERWISE ARISING OUT OF THE USE OF THE SITE, WHETHER BASED ON CONTRACT, TORT, NEGLIGENCE, STRICT LIABILITY, OR OTHERWISE, EVEN IF LUXURY RETREATS, ITS AFFILIATES OR ANY OF THEIR RESPECTIVE SUPPLIERS HAS BEEN ADVISED OF THE POSSIBILITY OF DAMAGES.
+
+If, despite the limitation above, Luxury Retreats, its affiliates or their respective suppliers are found liable for any loss or damage which arises out of or in any way connected with any of the occurrences described above, then Luxury Retreats, its affiliates or their respective suppliers liabilities will in no event exceed the greater of the total related rental revenue paid by you at the time of the occurrence or USD $100.00.
 
 ## Luxury Retreats Privacy Policy
 
 ##### Last updated: April 16 2018
-
-[Version Français](https://web.archive.org/privacy-terms?lang=fr)
 
 This Privacy Policy explains how we collect, use, process, and disclose your information across the LR Platform. The “ **LR Platform** ” refers to Luxury Retreats’ (“ **LR** ”) websites, our mobile, tablet and other smart applications, and all associated LR services.
 
@@ -311,3 +357,13 @@ Flash cookies operate differently than browser cookies, and cookie management to
 Your mobile device may allow you to control cookies through its settings function. Refer to your device manufacturer’s instructions for more information. 
 
 If you choose to decline cookies, some parts of the LR Platform may not work as intended or may not work at all. 
+
+; 
+
+Stay in the Know
+
+* * *
+
+Get exclusive offers straight to your inbox:
+
+Luxury Retreats and its partners will send you marketing communications. Learn how we handle your details in our [Privacy Policy](https://web.archive.org/privacy-terms#Privacy).
