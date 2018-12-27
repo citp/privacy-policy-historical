@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the shagle.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606035519id_/https%3A//shagle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shagle.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227045919id_/https%3A//shagle.com/privacy) for the most accurate reproduction.*
 
 # Shagle Privacy Policy
 
-This privacy policy (the “Privacy Policy”) applies to the Shagle Services as provided by DBF Group Limited, all User data collected, processed, or otherwise used by Shagle is for the legitimate purposes of delivering the Services to which you have agreed upon acceptance of our Terms of Service. We would like you to know a few things about our Privacy Practices.
+This privacy policy (the “Privacy Policy”) applies to the Shagle Services as provided by Cogroup Limited, all User data collected, processed, or otherwise used by Shagle is for the legitimate purposes of delivering the Services to which you have agreed upon acceptance of our Terms of Service. We would like you to know a few things about our Privacy Practices.
 
 Shagle uses industry standard security protocols, to ensure your personal data is safe. In doing your part, we request you take a moment to review this Privacy Policy understand your rights and obligations. Exercise common sense in the choices you made regarding the information you share online and with other users. Shagle is proud to partner with our community to ensure a safe and enjoyable environment is available for all.
 
@@ -14,7 +14,7 @@ Additionally, this Privacy Policy, and our organizations Data Handling and Priva
 
 **In General.** We may collect Personal Information, including Sensitive Data, and other information. “Personal Information” means individually identifiable information that would allow us to determine the actual identity of, and contact, a specific living person. Sensitive Data includes information, comments or content (e.g. video, profile, comments) that you optionally provide that may reveal personal details to the extent you have chosen. By providing Sensitive Data to us, you consent to the collection, use and disclosure of Sensitive Data as permitted by applicable privacy laws. We may also collect your geolocation information with your consent. We may collect this information through the mobile application, or related online services. By using the Service, you are authorizing us to gather, parse and retain data related to the provision of the Service. By using the Service, you have consented to receive communications, including captured content, transmitted via the Service, your device, or other communications methods you may have assented to, for purposes of ensuring adherence to these Terms of Use, and maintenance of community standards.
 
-**Information you provide.**  In the course of using these Services, either by downloading, installing and using any mobile application, or accessing and using the Services via web browser, for the purposes of enabling the functionalities of Shagle certain information will be transmitted to us. This required information -- including but not limited to, your device type, IP address, your operating system, browser information, location services, and cookies -- essential to provision of the Services. 
+**Information you provide.** In the course of using these Services, either by downloading, installing and using any mobile application, or accessing and using the Services via web browser, for the purposes of enabling the functionalities of Shagle certain information will be transmitted to us. This required information -- including but not limited to, your device type, IP address, your operating system, browser information, location services, and cookies -- essential to provision of the Services.
 
 Such information is passively collected, for purposes of providing and improving these Services. Your use of these services manifests your assent to transmission of such information. Users are reminded that they control their devices settings, including but not limited to cookies settings, geo-location services, and they are responsible for understanding and adjusting settings in the hardware or software they use.
 
@@ -54,7 +54,7 @@ HOW WE USE THE INFORMATION WE COLLECT
   * to gather analytics information to improve the functionality of the Service.
   * to verify your eligibility to use certain features of the service, to contact you in reply to your complaints, or to exercise any rights in our Terms of Use.
   * or to perform functions or services as otherwise described to you at the time of collection.
-  * _detect and fight fraud or other illegal or unauthorized activities, as identified in our Terms of Use or other related policies,_ by gathering and analyzing user data (including text, images, or other content) which may constitute user related illegal or unauthorized activities.
+  * _detect and fight fraud or other illegal or unauthorized activities, as identified in our Terms of Use or other related policies_ , by gathering and analyzing user data (including text, images, or other content) which may constitute user related illegal or unauthorized activities.
   * Perform data analysis in the interest of improving user experience, and developing countermeasures against illegal or unauthorized activities.
   * Retain data (which may include text images, audio, or other content) to prevent against recurrences, or if the event patterns of abuse or illegal activity are detected.
   * Ensure Compliance, by recording Consents and Opt-out Requests related to the information automatically collected or voluntarily given, as required under GDPR and other data protection laws. Assist law enforcement, and other agencies by reporting illegal activity if brought to our attention, and we believe in our discretion such action is warranted.
@@ -104,7 +104,7 @@ If you believe a new feature, content, or communication, is not something you ag
 
 CHILDREN'S PRIVACY
 
-Although our Service is a general audience Service, we require that our Users are of the legal age required to enter into a contract. This Service is not intended for use by children under 13 years of age, and we do not knowingly collect personal information from children under 13. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us [Privacy@Shagle.com](mailto:Privacy@Shagle.com).
+Although our Service is a general audience Service, we require that our Users are of the legal age required to enter into a contract. This Service is not intended for use by children under 13 years of age, and we do not knowingly collect personal information from children under 13. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us [Privacy@Shagle.com](mailto:Privacy@Shagle.com).
 
 _Your California  Privacy Rights_
 
@@ -128,7 +128,7 @@ The Service may contain links to third-party websites. We have no control over t
 
 CHANGES TO THIS PRIVACY POLICY
 
-This Privacy Policy is effective as of the date stated at the top of this Privacy Policy. We may change this Privacy Policy from time to time. Any such changes will be posted on the Service. By accessing the Service after we make any such changes to this Privacy Policy, you are deemed to have accepted such changes. Please be aware that, to the extent permitted by applicable law, our use of the Information is governed by the Privacy Policy in effect at the time we collect the Information. Please refer back to this Privacy Policy on a regular basis. 
+This Privacy Policy is effective as of the date stated at the top of this Privacy Policy. We may change this Privacy Policy from time to time. Any such changes will be posted on the Service. By accessing the Service after we make any such changes to this Privacy Policy, you are deemed to have accepted such changes. Please be aware that, to the extent permitted by applicable law, our use of the Information is governed by the Privacy Policy in effect at the time we collect the Information. Please refer back to this Privacy Policy on a regular basis.
 
 TO CONTACT US
 
