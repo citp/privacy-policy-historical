@@ -1,45 +1,180 @@
-> *The following text is extracted and transformed from the smackjeeves.com privacy policy that was archived on 2009-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090415214538id_/http%3A//www.smackjeeves.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smackjeeves.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227182945id_/http%3A//www.smackjeeves.com/privacy.php) for the most accurate reproduction.*
 
-# Smack Jeeves Webcomic Hosting
+# Privacy Policy for Smack Jeeves
 
-## Privacy Statement for Smack Jeeves
+**Effective Date:** September 10, 2018 
 
-**Smack Jeeves** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [ Smack Jeeves ](http://www.smackjeeves.com/)
+NHN Global, Inc. (“NHN”) has established this www.smackjeeves.com (the “Website”) Privacy Policy to explain NHN’s practices regarding the collection and use of personal information about visitors, and users of the Website. By using, visiting, or accessing the Website in any way, you consent to the collection, sharing, storage and use of your personal information, as outlined below, and as otherwise permitted by law. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, YOU SHOULD NOT ACCESS, VISIT OR USE THE WEBSITE.
 
-####  Information Automatically Logged 
+#### WHAT DOES THIS PRIVACY POLICY COVER?
 
-We use your IP address to help diagnose problems with our server, administer our Web site, provide extra log-in security, and prevent individuals from abusing the ratings system. Your IP is not used for any other purposes. 
+When you visit, access or use the Website, you may be providing personal information to us. This Privacy Policy governs NHN’s practices concerning the collection and use of your personal information received or collected as a result of your use, access or visitation of the Website, the Website’s mobile or social media applications, and/or any other online services, sales, marketing or events related to the Website (referred to collectively in this Privacy Policy as part the "Website"). This Privacy Policy is not relevant to your provision of personal information to NHN offline.
 
-####  Cookies 
+#### WHAT INFORMATION DOES THE WEBSITE COLLECT?
 
-We use cookies to store log-in data for users who choose to stay automatically logged in. This is the only information we store in cookies. Users of Smack Jeeves who create websites through our system also have access to these cookies, and so we also MD5 encrypt the users IP address and a randomly generated password to provide extra log-in security (as mentioned in "Information Automatically Logged"). It should be noted that because users of Smack Jeeves who create websites through our system have the ability to store information in cookies when users visit their websites, it is possible they do so. 
+**_User Submitted Personal Information_**
 
-####  Advertisers 
+We collect personal information that you voluntarily provide to us, such as when you register for any type of account with the Website, when you indicate via electronic communication, or otherwise, a desire to obtain information about the Website or its services, when you participate in any activities on the Website (such as posting messages within the Website’s forums, rating, subscribing to, commenting upon, publishing or accessing e-comics, etc.) or by otherwise contacting or interacting with the Website. The personal information collected as a result of your visitation, use, or access of the Website depends on the nature of your specific interactions with the Website.
 
-We use an outside ad company to display ads on our site. These ads may contain cookies. Cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
+In operating the Website, we may collect user-submitted or communicated information, including first and last names, postal addresses, zip codes, phone numbers, self-descriptions, email addresses, social media user names, gender identifications, photos, images, likenesses, dates of birth and other identifying information provided to us by users or otherwise made available by users on or through the Website. We further store your Website passwords along with related security information used for Website user authentication and to facilitate account access (i.e. hints, answers to security questions, etc.)
 
-####  Personal Information 
+The Website also may collect data necessary to process payments in the event you make purchases from the Website, including your method of payment and the method’s corresponding identification numbers (i.e. credit card numbers), and any security code or other verification information associated with your method of payment. The Website’s payment processor stores all payment data. It is suggested that you review any privacy policies of any Website payment processor and, if you have any questions concerning the separate practices of a payment processor, to contact the payment processor directly.
 
-The only personal information that is required from this site is one's individual email address (for registration). Optional to the user, he/she may also decide to provide the site with other information such as his/her real name and instant messanger contacts. This site does not collect any more personal information than what has been stated. 
+Further, we may provide you with the ability to register for a Website account or to log in to the Website by using the account details of one of your preexisting social media accounts, such as Facebook, Tumblr, Twitter or other social media account. In the event thereof, we will collect the information described in the section called "How Do We Handle Your Social Media Access?" below.
 
-At no time is personal information collected without explicit consent. 
+NHN does not guarantee the accuracy, completeness, suitability, or veracity of any personal information provided by or otherwise made available on or through the Website by you or others. However, all personal information that you provide on, to or through the Website must be true, complete and accurate, and you must notify NHN of any changes to the personal information you have previously provided or with respect to any inaccuracy therein.
 
-####  External Links 
+**_Automatically Collected Or Logged Information_**
 
-This site contains links to other sites. **Smack Jeeves** is not responsible for the privacy practices or the content of such Web sites. 
+The Website’s servers automatically recognize the IP addresses of its users and may also identify a user’s computer or device, connection information for same, as well as information about the browser being used, the browser’s settings, language preferences, and possibly geographic location. Your IP address may be collected by the Website to confirm your agreement to the Website's [Terms of Use](https://web.archive.org/terms_of_use.php) and this Privacy Policy. Your IP address is usually associated with the location from which you access the Internet. NHN may use aggregated, non-private, or otherwise non-personal information collected as a result of the user’s access, visitation or use of the Website to analyze the Website’s use and traffic. In addition, NHN may use this information to diagnose problems with the Website’s servers, to improve or administer the Website, to display content and advertisements, to facilitate transactions, to track how users are using the Website, and to improve the Website’s marketing and reporting systems. NHN may sell, transfer, use, share or disclose your non-private, aggregated or otherwise non-personal information, such as, but not limited to, the number of users who visit the Website or clicked on a given link, and demographic data with business partners and other third-parties on an aggregated and anonymous basis. Further, like many businesses, we also automatically collect information through cookies and similar technologies, as discussed below. 
 
-####  Member Websites 
+**_Information Collected By Mobile Applications_**
 
-Users of Smack Jeeves have the ability to create websites that share the Smack Jeeves domain name (smackjeeves.com). Smack Jeeves strongly attempts to regulate the practices and content of these websites to be deemed "suitable" as we see it, however Smack Jeeves is not responsible for the practices and content of these websites. 
+The Website may offer applications or programs allowing users to access, use or visit the Website, or its services via a mobile device or otherwise. If you use any of the Website’s mobile applications, you may also be providing NHN with the following data:
 
-####  Public Forums 
+  * _A Physical Location._ Any application might request access to and permission to track location-based information transmitted from your mobile or other device, on either a continuous or “during-use” basis, so that location based services may be provided. Your specific device’s settings will allow you to modify your location-based settings or permissions.
+  * _Access to Mobile Devices._ Any application may request access to and permission to certain features from your mobile or others devices, including your mobile device’s memory, software, hardware, storage, camera, contacts, microphone, reminders, sensors, SMS messages, Bluetooth, calendar, social media accounts, and any other mobile device functions or features. Your specific device’s settings will allow you to modify permissions and access to your mobile device’s functions and features.
+  * _Pop-Up or Push Notifications._ Any application may request to send you mobile notifications, alerts, or “push notifications” regarding the Website, your Website account, or any of the Website’s mobile applications. If you wish to cease your receipt of these types of notifications, you will be able to turn same off in your device’s settings.
+  * _Automatically Collected Information._ Any application may automatically record and collect your device’s information. This information may include your mobile device identification number, the device model and manufacturer, the device’s operating system and settings, the device and its hardware and software version information, as well as the device’s IP address.
+  * _Social Media Access._ Should you choose to access any application via you’re a social media account, as a result, the Website may gain access to that social media account’s basic account information, including your name, email address, gender identification, date of birth, listed city location, profile picture URL, as well as other information which you may have chosen to make public through your social media account. We may also request access to other features of your social media account, such as the identities of your “friends,” “check-ins,” “likes,” and other similar information associated with your social media account. However, it is within your discretion to allow or bar access to any particular item of information made available through your social media account as a result of your use thereof to access any application.
 
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
 
-####  Security 
 
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. 
+**_Information Collected From Publically Available Sources_**
 
-##  Contacting the Web Site 
+We may obtain information about you from other sources outside of your use of, access to, or visitation of the Website, including through public databases, from our marketing partners, through social media platforms, and from any other third-party where, with or to whom you have made available any information about yourself.
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may contact us via the "Contact" page linked at the site's header. 
+#### HOW IS YOUR INFORMATION USED?
+
+We use personal information submitted to or collected through the Website for a variety of business activities, discussed below. In short, we may process your personal information for these reasons, in order to confirm or to act under any an agreement made with you, to complete a task for which you have provided your consent, and/or to comply with our legal obligations. We may use the information we collect or receive for the following:
+
+  * **To transmit promotional and marketing materials to you.** We and/or our third-party marketing affiliates may use any personal information you send to us for promotional or marketing purposes, and to send you information regarding the Website and/or its services, NHN’s products or services, or any third-party’s products or services. You may “unsubscribe” to or opt-out of receiving these types of electronic communications as discussed below.
+  * **To provide account initiation and logon processes.** We may request personal information in order to register and verify Website user accounts or identities. Should you choose to connect your account with us to a third party account (i.e. a third party social media account), we may use the information you permit us to collect from the third party administrators of that third party account to facilitate Website account creation and logon processes. Please review the section below called "How Do We Handle Your Social Media Access?" for further information.
+  * **To send Website administrative information to you.** We may use your personal information to notify you with respect to the initiation of, verification of, or changes to your account, to notify you concerning changes to the Website’s terms and conditions and other policies, and to provide you with information regarding Website products, services and new features.
+  * **To manage your purchases.** We may use your information to complete and manage your purchases of and/or payments for services and/or products made on or through the Website.
+  * **To administer contests.** The Website may offer you the ability to enter promotions, contests or other opportunities. In order to participate in same, you may be prompted to submit information about yourself. This information will be used to verify user or participant identities and to contact participants. Also, the name or names of participants may be made available on or through the Website. Further, any named Website partners or co-sponsors may use this information collected to contact participants regarding goods or services they offer or to facilitate transactions. Also the Website may employ third-party service providers or websites, which may request or collect your information in order to facilitate entry into a promotion, contest or other type of opportunity. The collection of information by these third-party service providers or websites is subject to their privacy policies.
+  * **To provide you with targeted advertising.** We may use your personal information to develop and display specific marketing and advertising material (and we may also collaborate with third parties who do and to do same) customized to your demographics, interests and/or location and to measure the effectiveness of this material. Please see the information related to the Website’s use of cookies, below.
+  * **To request feedback.** Your personal information may be used in order to solicit comments or feedback from you regarding the Website and/or its services.
+  * **To protect the Website and its security.** Your information may be used to detect, deter, prevent or otherwise address violations of the law, fraud, potential or actual Website security breaches, to improve or assess Website security, or to address other technical issues related to the use, visitation or access of the Website.
+  * **To facilitate “user to user” and “user to Website” communications.** We may use your information in order to enable your communications with other users of the Website and vice versa, as well as to enable your communications to the Website and/or NHN and vice versa.
+  * **To enforce our terms and conditions and copyright policies.** We may use your personal information to enforce compliance with, or to determine potential violations of this Privacy Policy, the Website’s DMCA Policy, and other terms and conditions of the Website.
+  * **To respond to requests of law enforcement and to prevent harm.** NHN may use, without your consent, your personal information if it is believed that doing so is reasonably necessary to comply with a law or legal request (such as a court order or subpoena), or to protect the wellbeing of any person or property, or the protect any other party’s rights.
+  * **For other valid Website business reasons.** We may use your information for other business purposes, including data analysis of the Website, identifying usage trends of Website features, to assess the effectiveness of marketing or promotions and to evaluate and improve the Website, its services and marketing, as well as the user experience.
+
+
+
+#### WILL WE SHARE YOUR INFORMATION WITH OTHER PARTYS?
+
+Your information will be shared with others in the following circumstances:
+
+  * **For legal compliance.** If legally compelled or required to do so, under either governmental order or applicable law, we will disclose your information, including in response to valid subpoenas.
+  * **For the protection of the Website.** We may disclose your information to others in the event it is reasonably necessary to the investigation of, prevention of, or to enforce against actual or potential violations of Website policies, including the Terms and Conditions and DMCA Policy, suspected fraud, situations involving actual or potential threats of bodily injury to another, and other illegal activities. We may also provide your information to others as evidence in any proceeding, including in litigation in which we are involved either as a named or third-party.
+  * **For the needs of our vendors and other third-party service providers.** NHN engages service providers to perform functions and provide basic services (such as hosting, data, customer service, technical support, marketing assistance, mailing assistance, storage security, delivery of services and reporting services) related to the operation of the Website. NHN may share your information with such service providers or their agents who perform services for use on our behalf and require access to such information to do the tasks for which they have been engaged.
+  * **For business transfers.** As an ongoing concern, NHN may, from time to time, buy and sell various properties and assets, including the Website. In the event all or a portion of the property or assets NHN owns or controls are sold, transferred, assigned or acquired by another party, or in the event a portion of the property or assets of the Website is sold, transferred, assigned or acquired by another party, the information from, about, regarding or concerning Website users, including your information, may be among the properties or assets sold, transferred, assigned or acquired.
+  * **For use by third-party advertisers.** We may also share your information with the Website’s business partners, co-sponsors or other affiliated companies so that they may send you marketing or promotional materials or otherwise contact you regarding services or products that they offer or that may be relevant to your use of the Website. These third parties may use information about your visits and/or use of our Website and other websites that are contained in web cookies and other tracking technologies. Please refer to the information regarding the Website’s use of cookies, below.
+  * **For our affiliated entities.** We may share your information with entities affiliated with NHN, in which case those affiliated entities will be required to honor this Privacy Policy. Affiliated entities include our parent company (located in the Republic of Korea), and any subsidiaries, joint venture partners or other companies that NHN controls or that is under common control with NHN.
+  * **For other Website users.** What you post to the Website may be viewable by other users, and other users of the Website will have the ability to view descriptions of your activity, communicate with you within our Website, and view your Website profile. When you share personal information (for example, by posting comments, ratings, e-comics, contributions, or other content to the Website) or otherwise interact with public areas of the Website, any personal information posted may be viewed by the public and may be distributed outside the Website, in any territory, in perpetuity. Further, if you register to use the Website through a social media account (such as Facebook), your contacts on the social network might see your name, profile photo, and a description of your Website activity.
+  * **Through Offer Walls.** A third-party hosted “offer wall” may be made available on or through the Website. This may allow third parties to offer you physical or digital items in return for your acceptance and completion of an advertisement offer. Offer walls may also appear in any of the Website’s mobile applications. They may also be displayed to you based on your specific geographic or demographic data. You will leave the Website platform if you click on an offer wall. An identifier, such as your user ID, will be shared with the offer wall provider.
+
+
+
+#### HOW DOES THE WEBSITE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?
+
+A “cookie” is a string of information that assigns to you a unique identifier that is stored by us on your computer. We use cookies and similar tracking methods (like web beacons and pixels) to access or store information on your computer or device. Your web browser then makes that unique identifier readable by us each time you submit a query to the Website. We use cookies on the Website to, among other things, track your use of services, log your registration information, document your user preferences, keep you logged into the Website or your account, facilitate transactions, and track each Website web page you visit. Cookies help us understand how the Website is being used. We then use this information to improve the user and visitor experience. We may employ the following types of cookies when you use, access or visit the Website:
+
+  * **Advertising Cookies.** This type of cookie is placed on your computer or device by advertisers and ad servers to display advertisements to you. Advertising cookies allow advertisers and ad servers to gather information about your visits and use of the Website and other websites, change ads sent to a specific identified computer or device, and track the frequency at which an ad has been viewed and by what computer or device. These cookies are linked to a computer or device and do not reveal a person’s identity.
+  * **Analytics Cookies.** An analytic cookie is a type of technology that monitors how users access the Website, and how they interact with and navigate through the Website. We may use these cookies to provide us with information concerning which Website features are working, and how we can improve the Website. Further, as discussed below, we use Google Analytics to collect statistical information regarding how the Website is used. This information is not personally identifiable.
+  * **Cookies Created by NHN.** We may use our own cookies, which can be either permanent or temporary. These cookies may be necessary to the proper functioning of the Website and its features. Some of these cookies may be manually disabled in your browser. However, if these cookies are blocked or removed, the Website and its features may not work properly for the user.
+  * **Personalized Cookies.** In order to identify repeat visitors of the Website, we may use personalization cookies. These types of cookies record your Website browsing history, the pages you have visited, and your settings and preferences at each visit to the Website.
+  * **Website Administration and Management Cookies.** Cookies may be used to manage and administer including to maintain your identity or session on the Website. These types of cookies may keep you from being logged off from your account unintentionally and to ensure that any information you enter on a given Website page is maintained from page to page. These types of cookies cannot be separately turned off. They can be disabled through the disabling of all cookies through the settings in your browser.
+  * **Cookies For Security.** In order to help identify and prevent Website security risks we may use cookies. We may use these types of cookies to authenticate users and to protect user data from unauthorized access.
+  * **Third Party Cookies.** Third-party cookies may be placed on your computer or device when you visit the Website. These cookies allow the third parties to gather and track certain information about you. These cookies can be manually disabled in your browser. These third party services used by the Website include Google Analytics, Google AdSense and Google Adwords, discussed below. Google uses what is known as the “DoubleClick” cookie in the ads served on the websites of Google’s partners, such as websites displaying AdSense ads or participating in Google certified ad networks. When users visit a Google partner's website and either view or click on an ad, a cookie may be dropped on that end user's browser.
+
+
+
+#### DOES THE WEBSITE USE ITEMS OTHER THAN COOKIES TO TRACK YOU?
+
+Besides cookies, we may use web beacons, pixel tags, clear gifs, and different tracking technologies on the Website in order to customize the Website experience to your use thereof and to improve your use experience. A “web beacon,” “pixel tag,” or “clear gif” is a small object or image embedded in a web page or email. These objects are used to track the number of users who have visited a page, who have viewed emails, and to acquire other statistical data. These objects collect only a limited set of data, such as cookie numbers, time and date of page or email views, and descriptions of the page or email on which the objects reside. Web beacons, clear gifs and pixel tags cannot be declined. However, you can limit their function by controlling the cookies that interact with them through your web browser preferences.
+
+#### WHAT HAPPENS IF YOU REFUSE TO ACCEPT COOKIES OR PROVIDE THE WEBSITE WITH INFORMATION?
+
+Many Internet browsers are configured to automatically allow cookies. Conversely, your browser may allow you to bar, remove or reject cookies. If you choose to get rid of, bar or reject cookies, this may have an adverse effect on your use of the Website, its services, or your account.
+
+Further, you may opt not to provide the Website with any facts about yourself or other requested information. However, any decision to refrain from providing the Website with information, or any decision to unsubscribe from an account, service, or content may restrict your ability to access, visit or use the Website, or features or functions of the Website.
+
+#### DOES THE WEBSITE USE GOOGLE ANALYTICS?
+
+The Website uses Google Analytics. Google Analytics uses cookies that are stored on your computer to accomplish various reviews of your use of the Website. The information generated by these cookies, including time, place and frequency of your visits to the Website, and your IP address, is transmitted to Google in the US and stored there by them. Google uses this information to review and analyze your use of the Website, to compile reports for us regarding Internet activity and to provide other services relating to the Website.
+
+Google Analytics offers a deactivation add-on for most browsers. This add-on may provide you with more control over what data Google can collect on websites you access. You can acquire information on how to install this add-on at the following link: https://tools.google.com/dlpage/gaoptout?hl=en. However, this browser deactivation add-on offered by Google Analytics does not prevent information from being transmitted to us or to other web analysis services we may engage. Google Analytics may also uses web beacons or pixel gifs, along with cookies, to compile aggregated statistics and to analyze how the Website is used.
+
+#### DOES THE WEBSITE USE GOOGLE ADWORDS?
+
+The Website utilizes Google AdWords’ remarketing service to advertise the Website on third party websites (including via Google) to previous visitors of the Website. This may be in the form of an advertisement displayed in Google search engine results, or on websites participating in the Google Display Network. Third-party vendors, including Google, may use cookies to serve you ads based on your prior visits to the Website. Any data we may collect through the use of these cookies is used in accordance with this Privacy Policy or Google’s own privacy policy. You can set the manner by which Google serves advertising to you through the Google Ad Preferences page. You may also be able to opt out of interest-based advertising through your browser’s cookie settings or by using the above described browser add-on.
+
+#### DOES THE WEBSITE USE GOOGLE ADSENSE?
+
+The Website makes use of Google AdSense, a third party marketing network service. Google AdSense utilizes cookies to ensure that the Website receives payments when Website users buy a product or service after clicking on a portal, link or ad banner displayed on the Website that ultimately took the user to the website or web page of a Google AdSense associated product or service provider.
+
+#### HOW DO WE HANDLE YOUR SOCIAL MEDIA ACCESS?
+
+The Website may also offer you the ability to register for an account or to log in to the Website by using one of your social media accounts (such as your Facebook, Google, or Twitter account logins). Should you choose to do this, we will obtain information about you from the particular social media provider corresponding to the social media account used. The information obtained from your social media provider will depend on the social media account used. However the information obtained will likely include your first and last name, electronic mail address, “friends” or “following” lists, “likes,” “check-ins,” profile pictures, as well as other facts you have chosen to make public about yourself through the given social media provider. The Website’s ability or permission to access this social media account information may be managed through your particular social media account.
+
+The Website will utilize the information acquired from your social media providers as discussed in this Privacy Policy or in any manner that is otherwise made apparent on the Website. Please be aware that we do not manage and are not responsible for your social media provider’s use of your private or public information. You should review any privacy policy furnished by the social media provider relevant to your use the Website so that you are aware of how the social media provider collects, uses and shares your information, and how you can set your privacy preferences therein.
+
+#### NOTICE REGARDING INTERNATIONAL USE.
+
+This Website is intended for users solely from and residing in the United States. Further, the Website is not intended to offer any products or services to any person or in any location outside of the United States. If you are using the Website from regions with data collection and use laws that may differ from the law of the United States (such as, by way of example only, the European Union), then be advised that your personal information will be transferred to and stored in the United States, and by providing us with your personal information you are consenting to that transfer and storage.
+
+#### WHAT IS THE WEBSITE’S POLICY CONCERNING THIRD-PARTY WEBSITES?
+
+The Website may display advertising from third parties that are not affiliated with the Website or NHN and which may provide, via a link, access to other websites, online services or mobile applications. We are not responsible for the content nor the privacy and security practices and policies of any third parties, including other websites, services or applications that may be linked to or from the Website. And, we do not guarantee the safety and privacy of data that you might provide to any of these third parties. This Privacy Policy does not cover data collected by any third party. It is your sole responsibility to contact any third party to whom you have provided information to determine that third party’s policies.
+
+#### HOW LONG DO WE KEEP YOUR INFORMATION?
+
+We will store your information for as long as it is necessary to the purposes set out in this Privacy Policy, unless a longer retention period is require or permitted by law. Nothing in this Privacy Policy will require us to keep your personal information for longer than the same period of time during which you have an account with us.
+
+When we have no ongoing or further legitimate business needs or legal requirements to process your personal information, we may either delete it, make it anonymous, or, if neither option is possible (because, for example, the information has been archived in backups), then we will properly store your personal information by isolating it from any further processing until its deletion becomes possible.
+
+#### HOW IS INFORMATION KEPT SAFE?
+
+No transmission over the Internet can be made completely secure, and no security measure is entirely invincible. NHN takes reasonable measures to protect data on the Website’s servers from destruction, disclosure, loss, misuse, unauthorized access, damage, or unauthorized alteration, taking into account the level of risk and the type of data at issue. However, NHN does not guarantee the security of any information you send to NHN or the Website or the security of the Website’s servers or databases. By using the Website, you assume all risk in connection with the information sent to or collected by the Website. You are also responsible for taking reasonable precautions on your own behalf to protect unauthorized access to any account you may have registered with the Website.
+
+#### DO WE COLLECT INFORMATION FROM MINORS?
+
+The Website is a general audience website. Neither NHN nor the Website knowingly collects data from any person under the age of 13 years. We do not knowingly solicit information from or market to children under the age of 13 years. By using the Website, you represent that you are at least 13 years of age or that you are the parent or guardian of same and consent to such minor dependent’s use of the Website. If we learn that personal information from users less than 13 years of age has been collected improperly, upon notice, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you are aware of any data we have collected from a child under 13 years of age, please contact us at: [dl_smackjeeves@nhnglobal.com](mailto:dl_smackjeeves@nhnglobal.com)
+
+#### DO I HAVE ADDITIONAL PRIVACY RIGHTS AS A CALIFORNIA RESIDENT?
+
+The “Shine The Light” law, appearing at California Civil Code Section 1798.83, permits California residents to ask for and obtain, only once a year, but free of charge, information about the categories of personal information (if any) obtained as a result of your use of the Website that we have also disclosed to third parties for direct marketing purposes along with the names and addresses of all third parties to whom we have provided personal information in the preceding calendar year. If you are a California resident and you desire to make such a request, please submit your request in writing at [dl_smackjeeves@nhnglobal.com](mailto:dl_smackjeeves@nhnglobal.com)
+
+Further, if you are under 18 years of age, reside in California, and have a registered account with the Website, you may request the removal of data that you have made publically available on the Website. To request removal of such data, please contact us at [dl_smackjeeves@nhnglobal.com](mailto:dl_smackjeeves@nhnglobal.com), and include the email address associated with your account, where the content at issue can be located on the Website, and a statement confirming that you reside in California. We will endeavor to make sure that within a reasonable time the data at issue is not thereafter publicly displayed on the Website. But, please be aware that the data may not be completely or comprehensively removable from the Website’s systems.
+
+#### CAN I REMOVE PERSONAL INFORMATION FROM THE WEBSITE?
+
+You may notify NHN at any time that you wish to end NHN’s storage of your personal information, and upon receipt of that notice NHN will remove all information about you from NHN’s database. If you request the removal of personal information you will no longer be able to access any part of the Website or NHN’s services that require personal information or registration unless you re-register or re-provide same. Any information or content that you have posted to public areas of the Website may remain irrespective of the status of your user account, personal information, or your request to delete personal information, including, but not limited to in the event you have posted personal information on publically available parts of the Website. The deletion of your personal information from NHN’s database may not cause the removal of any content you may have previously posted, uploaded or otherwise made publically available on or through to the Website.
+
+#### CAN YOU REVIEW OR CORRECT PERSONAL INFORMATION?
+
+User’s who have provided personal information on or through the Website may request to review and/or correct this information by sending NHN an email or by logging into their user account and changing any information therein, where applicable.
+
+#### CAN YOU OPT OUT OF RECEIVING ELECTRONIC COMMUNICATIONS?
+
+Any user who wants to stop receiving the Website’s electronic newsletters, marketing materials, or promotions, or any offers or other correspondence from the Website may opt out of Website’s email list at any time by following the “Unsubscribe” instructions contained in any email you receive from NHN, or by sending an email from the account you wish to unsubscribe with the word “Unsubscribe” in the subject line to NHN at [dl_smackjeeves@nhnglobal.com](mailto:dl_smackjeeves@nhnglobal.com).
+
+#### HOW DOES THE WEBSITE RESPOND TO “DO NOT TRACK” OR “DNT” SIGNALS?
+
+The Website does not respond to “DNT” or “Do Not Track” signals. We are awaiting the results of efforts by the policy community and the relevant industry to determine when such a response to “DNT” or “Do Not Track” signals will be appropriate and what form they should take.
+
+#### HOW WILL I KNOW IF THIS POLICY IS UPDATED?
+
+We may revise this Privacy Policy from time to time by posting the changes to this specific webpage. You can determine the date of the most recent changes to this Privacy Policy by looking at the “Effective Date” at the top of this page. Further, if we make material changes to this Privacy Policy, we may try to notify you either by placing a notice of such changes on the Website or by sending you an electronic notification. It is also is suggested that you to review this Privacy Policy on a regular basis so that you are informed of the Website’s most current privacy and information policies.
+
+#### HOW CAN YOU CONTACT US ABOUT THIS POLICY?
+
+If you have questions, concerns, or comments about this Privacy Policy or any other item discussed herein, please contact us via email at Christine.chung@nhnglobal.com, or by sending postal mail to us at:
+
+LEGAL DEPARTMENT  
+NHN GLOBAL, INC.  
+3530 WILSHIRE BLVD STE 1600  
+LOS ANGELES CA 90010 
