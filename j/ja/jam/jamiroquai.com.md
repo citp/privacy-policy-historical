@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamiroquai.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627171416id_/http%3A//jamiroquai.com/%23privacyModal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamiroquai.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227140344id_/http%3A//jamiroquai.com/%23privacyModal) for the most accurate reproduction.*
 
 # Jamiroquai Official Website / FOR MORE NEWS FOLLOW US ON INSTAGRAM @JAMIROQUAIHQ
 
