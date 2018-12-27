@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photographypla.net privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627130328id_/https%3A//photographypla.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photographypla.net privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227203313id_/https%3A//photographypla.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PhotographyPla.net
 
