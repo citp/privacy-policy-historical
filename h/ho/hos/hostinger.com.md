@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostinger.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614103427id_/https%3A//www.hostinger.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostinger.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227132055id_/https%3A//www.hostinger.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -105,7 +105,7 @@ Hostinger processes this information on the **legal basis** of:
 
 
 
-### 4\. HOW WE USE YOURE DATA?
+### 4\. HOW WE USE YOUR DATA?
 
 We use, store, combine and process information, including personal information, about you to provide, understand, improve, and develop the Hostinger Platform, create and maintain a trusted and safer environment and comply with our legal obligations.
 
