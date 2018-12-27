@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the checkpagerank.net privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607103143id_/https%3A//www.checkpagerank.net/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkpagerank.net privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227130559id_/https%3A//checkpagerank.net/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Check Page Rank!
 
