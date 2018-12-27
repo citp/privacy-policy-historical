@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moneysavingmom.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614111032id_/http%3A//moneysavingmom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneysavingmom.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227132813id_/https%3A//moneysavingmom.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Money Saving Mom®
+# Privacy Policy - Money Saving Mom® : Money Saving Mom®
 
 Money Saving Mom®, LLC (“ **Company** ,” “ **we** ,” or “ **us** ”) respects your privacy and is committed to protecting it through this Privacy Policy.
 
@@ -14,7 +14,7 @@ Please read the Privacy Policy carefully before you start to use the Website. **
 
 Our Website is not intended for children under 13 years of age. No one under age 13 may provide any information to or on the Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Website or on or through any of its features/register on the Website, make any purchases through the Website, use any of the interactive or public comment features of this Website or provide any information about yourself to us, including your name, address, telephone number, email address, or any screen name or user name you may use.
 
-If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please [contact us](http://moneysavingmom.com/contact).
+If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please [contact us](https://moneysavingmom.com/contact).
 
 ### **Information We Collect About You**
 
@@ -62,9 +62,9 @@ Users who no longer wish to receive our newsletter or promotional materials may 
 
 The Company collects your information in order to record and support your participation in the activities you select. If you register to download a book or resources, sign up for our newsletter, and/or purchase a product from us, we collect your information. We use this information to track your preferences and to keep you informed about the products and services you have selected to receive and any related products and/or services. As a visitor to this Website, you can engage in most activities without providing any personal information. It is only when you seek to download resources and/or register for services that you are required to provide information.
 
-If you are outside the European Union and opt to receive any free resources, participate in any free training programs, register for a webinar, register for a live event, register for a seminar, or purchase any products sold by the Company on this Website, we will automatically enroll ​you to receive our free email newsletter. If you do not wish to receive this newsletter, you can unsubscribe anytime. We include an “unsubscribe” link at the bottom of every email we send. If you ever have trouble unsubscribing, you can [contact us](http://moneysavingmom.com/contact) to unsubscribe from future emails.
+If you are outside the European Union and opt to receive any free resources, participate in any free training programs, register for a webinar, register for a live event, register for a seminar, or purchase any products sold by the Company on this Website, we will automatically enroll ​you to receive our free email newsletter. If you do not wish to receive this newsletter, you can unsubscribe anytime. We include an “unsubscribe” link at the bottom of every email we send. If you ever have trouble unsubscribing, you can [contact us](https://moneysavingmom.com/contact) to unsubscribe from future emails.
 
-If you are in the European Union and opt to receive any free resources, participate in any free training programs, register for a webinar, register for a live event, register for a seminar, or purchase any products sold by the Company on this Website, we will only enroll ​you to receive our free email newsletter if you affirmatively consent to it. If you do not wish to receive this newsletter, you can unsubscribe anytime. We include an “unsubscribe” link at the bottom of every email we send. If you ever have trouble unsubscribing, you can [contact us](http://moneysavingmom.com/contact) to unsubscribe from future emails.
+If you are in the European Union and opt to receive any free resources, participate in any free training programs, register for a webinar, register for a live event, register for a seminar, or purchase any products sold by the Company on this Website, we will only enroll ​you to receive our free email newsletter if you affirmatively consent to it. If you do not wish to receive this newsletter, you can unsubscribe anytime. We include an “unsubscribe” link at the bottom of every email we send. If you ever have trouble unsubscribing, you can [contact us](https://moneysavingmom.com/contact) to unsubscribe from future emails.
 
 ### **How Do We Use the Information That You Provide to Us?**
 
@@ -122,6 +122,6 @@ We require only the information that is reasonably required to enter into a cont
 
 The Company welcomes your questions or comments regarding the Privacy Policy.
 
-Contact us [here](http://moneysavingmom.com/contact)!
+Contact us [here](https://moneysavingmom.com/contact)!
 
 _Effective as of May 15, 2018_
