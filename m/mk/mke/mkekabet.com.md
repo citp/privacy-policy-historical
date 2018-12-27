@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mkekabet.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627040429id_/https%3A//www.mkekabet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mkekabet.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227113244id_/https%3A//www.mkekabet.com/privacy-policy) for the most accurate reproduction.*
 
 # MkekaBet Sportsbook
 
@@ -8,7 +8,7 @@
 
 ##### 1\. Purpose of this Privacy Policy
 
-The following describes the information gathering and dissemination practices for the website [www.Mkekabet.com](https://web.archive.org/web/20180627040429id_/https://www.mkekabet.com/privacy-policy/www.Mkekabet.com).
+The following describes the information gathering and dissemination practices for the website [www.Mkekabet.com](https://web.archive.org/web/20181227113244id_/https://www.mkekabet.com/privacy-policy/www.Mkekabet.com).
 
   2. * * *
 
