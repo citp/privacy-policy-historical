@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the uniqlo.com privacy policy that was archived on 2018-06-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180612174130id_/https%3A//www.uniqlo.com/us/en/help/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the uniqlo.com privacy policy that was archived on 2018-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181228000840id_/https%3A//www.uniqlo.com/us/en/help/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><!--<![endif]--><head>
 
@@ -109,7 +109,7 @@
 }
 </script>
 
-<link href="https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/v1528823181872/../images/favicon.ico" rel="shortcut icon">
+<link href="https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/v1545944319838/../images/favicon.ico" rel="shortcut icon">
 
 
 
@@ -122,13 +122,13 @@
 
 
 
-<link rel="stylesheet" href="/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/v1528823181872/css/fontfaces.css" type="text/css" crossorigin="">
-<link href="https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/v1528823181872/css/allinone.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/v1545944319838/css/fontfaces.css" type="text/css" crossorigin="">
+<link href="https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/v1545944319838/css/allinone.css" rel="stylesheet" type="text/css">
 <!--[if gte IE 9 | !IE]><!-->
-<script src="https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/v1528823181872/lib/jquery/jquery-2.1.1.min.js" type="text/javascript"></script>
+<script src="https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/v1545944319838/lib/jquery/jquery-2.1.1.min.js" type="text/javascript"></script>
 <!--<![endif]-->
 <!--[if lte IE 8]>
-<script src="https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/v1528823181872/lib/jquery/jquery-1.11.1.min.js" type="text/javascript"></script>
+<script src="https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/v1545944319838/lib/jquery/jquery-1.11.1.min.js" type="text/javascript"></script>
 <![endif]-->
 <!--[if lte IE 8]>
 <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.js" type="text/javascript"></script>
@@ -140,12 +140,12 @@
 
 <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
 <!--[if lt IE 9]>
-<script src="https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/v1528823181872/js/lib/html5.js"></script>
+<script src="https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/v1545944319838/js/lib/html5.js"></script>
 <![endif]-->
 
 
 
-<link href="https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/v1528823181872/certona/css/resonance.css" type="text/css" rel="stylesheet">
+<link href="https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/v1545944319838/certona/css/resonance.css" type="text/css" rel="stylesheet">
 
 
 <script type="text/javascript">//<!--
@@ -162,7 +162,13 @@ dw.ac = {
         }
         dw.ac._events.push(configs);
     },
-    capture: function() { dw.ac._capture(arguments); },
+	capture: function() { 
+		dw.ac._capture(arguments);
+		// send to CQ as well:
+		if (window.CQuotient) {
+			window.CQuotient.trackEventsFromAC(arguments);
+		}
+	},
     EV_PRD_SEARCHHIT: "searchhit",
     EV_PRD_DETAIL: "detail",
     EV_PRD_RECOMMENDATION: "recommendation",
@@ -207,6 +213,33 @@ CQuotient.getCQUserId = function () {
 	if(window.CQuotient.cquid == '')
 		window.CQuotient.initFromCookies();
 	return window.CQuotient.cquid;
+};
+CQuotient.trackEventsFromAC = function (/* Object or Array */ events) {
+try {
+	if (Object.prototype.toString.call(events) === "[object Array]") {
+		events.forEach(_trackASingleCQEvent);
+	} else {
+		CQuotient._trackASingleCQEvent(events);
+	}
+} catch(err) {}
+};
+CQuotient._trackASingleCQEvent = function ( /* Object */ event) {
+	if (event && event.id) {
+		if (event.type === dw.ac.EV_PRD_DETAIL) {
+			CQuotient.trackViewProduct( {id:'', alt_id: event.id, type: 'raw_sku'} );
+		} // not handling the other dw.ac.* events currently
+	}
+};
+CQuotient.trackViewProduct = function(/* Object */ productData){
+	var cq_params = {};
+	cq_params.cookieId = CQuotient.getCQCookieId();
+	cq_params.userId = CQuotient.getCQUserId();
+	cq_params.product = productData;
+	if(CQuotient.sendActivity) {
+		CQuotient.sendActivity(CQuotient.clientId, 'viewProduct', cq_params);
+	} else {
+		CQuotient.activities.push({activityType: 'viewProduct', parameters: cq_params});
+	}
 };
 /* ]]> */
 // -->
@@ -318,10 +351,10 @@ dataLayer =[{
   "visitorLoginState": "guest",
   "customerEmail": "",
   "customerCountry": "US",
-  "customerState": "CA",
+  "customerState": null,
   "dwId": "",
-  "userId": "acagxDV3j2f5es0H3IuVeGr6wB",
-  "sessionId": "p1l3iIyL1C8oxetBphXhMSOZdN-hD8ZxaXw="
+  "userId": "bdWvgaBITVMbDO5dsGAjkS3zWS",
+  "sessionId": "QD5bvLwx320deQzpLCZoieakV5huwqlwe-8="
 }];
 </script>
  
@@ -356,7 +389,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 
-<link rel="canonical" href="https://www.uniqlo.com/UniqloUS/en/help/privacy-policy">
+<link rel="canonical" href="https://www.uniqlo.com/us/en/help/privacy-policy">
 
 
 
@@ -557,31 +590,34 @@ resx.top2 = 100000;
 
 
 <div class="content-asset" id="header-promo-banner"><!-- dwMarker="content" dwContentID="5cb3774bae59f251e51d015b4b" -->
-<strong class="free-shipping">Free 2-Day Shipping on Orders Over $150</strong>
-<strong class="free-shipping" style="color: black;">&nbsp;&nbsp;</strong>
-<strong class="free-shipping"></strong>
+<p class="free-shipping red"><strong>Free Shipping on All Orders<font color="black"></font></strong></p>
 
 <style>
 .free-shipping {
+    display: inline-block;
     font-size: 15px;
-    font-family: "DIN Next W01 Bold", arial;
+    font-family: "UniqloProBold", arial;
     font-weight: normal;
+    color: black;
     display: inline-block;
     float: left;
     margin-top: 3px;
     text-transform: none;
 }
-.free-shipping .red {
-color: red;
+
+.free-shipping.red {
+    font-size: 15px;
+    color: red;
 }
 
 .desktop_uniqlo .header-wrapper .promo-container .promo-banner {
     width: 39%;
 }
+
 @media (max-width: 1024px) {
-.desktop_uniqlo .header-wrapper .promo-container .promo-banner {
-    width: 51%;
-}
+    .desktop_uniqlo .header-wrapper .promo-container .promo-banner {
+        width: 51%;
+    }
 }
 </style>
 </div> <!-- End content-asset -->
@@ -612,64 +648,186 @@ color: red;
 
 </li>
 </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content-asset" id="top_nav_promo_container"><!-- dwMarker="content" dwContentID="9aad4e7477127547f90268d83c" -->
 <ul class="pull-right more-details">
+	<span class="ipad-show">more<span class="sprites-drop-arrow"></span></span>
+	<ul class="top-bar-menu-items">
+		<span class="mini-cart-arrow">&nbsp;</span>
+                        
+                        <!-- for ipad -->
+			<li class="frined showingipadonly">
+				<a href="https://www.uniqlo.com/us/en/page/refer-a-friend.html" title="GET $10">
+					<span class="re-frined"></span>
+					<strong> GET $10 </strong>
+				</a>
+			</li>
 
-<span class="ipad-show">more <span class="sprites-drop-arrow"></span></span>
-<ul class="top-bar-menu-items">
-<span class="mini-cart-arrow">&nbsp;</span>
+		<!-- for ipad -->
 <li class="giftcard showingipadonly">
+        <a href="https://gifts.uniqlo.com/send/start.html?productId=EGIFT_CARD&amp;utm_source=uniqlo&amp;utm_medium=header" title="Gift Card Link">
+            <img src="//uniqlo.scene7.com/is/image/UNIQLO/gift_card_b?$png$&amp;wid=20" style="margin-bottom: -2px; padding-top: 2px;">
+            <strong style="top:0;"> Gift Card </strong>
+        </a>
+    </li>		
 
+ <li class="giftcard showingipadonly">
+		 	<a href="https://www.uniqlo.com/us/en/bulk-order.html">
+			<span class="e-giftcart"></span>
+			<strong> Bulk Order </strong>
+			</a>
+		</li>
+		<li class="aboutUniqlo">
+			<a href="http://www.uniqlo.com/us/en/company/about-uniqlo-us.html" title="ABOUT US">
+				<span class="sprites-icon-about"></span>
+				<strong> ABOUT US </strong>
+			</a>
+		</li>
 
-
-
-<a href=" https://gifts.uniqlo.com/send/start.html?productId=EGIFT_CARD">
-<span class="e-giftcart"></span>
-<strong>GIFT CARD</strong>
-</a>
-</li>
-<li class="aboutUniqlo">
-<a href="/us/en/company/about-uniqlo-us.html" title="ABOUT UNIQLO">
-<span class="sprites-icon-about"></span>
-<strong> ABOUT UNIQLO </strong>
-</a>
-</li>
-
-<li class="carrer">
-<a href="https://www.fastretailing.com/employment/en/uniqlo/us/" title="NOW HIRING!">
-<span class="sprites-icon-carriers"></span>
-<strong> NOW HIRING! </strong>
-</a>
-</li>
-
-<li class="help">
-<a href="/us/en/help/faqs" title="HELP">
-<span class="sprites-icon-help"></span>
-<strong> HELP </strong>
-</a>
-</li>
+		<li class="carrer">
+			<a href="https://www.uniqlo.com/us/en/employment/hr.html" title="HIRING!">
+				<span class="sprites-icon-carriers"></span>
+				<strong> HIRING! </strong>
+			</a>
+		</li>
+		
+		<li class="help">
+			<a href="http://www.uniqlo.com/us/en/help/faqs" title="HELP">
+				<span class="sprites-icon-help"></span>
+				<strong> HELP </strong>
+			</a>
+		</li>
+	</ul>
 </ul>
-</ul>
+
 <ul class="pull-right stores">
-
-<li class="stores">
-<a href="/us/en/find-stores/" title="Locate Stores">
-<span class="sprites-icon-stores"></span>
-<strong> Stores </strong>
-</a>
-</li>
+	<li class="stores">
+		<a href="http://www.uniqlo.com/us/en/find-stores/" title="Locate Stores">
+			<span class="sprites-icon-stores"></span> 
+			<strong> Stores </strong> 
+		</a>
+	</li>
 </ul>
-<ul class="pull-right stores showingdskonly">
-<li class="giftcard">
 
+<!-- for desktop -->
+<!--<ul class="pull-right stores showingdskonly">
+	<li class="giftcard">
+		<a href="https://www.uniqlo.com/us/en/bulk-order.html">
+			<span class="e-giftcart"></span>
+			<strong> Bulk Order </strong>
+		</a>
+	</li>
+</ul>-->
 
-
-
-<a href=" https://gifts.uniqlo.com/send/start.html?productId=EGIFT_CARD">
-<span class="e-giftcart"></span>
-<strong>GIFT CARD</strong>
-</a>
-</li>
+<ul class="pull-right stores showingdskonly" style="padding: 14px 0 0 18px;">
+    <li class="carrer">
+        <a href="https://gifts.uniqlo.com/send/start.html?productId=EGIFT_CARD&amp;utm_source=uniqlo&amp;utm_medium=header" title="Gift Card Link">
+            <img src="//uniqlo.scene7.com/is/image/UNIQLO/gift_card_b?$png$&amp;wid=20" style="margin-bottom: -2px; padding-top: 2px;">
+            <strong style="top:0;"> Gift Card </strong>
+        </a>
+    </li>
 </ul>
+
+<!-- for desktop -->
+<ul class="pull-right stores reffer-frined showingdskonly">
+	<li class="frined">
+		<a href="https://www.uniqlo.com/us/en/page/refer-a-friend.html" title="GET $10">
+			<span class="re-frined"></span>
+			<strong> GET $10 </strong>
+		</a>
+	</li>
+</ul>
+
+<style type="text/css">
+.header-wrapper .promo-container ul.stores li a span  {
+	background: url("https://www.uniqlo.com/na-static/on/demandware.static/-/Library-Sites-Uniqlo/default/dwc2526f1e/sprite-uniqlo.png") no-repeat;
+	display: inline-block; 
+}
+
+.header-wrapper .promo-container ul.stores li a span.sprites-icon-stores {
+	background-position: -75px -69px;
+	height: 17px;
+	width: 13px; 
+}
+
+.header-wrapper .promo-container ul.stores li a span.e-giftcart {
+    background: url("https://www.uniqlo.com/na-static/on/demandware.static/-/Library-Sites-Uniqlo/default/v1545944319838/bulk-1.png?$png$") no-repeat;
+    height: 20px;
+    width: 19px;
+    display: inline-block;
+    background-size: 100%;
+}
+
+.header-wrapper .promo-container ul.more-details .top-bar-menu-items li a span {
+	background: url("https://www.uniqlo.com/na-static/on/demandware.static/-/Library-Sites-Uniqlo/default/dwc2526f1e/sprite-uniqlo.png") no-repeat;
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+
+.header-wrapper .promo-container ul.more-details .top-bar-menu-items li a span.sprites-icon-about {
+    background-position: 0 -87px;
+    height: 14px;
+    width: 21px;
+}
+
+.header-wrapper .promo-container ul.more-details .top-bar-menu-items li a span.sprites-icon-help {
+    background-position: -108px -69px;
+    height: 18px;
+    width: 18px;
+}
+
+.header-wrapper .promo-container ul.more-details .top-bar-menu-items li a span.sprites-icon-carriers {
+    background-position: -88px -69px;
+    height: 16px;
+    width: 20px;
+}
+
+.header-wrapper .promo-container ul.more-details .top-bar-menu-items li a span.re-frined {
+    background: url("https://www.uniqlo.com/na-static/on/demandware.static/-/Library-Sites-Uniqlo/default/dw67d796c5/refer_friend_icon_b.png") no-repeat;
+    height: 17px;
+    width: 26px;
+    display: inline-block;
+    background-size: 100%;
+}
+
+.header-wrapper .promo-container ul.more-details .top-bar-menu-items li a span.e-giftcart {
+    background: url("https://www.uniqlo.com/na-static/on/demandware.static/-/Library-Sites-Uniqlo/default/v1545944319838/bulk-1.png?$png$") no-repeat;
+    height: 20px;
+    width: 19px;
+    display: inline-block;
+    background-size: 100%;
+}
+
+.header-wrapper .promo-container ul.stores.reffer-frined li a span.re-frined {
+    background: url("https://www.uniqlo.com/na-static/on/demandware.static/-/Library-Sites-Uniqlo/default/dw67d796c5/refer_friend_icon_b.png") no-repeat;
+    height: 17px;
+    width: 26px;
+    display: inline-block;
+    background-size: 100%; 
+}
+
+.header-wrapper .promo-container ul.stores li.giftcard a strong {
+    top: -6px;
+}
+</style>
+</div> <!-- End content-asset -->
+
+
+
+
+
+
 </div>
 <div class="header-border"></div>
 <div class="top-banner" role="banner">
@@ -802,7 +960,7 @@ Women
 
 <li class="">
 
-<a class="navlarge notclickable " href="/us/en/women/shop-by-category">
+<a style="font-weight:; color:;" class="navlarge notclickable   " href="/us/en/women/shop-by-category">
 
 Shop By Category
 </a>
@@ -812,7 +970,7 @@ Shop By Category
 
 <li class="">
 
-<a class="" href="/us/en/women/outerwear-and-blazers">
+<a style="font-weight:; color:;" class="  " href="/us/en/women/outerwear-and-blazers">
 
 Outerwear and Blazers
 </a>
@@ -822,7 +980,7 @@ Outerwear and Blazers
 
 <li class="">
 
-<a class="" href="/us/en/women/ultra-light-down-collection">
+<a style="font-weight:; color:;" class="  " href="/us/en/women/ultra-light-down-collection">
 
 Ultra Light Down Collection
 </a>
@@ -832,9 +990,9 @@ Ultra Light Down Collection
 
 <li class="">
 
-<a class="" href="/us/en/women/t-shirts-and-tops">
+<a style="font-weight:; color:;" class="  " href="/us/en/women/fleece">
 
-T-Shirts and Tops
+Fleece
 </a>
 
 </li>
@@ -842,27 +1000,7 @@ T-Shirts and Tops
 
 <li class="">
 
-<a class="" href="/us/en/women/ut-graphic-tees">
-
-UT: Graphic Tees
-</a>
-
-</li>
-
-
-<li class="">
-
-<a class="" href="/us/en/women/bra-tops">
-
-Bra Tops
-</a>
-
-</li>
-
-
-<li class="">
-
-<a class="" href="/us/en/women/sweatshirts-and-sweatpants">
+<a style="font-weight:; color:;" class="  " href="/us/en/women/sweatshirts-and-sweatpants">
 
 Sweatshirts and Sweatpants
 </a>
@@ -872,17 +1010,7 @@ Sweatshirts and Sweatpants
 
 <li class="">
 
-<a class="" href="/us/en/women/shirts-and-blouses">
-
-Shirts and Blouses
-</a>
-
-</li>
-
-
-<li class="">
-
-<a class="" href="/us/en/women/sweaters-and-cardigans">
+<a style="font-weight:; color:;" class="  " href="/us/en/women/sweaters-and-cardigans">
 
 Sweaters and Cardigans
 </a>
@@ -892,9 +1020,9 @@ Sweaters and Cardigans
 
 <li class="">
 
-<a class="" href="/us/en/women/skirts">
+<a style="font-weight:; color:;" class="  " href="/us/en/women/t-shirts-and-tops">
 
-Skirts
+T-Shirts and Tops
 </a>
 
 </li>
@@ -902,9 +1030,39 @@ Skirts
 
 <li class="">
 
-<a class="" href="/us/en/women/dresses-and-jumpsuits">
+<a style="font-weight:; color:;" class="  " href="/us/en/women/ut-graphic-tees">
+
+UT: Graphic Tees
+</a>
+
+</li>
+
+
+<li class="">
+
+<a style="font-weight:; color:;" class="  " href="/us/en/women/shirts-and-blouses">
+
+Shirts and Blouses
+</a>
+
+</li>
+
+
+<li class="">
+
+<a style="font-weight:; color:;" class="  " href="/us/en/women/dresses-and-jumpsuits">
 
 Dresses and Jumpsuits
+</a>
+
+</li>
+
+
+<li class="">
+
+<a style="font-weight:; color:;" class="  " href="/us/en/women/skirts">
+
+Skirts
 </a>
 
 </li>
@@ -915,7 +1073,7 @@ Dresses and Jumpsuits
 
 <li class="">
 
-<a class="" href="/us/en/women/jeans">
+<a style="font-weight:; color:;" class="  " href="/us/en/women/jeans">
 
 Jeans
 </a>
@@ -925,7 +1083,7 @@ Jeans
 
 <li class="">
 
-<a class="" href="/us/en/women/pants">
+<a style="font-weight:; color:;" class="  " href="/us/en/women/pants">
 
 Pants
 </a>
@@ -935,9 +1093,9 @@ Pants
 
 <li class="">
 
-<a class="" href="/us/en/women/shorts">
+<a style="font-weight:; color:;" class="  " href="/us/en/women/warm-lined-pants">
 
-Shorts
+Warm-Lined Pants
 </a>
 
 </li>
@@ -945,7 +1103,7 @@ Shorts
 
 <li class="">
 
-<a class="" href="/us/en/women/leggings-pants">
+<a style="font-weight:; color:;" class="  " href="/us/en/women/leggings-pants">
 
 Leggings Pants
 </a>
@@ -955,7 +1113,7 @@ Leggings Pants
 
 <li class="">
 
-<a class="" href="/us/en/women/activewear">
+<a style="font-weight:; color:;" class="  " href="/us/en/women/activewear">
 
 Activewear
 </a>
@@ -965,17 +1123,7 @@ Activewear
 
 <li class="">
 
-<a class="" href="/us/en/women/bras-and-underwear">
-
-Bras and Underwear
-</a>
-
-</li>
-
-
-<li class="">
-
-<a class="" href="/us/en/women/innerwear">
+<a style="font-weight:; color:;" class="  " href="/us/en/women/innerwear">
 
 Innerwear
 </a>
@@ -985,7 +1133,17 @@ Innerwear
 
 <li class="">
 
-<a class="" href="/us/en/women/socks-and-hosiery">
+<a style="font-weight:; color:;" class="  " href="/us/en/women/bras-and-underwear">
+
+Bras and Underwear
+</a>
+
+</li>
+
+
+<li class="">
+
+<a style="font-weight:; color:;" class="  " href="/us/en/women/socks-and-hosiery">
 
 Socks and Hosiery
 </a>
@@ -995,7 +1153,7 @@ Socks and Hosiery
 
 <li class="">
 
-<a class="" href="/us/en/women/loungewear">
+<a style="font-weight:; color:;" class="  " href="/us/en/women/loungewear">
 
 Loungewear
 </a>
@@ -1005,7 +1163,7 @@ Loungewear
 
 <li class="">
 
-<a class="" href="/us/en/women/accessories-and-shoes">
+<a style="font-weight:; color:;" class="  " href="/us/en/women/accessories-and-shoes">
 
 Accessories and Shoes
 </a>
@@ -1021,7 +1179,7 @@ Accessories and Shoes
 
 <li class="clssslevel">
 
-<a class="navlarge" href="/us/en/women/new-arrivals">
+<a style="font-weight:UNBOLD; color:;" class="navlarge clickable " href="/us/en/women/new-arrivals">
 
 New Arrivals
 </a>
@@ -1031,7 +1189,7 @@ New Arrivals
 
 <li class="clssslevel">
 
-<a class="navlarge" href="/us/en/women/limited-time-offers">
+<a style="font-weight:; color:;" class="navlarge  " href="/us/en/women/limited-time-offers">
 
 Limited-Time Offers
 </a>
@@ -1041,7 +1199,17 @@ Limited-Time Offers
 
 <li class="clssslevel">
 
-<a class="navlarge" href="/us/en/women/uniqlo-essentials">
+<a style="font-weight:; color:;" class="navlarge  " href="/us/en/women/end-of-year-clearance">
+
+End Of Year Clearance
+</a>
+
+</li>
+
+
+<li class="clssslevel">
+
+<a style="font-weight:; color:;" class="navlarge  " href="/us/en/women/uniqlo-essentials">
 
 Uniqlo Essentials
 </a>
@@ -1051,7 +1219,7 @@ Uniqlo Essentials
 
 <li class="clssslevel">
 
-<a class="navlarge" href="/us/en/women/extended-sizes">
+<a style="font-weight:; color:;" class="navlarge  " href="/us/en/women/extended-sizes">
 
 Extended Sizes
 </a>
@@ -1061,7 +1229,7 @@ Extended Sizes
 
 <li class="clssslevel">
 
-<a class="navlarge" href="/us/en/women/bulk-orders">
+<a style="font-weight:; color:;" class="navlarge  " href="/us/en/women/bulk-orders">
 
 Bulk Orders
 </a>
@@ -1071,17 +1239,7 @@ Bulk Orders
 
 <li class="clssslevel">
 
-<a class="navlarge" href="/us/en/women/blog">
-
-Blog
-</a>
-
-</li>
-
-
-<li class="clssslevel">
-
-<a class="navlarge" href="/us/en/women/sale">
+<a style="font-weight:; color:;" class="navlarge  " href="/us/en/women/sale">
 
 Sale
 </a>
@@ -1091,7 +1249,17 @@ Sale
 
 <li class="clssslevel">
 
-<a class="navlarge" href="/us/en/women/%23uniqlolifewear">
+<a style="font-weight:; color:;" class="navlarge  " href="/us/en/women/blog">
+
+Blog
+</a>
+
+</li>
+
+
+<li class="clssslevel">
+
+<a style="font-weight:; color:;" class="navlarge  " href="/us/en/women/%23uniqlolifewear">
 
 #UNIQLOLIFEWEAR
 </a>
@@ -1109,7 +1277,7 @@ Sale
 
 <li class="">
 
-<a class="navlarge notclickable " href="/us/en/women/featured-collections">
+<a style="font-weight:; color:;" class="navlarge notclickable   " href="/us/en/women/featured-collections">
 
 Featured Collections
 </a>
@@ -1119,9 +1287,9 @@ Featured Collections
 
 <li class="">
 
-<a class="" href="/us/en/women/airism-collection">
+<a style="font-weight:; color:;" class="  " href="/us/en/women/the-365-shop">
 
-AIRism Collection
+The 365 Shop
 </a>
 
 </li>
@@ -1129,11 +1297,9 @@ AIRism Collection
 
 <li class="">
 
-<a class="" href="/us/en/women/fathers-day-shop">
+<a style="font-weight:; color:;" class="  " href="/us/en/women/seamless-down">
 
-<span class="badge" style="background:;color:Red" ;="">New </span>
-
-Father's Day Shop
+Seamless Down
 </a>
 
 </li>
@@ -1141,9 +1307,9 @@ Father's Day Shop
 
 <li class="">
 
-<a class="" href="/us/en/women/swimwear">
+<a style="font-weight:; color:;" class="  " href="/us/en/women/maternity">
 
-Swimwear
+Maternity
 </a>
 
 </li>
@@ -1151,7 +1317,7 @@ Swimwear
 
 <li class="">
 
-<a class="" href="/us/en/women/heattech-collection">
+<a style="font-weight:; color:;" class="  " href="/us/en/women/heattech-collection">
 
 HEATTECH Collection
 </a>
@@ -1161,9 +1327,9 @@ HEATTECH Collection
 
 <li class="">
 
-<a class="" href="/us/en/women/wear-to-work">
+<a style="font-weight:; color:;" class="  " href="/us/en/women/airism-collection">
 
-Wear To Work
+AIRism Collection
 </a>
 
 </li>
@@ -1171,7 +1337,7 @@ Wear To Work
 
 <li class="">
 
-<a class="navlarge notclickable " href="/us/en/women/special-collaborations">
+<a style="font-weight:; color:;" class="navlarge notclickable   " href="/us/en/women/special-collaborations">
 
 Special Collaborations
 </a>
@@ -1181,9 +1347,11 @@ Special Collaborations
 
 <li class="">
 
-<a class="" href="/us/en/women/tomas-maier-and-uniqlo">
+<a style="font-weight:; color:;" class="  " href="/us/en/women/pieter-ceizer">
 
-tomas maier and uniqlo
+<span class="badge" style="background:;color:Red" ;="">New </span>
+
+Pieter Ceizer
 </a>
 
 </li>
@@ -1191,9 +1359,11 @@ tomas maier and uniqlo
 
 <li class="">
 
-<a class="" href="/us/en/women/sprz-ny">
+<a style="font-weight:; color:;" class="  " href="/us/en/women/and-have-fun%21-by-grace-lee">
 
-SPRZ NY
+<span class="badge" style="background:;color:Red" ;="">New </span>
+
+AND HAVE FUN! By Grace Lee
 </a>
 
 </li>
@@ -1201,7 +1371,17 @@ SPRZ NY
 
 <li class="">
 
-<a class="" href="/us/en/women/view-all-%3E">
+<a style="font-weight:; color:;" class="  " href="/us/en/women/celebrate-mickey">
+
+Celebrate Mickey
+</a>
+
+</li>
+
+
+<li class="">
+
+<a style="font-weight:; color:;" class="  " href="/us/en/women/view-all-%3E">
 
 View All &gt;
 </a>
@@ -1243,7 +1423,7 @@ Men
 
 <li class="">
 
-<a class="navlarge notclickable " href="/us/en/men/shop-by-category">
+<a style="font-weight:; color:;" class="navlarge notclickable   " href="/us/en/men/shop-by-category">
 
 Shop By Category
 </a>
@@ -1253,7 +1433,7 @@ Shop By Category
 
 <li class="">
 
-<a class="" href="/us/en/men/outerwear-and-blazers">
+<a style="font-weight:; color:;" class="  " href="/us/en/men/outerwear-and-blazers">
 
 Outerwear and Blazers
 </a>
@@ -1263,7 +1443,7 @@ Outerwear and Blazers
 
 <li class="">
 
-<a class="" href="/us/en/men/ultra-light-down-collection">
+<a style="font-weight:; color:;" class="  " href="/us/en/men/ultra-light-down-collection">
 
 Ultra Light Down Collection
 </a>
@@ -1273,9 +1453,9 @@ Ultra Light Down Collection
 
 <li class="">
 
-<a class="" href="/us/en/men/t-shirts">
+<a style="font-weight:; color:;" class="  " href="/us/en/men/fleece">
 
-T-Shirts
+Fleece
 </a>
 
 </li>
@@ -1283,9 +1463,9 @@ T-Shirts
 
 <li class="">
 
-<a class="" href="/us/en/men/ut-graphic-tees">
+<a style="font-weight:; color:;" class="  " href="/us/en/men/customized-for-you---stretch-wool-jackets">
 
-UT: Graphic Tees
+Customized For You:       Stretch Wool Jackets
 </a>
 
 </li>
@@ -1293,9 +1473,9 @@ UT: Graphic Tees
 
 <li class="">
 
-<a class="" href="/us/en/men/polo-shirts">
+<a style="font-weight:; color:;" class="  " href="/us/en/men/customized-for-you-easy-care-shirts">
 
-Polo Shirts
+Customized For You: Easy Care Shirts
 </a>
 
 </li>
@@ -1303,7 +1483,7 @@ Polo Shirts
 
 <li class="">
 
-<a class="" href="/us/en/men/sweatshirts-and-sweatpants">
+<a style="font-weight:; color:;" class="  " href="/us/en/men/sweatshirts-and-sweatpants">
 
 Sweatshirts and Sweatpants
 </a>
@@ -1313,7 +1493,7 @@ Sweatshirts and Sweatpants
 
 <li class="">
 
-<a class="" href="/us/en/men/sweaters">
+<a style="font-weight:; color:;" class="  " href="/us/en/men/sweaters">
 
 Sweaters
 </a>
@@ -1323,7 +1503,7 @@ Sweaters
 
 <li class="">
 
-<a class="" href="/us/en/men/casual-shirts">
+<a style="font-weight:; color:;" class="  " href="/us/en/men/casual-shirts">
 
 Casual Shirts
 </a>
@@ -1333,7 +1513,7 @@ Casual Shirts
 
 <li class="">
 
-<a class="" href="/us/en/men/dress-shirts">
+<a style="font-weight:; color:;" class="  " href="/us/en/men/dress-shirts">
 
 Dress Shirts
 </a>
@@ -1343,9 +1523,9 @@ Dress Shirts
 
 <li class="">
 
-<a class="" href="/us/en/men/customized-for-you-easy-care-shirts">
+<a style="font-weight:; color:;" class="  " href="/us/en/men/t-shirts">
 
-Customized For You: Easy Care Shirts
+T-Shirts
 </a>
 
 </li>
@@ -1356,7 +1536,17 @@ Customized For You: Easy Care Shirts
 
 <li class="">
 
-<a class="" href="/us/en/men/jeans">
+<a style="font-weight:; color:;" class="  " href="/us/en/men/ut-graphic-tees">
+
+UT: Graphic Tees
+</a>
+
+</li>
+
+
+<li class="">
+
+<a style="font-weight:; color:;" class="  " href="/us/en/men/jeans">
 
 Jeans
 </a>
@@ -1366,7 +1556,7 @@ Jeans
 
 <li class="">
 
-<a class="" href="/us/en/men/pants">
+<a style="font-weight:; color:;" class="  " href="/us/en/men/pants">
 
 Pants
 </a>
@@ -1376,9 +1566,9 @@ Pants
 
 <li class="">
 
-<a class="" href="/us/en/men/chino-pants">
+<a style="font-weight:; color:;" class="  " href="/us/en/men/warm-lined-pants">
 
-Chino Pants
+Warm-Lined Pants
 </a>
 
 </li>
@@ -1386,17 +1576,7 @@ Chino Pants
 
 <li class="">
 
-<a class="" href="/us/en/men/shorts">
-
-Shorts
-</a>
-
-</li>
-
-
-<li class="">
-
-<a class="" href="/us/en/men/activewear">
+<a style="font-weight:; color:;" class="  " href="/us/en/men/activewear">
 
 Activewear
 </a>
@@ -1406,7 +1586,7 @@ Activewear
 
 <li class="">
 
-<a class="" href="/us/en/men/undershirts">
+<a style="font-weight:; color:;" class="  " href="/us/en/men/undershirts">
 
 Undershirts
 </a>
@@ -1416,7 +1596,7 @@ Undershirts
 
 <li class="">
 
-<a class="" href="/us/en/men/underwear">
+<a style="font-weight:; color:;" class="  " href="/us/en/men/underwear">
 
 Underwear
 </a>
@@ -1426,7 +1606,7 @@ Underwear
 
 <li class="">
 
-<a class="" href="/us/en/men/socks-and-tights">
+<a style="font-weight:; color:;" class="  " href="/us/en/men/socks-and-tights">
 
 Socks and Tights
 </a>
@@ -1436,7 +1616,7 @@ Socks and Tights
 
 <li class="">
 
-<a class="" href="/us/en/men/loungewear">
+<a style="font-weight:; color:;" class="  " href="/us/en/men/loungewear">
 
 Loungewear
 </a>
@@ -1446,7 +1626,7 @@ Loungewear
 
 <li class="">
 
-<a class="" href="/us/en/men/accessories-and-shoes">
+<a style="font-weight:; color:;" class="  " href="/us/en/men/accessories-and-shoes">
 
 Accessories and Shoes
 </a>
@@ -1462,7 +1642,7 @@ Accessories and Shoes
 
 <li class="clssslevel">
 
-<a class="navlarge" href="/us/en/men/new-arrivals">
+<a style="font-weight:; color:;" class="navlarge  " href="/us/en/men/new-arrivals">
 
 New Arrivals
 </a>
@@ -1472,19 +1652,7 @@ New Arrivals
 
 <li class="clssslevel">
 
-<a class="navlarge" href="/us/en/men/multibuy">
-
-<span class="badge" style="background:;color:Red" ;="">New </span>
-
-Multibuy
-</a>
-
-</li>
-
-
-<li class="clssslevel">
-
-<a class="navlarge" href="/us/en/men/limited-time-offers">
+<a style="font-weight:; color:;" class="navlarge  " href="/us/en/men/limited-time-offers">
 
 Limited-Time Offers
 </a>
@@ -1494,7 +1662,17 @@ Limited-Time Offers
 
 <li class="clssslevel">
 
-<a class="navlarge" href="/us/en/men/uniqlo-essentials">
+<a style="font-weight:; color:;" class="navlarge  " href="/us/en/men/end-of-year-clearance">
+
+End Of Year Clearance
+</a>
+
+</li>
+
+
+<li class="clssslevel">
+
+<a style="font-weight:; color:;" class="navlarge  " href="/us/en/men/uniqlo-essentials">
 
 Uniqlo Essentials
 </a>
@@ -1504,7 +1682,7 @@ Uniqlo Essentials
 
 <li class="clssslevel">
 
-<a class="navlarge" href="/us/en/men/extended-sizes">
+<a style="font-weight:; color:;" class="navlarge  " href="/us/en/men/extended-sizes">
 
 Extended Sizes
 </a>
@@ -1514,7 +1692,7 @@ Extended Sizes
 
 <li class="clssslevel">
 
-<a class="navlarge" href="/us/en/men/bulk-orders">
+<a style="font-weight:; color:;" class="navlarge  " href="/us/en/men/bulk-orders">
 
 Bulk Orders
 </a>
@@ -1524,7 +1702,7 @@ Bulk Orders
 
 <li class="clssslevel">
 
-<a class="navlarge" href="/us/en/men/sale">
+<a style="font-weight:; color:;" class="navlarge  " href="/us/en/men/sale">
 
 Sale
 </a>
@@ -1534,9 +1712,9 @@ Sale
 
 <li class="clssslevel">
 
-<a class="navlarge" href="/us/en/men/%23uniqlolifewear">
+<a style="font-weight:; color:;" class="navlarge  " href="/us/en/men/blog">
 
-#UNIQLOLIFEWEAR
+Blog
 </a>
 
 </li>
@@ -1544,9 +1722,9 @@ Sale
 
 <li class="clssslevel">
 
-<a class="navlarge" href="/us/en/men/blog">
+<a style="font-weight:; color:;" class="navlarge  " href="/us/en/men/%23uniqlolifewear">
 
-Blog
+#UNIQLOLIFEWEAR
 </a>
 
 </li>
@@ -1562,7 +1740,7 @@ Blog
 
 <li class="">
 
-<a class="navlarge notclickable " href="/us/en/men/featured-collections">
+<a style="font-weight:; color:;" class="navlarge notclickable   " href="/us/en/men/featured-collections">
 
 Featured Collections
 </a>
@@ -1572,9 +1750,9 @@ Featured Collections
 
 <li class="">
 
-<a class="" href="/us/en/men/airism-collection">
+<a style="font-weight:; color:;" class="  " href="/us/en/men/the-365-shop">
 
-AIRism Collection
+The 365 Shop
 </a>
 
 </li>
@@ -1582,11 +1760,9 @@ AIRism Collection
 
 <li class="">
 
-<a class="" href="/us/en/men/fathers-day-shop">
+<a style="font-weight:; color:;" class="  " href="/us/en/men/seamless-down">
 
-<span class="badge" style="background:;color:Red" ;="">New </span>
-
-Father's Day Shop
+Seamless Down
 </a>
 
 </li>
@@ -1594,9 +1770,9 @@ Father's Day Shop
 
 <li class="">
 
-<a class="" href="/us/en/men/swimwear">
+<a style="font-weight:; color:;" class="  " href="/us/en/men/online-exclusives">
 
-Swimwear
+Online Exclusives
 </a>
 
 </li>
@@ -1604,7 +1780,7 @@ Swimwear
 
 <li class="">
 
-<a class="" href="/us/en/men/heattech-collection">
+<a style="font-weight:; color:;" class="  " href="/us/en/men/heattech-collection">
 
 HEATTECH Collection
 </a>
@@ -1614,9 +1790,9 @@ HEATTECH Collection
 
 <li class="">
 
-<a class="" href="/us/en/men/wear-to-work">
+<a style="font-weight:; color:;" class="  " href="/us/en/men/airism-collection">
 
-Wear To Work
+AIRism Collection
 </a>
 
 </li>
@@ -1624,7 +1800,7 @@ Wear To Work
 
 <li class="">
 
-<a class="navlarge notclickable " href="/us/en/men/special-collaborations">
+<a style="font-weight:; color:;" class="navlarge notclickable   " href="/us/en/men/special-collaborations">
 
 Special Collaborations
 </a>
@@ -1634,9 +1810,11 @@ Special Collaborations
 
 <li class="">
 
-<a class="" href="/us/en/men/tomas-maier-and-uniqlo">
+<a style="font-weight:; color:;" class="  " href="/us/en/men/pieter-ceizer">
 
-tomas maier and uniqlo
+<span class="badge" style="background:;color:Red" ;="">New </span>
+
+Pieter Ceizer
 </a>
 
 </li>
@@ -1644,9 +1822,9 @@ tomas maier and uniqlo
 
 <li class="">
 
-<a class="" href="/us/en/men/jw-anderson">
+<a style="font-weight:; color:;" class="  " href="/us/en/men/celebrate-mickey">
 
-JW Anderson
+Celebrate Mickey
 </a>
 
 </li>
@@ -1654,7 +1832,17 @@ JW Anderson
 
 <li class="">
 
-<a class="" href="/us/en/men/view-all-%3E">
+<a style="font-weight:; color:;" class="  " href="/us/en/men/hokusai-blue">
+
+Hokusai Blue
+</a>
+
+</li>
+
+
+<li class="">
+
+<a style="font-weight:; color:;" class="  " href="/us/en/men/view-all-%3E">
 
 View All &gt;
 </a>
@@ -1696,7 +1884,7 @@ Girls
 
 <li class="">
 
-<a class="navlarge notclickable " href="/us/en/girls/shop-by-category">
+<a style="font-weight:; color:;" class="navlarge notclickable   " href="/us/en/girls/shop-by-category">
 
 Shop By Category
 </a>
@@ -1706,7 +1894,7 @@ Shop By Category
 
 <li class="">
 
-<a class="" href="/us/en/girls/outerwear">
+<a style="font-weight:; color:;" class="  " href="/us/en/girls/outerwear">
 
 Outerwear
 </a>
@@ -1716,7 +1904,17 @@ Outerwear
 
 <li class="">
 
-<a class="" href="/us/en/girls/sweatshirts-and-sweatpants">
+<a style="font-weight:; color:;" class="  " href="/us/en/girls/fleece">
+
+Fleece
+</a>
+
+</li>
+
+
+<li class="">
+
+<a style="font-weight:; color:;" class="  " href="/us/en/girls/sweatshirts-and-sweatpants">
 
 Sweatshirts and Sweatpants
 </a>
@@ -1726,7 +1924,7 @@ Sweatshirts and Sweatpants
 
 <li class="">
 
-<a class="" href="/us/en/girls/t-shirts-and-tops">
+<a style="font-weight:; color:;" class="  " href="/us/en/girls/t-shirts-and-tops">
 
 T-Shirts and Tops
 </a>
@@ -1736,7 +1934,7 @@ T-Shirts and Tops
 
 <li class="">
 
-<a class="" href="/us/en/girls/ut-graphic-tees">
+<a style="font-weight:; color:;" class="  " href="/us/en/girls/ut-graphic-tees">
 
 UT: Graphic Tees
 </a>
@@ -1746,7 +1944,7 @@ UT: Graphic Tees
 
 <li class="">
 
-<a class="" href="/us/en/girls/pants-and-shorts">
+<a style="font-weight:; color:;" class="  " href="/us/en/girls/pants-and-shorts">
 
 Pants and Shorts
 </a>
@@ -1756,7 +1954,17 @@ Pants and Shorts
 
 <li class="">
 
-<a class="" href="/us/en/girls/dresses-and-skirts">
+<a style="font-weight:; color:;" class="  " href="/us/en/girls/warm-lined-pants">
+
+Warm-Lined Pants
+</a>
+
+</li>
+
+
+<li class="">
+
+<a style="font-weight:; color:;" class="  " href="/us/en/girls/dresses-and-skirts">
 
 Dresses and Skirts
 </a>
@@ -1766,7 +1974,7 @@ Dresses and Skirts
 
 <li class="">
 
-<a class="" href="/us/en/girls/activewear">
+<a style="font-weight:; color:;" class="  " href="/us/en/girls/activewear">
 
 Activewear
 </a>
@@ -1776,7 +1984,7 @@ Activewear
 
 <li class="">
 
-<a class="" href="/us/en/girls/innerwear-and-loungewear">
+<a style="font-weight:; color:;" class="  " href="/us/en/girls/innerwear-and-loungewear">
 
 Innerwear and Loungewear
 </a>
@@ -1784,9 +1992,32 @@ Innerwear and Loungewear
 </li>
 
 
+</ul>
+<ul class="menu-vertical secondchaild">
+
 <li class="">
 
-<a class="" href="/us/en/girls/accessories">
+<a style="font-weight:; color:;" class="  " href="/us/en/girls/heattech-collection">
+
+HEATTECH Collection
+</a>
+
+</li>
+
+
+<li class="">
+
+<a style="font-weight:; color:;" class="  " href="/us/en/girls/airism-collection">
+
+AIRism Collection
+</a>
+
+</li>
+
+
+<li class="">
+
+<a style="font-weight:; color:;" class="  " href="/us/en/girls/accessories">
 
 Accessories
 </a>
@@ -1802,7 +2033,17 @@ Accessories
 
 <li class="clssslevel">
 
-<a class="navlarge" href="/us/en/girls/limited-time-offers">
+<a style="font-weight:; color:;" class="navlarge  " href="/us/en/girls/new-arrivals">
+
+New Arrivals
+</a>
+
+</li>
+
+
+<li class="clssslevel">
+
+<a style="font-weight:; color:;" class="navlarge  " href="/us/en/girls/limited-time-offers">
 
 Limited-Time Offers
 </a>
@@ -1812,7 +2053,17 @@ Limited-Time Offers
 
 <li class="clssslevel">
 
-<a class="navlarge" href="/us/en/girls/sale">
+<a style="font-weight:; color:;" class="navlarge  " href="/us/en/girls/end-of-year-clearance">
+
+End Of Year Clearance
+</a>
+
+</li>
+
+
+<li class="clssslevel">
+
+<a style="font-weight:; color:;" class="navlarge  " href="/us/en/girls/sale">
 
 Sale
 </a>
@@ -1822,7 +2073,7 @@ Sale
 
 <li class="clssslevel">
 
-<a class="navlarge" href="/us/en/girls/%23uniqlolifewear">
+<a style="font-weight:; color:;" class="navlarge  " href="/us/en/girls/%23uniqlolifewear">
 
 #UNIQLOLIFEWEAR
 </a>
@@ -1840,7 +2091,7 @@ Sale
 
 <li class="">
 
-<a class="navlarge notclickable " href="/us/en/girls/featured-collections">
+<a style="font-weight:; color:;" class="navlarge notclickable   " href="/us/en/girls/featured-collections">
 
 Featured Collections
 </a>
@@ -1850,9 +2101,9 @@ Featured Collections
 
 <li class="">
 
-<a class="" href="/us/en/girls/airism-collection">
+<a style="font-weight:; color:;" class="  " href="/us/en/girls/the-365-shop">
 
-AIRism Collection
+The 365 Shop
 </a>
 
 </li>
@@ -1860,9 +2111,9 @@ AIRism Collection
 
 <li class="">
 
-<a class="" href="/us/en/girls/heattech-collection">
+<a style="font-weight:; color:;" class="  " href="/us/en/girls/online-exclusives">
 
-HEATTECH Collection
+Online Exclusives
 </a>
 
 </li>
@@ -1870,7 +2121,7 @@ HEATTECH Collection
 
 <li class="">
 
-<a class="navlarge notclickable " href="/us/en/girls/special-collaborations">
+<a style="font-weight:; color:;" class="navlarge notclickable   " href="/us/en/girls/special-collaborations">
 
 Special Collaborations
 </a>
@@ -1880,7 +2131,29 @@ Special Collaborations
 
 <li class="">
 
-<a class="" href="/us/en/girls/magic-for-all">
+<a style="font-weight:; color:;" class="  " href="/us/en/girls/pieter-ceizer">
+
+<span class="badge" style="background:;color:Red" ;="">New </span>
+
+Pieter Ceizer
+</a>
+
+</li>
+
+
+<li class="">
+
+<a style="font-weight:; color:;" class="  " href="/us/en/girls/celebrate-mickey">
+
+Celebrate Mickey
+</a>
+
+</li>
+
+
+<li class="">
+
+<a style="font-weight:; color:;" class="  " href="/us/en/girls/magic-for-all">
 
 Magic For All
 </a>
@@ -1890,9 +2163,9 @@ Magic For All
 
 <li class="">
 
-<a class="" href="/us/en/girls/sprz-ny">
+<a style="font-weight:; color:;" class="  " href="/us/en/girls/kaws-x-sesame-street">
 
-SPRZ NY
+Kaws x Sesame Street
 </a>
 
 </li>
@@ -1900,9 +2173,9 @@ SPRZ NY
 
 <li class="">
 
-<a class="" href="/us/en/girls/utgp2018-marvel">
+<a style="font-weight:; color:;" class="  " href="/us/en/girls/minions-party">
 
-UTGP2018 Marvel
+Minions Party
 </a>
 
 </li>
@@ -1910,7 +2183,17 @@ UTGP2018 Marvel
 
 <li class="">
 
-<a class="" href="/us/en/girls/view-all-%3E">
+<a style="font-weight:; color:;" class=" notclickable   " href="/us/en/girls/ines-de-la-fressange">
+
+Ines de la Fressange
+</a>
+
+</li>
+
+
+<li class="">
+
+<a style="font-weight:; color:;" class="  " href="/us/en/girls/view-all-%3E">
 
 View All &gt;
 </a>
@@ -1952,7 +2235,7 @@ Boys
 
 <li class="">
 
-<a class="navlarge notclickable " href="/us/en/boys/shop-by-category">
+<a style="font-weight:; color:;" class="navlarge notclickable   " href="/us/en/boys/shop-by-category">
 
 Shop By Category
 </a>
@@ -1962,7 +2245,7 @@ Shop By Category
 
 <li class="">
 
-<a class="" href="/us/en/boys/outerwear">
+<a style="font-weight:; color:;" class="  " href="/us/en/boys/outerwear">
 
 Outerwear
 </a>
@@ -1972,7 +2255,17 @@ Outerwear
 
 <li class="">
 
-<a class="" href="/us/en/boys/sweatshirts-and-sweatpants">
+<a style="font-weight:; color:;" class="  " href="/us/en/boys/fleece">
+
+Fleece
+</a>
+
+</li>
+
+
+<li class="">
+
+<a style="font-weight:; color:;" class="  " href="/us/en/boys/sweatshirts-and-sweatpants">
 
 Sweatshirts and Sweatpants
 </a>
@@ -1982,7 +2275,7 @@ Sweatshirts and Sweatpants
 
 <li class="">
 
-<a class="" href="/us/en/boys/t-shirts-and-tops">
+<a style="font-weight:; color:;" class="  " href="/us/en/boys/t-shirts-and-tops">
 
 T-Shirts and Tops
 </a>
@@ -1992,7 +2285,7 @@ T-Shirts and Tops
 
 <li class="">
 
-<a class="" href="/us/en/boys/ut-graphic-tees">
+<a style="font-weight:; color:;" class="  " href="/us/en/boys/ut-graphic-tees">
 
 UT: Graphic Tees
 </a>
@@ -2002,7 +2295,7 @@ UT: Graphic Tees
 
 <li class="">
 
-<a class="" href="/us/en/boys/pants-and-shorts">
+<a style="font-weight:; color:;" class="  " href="/us/en/boys/pants-and-shorts">
 
 Pants and Shorts
 </a>
@@ -2012,7 +2305,7 @@ Pants and Shorts
 
 <li class="">
 
-<a class="" href="/us/en/boys/activewear">
+<a style="font-weight:; color:;" class="  " href="/us/en/boys/activewear">
 
 Activewear
 </a>
@@ -2022,7 +2315,7 @@ Activewear
 
 <li class="">
 
-<a class="" href="/us/en/boys/innerwear-and-loungewear">
+<a style="font-weight:; color:;" class="  " href="/us/en/boys/innerwear-and-loungewear">
 
 Innerwear and Loungewear
 </a>
@@ -2032,7 +2325,30 @@ Innerwear and Loungewear
 
 <li class="">
 
-<a class="" href="/us/en/boys/accessories">
+<a style="font-weight:; color:;" class="  " href="/us/en/boys/heattech-collection">
+
+HEATTECH Collection
+</a>
+
+</li>
+
+
+<li class="">
+
+<a style="font-weight:; color:;" class="  " href="/us/en/boys/airism-collection">
+
+AIRism Collection
+</a>
+
+</li>
+
+
+</ul>
+<ul class="menu-vertical secondchaild">
+
+<li class="">
+
+<a style="font-weight:; color:;" class="  " href="/us/en/boys/accessories">
 
 Accessories
 </a>
@@ -2048,7 +2364,17 @@ Accessories
 
 <li class="clssslevel">
 
-<a class="navlarge" href="/us/en/boys/limited-time-offers">
+<a style="font-weight:; color:;" class="navlarge  " href="/us/en/boys/new-arrivals">
+
+New Arrivals
+</a>
+
+</li>
+
+
+<li class="clssslevel">
+
+<a style="font-weight:; color:;" class="navlarge  " href="/us/en/boys/limited-time-offers">
 
 Limited-Time Offers
 </a>
@@ -2058,7 +2384,17 @@ Limited-Time Offers
 
 <li class="clssslevel">
 
-<a class="navlarge" href="/us/en/boys/sale">
+<a style="font-weight:; color:;" class="navlarge  " href="/us/en/boys/end-of-year-clearance">
+
+End Of Year Clearance
+</a>
+
+</li>
+
+
+<li class="clssslevel">
+
+<a style="font-weight:; color:;" class="navlarge  " href="/us/en/boys/sale">
 
 Sale
 </a>
@@ -2068,7 +2404,7 @@ Sale
 
 <li class="clssslevel">
 
-<a class="navlarge" href="/us/en/boys/%23uniqlolifewear">
+<a style="font-weight:; color:;" class="navlarge  " href="/us/en/boys/%23uniqlolifewear">
 
 #UNIQLOLIFEWEAR
 </a>
@@ -2086,7 +2422,7 @@ Sale
 
 <li class="">
 
-<a class="navlarge notclickable " href="/us/en/boys/featured-collections">
+<a style="font-weight:; color:;" class="navlarge notclickable   " href="/us/en/boys/featured-collections">
 
 Featured Collections
 </a>
@@ -2096,9 +2432,9 @@ Featured Collections
 
 <li class="">
 
-<a class="" href="/us/en/boys/airism-collection">
+<a style="font-weight:; color:;" class="  " href="/us/en/boys/the-365-shop">
 
-AIRism Collection
+The 365 Shop
 </a>
 
 </li>
@@ -2106,9 +2442,9 @@ AIRism Collection
 
 <li class="">
 
-<a class="" href="/us/en/boys/heattech-collection">
+<a style="font-weight:; color:;" class="  " href="/us/en/boys/online-exclusives">
 
-HEATTECH Collection
+Online Exclusives
 </a>
 
 </li>
@@ -2116,17 +2452,7 @@ HEATTECH Collection
 
 <li class="">
 
-<a class="" href="/us/en/boys/year-round-items">
-
-Year Round Items
-</a>
-
-</li>
-
-
-<li class="">
-
-<a class="navlarge notclickable " href="/us/en/boys/special-collaborations">
+<a style="font-weight:; color:;" class="navlarge notclickable   " href="/us/en/boys/special-collaborations">
 
 Special Collaborations
 </a>
@@ -2136,9 +2462,11 @@ Special Collaborations
 
 <li class="">
 
-<a class="" href="/us/en/boys/sprz-ny">
+<a style="font-weight:; color:;" class="  " href="/us/en/boys/pieter-ceizer">
 
-SPRZ NY
+<span class="badge" style="background:;color:Red" ;="">New </span>
+
+Pieter Ceizer
 </a>
 
 </li>
@@ -2146,7 +2474,17 @@ SPRZ NY
 
 <li class="">
 
-<a class="" href="/us/en/boys/magic-for-all">
+<a style="font-weight:; color:;" class="  " href="/us/en/boys/celebrate-mickey">
+
+Celebrate Mickey
+</a>
+
+</li>
+
+
+<li class="">
+
+<a style="font-weight:; color:;" class="  " href="/us/en/boys/magic-for-all">
 
 Magic For All
 </a>
@@ -2156,9 +2494,9 @@ Magic For All
 
 <li class="">
 
-<a class="" href="/us/en/boys/utgp2018-marvel">
+<a style="font-weight:; color:;" class="  " href="/us/en/boys/kaws-x-sesame-street">
 
-UTGP2018 Marvel
+Kaws x Sesame Street
 </a>
 
 </li>
@@ -2166,7 +2504,27 @@ UTGP2018 Marvel
 
 <li class="">
 
-<a class="" href="/us/en/boys/view-all-%3E">
+<a style="font-weight:; color:;" class="  " href="/us/en/boys/minions-party">
+
+Minions Party
+</a>
+
+</li>
+
+
+<li class="">
+
+<a style="font-weight:; color:;" class="  " href="/us/en/boys/ines-de-la-fressange">
+
+Ines de la Fressange
+</a>
+
+</li>
+
+
+<li class="">
+
+<a style="font-weight:; color:;" class="  " href="/us/en/boys/view-all-%3E">
 
 View All &gt;
 </a>
@@ -2208,7 +2566,7 @@ Baby
 
 <li class="">
 
-<a class="navlarge notclickable " href="/us/en/baby/toddler">
+<a style="font-weight:; color:;" class="navlarge notclickable   " href="/us/en/baby/toddler">
 
 Toddler
 </a>
@@ -2218,9 +2576,9 @@ Toddler
 
 <li class="">
 
-<a class="" href="/us/en/baby/outerwear-and-tops">
+<a style="font-weight:; color:;" class="  " href="/us/en/baby/outerwear">
 
-Outerwear and Tops
+Outerwear
 </a>
 
 </li>
@@ -2228,9 +2586,9 @@ Outerwear and Tops
 
 <li class="">
 
-<a class="" href="/us/en/baby/dresses-and-skirts">
+<a style="font-weight:; color:;" class="  " href="/us/en/baby/tops-and-dresses">
 
-Dresses and Skirts
+Tops and Dresses
 </a>
 
 </li>
@@ -2238,7 +2596,7 @@ Dresses and Skirts
 
 <li class="">
 
-<a class="" href="/us/en/baby/pants-and-leggings">
+<a style="font-weight:; color:;" class="  " href="/us/en/baby/pants-and-leggings">
 
 Pants and Leggings
 </a>
@@ -2248,7 +2606,7 @@ Pants and Leggings
 
 <li class="">
 
-<a class="" href="/us/en/baby/innerwear-and-socks">
+<a style="font-weight:; color:;" class="  " href="/us/en/baby/innerwear-and-socks">
 
 Innerwear and Socks
 </a>
@@ -2258,7 +2616,7 @@ Innerwear and Socks
 
 <li class="">
 
-<a class="" href="/us/en/baby/pajamas">
+<a style="font-weight:; color:;" class="  " href="/us/en/baby/pajamas">
 
 Pajamas
 </a>
@@ -2268,7 +2626,7 @@ Pajamas
 
 <li class="">
 
-<a class="navlarge notclickable " href="/us/en/baby/newborn-1">
+<a style="font-weight:; color:;" class="navlarge notclickable   " href="/us/en/baby/newborn-1">
 
 Newborn
 </a>
@@ -2278,7 +2636,17 @@ Newborn
 
 <li class="">
 
-<a class="" href="/us/en/baby/bodysuits">
+<a style="font-weight:; color:;" class="  " href="/us/en/baby/newborn-outerwear">
+
+Newborn Outerwear
+</a>
+
+</li>
+
+
+<li class="">
+
+<a style="font-weight:; color:;" class="  " href="/us/en/baby/bodysuits">
 
 Bodysuits
 </a>
@@ -2288,7 +2656,7 @@ Bodysuits
 
 <li class="">
 
-<a class="" href="/us/en/baby/one-pieces">
+<a style="font-weight:; color:;" class="  " href="/us/en/baby/one-pieces">
 
 One-Pieces
 </a>
@@ -2298,7 +2666,7 @@ One-Pieces
 
 <li class="">
 
-<a class="" href="/us/en/baby/newborn-innerwear-and-socks">
+<a style="font-weight:; color:;" class="  " href="/us/en/baby/newborn-innerwear-and-socks">
 
 Newborn Innerwear and Socks
 </a>
@@ -2306,9 +2674,12 @@ Newborn Innerwear and Socks
 </li>
 
 
+</ul>
+<ul class="menu-vertical secondchaild">
+
 <li class="">
 
-<a class="" href="/us/en/baby/accessories">
+<a style="font-weight:; color:;" class="  " href="/us/en/baby/accessories">
 
 Accessories
 </a>
@@ -2324,7 +2695,7 @@ Accessories
 
 <li class="clssslevel">
 
-<a class="navlarge" href="/us/en/baby/new-arrivals">
+<a style="font-weight:; color:;" class="navlarge  " href="/us/en/baby/new-arrivals">
 
 New Arrivals
 </a>
@@ -2334,7 +2705,17 @@ New Arrivals
 
 <li class="clssslevel">
 
-<a class="navlarge" href="/us/en/baby/sale">
+<a style="font-weight:; color:;" class="navlarge  " href="/us/en/baby/end-of-year-clearance">
+
+End Of Year Clearance
+</a>
+
+</li>
+
+
+<li class="clssslevel">
+
+<a style="font-weight:; color:;" class="navlarge  " href="/us/en/baby/sale">
 
 Sale
 </a>
@@ -2344,7 +2725,7 @@ Sale
 
 <li class="clssslevel">
 
-<a class="navlarge" href="/us/en/baby/%23uniqlolifewear">
+<a style="font-weight:; color:;" class="navlarge  " href="/us/en/baby/%23uniqlolifewear">
 
 #UNIQLOLIFEWEAR
 </a>
@@ -2362,7 +2743,7 @@ Sale
 
 <li class="">
 
-<a class="navlarge notclickable " href="/us/en/baby/featured-collections">
+<a style="font-weight:; color:;" class="navlarge notclickable   " href="/us/en/baby/featured-collections">
 
 Featured Collections
 </a>
@@ -2372,7 +2753,49 @@ Featured Collections
 
 <li class="">
 
-<a class="" href="/us/en/baby/airism-collection">
+<a style="font-weight:; color:;" class="  " href="/us/en/baby/pieter-ceizer">
+
+<span class="badge" style="background:;color:Red" ;="">New </span>
+
+Pieter Ceizer
+</a>
+
+</li>
+
+
+<li class="">
+
+<a style="font-weight:; color:;" class="  " href="/us/en/baby/magic-for-all">
+
+Magic For All
+</a>
+
+</li>
+
+
+<li class="">
+
+<a style="font-weight:; color:;" class="  " href="/us/en/baby/the-365-shop">
+
+The 365 Shop
+</a>
+
+</li>
+
+
+<li class="">
+
+<a style="font-weight:; color:;" class="  " href="/us/en/baby/heattech-collection">
+
+HEATTECH Collection
+</a>
+
+</li>
+
+
+<li class="">
+
+<a style="font-weight:; color:;" class="  " href="/us/en/baby/airism-collection">
 
 AIRism Collection
 </a>
@@ -2382,7 +2805,7 @@ AIRism Collection
 
 <li class="">
 
-<a class="" href="/us/en/baby/ut-graphic-tees">
+<a style="font-weight:; color:;" class="  " href="/us/en/baby/ut-graphic-tees">
 
 UT: Graphic Tees
 </a>
@@ -2392,19 +2815,9 @@ UT: Graphic Tees
 
 <li class="">
 
-<a class="" href="/us/en/baby/maternity">
+<a style="font-weight:; color:;" class="  " href="/us/en/baby/maternity">
 
 Maternity
-</a>
-
-</li>
-
-
-<li class="">
-
-<a class="" href="/us/en/baby/heattech-collection">
-
-HEATTECH Collection
 </a>
 
 </li>
@@ -2429,7 +2842,7 @@ HEATTECH Collection
 
 
 
-<a class="has-sub-menu extended-width red " href="/us/en/women/weekly-promotions">
+<a class="has-sub-menu extended-width black " href="/us/en/women/weekly-promotions">
 Limited-Time Offers
 </a>
 
@@ -2446,7 +2859,7 @@ Limited-Time Offers
 
 <li class="">
 
-<a class="navlarge notclickable " href="/us/en/limited-time-offers/limited-time-offers">
+<a style="font-weight:; color:;" class="navlarge notclickable   " href="/us/en/limited-time-offers/limited-time-offers">
 
 Limited-Time Offers
 </a>
@@ -2456,9 +2869,9 @@ Limited-Time Offers
 
 <li class="">
 
-<a class="" href="https://www.uniqlo.com/us/en/women/limited-time-offers">
+<a style="font-weight:; color:;" class="  " href="https://www.uniqlo.com/us/en/women/limited-time-offers">
 
-Women's Limited-Time Offers
+Women
 </a>
 
 </li>
@@ -2466,9 +2879,39 @@ Women's Limited-Time Offers
 
 <li class="">
 
-<a class="" href="https://www.uniqlo.com/us/en/men/limited-time-offers">
+<a style="font-weight:; color:;" class="  " href="https://www.uniqlo.com/us/en/men/limited-time-offers">
 
-Men's Limited-Time Offers
+Men
+</a>
+
+</li>
+
+
+<li class="">
+
+<a style="font-weight:; color:;" class="navlarge notclickable   " href="/us/en/limited-time-offers/kids-limited-time-offers">
+
+Kids Limited-Time Offers
+</a>
+
+</li>
+
+
+<li class="">
+
+<a style="font-weight:; color:;" class="  " href="https://www.uniqlo.com/us/en/girls/limited-time-offers">
+
+Girls
+</a>
+
+</li>
+
+
+<li class="">
+
+<a style="font-weight:; color:;" class="  " href="https://www.uniqlo.com/us/en/boys/limited-time-offers">
+
+Boys
 </a>
 
 </li>
@@ -2490,9 +2933,9 @@ Men's Limited-Time Offers
 
 <li class="">
 
-<a class="navlarge notclickable " href="/us/en/limited-time-offers/kids-limited-time-offers">
+<a style="font-weight:; color:;" class="navlarge  " href="/us/en/limited-time-offers/buy-2-get-%2410-off-bottoms">
 
-Kids Limited-Time Offers
+Buy 2 Get $10 Off Bottoms
 </a>
 
 </li>
@@ -2500,9 +2943,9 @@ Kids Limited-Time Offers
 
 <li class="">
 
-<a class="" href="https://www.uniqlo.com/us/en/girls/limited-time-offers">
+<a style="font-weight:; color:;" class="  " href="/us/en/limited-time-offers/women-5">
 
-Girls Limited-Time Offers
+Women
 </a>
 
 </li>
@@ -2510,9 +2953,9 @@ Girls Limited-Time Offers
 
 <li class="">
 
-<a class="" href="https://www.uniqlo.com/us/en/boys/limited-time-offers">
+<a style="font-weight:; color:;" class="  " href="/us/en/limited-time-offers/men-4">
 
-Boys Limited-Time Offers
+Men
 </a>
 
 </li>
@@ -2552,7 +2995,7 @@ Sale
 
 <li class="">
 
-<a class="navlarge notclickable " href="/us/en/sale/sale">
+<a style="font-weight:; color:;" class="navlarge notclickable   " href="/us/en/sale/sale">
 
 Sale
 </a>
@@ -2562,7 +3005,7 @@ Sale
 
 <li class="">
 
-<a class="" href="https://www.uniqlo.com/us/en/women/sale">
+<a style="font-weight:; color:;" class="  " href="https://www.uniqlo.com/us/en/women/sale">
 
 Women's Sale
 </a>
@@ -2572,9 +3015,49 @@ Women's Sale
 
 <li class="">
 
-<a class="" href="https://www.uniqlo.com/us/en/men/sale">
+<a style="font-weight:; color:;" class="  " href="https://www.uniqlo.com/us/en/men/sale">
 
 Men's Sale
+</a>
+
+</li>
+
+
+<li class="">
+
+<a style="font-weight:; color:;" class="navlarge notclickable   " href="/us/en/sale/kids-sale">
+
+Kids Sale
+</a>
+
+</li>
+
+
+<li class="">
+
+<a style="font-weight:; color:;" class="  " href="https://www.uniqlo.com/us/en/girls/sale">
+
+Girls' Sale
+</a>
+
+</li>
+
+
+<li class="">
+
+<a style="font-weight:; color:;" class="  " href="https://www.uniqlo.com/us/en/boys/sale">
+
+Boys' Sale
+</a>
+
+</li>
+
+
+<li class="">
+
+<a style="font-weight:; color:;" class="  " href="https://www.uniqlo.com/us/en/baby/sale">
+
+Babies' Sale
 </a>
 
 </li>
@@ -2596,9 +3079,9 @@ Men's Sale
 
 <li class="">
 
-<a class="navlarge notclickable " href="/us/en/sale/kids-sale">
+<a style="font-weight:; color:;" class="navlarge  " href="/us/en/sale/end-of-year-clearance">
 
-Kids Sale
+End of Year Clearance
 </a>
 
 </li>
@@ -2606,9 +3089,9 @@ Kids Sale
 
 <li class="">
 
-<a class="" href="https://www.uniqlo.com/us/en/girls/sale">
+<a style="font-weight:; color:;" class="  " href="/us/en/sale/women">
 
-Girls' Sale
+Women
 </a>
 
 </li>
@@ -2616,9 +3099,9 @@ Girls' Sale
 
 <li class="">
 
-<a class="" href="https://www.uniqlo.com/us/en/boys/sale">
+<a style="font-weight:; color:;" class="  " href="/us/en/sale/men">
 
-Boys' Sale
+Men
 </a>
 
 </li>
@@ -2626,9 +3109,9 @@ Boys' Sale
 
 <li class="">
 
-<a class="" href="https://www.uniqlo.com/us/en/baby/sale">
+<a style="font-weight:; color:;" class="  " href="/us/en/sale/kids">
 
-Babies' Sale
+Kids
 </a>
 
 </li>
@@ -2790,7 +3273,8 @@ your bag is empty
 </div>
 
 <!-- utility user menu -->
-</div><!-- /header -->
+</div>
+<!-- /header -->
 <div class="header-banner">
 
 	 
@@ -2808,53 +3292,24 @@ your bag is empty
 
 <div class="sale-child">
 
-<div class=" slick-banner" style="background-color:navy;">
+<a href="">
 
-<div class="sale-discount">SHOP THE GIFT GUIDE + FREE GIFT BOX FOR DAD ON ORDERS $99+</div>
+<div class=" slick-banner" style="background-color:red;">
 
-
-
-
-
-<span class="slick-data">
-
-<a href="https://www.uniqlo.com/us/en/men/fathers-day-shop">SHOP NOW</a>
+<div class="sale-discount">NOW EXTENDED! FREE SHIPPING ON ALL ORDERS!</div>
 
 
 
 
-</span>
 
 </div>
 
-</div>
-
-<div class="sale-child">
-
-<div class=" slick-banner" style="background-color:gray;">
-
-<div class="sale-discount">BACK BY POPULAR DEMAND! JUMP 50TH ANNIVERSARY T-SHIRTS</div>
-
-
-
-
-
-<span class="slick-data">
-
-<a href="https://www.uniqlo.com/us/en/ut-graphic-tees/jump-50th">SHOP NOW</a>
-
-
-
-
-</span>
-
-</div>
+</a>
 
 </div>
 
 </ul>
 </div>
-
  
 	
 </div>
@@ -2971,6 +3426,15 @@ Faqs
 
 </li>
 
+<li data-lival="general information">
+
+<a href="/us/en/help/general-information" title="General Information">
+General Information
+<span></span>
+</a>
+
+</li>
+
 <li data-lival="how-to-buy">
 
 <a href="/us/en/help/how-to-buy" title="How to Buy">
@@ -2980,16 +3444,7 @@ How to Buy
 
 </li>
 
-<li data-lival="shippinginfo">
-
-<a href="/us/en/help/help-shipping" title="Shipping">
-Shipping
-<span></span>
-</a>
-
-</li>
-
-<li data-lival="order-status">
+<li data-lival="Ordering">
 
 <a href="/us/en/help/order-status" title="Order Status">
 Order Status
@@ -2998,9 +3453,18 @@ Order Status
 
 </li>
 
+<li data-lival="shippinginfo">
+
+<a href="/us/en/help/shipping" title="Shipping">
+Shipping
+<span></span>
+</a>
+
+</li>
+
 <li data-lival="returns">
 
-<a href="/us/en/help/returns.html" title="Returns">
+<a href="/us/en/help/returns" title="Returns">
 Returns
 <span></span>
 </a>
@@ -3009,8 +3473,8 @@ Returns
 
 <li data-lival="gifts-gift-card">
 
-<a href="/us/en/help/gifts-%2F-gift-card" title="Gifts / Gift Card">
-Gifts / Gift Card
+<a href="/us/en/help/gifts-gift-card" title="Gifts Gift Card">
+Gifts Gift Card
 <span></span>
 </a>
 
@@ -3020,6 +3484,24 @@ Gifts / Gift Card
 
 <a href="/us/en/help/coupons" title="coupons">
 coupons
+<span></span>
+</a>
+
+</li>
+
+<li data-lival="custom-jacket">
+
+<a href="/us/en/help/custom-jacket" title="Custom Jacket FAQ">
+Custom Jacket FAQ
+<span></span>
+</a>
+
+</li>
+
+<li data-lival="bulk-order-faq">
+
+<a href="/us/en/help/bulk-order-faq" title="Bulk Order FAQ">
+Bulk Order FAQ
 <span></span>
 </a>
 
@@ -3036,8 +3518,8 @@ UNIQLO App
 
 <li data-lival="Accessibility">
 
-<a href="/us/en/help/accessibility" title="Accessibility">
-Accessibility
+<a href="/us/en/help/accessibility-%2F-your-protection" title="Accessibility / Your Protection">
+Accessibility / Your Protection
 <span></span>
 </a>
 
@@ -3054,8 +3536,17 @@ Privacy Policy
 
 <li data-lival="terms">
 
-<a href="/us/en/help/terms-conditions.html" title="Terms + Conditions">
+<a href="/us/en/help/terms-conditions" title="Terms + Conditions">
 Terms + Conditions
+<span></span>
+</a>
+
+</li>
+
+<li data-lival="promo-codes">
+
+<a href="/us/en/help/promo-codes" title="Promo Codes">
+Promo Codes
 <span></span>
 </a>
 
@@ -3097,99 +3588,163 @@ Contact Us
 <div class="content">
 <div class="content-asset">
 <div class="help-pages">
-	<section class="hlpContainer">
-		<div id="contentPrivacy">
-			<h2>SITE PRIVACY POLICY</h2>
-			<article>
-				<h3>PRIVACY POLICY</h3>
-				<p>This Privacy Policy applies to the UNIQLO.com website and/or times when you share your personally identifiable information with us through other voluntary means (the “Site”). We value our customers’ privacy and appreciate your confidence that we will respect your privacy in a careful and sensible manner. By visiting the Site and/or using the products and services made available to you on the Site, you are agreeing to the terms of this Privacy Policy. Please read this policy carefully. Our business is constantly evolving and our Privacy Policy and the Site and our <a class="clicker terms" href="https://www.uniqlo.com/us/en/help/terms-conditions.html">Terms + Conditions</a> will also evolve. We may email periodic reminders of our notices and terms of business, unless you have instructed us not to, but you should check our Site frequently to see recent changes. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account. If you choose to visit the Site, your visit and any dispute over privacy is subject to this Privacy Policy and our Site’s <a class="clicker terms" href="https://www.uniqlo.com/us/en/help/terms-conditions.html">Terms + Conditions</a>.</p>
-			</article>
-			<article>
-				<h3>WHAT PERSONAL INFORMATION ABOUT CUSTOMERS DOES THE SITE COLLECT?</h3>
-				<p>Here are the types of information we gather:</p>
-				<h4>Automatic Information</h4>
-				<p>For each visitor to our Site, our server automatically recognizes information regarding the customer’s domain name (or that of the visitor’s access provider) but not the email address. In this section of the policy, what we define as “information” means any information you can be contacted by, such as your name (first and last) and your address (city, state, zip). We may also automatically collect other non-personal information such as the type of browser you are using, the address of the website from which your visit originated, the operating system you are using, the domain name of your internet service provider, the pages you visit on the Site and the duration of your visit.</p>
-				<h4>Information You Give Us</h4>
-				<p>We also collect and aggregate information volunteered by customers such as when you communicate with us electronically.</p>
-				<h4>Cookies</h4>
-				<p>UNIQLO uses cookies and web beacons (also referred to as web bugs, pixel tags or clear GIFs) to manage and secure the Site and email programs. We do not use cookies or web beacons to collect or store personal information. A cookie is a small file placed on your computer when you visit a website. Its purpose is to manage your website experience, help prevent fraud, and allow for customization of the web pages presented to you when you return to the website. Web beacons are small bits of computer code that allow a website owner to track the actions of users on the site and recipients of email communications. Cookies and web beacons help us understand how consumers use the Site and email so we can guard against fraud and design better services in the future. UNIQLO may also use cookies and web beacons to measure the effectiveness of our online advertising initiatives and determine the correlation between UNIQLO customers and the online sites they visit.</p>
-			</article>
-			<article>
-				<h3>HOW DOES UNIQLO USE THE INFORMATION IT COLLECTS ABOUT CUSTOMERS?</h3>
-				<p>Information about our customers is an important part of our business, and we are not in the business of selling or renting it to any third party. However, if we choose to do so in the future, we will notify you. We share customer information only on a limited basis and with our parent company and affiliates. We share it on a limited basis with agents we use from time to time to send postal mail and email, remove repetitive information from customer lists, analyze data, provide marketing assistance, and provide customer service. We use information about our customers for the specific purpose for which it was volunteered. In addition, if you supply us with your postal address online, you may receive periodic mailings from us with information regarding a new collection, new products, new store locations, or upcoming promotional offers or events. Sometimes we also send offers to selected groups of UNIQLO customers on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not wish to receive such mailings and email updates, or otherwise wish to remove your name from our list, please contact us at <a href="mailto:wecare@mail.uniqlo-usa.com">wecare@mail.uniqlo-usa.com</a>. We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our Site’s <a class="clicker terms" href="https://www.uniqlo.com/us/en/help/terms-conditions.html">Terms + Conditions</a>, and/or other agreements; or protect the rights, property, or safety of the Site, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. However, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Policy. In case UNIQLO, or substantially all of its assets are acquired by one or more third parties as a result of a merger, sale, consolidation or liquidation, customer information may be one of the transferred assets.</p>
-			</article>
-			<article>
-				<h3>CHILDREN’S PRIVACY</h3>
-				<p>UNIQLO is concerned about the privacy protection of children who access the internet, and we comply with the Children’s Online Privacy Protection Act (COPPA). Accordingly, the Site is not intended for use by anyone under the age of 13 without the supervision of a parent or guardian, and we do not knowingly collect Information from anyone under 13 years of age without the consent of a parent or guardian. If you are under the age of 13, please do not submit any personal information to us, you may rely on your parent or guardian to assist you.</p>
-			</article>
-			<article>
-				<h3>CHANGES TO YOUR PERSONAL INFORMATION</h3>
-				<p>You can make changes by logging in to your UNIQLO account and going to the Profile Page in My Account.</p>
-			</article>
-			<article>
-				<h3>LINKS TO THIRD PARTY WEBSITES</h3>
-				<p>Certain activities through the Site, such as special promotions, may be linked with those from other unrelated third party companies that offer you the option to share your personal information with the third party. We will not share your personal information with those third party companies; only you can if you make that choice. Links provided on the Site to third party websites are provided as a convenience to you and we do not control those sites or their privacy practices, which may differ from ours. We do not endorse or make any representations about any third party sites that may be accessible through the sites. We encourage you to review the privacy policy of any company before submitting your personal information. The personal data you choose to give to unrelated third parties is covered by their privacy policies, not this Privacy Policy. Some third party companies may choose to share their personal data with us; that sharing is governed by that third party company’s privacy policy.</p>
-			</article>
-			<article>
-				<h3>OLAPIC PRIVACY POLICY</h3>
-				<p>Note: The privacy policy for Olapic program can be found <a href="http://www.olapic.com/privacy-policy/">here</a>.</p>
-			</article>
-			<article>
-				<h3>HOW SECURE IS INFORMATION ABOUT YOU?</h3>
-				<p>We are committed to offering our customers a safe and secure environment. Our servers utilize SSL (Secure Sockets Layer) encryption technology to help protect your personal information. By using an SSL-compatible browser such as Netscape Navigator, Microsoft Internet Explorer or AOL, you can help ensure that your personal identifiable information is unavailable to unauthorized users and processed confidentially. In the unlikely event that we believe that the security of your personally identifiable information in our possession or control may have been compromised, we may seek to notify you of that development. If a notification is appropriate or required by law, we would endeavor to do so as promptly as possible under the circumstances, and, to the extent we have your email address, we may notify you by email.</p>
-			</article>
-			<h4>By using this Site, you consent to our use of email as a means of such notification</h4>
-			<p>If you have any questions regarding our Privacy Policy, please contact us at <a href="mailto:wecare@mail.uniqlo-usa.com">wecare@mail.uniqlo-usa.com</a> or by mail at the following address: UNIQLO USA LLC, 450 West 14th Street, 7th Floor, New York, NY 10014, Attn: Marketing and Communications Department</p>
-			<p>© UNIQLO USA LLC 2006 Last Updated: October 22, 2012</p>
-		</div>
-	</section>
+    <section class="hlpContainer">
+        <div id="contentPrivacy">
+            <h2>SITE PRIVACY POLICY</h2>
+            <article>
+                <h3>PRIVACY POLICY</h3>
+                <p>This Privacy Policy applies to the UNIQLO.com website and/or times when you share your personally identifiable information with us through other voluntary means (the “Site”). We value our customers’ privacy and appreciate your confidence that we will respect your privacy in a careful and sensible manner. By visiting the Site and/or using the products and services made available to you on the Site, you are agreeing to the terms of this Privacy Policy. Please read this policy carefully. Our business is constantly evolving and our Privacy Policy and the Site and our <a class="clicker terms" href="https://www.uniqlo.com/us/en/help/terms-conditions">Terms + Conditions</a> will also evolve. We may email periodic reminders of our notices and terms of business, unless you have instructed us not to, but you should check our Site frequently to see recent changes. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account. If you choose to visit the Site, your visit and any dispute over privacy is subject to this Privacy Policy and our Site’s <a class="clicker terms" href="https://www.uniqlo.com/us/en/help/terms-conditions">Terms + Conditions</a>.</p>
+            </article>
+            <article>
+                <h3>WHAT PERSONAL INFORMATION ABOUT CUSTOMERS DOES THE SITE COLLECT?</h3>
+                <p>Here are the types of information we gather:</p>
+
+                <h4>Automatic Information</h4>
+                <p>For each visitor to our Site, our server automatically recognizes information regarding the customer’s domain name (or that of the visitor’s access provider) but not the email address. In this section of the policy, what we define as “information“ means any information you can be contacted by, such as your name (first and last) and your address (city, state, zip). We may also automatically collect other non-personal information such as the type of browser you are using, the address of the website from which your visit originated, the operating system you are using, the domain name of your internet service provider, the pages you visit on the Site and the duration of your visit.</p>
+
+
+
+                <h4>Information You Give Us</h4>
+                <p>We also collect and aggregate information volunteered by customers such as when you communicate with us electronically.</p>
+                <h4>Cookies</h4>
+                <p>UNIQLO uses cookies and web beacons (also referred to as web bugs, pixel tags or clear GIFs) to manage and secure the Site and email programs. We do not use cookies or web beacons to collect or store personal information. A cookie is a small file placed on your computer when you visit a website. Its purpose is to manage your website experience, help prevent fraud, and allow for customization of the web pages presented to you when you return to the website. Web beacons are small bits of computer code that allow a website owner to track the actions of users on the site and recipients of email communications. Cookies and web beacons help us understand how consumers use the Site and email so we can guard against fraud and design better services in the future. UNIQLO may also use cookies and web beacons to measure the effectiveness of our online advertising initiatives and determine the correlation between UNIQLO customers and the online sites they visit.</p>
+            </article>
+            <article>
+                <h3>HOW DOES UNIQLO USE THE INFORMATION IT COLLECTS ABOUT CUSTOMERS?</h3>
+                <p>Information about our customers is an important part of our business, and we are not in the business of selling or renting it to any third party. However, if we choose to do so in the future, we will notify you. We share customer information only on a limited basis and with our parent company and affiliates. We share it on a limited basis with agents we use from time to time to send postal mail and email, remove repetitive information from customer lists, analyze data, provide marketing assistance, and provide customer service. We use information about our customers for the specific purpose for which it was volunteered. In addition, if you supply us with your postal address online, you may receive periodic mailings from us with information regarding a new collection, new products, new store locations, or upcoming promotional offers or events. Sometimes we also send offers to selected groups of UNIQLO customers on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not wish to receive such mailings and email updates, or otherwise wish to remove your name from our list, please contact us at <a href="mailto:wecare@mail.uniqlo-usa.com">wecare@mail.uniqlo-usa.com</a>. We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our Site’s <a class="clicker terms" href="https://www.uniqlo.com/us/en/help/terms-conditions">Terms + Conditions</a>, and/or other agreements; or protect the rights, property, or safety of the Site, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. However, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Policy. In case UNIQLO, or substantially all of its assets are acquired by one or more third parties as a result of a merger, sale, consolidation or liquidation, customer information may be one of the transferred assets.</p>
+            </article>
+            <article>
+                <h3>CHILDREN’S PRIVACY</h3>
+                <p>UNIQLO is concerned about the privacy protection of children who access the internet, and we comply with the Children’s Online Privacy Protection Act (COPPA). Accordingly, the Site is not intended for use by anyone under the age of 13 without the supervision of a parent or guardian, and we do not knowingly collect Information from anyone under 13 years of age without the consent of a parent or guardian. If you are under the age of 13, please do not submit any personal information to us, you may rely on your parent or guardian to assist you.</p>
+            </article>
+            <article>
+                <h3>CHANGES TO YOUR PERSONAL INFORMATION</h3>
+                <p>You can make changes by logging in to your UNIQLO account and going to the Profile Page in My Account.</p>
+            </article>
+            <article>
+                <h3>LINKS TO THIRD PARTY WEBSITES</h3>
+                <p>Certain activities through the Site, such as special promotions, may be linked with those from other unrelated third party companies that offer you the option to share your personal information with the third party. We will not share your personal information with those third party companies; only you can if you make that choice. Links provided on the Site to third party websites are provided as a convenience to you and we do not control those sites or their privacy practices, which may differ from ours. We do not endorse or make any representations about any third party sites that may be accessible through the sites. We encourage you to review the privacy policy of any company before submitting your personal information. The personal data you choose to give to unrelated third parties is covered by their privacy policies, not this Privacy Policy. Some third party companies may choose to share their personal data with us; that sharing is governed by that third party company’s privacy policy.</p>
+            </article>
+            <article>
+                <h3>OLAPIC PRIVACY POLICY</h3>
+                <p>Note: The privacy policy for Olapic program can be found <a href="http://www.olapic.com/privacy-policy/">here</a>.</p>
+            </article>
+            <article>
+                <h3>HOW SECURE IS INFORMATION ABOUT YOU?</h3>
+                <p>We are committed to offering our customers a safe and secure environment. Our servers utilize SSL (Secure Sockets Layer) encryption technology to help protect your personal information. By using an SSL-compatible browser such as Netscape Navigator, Microsoft Internet Explorer or AOL, you can help ensure that your personal identifiable information is unavailable to unauthorized users and processed confidentially. In the unlikely event that we believe that the security of your personally identifiable information in our possession or control may have been compromised, we may seek to notify you of that development. If a notification is appropriate or required by law, we would endeavor to do so as promptly as possible under the circumstances, and, to the extent we have your email address, we may notify you by email.</p>
+            </article>
+            <h4>By using this Site, you consent to our use of email as a means of such notification</h4>
+            <p>If you have any questions regarding our Privacy Policy, please contact us at <a href="mailto:wecare@mail.uniqlo-usa.com">wecare@mail.uniqlo-usa.com</a> or by mail at the following address: UNIQLO USA LLC, 450 West 14th Street, 7th Floor, New York, NY 10014, Attn: Marketing and Communications Department</p>
+            <p>© UNIQLO USA LLC 2006 Last Updated: October 22, 2012</p>
+        </div>
+    </section>
 </div>
 <div class="help-pages">
-	<section class="hlpContainer">
-		<div id="contentPrivacy">
-			<h2>APP PRIVACY POLICY</h2>
-			<article>
-				<h3>PRIVACY POLICY</h3>
-				<p>This Privacy Policy applies to the UNIQLO Mobile Application and/or times when you share your personally identifiable information with us through other voluntary means (the “App”). We value our customers’ privacy and appreciate your confidence that we will respect your privacy in a careful and sensible manner. By using the App and/or using the products and services made available to you on the App, you are agreeing to the terms of this Privacy Policy. Please read this policy carefully. Our business is constantly evolving and our Privacy Policy and the Site and our&nbsp;<a class="clicker terms" href="https://www.uniqlo.com/us/en/help/terms-conditions.html">Terms + Conditions</a>&nbsp;will also evolve. We may email periodic reminders of our notices and terms of business, unless you have instructed us not to, but you should check our App frequently to see recent changes. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account. If you choose to use the App, your visit and any dispute over privacy is subject to this Privacy Policy and our Site’s&nbsp;<a class="clicker terms" href="https://www.uniqlo.com/us/en/help/terms-conditions.html">Terms + Conditions</a>.</p>
-			</article>
-			<article>
-				<h3>WHAT PERSONAL INFORMATION ABOUT CUSTOMERS DOES THE APP COLLECT?</h3>
-				<p>Here are the types of information we gather:</p>
-				<h4>Automatic Information</h4>
-				<p>For each visitor to our App, our server automatically recognizes information regarding the customer’s domain name (or that of the visitor’s access provider) but not the email address. In this section of the policy, what we define as “information” means any information you can be contacted by, such as your name (first and last) and your address (city, state, zip). We may also automatically collect other non-personal information such as the type of browser you are using, the address of the website from which your visit originated, the operating system you are using, the domain name of your internet service provider, the pages you visit on the App and the duration of your visit.</p>
-				<h4>Information You Give Us</h4>
-				<p>We also collect and aggregate information given to us, such as your purchase history, purchase date, purchase store, and coupon usage (including location and date(s)).</p>
-				<h4>Cookies</h4>
-				<p>UNIQLO uses cookies and web beacons (also referred to as web bugs, pixel tags or clear GIFs) to manage the App and email programs. We do not use cookies or web beacons to collect or store personal information. A cookie is a small file placed on your computer when you visit a website. Its purpose is to manage your website experience and allow for customization of the web pages presented to you when you return to the website. Web beacons are small bits of computer code that allow a website owner to track the actions of users on the site and recipients of email communications. Cookies and web beacons help us understand how consumers use the Site and email so we can design better services in the future. UNIQLO may use cookies and web beacons to measure the effectiveness of our online advertising initiatives and determine the correlation between UNIQLO customers and the online sites they visit.</p>
-			</article>
-			<article>
-				<h3>HOW DOES UNIQLO USE THE INFORMATION IT COLLECTS ABOUT CUSTOMERS?</h3>
-				<p>Information about our customers is an important part of our business, and we are not in the business of selling or renting it to any third party. However, if we choose to do so in the future, we will notify you. We share customer information only on a limited basis and with our parent company and affiliates. We share it on a limited basis with agents we use from time to time to send postal mail and email, remove repetitive information from customer lists, analyze data, provide marketing assistance, and provide customer service. We use information about our customers for the specific purpose for which it was volunteered. In addition, if you supply us with your postal address online, you may receive periodic mailings from us with information regarding a new collection, new products, new store locations, or upcoming promotional offers or events. Sometimes we also send offers to selected groups of UNIQLO customers on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not wish to receive such mailings and email updates, or otherwise wish to remove your name from our list, please contact us at&nbsp;<a href="mailto:wecare@mail.uniqlo-usa.com">wecare@mail.uniqlo-usa.com</a>. We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our Site’s&nbsp;<a class="clicker terms" href="https://www.uniqlo.com/us/en/help/terms-conditions.html">Terms + Conditions</a>, and/or other agreements; or protect the rights, property, or safety of the Site, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. However, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Policy. In case UNIQLO, or substantially all of its assets are acquired by one or more third parties as a result of a merger, sale, consolidation or liquidation, customer information may be one of the transferred assets.</p>
-			</article>
-			<article>
-				<h3>CHILDREN’S PRIVACY</h3>
-				<p>UNIQLO is concerned about the privacy protection of children who access the internet, and we comply with the Children’s Online Privacy Protection Act (COPPA). Accordingly, the Site is not intended for use by anyone under the age of 13 without the supervision of a parent or guardian, and we do not knowingly collect Information from anyone under 13 years of age without the consent of a parent or guardian. If you are under the age of 13, please do not submit any personal information to us, you may rely on your parent or guardian to assist you.</p>
-			</article>
-			<article>
-				<h3>CHANGES TO YOUR PERSONAL INFORMATION</h3>
-				<p>You can make changes by logging in to your UNIQLO account and going to the Profile Page in My Account.</p>
-			</article>
-			<article>
-				<h3>LINKS TO THIRD PARTY WEBSITES</h3>
-				<p>Certain activities through the Site, such as special promotions, may be linked with those from other unrelated third party companies that offer you the option to share your personal information with the third party. We will not share your personal information with those third party companies; only you can if you make that choice. Links provided on the Site to third party websites are provided as a convenience to you and we do not control those sites or their privacy practices, which may differ from ours. We do not endorse or make any representations about any third party sites that may be accessible through the sites. We encourage you to review the privacy policy of any company before submitting your personal information. The personal data you choose to give to unrelated third parties is covered by their privacy policies, not this Privacy Policy. Some third party companies may choose to share their personal data with us; that sharing is governed by that third party company’s privacy policy.</p>
-			</article>
-			<article>
-				<h3>HOW SECURE IS INFORMATION ABOUT YOU?</h3>
-				<p>We are committed to offering our customers a safe and secure environment. Our servers utilize SSL (Secure Sockets Layer) encryption technology to help protect your personal information. By using an SSL-compatible browser such as Netscape Navigator, Microsoft Internet Explorer or AOL, you can help ensure that your personal identifiable information is unavailable to unauthorized users and processed confidentially. In the unlikely event that we believe that the security of your personally identifiable information in our possession or control may have been compromised, we may seek to notify you of that development. If a notification is appropriate or required by law, we would endeavor to do so as promptly as possible under the circumstances, and, to the extent we have your email address, we may notify you by email.</p>
-			</article>
+    <section class="hlpContainer">
+        <div id="contentPrivacy">
+            <h2>APP PRIVACY POLICY</h2>
+            <article>
+                <h3>PRIVACY POLICY</h3>
+                <p>This Privacy Policy applies to the UNIQLO Mobile Application and/or times when you share your personally identifiable information with us through other voluntary means (the “App”). We value our customers’ privacy and appreciate your confidence that we will respect your privacy in a careful and sensible manner. By using the App and/or using the products and services made available to you on the App, you are agreeing to the terms of this Privacy Policy. Please read this policy carefully. Our business is constantly evolving and our Privacy Policy and the Site and our&nbsp;<a class="clicker terms" href="https://www.uniqlo.com/us/en/help/terms-conditions">Terms + Conditions</a>&nbsp;will also evolve. We may email periodic reminders of our notices and terms of business, unless you have instructed us not to, but you should check our App frequently to see recent changes. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account. If you choose to use the App, your visit and any dispute over privacy is subject to this Privacy Policy and our Site’s&nbsp;<a class="clicker terms" href="https://www.uniqlo.com/us/en/help/terms-conditions">Terms + Conditions</a>.</p>
+            </article>
+            <article>
+                <h3>WHAT PERSONAL INFORMATION ABOUT CUSTOMERS DOES THE APP COLLECT?</h3>
+                <p>Here are the types of information we gather:</p>
+                <h4>Automatic Information</h4>
+                <p>For each visitor to our App, our server automatically recognizes information regarding the customer’s domain name (or that of the visitor’s access provider) but not the email address. In this section of the policy, what we define as “information” means any information you can be contacted by, such as your name (first and last) and your address (city, state, zip). We may also automatically collect other non-personal information such as the type of browser you are using, the address of the website from which your visit originated, the operating system you are using, the domain name of your internet service provider, the pages you visit on the App and the duration of your visit.</p>
+                <h4>Information You Give Us</h4>
+                <p>We also collect and aggregate information given to us, such as your purchase history, purchase date, purchase store, and coupon usage (including location and date(s)).</p>
+                <h4>Cookies</h4>
+                <p>UNIQLO uses cookies and web beacons (also referred to as web bugs, pixel tags or clear GIFs) to manage the App and email programs. We do not use cookies or web beacons to collect or store personal information. A cookie is a small file placed on your computer when you visit a website. Its purpose is to manage your website experience and allow for customization of the web pages presented to you when you return to the website. Web beacons are small bits of computer code that allow a website owner to track the actions of users on the site and recipients of email communications. Cookies and web beacons help us understand how consumers use the Site and email so we can design better services in the future. UNIQLO may use cookies and web beacons to measure the effectiveness of our online advertising initiatives and determine the correlation between UNIQLO customers and the online sites they visit.</p>
+            </article>
+            <article>
+                <h3>HOW DOES UNIQLO USE THE INFORMATION IT COLLECTS ABOUT CUSTOMERS?</h3>
+                <p>Information about our customers is an important part of our business, and we are not in the business of selling or renting it to any third party. However, if we choose to do so in the future, we will notify you. We share customer information only on a limited basis and with our parent company and affiliates. We share it on a limited basis with agents we use from time to time to send postal mail and email, remove repetitive information from customer lists, analyze data, provide marketing assistance, and provide customer service. We use information about our customers for the specific purpose for which it was volunteered. In addition, if you supply us with your postal address online, you may receive periodic mailings from us with information regarding a new collection, new products, new store locations, or upcoming promotional offers or events. Sometimes we also send offers to selected groups of UNIQLO customers on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not wish to receive such mailings and email updates, or otherwise wish to remove your name from our list, please contact us at&nbsp;<a href="mailto:wecare@mail.uniqlo-usa.com">wecare@mail.uniqlo-usa.com</a>. We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our Site’s&nbsp;<a class="clicker terms" href="https://www.uniqlo.com/us/en/help/terms-conditions">Terms + Conditions</a>, and/or other agreements; or protect the rights, property, or safety of the Site, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. However, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Policy. In case UNIQLO, or substantially all of its assets are acquired by one or more third parties as a result of a merger, sale, consolidation or liquidation, customer information may be one of the transferred assets.</p>
+            </article>
+            <article>
+                <h3>CHILDREN’S PRIVACY</h3>
+                <p>UNIQLO is concerned about the privacy protection of children who access the internet, and we comply with the Children’s Online Privacy Protection Act (COPPA). Accordingly, the Site is not intended for use by anyone under the age of 13 without the supervision of a parent or guardian, and we do not knowingly collect Information from anyone under 13 years of age without the consent of a parent or guardian. If you are under the age of 13, please do not submit any personal information to us, you may rely on your parent or guardian to assist you.</p>
+            </article>
+            <article>
+                <h3>CHANGES TO YOUR PERSONAL INFORMATION</h3>
+                <p>You can make changes by logging in to your UNIQLO account and going to the Profile Page in My Account.</p>
+            </article>
+            <article>
+                <h3>LINKS TO THIRD PARTY WEBSITES</h3>
+                <p>Certain activities through the Site, such as special promotions, may be linked with those from other unrelated third party companies that offer you the option to share your personal information with the third party. We will not share your personal information with those third party companies; only you can if you make that choice. Links provided on the Site to third party websites are provided as a convenience to you and we do not control those sites or their privacy practices, which may differ from ours. We do not endorse or make any representations about any third party sites that may be accessible through the sites. We encourage you to review the privacy policy of any company before submitting your personal information. The personal data you choose to give to unrelated third parties is covered by their privacy policies, not this Privacy Policy. Some third party companies may choose to share their personal data with us; that sharing is governed by that third party company’s privacy policy.</p>
+            </article>
+            <article>
+                <h3>HOW SECURE IS INFORMATION ABOUT YOU?</h3>
+                <p>We are committed to offering our customers a safe and secure environment. Our servers utilize SSL (Secure Sockets Layer) encryption technology to help protect your personal information. By using an SSL-compatible browser such as Netscape Navigator, Microsoft Internet Explorer or AOL, you can help ensure that your personal identifiable information is unavailable to unauthorized users and processed confidentially. In the unlikely event that we believe that the security of your personally identifiable information in our possession or control may have been compromised, we may seek to notify you of that development. If a notification is appropriate or required by law, we would endeavor to do so as promptly as possible under the circumstances, and, to the extent we have your email address, we may notify you by email.</p>
+            </article>
 
-			<h4>By using this Site, you consent to our use of email as a means of such notification</h4>
-			<p>If you have any questions regarding our Privacy Policy, please contact us at <a href="mailto:wecare@mail.uniqlo-usa.com">wecare@mail.uniqlo-usa.com</a> or by mail at the following address: UNIQLO USA LLC, 450 West 14th Street, 7th Floor, New York, NY 10014, Attn: Marketing and Communications Department</p>
+            <h4>By using this Site, you consent to our use of email as a means of such notification</h4>
+            <p>If you have any questions regarding our Privacy Policy, please contact us at <a href="mailto:wecare@mail.uniqlo-usa.com">wecare@mail.uniqlo-usa.com</a> or by mail at the following address: UNIQLO USA LLC, 450 West 14th Street, 7th Floor, New York, NY 10014, Attn: Marketing and Communications Department</p>
 
-			<p>© UNIQLO USA LLC 2017 Last Updated: September 20, 2017</p>
-		</div>
-	</section>
+            <p>© UNIQLO USA LLC 2017 Last Updated: September 20, 2017</p>
+        </div>
+    </section>
 </div>
+<style type="text/css">
+    .help-pages h3.faq-heading {
+        color: #000;
+        padding-bottom: 8px;
+        margin-bottom: 8px;
+        font-size: 24px;
+        border-bottom: 3px solid #e0e0e0;
+        font-family: UniqloProRegular, "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+        font-weight: 700;
+    }
+    
+    .help-pages .hlpContainer ul {
+        margin: -10px 0 20px 40px;
+        padding-bottom: 8px;
+    }
+    
+    .help-pages .hlpContainer ul li {
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+        font-size: 16px;
+        color: #636262;
+        list-style: disc;
+    }
+    
+    .help-pages .hlpContainer a {
+        color: red;
+        font-size: 16px;
+        line-height: 26px;
+    }
+    
+    .pt_primary #main .primary-content .staticcontent .help-pages .hlpContainer p {
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+        font-size: 16px;
+        font-weight: 400;
+        color: #636262;
+        font-weight: 400;
+        line-height: 1.3;
+    }
+    
+    .help-pages .hlpContainer h3 {
+        margin-top: 20px;
+        color: #000;
+        font-family: UniqloProRegular, "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+        font-size: 20px;
+        font-weight: 700;
+        padding-bottom: 8px;
+        text-transform: uppercase;
+    }
+    
+    .help-pages .hlpContainer h3:first-of-type {
+        margin-top: 0;
+    }
+    
+    .help-pages .hlpContainer h4 {
+        color: #000;
+        font-family: UniqloProRegular, "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+        font-size: 16px;
+        font-weight: 700;
+        padding-bottom: 8px;
+    }
+    </style>
 </div>
 </div>
 
@@ -3313,10 +3868,10 @@ Contact Us
 
 
 <div class="siginup-logo">
-<img alt="" src="https://www.uniqlo.com/na-static/on/demandware.static/-/Sites/default/dw0b65047a/images/slot/lightbox_logo.jpg" title="">
+<img alt="lightbox logo" src="https://www.uniqlo.com/na-static/on/demandware.static/-/Sites/default/dw0b65047a/images/slot/lightbox_logo.jpg" title="">
 </div>
 
-<section class="welcome-section">
+<section class="welcome-section emOv-welcome-section">
 <p class="emOv-sign-up">SIGN UP!</p>
 
 <p class="emOv-perks"> FOR SOME PERKS!</p>
@@ -3453,7 +4008,7 @@ text-transform:uppercase;
 #emOv-disclaimer p{ 
       margin: 15px 0;
     display: inline-block;
-  font-family:"DIN Next W01 Regular", arial;  
+  font-family:UniqloProRegular, "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 11px;
     line-height: 12px;
     color: red;
@@ -3479,9 +4034,9 @@ font-style: normal;
 
 <div class="thank-you-pge">
 <div class="siginup-logo">
-<img alt="" src="https://www.uniqlo.com/na-static/on/demandware.static/-/Sites/default/dw0b65047a/images/slot/lightbox_logo.jpg" title="">
+<img alt="lightbox logo" src="https://www.uniqlo.com/na-static/on/demandware.static/-/Sites/default/dw0b65047a/images/slot/lightbox_logo.jpg" title="">
 </div>
-<section class="welcome-section">
+<section class="welcome-section emOv-welcome-section">
 <p class="emOv-perks">Thank you!</p>
 
 <hr class="emOv-hr-signUp">
@@ -3568,7 +4123,7 @@ font-family:"UniqloBoldRegular";
     text-indent: 20px;
   margin: 0 auto !important;
   text-align: center;
-  font-family: "DIN Next W01 Regular", arial;
+  font-family: UniqloProRegular, "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight:normal;
       font-size: 18px;
   letter-spacing: 1px;
@@ -3618,7 +4173,7 @@ $(window).on('load', function() {
 </script>
 <div class="quicklinks-uniqlo">
 	<ul class="menu-footer menu pipe">
-		<li><span class="sprite-left careers-icon"></span><a href="https://www.fastretailing.com/employment/en/uniqlo/us/" title="employment" aria-label="employment">Careers </a></li>
+		<li><span class="sprite-left careers-icon"></span><a href="/us/en/employment/hr.html" title="employment" aria-label="employment">Careers </a></li>
 		<li><span class="sprite-left store-locater sprite-left"></span><a href="https://www.uniqlo.com/us/en/find-stores/" title="Store Locator" aria-label="store locator">Store Locator </a></li>
 		<!-- <li><span class="sprite-left life-tools"></span><a href="" title="">Life Tools</a></li> 
 		<li><span class="sprite-left comment-blog"></span><a href="" title="">Blog: What's the Word </a></li>-->
@@ -3654,7 +4209,8 @@ $(window).on('load', function() {
   <li><a href="https://www.uniqlo.com/us/en/company/about-uniqlo-us.html" title="Our Story" aria-label="Our Story">Our Story</a></li>
   <li><a href="https://www.uniqlo.com/us/en/find-stores/" title="Our Stores" aria-label="Our Stores">Our Stores</a></li>
   <li><a href="https://www.uniqlo.com/us/en/special/csr/" title="Sustainability" aria-label="Sustainability">Sustainability</a></li>
-  <li><a href="https://www.fastretailing.com/employment/en/uniqlo/us/" title="Careers - Work With Us!" aria-label="Careers - Work With Us!">Careers - Work With Us!</a></li>
+<!--  <li><a href="http://www.fastretailing.com/eng/sustainability/supply_chain/human_rights.html" title="CA Supply Chain Act" aria-label="CA Supply Chain Act">CA Supply Chain Act</a></li>-->
+  <li><a href="/us/en/employment/hr.html" title="Careers - Work With Us!" aria-label="Careers - Work With Us!">Careers - Work With Us!</a></li>
   <li><a href="https://www.uniqlo.com/us/en/company/news.html" title="UNIQLO News" aria-label="UNIQLO News">UNIQLO News</a></li>
   <li><a href="https://www.uniqlo.com/us/en/company/sponsored-athletes.html" title="Sponsored Athletes" aria-label="Sponsored Athletes">Sponsored Athletes</a></li>
   <!-- <li><a title="">Blog: What's the Word</a></li>-->
@@ -3663,6 +4219,45 @@ $(window).on('load', function() {
   <li><a href="https://www.uniqlo.com/us/en/company/fast-retailing.html" title="Group Companies" aria-label="Group Companies">Group Companies</a></li>
 </ul>
 <!-- END:footer-column2 -->
+
+<script>
+function setCk(value, days){
+    let date = new Date();
+    date.setTime(date.getTime() + (days * 24 * 60 * 60 * 999));
+    let expires = "expires="+date.toUTCString();
+   document.cookie = 'UQZ2VZGV=' + value + '; ' + expires
+}
+function getCk() {
+    let ck = document.cookie.split(';').filter(e => e.includes('UQZ2VZGV'))
+    if(ck.length) {
+       return Number(ck[0].slice(-1))
+    }
+    else {
+      return false
+    }
+}
+$(document).ready(() => {
+    $('a, .name-link').on('click', function() {
+    if(this.href) {
+         if(this.href.includes('/men')) {
+         setCk(1, 1000)
+    }
+    else if (this.href.includes('/women')) {
+         setCk(0, 1000)
+    }
+    else if (this.href.includes('/girls') || this.href.includes('/boys')) {
+         setCk(2, 1000)
+    }
+    else if (this.href.includes('/baby')) {
+         setCk(3, 1000)
+    }
+    else {
+      return
+    }
+  }
+})
+})
+</script>
 </div> <!-- End content-asset -->
 
 
@@ -3686,15 +4281,17 @@ $(window).on('load', function() {
 <p>Help</p>
 <ul class="menu-footer menu pipe">
   <li><a href="https://www.uniqlo.com/us/en/help/faqs" title="FAQ" aria-label="FAQ">FAQ</a></li>
-  <li><a href="https://www.uniqlo.com/us/en/help/help-shipping" title="Shipping" aria-label="Shipping">Shipping</a></li>
-  <li><a href="https://www.uniqlo.com/us/en/help/returns.html" title="Returns" aria-label="Returns">Returns</a></li>
-  <li><a href="/us/en/help/order-status" title="Order Status" aria-label="Order Status">Order Status</a></li>
+  <li><a href="https://www.uniqlo.com/us/en/help/shipping" title="Shipping" aria-label="Shipping">Shipping</a></li>
+  <li><a href="https://www.uniqlo.com/us/en/help/returns" title="Returns" aria-label="Returns">Returns</a></li>
+ <!-- <li><a href="/us/en/help/order-status" title="Order Status" aria-label="Order Status">Order Status</a></li>-->
   <li><a href="/us/en/bulk-order.html" title="Bulk Order" aria-label="Bulk Order">Bulk Order</a></li>
   <li><a href="/on/demandware.store/Sites-UniqloUS-Site/default/GiftCards-Show" title="Gift Card Balance" aria-label="Gift Card Balance">Gift Card Balance</a></li>
-  <li><a href="/us/en/help/accessibility" title="Accessibility" aria-label="Accessibility">Accessibility</a></li>
+<!--  <li><a href="/us/en/help/accessibility" title="Accessibility" aria-label="Accessibility">Accessibility</a></li> -->
+  <li><a href="/us/en/help/accessibility-%2F-your-protection" title="Accessibility" aria-label="Accessibility">Accessibility</a></li>
   <li><a href="https://www.uniqlo.com/us/en/email-preferences/" title="Unsubscribe" aria-label="Unsubscribe">Unsubscribe</a></li>  
 <li><a href="https://www.uniqlo.com/us/en/contact/" title="Contact Us" aria-label="Contact Us">Contact Us</a></li>
-  <li><a href="http://uniqlo.extole.io" title="">Refer A Friend</a></li>
+  <!--<li><a href="http://uniqlo.extole.io" title="">Refer A Friend</a></li>-->
+<li><a href="/us/en/page/refer-a-friend.html" title="">Refer A Friend</a></li>
 </ul>
 <!-- END:footer-column3 -->
 </div> <!-- End content-asset -->
@@ -3718,13 +4315,13 @@ $(window).on('load', function() {
 
 <div class="content-asset" id="footer-social-icons"><!-- dwMarker="content" dwContentID="f08ea15da5c16e4fd7634bf19b" -->
 <p>Follow Us</p>
-                 <ul class="social-links uniqlo-social">
-                 <li><a class="facebook" href="https://www.facebook.com/uniqlo.us" title="facebook Home" alt="facebook logo">facebook</a></li>
-                 <li><a class="instagram" href="https://www.instagram.com/uniqlousa/" title="instagram home page" alt="instagram logo">instagram</a></li>
-                 <li><a class="pintrest" href="https://www.pinterest.com/uniqlo/" title="pintrest home page" alt="pinterest logo">pintrest</a></li>
-                 <li><a class="youtube" href="https://www.youtube.com/user/UNIQLOUSA" title="youtube home page" alt="youtube logo">youtube</a></li>
-                 <li><a class="twitter" href="https://twitter.com/UniqloUSA" title="twitter home page alt=" twitter="" logo""="">twitter</a></li>
-                </ul>
+<ul class="social-links uniqlo-social">
+    <li><a class="facebook" href="https://www.facebook.com/uniqlo.us" title="facebook Home" alt="facebook logo">facebook</a></li>
+    <li><a class="instagram" href="https://www.instagram.com/uniqlousa/" title="instagram home page" alt="instagram logo">instagram</a></li>
+    <li><a class="pintrest" href="https://www.pinterest.com/uniqlo/" title="pintrest home page" alt="pinterest logo">pintrest</a></li>
+    <li><a class="youtube" href="https://www.youtube.com/user/UNIQLOUSA" title="youtube home page" alt="youtube logo">youtube</a></li>
+    <li><a class="twitter" href="https://twitter.com/UniqloUSA" title="twitter home page" alt="twitter logo">twitter</a></li>
+</ul>
 </div> <!-- End content-asset -->
 
 
@@ -3746,40 +4343,46 @@ $(window).on('load', function() {
 
 <div class="content-asset" id="footer-social-email"><!-- dwMarker="content" dwContentID="4a6f6a302e70e6f848e3d8af65" -->
 <div class="footeremailsignup">
-	<div class="enroll">
-		<p>UNIQLO E-MEMBER</p> 
-		<div class="special-offer-main">                    
-			<div class="special-offer">
-				<span>Sign up for Uniqlo News and get a special WELCOME OFFER within 24 hours. </span>
-			</div>
-			<form action="#" method="post" id="email-alert-signup">
-				<label for="email-alert-address"><span class="visually-hidden">Enter Your Email</span></label>
-				<input class="desktop-button email-alert-address input-text" type="text" placeholder="Enter Email" value="">
-				<input class="ipad-button email-alert-address input-text" type="text" placeholder="Enter your e-mail here" value="">
-				<span class="emailerror">!</span>
-                                <button class="desktop-button" type="submit" name="home-email" value="Submit" aria-label="sign up">Sign Up</button>
-				<button class="ipad-button" type="submit" name="home-email" value="Submit" aria-label="sign up">SIGN-UP NOW</button>
-			</form> 
-		</div>
-	</div>
-	<div class="thankyou-msg"></div>
+    <div class="enroll">
+        <p>UNIQLO E-MEMBER</p>
+        <div class="special-offer-main">
+            <div class="special-offer">
+                <span>Sign up for Uniqlo News and get a special WELCOME OFFER within 24 hours. </span>
+            </div>
+            <form action="#" method="post" id="email-alert-signup">
+                <label for="email-alert-address"><span class="visually-hidden">Enter Your Email</span></label>
+                <input id="email-alert-address" class="desktop-button email-alert-address input-text" type="text" placeholder="Enter Email" value="">
+                <label for="ipad-button"><span class="visually-hidden">Enter Your Email</span></label>
+                <input id="ipad-button" class="ipad-button email-alert-address input-text" type="text" placeholder="Enter your e-mail here" value="">
+                <span class="emailerror">!</span>
+                <label for="desktop-submit-button"><span class="visually-hidden">Sign Up</span></label>
+                <button id="desktop-submit-button" class="desktop-button" type="submit" name="home-email" value="Submit" aria-label="sign up">Sign Up</button>
+                <label for="ipad-submit-button"><span class="visually-hidden">Sign Up</span></label>
+                <button id="ipad-submit-button" class="ipad-button" type="submit" name="home-email" value="Submit" aria-label="sign up">SIGN-UP NOW</button>
+            </form>
+        </div>
+    </div>
+    <div class="thankyou-msg"></div>
 </div>
 <style type="text/css">
 @media screen and (min-width: 768px) and (max-width: 1023px) {
-  .desktop-button{
-     display:none;
-  }
-.ipad-button{
-    display: inline-block;
+    .desktop-button {
+        display: none;
+    }
+
+    .ipad-button {
+        display: inline-block;
+    }
 }
-}
-@media screen and (min-width: 1023px){
-.desktop-button{
-    display: inline-block;
-}
-.ipad-button{
-display:none;
-}
+
+@media screen and (min-width: 1023px) {
+    .desktop-button {
+        display: inline-block;
+    }
+
+    .ipad-button {
+        display: none;
+    }
 }
 </style>
 </div> <!-- End content-asset -->
@@ -3809,7 +4412,7 @@ display:none;
 <div class="copywrite-bar">
   <ul>
 <li><a href="https://www.uniqlo.com/us/en/help/privacy-policy">Privacy Policy</a></li>
-<li><a href="https://www.uniqlo.com/us/en/help/terms-conditions.html">Terms + Conditions</a></li>
+<li><a href="https://www.uniqlo.com/us/en/help/terms-conditions">Terms + Conditions</a></li>
 <li>© UNIQLO CO. LTD. All rights reserved. </li>
 </ul>
 </div>
@@ -3839,35 +4442,35 @@ display:none;
 
 <div class="content-asset" id="footer-countrylist"><!-- dwMarker="content" dwContentID="ee2a256eabdad86e67d8e7e9cf" -->
 <div class="country-list-select">
-				<p>change region</p>
-				<div class="category-list">
-					<ul>
-						<li><a link="" rel="alternate" hreflang="en-au" href="http://www.uniqlo.com/au/">australia</a></li>
-						<li><a link="" rel="alternate" hreflang="en-ca" href="http://www.uniqlo.com/ca/">canada</a></li>
-						<li><a link="" rel="alternate" hreflang="zh-cn" href="http://www.uniqlo.com/cn/">china</a></li>
-						<li><a link="" rel="alternate" hreflang="en" href="http://www.uniqlo.com/eu/">eu</a></li>
-						<li><a link="" rel="alternate" hreflang="fr-fr" href="http://www.uniqlo.com/fr/">france</a></li>
-						<li><a link="" rel="alternate" hreflang="de-de" href="http://www.uniqlo.com/de/">germany</a></li>
-						<li><a link="" rel="alternate" hreflang="zh-hk" href="http://www.uniqlo.com/hk/">Hongkong &amp; macau</a></li>
-					</ul>
-					<ul>
-						<li><a link="" rel="alternate" hreflang="id-id" href="http://www.uniqlo.com/id/">indonesia</a></li>
-						<li><a link="" rel="alternate" hreflang="ja-jp" href="http://www.uniqlo.com/jp/">japan</a></li>
-						<li><a link="" rel="alternate" hreflang="ko-kr" href="http://store-kr.uniqlo.com/">korea</a></li>
-						<li><a link="" rel="alternate" hreflang="en-my" href="http://www.uniqlo.com/my/">malaysia</a></li>
-						<li><a link="" rel="alternate" hreflang="en-ph" href="http://www.uniqlo.com/ph/">philippines</a></li>
-						<li><a link="" rel="alternate" hreflang="ru-ru" href="http://www.uniqlo.com/ru/">russia</a></li>
-						<li><a link="" rel="alternate" hreflang="en-sg" href="http://www.uniqlo.com/sg/">singapore</a></li>
-					</ul>
-					<ul>
-                                                <li><a link="" rel="alternate" hreflang="es-es" href="http://www.uniqlo.com/es/">spain</a></li>
-						<li><a link="" rel="alternate" hreflang="zh-tw" href="http://www.uniqlo.com/tw/">taiwan</a></li>
-						<li><a link="" rel="alternate" hreflang="th-th" href="http://www.uniqlo.com/th/">thailand</a></li>
-						<li><a link="" rel="alternate" hreflang="en-gb" href="http://www.uniqlo.com/uk/">uk</a></li>
-						<li><a link="" rel="alternate" hreflang="en-us" href="http://www.uniqlo.com/us/">usa</a></li>
-					</ul>
-				</div>
-			</div>
+    <p>change region</p>
+    <div class="category-list">
+        <ul>
+            <li><a link="" rel="alternate" hreflang="en-au" href="https://www.uniqlo.com/au/">australia</a></li>
+            <li><a link="" rel="alternate" hreflang="en-ca" href="https://www.uniqlo.com/ca/">canada</a></li>
+            <li><a link="" rel="alternate" hreflang="zh-cn" href="https://www.uniqlo.com/cn/">china</a></li>
+            <li><a link="" rel="alternate" hreflang="en" href="https://www.uniqlo.com/eu/">eu</a></li>
+            <li><a link="" rel="alternate" hreflang="fr-fr" href="https://www.uniqlo.com/fr/">france</a></li>
+            <li><a link="" rel="alternate" hreflang="de-de" href="https://www.uniqlo.com/de/">germany</a></li>
+            <li><a link="" rel="alternate" hreflang="zh-hk" href="https://www.uniqlo.com/hk/">Hongkong &amp; macau</a></li>
+        </ul>
+        <ul>
+            <li><a link="" rel="alternate" hreflang="id-id" href="https://www.uniqlo.com/id/">indonesia</a></li>
+            <li><a link="" rel="alternate" hreflang="ja-jp" href="https://www.uniqlo.com/jp/">japan</a></li>
+            <li><a link="" rel="alternate" hreflang="ko-kr" href="https://store-kr.uniqlo.com/">korea</a></li>
+            <li><a link="" rel="alternate" hreflang="en-my" href="https://www.uniqlo.com/my/">malaysia</a></li>
+            <li><a link="" rel="alternate" hreflang="en-ph" href="https://www.uniqlo.com/ph/">philippines</a></li>
+            <li><a link="" rel="alternate" hreflang="ru-ru" href="https://www.uniqlo.com/ru/">russia</a></li>
+            <li><a link="" rel="alternate" hreflang="en-sg" href="https://www.uniqlo.com/sg/">singapore</a></li>
+        </ul>
+        <ul>
+            <li><a link="" rel="alternate" hreflang="es-es" href="https://www.uniqlo.com/es/">spain</a></li>
+            <li><a link="" rel="alternate" hreflang="zh-tw" href="https://www.uniqlo.com/tw/">taiwan</a></li>
+            <li><a link="" rel="alternate" hreflang="th-th" href="https://www.uniqlo.com/th/">thailand</a></li>
+            <li><a link="" rel="alternate" hreflang="en-gb" href="https://www.uniqlo.com/uk/">uk</a></li>
+            <li><a link="" rel="alternate" hreflang="en-us" href="https://www.uniqlo.com/us/">usa</a></li>
+        </ul>
+    </div>
+</div>
 </div> <!-- End content-asset -->
 
 
@@ -3878,7 +4481,7 @@ display:none;
 </div>
 
 </div><!-- /footer -->
-<a href="#" class="back-to-top"><img alt="Back to Top" src="https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/v1528823181872/../images/back-to-top.png"></a>
+<a href="#" class="back-to-top"><img alt="Back to Top" src="https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/v1545944319838/../images/back-to-top.png"></a>
 </div>
 
 
@@ -3899,8 +4502,8 @@ display:none;
 
 (function(){
 window.Constants = {"AVAIL_STATUS_IN_STOCK":"IN_STOCK","AVAIL_STATUS_PREORDER":"PREORDER","AVAIL_STATUS_BACKORDER":"BACKORDER","AVAIL_STATUS_NOT_AVAILABLE":"NOT_AVAILABLE"};
-window.Resources = {"I_AGREE":"I Agree","CLOSE":"Close","NO_THANKS":"No, thanks","OK":"OK","ARE_YOU_HUMAN":"Are you a Human Being?","SHIP_QualifiesFor":"This shipment qualifies for","CC_LOAD_ERROR":"Couldn't load credit card!","REG_ADDR_ERROR":"Could Not Load Address","BONUS_PRODUCT":"Bonus Product","BONUS_PRODUCTS":"Bonus Products","SELECT_BONUS_PRODUCTS":"Select Bonus Products","SELECT_BONUS_PRODUCT":"product.selectbonusproduct","BONUS_PRODUCT_MAX":"The maximum number of bonus products has been selected. Please remove one in order to add additional bonus products.","BONUS_PRODUCT_TOOMANY":"You have selected too many bonus products. Please change the quantity.","SIMPLE_SEARCH":"Search","SUBSCRIBE_EMAIL_DEFAULT":"Email Address","CURRENCY_SYMBOL":"$","MISSINGVAL":"Please enter {0}","SERVER_ERROR":"Server connection failed!","MISSING_LIB":"jQuery is undefined.","BAD_RESPONSE":"Bad response - parser error!","INVALID_PHONE":"Please check phone number and try again.","REMOVE":"Remove","QTY":"QUANTITY","EMPTY_IMG_ALT":"Remove","COMPARE_BUTTON_LABEL":"Compare Items","COMPARE_CONFIRMATION":"This will remove the first product added for comparison. Is that OK?","COMPARE_REMOVE_FAIL":"Unable to remove item from list","COMPARE_ADD_FAIL":"Unable to add item to list","ADD_TO_CART_FAIL":"Unable to add item '{0}' to cart","REGISTRY_SEARCH_ADVANCED_CLOSE":"Close Advanced Search","GIFTCARD_NUMBER_MISSING":"Please enter a valid Gift Card number. ","GIFTCARD_NUMBER_PIN_MISSING":"Invalid Gift Card or Pin number. Please re-enter.","GIFTCARD_PIN_MISSING":"Please enter a valid pin number.","GIFT_CERT_INVALID":"The gift card or pin number you've entered is invalid.","GIFT_CERT_BALANCE":"Your current gift card balance is","GIFT_CERT_AMOUNT_INVALID":"Gift Certificate can only be purchased with a minimum of 5 and maximum of 5000","GIFT_CERT_MISSING":"Please enter a gift certificate code.","INVALID_OWNER":"This appears to be a credit card number. Please enter the name of the card holder.","COUPON_CODE_MISSING":"Please enter a coupon code.","COUPON_CODE_UNKNOWN":"Invalid Promo code - please try again (Promo Codes are case sensitive)","COOKIES_DISABLED":"Your browser is currently not set to accept cookies. Please turn this functionality on or check if you have another program set to block cookies.","BML_AGREE_TO_TERMS":"You must agree to the terms and conditions","CHAR_LIMIT_MSG":"You have {0} characters left out of {1}","CONFIRM_DELETE":"Do you want to remove this {0}?","TITLE_GIFTREGISTRY":"gift registry","TITLE_ADDRESS":"address","TITLE_CREDITCARD":"credit card","SERVER_CONNECTION_ERROR":"Server connection failed!","IN_STOCK_DATE":"The expected in-stock date is {0}.","ITEM_STATUS_NOTAVAILABLE":"Item is no longer available","INIFINITESCROLL":"Show All","STORE_NEAR_YOU":"What's available at a store near you","SELECT_STORE":"Select Store","SELECTED_STORE":"Selected Store","PREFERRED_STORE":"Preferred Store","SET_PREFERRED_STORE":"Set Preferred Store","ENTER_ZIP":"Enter ZIP Code","INVALID_ZIP":"Sorry we coluldn't find your city,state or zip code entry.please check your info and try again","CHECKOUT_INVALID_ZIP":"Please check zipcode and try again.","SEARCH":"Search","CHANGE_LOCATION":"Change Location","CONTINUE_WITH_STORE":"Continue with preferred store","CONTINUE":"Continue","SEE_MORE":"See More Stores","SEE_LESS":"See Fewer Stores","QUICK_VIEW":"Quick View","QUICK_VIEW_POPUP":"Product Quick View","TLS_WARNING":"We value your security!<br/>We detected that you are using an outdated browser.<br/>Update you browser to continue a secure shopping experience.","VALIDATE_REQUIRED":"This field is required.","VALIDATE_REMOTE":"Please fix this field.","VALIDATE_EMAIL":"Please match the requested format.","VALIDATE_URL":"Please enter a valid URL.","VALIDATE_DATE":"Please enter a valid date.","VALIDATE_DATEISO":"Please enter a valid date ( ISO ).","VALIDATE_NUMBER":"Please check the card number and try again.","VALIDATE_CARDTYPE":"Invalid credit card number, please note that only the following payment methods are accepted: Visa, Mastercard, American Express, Discover, JCB & Paypal.","VALIDATE_DIGITS":"Please enter only digits.","VALIDATE_CREDITCARD":"Please enter a valid credit card number.","VALIDATE_EQUALTO":"Please enter the same value again.","VALIDATE_EQUALTOConfirm":"Both email and confirm email must match, please check and try again.","VALIDATE_MAXLENGTH":"Please enter no more than {0} characters.","VALIDATE_MINLENGTH":"Password must be between {0} - 20 characters, and include numbers and letters","VALIDATE_RANGELENGTH":"Please enter a value between {0} and {1} characters long.","VALIDATE_RANGE":"Please enter a value between {0} and {1}.","VALIDATE_MAX":"Please enter a value less than or equal to {0}.","VALIDATE_MIN":"Please enter a value greater than or equal to {0}.","INVALID_CVN":"Enterd character is less than minimum input","VALIDATE_PASSWORD":"Password must be between 8 - 20 characters, and include numbers and letters","VALIDATE_PROVINCE":"province*","VALIDATE_ADDRESS":"We are sorry but one or more of the characters you entered are not allowed","GA_CATEGORY_CART":"gAnalytics.events.cart","GA_ACTION_REMOVEPRODUCT":"gAnalytics.events.removeproduct","GA_ACTION_UPDATEPRODUCT":"gAnalytics.events.updateproduct","GA_ACTION_SEARCH":"gAnalytics.events.search","GA_ACTION_ADDPRODUCTPV":"gAnalytics.events.addproductpv","GA_ACTION_ADDPRODUCTQV":"gAnalytics.events.addproductqv","GA_CATEGORY_MINICART":"gAnalytics.events.minicart","GA_ACTION_MINICART":"gAnalytics.events.minicart.open","GA_ACTION_QUICKVIEW":"gAnalytics.events.quickview.open","GA_CATEGORY_QUICKVIEW":"gAnalytics.events.quickview","GA_ACTION_SIGNIN":"gAnalytics.events.login","GA_CATEGORY_USER":"gAnalytics.events.accessinfo","GA_ACTION_ADDPRODUCT":"gAnalytics.events.addproduct","GA_ACTION_ADDALLPRODUCT":"gAnalytics.events.addalltocart","GA_ACTION_ADDALLPRODUCTQV":"gAnalytics.events.addalltocartqv","GA_ACTION_ADDALLPRODUCTPV":"gAnalytics.events.addalltocartpv","GA_CATEGORY_NAVIGATION":"gAnalytics.events.navigation","GA_ACTION_CATEGORY":"gAnalytics.events.category","GA_ACTION_LOGOUT":"gAnalytics.events.logout","GA_CATEGORY_PROMOTION":"gAnalytics.events.promotion","GA_ACTION_REMOVEPROMOTION":"gAnalytics.events.removepromotion","GA_CATEGORY_PDPVIEW":"gAnalytics.events.pdpview","GA_ACTION_PDPVIEW":"gAnalytics.events.quickview","SIGNUPFAIL":"Email Subscribtion failed.","SIGNUPSUCCESS":"Email Subscribed.","SIGNUPINVALID":"Inavalid email.","EMAILSUCCESS":"Success!","EMAILNOTIFICATIONSUCCESS":"We will email you when this item is back in stock.","EMAILNOTIFICATIONFAIL":"Please fill out this field.Your email address entries do not match.","EMAILNOTIFICATIONFAILID":"Please include an '@' in the email address. ","EMAILNOTIFICATIONFAILIDD":"Please match the requested format.Your email address entries do not match.","EMAILNOTIFICATIONFAILWARN":"is missing an '@'.Your email address entries do not match. ","FORGOT_PASSWORD":"global.forgotpassword","STORE_INSTOCK":"available","STORE_LOWSTOCK":"low stock","STORE_NOT_AVAILABLE":"not available","STORE_OUTOFSTOCK":"unavailable in these stores","STORE_INSTOCK_MSG":"store within 50 miles of","STORE_INSTOCK_MSGS":"stores within 50 miles of","STORE_NO_RESULTS":"Sorry this product is not available in a store near you.","INVALID_POSTAL":"Sorry, we don't understand your city, state or ZIP code entry. Please check your info and try again.","INVALID_PDPPOSTAL":"Please enter a valid ZIP code.","INSTOCK_OVERLAY":"Availability at store is not guaranteed. Inventory status refreshed hourly.","OUTOFSTOCK_OVERLAY":"Ship to FREE for when you select 'in Store Pick Up' at checkout (selected stores only)","AVAILABILITY_CHANGE":"Please note availability may change","FIND_STORE":"Find Store","STORES_EMPTY":"There are no stores within 50 miles of this location","ZIP_ERROR":"Sorry, no results.","AVAILABLE_STORE_IN":"Available in","NOTIFICATION_EMPTY":"Please enter an email address.","NOTIFICATION_COMMON":"Your email address entries do not match.","NOTIFICATION_SYMBOL":"is missing an '@'.","NOTIFICATION_FORMAT":"Please check your email address and try again.","PURCHASE_LIMIT":"Sorry, limit of","PURCHASE_LIMIT_LAST":"per customer","EMAIL_SUCCESS":"Thank you for signing up for Uniqlo emails. We are excited to keep in touch!","EMAIL_SUBSCRIBED":"Sorry, this email is already subscribed","CARTLIMIT_MSG":"Sorry, limit of 99 items per order.","STORE_MORE":"More","STORE_LESS":"Less","NOTIFICATION_FAIL":"Please fill out this field.","NotificationID":"Please include an '@' in the email address.","NOTIFICATION_WARN":"is missing an '@'.Please match the requested format.","NOTIFICATION_FAILID":"Please match the requested format.","NUMBERS_ONLY":"Numbers only","SELECT":"Select","CONFIRM_PASSWORD":"Both password and confirm password must match, please check and try again.","CONFIRM_EMAIL":"Both email and confirm email must match, please check and try again.","ZIP_CODE":"Zip Code*","POSTAL_CODE":"Postal Code","SIZE_CHART":"Size Chart","INVALID_CVN_NO":"Please check your cvv number and try again","ALPHABET_VALIDATION":"Invalid Characters","RESOURCE_SELECT":"STATE*","OOS_BONUSITEM":"Sorry, this option is out of stock","GIFT_CARD_CONTENT":"FIND YOUR PIN","IN_STOCK":"In Stock","QTY_IN_STOCK":"{0} Item(s) in Stock","PREORDER":"Pre-Order","QTY_PREORDER":"{0} item(s) are available for pre-order.","REMAIN_PREORDER":"The remaining items are available for pre-order.","BACKORDER":"Back Order","QTY_BACKORDER":"Back order {0} item(s)","REMAIN_BACKORDER":"The remaining items are available on back order.","NOT_AVAILABLE":"Item is no longer available","REMAIN_NOT_AVAILABLE":"The remaining items are currently not available. Please adjust the quantity."};
-window.Urls = {"appResources":"/on/demandware.store/Sites-UniqloUS-Site/default/Resources-Load","pageInclude":"/on/demandware.store/Sites-UniqloUS-Site/default/Page-Include","continueUrl":"https://www.uniqlo.com/us/en/search-results/","staticPath":"https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/v1528823181872/","addGiftCert":"/us/en/buy-gift-certificate/","minicartGC":"/on/demandware.store/Sites-UniqloUS-Site/default/GiftCert-ShowMiniCart","addProduct":"/on/demandware.store/Sites-UniqloUS-Site/default/Cart-AddProduct","minicart":"/on/demandware.store/Sites-UniqloUS-Site/default/Cart-MiniAddProduct","cartShow":"/us/en/cart/","giftRegAdd":"https://www.uniqlo.com/on/demandware.store/Sites-UniqloUS-Site/default/Address-GetAddressDetails?addressID=","paymentsList":"https://www.uniqlo.com/us/en/wallet/","addressesList":"https://www.uniqlo.com/us/en/addressbook/","wishlistAddress":"https://www.uniqlo.com/on/demandware.store/Sites-UniqloUS-Site/default/Wishlist-SetShippingAddress","wishlistShow":"https://www.uniqlo.com/us/en/wishlist/","deleteAddress":"/on/demandware.store/Sites-UniqloUS-Site/default/Address-Delete","getProductUrl":"/on/demandware.store/Sites-UniqloUS-Site/default/Product-Show","getBonusProducts":"/on/demandware.store/Sites-UniqloUS-Site/default/Product-GetBonusProducts","addBonusProduct":"/on/demandware.store/Sites-UniqloUS-Site/default/Cart-AddBonusProduct","getSetItem":"/on/demandware.store/Sites-UniqloUS-Site/default/Product-GetSetItem","productDetail":"/on/demandware.store/Sites-UniqloUS-Site/default/Product-Detail","getAvailability":"/on/demandware.store/Sites-UniqloUS-Site/default/Product-GetAvailability","removeImg":"https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/dwc8e53f09/images/icon_remove.gif","searchsuggest":"/on/demandware.store/Sites-UniqloUS-Site/default/Search-GetSuggestions","productNav":"/on/demandware.store/Sites-UniqloUS-Site/default/Product-Productnav","summaryRefreshURL":"/on/demandware.store/Sites-UniqloUS-Site/default/COBilling-UpdateSummary","billingSelectCC":"https://www.uniqlo.com/on/demandware.store/Sites-UniqloUS-Site/default/COBilling-SelectCreditCard","updateAddressDetails":"https://www.uniqlo.com/on/demandware.store/Sites-UniqloUS-Site/default/COShipping-UpdateAddressDetails","updateAddressDetailsBilling":"https://www.uniqlo.com/on/demandware.store/Sites-UniqloUS-Site/default/COBilling-UpdateAddressDetails","shippingMethodsJSON":"https://www.uniqlo.com/on/demandware.store/Sites-UniqloUS-Site/default/COShipping-GetApplicableShippingMethodsJSON","shippingMethodsList":"https://www.uniqlo.com/on/demandware.store/Sites-UniqloUS-Site/default/COShipping-UpdateShippingMethodList","selectShippingMethodsList":"https://www.uniqlo.com/on/demandware.store/Sites-UniqloUS-Site/default/COShipping-SelectShippingMethod","resetPaymentForms":"/on/demandware.store/Sites-UniqloUS-Site/default/COBilling-ResetPaymentForms","compareShow":"/us/en/compare/","compareAdd":"/on/demandware.store/Sites-UniqloUS-Site/default/Compare-AddProduct","compareRemove":"/on/demandware.store/Sites-UniqloUS-Site/default/Compare-RemoveProduct","compareEmptyImage":"https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/dw4f8f8347/images/comparewidgetempty.png","giftCardCheckBalance":"https://www.uniqlo.com/on/demandware.store/Sites-UniqloUS-Site/default/COBilling-GetGiftCertificateBalance","redeemGiftCert":"https://www.uniqlo.com/on/demandware.store/Sites-UniqloUS-Site/default/COBilling-RedeemGiftCertificateJson","applyGiftCard":"https://www.uniqlo.com/on/demandware.store/Sites-UniqloUS-Site/default/COBilling-ApplyGiftCard","addCoupon":"https://www.uniqlo.com/on/demandware.store/Sites-UniqloUS-Site/default/Cart-AddCouponJson","storesInventory":"/on/demandware.store/Sites-UniqloUS-Site/default/StoreInventory-Inventory","storeDetails":"/us/en/stores-details/","setPreferredStore":"/on/demandware.store/Sites-UniqloUS-Site/default/StoreInventory-SetPreferredStore","getPreferredStore":"/on/demandware.store/Sites-UniqloUS-Site/default/StoreInventory-GetPreferredStore","setStorePickup":"/on/demandware.store/Sites-UniqloUS-Site/default/StoreInventory-SetStore","setStoreForBasket":"/on/demandware.store/Sites-UniqloUS-Site/default/StoreInventory-SetStoreForBasket","setZipCode":"/on/demandware.store/Sites-UniqloUS-Site/default/StoreInventory-SetZipCode","getZipCode":"/on/demandware.store/Sites-UniqloUS-Site/default/StoreInventory-GetZipCode","billing":"/us/en/billing/","summary":"/us/en/review-order/","setSessionCurrency":"/on/demandware.store/Sites-UniqloUS-Site/default/Currency-SetSessionCurrency","addEditAddress":"/on/demandware.store/Sites-UniqloUS-Site/default/COShippingMultiple-AddEditAddressJSON","cookieHint":"/on/demandware.store/Sites-UniqloUS-Site/default/Page-Include?cid=cookie_hint","rateLimiterReset":"/on/demandware.store/Sites-UniqloUS-Site/default/RateLimiter-HideCaptcha","getProductLineCount":"/on/demandware.store/Sites-UniqloUS-Site/default/Cart-GetProductLineItemCount","getProductPurchaseLimiCount":"/on/demandware.store/Sites-UniqloUS-Site/default/Cart-GetProductPurchaseLimiCount","addDonationProduct":"/on/demandware.store/Sites-UniqloUS-Site/default/Product-AddDonationProduct","removeDonationProduct":"/on/demandware.store/Sites-UniqloUS-Site/default/Product-RemoveDonationProduct","customerInfo":"/on/demandware.store/Sites-UniqloUS-Site/default/Home-IncludeHeaderCustomerInfo","emailNotification":"/on/demandware.store/Sites-UniqloUS-Site/default/BISNSave-Bisn","multiShippingSelectSM":"https://www.uniqlo.com/on/demandware.store/Sites-UniqloUS-Site/default/COShippingMultiple-SelectShippingMethod","ioProduct":"http://www.uniqlo.com/on/demandware.store/Sites-UniqloUS-Site/default/IO-Product","ioCart":"https://www.uniqlo.com/on/demandware.store/Sites-UniqloUS-Site/default/IO-Cart","getGtmData":"/on/demandware.store/Sites-UniqloUS-Site/default/GTMTagManager-Start","emailSignUp":"/on/demandware.store/Sites-UniqloUS-Site/default/ENews-SubscribeAjax","niceselectplugin":"https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/v1528823181872/lib/jquery/jquery.nice-select.js","giftBoxProduct":"/on/demandware.store/Sites-UniqloUS-Site/default/Cart-GiftboxProduct","removeGiftWrap":"/on/demandware.store/Sites-UniqloUS-Site/default/Cart-RemoveGiftWrap"};
+window.Resources = {"I_AGREE":"I Agree","CLOSE":"Close","NO_THANKS":"No, thanks","OK":"OK","ARE_YOU_HUMAN":"Are you a Human Being?","SHIP_QualifiesFor":"This shipment qualifies for","CC_LOAD_ERROR":"Couldn't load credit card!","REG_ADDR_ERROR":"Could Not Load Address","BONUS_PRODUCT":"Bonus Product","BONUS_PRODUCTS":"Bonus Products","SELECT_BONUS_PRODUCTS":"Select Bonus Products","SELECT_BONUS_PRODUCT":"product.selectbonusproduct","BONUS_PRODUCT_MAX":"The maximum number of bonus products has been selected. Please remove one in order to add additional bonus products.","BONUS_PRODUCT_TOOMANY":"You have selected too many bonus products. Please change the quantity.","SIMPLE_SEARCH":"Search","SUBSCRIBE_EMAIL_DEFAULT":"Email Address","CURRENCY_SYMBOL":"$","MISSINGVAL":"Please enter {0}","SERVER_ERROR":"Server connection failed!","MISSING_LIB":"jQuery is undefined.","BAD_RESPONSE":"Bad response - parser error!","INVALID_PHONE":"Please check phone number and try again.","REMOVE":"Remove","QTY":"QUANTITY","EMPTY_IMG_ALT":"Remove","COMPARE_BUTTON_LABEL":"Compare Items","COMPARE_CONFIRMATION":"This will remove the first product added for comparison. Is that OK?","COMPARE_REMOVE_FAIL":"Unable to remove item from list","COMPARE_ADD_FAIL":"Unable to add item to list","ADD_TO_CART_FAIL":"Unable to add item '{0}' to cart","REGISTRY_SEARCH_ADVANCED_CLOSE":"Close Advanced Search","GIFTCARD_NUMBER_MISSING":"Please enter a valid Gift Card number. ","GIFTCARD_NUMBER_PIN_MISSING":"Invalid Gift Card or Pin number. Please re-enter.","GIFTCARD_PIN_MISSING":"Please enter a valid pin number.","GIFT_CERT_INVALID":"The gift card or pin number you've entered is invalid.","GIFT_CERT_BALANCE":"Your current gift card balance is","GIFT_CERT_AMOUNT_INVALID":"Gift Certificate can only be purchased with a minimum of 5 and maximum of 5000","GIFT_CERT_MISSING":"Please enter a gift certificate code.","INVALID_OWNER":"This appears to be a credit card number. Please enter the name of the card holder.","COUPON_CODE_MISSING":"Please enter a coupon code.","COUPON_CODE_UNKNOWN":"Invalid Promo code - please try again (Promo Codes are case sensitive).","COOKIES_DISABLED":"Your browser is currently not set to accept cookies. Please turn this functionality on or check if you have another program set to block cookies.","BML_AGREE_TO_TERMS":"You must agree to the terms and conditions","CHAR_LIMIT_MSG":"You have {0} characters left out of {1}","CONFIRM_DELETE":"Do you want to remove this {0}?","TITLE_GIFTREGISTRY":"gift registry","TITLE_ADDRESS":"address","TITLE_CREDITCARD":"credit card","SERVER_CONNECTION_ERROR":"Server connection failed!","IN_STOCK_DATE":"The expected in-stock date is {0}.","PREORDER_DATE":"This preorder item <b>ships in {0}</b>.","ITEM_STATUS_NOTAVAILABLE":"Item is no longer available","TERS_AND_CONDITIONS":"See terms & conditions.","INIFINITESCROLL":"Show All","STORE_NEAR_YOU":"What's available at a store near you","SELECT_STORE":"Select Store","SELECTED_STORE":"Selected Store","PREFERRED_STORE":"Preferred Store","SET_PREFERRED_STORE":"Set Preferred Store","ENTER_ZIP":"Enter ZIP Code","INVALID_ZIP":"Sorry we coluldn't find your city,state or zip code entry.please check your info and try again","CHECKOUT_INVALID_ZIP":"Please check zipcode and try again.","SEARCH":"Search","CHANGE_LOCATION":"Change Location","CONTINUE_WITH_STORE":"Continue with preferred store","CONTINUE":"Continue","SEE_MORE":"See More Stores","SEE_LESS":"See Fewer Stores","QUICK_VIEW":"Quick View","QUICK_VIEW_POPUP":"Product Quick View","TLS_WARNING":"We value your security!<br/>We detected that you are using an outdated browser.<br/>Update you browser to continue a secure shopping experience.","VALIDATE_REQUIRED":"This field is required.","VALIDATE_REMOTE":"Please fix this field.","VALIDATE_EMAIL":"Please match the requested format.","VALIDATE_URL":"Please enter a valid URL.","VALIDATE_DATE":"Please enter a valid date.","VALIDATE_DATEISO":"Please enter a valid date ( ISO ).","VALIDATE_NUMBER":"Please check the card number and try again.","VALIDATE_CARDTYPE":"Invalid credit card number, please note that only the following payment methods are accepted: Visa, Mastercard, American Express, Discover, JCB & Paypal.","VALIDATE_DIGITS":"Please enter only digits.","VALIDATE_CREDITCARD":"Please enter a valid credit card number.","VALIDATE_EQUALTO":"Please enter the same value again.","VALIDATE_EQUALTOConfirm":"Both email and confirm email must match, please check and try again.","VALIDATE_MAXLENGTH":"Please enter no more than {0} characters.","VALIDATE_MINLENGTH":"Password must be between {0} - 20 characters, and include numbers and letters.","VALIDATE_RANGELENGTH":"Please enter a value between {0} and {1} characters long.","VALIDATE_RANGE":"Please enter a value between {0} and {1}.","VALIDATE_MAX":"Please enter a value less than or equal to {0}.","VALIDATE_MIN":"Please enter a value greater than or equal to {0}.","INVALID_CVN":"Enterd character is less than minimum input","VALIDATE_PASSWORD":"Password must be between 8 - 20 characters, and include numbers and letters.","VALIDATE_PROVINCE":"province*","VALIDATE_ADDRESS":"We are sorry but one or more of the characters you entered are not allowed","GA_CATEGORY_CART":"gAnalytics.events.cart","GA_ACTION_REMOVEPRODUCT":"gAnalytics.events.removeproduct","GA_ACTION_UPDATEPRODUCT":"gAnalytics.events.updateproduct","GA_ACTION_SEARCH":"gAnalytics.events.search","GA_ACTION_ADDPRODUCTPV":"gAnalytics.events.addproductpv","GA_ACTION_ADDPRODUCTQV":"gAnalytics.events.addproductqv","GA_CATEGORY_MINICART":"gAnalytics.events.minicart","GA_ACTION_MINICART":"gAnalytics.events.minicart.open","GA_ACTION_QUICKVIEW":"gAnalytics.events.quickview.open","GA_CATEGORY_QUICKVIEW":"gAnalytics.events.quickview","GA_ACTION_SIGNIN":"gAnalytics.events.login","GA_CATEGORY_USER":"gAnalytics.events.accessinfo","GA_ACTION_ADDPRODUCT":"gAnalytics.events.addproduct","GA_ACTION_ADDALLPRODUCT":"gAnalytics.events.addalltocart","GA_ACTION_ADDALLPRODUCTQV":"gAnalytics.events.addalltocartqv","GA_ACTION_ADDALLPRODUCTPV":"gAnalytics.events.addalltocartpv","GA_CATEGORY_NAVIGATION":"gAnalytics.events.navigation","GA_ACTION_CATEGORY":"gAnalytics.events.category","GA_ACTION_LOGOUT":"gAnalytics.events.logout","GA_CATEGORY_PROMOTION":"gAnalytics.events.promotion","GA_ACTION_REMOVEPROMOTION":"gAnalytics.events.removepromotion","GA_CATEGORY_PDPVIEW":"gAnalytics.events.pdpview","GA_ACTION_PDPVIEW":"gAnalytics.events.quickview","SIGNUPFAIL":"Email Subscribtion failed.","SIGNUPSUCCESS":"Email Subscribed.","SIGNUPINVALID":"Inavalid email.","EMAILSUCCESS":"Success!","EMAILNOTIFICATIONSUCCESS":"We will email you when this item is back in stock.","EMAILNOTIFICATIONFAIL":"Please fill out this field.Your email address entries do not match.","EMAILNOTIFICATIONFAILID":"Please include an '@' in the email address. ","EMAILNOTIFICATIONFAILIDD":"Please match the requested format.Your email address entries do not match.","EMAILNOTIFICATIONFAILWARN":"is missing an '@'.Your email address entries do not match. ","FORGOT_PASSWORD":"global.forgotpassword","STORE_INSTOCK":"available","STORE_LOWSTOCK":"low stock","STORE_NOT_AVAILABLE":"not available","STORE_OUTOFSTOCK":"unavailable in these stores","STORE_INSTOCK_MSG":"store within 50 miles of","STORE_INSTOCK_MSGS":"stores within 50 miles of","STORE_NO_RESULTS":"Sorry this product is not available in a store near you.","INVALID_POSTAL":"Sorry, we don't understand your city, state or ZIP code entry. Please check your info and try again.","INVALID_PDPPOSTAL":"Please enter a valid ZIP code.","INSTOCK_OVERLAY":"Availability at store is not guaranteed. Inventory status refreshed hourly.","OUTOFSTOCK_OVERLAY":"Ship to FREE for when you select 'in Store Pick Up' at checkout (selected stores only)","AVAILABILITY_CHANGE":"Please note availability may change","FIND_STORE":"Find Store","STORES_EMPTY":"There are no stores within 50 miles of this location.","ZIP_ERROR":"Sorry, no results.","ZIPCODE_ERROR":"Please enter a valid 5-digit zip code","AVAILABLE_STORE_IN":"Available in","NOTIFICATION_EMPTY":"Please enter an email address.","NOTIFICATION_COMMON":"Your email address entries do not match.","NOTIFICATION_SYMBOL":"is missing an '@'.","NOTIFICATION_FORMAT":"Please check your email address and try again.","PURCHASE_LIMIT":"Sorry, limit of","PURCHASE_LIMIT_LAST":"per customer","EMAIL_SUCCESS":"Thank you for signing up for Uniqlo emails. We are excited to keep in touch!","EMAIL_SUBSCRIBED":"Sorry, this email is already subscribed","CARTLIMIT_MSG":"Sorry, limit of 98 items per order.","STORE_MORE":"More","STORE_LESS":"Less","NOTIFICATION_FAIL":"Please fill out this field.","NotificationID":"Please include an '@' in the email address.","NOTIFICATION_WARN":"is missing an '@'.Please match the requested format.","NOTIFICATION_FAILID":"Please match the requested format.","NUMBERS_ONLY":"Numbers only","SELECT":"Select","CONFIRM_PASSWORD":"Both password and confirm password must match, please check and try again.","CONFIRM_EMAIL":"Both email and confirm email must match, please check and try again.","ZIP_CODE":"Zip Code*","POSTAL_CODE":"Postal Code","SIZE_CHART":"Size Chart","INVALID_CVN_NO":"The CVV number is not valid.","ALPHABET_VALIDATION":"Invalid Characters.","RESOURCE_SELECT":"STATE*","OOS_BONUSITEM":"Sorry, this option is out of stock","GIFT_CARD_CONTENT":"FIND YOUR PIN","NO_STORES_MSG":"Apologies, there are no pickup locations within a 10 mile radius of this zip code.","OUT_OF_STOCK":"- OUT OF STOCK -","IN_STOCK":"In Stock","QTY_IN_STOCK":"{0} Item(s) in Stock","PREORDER":"Pre-Order","QTY_PREORDER":"{0} item(s) are available for pre-order.","REMAIN_PREORDER":"The remaining items are available for pre-order.","BACKORDER":"Back Order","QTY_BACKORDER":"Back order {0} item(s)","REMAIN_BACKORDER":"The remaining items are available on back order.","NOT_AVAILABLE":"Item is no longer available","REMAIN_NOT_AVAILABLE":"The remaining items are currently not available. Please adjust the quantity."};
+window.Urls = {"appResources":"/on/demandware.store/Sites-UniqloUS-Site/default/Resources-Load","pageInclude":"/on/demandware.store/Sites-UniqloUS-Site/default/Page-Include","continueUrl":"https://www.uniqlo.com/us/en/search-results/","staticPath":"https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/v1545944319838/","addGiftCert":"/us/en/buy-gift-certificate/","minicartGC":"/on/demandware.store/Sites-UniqloUS-Site/default/GiftCert-ShowMiniCart","addProduct":"/on/demandware.store/Sites-UniqloUS-Site/default/Cart-AddProduct","minicart":"/on/demandware.store/Sites-UniqloUS-Site/default/Cart-MiniAddProduct","cartShow":"/us/en/cart/","giftRegAdd":"https://www.uniqlo.com/on/demandware.store/Sites-UniqloUS-Site/default/Address-GetAddressDetails?addressID=","paymentsList":"https://www.uniqlo.com/us/en/wallet/","addressesList":"https://www.uniqlo.com/us/en/addressbook/","wishlistAddress":"https://www.uniqlo.com/on/demandware.store/Sites-UniqloUS-Site/default/Wishlist-SetShippingAddress","wishlistShow":"https://www.uniqlo.com/us/en/wishlist/","deleteAddress":"/on/demandware.store/Sites-UniqloUS-Site/default/Address-Delete","getProductUrl":"/on/demandware.store/Sites-UniqloUS-Site/default/Product-Show","getBonusProducts":"/on/demandware.store/Sites-UniqloUS-Site/default/Product-GetBonusProducts","addBonusProduct":"/on/demandware.store/Sites-UniqloUS-Site/default/Cart-AddBonusProduct","getSetItem":"/on/demandware.store/Sites-UniqloUS-Site/default/Product-GetSetItem","productDetail":"/on/demandware.store/Sites-UniqloUS-Site/default/Product-Detail","getAvailability":"/on/demandware.store/Sites-UniqloUS-Site/default/Product-GetAvailability","removeImg":"https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/dwc8e53f09/images/icon_remove.gif","searchsuggest":"/on/demandware.store/Sites-UniqloUS-Site/default/Search-GetSuggestions","productNav":"/on/demandware.store/Sites-UniqloUS-Site/default/Product-Productnav","summaryRefreshURL":"/on/demandware.store/Sites-UniqloUS-Site/default/COBilling-UpdateSummary","billingSelectCC":"https://www.uniqlo.com/on/demandware.store/Sites-UniqloUS-Site/default/COBilling-SelectCreditCard","updateAddressDetails":"https://www.uniqlo.com/on/demandware.store/Sites-UniqloUS-Site/default/COShipping-UpdateAddressDetails","updateAddressDetailsBilling":"https://www.uniqlo.com/on/demandware.store/Sites-UniqloUS-Site/default/COBilling-UpdateAddressDetails","shippingMethodsJSON":"https://www.uniqlo.com/on/demandware.store/Sites-UniqloUS-Site/default/COShipping-GetApplicableShippingMethodsJSON","shippingMethodsList":"https://www.uniqlo.com/on/demandware.store/Sites-UniqloUS-Site/default/COShipping-UpdateShippingMethodList","selectShippingMethodsList":"https://www.uniqlo.com/on/demandware.store/Sites-UniqloUS-Site/default/COShipping-SelectShippingMethod","resetPaymentForms":"/on/demandware.store/Sites-UniqloUS-Site/default/COBilling-ResetPaymentForms","compareShow":"/us/en/compare/","compareAdd":"/on/demandware.store/Sites-UniqloUS-Site/default/Compare-AddProduct","compareRemove":"/on/demandware.store/Sites-UniqloUS-Site/default/Compare-RemoveProduct","compareEmptyImage":"https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/dw4f8f8347/images/comparewidgetempty.png","giftCardCheckBalance":"https://www.uniqlo.com/on/demandware.store/Sites-UniqloUS-Site/default/COBilling-GetGiftCertificateBalance","redeemGiftCert":"https://www.uniqlo.com/on/demandware.store/Sites-UniqloUS-Site/default/COBilling-RedeemGiftCertificateJson","applyGiftCard":"https://www.uniqlo.com/on/demandware.store/Sites-UniqloUS-Site/default/COBilling-ApplyGiftCard","addCoupon":"https://www.uniqlo.com/on/demandware.store/Sites-UniqloUS-Site/default/Cart-AddCouponJson","storesInventory":"/on/demandware.store/Sites-UniqloUS-Site/default/StoreInventory-Inventory","storeDetails":"/us/en/stores-details/","setPreferredStore":"/on/demandware.store/Sites-UniqloUS-Site/default/StoreInventory-SetPreferredStore","getPreferredStore":"/on/demandware.store/Sites-UniqloUS-Site/default/StoreInventory-GetPreferredStore","setStorePickup":"/on/demandware.store/Sites-UniqloUS-Site/default/StoreInventory-SetStore","setStoreForBasket":"/on/demandware.store/Sites-UniqloUS-Site/default/StoreInventory-SetStoreForBasket","setZipCode":"/on/demandware.store/Sites-UniqloUS-Site/default/StoreInventory-SetZipCode","getZipCode":"/on/demandware.store/Sites-UniqloUS-Site/default/StoreInventory-GetZipCode","billing":"/us/en/Billing/","summary":"/us/en/review-order/","setSessionCurrency":"/on/demandware.store/Sites-UniqloUS-Site/default/Currency-SetSessionCurrency","addEditAddress":"/on/demandware.store/Sites-UniqloUS-Site/default/COShippingMultiple-AddEditAddressJSON","cookieHint":"/on/demandware.store/Sites-UniqloUS-Site/default/Page-Include?cid=cookie_hint","rateLimiterReset":"/on/demandware.store/Sites-UniqloUS-Site/default/RateLimiter-HideCaptcha","getProductLineCount":"/on/demandware.store/Sites-UniqloUS-Site/default/Cart-GetProductLineItemCount","getProductPurchaseLimiCount":"/on/demandware.store/Sites-UniqloUS-Site/default/Cart-GetProductPurchaseLimiCount","addDonationProduct":"/on/demandware.store/Sites-UniqloUS-Site/default/Product-AddDonationProduct","removeDonationProduct":"/on/demandware.store/Sites-UniqloUS-Site/default/Product-RemoveDonationProduct","termsAndConditions":"/us/en/help/terms-conditions","customerInfo":"/on/demandware.store/Sites-UniqloUS-Site/default/Home-IncludeHeaderCustomerInfo","emailNotification":"/on/demandware.store/Sites-UniqloUS-Site/default/BISNSave-Bisn","multiShippingSelectSM":"https://www.uniqlo.com/on/demandware.store/Sites-UniqloUS-Site/default/COShippingMultiple-SelectShippingMethod","ioProduct":"http://www.uniqlo.com/on/demandware.store/Sites-UniqloUS-Site/default/IO-Product","ioCart":"https://www.uniqlo.com/on/demandware.store/Sites-UniqloUS-Site/default/IO-Cart","getGtmData":"/on/demandware.store/Sites-UniqloUS-Site/default/GTMTagManager-Start","emailSignUp":"/on/demandware.store/Sites-UniqloUS-Site/default/ENews-SubscribeAjax","niceselectplugin":"https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/v1545944319838/lib/jquery/jquery.nice-select.js","giftBoxProduct":"/on/demandware.store/Sites-UniqloUS-Site/default/Cart-GiftboxProduct","removeGiftWrap":"/on/demandware.store/Sites-UniqloUS-Site/default/Cart-RemoveGiftWrap"};
 window.SitePreferences = {"LISTING_INFINITE_SCROLL":true,"isGTM":true,"isPOPUP":false,"LISTING_REFINE_SORT":true,"STORE_PICKUP":true,"COOKIE_HINT":false,"CHECK_TLS":false,"Product_360_Image":null,"TOKENIZATION_ENABLED":true,"ISQUICKVIEWDISABLE":null};
 window.IsBISNEnabled = "true";
 }());
@@ -3914,8 +4517,11 @@ window.User = {"zip":null,"storeId":null};
 </script>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<script type="text/javascript" src="https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/v1528823181872/js/allinone.js"></script>
-<script type="text/javascript" src="//maps.googleapis.com/maps/api/js?sensor=false"></script>
+<script type="text/javascript" src="https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/v1545944319838/js/allinone.js"></script>
+
+
+<script type="text/javascript" src="//maps.googleapis.com/maps/api/js?key=AIzaSyDS_HR30W0u0eN1ac8yZ18L-W4OgGoXv5E"></script>
+
 <script type="text/javascript" src="//cdn.rawgit.com/googlemaps/v3-utility-library/master/markerwithlabel/src/markerwithlabel.js"></script>
 
 <script>pageContext = {"title":"Privacy Policy","type":"content","category":"privacy-security","ns":"storelocator"};</script>
@@ -3923,10 +4529,6 @@ window.User = {"zip":null,"storeId":null};
 var meta = "Privacy Policy";
 var keywords = "";
 </script>
-
-
-
-
 
 
 
@@ -3988,7 +4590,7 @@ processed++;
 </script>
 
 
-<script src="https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/v1528823181872/certona/js/resxclsa.js" type="text/javascript"></script>
+<script src="https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/v1545944319838/certona/js/resxclsa.js" type="text/javascript"></script>
 
 <script type="text/javascript">
 resx = undefined;
@@ -4015,9 +4617,9 @@ function trackPage() {
 /* ]]> */
 // -->
 </script>
-<script type="text/javascript" src="https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/v1528823181872/internal/jscript/dwanalytics-18.3.js" async="async" onload="trackPage()"></script>
+<script type="text/javascript" src="https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/v1545944319838/internal/jscript/dwanalytics-18.3.js" async="async" onload="trackPage()"></script>
 <!-- Demandware Active Data (body_end-active_data.js) -->
-<script src="https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/v1528823181872/internal/jscript/dwac-16.9.js" type="text/javascript" async="async"></script><!-- CQuotient Activity Tracking (body_end-cquotient.js) -->
+<script src="https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/v1545944319838/internal/jscript/dwac-18.10.js" type="text/javascript" async="async"></script><!-- CQuotient Activity Tracking (body_end-cquotient.js) -->
 <script src="https://cdn.cquotient.com/js/v2/gretel.min.js" type="text/javascript" async="async"></script>
 <!-- Demandware Apple Pay -->
 <script type="text/javascript">//<!--
@@ -4027,7 +4629,7 @@ dw.applepay = {"action":{"cancel":"https:\/\/www.uniqlo.com\/on\/demandware.stor
 /* ]]> */
 // -->
 </script>
-<script type="text/javascript" src="https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/v1528823181872/internal/jscript/applepay.js" async="true"></script>
+<script type="text/javascript" src="https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/v1545944319838/internal/jscript/applepay.js" async="true"></script>
 
 
 </body></html>
