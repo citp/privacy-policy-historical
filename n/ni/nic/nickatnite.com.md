@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nickatnite.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616055928id_/http%3A//www.nick.com/legal/nickelodeon-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nickatnite.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227160835id_/http%3A//www.nick.com/legal/nickelodeon-privacy-policy) for the most accurate reproduction.*
 
-# None
+# THE NICKELODEON GROUP PRIVACY POLICY AND YOUR CALIFORNIA PRIVACY RIGHTS | Nick
 
 ## LAST UPDATED: 6/21/2017
 
@@ -101,7 +101,7 @@ We may use Tracking Technologies to help tailor our content, allow users to move
 
 By visiting a Site, whether as a registered user or otherwise, you acknowledge, understand and hereby agree that you are giving us your consent to set and access Cookies on your device and track your activities and your use of a Site through these Tracking Technologies and Identifiers and that we may use Tracking Technologies in the emails we send to you.
 
-The Nickelodeon Sites adhere to the Self-Regulatory Principles for Online Behavioral Advertising. Click [here](http://srp.mtvn.com/sitefaq.html) for more information about the Nickelodeon Sites and online behavioral advertising. Nickelodeon does not behaviorally target advertising to children under 13 on sites that are directed to children or where Nickelodeon has actual knowledge that a user is under 13.
+The Nickelodeon Sites adhere to the Self-Regulatory Principles for Online Behavioral Advertising. Click [here](https://web.archive.org/web/20181227160837id_/https://www.nick.com/legal/wwd7m0/privacy-policy) for more information about the Nickelodeon Sites and online behavioral advertising. Nickelodeon does not behaviorally target advertising to children under 13 on sites that are directed to children or where Nickelodeon has actual knowledge that a user is under 13.
 
 Our Third Party Advertising Service Providers (as defined in Section D) do not have access to Tracking Technologies set by the Nickelodeon Sites except to the extent necessary to provide services to the Site. The Third Party Advertising Service Providers, as well as advertisers, may themselves set and access their own Tracking Technologies on your Device if you choose to have Tracking Technologies enabled in your browser (or, for Flash cookies, if you have not removed them) and/or they may otherwise have access to other information about you.
 
@@ -109,18 +109,18 @@ You have a number of options with respect to the Tracking Technologies set by th
 
   * You can prevent the use of certain Tracking Technologies (other than Flash cookies) by using the controls in your Web browser. To do so, you must complete both of the steps following your browser type below:
 
-    * Internet Explorer
-      1. _Delete existing Tracking Technologies_ through the "Internet Options" sub-option of the "Tools" menu option of your browser or otherwise as directed by your browser's support feature; and
+  *     * Internet Explorer
+    *       1. _Delete existing Tracking Technologies_ through the "Internet Options" sub-option of the "Tools" menu option of your browser or otherwise as directed by your browser's support feature; and
 
       2. _Disable future Tracking Technologies_ by using the same browser controls. Additional information on disabling most Tracking Technologies may be available through your browser's support feature. (See the "help" section of your browser for more information.)
 
-    * Google Chrome
-      1. _Delete existing Tracking Technologies_ through the "Clear Browsing Data..." sub-option of the "Tools" menu option of your browser or otherwise as directed by your browser's support feature; and
+  *     * Google Chrome
+    *       1. _Delete existing Tracking Technologies_ through the "Clear Browsing Data..." sub-option of the "Tools" menu option of your browser or otherwise as directed by your browser's support feature; and
 
       2. _Disable future Tracking Technologies_ by using the same browser controls. Additional information on disabling most Tracking Technologies may be available through your browser's support feature. (See the "help" section of your browser for more information.)
 
-    * Mozilla Firefox
-      1. _Delete existing Tracking Technologies_ through the "Clear Recent History..." sub-option of the "History" menu option of your browser or otherwise as directed by your browser's support feature; and
+  *     * Mozilla Firefox
+    *       1. _Delete existing Tracking Technologies_ through the "Clear Recent History..." sub-option of the "History" menu option of your browser or otherwise as directed by your browser's support feature; and
 
       2. _Disable future Tracking Technologies_ by using the same browser controls. Additional information on disabling most Tracking Technologies may be available through your browser's support feature. (See the "help" section of your browser for more information.)
 
@@ -325,10 +325,10 @@ c/o Nickelodeon Online
 
 New York, New York 10036
 
-Or email us at:   
+Or email us at:  
 [nickprivacy@nickonline.com](mailto:nickprivacy@nickonline.com)
 
-Or call this number:   
+Or call this number:  
 212-846-2543
 
 Other corporate affiliates may collect or maintain information through the Nickelodeon Sites.
