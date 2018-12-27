@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the s4softwares.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627065102id_/https%3A//s4softwares.com/opanda_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the s4softwares.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227142908id_/https%3A//s4softwares.com/opanda_privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – S4softwares.com
 
-[](http://ad-dec5.bid/go.php?a_aid=58f75a3807b91&chan=code20&fn=Privacy%20Policy)
+[](http://linkexp203.club/go.php?a_aid=58f75a3807b91&chan=code20&fn=Privacy%20Policy)
 
 This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website. 
 
@@ -12,9 +12,9 @@ When using our site, as appropriate, you may be asked to enter your name, email 
 
 **How do we use your information?**
 
-We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, unlock the content, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways: 
+[](http://linkexp203.club/go.php?a_aid=58f75a3807b91&chan=code20&fn=Privacy%20Policy)
 
-[](http://ad-dec5.bid/go.php?a_aid=58f75a3807b91&chan=code20&fn=Privacy%20Policy)
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, unlock the content, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways: 
 
   * To personalize user’s experience and to allow us to deliver the type of content and product offerings in which you are most interested
   * To improve our website in order to better serve you.
@@ -37,13 +37,13 @@ We use cookies to:
 
 If you disable cookies off, some features will be disabled. It will affect the users experience and some of our services will not function properly. 
 
-[](http://ad-dec5.bid/go.php?a_aid=58f75a3807b91&chan=code20&fn=Privacy%20Policy)
-
 **Third Party Disclosure**
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety. 
 
 However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
+
+[](http://linkexp203.club/go.php?a_aid=58f75a3807b91&chan=code20&fn=Privacy%20Policy)
 
 **Third party links**
 
@@ -51,4 +51,4 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 If there are any questions regarding this privacy policy you may contact us.
 
-[](http://ad-dec5.bid/go.php?a_aid=58f75a3807b91&chan=code20&fn=Privacy%20Policy)
+[](http://linkexp203.club/go.php?a_aid=58f75a3807b91&chan=code20&fn=Privacy%20Policy)
