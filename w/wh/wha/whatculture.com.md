@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatculture.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614113726id_/http%3A//whatculture.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatculture.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227132523id_/http%3A//whatculture.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Notice and Cookies
 
