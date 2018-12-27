@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediafire.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614112018id_/https%3A//www.mediafire.com/policies/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediafire.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227133915id_/https%3A//www.mediafire.com/policies/privacy_policy.php) for the most accurate reproduction.*
 
 # File sharing and storage made simple
 
@@ -178,6 +178,97 @@ We use this information to determine what types and version of devices, etc. are
 
 This Privacy Policy governs your use of the MediaFire Services, regardless of how you access it, and by using our Services you consent to the collection, transfer, processing, storage and disclosure and other uses described in this Privacy Policy. Information may be collected from you in various ways when you use our Services. We automatically receive certain types of information when you interact with our Web pages, apps, services and communications. This information includes your computer, tablet, mobile or other digital device's IP address, access times, your browser type and language. We may also collect information about the type of operating system you use, your account activity, and accessed pages. Personal and non-personally identifiable information from collected data may be shared with third parties who work on our behalf to provide your services. These third-party services and unique identifiers may be used to contact you, measure usage and analyze trends, administer the website and collect information for its databases. For example: [Google Analytics Privacy Policy](http://www.google.com/intl/en/policies/privacy/).
 
+## Cookies, Web Beacons, and Similar Technologies
+
+What are they?
+
+When you interact with people, it’s nice when they remember you, your relationship and what you like. That ‘feel good’ experience has been extended to your interactions with websites.
+
+Like most browsers and websites, we use technologies that are essentially small data files saved on your computer, tablet, mobile phone, or other devices that allow us to record certain pieces of information whenever you visit or interact with our site, Services, applications, messaging, and tools, and to recognize you across devices.
+
+MediaFire and service providers acting on our behalf (like Google Analytics and third party advertisers) use server log files and automated data collection tools like cookies, tags, scripts, customized links, device or browser fingerprints, and web beacons when you access and use our Services. These tools are essential to enable the Services to provide the features you have requested, such as remembering you have logged in. These tools also automatically track and collect certain system data and usage data when you use our Services. In some cases, we tie data gathered through these tools to other data that we collect.
+
+These technologies can operate across all of your browsers, and in some instances may not be fully managed by your browser and may require management directly through your installed applications or device. The specific names and types of cookies, web beacons, unique identifiers, and similar technologies used to collect and manage information may change from time to time. In order to help you better understand our use of such technologies, we have provided the some terminology and definitions.
+
+Cookies are mutually beneficial small text files, which often include a unique identifier, placed in the memory of your browser or device when you visit a website or view a message. They are commonly used to remember where you were during your session with a website. They can be used to collect, store, and share data about your activities across websites. Cookies allow us to recognize you, remember things about your visits, make our site easier to use, see which areas and features are popular and count visits to our website. Most web browsers are set to accept cookies by default. There are several types of cookies:
+
+  * Session cookies expire at the end of your browser session and allow sites to link your actions during that particular browser session. They help with navigation on a website and are enabled by default. 
+  * Persistent cookies are stored on your device and record information, allowing sites to remember your preferences or actions across multiple sites. They remain until you manually delete them or until they expire. 
+  * First-party cookies are created by the website you are visiting and are necessary to keep track of your personal preferences and the current session. Most web browsers enable first-party cookies by default. If you were to disable first-party cookies, a website could not keep track of your activity as you move from page to page. 
+  * Third-party cookies are set by a third party site separate from the site you are visiting. These are commonly used for advertising, analytics, etc. 
+  * Flash cookies aka Local Shared Objects (“LSO”) are a small file stored on your computer by a website that uses Adobe’s Flash player technology. Information stored on a Flash cookie is available to all browsers and is considered a security issue. When you delete or clear cookies from your browser, you will not necessarily delete the Flash cookies stored on your computer. MediaFire does not use Flash cookies. 
+
+
+
+Web beacons are small graphic images (also known as "pixel tags" or "clear GIFs") that typically work in conjunction with cookies to identify users and user behavior. There are myriad ways in which they can be used. For example, a third-party tracking site can determine how much merchandise was purchased for a particular banner ad campaign. In scenarios such as these, the individual users may still remain anonymous, even though their buying habits are disclosed.
+
+Mobile device identifiers \- When you access mobile applications, companies don’t have access to traditional browser cookies to track you over time. Instead, third party advertising and analytics companies use device identifiers, such as Apple iOS’s Identifiers for Advertisers and Google Android’s Advertising ID, to monitor the different applications used on a particular device.
+
+Device fingerprinting can track devices over time, based on your browser’s configurations and settings. Because each browser is unique, device fingerprinting can identify your device, without using cookies. Since device fingerprinting uses the characteristics of your browser configuration to track you, deleting cookies won’t help. Device fingerprinting technologies are evolving and can be used to track you on all kinds of internet-connected devices that have browsers, such as smart phones, tablets, laptop and desktop computers. 
+
+HTML5 has been designed to deliver almost everything you'd want to do online without requiring additional software such as browser plugins. It does everything from animation to apps, music to movies, and can also be used to build incredibly complicated applications that run in your browser. And, it can generally be used as an alternative to Adobe Flash. It isn't proprietary and it is cross-platform, which means it doesn't care whether you're using a tablet or a smartphone, a netbook, notebook or ultrabook or a Smart TV. If your browser supports HTML5, it should work flawlessly.
+
+Why does MediaFire use these technologies?
+
+MediaFire and our third-party partners, such as our advertising and analytics partners, use cookies and other tracking technologies to provide you with a better, faster, and safer experience, increased functionality and to recognize you across different services and devices.
+
+We use these cookies both when you visit our site and Services via a browser and our mobile app. As we adopt additional technologies, we may also gather additional data through other methods.
+
+Our cookies and similar technologies have different functions. They are either necessary for the functioning of our services, help us improve our performance, give you extra functionalities, or help us to serve you relevant and targeted ads. We use cookies and similar technologies that only remain on your device for as long as you keep your browser active (session) and cookies and similar technologies that remain on your device for a longer period (persistent). You are free to block, delete, or disable these technologies if your device allows this, but if you disable them, then certain functionalities will break or be unavailable. You can manage your cookies and your cookie preferences in your browser or device settings.
+
+To help Us help You to …
+
+  * save your registration ID and login password for future logins to the Service,
+  * match you to your personal information,
+  * remember your settings and preferences so you don‘t have to set them up every time you visit us, 
+  * customize your experience and preferences, 
+  * enable changes you have made in your account,
+  * help us remember the country you’re in,
+  * identify you during a single browsing session as you move around on the pages, 
+  * Identify you across different browser sessions and devices, 
+  * remember the user-interface customization cookies (i.e. the parameters attached to your device including your screen resolution, font preference, etc),
+  * enable processing and management of your purchases,
+  * respond to your questions and otherwise interact with you,
+  * allow sharing of your Content on social media 
+
+
+
+To help Us …
+
+For Our Website, to …
+
+  * allow proper functioning of our website/apps,
+  * enable certain features of the Service, 
+  * properly display Content,
+  * allow you access to our sites, services, applications, and tools,
+  * help us provide a faster, more secure experience, and
+  * identify irregular site behavior, prevent fraudulent activity and improve security. 
+
+
+
+For Performance and Analytics, to … 
+
+  * know how you discovered our websites / app,
+  * to monitor aggregate usage and web traffic routing on the Service,
+  * To avoid visitors being counted twice;
+  * to better understand how users interact with the Service by collecting information about the pages you view, the links you click, and other actions you take when using our Services, 
+  * identify whether a page was visited, 
+  * understand which areas and features of the Services are most popular,
+  * know users’ reaction to subscription offerings,
+  * to assess the performance of our websites, applications, services, and tools, and
+  * gather information about devices and networks utilized to access our Services.
+
+
+
+For the Future, to …
+
+  * improve our websites/apps by testing new versions and features, and
+  * understand how you interact with our Service so we can improve the Service and your experience based on that information.
+
+
+
+Third-party websites or services linked to MediaFire are not covered by this Privacy Policy. MediaFire is not responsible for the privacy practices of the third-party websites and companies or what they do with your information. You should make sure their privacy policy is acceptable to you. These websites may collect personally and non-personally identifiable information about you utilizing cookies, web beacons, log data analysis, API, SDK, JavaScript, pixels or other technologies or methods and place cookies on your browser in order to provide advertisement about goods and services likely to be of greater interest to you. To learn more about behavioral advertising practices or to opt-out of this type of advertising, you can visit the websites of the Digital Advertising Alliance at [http://www.aboutads.info](http://www.aboutads.info/) and Network Advertising Initiative (NAI) at <http://www.networkadvertising.org/choices/>. You will still see ads if you opt out of behavioral advertising but the ads will be less relevant to you. Also note that deleting browser cookies can remove your opt-out preferences.
+
 ## Our Policy Concerning Children
 
 MediaFire’s Websites and Services are not intended for, nor designed to attract, individuals under the age of sixteen and we recognize the privacy interests of children. 
@@ -190,11 +281,7 @@ If a parent or guardian becomes aware that "his" child has provided us with pers
 
 If you are not a resident of the United States, you understand and agree that MediaFire stores and processes your information on computers located in the United States, and by providing any data to MediaFire, you consent to the transfer of such information to the United States.
 
-We will not rent or sell your personally identifiable information with third parties. However, we may disclose your personal information or any of its log file information when we have a good faith belief that disclosure is reasonably necessary to (a) comply with a law, regulation or compulsory legal request; (b) co-operate with the investigations of purported unlawful activities; (c) identify persons who may be violating the law or legal notice; (d) protect and defend the rights or property of MediaFire or third parties; (e) protect the safety of an individual or group; (f) prevent fraud or abuse of MediaFire or its users.
-
-We utilize API, SDK, "cookies" and other technologies to collect information and improve our Services. A cookie is a small data file that we transfer to your digital device. We may use "persistent cookies" to save your registration ID and login password for future logins to the Service. We may use "session ID cookies" to enable certain features of the Service, to better understand how you interact with the Service and to monitor aggregate usage and web traffic routing on the Service. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept or delete cookies, however, you may not be able to use all aspects of the Service or be able to access your uploaded files if you have not already created a registered account. We also employ HTML5 technology and, by default, local storage which you can disable on your My Account page. You are solely responsible for the privacy and security of your digital devices receiving this technology.
-
-Third-party websites or services linked to MediaFire are not covered by this Privacy Policy. MediaFire is not responsible for the privacy practices of the third-party websites and companies or what they do with your information. You should make sure their privacy policy is acceptable to you. These websites may collect personally and non-personally identifiable information about you utilizing cookies, web beacons, log data analysis, API, SDK, JavaScript, pixels or other technologies or methods and place cookies on your browser in order to provide advertisement about goods and services likely to be of greater interest to you. To learn more about behavioral advertising practices or to opt-out of this type of advertising, you can visit the websites of the Digital Advertising Alliance at [http://www.aboutads.info](http://www.aboutads.info/) and Network Advertising Initiative (NAI) at <http://www.networkadvertising.org/choices/>. You will still see ads if you opt out of behavioral advertising but the ads will be less relevant to you. Also note that deleting browser cookies can remove your opt-out preferences.
+We will not rent or sell your personally identifiable information with third parties. However, we may disclose your personal information or any of its log file information when we have a good faith belief that disclosure is reasonably necessary to (a) comply with a law, regulation or compulsory legal request; (b) co-operate with the investigations of purported unlawful activities; (c) identify persons who may be violating the law or legal notice; (d) protect and defend the rights or property of MediaFire or third parties; (e) protect the safety of an individual or group; (f) prevent fraud or abuse of MediaFire or its users. MediaFire works with partners to identify malware.
 
 The security of your information is important to us. MediaFire employs measures to protect information collected from loss, destruction, disclosure, unauthorized access, misuse and alteration. Although we strive to protect your personal information, MediaFire cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. Sensitive data such as credit card information is administered in compliance with PCI standards. Customers banking and credit card information is stored, transmitted to, accessed and managed exclusively by any third party payment processors MediaFire may utilize.
 
