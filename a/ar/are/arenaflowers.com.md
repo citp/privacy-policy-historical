@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arenaflowers.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627035635id_/https%3A//www.arenaflowers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arenaflowers.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227112444id_/https%3A//www.arenaflowers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ This privacy notice tells you about the information we collect from you when you
 
 **Who are we?**
 
-We are Arena Flowers (Arena Online Ltd). Our address is Arena Online Ltd, Flowers HQ, Unit 3, Concord Business Centre, Concord Road, London, W3 0TJ. You can contact us by post at the above address, by email at privacy@arenaflowers.com or by telephone on 0800 0350 581.
+We are Arena Flowers (Arena Online Ltd). Our address is Arena Online Ltd, Flowers HQ, Unit 1a, Concord Business Centre, Concord Road, London, W3 0TJ. You can contact us by post at the above address, by email at privacy@arenaflowers.com or by telephone on 0800 0350 581.
 
 We are not required to have a data protection officer, so any enquiries about our use of your personal data should be addressed to the contact details above. 
 
@@ -117,7 +117,7 @@ To submit a request regarding your personal data by email, post or telephone, pl
 
 **Your right to complain**
 
-If you have a complaint about our use of your information, we would prefer you to contact us directly in the first instance so that we can address your complaint. However, you can also contact the Information Commissioner’s Office via their website at [www.ico.org.uk/concerns](https://web.archive.org/web/20180627035635id_/https%3A//www.arenaflowers.com/www.ico.org.uk/concerns) or write to them. 
+If you have a complaint about our use of your information, we would prefer you to contact us directly in the first instance so that we can address your complaint. However, you can also contact the Information Commissioner’s Office via their website at [www.ico.org.uk/concerns](https://web.archive.org/web/20181227112444id_/https%3A//www.arenaflowers.com/www.ico.org.uk/concerns) or write to them. 
 
 **Updates to this privacy policy**
 
