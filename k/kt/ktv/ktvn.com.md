@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the ktvn.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627041252id_/http%3A//www.ktvn.com/story/18990/this-web-sites-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ktvn.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227114107id_/http%3A//www.ktvn.com/story/18990/this-web-sites-privacy-policy) for the most accurate reproduction.*
 
 # This Web Site’s Privacy Policy - KTVN Channel 2 - Reno Tahoe Sparks News, Weather, Video
+
+News
+
+This station provides a variety of online services, from interactive entertainment to electronic commerce via its relationship with WorldNow, Inc. ("WorldNow"). WorldNow is the host of the this station s
 
 We provide a variety of online web services, mobile applications, and services for location-enabled and other types of devices (collectively, the "Services") from news and weather to interactive entertainment to electronic commerce via our relationship with Frankly Media LLC Frankly ("Frankly"). Frankly is the host of this Web site.  Because the success of the Services is dependent on building and maintaining goodwill with our customers, this Web site and Frankly (hereinafter collectively referred to as "we" or "us" or "our") are committed to implementing measures designed to protect the privacy of those using our services.  Moreover, we see it as our responsibility to set examples and help establish the standards for privacy on the Internet.
 
@@ -20,7 +24,7 @@ For the same purposes, we use "cookies"---that is, small text files placed on yo
 
 Essentially, cookies are your identification cards for our computers, or servers, that placed them there. Cookies are only read by the server that placed them, and are unable to execute any code or virus. Cookies allow us to serve you better and more efficiently, and to personalize your experience on the Services. Nevertheless, you are able to control how and whether cookies will be accepted by your web browser or device. For more information on how to do so, please refer to the documentation accompanying your browser or device.
 
-The Services may also utilize an electronic file called a web beacon to count users who have visited a web page or recognize users by accessing certain cookies.  We, our third-party suppliers and/or the web sites and services of advertisers and merchants with which we have a relationship may use cookies and web beacons (a) for auditing purposes and to collect information from the web sites of certain advertisers or merchants; (b) to report anonymous individual and/or aggregate information about our users from such advertisers or merchants and (c) to collect general internet usage information over time regarding users of the Services.  Aggregate information may include demographic and usage information.  You may choose to opt-out by contacting us at  _[info@franklymedia.com](https://web.archive.org/web/20180627041252id_/http%3A//www.ktvn.com/story/18990/info@franklymedia.com)_.
+The Services may also utilize an electronic file called a web beacon to count users who have visited a web page or recognize users by accessing certain cookies.  We, our third-party suppliers and/or the web sites and services of advertisers and merchants with which we have a relationship may use cookies and web beacons (a) for auditing purposes and to collect information from the web sites of certain advertisers or merchants; (b) to report anonymous individual and/or aggregate information about our users from such advertisers or merchants and (c) to collect general internet usage information over time regarding users of the Services.  Aggregate information may include demographic and usage information.  You may choose to opt-out by contacting us at  _[info@franklymedia.com](https://web.archive.org/web/20181227114107id_/http%3A//www.ktvn.com/story/18990/info@franklymedia.com)_.
 
 At this time, this website and the Services do not recognize automated browser signals regarding tracking mechanisms and preferences, which may include "do not track" instructions.  However, you may adjust the privacy preferences of your browser, including the control of how and whether cookies will be accepted by your web browser or device.  For more information on how to do so, please refer to the documentation accompanying your browser or device.
 
@@ -56,20 +60,12 @@ We reserve the right to release any and all information contained within our acc
 
 If and when we sponsor promotions or sweepstakes, or third parties sponsor promotions or sweepstakes in conjunction with us, either we or the third party will post relevant privacy information in the official rules and/or registration area for the promotion or sweepstakes. That privacy information, to the extent it conflicts with this Privacy Policy, will govern that particular promotion or sweepstakes.
 
- **Security**
-
 No security system is impenetrable. Accordingly, we cannot guarantee the security of any database that stores personally identifiable information in connection with the Services, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. Questions regarding this Privacy Policy should be directed to us at _[Info@franklymedia.com](mailto:Info@franklymedia.com)_.
 
  **Changing/deleting personal information**
 
 If you would like to have your personally identifiable information changed or removed from our database, please contact us at  _[Info@franklymedia.com](mailto:Info@franklymedia.com)_ , and we will use reasonable efforts to comply with your request. Keep in mind, however, that there will be residual information that will remain within our databases, access logs, and other records, which may or may not contain such personally identifiable information. The residual information will not be used for commercial purposes; however we reserve the right, from time to time, to recontact former customers or users of this Web site.
 
- **Third-Party Ad Serving**
-
 We may use third-party advertising companies to serve ads when you visit this Web site.  These companies may use information (not including your name, address or telephone number) about your use of the Services and visits to other web sites and services in order to provide advertisements about goods and services of interest to you.  If you would like more information about this practice and to know you choices about not having this information used by these companies, please contact us at  _[Info@franklymedia.com](mailto:Info@franklymedia.com)_ , or click here [http://www.networkadvertising.org/optout_nonppii.asp](http://www.networkadvertising.org/optout_nonppii.asp).
-
- **Questions?**
-
-Questions regarding this Privacy Policy should be directed to us at  _[Info@franklymedia.com](mailto:Info@franklymedia.com)_.
 
  _Effective date: July 1, 2004, Updated: November 5, 2015_
