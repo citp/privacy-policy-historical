@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the specificmedia.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627023814id_/https%3A//viantinc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the specificmedia.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227202956id_/https%3A//viantinc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Viant
 
