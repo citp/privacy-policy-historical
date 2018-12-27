@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quidco.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613125953id_/https%3A//www.quidco.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quidco.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227140636id_/https%3A//www.quidco.com/privacy-policy) for the most accurate reproduction.*
 
 # Quidco - The UK's #1 Cashback Site
 
@@ -83,7 +83,7 @@ We will also use Identity and Contact Data, Payment Data and Transaction Data to
 
 From time to time, you may participate in a survey or provide us with feedback or otherwise engage with us in ways that, in combination with other data we hold, may be included in your Profile Data. In using the Quidco (and other) websites and apps, we and our service providers will also collect Technical and Profile Data. We use and combine Identity, Contact, Profile, Transactional, Financial, Technical and Usage Data to make our products and services, including the Quidco site and app, and the offers you receive, better and more relevant to you, and to enable us to create content that is more suited to you and send you more relevant communications. Our basis: Legitimate Interest (making our products and services and their marketing more specific to you).
 
-Where you opt to receive marketing communications from us, we will use your relevant Marketing and Communications Data to communicate that marketing to you. Our basis: Consent.
+We will use your relevant Marketing and Communications Data to communicate that marketing to you. Our basis: Consent.
 
 We retain records of our financial transactions and contracts with you in order to maintain adequate accounting records and meet legal requirements. Our basis: Obligation.
 
@@ -195,7 +195,7 @@ Please note there are some (non-marketing) communications that are an integral p
 
 Words we use in this Privacy Policy have the same meaning as in the Quidco Account Holder Agreement.
 
-This Privacy Policy is correct as of **22nd May 2018**
+This Privacy Policy is correct as of **19th Sep 2018**
 
 #### Contacting us
 
