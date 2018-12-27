@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proctorgallagherinstitute.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630081140id_/http%3A//www.proctorgallagherinstitute.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proctorgallagherinstitute.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227044816id_/http%3A//www.proctorgallagherinstitute.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Proctor Gallagher Institute
 
@@ -168,4 +168,4 @@ Deleting cookies will have a negative impact on the usability of many websites.
 
 **CONTACT INFORMATION**
 
-We welcome your comments regarding this privacy policy statement.  You may contact us via e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7615030502191b1304051304001f1513360604191502190411171a1a17111e13045815191b) or by U.S. Mail at Proctor Gallagher Institute – Privacy Policy Comments, 5010 E Shea Blvd, Suite 255, Scottsdale, AZ 85254.
+We welcome your comments regarding this privacy policy statement.  You may contact us via e-mail at [customerservice@proctorgallagher.com](mailto:customerservice@proctorgallagher.com) or by U.S. Mail at Proctor Gallagher Institute – Privacy Policy Comments, 5010 E Shea Blvd, Suite 255, Scottsdale, AZ 85254.
