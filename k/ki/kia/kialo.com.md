@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kialo.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626231629id_/https%3A//www.kialo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kialo.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227065702id_/https%3A//www.kialo.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Kialo
+# Privacy Policy | Kialo | Kialo
 
 September 08, 2017
 
@@ -80,7 +80,7 @@ If you would like to request access, correction, or deletion of personal informa
 
 ## Changes to This Policy
 
-We may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at <https://www.kialo.com/privacy>. Older versions of the policy will be archived at <https://www.kialo.com/privacy/archive>. If we make changes that we believe will substantially alter your rights, we will notify you in advance.
+We may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at [https://www.kialo.com/privacy](https://web.archive.org/privacy). Older versions of the policy will be archived at [https://www.kialo.com/privacy/archive](https://web.archive.org/privacy/archive). If we make changes that we believe will substantially alter your rights, we will notify you in advance.
 
 ## Contact
 
