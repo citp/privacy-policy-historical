@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kanbanize.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627094034id_/https%3A//kanbanize.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kanbanize.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227171950id_/https%3A//kanbanize.com/privacy-policy) for the most accurate reproduction.*
 
 # Kanbanize Privacy Policy
 
@@ -63,14 +63,17 @@ By using our website and Services, you consent to your Personal Data being trans
 
 BMAP uses as Subprocessors and User personal data may be transferred to the providers of the following services: 
 
-  1. Customer relationship management (HubSpot);
-  2. Email automation software (MailJet)
-  3. Email server (Superhosting)
-  4. Payment gateway (Braintree)
-  5. Hosting services (Amazon Web Services)
-  6. Billing software services (Freshbooks)
-  7. Communications software (Intercom)
-  8. Survey software (Wootric)
+  1. Customer relationship management (HubSpot)
+  2. Email server (Superhosting)
+  3. Payment gateway (Braintree)
+  4. Hosting services (Amazon Web Services)
+  5. Billing software services (Freshbooks)
+  6. Cloud-based integration platform (Zapier)
+  7. Communications software (Intercom) -- **Will not be used after Dec 31 2018**
+  8. Webinar hosting and automation platform (BigMarker) - personal data is entered voluntarily by the users willing to attend an event
+  9. Embedded integration platform (Cyclr) - personal or business data is transferred to Cyclr only after explicit consent given by the user inside the software
+  10. Digital signing software (Docusign) - personal data for a given person (email) is transferred only after prior communication between Kanbanize and that person
+  11. Marketing automation software (Mailchimp) - personal data (email) is transferred upon explicit request by the user to receive notifications about new blog content
 
 
 
