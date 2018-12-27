@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ve.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625194218id_/https%3A//www.ve.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ve.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227202953id_/https%3A//www.ve.com/privacy-policy) for the most accurate reproduction.*
 
 # Ve | Privacy Policy
 
@@ -13,7 +13,7 @@ We take privacy seriously and are committed to ensuring a safe online experience
 We collect personal information about:
 
   * **End users who visit Client websites:** when you visit or interact with our Clients’ websites, mobile applications and services (including those of our affiliate networks) (“ **Client Sites** ”), we collect and process personal information about you. **We use this information to understand more about you and to advertise or promote our Clients’ products and services to you**. Please see Opting-out below if you wish to opt-out. You may have been redirected here because you have visited a Client Site; and
-  * **Clients and other visitors to our own website:** we collect and process personal information about Client personnel who use our Services and others who visit [https://www.ve.com](https://www.ve.com/?hsLang=en) (“ **Our Site** ”).
+  * **Clients and other visitors to our own website:** we collect and process personal information about Client personnel who use our Services and others who visit [https://www.ve.com](https://www.ve.com/) (“ **Our Site** ”).
 
 
 
@@ -61,11 +61,11 @@ We collect the following categories of personal information from you:
 
 
 
-For more information about the technology that we use to collect Behavioural Data, please see our [Cookie Policy](https://www.ve.com/cookies-policy?hsLang=en).
+For more information about the technology that we use to collect Behavioural Data, please see our [Cookie Policy](https://www.ve.com/cookies-policy).
 
 We also receive Behavioural Data from, and may share it with, third party partners (through “cookie synching” or similar matching technologies). We do not share Contact Details or Profile Data relating to you with third parties outside of the Ve group for commercial purposes.
 
-We may receive personal information about you (including Behavioural Data and Profile Data) from other companies within the Ve group of companies to enable us to provide and improve our Services. A list of our group companies is available [here](https://www.ve.com/ve-subsidiary-list?hsLang=en).
+We may receive personal information about you (including Behavioural Data and Profile Data) from other companies within the Ve group of companies to enable us to provide and improve our Services. A list of our group companies is available [here](https://www.ve.com/ve-subsidiary-list).
 
 We do not collect sensitive information from you (such as data relating to health or religious beliefs). Although it may be possible for us to infer certain information, such as your religious beliefs, from certain Behavioural Data that we may collect, we do not create or use segments that rely on the use of sensitive personal information for the purposes of online behavioural advertising.
 
@@ -132,7 +132,7 @@ We may collect the following categories of personal information from you:
 
 
 
-For more information about the technology that we use to collect Behavioural Data, please see our [Cookie Policy](https://www.ve.com/cookies-policy?hsLang=en).
+For more information about the technology that we use to collect Behavioural Data, please see our [Cookie Policy](https://www.ve.com/cookies-policy).
 
 * * *
 
@@ -173,7 +173,7 @@ In particular, we may use your personal information for the following purposes:
 
 Ve makes use of certain cookies, pixels, beacons, log files and other technologies used on Client Sites and Our Site.
 
-Please see our [Cookie Policy](https://www.ve.com/cookies-policy?hsLang=en) to find out more about the cookies we use on Client Sites and Our Site.
+Please see our [Cookie Policy](https://www.ve.com/cookies-policy) to find out more about the cookies we use on Client Sites and Our Site.
 
 Our Cookie Policy explains how you can manage and delete cookies which relate to Our Site.
 
