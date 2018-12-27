@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linqia.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602191916id_/http%3A//www.linqia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linqia.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227143130id_/http%3A//www.linqia.com/privacy-policy) for the most accurate reproduction.*
 
 # Linqia Influencer Marketing Privacy Policy |Linqia
 
@@ -101,3 +101,5 @@ San Francisco, CA 94108
 United States
 
 **Last modified: 7.22.2016**
+
+Our website uses cookies so that we can provide you with the best experience possible. By continuing to use this site, you agree to accept cookies. To learn more about how we use cookies, please visit our Privacy Policy. Accept [Privacy Policy](http://www.linqia.com/privacy-policy/)
