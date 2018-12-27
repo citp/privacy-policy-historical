@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the tillys.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626190136id_/https%3A//www.tillys.com/customer-service/privacy-security/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tillys.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227025301id_/https%3A//www.tillys.com/customer-service/privacy-security/privacy-policy.html) for the most accurate reproduction.*
 
 # Tilly's Privacy Policy
-
-**PRIVACY POLICY**
 
 **Thank you for shopping at Tillys!**
 
@@ -33,6 +31,16 @@ We use your personal information and Usage Data to fulfill your orders and to ot
 Combined Information
 
 We may combine your information, including Usage Data, with information from third parties in order to enhance our ability to communicate with you and provide you opportunities to purchase products or services that we believe may be of interest to you.   In addition, from time to time, we may establish relationships with other people or entities whom we believe to be trustworthy and whom we have asked to confirm that their privacy practices are consistent with ours. In this context, we may disclose to third parties your Usage Data and other personal information that you provide to us, so long as combined and used in aggregate form and in a manner that does not identify you. 
+
+Cookies
+
+Cookies are small files saved to your computer. Cookies can be used for a number of important purposes. For example they allow us to distinguish you from other users on our website which help us to provide you with a great online experience as well as improve our website. Cookies allow us to gauge where our visitors come from (i.e. Google), recognize and count the number of visits to our site, as well as how visitors move around the site. Cookies help us to improve not only the way our website works, but to ensure you find what you’re looking for easily as well. 
+
+Tillys uses persistent cookies, either directly or indirectly through one of our third party providers. We also use other tracking technology such as pixel tags or web beacons. These Technologies assist us with your requests, and make your browsing experience easier (i.e. by remembering which language you prefer) this way you enjoy a seamless experience.  Persistent cookies assist us with understanding how you use our website. It also allows us to target you with specifically tailored advertising based on your visit(s) along with carry out business analytics, other statistic activities and traffic. 
+
+Depending on your browser’s settings, your computer may alert you when a cookie is being placed on your computer. You can choose to accept the cookie or not or you can choose to turn off cookies via your browser’s settings. If you do decided to turn off your cookies you may not have access to some of the features that make your experience easier and some services may not function properly.
+
+If you choose to participate in our use of cookies but later change your mind you can simply opt out at any time by going through your browser settings. Your browser settings will also allow you to delete the cookies that have already been set and change your browser settings to block all or part of any further cookies.
 
 Mobile Application
 
