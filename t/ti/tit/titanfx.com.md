@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the titanfx.com privacy policy that was archived on 2016-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161005194652id_/https%3A//titanfx.com/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the titanfx.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227093659id_/https%3A//titanfx.com/website-privacy-policy) for the most accurate reproduction.*
 
-# Website Privacy Policy - Titan FX
+# Website Privacy Policy
 
 ### Website Privacy Policy:
 
-Titan FX Limited (“ **Titan FX** “) operates titanfx.com and may operate other websites. It is Titan FX’s policy to respect your privacy regarding any information we may collect while operating our websites.
+TI Securities Limited (“ **Titan FX** “) operates titanfx.com and may operate other websites. It is Titan FX’s policy to respect your privacy regarding any information we may collect while operating our websites.
 
 ### Website Visitors
 
@@ -14,7 +14,7 @@ Titan FX also collects potentially personally-identifying information like Inter
 
 ### Gathering of Personally-Identifying Information
 
-Certain visitors to Titan FX’s websites choose to interact with Titan FX in ways that require Titan FX to gather personally-identifying information. The amount and type of information that Titan FX gathers depends on the nature of the interaction. For example, we ask visitors who sign up at[titanfx.com](http://titanfx.com/) to provide a username and email address. Those who engage in transactions with Titan FX are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Titan FX collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Titan FX. Titan FX does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+Certain visitors to Titan FX’s websites choose to interact with Titan FX in ways that require Titan FX to gather personally-identifying information. The amount and type of information that Titan FX gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [titanfx.com](http://titanfx.com/) to provide a username and email address. Those who engage in transactions with Titan FX are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Titan FX collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Titan FX. Titan FX does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
 ### Aggregated Statistics
 
