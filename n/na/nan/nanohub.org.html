@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nanohub.org privacy policy that was archived on 2018-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180628171647id_/http%3A//nanohub.org/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nanohub.org privacy policy that was archived on 2018-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181227164947id_/https%3A//nanohub.org/legal/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html dir="ltr" lang="en-gb" class="ltr  0"><head>
 		<meta name="viewport" content="width=device-width">
@@ -88,6 +88,8 @@ jQuery(document).ready(function(jq) { HUB.Modules.ReportProblems.initialize(".he
 				Report a problem			</h2>
 			<form method="post" action="/support/save" id="troublereport" enctype="multipart/form-data">
 				<fieldset class="reporter">
+					<legend>About you</legend>
+
 					<label for="trLogin">
 						Username: <span class="optional">optional</span>
 													<input type="text" name="reporter[login]" id="trLogin" value="">
@@ -103,19 +105,36 @@ jQuery(document).ready(function(jq) { HUB.Modules.ReportProblems.initialize(".he
 													<input type="text" name="reporter[email]" id="trEmail" value="">
 											</label>
 
-					<label for="captcha-answer">
-Please answer the question: <span class="required">required</span><br>
-	What is the sum of 4 and 7?	<input type="text" name="captcha[answer]" id="captcha-answer" value="" size="3" class="option">
-</label>
-	<input type="hidden" name="captcha[krhash]" id="captcha-krhash" value="664d1">
-<input type="hidden" name="captcha[instance]" id="captcha-instance" value="0">
-
+					<label class="">&nbsp;</label><div class="field-wrap"><div class="g-recaptcha" id="dynamic_recaptcha_1" data-type="image" data-theme="light" data-sitekey="6Lf9IgATAAAAAAl3WEw0hwpbsG9O2_EXY_-NH7xd"></div>
+					<noscript>
+					  <div style="width: 302px; height: 352px;">
+					    <div style="width: 302px; height: 352px; position: relative;">
+					      <div style="width: 302px; height: 352px; position: absolute;">
+					        <iframe src="https://www.google.com/recaptcha/api/fallback?k=6Lf9IgATAAAAAAl3WEw0hwpbsG9O2_EXY_-NH7xd"
+					                frameborder="0" scrolling="no" title="CAPTCHA page"
+					                style="width: 302px; height:352px; border-style: none;">
+					        </iframe>
+					      </div>
+					      <div style="width: 250px; height: 80px; position: absolute; border-style: none;
+					                  bottom: 21px; left: 25px; margin: 0px; padding: 0px; right: 25px;">
+					        <textarea id="g-recaptcha-response" name="g-recaptcha-response"
+					                  class="g-recaptcha-response"
+					                  style="width: 250px; height: 80px; border: 1px solid #c1c1c1;
+					                         margin: 0px; padding: 0px; resize: none;" value="">
+					        </textarea>
+					      </div>
+					    </div>
+					  </div>
+					</noscript>
+					<script type="text/javascript" src="https://www.google.com/recaptcha/api.js?hl=en" async="" defer=""></script></div>
 					<label id="trBotcheck-label" for="trBotcheck">
 						Please leave this field blank. <span class="required">required</span>
 						<input type="text" name="botcheck" id="trBotcheck" value="">
 					</label>
 				</fieldset>
-				<fieldset>
+				<fieldset class="reporting">
+					<legend>About the problem</legend>
+
 					<label for="trProblem">
 						Problem: <span class="required">required</span>
 						<textarea name="problem[long]" id="trProblem" rows="10" cols="40"></textarea>
@@ -143,7 +162,7 @@ Please answer the question: <span class="required">required</span><br>
 					<input type="hidden" name="task" value="save">
 					<input type="hidden" name="no_html" value="1">
 
-					<input type="hidden" name="4a5e1e563bb4f7db597297982c17ec2b" value="1">
+					<input type="hidden" name="f04e5e91f885d90d49facf1140259117" value="1">
 				</fieldset>
 				<div class="submit"><input type="submit" id="send-form" value="Submit"></div>
 			</form>
@@ -223,7 +242,7 @@ Please answer the question: <span class="required">required</span><br>
 </li><li class="item-26"><a href="/resources/animations">Animations</a></li><li class="item-112"><a href="/publications/compactmodels">Compact Models</a></li><li class="item-27"><a href="/resources/courses">Courses</a></li><li class="item-114"><a href="/resources/databases">Databases</a></li><li class="item-179"><a href="/publications/datasets">Datasets</a></li><li class="item-28"><a href="/resources/downloads">Downloads</a></li><li class="item-25"><a href="/resources/onlinepresentations">Online Presentations</a></li><li class="item-30"><a href="/resources/presentationmaterials">Presentation Materials</a></li><li class="item-31"><a href="/resources/papers">Papers</a></li><li class="item-32"><a href="/resources/series">Series</a></li><li class="item-33"><a href="/resources/teachingmaterials">Teaching Materials</a></li><li class="item-34"><a href="/resources/tools">Tools</a></li><li class="item-35"><a href="/resources/workshops">Workshops</a></li></ul></li><li class="item-41 deeper parent"><a href="/explore">Explore</a><ul><li class="item-160"><a href="/collections">Collections</a></li><li class="item-44"><a href="/topics">Topics</a></li><li class="item-40"><a href="/answers">Questions &amp; Answers</a></li><li class="item-42"><a href="/tags">Tags</a></li><li class="item-48"><a href="/citations">Citations</a></li><li class="item-52"><span class="separator">&nbsp;</span>
 </li><li class="item-43"><a href="/events">Events</a></li><li class="item-50"><a href="/feedback">Feedback</a></li><li class="item-79"><a href="/jobs">Job Opportunities</a></li><li class="item-53"><span class="separator">&nbsp;</span>
 </li><li class="item-55"><a href="/tools">Tool Development</a></li><li class="item-49"><a href="/store">Store</a></li></ul></li><li class="item-103 deeper parent"><a href="/groups/u">nanoHUB-U</a><ul><li class="item-188"><a href="https://nanohub.org/courses/pep">Physics of Electronic Polymers</a></li><li class="item-186"><a href="https://nanohub.org/courses/BIOD">Biological Engineering:  Cellular Design Principles</a></li><li class="item-181"><a href="https://nanohub.org/courses/TRED">Thermal Resistance in Electronics Devices (short course)</a></li><li class="item-172"><a href="https://nanohub.org/courses/NT">Fundamentals of Nanotransistors, 2nd Edition</a></li><li class="item-171"><a href="https://nanohub.org/courses/fon2">Fundamentals of Nanoelectronics, Part B: Quantum Transport, 2nd Edition </a></li><li class="item-169"><a href="/courses/FON1">Fundamentals of Nanoelectronics, Part A: Basic Concepts, 2nd Edition </a></li><li class="item-158"><a href="https://www.edx.org/course/introduction-bioelectricity-purduex-nano525x">Bioelectricity (edX)</a></li><li class="item-164"><a href="/courses/oed" target="_blank">Organic Electronic Devices</a></li><li class="item-165"><a href="/courses/NPM">Nanophotonic Modeling, 2nd Edition </a></li><li class="item-159"><a href="/courses/IMSB">Introduction to the Materials Science of Rechargeable Batteries</a></li><li class="item-116"><a href="/courses/pen">Principles of Electronic Nanobiosensors</a></li><li class="item-113"><a href="/courses/TEAS">Thermoelectricity: From Atoms to Systems</a></li><li class="item-110"><a href="/courses/FATM">From Atoms to Materials: Predictive Theory and Simulations</a></li><li class="item-109"><a href="/courses/TE">Thermal Energy at the Nanoscale</a></li><li class="item-107"><a href="/courses/AFM2">Fundamentals of Atomic Force Microscopy, Part 2</a></li><li class="item-106"><a href="/courses/afm1">Fundamentals of Atomic Force Microscopy, Part 1</a></li></ul></li><li class="item-111"><a href="/partners">Partners</a></li><li class="item-180 deeper parent"><a href="/community">Community</a><ul><li class="item-161"><a href="/projects">Projects</a></li><li class="item-39"><a href="/groups">Groups</a></li><li class="item-185"><a href="/answers">Questions &amp; Answers</a></li><li class="item-187"><a href="/events">Events</a></li></ul></li><li class="item-9 deeper parent"><a href="/about">About</a><ul><li class="item-84"><a href="/about/nano">What is nanotechnology?</a></li><li class="item-80"><a href="/about/simulate">Simulate</a></li><li class="item-81"><a href="/about/research">Research &amp; Collaborate</a></li><li class="item-82"><a href="/groups/education">Teach &amp; Learn</a></li><li class="item-83"><a href="/about/publish">Share &amp; Publish</a></li><li class="item-85"><span class="separator">&nbsp;</span>
-</li><li class="item-69"><a href="/about/quotes">Notable Quotes</a></li><li class="item-51"><a href="/usage">Usage Metrics</a></li><li class="item-70"><a href="/about/press">In the News</a></li><li class="item-71"><a href="/about/contact">Contact Us</a></li></ul></li><li class="item-10 deeper parent"><a href="/support">Support</a><ul><li class="item-37"><a href="/kb">Knowledgebase</a></li><li class="item-72"><a href="/wishlist">Wish List</a></li><li class="item-54"><a href="/support/ticket/new">Report a problem</a></li><li class="item-56"><a href="/support/tickets">Tickets</a></li></ul></li></ul>
+</li><li class="item-69"><a href="/about/quotes">Notable Quotes</a></li><li class="item-51"><a href="/usage">Usage Metrics</a></li><li class="item-70"><a href="/about/press">In the News</a></li><li class="item-192"><a href="/about/newsletter">Newsletter</a></li><li class="item-71"><a href="/about/contact">Contact Us</a></li></ul></li><li class="item-10 deeper parent"><a href="/support">Support</a><ul><li class="item-37"><a href="/kb">Knowledgebase</a></li><li class="item-72"><a href="/wishlist">Wish List</a></li><li class="item-54"><a href="/support/ticket/new">Report a problem</a></li><li class="item-56"><a href="/support/tickets">Tickets</a></li></ul></li></ul>
 
 										</nav>
 									</div>
@@ -238,8 +257,8 @@ Please answer the question: <span class="required">required</span><br>
 
 				
 				<div class="trail">
-						<span class="breadcrumbs pathway">
-	<a href="/" class="pathway">Home</a> <span class="sep">›</span> <a href="/legal" class="pathway">Legal</a> <span class="sep">›</span> <span>Privacy Policy</span></span>
+						<span class="breadcrumbs pathway" aria-label="Breadcrumbs">
+	<a href="/" class="pathway">Home</a> <span class="sep">›</span> <a href="/legal" class="pathway">Legal</a> <span class="sep">›</span> <span aria-current="page">Privacy Policy</span></span>
 
 				</div><!-- / #trail -->
 
