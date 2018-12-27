@@ -1,135 +1,274 @@
-> *The following text is extracted and transformed from the sleepopolis-mattress-reviews.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623172835id_/https%3A//sleepopolis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sleepopolis-mattress-reviews.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227102448id_/https%3A//sleepopolis.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sleepopolis
 
-_Sleepopolis is supported by readers purchasing products we feature. Product links on Sleepopolis are referral links. If you use one of those links and buy something, Sleepopolis earns a commission from the sale. Need more info?[See my disclosures](https://web.archive.org/disclosures/)._
+Effective May 26th, 2018  
+PRIVACY POLICY
 
-**_Effective Date: July 6, 2017_**
+## 1\. Introduction
 
-This Privacy Policy describes the types of information Halesopolis LLC (“Halesopolis,” “we,” “us,” or “our”) collects from and about you when you visit our website, www.sleepopolis.com (“Site”).  This Privacy Policy also explains how we may use and disclose such information, as well as your ability to control certain uses of it.
+This privacy notice provides you with details of how we collect and process your personal data through your use of our websites at www.sleepopolis.com and www.sleepopolis.co.uk
 
-By using the Site, you agree to the collection, use, and disclosure of your personal information as described in this Privacy Policy, and agree to the Halesopolis [Terms of Use](https://sleepopolis.com/terms-of-use/) which are incorporated by reference.  If you do not agree, please do not access or use the Site.
+By providing us with your data, you warrant to us that you are over 13 years of age.
 
-## 1\. INFORMATION WE COLLECT
+#### Contact Details
 
-### 1.1 Information You Provide
+Our full details are:
 
-We collect personal information from you when you choose to share it with us.  This may include when you use our Site, sign up for newsletters or our email list, use our service, leave a comment, enter into sweepstakes or other promotion, fill out a survey, request support or information from us, or otherwise communicate with or contact us.  The personal information we collect may include your name, address, email address, telephone or mobile number, date of birth, and gender.
+Full name of legal entity:All Things Digital LLC d/b/a All Sleep Focused (“All Things Digital,” “we,” “us,” or “our”)
 
-**_Information You Provide Through Social Media_**. You may also be given the option to link to your Facebook or other social media account through the Site. When you do, we may automatically receive certain information about you based on your registration and privacy settings on those third party services. This may include, but may not be limited to, name, user name, demographic information, updated address or contact information, location, interests, and publicly-observed data, such as from social media and online activity.
+Email address: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
-### 1.2 Information Automatically Collected
+Postal address: 55 Washington Street #322, Brooklyn, NY, 11201
 
-We may use a variety of technologies such as cookies, pixel tags, log files, or other technologies to collect certain information about visitors to, and users of, our Site and interactions with our emails and online advertisements, and to allow us to keep track of analytics and certain statistical information
+It is very important that the information we hold about you is accurate and up to date. Please let us know if at any time your personal information changes by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
-For example, we may automatically collect certain non-personal information from you, including but not limited to your browser type, device type, operating system, carrier information, unique device identifier of any of your computer(s) or device(s) that are used to access the Site, software version, Internet Protocol (“IP”) address, geolocation, phone model, phone operating system, and the domain name from which you accessed the Site.  We also may collect information about your use of the Site, including the date and time you visit the Site, the areas or pages of the Site that you visit, the amount of time you spend viewing or using the Site, the number of times you return to the Site, other click-stream or site usage data, emails that you open, forward or click-through to our Site, and other sites that you may visit.
+We may change this privacy policy from time to time. If we make changes, we will update the “Effective Date” at the top of the page. If we make a material change in the way we use your personal information, we will prominently note the change through email or notification on our website.
 
-**_Third Party Service Providers_**. We may use third party service providers to support our Site.  Some of these service providers may use technology such as cookies, web beacons, pixel tags, log files or other technologies to receive, collect, and store information.
+## 2\. HOW WE COLLECT AND USE INFORMATION
 
-**_Third Party Analytic Technologies_**. We may use third parties’ analytics and tracking tools to better understand who is using the Site, how people are using the Site, how to improve the effectiveness of the Site and related content, and to help us or those third parties serve more targeted advertising to you across the Internet. These tools may use technology such as cookies, web beacons, pixel tags, log files, or other technologies to collect and store non-personal information. They may also combine information they collect from your interaction with the Site with information they collect from other sources. We do not have access to, or control over, these third parties’ use of cookies or other tracking technologies.
+We may process the following categories of personal data about you:
 
-### 1.3 Information Collected From Other Sources
+* Communication Data that includes any communication that you send to us whether that be through the contact form on our website, through email, social media messaging, social media posting or any other communication that you send us. We process this data for the purposes of communicating with you, for record keeping and for the establishment, pursuance or defense of legal claims. Our lawful ground for this processing is our legitimate interests which in this case are to reply to communications sent to us, to keep records and to establish, pursue or defend legal claims.
 
-We may acquire information from other trusted sources to update or supplement the information that you provide or that we collect automatically (such as information to validate or update your address or other demographic and lifestyle information). We may use this information to help us maintain the accuracy of the information we collect, to target our communications so that we can inform you of products, services or other offers that may be of interest to you, and for internal business analysis or other business purposes.
+####  **Some examples include:**
 
-### 1.4 Combination of Information
+ **Blogs and Forums:** We may provide an opportunity for you to post information to blogs, forums or other public areas on the Services. By doing so, you consent to the posting of any Personal Information that you provide. You should be aware that such Personal Information can be read, collected, or used by other visitors to these public areas. We have no control over how these visitors use your Personal Information.
 
-We may combine the information we receive from and about you, including information you provide to us and information we automatically collect through our Site, as well as information collected offline, across other computers or devices that you may use, and from third party sources.
+ **Inquiries:**  If you send us a comment or question or make an inquiry to customer support, we will retain the information that you provide to us for the purpose of responding to you, as well as for improving the Services and our customers’ use of our services.
 
-## 2\. INFORMATION USE
+ *** Customer Data** that includes data relating to any purchases of goods and/or services such as your name, title, billing address, delivery address email address, phone number, contact details, purchase details and your card details. We process this data to supply the goods and/or services you have purchased and to keep records of such transactions. Our lawful ground for this processing is the performance of a contract between you and us and/or taking steps at your request to enter into such a contract.
 
-We may use the information we collect from and about you for any of the following purposes:
+ _Some examples include:_
 
-  * To respond to your inquiries, and contact and communicate with you when necessary;
-  * To review the usage and operations of our Site, develop new products or services, and conduct analysis to enhance or improve our content, products, and services;
-  * To provide you with customized content, targeted offers, and , via email, or across other websites, social media, or online services;
-  * To contact you with information, newsletters and promotional materials from us or on behalf of our partners and affiliates;
-  * To use your data in an aggregated non-specific format for analytical and demographic purposes;
-  * To address problems with the Site or our business, and to protect the security or integrity of the Site and our business;
-  * For other purposes disclosed at the time you provide your information or otherwise with your consent.
+ **Registration:** When you register on the Services, such as to subscribe to a newsletter, request information or participate in a giveaway, you will be asked to provide certain Personal Information, which we will use to fulfill your request.
+
+ **Surveys:** We may ask you to complete surveys or opinion polls from time to time. We only use the information that we collect from surveys in an aggregate manner, not in individually identifiable form. We may use specific comments shared on surveys, in an anonymized way. We may also reach out for for more clarification on survey responses and potentially request more and permission to share. But we will never share anything personally identifiable shared on a survey unless given consent.
+
+ **User Data** that includes data about how you use our website and any online services together with any data that you post for publication on our website or through other online services. We process this data to operate our website and ensure relevant content is provided to you, to ensure the security of our website, to maintain back- ups of our website and/or databases and to enable publication and administration of our website, other online services and business. Our lawful ground for this processing is our legitimate interests which in this case are to enable us to properly administer our website and our business.
+
+ **Technical Data** that includes data about your use of our website and online services such as your IP address, your login data, details about your browser, length of visit to pages on our website, page views and navigation paths, details about the number of times you use our website, time zone settings and other technology on the devices you use to access our website. The source of this data is from our analytics tracking system. We process this data to analyze your use of our website and other online services, to administer and protect our business and website, to deliver relevant website content and advertisements to you and to understand the effectiveness of our advertising. Our lawful ground for this processing is our legitimate interests which in this case are to enable us to properly administer our website and our business and to grow our business and to decide our marketing strategy.
+
+ _Some examples include:_
+
+ **Web Logs:** We maintain web logs that automatically record basic information about everyone who visits the Services. We use web log information to help us design our website, to identify popular features, to improve our services, and for other managerial and analytic purposes. We may also use web logs to help identify any person who may be misusing the Services. These logs contain:
+
+• The Internet domain from which you access the Services.  
+• Your IP address.  
+• The type of browser and operating system that you use.  
+• The date and time you visited the Services.  
+• The pages that you visited on the Services.  
+• The address of the website you linked from to get to the Services.
+
+ **Marketing Data** that includes data about your preferences in receiving marketing from us and our third parties and your communication preferences. We process this data to enable you to partake in our promotions such as competitions, prize draws and free give-aways, to deliver relevant website content and advertisements to you and measure or understand the effectiveness of this advertising. Our lawful ground for this processing is our legitimate interests which in this case are to study how customers use our products/services, to develop them, to grow our business and to decide our marketing strategy.
+
+More specifically, here are some examples:
+
+ **Linking from Emails.** If you click a link to any of our Sites from an email message from us, we will be able to identify your email address and associate that email address with the manner in which you use the Sites (e.g., which pages you visit).
+
+ **Visitors:** If you are just visiting the Sites and not registering, requesting information, contacting us, or posting to a public area of the Services, and you did not access the Sites from a link contained in one of our email communications, we will not ordinarily collect any Personal Information about you except through web logs, as described below. In that case, we obtain the information that you provided and will use it to respond to your inquiry or fulfill your request if we can. We do not share any of this information with anyone else, except to respond to your request, if you consent, or as otherwise described in this privacy policy.
+
+ **Web Logs:** We maintain web logs that automatically record basic information about everyone who visits the Services. We use web log information to help us design our website, to identify popular features, to improve our services, and for other managerial and analytic purposes. We may also use web logs to help identify any person who may be misusing the Services. These logs contain:
+
+• The Internet domain from which you access the Services.  
+• Your IP address.  
+• The type of browser and operating system that you use.  
+• The date and time you visited the Services.  
+• The pages that you visited on the Services.  
+• The address of the website you linked from to get to the
+
+####  **Services.**
+
+ **Cookies:** We use cookies, web beacons and similar technology to help you navigate the Services, to allow us to learn how you use the Services, and to improve the Services. Cookies are text files we place in your computer’s browser to store your preferences. Cookies, by themselves, do not reveal any Personal Information unless you choose to provide this information to us by, for example, registering at our Site. However, once you choose to provide Personal Information to the Services, this information may be linked to the data stored in the cookie. If you decide not to permit cookies on your computer, this may affect your ability to use the Services. You may opt out of this, or set your preferences personally – for more information, visit: <http://optout.networkadvertising.org/>
+
+* We may use Customer Data, User Data, Technical Data and Marketing Data to deliver relevant website content and advertisements to you (including Facebook adverts or other display advertisements) and to measure or understand the effectiveness of the advertising we serve you. Our lawful ground for this processing is legitimate interests which is to grow our business. We may also use such data to send other marketing communications to you. Our lawful ground for this processing is either consent or legitimate interests (namely to grow our business).
+
+#### Sensitive Data
+
+We do not collect any Sensitive Data about you. Sensitive data refers to data that includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data. We do not collect any information about criminal convictions and offenses.
+
+Where we are required to collect personal data by law, or under the terms of the contract between us and you do not provide us with that data when requested, we may not be able to perform the contract (for example, to deliver goods or services to you). If you don’t provide us with the requested data, we may have to cancel a product or service you have ordered but if we do, we will notify you at the time.
+
+We will only use your personal data for a purpose it was collected for or a reasonably compatible purpose if necessary. For more information on this please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and please use the subject line: “Data Request.” In case we need to use your details for an unrelated new purpose we will let you know and explain the legal grounds for processing.
+
+We may process your personal data without your knowledge or consent where this is required or permitted by law.
+
+We do not carry out automated decision making or any type of automated profiling.
+
+## HOW WE COLLECT YOUR PERSONAL DATA
+
+We may collect data about you by you providing the data directly to us (for example by filling in forms on our site, by entering a giveaway or by sending us emails). We may automatically collect certain data from you as you use our website by using cookies and similar technologies.
+
+We may receive data from third parties such as analytics providers such as Google based outside the EU, advertising networks such as Facebook based outside the EU, such as search information providers such as Google based outside the EU, providers of technical, payment and delivery services, such as data brokers or aggregators.
+
+We may also receive data from publicly availably sources such as Companies House and the Electoral Register based inside the EU.
+
+## MARKETING COMMUNICATIONS
+
+Our lawful ground of processing your personal data to send you marketing communications is either your consent or our legitimate interests (namely to grow our business).
+
+Before we share your personal data with any third party for their own marketing purposes we will get your express consent.
+
+You can ask us or third parties to stop sending you marketing messages at any time by clicking the unsubscribe button at the bottom of our emails or by sending us an email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+
+If you opt out of receiving marketing communications this opt-out does not apply to personal data provided as a result of other transactions, such as purchases, warranty registrations etc.
+
+ **Browser notifications**
+
+Browser notifications are managed by a third party software. If you have opted in for browser notifications (pop-up on your device when an article is published), you may opt out of these by following the general instructions below. Note these instructions may vary between browser versions and devices:
+
+ _ **Desktop**_
+
+ **In Chrome** , navigate to Settings, then navigate to Advanced. Select Content Settings under Privacy and Security. Select Notifications, where you can manage specific site notifications under “Block” and “Allow”. If you would like to turn off notifications for the Site, select the Site’s listing, then check “Block.”
+
+ **In Firefox,  **navigate to the menu and select Options. Navigate to Privacy & Security. Navigate to Permissions and then click Notifications Settings, where you can turn off notifications for individual sites.
+
+ **In Safari** , navigate to Preferences, then Websites and then Notifications, where you can pick which sites are able to send you notifications.
+
+ **On Android Mobile Devices,  **open the Chrome browser and navigate to Menu, then navigate to Settings. Navigate to Site Settings and then Notifications, where you can determine which sites you’d like to allow notifications for. On the following screen, select clear & reset, then click your preferred options.
+
+## How We Use Your Information
+
+Here is how we may use your information and data:
+
+ **Communicating with You.** We may use information that we collect from you for the purpose of communicating with you and responding to your inquiries. Those communications could, for example, take the form of service updates, promotions for products or services that we or one of our marketing partners provide, or e-newsletters.
+
+ **Service Providers:** We at times contract with third party service providers to perform functions for us. These service providers may be given access to the information we collect for the purpose of performing those functions, but they will be contractually bound to maintain the confidentiality of the information and not to use it for any other purpose.
+
+ **Social Media.** The Sites may include social media features, such as Facebook “Like” button and a “Share” button. These features may collect your IP address and which page you are visiting on the Site; and they may set a cookie to enable the feature to function properly. Your interactions with these features are governed by the privacy policy of the company that provides the feature.
+
+ **Business Transfers:** If we were to transfer all or substantially all of our assets to another company, one of the assets we would likely include in the transfer is our database of Personal Information.
+
+ **Disclosures for Legal Reasons:** We will disclose Personal Information when we are required to do so by law, regulation or securities exchange requirement, for example, in response to a court order or subpoena. We also may disclose such information in response to a law enforcement agency’s request or when we believe such disclosure is appropriate to protect our legal rights or to safeguard anyone’s property or safety.
+
+## How We Share Information – And Why
+
+We may have to share your personal data with the parties set out below:
+
+* Other companies in our group who provide services to us.
+
+* Other companies in our group who provide services to us.
+
+* Professional advisers including lawyers, bankers, auditors and insurers
+
+* Government bodies that require us to report processing activities
+
+* With third party advertising platforms so that we can create marketing campaign advertising (e.g. using your email address to create a Facebook targeting audience).
+
+* When you participate in interactive area of our website, service, and products, and your information may be displayed to other users: such information may include, your name, photo, the comment, and other information you chose to provide at the time of submission. In the case of Surveys, we will never share personally identifiable information without express consent.
+
+* In response to a request for information if we believe disclosure is in accordance with, or required by, any applicable law, regulation or legal process;
+
+* If we believe your actions are inconsistent with our user agreements or policies, or to protect the rights, property and safety of Company or others;
+
+* Third parties to whom we sell, transfer, or merge parts of our business or our assets.
+
+* With your consent or at your direction.
+
+We require all third parties to whom we transfer your data to respect the security of your personal data and to treat it in accordance with the law. We only allow such third parties to process your personal data for specified purposes and in accordance with our instructions.
+
+## INTERNATIONAL TRANSFERS
+
+We are subject to the provisions of the General Data Protection Regulations that protect your personal data. Where we transfer your data to third parties outside of the EEA, we will ensure that certain safeguards are in place to ensure a similar degree of security for your personal data. As such:
+
+* We may transfer your personal data to countries that the European Commission have approved as providing an adequate level of protection for personal data by; or
+
+* If we use US-based providers that are part of EU-US Privacy Shield, we may transfer data to them, as they have equivalent safeguards in place; or
+
+* Where we use certain service providers who are established outside of the EEA, we may use specific contracts or codes of conduct or certification mechanisms approved by the European Commission which give personal data the same protection it has in Europe.
+
+If none of the above safeguards is available, we may request your explicit consent to the specific transfer. You will have the right to withdraw this consent at any time.
+
+## DATA SECURITY
+
+We have put in place security measures to prevent your personal data from being accidentally lost, used, altered, disclosed, or accessed without authorisation. We also allow access to your personal data only to those employees and partners who have a business need to know such data. They will only process your personal data on our instructions and they must keep it confidential.
+
+We have procedures in place to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach if we are legally required to.
+
+## DATA RETENTION
+
+We will only retain your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.
+
+When deciding what the correct time is to keep the data for we look at its amount, nature and sensitivity, potential risk of harm from unauthorised use or disclosure, the processing purposes, if these can be achieved by other means and legal requirements.
+
+For tax purposes the law requires us to keep basic information about our customers (including Contact, Identity, Financial and Transaction Data) for six years after they stop being customers.
+
+In some circumstances we may anonymise your personal data for research or statistical purposes in which case we may use this information indefinitely without further notice to you.
+
+## YOUR LEGAL RIGHTS
+
+Under data protection laws you have rights in relation to your personal data that include the right to request access, correction, erasure, restriction, transfer, to object to processing, to portability of data and (where the lawful ground of processing is consent) to withdraw consent.
+
+ **You can see more about these rights at:**  
+<https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/>  
+If you wish to exercise any of the rights set out above, please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
+You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive or refuse to comply with your request in these circumstances.
+
+We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.
+
+We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you.
+
+If you are not happy with any aspect of how we collect and use your data, you have the right to complain to the Information Commissioner’s Office (ICO), the UK supervisory authority for data protection issues (www.ico.org.uk). We should be grateful if you would contact us first if you do have a complaint so that we can try to resolve it for you.
+
+## THIRD-PARTY LINKS
+
+This website may include links to third-party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy notice of every website you visit.
+
+## COOKIES
+
+You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly.
+
+## COLLECTION OF INFORMATION BY THIRD PARTIES
+
+We may use a third-party advertising company to serve ads when you visit our Site. If we do so, this company may use information (not including your name, address, email address or telephone number) about your visit to the Services in order to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements to the Services, the advertiser might place or recognize a unique “cookie” on your browser.
+
+We may offer you the opportunity to contact other companies, such as advertisers, marketing affiliates and content providers, to obtain information or to buy products or services. You decide when and whether to give your Personal Information to these companies. If you provide information, its use and security is governed by the policies and practices of those companies and not by this privacy policy.
+
+We make no representations or warranties about any of these other companies or their privacy or security policies. Once you click through to an unaffiliated website, this privacy policy no longer applies. We strongly urge you to read the applicable policies of these other companies and their websites.
+
+## 4\. YOUR PRIVACY CHOICES
+
+If you would like us to stop sending you email or other communications or would like to access your Personal Information to correct or delete it, you may send us a request at our email or postal addresses indicated below. We will endeavor to satisfy such requests within a reasonable time.
+
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
+55 Washington Street #322  
+Brooklyn, NY, 11201
+
+## 5\. DO NOT TRACK.
+
+There will be no difference in how we collect or use data if you set your web browser to send a “Do not track” or similar request when you visit this Site.
+
+## 6.LINKS.
+
+Our Site includes links to other websites whose privacy practices differ from ours. If you submit personal information to any of those websites, your information will be subject to their practices and policies.
+
+## 7.SECURITY
+
+We maintain all Personal Information with physical, electronic, and managerial safeguards to help ensure the security and confidentiality of the data against reasonably foreseeable risks. Security is designed to prevent unauthorized use, access, disclosure, destruction, and changes of data.
+
+## 8.CHILDREN
+
+This Site is intended for use by adults. We do not target, or knowingly collect any Personal Information from, children under the age of 13.
+
+## 9.ACCOUNTABILITY
+
+We are committed to adhering to our privacy policy and applicable laws and to making your online experience secure and valuable. If you have a question, request, complaint, dispute or concern related to this privacy policy, you may send a message by email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or in writing to Sleepopolis LLC, Attn: Privacy, 55 Washington Street #322, Brooklyn, NY, 11201. We will work with you to obtain a prompt resolution of any issues you may have.
+
+If you have any questions about this Privacy Policy, please contact us.
+
+## 10\. Sale of Business
+
+Should we sell this site or our business, your personal information will be an asset transferred to the new owner.
+
+## 11\. More Information
+
+Please also reference our [cookies policy](https://sleepopolis.com/sleepopolis-cookies-policy/), [terms and conditions](https://sleepopolis.com/terms-of-use/), and [disclosure](https://sleepopolis.com/disclosures/) pages for more related information.
+
+The following two tabs change content below.
+
+  * Bio
+  * Latest Posts
 
 
 
-Additionally, if you use the Site to connect with third party services you authorize us to use information from and about you, on your behalf, to interact with these third party services based on your requests.
-
-## 3\. INFORMATION WE SHARE
-
-We may share the information we collect from and about you in the following ways:
-
-  * **_Affiliates_** : We may share your information with our affiliates and subsidiaries for business, operational, promotional and marketing purposes.
-  * **_Service Providers_** : We may share your information with third party service providers that provide business, professional or technical support functions for us, help us operate our business and the Site, or administer activities on our behalf.
-  * **_Sweepstakes, Contests, and Promotions_**. If you choose to enter into one of our sweepstakes, contests, or other promotions (a “Promotion”) we may disclose your information to third parties or the public in connection with the administration of such Promotion, as required by law, as otherwise permitted by the Promotion’s official rules, or otherwise in accordance with the terms of this Privacy Policy.
-  * **_Other Third Parties_** : We may share your information with our select partners, affiliates, and other third parties that we believe may have offers of interest to you.
-  * **_Legal Matters; Safety_** : We may access and disclose your information to respond to subpoenas, judicial processes, or government requests and investigations, or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law. We may disclose your information to protect the security of our Site, servers, network systems, and databases. We also may disclose your information as necessary, if we believe that there has been a violation of our Terms of Use, any other legal document or contract related to our services, or the rights of any third party.
-  * **_Sale or Transfer of Business or Assets_** : We may sell or purchase assets during the normal course of our business. If another entity acquires us or any of our assets, information we have collected about you may be transferred to such entity.  In addition, if any bankruptcy or reorganization proceeding is brought by or against us, such information may be considered an asset of ours and may be sold or transferred to third parties.  Should such a sale or transfer occur, we will use reasonable efforts to try to require that the transferee use personal information provided through this Site in a manner that is consistent with this Privacy Policy.
-  * **_Aggregate or Anonymous Non-Personal Information_** : We may also share aggregate or anonymous non-personal information with third parties for their marketing or analytics uses.
-  * **_Other_** : We also may share your information as disclosed to you at the time of collection.
-
-
-
-## 4\. YOUR CHOICES AND OPT-OUTS
-
-**_Cookies, Tracking Options and California Do Not Track Disclosures_**
-
-Certain parts of our Site require cookies. You are free to set your browser or operating system settings to limit certain tracking or to decline cookies, but by doing so, you may not be able to use certain features on the Site or take full advantage of all of our offerings. Please refer to your Web browser’s or operating system’s website or “Help” section for more information on how to delete and/or disable your browser or operating system from receiving cookies or controlling your tracking preferences.
-
-Our system may not respond to Do Not Track requests or headers from some or all browsers. We may use cookies or other technologies to deliver more relevant advertising and to link data collected across other computers or devices that you may use.  To understand your choices for receiving more relevant advertising or to manage your settings, please review the information below:
-
-  * To learn more about the use of cookies or other technologies to deliver more relevant advertising and to know your choices with respect to collection and use of the data by these third party tools, you may visit the Digital Advertising Alliance’s (DAA) opt-out page at [http://www.aboutads.info/choices](http://www.aboutads.info/choices/).
-  * ** ** If you wish to prevent your data from being used by Google Analytics, Google has developed the Google Analytics opt-out browser add-on available [here](https://tools.google.com/dlpage/gaoptout/).
-  * ** ** On your mobile device, you may also adjust your privacy and advertising settings to control whether you want to receive more relevant advertising.
-
-
-
-**_Opt Out Preferences_**
-
-We provide our customers with the opportunity to update their information or opt-out of having their information used for purposes not directly related to placement, processing, fulfillment, or delivery of a product order or servicing of your product. To opt-out of marketing communications, you may:
-
-  * Send us an e-mail at [contact@sleepopolis.com](mailto:contact@sleepopolis.com);
-  * Contact us by mail at the address below in the “Contact Us” section, or
-  * Unsubscribe from our email communications at any time by unsubscribing or following the instructions contained within the email.
-
-
-
-If you receive marketing communications from one or more of our affiliates, you must opt-out individually from each of the affiliates from which you are receiving brand-specific marketing communications.
-
-## 5\. YOUR CALIFORNIA PRIVACY RIGHTS
-
-If you are a California resident, you may opt-out of our disclosure of personal information to third parties affiliated companies for their direct marketing purposes.  To opt out, please contact us at [contact@sleepopolis.com](mailto:contact@sleepopolis.com). You must put the statement “Your California Privacy Rights” in the subject field. We are not responsible for notices that are not labeled or sent properly, or do not have complete information.
-
-Non-affiliated third parties are independent from Halesopolis and if you wish to receive information about your disclosure choices or stop communications from such third parties, you will need to contact those non-affiliated third parties directly.
-
-## 6\. THIRD-PARTY CONTENT, LINKS, AND PLUG-INS
-
-** ** The Site may have links to third-party websites, which may have privacy policies that differ from our own.  We are not responsible for the practices of such sites.
-
-The Site may also offer you the ability to interact with social plugins from social media sites, which may allow us and/or the social media site to receive data from or about you. In some cases, we may know that you clicked on a social plugin, such as a Twitter Follow button, or receive other information from the social media sites. Similarly, if you have previously provided personal information to a third-party operating a plug-in on this Site, then such third-party may recognize you on this Site. Your use of social network plugins is subject to each social media site’s privacy policy, which may be different from ours, so please read these policies carefully to understand their policies and your options. As with linked sites, we have no control over the information that is collected, stored, or used by social network plugins, and are not responsible for the practices of such sites.
-
-## 7\. PUBLIC FORUMS
-
-Any information you may disclose on our Site, in blogs, on message boards, in chat rooms, or on other public areas on the Site or other third-party websites that this Site may link to, becomes public information.  Please exercise caution when disclosing personal information in these public areas.
-
-## 8\. CHILDREN’S PRIVACY
-
-Protecting children’s privacy is important to us. We do not direct the Site to, nor do we knowingly collect any personal information from, children under the age of thirteen.  If we learn that a child under the age of thirteen has provided personally identifiable information to the Site, we will use reasonable efforts to remove such information from our files.
-
-## 9\. DATA SECURITY
-
-We have taken certain physical, administrative, and technical steps to safeguard the information we collect from and about our customers and Site visitors. While we make every effort to help ensure the integrity and security of our network and systems, we cannot guarantee our security measures.
-
-## 10\. DATA STORAGE
-
-Your personal information may be stored on servers in the United States and is subject to the laws of the United States, where the data protection and other laws may differ from those of other countries. Your personal information may be disclosed in response to inquiries or requests from government authorities or to respond to judicial process in the countries in which we operate.
-
-## 11\. REVISIONS TO THIS PRIVACY POLICY
-
-We reserve the right, at our sole discretion, to change, modify, add, remove, or otherwise revise portions of this Privacy Policy at any time. When we do, we will post the change(s) on the Site.  Your continued use of the Site following the posting of changes to these terms means you accept these changes.  If we change the Privacy Policy in a material way, we will provide appropriate notice to you.
-
-## 12\. HOW TO CONTACT US
-
-If you have any questions or concerns about this Privacy Policy or the practices described herein, you may contact us at [contact@sleepopolis.com](mailto:contact@sleepopolis.com) or by mail to:
-
-Halesopolis LLC  
-4727 E. Bell Road Suite 45-517  
-Phoenix, Arizona 85032  
-Attention: Privacy
+Logan is the content director of Sleepopolis, which means he not only reviews new mattresses every week, but also curates all the comparisons, best of pages, and video guides on the site. He takes a straightforward, honest approach to his reviews and endeavors to give viewers an objective look at each new product he tries out. Logan’s perfected his method over the course of personally testing over 100 different mattresses, so he’s not only able to discern the overall vibe of a specific bed, but to contextualize its feel within the bed-in-a-box market as a whole. Needless to say, his sleep knowledge runs deep, and he loves nothing more than sharing that knowledge with his readers. When he’s not hopping on a new bed or working with our editorial team to whip up an engaging sleep education guide, you can find him reading books on world history, walking his dog Pepper, or searching for the best cheeseburger in New York City.
