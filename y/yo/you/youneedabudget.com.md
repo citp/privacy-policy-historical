@@ -1,40 +1,6 @@
-> *The following text is extracted and transformed from the youneedabudget.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627074043id_/https%3A//www.youneedabudget.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youneedabudget.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227152330id_/https%3A//www.youneedabudget.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | YNAB
-
-On average, new budgeters save $600 by month two and more than $6,000 the first year! Pretty solid return on investment.
-
-  * **1**
-
-Try YNAB FREE for 34 days
-
-  * **2**
-
-Start taking control of your money
-
-  * **3**
-
-After your trial, continue for $4.17/month, billed annually at $50
-
-
-
-
-  * **Bank Syncing** Easily connect all your bank accounts in one place.
-  * **On the Go** Easily budget together, across devices, in real-time!  
-
-  * **Personal Support** Personal support and teaching, 7 days a week.  
-
-  * **Debt Paydown** The tools you need to get debt-free & stay that way.
-  * **Reporting Bliss** Measuring tangible progress leads to more progress. 
-  * **Goal Tracking** Set, track, and reach your goals—faster!
-
-
-
-### Sign up for a free trial today!
-
-No credit card required.
-
-Close 
 
 At YNAB, we respect your privacy and are committed to protecting it. Every company has a privacy policy, but when it comes right down to it, we want you to understand how we protect your privacy and to know what data we collect and how we use it. So let’s get to it.
 
@@ -208,7 +174,7 @@ When you choose to use third party apps (such as the YNAB Toolkit or other OAuth
 
 ### Children under the age of 13
 
-Our Website is not intended for children under 13 years of age (or 16 years of age for those who habitually reside in the EU, which applies to the remainder of the paragraph that follows). No one under these ages may provide any personal information to the Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Website or on or through any of its features, register on the Website, make any purchases through the Website, use any of the interactive or public comment features of this Website or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#83f3f1eaf5e2e0fac3faecf6ede6e6e7e2e1f6e7e4e6f7ade0ecee).
+Our Website is not intended for children under 13 years of age (or 16 years of age for those who habitually reside in the EU, which applies to the remainder of the paragraph that follows). No one under these ages may provide any personal information to the Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Website or on or through any of its features, register on the Website, make any purchases through the Website, use any of the interactive or public comment features of this Website or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at [privacy@youneedabudget.com](mailto:privacy@youneedabudget.com).
 
 ### Your Rights
 
@@ -250,4 +216,4 @@ The Services offered by YNAB are operated from the United States. If you are loc
 
 ### Further reading
 
-We take security quite seriously around here, and go into detail about the steps we take to protect users’ data in our [Security Policy](https://www.youneedabudget.com/security). For more legal reading, see our [Terms of Service](https://www.youneedabudget.com/terms). If you need further assistance, email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#601012091601031920190f150e050504010215040705144e030f0d).
+We take security quite seriously around here, and go into detail about the steps we take to protect users’ data in our [Security Policy](https://www.youneedabudget.com/security). For more legal reading, see our [Terms of Service](https://www.youneedabudget.com/terms). If you need further assistance, email [privacy@youneedabudget.com](mailto:privacy@youneedabudget.com).
