@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eniki-beniki.info privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626051830id_/http%3A//eniki-beniki.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eniki-beniki.info privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227235523id_/http%3A//eniki-beniki.info/privacy-policy) for the most accurate reproduction.*
 
 # » Privacy Policy • Index of Online Schools
 
