@@ -1,93 +1,138 @@
-> *The following text is extracted and transformed from the pixmac.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028220031id_/http%3A//www.pixmac.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixmac.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227150133id_/https%3A//www.pond5.com/legal/privacy) for the most accurate reproduction.*
 
-# Privacy policy | Pixmac
+# Pond5 ~ World's Largest Stock Video Library & More
 
-At Pixmac, we understand and respect your concern about the privacy of any information you supply while at our web site. We believe that knowledge is the key to monitoring and protecting how your information is used on the Internet. This statement sets forth our Privacy Policy and describes the practice we follow with respect to all visitors to this web site, which is owned and operated by Pixmac, s.r.o. If you have any questions regarding this privacy statement please do not hesitate in contacting us. Email your questions to user@pixmac.com or send them to our physical address Pixmac, Koněvova 141/2660, 130 83 Praha 3, Czech Republic. Please note that by agreeing to Pixmac’ Privacy Policy and providing your personally identifiable information you consent to: the use of your personal information by Pixmac and its parent, affiliates and subsidiaries for the uses identified in Section titled “Personal Information,” in accordance with this privacy policy; and the transfer of your information to servers located in the Czech Republic.
+#### Pond5 Privacy and Cookie Policy
 
-##  Children
+Effective on May 25, 2018
 
-Children (persons under the age of 18) are not eligible to use this Web Site unsupervised and we ask that children do not register for an account or submit any personal information to us. By using this Web Site unsupervised, and/or registering for an account, you warrant that you are 18 years of age or older.
+Pond5, Inc., Pond5 Media Ireland Limited and their subsidiaries (collectively,"Pond5", “we” and “us”) own and operate the www.pond5.com website, the stock media marketplace and platform thereon, and the other websites and mobile applications of Pond5 and its subsidiaries (together with such website, collectively, our "Website").
 
-##  Personal Information
+**Please read this policy and contact us if you have any questions. By accessing or using our Website, you consent to our collection, use, processing and sharing of your personal information/data in accordance with this policy.**
 
-Pixmac collects certain personal information from users of this Web Site. To create user accounts, authorized users must provide certain contact and account information such as name, email address, billing address, and phone number in order to access, license and download images.  We may also collect your company information such as company name, address and mobile phone number.   
-Pixmac may use this information for the following purposes: to process your order and any invoices; to maintain or update your Pixmac account; to send you updates about special offers, new services, special promotions, and noteworthy news and events, which you may opt-out from receiving at anytime, please see the “Email” section below; to fulfill the terms of a promotion or contest; to fulfill a service to you, for example, if you choose to submit content to the Web Site, to send you your payments when users purchase photos from you, we may use your personal information to respond to your submission; to contact you in response to forms such as “Contact Us” or Live Chat or emailed requests; to contact you about a material change to this Privacy Policy or Site Usage Agreement, if necessary; to comply with the law or in the good faith belief that such action is necessary in order to conform with the requirements of the law or to comply with legal process served on us. Pixmac may use certain account information such as credit card number and company information of authorized users to conduct credit inquiries.
+Pond5 is committed to protecting your privacy. This policy tells you about our collection, use, processing and sharing of your personal information and our use of cookies. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. The terms of this policy apply to all personal information collected by Pond5 on or through our Website. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-##  Lightbox Referral
+#### Collection of Personal Information 
 
-If you use our referral service for informing a friend about our Web Site, or inviting a friend to view your lightbox, we will ask you for the friend's name and email address. Pixmac will automatically send your friend a one-time email inviting him or her to visit the Web Site. Pixmac does not retain this information.
+We may ask you to provide us the following types of personal information from you:
 
-##  Affiliate
+  1. Information collected when you set up a Pond5 account or visit our Website including your member name and password, your name, your mailing and resident address, email address and phone number. Passwords are collected and stored in an encrypted format by an automated process.
+  2. Information collected when you make a content license purchase, including your billing address, payment information and if applicable, your VAT identification number. As noted below under “Payment Gateways”, payment information such as your credit/debit card or financial account number is provided through a secure tunnel interface directly to a 3rd party payment processor, and is not accessible to or collected by us.
+  3. Information you provide us about your business such as company name, company size, business type.
+  4. If you become a Pond5 content contributor, certain additional information may be requested and collected when you sign-up as a contributor or modify your Pond5 account, including (i) banking and other financial institution or payment gateway information required in order for us to compensate you; (ii) your government taxpayer identification number, required in order for us to prepare tax information documents; (iii) other information that we determine is needed to assist us in marketing your Content, confirm your identity or your rights to the content you are providing to us; and (iv) a copy of your photo identification (for example, your driver's license).
 
-Once you register with the site you are automatically provided with an affiliate link that put on you website or blog, this will link back to your Pixmac profile. Your Pixmac profile can be viewed by non-registered users.  
-Users may use the widget as a tool to increase the number of visitors viewing their images or to display previews of Pixmac images on their own websites. Widgets don't reveal any personal data about Pixmac users.
 
-##  Profile Information
 
-Your profile information (such as company type and language preference) in the registration form is used by Pixmac to create personalized content, services, and advertising on the Web Site. Pixmac may also profile your Web Site activity in order to accurately track your account and provide you with Pixmac products and services that correspond to your interests. You also have the option to upload a photo of yourself as your profile picture. Please note that your photo will be publicly available to users of the site if you wish to use a personal photo of yourself.  You may fill out the details section of the profile in order to allow users to know more about you. Please be aware that this information may be displayed to other users of the site. Pixmac may also compile data in aggregate form so that we may better understand the users that are visiting our Web Site. For example, we may produce reports on the most popular search terms by collecting general search term data based on individual searches. Aggregate data is anonymous and does not contain any personal information that identifies a user. Pixmac may provide non-identifying and aggregate usage and volume statistical information from our Web Site users to third parties for their audit, research and analytical purposes.
+You may always choose not to provide personal information, but if you so choose, you may be ineligible to be a Website content contributor or customer, or participate in or complete transactions on our Website and/or certain other services may not be available to you.
 
-##  Automatically Collected Information
+In addition to the above, for each visit to Website, Pond5 collects IP address and the type of device accessing Website (for example mobile phone or desktop), and we store and associate this information with your Pond5 Website account. If you register your Website account using your Facebook account, we also collect your Facebook user name and email address to authenticate your account.
 
-As is true of most web sites, when you access and use the Web Site, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, to analyze trends, to administer the Web Site, to track users' movements around the Web Site and to gather demographic information about our user base as a whole. We do link this automatically collected data to personally identifiable information. IP addresses are tied to personally identifiable information to segregate customer types for analytical purposes.
+Locations where your data may be Stored or Processed
 
-##  Use of Service Providers
+Personal information collected by Pond5 may be shared with its affiliates and subsidiaries and may be stored and processed in the U.S., Ireland or any other country in which Pond5 or its affiliates or subsidiaries or agents maintain facilities, and by providing us with your personal information and using our Website or services, you consent to any such transfer of information outside of your country.
 
-We occasionally hire or partner with other companies to provide limited services on our behalf, such as managing and handling the processing and delivery of mailings (both email and postal mail), providing customer support, processing transactions, or performing statistical analysis of our services. We will only provide those companies the personal information they need to deliver the service. They are required to maintain the confidentiality of your information and are prohibited from using that information for any other purpose.  
-On some of our credit processing service provider’s pages, it may look as though you are still on Pixmac.com, the information collected on these pages is collected directly from our third party service providers in order to process your payment information.  These service providers then share the information back with Pixmac in order for us to complete the order and ship it out.  Our privacy policy does not govern the collection and use of this information.  
-We use Skype and ICQ to allow you to chat with one of our representatives.  Please note that any information you provide during these chat sessions will be logged and may be used to contact you in regards to your inquiry.  The only person who has access to your information is the representative to whom you are speaking with.
+Use of your Personal Information
 
-##  Change of Address or Contact Information
+As is true of most internet sites, we automatically gather information about your web session such as your IP address, browser type, referring/exit pages, and operating system.
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, or delete inaccuracies in your information by making the change through the “My Profile” page within your account, by emailing our Customer Support at user@pixmac.com, or by contacting us by telephone or postal mail at the contact information listed below. Your request will be processed and implemented within thirty (30) days.
+We use this information:
 
-##  Security
+  1. to administer your Pond5 account;
+  2. to process your transactions;
+  3. if you are a content contributor, to confirm your identity, identify your uploaded content as your content, review your content, process payment and information to be provided to you and to prepare tax information documents;
+  4. to communicate with you about your transactions, new products and services including transaction-related communications such as welcome letters, billing reminders, and purchase confirmations;
+  5. to provide customer service;
+  6. to send you requested content, sales or service information;
+  7. to assess the needs of your business to determine suitable content or services;
+  8. to display content that is customized to your interests and preferences;
+  9. to respond to customer content or services requests;
+  10. to send you a newsletter or information about our content, services, programs and offerings or other information or offers that may be of interest
+  11. to perform anonymized research and analysis aimed at improving our content, services and technologies, including sending you surveys;
+  12. to run contests, select entrants, and choose prize winners; and/or
+  13. to operate our blogs or comment areas of our Website.
 
-Pixmac has a number of operational functions in place to protect the confidentiality of personal information. For example, we store the personal information you provide on computer systems with limited access that are located in secured facilities. Pixmac' employees are trained and kept up-to-date on our security procedures. If you have any questions about the security at our Web Site, you can send an email to user@pixmac.com.
 
-##  Cookies
 
-When you visit the Web Site, Pixmac sends your computer a cookie, which is a small file that resides on your computer's hard drive and contains non-personally identifiable information about the user. Cookies only identify the user's computer. Cookies allow Pixmac to make its Web Site more useful by storing information about your preferences. For example, Pixmac will send your computer a cookie to maintain default settings such as your language preference. You can set your browser's options not to accept cookies, but this may prevent you from accessing all of the features of the Pixmac Web Site. Pixmac uses a third party to assist in managing the licensing of our images. This third party uses clear GIFs, a tiny 1x1 pixel GIF, to digitally watermark our images, in both a visible and invisible manner. When you purchase a licensed image from us, the visible watermark is then removed from the image, however, in certain lower resolution images, an invisible watermark may remain, allowing Pixmac and the third party to track certain usage of such images on the Internet. Some of our advertisers or third party service providers use cookies on our site.  We do not have access or control over these cookies.  Our privacy policy does not cover the use of cookies by third parties.
+Email Opt-Out
 
-##  Email
+You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, visiting your user [preferences page](https://www.pond5.com/my-preferences), or you can contact us at [privacy@pond5.com](mailto:privacy@pond5.com).
 
-Except as set forth in this Privacy Policy, Pixmac does not rent, share or sell email lists to third parties for their promotional purposes. Pixmac may send you email to notify you about your recent order; this will be sent to the email address you provide to Pixmac. Pixmac offers its members the choice to not receive emails or updates about special benefits, promotions, newsletters, or offers from Pixmac. If you no longer wish to receive these updates, or you wish to unsubscribe from your Pixmac account please complete the Contact Us form on the Web Site and let us know in the comments section that you would like to be removed from the mailing list. If you no longer wish to receive our newsletter or promotional communications, you may opt-out of receiving them by following the instructions included in each communication (e.g. following the unsubscribe instructions within the email) or you may contact us at user@pixmac.com.
+Information Obtained Regarding Third Parties
 
-##  Surveys, Promotions, and Contests
+If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us.
 
-Participation in surveys, promotions, or contests on the Web Site is completely voluntary and the user therefore has a choice whether or not to disclose personal information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code). Contact information will be used to notify the winners and award promotional gifts prizes. Survey information will be used for the purposes of monitoring or improving the use of the Web Site.
+#### Information Sharing 
 
-##  ****AddThis Widget****
+We will share your personal information with third parties only in the ways that are described in this privacy policy. We do not sell your personal information to third parties.
 
-We use the addthis widget within our blog section to allow our users to share blog posts from our site on social networking sites in which they obtain accounts. Pixmac has no access or control over these third party sites.
+We may disclose your personal information to third-party service providers who perform services on our behalf. For example, we may hire other companies to handle the processing of payments, to provide data storage, processing or management, to host websites or computer servers, to fulfill orders and shipments, to assist in marketing, to conduct audits, etc. Those third-party service providers (i) are permitted to obtain only the personal information they need to provide the service, (ii) are required by Pond5 to protect personal information to the same extent as Pond5 and as required by applicable law, including, if they process personal information of persons residing in the EU, the GDPR, (iii) are permitted to use such personal information only for the purposes for which it is provided to them, and (iv) are prohibited from using it for any other purpose.
 
-##  Blog
+We may also disclose your personal information
 
-Pixmac offers a blog on the Web Site. If you use the Pixmac' blog, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these discussion threads, blogs or comment boxes.   
-We use the widget within our blog section to allow our users to share blog posts from our site on social networking sites in which they obtain accounts. Pixmac has no access or control over these third party sites.
+  1. as required by law such as to comply with a subpoena, or similar legal process;
+  2. when we believe in good faith that disclosure is necessary to protect our rights or comply with law, protect your safety or the safety of us or others, investigate fraud, defend ourselves from legal claims, or respond to a government request;
+  3. if you are a content contributor, when we believe in good faith that disclosure is necessary and appropriate to facilitate the sale of licenses to your content;
+  4. if Pond5 is involved in a merger, acquisition, or sale of all or a portion of its assets; (In such event, you will be notified via email and/or a notice on our Website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.);
+  5. to our legal counsel and auditors; or
+  6. to any other third party with your prior consent to do so.
 
-##  Facebook plugins
 
-Our website uses social plugins (“plugins”) provided by the social network facebook.com, operated by Facebook Inc., 1601 S. California Avenue, Palo Alto, CA 94304, USA (“Facebook”). The plugins are identifiable by a Facebook logo (white letter f on blue background or a thumb up icon) or the notice “Facebook Social Plugin”. For a full list of all social Plugins please seehttp://developers.facebook.com/plugins.
 
-When you visit a page of our website that contains a social plugin, your browser establishes a direct connection to Facebook servers. Facebook directly transfers the plugin content to your browser which embeds the latter into the website, enabling Facebook to receive information about your having accessed the respective page of our website. Thus we have no influence on the data gathered by the plugin and inform you according to our state of knowledge:
+If you have entered into and/or won a Pond5 contest, we or a contest sponsor may publish your name and city of residence.
 
-The embedded plugins provide Facebook with the information that you have accessed the corresponding page of our website. If you are logged into Facebook, your visit can be assigned to your Facebook account. If you interact with the plugins, for example by clicking “Like”, or entering a comment, the corresponding information is transmitted from your browser directly to Facebook and stored by it. Even if you are not logged into Facebook, there is possibility that the plugins transmits your IP-address to Facebook.
+Payment Gateways and Processors
 
-For the information on the purpose and scope of data collection and procession by Facebook, as well as your rights in this respect and settings options for protecting your privacy please visit Facebook’s privacy policy:http://www.facebook.com/policy.php.
+We have arrangements with PayPal and Adyen under which they act as a payment gateway for our customers to finalize and pay for their purchases. You may choose and arrange with the payment gateway to process payments from you to us. If you are a Pond5 content contributor, you may choose and arrange with a payment gateway or processor to process payments from us to you. In either case, and you will provide your credit/debit card and/or financial institution account information directly to the payment gateway or processor through a secure API tunnel and is not accessible to or collected by us. The applicable payment gateway/processor’s privacy policy will apply to the information you provide to them.
 
- If you are a Facebook member and do not want Facebook to connect the data concerning your visit to our website with your member data already stored by Facebook, please log off Facebook before entering our website. Further you can block Facebook social Plugins by using add-ons for your browser, like the “Facebook Blocker“.
+#### Cookies and Other Tracking Technologies 
 
-##  Links
+We may use Pond5 and third party cookies and other tracking technologies to facilitate Website users use of the Website, for example, to keep track information regarding Website users’ preferences, Website activity and profile information and the IP address of the devices the Website users use to access the Website. The information enables us to link such information to the Website users’ Pond5 accounts and provides verification of their identifying information. Cookies and other tracking technologies are also used to collect general usage and volume statistical information that does not include personal information.
 
-Please be aware that the Web Site may contain links to other sites that are covered by their own privacy policies. Pixmac is not responsible for the privacy practices of such other sites and we encourage our users to be aware when they leave our site. We recommend that our users read the privacy statements of each and every web site that collects personally identifiable information.
+Most web browsers automatically accept cookies but provide controls that allow you to block or delete them. Instructions for blocking or deleting cookies in other browsers may be available in each browser's privacy or help documentation. But please be aware that certain features and capabilities of the Website depend on cookies, so if you choose to block cookies, you may not be able to use those features or capabilities, and your preferences that are dependent on cookies may be lost. If you choose to delete cookies, settings and preferences controlled by those cookies will be deleted and may need to be recreated.
 
-##  Changes of Pixmac' Online Privacy Policy
+Website Analytics
 
-Pixmac reserves the right to change our online privacy policy and modify this privacy statement at any time, so please review it frequently. If we decide to make any material changes to our privacy statement, we will notify you via email or by posting a prominent notice on our Web Site including the home page and other places we deem appropriate, at least thirty (30) days prior to implementing the change so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. You will have a choice as to whether or not we use your information in this different manner.
+We use third party website analytic services, including Google Analytics and New Relic, to gather information about how you and others use our Website, and to facilitate Website users use of the Website. For example, we will know how many users access a specific page and which links they clicked on. We may use this aggregated information to understand and optimize how our Website is used and the information regarding your activity on the Website to assess your content and other needs so that we may offer content and/or services to meet such needs. To find out more about Google Analytics please visit: [support.google.com/analytics/answer/6004245](https://support.google.com/analytics/answer/6004245), or about NewRelic please visit: <https://docs.newrelic.com/docs/using-new-relic/new-relic-security/security/data-security>. 
 
-##  Legal Disclaimer
+Web beacons
 
-We may disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or to comply with a legal process served on our Web Site. If you have any questions about Pixmac' Privacy Policy or concerns about personal information you have supplied to Pixmac, please contact Pixmac Customer Service at user@pixmac.com.
+Certain of our emails may contain electronic images known as Web beacons (sometimes called single-pixel gifs) that are set by our third party service providers. Web beacons are used along with cookies enabling us to associate your responses to your Website account and/or compile aggregated statistics to analyze how our email campaigns are received by their recipients.
 
-Last Updated on 02/08/2010  
- 
+Widgets
+
+Our Website may include Widgets, which are interactive mini-programs that run on our Website to provide specific services from another company (e.g. displaying the news, opinions, music, etc). Personal information, such as your email address, may be collected through a Widget. Cookies may also be set by the Widget to enable it to function properly. Information collected by a Widget is governed by the privacy policy of the company that created it.
+
+Links to Other Internet Sites
+
+Our Website includes links to other Internet sites whose privacy practices may differ from those of Pond5. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Internet site you visit.
+
+#### Security 
+
+The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Website, you can contact us at [privacy@pond5.com](mailto:privacy@pond5.com). If you have any question about the security of a payment gateway or processor, you should contact the payment gateway or processor.
+
+#### Additional Policy Information 
+
+Website Blogs and Forums
+
+Our Website offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.
+
+Reviewing and Correcting and Updating your Personal Information
+
+Under the General Data Protection Regulation (GDPR) in the EU, you have the right to receive a copy of, review and/or update your personal information and to correct any of your personal information in our records that is inaccurate. We extend this right to persons everywhere. If you would like to do so, contact us at [privacy@pond5.com](mailto:privacy@pond5.com).
+
+Deletion or Restriction of Our right to Store or Process your Personal Information
+
+Under the GDPR, you have the right to restrict processing of or request erasure of your personal information. However this right is not absolute, and we will continue to retain and use your personal information as we determine is necessary for management of continuing contractual rights and obligations, the establishment, exercise or defense of legal rights or claims or protect our or other Pond5 contributors or licensee rights, which would include our need to comply with our contractual and other legal obligations, resolve disputes or claims, and enforce our agreements. If you have contributed any content to the Website or downloaded or licensed any content from the Website, because your and our contractual obligations and the rights grant by us to our licensees are perpetual and we could be subject to legal claims for many years, in most cases, we would not erase or stop use of your information.
+
+Notification of Privacy Policy Changes
+
+We may update this privacy policy to reflect changes to our information practices or law or new information at any time and from time to time without notice. We encourage you to periodically review this page periodically for the latest information on our privacy practices. Your continued access to or use of the Website after any such changes are posted will constitute your acceptance of and agreement to the changes. Again, the privacy policy and security practices of payment gateways and processors used to process payments to or from Pond5 will apply to information you provide to them. We encourage you to read those privacy policy before providing your information.
+
+#### Contact Information 
+
+You can contact us about this privacy policy by writing or email us at the address below:   
+Pond5 Inc.  
+251 Park Ave S - 7th Floor  
+New York, NY 10010  
+Attention: Privacy  
+Email: [privacy@pond5.com](mailto:privacy@pond5.com)
