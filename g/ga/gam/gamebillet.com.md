@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamebillet.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627064529id_/https%3A//www.gamebillet.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamebillet.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227145210id_/https%3A//www.gamebillet.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -42,7 +42,7 @@ We do not share your data but we use 3rd parties for their services or as data p
 
 **Right to erasure - deleting your account**
 
-You have a right to erasure of all your personal data. When you decide to permanently delete your account your data will be immediatelly deleted with an exception of your user ID (random 32 character alphanumeric string) will be stored so it can't be used again. If you want to delete your account, you can contact us any time from: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+You have a right to erasure of all your personal data. When you decide to permanently delete your account your data will be immediatelly deleted with an exception of your user ID (random 32 character alphanumeric string) will be stored so it can't be used again. If you want to delete your account, you can contact us any time from: support@gamebillet.com.
 
 All your information will be marked as deleted. Data that may have been stored in logs or backups will be removed during automatic rollover.
 
