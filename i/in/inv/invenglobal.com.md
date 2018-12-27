@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the invenglobal.com privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608024211id_/https%3A//www.invenglobal.com/companyinfo%3Fidx%3D165) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invenglobal.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227135803id_/https%3A//www.invenglobal.com/companyinfo%3Fidx%3D165) for the most accurate reproduction.*
 
-# InvenGlobal - The Gamer's World
+# InvenGlobal - Esports First
 
 ##### **Introduction**
 
