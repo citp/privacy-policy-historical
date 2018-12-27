@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mypolice.qld.gov.au privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626211335id_/https%3A//www.police.qld.gov.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypolice.qld.gov.au privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227050145id_/https%3A//www.police.qld.gov.au/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -8,7 +8,7 @@ The Queensland Police Service (QPS) has established responsible and accountable 
 
 QPS information management policies and procedures conform to the requirements of the [ _Police Service Administration Act 1990_](http://www.legislation.qld.gov.au/Acts_SLs/Acts_SL_P.htm), [ _Public Service Act 2008_](http://www.legislation.qld.gov.au/Acts_SLs/Acts_SL_P.htm), [ _Public Service Regulations 2008_](http://www.legislation.qld.gov.au/Acts_SLs/Acts_SL_P.htm) and [ _Information Privacy Act 2009_](http://www.legislation.qld.gov.au/LEGISLTN/ACTS/2009/09AC014.pdf "Information Privacy Act 2009"). Accountability requirements under these legislative provisions and the [ _Crime and Corruption Act 2001_](http://www.legislation.qld.gov.au/Acts_SLs/Acts_SL_C.htm) apply to any alleged contravention of authorised procedures.
 
-Personal information is defined by Information Privacy Act 2009 as, "information or an opinion (including information or an opinion forming part of a database), whether true or not, and whether recorded in a material form or not, about an individual whose identity is apparent, or can reasonably be ascertained, from the information or opinion."
+Personal information is defined by Information Privacy Act 2009 as, "information or an opinion (including information or an opinion forming part of a database), whether true or not, and whether recorded in a material form or not, about an individual whose identity is apparent, or can reasonably be ascertained, from the information or opinion".
 
 ### Privacy Overview
 
@@ -42,20 +42,15 @@ While QPS provides a secure Information Storage and Security Environment, you sh
 
 This website is operated by QPS. When visiting this site, a record of your visit is logged. The information logged when you access our website is:
 
-  * The user's IP address  
-
-  * The date and time of the visit to the site  
-
-  * The pages accessed and the documents downloaded  
-
-  * The user's operating system  
-
-  * The user's web browser version  
+  * The user's IP address
+  * The date and time of the visit to the site
+  * The pages accessed and the documents downloaded
+  * The user's operating system
+  * The user's web browser version
 
 
 
-
-​Information is recorded for statistical purposes and is used by QPS to monitor the use of the site, and to make improvements. No attempt is made to identify users or their browsing activities except in the event of an investigation into apparent improper use of the QPS Internet facility, or where a law enforcement agency exercises a warrant to inspect the site’s logs.
+Information is recorded for statistical purposes and is used by QPS to monitor the use of the site, and to make improvements. No attempt is made to identify users or their browsing activities except in the event of an investigation into apparent improper use of the QPS Internet facility, or where a law enforcement agency is undertaking an investigation and has legal authority to identify users and/or their browsing activities.
 
 ### Google Analytics
 
@@ -86,7 +81,8 @@ Information that is gathered using the Google Analytics cookie includes:
 
 ​This information will be used by the QPS to optimise the department's site to improve access and useability, and to compile statistical data for reporting purposes.
 
-### Privacy and the Policelink Mobile Application
+### Privacy and the Policelink Mobile Application  
+
 
 Use of the Policelink Mobile App is voluntary. You can decide to download the mobile app onto your device, and can determine the extent to which you use the app once it is downloaded. You also decide what information you choose to provide using the app.
 
@@ -94,36 +90,9 @@ Personal information collected through the Policelink Application may include de
 
 ### Complaints 
 
-​If an individual believes that the Queensland Police Service has not dealt with their personal information in accordance with the Information Privacy Principles, they are entitled under the Information Privacy Act 2009 to make a complaint to the Queensland Police Service.
+If you believe we have handled your personal information in a way that is not consistent with the privacy principles, you can make a complaint. This will help us resolve your complaint and understand where we can improve our management of your personal information.
 
-A privacy complaint must:
+Please note your complaint may involve aspects of misconduct or breach of discipline. While we will look at privacy, we may also need to investigate these other aspects, which can result in disciplinary or criminal processes. The QPS takes your complaint seriously so please be patient with us while we investigate all aspects of it.
 
-  1. Be in writing  
+If you wish to make a complaint please complete the online form on the [Compliments and Complaints](https://www.police.qld.gov.au/online/ComplimentsandComplaints.htm) page.  
 
-  2. Provide a contact address to which notices can be forwarded  
-
-  3. Give particulars of the act or practice complained of  
-
-
-
-
-Enquiries concerning any privacy related matters should be directed to: 
-
-​  
-
-
-Director
-
-Information and Discipline Support Services
-
-Queensland Police Service 
-
-Police Headquarters 
-
-200 Roma Street BRISBANE QLD 4000 
-
-Ph: 3364 4666 
-
-Fax: 3364 4675
-
-​
