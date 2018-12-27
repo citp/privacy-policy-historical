@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 70mack.co privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627082127id_/https%3A//70mack.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 70mack.co privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227160423id_/https%3A//70mack.co/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 70mack
 
@@ -54,7 +54,7 @@ This privacy policy applies only to our online activities and is valid for visit
 This policy does not apply to any information collected offline or via channels other than this website.
 
 **Consent**  
-By using our website, you hereby consent to our privacy policy and agree to its terms. 
+By using our website, you hereby consent to our privacy policy and agree to its terms.
 
 **Update**  
 This Privacy Policy was last updated on: Friday, August 12th, 2016.  
