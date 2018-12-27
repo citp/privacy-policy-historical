@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adblockbrowser.org privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627023625id_/https%3A//adblockplus.org/en/privacy%23emailcollection) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adblockbrowser.org privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227100558id_/https%3A//adblockplus.org/en/privacy%23emailcollection) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -7,7 +7,7 @@
 
 
 
-## Privacy Notice (short version)
+## Privacy notice (short version)
 
 The following privacy notice shall provide you with a general overview about the collection, processing and use (hereinafter together referred to as "processing") of your personal data. For more information regarding our processing activities, please view our complete Privacy Policy.
 
@@ -39,7 +39,7 @@ The following privacy notice shall provide you with a general overview about the
       * The web address accessed
       * The browser identifier
       * The referring page
-      * For adblock.ai only: analytics data
+      * Aggregated analytics data
     * Voluntary:
       * Forum registration data
       * Email address
@@ -58,10 +58,10 @@ List of techniques and tools we use for data collection:
     * Sending issue reports
     * Emergency notification checks
   2. On our websites:
-    * Cookies, only where you can log in
+    * Cookies
     * Log files
     * Data, like name and / or email address, sent by you when using our forum or blog, or when sharing manually added filters
-    * For adblock.ai only: via Google Analytics
+    * Via Google Analytics
 
 
 
@@ -70,7 +70,7 @@ List of techniques and tools we use for data collection:
   * In order to inform you about urgent issues in connection with our products.
   * To improve and to evaluate our products by processing and analyzing subscription downloads, extension updates, emergency downloads and issue reports you send to us.
   * For technical purposes, such as, but not limited to, preventing security attacks, to improve our website / products, to ensure website / product security.
-  * To analyze aggregated website logs and - at adblock.ai only - analytics data, to improve our website.
+  * To analyze aggregated website logs and analytics data, to improve our website.
   * For communication and assistance purposes in our forum and blog.
 
 
@@ -86,12 +86,11 @@ We process your personal data in compliance with the European General Data Prote
     * Crash and error reporter data
     * Website logs
     * Data related to subscription downloads, extension update checks, emergency notifications
-    * Google Analytics data
   2. Blog and forum data as long as the respective comment / account exists
 
 
 
-**Note** : “Aggregated usage statistics” and other data without any connection to single users may be retained beyond these periods.
+**Note** : “Aggregated usage statistics”, such as analytics data and other data without any connection to a single user, may be retained beyond these periods.
 
 ### Our values
 
@@ -197,7 +196,7 @@ The collection and processing of your personal data may be necessary for the per
 
 #### Collection and processing is necessary for compliance with a legal obligation to which the Controller is subject – Art. 6 (1) c GDPR
 
-Collection and processing of your personal data may be necessary for compliance with a legal obligation to which we are subject under EU laws or the laws of a EU Member State.
+Collection and processing of your personal data may be necessary for compliance with a legal obligation to which we are subject under EU laws or the laws of an EU Member State.
 
 #### Collection and processing is necessary for the purposes of our legitimate interests - Art. 6 (1) f GDPR
 
@@ -282,10 +281,12 @@ Furthermore, if a subscription download fails on several consecutive occasions, 
 
 ##### Issue Reporter
 
-Adblock Plus allows you to send issue reports that will be temporarily stored on the AdblockPlus.org. These reports contain information required to investigate the issue including the Adblock Plus version, browser version, address of the web page where the problem is visible, blockable items on the web page, matching filters and active subscriptions. Parameter values are removed from all transmitted addresses to avoid unintentionally leaking private information. It is also possible to provide additional information on a voluntary basis, which may be privacy-sensitive:
+Adblock Plus allows you to send issue reports that will be temporarily stored on the AdblockPlus.org website. These reports contain information required to investigate the issue including the Adblock Plus version, browser version, address of the web page where the problem is visible, blockable items on the web page, matching filters, active subscriptions, type of issue report (i.e. false positive or false negative), and a screenshot of the issue (it is possible to remove particularly sensitive sections of the page before the report is sent). Parameter values are removed from all transmitted addresses to avoid unintentionally leaking private information.
 
-  * A website screenshot provides a scaled-down and color-reduced version of the page viewed. It is possible to remove particularly sensitive sections of the page before the report is sent.
-  * The email address is only used to request more information or to update the user on the issue.
+You can voluntarily:
+
+  * Provide your email address in order for us to request more information from you or to update you on the issue.
+  * Include an optional comment about the issue.
 
 
 
@@ -369,25 +370,21 @@ The request to our Websites, including your IP address, is stored when you creat
 
 ###### Cookies
 
-Several areas of our Websites use cookies to recognize signed in users or to store settings. Cookies are small files that are stored on your computer with the help of your internet browser. Cookies are not evaluated in any other manner and are never used to track Website visitors. If you do not want to enable cookies, you can opt against using them by selecting the appropriate settings on your browser. Please note that the efficiency and range of eyeo's services may be restricted as a result.
+Several areas of our Websites use cookies to recognize signed-in users or to store settings. Cookies are small files that are stored on your computer with the help of your internet browser. Cookies are not evaluated in any other manner and are never used to track Website visitors. If you do not want to enable cookies, you can opt against using them by selecting the appropriate settings on your browser. Please note that the efficiency and range of eyeo's services may be restricted as a result.
+
+###### Google Analytics
+
+We use Google Analytics, a web analytics service from Google Inc. ("Google"), on our Websites. Google Analytics uses so-called "cookies" (text files stored on your computer that enable us to analyze your use of our Websites). Information generated by the cookies (including your abbreviated IP address) is transmitted to and stored at a Google server in the United States. Google uses this information to assess your use of our Websites, to compile activity reports, and to provide more services connected with the use of our Websites. It is possible that Google may transmit this information to third parties if required by law, or if third parties process this information on behalf of Google.
+
+You can deactivate Google Analytics if you do not want to help us improve our products.
 
 ###### At adblock.ai
 
-At our website adblock.ai we are automatically collecting the following information:
+On our website, adblock.ai, we automatically collect the following information:
 
-**Facebook messenger integration**
+**Facebook Messenger integration**
 
-We have embedded the Facebook Messenger functionality, owned by Facebook, Inc., into the adblock.ai website to enable you to submit screenshots to our bot (“Adblock AI”) via Messenger, without having to access the Facebook website. Please note that Messenger is hosted by Facebook. We have disabled the function that would otherwise send personal data to Facebook when you access our website; however, when you click on the button to help train Adblock AI with your screenshots (“START NOW”) you will activate Messenger. Only then will some personal data, including IP address, be transferred to Facebook. For more information, please review Facebook's [privacy policy](https://facebook.com/privacy/explanation). If you don’t want to transfer the data to Facebook, please do not click on the button to send information to Adblock AI through Facebook’s Messenger.
-
-**Google Analytics**
-
-We use Google Analytics on our Website, a web analysis service of Google Inc. ("Google"). Google Analytics uses so-called "cookies" (text files which are stored on your computer and which enable you to analyze your use of our Website). The information generated by the cookie on your use of our Website (including your abbreviated IP address) is transmitted to a Google server in the United States and are stored there. Google will use this information to assess your use of our Website, to compile reports on the activities for us and to provide more services connected with use of our Website and the internet. It is also possible that Google may transmit this information to third parties if this is required by law, or if third parties process this information on behalf of Google.
-
-You can deactivate Google Analytics by means of a browser add-on if you do not want to participate in Website analysis. You can download this here:
-
-<http://tools.google.com/dlpage/gaoptout>
-
-All Google Analytics data will be deleted after 30 days.
+We have embedded the Facebook Messenger functionality, owned by Facebook, Inc., into the adblock.ai website to enable you to submit screenshots to our bot (“Adblock AI”) via Messenger, without having to access the Facebook website. Please note that Messenger is hosted by Facebook. We have disabled the function that would otherwise send personal data to Facebook when you access our website; however, when you click on the button to help train Adblock AI with your screenshots (“START NOW”) you will activate Messenger. Only then will some personal data, including IP address, be transferred to Facebook. For more information, please review Facebook's [Privacy Policy](https://facebook.com/privacy/explanation). **If you do not want to transfer data to Facebook, please do not click on the button to send information to Adblock AI through Facebook Messenger.**
 
 ##### Information you give to us on a voluntary basis
 
@@ -404,7 +401,7 @@ Passwords and email addresses will not be visible to other forum visitors.
 
 
 
-**Note:** Registration is not required to participate in the forums and you can delete your account at any time.
+**Note:** Registration is not required to read articles in the forum and you can delete your account at any time.
 
 When you add a comment on the Adblock Plus [blog](https://adblockplus.org/blog/), you can optionally specify an email address. Unlike the other fields, the email address is never displayed to other visitors and is only used to notify the comment author about replies to their comments, if any.
 
@@ -418,6 +415,6 @@ Data provided by you in connection with our blog and our forum will be retained 
 
 In general, we do not store your email address unless it’s specifically required to execute the related campaign (i.e. email signups for a newsletter or signing up to get notified about a product launch). In cases where we do store your email address, we only store it for the length of time that is needed to execute the campaign (i.e. once you’ve been notified of the launch).
 
-June 2018
+September 2018
   *[EU]: European Union
   *[GDPR]: General Data Protection Regulation
