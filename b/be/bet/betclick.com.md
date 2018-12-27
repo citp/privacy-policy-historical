@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betclick.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625184216id_/https%3A//en.betclic.com/content/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betclick.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227135316id_/https%3A//en.betclic.com/content/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
