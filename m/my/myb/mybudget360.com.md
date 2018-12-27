@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the mybudget360.com privacy policy that was archived on 2018-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180515212359id_/http%3A//www.mybudget360.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybudget360.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227113519id_/http%3A//www.mybudget360.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 
 
 
-This privacy policy refers to [www.mybudget360.com](https://web.archive.org/web/)
+This privacy policy refers to [www.mybudget360.com](https://web.archive.org/)
 
 At mybudget360.com we recognize the importance of your personal information.  We never sell personal information to third parties and safeguard your information.
 
@@ -19,7 +19,7 @@ Log Files
 
 A log file collects information from your visit including your internet browser, IP address, and ISP.  As with most websites, this is stored in a log file.  Please be aware that should you disclose personal information in comments, this then becomes public information which other third parties will be able to view.
 
-Return to:  [www.mybudget360.com](https://web.archive.org/web/)
+Return to:  [www.mybudget360.com](https://web.archive.org/)
 
   * [Previous Post](http://www.mybudget360.com/warren-buffet-dow-24000000-impossible-returns-in-an-impossible-stock-market-california-housing-34-million-median/) 
   * [Next Post](http://www.mybudget360.com/bear-stearns-the-rise-and-fall-of-the-mighty-bear/) 
