@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cipd.co.uk privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627074753id_/http%3A//www.cipd.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cipd.co.uk privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227153036id_/http%3A//www.cipd.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CIPD
 
@@ -6,7 +6,7 @@ You have the right to:
 
  **Request access** to your personal data (commonly known as a “data subject access request”). This enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it. Note, however, that we may be unable to supply certain pieces of information that you have requested, if it is subject to legal privilege or relates to management planning. This will be notified to you, if applicable, at the time of your request.
 
-You can submit a subject access request to the CIPD by emailing [legal@cipd.co.uk](mailto:legal@cipd.co.uk "legal@cipd.co.uk"), or by calling the customer services team on **+44 (0)208 612 6208**.
+You can submit a subject access request to the CIPD by emailing [dataprotection@cipd.co.uk](mailto:dataprotection@cipd.co.uk "dataprotection@cipd.co.uk"), or by calling the customer services team on **+44 (0)208 612 6208**.
 
 To assist us in processing your request, you will need to provide the following information:
 
@@ -20,11 +20,11 @@ To assist us in processing your request, you will need to provide the following 
 
  **Request correction** of the personal data that we hold about you. This enables you to have any incomplete or inaccurate data we hold about you corrected, though we may need to verify the accuracy of the new data you provide to us.
 
-You can update your personal data by making amendments in the ‘My Profile’ section of our website, by emailing us at [database@cipd.co.uk](https://web.archive.org/web/20180627074753id_/http%3A//www.cipd.co.uk/database@cipd.co.uk "database@cipd.co.uk"), or by calling **+44 (0)208 612 6208**.
+You can update your personal data by making amendments in the ‘My Profile’ section of our website, by emailing us at [dataprotection@cipd.co.uk](mailto:dataprotection@cipd.co.uk "dataprotection@cipd.co.uk"), or by calling **+44 (0)208 612 6208**.
 
  **Request erasure** of your personal data. This enables you to ask us to delete personal data where there is no good reason for us continuing to process it. You also have the right to ask us to delete your personal data where you have successfully exercised your right to object to processing (see below), where we may have processed your information unlawfully or where we are required to erase your personal data to comply with local law. Note, however, that we may not always be able to comply with your request of erasure for specific legal reasons which will be notified to you, if applicable, at the time of your request or as soon as possible thereafter. We may also anonymise rather than delete your data.
 
-You can submit a request, by emailing [deletionrequest@cipd.co.uk](mailto:deletionrequest@cipd.co.uk "deletionrequest@cipd.co.uk"), alternatively by calling on **+44 (0)208 612 6208**.
+You can submit a request, by emailing [dataprotection@cipd.co.uk](mailto:dataprotection@cipd.co.uk "dataprotection@cipd.co.uk"), alternatively by calling on **+44 (0)208 612 6208**.
 
 You will be asked for the following information to assist us in processing your request:
 
