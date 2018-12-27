@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eclipse.org privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627051636id_/http%3A//www.eclipse.org/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eclipse.org privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227195640id_/http%3A//www.eclipse.org/legal/privacy.php) for the most accurate reproduction.*
 
 # Eclipse Foundation Website Privacy Policy | The Eclipse Foundation
 
