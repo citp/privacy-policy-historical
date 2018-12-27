@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the viralviralvideos.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614101716id_/https%3A//www.viralviralvideos.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralviralvideos.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227131031id_/https%3A//viralviralvideos.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Viral Viral Videos
 
-This Privacy Policy governs the manner in which Viral Viral Videos collects, uses, maintains and discloses information collected from users (each, a “User”) of the [https:/www.viralviralvideos.com](https://web.archive.org/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Viral Viral Videos.
+This Privacy Policy governs the manner in which Viral Viral Videos collects, uses, maintains and discloses information collected from users (each, a “User”) of the [https://viralviralvideos.com](https://web.archive.org/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Viral Viral Videos.
 
  **Personal identification information**
 
@@ -20,8 +20,8 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 Viral Viral Videos may collect and use Users personal information for the following purposes:
 
-  *  _– To personalize user experience_ We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  *  _– To improve our Site_ We may use feedback you provide to improve our products and services.
+  * To personalize user experience – We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  * To improve our Site – We may use feedback you provide to improve our products and services.
 
 
 
@@ -35,9 +35,9 @@ We do not sell, trade, or rent Users personal identification information to othe
 
  **Google Adsense**
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html)
 
-**Changes to this privacy policy**
+ **Changes to this privacy policy**
 
 Viral Viral Videos has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
@@ -49,8 +49,7 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-[Viral Viral Videos](https://web.archive.org/)
+[Viral Viral Videos](https://web.archive.org/)  
+[https://viralviralvideos.com](https://web.archive.org/)
 
-[https:/www.viralviralvideos.com](https://web.archive.org/)
-
-This document was last updated on December 2, 2016
+This document was last updated on August 24, 2018
