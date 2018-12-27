@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the ehow.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614113157id_/https%3A//www.ehow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehow.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227131101id_/https%3A//www.ehow.com/privacy-policy) for the most accurate reproduction.*
 
 # undefined | eHow
 
-Last Updated: April 25, 2018
+Last Updated: July 2, 2018
 
-This privacy policy ("Privacy Policy") describes how information and data is collected from you when you use this online website, mobile website, application, digital service, or any related products, services, sites, features or functionality (each a "Service", collectively the "Services") and how Leaf Group Ltd., including its subsidiaries/affiliates Society 6, LLC and Saatchi Online, Inc. ("Leaf Group", "we", "us", or "our"), uses, shares and manages your information and data. By using any of the Services, you consent to the collection, use, processing, and sharing of your information as described in this Privacy Policy.
+This privacy policy ("Privacy Policy") describes how information and data is collected from you when you use this online website, mobile website, application, digital service, or any related products, services, sites, features or functionality (each a "Service", collectively the "Services") and how Leaf Group Ltd., including its subsidiaries/affiliates Society 6, LLC, Saatchi Online, Inc., and Well+Good, LLC ("Leaf Group", "we", "us", or "our"), uses, shares and manages your information and data. By using any of the Services, you consent to the collection, use, processing, and sharing of your information as described in this Privacy Policy.
 
 ## 1\. Our Privacy Principles
 
-We are committed to recognizing and respecting your privacy rights by keeping you informed and processing and protecting your personal data in compliance with applicable law.
+We are committed to recognizing and respecting your privacy rights by keeping you informed and processing and protecting your personal data in compliance with applicable data protection laws and regulations ("Data Protection Laws").
 
-Effective May 25th, 2018, if you are from the European Economic Area ("EEA"), our processing of your personal data will comply with the Regulations (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016, known as the General Data Protection Regulation ("GDPR").
+Effective May 25th, 2018, if you are subject to European Union Data Protection Laws ("EU Users"), our processing of your personal data will comply with the Regulations (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016, known as the General Data Protection Regulation ("GDPR").
 
 ## 2\. Information that We Collect from You
 
@@ -27,6 +27,8 @@ We may collect and process some or all of the following information you make ava
   * Password
   * Other Registration Information
   * Customer Support or Technical Information you provide when you contact us with questions about your use of the Services
+  * Details of transactions you carry out through the Services, your purchases, and the fulfillment of orders we provide to you
+  * Other information you may provide to us through promotions or surveys
 
 
 
@@ -48,14 +50,25 @@ In addition to the information you provide to us, the Services may collect and p
   * Information about how you use the Services (for example, how many times you use the Services each day)
   * Requested and Referring URLs
   * Location Data collected through your Device (including, for example, precise location data such as GPS and WiFi information)
+  * Information collected through cookies and other tracking technologies including, but not limited to, your IP address and domain name, your browser version and operating system, traffic data, location data, web logs and other communication data, and the resources that you access
 
 
 
 ## 3\. How We Use Your Information
 
-Improving the Services, Providing Support, and Communicating With You
+In this section, we set out the purposes for which we use personal information that we collect when you use the Services. In relation to EU Users, we are required under applicable Data Protection Laws, to identify the legal bases on which we rely to process the information.
 
-We and our service providers may use the data you provide or that is collected through the Services to operate and improve the Services, our other sites, applications, products and services, to contact you from time to time to provide you with important information and notices relating to the Services, and to communicate with you about marketing promotions.
+Providing the Services, Improving the Services, Providing Support, and Communicating With You
+
+We and our service providers may use the data you provide or that is collected through the Services to operate and improve the Services, our other sites, applications, products and services, to contact you from time to time to provide you with important information and notices relating to the Services, and to carry out obligations arising from any agreements between you and us.
+
+Legal Bases: contract performance, legitimate interests (to correspond with you, to enable us to provide you with the Services and to improve the Services)
+
+Providing Marketing and Promotion Materials
+
+We and our service providers may use the data you provide or that is collected through the Services to provide you with updates, offers, and promotions, where you have chosen to receive these. We may also use your information for marketing our own and our selected business partners’ products and services to you by email and, where required by law, we will ask for your consent at the time we collect your data to conduct any of these types of marketing. If you wish to unsubscribe from receiving marketing communications from us by email, please follow the instructions contained in each email you receive from us describing how you can unsubscribe from receiving further marketing communications from us.
+
+Legal Bases: consent, legitimate interest where consent is not required (to keep you updated with news in relation to our products and services)
 
 Advertising and Third Party Content and Links
 
@@ -65,6 +78,8 @@ For information about how tracking works for online advertising purposes you can
 
 If you access the Services through a browser, your browser may allow you to adjust your browser settings so that "Do Not Track" requests are sent to the websites that you visit. However, we will not disable tracking technology that may be active on the Services in response to any Do Not Track requests that we receive from your browser. You can change your privacy preferences regarding the use of cookies and other similar technologies through your browser. You may set your browser to accept all cookies, block certain cookies, require our consent before a cookie is placed in your browser, or block all cookies. Blocking all cookies will affect your online experience and may prevent you from enjoying the full features offered through the Services.
 
+Legal Bases: consent, legitimate interest where consent is not required (to enable us to provide you with an experience related to your interests)
+
 Analytics Services
 
 We may also work with third party analytics companies to help us understand how the Services are being used, such as data collection, reporting, ad response measurement, website and mobile application analytics, and to assist with delivery of relevant marketing messages and advertisements.
@@ -73,9 +88,13 @@ We may use Google Analytics, an analytics service provided by Google or other th
 
 We encourage you to review your device and Services settings to ensure they are consistent with your preferences, including with respect to the collection and use of information. You may be able to stop further collection of certain data by the Services by updating your applicable device settings, or you may uninstall the Services. In addition, you may choose not to share your location details by adjusting your mobile device's location services settings. For instructions on changing the relevant settings, please contact your service provider/carrier or device manufacturer.
 
+Legal Bases: legitimate interest where consent is not required (to enable us to provide you with an experience relevant to your interests)
+
 Purchases and Payment Processors
 
-If you make a purchase through the Services, you may be able to pay using a third-party payment service, such as Stripe, PayPal, Apple Pay, Amazon Pay or other third-party payment services. All information collected by these third-party payment services for purposes of processing your payments is not available to us, unless you have otherwise provided this information to us in connection with your use of the Services. Information collected from you by these third-party payment services is governed by the applicable third-party payment service's privacy policy. You should review the applicable privacy policy prior to submitting any information to the applicable third-party payment service.
+If you make a purchase through the Services, you may be able to pay using a third-party payment service, such as Stripe, PayPal, Apple Pay, Amazon Pay or other third-party payment services. All information collected by these third-party payment services for purposes of processing your payments is not available to us, unless you have otherwise provided this information to us in connection with your use of the Services. Information collected from you by these third-party payment services is governed by the applicable third-party payment service’s privacy policy. You should review the applicable privacy policy prior to submitting any information to the applicable third-party payment service.
+
+Legal Bases: consent, legitimate interests (to enable us to perform our obligations and provide the Services to you); contract performance
 
 Promotions, Sweepstakes, and Contests
 
@@ -83,11 +102,7 @@ From time to time, we may host a promotion, sweepstakes, or content on the Servi
 
 If you wish to unsubscribe from receiving marketing communications from us by email, please follow the instructions contained in each email you receive from us describing how you can unsubscribe from receiving further marketing communications from us. If you are a registered user you may also be able to adjust your email settings by logging in to your account and adjusting your account settings.
 
-Social Media and Sharing
-
-The Services may use social networking or "share functionality" or may contain links to third-party social media sites or applications that are not owned or controlled by us. We also may allow you to use social media sites or applications to leverage your existing social media site or application accounts to access features of the Services. Your use of these features may result in the collection or sharing of information about you by these sites or applications, depending on the feature.
-
-We have no control over, and assume no responsibility for, any share functionality or the content, privacy policies, or practices of any third-party site or application. We encourage you to review the privacy policies and settings on the social media sites or applications with which you interact to make sure you understand the information that may be collected, used, and shared by those sites. You are subject to the policies of those third parties when and where applicable.
+Legal Bases: consent, legitimate interests where consent is not required (to keep you updated with news in relation to our products and services)
 
 ## 4\. How We Share Your Information with Third Parties
 
@@ -113,6 +128,12 @@ With Our Service Providers
 
 We may share your information with our service providers who work on our behalf. For example, these service providers may handle payment or credit card processing, data management, customer data pooling or aggregating, feature administration, email distribution, market research, information analysis, and promotions management. These service providers will only have access to the information needed to perform these limited functions on our behalf.
 
+Social Media and Sharing
+
+The Services may use social networking or "share functionality" or may contain links to third-party social media sites or applications that are not owned or controlled by us. We also may allow you to use social media sites or applications to leverage your existing social media site or application accounts to access features of the Services. Your use of these features may result in the collection or sharing of information about you by these sites or applications, depending on the feature.
+
+We have no control over, and assume no responsibility for, any share functionality or the content, privacy policies, or practices of any third-party site or application. We encourage you to review the privacy policies and settings on the social media sites or applications with which you interact to make sure you understand the information that may be collected, used, and shared by those sites. You are subject to the policies of those third parties when and where applicable.
+
 As Required By Law or to Protect Rights and to Comply with Our Policies 
 
 To the extent permitted by law, we will disclose your information to government authorities or third parties, including national security or law enforcement agencies, if required to do so by law, or if requested in response to a subpoena or court order, we believe in our sole and absolute discretion that disclosure is reasonably necessary to protect against fraud, to protect the property or other rights of us or other users, third parties or the public at large, or we believe that you have abused the Services by using it to attack other systems or to gain unauthorized access to any other system, to engage in spamming or otherwise to violate applicable laws or in violation of our [Terms of Use](https://web.archive.org/terms-of-use). You should be aware that, following disclosure to any third party, your information may be accessible by others to the extent permitted or required by applicable law.
@@ -121,13 +142,13 @@ Business Transfers or Bankruptcy
 
 In the event of a merger, acquisition, bankruptcy or other sale of all or a portion of our assets or any business, any user information owned or controlled by us may be one of the assets transferred to third parties in such transaction or event. We reserve the right, as part of this type of transaction or event, to transfer or assign your information and other information we have collected from users of the Services to third parties. Other than to the extent ordered by a bankruptcy or other court, the use and disclosure of all transferred user information will be subject to this Privacy Policy. However, any information you submit or that is collected after this type of transfer may be subject to a new privacy policy adopted by the successor entity or acquirer, as applicable.
 
-## 5\. Your Access and Control of Your Information
+## 5\. Your Rights Under Applicable Data Protection Laws
 
-We acknowledge your right to access and control your personal data.
+We acknowledge your right to access and control your personal data in accordance with applicable Data Protection Laws.
 
 Accessing, Correcting or Deleting Your Information
 
-To request access to or correction of your personal data, you may use our online form located at <https://www.ehow.com/userdata-request>, or send an e-mail to legal@leafgroup.com or a letter to:
+For EU Users, to request access to or correction of your personal data in accordance with applicable Data Protection Laws, you may send an e-mail to Privacy.GDPR@leafgroup.com or a letter to:
 
 Leaf Group Ltd.  
 Attn: Legal Department  
@@ -139,9 +160,9 @@ Please include your registration information you provided through the Services. 
 
 If you'd like us to delete information that you have provided through the Services, please contact us at legal@leafgroup.com and we will respond in a reasonable time. Please note that some or all of the information you provided may be required in order for the Services to function properly or may be automatically retained in backup storage or records retention archival storage.
 
-Portability of Your Personal Data
+EU Users - Portability of Your Personal Data
 
-Data portability is the ability to obtain some of your information in a format you can move from one service provider to another. Depending on the context, this applies to some of your information, but not to all of your information. Should you request it, we will provide you with an electronic file of your basic account information and the information under your sole control.
+Data portability is the ability to obtain some of your information in a format you can move from one service provider to another in accordance with applicable Data Protection Laws. Depending on the context and applicable Data Protection Laws, this applies to some of your information, but not to all of your information. For EU Users, should you request it, we will provide you with an electronic file of your basic account information and the information under your sole control in accordance with applicable Data Protection Laws. 
 
 California Residents
 
@@ -151,7 +172,7 @@ If you are a California resident under the age of 18 and are a registered user o
 
 If you are located outside of the United States and you choose to use the Services or provide your information to us, your data may be transferred to, processed and maintained on servers, databases or cloud storage facilities located in the United States. Your use of the Services represents your consent and agreement to these practices. If you do not want your data transferred to or processed or maintained in the United States, you should not use the Services.
 
-Privacy Shield
+EU Users and Swiss Users - Privacy Shield
 
 We comply with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States, respectively. We have certified to the Department of Commerce that we adhere to the Privacy Shield Principles of:
 
@@ -177,9 +198,11 @@ Please note that if your complaint is not resolved through these channels, under
 
 The Services are not intended for children under age 16. We do not knowingly collect or distribute personal information from or about children under the age of 16. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us at legal@leafgroup.com.
 
-## 8\. Security Measures
+## 8\. Security Measures and Storage Limits
 
 We provide industry-standard physical, electronic, and procedural safeguards to protect personal data we process and maintain. For example, we take reasonable measures to limit access to this data to authorized employees and contractors who need to know that information in order to operate, develop or improve our Services. Please be aware that, although we endeavor to provide reasonable security for data we process and maintain, no security system can prevent all potential security breaches. As a result, we cannot guarantee or warrant the security of any information you transmit on or through the Services and you do so at your own risk.
+
+Our retention periods for personal data are based on our business needs and legal requirements. We retain personal data for as long as is necessary for the processing purpose(s) for which the information was collected, and any other permissible, related purpose. For example, we may retain certain transaction details and correspondence until the time limit for claims arising from the transaction has expired, or to comply with regulatory requirements regarding the retention of such data. When personal data is no longer needed, we either irreversibly anonymize the data (and we may further retain and use the anonymized information) or securely destroy the data.
 
 ## 9\. Updates to this Privacy Policy
 
