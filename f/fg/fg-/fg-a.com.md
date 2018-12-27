@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fg-a.com privacy policy that was archived on 2018-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180327074034id_/http%3A//www.fg-a.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fg-a.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227120254id_/http%3A//www.fg-a.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -6,7 +6,7 @@
 
 We _do not_ collect personal information such as email addresses, personal names or phone numbers of our visitors.
 
-We _do collect_ general statistical information for the operation of our web site such as - how many people visit per day, how many people visit from each country and how many people are referred by a specific search engine or web site. [Cookie Policy](https://web.archive.org/web/20180327074034id_/http%3A//www.fg-a.com/cookiepolicy.html)
+We _do collect_ general statistical information for the operation of our web site such as - how many people visit per day, how many people visit from each country and how many people are referred by a specific search engine or web site. [Cookie Policy](https://web.archive.org/web/20181227120254id_/http%3A//www.fg-a.com/cookiepolicy.html)
 
 **Advertising**
 
