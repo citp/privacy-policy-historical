@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hackerbox.org privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612082730id_/http%3A//www.hackerbox.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hackerbox.org privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227125908id_/http%3A//hackerbox.org/privacy.html) for the most accurate reproduction.*
 
 # Hackerbox.org - Privacy Policy
 
