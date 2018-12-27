@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nativeads.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625025410id_/https%3A//nativeads.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nativeads.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227202952id_/https%3A//nativeads.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Native Ads - Native Advertising for Publishers, Advertisers and Agencies | Privacy Policy
 
@@ -44,7 +44,7 @@ As part of our ad delivery and reporting, we log page views and collect informat
 
 We use Cookies to serve advertisements to users. Cookies are small text files placed on your hard drive that assist us in providing a more customized website experience. It is our policy to use cookies to make navigation of our website easier for visitors. 
 
-If you are concerned about cookies, most browsers permit individuals to decline cookies. For details of our cookies please refer to [our user cookies](https://web.archive.org/web/20180625025410id_/https%3A//nativeads.com/cookie-policy.php).
+If you are concerned about cookies, most browsers permit individuals to decline cookies. For details of our cookies please refer to [our user cookies](https://web.archive.org/web/20181227202952id_/https%3A//nativeads.com/cookie-policy.php).
 
 In order to properly manage our website we may anonymously log information on our systems, and identify categories of visitors by items such as domains and browser types. These statistics are used to manage the operational efficiency of our systems. 
 
@@ -195,9 +195,9 @@ If you have any inquiries or concerns regarding this Privacy Policy or our priva
 
 
 NativeAds, Inc.   
-710 - 1090 W. Pender St   
+764 - 1055 Dunsmuir Street   
 Vancouver, BC, Canada   
-V6E 2N7   
+V7X 1L3   
 
 
   
