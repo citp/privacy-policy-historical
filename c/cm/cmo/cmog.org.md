@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cmog.org privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627174754id_/https%3A//www.cmog.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmog.org privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228003929id_/https%3A//www.cmog.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Corning Museum of Glass
 
