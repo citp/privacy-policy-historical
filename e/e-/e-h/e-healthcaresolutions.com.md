@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e-healthcaresolutions.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617235300id_/http%3A//www.ehealthcaresolutions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-healthcaresolutions.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227013452id_/http%3A//www.ehealthcaresolutions.com/privacy-policy) for the most accurate reproduction.*
 
 # eHealthcare Solutions Privacy Policy
 
@@ -87,7 +87,7 @@ If EHS or substantially all of its assets were acquired, or in the unlikely even
 
 **Your Choices about the Information We Collect**
 
-If you do not consent to the way in which we may use your personal information, please do not submit any personal information to us.  If you do not wish to receive special offers and other promotions from us, click the unsubscribe link located in our emails or [opt out here](http://preferences-mgr.truste.com/?type=ehs&affiliateId=154), and to the extent provided on the applicable Website.  If you do not wish to receive other marketing materials from us and/or if you do not want us to share your personal information with other entities as stated in this Privacy Policy, please provide us with your exact name and address and advise us that you wish to opt-out for information sharing or receiving information from us or both as the case may be.  Please direct your opt-out request to the following contacts:
+If you do not consent to the way in which we may use your personal information, please do not submit any personal information to us.  If you do not wish to receive special offers and other promotions from us, click the unsubscribe link located in our emails or [opt out here](http://preferences-mgr.trustarc.com/?pid=ehealthcare01&aid=ehs_publisher01&type=ehs), and to the extent provided on the applicable Website.  If you do not wish to receive other marketing materials from us and/or if you do not want us to share your personal information with other entities as stated in this Privacy Policy, please provide us with your exact name and address and advise us that you wish to opt-out for information sharing or receiving information from us or both as the case may be.  Please direct your opt-out request to the following contacts:
 
 **Email Address:   **
 
@@ -95,7 +95,7 @@ If you do not consent to the way in which we may use your personal information, 
 
 **Opt-Out Online:**
 
-[**Opt-Out of Interest-Based Advertising**](http://preferences-mgr.truste.com/?type=ehs&affiliateId=154) ** **
+[**Opt-Out of Interest-Based Advertising**](http://preferences-mgr.trustarc.com/?pid=ehealthcare01&aid=ehs_publisher01&type=ehs) ** **
 
 **[Opt-Out of Personally Identifiable Advertising and Data Sharing](http://ehealthcaresolutions.com/optout/)**
 
