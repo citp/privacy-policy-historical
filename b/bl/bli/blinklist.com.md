@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blinklist.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630122815id_/http%3A//blinklist.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blinklist.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227132129id_/http%3A//blinklist.com/static/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Blinklist.com
 
@@ -24,3 +24,5 @@ Visit your BlinkList Options page to edit your profile and other information. Wh
 BlinkList reserves the right to modify all or some of this Privacy Policy at any time without notice. We will use information only in accordance with the Privacy Policy under which the information was collected unless we have received explicit authorization from the appropriate user(s) to do otherwise.
 
 If you have any questions about this Privacy Policy, the practices of this website or your dealings with this BlinkList, you can send an e-mail, in English, to [feedback@blinklist.com](mailto:feedback@blinklist.com).
+
+Read our [Terms of Service](http://blinklist.com/static/terms-of-service)
