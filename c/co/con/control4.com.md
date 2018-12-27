@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the control4.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627143330id_/http%3A//www.control4.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the control4.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227215609id_/http%3A//www.control4.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Control4
 
@@ -77,7 +77,7 @@ Your personal information and project data files are stored on Control4’s serv
 
 #### Generally
 
-Your personal information may be shared with our agents, subsidiaries, and affiliates who are obligated to safeguard it in accordance with this Privacy Policy. There are also times when Control4 makes certain personal information about you available to companies that help support our business or that provide products and services to you on our behalf. These companies may use your personal information only to assist us accomplish one or more of the purposes for which we collected the information as set forth herein. For example, these partners may help us process information or credit card payments, sell and deliver products to you, fulfill orders, manage or host customer data, provide customer service, assess your interest in our products and services, or conduct customer research or satisfaction surveys. Be assured, however, that Control4 does not sell or rent your personal information to spammers or other third-party marketers for their own use.
+Your personal information may be shared with our agents, subsidiaries, and affiliates who are obligated to safeguard it in accordance with this Privacy Policy. There are also times when Control4 makes certain personal information about you available to companies that help support our business or that provide products and services to you on our behalf. These companies may use your personal information only to assist us accomplish one or more of the purposes for which we collected the information as set forth herein. For example, these partners may help us process information or credit card payments, sell and deliver products to you, fulfill orders, manage or host customer data, provide customer service, assess your interest in our products and services, or conduct customer research or satisfaction surveys. Some of these providers may process your data outside of United States or the European Union, but if the countries to which they are transferring the data is not deemed to provide adequate protection, Control4 requires such processors to provide assurance of adequate protection in some other way, such as Privacy Shield Certification or binding corporate resolutions. Be assured, however, that Control4 does not sell or rent your personal information to spammers or other third-party marketers for their own use.
 
 In addition, since most of our products are not typically sold to end users directly, you may request via our website or otherwise that we provide certain information to one or more of the independent dealer/installers serving your geographical area. When you create an account on our website or register your system with us, you can select an independent dealer as your Dealer of Record and allow them to access to your account or automation system on your behalf. If you wish to change your Dealer of Record or restrict access to your system, you can do so by logging into your account at [https://my.control4.com](https://my.control4.com/) or calling Control4’s Customer Advocacy team at 801-523-3100.
 
@@ -137,4 +137,4 @@ Our Privacy Policy may change from time to time, but we will not reduce the leve
 
 If you have any questions or concerns about this Privacy Policy or your information, please email our Data Protection Officer at [dpo@control4.com](mailto:dpo@control4.com).
 
-Effective as of May 25, 2018 
+Effective as of October 1, 2018 
