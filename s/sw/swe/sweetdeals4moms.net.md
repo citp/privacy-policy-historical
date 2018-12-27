@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sweetdeals4moms.net privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627004514id_/http%3A//www.sweetdeals4moms.net/disclosure/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweetdeals4moms.net privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227082819id_/http%3A//www.sweetdeals4moms.net/disclosure/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Sweet Deals 4 Moms
 
