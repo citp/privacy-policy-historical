@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthtalk.org privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625171857id_/http%3A//www.healthtalk.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthtalk.org privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227050312id_/http%3A//www.healthtalk.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | healthtalk.org
 
@@ -13,7 +13,10 @@ We may collect or store personal data from you:
 • If you have donated to us and given us permission, we may access and download your contact details from our partners Justgiving or Stripe.  
 • If you sign up for our Scrapbooks feature, so that we can understand how it is being used and so that you can log in to the feature.
 
-If you have given permission, we may occasionally contact you for marketing purposes or to invite you to events. Storing data We take appropriate measures to ensure that your data is secure. We will not store your data for any longer than is reasonably necessary. Please contact us directly if your story appears on the website and you would like to find out how we handle your data.
+If you have given permission, we may occasionally contact you for marketing purposes or to invite you to events.
+
+ **Storing data**  
+We take appropriate measures to ensure that your data is secure. We will not store your data for any longer than is reasonably necessary. Please contact us directly if your story appears on the website and you would like to find out how we handle your data.
 
  **Sensitive data**  
 We are unable to provide any medical advice and we ask that you do not contact us disclosing any information about your health or the health of a friend or relative.
