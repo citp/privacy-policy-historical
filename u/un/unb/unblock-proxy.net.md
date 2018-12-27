@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unblock-proxy.net privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613105041id_/https%3A//www.proxfree.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unblock-proxy.net privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227134211id_/https%3A//www.proxfree.com/privacy-policy.php) for the most accurate reproduction.*
 
 # ProxFree: Privacy Policy
 
