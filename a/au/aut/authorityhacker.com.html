@@ -1,0 +1,537 @@
+<!--The following is the downloaded HTML source of the authorityhacker.com privacy policy that was archived on 2018-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181227072520id_/https%3A//www.authorityhacker.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en-US"><head>
+<meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-1099.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KJV6RFP"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1099.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" id="ao_optimized_gfonts" href="https://fonts.googleapis.com/css?family=Open+Sans%3A600%7COpen+Sans%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic"><link rel="profile" href="https://gmpg.org/xfn/11">
+<style>.course-available{display:none}</style><link type="text/css" media="all" href="https://www.authorityhacker.com/wp-content/cache/autoptimize/css/autoptimize_0b58ed2009ca6188669ff51684d5a524.css" rel="stylesheet"><title>Privacy Policy - Authority Hacker</title>
+
+<script data-cfasync="false" type="text/javascript">//<![CDATA[
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+
+	var gtm4wp_scrollerscript_debugmode         = false;
+	var gtm4wp_scrollerscript_callbacktime      = 100;
+	var gtm4wp_scrollerscript_readerlocation    = 300;
+	var gtm4wp_scrollerscript_contentelementid  = "content";
+	var gtm4wp_scrollerscript_scannertime       = 45;
+//]]>
+</script>
+<meta name="dc.title" content="Privacy Policy - Authority Hacker">
+<meta name="dc.description" content="1) INTRODUCTION This privacy notice provides you with details of how we collect and process your personal data through your use of our site authorityhacker.com. By providing us with your data, you warrant to us that you are over 13 years of age. Judgement Media Ltd is the data controller…">
+<meta name="dc.relation" content="https://www.authorityhacker.com/privacy-policy/">
+<meta name="dc.source" content="https://www.authorityhacker.com/">
+<meta name="dc.language" content="en_US">
+<meta name="description" content="1) INTRODUCTION This privacy notice provides you with details of how we collect and process your personal data through your use of our site authorityhacker.com. By providing us with your data, you warrant to us that you are over 13 years of age. Judgement Media Ltd is the data controller…">
+<meta name="robots" content="noindex, nofollow">
+<meta property="og:url" content="https://www.authorityhacker.com/privacy-policy/">
+<meta property="og:site_name" content="Authority Hacker">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy - Authority Hacker">
+<meta property="og:description" content="1) INTRODUCTION This privacy notice provides you with details of how we collect and process your personal data through your use of our site authorityhacker.com. By providing us with your data, you warrant to us that you are over 13 years of age. Judgement Media Ltd is the data controller…">
+<meta property="og:image" content="https://www.authorityhacker.com/wp-content/uploads/2017/11/monetize-blog.png">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:creator" content="@gaelbreton">
+<meta name="twitter:title" content="Privacy Policy - Authority Hacker">
+<meta name="twitter:description" content="1) INTRODUCTION This privacy notice provides you with details of how we collect and process your personal data through your use of our site authorityhacker.com. By providing us with your data, you warrant to us that you are over 13 years of age. Judgement Media Ltd is the data controller…">
+<link rel="dns-prefetch" href="//a.optmnstr.com">
+<link href="https://fonts.gstatic.com" crossorigin="anonymous" rel="preconnect">
+<link rel="alternate" type="application/rss+xml" title="Authority Hacker » Feed" href="https://www.authorityhacker.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="Authority Hacker » Comments Feed" href="https://www.authorityhacker.com/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="Authority Hacker » Privacy Policy Comments Feed" href="https://www.authorityhacker.com/privacy-policy/feed/">
+<style id="astra-theme-css-inline-css" type="text/css">
+html{font-size:112.5%;}a,.page-title{color:#085387;}a:hover,a:focus{color:#f2b74c;}body,button,input,select,textarea{font-family:'Open Sans',sans-serif;font-weight:600;font-size:18px;font-size:1rem;line-height:2;}blockquote{border-color:rgba(8,83,135,0.05);}p,.entry-content p{margin-bottom:1.40em;}h1,.entry-content h1,.entry-content h1 a,h2,.entry-content h2,.entry-content h2 a,h3,.entry-content h3,.entry-content h3 a,h4,.entry-content h4,.entry-content h4 a,h5,.entry-content h5,.entry-content h5 a,h6,.entry-content h6,.entry-content h6 a,.site-title,.site-title a{font-family:'Open Sans',sans-serif;font-weight:600;text-transform:capitalize;}.site-title{font-size:35px;font-size:1.9444444444444rem;}header .site-logo-img .custom-logo-link img{max-width:204px;}.astra-logo-svg{width:204px;}.ast-archive-description .ast-archive-title{font-size:40px;font-size:2.2222222222222rem;}.site-header .site-description{font-size:15px;font-size:0.83333333333333rem;}.entry-title{font-size:30px;font-size:1.6666666666667rem;}.comment-reply-title{font-size:29px;font-size:1.6111111111111rem;}.ast-comment-list #cancel-comment-reply-link{font-size:18px;font-size:1rem;}h1,.entry-content h1,.entry-content h1 a{font-size:52px;font-size:2.8888888888889rem;}h2,.entry-content h2,.entry-content h2 a{font-size:30px;font-size:1.6666666666667rem;}h3,.entry-content h3,.entry-content h3 a{font-size:26px;font-size:1.4444444444444rem;}h4,.entry-content h4,.entry-content h4 a{font-size:21px;font-size:1.1666666666667rem;}h5,.entry-content h5,.entry-content h5 a{font-size:18px;font-size:1rem;}h6,.entry-content h6,.entry-content h6 a{font-size:15px;font-size:0.83333333333333rem;}.ast-single-post .entry-title,.page-title{font-size:30px;font-size:1.6666666666667rem;}#secondary,#secondary button,#secondary input,#secondary select,#secondary textarea{font-size:18px;font-size:1rem;}::selection{background-color:#085387;color:#ffffff;}body,h1,.entry-title a,.entry-content h1,.entry-content h1 a,h2,.entry-content h2,.entry-content h2 a,h3,.entry-content h3,.entry-content h3 a,h4,.entry-content h4,.entry-content h4 a,h5,.entry-content h5,.entry-content h5 a,h6,.entry-content h6,.entry-content h6 a{color:#42474e;}.tagcloud a:hover,.tagcloud a:focus,.tagcloud a.current-item{color:#ffffff;border-color:#085387;background-color:#085387;}.main-header-menu a,.ast-header-custom-item a{color:#42474e;}.main-header-menu li:hover > a,.main-header-menu li:hover > .ast-menu-toggle,.main-header-menu .ast-masthead-custom-menu-items a:hover,.main-header-menu li.focus > a,.main-header-menu li.focus > .ast-menu-toggle,.main-header-menu .current-menu-item > a,.main-header-menu .current-menu-ancestor > a,.main-header-menu .current_page_item > a,.main-header-menu .current-menu-item > .ast-menu-toggle,.main-header-menu .current-menu-ancestor > .ast-menu-toggle,.main-header-menu .current_page_item > .ast-menu-toggle{color:#085387;}input:focus,input[type="text"]:focus,input[type="email"]:focus,input[type="url"]:focus,input[type="password"]:focus,input[type="reset"]:focus,input[type="search"]:focus,textarea:focus{border-color:#085387;}input[type="radio"]:checked,input[type=reset],input[type="checkbox"]:checked,input[type="checkbox"]:hover:checked,input[type="checkbox"]:focus:checked,input[type=range]::-webkit-slider-thumb{border-color:#085387;background-color:#085387;box-shadow:none;}.site-footer a:hover + .post-count,.site-footer a:focus + .post-count{background:#085387;border-color:#085387;}.footer-adv .footer-adv-overlay{border-top-style:solid;border-top-color:#7a7a7a;}.ast-comment-meta{line-height:1.666666667;font-size:15px;font-size:0.83333333333333rem;}.single .nav-links .nav-previous,.single .nav-links .nav-next,.single .ast-author-details .author-title,.ast-comment-meta{color:#085387;}.menu-toggle,button,.ast-button,.button,input#submit,input[type="button"],input[type="submit"],input[type="reset"]{border-radius:2px;padding:10px 40px;color:#ffffff;border-color:#085387;background-color:#085387;}button:focus,.menu-toggle:hover,button:hover,.ast-button:hover,.button:hover,input[type=reset]:hover,input[type=reset]:focus,input#submit:hover,input#submit:focus,input[type="button"]:hover,input[type="button"]:focus,input[type="submit"]:hover,input[type="submit"]:focus{color:#000000;border-color:#f2b74c;background-color:#f2b74c;}.entry-meta,.entry-meta *{line-height:1.45;color:#085387;}.entry-meta a:hover,.entry-meta a:hover *,.entry-meta a:focus,.entry-meta a:focus *{color:#f2b74c;}blockquote,blockquote a{color:#000003;}.ast-404-layout-1 .ast-404-text{font-size:200px;font-size:11.111111111111rem;}.widget-title{font-size:25px;font-size:1.3888888888889rem;color:#42474e;}#cat option,.secondary .calendar_wrap thead a,.secondary .calendar_wrap thead a:visited{color:#085387;}.secondary .calendar_wrap #today,.ast-progress-val span{background:#085387;}.secondary a:hover + .post-count,.secondary a:focus + .post-count{background:#085387;border-color:#085387;}.calendar_wrap #today > a{color:#ffffff;}.ast-pagination a,.page-links .page-link,.single .post-navigation a{color:#085387;}.ast-pagination a:hover,.ast-pagination a:focus,.ast-pagination > span:hover:not(.dots),.ast-pagination > span.current,.page-links > .page-link,.page-links .page-link:hover,.post-navigation a:hover{color:#f2b74c;}.ast-header-break-point .ast-mobile-menu-buttons-minimal.menu-toggle{background:transparent;color:#085387;}.ast-header-break-point .ast-mobile-menu-buttons-outline.menu-toggle{background:transparent;border:1px solid #085387;color:#085387;}.ast-header-break-point .ast-mobile-menu-buttons-fill.menu-toggle{background:#085387;}@media (min-width:545px){.ast-page-builder-template .comments-area,.single.ast-page-builder-template .entry-header,.single.ast-page-builder-template .post-navigation{max-width:1240px;margin-left:auto;margin-right:auto;}}body,.ast-separate-container{background-color:#ffffff;}@media (max-width:768px){.ast-archive-description .ast-archive-title{font-size:40px;}.entry-title{font-size:30px;}h1,.entry-content h1,.entry-content h1 a{font-size:30px;}h2,.entry-content h2,.entry-content h2 a{font-size:25px;}h3,.entry-content h3,.entry-content h3 a{font-size:20px;}.ast-single-post .entry-title,.page-title{font-size:30px;}}@media (max-width:544px){.ast-archive-description .ast-archive-title{font-size:40px;}.entry-title{font-size:30px;}h1,.entry-content h1,.entry-content h1 a{font-size:30px;}h2,.entry-content h2,.entry-content h2 a{font-size:25px;}h3,.entry-content h3,.entry-content h3 a{font-size:20px;}.ast-single-post .entry-title,.page-title{font-size:30px;}}@media (max-width:768px){html{font-size:102.6%;}}@media (max-width:544px){html{font-size:102.6%;}}@media (min-width:769px){.ast-container{max-width:1240px;}}@font-face {font-family: "Astra";src: url( https://www.authorityhacker.com/wp-content/themes/astra/assets/fonts/astra.woff) format("woff"),url( https://www.authorityhacker.com/wp-content/themes/astra/assets/fonts/astra.ttf) format("truetype"),url( https://www.authorityhacker.com/wp-content/themes/astra/assets/fonts/astra.svg#astra) format("svg");font-weight: normal;font-style: normal;}@media (max-width:921px) {.main-header-bar .main-header-bar-navigation{display:none;}}.ast-desktop .main-header-menu.submenu-with-border .sub-menu,.ast-desktop .main-header-menu.submenu-with-border .children,.ast-desktop .main-header-menu.submenu-with-border .astra-full-megamenu-wrapper{border-color:#eaeaea;}.ast-desktop .main-header-menu.submenu-with-border .sub-menu,.ast-desktop .main-header-menu.submenu-with-border .children{border-top-width:1px;border-right-width:1px;border-left-width:1px;border-bottom-width:1px;border-style:solid;}.ast-desktop .main-header-menu.submenu-with-border .sub-menu .sub-menu,.ast-desktop .main-header-menu.submenu-with-border .children .children{top:-1px;}.ast-desktop .main-header-menu.submenu-with-border .sub-menu a,.ast-desktop .main-header-menu.submenu-with-border .children a{border-bottom-width:1px;border-style:solid;border-color:#eaeaea;}@media (min-width:769px){.main-header-menu .sub-menu li.ast-left-align-sub-menu:hover > ul,.main-header-menu .sub-menu li.ast-left-align-sub-menu.focus > ul{margin-left:-2px;}}.ast-small-footer{border-top-style:solid;border-top-width:1px;border-top-color:#7a7a7a;}.ast-small-footer-wrap{text-align:center;}@media (max-width:920px){.ast-404-layout-1 .ast-404-text{font-size:100px;font-size:5.5555555555556rem;}}
+.ast-header-break-point .site-header{border-bottom-width:1px;}@media (min-width:769px){.main-header-bar{border-bottom-width:1px;}}.ast-flex{-webkit-align-content:center;-ms-flex-line-pack:center;align-content:center;-webkit-box-align:center;-webkit-align-items:center;-moz-box-align:center;-ms-flex-align:center;align-items:center;}.main-header-bar{padding:1em 0;}.ast-site-identity{padding:0;}
+@media (min-width:769px){.ast-theme-transparent-header #masthead{position:absolute;left:0;right:0;}.ast-theme-transparent-header .main-header-bar, .ast-theme-transparent-header.ast-header-break-point .main-header-bar{background:none;}body.elementor-editor-active.ast-theme-transparent-header #masthead, .fl-builder-edit .ast-theme-transparent-header #masthead, body.vc_editor.ast-theme-transparent-header #masthead{z-index:0;}.ast-header-break-point.ast-replace-site-logo-transparent.ast-theme-transparent-header .ast-mobile-header-logo{display:none;}.ast-header-break-point.ast-replace-site-logo-transparent.ast-theme-transparent-header .transparent-custom-logo .custom-logo{display:inline-block;}.ast-theme-transparent-header .ast-above-header{background-image:none;background-color:transparent;}.ast-theme-transparent-header .ast-below-header{background-image:none;background-color:transparent;}}@media (max-width:768px){.ast-theme-transparent-header #masthead{position:absolute;left:0;right:0;}.ast-theme-transparent-header .main-header-bar, .ast-theme-transparent-header.ast-header-break-point .main-header-bar{background:none;}body.elementor-editor-active.ast-theme-transparent-header #masthead, .fl-builder-edit .ast-theme-transparent-header #masthead, body.vc_editor.ast-theme-transparent-header #masthead{z-index:0;}.ast-header-break-point.ast-replace-site-logo-transparent.ast-theme-transparent-header .ast-mobile-header-logo{display:none;}.ast-header-break-point.ast-replace-site-logo-transparent.ast-theme-transparent-header .transparent-custom-logo .custom-logo{display:inline-block;}.ast-theme-transparent-header .ast-above-header{background-image:none;background-color:transparent;}.ast-theme-transparent-header .ast-below-header{background-image:none;background-color:transparent;}}.ast-theme-transparent-header .main-header-bar, .ast-theme-transparent-header .site-header{border-bottom-width:0;}
+</style>
+<style id="learndash_style-inline-css" type="text/css">
+body #learndash_lessons a, body #learndash_quizzes a, body .expand_collapse a, body .learndash_topic_dots a, body .learndash_topic_dots a > span, body #learndash_lesson_topics_list span a, body #learndash_profile a, body #learndash_profile a span{font-family:'Open Sans', sans-serif;}body #ld_course_list .btn, body a.btn-blue, body a.btn-blue:visited, body a#quiz_continue_link, body .btn-join, body .learndash_checkout_buttons input.btn-join[type="button"], body #btn-join, body .learndash_checkout_buttons input.btn-join[type="submit"], body .wpProQuiz_content .wpProQuiz_button2{color:#ffffff;border-color:#085387;background-color:#085387;border-radius:2px;}body #ld_course_list .btn:hover, body #ld_course_list .btn:focus, body a.btn-blue:hover, body a.btn-blue:focus, body a#quiz_continue_link:hover, body a#quiz_continue_link:focus, body .btn-join:hover, body .learndash_checkout_buttons input.btn-join[type="button"]:hover, body .btn-join:focus, body .learndash_checkout_buttons input.btn-join[type="button"]:focus, .wpProQuiz_content .wpProQuiz_button2:hover, .wpProQuiz_content .wpProQuiz_button2:focus, body #btn-join:hover, body .learndash_checkout_buttons input.btn-join[type="submit"]:hover, body #btn-join:focus, body .learndash_checkout_buttons input.btn-join[type="submit"]:focus{color:#000000;border-color:#f2b74c;background-color:#f2b74c;}body dd.course_progress div.course_progress_blue, body .wpProQuiz_content .wpProQuiz_time_limit .wpProQuiz_progress{background-color:#085387;}body #learndash_lessons a, body #learndash_quizzes a, body .expand_collapse a, body .learndash_topic_dots a, body .learndash_topic_dots a > span, body #learndash_lesson_topics_list span a, body #learndash_profile a, #learndash_profile .profile_edit_profile a, body #learndash_profile .expand_collapse a, body #learndash_profile a span, #lessons_list .list-count, #quiz_list .list-count{color:#085387;}.learndash .notcompleted:before, #learndash_profile .notcompleted:before, .learndash_topic_dots ul .topic-notcompleted span:before, .learndash_navigation_lesson_topics_list .topic-notcompleted span:before, .learndash_navigation_lesson_topics_list ul .topic-notcompleted span:before, .learndash .topic-notcompleted span:before{color:rgba(66,71,78,0.5);}body .thumbnail.course .ld_course_grid_price, body .thumbnail.course .ld_course_grid_price.ribbon-enrolled, body #learndash_lessons #lesson_heading, body #learndash_profile .learndash_profile_heading, body #learndash_quizzes #quiz_heading, body #learndash_lesson_topics_list div > strong, body .learndash-pager span a, body #learndash_profile .learndash_profile_quiz_heading{background-color:#085387;color:#ffffff;}.learndash .completed:before, #learndash_profile .completed:before, .learndash_topic_dots ul .topic-completed span:before, .learndash_navigation_lesson_topics_list .topic-completed span:before, .learndash_navigation_lesson_topics_list ul .topic-completed span:before, .learndash .topic-completed span:before, body .list_arrow.lesson_completed:before{color:#085387;}body .thumbnail.course .ld_course_grid_price:before{border-top-color:rgba(8,83,135,0.75);border-right-color:rgba(8,83,135,0.75);}body .wpProQuiz_loadQuiz, body .wpProQuiz_lock{border-color:rgba(8,83,135,0.5);background-color:rgba(8,83,135,0.1);}#ld_course_list .entry-title{font-size:30px;font-size:1.6666666666667rem;}body #course_list .list-count, body #lessons_list .list-count, body #quiz_list .list-count{display:none;}body #course_list > div h4 > a, body #lessons_list > div h4 > a, body #quiz_list > div h4 > a, body #learndash_course_content .learndash_topic_dots ul > li a{padding-left:.75em;margin-left:auto;}@media (max-width:768px){#ld_course_list .entry-title{font-size:30px;}}@media (max-width:544px){#ld_course_list .entry-title{font-size:30px;}}
+</style>
+<link rel="stylesheet" id="dashicons-css" href="https://www.authorityhacker.com/wp-includes/css/dashicons.min.css?ver=5.0.2" type="text/css" media="all">
+<link rel="stylesheet" id="astra-addon-css-css" href="https://www.authorityhacker.com/wp-content/cache/autoptimize/css/autoptimize_single_98112fce010b4182f4945dec7f73d65b.css?ver=1.6.9" type="text/css" media="all">
+<style id="astra-addon-css-inline-css" type="text/css">
+h1, .entry-content h1{color:#42474e;}h2, .entry-content h2{color:#42474e;}h3, .entry-content h3{color:#42474e;}h4, .entry-content h4{color:#42474e;}h5, .entry-content h5{color:#42474e;}h6, .entry-content h6{color:#42474e;}.ast-single-post .entry-title, .page-title{color:#085387;}.ast-separate-container .blog-layout-1, .ast-separate-container .blog-layout-2, .ast-separate-container .blog-layout-3{background-color:transparent;background-image:none;}.ast-separate-container .ast-article-post{background-color:#ffffff;}.ast-archive-description .page-title{color:#085387;}.ast-separate-container .ast-article-single, .ast-separate-container .comment-respond,.ast-separate-container .ast-comment-list li, .ast-separate-container .ast-woocommerce-container, .ast-separate-container .error-404, .ast-separate-container .no-results, .single.ast-separate-container .ast-author-meta, .ast-separate-container .related-posts-title-wrapper, .ast-separate-container.ast-two-container #secondary .widget,.ast-separate-container .comments-count-wrapper, .ast-box-layout.ast-plain-container .site-content,.ast-padded-layout.ast-plain-container .site-content{background-color:#ffffff;}@media (min-width:769px){.ast-container{max-width:1240px;}}@media (min-width:993px){.ast-container{max-width:1240px;}}@media (min-width:1201px){.ast-container{max-width:1240px;}}.ast-default-menu-enable.ast-main-header-nav-open.ast-header-break-point .main-header-bar, .ast-main-header-nav-open .main-header-bar{padding-bottom:0;}.ast-fullscreen-menu-enable.ast-header-break-point .main-header-bar .main-header-bar-navigation .main-header-menu > .page_item_has_children > .ast-menu-toggle, .ast-fullscreen-menu-enable.ast-header-break-point .main-header-bar .main-header-bar-navigation .main-header-menu > .menu-item-has-children > .ast-menu-toggle{right:0;}.ast-fullscreen-menu-enable.ast-header-break-point .main-header-bar .main-header-bar-navigation ul.sub-menu .menu-item-has-children > .ast-menu-toggle, .ast-fullscreen-menu-enable.ast-header-break-point .main-header-bar .main-header-bar-navigation ul.children .page_item_has_children > .ast-menu-toggle{right:0;}.ast-fullscreen-menu-enable.ast-header-break-point .ast-above-header-menu ul.sub-menu li.menu-item-has-children > a, .ast-default-menu-enable.ast-header-break-point .ast-above-header-menu ul.sub-menu li.menu-item-has-children > a, .ast-flyout-menu-enable.ast-header-break-point .ast-above-header-menu ul.sub-menu li.menu-item-has-children > a{padding-right:0;}.ast-fullscreen-menu-enable.ast-header-break-point .ast-below-header-menu ul.sub-menu li.menu-item-has-children > a, .ast-default-menu-enable.ast-header-break-point .ast-below-header-menu ul.sub-menu li.menu-item-has-children > a, .ast-flyout-menu-enable.ast-header-break-point .ast-below-header-menu ul.sub-menu li.menu-item-has-children > a{padding-right:0;}.ast-fullscreen-below-menu-enable.ast-header-break-point .ast-below-header-enabled .ast-below-header-navigation ul.ast-below-header-menu li.menu-item-has-children > a, .ast-default-below-menu-enable.ast-header-break-point .ast-below-header-enabled .ast-below-header-navigation ul.ast-below-header-menu li.menu-item-has-children > a, .ast-flyout-below-menu-enable.ast-header-break-point .ast-below-header-enabled .ast-below-header-navigation ul.ast-below-header-menu li.menu-item-has-children > a{padding-right:0;}.ast-fullscreen-below-menu-enable.ast-header-break-point .ast-below-header-navigation .menu-item-has-children > .ast-menu-toggle, .ast-fullscreen-below-menu-enable.ast-header-break-point .ast-below-header-menu-items .menu-item-has-children > .ast-menu-toggle{right:0;}.ast-fullscreen-below-menu-enable .ast-below-header-enabled .ast-below-header-navigation ul.ast-below-header-menu li.menu-item-has-children ul.sub-menu .ast-menu-toggle{right:0;}.ast-fullscreen-above-menu-enable.ast-header-break-point .ast-above-header-enabled .ast-above-header-navigation ul.ast-above-header-menu li.menu-item-has-children > a, .ast-default-above-menu-enable.ast-header-break-point .ast-above-header-enabled .ast-above-header-navigation ul.ast-above-header-menu li.menu-item-has-children > a, .ast-flyout-above-menu-enable.ast-header-break-point .ast-above-header-enabled .ast-above-header-navigation ul.ast-above-header-menu li.menu-item-has-children > a{padding-right:0;}.ast-fullscreen-above-menu-enable.ast-header-break-point .ast-above-header-navigation .menu-item-has-children > .ast-menu-toggle, .ast-fullscreen-above-menu-enable.ast-header-break-point .ast-above-header-menu-items .menu-item-has-children > .ast-menu-toggle{right:0;}.ast-fullscreen-above-menu-enable .ast-above-header-enabled .ast-above-header-navigation ul.ast-above-header-menu li.menu-item-has-children ul.sub-menu .ast-menu-toggle{right:0;}.ast-no-sidebar.ast-separate-container .entry-content .alignfull{margin-right:-;margin-left:-;}@media (max-width:768px){.main-header-bar, .ast-header-break-point .main-header-bar, .ast-header-break-point .header-main-layout-2 .main-header-bar{padding-top:1.5em;padding-bottom:1.5em;}.ast-default-menu-enable.ast-main-header-nav-open.ast-header-break-point .main-header-bar, .ast-main-header-nav-open .main-header-bar{padding-bottom:0;}.main-navigation ul li a, .ast-header-break-point .main-navigation ul li a, .ast-header-break-point li.ast-masthead-custom-menu-items, li.ast-masthead-custom-menu-items{padding-top:0px;padding-right:20px;padding-bottom:0px;padding-left:20px;}.ast-header-break-point .main-header-bar .main-header-bar-navigation .page_item_has_children > .ast-menu-toggle, .ast-header-break-point .main-header-bar .main-header-bar-navigation .menu-item-has-children > .ast-menu-toggle{top:0px;right:calc( 20px - 0.907em );}.ast-fullscreen-menu-enable.ast-header-break-point .main-header-bar .main-header-bar-navigation .main-header-menu > .page_item_has_children > .ast-menu-toggle, .ast-fullscreen-menu-enable.ast-header-break-point .main-header-bar .main-header-bar-navigation .main-header-menu > .menu-item-has-children > .ast-menu-toggle{right:0;}.ast-flyout-menu-enable.ast-header-break-point .main-header-bar .main-header-bar-navigation .main-header-menu > .page_item_has_children > .ast-menu-toggle, .ast-flyout-menu-enable.ast-header-break-point .main-header-bar .main-header-bar-navigation .main-header-menu > .menu-item-has-children > .ast-menu-toggle{right:calc( 20px - 0.907em );}.ast-flyout-menu-enable.ast-header-break-point .main-header-bar .main-header-bar-navigation .page_item_has_children > .ast-menu-toggle, .ast-flyout-menu-enable.ast-header-break-point .main-header-bar .main-header-bar-navigation .menu-item-has-children > .ast-menu-toggle{top:0px;}.ast-desktop .main-navigation .ast-mm-template-content, .ast-desktop .main-navigation .ast-mm-custom-text-content,.main-navigation ul.sub-menu li a, .main-navigation ul.children li a, .ast-header-break-point .main-navigation ul.sub-menu li a, .ast-header-break-point .main-navigation ul.children li a{padding-top:0px;padding-right:0;padding-bottom:0px;padding-left:30px;}.ast-header-break-point .main-navigation ul.children li li a, .ast-header-break-point .main-navigation ul.sub-menu li li a{padding-left:calc( 30px + 10px );}.ast-header-break-point .main-navigation ul.children li li li a, .ast-header-break-point .main-navigation ul.sub-menu li li li a{padding-left:calc( 30px + 20px );}.ast-header-break-point .main-navigation ul.children li li li li a, .ast-header-break-point .main-navigation ul.sub-menu li li li li a{padding-left:calc( 30px + 30px );}.ast-header-break-point .main-navigation ul.children li li li li li a, .ast-header-break-point .main-navigation ul.sub-menu li li li li li a{padding-left:calc( 30px + 40px );}.ast-header-break-point .main-header-bar .main-header-bar-navigation ul.sub-menu .menu-item-has-children > .ast-menu-toggle, .ast-header-break-point .main-header-bar .main-header-bar-navigation ul.children .page_item_has_children > .ast-menu-toggle{top:0px;right:calc( 20px - 0.907em );}.ast-fullscreen-menu-enable.ast-header-break-point .main-header-bar .main-header-bar-navigation ul.sub-menu .menu-item-has-children > .ast-menu-toggle{margin-right:20px;right:0;}.ast-flyout-menu-enable.ast-header-break-point .main-header-bar .main-header-bar-navigation ul.sub-menu .menu-item-has-children > .ast-menu-toggle, .ast-flyout-menu-enable.ast-header-break-point .main-header-bar .main-header-bar-navigation ul.children .page_item_has_children > .ast-menu-toggle{right:calc( 20px - 0.907em );}.ast-flyout-menu-enable.ast-header-break-point .main-header-bar .main-header-bar-navigation .page_item_has_children .children .ast-menu-toggle, .ast-flyout-menu-enable.ast-header-break-point .main-header-bar .main-header-bar-navigation .menu-item-has-children .sub-menu .ast-menu-toggle{top:0px;}.ast-fullscreen-menu-enable.ast-header-break-point .main-navigation ul.sub-menu li.menu-item-has-children > a, .ast-fullscreen-menu-enable.ast-header-break-point .main-navigation ul.sub-menu li.page_item_has_children > a, .ast-default-menu-enable.ast-header-break-point .main-navigation ul.sub-menu li.menu-item-has-children > a, .ast-default-menu-enable.ast-header-break-point .main-navigation ul.sub-menu li.page_item_has_children > a, .ast-flyout-menu-enable.ast-header-break-point .main-navigation ul.sub-menu li.menu-item-has-children > a, .ast-flyout-menu-enable.ast-header-break-point .main-navigation ul.sub-menu li.page_item_has_children > a{padding-top:0px;padding-bottom:0px;padding-left:30px;}.ast-fullscreen-menu-enable.ast-header-break-point .ast-above-header-menu ul.sub-menu li.menu-item-has-children > a, .ast-default-menu-enable.ast-header-break-point .ast-above-header-menu ul.sub-menu li.menu-item-has-children > a, .ast-flyout-menu-enable.ast-header-break-point .ast-above-header-menu ul.sub-menu li.menu-item-has-children > a{padding-right:0;padding-top:0px;padding-bottom:0px;padding-left:30px;}.ast-fullscreen-menu-enable.ast-header-break-point .ast-below-header-menu ul.sub-menu li.menu-item-has-children > a, .ast-default-menu-enable.ast-header-break-point .ast-below-header-menu ul.sub-menu li.menu-item-has-children > a, .ast-flyout-menu-enable.ast-header-break-point .ast-below-header-menu ul.sub-menu li.menu-item-has-children > a{padding-right:0;padding-top:0px;padding-bottom:0px;padding-left:30px;}.ast-fullscreen-menu-enable.ast-header-break-point .ast-below-header-menu ul a, .ast-fullscreen-menu-enable.ast-header-break-point .ast-header-break-point .ast-below-header-actual-nav ul.sub-menu li a, .ast-fullscreen-menu-enable.ast-header-break-point .ast-below-header-navigation ul.sub-menu li a, .ast-fullscreen-menu-enable.ast-header-break-point .ast-below-header-menu-items ul.sub-menu li a, .ast-fullscreen-menu-enable.ast-header-break-point .main-navigation ul.sub-menu li a{padding-top:0px;padding-bottom:0px;padding-left:30px;}.ast-below-header, .ast-header-break-point .ast-below-header{padding-top:1em;padding-bottom:1em;}.ast-below-header-menu a, .below-header-nav-padding-support .below-header-section-1 .below-header-menu > li > a, .below-header-nav-padding-support .below-header-section-2 .below-header-menu > li > a, .ast-header-break-point .ast-below-header-actual-nav > ul > li > a{padding-top:0px;padding-right:20px;padding-bottom:0px;padding-left:20px;}.ast-desktop .ast-below-header-menu .ast-mm-template-content, .ast-desktop .ast-below-header-menu .ast-mm-custom-text-content, .ast-below-header-menu ul a, .ast-header-break-point .ast-below-header-actual-nav ul.sub-menu li a{padding-top:0px;padding-right:20px;padding-bottom:0px;padding-left:20px;}.ast-header-break-point .ast-below-header-actual-nav ul.sub-menu li li a, .ast-header-break-point .ast-below-header-menu-items ul.sub-menu li li a{padding-left:calc( 20px + 10px );}.ast-header-break-point .ast-below-header-actual-nav ul.sub-menu li li li a, .ast-header-break-point .ast-below-header-menu-items ul.sub-menu li li li a{padding-left:calc( 20px + 20px );}.ast-header-break-point .ast-below-header-actual-nav ul.sub-menu li li li li a, .ast-header-break-point .ast-below-header-menu-items ul.sub-menu li li li li a{padding-left:calc( 20px + 30px );}.ast-header-break-point .ast-below-header-actual-nav ul.sub-menu li li li li li a, .ast-header-break-point .ast-below-header-menu-items ul.sub-menu li li li li li a{padding-left:calc( 20px + 40px );}.ast-default-below-menu-enable.ast-header-break-point .ast-below-header-navigation .menu-item-has-children > .ast-menu-toggle,  .ast-default-below-menu-enable.ast-header-break-point .ast-below-header-menu-items .menu-item-has-children > .ast-menu-toggle, .ast-flyout-below-menu-enable.ast-header-break-point .ast-below-header-navigation .menu-item-has-children > .ast-menu-toggle,  .ast-flyout-below-menu-enable.ast-header-break-point .ast-below-header-menu-items .menu-item-has-children > .ast-menu-toggle{top:0px;right:calc( 20px - 0.907em );}.ast-default-below-menu-enable .ast-below-header-enabled .ast-below-header-navigation ul.ast-below-header-menu li.menu-item-has-children ul.sub-menu .ast-menu-toggle, .ast-flyout-below-menu-enable .ast-below-header-enabled .ast-below-header-navigation ul.ast-below-header-menu li.menu-item-has-children ul.sub-menu .ast-menu-toggle{top:0px;right:calc( 20px - 0.907em );}.ast-fullscreen-below-menu-enable.ast-header-break-point .ast-below-header-navigation .menu-item-has-children > .ast-menu-toggle, .ast-fullscreen-below-menu-enable.ast-header-break-point .ast-below-header-menu-items .menu-item-has-children > .ast-menu-toggle{right:0;}.ast-fullscreen-below-menu-enable .ast-below-header-enabled .ast-below-header-navigation ul.ast-below-header-menu li.menu-item-has-children ul.sub-menu .ast-menu-toggle{right:0;}.ast-above-header{padding-top:0px;padding-bottom:0px;}.ast-above-header-enabled .ast-above-header-navigation .ast-above-header-menu > li > a, .ast-header-break-point .ast-above-header-enabled .ast-above-header-menu > li:first-child > a, .ast-header-break-point .ast-above-header-enabled .ast-above-header-menu > li:last-child > a{padding-top:0px;padding-right:20px;padding-bottom:0px;padding-left:20px;}.ast-header-break-point .ast-above-header-navigation > ul > .menu-item-has-children > .ast-menu-toggle{top:0px;}.ast-desktop .ast-above-header-navigation .ast-mm-custom-text-content, .ast-desktop .ast-above-header-navigation .ast-mm-template-content, .ast-above-header-enabled .ast-above-header-navigation .ast-above-header-menu li ul a, .ast-header-break-point .ast-above-header-enabled .ast-above-header-menu li ul.sub-menu a, .ast-above-header-enabled .ast-above-header-menu > li:first-child .sub-menu li a{padding-top:0px;padding-right:20px;padding-bottom:0px;padding-left:20px;}.ast-header-break-point .ast-above-header-enabled .ast-above-header-menu li ul.sub-menu li a{padding-left:calc( 20px + 10px );}.ast-header-break-point .ast-above-header-enabled .ast-above-header-menu li ul.sub-menu li li a{padding-left:calc( 20px + 20px );}.ast-header-break-point .ast-above-header-enabled .ast-above-header-menu li ul.sub-menu li li li a{padding-left:calc( 20px + 30px );}.ast-header-break-point .ast-above-header-enabled .ast-above-header-menu li ul.sub-menu li li li li a{padding-left:calc( 20px + 40px );}.ast-default-above-menu-enable.ast-header-break-point .ast-above-header-navigation .menu-item-has-children > .ast-menu-toggle,  .ast-default-above-menu-enable.ast-header-break-point .ast-above-header-menu-items .menu-item-has-children > .ast-menu-toggle, .ast-flyout-above-menu-enable.ast-header-break-point .ast-above-header-navigation .menu-item-has-children > .ast-menu-toggle,  .ast-flyout-above-menu-enable.ast-header-break-point .ast-above-header-menu-items .menu-item-has-children > .ast-menu-toggle{top:0px;right:calc( 20px - 0.907em );}.ast-default-above-menu-enable .ast-above-header-enabled .ast-above-header-navigation ul.ast-above-header-menu li.menu-item-has-children ul.sub-menu .ast-menu-toggle, .ast-flyout-above-menu-enable .ast-above-header-enabled .ast-above-header-navigation ul.ast-above-header-menu li.menu-item-has-children ul.sub-menu .ast-menu-toggle{top:0px;right:calc( 20px - 0.907em );}.ast-fullscreen-above-menu-enable.ast-header-break-point .ast-above-header-navigation .menu-item-has-children > .ast-menu-toggle, .ast-fullscreen-above-menu-enable.ast-header-break-point .ast-above-header-menu-items .menu-item-has-children > .ast-menu-toggle{right:0;}.ast-fullscreen-above-menu-enable .ast-above-header-enabled .ast-above-header-navigation ul.ast-above-header-menu li.menu-item-has-children ul.sub-menu .ast-menu-toggle{margin-right:20px;right:0;}.ast-separate-container .ast-article-post, .ast-separate-container .ast-article-single, .ast-separate-container .ast-comment-list li.depth-1, .ast-separate-container .comment-respond, .single.ast-separate-container .ast-author-details, .ast-separate-container .ast-related-posts-wrap, .ast-separate-container .ast-woocommerce-container{padding-top:1.5em;padding-bottom:1.5em;}.ast-separate-container .ast-article-post, .ast-separate-container .ast-article-single,.ast-separate-container .comments-count-wrapper, .ast-separate-container .ast-comment-list li.depth-1, .ast-separate-container .comment-respond,.ast-separate-container .related-posts-title-wrapper,.ast-separate-container .related-posts-title-wrapper, .single.ast-separate-container .ast-author-details, .single.ast-separate-container .about-author-title-wrapper, .ast-separate-container .ast-related-posts-wrap, .ast-separate-container .ast-woocommerce-container{padding-right:2.14em;padding-left:2.14em;}.ast-separate-container.ast-right-sidebar #primary, .ast-separate-container.ast-left-sidebar #primary, .ast-separate-container #primary, .ast-plain-container #primary{margin-top:1.5em;margin-bottom:1.5em;}.ast-left-sidebar #primary, .ast-right-sidebar #primary, .ast-separate-container.ast-right-sidebar #primary, .ast-separate-container.ast-left-sidebar #primary, .ast-separate-container #primary{padding-left:0em;padding-right:0em;}.ast-footer-overlay{padding-top:2em;padding-bottom:2em;}.ast-small-footer .nav-menu a, .footer-sml-layout-2 .ast-small-footer-section-1 .menu-item a, .footer-sml-layout-2 .ast-small-footer-section-2 .menu-item a{padding-top:0em;padding-right:.5em;padding-bottom:0em;padding-left:.5em;}}@media (max-width:544px){.main-header-bar, .ast-header-break-point .main-header-bar, .ast-header-break-point .header-main-layout-2 .main-header-bar, .ast-header-break-point .ast-mobile-header-stack .main-header-bar{padding-top:1em;padding-bottom:1em;}.ast-default-menu-enable.ast-main-header-nav-open.ast-header-break-point .main-header-bar, .ast-main-header-nav-open .main-header-bar{padding-bottom:0;}.ast-fullscreen-menu-enable.ast-header-break-point .main-header-bar .main-header-bar-navigation .main-header-menu > .page_item_has_children > .ast-menu-toggle, .ast-fullscreen-menu-enable.ast-header-break-point .main-header-bar .main-header-bar-navigation .main-header-menu > .menu-item-has-children > .ast-menu-toggle{right:0;}.ast-desktop .main-navigation .ast-mm-template-content, .ast-desktop .main-navigation .ast-mm-custom-text-content,.main-navigation ul.sub-menu li a, .main-navigation ul.children li a, .ast-header-break-point .main-navigation ul.sub-menu li a, .ast-header-break-point .main-navigation ul.children li a{padding-right:0;}.ast-fullscreen-menu-enable.ast-header-break-point .main-header-bar .main-header-bar-navigation ul.sub-menu .menu-item-has-children > .ast-menu-toggle{right:0;}.ast-fullscreen-menu-enable.ast-header-break-point .ast-above-header-menu ul.sub-menu li.menu-item-has-children > a, .ast-default-menu-enable.ast-header-break-point .ast-above-header-menu ul.sub-menu li.menu-item-has-children > a, .ast-flyout-menu-enable.ast-header-break-point .ast-above-header-menu ul.sub-menu li.menu-item-has-children > a{padding-right:0;}.ast-fullscreen-menu-enable.ast-header-break-point .ast-below-header-menu ul.sub-menu li.menu-item-has-children > a, .ast-default-menu-enable.ast-header-break-point .ast-below-header-menu ul.sub-menu li.menu-item-has-children > a, .ast-flyout-menu-enable.ast-header-break-point .ast-below-header-menu ul.sub-menu li.menu-item-has-children > a{padding-right:0;}.ast-fullscreen-below-menu-enable.ast-header-break-point .ast-below-header-navigation .menu-item-has-children > .ast-menu-toggle, .ast-fullscreen-below-menu-enable.ast-header-break-point .ast-below-header-menu-items .menu-item-has-children > .ast-menu-toggle{right:0;}.ast-fullscreen-below-menu-enable .ast-below-header-enabled .ast-below-header-navigation ul.ast-below-header-menu li.menu-item-has-children ul.sub-menu .ast-menu-toggle{right:0;}.ast-above-header{padding-top:0.5em;}.ast-fullscreen-above-menu-enable.ast-header-break-point .ast-above-header-enabled .ast-above-header-navigation ul.ast-above-header-menu li.menu-item-has-children > a, .ast-default-above-menu-enable.ast-header-break-point .ast-above-header-enabled .ast-above-header-navigation ul.ast-above-header-menu li.menu-item-has-children > a, .ast-flyout-above-menu-enable.ast-header-break-point .ast-above-header-enabled .ast-above-header-navigation ul.ast-above-header-menu li.menu-item-has-children > a{padding-right:0;}.ast-fullscreen-above-menu-enable.ast-header-break-point .ast-above-header-navigation .menu-item-has-children > .ast-menu-toggle, .ast-fullscreen-above-menu-enable.ast-header-break-point .ast-above-header-menu-items .menu-item-has-children > .ast-menu-toggle{right:0;}.ast-fullscreen-above-menu-enable .ast-above-header-enabled .ast-above-header-navigation ul.ast-above-header-menu li.menu-item-has-children ul.sub-menu .ast-menu-toggle{right:0;}.ast-separate-container .ast-article-post, .ast-separate-container .ast-article-single, .ast-separate-container .ast-comment-list li.depth-1, .ast-separate-container .comment-respond, .single.ast-separate-container .ast-author-details, .ast-separate-container .ast-related-posts-wrap, .ast-separate-container .ast-woocommerce-container{padding-top:1.5em;padding-bottom:1.5em;}.ast-separate-container .ast-article-post, .ast-separate-container .ast-article-single,.ast-separate-container .comments-count-wrapper, .ast-separate-container .ast-comment-list li.depth-1, .ast-separate-container .comment-respond,.ast-separate-container .related-posts-title-wrapper,.ast-separate-container .related-posts-title-wrapper, .single.ast-separate-container .ast-author-details, .single.ast-separate-container .about-author-title-wrapper, .ast-separate-container .ast-related-posts-wrap, .ast-separate-container .ast-woocommerce-container{padding-right:1em;padding-left:1em;}}@media (max-width:544px){.ast-header-break-point .header-main-layout-2 .site-branding, .ast-header-break-point .ast-mobile-header-stack .ast-mobile-menu-buttons{padding-bottom:0;}}@media (max-width:768px){.ast-separate-container.ast-two-container #secondary .widget, .ast-separate-container #secondary .widget{margin-bottom:1.5em;}}@media (max-width:768px){.ast-separate-container #primary{padding-top:0;}}@media (max-width:768px){.ast-separate-container #primary{padding-bottom:0;}}#ast-scroll-top{background-color:rgba(8,83,135,0.8);font-size:15px;font-size:0.83333333333333rem;}.site-title, .site-title a{font-family:'Open Sans', sans-serif;text-transform:capitalize;}.secondary .widget-title{font-family:'Open Sans', sans-serif;text-transform:capitalize;}.secondary .widget > *:not(.widget-title){font-family:'Open Sans', sans-serif;}.ast-single-post .entry-title, .page-title{font-family:'Open Sans', sans-serif;text-transform:capitalize;}.ast-archive-description .ast-archive-title{font-family:'Open Sans', sans-serif;text-transform:capitalize;}.blog .entry-title, .blog .entry-title a, .archive .entry-title, .archive .entry-title a, .search .entry-title, .search .entry-title a {font-family:'Open Sans', sans-serif;text-transform:capitalize;}h1, .entry-content h1, .entry-content h1 a{font-family:'Open Sans', sans-serif;text-transform:capitalize;}h2, .entry-content h2, .entry-content h2 a{font-weight:700;font-family:'Open Sans', sans-serif;line-height:1.5;text-transform:capitalize;}h3, .entry-content h3, .entry-content h3 a{font-weight:600;font-family:'Open Sans', sans-serif;text-transform:capitalize;}h4, .entry-content h4, .entry-content h4 a{font-weight:600;font-family:'Open Sans', sans-serif;text-transform:capitalize;}h5, .entry-content h5, .entry-content h5 a{font-family:'Open Sans', sans-serif;text-transform:capitalize;}h6, .entry-content h6, .entry-content h6 a{font-family:'Open Sans', sans-serif;text-transform:capitalize;}.ast-advanced-headers-different-logo .advanced-header-logo .custom-logo{display:inline-block;}.ast-header-break-point.ast-advanced-headers-different-logo .ast-has-mobile-header-logo .ast-mobile-header-logo{display:none;}.ast-advanced-headers-layout{width:100%;}
+</style>
+<link rel="stylesheet" id="elementor-global-css" href="https://www.authorityhacker.com/wp-content/cache/autoptimize/css/autoptimize_single_3ecd83c1c4fcfa0697518d53afe2d48f.css?ver=1545895205" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-post-20658-css" href="https://www.authorityhacker.com/wp-content/cache/autoptimize/css/autoptimize_single_5e6842a8bca66792fc23df79136afb29.css?ver=1545895205" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-post-20675-css" href="https://www.authorityhacker.com/wp-content/cache/autoptimize/css/autoptimize_single_026ddf76323af11fa7f5f5264fd8b424.css?ver=1545895205" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-post-22266-css" href="https://www.authorityhacker.com/wp-content/cache/autoptimize/css/autoptimize_single_a5248063a4f16c23133579323dcc4c0d.css?ver=1545895258" type="text/css" media="all">
+<!--[if IE]>
+<script type='text/javascript' src='https://www.authorityhacker.com/wp-content/themes/astra/assets/js/minified/flexibility.min.js?ver=1.6.2'></script>
+<script type='text/javascript'>
+flexibility(document.documentElement);
+</script>
+<![endif]-->
+<script type="text/javascript" src="https://www.authorityhacker.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var ac_tracking_params = {"email":"","tracking_id":"475011937"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.authorityhacker.com/wp-content/plugins/memberium-ac/lib71//../../js/site-tracking.js?ver=5.0.2"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var affwp_erl_vars = {"cookie_expiration":"180","referral_variable":"a","url":"https:\/\/pro.authorityhacker.com"};
+/* ]]> */
+</script>
+<script type="text/javascript" data-cfasync="false" id="omapi-script" async="async" src="https://a.optmnstr.com/app/js/api.min.js"></script>
+<link rel="https://api.w.org/" href="https://www.authorityhacker.com/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.authorityhacker.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.authorityhacker.com/wp-includes/wlwmanifest.xml">
+<meta name="generator" content="WordPress 5.0.2">
+<link rel="shortlink" href="https://www.authorityhacker.com/?p=140">
+<link rel="alternate" type="application/json+oembed" href="https://www.authorityhacker.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.authorityhacker.com%2Fprivacy-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://www.authorityhacker.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.authorityhacker.com%2Fprivacy-policy%2F&amp;format=xml">
+<style type="text/css" media="all">.shortcode-star-rating{padding:0 0.5em;}.dashicons{font-size:20px;width:auto;height:auto;line-height:normal;text-decoration:inherit;vertical-align:middle;}.shortcode-star-rating [class^="dashicons dashicons-star-"]:before{color:#FCAE00;}.ssr-int{margin-left:0.2em;font-size:13px;vertical-align:middle;color:#333;}/*.shortcode-star-rating:before,.shortcode-star-rating:after{display: block;height:0;visibility:hidden;content:"\0020";}.shortcode-star-rating:after{clear:both;}*/</style>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Organization","name":"Authority Hacker","url":"https:\/\/www.authorityhacker.com","logo":{"@type":"ImageObject","url":"https:\/\/www.authorityhacker.com\/wp-content\/uploads\/2018\/08\/logo-authority-hacker-site-header.png","width":500,"height":82},"sameAs":["https:\/\/www.facebook.com\/authorityhackr\/","https:\/\/twitter.com\/authorityhacker","https:\/\/www.instagram.com\/authorityhackr\/","https:\/\/www.youtube.com\/authorityhacker","https:\/\/www.linkedin.com\/company\/authority-hacker\/about\/","https:\/\/pinterest.com\/authorityhackr\/","https:\/\/soundcloud.com\/authorityhacker"]}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@graph":[{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"SEO","url":"https:\/\/www.authorityhacker.com\/seo\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Affiliate Marketing","url":"https:\/\/www.authorityhacker.com\/affiliate-marketing\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Wordpress","url":"https:\/\/www.authorityhacker.com\/wordpress\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Funnels","url":"https:\/\/www.authorityhacker.com\/funnels\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Advertising","url":"https:\/\/www.authorityhacker.com\/advertising\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Social Media","url":"https:\/\/www.authorityhacker.com\/social-media\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Paid Traffic","url":"https:\/\/www.authorityhacker.com\/paid-traffic\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Misc","url":"https:\/\/www.authorityhacker.com\/misc\/"}]}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"WebSite","name":"Authority Hacker","url":"https:\/\/www.authorityhacker.com","potentialAction":[{"@type":"SearchAction","target":"https:\/\/www.authorityhacker.com\/?s={search_term_string}","query-input":"required name=search_term_string"}]}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https:\/\/www.authorityhacker.com\/","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@id":"https:\/\/www.authorityhacker.com\/privacy-policy\/","name":"Privacy Policy"}}]}</script><meta name="generator" content="Memberium v1.65 for WordPress"><link title="Membership site system for WordPress and ActiveCampaign" type="text/html" rel="help" hreflang="en" href="https://Memberium.com">
+<script type="text/javascript">var ajaxurl = "https://www.authorityhacker.com/wp-admin/admin-ajax.php"</script>
+
+<script data-cfasync="false" type="text/javascript">//<![CDATA[var google_tag_params = {"pageTitle":"Privacy Policy | ","pagePostType":"page","pagePostType2":"single-page","pagePostAuthor":"Gael Breton","pagePostDate":"March 23, 2014","pagePostDateYear":"2014","pagePostDateMonth":"03","pagePostDateDay":"23"};
+	jQuery( function() {
+		gtm4wp_track_downloads( "pdf,doc,docx,xls,xlsx,ppt,pptx,zip,rar,gz,tar" );
+	});
+	dataLayer.push({"visitorLoginState":"logged-out","visitorType":"visitor-logged-out","pageTitle":"Privacy Policy | ","pagePostType":"page","pagePostType2":"single-page","pagePostAuthor":"Gael Breton","pagePostDate":"March 23, 2014","pagePostDateYear":"2014","pagePostDateMonth":"03","pagePostDateDay":"23","google_tag_params":window.google_tag_params});//]]>
+</script>
+<script data-cfasync="false">//<![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KJV6RFP');//]]>
+</script>
+
+<link rel="pingback" href="https://www.authorityhacker.com/xmlrpc.php">
+<link rel="icon" href="https://www.authorityhacker.com/wp-content/uploads/2018/11/ms-icon-144x144.png" sizes="32x32">
+<link rel="icon" href="https://www.authorityhacker.com/wp-content/uploads/2018/11/ms-icon-144x144.png" sizes="192x192">
+<link rel="apple-touch-icon-precomposed" href="https://www.authorityhacker.com/wp-content/uploads/2018/11/ms-icon-144x144.png">
+<meta name="msapplication-TileImage" content="https://www.authorityhacker.com/wp-content/uploads/2018/11/ms-icon-144x144.png">
+<style type="text/css" id="wp-custom-css">
+			h2 {
+	margin-bottom: 20px;
+}
+h3 {
+	margin-bottom:15px;
+}
+h4 {
+	margin-bottom:10px;
+}
+#loginform{
+	text-align: center;
+}
+.login-username>label{
+	display: block;
+}
+.login-password>label{
+	display: block;
+}		</style>
+</head>
+<body itemtype="https://schema.org/WebPage" itemscope="itemscope" class="page-template-default page page-id-140 wp-custom-logo wp-schema-pro-1.1.11 ast-desktop ast-page-builder-template ast-no-sidebar astra-1.6.2 ast-header-custom-item-inside group-blog ast-single-post ast-inherit-site-logo-transparent ast-full-width-layout elementor-page-22266 ast-normal-title-enabled elementor-default astra-addon-1.6.9">
+<div id="page" class="hfeed site">
+<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+<div class="elementor elementor-20658 elementor-type-header elementor-location-header">
+<div class="elementor-inner">
+<div class="elementor-section-wrap">
+<header data-id="1d27714d" class="elementor-element elementor-element-1d27714d elementor-section-content-middle elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_image&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;}}" data-element_type="section">
+<div class="elementor-container elementor-column-gap-no">
+<div class="elementor-row">
+<div data-id="43a05a8" class="elementor-element elementor-element-43a05a8 elementor-column elementor-col-25 elementor-top-column" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div data-id="4c3cbcd8" class="elementor-element elementor-element-4c3cbcd8 elementor-widget elementor-widget-theme-site-logo elementor-widget-image" data-element_type="theme-site-logo.default">
+<div class="elementor-widget-container">
+<div class="elementor-image">
+<a href="https://www.authorityhacker.com" data-elementor-open-lightbox="">
+<img width="300" height="49" src="https://www.authorityhacker.com/wp-content/uploads/2018/08/logo-authority-hacker-site-header.png" class="attachment-medium size-medium" alt="" srcset="https://www.authorityhacker.com/wp-content/uploads/2018/08/logo-authority-hacker-site-header-300x49.png 300w, https://www.authorityhacker.com/wp-content/uploads/2018/08/logo-authority-hacker-site-header-366x60.png 366w, https://www.authorityhacker.com/wp-content/uploads/2018/08/logo-authority-hacker-site-header.png 500w" sizes="(max-width: 300px) 100vw, 300px"> </a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div data-id="5b2f6a59" class="elementor-element elementor-element-5b2f6a59 elementor-column elementor-col-25 elementor-top-column" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div data-id="20e5bcc6" class="elementor-element elementor-element-20e5bcc6 elementor-nav-menu__align-right elementor-nav-menu--stretch elementor-nav-menu__text-align-center elementor-nav-menu--indicator-plus elementor-nav-menu--dropdown-tablet elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-settings="{&quot;full_width&quot;:&quot;stretch&quot;,&quot;layout&quot;:&quot;horizontal&quot;,&quot;toggle&quot;:&quot;burger&quot;}" data-element_type="nav-menu.default">
+<div class="elementor-widget-container">
+<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-grow"><ul id="menu-1-20e5bcc6" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20663"><a href="https://www.authorityhacker.com/what-is-an-authority-site/" class="elementor-item">Start Here</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21765"><a href="https://www.authorityhacker.com/about-us/" class="elementor-item">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26254"><a href="https://www.authorityhacker.com/blog/" class="elementor-item">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26255"><a href="https://www.authorityhacker.com/podcast/" class="elementor-item">Podcast</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21773"><a href="https://www.authorityhacker.com/online-marketing-tools/" class="elementor-item">Tools</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26253"><a href="https://www.authorityhacker.com/system/" class="elementor-item">Our System</a></li>
+</ul></nav>
+<div class="elementor-menu-toggle">
+<i class="eicon" aria-hidden="true"></i>
+</div>
+<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container"><ul id="menu-2-20e5bcc6" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20663"><a href="https://www.authorityhacker.com/what-is-an-authority-site/" class="elementor-item">Start Here</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21765"><a href="https://www.authorityhacker.com/about-us/" class="elementor-item">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26254"><a href="https://www.authorityhacker.com/blog/" class="elementor-item">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26255"><a href="https://www.authorityhacker.com/podcast/" class="elementor-item">Podcast</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21773"><a href="https://www.authorityhacker.com/online-marketing-tools/" class="elementor-item">Tools</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26253"><a href="https://www.authorityhacker.com/system/" class="elementor-item">Our System</a></li>
+</ul></nav>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div data-id="8206b1e" class="elementor-element elementor-element-8206b1e elementor-column elementor-col-25 elementor-top-column" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div data-id="39e2377" class="elementor-element elementor-element-39e2377 elementor-search-form--skin-full_screen elementor-widget elementor-widget-search-form" data-settings="{&quot;skin&quot;:&quot;full_screen&quot;}" data-element_type="search-form.default">
+<div class="elementor-widget-container">
+<form class="elementor-search-form" role="search" action="https://www.authorityhacker.com" method="get">
+<div class="elementor-search-form__toggle">
+<i class="fa fa-search" aria-hidden="true"></i>
+</div>
+<div class="elementor-search-form__container">
+<input placeholder="Search..." class="elementor-search-form__input" type="search" name="s" title="Search" value="">
+<div class="dialog-lightbox-close-button dialog-close-button">
+<i class="eicon-close" aria-hidden="true"></i>
+<span class="elementor-screen-only">Close</span>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div data-id="71260b21" class="elementor-element elementor-element-71260b21 elementor-column elementor-col-25 elementor-top-column" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div data-id="2507f2ba" class="elementor-element elementor-element-2507f2ba elementor-align-center elementor-tablet-align-right elementor-hidden-phone elementor-widget elementor-widget-button" data-element_type="button.default">
+<div class="elementor-widget-container">
+<div class="elementor-button-wrapper">
+<a href="https://events.genndi.com/register/169105139238437112/58c1e43b18" class="elementor-button-link elementor-button elementor-size-md elementor-animation-grow" target="_blank" role="button">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-text">FREE TRAINING</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</header>
+</div>
+</div>
+</div>
+<div id="content" class="site-content">
+<div class="ast-container">
+<div id="primary" class="content-area primary">
+<main id="main" class="site-main" role="main">
+<div class="elementor elementor-22266 elementor-type-single elementor-location-single post-140 page type-page status-publish ast-article-single">
+<div class="elementor-inner">
+<div class="elementor-section-wrap">
+<section data-id="5da786f" class="elementor-element elementor-element-5da786f elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;,&quot;background_image&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;}}" data-element_type="section">
+<div class="elementor-background-overlay"></div>
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div data-id="0bbcc0a" class="elementor-element elementor-element-0bbcc0a elementor-column elementor-col-100 elementor-top-column" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div data-id="250e607" class="elementor-element elementor-element-250e607 elementor-widget elementor-widget-heading" data-element_type="heading.default">
+<div class="elementor-widget-container">
+<h1 class="elementor-heading-title elementor-size-default">Privacy Policy</h1> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section data-id="ca2b982" class="elementor-element elementor-element-ca2b982 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div data-id="a0d94f0" class="elementor-element elementor-element-a0d94f0 elementor-column elementor-col-100 elementor-top-column" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div data-id="698efcb" class="elementor-element elementor-element-698efcb elementor-widget elementor-widget-theme-post-content" data-element_type="theme-post-content.default">
+<div class="elementor-widget-container">
+<h2>1) INTRODUCTION</h2>
+<p>This privacy notice provides you with details of how we collect and process your personal data through your use of our site authorityhacker.com.</p>
+<p>By providing us with your data, you warrant to us that you are over 13 years of age.</p>
+<p>Judgement Media Ltd is the data controller and we are responsible for your personal data (referred to as “we”, “us” or “our” in this privacy notice).</p>
+<p>&nbsp;</p>
+<h3><strong>Contact Details</strong></h3>
+<p>Our full details are:</p>
+<p>Full name of legal entity: <strong>Judgement Media Ltd</strong></p>
+<p>Email address: <strong>support@authorityhacker.com</strong></p>
+<p>Postal address: <strong>20-22 Wenlock Road, London, N1 7GU, United Kingdom.</strong></p>
+<p>&nbsp;</p>
+<p>It is very important that the information we hold about you is accurate and up to date. Please let us know if at any time your personal information changes by emailing us at support@authorityhacker.com.</p>
+<p>&nbsp;</p>
+<h2><strong>2)&nbsp;WHAT DATA DO WE COLLECT ABOUT YOU, FOR WHAT PURPOSE AND ON WHAT GROUND WE PROCESS IT</strong></h2>
+<p>Personal data means any information capable of identifying an individual. It does not include anonymised data.</p>
+<p>We may process the following categories of personal data about you:</p>
+<ul>
+<li><strong>Communication Data</strong> that includes any communication that you send to us whether that be through the contact form on our website, one the chat function on our website, through email, text, social media messaging, social media posting or any other communication that you send us. We process this data for the purposes of communicating with you, for record keeping and for the establishment, pursuance or defence of legal claims. Our lawful ground for this processing is our legitimate interests which in this case are to reply to communications sent to us, to keep records and to establish, pursue or defend legal claims.</li>
+<li><strong>Customer Data</strong> that includes data relating to any purchases of goods and/or services such as your name, title, billing address, delivery address email address, phone number, contact details, purchase details and your card details. We process this data to supply the goods and/or services you have purchased and to keep records of such transactions. Our lawful ground for this processing is the performance of a contract between you and us and/or taking steps at your request to enter into such a contract.</li>
+<li><strong>User Data</strong> that includes data about how you use our website and any online services together with any data that you post for publication on our website or through other online services. We process this data to operate our website and ensure relevant content is provided to you, to ensure the security of our website, to maintain back- ups of our website and/or databases and to enable publication and administration of our website, other online services and business. Our lawful ground for this processing is our legitimate interests which in this case are to enable us to properly administer our website and our business.</li>
+<li><strong>Technical Data</strong> that includes data about your use of our website and online services such as your IP address, your login data, details about your browser, length of visit to pages on our website, page views and navigation paths, details about the number of times you use our website, time zone settings and other technology on the devices you use to access our website. The source of this data is from our analytics tracking system. We process this data to analyse your use of our website and other online services, to administer and protect our business and website, to deliver relevant website content and advertisements to you and to understand the effectiveness of our advertising. Our lawful ground for this processing is our legitimate interests which in this case are to enable us to properly administer our website and our business and to grow our business and to decide our marketing strategy.</li>
+<li><strong>Marketing Data</strong> that includes data about your preferences in receiving marketing from us and our third parties and your communication preferences. We process this data to enable you to partake in our promotions such as competitions, prize draws and free give-aways, to deliver relevant website content and advertisements to you and measure or understand the effectiveness of this advertising. Our lawful ground for this processing is our legitimate interests which in this case are to study how customers use our products/services, to develop them, to grow our business and to decide our marketing strategy.</li>
+<li>We may use Customer Data, User Data, Technical Data and Marketing Data to deliver relevant website content and advertisements to you (including Facebook adverts or other display advertisements) and to measure or understand the effectiveness of the advertising we serve you. Our lawful ground for this processing is legitimate interests which is to grow our business. We may also use such data to send other marketing communications to you. Our lawful ground for this processing is either consent or legitimate interests (namely to grow our business).</li>
+</ul>
+<h3><strong>Sensitive Data</strong></h3>
+<p>We do not collect any Sensitive Data about you. Sensitive data refers to data that includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data. We do not collect any information about criminal convictions and offences.</p>
+<p>&nbsp;</p>
+<h2>3) HOW WE COLLECT YOUR PERSONAL DATA</h2>
+<p>We may collect data about you by you providing the data directly to us (for example by filling in forms on our site or by sending us emails). We may automatically collect certain data from you as you use our website by using cookies and similar technologies. Please see our&nbsp;<a href="https://www.authorityhacker.com/cookie-policy/">cookie policy</a> for more details about this.</p>
+<p>We may receive data from third parties such as analytics providers such as Google based outside the EU, advertising networks such as Facebook based outside the EU, such as search information providers such as Google based outside the EU, email providers such as Active Campaign based outside the EU, webinar providers such as WebinarJam based outside the EU, live chat providers such as Crisp.net based inside the EU providers of technical, payment and delivery services, such as data brokers or aggregators.</p>
+<p>We may also receive data from publicly availably sources such as Companies House and the Electoral Register based inside the EU.</p>
+<p>&nbsp;</p>
+<h2><strong>4) MARKETING COMMUNICATIONS </strong></h2>
+<p>Our lawful ground of processing your personal data to send you marketing communications is either your consent or our legitimate interests (namely to grow our business).</p>
+<p>Under the Privacy and Electronic Communications Regulations,we may send you marketing communications from us if (i) you made a purchase or asked for information from us about our goods or services or (ii) you agreed to receive marketing communications and in each case you have not opted out of receiving such communications since. Under these regulations, if you are a limited company, we may send you marketing emails without your consent. However you can still opt out of receiving marketing emails from us at any time.</p>
+<p>Before we share your personal data with any third party for their own marketing purposes we will get your express consent.</p>
+<p>You can ask us or third parties to stop sending you marketing messages at any time by following the opt-out links on any marketing message sent to you or OR by emailing us at support@authorityhacker.com at any time.</p>
+<p>If you opt out of receiving marketing communications this opt-out does not apply to personal data provided as a result of other transactions, such as purchases, warranty registrations etc.</p>
+<p>&nbsp;</p>
+<h2><strong>5) DISCLOSURES OF YOUR PERSONAL DATA</strong></h2>
+<p>We may have to share your personal data with the parties set out below:</p>
+<ul>
+<li>Service providers who provide IT and system administration services.</li>
+<li>Professional advisers including lawyers, bankers, auditors and insurers</li>
+<li>Government bodies that require us to report processing activities.</li>
+<li>Third parties to whom we sell, transfer, or merge parts of our business or our assets.</li>
+</ul>
+<p>We require all third parties to whom we transfer your data to respect the security of your personal data and to treat it in accordance with the law. We only allow such third parties to process your personal data for specified purposes and in accordance with our instructions.</p>
+<p>&nbsp;</p>
+<h2><strong>6) INTERNATIONAL TRANSFERS</strong></h2>
+<p>We are subject to the provisions of the General Data Protection Regulations that protect your personal data. Where we transfer your data to third parties outside of the EEA, we will ensure that certain safeguards are in place to ensure a similar degree of security for your personal data. As such:</p>
+<ul>
+<li>We may transfer your personal data to countries that the European Commission have approved as providing an adequate level of protection for personal data by; or</li>
+<li>If we use US-based providers that are part of EU-US Privacy Shield, we may transfer data to them, as they have equivalent safeguards in place; or</li>
+<li>Where we use certain service providers who are established outside of the EEA, we may use specific contracts or codes of conduct or certification mechanisms approved by the European Commission which give personal data the same protection it has in Europe.</li>
+</ul>
+<p>If none of the above safeguards is available, we may request your explicit consent to the specific transfer. You will have the right to withdraw this consent at any time.</p>
+<p>&nbsp;</p>
+<h2><strong>7) DATA SECURITY</strong></h2>
+<p>We have put in place security measures to prevent your personal data from being accidentally lost, used, altered, disclosed, or accessed without authorisation. We also allow access to your personal data only to those employees and partners who have a business need to know such data. They will only process your personal data on our instructions and they must keep it confidential.</p>
+<p>We have procedures in place to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach if we are legally required to.</p>
+<p>&nbsp;</p>
+<h2><strong>8) DATA RETENTION</strong></h2>
+<p>We will only retain your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.</p>
+<p>When deciding what the correct time is to keep the data for we look at its amount, nature and sensitivity, potential risk of harm from unauthorised use or disclosure, the processing purposes, if these can be achieved by other means and legal requirements.</p>
+<p>For tax purposes the law requires us to keep basic information about our customers (including Contact, Identity, Financial and Transaction Data) for six years after they stop being customers.</p>
+<p>In some circumstances we may anonymise your personal data for research or statistical purposes in which case we may use this information indefinitely without further notice to you.</p>
+<p>&nbsp;</p>
+<h2><strong>9) YOUR LEGAL RIGHTS</strong></h2>
+<p>Under data protection laws you have rights in relation to your personal data that include the right to request access, correction, erasure, restriction, transfer, to object to processing, to portability of data and (where the lawful ground of processing is consent) to withdraw consent.</p>
+<p>You can see more about these rights at:</p>
+<p>https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/</p>
+<p>If you wish to exercise any of the rights set out above, please email us at support@authorityhacker.com.</p>
+<p>You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive or refuse to comply with your request in these circumstances.</p>
+<p>We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.</p>
+<p>We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you.</p>
+<p>If you are not happy with any aspect of how we collect and use your data, you have the right to complain to the Information Commissioner’s Office (ICO), the UK supervisory authority for data protection issues (<a href="https://www.ico.org.uk/">www.ico.org.uk</a>). We should be grateful if you would contact us first if you do have a complaint so that we can try to resolve it for you.</p>
+<p>&nbsp;</p>
+<h2><strong>10) THIRD-PARTY LINKS</strong></h2>
+<p>This website may include links to third-party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy notice of every website you visit.</p>
+<p>&nbsp;</p>
+<h2><strong>11) COOKIES</strong></h2>
+<p>You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly. For more information about the cookies we use, please see <a href="https://www.authorityhacker.com/cookie-policy/">http://www.authorityhacker.com/cookie-policy/</a>.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</main>
+</div>
+</div> 
+</div>
+<div class="elementor elementor-20675 elementor-type-footer elementor-location-footer">
+<div class="elementor-inner">
+<div class="elementor-section-wrap">
+<section data-id="e1cbc72" class="elementor-element elementor-element-e1cbc72 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;background_image&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;}}" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div data-id="2460dfd9" class="elementor-element elementor-element-2460dfd9 elementor-column elementor-col-100 elementor-top-column" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div data-id="16bdda27" class="elementor-element elementor-element-16bdda27 elementor-shape-circle elementor-widget elementor-widget-social-icons" data-element_type="social-icons.default">
+<div class="elementor-widget-container">
+<div class="elementor-social-icons-wrapper">
+<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-animation-grow" href="https://www.facebook.com/authorityhackr/" target="_blank">
+<span class="elementor-screen-only">Facebook</span>
+<i class="fa fa-facebook"></i>
+</a>
+<a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-animation-grow" href="https://twitter.com/authorityhacker" target="_blank">
+<span class="elementor-screen-only">Twitter</span>
+<i class="fa fa-twitter"></i>
+</a>
+<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-animation-grow" href="https://www.youtube.com/authorityhacker?sub_confirmation=1" target="_blank">
+<span class="elementor-screen-only">Youtube</span>
+<i class="fa fa-youtube"></i>
+</a>
+<a class="elementor-icon elementor-social-icon elementor-social-icon-apple elementor-animation-grow" href="https://itunes.apple.com/us/podcast/authority-hacker-podcast-learn-online-marketing-blogging/id1073349789?mt=2" target="_blank">
+<span class="elementor-screen-only">Apple</span>
+<i class="fa fa-apple"></i>
+</a>
+<a class="elementor-icon elementor-social-icon elementor-social-icon-soundcloud elementor-animation-grow" href="https://soundcloud.com/authorityhacker" target="_blank">
+<span class="elementor-screen-only">Soundcloud</span>
+<i class="fa fa-soundcloud"></i>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section data-id="e3bc4e6" class="elementor-element elementor-element-e3bc4e6 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;background_image&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;}}" data-element_type="section">
+<div class="elementor-container elementor-column-gap-wider">
+<div class="elementor-row">
+<div data-id="27e687e5" class="elementor-element elementor-element-27e687e5 elementor-column elementor-col-33 elementor-top-column" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div data-id="7609b25d" class="elementor-element elementor-element-7609b25d elementor-widget elementor-widget-image" data-element_type="image.default">
+<div class="elementor-widget-container">
+<div class="elementor-image">
+<img width="1024" height="595" src="https://www.authorityhacker.com/wp-content/uploads/2018/08/front-page-1024x595.png" class="attachment-large size-large" alt="" srcset="https://www.authorityhacker.com/wp-content/uploads/2018/08/front-page-1024x595.png 1024w, https://www.authorityhacker.com/wp-content/uploads/2018/08/front-page-300x174.png 300w, https://www.authorityhacker.com/wp-content/uploads/2018/08/front-page-768x446.png 768w, https://www.authorityhacker.com/wp-content/uploads/2018/08/front-page.png 1185w" sizes="(max-width: 1024px) 100vw, 1024px"> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div data-id="5462704e" class="elementor-element elementor-element-5462704e elementor-column elementor-col-66 elementor-top-column" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div data-id="187ca9d1" class="elementor-element elementor-element-187ca9d1 elementor-widget elementor-widget-heading" data-element_type="heading.default">
+<div class="elementor-widget-container">
+<h4 class="elementor-heading-title elementor-size-default">Ready To Start Your Journey?</h4> </div>
+</div>
+<div data-id="2ffebb5e" class="elementor-element elementor-element-2ffebb5e elementor-widget elementor-widget-text-editor" data-element_type="text-editor.default">
+<div class="elementor-widget-container">
+<div class="elementor-text-editor elementor-clearfix"><p>Now it is your turn to get started building your own Authority Website.</p><p>To help you get started, we put together a free video training that will give you all the tools and tactics you will need to get started even if you don’t have any prior experience.</p><p>Click the button below to join the training and let us show you the authority site model.</p></div>
+</div>
+</div>
+<div data-id="0d5f1ee" class="elementor-element elementor-element-0d5f1ee elementor-widget elementor-widget-html" data-element_type="html.default">
+<div class="elementor-widget-container">
+<script src="//events.genndi.com/register.evergreen.extra.js" language="javascript" type="text/javascript" async=""></script><img src="//events.genndi.com/tracker?action=registration-evergreen&amp;webicode=58c1e43b18&amp;version=&amp;memberid=169105139238437112" style="visibility:hidden; height:0px; width:0px; border:none;" draggable="false">
+<div class="embedded-joinwebinar-button">
+<button type="button" class="btn btn-default css3button" title="regpopbox_169105139238437112_58c1e43b18" style="background:#f2b74c;padding: 15px 10px;display: inline-block;width:auto;border:none;font-size:18px;border-radius:5px;width:100%;max-width:700px;color:#085387;"><span style="border-top:none;font-weight:bold;border-radius:5px;">Join The FREE Training</span>
+</button>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section data-id="18539307" class="elementor-element elementor-element-18539307 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;background_image&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;}}" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div data-id="281f5e2f" class="elementor-element elementor-element-281f5e2f elementor-column elementor-col-100 elementor-top-column" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<section data-id="6385d6dd" class="elementor-element elementor-element-6385d6dd elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div data-id="f0a9b57" class="elementor-element elementor-element-f0a9b57 elementor-column elementor-col-100 elementor-inner-column" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div data-id="7ecda579" class="elementor-element elementor-element-7ecda579 elementor-nav-menu--indicator-none elementor-nav-menu__align-center elementor-nav-menu--dropdown-mobile elementor-nav-menu__text-align-center elementor-widget elementor-widget-nav-menu" data-settings="{&quot;layout&quot;:&quot;horizontal&quot;}" data-element_type="nav-menu.default">
+<div class="elementor-widget-container">
+<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none"><ul id="menu-1-7ecda579" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26577"><a href="https://www.authorityhacker.com/login/" class="elementor-item">Members Login</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26340"><a href="https://www.authorityhacker.com/terms/" class="elementor-item">Terms</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1207"><a href="https://www.authorityhacker.com/disclaimer/" class="elementor-item">Disclaimer</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-140 current_page_item menu-item-1208"><a href="https://www.authorityhacker.com/privacy-policy/" class="elementor-item elementor-item-active">Privacy Policy</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26336"><a href="https://www.authorityhacker.com/cookie-policy/" class="elementor-item">Cookie Policy</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1264"><a href="https://www.authorityhacker.com/refund-cancellation-policy/" class="elementor-item">Refund Policy</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15954"><a href="https://www.authorityhacker.com/affiliates/" class="elementor-item">Affiliates</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26224"><a href="https://www.authorityhacker.com/contact/" class="elementor-item">Contact</a></li>
+</ul></nav>
+<div class="elementor-menu-toggle">
+<i class="eicon" aria-hidden="true"></i>
+</div>
+<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container"><ul id="menu-2-7ecda579" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26577"><a href="https://www.authorityhacker.com/login/" class="elementor-item">Members Login</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26340"><a href="https://www.authorityhacker.com/terms/" class="elementor-item">Terms</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1207"><a href="https://www.authorityhacker.com/disclaimer/" class="elementor-item">Disclaimer</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-140 current_page_item menu-item-1208"><a href="https://www.authorityhacker.com/privacy-policy/" class="elementor-item elementor-item-active">Privacy Policy</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26336"><a href="https://www.authorityhacker.com/cookie-policy/" class="elementor-item">Cookie Policy</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1264"><a href="https://www.authorityhacker.com/refund-cancellation-policy/" class="elementor-item">Refund Policy</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15954"><a href="https://www.authorityhacker.com/affiliates/" class="elementor-item">Affiliates</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26224"><a href="https://www.authorityhacker.com/contact/" class="elementor-item">Contact</a></li>
+</ul></nav>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<div data-id="37af5086" class="elementor-element elementor-element-37af5086 elementor-widget elementor-widget-text-editor" data-element_type="text-editor.default">
+<div class="elementor-widget-container">
+<div class="elementor-text-editor elementor-clearfix"><p style="text-align: center;">Authority Hacker® is a trademark of Judgement Media Ltd</p>
+<p style="text-align: center;">Copyright 2018 – All Rights Reserved</p>
+<p style="text-align: center;"></p><p style="text-align: center;">This site is not a part of the Facebook<sup>TM</sup>&nbsp;Website. Additionally, This site is NOT endorsed by Facebook<sup>TM</sup>&nbsp;in any way.</p><p></p></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+<script></script>
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KJV6RFP"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<a id="ast-scroll-top" class="ast-scroll-top-icon ast-scroll-to-top-right" data-on-devices="both">
+<span class="screen-reader-text">Scroll to Top</span>
+</a>
+<script type="text/javascript">
+/* <![CDATA[ */
+var astra = {"break_point":"921","isRtl":""};
+/* ]]> */
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var thirsty_global_vars = {"home_url":"\/\/www.authorityhacker.com","ajax_url":"https:\/\/www.authorityhacker.com\/wp-admin\/admin-ajax.php","link_fixer_enabled":"","link_prefix":"recommends","link_prefixes":{"1":"recommends"},"post_id":"140","enable_record_stats":"yes","enable_js_redirect":"yes","disable_thirstylink_class":""};
+/* ]]> */
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var astraAddon = {"sticky_active":""};
+/* ]]> */
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/www.authorityhacker.com\/wp-admin\/admin-ajax.php","nonce":"5b7add2a70","shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"delicious":{"title":"Delicious"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""}};
+/* ]]> */
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var elementorFrontendConfig = {"isEditMode":"","is_rtl":"","breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"2.3.8","urls":{"assets":"https:\/\/www.authorityhacker.com\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"general":{"elementor_global_image_lightbox":"yes","elementor_enable_lightbox_in_editor":"yes"},"extras":{"ee_tooltips_position":"bottom","ee_tooltips_delay_in":{"unit":"px","size":0},"ee_tooltips_delay_out":{"unit":"px","size":0},"ee_tooltips_duration":{"unit":"px","size":0.20000000000000001}}},"post":{"id":140,"title":"Privacy Policy","excerpt":""}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/gsap/1.20.2/TweenMax.min.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var elementorExtrasFrontendConfig = {"urls":{"assets":"https:\/\/www.authorityhacker.com\/wp-content\/plugins\/elementor-extras\/assets\/"}};
+/* ]]> */
+</script>
+<script type="text/javascript" defer="" src="https://www.authorityhacker.com/wp-content/cache/autoptimize/js/autoptimize_11b6cdec4569ecb4f864c14a0d4d4e93.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ae0508e4dc","applicationID":"73241822","transactionName":"blxVZEVVV0JQBk0IW1cWdlNDXVZfHhVYBlE=","queueTime":0,"applicationTime":869,"atts":"QhtWEg1PREw=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+</body></html>
