@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vserv.mobi privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625025531id_/https%3A//www.vserv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vserv.mobi privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227202953id_/https%3A//www.vserv.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy |Vserv
 
