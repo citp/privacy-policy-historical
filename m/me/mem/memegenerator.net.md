@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the memegenerator.net privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613122252id_/https%3A//memegenerator.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memegenerator.net privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227141037id_/https%3A//memegenerator.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Meme Generator
 
@@ -109,4 +109,4 @@ You are encouraged to check this page occasionally to ensure you are familiar wi
 
 With any further questions and/or requests, regarding privacy issues and this privacy policy, please do not hesitate to contact us using the information below.
 
-http://memegenerator.net [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+http://memegenerator.net info@memegenerator.net 
