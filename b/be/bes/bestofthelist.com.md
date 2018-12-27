@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestofthelist.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625195102id_/http%3A//bestofthelist.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestofthelist.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227140240id_/http%3A//bestofthelist.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Bestofthelist
 
@@ -58,6 +58,5 @@ Google, as a third party vendor, uses cookies to serve ads on our site. Googleâ€
 
 We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions, and other ad service functions as they relate to our website.
 
-Opting out:
-
+Opting out:  
 Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
