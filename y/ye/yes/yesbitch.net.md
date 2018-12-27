@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yesbitch.net privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627090957id_/http%3A//yesbitch.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesbitch.net privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227164840id_/http%3A//yesbitch.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Yes Bitch!
+# Privacy Policy – Yes Bitch!
 
 Parents: Please use one or more of the following systems to prevent your children from accessing this and other adult sites: [Cyber Patrol](http://www.cyberpatrol.com/) , [Net Nanny](http://www.netnanny.com/)
 
