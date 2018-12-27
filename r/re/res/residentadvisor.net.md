@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the residentadvisor.net privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627015806id_/https%3A//www.residentadvisor.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the residentadvisor.net privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227173129id_/https%3A//www.residentadvisor.net/privacy) for the most accurate reproduction.*
 
 # RA: Privacy
 
@@ -12,7 +12,7 @@ This Privacy Policy ("Policy") explains how we collect, use and disclose your In
 
 The Online Services may contain hyperlinks to services owned and operated by third parties. These third party services may have their own privacy policies and we recommend that you review them. They will govern the use of personal information that you submit or which is collected by cookies and other tracking technologies whilst using these services. We do not accept any responsibility or liability for the privacy practices of such third party services and your use of these is at your own risk. 
 
-Our terms of use prohibit users aged under 13 years from accessing our Online Services. In the event that we learn that we have collected personal information from a child under 13 years of age we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13 years of age please contact us at [privacy@residentadvisor.net](mailto:privacy@residentadvisor.net). 
+Our terms of use prohibit users aged under 13 years from accessing our Online Services. In the event that we learn that we have collected personal information from a child under 13 years of age we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13 years of age please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5b2b29322d3a38221b293e28323f3e352f3a3f2d3228342975353e2f). 
 
 If we change our Policy and/or procedures, we will post those changes on our website to keep you aware of what personal data we collect, how we use it and under what circumstances we may disclose it. We encourage you to review this Policy regularly. 
 
@@ -88,7 +88,7 @@ We may process information about you (including Basic Information, User Content 
 
 3.4 To respond to your enquiries and requests for support and to enable you to use the Forums 
 
-We may process Contact Information so that we are able to properly respond to your enquiries via the Forums or through [privacy@residentadvisor.net](mailto:privacy@residentadvisor.net) and so you are able to use the Forums, in accordance with the terms of use agreed between us and with applicable laws. 
+We may process Contact Information so that we are able to properly respond to your enquiries via the Forums or through [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#19696b706f787a60596b7c6a707d7c776d787d6f706a766b37777c6d) and so you are able to use the Forums, in accordance with the terms of use agreed between us and with applicable laws. 
 
 3.5 To acquire new users and engage current users 
 
@@ -126,7 +126,7 @@ If you ask to be added to our mailing list, we will keep you updated with inform
 
 You have the following rights over the way we process personal data relating to you, as set out below. We aim to comply without undue delay, and within one month at the latest. 
 
-To make a request, please let us know by sending an email to [privacy@residentadvisor.net](mailto:privacy@residentadvisor.net). 
+To make a request, please let us know by sending an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#95e5e7fce3f4f6ecd5e7f0e6fcf1f0fbe1f4f1e3fce6fae7bbfbf0e1). 
 
 4.1 Ask for a copy of data we are processing about you and have inaccuracies corrected 
 
@@ -151,7 +151,7 @@ If you request, we will supply you with the relevant personal data in CSV format
 
 4.4 Make a complaint to a Supervisory Authority 
 
-If you are unhappy with the way we are processing your personal data, please let us know by contacting us at email [privacy@residentadvisor.net](mailto:privacy@residentadvisor.net). 
+If you are unhappy with the way we are processing your personal data, please let us know by contacting us at email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7202001b0413110b320017011b16171c061316041b011d005c1c1706). 
 
 If you do not agree with the way we have processed your data or responded to your concerns, an alternative is to submit a complaint to a Data Protection Supervisory Authority. 
 
@@ -195,7 +195,7 @@ RA sells tickets for events on behalf of venues or promoters. We refer to the ve
 
 The Information that we collect from you may be transferred to and stored at a destination outside the European Economic Area including to Japan, US and Australia. Your Information may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. By submitting Information to us, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your Information is treated securely and in accordance with this Policy and the Regulation. 
 
-Where we transfer your data outside of the EEA, we have agreements in place with those parties which include standard data protection clauses adopted by a data protection regulator and approved by the European Commission to ensure that appropriate safeguards are in place to protect your personal data. If you would like to find out more about these safeguards, please let us know by writing to [privacy@residentadvisor.net](mailto:privacy@residentadvisor.net). 
+Where we transfer your data outside of the EEA, we have agreements in place with those parties which include standard data protection clauses adopted by a data protection regulator and approved by the European Commission to ensure that appropriate safeguards are in place to protect your personal data. If you would like to find out more about these safeguards, please let us know by writing to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#deaeacb7a8bfbda79eacbbadb7babbb0aabfbaa8b7adb1acf0b0bbaa). 
 
 7\. Security of your information
 
@@ -203,7 +203,7 @@ We follow appropriate security procedures in the storage and disclosure of your 
 
 8\. Consumer Controls
 
-If you do not wish to be receive notifications from us or be served with advertisements you can change your settings. You can withdraw your consent at any time by contacting us at [privacy@residentadvisor.net](mailto:privacy@residentadvisor.net) or by deleting an App. 
+If you do not wish to be receive notifications from us or be served with advertisements you can change your settings. You can withdraw your consent at any time by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7505071c0314160c350710061c11101b011411031c061a075b1b1001) or by deleting an App. 
 
 9\. How to contact us
 
