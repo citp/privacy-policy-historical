@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the codejava.net privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629083502id_/http%3A//www.codejava.net/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codejava.net privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227063342id_/https%3A//www.codejava.net/site/privacy-policy) for the most accurate reproduction.*
 
 # CodeJava.net’s Privacy Policy
 
 Details
-     Last Updated on 02 November 2013   |   [ Print ](http://www.codejava.net/privacy-policy?tmpl=component&print=1&page= "Print") [ Email](http://www.codejava.net/component/mailto/?tmpl=component&template=protostar&link=d5936477ae1f9d718be809964c6b78cae8afd000 "Email")
+     Last Updated on 02 November 2013   |  [ Print ](https://www.codejava.net/privacy-policy?tmpl=component&print=1&page= "Print")[ Email](https://www.codejava.net/component/mailto/?tmpl=component&template=protostar&link=0e9eb0750a7acea099cfabdaffb298a29d216a61 "Email")
 
 This Privacy Policy explains what types of information **CodeJava.net** (“CodeJava”, “we”, “us”) may collect from or about visitors to our websites or applications (“you”), and describes our practices for collecting, using and protecting such information.
 
@@ -56,6 +56,6 @@ Deleting cookies does not mean that you are permanently opted out of any adverti
 
  **CodeJava** reserves the exclusive right to modify and update this Privacy Policy at any time without prior notice. We will review and update this Privacy Policy periodically. Therefore, we encourage you to review this Privacy Policy frequently to be informed of how CodeJava.net is collecting, using, retaining, protecting, disclosing, and transferring your information.
 
-If there are any questions, please contact us using the form [here](http://www.codejava.net/contactus), or send us your e-mail to: [webmaster@codejava.net](mailto:%3Ca%20href=).
+If there are any questions, please contact us using the form [here](https://www.codejava.net/contactus), or send us your e-mail to: [webmaster@codejava.net](mailto:%3Ca%20href=).
 
 This Privacy Policy was last updated on October 15, 2013.
