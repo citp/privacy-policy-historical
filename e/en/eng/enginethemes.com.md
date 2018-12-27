@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enginethemes.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626200842id_/https%3A//www.enginethemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enginethemes.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227035916id_/https%3A//www.enginethemes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - EngineThemes
 
@@ -31,6 +31,8 @@ You may opt out of any future contacts from us at any time. You can do the follo
   * Express any concern you have about our use of your data.
 
 
+
+#### For more information about our GDPR Policy, see [EngineThemes – GDPR Policy Updates announcement](https://www.enginethemes.com/enginethemes-gdpr-policy-updates-announcement/)
 
 ## **Security**
 
