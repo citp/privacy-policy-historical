@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linksmanagement.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606060343id_/https%3A//www.linksmanagement.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linksmanagement.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227034615id_/https%3A//www.linksmanagement.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - LinksManagement
 
@@ -6,19 +6,19 @@ _Revised: May 2018_
 
 On 25 May 2018, the EU General Data Protection Regulation (GDPR) replaces the existing 1995 EU Data Protection Directive (European Directive 95/46/EC).
 
-LinksManagement is committed to GDPR compliance across the company and we have already implemented and evaluated the latest requirements and limitations enforced by the GDPR. We are committed to ensuring that your privacy is protected in an orderly manner. Thereupon we’ve carefully reviewed the way we collect, use, keep and dispose your personal data with the aim of SEO services provision.
+LinksManagement is committed to GDPR compliance across the company, and we have already implemented and evaluated the latest requirements and limitations enforced by the GDPR. We are committed to ensuring that your privacy is protected in an orderly manner. Thereupon we’ve carefully reviewed the way we collect, use, keep and dispose of your data with the aim of provision of online advertising, SEO or any other provided by us services.
 
-In circumstances where we ask you to transfer personal information to take avail of this website services, you can be confident that it will only be used in accordance with this privacy policy.
+In circumstances where we ask you to provide any kind of personal information in order to use any of our websites or services, all such information will only be used in accordance with this privacy policy.
 
-Accepting this privacy policy, you confirm your personal data actuality and accuracy, and give consent to disclosing your personal data so we can provide services, close sales, run marketing campaign, and enable LinksManagement platform operation.
+Accepting this privacy policy, you confirm your personal data actuality and accuracy, and give consent to disclosing your personal data so we can provide services, close sales, run marketing campaign, and enable LinksManagement platform operation. This online privacy policy applies only to information collected through our website and not to information collected offline.
 
-LinksManagement reserves the right to change this policy by revising this page.
+LinksManagement reserves the right, at any time, to modify, alter, or update this policy without prior notice. Modifications shall become effective immediately upon being posted at https://www.linksmanagement.com website. Your continued use of the service after amendments are posted constitutes an acknowledgement and acceptance of the terms, so please revise the Terms of Service, Acceptable Use Policy, and Privacy Policy periodically to follow the updates.
 
 ## **1\. Information we collect**
 
 This is a list of information we collect from you: 
 
-**(a) Information you voluntarily provide to us:** When you sign up for and use the LinksManagement services, consult with our customer support and sales team, send us an email, leave comments on our blog, or communicate with us in any other way, you are voluntarily giving us information that we collect. That information may include your name, physical address, email address, IP address, phone number, credit card information, location, and purchase history. By giving us this information, you consent to this information being collected, used, disclosed, and stored by us, as described in our [Terms of Use](https://www.linksmanagement.com/TOS/) and in this Privacy Policy.
+**(a) Information you voluntarily provide to us:** When you sign up for and use the LinksManagement services, consult with our customer support and sales team, send us an email, leave comments on our blog, or communicate with us in any other way, you are voluntarily giving us information that we collect. That information may include your name, physical address, email address, Skype id, IP address, phone number, credit card information, location, purchase history, and any other information you provide when using LinksManagement services or interacting with us in any way. By giving us this information, you consent to this information being collected, used, disclosed, and stored by us, as described in our [Terms of Use](https://www.linksmanagement.com/TOS/) and in this Privacy Policy.
 
 **(b) Information we collect automatically:** When you use our services or browse our website, we may collect information about your visit, your usage of our services, as well as your web browsing. That information may include your IP address, your operating system, your browser type, your browsing activity, and other information about how you interacted with our website. We may collect this information as a part of log files as well as through the use of cookies or other tracking technologies.
 
@@ -42,9 +42,9 @@ LinksManagement uses the bare minimum of the non-personally identifiable informa
 
 We collect personal information automatically and through the use of electronic tools that may be transparent to our users. 
 
-We protect your personal information using technical and administrative security measures to reduce the risks of loss, misuse, unauthorized access, disclosure and alteration. Some of the safeguards we use are firewalls and data encryption, physical access controls to our data centers, and information access authorization controls. For more information about staying safe while buying and selling online, or to report an issue with your account please visit our Security Center.
+We protect your personal information using technical and administrative security measures to reduce the risks of loss, misuse, unauthorized access, disclosure and alteration. Some of the safeguards we use are firewalls and data encryption, physical access controls to our data centers, and information access authorization controls. For more information about staying safe while buying and selling online, or to report an issue with your account please [contact us](https://www.linksmanagement.com/contact_us).
 
-In case you have any unsettled or questionable issues, contact our Data Protection Officer via support@linksmanagement.com or [contact us page](https://www.linksmanagement.com/contact_us). We will clarify the questions that you may have concerning the privacy policy. 
+In case you have any unsettled or questionable issues, contact our Data Protection Officer via [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or [contact us page](https://www.linksmanagement.com/contact_us). We will clarify the questions that you may have concerning the privacy policy. 
 
 ## **3\. How we may use your personal data**
 
@@ -56,7 +56,7 @@ We may use your Personal Information only for the following purposes:
 
 **(b) To send you informational and promotional content in accordance with your marketing preferences.** You can stop receiving our promotional emails by following the unsubscribe instructions included in every email.
 
-**(c) To bill and collect money owed to us by our Members.** This includes sending you emails, invoices, receipts, notices of delinquency, and alerting you if we need a different credit card number. We use third parties for secure credit card transaction processing, and we send billing information to those third parties to process your orders and credit card payments. To learn more about the steps we take to safeguard that data, see Section 14 below.
+**(c) To bill and collect money owed to us by our Members.** This includes sending you emails, invoices, receipts, notices of delinquency, and alerting you if we need a different credit card number or any information requested by other credit card processing or payment gateway providers, including but not limited to PayPal, VISA, Mastercard, Amex, Discover, PayPro. We use third parties for secure credit card transaction processing, and we send billing information to those third parties to process your orders and credit card payments. To learn more about the steps we take to safeguard that data, see Section 2.
 
 **(d) To send you System Alert messages.** For example, we may inform you of temporary or permanent changes to our Services, such as planned outages, new features, version updates, releases, abuse warnings, and changes to our Privacy Policy.
 
@@ -118,7 +118,11 @@ Overall, cookies help us provide you with a better website, by enabling us to mo
 
 You can choose to accept or decline cookies, deactivate or restrict the transmission of cookies by changing the settings of your web browser. Cookies that are already stored may be deleted at any time. 
 
-## **7\. Limitation of Liability**
+## **7\. Do Not Track**
+
+Because there currently isn’t an industry or legal standard for recognizing or honoring DNT (Do Not Track) signals, we don’t respond to them at this time. We await the result of work by the privacy community and industry to determine when such a response is appropriate and what form it should take.
+
+## **8\. Limitation of Liability**
 
 We may combine Personal Information with other information we collect or obtain about you (such as information we source from our third party partners), to serve you specifically, such as to deliver a product or service according to your preferences or restrictions, or for advertising or targeting purposes in accordance with this Privacy Policy. When we combine Personal Information with other information in this way, we treat it as, and apply all of the safeguards in this Privacy Policy applicable to, Personal Information.
 
