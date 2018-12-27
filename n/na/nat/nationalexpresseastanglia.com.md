@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalexpresseastanglia.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626201510id_/https%3A//www.greateranglia.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalexpresseastanglia.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227040518id_/https%3A//www.greateranglia.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Greater Anglia
 
@@ -35,7 +35,7 @@ CONTENTS
 
 
 
-**For the purposes of the General Data Protection Regulation Act 2018, the data controller is:**
+**For the purposes of the General Data Protection Regulation, the data controller is:**
 
 Abellio East Anglia Limited  
 11th Floor One Stratford Place  
@@ -288,7 +288,7 @@ In addition to cookies, AEA also uses Javascripts and web beacons. By using Java
 
 #### Cookies from external parties
 
-Some of the cookies are placed with the consent of AEA by third parties with the aim to bring certain products and services to your attention or to give you direct access to social media: [Google Analytics](http://www.google.com/analytics/ "Opens in a new window") , [Google Maps](https://www.google.co.uk/maps "Opens in a new window") , [Captify](http://www.captify.co.uk/ "Opens in a new window"), [Affectv](https://affectv.com/ "Opens in a new window"), [Iotec](https://web.archive.org/web/20180626201510id_/https%3A//www.greateranglia.co.uk/Iotec "Opens in a new window"), [Flashtalking](http://www.flashtalking.com/ "Opens in a new window"), [Adform](https://site.adform.com/ "Opens in a new window"), [Doubleclick](https://www.doubleclickbygoogle.com/ "Opens in a new window"), [Twitter](https://www.youtube.com/ "Opens in a new window"), [YouTube](https://www.youtube.com/ "Opens in a new window"), [LinkedIn](https://www.linkedin.com/ "Opens in a new window"), [GoogleAdwords](https://www.google.com/adwords/ "Opens in a new window"), [Instagram ](https://www.instagram.com/ "Opens in a new window")and [Facebook](https://www.facebook.com/ "Opens in a new window"). For the cookies that these external parties place, the information they collect with them and the purpose for which that information is used, we refer to the privacy statements of these parties on their own websites. These statements can change regularly and AEA has no control whatsoever.
+Some of the cookies are placed with the consent of AEA by third parties with the aim to bring certain products and services to your attention or to give you direct access to social media: [Google Analytics](https://www.google.com/analytics/ "Opens in a new window") , [Google Maps](https://www.google.co.uk/maps "Opens in a new window") , [Captify](http://www.captify.co.uk/ "Opens in a new window"), [Affectv](https://affectv.com/ "Opens in a new window"), [Iotec](https://web.archive.org/web/20181227040518id_/https%3A//www.greateranglia.co.uk/Iotec "Opens in a new window"), [Flashtalking](http://www.flashtalking.com/ "Opens in a new window"), [Adform](https://site.adform.com/ "Opens in a new window"), [Doubleclick](https://www.doubleclickbygoogle.com/ "Opens in a new window"), [Twitter](https://www.youtube.com/ "Opens in a new window"), [YouTube](https://www.youtube.com/ "Opens in a new window"), [LinkedIn](https://www.linkedin.com/ "Opens in a new window"), [GoogleAdwords](https://www.google.com/adwords/ "Opens in a new window"), [Instagram ](https://www.instagram.com/ "Opens in a new window")and [Facebook](https://www.facebook.com/ "Opens in a new window"). For the cookies that these external parties place, the information they collect with them and the purpose for which that information is used, we refer to the privacy statements of these parties on their own websites. These statements can change regularly and AEA has no control whatsoever.
 
 #### Advertising cookies
 
