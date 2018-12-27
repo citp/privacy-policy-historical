@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pepsi.com privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619230909id_/http%3A//policy.pepsi.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pepsi.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227052900id_/http%3A//policy.pepsi.com/privacy.htm) for the most accurate reproduction.*
 
 # PepsiCo Privacy Policy
 
-Effective 2012 (Last updated February 4, 2016)
+Effective 2012 (Last updated October 10, 2018)
 
 ## This Privacy Policy applies to our sites and apps.
 
@@ -44,7 +44,7 @@ We use information for security purposes. We may use information to protect our 
 
 We use information for marketing purposes. For example, we might send you information about new products and special offers. We might tell you about new features or updates. These might be third party offers or products we think you might find interesting. If you subscribe with us, we'll enroll you in our email newsletter. We may also use push notifications on our mobile apps. 
 
-We use information to customize experiences with our brands. We may analyze information you provide or that we get elsewhere to customize your experience on our platforms and with our brands. To learn more about our targeting and customizing activities, click [here](https://web.archive.org/web/20180619230909id_/http%3A//policy.pepsi.com/aboutads.htm).
+We use information to customize experiences with our brands. We may analyze information you provide or that we get elsewhere to customize your experience on our platforms and with our brands. To learn more about our targeting and customizing activities, click [here](https://web.archive.org/web/20181227052900id_/http%3A//policy.pepsi.com/aboutads.htm).
 
 We use information to communicate with you about your account or our relationship. We may contact you about your account or feedback. We might also contact you about this Policy or our website Terms.
 
@@ -96,7 +96,7 @@ From time to time we may change this Privacy Policy. We will post an updated cop
 
 We include links to third party sites. This may include websites that use the PepsiCo family of brands or logos operated by our advertisers, sponsors, and partners. We do not control those websites. For example, we do not manage the website of The Pepsi Store available at [www.pepsistore.com](http://www.pepsistore.com/). This policy does not apply to the privacy practices of those websites. Read the privacy policy of those other websites carefully. We are not responsible for these third party practices.
 
-Our site may also serve third party content that contains its own cookies or tracking technologies. To learn more, click [here](https://web.archive.org/web/20180619230909id_/http%3A//policy.pepsi.com/aboutads.htm). We do not control the use of those technologies.
+Our site may also serve third party content that contains its own cookies or tracking technologies. To learn more, click [here](https://web.archive.org/web/20181227052900id_/http%3A//policy.pepsi.com/aboutads.htm). We do not control the use of those technologies.
 
 ## We store information in the United States.
 
@@ -104,6 +104,6 @@ If you live outside of the United States, you understand and agree that we may t
 
 ## Feel free to contact us if you have more questions.
 
-If you have any questions about this Policy, please call us at 1-800-960-3602.
+If you have any questions about this Policy, please call us at 1-800-433-2652.
 
 Or you can email us using our online form: <https://cu.pepsico.com/pepsi>
