@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the medicaid.gov privacy policy that was archived on 2018-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180630144255id_/https%3A//www.cms.gov/about-cms/agency-information/aboutwebsite/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the medicaid.gov privacy policy that was archived on 2018-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181227023030id_/https%3A//www.cms.gov/about-cms/agency-information/aboutwebsite/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="en"><!--<![endif]--><head>	
 				<title>Centers for Medicare &amp; Medicaid Services (CMS) Website Privacy Policy - Centers for Medicare &amp; Medicaid Services</title>
@@ -101,8 +101,7 @@
 		</noscript>
 		
 				
-							
-<script type="text/javascript">
+							<script type="text/javascript">
   var sortImageLocation='/resources';
 </script>
 <style type="text/css">
@@ -156,7 +155,7 @@
     float: right;
     font: 1.02em Arial, Verdana, Geneva, sans-serif;
     margin-top: 10px;
-    width: 75%;
+    width: 53%;
   }
   #topbar .cms-search div:nth-child(2) {
     display: inline-block;
@@ -261,7 +260,7 @@
             </li>
             <li>
               <div>
-                <a title="Newsroom" href="https://www.cms.gov/Newsroom/Newsroom-Center.html" class="titlelink">Newsroom</a>
+                <a title="Newsroom" href="https://www.cms.gov/Newsroom" class="titlelink">Newsroom</a>
               </div>
             </li>
             <li>
@@ -288,9 +287,6 @@
         </div>
       </div>
       <div class="cms-search">
-        <div id="learn-link">
-          Learn about <a href="https://www.healthcare.gov" id="healthcare_options"> your health care options</a>
-        </div>
         <div>
           <form accept-charset="UTF-8" action="https://search.cms.gov/search" id="search_form" method="get">
             <div style="margin:0;padding:0;display:inline">
@@ -342,16 +338,12 @@
       </div>
     </nav>
     <!--Gloabal Site Navigation End-->
-
-  
-
 		
 				<!--Gloabal Site Navigation End --> 
 		<!-- Breadcrumb -->
 				
 						<div id="breadcrumb">	
 											
-
 
 		
 
@@ -386,9 +378,7 @@
 <!-- Left Navigation -->
 <div class="left-navigation" role="navigation">
 
-
 <h2><a href="/About-CMS/Agency-Information/Aboutwebsite/index.html">Web Policies &amp; Important Links</a></h2>
-
 <ul>
 	
 	
@@ -558,8 +548,7 @@
 	
 		
 	<div id="responseDiv"></div>
-	
-	<!--PAGEWATCH CODE=""-->
+		<!--PAGEWATCH-->
 	<span id="sectionPageBody">
 <p>Protecting your privacy is very important to us. We're telling you about the Centers for Medicare &amp; Medicaid Services (CMS) website privacy policy so you know what information we collect, why we collect it, and what we do with it. This policy covers the following websites:</p>
 <ul type="disc">
@@ -641,13 +630,10 @@
 <p>CMS websites link to other HHS sites, other government sites, and occasionally to private organizations. Once you leave a CMS website, you are subject to the privacy policy for the sites you are visiting.</p>
 </span>
 	<!--/PAGEWATCH-->
-	
-</div>
-
+	</div>
 
 	<!-- End --> 
 	<!-- Help Box - Related Links -->   
-
 
 
 	<div class="page-help" style="text-align:right;">
@@ -1150,7 +1136,8 @@ var getMessage = function() {
 
       {
           
-            doAJAXCall('/Newsroom/MediaReleaseDatabase/Global-News-Blogs.html', 'POST', '', showMessageResponse);
+            //doAJAXCall('/Newsroom/MediaReleaseDatabase/Global-News-Blogs.html', 'POST', '', showMessageResponse);
+			loadPressReleases();
       }
 
  
@@ -1165,6 +1152,49 @@ var showMessageResponse = function (oXML) {
     // update the Div to show the result from the server
     document.getElementById("responseDiv").innerHTML = response;
 };
+
+var newsList = [];
+function loadPressReleases() {
+  var xhttp = new XMLHttpRequest();
+  xhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+		var response = JSON.parse(this.responseText);
+		for (var i = 0; i < response.data.length; i++) {
+			newsList.push(response.data[i]);
+		}
+		window.setTimeout(loadFactSheets, 50);
+    }
+  };
+  xhttp.open("GET", "https://www.cms.gov/jsonapi/node/press_releases/?sort=-field_date&fields[node--press_releases]=title,path,field_date&filter[status][value]=1&page[limit]=5", true);
+  xhttp.send();
+}
+function loadFactSheets() {			
+  var xhttp = new XMLHttpRequest();
+  xhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+		var response = JSON.parse(this.responseText);
+		for (var i = 0; i < response.data.length; i++) {
+			newsList.push(response.data[i]);
+		}
+		newsList.sort(function(a, b) {
+			return +new Date(a.attributes.field_date) - +new Date(b.attributes.field_date);
+		});				
+		window.setTimeout(buildNewsSection, 100);				
+    }
+  };
+  xhttp.open("GET", "https://www.cms.gov/jsonapi/node/fact_sheets/?sort=-field_date&fields[node--fact_sheets]=title,path,field_date&filter[status][value]=1&page[limit]=5", true);
+  xhttp.send();
+}
+
+function buildNewsSection() {
+	for (var i = newsList.length-1; i >= 5; i--) {
+		var testRow = document.createElement("li");
+		var type = (newsList[i].type == 'node--press_releases')?'Press Release: ':'Fact Sheet: '
+		testRow.innerHTML = '<a href="' + newsList[i].attributes.path.alias + '">' + type + newsList[i].attributes.title + '</a>';
+		document.getElementById('newListHead').appendChild(testRow);
+	}
+}
+
 
 </script>		
 		
