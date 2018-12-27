@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saleshacker.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627162017id_/https%3A//www.saleshacker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saleshacker.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227233508id_/https%3A//www.saleshacker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sales Hacker
 
@@ -203,4 +203,4 @@ Armonk, NY 10504
 
 U.S.A.
 
-marketing@saleshacker.com
+privacy@saleshacker.com
