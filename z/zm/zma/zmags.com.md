@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zmags.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616034204id_/https%3A//zmags.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zmags.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227142445id_/https%3A//zmags.com/privacy-policy) for the most accurate reproduction.*
 
 # Zmags Privacy Policy
 
