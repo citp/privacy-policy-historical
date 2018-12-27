@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itsgoneviral.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109222651id_/http%3A//igvnews.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itsgoneviral.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227162226id_/http%3A//igvofficial.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - It's Gone Viral
 
@@ -8,7 +8,7 @@ This website privacy policy describes how www.itsgoneviral.com protects and make
 If you are asked to provide information when using this website, it will only be used in the ways described in this privacy policy.  
 This policy is updated from time to time. The latest version is published on this page.  
 This website privacy policy was updated on:  
-If you have any questions about this policy, please send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
+If you have any questions about this policy, please send an email to contact@itsgoneviral.com  
 Or write to us at: 4th floor, Derwent House, 42-46 Waterloo Rd, Wolverhampton WV1 4XB
 
 ## **Introduction**
@@ -74,7 +74,7 @@ Opt-in to receive marketing communications from us by email, telephone, text mes
 Opt-in to receive marketing communications from our third-party partners by email, telephone, text message or post.  
 If you have agreed that we can use your information for marketing purposes, you can change your mind easily, via one of these methods:  
 Sign in to our website and change your opt-in settings.  
-Send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
+Send an email to contact@itsgoneviral.com  
 Write to us at: 4th floor, Derwent House, 42-46 Waterloo Rd, Wolverhampton WV1 4XB  
 We will never lease, distribute or sell your personal information to third parties unless we have your permission or the law requires us to.  
 Any personal information we hold about you is stored and processed under our data protection policy, in line with the Data Protection Act 1998.
