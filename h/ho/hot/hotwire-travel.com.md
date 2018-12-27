@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotwire-travel.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630011723id_/https%3A//www.hotwire.com/en/content/privacy-policy%3Fcc%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotwire-travel.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227134023id_/https%3A//www.hotwire.com/en/content/privacy-policy%3Fcc%3Dus) for the most accurate reproduction.*
 
 # Privacy policy | Hotwire.com
 
@@ -157,12 +157,9 @@ We may update this Privacy Policy in the future. We will notify you about materi
 
 If you have questions about this Privacy Policy (or your travel planning or purchases), please contact us at:
 
-> **Email**
+> **Phone Toll-Free - within the U.S. and Canada**
 > 
-> Our customer care associates are available 24 hours a day, seven days a week. If you wish to [email us](https://www.hotwire.com/helpcenter/contact.jsp), we respond to most customer emails within two hours or less. Depending on the nature of your inquiry and the time of day, our response may take a bit longer.
-> 
-> **Phone Toll-Free - within the U.S. and Canada  
->  1-866-HOTWIRE (1-866-468-9473) **
+> **1-866-HOTWIRE (1-866-468-9473)**
 > 
 > **Phone - outside of the U.S. and Canada  
 >  1-417-520-1680 (regular toll charges apply)**
@@ -170,6 +167,5 @@ If you have questions about this Privacy Policy (or your travel planning or purc
 > **Mail**
 > 
 > Hotwire Customer Care  
->  655 Montgomery Street, Suite 600  
->  San Francisco, CA 94111  
->  U.S.A
+>  PO Box 26285  
+>  San Francisco, CA 94126
