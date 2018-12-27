@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mind.org.uk privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523180550id_/https%3A//www.mind.org.uk/legal-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mind.org.uk privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227041424id_/https%3A//www.mind.org.uk/legal-info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Mind, the mental health charity - help for mental health problems
 
@@ -214,7 +214,7 @@ You can opt out of all our cookies (except the strictly necessary ones). [Find 
 
 But, if you choose to refuse all cookies, our website may not function for you as we would like it to..
 
-If you have any questions about how we use cookies, please [contact us.](http://www.mind.org.uk/contact "Contact us")
+If you have any questions about how we use cookies, please [contact us.](https://www.mind.org.uk/contact "Contact us")
 
 ### 12.   Monitoring
 
