@@ -1,47 +1,65 @@
-> *The following text is extracted and transformed from the membermouse.com privacy policy that was archived on 2018-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180312213351id_/https%3A//membermouse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the membermouse.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227120443id_/https%3A//membermouse.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | MemberMouse
+# Privacy Policy (NEW) | MemberMouse
 
-At MemberMouse, LLC (“Company”), we respect the privacy of our readers. We are gravely concerned about practices which violate the basic rights of choice and confidentiality.
+This Privacy Policy explains how information about you is collected, used and disclosed by MemberMouse LLC (“MemberMouse,” “We”). This Privacy Policy applies to information we collect when you use our websites and other online products and services (collectively, the “Services”) or when you otherwise interact with us.
 
-Here is our covenant with the readers who trust us with their personal information.
+We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of the policy and, in some cases, we may provide you with additional notice (such as adding a statement to our homepage or sending you a notification). We encourage you to review the Privacy Policy whenever you access the Services or otherwise interact with us to stay informed about our information practices and the ways you can help protect your privacy.
 
-We Promise:
+**Collection of Information** | **Information you provide to us**  
+We collect information you provide directly to us. For example, we collect information when you create an account, participate in any interactive features of the Services, fill out a form, make a purchase, apply for a job, complete a survey, request customer support or otherwise communicate with us. The types of information we may collect include your name, email address, billing address, shipping address, phone number, IP address, credit card information and any other information you choose to provide. 
 
-1\. **Any e-mail you give us is safe.** We store your data in databases that only the staff of Company have access to. No one besides us will ever get access to your e-mail address.
+**Information We Collect Automatically When You Use the Services**  
+When you access or use our Services, we automatically collect information about you, including:
 
-2\. **Third Party Use.** We’ll never sell you. We never rent out or sell our subscriber lists to third parties like other companies might. So you’ll never receive junk mail or anything from any third-party by entering your details into any of our forms.
+  * **Log Information:** We collect log information about your use of the Services, including the type of browser you use, access times, pages viewed, your IP address and the page you visited before navigating to our Services.
+  * **Device Information:** We collect information about the computer or mobile device you use to access our Services, including the hardware model, operating system and version, unique device identifiers and mobile network information.
+  * **Information Collected by Cookies and Other Tracking  
+Technologies:** We use various technologies to collect information, including cookies and web beacons. Cookies are small data files stored on your hard drive or in device memory that help us improve our Services and your experience, see which areas and features of our Services are  
+popular and count visits. Web beacons are electronic images that may be used in our Services or emails and help deliver cookies, count visits and understand usage and campaign effectiveness. For more information about cookies, and how to disable them, please see “Your Choices” below.
 
-3\. **Easy “one-click” unsubscribe.** If you want to get off our list permanently, there’s an “unsubscribe” link in every one of our outgoing e-mails. Just click it and you’re instantly off the list — that means you’ll never receive another e-mail from us (unless you specifically ask to, of course).
 
-The remainder of this Privacy Policy will let you know what kind of information we collect on the website at membermouse.com (the “Site”), how it is handled, with whom it may be shared, what choices you have regarding our use of your information and how you may access some of the data you provide to us.
 
-**PERSONALLY IDENTIFIABLE INFORMATION**
+**Information We Collect From Other Sources**  
+We may also obtain information from other sources and combine that with information we collect through our Services. For example, we may collect information about you from third parties, including but not limited to our Affiliate Program and survey vendors.  
+  
+**Use of Information** | We may use information about you for various purposes, including to: 
 
-Company collects and stores personal information in several ways at different parts of our Site. This information may include, but is not limited to, your name, email address, age, gender, address, telephone number, User ID, User password, and other self-identifying information. This allows us to keep a user profile so that we may customize preferences for each specific user, as well as provide a faster method for users to submit information to Company, and receive back either the information, service, or products desired. Company may also request certain information using online order forms for products and services. On the order forms, we may collect contact information, demographic information, method of payment and, if applicable, a credit or debit card number. We may also collect information about you in surveys or for sweepstakes and contests on our Site and information about the searches you perform and the pages you visit on our Site.
+  * Provide, maintain, and improve our Services;
+  * Provide and deliver the products and services you request, process transactions and send you related information, including confirmations and receipts;
+  * Send you technical notices, updates, security alerts and support and administrative messages;
+  * Respond to your comments, questions and requests and provide customer service;
+  * Communicate with you about products, services, offers, and promotions offered by MemberMouse, and provide news and information we think will be of interest to you;
+  * Monitor and analyze trends, usage and activities in connection with our Services;
+  * Detect, investigate and prevent fraudulent transactions and other illegal activities and protect the rights and property of MemberMouse and others;
+  * Personalize and improve the Services and provide features that match user profiles or interests;
+  * Link or combine with information we get from others to help understand your needs and provide you with better service; and
+  * Carry out any other purpose described to you at the time the information was collected.
 
-Company may also monitor, on an anonymous aggregate basis, patterns of use in connection with e-mails that it sends out, including which links are clicked on in our email communications, so that we may use such information to better personalize the content of our Site and our mailings for our users. All such information will be protected in accordance with our Privacy Policy. We may also automatically collect your Internet Protocol address to help diagnose problems and for system administration. Company reserves the right to request any additional information necessary to establish and maintain your account for use of our Site.
+  
+**Sharing of Information** | We may share information about you as follows or as otherwise described in this Privacy Policy: 
 
-**USE OF INFORMATION BY COMPANY**
+  * With vendors, consultants and other service providers who need access to such information to carry out work on our behalf;
+  * In response to a request for information if we believe disclosure is in accordance with, or required by, any applicable law, regulation or legal process;
+  * If we believe your actions are inconsistent with our user agreements or policies, or to protect the rights, property and safety of MemberMouse or others;
+  * Between and among MemberMouse and our current and future parents, affiliates, subsidiaries and other companies under common control and ownership;
+  * In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business by another company; and
+  * With your consent or at your direction.
 
-Company will not sell, rent or barter your personal information other than to its business partners as set forth in this Privacy Policy. However, we may from time to time aggregate statistical information regarding our customers, traffic patterns and site usage, or sell our research, which may contain aggregate information. In addition, we may report aggregate information to our advertisers. Such aggregate information will not individually identify any user. Company uses the information collected from you in accordance with this Privacy Policy. Information we collect is used to customize your experience at our Site. We also show you content that we think will be interesting to you, and display content according to the preferences you indicate while on our Site. Company may use your information to send you promotional materials about Company and its partners. We may also use your information to contact you, if necessary. We reserve the right to disclose any information if such action is necessary (a) to conform to the requirements of the law or to comply with legal process or a subpoena served on Company, (b) to protect and defend the legal rights or property of Company, our Site, or its users, or (c) in an emergency, to protect the health and safety of its users or the general public.
 
-**CHOICES YOU HAVE REGARDING THE COLLECTION, USE AND DISTRIBUTION OF YOUR INFORMATION**
 
-Company will not sell, rent or barter your personal information other than to its business partners as set forth in this Privacy Policy. However, we may from time to time aggregate statistical information regarding our customers, traffic patterns and site usage, or sell our research, which may contain aggregate information. In addition, we may report aggregate information to our advertisers. Such aggregate information will not individually identify any user. Company uses the information collected from you in accordance with this Privacy Policy. Information we collect is used to customize your experience at our Site. We also show you content that we think will be interesting to you, and display content according to the preferences you indicate while on our Site. Company may use your information to send you promotional materials about Company and its partners. We may also use your information to contact you, if necessary. We reserve the right to disclose any information if such action is necessary (a) to conform to the requirements of the law or to comply with legal process or a subpoena served on Company, (b) to protect and defend the legal rights or property of Company, our Site, or its users, or (c) in an emergency, to protect the health and safety of its users or the general public.
+We may also share non-personal aggregated or de-identified information, which cannot reasonably be used to identify you.   
+  
+**Advertising and Analytics Services Provided by Others** | We may allow others to provide analytics services and serve advertisements on our behalf across the Internet and in applications. These entities may use cookies, web beacons, device identifiers and other technologies to collect information about your use of the Services and other websites and applications, including your IP address, web browser, mobile network information, pages viewed, site activity, time spent on pages or in apps, links clicked and conversion information. This information may be used by MemberMouse and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services and other websites and better understand your online activity.   
+**Security** | MemberMouse takes measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction.   
+**Transfer of Information to the U.S. and Other Countries** | MemberMouse is based in the United States and the information we collect is governed by U.S. law. By accessing or using the Services or otherwise providing information to us, you consent to the processing, transfer and storage of information in and to the U.S. and other countries, where you may not have the same rights and protections as you do under local law.   
+**Your Choices** | **Account Information**  
+You may update or correct information about you at any time by logging into your online account or by emailing us at support@membermouse.com. If you wish to deactivate or delete your account, please email us at support@membermouse.com, but note that we may retain certain information as required by law or for legitimate business purposes. We may also retain cached or archived copies of information about you for a certain period of time. 
 
-**“COOKIES,” AND HOW COMPANY USES THEM**
+**Cookies**  
+Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Removing or rejecting browser cookies does not necessarily affect third party flash cookies that may be used in connection with our Services. To delete or disable flash cookies please visit [http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html](https://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html) for more information.
 
-For all our transactions, we employ reasonable and current Internet security methods and technologies. Where appropriate, we password protect, use encryption techniques and install firewalls. We strive to protect your privacy. We encourage our participating service providers to adopt and honor their own consumer privacy policies. For all our efforts to safeguard your privacy however, no system can be guaranteed. We cannot ensure or warrant the security of any information that you transmit to us, or that we transmit to you, or guarantee that it will be free from unauthorized access by third parties. Once we receive your information, we use reasonable efforts to ensure its security on our systems. At Company we take great care and use the latest technologies to ensure the security and safety of all your transactions with Company.
-
-**ACCESSING, CHANGING OR DELETING YOUR INFORMATION**
-
-As part of your use of our Site, you are responsible for maintaining and updating, as applicable, your account registration data with current, accurate and complete information. You may view, update and/or edit the registration data you have provided to Company by logging in to your account and following the appropriate instructions.
-
-**WHAT ELSE YOU SHOULD KNOW ABOUT YOUR ONLINE PRIVACY**
-
-Company may also contain links to other web sites and advertising. The privacy policies of those web sites and advertisers may significantly differ from that of our Site, and Company is not responsible for the privacy practices or the content of such web sites or for the privacy policies and practices of other third parties. It is your responsibility to contact such web site operators or advertisers directly to determine their Privacy Policy.
-
-**CHANGES TO THIS PRIVACY POLICY**
-
-Company reserves the right to change or modify this Privacy Policy in its discretion at any time without notice to the users of our Site, except that Company will post the changed or modified Privacy Policy on our Site as soon as practicable as such changes or modifications are implemented.
+**Promotional Communications**  
+You may opt out of receiving promotional emails from MemberMouse by clicking on the ‘unsubscribe’ link provided in the footer of each email or by contacting us at support@membermouse.com and asking to opt out. If you opt out, we may still send you non-promotional emails, such as those about your account or our ongoing business relations.   
+  
+**Contact Us** | If you have any questions about this Privacy Policy, please contact us at: support@membermouse.com. 
