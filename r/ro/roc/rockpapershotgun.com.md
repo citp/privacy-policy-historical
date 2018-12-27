@@ -1,20 +1,6 @@
-> *The following text is extracted and transformed from the rockpapershotgun.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622002446id_/https%3A//www.rockpapershotgun.com/privacy-stuff) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockpapershotgun.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227170507id_/https%3A//www.rockpapershotgun.com/privacy) for the most accurate reproduction.*
 
-# Privacy Stuff! | Rock, Paper, Shotgun - PC Game Reviews, Previews, Subjectivity
-
-## Our Privacy Policy
-
-– The email addresses used for registration on this site are not used for any purposes other than operation of the comments and forum. They won’t be sold to anyone, ever.
-
-– The email address collected for subscribers are used to send your our subs newsletter and subscriber offers. We do not use these emails for any other purpose, and they are stored on Paypal, which is tied to your subscriber account. That’s how you pay for the sub!
-
-– Data collated from IP addresses is used to determine traffic, so obviously you’ll be counted by browsing here. That information won’t be used outside of RPS or our advertising agencies.
-
-– Sites like RPS use [cookies](http://en.wikipedia.org/wiki/HTTP_cookie), files which stay on your PC, and you can turn that feature off in your browser if you’re not comfortable with it. There are 3rd-party adverts on this site, and they often collate traffic data and use cookies. You can block their tracking with systems like [this one](http://www.networkadvertising.org/managing/opt_out.asp), or any number of other cookie blockers available on the web, such as [Spybot](http://www.safer-networking.org/index2.html). We recommend you use Firefox as your browser, too.
-
-– For competition rules please read [this page](https://www.rockpapershotgun.com/rps-compo-rules/).
-
-– Rock, Paper, Shotgun Ltd is a company based in the United Kingdom and is subject to the Data Protection Act, 1998.
+# Privacy Policy | Rock Paper Shotgun
 
 ### How Gamer Network Ltd collects and uses your data
 
@@ -45,6 +31,10 @@ Gamer Network Ltd will not send you any marketing emails or pass your informatio
 #### Cookies
 
 Gamer Network Ltd uses 'cookies' on Rock Paper Shotgun. Cookies are a way that information such as whether you have visited Rock Paper Shotgun before is recorded on your computer and used by Gamer Network Ltd to improve Rock Paper Shotgun and the services available to you.
+
+You may use the cookie consent options above to control the information you would like us to remember about you. Please note: we must use cookies to remember your preferences.
+
+Other companies who advertise on our website would also like to use cookies in order to tailor the types of advertising you are shown. You will have already been asked for your permission to use 3rd party advertising cookies, but you may change your permission at any time using the cookie consent options above. 
 
 If you do not wish for Gamer Network Ltd to use cookies in any way when you use Rock Paper Shotgun please adjust your Internet browser settings to not accept cookies. Your computer's help file should tell you how to do this but please note that this may affect your ability to use Rock Paper Shotgun and the Content.
 
