@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vancouver2010.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627070338id_/https%3A//www.olympic.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vancouver2010.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227144410id_/https%3A//www.olympic.org/privacy-policy) for the most accurate reproduction.*
 
 # Olympics | Olympic Games, Medals, Results, News | IOC
 
@@ -22,7 +22,7 @@ Your privacy is very important to us and we believe that you should always keep 
 
 **WHAT YOU CAN DO TO LIMIT OR DELETE YOUR INFORMATION** : if you have registered with us, you can limit the information you share with us or delete your account by going to your account settings. You can also block cookies and similar technologies by configuring the functionalities of your internet browser.
 
-**HOW YOU CAN CONTACT US:** If you would like to access, rectify or erase your personal information, you can do so via your account settings or by contacting our data protection officer here: Data Protection Officer, International Olympic Committee, Château de Vidy, 1007 Lausanne, Switzerland, [privacy@olympic.org](mailto:privacy@olympic.org). 
+**HOW YOU CAN CONTACT US:** If you would like to access, rectify or erase your personal information, you can do so via your account settings or by [contacting our data protection officer here](https://app-eu.onetrust.com/app/#/webform/787ca7a8-5c45-45f9-9c4d-29ef9d88bb1d) or at Data Protection Officer, International Olympic Committee, Château de Vidy, 1007 Lausanne, Switzerland. 
 
 This Privacy Policy, as updated from time to time, explains what information about you is collected and how it is processed when you use digital services such as websites, newsletters, registration systems, or online resources offered on the www.olympic.org website and other digital properties operated by the International Olympic Committee (the “ **IOC** ”) and the Olympic Foundation for Culture and Heritage (the “ **Foundation** ”) (collectively the “ **Services** ”). 
 
@@ -168,7 +168,7 @@ While the information we collect will usually be processed in the European Union
 
 The Services are intended for users who are 13 years old (or older) and we will not knowingly collect personal information about users below that age. If you are aged 13 to 15 years old, you can only use the Services with the prior authorisation from a parent or guardian. 
 
-If we become aware that a child has provided us with personal information without parental or guardian consent, we will take steps to delete this information and close the child’s account. If you become aware that your child has provided us with personal information without your consent, please contact us at privacy@olympic.org.
+If we become aware that a child has provided us with personal information without parental or guardian consent, we will take steps to delete this information and close the child’s account. If you become aware that your child has provided us with personal information without your consent, [please contact us](https://app-eu.onetrust.com/app/#/webform/787ca7a8-5c45-45f9-9c4d-29ef9d88bb1d).
 
 **4.  ** **Data retention**
 
@@ -248,7 +248,7 @@ To unsubscribe from marketing communications, you can adjust your settings in yo
 
 **3.  ** **Contact us**
 
-To object to the processing of your information or the information of your child, or request a restriction of such processing, to withdraw your consent or to request access, deletion or correction of any erroneous or incomplete data, to  exercise your data portability right or for any question related to this Privacy Policy, you can contact us at the following address: [privacy@olympic](mailto:privacy@olympic).org[](mailto:Privacy@olympic.org).
+To object to the processing of your information or the information of your child, or request a restriction of such processing, to withdraw your consent or to request access, deletion or correction of any erroneous or incomplete data, to  exercise your data portability right or for any question related to this Privacy Policy, you can [contact us](https://app-eu.onetrust.com/app/#/webform/787ca7a8-5c45-45f9-9c4d-29ef9d88bb1d).
 
 **4.  ** **Data Protection Officer**
 
@@ -261,15 +261,13 @@ International Olympic Committee
 Château de Vidy  
 1007 Lausanne  
 Switzerland  
-[privacy@olympic.org](mailto:privacy@olympic.org)
+[Contact link](https://app-eu.onetrust.com/app/#/webform/787ca7a8-5c45-45f9-9c4d-29ef9d88bb1d)
 
 Data Protection Officer  
-
-
 Olympic Foundation for Culture and Heritage  
 Quai d’Ouchy 1  
 1006 Lausanne  
-[privacy@olympic.org](mailto:privacy@olympic.org)
+[](mailto:privacy@olympic.org)[Contact link](https://app-eu.onetrust.com/app/#/webform/787ca7a8-5c45-45f9-9c4d-29ef9d88bb1d)
 
 **CHANGES TO THIS PRIVACY POLICY**
 
@@ -280,6 +278,3 @@ When we make changes to this Privacy Policy, we will do our best to inform you i
 International Olympic Committee, Château de Vidy, 1007 Lausanne, Switzerland, 
 
 Olympic Foundation for Culture and Heritage, Quai d’Ouchy 1, 1006 Lausanne, Switzerland
-
-  
-
