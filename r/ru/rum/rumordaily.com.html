@@ -1,64 +1,173 @@
-<!--The following is the downloaded HTML source of the rumordaily.com privacy policy that was archived on 2018-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180626050732id_/http%3A//rumordaily.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rumordaily.com privacy policy that was archived on 2018-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181227223001id_/http%3A//rumordaily.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <meta charset="UTF-8">
     <script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script>
+    window._nawInternal = {
+        registeredNextPageAJAXListeners: [],
+        registeredAfterHeaderScriptListeners: [],
+        overrideDistanceForAJAXLoad: null
+    };
+    function nawRegisterNextPageAJAXListener(cb) {
+        window._nawInternal.registeredNextPageAJAXListeners.push(cb);
+    }
+    function nawRegisterAfterAdHeaderScriptsListener(cb) {
+        window._nawInternal.registeredAfterHeaderScriptListeners.push(cb);
+    }
+    function nawGetCurrentAJAXPageDepth() {
+        return window._nawInternal.currentPageDepth;
+    }
+    function nawOverrideAJAXInfiniteScrollDistance(distance) {
+        window._nawInternal.overrideDistanceForAJAXLoad = distance;
+    }
     (function (win) {
-        win._nawcbolq = [];
-        win._nawcbolqdone = false;
+        win._nawInternal.cbolq = [];
+        win._nawInternal.cbolqdone = false;
         win._nawcbonload = function (fn) {
-            if (!win._nawcbolqdone) {
-                win._nawcbolq.push(fn);
+            if (!win._nawInternal.cbolqdone) {
+                win._nawInternal.cbolq.push(fn);
             } else {
                 setTimeout(fn, 0);
             }
         }
         function contentLoaded(win, fn) {
     
-        	var done = false, top = true,
+            var done = false, top = true,
     
-        	doc = win.document,
-        	root = doc.documentElement,
-        	modern = doc.addEventListener,
+            doc = win.document,
+            root = doc.documentElement,
+            modern = doc.addEventListener,
     
-        	add = modern ? 'addEventListener' : 'attachEvent',
-        	rem = modern ? 'removeEventListener' : 'detachEvent',
-        	pre = modern ? '' : 'on',
+            add = modern ? 'addEventListener' : 'attachEvent',
+            rem = modern ? 'removeEventListener' : 'detachEvent',
+            pre = modern ? '' : 'on',
     
-        	init = function(e) {
-        		if (e.type == 'readystatechange' && doc.readyState != 'complete') return;
-        		(e.type == 'load' ? win : doc)[rem](pre + e.type, init, false);
-        		if (!done && (done = true)) fn.call(win, e.type || e);
-        	},
+            init = function(e) {
+                if (e.type == 'readystatechange' && doc.readyState != 'complete') return;
+                (e.type == 'load' ? win : doc)[rem](pre + e.type, init, false);
+                if (!done && (done = true)) fn.call(win, e.type || e);
+            },
     
-        	poll = function() {
-        		try { root.doScroll('left'); } catch(e) { setTimeout(poll, 50); return; }
-        		init('poll');
-        	};
+            poll = function() {
+                try { root.doScroll('left'); } catch(e) { setTimeout(poll, 50); return; }
+                init('poll');
+            };
     
-        	if (doc.readyState == 'complete') fn.call(win, 'lazy');
-        	else {
-        		if (!modern && root.doScroll) {
-        			try { top = !win.frameElement; } catch(e) { }
-        			if (top) poll();
-        		}
-        		doc[add](pre + 'DOMContentLoaded', init, false);
-        		doc[add](pre + 'readystatechange', init, false);
-        		win[add](pre + 'load', init, false);
-        	}
+            if (doc.readyState == 'complete') fn.call(win, 'lazy');
+            else {
+                if (!modern && root.doScroll) {
+                    try { top = !win.frameElement; } catch(e) { }
+                    if (top) poll();
+                }
+                doc[add](pre + 'DOMContentLoaded', init, false);
+                doc[add](pre + 'readystatechange', init, false);
+                win[add](pre + 'load', init, false);
+            }
         }
         contentLoaded(win, function () {
-            win._nawcbolqdone = true;
-            for (var i = 0; i < win._nawcbolq.length; i++) {
-                setTimeout(win._nawcbolq[i], 0);
+            win._nawInternal.cbolqdone = true;
+            for (var i = 0; i < win._nawInternal.cbolq.length; i++) {
+                setTimeout(win._nawInternal.cbolq[i], 0);
             }
-            win._nawcbolq = [];
+            win._nawInternal.cbolq = [];
         });
     })(window);
     </script>
+            <script>
+    (function () {
+    try {
+        // add the tracking from server side data
+        window._nawtrkrs = {};
+        window._nawtrkrs['display_id'] = 'KXHSTbA7Yc';
+        window._nawtrkrs['display_revision'] = '1526935369949';
+        window._nawtrkrs['article_revision'] = '1526935560030';
+        window._nawtrkrs['page_depth'] = '0';
+        window._nawtrkrs['split'] = '';
+        window._nawtrkrs['article_encoded_url'] = 'cnVtb3JkYWlseS5jb20vcHJpdmFjeS1wb2xpY3k%3D';
+        window._nawtrkrs['utm_campaign'] = '';
+        window._nawtrkrs['utm_source'] = '';
+        window._nawtrkrs['utm_medium'] = '';
+        window._nawtrkrs['utm_content'] = '';
+        window._nawtrkrs['utm_term'] = '';
+        // ===== track page counts ====
+        var pageDepthCookieName = 'pageDepth';
+        var pageDepthCookieExpMin = 30;
+        var pageDepthCounter = 1;
+        function setCookie(cname, cvalue, exminutes) {
+            var d = new Date();
+            d.setTime(d.getTime() + (exminutes * 60 * 1000));
+            var expires = 'expires=' + d.toUTCString();
+            var pathPieces = document.location.pathname.split('/');
+            var path = '/' + (pathPieces[1] ? pathPieces[1] : '');
+            document.cookie = cname + '=' + cvalue + '; ' + expires + '; path=' + path + '; ';
+        }
+        function getCookie(a) {
+            var b = document.cookie.match('(^|;)\\s*' + a + '\\s*=\\s*([^;]+)');
+            return b ? b.pop() : '';
+        }
+        // Check to see if the page depth cookie counter has been set
+        if (pageDepthCounter = getCookie(pageDepthCookieName)){
+            // If it exists, increment it and then set the page depth counter.
+            setCookie(pageDepthCookieName, ++pageDepthCounter, pageDepthCookieExpMin);
+        }else{
+            // If it hasn't been set, set intialize it and the page depth counter;
+            setCookie(pageDepthCookieName, 1, pageDepthCookieExpMin);
+            pageDepthCounter = 1;
+        }
+        // set the _nawtrkrs property
+        window._nawtrkrs.page_depth = pageDepthCounter + '';
+        //  ==== page depth tracking ====
+    } catch (e) {}
+    })();
+    </script>
     <meta property="fb:pages" content="1096090123741663">
-    
+<!-- custom component styling do not remove -->
+<style>
+    .site_card_bg_color_header {
+        background-color: #F1F1F2;
+    }
+    .site_card_bg_color_body {
+        background-color: #F8F8F8;
+    }
+    .site_card_color_hover a:hover {
+        background-color: #7E7E7E;
+    }
+    .site_category_color_active {
+        background-color: #f3152b;
+        font-weight: bold;
+    }
+    .site_navbar_bg_color {
+        background-color: #F1F1F2;
+    }
+    a.site_navbar_hover_color:hover {
+        background-color: #111;
+        color: white;
+    }
+</style>
+<!-- end custom component styling do not remove -->
+<script>
+(deployads = window.deployads || []).pageSegment = _nawtrkrs.display_id;
+(deployads = window.deployads || []).disablePageSegmentSessionTracking = true;
+</script>
+<!-- start track virtual pageviews -->
+<script>
+    try {
+        nawRegisterNextPageAJAXListener(function () {
+            // track GA virtual pageview
+            ga('send', 'pageview', location.pathname);
+            // track sortable virtual pageview
+            if (deployads) {
+                deployads.push(function () { deployads.newPage(); });
+            }
+        });
+    } catch (e) { }
+
+</script>
+<!-- end track virtual pageviews -->
+<!-- pinterest verify domain -->
+<meta name="p:domain_verify" content="38895bf102b3cd2fd913076c08dab712">
+<!-- end pinterest verify domain -->
     <meta property="og:locale" content="en_US">
     <meta property="og:type" content="article">
     
@@ -83,6 +192,16 @@
     
         <meta name="twitter:image" content="http://undefined?fit=crop&amp;crop=faces,edges&amp;w=560&amp;h=300&amp;auto=format">
     
+    <script>
+    (function() {
+        for (var i = 0; i < window._nawInternal.registeredAfterHeaderScriptListeners.length; i++) {
+            try {
+                window._nawInternal.registeredAfterHeaderScriptListeners[i](window._nawInternal.currentPageDepth);
+            } catch (e) {}
+        }
+        window._nawInternal.registeredAfterHeaderScriptListeners = [];
+    })();
+    </script>
     <link rel="icon" href="http://rumordaily.imgix.net/1464721218148/favicon">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <!-- Font Awsome -->
@@ -90,59 +209,9 @@
         <!-- Styles -->
         <link rel="stylesheet" href="/_static/css/bootstrap.min.css">
         <link rel="stylesheet" href="/_static/css/themes/rumordaily.com.css">
-<script>
-    try {
-        packeryOuterRef = [];
-        packeryInnerRef = [];
-
-        function forceReloadLayout() {
-            for (var i = 0; i < packeryInnerRef.length; i++) {
-                packeryInnerRef[i].layout();
-            }
-            for (var i = 0; i < packeryOuterRef.length; i++) {
-                packeryOuterRef[i].layout();
-            }
-        }
-
-        function onImageFinishedLoading(img) {
-            forceReloadLayout()
-        }
-    } catch (e) {
-        console.log('setting onImageLoadFailed');
-        console.log(e)
-    }
-</script></head>
-
-
+</head>
 
 <body style="font-family: 'Raleway', sans-serif;">
-    <style>
-        .site_card_bg_color_header {
-            background-color: #F1F1F2;
-        }
-    
-        .site_card_bg_color_body {
-            background-color: #F8F8F8;
-        }
-    
-        .site_card_color_hover a:hover {
-            background-color: #7E7E7E;
-        }
-    
-        .site_category_color_active {
-            background-color: #f3152b;
-            font-weight: bold;
-        }
-    
-        .site_navbar_bg_color {
-            background-color: #F1F1F2;
-        }
-    
-        a.site_navbar_hover_color:hover {
-            background-color: #111;
-            color: white;
-        }
-    </style>
     <nav class="navbar navbar-toggleable-md bg-primary">
     	<div class="container">
     		<div class="navbar-translate">
@@ -208,430 +277,410 @@
         font-size:17px;
     }
     </style>
+    <script>
+        try {
+    
+            window._nawInternal.packeryRefsByContainerID = {};
+    
+            function nawForceReloadLayout(containerID) {
+                var packeryRefs = window._nawInternal.packeryRefsByContainerID[containerID];
+                if (!packeryRefs) {
+                    return;
+                }
+                for (var i = 0; i < packeryRefs.inner.length; i++) {
+                    packeryRefs.inner[i].layout();
+                }
+                for (var i = 0; i < packeryRefs.outer.length; i++) {
+                    packeryRefs.outer[i].layout();
+                }
+            }
+    
+            function nawInitializePackeryContainers(outerID, innerClass) {
+                var packeryRefs = window._nawInternal.packeryRefsByContainerID[outerID] = {
+                    inner: [],
+                    outer: []
+                };
+    
+                var innerContainers = document.getElementsByClassName(innerClass);
+    
+                for (var i = 0; i < innerContainers.length; i++) {
+                    var packeryInner = new Packery(innerContainers[i], {
+                        itemSelector: '.item',
+                        gutter: 0
+                    });
+                    packeryRefs.inner.push(packeryInner);
+                }
+    
+                var outerContainer = document.querySelector('#' + outerID);
+    
+                var packeryOuter = new Packery(outerContainer, {
+                    itemSelector: '.' + innerClass,
+                    gutter: 10
+                });
+                packeryRefs.outer.push(packeryOuter);
+            }
+        } catch (e) {}
+    </script>
 
-    <div id="outer_container" style="width:1200px;height:1000px;margin:auto;">
-        <div class="inner_container" style="width:1200px;height:2200px;">
-                <div style="text-align: center; width: inherit;" class="item">
-                    <div style="display: inline-block;" class="mobile-resize">
-                        
-                        
-                        <h1>
-                                  
-                        </h1>
-                        
-                    </div>
+    <div class="outer_container" id="outer_container_5PGgZc" style="width:1200px;height:1000px;margin:auto;padding-top:5px;">
+         
+        <div class="inner_container_5PGgZc inner_container" style="width:1200px;height:2200px;">
+            <div style="text-align: center; width: inherit;" class="item">
+                <div style="display: inline-block;" class="mobile-resize">
+                    
+                    
+                    <h1>
+                              
+                    </h1>
+                    
                 </div>
+            </div>
+            
                 
-                    
-                    
-                                <div style="text-align: center; width: inherit;" class="item">
-                                    <div style="display: inline-block;" class="mobile-resize">
-                                        <div style="font-size:17px;width:1200px;" class="mobile-resize">
-                                            <p style="padding-left:10px;padding-right:10px;"><style> p { text-align: left !important; }</style>
-                </p><h2> RumorDaily® Website Privacy Policy </h2>
-                <p>
-                The RumorDaily® Website Privacy Policy (“Privacy Policy”) covers our treatment of personal information and other information that we collect when you: (a) access or use the Site; (b) access and/or view any of the video, audio, stories, text, photographs, graphics, artwork and/or other content featured on the Site as made available by other Users (collectively, “User Submitted Content”) and/or RumorDaily® (“RD Content,” and together with the User Submitted Content, “Content”); (c) access links to RumorDaily®’ social media pages/accounts on third party social media websites, such as Facebook® (collectively, “Social Media Pages”); and/or (d) utilize the Site’s many interactive features designed to facilitate interaction between you, RumorDaily® and other Users including, but not limited to, comment sections located in designated areas of the Site (collectively, the “Interactive Services” and together with the Site, Content and Social Media Pages, the “RumorDaily® Offerings”).
-                <br>
-                <strong>IF YOU DO NOT AGREE TO TERMS OF THIS PRIVACY POLICY IN THEIR ENTIRETY, YOU MAY NOT ACCESS OR OTHERWISE USE THE RUMORDAILY® OFFERINGS.</strong>
-                <br>
-                Facebook® is a registered trademark of Facebook, Inc. (“Facebook”). Please be advised that RumorDaily® is not in any way affiliated with Facebook, and the RumorDaily® Offerings are not endorsed, administered or sponsored by Facebook.
-                </p><p>
-                </p>
-                                        </div>
+                
+                            <div style="text-align: center; width: inherit;" class="item">
+                                <div style="display: inline-block;" class="mobile-resize">
+                                    <div style="font-size:17px;width:1200px;" class="mobile-resize">
+                                        <p style="padding-left:10px;padding-right:10px;"><style> p { text-align: left !important; }</style>
+            </p><h2> RumorDaily® Website Privacy Policy </h2>
+            <p>
+            The RumorDaily® Website Privacy Policy (“Privacy Policy”) covers our treatment of personal information and other information that we collect when you: (a) access or use the Site; (b) access and/or view any of the video, audio, stories, text, photographs, graphics, artwork and/or other content featured on the Site as made available by other Users (collectively, “User Submitted Content”) and/or RumorDaily® (“RD Content,” and together with the User Submitted Content, “Content”); (c) access links to RumorDaily®’ social media pages/accounts on third party social media websites, such as Facebook® (collectively, “Social Media Pages”); and/or (d) utilize the Site’s many interactive features designed to facilitate interaction between you, RumorDaily® and other Users including, but not limited to, comment sections located in designated areas of the Site (collectively, the “Interactive Services” and together with the Site, Content and Social Media Pages, the “RumorDaily® Offerings”).
+            <br>
+            <strong>IF YOU DO NOT AGREE TO TERMS OF THIS PRIVACY POLICY IN THEIR ENTIRETY, YOU MAY NOT ACCESS OR OTHERWISE USE THE RUMORDAILY® OFFERINGS.</strong>
+            <br>
+            Facebook® is a registered trademark of Facebook, Inc. (“Facebook”). Please be advised that RumorDaily® is not in any way affiliated with Facebook, and the RumorDaily® Offerings are not endorsed, administered or sponsored by Facebook.
+            </p><p>
+            </p>
                                     </div>
                                 </div>
-                    
+                            </div>
                 
-                    
-                    
-                                <div style="text-align: center; width: inherit;" class="item">
-                                    <div style="display: inline-block;" class="mobile-resize">
-                                        <div style="font-size:17px;width:1200px;" class="mobile-resize">
-                                            <p style="padding-left:10px;padding-right:10px;">
-                </p><h3 style="text-align:left !important;">
-                Your California Privacy Rights
-                </h3>
-                <p>
-                If you are a resident of the State of California and would like to learn how your “personal information” (as defined in the Shine the Light Law, Cal. Civ. Code § 1798.83) is shared with third parties, what categories of personal information that we have shared with third parties in the preceding year, as well as the names and addresses of those third parties, please e-mail us at: help@rumordaily.com or send mail to: 548 Market St. #37515 San Francisco, CA 94104.
-                <br>
-                Further, if you are a resident of the State of California and would like to opt-out from the disclosure of your personal information to any third party for marketing purposes, please e-mail us at: help@rumordaily.com or send mail to: 548 Market St. #37515 San Francisco, CA 94104.
-                </p><p></p>
-                                        </div>
+            
+                
+                
+                            <div style="text-align: center; width: inherit;" class="item">
+                                <div style="display: inline-block;" class="mobile-resize">
+                                    <div style="font-size:17px;width:1200px;" class="mobile-resize">
+                                        <p style="padding-left:10px;padding-right:10px;">
+            </p><h3 style="text-align:left !important;">
+            Your California Privacy Rights
+            </h3>
+            <p>
+            If you are a resident of the State of California and would like to learn how your “personal information” (as defined in the Shine the Light Law, Cal. Civ. Code § 1798.83) is shared with third parties, what categories of personal information that we have shared with third parties in the preceding year, as well as the names and addresses of those third parties, please e-mail us at: help@rumordaily.com or send mail to: 548 Market St. #37515 San Francisco, CA 94104.
+            <br>
+            Further, if you are a resident of the State of California and would like to opt-out from the disclosure of your personal information to any third party for marketing purposes, please e-mail us at: help@rumordaily.com or send mail to: 548 Market St. #37515 San Francisco, CA 94104.
+            </p><p></p>
                                     </div>
                                 </div>
-                    
+                            </div>
                 
-                    
-                    
-                                <div style="text-align: center; width: inherit;" class="item">
-                                    <div style="display: inline-block;" class="mobile-resize">
-                                        <div style="font-size:17px;width:1200px;" class="mobile-resize">
-                                            <p style="padding-left:10px;padding-right:10px;">
-                </p><h3 style="text-align:left !important;">
-                Personal Information Collected
-                </h3>
-                <p>
-                For the purposes of this Privacy Policy, “personal information” shall mean individually identifiable information from or about an individual. We collect personal information when you access certain aspects of the Rumordaily® Offerings. When a user signs up for email updates via the Facebook Instant Articles Widget we store that users email address.
-                </p><p></p>
-                                        </div>
+            
+                
+                
+                            <div style="text-align: center; width: inherit;" class="item">
+                                <div style="display: inline-block;" class="mobile-resize">
+                                    <div style="font-size:17px;width:1200px;" class="mobile-resize">
+                                        <p style="padding-left:10px;padding-right:10px;">
+            </p><h3 style="text-align:left !important;">
+            Personal Information Collected
+            </h3>
+            <p>
+            For the purposes of this Privacy Policy, “personal information” shall mean individually identifiable information from or about an individual. We collect personal information when you access certain aspects of the Rumordaily® Offerings. When a user signs up for email updates via the Facebook Instant Articles Widget we store that users email address.
+            </p><p></p>
                                     </div>
                                 </div>
-                    
+                            </div>
                 
-                    
-                    
-                                <div style="text-align: center; width: inherit;" class="item">
-                                    <div style="display: inline-block;" class="mobile-resize">
-                                        <div style="font-size:17px;width:1200px;" class="mobile-resize">
-                                            <p style="padding-left:10px;padding-right:10px;">
-                </p><h3 style="text-align:left !important;">
-                Use of Personal Information
-                </h3>
-                <p>
-                By submitting your personal information by and through the RumorDaily® Offerings, you agree that we may share, sell, rent, lease or otherwise provide that personal information to any third party for any purpose, and we may work with other businesses to bring selected retail opportunities to our Users. These businesses and third parties may include, but are not limited to: (a) providers of direct marketing services and applications, including lookup and reference, data enhancement, suppression and validation; (b) e-mail marketers; (c) telemarketers (where permitted by applicable law); and (d) direct marketers.
-                <br>
-                We may also employ other companies and individuals to perform certain functions on our behalf. Examples include sending direct and electronic mail, removing duplicate information from User lists, analyzing data and providing marketing analysis. The agents performing these limited functions on our behalf shall have access to our Users’ personal information as needed to perform these functions for us, but we do not permit them to use User personal information for other purposes.
-                <br>
-                We will also use your personal information for customer service, to provide you with information that you may request, to customize your experience with the RumorDaily® Offerings and/or to contact you when necessary in connection with your use of the RumorDaily® Offerings. We may also use your personal information for internal business purposes, such as analyzing and managing our business including, without limitation, the RumorDaily® Offerings. We may also combine the information we have gathered about you with information from other sources.
-                <br>
-                By submitting your personal information by and through the RumorDaily® Offerings, you agree that such act constitutes an inquiry and/or application for purposes of the Amended Telemarketing Sales Rule (16 CFR §310 et seq.), as amended from time to time (the “Rule”) and applicable state do-not-call regulations. As such, notwithstanding that your telephone number may be listed on the Federal Trade Commission’s Do-Not-Call List, and/or on applicable state do-not-call lists, we retain the right to contact you via telemarketing in accordance with the Rule and applicable state do-not-call regulations.
-                </p>
-                <p></p>
-                                        </div>
+            
+                
+                
+                            <div style="text-align: center; width: inherit;" class="item">
+                                <div style="display: inline-block;" class="mobile-resize">
+                                    <div style="font-size:17px;width:1200px;" class="mobile-resize">
+                                        <p style="padding-left:10px;padding-right:10px;">
+            </p><h3 style="text-align:left !important;">
+            Use of Personal Information
+            </h3>
+            <p>
+            By submitting your personal information by and through the RumorDaily® Offerings, you agree that we may share, sell, rent, lease or otherwise provide that personal information to any third party for any purpose, and we may work with other businesses to bring selected retail opportunities to our Users. These businesses and third parties may include, but are not limited to: (a) providers of direct marketing services and applications, including lookup and reference, data enhancement, suppression and validation; (b) e-mail marketers; (c) telemarketers (where permitted by applicable law); and (d) direct marketers.
+            <br>
+            We may also employ other companies and individuals to perform certain functions on our behalf. Examples include sending direct and electronic mail, removing duplicate information from User lists, analyzing data and providing marketing analysis. The agents performing these limited functions on our behalf shall have access to our Users’ personal information as needed to perform these functions for us, but we do not permit them to use User personal information for other purposes.
+            <br>
+            We will also use your personal information for customer service, to provide you with information that you may request, to customize your experience with the RumorDaily® Offerings and/or to contact you when necessary in connection with your use of the RumorDaily® Offerings. We may also use your personal information for internal business purposes, such as analyzing and managing our business including, without limitation, the RumorDaily® Offerings. We may also combine the information we have gathered about you with information from other sources.
+            <br>
+            By submitting your personal information by and through the RumorDaily® Offerings, you agree that such act constitutes an inquiry and/or application for purposes of the Amended Telemarketing Sales Rule (16 CFR §310 et seq.), as amended from time to time (the “Rule”) and applicable state do-not-call regulations. As such, notwithstanding that your telephone number may be listed on the Federal Trade Commission’s Do-Not-Call List, and/or on applicable state do-not-call lists, we retain the right to contact you via telemarketing in accordance with the Rule and applicable state do-not-call regulations.
+            </p>
+            <p></p>
                                     </div>
                                 </div>
-                    
+                            </div>
                 
-                    
-                    
-                                <div style="text-align: center; width: inherit;" class="item">
-                                    <div style="display: inline-block;" class="mobile-resize">
-                                        <div style="font-size:17px;width:1200px;" class="mobile-resize">
-                                            <p style="padding-left:10px;padding-right:10px;"></p><p>
-                Where you provide “prior express written consent” within the meaning of the Telephone Consumer Protection Act (47 USC § 227), and its implementing regulations adopted by the Federal Communications Commission (47 CFR § 64.1200), as amended from time-to-time (“TCPA”), you consent to receive telephone calls, including artificial voice calls, pre-recorded messages and/or calls (including SMS text messages) delivered via automated technology, to the telephone number(s) that you provided. Please note that you are not required to provide this consent in order to obtain access to the RumorDaily® Offerings, and your consent simply allows RumorDaily® to contact you via these means. Further, you agree that we reserve the right to share, sell, rent, lease and/or otherwise distribute your mobile telephone and other mobile data with/to any third-party for any and all non-marketing uses permitted by this Privacy Policy and applicable law.
-                <br>
-                We reserve the right to release current or past Registration Data and other personal information: (i) in the event that we believe that the RumorDaily® Offerings are being or have been used in violation of the Terms and Conditions or to commit unlawful acts; (ii) if the information is subpoenaed; provided, however, that, where permitted by applicable law, we shall provide you with e-mail notice, and opportunity to challenge the subpoena, prior to disclosure of any personal information pursuant to a subpoena; or (iii) if we are sold, merge with a third party, are acquired or are the subject of bankruptcy proceedings; provided, however, that if RumorDaily® is involved in a bankruptcy proceeding, merger, acquisition or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on the Site of any change in ownership or uses of your personal information, as well as any choices that you may have regarding your personal information.
-                </p><p></p>
-                                        </div>
+            
+                
+                
+                            <div style="text-align: center; width: inherit;" class="item">
+                                <div style="display: inline-block;" class="mobile-resize">
+                                    <div style="font-size:17px;width:1200px;" class="mobile-resize">
+                                        <p style="padding-left:10px;padding-right:10px;"></p><p>
+            Where you provide “prior express written consent” within the meaning of the Telephone Consumer Protection Act (47 USC § 227), and its implementing regulations adopted by the Federal Communications Commission (47 CFR § 64.1200), as amended from time-to-time (“TCPA”), you consent to receive telephone calls, including artificial voice calls, pre-recorded messages and/or calls (including SMS text messages) delivered via automated technology, to the telephone number(s) that you provided. Please note that you are not required to provide this consent in order to obtain access to the RumorDaily® Offerings, and your consent simply allows RumorDaily® to contact you via these means. Further, you agree that we reserve the right to share, sell, rent, lease and/or otherwise distribute your mobile telephone and other mobile data with/to any third-party for any and all non-marketing uses permitted by this Privacy Policy and applicable law.
+            <br>
+            We reserve the right to release current or past Registration Data and other personal information: (i) in the event that we believe that the RumorDaily® Offerings are being or have been used in violation of the Terms and Conditions or to commit unlawful acts; (ii) if the information is subpoenaed; provided, however, that, where permitted by applicable law, we shall provide you with e-mail notice, and opportunity to challenge the subpoena, prior to disclosure of any personal information pursuant to a subpoena; or (iii) if we are sold, merge with a third party, are acquired or are the subject of bankruptcy proceedings; provided, however, that if RumorDaily® is involved in a bankruptcy proceeding, merger, acquisition or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on the Site of any change in ownership or uses of your personal information, as well as any choices that you may have regarding your personal information.
+            </p><p></p>
                                     </div>
                                 </div>
-                    
+                            </div>
                 
-                    <div style="text-align: center; width: inherit;" class="item">
-                        
-                        
-                                <div style="display: inline-block;">
-                                        <div style="font-size:17px;width:1200px;" class="mobile-resize">
-                                            <p style="padding-left:10px;padding-right:10px;"></p><p>
-                You hereby consent to the disclosure of any record or communication to any third-party when we, in our sole discretion, determine the disclosure to be appropriate including, without limitation, sharing your e-mail address with third-parties for suppression purposes in compliance with applicable law including the CAN-SPAM Act of 2003, as amended from time to time. Users should also be aware that courts of equity, such as U.S. Bankruptcy Courts, might have the authority under certain circumstances to permit personal information to be shared or transferred to third parties without permission.
-                </p><p></p>
-                                        </div>
-                                </div>
-                                <br>
-                                <div style="display: inline-block;">
-                                        <div style="font-size:17px;width:1200px;" class="mobile-resize">
-                                            <p style="padding-left:10px;padding-right:10px;"></p><h3 style="text-align:left !important;">
-                Non-Personal Information Collection and Use
-                </h3>
-                <p>
-                IP Addresses/Browser Type
-                <br> <br>
-                We may collect certain non-personally identifiable information about you when you visit many of the pages of the Site. This non-personally identifiable information includes, without limitation, the type of browser that you use (e.g., Safari, Chrome, Internet Explorer), your IP address, the type of operating system that you use (e.g., Windows or iOS) and the domain name of your Internet service provider (e.g., Verizon, AT&amp;T). We use the non-personally identifiable information that we collect to improve the design and content of the RumorDaily® Offerings and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze usage of the RumorDaily® Offerings.
-                <br> <br>
-                Cookies
-                <br> <br>
-                When a User visits the Site, we send one (1) or more cookies and/or gif files (collectively, “Cookies”) to assign an anonymous, unique identifier to the applicable User’s computer or other device. A Cookie is a piece of data stored on your hard drive containing non-personally identifiable information about you. Cookies have many benefits to enhance your experience at the Site. To find out more about Cookies, please visit www.cookiecentral.com. We use Cookies to improve the quality of the RumorDaily® Offerings, including for storing user preferences and tracking Site-user trends (such as pages opened and length of stay at the Site).
-                <br>
-                Most Internet browsers are initially set up to accept Cookies, but you can reset your browser to refuse all Cookies or to indicate when a Cookie is being sent. To disable and reject certain Cookies, follow the instructions associated with your Internet browser. Even in the case where a user rejects a Cookie, he or she may still use the RumorDaily® Offerings; provided, however, that certain functions of the RumorDaily® Offerings may be impaired or rendered inoperable if the use of Cookies is disabled. We reserve the right to retain Cookie data indefinitely.
-                </p><p></p>
-                                        </div>
-                                </div>
-                                <br>
-                                <div style="display: inline-block;">
-                                        <div style="font-size:17px;width:1200px;" class="mobile-resize">
-                                            <p style="padding-left:10px;padding-right:10px;"></p><p>
-                Behavioral Tracking
-                <br> <br>
-                RumorDaily® uses Cookies, pixels and other tracking technology on the Site for purposes of tracking Users’ activities (such as websites visited, advertisements selected and pages viewed) after they leave the Site. RumorDaily® uses these Cookies to target applicable Users with advertisements regarding RumorDaily® Offerings and other products and/or services that RumorDaily® thinks may be of interest to applicable Users. In addition, third parties such as Google® may engage in a similar form of behavioral tracking of, and targeted advertising to, Users that visit the Site. Users may be able to disable some, but not all, of this tracking activity by utilizing the “Do Not Track” setting or similar options within most major Internet browsers. In addition, Users may be able to opt-out of this form of tracking utilizing the options made available by the <a href="http://www.networkadvertising.org/choices/">Network Advertising Initiative</a> or <a href="http://www.aboutads.info/choices/">Digital Advertising Alliance</a>. To the greatest extent permissible under applicable law, we are not responsible for the tracking practices of third parties in connection with the Site.
-                <br> <br>
-                Aggregate Data
-                <br> <br>
-                RumorDaily® reserves the right to transfer and/or sell aggregate or group data about users of the RumorDaily® Offerings for lawful purposes. Aggregate or group data is data that describes the demographics, usage or other characteristics of RumorDaily® Offerings Users as a group, without disclosing personally identifiable information.
-                </p><p></p>
-                                        </div>
-                                </div>
-                                <br>
-                                <div style="display: inline-block;">
-                                        <div style="font-size:17px;width:1200px;" class="mobile-resize">
-                                            <p style="padding-left:10px;padding-right:10px;"></p><h3 style="text-align:left !important;">
-                Third-Party Websites
-                </h3>
-                <p>
-                This Site may contain links to third-party owned and/or operated websites including, without limitation, the Social Media Websites. RumorDaily® is not responsible for the privacy practices or the content of such websites. In some cases, you may be able to make a purchase through one of these third-party websites. In these instances, you may be required to provide certain information, such as a credit card number, to register or complete a transaction at such website. These third-party websites have separate privacy and data collection practices and RumorDaily® has no responsibility or liability relating to them.
-                </p><p></p>
-                                        </div>
-                                </div>
-                                <br>
-                                <div style="display: inline-block;">
-                                        <div style="font-size:17px;width:1200px;" class="mobile-resize">
-                                            <p style="padding-left:10px;padding-right:10px;"></p><h3 style="text-align:left !important;">
-                Security
-                </h3>
-                <p>
-                We endeavor to safeguard and protect our Users’ personal information. When Users make personal information available to us, their personal information is protected both online and offline (to the extent that we maintain any personal information offline). The privacy of your personal information is very important to us.
-                <br>
-                Access to your personal information is strictly limited, and we take reasonable measures to ensure that your personal information is not accessible to the public. The servers that we store personal information in are kept in a secure physical environment. We also have security measures in place to protect the loss, misuse and alteration of personal information under our control. Please be advised, however, that while we take every reasonable precaution available to protect your data, no storage facility, technology, software, security protocols or data transmission over the Internet can be guaranteed to be 100% secure. Computer hackers that circumvent our security measures may gain access to certain portions of your personal information, and technological bugs, errors and glitches may cause inadvertent disclosures of your personal information; provided, however, that any attempt to breach the security of the network, our servers, databases or other hardware or software constitutes a crime punishable by law. For the reasons mentioned above, we cannot warrant that your personal information will be absolutely secure. Any transmission of data at or through the Site is at your own risk.
-                <br>
-                All of our Users’ personal information is restricted in our offices. Only employees or third party agents who need the personal information to perform a specific job are granted access to personal information. Our employees are dedicated to ensuring the security and privacy of all user personal information. Employees not adhering to our firm policies are subject to disciplinary action. In compliance with applicable federal and state laws, we shall notify you and any applicable regulatory agencies in the event that we learn of an information security breach with respect to your personal information. You will be notified via e-mail in the event of such a breach. Please be advised that notice may be delayed in order to address the needs of law enforcement, determine the scope of network damage, and to engage in remedial measures.
-                </p><p></p>
-                                        </div>
-                                </div>
-                                <br>
-                                <div style="display: inline-block;">
-                                        <div style="font-size:17px;width:1200px;" class="mobile-resize">
-                                            <p style="padding-left:10px;padding-right:10px;"></p><h3 style="text-align:left !important;">
-                Minors
-                </h3>
-                <p>
-                Visitors under eighteen (18) years of age are not permitted to use and/or submit their personal information at the Site. RumorDaily® does not knowingly solicit or collect information from visitors under eighteen (18) years of age. RumorDaily® encourages parents and guardians to spend time online with their children and to participate and monitor the interactive activities of their children.
-                </p>
-                <h3 style="text-align:left !important;">
-                Opt-Out/Unsubscribe
-                </h3>
-                <p>
-                To opt-out of receiving e-mail communications from us, you can follow the instructions at the end of the applicable e-mail message or e-mail us at: help@rumordaily.com.
-                <br>
-                Notwithstanding the foregoing, we may continue to contact you for the purpose of communicating information relating to your request for RumorDaily® Offerings, as well as to respond to any inquiry or request made by you. To opt-out of receiving RumorDaily® Offerings-related and inquiry response-related messages from RumorDaily®, you must cease requesting and/or utilizing the RumorDaily® Offerings and cease submitting inquiries to RumorDaily®, as applicable.
-                </p><p></p>
-                                        </div>
-                                </div>
-                                <br>
-                        
-                    </div>
+            
+                <div style="text-align: center; width: inherit;" class="item">
+                    
+                    
+                            <div style="display: inline-block;">
+                                    <div style="font-size:17px;width:1200px;" class="mobile-resize">
+                                        <p style="padding-left:10px;padding-right:10px;"></p><p>
+            You hereby consent to the disclosure of any record or communication to any third-party when we, in our sole discretion, determine the disclosure to be appropriate including, without limitation, sharing your e-mail address with third-parties for suppression purposes in compliance with applicable law including the CAN-SPAM Act of 2003, as amended from time to time. Users should also be aware that courts of equity, such as U.S. Bankruptcy Courts, might have the authority under certain circumstances to permit personal information to be shared or transferred to third parties without permission.
+            </p><p></p>
+                                    </div>
+                            </div>
+                            <br>
+                            <div style="display: inline-block;">
+                                    <div style="font-size:17px;width:1200px;" class="mobile-resize">
+                                        <p style="padding-left:10px;padding-right:10px;"></p><h3 style="text-align:left !important;">
+            Non-Personal Information Collection and Use
+            </h3>
+            <p>
+            IP Addresses/Browser Type
+            <br> <br>
+            We may collect certain non-personally identifiable information about you when you visit many of the pages of the Site. This non-personally identifiable information includes, without limitation, the type of browser that you use (e.g., Safari, Chrome, Internet Explorer), your IP address, the type of operating system that you use (e.g., Windows or iOS) and the domain name of your Internet service provider (e.g., Verizon, AT&amp;T). We use the non-personally identifiable information that we collect to improve the design and content of the RumorDaily® Offerings and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze usage of the RumorDaily® Offerings.
+            <br> <br>
+            Cookies
+            <br> <br>
+            When a User visits the Site, we send one (1) or more cookies and/or gif files (collectively, “Cookies”) to assign an anonymous, unique identifier to the applicable User’s computer or other device. A Cookie is a piece of data stored on your hard drive containing non-personally identifiable information about you. Cookies have many benefits to enhance your experience at the Site. To find out more about Cookies, please visit www.cookiecentral.com. We use Cookies to improve the quality of the RumorDaily® Offerings, including for storing user preferences and tracking Site-user trends (such as pages opened and length of stay at the Site).
+            <br>
+            Most Internet browsers are initially set up to accept Cookies, but you can reset your browser to refuse all Cookies or to indicate when a Cookie is being sent. To disable and reject certain Cookies, follow the instructions associated with your Internet browser. Even in the case where a user rejects a Cookie, he or she may still use the RumorDaily® Offerings; provided, however, that certain functions of the RumorDaily® Offerings may be impaired or rendered inoperable if the use of Cookies is disabled. We reserve the right to retain Cookie data indefinitely.
+            </p><p></p>
+                                    </div>
+                            </div>
+                            <br>
+                            <div style="display: inline-block;">
+                                    <div style="font-size:17px;width:1200px;" class="mobile-resize">
+                                        <p style="padding-left:10px;padding-right:10px;"></p><p>
+            Behavioral Tracking
+            <br> <br>
+            RumorDaily® uses Cookies, pixels and other tracking technology on the Site for purposes of tracking Users’ activities (such as websites visited, advertisements selected and pages viewed) after they leave the Site. RumorDaily® uses these Cookies to target applicable Users with advertisements regarding RumorDaily® Offerings and other products and/or services that RumorDaily® thinks may be of interest to applicable Users. In addition, third parties such as Google® may engage in a similar form of behavioral tracking of, and targeted advertising to, Users that visit the Site. Users may be able to disable some, but not all, of this tracking activity by utilizing the “Do Not Track” setting or similar options within most major Internet browsers. In addition, Users may be able to opt-out of this form of tracking utilizing the options made available by the <a href="http://www.networkadvertising.org/choices/">Network Advertising Initiative</a> or <a href="http://www.aboutads.info/choices/">Digital Advertising Alliance</a>. To the greatest extent permissible under applicable law, we are not responsible for the tracking practices of third parties in connection with the Site.
+            <br> <br>
+            Aggregate Data
+            <br> <br>
+            RumorDaily® reserves the right to transfer and/or sell aggregate or group data about users of the RumorDaily® Offerings for lawful purposes. Aggregate or group data is data that describes the demographics, usage or other characteristics of RumorDaily® Offerings Users as a group, without disclosing personally identifiable information.
+            </p><p></p>
+                                    </div>
+                            </div>
+                            <br>
+                            <div style="display: inline-block;">
+                                    <div style="font-size:17px;width:1200px;" class="mobile-resize">
+                                        <p style="padding-left:10px;padding-right:10px;"></p><h3 style="text-align:left !important;">
+            Third-Party Websites
+            </h3>
+            <p>
+            This Site may contain links to third-party owned and/or operated websites including, without limitation, the Social Media Websites. RumorDaily® is not responsible for the privacy practices or the content of such websites. In some cases, you may be able to make a purchase through one of these third-party websites. In these instances, you may be required to provide certain information, such as a credit card number, to register or complete a transaction at such website. These third-party websites have separate privacy and data collection practices and RumorDaily® has no responsibility or liability relating to them.
+            </p><p></p>
+                                    </div>
+                            </div>
+                            <br>
+                            <div style="display: inline-block;">
+                                    <div style="font-size:17px;width:1200px;" class="mobile-resize">
+                                        <p style="padding-left:10px;padding-right:10px;"></p><h3 style="text-align:left !important;">
+            Security
+            </h3>
+            <p>
+            We endeavor to safeguard and protect our Users’ personal information. When Users make personal information available to us, their personal information is protected both online and offline (to the extent that we maintain any personal information offline). The privacy of your personal information is very important to us.
+            <br>
+            Access to your personal information is strictly limited, and we take reasonable measures to ensure that your personal information is not accessible to the public. The servers that we store personal information in are kept in a secure physical environment. We also have security measures in place to protect the loss, misuse and alteration of personal information under our control. Please be advised, however, that while we take every reasonable precaution available to protect your data, no storage facility, technology, software, security protocols or data transmission over the Internet can be guaranteed to be 100% secure. Computer hackers that circumvent our security measures may gain access to certain portions of your personal information, and technological bugs, errors and glitches may cause inadvertent disclosures of your personal information; provided, however, that any attempt to breach the security of the network, our servers, databases or other hardware or software constitutes a crime punishable by law. For the reasons mentioned above, we cannot warrant that your personal information will be absolutely secure. Any transmission of data at or through the Site is at your own risk.
+            <br>
+            All of our Users’ personal information is restricted in our offices. Only employees or third party agents who need the personal information to perform a specific job are granted access to personal information. Our employees are dedicated to ensuring the security and privacy of all user personal information. Employees not adhering to our firm policies are subject to disciplinary action. In compliance with applicable federal and state laws, we shall notify you and any applicable regulatory agencies in the event that we learn of an information security breach with respect to your personal information. You will be notified via e-mail in the event of such a breach. Please be advised that notice may be delayed in order to address the needs of law enforcement, determine the scope of network damage, and to engage in remedial measures.
+            </p><p></p>
+                                    </div>
+                            </div>
+                            <br>
+                            <div style="display: inline-block;">
+                                    <div style="font-size:17px;width:1200px;" class="mobile-resize">
+                                        <p style="padding-left:10px;padding-right:10px;"></p><h3 style="text-align:left !important;">
+            Minors
+            </h3>
+            <p>
+            Visitors under eighteen (18) years of age are not permitted to use and/or submit their personal information at the Site. RumorDaily® does not knowingly solicit or collect information from visitors under eighteen (18) years of age. RumorDaily® encourages parents and guardians to spend time online with their children and to participate and monitor the interactive activities of their children.
+            </p>
+            <h3 style="text-align:left !important;">
+            Opt-Out/Unsubscribe
+            </h3>
+            <p>
+            To opt-out of receiving e-mail communications from us, you can follow the instructions at the end of the applicable e-mail message or e-mail us at: help@rumordaily.com.
+            <br>
+            Notwithstanding the foregoing, we may continue to contact you for the purpose of communicating information relating to your request for RumorDaily® Offerings, as well as to respond to any inquiry or request made by you. To opt-out of receiving RumorDaily® Offerings-related and inquiry response-related messages from RumorDaily®, you must cease requesting and/or utilizing the RumorDaily® Offerings and cease submitting inquiries to RumorDaily®, as applicable.
+            </p><p></p>
+                                    </div>
+                            </div>
+                            <br>
+                    
+                </div>
+            
                 
-                    
-                    
-                                <div style="text-align: center; width: inherit;" class="item">
-                                    <div style="display: inline-block;" class="mobile-resize">
-                                        <div style="font-size:17px;width:1200px;" class="mobile-resize">
-                                            <p style="padding-left:10px;padding-right:10px;"></p><h3 style="text-align:left !important;">
-                Deleting, Modifying and Updating Your Information
-                </h3>
-                <p>
-                At your request, we will: (a) inform you of what personal information we have on file for you; (b) amend the personal information that we have on file for you; and/or (c) remove personal information that you have provided to us, or that we have collected. You may do so by e-mailing us at: help@rumordaily.com. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and, to the extent permitted by applicable law, we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others or would be extremely impractical (for instance, requests concerning information residing on backup tapes).
-                <br>
-                Please be advised that deleting your personal information may terminate your access to certain of the RumorDaily® Offerings. If you wish to continue using the full complement of RumorDaily® Offerings, you may not be able to delete all of the personal information that we have on file for you.
-                <br>
-                Please be further advised that, after you delete your personal information, residual copies may take a period of time before they are deleted from our active servers and may remain in our backup systems.
-                </p><p></p>
-                                        </div>
+                
+                            <div style="text-align: center; width: inherit;" class="item">
+                                <div style="display: inline-block;" class="mobile-resize">
+                                    <div style="font-size:17px;width:1200px;" class="mobile-resize">
+                                        <p style="padding-left:10px;padding-right:10px;"></p><h3 style="text-align:left !important;">
+            Deleting, Modifying and Updating Your Information
+            </h3>
+            <p>
+            At your request, we will: (a) inform you of what personal information we have on file for you; (b) amend the personal information that we have on file for you; and/or (c) remove personal information that you have provided to us, or that we have collected. You may do so by e-mailing us at: help@rumordaily.com. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and, to the extent permitted by applicable law, we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others or would be extremely impractical (for instance, requests concerning information residing on backup tapes).
+            <br>
+            Please be advised that deleting your personal information may terminate your access to certain of the RumorDaily® Offerings. If you wish to continue using the full complement of RumorDaily® Offerings, you may not be able to delete all of the personal information that we have on file for you.
+            <br>
+            Please be further advised that, after you delete your personal information, residual copies may take a period of time before they are deleted from our active servers and may remain in our backup systems.
+            </p><p></p>
                                     </div>
                                 </div>
-                    
+                            </div>
                 
-                    
-                    
-                                <div style="text-align: center; width: inherit;" class="item">
-                                    <div style="display: inline-block;" class="mobile-resize">
-                                        <div style="font-size:17px;width:1200px;" class="mobile-resize">
-                                            <p style="padding-left:10px;padding-right:10px;"></p><h3 style="text-align:left !important;">
-                Changes to this Privacy Policy
-                </h3>
-                <p>
-                RumorDaily® reserves the right to change or update this Privacy Policy at any time by posting a notice on the Site that we are changing our Privacy Policy. If the manner in which we use personal information changes, RumorDaily® will notify Users by: (a) sending the modified policy to our Users via email; and/or (b) by any other reasonable means acceptable under applicable state and federal law. You will have a choice as to whether or not we use your information in this different manner and we will only use your information in this different manner where you opt-in to such use.
-                </p>
-                <h3 style="text-align:left !important;">
-                Contact Us
-                </h3>
-                <p>
-                If you have any questions about this Privacy Policy, please e-mail us at: help@rumordaily.com.
-                </p>
-                <h3 style="text-align:left !important;">
-                Filing a Complaint with the Federal Trade Commission
-                </h3>
-                <p>
-                To file a complaint regarding our privacy practices, please <a href="https://www.ftccomplaintassistant.gov/Information?OrgCode=#crnt&amp;panel1-1"> Click Here </a>.
-                </p>
-                <p>
-                <i> 
-                Last Updated: May 21st, 2018
-                 </i>
-                </p><p></p>
-                                        </div>
+            
+                
+                
+                            <div style="text-align: center; width: inherit;" class="item">
+                                <div style="display: inline-block;" class="mobile-resize">
+                                    <div style="font-size:17px;width:1200px;" class="mobile-resize">
+                                        <p style="padding-left:10px;padding-right:10px;"></p><h3 style="text-align:left !important;">
+            Changes to this Privacy Policy
+            </h3>
+            <p>
+            RumorDaily® reserves the right to change or update this Privacy Policy at any time by posting a notice on the Site that we are changing our Privacy Policy. If the manner in which we use personal information changes, RumorDaily® will notify Users by: (a) sending the modified policy to our Users via email; and/or (b) by any other reasonable means acceptable under applicable state and federal law. You will have a choice as to whether or not we use your information in this different manner and we will only use your information in this different manner where you opt-in to such use.
+            </p>
+            <h3 style="text-align:left !important;">
+            Contact Us
+            </h3>
+            <p>
+            If you have any questions about this Privacy Policy, please e-mail us at: help@rumordaily.com.
+            </p>
+            <h3 style="text-align:left !important;">
+            Filing a Complaint with the Federal Trade Commission
+            </h3>
+            <p>
+            To file a complaint regarding our privacy practices, please <a href="https://www.ftccomplaintassistant.gov/Information?OrgCode=#crnt&amp;panel1-1"> Click Here </a>.
+            </p>
+            <p>
+            <i> 
+            Last Updated: May 21st, 2018
+             </i>
+            </p><p></p>
                                     </div>
                                 </div>
-                    
+                            </div>
+                
         </div>
     </div>
 
     <script src="/_static/js/packery.1.4.3.min.js"></script>
     <script>
-        var innerContainers = document.getElementsByClassName('inner_container');
-
-        for (var i = 0; i < innerContainers.length; i++) {
-            var packeryInner = new Packery(innerContainers[i], {
-                itemSelector: ".item",
-                gutter: 0
-            });
-            packeryInnerRef.push(packeryInner);
-        }
-
-        var outerContainer = document.querySelector('#outer_container');
-
-        var packeryOuter = new Packery(outerContainer, {
-            itemSelector: ".inner_container",
-            gutter: 10
-        });
-        packeryOuterRef.push(packeryOuter);
+        nawInitializePackeryContainers('outer_container_5PGgZc', 'inner_container_5PGgZc');
     </script>
 
 
     <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-    
-      (function(){
-            // ===== track page counts ====
-            var pageDepthCookieName = "pageDepth";
-            var pageDepthCookieExpMin = 30;
-            var pageDepthCounter = 1;
-    
-            function setCookie(cname, cvalue, exminutes) {
-                var d = new Date();
-                d.setTime(d.getTime() + (exminutes*60*1000));
-                var expires = "expires="+ d.toUTCString();
-                document.cookie = cname + "=" + cvalue + "; " + expires;
-            }
-    
-            function getCookie(cname) {
-                var name = cname + "=";
-                var ca = document.cookie.split(';');
-                for(var i = 0; i <ca.length; i++) {
-                    var c = ca[i];
-                    while (c.charAt(0)==' ') {
-                        c = c.substring(1);
-                    }
-                    if (c.indexOf(name) == 0) {
-                        return c.substring(name.length,c.length);
-                    }
-                }
-                return "";
-            }
-    
-            // Check to see if the page depth cookie counter has been set
-            if (pageDepthCounter = getCookie(pageDepthCookieName)){
-            	// If it exists, increment it and then set the page depth counter.
-            	setCookie(pageDepthCookieName, ++pageDepthCounter, pageDepthCookieExpMin);
-            }else{
-            	// If it hasn't been set, set intialize it and the page depth counter;
-            	setCookie(pageDepthCookieName, 1, pageDepthCookieExpMin);
-            	pageDepthCounter = 1;
-            }
-            //  ==== page depth tracking ====
-    
-            // === set layout and content variables ===
-            // handlebars set variables NOTE: articles only
-                var display_id = "KXHSTbA7Yc";
-                var display_revision = 1526935369949;
-                var article_url = "cnVtb3JkYWlseS5jb20vcHJpdmFjeS1wb2xpY3k%3D";
-                var article_revision = 1526935560030;
-    
-                var lData = 'did:' + display_id + ',drv:' + display_revision;
-                var cData = 'aid:' + article_url + ',arv:' + article_revision;
-            // === set layout and content variables
-    
-            // normal ga with custom dimensions
-            ga('create', 'UA-64685768-1', 'auto');
-            ga('set', 'dimension1', pageDepthCounter)
-            // only set custom dimensions where we the data
-                ga('set', 'dimension2', lData);
-                ga('set', 'dimension3', cData);
-            ga('send', 'pageview');
-    
-            // sampled ga
-            ga('create', {
-              trackingId: 'UA-84922506-1',
-              cookieDomain: 'auto',
-              name: 'rsampled',
-              sampleRate: 10
-            });
-            ga('rsampled.send', 'pageview');
-        })();
-    </script>
-    
-    <!-- Quantcast Tag -->
-    <script type="text/javascript">
-    var _qevents = _qevents || [];
-    (function()
-    { var elem = document.createElement('script'); elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js"; elem.async = true; elem.type = "text/javascript"; var scpt = document.getElementsByTagName('script')[0]; scpt.parentNode.insertBefore(elem, scpt); }
-    )();
-    _qevents.push(
-    { qacct:"p-TDprCHmTrMqaG" }
-    );
-    </script>
-    <noscript>
-    <div style="display:none;">
-    <img src="//pixel.quantserve.com/pixel/p-TDprCHmTrMqaG.gif" border="0" height="1" width="1" alt="Quantcast"/>
-    </div>
-    </noscript>
-    <!-- End Quantcast tag -->
-    
-    <!-- Facebook Pixel Code -->
-    <script>
-      !function(f,b,e,v,n,t,s)
-      {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-      n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-      if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-      n.queue=[];t=b.createElement(e);t.async=!0;
-      t.src=v;s=b.getElementsByTagName(e)[0];
-      s.parentNode.insertBefore(t,s)}(window, document,'script',
-      'https://connect.facebook.net/en_US/fbevents.js');
-      fbq('init', '750216131855467');
-      fbq('track', 'PageView');
-    </script>
-    <noscript><img height="1" width="1" style="display:none"
-      src="https://www.facebook.com/tr?id=750216131855467&ev=PageView&noscript=1"
-    /></noscript>
-    <!-- End Facebook Pixel Code -->
-    
-    
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+(function(){
+ga('create', 'UA-64685768-1', 'auto');
+ga('set', 'dimension1', window._nawtrkrs.page_depth);
+if (window._nawtrkrs.display_id) {
+    var lData = 'did:' + window._nawtrkrs.display_id + ',drv:' + window._nawtrkrs.display_revision;
+    var cData = 'aid:' + window._nawtrkrs.article_encoded_url + ',arv:' + window._nawtrkrs.article_revision;
+    ga('set', 'dimension2', lData);
+    ga('set', 'dimension3', cData);
+}
+if (window._nawtrkrs.split) {
+    ga('set', 'dimension4', window._nawtrkrs.split);
+}
+ga('send', 'pageview');
+})();
+</script>
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+(function()
+{ var elem = document.createElement('script'); elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js"; elem.async = true; elem.type = "text/javascript"; var scpt = document.getElementsByTagName('script')[0]; scpt.parentNode.insertBefore(elem, scpt); }
+)();
+_qevents.push(
+{ qacct:"p-TDprCHmTrMqaG" }
+);
+</script>
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-TDprCHmTrMqaG.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '750216131855467');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=750216131855467&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
 
     <div style="display:none;">
         <img src="/_collect" border="0" height="1" width="1">
     </div>
 
     <script>
-    window._nawcbonload(function() {
-        /**/
-        setTimeout(function() {
-            var ow = document.getElementsByClassName('_ad_o_w_item');
-            var iw = document.getElementsByClassName('_ad_i_w_item');
-            for (var i = 0; i < ow.length; i++) {
-                ow[i].style.height = null;
-            }
-            for (var i = 0; i < iw.length; i++) {
-                iw[i].style.height = null;
-            }
+    window._nawInternal.timedForceReLayoutsByContainer = {};
+    function nawTriggerTimedForceReloadOnContainers(containerID) {
     
-            var tos = [8800, 6600, 4600, 2600, 1100, 100];
+        window._nawInternal.timedForceReLayoutsByContainer[containerID] = [2500, 2000, 1500, 1000, 500];
     
-            /*  */
-            function triggerAndSetForceReload() {
-                var t = tos.pop();
-                if (!t) {
-                    return;
-                }
-                setTimeout(function() {
-                    forceReloadLayout();
-                    triggerAndSetForceReload();
-                }, t);
+        function nawTriggerLayoutReloadAndSetTimeout(id) {
+            var t = window._nawInternal.timedForceReLayoutsByContainer[id].pop();
+            if (!t) {
+                return;
             }
+            setTimeout(function() {
+                nawForceReloadLayout(id);
+                nawTriggerLayoutReloadAndSetTimeout(id);
+            }, t);
+        }
     
-            triggerAndSetForceReload();
-        }, 500);
-    })
+        nawTriggerLayoutReloadAndSetTimeout(containerID);
+    }
+    
+    function nawZeroOutAdContainerHeightsForResponsiveSupport() {
+        var ow = document.getElementsByClassName('_ad_o_w_item');
+        var iw = document.getElementsByClassName('_ad_i_w_item');
+        for (var i = 0; i < ow.length; i++) {
+            ow[i].style.height = null;
+        }
+        for (var i = 0; i < iw.length; i++) {
+            iw[i].style.height = null;
+        }
+    }
+    </script>
+    <script>
+    setTimeout(function() {
+        nawTriggerTimedForceReloadOnContainers('outer_container_5PGgZc');
+        nawZeroOutAdContainerHeightsForResponsiveSupport();
+    }, 500);
     </script>
 
         <footer class="footer footer-big">
