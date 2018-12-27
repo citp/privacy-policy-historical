@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pconlife.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524184407id_/https%3A//www.pconlife.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pconlife.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227195500id_/https%3A//www.pconlife.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
