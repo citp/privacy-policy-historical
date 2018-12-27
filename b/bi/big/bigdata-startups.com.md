@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigdata-startups.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626203732id_/https%3A//datafloq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigdata-startups.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227042726id_/https%3A//datafloq.com/privacy) for the most accurate reproduction.*
 
 # Datafloq: Privacy Policy
 
@@ -655,6 +655,6 @@ This Privacy Statement is subject to changes. We, therefore, advise you to regul
 
 ##  **Questions, remarks, and complaints**
 
-If you have any questions regarding this Privacy Statement or the way in which Datafloq uses your data, you can send an e-mail to [info@datafloq.com](mailto:info@datafloq.com). If you have a complaint about the way your data is processed, please send an e-mail to [info@datafloq.com](mailto:info@datafloq.com). Furthermore, you always have the right to contact the competent national data protection authority. In The Netherlands, this is the [Autoriteit Persoonsgegevens](https://www.autoriteitpersoonsgegevens.nl/en?utm_source=datafloq&utm_medium=ref&utm_campaign=datafloq).
+If you have any questions regarding this Privacy Statement or the way in which Datafloq uses your data, you can send an e-mail to [info@datafloq.com](mailto:info@datafloq.com). If you have a complaint about the way your data is processed, please send an e-mail to [info@datafloq.com](mailto:info@datafloq.com). Furthermore, you always have the right to contact the competent national data protection authority. In The Netherlands, this is the [Autoriteit Persoonsgegevens](https://www.autoriteitpersoonsgegevens.nl/en).
 
 This privacy policy has last been updated on May 25, 2018
