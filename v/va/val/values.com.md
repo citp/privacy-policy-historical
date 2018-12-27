@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the values.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627083801id_/https%3A//www.passiton.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the values.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227162239id_/https%3A//www.passiton.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PassItOn.com
 
@@ -90,6 +90,6 @@ This policy may change from time to time. We will post the most current version 
 
 The Foundation for a Better Life  
 Attn: Privacy  
-1727 Tremont Pl.  
+555 17th Street  
 Denver, CO 80202  
 or by email: [info@passiton.com](mailto:%69%6e%66%6f@%70%61%73%73%69%74%6f%6e.%63%6f%6d?subject=Privacy%20Policy%20Contact)
