@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pocketmath.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627164605id_/https%3A//www.pocketmath.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pocketmath.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227202216id_/https%3A//www.pocketmath.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -134,7 +134,7 @@ We reserve the right to transfer your information (e.g., personally identifiable
 
 To bring you the Pocketmath Services, we operate globally. Where the laws of your country allow you to do so, you authorize us to transfer, store, and use your data in the United States, Singapore, and any other country where we operate. In some of the countries to which we transfer personal data, the privacy and data protection laws and rules regarding when government authorities may access data may vary from those of your country.
 
-When we transfer personal data outside of the European Union or EFTA States, we ensure an adequate level of protection for the rights of data subjects based on the adequacy of the receiving country’s data protection laws, contractual obligations placed on the recipient of the data (model clauses may be requested by inquiry as described below), or EU-US and Swiss-US Privacy Shield principles.
+When we transfer personal data outside of the European Union or EFTA States, we ensure an adequate level of protection for the rights of data subjects based on the adequacy of the receiving country’s data protection laws, contractual obligations placed on the recipient of the data, and related principles and practices.
 
 We implement physical, electronic and procedural restrictions (e.g., password protection), in an effort to help protect confidentiality of your personally identifiable information. Please remember that no technological environment is completely secure, and we cannot guarantee confidentiality of any communication or information posted or otherwise transmitted on Pocketmath or any other website over the Internet.
 
