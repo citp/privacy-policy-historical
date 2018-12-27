@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kount.net privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627060706id_/https%3A//www.kount.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kount.net privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227133813id_/https%3A//www.kount.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Kount.com
+# Privacy Policy | Kount
 
 Kount Inc. (Kount) is committed to maintaining the privacy of personal information that you provide to us when using any of our online services. This privacy policy describes how we treat the information we receive when you transmit data to any machine owned by Kount.
 
@@ -51,21 +51,6 @@ We define a cookie as any string of data that is automatically stored on your co
 
 The personally identifiable information we collect about you is stored in limited access servers. We maintain safeguards to protect the security of these servers and your personally identifiable information. We retain personally identifiable information only as long as necessary to complete a purchase, thwart fraud, provide customer service, or maintain your account with us.
 
-### Privacy Shield Framework 
-
-Kount complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. Kount has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [www.commerce.gov/privacyshield](http://www.commerce.gov/privacyshield).
-
-Kount is a "processor" of personal data as defined in Article 2(e) of the Directive. Kount provides processing services in the US for its European Union and Swiss business partners (“Business Partners”) which include merchants and financial institutions and other applicable businesses. Kount also provides processing for US based business partners. We act as a data processor and data importer on behalf of our Business Partners, and accordingly we follow the instructions provided by each Business Partner with regard to the collection, processing and protection of personal data provided to us by each such Business Partner. Each Business Partner acts as the data controller and data exporter for any personal data within its control. Residents in the EU or Switzerland should contact the applicable Business Partner with questions regarding the collection of their personal data.
-
-In compliance with the Privacy Shield Principles (“the Principles”), Kount commits to resolve questions and complaints about your privacy and our collection or use of your personal information. European Union and Swiss individuals with inquiries or complaints regarding this privacy policy and/or the types of data Kount collects, please contact Kount at [privacy@kount.com](mailto:privacy@kount.com). Please note that Kount acts as a data processor and the majority of the data Kount processes is anonymous. In instances of onward transfers, Kount has the responsibility for processing personal information that is not anonymized in accordance with the Principles and subsequent transfers to third parties that may act on Kount’s behalf. Kount will remain liable under the Principles if its third party agents process such non-anonymized personal information in a manner inconsistent with the Principles. Any personal information that Kount collects that is not anonymous is available for European Union and Swiss individuals to access upon request for correction or deletion.
-
-Written correspondence may be sent to:
-
-> Privacy Shield Mailbox  
-> 917 S. Lusk Suite 301 Boise ID 83706
-
-Kount has further committed to refer unresolved privacy complaints under the Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers/](http://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint. As a last resort, and in limited situations, European Union and Swiss individuals may seek redress from the Privacy Shield Panel, a binding arbitration mechanism. Kount is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC).
-
 ### Policy Modifications 
 
 We may change this privacy policy from time to time. We will post any changes here, so please check back periodically. 
@@ -74,4 +59,4 @@ We may change this privacy policy from time to time. We will post any changes he
 
 If you have any questions, comments or concerns about our privacy policy, you may contact us at [privacy@kount.com](mailto:privacy@kount.com).
 
-This policy was last updated 25 May 2017.
+This policy was last updated 08 November 2018.
