@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cpalead.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529162914id_/https%3A//www.cpalead.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpalead.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227130831id_/https%3A//www.cpalead.com/privacy.php) for the most accurate reproduction.*
 
-# Your Privacy Rights | CPAlead
+# {{title}}
 
 BY VISITING THIS WEBSITE AND REQUESTING INFORMATION, PRODUCTS OR SERVICES THERON, YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT PROVIDE ANY INFORMATION OR USE ANY OF THE SERVICES OR PRODUCTS OFFERED OR PROVIDED ON ANY OF THE WEBSITES REFERRED TO IN THIS PRIVACY POLICY.
 
@@ -10,7 +10,7 @@ This policy describes the information collection, use, and dissemination practic
 
 **CALIFORNIA RESIDENTS PRIVACY RIGHTS**
 
-Companies that collect personally identifiable information ("PII") from California residents and disclose such information to Third Parties (including affiliated entities) for marketing purposes must, in response to a request by a consumer, either (1) provide a list detailing the categories of information shared and the entities to which such information was provided, or (2) provide a mechanism by which a consumer may opt-out of having their information shared with Third Parties. We have elected the second option and you may request that your PII not b2e shared with Third Parties by sending your request, including your full name, email address and postal address to: CPAlead, LLC., 1660 S. Church St., Suite #262, Watertown, WI 53094. In accordance with California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with California Department of Consumer Affairs, 400 R Street, Suite 1080, Sacramento, CA 95814; or by phone at 916-445-1254 or 800-952-5210; or by email to dca@dca.ca.gov.
+Companies that collect personally identifiable information ("PII") from California residents and disclose such information to Third Parties (including affiliated entities) for marketing purposes must, in response to a request by a consumer, either (1) provide a list detailing the categories of information shared and the entities to which such information was provided, or (2) provide a mechanism by which a consumer may opt-out of having their information shared with Third Parties. We have elected the second option and you may request that your PII not b2e shared with Third Parties by sending your request, including your full name, email address and postal address to: CPAlead, LLC., 1660 S. Church St., Suite #262, Watertown, WI 53094. In accordance with California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with California Department of Consumer Affairs, 400 R Street, Suite 1080, Sacramento, CA 95814; or by phone at 916-445-1254 or 800-952-5210; or by email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 **THE INFORMATION COLLECTION, USE AND DISSEMINATION PRACTICES OF CPAlead.**
 
@@ -96,7 +96,7 @@ The following paragraphs in Section 2 describe how CPAlead currently uses Indivi
 
 **2.2 Email and Unsubscribe Policy.**
 
-CPAlead uses Individual Information to provide promotional offers by email to individuals. CPAlead may maintain separate email lists for different purposes. If email recipients wish to end their email subscription from a particular list, they need to follow the instructions at the end of each email message to unsubscribe from the particular list. To unsubscribe from all CPAlead's email lists, a person must send an email to network@CPAlead.com. CPAlead's unsubscribe process impacts only the future delivery of electronic mailings disseminated by CPAlead on its own behalf. You may still receive electronic mailings sent on behalf of Third Parties and your personal information may still be shared with Third Parties for use in offline marketing and data appends, including email appends.
+CPAlead uses Individual Information to provide promotional offers by email to individuals. CPAlead may maintain separate email lists for different purposes. If email recipients wish to end their email subscription from a particular list, they need to follow the instructions at the end of each email message to unsubscribe from the particular list. To unsubscribe from all CPAlead's email lists, a person must send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) CPAlead's unsubscribe process impacts only the future delivery of electronic mailings disseminated by CPAlead on its own behalf. You may still receive electronic mailings sent on behalf of Third Parties and your personal information may still be shared with Third Parties for use in offline marketing and data appends, including email appends.
 
 You should also note that unsubscribing from CPAlead's electronic mailings will not automatically unsubscribe the subscriber's information from any Third Party associates and licensees of the data. Since Third Party associates and licensee partners maintain separate databases from CPAlead, and you will need to unsubscribe from each source individually, if desired. This allows you the freedom to pick and choose which subscriptions to maintain and which to discontinue.
 
@@ -148,7 +148,7 @@ CPAlead may sell or transfer non-individualized information, such as summary or 
 
 **3.5 Access.**
 
-Individuals have access to their Individual Information collected to provide an opportunity for an individual to correct, amend, or delete such information. Access can be obtained by contacting network@CPAlead.com. CPAlead may also grant advertising clients and email services providers' access to an individual's email address to verify the origin of the Individual Information collected.
+Individuals have access to their Individual Information collected to provide an opportunity for an individual to correct, amend, or delete such information. Access can be obtained by contacting [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) CPAlead may also grant advertising clients and email services providers' access to an individual's email address to verify the origin of the Individual Information collected.
 
 **4\. Privacy Practices of Third Parties.**
 
@@ -170,12 +170,12 @@ If you wish to discontinue receiving email messages from CPAlead, you have sever
 
 **a.Unsubscribe from one email list.**
 
-To unsubscribe from a particular list, either (1) send an email to network@CPAlead.com or (2) follow the instructions in each promotional email message sent by CPAlead.
+To unsubscribe from a particular list, either (1) send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or (2) follow the instructions in each promotional email message sent by CPAlead.
 
 **a.Unsubscribe from all of CPAlead's email lists.**
 
-We reserve the right to add Individual Information to multiple lists maintained by CPAlead. To globally unsubscribe from all of CPAlead's lists, send an email to network@CPAlead.com.
+We reserve the right to add Individual Information to multiple lists maintained by CPAlead. To globally unsubscribe from all of CPAlead's lists, send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
-For more information about protecting your privacy, you may wish to visit: www.ftc.gov. If you have questions about this policy, please contact us at troy@CPAlead.com.
+For more information about protecting your privacy, you may wish to visit: www.ftc.gov. If you have questions about this policy, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 CPAlead may receive information about individuals from Third Parties or from other sources of information outside of CPAlead including information located in public databases ("Outside Information").
