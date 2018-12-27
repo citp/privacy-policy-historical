@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geeksaresexy.net privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627162428id_/https%3A//www.geeksaresexy.net/privacy-policy-geeks-are-sexy-technology-news) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geeksaresexy.net privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227233918id_/https%3A//www.geeksaresexy.net/privacy-policy-geeks-are-sexy-technology-news) for the most accurate reproduction.*
 
 # Privacy Policy and Affiliate Disclosure: [Geeks are Sexy] Technology News
 
