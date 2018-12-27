@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the enca.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627112422id_/http%3A//www.enca.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enca.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227190135id_/https%3A//www.enca.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | eNCA
 
 eNews Channel Africa (eNCA) respects your privacy and is committed to protecting it. This Privacy Policy is intended to inform you of our Privacy Policy and of the choices you can make about the way your information is collected online and how that information is utilised by us. Certain pages on our website have been structured so that you can access the site without identifying yourself or revealing any personal information. However, should you wish to make full use of the eNCA site, you may be required to register and provide us with personal information. We have therefore made this notice available on our home page and at the bottom of every page that collects personal information.
 
-eNCA has developed its privacy practices in line with the South African draft bill on the Protection of Personal Information, the Canadian Standards Association’s Model Code for the Protection of Personal Information as well as the U.S.-E.U. Safe Harbor principles. A complete copy of the Model Code is available at <http://www.csa.ca/standards/privacy/>. More information about the U.S. Department of Commerce Safe Harbor Program can be found at <http://www.export.gov/safeharbor/>.
+eNCA has developed its privacy practices in line with the South African draft bill on the Protection of Personal Information, the Canadian Standards Association’s Model Code for the Protection of Personal Information as well as the U.S.-E.U. Safe Harbor principles. A complete copy of the Model Code is available at <http://www.csa.ca/standards/privacy/>. More information about the U.S. Department of Commerce Safe Harbor Program can be found at <http://www.export.gov/safeharbor/>.
 
-### **Applicability**
+### **APPLICABILITY**
 
 This Privacy Policy applies to the eNCA website, which includes the eNCA mobile websites, only. This statement is not applicable to other related websites not specifically included.
 
@@ -14,7 +14,7 @@ The eNCA website may contain links to or from other sites ("linked sites"), incl
 
 Certain services are linked with those linked sites, some which offer you the option to share with both eNCA and the third party personal data that you provide or content that you post on the eNCA website. However, eNCA will not share your personal information with those linked sites unless you make that choice. 
 
-### **Types of information collected**
+### **TYPES OF INFORMATION COLLECTED**
 
 When you register on the eNCA website for any reason, such as to receive email newsletters or to post content to the site, we collect certain information about you in order to provide you with the services you have requested. This information may include, but is not limited to:
 
@@ -48,17 +48,17 @@ eNCA needs and uses your personal information to provide you with the services y
 
 Personal data given to eNCA may be transferred across state and country borders for the purposes of data consolidation, storage and simplified customer information management. 
 
-### **How eNCA will share your information and with whom?**
+### **HOW ENCA WILL SHARE YOUR INFORMATION AND WITH WHOM?**
 
 eNCA will not share your personal information with third parties except in responding to your requests for products or services. Your permission will be requested when you submit your information.
 
 eNCA may partner with other organizations who may provide you with the services requested through the eNCA website. These partner organisation are required to keep confidential the information received on behalf of eNCA and may not use it for any purpose other than to carry out the services they are performing for eNCA. eNCA will not share personal information with any other third parties without your permission, unless required by law enforcement action, subpoena, or local law. 
 
-### **Privacy preferences**
+### **PRIVACY PREFERENCES**
 
 eNCA will not use your personal information for a different purpose than the one stated when you provided your data. Examples of unrelated uses include sending communications about updated information, new services and marketing messages. You can, however, choose to receive these types of non-subscription communications by ticking the box when you register.
 
-### **Data Access, accuracy, amendments, retention and opting out**
+### **DATA ACCESS, ACCURACY, AMENDMENTS, RETENTION AND OPTING OUT**
 
 eNCA will try to keep your personal information accurate. We will provide you with access to your information, including making reasonable efforts to provide you with online access and the opportunity to change your information, if possible. To protect your privacy and security, when doing so we will also take reasonable steps to verify your identity, such as a password and user ID, before granting access to your data.
 
@@ -72,19 +72,19 @@ Upon request, eNCA will:
 
 To request a correction or cancellation, send an e-mail to the address provided to you at registration for this purpose.
 
-### **Security**
+### **SECURITY**
 
 eNCA undertakes to take all reasonable measures to protect the information you provide us. These measures include, but are not limited to preventing unauthorised access or disclosure, maintaining data accuracy, and ensuring the appropriate use of the information. eNCA has in place reasonable physical and managerial procedures to safeguard the information we collect. 
 
-### **Changes to this statement**
+### **CHANGES TO THIS STATEMENT**
 
 Please note that these guidelines are subject to change at any time. Any such changes will be posted on this page. You are encouraged to review this Privacy Policy at the inception of each session.
 
-### **Law and jurisdiction**
+### **LAW AND JURISDICTION**
 
 This Privacy Policy is governed by the Laws of the Republic of South Africa and without regard to the conflict of laws principle. You agree that any cause of action that may arise under this Privacy Policy shall be commenced and be heard in the appropriate court in South Africa. You agree to submit to the personal and exclusive jurisdiction of the courts located within South Africa.
 
-### **Acceptance of policy**
+### **ACCEPTANCE OF POLICY**
 
 By using this website, or otherwise providing your personal information to eNCA, you signify your acceptance of our Privacy Policy. If you do not agree to this policy, please do not use the eNCA website or provide any personal information to eNCA.
 
