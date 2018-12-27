@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yougov.co.uk privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626175757id_/https%3A//yougov.co.uk/about/terms-combined/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yougov.co.uk privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227202955id_/https%3A//yougov.co.uk/about/terms-combined/%23privacy) for the most accurate reproduction.*
 
 # YouGov | Terms & Conditions Combined
 
@@ -125,7 +125,7 @@ Please see our _[Privacy and Cookie Policy](https://yougov.co.uk/about/terms-com
 
 5.6.6.         Upload, post, link to, email or otherwise transmit any unsolicited or unauthorised advertising, promotional materials, "junk mail", "chain letters", "phishing emails", "pyramid schemes", or any other form of solicitation;
 
-5.6.7.         Upload, post, link to, email or otherwise transmit any material that contains software viruses or any other computer, files or programs designed to interrupt, destroy or limit the functionality of any computer software or hardware or telecommunications equipment;
+5.6.7.         Upload, post, link to, email or otherwise transmit any material that contains software viruses or any other computer files or programs designed to interrupt, destroy or limit the functionality of any computer software or hardware or telecommunications equipment;
 
 5.6.8.         Collect or store personal data about other individuals; or
 
@@ -218,7 +218,7 @@ When you register with YouGov, we collect:
   * Demographic data, such as your age, gender, and general economic and household information
   * Your account login details, which will be your email address and the password that you have chosen
   * Referral partner IDs, if you arrived on our website by clicking a ‘Join YouGov’ advertisement online, or a link in an email from one of our recruitment partners (we only use this to track recruitment effectiveness and to pay our partners)
-  * Your Facebook ‘Likes’, but _only_ if you choose to register with YouGov using Facebook Connect and give Facebook permission to share this information with us during that process
+  * Some specific data you have shared with Facebook, but _only_ if you choose to register with YouGov using Facebook Connect and give Facebook permission to share this information with us during that process. (Each item is specified as part of that process.)
 
   
 ---|---  
@@ -273,7 +273,7 @@ When you contact us or interact with our website or social media pages, we colle
 
 Some of the data that you provide us will fall within what EU data protection law describes as ‘special categories of personal data’, such as your racial or ethnic origin, political opinions, religious beliefs or information concerning your health or sexual orientation.  For example, during a survey we may ask you about your voting history or intention, or whether you regard yourself as belonging to a particular religion.  We use this information in the same way we use all the other information we collect, but the law requires that we have your explicit consent to collect and use it.
 
-You will be explicitly asked to consent to YouGov using those categories of data if you register to the YouGov panel. Each time we ask a question that falls into one of these categories, if you haven’t consented to our use of data in that category we’ll remind you that we need it.  You will always have the option to skip these questions if you would prefer not to allow us to use that category of data, and you can always change your consent settings on your [Account page](http://yougov.co.uk/account/permissions).
+You will be explicitly asked to consent to YouGov using those categories of data if you register to the YouGov panel. Each time we ask a question that falls into one of these categories, if you haven’t consented to our use of data in that category we’ll remind you that we need it.  You will always have the option to skip these questions if you would prefer not to allow us to use that category of data, and you can always change your consent settings on your [Account page](http://yougov.co.uk/account/permissions). From the moment you withdraw your consent for any category we will make no further use of any data you have shared in that category when producing research or providing services to our clients, unless and until you choose to re-consent.
 
 **_Personal data collected from other sources_**
 
