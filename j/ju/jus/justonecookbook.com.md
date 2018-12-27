@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justonecookbook.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627042019id_/https%3A//www.justonecookbook.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justonecookbook.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227114850id_/https%3A//www.justonecookbook.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Just One Cookbook
 
@@ -36,7 +36,7 @@ By using this Site, you consent to the use of such cookies and the sharing of da
 
 For European Economic Area Residents
 
-If you reside in a country in the European Economic Area (EEA), then under the GDPR and applicable data protection laws you have the rights, among other things, to access your personal data, have us erase it, and/or restrict its further processing.  If you wish to access or delete your personal data (if any) maintained by us or AdThrive related to advertising on the Site, you can contact AdThrive at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) If you wish to see a list of the advertising partners we work with or change which of those partners track your behavior using cookies, click the ad preferences icon. (Available in the EU.)
+If you reside in a country in the European Economic Area (EEA), then under the GDPR and applicable data protection laws you have the rights, among other things, to access your personal data, have us erase it, and/or restrict its further processing.  If you wish to access or delete your personal data (if any) maintained by us or AdThrive related to advertising on the Site, you can contact AdThrive at info@adthrive.com. If you wish to see a list of the advertising partners we work with or change which of those partners track your behavior using cookies, click the ad preferences icon. (Available in the EU.)
 
  **Email Addresses**
 
@@ -68,7 +68,7 @@ Nami – Just One Cookbook
 1025 Alameda de las Pulgas #337  
 Belmont, CA 94002 USA  
 Tel: (650) 319-8881  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+privacypolicy@justonecookbook.com
 
  **Sale of Business or Assets**  
 In the event that the Site or substantially all of its assets is sold or disposed of as a going concern, whether by merger, sale of assets or otherwise, or in the event of an insolvency, bankruptcy or receivership, the information we have collected about you may be one of the assets sold or merged in connection with that transaction.
@@ -77,7 +77,7 @@ In the event that the Site or substantially all of its assets is sold or dispose
 We may change this Privacy Policy from time to time. The most recent version of the Privacy Policy will always be posted on the Site, with the “Effective Date” posted at the top of the Policy. We may revise and update this Privacy Policy if our practices change, as technology changes, or as we add new services or change existing ones. If we make any material changes to our Privacy Policy or how we handle your personal information, or we are going to use any personal information in a manner that is materially different from that stated in our Privacy Policy at the time we collected such information, we will give you a reasonable opportunity to consent to the change. If you do not consent, your personal information will be used as agreed to under the terms of the privacy policy in effect at the time we obtained that information. By using our Site or services after the Effective Date, you are deemed to consent to our then-current privacy policy. We will use information previously obtained in accordance with the Privacy Policy in effect when the information was obtained from you.
 
  **Contacting Us**  
-If you have any questions about this Privacy Policy, or the practices of this Site, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you have any questions about this Privacy Policy, or the practices of this Site, please contact us at privacypolicy@justonecookbook.com
 
 Or write to us at:  
 Just One Cookbook  
