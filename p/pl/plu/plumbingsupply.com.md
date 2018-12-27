@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plumbingsupply.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606183835id_/https%3A//www.plumbingsupply.com/privacyguaranteed.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plumbingsupply.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227112713id_/https%3A//www.plumbingsupply.com/privacyguaranteed.html) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
