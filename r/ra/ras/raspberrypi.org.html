@@ -1,0 +1,538 @@
+<!--The following is the downloaded HTML source of the raspberrypi.org privacy policy that was archived on 2018-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181227135000id_/https%3A//www.raspberrypi.org/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en-GB" prefix="og: http://ogp.me/ns#"><!--<![endif]--><head>
+    <meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-1099.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1099.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+    <meta name="viewport" content="width=device-width, user-scalable=no">
+    <title>Our privacy policy - Raspberry Pi</title>
+    <link rel="icon" type="image/png" href="https://www.raspberrypi.org/app/themes/mind-control/images/favicon.png">
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+    <link rel="pingback" href="https://www.raspberrypi.org/wp/xmlrpc.php">
+    <link rel="publisher" href="https://plus.google.com/+RaspberryPi">
+    <!--[if lt IE 9]><script src="https://www.raspberrypi.org/app/themes/mind-control/js/html5.js"></script><![endif]-->
+    <link rel="preconnect stylesheet" href="https://fonts.googleapis.com/css?family=Rubik:300,500,700|Space+Mono" media="all" type="text/css">
+    
+<!-- This site is optimized with the Yoast SEO plugin v9.2.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="https://www.raspberrypi.org/privacy/">
+<link rel="publisher" href="https://plus.google.com/+RaspberryPi">
+<meta property="og:locale" content="en_GB">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Our privacy policy - Raspberry Pi">
+<meta property="og:description" content="The Raspberry Pi Foundation is a charitable foundation based in the United Kingdom with the mission to put the power of computing and digital making into the hands of people all over the world. We collect your data to help us achieve our &nbsp;mission, and we consider and respect your privacy rights every step of …">
+<meta property="og:url" content="https://www.raspberrypi.org/privacy/">
+<meta property="og:site_name" content="Raspberry Pi">
+<meta property="article:publisher" content="https://www.facebook.com/raspberrypi">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:description" content="The Raspberry Pi Foundation is a charitable foundation based in the United Kingdom with the mission to put the power of computing and digital making into the hands of people all over the world. We collect your data to help us achieve our &nbsp;mission, and we consider and respect your privacy rights every step of […]">
+<meta name="twitter:title" content="Our privacy policy - Raspberry Pi">
+<meta name="twitter:site" content="@Raspberry_Pi">
+<meta name="twitter:creator" content="@greg_a">
+<!-- / Yoast SEO plugin. -->
+
+<link rel="dns-prefetch" href="//s.w.org">
+<!-- This site uses the Google Analytics by MonsterInsights plugin v7.3.2 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<script type="text/javascript" data-cfasync="false">
+	var mi_version         = '7.3.2';
+	var mi_track_user      = true;
+	var mi_no_track_reason = '';
+	
+	var disableStr = 'ga-disable-UA-46270871-1';
+
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+	
+	if ( mi_track_user ) {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+		__gaTracker('create', 'UA-46270871-1', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('set', 'anonymizeIp', true);
+		__gaTracker('send','pageview');
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you are not being tracked. " + mi_no_track_reason );
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+					})();
+		}
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.raspberrypi.org\/wp\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.9"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://www.raspberrypi.org/wp/wp-includes/js/wp-emoji-release.min.js?ver=4.9.9" type="text/javascript" defer=""></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="main-css" href="https://www.raspberrypi.org/app/themes/mind-control/style.min.css?ver=1544805239" type="text/css" media="all">
+<link rel="stylesheet" id="flags-css" href="https://www.raspberrypi.org/app/themes/mind-control/css/flags.css?ver=1544805239" type="text/css" media="all">
+<link rel="stylesheet" id="fullcalendar-css" href="https://www.raspberrypi.org/app/themes/mind-control/js/fullcalendar/fullcalendar.css?ver=1544805239" type="text/css" media="all">
+<link rel="stylesheet" id="modaal-css" href="https://www.raspberrypi.org/app/themes/mind-control/css/modal/modaal.min.css?ver=1544805239" type="text/css" media="all">
+<link rel="stylesheet" id="prism-css" href="https://www.raspberrypi.org/app/themes/mind-control/css/prism.css?ver=1544805239" type="text/css" media="all">
+<link rel="stylesheet" id="qtip-css" href="https://www.raspberrypi.org/app/themes/mind-control/js/qtip/jquery.qtip.min.css?ver=1544805239" type="text/css" media="all">
+<script type="text/javascript">
+/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","is_debug_mode":"false","download_extensions":"doc,exe,js,pdf,ppt,tgz,zip,xls","inbound_paths":"","home_url":"https:\/\/www.raspberrypi.org","track_download_as":"event","internal_label":"int","hash_tracking":"false"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.raspberrypi.org/app/plugins/google-analytics-for-wordpress/assets/js/frontend.js?ver=7.3.2"></script>
+<script type="text/javascript" src="https://www.raspberrypi.org/wp/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="https://www.raspberrypi.org/wp/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script type="text/javascript" src="https://www.raspberrypi.org/app/themes/mind-control/js/fullcalendar/lib/moment.min.js?ver=1544805239"></script>
+<script type="text/javascript" src="https://www.raspberrypi.org/app/themes/mind-control/js/fullcalendar/fullcalendar.js?ver=1544805239"></script>
+<script type="text/javascript" src="https://www.raspberrypi.org/app/themes/mind-control/js/prism.js?ver=1544805239"></script>
+<script type="text/javascript" src="https://www.raspberrypi.org/app/themes/mind-control/js/qtip/jquery.qtip.min.js?ver=1544805239"></script>
+<link rel="https://api.w.org/" href="https://www.raspberrypi.org/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.raspberrypi.org/wp/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.raspberrypi.org/wp/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.9.9">
+<link rel="shortlink" href="https://www.raspberrypi.org/?p=44116">
+<link rel="alternate" type="application/json+oembed" href="https://www.raspberrypi.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.raspberrypi.org%2Fprivacy%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://www.raspberrypi.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.raspberrypi.org%2Fprivacy%2F&amp;format=xml">
+<script type="text/javascript" src="//www.raspberrypi.org/?wordfence_syncAttackData=1545916993.8272" async=""></script></head>
+
+<body class="page-template-default page page-id-44116 new-header page-privacy section-products">
+    <header class="o-header">
+    <nav class="o-container o-header__container">
+        <a class="o-header__link o-header__link--home c-big-link c-big-link--home" href="/">
+            <span class="u-visually-hidden">
+                Home
+            </span>
+        </a>
+
+        <ul class="o-header__nav c-nav">
+                        <li class="c-nav__item">
+                <a class="c-nav__link c-nav__link--blog" href="/blog">
+                    Blog                </a>
+            </li>
+                        <li class="c-nav__item">
+                <a class="c-nav__link c-nav__link--downloads" href="/downloads">
+                    Downloads                </a>
+            </li>
+                        <li class="c-nav__item">
+                <a class="c-nav__link c-nav__link--community" href="/community">
+                    Community                </a>
+            </li>
+                        <li class="c-nav__item">
+                <a class="c-nav__link c-nav__link--help" href="/help">
+                    Help                </a>
+            </li>
+                        <li class="c-nav__item">
+                <a class="c-nav__link c-nav__link--forums" href="/forums">
+                    Forums                </a>
+            </li>
+                        <li class="c-nav__item">
+                <a class="c-nav__link c-nav__link--education" href="/education">
+                    Education                </a>
+            </li>
+                    </ul>
+
+        <a class="o-header__link o-header__link--products c-big-link c-big-link--products" href="/products">
+            <span class="u-visually-hidden">Buy a Pi</span>
+        </a>
+
+        <span aria-hidden="true" class="o-header__search-toggle c-search-toggle">
+            <span class="u-visually-hidden">Open Search Input</span>
+        </span>
+
+        <span aria-hidden="true" class="o-header__toggle c-nav-toggle">
+            <span class="c-nav-toggle__inner">
+                <span class="u-visually-hidden">Open Navigation</span>
+            </span>
+        </span>
+    </nav>
+</header>
+
+<div class="o-header__search">
+    <form action="/" class="o-container c-search" role="search" method="GET">
+        <input class="c-search__input" name="s" placeholder="Search Raspberry Pi" type="search">
+        <button class="c-search__submit">Search</button>
+    </form>
+</div>
+
+<script>
+    var header = document.querySelector('.o-header')
+    var navToggle = document.querySelector('.c-nav-toggle')
+    var searchToggle = document.querySelector('.c-search-toggle')
+
+    navToggle.addEventListener('click', function (event) {
+        event.preventDefault()
+
+        var navToggleInner = document.querySelector('.c-nav-toggle__inner')
+
+        header.classList.toggle('o-header--nav-open')
+        navToggle.classList.toggle('c-nav-toggle--open')
+        navToggleInner.classList.toggle('c-nav-toggle__inner--open')
+    })
+
+    searchToggle.addEventListener('click', function (event) {
+        event.preventDefault()
+
+        var productsLink = document.querySelector('.c-big-link--products')
+        var searchContainer = document.querySelector('.o-header__search')
+        var searchInput = document.querySelector('.c-search__input')
+
+        searchInput.blur()
+        productsLink.classList.toggle('c-big-link--search-open')
+        searchToggle.classList.toggle('c-search-toggle--open')
+        searchContainer.classList.toggle('o-header__search--open')
+
+        if (searchContainer.classList.contains('o-header__search--open')) {
+            searchInput.focus()
+        }
+    })
+</script>
+
+    <div class="container">
+        <div class="main">
+
+<article>
+    <div class="col col-60 entry-content">
+        <h1>Our privacy policy</h1>
+        <p>The Raspberry Pi Foundation is a charitable foundation based in the United Kingdom with the mission to put the power of computing and digital making into the hands of people all over the world. We collect your data to help us achieve our &nbsp;mission, and we consider and respect your privacy rights every step of the way.</p>
+<p>We want to be completely open about what we are doing and why. &nbsp;The purpose of this policy is to explain how the Raspberry Pi Foundation and all of its subsidiaries collect and use the personal information you provide to us, whether online, via phone, email, in letters, in any other correspondence, or even from other people.</p>
+<p>If you are a child under 13, we want you to know that we are particularly committed to protecting the privacy of the young people that engage with us through our competitions, on our website, at events, Raspberry Jams, Code Clubs, and CoderDojos.</p>
+<p>We ensure that we use your information in accordance with all applicable laws concerning the protection of personal information. This policy explains:</p>
+<p><b>SELECT TO READ MORE</b></p>
+<ul>
+<li><a href="#who-are-we">Who are we</a></li>
+<li><a href="#what-info">What information we collect about you</a></li>
+<li><a href="#why-we-collect">Why we collect that information</a></li>
+<li><a href="#how-we-collect">How we collect and store that information</a></li>
+<li><a href="#what-use">What we use your information for</a></li>
+<li><a href="#legal-basis">On what legal basis we use your information</a></li>
+<li><a href="#who-share">Who we share your information with</a></li>
+<li><a href="#how-long">How long we keep your information for</a></li>
+<li><a href="#your-rights">Your rights</a></li>
+<li><a href="#cookie-info">Information about cookies</a></li>
+<li><a href="#privacy-changes">About changes to our privacy policy</a></li>
+<li><a href="#how-contact-us">How to contact us about your data</a></li>
+</ul>
+<p>If you have any questions at any time about data privacy at the Raspberry Pi Foundation, please contact us at <a href="/cdn-cgi/l/email-protection#cbafaabfaabbb9a2bdaaa8b28bb9aab8bba9aeb9b9b2bba2e5a4b9ac"><span class="__cf_email__" data-cfemail="dcb8bda8bdacaeb3a8b9bfa8b5b3b29caebdafacbeb9aeaea5acb5f2b3aebb">[email&nbsp;protected]</span></a>, or write to: The DPO, Raspberry Pi Foundation, 30 Station Road, Cambridge, CB1 2RE, UK.</p>
+<h2 id="who-are-we"><b>1. Who are we</b></h2>
+<p>The Raspberry Pi Foundation is a UK-based charity that works to put the power of computing and digital making into the hands of people all over the world. We do this so that more people can harness the power of digital technologies for work, to solve problems that matter to them, and to express themselves creatively.</p>
+<p>We provide low-cost, high-performance single-board computers and free software through Raspberry Pi Trading Ltd, so that computing and digital making are accessible to all. We help young people acquire computing and digital making skills through compelling learning resources, a thriving network of volunteer-led clubs, exciting competitions and events, and partnerships with youth organisations. We provide training and support to educators, volunteers, and parents who want to help young people learn these skills. We build and support communities of young people, parents, volunteers, businesses, and educators that share our mission.</p>
+<p>The Raspberry Pi Foundation is a charity registered in England and Wales with registered number 1129409. We also have a number of other companies that are in our group of companies. These are: Raspberry Pi (Trading) Limited, CoderDojo Foundation (registered charity number CHY 20812), and Raspberry Pi Foundation North America Inc (a 501(c)(3) charity). Within the context of this policy, “we” means both the Raspberry Pi Foundation and its subsidiaries listed above.</p>
+<h2 id="what-info"><b>2. What information we collect about you </b></h2>
+<p>We aim to limit the information we collect about you to only what we think is required for the purpose for which we collect it. We collect your name, email address, postal address, and telephone number when you give it to us for various purposes.</p>
+<p>We may also collect information such as your gender and date of birth, or, when you volunteer to fill in one of our survey forms, additional information such as your occupation or area of residence; in such cases, we will make you aware of this.</p>
+<p>When you visit our website, we may collect technical information relating to your use of our website, including your browser type or the Internet Protocol (IP) address used to connect your computer to the internet. For more on this, see section 10, “Information about cookies”.</p>
+<p>As the information we collect about you will be stored on our IT infrastructure, it may also be shared with our data processors who provide email, relationship management, anonymous analytics, document management, and storage services to us.</p>
+<h2 id="why-we-collect"><b>3. Why we collect that information</b></h2>
+<p>We collect your information:</p>
+<ul>
+<li>When you apply for a job</li>
+<li>When you sign up to participate in any of our programmes</li>
+<li>When you become a volunteer</li>
+<li>When you support us by:
+<ul>
+<li>Signing up to attend or take part in an event</li>
+<li>Signing up to gift aid</li>
+<li>Giving us a donation</li>
+</ul>
+</li>
+<li>When you contribute to research that we undertake</li>
+<li>When you visit our online community, including our website</li>
+<li>When you sign up to receive our newsletters or blog updates</li>
+<li>When you sign in to one of our forums or chat rooms</li>
+<li>For debugging, in the case of your IP address</li>
+</ul>
+<p>If you want to understand more about why we collect your data, please contact us at <a href="/cdn-cgi/l/email-protection#492d283d28393b263d2c2a3d202627093b283a392b2c3b3b30392067263b2e"><span class="__cf_email__" data-cfemail="adc9ccd9ccdddfc2d9c8ced9c4c2c3eddfccdeddcfc8dfdfd4ddc483c2dfca">[email&nbsp;protected]</span></a>.</p>
+<h2 id="how-we-collect"><b>4. How we collect and store that information</b></h2>
+<p>We take appropriate technical and organisational measures to ensure that the information disclosed to us is kept secure, accurate, and up to date, and that it is kept only for as long as is necessary for the purposes for which it is used.</p>
+<p>You should be aware that the use of the internet is not entirely secure, and although we will do our best to protect your personal data, we cannot guarantee the security or integrity of any personal information that is transferred from you or to you via the internet. Any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features such as encryption to try to prevent unauthorised access.</p>
+<p>Where any consent has been given by a parent/guardian on behalf of a child under 13, we will make reasonable efforts to verify that this consent was given or authorised by the parent/guardian, taking into consideration available technology.</p>
+<h2 id="what-use"><b>5. What we use your information for</b></h2>
+<p>We collect your data on the occasions listed in section 3, “Why we collect that Information”.</p>
+<p>We use the information we have collected to deliver to you 1) information and services connected with the mission of the Raspberry Pi Foundation, and 2) any newsletters you subscribe to. We may tell you about opportunities to enter competitions, ask you to participate in surveys, and check how we are doing in our mission. Your comments on our blogs and contributions to our forums help us in our mission.</p>
+<p>Where we have asked for your consent, we may use your image in our materials on our website, at &nbsp;events, and for other promotional purposes.</p>
+<h2 id="legal-basis"><b>6. On what legal basis we use your information</b></h2>
+<p>We have a lawful basis for collecting your data as set out in section 3, “Why we collect that Information”, and for using the data for the purposes described in section 5, “What we use your information for”.</p>
+<p>Lawful basis may include:</p>
+<ul>
+<li>Where it is within our <b>legitimate interests </b>to process your information to further our mission to put the power of computing and digital making into the hands of people all over the world. We know that under this basis of processing, we have a heightened responsibility to keep your interests central and to make sure that your rights as a data subject override our legitimate interest.</li>
+<li>Where we need to comply with a <b>legal obligation</b>.</li>
+<li>Where processing is necessary for the <b>performance of a contract </b>to which you are a party. If you fail to provide this information, we may be unable to perform the contract.</li>
+<li>Where we have <b>your consent</b>. If we want to use <b>your image </b>for the purposes of our mission, then we will ask you to consent to that use. Very occasionally, we will also process other areas of <b>sensitive personal data, </b>but we will always ask for your consent to do this.</li>
+</ul>
+<h2 id="who-share"><b>7. Who we share your information with </b></h2>
+<p>We never exchange or sell your information to any third party.</p>
+<p>We occasionally use third parties outside of the Raspberry Pi Foundation to process your personal data on our behalf. We are in the process of listing these third party processors and will provide a list of them here in due course. We do change these processors from time to time and will do what we can to update this table regularly.</p>
+<p>Where these third parties are not in the European Economic Area, we make sure that it is safe to share &nbsp;your information to them.</p>
+<h2 id="how-long"><b>8. How long we keep your information for</b></h2>
+<p>We keep your information for no longer than is necessary for our purposes, or for any period required by law, for example for compliance with HMRC requirements, if this is longer. What is necessary will depend on the reason for which the information was collected. We are developing a data retention schedule and will share this in due course.</p>
+<p>If you have any questions about how long we keep your information, contact us at <a href="/cdn-cgi/l/email-protection#264247524756544f5047455f6654475556444354545f564f08495441"><span class="__cf_email__" data-cfemail="9cf8fde8fdeceef3e8f9ffe8f5f3f2dceefdefecfef9eeeee5ecf5b2f3eefb">[email&nbsp;protected]</span></a></p>
+<h2 id="your-rights"><b>9. Your rights</b></h2>
+<p><b>Right of access </b>— you have a right to ask us to confirm whether we are processing information about you, and to request access to this information.</p>
+<p><b>Right to rectification </b>— you may ask us to rectify information you think is inaccurate, and you may also ask us to remove information which is inaccurate or incomplete. If you inform us that your personal data is inaccurate, we will inform relevant third parties with whom we have shared your data so that they may update their own records.</p>
+<p><b>Right of portability </b>— you have a right to obtain your personal data from us and reuse it for your own purposes.</p>
+<p><b>Right to be forgotten </b>— you have a right to seek the erasure of your data, for example where it is no longer necessary for us to continue holding or processing your personal data. This right is not absolute, as we may need to continue processing this information to comply with a legal obligation.</p>
+<p><b>Right to restriction </b>— you have a right to ask us to restrict our processing of your information if:</p>
+<ul>
+<li>You contest its accuracy and we need to verify whether it is accurate.</li>
+<li>You ask us to restrict use of it instead of deleting it.</li>
+<li>We no longer need the information for the purpose of processing, but you need it to establish or defend legal claims.</li>
+<li>You have objected to processing of your information being necessary for the purposes of our legitimate interests. The restriction would apply while we carry out a balancing act between your rights and our legitimate interests. If you exercise your right to restrict processing, we would still need to process your information for the purpose of exercising or defending legal claims, for the purpose of protecting the rights of another person, or for public interest reasons.</li>
+</ul>
+<p>You can always unsubscribe from any mailing list you are included on, ask us to delete or anonymize your forum posts, and ask us to delete any comments on our blog. You can do so by contacting us at <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="650104110415170a110006110c0a0b2517041615070017171c150c4b0a17024b">[email&nbsp;protected]</a></p>
+<p>We may ask for your help in locating specific information, e.g. on forum postings and confirming your identity. If you would like to exercise any of your rights, please let us know by writing to <a href="/cdn-cgi/l/email-protection#a4c0c5d0c5d4d6cdd2c5c7dde4d6c5d7d4c6c1d6d6ddd4cd8acbd6c3"><span class="__cf_email__" data-cfemail="3b5f5a4f5a4b49544f5e584f5254557b495a484b595e4949424b521554495c">[email&nbsp;protected]</span></a>. We will act in accordance with your instructions as soon as reasonably possible, and there will be no charge.</p>
+<p>Our use of your data processed in the UK is regulated by the Information Commissioner. You have a right to report any of your concerns about our use of your data to the Information Commissioner’s Office. You may do so by contacting them on <a href="https://ico.org.uk/concerns/">&nbsp;ico.org.uk/concerns</a> or by calling their helpline at +44 303 123 1113. If you are part of our CoderDojo community, then our use of your data is likely to be regulated by the Data Protection Commissioner who can be found at <a href="https://www.dataprotection.ie/docs/Home/4.htm">www.dataprotection.ie/docs/Home</a>.</p>
+<h2 id="cookie-info"><b>10. Information about cookies</b></h2>
+<p>Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them, see our <a href="https://www.raspberrypi.org/cookies/">cookie policy</a>.</p>
+<h2 id="privacy-changes"><b>11. About changes to our privacy policy</b></h2>
+<p>Any changes we may make to our privacy policy in the future will be posted here and, where appropriate, sent to you by email. Please check the website regularly to see any updates or changes to our privacy policy. By continuing to use our website, you will be deemed to have accepted such changes.</p>
+<h2 id="how-contact-us"><b>12. How to contact us about your data</b></h2>
+<p>Data rights are human rights and we are determined to fairly and fully honour yours. You can unsubscribe at any time or just get in touch with any questions, comments, or instructions regarding your information by writing to <a href="/cdn-cgi/l/email-protection#3a5e5b4e5b4a48534c5b59437a485b494a585f4848434a531455485d"><span class="__cf_email__" data-cfemail="284c495c49585a475c4d4b5c414746685a495b584a4d5a5a51584106475a4f">[email&nbsp;protected]</span></a> or writing to: The DPO, Raspberry Pi Foundation, 30 Station Road, Cambridge, CB1 2RE, UK.</p>
+    </div>
+    </article>
+
+        <div style="clear: both;"></div>
+    </div>
+
+    <div style="clear: both;"></div>
+</div>
+
+<footer class="o-footer">
+    <div class="o-container">
+        <div class="o-footer__grid">
+            <div class="o-footer__social">
+                <ul class="c-footer-social">
+                                        <li class="c-footer-social__item">
+                        <a class="c-footer-social__link c-footer-social__link--facebook" href="https://www.facebook.com/raspberrypi">
+                            <span class="u-visually-hidden">
+                                Like Raspberry Pi on Facebook                            </span>
+                        </a>
+                    </li>
+                                        <li class="c-footer-social__item">
+                        <a class="c-footer-social__link c-footer-social__link--twitter" href="https://twitter.com/Raspberry_Pi">
+                            <span class="u-visually-hidden">
+                                Follow Raspberry Pi on Twitter                            </span>
+                        </a>
+                    </li>
+                                        <li class="c-footer-social__item">
+                        <a class="c-footer-social__link c-footer-social__link--instagram" href="https://www.instagram.com/raspberrypifoundation/">
+                            <span class="u-visually-hidden">
+                                Check out what we’re having for lunch on Instagram                            </span>
+                        </a>
+                    </li>
+                                        <li class="c-footer-social__item">
+                        <a class="c-footer-social__link c-footer-social__link--google-plus" href="https://plus.google.com/+RaspberryPi">
+                            <span class="u-visually-hidden">
+                                Connect with us on Google Plus or whatever happens over there                            </span>
+                        </a>
+                    </li>
+                                        <li class="c-footer-social__item">
+                        <a class="c-footer-social__link c-footer-social__link--youtube" href="https://youtube.com/raspberrypi">
+                            <span class="u-visually-hidden">
+                                Subscribe to the Raspberry Pi YouTube channel                            </span>
+                        </a>
+                    </li>
+                                    </ul>
+            </div>
+
+            <div class="o-footer__nav">
+                                <div class="o-footer__nav-about">
+                    <div class="c-footer-nav">
+                        <span class="c-footer-nav__title">
+                            About Us                        </span>
+
+                        <ul class="c-footer-nav__list">
+                                                        <li class="c-footer-nav__item">
+                                <a class="c-footer-nav__link" href="/about">
+                                    About us                                </a>
+                            </li>
+                                                        <li class="c-footer-nav__item">
+                                <a class="c-footer-nav__link" href="/about/meet-the-team">
+                                    Our team                                </a>
+                            </li>
+                                                        <li class="c-footer-nav__item">
+                                <a class="c-footer-nav__link" href="/about/governance">
+                                    Governance                                </a>
+                            </li>
+                                                        <li class="c-footer-nav__item">
+                                <a class="c-footer-nav__link" href="/safeguarding">
+                                    Safeguarding                                </a>
+                            </li>
+                                                        <li class="c-footer-nav__item">
+                                <a class="c-footer-nav__link" href="/about/supporters">
+                                    Our supporters                                </a>
+                            </li>
+                                                        <li class="c-footer-nav__item">
+                                <a class="c-footer-nav__link" href="https://raspberrypi.workable.com/">
+                                    Jobs                                </a>
+                            </li>
+                                                        <li class="c-footer-nav__item">
+                                <a class="c-footer-nav__link" href="/contact">
+                                    Contact us                                </a>
+                            </li>
+                                                    </ul>
+                    </div>
+                </div>
+                                <div class="o-footer__nav-support">
+                    <div class="c-footer-nav">
+                        <span class="c-footer-nav__title">
+                            Support                        </span>
+
+                        <ul class="c-footer-nav__list">
+                                                        <li class="c-footer-nav__item">
+                                <a class="c-footer-nav__link" href="/help">
+                                    Help                                </a>
+                            </li>
+                                                        <li class="c-footer-nav__item">
+                                <a class="c-footer-nav__link" href="/documentation">
+                                    Documentation                                </a>
+                            </li>
+                                                        <li class="c-footer-nav__item">
+                                <a class="c-footer-nav__link" href="https://projects.raspberrypi.org/">
+                                    Projects                                </a>
+                            </li>
+                                                        <li class="c-footer-nav__item">
+                                <a class="c-footer-nav__link" href="/training">
+                                    Training                                </a>
+                            </li>
+                                                        <li class="c-footer-nav__item">
+                                <a class="c-footer-nav__link" href="/downloads">
+                                    Downloads                                </a>
+                            </li>
+                                                        <li class="c-footer-nav__item">
+                                <a class="c-footer-nav__link" href="/research-and-insights">
+                                    Research                                </a>
+                            </li>
+                                                        <li class="c-footer-nav__item">
+                                <a class="c-footer-nav__link" href="/help/faqs">
+                                    FAQ                                </a>
+                            </li>
+                                                    </ul>
+                    </div>
+                </div>
+                            </div>
+
+            <div class="o-footer__newsletter">
+                <form action="https://raspberrypi.hosted.phplist.com/lists/?p=subscribe&amp;id=1" class="c-footer-newsletter" method="POST">
+                    <span class="c-footer-newsletter__legend">
+                        Sign up to our newsletter
+                    </span>
+                    <input class="c-footer-newsletter__input" name="email" placeholder="Your email here" required="" type="email">
+                    <button class="c-footer-newsletter__button">Subscribe</button>
+                </form>
+            </div>
+
+            <div class="o-footer__charity">
+                <p class="c-footer-charity">
+                    Raspberry Pi Foundation<br>
+                    UK Registered Charity 1129409
+                </p>
+            </div>
+
+            <div class="o-footer__additional">
+                <p class="c-footer-additional">
+                    <a class="c-footer-additional__link" href="/privacy">Privacy</a>
+                    <a class="c-footer-additional__link" href="/cookies">Cookies</a>
+                    <a class="c-footer-additional__link" href="/trademark-rules">Trademark rules and brand guidelines</a>
+                </p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+// Constants, but we use `var` since `const` support is only in >=IE11
+var RESELLER_API_URL = 'https://api.resellers.raspberrypi.org';
+var SENTRY_PUBLIC_DSN = 'https://d228a2075e31456ba68cf45963ecfec6@sentry.io/160628';
+</script>
+
+<script type="text/javscript">
+    ga = __gaTracker;
+</script>
+
+<script type="text/javascript" id="cookiebanner" src="https://cdnjs.cloudflare.com/ajax/libs/cookie-banner/1.2.2/cookiebanner.min.js" data-bg="#e6e2dd" data-fg="#404040" data-link="#404040" data-moreinfo="https://www.raspberrypi.org/cookies" data-accept-on-scroll="true" data-message="We use cookies to ensure that we give you the best experience on our website. By continuing to visit this site you agree to our use of cookies." data-moreinfo-decoration="underline" integrity="sha384-ZtuZyMr5oH1P/r7ZKXXHFBkIZoNaDZ+aHMHxGUZWP0Zfwk6TgyUlgcR5QIx1kj1U" crossorigin="anonymous"></script>
+
+<script type="text/javascript" src="https://www.raspberrypi.org/app/plugins/wp-gallery-custom-links/wp-gallery-custom-links.js?ver=1.1"></script>
+<script type="text/javascript" src="https://www.raspberrypi.org/app/themes/mind-control/js/sentry/raven.min.js?ver=1544805239"></script>
+<script type="text/javascript" src="https://www.raspberrypi.org/app/themes/mind-control/js/sentry/sentry.js?ver=1544805239"></script>
+<script type="text/javascript" src="https://www.raspberrypi.org/app/themes/mind-control/js/cookies-resolver.js?ver=1544805239"></script>
+<script type="text/javascript" src="https://www.raspberrypi.org/app/themes/mind-control/js/modal/modaal.min.js?ver=1544805239"></script>
+<script type="text/javascript" src="https://www.raspberrypi.org/app/themes/mind-control/js/modal/display-modal.js?ver=1544805239"></script>
+<script type="text/javascript" src="https://www.raspberrypi.org/app/themes/mind-control/js/geo/geoip2.js?ver=1544805239"></script>
+<script type="text/javascript" src="https://www.raspberrypi.org/app/themes/mind-control/js/geo/location-resolver.js?ver=1544805239"></script>
+<script type="text/javascript" src="https://www.raspberrypi.org/app/themes/mind-control/js/modal/product-modal.js?ver=1544805239"></script>
+<script type="text/javascript" src="https://www.raspberrypi.org/app/themes/mind-control/js/product.js?ver=1544805239"></script>
+<script type="text/javascript" src="https://www.raspberrypi.org/app/themes/mind-control/js/helpers.js?ver=1544805239"></script>
+<script type="text/javascript" src="https://www.raspberrypi.org/app/themes/mind-control/js/tracking.js?ver=1544805239"></script>
+<script type="text/javascript" src="https://www.raspberrypi.org/app/themes/mind-control/js/vimeo.ga.min.js?ver=1544805239"></script>
+<script type="text/javascript" src="https://www.raspberrypi.org/wp/wp-includes/js/wp-embed.min.js?ver=4.9.9"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"58581d3af9","applicationID":"49756124","transactionName":"bwZRZ0cCX0FUVhVYWVZMZkFcTFhcUVAZH0ZQEw==","queueTime":0,"applicationTime":9,"atts":"Q0FSEQ8YTE8=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Page Caching using memcached 
+Minified using memcached
+
+Served from: www.raspberrypi.org @ 2018-12-27 13:23:13 by W3 Total Cache
+--></body></html>
