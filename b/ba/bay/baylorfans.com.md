@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baylorfans.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627075842id_/https%3A//sicem365.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baylorfans.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227154058id_/https%3A//sicem365.com/terms) for the most accurate reproduction.*
 
 # SicEm365
 
