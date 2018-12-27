@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the esportsearnings.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627011640id_/https%3A//www.esportsearnings.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esportsearnings.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227185420id_/https%3A//www.esportsearnings.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy :: e-Sports Earnings
+# Privacy Policy :: Esports Earnings
 
 The e-Sports Earnings Privacy Policy governs the manner in which the esportsearnings.com website ("site") collects, uses, maintains and discloses information collected from everyone and everything that uses this website ("user"). This privacy policy applies to the site and all products and services offered here.
 
