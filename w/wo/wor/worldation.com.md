@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldation.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617231322id_/http%3A//www.worldation.com/privacy-policy-user-agreement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldation.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227065412id_/http%3A//worldation.com/privacy-policy-user-agreement) for the most accurate reproduction.*
 
 # Privacy Policy & User Agreement | Worldation
 
@@ -201,5 +201,7 @@ FOR ANY DIRECT DAMAGES
 FOR ANY DATA LOSS, LOST PROFITS, PUNITIVE, COMPENSATION, OR DAMAGES OF ANY KIND HOWEVER THEY MAY ARISE
 
 These User Agreement terms have been set out to provide our users with the best possible experience. Please ensure that these are read alongside our privacy policy and DMCA policy.
+
+If you have questions contact us at: [info@worldation.com](mailto:info@worldation.com)
 
 Last update: December 2nd 2016
