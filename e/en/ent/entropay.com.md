@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entropay.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614100536id_/https%3A//entropay.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entropay.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227130517id_/https%3A//entropay.com/privacy-policy) for the most accurate reproduction.*
 
 # Entropay | Privacy Policy
 
@@ -20,18 +20,17 @@ Locations London and Malta
 ## 3 Organisation Contact Details
 
 Data Controller Details  
-Email Address: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
-Telephone Number: 00356 2131 4514
+Email Address: info@entropay.com
 
-Postal Address 10 Midford Place  
+Postal Address 2 Stephen Street  
 London  
 UK  
-W1T 5AE
+W1T 1AN
 
 Data Protection Officer Details  
 Name: Denise Vella   
-email Address: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
-Telephone Number: 00356 27330092
+email Address: dpo@entropay.com  
+
 
 ## 4 Description of Processing
 
@@ -68,9 +67,9 @@ Job Application Forms:
 [https://Entropay.bamboohr.co.u...](https://entropay.bamboohr.co.uk/jobs/)
 
 From our email addresses:   
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+info@entropay.com  
+support@entropay.com  
+support@business.entropay.com
 
 Depending on which of our services you use we may collect the following information:
 
@@ -93,7 +92,7 @@ For visitors who go on to register for one of our services we may collect:
   * User details: First name, Last name, Email address, Date of birth, Full residential address, Mobile number
   * Language preference
   * Pay-out email addresses
-  * Credit card and bank account details 
+  * Credit card and bank account details 
   * Full KYC documentation (including identity and residential documents)
   * Merchant(s) where user is spending using Entropay virtual card
   * Support information sent by the user to our support team
@@ -106,7 +105,7 @@ For business Users we may collect:
   * Business details: Business name, Business address, Business Category, Business website
   * Credit card and bank account details
   * Pay-out email addresses
-  * Full KYB documentation (including identity and residential documents) 
+  * Full KYB documentation (including identity and residential documents) 
   * Merchant(s) referring user to Entropay (if applicable)
   * Merchant(s) where the business is spending using an Entropay virtual card
 
@@ -122,7 +121,7 @@ We will explain in clear and simple terms why we want to collect your informatio
 
 ## 7 Why we Collect Personal Data
 
-We collect information about you to process the financial services provided by Entropay, such as fund transfers to and from your credit card. 
+We collect information about you to process the financial services provided by Entropay, such as fund transfers to and from your credit card. 
 
 We collect information about you to manage your account and to protect your account against malicious activity. 
 
@@ -151,9 +150,9 @@ The data we collect through our online services may be processed by one or more 
 
   * Trusted service providers such as technology, support, marketing, and sales service providers
   * Auditors
-  * Financial Institutions 
+  * Financial Institutions 
   * Money Laundering prevention companies
-  * HR partners 
+  * HR partners 
   * Other companies within the group
 
 
@@ -181,13 +180,13 @@ Made from a register which under UK or EU law is intended to provide information
 
 We keep your information in line with our data retention policy. For example:
 
-  * we keep transaction information for a period of seven years from the end of our relationship with you; 
-  * we keep your personal account information for a period of five years from closure of account; 
+  * we keep transaction information for a period of seven years from the end of our relationship with you; 
+  * we keep your personal account information for a period of five years from closure of account; 
   * when you apply for a job with us, we keep your resume and correspondence for a period of one year. 
 
 
 
-This enables us to comply with legal and regulatory requirements or use it where we need to for our legitimate purposes such as managing your account and dealing with any disputes or concerns that may arise. We may need to retain your information for a longer period where we need the information to comply with regulatory or legal requirements or where we may need it for our legitimate business purposes, such as to respond to queries or complaints, fighting fraud and financial crime and responding to requests from regulators. Information that exceeds the retention periods is deleted or removed using industry best practices. 
+This enables us to comply with legal and regulatory requirements or use it where we need to for our legitimate purposes such as managing your account and dealing with any disputes or concerns that may arise. We may need to retain your information for a longer period where we need the information to comply with regulatory or legal requirements or where we may need it for our legitimate business purposes, such as to respond to queries or complaints, fighting fraud and financial crime and responding to requests from regulators. Information that exceeds the retention periods is deleted or removed using industry best practices. 
 
 ## 11 Our Rights as an Individual in Respect of the Data We hold
 
@@ -210,12 +209,9 @@ You also have the right to lodge a complaint with our supervisory authority. Ent
 
 Quick Links for exercising your rights
 
-DPO email Address: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+DPO email Address: dpo@entropay.com
 
-DPO phone number: 00356 27330092  
-Controller email address: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
-
-Controller phone number: 00356 2131 4514
+Controller email address: info@entropay.com
 
 ## 12 Data Sources - where did you get my data
 
