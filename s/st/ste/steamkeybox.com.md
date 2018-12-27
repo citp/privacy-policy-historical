@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the steamkeybox.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626195336id_/https%3A//www.steamkeybox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steamkeybox.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227034348id_/https%3A//www.steamkeybox.com/privacy-policy) for the most accurate reproduction.*
 
 # SteamKeyBox
 
@@ -158,13 +158,7 @@ Users Social Accounts: We provide a mechanism for every users to remove any link
 
 Your Rights: We provide all Customers, Visitors and Users of our Site with the opportunity to request access, correction, restriction, deletion, data portability or oppose to any personal information that has previously been provided to us in connection with the use of our Website, as required by law. You can send us an email to [support@Allkeyshop.com](mailto:support@Allkeyshop.com). We may request specific information from you to confirm your identity.
 
-### Allkeyshop Network Data Protection Officer
-
-Allkeyshop Network has a Data Protection Officer who is responsible for matters relating to privacy and data protection. This Data Protection Officer can be reached at the following address:
-
-Allkeyshop Limited
-
-31 / F., Chinachem Century Tower, 178, rue Gloucester, Wanchai, Hong Kong
+### Allkeyshop Network Data Protection
 
 Mail: Support@allkeyshop.com
 
