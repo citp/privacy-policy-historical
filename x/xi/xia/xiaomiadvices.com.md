@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xiaomiadvices.com privacy policy that was archived on 2018-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180318160053id_/http%3A//xiaomiadvices.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xiaomiadvices.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227065106id_/https%3A//xiaomiadvices.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Xiaomi Advices
 
@@ -6,7 +6,7 @@ The privacy of visitors to our site is important to us.
 
 ### Xiaomi Advices Respects your Privacy
 
-Thanks for being one of our valued visitor at Xiaomi Advices. This page ([Xiaomi Advices](http://xiaomiadvices.com/) Privacy Policy) shows what type of personal information is collected, when visitor browse our site. We safeguard your personal information and never sell it with any third parties.
+Thanks for being one of our valued visitor at Xiaomi Advices. This page ([Xiaomi Advices](https://xiaomiadvices.com/) Privacy Policy) shows what type of personal information is collected, when visitor browse our site. We safeguard your personal information and never sell it with any third parties.
 
 ### Log Files
 
@@ -23,8 +23,6 @@ Looking for more information about such practices, refer below-
  _Google – http://www.google.com/privacy.html_
 
  _Sixapart – http://www.sixapart.com/privacy/_
-
- _Kontera – http://www.kontera.com/privacy.aspx_
 
  _Amazon – Amazon.com Privacy Notice_
 
@@ -48,4 +46,4 @@ XiaomiAdvices.com is not affiliated with Google, Motorola, Sony, Xiaomi, Microma
 
 ### Modification of Privacy Policy
 
-We have all right for the modification of above Privacy Policy statements without your prior notice or information. If you still have queries regarding out Privacy Policy, then [Contact us](http://xiaomiadvices.com/contact-us/) by filling the form below.
+We have all right for the modification of above Privacy Policy statements without your prior notice or information. If you still have queries regarding out Privacy Policy, then [Contact us](https://xiaomiadvices.com/contact-us/) by filling the form below.
