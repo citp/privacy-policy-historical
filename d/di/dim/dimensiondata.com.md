@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dimensiondata.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626161654id_/https%3A//www2.dimensiondata.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dimensiondata.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227011410id_/https%3A//www.dimensiondata.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Dimension Data Privacy Policy | Dimension Data
 
@@ -38,11 +38,11 @@ We do not collect sensitive personal data about you, e.g. information relating t
 
 We may collect your personal data from you in a variety of ways when you interact with us, including:
 
-  * when you access our Online Services, or interact with us in any other way, or use our solutions and services.
+  * when you access our Online Services, or interact with us in any other way, or use our solutions and services. 
     * We collect personal data when you place orders for our solutions and services, you create an account with us, we process your orders and payment transactions, perform administrative and business functions, market our solutions and services to you and when you register for our events, workshops and seminars or subscribe to our mailing lists and newsletters.
-  * when you communicate with us.
+  * when you communicate with us. 
     * We collect personal data when we respond to your inquiries and requests, obtain feedback from you about our solutions and services or you apply for employment with us.
-  * from third party sources.
+  * from third party sources. 
     * We collect personal data from third parties, including public databases, social media sites, business partners with whom we offer co-branded services or engage in joint marketing activities and third parties that provide list enhancement or similar services.
 
 
@@ -64,7 +64,7 @@ When we process your personal data in connection with the purposes set out in th
 
 We may use your personal data to:
 
-  * enable you to effectively use and to improve our solution and services. For example, to:
+  * enable you to effectively use and to improve our solution and services. For example, to: 
     * perform administrative and business functions and internal reporting.
     * send administrative information to you.
     * obtain feedback from you about our services and solutions including through client satisfaction surveys, in which event, we will only use your personal data for the sole purpose of sending you a survey (through our third party email delivery provider).
@@ -77,7 +77,7 @@ We may use your personal data to:
 
 We engage in these activities to manage our contractual relationship with you, to comply with our legal obligations, or for our legitimate business interests.
 
-  * provide you with marketing materials and to personalise your experience. For example, to:
+  * provide you with marketing materials and to personalise your experience. For example, to: 
     * send marketing communications to you.
     * provide you with a more personalised experience when you interact with us.
     * enable you to subscribe to our newsletters and mailing lists.
@@ -87,7 +87,7 @@ We engage in these activities to manage our contractual relationship with you, t
 
 We engage in these activities with your consent or for our legitimate business interests.
 
-  * achieve our business purposes and analyse information. For example, to:
+  * achieve our business purposes and analyse information. For example, to: 
     * establish, manage, and maintain our business relationship with you.
     * compile usage statistics for our Online Services.
     * recruit staff.
@@ -102,12 +102,12 @@ We engage in these activities to manage our contractual relationship with you, t
 
 We may share your personal data for the purposes set out in this Privacy Statement (as applicable):
 
-  * with our affiliates and subsidiaries for the purposes set out in this Privacy Statement. A list of our affiliates is available [here](https://web.archive.org/en/insights/-/media/dd/corporate/pdfs/dimension_data_operating_companies.pdf). Dimension Data Holdings plc is the party responsible for the management of jointly used personal data.
+  * with our affiliates and subsidiaries for the purposes set out in this Privacy Statement. A list of our affiliates is available [here](https://web.archive.org/en/insights/-/media/dd/corporate/pdfs/Dimension_Data_Operating_Companies_30_June_2018). Dimension Data Holdings plc is the party responsible for the management of jointly used personal data.
   * with business partners with whom we offer co-branded services or engage in joint marketing activities.
   * with service providers to provide operational services or facilitate transactions on our behalf, including but not limited to processing of orders, assisting with sales-related activities or post-sales support, client support, email delivery, data analytics and auditing.
   * where you consent to the sharing of your personal data.
   * in connection with, any joint venture, merger, sale of company assets, consolidation or restructuring, financing, or acquisition of all or a portion of our business by or to another company.
-  * for other legal reasons.
+  * for other legal reasons. 
     * We may share your personal data in response to a request for information by a competent authority in accordance with, or required by any applicable law, regulation or legal process;
     * where necessary to comply with judicial proceedings, court orders or government orders; or
     * to protect the rights, property or safety of Dimension Data, its business partners, you, or others, or as otherwise required by applicable law.
@@ -137,12 +137,12 @@ Dimension Data adheres to applicable data protection laws in the EEA, which prov
   * the right to receive your personal data from us in a structured, commonly used and machine readable format and to transmit your personal data to a third party without obstruction (right to data portability) in certain circumstances.
   * where we process personal data based on your consent, you have the right to withdraw your consent at any time for future processing.
   * where we process your personal data based upon our legitimate interests or those of a third party, you have the right to object to the processing of your personal data at any time (including to any profiling).
-  * where we process your personal data for direct marketing purposes, you have the right to object to processing of your personal data at any time, including profiling to the extent that it is related to such direct marketing. 
+  * where we process your personal data for direct marketing purposes, you have the right to object to processing of your personal data at any time, including profiling to the extent that it is related to such direct marketing.
   * the right not to be subject to a decision based solely on automated processing, including profiling, which produces legal effects concerning you or similarly significantly affects you.
 
 
 
-You may lodge a complaint with a data protection supervisory authority if you believe that your data protection rights relating to your personal data have been breached by Dimension Data or that your personal data has been compromised in some way. A list of data protection authorities is available at <http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080>.
+You may lodge a complaint with a data protection supervisory authority if you believe that your data protection rights relating to your personal data have been breached by Dimension Data or that your personal data has been compromised in some way. A list of data protection authorities is available at <http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080>.
 
 You may contact us with requests, complaints or questions regarding these rights as set forth in the “How to contact us” section, below.
 
@@ -169,7 +169,7 @@ These technologies collect information that your browser sends to our Online Ser
 
 Our Online Services may also contain web beacons or similar technologies from third party analytics providers, through which they collect information about your activities across our Online Services to help us compile aggregated statistics.
 
-For more information on how we use cookies and other technologies please see our cookies statement which you can find [here](https://web.archive.org/en/cookies-policy)[.](https://web.archive.org/en/cookies-policy)
+For more information on how we use cookies and other technologies please see our cookies statement which you can find [here](https://web.archive.org/en/cookies-policy)[.](https://web.archive.org/en/cookies-policy)
 
 ## 12\. Links to third party websites and applications
 
@@ -180,17 +180,17 @@ Our Online Services may contain links to third party websites and applications. 
 We may send you direct marketing communications about our solutions and services. You can choose whether you wish to receive marketing communications from Dimension Data by email, SMS, post and phone. You may opt out of receiving marketing materials from us at any time and manage your communication preferences by:
 
   * following the unsubscribe instructions included in each marketing email or SMS text message from us;
-  * sending an email to queries@dimensiondata.com; or
+  * sending an email to [privacyoffice@dimensiondata.com](mailto:privacyoffice@dimensiondata.com); or
   * writing to:
   * Dimension Data
-  * Attn: Group Marketing Director - Operations
-  * 4th floor Verde Building,
-  * 10 Bressenden Place
-  * Victoria,
-  * London SW1E 5DH
-  * including your details and a description of the marketing material you no longer wish to receive from us. We will comply with your request as soon as is reasonably practicable.
+  * Attn: Group Data Protection Officer
+  * 57 Sloane Street, The Campus, Bryanston,
+  * Wanderers Building, Second Floor
+  * Johannesburg, South Africa 2021
 
 
+
+Include your details and a description of the marketing material you no longer wish to receive from us. We will comply with your request as soon as is reasonably practicable.
 
 If you opt out of receiving marketing related communications from us, we may still send you administrative messages as part of your ongoing use of our solutions and services, which you will be unable to opt out of.
 
@@ -216,13 +216,13 @@ We encourage you to regularly review this Privacy Statement to stay informed abo
 
 ## 16\. How to contact us
 
-If you have any questions about how your personal data is handled by Dimension Data, you have a privacy concern or you wish to make a request or a complaint relating to your personal data, please contact us. 
+If you have any questions about how your personal data is handled by Dimension Data, you have a privacy concern or you wish to make a request or a complaint relating to your personal data, please contact us.
 
-You can reach us at [Group.Legal@za.didata.com](mailto://Group.Legal@za.didata.com) or at:
+You can reach us at [privacyoffice@dimensiondata.com](mailto:privacyoffice@dimensiondata.com) or at:
 
 **Dimension Data Group**  
-**Attn:** Group Legal Manager  
+**Attn:**  Group Data Protection Officer  
 57 Sloane Street, The Campus, Bryanston,  
 Wanderers Building, Second Floor,  
 Johannesburg, South Africa 2021  
-**Last modified:** 16 May 2018
+**Last modified:**   7 November 2018
