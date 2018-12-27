@@ -1,106 +1,159 @@
-> *The following text is extracted and transformed from the freezecracker.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228002309id_/http%3A//www.proboards.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freezecracker.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227134010id_/https%3A//www.proboards.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | ProBoards
 
-ProBoards is committed to respecting Your privacy rights. ProBoards created this Privacy Policy to give You confidence as You visit and use the Website, and to demonstrate its commitment to fair information practices and to the protection of privacy.
+**Last Updated May 9, 2018**
 
-This Privacy Policy explains:
+ProBoards, Inc. (“ProBoards”) has published this Privacy Policy to explain how ProBoards collects, uses and shares information from you when you use the ProBoards.com website (the “Website”). 
 
-  * What information we collect and why we collect it;
-  * How we use and/or share the information, and who we share it with; and
-  * How we notify You of changes to the Privacy Policy.
+**1\. Who controls your personal information?**
 
+> Any personal information provided to or gathered by ProBoards via the Website is controlled by ProBoards, Inc., 26060 Towne Centre Drive, Foothill Ranch, California 92610, United States. 
 
+**2\. What kinds of information do we collect from you?**
 
-Capitalized terms not defined in this Privacy Policy have the same meanings as in ProBoards' [Website Terms of Service](https://web.archive.org/tos). This Privacy Policy is only applicable to the Website and not to any websites of third parties ( **"Third-Party Websites"** ), which may have data collection, storage and use practices and policies that differ materially from this Privacy Policy. For additional information, see the section concerning Third-Party Websites, below.
-
-1\. **CHILDREN'S PRIVACY**
-
-> ProBoards does not solicit or knowingly collect personally identifiable information from children under the age of 13. If ProBoards obtains actual knowledge that it has collected personally identifiable information from a child under the age of 13, ProBoards will immediately delete such information from its database. Because ProBoards does not collect personally identifiable information from children under the age of 13, ProBoards has no such information to use or disclose to third parties. ProBoards has designed this Privacy Policy in order to comply with the Children's Online Privacy Protection Act (COPPA).
-
-2\. **INFORMATION COLLECTION PRACTICES**
-
-> a. **Traffic Data.** ProBoards may automatically gather information of the sort that browsers automatically make available, including: (i) IP addresses; (ii) domain servers; (iii) types of computers accessing the Website; and (iv) types of Web browsers accessing the Website (collectively " **Traffic Data** "). This includes the use of analytics service [Capturly](https://www.capturly.com/) (read [Capturly's Privacy Policy](https://capturly.com/privacy) or [opt out](https://capturly.com/optout)).
+> The amount and type of information we gather depends upon your use of the Website and, in some cases, what type of information you choose to disclose. We may collect the following information from you: 
 > 
-> b. " **Cookies** " are text files that are placed on your computer by websites that you visit or certain emails that you open. A Cookie acts as a string of information that a website stores on a user's computer, and that the user's browser provides to the website each time the user submits a query to the website. The purpose of a Cookie is to identify the user as a unique user of the Website.
+> **Information Provided by You to ProBoards**
 > 
-> ProBoards uses cookies on the Website for the following purposes:
+> When you sign up for a ProBoards account, or in order for you to use certain aspects of the website, you will be asked to provide ProBoards certain personal information about yourself, such as your e-mail address, your website URLs, your instant messaging screen names, your date of birth, and your gender. 
 > 
->   * to customize your experience on the Website to your interests
->   * to ensure that you do not see the same advertisements or informational messages repeatedly, and
->   * to store your session identifier so you do not have to re-enter it each time you visit the Website.
+> **Information You Make Public**
 > 
-In addition, ProBoard's Services may include Cookies placed by or shared with third parties, as described below in Section 2(c).
+> The Website contains features that allow you to upload, post, transmit, display, perform or distribute content, including personal information about yourself. For example, you may choose to include personal information within your ProBoards profile, which is available and accessible to all visitors of the Website. Any information that you choose to disclose by means of such features becomes public information over which ProBoards is unable to exercise control. You should exercise caution when deciding to disclose personal information by means of such features. 
 > 
-> You have the ability to delete and control Cookies. If You do not wish to have Cookies placed on Your computer, You should set your browsers to refuse Cookies before accessing the Website, with the understanding that certain of the Services and certain features of the Website may not function properly without the aid of Cookies. If You refuse cookies, You assume all responsibility for any resulting loss of functionality.
+> **Information About Your Device and Internet Connection**
 > 
-> You can learn more about how to delete or control cookies at [www.aboutcookies.org](http://www.aboutcookies.org/).
+> When you use the Website, we automatically gather information made available by your web browser (such as Microsoft Edge or Google Chrome), Internet service provider (such as Comcast or Cox), and device (such as your computer, mobile phone, or tablet), depending on your settings for each. For example, we may collect your IP address, information about the operating system or type of device you use, and the location of your device. 
 > 
-> c. **Ad Serving.** ProBoards uses third-parties including [Datonics](http://datonics.com/consumer-privacy-center) for advertising and analytics for pages that we host. These third-parties may place Cookies on Your machine, use web beacons, gather IP addresses and log data to collect traffic and activity data in order to deliver relevant metrics, content, and advertising. By using our Website, You consent to us sharing a hashed, non-human readable version of your email with our partners who will drop a Cookie on Your browser and match Your email with its marketing file to create a link between Your browser and our partner's record of You, which may include Your personal information (such as IP address, browser or operating system type and version, and demographic or inferred-interest information). This link shall be shared by our partner globally for the purpose of identifying You on unaffiliated websites, apps, or online services and improving the relevance of online advertising and content, including emails, based on your browsing habits by third parties that are unaffiliated with our Website. You may opt out of Your data being used for this purpose at our partners' opt-out centers located at:
+> **Payment Information**
+> 
+> All payments are processed by third-party vendors, such as Stripe. If you make any payment to ProBoards, we may send to these third-party vendors information related to the financial transaction, such as your credit or debit card information and billing address. ProBoards does not store or otherwise retain any credit or debit card information. 
+> 
+> **Information Provided by Third-Parties**
+> 
+> We receive information about you and your activities on and off ProBoards from third-party partners, such as partners who provide us with analytics regarding the Website or help us serve advertising on the Website. ProBoards is largely funded through third-party advertising, and without such ads, ProBoards would be unable to provide the Website and related services to its many users with free accounts. 
+> 
+> ProBoards may use third-parties for advertising and analytics for websites that we host. These third parties may place Cookies on your machine, use web beacons, gather IP addresses and log data to collect traffic and activity data in order to deliver relevant metrics, content, and advertising. By using our Website, you consent to us sharing a hashed (non-human readable) version of your email with our partners who will drop a Cookie (as explained in Section 3 below) on your browser and match your email with its marketing file to create a link between your browser and our partner's record of you, which may include your personal information (such as IP address, browser or operating system type and version, and demographic or inferred-interest information). This link may be shared by our partner globally for the purpose of identifying you on unaffiliated websites, apps, or online services and improving the relevance of online advertising and content, including emails, based on your browsing habits by third parties that are unaffiliated with our Website. You may opt out of your data being used for this purpose at our partners' opt-out centers located at: 
 > 
 >   * <http://www.youronlinechoices.com/uk/your-ad-choices>
 >   * <http://www.networkadvertising.org/choices/>
 >   * <http://www.aboutads.info/choices/>
+>   * <http://www.rubiconproject.com/privacy/consumer-online-profile-and-opt-out/>
+>   * [http://www.youradchoices.com](http://www.youradchoices.com/)
 > 
-  
->  d. **Personal Information Provided By You To ProBoards.** In order for You to use certain of the Website services, You will be asked to provide ProBoards certain information that personally identifies You ( **"Personal Information"** ). Personal Information includes, without limitation: (1) **"Contact Data"** (such as Your e-mail address, website URLs, and instant messaging screen names); and (2) **"Demographic Data"** (such as Your date of birth and gender). In each case, You will be asked to provide Personal Information; the Website will not gather it surreptitiously. ProBoards may supplement the Personal Information You provide with additional Personal Information gathered from public sources or from third-parties (e.g., consumer reporting agencies) who may lawfully provide such information to ProBoards.
+
+
+**3\. How do we use Cookies (and what can you do to control them)?**
+
+> “Cookies” are files that are placed on your computer by websites you visit. The purpose of a Cookie is to identify you as a unique user of the Website. ProBoards uses Cookies on the Website for the following purposes: 
 > 
-> You are under no obligation to provide Personal Information, with the caveat that Your refusal to do so may prevent You from using certain of the Services.
+>   * **For Verification** – ProBoards uses Cookies to verify your account and, if you choose, make it so you do not have to re-enter your login information each time you visit the Website. Cookies can also help us identify if someone may be trying to access your account without permission — for example, by making numerous failed login attempts in a row. 
+>   * **For Analytics and Performance** – As explained above in Section 2, we use Cookies, including those placed by third-party vendors, to gather information that helps us understand how you and other users engage with the Website and improve its performance. 
+>   * **For Security** – We may use cookies, including those placed by third-party vendors, to gather information that helps us maintain the security of our software and systems. 
+>   * **For Advertising** – As explained above in Section 2, we use Cookies, including those placed by third-party partners, to deliver ads to you and other users via the Website. Cookies may allow us and our partners to ensure you do not see the same advertisements repeatedly, help us identify and block unwanted advertising, and help us provide advertising customized to your interests, including by displaying ads to you for other websites you’ve previously visited. Cookies may also help us and our partners measure how often users click on ads or view ads. Cookies may further help us and our partners identify advertising fraud, for example identifying bots, multiple clicks, or fake clicks on ads. 
 > 
-> e. **Information You Make Public.** By registering with the Website, You are required to create a personal profile, which may include Personal Information. Personal Information contained in personal profiles is available and accessible to all visitors of the Website. The Website contains features that permit You to upload, post, transmit, display, perform or distribute content, information or other, including Your Personal Information. Any information that You choose to disclose by means of such features becomes public information over which ProBoards is unable to exercise control. You should exercise caution when deciding to disclose Your Personal Information by means of such features, and You agree to assume all responsibility for doing so.
 
-3\. **INFORMATION USE AND DISCLOSURE PRACTICES**
-
-> a. **Traffic Data and Information Gathered Using Cookies**
 > 
-> ProBoards analyzes Traffic Data and information gathered using Cookies to help ProBoards better understand who is using the Website and how they are using it. By identifying patterns and trends in usage, ProBoards is able to better design the Website to improve Your experience, and to serve You more relevant and interesting content and advertisements. From time to time, ProBoards may release Traffic Data and information gathered using Cookies in the aggregate, such as by publishing a report on trends in the usage of the Website. ProBoards does not attempt to link information gathered using Cookies to Personal Information.
+> Exponential Interactive, Inc, as our partner, have a legitimate interest to collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. For more details including opt-out requests, access requests or complaints, please review their [privacy policy](http://exponential.com/privacy/) or contact their data protection officer via [privacy@exponential.com](mailto:privacy@exponential.com). Exponential Interactive, Inc. may set a cookie on your machine called "ANON_ID" with the domain "tribalfusion.com". The function of this cookie is as follows: "The anonymous hashed id in the cookie links the web user's browser to a profile which contains the behaviors the user has displayed." This cookie is a persistent third party tracking cookie that expires after 3 months. 
 > 
-> b. **Personal Information**
->
->> i. **Generally.** ProBoards uses Your Contact Data to send You information about ProBoards and ProBoards' products and services, and to contact You when necessary in connection with the Services. ProBoards uses Your Demographic Data to customize and tailor Your experience on the Website. As with Traffic Data and information gathered using Cookies, from time to time ProBoards may release Demographic Data in the aggregate, such as by publishing a report on trends in the usage of the Website. In addition, ProBoards shares Demographic Data with its advertisers and marketing partners so that such third-parties may provide You with advertisements tailored to Your interests.
->> 
->> ii. **Disclosure Practices.**
->> 
->> Except as otherwise provided in this Privacy Policy, and under the following circumstances, ProBoards will keep Your Personal Information private, and will not share it with third parties.
->> 
->>   * **Disclosure in Connection with Services.** ProBoards discloses Personal Information to those who help it provide services, including those who perform technical, administrative and data processing tasks such as, but not limited to, ad serving, hosting, billing, fulfillment, and data storage and security.
->>   * **Opt-in Consent for Third Party Offers.** Upon registration, and from time to time thereafter, ProBoards may provide You with an opportunity to co-register for, or otherwise receive, offers, goods or services directly from advertisers and companies other than ProBoards ("Third Party Offers"). If You co-register for or opt-in to receive a Third Party Offer, ProBoards will share your Personal Information with such third party. The proprietors of the Third Party Offers may have their own terms of service, privacy policies, unsubscribe provisions, or other policies and they may ask You to agree to the same. ProBoards is not responsible for the policies or practices of the proprietors of any Third Party Offers You opt-in to receive. You are under no obligation to co-register for or opt-in to receive any Third Party Offer.
->>   * **By Law or to Protect Rights.** ProBoards discloses Personal Information when required to do so by law, or in response to a subpoena or court order, or when ProBoards believes in its sole discretion that disclosure is reasonably necessary to protect the property or rights of ProBoards, third-parties or the public at large.
->>   * **Business Transfers; Bankruptcy.** ProBoards reserves the right to transfer all Personal Information in its possession to a successor organization in the event of a merger, acquisition, or bankruptcy or other sale of all or a portion of ProBoards' assets. Other than to the extent ordered by a bankruptcy or other court, the use and disclosure of all transferred Personal Information will be subject to this Privacy Policy, or to a new privacy policy if You are given notice of that new privacy policy and an opportunity to affirmatively opt-out of it. Personal Information submitted or collected after a transfer, however, may be subject to a new privacy policy adopted by ProBoards' successor organization.
->>   * **License to User Content.** By using the Website, You grant the ProBoards Parties the right to publish Your Personal Information in connection with the ProBoards Parties' exercise of their license in and to Your User Content. You further waive any claims arising from the ProBoards Parties' exercise of that right. For additional information, see Terms of Service Section 15, regarding User Content.
->> 
+> You have the ability to delete and control Cookies. If you do not wish to have Cookies placed on your device, you can set your browser (such as Microsoft Edge or Google Chrome) to refuse Cookies before accessing the Website, with the understanding that certain features of the Website may not function without the aid of Cookies. 
+> 
+> You can learn more about how to delete or control Cookies at [www.aboutcookies.org](https://www.aboutcookies.org/). 
+
+**4\. How do we use your information?**
+
+> We may use the information we’ve gathered from you, including through Cookies, for the following purposes: 
+> 
+> **To Improve and Secure the Website**
+> 
+> ProBoards uses the information we collect from you and other users to provide, improve and secure the Website and related services. For example, we look at IP addresses to determine if they are on the “ban list” for a given forum, so that we can prevent access to the forum. As explained above in Section 2, we use Cookies, including those placed by third-party vendors, to gather information that helps us understand how you and other users engage with the Website and improve its performance, as well as for security. 
+> 
+> **To Provide Advertising**
+> 
+> As explained above in Section 2, ProBoards uses Cookies, including those placed by third-party partners, to deliver ads to you and other users via the Website. ProBoards is largely funded through third-party advertising, and without such ads, ProBoards would be unable to provide the Website and related services to its many users with free accounts. 
+> 
+> **To Customize Your Website Experience**
+> 
+> ProBoards uses Cookies to determine if you are logged in or not. For example, we use information gathered from you to update and display your “last login time,” and this information may also be used to calculate the displayed number of “users online” for a given forum and identify your account as being online for other users to view. ProBoards uses information gathered from you to customize your experience on the Website according to your interests and preferences. For example, we may use a Cookie to identify if a sidebar should be displayed as “open” or “closed.” 
+> 
+> **To Communicate with You**
+> 
+> When you register with the Website, you consent to receive periodic email communications regarding ProBoards, including promotional emails for new products and services, promotions, and other offers. ProBoards uses the email address you provide to send these communications to you. You can unsubscribe from promotional emails at any time by clicking the unsubscribe link that is conveniently located at the bottom of each email, but we will still send you any necessary, non-promotional emails about your account or updates to our policies and terms. We also use your contact information to respond to you when you contact us. 
+
+**5\. Who do we share your information with?**
+
+> ProBoards’ Website and related services facilitate participation in online forums with other users. We make this possible by sharing your information in the following ways: 
+> 
+> **Information You Choose to Share Through ProBoards**
+> 
+> The Website contains features that allow you to upload, post, transmit, display, perform or distribute content, including personal information about yourself. Once you have chosen to divulge information about yourself to another user, multiple users, or the public at large through the Website—including in a “members-only” forum, direct message or otherwise—such information can be copied, transmitted or displayed by the recipient(s) and is no longer within ProBoards’ ability to control. For example, when you share information in a public forum, it may be indexed by search engines (such as Google, Bing, or Boardreader). You should exercise caution when deciding to disclose personal information by means of such features. 
+> 
+> Similarly, when you share information in a forum, whether private or public, you are contributing to an online conversation or thread. In ProBoards’ experience, threads are deprived of necessary context, and are sometimes rendered false or misleading, when select posts are altered or deleted after the fact. For this reason, ProBoards does not allow you to bulk delete your content or associated username from published posts. In addition, your ability to edit or delete your content may depend on forum-specific rules and settings designated by moderators or administrators, so you should think carefully about what you post before you do so. 
+> 
+> **Information Shared with Forum Users**
+> 
+> When you join, access, or post on a forum, information may be shared with other members (such as forum moderators, administrators, or other users), including the content you posted, your IP address, email address, gender (unless set to “private” by you in your user settings), and birthdate (unless set to “private” by you). For example, when you visit a forum, your IP address is logged and may be viewable by users that have been provided the ability to view IP addresses by forum administrators or moderators. 
+> 
+> **Information Shared with Related Companies**
+> 
+> We may share information collected about you within the ProBoards family of websites and companies, which includes ProBoards and Forums.net (a private forum platform). Please note that the ProBoards family of websites and companies is located within the United States. Thus, if you are located within the European Economic Area (“EEA”), your information will be transferred to countries outside of the EEA, including the United States, for the purposes described in this Privacy Policy. 
+> 
+> In addition, in the event of a merger, acquisition, or bankruptcy, ProBoards reserves the right to transfer all user information to a successor company. ProBoards will provide notice to you by email in such an event. 
+> 
+> **Information Shared with Third-Party Partners**
+> 
+> As explained throughout this Privacy Policy, ProBoards works with third-parties to improve and secure the Website and related services, and to provide advertising, which makes it possible for ProBoards to offer the Website and services to its many users with free accounts. The following are the types of third-parties ProBoards may share your information with: 
+> 
+>   * Analytics services;
+>   * Advertising companies, networks and affiliates;
+>   * Search engines that specialize in the indexing of public forum content;
+>   * Mobile application providers that make ProBoards forums available for viewing through mobile apps;
+>   * Data and Website security providers;
+>   * Payment processors, accounting services, and shopping cart providers;
+>   * Live chat and customer service providers;
+>   * Email delivery providers;
+>   * Data analysis service providers that may allow us to identify content in violation of our Terms of Service;
+>   * Notification service providers that help deliver relevant notifications to your devices;
+>   * Providers that you have opted-in to receive services from; and
+>   * Service providers that may allow us to update and enhance our services.
+> 
+**Information Shared to Comply with the Law and Legal Process**
+> 
+> ProBoards may disclose your information when required to do so by law, such as in response to a subpoena or court order, or when ProBoards, in its sole discretion, believes that disclosure is necessary to report, address or prevent fraud or other illegal activity or misconduct, or to protect the property or rights of ProBoards, third-parties or the public at large. 
+
+**6\. How do we secure your information?**
+
+> ProBoards has implemented and maintains reasonable security procedures and practices to protect against the unauthorized access, use or disclosure of your information. Among other things, we: 
+> 
+>   * Host our servers with in secure data center facilities;
+>   * Use the services of Cloudflare to block DDoS attacks, bots, malicious traffic, and secure our login systems with HTTPS/SSL;
+>   * Store passwords in a secure format, not plain text;
+>   * Use firewalls and a secure VPN to provide further security to our systems; and
+>   * Maintain a thorough Cyber Security Response Plan.
+> 
 
 
-4\. **CALIFORNIA DO NOT TRACK DISCLOSURE**
+**7\. How can you manage information we’ve collected from you?**
 
-"Do Not Track" or "DNT" is a technology that, when used by You, sends a signal to the websites You visit communicating Your previously-set tracking preferences to the website. ProBoards does not respond to DNT signals because ProBoards does not track individual users across the Internet.
+> You can manage the content and information you share by logging into your account. You can also download information associated with your ProBoards account by visiting your [Account Settings](https://www.proboards.com/account/settings) page. You can delete your account at any time. Bear in mind that your posts, and all other information you have shared with third-parties through ProBoards will not be removed from the Website when you delete your account. When you delete your account, your username remains associated with all posts you have made, but it is no longer linked to your profile. ProBoards stores data for as long as is necessary to provide the Website and related services, so the information associated with your account will be kept until your account is deleted and said information is no longer needed to provide the Website and related services. 
 
-5\. **CONSENT TO RECEIVE EMAIL FROM PROBOARDS**
+**8\. How do we protect the privacy of children?**
 
-By registering with the Website, you thereby consent to receive periodic email communications regarding the Services, new product offers, promotions and other matters, which emails may include the placement of pixels.
+> ProBoards does not solicit or knowingly collect personal information from children under the age of 13. If ProBoards obtains actual knowledge that it has collected personal information from a child under the age of 13, ProBoards will immediately delete such information from its database. Because ProBoards does not collect personally identifiable information from children under the age of 13, ProBoards has no such information to use or disclose to third-parties. ProBoards has designed this Privacy Policy in order to comply with the Children’s Online Privacy Protection Act (COPPA). 
 
-6\. **CONSENT TO RECEIVE EMAIL COMMUNICATIONS FROM MEMBERS**
+**9\. Do we respond to Do Not Track (DNT) Signals?**
 
-By registering with the Website, your thereby consent to receive electronic communications, including email and personal messages from other Website members.
+> DNT is a feature offered by some browsers which, when enabled, sends a signal to websites to request that your browsing is not tracked. ProBoards does not currently respond to DNT requests. 
 
-7\. **SECURITY OF PERSONAL INFORMATION**
+**10\. What about third-party websites?**
 
-ProBoards has implemented and maintains reasonable security procedures and practices to protect against the unauthorized access, use, modification, destruction or disclosure of Your Personal Information.
+> This Privacy Policy only applies to the Website, and not any third-party websites that you may visit as a result of clicking on a link or ad within the Website. Third-party websites are under no obligation to comply with this Privacy Policy. Before visiting or providing personal information to a third-party website, you should inform yourself of the privacy policies and practices (if any) of that third-party website, and should take those steps necessary to, in your discretion, protect your privacy. 
 
-8\. **USER ABILITY TO ACCESS, UPDATE, AND CORRECT PERSONAL INFORMATION**
+**11\. How do we notify you of changes to the Privacy Policy?**
 
-ProBoards wants Your Personal Information to be complete and accurate. By using the Website, You represent and warrant that all information You provide on any registration form or otherwise in connection with Your use of the Website and Services will be complete and accurate, and that You will update that information as necessary to maintain its completeness and accuracy. To confirm the completeness and accuracy of, or make changes to, Your Personal Information, please visit your account profile.
+> Each time you use the Website, the then-current version of this Privacy Policy will apply. Although most changes are likely to be minor, ProBoards reserves the right to modify this Privacy Policy by posting such modification on this page; however, if changes are significant, ProBoards may provide a more prominent notice or email you. Unless ProBoards obtains your express consent, any revised Privacy Policy will apply only to information collected after the effective date of such revised Privacy Policy, and not to information collected under any earlier version. 
 
-9\. **THIRD-PARTY WEBSITES**
+**12\. How can you contact us?**
 
-ProBoards neither owns nor controls Third-Party Websites. Accordingly, Third-Party Websites are under no obligation to comply with this Privacy Policy. Before visiting or providing Personal Information to a Third-Party Website, You should inform Yourself of the privacy policies and practices (if any) of that Third-Party Website, and should take those steps necessary to, in Your discretion, protect Your privacy.
-
-10\. **PROMOTIONAL ACTIVITIES**
-
-From time to time, ProBoards may conduct contests, giveaways and other promotions (collectively, " **Promotional Activities** "). Any information submitted in connection with Promotional Activities will be treated in accordance with this Privacy Policy. From time to time, ProBoards may also ask You to participate in surveys designed to help ProBoards improve the Websites or Services. Any Personal Information provided to ProBoards in connection with any survey will be used only in relation to that survey, and will be disclosed to third parties not bound by this Privacy Policy only in aggregated form.
-
-11\. **CHANGES TO PRIVACY POLICY**
-
-Each time You use the Website, the then-current version of this Privacy Policy will apply. Accordingly, each time You use the Website, You should check the date of this Privacy Policy (which appears below) and review any changes since the last time You used the Website. Although most changes are likely to be minor, ProBoards reserves the right to modify this Privacy Policy by posting such modification on this page; however, if changes are significant, ProBoards may provide a more prominent notice. Unless ProBoards obtains Your express consent, any revised Privacy Policy will apply only to information collected after the effective date of such revised Privacy Policy, and not to information collected under any earlier Privacy Policy.
-
-Effective Date: June 1, 2016 
+> If you have questions about this Privacy Policy, you can reach us through our [Support Forum](http://support.proboards.com/). 
