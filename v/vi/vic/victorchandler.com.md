@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the victorchandler.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626170442id_/https%3A//www.betvictor.com/en-gb/sports/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the victorchandler.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227010155id_/https%3A//www.betvictor.com/en-gb/sports/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BetVictor
 
@@ -78,7 +78,7 @@ Gibraltar Gambling Commissioner
 
 | 
 
-Gambling Commission of Great Britain (Licence Number 000-039576-R-319370-009 to (a) provide facilities for real event betting other than pool betting; (b) to manufacture, supply, install or adapt gambling software; and (c ) to operate a casino; and (d) to provide facilities for virtual event betting other than pool betting or betting on real events, to provide facilities for pool betting).  
+Gambling Commission of Great Britain (Licence Number 000-039576-R-319370-011 to (a) provide facilities for real event betting other than pool betting; (b) to manufacture, supply, install or adapt gambling software; and (c ) to operate a casino; and (d) to provide facilities for virtual event betting other than pool betting or betting on real events, to provide facilities for pool betting).  
   
 **Regulated in the UK by**
 
@@ -128,7 +128,7 @@ BetVictor Limited
 
 | 
 
-Head of Compliance  
+Director of Business Process & Procurement  
   
 **Email address**
 
@@ -140,7 +140,7 @@ Head of Compliance
 
 | 
 
-Data Protection Officer (Head of Compliance), BetVictor Limited, Suite 2:01, World Trade Center, Bayside Road, Gibraltar, GX11 1AA.  
+Data Protection Officer (Director of Business Process & Procurement), BetVictor Limited, Suite 2:01, World Trade Center, Bayside Road, Gibraltar, GX11 1AA.  
   
 You have the right to make a complaint at any time to the Gibraltar Regulatory Authority ( **GRA** ), the Gibraltar supervisory authority for data protection issues (www.gra.gi). We would, however, appreciate the chance to deal with your concerns before you approach the GRA so please contact us in the first instance.
 
