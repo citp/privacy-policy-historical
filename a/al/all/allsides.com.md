@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the allsides.com privacy policy that was archived on 2017-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170909233801id_/https%3A//www.allsides.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allsides.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227205747id_/https%3A//www.allsides.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AllSides
 
-#### AllSides, Inc. Privacy Policy
+#### AllSides Privacy Policy
 
 We at AllSides believe in protecting the privacy of your personally identifiable information. Therefore, we have put together this Privacy Policy to inform you of how we plan to use your information and protect it. This Privacy Policy applies only to information collected on allsides.com. We will post updates to the Privacy Policy here with so please check back from time to time to view any updates.
 
@@ -48,7 +48,7 @@ This online Privacy Policy applies only to information collected through our Web
 
 #### Terms and Conditions
 
-Please also visit our [Terms of Use](https://web.archive.org/web/20170910234644id_/https://www.allsides.com/terms-of-use) section establishing the use, disclaimers, and limitations of liability governing the use of our Website.
+Please also visit our [Terms of Use](https://web.archive.org/web/20181214054511id_/https://www.allsides.com/terms-of-use) section establishing the use, disclaimers, and limitations of liability governing the use of our Website.
 
 #### Your Consent
 
@@ -64,7 +64,7 @@ If there are any questions regarding this Privacy Policy you may contact us usin
 
 [www.allsides.com](http://www.allsides.com/)
 
-AllSides, Inc.  
+AllSides   
 PO Box 590751  
 San Francisco, California 94159 USA  
 info@allsides.com  
