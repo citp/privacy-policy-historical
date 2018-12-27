@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hindawi.com privacy policy that was archived on 2018-05-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180524043710id_/https%3A//www.hindawi.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hindawi.com privacy policy that was archived on 2018-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181227083033id_/https%3A//www.hindawi.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml">
 <head>
@@ -22,12 +22,19 @@
 
 
     <title>Hindawi</title>    
-	<link href="/styles/master.css?ver=29" rel="stylesheet" type="text/css" />
-	<link href="/styles/xml_display.css?ver=17" rel="stylesheet" type="text/css" />
-	<link href="/styles/hindawi.css?ver=15" rel="stylesheet" type="text/css" />
+	<link href="/styles/master.css?ver=37" rel="stylesheet" type="text/css" />
+	<link href="/styles/xml_display.css?ver=22" rel="stylesheet" type="text/css" />
+	<link href="/styles/hindawi.css?ver=18" rel="stylesheet" type="text/css" />
+    <link href="/styles/icons.css" rel="stylesheet" type="text/css" />
+
     <!--[if lt IE 9]>
      <link rel="stylesheet" type="text/css" href="/styles/ielte8.css" />
     <![endif]-->
+
+    <!-- Magnific Popup files -->
+    <link rel="stylesheet" href="/styles/magnific-popup.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+
    <link rel="apple-touch-icon-precomposed" href="/images/apple-touch-icon-precomposed.png" />
    <link rel="apple-touch-icon" sizes="72x72" href="/images/apple-touch-icon-72x72.png" />
    <link rel="apple-touch-icon" sizes="114x114" href="/images/apple-touch-icon-114x114.png" />
@@ -47,7 +54,7 @@
         <meta name="twitter:site" content="Hindawi" />
 		<meta name="twitter:title" content="Hindawi" />
 		<meta name="twitter:description" content="Hindawi is one of the world’s largest publishers of peer-reviewed, fully Open Access journals. Built on an ethos of openness, we are passionate about working with the global academic community to promote open scholarly research to the world. With the help of our academic Editors, based in institutions around the globe, we are able to focus on serving our authors while preserving robust publishing standards and editorial integrity." />
-		<meta name="twitter:image" content="https://about.hindawi.com/wp-content/uploads/2017/05/Hindawi_Default.png" />				
+		<meta name="twitter:image" content="https://www.hindawi.com/images/hindawi_default.png" />				
 
 		    <link href="/styles/print.css" rel="stylesheet" type="text/css" media="print" />
 	    <link rel="alternate" type="application/rss+xml" title="Hindawi latest articles" href="/rss.xml" />
@@ -73,7 +80,7 @@
 
 
 
-<script async="" type="text/javascript" src="//trackcmp.net/visit?actid=609629776&amp;e=&amp;r=&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20180524043710id_%2Fhttps%3A%2F%2Fwww.hindawi.com%2Fprivacy%2F"></script></head>
+<script async="" type="text/javascript" src="//trackcmp.net/visit?actid=609629776&amp;e=&amp;r=&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20181227083033id_%2Fhttps%3A%2F%2Fwww.hindawi.com%2Fprivacy%2F"></script></head>
 
 <body><div class="notification "><div class="cookies"><a href="#null" data-cc-event="click:dismiss" target="_blank" class="btn_accept">✕</a><p class="cc_message">By using this website, you consent to the use of cookies as described in our  <a data-cc-if="options.link" target="_self" class="cc_more_info" href="https://web.archive.org/web/20171005032846/https://www.hindawi.com/privacy/">Privacy Policy</a></p></div></div>
 
@@ -98,56 +105,52 @@
 			<div id="SearchPanel">
 				<div class="search_container">
 					<div class="search">
-						<form action="/search/" method="post">
-						<input type="text" name="TxtSearchField1" id="TxtSearchField1_g" class="search_field" />
-						<input type="hidden" name="DdlSearchField1" id="DdlSearchField1_g" value="AllFields" />
-						<input type="submit" id="Button1" class="search_button" value="Go" />
+						<form action="/search/" method="post">						
+                        <input type="text" name="TxtSearchField1" id="TxtSearchField1_g" class="search_field" placeholder="Search" />
+						<input type="hidden" name="DdlSearchField1" id="DdlSearchField1_g" value="AllFields" />						
+                        <button type="submit" id="Button1" class="search_button icon-search" value=""></button>
 						</form>
 					</div>
 				</div>
 			</div>
 				<div id="dvslogan" class="slogan"></div>
-		</div>
-		<div id="dvLinks" class="hindawi_links">
-			<ul>
-				<li><a href="/">Home</a></li>
-				<li><a href="/journals/">Journals</a></li>
-				<li><a href="http://about.hindawi.com" target="_blank">About Us</a></li>
-			</ul>
-		</div>
+		</div>		
+        <div id="dvLinks" class="hindawi_links">
+            <ul>
+                <li><a href="/journals/">Browse Journals</a></li>
+                <li><a href="/authors/">Authors</a></li>
+                <li><a href="/editors/">Editors</a></li>
+                <li><a href="https://about.hindawi.com/">About Us</a></li>
+            </ul>
+        </div>
 		<div id="banner">
 				<img id="ImgTitle" width="1022" height="130" src="https://images.hindawi.com/images/banners/home.banner.jpg" alt="Hindawi" />
 		</div>
 		<div id="journal_navigation">
-		</div>
-		<div id="content">
-			<!--left column-->
-			<div id="left_column">
-				<!--left column-->
-			        <div class="left_column_list">
-                    <div class="menu_title"><span>Information Menu</span></div>
-						           
+        </div>
+        <div id="content">
+            <!--left column-->
+            <div id="left_column">
+                <!--left column-->
+                    <div class="left_column_list">
+                        <div class="menu_title">
+                            <span>Information Menu</span></div>
+                                   
   <ul id="BltHomeInformation">
-	   <li><a href="/ai/">Abstracting and Indexing</a><span> · </span></li>
-	   <li><a href="/journals/">Browse Journals</a><span> · </span></li>
-	   <li><a href="/memberships/">Open Access Memberships</a><span> · </span></li>
-	   <li><a href="/ethics/">Publication Ethics</a><span> · </span></li>
+	   <li><a href="https://about.hindawi.com/institutions/">Institutional Memberships</a><span> · </span></li>
+	   <li><a href="https://about.hindawi.com/publishers/">Publishing Partnerships</a><span> · </span></li>
 	   <li><a href="/resources/">Resources and Tools</a><span> · </span></li>
-           <li><a href="/subs/">Subscription Information</a></li>
-  </ul>                    
-					</div>
-					<div class="open_access">
-						<a href="https://about.hindawi.com/authors/open-access/" target="_blank">
-							<img alt="" src="/images/blank_img.gif" /></a> <span>
-								<object type="image/svg+xml" data="/images/open_access.svg" name="Open_Access">
-								</object>
-							</span>
-					</div> 
-					<div id="dvMTS" class="mts">
-						<a href="http://mts.hindawi.com">Login to the Manuscript Tracking System
-						</a>
-					</div>
-				<!--end left column-->
+	   <li><a href="/about.apcs/">Article Processing Charges</a><span> · </span></li>
+	   <li><a href="/subscriptions/">Subscription Information</a><span> · </span></li>
+	   <li><a href="/peer.review/">Peer Review at Hindawi</a><span> · </span></li>
+           <li><a href="/ethics/">Publication Ethics</a></li>
+  </ul>
+                    </div>
+                        <div id="dvMTS" class="mts">
+                            <a href="http://mts.hindawi.com">Login to the Manuscript Tracking System
+                            </a>
+                        </div>
+                <!--end left column-->
 				<!--middle content-->
 			</div>
 		   
@@ -211,11 +214,106 @@
 		</div>
 	</div>
 	<div id="footer">
-      <div>
-        <a href="/contact/">Contact Us</a><span class="sep"> | </span><a href="/terms/">Terms of Service</a><span class="sep"> | </span><a href="/privacy/">Privacy Policy</a>
-      </div>
-    </div>
+        <footer>
+          <div class="footer-container">
 
+
+            <div class="social">
+              <h6>Follow Us</h6>
+              <ul>
+                <li>
+                  <a href="https://www.linkedin.com/company/hindawi" target="_blank" title="Follow us on Linkedin" class="icon-linkedin-clean"></a>
+                </li>
+                <li>
+                  <a href="https://www.facebook.com/HindawiPublishing/" target="_blank" title="Follow us on Facebook" class="icon-facebook-clean"></a>
+                </li>
+                <li>
+                  <a href="https://twitter.com/hindawi" target="_blank" title="Follow us on Twitter" class="icon-twitter-clean"></a>
+                </li>
+                <li>
+                  <a href="https://www.youtube.com/channel/UCDIK_O7FATPEkhad_sQVaSg" target="_blank" title="Follow us on Youtube" class="icon-youtube-clean"></a>
+                </li>
+                <li>
+                  <a href="https://medium.com/@Hindawi" target="_blank" title="Follow us on Medium" class="icon-medium"></a>
+                </li>
+              </ul>
+            </div>
+
+            <div class="footer-links">
+              <div>
+                <h6>About Hindawi</h6>
+                <ul>
+        
+                  <li>
+                    <a href="https://about.hindawi.com/team/">Meet the Team</a>
+                  </li>
+                  <li>
+                    <a href="/contact.us/">Contact Us</a>
+                  </li>
+                  <li>
+                    <a href="https://about.hindawi.com/blog/">Blog</a>
+                  </li>
+                  <li><a href="https://about.hindawi.com/jobs/">Jobs</a></li>
+                </ul>
+              </div>
+              <div>
+                <h6>Publish with Us</h6>
+                <ul>
+        
+                  <li>
+                    <a href="https://mts.hindawi.com/">Submit Manuscript</a>
+                  </li>
+                  <li>
+                    <a href="/journals/">Browse Journals</a>
+                  </li>
+                  <li>
+                    <a href="/authors/">For Authors</a>
+                  </li>
+        
+                </ul>
+              </div>
+        
+        
+              <div>
+                <h6>Work with Us</h6>
+                <ul>
+        
+                  <li>
+                    <a href="https://about.hindawi.com/institutions/">Institutions</a>
+                  </li>
+                  <li>
+                    <a href="https://about.hindawi.com/publishers/">Publishers</a>
+                  </li>
+                  <li>
+                    <a href="/editors/">Editors</a>
+                  </li>
+                </ul>
+              </div>
+        
+              <div>
+                <h6>Legal</h6>
+                <ul>
+        
+                  <li>
+                    <a href="/terms/">Terms of Service</a>
+                  </li>
+                  <li>
+                    <a href="/privacy/">Privacy Policy</a>
+                  </li>
+                  <li>
+                    <a href="/copyright/">Copyright</a>
+                  </li>
+                </ul>
+              </div>
+        
+            </div>
+          </div>        
+          <p>© 2018 Hindawi Limited unless otherwise stated.</p>
+        </footer>   
+	</div>
+
+    <script type="text/javascript" src="/scripts/jquery.magnific-popup.js"></script>
+    <script type="text/javascript" src="/scripts/jquery.magnific-popup-initializer.js"></script>
 
 	
 
