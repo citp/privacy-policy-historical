@@ -1,7 +1,18 @@
-<!--The following is the downloaded HTML source of the starzpsychics.com privacy policy that was archived on 2018-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180627082031id_/https%3A//starzpsychics.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the starzpsychics.com privacy policy that was archived on 2018-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181227160313id_/https%3A//starzpsychics.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="https://www.w3.org/1999/xhtml"><head>
+
+  <script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script async="" src="https://mylivechat.com/chatinline.aspx?hccid=14452533"></script><script id="facebook-jssdk" src="https://connect.facebook.net/en_US/sdk.js"></script><script src="https://script.crazyegg.com/pages/scripts/0042/1101.js?439487" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-4824027-3', 'auto');
+  ga('send', 'pageview');
+  </script>
+  
+  
     
   <title>Starz Psychics - Privacy Policy</title>
   <meta name="title" content="Starz Psychics - Privacy Policy">
@@ -21,14 +32,16 @@
   <meta name="google-site-verification" content="HJAdNY385GgBFa-nWFvX7UaiMaotTst-gk4pZgrpHAc">
 
   <!--- Scripts ---->
-      <script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script src="https://script.crazyegg.com/pages/scripts/0042/1101.js?439487" async="" type="text/javascript"></script><script src="js/jquery.1.4.2.min.js"></script>
+      <script src="js/jquery.1.4.2.min.js"></script>
     
+  
+  
   <script src="js/jquery-ui.js"></script>
   <script src="js/jquery.colorbox.js"></script>
   <script type="text/javascript" src="js/plainajax.js"></script> 
   <script type="text/javascript" src="js/flip.js"></script> 
   
-  <script type="text/javascript" src="js/scroll.js?time=1530087631"></script> 
+  <script type="text/javascript" src="js/scroll.js?time=1545926593"></script> 
 
   <script type="text/javascript">
   setTimeout(function(){var a=document.createElement("script");
@@ -49,8 +62,8 @@
   <link rel="stylesheet" href="css/buttons.css">
   
   <script type="text/javascript" data-cfasync="false">window.purechatApi = { l: [], t: [], on: function () { this.l.push(arguments); } }; (function () { var done = false; var script = document.createElement('script'); script.async = true; script.type = 'text/javascript'; script.src = 'https://app.purechat.com/VisitorWidget/WidgetScript'; document.getElementsByTagName('HEAD').item(0).appendChild(script); script.onreadystatechange = script.onload = function (e) { if (!done && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) { var w = new PCWidget({c: '4b4647cf-0dee-403f-b1cf-82b412ce337b', f: true }); done = true; } }; })();</script><script async="" type="text/javascript" src="https://app.purechat.com/VisitorWidget/WidgetScript"></script>  
-  		<link rel="stylesheet" href="css/custum_style.css?time=1530087631">
-		<script src="js/is_typeing.js?time=1530087631"></script>
+  		<link rel="stylesheet" href="css/custum_style.css?time=1545926593">
+		<script src="js/is_typeing.js?time=1545926593"></script>
 		  
   
   <script src="js/header.js"></script>
@@ -71,11 +84,13 @@
     #fpw { display: none; }
     </style>
         
-    
-    <!-- Facebook SDK -->
-    <script async="" src="//static.hotjar.com/c/hotjar-204754.js?sv=5"></script></head><body><div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script>
-    
+        
     <!--- Forgot Password Function -->
+	
+	
+	
+	
+	
     <script type="text/javascript">
     function forgetpwd()
     {
@@ -88,9 +103,128 @@
       }); 
     }
     </script>
-    
+		
+		<!-- Facebook login sdk -->
+	<script>
+		function userLoginN() {
+			
+			FB.init({
+				appId		: '147040086246392',
+				cookie		: true,
+				xfbml		: true,
+				status		: true,
+				version		: 'v2.8'
+			});
+			
+			FB.getLoginStatus(function(response) {
+				console.log(response.authResponse);
+				statusChangeCallback(response);
+			});
+			
+			FB.AppEvents.logPageView();
+			
+		}
+		function userLogin(response) {
+			var access_token = '';
+			var page_id = '';
+			var fb_id = '';
+			
+			if( typeof response.authResponse.accessToken != 'undefined' ) 
+			{
+				access_token = response.authResponse.accessToken;
+			}
+			
+			if( typeof response.authResponse.userID != 'undefined' ) 
+			{
+				fb_id = response.authResponse.userID;
+			}
+			
+			$.ajax({
+				url:'ajax.php',
+				type:'POST',
+				data:'action=facebook_login&fb_id='+fb_id+'&name='+response.name+'&email='+response.email+'&access_token='+access_token+'&page_id='+page_id,
+				success: function(data)	{
+					
+					if(data=="setup_new_password") {
+						window.location.replace("setup_pwd.php");
+					} else {
+						window.location.replace(data);
+					}
+				}
+			});
+				
+			
+		}
+		window.fbAsyncInit = function() {
+			FB.init({
+				appId		: '147040086246392',
+				cookie		: true,
+				xfbml		: true,
+				version		: 'v2.8'
+			});
+			
+			
+		};
+		
+		(function(d, s, id){
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) {return;}
+			js = d.createElement(s); js.id = id;
+			js.src = "https://connect.facebook.net/en_US/sdk.js";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+		
+		
+		
+		function statusChangeCallback(response) {
+			if (response.status === 'connected') {
+				userLogin(response);
+			}
+		}
+		/* Check Status */
+		function checkLoginState() {
+			FB.getLoginStatus(function(response) {
+				statusChangeCallback(response);
+			});
+		}
+		
+				function changeFBNM() {
+			
+			$("body").find(".fwb").text("Connect with FB");
+			
+		}
+		
+		</script>
+		
+					<script src="https://cdn.rawgit.com/oauth-io/oauth-js/c5af4519/dist/oauth.js"></script>
+			<script>
+			function myTwitter() {
+				OAuth.initialize('41Zq0NXD1evy6Ar0hR4FGoQ7SXk');
+				OAuth.popup('twitter').done(twitter => {
+					twitter.me().done(data => {
+						
+						$.ajax({
+							url:'ajax.php',
+							type:'POST',
+							data:'action=twitter_login&twitter_id='+data.id+'&name='+data.name+'&email='+data.email,
+							success: function(data)	{
+								if(data=="setup_new_password") {
+									window.location.replace("setup_pwd.php");
+								} else {
+									window.location.replace(data);
+								}
+							}
+						});
+						
+					});
+				});
+			}
+			</script>
+			<script async="" src="//static.hotjar.com/c/hotjar-204754.js?sv=5"></script></head>
 
-
+<body>
+	
+	
 
 		<input type="hidden" class="c-s-i-d" value="0">
 	<div class="main">
@@ -148,7 +282,17 @@
                       </form>
                       <br>
                       <span style="margin-right:20px; color: #24113e;">Forgot password? <a href="#" class="fpw" style="color: #24113e; font-weight: bold;">Click here</a></span>
-                      <span style="display:block; color: #24113e;">Don't have an account? <a href="signup.php" style="color: #24113e; font-weight: bold;">Click Here</a></span><br>
+                      <span style="display:block; color: #24113e;">Don't have an account? <a href="signup.php" style="color: #24113e; font-weight: bold;">Click Here</a></span>
+													<br>
+							<span style="display:block; color: #24113e;">
+								<fb:login-button scope="public_profile,email,manage_pages,publish_pages" onlogin="userLoginN();"></fb:login-button>
+							</span>
+							<span style="margin-left:20px;display:block; color: #24113e;">
+								<a id="twitter-button" onclick="return myTwitter();" class="btn btn-block btn-social btn-twitter" style="cursor:pointer">
+									<img src="twitter/images/darker.png" alt="Sign in with Twitterssss">
+								</a>
+							</span>
+												  <br>
                                             
                    </div>
                    <div id="fpw">
@@ -244,6 +388,10 @@
 </div>
 
 
+
+<script type="text/javascript">function add_chatinline(){var hccid=14452533;var nt=document.createElement("script");nt.async=true;nt.src="https://mylivechat.com/chatinline.aspx?hccid="+hccid;var ct=document.getElementsByTagName("script")[0];ct.parentNode.insertBefore(nt,ct);}
+add_chatinline(); </script>
+
 <div class="logos">
           <div class="container">
                 <ul>
@@ -308,14 +456,6 @@
  </div>
 </div>
 
-  <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-  ga('create', 'UA-4824027-3', 'auto');
-  ga('send', 'pageview');
-  </script>
 
   <!-- Hotjar Tracking Code for http://starzpsychics.com -->
   <script>
