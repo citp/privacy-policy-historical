@@ -1,90 +1,140 @@
-> *The following text is extracted and transformed from the optimizepress.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523155450id_/https%3A//www.optimizepress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optimizepress.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227130630id_/https%3A//www.optimizepress.com/legal-privacy) for the most accurate reproduction.*
 
-# OptimizePress - Club Special Offer — OptimizePress
+# OptimizePress Privacy Policy
 
-### PRIVACY POLICY
+### ****1.  Introduction
 
- **HOW WE PROTECT YOUR PRIVACY**
+This privacy notice provides you with details of how we collect and process your personal data through your use of our sites including optimizepress.com, members.optimizepress.com, marketplace.optimizepress.com and optimizesupport.com
 
-This privacy policy tells you how we (OptimizePress) collect, use, and protect your personal information. By visiting OptimizePress.com (our website), you accept and agree to the terms and conditions of this privacy policy. This privacy policy applies to information we collect on this website and through e-mail and other electronic messages between you and us. It does not apply to information collected by any third party, including through any application or content that may be accessible from this website. In particular, by visiting this website you consent to our collection and use of your personal information as described in this privacy policy, including any updates or revisions to this privacy policy.
+By providing us with your data, you warrant to us that you are over 13 years of age.
 
- **MINORS**
+**Creative 6 Media Ltd dba OptimizePress** is the data controller and we are responsible for your personal data (referred to as “we”, “us” or “our” in this privacy notice).
 
-We do not knowingly provide services or sell products to children. If you are below the age of 18, you may use our website only with the permission and active involvement of a parent or legal guardian. If you are a minor, please do not provide us or other website visitors with any personal information and do not use this website. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us using the form here:  http://www.optimizepress.com/wizard/submit.html
+#### **Contact Details**
 
- **THE TYPE OF INFORMATION WE COLLECT FROM YOU**
+Our full details are: 
 
-Like most places on the Internet, simply by visiting our website you automatically tell us certain information. This includes basic information such as your IP address, when you visited, the website from where you came prior to visiting us, the website where you go when you leave our website, your computer’s operating system, location data, and the type of web browser that you are using. Our website automatically records this basic information about you.
+Full name of legal entity: **Creative 6 Media Ltd dba OptimizePress**
 
-And like many other websites, we may use cookies or similar tracking technologies. In plain English, this means information that our website’s server transfers to your computer. This information can be used to track your session on our website. Cookies may also be used to customize our website content for you as an individual. If you are using one of the common Internet web browsers, you can set up your browser to either let you know when you receive a cookie or to deny cookie access to your computer.
+Contact us via email: [Contact Form here ****](https://optimizesupport.com/privacy-contact-page/)
 
-We may also collect any data that you provide us by posting it at our website or by e-mail, including information by which you might be personally identified such as name, postal address, e-mail address, and telephone number, and/or any other contact or personally identifiable information.
+Postal address: **OptimizePress, Suite 407, 372 Old Street, London, EC1V 9LT**
 
- **Registered Accounts / Application Users.**  If you have a registered account and are a user of applications provided by us, you may  ** _voluntarily provide_** , and we may collect and store, additional information related to the registered account, such as: the industry in which you are involved, any API key provided by you, images you choose to upload.
+It is very important that the information we hold about you is accurate and up to date. Please let us know if at any time your personal information changes by emailing us via [contact form](https://optimizesupport.com/privacy-contact-page/)
 
-We may also collected anonymous usage stats and website statistics such as number of visitors, number of successful opt-ins and other related information.
+### ****2\. What data do we collect about you, for what purpose and on what ground we process it
 
-You can always choose not to provide us with information. However, if you do withhold information, you may not be able to make use of some or all of our website’s services and features.
+Personal data means any information capable of identifying an individual. It does not include anonymised data.
 
-Some transactions between you and our website may involve payment by credit card, debit card, checks, money orders, and/or third party online payment services. In such transactions, we will collect information related to the transaction as part of the course of doing business with you, including your billing address, telephone number, and other information related to the transaction.
+We may process the following categories of personal data about you:
 
-We may also obtain information from third parties, for example, our business partners, third-party suppliers, and customers.
+  * **Communication Data** that includes any communication that you send to us whether that be through the contact form on our website, through email, text, social media messaging, social media posting or any other communication that you send us. We process this data for the purposes of communicating with you, for record keeping and for the establishment, pursuance or defence of legal claims. Our lawful ground for this processing is our legitimate interests which in this case are to reply to communications sent to us, to keep records and to establish, pursue or defend legal claims.
+  * **Customer Data** that includes data relating to any purchases of goods and/or services such as your name, title, billing address, delivery address email address, phone number, contact details, purchase details and your card details. We process this data to supply the goods and/or services you have purchased and to keep records of such transactions. Our lawful ground for this processing is the performance of a contract between you and us and/or taking steps at your request to enter into such a contract.
+  * **User Data** that includes data about how you use our website and any online services together with any data that you post for publication on our website or through other online services. We process this data to operate our website and ensure relevant content is provided to you, to ensure the security of our website, to maintain back- ups of our website and/or databases and to enable publication and administration of our website, other online services and business. Our lawful ground for this processing is our legitimate interests which in this case are to enable us to properly administer our website and our business.
+  * **Technical Data** that includes data about your use of our website and online services such as your IP address, your login data, details about your browser, length of visit to pages on our website, page views and navigation paths, details about the number of times you use our website, time zone settings and other technology on the devices you use to access our website. The source of this data is from our analytics tracking system. We process this data to analyse your use of our website and other online services, to administer and protect our business and website, to deliver relevant website content and advertisements to you and to understand the effectiveness of our advertising.  Our lawful ground for this processing is our legitimate interests which in this case are to enable us to properly administer our website and our business and to grow our business and to decide our marketing strategy.
+  * **Marketing Data** that includes data about your preferences in receiving marketing from us and our third parties and your communication preferences. We process this data to enable you to partake in our promotions such as competitions, prize draws and free give-aways, to deliver relevant website content and advertisements to you and measure or understand the effectiveness of this advertising.  Our lawful ground for this processing is our legitimate interests which in this case are to study how customers use our products/services, to develop them, to grow our business and to decide our marketing strategy.
+  * We may use Customer Data, User Data, Technical Data and Marketing Data to deliver relevant website content and advertisements to you (including Facebook adverts or other display advertisements) and to measure or understand the effectiveness of the advertising we serve you. Our lawful ground for this processing is legitimate interests which is to grow our business. We may also use such data to send other marketing communications to you. Our lawful ground for this processing is either consent or legitimate interests (namely to grow our business).
 
- **WHAT WE DO WITH YOUR INFORMATION**
 
-We use your information to operate our business activities. For example, we may use this data to contact you about changes to our website, new services, or special offers, provide you with notices about your account, resolve disputes, troubleshoot issues, enforce our website’s terms and conditions, to carry out our obligations and enforce our rights arising from contracts entered into between you and us, to protect our business interests and the interests and rights of third parties, and to fulfill any other purpose for which you provide data.
 
-As a general rule, we will not give your data to third parties for direct marketing purposes without your permission. However, there are some important exceptions to this rule that are described in the following paragraphs and the paragraphs above.
+#### **Sensitive Data**
 
-We may, in our sole discretion, provide information about you to comply with a court order, law or legal process, to law enforcement or other government officials for purposes of fraud investigations, alleged intellectual property infringement, or any other suspected illegal activity or matters that may expose us to legal liability or infringe on our rights or the rights of third parties.
+We do not collect any Sensitive Data about you. Sensitive data refers to data that includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data. We do not collect any information about criminal convictions and offences.
 
-We may provide information about you to a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by us about our website users is among the assets transferred.
+Where we are required to collect personal data by law, or under the terms of the contract between us and you do not provide us with that data when requested, we may not be able to perform the contract (for example, to deliver goods or services to you). If you don’t provide us with the requested data, we may have to cancel a product or service you have ordered but if we do, we will notify you at the time.
 
-We may disclose aggregate data about our website’s visitors to advertisers or other third parties.
+We will only use your personal data for a purpose it was collected for or a reasonably compatible purpose if necessary. For more information on this [please email us](https://optimizesupport.com/privacy-contact-page/). In case we need to use your details for an unrelated new purpose we will let you know and explain the legal grounds for processing.
 
-From time to time, we may use third party suppliers to provide services on our website. If a supplier wants to collect information about you through this website, you will be notified. We restrict the way third party suppliers can use your information.
+We may process your personal data without your knowledge or consent where this is required or permitted by law.
 
-We will share information with third parties to fulfill the explicit purpose for which you provide it. For example, we will post information that you enter into our blog’s comment system to our blog; share information where you give consent; and use information for the purpose that is disclosed by us when you provide the information; we share information with third parties who assist us in operating our business; for example if we use an email-service-provider, we may provide your email to such vendor to assist us in sending email communications.
+We do not carry out automated decision making or any type of automated profiling. 
 
- **USER NAMES AND PASSWORDS**
+### ****3\. How We Collect Your Personal Data
 
-The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a username and password for access to certain parts of our website, you are responsible for keeping the username and password confidential. Do not give your password to anyone. If you enter a section of our website that requires a password, you should log out when you leave. As a safety precaution, you should also close out of your web browser completely and re-open it before viewing other parts of the Internet.
+We may collect data about you by you providing the data directly to us (for example by filling in forms on our site or by sending us emails). We may automatically collect certain data from you as you use our website by using cookies and similar technologies. Please see our [cookie policy](https://www.optimizepress.com/legal-cookies/) for more details about this.
 
- **ACCESSING AND CORRECTING YOUR INFORMATION**
+We may receive data from third parties such as analytics providers such as Google based outside the EU, advertising networks such as Facebook based outside the EU, such as search information providers such as Google based outside the EU, providers of technical, payment and delivery services, such as data brokers or aggregators. 
 
-If you have a customer account with us, you can review and change your personal information by logging into the website and visiting your account profile page. You may also contact us via the form here  http://www.optimizepress.com/wizard/submit.html to request access to, correct or delete any personal information that you have provided to us. We cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
+We may also receive data from publicly available sources such as Companies House and the Electoral Register based inside the EU.
 
- **YOUR VOLUNTARY DISCLOSURE OF INFORMATION TO THIRD PARTIES WHO ARE NOT OUR SUPPLIERS**
+### 4\. Marketing Communications
 
-You may choose to provide personal information to website visitors or other third parties who are not our suppliers. Please use caution when doing so. The privacy policies and customs of these third parties determine what is done with your information.
+Our lawful ground of processing your personal data to send you marketing communications is either your consent or our legitimate interests (namely to grow our business). 
 
- **AUTORESPONDERS**
+Under the Privacy and Electronic Communications Regulations, we may send you marketing communications from us if (i) you made a purchase or asked for information from us about our goods or services or (ii) you agreed to receive marketing communications and in each case you have not opted out of receiving such communications since. Under these regulations, if you are a limited company, we may send you marketing emails without your consent. However you can still opt out of receiving marketing emails from us at any time. 
 
-We may use autoresponders to communicate with you by e-mail. To protect your privacy, we use a verified opt-in system for such communications and you can always opt-out of such communications using the links contained in each autoresponder message. If you have difficulties opting out, you may contact us by completing the form at  http://www.optimizepress.com/wizard/submit.html, or sending us mail to the address listed below.
+Before we share your personal data with any third party for their own marketing purposes we will get your express consent.
 
- **DO NOT TRACK**
+You can ask us or third parties to stop sending you marketing messages at any time by following the opt-out links on any marketing message sent to you or by [emailing us](https://optimizesupport.com/privacy-contact-page/) at any time.
 
-This website does not monitor for or behave differently if your computer transmits a “do not track” or similar beacon or message.
+If you opt out of receiving marketing communications this opt-out does not apply to personal data provided as a result of other transactions, such as purchases, warranty registrations etc. 
 
- **DISCLAIMER**
+### ****5\. Disclosures of Your Data
 
-Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our Website. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the Website, including the illegal acts of third parties (such as criminal hacking).
+We may have to share your personal data with the parties set out below:
 
- **POLICY CHANGES**
+  * Service providers who provide IT and system administration services.
+  * Professional advisers including lawyers, accountants, bankers, auditors and insurers 
+  * Government bodies that require us to report processing activities.
+  * Subcontractors and service providers who provide product support and assistance to our prospects and customers.
+  * Third parties to whom we sell, transfer, or merge parts of our business or our assets. 
 
-The terms of this policy may change from time to time. If we make material changes to how we treat our users’ personal information, we will notify you by e-mail to the e-mail address specified through your account. Your continued use of this website constitutes your consent to such revised privacy policy.
 
-If you are concerned about the topic covered by this policy, you should read it each time before you use our website. Any questions or concerns about this policy should be brought to our attention by completing the form here http://www.optimizepress.com/wizard/submit.html , or one of the methods provided under Contact Information, and providing us with information relating to your concern.
 
- **CONTACT INFORMATION**
+We require all third parties to whom we transfer your data to respect the security of your personal data and to treat it in accordance with the law. We only allow such third parties to process your personal data for specified purposes and in accordance with our instructions.
 
-To ask questions or comment about this privacy policy and our privacy practices, contact us at:  
-http://www.optimizepress.com/wizard/submit.html
+### ****6\. International Transfers
 
-OptimizePress  
-Suite 407,  
-372 Old Street,  
-London,  
-EC1V 9LT
+Countries outside of the European Economic Area ( **EEA** ) do not always offer the same levels of protection to your personal data, so European law has prohibited transfers of personal data outside of the EEA unless the transfer meets certain criteria.
 
-This privacy policy was last updated on 14 September, 2015
+Many of our third parties service providers are based outside the European Economic Area ( **EEA** ) so their processing of your personal data will involve a transfer of data outside the EEA.
+
+Whenever we transfer your personal data out of the EEA, we do our best to ensure a similar degree of security of data by ensuring at least one of the following safeguards is in place:
+
+  * We will only transfer your personal data to countries that the European Commission have approved as providing an adequate level of protection for personal data by; or
+  * Where we use certain service providers, we may use specific contracts or codes of conduct or certification mechanisms approved by the European Commission which give personal data the same protection it has in Europe; or
+  * If we use US-based providers that are part of EU-US Privacy Shield, we may transfer data to them, as they have equivalent safeguards in place.
+
+
+
+If none of the above safeguards is available, we may request your explicit consent to the specific transfer. You will have the right to withdraw this consent at any time. 
+
+### ****7\. Data Security
+
+We have put in place security measures to prevent your personal data from being accidentally lost, used, altered, disclosed, or accessed without authorisation. We also allow access to your personal data only to those employees and partners who have a business need to know such data. They will only process your personal data on our instructions and they must keep it confidential.
+
+We have procedures in place to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach if we are legally required to.
+
+### ****8\. Data Retention
+
+We will only retain your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.
+
+When deciding what the correct time is to keep the data for we look at its amount, nature and sensitivity, potential risk of harm from unauthorised use or disclosure, the processing purposes, if these can be achieved by other means and legal requirements.
+
+For tax purposes the law requires us to keep basic information about our customers (including Contact, Identity, Financial and Transaction Data) for six years after they stop being customers.
+
+In some circumstances we may anonymise your personal data for research or statistical purposes in which case we may use this information indefinitely without further notice to you.
+
+### ****9\. Your Legal Rights   
+
+Under data protection laws you have rights in relation to your personal data that include the right to request access, correction, erasure, restriction, transfer, to object to processing, to portability of data and (where the lawful ground of processing is consent) to withdraw consent.
+
+You can see more about these rights at the [ICO website here](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/)
+
+If you wish to exercise any of the rights set out above, please [email us](https://optimizesupport.com/privacy-contact-page/).  You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive or refuse to comply with your request in these circumstances.
+
+We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.
+
+We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you.
+
+If you are not happy with any aspect of how we collect and use your data, you have the right to complain to the Information Commissioner’s Office (ICO), the UK supervisory authority for data protection issues ([ _www.ico.org.uk_](http://www.ico.org.uk/) ). We should be grateful if you would contact us first if you do have a complaint so that we can try to resolve it for you.
+
+### ****10\. Third-Party Links   
+
+This website may include links to third-party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy notice of every website you visit.
+
+### 11\. Cookies
+
+You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly. For more information about the cookies we use, please see our [cookie policy](https://www.optimizepress.com/legal-cookies/)
+
+**Policy Updated:** 23rd May 2018
