@@ -1,72 +1,82 @@
-> *The following text is extracted and transformed from the flemingssteakhouse.com privacy policy that was archived on 2017-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170206230643id_/https%3A//www.flemingssteakhouse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flemingssteakhouse.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227084242id_/https%3A//www.flemingssteakhouse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Fleming's Prime Steakhouse & Wine Bar
 
-FLEMING’S PRIME STEAKHOUSE & WINE BAR®   
-PRIVACY POLICY
-
-    
+#### FLEMING’S PRIME STEAKHOUSE & WINE BAR® PRIVACY POLICY
 
 This Privacy Policy was updated on June 1, 2012.
 
-    Fleming's takes your privacy seriously both online and offline. This Privacy Policy applies to information collected online through our website, social media sites, and mobile applications, as well as information collected offline through promotions and at Fleming's restaurants.
-    Our Privacy Policy Explains: 
+Fleming's takes your privacy seriously both online and offline. This Privacy Policy applies to information collected online through our website, social media sites, and mobile applications, as well as information collected offline through promotions and at Fleming's restaurants.
+
+#### Our Privacy Policy Explains:
 
   * What Information Do We Collect?
   * How Do We Use and Share Your Information?
   * What Choices Do You Have About Your Information?
   * How Do You Correct and Update Your Information?
+  * We want you to know up front that we provide a way for you to "opt out" of any personal information collection – please see “What Choices Do You Have About Your Information?”
 
 
-    We want you to know up front that we provide a way for you to "opt out" of any personal information collection – please see “What Choices Do You Have About Your Information?“
-    
-What Information Do We Collect?
-    We collect information about you in a number of ways, including when you register for an account on our website, open a loyalty program account, purchase gift cards, or make purchases in our restaurants, online dining reservations, online food orders, as well as when you use our website and mobile applications, Facebook page, Twitter account, YouTube or other social media and online platforms. The following are examples of information we may collect from you: 
 
-  * Name, address, home and mobile phone number, email address, username and password, gender, anniversary and birthday;
-  * Credit card number, debit card number, and other payment card data for the purpose of processing purchase transactions; and
+#### WHAT INFORMATION DO WE COLLECT?
+
+We collect information about you in a number of ways, including when you register for an account on our website, open a loyalty program account, purchase gift cards, or make purchases in our restaurants, online dining reservations, online food orders, as well as when you use our website and mobile applications, Facebook page, Twitter account, YouTube or other social media and online platforms. The following are examples of information we may collect from you:
+
+  * Name, address, home and mobile phone number, email address, username and password, gender, anniversary and birthday; 
+  * Credit card number, debit card number, and other payment card data for the purpose of processing purchase transactions; and 
   * Demographic and lifestyle information about you, including restaurant location preferences, vehicle model and color, product use preferences and interest in wine, food, events, private dining, and catering;
 
 
-    When you use our website, use our mobile applications or open an email from us, we may automatically collect information about you using tracking technology, including Internet Protocol Address (“IP Address“), a unique device or user identification, system and browser type, the referring address website, the content and domain pages that you access on our website or mobile applications, and the dates and times that you use our website or mobile applications. We use technology, including cookies (a piece of data that is placed on your computer when you visit a website) to automatically collect certain information, as described above, that we then use for system administration and website maintenance, troubleshooting, and to identify you when you open our email or visit our website through your computer or mobile device so we can enhance your online experience and make our advertising more relevant. We may also offer certain features that are only available through the use of this technology.
-    You can set your browser to accept or reject cookies and to disable other tracking technology. Third-party sites may also provide additional opt-out methods.
-    Our privacy statement does not cover the use of cookies by others including our partners, affiliates, tracking utility company and service providers. We do not have access or control over these cookies. We also may collect information from third-party websites and other online platforms with whom we connect. For example, if you connect to our site via Facebook, Facebook provides us with certain information from your Facebook account. We may also collect similar information from other social media websites and online platforms.
-    We may also obtain information about you from other sources, including affiliates, advertising partners, and public databases. All of the information we collect allows us to better understand the products and services we think may be of interest to you.
-Third-Party Advertising
-    We may use third parties to serve advertisements on other websites. In serving these advertisements, these companies may use cookies and other tracking devices to collect certain information about your visits to other websites (such as browser type, IP address, which page was visited, and time of day). This information may be used to evaluate our online advertising campaigns or to tailor promotions and other marketing messages to you.
-    Some of these ads are online behavioral advertising and may contain cookies that allow monitoring of your response to our advertisements. Cookies placed by these companies do not collect personal information. We limit companies that place our ads from using information for any purpose other than to assist us in our advertising efforts. If you prefer that our advertising service providers not know which website pages you have viewed, you may find out more at <http://www.networkadvertising.org/> about how you can opt out. To learn more about online behavioral advertising, privacy, cookies, visit <http://www.networkadvertising.org/managing/learn_more.asp>.
-    Please note that if you opt out, you are only opting out of the collection of data through cookies, and you may still see or receive online advertising from Fleming's that will not be based on your preferences or behavior.
-Cookies
-    Cookies are pieces of information stored directly on the computer you are using. OSI Restaurants ((Outback Steakhouse, Carrabba's, Bonefish Grill, Fleming's and Roy's), or our third-party service providers (including advertising service providers - see the Online Behavioral Advertising section below for more information) may place cookies on your hard drive for security purposes, to facilitate site navigation and to personalize your experience. Cookies allow us to: - Offer you more relevant products and services; - Collect technical and navigational information, such as browser type, time spent on our Sites and pages visited; - Monitor viewing and responses to OSI Restaurant's advertisements. When you visit our Sites we may use cookies to monitor your experience. When you sign-up, subscribe, or order on one of our Sites, we may use cookies to remember you and to provide you information on products and services that best fit your needs. If you have an account with us and access your accounts online, we will maintain information about your visits to personalize your browsing experience and the products and services we offer. If you do not have an account with us and do not wish us to maintain information, please delete your cookies. To do this, you will need to follow your browser's instructions for disabling or deleting cookies. Cookies and other technologies provide us the capability to monitor the use of our Sites so we can continually improve the design and functionality to better serve you. Cookies we use do not contain or capture unencrypted personal information. If you choose not to accept cookies from our Sites, then you may not be able to access and use all or part of the Sites or benefit from the information and services offered. If you choose not to accept cookies, your experience may be inhibited or tailored to your interests or needs.
-How Do We Use and Share Your Information?
-    Fleming's does not sell your personal information to third parties. Fleming's will only use and share your information as described in this policy to: 
+
+When you use our website, use our mobile applications or open an email from us, we may automatically collect information about you using tracking technology, including Internet Protocol Address (“IP Address“), a unique device or user identification, system and browser type, the referring address website, the content and domain pages that you access on our website or mobile applications, and the dates and times that you use our website or mobile applications. We use technology, including cookies (a piece of data that is placed on your computer when you visit a website) to automatically collect certain information, as described above, that we then use for system administration and website maintenance, troubleshooting, and to identify you when you open our email or visit our website through your computer or mobile device so we can enhance your online experience and make our advertising more relevant. We may also offer certain features that are only available through the use of this technology.
+
+You can set your browser to accept or reject cookies and to disable other tracking technology. Third-party sites may also provide additional opt-out methods.
+
+Our privacy statement does not cover the use of cookies by others including our partners, affiliates, tracking utility company and service providers. We do not have access or control over these cookies. We also may collect information from third-party websites and other online platforms with whom we connect. For example, if you connect to our site via Facebook, Facebook provides us with certain information from your Facebook account. We may also collect similar information from other social media websites and online platforms.
+
+We may also obtain information about you from other sources, including affiliates, advertising partners, and public databases. All of the information we collect allows us to better understand the products and services we think may be of interest to you.
+
+#### THIRD-PARTY ADVERTISING
+
+We may use third parties to serve advertisements on other websites. In serving these advertisements, these companies may use cookies and other tracking devices to collect certain information about your visits to other websites (such as browser type, IP address, which page was visited, and time of day). This information may be used to evaluate our online advertising campaigns or to tailor promotions and other marketing messages to you.
+
+Some of these ads are online behavioral advertising and may contain cookies that allow monitoring of your response to our advertisements. Cookies placed by these companies do not collect personal information. We limit companies that place our ads from using information for any purpose other than to assist us in our advertising efforts. If you prefer that our advertising service providers not know which website pages you have viewed, you may find out more at <http://www.networkadvertising.org/> about how you can opt out. To learn more about online behavioral advertising, rel="noopener noreferrer" privacy, cookies, visit <http://www.networkadvertising.org/managing/learn_more.asp>.
+
+Please note that if you opt out, you are only opting out of the collection of data through cookies, and you may still see or receive online advertising from Fleming's that will not be based on your preferences or behavior.
+
+#### COOKIES
+
+Cookies are pieces of information stored directly on the computer you are using. OSI Restaurants ((Outback Steakhouse, Carrabba's, Bonefish Grill, Fleming's and Roy's), or our third-party service providers (including advertising service providers - see the Online Behavioral Advertising section below for more information) may place cookies on your hard drive for security purposes, to facilitate site navigation and to personalize your experience. Cookies allow us to: - Offer you more relevant products and services; - Collect technical and navigational information, such as browser type, time spent on our Sites and pages visited; - Monitor viewing and responses to OSI Restaurant's advertisements. When you visit our Sites we may use cookies to monitor your experience. When you sign-up, subscribe, or order on one of our Sites, we may use cookies to remember you and to provide you information on products and services that best fit your needs. If you have an account with us and access your accounts online, we will maintain information about your visits to personalize your browsing experience and the products and services we offer. If you do not have an account with us and do not wish us to maintain information, please delete your cookies. To do this, you will need to follow your browser's instructions for disabling or deleting cookies. Cookies and other technologies provide us the capability to monitor the use of our Sites so we can continually improve the design and functionality to better serve you. Cookies we use do not contain or capture unencrypted personal information. If you choose not to accept cookies from our Sites, then you may not be able to access and use all or part of the Sites or benefit from the information and services offered. If you choose not to accept cookies, your experience may be inhibited or tailored to your interests or needs.
+
+Fleming's does not sell your personal information to third parties. Fleming's will only use and share your information as described in this policy to:
 
   * Create an account for you on our website or mobile applications;
   * Enroll you in a loyalty program account and other programs at your request, and to register your loyalty program account on our website and mobile application;
   * Communicate with you about products and services we offer, including sending you emails and text messages, for restaurant promotions, special offerings, gift cards and other important information;
   * Analyze the use of our products and services;
-  * We may share your information with certain affiliates and third parties who have agreed to protect your privacy. Such information sharing relates to:
+  * We may share your information with certain affiliates and third parties who have agreed to protect your privacy. Such information sharing relates to: 
+    * assisting Fleming's in communicating with you about our offers;
+    * fulfilling requests for products and services, improving our services, conducting research, and providing anonymous reporting for internal and external clients;
+    * assisting in providing our services (for example, to process credit and debit card transactions, conduct
+statistical analyses, and to comply with unsubscribe lists); and assisting with loss prevention in cases of suspected fraud or theft. 
+    * Provide your information to any company who may purchase some or all of Fleming's assets in the future; and
+    * Enforce the incorporated policies and Terms and Conditions of use, to comply with legal obligations, and otherwise manage our business.
 
 
-  1. assisting Fleming's in communicating with you about our offers;
-  2. fulfilling requests for products and services, improving our services, conducting research, and providing anonymous reporting for internal and external clients;
-  3. assisting in providing our services (for example, to process credit and debit card transactions, conduct statistical analyses, and to comply with unsubscribe lists); and
-  4. assisting with loss prevention in cases of suspected fraud or theft.
 
+Fleming's may combine personal and non-personal information we collect or obtain with other information we obtain from third parties. We may transfer your information to Fleming's partners and affiliates for this purpose. Fleming's may also share aggregated information that cannot be used to identify you with our clients and business partners.
 
-  * Provide your information to any company who may purchase some or all of Fleming's assets in the future; and
-  * Enforce the incorporated policies and Terms and Conditions of use, to comply with legal obligations, and otherwise manage our business.
+#### HOW DO WE PROTECT YOUR INFORMATION?
 
+We work to protect your information both online and offline by using appropriate technical, administrative and physical procedures to protect personal information from loss, misuse, or alteration.
 
-    Fleming's may combine personal and non-personal information we collect or obtain with other information we obtain from third parties. We may transfer your information to Fleming's partners and affiliates for this purpose. Fleming's may also share aggregated information that cannot be used to identify you with our clients and business partners.
-    
-How Do We Protect Your Information?
-    We work to protect your information both online and offline by using appropriate technical, administrative and physical procedures to protect personal information from loss, misuse, or alteration.
-    We limit access to personal information to those who have a business need. Employees who violate Fleming's customer privacy safeguards are subject to disciplinary action up to and including termination.
-    When we share your information with third-party service providers as described above, we only provide those third parties with the information necessary to perform their service and we require that they protect your information and not use it for any other purpose. We cannot, however, ensure or guarantee the security of any information you send to us and you do so at your own risk. You are responsible for maintaining the confidentiality of your passwords and any account information.
-    
-What Choices Do You Have About Your Information?
-    You may choose to: 
+We limit access to personal information to those who have a business need. Employees who violate Fleming's customer privacy safeguards are subject to disciplinary action up to and including termination.
+
+When we share your information with third-party service providers as described above, we only provide those third parties with the information necessary to perform their service and we require that they protect your information and not use it for any other purpose. We cannot, however, ensure or guarantee the security of any information you send to us and you do so at your own risk. You are responsible for maintaining the confidentiality of your passwords and any account information.
+
+#### WHAT CHOICES DO YOU HAVE ABOUT YOUR INFORMATION?
+
+You may choose to:
 
   * Stop receiving promotional materials by mail, telephone, text message, or email;
   * Update and correct your personal information;
@@ -74,40 +84,60 @@ What Choices Do You Have About Your Information?
   * Cancel your account or request that we no longer use your information.
 
 
-    You may contact us to make any of the choices listed above by: 
+
+You may contact us to make any of the choices listed above by:
 
   * Sending an email to us at [guestservice@flemingssteakhouse.com](mailto:guestservice@flemingssteakhouse.com); or
   * Providing written notification to us at the address in the Contact Us section below; or
 
 
-    You may also opt out of promotional emails by using the “Unsubscribe“ link in the email.
-    We will only send text messages to those who have expressly opted in to receiving communications by text message. You may opt out of receiving further text messages by sending a reply text with the word “Stop“ or by contacting us by email or mail as described above.
-    Customers who request not to be contacted will not receive offers for savings by mail/email, will be excluded from Fleming's general mailing lists, will not be automatically entered in contests and sweepstakes, and may not receive other notices. This opt-out does not apply to certain operational communications (for example, confirmation of delivery address or restaurant reservations), to the extent permitted by law.
-    Under rare circumstances Fleming's may need to contact some or all users to relay important information about our website or restaurants. Members are not able to unsubscribe or “opt in/opt out“ of these announcements because they may contain very important information regarding their accounts. Fleming's reserves the right to contact users to correct account errors or to supply important information Fleming's deems relevant.
-    
-How Do You Correct or Update Your Information?
-    You may change certain personal information or request that we delete your personal information by: 
+
+You may also opt out of promotional emails by using the “Unsubscribe“ link in the email.
+
+We will only send text messages to those who have expressly opted in to receiving communications by text message. You may opt out of receiving further text messages by sending a reply text with the word “Stop“ or by contacting us by email or mail as described above.
+
+Customers who request not to be contacted will not receive offers for savings by mail/email, will be excluded from Fleming's general mailing lists, will not be automatically entered in contests and sweepstakes, and may not receive other notices. This opt-out does not apply to certain operational communications (for example, confirmation of delivery address or restaurant reservations), to the extent permitted by law.
+
+Under rare circumstances Fleming's may need to contact some or all users to relay important information about our website or restaurants. Members are not able to unsubscribe or “opt in/opt out“ of these announcements because they may contain very important information regarding their accounts. Fleming's reserves the right to contact users to correct account errors or to supply important information Fleming's deems relevant.
+
+#### HOW DO YOU CORRECT OR UPDATE YOUR INFORMATION?
+
+You may change certain personal information or request that we delete your personal information by:
 
   * Logging-in to your account and then entering or updating your personal information;
-  * By sending an email to us at [guestservice@flemingssteakhouse.com](mailto:guestservice@flemingssteakhouse.com), or by providing written notification to us by mail at the address in the Contact Us section below. Please include your current contact information, the information you are interested in accessing, and your requested changes. We will provide access and make the changes you request, or provide an explanation of what actions we will be able to make in response to your request.
+  * By sending an email to us at guestservice@flemingssteakhouse.com, or by providing written notification to us by mail at the address in the Contact Us section below. Please include your current contact information, the information you are interested in accessing, and your requested changes. We will provide access and make the changes you request, or provide an explanation of what actions we will be able to make in response to your request.
 
 
-    When you ask us to delete your personal information, we may need to retain a record of certain personal information to comply with applicable federal, state or local law.
-Account
-    If our website allows visitors to register for an account, you may register for an account that is accessible by a password of your choosing. You are responsible for maintaining the confidentiality of your password and account. Furthermore, you are entirely responsible for any and all activities that occur under your account. You agree to immediately notify Fleming's of any unauthorized use of your account or any other breach of security known to you.
-Other Sites
-    Our website may include links to websites operated by other companies, which may or may not be co-branded. Fleming's is not responsible for the privacy practices of websites or other services operated by third parties that are linked to or integrated with our services or for the privacy practices of any third party. Once you leave our website via such a link, access a third-party application, or click on a third-party offer, you should check the applicable privacy policy of the third party or advertiser site to determine, among other things, how they will handle any personal information they collect from you.
-Information About Children
-    We strive to create an online and offline environment that is respectful of families. In that light we do not knowingly collect personally identifiable information from children under the age of 13.
-    If you are a parent or guardian of a child under the age of 13 and believe he or she has disclosed personally identifiable information to us, please contact us. A parent or guardian of a child under the age of 13 may review and request deletion of the child's personally identifiable information and prohibit its use.
-Policy Effectiveness and Changes
-    By using our website, using our mobile applications or otherwise providing us with your personal information, you agree to the terms of this Privacy Policy. Additionally, this Privacy Policy incorporates our Terms of Use. We reserve the right to modify this Privacy Policy at any time, so please review it from time to time. If we decide to change our privacy policy, we will post the changes here and other reasonable places in order to make you aware of the changes.
-Reporting
-    Any improper collection or misuse of information in violation of this Privacy Policy or Fleming's Terms of Use should be reported by email to [guestservice@flemingssteakhouse.com](mailto:guestservice@flemingssteakhouse.com).
-Contact Us
-    If you have any questions or concerns regarding the Fleming's Privacy Policy or practices, you can contact one of our customer representatives by email at [guestservice@flemingssteakhouse.com](mailto:guestservice@flemingssteakhouse.com), or write us at: 
 
-Fleming's Prime Steakhouse & Wine Bar   
+When you ask us to delete your personal information, we may need to retain a record of certain personal information to comply with applicable federal, state or local law.
+
+#### ACCOUNT
+
+If our website allows visitors to register for an account, you may register for an account that is accessible by a password of your choosing. You are responsible for maintaining the confidentiality of your password and account. Furthermore, you are entirely responsible for any and all activities that occur under your account. You agree to immediately notify Fleming's of any unauthorized use of your account or any other breach of security known to you.
+
+#### OTHER SITES
+
+Our website may include links to websites operated by other companies, which may or may not be co-branded. Fleming's is not responsible for the privacy practices of websites or other services operated by third parties that are linked to or integrated with our services or for the privacy practices of any third party. Once you leave our website via such a link, access a third-party application, or click on a third-party offer, you should check the applicable privacy policy of the third party or advertiser site to determine, among other things, how they will handle any personal information they collect from you.
+
+#### INFORMATION ABOUT CHILDREN
+
+We strive to create an online and offline environment that is respectful of families. In that light we do not knowingly collect personally identifiable information from children under the age of 13.
+
+If you are a parent or guardian of a child under the age of 13 and believe he or she has disclosed personally identifiable information to us, please contact us. A parent or guardian of a child under the age of 13 may review and request deletion of the child's personally identifiable information and prohibit its use.
+
+#### POLICY EFFECTIVENESS AND CHANGES
+
+By using our website, using our mobile applications or otherwise providing us with your personal information, you agree to the terms of this Privacy Policy. Additionally, this Privacy Policy incorporates our Terms of Use. We reserve the right to modify this Privacy Policy at any time, so please review it from time to time. If we decide to change our privacy policy, we will post the changes here and other reasonable places in order to make you aware of the changes.
+
+#### REPORTING
+
+Any improper collection or misuse of information in violation of this Privacy Policy or Fleming's Terms of Use should be reported by email to [guestservice@flemingssteakhouse.com](mailto:guestservice@flemingssteakhouse.com).
+
+#### CONTACT US
+
+If you have any questions or concerns regarding the Fleming's Privacy Policy or practices, you can contact one of our customer representatives by email at [guestservice@flemingssteakhouse.com](mailto:guestservice@flemingssteakhouse.com), or write us at:
+
+Fleming's Prime Steakhouse & Wine Bar  
 2202 N. West Shore Blvd., 5th Floor   
 Tampa, FL 33607   
-Attn: Privacy Policy Office
+Attn: Privacy Policy Office 
