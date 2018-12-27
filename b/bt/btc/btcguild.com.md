@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the btcguild.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122221023id_/https%3A//bitcoin.org/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the btcguild.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227224039id_/https%3A//bitcoin.org/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Bitcoin
 
@@ -27,7 +27,7 @@ We use a third-party JavaScript plug-in provided by Google called "Google Analyt
 
 We may share the information obtained from Google Analytics with business partners who are interested in advertising on our website. The information shared with these business partners will not contain any personally identifying information (Google does not provide us with direct access to the data and therefore we cannot see this information).
 
-You can opt-out of having your information collected by Google Analytics by downloading the Google Analytics opt-out browser add-on provided by Google. This will prevent your information being used by Google Analytics. Doing this will not effect your ability to use our Site in any way. You can download the opt-out browser add-on [here](https://tools.google.com/dlpage/gaoptout). We also honor the Do Not Track header and will not track visitors who have Do Not Track switched on.
+You can opt-out of having your information collected by Google Analytics by downloading the Google Analytics opt-out browser add-on provided by Google. This will prevent your information being used by Google Analytics. Doing this will not affect your ability to use our Site in any way. You can download the opt-out browser add-on [here](https://tools.google.com/dlpage/gaoptout). We also honor the Do Not Track header and will not track visitors who have Do Not Track switched on.
 
 ## Changes to this Privacy Policy
 
