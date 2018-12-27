@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the beachfrontmedia.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625025408id_/http%3A//beachfrontmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beachfrontmedia.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227151928id_/http%3A//beachfrontmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **PRIVACY POLICY**
 
-THIS PRIVACY POLICY WAS LAST UPDATED ON **May 23 rd 2018­ **
+THIS PRIVACY POLICY WAS LAST UPDATED ON **Nov 13th  2018­ **
 
 **It’s worth knowing what we will and won’t do with your information.**
 
@@ -112,7 +112,7 @@ We do not sell, license or share information that individually identifies our cu
 
 **Service Providers**
 
-We may employ third-party companies and individuals to facilitate the Services, to provide the Services on our behalf, to perform website-related services (e.g., without limitation, maintenance services, database management, Web analytics, and improvement of the Site’s features) or to assist us in analyzing how our Site and Services are used. These third parties have access to your personal information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+We may employ third-party companies and individuals to facilitate the Services, to provide the Services on our behalf, to perform website-related services (e.g., without limitation, maintenance services, database management, Web analytics, security and quality of advertising, and improvement of the Site’s features) or to assist us in analyzing how our Site and Services are used. These third parties have access to your personal information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
 
 **Compliance with Laws and Law Enforcement**
 
