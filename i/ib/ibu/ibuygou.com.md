@@ -1,45 +1,68 @@
-> *The following text is extracted and transformed from the ibuygou.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608154905id_/https%3A//www.ibuygou.com/help/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibuygou.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227175049id_/https%3A//ibuygou.store/about-cookies-1.html) for the most accurate reproduction.*
 
-# Privacy Policy iBuygou
+# Cookies
 
-iBuygou values the privacy of our customers/visitors, and will therefore only use the information you give us to process your order and provide you with details of our special offers.We do not sell our mailing lists to other companies, or divulge any of your personal details to other companies or individuals. Payment processing takes place on a secure server provided by PayPal.
+**Private Information Security**  
+For your safety and protection, your credit card information is not stored on our servers. Our payment gateway provider, Authorize ibuygou.com keeps this information encrypted and secure on your behalf.
 
-For us to process your order, we will need to know your name, e-mail address, billing address and credit card details. We require your email address as a primary form of contact. As mentioned, your personal details are never passed onto third parties and they will be used in accordance with the data protection act for which we are registered.The following is the detailed explanation of our privacy policy.
+ **Your privacy**  
+At ibuygou.com, we take your privacy very seriously. Please read this policy (this "Policy") to see how ibuygou.store handles your personal information that you give to us when you register our website (the "Site"). This Policy only covers employees of ibuygou.com and does not extend to people or companies that ibuygou.com does not employ or manage. We reserve the right to modify this Policy. We will notify you of substantial changes to this Policy by telling you about them on our Announcements Board.
 
-### What information do we collect?
+ **Information we collect**  
+Our main purpose in collecting personal information is to provide you with an enjoyable, customized, and efficient experience on our Site. It is our policy to never willfully disclose any personal information about our Members to the general public without their consent ibuygou.com collects information from you when you register and conduct certain activities on the Site. We collect your full name, valid telephone number, contact/billing information, email address, and shipping address. Also, each Member must create a unique user id and password. Any additional information collected will be used in accordance with our privacy policy.  
+We collect some information from your browser. This includes your IP address and the name of the page you requested. This information helps us to diagnose problems with our servers and administer the Site. Basically, your IP address helps us in identifying you and your specific needs.  
+We also collect information from cookies, which are software tags that are stored by your browser onto your hard drive. These bits of information are general in nature and they allow us to customize our Site to fit your specific needs. Cookies also allow you to log onto or navigate through specific sections of our Site without having to re-enter certain information. You can decline the use of cookies, if any, through your browser. As always, your data remains strictly confidential and is never willingly shares with third parties.
 
-iBuygou believes that its very important for you to know what types of info we collect when you use our site. We use various methods for collecting info. We collect personal information that is provided by site users. Personal Information includes your name, address, telephone number, e-mail address, IP address and the information which are used for processing your orders. 
+ **“** **How is my information used?** **”**  
+The information collected from ibuygou.com Members is used to improve product offerings, customize our Site’s content and layout, and for marketing and statistical effort. Occasionally, we will send you emails about new services or promotions. You can always opt-out of receiving any information from us.
 
-Personal Information is collected when you establish an account with us, place an order on the Site, participate in a contest, sweepstakes or on-line survey, or when you communicate with any of our departments such as customer service, sales or technical services through the Site, telephone, mail or fax.
+ **“** **Who will see my personal information?** **”**  
+Our number one priority is to keep your personal information private and confidential. We will not willfully disclose your personal information to third parties. And we will not rent or sell your personal information to anyone. However, certain personal information will be made available to others in the process of using our Site. This information includes:  
+\- Other visitors to our Site may view your user ID, rating, city, and other items you have for sale;  
+\- In order to complete the transaction, the buyer and seller are provided with each others email and postal address;  
+\- When making an offer, the seller can view your user ID, rating and your city.  
+Of course once you provide personal information to a buyer or seller on our Site, ibuygou.com has no control over how that information is used by that individual. You should discuss any privacy concerns you may have with any individual you meet through our Site, as the only protection you will have is whatever terms you agree to directly with this individual.  
+ibuygou.com will disclose your personally identifiable information to others under the following circumstances:  
+\- You consent to share the information;  
+\- In response to subpoenas, court orders or legal process;  
+\- Your actions on our Site are, or appear to be, in violation of the Terms of Service and disclosure of this information will assist in efforts to enforce the Terms of Service;  
+\- You post a listing which ibuygou.com believes in its sole discretion may create liability for ibuygou.store and disclosure of this personal information may minimize or eliminate its liability.  
+Nothing in this Policy shall limit, prohibit, or otherwise deny the ability of ibuygou.com to (1) transfer, assign, or sell its assets, including, without limitation, the assets of our Site, to a third party or (2) dispose of its assets in any manner through bankruptcy or similar proceeding.ibuygou.store also makes no representations regarding, and disclaims all liability arising out of or related to, the accuracy or completeness of the information it collects and discloses through our Site.
 
-In some instances, we may obtain other people names and email addresses that you may choose to provide as part of our-email a friend-feature. Here is the collected list: Email, Name, Company Name, Street Address, Post Code, City, Country, Telephone Number and Password.
+ **About cookies**  
+To satisfy your personalized needs when you are online so that you can get a more relaxed access experience, we will send one or more small data files named cookies on your computer or mobile device. The cookies assigned to you are unique and can only be read by Web servers that publish cookies to your domain. This move is to avoid repeated logins, save your shopping preferences or items in your shopping cart, and so on, so as to provide you with shopping preferences setting, help you optimize the selection and interaction of advertisements, and judge your login status and account or data security.
 
-### Why do we collect the information?
+We will not use cookies for any purposes other than those described in the Policy. You can manage or delete cookies at your own discretion. You can clear away all cookies saved on your computer. Moreover, you can also clear all cookies saved in the software.
 
-We use this information in order to serve the needs of our customers. We need to know who you are in order to verify the credit card information you have sent us. We collect several pieces of personal information from you in order to complete this verification process.
+You can manage or delete cookies at your own discretion. Most web browsers automatically accept cookies, but you can usually modify your browser's settings to reject cookies if you want. But if you do this, you may need to personally change user settings every time you visit IBUYGOU site; the corresponding information you have previously recorded will also be deleted and it may have an impact on the security of the services you use. In some jurisdictions, we are required to ask for your consent before we deposit cookies on your device.
 
-The non-personal information that we collect from you is used in order to offer you better service and to make your experience with our site more convenient. Any information that we may inadvertently collect from you, that does not serve one of these reasons stated above, is immediately purged from our system.
+We use cookies for  
+Statistics:  
+Measuring Website traffic i.e. number of visits on the Website, which domains the visitors come from, which pages the visitors visit on the Website and in which overall geographical area the visitors are located.  
+Improvement of the functionalities of the Website:  
+Optimizing your experience with the Website, which includes remembering your user ID and password when you return to the Website so you do not have to log in again.  
+Connect with Social Media:  
+We give you the possibility of connecting with Social Media, such as Facebook.  
+Targeted advertisement:  
+Displaying specific advertisements on the Website which we believe you will find interesting.
 
-### How is information kept secured?
+Third party cookies  
+Our Website use cookies from the following third parties:  
+Google Analytics: for statistical purposes. You can decline cookies from Google Analytics by clicking on this link: http://tools.google.com/dlpage/gaoptout  
+Facebook: Set by Facebook only if you interact with the Facebook plugin or is already logged into Facebook from other source for the purpose of connecting and integrating with them.  
+Google+: Set by Google only if you interact with the Google+ plugin or is already logged into Google from other source for the purpose of connecting with them.  
+Google ads: for the purpose of displaying relevant advertisements.
 
-We use the latest in encryption technology, including 128 bit SSL encryption to ensure that any sensitive information that is sent by you to us via the Internet is protected from unauthorized interception. We employ the latest in firewall protection to prevent unauthorized access into our information storage areas. We maintain a rigorous hiring process to screen out potential employees with criminal backgrounds. All employees that we do hire have to sign a confidentiality agreement that forbids them from disclosing any information to which the employee has access to other individuals or entities. We also have back up servers and power supplies to guard against power outages and other natural occurrences that could pose a threat to the integrity of your personal information.
+ **Security**  
+In an effort to keep your information confidential, ibuygou.store provides its Members with the highest industry standards for secure servers - Secure Socket Layers (SSL) and firewalls. Unfortunately, perfect security does not exist on the Internet (or in the real world, for that matter) - so we cannot guarantee that your information cannot be guaranteed. However, we will do our best to continue to ensure the security of your private information.
 
-Passwords are required in order for you to gain access to your account. Once an account has been terminated, measures are taken to remove those users from the system who no longer need access to our system. When an employee is terminated or is no longer with the company we change the access codes that the employee used to access any customer accounts.
+ **Minors**  
+Minors (those under the age of 18) are not eligible to use ibuygou.store unless they use our Site through a parent or guardian who is a registered Member of ibuygou.com.
 
-Account login sessions are terminated after three failed login attempts; all terminated login sessions are logged for follow-up. Passwords must contain at least six characters, one of which is nonalphanumeric. Unused customer accounts, those that have shown no activity for 6 months are deleted from our system.
+ **Your Responsibilities**  
+We go to great lengths to protect all of your information on our Site. In order to help us maintain the security of your personal information, we ask that you do not share your password with anybody. Sharing this information could put you and your rating as a buyer/seller at risk. If you lose control of your password or you think that somebody has obtained unauthorized access to your account, immediately change your password. Please contact us if you have any questions.
 
-### Who can access to the information?
+ **Your rights**  
+We take reasonable steps to ensure that your personal information is accurate, complete, and up to date. You have the right to access, correct, or delete the personal information that we collect. You are also entitled to restrict or object, at any time, to the further processing of your personal information. 
 
-Only those employees that are responsible for handling your account have access to your information. Additionally, employees in our technical department may have access to your information in order to conduct routine checks on the integrity of our system and in order to perform necessary maintenance work.
-
-In order to process your credit card we have to consult with an out side credit card processing company. These processing companies are regulated by the banking industry and must meet certain security requirements in order to be in business. The processing companies will have access to your credit card information, billing address, name, and possibly your telephone number.
-
-The processing company will communicate with the issuing bank of your credit card in order to get final approval to charge your credit card for the product or services we are providing for you. Should you choose to receive additional information regarding one of our services or products.
-
-### Can I correct or remove my information from iBuygou.com?
-
-You always have the right to do this. However, please note that to do this such as removing certain info may hinder the ability to provide the service or products you have requested. We recommend that you contact us in advance to discuss which info you want to remove without interrupting the quality of service.
-
-**Notice of changes to the privacy policy**
-
-We reserve the right as part of such transaction to transfer or assign the Personal Information and other basic customer information we have collected from users of the Site. However no personal financial information including credit card information, social security numbers or dates of birth will ever be part of the information transferred.
+If you would like to exercise one of your rights as set out above, or if you have a question or a complaint about this policy, the way your personal information is processed, please contact us via e-mail: support@ibuygou.store. We will take all reasonable steps to ensure that your personal data is correct and up to date.
