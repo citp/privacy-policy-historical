@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appleinsider.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618020329id_/https%3A//appleinsider.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appleinsider.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227225522id_/https%3A//appleinsider.com/privacy) for the most accurate reproduction.*
 
 # Apple news and rumors since 1997 | AppleInsider
 
@@ -36,7 +36,7 @@ AppleInsider also periodically hosts product giveaways powered by Gleam or Raffl
 
 Please visit the National Advertising Initiative's opt-out management page for further information or to opt-out of behavioral advertising from many providers. 
 
-We are committed to continuing to protect the privacy of our readers. If you have any additional questions, please contact us at Privacy@AppleInsider.com. 
+We are committed to continuing to protect the privacy of our readers. If you have any additional questions, please contact us at Privacy@AppleInsider.com.
 
 We recommend that you review this Privacy Statement / Affiliate Link Disclosure periodically, as AppleInsider may update it from time to time without notice to its users. 
 
