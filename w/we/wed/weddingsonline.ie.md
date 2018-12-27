@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the weddingsonline.ie privacy policy that was archived on 2018-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180501112807id_/https%3A//www.weddingsonline.ie/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingsonline.ie privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227110950id_/https%3A//www.weddingsonline.ie/content/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | weddingsonline
 
 **weddingsonline** is strongly committed to your right to privacy and to taking steps designed to secure your personal and financial information. To earn your trust and confidence in our commitment, the intent of this policy is to fully disclose our privacy practices to you. We will only use your personal information in accordance with this Privacy Policy. We encourage you to read our policy, to understand what types of personal information we collect and how this information is used.
 
-By using our site, you consent to the collection and use of your information as described in this Privacy Policy, which was last updated on 25th of February 2014. Any changes to our Privacy Policy will be reflected on this page so that you are always aware of the information we collect and how we use it.
+By using our site, you consent to the collection and use of your information as described in this Privacy Policy. Any changes to our Privacy Policy will be reflected on this page so that you are always aware of the information we collect and how we use it.
 
 **General**
 
@@ -13,6 +13,10 @@ By using our site, you consent to the collection and use of your information as 
 **Contests and Online Surveys**
 
 **weddingsonline**  and its partners frequently sponsor contests to give you the opportunity to win great prizes. Your participation in these contests is entirely optional. Information we collect for such contests can include contact information and demographic information.  **weddingsonline**  also values the opinions and comments from all of our users, so we frequently conduct surveys online, via e-mail, or by telephone. Your participation in these surveys is entirely optional. Information we collect in online surveys will include general information on the use of our site and other demographic information, such as age and income bracket. Survey participants are anonymous unless otherwise stated in the survey.
+
+ **Faccebook Lead Forms**
+
+ **When filling out a lead form on facebook from weddingsonline, by submitting your details, you agree that weddingsonline will carefully select up to 6 matching suppliers and send your details to them for follow up on your requirements.**
 
 "Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. We use cookies in several ways. Cookie files are used to better understand how you go through our website so that we may tailor your experience at our website. Cookies are also used to tell us whether you have visited our website previously, and to help us determine whether you came to our website from a particular Internet link or banner advertisement. Cookies can also be used to help you to save and retrieve passwords and other information and preferences you use on our website, saving you from having to re-enter this information upon every visit to our website. Cookies cannot and will not be used by us to retrieve any personal information about you from your computer that you have not previously and voluntarily provided to us. However, cookies may also be received when you link to our partners' sites or when you click on banner advertisements served by our outside advertising company and we do not have control over how they use this information. Most Web browsers automatically accept cookies, but if you prefer, you can edit your browser options to block them in the future.
 
@@ -43,4 +47,4 @@ Swords, Co Dublin
 Tel: +353 1 905 9680   
 office@weddingsonline.ie
 
-Last up dated 18th April 2018
+Last up dated 3rd May 2018
