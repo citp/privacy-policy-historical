@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utilitydive.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625084517id_/http%3A//www.industrydive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utilitydive.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227104600id_/http%3A//www.industrydive.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Industry Dive
 
@@ -147,7 +147,7 @@ We take reasonable measures to help protect data we collect from unauthorized ac
 
 ### CONTACT US
 
-If you have questions regarding our privacy policy, please contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#78080a110e191b013811161c0d0b0c0a011c110e1d561b1715) or write to us at:
+If you have questions regarding our privacy policy, please contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7707051e0116140e371e1913020403050e131e01125914181a) or write to us at:
 
 Industry Dive  
 1575 Eye St NW  
