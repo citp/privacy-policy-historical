@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lostmy.name privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625025546id_/https%3A//wonderbly.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lostmy.name privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227202953id_/https%3A//www.wonderbly.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wonderbly
 
@@ -6,7 +6,7 @@
 
 This policy (together with our terms and conditions of use as set out at Wonderbly's Terms and Conditions page applies when you use our website wonderbly.com (the “Website”) or visit a site that uses our advertising technology. This policy sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. For the purpose of the EU General Data Protection Regulation 2016/679 (GDPR), the data controller is Lostmy.name Limited (trading as Wonderbly, Reg Co.number 08305498 ) of 30-36 Pritchards Road, London E2 9AP, United Kingdom.
 
-###### Third-party links:
+##### Third-party links:
 
 This website may include links to third-party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy notice of every website you visit.
 
@@ -118,11 +118,28 @@ We use data held about you in the following ways:
 
 #### MARKETING & OPTING OUT
 
-We strive to provide you with choices regarding certain personal data uses, particularly around marketing and advertising.
+We strive to provide you with choices regarding certain personal data uses, particularly around marketing and advertising.  
+The emails we send to you fall into two categories
 
-  Where you have not previously bought from us but have registered your details with us (for example by entering a competition or signing up for a newsletter), we will only send you marketing communications if you opted into receiving marketing at the time and so given us your express consent.
+  1. Emails which provide you with information about offers, new products and other things that we think may interest you or Wonderbly customers generally.
 
-  You have the option to unsubscribe from our e-mails through a link at the bottom of every e-mail we send to you. If you personally want to update the details that you have registered with us, or would like to amend your subscription preferences or unsubscribe altogether, you can do this in the “My Account” section of our Site.
+    * You have the option to unsubscribe from our e-mails through a link at the bottom of every e-mail we send to you. If you personally want to update the details that you have registered with us, or would like to amend your subscription preferences or unsubscribe altogether, you can also do this in the “My Account” section of our Site <https://www.wonderbly.com/account>
+  2. The emails and messaging alerts that we send concerning activity on your Wonderbly account ("Service Messages"), specifically:
+
+    * To remind you of free credits that may be in your account
+    * To remind you of unordered items in your online basket
+    * To remind you of product creations that you have abandoned
+    * Surveys to capture your feedback on orders you have placed with Wonderbly
+    * Surveys to capture your feedback on contact with our customer service team
+    * To remind you that you have an Account
+
+
+  * Should you wish to, you can opt out of receiving the above Service Messages by emailing ‘opt out’ to preferences@wonderbly
+
+
+
+While we do our best to act on your preferences as soon as we reasonably can, please be aware that it may take up to 14 days for changes to your preferences concerning Service Messages to take effect.  
+Please note that (a) emails that we need to send you relating directly to your orders and purchases from Wonderbly (such as order and dispatch confirmation emails), and (b) emails which notify you of changes to our Terms of Use, or to policies we apply under our Terms of Use, are unaffected by your preferences for newsletters and Service Messages; you cannot opt-out of receiving these emails.
 
 #### WHERE YOUR DATA IS STORED
 
