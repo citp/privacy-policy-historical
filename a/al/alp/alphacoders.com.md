@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alphacoders.com privacy policy that was archived on 2018-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180510010519id_/https%3A//alphacoders.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alphacoders.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227142339id_/https%3A//alphacoders.com/site/privacy) for the most accurate reproduction.*
 
 # Alpha Coders Privacy Policy
 
