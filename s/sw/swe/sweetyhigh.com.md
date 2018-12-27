@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sweetyhigh.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627031018id_/https%3A//www.sweetyhigh.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweetyhigh.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227103846id_/http%3A//www.sweetyhigh.com/privacy) for the most accurate reproduction.*
 
-# Sweety High: Video, Entertainment, Beauty and Lifestyle
+# Sweety High: Privacy Policy
 
 At Sweetyhigh.com (the "Sweety High Site"), we are dedicated to protecting your privacy and handling any personal information we obtain from you with care and respect. This Privacy Policy is designed to answer your questions regarding our privacy policies and principles. Please note that our guests under the age of 13 should refer to our [Children's Privacy Policy](https://web.archive.org/childrens-privacy).
 
