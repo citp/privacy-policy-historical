@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nuclino.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627035520id_/https%3A//www.nuclino.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nuclino.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227112324id_/https%3A//www.nuclino.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Nuclino
 
@@ -178,7 +178,7 @@ Data portability is the ability to obtain some of your information in a format y
 
 ## How we transfer the information we collect internationally
 
-We collect information globally. We transfer, process and store your information outside of your country of residence, to wherever we, Nuclino or our third-party service providers operate for the purpose of providing you the Services. Whenever we transfer your information, we take steps to protect it.
+We collect information globally. We transfer, process, and store your information outside of your country of residence, to wherever we, Nuclino or our third-party service providers operate for the purpose of providing you the Services. Whenever we transfer your information, we take steps to protect it.
 
 ## Other important privacy-related information
 
@@ -188,21 +188,21 @@ We collect information globally. We transfer, process and store your information
 
 Nuclino may use the following Subprocessors to host Customer Data or provide other infrastructure that helps with delivery of our Services:
 
-Entity Name| Subprocessing Activities| Entity Country  
----|---|---  
-Amazon Web Services, Inc.| Cloud Service Provider| United States  
-Heroku, Inc.| Cloud Service Provider| United States  
+Entity Name| Subprocessing Activities| Entity Country| Data Location  
+---|---|---|---  
+Amazon Web Services EMEA SARL| Cloud Service Provider| Luxembourg| Europe  
+Heroku, Inc.| Cloud Service Provider| United States| Europe  
   
 #### Other Subprocessors
 
 Nuclino may use the following Subprocessors to perform other Service functions:
 
-Entity Name| Subprocessing Activities| Entity Country  
----|---|---  
-SendGrid, Inc.| Cloud-based Email Notification Services| United States  
-FrontApp, Inc.| Cloud-based Customer Support Services| United States  
-Stripe, Inc.| Cloud-based Payment Processing Services| United States  
-Chargebee, Inc.| Cloud-based Billing and Subscription Services| United States  
+Entity Name| Subprocessing Activities| Entity Country| Data Location  
+---|---|---|---  
+Mailjet SAS| Cloud-based Email Service Provider| France| Europe  
+FrontApp, Inc.| Cloud-based Customer Support Services| United States| United States, Europe  
+Stripe, Inc.| Cloud-based Payment Processing Services| United States| United States  
+Chargebee, Inc.| Cloud-based Billing and Subscription Services| United States| United States  
   
 ### Notice to End Users
 
