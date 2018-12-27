@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upickem.net privacy policy that was archived on 2017-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170206094722id_/https%3A//secondstreet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upickem.net privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227232057id_/https%3A//secondstreet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Second Street
 
@@ -14,15 +14,31 @@ You can choose to not receive e-mails or updates about special benefits, promoti
 
 Any personal data (such as age and gender) you may provide is used to create personalized content, services, and advertising on our Site, as well as to better understand the preferences of our members and customers. We may also aggregate your Site activity so that Second Street and our affiliates may better understand the users that are visiting our Site. In all cases, this aggregated data is anonymous and does not contain any personal information that identifies a user.
 
-Second Street complies with the U.S.-Swiss SafeHarbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.
-
 Second Street also complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. Second Street has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>
 
 As part of the Privacy Shield Framework, Second Street is subject to the investigatory and enforcement powers of the Federal Trade Commision (FTC). Individuals may invoke binding arbitration if possible, and under certain conditions. Second Street assumes liability for cases of onward transfers of EU data to third parties. Last, Second Street is required by law to furnish personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
 Per Privacy Shield regulations, Second Street has registered with JAMS as an independent alternative dispute resolution (ADR) service for EU members. More information can be found at: <https://www.jamsadr.com/eu-us-privacy-shield>
 
+For Users with accounts located in Second Street’s European Data Region, all processing of Personal Data is performed in accordance with privacy rights and regulations following the EU Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 (the Directive), and the implementations of the Directive in local legislation. From May 25th, 2018, the Directive and local legislation based on the Directive will be replaced by the Regulations (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of Personal Data and on the free movement of such data, known as the General Data Protection Regulation (GDPR), and Second Street’s processing will take place in accordance with the GDPR. For Respondent data, the Affiliate will be the Controller in accordance with Directive and GDPR, and Second Street will be the Processor.
+
 * * *
+
+### Retention and Deletion
+
+Second Street will not retain data longer than is necessary to fulfill the purposes for which it was collected or as required by applicable laws or regulations. For Respondent data, Second Street’s Affiliates have control of the purpose for collecting data, and the duration for which the Personal Data may be kept. For Respondent data, Affiliates with an active account will therefore have the responsibility to permanently delete data when required. When an end users’s account is terminated or expired, all Personal Data collected through the platform will be deleted, as required by applicable law.
+
+* * *
+
+### Data Protection Officer
+
+Second Street has a “Data Protection Officer” who is responsible for matters relating to privacy and data protection. This Data Protection Officer can be reached at the following address:
+
+Second Street  
+Attn: Data Protection Officer  
+1017 Olive St. – 1st Floor  
+Saint Louis, MO 63101  
+dataprotectionofficer@secondstreet.com
 
 ### Send to a Friend Feature
 
