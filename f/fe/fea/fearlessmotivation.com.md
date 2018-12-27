@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fearlessmotivation.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627022047id_/https%3A//www.fearlessmotivation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fearlessmotivation.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227095124id_/https%3A//www.fearlessmotivation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Fearless Motivation - Motivational Videos & Music
 
@@ -258,5 +258,3 @@ If you have any questions regarding this privacy policy, would like to update yo
   * by post to Fearless Motivation Pty Ltd – PO BOX 5324, Robina Town Centre, QLD, 4230 – Australia
 
 
-
-[](https://www.fearlessmotivation.com/greatness/)
