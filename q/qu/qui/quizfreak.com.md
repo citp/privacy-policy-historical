@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the quizfreak.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626063131id_/https%3A//www.quizfreak.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quizfreak.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228001652id_/https%3A//www.quizfreak.com/privacy) for the most accurate reproduction.*
 
 # QuizFreak
-
-## Privacy Policy
-
-#### 
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at contact@robbiehendricks.com.
 
@@ -65,8 +61,3 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 **Your Consent**
 
 By using our site, you consent to our privacy policy.
-
-  
-
-
-[**Quizfreak.com**](https://www.quizfreak.com/) © 2015 - All rights reserved. 
