@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abelliogreateranglia.co.uk privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626201510id_/https%3A//www.greateranglia.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abelliogreateranglia.co.uk privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227040518id_/https%3A//www.greateranglia.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Greater Anglia
 
@@ -35,7 +35,7 @@ CONTENTS
 
 
 
-**For the purposes of the General Data Protection Regulation Act 2018, the data controller is:**
+**For the purposes of the General Data Protection Regulation, the data controller is:**
 
 Abellio East Anglia Limited  
 11th Floor One Stratford Place  
@@ -45,7 +45,7 @@ E20 1EJ
 
 **Our Data Protection Manager contact details (DPM) are:**
 
-Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#97d0d3c7c5d7f0e5f2f6e3f2e5f6f9f0fbfef6b9f4f8b9e2fc)
+Email: [GDPR@greateranglia.co.uk](mailto:GDPR@greateranglia.co.uk)
 
 Address:
 
@@ -113,7 +113,7 @@ Running our business and Group businesses, in a safe and socially and environmen
 
 We will only share or disclose your information as set out in this Policy or in accordance with DPL and will obtain your consent where we are required to do so. We will only use third parties to process information where we are satisfied that they comply with these standards and can keep your data secure.
 
-Due to the nature of the services we provide, we process a large range of data, in a manner of ways, across a number of solutions. Accordingly, it was deemed impractical to set out the details of all the third parties that we may share your data with below. You can find out more about the information we collect and how we use, share or disclose it below or by contacting us at [[email protected]](mailto:) We may share or disclose information for the following reasons: 
+Due to the nature of the services we provide, we process a large range of data, in a manner of ways, across a number of solutions. Accordingly, it was deemed impractical to set out the details of all the third parties that we may share your data with below. You can find out more about the information we collect and how we use, share or disclose it below or by contacting us at [GDPR@greateranglia.co.uk](mailto:) We may share or disclose information for the following reasons: 
 
   * We use data processors to provide or assist with some of our services, for example, the processing of bookings. Where we do so, they must agree to strict contractual terms and to keep your data secure; • Where we share data across our Group Companies, this is only in accordance with a written data sharing agreement;
   * To operate interoperable services - this includes use of some shared systems and processors, by the rail industry generally and overseen by the Rail Delivery Group;
@@ -182,7 +182,7 @@ Recordings from body worn cameras are generally held for 28 days, unless require
 
 #### How to access your CCTV personal data
 
-You can request copies of images or footage of yourself by making a Subject Access Request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d99e9d898b99beabbcb8adbcabb8b7beb5b0b8f7bab6f7acb2)
+You can request copies of images or footage of yourself by making a Subject Access Request to [GDPR@greateranglia.co.uk](mailto:GDPR@greateranglia.co.uk)
 
 #### Disclosing CCTV/personal data to the police
 
@@ -288,7 +288,7 @@ In addition to cookies, AEA also uses Javascripts and web beacons. By using Java
 
 #### Cookies from external parties
 
-Some of the cookies are placed with the consent of AEA by third parties with the aim to bring certain products and services to your attention or to give you direct access to social media: [Google Analytics](http://www.google.com/analytics/ "Opens in a new window") , [Google Maps](https://www.google.co.uk/maps "Opens in a new window") , [Captify](http://www.captify.co.uk/ "Opens in a new window"), [Affectv](https://affectv.com/ "Opens in a new window"), [Iotec](https://web.archive.org/web/20180626201510id_/https%3A//www.greateranglia.co.uk/Iotec "Opens in a new window"), [Flashtalking](http://www.flashtalking.com/ "Opens in a new window"), [Adform](https://site.adform.com/ "Opens in a new window"), [Doubleclick](https://www.doubleclickbygoogle.com/ "Opens in a new window"), [Twitter](https://www.youtube.com/ "Opens in a new window"), [YouTube](https://www.youtube.com/ "Opens in a new window"), [LinkedIn](https://www.linkedin.com/ "Opens in a new window"), [GoogleAdwords](https://www.google.com/adwords/ "Opens in a new window"), [Instagram ](https://www.instagram.com/ "Opens in a new window")and [Facebook](https://www.facebook.com/ "Opens in a new window"). For the cookies that these external parties place, the information they collect with them and the purpose for which that information is used, we refer to the privacy statements of these parties on their own websites. These statements can change regularly and AEA has no control whatsoever.
+Some of the cookies are placed with the consent of AEA by third parties with the aim to bring certain products and services to your attention or to give you direct access to social media: [Google Analytics](https://www.google.com/analytics/ "Opens in a new window") , [Google Maps](https://www.google.co.uk/maps "Opens in a new window") , [Captify](http://www.captify.co.uk/ "Opens in a new window"), [Affectv](https://affectv.com/ "Opens in a new window"), [Iotec](https://web.archive.org/web/20181227040518id_/https%3A//www.greateranglia.co.uk/Iotec "Opens in a new window"), [Flashtalking](http://www.flashtalking.com/ "Opens in a new window"), [Adform](https://site.adform.com/ "Opens in a new window"), [Doubleclick](https://www.doubleclickbygoogle.com/ "Opens in a new window"), [Twitter](https://www.youtube.com/ "Opens in a new window"), [YouTube](https://www.youtube.com/ "Opens in a new window"), [LinkedIn](https://www.linkedin.com/ "Opens in a new window"), [GoogleAdwords](https://www.google.com/adwords/ "Opens in a new window"), [Instagram ](https://www.instagram.com/ "Opens in a new window")and [Facebook](https://www.facebook.com/ "Opens in a new window"). For the cookies that these external parties place, the information they collect with them and the purpose for which that information is used, we refer to the privacy statements of these parties on their own websites. These statements can change regularly and AEA has no control whatsoever.
 
 #### Advertising cookies
 
@@ -459,7 +459,7 @@ Please contact the Data Protection Manager, as follows:
 
 Email:
 
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1a5d5e4a485a7d687f7b6e7f687b747d76737b347975346f71)
+[GDPR@greateranglia.co.uk](mailto:GDPR@greateranglia.co.uk)
 
 Address:
 
@@ -501,7 +501,7 @@ NR1 1EF
 
 Data Protection Manager:
 
-Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#93d4d7c3c1d3f4e1f6f2e7f6e1f2fdf4fffaf2bdf0fcbde6f8)
+Email: [GDPR@greateranglia.co.uk](mailto:GDPR@greateranglia.co.uk)
 
 Address:
 
@@ -547,7 +547,7 @@ Data Protection Manager Abellio UK HQ
 Glasgow  
 G2 1LU
 
-​Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#fd998d929c9f9891919492bd9c9f9891919492d39e9290)
+​Email: [dpoabellio@abellio.com](mailto:dpoabellio@abellio.com)
 
 If you are not satisfied with the response you can complain to the ICO. Their contact details are:
 
