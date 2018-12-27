@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iranianlivetv.eu privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616081347id_/http%3A//parsi1hd.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iranianlivetv.eu privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227125925id_/http%3A//parsi1hd.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Watch privacy_policy - Iran TV Series - parsi1hd.com
 
@@ -11,14 +11,15 @@
    
 |   
 ---  
-[Live TVs](https://web.archive.org/web/20180616081347id_/http%3A//parsi1hd.com/index.php)  
-[Frequency List](https://web.archive.org/web/20180616081347id_/http%3A//parsi1hd.com/frequency.php)  
-[TV Series](https://web.archive.org/web/20180616081347id_/http%3A//parsi1hd.com/serial.php)  
-[Series Page 2](https://web.archive.org/web/20180616081347id_/http%3A//parsi1hd.com/serial-two.php)  
+[Live TVs](https://web.archive.org/web/20181227125925id_/http%3A//parsi1hd.com/index.php)  
+[Frequency List](https://web.archive.org/web/20181227125925id_/http%3A//parsi1hd.com/frequenz.php)  
+[Farsi Films](http://farsi1hd.com/farsi1film.php)  
+[TV Series](https://web.archive.org/web/20181227125925id_/http%3A//parsi1hd.com/series1.php)  
+[Series Page 2](https://web.archive.org/web/20181227125925id_/http%3A//parsi1hd.com/series2.php)  
 [Iran Music & More](http://www.music0098.com/)  
-[Useful Links](https://web.archive.org/web/20180616081347id_/http%3A//parsi1hd.com/links.php)  
-[Copyright Notice](https://web.archive.org/web/20180616081347id_/http%3A//parsi1hd.com/DMCA-Notice.php)  
-[Privacy Policy](https://web.archive.org/web/20180616081347id_/http%3A//parsi1hd.com/privacy_policy.php)  
+[Useful Links](https://web.archive.org/web/20181227125925id_/http%3A//parsi1hd.com/linkha.php)  
+[Copyright Notice](https://web.archive.org/web/20181227125925id_/http%3A//parsi1hd.com/DMCA-Notice.php)  
+[Privacy Policy](https://web.archive.org/web/20181227125925id_/http%3A//parsi1hd.com/privacy_policy.php)  
 |  |    
 | Privacy Policy  
 ---  
