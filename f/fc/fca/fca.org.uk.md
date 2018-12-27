@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fca.org.uk privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627023004id_/https%3A//www.fca.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fca.org.uk privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227095933id_/https%3A//www.fca.org.uk/privacy) for the most accurate reproduction.*
 
 # Privacy notice | FCA
 
@@ -16,6 +16,7 @@ You can use the links below to learn more about our use of personal data in diff
   * [personal data and market oversight](https://web.archive.org/privacy/personal-data-and-market-oversight)
   * [personal data and supervision](https://web.archive.org/privacy/personal-data-and-supervision)
   * [personal data and surveys, consultations and market research](https://web.archive.org/privacy/personal-data-and-surveys-consultations-and-market-research)
+  * [personal data and communicating FCA news and events](https://web.archive.org/privacy-notice/personal-data-and-communicating-fca-news-and-events)
   * our [whistleblowers page](https://web.archive.org/firms/whistleblowing) explains how we handle information provided by whistleblowers
   * to learn how we handle personal data for job applications, read our [applicant privacy notice](https://web.archive.org/publication/documents/job-applicant-fair-processing-notice.pdf)
 
@@ -72,13 +73,13 @@ If you are interested in learning more about your privacy rights, you can find m
 
 This privacy notice covers all the main ways that we use the various types of personal data we may hold about you, to make sure that we are as transparent as possible and to avoid using your information in a way that would surprise you.
 
-If you feel that we have missed anything that you would like to know, or you have any particular questions about our privacy policy, you can [email us](mailto:dataprotection-individualsrightsrequests@fca.org.uk) or write to: Information Disclosure Team, Financial Conduct Authority, 12 Endeavour Square, London, E20 1JN. Alternatively, if you would like to speak to someone you can call our switchboard on 020 7066 1000 and ask for the Information Disclosure Team.
+If you feel that we have missed anything that you would like to know, or you have any particular questions about our privacy policy, you can [email us](https://web.archive.org/cdn-cgi/l/email-protection#cbafaabfaabbb9a4bfaea8bfa2a4a5e6a2a5afa2bda2afbeaaa7b8b9a2aca3bfb8b9aebabeaeb8bfb88bada8aae5a4b9ace5bea0) or write to: Information Disclosure Team, Financial Conduct Authority, 12 Endeavour Square, London, E20 1JN. Alternatively, if you would like to speak to someone you can call our switchboard on 020 7066 1000 and ask for the Information Disclosure Team.
 
 ## Our Data Protection Officer
 
 As a public authority we are required to appoint a Data Protection Officer (DPO) who oversees our internal data protection compliance, informs and advises us on our data protection obligations, advises us on our data protection impact assessment process and acts as our contact point with the Information Commissioner. Our DPO is Andy Cobbett.
 
-Please [email our team](mailto:dataprotection-individualsrightsrequests@fca.org.uk) if you would like to contact our DPO.
+Please [email our team](https://web.archive.org/cdn-cgi/l/email-protection#680c091c09181a071c0d0b1c0107064501060c011e010c1d09041b1a010f001c1b1a0d191d0d1b1c1b280e0b0946071a0f461d03) if you would like to contact our DPO.
 
 ## Glossary of terms used in this privacy notice
 
