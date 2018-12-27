@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mozilla-europe.org privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617205028id_/https%3A//www.mozilla.org/en-US/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mozilla-europe.org privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227105018id_/https%3A//www.mozilla.org/en-US/privacy) for the most accurate reproduction.*
 
 # Mozilla Privacy
 
@@ -24,6 +24,8 @@ We learn information about you when:
 ## What do we do with your information once we have it?
 
 When you give us information, we will use it in the ways for which you've given us permission. Generally, we use your information to help us provide and improve our products and services for you.
+
+For users in the EU, EEA, and Switzerland: see [here](https://support.mozilla.org/kb/information-eu-eea-and-swiss-users) for more information.
 
 ## When do we share your information with others?
 
