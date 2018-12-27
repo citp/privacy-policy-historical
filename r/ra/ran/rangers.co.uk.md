@@ -1,142 +1,315 @@
-> *The following text is extracted and transformed from the rangers.co.uk privacy policy that was archived on 2017-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170929233930id_/https%3A//rangers.co.uk/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rangers.co.uk privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227210008id_/https%3A//rangers.co.uk/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Rangers Football Club, Official Website
 
-**THE RANGERS FOOTBALL CLUB LIMITED**
+#### **1 Introduction**
 
- **RANGERS.CO.UK – PRIVACY POLICY**
+This policy describes the way in which The Rangers International Football Club PLC aims to repay the trust shown by our valued customers and supporters who have shared their personal data with The Club.
 
-  1.  **Information about us**
+####  **2 About Us**
 
+The Rangers International Football Club PLC (“The Club”) is a sports entertainment company incorporated in Scotland with Company Number SC437060. The registered office is Ibrox Stadium, 150 Edmiston Drive, Glasgow, G51 2XD. The Rangers International Football Club PLC is the controller of all personal data processed by the company and its subsidiary companies; The Rangers Football Club Limited, Rangers Media Limited and Garrion Security Services Limited.
 
+####  **3 Data Protection Officer**
 
-We are The Rangers Football Club Limited, a company incorporated in Scotland with Company Number SC425159 and having our registered office at Ibrox Stadium, 150 Edmiston Drive, Glasgow, G51 2XD (the “Club”, “we”, “us”, “our”).  We are a data controller in terms of the Data Protection Act 1998 and our registration number with the UK Information Commissioner is Z3497490.
+The Club’s Data Protection Officer (DPO) can be contacted with the following details:
 
-  2.  **This Privacy Policy**
+The Data Protection Officer  
+The Rangers International Football Club PLC  
+150 Edmiston Drive  
+Glasgow  
+G51 2XD
 
+Email:   [dpo@rangers.co.uk  
+](mailto:dpo@rangers.co.uk)Tel:       \+ 44 141 580 8500
 
+####  **4 About This Policy**
 
-This Privacy Policy covers the Services we make available via rangers.co.uk (our “Site”).  By using our Site and our Service you agree to our Website Terms and Conditions and this Privacy Policy. Any changes to this Privacy Policy will be posted here.
+We will only provide this privacy policy to you once, generally at the start of our relationship with you. However, if this privacy policy is updated substantially, then we may provide you with details of the updated version. You are encouraged to check back regularly for updates.
 
-Our Site may contain links to websites that are not operated by us. These third parties may collect data from you and share some of that data with us.  We are not responsible for any misuse of personal information by such third parties. We recommend that you view the Privacy Policy of each website that you use.
+This policy is dated – 18th May 2018
 
-  3.  **Why we collect information**
+####  **5 Personal** **Data We May Collect From You**
 
+When you contact us in person, by email, post, telephone or our website, you may provide us with or we may obtain personal data about you, such as information regarding your;
 
+  * personal contact details that allows us to contact you directly such as name, title, email addresses and telephone numbers;
+  * date of birth;
+  * gender;
+  * records of your interactions with us such as telephone conversations, emails and other correspondence and your instructions to us;
+  * any credit/debit card and other payment details you provide so that we can receive payments from you and details of the financial transactions with you;
+  * use of and movements through our online portal, passwords, personal identification numbers, IP addresses, user names and other IT system identifying information;
+  * CCTV footage and other information obtained through electronic means such as swipecard records;
+  * records of your attendance at any events or competitions hosted by us;
+  * participation in prize draw competitions or raffles provided by us;
+  * suggestions offered as part of our customer service feedback campaign;
+  * information about your computer including where available your IP address, operating system and browser type;
+  * information about your internet usage obtained using a cookie file which is stored on the hard drive of your computer;
+  * images in video and/or photographic form and voice recordings; and
+  * your marketing preferences so that we know whether and how we should contact you.
 
-We want to offer you Services which you want to use. We may use information about you to help us customise our Site and to improve its usefulness to you. It can also help us to choose Services we think will interest you.
 
-If we process information about our customers and visitors to the Site, then this helps us sell advertising space to advertisers of products and services relevant to you and helps fund our Site through advertising and also enhance our Services.
 
-In addition to the Services we provide on this Site we may want to offer you goods and services provided by us and others (with your consent) which are of interest to you.
+####  **6 Special Categories Of Personal Data**
 
-We compile anonymous records of user trends which we may make use of ourselves, or pass to our associated companies or to unconnected parties.  Your personal details are not included in this information.
+We may also collect, store and use the following “special categories” of more sensitive personal data regarding you:
 
-  4.  **What information do we collect?**
+  * information about your health, including any medical condition, health and sickness records, medical records and health professional information;
 
 
 
-We may collect and process the following data about you:
+We may not collect all of the above types of special category personal data about you. In relation to the special category personal data that we do process we do so on the basis that
 
-  *  **Information you give us.** You may give us information about you by filling in forms on our Site or by corresponding with us by phone, e-mail or otherwise. This includes information you provide when you register to use our Site, subscribe to our Services, search for a product, place an order on our Site, participate in discussion boards or other social media functions on our site (where available), enter a competition, promotion or survey, and when you report a problem or otherwise interact with our Site. The information you give us may include your name, address, e-mail address and phone number, gender, preferences and, where relevant, financial and credit card information, personal description and photograph.
+  * the processing is necessary for reasons of substantial public interest, on a lawful basis; or
+  * based on your explicit consent.
 
 
-  *  **Information we collect about you.** With regard to each of your visits to our Site we may automatically collect the following information:
-    1. technical information, including the internet protocol (IP) address used to connect your computer to the internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform;
-    2. information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our Site (including date and time); products or services you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to call our customer service number.
-  *  **Information we receive from other sources.** We may receive information about you if you use any of the other websites we operate or the other services we provide. In this case we will have informed you when we collected that data that it may be shared internally and combined with data collected on this Site. We are also working closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers and credit reference agencies) and may receive information about you from them.
 
+Within the table in section 8, we refer to these as the “special category reasons for processing of your personal data”.
 
-  5.  **Cookies**
+####  **7 Where We Collect Your Personal Data**
 
+We typically collect personal data about our customers and supporters when;
 
+  * you create an account on our Rangers FC website [here](https://www.rangers.talent-sport.co.uk/PagesPublic/Profile/Registration.aspx) or Rangers TV website [here](https://rangers.co.uk/tv/reg) to open an account with The Club to purchase any services or products we offer online;
+  * you open an account in person at our ticket office, by telephone or by post;
+  * or when you make a query and/or complaint or when you correspond with us by phone, e-mail, official social media channels or in some other way.
 
-Our Site uses cookies to distinguish you from other users of our Site. This helps us to provide you with a good experience when you browse our Site and also allows us to improve our Site. For detailed information on the cookies we use and the purposes for which we use them please see our [Cookie Policy](http://rangers.co.uk/cookie-policy/).
 
-  6.  **What do we do with this information?**
 
+If you are a football player we may also collect personal data about you from any club, school or other organisation you are affiliated with or from other referrals such as from coaches or talent scouts.
 
+If you are providing us with family members and emergency contacts or next of kin data then they have a right to know and to be aware of what personal data we hold about them, how we collect it and how we use and may share that information.  Please share this privacy policy with those of them whom you feel are sufficiently mature to understand it.  They also have the same rights as set out in section 14 of this privacy policy.
 
-We use information held about you in the following ways:
+####  **8 Uses Made Of Your Personal Data**
 
-  *  **Information you give to us.** We will use this information:
-    * to carry out our obligations arising from any contracts entered into between you and us and to provide you with the information, products and Services that you request from us;
-    * to provide you with information about other products and Services we offer that are similar to those that you have already purchased or enquired about;
-    * with your consent, to permit carefully selected third parties to provide you with information about goods or services we think may interest you. If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data). For more information, please see Paragraph 7 below;
-    * to notify you about changes to our Services;
-    * to ensure that content from our Site is presented in the most effective manner for you and for your computer.
+The table below describes the main purposes for which we process your personal data, the categories of your personal data involved and our lawful basis for being able to do this.
 
+ **Purpose**|  **Personal Data Used**|  **Lawful basis**  
+---|---|---  
+ 
 
-  *  **Information we collect about you.** We will use this information:
-    * to administer our site and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;
-    * to improve our site to ensure that content is presented in the most effective manner for you and for your computer;
-    * to allow you to participate in interactive features of our Services, when you choose to do so;
-    * as part of our efforts to keep our Site safe and secure;
-    * to measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you;
-    * to make suggestions and recommendations to you and other users of our Site about goods or services that may interest you or them.
+ **To administer any account(s) you have with us and managing our relationship with you and dealing with payments and any support service or product enquiries made by you.**
 
+|   
 
-  *  **Information we receive from other sources.** We may combine this information with information you give to us and information we collect about you. We may use this information and the combined information for the purposes set out above (depending on the types of information we receive).
+All contact and account details, transaction and payment information, Records of your interactions with us, and marketing preferences.
 
+|  
 
-  7.  **Consent to Marketing Communications**
+Performance of a contract. This is necessary to enable us to properly manage and administer your contract with us.  
+  
+ 
 
+ **To arrange and manage any contracts for the provision of any merchandise, products and/or services.**
 
+|   
 
-Paragraph 6 sets out the circumstances in which we may make use of the personal information you provide to us for direct marketing activities, or supply this information to carefully selected third parties for their direct marketing activities with your consent.
+All contact and account details.
 
-If having given your consent you subsequently decide that you no longer wish to receive direct marketing or information from us or our associated companies, you may unsubscribe at any time.
+Transaction and payment information.
 
-If you no longer want us to pass your information to third parties, you may unsubscribe at any time.
+|  
 
-If you have consented to marketing communications from our carefully selected third parties then you will be given the opportunity to unsubscribe from their marketing communications.
+Performance of a contract. This is necessary to enable us to properly administer and perform any contract for the provision of merchandise, products or services.  
+  
+ 
 
-You may unsubscribe from our marketing emails and SMS communications at any time.
+ **To send you information concerning your purchases.**
 
-  8.  **Your Privacy**
+|   
 
+All contact and account details.
 
+|  
 
-We endeavour to ensure that your data is stored securely and to prevent unauthorised access. We have technical and organisational security measures in place to protect your information which we monitor regularly. Unfortunately, despite our measures, because of the nature of the internet, we cannot guarantee that your information will remain at all times 100% secure. The continuing efforts of hackers to defeat even the newest of security systems means that we can never make this promise.
+Performance of a contract. This is necessary to enable us to properly manage and administer your contract with us.  
+  
+ 
 
-Where we make interactive features available on our Site, such as chat rooms, forums, discussion threads, profile pages etc then please be aware that if you disclose information on such areas or other or other public areas it may be possible for other people to use this information. We are not responsible for the disclosure of any information you post in this way.
+ **To send you other marketing information we think you might find relevant or which you have requested from us, including our newsletters, information about upcoming matches, events, products and information about our commercial partners.**
 
-It is our policy is to comply with the Data Protection Act 1998, the Regulation of Investigatory Powers Act 2000, the Regulation of Investigatory Powers (Scotland) Act 2000 and all other applicable legislation which governs the maintenance of privacy in your information.
+|   
 
-We do not knowingly collect and/or share personal information from children under the age of thirteen on our Site. However, your child may not be able to use some of the features of our Site without providing personal information – this relates to any interactive features of any of our Services. We recommend supervising your child’s use of our Site and our Services at all times.
+All contact and account details and marketing preferences.
 
-  9.  **Disclosure of your information**
+|  
 
+Where you have given us your consent to do so.  
+  
+ 
 
+ **To answer your queries or complaints.**
 
-We may share your personal information with any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.  We may also share your personal information with selected third party businesses that we have a contract with to facilitate the delivery of goods or services to you.
+|   
 
-The personal information you give us is only disclosed to other businesses if we have your permission. In particular, even where we have your consent we will only disclose your financial, credit card or bank details to our agents and/or third party suppliers of products or services on a need to know basis including, for example, in relation to the fulfilment of any e-commerce transactions.
+Contact details and records of your interactions with us.
 
-We may disclose anonymised details about use of our Site to other selected third parties e.g. to demonstrate patterns of use to advertisers and other business partners. The information we pass on will not include any personal information by which you may be identified.  For example, we do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, women in Glasgow). We may make use of the personal data we have collected from you to enable us to comply with our advertisers’ wishes by displaying their advertisement to that target audience.
+|  
 
-We may also share your details with analytics and search engine providers that assist us in the improvement and optimisation of our Site.
+We have a legitimate interest to provide complaint handling services to you in case there are any issues with your account or contract.  
+  
+ 
 
-We may also share your details with credit reference agencies for the purpose of assessing your credit score where this is a condition of us entering into a contract with you.
+ **Retention of records.**
 
-We may disclose your personal information to third parties:
+|   
 
-  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
-  * If the Club or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our Website Terms and Conditions, or terms and conditions of supply or any other legal agreements; or to protect the rights, property, or safety of the Club and our customers, or others. This may include exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+All the personal information we collect.
 
+|  
 
+We have a legitimate interest in retaining records whilst they may be required in relation to complaints or claims. We need to retain records to properly administer and manage your account and in some cases, we may have legal or regulatory obligations to retain records.
 
-We may forward your personal details to the Police or another regulatory body if we are asked to do so or wish to do so in order to comply with the law or in relation to any suspected misuse of our Site or our Services by you or any other person.
+We process special category personal data on the basis of the “special category reasons for processing of your personal data” referred to in section 6 of this policy.  
+  
+---|---|---  
+ 
 
-We endeavour to prevent unauthorised disclosures of your personal information by other people, but we are not responsible for any unauthorised disclosures or other breaches of security or for the actions of others if the information was passed to them with your authority or with the authority of anybody other than us or our associated companies.
+ **Your usage of our IT systems and online portals.**
 
-Our Site may include applications, content and/or adverts from third parties that may perform user activity tracking in addition to that described herein.
+|   
 
-  10.  **Where we store your information**
+IP addresses and cookies.
 
+|  
 
+We have a legitimate interest to ensure that our IT systems are secure and efficient.  
+  
+ 
 
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy.
+ **To conduct data analytics studies to better understand event attendance and trends within the sport.**
 
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our Site; any transmission is at your own risk. Once we have received your information, we will use technical and organisational security measures to try to prevent unauthorised access.
+|   
+
+Records of your attendance at football matches, soccer schools and any other events that you choose to attend.
+
+|  
+
+We have a legitimate interest in doing so to ensure that our customer offers are targeted and relevant.  
+  
+ 
+
+ **To ensure that the content on our website(s) is presented in the most effective manner for you and your computer.**
+
+|   
+
+IP address, operating system and browser type.
+
+|  
+
+We have a legitimate Interest to provide the best possible user experience when browsing our website(s) or watching video content.  
+  
+ 
+
+ **For the provision of stadium security and the minimisation of crime and disorder.**
+
+|   
+
+Images in video and/or photographic form.
+
+|  
+
+We have a legal obligation to provide a safe environment and will use CCTV recording as a        method of doing so.  
+  
+ 
+
+ **For the promotion of products and events.**
+
+|   
+
+Images in video and/or photographic form.
+
+|  
+
+It is a condition of the contract to purchase a match ticket that you are aware that we use photography and video recording to promote our products and events.  
+  
+ 
+
+ **To comply with health and safety requirements.**
+
+|   
+
+Records of attendance.
+
+|  
+
+We have a legal obligation and a legitimate interest to provide you and other members of our organisation with a safe environment in which to participate in or attend sporting events.  
+  
+For some of your personal data you will have a legal, contractual or other requirement or obligation for you to provide us with your personal data.  If you do not provide us with the requested personal data we may not be able to properly perform our contract with you or comply with legal obligations.
+
+Where you have given us your consent to use your personal data in a particular manner, you have the right to withdraw this consent at any time, which you may do by contacting us as per the details outlined in section 3 of this policy.
+
+Please note however that the withdrawal of your consent will not affect any use of the data made before you withdrew your consent and we may still be entitled to hold and process the relevant personal data to the extent that we are entitled to do so on a legal basis other than your consent.  Withdrawing consent may also have the same effects as not providing the information in the first place, for example we may no longer be able to provide certain customer benefits to you.
+
+####  **9 Direct Marketing**
+
+From time to time we may contact you by email, post or SMS with information about products and services we believe may be relevant to you.
+
+We will only send marketing communications to you in accordance with the marketing preferences you set. You can update your communication preferences or unsubscribe at any time [here](https://www.rangers.talent-sport.co.uk/PagesLogin/Profile/updateProfile.aspx).
+
+####  **10 How We May Share Your Personal Data**
+
+We share your personal data with the following parties:
+
+  * Any party approved by you;
+  * To any football governing bodies: to allow them to properly administer the sport on a local, regional and national level;
+  * Other service providers: for example, email marketing specialists, payment processors, data analysis, CCTV contractors, promotional advisors, contractors or suppliers and IT services (including CRM, website, video and teleconference services);
+  * The Government: where we are required to do so by law or to assist with their investigations or initiatives;
+  * Police, law enforcement and security services: when we are required to assist with the investigation and prevention of crime and the protection of national security.
+
+
+
+We do not disclose personal data to anyone else except as set out above.
+
+####  **11 Profiling and Automated Decision Making**
+
+The Club does not perform any profiling or automated decision making that has a significant or legal effect.
+
+####  **12 Transferring Your Personal Data Internationally**
+
+The personal data we collect may be transferred to and stored in countries outside of the UK and the European Economic Area. Some of these jurisdictions require different levels of protection in respect of personal data and, in certain instances, the laws in those countries may be less protective than the jurisdiction you are typically resident in. We will take all reasonable steps to ensure that your personal information is only used in accordance with this privacy policy and applicable data protection laws and is respected and kept secure. Where we employ an organisation to process your data on our behalf we will put in place appropriate safeguards as required under data protection laws.  For further details please contact the Data Protection Officer using the details in section 3
+
+####  **13 How Long Do We Keep Your Personal Data**
+
+The duration for which we retain your personal data will differ depending on the type of information and the reason why we collected it from you. However, in some cases personal data may be retained on a long-term basis: for example, personal data that we need to retain for legal purposes will normally be retained in accordance with usual commercial practice and regulatory requirements.  Generally, where there is no legal requirement we retain all physical and electronic records for a period of [6] years after your last contract with us.  Exceptions to this rule are:
+
+  * CCTV records which are held for no more than 28 days unless we need to preserve the records for the purpose of prevention and detection of crime;
+  * Information that may be relevant to personal injury claims, or discrimination claims may be retained until the limitation period for those types of claims has expired. For personal injury or discrimination claims this can be an extended period as the limitation period might not start to run until a long time after the event.
+
+
+
+It is important to ensure that the personal data we hold about you is accurate and up-to-date, and you should let us know if anything changes, for example if you change your phone number or email address
+
+####  **14 Your Rights**
+
+You have the following rights concerning your personal data. If you wish to exercise any of your rights, please contact the Data Protection Officer on the details listed in section 3 of this privacy policy.
+
+|   
+---|---  
+ **Right of access**|  You have the right to obtain confirmation from The Club as to whether or not personal data concerning you is being processed, and, where that is the case, access to that personal data.  
+ **Right to rectification**|  You have the right to oblige The Club to rectify inaccurate personal data concerning you. Taking into account the purposes of the processing, you have the right to have incomplete personal data completed by providing a supplementary statement.  
+ **Right to erasure (right to be forgotten)**|  You have the right (under certain circumstances, but not all) to oblige The Club to erase personal data concerning you.  
+ **Right to restriction of processing**|  You have the right (under certain circumstances, but not all) to oblige The Club to restrict processing of your personal data. For example, you may request this if you are contesting the accuracy of personal data held about you.  
+ **Right to data portability**|  You have the right (under certain circumstances, but not all) to oblige The Club to provide you with the personal data about you which you have provided to The Club in a structured, commonly used and machine-readable format.
+
+You also have the right to oblige The Club to transmit those data to another controller.  
+  
+ **Right to withdraw consent**|  If the lawful basis for processing is consent, you have the right to withdraw that consent.  
+ **Right to object to direct marketing**|  Where your personal data are processed for direct marketing purposes, you have the right to object at any time to processing of your personal data for marketing, which includes profiling to the extent that it is related to such direct marketing.  
+ **Rights in relation to automated decision making and profiling**|  The Club does not perform any automated decision-making based on personal data that produces legal effects or similarly significantly affects you.  
+  
+####  **15 Your Right To Lodge A Complaint**
+
+If you wish to exercise any of your rights concerning your personal data, please contact The Club’s Data Protection Officer in the first instance. The DPO will ensure your request is handled in a professional and timely manner. If however, you are not satisfied with the response you receive, you have the right to lodge a complaint with the supervisory authority. For the UK, the details are listed below:
+
+Information Commissioner’s Office
+
+Wycliffe House  
+Water Lane  
+Wilmslow  
+Cheshire  
+SK9 5AF
+
+Tel:       03031 231 113  
+Fax:      01625 524 510
