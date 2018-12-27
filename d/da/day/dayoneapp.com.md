@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the dayoneapp.com privacy policy that was archived on 2018-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180510123755id_/http%3A//dayoneapp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dayoneapp.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227074923id_/http%3A//dayoneapp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Day One
 
 The Day One app and its accompanying services are designed to maintain the private nature of your personal journal. This privacy policy outlines what information is collected and stored by Day One.
 
-Bloom Built, LLC (“ **Bloom Built** ,” “ **we** ,” “ **us** ,” or “ **our** ”) operates the Day One application and related websites (each, an “ **App** ” or a “ **Site** ”, respectively) and several related services (all such services, “Services”). Through our App and Services, we offer you a journaling program to record your memories, and, if you wish, share them with others as well.
+Bloom Built, Inc. (“​ **Bloom Built** ​,” “​ **we** ​,” “​ **us** ​,” or “​ **our** ​”) operates the Day One application and related websites (each, an “​ **App** ​” or a “​ **Site** ​”, respectively) and several related services (all such services, “Services”). Through our App and Services, we offer you a journaling program to record your memories, and, if you wish, share them with others as well.
 
 ## What Information We Collect and How We Use It
 
-In the course of using the Sites and Services, we collect both personal and anonymous information. “ **Personal Information** ” in this Privacy Policy refers to information that allows someone to identify or contact you. Examples of Personal Information include your name, address, telephone number, e-mail address, as well as any other non-public information about you that is associated with or linked to any of the foregoing information. “ **Anonymous Information** ” is information not associated with or inherently linked to your Personal Information. Anonymous Information does not enable identification of or contact with individual persons.
+In the course of using the Sites and Services, we collect both personal and anonymous information. “​ **Personal Information** ​” in this Privacy Policy refers to information that allows someone to identify or contact you. Examples of Personal Information include your name, address, telephone number, e-mail address, as well as any other non-public information about you that is associated with or linked to any of the foregoing information. “​ **Anonymous Information** ​” is information not associated with or inherently linked to your Personal Information. Anonymous Information does not enable identification of or contact with individual persons.
 
 ### Personal Information
 
@@ -17,7 +17,7 @@ We will use your Personal Information to:
   * Provide you with Services and customer support;
   * Market our products and services to you that we believe may be of interest to you;
   * Respond to your requests, resolve disputes and/or troubleshoot problems;
-  * Improve the quality of the Sites and the Services; and 
+  * Improve the quality of the Sites and the Services; and
   * Communicate with you about the Sites and the Services.
 
 
@@ -40,6 +40,12 @@ We collect the following types of Personal Information:
 
 **Other Information:** We collect your other Personal Information that you submit to us voluntarily as you use our App, Site and Services. If you provide us feedback or contact us via e-mail, we will collect your name and e-mail address, as well as any other content included in the e-mail, in order to send you a reply. You can choose not to provide us with certain information, but this may limit the features of the Services you are able to use.
 
+**Location Information:** In some cases we may collect and store information about where you are located, such as by converting your IP address into a rough geolocation or by accessing your mobile device’s GPS coordinates or coarse location if you enable location services on your device. We may use location information to improve and personalize our Services for you. If you do not want us to collect location information, you may disable that feature on your mobile device.
+
+**Social Media Platforms:** Day One’s Services may include publicly accessible blogs, community forums, or private messaging features. The Site and our other Services may also contain links and interactive features with various social media platforms (e.g., widgets). If you already use these platforms, their cookies may be set on your device when using our Site or other Services. You should be aware that Personal Information which you voluntarily include and transmit online in a publicly accessible blog, chat room, social media platform or otherwise online, or that you share in an open forum may be viewed and used by others without any restrictions. We are unable to control such uses of your information when interacting with a social media platform, and by using such services you assume the risk that the Personal Information provided by you may be viewed and used by third parties for any number of purposes.
+
+**Third-Party Payment Processing:** We may sell subscriptions or merchandise through our Services. When you make purchases through the Services, we process your payments through a third party application, including the Apple App Store, Google Play App Store, Amazon App Store (together with any similar applications, “App Stores”), Social Networking Sites (“SNS”) such as Facebook, and other third-party payment processers, including Stripe. The third party application may collect certain financial information from you to process a payment on behalf of Day One, including your name, email address, address and other billing information.
+
 ### Anonymous Information
 
 We will use your Anonymous Information to:
@@ -47,7 +53,7 @@ We will use your Anonymous Information to:
   * Keep track of logins and personalize your experience (including by tailoring content to you)
   * Enhance the Sites or Services
   * Improve the content of our software
-  * Customize the App, Sites or Services to you 
+  * Customize the App, Sites or Services to you
   * Contact you and/or market our products and services to you on our Sites or through our Services
 
 
@@ -77,8 +83,8 @@ We also disclose certain Personal Information:
   * To third party vendors who help us provide the Services or the Sites;
   * To third parties to whom you ask us to send Personal Information;
   * To a parent company, any subsidiaries, joint ventures, or other companies under a common control (collectively, “Affiliates”), in which case we will require our Affiliates to honor this Privacy Policy;
-  * In connection with or during negotiation of any merger, financing, acquisition or dissolution, transaction or proceeding involving sale, transfer, divestiture, or disclosure of all or a portion of our business or assets. 
-  * In the event of an insolvency, bankruptcy, or receivership, Personal Information may also be transferred as a business asset. If another company acquires our company, business, or assets, that company will possess the Personal Information collected by us and will assume the rights and obligations regarding your Personal Information as described in this Privacy Policy. 
+  * In connection with or during negotiation of any merger, financing, acquisition or dissolution, transaction or proceeding involving sale, transfer, divestiture, or disclosure of all or a portion of our business or assets.
+  * In the event of an insolvency, bankruptcy, or receivership, Personal Information may also be transferred as a business asset. If another company acquires our company, business, or assets, that company will possess the Personal Information collected by us and will assume the rights and obligations regarding your Personal Information as described in this Privacy Policy.
   * If we believe in good faith that such disclosure is necessary to (a) resolve disputes, investigate problems, or enforce our Terms of Service; (b) comply with relevant laws or to respond to requests from law enforcement or other government officials relating to investigations or alleged illegal activity, in which case we can (and you authorize us to) disclose Personal Information without subpoenas or warrants served on us; or (c) protect and defend our rights or property or the rights and property of you or third parties.
 
 
@@ -89,13 +95,13 @@ If you publish certain of your content, it will be made publicly available. This
 
 We reserve the right to disclose Anonymous Information publicly without restriction.
 
-## Controlling Your Information
+## Controlling Your Information / Request For Removal
 
-You can review and/or change certain of your Personal Information by logging into the Site or the App and accessing your account. You authorize us to use and disclose any new or modified information that you provide in accordance with this Privacy Policy, and you agree that we are under no obligation to delete or modify information that you have previously chosen to provide us.
-
-Upon your request, we will close your Account. We may retain your Personal Information to comply with laws, prevent fraud, resolve disputes, troubleshoot problems, assist with any investigations, enforce our Terms of Use, and take other actions otherwise permitted by law.
+You can review and/or change certain of your Personal Information by logging into the Site or the App and accessing your account. You authorize us to use and disclose any new or modified information that you provide in accordance with this Privacy Policy.
 
 You can stop all collection of information by the App(s) by uninstalling the App(s). You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+
+You can access and modify the Personal Information associated with your Account through your Account settings. If you want us to delete your Personal Information and your Account, please contact us at [support@dayoneapp.com](mailto:support@dayoneapp.com) with your request. We will start the process to delete your information in a reasonable time.
 
 ## Information Disclosed to Third Parties
 
@@ -115,6 +121,6 @@ This Privacy Policy is subject to revision from time to time on a going-forward 
 
 ## Questions about the Privacy Policy
 
-If you have any questions or concerns or complaints about our Privacy Policy or our information collection or processing practices, or if you want to report any security violations to us, please contact us at support@dayone.me or at Bloom Built, LLC, Attention: Chief Executive Officer, 240 North 1200 East Suite 204, Lehi, Utah 84043.
+If you have any questions or concerns or complaints about our Privacy Policy or our information collection or processing practices, or if you want to report any security violations to us, please contact us at [support@dayoneapp.com](mailto:support@dayoneapp.com) or at Bloom Built, Inc., Attention: Chief Executive Officer, 240 North 1200 East Suite 204, Lehi, Utah 84043.
 
-This Policy was last revised: June 22, 2017.
+This Policy was last revised: May 28, 2018.
