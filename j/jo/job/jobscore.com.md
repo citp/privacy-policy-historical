@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobscore.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614100711id_/https%3A//www.jobscore.com/agreements/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobscore.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227130601id_/https%3A//www.jobscore.com/agreements/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | JobScore
 
@@ -6,16 +6,16 @@ This privacy policy applies to http://www.jobscore.com owned and operated by Job
 
 [ ](https://privacy.truste.com/privacy-seal/validation?rid=e0dddde5-5f58-4b8b-9446-619dbb0874b8)
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at [ https://feedback-form.truste.com/watchdog/request](https://feedback-form.truste.com/watchdog/request). 
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at [ https://feedback-form.truste.com/watchdog/request](https://feedback-form.truste.com/watchdog/request).
 
 JobScore has agreed to notify users of:
 
-  1. What personally identifiable information of yours is collected by JobScore. 
-  2. How the information is used. 
-  3. With whom the information may be shared. 
-  4. How you can access and change your account information. 
-  5. What security procedures are in place to protect the information collected by JobScore. 
-  6. How to contact JobScore. 
+  1. What personally identifiable information of yours is collected by JobScore.
+  2. How the information is used.
+  3. With whom the information may be shared.
+  4. How you can access and change your account information.
+  5. What security procedures are in place to protect the information collected by JobScore.
+  6. How to contact JobScore.
 
 
 
@@ -25,11 +25,11 @@ JobScore complies with the EU-US and Swiss-US Privacy Shield Framework as set fo
 
 ## Information JobScore Collects
 
-JobScore collects a wide variety of Information as described in this Section that it uses to provide its membership services and general information services on its website (“Services”). JobScore generally provides Services to two “groups,” Employers and Jobseekers. Each is required to go through an enrollment process in order to use the Services. In doing so, JobScore requires certain information such as your name, address, phone number, email address, job description, resume information, role(s), employment preferences, time zone, and/or credit card information (if you are using a paid-for service). JobScore also collects information related to your overall use of the Services. JobScore also collects information related to discussions, chats, and other correspondence through the JobScore website. We may collect the following personal information from you about your contacts or friends: email address, mailing address, phone number, education history, and job history. 
+JobScore collects a wide variety of Information as described in this Section that it uses to provide its membership services and general information services on its website (“Services”). JobScore generally provides Services to two “groups,” Employers and Jobseekers. Each is required to go through an enrollment process in order to use the Services. In doing so, JobScore requires certain information such as your name, address, phone number, email address, job description, resume information, role(s), employment preferences, time zone, and/or credit card information (if you are using a paid-for service). JobScore also collects information related to your overall use of the Services. JobScore also collects information related to discussions, chats, and other correspondence through the JobScore website. We may collect the following personal information from you about your contacts or friends: email address, mailing address, phone number, education history, and job history.
 
 ## Information Use
 
-JobScore provides job matching services for Employers and Jobseekers. Employers may use the Services as a way to manage the process of soliciting Jobseekers and managing the hiring process. Jobseekers may use the Services to apply for specific jobs and also to be matched to other potential jobs. For a complete description of the Services, please visit [ www.jobscore.com](http://www.jobscore.com/). We use the information we collect from you about your contacts or friends: to deliver the Services to you whether you are an Employer or Jobseeker, to send you marketing communications when appropriate, to communicate with you about changes to the Services, and to notify you about any changes to our policies and Terms. We also use this collected information to respond to you when you contact us. 
+JobScore provides job matching services for Employers and Jobseekers. Employers may use the Services as a way to manage the process of soliciting Jobseekers and managing the hiring process. Jobseekers may use the Services to apply for specific jobs and also to be matched to other potential jobs. For a complete description of the Services, please visit [ www.jobscore.com](http://www.jobscore.com/). We use the information we collect from you about your contacts or friends: to deliver the Services to you whether you are an Employer or Jobseeker, to send you marketing communications when appropriate, to communicate with you about changes to the Services, and to notify you about any changes to our policies and Terms. We also use this collected information to respond to you when you contact us.
 
 ## Sharing of Information
 
@@ -71,7 +71,7 @@ Though JobScore makes every effort to preserve your privacy, JobScore may disclo
 
 ## Age Restrictions
 
-JobScore’s Services are only intended for persons that are eligible to work under any and all labor laws, rules, and regulations that apply to them, but in no event for persons under the age of 13. By completing any registration and/or otherwise using the Services, you represent that you meet the foregoing requirements. If you do not meet the foregoing requirements, you are not permitted to use the Services. 
+JobScore’s Services are only intended for persons that are eligible to work under any and all labor laws, rules, and regulations that apply to them, but in no event for persons under the age of 13. By completing any registration and/or otherwise using the Services, you represent that you meet the foregoing requirements. If you do not meet the foregoing requirements, you are not permitted to use the Services.
 
 ## Links to Other Websites
 
@@ -87,13 +87,13 @@ For certain Services, you can log in using sign-in services such as an Open ID p
 
 ## Opt-Out
 
-A Jobseeker may opt-out of receiving further matching opportunities and other communications from JobScore and/or Partners by selecting the applicable do not contact field in his/her account. JobScore will then no longer share your personal information with any Employers and will remove you from and its further communications in accordance with JobScore’s standard removal schedules. Please be aware that if your information has already been shared with an Employer in accordance with this Privacy Policy, that information will remain with the applicable Employer. 
+A Jobseeker may opt-out of receiving further matching opportunities and other communications from JobScore and/or Partners by selecting the applicable do not contact field in his/her account. JobScore will then no longer share your personal information with any Employers and will remove you from and its further communications in accordance with JobScore’s standard removal schedules. Please be aware that if your information has already been shared with an Employer in accordance with this Privacy Policy, that information will remain with the applicable Employer.
 
 An Employer may opt-out of receiving communications and using the Services by sending an e-mail to support@jobscore.com and requesting to no longer use the Services. JobScore shall then make reasonable efforts to forward a copy of the Jobseeker data corresponding to any of the Employer’s job opportunities, in a format determined by JobScore, within 30 days. For the purposes of clarity, JobScore shall continue to have the right to use the foregoing as “Jobseeker data” in accordance with this Privacy Policy. Please be aware that if any Jobseeker information has already been shared with JobScore and/or another Employer in accordance with this Privacy Policy, that information will remain with the applicable Employer.
 
 ## Correct/Update
 
-Upon request JobScore will provide you with information about whether we hold any of your personal information. You may change or modify certain personal user and enrollment information by login into your user accounts and modifying the applicable information. JobScore will update the information, as applicable, in accordance with JobScore’s standard update schedules. Please be aware that if your information has already been shared with an Employer in accordance with this Privacy Policy, the changed information will not be shared with such Employer. 
+Upon request JobScore will provide you with information about whether we hold any of your personal information. You may change or modify certain personal user and enrollment information by login into your user accounts and modifying the applicable information. JobScore will update the information, as applicable, in accordance with JobScore’s standard update schedules. Please be aware that if your information has already been shared with an Employer in accordance with this Privacy Policy, the changed information will not be shared with such Employer.
 
 We will retain your information for as long as your account is active or as needed to provide you services. Please contact us if you wish to cancel your account or request that we no longer use your information to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. We will respond to your request within a reasonable timeframe.
 
@@ -103,15 +103,15 @@ JobScore has reasonable security measures in place to protect the loss, misuse a
 
 ## Contacting the Website
 
-If you have any questions about this Privacy Policy, the practices of this website, or your dealings with the JobScore website, you may send an e-mail to [privacy@jobscore.com](mailto:privacy@jobscore.com), by regular mail at JobScore, 3600 21st Street #203, San Francisco, CA 94114, or by phone at 415-503-9524. If you believe that your (or any) copyright, trademark or other third parties rights have been violated, please notify [legal@jobscore.com](mailto:legal@jobscore.com) and JobScore will investigate. 
+If you have any questions about this Privacy Policy, the practices of this website, or your dealings with the JobScore website, you may send an e-mail to [privacy@jobscore.com](mailto:privacy@jobscore.com), by regular mail at JobScore, 3600 21st Street #203, San Francisco, CA 94114, or by phone at 415-503-9524. If you believe that your (or any) copyright, trademark or other third parties rights have been violated, please notify [legal@jobscore.com](mailto:legal@jobscore.com) and JobScore will investigate.
 
 ## Corporate Changes
 
-In the event JobScore merges, sells its assets, or is acquired by another company, information covered by this Privacy Policy would likely be part of the assets transferred to a third party. You will be notified via email of any such change in ownership as well as any choices you may have regarding your personal information. The third party would then have the right to continue using information covered and as set forth in this Privacy Policy. 
+In the event JobScore merges, sells its assets, or is acquired by another company, information covered by this Privacy Policy would likely be part of the assets transferred to a third party. You will be notified via email of any such change in ownership as well as any choices you may have regarding your personal information. The third party would then have the right to continue using information covered and as set forth in this Privacy Policy.
 
 ## Dispute Resolution
 
-In compliance with the EU-US and Swiss-US Privacy Shield Principles, JobScore commits to resolve complaints about your privacy and our collection or use of your personal information. European Union and Swiss citizens with inquiries or complaints regarding this privacy policy should first contact JobScore at [privacy@jobscore.com](mailto:privacy@jobscore.com) by regular mail at JobScore, 3600 21st Street #203, San Francisco, CA 94114, or by phone at 415-904-9900. The enforcement authority that has jurisdiction over JobScore’s LLC compliance with the Privacy Shield is the Federal Trade Commission. 
+In compliance with the EU-US and Swiss-US Privacy Shield Principles, JobScore commits to resolve complaints about your privacy and our collection or use of your personal information. European Union and Swiss citizens with inquiries or complaints regarding this privacy policy should first contact JobScore at [privacy@jobscore.com](mailto:privacy@jobscore.com) by regular mail at JobScore, 3600 21st Street #203, San Francisco, CA 94114, or by phone at 415-904-9900. The enforcement authority that has jurisdiction over JobScore’s LLC compliance with the Privacy Shield is the Federal Trade Commission.
 
 If you do not find the proposed solution satisfactory, JobScore will resolve the dispute under dispute resolution procedures of the panel established by the EU data protection authorities (DPAs) or the Swiss Federal Data Protection and Information Commissioner (FDPIC) to resolve disputes pursuant to the Privacy Shield Principles. The EU DPAs may be contacted directly via the information provided at [ http://ec.europa.eu/justice/data-protection/bodies/index_en.htm.](http://ec.europa.eu/justice/data-protection/bodies/index_en.htm) The Swiss FDPIC may be contacted directly via the information provided at <https://www.edoeb.admin.ch/edoeb/en/home/the-fdpic/task.html>.
 
