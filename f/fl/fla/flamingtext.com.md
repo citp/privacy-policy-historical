@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flamingtext.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614213258id_/http%3A//flamingtext.com/privacy.html%3F_loc%3Dbottom) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flamingtext.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227160324id_/http%3A//www.flamingtext.com/privacy.html%3F_loc%3Dbottom) for the most accurate reproduction.*
 
 # Logo Design Tool. Free and Online.
 
@@ -59,6 +59,8 @@ A user may be required to first complete a registration form in order to use par
 This site uses the services of Google other third parties to serve advertisements for promotions and other marketing messages when you visit our site. These companies may use information about your visits to this and other Web sites in order to target advertisements for goods and services that are of interest to you. If you would like more information about this practice, including your choices about not having this information used by these companies, please visit [Google](https://policies.google.com/technologies/ads), 
 
 You can opt-out of most advertising at the [NAI Gateway](https://optout.networkadvertising.org/). 
+
+Exponential Interactive, Inc, as our partner, have a legitimate interest to collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. For more details including opt-out requests, access requests or complaints, please review their [privacy policy](http://exponential.com/privacy/) or contact their data protection officer via [privacy@exponential.com](mailto:privacy@exponential.com). 
 
 ### Cookies
 
