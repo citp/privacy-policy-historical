@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leadbolt.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616060536id_/https%3A//www.leadbolt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadbolt.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227202944id_/https%3A//www.leadbolt.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Leadbolt
 
@@ -16,17 +16,17 @@ If you are viewing or visiting any of our websites in-order to sign up as a deve
 
 #### Information we collect from our Clients
 
-As a Client or visitor to our Sites, we collect certain information that you voluntarily provide to us. This is collected when you interact with our Services and provide us with information by filling out a form or signing up to a Service. This may include your name, contact details such as e-mail address and payment details where relevant.
+As a Client or visitor to our Sites, we collect certain information that you voluntarily provide to us. This may be collected automatically when you interact with our Services and provide us with information by filling out a form or signing up to a Service. This may include your name, contact details such as e-mail address and payment details where relevant.
 
-We also use Cookies, Web Beacons and other technologies to store and retrieve information to optimize your experience of the Services and more effectively run our Services.
+We also use Standard Cookies, Web Beacons and other technologies to store and retrieve information to optimize your experience of the Services and more effectively run our Services.
 
 #### Information we collect from End Users
 
-As an End User of an App that utilizes Leadbolt’s Services, we may collect or receive Anonymous Information via SDKs or other means in order to effectively run our services. The type of information we collect may include: geographic location, device identifiers for advertising, operating system versions, mobile applications names, language settings, device type information, mobile network settings, IP addresses, internet browser types where used to access the Services, and details of any interactions with our Services.
+As an End User of an App that utilizes Leadbolt’s Services, we may collect or receive Anonymous Information via SDKs or other means in order to effectively run our services. Leadbolt may collect this information automatically when you use our Services, or when you voluntarily choose to provide it to us. The type of information we collect may include: geographic location, device identifiers for advertising, operating system versions, mobile applications names, language settings, device type information, mobile network settings, IP addresses, internet browser types where used to access the Services, and details of any interactions with our Services.
 
 Where our SDK is embedded in our Client’s App, which the End User has consented to use, any information received through our SDK shall be governed by the terms entered into between our Client and the End User.
 
-We may also collect and store information locally on your device using mechanisms such as local storage identifiers. These local storage identifiers in no way damage your system or files and we primarily uses these identifiers to optimize our Services and to limit the number of ads you see and deliver more relevant ads to you.
+We may also collect and store information locally on your device using mechanisms such as Cookies. These Cookies in no way damage your system or files and we primarily use these identifiers to optimize our Services and to limit the number of ads you see and deliver more relevant ads to you.
 
 We may receive Anonymous Information or aggregated information from our Clients or other third parties. This information may include device information or other information related to the ads we serve.
 
@@ -97,7 +97,7 @@ United States: <https://www.ftc.gov/>
 **Where Leadbolt is a Data Controller**  
 Where Leadbolt is controlling data, such as data of our direct publisher, advertisers who are individuals or visitors to our website, Leadbolt will use that data when it is required in order to perform our obligations under a contract to which you are a party and to provide services to you.
 
-Leadbolt may also collect browser information and use Cookies for visitors to our website. This information will only be used for as described above under “Use of Your Information”.
+Leadbolt may also automatically collect browser information and use Standard Cookies for visitors to our website. This information will only be used for as described above under “Use of Your Information”.
 
  **Where Leadbolt is a Data Processor**  
 We also may process your Personal Information as a result of your request for information relating to Leadbolt’s Services.
@@ -130,7 +130,7 @@ Email: [dataprotectionofficer@leadbolt.com](mailto:dataprotectionofficer@leadbol
 
  **Clients** are developers, advertiser, publisher or other parties who have entered into an agreement with us to use the Services.
 
- **Cookies** are small pieces of data sent from a website that are stored in a user’s web browser while the user is browsing that website. When a user revisits the website, the stored cookie data is available to the website.
+ **Cookies** shall mean a Standard Cookie or equivalent.
 
  **End Users** are users who interact with an App that is utilising the Services.
 
@@ -142,6 +142,8 @@ Email: [dataprotectionofficer@leadbolt.com](mailto:dataprotectionofficer@leadbol
 
  **Services** includes our websites ([www.leadbolt.com](https://www.leadbolt.com/) and related sites); the connection to our network of application publishers, developers and mobile advertisers; the ad serving platform and SDK and other online services.
 
+ **Standard Cookies** are small pieces of data sent from a website that are stored in a user’s web browser while the user is browsing that website. When a user revisits the website, the stored cookie data is available to the website.
+
  **Web Beacons** are objects that are embedded in a web page and are usually invisible to the user and provides statistics around website usage.
 
-Updated: May 2018
+Updated: July 2018
