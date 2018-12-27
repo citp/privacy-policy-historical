@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flextronics.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627094857id_/https%3A//flex.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flextronics.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227141209id_/https%3A//flex.com/privacy-policy) for the most accurate reproduction.*
 
 # | Flex
 
@@ -619,6 +619,54 @@ Safari: [https://support.apple.com/kb/PH19214?locale=en_GB](https://support.appl
 Pardot uses a persistent cookie named "pi_opt_in" to stay in compliance with the "Do Not Track" initiative and allow for opt out of types of browser tracking. Pardot’s tracking code can optionally respect these headers and does not use cookie-based tracking for any visitors with this setting enabled.
 
 You can also find more information and manage cookie storage at: [www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
+
+**FLEX RECRUITMENT NOTICE**
+
+**PROCESSING OF PERSONAL DATA**
+
+Flex International USA, Inc. of 6201 America Center, San Jose, CA, USA, and all other Flex group companies (hereafter Flex) takes its obligations to protect privacy and personal information very seriously.
+
+**Contact details:** Your personal information is collected by Flex Int ("we"/"us"/"our"). You can contact us at [hrcompliance@flex.com](mailto:hrcompliance@flex.com). If you have any questions or complaints in relation to the use of your personal information or this Recruitment Notice, you can contact our Data Privacy Officer at: [chiefprivacyofficer@flex.com](mailto:chiefprivacyofficer@flex.com)
+
+**Personal Information Collected:** We collect, the information below about you during the recruitment process. If you fail to provide certain information when requested, we will not be able to progress your application.
+
+  * Information provided in your curriculum vitae, application form, covering letter and during the interview process including: your name, date of birth, age, gender, home address, personal email address, education, qualification and work experience details, and references.
+  * Information collected or created by us during the recruitment process including: interview notes, test scores and correspondence between us.
+  * Information about criminal convictions: we carry out background checks as part of the recruitment process.
+
+
+
+Special categories of personal data including: Racial and ethnic origin information [and information relating to disabilities, religious beliefs or sexual orientation], physical or mental health information and immigration/naturalisation records (if this discloses racial/ethnic origin information).
+
+**Sources of Information:** This information is either (a) provided by you; (b) obtained from third parties through the application and recruitment process; (c) obtained from public sources, such as LinkedIn, or (d) created by us in the course of the recruitment process.
+
+**How we use personal information:** We use your personal information to progress the recruitment process, assess and make a decision about your suitability for a role, to communicate with you and to carry out reference checks. We will also use your information to comply with legal and regulatory requirements.
+
+**Why we use personal information:** We will use the information collected from you because:
+
+  * it is necessary for us to do so before entering into a contract with you;
+  * we need to process your information in order to comply with a legal or regulatory obligation;
+  * because we or a third party have a legitimate interest to: (a) ensure the effective administration and management of the recruitment process; (b) ensure we hire a suitable individual for a role; (c) deal with disputes and accidents and take legal or other professional advice; and (d) ascertain your fitness to work.
+
+
+
+**How we use special category personal information:** We will process your special categories of personal data to consider whether we need to provide appropriate adjustments for any disabilities during the recruitment process; (2) for equal monitoring purposes; (3) comply with any legal or regulatory obligation.
+
+**Why we use special category personal information:** We will use special categories of personal information collected about you because: (1) you have provided your explicit written consent;(2) we need to do so to carry out our legal obligations; (3) it is necessary for the establishment, exercise or defence or legal claims on in relation to court cases; [(4) there is a substantial public interest;] (5) it is needed to protect your interests (or someone else's interests) and you are not capable of giving your consent.
+
+**Information about criminal convictions:** As part of the recruitment process we carry out criminal background checks. We use these checks (1) to assess your suitability for a regulated role; (2) to protect your interests, our interests and third party interests; (3) because it is necessary in relation to legal claims. We are allowed to use your personal information in this way where it is necessary to carry out our employment rights and obligations and we will always process your data in accordance with applicable local law.
+
+**Automated decision making:** Following a [background check/ psychometric test] an automated decision will be reached on whether to progress your application or offer you employment based on whether yours satisfy our benchmark criteria. If you disagree with the decision you are entitled to contest this by contacting us at following email address: [chiefprivacyofficer@flex.com](mailto:chiefprivacyofficer@flex.com)
+
+**Information that we share:** We will only share your personal information with the following third parties for the purposes of processing your application: (1) employment agencies, (2) background check and online test providers, and (3) regulators and competent authorities. We will also share personal data within our group for the purposes of administration, accounting and reporting purposes.
+
+**Retention of your information:** We will retain your personal information for the duration of the recruitment process and for the length of any applicable limitation period for claims which might be brought against us later.
+
+**Where your information will be held:** We may transfer the personal information we collect about you to other flex entities outside the EU for the purposes of management and administration of the recruitment process subject to us implementing appropriate safeguards. If you would like to obtain copies of such safeguards you can request them from us on the contact details above.
+
+**Your rights:** You have the following rights in connection to your data: the rights of access, correction, erasure, objection, restriction, transfer, and the right to withdraw consent and to complain to a Supervisory Authority.
+
+**Note :** While this global policy is designed to deliver consistent and efficient information to candidates on global basis , all information will always be processed in accordance with applicable local law
 
 **PART B FLEX GROUP COMPANIES AND HOW TO CONTACT US**
 
