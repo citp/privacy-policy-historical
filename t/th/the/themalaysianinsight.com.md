@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the themalaysianinsight.com privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621093706id_/https%3A//www.themalaysianinsight.com/i/596) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themalaysianinsight.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227105006id_/https%3A//www.themalaysianinsight.com/i/596) for the most accurate reproduction.*
 
 # Privacy Policy | The Malaysian Insight
-
-## Privacy Policy 
-
-Updated one year ago · Published on 31 Mar 2017 7:00AM
 
 This notice explains what information and how we use the information that we collect from you.
 
@@ -34,7 +30,7 @@ We use non-identifying and aggregate information to better design TMI, to sugges
 
 ### How To Contact Us
 
-Please email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#bfc8daddffcbd7dad2ded3dec6ccd6ded1d6d1ccd6d8d7cb91dcd0d2 "Email to Us") for support or questions regarding our privacy policy. At this time, we only have the ability to receive and send English-language communications.
+Please email [web@themalaysianinsight.com](mailto:web@themalaysianinsight.com "Email to Us") for support or questions regarding our privacy policy. At this time, we only have the ability to receive and send English-language communications.
 
 ### Changes To This Policy
 
