@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the caaspp.org privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628201317id_/http%3A//www.ets.org/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caaspp.org privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227131944id_/http%3A//www.ets.org/legal/privacy) for the most accurate reproduction.*
 
 # ETS Legal: Privacy and Security
 
-Educational Testing Service ("ETS") recognizes the importance of protecting your privacy. This privacy notice describes our practices related to personal information privacy and security. 
+Educational Testing Service ("ETS") recognizes the importance of protecting your privacy. This privacy notice describes our practices related to personal information privacy and security.
 
 ETS has a global privacy program to protect all “Personal Information.” Personal Information is any information that we can use to identify you (such as your name, username or identification number) or contact you (such as your email address or telephone number). Personal Information includes other types of information (such as test scores or demographic data) when that information is associated with your Personal Information.
 
@@ -103,7 +103,7 @@ Cookies
 When you visit our Website, we place cookies on your computer. Cookies are small text files that websites send to your computer or other internet-connected device to uniquely identify your browser or to store information or settings in your browser. We use both temporary (session) cookies and persistent cookies, which allow us to recognize you when you return. Cookies help us provide a customized experience and enable us to detect certain kinds of fraud. In many cases, you can manage cookie preferences and opt-out of having cookies and other data collection technologies used by adjusting the settings on your browser. All browsers are different, so visit the “help” section of your browser to learn about cookie preferences and other privacy settings that may be available.
 
 Flash Cookies    
-We may use Flash cookies (also known as Local Stored Objects) and similar technologies to personalize and enhance your online experience _.  _A Flash cookie is a small data file placed on a computer using Adobe® Flash technology.The Adobe Flash Player is an application that allows rapid development of dynamic content, such as video clips and animation.
+We may use Flash cookies (also known as Local Stored Objects) and similar technologies to personalize and enhance your online experience. A Flash cookie is a small data file placed on a computer using Adobe® Flash technology.The Adobe Flash Player is an application that allows rapid development of dynamic content, such as video clips and animation.
 
 We use Flash cookies to personalize and enhance your online experience and to deliver content for Flash players. We may also use Flash cookies for security purposes, to gather certain website metrics and to help remember settings and preferences. Flash cookies are managed through a different interface than the one provided by your web browser. To manage Flash cookies, please [visit Adobe’s website](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html). If you disable Flash cookies or other similar technologies, please be aware that you may not have access to certain content and product features.
 
@@ -143,7 +143,7 @@ Back to Top
 
 When you register for a test online or create an account, we ask you to provide your contact details, including email address, telephone and mobile phone details. We use this information so that we can quickly provide you with information regarding the products and services you have requested.
 
-If we have your consent (or if you have not objected), we may send other communications to you, such as surveys and information about other testing products and services. You can limit these communications at any time. To opt out of emails, simply click the link labeled “unsubscribe” at the bottom of any email we send you. To revoke permissions that you may have given to send text messages, text STOP in response to any message. Remember, however, that we may still send emails or call you in order to provide the testing services you have purchased or otherwise requested from us.
+If we have your consent (or if you have not objected), we may send other communications to you, such as surveys and information about other testing products and services. You can limit these communications at any time. To opt out of emails, simply click the link labeled “Unsubscribe” at the bottom of any email we send you. To revoke permissions that you may have given to send text messages, text STOP in response to any message. Remember, however, that we may still send emails or call you in order to provide the testing services you have purchased or otherwise requested from us.
 
 We also respect your right to reasonably access and correct your Personal Information. If you have an online account, you can log into your account at any time to access and update the information you have provided to us (with the exception of your name, gender, birthdate or Social Security number, if provided).  Additionally, ETS complies with all laws regarding access and correction. If you need assistance updating your Personal Information, please contact us via email at [etsinfo@ets.org](mailto:etsinfo@ets.org).
 
@@ -165,7 +165,7 @@ Back to Top
 
 ## Changes
 
-ETS reserves the right to change this Privacy Policy at any time, including to respond to new laws, regulations, or technology, or for other business reasons. Please check this Website from time to time to review any such changes. Changes will become effective when posted on the Website for all Personal Information collected after the date of the change. If the changes will materially affect the way we use or disclose previously-collected Personal Information, we will notify you about the change by sending a notice to the primary email address associated with your account.
+ETS reserves the right to change this Privacy Policy at any time, including to respond to new laws, regulations, or technology, or for other business reasons. Please check this Website from time to time to review any such changes. Changes will become effective when posted on the Website for all Personal Information collected after the date of the change. If the changes will materially affect the way we use or disclose previously collected Personal Information, we will notify you about the change by sending a notice to the primary email address associated with your account.
 
 Back to Top
 
@@ -218,7 +218,7 @@ The Purposes and Legal Basis for Processing, Including Legitimate Interests
 The Privacy Notice explains the reasons why we process your Personal Information. We only process Personal Information when we have a legal basis for the processing, such as:
 
   * To fulfill a contract with you, such as to provide you with an ETS test or a test offered by another company through ETS.
-  * For closely-related purposes, such as payment processing and financial account management, contract management, website administration, business continuity and disaster recovery, security and fraud prevention, corporate governance, reporting and legal compliance.
+  * For closely related purposes, such as payment processing and financial account management, contract management, website administration, business continuity and disaster recovery, security and fraud prevention, corporate governance, reporting and legal compliance.
   * With your consent (or provided you have not objected, as may be applicable), such to provide you with marketing communications or to send your scores to your designated recipients.
 
 
@@ -235,7 +235,7 @@ We may also process your Personal Information for the purposes of our legitimate
 
 
 Automated Decision Making and Profiling    
-ETS may use automated processes in connection with scoring tests and for similar purposes, as needed to provide the test services that you have requested. All such decisions are subject to human review. We will not make automated decisions about you that may significantly affect you, unless (1) the decision is necessary as part of a contract that we have with you, (2) we have yourexplicit consent, or (3) we are required by law to use the technology. You can learn more about test scoring by reading the information posted on our Website about each of our tests.
+ETS may use automated processes in connection with scoring tests and for similar purposes as needed to provide the test services that you have requested. All such decisions are subject to human review. We will not make automated decisions about you that may significantly affect you, unless (1) the decision is necessary as part of a contract that we have with you, (2) we have your explicit consent, or (3) we are required by law to use the technology. You can learn more about test scoring by reading the information posted on our Website about each of our tests.
 
 In some cases, we use certain elements of personal data for ETS Research. For example, we may consider how certain types of test takers (such as nonnative English speakers) respond to specific test questions. Our research initiatives reflect our commitment to fairness and equity in testing, helping to ensure that are our tests are accessible and free from bias. They also seek to improve teaching, learning and assessment. Our research results do not contain any identifiable data, and are not used to target or profile individuals. Learn more about [ETS Research](https://www.ets.org/research).
 
@@ -245,7 +245,7 @@ In most cases, you are not required by law to provide any Personal Information t
 If you request an accommodation from ETS, such as special testing conditions needed because of a health condition or disability, you may be required to submit additional Personal Information (including special categories of data) as needed for us to evaluate and respond to your request.
 
 Your Rights    
-As stated in the Privacy Notice, you always have the right to object to our marketing communications. To opt out of emails, simply click the link labeled “unsubscribe” at the bottom of any email we send you. To revoke permissions that you may have given to send text messages, text STOP in response to any message.
+As stated in the Privacy Notice, you always have the right to object to our marketing communications. To opt out of emails, simply click the link labeled “Unsubscribe” at the bottom of any email we send you. To revoke permissions that you may have given to send text messages, text STOP in response to any message.
 
 ETS also respects the rights of EEA residents to access, correct and request erasure or restriction of their personal information as required by law. This means:
 
@@ -257,7 +257,7 @@ ETS also respects the rights of EEA residents to access, correct and request era
 
 To exercise these rights, please contact us via email at [etsinfo@ets.org](mailto:etsinfo@ets.org) or write us at the U.S. address above, and a member of our Privacy Team will assist you. Please understand that we may need to verify your identify before we can process your request. Additionally, our ability to delete Personal Information will be limited in those cases where we are required to retain records, such as in connection with score reports and test security processes.
 
-If you believe that we have processed your Personal Information in violation of applicable law, you may file a complaint with the ETS Office of General Counsel or with a supervisory authority.
+If you believe that we have processed your Personal Information in violation of applicable law, you may file a complaint with the ETS Office of the General Counsel or with a supervisory authority.
 
 International Transfers   
 As stated in the Privacy Notice, your Personal Information may be transferred to, stored at or processed in the United States and other countries which may not have equivalent privacy or data protection laws.
@@ -267,7 +267,7 @@ We generally use approved Standard Contractual Clauses to assure that Personal I
 Please contact us via email at [etsinfo@ets.org](mailto:etsinfo@ets.org) if you would like more information about cross-border transfers or to obtain a copy of the Standard Contractual Clauses.
 
 Data Retention    
-We will retain your Personal Information for as long as the information is needed for the purposes set forth above and for any additional period that may be required or permitted by law. You may request that we delete your Personal Information by contacting us via email to etsinfo@ets.org. Unless we are required by law or have a legitimate interest to retain your information, we will delete it within 30 days of your request.  
+We will retain your Personal Information for as long as the information is needed for the purposes set forth above and for any additional period that may be required or permitted by law. You may request that we delete your Personal Information by contacting us via email at [etsinfo@ets.org](mailto:etsinfo@ets.org). Unless we are required by law or have a legitimate interest to retain your information, we will delete it within 30 days of your request.  
 
 How to Contact Us    
 Please contact us if you have any questions or comments about our privacy practices or this Privacy Notice. You can always reach us via email at [etsinfo@ets.org](mailto:etsinfo@ets.org). You can also reach us via mail at the addresses given above.
