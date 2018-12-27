@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swansonvitamins.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615030725id_/https%3A//www.swansonvitamins.com/help/security-privacy/security-privacy-information/security-and-privacy-information.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swansonvitamins.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227150551id_/https%3A//www.swansonvitamins.com/help/security-privacy/security-privacy-information/security-and-privacy-information.html) for the most accurate reproduction.*
 
 # Security & Privacy Information | Security & Privacy - Help Desk - Swanson®
 
@@ -140,6 +140,7 @@ We want to be sure your personal information is kept accurate and complete, and 
 
   * **Marketing:** We offer you various ways to opt-out of receiving certain communications from us. If you would like to opt-out of receiving email marketing communications from us, you may click the “Unsubscribe” link found at the bottom of Swanson Health marketing emails that we send and follow the easy instructions to opt-out, or you may click the "Preferences" links to update your email settings. If you would like to opt-out of receiving marketing phone calls, you can inform the agent with whom you speak that you would like to be placed on Swanson Health’s "Do Not Call" list. If you would like to opt-out of any Swanson Health text message campaign, please follow the instructions provided when you opt-in to the campaign; typically, responding "STOP" to your specific short code will opt you out of the campaign for which you signed up. If you wish to be removed from the list of customers who receive direct mail and other Swanson advertisements through the mail, contact us by any of the following methods: Phone: (800) 451-9304; Email: [customercare@swansonvitamins.com](mailto:cutomercare@swansonvitamins.com); U.S. Mail: Swanson Health Products PO Box 2803 Fargo, ND 58108. Please be sure to include your full name and mailing address that you would like removed from our postal mailing list. Please allow sufficient time for your preferences to be processed and updated.
   * **Online Advertising:** To learn some of the ways that you can opt-out of targeted online advertising, see the section above titled “What About Cookies, Pixel Tags and Third-Party Tracking Tools?" for more information.
+  * **Display Advertising:  **Some of the ads you see on the Web or in applications on your mobile device are tailored to your interests and based on your activity online or in the applications on your mobile device. This type of ad tailoring — sometimes called "interest-based" or "online behavioral" advertising — is enabled through various technologies, including browser cookies, mobile advertising identifiers as well as other non-cookie technologies. Tailored digital ads help support the free products, services and content you enjoy online. You can choose to opt of this [here](http://dtmc.swansonvitamins.com/adinfo/choice/prod/?type=fpc&cid=2114&cname=Swanson%20Vitamins&cmagic=51174a&clogo=2114.png&loc=us&lang=en-us).
 
 
 
@@ -165,4 +166,4 @@ Attn: General Counsel
 
 4075 40th Ave S Fargo, ND 58104
 
-or email us: [legal@swansonhealth.com](mailto:legal@swansonhealth.com) or [dataprotectionoffier@swansonhealth.com](mailto:dataprotectionofficer@swansonhealth.com)
+or email us: [legal@swansonhealth.com](mailto:legal@swansonhealth.com) or [dataprotectionofficer@swansonhealth.com](mailto:dataprotectionofficer@swansonhealth.com)
