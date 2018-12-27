@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the circleci.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627130132id_/http%3A//circleci.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the circleci.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227203123id_/https%3A//circleci.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - CircleCI
 
@@ -138,6 +138,10 @@ This Privacy Policy applies only to the Website and the Service and not to any t
 ## Social Media Widgets
 
 The Website and the Service may include social media features, such as the Twitter button, and widgets, such as the Share this button or interactive mini-programs. These features may collect your IP address, which page you are visiting on the Website, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on the Website or the Service. Your interactions with these features are governed by the privacy policy of the company providing it.
+
+## Do Not Track
+
+Currently, various browsers - including Internet Explorer, Firefox, and Safari - offer a “do not track” or “DNT” option that relies on technology known as a DNT header, which sends a signal to the websites visited by the user about the user’s browsers DNT preference setting. CircleCI does not currently commit to responding to browser’s DNT preference across its Sites and Services, because no common industry standard for DNT has been adopted by industry groups, technology companies or regulators, including no consistent standard of interpreting user intent. CircleCI takes privacy and choices regarding privacy seriously and will make efforts to continue to monitor the development around DNT browser technology and the implementation of a standard for DNT.
 
 ## Security
 
