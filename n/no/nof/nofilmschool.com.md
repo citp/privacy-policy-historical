@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nofilmschool.com privacy policy that was archived on 2018-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180316114926id_/https%3A//nofilmschool.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nofilmschool.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227172125id_/https%3A//nofilmschool.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -38,7 +38,7 @@ You have the ability to accept or decline cookies. Most Web browsers automatical
 
 ## Interest-based ads
 
-When you visit this website, you may view advertisements posted on the site by Google or other companies. These advertising companies may collect information about you while you are visiting this website and other websites. They may use this data to show you advertisements on this website and elsewhere on the Internet about products and services you might like. This website does not collect the information or control the content of the advertisements that you will see. You may be able to opt out of such advertising. To find out more about interest-based advertising or to opt out, [click this link](http://www.networkadvertising.org/choices/). Your use of this website without opting out means that you understand and agree to data collection to provide you with interest-based advertising.
+When you visit this website, you may view advertisements posted on the site by Google or other companies. These advertising companies may collect information about you while you are visiting this website and other websites. They may use this data to show you advertisements on this website and elsewhere on the Internet about products and services you might like. This website does not collect the information or control the content of the advertisements that you will see. You may be able to opt out of such advertising. To find out more about interest-based advertising or to opt out, [click this link](https://www.networkadvertising.org/choices/). Your use of this website without opting out means that you understand and agree to data collection to provide you with interest-based advertising.
 
 ## Security of your Personal Information
 
