@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the namibian.com.na privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120081339id_/https%3A//www.namibian.com.na/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namibian.com.na privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227030016id_/https%3A//www.namibian.com.na/Privacy-Policy) for the most accurate reproduction.*
 
 # The Namibian
 
@@ -8,27 +8,27 @@
 
 * * *
 
-2017-11-20
+2018-12-26
 
-## [Uruguay overpower Namibia](https://www.namibian.com.na/61721/read/Uruguay-overpower-Namibia "Click to read full article")
+## [Liverpool open up six-point lead as Man City lose again at Leicester](https://www.namibian.com.na/74340/read/Liverpool-open-up-six-point-lead-as-Man-City-lose-again-at-Leicester "Click to read full article")
 
-LED by their powerful pack, Uruguay ground out a 52-36 win against Namibia on Saturday to take a 1-0 lead in their two-match Test series.
-
-* * *
-
-2017-11-20
-
-## [Dippenaar wins Tara Rally](https://www.namibian.com.na/61711/read/Dippenaar-wins-Tara-Rally "Click to read full article")
-
-WINDHOEK – Wilro Dippenaar and his co-driver Riaan van der Westhuizen won an exciting 2017 Tara Rally held in Windhoek on Sunday.
+LONDON - Liverpool moved six points clear at the top of the Premier League as the leaders eased past Newcastle 4-0 at Anfield and Manchester City were beaten for the second time in five days, 2-1 at Leicester.
 
 * * *
 
-2017-11-20
+2018-12-26
 
-## [Citizens' revival continues](https://www.namibian.com.na/61710/read/Citizens-revival-continues "Click to read full article")
+## [Olivier steals limelight from record breaker Steyn](https://www.namibian.com.na/74339/read/Olivier-steals-limelight-from-record-breaker-Steyn "Click to read full article")
 
-AS AFRICAN Stars' MTC Premiership juggernaut hogs the limelight, less-heralded Citizens are quietly going from early season relegation candidates to a formidable unit.
+CENTURION - Fast bowler Duanne Olivier was almost apologetic for stealing the limelight from record-breaker Dale Steyn after 15 wickets fell on the first day of the first Test between South Africa and Pakistan at SuperSport Park on Wednesday.
+
+* * *
+
+2018-12-25
+
+## [Resurgent Djokovic leads the way as old guard stays on top](https://www.namibian.com.na/74334/read/Resurgent-Djokovic-leads-the-way-as-old-guard-stays-on-top "Click to read full article")
+
+PARIS - Next Gen poster boy Alexander Zverev's season-ending Tour Finals triumph served up a glimpse into the future of men's tennis although 2018 remained a year dominated once more by the usual, yet ageing, suspects as a revitalised Novak Djokovic returned to the peak of his powers.
 
 * * *
 
@@ -38,27 +38,29 @@ AS AFRICAN Stars' MTC Premiership juggernaut hogs the limelight, less-heralded C
 
 * * *
 
-2017-11-17
+2018-12-20
 
-## [Frontlining on Twitter](https://www.namibian.com.na/61620/read/Frontlining-on-Twitter "Click to read full article")
+## [Heatwave Festival 2018 to rock the coast](https://www.namibian.com.na/74195/read/Heatwave-Festival-2018-to-rock-the-coast "Click to read full article")
 
-IT'S all eyes on Zimbabwe, and more than a few on Namibia as that country's saga continues to unfold...
+RUKEE KAAKUNGA; NETUMBO NEKOMBA
 
-* * *
-
-2017-11-16
-
-## [Jomolizo comes back strong with 'Epata Lange'](https://www.namibian.com.na/61608/read/Jomolizo-comes-back-strong-with-Epata-Lange "Click to read full article")
-
-FOLLOWING the success of his previous album 'Kaandjetu', Jomolizo has once again released a good body of work in the form of his latest musical project, 'Epata Lange'.
+STAGE thriller Sally Boss Madam will be headlining the Heat Festival taking place at The Dome, Swakopmund on Friday, 28 December.
 
 * * *
 
-2017-11-16
+2018-12-20
 
-## [Kaptein Tswazis delivers a swift 'Checkmate'](https://www.namibian.com.na/61609/read/Kaptein-Tswazis-delivers-a-swift-Checkmate "Click to read full article")
+## [Exit to launch latest album at NYE bash](https://www.namibian.com.na/74196/read/Exit-to-launch-latest-album-at-NYE-bash "Click to read full article")
 
-ALTHOUGH we're quite sad that Kaptein Tswazi, real name Milton Mootseng, had to leave the energetic Tswazis, we're even more elated that he's found his sound, and the new album 'Checkmate' is a testimony to that.
+POPULAR kwaito artist Exit is launching his latest album at a New Year's bash that's set to take place at Bennie's Entertainment Park at Ongwediva on 31 December
+
+* * *
+
+2018-12-20
+
+## [From The Twittersphere](https://www.namibian.com.na/74197/read/From-The-Twittersphere "Click to read full article")
+
+Aaand it's a wrap, folks! Herewith the last Twittersphere for 2018. Wishing you and yours a fabulous festive season, a cheerful Christmas and a noteworthy New Year. Please be safe out there – don't drink and drive, take it easy and stick to the speed limit. Appreciate the scenery, and each other. Till next year, xo.
 
 * * *
 
@@ -68,27 +70,33 @@ ALTHOUGH we're quite sad that Kaptein Tswazi, real name Milton Mootseng, had to 
 
 * * *
 
-2017-11-20
+2018-12-21
 
-## [Schlettwein discusses mid-term budget at coast](https://www.namibian.com.na/61727/read/Schlettwein-discusses-mid-term-budget-at-coast "Click to read full article")
+## [Cost-cutting painful but necessary – Schlettwein](https://www.namibian.com.na/74287/read/Cost-cutting-painful-but-necessary-%E2%80%93-Schlettwein "Click to read full article")
 
-THE total debt stock by the end of the current year is estimated at N$74,23 billion, or some 42% of GDP, which is high.
+LAZARUS AMUKESHE
 
-* * *
-
-2017-11-20
-
-## [Oil set for fall due to oversupply worries](https://www.namibian.com.na/61728/read/Oil-set-for-fall-due-to-oversupply-worries "Click to read full article")
-
-SINGAPORE – Oil prices steadied on Friday after recent declines, but were on track for their first weekly fall in six weeks as concerns about surging United States supplies put a dent in the market's recent rally.
+FINANCE minister Calle Schlettwein has admitted that the ministry's cost-cutting measures brought certain negatives on domestic industries that depended on the government.
 
 * * *
 
-2017-11-20
+2018-12-21
 
-## [Nedbank to focus on second-hand vehicle financing](https://www.namibian.com.na/61729/read/Nedbank-to-focus-on-second-hand-vehicle-financing "Click to read full article")
+## [NSX stocks and deals](https://www.namibian.com.na/74288/read/NSX-stocks-and-deals "Click to read full article")
 
-NAMIBIA'S economy is still in recovery, with consumers finding it difficult to move forward to meet their obligations.
+LAZARUS AMUKESHE
+
+WORKERS BUY OLD MUTUAL SHARES
+
+INSURANCE company Old Mutual Limited's workers have bought about 103 000 shares in the company at the value of atN$2,2 million.
+
+* * *
+
+2018-12-21
+
+## [Husab aims for 5 000tonnes uranium next year](https://www.namibian.com.na/74289/read/Husab-aims-for-5-000tonnes-uranium-next-year "Click to read full article")
+
+SWAKOP Uranium's Husab mine is set to drum 5 000 tonnes of uranium oxide (U3O8) next year, according to a statement issued by the company's executive committee this week.
 
 * * *
 
@@ -98,7 +106,7 @@ NAMIBIA'S economy is still in recovery, with consumers finding it difficult to m
 
 * * *
 
-Do you think Namibian MPs deserve better perks?
+Do you think president Geingob opening Sisa Namandje's building constituted a conflict of interest?
 
 ##  Your Privacy 
 
@@ -211,5 +219,3 @@ You may set your web browser (MicroSoft Internet Explorer or Netscape Navigator)
 
   
 
-
-* * *
