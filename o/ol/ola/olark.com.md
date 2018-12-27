@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the olark.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623112340id_/https%3A//www.olark.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olark.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227130611id_/https%3A//www.olark.com/privacy-policy) for the most accurate reproduction.*
 
 # Olark Privacy Policy | Olark
 
@@ -27,8 +27,7 @@ Olark encourages you to review this Privacy Policy periodically. If you have any
 It is important that you identify which relationship(s) you have with Olark to understand Olark’s data protection obligations and your rights to your Personal Information under this Privacy Policy. Olark has the following relationships:
 
   * A “User” is an individual providing Personal Information to us via our website or other services, products or platforms, such as by signing up for our newsletter or making an account and posting on the forums. Here, Olark is a data controller.
-  * A “Customer” is a specific type of User that has engaged us to act as an agent (a “data processor”) by obtaining our Services. The Customer is the data controller, and Olark is their data processor.  
-
+  * A “Customer” is a specific type of User that has engaged us to act as an agent (a “data processor”) by obtaining our Services. The Customer is the data controller, and Olark is their data processor.
   * A “Customer End User” is an individual that provides their Personal Information to our Customers. We do not control the purposes or the means by which their Personal Information is collected, and we are not in a direct relationship with Customer End Users.
 
 
@@ -229,8 +228,7 @@ Please be advised that there are limitations to your individual rights. We may l
     * is no longer necessary in relation to the purposes for which it was collected or otherwise processed;
     * was collected in relation to processing that you previously consented to, but later withdrew such consent; or
     * was collected in relation to processing activities to which you object, and there are no overriding legitimate grounds for our processing.
-  * **Right to restriction**. You have the right to restrict our processing your Personal Information where one of the following applies:  
-
+  * **Right to restriction**. You have the right to restrict our processing your Personal Information where one of the following applies: 
     * You contest the accuracy of your Personal Information that we processed. In such instances, we will restrict processing during the period necessary for us to verify the accuracy of your Personal Information.
     * The processing is unlawful and you oppose the erasure of your Personal Information and request the restriction of its use instead.
     * We no longer need your Personal Information for the purposes of the processing, but it is required by you to establish, exercise or defense of legal claims.
@@ -242,8 +240,7 @@ Restricted Personal Information shall only be processed with your consent or for
 
   * **Right to object to processing**. If we process your Personal Information on the legal basis of consent, contract or legitimate interests, you may object to such processing at any time, as permitted by applicable law. We can continue to process your Personal Information if it is necessary for the defense of legal claims, or for any other exceptions permitted by applicable law.
   * **Notification to third-parties processing your Personal Information**. If we share your Personal Information with third parties, we will communicate any rectification, erasure or restriction of your Personal Information to each third party that has received your information, unless this proves impossible or involves disproportionate effort. Upon your request, we will identify such third parties.
-  * **Retention**. We will try to limit the retention of your Personal Information to the length of time necessary to serve the purpose(s) for which your Personal Information was processed, to resolve disputes, enforce our agreements, and as required or permitted by law. While retention requirements can vary by country, we generally apply the retention periods described below.  
-
+  * **Retention**. We will try to limit the retention of your Personal Information to the length of time necessary to serve the purpose(s) for which your Personal Information was processed, to resolve disputes, enforce our agreements, and as required or permitted by law. While retention requirements can vary by country, we generally apply the retention periods described below. 
     * **Contact Information**. For example, your name, email address and telephone number as used for marketing purposes is retained on an ongoing basis until you unsubscribe. Once you unsubscribe, we add your contact information to our suppression list indefinitely to ensure we respect your unsubscribe request.
     * **Interactions and Content**. For example, any posts on our blog or website, support tickets, and other content may be kept indefinitely after you close your account for the establishment or defense of legal claims, audit and crime prevention purposes.
     * **Web Behavior Data**. For example, any information collected via technical means such as cookies, webpage counters and other analytics tools are retained for a period of up to one year from expiry of the cookie.
@@ -262,7 +259,7 @@ Olark’s accountability for Personal Information that it receives under the Pri
 
 ### Resolution of Disputes and Complaint Mechanism
 
-If you believe we have violated your privacy rights, you have a right to lodge a complaint about your data handling practices. In compliance with the Privacy Shield Principles, Olark commits to resolve complaints about your privacy and our collection or use of your Personal Information. If you have any queries related to the processing of your Personal Information under the Privacy Shield framework, we encourage you to contact us directly in the first instance at: privacy@olark.com or Olark Privacy, 205 ½ N Main St., Ann Arbor, MI 48104.
+If you believe we have violated your privacy rights, you have a right to lodge a complaint about your data handling practices. In compliance with the Privacy Shield Principles, Olark commits to resolve complaints about your privacy and our collection or use of your Personal Information. If you have any queries related to the processing of your Personal Information under the Privacy Shield framework, we encourage you to contact us directly in the first instance at: privacy@olark.com or Olark Privacy, 427 N Tatnall St #63602, Wilmington, DE 19801.
 
 Olark has further committed to refer unresolved privacy complaints under the EU-US and Swiss-US Privacy Shield Principles to BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit www.bbb.org/EU-privacy-shield/for-eu-consumers/ for more information and to file a complaint.
 
