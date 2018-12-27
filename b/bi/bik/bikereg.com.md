@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bikereg.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606044127id_/https%3A//www.bikereg.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikereg.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227053847id_/https%3A//www.bikereg.com/Privacy.aspx) for the most accurate reproduction.*
 
 # BikeReg.com - online cycling event registration
 
@@ -22,27 +22,27 @@ Our online surveys ask visitors for contact information (like their email addres
 
 We may use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.
 
-## Security
+### Security
 
 All transactions with BikeReg.com are SSL encrypted to ensure safe transmission over the internet.
 
-## Supplementation Information
+### Supplementation Information
 
 This site may supplement the information that you provide with information that is received from third parties. 
 
-## Choice/Opt-Out
+### Choice/Opt-Out
 
 Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. 
 
 For removing information from our database to not receive future communications or to no longer receive our service, you can send email to [Info@BikeReg.com](mailto:Info@BikeReg.com).
 
-## Correct/Update
+### Correct/Update
 
 To change and modify information previously provided, visit [https://www.bikereg.com](https://www.bikereg.com/) or email [Info@BikeReg.com](mailto:Info@BikeReg.com).
 
-## Contacting the Web Site
+### Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may contact:
 
 **Customer Service**  
 BikeReg.com  
