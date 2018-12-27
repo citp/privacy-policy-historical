@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the polo.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624130530id_/https%3A//www.ralphlauren.com/customerservice%3Fcid%3Dcs-privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polo.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228001657id_/https%3A//www.ralphlauren.com/customerservice%3Fcid%3Dcs-privacy-notice) for the most accurate reproduction.*
 
 # Customer Service | Ralph Lauren
 
@@ -6,7 +6,7 @@
 
 **WEBSITE, STORE AND RESTAURANT PRIVACY NOTICE**
 
-Last modified: May 23, 2018
+Last modified: August 23, 2018
 
 Ralph Lauren Corporation and its affiliates (collectively, “Ralph Lauren”) respect your concerns about privacy. This Privacy Notice applies to personal information we collect (i) on this website, (ii) at Ralph Lauren Stores, Ralph Lauren Factory Outlet Stores (collectively, the “Stores”), and (iii) through the other channels described below. Ralph Lauren is responsible for this website.
 
@@ -154,7 +154,7 @@ We strive to protect the confidentiality and security of Social Security numbers
 
 We may transfer the personal information we collect about you to recipients in countries other than the country in which you originally provided it. These countries may not have the same data protection laws as the country in which you provided the information. When we transfer your information to recipients in other countries, we will protect that information as described in this Privacy Notice and will comply with applicable legal requirements providing adequate protection for the transfer of personal information to recipients in countries other than the one in which you provided the information.
 
-If you are located in the European Economic Area (“EEA”), with respect to transfers of personal information to the U.S., Ralph Lauren and its affiliate Club Monaco US, LLC are certified under the EU-U.S. Privacy Shield framework developed by the U.S. Department of Commerce and the European Commission regarding the transfer of personal information from the EEA to the U.S. Click [here](https://web.archive.org/customerservice?cid=cs-privacy-notice#EUPRIVACYNOTICE) to view our EU-U.S. Privacy Shield Privacy Policy.
+If you are located in the European Economic Area (“EEA”) or Switzerland, with respect to transfers of personal information to the U.S., Ralph Lauren and its affiliate Club Monaco US, LLC are certified under the EU-U.S. and the Swiss-U.S. Privacy Shield frameworks developed by the U.S. Department of Commerce, and the European Commission and Swiss Federal Data Protection and Information Commissioner, respectively, regarding the transfer of personal information from the EEA or Switzerland to the U.S. Click [here](https://web.archive.org/customerservice?cid=cs-privacy-notice#EUPRIVACYNOTICE) to view our EU/Swiss-U.S. Privacy Shield Privacy Policy.
 
 **Access and Correction**
 
@@ -164,7 +164,7 @@ Subject to applicable law, we provide you with access to personal information we
 
 We offer you certain choices about how we communicate with you and what information we collect from you. You may withdraw any consent you previously provided to us or object at any time on legitimate grounds and free of charge to the processing of your personal information, and we will apply your preferences going forward.
 
-You can choose not to receive marketing communications from us by clicking on the unsubscribe link in our marketing emails, clicking [here](https://web.archive.org/web/20180624130530id_/https%3A//www.ralphlauren.com/app.ralphlauren.com/unsub/unsub.cfm), or contacting us as specified in the “How to Contact Us” section below. Please include your name, email address and postal address if you send us your request by email or postal mail. Our website is not designed to respond to “do not track” signals received from browsers.
+You can choose not to receive marketing communications from us by clicking on the unsubscribe link in our marketing emails, clicking [here](https://web.archive.org/web/20181228001657id_/https%3A//www.ralphlauren.com/app.ralphlauren.com/unsub/unsub.cfm), or contacting us as specified in the “How to Contact Us” section below. Please include your name, email address and postal address if you send us your request by email or postal mail. Our website is not designed to respond to “do not track” signals received from browsers.
 
 If you are a California resident, you may ask us to refrain from sharing your information with certain of our affiliates and other third parties for their marketing purposes.
 
@@ -210,23 +210,23 @@ Switzerland
 
 Email: eu.privacy@ralphlauren.com
 
-EU-U.S. PRIVACY SHIELD PRIVACY POLICY
+EU-/SWISS - U.S. PRIVACY SHIELD PRIVACY POLICY
 
-Effective date: May 23, 2018
+Effective date: August 23, 2018
 
-Ralph Lauren Corporation, along with its affiliate Club Monaco US, LLC (collectively, “Ralph Lauren”), respect your concerns about privacy. Ralph Lauren participates in the EU-U.S. Privacy Shield framework (“Privacy Shield”) issued by the U.S. Department of Commerce. Ralph Lauren commits to comply with the Privacy Shield Principles with respect to Consumer Personal Data the company receives from the EU in reliance on the Privacy Shield. This Policy describes how Ralph Lauren implements the Privacy Shield Principles for Consumer Personal Data.
+Ralph Lauren Corporation, along with its affiliate Club Monaco US, LLC (collectively, “Ralph Lauren”), respect your concerns about privacy. Ralph Lauren participates in the EU-U.S. and the Swiss-U.S. Privacy Shield frameworks (“Privacy Shield”) issued by the U.S. Department of Commerce. Ralph Lauren commits to comply with the Privacy Shield Principles with respect to Consumer Personal Data the company receives from the EU and Switzerland in reliance on the Privacy Shield. This Policy describes how Ralph Lauren implements the Privacy Shield Principles for Consumer Personal Data.
 
 For purposes of this Policy:
 
 “Controller” means a person or organization which, alone or jointly with others, determines the purposes and means of the processing of Personal Data.
 
-“Consumer” means any natural person who is located in the EU, but excludes any individual acting in his or her capacity as a Worker.
+“Consumer” means any natural person who is located in the EU or Switzerland, but excludes any individual acting in his or her capacity as a Worker.
 
 “EU” means the European Union and Iceland, Liechtenstein and Norway.
 
 “Partner” means any licensing or franchising partner or other third-party operating a Store under any of the Ralph Lauren brands.
 
-“Personal Data” means any information, including Sensitive Data, that is (i) about an identified or identifiable individual, (ii) received by Ralph Lauren in the U.S. from the EU, and (iii) recorded in any form.
+“Personal Data” means any information, including Sensitive Data, that is (i) about an identified or identifiable individual, (ii) received by Ralph Lauren in the U.S. from the EU or Switzerland, and (iii) recorded in any form.
 
 “Privacy Shield Principles” means the Principles and Supplemental Principles of the Privacy Shield.
 
@@ -236,9 +236,9 @@ For purposes of this Policy:
 
 “Sites” means [www.ralphlauren.com](http://www.ralphlauren.com/), [www.clubmonaco.com](http://www.clubmonaco.com/), [www.ralphlauren.de](http://www.ralphlauren.de/), [www.ralphlauren.fr ](http://www.ralphlauren.fr/)and [www.ralphlauren.co.uk](http://www.ralphlauren.co.uk/) here.
 
-“Store” means a Store operated under any of the Ralph Lauren brands by Ralph Lauren or any of its affiliates or Partners, which Store is located in the EU.
+“Store” means a Store operated under any of the Ralph Lauren brands by Ralph Lauren or any of its affiliates or Partners, which Store is located in the EU or Switzerland.
 
-“Worker” means any current, former or prospective employee, temporary worker, intern, contractor or other non-permanent employee of Ralph Lauren or any of its affiliates, who is located in the EU.
+“Worker” means any current, former or prospective employee, temporary worker, intern, contractor or other non-permanent employee of Ralph Lauren or any of its affiliates, who is located in the EU or Switzerland.
 
 Ralph Lauren’s Privacy Shield certification, along with additional information about the Privacy Shield, can be found at <https://www.privacyshield.gov/>. For more information about Consumer Personal Data processing with respect to information obtained through Ralph Lauren’s Sites and Stores, please visit the company’ s privacy notices on the Sites.
 
@@ -343,11 +343,13 @@ E-mail: eu.privacy@ralphlauren.com.
 
 **MOBILE APPLICATION PRIVACY NOTICE**
 
-This Mobile Application Privacy Notice applies to each of the Ralph Lauren mobile applications (“Apps”). We are not responsible for the content, use, or privacy practices of any third-party sites linked from or otherwise accessible from the Apps that are not operated by Ralph Lauren.
+This Mobile Application Privacy Notice applies to the mobile applications that Ralph Lauren owns or controls (“Apps”). We are not responsible for the content, use, or privacy practices of any third-party sites linked from or otherwise accessible from the Apps that are not operated by Ralph Lauren.
 
 **Personal Information You Provide and How We Use It**
 
-Through our Apps, you can find the location of the nearest Ralph Lauren Store by entering your ZIP code or by allowing the Apps to use your current location to locate the nearest Store. You also may access Ralph Lauren’s website from the Apps. When you visit our website, we may collect certain personal information about you as described above in the Privacy Notice applicable to our website.
+Through our Apps, you can find the location of the nearest Ralph Lauren Store by entering your ZIP code. With your consent, we will collect the precise geolocation of your mobile device to help you locate the nearest Ralph Lauren Stores and to send you information about promotions and other offerings from nearby Stores.
+
+When you visit our Apps, we also may collect personal information about you as described above in the Privacy Notice applicable to our website.
 
 We may share personal information we collect through the Apps with service providers that perform services on our behalf and our affiliates. We also may disclose information about you (i) if we are required to do so by law or legal process, (ii) to law enforcement authorities, or (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity. We reserve the right to transfer any information we have about you in the event we sell or transfer all or a portion of our business or assets.
 
@@ -379,4 +381,4 @@ Attention: Chief Privacy Officer
 
 New York, New York 10022
 
-Effective Date of Mobile Application Privacy Notice: February 25, 2013
+Effective Date of Mobile Application Privacy Notice: September 14, 2018
