@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the martechadvisor.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627110046id_/https%3A//www.martechadvisor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the martechadvisor.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227183830id_/https%3A//www.martechadvisor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MarTech Advisor
 
@@ -34,11 +34,6 @@ By the use of the Website, you expressly consent to our use and disclosure of yo
   6. **CONSENT**
     1. By using the Website and/or by providing your information, you consent to the collection and use of the information you disclose on the Website in accordance with this Policy, including but not limited to your consent for sharing your information as per this Policy.
   7. **GRIEVANCE**
-    1. The name and contact details of the Grievance Officer, as required in terms of the Information Technology Act, 2000 and rules/regulations made thereunder, are stated below: 
-      * Name: Chitra Iyer, Editor-in-Chief
-      * Address: DemandShore Solutions Private Limited, Cerebrum IT Park, Tower No. B-3, 4th Floor, Kalyani Nagar, Pune – 411014, Maharashtra, India
-      * Phone: +91-20-67290400
-      * Email: chitra(dot)iyer(at)martechadvisor(dot)com
-      * Time: Weekdays (10:00 AM to 6:00 PM Indian Standard Time)
+    1. For any questions or comments please write to us at privacy@revenu8.com
 
 
