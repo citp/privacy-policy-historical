@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magicaljellybean.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612132507id_/https%3A//www.magicaljellybean.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magicaljellybean.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227015629id_/https%3A//www.magicaljellybean.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -9,7 +9,7 @@ Your privacy is important to us. To better protect your privacy we provide this 
 What information we collect and how we use it
 
 \- Our software does not collect and send any information to our servers.   
-\- This website collects anonymous information about visitors (like geographical location, visited pages, etc.) using Google Analytics. To read Google's privacy policy, visit following [link](http://www.google.com/policies/privacy/).
+\- This website collects anonymous information about visitors (like geographical location, visited pages, etc.) using Google Analytics. To read Google's privacy policy, visit following [link](https://www.google.com/policies/privacy/).
 
 We don't share information you provide us with any third parties.  
 As an exception to that policy Magical Jelly Bean may disclose Personal Information only if required to do so by law or in the good-faith belief that such action is necessary to protect and defend the rights or property of Magical Jelly Bean, the sites or the users of Magical Jelly Bean software.
