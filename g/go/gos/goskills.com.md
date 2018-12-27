@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goskills.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627164127id_/https%3A//www.goskills.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goskills.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227235513id_/https%3A//www.goskills.com/Privacy) for the most accurate reproduction.*
 
 # Privacy policy | GoSkills
 
@@ -35,6 +35,8 @@ We will not disclose your personal information to third parties unless:
 
 
 We strive to keep users’ personal information as secure as possible. However, as it’s impossible for any exchange of data to be completely secure, all transmissions of data are at users’ own risk.
+
+We have implemented Google’s reCAPTCHA v3 on our site to help protect our services from bots and spam. Our use of reCAPTCHA v3 is subject to Google’s [Privacy Policy](https://policies.google.com/privacy) and [Terms of Use](https://policies.google.com/terms). We do not use reCAPTCHA for any other purpose.
 
 ## Cookies and measuring website traffic
 
