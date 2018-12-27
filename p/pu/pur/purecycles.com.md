@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the purecycles.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606182559id_/https%3A//www.purecycles.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purecycles.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227113319id_/https%3A//www.purecycles.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Pure Cycles
+# Privacy Policy – Pure Cycles
 
 ### **Pure Cycles Privacy Policy**
 
