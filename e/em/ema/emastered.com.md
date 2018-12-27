@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emastered.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626192115id_/https%3A//emastered.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emastered.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227031158id_/https%3A//emastered.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | eMastered Instant Audio Mastering
 
@@ -89,3 +89,5 @@ We do not specifically market to children under the age of 13.
 ## How does eMastered operate with regard to Fair Information Practice Principles (FIPPS)?
 
 We take the Fair Information Practice Principles seriously, and should a data breach occur we will notify the users via email within a reasonable timeframe.
+
+## English is the authoritative version, translations are provided for convenience and may not be current.
