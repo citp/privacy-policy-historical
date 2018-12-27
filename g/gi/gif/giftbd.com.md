@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giftbd.com privacy policy that was archived on 2018-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180603065622id_/http%3A//giftbd.com/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giftbd.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227211041id_/http%3A//www.giftbd.com/PrivacyPolicy.php) for the most accurate reproduction.*
 
 # GiftBD.com - Send gifts to bangladesh
 
