@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readysethealth.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627120313id_/http%3A//readysethealth.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readysethealth.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227193939id_/http%3A//readysethealth.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy – Ready Set Health
 
