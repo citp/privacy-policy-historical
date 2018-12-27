@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbspressexpress.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627121054id_/https%3A//cbspressexpress.com/cbs-entertainment/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbspressexpress.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227194615id_/https%3A//www.cbspressexpress.com/cbs-entertainment/privacy-policy) for the most accurate reproduction.*
 
 # CBS Press Express | CBS Privacy Policy
 
