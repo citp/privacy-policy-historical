@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creativemarket.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628174452id_/https%3A//creativemarket.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativemarket.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227140340id_/https%3A//creativemarket.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy ~ Creative Market
 
@@ -8,7 +8,7 @@ This Privacy Policy was last modified and published on May 22, 2018 and will tak
 
 The previous version of this policy can be viewed [here](https://web.archive.org/privacy/v1).
 
-Creative Market Labs, Inc. ("Creative Market," "we," or "us") knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by Creative Market when you use the Creative Market Service, how the information will be used, and how you can control the collection, correction and/or deletion of information. This Privacy Policy applies to our Service, which includes [www.creativemarket.com](https://web.archive.org/web/20180628174452id_/https%3A//creativemarket.com/www.creativemarket.com), and its sub-domains such as [pro.creativemarket.com](https://web.archive.org/web/20180628174452id_/https%3A//creativemarket.com/pro.creativemarket.com), also referred to as " **Site** ". We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Service](https://web.archive.org/terms).
+Creative Market Labs, Inc. ("Creative Market," "we," or "us") knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by Creative Market when you use the Creative Market Service, how the information will be used, and how you can control the collection, correction and/or deletion of information. This Privacy Policy applies to our Service, which includes [www.creativemarket.com](https://web.archive.org/web/20181227140340id_/https%3A//creativemarket.com/www.creativemarket.com), and its sub-domains such as [pro.creativemarket.com](https://web.archive.org/web/20181227140340id_/https%3A//creativemarket.com/pro.creativemarket.com), also referred to as " **Site** ". We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Service](https://web.archive.org/terms).
 
   
 
@@ -21,7 +21,7 @@ Creative Market Labs, Inc. ("Creative Market," "we," or "us") knows that you car
 
 **Log File Information:** Log file information is automatically reported by your browser each time you access a web page. Please see here for [Information About Our Use of Cookies And Similar Technologies](https://web.archive.org/cookiepolicy).
 
-**Third Party Analytics Services:** Creative Market uses third party analytics services. See here for how Google uses data when you use our Service and how you may opt out ([www.google.com/policies/privacy/partners/](https://web.archive.org/web/20180628174452id_/https%3A//creativemarket.com/www.google.com/policies/privacy/partners/)). We also use [LinkedIn Analytics](https://www.linkedin.com/legal/privacy-policy), [Sift Science](https://siftscience.com/service-privacy), [Segment](https://segment.com/docs/legal/privacy/), and [New Relic](https://newrelic.com/privacy). Please see here for [Information About Our Use of Cookies And Similar Technologies](https://web.archive.org/cookiepolicy).
+**Third Party Analytics Services:** Creative Market uses third party analytics services. See here for how Google uses data when you use our Service and how you may opt out ([www.google.com/policies/privacy/partners/](https://web.archive.org/web/20181227140340id_/https%3A//creativemarket.com/www.google.com/policies/privacy/partners/)). We also use [LinkedIn Analytics](https://www.linkedin.com/legal/privacy-policy), [Sift Science](https://siftscience.com/service-privacy), [Segment](https://segment.com/docs/legal/privacy/), and [New Relic](https://newrelic.com/privacy). Please see here for [Information About Our Use of Cookies And Similar Technologies](https://web.archive.org/cookiepolicy).
 
 **Social Network and Platform Integration.** The Service may be integrated with social media networks and other platforms (e.g., Facebook, Pinterest, and LinkedIn) whereby information may be shared between us and those platforms. For instance, if you interact with our Service through a social media feature such as a plug-in, then you may be granting us on-going access to certain information from that social media account. If you do not want a social media platform to collect or share information about you, please review the privacy policy and privacy settings of the applicable social media property before using such features on our Service. Please see here for [Information About Our Use of Cookies And Similar Technologies](https://web.archive.org/cookiepolicy).
 
@@ -59,9 +59,11 @@ Except as otherwise described in this Privacy Policy, we will not disclose Perso
 
 (a) conform to the law, comply with legal process served on us or our affiliates, or investigate, prevent, or take action regarding suspected or actual illegal activities;
 
-(b) to enforce our [Terms of Service](https://web.archive.org/terms), take precautions against liability, to investigate and defend ourselves against any third-party claims or allegations, to assist government enforcement agencies, or to protect the security or integrity of our Site; and
+(b) to enforce our [Terms of Service](https://web.archive.org/terms), take precautions against liability, to investigate and defend ourselves against any third-party claims or allegations, to assist government enforcement agencies, or to protect the security or integrity of our Site;
 
-(c) to exercise or protect the rights, property, or personal safety of Creative Market or Creative Market Labs, our Users or others.
+(c) support legitimate interests, such as sharing Personal Information with payment processors and third parties who provide fraud detection services; and
+
+(d) to exercise or protect the rights, property, or personal safety of Creative Market or Creative Market Labs, our Users or others.
 
 
 
