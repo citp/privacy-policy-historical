@@ -1,47 +1,57 @@
-> *The following text is extracted and transformed from the pressera.com privacy policy that was archived on 2018-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180225193102id_/http%3A//www.pressera.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pressera.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227012452id_/https%3A//www.brandroot.com/privacy-policy) for the most accurate reproduction.*
 
-# Pressera
+# Privacy Policy
 
-Effective as of January 1, 2015.
+This privacy policy has been compiled to provide a clear understanding of how Brandroot.com collect's, uses, protects or otherwise handles your Personally Identifiable Information.
 
-Pressera respects its customers personal information and has strict privacy policy rules. By reading this Privacy Policy statement you will learn more about how we (Pressera.com, we, our, or us) treat information including personally identifiable information, in connection with the https://pressera.com website. The visitor/customer of the Site has the right to know what information we collect, how it is protected and used. This information under some kind of circumstances (please read further) can be disclosed.
+##### What personal information does Brandroot collect from visitors on our website?
 
-The policy covers the ways by whose pressera.com gets the customers identifiable information (such as full name, telephone number, email and physical addresses). Note that information used for internal Pressera activities is not considered as being offense. Moreover information that is processed by the third parties and is not owned or controlled by us is also not covered by this policy. We can not guarantee that our partners, advertisers or third-party payment merchants has the same strict rules as we have. Please review those third parties privacy policies.
+When purchasing a domain name on our site, as appropriate, you may be asked to enter your personal information, such as, your name, email address, mailing address, phone number, credit card information and other details to help us complete your purchase as securely as possible.
 
-1\. How do we get information from you?
+##### When does Brandroot collect personal information?
 
-There are few ways in which we collect your personal information:
+We collect information from you when you make a purchase on our site, register for an account, subscribe to a newsletter, or fill out a contact form.
 
-a) Registration form – while registering you will have to fill in your personal information, including your full name, company name, email address, physical address, telephone number and paypal or credit card information. At some situations we may also ask you to give us both shipping and billing addresses separately. By registering you agree that your registration data is real and accurate. You are responsible to keep your personal information up to date. Pressera may use its users personal information in order to have statistics about the customers behavior. This collected information is anonymous and do not reflect particular member.
+##### How does Brandroot use your personal information?
 
-b) Collecting orders to Pressera – while using our integration links that connect your website and Pressera, we collect all the regarding information that is necessary for us to ship the order.
+We may use your personal information when you make a purchase on our site, register for an account, subscribe to a newsletter, fill out a contact form or browse our website by visiting the various pages that we offer. We may use your personal information in the following ways:
 
-c) Contacting our support team – you must fill in your full name, email and telephone number in order to have the ability to leave us a message. 
+• To personalize your experience on our site and to allow us to deliver the type of products in which you show interest.  
+• To improve our website.  
+• To serve you in responding to your customer service inquiries and requests.  
+• To process transactions that you make on our website.  
+• To send emails regarding your order or other product and service offerings.
 
-d) Tracked information – as many other websites and internet services we collect some non-personal information and automatically save it to web server log. This information is all about internet protocol addresses, site entry/exit pages, date/time stamp and click stream data. This is mainly used for improving our site and analyze trends. Moreover, we gather cookies that is a text file and lets us to track what our site visitors click and what pages are most viewed.
+##### We only collect your email address in order to:
 
-2\. Information sharing and disclosing
+• Respond to your inquiries, and/or other requests and questions.  
+• Process orders and to send information pertaining to your purchases.  
+• Add you to our mailing list or continue to send emails to you after a transaction has been made.
 
-Sharing with third parties:
+If you would like to unsubscribe from receiving emails from us, you can follow the instructions at the bottom of the email.
 
-**Pressera will never rent, sell or share your personal information to anyone.** At some situations we can share or publish anonymous, non-personal and aggregate information about our users with our advertisers and partners. We may publish this aggregate usage statistics on our website for the interests of our visitors and customers. Note that none of this information is personal.
+##### How do we protect our visitor information?
 
-**Providing outsource services.** At some situations we can share or publish anonymous, non-personal and aggregate information about our users with our advertisers and partners. We may publish this aggregate usage statistics on our website for the interests of our visitors and customers. Note that none of this information is personal.
+Your personal information is protected behind secured networks. In addition, all sensitive information you supply is encrypted via the updated security technology TLS (Transport Layer Security). We implement a variety of security protocols when a user places an order to maintain the security of our visitor's personal information. All purchases are processed through a gateway provider and are never stored on our servers.
 
-**User linked services.** At some situations we can share or publish anonymous, non-personal and aggregate information about our users with our advertisers and partners. We may publish this aggregate usage statistics on our website for the interests of our visitors and customers. Note that none of this information is personal.
+##### Does Brandroot use cookies?
 
-Information disclosure to governmental institutions:
+Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the products in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. Our site uses cookies dropped by us or third parties for a variety of purposes including to operate and personalize our website, Brandroot.com. Also, cookies may be used to target ads to you on other websites.
 
-Pressera will only share its customers personal information in response to court ordinance or the governmental request. If there is a case there Pressera reasonably sees the demand to disclose the information for the good faith purposes or because of the fact that not sharing information could in some cases damage Pressera’s property, rights or image, then we will disclose it to the third party. Please note that sharing information has a small probability at all to happen. 
+##### We use cookies to:
 
-3\. Keeping your information secure
+• Understand and save user's preferences for future visits.  
+• Keep track of advertisements.  
+• Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. 
 
-I. Your account firstly is protected by account password. It is your responsibility not to share it with third parties. Do not forget to sign out then you finish your work at Pressera.
+We may also use trusted third party services that track this information on our behalf. You can choose to turn off all cookies. You do this through your browser settings. If you disable cookies, some features on our site may be disabled.
 
-II. Pressera uses various network security tools. Our partners that are responsible for the website administration uses commercially standard encryption and security technologies to protect personal information from any unauthorized access. Please be aware that we can never guarantee 100% security for unauthorized subjects to capture your personal information.
+##### Third Party Disclosure
 
-III. Inside company management is also protected. This means that people who use customer personal information do not have full access to check your information whatever they have the need to do it. 
+We do not sell, trade, nor transfer your personal information to outside parties. This does not include our website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing our visitors and customers. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect our rights, property, or safety.
 
-4\. Privacy policy changes
+Information that we collect may include IP addresses, cookie identifiers and website activity.
 
-This privacy policy is effective as of January 1, 2015. From time to time, it is likely that privacy policy might change. Although these changes are not supposed to be major changes. Once the policy is changed you will be notified immediately. There is no chance of not being notified through the email or then signing into your account. Privacy policy changes have to be met by Pressera members. If you do not meet the new terms that are stated in updated Privacy Policy version, you have the right to stop your subscription to Pressera by contacting our support team.
+##### How do I contact Brandroot?
+
+If there are any questions regarding this privacy policy you may contact us at info@brandroot.com This content was lat edited on May 23, 2018.
