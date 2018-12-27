@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hype.my privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627034952id_/https%3A//hype.my/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hype.my privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227110405id_/https%3A//hype.my/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Hype Malaysia
+# Privacy Policy | Hype Malaysia
 
 **This Agreement was last revised on 1 st April 2012.**
 
