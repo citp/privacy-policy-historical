@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moderndrummer.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627041957id_/https%3A//www.moderndrummer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moderndrummer.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227114819id_/https%3A//www.moderndrummer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Modern Drummer Magazine |
 
@@ -20,7 +20,7 @@ Suite H-212
 Fairfield, NJ 07004  
 Phone: 973-239-4140  
 Fax: 973-239-7139  
-Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Email: mdinfo@moderndrummer.com
 
 **What personal data we collect and why we collect it**
 
@@ -92,4 +92,4 @@ This site may contain links to other websites in the form of hyperlinks. Modern 
 Modern Drummer Publications takes every precaution to protect your information from unauthorized use. When you submit sensitive information via our websites, the information is protected both online and offline. When our registration/subscription form asks for a credit card number or other sensitive information, that information is encrypted and protected with the best encryption software in the industry—SSL.
 
 **Changes to Privacy Policy**  
-We may use customer information for new, unanticipated uses not disclosed in this privacy notice. If our information practices change at some time in the future, we will post the policy changes to our website to notify you of them. If you are concerned about how your information is used please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+We may use customer information for new, unanticipated uses not disclosed in this privacy notice. If our information practices change at some time in the future, we will post the policy changes to our website to notify you of them. If you are concerned about how your information is used please email us at mdinfo@moderndrummer.com.
