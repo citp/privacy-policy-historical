@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the integralads.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627164513id_/https%3A//integralads.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the integralads.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228001854id_/https%3A//integralads.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Integral Ad Science
 
@@ -11,7 +11,7 @@ This Privacy Policy applies to Personal Data collected when you visit our websit
 This Privacy Policy also applies to Personal Data collected through the verification, optimization, and activation technology solutions (“Technology Solutions”) that we provide to our clients through various channels, including our Client Portal, which allow our clients to track marketing performance, to match users to their campaigns, and to understand how users engage with a client’s advertisements, websites, and mobile applications, as the case may be.
 
  **I. OUR WEBSITE AND THE CLIENT PORTAL**  
- **A.  Personal Data We Collect; Purpose of Collection and Use; Legal Basis and Data Retention**
+**A.  Personal Data We Collect; Purpose of Collection and Use; Legal Basis and Data Retention**
 
 Personal Data we may collect from you through our Website, Client Portal, and Technology Solutions.
 
@@ -34,7 +34,7 @@ Personal Data we may collect from you through our Website, Client Portal, and Te
  **Aggregate Data.** In an ongoing effort to better understand our clients and visitors, and how they interoperate with our Website and the Client Portal, we may analyze your information in aggregate form to operate, maintain, manage, and improve our Website, Client Portal, and Technology Solutions. This aggregate information does not identify you personally. We may share this aggregate data with our affiliates, agents, and business partners. We may also disclose aggregated user statistics in order to describe our Technology Solutions, Website, and Client Portal to current and prospective business partners and to other third parties for other lawful purposes.
 
  **II. TECHNOLOGY SOLUTIONS**  
- **A.  Data We Collect; Purpose of Collection and Use; Legal Basis and Data Retention**
+**A.  Data We Collect; Purpose of Collection and Use; Legal Basis and Data Retention**
 
  **Data We Collect.** Our accredited Technology Solutions serves both advertisers and media sellers by providing independent, third-party verification measurement. By analyzing information about ad impression delivery and website traffic, IAS verifies whether the media has met or failed expectations based on characteristics that include the brand safety of a webpage, the viewability of the ad placement, the existence of ad fraud, as well as additional contextual variables.Measurement is available across both browser and app environments for mobile and desktop devices. IAS collects and surfaces this data to increase trust and transparency for its customers. The data collected can be used by customers to proactively prevent advertising on undesirable and/or low-quality inventory, monitor overall quality performance, and make future media planning decisions. We do not combine the collected data with any other data that would enable us to personally identify the user.
 
@@ -47,7 +47,7 @@ In order to provide Technology Solutions to our clients, we use pixels and other
 
 
 
-For the purpose of identifying and preventing online ad impression fraud and invalid traffic and determining if advertisers and publishers are in compliance with their agreements, our Technology Solutions utilize the following additional technologies (in addition to the data described above): 
+For the purpose of identifying and preventing online ad impression fraud and invalid traffic and determining if advertisers and publishers are in compliance with their agreements, our Technology Solutions utilize the following additional technologies (in addition to the data described above):
 
   * Device identification technology, which analyzes device parameters collected as described above, including IP address and browser header information, to probabilistically identify a particular device.
   * Clickstream data including URLs and other data regarding the websites on which a particular browser has viewed advertising impressions we are analyzing.
@@ -134,7 +134,7 @@ Please allow us a reasonable time to process your request.
 
  **Disclosure to Public Authorities.** We are required to disclose Personal Data in response to lawful requests by public authorities, including for the purpose of meeting national security or law enforcement requirements. We may also disclose Personal Data to other third parties when compelled to do so by government authorities or required by law or regulation including, but not limited to, in response to court orders and subpoenas.
 
- **IV.TRANSFER OF PERSONAL DATA TO THE UNITED STATES (U.S.).**
+ **IV. TRANSFER OF PERSONAL DATA TO THE UNITED STATES (U.S.).**
 
 Our servers are located in the U.S. If you are located outside of the U.S., please be aware that any information provided to us or collected by us, including Personal Data, will be transferred from your country of origin to the U.S. As our servers are located in the U.S., we have a legitimate interest in transferring your Personal Data to the U.S. For Personal Data transferred from our subsidiaries located within the EU to IAS, note that we have executed European commission’s standard contractual clauses to legally transfer such data. Contact Information and billing information are transferred for central management purposes.
 
@@ -144,9 +144,9 @@ Please be aware that the US may not offer the same level of data protection as y
 
 You have the right to request from us the access to and rectification or erasure of the Personal Data we hold on you or restriction of processing or to object to processing as well as the right to data portability.
 
- **Opt-Out for Direct Marketing; Email Management.** You may opt out at any time from the use of your Personal Data for direct marketing purposes, and/or the transfer of your Personal Data to third parties for direct marketing purposes, by following the instructions at this link: marketingops@integralads.com. Please allow us a reasonable time to process your request.
+ **Opt-Out for Direct Marketing; Email Management.** You may opt out at any time from the use of your Personal Data for direct marketing purposes, and/or the transfer of your Personal Data to third parties for direct marketing purposes, by emailing [marketingops@integralads.com](mailto:marketingops@integralads.com). Please allow us a reasonable time to process your request.
 
-You may also manage your receipt of marketing and non-transactional communications by visiting our [Online Subscription Management Center](https://go.integralads.com/subscription-management-center.html) or clicking on the “unsubscribe here” link located on the bottom of any IAS marketing email communications and following the instructions found on the page to which the link takes you. You cannot opt out of receiving transactional emails related to your account or purchase orders.
+You may also manage your receipt of marketing and non-transactional communications by visiting our [Online Subscription Management Center](https://go.integralads.com/subscription-management-center-updates.html) or clicking on the “unsubscribe here” link located on the bottom of any IAS marketing email communications and following the instructions found on the page to which the link takes you. You cannot opt out of receiving transactional emails related to your account or purchase orders.
 
  **Access to Personal Data.** Upon request to privacy@integralads.com, we will provide you with confirmation as to whether we are processing your Personal Data, and have the data communicated to you within a reasonable time. You have the right to correct, amend or delete your Personal Data where it is inaccurate or has been processed in violation of this privacy policy. Please allow us 30 days to respond to your direct inquiries and requests, or those of our clients seeking our assistance.
 
@@ -164,9 +164,9 @@ European residents have the right to lodge a complaint at any time about our pro
 
  **Links to External Websites.** Our Website may contain links to third party websites (“External Sites”). As such, we are not responsible for the privacy policies of those External Sites. You should check the applicable third-party privacy policy and terms of use when visiting any External Sites, and before providing any Personal Data to such External Sites.
 
-IAS commits to resolve complaints about your privacy and our collection or use of your Personal Data. EU individuals with inquiries or complaints regarding this Privacy Policy should first contact Integral Ad Science at privacy@integralads.com. 
+IAS commits to resolve complaints about your privacy and our collection or use of your Personal Data. EU individuals with inquiries or complaints regarding this Privacy Policy should first contact Integral Ad Science at privacy@integralads.com.
 
-**California Privacy Rights.** Pursuant to Section 1798.83 of the California Civil Code, residents of California have the right to obtain certain information about the types of personal information that companies with whom they have an established business relationship (and that are not otherwise exempt) have shared with third parties for direct marketing purposes during the preceding calendar year, including the names and addresses of those third parties, and examples of the types of services or products marketed by those third parties. If you wish to submit a request pursuant to Section 1798.83, please contact IAS via email at privacy@integralads.com. We do not recognize browser “Do Not Track” signals.
+ **California Privacy Rights.** Pursuant to Section 1798.83 of the California Civil Code, residents of California have the right to obtain certain information about the types of personal information that companies with whom they have an established business relationship (and that are not otherwise exempt) have shared with third parties for direct marketing purposes during the preceding calendar year, including the names and addresses of those third parties, and examples of the types of services or products marketed by those third parties. If you wish to submit a request pursuant to Section 1798.83, please contact IAS via email at privacy@integralads.com. We do not recognize browser “Do Not Track” signals.
 
  **Changes to this Privacy Policy.** This Privacy Policy is effective as of the date stated at the top of this Privacy Policy. We may change this Privacy Policy from time to time, and will post any changes on our Website as soon as they go into effect. By accessing our Website after we make any such changes to this Privacy Policy, you are deemed to have accepted such changes. Please refer back to this Privacy Policy on a regular basis.
 
