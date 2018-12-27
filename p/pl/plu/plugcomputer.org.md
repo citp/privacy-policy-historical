@@ -1,73 +1,143 @@
-> *The following text is extracted and transformed from the plugcomputer.org privacy policy that was archived on 2013-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130205064333id_/http%3A//www.plugcomputer.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plugcomputer.org privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227142403id_/https%3A//mediatemple.net/legal/privacy-policy) for the most accurate reproduction.*
 
-# PlugComputer.org – Privacy Policy
+# Privacy Policy - Media Temple
 
-Marvell Technology Group Ltd. ("Marvell") is committed to respecting the privacy of the users of the www.PlugComputer.org Internet site and its associated services (the "PlugComputer Service") (collectively or individually "Users"). This statement governs information you provide to us or that we learn from your use of the PlugComputer Service and tells you how we may collect, use, and in some instances share this information. Any information collected via other Marvel sites is handled in accordance with the privacy policy posted on such sites.
+Effective Date: 05/24/2018
 
-### AWARENESS
+This Privacy Policy ("Policy") applies to www.mediatemple.net (the “Site” or “Media Temple”) owned and operated by Go Daddy Operating Company LLC. It describes how Media Temple collects and uses the personal information you provide. It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information.
 
-**What we collect**
+[ ](https://privacy.truste.com/privacy-seal/validation?rid=97e75c6a-f9e7-467c-aa50-37378aff5354)
 
-User Provided Information: You may provide to Marvell what is generally called "personally identifiable" information when you register or at other times (for example, in connection with correspondence between you and Marvell), such as name and e-mail address.
+### **EU-U.S. & Swiss-U.S. Privacy Shield**
 
-"Cookies" Information: When you visit the PlugComputer Service, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer. Marvell uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the PlugComputer Service. By using these cookies, we can "remember" what you have done on the PlugComputer Service before and personalize our site for you. These persistent types of cookies can be removed, but each web browser is a little different, so please look through your browser "Help" file to learn the correct way to modify your cookies set-up. Please note that disabling cookies may prevent you from accessing some of the functionality and site offerings available via the PlugComputer Service.
+Our parent company, Go Daddy Operating Company, LLC (and our related entities, including GoDaddy.com, LLC, Wild West Domains, LLC, Blue Razor Domains, LLC, Starfield Technologies, LLC, Domains by Proxy, LLC, Outright, Inc., Locu, Inc., GoDaddy Media Temple, Inc. and Mad Mimi, Inc.) participates in and has certified its compliance with the EU-U.S. and the Swiss-U.S. Privacy Shield Privacy Shield Framework. We are committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Frameworks, and to view our certifications, visit the U.S. Department of Commerce’s [Privacy Shield List](https://www.privacyshield.gov/).
 
-"Automatically Collected" Information: When you visit the PlugComputer Service or open one of our HTML emails, we may record certain information from your web browser by using different types of technology. This "automatically collected" information may include your Internet Protocol address ("IP Address"), web browser type, the web pages or sites that you visit just before or just after the PlugComputer Service, the pages you view on our site, and the dates and times that you visit.
+Media Temple is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Media Temple complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
 
-**How we use it**
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Media Temple is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Media Temple may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-Marvell uses your information to better understand your needs and provide you with better service. We may use your email address, without further consent, for non-marketing or administrative purposes such as notifying you of major updates.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at [ https://feedback-form.truste.com/watchdog/request](https://feedback-form.truste.com/watchdog/request).
 
-Marvell may use all of the information that we collect from our Users to understand the usage trends and preferences, to enable and improve the PlugComputer community participation, to improve the way the PlugComputer Service works and looks, and to create new features and functionality.
+Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/), you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
-Marvell may use automatically collected information and cookies information to: (a) remember your information so that you will not have to re-enter it during your visit or the next time you visit the PlugComputer Service; (b) provide custom, personalized content, and information; (c) monitor the effectiveness of our and the PlugComputer community's efforts; and (d) monitor aggregate usage metrics such as total number of visitors and pages viewed.
+### **A. Personally-Identifiable Information:**
 
-Marvell will not use your email address or other personally identifiable information to send promotional or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in.
+Media Temple typically receives specific data about its website visitors only when such information is provided voluntarily, such as when our visitors request information, purchase or enroll for services, open a customer support inquiry ticket, provide resume information for employment opportunities, or send us e-mail. Of course, some of these activities require that you give us information, such as when you make a purchase, use a credit card to pay for services, submit your resume, or request certain types of information. When you provide personally-identifiable information to Media Temple through one of our websites, it will be used to fulfill your specific request. In most cases, you will be given the opportunity to select whether you do, or do not, want Media Temple to use this information for additional purposes.
 
-**Who we share it with**
+Media Temple will not, however, sell or trade your personally-identifiable information unless we are authorized or legally required to do so, or in the case of imminent physical harm to the visitor or others.
 
-Marvell will not sell, rent or lease your personally identifiable information to others. Unless we have your permission, we will only share the personal data you provide online with other Marvell entities and/or business partners who are acting on our behalf for the uses described above. Such Marvell entities and/or business partners, including those in the United States and/or any other countries, are governed by our privacy policies with respect to the use of this data and are bound by confidentiality agreements.
+We may also disclose your personal information as required by law, such as to comply with a subpoena or other legal process, when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
 
-Marvell may also use and/or share your information to the extent required to do so by law or in a good faith belief that such use or disclosure is reasonably necessary to (a) comply with legal process; (b) enforce the applicable terms of use; or (c) protect the rights, property, or personal safety of the Users, the public, and Marvell.
+We may share your information with third parties who provide services on our behalf to help with our business activities. These companies are authorized to use your personal information only as necessary to provide these services to us.
 
-### ACCESS
+#### These services may include:
 
-Links to third party Web sites on the site are provided solely as a convenience to you. If you use these links, you will leave this site. Marvell has not reviewed all of these third party sites and does not control and is not responsible for any of these sites, their content or their privacy policy. Thus, Marvell does not endorse or make any representations about them, or any information, software or other products or materials found there, or any results that may be obtained from using them. If you decide to access any of the third party sites linked to this site, you do this entirely at your own risk.
-
-### SECURITY
-
-No data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once we receive your transmission, we make reasonable efforts to ensure security on our systems. We use secure firewalls to protect your information from unauthorized access, disclosure, alteration, or destruction. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of such firewalls and/or other security software.
-
-If Marvell learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. By using the PlugComputer Service or providing personal information to us, you agree that we can communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the PlugComputer Service. Marvell may post a notice on the PlugComputer Service if a security breach occurs. Marvell may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us via email at  
-[privacy@marvell.com](mailto:privacy@marvell.com)  
-This e-mail address is being protected from spambots. You need JavaScript enabled to view it.
-
-### INTERNATIONAL USERS
-
-The PlugComputer Service is hosted in the United States. If you are a User accessing the PlugComputer Service from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please note that you are transferring your personal data to the United States which does not have the same data protection laws as the EU and other regions, and by providing your personal data you consent to:
-
-  * the use of your personal data for the uses identified above in accordance with this privacy policy; and
-  * the transfer of your personal data to the United States as indicated above.
+  * Fulfilling orders
+  * Payment processing
+  * Providing customer service
+  * Sending marketing communications
+  * Fulfilling subscription services
+  * Conducting research and analysis
+  * Providing cloud computing infrastructure
 
 
 
-### CHILDREN
+The security of your personal information is important to us. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once it is received. If you have any questions about the security of your personal information, you can contact us at [legal.notices@mediatemple.net](mailto:legal.notices@mediatemple.net).
 
-Consistent with the federal Children's Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request personally identifiable information from anyone under the age of 13 without requiring parental consent. Any person who provides their personal information to Marvell through the PlugComputer Service represents that they are 13 years of age or older.
+We may retain your information for as long as your account is active or as needed to provide you services, comply with our legal obligations, resolve disputes and enforce our agreements. On those Media Temple sites where you may provide Media Temple with credit card or other sensitive information via the web, Media Temple protects and secures this information by employing commercially customary web-based security and encryption protocols, examples of which include Secure Socket Layer (SSL) and Secure Electronic Transaction (SET).
 
-### IN THE EVENT OF MERGER OR SALE
+#### **Targeted Advertisements**
 
-If Marvell should ever file for bankruptcy or have some or all of its assets sold to or merge with another entity, information Marvell receives from you through the PlugComputer Service is a Marvell asset and may be transferred.
+Absent any instructions from you, Media Temple may use information you provide to inform you about additional services and products offered by the Media Temple family of companies, Media Temple venture companies, Media Temple authorized agents, and other goods and services providers with whom Media Temple has relationships and whose offerings might be of interest to you. Media Temple and our third party partners may use cookies or similar technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising click [here](http://preferences-mgr.truste.com/) [or if located in the European Union click [here](http://www.youronlinechoices.eu/)]. Please note you will continue to receive generic ads.
 
-### CONTACT
+#### **Supplementation of Information**
 
-If you have comments or questions about our privacy policy, please send them to this email address:  
-[privacy@marvell.com](mailto:privacy@marvell.com)
+In order to provide certain services to you, we may on occasion supplement the personally identifiable information you submit to us with information from third party sources (e.g., information from our strategic partners, service providers, or the United States Postal Service). We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you. If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us.
 
-This e-mail address is being protected from spambots. You need JavaScript enabled to view it.
+#### **Communicating with you**
 
-### PRIVACY POLICY CHANGES
+We may contact you directly or through a third party service provider regarding products or services you have signed up or purchased from us, such as necessary to deliver transactional or service related communications. We may also contact you with offers for additional services we think you’ll find valuable if you give us consent, or where allowed based upon legitimate interests. You don’t need to provide consent as a condition to purchase our goods or services. These contacts may include:
 
-We may occasionally update this privacy policy. When we do, we will also revise the "Last Updated" section below. For changes to this privacy policy that may be materially less restrictive on our use or disclosure of personal information that you have provided to us, we will attempt to obtain your consent before implementing the change. We encourage you to periodically review this privacy policy to stay informed about how we are protecting the personal information we collect. Your continued use of the PlugComputer Service constitutes your agreement to this privacy policy and any updates.
+  * Email
+  * Text (SMS) messages
+  * Telephone calls
+  * Automated phone calls or text messages
 
-Last Updated: March 15, 2009
+
+
+You may update your contact preferences with respect to receiving communications from us by signing into your Account Center and visiting "Contacts" page.
+
+### **B. Website Analytics:**
+
+We use multiple web analytics tools provided by service partners such as Google Analytics to collect information about how you interact with our website or mobile applications, including what pages you visit, what site you visited prior to visiting our website, how much time you spend on each page, what operating system and web browser you use and network and IP information. We use the information provided by these tools to improve our Services. These tools place persistent cookies in your browser to identify you as a unique user the next time you visit our website. Each cookie cannot be used by anyone other than the service provider (ex: Google for Google Analytics). The information collected from the cookie may be transmitted to and stored by these service partners on servers in a country other than the country in which you reside. Though information collected does not include personal data such as name, address, billing information, etc., the information collected is used and shared by these service providers in accordance with their individual privacy policies. You can control the technologies we use by utilizing settings in your browser or third-party tools, such as [Disconnect](https://disconnect.me/disconnect "Disconnect"), [Ghostery](https://www.ghostery.com/ "Ghostery") and others.
+
+**Cookies and similar technologies** on our websites and our mobile applications allow us to track your browsing behavior, links clicked, items purchased, your device type, and to collect various data, including analytics, about how you use and interact with our Services. This allows us to provide you with more relevant product offerings, a better experience on our sites and mobile applications, and to collect, analyze and improve the performance of our Services. We may also collect your location (IP address) so that we can personalize our Services.
+
+You may block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) it may limit your use of certain features or functions on our website or service. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies as soon as you visit our site.
+
+Internet browsers allow you to change your cookie settings. These settings are usually found in the 'options' or 'preferences' menu of your internet browser. In order to understand these settings, the following links may be helpful. Otherwise you should use the 'Help' option in your internet browser for more details.
+
+  * [Cookie settings in Internet Explorer](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies "Cookie settings in Internet Explorer")
+  * [Cookie settings in Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences "Cookie settings in Firefox")
+  * [Cookie settings in Chrome](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&hl=en "Cookie settings in Chrome")
+  * [Cookie settings in Safari](https://support.apple.com/kb/ph19214?locale=en_US "Cookie settings in Safari")
+
+
+
+If you wish to withdraw your consent at any time, you will need to delete your cookies using your internet browser settings.
+
+#### **More information about cookies**
+
+  * Useful information about cookies, including information about deleting or blocking cookies, can be found at: [http://www.allaboutcookies.org](http://www.allaboutcookies.org/ "All About Cookies")
+  * A guide to behavioral advertising and online privacy has been produced by the internet advertising industry which can be found at: [http://www.youronlinechoices.eu](http://www.youronlinechoices.eu/ "Your Online Choices")
+  * Information on the ICC (UK) UK cookie guide can be found on the ICC website section: <http://www.international-chamber.co.uk/our-expertise/digitaleconomy>
+
+
+
+#### **Do Not Track notifications**
+
+Some browsers allow you to automatically notify websites you visit not to track you using a “Do Not Track” signal. There is no consensus among industry participants as to what “Do Not Track” means in this context. Like many websites and online services, we currently do not alter our practices when we receive a “Do Not Track” signal from a visitor’s browser. To find out more about “Do Not Track,” you may wish to visit <http://www.allaboutdnt.com/>.
+
+### **C. Your (mt) Media Temple hosted website, server, bulletin boards, forum, Third-Party Sites:**
+
+Information that you disclose in a public space, including on any blog, bulletin board, chat room, or website Media Temple may host for you as part of your Media Temple services, is available to anyone else who visits that space. Media Temple cannot safeguard any information you disclose in these locations. Additionally, Media Temple websites contain links to sites that belong to third parties unrelated to Media Temple. Media Temple cannot protect any information you may disclose in these sites and recommends that you review the privacy policy statements of those sites you visit.
+
+On those sites where you voluntarily offer any feedback, data, answers, questions, comments, suggestions, ideas or the like, Media Temple will treat that portion of the information as non-confidential and nonproprietary and, except as otherwise expressed in this Policy, Media Temple assumes no obligation to protect such information from disclosure. To request removal of your personal information from our blog, contact us at [legal.notices@mediatemple.net](mailto:legal.notices@mediatemple.net). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+
+#### **Lucky Orange Web Analytics Service**
+
+This site uses the Lucky Orange analytics system to help improve usability and the customer experience. Lucky Orange may record mouse clicks, mouse movements and scrolling activity. Lucky Orange may record keystroke information that you voluntarily enter on this website. Lucky Orange does not track this activity on any site that does not use the Lucky Orange system. You can choose to disable the Lucky Orange Service at <http://www.luckyorange.com/disable.php>. Note, that doing so will disable other features of the Lucky Orange system that this site employs such as 1-to-1 support chat.
+
+### **D. Exceptions and Limitations:**
+
+Notwithstanding the foregoing and in compliance with applicable laws, Media Temple (i) cooperates fully with state, local, and federal officials in any investigation relating to any content (including personal or private electronic communications transmitted to Media Temple) or purported unlawful activities of any user of the Service, and (ii) takes reasonable measures to protect its proprietary rights. For the limited purposes of accomplishing such cooperation and measures and in compliance with applicable laws, Media Temple may be required to disclose personally identifiable information. In addition, Media Temple may elect to monitor the areas of communication of any kind (i) to satisfy any law, regulation, or government request; (ii) if such disclosure is necessary or appropriate to operate Media Temple; or (iii) to protect the rights or property of Media Temple or others. In connection with the potential sale or transfer of any of its interest in mediatemple.net, and ac.mediatemple.net and other sites owned by the company, Media Temple reserves the right to sell or transfer your information (including, but not limited to name, address information, and other information you provided to Media Temple) to a third party that (i) concentrates its business in communication products or services; (ii) agrees to be Media Temple's successor in interest with regard to the maintenance and protection of information collected and maintained by Media Temple; and (iii) agrees to the obligations of this Policy.
+
+### **E. Transfer of Data Abroad:**
+
+If you are visiting this site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries. By visiting this site and communicating electronically with us, you consent to such transfers.
+
+### **F. Access, Update or Delete Data:**
+
+To easily access, view, update, or close your account, or to update your contact preferences, please sign into your Account Center and visit Contacts and Billing.
+
+To request a copy of your account data (EU customers only) or delete your account, please contact us at [legal.notices@mediatemple.net](mailto:legal.notices@mediatemple.net). If you make a request to delete your personal data and that data is necessary for the products or services you have purchased, the request will be honored only to the extent it is no longer necessary for any Services purchased or required for our legitimate business purposes or legal or contractual record keeping requirements.
+
+If you are unable for any reason to access your Account Center, you may also contact us by one of the methods described in the “Contact Us” section below.
+
+We will respond to these requests within a reasonable timeframe.
+
+### **G. Data Protection Authority:**
+
+If you are a resident of the European Economic Area (EEA) and believe we maintain your personal data subject to the General Data Protection Regulation (GDPR), you may direct questions or complaints to our lead supervisory authority, the UK's Information Commissioner’s Office, as noted below:
+
+[www.ico.org.uk](https://www.ico.org.uk/ "Information Commissioner's Office website")
+
+Information Commissioner’s Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF
+
+Phone: 0303 123 1113
+
+### **H. Updates:**
+
+We may update this Policy to reflect changes to our information practices. If we make any material changes, we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+
+Our site uses cookies. By agreeing to use our site, you are agreeing to our cookie [privacy policy](https://web.archive.org/legal/privacy-policy/).
