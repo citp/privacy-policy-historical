@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the breakingdefense.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626192011id_/https%3A//breakingdefense.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breakingdefense.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227031044id_/https%3A//breakingdefense.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Breaking Defense - Defense industry news, analysis and commentary
 
