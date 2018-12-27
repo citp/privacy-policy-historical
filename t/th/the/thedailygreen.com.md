@@ -1,286 +1,447 @@
-> *The following text is extracted and transformed from the thedailygreen.com privacy policy that was archived on 2009-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091210150637id_/http%3A//www.realage.com/corporate/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedailygreen.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227082850id_/http%3A//www.hearst.com/newsroom/us-magazines-privacy-notice) for the most accurate reproduction.*
 
-# About RealAge — RealAge Privacy Statement
+# Privacy Notice | Hearst
 
-RealAge, Inc., values the privacy of all of our readers. We take very seriously the need to respect and protect your privacy and the security of any information you may share with us. We've built a site that allows you to control how much information you give us and how that information is used. This privacy policy ("Policy") describes the data collection, use, and disclosure practices of RealAge, Inc., in connection with the Web Site, [www.RealAge.com](http://cls.realage.com/) (the "Web Site" or "Site"). 
+Privacy Notice – Highlights 
 
-This Policy applies to information collected only directly through or from the RealAge Web Site. It does not apply to personal information collected from offline resources and communications, such as information you may send to us in a postal letter or give to us in a phone call. This Policy also does not apply to third-party online resources to which RealAge Web Sites may link, because RealAge does not control their content or their privacy practices. 
+Last Updated: December 13, 2018 
 
-Please read our Policy carefully. Your understanding of how we use any information you provide -- and your trust that we will use it carefully -- are very important both to you and to us. Why? Because it helps us provide more relevant, useful information to you. If you have any questions about our data collection, use, or disclosure practices, please contact us in any of the ways listed at the end (Section 17). Please also be sure to read our complete [Terms of Use](http://cls.realage.com/corporate/termsofuse.aspx) (this Privacy Policy is a part of it). 
+When you use or interact with a U.S. website, mobile app or other digital service (each a “Digital Service”) operated or owned by Hearst Magazine Media, Inc., we and third parties may obtain certain information about you. In this Highlights section, we provide an overview of our privacy practices related to the Digital Services. Please review our full Privacy Notice below for a detailed explanation of our practices. 
 
-RealAge's purpose is to provide you with detailed healthcare information (like your RealAge calculation and plan), so we may request correspondingly detailed personal health information from you. Certain information is necessary for us to provide one or more RealAge services to you. For a full description of these services, see Section 4, "How We Use the Information We Collect." Other information is optional; if you elect not to provide optional information, it may limit the value of what RealAge can provide for you. For example, if we do not have information on a health condition you may have -- such as high blood pressure -- we will not be able to provide information about how best to manage your diet and lifestyle to improve your health. (That includes information on medications that may help you manage a diagnosed condition like high blood pressure.) In short, the more information we have about you, the more valuable RealAge can be to you. 
+What Information We Obtain
 
-We collect two types of information on RealAge. The first, "Personal Information," is information that allows someone to identify or contact you, such as your name and e-mail address, as well as any information about you that is associated with or linked to any of the foregoing information. The second type, "Anonymous Data," is data not associated with or linked to your Personal Information. Anonymous Data cannot be used to identify you. We collect Personal Information and Anonymous Data based on your participation on RealAge. 
+  * Information you provide when you use the Digital Services, including when you sign up for newsletters, order subscriptions, create an account or register for a membership through the Digital Services. This may include your contact, payment or demographic information.   
 
-You can take advantage of the services offered on RealAge in two ways -- as a Registrant or as a Member. We'll explain the differences. 
+  * Information you submit when you choose to participate in a survey, sweepstakes, contest, promotion, event or similar initiative.
+  * Information you give us about others, such as a friend’s contact information when you order a gift subscription.   
 
-**Registrant**
+  * Information collected by automated means such as cookies or pixels. This may include information about your device and browser, including IP address or mobile device advertising identifiers, as well as information about how you and others use, interact with or respond to the Digital Services. This collection may take place while you are using a Digital Service or while the Digital Service is running in the background of your device.   
 
-When you take the RealAge Test or participate in most other interactive services on our Site, you are required to register by giving us your user name, e-mail address, date of birth, gender, zip code, and password. We call that your "Registration Information." That Registration Information is recognized by all of RealAge's Affiliates (they're described in Section 12, "About Our Affiliates"). This means you can use the same user name and password to take advantage of services offered on the Web sites of our Affiliates. Please note that if you visit an Affiliate's Web site, you will be leaving RealAge, and anything you do on those sites will be governed by the privacy policy of the Affiliate. 
+  * Precise location information associated with your device when location services are active.   
 
-**Member**
+  * Information we obtain from other sources, such as business partners, data suppliers and social media platforms.   
 
-You may also choose to participate in activities on RealAge as a Member. After you have given us your Registration Information, we will ask you if you would like to become a Member. If you say yes, we will periodically send you free health newsletters and e-mails that contain high-quality health and lifestyle information; directly promote the use of RealAge Web Sites (which include RealAge.com, DogAge.com, and CatAge.com) and the sites of our Affiliates; and may offer products or services for purchase. 
 
-These free health newsletters and e-mails may contain, in whole or in part, advertisements for third parties that we think may be of interest to you, based on your responses to the RealAge Test and other information we collect about you on the Site. We will NOT give your Personal Information to those advertisers (see Section 4, "How We Use the Information We Collect"). If you don't want us to send you free health newsletters and e-mails, you should not become a Member; you will still have access to all the other tools and services on the Site as a Registrant. 
 
-By becoming a Registrant or a Member, you have agreed to let us show you advertising on the Site targeted to your personal health interests (for a full description of how this happens, see Section 5, "How We Display Ads on Our Site"). As with most Web sites, we accept advertising and sponsorships as a way of keeping the articles, tools, assessments, and newsletters free to RealAge users. If you don't want to see such ads, you should not become a RealAge Member or Registrant. 
 
-RealAge will collect information from you when you interact with us in the following ways: 
+Read more here.
 
-**a) Cookies**
+ **How We Use Information We Obtain  **
 
-As with most sites on the Internet, when you visit our Site, RealAge may place a "cookie" on your computer that enables us to give you a better experience on the Site. 
+  * To process your requests and provide you with the Digital Services, including to deliver customized content or recommendations. Note that we use your payment card information (such as your card number and expiration date) for limited purposes such as to process your transaction (including recurring payments, if applicable), to provide you with the requested products or services and to protect our rights or the rights of others.   
 
-■
+  * To learn about users of the Digital Services and analyze how you and others interact with and respond to the Digital Services.   
 
-Internet cookies are small text files that save data about you as an individual visitor and help RealAge deliver personalized content and other services in a manner convenient to you. When you first register or sign in, RealAge places your member ID and e-mail address into a cookie file. 
+  * To communicate with you, including to send you marketing and promotional communications.   
 
-■
+  * For advertising and marketing purposes, including to deliver [interest-based ads](https://web.archive.org/web/20181227082850id_/http%3A//www.hearst.com/newsroom/_INTEREST_BASED), for cross-device linking and to analyze the performance of advertising and marketing activities.   
 
-If you select "Remember Me" when signing up or signing in, RealAge also places your e-mail address and password into another, separate cookie file. 
+  * To protect our rights and the rights of others.   
 
-■
 
-Many Web browsers are automatically set to accept cookies. **You may change your browser settings to either reject cookies or notify you when a cookie is about to be placed on your computer.** Please note, however, that rejecting cookies while visiting RealAge may result in certain parts of the Site not operating correctly or as efficiently as they would with cookies. For example, if you are a RealAge Member without a cookie, you may need to enter your username and password each time you visit the Site in order to see your RealAge calculation. If you allow cookies, it streamlines your user experience on RealAge and keeps track of your preferences. 
 
-■
 
-RealAge uses two companies -- DoubleClick and Google -- to serve the ads you see in many places on our Site. Below is an explanation (excerpted directly from DoubleClick's Web site) of the DoubleClick DART cookie that may be stored on your computer as a result of using RealAge. 
+Read more here. 
 
-"DoubleClick's DART cookie is used by its [ad-serving](http://www.doubleclick.com/) and [search](http://www.doubleclick.com/products/dartsearch/index.aspx) products, on the Google content network and certain Google sites, including YouTube. This cookie is not client-specific. This means that, if you choose to opt out of DoubleClick's DART cookie, your opt-out cookie will be effective for all of the websites and advertisers that use DoubleClick's ad-serving or search technologies, including the Google content network. Please note that most major third-party online advertising companies have agreed to provide an opt-out mechanism for their ad cookies. For more information, please visit [www.networkadvertising.org](http://www.networkadvertising.org/). 
+ **How We Share Information  **
 
-Please also note that the websites and advertisers that use DoubleClick's DART cookie are required to post a privacy statement that describes their data collection activities in connection with their use of ad-serving or search technologies. For more information on these activities, please consult the privacy policies for those websites and advertisers. For the privacy statement with respect to Google's use of DoubleClick's DART cookie on the Google content network, please [click here](http://www.google.com/privacy_cookies.html). 
+  * Within the Hearst family of companies.   
 
-If you do not want a unique DART cookie from DoubleClick, there is a simple procedure to follow. [Click here](http://optout.doubleclick.net/dclk/optout-success.html) to replace your unique DART cookie with an opt-out DART cookie 
+  * With service providers that perform services or handle transactions on our behalf.   
 
-If you select a DART opt-out cookie, ads delivered to your browser on behalf of clients using DoubleClick's ad-serving technology will be targeted based only on the non-personally identifiable information that is automatically transmitted in the Internet environment when an ad request is received by our ad servers, and your DART cookie will not be uniquely identified. The non-personally identifiable information that is automatically transmitted includes your browser type, Internet service provider, information about the general content of the site or page displayed on your browser and other non-personally identifiable information provided by the site." 
+  * With advertisers, advertising- and marketing-related services providers and partners as well as companies that help us learn how you and others interact with our content.   
 
-**b) IP Address**
+  * With social media platforms and similar services, including when you interact with our Digital Services that integrate tools and services provided by social medial platforms.   
 
-An "IP Address" is actually a number that is automatically assigned to your computer when you use the Internet. In some cases, your IP address stays the same from session to session; but if you use a consumer Internet access provider (such as Earthlink or AT&T), your IP address probably varies from session to session. We track IP addresses solely in conjunction with session cookies to analyze our Web page flow. 
+  * With business partners, such as when we partner with a third party to offer products or services on a co-branded basis.   
 
-**c) Action Tags**
+  * Other parties when required by law or as necessary to protect our rights, and in the context of corporate transactions.   
 
-We use single pixel GIFs (also known as action tags or web beacons) on the Site and also in HTML-based e-mails to let us know which e-mails sent by us have been opened by recipients (including anyone to which the e-mails have been forwarded). Therefore, if you cannot see images when viewing a RealAge e-mail, we do not know if you open that particular e-mail. Similarly, if you receive your e-mail from us in text format (i.e., no pictures or graphics), we do not know if you open that particular e-mail. This information helps us assess the effectiveness of certain communications and marketing campaigns. 
+  * With your consent or otherwise at your direction.   
 
-**d) Other Systems**
 
-Information is also collected from you when: 
 
-■
 
-You fill out forms on our Site, including registration forms, the RealAge Test, other tests, tools, and assessments. 
+Read more here. 
 
-■
+ **Your Choices, Including Marketing and Interest-Based Ads Opt-Outs  **
 
-You interact with the message boards and post comments on articles. 
+  * You may take steps to limit the use of your information for interest-based advertising on your browser or mobile device. See here for more information.   
 
-■
+  * You may unsubscribe from our marketing or promotional emails by clicking the “Unsubscribe” link in our emails, or for certain Digital Services, by logging into your account and adjusting your preferences.   
 
-You click on advertisements on the Site or in one of the free health newsletters and e-mails you receive from RealAge. 
 
-■
 
-You invite someone else to join RealAge through our Web Site's sharing tools -- in that case, we will collect your name and e-mail address, as well as the other person's e-mail address, in order to send this e-mail; if you decide to invite someone else to take the RealAge Test and they subsequently register with us, we will collect and save the other person's e-mail address, as we would for anyone who registers on the Site. 
 
-Also, in most instances we include certain tracking links that allow us to monitor whether you accessed specific content or advertisements. If you click on one of these links, we will record that click and certain activities on the RealAge Web page associated with that tracking link. We may use this information for various purposes, such as to conduct internal research on our users' demographics, interests, and clicking behavior and to customize the content and advertisements you see. 
+Read more here. 
 
-When you register with RealAge, we use your Personal Information to create a customized Web experience for you and to improve our services. We may use Personal Information to: 
+ **Additional Information  **
 
-■
+  * We use a variety of security technologies and procedures to help protect information from unauthorized access, use or disclosure.   
 
-Calculate your RealAge and process your answers to quizzes in ways that provide you with tailored information regarding your health. 
+  * The Digital Services are operated from the United States. Information may be processed and stored in the United States or other countries.   
 
-■
+  * The Digital Services are not intended for use by children under the age of 13.   
 
-Present you with advertising on the Site, based on the health interests you listed in Personal Information. 
+  * This Privacy Notice is part of the [Terms of Use](http://www.hearst.com/newsroom/us-magazines-terms-of-use), which govern your use of the Digital Services and any disputes related to your use of the Digital Services (including our use of your information) will be resolved per the dispute resolution provision in the Terms of Use.   
 
-■
+  * If you are accessing the Digital Services from the European Economic Area, additional provisions may be relevant for you. These are included at the end of this Privacy Notice.   
 
-Improve the content and layout of RealAge. 
 
-■
 
-Statistically analyze user behavior. 
 
-■
+Read more here. 
 
-Receive feedback on editorial content. 
+ **Contact Us  **
 
-■
+If you have questions about our Privacy Notice you can contact us by email at [magsprivacy@hearst.com](mailto:magsprivacy@hearst.com).
 
-Develop products, marketing, and promotions internally at RealAge. 
+ ** _PRIVACY NOTICE_**
 
-■
+ **Last Updated:**  December 13, 2018 
 
-Contact you regarding your account status or changes to our Terms and Conditions, including our Privacy Policy. 
+A. Introduction
 
-In addition, when you become a RealAge Member, we will use your Personal Information to provide other services, including: 
+B. What Information We Obtain
 
-■
+C. How We Use Information We Obtain
 
-Providing you with personalized health and wellness information via e-mail and/or postal mail. 
+D. How We Share Information
 
-■
+E. Your Choices, Including Marketing and Interest-Based Ads Opt-Outs
 
-Sending you targeted advertising via e-mail and/or postal mail. 
+F. Additional Information for California Residents
 
-■
+G. How We Protect Your Information
 
-Contacting you for feedback and surveys via e-mail and/or postal mail. 
+H. Non-U.S. Visitors
 
-■
+I. Children’s Privacy Rights
 
-Sending you general and administrative information about your RealAge membership via e-mail and/or postal mail. 
+J. Links to Third-Party Websites, Mobile Apps or Other Services
 
-Like most Web sites, we accept advertising and sponsorships. That's how we are able to provide our health newsletters and Site to you at no charge. RealAge uses your Personal Information in the course of operating our business in several ways, which include: 
+K. Careers/Job Opportunities
 
-■
+L. Dispute Resolution/Terms of Use
 
-Providing your Registration Information to our third-party service providers -- who must agree NOT to use or disclose that information for any other purpose and whose role is solely to provide operational support for RealAge. These third-party service providers include companies that we use, for example, to send out our e-mail newsletters and provide security for the data that you share with us. RealAge strives to ensure that any third-party service provider to which RealAge discloses Personal Information is contractually obligated to use the Personal Information solely for the purposes for which it was disclosed, even though these third-party service providers are independent companies over which RealAge exercises no control. RealAge is not responsible for, and will not be liable for, their conduct, actions, omissions, or information handling or dissemination practices. 
+M. Changes to This Privacy Notice
 
-■
+N. Contact Us
 
-Adding your e-mail address to certain "suppression lists" -- that is, lists of advertisements that you have told us you no longer wish to see. From time to time, RealAge may host a suppression list on an advertiser's behalf; in those cases, we forward any e-mail addresses we collect to the advertiser to be added to a specific advertisement's suppression list. 
+O. Additional Information for European Visitors
 
-■
+ **A. ** ** _INTRODUCTION_**
 
-Merging your Registration Information with other, optional types of Personal Information that you provide to us voluntarily, such as merging your health-related information from taking the RealAge Test with your responses to surveys, health assessments, and questionnaires. In other words, we will combine basic Registration Information you provide to us (e-mail address, username, password, age, gender, and zip code) with additional information you provide. This lets us send you relevant e-mails and display advertising to you on our Site that we think will be of interest, as further described in Section 5, "How We Display Ads on Our Site."
+This Privacy Notice applies to the U.S. website, mobile application or other digital service (each a “ **Digital Service** ”) linking to this Privacy Notice and owned or operated by Hearst Magazine Media, Inc. (“we”, “us”, “our” or “Hearst”). This Privacy Notice describes the privacy practices of Hearst only and does not cover the practices of other companies, including those that may advertise or sponsor content, products or services on the Digital Services.
 
-■
+ **B.  ** ** _WHAT INFORMATION WE OBTAIN_**
 
-Merging your Personal Information with other information we collect about you, based on your activity on our Site. For example, if you read an article on a particular health topic (say, cholesterol), we will note it on your profile. We do this so that we can provide you content and advertising that is more relevant and of greater interest to you (in this example, information about cholesterol). 
+When you use a Digital Service, we may obtain various types of information related to you and your use of the Digital Service. This may include information that directly identifies you such as your name, address, or contact information (this type of information may be called “personal information” or “personally identifiable information”). The information we obtain generally consists of information (1) you give us about yourself, (2) you give us about others, (3) automatically collected about your interactions with the Digital Services and our content or ads on third-party websites, apps or other media, and (4) we get from other sources.
 
-■
+ **1.  ** **Information you give us**
 
-Combining your Personal Information with outside records, such as postal data and other demographic data. We do this to conduct research, improve the quality of our services, and send you printed health and wellness information -- sponsored by our advertisers -- by postal mail that we believe may be of interest to you. We also use that merged information to send you relevant e-mails and to display advertising to you on our site that we think will be of interest, as further described in Section 5, "How We Display Ads on Our Site."
+We may ask you to provide information about yourself when you use the Digital Services. For example, to subscribe to one of our newsletters, you will need to give us an email address. You may not be able to use certain features if you choose not to submit the requested information. 
 
-■
+The information you give us may include details such as:
 
-Participating in market research activities through RealAge, including health surveys. When you take part in such activities, we may ask you to submit Personal Information such as health and lifestyle data about you and your family. However, our reports and analyses to clients and partners are made **only** on an anonymous basis, using Anonymous Data. **Our clients and partners never see any single individual's Personal Information and CANNOT associate any of the information they receive with a particular individual.**
+  * Contact information (e.g., name, mailing address, email address or phone number).
+  * Demographic, interests and household information (e.g., age, gender or education).
+  * Payment information for subscriptions or purchases made through the Digital Services (e.g., payment card number, expiration date and billing information).
+  * Comments, photos, videos and other content or information you choose to publish on the Digital Services or otherwise share with us. 
+  * Information you provide when you choose to participate in surveys, polls, sweepstakes, contests or promotions (including information about your participation in activities that may generate loyalty or rewards points).
+  * Location information, which may include precise location information when you permit the Digital Services to access device location. To prevent the collection of precise location information, please refer to instructions provided by your mobile service provider or device manufacturer. 
+  * Other information you may allow us to access through your device’s permissions settings, such as your contacts or address book.
+  * Transactional and activity information (e.g., requests, searches or orders). 
 
-■
 
-Matching the Personal Information you provide to us with information from other sources, including prescription information. We use this information to perform market research and to prepare reports and analyses for our clients. But again, our reports and analyses to clients and partners are made **only** on an anonymous basis, using Anonymous Data. **Our clients and partners never see any single individual's Personal Information and CANNOT associate any of the information they receive with a particular individual.**
 
-We do not send or support the delivery of unsolicited bulk e-mail (a.k.a. "spam"). 
+**2\. Information you give us about others**
 
-We think advertising is more useful when it is tailored to your interests. Since RealAge users are interested in bettering their health and lifestyle, we use information about their health to deliver ads. 
+You may give us information about other people, such as the name and email of a friend or contact with whom you want to share an article or the name and address of a gift subscription recipient. Do not give us information about others unless you are authorized or have their consent to do so. We will use their information for the purposes described in this Privacy Notice.
 
-We display ads on our Site to our Registrants and Members based on the Personal Information provided to us when taking the RealAge Test or participating in other interactive features, as well as Anonymous Data collected via technology. For example, if when taking the RealAge Test you indicated that you are interested in diet and exercise, you might be shown an advertisement about nutrition or physical fitness. 
+ **3.  ** **Information automatically collected**
 
-RealAge users who do not become Members or Registrants receive advertisements solely on the basis of Anonymous Data. 
+The Digital Services automatically log certain information about visits to the Digital Services, such as the number and frequency of visitors, technical information about browsers and devices used to access the Digital Services, and information about crashes or other technical issues. In addition, we and third parties may automatically collect certain information through automated means about your activities over time across the Digital Services as well as across third-party sites, apps or other media. The tools that collect this information vary depending on the Digital Services and include technologies such as cookies, web beacons, tags, scripts, pixels, local shared objects (including HTML5 cookies) and software development kits (“SDKs”). These technologies may be included in our web pages, mobile apps, emails, and other digital content. The tools may assign or collect unique cookie IDs or other identifiers associated with your browser or device. The tools may collect information while you are using our Digital Services or while they are running in the background of your device.
 
-Advertising is served on RealAge in the following ways: 
+The information automatically collected may include:
 
-■
+  * Information about your computer, device, browser and operating system (e.g., type, model, or version).
+  * Internet protocol (IP) address, which may be used to derive your general geographic area (e.g., city and country).
+  * Device identifiers (e.g., mobile advertising IDs).
+  * Information about your interactions with the Digital Services, including browsing activities and clickstream data that reflect the content you have accessed, clicked on, or viewed. 
+  * Information about how you accessed the Digital Services, including details about websites or apps visited immediately before or after accessing aDigital Service.
+  * Demographic, interests and household information.
+  * Information about your interactions with email messages and other communications, such as whether you opened or forwarded the email or clicked on links contained in the email. 
 
-By RealAge directly -- in some cases using RealAge-controlled third-party ad-serving technology or by using an advertiser's third-party ad-serving technology, though in both cases, no Personal Information is shared with or accessible by the ad-serving platform. 
 
-■
 
-By ad-serving networks that track user activity across a variety of Web sites. 
+For more information about the use of automated means in the context of interest-based advertising and how you can limit tracking, see here.
 
-If you are a Registrant or Member and want RealAge to stop using health information to serve you ads, [click here](http://cls.realage.com/Reg/MyAcntTC.aspx) to delete your account. If you would like more information about network advertising and about not having this information used by these companies, click here: [ http://networkadvertising.org/consumer/opt_out.asp](http://networkadvertising.org/consumer/opt_out.asp). 
+ **4.  ** **Information we obtain from other sources**
 
-When you click on the third-party advertisements or links displayed on RealAge, you will leave our Site and go to another site. During this process, a third party (including a third-party advertising service that may provide services to an advertiser) may collect Personal Information or Anonymous Data from you, such as the URL you just came from, the URL you go to next, your browser type, and your IP address. Our display of advertisements or links to any other company or site is for your convenience and does not signify our endorsement of such company or site (or the contents of the site). We have no control over, we do not review, and our Privacy Policy does not apply to these other companies, sites, or content, or to any collection of data after you click on an advertisement of or link to a third party. RealAge may from time to time be syndicated to Affiliates or third parties, and you may be served ads from advertisers selected by those parties. 
+We receive information about you from other sources and it may be combined with other information about you. For example, we may obtain data from:
 
-As a convenience to our Members, we provide a number of ways to review and change information in your account and to unsubscribe from RealAge services. For one, you can go to the RealAge Site and log onto your account page to make any desired changes. Similarly, each e-mail message you receive from us contains one or more links to RealAge that allow you to conveniently access this information. Or **you can unsubscribe at any time by** [clicking here](http://cls.realage.com/reg/unsubscribe.aspx). 
+  * Operators of third-party sites or apps, content distribution channels and platforms (e.g., Roku, Amazon Fire TV), voice-activated assistants (e.g., Amazon Alexa, Google Home) or other devices and technologies when you interact with our content, products, services or ads available on those channels and platforms. The information we receive may include information about the content you view or access as well as your demographic information and information about your interests.
+  * Third-party data suppliers such as data aggregators, data resellers, public databases and business partners. They may provide us with demographic information, information about your purchases, and other information that helps us learn about you and other users of the Digital Services. 
+  * Social Media Platforms and similar services (“ **Social Media Platforms** ”). When you engage with our content or ads on Social Media Platforms, or interact with features on the Digital Services that contain content or features provided by Social Media Platforms (e.g., login or sign in features or tools that allow you to share our content with others on Social Media Platforms), we may obtain information from Social Media Platforms, including your username, user ID, demographic information and other information, subject to the settings and privacy practices of the relevant Social Media Platform. We may obtain this information directly from the Social Media Platform or through plug-ins, integrations or applications. Please keep in mind that the operators of the Social Media Platforms may _also gather information_ about your use of the Digital Services and their features and tools.
 
-To request that your health information which has been voluntarily provided to RealAge through registration, online forms, or surveys be removed from our database, [click here](http://cls.realage.com/Reg/MyAcntTC.aspx). When we delete your health information, you will continue to be registered with us, and if you are a RealAge Member, you'll continue to get the free health newsletters and e-mails that you have told us you want to receive. 
 
-If you choose to post material to any blogs or forums, participate in our social networking channels, or in any other community features that may be offered from time to time on our Sites, you will be solely responsible for all content, messages, text, files, images, graphics, photos, audio clips, sounds, videos, or other materials (the "Postings"). You agree and warrant that any Postings you make on the Site will be true and accurate, will not defame any person or invade any person's privacy, and will not infringe upon the proprietary rights of any person. You agree not to make any Postings to which you do not own the rights. By making Postings, you understand and acknowledge that visitors to RealAge may post comments about your Postings which may be derogatory, and that RealAge has no obligation to monitor or delete any such comments. You also acknowledge that any information you may receive from another advice-giver on our Site is not a substitute for professional medical information or advice and is governed by the disclaimers and limitations set forth in our [Terms of Use](http://cls.realage.com/corporate/termsofuse.aspx). 
 
-RealAge reserves the right, but has no obligation, to monitor Postings. RealAge does not and cannot monitor all of the Postings made to the Sites and will not be responsible for the content of any Postings. RealAge has no obligation to verify the accuracy of any personally identifying information posted to our Sites. However, RealAge reserves the right to delete any material in any Posting that is obscene, harassing, offensive, or otherwise objectionable and not in keeping with the community standards of RealAge. Under no circumstances will RealAge be liable for any inaccuracy or defect in any Postings. We also expect our users to adhere to certain rules. Therefore, you agree not to post, e-mail, or otherwise make available Postings: 
+ **C. _HOW WE USE INFORMATION WE OBTAIN_**
 
-■
+If you make a purchase or place an order through or in connection with a Digital Service, we use your payment card information (e.g., your card number and expiration date) for limited purposes such as to process your transaction (including recurring payments, if applicable), to provide you with the requested products or services and for the purposes described under the section “To protect our rights or the rights of others” below. 
 
-That are unlawful, harmful, threatening, abusive, harassing, defamatory, pornographic, libelous, or invasive of another's privacy or harmful to minors in any way. 
+With respect to information other than your payment card information, we use that information:
 
-■
+ **1.  ** **To provide you with the Digital Services**. This includes:
 
-That harass, degrade, intimidate, or are hateful toward an individual or group of individuals on the basis of religion, gender, sexual orientation, race, ethnicity, age, or disability. 
+  * Processing your requests regarding the Digital Services and our subscriptions, products or services, or your participation in a survey, sweepstakes, contest, promotion, event or similar initiative.
+  * Providing customer assistance or technical support.
+  * Customizing content, providing recommendations and enhancing the quality and your overall experience with the Digital Services, including by retaining your user preferences or presenting content in the most effective manner for the browser or device you use to access the Digital Services.
+  * Maintaining, operating, improving and developing the Digital Services and related content, products or services, including developing new products and features based on users’ interactions with the Digital Services.
+  * Learning about users of the Digital Services and analyzing how you and others interact with and respond to the Digital Services, including by measuring and optimizing usage, reliability and performance, conducting market research,analyzing trends, and supporting our operations (e.g., for accounting, auditing, financial, legal or other purposes).
 
-■
+ **2.  ** **To communicate with you**. This includes:
 
-That include personal or identifying information about another person without that person's explicit consent. 
+  * Sending you informational messages about the Digital Services (e.g., to confirm your subscription or notify you of changes to a Digital Service).
+  * Delivering marketing or promotional communications, including offers or promotions about our or third parties’ products, services or other initiatives. 
+  * Responding to your questions or addressing your requests.
+  * Communicating with you about surveys, sweepstakes, contests, promotions or events.
 
-■
+ **3.  ** **For advertising and marketing purposes, including interest-based advertising.** This includes:
 
-That are false, deceptive, misleading, deceitful, misinformative, constitute "bait and switch," or impersonate any person or entity. 
+  * Developing, managing and conducting advertising and marketing campaigns, promotions and offers, including about our content, products and services or third parties’ products, services and other initiatives.
+  * Interest-based advertising (also known as targeted or personalized advertising or ads) is advertising based on your interests as inferred from your activities over time on the Digital Services and online services operated by third parties, as well as information from other sources. Interest-based ads may consist of text ads, images, animations or videos and may be displayed to you based on various factors, including the context of the site or app in which they appear (e.g., sport or travel section), information you provided to the operator of the site or app (e.g., when you created an account), your activities on the site or app (e.g., pages viewed, searches performed or ads clicked), and information such as your demographic, interests and household information.
+    * On the Digital Services and on third-party sites, apps or other media, we, our service providers and third parties may use automated means to (a) collect information for interest-based advertising purposes or (b) serve you interest-based ads. These automated means vary depending on the Digital Services and include technologies such as cookies, web beacons, tags, scripts, pixels, local shared objects (including HTML5 cookies) and SDKs. These technologies may use unique identifiers associated with your browser or device to support interest-based advertising.
+    * We may use online and offline information we obtain about you, including your personal information, for interest-based advertising purposes. We may aggregate the information we obtain to create audiences that are most likely to respond to ads based on demographic, interests or household information.
+    * Interest-based ads may be displayed to you by third parties, such as ad networks or exchanges.
+    * There are steps you can take to limit the collection of your information for interest-based advertising purposes. These steps vary for the web and mobile app environments and are browser and device specific. To learn more about interest-based advertising and opt-out choices, see <http://www.aboutads.info/choices/> and here.
+    * In serving interest-based ads, we adhere to the Self-Regulatory Principles for Online Behavioral Advertising developed by the Digital Advertising Alliance.
+  * Cross-device linking. If you access the Digital Services from multiple browsers or devices, we, our service providers and third parties may try to establish connections among and link the different browsers and devices you use to access the Digital Services and our content or ads published elsewhere. This helps us provide you with a seamless experience across the browsers and devices you use and serve you with more relevant content and ads (e.g., so that we don’t show you the same article twice). See here for steps you can take to limit browser and mobile app tracking for interest-based advertising purposes.
+  * Analyzing and measuring the performance, effectiveness and reach of our advertising (including interest-based ads) and marketing efforts on the Digital Services and elsewhere.
 
-■
+ **4.  ** **To protect our rights or the rights of others**. This includes:
 
-That contain your own or a third party's advertising, branding, or promotional content. 
+  * Detecting, preventing and responding to fraud or potentially illegal activities, misuse of the Digital Services, intellectual property infringement or other violations of law, this Privacy Notice, our Terms of Use or other Hearst policies. 
+  * Performing audits, assessments and testing or troubleshooting activities. 
+  * Backing up our systems (including for disaster recovery purposes) and enhancing the overall security of the Digital Services.
+  * Complying with and enforcing applicable industry and legal requirements (including legal process such as court orders, warrants or subpoenas) and fulfilling contractual obligations.
 
-■
 
-That infringe upon any proprietary rights, including copyright, of any party, or Postings that you do not have a right to make available. 
 
-■
+ **D. HOW WE SHARE INFORMATION**
 
-That restrict or inhibit any other user from using and enjoying the RealAge Sites or the RealAge services offered on them. 
+We may share the information we obtain with:
 
-Because RealAge does not monitor the Postings, you agree to use and rely on them at your own risk. RealAge cannot make any representation or warranty about the material contained in the Postings. RealAge likewise assumes no responsibility for any contact you may have with other users of our Sites, either online or offline. If you elect to meet in person with someone you may meet on our Sites, you do so at your own risk; under no circumstances will RealAge be liable for any activity or injury that may occur. 
+ **1.  ** **Affiliates and Subsidiaries**. We work closely with affiliates and subsidiaries within the Hearst family of companies with whom we share your information as necessary or appropriate to operate the Digital Services.
 
-RealAge may disclose information about you and your use of the RealAge Web Site and the RealAge services if RealAge believes such disclosure is reasonably necessary in order to: 
+ **2.  ** **Service Providers**. In connection with the operation and provision of the Digital Services, we engage various third parties to provide services or handle transactions on our behalf, such as payment card processing, email distribution, list processing, postal mailing, cloud computing, analytics, digital content performance measurement, ad serving and managing sweepstakes, contests, promotions or events. These service providers use the information we provide to them as necessary or appropriate for the performance of their services.
 
-(i) Comply with the law or legal process where a formal request has been made, such as from an administrative oversight agency, civil suit, subpoena, court order, or judicial or administrative proceeding;   
-(ii) Protect or defend the rights or property of RealAge or others;   
-(iii) Enforce the RealAge Terms and Conditions or this Privacy Policy;   
-(iv) Respond to claims that the content(s) of a communication violates the rights of another. 
+ **3.  ** **Advertisers, Advertising- and Marketing-Related Service Providers and Partners**. We may provide your information to advertisers, advertising agencies, ad networks, ad exchanges, marketing businesses, technology vendors and other entities that create, deliver and assess advertising or marketing campaigns, including interest-based ads.
 
-Also, circumstances may arise where, for business reasons, RealAge may decide to reorganize, or divest all or part of its business through sale, assignment, merger, or acquisition. In these circumstances, personal information may be shared with the actual or prospective purchasers or assignees. In such an event, we shall provide notice of any material change to this Privacy Policy, or our services, in the manner described in the Updates section of this Privacy Policy (see Section 16).
+ **4.  ** **Content Measurement Companies**. We and third parties seek to measure the performance of content across the internet, including on the Digital Services. We may include third-party measurement software in the Digital Services to enable market research or to measure digital and video content consumption. See [here](http://www.nielsen.com/us/en/privacy-statement/digital-measurement.html#choices) to learn how you can opt out of Nielsen video measurement.
 
-We may conduct give-aways, contests, and other promotions on the Site in which we may ask you for additional information. We will use and treat this information as Personal Information in accordance with the terms of this Policy. Participation in such give-aways and contests is not necessary to use RealAge, and whether you may choose to participate in any particular give-away or contest or not will not affect your general use of the Site. 
+ **5.** **Social Media Platforms.** If you interact with social media widgets, share content using social media share buttons, or access features of the Digital Services that contain content or features provided by Social Media Platforms, the relevant Social Media Platforms may collect information. We encourage you to review the privacy policies of the Social Media Platforms that you engage with as we are not responsible for their privacy practices.
 
-**RealAge has implemented security measures intended to prevent the loss, misuse, or alteration of the information under its control.** Our hardware infrastructure is housed in a controlled-access facility that restricts access to authorized individuals with positive identification. Our network access to the infrastructure is protected by a firewall protection system. Member information is backed up on a periodic basis to protect against accidental loss. You have the option when you enter personally identifiable information (e.g., registration, health profile questions, surveys) to use Secure Sockets Layer (SSL) encryption to protect your information during its transmission across the Internet. We use secure digital certificates to assist with verification that you're actually using RealAge.com and have not been diverted to an imposter Web site. We restrict the access of our staff and contractors to your information. Third-party marketing partners receive your information only under the substantial restrictions, imposed by you and/or us, described elsewhere in this Policy. 
+ **6.  ** **Business Partners**. We may provide your information to business partners including, without limitation, joint marketing partners and content sponsors, for various purposes. For example, we may partner with a third party to offer products on a co-branded, co-sponsored or cross-promotional basis that involves the sharing of information. These initiatives may be offered on the Digital Services or on other media.
 
-However, we cannot guarantee that communications between you and RealAge will not be intercepted by others, and that information stored on our servers will be free from unauthorized access. While we have taken reasonable precautions to protect this information, you should always use discretion in what information you send to us and not expect that such information will be absolutely free from intrusion. The confidentiality of any communication or material transmitted to or from RealAge cannot be and is not guaranteed. Accordingly, RealAge is not responsible for the security of information transmitted via the Internet. 
+ **7.  ** **Other Parties When Required by Law or As Necessary to Protect Our Rights**. We may share your information as we believe is necessary or appropriate to protect, enforce, or defend our legal rights, the privacy or safety of our employees, users of the Digital Services or other individuals and entities, or to comply with or enforce applicable industry standards, law or legal process, including responding to court orders, warrants, subpoenas and other requests from public and government authorities.
 
-Please note that **RealAge does not request Personal Information by sending e-mails. We only collect such information on our Site.** If you receive an e-mail purporting to be from us that solicits Personal Information, do not respond to it. Instead, please contact our [Member Services](mailto:info@realage.com?subject=Privacy%20Policy) staff immediately. 
+ **8.  ** **Corporate Transactions**. We reserve the right to transfer any of the information we have about you to proceed with the consideration, negotiation, or completion of a sale or transfer of all or a portion of our business or assets to a third party, such as in the event of a merger, acquisition or other disposition, or in connection with a bankruptcy reorganization, dissolution, or liquidation.
 
-If the e-mail address you provide to us is a wireless e-mail address, you agree to receive messages at such address (unless and until you have elected not to receive such messages by notifying us at [info@RealAge.com](mailto:info@realage.com?subject=Privacy%20Policy) with the subject line, "Unsubscribe"). You understand that your wireless carrier's standard rates apply to these messages. You represent that you are the owner or authorized user of the wireless device on which messages will be received, and that you are authorized to approve the applicable charges. 
+ **9.  ** **With Your Consent or Otherwise at Your Direction**. In addition, we may share your information with third parties when you consent to or request such sharing.
 
-RealAge, Inc., is a wholly owned subsidiary of Hearst Magazines, a division of Hearst Communications, Inc. As such, RealAge.com operates as part of the Hearst Digital Media Network, a network of Web sites operated by Hearst Communications, Inc., the country's largest publisher of monthly consumer magazines. These are our current Affiliates (we may add additional Affiliates in the future; if we do, they will be posted here and on the Site, but the addition of new Affiliates shall not be deemed to necessitate a change to this Privacy Policy): 
+ **E. YOURS CHOICES, INCLUDING MARKETING AND INTEREST-BASED ADS OPT-OUTS**
 
-Answerology   
-CosmoGirl   
-Cosmopolitan   
-Country Living   
-The Daily Green  |  Delish   
-eCrush   
-eSpin   
-Good Housekeeping   
-House Beautiful   
-Marie Claire  |  MisQuince   
-Quick & Simple   
-Redbook   
-Seventeen   
-Town & Country Travel   
----|---|---  
-  
-RealAge services and Web Sites are not directed at children. They are designed for individuals who are 20 years of age or older. We will not request or knowingly collect information from an individual under age 20. 
+ **** **Direct Marketing Opt-Outs**
 
-If you are a parent and you're worried about your children's activities or their privacy on our Site, we encourage you to e-mail us at [privacy@RealAge.com](mailto:privacy@RealAge.com). 
+  1. **Email marketing.** You may opt out of receiving marketing or promotional emails from us by clicking on the “unsubscribe” link contained in such emails. Depending on the Digital Service you use, you also may be able to opt out of marketing or promotional emails by logging into your account and managing your email preferences.Please keep in mind that if you opt out of receiving marketing or promotional emails, we may still send you transactional emails or other communications relating to your use of the Digital Services (e.g., to confirm your subscription, to inform you of changes to a Digital Service or in response to your password recovery request). 
+  2. **Text message marketing**. If you choose to participate in a text message marketing campaign or promotion offered in connection with a Digital Service, you may opt out of receiving marketing texts from us by following the instructions contained in those messages (e.g., texting the word STOP) or provided to you when you elected to receive text message marketing.
+  3. **Direct mail.** You may request that we stop sending you postal mail offers through the US post office by notifying us in writing at Office of General Counsel, Attn: Privacy, 300 West 57th Street, New York, NY 10019. Please indicate in your correspondence the name of the Digital Service or publication to which your request applies. 
+  4. **Marketing by Third Parties.** We may provide your contact information to third parties for their own marketing purposes. To request that third parties do not use your postal mailing contact information for their own marketing purposes (if we have your postal address), you may notify us in writing at Office of General Counsel, Attn: Privacy, 300 West 57th Street, New York, NY 10019\. Please indicate in your correspondence the name of the Digital Service or publication to which your request applies. In addition, you may be able to request that third parties do not use your email address (if we have it) for their own marketing purposes by logging into your account or the preferences center (if available) for the relevant Digital Service and adjusting your email preferences.
+  5. **Co-Branded, Co-Sponsored or Cross-Promotional Offerings**. If you choose to participate in a co-branded, co-sponsored or cross-promotional offering, the brand, sponsor or other third party involved in that offering may use your information for its own purposes, including advertising and marketing purposes. You must contact the relevant third party directly to exercise your opt out choices with respect to such party’s use of your information. 
 
-YOU EXPRESSLY CONSENT TO THE PROCESSING OF YOUR PERSONAL DATA IN ACCORDANCE WITH THIS PRIVACY STATEMENT. YOUR PERSONAL DATA MAY BE PROCESSED IN THE UNITED STATES. UNITED STATES LAWS REGARDING PROCESSING OF PERSONAL DATA MAY BE LESS STRINGENT THAN THE LAWS IN YOUR COUNTRY. 
 
-California and Canada residents have the right to know how their information may be shared with third parties who engage in direct marketing activities; this Privacy Policy explains our practices and how you can opt out of having your information shared for such purposes. 
 
-RealAge reserves the right, at any time and without notice, to add to, update, change, modify, or revise this Privacy Policy or our services simply by posting such change, update, or modification on the Web Site. Any such addition, update, change, modification, or revision will be effective immediately upon posting on the Web Site. Upon any material change to this Privacy Policy, or our services, we may also notify you by notification on the Site and/or notification delivered by e-mail if you are a current RealAge Member with a valid, deliverable e-mail address at the time of the material change. 
+**Interest-Based Ads Opt-Outs**
 
-If you do not accept the terms of this Policy, we ask that you do not register with RealAge. 
+Some of the ads you see on the Digital Services are interest-based ads. This means that these ads are customized based on the information we and others obtain about you. We describe below steps you can take to limit tracking of your activities and the delivery of interest-based ads in browsers and mobile apps you use to access the Digital Services. Please keep in mind that if you opt out of interest-based ads, you will still see ads, but these ads will not be based on your inferred interests. In addition, if you take the steps described below, some automated means may still be used to collect information about your interactions with the Digital Services for the other purposes described in this Privacy Notice (e.g., to remember user preferences or enable specific functionality). 
 
-If you have any questions about this Privacy Policy, the practices of this Web Site, or your dealings with RealAge, you can contact: 
+The technologies used to deliver ads on websites and mobile apps differ. Please also remember that opt-outs are browser and device-specific. 
 
-RealAge, Inc.   
-5375 Mira Sorrento Place, Suite 250   
-San Diego, CA 92121 USA   
-(858) 200-7171   
-[privacy@RealAge.com](mailto:privacy@RealAge.com)
+**Website (Browser) Opt-Out**
 
-Contact us: [info@RealAge.com](mailto:info@RealAge.com?subject=Privacy%20Policy)
 
-This privacy policy was last updated on July 23, 2009. 
+
+
+**1.  ** **Disabling Cookies.** Most browsers accept cookies by default. You may be able to change the settings to have your browser refuse certain cookies or notify you before accepting cookies.
+
+  * If you choose to disable the use of cookies in your web browser, some features of the Digital Services may become difficult to use or unavailable.  
+
+
+
+
+ **2.  ** **Opt-out Cookies.** You can follow the instructions provided by the Digital Advertising Alliance (“DAA”) [here](http://www.aboutads.info/) and/or the Network Advertising Initiative (“NAI”) [here](http://optout.networkadvertising.org/) to place an opt-out cookie on your browser. These opt-out cookies enable you to block participating companies from installing future cookies on your computer or browser. 
+
+  * If you place opt-out cookies but subsequently clear or delete cookies on your computer or device browser, your opt-out cookies may be deleted and you may have to renew your opt-out choices for that specific browser.  
+
+  * The opt-out mechanisms offered by the DAA and NAI are provided by third parties. Hearst does not control or operate these mechanisms or the choices provided through these mechanisms.  
+
+
+
+
+ **Mobile App Opt-Out**
+
+
+
+
+**1.  ** **Device Settings.** To limit interest-based advertising on your mobile device, you can review and adjust the settings provided by your device manufacturer, such as “[Limit Ad Tracking](https://support.apple.com/en-lamr/HT202074)” for iOS or “[Opt-out of interest-based ads](https://policies.google.com/technologies/ads?hl=en) ” for Android. 
+
+**2.  ** **AppChoices Application.** You can download the “AppChoices” application provided by the DAA from your app store. AppChoices offers a mechanism to limit the collection of app data used for interest-based ads by participating companies. See [here](http://youradchoices.com/appchoices) for more.
+
+Please keep in mind that as the mobile environment continues to evolve, additional opt-out mechanisms or privacy settings may become available to you. We encourage you to review the information on opt-outs and settings that device manufacturers, technology companies and industry associations make available to you. 
+
+**Measurement Opt-Out**
+
+The Digital Services may include Nielsen proprietary measurement software, which contributes to market research (e.g., Nielsen TV Ratings). To learn more about the information that Nielsen software may collect and the choices you may have, please see the [Nielsen Digital Measurement Privacy Statement](http://www.nielsen.com/us/en/privacy-statement/digital-measurement.html) **.**
+
+ **Additional Choices**
+
+
+
+
+**1.  ** **User account.** If you have created an account on a Digital Service, you may be able to review some of your information for that account by logging in and updating your information or user preferences. 
+
+**2.  ** **Device Settings.** For relevant Digital Services, you may be able to review and adjust your preferences by updating the settings on your device (e.g., permitting us to collect precise location information).
+
+ **3.  ** **Push Notifications.** If a Digital Service enables push notifications on your device, you may review and update your push notification preferences by adjusting the settings on your device. For example, you can select the relevant app from “Notifications” (for iOS devices) or “App notifications” (for Android devices) and turn off alerts accordingly.  
+
+
+ **F. ADDITIONAL INFORMATION FOR CALIFORNIA RESIDENTS**
+
+ **Your California Privacy Rights**
+
+Residents of California may request a list of third parties to which certain personal information (as defined by applicable California law) obtained through a Digital Service was disclosed by Hearst during the preceding year for those third parties’ direct marketing purposes. If you are a California resident and want such a list, please contact us at Office of General Counsel, Attn: Privacy, 300 West 57th Street, New York, NY 10019\. For all requests, you must put the statement “Your California Privacy Rights” in the body of your request, as well as your name, street address, city, state, and zip code. In your request, you need to attest to the fact that you are a California resident and provide a current California address for our response. Please also indicate in your request the name of the Digital Service to which your request applies. Please note that we will not accept requests via the telephone, email, or by facsimile, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information.
+
+ **Do Not Track**
+
+Hearst does not currently take steps to respond to browsers “Do Not Track” signals as no uniform standard to respond to such signals has been developed at this time.
+
+
+
+
+**G. ** ** _HOW WE PROTECT YOUR INFORMATION_**
+
+We use a variety of security technologies and procedures to help protect information from unauthorized access, use or disclosure. However, no method of transmission over the internet, or method of electronic storage, is 100% secure. Therefore, while we make reasonable efforts to protect your personal information, we cannot guarantee its absolute security.
+
+
+
+
+**H. ** ** _NON-U.S. VISITORS_**
+
+We operate the Digital Services from the United States. Any information we obtain about you in connection with your use of the Digital Services may be processed and stored in the United States or other countries.
+
+
+
+
+**I. ** ** _CHILDREN’S PRIVACY RIGHTS_**
+
+The Digital Services are not intended for use by children, especially those under the age of 13, and we do not knowingly collect personal information from children under the age of 13. 
+
+
+
+
+**J. ** ** _LINKS TO THIRD-PARTY WEBSITES, MOBILE APPS OR OTHER SERVICES_**
+
+The Digital Services may contain links to websites, mobile apps or other services operated by companies not affiliated with Hearst. In addition, the Digital Services may be made available to you through third-party platforms (such as app stores or Social Media Platforms) or other channels. We are not responsible for the privacy practices of any non-Hearst operated websites, mobile apps or other services and channels, and we encourage you to review the privacy policies or notices published by relevant third parties. 
+
+
+
+
+**K. ** ** _CAREERS/JOB OPPORTUNITIES_** ** __**
+
+This Privacy Notice does not apply to web pages hosting our careers or job opportunities. Any information obtained through such pages is governed by the privacy notice published thereon.
+
+
+
+
+**L. ** ** _DISPUTE RESOLUTION/TERMS OF USE_**
+
+Any dispute concerning the Digital Services (including our use of your personal information) will be resolved per the dispute resolution provision in the [Terms of Use](http://www.hearst.com/newsroom/us-magazines-terms-of-use), which govern your use of the Digital Services. Please take a few minutes to read the Terms of Use before using the Digital Services.
+
+
+
+
+**M. ** ** _CHANGES TO THIS PRIVACY NOTICE_**
+
+We may update this Privacy Notice from time to time to reflect changes in our privacy practices or applicable laws. In accordance with applicable law, we may make such changes without prior notice. We will publish the updated version on the relevant Digital Services and indicate at the top of the Privacy Notice when it was most recently updated. Your use of the Digital Services will be governed by the then-current version of the Privacy Notice. 
+
+
+
+
+**N. ** ** _CONTACT US_**
+
+If you have any questions about this Privacy Notice, please contact us by email at [magsprivacy@hearst.com](mailto:magsprivacy@hearst.com).
+
+
+
+
+**O. ** ** _ADDITIONAL INFORMATION FOR EUROPEAN VISITORS_**
+
+In order to address our legal obligations in Europe (including the UK), Hearst provides the following additional information for Europe-based visitors to Hearst's U.S. Digital Services.
+
+ **Who is Responsible for Your Information?**
+
+If you use or interact with a Hearst U.S. Digital Service then the data controller will be Hearst Magazine Media, Inc. The contact details for this entity are provided in the “Contact Us” section above.
+
+ **Legal Bases for Using Your Information**
+
+We process personal information for different purposes (as described in the “How We Use Information We Obtain” section, above) on the following legal bases: 
+
+**To perform our** **contractual** **obligations to you.** We and our service providers process your information to perform our contractual obligations to you when we use your information to provide you with the Digital Services and related content, products or services and to communicate with you. For example, when you purchase a subscription from us, we process your payment and contact information as necessary to confirm the subscription and we process your contact information and other details to provide you with support services you request. We also send you informational communications on this basis, including to confirm a subscription or to notify you of a change to a Digital Service. Failure to provide requested information could prevent or delay the fulfilment of our contractual obligations.
+
+  * **To pursue our legitimate interests.** We process your information to meet our legitimate interests when we use your information to provide you with the Digital Services and related content, products or services, to communicate with you and for our advertising and marketing purposes. For example, our legitimate interests include making improvements to, customizing and understanding how you interact with the Digital Services and related content, products or services, and sending you communications about products and services we think may be of interest to you. To accomplish our legitimate interests, we may share your information with our affiliates and subsidiaries, service providers and business partners (including for our advertising and marketing purposes) and in the context of a corporate transaction. We maintain safeguards to protect the information we process to pursue our legitimate interests.
+
+
+
+ **To compl** **y with our legal obligations.** We process and share your information as necessary to comply with our legal obligations when we use your information to protect our rights or the rights of others and when we share your information with other parties where required by law or as necessary to protect our rights. For example, we are required to collect certain information from you when processing your subscription payment for tax or financial reporting reasons. 
+
+  * **With your consent.** We obtain your consent to process your information when we are required to do so by law. If consent is the legal basis on which we process your personal information, you can withdraw your consent at any time by contacting us using the information provided in the “Contact Us” section above. ****
+
+
+
+ **Your Rights Over Your Information**
+
+In certain circumstances, you have a right to access or object to the use of personal information held about you (including in relation to direct marketing). You can also ask us to rectify, update, erase, restrict or to share your information in a usable format with another company. Such requests are subject to applicable law. 
+
+We encourage you to contact us to update or correct your information if it changes or if the personal information we hold about you is inaccurate. 
+
+If you would like to discuss or exercise such rights, please contact us at [datarequestsmagazines@hearst.com](mailto:datarequestsmagazines@hearst.com). We will contact you if we need additional information from you in order to honor your requests. 
+
+**Storing Your Information**
+
+We will keep your personal information for as long as we have a relationship with you. Once our relationship with you has come to an end, we will retain your personal information for a period of time that enables us to:
+
+  * Maintain business records for analysis, understanding market trends and/or audit purposes and to improve the Digital Services. 
+  * Comply with record retention requirements under applicable laws or other relevant legal or regulatory requirements.
+  * Defend, establish, exercise or bring any existing or potential legal claims.
+  * Carry out fraud detection and prevention.
+  * Deal with any complaints regarding the Digital Services, our products and services.
+
+
+
+We will delete your personal information when it is no longer required for these purposes. If there is any information that we are unable, for technical reasons, to delete from our systems, we will put in place appropriate measures to prevent any further processing or use of the data.
+
+ **International Data Transfers**
+
+Information collected through the Digital Services will be processed in and subject to the laws of the United States, which may not provide the same level of protection for your personal information as your home country. If we transfer personal data from the European Economic Area and Switzerland we put in place safeguards. In particular, such safeguards include [Privacy Shield Principles](http://www.hearst.com/newsroom/privacy-shield-statement) or European Commission-approved standard contractual clauses. For more information on these safeguards, please read our [Privacy Shield Statement](http://www.hearst.com/newsroom/privacy-shield-statement) or contact us at the details provided in the “Contact Us” section above. 
+
+**Changes to the Privacy Notice**
+
+Where changes to this Privacy Notice have a fundamental impact on the nature of the processing or otherwise have a substantial impact on you, we will give you advanced notice so that you have the opportunity to exercise your rights (e.g. to object to the processing). 
+
+**Privacy Officer and Complaints**
+
+Our Privacy Officer can be contacted at [magsprivacy@hearst.com](mailto:magsprivacy@hearst.com).
+
+We are committed to working with you to obtain a fair resolution in the event you have a complaint or concern about privacy. If, however, you believe that we have not been able to assist with your complaint or concern, you have the right to make a complaint to a data protection authority.
