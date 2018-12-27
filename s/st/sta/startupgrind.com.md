@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the startupgrind.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627003916id_/https%3A//www.startupgrind.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startupgrind.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227081028id_/https%3A//www.startupgrind.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Startup Grind
+# About Us / Privacy Policy | Startup Grind
 
 **Startup Grind, INC.** **  
 ** **Privacy Policy** **  
