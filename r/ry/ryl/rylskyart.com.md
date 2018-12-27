@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rylskyart.com privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530124812id_/https%3A//www.rylskyart.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rylskyart.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227025122id_/https%3A//www.rylskyart.com/privacy) for the most accurate reproduction.*
 
 # Rylsky Art - Privacy
 
