@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the campusexplorer.com privacy policy that was archived on 2017-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171005232853id_/https%3A//www.campusexplorer.com/company/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campusexplorer.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227010109id_/https%3A//www.campusexplorer.com/company/legal/privacy) for the most accurate reproduction.*
 
 # Campus Explorer Privacy Policy
 
@@ -66,8 +66,8 @@ If you do not want to receive email from Campus Explorer, please follow the step
 
 
 Campus Explorer  
-2850 Ocean Park Boulevard, Suite 310  
-Santa Monica, CA 90405
+12555 W. Jefferson Blvd, Suite 202  
+Los Angeles, CA 90066
 
 ### Do Not Track Signals
 
@@ -83,6 +83,10 @@ If you have any questions about this policy please contact:
 Customer Privacy  
 Campus Explorer  
 [privacy@campusexplorer.com](mailto:privacy@campusexplorer.com)
+
+### Data Transfers
+
+Please note that the Services are intended solely and exclusively for residents of the United States, its territories and possessions ("U.S.") while they are located in the U.S. Accordingly, this Privacy Policy is specifically directed only towards residents of the U.S. If you are located in the European Union or elsewhere outside of the U.S. and you use the Site contrary to our Terms of Use, you do so at your own risk and initiative, and are responsible for compliance with any applicable local and national laws. Please be aware that any information you submit to us will be transferred to and processed in the U.S and subject to U.S. law, which may not be equivalent to the laws in your country of residence. By using the Site and/or providing us with your information, you consent to this collection, transfer, storage and processing of information to and in the U.S., and waive any claims that may arise under your own local and national laws.
 
 ### Your California Privacy Rights
 
