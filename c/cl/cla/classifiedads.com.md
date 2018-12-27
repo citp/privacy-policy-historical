@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classifiedads.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620005718id_/https%3A//www.classifiedads.com/info.php%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classifiedads.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227064609id_/https%3A//www.classifiedads.com/info.php%3Fprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
