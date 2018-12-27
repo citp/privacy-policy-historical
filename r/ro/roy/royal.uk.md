@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the royal.uk privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627093715id_/https%3A//www.royal.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royal.uk privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227171651id_/https%3A//www.royal.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Royal Family
 
@@ -161,7 +161,7 @@ Please note that none of these rights are absolute and we reserve the right to r
 
 **Contact information and further advice**
 
-The Information Assurance team based at Buckingham Palace is responsible for ensuring compliance with data protection legislation across the Royal Household. If you would like to contact the Information Assurance team please email our Data Protection Manager at: [informationassurance@royal.gsx.gov.uk](mailto:informationassurance@royal.gsx.gov.uk), or write to: The Data Protection Manager, Information Assurance, The Royal Household, Buckingham Palace, London, SW1A 1AA.
+The Information Assurance team based at Buckingham Palace is responsible for ensuring compliance with data protection legislation across the Royal Household. If you would like to contact the Information Assurance team please email our Data Protection Manager at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e881868e879a85899c818786899b9b9d9a89868b8da89a87918984c68f9b90c68f879ec69d83), or write to: The Data Protection Manager, Information Assurance, The Royal Household, Buckingham Palace, London, SW1A 1AA.
 
 The registered data controllers are as follows:
 
