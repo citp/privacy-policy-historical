@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gomage.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606121348id_/https%3A//www.gomage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gomage.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227122152id_/https%3A//www.gomage.com/privacy-policy) for the most accurate reproduction.*
 
 # GoMage - Privacy Policy
 
-ECOMBIX Oy c/o Streamex having a principal place of business at Malminkaari 5, 00700 Helsinki, Finland (hereinafter referred to as the “Company”, “we”, or “us”) collects from the individual user (hereinafter, referred to as “user”, “you” or “your”) certain personal data through the website [https://www.gomage.com](https://www.gomage.com/) (hereinafter, referred to as the “Website”).
+ECOMBIX Oy having a principal place of business at c/o Novius Pro Oy, Hitsaajankatu 6, 00810, Helsinki, Finland (hereinafter referred to as the “Company”, “we”, or “us”) collects from the individual user (hereinafter, referred to as “user”, “you” or “your”) certain personal data through the website [https://www.gomage.com](https://www.gomage.com/) (hereinafter, referred to as the “Website”).
 
 This Privacy Policy contains Company’s policies and procedures governing the processing of personal data through the Website.
 
@@ -140,6 +140,6 @@ WISHLIST_CNT | The number of items in your Wishlist.
 If you have any questions or concerns regarding this Privacy Policy, please contact us by email at support@gomage.com, or please write to the following address:
 
 ECOMBIX Oy   
-c/o Streamex, Malminkaari 5   
-00700, Helsinki, Finland   
-+358 9-424-505-31
+c/o Novius Pro Oy, Hitsaajankatu 6   
+00810, Helsinki, Finland   
++358 9-424-562-39
