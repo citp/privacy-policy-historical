@@ -1,126 +1,179 @@
-> *The following text is extracted and transformed from the whosay.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614100726id_/https%3A//www.whosay.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whosay.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227130708id_/https%3A//www.whosay.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — WHOSAY
 
-### WHOSAY INC. VIEWER PRIVACY POLICY
+## **PRIVACY POLICY AND YOUR PRIVACY RIGHTS**
 
-This Privacy Policy applies to the information we may collect from or about you when you visit the WhoSay website www.whosay.com (the "Site") which is provided by WhoSay Inc. ("us," "we" or "our") and when you use related services and applications, including applications for mobile devices, content, widgets and other materials set out in more detail in our [Terms of Use](http://www.whosay.com/terms-of-use), (referred to collectively with the Site as the "Service").
+Last Modified: June 19, 2017
 
-Your privacy is important to us. To help you understand our privacy practices, we provide this notice explaining how we collect, use, and disclose information from or about you when you are on the Site or otherwise using the Service. By using the Service, you agree to the terms and conditions of this Privacy Policy and to the collection, disclosure and other uses of your information described below.
+This is the privacy policy ("Privacy Policy") for the specific Internet website, application or other interactive service ("Site," "we," "us," or "our") provided by WHOSAY Inc., a wholly owned subsidiary of Viacom Inc. ("Viacom") that contains an authorized link to this Privacy Policy, which, for the purposes hereof, shall include any information submitted through third party websites directly linked from the Site that permit online submission to Viacom, as further discussed herein.  Notwithstanding the foregoing, all information and data submitted through any third party website will also be subject to such third party's privacy policy.  For purposes of clarity, this Privacy Policy does not apply to information collected offline or otherwise outside of scope of the Site, as set forth above.
 
-### WHAT INFORMATION WE MAY COLLECT
+By using the Site, you agree to accept the terms of this Privacy Policy. Viacom may amend this Privacy Policy from time to time. If Viacom makes any substantial changes in the types of information Viacom collects or how Viacom uses such information, Viacom will inform you of such changes in accordance with the terms of this Privacy Policy. 
 
-In connection with your use of the Service, we collect and store any information you enter on our Site, via the Service or provide to us when you register or in any other way. This information includes different types of personally identifiable information including but not limited to your name, address, gender, e-mail address, SMS number, telephone number, fax number, birthday, and credit or debit card information. We may also collect information about your personal or professional interests and use of or opinions about various products, programs and services.
+ **1.          When This Privacy Policy Applies. **
 
-We may also collect certain information automatically when you visit the Site or use the Service, such as the type of browser or mobile platform and operating system you are using, your IP address, Internet service provider, platform type, referring and exit websites, cookies information (see "Cookies and Other Technologies" below), your use of the Service, and other clickstream data. When you use a WhoSay application on your mobile device, we may also collect information about your mobile's unique device identifier as well as other technical information about your device in order to serve content to it. We will also link your device to your geographical location if you have enabled location services on your mobile device. This enables us to provide you with location-based services that you request, but you can switch off location-enabled features at any time through your mobile device. Each time we request your location, your mobile device operation system manufacturer may also collect information about your location to provide and improve its location services. However, the location information we collect is not used by us to identify or contact you.
+This Privacy Policy applies whether you are accessing the Site via a personal computer, a mobile device or any other technology or devices now known or hereafter developed or discovered (each, a "Device") and whether you are accessing the Site as a registered user or other user of the Site.  This Privacy Policy governs only the Personal Information and Other Information (as those terms are defined below) collected by the Site and does not cover any such information collected in any other manner or by any other website offered by Viacom and/or any affiliates that Viacom directly or indirectly owns or controls (collectively, "Affiliates") or collected by any other company, unless specifically stated. Such information collection may be governed by separate privacy policies or notices. In particular, see our [Privacy Shield Privacy Policy](http://www.viacom.com/privacypolicy/Documents/Privacy_Shield_Privacy_Policy_Viacom.pdf) for information on our privacy policy and practices with respect to personal information transferred to the U.S.
 
-If you choose to connect a Facebook, Twitter, Google + or other third party social networking account with WhoSay, we may combine the information we collect directly from and about you with information that Facebook, Twitter, Google + or your other social networking provider lawfully shares with us. The information they provide to us may include your social networking user ID, any information you have shared publicly through that social networking service, and any other information which they are lawfully permitted to share with us. We use this information only for the purpose of enhancing the service we provide to you (for example, by allowing you to log into WhoSay using your social networking account credentials) and enabling you to share your WhoSay experiences through your connected social networking account(s).
+This Privacy Policy, as amended from time-to-time, will remain in full force and effect even if your use of or participation in the Site or any particular service, feature or function offered through the Site terminates, expires, ceases, is suspended or deactivated for any reason.  If you do not agree with this Privacy Policy, please do not access the Site or any features or services offered through the Site.
 
-If you provide information about another individual, you confirm that you have informed them of our identity and the purposes for which their personal data will be processed as set out in this Privacy Policy and that you have obtained their consent to such processing.
+ **2.          U.S. Governing Law.**
 
-### HOW WE USE THE INFORMATION
+The Site is designed and targeted to U.S. audiences and is governed by and operated in accordance with the laws of the U.S.  We make no representation that this Site is operated in accordance with the laws or regulations of, or governed by, other nations.  By using the Site, you certify that you meet the age and other eligibility requirements for this Site as set forth in our [Terms of Us](http://www.viacom.com/about/pages/termsofuse.aspx), as applicable.  If you do not meet the age and other eligibility requirements, if any, please discontinue using the Site immediately as your continued use of the Site indicates that you are agreeing to the collection, use, disclosure, management and storage of your Information as described in this Privacy Policy.
 
-We use the information you provide to process your registration/subscription to the Service, to respond to your inquiries and fulfill your requests including without limitation any request to purchase goods or services via the Service and to send you messages or administrative information, such as updates to our Site or Service policies. We may also use the information we collect to personalize your experience and to offer you products, programs or services that may be of interest. We may combine information we receive with outside records and share such information with third parties to enhance our ability to market to you those products or services that may be of interest to you. In addition, we may use the information we collect from and about you for our business purposes, such as data analysis, audits, and improving our marketing and our services.
+If you are located outside of the U.S. you use this Site at your own risk and initiative and you, not Viacom, are responsible for compliance with any applicable local and national laws. Please be aware that any Personal Information and Other Information you provide to us or we obtain as a result of your use of this Site will be collected in the U.S. and/or transferred to the U.S. and subject to U.S. law.  By using this Site and/or providing us with your Personal Information and Other Information, you (a) consent to the transfer and/or processing of any Information to and in the U.S., (b) acknowledge that U.S. law may provide a lower standard of protection for personal da than the laws of your location and (c) understand that we will collect, transfer, store, process and/or deal with your Information in accordance with this Privacy Policy and U.S. law. Consequently, to the full extent permitted by law, you hereby waive any claims relating to the processing of your Personal Information or Other Information in accordance with this Privacy Policy that may arise under the laws and regulations that apply to you in or of any other country or jurisdiction. 
 
-In particular, we may use information collected about your use of the Service through cookies and other technologies, to assist us in delivering to you relevant advertising when you visit the Site and when you visit other third party sites and use the Service. To do this, we may work with third party advertising networks and advertisers to deliver these ads to you. As noted in the section "Cookies and Other Technologies" below, these third party advertising networks and advertisers may also use cookies and similar technologies to collect and track your online behavioural information (such as demographic information, aggregated information, and Internet browsing activity) to assist them in delivering advertising that is more relevant to your interests. This information does not enable us or them to identify your actual identity however.
+ **3.          Collection and Use of Personal Information and Other Information. **
 
-If you choose to submit content, including a comment, to the Site or using the Service, we may publish your name, screen name and other information you have provided to us. Please note that any information you post or disclose through any of the Service's interactive features may be available to Site visitors and to the general public. Furthermore, we may make such content and information available to other websites and networks. We are not responsible for the use by any third party of information that you publicly disclose through the our Service.
+When we use the term "Personal Information" we mean information that would allow someone to identify you or contact you, such as your full name, postal address, e-mail address or telephone number.   When we use the term "Other Information", we mean any information other than Personal Information that may be collected about you (Personal Information and Other Information, together, the "Information").  
 
-We use the information that we collect automatically when you use the Service for research and analytics purposes, including to improve the design, content, and user experience of the Service, as well as for other purposes specified in this Privacy Policy. For more information, please see the section "Cookies and Other Technologies" below.
+ **a.    Information We Collect that You Provide Us.  **
 
-### MARKETING CONSENT
+ **i.   User Registration.**  To the extent we offer user registration on the Site, to register as a member of the Site, you are required to select a user name and password (together, your "User ID") and may also be required to provide other Information, such as your email address and date of birth. Additional Information may be requested during the registration process (but not required).
 
-You can register with WhoSay to receive marketing and other communications on an ongoing basis. The communications we send you may include news and information about the artists, programs and other talent pages you follow, as well as information and offers about products, services and promotions we or our third party partners think may interest you. In addition, if you follow an artist, program or other Talent Account on our Web Site, we may pass your contact details to the relevant Talent Account so that they can contact you directly.
+ **ii. In Connection with Certain Features and Functions.**  We may also provide you with access to certain features or functions that we may offer on the Site, such as message boards. To sign up for or participate in these features or functions, you may be required to provide us with certain Information about you in order for us to personalize and/or allow you to use such features and functions.
 
-All of our communications will provide you with a method to unsubscribe, and you can also change your communications preferences by visiting your account settings. You may also exercise your right to opt out of the use of your information for marketing purposes at any time by contacting us using the method explained under the section below "Privacy Complaints or Queries".
+ **b.    Information Collected Through Use of Cookies and Other Tracking Technologies. **
 
-### COOKIES AND OTHER TECHNOLOGIES
+"Cookies" (which may be html files, Flash files or other technology) are text files that help store user preferences and activity. . "Web beacons" (also known as image tags, gif or web bugs) are small pieces of code used to collect advertising data, such as counting page views, promotion views or advertising responses.  The Site and/or third parties may use **  "**cookies", "web beacons" and other similar tracking technologies (collectively, "Tracking Technologies") to collect Other Information automatically as you browse the Site and the web.
 
-To enhance your online experience, we use cookies. Cookies are text files we or our service providers place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering in connection with the Service. However, once you choose to furnish the Service with personally identifiable information, this information may be linked to the data stored in the cookie.
+By visiting the Site, whether as a registered user or otherwise, you acknowledge, understand and hereby agree that you are giving us your consent to track your use of the Site through these Tracking Technologies.
 
-Cookies allow us to collect information such as browser time, time spent on the Service, and pages visited. We use the information to understand Internet usage and to improve our content, offerings and advertisements. We may also use cookies to personalize your experience with the Service (e.g., to recognize you by name when you return to the Service), save your password in password-protected areas, enable you to use shopping carts, as well as to offer you products, programs or services.
+We use Tracking Technologies to help tailor our content, allow users to move between associated sites without logging into each site, understand Site and internet usage, improve or customize the content, offerings or advertisements on this Site, personalize your experience on this Site (for example, to recognize you by name when you return to the Site), understand your interactions with email messages (such as the links clicked on and whether the messages were opened or forwarded), save your password in password-protected areas, save your online game or video player settings, enable you to use shopping carts on the Site, help us offer you products, programs or services that may be of interest to you, deliver relevant advertising, maintain and administer the Site and for other purposes described in the "Use of Information",  **[Other Information Collected by Us](http://www.viacom.com/about/pages/privacypolicy.aspx#info)**.  These Tracking Technologies collect "click stream" data and additional Other Information regarding your visits to the Site (such as your visits to the Site's webpages, use of our features and purchasing history or preferences), may collect such Other Information across multiple sessions on this Site and other websites offered by Affiliates and may also collect your IP address or some other identifier unique to the Device you use to access the Site ("Identifier").  An Identifier is automatically assigned to any Device you use to access the Site.  Your Personal Information is not collected as part of this process but we may associate Other Information collected by Tracking Technologies with Personal Information.   
 
-Cookies set by the website owner (in this case, WhoSay Inc.) are called "first party cookies." Cookies set by parties other than the website owner are called "third party cookies". Third party cookies enable third party features or functionality to be provided on or through the website (e.g. like advertising, videos and analytics). The parties that set these third party cookies can recognize your computer both when it visits the Site and also when it visits certain other websites.
+This Site may additionally use a variety of third party advertising networks, data exchanges, traffic measurement service providers, marketing analytics service providers and other third parties (collectively, "Third Party Advertising Service Providers") to, for example, serve advertisements on the Site, facilitate targeting of advertisements and/or measure and analyze advertising effectiveness and/or traffic on the Site ("Targeting Services").  These Third Party Advertising Service Providers may enable us to display advertisements based on your visits to the Site and other websites you have visited.  Targeting Services enable us to, among other things, help deliver advertisements or other content to you for products and services that you might be interested in, to prevent you from seeing the same advertisements too many times and to conduct research regarding the usefulness of certain advertisements to you.
 
-Cookies can remain on your computer for different periods of time. Some cookies are "session cookies," meaning that they exist only while your website browser is open and are deleted automatically once you close your browser. Other cookies are "permanent cookies," meaning that they survive after your browser is closed and can be used by websites to recognize your computer when you later re-open your browser and browse the internet again.
+These Third Party Advertising Service Providers do not have access to Tracking Technologies set by the Site except to the extent necessary to provide services to the Site.  The Third Party Advertising Service Providers and other third parties may themselves set and access their own Tracking Technologies on your Device if you choose to have Tracking Technologies enabled in your browser (or, for Flash cookies, if you have not removed them) and/or they may otherwise collect or have access to Information about you and your online activities over time and across different websites when you use the Site.
 
-The specific types of cookies served through the Site are described below:
+ **c.    Use of Information.** 
 
-TYPES OF COOKIEWHO SERVES THEMWHAT THEY DO
+ **i.   Personal Information.**  As set forth in this Privacy Policy, we may sell, rent, lease, disclose or otherwise share Personal Information with Affiliates.  We and Affiliates, use the Personal Information we collect from you in a variety of ways, including:
 
-Essential website cookiesWhoSayThese cookies are necessary to provide you with services available through this website and to use some of its features, such as access to secure areas. Without these cookies, services you have asked for, like shopping baskets and secure customer account pages, would not be possible.
+·         Processing your registration with the Site, such as verifying that your e-mail address is active and valid,
 
-Performance and functionality cookiesAdobe (click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager03.html) for more information)These cookies are used to monitor and enhance the performance and functionality of our website but are non-essential to its use. However, without these cookies, certain functionality (like videos) may become unavailable.
+·         Contacting you regarding the administration of your account, any services, features or functions you have enrolled in or registered to use,
 
-Analytics and customization cookiesGoogle Analytics (click [here](https://tools.google.com/dlpage/gaoptout/) to opt out)  
-comScore (click [here](http://www.scorecardresearch.com/OptOutTag.aspx)to opt out)These cookies collect information that is used either in aggregate form to help us understand how the website is being used or how effective marketing campaigns are, or to help us customize the website for you.
+·         Allowing you to participate in the public areas and/or other features of the Site,
 
-Advertising cookiesDoubleclick (click [here](http://www.google.com/policies/privacy/ads/)to opt out)  
-Krux Digital (click [here](http://www.krux.com/pro/krux_privacy/consumer_choice/)to opt out)These cookies are used to make advertising messages more relevant to you. They perform functions like preventing the same ad from continuously reappearing, ensuring that ads are properly displayed for advertisers on sites that you visit, and in some cases selecting advertisements that are based on your interests.
+·         Responding to your questions or other requests,
 
-Social networking cookiesTwitter (click [here](http://twitter.com/privacy) for more information)  
-Facebook (click [here](http://www.facebook.com/about/privacy/cookies)for more information)  
-Google (click [here](http://www.google.com/policies/privacy/) for more information)  
-reddit (click [here](http://www.reddit.com/wiki/privacypolicy) for more information)These cookies are used to enable you to share pages and content that you find interesting on our website through third party social networking websites.
+·         Contacting you regarding your use of the Site, for informational purposes related to the Site or, in our discretion, regarding changes to the Site's policies, 
 
-You may set your Web browser to accept all cookies, block certain cookies, require your consent before a cookie is placed in your browser, or block cookies altogether. In order to adjust your browser settings or preferences, review the "Help" or "Internet Options" menu in your browser's tool bar.
+·         Improving the Site or our services and for internal business purposes, 
 
-We may also use small pieces of code such as "web beacons," "pixel tags," or "clear GIFS" in connection with some Site pages and email messages to, among other things, track the actions of Site users and email recipients, measure the success of our marketing campaigns, and compile statistics about Site usage and response rates. Web beacons are electronic files that count users who access a website or page and can also be used to see if a cookie has been activated. You can't decline web beacons; however, by preventing cookies being used on your computer you can prevent web beacons from tracking your activity.
+·         Saving your password or other Personal Information, so you don't have to re-enter it each time you visit the Site,
 
-The use of the technologies described in this section allows our third-party vendors to deliver advertisements when you visit the Site or other websites or web properties across the Internet. These vendors may place pixel tags, web beacons, clear GIFs or similar technologies on the Site and third-party websites and also place or recognize third-party cookies when you visit the Site or other websites. These vendors may use information about your visits to the Site and other websites to serve advertisements about our products and services, and other companies' products and services, that may be of interest to you (and to measure the effectiveness of those campaigns). If you would like more information about this practice and to know your choices about not having this information used by these companies, visit the Network Advertising Initiative at [www.networkadvertising.org](http://www.networkadvertising.org/), the Digital Advertising Alliance at [www.aboutads.info](http://www.aboutads.info/) or YourOnlineChoices at [www.youronlinechoices.eu](http://www.youronlinechoices.eu/).
+·         Otherwise to maintain and administer the Site and 
 
-By continuing to use the Service through your computer or mobile device, you consent to our use of cookies, pixels and local storage in accordance with this Privacy Policy.
+·         For other purposes disclosed at the time you provide Personal Information or Other Information.
 
-### HOW WE DISCLOSE THE INFORMATION
+ **ii.   Other Information Collected By Us . ** We, and/or Affiliates, use the Other Information we collect from you in a variety of ways, including:
 
-We may share your personally identifiable information with the celebrity, influencer, artist, group or other WhoSay talent (each, a "Talent Account") to whose WhoSay Site you subscribe. Information provided by or collected from you that may be shared with a Talent Account includes your name, location, contact details (e-mail and SMS details), Facebook, Twitter or Google + login credentials (to enable account connection between your Facebook, Twitter or Google + accounts and the Site and its related services), correspondence, user-generated content, and website cookies and aggregated analytical reporting data generated by your use of the Site.
+Keeping count of your return visits to the Site or our Affiliates' or partners' sites;
 
-### RECIPIENTS
+Accumulating and reporting aggregate, statistical information in connection with the Site and user activity;
 
-We do not otherwise share your personally identifiable information with third parties for their direct marketing purposes unless you give us your consent.
+Determining which features, webpages, products and services users like best to, among other things, help us operate the Site, enhance and  
+improve our services and the Site and display advertising and marketing information;
 
-We engage certain trusted third parties to perform functions and provide services to us, including, without limitation, hosting and maintenance, customer relationship, database storage, management and analysis, and direct marketing campaigns. We will share your personally identifiable information with these third parties, but only to the extent necessary to perform these functions and provide such services, and only pursuant to binding contractual obligations requiring such third parties to maintain the privacy and security of your data.
+Preparing statistics reports;
 
-We may use and share with third parties certain technical information (including IP addresses) or aggregated information to show general demographic and preference information and viewer patterns among Site viewers.
+Allowing you to participate in the public areas and/or other features of the Site;
 
-We may use and disclose the information we collect from and about you as we believe to be necessary or appropriate: (1) under applicable law, including laws outside your country of residence; (2) to comply with legal process; (3) to respond to requests from public and government authorities, including those outside your country of residence; (4) to enforce our Terms of Use; (5) to protect our operations or those of any of our affiliates; (6) to protect our rights, privacy, safety, or property and/or that of our affiliates, you, or others; (7) to allow us to pursue available remedies or limit the damages that we may sustain; and (8) to investigate, prevent or take action regarding illegal or suspected illegal activities.
+Improving the Site or our services and for internal business purposes;
 
-Please note that if WhoSay Inc. or any of its affiliates, subsidiaries or lines of business is sold or otherwise disposed of, including through merger of, consolidation or sale of assets, or in the unlikely event that WhoSay Inc. goes out of business or enters bankruptcy, the relevant customer database, including personally identifiable information we may possess about you, may, in whole or in part, be sold, disposed of, transferred or otherwise disclosed as part of that transaction and you acknowledge that the acquirer of WhoSay Inc. or any of its affiliates, subsidiaries or lines of business may continue to use your information as set forth in this Privacy Policy (as amended from time to time).
+Tailoring your experience on the Site and/or otherwise customizing what you see when you visit the Site;
 
-### THIRD PARTY SITES
+Saving certain Other Information for use on your return visits to the Site;
 
-The Site may contain links to other websites whose information practices may be different than ours and for which we are not responsible. You should consult the other sites' privacy policies, as we have no control over information that is submitted to, or collected by, these third parties.
+Otherwise to maintain and administer the Site;
 
-### SECURITY
+For the uses described for "Personal Information" and Section 3(b) ("Information Collected Through Use of Cookies and Other Tracking Technologies") above and
 
-We use appropriate technical and organizational measures to safeguard the personally identifiable information under our control. Unfortunately, no data transmission over the Internet or any wireless network or method of electronic storage can be guaranteed to be 100% secure.
+For other purposes disclosed at the time you provide the Other Information.
 
-Your account is protected by a password provided to you in connection with your third party socials networking account such as Facebook, Twitter or Google +. You are responsible for preventing unauthorized acces to your account.
+ **iii.  Other Information Collected by Third Party Advertising Service Providers**.  The use of Tracking Technologies by Third Party Advertising Service Providers is within their control and not ours.  Even if we have a relationship with the Third Party Advertising Service Provider, we do not control their websites or their policies and practices regarding your Information and you should be aware that different rules might apply to the collection, use or disclosure of your Information by third parties in connection with their advertisements or promotions and other sites you encounter on the Internet.  This Privacy Policy does not cover any use of Information that a Third Party Advertising Service Provider may directly collect from you. **   **Use of Third Party Advertising Service Providers' Tracking Technologies is governed by the Third Party Advertising Service Providers' own specific privacy policies and not this Privacy Policy.  However, please see "Opting-Out of Certain Uses of Information Collected by Tracking Technologies" Section below for more information on how to opt-out of the collection and/or use of Information collected by certain Third Party Advertising Service Providers.
 
-### INTERNATIONAL USERS, CROSS-BORDER TRANSFER
+ **4.    Opting-Out of Certain Uses of Information Collected by Tracking Technologies.  **
 
-The Site is hosted in the United States, and therefore your information may be processed and stored in the United States. As a result, United States federal and state governments, courts, or law enforcement or regulatory agencies may be able to obtain disclosure of your information through laws applicable in the United States. In addition, your information may be transferred to and maintained in whole or in part on computer networks which may be located outside of the state, province, country or other governmental jurisdiction in which you reside, including the United States. You understand that the countries to which we may transfer information many not have as comprehensive data protection rules as in your country, and your use of the Service or your submission of any personal information to us will constitute your consent to the transfer of your personal information outside of the United States. However, please be assured that we take steps to ensure that your personal data is protected in accordance with this Privacy Policy.
+ **a.          Tracking Technologies Set By Third Party Advertising Service Providers.**  With respect to the Tracking Technologies set by Third Party Advertising Service Providers, you have a number of options:
 
-### OUR POLICY TOWARD CHILDREN
+·         Third Party Advertising Service Providers may collect Other Information about you when you visit this Site to help identify products and services that may interest you and deliver advertising tailored to your interests.         
 
-We do not knowingly collect personally identifiable information from children under the age of thirteen (13). If we become aware that a child under thirteen (13) has provided us with personally identifiable information, we will delete such information and the child's account from our system. If a parent or guardian becomes aware that his or her child has provided us with any personally identifiable information, which may include photos, videos and audio recordings of children, without their consent, he or she should contact us at [privacy@whosay.com](mailto:privacy@whosay.com).
+You can opt-out of the use of Other Information for these advertising purposes by Third Party Advertising Service Provider Adobe AudienceManager (formerly known as Demdex) by using its opt-out tool, available at **<http://www.donottarget.com/>** , or as described in the next bullet point.   
 
-### RIGHT TO ACCESS
+We also may from time to time permit other Third Party Advertising Service Providers to collect Other Information on the Site.  Some of these Third Party Advertising Service Providers may participate in the **[Network Advertising Initiative's Opt-Out Tool](http://www.networkadvertising.org/managing/opt_out.asp)**  and/or the **[Self-Regulatory Program for Online Behavioral Advertising](http://www.aboutads.info/choices/)**.  Please click on the links to these tools to learn more about your choices.   
 
-You have the right to access the personally identifiable information we hold about you (for which we reserve the right to charge you a small fee, as permitted by applicable law) and to instruct us to correct or update it. Please submit any requests for access to your personal data in writing to [privacy@whosay.com](mailto:privacy@whosay.com).
+Please note the following with respect to opting out:
 
-### RETENTION PERIOD
+·          **The opt-out tools discussed above are "cookie based** **."**   This means that the tools rely on cookies to remember your choices with respect to the use of your information by the parties that offer you those choices.  If you delete Tracking Technologies using the controls in your Web browser (a process described below) after opting out, you may have to opt out again to re-establish your opt-out preferences.   
+ 
 
-We will retain your personally identifiable information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or allowed by law.
+·          **Opt-outs are "browser-specific**."  The opt-out preferences that you choose will apply only to the Web browser that you used when you selected these preferences.  This means, for example, that if you opt-out while using Internet Explorer 9, this choice will not affect the use of Other Information collected by Tracking Technologies when you use Mozilla Firefox on the same Device.  It also means that opting-out on one Device will not affect the use of Other Information by Tracking Technologies on other Devices that you may use to access the Site.
 
-### PRIVACY COMPLAINTS OR QUERIES
+·         Delete existing Tracking Technologies through the "Internet Options" sub-option of the "Tools" menu option of your browser or otherwise as directed by your browser's support feature; and
 
-In the event you have a privacy complaint or a query with respect to information collected by WhoSay Inc., you may contact us at [privacy@whosay.com](mailto:privacy@whosay.com).
+·         Disable future Tracking Technologies through the same browser controls.  Additional information on enabling or disabling most Tracking Technologies may be available through your browser's support feature.  (See the "help" section of your browser for more information.)  
+ 
 
-### UPDATES TO THIS PRIVACY POLICY
+Opting-out of, deleting, rejecting, disabling or turning off Third Party Advertising Service Providers' Tracking Technologies does not mean that you will no longer receive online ads (if any ads are on the Site).  Opting-out of, deleting, rejecting, disabling or turning off Third Party Advertising Service Providers' Tracking Technologies only means that such ads will no longer be tailored to your specific viewing habits or interests, but you will continue to see ads (if any) on this Site.  
+ 
 
-This Privacy Policy may be changed periodically. We will notify you about material changes by sending a notice to the email address you registered with us and/or by placing a prominent notice on our Website. Your continued use of the Service constitutes your agreement to this Privacy Policy and any future revisions of it.
+ **PLEASE NOTE THAT THE USE AND STORAGE OF FLASH COOKIES TYPICALLY CANNOT BE CONTROLLED THROUGH YOUR BROWSER.   PLEASE SEE BELOW FOR INFORMATION ON HOW TO MANAGE FLASH COOKIES.  **
 
-### DATE LAST MODIFIED
+ **b.          Tracking Technologies Set By the Site.  **With respect to the Tracking Technologies set by the Site, you have a number of options:
 
-January 8, 2014
+You can prevent the use of certain Tracking Technologies (other than Flash cookies) by using the controls in your Web browser.  To do so, you must: 
+
+·         Delete existing Tracking Technologies through the "Internet Options" sub-option of the "Tools" menu option of your browser or otherwise as directed by your browser's support feature; and
+
+·         Disable future Tracking Technologies through the same browser controls.  Additional information on enabling or disabling most Tracking Technologies may be available through your browser's support feature.  (See the "help" section of your browser for more information.)
+
+ **5.          Sharing and Disclosure of Personal Information and Other Information.**
+
+a.      **Sharing and Disclosure of Personal Information.   **Viacom does not sell, rent, lease, disclose or otherwise share your Personal Information with third parties for those third parties' marketing purposes. 
+
+b.     **Sharing and Disclosure of Other Information.**  Viacom may sell, rent, lease, disclose or otherwise share Other Information, such as aggregated user statistics, with third parties.        
+
+c.      **Disclosure of Certain Information in Postings Intended to Be Disclosed**. Certain Personal Information associated with a Posting may be intended for disclosure ("Posting Information"), such as username. We will disclose Posting Information in connection with the display of, and other services relating to, such Posting.
+
+d.     **Operational Service Providers**.  We also have the right to disclose your Personal Information to third parties for the purpose of administering and maintaining the Site's services, features, functions and operations. We will refer to these third parties as "operational service providers". We use operational service providers to efficiently provide the full range of content, activities, services, features and functions we bring you and we disclose your Information to operational service providers for the purpose of providing services to us.
+
+e.     **Disclosure to Certain Other Third Parties.   **In addition, Viacom may share your Personal Information as set forth in this Privacy Policy or in the following limited circumstances:
+
+·         When we are compelled to do so by a governmental agency, court or other entity ( _e.g.,_  to respond to subpoenas, court orders or legal process) or if requested by a governmental agency or other authority as part of an investigation;
+
+·         If we believe your actions violate any law, rule, regulation and/or the **[Terms of Use](http://www.viacom.com/about/pages/termsofuse.aspx)** , including, without limitation, this Privacy Policy;
+
+·         If, in our sole discretion, we believe such disclosure to be necessary or appropriate: to investigate or resolve possible problems or inquiries; to protect our business and assets or the rights, property or safety of the Site, the Affiliates, or any of its or their licensors, suppliers, customers, users, or any other party; to limit our legal liability; to defend our interests; to enforce this Privacy Policy or the **[Terms of Use](http://www.viacom.com/about/pages/termsofuse.aspx) **and/or to comply with our legal and regulatory obligations or requests by law enforcement agencies or governmental authorities, including, without limitation the Equal Employment Opportunity Commission, the Office of Federal Contract Compliance Programs and similar state and local regulatory agencies; and/or
+
+·         In the event of a bankruptcy, merger, acquisition, sale, transfer of control, joint venture or other business combination or corporate change involving us or our Affiliates.
+
+ **6.          Reviewing, Updating or Deleting Certain Information. **
+
+To delete all records of your Personal Information from the Site, please send an email to the Privacy Administrator by **clicking** ** [here](http://www.viacom.com/pages/contact.aspx)**, and sending a communication to Viacom through the "Contact" Page with the subject of "Privacy" **.**
+
+If the burden or expense of providing access to your Information is disproportionate to the risks to your privacy or if the legitimate rights of others would be violated, we may decide not to provide access to such Information. In such cases, we will provide to you an explanation of why access cannot be provided and contact information for further inquiries. 
+
+ **7.          Protection of Information.**
+
+While no data transmission over the Internet is 100% secure from intrusion, we maintain commercially reasonable physical, electronic and procedural safeguards to protect your Information.  However, regardless of our efforts and the Device you use to access the Site, it is possible that third parties may unlawfully intercept or otherwise access transmissions or private communications over an unsecured transmission.  We also limit access to the Site by our own employees to those individuals who are authorized for the proper handling of such information and any employee found violating our standards of security and confidentiality will be subject to our disciplinary processes.  We request that our Operational Service Providers follow similar standards of security and confidentiality.
+
+ **Phishing** **.**   Phishing attacks attempt to steal consumers' personal identity data and financial account credentials.  "Phishers" use 'spoofed' e-mails to lead consumers to counterfeit websites designed to trick recipients into divulging Information such as credit card numbers, account usernames, passwords and social security numbers.   **WE DO NOT SEND EMAILS ASKING YOU TO PROVIDE OR CONFIRM CREDIT CARD NUMBERS, SOCIAL SECURITY NUMBERS OR YOUR USERNAME OR PASSWORD!**   If you receive such email communication, please forward it immediately to the Site's Privacy Administrator by **clicking** ** [here](http://www.viacom.com/pages/contact.aspx)**, and sending a communication to Viacom through the "Contact" Page with the subject of "Privacy", and then immediately delete the fraudulent email from your computer. 
+
+ **8.          Changes to this Privacy Policy and Notice.**
+
+We reserve the right to revise this Privacy Policy at any time by posting an updated Privacy Policy without advance notice to you.  Such revisions shall be effective immediately upon posting.  Notice of material changes will be posted on the Site's homepage and/or will be provided by e-mailing you or notifying you upon login about these changes; the form of such notice is at our discretion.  However, we encourage you to check this Privacy Policy and **[Terms of Use](http://www.viacom.com/about/pages/termsofuse.aspx) **often for updates. 
+
+ **9.          Miscellaneous.**
+
+ **a.    Accuracy and Confidentiality.   **It is your responsibility to give us current, complete, truthful and accurate information, including Personal Information, and to keep such information up to date.   **We cannot and will not be responsible for any problems or liability that may arise if you do not give us accurate, truthful or complete information or Personal Information or you fail to update such information or Personal Information.   **We will reject and delete any entry that we believe in good faith to be false, fraudulent or inconsistent with this Privacy Policy.
+
+You are solely responsible for maintaining the strict confidentiality of your password, if applicable, and for any charges, costs, expenses, damages, liabilities and losses we incur or may suffer as a result of your failure to do so. You, and not Viacom, are solely responsible and liable for the activity, behavior, use and conduct on the Site under your password (whether used by you or any others who use your password), unless and until you notify us that your password may have been compromised, misappropriated or improperly taken or used by another party.   We reserve the right to deny access, use and registration privileges to any user, including without limitation, a registered user, of any services, features or functions of the Site if we believe there is a question about the identity of the person trying to access the user's account or any services, features or functions.
+
+ **b.    Questions.** If you have questions about this Privacy Policy or if you do not understand any information about how we collect, maintain, use or share your Personal Information or Other Information, you may contact us directly by **[clicking here](http://www.viacom.com/pages/contact.aspx)** , and sending a communication to Viacom through the "Contact" Page with the subject of "Privacy".
+
+ **c.    Sole Statement:** This document is the sole statement of the Site's Privacy Policy and no summary, restatement or other version thereof, or other privacy statement or policy, in any form, including, but not limited to, machine-generated, is valid.
+
+ **d.    Other:**  Please review our **[Terms of Use](http://www.viacom.com/about/pages/termsofuse.aspx) **which governs your use of the Site.  Any terms that are not defined in this Privacy Policy shall have the meaning given in the **[Terms of Use](http://www.viacom.com/about/pages/termsofuse.aspx)**. 
+
+This Privacy Policy was last modified on the date indicated above and is effective immediately. Copyright © 2017 Viacom Inc. - All Rights Reserved.
