@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the broadsheet.com.au privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626174252id_/https%3A//www.broadsheet.com.au/melbourne/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadsheet.com.au privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227013657id_/https%3A//www.broadsheet.com.au/melbourne/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Statement - Broadsheet
 
@@ -86,6 +86,7 @@ e) our related organisations.
 
   1. Broadsheet Media may store some information on your computer such as cookies when you visit the Website or App. Cookies are pieces of information that a website transfers to the hard drive of a visitor's computer for record-keeping purposes. This information facilitates your use of the Website and App. You can erase or choose to block this information from your computer if you want to. Erasing or blocking such information may limit the range of features available to you on the Website or App.
   2. From time to time we use Google advertising programs that use cookies to improve your online experience, including the display of more relevant ads on external websites. Anyone may opt out of these programs at any time by clicking [here](http://www.google.com/policies/technologies/ads/).
+  3. Our properties may feature Nielsen proprietary measurement software, which will allow you to contribute to market research, like Digital Content Ratings. To learn more about the information that Nielsen software may collect and your choices with regard to it, please see the Nielsen Digital Measurement Privacy Policy at <http://www.nielsen.com/digitalprivacy>.
 
 
 
