@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wakestudent.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228155832id_/http%3A//about.wfu.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wakestudent.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227154032id_/https%3A//about.wfu.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | About Wake Forest | Wake Forest University
 
@@ -89,7 +89,7 @@ We will not share, sell, rent, swap or authorize any third party to use your ema
 
 To prevent unauthorized access, maintain data accuracy and ensure the appropriate use of information we gather about you, we have taken commercially reasonable steps to protect the information. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure.
 
-Users should also consult Wake Forest’s Policy on Responsible and Ethical Use of Computing Resources (<http://groups.wfu.edu/CIT/ethical_use_policy.html>). To the extent of any conflict between the terms of this privacy policy and the Policy on Ethical Use of Computing Resources, the Policy on Ethical Use of Computing Resources will be deemed controlling. Wake Forest complies with all statutory and legal requirements with respect to access to information.
+Users should also consult Wake Forest’s Policy on [Responsible and Ethical Use of Computing Resources](https://is.wfu.edu/wp-content/uploads/2016/09/Policy-on-Responsible-and-Ethical-Use-of-Computing-Resources.pdf). To the extent of any conflict between the terms of this privacy policy and the Policy on Ethical Use of Computing Resources, the Policy on Ethical Use of Computing Resources will be deemed controlling. Wake Forest complies with all statutory and legal requirements with respect to access to information.
 
 ### Changes to this policy
 
