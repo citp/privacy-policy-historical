@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the markertek.com privacy policy that was archived on 2017-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170820134445id_/https%3A//www.markertek.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markertek.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227105741id_/https%3A//www.markertek.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Markertek
 
@@ -33,11 +33,12 @@ On some pages, you can submit information about other people. For example, if yo
 
 
 
-**Cookies are used to retain information when placing an order online.**
-
+**Cookies are used to retain information when placing an order online.**   
 To access your account information upon order placement, it is necessary to have cookies enabled on your web browser. Cookies also allow your shopping cart to remain active for thirty days after placing items in the cart. We do not store or distribute information collected by cookies for any reason.
 
-**The Way We Use Information:** We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order.
+**How We Use Information:**
+
+We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order.
 
 We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order. 
 
@@ -65,13 +66,13 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 **How To Contact Us**
 
-Should you have other questions or concerns about these privacy policies, please call us at 800-522-2025 or send us an [email](mailto:info@markertek.com).
+Should you have other questions or concerns about these privacy policies, please call us at 800-522-2025 or send us an [email](https://web.archive.org/cdn-cgi/l/email-protection#dcb5b2bab39cb1bdaeb7b9aea8b9b7f2bfb3b1).
 
 **Third Party Vendors**
 
 Third party vendors, including Google, use cookies to serve the badge on this website and to serve ads based on a user's prior visits to your website. Users may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](https://support.google.com/ads/answer/2662922?hl=en "Google Opt-Out"). In addition, you may view third party vendor's use of cookies by visiting the [Network Advertising Initiative Opt-Out page](http://www.networkadvertising.org/managing/opt_out.asp).
 
-[Back to Top](http://www.markertek.com/privacy-policy#top)
+[Back to Top](https://www.markertek.com/privacy-policy#top)
 
 ## 
 
