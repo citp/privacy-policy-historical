@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calmatters.org privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626231217id_/https%3A//calmatters.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calmatters.org privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227162738id_/https%3A//calmatters.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CALmatters
 
@@ -20,7 +20,7 @@ No. Never.
   * **DONATIONS** : When you make a donation to CAlmatters, we use [Stripe ](https://stripe.com/guides/general-data-protection-regulation)as the method of transaction. Donor information such as email address, name, and physical address is stored in [Salesforce](https://www.salesforce.com/company/privacy/). We do not store any sensitive data such as credit card information in Salesforce.
 
 
-  * **ANALYTICS** : CALmatters uses Google Analytics to track user behavior on our website, mainly through the use of cookies (see below). That data typically includes details like what browser and device you use, your interaction with pages on our website, your city, state and country as defined by the ISP service you use, and in some cases basic demographic data like gender, interests, and age. That data is currently stored indefinitely.
+  * **ANALYTICS** : CALmatters uses Google Analytics to track user behavior on our website, mainly through the use of cookies (see below). That data typically includes details like what browser and device you use, your interaction with pages on our website, your city, state and country as defined by the ISP service you use, and in some cases basic demographic data like gender, interests, and age. That data is currently stored indefinitely. We also use Facebook Pixel to track how users from that platform interact with the website.
 
 
   * **FEEDBACK** : CALmatters uses a service called [Hotjar](https://www.hotjar.com/legal/policies/privacy) to facilitate website feedback. Users may anonymously supply feedback, but if your email is voluntarily added, that data is stored by Hotjar.
