@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pitc.com.pk privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609113624id_/http%3A//pitc.com.pk/index.php/component/k2/item/72) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pitc.com.pk privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227115802id_/http%3A//www.pitc.com.pk/index.php/component/k2/item/72) for the most accurate reproduction.*
 
 # Power Information Technology Company - Privacy Policy
 
