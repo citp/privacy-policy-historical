@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the shoedazzle.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118233615id_/http%3A//www.shoedazzle.com/index.cfm%3Faction%3Dhome.privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoedazzle.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227043012id_/https%3A//www.shoedazzle.com/index.cfm%3Faction%3Dhome.privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | ShoeDazzle
+
+Our wide width shoes are designed to accommodate a wider calf than our regular wide calf fit. 
+
+One of the benefits of a VIP Membership is Skip-the-Month privileges. As long as you sign in and skip by the 5th of the month, you won't be charged for that month. To skip, simply sign in to your account, scroll over the VIP Account tab, click on Account Details (desktop) or My Account (mobile), then click 'Skip the Month' button and follow the instructions. If you don't skip by the 5th, your account will be charged on the 6th; however, there's no obligation to buy. Unspent VIP Credits roll over and accumulate, and do not expire. 
 
 Your privacy is very important to us. This privacy policy addresses how TechStyle, Inc. (f/k/a Just Fabulous, Inc.), and its subsidiary ShoeDazzle.com, Inc. (d/b/a ShoeDazzle) and affiliated brands (collectively, "ShoeDazzle") collect and use information you provide. By visiting www.shoedazzle.com (this "Site"), and providing your information to us, you agree to accept the practices described in this Privacy Policy.
 
@@ -44,7 +48,7 @@ The security of your personal information is important to us. When you provide s
 
 **Opting Out**
 
-We may occasionally send you newsletters and emails regarding special offers, promotions, features and/or product updates. We may also communicate with you on behalf of third parties about special offers, promotions, features and/or product updates we think may be of interest to you, or you may have opted-in to receive newsletters or special promotions from one of our trusted third party providers. If you decide you do not wish to receive these communications, you may opt-out by clicking the unsubscribe link or by following the instructions included in the communication. Note however that as user of the Services you cannot opt-out of some administrative communications that are reasonably necessary to the Services, such as billing or service notifications. You may also opt-out of certain targeted advertising by visiting <http://www.networkadvertising.org/choices>.
+We may occasionally send you newsletters and emails regarding special offers, promotions, features and/or product updates. We may also communicate with you on behalf of third parties about special offers, promotions, features and/or product updates we think may be of interest to you, or you may have opted-in to receive newsletters or special promotions from one of our trusted third party providers. If you decide you do not wish to receive these communications, you may opt-out by clicking the unsubscribe link or by following the instructions included in the communication. Note however that as user of the Services you cannot opt-out of some administrative communications that are reasonably necessary to the Services, such as billing or service notifications. You may also opt-out of certain targeted advertising by visiting <http://www.networkadvertising.org/choices> or <http://www.aboutads.info/choices>.
 
 **Links to Other Sites**
 
@@ -78,13 +82,13 @@ ShoeDazzle complies with the EU-US Privacy Shield Framework as set forth by the 
 
 **Types of Data Collected Under the EU-US Privacy Shield**
 
-Personal data such as your name, email address, mailing address, credit card information, phone number and IP address are collected. This personal data is used for the following purposes: to process and fulfill orders, communicate with you about orders, any ShoeDazzle service, marketing and sales, internal research, and compliance with federal, state and local laws and regulations. ShoeDazzle also collects aggregate data such as your Site preferences, sizes, age, gender, geographical location, language, time zone, income and education. This aggregate data is used for the following purposes: marketing and sales activities, to optimize shopping experience and types of goods sold, internal research, partnerships or agreements with affiliates, agents and business partners, and to describe our Services to current and prospective business partners. 
+The following personal data may be collected from EU customers: your name, email address, mailing address, and IP address are collected. This personal data is used for the following purposes: marketing and sales, internal research, and compliance with federal, state and local laws and regulations. ShoeDazzle also collects aggregate data such as your Site preferences, sizes, age, gender, geographical location, language, time zone, income and education. This aggregate data is used for the following purposes: marketing and sales activities, to optimize shopping experience and types of goods sold, internal research, partnerships or agreements with affiliates, agents and business partners, and to describe our Services to current and prospective business partners. 
 
 Personal Retailing, Inc. (d/b/a FabKids) collects the following types of personal data: name, email address, mailing address, credit card information, phone number and IP address. The following aggregate data may also be collected: Site preferences, age, gender, geographical location, language, time zone, income and education. 
 
 TechStyle, Inc. (f/k/a Just Fabulous, Inc.) (d/b/a JustFab) collects the following types of personal data: name, email address, mailing address, credit card information, phone number and IP address. The following aggregate data may also be collected: Site preferences, age, gender, geographical location, language, time zone, income and education.
 
-Fabletics LLC (d/b/a Fabletics and FL2) collects the following types of personal data: name, email address, mailing address, credit card information, phone number and IP address. The following aggregate data may also be collected: Site preferences, age, gender, geographical location, language, time zone, income and education.
+ShoeDazzle.com, Inc. (d/b/a ShoeDazzle) collects the following types of personal data: name, email address, mailing address, credit card information, phone number and IP address. The following aggregate data may also be collected: Site preferences, age, gender, geographical location, language, time zone, income and education.
 
 **Who We Share Information With Under the EU-US Privacy Shield**
 
@@ -106,7 +110,6 @@ In compliance with the EU-US Privacy Shield Principles, ShoeDazzle commits to re
 
 JustFab (UK), Ltd.  
 Attn: Legal Department/Privacy   
-Antony Stokes, VP & International General Counsel   
 8-10 Dryden Street, First Floor  
 London, WC2E9NA  
 United Kingdom 
