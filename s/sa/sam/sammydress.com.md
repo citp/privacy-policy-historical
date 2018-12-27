@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the sammydress.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627004909id_/https%3A//www.sammydress.com/m-article-id-27.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sammydress.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227082048id_/https%3A//www.sammydress.com/m-article-id-27.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Sammydress.com
 
 Privacy Policy   
-This Privacy Statement explains how Shenzhen Anseer household E Commerce Co.,Ltd (“Sammydress” “we,” “us,” or “our”) collects, uses, and discloses your personal information in connection with its operation of the Sammydress ecommerce platform.
+This Privacy Statement explains how Facy Hong Kong Technology Co.,Ltd (“Sammydress” “we,” “us,” or “our”) collects, uses, and discloses your personal information in connection with its operation of the Sammydress ecommerce platform.
 
 #### What information do we collect?
 
