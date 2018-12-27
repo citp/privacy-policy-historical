@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kongregate.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626072006id_/http%3A//www.kongregate.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kongregate.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227065906id_/https%3A//www.kongregate.com/privacy) for the most accurate reproduction.*
 
 # Kongregate Privacy Policy
 
@@ -8,7 +8,7 @@ We, at Kongregate Inc. ( **“Kongregate,”** the **“Company,”** **“we”
 
 This Privacy Policy applies to www.kongregate.com, www.kartridge.com and all other sites or online service that is owned or operated by Kongregate (each, a **“Site,”** and collectively, the **“Sites,”** ), all mobile games published by Kongregate (each, an **“App,”** and collectively, the **“Apps,”** and together with the Sites, the “Platform”), and Kongregate games that can be played through third party platforms, e.g., via consoles, PCs and/or social media sites such as Facebook ( **“3rd Party Platform Games”** ).
 
-By visiting our Sites, using the Apps, playing 3rd Party Platform Games or otherwise access any of our other products, services or content through any of our Platform or through 3rd Party Platform Games (collectively, “Services”), you agree to and accept this Privacy Policy, our Cookie Policy (which is incorporated into the Privacy Policy) and our User Agreement (of which the Privacy Policy is a part). We reserve the right to change our practices and this Privacy Policy at any time. We will post the updated version on the Platform. We may also send an email or provide notice within some or all of our Services when this Privacy Policy changes. Each time a user accesses our Services, the Platform or 3rd Party Platform Games, the then current version of the Privacy Policy applies, and you agree that the information we collect will be subject to the Privacy Policy, as updated. We encourage you to check this page regularly so that you know our current practices.
+By visiting our Sites, using the Apps, playing 3rd Party Platform Games or otherwise access any of our other products, services or content through any of our Platform or through 3rd Party Platform Games (collectively, “Services”), you agree to and accept this Privacy Policy, our Cookie Policy (which is incorporated into the Privacy Policy) and our User Agreement (of which the Privacy Policy is a part). We reserve the right to change our practices and this Privacy Policy at any time. When any changes are made, we will try to provide reasonable notice and will post the updated version on the Platform. We may also send an email or provide notice within some or all of our Services when this Privacy Policy changes. Each time a user accesses our Services, the Platform or 3rd Party Platform Games, the then current version of the Privacy Policy applies, and you agree that the information we collect will be subject to the Privacy Policy, as updated. We encourage you to check this page regularly so that you know our current practices. Should you have any questions about the changes, You are welcome to contact us at please contact us at [support@kongregate.com](mailto:support@kongregate.com). If You do not agree with the changes, then unfortunately, we must ask you to cease using our Platform and/or Services, as we must have all users under the same terms in order to provide equitable Services to all.
 
 Our Privacy Policy explains:
 
@@ -39,7 +39,7 @@ When you access, connect to, sign up to, participate in, create an account for, 
 
     * **Information You Provide via Apps.** You may have the option to link your mobile account to your Sites account in connection with certain Apps. This will allow you to participate in content that crosses between the Sites and Apps, such as Kongregate level, points, and badges. If you choose this linking option, the information we receive via the Sites may also apply to Apps, and vice versa.
 
-    * **Invite a Friend.** You may invite friends to join the Kongregate community by using the “invite a friend” feature. You will be required to submit your name and email address, as well as their name and email address. Your friend’s personal information that you submit in this feature will be used only to send the email you request, and will not be otherwise stored or maintained by Kongregate.
+    * **Your Friends.** You may invite friends to join the Kongregate community by using the “invite a friend” feature. You will be required to submit your name and email address, as well as their name and email address. Your friend’s personal information that you submit in this feature will be used only to send the email you request, and will not be otherwise stored or maintained by Kongregate. You may also identify certain people as “friends” under your Kongregate account; this list is publicly visible to all, whether or not the user has a Kongregate account.
 
     * **Information through Social Media.** Personal information that you post voluntarily now or in the future through the Platform or on an area of a social network monitored by us (e.g., our Facebook page) may be visible to others and collected by third-parties. Information that you disclose, including, but not limited to, through our online chat rooms, forums, game comments, profile shouts and direct messages is public and will be accessible to anyone who uses our Platform and/or 3rd Party Platform Games.
 
@@ -139,6 +139,8 @@ Advertisers or ad networks may collect this information through the use of track
 
     * **3rd Party Platform Games.** If you play 3rd Party Platform Games through platforms or sites operated by a third party, including social media sites such as Facebook, your social media “friends,” other players, or other types of connections may, depending on your social media privacy settings, be able to: see certain personal information about you; view your game activity; and/or communicate with you or send you “friend” or other connection requests through the social media service.
 
+    * **3rd Party Developers.** Most of the games on our Platforms are created by 3rd party developers. These 3rd party developers may request, by using Kongregate’s SDK and APIs, certain publicly visible information about users that play their games, e.g., your username, your user_id (a numeric ID associated with your account that persists even if a username is changed), list of your Kongregate friends (usernames and user_ids). If you wish to reduce the availability or visibility of such information, you may change your profile settings to “Private” in your account options. This will prevent others, including 3rd party developers, from being able to see or access your friends list as well as other information you have shared on your profile page.
+
     * **Third Parties for Security or Other Legitimate Reasons.** We may also disclose your personal data to third parties, if we reasonably believe that disclosure of such personal data is necessary:
 
       * To comply with valid legal obligations including subpoenas, court orders, governmental requests or search warrants, and as otherwise authorized by law;
@@ -152,6 +154,8 @@ Advertisers or ad networks may collect this information through the use of track
     * **Corporate Transaction, Reorganization or Bankruptcy.** In the event of a change of control, sale of some or all of our business or assets, corporate reorganization or bankruptcy, we would share the pertinent customer information (which may include your personal information) with the other business entity (or entities) involved in the transaction. In such an event, we would notify you via email and/or a prominent notice on our Platform of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
     * **Legal Compliance.** We may disclose information upon governmental request, in response to a court order, or when required by law to do so. We may also share information with companies assisting in fraud protection, legal compliance or investigations. We do not provide information to these agencies or companies for marketing or commercial purposes.
+
+With respect to onward transfers, we remain liable should the third parties to whom we transfer personal data process such information in a manner inconsistent with the Privacy Shield Principles.
 
 
 
@@ -262,4 +266,4 @@ Kongregate Inc.
 450 Sansome Street, 12th Floor  
 San Francisco, CA 94111 
 
-_Last updated: June 14, 2018_
+_Last updated: November 1, 2018_
