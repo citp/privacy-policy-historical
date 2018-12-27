@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ngojobsinafrica.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627082940id_/https%3A//ngojobsinafrica.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ngojobsinafrica.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227154546id_/https%3A//ngojobsinafrica.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – NGO Jobs
 
@@ -39,7 +39,7 @@ By using our site, you consent to our privacy policy
 If we decide to change our policy we will post those changes on this page.
 
 **_Unsubsription_**  
-If at any time you wish to stop receiving our Information/updates/alerts you can unsubscribe by clicking on the Un-subscription link in our newsletters or send a request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If at any time you wish to stop receiving our Information/updates/alerts you can unsubscribe by clicking on the Un-subscription link in our newsletters or send a request to Hello@ngojobsinafrica.com.
 
 **Disclaimer**
 
