@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mydotcomrade.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627085216id_/http%3A//mydotcomrade.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydotcomrade.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227163643id_/http%3A//mydotcomrade.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy | My Dot Comrade
 
