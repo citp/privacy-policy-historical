@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techreviewpro.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626224608id_/https%3A//techreviewpro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techreviewpro.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227062902id_/https%3A//techreviewpro.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TechReviewPro
 
@@ -121,5 +121,8 @@ If you have any questions about this Privacy Policy, the practices of this site,
 [https://techreviewpro.com](https://techreviewpro.com/)
 
 Rahul Dubey
+
+Editor & Founder of TechReviewPro.com  
+Rahul@techreviewpro.com
 
 This document was last updated on **May 23, 2018** , in compliance with Europe’s new General Data Protection Regulation (GDPR) and EU Users Consent Policy.
