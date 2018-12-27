@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upfriendly.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529173219id_/http%3A//upfriendly.com/en/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upfriendly.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227044537id_/http%3A//upfriendly.com/en/privacy_policy) for the most accurate reproduction.*
 
 # Upfriendly Entertainment
 
@@ -27,11 +27,11 @@ We store data for as long as it is necessary to provide products and services to
 
 We take our security responsibilities seriously and we employ the most appropriate physical and technical measures to keep your data safe.
 
-If you wish that We delete the data We received or collected on you, please contact us via e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you wish that We delete the data We received or collected on you, please contact us via e-mail at contact@upfriendly.com
 
-If you wish to download the data We received or collected on you, please contact us via e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you wish to download the data We received or collected on you, please contact us via e-mail at contact@upfriendly.com
 
-If you wish to modify the data We received or collected on you, please contact us via e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you wish to modify the data We received or collected on you, please contact us via e-mail at contact@upfriendly.com
 
 We use the information and data We collect to operate and enhance our services and features. For example, when you login with Facebook for some quizzes, it allows us to provide you with a more relevant result at the end of the given quiz and it allows us to generate a personalized picture.
 
@@ -73,4 +73,4 @@ We are not responsible for the practices employed by any websites or services li
 
 www.upfriendly.com reserves the right to update this Privacy Policy from time to time, with or without notice. If so, www.upfriendly.com will post its updated Privacy Policy on its WebSite. We encourage you to review this Privacy Policy regularly for any changes. Your continued use of our services will be subject to the then-current privacy policy. If any modification is unacceptable to you, you may cease using our services. If you do not cease using our services, you will be deemed to have accepted those modifications.
 
-If you have any questions or queries about this Privacy Policy or our Services in general, please do not hesitate to contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you have any questions or queries about this Privacy Policy or our Services in general, please do not hesitate to contact us at: contact@upfriendly.com
