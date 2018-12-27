@@ -1,29 +1,69 @@
-> *The following text is extracted and transformed from the ontariocolleges.ca privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123213546id_/http%3A//www.ontariocolleges.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ontariocolleges.ca privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227013042id_/https%3A//www.ontariocolleges.ca/en/privacy) for the most accurate reproduction.*
 
-# Privacy Statement | ontariocolleges.ca
+# Privacy Policy | ontariocolleges.ca
 
-OCAS Application Services Inc., (Ontario College Application Service or OCAS) is committed to protecting the privacy of your personal, including website activity (see [Terms of Use](http://www.ontariocolleges.ca/terms-of-use)), academic information and other school records ("Personal Information"). The Personal Information referenced in this application, and related materials, is collected, used or disclosed in accordance with the relevant statutory and regulatory provisions of the _Ministry of Agriculture, Food and Rural Affairs Act_ , R.S.O. 1990, c. M.16 and the _Ministry of Training, Colleges and Universities Act_ , R.S.O. 1990, c. M.19, and the _Education Act_ , R.S.O. 1990, c E.2.
+OCAS is committed to protecting your privacy. This policy sets out, in general terms, how OCAS collects, uses and discloses personal information.
 
-Your Personal Information will be collected, used and disclosed primarily for the purpose of making admissions and accreditation related decisions, including the creation, processing and maintenance of your application, acceptance and registration with the Colleges, as well as to assign, verify, retrieve and/or validate your Ontario Education Number (OEN), as well as updating Personal Information associated with the OEN.
+Please read this policy carefully. By using our services OCAS deems you to have consented to the collection, use and disclosure of your personal information for the purposes set out below.
 
-In order to facilitate the application process and improve data accuracy, you consent to and authorize OCAS to collect use, and disclose your Personal Information, whether obtained directly from you or other relevant sources, including but not limited to previous institutions which you have attended, the Ontario Universities Application Centre ("OUAC") and any relevant government ministries. Authorized use may also include OCAS updating third party databases, such as those maintained by relevant government ministries and other institutions, to ensure information accuracy and consistency.
+OCAS’ authority for processing personal information
 
-OCAS must disclose your Personal Information in order to process your application or other services, acceptance or registration. Personal Information may also be used by OCAS and/or disclosed to the Colleges, the Ministry of Advanced Education and Skills Development, and entities with which they do business, as well as the Ministry of Education, the Ministry of Agriculture, Food and Rural Affairs and the Ministry of Health, as well as other educational research agencies approved by OCAS, for statistical, marketing and research purposes. Consistent with these purposes, your Personal Information may also be linked with student information databases maintained by the college which you eventually choose to attend in order to develop and maintain appropriate policies, programs and funding mechanisms.
+OCAS provides application-related information and services for and on behalf of Ontario’s public colleges, who are authorized to collect personal information by the _Ontario Colleges of Applied Arts and Technology Act_ and authorized to collect Ontario Education Numbers under by the _Education Act_.
 
-OCAS may also make your Personal Information available, as minimally required, to third parties who provide services, such as international accreditation or integrity audits to protect our systems and your Personal Information. In addition, OCAS will disclose the minimally required Personal Information to facilitate specialized third-party services such as live chat or credit card processing.
+OCAS also processes applications to select programs at the University of Guelph (authorized to collect personal information by the _University of Guelph Act_ ) and the Michener Institute (authorized to collect personal information by the _University Health Network Act_ ).
 
-Your Personal Information may be collected, used and / or disclosed in jurisdictions outside of Ontario.
+What personal information OCAS collects
 
-You therefore consent to and authorize OCAS to disclose your Personal Information to individuals, organizations and institutions that require such information for program monitoring, research, funding purposes, accreditation, student financial aid applications, or are involved with the processing of your application, acceptance or registration. These entities include, but are not limited to the Colleges, associated universities (e.g. for those applying to collaborative or joint programs), Ontario high school counselors and / or other support staff (for those currently enrolled in high school), third party service providers, and relevant provincial and federal ministries or agencies.
+OCAS collects and uses information about you that includes your name, address, phone number, educational history and grades as well as information about your application and enrollment choices.
 
-It is your responsibility to make sure that the information is truthful, complete and correct, failing which your application may be delayed or invalidated. You must also take appropriate measures to safeguard login information and any printed copies of the completed application.
+Why and how OCAS collects personal information
 
-Your Personal Information will be retained at OCAS offices and/or secure offsite facilities.
+OCAS collects your personal information for the following primary purposes:
 
-You should note that copies of your Personal Information may be retained by those entities to which OCAS provides disclosure to facilitate your application and / or services. Any concerns you may have with respect to access, retention and/or protection of your Personal Information held by elsewhere should be directed to the applicable entity, e.g. the Colleges who are subject to the _Freedom of Information and Protection of Privacy Act_.
+  * To identify you and provide you with service
+  * To process your application and allow the colleges to which you have applied to make admission decisions
 
-For more information about the collection, use, disclosure and protection of your Personal Information at OCAS, review OCAS' [Privacy Code](http://www.ontariocolleges.ca/privacy/privacy-code) or call OCAS' Privacy Officer at: 519.763.2363 ext. 6816 or email the Privacy Officer at: [privacyofficer@ocas.ca](mailto:privacyofficer@ocas.ca).
 
-**Privacy Code**
 
-The Privacy Code informs you of the principles and guidelines which OCAS uses to protect the personal information of individuals that we collect, use or disclose in the course of our operations. Review the OCAS [Privacy Code](http://www.ontariocolleges.ca/privacy/privacy-code).
+OCAS collects application information directly from you, collects information about Ontario high school students from schools and school boards and (at your specific request) may collect transcript and related information from post-secondary educational institutions that you have attended and from credential granting agencies from whom you have sought a credential evaluation. OCAS also links data generated by Web Analytics (subject to individuals’ browser settings) to individual accounts in order to provide better customer service.
+
+Disclosures of personal information
+
+OCAS discloses your personal information to the institutions to which you have applied for the purposes described above. When you enrol in a college program, your information will become part of your college’s student record.
+
+OCAS discloses information to OSAP to facilitate the OSAP application process if you use its application to apply for OSAP.
+
+OCAS uses Ontario Education Number as identifiers, and obtains and validates Ontario Education Numbers by working with the Ontario Ministry of Education and Ontario Ministry of Training Colleges and Universities.
+
+The Ontario Ministry of Training Colleges and Universities may collect personal information from OCAS for planning and other purposes set out in section 15 of the _Ministry of Training Colleges and Universities Act_. Similarly, OCAS may provide school boards information about their former students’ application and enrollment choices to support school board planning and related purposes.
+
+OCAS’ use and disclosure of aggregate data
+
+OCAS uses aggregate data for its business planning and related purposes and discloses aggregate data to government, school boards and to approved research agencies for research, planning and related purposes.
+
+OCAS’ use of service providers
+
+OCAS may retain service providers who it authorizes to handle your personal information. For example, OCAS uses service providers for credit card processing and to offer a live chat service.
+
+OCAS may also retain service providers to whom it gives access to systems that store personal information – organizations review and audit its systems for security and accreditation purposes, for example.
+
+OCAS employs due diligence in retaining and working with its service providers.
+
+Where OCAS keeps personal information
+
+Your personal information will be retained at OCAS offices and / or secure offsite facilities in Ontario, but may be processed by service providers outside of Ontario.
+
+Your responsibilities
+
+It is your responsibility to make sure that the information you provide to OCAS is truthful, complete and correct, failing which your application may be delayed or invalidated. You must also take appropriate measures to safeguard login information and any printed copies of your completed application.
+
+Where to learn more
+
+To learn more about the collection, use, disclosure and protection of your personal information by OCAS you may:
+
+  * Read our [Privacy Code](https://web.archive.org/en/privacy/privacy-code), a document that sets out the principles and guidelines that OCAS follows in meeting its commitment to privacy protection
+  * Contact the OCAS Privacy Officer at 519.763.2363 ext. 6816 or email [privacyofficer@ocas.ca](mailto:privacyofficer@ocas.ca).
+
+
+
+OCAS does not keep student records for colleges. If you have been accepted and have enrolled at a college, your best source of information is your college’s freedom of information and privacy office.
