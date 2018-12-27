@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifedaily.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627024025id_/http%3A//www.lifedaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifedaily.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227100857id_/http%3A//www.lifedaily.com/privacy-policy) for the most accurate reproduction.*
 
 # LifeDaily
 
@@ -97,3 +97,5 @@ This Site contains links to third-party websites that are not affiliated with Li
 [hr@lifedaily.com](mailto:info@lifedaily.com)
 
 **Effective Date** : February 12, 2016
+
+Change Privacy Preferences
