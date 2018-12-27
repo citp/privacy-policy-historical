@@ -1,80 +1,66 @@
-> *The following text is extracted and transformed from the styleforum.net privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210233010id_/http%3A//www.styleforum.net/a/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the styleforum.net privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227135558id_/https%3A//www.styleforum.net/help/privacy-policy) for the most accurate reproduction.*
 
-# Privacy - Styleforum Community
+# Privacy Policy | Styleforum
 
-  
-Styleforum.net PRIVACY POLICY
+We are Styleforum ("we", "our", "us"). We’re committed to protecting and respecting your privacy. If you have questions about your personal information please [contact us](https://web.archive.org/web/20181227135558id_/https%3A//www.styleforum.net/help/misc/contact).
 
-_Effective July 24, 2012_
+## What information we hold about you
 
-Styleforum.net (“ **Styleforum.net** ”, “ **our** ”, “ **us** ” or “ **we** ”) provides this Privacy Policy to inform you of the policies and procedures that govern the collection, use and disclosure of personal information from users of our website, accessible at [www.Styleforum.net](http://www.niketalk.com/) (the “ **Site** ”).  This Privacy Policy applies only to information that you provide to us through the Site.  Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Styleforum.net Terms of Service <http://www.styleforum.net/a/terms-of-service>.
+The type of data that we collect and process includes:
 
-Please note that Styleforum.net is a member of the community of websites hosted on the Huddler, Inc. (“ **Huddler** ”) platform. (see [www.huddler.com](http://www.huddler.com/)).    As a result of Styleforum.net’s relationship with Huddler, the policies and procedures described in this Privacy Policy govern and apply equally to Huddler with respect to Huddler’s use and disclosure of personal information from users of the Site, whether Huddler collects such information itself or receives such information from Styleforum.net.
+  * Your name or username.
+  * Your email address.
+  * Your IP address.
 
-This Privacy Policy may be updated from time to time.  We will notify you of any material changes by posting the new Privacy Policy on the Site.  You are advised to consult this policy regularly for any changes.
 
-As used in this policy, the terms “using” and “processing” information include using cookies on a computer, subjecting the information to statistical or other analysis and using or handling information in any way, including, but not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within our organization or among our affiliates within the United States or internationally. 
 
-**Information Collection and Use**
+Further data may be collected if you choose to share it, such as if you fill out fields on your profile.
 
-_Personally Identifiable Information_ _._
+We collect some or all of this information in the following cases:
 
-o   When you register with us through the Site we will ask you for certain personally identifiable information.  This refers to information about you that can be used to contact or identify you (“ **Personal Information** ”).  Personal Information includes, but is not limited to, your name, phone number, credit card or other billing information, email address and home and business postal addresses.  Personal Information may also include information you supply to us concerning your preferences and interests expressed in the course of use of the Site and Services.
+  * You register as a member on this site.
+  * You fill out our contact form.
+  * You browse this site. See "Cookie policy" below.
+  * You fill out fields on your profile.
 
-o   We use Personal Information for the following purposes: (i) to provide the Site and the Services and to administer your inquiries; (ii) to enable users to easily use and navigate the Site and the Services; (iii) to improve and optimize the Services; (iv) to better understand users’ needs and interests, (v) to personalize your experience; and (vi) to provide you with further information and offers from us that we believe you may find useful or interesting.  If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications or select the appropriate option via your Account.
 
-o   We also collect the other information that you provide as part of registration and the administration and personalization of your Account profile (e.g., without limitation, zip code (on its own) and individual preferences or demographic information) (" **Non-Identifying Information** ").  We use your Personal Information (in some cases, in conjunction with your Non-Identifying Information) for the purposes described in this Privacy Policy only and particularly to provide the Services, complete your transactions, and administer your inquiries.  Certain Non-Identifying Information would be considered a part of your Personal Information if it were combined with other identifiers (for example, combining your zip code with your street address) in a way that enables you to be identified.  But the same items of information are considered Non-Identifying Information when they are taken alone or combined only with other non-identifying information (for example, your demographic information).  We may combine your Personal Information with Non-Identifying Information and aggregate it with information collected from other Members or unregistered users for internal purposes only to attempt to provide you with a better experience, to improve the quality and value of the Services and to analyze and understand how our Site and Services are used.
 
-o   We also use your Personal Information to contact you with Styleforum.net newsletters, marketing or promotional materials and other information that may be of interest to you.  If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications or select the appropriate option via your Account.
+## How your personal information is used
 
-_Log Data_ _.  _ When you visit the Site, whether as a Member or as an unregistered user just browsing, our servers automatically record information that your browser sends whenever you visit a website ( ** _“Log Data”_** ).  This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type or the webpage you were visiting before you came to our Site, pages of our Site that you visit, the time spent on those pages, information you search for on our Site, access times and dates, and other statistics.  We use this information to monitor and analyze use of the Site and the Services and for the Site’s technical administration, to increase our Site’s functionality and user-friendliness, and to better tailor it to our visitors’ needs.  For example, some of this information is collected so that when you visit the Site again, it will recognize you and serve advertisements and other information appropriate to your interests.  We also use this information to verify that visitors to the Site meet the criteria required to process their requests.  We do not treat Log Data as Personal Information or use it in association with other Personal Information, though we may aggregate, analyze and evaluate such information for the same purposes as stated above regarding other Non-Identifying Information.
+We may use your personal information in the following ways:
 
-**Cookies**
+  * For the purposes of making you a registered member of our site, in order for you to contribute content to this site.
+  * We may use your email address to inform you of activity on our site.
+  * Your IP address is recorded when you perform certain actions on our site. Your IP address is never publicly visible.
 
-Like many websites, we use “cookies” to collect information.  A cookie is a small data file that we transfer to your computer’s hard disk for record-keeping purposes.  We use cookies for two purposes.  First, we utilize persistent cookies to save your registration ID and login password for future logins to the Site.  Second, we utilize session ID cookies to enable certain features of the Site, to better understand how you interact with the Site and to monitor aggregate usage by Members and unregistered users and web traffic routing on the Site.  Unlike persistent cookies, session cookies are deleted from your computer when you log off from the Site and Services and then close your browser.  Third-party advertisers on the Site may also place or read cookies on your browser.  You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit.  If you do not accept cookies, however, you may not be able to use all portions of the Site or all functionality of the Services.
 
-**Emailing Via Styleforum.net Account**
 
-As part of the Services, Members may communicate with other Members and with unregistered users through use of their Accounts.  For Members who have selected the option of adding one or more email addresses to an online form, the message they create in the corresponding template will be sent from Styleforum.net to those email addresses on their behalf.  These email addresses will be stored in the address book the Member creates and will be used only for the purpose of sending the email communication to the addressee.
+## Other ways we may use your personal information.
 
-**Phishing**
+In addition to notifying you of activity on our site which may be relevant to you, from time to time we may wish to communicate with all members any important information such as newsletters or announcements by email. You can opt-in to or opt-out of such emails in your profile.
 
-Identity theft and the practice currently known as “phishing” are of great concern to Styleforum.net.  Safeguarding information to help protect you from identity theft is a top priority.  We do not and will not, at any time, request your credit card information, your account ID, login password, or national identification numbers in a non-secure or unsolicited e-mail or telephone communication.  For more information about phishing, visit the Federal Trade Commission’s website.
+We may collect non-personally identifiable information about you in the course of your interaction with our site. This information may include technical information about the browser or type of device you're using. This information will be used purely for the purposes of analytics and tracking the number of visitors to our site.
 
-**Information Sharing and Disclosure**
+## Keeping your data secure
 
-_Members_.  We will display your Personal Information in your profile page and elsewhere on the Site according to the preferences you set in your account.  Any information you choose to provide should reflect how much you want other Members and unregistered Site users to know about you.  We recommend that you guard your anonymity and sensitive information and we encourage members to think carefully about what information about themselves they disclose in their profile pages. You can review and revise your profile information at any time.
+We are committed to ensuring that any information you provide to us is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable measures and procedures to safeguard and secure the information that we collect.
 
-_Aggregate Information and Non-Identifying Information_.  We may share aggregated information that does not include Personal Information and we may otherwise disclose Non-Identifying Information and Log Data with third parties for industry analysis, demographic profiling and other purposes.  Any aggregated information shared in these contexts will not contain your Personal Information.
+## Cookie policy
 
-_Service Providers_.  We may employ third-party companies (such as Huddler) and individuals to facilitate and provide the Site and Services, including, without limitation, maintenance services, database management, web analytics and improvement of the features of the Site and Services, analyzing how the Site and Services are used.  These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.  We may also provide Personal Information to our business partners or other trusted entities for the purpose of providing you with information on goods or services we believe will be of interest to you.  You can, at any time, opt out of receiving such information.
+Cookies are small text files which are set by us on your computer which allow us to provide certain functionality on our site, such as being able to log in, or remembering certain preferences.
 
-_Compliance with Laws and Law Enforcement_.  Styleforum.net cooperates with government and law enforcement officials and private parties to enforce and comply with the law.  We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of Styleforum.net or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, any illegal, unethical or legally actionable activity.
+We have a detailed cookie policy and more information about the cookies that we set on [this page](https://web.archive.org/web/20181227135558id_/https%3A//www.styleforum.net/help/help/cookies).
 
-_Business Transfers_.  Styleforum.net may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.
+## Rights
 
-**Changing or Deleting Your Information**
+You have a right to access the personal data we hold about you or obtain a copy of it. To do so please [contact us](https://web.archive.org/web/20181227135558id_/https%3A//www.styleforum.net/help/misc/contact). If you believe that the information we hold for you is incomplete or inaccurate, you may [contact us](https://web.archive.org/web/20181227135558id_/https%3A//www.styleforum.net/help/misc/contact) to ask us to complete or correct that information.
 
-All Members may review, update, correct or delete the Personal Information in their registration profile by contacting us.  If you completely delete all such information, then your account may become deactivated.  If you would like us to delete your record in our system, please contact us at [support@styleforum.net](mailto:support@styleforum.net) with a request that we delete your Personal Information from our database.  We will use commercially reasonable efforts to honor your request.  We may retain an archived copy of your records as required by law or for legitimate business purposes.
+You also have the right to request the erasure of your personal data. Please [contact us](https://web.archive.org/web/20181227135558id_/https%3A//www.styleforum.net/help/misc/contact) if you would like us to remove your personal data.
 
-**Security**
+## Acceptance of this policy
 
-Styleforum.net is very concerned with safeguarding your information.  We employ reasonable physical, technological, and administrative security measures and attempt to ensure they are applicable under the circumstances.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+Continued use of our site signifies your acceptance of this policy. If you do not accept the policy then please do not use this site. When registering we will further request your explicit acceptance of the privacy policy.
 
-We will make any legally required disclosures of any  breach of the security, confidentiality, or integrity of your unencrypted electronically stored “personal data” (as defined in applicable state statutes on security breach notification) to you via email or conspicuous posting on this Site in the most expedient time possible and without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
+## Changes to this policy
 
-**International Transfer**
-
-Your information may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction.  If you are located outside the United States and choose to provide information to us, Styleforum.net transfers Personal Information to the United States and processes it there.  Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
-
-**Links to Other Sites**
-
-The Site contains links to other websites.  If you choose to visit an advertiser by “clicking on” a banner ad or other type of advertisement, or click on another third-party link, you will be directed to that third party’s website.  The fact that we link to a website or present a banner ad or other type of advertisement is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices.  We do not exercise control over third-party websites.  These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you.  Other sites follow different rules regarding the use or disclosure of the personal information you submit to them.  We encourage you to read the privacy policies or statements of the other websites you visit. 
-
-**Our Policy Toward Children**
-
-This Site is not directed to children under 13.  We do not knowingly collect personally identifiable information from children under 13.
-
-**Contacting Us**
-
-If you have any questions about this Privacy Policy, please contact us by clicking on [http://www.Styleforum.net/feedback](http://www.styleforum.net/feedback).
+We may make changes to this policy at any time. You may be asked to review and re-accept the information in this policy if it changes in the future.
