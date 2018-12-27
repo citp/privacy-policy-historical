@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ico.org.uk privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626221455id_/https%3A//ico.org.uk/global/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ico.org.uk privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227055913id_/https%3A//ico.org.uk/global/privacy-notice) for the most accurate reproduction.*
 
-# Privacy notice | ICO
+# ICO Privacy notice | ICO
+
+[Darllenwch ein hysbysiad preifatrwydd yn Cymraeg.](https://web.archive.org/global/hysbysiad-preifatrwydd/ "Hysbysiad preifatrwydd")
 
 This privacy notice tells you what to expect us to do with your personal information when you make contact with us or use one of our services.
 
@@ -21,3 +23,5 @@ We’ll tell you:
 
 
  The first part of the notice is information we need to tell everybody
+
+Back to top [Next ](https://web.archive.org/global/privacy-notice/controller-s-contact-details/)
