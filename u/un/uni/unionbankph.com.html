@@ -1,0 +1,914 @@
+<!--The following is the downloaded HTML source of the unionbankph.com privacy policy that was archived on 2018-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181227152005id_/https%3A//www.unionbankph.com/privacy-and-security/privacy-statement-and-security) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+    <meta http-equiv="X-UA-Compatible" content="IE-edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+    	<base href="https://unionbankph.com/privacy-and-security/privacy-statement-and-security">
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+	<meta name="author" content="Rence Valdenarro">
+	<meta name="description" content="Union Bank of the Philippines (UnionBank) is a publicly-listed universal bank.  The Bank distinguishes itself through superior technology, unique branch sales and service culture, and centralized backroom operations.  UnionBank’s superior technology allows delivery of online, real time business solutions to meet the customers’ changing and diverse needs through innovative and customized cash management products and service offerings.">
+	<meta name="generator" content="Joomla! - Open Source Content Management">
+	<title>UnionBank of the Philippines - UnionBank Privacy Policy</title>
+	<link href="/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+	<link href="https://unionbankph.com/component/search/?Itemid=418&amp;format=opensearch" rel="search" title="Search UnionBank of the Philippines" type="application/opensearchdescription+xml">
+	<link href="/templates/ubp_20/css/bootstrap.css" rel="stylesheet" type="text/css">
+	<link href="/templates/ubp_20/css/radios-to-slider.css" rel="stylesheet" type="text/css">
+	<link href="/modules/mod_ubpmegadropdown//assets/js/jquery.smartmenus.bootstrap.css" rel="stylesheet" type="text/css">
+	<link href="/modules/mod_ubpmegadropdown//assets/css/jquery.mmenu.css" rel="stylesheet" type="text/css">
+	<link href="/modules/mod_ubpmegadropdown//assets/css/extensions/jquery.mmenu.positioning.css" rel="stylesheet" type="text/css">
+	<link href="/modules/mod_ubpmegadropdown//assets/css/addons/jquery.mmenu.header.css" rel="stylesheet" type="text/css">
+	<script type="text/javascript" async="" src="https://ph-ssl.effectivemeasure.net/em.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+	<script src="/media/system/js/core.js" type="text/javascript"></script>
+	<script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+	<script src="/templates/ubp_20/js/jquery-1.11.1.min.js" type="text/javascript"></script>
+	<script src="/templates/ubp_20/js/bootstrap.min.js" type="text/javascript"></script>
+	<script src="/templates/ubp_20/js/html5shiv.js" type="text/javascript"></script>
+	<script src="/templates/ubp_20/js/respond.min.js" type="text/javascript"></script>
+	<script src="/templates/ubp_20/js/jquery.radios-to-slider.js" type="text/javascript"></script>
+	<script src="/modules/mod_ubpmegadropdown//assets/js/jquery.smartmenus.js" type="text/javascript"></script>
+	<script src="/modules/mod_ubpmegadropdown//assets/js/jquery.smartmenus.bootstrap.js" type="text/javascript"></script>
+	<script src="/modules/mod_ubpmegadropdown//assets/js/jquery.mmenu.min.js" type="text/javascript"></script>
+	<script src="/modules/mod_ubpmegadropdown//assets/js/jquery.mmenu.header.min.js" type="text/javascript"></script>
+	<script type="text/javascript">
+
+                $(document).ready(function() {
+                        $('nav#right-menu').mmenu({
+                                offCanvas: {
+                                    position  : 'right',
+                                    zposition : 'front'
+                                 }
+                        });
+                });
+        
+                $(function() {
+                        $('nav#megadropdown-menu').mmenu({
+                        		onClick : {
+                        			close   : true,
+                        			blockUI : true
+                        		},
+                        		header: {
+                        			title : 'Menu'
+                        		},
+                        		offCanvas: {
+	                                position : 'left',
+	                                zposition: 'front'
+	                            }
+                        });
+                });
+        
+			function loadTrackUrl(url){
+				if (win == null || win.closed){
+					win=window.open(url, win);
+					window.opener=self;
+					window.close();
+				}
+				trackOutboundLink(url); 
+				return false;
+			}
+		
+		// Hide masthead on scroll down, reveal on scroll up
+				var didScroll;
+				var lastScrollTop = 0;
+				var delta = 5;
+				var navbarHeight = $('div.masthead').outerHeight();
+
+
+				// on scroll, let the interval function know the user has scrolled
+				$(window).scroll(function(event){
+				  didScroll = true;				 
+				  //console.log('scroll away!'); 
+				});
+
+				// run hasScrolled() and reset didScroll status
+				setInterval(function() {
+				  if (didScroll) {
+				    hasScrolled();
+				    didScroll = false;
+				  }
+				}, 250);
+
+				function hasScrolled() {
+				  var st = $(this).scrollTop();
+    
+				    // Make sure they scroll more than delta
+				    if(Math.abs(lastScrollTop - st) <= delta)
+				        return;
+				    
+				    // If they scrolled down and are past the navbar, add class .nav-up.
+				    // This is necessary so you never see what is behind the navbar.
+				    if (st > lastScrollTop && st > navbarHeight){
+				        // Scroll Down
+				        //console.info('Scroll down!');
+				        $('div.masthead').removeClass('nav-down').addClass('nav-up');
+				        $('div.topnav').css({ top: '0px' }); //include sub nav
+				    } else {
+				        // Scroll Up
+				        //console.info('Scroll up!');
+				        if(st + $(window).height() < $(document).height()) {
+				            $('div.masthead').removeClass('nav-up').addClass('nav-down');
+				            $('div.topnav').css({ top: '50px' }); //include sub nav
+				        }
+				    }
+				    
+				    lastScrollTop = st;
+				}
+	
+    // activate the item
+	jQuery('#main-menu').smartmenus('itemActivate', $('a#myItem'));
+
+	</script>
+	
+
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>      
+            
+    <![endif]-->
+        <meta name="google-site-verification" content="V8JLfLojPwMmJlNm1piu41hYxhA3WaiVxjMGSUoD7r4">
+		
+			 
+  </head>
+
+  <body>
+	
+	
+    <div id="page" class="container-fluid">
+
+      <div class="hidden-print"><!-- START: Masthead -->
+
+
+	<div id="header" class="masthead hidden-lg hidden-md">
+		<a class="logo center-block" href="http://www.unionbankph.com"></a>
+					<a class="right right-menu" href="#right-menu"></a>
+				<a class="left mdd" href="#megadropdown-menu"></a>
+	</div><!-- /#header -->
+	
+	<div class="masthead hidden-sm hidden-xs" role="navigation">	
+		<div class="navbar-header">
+			<!-- GLOBAL NAV -->			
+	        	
+
+
+
+<script language="javascript" type="text/javascript">
+function alertMessage() {
+    var goLiveMonth = "03" // Month you want your content to start displaying. Two digits.
+    var goLiveDay = "03" // Day you want your content to start displaying. Two digits.
+    var goLiveYear = "2016" // Year you want your content to start displaying. Four digits.
+    var goLiveHour = "00"
+
+    var expireMonth = "03" // Month you want your content to stop displaying. Two digits.
+    var expireDay = "16" // Day you want your content to stop displaying. Two digits.
+    var expireYear = "2016" // Year you want your content to stop displaying. Four digits.
+    var expireHour = "04"
+	
+	var duringHour = "01" //Start of downtime hour. Two digits.
+ 
+    var myContent = "SYSTEM MAINTENANCE ACTIVITY\n06 March 2016\n\nDear Valued Customer,\nDue to a system maintenance activity, internet banking and UMobile will be temporarily unavailable from 12:00AM to 4:00AM of Sunday, 06 March 2016.\nDuring this period, you will not be able access internet banking and UMobile.\nWe recommend that you perform your banking transactions ahead of time.\nWe apologize for any inconvenience this may cause.\nThank you.\n"
+
+ 
+    /* Don't edit below this line. */
+    
+    var goLiveDate = goLiveYear + goLiveMonth + goLiveDay + goLiveHour; // puts START year, month, and day together.
+    var expireDate = expireYear + expireMonth + expireDay + expireHour; // puts EXPIRE year, month, and day together.
+	var duringDate = expireYear + expireMonth + expireDay + duringHour; // puts EXPIRE year, month, and day and start during hour together.
+    
+    var nowDate = new Date();
+    var day = nowDate.getUTCDate();
+    var month = nowDate.getUTCMonth();
+    var hour = nowDate.getHours();
+    var correctedMonth = month + 1; //month - JavaScript starts at "0" for January, so we add "1"
+    
+    if (correctedMonth < 10) { /* if less than "10", put a "0" in front of the number. */
+    correctedMonth = "0" + correctedMonth;
+    }
+    
+    if (day < 10) { /* if less than "10", put a "0" in front of the number. */
+    day = "0" + day;
+    }
+    
+    var year = nowDate.getYear(); /* Get the year. Firefox and Netscape might use century bit, and two-digit year. */
+    if (year < 1900) {
+    year = year + 1900; /*This is to make sure Netscape AND FireFox doesn't show the year as "107" for "2007." */
+    }
+    
+    var GMTdate = year + "" + correctedMonth + "" + day + "" + hour; //corrected month GMT date.
+    
+    
+    //if ((GMTdate <= expireDate) && (GMTdate >= goLiveDate)) {
+		
+	if ((GMTdate >= goLiveDate) && (GMTdate < duringDate)) {
+		// Before Downtime
+		return(1);
+    } 
+	else if ((GMTdate >= duringDate) && (GMTdate <= expireDate)) {
+		// During Downtime
+		return(2);
+    }
+	else if (GMTdate > expireDate) {
+		// After Downtime
+		return(3);
+    }
+}
+var browser = function() {
+    // Return cached result if avalible, else get result then cache it.
+    if (browser.prototype._cachedResult)
+        return browser.prototype._cachedResult;
+
+    var isOpera = !!window.opera || navigator.userAgent.indexOf(' OPR/') >= 0;
+    // Opera 8.0+ (UA detection to detect Blink/v8-powered Opera)
+    var isFirefox = typeof InstallTrigger !== 'undefined';// Firefox 1.0+
+    var isSafari = Object.prototype.toString.call(window.HTMLElement).indexOf('Constructor') > 0;
+    // At least Safari 3+: "[object HTMLElementConstructor]"
+    var isChrome = !!window.chrome && !isOpera;// Chrome 1+
+    var isIE = /*@cc_on!@*/false || !!document.documentMode; // At least IE6
+
+    return (browser.prototype._cachedResult =
+        isOpera ? 'Opera' :
+        isFirefox ? 'Firefox' :
+        isSafari ? 'Safari' :
+        isChrome ? 'Chrome' :
+        isIE ? 'IE' :
+        '');
+};
+
+jQuery(document).ready(function(){
+
+var status=alertMessage();
+
+	
+  jQuery('#myModal').on('shown.bs.modal', function (e) {
+	    jQuery('#advisory').fadeIn(500);
+
+
+  });
+	
+
+
+
+
+});
+function moveslide(){
+	
+	jQuery('#advisory').slick('slickNext');
+	toggleControls();
+}
+function toggleControls(){
+	
+	if(jQuery('#advisory').slick('slickCurrentSlide')==2){
+		
+		document.getElementById('advisoryagree').style.display="none";
+		document.getElementById('advisorynext').style.display="none";
+		document.getElementById('advisorylaunch').style.display="";
+		
+	} else {
+		document.getElementById('advisoryagree').style.display="";
+		document.getElementById('advisorynext').style.display="";
+		document.getElementById('advisorylaunch').style.display="none";
+		
+		
+	}
+	
+}
+
+function dismissAdvisory(){
+	
+	document.getElementById('myModalLabel').innerHTML="<strong>For your protection, please remember the following every time you go to our online banking site:</strong>";	
+  document.getElementById('advisorynext').style.display="none";
+  document.getElementById('advisorylaunch').style.display="";
+    document.getElementById('advisory').style.display="none";
+    document.getElementById('safesurfing').style.display="";
+	
+}
+
+function setDestination(dest){ 
+  document.getElementById('dest').value=dest;	
+//without Advisory
+	document.getElementById('myModalLabel').innerHTML="<strong>For your protection, please remember the following every time you go to our online banking site:</strong>";	
+	document.getElementById('advisorynext').style.display="none";
+    document.getElementById('advisorylaunch').style.display="";
+	
+ if(dest=="ebankinglink"){
+    
+  	if(browser()!="Safari"){
+  		document.getElementById("modalcontent").innerHTML='<div id="safesurfing">'+""+document.getElementById("ebankingchrome").innerHTML+"</div>";
+  	} else {
+
+  		document.getElementById("modalcontent").innerHTML='<div id="safesurfing">'+document.getElementById("ebankingsafari").innerHTML+"</div>";  		
+  	}
+  } else if(dest=="eonlink"){
+
+  	if(browser()!="Safari"){
+  		document.getElementById("modalcontent").innerHTML='<div id="safesurfing" >'+document.getElementById("eonchrome").innerHTML+"</div>";
+  	} else {
+  		document.getElementById("modalcontent").innerHTML='<div id="safesurfing" >'+document.getElementById("eonsafari").innerHTML+"</div>";  		
+  	}
+  } else if(dest=="corporatelink"){
+
+  	if(browser()!="Safari"){
+  		document.getElementById("modalcontent").innerHTML='<div id="safesurfing">'+document.getElementById("corpchrome").innerHTML+"</div>";
+  	} else {
+
+  		document.getElementById("modalcontent").innerHTML='<div id="safesurfing" >'+document.getElementById("corpsafari").innerHTML+"</div>";  		
+  	}
+  } else if(dest=="businessonlinelink"){
+
+  	if(browser()!="Safari"){
+  		document.getElementById("modalcontent").innerHTML='<div id="safesurfing">'+document.getElementById("blchrome").innerHTML+"</div>";
+  	} else {
+
+   		document.getElementById("modalcontent").innerHTML='<div id="safesurfing">'+document.getElementById("blsafari").innerHTML+"</div>";  		
+  	}
+  } else {
+
+  	if(browser()!="Safari"){
+    		document.getElementById("modalcontent").innerHTML='<div id="safesurfing" >'+document.getElementById("ebankingchrome").innerHTML+"</div>";
+  	} else {
+  		document.getElementById("modalcontent").innerHTML='<div id="safesurfing" >'+document.getElementById("ebankingchrome").innerHTML+"</div>";  		
+  	}
+  }
+	
+
+	  
+  }
+
+function forwardtoExternal(){
+var dest=document.getElementById('dest').value;
+document.getElementById(dest).click();
+}
+</script>
+<style>
+
+.number_circle{
+	
+	background:#EC6128;
+	color:#eeeeee;
+	
+    display: inline-block;
+    width: 18px;
+    text-align: center;
+
+}
+
+</style>
+<input type="hidden" id="dest">
+<!-- Static navbar -->
+	<div class="ubp-mdd">
+	  		  	<nav class="" id="megadropdown-menu">
+		   			<ul>
+			<li class="item-912"><a href="/">HOME</a></li><li class="item-696 deeper parent"><a href="/personal">PERSONAL</a><ul><li class="item-697 deeper parent"><a href="/personal/deposit-accounts">DEPOSIT ACCOUNTS</a><ul><li class="item-705"><a href="/personal/deposit-accounts/savings-accounts">Savings Accounts</a></li><li class="item-706"><a href="/personal/deposit-accounts/checking-accounts">Checking Accounts</a></li><li class="item-707"><a href="/personal/deposit-accounts/time-deposits">Time Deposits</a></li><li class="item-708"><a href="/personal/deposit-accounts/open-an-account">Open an Account</a></li><li class="item-710"><a href="/personal/deposit-accounts/faqs">FAQs</a></li></ul></li><li class="item-698 deeper parent"><a href="/personal/credit-cards">CREDIT CARDS</a><ul><li class="item-711"><a href="/personal/credit-cards">Cards</a></li><li class="item-712"><a href="/personal/credit-cards/features-and-benefits">Features &amp; Benefits</a></li><li class="item-715"><a href="/personal/credit-cards/promos">Promos</a></li><li class="item-716"><a href="/personal/credit-cards/discounts">Discounts</a></li><li class="item-717"><a href="/?Itemid=128">Apply Now</a></li><li class="item-991"><a href="/personal/credit-cards/rewards">Rewards</a></li></ul></li><li class="item-699 deeper parent"><a href="/personal/debitcards">DEBIT CARDS</a><ul><li class="item-719"><a href="https://www.eonbankph.com">EON</a></li><li class="item-720"><a href="/personal/debitcards/cards/e-wallet">E-Wallet</a></li><li class="item-722"><a href="/personal/debitcards/cards/e-pay">ePay Card</a></li><li class="item-902"><a href="/personal/debitcards/cards/easyaccess">EasyAccess</a></li><li class="item-723"><a href="/personal/debitcards/debit-delights">Debit Delights Promos</a></li><li class="item-1101"><a href="https://getgo.unionbankph.com/debit-card">GetGo Debit Card</a></li><li class="item-1129"><a href="/personal/debitcards/platinum">Platinum Debit Card</a></li><li class="item-1233"><a href="/personal/debitcards/usdollar">US Dollar Debit Card</a></li><li class="item-724"><a href="/personal/debitcards/apply-now">Apply Now</a></li></ul></li><li class="item-700 deeper parent"><a href="/personal/loans">LOANS</a><ul><li class="item-725"><a href="/personal/loans/autoloans">Auto Loans</a></li><li class="item-726"><a href="/personal/loans/home-loans">Home Loans</a></li><li class="item-1307"><a href="/salaryloans">Salary Loans</a></li></ul></li><li class="item-701 deeper parent"><a href="/personal/trust">TRUST &amp; INVESTMENTS</a><ul><li class="item-729"><a href="/personal/trust/invest-with-us">Invest with Us</a></li><li class="item-931"><a href="/personal/trust/products">Products</a></li><li class="item-948"><a href="/personal/trust/faqs">FAQs</a></li></ul></li><li class="item-702 deeper parent"><a href="/personal/mobilebanking/unionbank-online">MOBILE BANKING</a><ul><li class="item-730"><a href="/personal/mobilebanking/unionbank-online">UnionBank Online</a></li></ul></li><li class="item-703 deeper parent"><a href="/personal/assetrecovery">FORECLOSED ASSETS</a><ul><li class="item-733"><a href="/personal/assetrecovery/properties/luzon">Properties</a></li><li class="item-734"><a href="/personal/assetrecovery/pre-owned-vehicle">Pre-Owned Vehicle</a></li></ul></li><li class="item-704 deeper parent"><a href="/personal/global-filipino/products-and-services">GLOBAL FILIPINO</a><ul><li class="item-736"><a href="/personal/global-filipino/products-and-services">Products &amp; Services</a></li><li class="item-738"><a href="/personal/global-filipino/western-union-promos">Promo</a></li><li class="item-739"><a href="/personal/global-filipino/faqs">FAQs</a></li></ul></li><li class="item-1223 deeper parent"><a href="http://www.unionforlife.com.ph">Bancassurance</a><ul><li class="item-1224"><a href="http://www.unionforlife.com.ph/product/security">Security</a></li><li class="item-1225"><a href="http://www.unionforlife.com.ph/product/prominence">Prominence</a></li><li class="item-1264"><a href="https://www.unionforlife.com.ph/product/assurance/">Assurance </a></li><li class="item-1265"><a href="https://www.unionforlife.com.ph/product/assurance-prime/">Assurance Prime</a></li></ul></li></ul></li><li class="item-740 deeper parent"><a href="/corporate-sme">CORPORATE &amp; SME</a><ul><li class="item-742 deeper parent"><a href="/corporate-sme/cashmanagement">CASH MANAGEMENT</a><ul><li class="item-745"><a href="/corporate-sme/cashmanagement/government-payments">Government Payments</a></li><li class="item-746"><a href="/corporate-sme/cashmanagement/corporate-payouts">Corporate Payouts</a></li><li class="item-747"><a href="/corporate-sme/cashmanagement/corporate-collections">Corporate Collections</a></li><li class="item-748"><a href="/corporate-sme/cashmanagement/corporate-cards">Corporate Cards</a></li><li class="item-749"><a href="/corporate-sme/cashmanagement/others">Others</a></li></ul></li><li class="item-743 deeper parent"><a href="/corporate-sme/smallbusiness">Small Business</a><ul><li class="item-751"><a href="/corporate-sme/smallbusiness/small-business/business-line">Business Line</a></li><li class="item-752"><a href="/corporate-sme/smallbusiness/small-business/my-line">My Line</a></li><li class="item-754"><a href="/corporate-sme/smallbusiness/small-business/links-and-downloads">Links &amp; Downloads</a></li><li class="item-755"><a href="/corporate-sme/smallbusiness/small-business/blogs">Blogs</a></li><li class="item-757"><a href="/?Itemid=230">Gallery</a></li><li class="item-758"><a href="/corporate-sme/smallbusiness/small-business/faqs">FAQs</a></li><li class="item-989"><a href="/corporate-sme/smallbusiness/small-business/loan-assessment">Loan Assessment</a></li><li class="item-1105"><a href="/corporate-sme/smallbusiness/advisories">Advisories</a></li></ul></li><li class="item-890 deeper parent"><a href="/personal/treasury">TREASURY</a><ul><li class="item-893"><a href="/personal/treasury/rates">Rates</a></li><li class="item-894"><a href="/personal/treasury/issues">Issues</a></li><li class="item-895"><a href="/aboutus/business-daily">Market News</a></li></ul></li><li class="item-744 deeper parent"><a href="/corporate-sme/trust">TRUST &amp; INVESTMENTS</a><ul><li class="item-970"><a href="/corporate-sme/trust/products">Products</a></li><li class="item-971"><a href="/corporate-sme/trust/invest-with-us">Invest with Us</a></li><li class="item-972"><a href="/personal/trust/faqs">FAQs</a></li></ul></li></ul></li><li class="item-759 deeper parent"><a href="/aboutus">ABOUT US</a><ul><li class="item-760 deeper parent"><a href="/aboutus/about-unionbank-of-the-philippines">WHO WE ARE</a><ul><li class="item-767"><a href="/aboutus/about-unionbank-of-the-philippines">Company Profile</a></li><li class="item-769"><a href="/aboutus/about-unionbank-of-the-philippines/board-of-directors">Board of Directors</a></li><li class="item-771"><a href="/aboutus/about-unionbank-of-the-philippines/conglomerate-map">Conglomerate Map</a></li><li class="item-863"><a href="/aboutus/about-unionbank-of-the-philippines/management">Management Team</a></li><li class="item-1021"><a href="/aboutus/about-unionbank-of-the-philippines/mission-and-vision">Mission And Vision</a></li></ul></li><li class="item-761 deeper parent"><a href="/aboutus/investor-relations">INVESTOR RELATIONS</a><ul><li class="item-775"><a href="/aboutus/investor-relations/shareholder-information">Shareholder Information</a></li><li class="item-777"><a href="/aboutus/investor-relations/faqs">FAQs</a></li><li class="item-778"><a href="/aboutus/investor-relations/contact-information">Contact Info</a></li><li class="item-779"><a href="/aboutus/investor-relations/disclosures">Disclosures</a></li></ul></li><li class="item-763 deeper parent"><a href="/aboutus/corporate-governance">CORPORATE GOVERNANCE</a><ul><li class="item-786"><a href="/aboutus/corporate-governance/ethical-standards">Ethical Standards and Policies</a></li><li class="item-787"><a href="/aboutus/corporate-governance/stakeholder-relations">Stakeholder Relations</a></li><li class="item-788"><a href="/aboutus/corporate-governance/governance-reports">Governance Reports</a></li><li class="item-789"><a href="/aboutus/corporate-governance/governance-policies">Governance Policies</a></li><li class="item-790"><a href="/aboutus/corporate-governance/governance-mechanisms">Governance Mechanisms</a></li><li class="item-791"><a href="/aboutus/corporate-governance/manual-on-corporate-governance">Manual on Good Corporate Governance</a></li><li class="item-792"><a href="/aboutus/corporate-governance/awards-and-citations">Awards &amp; Citations</a></li><li class="item-785"><a href="/aboutus/corporate-governance/board-governance">Board Governance</a></li><li class="item-1273"><a href="/aboutus/corporate-governance/enterprise-risk-management">Enterprise Risk Management</a></li></ul></li><li class="item-764 deeper parent"><a href="/aboutus/csp/citizenship">Citizenship</a><ul><li class="item-793"><a href="/aboutus/csp/citizenship">Citizenship</a></li><li class="item-794"><a href="/aboutus/csp/flagship-programs">Flagship Program</a></li><li class="item-795"><a href="/aboutus/csp/past-programs">Past Programs</a></li><li class="item-796"><a href="/sustainability">Sustainability</a></li></ul></li><li class="item-765 deeper parent"><a href="/aboutus/news-and-press-release">NEWS &amp; PRESS RELEASE</a><ul><li class="item-797"><a href="/aboutus/news-and-press-release/news">News</a></li><li class="item-1051"><a href="/aboutus/news-and-press-release/unionbanker">UnionBanker</a></li><li class="item-1054"><a href="/aboutus/news-and-press-release/advisories">Advisories</a></li></ul></li><li class="item-766 deeper parent"><a href="/aboutus/business-daily">BUSINESS DAILY</a><ul><li class="item-800"><a href="/aboutus/business-daily/unionbank-account-rates">UnionBank Account Rates</a></li></ul></li><li class="item-1096 deeper parent"><a href="#">Branch Operations</a><ul><li class="item-1095"><a href="/personal/downloadable-forms">Downloadable Forms</a></li></ul></li></ul></li><li class="item-1091"><a href="https://www.unionbankph.com/careers">CAREERS</a></li><li class="item-815"><a href="/contact-us/where-to-find-us">CONTACT US</a></li>						<li>
+								<a href="https://online.unionbankph.com/online-banking/login#!/login" target="_blank"> 
+									UnionBank Online
+								</a>
+							</li>
+							
+					<li>
+						<a href="#">CLASSIC CHANNELS</a>
+						
+						<ul> 
+							
+							<li>
+								<a href="https://ebanking.unionbankph.com/corporate" target="_blank"> 
+									Business Online
+								</a>
+							</li>
+							<li>
+								<a href="https://ebanking.unionbankph.com/corporate" target="_blank"> 
+									Corporate eBanking
+								</a>
+							</li>	 
+							
+							
+							
+							 
+							
+														
+							
+							
+							
+																											
+														
+														
+													
+
+							
+								
+
+
+															
+
+						</ul>
+					</li>
+					
+					
+			</ul>
+		</nav>
+
+	  	
+	  
+      <div class="navbar navbar-default navbar-top" role="navigation">
+        <div class="container">
+        	
+        
+          <div class="navbar-collapse collapse">          
+          <a class="logo" href="/"></a>
+          			<ul id="main-menu" class="nav navbar-nav ">
+			<li class="item-912 first"><a href="/">HOME</a></li><li class="item-696 first  deeper parent"><a href="/personal">PERSONAL</a><ul class="dropdown-menu"><li class="item-697 subitem deeper parent"><a href="/personal/deposit-accounts">DEPOSIT ACCOUNTS</a><ul class="sub"><li class="item-705"><a href="/personal/deposit-accounts/savings-accounts">Savings Accounts</a></li><li class="item-706"><a href="/personal/deposit-accounts/checking-accounts">Checking Accounts</a></li><li class="item-707"><a href="/personal/deposit-accounts/time-deposits">Time Deposits</a></li><li class="item-708"><a href="/personal/deposit-accounts/open-an-account">Open an Account</a></li><li class="item-710"><a href="/personal/deposit-accounts/faqs">FAQs</a></li></ul></li><li class="item-698 subitem deeper parent"><a href="/personal/credit-cards">CREDIT CARDS</a><ul class="sub"><li class="item-711"><a href="/personal/credit-cards">Cards</a></li><li class="item-712"><a href="/personal/credit-cards/features-and-benefits">Features &amp; Benefits</a></li><li class="item-715"><a href="/personal/credit-cards/promos">Promos</a></li><li class="item-716"><a href="/personal/credit-cards/discounts">Discounts</a></li><li class="item-717"><a href="/?Itemid=128">Apply Now</a></li><li class="item-991"><a href="/personal/credit-cards/rewards">Rewards</a></li></ul></li><li class="item-699 subitem deeper parent"><a href="/personal/debitcards">DEBIT CARDS</a><ul class="sub"><li class="item-719"><a href="https://www.eonbankph.com">EON</a></li><li class="item-720"><a href="/personal/debitcards/cards/e-wallet">E-Wallet</a></li><li class="item-722"><a href="/personal/debitcards/cards/e-pay">ePay Card</a></li><li class="item-902"><a href="/personal/debitcards/cards/easyaccess">EasyAccess</a></li><li class="item-723"><a href="/personal/debitcards/debit-delights">Debit Delights Promos</a></li><li class="item-1101"><a href="https://getgo.unionbankph.com/debit-card">GetGo Debit Card</a></li><li class="item-1129"><a href="/personal/debitcards/platinum">Platinum Debit Card</a></li><li class="item-1233"><a href="/personal/debitcards/usdollar">US Dollar Debit Card</a></li><li class="item-724"><a href="/personal/debitcards/apply-now">Apply Now</a></li></ul></li><li class="item-700 subitem deeper parent"><a href="/personal/loans">LOANS</a><ul class="sub"><li class="item-725"><a href="/personal/loans/autoloans">Auto Loans</a></li><li class="item-726"><a href="/personal/loans/home-loans">Home Loans</a></li><li class="item-1307"><a href="/salaryloans">Salary Loans</a></li></ul></li><li class="item-701 subitem deeper parent"><a href="/personal/trust">TRUST &amp; INVESTMENTS</a><ul class="sub"><li class="item-729"><a href="/personal/trust/invest-with-us">Invest with Us</a></li><li class="item-931"><a href="/personal/trust/products">Products</a></li><li class="item-948"><a href="/personal/trust/faqs">FAQs</a></li></ul></li><li class="item-702 subitem deeper parent"><a href="/personal/mobilebanking/unionbank-online">MOBILE BANKING</a><ul class="sub"><li class="item-730"><a href="/personal/mobilebanking/unionbank-online">UnionBank Online</a></li></ul></li><li class="item-703 subitem deeper parent"><a href="/personal/assetrecovery">FORECLOSED ASSETS</a><ul class="sub"><li class="item-733"><a href="/personal/assetrecovery/properties/luzon">Properties</a></li><li class="item-734"><a href="/personal/assetrecovery/pre-owned-vehicle">Pre-Owned Vehicle</a></li></ul></li><li class="item-704 subitem deeper parent"><a href="/personal/global-filipino/products-and-services">GLOBAL FILIPINO</a><ul class="sub"><li class="item-736"><a href="/personal/global-filipino/products-and-services">Products &amp; Services</a></li><li class="item-738"><a href="/personal/global-filipino/western-union-promos">Promo</a></li><li class="item-739"><a href="/personal/global-filipino/faqs">FAQs</a></li></ul></li><li class="item-1223 subitem deeper parent"><a href="http://www.unionforlife.com.ph">Bancassurance</a><ul class="sub"><li class="item-1224"><a href="http://www.unionforlife.com.ph/product/security">Security</a></li><li class="item-1225"><a href="http://www.unionforlife.com.ph/product/prominence">Prominence</a></li><li class="item-1264"><a href="https://www.unionforlife.com.ph/product/assurance/">Assurance </a></li><li class="item-1265"><a href="https://www.unionforlife.com.ph/product/assurance-prime/">Assurance Prime</a></li></ul></li></ul></li><li class="item-740 first  deeper parent"><a href="/corporate-sme">CORPORATE &amp; SME</a><ul class="dropdown-menu"><li class="item-742 subitem col-lg-2 col-md-offset-2 subitem col-lg-2 deeper parent"><a href="/corporate-sme/cashmanagement">CASH MANAGEMENT</a><ul class="sub"><li class="item-745"><a href="/corporate-sme/cashmanagement/government-payments">Government Payments</a></li><li class="item-746"><a href="/corporate-sme/cashmanagement/corporate-payouts">Corporate Payouts</a></li><li class="item-747"><a href="/corporate-sme/cashmanagement/corporate-collections">Corporate Collections</a></li><li class="item-748"><a href="/corporate-sme/cashmanagement/corporate-cards">Corporate Cards</a></li><li class="item-749"><a href="/corporate-sme/cashmanagement/others">Others</a></li></ul></li><li class="item-743 subitem col-lg-2 deeper parent"><a href="/corporate-sme/smallbusiness">Small Business</a><ul class="sub"><li class="item-751"><a href="/corporate-sme/smallbusiness/small-business/business-line">Business Line</a></li><li class="item-752"><a href="/corporate-sme/smallbusiness/small-business/my-line">My Line</a></li><li class="item-754"><a href="/corporate-sme/smallbusiness/small-business/links-and-downloads">Links &amp; Downloads</a></li><li class="item-755"><a href="/corporate-sme/smallbusiness/small-business/blogs">Blogs</a></li><li class="item-757"><a href="/?Itemid=230">Gallery</a></li><li class="item-758"><a href="/corporate-sme/smallbusiness/small-business/faqs">FAQs</a></li><li class="item-989"><a href="/corporate-sme/smallbusiness/small-business/loan-assessment">Loan Assessment</a></li><li class="item-1105"><a href="/corporate-sme/smallbusiness/advisories">Advisories</a></li></ul></li><li class="item-890 subitem col-lg-2 deeper parent"><a href="/personal/treasury">TREASURY</a><ul class="sub"><li class="item-893"><a href="/personal/treasury/rates">Rates</a></li><li class="item-894"><a href="/personal/treasury/issues">Issues</a></li><li class="item-895"><a href="/aboutus/business-daily">Market News</a></li></ul></li><li class="item-744 subitem col-lg-2 deeper parent"><a href="/corporate-sme/trust">TRUST &amp; INVESTMENTS</a><ul class="sub"><li class="item-970"><a href="/corporate-sme/trust/products">Products</a></li><li class="item-971"><a href="/corporate-sme/trust/invest-with-us">Invest with Us</a></li><li class="item-972"><a href="/personal/trust/faqs">FAQs</a></li></ul></li></ul></li><li class="item-759 first  deeper parent"><a href="/aboutus">ABOUT US</a><ul class="dropdown-menu"><li class="item-760 subitem deeper parent"><a href="/aboutus/about-unionbank-of-the-philippines">WHO WE ARE</a><ul class="sub"><li class="item-767"><a href="/aboutus/about-unionbank-of-the-philippines">Company Profile</a></li><li class="item-769"><a href="/aboutus/about-unionbank-of-the-philippines/board-of-directors">Board of Directors</a></li><li class="item-771"><a href="/aboutus/about-unionbank-of-the-philippines/conglomerate-map">Conglomerate Map</a></li><li class="item-863"><a href="/aboutus/about-unionbank-of-the-philippines/management">Management Team</a></li><li class="item-1021"><a href="/aboutus/about-unionbank-of-the-philippines/mission-and-vision">Mission And Vision</a></li></ul></li><li class="item-761 subitem deeper parent"><a href="/aboutus/investor-relations">INVESTOR RELATIONS</a><ul class="sub"><li class="item-775"><a href="/aboutus/investor-relations/shareholder-information">Shareholder Information</a></li><li class="item-777"><a href="/aboutus/investor-relations/faqs">FAQs</a></li><li class="item-778"><a href="/aboutus/investor-relations/contact-information">Contact Info</a></li><li class="item-779"><a href="/aboutus/investor-relations/disclosures">Disclosures</a></li></ul></li><li class="item-763 subitem deeper parent"><a href="/aboutus/corporate-governance">CORPORATE GOVERNANCE</a><ul class="sub"><li class="item-786"><a href="/aboutus/corporate-governance/ethical-standards">Ethical Standards and Policies</a></li><li class="item-787"><a href="/aboutus/corporate-governance/stakeholder-relations">Stakeholder Relations</a></li><li class="item-788"><a href="/aboutus/corporate-governance/governance-reports">Governance Reports</a></li><li class="item-789"><a href="/aboutus/corporate-governance/governance-policies">Governance Policies</a></li><li class="item-790"><a href="/aboutus/corporate-governance/governance-mechanisms">Governance Mechanisms</a></li><li class="item-791"><a href="/aboutus/corporate-governance/manual-on-corporate-governance">Manual on Good Corporate Governance</a></li><li class="item-792"><a href="/aboutus/corporate-governance/awards-and-citations">Awards &amp; Citations</a></li><li class="item-785"><a href="/aboutus/corporate-governance/board-governance">Board Governance</a></li><li class="item-1273"><a href="/aboutus/corporate-governance/enterprise-risk-management">Enterprise Risk Management</a></li></ul></li><li class="item-764 subitem deeper parent"><a href="/aboutus/csp/citizenship">Citizenship</a><ul class="sub"><li class="item-793"><a href="/aboutus/csp/citizenship">Citizenship</a></li><li class="item-794"><a href="/aboutus/csp/flagship-programs">Flagship Program</a></li><li class="item-795"><a href="/aboutus/csp/past-programs">Past Programs</a></li><li class="item-796"><a href="/sustainability">Sustainability</a></li></ul></li><li class="item-765 subitem deeper parent"><a href="/aboutus/news-and-press-release">NEWS &amp; PRESS RELEASE</a><ul class="sub"><li class="item-797"><a href="/aboutus/news-and-press-release/news">News</a></li><li class="item-1051"><a href="/aboutus/news-and-press-release/unionbanker">UnionBanker</a></li><li class="item-1054"><a href="/aboutus/news-and-press-release/advisories">Advisories</a></li></ul></li><li class="item-766 subitem deeper parent"><a href="/aboutus/business-daily">BUSINESS DAILY</a><ul class="sub"><li class="item-800"><a href="/aboutus/business-daily/unionbank-account-rates">UnionBank Account Rates</a></li></ul></li><li class="item-1096 subitem deeper parent"><a href="#">Branch Operations</a><ul class="sub"><li class="item-1095"><a href="/personal/downloadable-forms">Downloadable Forms</a></li></ul></li></ul></li><li class="item-1091 first"><a href="https://www.unionbankph.com/careers">CAREERS</a></li><li class="item-815 first"><a href="/contact-us/where-to-find-us">CONTACT US</a></li>				
+								</ul>
+			<ul id="main-menu" class="nav navbar-nav " style="float: right;">
+					
+					<li>
+						<a class="support-nav" href="/support"><div class="glyphicon glyphicon-question-sign"></div></a>						
+					</li>
+
+					<li>
+						<a class="search-nav" href="#"><div class="glyphicon glyphicon-search"></div></a>
+						<ul class="dropdown-menu">
+							<li>
+								
+								<div class="container">	
+										<div class="row">
+	<form action="/privacy-and-security/privacy-statement-and-security" method="post">
+		<div class="col-lg-12 searchsearchbox">
+			<div class="input-group">
+			<input name="searchword" id="mod-search-searchword" maxlength="200" class="col-lg-12 col-md-12 form-control searchbox" type="text" size="100" value="Search ..." onblur="if (this.value=='') this.value='Search ...';" onfocus="if (this.value=='Search ...') this.value='';"><span class="input-group-btn"><button type="submit" class="btn btn-primary" onclick="this.form.searchword.focus();">Search</button></span>			</div><!--/.input-group -->
+		<input type="hidden" name="task" value="search">
+		<input type="hidden" name="option" value="com_search">
+		<input type="hidden" name="Itemid" value="913">
+		</div>
+	</form>
+</div>
+								</div>
+
+								
+
+							</li>
+						</ul>
+					</li>
+					<li class="globalnav-login-wrap">						
+						<a href="#" class="globalnav-login">
+							<span class="wrp" style="display: inline-block;"><div class="glyphicon glyphicon-lock hidden-xs hidden-sm hidden-md">&nbsp;ACCOUNT LOGIN</div></span>
+							<span class="wrp" style="display: inline-block;"><div class="glyphicon glyphicon-lock hidden-lg"></div></span>
+						</a>
+						
+						<ul class="dropdown-menu"> 
+							
+												
+						
+						
+							
+													
+						
+														
+						
+						
+						
+							<li> 
+								<div class="head"><h4>UNIONBANK ONLINE:</h4></div>
+
+								<div class="account-login">
+									<div class="row" style="margin-bottom: 10px; padding:10px;">
+										<div class="col-xs-12">
+																																	
+											<a href="https://online.unionbankph.com/online-banking/login#!/login" target="_BLANK" style="margin-left:10px;"> 
+												<img class="img-responsive pull-left" alt="icon-ebanking1" src="/images/icons/unionbankonline.jpg" height="63" width="63">
+												<h4 style="text-transform:none !important;color:black !important;">UNIONBANK ONLINE</h4>
+											</a>
+										</div>
+										</div>
+										</div>
+								<div class="head"><h4>Classic Channels:</h4></div>
+								
+								<div class="account-login">
+									<div class="row" style="margin-bottom: 10px;"> 
+										<div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+																																	<a data-toggle="modal" data-target="#myModal" class="modal-trigger" href="#" onclick="setDestination('businessonlinelink')"> 
+												<img class="img-responsive pull-left" alt="icon-business1" src="/images/icons/icon-business1.png" height="63" width="63">
+												<h4 style="color:black !important;">Business Online</h4>
+											</a>
+										</div>
+										<div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+																																<a data-toggle="modal" data-target="#myModal" href="#" class="modal-trigger" onclick="setDestination('corporatelink')"> 
+                                        <img class="img-responsive pull-left" alt="icon-corporate1" src="/images/icons/icon-corporate1.png" height="63" width="63">
+												<h4 style="color:black !important;">Corporate Ebanking</h4>
+											</a>
+										</div>
+									</div> 
+								</div>
+								
+								 
+							</li> 				
+														
+							
+							
+													</ul>
+					</li>
+				
+			</ul>
+			
+          	
+          </div><!--/.nav-collapse -->
+        </div><!--/.container -->
+      </div>
+     </div><!--/.ubp-mdd-->
+ 
+
+		<div style="visibility:hidden;">
+			<a id="ebankinglink" href="https://online.unionbankph.com/online-banking/login#!/login" target="_blank" onclick="loadTrackUrl('https://online.unionbankph.com/online-banking/login#!/login');"></a>
+			<a id="businessonlinelink" href="https://ebanking.unionbankph.com/corporate" target="_blank" onclick="loadTrackUrl('https://ebanking.unionbankph.com/corporate');"> </a>
+			<a id="corporatelink" href="https://ebanking.unionbankph.com/corporate" target="_blank" onclick="loadTrackUrl('https://ebanking.unionbankph.com/corporate');"> </a>
+			<a id="eonlink" href="https://online.unionbankph.com/online-banking/login#!/login" target="_blank" onclick="loadTrackUrl('https://online.unionbankph.com/online-banking/login#!/login')">	</a>											
+			<a id="gsislink" href="https://online.unionbankph.com/online-banking/login#!/login" target="_blank" onclick="loadTrackUrl('https://online.unionbankph.com/online-banking/login#!/login');"> </a>
+			<a id="downtime" href="/retail-online-banking-maintenance" target="_parent"> </a>
+		</div>
+		
+
+
+<!-- Modal -->
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-lg modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <div class="modal-title" id="myModalLabel">
+</div>
+      </div>
+      <div class="modal-body" style="font-size:13px;" id="modalcontent">
+				
+      </div>
+      <div class="modal-footer">
+<button type="button" class="btn btn-default" onclick="dismissAdvisory();" id="advisorynext">Next</button>
+<button type="button" class="btn btn-primary" onclick="forwardtoExternal();" id="advisorylaunch" data-dismiss="modal">Continue</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+ 
+
+
+	       
+		</div><!-- /.navbar-header-->
+	</div><!-- /.masthead-->
+  </div>
+	                     	
+
+
+ 
+      <div class="topnav">
+      
+<nav id="right-menu">
+    <ul>
+        <li class="item-917 active"><a href="/privacy-and-security/privacy-statement-and-security">UnionBank Privacy Policy</a></li><li class="item-1317"><a href="/privacy-and-security/unionbank-cookie-policy">UnionBank Cookie Policy</a></li><li class="item-918"><a href="/privacy-and-security/safe-surfing-guidelines">Safe Surfing Guidelines</a></li><li class="item-919"><a href="/privacy-and-security/weblinking-practices">Weblinking Practices</a></li><li class="item-920"><a href="/privacy-and-security/terms-of-use">Terms of Use</a></li>        
+    </ul>
+</nav>
+
+<div id="topnav-affix">
+    <div class="tvtma-megamnu navbar navbar-default hidden-sm hidden-xs" role="navigation">
+        <div class="container">
+                <div class="navbar-header">                    
+                                                                                                                                                                                <img class="img-responsive" src="/images/articles/treasury/icons/logo-privacy.png" title="">
+
+                                    
+                                        
+
+                                    </div>
+
+                <nav class="navbar-collapse collapse" id="tvtma-megamnu">
+                <ul class="nav navbar-nav navbar-right">
+                            <li class="item-917 active"><a href="/privacy-and-security/privacy-statement-and-security">UnionBank Privacy Policy</a></li><li class="item-1317"><a href="/privacy-and-security/unionbank-cookie-policy">UnionBank Cookie Policy</a></li><li class="item-918"><a href="/privacy-and-security/safe-surfing-guidelines">Safe Surfing Guidelines</a></li><li class="item-919"><a href="/privacy-and-security/weblinking-practices">Weblinking Practices</a></li><li class="item-920"><a href="/privacy-and-security/terms-of-use">Terms of Use</a></li>                </ul>
+                </nav>
+        </div>
+    </div>
+</div><!--#topnav-affix-->
+
+
+
+    </div><!--/.topnav-->
+  
+<div class="container headimage">
+	<div class="row">
+		<div class="col-lg-12">
+			
+
+<div class="custom">
+	<div class="col-lg-offset-1 col-lg-6 col-md-offset-1 col-md-6 col-sm-offset-1 col-sm-6 col-xs-6" style="z-index: 1; position: absolute; top: 20%;">
+<h1 style="color: #000;">Privacy Statement &amp; Security</h1>
+<p style="color: #000;">Your privacy is of great concern to us at UnionBank.</p>
+</div>
+<div class="headimage-border1"><img src="/images/articles/privacy/header-privacy.jpg" alt="header-privacy" width="1170" height="280" class="img-responsive"></div>
+<div class="headimage-border2">&nbsp;</div></div>
+
+		</div><!-- /.col-lg-12 -->
+	</div><!-- /.row -->
+</div><!-- /.headimage -->
+
+<!-- Display article in a box -->
+<div class="container article">
+
+
+		<!-- Content -->	
+		<div class="content">
+			
+			<div class="row">			
+								<div class="col-lg-9">
+						<div class="item-page">
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+			
+	
+	
+		
+					<h3>
+							Privacy Statement &amp; Security				
+			</h3>
+		
+		
+		
+		<p><strong>INTRODUCTION</strong><br><br>UNIONBANK respects and values your right to privacy with utmost importance. We would like to inform you that we are taking the necessary steps for the protection and security of your personal information and of your use of our services. As provided by the Data Privacy Act of 2012 (“DPA”), its Implementing Rules and Regulations (“IRR”), and issuances by the National Privacy Commission, the Bank guarantees that we are compliant with all the requirements mandated by law, as well as with the generally accepted global data protection standards and regulations. The Bank ensures continued protection of your personal information with our organizational, physical, and technical measures for data protection, including policies for evaluation, monitoring, and review of operations and security risks. This Privacy Policy informs you of updates in our corporate policies regarding the collection, use, storage, disclosure, and disposal of personal information we receive and collect from the Bank customers, payees, users, and any individual who communicate, raise inquiries and concerns, as well as transact with us through our authorized representatives, bank branches, official websites and platforms, and web-based applications and channels. This Privacy Policy shall be subject to changes in our policies and the law. We shall notify you of the changes by posting in our website and other means of communication for your information and reference.<br><br><br><strong>YOUR PRIVACY AND THE LAW</strong><br><br>Personal Information refers to any information, whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual. <strong>Sensitive Personal Information</strong> is any attribute of your personal information that can discriminate, qualify, or classify you such as your age, date of birth, marital status, government-issued identification numbers, account numbers, and financial information. <strong>Privileged Information</strong> is any and all forms of information which, under the Rules of Court and other pertinent laws, constitute privileged communication (i.e. lawyer-client, priest-confessor, doctor-patient).<br><br>Under the Data Privacy Act of 2012, you have the following rights: (1) <strong>Right to be informed</strong> – you may demand the details as to how your personal information is being processed or have been processed by the Bank, including the existence of automated decision-making and profiling systems; (2) <strong>Right to access</strong> – upon written request, you may demand reasonable access to your personal information, which may include the contents of your processed personal information, the manner of processing, sources where they were obtained, recipients and reason of disclosure; (3) <strong>Right to dispute</strong> – you may dispute inaccuracy or error in your personal information in the Bank systems through our contact center representatives; (4) <strong>Right to object</strong> – you may suspend, withdraw, and remove your personal information in certain further processing, upon demand, which include your right to opt-out to any commercial communication or advertising purposes from the Bank; (5)<strong> Right to data erasure</strong> – based on reasonable grounds, you have the right to suspend, withdraw or order blocking, removal or destruction of your personal data from the Bank’s filing system, without prejudice to the Bank continuous processing for commercial, operational, legal, and regulatory purposes; (6)<strong> Right to secure data portability</strong> – you have the right to obtain from the Bank your personal information in an electronic or structured format that is commonly used and allows for further use; (7) <strong>Right to be indemnified for damages</strong> – as data subject, you have every right to be indemnified for any damages sustained due to such violation of your right to privacy through inaccurate, false, unlawfully obtained or unauthorized use of your information; and (8)<strong> Right to file a complaint</strong> – you may file your complaint or any concerns with our Data Protection Office at 44/F UnionBank Plaza, Meralco Avenue corner Onyx Road, Pasig City, 1600, Metro Manila, Philippines or <a href="mailto:dpo@unionbankph.com" rel="alternate">dpo@unionbankph.com</a> and/or with the National Privacy Commission through <a href="http://www.privacy.gov.ph" rel="alternate">www.privacy.gov.ph</a><br><br><br><strong>COLLECTION AND USE OF YOUR PERSONAL INFORMATION</strong><br><br>UNIONBANK collects and processes your personal information only upon your express consent, which refers to any freely given, specific, informed indication of will, whereby you agree to the collection and processing of your personal, sensitive or privileged information. The Bank processes your personal information in accordance with the law, this Privacy Policy, Terms and Conditions, and other legal instruments which you may have entered into with the Bank.<br><br>As mandated by the Bangko Sentral ng Pilipinas, in the usual course of banking business activities, we&nbsp; collect the following personal information from you and about you, including, but not limited to: full legal name, gender, date of birth, nationality, civil status, permanent address, present address, tax identification number and other government-issued identification numbers, mobile number, home number, office contact details, company name, job position or rank, office address, source of funds, gross annual income, among others.<br><br>When you provide us with personal information by which you can be reasonably identified, you can be assured that your personal information will be used only in accordance with this Privacy Policy and the relevant Terms and Conditions governing your relationship with us. The Bank collects your personal information from the following sources: 1) your Personal Information Sheet; 2) information we collect about you when you contact us through our authorized representatives in bank branches and contact centers, email, mobile applications or services, and other online and mobile platforms; and) information we collect about you from public records and from other available sources authorized to disclose your information.<br><br>All the personal information we collect about you may be combined and processed to improve our products, services, and communications with you. The Bank ensures that only authorized employees and third party service providers, who have undertaken to satisfy our stringent corporate, legal, information security, and data privacy requirements, are allowed to process your personal information. Through your express consent, you agree that we may disclose your personal information to our third party service providers who perform business operations on our behalf or partners who collaborate with us to provide services to you and business partners that provide joint communications that we hope you find of interest.<br><br>By registering, signing in to, or using the Bank’s consent forms in our products, services, web platform and applications, you authorize and consent to the processing, sharing and/or transferring by the Bank of your Personal Information relating to your accounts with us for specified purposes which in all cases are in compliance with or pursuant to the Bank’s legal or contractual obligations:<br><br>1. Government regulatory agencies, credit information or investigation companies, financial institutions, credit bureaus, other banks, credit card companies, loyalty program partners, consumer reporting or reference agencies such as Credit Card Association of the Philippines, Bankers Association of the Philippines, Credit Information Corporation, and the Transunion Credit Bureau for the purpose of credit investigation, consumer reporting, or for reports of your credit history and account updates;<br>2. Third persons, correspondent banks, service providers and entities as the Bank deems necessary, to enable the Bank to service your account/s and to provide all the existing features of your account/s, the Bank’s products, services, facilities, and channels, and any future enhancements thereto or to assist the Bank in the processing of your data, including its collection, recording, organization, storage, management, protection, updating or modification, retrieval, consultation, use, consolidation, blocking, erasure, or destruction;<br>3. Third parties engaged by the Bank or by its subsidiaries or affiliates for the purpose of direct or indirect marketing to offer selected products and services which may interest you unless specifically instructed otherwise in writing;<br>4. Insurers, Insurance brokers, or providers of deposit or credit protection or protection against all kinds of risks;<br>5. Republic Act No. 9510 or the Credit Information Systems Act and its Implementing Rules and Regulations, which mandates the Bank to submit your credit data to the Credit Information Corporation (CIC) and share the same with other accessing entities and special accessing entities authorized by the CIC;<br>6. Bangko Sentral ng Pilipinas Circular No. 472 Series of 2005 as implemented by the Bureau of Internal Revenue Regulation No. 4-2005, which mandates the Bank to conduct random verification with the Bureau of Internal Revenue in order to establish authenticity of the Income Tax Return (ITR), accompanying financial statements and such other documents, information, and data;<br>7. National Internal Revenue Code, as amended, which mandates the Commissioner of Internal Revenue to inquire into the bank accounts of the following taxpayers: a) a decedent in order to determine his gross estate; b) a taxpayer who has filed an application to compromise his tax liability on the ground of financial incapacity; and c) a taxpayer, information on whose account is requested by a foreign tax authority;<br>8. Unexplained wealth under Section 8 of Republic Act No. 3019 or the Anti-Graft and Corrupt Practices Act;<br>9. Cases under Republic Act No. 9160 or the Anti-Money Laundering Act of 2001, when there is probable cause that the deposits or investments involved are in anyway related to an unlawful activity or a money laundering offense;<br>10. Regulatory authorities when such other persons or entities the Bank may deem as having authority or right to such disclosure of information as in the case of regulatory agencies, government or otherwise, which have required such disclosure from the Bank and when the circumstance so warrant;<br>11. Other related and applicable laws and regulations, subject to your right to information under the Data Privacy Act, which legally mandate the Bank to obtain and disclose your personal information to government regulatory agencies and consumer reporting or reference agencies, subject to your right to information under the Data Privacy Act.<br><br>Your personal information you provided to the Bank shall only be used for the purpose of service and product delivery you consented to, subject to the Terms and Conditions you agreed to. With your express consent, you may agree and authorize the Bank to share your personal information with private entities subject to mandatory disclosure pursuant to government and public functions. In all instances, we process and/or disclose your personal information in accordance with the Data Privacy Act and its Implementing Rules and Regulations.<br><br><br><strong>DATA STORAGE</strong><br><br>It is the policy of the Bank that all systems and storage medium or repositories that store customer data shall have completed the appropriate information security, risk, legal compliance, and privacy impact assessments. Your personal information shall only be stored in the Bank- managed environment. Physical copies of documents containing your personal information shall be stored in physical vaults in a sealed and secure manner. All systems or storage medium or repositories which are used and will be used in the future to store your personal information are and will be duly approved and registered with the Bangko Sentral ng Pilipinas and other regulatory agencies, as the case may be. <br><br><br><strong>DATA ACCESS AND RETRIEVAL</strong><br><br>Access refers to a user’s capacity to access or retrieve data stored within a database or other repository. Your personal information can only be accessed and retrieved by authorized personnel of the Bank and only pursuant to a legitimate business purpose, in accordance with the consent you have provided us. Remote connectivity to any Bank- managed environment is only through Virtual Private Network or Access Gateway technology solutions that will enable us to enforce security controls required to protect your personal information. <br><br><br><strong>DATA RETENTION</strong><br><br>Regulation and legitimate bank business purpose and policy define the data retention period of your personal information. Pursuant to Section X808 of the Manual of Regulations for Banks issued by Bangko Sentral ng Pilipinas, transaction records shall be maintained and safely stored for five (5) years from the date of transaction except where specific laws and/or regulations require a different retention period, in which case, the longer retention period is observed. Pursuant to the Bureau of Internal Revenue Regulation 17-2013, documents pertaining to your billing statements, which indicate taxable transactions shall be preserved for ten (10) years.<br><br>Further, the Bank keeps your personal information as long as it is necessary: a) for the fulfillment of the declared, specified, and legitimate purposes provided above, or when the processing relevant to the purposes has been terminated; b) for the establishment, exercise or defense of legal claims; or c) for legitimate business purposes, which shall be in accordance with the standards of the banking industry. <br><br><br><strong>DATA DISPOSAL</strong><br><br>The Bank has established mechanisms for secure disposal of data from the Bank’s systems after the data is no longer required by the business for any legitimate purpose and activity. After the defined retention periods, the Bank shall dispose your personal information in a secure manner in order to prevent further processing, unauthorized access, or disclosure to any other party. <br><br><br><strong>PERSONAL DATA BREACH MANAGEMENT</strong><br><br>Personal Data Breach refers to a breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to, personal data transmitted, stored, or otherwise processed. A Personal Data Breach shall be subject to notification requirements under the following conditions:<br>1. Compromised data involves personal data that may be used to enable identity fraud;<br>2. There is reason to believe that the information may have been acquired by an unauthorized person; and<br>3. The unauthorized acquisition is likely to give rise to a real risk of serious harm to any affected data subject.<br><br>The Bank shall notify the National Privacy Commission and affected Customers in case of breach within 72 hours upon knowledge of or reasonable belief by the Bank or our third party processor that a personal data breach has occurred. If such event occurs, we shall notify you, through a secure means of communication, of the nature of the breach, your personal information possibly compromised, measures taken to address the breach and reduce negative consequences, contact details of government authorities concerned and our Data Protection Office who can assist you in mitigating the possible ramifications that can compromise you and your right to privacy.<br><br><br>For inquiries, complaints, and other concerns, you may address them in writing to the Bank’s Data Protection Officer, Ms. Maria Francesca R. Montes <a href="mailto:dpo@unionbankph.com" rel="alternate">dpo@unionbankph.com</a><br><br><br><br></p> 
+		
+		
+		
+	
+	</div>
+					</div>
+					
+					<div class="col-lg-3 right-col hidden-print">
+						
+
+<div class="custom">
+	<div class="col-lg-12 col-md-6 col-sm-6 col-xs-12 box-gray" style="background-image: linear-gradient(to bottom, #FFFFFF, #F0F0F0); border: 1px solid #DFDFDF; border-radius: 4px; padding: 0; margin-bottom: 20px;">
+<div class="col-lg-4 col-md-3 col-sm-3 col-xs-3" style="padding: 25px 0px 5px 10px;"><img src="/images/articles/privacy/icon-bsp.png" alt="icon-bsp" width="70" height="69" class="img-responsive"></div>
+<div class="col-lg-8 col-md-9 col-sm-9 col-xs-9" style="padding: 10px;">
+<h4 style="margin-bottom: 0;">BSP Identity Theft Advisory</h4>
+<p style="font-size: 11px;">Protect yourself from identity theft</p>
+<div class="btn btn-default btn-primary col-lg-12 col-md-12 col-sm-12 col-xs-12">Learn here how</div>
+</div>
+</div></div>
+
+
+<div class="custom">
+	<div class="col-lg-12 col-md-6 col-sm-6 col-xs-12 box-gray" style="background-image: linear-gradient(to bottom, #FFFFFF, #F0F0F0); border: 1px solid #DFDFDF; border-radius: 4px; padding: 0; margin-bottom: 20px;">
+<div class="col-lg-4 col-md-3 col-sm-3 col-xs-3" style="padding: 25px 0px 5px 10px;"><img src="/images/articles/privacy/icon-secure.png" alt="icon-secure" width="79" height="73" class="img-responsive"></div>
+<div class="col-lg-8 col-md-9 col-sm-9 col-xs-9" style="padding: 10px;">
+<h4 style="margin-bottom: 0;">Ways on How to Secure your Transaction</h4>
+<p style="font-size: 11px;">Learn how to secure your transactions online</p>
+<div class="btn btn-default btn-primary col-lg-12 col-md-12 col-sm-12 col-xs-12">Learn more</div>
+</div>
+</div></div>
+
+
+<div class="custom">
+	<div class="col-lg-12 col-md-6 col-sm-6 col-xs-12 box-gray" style="background-image: linear-gradient(to bottom, #FFFFFF, #F0F0F0); border: 1px solid #DFDFDF; border-radius: 4px; padding: 0; margin-bottom: 20px;">
+<div class="col-lg-4 col-md-3 col-sm-3 col-xs-3" style="padding: 25px 5px 5px 5px;"><img src="/images/icons/icon-lock.png" alt="" class="img-responsive"></div>
+<div class="col-lg-8 col-md-9 col-sm-9 col-xs-9" style="padding: 10px;">
+<h4 style="margin-bottom: 0;">Login to your UnionBank Account SAFE and SECURE</h4>
+<p style="font-size: 11px;">No UnionBank account yet? <br><a href="/overview">Get started here</a></p>
+<a href="https://ebanking.unionbankph.com/personal" target="_blank" class="btn btn-default btn-primary col-lg-12 col-md-12 col-sm-12 col-xs-12">Sign in</a></div>
+</div>
+<div class="clearfix">&nbsp;</div></div>
+
+					</div>
+								
+			  </div>
+		  	</div><!--/.row-->
+		</div><!-- /.content -->
+	
+</div><!-- /.container -->
+    	
+    
+  	 <!-- START: Bottom Fold -->	 
+  	 <div id="sitemap" class="hidden-print">
+        <div class="bottomfold">
+        		<div class="container">
+        			<!-- Bottom Content -->
+                  <div class="page-bottom">
+                   	
+                   </div><!-- /bottom -->
+        		
+        		</div><!-- /container -->
+        	
+        </div><!-- /bottomfold -->
+  	 </div><!-- /#sitemap -->
+     
+      	
+    	<!-- START: Footer -->
+    	<div class="footer hidden-print" style="height:100% !important;">
+    		<div class="container">
+    			<div class="footer-bg" style="height:100%;">
+
+					<div class="copyright" style="font-weight:normal; float;left;  max-width:70% !important; padding-top:10px !important; height:100%;">  
+						<!--� Copyright 2018 UnionBank of the Philippines. All Rights Reserved.-->
+						Union Bank of the Philippines is an entity regulated by the Bangko Sentral ng Pilipinas. For inquiries and comments, please contact our 24-Hour Customer Service at (+632) 841-8600 for Metro Manila; 1-800-1888-2277 for PLDT domestic toll-free calls; and (IAC) + 800-8277-2273 for international toll-free calls, or send us an email at customer.service@unionbankph.com.  
+						<br><br>
+						You may also contact the BSP-Financial Consumer Protection Department (FCPD) at (02) 708-7087 or consumeraffairs@bsp.gov.ph. 
+
+					</div><!-- /.copyright -->
+					<div style="float:right; font-size:11px;  max-width:30% !important; padding-top:10px !important;">
+						Union Bank of the Philippines is a proud member of <br><img src="/templates/ubp_20/img/bancnet.png" style="width:100%; max-width:150px;">
+					</div>
+
+             
+			 
+			 
+			 
+    			</div><!-- /.footer-bg-->
+    		</div><!--/.container-->
+    	</div><!--/.footer-->
+
+    <!-- /page -->   
+
+<!--	<a  class="adscroll" href="/surveys/reputation-survey-primary" style="font-family:zineserifdis-regularromanRg,Georgia,'Times New Roman',Times,serif" ><font color="#FFFFFF" size="+2"><marquee style="color: #FA8605; background:#0e0059" >YOU MAKE DA DIFF FOR US! Help us with this survey and receive a token. </marquee></font></a>-->
+	
+<div style="display:none"> 
+<div id="ebankingchrome">
+<!-- 	 
+	 <a  class="adscroll" href="/surveys/reputation-survey-primary" style="font-family:zineserifdis-regularromanRg,Georgia,'Times New Roman',Times,serif" ><font color="#FFFFFF" size="+2"><marquee style="color: #FA8605; background:#0e0059" >YOU MAKE DA DIFF FOR US! Help us with this survey and receive a token. </marquee></font></a>
+-->
+<div class="col-xs-6"><span class="img-circle number_circle">  1  </span><span> Make sure that the website address appearing on your browser starts with <strong>https://ebanking.unionbankph.com/</strong> and a <strong>padlock symbol</strong> (🔒) beside it.�If you see something different or there is no address appearing, please do not proceed and report to us immediately.</span> <br> <br>
+<span class="img-circle number_circle">  2  </span> You can only type in your password or PIN using the <strong>virtual keyboard.</strong>  <br> <br>
+<span class="img-circle number_circle">  3  </span>   Keep�your device <strong>virus-free</strong>. Make sure you have an updated�anti-virus software. <br><br>
+<span class="img-circle number_circle">  4  </span>  To secure your account, we strongly advise you to avoid downloading your banking documents using a public computer<br>
+</div>
+<div class="col-xs-6">
+<img class="img-responsive" src="/images/stories/urlchrome.png"><br><br><br><img class="img-responsive" src="/images/stories/keypad.jpg">
+</div>
+<div class="col-xs-12"><br>For more information, please visit the�<a href="/privacy-and-security/safe-surfing-guidelines">Safe Surfing Guidelines</a>�page or call our 24-hour Customer Support at (02)�8418600. </div>
+<div class="clearfix"></div>
+</div>
+
+<div id="ebankingsafari">
+<!-- 	 
+	 <a  class="adscroll" href="/surveys/reputation-survey-primary" style="font-family:zineserifdis-regularromanRg,Georgia,'Times New Roman',Times,serif" ><font color="#FFFFFF" size="+2"><marquee style="color: #FA8605; background:#0e0059" >YOU MAKE DA DIFF FOR US! Help us with this survey and receive a token. </marquee></font></a>
+-->
+<div class="col-xs-6"><span class="img-circle number_circle">  1  </span><span> Make sure that the website address appearing on your browser is <strong style="color:#14c578;">Union Bank of the Philippines</strong> and has a <strong>padlock symbol</strong> (🔒) beside it. If you see something different or there is no address appearing, please do not proceed and report to us immediately.</span> <br> <br>
+<span class="img-circle number_circle">  2  </span> You can only type in your password or PIN using the <strong>virtual keyboard.</strong>  <br> <br>
+<span class="img-circle number_circle">  3  </span>   Keep�your device <strong>virus-free</strong>. Make sure you have an updated�anti-virus software. <br><br>
+<span class="img-circle number_circle">  4  </span>  To secure your account, we strongly advise you to avoid downloading your banking documents using a public computer<br>
+</div>
+<div class="col-xs-6">
+<img class="img-responsive" src="/images/stories/urlchrome.png"><br><br><br><img class="img-responsive" src="/images/stories/keypad.jpg">
+</div>
+<div class="col-xs-12"><br>For more information, please visit the�<a href="/privacy-and-security/safe-surfing-guidelines">Safe Surfing Guidelines</a>�page or call our 24-hour Customer Support at (02)�8418600. </div>
+<div class="clearfix"></div>
+</div>
+
+<div id="eonchrome">
+<!-- 	 
+	 <a  class="adscroll" href="/surveys/reputation-survey-primary" style="font-family:zineserifdis-regularromanRg,Georgia,'Times New Roman',Times,serif" ><font color="#FFFFFF" size="+2"><marquee style="color: #FA8605; background:#0e0059" >YOU MAKE DA DIFF FOR US! Help us with this survey and receive a token. </marquee></font></a>
+-->
+<div class="col-xs-6"><span class="img-circle number_circle">  1  </span><span> Make sure that the website address appearing on your browser starts with <strong>https://ebanking.unionbankph.com</strong> and a <strong>padlock symbol</strong> (🔒) beside it.�If you see something different or there is no address appearing, please do not proceed and report to us immediately.</span> <br> <br>
+<span class="img-circle number_circle">  2  </span> You can only type in your password or PIN using the <strong>virtual keyboard.</strong>  <br> <br>
+<span class="img-circle number_circle">  3  </span>   Keep�your device <strong>virus-free</strong>. Make sure you have an updated�anti-virus software.  <br><br>
+<span class="img-circle number_circle">  4  </span>  To secure your account, we strongly advise you to avoid downloading your banking documents using a public computer<br>
+</div>
+<div class="col-xs-6">
+<img class="img-responsive" src="/images/stories/urlchrome.png"><br><br><br><img class="img-responsive" src="/images/stories/keypad.jpg">
+</div>
+<div class="col-xs-12"><br>For more information, please visit the�<a href="/privacy-and-security/safe-surfing-guidelines">Safe Surfing Guidelines</a>�page or call our 24-hour Customer Support at (02)�8418600. </div>
+<div class="clearfix"></div>
+</div>
+
+<div id="eonsafari">
+<!-- 	 
+	 <a  class="adscroll" href="/surveys/reputation-survey-primary" style="font-family:zineserifdis-regularromanRg,Georgia,'Times New Roman',Times,serif" ><font color="#FFFFFF" size="+2"><marquee style="color: #FA8605; background:#0e0059" >YOU MAKE DA DIFF FOR US! Help us with this survey and receive a token. </marquee></font></a>
+-->
+<div class="col-xs-6"><span class="img-circle number_circle">  1  </span><span> Make sure that the website address appearing on your browser is <strong style="color:#14c578;">Union Bank of the Philippines</strong> and has a <strong>padlock symbol</strong> (🔒) beside it. If you see something different or there is no address appearing, please do not proceed and report to us immediately.</span> <br> <br>
+<span class="img-circle number_circle">  2  </span> You can only type in your password or PIN using the <strong>virtual keyboard.</strong>  <br> <br>
+<span class="img-circle number_circle">  3  </span>   Keep�your device <strong>virus-free</strong>. Make sure you have an updated�anti-virus software.  <br><br>
+<span class="img-circle number_circle">  4  </span>  To secure your account, we strongly advise you to avoid downloading your banking documents using a public computer<br>
+</div>
+<div class="col-xs-6">
+<img class="img-responsive" src="/images/stories/urlchrome.png"><br><br><br><img class="img-responsive" src="/images/stories/keypad.jpg">
+</div>
+<div class="col-xs-12"><br>For more information, please visit the�<a href="/privacy-and-security/safe-surfing-guidelines">Safe Surfing Guidelines</a>�page or call our 24-hour Customer Support at (02)�8418600. </div>
+<div class="clearfix"></div>
+</div>
+
+<div id="corpchrome">
+<!-- 	 
+	 <a  class="adscroll" href="/surveys/reputation-survey-primary" style="font-family:zineserifdis-regularromanRg,Georgia,'Times New Roman',Times,serif" ><font color="#FFFFFF" size="+2"><marquee style="color: #FA8605; background:#0e0059" >YOU MAKE DA DIFF FOR US! Help us with this survey and receive a token. </marquee></font></a>
+-->
+<div class="col-xs-6"><span class="img-circle number_circle">  1  </span><span> Make sure that the website address appearing on your browser starts with <strong>https://ebanking.unionbankph.com</strong> and a <strong>padlock symbol</strong> (🔒) beside it.�If you see something different or there is no address appearing, please do not proceed and report to us immediately.</span> <br> <br>
+<span class="img-circle number_circle">  2  </span>   Keep�your device <strong>virus-free</strong>. Make sure you have an updated�anti-virus software.  <br><br>
+<span class="img-circle number_circle">  3  </span>  To secure your account, we strongly advise you to avoid downloading your banking documents using a public computer<br>
+</div>
+<div class="col-xs-6">
+<img class="img-responsive" src="/images/stories/urlchrome.png"><br><br><br><img class="img-responsive" src="/images/stories/keypad.jpg">
+</div>
+<div class="col-xs-12"><br>For more information, please visit the�<a href="/privacy-and-security/safe-surfing-guidelines">Safe Surfing Guidelines</a>�page or call our 24-hour Customer Support at (02)�8418600. </div>
+<div class="clearfix"></div>
+
+</div>
+
+<div id="corpsafari">
+<!-- 	 
+	 <a  class="adscroll" href="/surveys/reputation-survey-primary" style="font-family:zineserifdis-regularromanRg,Georgia,'Times New Roman',Times,serif" ><font color="#FFFFFF" size="+2"><marquee style="color: #FA8605; background:#0e0059" >YOU MAKE DA DIFF FOR US! Help us with this survey and receive a token. </marquee></font></a>
+-->
+<div class="col-xs-6"><span class="img-circle number_circle">  1  </span><span> Make sure that the website address appearing on your browser is <strong style="color:#14c578;">Union Bank of the Philippines</strong> and has a <strong>padlock symbol</strong> (🔒) beside it. If you see something different or there is no address appearing, please do not proceed and report to us immediately.</span> <br> <br>
+<span class="img-circle number_circle">  2  </span>   Keep�your device <strong>virus-free</strong>. Make sure you have an updated�anti-virus software.  <br><br>
+<span class="img-circle number_circle">  3  </span>  To secure your account, we strongly advise you to avoid downloading your banking documents using a public computer<br>
+
+</div>
+<div class="col-xs-6">
+<img class="img-responsive" src="/images/stories/urlchrome.png"><br><br><br><img class="img-responsive" src="/images/stories/keypad.jpg">
+</div>
+<div class="col-xs-12"><br>For more information, please visit the�<a href="/privacy-and-security/safe-surfing-guidelines">Safe Surfing Guidelines</a>�page or call our 24-hour Customer Support at (02)�8418600. </div>
+<div class="clearfix"></div>
+
+</div>
+
+<div id="blchrome">
+<!-- 	 
+	 <a  class="adscroll" href="/surveys/reputation-survey-primary" style="font-family:zineserifdis-regularromanRg,Georgia,'Times New Roman',Times,serif" ><font color="#FFFFFF" size="+2"><marquee style="color: #FA8605; background:#0e0059" >YOU MAKE DA DIFF FOR US! Help us with this survey and receive a token. </marquee></font></a>
+-->
+<div class="col-xs-6"><span class="img-circle number_circle">  1  </span><span> Make sure that the website address appearing on your browser starts with <strong>https://ebanking.unionbankph.com</strong> and a <strong>padlock symbol</strong> (🔒) beside it.�If you see something different or there is no address appearing, please do not proceed and report to us immediately.</span> <br> <br>
+<span class="img-circle number_circle">  2  </span>   Keep�your device <strong>virus-free</strong>. Make sure you have an updated�anti-virus software. <br><br>
+<span class="img-circle number_circle">  3  </span>  To secure your account, we strongly advise you to avoid downloading your banking documents using a public computer<br>
+</div>
+<div class="col-xs-6">
+<img class="img-responsive" src="/images/stories/urlchrome.png"><br><br><br><img class="img-responsive" src="/images/stories/keypad.jpg">
+</div>
+<div class="col-xs-12"><br>For more information, please visit the�<a href="/privacy-and-security/safe-surfing-guidelines">Safe Surfing Guidelines</a>�page or call our 24-hour Customer Support at (02)�8418600. </div>
+<div class="clearfix"></div>
+ 
+</div>
+
+<div id="blsafari">
+<!-- 	 
+	 <a  class="adscroll" href="/surveys/reputation-survey-primary" style="font-family:zineserifdis-regularromanRg,Georgia,'Times New Roman',Times,serif" ><font color="#FFFFFF" size="+2"><marquee style="color: #FA8605; background:#0e0059" >YOU MAKE DA DIFF FOR US! Help us with this survey and receive a token. </marquee></font></a>
+-->
+<div class="col-xs-6"><span class="img-circle number_circle">  1  </span><span> Make sure that the website address appearing on your browser is <strong style="color:#14c578;">Union Bank of the Philippines</strong> and has a <strong>padlock symbol</strong> (🔒) beside it. If you see something different or there is no address appearing, please do not proceed and report to us immediately.</span> <br> <br>
+<span class="img-circle number_circle">  2  </span>   Keep�your device <strong>virus-free</strong>. Make sure you have an updated�anti-virus software.  <br><br>
+<span class="img-circle number_circle">  3  </span>  To secure your account, we strongly advise you to avoid downloading your banking documents using a public computer<br>
+</div>
+<div class="col-xs-6">
+<img class="img-responsive" src="/images/stories/urlchrome.png"><br><br><br><img class="img-responsive" src="/images/stories/keypad.jpg">
+</div>
+<div class="col-xs-12"><br>For more information, please visit the�<a href="/privacy-and-security/safe-surfing-guidelines">Safe Surfing Guidelines</a>�page or call our 24-hour Customer Support at (02)�8418600. </div>
+<div class="clearfix"></div>
+
+</div>
+</div>
+ <!-- Google Analytics -->
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-55686601-1', 'auto');
+    ga('send', 'pageview');
+
+    /**
+    * Function that tracks a click on an outbound link in Google Analytics.
+    * This function takes a valid URL string as an argument, and uses that URL string
+    * as the event label.
+    */
+    var trackOutboundLink = function(url) {
+       ga('send', 'event', 'outbound', 'click', url, {'hitCallback':
+         function () {
+         document.location = url;
+         }
+       });
+    }
+
+  </script>
+  <!-- BEGIN EFFECTIVE MEASURE CODE -->
+  <!-- COPYRIGHT EFFECTIVE MEASURE -->
+ <script type="text/javascript">
+    (function() {
+      var em = document.createElement('script'); em.type = 'text/javascript'; em.async = true;
+      em.src = ('https:' == document.location.protocol ? 'https://ph-ssl' : 'http://ph-cdn') + '.effectivemeasure.net/em.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(em, s);
+    })();
+  </script>
+  <noscript>
+    <img src="https://ph.effectivemeasure.net/em_image" alt="" style="position:absolute; left:-5px;" />
+  </noscript>
+  <!--END EFFECTIVE MEASURE CODE -->
+  
+
+ 
+  
+
+</body></html>
