@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nodeknockout.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627101701id_/https%3A//www.nodeknockout.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nodeknockout.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227175409id_/https%3A//www.nodeknockout.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Node Knockout
 
@@ -64,4 +64,4 @@ Although most changes are likely to be minor, Hackbit may change its Privacy Po
 
 ### Questions
 
-If you have question about this Privacy Policy, please [contact us](https://web.archive.org/cdn-cgi/l/email-protection#ed8588818182ad838289888683828e86829899c38e8280).
+If you have question about this Privacy Policy, please [contact us](mailto:hello@nodeknockout.com).
