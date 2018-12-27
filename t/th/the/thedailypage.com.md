@@ -1,23 +1,27 @@
-> *The following text is extracted and transformed from the thedailypage.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626134153id_/http%3A//www.thedailypage.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedailypage.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227183904id_/https%3A//isthmus.com/privacy-policy) for the most accurate reproduction.*
 
-# Isthmus | The Daily Page -- Privacy Policy
+# Privacy Policy - Isthmus | Madison, Wisconsin
 
-The Daily Page, a product of Isthmus Publishing, understands that privacy is important to our readers and website users. Accordingly, we have assembled the following privacy policy. If you have any questions or concerns, please contact us at [tdp@isthmus.com](mailto:tdp@isthmus.com).
+We collect minimum information about your visit to our web sites. Facebook, Twitter and other third parties may be aware that you visted us. We cannot control that, but there is very little risk.
 
-The Daily Page's goal is to provide readers with the information they want and need. To do that, we may gather some general information about those who access our site. We may place a "cookie" in the browser files of a user's computer, which will enable us to determine the user's operating system, browser type and version, ISP, top-level domain — such as .com, .edu, etc. — and other such general information.
+## Knowing who visits
 
-Users have the ability to configure their browsers to refuse acceptance of cookies, which are pieces of information that sites transfer to a user's hard drive for record-keeping purposes during each visit. Cookies — which do not contain any personally identifying information — are a standard industry technology. A cookie cannot pass on a computer virus, or even capture your email address.
+We watch visitors to our website by using Google Analytics. Analytics simply records which pages you visit, what web site you were viewing before you arrived at our site, and some information about your computer hardware, such as screen size and operating system. All of this information is anonymous, so there is no personally identifiable information. We use this data to make a better site for our readers.
 
-We will only collect personally identifying information that users voluntarily provide to us in registering for services (such as placing classified adverstisements), filling out surveys and entering contests. If you consent at the time you provide us with your information, we may also use that personal information editorially — to improve and customize our content — or we may employ volunteered personal information for marketing and promotional purposes. Isthmus and The Daily Page will limit internal access of user information to employees responsible for conducting business with our customers.
+You can learn more about [Google Analytics](http://www.google.com/analytics/learn/privacy.html) or [opt out](https://tools.google.com/dlpage/gaoptout).
 
-Web surfers should be aware that by voluntarily disclosing personal information on The Daily Page's — or any other site's — bulletin boards, those details can easily be collected and employed by third parties. Children should get their parents' permission before sending out any personal information, or making any purchases over the Internet.
+## Social Media
 
-The Daily Page provides links to several external websites. We cannot control and are not responsible for the privacy practices or content of these websites.
+Services such as Facebook and Twitter have features such as the “Like” and “Tweet” buttons. We do not control the code these services supply nor do we have access to any data they might collect by your clicking on one of their buttons.
 
-**Forum**  
-Personal information disclosed during the process of registering as a user of The Daily Page Forum is considered private by Isthmus Publishing and The Daily Page. However, information posted to the Forum discussion boards is public information and can easily be collected by third parties. Users should exercise discretion when registering and posting to Forum. Children should get their parent's permission before posting to Forum. Isthmus Publishing reserves the right to use Forum posts to market and publicize The Daily Page.
+## Article Comments
 
-**Newsletters**  
-Isthmus tracks user traffic patterns from our newsletters. However, we do not correlate this information with data about individual users although we do break down overall usage statistics across all of our users and tally domain names, browser types, and MIME types which is obtainable from the browser string.
+Some of our sites use a system to comment on article content that is strictly internal. It requires an email address to make a comment. Your email address is simply to prove that you are not a bot and will never be used outside this functionality or be sold to a third party.
 
-| 
+## Emails
+
+Where your email address may be used is when you sign up for one of our giveaways and opt in to receive communication from us, when you attend one of our events and fill out a form giving us permission to contact you, when you sign up on one of our websites to receive news and information from us, or another method where opting in to receiving emails from us is obvious. In which case: You will always have the ability to opt out of our email newsletters at any time and we will never sell your personal information to any third parties.
+
+## Privacy Policy Updates
+
+We may occasionally update this policy. Please check back here for the latest version. If you have any questions, please contact us [via email](mailto:isthmus@isthmus.com?subject=Isthmus%20Privacy%20Policy).
