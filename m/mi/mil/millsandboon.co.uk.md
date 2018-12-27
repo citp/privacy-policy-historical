@@ -1,77 +1,23 @@
-> *The following text is extracted and transformed from the millsandboon.co.uk privacy policy that was archived on 2017-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170906160832id_/https%3A//www.millsandboon.co.uk/np/Content/ContentPage/12) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the millsandboon.co.uk privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227173406id_/https%3A//www.harpercollins.co.uk/corporate/privacy-policy) for the most accurate reproduction.*
 
-# Romance, fiction books and ebooks from Mills & Boon
+# Privacy Policy - HCUK Corporate
 
-HarperCollins Publishers Ltd and www.millsandboon.co.uk are totally committed to the very highest level of customer service and this includes protecting your privacy and treating your personal information with the utmost confidentiality. We use the information we collect about you to process orders and to provide an individual and personalised experience and shopping area for you at www.millsandboon.co.uk.
+##  2\. INFORMATION OBTAINED BY AUTOMATED MEANS THROUGH OUR SERVICES
 
-## Information we collect and why?
+Our Services use cookies to function effectively.  A “cookie” is a file that websites send to a visitor’s computer or other Internet-connected device to uniquely identify the visitor’s browser or to store information or settings in the browser.  A “web beacon” also known as an Internet tag, pixel tag or clear GIF, links web pages to web servers and their cookies and may be used to transmit information collected through cookies back to a web server. 
 
-\- Each order you make with us requires that you provide us with your name, e-mail address, delivery address, credit or debit card number and the card's expiry date. This permits us to process and fulfil your orders and to notify you of the status of your order.
+We may obtain certain information through our Services by automated means, such as cookies (including HTTP, HTML5 and Flash cookies), web beacons, web server logs, JavaScript and similar technologies, including technologies designed to obtain information regarding your use of our Services (collectively “cookies”).  Some cookies are essential to offer our Services, such as authentication services when you sign up or log in to use our Services.
 
-\- We also ask for your telephone number which enables us to contact you urgently if there are any problems with your order.
+The information we obtain through cookies may include IP address, mobile device advertising ID, browser characteristics, device characteristics, operating system, language preferences, referring URLs, logs on actions taken on our Services such as content on which you may click while using the Services, and dates and times you access or use the Services.  In connection with our mobile apps, we may use similar automated means and also may obtain your phone number and details about your mobile carrier. 
 
-\- When you enter a contest or other promotional feature, we may ask for your name, address and e-mail address so we can administer the contest and notify winners.
+The information we obtain through cookies will tell us, for example, if you have used our Services before, from what country and what contents you have visited. It will also tell us whether you have opened an email we sent to you, what search queries you may have run and what advertisements you may have seen on our Services or on third-party websites and apps. 
 
-\- We personalise your shopping service by using your purchases to shape our recommendations about other books that might be of interest to you.
+Your browser may tell you how to be notified when you receive certain types of cookies or how to restrict or disable certain types of cookies.  You also may be able to delete your Flash cookies or adjust your Flash cookie settings by visiting the Adobe Flash [Website Storage Settings Panel](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html) and [Global Storage Settings Panel. ](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager03.html) Please note, however, that without cookies you may not be able to use all of the features of our Services.  Your device settings also may allow you to prohibit mobile app platforms (such as Apple and Google) from sharing certain information obtained by automated means with us through our apps or other app developers.
 
-\- We also monitor customer traffic patterns and site usage to help us develop the design and layout of our site.
+Our Services may use third party analytics and advertising cookies, for example, to help create reports and statistics on the performance of the Services and to be able to present you with content tailored to your interests.  The information collected through the use of analytics may include, for example, your IP address, the website from which you visited us, the type of device you used.  You can opt out from the use of Google Analytics by downloading and installing the [Google Analytics Opt-out Browser Add On](https://tools.google.com/dlpage/gaoptout) 
 
-\- We may also use the information we collect to occasionally notify you about important functionality changes to the Web site, new services and special offers that we think you'll find useful.
+We and our third-party service providers may use information collected through automated means including cookies, web beacons, web server logs, JavaScript and similar technologies for purposes such as (1) customizing our users’ visits to and use of our Services, (2) delivering content (including advertising) tailored to our users’ interests and the manner in which our users use our Services, and (3) managing our Services and other aspects of our business. 
 
-\- We may also approach you (ourselves or via a third party) to ask you questions to help us improve our websites and the goods and services we offer e.g. by asking you to participate in a survey about topical issues conducted by us or trusted partners or third parties. We will always let you know before you participate in any survey how any information you provide will be used.
+In addition, if you register with us through or connect your account with us to a third-party social media network (such as Facebook or Twitter), we may obtain certain information about you from the relevant social media network, such as your user ID and/or user name associated with that social media network, the information contained in your public profile on the social media network and friends lists.  The specific information we obtain depends on your privacy settings on the applicable social media network. 
 
-If you would rather not receive this information, please send an e-mail to [csmillsandboon@harpercollins.co.uk](mailto:%20csmillsandboon@harpercollins.co.uk)
-
-## What do we do to protect your information?
-
-When you place orders or access your account information, we offer the use of a secure server. The secure server software (SSL) encrypts all information you input before it is sent to us. Furthermore, as required by the UK Data Protection Acts of 1984 and 1998, we follow strict security procedures in the storage and disclosure of information which you have given us, to prevent unauthorised access. Our security procedures mean that we may occasionally request proof of identity before we are able to disclose sensitive information to you.
-
-## Apart from being sweet treats, what do you need to know about "cookies"?
-
-Cookies are small pieces of information that are stored by your browser on your computer's hard drive. Our cookies do not contain any personally identifying information, but they do enable us to relate your use of our site to information that you have specifically and knowingly provided to us.
-
-  
-Most browsers automatically accept cookies, but you can usually change your browser to prevent that. Even without a cookie, you can still use most of the features on our site, including placing items in your shopping basket and purchasing them.
-
-**Opt in / Opt out**
-
-As a customer of Mills & Boon, you can receive our free email messages and get exclusive, tailored product offers and deals based on your preferences, browsing behaviour and the purchases you make from Mills & Boon.
-
-If you do not wish to receive these emails you have the option to opt out at any time by clicking on the unsubscribe link found at the bottom of our emails and/or send an e-mail message to [csmillsandboon@harpercollins.co.uk](mailto:%20csmillsandboon@harpercollins.co.uk) to change your preferences. Remember to change your preferences for each of the e-mail accounts you have given us.
-
-## Will we disclose the information we collect to outside parties?
-
-www.millsandboon.co.uk may choose to sell, trade or rent your personal information to trustworthy third parties, but should you wish us not to do so then send an e-mail message to [csmillsandboon@harpercollins.co.uk](mailto:%20csmillsandboon@harpercollins.co.uk). (If you use more than one e-mail address to access us, send this message from each e-mail account you use.) Also, we may provide aggregate statistics about our customers, sales, traffic patterns and related site information to reputable third-party vendors, but these statistics will not include any personal identifying information.
-
-The data that we collect from you may be transferred to, and stored on, servers in a country outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, maintaining our sites, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. All information you provide to us is stored on secure servers. Any payment transactions will be encrypted using SSL technology. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone. Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access. We may also share your data with third-parties who are providing us with services to help with our business operations and provide the websites to you. Where a lawful request is made to us we also reserve the right to access and disclose your personal information to governments, law enforcement agencies or other parties whose request we reasonably consider to be justified to comply with any law.
-
-## In Summary
-
-We are committed to protecting your privacy. We use the information we collect on the site to make your time and interest inwww.millsandboon.co.uk possible and to enhance your overall experience at www.millsandboon.co.uk.
-
-## Your Consent
-
-By using our site, you consent to the collection and use of this information by www.millsandboon.co.uk. If we decide to make any changes to this privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it and under what circumstances we disclose it.
-
-## Our Company Details:
-
-Harper Collins Publishers Ltd
-
-Registered office:
-
-Westerhill Road
-
-Bishopbriggs
-
-Glasgow
-
-G64 2QT
-
-Registered Number: SC027389
-
-Phone:
-
-Non-UK residents: +44 844 844 1351  
-UK residents only: 0844 844 1351
-
-ROI: 01 278 2062
+The providers of third-party apps, tools, widgets and plug-ins on our Services, such as social media sharing tools, also may use automated means to collect information regarding your interactions with these features.  This information is collected directly by the providers of those features and is subject to the privacy policies or notices of those providers. The Company is not responsible for those providers’ information practices.
