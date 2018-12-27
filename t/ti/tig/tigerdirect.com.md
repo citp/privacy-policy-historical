@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the tigerdirect.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605224542id_/http%3A//www.tigerdirect.com/sectors/aboutus/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigerdirect.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227124816id_/http%3A//www.tigerdirect.com/sectors/aboutus/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy at TigerDirect.com
 
 **TigerDirect Business Privacy Policy**
 
+**Effective Date: February 17th, 2016** ****  
 **Last Updated: April 16, 2018** ****
 
 We at Tiger Direct Business ("TigerDirect", "we" or "us") understand that making purchases online involves a great deal of trust on your part. We take that trust seriously and hope this privacy policy (the "Policy") is to help you understand what kind of Personal Information we may gather about you when you visit the TigerDirect Business Web site located at www.TigerDirect.com and related sub- domains (the Site), how we may use the Personal Information you have provided to us, to whom we disclose such Personal Information, and how you can correct or update the Personal Information you have provided us.
