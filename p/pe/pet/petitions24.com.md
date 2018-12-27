@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petitions24.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627010527id_/https%3A//www.petitions24.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petitions24.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227083620id_/https%3A//www.petitions24.com/privacy.php) for the most accurate reproduction.*
 
 # Petitions24.com
 
@@ -13,16 +13,17 @@
   * Browser name and version number 
   * Operating system name and version number 
   * Screen resolution 
-  * Device fingerprint (hash calculated of the information that your browser provides us) 
   * Pages you view 
   * Petitions you view
   * Petitions you sign 
   * Petitions you create 
+  * Petitions you share 
   * Announcements you publish 
   * Purchases you make 
   * Payments you make 
   * Comments you write 
   * Messages you send 
+  * Ads you view and click 
   * Links you click
 
 
@@ -30,7 +31,7 @@
 ## How do you collect this information?
 
   * When you create or edit an user account.
-  * When you view, sign and create petitions, comments and announcements.
+  * When you view, sign, share and create petitions, comments and announcements.
   * When you view pages
   * When you click links
   * When you order extra visibility for a petition.
@@ -103,6 +104,6 @@ You can read more about how Google collects and protects data by clicking [here]
 ## Company info
 
 Petitions24 Oy  
-Torikatu 16 B 22  
+Torikatu 16 B 23  
 90100 Oulu  
 Finland 
