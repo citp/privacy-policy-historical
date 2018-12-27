@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truelocal.com.au privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614115055id_/https%3A//www.truelocal.com.au/cms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truelocal.com.au privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227131515id_/https%3A//www.truelocal.com.au/cms/privacy-policy) for the most accurate reproduction.*
 
 # True Local Privacy Policy | True Local
 
