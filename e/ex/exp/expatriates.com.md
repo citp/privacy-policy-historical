@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expatriates.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627030710id_/https%3A//www.expatriates.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expatriates.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227103613id_/https%3A//www.expatriates.com/html/privacy.html) for the most accurate reproduction.*
 
 # expatriates.com - Privacy Statement
 
@@ -60,7 +60,7 @@ If you do not want to see advertising, we recommend you install [ad blocking sof
 
 #### Measuring Site Usage
 
-We measure visitors to our website using Google Analytics. This records what pages you view within our site, how you arrived at our site and some basic information about your computer. All of that information is anonymous â so we don't know who you are; just that somebody visited our site. The information we collect from analytics helps us understand what parts of our sites are doing well, how people arrive at our site and so on. Like most websites, we use this information to make our website better. You can learn more about [Google Analytics](http://www.google.com/analytics/learn/privacy.html) or [opt out if you wish.](https://tools.google.com/dlpage/gaoptout)
+We measure visitors to our website using Google Analytics. This records what pages you view within our site, how you arrived at our site and some basic information about your computer. All of that information is anonymous – so we don't know who you are; just that somebody visited our site. The information we collect from analytics helps us understand what parts of our sites are doing well, how people arrive at our site and so on. Like most websites, we use this information to make our website better. You can learn more about [Google Analytics](http://www.google.com/analytics/learn/privacy.html) or [opt out if you wish.](https://tools.google.com/dlpage/gaoptout)
 
 #### Discussion Comments
 
@@ -84,4 +84,4 @@ Upon request, we will permanently delete your postings and all of your personal 
 
 #### Contacting Us
 
-If you have any questions about this privacy statement, please send a message to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ceada1a0baafadba8eabb6beafbabca7afbaabbde0ada1a3). 
+If you have any questions about this privacy statement, please send a message to [contact@expatriates.com](mailto:contact@expatriates.com). 
