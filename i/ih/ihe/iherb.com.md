@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the iherb.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627102803id_/https%3A//www.iherb.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iherb.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227180544id_/https%3A//www.iherb.com/info/privacy) for the most accurate reproduction.*
 
 # iHerb.com - Privacy Policy
 
 ## iHerb, Inc.: Privacy Policy
 
-**Effective Date: 4/23/2018**
+**Effective Date: June 28, 2018**
 
 iHerb, Inc. and its subsidiaries( **collectively** , “iHerb”) respect your concerns about privacy. This Privacy Policy describes the types of personal information we collect about individuals through our website and mobile apps (collectively, the “Services”), how we may use the information, with whom we may share it, and the choices available regarding our use of the information. The Privacy Policy also describes the measures we take to safeguard the personal information, how long we retain it and how individuals can contact us about our privacy practices and to exercise their rights.
 
@@ -148,7 +148,13 @@ The Services are designed for a general audience and are not directed to childre
 
 This Privacy Policy may be updated periodically and without prior notice to you to reflect changes in our personal information practices. We will indicate at the top of the Privacy Policy when it was most recently updated.
 
-If you have any questions about this Privacy Policy, or if you would like to exercise your privacy rights, please contact us by using [this form](https://secure.iherb.com/myaccount/managemydata), emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ef9f9d86998e8c96af86878a9d8dc18c8082) or writing to us at:
+If you would like to exercise your privacy rights, please contact us by using [this form](https://secure.iherb.com/myaccount/managemydata). 
+
+Subject to Article 12(6) of GDPR, data requests submitted to [privacy@iherb.com](mailto:privacy@iherb.com) or sent via postal mail to iHerb, attn. Data Protection Officer, at 301 North Lake Avenue, Suite 600, Pasadena, CA, may require that you provide additional documentation necessary to confirm your identity.
+
+If you prefer not to provide additional documentation along with your request, we recommend you utilize the Form for submission as it will automatically validate your identity.
+
+If you have any questions about this Privacy Policy, please email us at [privacy@iherb.com](mailto:privacy@iherb.com) or write to us at:
 
 iHerb, Inc. Attn: Data Protection Officer 301 North Lake Avenue, Suite 600 Pasadena, CA 91101
 
