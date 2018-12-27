@@ -1,988 +1,815 @@
-<!--The following is the downloaded HTML source of the learningtree.com privacy policy that was archived on 2017-03-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170309234304id_/https%3A//www.learningtree.com/contact-us/privacy.htm) for the most accurate reproduction.-->
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
-	<title>Privacy Info | Learning Tree</title>
-	<meta name="keywords" content="contact customer service, request free information, training passport holders, management training, on-site courses, investor relations, accounting department, public relations, mailiing list, employement opportunities, become an instructor">
-	<meta name="description" content="contact customer service, request free information, training passport holders, management training, on-site courses, investor relations, accounting department, public relations, mailiing list, employement opportunities, become an instructor">
-	
-<noscript>
-	<style type="text/css">
-	.hide-if-no-js { display:none; }
-	</style>
-</noscript>
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-
-<link href="/bootstrap/css/bootstrap2.css" rel="stylesheet">
-
-<link rel="stylesheet" type="text/css" href="/styles/styles.css">
-<link rel="stylesheet" type="text/css" media="print" href="/styles/print.css">
-<!--<link rel="stylesheet" type="text/css" media="all and (max-width:1024px)"href="/styles/responsive-mobile.css" />-->
-<!--[if IE 7]>
-	<link rel="stylesheet" type="text/css" href="/styles/styles-ie7.css" />
-<![endif]-->
-<link rel="apple-touch-icon" href="/apple-touch-icon.png">
-<meta name="msapplication-config" content="none">
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TBWDVV"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script src="/inc/jscript/mbox.js" type="text/javascript"></script><style>.mboxDefault { visibility:hidden; }</style>
-<!--<script src='/inc/jscript/jquery.1.11.0.min.js' type="text/javascript"></script>-->
-<script src="/inc/jscript/hotjar.js" type="text/javascript"></script><script async="" src="//web.archive.org/web/20151003150748/http://static.hotjar.com/c/hotjar-32446.js?sv=4"></script>
-
-<meta name="viewport" content="width=1200, initial-scale=1">
-
-
-<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat%3A400%2C700" type="text/css" media="all">
-
-<link href="/fonts/font-awesome/css/font-awesome.css" rel="stylesheet">
-<link href="/fonts/fontello/css/fontello.css" rel="stylesheet">
-
-<!-- Plugins -->
-<link href="/plugins/magnific-popup/magnific-popup.css" rel="stylesheet">
-<link href="/plugins/rs-plugin/css/settings.css" rel="stylesheet">
-<link href="/css/animations.css" rel="stylesheet">
-<link href="/plugins/owl-carousel/owl.carousel.css" rel="stylesheet">
-<link href="/plugins/owl-carousel/owl.transitions.css" rel="stylesheet">
-<link href="/plugins/hover/hover-min.css" rel="stylesheet">
-
-<link href="/plugins/morphext/morphext.css" rel="stylesheet">
-
-<link href="/css/style-temp-header.css" rel="stylesheet">
-<link href="/css/temporary-footer-styles.css" rel="stylesheet">
-
-
-
-
-
-
-
-
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-
-
-
-
-<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
-<script src="//code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
-
-
-
-
-<!--<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
-
-
-
-
-
-
-<script type="text/javascript">
-    var app = angular.module("searchApp", []);
-    var searchControllerHandler = function ($scope, $http) {
-        $scope.search = function (index) {
-            $scope.is1stCtrl = true;
-            $scope._search(index);
-        }
-        $scope.search2 = function (index) {
-            $scope.is1stCtrl = false;
-            $scope._search(index);
-        }
-        $scope._search = function (index) {
-            if ($scope.searchQuery) {
-                $(".please-wait").show();
-                $http.get("//www.learningtree.com/search/SiteSearchService.axd?q=" + escape($scope.searchQuery) + "&start=" + index)
-                    .success(function (response) {
-                        $(".please-wait").hide();
-                        if ($scope.is1stCtrl) $(".header-container .fac .bgsearch-items").show();
-                        $scope.response = response;
-                    })
-                    .error(function () {
-                        $(".please-wait").hide();
-                    });
-            }
-        }
-        $scope.correct = function (query) {
-            $scope.searchQuery = query;
-            $scope.search(1);
-        }
-    };
-    app.controller("searchController", searchControllerHandler);
-    app.controller("searchController2", searchControllerHandler);
-    app.filter("trusted", ["$sce", function ($sce) {
-        return function (text) {
-            return $sce.trustAsHtml(text);
-        };
-    }]);
-</script>-->
-
-
-<script type="text/javascript">
-    $(function () {
-
-        $('#mltLoginCreateAccountButton').click(function (e) {
-            e.preventDefault();
-            window.location.href = '//www2.learningtree.com/mylearningtree/overview.aspx';
-        });
-
-        $('#mltLoginForm').submit(function (e) {
-
-            var requiredFieldMissing = false;
-
-            if ($('#mltLoginUsername').val().trim() === '') {
-                requiredFieldMissing = true;
-                $('#mltLoginUsernameRequired').show();
-            }
-
-            if ($('#mltLoginPassword').val().trim() === '') {
-                requiredFieldMissing = true;
-                $('#mltLoginPasswordRequired').show();
-            }
-
-            if (requiredFieldMissing) {
-                return false;
-            }
-
-            var promise = $.ajax({
-                type: 'POST',
-                url: '/account/login',
-                data: $('#mltLoginForm').serialize(),
-                dataType: 'json',
-                xhrFields: {
-                    withCredentials: true
-                }
-            });
-
-            promise.done(function (data) {
-                if (data.IsInvalidUsernameOrPassword) {
-                    $('#failedLoginMessage').html('Incorrect username or password');
-                } else {
-                    window.location.href = data.RedirectUrl;
-                }
-            });
-
-            promise.fail(function () {
-                $('#failedLoginMessage').html('An unexpected error occurred');
-            });
-
-            e.preventDefault();
-        });
-
-        $('#mltLoginForm input').keypress(function (e) {
-            if (e.which == 10 || e.which == 13) {
-                $(this).blur();
-                $('#mltLoginForm').submit();
-            }
-        });
-
-        $('#mltLoginUsername').focus(function () {
-            $('#mltLoginUsernameRequired').hide();
-            $('#failedLoginMessage').html('');
-        });
-
-        $('#mltLoginPassword').focus(function () {
-            $('#mltLoginPasswordRequired').hide();
-            $('#failedLoginMessage').html('');
-        });
-    });
-</script>
-
-<!-- Facebook Pixel Code -->
-<script>
-    !function (f, b, e, v, n, t, s) {
-        if (f.fbq) return; n = f.fbq = function () {
-            n.callMethod ?
-            n.callMethod.apply(n, arguments) : n.queue.push(arguments)
-        }; if (!f._fbq) f._fbq = n;
-        n.push = n; n.loaded = !0; n.version = '2.0'; n.queue = []; t = b.createElement(e); t.async = !0;
-        t.src = v; s = b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t, s)
-    }(window,
-    document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
-
-    fbq('init', '1588710311436925');
-    fbq('track', "PageView");</script>
-<noscript>
-    <img height="1" width="1" style="display:none"
-         src="https://www.facebook.com/tr?id=1588710311436925&ev=PageView&noscript=1" />
-</noscript>
-<!-- End Facebook Pixel Code -->
-<script async="" src="https://web.archive.org/web/20170908225213/https://script.hotjar.com/modules-f524bccd859bfc7e394e1123f7f90405.js"></script><style type="text/css">iframe#_hjRemoteVarsFrame {display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;}</style><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
-<body>
-<!-- Google Tag Manager -->
-<noscript>
-    <iframe src="//www.googletagmanager.com/ns.html?id=GTM-TBWDVV" style="display:none; visibility:hidden;" height="0" width="0"></iframe>
-</noscript>
-<script>
-    (function (w, d, s, l, i) {
-        w[l] = w[l] || [];
-        w[l].push({
-            'gtm.start':
-                new Date().getTime(),
-            event: 'gtm.js'
-        });
-        var f = d.getElementsByTagName(s)[0],
-            j = d.createElement(s),
-            dl = l != 'dataLayer' ? '&l=' + l : '';
-        j.async = true;
-        j.src =
-            '//www.googletagmanager.com/gtm.js?id=' + i + dl;
-        f.parentNode.insertBefore(j, f);
-    })(window, document, 'script', 'dataLayer', 'GTM-TBWDVV');
-</script>
-<!-- End Google Tag Manager -->
-
-
-	<div id="main">
-		<div id="shadowed">
-		<div id="inner">
-			<div class="masthead" id="contactMasthead">
-				<h3>Contact Us</h3>
-				<p>We're Waiting to Hear from You</p>
-			</div>
-			<p class="flush"><img src="/images/layout/full-width-shadow.png" alt=""></p>
-			<div class="largeSide">
-				<h1>We Protect Your Privacy</h1>
-			
-				<h3>Learning Tree International Web Privacy Statement.</h3>
-				<p>Learning Tree International is committed to preserving the privacy of those who inquire, purchase or enroll in our programs or visit this website. This document, as our official Privacy Policy, will outline how we gather and utilize various sources of information obtained by Learning Tree.</p>
-
-				<h3>General:</h3>
-				<p>Learning Tree collects identifiable information (Personal Information) that you may provide to us when you enroll in one of our courses, send us registration over the Internet, or mail or contact us by phone or through the Internet. This information may include your name, job title, organization information, contact information, date of birth, payment information (such as credit card), previous educational history and work experience.</p>
-
-				<h3>Website “Log-File” Information:</h3>
-				<p>For each visitor to our web page, our web server automatically recognizes only the Internet (IP) address. It does not recognize your domain or your e-mail address.</p>
-
-				<h3>Cookies:</h3>
-				<p>Our site may pass a “cookie” (a string of information that is sent by a website to be resident on your system’s hard drive, and/or temporarily in your computer’s memory blocks). The purpose of a cookie is to tell the web server that you have returned to a particular page. You may set your browser to decline cookies. If you do so, however, you may not be able to fully experience some interactive features of the site.</p>
-
-				<h3>Utilization of Information:</h3>
-				<p>Learning Tree will only use your Information for the specific purpose for which you submitted the Information, except that Learning Tree may use Information obtained from this site in a non-identifiable aggregate form to provide advertisers and/or other third parties our general website usage statistics. Learning Tree will use your Information for the following purposes:</p>
-				<ul>
-					<li>Provide you with information about Learning Tree courses and services;</li>
-					<li>Enroll you in one of Learning Tree’s courses or programs and manage your participation in the course;</li>
-					<li>Keep track of your completion of courses;</li>
-					<li>Communicate with you about a course you have enrolled in; </li>
-					<li>Respond to your inquiries, post your comments or statements on any blog or other online forum maintained on the Site, or take other actions in response to your inquiries or other online activities; </li>
-					<li>Communicate with you about other courses or programs that may be of interest to you;</li>
-					<li>Communicate with you about specific jobs, job opportunities or general information about employment opportunities with Learning Tree, in the event you submitted your resume online.  Please note additional terms and policies will apply for employment applicants;</li>
-					<li>Communicate with you about our brands, products, events for other promotional purposes, including co-branded offers, if you have opted to receive such communications either by providing us with your contact information (including email address).  You can opt-out of receiving marketing information at any time either by selecting preferences at the time you provide us with your information, following the unsubscribe links on any marketing sent to you or by calling <nobr>1-888-843-8733</nobr>.  Except as provided below, we do not make the e-mail addresses of those who visit our website available to other organizations. </li>
-				</ul>
-
-				<h3>Telephone Numbers and Telephone Calls from Learning Tree:</h3>
-				<p>Visitors who provide us with their telephone numbers may receive telephone contact from us with information regarding orders (or requests for information) they have placed online. They also may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by sending an e-mail to us, by calling us, or by writing to us. Except as provided below, we DO NOT make the telephone numbers of those who visit our website available to other organizations.</p>
-
-				<h3>Your Workplace Mailing Address:</h3>
-				<p>If you provide us with your workplace mailing address you may receive periodic mailings from us at your workplace with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by sending an e-mail to us, by calling us, or by writing us.</p>
-
-				<h3>Disclosure of Information:</h3>
-				<p>Learning Tree considers your Information confidential and does not sell it to others.  However, there are limited circumstances that require us to share it with others.</p>
-				<ul>
-					<li><u>Agents and Service Providers</u>:  We sometimes employ or contract with other companies and individuals to perform functions on our behalf, such as supporting our systems infrastructure, providing recruiting services, and supporting our call centers.  These parties are under a legal obligation to only use your information for purposes related to the services they provide. </li>
-					<li><u>Business Transfers</u>:  If Learning Tree or one of its business units is sold or its assets is/are acquired, Information relevant to the operation sold could be one of the transferred assets.  </li>
-					<li><u>Legal Requirements</u>:  Learning Tree may also disclose Information about users in response to (a) requests from local, state or federal law enforcement officials; (b) any judicial, administrative or similar proceeding or order, such as subpoena; (c) if required by law; or (d) in special circumstances, such as in response to a physical threat or perceived physical threat to any individual or to enforce the terms of use of this site. </li>
-					<li><u>Course Partners</u>:  If you enroll in, or attend a course presented by one of our Partners, Learning Tree will send the Course Partner all information related to the course and your participation, including contact and course information.</li> 
-				</ul>
-
-				<h3>Children’s Privacy:</h3>
-				<p>Learning Tree does not knowingly collect personally identifiable information from minors under age 18 without appropriate consent from the minor and in some circumstances their parent/guardian.</p>
-
-				<h3>International Users:</h3>
-				<p>If you are located outside of the United States, please note that this site is hosted on our computer servers in the United States. Therefore, your information may be processed and stored in the United States. As a result, the governments, courts, or law enforcement or regulatory agencies may be able to obtain disclosure of your information through laws applicable in the United States.  Your use of this site or submission of any personal information will therefore constitute your consent to the transfer of your personal information outside of your home country.</p>
-
-				<h3>Security:</h3>
-				<p>This site has security measures in place designed to help protect against the loss, misuse and alteration of the information under our control. We use Secure Socket Layer (SSL) encryption to protect data transmissions of personal information. Learning Tree will not be liable for disclosures of your personal information due to errors in transmission or unauthorized acts of third parties. We have undertaken all commercially reasonable efforts to prevent unauthorized Internet access to visitor data retained in our servers; however, Learning Tree cannot ensure or warrant the security of any information you transmit to us or any information provided online, and you do so at your own risk. Users must accept all risks associated with any data transmission, including the risk that their personal information may be intercepted in transit.</p>
-
-				<h3>Providing Access to Personal Information:</h3>
-				<p>Upon request, and unless prohibited by law, Learning Tree shall inform customers of the existence, use, and disclosure of their personal information and provide access to that information. An individual shall be able to challenge the accuracy and completeness of the information and have it amended as appropriate.</p>
-
-				<h3>Links to Third Party Sites:</h3>
-				<p>We may make content or services from other websites including our affiliated websites available to you from links located on this website. These "other" domains (websites) are not controlled by Learning Tree International. We encourage our users to be aware when they leave our site and to read the privacy policies of each and every website that collects personally identifiable information. Visiting sites linked from www.LearningTree.com is at your own risk.</p>
-
-				<h3>Opt-Out:</h3>
-				<p>If you wish to opt-out of email communications, please let us know your preference <a href="http://www2.learningtree.com/us/r.asp">here</a>. To opt out of phone or mail communications, please send your request via email to <a href="mailto:USCourses@LearningTree.com">USCourses@LearningTree.com</a>. Please allow up to 10 days for Learning Tree to process your request.</p>
-
-				<h3>Policy Modifications:</h3>
-				<p>Please check this page periodically for changes to this Privacy Policy. We reserve the right to modify this policy as we deem appropriate by posting a new privacy policy at this location. If we decide make material changes to our Privacy Policy, we will send you advance notification and where necessary obtain you consent.  Thank you for visiting our website and your interest in Learning Tree’s programs.</p>
-
-
-				<h3>Comments and Questions:</h3>
-				<p>If you have any questions, comments or concerns about our Privacy Policy, you may contact us at the following address:</p>
-
-				<div>
-					<table width="100%" cellspacing="2" cellpadding="2" border="0">
-						<tbody><tr valign="top">
-							<td>
-								<b>Mail:</b><br>
-								Learning Tree International<br>
-								13650 Dulles Technology Dr<br>
-                                Suite 400
-								Herndon, VA 20171<br>
-								USA<br>
-								<br>
-								<b>E-mail:</b><br>
-								<img src="/images/general/sig_uscourses.png" width="200" height="16" alt="">
-							</td>
-							<td>
-								<b>Phone:</b><br>
-								1-888-THE-TREE<br>
-								(1-888-843-8733)<br>
-								(703) 709-9019<br>
-								<br><br>
-								<b>Fax:</b><br>
-								1-800-709-6405
-							</td>
-						</tr>
-					</tbody></table>
-				</div>
-
-				<p><b>Thank you for visiting our website.</b></p>
-
-			</div>
-			<div class="smallSide">
-				<div class="sidenav">
-	<ul>
-		<li><a href="index.htm">Contact Us</a></li>
-		<li><a href="mailing-list.htm">Mailing List</a></li>
-		<li><a href="/locations/index.htm">Locations</a></li>
-		<!--<li><a href="https://www2.learningtree.com/contactus/Information.aspx">Free Catalog</a></li>-->
-		<li><a href="privacy.htm">Privacy Policy</a></li>
-	</ul>
-	<div class="clear"></div>
-</div>
-			</div>
-			
-			
-		</div>
-		</div>
-		
-
-
-<!-- scrollToTop
-<div class="scrollToTop circle"><i class="icon-up-open-big"></i></div>-->
-
-
-
-
-<!--[if lt IE 9]><div class="tmask2"></div><div class="tbox2">
-    <div class="tinner2"><div class="tcontent2">
-    <p class="errorbox">Your browser is outdated.
-    This site requires a minimum of IE9.
-    For an optimized experience,
-    please use the latest version of Chrome, Firefox, or
-    Internet Explorer.</p><p class="mz">Download and install a newer browser ›</p>
-    <ul class="dl"><li><a href="http://www.google.com/chrome/browser/">Google Chrome</a></li>
-    <li><a href="https://www.mozilla.org/en-US/firefox/new/">Mozilla Firefox</a></li>
-    <li><a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie">Internet Explorer (latest)</a></li></ul></div>
-    <div class="tclose2"></div></div></div>
-<![endif]-->
-
-
-
-
-
-
-<div ng-app="searchApp">
-    <!-- search-overlay (tablet + mobile) -->
-   <!-- <div id="search-overlay" ng-controller="searchController2">
-
-        <div class="search-overlay-inner" role="search">
-
-            <i class="icon search-layer-close"></i>
-
-            <form id="search-layer-form" name="search-layer-form" method="GET" action="">
-                <div class="search-typeahead">
-                    <input type="text" value="" name="" class="search-text" id="search-text" placeholder="Site Search" autocomplete="off" size="" tabindex="1" onfocus="this.value = this.value;" autofocus ng-model="searchQuery" ng-keypress="" />
-                    <button ng-click="search2(1)" onclick="return false" class="s-btn"></button>
-	</div>
-            </form>
-
-            <p class="search-label">Type to Search LearningTree.com</p>
-
-            <div ng-show="response.correctedQuery" class="noshow">
-                <p><strong>Do you mean "<a href="#" ng-click="correct(response.correctedQuery)" onclick="return false">{{response.correctedQuery}}</a>" ?</strong></p>
-		</div>
-            <div ng-show="response.items" class="overlaysearch-items">
-
-                <div class="closeit"></div>
-
-                <p ng-repeat="x in response.items">
-                    <a ng-href="{{x.link}}" ng-bind-html="x.title|trusted"></a>
-                </p>
-            </div>
-            <div ng-hide="searchQuery||response.items" style="display:none;">
-                <p>Please enter the word or phrase you wish to search.</p>
-            </div>
-            <div ng-show="response">
-                <div ng-hide="response.items" class="noshow">
-                    <p><b>Sorry, no results were found for your query.</b></p>
-                    <p>Please check your spelling and try your search again.</p>
-                </div>
-            </div>
-
-
-        </div>
-
-    </div>-->
-
-
-
-
-
-    <!-- header-container start -->
-    <div class="header-container">
-
-        <!-- header start -->
-        <!-- classes:  -->
-        <!-- "fixed": enables fixed navigation mode (sticky menu) e.g. class="header fixed clearfix" -->
-        <!-- "dark": dark version of header e.g. class="header dark clearfix" -->
-        <!-- "full-width": mandatory class for the full-width menu layout -->
-        <!-- "centered": mandatory class for the centered logo layout -->
-        <!-- ================ -->
-        <header class="full-width clearfix header scrolled" id="topHeader">
-
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-3">
-                        <!-- header-left start -->
-                        <!-- ================ -->
-                        <div class="header-left clearfix">
-
-                            <!-- logo -->
-                            <div id="logo" class="logo">
-                                <a href="/"><span>Learning Tree International</span></a>
-                            </div>
-
-                            <!--<div class="site-slogan">Training You Can Trust</div>-->
-
-                        </div>
-                        <!-- header-left end -->
-
-                    </div>
-                    <div class="col-md-9 colrt">
-
-
-                        
-                        <div class="contacts">
-
-                            <div class="livechat">Live Chat</div>
-
-                            <div class="phone"><a href="https://www.learningtree.com/contact-us/">Contact Us</a></div>
-
-                            <div class="calendar"><a href="https://www2.learningtree.com/CourseCalendar/default.aspx">Scheduling Tool</a></div>
-
-                        </div>
-
-
-
-                        <!--<p class="call">
-                            <a href="tel:1-888-843-8733" class="tel" title="Contact Us"></a>
-                            Call us at <strong>1.888.843.8733</strong> or <a href="/contact-us/">Contact us</a>
-                        </p>
-
-                        <form class="fac">
-                            <div class="search" title="Search Site"></div>
-                            <div ng-controller="searchController">
-                                <div>
-                                    <input type="text" ng-model="searchQuery" ng-keypress="" placeholder="Site Search" />
-                                    <button ng-click="search(1)" onclick="return false" class="s-btn"></button>
-                                </div>
-                                <div ng-show="response.correctedQuery" class="noshow">
-                                    <p><strong>Do you mean "<a href="#" ng-click="correct(response.correctedQuery)" onclick="return false">{{response.correctedQuery}}</a>" ?</strong></p>
-                                </div>
-                                <div ng-show="response.items" class="bgsearch-items">
-
-                                    <div class="closeit"></div>
-
-                                    <p ng-repeat="x in response.items">
-                                        <a ng-href="{{x.link}}" ng-bind-html="x.title|trusted"></a>
-                                    </p>
-                                </div>
-                                <div ng-hide="searchQuery||response.items" style="display:none;">
-                                    <p>Please enter the word or phrase you wish to search.</p>
-                                </div>
-                                <div ng-show="response">
-                                    <div ng-hide="response.items" class="noshow">
-                                        <p><b>Sorry, no results were found for your query.</b></p>
-                                        <p>Please check your spelling and try your search again.</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </form>
-                        <div class="please-wait" style="display:none;position:fixed;">
-                            <div class="wait"></div>
-                            </div>
-
-
-                        <p class="cst"><a href="http://www2.learningtree.com/CourseCalendar/default.aspx" title="Course Scheduling Tool">Course<br /><strong>Scheduling Tool</strong></a></p>-->
-
-                        
-
-                            <span class="mlt login-create">
-
-                                <span>My Learning Tree</span>
-
-                                <span class="text-uppercase bold">Login / Create</span>
-
-                            </span>
-
-
-                            <div class="loginbox-dd">
-
-                                <div class="closeit"></div>
-
-                                <div class="login-active"><p class="mlt">My Learning Tree<br><strong>LOGIN / CREATE</strong></p></div>
-
-                                <h2>Login to My Learning Tree</h2>
-
-                                <form class="mltlogin" id="mltLoginForm">
-                                    <div id="failedLoginMessage"></div>
-                                    <input type="text" placeholder="Username" class="un" name="Username" id="mltLoginUsername">
-                                    <span id="mltLoginUsernameRequired" class="mltloginRequiredField" style="display:none">*</span>
-                                    <input type="password" placeholder="Password" class="pw" name="Password" id="mltLoginPassword">
-                                    <span id="mltLoginPasswordRequired" class="mltloginRequiredField" style="display:none">*</span>
-                                    <input type="checkbox" id="chkRememberMe" name="RememberMe" value="true"> <label for="chkRememberMe">Remember Me</label>
-                                    <input type="submit" value="Log In" class="login">
-                                    <p class="forgot"><a href="https://www2.learningtree.com/mylearningtree/forgotuserid.aspx">Forgot Username</a> or <a href="https://www2.learningtree.com/mylearningtree/resetpass.aspx">Password</a></p>
-                                    <input type="submit" value="Create Account" class="create-acct" id="mltLoginCreateAccountButton">
-                                </form>
-
-
-                            </div>
-                            
-</div>
-
-
-		</div>
-            </div>
-
-        </header>
-        <!-- header end -->
-    </div>
-    <!-- header-container end -->
-
-		</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="navwrap">
-
-    <!-- header-right start -->
-    <!-- ================ -->
-    <div id="bottomHeader" class="header-right clearfix header fixed">
-
-        <!-- main-navigation start -->
-        <!-- classes: -->
-        <!-- "onclick": Makes the dropdowns open on click, this the default bootstrap behavior e.g. class="main-navigation onclick" -->
-        <!-- "animated": Enables animations on dropdowns opening e.g. class="main-navigation animated" -->
-        <!-- "with-dropdown-buttons": Mandatory class that adds extra space, to the main navigation, for the search and cart dropdowns -->
-        <!-- ================ -->
-        <div class="main-navigation animated with-dropdown-buttons">
-
-            <!-- navbar start -->
-            <!-- ================ -->
-            <nav class="navbar navbar-default" role="navigation">
-                <div class="container-fluid">
-
-                    <!-- Toggle get grouped for better mobile display -->
-                    <div class="navbar-header">
-
-
-
-                    </div>
-
-                    <!-- Collect the nav links, forms, and other content for toggling -->
-                    <div class="collapse navbar-collapse sp" id="navbar-collapse-1">
-                        <!-- main-menu -->
-                        <ul class="nav navbar-nav">
-                            <li class="home-lt"><a href="/"><span>Learning Tree Home</span></a></li>
-                            <li class="dropdown mega-menu">
-                                <a class="dropdown-toggle" data-toggle="dropdown" href="https://www.learningtree.com/training-directory/">Training</a>
-                                <ul class="dropdown-menu">
-                                    <li>
-                                        <div class="row">
-                                            <div class="col-lg-8 col-md-9">
-                                                <h4 class="title">Training</h4>
-                                                <div class="row">
-                                                    <div class="col-sm-8">
-
-                                                        <p>Harnessing over 40 years in the IT education industry, Learning Tree and its elite team of expert instructors have established the world's best hands-on instructor-led training experience.</p>
-
-
-                                                        <div class="btn"><a href="https://www.learningtree.com/training-directory/">Explore Training</a></div>
-
-
-
-                                                    </div>
-
-                                                    <div class="col-sm-4">
-
-                                                        <ul class="menu">
-                                                            <li><a href="https://www.learningtree.com/training-directory/">Training Courses</a></li>
-                                                            <li><a href="/benefits/">Attendee Benefits</a></li>
-                                                            <li><a href="/tuition/">Course Tuition</a></li>
-                                                            <li><a href="/government/">Government Training</a></li>
-                                                            <li><a href="/delivery/">Course Delivery</a></li>
-                                                            <li><a href="/team-training/">Team Training</a></li>
-                                                            <li><a href="/workforce-optimization-solutions/">Workforce Optimization</a></li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-lg-4 col-md-3 hidden-sm">
-                                                <h2 class="certs mt20">Message from the CEO</h2>
-                                                <a href="https://www.learningtree.com/workforce-optimization-solutions/?id=vplay">
-                                                    <img alt="" src="/images/wos/nav-sq-raspires.jpg">
-                                                </a>
-                                                <p class="mb-10 certpaths"><a class="btn-link" href="/workforce-optimization-solutions/">For 40+ years, Learning Tree has been providing IT and management training to business and government organizations worldwide</a></p>
-
-                                            </div>
-                                        </div>
-                                    </li>
-                                </ul>
-                            </li>
-                            <!-- mega-menu end -->
-
-                            <li class="dropdown mega-menu">
-                                <a class="dropdown-toggle" data-toggle="dropdown" href="/certification/">Certifications</a>
-                                <ul class="dropdown-menu">
-                                    <li>
-                                        <div class="row">
-                                            <div class="col-lg-8 col-md-9">
-                                                <h4 class="title">Certifications</h4>
-                                                <div class="row">
-                                                    <div class="col-sm-8">
-
-                                                        <p>In addition to today's most popular industry certifications, you can enhance your credentials with certification paths developed by Learning Tree's team of subject matter experts.</p>
-
-
-                                                        <div class="btn"><a href="/certification/">Explore Certifications</a></div>
-
-
-
-                                                    </div>
-
-                                                    <div class="col-sm-4">
-
-                                                        <ul class="menu certifications">
-                                                            <li><a href="/certification/">Industry Certifications</a></li>
-                                                            <li class="lh20"><a href="/certification/learningtree-certification.htm">Learning Tree Certification Paths</a></li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-lg-4 col-md-3 hidden-sm">
-                                                <h2 class="certs mt20">Over 40 Cyber Security Certification Paths</h2>
-                                                <img src="/images/hp/ftd-img-cybersec.jpg" alt="Learning Tree Cybersecurity" width="400" height="150">
-                                                <p class="mb-10 certpaths"><a href="/certification/cyber-security.htm">View our 40+ Cyber Security Certification Paths that have been aligned with the National Initiative for Cybersecurity Education (NICE) Framework »</a></p>
-
-                                            </div>
-                                        </div>
-                                    </li>
-                                </ul>
-                            </li>
-                            <!-- mega-menu end -->
-                            <!-- mega-menu start -->
-                            <li class="dropdown mega-menu">
-                                <a class="dropdown-toggle" data-toggle="dropdown" href="https://www.learningtree.com/resources-library/">Resources</a>
-                                <ul class="dropdown-menu">
-                                    <li>
-                                        <div class="row">
-                                            <div class="col-lg-8 col-md-9">
-                                                <h4 class="title">Resources</h4>
-                                                <div class="row">
-                                                    <div class="col-sm-8">
-
-                                                        <p>To help you stay current with new technologies and methodologies that may impact your organization, Learning Tree is always producing complimentary resources using the information gathered by our stout research teams.</p>
-
-                                                        <div class="btn"><a href="https://www.learningtree.com/resources-library/">Explore Resources</a></div>
-
-                                                    </div>
-
-                                                    <div class="col-sm-4">
-
-                                                        <ul class="menu">
-
-                                                            <li><a href="https://issuu.com/learningtreeintl/docs/cyber_security_training?e=20913079/31568768">Defend Your Organization from Cyber Threats through Workforce Optimization Solutions. View brochure &gt;</a></li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-lg-4 col-md-3 hidden-sm">
-                                                <h2 class="certs mt20">Complimentary Webinar On Demand</h2>
-                                                <a href="http://info.learningtree.com/1068-webinar-on-demand">
-                                                    <img src="/images/hp/cyber-security-video.png" alt="Learning Tree White Paper" width="400" height="150">
-                                                </a>
-                                                <p class="mb-10 certpaths"><a href="http://info.learningtree.com/1068-webinar-on-demand"><b>Cyber Security: Risk Management for the C-Suite</b> 1 Hour Webinar On Demand: Presented by Richard A. Spires, CEO at Learning Tree</a></p>
-
-                                            </div>
-                                        </div>
-                                    </li>
-                                </ul>
-                            </li>
-                            <!-- mega-menu end -->
-                            <li class="dropdown mega-menu">
-                                <a href="https://www.learningtree.com/locations/" class="dropdown-toggle" data-toggle="dropdown">Locations</a>
-                                <ul class="dropdown-menu">
-                                    <li>
-                                        <div class="row">
-                                            <div class="col-lg-8 col-md-9">
-                                                <h4 class="title">Locations</h4>
-                                                <div class="row">
-                                                    <div class="col-sm-8">
-
-                                                        <p>With Learning Tree, you have a wide variety of attendance options to ensure you're able get the training you need  – whenever and wherever you need it: in-class at an Education Center, online via AnyWare™, or on-site at your preferred location.</p>
-
-
-                                                        <div class="btn"><a href="https://www.learningtree.com/locations/">Discover Locations</a></div>
-
-
-
-                                                    </div>
-
-                                                    <div class="col-sm-4">
-
-                                                        <ul class="menu">
-                                                            <li><a href="https://www.learningtree.com/locations/">North America</a></li>
-                                                            <li><a href="http://www.learningtree.co.uk/locations/">United Kingdom</a></li>
-                                                            <li><a href="http://www.learningtree.fr/lieux/">France</a></li>
-                                                            <li><a href="https://www.learningtree.se/utbildningscenter/">Sweden</a></li>
-                                                            <li><a href="http://www.learningtree.co.jp/">Japan</a></li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-lg-4 col-md-3 hidden-sm">
-
-                                                <h2 class="certs mt20">Live, Online via AnyWare™</h2>
-                                                <img src="/images/hp/ftd-img-map.jpg" alt="Learning Tree AnyWare" width="400" height="150">
-                                                <p class="mb-10 certpaths"><a href="/anyware/">Learn more about Learning Tree's live, online attendance platform – AnyWare™ »</a></p>
-                                            </div>
-                                        </div>
-                                    </li>
-                                </ul>
-                            </li>
-                            <!-- mega-menu end -->
-
-                            <span class="search-toggle-tool"></span>
-
-                        </ul>
-
-                        <ul class="action-links">
-                            <li><span class="chat"></span></li>
-                            <li><a class="tel" href="https://www.learningtree.com/contact-us/"></a></li>
-                            <li><a class="schedule-tool" href="https://www2.learningtree.com/CourseCalendar/default.aspx"></a></li>
-                            <li><span class="login-create" data-toggle="modal" data-target=".modal-login"></span></li>
-                            <li><span class="search-toggle"></span></li>
-                        </ul>
-
-                        <!-- main-menu end --> 
-
-
-
-						</div>
-
-					</div>
-            </nav>
-
-
-
-
-            <div class="searchwrap">
-
-                <form id="search-layer-form" name="search-layer-form" method="GET" action="http://www.learningtree.com/search-results/" novalidate="">
-                    <div class="search-typeahead">
-                        <input type="search" id="query1" placeholder="Search Our Learning &amp; Performance Solutions Here" name="q" size="" tabindex="1" onfocus="this.value = this.value;" autofocus="">
-                        <button class="s-btn"></button>
-                    </div>
-                    <div class="xclose"></div>
-                </form>
-                <div class="whitedrop animated fadeIn">
-                    <p>Quick Links</p>
-                    <p class="navitems"></p>
-                </div>
-                <!--end whitedrop -->
-
-            </div>
-            <!-- searchwrap end -->
-
-
-
-
-
-
-            <!-- navbar end -->
-
-		</div>
-        <!-- main-navigation end -->
-	</div>
-    <!-- header-right end -->
-
-</div>
-
-
+<!--The following is the downloaded HTML source of the learningtree.com privacy policy that was archived on 2018-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181227040409id_/https%3A//www.learningtree.com/contact-us/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en" xmlns:fb="http://ogp.me/ns/fb#" ng-app="App" style="" class="video mediaqueries no-touchevents cssanimations ng-scope"><head><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}.ng-animate-shim{visibility:hidden;}.ng-anchor{position:absolute;}</style>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
+    <title>Privacy | Learning Tree International</title>
+    <meta name="description" content="Learning Tree International is committed to preserving the privacy of those who inquire, purchase or enroll in our programs or visit this website. This document, as our official Privacy Policy, will outline how we gather and utilize various sources of information obtained by Learning Tree.">
+    
+
+<!-- extra meta tags and social sharing helpers -->
+<meta itemprop="name" content="Privacy | Learning Tree International">
+<meta itemprop="description" content="Learning Tree International is committed to preserving the privacy of those who inquire, purchase or enroll in our programs or visit this website. This document, as our official Privacy Policy, will outline how we gather and utilize various sources of information obtained by Learning Tree.">
+<meta name="keywords" content="">
+<meta itemprop="keywords" content="">
+<meta itemprop="image" content="http://images.shrinktheweb.com/xino.php?stwembed=1&amp;stwaccesskeyid=&amp;stwsize=xlg&amp;stwurl=https://www.learningtree.com/contact-us/privacy/">
+
+<meta property="og:title" content="Privacy | Learning Tree International">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://www.learningtree.com/contact-us/privacy/">
+<meta property="og:image" content="http://images.shrinktheweb.com/xino.php?stwembed=1&amp;stwaccesskeyid=&amp;stwsize=xlg&amp;stwurl=https://www.learningtree.com/contact-us/privacy/">
+<meta property="og:description" content="Learning Tree International is committed to preserving the privacy of those who inquire, purchase or enroll in our programs or visit this website. This document, as our official Privacy Policy, will outline how we gather and utilize various sources of information obtained by Learning Tree.">
+<meta property="og:site_name" content="Learning Tree International">
+
+    <meta name="twitter:card" content="Hands-on IT training courses, certifications, and end-to-end training solutions. Over 2.4 million participants since 1974. Learn more now.">
+    <meta name="twitter:site" content="@learningtree">
+    <meta name="twitter:title" content="Privacy | Learning Tree International">
+    <meta name="twitter:description" content="Learning Tree International is committed to preserving the privacy of those who inquire, purchase or enroll in our programs or visit this website. This document, as our official Privacy Policy, will outline how we gather and utilize various sources of information obtained by Learning Tree.">
+    <meta name="twitter:creator" content="Learning Tree International">
+    <meta name="twitter:image" content="http://images.shrinktheweb.com/xino.php?stwembed=1&amp;stwaccesskeyid=&amp;stwsize=xlg&amp;stwurl=https://www.learningtree.com/contact-us/privacy/">
+    <meta name="twitter:url" content="https://www.learningtree.com/contact-us/privacy/">
+
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <link rel="stylesheet" type="text/css" href="/css/site.v.5.89.4.min.css">
+
+
+    <!-- Site-wide HEAD Js -->
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat%3A400%2C700" type="text/css" media="all">
+    <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TBWDVV"></script><script async="" src="//s.reembed.com/G-nVVzbn.js"></script><script type="text/javascript">
+         var LtreContext = {};
+        LtreContext.GACurrencyCode = 'USD';
+
+        var SearchTypevariable = 'Type to Search';
+        var Searchdomainvariable = 'Type to search LearningTree.com';
+
+		var CurrentServerDate = new Date(2018, 11, 26, 23, 4, 9);
+    </script>
+    <script type="text/javascript" src="/js/site.v.5.89.4.min.js"></script>
+
+        
+
+
+        <script type="text/javascript" src="/js/hotjar.js" defer="defer"></script>
+        <script type="text/javascript" src="//cdn.calltrk.com/companies/223814073/a531bb2d27d7ec91e0aa/12/swap.js" defer=""></script>
+        <meta name="msvalidate.01" content="37FDD190157306826403DD9ACA14247C">
 
 
         
-	</div>	
-	<script type="text/javascript" src="/inc/jscript/jquery.all.min.js"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 1071718896;
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
-</script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script> 
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1071718896/?value=0&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript>
-<div class="dkmodalbg"></div>
+    
+    <script type="text/javascript" data-cfasync="false">
+        (function (r, e, E, m, b) {
+            E[r] = E[r] || {}; E[r][b] = E[r][b] || function () {
+                (E[r].q = E[r].q || []).push(arguments)
+            }; b = m.getElementsByTagName(e)[0]; m = m.createElement(e);
+            m.async = 1; m.src = ("file:" == location.protocol ? "https:" : "") + "//s.reembed.com/G-nVVzbn.js";
+            b.parentNode.insertBefore(m, b)
+        })("reEmbed", "script", window, document, "api");
+    </script>
+<script async="" src="//web.archive.org/web/20181012204613/https://static.hotjar.com/c/hotjar-32446.js?sv=4"></script><script async="" src="https://web.archive.org/web/20190205002638/https://script.hotjar.com/modules-ab5ba0ccf53ded68dfc9bbcb1e84cd7b.js"></script><style type="text/css">iframe#_hjRemoteVarsFrame {display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;}</style></head>
+<body class="TextPage">
+        <!-- Google Tag Manager -->
+        <noscript>
+            <iframe src="//www.googletagmanager.com/ns.html?id=GTM-TBWDVV" style="display:none; visibility:hidden;" height="0" width="0"></iframe>
+        </noscript>
+        <script>
+            dataLayer = window.dataLayer || [];
+        </script>
+        <script>
+                (function(w, d, s, l, i) {
+                    w[l] = w[l] || [];
+                    w[l].push({
+                        'gtm.start':
+                            new Date().getTime(),
+                        event: 'gtm.js'
+                    });
+                    var f = d.getElementsByTagName(s)[0],
+                        j = d.createElement(s),
+                        dl = l != 'dataLayer' ? '&l=' + l : '';
+                    j.async = true;
+                    j.src =
+                        '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+                    f.parentNode.insertBefore(j, f);
+                })(window, document, 'script', 'dataLayer', 'GTM-TBWDVV');
+        </script>
+        <!-- End Google Tag Manager -->
+    
 
-<div class="footer">
-    <div class="container">
-        <div class="row">
 
-            <div class="col-md-3">
 
-                <h2>Tuition &amp; Savings</h2>
-                <p>
-                    <a href="/tuition/">Standard and GSA Tuition</a><br>
-                    <a href="/government/">Government Tuition Savings</a><br>
-                    <a href="/tuition/">Returning Attendee Tuition Savings</a><br>
-                    <a href="/tuition/">1-DAY BOOT CAMP Tuition</a><br>
-                    <a href="/tuition/">Multi-Course Tuition Savings Plans</a><br>
-                    <a href="/tuition/">Hassle-Free Enrollment</a>
-                </p>
 
+
+
+    <script type="text/javascript">
+        /*<![CDATA[*/
+        $(document).ready(function () {
+
+            function showCartDropdown() {
+                $('.dkmodalbg').show();
+
+                var cart = $('.header-top .dropdown-cart');
+                if ($('.header-bottom.fixed .dropdown-cart').length > 0)
+                    cart = $('.header-bottom.fixed .dropdown-cart');
+
+                $(cart).find('.shopping-cart-order ').stop().slideDown();
+                $(cart).find('.dropdown-cart').addClass('active');
+            }
+
+            InteropService.broadcast({ type: 'Order' });
+            InteropService.subscribe(this, function (evt) {
+                if (evt.type === 'LineItem')
+                    showCartDropdown();
+            });
+        });
+        /*]]>*/
+    </script>
+<div class="page">
+    <div class="wrap" ngx-app="searchApp">
+        <header class="page-header">
+            <div class="header-top ">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-3 col-sm-5 logo-container">
+                            <span class="mobile-nav-toggle">Menu</span>
+                            <a href="/" class="logo"></a>
+                        </div>
+                        <div class="col-md-9 col-sm-7 clearfix right quicklinks">
+                            <div class="contacts ">
+
+                                    <div class="livechat">Live Chat</div>
+
+                                        <div class="phone"><a href="/contact-us/">Contact Us</a></div>
+
+                                    <div class="calendar">
+                                        <a href="https://www2.learningtree.com/coursecalendar/">
+
+                                            <span class="bold">Scheduling Tool</span>
+                                        </a>
+                                    </div>
+                            </div>
+
+                                    <span data-test="loginCreateTarget" class="login-create" data-toggle="modal" data-target=".modal-login">
+                                        <span>My Learning Tree</span>
+                                        <span class="text-uppercase bold">Login / Create</span>
+                                    </span>
+
+                                <cart-dropdown class="ng-isolate-scope" style="display: none;">
+                                    <div id="shopping-cart-checkout" class="dropdown-cart ng-scope" ng-controller="CartController as vm">
+                                        <ul>
+                                            <li>
+                                                <a href="/checkout/" class="e-commerce">
+                                                    <div class="shopping-cart"><span class="text">Cart</span><span class="quantity ng-binding" ng-bind="(vm.order &amp;&amp; vm.order.LineItems.length) || 0">0</span></div>
+                                                </a>
+                                                <div class="shopping-cart-order" style="display: none;">
+                                                    <!-- ngIf: vm.order.LineItems.length <= 0 --><div class="no-items ng-scope" ng-if="vm.order.LineItems.length <= 0" style="">
+                                                        There are no items in your cart.
+                                                    </div><!-- end ngIf: vm.order.LineItems.length <= 0 -->
+
+                                                    <!-- ngIf: vm.order.LineItems.length > 0 -->
+                                                    <!-- ngIf: vm.order.LineItems.length > 0 -->
+
+                                                </div>
+                                                <div class="clearfix"></div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </cart-dropdown>
+                            <div class="searchPhoneContainer float-r">
+                                <div class="ltphone float-l f20 mt12"><a href="tel:888-843-8733">888-843-8733</a></div>
+
+
+                                        <div class="hpsearchwrap float-l rounded-box-5 mr37 ml20">
+
+                                            <form id="search-layer-form-hp-menu" name="search-layer-form-hp" method="GET" action="/search-results/" novalidate="" class="ng-pristine ng-valid">
+                                                <div class="search-typeahead">
+                                                    <input type="search" id="query" placeholder="Search Courses or Certifications" name="q" tabindex="1" onfocus="this.value = this.value;" autofocus="" class="" autocomplete="off">
+                                                    <button class="s-btn"></button>
+                                                </div>
+                                            </form>
+
+                                        </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
             </div>
-
-            <div class="col-md-3">
-
-                <h2>Help &amp; Information</h2>
-                <p>
-                    <a href="https://www.learningtree.com/about-us/">About Us</a><br>
-                    <a href="https://www2.learningtree.com/contactus/askaquestion.aspx">Customer Service</a><br>
-                    <a href="/instructors/">Meet Our Instructors</a><br>
-                    <a href="/careers/">Careers</a><br>
-                    <a href="/contact-us/">Contact Us</a><br>
-                    <a href="/contact-us/privacy.htm">Privacy Policy</a><br>
-                    <a href="/tuition/terms-and-conditions.htm">Terms and Conditions</a><br>
-                    <a href="https://www.learningtree.com/press-releases/">Press Releases</a>
-                </p>
-
-            </div>
-
-            <div class="col-md-3">
-
-                <h2>Useful Links</h2>
-                <p>
-                    <a href="https://www2.learningtree.com/SkillsTree/">Skills Assessments</a><br>
-                    <a href="/team-training/">Team Training Solutions</a><br>
-                    <a href="http://www2.learningtree.com/CourseCalendar/default.aspx">Course Scheduling Tool</a><br>
-                    <a href="https://www.learningtree.com/topic-keyword-index/">Course Index</a><br>
-                    <a href="https://resources.learningtree.com/resources.aspx">FREE Resources</a><br>
-                    <a href="/benefits/">Attendee Benefits</a><br>
-                    <a href="/investor/">Investor Relations</a>
-                    <!--<a href="https://www2.learningtree.com/contactus/Information.aspx">Download Our Catalog</a>-->
-                </p>
-
-            </div>
+            <div class="header-bottom">
 
 
-            <div class="col-md-3">
-
-                <h2 class="connected">Stay Connected</h2>
-                <p class="social-icons">
-                    <a href="http://www.facebook.com/pages/Learning-Tree-International/337705119197?ref=ts" target="_blank" class="fb"><span>Facebook</span></a>
-                    <a href="http://www.linkedin.com/company/164699" target="_blank" class="li"><span>Linkedin</span></a>
-                    <a href="http://blog.learningtree.com" target="_blank" class="wp"><span>Wordpress</span></a>
-                    <a href="http://twitter.com/learningtree" target="_blank" class="tw"><span>Twitter</span></a>
-                    <a href="http://www.youtube.com/learningtree#p/u" target="_blank" class="yt"><span>YouTube</span></a>
-                    <a href="http://www.google.com/+learningtree" target="_blank" class="gp"><span>Google+</span></a>
-                </p>
-
-            </div>
-
-        </div>
-    </div>
-
-</div><!-- end footer -->
+                <a href="/" class="logo"></a>
+                <div class="container">
 
 
 
-<div class="subfooter">
 
-    <div class="subfooter-container">
-        <div class="row">
+<!-- In case it is needed, view Ltre.UI.PublicWebsiteCms.Extensions.ChunkBy to split list into sub lists -->
+
+	<ul class="main-navigation" role="menubar">
+		<a href="/training" class="btn solid-blue-btn p5 m0">Course Catalog</a>
+				<li class="parent-menu-item" role="menuitem" tabindex="0" aria-haspopup="true" title="Training">
+
+					<span class="hasSubMenu">Training</span>
+
+											<ul class="dropdown bottom-rounded-box-5 " role="menu" aria-hidden="true">
+								<li role="menuitem" tabindex="-1" title="Skills Assessments"><a href="/skillsassessments/">Skills Assessments</a></li>
+								<li role="menuitem" tabindex="-1" title="Delivery Formats"><a href="/delivery/">Delivery Formats</a></li>
+								<li role="menuitem" tabindex="-1" title="Individual and Group Training"><a href="/training-directory/">Individual and Group Training</a></li>
+								<li role="menuitem" tabindex="-1" title="Team Training - Custom"><a href="/team-training/on-site/">Team Training - Custom</a></li>
+								<li role="menuitem" tabindex="-1" title="Enterprise Learning Services"><a href="/managed-learning-services/">Enterprise Learning Services</a></li>
+								<li role="menuitem" tabindex="-1" title="Government Schedules"><a href="/government/">Government Schedules</a></li>
+								<li role="menuitem" tabindex="-1" title="Training Locations"><a href="/locations/">Training Locations</a></li>
+								<li role="menuitem" tabindex="-1" title="Training Budgets &amp; Savings"><a href="/training-budgets/">Training Budgets &amp; Savings</a></li>
+								<li role="menuitem" tabindex="-1" title="Meet Our Instructors"><a href="/instructors/">Meet Our Instructors</a></li>
+						</ul>
+				</li>
+				<li class="parent-menu-item" role="menuitem" tabindex="0" aria-haspopup="true" title="Certifications">
+
+					<span class="hasSubMenu">Certifications</span>
+
+											<ul class="dropdown bottom-rounded-box-5 navTwoColumn" role="menu" aria-hidden="true">
+								<li role="menuitem" tabindex="-1" title="Agile"><a href="/industry-certifications/?filter=agile">Agile</a></li>
+								<li role="menuitem" tabindex="-1" title="Big Data &amp; Data Science"><a href="/industry-certifications/learning-tree/learning-tree-big-data-certification/">Big Data &amp; Data Science</a></li>
+								<li role="menuitem" tabindex="-1" title="Business Analysis"><a href="/industry-certifications/?filter=BusinessAnalysis">Business Analysis</a></li>
+								<li role="menuitem" tabindex="-1" title="Cloud Computing"><a href="/industry-certifications/?filter=Cloud">Cloud Computing</a></li>
+								<li role="menuitem" tabindex="-1" title="Communication &amp; Leadership"><a href="/industry-certifications/?filter=LeadershipProfessionalDevelopment">Communication &amp; Leadership</a></li>
+								<li role="menuitem" tabindex="-1" title="Cyber Security"><a href="/industry-certifications/?filter=CyberSecurity">Cyber Security</a></li>
+								<li role="menuitem" tabindex="-1" title="Excel"><a href="/industry-certifications/learning-tree/learning-tree-microsoft-excel-certification/">Excel</a></li>
+								<li role="menuitem" tabindex="-1" title="IT Service Management (ITIL, COBIT, TOGAF)"><a href="/industry-certifications/?filter=ITServiceManagement">IT Service Management (ITIL, COBIT, TOGAF)</a></li>
+								<li role="menuitem" tabindex="-1" title="Linux"><a href="/industry-certifications/?filter=Linux">Linux</a></li>
+								<li role="menuitem" tabindex="-1" title="Microsoft Technologies"><a href="/industry-certifications/?filter=MicrosoftTechnologies">Microsoft Technologies</a></li>
+								<li role="menuitem" tabindex="-1" title="Oracle"><a href="/industry-certifications/learning-tree/learning-tree-oracle-certification/">Oracle</a></li>
+								<li role="menuitem" tabindex="-1" title="Programming"><a href="/industry-certifications/?filter=Programming">Programming</a></li>
+								<li role="menuitem" tabindex="-1" title="Program / Project Management"><a href="/industry-certifications/?filter=ProjectManagement">Program / Project Management</a></li>
+								<li role="menuitem" tabindex="-1" title="Web Development"><a href="/industry-certifications/learning-tree/learning-tree-web-development-certification/">Web Development</a></li>
+								<li role="menuitem" tabindex="-1" title="VIEW ALL CERTIFICATIONS"><a href="/industry-certifications/">VIEW ALL CERTIFICATIONS</a></li>
+								<li role="menuitem" tabindex="-1" title="VIEW TOP 14 LEARNING PATHS"><a href="/top14certs/">VIEW TOP 14 LEARNING PATHS</a></li>
+						</ul>
+				</li>
+				<li class="parent-menu-item" role="menuitem" tabindex="0" aria-haspopup="true" title="Business Solutions">
+
+					<span class="hasSubMenu">Business Solutions</span>
+
+											<ul class="dropdown bottom-rounded-box-5 " role="menu" aria-hidden="true">
+								<li role="menuitem" tabindex="-1" title="Agile Transformation"><a href="/agile-transformation-defined/">Agile Transformation</a></li>
+								<li role="menuitem" tabindex="-1" title="IT Modernization"><a href="/business-solutions/it-modernization/">IT Modernization</a></li>
+								<li role="menuitem" tabindex="-1" title="Cybersecurity"><a href="/business-solutions/cyber-security-initiative/">Cybersecurity</a></li>
+								<li role="menuitem" tabindex="-1" title="Project/Program Management"><a href="/business-solutions/project-program-management/">Project/Program Management</a></li>
+								<li role="menuitem" tabindex="-1" title="Interpersonal Skills"><a href="/business-solutions/interpersonal-leadership-skills/">Interpersonal Skills</a></li>
+								<li role="menuitem" tabindex="-1" title="Digital Transformation"><a href="/business-solutions/digital-transformation/">Digital Transformation</a></li>
+								<li role="menuitem" tabindex="-1" title="Solutions Capabilities Overview"><a href="/business-solutions/">Solutions Capabilities Overview</a></li>
+						</ul>
+				</li>
+				<li class="parent-menu-item" role="menuitem" tabindex="0" aria-haspopup="true" title="Resources ">
+
+					<span class="hasSubMenu">Resources </span>
+
+											<ul class="dropdown bottom-rounded-box-5 navTwoColumn" role="menu" aria-hidden="true">
+								<li role="menuitem" tabindex="-1" title="Webinars - Live &amp; On Demand"><a href="/resources-library/webinars/">Webinars - Live &amp; On Demand</a></li>
+								<li role="menuitem" tabindex="-1" title="Use Cases &amp; Case Studies"><a href="/resources-library/?filter=case-studies">Use Cases &amp; Case Studies</a></li>
+								<li role="menuitem" tabindex="-1" title="Instructor Blogs"><a href="https://blog.learningtree.com/" target="_blank">Instructor Blogs</a></li>
+								<li role="menuitem" tabindex="-1" title="Skills Assessments"><a href="/skillsassessments/">Skills Assessments</a></li>
+								<li role="menuitem" tabindex="-1" title="Learning Paths &amp; Brochures"><a href="/resources-library/?filter=brochures-learning-paths">Learning Paths &amp; Brochures</a></li>
+								<li role="menuitem" tabindex="-1" title="Solution Briefs"><a href="/resources-library/?filter=solution-brief">Solution Briefs</a></li>
+								<li role="menuitem" tabindex="-1" title="Research &amp; Reports"><a href="/resources-library/?filter=research-and-reports">Research &amp; Reports</a></li>
+								<li role="menuitem" tabindex="-1" title="Videos &amp; Infographics"><a href="/resources-library/?filter=video,infographic">Videos &amp; Infographics</a></li>
+								<li role="menuitem" tabindex="-1" title="In The News"><a href="/resources-library/?filter=in-the-news">In The News</a></li>
+								<li role="menuitem" tabindex="-1" title="VIEW ALL RESOURCES"><a href="/resources-library/">VIEW ALL RESOURCES</a></li>
+						</ul>
+				</li>
+				<li class="parent-menu-item" role="menuitem" tabindex="0" aria-haspopup="true" title="About Us">
+
+					<span class="hasSubMenu">About Us</span>
+
+											<ul class="dropdown bottom-rounded-box-5 " role="menu" aria-hidden="true">
+								<li role="menuitem" tabindex="-1" title="The Learning Tree Difference"><a href="/about-us/">The Learning Tree Difference</a></li>
+								<li role="menuitem" tabindex="-1" title="Delivery Formats"><a href="/delivery/">Delivery Formats</a></li>
+								<li role="menuitem" tabindex="-1" title="Awards"><a href="/awards/">Awards</a></li>
+								<li role="menuitem" tabindex="-1" title="Meet Our Instructors"><a href="/instructors/">Meet Our Instructors</a></li>
+								<li role="menuitem" tabindex="-1" title="Careers"><a href="/careers/">Careers</a></li>
+								<li role="menuitem" tabindex="-1" title="Privacy"><a href="/contact-us/privacy/">Privacy</a></li>
+								<li role="menuitem" tabindex="-1" title="Contact Us"><a href="/contact-us/">Contact Us</a></li>
+								<li role="menuitem" tabindex="-1" title="Press Releases"><a href="/press-releases/">Press Releases</a></li>
+						</ul>
+				</li>
+	</ul>
+	<div id="menu-responsive" class="mobile-menu">
+		<div id="menu-responsive-inner" class="mobile-menu-inner">
+			<a href="" class="close-responsive-nav">
+				<span></span>
+			</a>
+
+			<nav id="responsive-nav" class="mobile-nav">
+				<ul class="clearfix">
+							<li class="menu-category">
+								<span>Training</span>
+									<ul class="sub-menu">
+											<li role="menuitem" tabindex="-1"><a href="/skillsassessments/">Skills Assessments</a></li>
+											<li role="menuitem" tabindex="-1"><a href="/delivery/">Delivery Formats</a></li>
+											<li role="menuitem" tabindex="-1"><a href="/training-directory/">Individual and Group Training</a></li>
+											<li role="menuitem" tabindex="-1"><a href="/team-training/on-site/">Team Training - Custom</a></li>
+											<li role="menuitem" tabindex="-1"><a href="/managed-learning-services/">Enterprise Learning Services</a></li>
+											<li role="menuitem" tabindex="-1"><a href="/government/">Government Schedules</a></li>
+											<li role="menuitem" tabindex="-1"><a href="/locations/">Training Locations</a></li>
+											<li role="menuitem" tabindex="-1"><a href="/training-budgets/">Training Budgets &amp; Savings</a></li>
+											<li role="menuitem" tabindex="-1"><a href="/instructors/">Meet Our Instructors</a></li>
+
+									</ul>
+							</li>
+							<li class="menu-category">
+								<span>Certifications</span>
+									<ul class="sub-menu">
+											<li role="menuitem" tabindex="-1"><a href="/industry-certifications/?filter=agile">Agile</a></li>
+											<li role="menuitem" tabindex="-1"><a href="/industry-certifications/learning-tree/learning-tree-big-data-certification/">Big Data &amp; Data Science</a></li>
+											<li role="menuitem" tabindex="-1"><a href="/industry-certifications/?filter=BusinessAnalysis">Business Analysis</a></li>
+											<li role="menuitem" tabindex="-1"><a href="/industry-certifications/?filter=Cloud">Cloud Computing</a></li>
+											<li role="menuitem" tabindex="-1"><a href="/industry-certifications/?filter=LeadershipProfessionalDevelopment">Communication &amp; Leadership</a></li>
+											<li role="menuitem" tabindex="-1"><a href="/industry-certifications/?filter=CyberSecurity">Cyber Security</a></li>
+											<li role="menuitem" tabindex="-1"><a href="/industry-certifications/learning-tree/learning-tree-microsoft-excel-certification/">Excel</a></li>
+											<li role="menuitem" tabindex="-1"><a href="/industry-certifications/?filter=ITServiceManagement">IT Service Management (ITIL, COBIT, TOGAF)</a></li>
+											<li role="menuitem" tabindex="-1"><a href="/industry-certifications/?filter=Linux">Linux</a></li>
+											<li role="menuitem" tabindex="-1"><a href="/industry-certifications/?filter=MicrosoftTechnologies">Microsoft Technologies</a></li>
+											<li role="menuitem" tabindex="-1"><a href="/industry-certifications/learning-tree/learning-tree-oracle-certification/">Oracle</a></li>
+											<li role="menuitem" tabindex="-1"><a href="/industry-certifications/?filter=Programming">Programming</a></li>
+											<li role="menuitem" tabindex="-1"><a href="/industry-certifications/?filter=ProjectManagement">Program / Project Management</a></li>
+											<li role="menuitem" tabindex="-1"><a href="/industry-certifications/learning-tree/learning-tree-web-development-certification/">Web Development</a></li>
+											<li role="menuitem" tabindex="-1"><a href="/industry-certifications/">VIEW ALL CERTIFICATIONS</a></li>
+											<li role="menuitem" tabindex="-1"><a href="/top14certs/">VIEW TOP 14 LEARNING PATHS</a></li>
+
+									</ul>
+							</li>
+							<li class="menu-category">
+								<span>Business Solutions</span>
+									<ul class="sub-menu">
+											<li role="menuitem" tabindex="-1"><a href="/agile-transformation-defined/">Agile Transformation</a></li>
+											<li role="menuitem" tabindex="-1"><a href="/business-solutions/it-modernization/">IT Modernization</a></li>
+											<li role="menuitem" tabindex="-1"><a href="/business-solutions/cyber-security-initiative/">Cybersecurity</a></li>
+											<li role="menuitem" tabindex="-1"><a href="/business-solutions/project-program-management/">Project/Program Management</a></li>
+											<li role="menuitem" tabindex="-1"><a href="/business-solutions/interpersonal-leadership-skills/">Interpersonal Skills</a></li>
+											<li role="menuitem" tabindex="-1"><a href="/business-solutions/digital-transformation/">Digital Transformation</a></li>
+											<li role="menuitem" tabindex="-1"><a href="/business-solutions/">Solutions Capabilities Overview</a></li>
+
+									</ul>
+							</li>
+							<li class="menu-category">
+								<span>Resources </span>
+									<ul class="sub-menu">
+											<li role="menuitem" tabindex="-1"><a href="/resources-library/webinars/">Webinars - Live &amp; On Demand</a></li>
+											<li role="menuitem" tabindex="-1"><a href="/resources-library/?filter=case-studies">Use Cases &amp; Case Studies</a></li>
+											<li role="menuitem" tabindex="-1"><a href="https://blog.learningtree.com/" target="_blank">Instructor Blogs</a></li>
+											<li role="menuitem" tabindex="-1"><a href="/skillsassessments/">Skills Assessments</a></li>
+											<li role="menuitem" tabindex="-1"><a href="/resources-library/?filter=brochures-learning-paths">Learning Paths &amp; Brochures</a></li>
+											<li role="menuitem" tabindex="-1"><a href="/resources-library/?filter=solution-brief">Solution Briefs</a></li>
+											<li role="menuitem" tabindex="-1"><a href="/resources-library/?filter=research-and-reports">Research &amp; Reports</a></li>
+											<li role="menuitem" tabindex="-1"><a href="/resources-library/?filter=video,infographic">Videos &amp; Infographics</a></li>
+											<li role="menuitem" tabindex="-1"><a href="/resources-library/?filter=in-the-news">In The News</a></li>
+											<li role="menuitem" tabindex="-1"><a href="/resources-library/">VIEW ALL RESOURCES</a></li>
+
+									</ul>
+							</li>
+							<li class="menu-category">
+								<span>About Us</span>
+									<ul class="sub-menu">
+											<li role="menuitem" tabindex="-1"><a href="/about-us/">The Learning Tree Difference</a></li>
+											<li role="menuitem" tabindex="-1"><a href="/delivery/">Delivery Formats</a></li>
+											<li role="menuitem" tabindex="-1"><a href="/awards/">Awards</a></li>
+											<li role="menuitem" tabindex="-1"><a href="/instructors/">Meet Our Instructors</a></li>
+											<li role="menuitem" tabindex="-1"><a href="/careers/">Careers</a></li>
+											<li role="menuitem" tabindex="-1"><a href="/contact-us/privacy/">Privacy</a></li>
+											<li role="menuitem" tabindex="-1"><a href="/contact-us/">Contact Us</a></li>
+											<li role="menuitem" tabindex="-1"><a href="/press-releases/">Press Releases</a></li>
+
+									</ul>
+							</li>
+											<li class="menu-category cart"><a href="/checkout/"><span>Cart</span></a></li>
+				</ul>
+				<a href="/training" class="btn solid-blue-btn p5 m0">Course Catalog</a>
+			</nav>
+
+			<form id="search-layer-form-hp-menu" class="center fill-width mt20 ng-pristine ng-valid" name="search-layer-form-hp" method="GET" action="/search-results/" novalidate="">
+				<div class="search-typeahead width-80">
+					<input type="search" id="query" placeholder="" name="q" tabindex="1" onfocus="this.value = this.value;" autofocus="" class="" autocomplete="off">
+					<button class="s-btn"></button>
+				</div>
+			</form>
 
 
-            <div class="col-md-2 logo"></div>
+		</div>
+	</div>
 
-            <div class="col-md-8 addr">
-                Learning Tree International  |  13650 Dulles Technology Drive, Suite 400  |  Herndon, VA 20171-6156  |  1-888-843-8733<br>
-                <span>© Learning Tree International, Inc. All trademarks are owned by their respective owners. <a href="/info/trademark-recognition.htm" class="wht">click here</a> for details.</span>
-            </div>
 
-            <div class="col-md-2 flags-container">
 
-                <p>Choose Your Country:</p>
 
-                <div class="flags-overlay">
 
-                    <ul>
-                        <li class="jp"><a href="http://www.learningtree.co.jp" target="_blank" class="ob" title="Learning Tree Japan">&nbsp;</a></li>
-                        <li class="fr"><a href="http://www.learningtree.fr" target="_blank" class="ob" title="Learning Tree France">&nbsp;</a></li>
-                        <li class="se"><a href="https://www.learningtree.se" target="_blank" class="ob" title="Learning Tree Sweden">&nbsp;</a></li>
-                        <li class="uk"><a href="https://www.learningtree.co.uk" target="_blank" class="ob" title="Learning Tree UK">&nbsp;</a></li>
-                        <li class="ca"><a class="ob" title="Learning Tree Canada">&nbsp;</a></li>
-                        <li class="us current"><a href="/" title="Learning Tree US">&nbsp;</a></li>
-                    </ul>
+
 
                 </div>
+                <ul class="action-links">
+
+                        <li><span class="chat"></span></li>
+
+                            <li><a class="tel" href="/contact-us/"></a></li>
+
+                        <li><a class="schedule-tool" href="https://www2.learningtree.com/coursecalendar"></a></li>                                            <li><span class="login-create" data-toggle="modal" data-target=".modal-login"></span></li>
+                        <li>
+                            <cart-dropdown class="ng-isolate-scope" style="display: none;">
+                                <div id="shopping-cart-checkout-sticky" class="dropdown-cart sticky ng-scope" ng-controller="CartController as vm">
+                                    <ul>
+                                        <li>
+                                            <a href="/Checkout/" class="e-commerce">
+                                                <div class="shopping-cart"><span class="text">Cart</span><span class="quantity ng-binding" ng-bind="(vm.order &amp;&amp; vm.order.LineItems.length) || 0">0</span></div>
+                                            </a>
+                                            <div class="shopping-cart-order" style="display: none;">
+                                                <!-- ngIf: vm.order.LineItems.length <= 0 --><div class="no-items ng-scope" ng-if="vm.order.LineItems.length <= 0" style="">
+                                                    <p>There are no items in your cart. Continue shopping on our <a href="/training-directory">Course Directory</a> page.</p>
+                                                </div><!-- end ngIf: vm.order.LineItems.length <= 0 -->
+                                                <!-- ngIf: vm.order.LineItems.length > 0 -->
+                                                <div class="cart-checkout-bottom bg-gray-medium bottom-rounded-box-5 ng-hide" ng-show="vm.order.LineItems.length > 0">
+                                                    <div class="float-r">
+                                                        <div class="total faux-bold right" ng-show="!vm.hasVoucherNumber">
+                                                            <span ng-bind="vm.calculateTotalPrice() | currency : $ : 2" class="subtotal ng-binding">$0.00</span>
+                                                        </div>
+                                                        <a href="/checkout/" class="btn solid-blue-btn">Continue</a>
+                                                    </div>
 
 
+                                                    <div>
+                                                        <span class="subtotal" ng-show="!vm.hasVoucherNumber">SUBTOTAL</span>
+                                                        <p class="f12 mt21 mr20 float-r"><span class="f-capitalize"><span class="f-bold">Pay now</span> -or- <span class="f-bold">pay later</span></span><br>
+<span>Pay by credit card at checkout</span><br>
+<span><span class="f-bold f-capitalize">-or-</span> pay later by invoice, as always.</span></p>
+
+                                                    </div>
+                                                    <div class="clearfix"></div>
+                                                </div>
+
+                                            </div>
+                                            <div class="clearfix"></div>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </cart-dropdown>
+                        </li>
+                </ul>
             </div>
+        </header>
+
+
+        
 
 
 
+
+
+
+	<!--START GRID-->
+
+
+
+    <div class="umb-grid layout-Full-width">
+                <div class="grid-section ">
+    <div class="grid-row grid-row-padding-medium-top-bottom-only">
+        
+        <div class="container">
+        <div class="row Full-Width">
+                <div class="col-md-12 column">
+                    <div class="grid-row">
+                                    
+    
+<h1>We Protect Your Privacy</h1>
+<h3><strong>Learning Tree International Web Privacy Statement.</strong></h3>
+<p>Learning Tree International is committed to preserving the privacy of those who inquire, purchase or enroll in our programs or visit this website. This document, as our official Privacy Policy, will outline how we gather and utilize various sources of information obtained by Learning Tree.</p>
+<h3><strong>General:</strong></h3>
+<p>Learning Tree collects identifiable information (Personal Information) that you may provide to us when you enroll in one of our courses, send us registration over the Internet, or mail or contact us by phone or through the Internet. This information may include your name, job title, organization information, contact information, date of birth, payment information (such as credit card), previous educational history and work experience.</p>
+<h3><strong>Website “Log-File” Information:</strong></h3>
+<p>For each visitor to our web page, our web server automatically recognizes only the Internet (IP) address. It does not recognize your domain or your e-mail address.</p>
+<h3><strong>Cookies:</strong></h3>
+<p>Our site may pass a “cookie” (a string of information that is sent by a website to be resident on your system’s hard drive, and/or temporarily in your computer’s memory blocks). The purpose of a cookie is to tell the web server that you have returned to a particular page. You may set your browser to decline cookies. If you do so, however, you may not be able to fully experience some interactive features of the site.</p>
+<h3><strong>Utilization of Information:</strong></h3>
+<p>Learning Tree will only use your Information for the specific purpose for which you submitted the Information, except that Learning Tree may use Information obtained from this site in a non-identifiable aggregate form to provide advertisers and/or other third parties our general website usage statistics. Learning Tree will use your Information for the following purposes:</p>
+<ul>
+<li>Provide you with information about Learning Tree courses and services;</li>
+<li>Enroll you in one of Learning Tree’s courses or programs and manage your participation in the course; Keep track of your completion of courses;</li>
+<li>Communicate with you about a course you have enrolled in;</li>
+<li>Respond to your inquiries, post your comments or statements on any blog or other online forum maintained on the Site, or take other actions in response to your inquiries or other online activities; Communicate with you about other courses or programs that may be of interest to you;</li>
+<li>Communicate with you about specific jobs, job opportunities or general information about employment opportunities with Learning Tree, in the event you submitted your resume online. Please note additional terms and policies will apply for employment applicants;</li>
+<li>Communicate with you about our brands, products, events for other promotional purposes, including co-branded offers, if you have opted to receive such communications either by providing us with your contact information (including email address). You can opt-out of receiving marketing information at any time either by selecting preferences at the time you provide us with your information, following the unsubscribe links on any marketing sent to you or by calling 1-888-843-8733. Except as provided below, we do not make the e-mail addresses of those who visit our website available to other organizations.</li>
+</ul>
+<h3><strong>Telephone Numbers and Telephone Calls from Learning Tree:</strong></h3>
+<p>Visitors who provide us with their telephone numbers may receive telephone contact from us with information regarding orders (or requests for information) they have placed online. They also may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by sending an e-mail to us, by calling us, or by writing to us. Except as provided below, we DO NOT make the telephone numbers of those who visit our website available to other organizations.</p>
+<h3><strong>Your Workplace Mailing Address:</strong></h3>
+<p>If you provide us with your workplace mailing address you may receive periodic mailings from us at your workplace with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by sending an e-mail to us, by calling us, or by writing us.</p>
+<h3><strong>Disclosure of Information:</strong></h3>
+<p>Learning Tree considers your Information confidential and does not sell it to others. However, there are limited circumstances that require us to share it with others.</p>
+<ul>
+<li><u>Agents and Service Providers</u>: We sometimes employ or contract with other companies and individuals to perform functions on our behalf, such as supporting our systems infrastructure, providing recruiting services, and supporting our call centers. These parties are under a legal obligation to only use your information for purposes related to the services they provide.</li>
+<li><u>Business Transfers</u>: If Learning Tree or one of its business units is sold or its assets is/are acquired, Information relevant to the operation sold could be one of the transferred assets.</li>
+<li><u>Legal Requirements</u>: Learning Tree may also disclose Information about users in response to (a) requests from local, state or federal law enforcement officials; (b) any judicial, administrative or similar proceeding or order, such as subpoena; (c) if required by law; or (d) in special circumstances, such as in response to a physical threat or perceived physical threat to any individual or to enforce the terms of use of this site.</li>
+<li><u>Course Partners</u>: If you enroll in, or attend a course presented by one of our Partners, Learning Tree will send the Course Partner all information related to the course and your participation, including contact and course information.</li>
+</ul>
+<h3><strong>Children’s Privacy:</strong></h3>
+<p>Learning Tree does not knowingly collect personally identifiable information from minors under age 18 without appropriate consent from the minor and in some circumstances their parent/guardian.</p>
+<h3><strong>International Users:</strong></h3>
+<p>If you are located outside of the United States, please note that this site is hosted on our computer servers in the United States. Therefore, your information may be processed and stored in the United States. As a result, the governments, courts, or law enforcement or regulatory agencies may be able to obtain disclosure of your information through laws applicable in the United States. Your use of this site or submission of any personal information will therefore constitute your consent to the transfer of your personal information outside of your home country.</p>
+<h3><strong>Security:</strong></h3>
+<p>This site has security measures in place designed to help protect against the loss, misuse and alteration of the information under our control. We use Secure Socket Layer (SSL) encryption to protect data transmissions of personal information. Learning Tree will not be liable for disclosures of your personal information due to errors in transmission or unauthorized acts of third parties. We have undertaken all commercially reasonable efforts to prevent unauthorized Internet access to visitor data retained in our servers; however, Learning Tree cannot ensure or warrant the security of any information you transmit to us or any information provided online, and you do so at your own risk. Users must accept all risks associated with any data transmission, including the risk that their personal information may be intercepted in transit.</p>
+<h3><strong>Providing Access to Personal Information:</strong></h3>
+<p>Upon request, and unless prohibited by law, Learning Tree shall inform customers of the existence, use, and disclosure of their personal information and provide access to that information. An individual shall be able to challenge the accuracy and completeness of the information and have it amended as appropriate.</p>
+<h3><strong>Links to Third Party Sites:</strong></h3>
+<p>We may make content or services from other websites including our affiliated websites available to you from links located on this website. These "other" domains (websites) are not controlled by Learning Tree International. We encourage our users to be aware when they leave our site and to read the privacy policies of each and every website that collects personally identifiable information. Visiting sites linked from www.LearningTree.com is at your own risk.</p>
+<h3><strong>Opt-Out:</strong></h3>
+<p>If you wish to opt-out of email communications, please let us know your preference <a href="http://www2.learningtree.com/us/r.asp">here</a>. To opt out of phone or mail communications, please send your request via email to <a href="mailto:USCourses@LearningTree.com">USCourses@LearningTree.com</a>. Please allow up to 10 days for Learning Tree to process your request.</p>
+<h3><strong>Policy Modifications:</strong></h3>
+<p>Please check this page periodically for changes to this Privacy Policy. We reserve the right to modify this policy as we deem appropriate by posting a new privacy policy at this location. If we decide make material changes to our Privacy Policy, we will send you advance notification and where necessary obtain you consent. Thank you for visiting our website and your interest in Learning Tree’s programs.</p>
+<h3><strong>Comments and Questions:</strong></h3>
+<p>If you have any questions, comments or concerns about our Privacy Policy, you may contact us at the following address:</p>
+
+
+                    </div>
+                </div>
         </div>
+        </div>
+    </div>
+    <div class="grid-row grid-row-padding-medium-top-bottom-only">
+        
+        <div class="container">
+        <div class="row Half-Half">
+                <div class="col-md-6 column">
+                    <div class="grid-row">
+                                    
+    
+<h3><strong>Mail:</strong></h3>
+<p>Learning Tree International<br> 13650 Dulles Technology Dr Suite 400<br> Herndon, VA 20171<br> USA</p>
+<h3><strong>E-mail:</strong></h3>
+<p><a href="mailto:uscourses@learningtree.com">uscourses@learningtree.com</a></p>
+<p><strong>Thank you for visiting our website.</strong></p>
+
+
+                    </div>
+                </div>
+                <div class="col-md-6 column">
+                    <div class="grid-row">
+                                    
+    
+<h3><strong>Phone:</strong></h3>
+<p><a href="tel:18888438733">1-888-THE-TREE</a> <br> (<a href="tel:18888438733">1-888-843-8733</a>) <br> <a href="tel:7037099019">(703) 709-9019</a></p>
+<h3><strong>Fax:</strong></h3>
+<p>1-800-709-6405</p>
+
+
+                    </div>
+                </div>
+        </div>
+        </div>
+    </div>
+                </div>
+    </div>
+
+
+
+
+	<!--END GRID-->
+ 
+
+
+
+            <div class="btn-chat-fixed">Chat Now</div>
 
 
     </div>
-</div><!-- end subfooter -->
+    <footer class="footer">
+            <div class="footer-top">
+                <div class="container">
+
+    <!--START GRID-->
 
 
+
+    <div class="umb-grid layout-Full">
+                <div class="grid-section ">
+    <div class="grid-row">
+        
+        <div class="container">
+        <div class="row Four-Columns">
+                <div class="col-md-3 column">
+                    <div class="grid-row">
+                                    
+    
+<h3>Contact us</h3>
+<div class="white f14 mb20"><span>Learning Tree is the premier global provider of learning solutions to support organizations’ use of technology and effective business practices.</span></div>
+<div id="us-contact-section" class="footer-contact">
+<div class="white mt5 f14 clear location"><img class="inline-block width-10" src="https://ltre-web.azureedge.net/2604/locationsicon.png" alt="">
+<div class="inline-block pl10">
+<p>13650 Dulles Technology Drive, Suite 400<br>Herndon, VA 20171-6156</p>
+</div>
+</div>
+<div class="white mt5 f14 clear phone"><img class="inline-block" src="https://ltre-web.azureedge.net/2605/phoneicon.png" alt="">
+<div class="inline-block pl10"><a href="tel:888-843-8733" class="white">888-843-8733</a></div>
+</div>
+<div class="white mt5 f14 clear mail"><img class="inline-block" src="https://ltre-web.azureedge.net/2603/emailicon.png" alt="">
+<div class="inline-block pl10"><a href="mailto:info@learningtree.com" class="white">info@learningtree.com</a></div>
+<a href="/payment/" class="btn solid-blue-btn f18 mt25 pt5 pr0 pb5 pl0"><strong>Pay Invoice</strong></a></div>
+</div>
+
+
+                    </div>
+                </div>
+                <div class="col-md-3 column">
+                    <div class="grid-row">
+                                    
+    
+
+        
+            
+
+    <div class="widget_related-links">
+        <h3>Training &amp; Business Solutions</h3>
+
+            <ul>
+                <li><a href="/training-directory/" target="_self">Individual and Group Training</a></li>
+                <li><a href="/team-training/on-site/" target="_self">Customized Team Training</a></li>
+                <li><a href="/managed-learning-services/" target="_self">Enterprise Learning Services</a></li>
+                <li><a href="/business-solutions/" target="_self">Organizational Solutions Capabilities</a></li>
+                <li><a href="/training-budgets/" target="_self">Training Budgets &amp; Savings</a></li>
+                <li><a href="/delivery/" target="_self">Training Delivery Options</a></li>
+                <li><a href="/government/" target="_self">Government Schedules</a></li>
+                <li><a href="/skillsassessments/" target="_blank">Skills Assessments</a></li>
+            </ul>
+    </div>
+
+
+        
+
+
+
+                    </div>
+                </div>
+                <div class="col-md-3 column">
+                    <div class="grid-row">
+                                    
+    
+
+        
+            
+
+    <div class="widget_related-links">
+        <h3>Company</h3>
+
+            <ul>
+                <li><a href="/about-us/" target="_self">About Us</a></li>
+                <li><a href="/awards/" target="_self">Awards</a></li>
+                <li><a href="/press-releases/" target="_self">Press Releases</a></li>
+                <li><a href="/careers/" target="_self">Careers</a></li>
+                <li><a href="/become-an-instructor/" target="_self">Become an Instructor</a></li>
+                <li><a href="/contact-us/" target="_self">Contact Us</a></li>
+                <li><a href="https://www5.learningtree.com/investor" target="_self">Investor Relations</a></li>
+            </ul>
+    </div>
+
+
+        
+
+
+
+                    </div>
+                </div>
+                <div class="col-md-3 column">
+                    <div class="grid-row">
+                                    
+    
+
+    
+        <h3>Stay Connected</h3>
+
+<div class="social-icons">
+        <a href="http://www.facebook.com/pages/Learning-Tree-International/337705119197?ref=ts" target="_blank" class="fb"></a>
+        <a href="http://www.linkedin.com/company/164699" target="_blank" class="li"></a>
+        <a href="https://blog.learningtree.com" target="_blank" class="wp"></a>
+        <a href="https://twitter.com/learningtree" target="_blank" class="tw"></a>
+        <a href="http://www.youtube.com/learningtree#p/u" target="_blank" class="yt"></a>
+        <a href="http://www.google.com/+learningtree" target="_blank" class="gp"></a>
+
+</div>
+    
+
+
+                    </div>
+                </div>
+        </div>
+        </div>
+    </div>
+                </div>
+    </div>
+
+
+
+
+    <!--END GRID-->
+
+ 
+                </div>
+            </div>
+
+        <div class="footer-bottom">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-2">
+                        <a href="/" title="Learning Tree International" class="logo"></a>
+                    </div>
+                    
+                        <div class="col-md-7 addr">
+                                    <div class="float-l ml45">
+                                        <a style="color:#fff" href="/tuition/terms-and-conditions/" )="">Terms &amp; Conditions</a>
+                                    </div>
+                                    <div class="float-l ml45">
+                                        <a style="color:#fff" href="/contact-us/privacy/" )="">Privacy</a>
+                                    </div>
+                            <br>
+                            <span class="copy ml45">
+                                © Learning Tree International, Inc. All trademarks are owned by their respective owners. <a class="whiteHyperlink" href="/trademark-recognition/">Click here</a> for details.
+                            </span>
+                        </div>
+                        <div class="col-md-3 flags">
+                            <span class="title">Choose Your Country:</span>
+<div class="flags-dropup dropup">
+      <span class="icon-flag us dropdown-toggle" data-toggle="dropdown"></span>
+<ul class="dropdown-menu">
+<li class="active">
+                <a href="https://www.learningtree.com" target="_blank" class=" icon-flag us" title="Learning Tree US"></a>
+            </li>
+            <li>
+                <a href="http://www.learningtree.co.jp" target="_blank" class="icon-flag jp" title="Learning Tree Japan"></a>
+            </li>
+            <li>
+                <a href="https://www.learningtree.se " target="_blank" class=" icon-flag se" title="Learning Tree Sweden"> </a>
+            </li>
+            <li>
+                <a href="https://www.learningtree.co.uk" target="_blank" class=" icon-flag uk" title="Learning Tree UK"></a>
+            </li>
+            <!-- <li>
+                 <a href="https://www.learningtree.fr" target="_blank" class="icon-flag fr" title="Learning Tree FR"> </a>
+            </li> -->
+            <li>
+                <a class="icon-flag ca" title="Learning Tree Canada"></a>
+            </li>
+</ul>
+</div>
+                        </div>
+                    
+                </div>
+            </div>
+        </div>
+    </footer>
+</div>
+
+
+<div class="modal fade modal-login" tabindex="-1" role="dialog">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close" data-test=""></button>
+                <h4 class="modal-title">Login to My Learning Tree</h4>
+            </div>
+            <div class="modal-body">
+                <form id="login-form" method="post" action="/account/login" autocomplete="off" enctype="multipart/form-data" class="ng-pristine ng-valid">
+                    <div class="form-validation-message error">Incorrect username or password</div>
+                    <div class="form-group">
+                        <input type="text" name="Username" placeholder="Username">
+                    </div>
+                    <div class="form-group">
+                        <input type="password" name="Password" placeholder="Password">
+                    </div>
+                    <div class="checkbox">
+                        <label><input type="checkbox" name="RememberMe">Remember Me</label>
+                    </div>
+                    <div class="form-group">
+                        <input type="submit" value="Log In" data-test="loginSubmit">
+
+                        <div class="help-text"><a href="https://www2.learningtree.com/mylearningtree/forgotuserid.aspx">Forgot Username</a> or <a href="https://www2.learningtree.com/mylearningtree/resetpass.aspx">Password</a></div>
+                    </div>
+                    <div class="create-account" data-test="loginCreate">
+                        <a href="https://www2.learningtree.com/mylearningtree/overview.aspx">Create Account</a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
 
 <div id="calang-overlay">
-
     <div class="x"></div>
     <h2>Please Choose a Language</h2>
     <div class="ca">
         <a href="https://www.learningtree.ca"></a>
         <h4>Canada - English</h4>
     </div>
-
     <div class="cafr">
         <a href="https://www.learningtree.ca/fr-ca/"></a>
         <h4>Canada - Français</h4>
@@ -993,79 +820,19 @@ var google_remarketing_only = true;
     <div class="loadingimg"></div>
 </div>
 <div class="tymodalbg"></div>
-
-
-
-
-<!-- Jquery and Bootstap core js files -->
-<script type="text/javascript" src="/bootstrap/js/bootstrap.min.js"></script><iframe name="_hjRemoteVarsFrame" title="_hjRemoteVarsFrame" id="_hjRemoteVarsFrame" src="https://vars.hotjar.com/rcj-99d43ead6bdf30da8ed5ffcb4f17100c.html" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;"></iframe>
-<script type="text/javascript" src="/plugins/jquery.easing.js"></script>
-
-<!-- Modernizr javascript -->
-<script type="text/javascript" src="/plugins/modernizr.js"></script>
-
-
-<!-- jQuery Revolution Slider  -->
-<script type="text/javascript" src="/plugins/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
-<script type="text/javascript" src="/plugins/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
-
-
-
-<!-- Isotope javascript -->
-<script type="text/javascript" src="/plugins/isotope/isotope.pkgd.min.js"></script>
-
-<!-- Magnific Popup javascript -->
-<script type="text/javascript" src="/plugins/magnific-popup/jquery.magnific-popup.min.js"></script>
-<!-- Appear javascript -->
-<script type="text/javascript" src="/plugins/waypoints/jquery.waypoints.min.js"></script>
-<!-- Count To javascript -->
-<script type="text/javascript" src="/plugins/jquery.countTo.js"></script>
-<!-- Parallax javascript -->
-<script src="/plugins/jquery.parallax-1.1.3.js"></script>
-<!-- Contact form -->
-<script src="/plugins/jquery.validate.js"></script>
-<!-- Morphext -->
-<script type="text/javascript" src="/plugins/morphext/morphext.min.js"></script>
-
-<!-- Background Video -->
-<script src="/plugins/vide/jquery.vide.js"></script>
-<!-- Owl carousel javascript -->
-<script type="text/javascript" src="/plugins/owl-carousel/owl.carousel.js"></script>
-
-<!-- SmoothScroll javascript -->
-<script type="text/javascript" src="/plugins/jquery.browser.js"></script>
-<script type="text/javascript" src="/plugins/SmoothScroll.js"></script>
-
-
-<!-- Initialization of Plugins -->
-<script type="text/javascript" src="/js/template-hp.js"></script>
-
-<!-- Custom Scripts -->
-<script type="text/javascript" src="/js/custom-hp.js"></script>
-<!--adroll script-->
-<!-- Start AdRoll script-->
+<div class="ltmodalbg"></div>
+<div class="dkmodalbg" style="display: none;"></div>
 <script type="text/javascript">
-    adroll_adv_id = "KC3UYE7RONB27BCEQSRAI7";
-    adroll_pix_id = "AU2B6YMA35GGPBUALTUF53";
-    /* OPTIONAL: provide email to improve user identification */
-    adroll_email = "jmuskin@webmechanix.com";
-    (function () {
-        var _onload = function () {
-            if (document.readyState && !/loaded|complete/.test(document.readyState)) { setTimeout(_onload, 10); return }
-            if (!window.__adroll_loaded) { __adroll_loaded = true; setTimeout(_onload, 50); return }
-            var scr = document.createElement("script");
-            var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-            scr.setAttribute('async', 'true');
-            scr.type = "text/javascript";
-            scr.src = host + "/j/roundtrip.js";
-            ((document.getElementsByTagName('head') || [null])[0] ||
-            document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-        };
-        if (window.addEventListener) { window.addEventListener('load', _onload, false); }
-        else { window.attachEvent('onload', _onload) }
-    }());
+    ChatFeature(true, 'https://home-c16.incontact.com/inContact/ChatClient/ChatClient.aspx?poc=9dbb5303-e6db-4f7f-b5b2-2aa951579dd7&bu=4595007');
+    ChatFeature = null;
 </script>
+<script type="text/javascript" src="/js/site-end.v.5.89.4.min.js"></script>
 
-<!-- End AdRoll script-->
+	
 
-</body></html>
+
+
+
+
+
+<iframe name="_hjRemoteVarsFrame" title="_hjRemoteVarsFrame" id="_hjRemoteVarsFrame" src="https://vars.hotjar.com/box-de263bbc9261861ab6eefe1285fa249b.html" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;"></iframe><div id="ads"></div></body></html>
