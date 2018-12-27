@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indezine.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620151048id_/https%3A//www.indezine.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indezine.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227183805id_/https%3A//www.indezine.com/info/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -75,7 +75,7 @@ While our main site doesn’t use such stored cookies, apps from our partners su
 [Disqus](https://help.disqus.com/terms-and-policies/disqus-privacy-policy)  
 [WordPress](https://wordpress.org/about/privacy/)  
 [Selz](https://selz.com/privacy)  
-[Shareit](http://w.ushareit.com/w/privacy/a/)
+[Shareit](https://www.mycommerce.com/privacy-policy/)
 
 Back
 
@@ -188,8 +188,9 @@ You possess rights that relate to the use of your data, and this includes your a
 **Your Choices About Data:** You can decide not to provide certain data, but if you do so, you may be unable to use certain features of our Services.
 
   * To stop receiving newsletter emails from us, you can opt out by using the Unsubscribe link in the email you receive. Note that regardless of your email preference settings, we will send you transactional and relationship messages regarding the Services, including administrative confirmations, order confirmations, product content that is “dripped” out over time, important updates about the Services, and notices about our policies.
-  * The browser or device you use may allow you to control cookies and other types of local data storage. Your wireless device may also allow you to control whether location or other data is collected and shared.
-  * To get information and control cookies used for tailored advertising from participating companies, see the consumer opt-out pages for the [Network Advertising Initiative](http://llink.to/?u=http://www.networkadvertising.org/choices&e=a19c8627dbc04d23b48f81af41850656) and [Digital Advertising Alliance](http://llink.to/?u=http://www.aboutads.info/choices/&e=a19c8627dbc04d23b48f81af41850656), or if you’re located in the European Union, visit the [Your Online Choices](http://llink.to/?u=http://www.youronlinechoices.eu/&e=a19c8627dbc04d23b48f81af41850656)site. To opt out of Google’s display advertising or customize Google Display Network ads, visit the [Google Ads Settings page](http://llink.to/?u=https://www.google.com/settings/ads&e=a19c8627dbc04d23b48f81af41850656).
+  * control whether location or other data is collected and shared.
+  * To get information and control cookies used for tailored advertising from participating companies, see the consumer opt-out pages for the [ Network Advertising Initiative](http://llink.to/?u=http://www.networkadvertising.org/choices&e=a19c8627dbc04d23b48f81af41850656) and [Digital Advertising Alliance](http://llink.to/?u=http://www.aboutads.info/choices/&e=a19c8627dbc04d23b48f81af41850656), or if you’re located in the European Union, visit the [Your Online Choices](http://llink.to/?u=http://www.youronlinechoices.eu/&e=a19c8627dbc04d23b48f81af41850656)
+  * The browser or device you use may allow you to control cookies and other types of local data storage. Your wireless device may also allow you to site. To opt out of Google’s display advertising or customize Google Display Network ads, visit the [Google Ads Settings page](http://llink.to/?u=https://www.google.com/settings/ads&e=a19c8627dbc04d23b48f81af41850656).
   * To opt out of allowing Google Analytics to use your data for analytics or enrichment, see the [Google Analytics Opt-out Browser Add-on](http://llink.to/?u=https://tools.google.com/dlpage/gaoptout&e=a19c8627dbc04d23b48f81af41850656).
 
 
@@ -232,7 +233,7 @@ In March 2009, Google (one of the advertisers on this site) announced that they 
 
   * Google, as a third party vendor, uses cookies to serve ads on your site.
   * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](https://www.google.com/privacy_ads.html).
 
 
 
