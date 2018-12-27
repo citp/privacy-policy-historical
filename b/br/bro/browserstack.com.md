@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the browserstack.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614190626id_/https%3A//www.browserstack.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the browserstack.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227142057id_/https%3A//www.browserstack.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy : Browserstack
+# Privacy Policy | BrowserStack
+
+_Effective from May 25, 2018_
 
 Your privacy is of paramount importance to BrowserStack Inc., having its office at 4512, Suite # 100, Legacy Drive, Plano TX 75024 (hereinafter referred to as “ **Browserstack** ”, “ **we** ”, “ **us** ” or “ **our** ”, which terms shall also include our Affiliates. “ **Affiliates** ” means any entity that directly or indirectly controls, is controlled by, or is under common control with us. “Control” for purposes of this definition, means direct or indirect ownership or control of more than 50% of the voting interests of the subject entity). This privacy and cookies policy (“ **Privacy Policy** ”) applies to all products and services offered by BrowserStack (the “Service”).
 
@@ -8,7 +10,7 @@ This Privacy Policy sets out the basis on which any Personal Data which we colle
 
 Please read the following carefully. Registering for a BrowserStack account (“ **Your Account** ”) on our website or any mobile application, use of Your Account and accepting the terms of this Privacy Policy indicates that you have reviewed this Privacy Policy and have agreed to be bound by it. You will be required to expressly accept this Privacy Policy before registering Your Account (or before continuing to use the Service), and any users who use Your Account will also be required to expressly accept this Privacy Policy before first accessing (or before continuing to access) our Service through Your Account. If you do not agree to these terms you must leave our website immediately. If you choose to accept this Privacy Policy, we will keep a record of your acceptance in this regard.
 
-We will handle your Personal Data in accordance with Data Protection Legislation. “ **Data Protection Legislation** ” means the Data Protection Acts 1988 and 2003 and Directive 95/46/EC, any other applicable law or regulation relating to the processing of personal data and to privacy (including the E-Privacy Directive), as such legislation shall be amended, revised or replaced from time to time, including by operation of the General Data Protection Regulation (EU) 2016/679 (“ **GDPR** ”) (and laws implementing or supplementing the GDPR).
+We will handle your Personal Data in accordance with Data Protection Legislation. “ **Data Protection Legislation** ” means the Data Protection Acts 1988 and 2003 and Directive 95/467/EC, any other applicable law or regulation relating to the processing of personal data and to privacy (including the E-Privacy Directive), as such legislation shall be amended, revised or replaced from time to time, including by operation of the General Data Protection Regulation (EU) 2016/679 (“ **GDPR** ”) (and laws implementing or supplementing the GDPR).
 
   1. ##### **Information we gather from you**
 
