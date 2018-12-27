@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sfstation.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627105718id_/https%3A//www.sfstation.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfstation.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227174849id_/https%3A//www.sfstation.com/legal/privacy.php) for the most accurate reproduction.*
 
 # SF Station Privacy Policy
 
@@ -92,6 +92,6 @@ Some vendors such as Google use cookies to serve ads on our Services. Google's D
 
 Our Services sometimes provides links and pointers to various websites maintained by other organizations. Our Services provide these links as a convenience to our users, but does not operate, control or endorse these outside linked sites unless otherwise expressly and duly noted. We are solely responsible for the Services owned and operated by SF Station. In addition, various partnered sites are governed under contractual agreements which incorporate this Privacy Policy. WE, ON OUR OWN BEHALF AND ON BEHALF OF OUR DIVISIONS, SUBSIDIARIES, AFFILIATES, PARTNERS, OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, REPRESENTATIVES, AND CONTRACTORS, EXPRESSLY DISCLAIM ANY OBLIGATION, RESPONSIBILITY OR LIABILITY FOR THE COLLECTION, USE OR DISTRIBUTION OF INFORMATION COLLECTED THOUGH ANY THIRD PARTY SITES. WE ENCOURAGE YOU TO READ THE PRIVACY POLICY CONTAINED ON EACH OF THE WEBSITES YOU VISIT.
 
-If you have any questions about this Privacy Policy, the practices of our Websites or your dealings with our Websites, please [contact us](https://www.sfstation.com/app/contact/us.php).
+If you have any questions about this Privacy Policy, the practices of our Websites or your dealings with our Websites, please [contact us](https://www.sfstation.com/contact-us/).
 
 This Privacy Policy is subject to occasional revisions at our discretion, and if we make any substantial changes in the way we use your Personal Information, we will post an alert on this. If you object to any such changes, you must cease using our Services. Continued use of our Services following notice of any such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
