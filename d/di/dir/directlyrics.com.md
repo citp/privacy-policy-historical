@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directlyrics.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614102034id_/http%3A//directlyrics.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directlyrics.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227130810id_/https%3A//directlyrics.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Directlyrics
 
@@ -6,13 +6,13 @@ This website Directlyrics (directlyrics.com) provides a content service to you (
 
 ### The personal information we collect
 
-It is our policy to respect the privacy of the people who use the Services (each a “User,” collectively the “Users”). As you use Direct Lyrics, our servers automatically record information that the browser sends whenever it points to a Site or online service (”Log Data”). Log Data may include, but is not limited to, your computer’s Internet Protocol address, browser type, the web page you were visiting before you came to one of Direct Lyrics and information you search for on a Site.
+It is our policy to respect the privacy of the people who use the Services (each a “User,” collectively the “Users”). As you use Directlyrics, our servers automatically record information that the browser sends whenever it points to a Site or online service (”Log Data”). Log Data may include, but is not limited to, your computer’s Internet Protocol address, browser type, the web page you were visiting before you came to one of Direct Lyrics and information you search for on a Site.
 
 ### Logging and cookies
 
 Like many websites, we use “cookies” to collect information. A cookie is a small data file that we transfer to your computer’s hard disk for record-keeping purposes. We use “persistent cookies” to save your username and login password for future logins to Direct Lyrics. We use “session ID cookies” to enable certain features of our service, to better understand how you interact with Direct Lyrics and to monitor web traffic routing on Direct Lyrics and aggregate usage of Direct Lyrics. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of Direct Lyrics or all functionality of the services.
 
-We also use the services of a third-party advertising companies and advertising networks to serve ads to you on our behalf when you visit Direct Lyrics. These companies may use information (not including your name, address, email address or telephone number) about your visits to this Site and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit <http://www.networkadvertising.org/optout_nonppii.asp>.
+We also use the services of a third-party advertising companies and advertising networks to serve ads to you on our behalf when you visit Directlyrics. These companies may use information (not including your name, address, email address or telephone number) about your visits to this Site and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit <http://www.networkadvertising.org/optout_nonppii.asp>.
 
 ### Information sharing and disclosure
 
@@ -24,6 +24,6 @@ Business Transfers. We may sell, transfer or otherwise share some or all of its 
 
 ### Links to other sites
 
-Direct Lyrics contains links to other websites. If you choose to visit an advertiser by “clicking on” a banner ad or other type of advertisement, or click on another third party link, you will be directed to that third party’s website. The fact that we link to a website or present a banner ad or other type of advertisement is not an endorsement, authorization or representation that we are affiliated with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other websites and services follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.
+Directlyrics contains links to other websites. If you choose to visit an advertiser by “clicking on” a banner ad or other type of advertisement, or click on another third party link, you will be directed to that third party’s website. The fact that we link to a website or present a banner ad or other type of advertisement is not an endorsement, authorization or representation that we are affiliated with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other websites and services follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.
 
 Last modified: 1 Jan 2018
