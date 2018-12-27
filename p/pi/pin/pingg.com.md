@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pingg.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629204347id_/http%3A//www.pingg.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pingg.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227213235id_/https%3A//www.pingg.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy - Pingg.com
 
@@ -6,7 +6,7 @@
 
 **Pingg, LLC** ( **"Company"** or **"We"** ) respect your privacy and are committed to protecting it through our compliance with this policy. 
 
-This policy describes the types of information we may collect from you or that you may provide when you visit the website [ www.pingg.com ](https://web.archive.org/web/20180629204347id_/http%3A//www.pingg.com/info/www.pingg.com) (our **"Website"** ) and our practices for collecting, using, maintaining, protecting, and disclosing that information. 
+This policy describes the types of information we may collect from you or that you may provide when you visit the website [ www.pingg.com ](https://web.archive.org/web/20181227213235id_/https%3A//www.pingg.com/info/www.pingg.com) (our **"Website"** ) and our practices for collecting, using, maintaining, protecting, and disclosing that information. 
 
 This policy applies to information we collect: 
 
