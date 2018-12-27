@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cluburb.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622215655id_/http%3A//www.cluburb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cluburb.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227010041id_/http%3A//www.cluburb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Cluburb
 
