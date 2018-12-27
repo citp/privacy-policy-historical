@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the smugmug.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616034259id_/https%3A//www.smugmug.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smugmug.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227134750id_/https%3A//www.smugmug.com/about/privacy) for the most accurate reproduction.*
 
 # SmugMug's Privacy Policy
 
 For Flickr's Privacy Policy click [here](https://web.archive.org/about/privacy-flickr).
 
-**Date of Last Revision: May 24, 2018**
+**Date of Last Revision: August 15, 2018**
 
-SmugMug, Inc. and its subsidiaries, including Fantastic Fox, Inc. ( ** _"SmugMug"_** , **_"we"_** or **_"us"_** ), are passionately committed to the privacy of our customers.
+SmugMug, Inc. and its subsidiaries, including Flickr, Inc. ( ** _"SmugMug"_** , **_"we"_** or **_"us"_** ), are passionately committed to the privacy of our customers.
 
 This Privacy Policy ( ** _"Privacy Policy"_** ) explains how SmugMug collects, uses and discloses information from and about you when you use the SmugMug services, including the SmugMug applications and SmugMug website (collectively, the **_"Services"_** ).
 
@@ -92,6 +92,14 @@ We store the information we collect about you for as long as is necessary for th
 ### Data Transfers
 
 To provide the Services, we may transfer your information to SmugMug servers in the United States or other countries. When we transfer information from the European Economic Area (“EEA”) to countries that have not been deemed to provide an adequate level of protection, we employ data processing agreements based on the Standard Contractual Clauses to help ensure that your data is protected wherever it is transferred. You may request a copy of these clauses by contacting us at [help@SmugMug.com](mailto:help@smugmug.com).
+
+When we transfer personal data from the European Union or Switzerland to the United States, we comply with the EU-U.S. Privacy Shield Framework and the Swiss - U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data transferred from the European Union and Switzerland to the United States, respectively. SmugMug has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
+
+In compliance with the Privacy Shield Principles, we are committed to resolving complaints about our processing of your personal data. EU [and Swiss individuals] with inquiries or complaints regarding our compliance with the Privacy Shield program should first contact us. We have further committed to refer unresolved Privacy Shield complaints to JAMS, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit <https://www.jamsadr.com/eu-us-privacy-shield> for more information or to file a complaint. The services of JAMS are provided at no cost to you.
+
+Under certain conditions, you may be able to invoke binding arbitration to resolve your complaint. SmugMug is subject to the investigatory and enforcement powers of the Federal Trade Commission.
+
+If we share personal data transferred to the U.S. under the Privacy Shield with a third-party service provider that processes such data on our behalf, then we will be liable for that third party’s processing in violation of the Privacy Shield Principles, unless we can prove that we are not responsible for the event giving rise to the damage.
 
 ### Your Choices
 
