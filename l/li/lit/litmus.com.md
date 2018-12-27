@@ -1,13 +1,11 @@
-> *The following text is extracted and transformed from the litmus.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630165553id_/https%3A//litmus.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the litmus.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227142125id_/https%3A//litmus.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
   * [Features](https://web.archive.org/overview)
+  * [Enterprise](https://web.archive.org/enterprise)
   * [Pricing](https://web.archive.org/pricing)
   * [Resources](https://web.archive.org/resources)
-  * [Enterprise](https://web.archive.org/enterprise)
-  * [Community](https://web.archive.org/community)
-  * [Blog](https://web.archive.org/blog)
 
 * * *
 
