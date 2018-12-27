@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstthings.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627013614id_/https%3A//www.firstthings.com/terms-conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstthings.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227092141id_/https%3A//www.firstthings.com/terms-conditions) for the most accurate reproduction.*
 
 # Terms & Conditions | First Things
 
