@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howaboutwe.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607095317id_/http%3A//www.match.com/registration/privacystatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howaboutwe.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227135219id_/http%3A//www.match.com/registration/privacystatement.aspx) for the most accurate reproduction.*
 
 # : Match
 
@@ -244,8 +244,8 @@ We want you to be in control of your information, so we have provided you with t
 
 We want you to be aware of your privacy rights. Here are a few key points to remember: 
 
-  * Reviewing your information. Applicable privacy laws may give you the right to review the personal information we keep about you (depending on the jurisdiction, this may be called right of access, right of portability or variations of those terms). You can request a copy of your personal information by putting in such a request [here](https://web.archive.org/help/help.aspx).
-  * Updating your information. If you believe that the information we hold about you is inaccurate or that we are no longer entitled to use it and want to request its rectification, deletion or object to its processing, please contact us [here](https://web.archive.org/help/help.aspx)
+  * Reviewing your information. Applicable privacy laws may give you the right to review the personal information we keep about you (depending on the jurisdiction, this may be called right of access, right of portability or variations of those terms). You can request a copy of your personal information by putting in such a request [here](mailto:matchprivacy@match.com).
+  * Updating your information. If you believe that the information we hold about you is inaccurate or that we are no longer entitled to use it and want to request its rectification, deletion or object to its processing, please contact us [here](mailto:matchprivacy@match.com)
 
 
 
@@ -301,7 +301,7 @@ If you have questions about this Privacy Policy, here’s how you can reach us:
 
 **If you live in the United States or Canada:**
 
-**Online:** [here](https://web.archive.org/help/#holder)
+**Online:** [here](mailto:matchprivacy@match.com)
 
 **By post:**
     
@@ -314,7 +314,7 @@ If you have questions about this Privacy Policy, here’s how you can reach us:
 
 **If you live outside the United States or Canada:**
 
-**Online:** [here](https://web.archive.org/help/#holder)
+**Online:** [here](mailto:matchprivacy@match.com)
 
 **By post:**
     
