@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urbancelebrity.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626194709id_/https%3A//www.urbancelebrity.com/privacy-policy-i4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbancelebrity.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227033658id_/https%3A//www.urbancelebrity.com/privacy-policy-i4) for the most accurate reproduction.*
 
 # Urban Celebrity | Privacy Policy
 
@@ -48,7 +48,7 @@ You can unsubscribe from marketing messages from us at any time.
 
 • By clicking on the ‘unsubscribe’ link in any marketing email
 
-• By contacting our Customer service team on info@urbancelebrity.com or call 03332 342 394
+• By contacting our Customer service team on info@urbancelebrity.com
 
 Once you do this, we will update your profile to ensure that you don’t receive further marketing messages - please note it might take up to 72 hours to update our systems, so you may still receive marketing messages whilst your request is being processed. Stopping marketing messages will not stop email communications for necessary service messages eg. order updates
 
