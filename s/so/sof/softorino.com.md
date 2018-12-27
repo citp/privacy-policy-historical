@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softorino.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620190020id_/https%3A//softorino.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softorino.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227221439id_/https%3A//softorino.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -72,7 +72,7 @@ Privacy Policy: <https://supportyourapp.com/privacy-notice/>
 
 MailChimp is our trial automation & mailing list management tool.  
 Shared Data: e-mail, name, product license key.  
-Privacy Policy: <http://mailchimp.com/legal/privacy/>  
+Privacy Policy: [http://mailchimp.com/legal/privacy/](https://mailchimp.com/legal/privacy/)  
 
 
 
