@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bps.org.uk privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627173311id_/http%3A//www.bps.org.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bps.org.uk privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228004632id_/http%3A//www.bps.org.uk/privacy-policy) for the most accurate reproduction.*
 
 # British Psychological Society Privacy Notice | BPS
 
@@ -10,7 +10,7 @@ You can find out more about your rights under the new General Data Protection Re
 
 We are currently updating the Society's Privacy and Data Protection Policy in line with the changes in GDPR.
 
-If you have any queries in the interim please contact us on [dataprotection@bps.org.uk](mailto:dataprotection@bps.org.uk) or write to:
+If you have any queries in the interim please contact us on [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f19590859081839e85949285989e9fb1938182df9e8396df849a) or write to:
 
 British Psychological Society  
 St Andrews House  
@@ -51,7 +51,7 @@ Any complaints submitted about the Society will be kept for a maximum of 6 years
 
 ### Complaints about Members
 
-You can find information about the complaints process on [our website](mailto:https://www.bps.org.uk/submitting-complaint)
+You can find information about the complaints process on [our website](https://web.archive.org/cdn-cgi/l/email-protection#abc3dfdfdbd8918484dcdcdc85c9dbd885c4d9cc85dec084d8dec9c6c2dfdfc2c5cc86c8c4c6dbc7cac2c5df)
 
 ## [Non-members that use our online services]()
 
@@ -65,7 +65,7 @@ The services we currently provide online are:
 
 You can use your website user account to opt in and out of receiving email communications from the Society and to update your personal information.
 
-If you would like to delete your website account, please [contact us](mailto:enquiries@bps.org.uk).
+If you would like to delete your website account, please [contact us](https://web.archive.org/cdn-cgi/l/email-protection#72171c03071b001b1701321002015c1d00155c0719).
 
 Your account is automatically deleted after two years of inactivity.
 
@@ -77,7 +77,7 @@ Order confirmations will be sent by email.
 
 ### Email subscriptions and newsletters
 
-We will use your name and email address to provide you with emails and newsletters you have chosen to receive. You will be able to unsubscribe from these at any time by clicking on the link in the email or [contacting the society](mailto:enquiries@bps.org.uk).
+We will use your name and email address to provide you with emails and newsletters you have chosen to receive. You will be able to unsubscribe from these at any time by clicking on the link in the email or [contacting the society](https://web.archive.org/cdn-cgi/l/email-protection#50353e21253922393523103220237e3f22377e253b).
 
 Our online services should only be used by individuals aged 13 and over.
 
@@ -93,7 +93,7 @@ We will keep your application as long as you are part of the selection process f
 
 Unsuccessful applications will be contacted at the appropriate stage in the recruitment process and more detailed information regarding how we handle your data will be provided.
 
-For further information please contact [personnel@bps.org.uk](mailto:personnel@bps.org.uk)
+For further information please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#84f4e1f6f7ebeaeae1e8c4e6f4f7aaebf6e3aaf1ef)
 
 ## [Sharing your information]()
 
@@ -154,7 +154,7 @@ The British Psychological Society is responsible for ensuring your personal info
 
 We are the ‘Data Controller’ registered with the Information Commissioners Office and our registration number is Z5958155.
 
-If you would like any further information about our privacy policy, or if you would like to exercise any of the rights listed above, please contact us on [dataprotection@bps.org.uk](mailto:dataprotection@bps.org.uk) or write to:
+If you would like any further information about our privacy policy, or if you would like to exercise any of the rights listed above, please contact us on [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#355154415445475a415056415c5a5b755745461b5a47521b405e) or write to:
 
 The British Psychological Society  
 St Andrews House  
