@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weather.us privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627024834id_/https%3A//weather.us/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weather.us privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227101627id_/https%3A//weather.us/site/privacy) for the most accurate reproduction.*
 
 # Privacy Notice | Weather.us
 
@@ -42,7 +42,7 @@ WEATHEROK HAS NO CONTROL OVER THE PRIVACY, SECURITY, OR DATA COLLECTION PRACTICE
 
 3.1 Children’s Online Privacy Protection Act. The Sites are not intended for use by children under the age of 13\. Children under the age of 13 are prohibited from registering to use the Sites. If you are under the age of 13, do not register to use the Sites.
 
-3.2 Law Enforcement Requests. Law enforcement requests for data may be directed to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f19b9e948396b186949085999483df8482). We comply with lawful law enforcement requests.
+3.2 Law Enforcement Requests. Law enforcement requests for data may be directed to [joerg@weather.us](mailto:joerg@weather.us). We comply with lawful law enforcement requests.
 
 **4 Your Privacy Rights**
 
@@ -50,7 +50,7 @@ WEATHEROK HAS NO CONTROL OVER THE PRIVACY, SECURITY, OR DATA COLLECTION PRACTICE
 
 4.2 You may change your responses to registration questions using the My Account portal.
 
-4.3 If you have any additional questions or requests regarding the privacy of your data, please contact WeatherOK at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#21424e4f5540425561564440554944530f5452).
+4.3 If you have any additional questions or requests regarding the privacy of your data, please contact WeatherOK at [contact@weather.us](mailto:contact@weather.us).
 
 **5 Changes to this Privacy Notice**
 
