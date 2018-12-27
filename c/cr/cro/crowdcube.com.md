@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crowdcube.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627081354id_/https%3A//www.crowdcube.com/pg/privacy-and-cookie-policy-17) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdcube.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227193939id_/https%3A//www.crowdcube.com/pg/privacy-and-cookie-policy-17) for the most accurate reproduction.*
 
 # Privacy and cookie policy
 
@@ -6,7 +6,7 @@
 
 **CROWDCUBE LIMITED** (“Crowdcube” "we", “us”) are committed to protecting and respecting your privacy.
 
-Last Update Effective Date 9 May 2017
+Last Update Effective Date 5 September 2018
 
 This privacy policy applies to the website www.crowdcube.com owned and operated by Crowdcube Limited (acting as data controller). This privacy policy describes how Crowdcube collects and uses the personal data you provide on www.crowdcube.com. It also describes the choices available to you regarding our use of your personal data and how you can access and update this information (see "Your rights" section for more details).
 
@@ -42,7 +42,7 @@ We use information held about you in the following ways:
 
 If you are an existing customer/member, we may contact you by electronic means (fax, email or SMS) with information about goods and services similar to those which were the subject of a previous sale to you. We will not otherwise contact you by electronic means to provide you with information about goods and services which may be of interest to you, unless you have consented to this.
 
-If you do not want us to use your data in one or more of the ways mentioned above, please let us know by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or refer to additional instructions in the “Your rights” portion of this policy.
+If you do not want us to use your data in one or more of the ways mentioned above, please let us know by contacting us at support@crowdcube.com or refer to additional instructions in the “Your rights” portion of this policy.
 
 **DISCLOSURE OF YOUR INFORMATION**
 
@@ -58,7 +58,7 @@ In addition to the above, we may disclose your personal data to third parties:
 
 • If we are, or believe in good faith that we are, under a duty to disclose or share your personal data in order to comply with any legal obligation,; or permitted by law in order to enforce or apply our Terms and Conditions of Website Use and other agreements; or to protect the rights, property, or safety of us, our customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
 
-• If you have made an investment or applied to invest in a company via www.crowdcube.com, your personal data may be disclosed to the company (or the company's professional representatives) that you have invested or applied to invest in. If you request a business plan or contact a business or entrepreneur via a pitch page your contact details may also be shared with that business or entrepreneur.
+• If you have made an investment or applied to invest in a company via www.crowdcube.com, your personal data may be disclosed to the company (or the company's professional representatives) that you have invested or applied to invest in. If you request a business plan, Follow a pitch or contact a business or entrepreneur via a pitch page your contact details may also be shared with that business or entrepreneur.
 
 We may provide your personal data to companies that provide services to help us with our business activities such as shipping your order, processing payments, offering customer services or to improve our business operations. These companies are authorized to use your personal data only as necessary to provide these services to us.  
 
@@ -88,7 +88,7 @@ We hope that we can satisfy queries you may have about the way we process your i
 
 **How to exercise your rights**
 
-You can correct, change or delete your information in your member account setting page. You can stop receiving our newsletters or marketing emails by following the unsubscribe instructions included in these emails or accessing the email preferences in your account settings page. Alternatively, or to access any of the other above rights, you can email our Customer Support at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or by contacting us by telephone or postal mail at the contact information listed below. 
+You can correct, change or delete your information in your member account setting page. You can stop receiving our newsletters or marketing emails by following the unsubscribe instructions included in these emails or accessing the email preferences in your account settings page. Alternatively, or to access any of the other above rights, you can email our Customer Support at support@crowdcube.com or by contacting us by telephone or postal mail at the contact information listed below. 
 
 **HOW LONG WE RETAIN YOUR INFORMATION**
 
@@ -122,19 +122,19 @@ Where we have given you (or where you have chosen) a password which enables you 
 
 The security of your personal data is important to us. When you enter sensitive information (such as bank account information) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
 
-We follow generally accepted standards to protect the personal data submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on Our Site, you can contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+We follow generally accepted standards to protect the personal data submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on Our Site, you can contact us at support@crowdcube.com
 
 **ADDITIONAL PRIVACY INFORMATION**
 
 **Blog / Discussions**
 
-Our Site offers a publicly accessible blog and community discussions. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal data from our blog or community discussions, contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) In some cases, we may not be able to remove your personal data, in which case we will let you know if we are unable to do so and why.
+Our Site offers a publicly accessible blog and community discussions. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal data from our blog or community discussions, contact us at support@crowdcube.com. In some cases, we may not be able to remove your personal data, in which case we will let you know if we are unable to do so and why.
 
 **Referrals**
 
 If you choose to use our referral service to tell a contact about Our Site, we will ask you for your contacts’s name and email address. You must have consent from your contact to provide this information to us. We will automatically send your contact a one-time email inviting him or her to visit the site. Crowdcube store this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
 
-Your contact may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) to request that we remove this information from our database.
+Your contact may contact us at support@crowdcube.com to request that we remove this information from our database.
 
 **Links to 3rd Party Sites**
 
@@ -142,7 +142,7 @@ Our Site may, from time to time, contain links to and from the websites of our s
 
 **Member Directory**
 
-We will list you in our publicly accessible member directory. If you wish to request removal of your information or the deletion of an unauthorized profile from our directory, you can contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+We will list you in our publicly accessible member directory. If you wish to request removal of your information or the deletion of an unauthorized profile from our directory, you can contact us at support@crowdcube.com.
 
 **Profiles**
 
@@ -178,7 +178,7 @@ Exeter
 
 EX1 1TS
 
-Data Protection Officer; Paul Massey (contact at support address below).
+Data Protection Officer; Mark Tyler (contact at support address below).
 
 Office Opening Times:
 
@@ -189,3 +189,5 @@ Saturday - CLOSED
 Sunday - CLOSED
 
 Tel. 01392 241319
+
+Email: support@crowdcube.com
