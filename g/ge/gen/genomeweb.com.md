@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genomeweb.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627043150id_/https%3A//www.genomeweb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genomeweb.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227120004id_/https%3A//www.genomeweb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GenomeWeb
 
@@ -257,7 +257,7 @@ If you have any questions about this Privacy Policy, please contact us:
 
   * By phone number: +1-212-269-4747
 
-  * By mail: 40 Fulton Street, 10th Floor, New York, NY 10038
+  * By mail: 1 Battery Park Plaza, 8th Floor, New York, NY 10004
 
 
 
