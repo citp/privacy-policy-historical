@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fmscout.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627025209id_/https%3A//www.fmscout.com/a-privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fmscout.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227102048id_/https%3A//www.fmscout.com/a-privacy_policy.html) for the most accurate reproduction.*
 
 # FM Scout Privacy Policy | FM Scout
 
@@ -27,8 +27,8 @@ Customers:
 
 We resell the Football Manager game series through our Nexway store. We also actively support the authors of our exclusive _Football Manager tools_ (Genie Scout and FMS Editor) by promoting the purchase of the premium editions (in the form of a license number or file) via the Fastspring service.
 
-\- Our partner **Nexway** handles payment processing and stores the billing details required to verify your purchase. They provide fmscout with your email address and the game title of choice, which enables us to compare and match member emails in order to reward those members with the relevant "verified buyer" site badge.   
-You may refer to [Nexway's legal notice and policy](https://corporate.nexway.com/legal-notice-privacy/) for more details.
+\- Our partners **Nexway** and **2game** handle payment processing and stores the billing details required to verify your purchase. They provide fmscout with your email address and the game title of choice, which enables us to compare and match member emails in order to reward those members with the relevant "verified buyer" site badge.   
+You may refer to [Nexway's legal notice and policy](https://corporate.nexway.com/legal-notice-privacy/) and [2game's privacy policy](https://2game.com/privacy-policy) for more details.
 
 \- **Fastspring** is the payment handler of choice for both authors of our exclusive tools. We do not keep any customer data from that source on fmscout. However, the tool authors and their customer support team can access Fastspring's database whenever a customer needs a license regenerated (in case of loss or computer change).  
 You may refer to [Fastspring's privacy policy](http://fastspring.com/privacy/) for more details.
@@ -43,14 +43,13 @@ This could include only showing you a pop-up box once in your visit, or the abil
 
 ### THIRD PARTY USE
 
-\- **We use third party tracking services** ( _Google Analytics_ ) that use cookies and page tags.   
-We do this to collect aggregated and anonymized data about our website visitors. The data might include usage and user stats.   
+\- **We use third party tracking services** to collect aggregated and anonymized data about our website visitors.   
+We use _Google Analytics_ and _Comscore_ to analyse the use of our website. Google Analytics and Comscore gather information about website use by means of cookies. The information gathered relating to our website is used to create reports about the use of our website. The data might include usage and user stats. Relevant links: [Google's privacy policy](https://www.google.com/policies/privacy/) and [Comscore’s privacy policy](https://www.comscore.com/About-comScore/Privacy-Policy).   
 You may prevent your data from being used by Google Analytics by using [the official GA Opt-Out browser add-on](https://tools.google.com/dlpage/gaoptout).
 
 \- **We use third party advertisements on fmscout to support our site**.   
-Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the _Google AdSense_ program) information including your IP address. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
-
-\- We also may use **DART cookies for ad serving** through _Google's DoubleClick_ , which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests.
+We publish _Google AdSense_ interest-based advertisements on our website. These are tailored by Google to reflect your interests. To determine your interests, Google will track your behaviour on our website and on other websites across the web using cookies. You can view, delete or add interest categories associated with your browser by visiting [Google Ads Settings](https://adssettings.google.com/). You can also opt out of the AdSense partner network cookie using those settings.  
+We use _Avocet_ , _OpenX_ , _PulsePoint_ , _Sovrn_ and _Google Audiences_ to carry out retargeting and Header Bidding. These service use cookies for retargeting ads and targeting ads based on your interests. You can view the privacy policy of each of these service providers at [Avocet Policy](http://avocet.io/privacy-policy), [OpenX Policy](https://www.openx.com/legal/privacy-policy/), [PulsePoint Policy](https://www.pulsepoint.com/privacy-policy.html), [Sovrn Policy](https://www.sovrn.com/privacy-policy/) and [Google Policy](https://www.google.com/policies/privacy/).
 
 #### Dealing with cookies or unwanted ads
 
