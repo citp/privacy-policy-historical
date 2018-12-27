@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spotlight.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627073844id_/https%3A//www.spotlight.com/the-small-print/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spotlight.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227152203id_/https%3A//www.spotlight.com/the-small-print/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -93,7 +93,7 @@ If you are a Spotlight Member please note that your agent (if you are represente
 
 Spotlight keeps this Privacy Policy under regular review, and may change this policy occasionally by updating this page. Where practical we will notify you of changes to this Policy and prompt you to review these. However, you should check this page from time to time to ensure that you are happy with any changes. Your continued access and use of this site or other Spotlight services will mean that you agree to our current Privacy Policy.
 
-This Privacy Policy was last updated on 8th May 2018.
+This Privacy Policy was last updated on 6th July 2018.
 
 #### **How do we make sure your data is used lawfully?**
 
@@ -205,7 +205,8 @@ Here are the examples of the types of trusted third parties we work with:
     * More information: We are constantly looking for new ways to change and upgrade our Services and functionality. This may involve partnering with selected and trusted research organisations and technology providers to contribute to their research and innovation projects. Often the most innovative developments come from other industries or fields of research outside of our own, and the outputs of the research may have a broader application beyond the improvements from which we directly benefit. As part of this research our trusted partners may be given access to our systems and data and/or be provided with copies of our data, including member photos, video and audio clips, and other professional information from their public profile. In all such circumstances our partners' access to and use of this information will be comprehensively documented and strictly limited to specific research projects that may include benefits for Spotlight and our Services to you, and will be under secure, confidential, temporary conditions, and closed testing environments. Under no circumstances will this information be used for any commercial or live operational activity, other than to develop and test the specific technology and functionality, without your prior consent.
   * Law enforcement in complying with the law, or to enforce our Terms and Conditions or to protect the rights, property, or safety of ourselves, our customers or other third parties,
   * If we acquire any new business, and/or sell all or part of our business, and
-  * Third party payment service providers.
+  * Third party payment service providers,
+  * Third parties as detailed within your specific Membership Terms.
 
 
 
