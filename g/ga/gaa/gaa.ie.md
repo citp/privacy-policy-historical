@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gaa.ie privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629090812id_/http%3A//www.gaa.ie/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaa.ie privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227200845id_/http%3A//gaa.ie/privacy-statement) for the most accurate reproduction.*
 
-# GAA.ie - GAA Match Video and Highlights, Fixtures and Results, Latest News
+# Privacy Policy
 
 **Privacy Policy**
 
