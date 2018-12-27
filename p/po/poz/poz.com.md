@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poz.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626210014id_/https%3A//www.poz.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poz.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227043416id_/https%3A//www.poz.com/page/privacy-policy) for the most accurate reproduction.*
 
 # POZ.com Privacy Policy - POZ
 
