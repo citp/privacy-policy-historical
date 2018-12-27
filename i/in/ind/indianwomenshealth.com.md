@@ -1,124 +1,193 @@
-> *The following text is extracted and transformed from the indianwomenshealth.com privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509015601id_/http%3A//www.gsk.com/en-gb/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianwomenshealth.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227071044id_/http%3A//www.gsk.com/en-gb/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | GSK
+# Privacy Notice | GSK
 
-This Privacy Statement sets out how GSK uses and protects any information that you give to us. 
+Last updated 16 May 2018 ** _  
+_**
 
-Updated: 10 December 2014
+Your trust is important to us.
 
-This Privacy Statement sets out how GSK uses and protects any information that you give to us.  We respect your privacy and are committed to protecting your personal information.  This Privacy Statement explains how we collect, transfer, process, use and disclose your data and sets out our security practices.
+We want to make sure you understand what personal information we may collect about you when you interact with GlaxoSmithKline and its group of companies (“GSK,” “we,” “us” and “our”), how we use your personal information, and how we keep it safe.
 
-By providing us with your personal information, you agree and consent to its transfer, processing, use and disclosure as outlined in this Privacy Statement.
+This Privacy Notice explains:
 
-Information about the operator of websites or mobile applications (and GSK entity controlling any PII that is collected) can be found on the footer and/or contact page of websites and in the licensing agreement of mobile applications.
-
-### What we collect
-
-We collect personally identifiable information (PII) that you provide to us, which is information that identifies you as an individual.  We only do this when you have agreed to our request for that information.  This PII may include your:
-
-  * name
-  * address
-  * telephone number
-  * e-mail address
-
-
-
-### How we use your PII
-
-By providing your PII, you agree that, where it is permitted by local law or where you have agreed to receiving these communications from us, we may use the information:
-
-  * to respond to your requests
-  * to improve our level of service
-  * to improve the content of our communications
-  * to provide you with tips, helpful information, product news and updates
-  * to notify you of our new products and services
-  * to seek your views on our products and services
-  * to consider your application for employment
-  * for our own administrative and quality assurance purposes
-  * for other purposes that may be detailed on the website or mobile application
+  * what personal information we collect about you;
+  * how we use your personal information;
+  * on what basis we use your personal information;
+  * how long we keep your personal information;
+  * we may share your personal information with others and transfer it internationally;
+  * how we protect your personal information;
+  * your rights regarding your personal information;
+  * what to do if you don’t want to provide us with your personal information; and
+  * how we use cookies and where to find further information.
 
 
 
-### Website and mobile application usage information
+We may change this Privacy Notice from time to time. We encourage you to review this Privacy Notice periodically.
 
-We also automatically collect information about your computer browser type and operating system, websites you visited before and after visiting our websites, standard server log information, Internet Protocol (IP) addresses, GPS location data, mobile phone service provider, and mobile phone operating system.  We aggregate this information to understand how our visitors use our websites and mobile applications so that we can improve them and the services we offer.  GPS location data does not typically identify individual users.  We may also share this aggregated information with other companies within the GSK group and with other third parties.  This information includes:
+If you have any questions, please get in touch via one of the methods set out in the Contact us section below.
 
-  * the total number of visits to our websites and mobile applications
-  * the number of visitors to each page of our websites and mobile applications
-  * the domain names of our visitors' internet service providers.
+## What personal information do we collect?
 
+The personal information we collect when you interact with us via this website includes:
 
+**Information you provide us with, such as**
 
-### How we protect your PII
-
-GSK will take appropriate legal, organizational, and technical measures to protect your personal information consistent with applicable privacy and data security laws.  When GSK uses a third-party service provider, that provider will be carefully selected and required to use appropriate measures to protect the confidentiality and security of personal information.  We use a variety of security technologies and procedures to help protect your PII from unauthorised access, use or disclosure.  Unfortunately, the transmission of information via the Internet or a mobile phone network connection is not completely secure.  Although we will do our best to protect your PII, we cannot guarantee the security of the PII you transmit to our websites or mobile applications:  any transmission is at your own risk.  While we cannot guarantee that loss, misuse or alteration to data will not occur, once we have received your information, we will employ appropriate technical security measures to prevent such unfortunate occurrences.
-
-### Sharing PII with third parties
-
-We may share your PII with our affiliates, contractors and agents in the normal course of business for delivery of the activities to which you have agreed.  Unless otherwise specified in the website or mobile application, we will not sell or rent PII to other third parties, except that your PII may be transfered to a third party in the event that the business of this site or a part of it and the customer data connected with it is sold, assigned or transferred.  Sometimes we use selected third parties to provide support services in connection with our websites, mobile applications or in the normal course of business.  These parties may, from time to time, have access to your information to enable them to provide those services to us.  We require all companies providing such support services to meet the same standards of data protection as our own.  They are prohibited from using the information for their own purposes.  In particular, we do not allow service providers to use your PII for their own marketing activities.
-
-### When we may disclose your PII to others
-
-GSK reserves the right to disclose personal information about you, including your e-mail address, for reporting to government authorities, to parties in relevant legal proceedings as authorized by the presiding court or tribunal and otherwise to the extent required or explicitly authorized by applicable law.  In certain special cases where permitted by local law, we may disclose your PII:
-
-  * when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to you or otherwise injuring or interfering with GSK's rights, property or operations, other users of this website or mobile application or anyone else who could be harmed by such activities
-  * when we believe the law requires it, or in response to any demand by law enforcement authorities in connection with a criminal investigation, or civil or administrative authorities in connection with a pending civil case or administrative investigation
-  * in connection with a substantial corporate transaction, such as the sale of a product line or division, a merger, consolidation, asset sale or in the unlikely event of bankruptcy.
+            * your name and contact information;
+            * email communications sent to GSK;
+            * a registration form when you register for a webcast event; and
+            * your responses to any surveys that you may choose to participate in.
 
 
 
-PII collected may be transferred to, stored and processed in your country of residence or any other country in which GSK (including its affiliates), subcontractors or agents maintain facilities, including the United States and countries outside the European Economic Area (EEA).  This means that your information may be processed in countries with lower data protection standards than your country of residence.  By using our websites and mobile applications, you consent to any transfer, processing or storing of information outside of your country of residence and outside the EEA.  We will ensure that if information is transferred outside your country of residence, it will still be treated in accordance with this Privacy Statement.
+**technical information, for instance through the use of cookies, such as**
 
-### Use of IP addresses
-
-An IP address is a set of numbers that is automatically assigned to your computer whenever you log on to your Internet service provider or through your organisation's local area network (LAN) or wide area network (WAN).  Web servers automatically identify your computer by the IP address assigned to it during your session online.
-
-GSK, or third party companies acting on our behalf, may collect IP addresses for the purposes of systems administration and to audit the use of our websites.  We also may use IP addresses to identify users of our websites when we feel it is necessary to enforce compliance with the websites’ terms of use or to protect our service, websites or other users.
-
-### Cookies
-
-Our websites and mobile applications may use technology called "cookies."  A cookie is a small text file that is placed on your hard disk by a server.  Cookies allow our websites and mobile applications to respond to you as an individual.  The website or mobile application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.  For instance, our server may set a cookie that keeps you from having to enter a password more than once during a visit to a website.
-
-You can choose to accept or decline cookies.  Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies or receive a warning before a cookie is stored if you prefer.  Please refer to your Internet browser’s instructions or help screen to learn more about these functions and to specify your cookie preferences.
-
-If you choose to decline cookies, you may not be able to fully experience the interactive features of our websites or any other websites that you visit.  For additional information regarding our use of cookies, review our global [Cookie Policy](http://www.gsk.com/en-gb/cookie-policy/).
-
-### Information from outside sources
-
-Where permitted by local law, we may also collect legally obtained information from third parties to add to our existing user databases.  Some of this information may be PII.  We do this to better target information offerings and promotional campaigns in which we think you would be interested.  Such PII will only be collected and used by us in accordance with the basis on which it was originally provided by the subject, or as otherwise permitted by local law.
-
-### Access
-
-We will retain your information only for the period necessary to fulfil the purposes outlined in this Privacy Statement unless a longer retention period is required or permitted by law.  You may contact us in writing to request the updating, correcting or removal of PII that you have provided to us at any time using the contact information provided at the end of this Privacy Statement.  Your local laws may also give you the right to access information that you have provided to us.  In some countries, you may need to pay a reasonable fee to meet our costs in providing you with this information.
-
-### Links to other websites
-
-Our websites and mobile applications may from time to time provide links to or embed third party websites.  This Privacy Statement does not apply to those websites.  If you choose to enter such a linked site, you agree that we are not responsible for the availability of such websites and do not review or endorse and shall not be liable, directly or indirectly, for:
-
-  * how these websites treat your PII
-  * the content of such websites
-  * the use that others make of these websites.
+            * activity data, such as when you completed a form on this website;
+            * information from your visits to this website, including the type of browser and operating system you use, access times, pages viewed, URLs clicked on, your IP address and the pages you visited before and after navigating to this website;
+            * social media tracking pixels that allow platforms such as Facebook and Twitter to interact with this website and give feedback on your actions; and
+            * device information, including the unique device identifier, hardware model, operating system and version and mobile network information.
 
 
 
-Please ensure you check the legal and privacy statements posted on each website or mobile application you access before entering any PII.
+Personal information we collect when we monitor other websites may include your public personal information, for example when we monitor digital conversations on public platforms to understand what people are saying about us or the pharmaceutical industry more generally. We may combine information that we have about you from various sources.
 
-### Use of our websites and mobile applications by children
+Personal information we collect when you report a possible side effect associated with one of our products may include information such as your gender, date of birth and information about your health.
 
-Unless otherwise explicitly stated, websites and mobile applications on which this Privacy Statement appears are not intended or designed to attract children under the age of 13.  We do not knowingly collect PII from visitors in that age group via these websites or mobile applications.  On those websites or mobile applications that are intended for use by children under the age of 13, we only collect PII with the explicit consent of a parent or guardian.
+## How do we use your personal information?
 
-### Changes
+We may use your personal information to:
 
-We may occasionally update this Privacy Statement.  If the changes we make are material, we also may post a notice regarding the changes on our websites or mobile applications and related licensing agreements.  We encourage you to periodically review this Privacy Statement to stay informed about how we are helping to protect the PII we collect.  Your continued use of our websites and mobile applications constitutes your agreement to the Privacy Statement and any updates.  Subsequent changes in this Privacy Statement will not apply to data that were collected before the change is made.
+Provide you with information and services including:
 
-This Privacy Statement was last updated on 10 December 2014.
+            * online events, such as webcast events;
+            * our press releases;
+            * job postings;
+            * financial results; and
+            * tips and helpful information and marketing communications about our products and services. We will always obtain consent for marketing where required by law.
 
-### Contact us
 
-References to “GSK,” “we,” “us” and “our” are references to GlaxoSmithKline PLC and its affiliates.  Please address any questions, comments and requests regarding this Privacy Statement to your local GSK affiliate using the contact information below.  If you contact us, please note the name of the websites you have visited, as well as how we may contact you.
+
+Contact and interact with you, including to:
+
+            * respond to your requests (for instance in case you applied for employment); and
+            * provide important notices and updates, such as changes to our terms and policies, security alerts and administrative messages.
+
+
+
+Operate our business, including to:
+
+            * respond to reports you make of a possible side effect associated with one of our products and to monitor the safety of our products.
+            * comply with applicable laws, regulations and guidance;
+            * comply with demands or requests made by regulators, governments, courts and law enforcement authorities; and
+            * investigate and take action against illegal or harmful behaviour of users.
+
+
+
+Improve our day-to-day operations, including:
+
+            * for internal purposes such as auditing, data analysis and research to help us deliver and improve our GSK digital platforms, content and services;
+            * to monitor and analyse trends, usage and activities in connection with our products and services to understand which parts of our digital platforms and services are of the most interest and to improve the design and content of our platforms;
+            * to improve our products and services and our communications to you; and
+            * (where applicable) to ensure we have up-to-date contact information for you.
+
+
+
+## **On what basis do we use your personal information?**
+
+Data privacy law sets out a number of different reasons on which a company may rely to collect and use your personal information.
+
+We use your personal information for the following reasons:
+
+            * _For legitimate business purposes:_ We use your personal information to make our communications with you more relevant and personalised to you, and to make your experience of our products and services efficient and effective. It also helps us to operate and improve our business and minimise any disruption to the services that we may offer to you.
+            * _To perform a contract to which you are a party_ : we may need to process your personal information to provide a product or service you request.
+            * _To comply with our legal obligations and other demands for information:_ It is important to us that we are able to comply with laws, regulations and guidance, as well as the other requests or demands for data as set out here. They affect the way in which we run our business and help us to make our products and services as safe as we can.
+            * _You have given your consent:_ At times we may need to get your consent to allow us to use your personal information for one or more of the purposes set out above. See the “Your rights regarding your personal information” section for information about the rights that you have if we process your information on the basis of your consent.
+
+
+
+## How long will we keep your personal information?
+
+We will always keep your personal information for the period required by law and where we need to do so in connection with legal action or an investigation involving GSK. Otherwise, we keep your personal information:
+
+            * for as long as needed to provide you with access to services you have requested;
+            * where you have contacted us with a question or request, for as long as necessary to allow us to respond your question or request.
+
+
+
+## **We sometimes share your personal information with others and transfer it internationally**
+
+We may share your personal information with:
+
+            * members of the GSK group of companies; and
+            * the following trusted third parties:
+            * our agents and suppliers, including those who provide us with technology services such as data analytics, hosting and technical support;
+            * our professional advisors, auditors and business partners;
+            * regulators, governments and law enforcement authorities; and
+            * other third parties in connection with re-organising all or any part of our business.
+
+
+
+Your personal information may be processed by GSK, its affiliated companies and GSK’s trusted third party suppliers outside of your home country. Data privacy laws in the countries to which your personal information is transferred may not be equivalent to, or as protective as, the laws in your home country. 
+
+We will implement appropriate measures to ensure that your personal information remains protected and secure when it is transferred outside of your home country, in accordance with applicable data protection and privacy laws.  These measures include data transfer agreements implementing standard data protection clauses, or GSK’s Binding Corporate Rules.  You can find more information about data transfer agreements [here](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en), and more information about [GSK’s Binding Corporate Rules](https://web.archive.org/en-gb/about-us/policies-codes-and-standards/binding-corporate-rules/ "Binding Corporate Rules") _._
+
+## Protecting your personal information
+
+We use a variety of security measures and technologies to help protect your personal information from unauthorised access, use, disclosure, alteration or destruction in line with applicable data protection and privacy laws. For example, when we share your personal information with external suppliers, we may put in place a written agreement which commits the suppliers to keep your information confidential, and to put in place appropriate security measures to keep your information secure.
+
+The transmission to us of information via the internet or a mobile phone network connection may not be completely secure and any transmission is at your own risk.
+
+## **Websites** **that we do not own or control**
+
+From time to time we may provide links to websites or mobile applications that are not owned or controlled by us. This Privacy Notice does not apply to those websites. If you choose to use those websites, please check the legal and privacy statements posted on each website or mobile application you access to understand their privacy practices.
+
+## **Your rights** **regarding your personal information**
+
+Data privacy laws provide you with a number of rights over your personal information. 
+
+You may be entitled to:
+
+            * ask GSK for access to the personal information GSK holds about you;
+            * request the correction and/or deletion of your personal information;
+            * request the restriction of the processing of your personal information, or object to that processing;
+            * withdraw your consent to the processing of your personal information (where GSK is processing your personal information based on your consent);
+            * request for the receipt or the transfer to another organisation, in a machine-readable form, of the personal information that you have provided to GSK; and
+            * complain to your local data protection authority if your privacy rights are violated, or if you have suffered as a result of unlawful processing of your personal information.
+
+
+
+If you would like to exercise your rights, please let us know by getting in touch with us as set out in the Contact us section below. 
+
+## **What if you do not want to provide us with your personal information?**
+
+Where you are given the option to share your personal information with us, you can always choose not to do so. 
+
+If you object to the processing of your personal information, or if you have provided your consent to processing and you later choose to withdraw it, we will respect that choice in accordance with our legal obligations. This could mean that we may not be able to perform the actions necessary to achieve the purposes as set out in the section “How do we use your personal information?” above or that you are unable to make use of the services and products offered by us.
+
+## **Cookies and other technologies**
+
+This website uses technology called "cookies" which allow this website to recognise and respond to you as an individual. You can choose to accept or decline cookies.
+
+If you do choose to decline cookies, not all elements of this website may function as intended, so your website experience may be affected. For more information about our use of cookies, please see our [Cookie Policy](https://web.archive.org/en-gb/cookie-policy).
+
+## **Contact us**
+
+If you have questions or requests regarding this Privacy Notice, or if you would like to exercise your rights, please contact your local GSK company using the contact information below.
+
+**United Kingdom:**
 
 To contact GSK in the United Kingdom, call 0808-234-6680.
 
+**United States:**
+
 To contact GSK in the United States, call 1-866-475-3844.
 
-[Contact information for other GSK locations can be found here](https://web.archive.org/en-gb/contact-us/worldwide/ "Worldwide").
+**Rest of the world:**
+
+Contact information for specific countries can be found in our [worldwide contact directory](https://web.archive.org/en-gb/contact-us/worldwide/ "Worldwide").
+
+## Data Controller
+
+GlaxoSmithKline Services Unlimited is the controller of your personal information.
+
+You can contact GSK’s EU Data Protection Officer using the contact information found [here](https://web.archive.org/en-gb/contact-us/privacy-contact-information/).
