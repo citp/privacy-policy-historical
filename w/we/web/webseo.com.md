@@ -1,20 +1,24 @@
-> *The following text is extracted and transformed from the webseo.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613104318id_/https%3A//www.webceo.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webseo.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227134206id_/https%3A//www.webceo.com/privacy.htm%23cookies) for the most accurate reproduction.*
 
 # Web CEO Privacy Policy
 
 Web CEO LLC (hereinafter "Web CEO") is firmly committed to the privacy of its customers. Web CEO shall take all reasonable measures to have your personal information protected to ensure you feel safe and secure.
 
-This Privacy Policy covers how Web CEO uses personal information that users provide to Web CEO when they use the Web CEO service through our software (cloud-based SEO platform) and our website located at https://www.webceo.com (the “Website”). Such service, the software and the Website are collectively referred to in this Privacy Policy as the “Service”. This Privacy Policy applies only to information that you provide to us through the Service. By using any of the services you accept the terms of our Privacy Policy.
+This Privacy Policy covers how Web CEO uses personal information that users provide to Web CEO when they use the WebCEO software service (hereinafter "WebCEO") through our software (cloud-based SEO platform) and our website located at https://www.webceo.com (the “Website”). Such service, the software and the Website are collectively referred to in this Privacy Policy as the “Service”. This Privacy Policy applies only to information that you provide to us through the Service. By using any of the services you accept the terms of our Privacy Policy.
 
 ### How We Collect and Use Your Information
 
-You can browse the Web CEO website, located at [//www.webceo.com](https://www.webceo.com/), without providing any personally identifying information. To start using the Web CEO's Service you may be required to register and provide some personal information.
+You can browse the Web CEO website, located at [//www.webceo.com](https://www.webceo.com/), without providing any personally identifying information.
+
+To start using WebCEO, you will need to register at [https://online.webceo.com](https://online.webceo.com/) and provide some personal information such as a unique email address and password, or get authorized with your Facebook, Google, LinkedIn or Yahoo account. We may use your Personal Information to respond to an email or other inquiry or request, to help improve the Service, to customize your experience or to send updates or notices about the Service.
+
+If you choose to link your Facebook, LinkedIn, Yahoo or Google account to WebCEO, you will be prompted to allow us to get access to your email and name from your Facebook, LinkedIn, Yahoo or Google account, and you are authorizing us to collect, store, and use what they send us in accordance with this Privacy Policy. You can delete your WebCEO account and thus the connection to your social media account or service account at any time by contacting our support team.
 
 The information that Web CEO collects about you can be classified as Personally Identifying Information and Anonymous Information. Personally Identifying Information refers to information that identifies you as a person, for example, your name, postal address, phone number, email address, payment details. Anonymous Information refers to information that does not identify a specific individual. We may use and analyze the information we collect so that we can administer, support, improve and develop our website and the products and services we offer. We may collect information from third party service providers only upon your grant of respective permissions.
 
 ### Personally Identifying Information (PII)
 
-We collect your email address when you register in the Service. If you subscribe to one of the paid service plans in the Web CEO cloud-based SEO platform, we collect such information as your full name, billing address, credit card information, phone number and other billing information.
+We collect your email address when you register in the Service. If you subscribe to one of the paid service plans in the WebCEO cloud-based SEO platform, we collect such information as your full name, billing address, credit card information, phone number and other billing information.
 
 We may use your PII to respond to an email or other inquiry or request, to help improve the Service, to customize your experience at the Website, or to send updates or notices about the Service. We also use your PII to bill you for the Service subscriptions and other charges. The billing is performed by a third-party billing service that meets Payment Card Industry Data Security Standards securing your sensitive financial and billing information.
 
@@ -33,6 +37,22 @@ We use third-party analytics services to help understand your usage of our servi
 We provide a limited amount of your information (such as sign-up date and some personal information like your email address) to Intercom, Inc. **(“Intercom”)** and utilize Intercom to collect data for analytics purposes when you visit our website or use our product. As a data processor acting on our behalf, Intercom analyzes your use of our website and/or product and tracks our relationship by way of cookies and similar technologies so that we can improve our service to you. For more information on Intercom's use of cookies, please visit <https://www.intercom.com/terms-and-policies#cookie-policy>. We may also use Intercom as a medium for communications, either through email, or through messages within our product(s). As part of our service agreements, Intercom collects publicly available contact and social information related to you, such as your email address, gender, company, job title, photos, website URLs, social network handles and physical addresses, to enhance your user experience. For more information on the privacy practices of Intercom, please visit <https://www.intercom.com/terms-and-policies#privacy>. Intercom’s services are governed by Intercom’s terms of use which can be found at <https://www.intercom.com/terms-and-policies#terms>. If you would like to opt out of having this information collected by or submitted to Intercom, please contact us.
 
 If you are subscribed to the Service and you wish to log in to your Service account, your Web browser must accept cookies. A cookie/session variable is assigned to you when you log in, and is placed on your computer for programming purposes only. It ensures that you have properly logged in and that your personal information is only accessible to you. The Web browser's settings can be customized to refuse cookies and to remove them from your computer.
+
+### Connecting to Google Applications via the WebCEO service
+
+WebCEO provides several tools that grant the ability for users to connect to certain Google products, like Google Analytics and Google Search Console. Different WebCEO tools may ask for different permissions, so it is important to review the requested permissions before allowing access.
+
+In order for these WebCEO applications to work properly, a user must begin the process by clicking the 'Connect' button. The user will be taken to a secure page on Google.com via a pop-up window or tab, where the permissions the tool requires will be displayed. If the user consents to grant WebCEO permission, Google will issue a token that our tools can use to access the requested information.
+
+After receiving permission, WebCEO can, within the scope of the approved access, request information about, or data from, any profile the user has access to. For these tools, WebCEO uses a short-lived access token to request user Google Analytics or Search Console data.
+
+The information that we request is used by our tools in calculations and visualizations about your selected data. We store the requested data up to 30 days to build reports and provide additional analytics data in various WebCEO tools. At the end of the specified period we delete the data and make a new request. If a user revokes access to the Google Analytics or Search Console data, we delete all previously requested data.
+
+By default, our tools are able to see the email address of the user’s account. Our tools do not ever see or store a user’s password, as that is entered on a secure pop-up window or tab on Google’s website and not visible to us. At any time the user can revoke access to their Google Analytics or Search Console data in the WebCEO settings.
+
+We shall not disclose, sell or rent your Google Analytics or Search Console data to any third party. We shall share your Google Analytics or Search Console data with the third parties only if you instruct us to and only if such information is required to provide you with specific services.
+
+To monitor which tools by WebCEO and others tools, have been granted access to your information, and to see which permissions have been granted, review your connected applications here: [myaccount.google.com/permissions](https://myaccount.google.com/permissions)
 
 ### How We Use Cookies
 
@@ -63,7 +83,7 @@ Google Analytics  |  _ga  |  Registers a unique ID that is used to generate stat
 Google Analytics  |  _gat  |  Used by Google Analytics to throttle request rate  |  Session   
 Google Analytics  |  _gid  |  Registers a unique ID that is used to generate statistical data on how the visitor uses the website  |  Session   
 To refuse Google Analytics cookies, please follow the instructions below under the heading "How can I control cookies?" Alternatively, please click on the relevant opt-out [link](https://tools.google.com/dlpage/gaoptout)  
-Marketing:  |  Marketing cookies are used to track visitors across websites. The intention is to displa ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.   
+Marketing:  |  Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.   
 google.com  |  ads/ga-audiences  |  Used by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites.  |  Session   
 google.com  |  ads/user-lists/#  | 
 
