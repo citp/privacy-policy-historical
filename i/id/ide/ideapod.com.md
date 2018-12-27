@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ideapod.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627021157id_/https%3A//www.ideapod.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ideapod.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227091238id_/https%3A//ideapod.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Ideapod
 
@@ -8,7 +8,7 @@ This Privacy Policy explains what information we collect about you on our websit
 
 Please carefully read this Privacy Policy, which is part of our Terms of Use, before using our website, DailyWire.com, ForwardPublishing.com, and any related IDEAPOD webpages or mobile sites. If you do not agree with our policies and practices, please do not to use our website. By accessing or using our website, you agree to the terms of this Privacy Policy.
 
-**Contents**
+ **Contents**
 
   * Contact Information
   * Scope of this Privacy Policy
@@ -28,7 +28,7 @@ Please carefully read this Privacy Policy, which is part of our Terms of Use, be
 
 
 
-**Contact Information**
+ **Contact Information**
 
 Should you have any questions about our website or this Privacy Policy, please contact us at:
 
@@ -40,7 +40,7 @@ Australia
 
 OR our [online form](http://www.ideapod.com/contact)
 
-**Scope of this Privacy Policy**
+ **Scope of this Privacy Policy**
 
 This policy applies to information we collect:
 
@@ -56,7 +56,7 @@ It does not apply to information collected by:
 
 
 
-**Information We Collect**
+ **Information We Collect**
 
 Personal Information
 
@@ -68,7 +68,7 @@ Non-Personal Information
 
 Additionally, IDEAPOD and our advertising partners may use automatic data collection technologies such as cookies to collect non-personally identifiable information when you visit the Site, including, but not limited to, the type of browser you are using, the type of operating system you are using, your IP address, aggregate data about the number of visits to the Site, and aggregate data about the pages visited.  **IDEAPOD and our advertising partners may use this information and connect this information with your personal information such as your name or email address to identify you and provide you with content that may be relevant to you.**
 
-**Cookies and Online Tracking Technologies**
+ **Cookies and Online Tracking Technologies**
 
 Like many websites, IDEAPOD uses cookies and other tracking technologies to collect general, non-personally identifiable information about Site visitors. A cookie is a small file placed on the hard drive of your computer. IDEAPOD uses cookies and other tracking technologies in order to improve the Site by providing aggregate information on the number of visitors and usage patterns, to allow us to recognize you when you revisit the Site to provide you with customized information and to remember your preferences, and to provide you with information that may be relevant to you from IDEAPOD or our advertising partners.
 
@@ -82,7 +82,7 @@ Do Not Track Disclosure
 
 Additionally, some Internet browsers have a ‘do not track’ feature that lets you tell websites that you do not want to have your online activities tracked. We are currently not set up to respond to such signals.
 
-**How We Use the Information We Collect**
+ **How We Use the Information We Collect**
 
 We use information that we collect about you or that you provide to us, including any personal information:
 
@@ -103,7 +103,7 @@ We use information that we collect about you or that you provide to us, includin
 
 We may also use your information to contact you about products and services from IDEAPOD and from our business partners that may be of interest to you. If you do not want us to use your information in this way, please use the opt-out procedures described in the Opt-Out Procedures section.
 
-**Sharing Your Information**
+ **Sharing Your Information**
 
 IDEAPOD does not sell, trade, or disclose your personally identifiable information to third parties except as set forth herein.
 
@@ -123,13 +123,13 @@ We will only disclose personally identifiable information that we collect or you
 
 With your consent. We may disclose aggregated, non-personally identifiable information about the Site users without restriction.
 
-**Opt-Out Procedures**
+ **Opt-Out Procedures**
 
 If you do not wish to have your contact information shared by IDEAPOD to third parties to promote their products or services, you can opt out by contacting us [here](http://www.ideapod.com/contact).
 
 If we have sent you a promotional email, you may send us a return email asking to be omitted from future promotional email distributions. This opt-out does not apply to transactional emails regarding your transactions or updates to our policies.
 
-**Your California Privacy Rights**
+ **Your California Privacy Rights**
 
 Under California law, a California resident with whom IDEAPOD has an established relationship has the right to request certain information with respect to any personal information IDEAPOD may have shared with third parties for their direct marketing purposes. Alternatively, IDEAPOD may provide a cost-free means to opt out of such sharing.
 
@@ -137,33 +137,33 @@ IDEAPOD has opted to provide you with a cost-free means to opt out of such shari
 
 You may also send an email [here](http://www.ideapod.com/contact) instructing us to no longer share your personal information with third parties who will use it for their direct marketing purposes. Please also include your name and all of the postal addresses and email addresses that you have provided to us.
 
-**Information Security**
+ **Information Security**
 
 IDEAPOD has implemented certain procedural, technical and physical security measures to help protect against the risk of loss, misuse, and alteration of sensitive information that you provide. We require third parties with whom we share personally identifiable information to do the same. Nevertheless, such security measures may not prevent all loss, misuse, or alteration of information on the Site, and IDEAPOD is not responsible for any damages or liabilities relating to any such security failures. By using the Site, you understand that there is a risk that data and communications, including email and other electronic communications, may be accessed by unauthorized third parties. The foregoing does not affect any liability that cannot be excluded or limited under applicable law.
 
-**Credit Card Information**
+ **Credit Card Information**
 
 IDEAPOD does not store your credit card information when you subscribe to our services. IDEAPOD partners with third party providers to process credit card transactions.
 
-**Accessing and Correcting Your Information**
+ **Accessing and Correcting Your Information**
 
 IDEAPOD email subscribers may review or modify their contact information on file by accessing their account online. Subscribers of paid content may also review or modify their contact information on file by accessing their account online. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
 
-**Transfer of Information to the United States**
+ **Transfer of Information to the United States**
 
 The Site is operated in the United States and is intended for users located in the United States. If you are located outside the United States, please be aware that information we collect, including personal information, may be transferred to, processed, and stored in the United States. By using the Site or providing us with any information, you consent to the transfer, processing, and storage of your information in the United States. You are also consenting to the application of United States federal and Texas state law in all matters concerning the Site and this Privacy Policy.
 
-**Information About Children**
+ **Information About Children**
 
 The Site is not directed to children under the age of 18 years. We will not request personally identifiable information from anyone whom we know to be under the age of 18. By using the Site, you represent and warrant that you are at least 18 years old. If we become aware that a customer is under the age of 18 and has registered or otherwise provided personally identifiable information, we will cancel the corresponding registration and remove his or her personally identifiable information.
 
-**Links to Other Materials**
+ **Links to Other Materials**
 
 Sites may be linked to and from the Site that are not under the control of IDEAPOD and IDEAPOD shall have no responsibility or liability for the content or privacy practices of any such linked site or any link or linking program at any time. If you click on a link on the Site and link to a third party’s website, then this Privacy Policy will not apply to your personally identifiable information collected on that third party’s website and you must read the privacy policy on that website to see how your information will be handled.
 
 Social media widgets or tools may appear on the Site. Your use of these widgets or tools will be governed by the terms of use and privacy policy of the applicable social media provider (e.g. Facebook®, YouTube®).
 
-**Changes to Our Privacy Policy**
+ **Changes to Our Privacy Policy**
 
 We may update this Privacy Policy to reflect changes in our privacy practices. If we make any material changes, we may notify you by contacting you using the contact information that you have provided to us or by posting a notice on the Site – or by some combination of these methods. You agree to review the Privacy Policy posted to the Site each time you visit for the latest information on our privacy practices.
 
