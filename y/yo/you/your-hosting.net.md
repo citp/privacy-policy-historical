@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the your-hosting.net privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606054314id_/http%3A//your-hosting.net/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the your-hosting.net privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227061209id_/http%3A//your-hosting.net/terms) for the most accurate reproduction.*
 
 # Privacy Policy - WebFreeHosting.net
 
@@ -247,7 +247,7 @@ To protect your privacy and security, we may have to verify your identity before
     * result in breach of a contract or disclosure of trade secrets or other proprietary business information belonging to us or a third party.
   
 
-  9. **General data protection regulation (GDPR) and your data protection rights**
+  9. **[General data protection regulation](https://www.eugdpr.org/) (GDPR) and your data protection rights**
 
 If you are a resident of the EEA, you have the following data protection rights:
 
