@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 000webhostapp.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616033845id_/https%3A//www.000webhost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 000webhostapp.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227134940id_/https%3A//www.000webhost.com/privacy) for the most accurate reproduction.*
 
 # Free Web Hosting, Domain Names, VPS | 000Webhost
 
