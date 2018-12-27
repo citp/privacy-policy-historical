@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xrpchat.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627051145id_/https%3A//www.xrpchat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xrpchat.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227124018id_/https%3A//www.xrpchat.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Xrp Chat
 
