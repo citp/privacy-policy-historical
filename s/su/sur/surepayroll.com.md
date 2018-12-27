@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surepayroll.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626233933id_/https%3A//www.surepayroll.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surepayroll.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227110852id_/https%3A//www.surepayroll.com/about/privacy) for the most accurate reproduction.*
 
 # SurePayroll Privacy Policy | SurePayroll
 
@@ -9,7 +9,7 @@ What information is collected
 
 We limit the collection of personal information to the information that we need to administer and improve the Site, to provide our products and services (“Services”) to our customers, and to fulfill any legal and regulatory requirements.
 
-The categories of personal information that we collect may include, but are not limited to:The categories of personal information that we collect may include, but are not limited to:
+The categories of personal information that we collect may include, but are not limited to: The categories of personal information that we collect may include, but are not limited to:
 
   * Contact information to allow us to communicate with you
   * Employer information, including financial and bank account information, to provide the Services
@@ -58,7 +58,7 @@ We use the information provided on the Site to perform the Services you request.
 
 We may collect general, non-personal, statistical information about the users of the Site and our services in order to determine information regarding the use of our Site and general information about our customers. We may also group this information to provide general aggregated data, such as the SurePayroll Small Business Scorecard®. The aggregated data will not personally identify any customers or visitors to the Site.
 
-**How cookies are used**
+ **How cookies are used**
 
 A “cookie” is a piece of data that our Site may provide to your browser while you are at our Site. The information stored in a cookie is used for user convenience purposes, such as reducing repetitive messages, tracking helper tool versions, and retaining user display preferences. If a user rejects the cookie, they will be able to browse the Site but will be unable to use our online application.
 
@@ -91,11 +91,11 @@ Information is shared to facilitate the Services needed in order to properly and
 
 Keeping your information accurate and up-to-date is very important. You can review or correct your account information by contacting a customer service representative. If you have an account at the Site, you can make changes to your account information after you login to the Site from your PC or wireless device and using the online tools. Note that some information changes may be done by or have to be done through your employer.
 
-**SECURITY**
+ **SECURITY**
 
 For information about our commitment to protecting the security and integrity of our customers’ information, please refer to the Security page.
 
-**CHANGES TO THIS PRIVACY STATEMENT**
+ **CHANGES TO THIS PRIVACY STATEMENT**
 
 This statement may be revised from time to time due to legislative changes, changes in technology or our privacy practices or new uses of customer information not previously disclosed in this Statement. Revisions are effective upon posting and your continued use of this Site will indicate your acceptance of those changes. Please refer to this Statement regularly.
 
