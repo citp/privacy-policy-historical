@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the thepetitionsite.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628092800id_/http%3A//www.care2.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepetitionsite.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227143442id_/http%3A//www.care2.com/privacy-policy) for the most accurate reproduction.*
 
 # Care2 Privacy Policy
 
 **Privacy Policy**
 
-_Last Updated: 2017-10-19_
+_Last Updated: 2018-10-07_
 
-Care2.com (“Care2″) takes seriously the issue of safeguarding your privacy online. This privacy policy applies to the two websites owned and operated by Care2: Care2.com and ThePetitionSite.com. This privacy policy describes how Care2 collects and uses the personal information you provide on both websites. 
+Care2.com (“Care2″) takes seriously the issue of safeguarding your privacy online. This privacy policy applies to the two websites owned and operated by Care2: Care2.com and ThePetitionSite.com. This privacy policy describes how Care2 collects and uses the personal information you provide on both websites.
 
-Residents of the EU can see the [Care2 GDPR privacy policy ](http://www.care2.com/privacy-policy-gdpr)and the [Care2 EU-US Privacy Shield policy](http://www.care2.com/help/general/privacy-shield.html).
+Residents of the EU can see the [Care2 GDPR privacy policy ](http://www.care2.com/privacy-policy-gdpr) and the [Care2 EU-US Privacy Shield policy](http://www.care2.com/help/general/privacy-shield.html).
 
-[](http://www.care2.com/help/general/privacy-shield.html) [](http://www.care2.com/help/general/privacy-shield.html)
+[](https://privacy.truste.com/privacy-seal/validation?rid=a7aeeded-6bb8-4dbe-862b-a3d35e92dace)
 
-When visiting a website displaying the TRUSTe Trustmark, you will be notified of what personally identifiable information of yours is collected:
+When visiting our website, you will be notified of what personally identifiable information of yours is collected:
 
   * The organization collecting the information;
   * How the information is used;
@@ -25,7 +25,7 @@ When visiting a website displaying the TRUSTe Trustmark, you will be notified of
 
 Questions regarding this privacy statement should be submitted to Care2 Customer Support using the [Help Form](http://www.care2.com/help/support).
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at [https://feedback-form.truste.com/watchdog/request](https://web.archive.org/web/20180628092800id_/http%3A//www.care2.com/feedback-form.truste.com/watchdog/reques).
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at [https://feedback-form.truste.com/watchdog/request](https://web.archive.org/web/20181227143442id_/http%3A//www.care2.com/feedback-form.truste.com/watchdog/reques).
 
 **Privacy Questions**
 
@@ -47,7 +47,7 @@ Advertising:
 
 Care2′s goal in collecting personal and demographic information is to provide our members with the most personalized web experience possible and to provide our advertisers with an efficient means to reach the right audience. By knowing about you, Care2 can deliver more relevant content and advertisements (e.g. banner ads), and hence better service, to you. In delivering targeted online advertisements, Care2 plays the middleman. Advertisers give us an ad and tell us the type of audience they want to reach (e.g. females over 35). Care2 or one of our ad server partners takes and displays the ad to users meeting those criteria. In this process, only Care2 — not the advertiser — can access individuals’ account information.
 
-We employ a third party service provider to display advertising on our Web site. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](https://www.google.com/url?q=http://preferences-mgr.truste.com/&sa=D&ust=1507823473354000&usg=AFQjCNEOCTeSfF4T7L36ZPyTYNw5eIGrPA). Please note this does not opt you out of being served ads. You would continue to receive generic ads.
+We employ a third party service provider to display advertising on our Web site. Our third party partner may use technologies such as cookies or other similar technologies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served ads. You would continue to receive generic ads.
 
 Advertising revenues help keep Care2 services free, and provide revenues for donations for wildlife conservation and other charities.
 
