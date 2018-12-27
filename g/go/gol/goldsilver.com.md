@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldsilver.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627024913id_/https%3A//support.goldsilver.com/hc/en-us/articles/216269187-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldsilver.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227101709id_/https%3A//support.goldsilver.com/hc/en-us/articles/216269187-Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy – GoldSilver.com Customer Support
 
@@ -91,9 +91,9 @@ We provide you with the ability to exercise certain controls and choices regardi
 
 
 
-You may exercise your controls and choices, or request access to your personal information, by logging into your Silver & Gold online account, and selecting “Preferences”, or by emailing Silver & Gold Inc. at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#70191e161f30171f1c1403191c0615025e131f1d) and following instructions provided in communications sent to you.
+You may exercise your controls and choices, or request access to your personal information, by logging into your Silver & Gold online account, and selecting “Preferences”, or by emailing Silver & Gold Inc. at [info@goldsilver.com](mailto:info@goldsilver.com) and following instructions provided in communications sent to you.
 
-Please be aware that, if you do not allow us to collect personal information from you, we may not be able to deliver certain products and services to you, and some of our services may not be able to take account of your interests and preferences. If you have questions regarding the specific personal information about you that we process or retain, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2b42454d446b4c44474f5842475d4e5905484446).
+Please be aware that, if you do not allow us to collect personal information from you, we may not be able to deliver certain products and services to you, and some of our services may not be able to take account of your interests and preferences. If you have questions regarding the specific personal information about you that we process or retain, please contact us at [info@goldsilver.com](mailto:info@goldsilver.com).
 
 **9\. Data Security, Integrity and Retention.**
 
@@ -109,9 +109,9 @@ From time to time, we may change this privacy policy to accommodate new technolo
 
 **12\. Comments and Questions**
 
-If you have a comment or question about this privacy policy, please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f990979f96b99e96959d8a90958f9c8bd79a9694). Our Sites may contain links to other sites not owned or controlled by us and we are not responsible for the privacy practices of those sites. We encourage you to be aware when you leave our sites or applications and to read the privacy policies of other sites that may collect your personal information.
+If you have a comment or question about this privacy policy, please contact [info@goldsilver.com](mailto:info@goldsilver.com). Our Sites may contain links to other sites not owned or controlled by us and we are not responsible for the privacy practices of those sites. We encourage you to be aware when you leave our sites or applications and to read the privacy policies of other sites that may collect your personal information.
 
-_Notice to California Residents:_  If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information by Silver & Gold, Inc. to third parties for the third parties’ direct marketing purposes. With respect to these entities, this privacy policy applies only to their activities within the State of California. To make such a request, please send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or write us at:
+_Notice to California Residents:_  If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information by Silver & Gold, Inc. to third parties for the third parties’ direct marketing purposes. With respect to these entities, this privacy policy applies only to their activities within the State of California. To make such a request, please send an email to info@goldsilver.com or write us at:
 
 Attn: CA Privacy Rights  
 GoldSilver LLC  
