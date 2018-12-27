@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doyouyoga.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620040031id_/https%3A//www.doyouyoga.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doyouyoga.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227082839id_/https%3A//www.doyouyoga.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | DOYOUYOGA
 
@@ -79,7 +79,7 @@ We may also disclose personal information if required to do so by law or in the 
 
 If we propose to use personal information for any purposes other than those described in this Policy and/or in the specific service notices, and you decline, Skyrocket may not be able to provide its Service to you. 
 
-**Maintenance of personal information** – You can access your information contained in the DOYOU database by following instructions on our [Data Protection & Security](https://web.archive.org/gdpr/) page. If you believe any of your information is incorrect or needs updating, please let us know at the email address [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) Skyrocket will use reasonable efforts to correct your information and our records upon verification of the requested change. If you no longer wish to receive email notifications from DOYOU, please let us know by [contacting us](https://help.doyouyoga.com/). In the text of your email or letter specify which notifications you no longer wish to receive and provide your exact name, email address and/or address so that we can do our best to ensure that you stop receiving the notifications that you no longer wish to receive. After such a request is received, Skyrocket will use reasonable efforts to refrain from including you when sending such notifications to DOYOU visitors/users/customers. 
+**Maintenance of personal information** – You can access your information contained in the DOYOU database by following instructions on our [Data Protection & Security](https://web.archive.org/gdpr/) page. If you believe any of your information is incorrect or needs updating, please let us know at the email address help@doyouyoga.com. Skyrocket will use reasonable efforts to correct your information and our records upon verification of the requested change. If you no longer wish to receive email notifications from DOYOU, please let us know by [contacting us](https://help.doyouyoga.com/). In the text of your email or letter specify which notifications you no longer wish to receive and provide your exact name, email address and/or address so that we can do our best to ensure that you stop receiving the notifications that you no longer wish to receive. After such a request is received, Skyrocket will use reasonable efforts to refrain from including you when sending such notifications to DOYOU visitors/users/customers. 
 
 We maintain procedures for you to review the information that we collect about you. Find out more on our [Data Protection & Security](https://web.archive.org/gdpr/) page. 
 
@@ -123,7 +123,7 @@ We describe these rights below:
 
 You can exercise your rights under the [EU's General Data Protection Regulation](https://www.eugdpr.org/) (GDPR) here: [https://www.doyouyoga.com/gdpr/](https://web.archive.org/gdpr/)
 
-**Changes To This Policy**
+ **Changes To This Policy**
 
 Please note that this Policy may change from time to time. We will not reduce your rights under this Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Policy changes). Each version of this Policy will be identified at the bottom of the page by its effective date, and we will also keep prior versions of this Privacy Policy in an archive for your review. 
 
