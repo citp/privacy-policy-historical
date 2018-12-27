@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mylol.net privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627114826id_/https%3A//www.mylol.com/policies.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylol.net privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227192429id_/https%3A//www.mylol.com/policies.asp) for the most accurate reproduction.*
 
 # Teen Dating - MyLOL - Teen APP
 
@@ -70,7 +70,7 @@ Controlling your personal information
 Personal information collected may be transferred and shared in the event of a sale of MyLOL.com You may choose to restrict the collection or use of your personal information in the following ways: 
 
   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes where such a box is available
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5625232626392422163b2f3a393a7835393b) Members can edit their personal information by clicking on My Profile/ Options located in the upper right corner of each page. Registrants can un-register by writing to [ [email protected]](https://web.archive.org/cdn-cgi/l/email-protection#51222421213e2325113c283d3e3d7f323e3c). Once you have established a member account with us, you can opt-out of future promotional mailings by clicking on My Profile/ Options and changing your settings. 
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5724222727382523173a2e3b383b7934383a) Members can edit their personal information by clicking on My Profile/ Options located in the upper right corner of each page. Registrants can un-register by writing to [ [email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c1b2b4b1b1aeb3b581acb8adaeadefa2aeac). Once you have established a member account with us, you can opt-out of future promotional mailings by clicking on My Profile/ Options and changing your settings. 
 
 
 
