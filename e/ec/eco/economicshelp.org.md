@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the economicshelp.org privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626195104id_/https%3A//economicshelp.org/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the economicshelp.org privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227034048id_/https%3A//www.economicshelp.org/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Economics Help
 
@@ -10,9 +10,17 @@ We use statcounter, google analytics and other hosting service tools to collect 
 
  **Cookies**
 
-A cookie is a piece of data stored on the user’s computer tied to information about the user. Our site don’t use cookies. However, Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising.  
-Google’s use of the DART cookie enables it to serve ads to you based on your visit to this site and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [Google ad](http://www.google.co.uk/privacy_ads.html) and content network privacy policy.
+A cookie is a piece of data stored on the user’s computer tied to information about the user. Our site doesn’t use cookies. However, Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising.
+
+Google’s use of the DART cookie enables it to serve ads to you based on your visit to this site and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [Google ad](https://www.google.co.uk/privacy_ads.html) and content network privacy policy.
 
 Terms and conditions for purchase of items
 
 See also: [Terms and conditions for online shop](https://www.economicshelp.org/terms-and-conditions/)
+
+ **Changing Cookies**
+
+  * [Changing cookies](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences) with Firefox
+  * [How Google ](https://policies.google.com/technologies/partner-sites)use cookies on partner sites
+
+
