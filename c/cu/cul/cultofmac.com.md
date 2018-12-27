@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cultofmac.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613110436id_/https%3A//www.cultofmac.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cultofmac.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227135029id_/https%3A//www.cultofmac.com/privacy-policy) for the most accurate reproduction.*
 
 # Cult of Mac's privacy policy | Cult of Mac
 
