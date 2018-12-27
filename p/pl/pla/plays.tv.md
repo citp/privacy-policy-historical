@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plays.tv privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627092658id_/https%3A//plays.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plays.tv privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227170735id_/https%3A//plays.tv/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Plays.tv
 
@@ -14,7 +14,7 @@ We give you control through your [settings](https://plays.tv/settings/profile) t
 
 In addition to information you share with us, we use videos you upload, games you have played, videos you have watched, videos you have liked, users you have followed, and other information to determine what topics you’re interested in and other signals to show you more relevant content. 
 
-If you have questions about this policy, how we collect or process your personal data, or anything else related to our privacy practices, we want to hear from you. You can contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7404061d0215170d340418150d075a0002) at any time.
+If you have questions about this policy, how we collect or process your personal data, or anything else related to our privacy practices, we want to hear from you. You can contact us at [privacy@plays.tv](mailto:privacy@plays.tv) at any time.
 
 ## 1\. Information You Share With Us
 
@@ -124,7 +124,7 @@ If you want to stop using your account you may deactivate it. When you deactivat
 
 ## 5\. Additional Information or Assistance
 
-Thoughts or questions about this Privacy Policy? Please let us know by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0575776c7364667c457569647c762b7173) or writing to us at the address below.
+Thoughts or questions about this Privacy Policy? Please let us know by contacting us at [privacy@plays.tv](mailto:privacy@plays.tv) or writing to us at the address below.
 
 The data controller responsible for your personal data is located at the following address:
 
