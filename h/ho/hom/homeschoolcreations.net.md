@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homeschoolcreations.net privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627135704id_/https%3A//www.homeschoolcreations.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeschoolcreations.net privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227212115id_/https%3A//www.homeschoolcreations.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -41,9 +41,7 @@ The Website currently uses the following third-party service providers:
 
 Google Analytics – this service tracks Website usage and provides information such as referring websites and user actions on the Website. Google Analytics may capture your IP address, but no other personal information is captured by Google Analytics.
 
-Mail Chimp – this service is used for delivery of email updates and newsletters. We store your name and email address for purposes of delivering such communications.  Please refer to Mail Chimp’s privacy policy for further information.
-
-One Signal – this service is used to send you push notifications through your web browser, should you choose.  Please refer to One Signal’s privacy policy for further information.
+Feedblitz – this service is used for delivery of email updates and newsletters. We store your name and email address for purposes of delivering such communications.  Please refer to Feedblitz’s privacy policy for further information.
 
 At this time, your personal information is not shared with any other third-party applications. This list may be amended from time to time in the Website’s sole discretion.
 
@@ -79,9 +77,7 @@ From time to time, the Website may engage in remarketing efforts with third-pa
 
 **Affiliate Program Participation**
 
-The Website may engage in affiliate marketing, which is done by embedding tracking links into the Website. If you click on a link for an affiliate partnership, a cookie will be placed on your browser to track any sales for purposes of commissions.
-
-Food Fanatic is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and links to Amazon.com.  As part of this Amazon Associates program, the Website will post customized links, provided by Amazon, to track the referrals to their website. This program utilizes cookies to track visits for the purposes of assigning commission on these sales.
+The Website may engage in affiliate marketing, which is done by embedding tracking links into the Website. If you click on a link for an affiliate partnership, a cookie will be placed on your browser to track any sales for purposes of commissions. As an Amazon Associate I earn from qualifying purchases.
 
 Newsletters
 
@@ -89,13 +85,13 @@ On the Website, you may subscribe to our newsletter, which may be used for adver
 
 RIGHTS RELATED TO YOUR PERSONAL INFORMATION
 
-Opt-out – You may opt-out of future email communications by following the unsubscribe links in our emails. You may also notify us at webmaster@foodfanatic.com to be removed from our mailing list.
+Opt-out – You may opt-out of future email communications by following the unsubscribe links in our emails. You may also notify us at contact@homeschoolcreations.net to be removed from our mailing list.
 
-Access – You may access the personal information we have about you by submitting a request to webmaster@foodfanatic.com.
+Access – You may access the personal information we have about you by submitting a request to contact@homeschoolcreations.net.
 
-Amend – You may contact us at webmaster@foodfanatic.com to amend or update your personal information.
+Amend – You may contact us at contact@homeschoolcreations.net to amend or update your personal information.
 
-Forget – In certain situations, you may request that we erase or forget your personal data. To do so, please submit a request to webmaster@foodfanatic.com.
+Forget – In certain situations, you may request that we erase or forget your personal data. To do so, please submit a request to contact@homeschoolcreations.net.
 
 Please note that we may need to retain certain information for recordkeeping purposes or to complete transactions, or when required by law.
 
@@ -105,10 +101,10 @@ At no time should you submit sensitive personal information to the Website. This
 
 CHILDREN’S INFORMATION
 
-The Website does not knowingly collect any personally identifiable information from children under the age of 16. If a parent or guardian believes that the Website has personally identifiable information of a child under the age of 16 in its database, please contact us immediately at webmaster@foodfanatic.com and we will use our best efforts to promptly remove such information from our records.
+The Website does not knowingly collect any personally identifiable information from children under the age of 16. If a parent or guardian believes that the Website has personally identifiable information of a child under the age of 16 in its database, please contact us immediately at contact@homeschoolcreations.net and we will use our best efforts to promptly remove such information from our records.
 
 CONTACT INFORMATION
 
 At any time, please contact us at contact@homeschoolcreations.net for questions related to this Privacy Policy. 
 
-Last updated: May 7, 2018.
+Last updated: October 13, 2019.
