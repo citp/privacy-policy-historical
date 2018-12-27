@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postaffiliatepro.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701070600id_/https%3A//www.postaffiliatepro.com/privacy-policy-post-affiliate-pro) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postaffiliatepro.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227225213id_/https%3A//www.postaffiliatepro.com/privacy-policy-post-affiliate-pro) for the most accurate reproduction.*
 
 # Privacy Policy | Post Affiliate Pro
 
@@ -7,7 +7,7 @@ If you have any questions about this policy, please contact us.
 
 ## **Data Collection**
 
-**Quality Unit** Cares about your privacy, so we follow The Platform for Privacy Preferences Project, or P3P practices. P3P was designed to give web users more precise control of the kind of information that they want to allow to be released. 
+ **Quality Unit** Cares about your privacy, so we follow The Platform for Privacy Preferences Project, or P3P practices. P3P was designed to give web users more precise control of the kind of information that they want to allow to be released. 
 
 P3P policies declare the data they collect in groups (also referred to as "statements".) Our policy contains 4 data groups. The data practices of each group will be outlined separately as follows:
 
@@ -105,27 +105,27 @@ CP=NOI CURa ADMa DEVa TAIa CONa OUR DELa BUS IND PHY ONL UNI PUR COM NAV DEM STA
 
 The following table explains the meaning of each field in the compact policy.
 
-**Field**|  **Meaning**  
+ **Field**|  **Meaning**  
 ---|---  
-`CP=` | This is the compact policy header; it indicates that what follows is a P3P compact policy.  
-`NOI` |  No identifiable information is collected, so no access is possible.   
-`CURa` |  The data is used for completion of the current activity.   
-`ADMa` |  The data is used for site administration.   
-`DEVa` |  The data is used for research and development.   
-`TAIa` |  The data is used for tailoring the site.   
-`CONa` |  The data is used for contacting the user.   
-`OUR` |  The data is given to ourselves and our agents.   
-`DELa` |  The data is given to delivery services.   
-`BUS` |  Our business practices specify how long the data will be kept.   
-`IND` |  The data will be kept indefinitely.   
-`PHY` |  Physical contact information is collected.   
-`ONL` |  Online contact information is collected.   
-`UNI` |  Unique identifiers are collected.   
-`PUR` |  Purchase information is collected.   
-`COM` |  Computer information is collected.   
-`NAV` |  Navigation and clickstream data is collected.   
-`DEM` |  Demographic and socioeconomic data is collected.   
-`STA` |  State-management data is collected   
+` CP=`| This is the compact policy header; it indicates that what follows is a P3P compact policy.  
+`NOI`|  No identifiable information is collected, so no access is possible.   
+`CURa`|  The data is used for completion of the current activity.   
+`ADMa`|  The data is used for site administration.   
+`DEVa`|  The data is used for research and development.   
+`TAIa`|  The data is used for tailoring the site.   
+`CONa`|  The data is used for contacting the user.   
+`OUR`|  The data is given to ourselves and our agents.   
+`DELa`|  The data is given to delivery services.   
+`BUS`|  Our business practices specify how long the data will be kept.   
+`IND`|  The data will be kept indefinitely.   
+`PHY`|  Physical contact information is collected.   
+`ONL`|  Online contact information is collected.   
+`UNI`|  Unique identifiers are collected.   
+`PUR`|  Purchase information is collected.   
+`COM`|  Computer information is collected.   
+`NAV`|  Navigation and clickstream data is collected.   
+`DEM`|  Demographic and socioeconomic data is collected.   
+`STA`|  State-management data is collected   
   
 The compact policy is sent by the Web server along with the cookies it describes. For more information, see the P3P deployment guide at <http://www.w3.org/TR/p3pdeployment>. 
 
@@ -137,11 +137,11 @@ Microsoft Internet Explorer 6 will evaluate this policy's compact policy wheneve
 
 **Unsatisfactory policy:** this compact policy is considered unsatisfactory according to the rules defined by Internet Explorer 6. The behavior of Internet Explorer 6 regarding cookies set under this compact policy is as follows:
 
-| **First-party usage**|  **Third-party usage**  
+|  **First-party usage**|  **Third-party usage**  
 ---|---|---  
-**Persistent Cookies** | 
+ **Persistent Cookies**| 
 
-  * **Low:** Policy satisfactory at this level; cookies will be accepted. 
+  *  **Low:** Policy satisfactory at this level; cookies will be accepted. 
   * **Medium:** Opt-out is not provided for all unsatisfactory purposes and recipients, so the cookie will be **downgraded** to a session cookie. 
   * **Medium High:** No opt-out is provided, so the cookie will be **blocked**. 
   * **High:** Since opt-in is not required, the cookie will be **blocked**. 
@@ -154,9 +154,9 @@ Microsoft Internet Explorer 6 will evaluate this policy's compact policy wheneve
   * **High:** Since opt-in is not required, the cookie will be **blocked**. 
 
   
-**Session Cookies** | 
+**Session Cookies**| 
 
-  * **Low:** Policy satisfactory at this level; cookies will be accepted. 
+  *  **Low:** Policy satisfactory at this level; cookies will be accepted. 
   * **Medium:** Policy satisfactory at this level; cookies will be accepted. 
   * **Medium High:** Policy satisfactory at this level; cookies will be accepted. 
   * **High:** Since opt-in is not required, the cookie will be **blocked**. 
