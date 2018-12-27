@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backlinks.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614101246id_/https%3A//www.backlinks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backlinks.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227131215id_/https%3A//www.backlinks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BackLinks.com
 
@@ -63,7 +63,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 ## Contacting Us
 
-If there are any questions regarding this privacy policy you may [contact us](https://www.backlinks.com/contact-us/ "contact us") using the information below.
+If there are any questions regarding this privacy policy you may contact us using the information below.
 
 Next Net Media, LLC  
 316 California Ave. #804  
