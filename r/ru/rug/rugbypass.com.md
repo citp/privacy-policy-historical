@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rugbypass.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625040938id_/http%3A//docs.rugbypass.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rugbypass.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227073946id_/http%3A//docs.rugbypass.com/privacy) for the most accurate reproduction.*
 
-# RugbyPass Privacy Policy
+# Privacy Policy - Types of Information Collected | Rugby Pass
 
 This privacy policy explains how we may collect, store, use, and disclose any personal information that you provide to us when using this website. Your continued use of this website provides your unconditional consent to us collecting, storing, using, and disclosing your personal information in the manner set out below. This privacy policy is subject to, and must be read in conjunction with, our Web site Terms and Conditions and our Subscription Products Terms and Conditions. 
 
