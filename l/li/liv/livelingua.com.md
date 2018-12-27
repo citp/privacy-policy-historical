@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livelingua.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620063349id_/https%3A//www.livelingua.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livelingua.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227104906id_/https%3A//www.livelingua.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Live Lingua Privacy Policy
 
@@ -61,13 +61,14 @@ By contacting Live Lingua, whether through our online forms or directly via emai
 
 **Contacting Us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: 
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: Live Lingua
 
-Rayvensoft, Inc  
-90 Canal Street, 4th Floor,  
-Boston, MA 02114  
+http:/www.livelingua.com  
+24 Birchbrow Ave  
+Weymouth, MA  
+02191  
 USA  
-339-499-4377  
+339-499-4390  
 info@livelingua.com
 
-This document was last updated on May 16th, 2018
+This document was last updated on December 13th, 2016
