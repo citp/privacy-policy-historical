@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ftcsettlementatt.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229021144id_/http%3A//www.ftc.gov/site-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ftcsettlementatt.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227145346id_/http%3A//www.ftc.gov/site-information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Federal Trade Commission
 
@@ -81,7 +81,7 @@ The FTC’s Privacy Act rules – including our procedures, timelines, and instr
 
 Write to the FTC's Chief Privacy Officer:
 
-Katherine Race Brin
+John Krebs
 
 Federal Trade Commission  
 600 Pennsylvania Ave., NW, H-350  
@@ -111,4 +111,4 @@ Visit our [Contact Us](https://www.ftc.gov/contact) page to find email, phone, a
 
 
 
- _Revised August 2017_
+ _Revised February 2018_
