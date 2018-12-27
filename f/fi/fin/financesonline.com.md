@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the financesonline.com privacy policy that was archived on 2018-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180304005225id_/https%3A//financesonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financesonline.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227182937id_/https%3A//financesonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Financesonline.com
 
@@ -14,15 +14,15 @@ Our Site users are not asked to submit any personal data nor to register to be a
 
 We do gather and process personal information belonging to registered users and when submitting forms on the Site for the purposes outlined below:
 
- **(i) Software Providers:** to allow providers to have their company as well as product and services details available on our site, we gather the following: name, surname, professional email address, company website, company name, e-mail, telephone number and billing related information. What is more, we gather non-personally identifiable information about the vendor’s company such as online advertising budget and various data points regarding their products.
+**(i) Software Providers:** to allow providers to have their company as well as product and services details available on our site, we gather the following: name, surname, professional email address, company website, company name, e-mail, telephone number and billing related information. What is more, we gather non-personally identifiable information about the vendor’s company such as online advertising budget and various data points regarding their products.
 
- **(ii)** **Business and IT users:** We gather the personal details of the registered users who completed the forms required if a user wants to fill out a lead form or post a review, or fill out a Contact Us form, or subscribe to a newsletter, including name and surname, professional email address, phone number and LinkedIn profile. This information is only passed on to Software Providers if a user has explicitly agreed for us to do so, specifically when they complete a lead form.
+**(ii)** **Business and IT users:** We gather the personal details of the registered users who completed the forms required if a user wants to fill out a lead form or post a review, or fill out a Contact Us form, or subscribe to a newsletter, including name and surname, professional email address, phone number and LinkedIn profile. This information is only passed on to Software Providers if a user has explicitly agreed for us to do so, specifically when they complete a lead form.
 
 Throughout the registration process or the form filling process, the fields marked with an asterisk (*) are required to be completed, since they are obligatory and strictly necessary to prepare a response to the user’s request. In cases when all fields are mandatory it will be stated at the top of the form and no asterisk signs will be shown. The completion of the other fields is entirely voluntary. If a user does not want to provide the required personal information, he or she may not be able to benefit from Services and products offered by the Site. The User guarantees that the personal data provided by them is accurate, true and up to date in the manner that reflects the User’s current circumstances. The User hereby confirms that he/she is solely responsible for any inaccuracies, false information, errors or mistakes in any provided personal information and may be held liable for any damages whatsoever caused to FinancesOnline or third parties, by virtue of using FinancesOnline Services. Similarly, we ask our Users to kindly send us information on any changes in their personal details so that the information collected in our files is current and free of errors at all times.
 
 FinancesOnline will also process other technical data connected with your use of the Site, as detailed below, including accessed Site areas and web pages as well as IP addresses.
 
- **It is forbidden to provide any personal information that is non-professional contact data or which contains sensitive data that is connected to identifiable persons such as:**
+**It is forbidden to provide any personal information that is non-professional contact data or which contains sensitive data that is connected to identifiable persons such as:**
 
 (i) Non-professional contact information including email or home addresses or personal phone numbers.
 
