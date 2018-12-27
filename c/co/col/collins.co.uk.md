@@ -1,91 +1,23 @@
-> *The following text is extracted and transformed from the collins.co.uk privacy policy that was archived on 2017-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170213015554id_/https%3A//collins.co.uk/page/Privacy%2Bpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collins.co.uk privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227173406id_/https%3A//www.harpercollins.co.uk/corporate/privacy-policy) for the most accurate reproduction.*
 
-# Collins for Education, Revision, ELT, Dictionaries & Atlases - Privacy policy
+# Privacy Policy - HCUK Corporate
 
-The following statement explains the policy of HarperCollins Publishers Limited (‘HarperCollins’) in relation to the personal information we collect about you during your visit to a HarperCollins website.
+##  2\. INFORMATION OBTAINED BY AUTOMATED MEANS THROUGH OUR SERVICES
 
-**1\. Introduction**
+Our Services use cookies to function effectively.  A “cookie” is a file that websites send to a visitor’s computer or other Internet-connected device to uniquely identify the visitor’s browser or to store information or settings in the browser.  A “web beacon” also known as an Internet tag, pixel tag or clear GIF, links web pages to web servers and their cookies and may be used to transmit information collected through cookies back to a web server. 
 
-This policy covers the use of personal information that HarperCollins collects when you visit one of our websites. This policy also gives you information about how HarperCollins use cookies, including how you may delete cookies.
+We may obtain certain information through our Services by automated means, such as cookies (including HTTP, HTML5 and Flash cookies), web beacons, web server logs, JavaScript and similar technologies, including technologies designed to obtain information regarding your use of our Services (collectively “cookies”).  Some cookies are essential to offer our Services, such as authentication services when you sign up or log in to use our Services.
 
-During a visit to HarperCollins websites, you may be asked to provide personal information (including your email address and name) in order to receive or use specific services. Such services include competitions, special offers, direct marketing, promotions, newsletters, etc.
+The information we obtain through cookies may include IP address, mobile device advertising ID, browser characteristics, device characteristics, operating system, language preferences, referring URLs, logs on actions taken on our Services such as content on which you may click while using the Services, and dates and times you access or use the Services.  In connection with our mobile apps, we may use similar automated means and also may obtain your phone number and details about your mobile carrier. 
 
-By entering your personal details into the requested fields, you enable HarperCollins to provide you with the selected services. Whenever you provide such personal information to HarperCollins, we will treat that information in accordance with this privacy policy. HarperCollins endeavours to act in accordance with current legislation and aims to meet current Internet best practice, when using your personal information.
+The information we obtain through cookies will tell us, for example, if you have used our Services before, from what country and what contents you have visited. It will also tell us whether you have opened an email we sent to you, what search queries you may have run and what advertisements you may have seen on our Services or on third-party websites and apps. 
 
-**2\. UK websites operated by HarperCollins**
+Your browser may tell you how to be notified when you receive certain types of cookies or how to restrict or disable certain types of cookies.  You also may be able to delete your Flash cookies or adjust your Flash cookie settings by visiting the Adobe Flash [Website Storage Settings Panel](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html) and [Global Storage Settings Panel. ](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager03.html) Please note, however, that without cookies you may not be able to use all of the features of our Services.  Your device settings also may allow you to prohibit mobile app platforms (such as Apple and Google) from sharing certain information obtained by automated means with us through our apps or other app developers.
 
-<http://www.harpercollins.co.uk/>
+Our Services may use third party analytics and advertising cookies, for example, to help create reports and statistics on the performance of the Services and to be able to present you with content tailored to your interests.  The information collected through the use of analytics may include, for example, your IP address, the website from which you visited us, the type of device you used.  You can opt out from the use of Google Analytics by downloading and installing the [Google Analytics Opt-out Browser Add On](https://tools.google.com/dlpage/gaoptout) 
 
-[http://www.collinseducation.com/](https://web.archive.org/)
+We and our third-party service providers may use information collected through automated means including cookies, web beacons, web server logs, JavaScript and similar technologies for purposes such as (1) customizing our users’ visits to and use of our Services, (2) delivering content (including advertising) tailored to our users’ interests and the manner in which our users use our Services, and (3) managing our Services and other aspects of our business. 
 
-**3\. General Information**
+In addition, if you register with us through or connect your account with us to a third-party social media network (such as Facebook or Twitter), we may obtain certain information about you from the relevant social media network, such as your user ID and/or user name associated with that social media network, the information contained in your public profile on the social media network and friends lists.  The specific information we obtain depends on your privacy settings on the applicable social media network. 
 
-When you go to a website, the pages you see, along with a short text file called a 'cookie', are downloaded to your computer. This is done on a repeat visit by checking to see, and finding, the cookie left there from the last visit.
-
-Information supplied by cookies helps HarperCollins to provide all users of our websites with a better experience. It also assists us to analyse the profile and frequency of our visitors.
-
-HarperCollins use independent measurement and research companies, to analyse non-personal information regarding the visitors to our website on our behalf using cookies, log file data and code which is embedded on our website. HarperCollins uses this type of information, as with that obtained from other cookies used on the site, to help it improve the services to its users.
-
-**4\. What is a cookie?**
-
-A "cookie" is a small piece of information/data sent by a web page server to be stored on your computer’s hard drive, so it can be read back later from that browser. A cookie is generated by a web page server, which is basically the computer that operates a web site.
-
-An example is when a browser stores your User IDs and password, so that you do not have to type them into the website on every visit. Cookies are also used to store preferences of start pages or favourite items when you visit a web page. Cookies tell a website when a user has returned and your website preferences.
-
-Many website owners use cookies whenever a user visits their website in order to track online traffic flows.
-
-**5\. How HarperCollins uses your personal information**
-
-HarperCollins uses your personal information to:  
-Improve customer service;  
-Give better access to products/services of interest;  
-Provide customers with product updates, benefits offers and announcements.  
-Understand better your needs and provide you with better service;  
-Help you complete a transaction with HarperCollins;  
-Communicate back to you; and  
-Personalise our websites for you.
-
-From time to time, we may use your information to contact you for market research or to provide you with marketing information and newsletters relating to our goods and services. We will always give you the opportunity to opt out of receiving such direct marketing or market research contact each time you receive a new item of information. HarperCollins will not sell, rent or lease your personally identifiable information to others unless we have obtained your express permission or are required to do so by law.
-
-HarperCollins will keep a record of your details (This also applies to people who visit our web site who are under the age of 18). If you sign up to our newsletters your details will not be passed on to third parties, unless:
-
-You have given us your express consent;  
-We are obliged to do so by law (this would include police investigations).  
-We need to protect customer interests (such as legal liability); or  
-In unusual circumstances, such as a company merger.
-
-On this website, you can enquire about product or services, make requests, and register to receive materials. The types of personal information collected at these pages are name, addresses and contact details (including email addresses).
-
-**6\. How HarperCollins stores your personal information**
-
-HarperCollins will store your personal information on our systems for as long as you use the service you have requested, and remove when requested by you, or when your data is no longer being used for its express purpose. For safety reasons, however, HarperCollins may store messaging transcript data (including message content, member names, times and dates) arising from the use of our websites.
-
-Where personal information is held for people who are not a registered user of a HarperCollins website, but have taken part in other services (e.g. competitions), that information will be held as long as is necessary to ensure that the service is run smoothly. We will ensure that all personal information supplied is held securely, in accordance with the Data Protection Act 1998.
-
-**7\. Access to your personal information**
-
-You can find out about the information we hold on you by e-mailing HarperCollins at [contact@harpercollins.co.uk](mailto:contact@harpercollins.co.uk). The law gives us up to 40 from receipt of your e-mail to respond to your request. We will endeavour to send the information you require within 14 days of receipt of your e-mail. .
-
-**8\. Users 16 and under**
-
-If you are aged 16 or under, please get your parent/guardian's permission beforehand whenever you provide personal information to HarperCollins's website. Users 16 or under without this consent are not allowed to provide us with personal information.
-
-**9\. How to find and control your cookies**
-
-For information on how to find and control your cookies see: <http://www.aboutcookies.org/Default.aspx?page=1>
-
-**10\. How to delete cookies**
-
-For information on how to delete cookies see: <http://www.aboutcookies.org/Default.aspx?page=2>
-
-**11\. How do I find out more about cookies?**
-
-For FAQs on cookies see:
-
-<http://www.aboutcookies.org/Default.aspx?page=5>
-
-<http://www.cookiecentral.com/>
-
-* * *
-
-[Back to top](https://web.archive.org/page/Privacy+policy)
+The providers of third-party apps, tools, widgets and plug-ins on our Services, such as social media sharing tools, also may use automated means to collect information regarding your interactions with these features.  This information is collected directly by the providers of those features and is subject to the privacy policies or notices of those providers. The Company is not responsible for those providers’ information practices.
