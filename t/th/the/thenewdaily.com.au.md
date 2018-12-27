@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the thenewdaily.com.au privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626211629id_/https%3A//thenewdaily.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenewdaily.com.au privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227050404id_/https%3A//thenewdaily.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy | The New Daily
 
 **PRIVACY POLICY**  
-
-
 The privacy of your personal information is afforded the highest level of importance by The New Daily Pty Ltd (ACN 153 137 243).  
 We undertake to comply with the Australian Privacy Principles (APPs) in the Privacy Act 1988 (Cth) (Act) regarding the manner in which we handle your personal information and how we respond to your requests to access and correct it.
 
@@ -43,7 +41,9 @@ We may collect and hold other information about you, including:
 
 We may use this information for internal purposes, including administering our services, diagnosing problems, generating statistics and trends, and improving the quality of our products and services.
 
-Your information may also be collected by Netratings Australia Pty Ltd via cookies and an online auditing system to assist us in gathering statistical information for the above purposes. Details of the use of your information by Netratings Australia Pty Ltd and how to opt-out are available here.
+Your information may also be collected by Netratings Australia Pty Ltd via cookies and an online auditing system to assist us in gathering statistical information for the above purposes. Details of the use of your information by Netratings Australia Pty Ltd and how to opt-out are available [here](https://au.nielsennetpanel.com/pnl/au/mgp_main.privacy?p_session_id=&p_language_id=61).
+
+Our properties may feature Nielsen proprietary measurement software, which will allow you to contribute to market research, like Digital Content Ratings. To learn more about the information that Nielsen software may collect and your choices with regard to it, please see the Nielsen Digital Measurement Privacy Policy at <http://www.nielsen.com/digitalprivacy>.
 
 We will hold personal information as either physical records, records on our servers, and in some cases, records on third party servers, which may be located overseas.
 
@@ -170,9 +170,7 @@ MELBOURNE VIC 3000
 Email: officemanager@thenewdaily.com.au  
 We take all complaints seriously, and will respond to your complaint within a reasonable period.
 
-If you are dissatisfied with the handling of your complaint, you may contact the Office of the Australian Information Commissioner:
-
-   
+If you are dissatisfied with the handling of your complaint, you may contact the Office of the Australian Information Commissioner:  
 Office of the Australian Information Commissioner  
 GPO Box 5218  
 Sydney NSW 2001  
@@ -216,9 +214,7 @@ Some of the cookies stored on your computer belong to, and are managed, by third
  **They include:** 1rx.io, adform.net, adhigh.net, adnxs.com, adsrvr.org, advertising.com, adaptv.advertising.com, audience73.com, basebanner.com, bidr.io, bidswitch.net, x.bidswitch.net, casalemedia.com, crwdcntrl.net, digitru.st, dotomi.com, doubleclick.net, erne.co, everesttech.net, google.com, gwallet.com, imrworldwide.com, ipredictive.com, mathtag.com, netmng.com, onaudience.com, pubmatic.com, ads.pubmatic.com, image6.pubmatic.com, quantserve.com, rfihub.com, rlcdn.com, rubiconproject.com, eus.rubiconproject.com, pixel.rubiconproject.com, simpli.fi, sitescout.com, js.spotx.tv, spotxchange.com, thenewdaily.com.au, tidaltv.com, turn.com, presentation-hkg1.turn.com, w55c.net, yahoo.com  
 • Anonymous analytics cookies , which provide The New Daily with user information that helps us to improve the way The New Daily site works, identify when a person is new to the site, as well as patterns of usage;  
 • Advertising cookies, which prevent the same advertisement from being presented to you repeatedly, to deliver advertisements that we believe are more relevant to you and your interests.  
-
-
- **How to change your preferences**
+**How to change your preferences**
 
 You have the right to decide whether to accept or block cookies that we use on our website. However, please be aware that if all cookies are blocked (particularly any essential cookies), the functionality of our website may be impaired.  
 You can exercise your cookie preferences by adjusting your browser settings. The links below set out information about how to change your browser settings for some of the most commonly used web browsers:  
@@ -230,7 +226,7 @@ You should be aware that most browsers automatically accept cookies.
 
 Therefore, if you do not wish cookies to be used, you may need to actively delete or block the cookies. If you reject the use of cookies, you will still be able to visit our website but some of the functions may not work correctly.
 
-**Information for residents of the European Union**
+ **Information for residents of the European Union**
 
 As set out above, The New Daily’s website is unlikely to use any Cookies that store personally identifiable information. However, to the extent that any cookies placed by The New Daily or a third party can uniquely identify a resident of the European Union, the requirements of the General Data Protection Regulation (Regulation (EU) 2016/679) (GDPR) will be adhered to. In particular, we will ensure that:
 
