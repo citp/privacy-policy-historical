@@ -1,546 +1,521 @@
-<!--The following is the downloaded HTML source of the vcita.com privacy policy that was archived on 2017-06-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170613052750id_/https%3A//www.vcita.com/about/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vcita.com privacy policy that was archived on 2018-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181227142700id_/https%3A//www.vcita.com/about/privacy_policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html dir="ltr" lang="en" ng-app="main" xmlns:ipp=""><head>
-<title>vCita - Privacy Policy</title>
-<meta content="IE=edge" http-equiv="X-UA-Compatible">
-<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#" class="js async-hide"><head>
+	<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<link rel="pingback" href="https://www.vcita.com/xmlrpc.php">
 
-<link href="https://fonts.googleapis.com/css?family=Roboto:400,300,700|Open+Sans:300italic,400italic,600italic,700italic,300,400,700,600" rel="stylesheet" type="text/css">
-<link href="//fonts.googleapis.com/css?family=fonts.googleapis.com/css?family=Caudex|Overlock|Patrick+Hand|Jockey+One|Sarina|Niconne|Fredericka+the+Great|Corben|Kelly+Slab|Marck+Script|Mr+De+Haviland|Lobster|Anton|Josefin+Slab|EB+Garamond|Basic|Chelsea+Market|Enriqueta|Forum|Jura|Noticia+Text|Open+Sans|Play|Signika|Spinnaker" rel="stylesheet" type="text/css">
-<meta content="authenticity_token" name="csrf-param">
-<meta content="GUQO72TwmYSsqZ83obFohxStg+pB+bTDBn/DqeUAcnU=" name="csrf-token">
-<script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script type="text/javascript" async="" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-TT3HPWN"></script><script>
-  //<![CDATA[
-    window.FRONTAGE_IFRAME = false;
-    
-    function frontageIframe() {
-      var css = '.frontage-iframe { display: none !important; } .frontage-iframe-container { margin-top: 22px !important; margin-left: 22px !important; margin-right: 0px !important; padding: 0 !important; } .frontage-iframe-container.i18n-rtl { margin-left: 0px !important; margin-right: 22px !important; } .my-widgets .frontage-iframe-container{margin: 0!important;}',
-        head = document.head || document.getElementsByTagName('head')[0],
-        style = document.createElement('style');
-    
-      style.type = 'text/css';
-      if (style.styleSheet){
-        style.styleSheet.cssText = css;
-      } else {
-        style.appendChild(document.createTextNode(css));
-      }
-    
-      head.appendChild(style);
-    
-      if (typeof($) != 'undefined') {
-        $('.frontage-popup').addClass('show-in-popup');
-      }
-    }
-    
-    function frontageIframeEvent(event) {
-      if (event.data.event == 'frontageIframe') {
-        window.FRONTAGE_IFRAME = true;
-        frontageIframe();
-      }
-    }
-    
-    
-    var state_shortcodes = {
-      "account":"my_account",
-      "settings/business": "business_info",
-      "settings/staff": "staff",
-      "settings/services": "my_services",
-      "settings/scheduling_options": "scheduling_options",
-      "settings/calendar": "calendar",
-      "settings/payments": "payments",
-      "settings/messages": "messages",
-      "settings/emails": "email_templates",
-      "settings/tracking": "conversion_tracking",
-      "settings/client_card_fields": "client_card_fields",
-      "settings/wl_main": "whitelabel",
-      "settings/branding": "branding"
-    }
-    function linkToFrontage(link, settingsLink) {
-      var redirect_link = link.attributes['href'].value;
-    
-      if (redirect_link[0] == '/')
-        redirect_link = redirect_link.substr(1)
-    
-      redirect_link = redirect_link.replace("?frontage_iframe=true&", "?");
-      redirect_link = redirect_link.replace("?frontage_iframe=true", "");
-    
-      if (state_shortcodes[redirect_link])
-        redirect_link = state_shortcodes[redirect_link]
-    
-      redirect_link = redirect_link.replace(/\//ig, '__');
-    
-      if (settingsLink) {
-        if (redirect_link == 'my_services') {
-          frontageRedirect('app.services_settings_page', {tab:'services'})
-        }
-        else if (redirect_link == 'scheduling_options') {
-          frontageRedirect('app.services_settings_page', {tab:'settings'})
-        }
-        else {
-          frontageRedirect('app.settings_page', {page:redirect_link})
-        }
-      }
-      else {
-        frontageUrlRedirect(redirect_link)
-      }
-    
-      return false;
-    }
-    
-    function frontageRefresh() {
-      if (window.FRONTAGE_IFRAME) {
-        var target = frontageTarget();
-    
-        if (target && typeof target != 'undefined') {
-          target.postMessage({event: 'frontageRefresh'}, '*');
-        }
-      }
-    }
-    
-    function frontageReload() {
-      if (window.FRONTAGE_IFRAME) {
-        var target = frontageTarget();
-    
-        if (target && typeof target != 'undefined') {
-          target.postMessage({event: 'frontageReload'}, '*');
-        }
-      }
-    }
-    
-    function frontageRedirect(redirectState, redirectParams, _targetBlank) {
-      targetBlank = _targetBlank || false
-      if (window.FRONTAGE_IFRAME) {
-        var target = frontageTarget();
-    
-        if (target && typeof target != 'undefined') {
-          target.postMessage({event: 'frontageRedirect', state: redirectState, params: redirectParams, user: "", targetBlank: targetBlank}, '*');
-        }
-      }
-    }
-    
-    function frontageUrlRedirect(url) {
-      if (window.FRONTAGE_IFRAME) {
-        var target = frontageTarget();
-    
-        if (target && typeof target != 'undefined') {
-          target.postMessage({event: 'frontageUrlRedirect', url: url}, '*');
-        }
-      }
-    }
-    
-    function frontageTarget() {
-      window.addEventListener ? window.addEventListener('message', frontageIframeEvent, false) : window.attachEvent('onMessage', frontageIframeEvent);
-    
-      var target = parent.postMessage ? parent : (parent.document.postMessage ? parent.document : undefined);
-    
-      return target;
-    }
-    
-    var target = frontageTarget();
-    
-    if (window.FRONTAGE_IFRAME) {
-      frontageIframe();
-    
-      if (target && typeof target != 'undefined') {
-        if (window.FRONTAGE_TITLE)
-          target.postMessage({event: 'frontageIframeAnnounce', title: window.FRONTAGE_TITLE}, '*');
-      }
-    } else {
-      if (target && typeof target != 'undefined') {
-        if (window.FRONTAGE_TITLE)
-          target.postMessage({event: 'frontageIframeRequest', title: window.FRONTAGE_TITLE}, '*');
-      }
-    }
-  //]]>
-</script>
+	<script type="text/javascript" async="" src="https://widget.intercom.io/widget/lq8yuum5"></script><script id="livesite-jssdk" src="https://www.vcita.com/assets/livesite.js?1580385"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5JVNQHT"></script><script src="//bat.bing.com/bat.js" async=""></script><script type="text/javascript">
+		document.documentElement.className = 'js';
+	</script>
 
-<link href="https://cdn2.vcdnita.com/assets/application-78cc6ef39b73388f2d7507b0ef3114f4.css" media="all" rel="stylesheet" type="text/css">
-<!--[if lte IE 9]>
-<link href="https://cdn2.vcdnita.com/assets/application_split2-78cc6ef39b73388f2d7507b0ef3114f4.css" media="all" rel="stylesheet" type="text/css" />
-<link href="https://cdn0.vcdnita.com/assets/application_split3-78cc6ef39b73388f2d7507b0ef3114f4.css" media="all" rel="stylesheet" type="text/css" />
-<![endif]-->
+	<script>var et_site_url='https://www.vcita.com';var et_post_id='3917';function et_core_page_resource_fallback(a,b){"undefined"===typeof b&&(b=a.sheet.cssRules&&0===a.sheet.cssRules.length);b&&(a.onerror=null,a.onload=null,a.href?a.href=et_site_url+"/?et_core_page_resource="+a.id+et_post_id:a.src&&(a.src=et_site_url+"/?et_core_page_resource="+a.id+et_post_id))}
+</script><title>Privacy Policy | vCita</title>
+		<script type="text/javascript">
+		var ajaxurl = 'https://www.vcita.com/wp-admin/admin-ajax.php';
+		</script>
+		
+<!-- This site is optimized with the Yoast SEO plugin v9.2.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="https://www.vcita.com/about/privacy_policy">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy | vCita">
+<meta property="og:url" content="https://www.vcita.com/about/privacy_policy">
+<meta property="article:publisher" content="https://www.facebook.com/vcitainc/">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Privacy Policy | vCita">
+<meta name="twitter:site" content="@vCita">
+<meta name="twitter:creator" content="@vCita">
+<!-- / Yoast SEO plugin. -->
 
-
-<script>
-  //<![CDATA[
-    window.reportVCitaHeightChange = function () {};
-    window.WEBCOM_GA_ACCOUNT = "UA-48978906-1";
-  //]]>
-</script>
-
-<script src="https://cdn3.vcdnita.com/assets/angular-file-upload-shim-611a0a5922961f4e277d87551fb7806a.js" type="text/javascript"></script>
-<!--[if lte IE 9]>
-<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7/html5shiv.min.js" type="text/javascript"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.js" type="text/javascript"></script>
-<![endif]-->
-<script src="https://cdn3.vcdnita.com/assets/application-ebcbc54f790c0111cb786d229d076e16.js" type="text/javascript"></script>
-<script src="https://cdn0.vcdnita.com/assets/angular-pack-c6a5d80b2ca5240c0495ab385f2af989.js" type="text/javascript"></script>
-<!-- / frontage show in popup handling -->
-<script>
-  //<![CDATA[
-    $(document).ready(function() {
-      if (window.FRONTAGE_IFRAME) {
-        frontageIframe();
-        $('.frontage-popup').addClass('show-in-popup');
-      }
-    });
-  //]]>
-</script>
-
-<script src="https://cdn3.vcdnita.com/assets/angular-pack-2-d52c8e815f16cf0bdea080f45accf48f.js" type="text/javascript"></script>
-<link href="https://cdn3.vcdnita.com/assets/fav.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
-
-      <!-- Google Data Layer -->
-      <script>
-dataLayer = [];
-</script>
-
-      <!-- End Google Data Layer -->
-
-      <!-- Google Tag Manager -->
-      <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-      })(window,document,'script','dataLayer','GTM-TT3HPWN');</script>
-      <!-- End Google Tag Manager -->
-
-
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//s.w.org">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.vcita.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.8"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://www.vcita.com/wp-includes/js/wp-emoji-release.min.js?ver=4.9.8" type="text/javascript" defer=""></script>
+		<meta content="vCita Divi v.1.2.5" name="generator"><style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="dbp-css-css" href="https://static.vcita.com/wp-content/plugins/divi-background-plus/css/dbp.css?ver=4.9.8" type="text/css" media="all">
+<link rel="stylesheet" id="dashicons-css" href="https://static.vcita.com/wp-includes/css/dashicons.min.css?ver=4.9.8" type="text/css" media="all">
+<link rel="stylesheet" id="post-views-counter-frontend-css" href="https://static.vcita.com/wp-content/plugins/post-views-counter/css/frontend.css?ver=1.2.14" type="text/css" media="all">
+<link rel="stylesheet" id="if-menu-site-css-css" href="https://static.vcita.com/wp-content/plugins/if-menu/assets/if-menu-site.css?ver=4.9.8" type="text/css" media="all">
+<link rel="stylesheet" id="parent-style-css" href="https://static.vcita.com/wp-content/themes/Divi/style.css?ver=4.9.8" type="text/css" media="all">
+<link rel="stylesheet" id="vcita-style-css" href="https://www.vcita.com/wp-content/themes/vCita/css/vcita.min.css?ver=1545570726" type="text/css" media="all">
+<link rel="stylesheet" id="signup-forms-style-css" href="https://www.vcita.com/wp-content/themes/vCita/css/elements/signup-forms.min.css?ver=1545557266" type="text/css" media="all">
+<link rel="stylesheet" id="faq-lists-style-css" href="https://www.vcita.com/wp-content/themes/vCita/css/elements/faq-lists.min.css?ver=1545866639" type="text/css" media="all">
+<link rel="stylesheet" id="divi-style-css" href="https://static.vcita.com/wp-content/themes/vCita/style.css?ver=3.15" type="text/css" media="all">
+<link rel="stylesheet" id="et-builder-googlefonts-cached-css" href="https://fonts.googleapis.com/css?family=Raleway%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CSource+Sans+Pro%3A200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C600%2C600italic%2C700%2C700italic%2C900%2C900italic%7CPoppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7COpen+Sans%3A300%2C300italic%2Cregular%2Citalic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic&amp;ver=4.9.8#038;subset=latin,latin-ext,cyrillic,greek,vietnamese,greek-ext,cyrillic-ext,devanagari" type="text/css" media="all">
+<script type="text/javascript" src="https://static.vcita.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="https://static.vcita.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
 <script type="text/javascript">
-          var _gaq = _gaq || [];
-          _gaq.push(['_setAccount', 'UA-20992974-1']);
-          _gaq.push(['_trackPageview']);
-          
-          (function() {
-            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-          })();
-
-        </script>
+/* <![CDATA[ */
+var header_scripts_params = {"post_id":"page-privacy_policy"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.vcita.com/wp-content/themes/vCita/js/header-scripts.min.js?ver=1544711662"></script>
 <script>
-  //<![CDATA[
-    if ( self !== top ) {
-      var style = document.createElement('style');
-      style.type = 'text/css';
-      style.innerHTML = "body:not(.vitrage-iframe) iframe[name='stripe_checkout_app'] { height: 710px !important; }";
-      document.getElementsByTagName('head')[0].appendChild(style);
-    }
-  //]]>
-</script>
-</head>
-<body class="abouts abouts-privacy_policy ">
-      <!-- Google Tag Manager (noscript) -->
-      <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TT3HPWN"
-      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-      <!-- End Google Tag Manager (noscript) -->
+				document.addEventListener( "DOMContentLoaded", function( event ) {
+					window.et_location_hash = window.location.hash;
+					if ( "" !== window.et_location_hash ) {
+						// Prevent jump to anchor - Firefox
+						window.scrollTo( 0, 0 );
+						var et_anchor_element = document.getElementById( window.et_location_hash.substring( 1 ) );
+						if( et_anchor_element === null ) {
+						    return;
+						}
+						window.et_location_hash_style = et_anchor_element.style.display;
+						// Prevent jump to anchor - Other Browsers
+						et_anchor_element.style.display = "none";
+					}
+				} );
+		</script><link rel="https://api.w.org/" href="https://www.vcita.com/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.vcita.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://static.vcita.com/wp-includes/wlwmanifest.xml"> 
+<link rel="shortlink" href="https://www.vcita.com/?p=3917">
+<link rel="alternate" type="application/json+oembed" href="https://www.vcita.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.vcita.com%2Fabout%2Fprivacy_policy">
+<link rel="alternate" type="text/xml+oembed" href="https://www.vcita.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.vcita.com%2Fabout%2Fprivacy_policy&amp;format=xml">
+<!-- Stream WordPress user activity plugin v3.2.3 -->
 
-      <script>
-  window.fbAsyncInit = function() {
-    FB.init({
-      appId      : '746053468893176',
-      xfbml      : true,
-      version    : 'v2.8'
-    });
-    FB.AppEvents.logPageView();
-  };
+    <meta name="google-site-verification" content="YOtA_qSWi6GoLEVuxrgD-zvLtd9BDUx2-zrUDcwfMy8">
 
-  (function(d, s, id){
-     var js, fjs = d.getElementsByTagName(s)[0];
-     if (d.getElementById(id)) {return;}
-     js = d.createElement(s); js.id = id;
-     js.src = "//connect.facebook.net/en_US/sdk.js";
-     fjs.parentNode.insertBefore(js, fjs);
-   }(document, 'script', 'facebook-jssdk'));
-</script>
+            <script>
+            (function(w, d, t, r, u) {
+                var f, n, i;
+                w[u] = w[u] || [], f = function() {
+                    var o = {
+                        ti: "5819928"
+                    };
+                    o.q = w[u], w[u] = new UET(o), w[u].push("pageLoad")
+                }, n = d.createElement(t), n.src = r, n.async = 1, n.onload = n.onreadystatechange = function() {
+                    var s = this.readyState;
+                    s && s !== "loaded" && s !== "complete" || (f(), n.onload = n.onreadystatechange = null)
+                }, i = d.getElementsByTagName(t)[0], i.parentNode.insertBefore(n, i)
+            })(window, document, "script", "//bat.bing.com/bat.js", "uetq");
+        </script><noscript><img src="//bat.bing.com/action/0?ti=5819928&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" /></noscript>
+    
+            
+    
 
-<div id="root">
-<div id="root_content" vc-report-height="">
-<div class="frontage-iframe" id="header">
-<div class="page">
-<img alt="Logo-1" class="site-logo" src="https://cdn3.vcdnita.com/assets/Logo-1-b086635ff63adb36d167903cdd8e081f.png">
-<ul id="nav">
-<li class="item">
-<a href="/">Home</a>
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-5JVNQHT');</script>
+    <!-- End Google Tag Manager -->
+
+    <style>.async-hide{ opacity:0!important }</style>
+    <script>
+        (function(a,s,y,n,c,h,i,d,e){
+            s.className+=' '+y;h.start=1*new Date;
+            h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+            (a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+        })(window,document.documentElement,'async-hide','dataLayer',4000,{'GTM-5JVNQHT':true});
+    </script>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"><link rel="shortcut icon" href="https://static.vcita.com/wp-content/uploads/2017/12/favicon.ico"><style id="et-core-unified-cached-inline-styles">body,.et_pb_column_1_2 .et_quote_content blockquote cite,.et_pb_column_1_2 .et_link_content a.et_link_main_url,.et_pb_column_1_3 .et_quote_content blockquote cite,.et_pb_column_3_8 .et_quote_content blockquote cite,.et_pb_column_1_4 .et_quote_content blockquote cite,.et_pb_blog_grid .et_quote_content blockquote cite,.et_pb_column_1_3 .et_link_content a.et_link_main_url,.et_pb_column_3_8 .et_link_content a.et_link_main_url,.et_pb_column_1_4 .et_link_content a.et_link_main_url,.et_pb_blog_grid .et_link_content a.et_link_main_url,body .et_pb_bg_layout_light .et_pb_post p,body .et_pb_bg_layout_dark .et_pb_post p{font-size:15px}.et_pb_slide_content,.et_pb_best_value{font-size:17px}.woocommerce #respond input#submit,.woocommerce-page #respond input#submit,.woocommerce #content input.button,.woocommerce-page #content input.button,.woocommerce-message,.woocommerce-error,.woocommerce-info{background:#4675d9!important}#et_search_icon:hover,.mobile_menu_bar:before,.mobile_menu_bar:after,.et_toggle_slide_menu:after,.et-social-icon a:hover,.et_pb_sum,.et_pb_pricing li a,.et_pb_pricing_table_button,.et_overlay:before,.entry-summary p.price ins,.woocommerce div.product span.price,.woocommerce-page div.product span.price,.woocommerce #content div.product span.price,.woocommerce-page #content div.product span.price,.woocommerce div.product p.price,.woocommerce-page div.product p.price,.woocommerce #content div.product p.price,.woocommerce-page #content div.product p.price,.et_pb_member_social_links a:hover,.woocommerce .star-rating span:before,.woocommerce-page .star-rating span:before,.et_pb_widget li a:hover,.et_pb_filterable_portfolio .et_pb_portfolio_filters li a.active,.et_pb_filterable_portfolio .et_pb_portofolio_pagination ul li a.active,.et_pb_gallery .et_pb_gallery_pagination ul li a.active,.wp-pagenavi span.current,.wp-pagenavi a:hover,.nav-single a,.posted_in a{color:#4675d9}.et_pb_contact_submit,.et_password_protected_form .et_submit_button,.et_pb_bg_layout_light .et_pb_newsletter_button,.comment-reply-link,.form-submit .et_pb_button,.et_pb_bg_layout_light .et_pb_promo_button,.et_pb_bg_layout_light .et_pb_more_button,.woocommerce a.button.alt,.woocommerce-page a.button.alt,.woocommerce button.button.alt,.woocommerce-page button.button.alt,.woocommerce input.button.alt,.woocommerce-page input.button.alt,.woocommerce #respond input#submit.alt,.woocommerce-page #respond input#submit.alt,.woocommerce #content input.button.alt,.woocommerce-page #content input.button.alt,.woocommerce a.button,.woocommerce-page a.button,.woocommerce button.button,.woocommerce-page button.button,.woocommerce input.button,.woocommerce-page input.button,.et_pb_contact p input[type="checkbox"]:checked+label i:before,.et_pb_bg_layout_light.et_pb_module.et_pb_button{color:#4675d9}.footer-widget h4{color:#4675d9}.et-search-form,.nav li ul,.et_mobile_menu,.footer-widget li:before,.et_pb_pricing li:before,blockquote{border-color:#4675d9}.et_pb_counter_amount,.et_pb_featured_table .et_pb_pricing_heading,.et_quote_content,.et_link_content,.et_audio_content,.et_pb_post_slider.et_pb_bg_layout_dark,.et_slide_in_menu_container,.et_pb_contact p input[type="radio"]:checked+label i:before{background-color:#4675d9}a{color:#4675d9}.nav li ul{border-color:#3b82ff}#top-header,#et-secondary-nav li ul{background-color:#4675d9}.et_header_style_centered .mobile_nav .select_page,.et_header_style_split .mobile_nav .select_page,.et_nav_text_color_light #top-menu>li>a,.et_nav_text_color_dark #top-menu>li>a,#top-menu a,.et_mobile_menu li a,.et_nav_text_color_light .et_mobile_menu li a,.et_nav_text_color_dark .et_mobile_menu li a,#et_search_icon:before,.et_search_form_container input,span.et_close_search_field:after,#et-top-navigation .et-cart-info{color:#4f4f4f}.et_search_form_container input::-moz-placeholder{color:#4f4f4f}.et_search_form_container input::-webkit-input-placeholder{color:#4f4f4f}.et_search_form_container input:-ms-input-placeholder{color:#4f4f4f}#top-menu li.current-menu-ancestor>a,#top-menu li.current-menu-item>a,.et_color_scheme_red #top-menu li.current-menu-ancestor>a,.et_color_scheme_red #top-menu li.current-menu-item>a,.et_color_scheme_pink #top-menu li.current-menu-ancestor>a,.et_color_scheme_pink #top-menu li.current-menu-item>a,.et_color_scheme_orange #top-menu li.current-menu-ancestor>a,.et_color_scheme_orange #top-menu li.current-menu-item>a,.et_color_scheme_green #top-menu li.current-menu-ancestor>a,.et_color_scheme_green #top-menu li.current-menu-item>a{color:#3b82ff}#footer-widgets .footer-widget a,#footer-widgets .footer-widget li a,#footer-widgets .footer-widget li a:hover{color:#ffffff}.footer-widget{color:#ffffff}#main-footer .footer-widget h4{color:#4675d9}.footer-widget li:before{border-color:#4675d9}#footer-widgets .footer-widget li:before{top:9.75px}body .et_pb_button,.woocommerce a.button.alt,.woocommerce-page a.button.alt,.woocommerce button.button.alt,.woocommerce-page button.button.alt,.woocommerce input.button.alt,.woocommerce-page input.button.alt,.woocommerce #respond input#submit.alt,.woocommerce-page #respond input#submit.alt,.woocommerce #content input.button.alt,.woocommerce-page #content input.button.alt,.woocommerce a.button,.woocommerce-page a.button,.woocommerce button.button,.woocommerce-page button.button,.woocommerce input.button,.woocommerce-page input.button,.woocommerce #respond input#submit,.woocommerce-page #respond input#submit,.woocommerce #content input.button,.woocommerce-page #content input.button,.woocommerce-message a.button.wc-forward{font-size:15px;background:#3ac18f;border-color:#3ac18f;border-radius:4px;font-weight:bold;font-style:normal;text-transform:uppercase;text-decoration:none;}body.et_pb_button_helper_class .et_pb_button,body.et_pb_button_helper_class .et_pb_module.et_pb_button,.woocommerce.et_pb_button_helper_class a.button.alt,.woocommerce-page.et_pb_button_helper_class a.button.alt,.woocommerce.et_pb_button_helper_class button.button.alt,.woocommerce-page.et_pb_button_helper_class button.button.alt,.woocommerce.et_pb_button_helper_class input.button.alt,.woocommerce-page.et_pb_button_helper_class input.button.alt,.woocommerce.et_pb_button_helper_class #respond input#submit.alt,.woocommerce-page.et_pb_button_helper_class #respond input#submit.alt,.woocommerce.et_pb_button_helper_class #content input.button.alt,.woocommerce-page.et_pb_button_helper_class #content input.button.alt,.woocommerce.et_pb_button_helper_class a.button,.woocommerce-page.et_pb_button_helper_class a.button,.woocommerce.et_pb_button_helper_class button.button,.woocommerce-page.et_pb_button_helper_class button.button,.woocommerce.et_pb_button_helper_class input.button,.woocommerce-page.et_pb_button_helper_class input.button,.woocommerce.et_pb_button_helper_class #respond input#submit,.woocommerce-page.et_pb_button_helper_class #respond input#submit,.woocommerce.et_pb_button_helper_class #content input.button,.woocommerce-page.et_pb_button_helper_class #content input.button{color:#fcfcfc}body .et_pb_button:after,.woocommerce a.button.alt:after,.woocommerce-page a.button.alt:after,.woocommerce button.button.alt:after,.woocommerce-page button.button.alt:after,.woocommerce input.button.alt:after,.woocommerce-page input.button.alt:after,.woocommerce #respond input#submit.alt:after,.woocommerce-page #respond input#submit.alt:after,.woocommerce #content input.button.alt:after,.woocommerce-page #content input.button.alt:after,.woocommerce a.button:after,.woocommerce-page a.button:after,.woocommerce button.button:after,.woocommerce-page button.button:after,.woocommerce input.button:after,.woocommerce-page input.button:after,.woocommerce #respond input#submit:after,.woocommerce-page #respond input#submit:after,.woocommerce #content input.button:after,.woocommerce-page #content input.button:after{font-size:24px}body .et_pb_button:hover,.woocommerce a.button.alt:hover,.woocommerce-page a.button.alt:hover,.woocommerce button.button.alt:hover,.woocommerce-page button.button.alt:hover,.woocommerce input.button.alt:hover,.woocommerce-page input.button.alt:hover,.woocommerce #respond input#submit.alt:hover,.woocommerce-page #respond input#submit.alt:hover,.woocommerce #content input.button.alt:hover,.woocommerce-page #content input.button.alt:hover,.woocommerce a.button:hover,.woocommerce-page a.button:hover,.woocommerce button.button:hover,.woocommerce-page button.button:hover,.woocommerce input.button:hover,.woocommerce-page input.button:hover,.woocommerce #respond input#submit:hover,.woocommerce-page #respond input#submit:hover,.woocommerce #content input.button:hover,.woocommerce-page #content input.button:hover{background:#6ecfab!important;border-color:#6ecfab!important}h1,h2,h3,h4,h5,h6,.et_quote_content blockquote p,.et_pb_slide_description .et_pb_slide_title{line-height:1.2em}@media only screen and (min-width:981px){.et_header_style_left #et-top-navigation,.et_header_style_split #et-top-navigation{padding:31px 0 0 0}.et_header_style_left #et-top-navigation nav>ul>li>a,.et_header_style_split #et-top-navigation nav>ul>li>a{padding-bottom:31px}.et_header_style_split .centered-inline-logo-wrap{width:62px;margin:-62px 0}.et_header_style_split .centered-inline-logo-wrap #logo{max-height:62px}.et_pb_svg_logo.et_header_style_split .centered-inline-logo-wrap #logo{height:62px}.et_header_style_centered #top-menu>li>a{padding-bottom:11px}.et_header_style_slide #et-top-navigation,.et_header_style_fullscreen #et-top-navigation{padding:22px 0 22px 0!important}.et_header_style_centered #main-header .logo_container{height:62px}.et_header_style_centered.et_hide_primary_logo #main-header:not(.et-fixed-header) .logo_container,.et_header_style_centered.et_hide_fixed_logo #main-header.et-fixed-header .logo_container{height:11.16px}.et_header_style_left .et-fixed-header #et-top-navigation,.et_header_style_split .et-fixed-header #et-top-navigation{padding:31px 0 0 0}.et_header_style_left .et-fixed-header #et-top-navigation nav>ul>li>a,.et_header_style_split .et-fixed-header #et-top-navigation nav>ul>li>a{padding-bottom:31px}.et_header_style_centered header#main-header.et-fixed-header .logo_container{height:62px}.et_header_style_split .et-fixed-header .centered-inline-logo-wrap{width:62px;margin:-62px 0}.et_header_style_split .et-fixed-header .centered-inline-logo-wrap #logo{max-height:62px}.et_pb_svg_logo.et_header_style_split .et-fixed-header .centered-inline-logo-wrap #logo{height:62px}.et_header_style_slide .et-fixed-header #et-top-navigation,.et_header_style_fullscreen .et-fixed-header #et-top-navigation{padding:22px 0 22px 0!important}.et-fixed-header#top-header,.et-fixed-header#top-header #et-secondary-nav li ul{background-color:#4675d9}.et-fixed-header #top-menu a,.et-fixed-header #et_search_icon:before,.et-fixed-header #et_top_search .et-search-form input,.et-fixed-header .et_search_form_container input,.et-fixed-header .et_close_search_field:after,.et-fixed-header #et-top-navigation .et-cart-info{color:#4f4f4f!important}.et-fixed-header .et_search_form_container input::-moz-placeholder{color:#4f4f4f!important}.et-fixed-header .et_search_form_container input::-webkit-input-placeholder{color:#4f4f4f!important}.et-fixed-header .et_search_form_container input:-ms-input-placeholder{color:#4f4f4f!important}.et-fixed-header #top-menu li.current-menu-ancestor>a,.et-fixed-header #top-menu li.current-menu-item>a{color:#3b82ff!important}}@media only screen and (min-width:1350px){.et_pb_row{padding:27px 0}.et_pb_section{padding:54px 0}.single.et_pb_pagebuilder_layout.et_full_width_page .et_post_meta_wrapper{padding-top:81px}.et_pb_section.et_pb_section_first{padding-top:inherit}.et_pb_fullwidth_section{padding:0}}@media only screen and (max-width:767px){.et_pb_section{padding:30px 0}.et_pb_section.et_pb_section_first{padding-top:inherit}.et_pb_section.et_pb_fullwidth_section{padding:0}.et_pb_row,.et_pb_column .et_pb_row_inner{padding:21px 0}}	h1,h2,h3,h4,h5,h6{font-family:'Raleway',Helvetica,Arial,Lucida,sans-serif}body,input,textarea,select{font-family:'Source Sans Pro',Helvetica,Arial,Lucida,sans-serif}.et_pb_button{font-family:'Poppins',Helvetica,Arial,Lucida,sans-serif}#main-header,#et-top-navigation{font-family:'Open Sans',Helvetica,Arial,Lucida,sans-serif}.et_pb_blurb h4{font-size:24px}.et_pb_promo{padding:40px 60px!important}.et_pb_column_1_2 .et_pb_promo{padding:40px}.et_pb_column_1_3 .et_pb_promo{padding:40px}.et_pb_column_1_4 .et_pb_promo{padding:40px}</style></head>
+<body class="page-template-default page page-id-3917 page-child parent-pageid-6950 et_button_no_icon et_pb_button_helper_class et_fixed_nav et_show_nav et_cover_background et_pb_gutter et_pb_gutters2 et_primary_nav_dropdown_animation_fade et_secondary_nav_dropdown_animation_fade et_pb_footer_columns4 et_header_style_left et_pb_pagebuilder_layout et_right_sidebar et_divi_theme et-db et_minified_js et_minified_css vc-guest vc-hide-footer">
+	<div id="page-container">
+
+	
+	
+			<header id="main-header" data-height-onload="62">
+			<div class="container clearfix et_menu_container">
+							<div class="logo_container">
+					<span class="logo_helper"></span>
+					<a href="https://www.vcita.com/">
+						<img src="https://static.vcita.com/wp-content/uploads/2016/02/Logo-1.png" alt="" id="logo" data-height-percentage="54">
+					</a>
+				</div>
+							<div id="et-top-navigation" data-height="62" data-fixed-height="62">
+											<nav id="top-menu-nav">
+						<ul id="top-menu" class="nav"><li id="menu-item-15510" class="product-megamenu menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children menu-item-15510"><a href="https://www.vcita.com/">Product</a>
+<ul class="sub-menu">
+	<li id="menu-item-15511" class="product-menu product-menu-calendar menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-15511"><a href="https://www.vcita.com/software/online_calendar_scheduling">Calendar &amp; Online Scheduling</a>
+	<ul class="sub-menu">
+		<li id="menu-item-15512" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15512"><a href="https://www.vcita.com/online_calendar">Business Calendar</a></li>
+		<li id="menu-item-15513" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15513"><a href="https://www.vcita.com/software/online_scheduling">Online Scheduling</a></li>
+		<li id="menu-item-15514" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15514"><a href="https://www.vcita.com/software/event_registration">Event Registration</a></li>
+	</ul>
 </li>
-<li class="item">
-<a href="/partners?o=SG9tZXBhZ2UgdG9wIG5hdmlnYXRpb24gLSBCZWNvbWUgYSBQYXJ0bmVy">Become a Partner</a>
+	<li id="menu-item-15515" class="product-menu product-menu-billing menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-15515"><a href="https://www.vcita.com/software/billing_and_invoicing">Billing &amp; Invoicing</a>
+	<ul class="sub-menu">
+		<li id="menu-item-15535" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15535"><a href="https://www.vcita.com/software/billing_and_invoicing/invoice_app">Invoices, Receipt &amp; Estimates</a></li>
+		<li id="menu-item-15536" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15536"><a href="https://www.vcita.com/software/billing_and_invoicing/credit-card-processing">Credit Card Processing</a></li>
+		<li id="menu-item-15537" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15537"><a href="https://www.vcita.com/online_payments">Online Payments</a></li>
+	</ul>
 </li>
-<li class="item">
-<a href="https://support.vcita.com">Help</a>
+	<li id="menu-item-23362" class="product-menu product-menu-clients menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-23362"><a href="https://www.vcita.com/software/client_management_software">Client Management (CRM)</a>
+	<ul class="sub-menu">
+		<li id="menu-item-15532" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15532"><a href="https://www.vcita.com/software/client_management_software/crm_contact_management">Contact Management</a></li>
+		<li id="menu-item-15533" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15533"><a href="https://www.vcita.com/software/client_management_software/online_crm">Team Collaboration</a></li>
+		<li id="menu-item-15534" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15534"><a href="https://www.vcita.com/software/client_management_software/automated-client-messaging">Automated Notifications</a></li>
+	</ul>
 </li>
-<li class="item">
-<a href="https://www.vcita.com/signup">Get started</a>
+	<li id="menu-item-15529" class="product-menu product-menu-marketing menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-15529"><a href="https://www.vcita.com/software/marketing_campaigns">Marketing</a>
+	<ul class="sub-menu">
+		<li id="menu-item-18378" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18378"><a href="https://www.vcita.com/software/email_campaigns">Email Marketing</a></li>
+		<li id="menu-item-17869" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17869"><a href="https://www.vcita.com/software/marketing_campaigns/sms_marketing">SMS Marketing</a></li>
+		<li id="menu-item-15530" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15530"><a href="https://www.vcita.com/software/lead_generation">Lead Generation</a></li>
+	</ul>
 </li>
-<li class="item">
-<a href="https://www.vcita.com/login" class="new-site-green-btn">Login</a>
-</li>
+	<li id="menu-item-15517" class="product-menu product-menu-portal menu-item menu-item-type-post_type menu-item-object-page menu-item-15517"><a href="https://www.vcita.com/software/client_portal">Client Portal</a><span class="menu-item-description">Let clients&nbsp;schedule, pay, and take any action online from a friendly self-service portal&nbsp;</span></li>
 </ul>
-<div class="clear"></div>
-</div>
-</div>
+</li>
+<li id="menu-item-15757" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15757"><a href="https://www.vcita.com/partners">Become a partner</a></li>
+<li id="menu-item-15519" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15519"><a target="_blank" href="http://support.vcita.com">Help</a></li>
+<li id="menu-item-16784" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16784"><a href="https://www.vcita.com/blog">Blog</a></li>
+<li id="menu-item-22312" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22312"><a href="https://www.vcita.com/customer-stories">Customer stories</a></li>
+<li id="menu-item-15522" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15522"><a href="https://live.vcita.com/site/vcita.sales/online-scheduling?service=a99f07563a8ce480&amp;s=website_topmenu">Schedule a demo</a></li>
+<li id="menu-item-17902" class="separator menu-item menu-item-type-custom menu-item-object-custom menu-item-17902"><a>|</a></li>
+<li id="menu-item-15524" class="turquoise-button menu-item menu-item-type-custom menu-item-object-custom menu-item-15524"><a href="https://www.vcita.com/signup?o=top_menu">Get started</a></li>
+<li id="menu-item-15525" class="login-button menu-item menu-item-type-custom menu-item-object-custom menu-item-15525"><a href="https://www.vcita.com/login?o=top_menu">Login</a></li>
+</ul>						</nav>
+					
+					
+					
+					
+					<div id="et_mobile_nav_menu">
+				<div class="mobile_nav closed">
+					<span class="select_page">Select Page</span>
+					<span class="mobile_menu_bar mobile_menu_bar_toggle"></span>
+				</div>
+			</div>				</div> <!-- #et-top-navigation -->
+			</div> <!-- .container -->
+			<div class="et_search_outer">
+				<div class="container et_search_form_container">
+					<form role="search" method="get" class="et-search-form" action="https://www.vcita.com/">
+					<input type="search" class="et-search-field" placeholder="Search …" value="" name="s" title="Search for:">					</form>
+					<span class="et_close_search_field"></span>
+				</div>
+			</div>
+		</header> <!-- #main-header -->
+			<div id="et-main-area">
+	
+<div id="main-content">
 
-<div id="main">
-<div class="page frontage-iframe-container">
-<div id="wrapper-about">
-<div class="container v-container">
-<div id="main-about">
-<div class="v-content span-15">
-<h2>Privacy Policy</h2>
-<p>vCita, Inc. (<strong>“vCita”</strong>) respects the privacy of users (a <strong>“User”</strong> or <strong>“Users”</strong>) and experts (an <strong>“Expert”</strong> or <strong>“Experts”</strong>) alike. This policy explains vCita’s privacy practices in connection with the use of the web-application (the <strong>“Web-App”</strong>) operated by vCita for Expert and Users and the services rendered through the Web-App by Expert to User (the <strong>“Services”</strong>). It also describes the ways vCita collects and uses personal information of Users and Experts and the rights and options available to Users and Experts with respect to their information. We may refer to Users and Experts together as <strong>“You”</strong>.</p>
-<p>This policy is incorporated into the vCita-Expert Services Agreement between vCita and Expert (the <strong>“Expert Agreement”</strong>). Capitalized terms not defined herein shall have the meaning ascribed to them in the Expert Agreement.</p>
-<p><span class="caps">THIS</span> <span class="caps">POLICY</span> <span class="caps">ONLY</span> <span class="caps">GOVERNS</span> VCITA’S <span class="caps">USE</span> OF <span class="caps">YOUR</span> <span class="caps">PERSONAL</span> <span class="caps">INFORMATION</span>. <span class="caps">THE</span> <span class="caps">USE</span> OF USER’S <span class="caps">PERSONAL</span> <span class="caps">INFORMATION</span> BY <span class="caps">EXPERT</span> (OR <span class="caps">OTHER</span> <span class="caps">THIRD</span> <span class="caps">PARTIES</span>) IS <span class="caps">NOT</span> <span class="caps">CONTROLLED</span> BY <span class="caps">VCITA</span>, <span class="caps">AND</span> <span class="caps">USER</span> <span class="caps">SHOULD</span> <span class="caps">REVIEW</span> EXPERT’S <span class="caps">PRIVACY</span> <span class="caps">POLICY</span> <span class="caps">INDEPENDENTLY</span>. <span class="caps">VCITA</span> IS <span class="caps">NOT</span> <span class="caps">RESPONSIBLE</span> <span class="caps">AND</span> <span class="caps">WILL</span> <span class="caps">BEAR</span> NO <span class="caps">LIABILITY</span> TO EXPERT’S <span class="caps">PRIVACY</span> <span class="caps">POLICY</span> OR TO EXPERT’S <span class="caps">COMPLIANCE</span> <span class="caps">WITH</span> IT</p>
+
+			
+				<article id="post-3917" class="post-3917 page type-page status-publish hentry">
+
+				
+					<div class="entry-content">
+					<div id="et-boc" class="et-boc">
+			
+			<div class="et_builder_inner_content et_pb_gutters3">
+				<div class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular">
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_0">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_0    et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_0 et_pb_fullwidth_header_subhead et_pb_bg_layout_dark  et_pb_text_align_center">
+				
+				
+				<div class="et_pb_text_inner">
+					<h1>Privacy Policy</h1>
+				</div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_1 et_pb_with_background et_section_regular">
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_1">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_1    et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_1 et_pb_bg_layout_light  et_pb_text_align_left">
+				
+				
+				<div class="et_pb_text_inner">
+					<p>vCita, Inc. and its affiliates (collectively, “vCita”) respect the privacy of users (a “User” or “Users”) and experts (an “Expert” or “Experts”) alike. This privacy policy explains vCita’s privacy practices in connection with the use of the web-application (the “Web-App”) operated by vCita for Expert and Users and the services rendered through the Web-App by Expert to User (the “Services”). It also describes the ways vCita collects and uses personal information of Users and Experts and the rights and options available to Users and Experts with respect to their information.</p>
+<p>This privacy policy is incorporated into the <a href="https://www.vcita.com/about/terms_of_service" target="_blank" rel="noopener">Terms of Service</a> between vCita and Expert (the “Agreement”). Capitalized terms not defined herein shall have the meaning ascribed to them in the Agreement.</p>
+<p>THIS PRIVACY POLICY ONLY GOVERNS VCITA’S USE OF YOUR PERSONAL INFORMATION. THE USE OF USER’S PERSONAL INFORMATION BY EXPERT (OR OTHER THIRD PARTIES) IS NOT CONTROLLED BY VCITA, AND USER SHOULD REVIEW EXPERT’S PRIVACY POLICY INDEPENDENTLY. VCITA IS NOT RESPONSIBLE AND WILL BEAR NO LIABILITY TO EXPERT’S PRIVACY POLICY OR TO EXPERT’S COMPLIANCE WITH IT.</p>
+<p>To the extent that the provisions of Regulation (EU) 2016/679 (“GDPR”) apply to the processing of personal data under these Website Terms And Conditions, the&nbsp;<a href="https://static.vcita.com/wp-content/uploads/2018/08/vCita_Customer_Data_Protection_Addendum.pdf" target="_blank" rel="noopener">vCita’s Data Processing Addendum</a>&nbsp;serves as an integral part of these Website Terms And Conditions.</p>
 <h3>What personal information does the Expert provide to vCita?</h3>
-<p>As an Expert, when you register to the Web-App, you may be asked to provide vCita an active e-mail address and other contact and personal details (or other allowed identification means), and to select a password. vCita may ask you to provide additional payment and transaction related personal information, to the extent required.</p>
-<p>As an Expert, you may also need to set-up a profile using the Web-App, which may be available on websites other than your own. vCita does not have any obligation under this Privacy Policy with respect to information which an Expert provides and which is intended to be publicly available.</p>
-<p>Please bear in mind that false, incorrect, incomplete, or outdated information may prevent you from registering and using the Services or the Web-App, or impair vCita’s ability to provide you with the Services or the Web-App and to contact you.</p>
+<p>As an Expert, when you register to the Web-App, you are asked to provide vCita an active e-mail address and other contact and personal details (or other allowed means of identification), and to select a password.</p>
+<p>vCita can ask you to provide additional payment and transaction related personal information, to the extent required to provide the Services.</p>
+<p>As an Expert, you also need to set-up a profile using the Web-App, which is available on websites other than your own. vCita does not have any obligation under this privacy policy with respect to information which an Expert provides and which is intended to be publicly available.</p>
+<p>Please bear in mind that false, incorrect, incomplete, or outdated information can prevent you from registering and using the Services or the Web-App or impair vCita’s ability to provide you with the Services or the Web-App and to contact you.</p>
 <h3>What Internet traffic does vCita collect?</h3>
 <p>vCita’s Web-App provides a comprehensive solution to Users and Experts, which enables them to contact each other, schedule an appointment, form a contract, pay and receive fees, interact and manage their engagement by using the Web-App. The Web-App is installed on vCita’s servers, and when you use the Web-App, the information routed via the Web-App is accessible to vCita.</p>
 <p>When you use the Services or the Web-App, vCita will collect information, such as session durations, page impressions, Internet protocol (IP) addresses, the domain name that served you to access the Services or the Web-App, and content types and origins.</p>
-<p>vCita will also store information related to online data or metadata that is routed through vCita’s servers, such as web pages’ addresses, structures, data fields and images.</p>
-<p>The stored data will be attributed to you in person, only to the extent necessary for the use of the Web-App or the Services, as set in the following chapter. In all other cases, vCita will anonymize the data and will not knowingly use the data to personally identify you.</p>
-<p>Further information may be collected when you and vCita exchange communications, for example, when you submit an inquiry to the customer support at: <a href="mailto:support@vcita.com">support@vcita.com</a>.</p>
+<p>vCita will also store information related to online data or metadata that is routed through vCita’s servers, such as web page addresses, structure, data fields and images.</p>
+<p>The stored data will be attributed to you in person, only to the extent necessary for the use of the Web-App or the Services, as set in the following section. In all other cases, vCita will anonymize the data and will not knowingly use the data to personally identify you.</p>
+<p>Further information is collected when you and vCita exchange communications, for example, when you submit an inquiry to customer support at: support@vcita.com</p>
 <h3>Does vCita collect location based information?</h3>
-<p>vCita does not actively collect any personal information that is based on your geographical location, except for the country that you reside in when accessing the Services or the Web-App. However, certain location based information may be stored on vCita’s servers, for example if you use the Services or the Web-App to access geographic based services. vCita will use such information subject to this policy and will anonymize such data as soon as it is no longer necessary for the performance of the Services by Expert or the use of the Web-App.</p>
+<p>vCita does not actively collect any personal information that is based on your geographical location, except for the country that you reside in when accessing the Services or the Web-App.</p>
+<p>However, certain location-based information is stored on vCita’s servers, for example if you use the Services or the Web-App to access geographic based services.</p>
+<p>vCita will use such information subject to this privacy policy and will anonymize such data as soon as it is no longer necessary for the performance of the Services by Expert or the use of the Web-App.</p>
 <h3>What does vCita do with your personally identifiable information?</h3>
-<p>vCita may use personally identifiable information for the following purposes:</p>
+<p>vCita uses personally identifiable information for the following purposes and for as long as they serve such purposes:</p>
 <ul>
-	<li>to provide and operate the Services or the Web-App;</li>
+<li>To provide and operate the Services or the Web-App;</li>
+<li>To send you updates and notices and to provide you with information related to the Services or the Web-App, provided that vCita will not share your e-mail address or any other personally identifiable information with online advertisers and advertising networks, without your explicit consent;</li>
+<li>To enforce the Agreement;</li>
+<li>To contact you as and when it is necessary for providing the Services;</li>
+<li>To comply with any applicable law, respond to lawful requests of personal information by public authorities, and assist law enforcement agencies as required, including to meet national security; in any case where vCita believes that the use of the information is necessary to prevent imminent physical harm or damage to property;</li>
+<li>To collect fees and debts, and to prevent fraud, misappropriation, infringements, identity thefts and any other misuse of the Services or the Web-App;</li>
+<li>To take any action in any case of dispute, or legal proceeding of any kind between you and vCita, or between you and other users or third parties with respect to, or in relation with the Services or the Web-App.</li>
 </ul>
-<ul>
-	<li>to send you updates and notices and to provide you with information related to the Services or the Web-App, provided that vCita will not share your e-mail address or any other personally identifiable information with online advertisers and advertising networks, without your explicit consent;</li>
-</ul>
-<ul>
-	<li>to enforce the Expert Agreement;</li>
-</ul>
-<ul>
-	<li>to contact you as and when vCita believes it to be necessary;</li>
-</ul>
-<ul>
-	<li>to comply with any applicable law and assist law enforcement agencies as required;</li>
-</ul>
-<ul>
-	<li>in any case where vCita believes that the use of the information is necessary to prevent imminent physical harm or damage to property;</li>
-</ul>
-<ul>
-	<li>to collect fees and debts, and to prevent fraud, misappropriation, infringements, identity thefts and any other misuse of the Services or the Web-App; and</li>
-</ul>
-<ul>
-	<li>to take any action in any case of dispute, or legal proceeding of any kind between you and vCita, or between you and other users or third parties with respect to, or in relation with the Services or the Web-App.</li>
-</ul>
-<h3>Safe Harbor</h3>
-<p>As a vCita user, your personal information may be maintained, processed and stored by vCita, our affiliates, and our service providers in the United States or other jurisdictions. vCita adheres to the Safe Harbor Privacy Principles according to the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework. The Safe Harbor program is intended to provide equivalent protections for personal data as exist in the EU and Switzerland. For more information about the Safe Harbor and to view our certification, visit the U.S. Department of Commerce’s Safe Harbor website at <a href="http://export.gov/safeharbor/">http://export.gov/safeharbor/</a>.</p>
-<p>If you have any questions about our Safe Harbor participation, please contact us using the information below. If you believe that vCita has not satisfactorily addressed your data privacy concerns related to the U.S.-EU Safe Harbor Privacy Principles or the U.S.-Swiss Safe Harbor Privacy Principals, and without prejudice to any other remedy you may enjoy, you may obtain dispute resolution services through <a href="http://thedma.org/resources/compliance-resources/safe-harbor-program-guide/dma-safe-harbor-program-guide-for-european-and-swiss-consumers/">The <span class="caps">DMA</span> Safe Harbor Program</a>.</p>
-<p>In relation to information of users collected and stored through the vCita Web-App (“Clients’  Data”), vCita serves as a data “Processor” (due to the technical hosting thereof) and not as a data “Controller” (as both such capitalized terms are defined in the European Data Protection Directive). The Experts controlling and operating the vCita Web-App shall be considered the controllers of such Clients’ Data and are responsible for complying with all laws and regulations as may be applicable to the collection and control of such Clients’ Data including privacy or data protection laws of all relevant jurisdictions.  vCita cannot provide legal advice to Experts, but vCita recommends that all Experts that create and maintain websites using vCita platform should maintain clear and comprehensive privacy policies complying with the applicable laws and regulations.</p>
-<h3>Important notice about privacy of persons under the age of 18</h3>
-<p>The Services and the Web-App are not intended for use by persons under the age of 18. If you are not 18 years old or older, then you may not use any of the Services or the Web-App and must not provide any of your personal details.</p>
-<p>vCita strongly encourages parents to monitor their children’s use of the Web. vCita will delete a child’s personally identifiable information if a parent so requests by sending an e-mail to <a href="mailto:support@vcita.com">support@vcita.com</a>. If vCita learns that a child under the age of 18 years has provided personally identifiable information to vCita without verifiable parental consent, vCita will use commercially reasonable efforts to delete such information from vCita’s databases.</p>
+<h3>Privacy Sheild</h3>
+<p>As a vCita user, your personal information is maintained, processed and stored by vCita, our affiliates, and our service providers in the United States or other jurisdictions.</p>
+<p>vCita complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States.</p>
+<p>vCita has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <a href="https://www.privacyshield.gov/" target="_blank" rel="noopener">https://www.privacyshield.gov/</a>.</p>
+<p>In compliance with the Privacy Shield Principles, vCita commits to resolve complaints about our collection or use of your personal information. European Union individuals with inquiries or complaints regarding our Privacy Shield policy should first contact vCita at: <a href="mailto:privacy@vcita.com" target="_blank" rel="noopener">privacy@vcita.com</a></p>
+<p>For any Privacy Shield related complaints that are not resolved within 45 days, you can file a complaint with JAMS, our independent dispute resolution provider, at the following website: <a href="https://www.jamsadr.com/file-an-eu-us-privacy-shield-claim" target="_blank" rel="noopener">https://www.jamsadr.com/file-an-eu-us-privacy-shield-claim</a>. The services of JAMS are provided at no cost to you.</p>
+<p>In addition, you may invoke binding arbitration in certain cases, as further described in Annex I of the EU-U.S. Privacy Shield Agreement. For further information concerning the binding arbitration, please visit the Privacy Shield web site at: <a href="https://www.privacyshield.gov" target="_blank">www.privacyshield.gov</a>, or contact our privacy team at: <a href="mailto:privacy@vcita.com" target="_blank">privacy@vcita.com</a>.</p>
+<p>vCita is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).</p>
+<p>The Experts controlling and operating the vCita Web-App will be considered the controllers of such Clients’ Data and are responsible for complying with all laws and regulations which are applicable to the collection and control of such Clients’ Data including privacy or data protection laws of all relevant jurisdictions.</p>
+<p>vCita cannot provide legal advice to Experts, but vCita recommends that all Experts that create and maintain websites using vCita platform should maintain clear and comprehensive privacy policies complying with the applicable laws and regulations.</p>
+<h3>Important notice about privacy of persons under the age of 16</h3>
+<p>The Services and the Web-App are not intended for use by persons under the age of 16. If you are not 16 years old or older, then you cannot use any of the Services or the Web-App and must not provide any of your personal details.</p>
+<p>vCita strongly encourages parents to monitor their children’s use of the Web. vCita will delete a child’s personally identifiable information if a parent so requests by sending an e-mail to&nbsp;<a href="mailto:support@vcita.com">support@vcita.com</a>. If vCita learns that a child under the age of 16 years has provided personally identifiable information to vCita without verifiable parental consent, vCita will use commercially reasonable efforts to delete such information from vCita’s databases.</p>
 <h3>How does vCita share your personally identifiable information with others?</h3>
-<p>vCita does not sell, rent or lease your personally identifiable information to third parties. vCita may share personally identifiable information with others in any of the following instances, or otherwise subject to your explicit consent:</p>
+<p>vCita does not sell, rent or lease your personally identifiable information to third parties. vCita shares personally identifiable information with others only in any of the following instances, or otherwise subject to your explicit consent:</p>
 <ul>
-	<li>to operate the Services or the Web-App, including to store and process your information through a third party hosting services and to process payments;</li>
+<li>To operate the Services or the Web-App, including to store and process your information through a third-party hosting services and to process payments;</li>
+<li>To contact you. For example, vCita uses a third party’s mailing platform to send you messages and updates from time to time;</li>
+<li>If vCita believes that you have breached the Agreement or any other agreement with vCita or abused your rights to use the Services or the Web-App or performed any act or omission that vCita believes to be violating any applicable law, rules, or regulations. vCita may share your information with law enforcement agencies, governmental agencies and other competent authorities as well as with other third parties, as may be required;</li>
+<li>If vCita is required, or believes that it is required by law to share or disclose your information; In any case of dispute, or legal proceeding of any kind between you and vCita, or between you and other users or third parties with respect to, or in relation with the Services or the Web-App (including a dispute between User and Expert), vCita can use your information in preparing its legal case in connection with such dispute or proceedings;</li>
+<li>In any case where vCita believes that sharing information is necessary to prevent imminent physical harm or damage to property;</li>
+<li>If vCita organizes the operation of the Services or the Web-App within a different framework, or through another legal structure or entity, or if vCita is acquired by, or merged with another entity it can share your information with the new entity who will operate the Services or the Web-App, provided, however, that those entities agree to be bound by the provisions of this privacy policy, with respective changes taken into consideration;</li>
+<li>vCita can also share personally identifiable information with sub-contractors and other companies or organizations connected, or affiliated with vCita, such as subsidiaries, sister-companies and parent companies;</li>
+<li>vCita is liable for onward transfers of personal data to third parties.</li>
 </ul>
+<p>&nbsp;</p>
+<h3>How does vCita use anonymous, statistical or aggregated information?</h3>
+<p>vCita also uses anonymous, statistical or aggregated information to properly operate the Services or the Web-App; to improve the quality and functionality of the Services or the Web-App; to enhance your experience; to create new services, including customized services; to change or cancel existing content or services, and for other internal and statistical purposes.</p>
+<p>vCita can share, publish, post, disseminate, transmit or otherwise communicate or make available anonymous, statistical or aggregated information to suppliers, business partners, sponsors, affiliates and any other third party, at vCita’s sole discretion, provided, however, that vCita will not knowingly, or intentionally use the information to reveal your identity without your consent.</p>
+<h3>How does vCita access &amp; use your Google user data?</h3>
+<p>vCita uses Google OAuth in order to get access to your Google data as describes as follows:</p>
 <ul>
-	<li>to contact you. For example, vCita may use a third party’s mailing platform to send you messages and updates from time to time;</li>
+<li>As part of your registration, you can choose to register using your Google account. As part of this process vCita will create a vCita account using your Google email address, and later on will use it as your system email address.</li>
+<li>If you choose to synchronize your Google Calendar with vCita’s app, vCita will access your Google calendar and will use it to display your availability on your vCita calendar(s).</li>
+<li>If you choose to synchronize your Google Contacts with vCita’s app, vCita will import your Google Contacts into vCita’s app and will use it to allow you to contact your clients.</li>
+<li>You can choose to export your Google data from vCita’s app at any time.</li>
 </ul>
-<ul>
-	<li>if vCita believes that you have breached the Expert Agreement or any other agreement with vCita, or abused your rights to use the Services or the Web-App, or performed any act or omission that vCita believes to be violating any applicable law, rules, or regulations. vCita may share your information with law enforcement agencies, governmental agencies and other competent authorities as well as with other third parties, as may be required;</li>
-</ul>
-<ul>
-	<li>if vCita is required, or believes that it is required by law to share or disclose your information;</li>
-</ul>
-<ul>
-	<li>in any case of dispute, or legal proceeding of any kind between you and vCita, or between you and other users or third parties with respect to, or in relation with the Services or the Web-App (including a dispute between User and Expert);</li>
-</ul>
-<ul>
-	<li>in any case where vCita believes that sharing information is necessary to prevent imminent physical harm or damage to property;</li>
-</ul>
-<ul>
-	<li>if vCita organizes the operation of the Services or the Web-App within a different framework, or through another legal structure or entity, or if vCita is acquired by, or merged with another entity, provided, however, that those entities agree to be bound by the provisions of this policy, with respective changes taken into consideration; and</li>
-</ul>
-<ul>
-	<li>vCita may also share personally identifiable information with sub-contractors and other companies or organizations connected, or affiliated with vCita, such as subsidiaries, sister-companies and parent companies.</li>
-</ul>
-<h3>How does vCita use aggregated information?</h3>
-<p>vCita may also use anonymous, statistical or aggregated information to properly operate the Services or the Web-App, to improve the quality and functionality of the Services or the Web-App, to enhance your experience, to create new services, including customized services, to change or cancel existing content or services and for other internal and statistical purposes.</p>
-<p>vCita may share, publish, post, disseminate, transmit or otherwise communicate or make available such information, to suppliers, business partners, sponsors, affiliates and any other third party, at vCita’s sole discretion, provided, however, that vCita will not knowingly, or intentionally use the information to reveal your identity without your consent.</p>
 <h3>How can you access your personal information?</h3>
-<p>If you are an Expert and registered to the Web-App, then you may access your personal account and edit or amend your personal information at any time using the designated user interface in the Web-App. If you find that the information on your personal account is not accurate, complete or updated, then you may make all necessary changes to correct it. Otherwise, both Experts and Users may contact us at <a href="mailto:support@vcita.com">support@vcita.com</a>.</p>
+<p>If you are an Expert and registered to the Web-App, then you can access your personal account and edit or amend your personal information at any time using the designated user interface in the Web-App.</p>
+<p>If you find that the information on your personal account is not accurate, complete or updated, then you can make all necessary changes to correct it. Otherwise, both Experts and Users can contact us at: <a href="mailto:support@vcita.com">support@vcita.com</a>.</p>
 <h3>Which ‘opt out’ and deletion options are available to you?</h3>
-<p>At any time you may opt out of vCita’s mailing lists, by sending vCita a removal request to: <a href="mailto:support@vcita.com">support@vcita.com</a>. It may take up to ten (10) business days for your opt-out request to take effect.</p>
-<p>If you wish to delete your personally identifiable information that is stored in vCita’s database, you may send a request to delete information to: <a href="mailto:support@vcita.com">support@vcita.com</a>. vCita will inform you whether it can accept your request. vCita may refuse your request, for example, if vCita believes that removal of certain information may jeopardize certain activities of the Services or the Web-App, or harm other users. In any case, vCita may keep any aggregated or anonymized information for statistical, marketing and other purposes, indefinitely.</p>
+<p>At any time you can opt out of vCita’s mailing lists, by sending vCita a removal request to: <a href="mailto:support@vcita.com">support@vcita.com</a>. It can take up to ten (10) business days for your opt-out request to take effect.</p>
+<p>If you wish to delete your personally identifiable information that is stored in vCita’s database, you can send a request to delete information to: <a href="mailto:support@vcita.com">support@vcita.com</a>. vCita will inform you whether it can accept your request. vCita will strive to accept requests to delete personally identifiable information. vCita can refuse your request, for example, if vCita believes that removal of certain information can harm other users.</p>
+<p>You will bear full responsibility for any damage, costs, fines and expenses resulting from the deletion of data pursuant to your request to exercise the right to be forgotten, and hold vCita harmless thereof.</p>
+<p>In any case, vCita can keep any aggregated or anonymized information for statistical, marketing and other purposes, indefinitely.</p>
+<p>It is vCita’s policy to keep Expert personal information on file unless specifically requested to be deleted.</p>
 <h3>How does vCita secure your personal information?</h3>
-<p>vCita and third parties on its behalf implement information security systems and procedures to secure your personal information. While such systems and procedures reduce the risk of security breaches, they do not provide absolute security. Therefore, vCita cannot guarantee that the Services or the Web-App will be immune from any wrongdoings, malfunctions, unlawful interceptions or unauthorized access to the information stored therein and to other information security risks, or that your private communications on or through the Services or the Web-App will remain private.</p>
-<p>We restrict access to personal information you provided vCita to our employees, contractors, vendors and agents who need to know that information for the purposes described in this policy. These individuals are obligated to keep your personal information confidential and they may be subject to penalties, termination of relations and criminal prosecution, if they fail to comply with such obligations.</p>
+<p>vCita and third parties on its behalf implement information security systems and procedures to secure your personal information. While such systems and procedures reduce the risk of security breaches, they do not provide absolute security.</p>
+<p>Therefore, vCita cannot guarantee that the Services or the Web-App will be immune from any wrongdoings, malfunctions, unlawful interceptions or unauthorized access to the information stored therein and to other information security risks, or that your private communications on or through the Services or the Web-App will remain private.</p>
+<p>We restrict access to personal information you provided vCita to our employees, contractors, vendors and agents who need to know that information for the purposes described in this privacy policy.</p>
+<p>These individuals are obligated to keep your personal information confidential and they can be subject to penalties, termination of relations and criminal prosecution, if they fail to comply with such obligations.</p>
+<h3>Your rights under the GDPR</h3>
+<p>Please note that under the GDPR vCita processes personal data as a data processor. As such, vCita is committed to assist vCita’s data controllers to fulfill individuals’ rights under the GDPR.</p>
+<p>If you wish to exercise your rights under the GDPR or have any questions in this matter, please contact the relevant vCita’s data controller directly. Should you need vCita’s assistance to indicate who the relevant vCita’s data controller is, please feel free to contact us at: privacy@vcita.com.</p>
+<p>To the extent required and upon a written request from vCita’s data controller, vCita will assist the vCita’s data controller to fulfill your rights under the GDPR.</p>
 <h3>How does vCita use Cookies?</h3>
-<p>vCita may use cookies when operating the Services or the Web-App. Cookies are packets of information sent by vCita’s servers to your web browser and then sent back by the browser. vCita may use cookies for various purposes, for example, to save you the need to re-enter your password each time you log-in to the Services or the Web-App, to facilitate the use of the Services or the Web-App, to collect information for statistical and analytical purposes, to verify information, to customize the Services or the Web-App to your personal preferences and for information security purposes.</p>
-<p>Some of the cookies may expire when the session ends and you exit your browser. Other cookies may be stored on your computer’s hard drive. If you wish to block the cookies, then please use the help button in your browser and follow the necessary instructions. However, bear in mind that disabling cookies may complicate or even prevent your use of the Services or the Web-App, or certain features thereof.</p>
+<p>vCita uses cookies when operating the Services or the Web-App. Cookies are packets of information sent by vCita’s servers to your web browser and then sent back by the browser.</p>
+<p>vCita uses cookies for various purposes, for example, to save you the need to re-enter your password each time you log-in to the Services or the Web-App, to facilitate the use of the Services or the Web-App, to collect information for statistical and analytical purposes, to verify information, to customize the Services or the Web-App to your personal preferences and for information security purposes.</p>
+<p>Some of the cookies can expire when the session ends, and you exit your browser. Other cookies can be stored on your computer’s hard drive. If you wish to block the cookies, then please use the help button in your browser and follow the necessary instructions. However, bear in mind that disabling cookies can complicate or even prevent your use of the Services or the Web-App, or certain features thereof.</p>
 <h3>Where is my personal information processed?</h3>
-<p>vCita may store and process the information through a third party’s hosting services in the <span class="caps">USA</span> or in other jurisdictions, at its discretion. If you are in the European Economic Area, or in any other jurisdiction that regulates the transfer of personal information outside that jurisdiction, then you hereby grant vCita your explicit and unambiguous consent to transfer your personal information to the <span class="caps">USA</span> or to any other jurisdiction where vCita’s hosting services operate, for the purposes described in this policy.</p>
+<p>vCita stores and processes the information through third party hosting services in the USA or in other jurisdictions, at its discretion. If you are in the European Economic Area, or in any other jurisdiction that regulates the transfer of personal information outside that jurisdiction, then you hereby grant vCita your explicit and unambiguous consent to transfer your personal information to the USA or to any other jurisdiction where vCita’s hosting services operate, for the purposes described in this privacy policy.</p>
+<h3>Job Applications</h3>
+<p>vCita collects applicants personal data solely for vCita’s internal recruitment purposes including for communication with applicants by phone or in writing, evaluation of applications and hiring process.</p>
 <h3>Enforcement</h3>
-<p>vCita is doing its utmost to comply with this Policy. If you have any questions, concerns or complaints regarding this policy and the enforcement thereof, please refer them to: <a href="mailto:support@vcita.com">support@vcita.com</a>. After receiving your complaint, vCita may contact you to better understand your concerns and will make all efforts to promptly answer your question, or resolve your complaint to your full satisfaction.</p>
+<p>vCita is doing its utmost to comply with this privacy policy. If you have any questions, concerns or complaints regarding this privacy policy and the enforcement thereof, please refer them to: <a href="mailto:support@vcita.com">support@vcita.com</a>.</p>
+<p>After receiving your complaint, vCita can contact you to better understand your concerns and will make all efforts to promptly answer your question or resolve your complaint to your full satisfaction.</p>
 <h3>Changes to this Privacy Policy</h3>
-<p>vCita may change and update the terms of this policy from time to time. Changes will take effect seven (7) days after their initial posting on the Website or the Web-App, unless vCita amends the policy to comply with legal requirements. In the latter cases the amendments will become effective as required, or ordered.</p>
-<p>Last Updated: October 28, 2015</p>
+<p>vCita can change and update the terms of this privacy policy from time to time. Changes will take effect seven (7) days after their initial posting on the Website or the Web-App, unless vCita amends this privacy policy to comply with legal requirements. In the latter cases the amendments will become effective as required or ordered.</p>
+<p>Last Updated: October 18, 2018</p>
+				</div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section -->			</div>
+			
+		</div>					</div> <!-- .entry-content -->
 
-</div>
-<div class="span-10" id="sidebar-about">
-<div class="sidebar-holder-about">
-<ul class="v-about-list">
-<li><a href="/about/company">Company</a></li>
-<li><a href="/about/terms_of_service">Terms of Service</a></li>
-<li><a href="/about/privacy_policy">Privacy Policy</a></li>
-<li><a href="/about/contact_us">Contact Us</a></li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-</div>
+				
+				</article> <!-- .et_pb_post -->
 
-</div>
-</div>
-</div>
-<div class="frontage-iframe" id="root_footer"></div>
-</div>
-<div id="video-background">
-<div id="video-holder">
-<div class="x-btn"></div>
-<div class="video"></div>
-</div>
-</div>
-<div class="frontage-iframe" id="footer">
-<div class="holder">
-<div class="page">
-<ul>
-<li>
-<b><a href="https://www.vcita.com/home">Home</a></b>
-</li>
-<li><a href="https://www.vcita.com/about/company">Company</a></li>
-<li><a href="http://blog.vcita.com/search/label/Press%20Releases?utm_source=vCita&amp;utm_medium=vCita&amp;utm_campaign=vCita_to_Blog">News</a></li>
-<li><a href="http://blog.vcita.com/p/reviews.html?utm_source=vCita&amp;utm_medium=vCita&amp;utm_campaign=vCita_to_Blog">Reviews</a></li>
-<li><a href="http://blog.vcita.com/search/label/Case%20Studies?utm_source=vCita&amp;utm_medium=vCita&amp;utm_campaign=vCita_to_Blog">Case Studies</a></li>
-<li><a href="http://blog.vcita.com/p/testimonials.html?utm_source=vCita&amp;utm_medium=vCita&amp;utm_campaign=vCita_to_Blog">Testimonials</a></li>
-<li><a href="https://www.vcita.com/pricing">Pricing</a></li>
-<li><a href="https://www.vcita.com/about/contact_us">Contact Us</a></li>
-<li><a href="http://blog.vcita.com/?utm_source=vCita&amp;utm_medium=vCita&amp;utm_campaign=vCita_to_Blog">Blog</a></li>
-<li><a href="https://plus.google.com/114945563608298833194" rel="publisher">Google+</a></li>
-</ul>
-<ul>
-<li>
-<b><a href="https://www.vcita.com/home">Product</a></b>
-</li>
-<li><a href="https://www.vcita.com/software/online_scheduling">Online Scheduling Software</a></li>
-<li><a href="https://www.vcita.com/online_calendar">Online Calendar</a></li>
-<li><a href="https://www.vcita.com/appointment-booking">Scheduling Showcase</a></li>
-<li><a href="https://www.vcita.com/software/crm_contact_management">Contact Management Software</a></li>
-<li><a href="https://www.vcita.com/software/event_registration">Event Registration</a></li>
-<li><a href="https://www.vcita.com/crm_software">CRM Software</a></li>
-<li><a href="https://www.vcita.com/online_payments">Online Payments and Invoicing</a></li>
-<li><a href="https://www.vcita.com/online_invoice_template">Invoice Template</a></li>
-<li><a href="https://www.vcita.com/online_file_sharing">Online File Sharing</a></li>
-<li><a href="https://www.vcita.com/contact_form">Contact Form</a></li>
-<li><a href="https://www.vcita.com/software/wordpress_contact_form">WordPress Contact Form</a></li>
-<li><a href="https://www.vcita.com/software/online_scheduling_drupal_plugin">Drupal Plugin</a></li>
-<li><a href="https://www.vcita.com/software/email_campaigns">Email Marketing</a></li>
-<li><a href="https://www.vcita.com/click_to_call">Click to Call</a></li>
-<li><a href="https://www.vcita.com/medical-practice-management/doctor-dentist-nutritionist-physical-therapist/">Medical Practice Management</a></li>
-</ul>
-<ul>
-<li>
-<b><a href="https://www.vcita.com/partners">Partners</a></b>
-</li>
-<li><a href="https://www.vcita.com/partners">Partnerships</a></li>
-<li><a href="https://www.vcita.com/partners/reseller">Reseller</a></li>
-<li><a href="https://www.vcita.com/partners/solution-provider">Solution Provider</a></li>
-<li><a href="https://www.vcita.com/partners/white_label">White Label</a></li>
-<li><a href="http://developers.vcita.com/">Developers</a></li>
-</ul>
-<ul>
-<li>
-<b><a href="https://www.vcita.com/about/terms_of_service">Support &amp; Legal</a></b>
-</li>
-<li><a href="https://support.vcita.com" class="link-to-faq" target="_blank">Help center</a></li>
-<li><a href="https://www.vcita.com/education_center">Video Tutorials</a></li>
-<li><a href="https://www.vcita.com/about/terms_of_service">Terms of Service</a></li>
-<li><a href="https://www.vcita.com/about/privacy_policy">Privacy Policy</a></li>
-<li><a href="/about/partner_terms_of_service">Partnerships Agreement</a></li>
-<li><a href="https://www.vcita.com/about/abuse">Report Abuse</a></li>
-</ul>
-<ul class="last">
-<li>
-<b><a href="https://www.vcita.com/appointment-booking">Scheduling Showcase</a></b>
-</li>
-<li><a href="https://www.vcita.com/appointment-booking/lawyer-cpa-realtor">Lawyers, CPAs, Realtors</a></li>
-<li><a href="https://www.vcita.com/appointment-booking/web-designer">Web Designers</a></li>
-<li><a href="https://www.vcita.com/appointment-booking/beauty-spa-therapist">Beauty &amp; Spas</a></li>
-<li><a href="https://www.vcita.com/appointment-booking/home-services">Home Services</a></li>
-<li><a href="https://www.vcita.com/appointment-booking/coach-consultant-marketing">Coaches, Consultants</a></li>
-<li><a href="https://www.vcita.com/appointment-booking/doctor-dentist-nutritionist">Doctors, Dentists</a></li>
-<li><a href="https://www.vcita.com/appointment-booking/photographer-eventplanner">Photographers</a></li>
-<li><a href="https://www.vcita.com/appointment-booking/trainer-tutor-recruiter">Trainers, Tutors</a></li>
-</ul>
-<div class="follow-us">
-<div class="g-plusone" size="medium" data-annotation="none" data-href="http://www.vcita.com"></div>
-<br>
-<br>
-<div class="g-follow" data-height="20" data-annotation="none" data-href="https://plus.google.com/114945563608298833194" data-rel="author"></div>
-<script>
-  //<![CDATA[
-    (function()
-      { var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true; po.src = 'https://apis.google.com/js/plusone.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s); }
-    )();
-  //]]>
+			
+
+</div> <!-- #main-content -->
+
+
+			<footer id="main-footer">
+				
+<div class="container">
+    <div id="footer-widgets" class="clearfix">
+		<div class="footer-widget"><div id="nav_menu-2" class="fwidget et_pb_widget widget_nav_menu"><h4 class="title">Product</h4><div class="menu-footer-menu-1-container"><ul id="menu-footer-menu-1" class="menu"><li id="menu-item-13337" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13337"><a href="https://www.vcita.com/software/online_scheduling">Online scheduling</a></li>
+<li id="menu-item-13339" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13339"><a href="https://www.vcita.com/online_payments">Payments &amp; invoicing</a></li>
+<li id="menu-item-23363" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23363"><a href="https://www.vcita.com/software/client_management_software">Client management</a></li>
+<li id="menu-item-13340" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13340"><a href="https://www.vcita.com/software/lead_generation">Lead generation</a></li>
+<li id="menu-item-13343" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13343"><a href="https://www.vcita.com/software/client_portal">Client portal</a></li>
+<li id="menu-item-15509" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15509"><a href="https://www.vcita.com/software/marketing_campaigns">Marketing Campaigns</a></li>
+<li id="menu-item-13345" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13345"><a href="https://www.vcita.com/pricing">Pricing</a></li>
+</ul></div></div> <!-- end .fwidget --></div> <!-- end .footer-widget --><div class="footer-widget"><div id="nav_menu-3" class="fwidget et_pb_widget widget_nav_menu"><h4 class="title">Company</h4><div class="menu-footer-menu-2-container"><ul id="menu-footer-menu-2" class="menu"><li id="menu-item-13346" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13346"><a href="https://www.vcita.com/about/company">About us</a></li>
+<li id="menu-item-19946" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19946"><a href="https://www.vcita.com/jobs">Jobs</a></li>
+<li id="menu-item-13348" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13348"><a href="https://www.vcita.com/about/terms_of_service">Terms of service</a></li>
+<li id="menu-item-13349" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-3917 current_page_item menu-item-13349"><a href="https://www.vcita.com/about/privacy_policy">Privacy policy</a></li>
+<li id="menu-item-13350" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13350"><a href="https://www.vcita.com/about/partner_terms_of_service">Partnerships agreement</a></li>
+<li id="menu-item-13351" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13351"><a href="https://www.vcita.com/about/abuse">Report abuse</a></li>
+<li id="menu-item-23642" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23642"><a href="https://www.vcita.com/contact">Contact us</a></li>
+</ul></div></div> <!-- end .fwidget --></div> <!-- end .footer-widget --><div class="footer-widget"><div id="nav_menu-4" class="fwidget et_pb_widget widget_nav_menu"><h4 class="title">Partners</h4><div class="menu-footer-menu-3-container"><ul id="menu-footer-menu-3" class="menu"><li id="menu-item-18723" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18723"><a href="https://partners.vcita.com">Enterprise Partners</a></li>
+<li id="menu-item-15758" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15758"><a href="https://www.vcita.com/partners">Agency Partners</a></li>
+<li id="menu-item-13355" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13355"><a href="https://www.vcita.com/partners/reseller">Reseller</a></li>
+<li id="menu-item-13356" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13356"><a href="https://www.vcita.com/partners/solution-provider">Solution provider</a></li>
+<li id="menu-item-13357" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13357"><a href="https://www.vcita.com/partners/white_label">White label</a></li>
+<li id="menu-item-13358" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13358"><a href="http://developers.vcita.com/">Developers</a></li>
+</ul></div></div> <!-- end .fwidget --></div> <!-- end .footer-widget --><div class="footer-widget"><div id="nav_menu-5" class="fwidget et_pb_widget widget_nav_menu"><h4 class="title">Community &amp; Support</h4><div class="menu-footer-menu-4-container"><ul id="menu-footer-menu-4" class="menu"><li id="menu-item-13359" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13359"><a href="http://support.vcita.com/">Help center</a></li>
+<li id="menu-item-16785" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16785"><a href="https://www.vcita.com/blog">Blog</a></li>
+<li id="menu-item-13361" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13361"><a href="https://www.facebook.com/groups/newvcitafeatures/">Facebook group</a></li>
+<li id="menu-item-13362" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13362"><a href="https://support.vcita.com/hc/en-us/community/topics/115000024568-Feature-Requests-">Feature wishlist</a></li>
+<li id="menu-item-22311" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22311"><a href="https://www.vcita.com/customer-stories">Customer stories</a></li>
+<li id="menu-item-23697" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23697"><a href="https://www.vcita.com/faq">Small Business FAQ</a></li>
+</ul></div></div> <!-- end .fwidget --></div> <!-- end .footer-widget -->    </div> <!-- #footer-widgets -->
+</div>    <!-- .container -->
+
+		
+				<div id="footer-bottom">
+					<div class="container clearfix">
+				<ul class="et-social-icons">
+
+	<li class="et-social-icon et-social-facebook">
+		<a href="https://www.facebook.com/vcitainc/" class="icon">
+			<span>Facebook</span>
+		</a>
+	</li>
+	<li class="et-social-icon et-social-twitter">
+		<a href="https://twitter.com/vcita" class="icon">
+			<span>Twitter</span>
+		</a>
+	</li>
+	<li class="et-social-icon et-social-google-plus">
+		<a href="https://plus.google.com/114945563608298833194/posts" class="icon">
+			<span>Google</span>
+		</a>
+	</li>
+
+</ul>					</div>	<!-- .container -->
+				</div>
+			</footer> <!-- #main-footer -->
+		</div> <!-- #et-main-area -->
+
+
+	</div> <!-- #page-container -->
+
+	        <script>
+            window.intercomSettings = {
+                app_id: 'lq8yuum5',
+                created_at: Date.now,
+                            };
+        </script>
+
+        <script>
+            (function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',intercomSettings);}else{var d=document;var i=function(){i.c(arguments)};i.q=[];i.c=function(args){i.q.push(args)};w.Intercom=i;function l(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/' + 'lq8yuum5';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);}if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})()
+        </script>
+    
+    <script src="https://apis.google.com/js/platform.js" async="" defer=""></script>
+
+    <script type="text/javascript" charset="utf-8">
+        window.liveSiteAsyncInit = function() {
+            LiveSite.init({
+                id : 'WI-T6607QTJYW9FZDMQJ85U',
+                activeEngage: false,
+                actionButtons: false
+            });
+        };
+        (function(d, s, id){
+            var js, fjs = d.getElementsByTagName(s)[0],
+                p = (('https:' == d.location.protocol) ? 'https://' : 'http://'),
+                r = Math.floor(new Date().getTime() / 1000000);
+            if (d.getElementById(id)) {return;}
+            js = d.createElement(s); js.id = id;
+            js.src = p + "www.vcita.com/assets/livesite.js?" + r;
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'livesite-jssdk'));
+    </script>
+
+
+    
+        <script type="text/javascript">
+            /* <![CDATA[ */
+            var google_conversion_id = 1003168425;
+            var google_conversion_label = 'nzFTCJGX9oUBEKnFrN4D';
+            var google_custom_params = window.google_tag_params;
+            var google_remarketing_only = true;
+            /* ]]> */
+        </script>
+        <div style="display:none;height:0;">
+            <script async="" type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+        </div>
+        <noscript>
+            <div style="display:inline;height:0;">
+                <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1003168425/?value=0&amp;guid=ON&amp;script=0"/>
+            </div>
+        </noscript>
+
+        <!-- Facebook -->
+        <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1403135116654645&ev=PageView&noscript=1"/></noscript>
+
+    	<script type="text/javascript">
+		var et_animation_data = [];
+	</script>
+	<script type="text/javascript" src="https://static.vcita.com/wp-content/plugins/divi-background-plus/js/dbp.min.js?ver=4.9.8"></script>
+<script type="text/javascript" src="https://www.vcita.com/wp-content/themes/vCita/js/hide-elements.min.js?ver=1526977689"></script>
+<script type="text/javascript" src="https://www.vcita.com/wp-content/themes/vCita/js/ui.min.js?ver=1542280506"></script>
+<script type="text/javascript" src="https://www.vcita.com/wp-content/themes/vCita/js/footer-scripts.min.js?ver=1538357053"></script>
+<script type="text/javascript" src="https://www.vcita.com/wp-content/themes/vCita/js/forms.min.js?ver=1545656843"></script>
+<script type="text/javascript" src="https://www.vcita.com/wp-content/themes/vCita/js/external/livesite.min.js?ver=1544723203"></script>
+<script type="text/javascript" src="https://www.vcita.com/wp-content/themes/vCita/js/external/twitter.min.js?ver=1538121737"></script>
+<script type="text/javascript" src="https://www.vcita.com/wp-content/themes/vCita/js/external/facebook.min.js?ver=1538121737"></script>
+<script type="text/javascript" src="https://www.vcita.com/wp-content/themes/vCita/js/external/youtube.min.js?ver=1538121737"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var mixpanel_params = {"mixpanel_page_code":"","mixpanel_page_category":"","mixpanel_logged_user":"no","mixpanel_environment_token":"78aa39b3aa49594f172cfccda537ef1a"};
+/* ]]> */
 </script>
-<br>
-<br>
-<a class="twitter-follow-button" data-show-count="false" data-show-screen-name="false" data-size="large" data-width="80px" href="http://twitter.com/vcita">Follow @vcita</a>
-<script>
-  //<![CDATA[
-    (function() {
-      var twitterScriptTag = document.createElement('script');
-      twitterScriptTag.type = 'text/javascript';
-      twitterScriptTag.async = true;
-      twitterScriptTag.src = "https://platform.twitter.com/widgets.js";
-      var s = document.getElementsByTagName('script')[0];
-      s.parentNode.insertBefore(twitterScriptTag, s);
-    })();
-  //]]>
+<script type="text/javascript" src="https://www.vcita.com/wp-content/themes/vCita/js/external/mixpanel.min.js?ver=1544008416"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var DIVI = {"item_count":"%d Item","items_count":"%d Items"};
+var et_shortcodes_strings = {"previous":"Previous","next":"Next"};
+var et_pb_custom = {"ajaxurl":"https:\/\/www.vcita.com\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/www.vcita.com\/wp-content\/themes\/Divi\/images","builder_images_uri":"https:\/\/www.vcita.com\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"f3d1d0f3cf","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"8121b28ec2","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","is_builder_plugin_used":"","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","is_ab_testing_active":"","page_id":"3917","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":"off"};
+var et_pb_box_shadow_elements = [];
+/* ]]> */
 </script>
-
-<br>
-<br>
-<iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fvcitainc&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;font&amp;colorscheme=light&amp;action=like&amp;height=21&amp;appId=295130413938101" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowtransparency="true"></iframe>
-</div>
-<div class="clear"></div>
-<div class="language-bar">
-<ul>
-<li class="icon"></li>
-<li>Choose a language:</li>
-<li>English</li>
-<li class="sep">.</li>
-<li><a href="http://www.vcita.pl">Polski</a></li>
-</ul>
-</div>
-<div class="trademark">© 2010-2017 vCita. All rights reserved.</div>
-</div>
-</div>
-</div>
-
-<script type="text/javascript">    (function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src=("https:"===e.location.protocol?"https:":"http:")+'//cdn.mxpnl.com/libs/mixpanel-2.2.min.js';f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f);b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==
-typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");for(g=0;g<i.length;g++)f(c,i[g]);
-b._i.push([a,e,d])};b.__SV=1.2}})(document,window.mixpanel||[]);
-var mixpanel_id = '';
-mixpanel.init("78aa39b3aa49594f172cfccda537ef1a", {loaded: function(){mixpanel_id = mixpanel.get_distinct_id(); if (typeof(mixpanel_id_callback) == 'function') mixpanel_id_callback(mixpanel_id);}, track_pageview: false, test: false, upgrade: true});
-mixpanel.register({'Application':'Website'});
-    mixpanel.register({"Source Referrer":"https://www.vcita.com/"});
-          mixpanel.track('First Touch', {"Section":"Website","First Touch":true,"Info":"Privacy Policy"});
-      mixpanel.register_once({"Landing Page":"Privacy Policy"});
-    mixpanel.track('Privacy Policy', {"Section":"Website","First Touch":true});
-    var mixpanel_page = 'Privacy Policy';
-</script>
-
-
+<script type="text/javascript" src="https://static.vcita.com/wp-content/themes/Divi/js/custom.min.js?ver=3.15"></script>
+<script type="text/javascript" src="https://static.vcita.com/wp-content/themes/Divi/core/admin/js/common.js?ver=3.15"></script>
+<script type="text/javascript" src="https://static.vcita.com/wp-includes/js/wp-embed.min.js?ver=4.9.8"></script>
+<style id="et-core-unified-cached-inline-styles-2">div.et_pb_section.et_pb_section_0{background-image:url(https://static.vcita.com/wp-content/uploads/2016/06/main-image_legal-pages.jpg)!important}.et_pb_section_0.et_pb_section{background-color:#ffffff!important}.et_pb_text_0 h1{font-size:36px}.et_pb_section_1.et_pb_section{background-color:#ffffff!important}@media only screen and (max-width:980px){.et_pb_section_0{padding-top:50px;padding-right:0px;padding-bottom:50px;padding-left:0px}.et_pb_section_1{padding-top:50px;padding-right:0px;padding-bottom:50px;padding-left:0px}}</style>
 
 </body></html>
