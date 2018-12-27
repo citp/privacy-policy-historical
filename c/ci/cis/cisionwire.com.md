@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cisionwire.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626225638id_/http%3A//news.cision.com/_editorial/privacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cisionwire.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227063759id_/http%3A//news.cision.com/_editorial/privacyStatement) for the most accurate reproduction.*
 
 # 
 
@@ -12,7 +12,7 @@ Cision
 332 South Michigan Avenue  
 Chicago, Il 60604  
 Phone: 312.922.2400  
-Email: [info.us@cision.com](mailto:info.us@cision.com)
+Email: [CisionPR@cision.com](mailto:CisionPR@cision.com)
 
 ## Cookies
 
