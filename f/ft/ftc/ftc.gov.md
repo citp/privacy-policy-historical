@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ftc.gov privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629183959id_/https%3A//www.ftc.gov/site-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ftc.gov privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227145346id_/https%3A//www.ftc.gov/site-information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Federal Trade Commission
 
@@ -79,7 +79,7 @@ The FTC’s Privacy Act rules – including our procedures, timelines, and instr
 
 ## Questions or Complaints About This Privacy Policy
 
-Write to the FTC's Acting Chief Privacy Officer:
+Write to the FTC's Chief Privacy Officer:
 
 John Krebs
 
