@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visapro.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609153151id_/http%3A//www.visapro.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visapro.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227210709id_/http%3A//www.visapro.com/about/privacy-policy) for the most accurate reproduction.*
 
 # VisaPro Privacy Policy - Online US Immigration Lawyers Services
 
@@ -53,7 +53,7 @@ As part of our online Case Management system, we also collect extensive personal
   2. We need information such as your email and your petition Receipt Number to send you the latest updates on your visa status through our Visa Status check service. This service is password-protected for your privacy and security.
   3. We also need to process personal data for filing of immigration petitions, preparing case packages, submitting documents to various Government agencies on your behalf, consultations with VisaPro Immigration Attorneys, etc.
   4. Such information is collected through online questionnaires which are sent through the online VisaPro individual or corporate accounts. Separate accounts are created for every client, and the logins are password protected.
-  5. purposes other than those agreed to by you, or expressly authorized by you, except required or authorized by law.
+  5. Purposes other than those agreed to by you, or expressly authorized by you, except required or authorized by law.
 
 
 
@@ -83,3 +83,22 @@ As part of our online Case Management system, we also collect extensive personal
 #### Protecting Your Rights
 
 You may access your information at any time for the purpose of verifying its accuracy and, under most circumstances, you may also edit the information yourself. In the event that you believe that your privacy has been breached through the use of our Web Site, or that the information that you have provided to us needs to be edited or corrected, you may contact us immediately by [email](http://www.visapro.com/contact-us/).
+
+* * *
+
+#### Cookies and Other Tracking Technologies
+
+ **Cookies, Purpose of using Cookies & Tracking technologies:**
+
+Cookies are small text files that can be used by websites to make a user’s experience more efficient. We use cookies to personalize content, to provide social media features and to analyze our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services. You consent to our cookies if you continue to use our website.
+
+When you visit our websites, we or an authorized third party may place a cookie on your browser, which cookie collects information, including Personal Data, about your online activities over time and across different sites. Cookies allow us to track overall usage, determine your browsing preferences and improve and customize your browsing experience.
+
+Cookies we have in our website:  
+This site uses different categories of cookies. Some cookies are placed by third party services that appear on our pages.
+
+ **1.** **Category: Statistics**  
+Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.
+
+ **2.** **Category: Marketing**  
+Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
