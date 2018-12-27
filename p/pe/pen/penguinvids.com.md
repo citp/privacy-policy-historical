@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the penguinvids.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618020259id_/https%3A//penguinvids.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the penguinvids.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228002353id_/https%3A//penguinvids.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy - Penguin Videos
 
