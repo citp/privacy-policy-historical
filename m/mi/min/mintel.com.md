@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mintel.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627090413id_/http%3A//www.mintel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mintel.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227170244id_/http%3A//www.mintel.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Mintel.com
 
