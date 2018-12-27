@@ -1,15 +1,21 @@
-> *The following text is extracted and transformed from the investigationdiscoverygo.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628232347id_/https%3A//corporate.discovery.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investigationdiscoverygo.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227231944id_/https%3A//corporate.discovery.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Discovery, Inc.
+# DISCOVERY COMMUNICATIONS PRIVACY POLICY – Discovery, Inc.
+
+****DISCOVERY COMMUNICATIONS PRIVACY POLICY****
 
 This privacy policy applies only to the websites and applications controlled by Discovery Communications, LLC and/or its subsidiary and affiliated entities (“Discovery,” “we” or “us”) where this privacy policy is posted (collectively, the “Sites”). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.
 
-****A. Information Collected****  
-This privacy policy applies only to information collected on the Sites and does not apply to information collected by Discovery through any other means. For details on the information collected and used from children under the age of 13, [click here](https://web.archive.org/privacy-policy/#children).
+  1. ****Information Collected****
+
+
+
+This privacy policy applies only to information collected on the Sites and does not apply to information collected by Discovery through any other means. For details on the information collected and used from children under the age of 13, [click here](http://corporate.discovery.com/privacy-policy/#children).
 
 We collect two types of information from visitors to the Sites: (1) Personally Identifiable Information; and (2) Non-Personally Identifiable Information, such as your IP address or cookies.
 
-****(1) Personally Identifiable Information****  
+****(1) Personally Identifiable Information****
+
 “Personally Identifiable Information” is information that identifies you personally, such as your name, address, telephone number, email address, or company name. Discovery collects and stores the personally identifiable information that you have provided to us. Here are some examples of manners in which we may collect your personally identifiable information on the Sites:
 
   * We may collect your email address, first and last name and zip code if you sign up for an online newsletter;
@@ -22,7 +28,8 @@ We collect two types of information from visitors to the Sites: (1) Personally I
 
 The above list provides an example of the personally identifiable information that may be collected on the Sites. If you do not want Discovery to collect your personally identifiable information, please do not provide it to us.
 
-****(2) Non-Personally Identifiable Information****  
+****(2) Non-Personally Identifiable Information****
+
 “Non-Personally Identifiable Information” can be technical information or it can be demographic information, such as your age, gender or interests. Non-personally identifiable information does NOT identify you personally. Here are some examples of the non-personally identifiable information that is collected via the Sites and a description of how this information is used:
 
   * Internet Protocol (IP) address – Your IP address is a number that lets computers attached to the Internet know where to send you data – such as the webpages you view. We use this information to deliver our webpages to you upon request, to tailor our Sites to the interests of our users and to measure traffic within our Sites.
@@ -31,10 +38,12 @@ The above list provides an example of the personally identifiable information th
   * Demographic Information – “Demographic Information” may be your gender, age, zip code and interests, which you voluntarily provide to us on the Sites. We use this information to provide you with personalized services and to analyze trends to ensure the information provided by the Sites meets your needs. For example, we offer personalized TV schedule listings and program reminders for Discovery Channel, TLC, Animal Planet, Discovery Life or any of our other TV offerings if you tell us which programs and topics you are interested in. Please note that we also consider aggregated information, which is not personally identifiable, to be non-personally identifiable information. The above list provides an example of the non-personally identifiable information that is collected via the Sites.
 
 
+  1. ****Use of Information Collected Via the Sites****
 
-****B. Use of Information Collected Via the Sites****
 
-****(1) Personally Identifiable Information****  
+
+****(1) Personally Identifiable Information****
+
 We use your personally identifiable information that is collected on these Sites primarily for the following purposes:
 
   * To deliver services, such as educational programs, information, newsletters or software you request or purchase;
@@ -49,13 +58,17 @@ We use your personally identifiable information that is collected on these Sites
 
 
 
-****(2) Non-Personally Identifiable Information  
-****Non-personally identifiable information is used as described above and in other ways as permitted by applicable laws, including combining non-personally identifiable information with personally identifiable information (except with respect to non-personally identifiable information collected from children under the age of 13).
+****(2) Non-Personally Identifiable Information****
 
-****C. Sharing and Disclosure of Information****
+Non-personally identifiable information is used as described above and in other ways as permitted by applicable laws, including combining non-personally identifiable information with personally identifiable information (except with respect to non-personally identifiable information collected from children under the age of 13).
 
-****(1) Personally Identifiable Information  
-****We may share or disclose your personally identifiable information in the following instances:
+  1. ****Sharing and Disclosure of Information****
+
+
+
+****(1) Personally Identifiable Information****
+
+We may share or disclose your personally identifiable information in the following instances:
 
 (i) To fulfill a service to you. For example, if you choose to watch an educational program on the Sites, we may share your personally identifiable information in order to provide the program to you. In addition, if you email us a question, we may use your email address to process your request and respond to your question. Also, if you are entering a sweepstakes or contest, we may use your personally identifiable information in order to fulfill the terms of that promotion. This means that we may share the information for prize fulfillment purposes or mail carriers. We also may share your information with the co-sponsor of that promotion:
 
@@ -77,13 +90,17 @@ Our properties may feature Nielsen proprietary measurement software, which will 
 
 Except as described in this Privacy Policy or at the time we request the information, we do not otherwise use, share or otherwise disclose your personally identifiable information to any third parties.
 
-****(2) Non-Personally Identifiable Information  
-****We use non-personally identifiable information collected on the Sites in the manner disclosed above in the Section A(2). We may share this non-personal information with third parties.
+****(2) Non-Personally Identifiable Information****
 
-****D. Collection and Use of Information from Children Under the Age of 13****
+We use non-personally identifiable information collected on the Sites in the manner disclosed above in the Section A(2). We may share this non-personal information with third parties.
 
-****(1) Collection of Personally Identifiable Information Collected from Children  
-****In most instances, Discovery will only request the first name and email address of the child in order to complete an immediate request from the child. The information that is collected will only be used for the requested purpose and will be deleted immediately. Discovery will not store or otherwise use that information. Here are some examples of instances in which Discovery may immediately delete the child’s information after the completion of the child’s initial request:
+  1. ****Collection and Use of Information from Children Under the Age of 13****
+
+
+
+****(1) Collection of Personally Identifiable Information Collected from Children****
+
+In most instances, Discovery will only request the first name and email address of the child in order to complete an immediate request from the child. The information that is collected will only be used for the requested purpose and will be deleted immediately. Discovery will not store or otherwise use that information. Here are some examples of instances in which Discovery may immediately delete the child’s information after the completion of the child’s initial request:
 
   * If the child emails an inquiry;
   * If the child participates in a game;
@@ -102,11 +119,13 @@ Below are some examples of instances in which we may collect the first name and 
 
 
 
-****(2) Use of Personally Identifiable Information Collected from Children  
-****When we collect personally identifiable information from kids, we will only use that information for the express purpose for which it was collected. For example, if a child enters a sweepstakes, we will request the parent’s information (as described in Section D(1)) and will only use the child’s email address to enter the child into the sweepstakes, to notify the parent of the child’s entry, and to identify and notify the child if he or she is a potential winner. The personally identifiable information will not be used for any other purpose, and the personally identifiable information will not be used after the promotion is complete.
+****(2) Use of Personally Identifiable Information Collected from Children****
 
-****(3) Sharing of Personally Identifiable Information Collected from Children  
-****Except as provided in this Section, we do not share personally identifiable information collected from children with any unaffiliated third parties. We may, however, share a child’s personally identifiable information that we have collected with parental consent in the following limited instances:
+When we collect personally identifiable information from kids, we will only use that information for the express purpose for which it was collected. For example, if a child enters a sweepstakes, we will request the parent’s information (as described in Section D(1)) and will only use the child’s email address to enter the child into the sweepstakes, to notify the parent of the child’s entry, and to identify and notify the child if he or she is a potential winner. The personally identifiable information will not be used for any other purpose, and the personally identifiable information will not be used after the promotion is complete.
+
+****(3) Sharing of Personally Identifiable Information Collected from Children****
+
+Except as provided in this Section, we do not share personally identifiable information collected from children with any unaffiliated third parties. We may, however, share a child’s personally identifiable information that we have collected with parental consent in the following limited instances:
 
   * We may share such information with third-party service providers who help Discovery maintain the Sites and provide other administrative services to us. We seek to ensure that these unaffiliated third parties may not use the personally identifiable information for any other purpose, and these unaffiliated third parties have agreed to maintain the confidentiality, security and integrity of the personally identifiable information.
   * If a child is selected as a potential winner of one of our contests or sweepstakes, we will notify the child’s parent via the email address that the child submitted. If the parent consents, we will collect and share this information in order to fulfill the terms of the promotion.
@@ -114,11 +133,13 @@ Below are some examples of instances in which we may collect the first name and 
 
 
 
-****(4) Non Personally Identifiable Information  
-****We collect and store the non-personally identifiable information that is described in Section A(2) of this privacy policy. We do not, however, link this information to personally identifiable information when it is collected from children.
+****(4) Non Personally Identifiable Information****
 
-****(5) Note to Parents and Legal Guardians  
-****Please contact Discovery at any time regarding privacy questions or concerns, or to request to review what personally identifiable information we have collected from a child. Parents may also contact us at any time to request that we delete the personally identifiable information of a child or a parent and/or refuse to permit further collection or use of a child’s information. We will take steps to ensure that any person contacting us regarding a child’s information is the child’s parent or guardian.
+We collect and store the non-personally identifiable information that is described in Section A(2) of this privacy policy. We do not, however, link this information to personally identifiable information when it is collected from children.
+
+****(5) Note to Parents and Legal Guardians****
+
+Please contact Discovery at any time regarding privacy questions or concerns, or to request to review what personally identifiable information we have collected from a child. Parents may also contact us at any time to request that we delete the personally identifiable information of a child or a parent and/or refuse to permit further collection or use of a child’s information. We will take steps to ensure that any person contacting us regarding a child’s information is the child’s parent or guardian.
 
 Discovery Communications, LLC  
 1 Discovery Place  
@@ -126,71 +147,112 @@ Silver Spring, MD 20910
 Phone: (240) 662-2000 (Legal)  
 Email: [privacy_policy@discovery.com](mailto:privacy_policy@discovery.com)
 
-****E. International Transfer of Information  
-****If you choose to provide us with personally identifiable information, Discovery may transfer that information to its affiliates and subsidiaries or to other third parties, across borders, and from your country or jurisdiction to other countries or jurisdictions around the world. If you are visiting from the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that you are transferring your personally identifiable information to the United States which does not have the same data protection laws as the EU and by providing your personally identifiable information you consent to:
+  1. ****International Transfer of Information****
+
+
+
+If you choose to provide us with personally identifiable information, Discovery may transfer that information to its affiliates and subsidiaries or to other third parties, across borders, and from your country or jurisdiction to other countries or jurisdictions around the world. If you are visiting from the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that you are transferring your personally identifiable information to the United States which does not have the same data protection laws as the EU and by providing your personally identifiable information you consent to:
 
   * the use of your personally identifiable information for the uses identified above in accordance with this privacy policy; and
   * the transfer of your personally identifiable information to the United States as indicated above.
 
 
+  1. ****Opt-Out****
 
-****F. Opt-Out  
-****We communicate with users who subscribe to our services on a regular basis via email. For example, we may use your email address to confirm your request, to send you notice of payments, to send you information about changes to our products and services, and to send notices and other disclosures as required by law. Generally, users cannot opt-out of these communications, but they will be primarily informational in nature rather than promotional. However, we provide you the opportunity to exercise an opt-out choice if you do not want to receive other types of communication from us, such as emails or updates from us regarding new services and products offered on the Sites or if you do not want us to share your personally identifiable information with third parties. The opt-out choice may be exercised by ticking or un-ticking the appropriate box if such checkbox is available at the points where personally identifiable information is collected or by contacting us. We will process your unsubscribe as soon as possible, but please be aware that in some circumstances you may receive a few more messages until the unsubscribe is processed. You also may opt-out of receiving such emails by clicking on the “unsubscribe” link within the text of the email.
 
-****G. Forums, Chat Rooms and Other Public Posting Areas  
-****Please note that any information you include in a message you post to any chat room, forum or other public posting area is available to anyone with Internet access. If you do not want people to know your e-mail address, for example, do not include it in any message you post publicly. PLEASE BE EXTREMELY CAREFUL WHEN DISCLOSING ANY INFORMATION IN CHAT ROOMS, FORUMS AND OTHER PUBLIC POSTING AREAS. WE ARE NOT RESPONSIBLE FOR THE USE BY OTHERS OF THE INFORMATION THAT YOU DISCLOSE IN CHAT ROOMS, FORUMS AND OTHER PUBLIC POSTING AREAS.
 
-****H. Third Party Web Sites  
-****This statement applies solely to information collected on the Sites. The Sites may contain links to other web sites. We are not responsible for the privacy practices or the content of these other web sites.
+We communicate with users who subscribe to our services on a regular basis via email. For example, we may use your email address to confirm your request, to send you notice of payments, to send you information about changes to our products and services, and to send notices and other disclosures as required by law. Generally, users cannot opt-out of these communications, but they will be primarily informational in nature rather than promotional.
 
-****I. Third Party Advertisers  
-****We may use advertisers, third party ad networks, and other advertising companies to serve advertisements on the Sites. Please be advised that such advertising companies may gather information about your visit to the Sites or other sites (such as through cookies, web beacons and other technologies) to enable such advertising companies to market products or services to you, to monitor which ads have been served to your browser and which webpages you were viewing when such ads were delivered. If you would like more information about this practice and to know your choices please [click here](http://www.networkadvertising.org/managing/opt_out.asp). PLEASE NOTE THAT THIS POLICY DOES NOT COVER THE COLLECTION AND USE OF INFORMATION BY SUCH ADVERTISING COMPANIES.
+However, we provide you the opportunity to exercise an opt-out choice if you do not want to receive other types of communication from us, such as emails or updates from us regarding new services and products offered on the Sites or if you do not want us to share your personally identifiable information with third parties. The opt-out choice may be exercised by ticking or un-ticking the appropriate box if such checkbox is available at the points where personally identifiable information is collected or by contacting us. We will process your unsubscribe as soon as possible, but please be aware that in some circumstances you may receive a few more messages until the unsubscribe is processed. You also may opt-out of receiving such emails by clicking on the “unsubscribe” link within the text of the email.
 
-****J. Accessing Your Personally Identifiable Information and Privacy Preferences  
-****We provide you with an opportunity to access your personally identifiable information to ensure it is correct, accurate and current. To edit your personally identifiable information, please contact our customer service representatives at (240) 662-8909. To be removed from our mailing list or if you would prefer that we do not share your information with third party marketers, please make sure to indicate that on our registration form at <https://discovery.csharmony.epsilon.com/Account/Login?b=CORPORATE>.  If for any reason you are not able to update or edit your personally identifiable information at this page, you can access such information by contacting us as described below. We will make reasonable efforts to accommodate your request.
+  1. ****Forums, Chat Rooms and Other Public Posting Areas****
 
-****K. Assignment  
-****In the event that all or part of our assets or sold or acquired by another party, or in the event of a merger, you grant us the right to assign the personally identifiable and non-personally identifiable information collected via the Sites.
 
-****L. Changes to this Privacy Policy  
-****We reserve the right to change this privacy policy from time to time. When we do, we will also revise the “last update” date at the bottom of this privacy policy. For changes to this privacy policy that may be materially less restrictive on our use or disclosure of personal information you have provided to us, we will attempt to obtain your consent before implementing the change by sending a notice to the primary email address specified in your account or by placing a prominent notice on the Sites.
+
+Please note that any information you include in a message you post to any chat room, forum or other public posting area is available to anyone with Internet access. If you do not want people to know your e-mail address, for example, do not include it in any message you post publicly. PLEASE BE EXTREMELY CAREFUL WHEN DISCLOSING ANY INFORMATION IN CHAT ROOMS, FORUMS AND OTHER PUBLIC POSTING AREAS. WE ARE NOT RESPONSIBLE FOR THE USE BY OTHERS OF THE INFORMATION THAT YOU DISCLOSE IN CHAT ROOMS, FORUMS AND OTHER PUBLIC POSTING AREAS.
+
+  1. ****Third Party Web Sites****
+
+
+
+This statement applies solely to information collected on the Sites. The Sites may contain links to other web sites. We are not responsible for the privacy practices or the content of these other web sites.
+
+  1. ****Third Party Advertisers****
+
+
+
+We may use advertisers, third party ad networks, and other advertising companies to serve advertisements on the Sites. Please be advised that such advertising companies may gather information about your visit to the Sites or other sites (such as through cookies, web beacons and other technologies) to enable such advertising companies to market products or services to you, to monitor which ads have been served to your browser and which webpages you were viewing when such ads were delivered. If you would like more information about this practice and to know your choices please [click here](http://www.networkadvertising.org/managing/opt_out.asp). PLEASE NOTE THAT THIS POLICY DOES NOT COVER THE COLLECTION AND USE OF INFORMATION BY SUCH ADVERTISING COMPANIES.
+
+  1. ****Accessing Your Personally Identifiable Information and Privacy Preferences****
+
+
+
+We provide you with an opportunity to access your personally identifiable information to ensure it is correct, accurate and current. To edit your personally identifiable information, please contact our customer service representatives at (240) 662-8909. To be removed from our mailing list or if you would prefer that we do not share your information with third party marketers, please contact us at [privacy_policy@discovery.com](mailto:privacy_policy@discovery.com). We will make reasonable efforts to accommodate your request.
+
+  1. ****Assignment****
+
+
+
+In the event that all or part of our assets or sold or acquired by another party, or in the event of a merger, you grant us the right to assign the personally identifiable and non-personally identifiable information collected via the Sites.
+
+  1. ****Changes to this Privacy Policy****
+
+
+
+We reserve the right to change this privacy policy from time to time. When we do, we will also revise the “last update” date at the bottom of this privacy policy. For changes to this privacy policy that may be materially less restrictive on our use or disclosure of personal information you have provided to us, we will attempt to obtain your consent before implementing the change by sending a notice to the primary email address specified in your account or by placing a prominent notice on the Sites.
 
 We will also notify parents if we change the kinds of information that we collect from children and materially alter our practices of sharing and using this information. We will not collect, use or share the information without parental consent.
 
-****M. Security  
-****No data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you understand that any information that you transfer to Discovery is done at your own risk.
+  1. ****Security****
+
+
+
+No data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you understand that any information that you transfer to Discovery is done at your own risk.
 
 Once we receive your transmission, we make reasonable efforts to ensure security on our systems. We use firewalls to protect your information from unauthorized access, disclosure, alteration, or destruction. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered or destroyed by breach of such firewalls and secure server software.
 
 If we learn of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using these Sites or providing personally identifiable information to us, you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of these Sites. We may post a notice on our Sites if a security breach occurs. We may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing.
 
-****N. Age Screening  
-****Some parts of the Sites require that personally identifiable information be submitted in order to participate. For example, if you want to receive one of our newsletters, you must give us your email address. Some parts of the Sites will have an age-screening mechanism to prevent kids from registering. We will not knowingly allow anyone under the age of thirteen to register with any of our Sites, or to access those features that require registration, except as explicitly disclosed herein.
+  1. ****Age Screening****
+
+
+
+Some parts of the Sites require that personally identifiable information be submitted in order to participate. For example, if you want to receive one of our newsletters, you must give us your email address. Some parts of the Sites will have an age-screening mechanism to prevent kids from registering. We will not knowingly allow anyone under the age of thirteen to register with any of our Sites, or to access those features that require registration, except as explicitly disclosed herein.
 
 If we become aware that we have inadvertently received personally identifiable information from a user under the age of thirteen other than in a legally permissible situation, we will delete the information from our records as soon as we discover it.
 
-****O. Contacting Discovery  
-****If you have any questions about this privacy policy or our privacy practices, please contact us at [privacy_policy@discovery.com](mailto:privacy_policy@discovery.com). All information you provide in any written communication will also be covered by this policy.
+  1. ****Contacting Discovery****
 
-****P. Dispute Resolution  
-****In the event of any controversy, claim or dispute (“dispute”) related to or arising out of your use of the Sites, other than disputes related to or involving Discovery’s intellectual property or Discovery’s licensed intellectual or proprietary rights, you and Discovery mutually agree to the following dispute resolution procedure:
+
+
+If you have any questions about this privacy policy or our privacy practices, please contact us at [privacy_policy@discovery.com](mailto:privacy_policy@discovery.com). All information you provide in any written communication will also be covered by this policy.
+
+  1. ****Dispute Resolution****
+
+
+
+In the event of any controversy, claim or dispute (“dispute”) related to or arising out of your use of the Sites, other than disputes related to or involving Discovery’s intellectual property or Discovery’s licensed intellectual or proprietary rights, you and Discovery mutually agree to the following dispute resolution procedure:
 
   1. The parties will first attempt in good faith to resolve any dispute by informal negotiation. The informal negotiation period will begin when the party asserting the dispute sends a written notice to the other party describing the facts and circumstances of the dispute. If, after sixty (60) days from the date the notice of dispute is sent, the parties have been unable to resolve the dispute, either party may commence binding arbitration. The parties may agree to extend the informal dispute resolution period by mutual written agreement.
   2. If the parties are unable to resolve the dispute through informal negotiation, you and Discovery agree that exclusive jurisdiction for the dispute shall be binding arbitration before one arbitrator to be mutually agreed upon by both parties. If the parties cannot agree on the selection of an Arbitrator, they shall each select one Arbitrator from the list of qualified JAMS arbitrators and those two Arbitrators shall select the person who shall serve as the Arbitrator for such dispute. Arbitration shall be initiated in the New York, N.Y., area and shall be administered by JAMS pursuant to its Comprehensive Arbitration Rules and Procedures. Judgment on any potential award may be entered in any court having jurisdiction. BY USING THE SITES, YOU ARE HEREBY GIVING UP YOUR RIGHT TO LITIGATE A DISPUTE IN COURT BEFORE A JUDGE OR JURY. Unless the arbitrator concludes that the arbitration was frivolous or brought for an improper purpose, Discovery will pay all filing, JAMS, and arbitrator’s fees and expenses.
   3. ALL DISPUTES SHALL BE RESOLVED ON AN INDIVIDUAL BASIS. Neither party shall have the right to have a dispute heard as a class action and no arbitration or proceeding can be combined with another without the prior written consent of all parties to the proceeding.
+  4. ****Choice of Law****
 
 
 
-****Q. Choice of Law  
-****This privacy policy has been made in and shall be construed in accordance with the laws of the State of Maryland, without giving effect to any conflict of law principles.
+This privacy policy has been made in and shall be construed in accordance with the laws of the State of Maryland, without giving effect to any conflict of law principles.
 
 The parties acknowledge that this policy evidences a transaction involving interstate commerce. Notwithstanding the provision in the preceding paragraph with respect to applicable substantive law, any arbitration conducted pursuant to the terms of this Policy shall be governed by the Federal Arbitration Act (9 U.S.C. §§ 1-16).
 
-****R. Choice of Forum  
-****By using the Discovery Sites, you agree that the exclusive jurisdiction for any dispute not subject to the arbitration provision discussed above shall be the state and federal courts located in Maryland.
+  1. ****Choice of Forum****
 
-****YOUR CALIFORNIA PRIVACY RIGHTS  
-****Discovery does not support Do Not Track browser settings and does not currently participate in any “Do Not Track” frameworks that would allow us to respond to signals or other mechanisms from you regarding the collection of your Personally Identifiable Information or Non Personally Identifiable Information.
+
+
+By using the Discovery Sites, you agree that the exclusive jurisdiction for any dispute not subject to the arbitration provision discussed above shall be the state and federal courts located in Maryland.
+
+****YOUR CALIFORNIA PRIVACY RIGHTS****
+
+Discovery does not support Do Not Track browser settings and does not currently participate in any “Do Not Track” frameworks that would allow us to respond to signals or other mechanisms from you regarding the collection of your Personally Identifiable Information or Non Personally Identifiable Information.
 
 Beginning on January 1, 2005, California Civil Code Section 1798.83 permits our visitors who are California residents to request certain information regarding Discovery’s disclosure of personally identifiable information to third parties for their direct marketing purposes. To make such a request, please contact us:
 
@@ -198,6 +260,6 @@ Discovery Communications, LLC
 1 Discovery Place  
 Silver Spring, MD 20910  
 Phone: (240) 662-2000 (Legal)  
-Email: [privacy_policy@discovery.com](mailto:privacy_policy@discovery.com)
+Email: privacy_policy@discovery.com
 
-Last updated on November 25, 2015.
+Last updated on August 28, 2018.
