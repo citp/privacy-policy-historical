@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediatemple.net privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616034022id_/https%3A//mediatemple.net/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediatemple.net privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227142403id_/https%3A//mediatemple.net/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Media Temple
 
@@ -10,7 +10,7 @@ This Privacy Policy ("Policy") applies to www.mediatemple.net (the “Site” or
 
 ### **EU-U.S. & Swiss-U.S. Privacy Shield**
 
-Our parent company, Go Daddy Operating Company, LLC (and our related entities, including GoDaddy.com, LLC, Wild West Domains, LLC, Blue Razor Domains, LLC, Starfield Technologies, LLC, Domains by Proxy, LLC, Outright, Inc., Locu, Inc., Media Temple, Inc. and Mad Mimi, Inc.) participates in and has certified its compliance with the EU-U.S. and the Swiss-U.S. Privacy Shield Privacy Shield Framework. We are committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Frameworks, and to view our certifications, visit the U.S. Department of Commerce’s [Privacy Shield List](https://www.privacyshield.gov/).
+Our parent company, Go Daddy Operating Company, LLC (and our related entities, including GoDaddy.com, LLC, Wild West Domains, LLC, Blue Razor Domains, LLC, Starfield Technologies, LLC, Domains by Proxy, LLC, Outright, Inc., Locu, Inc., GoDaddy Media Temple, Inc. and Mad Mimi, Inc.) participates in and has certified its compliance with the EU-U.S. and the Swiss-U.S. Privacy Shield Privacy Shield Framework. We are committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Frameworks, and to view our certifications, visit the U.S. Department of Commerce’s [Privacy Shield List](https://www.privacyshield.gov/).
 
 Media Temple is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Media Temple complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
 
