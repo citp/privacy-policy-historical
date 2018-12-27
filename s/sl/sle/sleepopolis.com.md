@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sleepopolis.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627025720id_/https%3A//sleepopolis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sleepopolis.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227102448id_/https%3A//sleepopolis.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sleepopolis
 
@@ -17,11 +17,11 @@ Our full details are:
 
 Full name of legal entity:All Things Digital LLC d/b/a All Sleep Focused (“All Things Digital,” “we,” “us,” or “our”)
 
-Email address: info@sleepopolis.com
+Email address: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 Postal address: 55 Washington Street #322, Brooklyn, NY, 11201
 
-It is very important that the information we hold about you is accurate and up to date. Please let us know if at any time your personal information changes by emailing us at info@sleepopolis.com
+It is very important that the information we hold about you is accurate and up to date. Please let us know if at any time your personal information changes by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 We may change this privacy policy from time to time. If we make changes, we will update the “Effective Date” at the top of the page. If we make a material change in the way we use your personal information, we will prominently note the change through email or notification on our website.
 
@@ -31,27 +31,27 @@ We may process the following categories of personal data about you:
 
 * Communication Data that includes any communication that you send to us whether that be through the contact form on our website, through email, social media messaging, social media posting or any other communication that you send us. We process this data for the purposes of communicating with you, for record keeping and for the establishment, pursuance or defense of legal claims. Our lawful ground for this processing is our legitimate interests which in this case are to reply to communications sent to us, to keep records and to establish, pursue or defend legal claims.
 
-#### **Some examples include:**
+####  **Some examples include:**
 
-**Blogs and Forums:** We may provide an opportunity for you to post information to blogs, forums or other public areas on the Services. By doing so, you consent to the posting of any Personal Information that you provide. You should be aware that such Personal Information can be read, collected, or used by other visitors to these public areas. We have no control over how these visitors use your Personal Information.
+ **Blogs and Forums:** We may provide an opportunity for you to post information to blogs, forums or other public areas on the Services. By doing so, you consent to the posting of any Personal Information that you provide. You should be aware that such Personal Information can be read, collected, or used by other visitors to these public areas. We have no control over how these visitors use your Personal Information.
 
-**Inquiries:**  If you send us a comment or question or make an inquiry to customer support, we will retain the information that you provide to us for the purpose of responding to you, as well as for improving the Services and our customers’ use of our services.
+ **Inquiries:**  If you send us a comment or question or make an inquiry to customer support, we will retain the information that you provide to us for the purpose of responding to you, as well as for improving the Services and our customers’ use of our services.
 
-*** Customer Data** that includes data relating to any purchases of goods and/or services such as your name, title, billing address, delivery address email address, phone number, contact details, purchase details and your card details. We process this data to supply the goods and/or services you have purchased and to keep records of such transactions. Our lawful ground for this processing is the performance of a contract between you and us and/or taking steps at your request to enter into such a contract.
+ *** Customer Data** that includes data relating to any purchases of goods and/or services such as your name, title, billing address, delivery address email address, phone number, contact details, purchase details and your card details. We process this data to supply the goods and/or services you have purchased and to keep records of such transactions. Our lawful ground for this processing is the performance of a contract between you and us and/or taking steps at your request to enter into such a contract.
 
-_Some examples include:_
+ _Some examples include:_
 
-**Registration:** When you register on the Services, such as to subscribe to a newsletter, request information or participate in a giveaway, you will be asked to provide certain Personal Information, which we will use to fulfill your request.
+ **Registration:** When you register on the Services, such as to subscribe to a newsletter, request information or participate in a giveaway, you will be asked to provide certain Personal Information, which we will use to fulfill your request.
 
-**Surveys:** We may ask you to complete surveys or opinion polls from time to time. We only use the information that we collect from surveys in an aggregate manner, not in individually identifiable form. We may use specific comments shared on surveys, in an anonymized way. We may also reach out for for more clarification on survey responses and potentially request more and permission to share. But we will never share anything personally identifiable shared on a survey unless given consent.
+ **Surveys:** We may ask you to complete surveys or opinion polls from time to time. We only use the information that we collect from surveys in an aggregate manner, not in individually identifiable form. We may use specific comments shared on surveys, in an anonymized way. We may also reach out for for more clarification on survey responses and potentially request more and permission to share. But we will never share anything personally identifiable shared on a survey unless given consent.
 
-**User Data** that includes data about how you use our website and any online services together with any data that you post for publication on our website or through other online services. We process this data to operate our website and ensure relevant content is provided to you, to ensure the security of our website, to maintain back- ups of our website and/or databases and to enable publication and administration of our website, other online services and business. Our lawful ground for this processing is our legitimate interests which in this case are to enable us to properly administer our website and our business.
+ **User Data** that includes data about how you use our website and any online services together with any data that you post for publication on our website or through other online services. We process this data to operate our website and ensure relevant content is provided to you, to ensure the security of our website, to maintain back- ups of our website and/or databases and to enable publication and administration of our website, other online services and business. Our lawful ground for this processing is our legitimate interests which in this case are to enable us to properly administer our website and our business.
 
-**Technical Data** that includes data about your use of our website and online services such as your IP address, your login data, details about your browser, length of visit to pages on our website, page views and navigation paths, details about the number of times you use our website, time zone settings and other technology on the devices you use to access our website. The source of this data is from our analytics tracking system. We process this data to analyze your use of our website and other online services, to administer and protect our business and website, to deliver relevant website content and advertisements to you and to understand the effectiveness of our advertising. Our lawful ground for this processing is our legitimate interests which in this case are to enable us to properly administer our website and our business and to grow our business and to decide our marketing strategy.
+ **Technical Data** that includes data about your use of our website and online services such as your IP address, your login data, details about your browser, length of visit to pages on our website, page views and navigation paths, details about the number of times you use our website, time zone settings and other technology on the devices you use to access our website. The source of this data is from our analytics tracking system. We process this data to analyze your use of our website and other online services, to administer and protect our business and website, to deliver relevant website content and advertisements to you and to understand the effectiveness of our advertising. Our lawful ground for this processing is our legitimate interests which in this case are to enable us to properly administer our website and our business and to grow our business and to decide our marketing strategy.
 
-_Some examples include:_
+ _Some examples include:_
 
-**Web Logs:** We maintain web logs that automatically record basic information about everyone who visits the Services. We use web log information to help us design our website, to identify popular features, to improve our services, and for other managerial and analytic purposes. We may also use web logs to help identify any person who may be misusing the Services. These logs contain:
+ **Web Logs:** We maintain web logs that automatically record basic information about everyone who visits the Services. We use web log information to help us design our website, to identify popular features, to improve our services, and for other managerial and analytic purposes. We may also use web logs to help identify any person who may be misusing the Services. These logs contain:
 
 • The Internet domain from which you access the Services.  
 • Your IP address.  
@@ -60,15 +60,15 @@ _Some examples include:_
 • The pages that you visited on the Services.  
 • The address of the website you linked from to get to the Services.
 
-**Marketing Data** that includes data about your preferences in receiving marketing from us and our third parties and your communication preferences. We process this data to enable you to partake in our promotions such as competitions, prize draws and free give-aways, to deliver relevant website content and advertisements to you and measure or understand the effectiveness of this advertising. Our lawful ground for this processing is our legitimate interests which in this case are to study how customers use our products/services, to develop them, to grow our business and to decide our marketing strategy.
+ **Marketing Data** that includes data about your preferences in receiving marketing from us and our third parties and your communication preferences. We process this data to enable you to partake in our promotions such as competitions, prize draws and free give-aways, to deliver relevant website content and advertisements to you and measure or understand the effectiveness of this advertising. Our lawful ground for this processing is our legitimate interests which in this case are to study how customers use our products/services, to develop them, to grow our business and to decide our marketing strategy.
 
 More specifically, here are some examples:
 
-**Linking from Emails.** If you click a link to any of our Sites from an email message from us, we will be able to identify your email address and associate that email address with the manner in which you use the Sites (e.g., which pages you visit).
+ **Linking from Emails.** If you click a link to any of our Sites from an email message from us, we will be able to identify your email address and associate that email address with the manner in which you use the Sites (e.g., which pages you visit).
 
-**Visitors:** If you are just visiting the Sites and not registering, requesting information, contacting us, or posting to a public area of the Services, and you did not access the Sites from a link contained in one of our email communications, we will not ordinarily collect any Personal Information about you except through web logs, as described below. In that case, we obtain the information that you provided and will use it to respond to your inquiry or fulfill your request if we can. We do not share any of this information with anyone else, except to respond to your request, if you consent, or as otherwise described in this privacy policy.
+ **Visitors:** If you are just visiting the Sites and not registering, requesting information, contacting us, or posting to a public area of the Services, and you did not access the Sites from a link contained in one of our email communications, we will not ordinarily collect any Personal Information about you except through web logs, as described below. In that case, we obtain the information that you provided and will use it to respond to your inquiry or fulfill your request if we can. We do not share any of this information with anyone else, except to respond to your request, if you consent, or as otherwise described in this privacy policy.
 
-**Web Logs:** We maintain web logs that automatically record basic information about everyone who visits the Services. We use web log information to help us design our website, to identify popular features, to improve our services, and for other managerial and analytic purposes. We may also use web logs to help identify any person who may be misusing the Services. These logs contain:
+ **Web Logs:** We maintain web logs that automatically record basic information about everyone who visits the Services. We use web log information to help us design our website, to identify popular features, to improve our services, and for other managerial and analytic purposes. We may also use web logs to help identify any person who may be misusing the Services. These logs contain:
 
 • The Internet domain from which you access the Services.  
 • Your IP address.  
@@ -77,9 +77,9 @@ More specifically, here are some examples:
 • The pages that you visited on the Services.  
 • The address of the website you linked from to get to the
 
-#### **Services.**
+####  **Services.**
 
-**Cookies:** We use cookies, web beacons and similar technology to help you navigate the Services, to allow us to learn how you use the Services, and to improve the Services. Cookies are text files we place in your computer’s browser to store your preferences. Cookies, by themselves, do not reveal any Personal Information unless you choose to provide this information to us by, for example, registering at our Site. However, once you choose to provide Personal Information to the Services, this information may be linked to the data stored in the cookie. If you decide not to permit cookies on your computer, this may affect your ability to use the Services.
+ **Cookies:** We use cookies, web beacons and similar technology to help you navigate the Services, to allow us to learn how you use the Services, and to improve the Services. Cookies are text files we place in your computer’s browser to store your preferences. Cookies, by themselves, do not reveal any Personal Information unless you choose to provide this information to us by, for example, registering at our Site. However, once you choose to provide Personal Information to the Services, this information may be linked to the data stored in the cookie. If you decide not to permit cookies on your computer, this may affect your ability to use the Services. You may opt out of this, or set your preferences personally – for more information, visit: <http://optout.networkadvertising.org/>
 
 * We may use Customer Data, User Data, Technical Data and Marketing Data to deliver relevant website content and advertisements to you (including Facebook adverts or other display advertisements) and to measure or understand the effectiveness of the advertising we serve you. Our lawful ground for this processing is legitimate interests which is to grow our business. We may also use such data to send other marketing communications to you. Our lawful ground for this processing is either consent or legitimate interests (namely to grow our business).
 
@@ -89,7 +89,7 @@ We do not collect any Sensitive Data about you. Sensitive data refers to data th
 
 Where we are required to collect personal data by law, or under the terms of the contract between us and you do not provide us with that data when requested, we may not be able to perform the contract (for example, to deliver goods or services to you). If you don’t provide us with the requested data, we may have to cancel a product or service you have ordered but if we do, we will notify you at the time.
 
-We will only use your personal data for a purpose it was collected for or a reasonably compatible purpose if necessary. For more information on this please email us at info@sleepopolis.com and please use the subject line: “Data Request.” In case we need to use your details for an unrelated new purpose we will let you know and explain the legal grounds for processing.
+We will only use your personal data for a purpose it was collected for or a reasonably compatible purpose if necessary. For more information on this please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and please use the subject line: “Data Request.” In case we need to use your details for an unrelated new purpose we will let you know and explain the legal grounds for processing.
 
 We may process your personal data without your knowledge or consent where this is required or permitted by law.
 
@@ -109,37 +109,37 @@ Our lawful ground of processing your personal data to send you marketing communi
 
 Before we share your personal data with any third party for their own marketing purposes we will get your express consent.
 
-You can ask us or third parties to stop sending you marketing messages at any time by clicking the unsubscribe button at the bottom of our emails or by sending us an email at info@sleepopolis.com.
+You can ask us or third parties to stop sending you marketing messages at any time by clicking the unsubscribe button at the bottom of our emails or by sending us an email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 If you opt out of receiving marketing communications this opt-out does not apply to personal data provided as a result of other transactions, such as purchases, warranty registrations etc.
 
-**Browser notifications**
+ **Browser notifications**
 
 Browser notifications are managed by a third party software. If you have opted in for browser notifications (pop-up on your device when an article is published), you may opt out of these by following the general instructions below. Note these instructions may vary between browser versions and devices:
 
-_**Desktop**_
+ _ **Desktop**_
 
-**In Chrome** , navigate to Settings, then navigate to Advanced. Select Content Settings under Privacy and Security. Select Notifications, where you can manage specific site notifications under “Block” and “Allow”. If you would like to turn off notifications for the Site, select the Site’s listing, then check “Block.”
+ **In Chrome** , navigate to Settings, then navigate to Advanced. Select Content Settings under Privacy and Security. Select Notifications, where you can manage specific site notifications under “Block” and “Allow”. If you would like to turn off notifications for the Site, select the Site’s listing, then check “Block.”
 
-**In Firefox,  **navigate to the menu and select Options. Navigate to Privacy & Security. Navigate to Permissions and then click Notifications Settings, where you can turn off notifications for individual sites.
+ **In Firefox,  **navigate to the menu and select Options. Navigate to Privacy & Security. Navigate to Permissions and then click Notifications Settings, where you can turn off notifications for individual sites.
 
-**In Safari** , navigate to Preferences, then Websites and then Notifications, where you can pick which sites are able to send you notifications.
+ **In Safari** , navigate to Preferences, then Websites and then Notifications, where you can pick which sites are able to send you notifications.
 
-**On Android Mobile Devices,  **open the Chrome browser and navigate to Menu, then navigate to Settings. Navigate to Site Settings and then Notifications, where you can determine which sites you’d like to allow notifications for. On the following screen, select clear & reset, then click your preferred options.
+ **On Android Mobile Devices,  **open the Chrome browser and navigate to Menu, then navigate to Settings. Navigate to Site Settings and then Notifications, where you can determine which sites you’d like to allow notifications for. On the following screen, select clear & reset, then click your preferred options.
 
 ## How We Use Your Information
 
 Here is how we may use your information and data:
 
-**Communicating with You.** We may use information that we collect from you for the purpose of communicating with you and responding to your inquiries. Those communications could, for example, take the form of service updates, promotions for products or services that we or one of our marketing partners provide, or e-newsletters.
+ **Communicating with You.** We may use information that we collect from you for the purpose of communicating with you and responding to your inquiries. Those communications could, for example, take the form of service updates, promotions for products or services that we or one of our marketing partners provide, or e-newsletters.
 
-**Service Providers:** We at times contract with third party service providers to perform functions for us. These service providers may be given access to the information we collect for the purpose of performing those functions, but they will be contractually bound to maintain the confidentiality of the information and not to use it for any other purpose.
+ **Service Providers:** We at times contract with third party service providers to perform functions for us. These service providers may be given access to the information we collect for the purpose of performing those functions, but they will be contractually bound to maintain the confidentiality of the information and not to use it for any other purpose.
 
-**Social Media.** The Sites may include social media features, such as Facebook “Like” button and a “Share” button. These features may collect your IP address and which page you are visiting on the Site; and they may set a cookie to enable the feature to function properly. Your interactions with these features are governed by the privacy policy of the company that provides the feature.
+ **Social Media.** The Sites may include social media features, such as Facebook “Like” button and a “Share” button. These features may collect your IP address and which page you are visiting on the Site; and they may set a cookie to enable the feature to function properly. Your interactions with these features are governed by the privacy policy of the company that provides the feature.
 
-**Business Transfers:** If we were to transfer all or substantially all of our assets to another company, one of the assets we would likely include in the transfer is our database of Personal Information.
+ **Business Transfers:** If we were to transfer all or substantially all of our assets to another company, one of the assets we would likely include in the transfer is our database of Personal Information.
 
-**Disclosures for Legal Reasons:** We will disclose Personal Information when we are required to do so by law, regulation or securities exchange requirement, for example, in response to a court order or subpoena. We also may disclose such information in response to a law enforcement agency’s request or when we believe such disclosure is appropriate to protect our legal rights or to safeguard anyone’s property or safety.
+ **Disclosures for Legal Reasons:** We will disclose Personal Information when we are required to do so by law, regulation or securities exchange requirement, for example, in response to a court order or subpoena. We also may disclose such information in response to a law enforcement agency’s request or when we believe such disclosure is appropriate to protect our legal rights or to safeguard anyone’s property or safety.
 
 ## How We Share Information – And Why
 
@@ -199,9 +199,9 @@ In some circumstances we may anonymise your personal data for research or statis
 
 Under data protection laws you have rights in relation to your personal data that include the right to request access, correction, erasure, restriction, transfer, to object to processing, to portability of data and (where the lawful ground of processing is consent) to withdraw consent.
 
-**You can see more about these rights at:**  
+ **You can see more about these rights at:**  
 <https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/>  
-If you wish to exercise any of the rights set out above, please email us at info@sleepopolis.com  
+If you wish to exercise any of the rights set out above, please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
 You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive or refuse to comply with your request in these circumstances.
 
 We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.
@@ -230,7 +230,7 @@ We make no representations or warranties about any of these other companies or t
 
 If you would like us to stop sending you email or other communications or would like to access your Personal Information to correct or delete it, you may send us a request at our email or postal addresses indicated below. We will endeavor to satisfy such requests within a reasonable time.
 
-info@sleepopolis.com  
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
 55 Washington Street #322  
 Brooklyn, NY, 11201
 
@@ -252,7 +252,7 @@ This Site is intended for use by adults. We do not target, or knowingly collect 
 
 ## 9.ACCOUNTABILITY
 
-We are committed to adhering to our privacy policy and applicable laws and to making your online experience secure and valuable. If you have a question, request, complaint, dispute or concern related to this privacy policy, you may send a message by email to info@sleepopolis.com or in writing to Sleepopolis LLC, Attn: Privacy, 55 Washington Street #322, Brooklyn, NY, 11201. We will work with you to obtain a prompt resolution of any issues you may have.
+We are committed to adhering to our privacy policy and applicable laws and to making your online experience secure and valuable. If you have a question, request, complaint, dispute or concern related to this privacy policy, you may send a message by email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or in writing to Sleepopolis LLC, Attn: Privacy, 55 Washington Street #322, Brooklyn, NY, 11201. We will work with you to obtain a prompt resolution of any issues you may have.
 
 If you have any questions about this Privacy Policy, please contact us.
 
@@ -271,4 +271,4 @@ The following two tabs change content below.
 
 
 
-Logan is the Director of Content at Sleepopolis and the main mattress man around these parts. A Buffalo native, Logan spent several years working in project management in both Boston and New York City. In his free time Logan likes walking his dog, lifting weights, and searching for the best cheeseburger in New York City.
+Logan is the content director of Sleepopolis, which means he not only reviews new mattresses every week, but also curates all the comparisons, best of pages, and video guides on the site. He takes a straightforward, honest approach to his reviews and endeavors to give viewers an objective look at each new product he tries out. Logan’s perfected his method over the course of personally testing over 100 different mattresses, so he’s not only able to discern the overall vibe of a specific bed, but to contextualize its feel within the bed-in-a-box market as a whole. Needless to say, his sleep knowledge runs deep, and he loves nothing more than sharing that knowledge with his readers. When he’s not hopping on a new bed or working with our editorial team to whip up an engaging sleep education guide, you can find him reading books on world history, walking his dog Pepper, or searching for the best cheeseburger in New York City.
