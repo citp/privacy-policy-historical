@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gtaall.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626172224id_/https%3A//www.gtaall.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gtaall.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227011735id_/https%3A//www.gtaall.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -38,5 +38,3 @@ By using our site, you consent to our privacy policy.
 If we decide to change our privacy policy, we will post those changes on this page.
 
 _Last modified 19.01.2016_
-
-* * *
