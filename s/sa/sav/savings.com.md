@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the savings.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627110948id_/https%3A//www.savings.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savings.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227184757id_/https%3A//www.savings.com/info/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Savings.com - Privacy Policy
 
 **Effective Date: May 30, 2018**
 
