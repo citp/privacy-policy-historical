@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sketchfab.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627014748id_/https%3A//sketchfab.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sketchfab.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227202948id_/https%3A//sketchfab.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Sketchfab
 
@@ -62,7 +62,7 @@ Apart from the limited personal information described above, we do not collect a
 
 ### Privacy Settings/Opt Out
 
-If you wish to modify any of your user profile information, remove your email from our promotional mailing list, or cancel your account, you may update the settings in your user profile or contact us at [support@sketchfab.com](mailto:support@sketchfab.com). 
+If you wish to modify any of your user profile information, remove your email from our promotional mailing list, or cancel your account, you may update the settings in your user profile or [contact our support team](https://help.sketchfab.com/hc/en-us/requests/new?utm_source=website&utm_campaign=privacy). 
 
 Your removal from our mailing list or database will not remove User Data you have submitted to us or records of past use of the Services, nor delete information stored in our data backups and archives. User Data, including User Data submitted, data on past queries and data stored in backups and archives will be maintained and/or deleted in the ordinary course of our business. Sketchfab does not provide copies of User Data to its customers. 
 
@@ -80,7 +80,7 @@ Your removal from our mailing list or database will not remove User Data you hav
 
 Sketchfab complies with the current version of the French law N° 78-17 dated January 6, 1978 on Computer Processing, Filing Systems and Liberties with respect to our collection and use of Personal Information. Sketchfab has declared its processing of Users' Personal Data to the CNIL under Number 1613953. 
 
-Sketchfab users have the right to obtain and, where appropriate, correct or delete their Personal Information by contacting Sketchfab at [support@sketchfab.com](mailto:support@sketchfab.com). To the extent required by applicable law, users may, for legitimate reasons, request that Sketchfab cease use of Personal Information. 
+Sketchfab users have the right to obtain and, where appropriate, correct or delete their Personal Information by [contacting Sketchfab](https://help.sketchfab.com/hc/en-us/requests/new?utm_source=website&utm_campaign=privacy). To the extent required by applicable law, users may, for legitimate reasons, request that Sketchfab cease use of Personal Information. 
 
 **Service Territory:** Sketchfab, Inc. is located in the United States and is subject to the applicable state and federal laws. If you choose to access or use the Services, you consent to the use and disclosure of information in accordance with this Policy and subject to such laws. 
 
