@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bnc.lt privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625153057id_/https%3A//branch.io/policies/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bnc.lt privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227202935id_/https%3A//branch.io/policies/%23privacy) for the most accurate reproduction.*
 
-# Policies | Branch Metrics
+# Policies | Branch
 
 Last updated May 14, 2018
 
@@ -137,7 +137,7 @@ Redwood City, CA 94063
 
 or by email at [info@branch.io](mailto:info@branch.io)
 
-Last updated June 22, 2018
+Last updated December 26, 2018
 
 Branch Metrics, Inc. ( **"Branch"** , **"us"** or **"we"** ) offers a linking and analytics platform enabling developers of applications (our " **Clients** ")--whether those applications are websites or "apps," and across different types of devices--to improve their end users’ (" **Users** ") cross-application experiences, and to derive additional insights into how their Users download and utilize those applications. Branch recognizes and believes that data privacy is important to all Internet users, and therefore we design and operate our services in a privacy-first manner. 
 
@@ -161,7 +161,7 @@ Below, we explain what information we collect on behalf of our Clients through t
 
 Branch provides a variety of Services intended to help Clients bridge together the identity of their Users across a wide array of platforms, devices and applications. Branch helps Clients by connecting User interactions across siloed applications (email, SMS, web browsers, social platforms, native applications and others), so that Clients understand the multiple steps that a User took to ultimately complete a transaction with the business. This information is used by the Client to better inform marketing and product decisions as well as to provide improved user experiences by using their knowledge of continuity. 
 
-Branch has no direct relationship with Users. Branch’s Services are provided when Branch Clients install on their platforms “Branch Mechanisms” (including links, pixels, direct platform integrations, etc.) that capture the User action on behalf of the Client. By associating the information collected from these Mechanisms, Branch creates and stores identifiers unique to the Branch platform, and then uses a variety of techniques to connect these User actions and identifiers together. Some of these common connection techniques include a direct pass-through of identifiers from platform to platform, probabilistic matching using real time and historical parameters observed from each interaction, as well as using historical connections aggregated across the Branch platform. These techniques help Clients match Users with devices they use, including matching the same User across multiple devices. 
+Branch has no direct relationship with Users. Branch’s Services are provided when Branch Clients install on their platforms “Branch Mechanisms” (including links, pixels, direct platform integrations, etc.) that capture the User action on behalf of the Client. By associating the information collected from these Mechanisms, Branch creates and stores identifiers unique to the Branch platform, and then uses a variety of techniques to connect these User actions and identifiers together. Some of these common connection techniques include a direct pass-through of identifiers from platform to platform, probabilistic matching using real time and historical parameters observed from each interaction, as well as using historical connections aggregated across the Branch platform. In some cases, these connections are made without the use of cookies. These techniques help Clients match Users with devices they use, including matching the same User across multiple devices. 
 
 The key use cases of Branch’s connection service are: 
 
@@ -190,7 +190,7 @@ Link Data | Metadata controlled by the Client, which may be used to interpret th
 User Agent | Standard web browser user agent metadata; used for matching  
 Referrer | Standard web browser HTTP referrer; may be used for reporting and analytics  
 Request | Standard web HTTP request  
-Phone Number | Used only by Branch to facilitate the “Text me the app” feature; may be shared with the Client if the User consents at the time the User shares the phone number  
+Phone Number | Used only to facilitate the “Text me the app” feature  
   
 #### Information Collected by Branch Mobile App SDKs and Web SDKs
 
@@ -287,7 +287,7 @@ We also require Clients to set up a user ID and unique password for account secu
 
 **Research/Survey Solicitations:** From time to time, we may perform research (online and offline) via surveys. We may engage third-party service providers to conduct such surveys on our behalf. All survey responses are voluntary, and the information collected will be used for research and reporting purposes to help us better serve individuals by learning more about their needs and the quality of the products and services we provide. The survey responses may be utilized to determine the effectiveness of our Website, various types of communications, advertising campaigns and/or promotional activities. 
 
-**Cookies, Pixels and Web Beacons:** We also collect other data via the Website from Website Users, including Website Users employed by or affiliated with Clients, through cookies and/or web beacons. Such information, some of which may be considered Personal Data under applicable law, may include IP address, pages viewed, browser type, Internet browsing and usage habits, Internet Service Provider, domain name, the time/date of your visit to the Website, the referring URL, and your computer’s operating system. 
+**Cookies, Pixels and Web Beacons:** We also collect other data via the Website from Website Users, including Website Users employed by or affiliated with Clients, through [cookies and/or web beacons](https://web.archive.org/cookie-declaration/). Such information, some of which may be considered Personal Data under applicable law, may include IP address, pages viewed, browser type, Internet browsing and usage habits, Internet Service Provider, domain name, the time/date of your visit to the Website, the referring URL, and your computer’s operating system. 
 
 If you consent to the use of cookies and web beacons when you visit the Website, we will collect information through those tools. Cookies are small data files stored on your hard drive by a website and web beacons are electronic images that may be used on our Website or in our emails. Cookies help us improve your experience on the Website as well as our marketing activities. We use cookies to see which areas and features are popular and to count visits to our Website. For more information about cookies and web beacons, please visit <http://www.allaboutcookies.org/>. For more information about how to opt-out of cookies and web beacons after you have consented to their use, see the “Opt-out from Website Cookies/Web Beacons” section below. 
 
