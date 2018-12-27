@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uga.edu privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626224037id_/https%3A//eits.uga.edu/access_and_security/infosec/pols_regs/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uga.edu privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227062353id_/https%3A//eits.uga.edu/access_and_security/infosec/pols_regs/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Policies, Standards, and Guidelines | Policies and Regulations | Office of Information Security | Access and Security | EITS
 
