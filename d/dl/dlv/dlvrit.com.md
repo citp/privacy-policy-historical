@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dlvrit.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614104613id_/https%3A//dlvrit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dlvrit.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227130525id_/https%3A//dlvrit.com/privacy-policy) for the most accurate reproduction.*
 
 # dlvr.it - Privacy Policy
 
