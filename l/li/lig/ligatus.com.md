@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the ligatus.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629113028id_/https%3A//www.ligatus.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ligatus.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227151534id_/https%3A//www.ligatus.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ligatus
 
+##  Privacy Policy 
+
 ### Privacy policy of the Ligatus Group in accordance with the General Data Protection Regulation (GDPR)
 
-This Privacy Policy applies to the web services and websites of Ligatus GmbH, Christophstraße 19, 50670 Cologne, Germany - hereinafter referred to as „Ligatus“ - and also to the microsites operated by Ligatus for its customers and, if applicable, further advertising materials which are maintained by Ligatus for its customers, in particular also advertising materials for the delivery of personalised and behaviour-based advertising for the Internet (see section IV. of this data protection declaration).
+This Privacy Policy applies to the web services and websites of Ligatus GmbH, Christophstraße 19, 50670 Cologne, Germany, represented by Liesbeth Mack-de Boer, Klaus Ludemann and Arne Wolter, - hereinafter referred to as "Ligatus" - and also to the microsites operated by Ligatus for its customers and, if applicable, further advertising materials which are maintained by Ligatus for its customers, in particular also advertising materials for the delivery of personalised and behaviour-based advertising on the Internet (see section IV).
 
 **This Privacy Policy is always to be regarded as part of the respective web presence which directly refers to this site (e.g. under “Privacy” or “Privacy Policy”).**
 
-As a controller in accordance with the the General Data Protection Regulation, Ligatus takes the protection of your personal data very seriously. We would like to inform you about when we collect what data and how we use it. We have implemented extensive technical and organisational measures (Art. 32 GDPR) to ensure compliance and adherence with applicable provisions on data protection and data security by Ligatus and as well contracted third party providers. Please note that amendments to this Privacy Policy may be required due to the ongoing development of our websites and the implementation of new technologies to improve our web services. We therefore recommend frequently referring back to this Privacy Policy and reading through the current up-to-date version, which is always available online under [http://www.ligatus.com/en/privacy-policy](https://web.archive.org/en/privacy-policy).
+As a controller in accordance with the the General Data Protection Regulation, Ligatus takes the protection of your personal data very seriously. We would like to inform you about when we collect what data and how we use it. We have implemented extensive technical and organisational measures (Art. 32 GDPR) to ensure compliance and adherence with applicable provisions on data protection and data security and as well contracted third party providers. Please note that amendments to this Privacy Policy may be required due to the ongoing development of our websites and the implementation of new technologies to improve our web services. We therefore recommend frequently referring back to this Privacy Policy and reading through the current up-to-date version, which is always available online under [http://www.ligatus.com/en/privacy-policy](https://web.archive.org/en/privacy-policy).
 
 ### I. What is personal information?
 
@@ -22,32 +24,22 @@ _a) Contact forms_
 
 If you however decide to request further information via the contact forms provided on our websites or the microsites operated on behalf of our customers, we will ask for your name and further personal information in order to handle your personal request or to provide the services you requested from us or our customers. Please note that the exact scope of the collected information varies depending on the relevant campaign and services offered by the relevant customer, and will be specified in the contact form of each campaign (all mandatory fields are marked with *). You can freely decide whether or not you want to provide the requested information. However, without this information, we are unable to make the desired services available to you. We will always make sure that you know exactly what data you are sending for what purpose and what happens with it - according to and covered by your express consent.
 
-_b) User account (Ligatus Self-booking)_
+_b) Ligatus newsletter_
 
-As part of the registration process, we also collect your first and last name, your salutation and information about your company affiliation, mailing address, and telephone, as well as necessary information regarding your chosen means of payment, credit card, and bank account information, if applicable, in order to bill you for the services you choose to use and to ensure that you receive personalised, competent service. All mandatory information required in order to register is marked accordingly. All further information is provided voluntarily; this data is used for the purposes stated, or to improve our online services. You agree that we instruct third parties to process credit card transactions and to forward the provided credit card and/or billing information to them solely for this purpose. 
+As part of our web services, we offer a regular subscription to our Ligatus newsletter. When requested, the newsletter provides you with free, up-to-date information on our services and the Ligatus blog. To register to our Ligatus newsletter service, we need your first and last name, your gender, and the e-mail address at which you wish to receive the newsletter. If you wish to subscribe to the Ligatus newsletter, we ask that you provide us with the following declaration of consent:
 
-By registering with our websites, you declare your agreement with the [General Terms and Conditions](http://www.ligatus.com/en/terms-and-conditions) of Ligatus and the use of your abovementioned personal information in accordance with this Privacy Policy.
-
-If you wish to register as a user of our Ligatus Self-booking and open a user account, please select for your own safety a secret and secure password in order to ensure the confidentiality of your data. Your password is transmitted to and stored on our servers in encrypted form, in the event that you forget your password, please use the “Forgot your password?” function provided on the website to create a new, secure password.
-
-If you want to delete your account, please contact us at self-booking@ligatus.de. If deletion is not possible for legal reasons, access to the data in question shall instead be blocked. Please note, however, that we may be unable to continue offering some or all of the services provided on our websites requiring registration in the event that your data is deleted or blocked.
-
-_c) Ligatus newsletter_
-
-AAs part of our web services, we offer a regular subscription to our Ligatus newsletter. When requested, the newsletter provides you with free, up-to-date information on our services. To register without Ligatus newsletter service, we need your first and last name, your gender, and the e-mail address at which you wish to receive the newsletter. If you wish to subscribe to the Ligatus newsletter, we ask that you provide us with the following declaration of consent:
-
-> _I would like to regularly receive the Ligatus newsletter, and agree that my e-mail address, my first and last name, and my gender, as well as any data voluntarily provided, be used for this purpose. I can revoke this declaration of consent at any time by using the “Opt-Out function” in the respective Ligatus Newsletter or via e-mail notice to info@ligatus.com, as well as by writing to Ligatus GmbH, Christophstraße 19, 50670 Köln, Germany, such revocation to take effect for the future. No additional fees beyond the normal transmission fees of my e-mail or Internet provider shall apply. In the event that my consent is revoked, I shall not, or shall no longer, be able to receive the Ligatus newsletter. I have read and accept the current privacy policy._
+> I would like to regularly receive the Ligatus newsletter, and agree that my e-mail address, my first and last name, and my gender, as well as any data voluntarily provided, be used for this purpose. I can revoke this declaration of consent at any time by using the “Opt-Out function” in the respective Ligatus Newsletter or via e-mail notice to info@ligatus.com, as well as by writing to Ligatus GmbH, Christophstraße 19, 50670 Köln, Germany, such revocation to take effect for the future. No additional fees beyond the normal transmission fees of my e-mail or Internet provider shall apply. In the event that my consent is revoked, I shall not, or shall no longer, be able to receive the Ligatus newsletter. I have read and accept the current privacy policy.
 
   
-_d) “Double opt-in procedure”_
+_c) “Double opt-in procedure”_
 
-In order to verify your registration when setting up a user account and/or to acquire your consent when ordering the Ligatus newsletter, we use the “double opt-in procedure”. This means that we will only set up your user account or send you the Ligatus newsletter once you have confirmed your registration via a confirmation e-mail sent to you for this purpose, by clicking on the link contained therein. By doing this, we wish to ensure that only you yourself as the owner of the e-mail address given are able to make use of our services.
+In order to acquire your consent when ordering the Ligatus newsletter, we use the “double opt-in procedure”. This means that we will only send you the Ligatus newsletter once you have confirmed your registration via a confirmation e-mail sent to you for this purpose, by clicking on the link contained therein. By doing this, we wish to ensure that only you yourself as the owner of the e-mail address given are able to make use of our services.
 
 ### III. How does Ligatus use your personal information
 
 Personal information is also requested by us for billing and promotional purposes and processed by us or by our partners and customers (e.g. when ordering information or premiums). The usage of your personal information varies depending on the relevant campaign and customer. You will be informed thoroughly about any usage of your personal information on the relevant website or within the relevant campaign.
 
-Your personal information, that was transmitted in that way, is not used for purposes that you did not explicitly agree to when requesting our services or within the scope of the relevant campaign. Without your consent, your information will not be used e.g. for marketing purposes. You will only receive advertising if you have given your explicit consent. You can revoke your consent any time by using [our contact form](http://www.ligatus.com/#footer) on this website or sending an email to info@ligatus.com. However, in this case Ligatus may no longer be able to provide the offered services.
+Your personal information, that was transmitted in that way, is not used for purposes that you did not explicitly agree to when requesting our services or within the scope of the relevant campaign. Without your consent, your information will not be used e.g. for marketing purposes. You will only receive advertising if you have given your explicit consent. You can revoke your consent any time by using [our contact form](http://www.ligatus.com/#footer) on this website or sending an email to [info@ligatus.com](mailto:info@ligatus.com) or your Ligatus contact person. However, in this case Ligatus may no longer be able to provide the offered services.
 
 In addition to personal information collected about you via our contact forms or microsites operated on behalf of our customers or business partners, which will strictly be used to provide the relevant services to you, our web servers log general information on the usage of our websites (such as: date and time, visited websites - e.g. when each page was viewed or which page was visited most frequently).
 
@@ -105,7 +97,7 @@ Further information and a full list of the cookies which are used by Ligatus on 
 
 ### VI. Usage of Google Analytics and Google Remarketing
 
-a) The Ligatus websites use Google Analytics, a web analytics service provided by Google, Inc., 1600 Amphitheatre Parkway Mountain View, CA 94043, USA („Google“). Google Analytics uses cookies, which are text files placed on your computer or your mobile device, to help the website analyse how users use the site. The information generated by the cookie about your use of the website will be transmitted and stored by Google on servers in the United States.
+_a) The Ligatus websites use Google Analytics, a web analytics service provided by Google, Inc., 1600 Amphitheatre Parkway Mountain View, CA 94043, USA („Google“). Google Analytics uses cookies, which are text files placed on your computer or your mobile device, to help the website analyse how users use the site. The information generated by the cookie about your use of the website will be transmitted and stored by Google on servers in the United States._
 
 Please note, that the application of Google Analytics within our web services has been enhanced with the code „gat._anonymizeIp();“ to enable the anonymous logging of IP addresses (so-called “IP-masking”). Prior to the transmission, your IP address will be truncated by Google within the member states of the European Union or other parties to the accord on the European Economic Area. Only in exceptional cases is the full IP address sent to a Google server in the USA and truncated there. Google will not associate your IP address with any other data collected or held by Google.
 
@@ -121,7 +113,7 @@ An opt-out cookie will be then stored that disables the collection of your infor
 
 Further information is available here: http://tools.google.com/dlpage/gaoptout?hl=en (general informationen on Google Analytics and privacy).
 
-b) We also allow Google to place cookies on our websites for the purpose of use-based online advertising
+_b) We also allow Google to place cookies on our websites for the purpose of use-based online advertising_
 
 The cookie stored on your computer by Google allows the anonymised recognition of your browser by Google and gathers information about your activities on the websites you visit (e.g. web surfing behaviour, subpages visited on our Internet content, etc.) Use profiles are generated from this data, using a pseudonym that does not allow conclusions to be drawn about the user and therefore cannot be used to identify a specific user. The information collected by the cookie concerning your use of this website (including your IP address) is transferred to a server in the United States of America and stored there. Google then removes the last three digits of the IP address, thus ensuring that the IP address can no longer be uniquely identified. Under no circumstances will Google associate your IP address with other information held by Google. Google complies with the data privacy provisions of the “EU-U.S. Privacy Shield” framework.
 
@@ -143,15 +135,30 @@ In certain cases, we are also required by law to disclose your personal informat
 
 Outside of the cases described in this data protection declaration, your data is not forwarded on to third parties and, your information is solely stored in our databases / on our servers (or on the servers of third party providers).
 
-### VIII. Hyperlinks to other websites
+### VIII. Legal bases
+
+The legal bases for the processing of your data could be the following:
+
+  * your consent to the use of data in accordance with Art. 6 (1) lit. a) GDPR;
+  * the performance of our service obligations arising from contracts concluded with you in order to provide the services you request in accordance with Article 6 (1) lit. (b) GDPR;
+  * our legitimate interest in accordance with Art. 6 (1) lit. f) GDPR, e. g.
+  * our business interests in improving our services so that we can better understand your needs and expectations and thus improve the services we provide to you;
+  * to prevent fraud and to ensure that our websites are used completely and without any fraudulent behaviour;
+  * to ensure and guarantee the security of our services, making sure that our offer is technically secure and properly functioning;
+  * to ensure and enforce our contractual requirements and claims.
+  * Legal reasons in accordance with Art. 6 (1) lit. c) GDPR if collection, storage, transfer or other processing of data is prescribed by law or processing is necessary to fulfil our legal obligations.
+
+
+
+### IX. Hyperlinks to other websites
 
 In addition, our websites contain hyperlinks to websites offered by third parties When clicked, the hyperlinks redirect you from our website directly to the website of another provider. You can recognize this redirection process by the change of the URL in your web browser’s address bar. If you have been forwarded to the website of a cooperation or promotional partner, the use of your personal information will only be subject to the privacy policy of the relevant provider. We cannot take any responsibility for the privacy practices of third parties´ websites because we do have no control over their compliance with data protection regulations.
 
-### IX. Protection of minors
+### X. Protection of minors
 
 Persons under 18 years are excluded from our services and from providing any personal information without the consent of their parents or guardians. We do not request personal information from children and adolescents. We do not knowingly gather or collect such data and do not disclose it to third parties.
 
-### X. How we keep your information secure
+### XI. How we keep your information secure
 
 When we collect information, we solely store your data on highly protected servers in Germany and the EU. Access to our IT infrastructure is strictly limited to authorised persons who are involved in the technical, commercial or editorial support.
 
@@ -159,13 +166,21 @@ In order to avoid loss or misuse of data stored by us, we have taken all necessa
 
 However, we would like to inform you that because of the nature of the Internet, the provisions of data protection and data security measures described in this Privacy Policy may not be observed by any third parties or institutions beyond our control. Especially unencrypted data transmission – even when sent via e-mail – can be read by third parties. We have no technical influence on this. The user has the responsibility to protect the information he provides from misuse by encryption, selection of a secure password or other means.
 
-### XI. Rights of the “data subject” according to the rules of the GDPR:
+We store personal information you submit to us only for as long as is necessary to fulfil the purposes for which such information was transmitted, or as required by law:
+
+  * if you conclude contracts with us, we store and process your personal data for the duration of the contractual relationship and beyond for the fulfilment of post-contractual obligations and handling of issues as well as for the duration of statutory retention periods (maximum 10 years);
+  * If you have consented to the promotional use of your e-mail address, we will store your e-mail address in our mailing database until you unsubscribe, requesting us to delete the data;
+  * If you send us an enquiry, we process your personal data while we handle your request.
+
+
+
+### XII. Rights of the “data subject” according to the rules of the GDPR:
 
 According to the EU General Data Protection Regulation, you deserve the right to request access to your personal data (see Art. 15), as well as rectification (see Art. 16), erasure (see Art. 17) or at least restriction of processing (see Art. 18) of your personal data.
 
 Furthermore, you have a right to data portability (see Art. 20) and, of course, the right to revoke any consent given to the processing of personal data at any time (see Art. 7) and to object to processing based on the balancing of legitimate interests (see Art. 21(4) GDPR). In addition, you have a right of appeal to the competent data protection supervisory authority.
 
-If you have any questions or other feedback on the subject of data protection or would like to exercise your rights regarding to data protection, please contact our Data Protection Officer or ourselves:
+____
 
 Rechtsanwalt Stephan Krämer, LL.M.,   
 Kinast & Partner Rechtsanwälte  
@@ -177,4 +192,4 @@ Christophstraße 19,
 Germany  
 E-Mail: privacy@ligatus.com
 
-Version: May 2018 - We reserve the right to adapt this data protection declaration and will announce any changes in good time.
+Version: September 2018 - We reserve the right to adapt this data protection declaration and will announce any changes in good time.
