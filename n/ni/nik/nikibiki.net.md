@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nikibiki.net privacy policy that was archived on 2017-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170917125252id_/https%3A//nikibiki.net/cart/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nikibiki.net privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227065414id_/https%3A//nikibiki.net/cart/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy Notice : NIKIBIKI | Women/Junior Apparel Wholesale/Manufacturer, NIKIBIKI.NET
+# Privacy Notice : NIKIBIKI | Women/Junior Apparel Wholesale/SEAMLESS WEAR Manufacturer, NIKIBIKI.NET
 
 **What information do we collect?**  
 *We collect information from you when you register on the site, place an order, enter a contest or sweepstakes, respond to a survey or communication such as e-mail, or participate in another site feature.   
