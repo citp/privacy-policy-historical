@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bclocalnews.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626174227id_/https%3A//www.bclocalnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bclocalnews.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227012637id_/https%3A//www.bclocalnews.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - BC Local News
+# Privacy Policy – BC Local News
 
 The security of your personal information is very important to us. We never sell or rent your personal information to any third party under any circumstance. We value your trust very highly, and will work to protect the security and privacy of any personal information you provide to us and will only use it as we describe here in our Privacy Policy.
 
