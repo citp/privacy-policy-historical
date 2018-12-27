@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thesitsgirls.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614102613id_/http%3A//www.thesitsgirls.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesitsgirls.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227131625id_/http%3A//www.thesitsgirls.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The SITS Girls
+# Privacy Policy | The SITS Girls
 
 Sway Group LLC (“Sway”) respects your privacy. This privacy statement (“Privacy Statement”) applies to the treatment of personally identifiable information submitted by, or otherwise obtained from, you in connection with the websites noted below (“Websites”). By using or otherwise accessing the Websites, you acknowledge that you accept the practices and policies outlined in this Privacy Statement. If you do not agree with this Statement, please do not use our Websites. This policy applies to the following websites administered by Sway:  
 <http://www.thesitsgirls.com/>
