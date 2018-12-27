@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naijan.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627174108id_/https%3A//naijagists.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naijan.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228005405id_/https%3A//naijagists.com/privacy) for the most accurate reproduction.*
 
 # PrivacyNaijaGistsBlog Nigeria, Nollywood, Celebrity ,News, Entertainment, Gist, Gossip, Inspiration, Africa | NaijaGistsBlog Nigeria, Nollywood, Celebrity ,News, Entertainment, Gist, Gossip, Inspiration, Africa
 
@@ -24,4 +24,4 @@ Any advertisements served by Google, Inc., and affiliated companies may be contr
 
  **Contact Information**
 
-Concerns or questions about this privacy policy can be directed to epalava@gmail.com for further clarification.
+Concerns or questions about this privacy policy can be directed to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) for further clarification.
