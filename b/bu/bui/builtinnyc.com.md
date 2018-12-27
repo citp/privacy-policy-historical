@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the builtinnyc.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627073211id_/https%3A//www.builtinnyc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the builtinnyc.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227151454id_/https%3A//www.builtinnyc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Built In NYC
 
@@ -60,15 +60,15 @@ When corresponding with Built In or our representatives, or when making a reques
 
 •    Job Seeker Database: When you create an account on the Site, you will automatically be listed on Built In’s database of job seekers which can be accessed and searched by Premium Members and employers. If you do not wish to be listed on this database, you may opt out of being listed on the database.
 
-•    Opt Out.  You may opt out of the sharing described in this Privacy Policy by sending an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+•    Opt Out.  You may opt out of the sharing described in this Privacy Policy by sending an email to support@builtin.com.
 
-•    Delete Your Account.  You may delete your account by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  Please be advised that, even if we successfully delete your account, employers who have paid for our databases and Premium Members may have retained a copy of your Personal Information for their own files. We cannot control the retention or use of your Personal Information once they have been downloaded by third parties, and you will not be able to delete information held by those third parties.
+•    Delete Your Account.  You may delete your account by emailing us at support@builtin.com.  Please be advised that, even if we successfully delete your account, employers who have paid for our databases and Premium Members may have retained a copy of your Personal Information for their own files. We cannot control the retention or use of your Personal Information once they have been downloaded by third parties, and you will not be able to delete information held by those third parties.
 
 You may contact us as indicated below if at any time you would like to ask us about our data collection practices and our information security policy.
 
 California Privacy Rights
 
-California Civil Code Section §1798.83 permits users that are California residents to request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes. To make such a request, please send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+California Civil Code Section §1798.83 permits users that are California residents to request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes. To make such a request, please send an email to support@builtin.com.
 
 5\.    How Do We Protect Information Collected About You? 
 
@@ -86,7 +86,7 @@ Unfortunately, the transmission of information via the internet is not completel
 
 6\.  Children under Age 13
 
-Our Site is not intended for children under 13 years of age. No one under age 13 may provide any Personal Information on the Site. We do not knowingly collect Personal Information from children under 13. If you are under 13, do not use or provide any information on the Site. If we learn we have collected or received Personal Information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Our Site is not intended for children under 13 years of age. No one under age 13 may provide any Personal Information on the Site. We do not knowingly collect Personal Information from children under 13. If you are under 13, do not use or provide any information on the Site. If we learn we have collected or received Personal Information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at support@builtin.com.
 
 7\.    We may change this Notice.
 
@@ -102,7 +102,7 @@ Chicago, Illinois 60654
 
 Telephone: 312-476-8478
 
-Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Email: support@builtin.com
 
 Acknowledgement
 
