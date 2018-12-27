@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allpcworld.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618020155id_/http%3A//allpcworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allpcworld.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227073442id_/http%3A//allpcworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ALL PC World
 
