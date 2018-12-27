@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstmerit.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616034912id_/https%3A//www.huntington.com/Privacy-Security/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstmerit.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227143857id_/https%3A//www.huntington.com/Privacy-Security/privacy-policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Huntington
 
@@ -9,7 +9,7 @@
 This Online Privacy Policy ("Online Policy") applies to The Huntington National Bank, its parent Huntington Bancshares Incorporated and their subsidiaries and affiliates (collectively described as "Huntington," "we," or "us"), this website and any Huntington website, online interface, mobile site, or mobile application that links to this Online Policy (each a "Site, and collectively "Sites"). This Online Policy specifically applies to Huntington's collection, use and disclosure of information collected from visitors during use of the Sites, such as for transactional purposes or through tracking technology, including cookies or action tags. This Site and all Huntington Sites are operated in and controlled from the United States of America. This Online Policy should be read together with the "What Does Huntington Do with Your Personal Information" Privacy Notice ("Privacy Notice") below, which, among other things, describes how Huntington may share personal information gathered from you and how you can opt-out or limit certain types of information sharing.
 
 **Effective Date**  
-This Online Policy is effective as of December 2016.
+This Online Policy is effective as of August 2018.
 
 **Changes to this Online Policy**  
 We reserve the right to amend this Online Policy at any time to address future developments of Huntington, our Sites or changes in industry or legal trends. We will post the revised Online Policy on this Site or announce the change on this Site's homepage. If we make changes to this Online Policy, we will revise the "Effective Date" section above. Any changes to this Online Policy will become effective upon the posting of the revised Online Policy on this Site. By continuing to use the Site following such changes, you will be deemed to have agreed to such changes. If you do not agree with the terms of this Online Policy, as it may be amended from time to time, in whole or in part, please do not continue using our Sites. If you have any questions or comments about this Online Policy, please feel free to contact us at [privacy@huntington.com](mailto:%20privacy@huntington.com).
@@ -51,6 +51,8 @@ Consistent with our Privacy Notice, we use Personal Information provided by Site
 
 We also may remove identifiers from Personal Information or aggregate that information to make it anonymous. We will use such Aggregate Information as described in the "Aggregate Information" section.
 
+You authorize your wireless carrier to disclose information about your account, such as subscriber status, payment method and device details, if available, to support identity verification, fraud avoidance and other uses in support of transactions for the duration of your business relationship with us. This information may also be shared with other companies to support your transactions with us and for identity verification and fraud avoidance purposes.
+
 **Disclosure of Personal Information**  
 We may disclose Personal Information, as permitted by law, and: (1) consistent with our Privacy Notice; (2) to comply with applicable laws; (3) to respond to governmental inquiries or requests; (4) to comply with valid legal process; (5) to protect the rights, privacy, safety or property of Huntington; (6) to permit us to pursue available remedies or limit damages that we may sustain; and (7) to enforce our rights resulting from inappropriate use of our Sites.
 
@@ -89,4 +91,4 @@ Online surveys and sweepstakes are offered from time to time on our Sites. Onlin
 **Use of Online Planning Tools**  
 We make planning tools, such as mortgage and savings calculators available. We do not currently store information that you enter into one of these planning tools or calculators.
 
-[Read our Consumer Privacy Notice](https://web.archive.org/Privacy-Security/privacy-notice)
+[Read our Consumer Privacy Notice](https://www.huntington.com/Privacy-Security/privacy-policies/privacy-notice)
