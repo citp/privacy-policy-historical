@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waterfordwhispersnews.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627140756id_/http%3A//waterfordwhispersnews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waterfordwhispersnews.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227213148id_/http%3A//waterfordwhispersnews.com/privacy) for the most accurate reproduction.*
 
 # Privacy – Waterford Whispers News
 
@@ -77,6 +77,6 @@ waterfordwhispersnews.com does provide links to other websites. Whilst we do che
 
 We update our Privacy Policy from time to time as legislation and internal operating procedures change. Please keep an eye on this page for any updates or changes.
 
-Contact our Data Protection Officer at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) for any further clarifications or personal data requests. Whilst we aim to address any questions or queries as soon as possible, please allow up to 30 working days for a response.
+Contact our Data Protection Officer at info@waterfordwhispersnews.com for any further clarifications or personal data requests. Whilst we aim to address any questions or queries as soon as possible, please allow up to 30 working days for a response.
 
 For more information on data protection, please visit [www.dataprotection.ie](http://www.dataprotection.ie/) & <https://ec.europa.eu/info/law/law-topic/data-protection_en>
