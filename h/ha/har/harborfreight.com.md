@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harborfreight.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628141631id_/https%3A//www.harborfreight.com/security-and-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harborfreight.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227224259id_/https%3A//www.harborfreight.com/security-and-privacy.html) for the most accurate reproduction.*
 
 # Security and Privacy
 
@@ -112,7 +112,7 @@ Pursuant to Section 1798.83 of the California Civil Code, any resident of Califo
 
 ### Children's Privacy Policy
 
-Harbor Freight does not sell products for purchase by children. **If you are under 18, you may use HarborFreight.com only with the involvement of a parent or guardian.** Harbor Freight does not intend to collect any personally identifiable information from children through the Harbor Freight Sites. Please do not allow children under the age of 18 to provide any personally identifiable information related to our Sites. If we determine that a child under 18 has provided Personal Information in violation of this policy, we will delete that information as soon as practical. If you become aware that such information has been provided by a child under 18, please notify us by contacting the Harbor Freight Customer Call Center in any of the ways identified in Section H. Please be certain to include in the subject line "Privacy Policy Request". 
+Harbor Freight does not sell products for purchase by children. **Effective immediately, if you are under the age of 13, you are not permitted to create an account on HarborFreight.com or any of its affiliated websites.** If you are between 13 and 18, you may use HarborFreight.com only with the involvement of a parent or guardian. Harbor Freight does not intend to collect any personally identifiable information from children through the Harbor Freight Sites. Please do not allow children under the age of 18 to provide any personally identifiable information related to our Sites. If we determine that a child under 18 has provided Personal Information in violation of this policy, we will delete that information as soon as practical. If you become aware that such information has been provided by a child under 18, please notify us by contacting the Harbor Freight Customer Call Center in any of the ways identified in Section H. Please be certain to include in the subject line "Privacy Policy Request". 
 
 ### Security Limitations
 
@@ -138,4 +138,4 @@ ATTN: Internet Customer Service
 
 We may change this Privacy and Security Policy at any time at our sole discretion. Any updates to our Privacy and Security Policy will be posted on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Continued use of our Sites, Stores, Customer Call Centers or other Harbor Freight services following our posting of the change notice or an updated Privacy and Security Policy will constitute binding acceptance of those changes. 
 
-**Last Updated February 2, 2018**
+**Last Updated October 16, 2018**
