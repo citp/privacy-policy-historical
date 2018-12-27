@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamesmiracle.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624083311id_/http%3A//www.gamesmiracle.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesmiracle.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227193228id_/http%3A//www.gamesmiracle.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
