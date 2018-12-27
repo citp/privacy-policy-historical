@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the togo-download.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618000616id_/http%3A//www.togo-download.com/en/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the togo-download.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227041744id_/http%3A//www.togo-download.com/en/privacypolicy) for the most accurate reproduction.*
 
 # togo-download.com - The latest software for free
 
