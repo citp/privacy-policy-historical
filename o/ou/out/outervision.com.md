@@ -1,84 +1,118 @@
-> *The following text is extracted and transformed from the outervision.com privacy policy that was archived on 2017-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170322171955id_/http%3A//outervision.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outervision.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227132245id_/https%3A//outervision.com/privacy-policy) for the most accurate reproduction.*
 
 # eXtreme Outer Vision Privacy Policy
 
-June 14, 2016
+**Last Revised: April 25, 2018**
 
-At eXtreme Outer Vision we recognize that privacy is important. This Policy applies to all of the products, services and websites offered by eXtreme Outer Vision.
+This privacy policy has been compiled to better serve those who are concerned with how their 'Personally Identifiable Information' (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website. 
 
-**Non-US Visitors**  
-Our privacy policy is intended to meet the laws and requirements of the United States. If you are visiting from outside the United States any information you provide will be treated in accordance with the laws of the United States. 
+* * *
 
-If you have any questions about this Policy or you feel that eXtreme Outer Vision is not abiding by our posted Privacy Policy, you should [contact us](https://web.archive.org/contact-us) through our website.
+**What personal information do we collect?**
 
-**Information we collect and how we use it:**
+eXtreme Outer Vision cares about your privacy.  For this reason, we collect and use personal data only as it might be needed for us to deliver to you our world-class services and websites (collectively, our “Services”). Your personal data includes information such as:
 
-eXtreme Outer Vision is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others except as disclosed in this statement. eXtreme Outer Vision collects information from our users at several different points on our website. We offer a number of services that do not require you to register for an account or provide any Personally Identifying Information to us. In order to provide our full range of services, we may collect the following types of information:
-
-  * **Registration** \- When you sign up for an eXtreme Outer Vision Account ("My Account") you must first complete the registration form. During registration, we ask you for Personally Identifying Information such as your name, account password and email address. This email address is used to contact you about any services on our site in which you've expressed interest. 
-  * **Ordering** \- When you place an order for access to eXtreme Outer Vision Paid Services, your contact information (such as name and billing address) and financial information (such as credit card number and expiration date) is securely processed by an outside credit card and online payments processing company to bill users for services. The eXtreme Outer Vision does not store your billing and financial information. If we have trouble processing an order, your registration email is used to get in touch with you. 
-  * **eXtreme Outer Vision cookies** \- When you visit eXtreme Outer Vision website, we send one or more cookies - a small file containing a string of characters - to your computer that uniquely identifies your browser. We use cookies to improve the quality of our service. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some eXtreme Outer Vision features and services may not function properly if your cookies are disabled. eXtreme Outer Vision does not sell or rent any information that we gather through the use of cookies. 
-  * **Third-Party Advertising** \- We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. 
-
-eXtreme Outer Vision does not provide any personal information to a advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. Downloads or other content interacted with from third party advertisers is subject to the advertiser's privacy policies, not this one. 
-
-eXtreme Outer Vision lets other companies that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to eXtreme Outer Vision's cookies. 
-
-  * **Third Party Cookies and IP Addresses** \- In the course of serving advertisements to this site, our third-party ad server may place or recognize a unique "cookie" on your browser. 
-
-Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising. 
-
-Most browsers are automatically set to accept cookies. You can disable cookies or set your browser to alert you when cookies are being sent. However, some areas will not function properly if you do so. There are many sources for additional information about Internet cookies, and we encourage anyone concerned about the use of cookies to do more research on the topic so you can make an informed decision about accepting them from any site. As technology advances and cookies provide more functionality, we expect to utilize them in different ways. 
-
-An Internet Protocol address (IP address) is unique string of numbers that is assigned to your computer by your Internet Service Provider. Web servers automatically identify your computer by its IP address. We will use your IP address to help diagnose problems with our server and to administer our site. Your IP address also may be used to gather broad demographic information. The IP address is not tied to any personally identifiable information. 
-
-  * **Log information** \- When you use eXtreme Outer Vision services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser. 
-  * **User communications** \- When you send email or other communication to eXtreme Outer Vision, we may retain those communications in order to process your inquiries, respond to your requests and improve our services. 
-  * **Links** \- eXtreme Outer Vision may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our search technology, customized content and advertising. The eXtreme Outer Vision site contains links to other sites. We are not responsible for the privacy practices of other sites. We encourage you to be aware when you leave our site, and to read the privacy statements of each and every web site that collects your Personally Identifiable Information. This privacy statement applies solely to information collected by eXtreme Outer Vision with respect to your use of our services. 
+  * Name
+  * Address
+  * Telephone number
+  * Email address
+  * Other data collected that could directly or indirectly identify you.
 
 
 
-**Choices for Personally Identifying Information**
+Our Privacy Policy is intended to describe to you how and what data we collect, and how and why we use your personal data. It also describes options we provide for you to access, update or otherwise take control of your personal data that we process. 
 
-When you sign up for a particular service that requires registration, we ask you to provide Personally Identifying Information. If we use this information in a manner different than the purpose for which it was collected, then we will ask for your consent prior to such use. 
+If at any time you have questions about our practices or any of your rights described below, you may reach us by completing the following [contact form](https://web.archive.org/contact-us). The inbox associated with this contact form is actively monitored and managed, so that we can deliver an experience that you can confidently trust. 
 
-You can decline to submit Personally Identifying Information to any of our services, in which case eXtreme Outer Vision may not be able to provide those services to you. 
+We collect information so that we can provide the best possible experience when you utilize our Services.  Much of what you likely consider personal data is collected directly from you when you: 
 
-**Information sharing**
+(1)    request assistance from our customer support team (ex: email); 
 
-We sometimes share aggregated demographic information with our partners. This aggregated information is not linked to any information that can identify an individual person. eXtreme Outer Vision only shares Personally Identifying Information with other companies or individuals outside of eXtreme Outer Vision in the following limited circumstances: 
+(2)    complete contact forms or request product updates or request newsletters or other information from us (ex: email); or
 
-  * We have your consent. We require opt-in consent for the sharing of any sensitive Personally Identifying Information. 
-  * We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable [Terms and Conditions](https://web.archive.org/terms), including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of eXtreme Outer Vision, its users or the public as required or permitted by law. 
+(3)    participate in contests and surveys, or otherwise participate in activities we promote that might require information about you.  
+
+However, we also collect additional information when delivering our Services to you to ensure necessary and optimal performance.  These methods of collection may not be as obvious to you, so we wanted to highlight and explain below a bit more about what these might be (as they vary from time to time) and how they work:
+
+**Cookies**   **and similar technologies**  on our websites and our mobile applications allow us to track your browsing behavior, links clicked, items purchased, your device type, and to collect various data, including analytics, about how you use and interact with our Services. This allows us to provide you with more relevant product offerings, a better experience on our sites and mobile applications, and to collect, analyze and improve the performance of our Services. We may also collect your location (IP address) so that we can personalize our Services. For additional information, and to learn how to manage the technologies we utilize, please visit our [Cookie Policy](https://web.archive.org/cookie-policy).   
+
+**Data about Usage of Services**  is automatically collected when you use and interact with our Services, including metadata, log files, cookie/device IDs and location information. This information includes specific data about your interactions with the features, content and links (including those of third-parties, such as social media plugins) contained within the Services, Internet Protocol (IP) address, browser type and settings, the date and time the Services were used, information about browser configuration and plugins, language preferences and cookie data, information about devices accessing the Services, including type of device, what operating system is used, device settings, application IDs, unique device identifiers and error data, and some of this data collected might be capable of and be used to approximate your location. 
+
+**Supplemented Data  **We do not collect or use Supplemented Data for storing information to target advertising to you on or off our sites.
+
+**How do we use your information?**
+
+We strongly believe in both minimizing the data we collect and limiting its use and purpose to only that (1)  _for which we have been given permission_ , (2)  _as necessary to deliver the Services you interact with_ , or (3)  _as we might be required or permitted for legal compliance or other lawful purposes_. These uses include:
+
+**Delivering, improving, updating and enhancing the Services we provide to you.   **We collect various information relating to your use and/or interactions with our Services. We utilize this information to:
+
+  * Improve and optimize the operation and performance of our Services (again, including our websites and mobile applications)
+  * Diagnose problems with and identify any security risks, errors, or needed enhancements to the Services
+  * Detect and prevent fraud and abuse of our Services and systems
+  * Collecting aggregate statistics about use of the Services
+  * Understand and analyze how you use our Services and what products and services are most relevant to you.
 
 
 
-If eXtreme Outer Vision becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will provide notice before Personally Identifying Information is transferred and becomes subject to a different privacy policy. 
+Often, much of the data collected is aggregated or statistical data about how individuals use our Services, and is not linked to any personal data, but to the extent it is itself personal data, or is linked or linkable to personal data, we treat it accordingly. 
 
-Please [contact us](https://web.archive.org/contact-us) for any additional questions about the management or use of personal data. 
+**Third-party disclousure.  **With your consent only, we may share your personal information such as _Name, Address, Email, Telephone Number_ with our trusted partners in order to supply you with prizes via our contests or giveaways in which you have willingly participated in. Otherwise, we do not sell, trade, or transfer to outside parties your Personally Identifiable Information.
 
-**Special Offers**
+**Communicating with you.  **We may contact you directly regarding products or services you have signed up from us, such as necessary to deliver service related communications. ** ** We may also contact you with offers for additional services we think you’ll find valuable if you give us consent, or where allowed based upon legitimate interests. These contacts may include:
 
-Occasionally, eXtreme Outer Vision may send registered users information on products, services, and special deals via email. As a paid subscriber you may choose to be removed from this email list at any time, by unsubscribing on eXtreme Outer Vision Home Page. 
+  * Email
+  * Text (SMS) messages
 
-**Information security**
 
-We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures. 
 
-**Data integrity**
+If you wish to unsubscribe from our Service update or Product availability emails, you may do so by submitting us a request via the following [contact form](https://web.archive.org/contact-us). Your email address will be unsubscribed within 72 hours of request.
 
-eXtreme Outer Vision processes Personally Identifying Information only for the purposes for which it was collected and in accordance with this Policy or any applicable service-specific privacy notice. We review our data collection, storage and processing practices to ensure that we only collect, store and process the Personally Identifying Information needed to provide or improve our services. We take reasonable steps to ensure that the Personally Identifying Information we process is accurate, complete, and current, but we depend on our users to update or correct their Personally Identifying Information whenever necessary. 
+If you believe that anyone has provided us with your personal information and you would like to request that it be removed from our database, please contact us by completing the following [contact form](https://web.archive.org/contact-us).
 
-**Accessing and updating Personally Identifying Information**
+**Transfer of personal data abroad**.  If you utilize our Services from a country other than the country where our servers are located, your communications with us may result in transferring your personal data across international borders. Also, when you call us or initiate a chat, we may provide you with support from our US location that may be outside your country of origin. In these cases, your personal data is handled according to this Privacy Policy.
 
-When you use eXtreme Outer Vision services, we make good faith efforts to provide you with access to your Personally Identifying Information to correct this data if it is inaccurate or we can delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. 
+**Compliance with legal, regulatory and law enforcement requests**. We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (such as subpoena requests), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical.
 
-**Enforcement**
+To the extent we are legally permitted to do so, we will take reasonable steps to notify you in the event that we are required to provide your personal information to third parties as part of legal process. We will also share your information to the extent necessary to comply with ICANN or any ccTLD rules, regulations and policies when you register a domain name with us.
 
-eXtreme Outer Vision regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or eXtreme Outer Vision's treatment of Personally Identifying Information by [contacting us](https://web.archive.org/contact-us) through this web site. When we receive formal written complaints, it is eXtreme Outer Vision's policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between eXtreme Outer Vision and an individual. 
+**Website analytics**.  We use multiple web analytics tools provided by service partners such as Google Analytics and AddThis to collect information about how you interact with our website or mobile applications, including what pages you visit, what site you visited prior to visiting our website, how much time you spend on each page, what operating system and web browser you use and network and IP information. We use the information provided by these tools to improve our Services. These tools place persistent cookies in your browser to identify you as a unique user the next time you visit our website. Each cookie cannot be used by anyone other than the service provider (ex: Google for Google Analytics). The information collected from the cookie may be transmitted to and stored by these service partners on servers in a country other than the country in which you reside. Though information collected does not include personal data such as name, address, telephone number, email address, etc., the information collected is used and shared by these service providers in accordance with their individual privacy policies. You can control the technologies we use by managing your settings through our [Cookie Policy](https://web.archive.org/cookie-policy) or by utilizing settings in your browser or third-party tools, such as [Disconnect](https://disconnect.me/disconnect), [Ghostery](https://www.ghostery.com/) and others.
 
-**Changes to this policy**
+**Targeted advertisements.  **Targeted ads or interest-based offers may be presented to you based on your activities on our webpages, and other websites, and based on the products you currently own.  These offers will display as varying product banners presented to you while browsing. We also partner with third parties to manage our advertising on our webpages and other websites.  Our third party partners may use technologies such as cookies to gather information such activities in order to provide you with advertising based upon your browsing activities and interests, and to measure advertising effectiveness.  If you wish to opt out of interest-based advertising click [here](http://preferences-mgr.truste.com/) [or if located in the European Union click [here](http://www.youronlinechoices.eu/)]. Please note you will continue to receive generic ads.
 
-Please note that this Privacy Policy may change from time to time. It is your responsibility to refer to this Privacy Policy. Continued use of this site after such changes to Privacy Policy constitutes acceptance of those posted changes. We will not reduce your rights under this Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Policy changes). Each version of this Policy will be identified at the top of the page by its effective date. 
+**Third-party websites**.  Our website and our mobile applications contain links to third-party websites. We are not responsible for the privacy practices or the content of third-party sites.  Please read the privacy policy of any website you visit.
 
-If you have any additional questions or concerns about this Policy, please feel free to [contact us](https://web.archive.org/contact-us) any time through this web site. 
+**The E.U-U.S and Swiss-U.S. Privacy Shield Frameworks.**
+
+**How you can access, update or delete your data.**
+
+Since our Services do not require user registration or account creation the only personal information that we store is your Email Address, which you used to subscribe to our Service or Product updates.
+
+To view, update, delete or port your personal data (where available), or to unsubscribe from our Service updates or Product availability emails, please submit us a request via the following [contact form](https://web.archive.org/contact-us).
+
+**How we secure, store and retain your data.**
+
+We follow generally accepted standards to store and protect the personal data we collect, both during transmission and once received and stored, including utilization of encryption where appropriate.
+
+We retain personal data only for as long as necessary to provide the Services you have requested and thereafter for a variety of legitimate legal or business purposes. These might include retention periods:
+
+  * mandated by law, contract or similar obligations applicable to our business operations;
+  * for preserving, resolving, defending or enforcing our legal/contractual rights; or
+  * needed to maintain adequate and accurate business and financial records.
+
+
+
+If you have any questions about the security or retention of your personal data, you may reach us by completing the following [contact form](https://web.archive.org/contact-us).
+
+_**‘Do Not Track’**_ **  notifications.**
+
+Some browsers allow you to automatically notify websites you visit not to track you using a “Do Not Track” signal. There is no consensus among industry participants as to what “Do Not Track” means in this context. Like many websites and online services, we currently do not alter our practices when we receive a “Do Not Track” signal from a visitor’s browser. To find out more about “Do Not Track,” you may wish to visit [www.allaboutdnt.com](http://www.allaboutdnt.com/).
+
+**Changes in our Privacy Policy.**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If we make material changes to this Privacy Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contact us.**
+
+If you have any questions, concerns or complaints about our Privacy Policy, our practices or our Services, you may reach us by completing the following [contact form](https://web.archive.org/contact-us).
+
+**_We will respond to all requests, inquiries or concerns within thirty (30) days._**
