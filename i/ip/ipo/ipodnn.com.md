@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipodnn.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618020329id_/https%3A//appleinsider.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipodnn.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227225522id_/https%3A//appleinsider.com/privacy) for the most accurate reproduction.*
 
 # Apple news and rumors since 1997 | AppleInsider
 
@@ -30,13 +30,13 @@ Affiliate referrals may utilize cookies, which are subject to the privacy policy
 
 A portion of the advertisements displayed on the AppleInsider Network are served by third-party advertisement providers, including Oath, Adblade, Conversant Media, Datonics, Exponential Interactive and Google. These companies may use information about your visits to this and other websites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. 
 
-Exponential Interactive, Inc, as our partner, have a legitimate interest to collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. For more details including opt-out requests, access requests or complaints, please review their [privacy policy](http://exponential.com/privacy/) or contact their data protection officer via [privacy@exponential.com](mailto:privacy@exponential.com). 
+Exponential Interactive, Inc, as our partner, have a legitimate interest to collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. For more details including opt-out requests, access requests or complaints, please review their [privacy policy](http://exponential.com/privacy/) or contact their data protection officer via [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c7b7b5aeb1a6a4be87a2bfb7a8a9a2a9b3aea6abe9a4a8aa). 
 
 AppleInsider also periodically hosts product giveaways powered by Gleam or Rafflecopter. By entering the giveaway, participants agree to Gleam's privacy policy located here: <https://gleam.io/privacy> and Rafflecopter's Privacy Policy located here: <http://www.rafflecopter.com/rafl/privacy/>. No purchase is necessary to enter a giveaway hosted on AppleInsider.com. Giveaways are open to U.S. residents only. 
 
 Please visit the National Advertising Initiative's opt-out management page for further information or to opt-out of behavioral advertising from many providers. 
 
-We are committed to continuing to protect the privacy of our readers. If you have any additional questions, please contact us at Privacy@AppleInsider.com. 
+We are committed to continuing to protect the privacy of our readers. If you have any additional questions, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 We recommend that you review this Privacy Statement / Affiliate Link Disclosure periodically, as AppleInsider may update it from time to time without notice to its users. 
 
