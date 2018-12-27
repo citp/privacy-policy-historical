@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the showmelocal.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616035349id_/http%3A//www.showmelocal.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the showmelocal.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227143508id_/http%3A//www.showmelocal.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # ShowMeLocal.com - Privacy Policy
 
@@ -91,7 +91,7 @@ We may update this privacy statement to reflect changes to our information pract
 
 ## Cookie Poilicy
 
-Please review our cooking policy [here](https://web.archive.org/web/20180616035349id_/http%3A//www.showmelocal.com/cookie-policy.aspx). 
+Please review our cooking policy [here](https://web.archive.org/web/20181227143508id_/http%3A//www.showmelocal.com/cookie-policy.aspx). 
 
 ## Feedback
 
