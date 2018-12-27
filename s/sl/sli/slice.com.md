@@ -1,126 +1,154 @@
-> *The following text is extracted and transformed from the slice.com privacy policy that was archived on 2018-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180321025701id_/https%3A//www.slice.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slice.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227103341id_/https%3A//www.slice.com/privacy) for the most accurate reproduction.*
 
 # Slice - Privacy Policy
 
-Last updated: July 5, 2016
+Last updated on December 12th, 2018
 
-Slice’s services allow you to analyze and organize email receipts and related information in an integrated, actionable environment so you can obtain maximum benefits from your purchasing activities. To provide you with Slice’s services, including All My Purchases® and services that Slice provides to third-party websites, Slice collects information about you. As described below, Slice is able to offer its services to you for free through the development and marketing of anonymous consumer data. In this privacy policy we describe the information we collect and how we use and share it. By using Slice’s websites, mobile apps, or services that facilitate the provision of such websites and mobiles apps ("Services"), and accepting the [Terms of Service](https://www.slice.com/tos), you agree to this Privacy Policy. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, YOU MAY NOT USE THE SERVICES.
+Data security and privacy are a priority for Slice, and its group companies (“Slice” or “we”). This privacy policy describes:
 
-### I. SCOPE OF PRIVACY POLICY
-
-This Privacy Policy applies to information collected by Slice. Our Privacy Policy does not apply when you navigate away from the Services. We included several annotations in boxes to help explain or emphasize key sections. These annotations are for convenience only and have no legal or contractual effect.
-
-Slice considers personal information to be information that can be used to determine the actual identity of a specific individual and to contact that person, such as name, address, email address, and/or phone number. We do not consider personal information to include information that, taken alone, does not allow a third party to easily identify and contact a specific individual.
-
-### II. HIGHLIGHTS OF WHAT YOU ARE CONSENTING TO
-
-By using the Services, you are consenting to:
-
-## We collect your information when you:
-
-  * register to use the Services;
-  * link email and other accounts to the Services;
-  * log in with social networking credentials;
-  * use the Services; and
-  * communicate with us.
+  * the information we collect through our websites, apps and other consumer-facing services (the “Service”); 
+  * how we use this information;
+  * with whom we share it; 
+  * and how we protect it. 
 
 
 
-We also collect information such as anonymous usage statistics, using cookies, server logs, and other similar technology as you use the Site.
+This privacy policy also provides you with information about:
 
-  * the collection, use, and processing of information collected from the online accounts you connect to the Service, such as email receipts;
-  * the use of Cookies and Related Technologies;
-  * the sharing of anonymous transaction information with third parties;
-  * the sharing of personal information, including transaction information, with service providers and vendors;
-  * the collection, use, sharing and other processing of your information as otherwise described in this Privacy Policy.
+  * how you can request to access, stop the collection of, or delete your personal information (information that can be used to locate or identify you); 
+  * how to withdraw any consent you previously provided to us; and
+  * where to go if you have questions about our privacy practices.
 
 
 
-### III. THE INFORMATION WE COLLECT
+### Information that we collect and how we use it
 
-**Registration and Customer Support.** Slice collects personal information when you register, such as your name and email address. We may also collect personal information from you in other ways, such as through communications you may have with our customer support team.
+We collect information from you in several ways. You directly provide us with some information about you, you authorize us to collect other types of information, and we automatically collect certain types of information. As described in the section “How We Protect Your Information,” after we collect your information, we undertake a process that is designed to de-identify this information, and we may further combine or aggregate this information with other information available to us or our trusted business partners. Once the information is processed, we use and/or share this data for research and business purposes, subject to applicable laws.
 
-**Email and Other Accounts.** You may also provide information necessary to use the Services, such as the login credentials for your email, social networking, or other Internet accounts that you link to the Services. By linking the Services to your email or other Internet accounts, you authorize us to gather, parse, and retain information, including personal information, from past and future emails and other communications you receive that relate to your online and offline shopping and purchasing ("transaction information").
+**Information you provide to us:** When you register for the Service, you provide us with basic contact information, such as name and email address. You may also provide us with information when you interact with us, such as:
 
-**Social Sign-On.** We receive and retain basic information about you when you use a social media website (such as Facebook) to log into the Services. This information generally includes your name, email, website ID and public profile with the service. We may receive and retain demographic information about you through a social sign-on.
-
-**From Others.** We may collect information from vendors and suppliers and combine it with information that we have about you.
-
-**Cookies and Related Technologies.** Slice uses "cookies" and similar technologies to collect and store information that is generated automatically as you use the Services, including your preferences and usage statistics. Most browsers allow you to manage cookies, including blocking and deleting them. If you block or delete our cookies, the Services may not work as well or at all for you. Slice also records information on our server logs that is collected from your browser, including your IP address, Slice cookie information, and the pages you request, and relates it to the personal information you provide.
-
-**Mobile Device Information.** Slice uses tools, including third party analytical software, to automatically collect certain anonymous data about your device that does not directly identify you, such as: (i) device properties, including, but not limited to unique or other device identifier; (ii) device software platform and firmware; (iii) mobile phone carrier; (iv) geographical data such as country or region; (v) other similar data as reasonably required by Slice to enhance the Services and other Slice products and services.
-
-**Usage Information.** When you use our Services, we will automatically collect information about how you use our Services.
-
-**Do Not Track Browser Signals.** At this time, the Slice websites and services do not recognize automated browser signals regarding tracking mechanisms, which may include "do not track" instructions. However, you may be able to change your privacy preferences regarding the use of cookies and similar technologies through your browser, as described above.
-
-### IV. HOW WE MAY USE YOUR INFORMATION
-
-We will use the information we collect, including your personal information and transaction information: (i) for internal and service-related purposes, such as to provide, improve, and personalize our Services, and to develop new ones; (ii) to communicate with you in order to provide you with information we think may be useful or relevant to you; (iii) to promote the Services; (iv) to analyze information in order to offer anonymized data products to third parties; (v) to facilitate the sharing of anonymized information, including transaction data, as set forth below; (vi) to enforce this Privacy Policy, the Terms of Service, and to protect the rights, property, or safety of Slice or its users; and (vii) as otherwise stated in this Privacy Policy.
-
-## We use your information to:
-
-  * facilitate and improve our services;
-  * build anonymous market research products and services with partners; and 
-  * communicate with you.
+  * when you sign up for email alerts, 
+  * subscribe to receive information, 
+  * complete a survey, or 
+  * seek customer support. 
 
 
 
-We may use anonymous information for any purpose, including for marketing purposes.
+From time to time we will request additional information from you so that we can provide you with a specific offer, function, or feature. We use the information that you provide us to:
 
-### V. HOW WE SHARE YOUR INFORMATION
-
-We may rent, sell, or share personal or transaction information with other people or non-affiliated companies for certain purposes.
-
-**Service Providers.** Slice may disclose your information, including personal information and transaction information, to service providers for the purposes of managing, providing, and improving the Services, analyzing usage of the Services, and for marketing purposes.
-
-**Vendors and Suppliers.** We may share information, including personal and transaction information, with vendors and suppliers to collect additional information about you from them or to help us provide anonymized data to others.
-
-**Anonymous Use and Sharing.** We may share with others anonymized transaction information for market research, data modeling, and analytics. Such information will not include personal information, but may include unique identifiers such as device identifiers or "hashes" of email addresses.
-
-## We may share your information:
-
-  * with our vendors, suppliers, and service providers;
-  * with others when it is anonymized;
-  * to comply with legal obligations;
-  * to protect and defend our rights and property.
+  * bring you the Service,
+  * allow you to create and manage your account with us,
+  * contact you about updates to and offers connected with the Service,
+  * provide you with customer service and technical support, and 
+  * provide you with important notices about the Service. 
 
 
 
-**Third Party Support and Usage.** We allow third parties to use the Services as part of their services. If you authorize a third party using our Services to access and scan your email, the third party’s treatment of the data in your email, including any personal information accessed by the third party, will be subject to that third party’s terms of service and privacy policies, even if you have also directly signed up for a Slice account.
+**Information you authorize us to collect:** In order for us to perform tasks that are part of the Service, we need to access your email account(s). You authorize this access by agreeing to this privacy policy and providing any consent required by your email provider.
 
-**For Legal Reasons.** We may access, preserve, and disclose collected information if we believe doing so is required or appropriate to: comply with law enforcement requests and legal process, such as a court order or subpoena; respond to your requests; or protect the rights, property, or safety of you, Slice, or others.
+We use this access to:
 
-**Merger or Sale.** If all or a portion of Slice or its assets are sold or transferred, personal information and other information we have collected may be treated as an asset and transferred in accordance with this Policy.
+  * perform the functions of the Service, such as package tracking, getting money back, and easily accessing your receipts; 
+  * develop and offer new services; 
+  * tailor content as part of our Service such as in our roll-up summaries; and
+  * support our market research business. 
 
-**Your Permission.** We may also disclose your personal information with your permission.
 
-### VI. HOW WE SECURE YOUR PERSONAL INFORMATION
 
-Slice limits access to your personal information. We have physical, electronic, and administrative procedures in place to protect and help prevent unauthorized access and use of personal information.
+Specifically, we access information from transaction-related emails that you receive to develop and prepare market research datasets and analyses with the assistance of and, in combination with data that is available to, our parent company, our affiliate companies, and other trusted business partners. Examples of the transaction-related emails that we or our trusted business partners process include purchase receipts, sales receipts, delivery confirmations and returns, subscription confirmations and cancellations, registration confirmations, transaction summaries and the like. This market research is used by Fortune 500 companies, household name brands, investment companies and other businesses for purposes such as:
 
-No data transmissions through the Internet or via mobile devices, or even the physical transfer of information, can be guaranteed to be completely secure. We cannot fully eliminate all security risks associated with personal information. We do not ensure or warrant the security of any data or information you transmit to us, and you do so at your own risk.
+  * understanding industry and business trends;
+  * improving the goods, services or offers provided to customers; 
+  * improving business operations;
+  * understanding the competitive landscape;
+  * understanding where to make investments; or 
+  * gaining other business insights. 
 
-You agree that we may communicate with you electronically regarding security, privacy, and administrative issues, such as security breaches. We may post a notice on our website if a security breach occurs. We may also send an email to you at the email address you have provided to us.
 
-### VII. INTERNATIONAL VISITORS
 
-Slice is hosted in and intended for use in the United States by U.S. residents. We may transfer your personal information within Slice and anywhere in the world in accordance with this policy. Slice may also subcontract processing to, or share your information with, third parties located in countries other than your home country.
+**Information that we automatically collect.** We may automatically collect information about the way that you use or interact with our Service so that we can:
 
-By using the Services, you will transfer data to the United States.
+  * tailor content within our Service, such as in roll-up summaries;
+  * provide users with access to our website, app, service, or feature; 
+  * better understand our users, their interests and preferences; and
+  * develop, deliver, and improve the services we offer. 
 
-If you are visiting from the European Union or other regions with laws governing data collection and use, please note that you are agreeing to the transfer of your personal information to the United States by Slice. By providing your personal information you consent to any transfer and processing in accordance with this Policy.
 
-### VIII. HOW TO CONTACT US
 
-If you have questions or suggestions, please email Slice at [support@slice.com](mailto:support@slice.com) or call (650) 323-9100. Written communication should be sent to Slice Technologies, Inc., Attn: Customer Affairs, 800 Concar Dr Ste 175, San Mateo, CA 94402.
+The type of information we collect through automated means include technical details about the devices you use with our Service (such as IP address or other device identifier), usage information and statistics about your interaction with our websites, the URLs of our web pages that you visit, URLs of referring and exiting pages, page views, time spent on a page, number of clicks, platform type, and other information about how you use our Service.
 
-### IX. HOW TO REVIEW OR CORRECT YOUR PERSONAL INFORMATION, OR CLOSE YOUR ACCOUNT.
+Please note that if there are features of our Services that are provided by third parties, those parties also may use automated means of data collection that are subject to those third parties’ privacy notices and policies.
 
-Upon request, we will provide an individual with access to personal information that we have collected about them (provided that they have given proof of identity). Personal information can be requested and corrected by contacting us using the contact information above.
+Here are some of the types of automated data collection that occur when you use our sites:
 
-You may choose to deactivate your Slice account through your account settings. If you do, we will disassociate your personal information from your purchase data.
+**Web Browsers:** When you visit one of our websites, your browser automatically sends us your Internet protocol (“IP”) address so that the web pages you request can be sent to your computer or device. We use your IP address to determine additional information, such as whether the computer or device has ever been used to visit our site before, which site features were used most often, and how much time was spent on a page.
 
-### X. HOW WE MAY UPDATE OUR PRIVACY POLICY
+**Cookies:** We automatically collect information through “cookies,” which are text files placed on your device’s hard drive when you visit websites. Cookies can enhance your online experience by saving your preferences while you are visiting a particular site. We use cookies to help us manage and understand how you use our website. For example, we use cookies for authentication purposes, to measure session activity on the site, and to determine which areas and features of the site are the most popular. If you wish to disable cookies, you can do so by adjusting the settings for the browser that you use. If you do choose to disable cookies through your browser, you will not able to take full advantage of all our site features.
 
-From time to time, we may use personal information for new, unanticipated uses not previously disclosed in our Privacy Policy. If our information practices change, we will immediately post any adjustments to our Privacy Policy on this website. The revised version will be effective at the time we post it, unless the revised version includes a change that would be materially less restrictive on our use of your personal information. In such case, we will provide you with 30 days' prior notice on this website. You may bookmark this page and check it periodically for updates.
+**Web Beacons and Log Files:** We may use “web beacons” (also known as Internet tags, pixel tags, tracking pixels, and clear GIFs) on pages of our websites. These web beacons allow third parties to collect information such as the IP address of the device, the URL of the web page, the time the page was viewed, the type of browser used, and any additional information in cookies that may have been set by the third party. The information is typically collected in log files, which generally track traffic on our websites. We use web beacons to manage the content we present and for analytical purposes (such as understanding our users, and how they interact with our site, and assisting us in managing and improving our site and Service). We do not attempt to identify individual users through this information.
+
+**Do Not Track Browser Signals.** At this time, our Service does not recognize automated browser signals regarding tracking mechanisms, which may include “do not track” instructions. However, you may be able to change your privacy preferences regarding the use of cookies and similar technologies through your browser, as described above.
+
+### Information That We Share
+
+We share the information we collect to the following:
+
+  * our parent company, who helps us process our data, and develop market research datasets and analyses;
+  * our affiliated companies, who enhance our market research capabilities by combining the information that we collect with other information available to them;
+  * third-party service providers that help us operate and improve our Service;
+  * third-party service providers that help us collect, store and process data;
+  * third-party business partners that work with us to develop and resell products; and
+  * customers (including third parties and affiliates) that have access to our market research datasets and analyses.
+
+
+
+We may also disclose information about you: 
+
+  1. if we are required to do so by law or legal process,
+  2. to law enforcement authorities or other government officials,
+  3. when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity, or 
+  4. if necessary to protect the vital interests of another individual.
+
+
+
+Additionally, we reserve the right to transfer personal information we have about you in the event we sell or transfer all or a portion of our business or assets.
+
+As described in the section “How We Protect Your Information,” after we collect your information, we undertake a process that is designed to de-identify this, and we may further combine or aggregate this information with other information available to us or our trusted business partners. Once the information is processed, we use and/or share this data for research and business purposes, subject to applicable laws.
+
+### How We Protect Your Information
+
+Data security and privacy are a priority for us, and with the assistance of our parent company, our affiliated companies and other trusted business partners, we undertake a process that is designed to de-identify / aggregate the information that we collect, and we may further combine or aggregate this information with other information available to us or our trusted business partners. Once the information is processed, we use and/or share this data for research and business purposes, subject to applicable laws. 
+
+We maintain administrative, technical and physical safeguards to protect your personal information from accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use and other unlawful forms of processing. This said, no data transmissions through the Internet or via mobile devices, or even the physical transfer of information, can be guaranteed to be completely secure. We cannot fully eliminate all security risks associated with personal information. As such, we do not ensure or warrant the security of any data or information you transmit to us, and you do so at your own risk.
+
+### Your Choices
+
+In certain cases, you may have choices about how we use and disclose your personal information. For example, we will ask you before we use your personal information for any purpose incompatible with those purposes identified in this policy. If we provide you with any marketing messages, we also will give you an opportunity to opt out of receiving further messages.
+
+You can also choose not to give us the information we request, as described in the “Information You Provide to Us” section of this policy. In some cases, if you decide not to provide information, we will not be able to provide you with access to the site you requested, or we may not be able to provide you with the service, feature or information you requested.
+
+In some cases, you can stop or limit the information we collect by automated means. Please review the sections of this policy titled “Information Collected by Automated Means” to learn more about how you may be able to stop or limit our receipt of that information.
+
+Should you wish to delete your account, you can do so by following these [instructions](https://support.slice.com/hc/en-us/articles/115002863463-How-do-I-deactivate-my-Slice-account-). You may also exercise and amend your choices by sending an email to us as specified in the “How to Contact Us” section below.
+
+### Access and Correction
+
+We will provide you with the ability to access and update certain information we have about you, such as the contact information you provide as part of your registration process. Please submit your request by sending an email to the address specified in the “How to Contact Us” section below. Please include your name, email address and postal address in your request so that we may respond appropriately.
+
+### Links to Other Sites
+
+We may provide links to other sites for your convenience and information. These sites may be operated by organizations not affiliated with Slice, so we cannot control and are not responsible for their content, operation, or privacy practices. Those organizations may have their own privacy policies, which we strongly suggest you review if you use other sites. This Notice does not apply to those sites, even if we link to them or they link to us.
+
+### Transfers of Information
+
+As part of our international operations, we may transfer information about you to a jurisdiction where we do business. Even if those jurisdictions do not have the same privacy laws as the jurisdiction where you reside, we will treat your information as subject to the protections described in this policy.
+
+Our service is currently not offered to individuals from the European Union, and we have discontinued service for individuals that may have signed up from the European Union. 
+
+### Updates to Our Privacy Notice
+
+This privacy policy may be updated periodically to you to reflect changes in our information practices or relevant laws. We will indicate at the top of the policy when it was updated. Please review this Notice any time you access or use our sites to make sure you have reviewed the most recent version.
+
+### How to Contact Us
+
+If you have any questions or comments about this privacy policy or if you would like us to update information we have about you or your preferences, please contact us at [support@slice.com.](mailto:support@slice.com)
