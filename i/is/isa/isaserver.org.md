@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the isaserver.org privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629181222id_/http%3A//techgenix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isaserver.org privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227092529id_/http%3A//techgenix.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TechGenix
+
+  
+We use Ezoic to provide personalization and analytic services on this website, as such Ezoic's privacy policy is in effect and can be reviewed [here](http://g.ezoic.net/privacy/techgenix.com).  
+
 
 ## Introduction
 
@@ -37,7 +41,7 @@ TechGenix uses your personal information for several general purposes. We may us
 
 From time to time we may also use your personal information to send you important notices such as communications about the Websites, Services, your subscription, renewals, technical issues, security announcements or changes to our terms or policies.
 
-Additionally, we may also use personal information you provide to contact you regarding products, services, upcoming events and offers both from ourselves and third parties that we believe you may find of interest. You may elect to opt-out of receiving marketing or promotional communication from us at any time by following the instructions contained within the e-mail or by sending a request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#60150e131502130312090205201405030807050e09184e030f0d)[.](http://www.techgenix.com/privacy-policy.htm#)
+Additionally, we may also use personal information you provide to contact you regarding products, services, upcoming events and offers both from ourselves and third parties that we believe you may find of interest. You may elect to opt-out of receiving marketing or promotional communication from us at any time by following the instructions contained within the e-mail or by sending a request to [[email protected]](http://techgenix.com/cdn-cgi/l/email-protection#7c09120f091e0f1f0e151e193c08191f141b19121504521f1311)[.](http://www.techgenix.com/privacy-policy.htm#)
 
 ## Information Sharing and Disclosure
 
@@ -59,11 +63,11 @@ We may be required to disclose your personal information and/or information with
 
 ## Your choices
 
-If you are a registered user of our Websites or Services and you do not want to be on our mailing list you can opt-out of receiving these communications at any point by sending an email to: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#25504b5650475646574c4740655140464d42404b4c5d0b464a48). You can also stop receiving marketing communications by following the instructions in the email you receive. These choices do not apply to the receipt of mandatory Website or Services communications that are considered part of the Services, including information about your subscription, renewals, technical issues, security announcements or changes to our terms or policies. Please be aware that if you opt-out of receiving commercial e-mail from us, it may take up to ten business days for us to process your opt-out request and you may receive commercial email from us during that period.
+If you are a registered user of our Websites or Services and you do not want to be on our mailing list you can opt-out of receiving these communications at any point by sending an email to: [[email protected]](http://techgenix.com/cdn-cgi/l/email-protection#d2a7bca1a7b0a1b1a0bbb0b792a6b7b1bab5b7bcbbaafcb1bdbf). You can also stop receiving marketing communications by following the instructions in the email you receive. These choices do not apply to the receipt of mandatory Website or Services communications that are considered part of the Services, including information about your subscription, renewals, technical issues, security announcements or changes to our terms or policies. Please be aware that if you opt-out of receiving commercial e-mail from us, it may take up to ten business days for us to process your opt-out request and you may receive commercial email from us during that period.
 
 ## Access to Information
 
-You have the right to request access to the information we have on you. You can do this by sending a message through our contact page at <http://www.techgenix.com/contact> or by sending an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ec85828a83ac98898f848b89828594c28f8381).
+You have the right to request access to the information we have on you. You can do this by sending a message through our contact page at <http://www.techgenix.com/contact> or by sending an email to [[email protected]](http://techgenix.com/cdn-cgi/l/email-protection#4d24232b220d39282e252a28232435632e2220).
 
 We will make sure to provide you with a copy of the data we have about you within a reasonable timeframe from the time of your request. In order to comply with your request, we may ask you to verify your identity. We will fulfill your request by sending your copy electronically. For any subsequent access requests, we may charge an administrative fee.
 
@@ -95,7 +99,7 @@ Our Websites provide links to other websites. We do not control, and are not res
 
 ## Children
 
-Children are not eligible to use our Websites and we ask that minors (under the age of 18) do not submit any personal information to us or use our Websites. Our Websites are not directed to children under 18 years of age. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with personal information without their consent, he or she should contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#45302b3630273626372c2720053120262d22202b2c3d6b262a28). If we become aware that a child under 13 has provided us with personal information, we will delete such information from our files.
+Children are not eligible to use our Websites and we ask that minors (under the age of 18) do not submit any personal information to us or use our Websites. Our Websites are not directed to children under 18 years of age. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with personal information without their consent, he or she should contact us at [[email protected]](http://techgenix.com/cdn-cgi/l/email-protection#1762796462756474657e7572576372747f7072797e6f3974787a). If we become aware that a child under 13 has provided us with personal information, we will delete such information from our files.
 
 ## Privacy Policy Changes
 
@@ -107,6 +111,6 @@ The Data Controller for the Websites and Services is TechGenix Ltd.
 
 ## Contact Us
 
-If you have any questions or comments about this Privacy Policy, please send an email to: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#9ef7f0f8f1deeafbfdf6f9fbf0f7e6b0fdf1f3b0)
+If you have any questions or comments about this Privacy Policy, please send an email to: [[email protected]](http://techgenix.com/cdn-cgi/l/email-protection#1b72757d745b6f7e78737c7e7572633578747635)
 
 _Privacy Policy last updated on May 29, 2018_
