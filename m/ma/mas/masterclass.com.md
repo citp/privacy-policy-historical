@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the masterclass.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627154735id_/https%3A//www.masterclass.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masterclass.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227230558id_/https%3A//www.masterclass.com/privacy) for the most accurate reproduction.*
 
 # MasterClass
 
-### _Date of Last Revision: May 23, 2018_
+### _Date of Last Revision: November 27, 2018_
 
 ## Our Policy
 
@@ -12,21 +12,21 @@ This Privacy Policy describes the data protection practices of Yanka Industries,
 
 This Privacy Policy contains the following sections:
 
-  * • The Information We Collect
-  * • How We Use Your Information
-  * • Legal Bases for Use of Your Information
-  * • Cookies and Similar Technologies
-  * • Online Analytics and Advertising
-  * • How We Share and Disclose Your Information
-  * • Retention of Your Information
-  * • Data Subject Rights and Your Choices
-  * • Third Party Links and Features
-  * • Children’s Privacy
-  * • International Users
-  * • How We Protect Your Information
-  * • California Privacy Rights
-  * • Changes to Our Privacy Policy
-  * • MasterClass Contact Information
+  * The Information We Collect
+  * How We Use Your Information
+  * Legal Bases for Use of Your Information
+  * Cookies and Similar Technologies
+  * Online Analytics and Advertising
+  * How We Share and Disclose Your Information
+  * Retention of Your Information
+  * Data Subject Rights and Your Choices
+  * Third Party Links and Features
+  * Children’s Privacy
+  * International Users
+  * How We Protect Your Information
+  * California Privacy Rights
+  * Changes to Our Privacy Policy
+  * MasterClass Contact Information
 
 
 
@@ -38,27 +38,27 @@ We obtain information about you through the means discussed below when we provid
 
 We collect a variety of information that you provide directly to us. For example, we collect information from you through:
 
-  * • The Services you use or processing your orders
-  * • Requests or questions you submit to us via online forms, email, or otherwise
-  * • Your participation in sweepstakes, contests, or surveys
-  * • Any reviews that you submit about the Services
-  * • Account registration and administration of your account
-  * • Uploads or posts to the Services
-  * • Requests for customer support and technical assistance
+  * The Services you use or processing your orders
+  * Requests or questions you submit to us via online forms, email, or otherwise
+  * Your participation in sweepstakes, contests, or surveys
+  * Any reviews that you submit about the Services
+  * Account registration and administration of your account
+  * Uploads or posts to the Services
+  * Requests for customer support and technical assistance
 
 
 
  While parts of the Services may not require you to provide any information that can directly identify you by name (such as if you choose to browse the website without logging in), the specific types of information we collect will depend upon the Services you use, how you use them, and the information you choose to provide. The types of data we collect directly from you includes:
 
-  * • Email address
-  * • Name, if you choose to provide it
-  * • Log-in credentials, if you create a MasterClass account
-  * • Billing information, such as shipping address of a gift card recipient, credit or debit card number, verification number, and expiration date
-  * • Information about purchases or other transactions with us
-  * • Information about your customer service interactions with us
-  * • Demographic information such as your gender or other information you choose to provide as part of your MasterClass profile
-  * • User-generated content you post in public forums such as when you comment on or review a class
-  * • Any other information you choose to directly provide to us in connection with your use of the Services
+  * Email address
+  * Name, if you choose to provide it
+  * Log-in credentials, if you create a MasterClass account
+  * Billing information, such as shipping address of a gift card recipient, credit or debit card number, verification number, and expiration date
+  * Information about purchases or other transactions with us
+  * Information about your customer service interactions with us
+  * Demographic information such as your gender or other information you choose to provide as part of your MasterClass profile
+  * User-generated content you post in public forums such as when you comment on or review a class
+  * Any other information you choose to directly provide to us in connection with your use of the Services
 
 
 
@@ -86,15 +86,15 @@ We may receive additional information such as demographic and statistical inform
 
 We, or our service providers, use your information for various purposes depending on the types of information we have collected from and about you, in order to:
 
-  * • Complete a purchase or provide the Services you have requested, including invoicing and accounting
-  * • Respond to your request for information and provide you with more effective and efficient customer service
-  * • Provide you with updates and information about classes in which you have enrolled
-  * • Contact you by email, postal mail, or phone regarding MasterClass and third-party products, services, surveys, research studies, promotions, special events and other subjects that we think may be of interest to you
-  * • Customize the advertising and content you see on the Services
-  * • Help us better understand your interests and needs, and improve the Services, including through research and reports, and test and create new products, features, and services
-  * • Secure our websites and applications, and resolve app crashes and other issues being reported
-  * • Comply with any procedures, laws, and regulations which apply to us where it is necessary for our legitimate interests or the legitimate interests of others
-  * • Establish, exercise, or defend our legal rights where it is necessary for our legitimate interests or the legitimate interests of others
+  * Complete a purchase or provide the Services you have requested, including invoicing and accounting
+  * Respond to your request for information and provide you with more effective and efficient customer service
+  * Provide you with updates and information about classes in which you have enrolled
+  * Contact you by email, postal mail, or phone regarding MasterClass and third-party products, services, surveys, research studies, promotions, special events and other subjects that we think may be of interest to you
+  * Customize the advertising and content you see on the Services
+  * Help us better understand your interests and needs, and improve the Services, including through research and reports, and test and create new products, features, and services
+  * Secure our websites and applications, and resolve app crashes and other issues being reported
+  * Comply with any procedures, laws, and regulations which apply to us where it is necessary for our legitimate interests or the legitimate interests of others
+  * Establish, exercise, or defend our legal rights where it is necessary for our legitimate interests or the legitimate interests of others
 
 
 
@@ -106,10 +106,10 @@ We, or our service providers, use your information for various purposes dependin
 
 The legal bases for using your information as set out in this Privacy Policy are as follows:
 
-  * • Where use of your information is necessary to perform our obligations under a contract with you (for example, to comply with: the terms of service of our websites which you accept by browsing the websites/registering; and/or our contract to provide our Services to you);
-  * • Where use of your information is necessary for our legitimate interests or the legitimate interests of others (for example, to provide security for our website and applications; operate our business and our Services; make and receive payments; comply with legal requirements and defend our legal rights; prevent fraud and to know the customer to whom we are providing Services);
-  * • Where we are required to process information in accordance with an EU Member State legal obligation; or
-  * • Where we have your consent, in accordance with applicable law.
+  * Where use of your information is necessary to perform our obligations under a contract with you (for example, to comply with: the terms of service of our websites which you accept by browsing the websites/registering; and/or our contract to provide our Services to you);
+  * Where use of your information is necessary for our legitimate interests or the legitimate interests of others (for example, to provide security for our website and applications; operate our business and our Services; make and receive payments; comply with legal requirements and defend our legal rights; prevent fraud and to know the customer to whom we are providing Services);
+  * Where we are required to process information in accordance with an EU Member State legal obligation; or
+  * Where we have your consent, in accordance with applicable law.
 
 
 
@@ -169,13 +169,13 @@ You have certain rights with respect to your information as further described in
 
 If you would like further information in relation to your legal rights under applicable law or would like to exercise any of them, please contact us using the information in the “Contact Information” section below at any time. Your local laws (e.g., in the EU) may permit you to request that we:
 
-  * • provide access to and/or a copy of certain information we hold about you
-  * • prevent the processing of your information for direct-marketing purposes (including any direct marketing processing based on profiling)
-  * • update information which is out of date or incorrect
-  * • delete certain information which we are holding about you
-  * • restrict the way that we process and disclose certain of your information
-  * • transfer your information to a third party provider of services
-  * • revoke your consent for the processing of your information
+  * provide access to and/or a copy of certain information we hold about you
+  * prevent the processing of your information for direct-marketing purposes (including any direct marketing processing based on profiling)
+  * update information which is out of date or incorrect
+  * delete certain information which we are holding about you
+  * restrict the way that we process and disclose certain of your information
+  * transfer your information to a third party provider of services
+  * revoke your consent for the processing of your information
 
 
 
@@ -197,9 +197,11 @@ The Services are intended for general audiences and not for children under the a
 
 The information discussed in this Policy is processed in the United States by MasterClass, whose principal office in the United States is located at 660 4th Street #443, San Francisco, CA 94107.
 
-MasterClass complies with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from the European Union and Switzerland to the United States, respectively. MasterClass has submitted a self-certification to the Department of Commerce that it is committed to adhere to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access and Recourse, Enforcement and Liability. Our self-certification is currently under review for approval by the Department of Commerce. If the Department of Commerce approves our self-certification and participation in the Privacy Shield framework, then to the extent there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program please visit[ https://www.privacyshield.gov/](https://www.privacyshield.gov/). In compliance with the EU-US Privacy Shield and Swiss-US Privacy Shield Principles, MasterClass commits to resolve complaints about your privacy and our collection or use of your personal data. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact MasterClass at[ support@masterclass.com](mailto:support@masterclass.com). MasterClass further commits to refer unresolved privacy complaints under the EU-US and Swiss-US Privacy Shield Principles to an independent dispute resolution mechanism. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by MasterClass, please visit the JAMS EU Privacy Shield web site at[ https://www.jamsadr.com/eu-us-privacy-shield ](https://www.jamsadr.com/eu-us-privacy-shield)for more information and to file a complaint. Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel. MasterClass will be subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC) with respect to its compliance with the provisions of the EU-US and Swiss-US Privacy Shield.
+MasterClass complies with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from the European Union and Switzerland to the United States, respectively. MasterClass has certified to the Department of Commerce that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit[ https://www.privacyshield.gov/](https://www.privacyshield.gov/).
 
-If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that you are transferring information to a country and jurisdiction that does not have the same data protection laws as your jurisdiction. As described above, we also may subcontract the processing of your data to, or otherwise share your data with, other members within the MasterClass group of companies, service providers, and business partners in countries other than your country of residence, including the United States, in accordance with applicable law. Such third parties may be engaged in, among other things, the provision of Services to you, the processing of transactions and/or the provision of support services. By providing us with your information, you acknowledge any such transfer, storage or use. MasterClass will take reasonable and appropriate steps necessary to ensure that any third party who is acting as a “data processor” under EU and Swiss terminology is processing the personal data we entrust to them in a manner that is consistent with the EU-US and Swiss-US Privacy Shield Principles. MasterClass will remain potentially liable in cases of onward transfer to third parties of data of EU and Swiss individuals received pursuant to the EU-US and Swiss-US Privacy Shield, respectively.
+In compliance with the EU-US Privacy Shield and Swiss-US Privacy Shield Principles, MasterClass commits to resolve complaints about your privacy and our collection or use of your personal data. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact MasterClass at[ support@masterclass.com](mailto:support@masterclass.com). MasterClass has further committed to refer unresolved privacy complaints under the EU-US and Swiss-US Privacy Shield Principles to an independent dispute resolution mechanism. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by MasterClass, please visit the JAMS EU Privacy Shield web site at[ https://www.jamsadr.com/eu-us-privacy-shield ](https://www.jamsadr.com/eu-us-privacy-shield)for more information and to file a complaint. Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel. MasterClass is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC) with respect to its compliance with the provisions of the EU-US and Swiss-US Privacy Shield.
+
+If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that you are transferring information to a country and jurisdiction that does not have the same data protection laws as your jurisdiction. As described above, we also may subcontract the processing of your data to, or otherwise share your data with, other members within the MasterClass group of companies, service providers, and business partners in countries other than your country of residence, including the United States, in accordance with applicable law. Such third parties may be engaged in, among other things, the provision of Services to you, the processing of transactions and/or the provision of support services. By providing us with your information, you acknowledge any such transfer, storage or use. MasterClass will take reasonable and appropriate steps necessary to ensure that any third party who is acting as a “data processor” under EU and Swiss terminology is processing the personal data we entrust to them in a manner that is consistent with the EU-US and Swiss-US Privacy Shield Principles. MasterClass is potentially liable in cases of onward transfer to third parties of data of EU and Swiss individuals received pursuant to the EU-US and Swiss-US Privacy Shield, respectively.
 
 If applicable, you may make a complaint to the data protection supervisory authority in the country where you reside. Alternatively you may seek a remedy through local courts if you believe your rights have been breached.
 
