@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smackhisface.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627114247id_/http%3A//smackhisface.com/contact-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smackhisface.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227135212id_/http%3A//smackhisface.com/contact-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Smack His Face
 
@@ -66,4 +66,4 @@ By using this Site, you signify your acceptance of this policy and [terms of ser
 
 **Contacting us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: [www.smackhisface.com](http://www.smackhisface.com/) & [smackhisface@yahoo.com](http://smackhisface@yahoo.com/)
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: [www.smackhisface.com](http://www.smackhisface.com/) & [[email protected]](http://smackhisface@yahoo.com/)
