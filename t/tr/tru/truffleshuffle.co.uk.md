@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the truffleshuffle.co.uk privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627103440id_/https%3A//www.truffleshuffle.co.uk/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truffleshuffle.co.uk privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227181213id_/https%3A//www.truffleshuffle.co.uk/help/privacy) for the most accurate reproduction.*
 
-# TruffleShuffle.com
+# TruffleShuffle.co.uk
 
 * The data controller for this website and its associated services is TruffleShuffle Retail Ltd
 
