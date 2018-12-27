@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the civilserviceindia.com privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711235931id_/https%3A//www.civilserviceindia.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the civilserviceindia.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227091127id_/https%3A//www.civilserviceindia.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Civilserviceindia Privacy Policy
 
