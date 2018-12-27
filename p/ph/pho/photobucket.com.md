@@ -1,123 +1,96 @@
-> *The following text is extracted and transformed from the photobucket.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614114156id_/http%3A//photobucket.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photobucket.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227182152id_/http%3A//photobucket.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Photobucket
 
-Thank you for visiting Photobucket.com (the "Site") and reviewing the Privacy Policy of Photobucket.com, Inc. ("Photobucket" or "we" or "us"). We are a company headquartered in the United States of America but our Site may be accessed in any country where it is legal to do so.
+##  Privacy Policy
+
+Rev. July 10, 2018
+
+Thank you for visiting Photobucket.com and our mobile applications (collectively, the "Site") and reviewing the Privacy Policy of Photobucket.com, Inc. ("Photobucket" or "we" or "us"). We are a company headquartered in the United States of America but our Site may be accessed in any country where it is legal to do so. 
 
 It is important to us that you understand what information we collect when you visit the Site either from a computer or a mobile device and what we may do with that information, so we have laid it all out here for you. This Privacy Policy also covers the collection of data from applications on mobile devices. It sets out the conditions under which we may process any information that we collect from you, or that you provide to us. It covers information that could identify you (“personal information”) and information that could not. In the context of the law and this notice, “process” means collect, store, transfer, use or otherwise act on information.
 
 By using this Site you consent to the terms of this Privacy Policy, and you signify your assent to all of the terms of this Privacy Policy and our [Terms of Use](http://photobucket.com/terms). **If you do not agree with any terms of this Privacy Policy or our  **[Terms of Use](http://photobucket.com/terms) **, please do not use this Site or submit any personal information.** Please take care to read our Privacy Policy to be sure you are informed about how your information may be used. Please also read our [Terms of Use](http://photobucket.com/terms).
 
-**We take seriously our obligation to protect your privacy. We understand that all visitors to our website are entitled to know that their personal data will not be used for any purpose unintended by them, and will not accidentally fall into the hands of a third party.**
+##  We take seriously our obligation to protect your privacy. We understand that all visitors to our website are entitled to know that their personal data will not be used for any purpose unintended by them, and will not accidentally fall into the hands of a third party.
 
 Our policy complies with the EU General Data Protection Regulation (GDPR). This law requires us to tell you about your rights and our obligations in regard to the processing and control of your personal data. If you want to read more about your rights and our obligations, please review the information provided at [www.knowyourprivacyrights.org](http://www.knowyourprivacyrights.org/).
 
-  
+##  _Why Do We Collect & Process Information About You?_
 
-
-## **Why Do We Collect & Process Information About You?**
-
-  * ### ****We have a contractual right or obligation****
-
-
+  1. 
 
 
 When you create an account on our Site, buy a product or service from us, or otherwise agree to our Terms of Use, a contract is formed between you and us. In order to carry out our obligations under that contract we must process the information you give us. Some of this information may be personal information. We may use it in order to: (a) verify your identity for security purposes; and (b) sell products and provide services to you. We process this information on the basis there is a contract between us, or that you have requested we use the information before we enter into a legal contract. Additionally, we may aggregate this information in a general and anonymous way and use it to monitor our performance with respect to a particular service we provide. We shall continue to process this information until the contract between us ends or is terminated by either party under the terms of the contract.
 
-  * ### ****We have your consent****
+  2. 
 
 
-
-
-When you browse our Site, such as when you search and view user images or ask us to provide you more information about our products and services, you provide your consent to us to process information that may be personal information. Wherever possible, we will attempt to obtain your explicit consent to process this information, for example, by asking you to agree to our use of cookies. If you have given us explicit permission to do so, we may from time to time provide your name and contact information to selected partners whom we believe may provide services or products you would find useful. Sometimes you may give implicit consent, such as when you send us a message through our support desk or by e-mail to which you would reasonably expect us to reply. Except where you have consented to our use of your information for a specific purpose, we do not use your information in any way that would identify you personally. We may aggregate it in a general and anonymous way to do such things as monitor the performance of a particular page on our website.
+When you browse our Site, such as when you search and view user images or ask us to provide you more information about our products and services, you provide your consent to us to process information that may be personal information. Wherever possible, we will attempt to obtain your explicit consent to process this information, for example, by asking you to agree to our use of cookies. If you have given us explicit permission to do so, we may from time to time provide your name and contact information to selected partners whom we believe may provide services or products you would find useful. Sometimes you may give implicit consent, such as when you send us a message through our support desk or by e-mail to which you would reasonably expect us to reply. Except where you have consented to our use of your information for a specific purpose, we do not use your information in any way that would identify you personally. We may aggregate it in a general and anonymous way to do such things as monitor the performance of a particular page on our website. 
 
 We continue to process your information on the above basis until you withdraw your consent or it can be reasonably assumed that your consent no longer exists. You may withdraw your consent at any time by contacting us at [support@photobucket.com](mailto:support@photobucket.com). However, if you do so, you will not be able to use our Site or our services in the future.
 
-  * ### ****We have a legitimate reason to do so****
-
-
+  3. 
 
 
 We may process information on the basis there is a legitimate reason, either to you or to us, of doing so. Where we process your information on this basis, we do after having given consideration to: (a) whether the same objective could be achieved through other means; (b) whether processing (or not processing) might cause you harm; and (c) whether you would expect us to process your data, and whether you would reasonably expect us to do so. For example, we may process your data on this basis for the purposes of: (i) record-keeping purposes; (ii) responding to unsolicited communication from you to which we believe you would expect a response; (iii) protecting and asserting our legal rights; and (iv) protecting your interests where we believe we have a duty to do so.
 
-  * ### ****We have a legal obligation****
-
-
+  4. 
 
 
 We will process your information when necessary to comply with a legal, statutory or administrative obligation. For example, we may be required to give information to legal authorities if they so request or if they have the proper authorisation such as a search warrant or court order. This may include your personal information.
 
-  * ### ****You have asked us to charge your preferred payment method****
-
-
+  5. 
 
 
 Your payment information is never taken by us or transferred to us either through our Site or otherwise. Our employees and contractors never have access to it. At the point of payment, you are transferred to a secure page on the website of Jet-Pay, Braintree, PayPal or some other reputable payment service provider. Their pages may be branded to look like a page on our Site, but are not controlled by us.
 
-  * ### ****You sent a message to our customer support team****
-
-
+  6. 
 
 
 When you contact us, whether through our website or by e-mail, we collect the data you have given to us in order to reply with the information you need. We record your request and our reply in order to increase the efficiency of our company. We may keep personally identifiable information associated with your message, such as your name and email address so as to be able to track our communications with you to provide a high quality service.
 
-  * ### ****You have made a complaint or notified us of potential instances of copyright infringement****
-
-
+  7. 
 
 
 When we receive a complaint or take down request, we record all the information you have given to us. We use that information to resolve your complaint or request. If your complaint reasonably requires us to contact some other person, we may decide to give to that other person some of the information contained in your complaint or request. We do this as infrequently as possible, but it is a matter for our sole discretion as to whether we do give information, and if we do, what that information is. We may also compile statistics showing information obtained from this source on an anonymous basis to assess the level of service we provide.
 
-  
+_**How Do We Collect Information Other Than When You Provide It To Us?**_
 
-
-## **How Do We Collect Information Other Than When You Provide It To Us?**
-
-  * ### ****Cookies****
-
-
+  1. 
 
 
 Cookies are small text files that are placed on your computer's hard drive by your web browser when you visit any website. They allow information gathered on one web page to be stored until it is needed for use on another, allowing a website to provide you with a personalised experience and the website owner with statistics about how you use the website so that it can be improved. Some cookies may last for a defined period of time, such as one day or until you close your browser. Others last indefinitely. Your web browser should allow you to delete any you choose. It also should allow you to prevent or limit their use.
 
 Our Site uses cookies. They are placed by software that operates on our servers, and by software operated by third parties whose services we use. If you choose not to use cookies or you prevent their use through your browser settings, you will not be able to use all the functionality of our Site. We use cookies in the following ways: (a) to track how you use our Site; (b) to record whether you have seen specific messages we display on our Site; (c) to keep you signed in our Site; and (d) to record your answers to surveys and questionnaires on our Site while you complete them.
 
-  * ### ****Personal identifiers obtained from browsing****
+An SDK is computer code that app developers can include in their apps to enable ads to be shown, data to be collected, and related services to be implemented. We, and/or our third party advertiser partners, may use or work with mobile SDKs to collect information, such as Mobile IDs, precise location information (i.e. GPS data, specifically latitude/longitude), and information related to how users and their mobile devices interact with our Site. We may use these technologies, for example, to analyze or measure certain advertising through apps and browsers based on information associated with your mobile device. Location information may be used by itself, aggregated, or combined with mobile identifiers (such as IDFAs and Android IDs), and shared with third parties, for purposes related to advertising, attribution (e.g., measuring ad performance) analytics and research. You can remove your consent to having your location data collected by changing the settings on your device. (Certain Site services may lose functionality as a result.) You can opt-out from any interest-based advertising through your device settings. When you have opted out using this setting on a device, advertisers will not use in-app information collected from that device to infer your interests or serve ads to that device that are targeted based on your inferred interests.
 
-
+  8. 
 
 
 Requests by your web browser to our servers for web pages and other content on our Site are recorded. We record information such as your geographical location, your Internet service provider and your IP address. We also record information about the software you are using to browse our Site, such as the type of computer or device and the screen resolution. We use this information in aggregate on an anonymous basis to assess the popularity of the webpages on our Site and how we perform in providing services to you.
 
-If combined with other information we know about you from previous visits, the data possibly could be used to identify you personally, even if you are not signed into your user account on our Site.
+If combined with other information we know about you from previous visits, the data possibly could be used to identify you personally, even if you are not signed into your user account on our Site. 
 
-  * ### ****Our use of re-marketing****
-
-
+  9. 
 
 
 Re-marketing involves placing a cookie on your computer when you browse our Site in order to be able to serve to you an advert for our products or services when you visit another website that is not owned or controlled by us. We may use a third party to provide us with re-marketing services from time to time. If so, then if you have consented to our use of cookies by continuing to use our Site, you may see advertisements for our products and services on other websites.
 
-  * ### ****Information we obtain from third parties****
-
-
+  10. 
 
 
 Although we do not disclose your personal information to any third party (except as set out in this notice), we sometimes receive data that is indirectly made up from your personal information from third parties whose services we use.
 
-  * ### ****Third party advertising on our website****
+  11. 
 
 
+Third parties advertise on our Site. In doing so, those parties, their agents or other companies working for them may use technology that automatically collects information about you when their advertisement is displayed on our Site. For example, they may collect information about your geographic location. They may also use other technology such as cookies, mobile SDK's or JavaScript to personalise the content of, and to measure the performance of their advertisements. We do not have control over these technologies or the data that these parties obtain. Accordingly, this privacy notice does not cover the information practices of these third parties.
 
+_**What Do We Do With Information We Collect on the Site?**_
 
-Third parties advertise on our Site. In doing so, those parties, their agents or other companies working for them may use technology that automatically collects information about you when their advertisement is displayed on our Site. They may also use other technology such as cookies or JavaScript to personalise the content of, and to measure the performance of their advertisements. We do not have control over these technologies or the data that these parties obtain. Accordingly, this privacy notice does not cover the information practices of these third parties.
-
-  
-
-
-## **What Do We Do With Information We Collect on the Site?**
-
-Except as set out below, we do not share, or sell, or disclose to a third party, any information collected through our Site.
+Except as set out below, we do not share, or sell, or disclose to a third party, any information collected through our Site. 
 
 Our Site allows you to post images and information that, by the act of posting, you intend to be read, copied, downloaded, or used by other people, such as: (a) tagging describing or commenting on images, whether such images are posted by you or someone else; (b) making comments on a forum; or (c) clicking on an icon next to another user's image or comment to convey your agreement, disagreement or thanks. We will store your information and we reserve a right to use it in the future in any way we decide.
 
@@ -129,23 +102,8 @@ You may send us a request at [support@photobucket.com](mailto:support@photobucke
 
 Our Site is hosted in the United States of America. If you are located in the European Union, please be aware that your data will be processed outside the European Union.
 
-  
-
-
-## **How Long Do We Retain Your Personal Data?**
-
-Except as otherwise mentioned in this privacy notice, we keep your personal information only for as long as required by us: (a) to provide you with the services you have requested; (b) to comply with applicable law; and (c) to support a claim or defense in court.
-
-  
-
-
-## **How Do We Notify You Of Changes To This Policy?**
+Except as otherwise mentioned in this privacy notice, we keep your personal information only for as long as required by us: (a) to provide you with the services you have requested; (b) to comply with applicable law; and (c) to support a claim or defense in court. 
 
 We may update this privacy policy from time to time as we may deem necessary. The terms that apply to you are those posted here so please check back often to view any changes. Should we make any major changes to this privacy policy, we will endeavour to provide you with notification via on Site messaging and/or by e-mail to e-mail address you provided to us when creating your user account. We advise you to print a copy for your records.
 
-  
-
-
-## **How Do You Contact Us With Questions Or A Request?**
-
-If you have any question regarding our privacy policy, please contact us at: [support@photobucket.com](mailto:support@photobucket.com).
+If you have any question regarding our privacy policy, please contact us at: [support@photobucket.com](mailto:support@photobucket.com). 
