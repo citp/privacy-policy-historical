@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the installmac.com privacy policy that was archived on 2017-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171029025234id_/http%3A//www.installmac.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the installmac.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227140224id_/http%3A//www.installmac.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | InstallMac
 
