@@ -1,10 +1,16 @@
-> *The following text is extracted and transformed from the threepercenternation.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627072949id_/http%3A//threepercenternation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the threepercenternation.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227151242id_/http%3A//threepercenternation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – 3%
 
 [Threepercenternation](http://localgrowersconnection.com/) operates the [Threepercenternation.com](http://localgrowersconnection.com/) website, which provides the SERVICE.
 
 This page is used to inform website visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
+
+If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
+
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at [Threepercenternation.com](http://threepercenternation.com/) , unless otherwise defined in this Privacy Policy.
+
+**Information Collection and Use**
 
 For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to your name, phone number, and postal address. The information that we collect will be used to contact or identify you.
 
