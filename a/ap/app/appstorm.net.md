@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appstorm.net privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614104809id_/https%3A//appstorm.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appstorm.net privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227130721id_/https%3A//appstorm.net/privacy) for the most accurate reproduction.*
 
 # NUBERA EBUSINESS PRIVACY POLICY « AppStorm – App Review Network
 
@@ -37,7 +37,7 @@ Nubera eBusiness will also process other technical information relating to your 
 Your consent to personal data collection and processing may be revoked, without retroactive effects, in accordance with the Spanish Organic Data Protection Law.
 
   4. **RIGHT OF ACCESS, RECTIFICATION, OPPOSITION, CANCELLATION AND CONSENT WITHDRAWAL  
-**Users have the right to access, rectify, erase, block and oppose any processing of their personal data. Moreover, Users may at any time withdraw their consent to the processing of their personal data and information. This withdrawal will not have retroactive effects. The above is without prejudice to provisions of Spanish applicable law enabling conservation of data for the purpose of defending the responsibility of Nubera eBusiness and complying with mandatory legal obligations.The aforementioned rights may be effective by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or at the address set out in the section below under “Contact us”.
+**Users have the right to access, rectify, erase, block and oppose any processing of their personal data. Moreover, Users may at any time withdraw their consent to the processing of their personal data and information. This withdrawal will not have retroactive effects. The above is without prejudice to provisions of Spanish applicable law enabling conservation of data for the purpose of defending the responsibility of Nubera eBusiness and complying with mandatory legal obligations.The aforementioned rights may be effective by contacting us at legal@getapp.com or at the address set out in the section below under “Contact us”.
   5. **DATA DISCLOSURE  
 **Users authorize us to disclose their personal information to the companies chosen by Users when submitting a lead form.In relation to international disclosures, Users expressly accept that we may disclose or internationally transfer your data to other Users and third parties which are located outside the European Union. This international disclosure or transfer will only be performed for the sole purposes stated under these Terms and Conditions.
   6. **USE OF USER DATA BY OTHER USERS  
@@ -50,7 +50,7 @@ Your consent to personal data collection and processing may be revoked, without 
 **(v)** The Receiving User agrees to be responsible for any illegal use by them of the Site Users’ data. In regard to this clause, illegal use is to be construed to include any use contrary to the applicable data protection laws and/or in violation this Privacy Policy.
 
   7. **COMMERCIAL COMMUNICATIONS  
-**By filling in and sending your data to Nubera eBusiness during registration, you expressly consent to receive communications regarding the subject matter of the Site and other services. These commercial communications, including alerts, notices, newsletters, offers and promotions, will be always sent by Nubera eBusiness, or by Application Providers to whom you have requested your data to be sent in relation to a request, lead or Application.If you do not wish to receive information form this Web Site and expressly opt out by sending a notification to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+**By filling in and sending your data to Nubera eBusiness during registration, you expressly consent to receive communications regarding the subject matter of the Site and other services. These commercial communications, including alerts, notices, newsletters, offers and promotions, will be always sent by Nubera eBusiness, or by Application Providers to whom you have requested your data to be sent in relation to a request, lead or Application.If you do not wish to receive information form this Web Site and expressly opt out by sending a notification to optout@getapp.com.
   8. **COOKIES AND IPS  
 **To enhance our understanding of your interaction with our Sites, we may use cookies and IP trackers. Nubera eBusiness has a cookies policy that can be consulted [here](https://web.archive.org/cookies/).
   9. **COLLECTION OF INFORMATION BY THIRD-PARTIES  
