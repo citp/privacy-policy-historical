@@ -1,105 +1,192 @@
-> *The following text is extracted and transformed from the pricerunner.com privacy policy that was archived on 2017-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171009093752id_/http%3A//www.pricerunner.co.uk/c/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricerunner.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227143041id_/https%3A//www.pricerunner.com/c/privacy-policy) for the most accurate reproduction.*
 
-# About PriceRunner.co.uk
+# About PriceRunner.com
 
-**Effective Date: 17 March, 2014**
+At PriceRunner, we protect your personal privacy and always strive to ensure a high level of data protection. This privacy policy explains how we collect and use your personal data. It also describes your rights and how you can act on them.
 
- _Generally pricerunner.co.uk ("Site" or "we", "our" or "us") does not collect, store, use or disclose any data collected with an intention to identify and/or contact a person such as: name, address, telephone number or e-mail address (hereinafter "PII") except in very specific instances, for example, when you provide PII through registering on the Site or as set forth in this Privacy Policy. Whenever we collect such PII, it will be governed by this Privacy Policy._
+It is important that you understand the privacy policy and feel secure with our processing of your personal data. You are always welcome to contact us if you have any questions. For questions regarding our privacy policy, please contact PriceRunners Data Protection Officer Mikael Lindahl by emailing [privacy@pricerunner.com](mailto:privacy@pricerunner.com).
 
-This service is provided by PriceRunner which is operated by Pricerunner Sweden AB. For us, privacy is a top priority and we provide this Privacy Policy to outline our practices and procedures with respect to information collection and use to enable you to make an informed decision about sharing information with us.
+## What is personal data and what is processing of personal data?
 
-### What does this Privacy Policy cover?
+Personal data is all kinds of information that can be directly or indirectly associated to a physical living person. For example, images and sound recordings that are processed in a computer can be personal data even if no names are mentioned. Encrypted data and different types of electronic identities (such as IP numbers) are personal data if they can be linked to physical people.
 
-This Privacy Policy applies to collection, use, storage and disclosure of information by us.
+Processing of personal data is everything that occurs in terms of handling personal data. Any action performed with personal data counts as a form of processing, regardless of whether it is automated or not. Examples of common processing are collection, registration, organising, structuring, storing, revising, transfer and deletion.
 
-Please be aware that, as part of the service provided by this Site, we may provide links to websites operated by third parties. Note that for usability reasons PriceRunner’s header may be displayed should you click to such a third party site. We are not responsible for the information collection or privacy practices or the content of those third party Web sites or applications. You should check the applicable privacy policies of such third-party Web sites or applications to determine how they handle any information they collect from you.
+## Who is responsible for the personal data we collect?
 
-### What information do we collect and how is it used? Do we disclose information to third parties?
+PriceRunner Sweden AB, Swedish corporate ID number: 556586-1415. Address: Kungsbron 21, 111 22 Stockholm, Sweden, is responsible for personal data and the company's processing of personal data. 
 
-We may collect any or all of the following three types of information: (i) traffic or clickstream data, (ii) non-personally identifiable information (for example: IP address, browser types, operating systems, domain names, access dates and times, referring website addresses, online transactions and browsing and search activity) ("Non-PII"), and/or (iii) PII in the instances as set forth in this Privacy Policy. Our collection and use of each type of data is described below, as well as the ways (if any) in which the data may be shared with third parties or subsidiaries or affiliates of PriceRunner. PriceRunner may use third party vendors to help us operate our business and this Site or administer activities on our behalf. We may share your information with these third parties for those limited purposes. Any third-party vendor so used has agreed to protect the confidentiality of information provided by PriceRunner and adhere to the provisions in this privacy policy.
+_Valid from 25-05-2018_
 
-#### Traffic or Clickstream Data ("Clickstream Data")
+## What personal data do we collect about you as a customer and for what purpose (why)?
 
-Clickstream Data consists of traffic and usage data that is not personally identifiable. We do not supplement or combine Clickstream Data with any PII. We may share Clickstream Data we collect with subsidiaries and affiliates of Pricerunner Sweden AB ("Pricerunner Entities") and with certain selected third parties, but only in anonymous form. Notwithstanding the foregoing, such third parties and Pricerunner Entities may combine such Clickstream Data with any PII that you choose to give to such third parties or Pricerunner Entities when registering with their websites. We collect Clickstream Data regarding use of our services by observing browser functions and the files (pages) you access. For example, our servers collect information about the site to which you may redirect to in order to enable us to calculate and receive payments from our business partners. In addition, we may use Clickstream Data to better design our services. Within the company and with respect to online behavioural advertising, certain affiliated companies may use non-personally identifiable information (which may or may not include click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) collected during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioural advertising practice and/or to opt-out of this type of advertising, you can visit www.networkadvertising.org.
+|   
+---|---  
+ **Purpose**|  In order to process orders/purchases where PriceRunner offers a checkout service for retailers.  
+ **Processing performed by retailers using the data**|  Delivery (including notification and contact information regarding delivery). Identification and age check. Processing of payment (including analyses of possible payment solutions which may include a check of payment history and retrieval of credit reports from Klarna). Processing of returns/complaints and warranty matters.  
+ **Categories of personal data**|  Name. Contact details (e.g. address, e-mail and phone number). Payment history. Payment information. Credit reports from credit reporting companies. Purchase information (e.g. which item has been ordered or if the item is to be delivered to another address).  
+ **Legal basis**|  _Completion of the purchase agreement._ This collection of your personal data is required so that the retailer whose checkout PriceRunner provides will be able to meet its obligations according to the purchase agreement. If data is not submitted, their commitments cannot be met and we are unable to provide the point of sales site with the information they need to complete a purchase.  
+ **Storage period:**|  Until the purchase has been completed (including delivery and payment). If the consumer is a registered/logged in member, the data may be saved as long as the member is an active member of PriceRunner, to enable processing any returns/complaints and warranty issues.  
+|   
+---|---  
+ **Purpose**|  In order to process service issues.  
+ **Processing performed**|  Communication and answering any questions via phone or via digital channels, including social media. Identification. Investigating any complaints and support cases (including technical support).  
+ **Categories of personal data**|  Name or company name. Contact details (e.g. address, e-mail or phone number). Your correspondence. Data about event occurrence, retailer involved, any errors/complaints. Technical data about your equipment. User data for members.  
+ **Legal basis**|  _Legitimate interest._ The processing is necessary to meet our and your legitimate interest in processing service matters.  
+ **Storage period**|  Until the service case has been completed. Valid personal data for retailers - so the data will be saved as long as the company is a customer of PriceRunner.  
+|   
+---|---  
+ **Purpose**|  In order to implement and manage participation in competitions and/or events.  
+ **Processing performed**|  Communication before and after participation in a contest or event (e.g. confirmation of notifications, questions or evaluations). Identification and age check. The choice of winner and award of any prize(s) (e.g. payouts or travel vouchers).  
+ **Categories of personal data**|  Name. Age. Contact details (e.g. address, e-mail or phone number). Details submitted in contest submission. Information provided in evaluations of events.  
+ **Legal basis**|  _Legitimate interest._ The processing is necessary to meet our and your legitimate interest in processing your participation in competitions and/or events.  
+ **Storage period**|  For the duration of the contest/event (including any evaluation).  
+|   
+---|---  
+ **Purpose**|  In order to evaluate, develop and improve our services, products and systems for customers and users.  
+ **Processing performed**|  Adaptation of services to be more user-friendly (e.g. change the user interface to simplify the flow of information or to highlight features commonly used by customers in our digital channels). Analyses of data in order to improve features and tools. Analyses of data to develop, broaden and change product categories and product data to make the service more relevant to users and customers. Analyses of data in order to develop and improve our resource efficiency from an environmental and sustainability perspective (e.g. by informing about efficient resource utilisation per category, environmentally-friendly products and more efficient deliveries). Analyses of data in order to prioritise and plan the choice of retailers on the site. Analyses of data to enable our users and customers to influence the appearance and contents of our services. Analyses of data to improve IT systems in order to improve performance or enhance security for PriceRunner, its users and customers. Based on the data we collect (e.g. clicks to retailers, age and gender) you can be sorted into a user group, upon which analyses are then performed on an aggregate level using non-identifiable or pseudonymised data without any link to you as an individual. The insights from the analyses form the basis for which products, product categories, and the design of tools for which users and customers have access to.  
+ **Categories of personal data**|  Age. Gender. City. Correspondence and feedback regarding our services and products. Purchase and user-generated data (e.g. clicks and visit history). Technical data pertaining to devices used and their settings (e.g. language setting, IP address, browser settings, time zone, operating system, screen resolution and platform). Information about how you interacted with us, in other words how you used the service, login method, where and how long different pages were visited, response times, download errors, how you access and leave the service, etc.  
+ **Legal basis**|  _Legitimate interest._ The processing is necessary to meet PriceRunner's, the users' and our customers' legitimate interest in evaluating, developing and improving our services and systems.  
+ **Storage period**|  From the time of collection and for a period of 36 months thereafter.  
+|   
+---|---  
+ **Purpose**|  In order to prevent abuse of a service or to prevent, avoid and investigate crimes against the company.  
+ **Processing performed**|  Prevention and investigation of possible fraud or other crimes (e.g. clicks to retailer manipulation). Prevention of spam, phishing, unauthorised retrieval of price or product data from our services, harassment, unauthorised login to user accounts, or other actions prohibited by law or by our membership, service or customer agreement. Protecting and improving our IT environment against attacks and intrusions.  
+ **Categories of personal data**|  Purchase and user-generated data (e.g., clicks and visit history). Technical data pertaining to devices used and their settings (e.g. language setting, IP address, browser settings, time zone, operating system, screen resolution and platform). Data about how our digital services are used.  
+ **Legal basis**|  _Compliance with legal obligation_ (if any) or _legitimate interest_. If no legal obligation exists, processing is necessary to meet our legitimate interest in preventing abuse of a service or preventing, avoiding and investigating crimes against the company.  
+ **Storage period**|  From the time of collection and for a period of 36 months thereafter.  
+  
+## What personal data do we collect about you as a member of PriceRunner (why)?
 
-#### Non-Personally Identifiable Information
+|   
+---|---  
+ **Purpose**|  To manage your membership and provide the member service with personalised features such as favourite lists and price alerts.  
+ **Processing performed**|  Creation of login feature. Checking your identity and age. Maintaining correct and updated information. The possibility for you to save favourites and similar features which make the user experience better.  
+ **Categories of personal data**|  Name. E-mail address. Display name (for members). Phone number. Address. Historical user data such as clicks to retailers, favourite products, price alerts, visits to product and category pages, comments, reviews and interest notifications. Username and password. Settings and your personal choices.  
+ **Legal basis**|  _Full implementation of the membership agreement._ This collection of your personal data is required in order to meet our obligations according to the PriceRunner membership agreement. If the data is not provided, our commitments cannot be met and we are therefore forced to refuse membership.  
+ **Storage period**|  Until membership is terminated under ‘My pages’ on PriceRunner's website.  
+|   
+---|---  
+ **Purpose**|  In order to manage your membership level in the services based on "gamification", points or bonuses.  
+ **Processing performed**|  Registration and calculation of points based on your browsing and purchasing behaviour in PriceRunner controlled services. Communication about your membership and offers.  
+ **Categories of personal data**|  Name. Membership number. Membership level. Contact details (e.g. address, e-mail and phone number). Historical user data such as clicks to retailers, favourite products, price alerts, visits to product and category pages, comments, reviews, and interest notifications. Purchase history.  
+ **Legal basis**|  _Full implementation of promised membership benefits and services_. This collection of your personal data is required in order to meet our obligations to our PriceRunner members. If the information is not provided, we refuse to give you membership or access to services.  
+ **Storage period**|  Until membership is terminated under ‘My pages’ on PriceRunner's website.  
+|   
+---|---  
+ **Purpose**|  In order to process benefits, offers and relevant recommendations for you who are logged in as a member.  
+ **Processing performed**|  Creation of your personal offers and general member offers, customised view of new items, product recommendations, inspiration, benefits linked to your membership level, and invitations to events or competitions. Analyses of the data we collect for the purpose: We look for example at your user history, age, gender, town/city, specified preferences (about products and communications channels), visited product categories, and results from customer satisfaction or market research surveys. Analyses of the data we collect for the purpose: Based on the data we collect (e.g. purchase history, age, gender, and specified preferences), we perform an individual-level analysis that may result in you being sorted into a user segment. The insights from the analyses form the basis for your personal offers, relevant recommendations, and customised benefits etc. Various members may therefore receive different benefits, offers, and various page appearances and features on PriceRunner's website and in its communication to them.  
+ **Categories of personal data**|  Name. Username. Membership number. Membership level. Age. Gender, Contact details (e.g. address, e-mail and phone number). City. Purchase history. Purchase and user-generated data (e.g., clicks and visit history). Specified customer choices regarding products and services.  
+ **Legal basis**|  _Full implementation of promised membership benefits and services._ This collection of your personal data is required in order to meet our obligations to our PriceRunner members. If the data is not provided, we refuse to give you membership or access to services.  
+ **Storage period**|  Until membership is terminated under ‘My pages’ on PriceRunner's website.  
+|   
+---|---  
+ **Purpose**|  In order to deliver a personalised experience of our services.  
+ **Processing performed**|  Creation of personalised content for you, e.g. via relevant product recommendations, presentation of your specific benefits and offers, custom tools, segmented samples and tips content, and other similar measures that involve an easier user experience for you. Simplification of your use of our services (e.g. by saving favourites to facilitate future purchases or reminding you of forgotten/abandoned virtual shopping carts). Personal communication based on your behaviour as a logged in member. Analyser of the data we collect for the purpose: Based on the data we collect (e.g. membership level, visited product categories, settings, reviews, and clicks history), we perform an individual-level analysis. The insights from the analyses form the basis for our communication with you and what offers, benefits and information about e.g. tips or new products is presented to you.  
+ **Categories of personal data**|  Name. Username. Age. Gender. Town/City. Membership level. Purchase history. Purchase and user-generated data (e.g. clicks and visit history). Specified customer choices regarding e.g. communication channels or tools on the website.  
+ **Legal basis**|  Full implementation of the membership agreement. This collection of your personal data is required in order for us to meet our obligations according to the membership agreement. If the data is not provided, our commitments cannot be met and we are therefore forced to refuse membership or access to services.  
+ **Storage period**|  Until membership is terminated under ‘My pages’ on PriceRunner's website.  
+  
+## From what sources do we retrieve your personal data?
 
-For each visitor to our website, our Web server automatically recognizes only the visitor's IP address. We use your IP address to administer our website. Upon visiting our website, we assign each visitor a unique ID that is used to track visitor traffic patterns within our website. We also collect aggregate and user-specific information on the pages that visitors access or visit. We reserve the right to retain all website traffic reporting data as long as may be reasonably necessary for accounting and auditing purposes. As part of our on-going efforts to ensure the best possible experience for all users of the Site, we may use log files, web beacons and cookies to collect Non-PII from the Site, browsers, advertisers and third-party sites. "Log files" track actions occurring on the Site and collect data including: your IP address, browser type, Internet service provider, referring/exit pages, platform type, date/time stamp, click data and types of advertisements viewed. Image requests or (“web beacons”) can transmit information used to track your data, which may include the navigation of a website or collection of sites, the completion of transactions, submittal of applications and browsing behaviour. This information is written to cookies. ”Cookies" are files (e.g. flash browser objects) that are stored on your Internet enabled device (which includes your computer, BlackBerry or other PDA). Cookies are used to improve the experience web users have when they see web advertisements and ensure that when a web user clicks on an advertisement, they are sent to the correct click-through destination. We may use Cookies for purposes which may include, without limitation, to estimate the total reach of any of our advertisers, how frequently you return to the Site, as well as to streamline experiences of users of our Site. Cookies are also an anonymous way to survey how we are doing and to look for ways to improve our services. All information collected by Cookies, Web beacons and Log files are Non-PII.
+In addition to the data you provide us, or which we collect from you based on your purchases and how you use our services, we may also collect personal data from someone else (a so-called third party). Examples of data we collect from third parties may be address data from public records (to ensure our retailers deliver to the correct address) or information from signing in with Facebook or another social network to facilitate your experience as a user. Such retrieval never happens without explicit consent from you as a user.
 
-There are two classes of Cookies based on how long they remain on your system: (i) "Session Cookies" may be used only during your visit to the Site and are erased once you close your browser, and (ii) "Persistent Cookies" (if applicable) remain on your browser for one (1) year from your last visit to the Site and enable us to remember you on subsequent visits to the Site and provide more relevant content to you on such Site.
+## Who could we end up sharing your personal data with?
 
-There are many misconceptions about Cookies, some of which we will try to address in this policy. Cookies cannot erase your hard drive or otherwise damage your computer and do not tell us an e-mail address or any other PII. We do not and cannot use Cookies or web beacons to retrieve PII from your computer.
+ _Data processors._ In cases where it is necessary so that we can provide our services, we share your personal data with companies that are so-called data processors for us. A data processor is a company that processes the data on our behalf and according to our instructions. We have data processors who help us with:
 
-A useful resource on understanding Cookies may be found at http://www.allaboutcookies.org.
+  1. Payment solutions (card issuing companies, banks and other payment service providers). 
+  2. Marketing (print and distribution, social media, media agencies or advertising agencies). 
+  3. IT services (companies that handle necessary operative solutions, technical support and maintenance of our IT solutions) 
+  4. Billing in cases where a retailer has Swedish social security number as corporate ID number (one-person company). 
+  5. Aggregation, anonymisation and sale of behavioural data.
 
-#### Third Party Advertising
 
-We have relationships with third-party advertising companies to drive traffic to and to serve ads on our Site. We share Clickstream Data and Non-PII with such advertising companies. Such companies may also collect non-personally identifiable information through the use of Cookies and other technology and any personally identifiable information you may choose to give in registering and transacting with any website linked to such ads. Although we choose our business partners and clients carefully, we are not responsible for the privacy practices of such third parties. You should check the applicable privacy policies of these third-party advertisers to determine how they handle any information they collect from you.
 
-#### Contact Information or Personally Identifying Information
+When your personal data is shared with personal data counsels, it is for purposes that are compatible with the purposes for which we have collected the data (e.g. to meet our obligations according to purchase or membership terms). We check all personal data counsels to ensure that they can provide sufficient safeguards regarding the security and confidentiality of personal data. We have written agreements with all personal data counsels through which they guarantee the security of the personal data processed and undertake to comply with our security requirements as well as restrictions and requirements regarding the international transfer of personal data.
 
-PriceRunner does not automatically collect any personal information about you. We do collect PII, including but not limited to your name, e-mail address, geographical location, age and gender, through membership registration, newsletter sign-up requests or promotional contests. We have access to your PII after such PII has been submitted to us where for example (i) you provide us with personal and corporate information, such as name, address, email address and other account information, in order to be able to access and use our services (ii) as part of our sales efforts, we may collect and store data through online forms for contact purposes (iii) you provide information when you send us inquiries relating to our services or in relation to this Privacy Policy (iv) you become a registered user of our Site, (v) you subscribe to any of our newsletters (vi) you contact us by submitting a comment, problem, or request for information ,for example if you report a problem with our site (vii) you submit a review of one of our merchants we will use your email to give you feedback and/or enquire about the delivery process of your product (viii) you submit PII in connection with special offers or contests which can then be used for contact purposes by PriceRunner and/or merchant/supplier,or by (ix) signing up as one of our advertisers, merchants or business partners.
+Companies which are independently responsible for personal data. We also share your personal data with certain companies that are independently responsible for personal data. The fact that the company is independently responsible for personal data means that we are not the party controlling how the data submitted to the company will be processed. Companies and other parties who are independently responsible for personal data and with whom we share your personal data with are:
 
-PII provided in connection with problems, comments or requests is used only to respond to those problems, comments or requests. This information is not stored or used in connection with Clickstream Data and is provided to a third party only as necessary to respond to the comment, problem or request of as required by law or court order.
+  1. Government agencies (police, tax agencies or other authorities) if we are required to do so by law or upon the suspicion of crime. 
+  2. Companies offering payment solutions (card issuing companies, banks and other payment service providers). 
 
-Please note that it is not necessary for you to become a member in order to use many of the features on Pricerunner.com, a non-member can easily see products and prices, perform searches, read reviews and take advantage of many other useful features on the site.
 
-PriceRunner also operates a free e-newsletter service - the PriceRunner Update - to help you keep up-to-date with the best deals, contests and PriceRunner news. This is an opt-in service so, as a member, you will receive the newsletter. To unsubscribe simply send an e-mail to infose@pricerunner.com and include your e-mail address.
 
-The reason that we ask for this PII is to provide you with information that you may request, to customize your experience on the Site, and to contact you when necessary in connection with any promotions you participate in.
+When your personal data is shared with a company that is independently responsible for personal data, the privacy policy and personal data management of that company takes precedence and is that which applies.
 
-We also use this information for internal business purposes, such as aggregating the data to help us to create a profile of PriceRunner visitors, as a whole, so that we can; a) build a better understanding of our users and enhance the services we offer, and b) attract advertisers to spend money on PriceRunner, thus enabling our free price comparison service to operate.
+## Where do we process your personal data?
 
-Finally, from time to time, but only with your permission, we may provide your PII to selected third parties who wish to participate in special promotions offered in conjunction with us.
+We always strive to ensure that your personal data is processed within the EU/EEA and that all of our own IT systems are located within the EU/EEA. However, upon systematic support and maintenance, we may have to transfer the data to a country outside the EU/EEA. If we share your personal data with a personal data counsel who - either on their own or through a subcontractor - is established or stores data in a country outside the EU/EEA, in these cases the counsel may only share the data relevant to the purpose (e.g. log files).
 
-### Do we collect personally identifying information from or about children?
+Regardless of the country in which your personal data is processed, we take all reasonable legal, technical and organisational measures to ensure that the level of protection is the same as within the EU/EEA. In cases where personal data is processed outside of the EU/EEA, the level of protection is guaranteed either by a decision by the EU Commission that the country concerned ensures an adequate level of protection or by the use of so-called appropriate safeguards. Examples of appropriate safeguards are approved codes of conduct in the recipient country, standard contract clauses, binding company internal rules or Privacy Shield. If you want a copy of the safeguards that have been taken or information about where these have been made available, please contact us at privacy@pricerunner.com.
 
-We use reasonable efforts not to collect, use or disclose PII from children under the age of 13. The services are not targeted at children, and children age 13 and under may not register for any portions of the services that require registration. If you believe your child has provided us with any PII data by registering on our Site, please specify this issue and email us at privacy@pricerunner.com.
+## How long do we storage your personal data?
 
-### How is my data processed?
+We never storage your personal data longer than is necessary for each purpose. See more about the special storage periods for each purpose.
 
-We may disclose data to other entities within the EU belonging to the PriceRunner group of companies and to third parties located in the EU to the extent that such disclosure is not incompatible with the purposes for which data are collected as mentioned above, but only that they provide adequate privacy protection.
+## What rights do you have as someone who is a registered member?
 
-You acknowledge that PriceRunner and its affiliate entities operate in the United States and the European Union and agree to (i) permit pricerunner.co.uk to transmit and use your User information anywhere necessary, including across international boundaries, to affect the services and transactions provided by this Site; and (ii) that such use by us shall be subject to the Terms stated in this Privacy Policy and our Terms of Use.
+ _Right to access_ (so-called register extract). We are always open and transparent about how we process your personal data and if you want to gain a deeper insight into the personal data we are processing, you may request access to the data (the data is provided in the form of a register extract indicating purpose, categories of personal data, categories of recipients, storage periods, information about where the information has been collected and the existence of any automated decision-making).
 
-### Do I have choices?
+Please note that if we receive a request for access, we may ask for additional information to ensure the effective handling of your request and that the information is provided to the correct person.
 
-Yes. You may opt-out at any time by sending request that includes your full name, email address, and postal address with a request for opt-out with regard to your PII to: Country Manager, PriceRunner, Sveavägen 38, 111 34 Stockholm, Sweden or you can email us including your full name, email address with a request for opt-out with regard to your PII to privacy@pricerunner.com.
+ _Right to rectification_. You may request that your personal information be corrected if the information is incorrect. Within the framework of the stated purpose, you also have the right to supplement any incomplete personal data.
 
-The Cookies we use do not have an "opt-out" option, yet you still have the option of blocking the use of cookies by changing a setting in your Internet browser. Please see your browser supplier's website for details on how to do this.
+Keep in mind that you as a member of PriceRunner can edit a great deal of submitted data when logged in on PriceRunner's website.
 
-If you have multiple internet browsers or users on the same computer, you will need to perform the opt-out operation for each browser and/or user. If you or your privacy software blocks the use of cookies, you will need to repeat the opt-out operation for each browser and/or user by changing a setting in your Internet browser. Alternatively, most internet browsers and browser add-ons allow you to adjust their settings to allow you to automatically refuse Cookies either generally or from specific sites. To adjust these settings, we suggest that you contact the supplier of you browser and browser add-ons for more information.
+ _Right to deletion_. You may request the deletion of personal data we process about you if:
 
-Please note that the implementation of browser settings that refuse all cookies will affect our ability to provide you content and advertisements that will more effectively match your interests and may prevent us from controlling the frequency with which you may view any particular advertisement. "Session Cookies" are used only during your visit to the Site and are erased once you close your browser.
+  * The data is no longer necessary for the purposes for which they have been collected or processed.
+  * You oppose a weighing of interests we have performed based on legitimate interest and your objection weighs more than our legitimate interest.
+  * You oppose processing for direct marketing purposes.
+  * Personal data is processed illegally.
+  * Personal data must be erased to comply with a legal obligation we are subject to.
+  * Personal data which has been collected for a child (under the age of 13) for which you have parental responsibility and collection has been made in connection with an offering via information society services (e.g. social media).
 
-We may need to share information you have supplied with third parties in limited circumstances for legal compliance, to prevent fraud or imminent harm, to ensure security, or in case of a transfer of ownership of the company. We do not collect or process any sensitive data such as data about health or similarly sensitive matters.
 
-If at any time you no longer wish to receive offers from a PriceRunner, you may "unsubscribe" by sending an email to infuse@pricerunner.com or by using the unsubscribe option within any promotional offer. In compliance with the Privacy and Electronic Communications (EC Directive) Regulations 2003, you will be removed entirely from our email list and will no longer receive offers from us. If you have registered or submitted PII under more than one email account, you must submit separate unsubscribe requests from each account.
 
-PriceRunner sends a confirming email for each member registration. You may change, correct or update your information by email by contacting infose@pricerunner.com. Changing or deleting your information or otherwise opting-out of receipt of communications from the PriceRunner will change or delete the data only in our database for purposes of transacting future business on our sites and for managing future communications from PriceRunner. These changes and deletions will not change or delete information already collected as part of a particular transaction.
+Keep in mind that we may have the right to deny your request if there are legal obligations that prevent us from immediately deleting certain personal data. These obligations derive from accounting and tax legislation, banking and money laundering legislation, yet also from consumer law. It may also be possible that processing is necessary for us to determine, enforce or defend legal claims. Should we be prevented from granting a request for deletion, we will instead block personal data from being used for purposes other than the purpose that prevents the requested deletion.
 
-### Is data stored by us secure?
+ _Right to limitation_. You have the right to request that our processing of your personal data be limited. If you disagree that the personal data we process is correct, you may request limited processing during the time which we need to check if your personal data is correct or not. If we no longer need your personal data for the stated purposes, but you need the data to determine, enforce or defend legal claims, you may request limited processing of the data by us. This means that you can request that we do not delete your data.
 
-We take appropriate technical and organisational measures to protect your personal data. We employ industry standard security measures to ensure the security of all data. While we strive to protect your information, we cannot ensure or warrant the security of any information you transmit to us. You acknowledge and assume this risk when communicating with us.
+If you have objected to a weighing of interest of legitimate interest that we have performed as a legal basis for a purpose, you may request limited processing during the time which we need in order to check if our legitimate interest outweighs your interest in having the data deleted. If the processing has been limited in accordance with any of the above situations, we may, in addition to the actual storage, process the data to determine, enforce or defend legal claims, to protect someone else's rights or if you have given your consent.
 
-### How can I learn about changes to this privacy policy?
+ _Right to object to certain types of processing_. You always have the right to avoid direct marketing and to object to all processing of personal data based on a weighing of interest.
 
-We may find it necessary or be legally obligated to update this Privacy Policy from time to time. When we do, we will post those changes on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it. Your continued usage of this site after such notice shall constitute acceptance of any such changes.
+ _Legitimate interest_ In cases where we use a weighing of interest as a legal basis for a purpose, you have the possibility to object to the processing. In order to continue processing your personal data after such objection, we need to demonstrate a compelling legitimate reason for the current processing that weighs heavier than your interests, rights or freedoms. Otherwise, we may only process the data to determine, exercise or defend legal claims.
 
-We encourage you to review the Privacy Policy whenever you use this Site to make sure you understand how your information will be used.
+ _Direct marketing_ (including analyses performed for direct marketing purposes): You may object to your personal data being processed for direct marketing. The objection also includes the analyses of personal data (so-called profiling) performed for direct marketing purposes. Direct marketing refers to all types of targeted marketing actions (e.g. e-mail and text messaging). Marketing actions - where you as a customer have actively chosen to use one of our services or otherwise initiated contact with us to know more about our services - do not count as direct marketing (such as product recommendations or other features and offers on PriceRunner's website).
 
-### Limitation of Liability, Third Party Information & Language
+If you oppose direct marketing, we will discontinue the processing of your personal data for that purpose and terminate any direct marketing actions.
 
-YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND OUR TERMS AND CONDITIONS (INCLUDING LIMITATIONS ON DAMAGES, AND ARBITRATION OF DISPUTES). YOU AGREE THAT PRICERUNNER’S LIABILITY FOR ANY BREACH OF THIS PRIVACY POLICY SHALL BE LIMITED TO THE VALUE OF THE TRANSACTIONS OR SERVICES PROVIDED TO YOU BY PRICERUNNER TO THE EXTENT SUCH CLAIM IS NOT OTHERWISE BARRED BY OUR TERMS AND CONDITIONS. NOTHING IN THIS AGREEMENT LIMITS OR EXCLUDES EITHER PARTY'S LIABILITY FOR FRAUD OR FOR NEGLIGENCE CAUSING DEATH OR PERSONAL INJURY.
+Keep in mind that you are always able to influence which channels we will use for communicating personal offers. E.g. you can choose to receive only e-mails from us, but not text messages. In this case, you should not object to personal data processing as such but limit our communication channels (by changing the settings on ‘My pages’or by contacting customer service).
 
-You also agree that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to PriceRunner with regard to: (a) the purposes for which such third party's data has been collected; (b) the intended recipients or categories of recipients of the third party's personal data; (c) which of the third party's data are obligatory and which data, if any, are voluntary; and (d) how the third party can access and, if necessary, rectify the data held about them.
+ _Right to data portability_. If our right to process your personal data is based either on your consent or implementation of an agreement with you, you are entitled to request that the data relating to you and which you have provided to us is transferred to another party which will be responsible for the personal data (so-called data portability). A prerequisite for data portability is that the transfer is technically possible and can occur in an automated manner. Does PriceRunner process social security numbers?
 
-### How do I find out more about our information practices?
+PriceRunner never processes social security numbers, unless it is absolutely necessary for a retailer to complete a transaction on PriceRunner's website. We will only process your social security number when it is clearly motivated by the purpose, necessary for secure identification or if there is any other prominent reason. We will always minimise the use of your social security number by using, to as great an extent possible, your date of birth numbers instead.
 
-If you have any questions about anything in this Privacy Policy, please contact us as follows:
+## What are cookies and how do we use them?
 
-PriceRunner, Country Manager, Sveavägen 38, 111 34 Stockholm, Sweden should you have any questions regarding this Privacy Policy.
+Cookies are a small texts consisting of letters and numbers sent from our web server and stored on your browser or device. On PriceRunner.co.uk, we use the following cookies: 1\. Session cookies (a temporary cookie that terminates when you close your browser or device). 2\. Sustained cookies (cookies that remain on your computer until you delete them or they expire). 3\. First party cookies (cookies set by the website you visit). 4\. Third party cookies (cookies set by a third party site). These are primarily used for analyses, e.g. Google Analytics.). 5\. Similar technologies (technologies that store information in your browser or device in a manner similar to cookies).
 
-E-mail: [privacy@pricerunner.com](mailto:privacy@pricerunner.com)
+The cookies we use are intended to improve the services we offer. Some of our services need cookies to work properly, while others improve the services for you. We use cookies for overall analytical information regarding your use of our services and for saving functional settings such as language and other information. We also use cookies to provide relevant targeted marketing to you. You can always contact us for more specific information, or if you have questions about our cookies, by e-mailing privacy@pricerunner.com.
 
-Pricerunner Sweden AB Sveavägen 38, 111 34 Stockholm, Sweden
+## Can you yourself control the use of cookies?
+
+Yes! Your browser or device allows you to change the settings for the usage and scope of cookies. Go to the settings of your browser or device to learn more about managing the settings for cookies. Examples of things you can manage are blocking all cookies, only accepting first party cookies, or deleting cookies when you close your browser. Keep in mind that some of our services might not work if you block or delete cookies. You can read more about cookies in general on youronlinechoices.eu.
+
+## How is your personal data protected?
+
+We use IT systems to protect the privacy, integrity and access to personal data. We have adopted security measures to protect your personal data against unauthorised or illegal processing (such as unauthorised access, loss, destruction or damage). Only those persons who actually need to process your personal data to meet our stated purposes have access to them.
+
+## What does it mean that the Data Inspectorate is the supervisory authority?
+
+The Data Inspectorate is responsible for monitoring the application of the law, and a person who deems that a company processes personal data in an incorrect manner is able to file a complaint with the Data Inspectorate.
+
+## How do you contact us in the easiest manner with questions about data protection?
+
+Since we take data protection very seriously, we have designated employees who handle these issues, and you can always reach them via privacy@pricerunner.com.
+
+We may make changes to our privacy policy. The latest version of the privacy policy is always available here on the website. Upon updates that are critical to our processing of personal data (such as a change in specified purposes or categories of personal data) or updates that are not critical to processing but which may be of crucial importance to you, you will receive information via pricerunner.co.uk and via e-mail (if you have stated an e-mail address) in good time before the updates start to apply. When we provide information about updates, we will also explain what the updates involve and how they affect you.
+
+ _The Privacy policy was last updated 21-05-2018_
