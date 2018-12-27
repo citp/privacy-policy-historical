@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ticksy.com privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519013441id_/https%3A//ticksy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticksy.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227142028id_/https%3A//ticksy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Ticksy
 
