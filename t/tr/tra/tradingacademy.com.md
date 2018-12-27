@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the tradingacademy.com privacy policy that was archived on 2017-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170925132459id_/http%3A//www.tradingacademy.com/policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradingacademy.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227130742id_/https%3A//www.tradingacademy.com/policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Online Trading Academy
+
+This Privacy Policy is applicable if you are not in a European Union country. If you are in a European Union country please go here: [https://www.tradingacademy.com/eu-privacy-notice.aspx](https://web.archive.org/eu-privacy-notice.aspx) for the Privacy Notice applicable to you.
 
 Online Trading Academy takes your privacy seriously. The following privacy policy is intended to provide you detailed information about the privacy of your information and how it's secured on TradingAcademy.com and our community site at community.tradingacademy.com (the "Site(s) and the Service") and any other websites owned and operated by Online Trading Academy Franchise Corporation (together "We" and "Us").
 
