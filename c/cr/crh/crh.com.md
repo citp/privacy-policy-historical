@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crh.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605141952id_/http%3A//www.crh.com/fns/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crh.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227190725id_/https%3A//www.crh.com/fns/privacy-cookies) for the most accurate reproduction.*
 
 # Privacy - Cookies
 
