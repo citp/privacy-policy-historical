@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the hip2save.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627032909id_/https%3A//hip2save.com/about-me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hip2save.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227105816id_/https%3A//hip2save.com/about-me/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Hip2Save
+# Privacy Policy - Hip2Save
 
   1. **Privacy Policy**
 
 
 
-LAST UPDATED ON May 24, 2018
+LAST UPDATED ON November 12, 2018
 
 This Privacy Policy is in all respects subject to and governed by the Hip2Save TERMS OF USE & AFFILIATE DISCLOSURE available [here](https://hip2save.com/about-me/disclosure-policy). Do not use our site or services if you do not agree with this Privacy Policy or the TERMS OF USE & AFFILIATE DISCLOSURE.
 
@@ -82,6 +82,8 @@ We intend to keep doing what we do for you. Although we have no plans to transfe
 
 We reserve the right to change this Privacy Policy at any time by posting the revised Privacy Policy in the “Privacy Policy” section of the website. The revised Privacy Policy is effective immediately when posted on Hip2Save. It is the responsibility of each user to review the website and the Privacy Policy periodically to learn of any revisions to this Privacy Policy. Your continued use of the website after the effectiveness of such revisions will constitute your acknowledgment and acceptance of the terms of the revised Privacy Policy.
 
+**Important Note:** Any correspondence with Hip2Save or submission of content to Hip2Save, including documentation and images, is considered property of Hip2Save. Hip2Save reserves the right to reproduce such content, in whole or in part, and to use it in any manner, including allowing third parties to republish the material. In submitting something to Hip2Save, you are representing that the content belongs to you, does not infringe on any third party’s rights – copyright, trademark, privacy rights and the like – and is not libelous or unlawful in any other way.
+
 **Questions**  
 If you have any questions about our Privacy Policy or wish to contact us regarding your Personal Data, please feel free to contact us at:
 
@@ -90,4 +92,6 @@ HIP Happenings LLC
 Boise, ID 83702  
 Email: bryn@hip2save.com
 
-_This policy was lasted updated on May 24, 2018  _
+_This policy was lasted updated on November 12, 2018  _
+
+It's not your Grandma's coupon site!
