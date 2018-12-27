@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the howtheyplay.com privacy policy that was archived on 2018-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180627150251id_/https%3A//howtheyplay.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the howtheyplay.com privacy policy that was archived on 2018-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181227222409id_/https%3A//howtheyplay.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head><script src="https://assets.hubstatic.com/s/ss198635230.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<!DOCTYPE html><html lang="en"><head><script async="" src="//cdn.petametrics.com/999gba4qphtjrmpe.js?ts=439026"></script><script src="https://assets.hubstatic.com/s/ss141799037.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <title>HubPages Network Privacy Policy | HowTheyPlay</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
@@ -12,6 +12,9 @@
 
 <script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js?"></script><script>
 window.gdprConsents = {"version":1,"user_version":1,"categories":{"features":true,"marketing":true,"stats":true},"vendors":{"features":{"googlesearch":true,"googlemaps":true,"googlecharts":true,"adsensehost":true,"youtube":true,"vimeo":true,"paypal":true,"facebooklogin":true,"maven":true},"marketing":{"adsense":true,"doubleclick":true,"indexexchange":true,"sovrn":true,"facebookads":true,"amazonads":true,"appnexus":true,"openx":true,"rubicon":true,"triplelift":true,"saymedia":true,"remarketing":true,"conversion":true},"stats":{"authoranalytics":true,"comscore":true,"amazonaffpixel":true}},"eu":false};
+//Unfetch 4.0.1, Copyright (c) 2017 Jason Miller, The MIT License (MIT)
+self.fetch||(self.fetch=function(e,n){return n=n||{},new Promise(function(t,r){var s=new XMLHttpRequest;for(var o in s.open(n.method||"get",e,!0),n.headers)s.setRequestHeader(o,n.headers[o]);function u(){var e,n=[],t=[],r={};return s.getAllResponseHeaders().replace(/^(.*?):[^\S\n]*([\s\S]*?)$/gm,function(s,o,u){n.push(o=o.toLowerCase()),t.push([o,u]),r[o]=(e=r[o])?e+","+u:u}),{ok:2==(s.status/100|0),status:s.status,statusText:s.statusText,url:s.responseURL,clone:u,text:function(){return Promise.resolve(s.responseText)},json:function(){return Promise.resolve(s.responseText).then(JSON.parse)},blob:function(){return Promise.resolve(new Blob([s.response]))},headers:{keys:function(){return n},entries:function(){return t},get:function(e){return r[e.toLowerCase()]},has:function(e){return e.toLowerCase()in r}}}}s.withCredentials="include"==n.credentials,s.onload=function(){t(u())},s.onerror=r,s.send(n.body||null)})});
+
 function fetchScript(a, b) {
     var c = document.createElement('script'), d = "https:" == document.location.protocol, e = false;
     c.async = true;
@@ -82,8 +85,17 @@ var hubpagesConsent = {
 		
 		for (var i = 0; i < this.funcs.length; i++) {
 			var o = this.funcs[i];
-			if (!o.rerunable && o.timesRun > 0) { //some can't be run more than once
-				continue;
+
+			if (o.timesRun > 0) { //some can't be run more than once
+				var isRerunable;
+				if ('function' == typeof(o.rerunable)) {
+					isRerunable = o.rerunable();
+				} else {
+					isRerunable = o.rerunable;
+				}
+				if (!isRerunable) {
+					continue;
+				}
 			}
 			
 			o.timesRun++;
@@ -130,11 +142,11 @@ var hubpagesConsent = {
 		}
 	},
 	
-	loadIfConsented: function(category, service, url, func)
+	loadIfConsented: function(category, service, url, func, rerunable)
 	{
 		this.runIfConsented(category, service, function() {
 			fetchScript(url, func);
-		});
+		}, null, rerunable);
 	},
 	
 	log: function(str)
@@ -222,19 +234,44 @@ if (typeof(hpstdata) != "undefined") {
 */
 (function(global){var _$LAB=global.$LAB,_UseLocalXHR="UseLocalXHR",_AlwaysPreserveOrder="AlwaysPreserveOrder",_AllowDuplicates="AllowDuplicates",_CacheBust="CacheBust",_Debug="Debug",_BasePath="BasePath",_ErrorHandler="ErrorHandler",root_page=/^[^?#]*\//.exec(location.href)[0],root_domain=/^\w+\:\/\/\/?[^\/]+/.exec(root_page)[0],append_to=document.head||document.getElementsByTagName("head"),opera_or_gecko=(global.opera&&Object.prototype.toString.call(global.opera)=="[object Opera]")||("MozAppearance"in document.documentElement.style),log_msg=function(){},log_error=log_msg,test_script_elem=document.createElement("script"),explicit_preloading=typeof test_script_elem.preload=="boolean",real_preloading=explicit_preloading||(test_script_elem.readyState&&test_script_elem.readyState=="uninitialized"),script_ordered_async=!real_preloading&&test_script_elem.async===true,xhr_or_cache_preloading=!real_preloading&&!script_ordered_async&&!opera_or_gecko;if(global.console&&global.console.log){if(!global.console.error)global.console.error=global.console.log;log_msg=function(msg){global.console.log(msg)};log_error=function(msg,err){global.console.error(msg,err)}}function is_func(func){return Object.prototype.toString.call(func)=="[object Function]"}function is_array(arr){return Object.prototype.toString.call(arr)=="[object Array]"}function canonical_uri(src,base_path){var absolute_regex=/^\w+\:\/\//;if(/^\/\/\/?/.test(src)){src=location.protocol+src}else if(!absolute_regex.test(src)&&src.charAt(0)!="/"){src=(base_path||"")+src}return absolute_regex.test(src)?src:((src.charAt(0)=="/"?root_domain:root_page)+src)}function merge_objs(source,target){for(var k in source){if(source.hasOwnProperty(k)){target[k]=source[k]}}return target}function check_chain_group_scripts_ready(chain_group){var any_scripts_ready=false;for(var i=0;i<chain_group.scripts.length;i++){if(chain_group.scripts[i].ready&&chain_group.scripts[i].exec_trigger){any_scripts_ready=true;chain_group.scripts[i].exec_trigger();chain_group.scripts[i].exec_trigger=null}}return any_scripts_ready}function create_script_load_listener(elem,registry_item,flag,onload){elem.onload=elem.onreadystatechange=function(){if((elem.readyState&&elem.readyState!="complete"&&elem.readyState!="loaded")||registry_item[flag])return;elem.onload=elem.onreadystatechange=null;onload()}}function script_executed(registry_item){registry_item.ready=registry_item.finished=true;for(var i=0;i<registry_item.finished_listeners.length;i++){registry_item.finished_listeners[i]()}registry_item.ready_listeners=[];registry_item.finished_listeners=[]}function request_script(chain_opts,script_obj,registry_item,onload,preload_this_script){setTimeout(function(){var script,src=script_obj.real_src,xhr;if("item"in append_to){if(!append_to[0]){setTimeout(arguments.callee,25);return}append_to=append_to[0]}script=document.createElement("script");if(script_obj.type)script.type=script_obj.type;if(script_obj.charset)script.charset=script_obj.charset;if(preload_this_script){if(real_preloading){if(chain_opts[_Debug])log_msg("start script preload: "+src);registry_item.elem=script;if(explicit_preloading){script.preload=true;script.onpreload=onload}else{script.onreadystatechange=function(){if(script.readyState=="loaded")onload()}}script.src=src}else if(preload_this_script&&src.indexOf(root_domain)==0&&chain_opts[_UseLocalXHR]){xhr=new XMLHttpRequest();if(chain_opts[_Debug])log_msg("start script preload (xhr): "+src);xhr.onreadystatechange=function(){if(xhr.readyState==4){xhr.onreadystatechange=function(){};registry_item.text=xhr.responseText+"\n//@ sourceURL="+src;onload()}};xhr.open("GET",src);xhr.send()}else{if(chain_opts[_Debug])log_msg("start script preload (cache): "+src);script.type="text/cache-script";create_script_load_listener(script,registry_item,"ready",function(){append_to.removeChild(script);onload()});script.src=src;append_to.insertBefore(script,append_to.firstChild)}}else if(script_ordered_async){if(chain_opts[_Debug])log_msg("start script load (ordered async): "+src);script.async=false;create_script_load_listener(script,registry_item,"finished",onload);script.src=src;append_to.insertBefore(script,append_to.firstChild)}else{if(chain_opts[_Debug])log_msg("start script load: "+src);create_script_load_listener(script,registry_item,"finished",onload);script.src=src;append_to.insertBefore(script,append_to.firstChild)}},0)}function create_sandbox(){var global_defaults={},can_use_preloading=real_preloading||xhr_or_cache_preloading,queue=[],registry={},instanceAPI;global_defaults[_UseLocalXHR]=true;global_defaults[_AlwaysPreserveOrder]=false;global_defaults[_AllowDuplicates]=false;global_defaults[_CacheBust]=false;global_defaults[_Debug]=false;global_defaults[_BasePath]="";global_defaults[_ErrorHandler]=function(err){};function execute_preloaded_script(chain_opts,script_obj,registry_item){var script;function preload_execute_finished(){if(script!=null){script=null;script_executed(registry_item)}}if(registry[script_obj.src].finished)return;if(!chain_opts[_AllowDuplicates])registry[script_obj.src].finished=true;script=registry_item.elem||document.createElement("script");if(script_obj.type)script.type=script_obj.type;if(script_obj.charset)script.charset=script_obj.charset;create_script_load_listener(script,registry_item,"finished",preload_execute_finished);if(registry_item.elem){registry_item.elem=null}else if(registry_item.text){script.onload=script.onreadystatechange=null;script.text=registry_item.text}else{script.src=script_obj.real_src}append_to.insertBefore(script,append_to.firstChild);if(registry_item.text){preload_execute_finished()}}function do_script(chain_opts,script_obj,chain_group,preload_this_script){var registry_item,registry_items,ready_cb=function(){script_obj.ready_cb(script_obj,function(){execute_preloaded_script(chain_opts,script_obj,registry_item)})},finished_cb=function(){script_obj.finished_cb(script_obj,chain_group)};script_obj.src=canonical_uri(script_obj.src,chain_opts[_BasePath]);script_obj.real_src=script_obj.src+(chain_opts[_CacheBust]?((/\?.*$/.test(script_obj.src)?"&_":"?_")+~~(Math.random()*1E9)+"="):"");if(!registry[script_obj.src])registry[script_obj.src]={items:[],finished:false};registry_items=registry[script_obj.src].items;if(chain_opts[_AllowDuplicates]||registry_items.length==0){registry_item=registry_items[registry_items.length]={ready:false,finished:false,ready_listeners:[ready_cb],finished_listeners:[finished_cb]};request_script(chain_opts,script_obj,registry_item,((preload_this_script)?function(){registry_item.ready=true;for(var i=0;i<registry_item.ready_listeners.length;i++){registry_item.ready_listeners[i]()}registry_item.ready_listeners=[]}:function(){script_executed(registry_item)}),preload_this_script)}else{registry_item=registry_items[0];if(registry_item.finished){finished_cb()}else{registry_item.finished_listeners.push(finished_cb)}}}function create_chain(){var chainedAPI,chain_opts=merge_objs(global_defaults,{}),chain=[],exec_cursor=0,scripts_currently_loading=false,group;function chain_script_ready(script_obj,exec_trigger){if(chain_opts[_Debug])log_msg("script preload finished: "+script_obj.real_src);script_obj.ready=true;script_obj.exec_trigger=exec_trigger;advance_exec_cursor()}function chain_script_executed(script_obj,chain_group){if(chain_opts[_Debug])log_msg("script execution finished: "+script_obj.real_src);script_obj.ready=script_obj.finished=true;script_obj.exec_trigger=null;for(var i=0;i<chain_group.scripts.length;i++){if(!chain_group.scripts[i].finished)return}chain_group.finished=true;advance_exec_cursor()}function advance_exec_cursor(){while(exec_cursor<chain.length){if(is_func(chain[exec_cursor])){if(chain_opts[_Debug])log_msg("$LAB.wait() executing: "+chain[exec_cursor]);try{chain[exec_cursor++]()}catch(err){chain_opts[_ErrorHandler](err);if(chain_opts[_Debug])log_error("$LAB.wait() error caught: ",err)}continue}else if(!chain[exec_cursor].finished){if(check_chain_group_scripts_ready(chain[exec_cursor]))continue;break}exec_cursor++}if(exec_cursor==chain.length){scripts_currently_loading=false;group=false}}function init_script_chain_group(){if(!group||!group.scripts){chain.push(group={scripts:[],finished:true})}}chainedAPI={script:function(){for(var i=0;i<arguments.length;i++){(function(script_obj,script_list){var splice_args;if(!is_array(script_obj)){script_list=[script_obj]}for(var j=0;j<script_list.length;j++){init_script_chain_group();script_obj=script_list[j];if(is_func(script_obj))script_obj=script_obj();if(!script_obj)continue;if(is_array(script_obj)){splice_args=[].slice.call(script_obj);splice_args.unshift(j,1);[].splice.apply(script_list,splice_args);j--;continue}if(typeof script_obj=="string")script_obj={src:script_obj};script_obj=merge_objs(script_obj,{ready:false,ready_cb:chain_script_ready,finished:false,finished_cb:chain_script_executed});group.finished=false;group.scripts.push(script_obj);do_script(chain_opts,script_obj,group,(can_use_preloading&&scripts_currently_loading));scripts_currently_loading=true;if(chain_opts[_AlwaysPreserveOrder])chainedAPI.wait()}})(arguments[i],arguments[i])}return chainedAPI},wait:function(){if(arguments.length>0){for(var i=0;i<arguments.length;i++){chain.push(arguments[i])}group=chain[chain.length-1]}else group=false;advance_exec_cursor();return chainedAPI}};return{script:chainedAPI.script,wait:chainedAPI.wait,setOptions:function(opts){merge_objs(opts,chain_opts);return chainedAPI}}}instanceAPI={setGlobalDefaults:function(opts){merge_objs(opts,global_defaults);return instanceAPI},setOptions:function(){return create_chain().setOptions.apply(null,arguments)},script:function(){return create_chain().script.apply(null,arguments)},wait:function(){return create_chain().wait.apply(null,arguments)},queueScript:function(){queue[queue.length]={type:"script",args:[].slice.call(arguments)};return instanceAPI},queueWait:function(){queue[queue.length]={type:"wait",args:[].slice.call(arguments)};return instanceAPI},runQueue:function(){var $L=instanceAPI,len=queue.length,i=len,val;for(;--i>=0;){val=queue.shift();$L=$L[val.type].apply(null,val.args)}return $L},noConflict:function(){global.$LAB=_$LAB;return instanceAPI},sandbox:function(){return create_sandbox()}};return instanceAPI}global.$LAB=create_sandbox();(function(addEvent,domLoaded,handler){if(document.readyState==null&&document[addEvent]){document.readyState="loading";document[addEvent](domLoaded,handler=function(){document.removeEventListener(domLoaded,handler,false);document.readyState="complete"},false)}})("addEventListener","DOMContentLoaded")})(this);
 </script><script>$LAB.setGlobalDefaults({'ErrorHandler': function(err) { console.log(err); throw err; }});  var LABqueue = $LAB.script('https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js').wait(function() { jq = $.noConflict(); })
-.script('https://assets.hubstatic.com/s/ss198635230.js')
+.script('https://assets.hubstatic.com/s/ss141799037.js')
 ;
 </script><script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
- })(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create', 'UA-286186-41', 'auto', {'name': 'siteTracker'});
-ga('siteTracker.set', 'anonymizeIp', true);
-if (hubpagesConsent.isEU()) { ga('siteTracker.set', 'displayFeaturesTask', null); }
-ga('siteTracker.send', 'pageview');
-gaSiteTracker = 'siteTracker.';
+ })(window,document,'script','//www.google-analytics.com/analytics.js','ga');function fireMavenUA(mavenUID) {
+	ga('create', 'UA-126130613-1', 'auto', {'name': 'mavenTracker'});
+	ga('mavenTracker.set', 'anonymizeIp', true);
+	if (hubpagesConsent.isEU()) { ga('mavenTracker.set', 'displayFeaturesTask', null); }
+	if (mavenUID) { ga('mavenTracker.set', 'userId', mavenUID); }
+	ga('mavenTracker.send', 'pageview');
+}
+
+window.mavenUID = null;
+fetch('https://uid.mavencoalition.io/', {
+	credentials: 'include', // include the cookie in the request
+}).then(function(response) {
+	if (response.status === 200) {
+		response.json().then(function(resp) {
+			fireMavenUA(resp.uid);
+			window.mavenUID = resp.uid;
+			if (typeof(setupLiftigniter) === "function") { setupLiftigniter(resp.uid); }
+		});
+	} else {
+		throw new Error('invalid UID service response');
+	}
+}).catch(function(e) {
+	fireMavenUA(null);
+	if (typeof(setupLiftigniter) === "function") { setupLiftigniter(null); }
+});
+	ga('create', 'UA-286186-41', 'auto', {'name': 'siteTracker'});
+	ga('siteTracker.set', 'anonymizeIp', true);
+	if (hubpagesConsent.isEU()) { ga('siteTracker.set', 'displayFeaturesTask', null); }
+	ga('siteTracker.send', 'pageview');
+	window.gaSiteTracker = 'siteTracker.';
 </script>
 
-<link rel="stylesheet" type="text/css" href="https://assets.hubstatic.com/s/site-bases64376389.css">
+<link rel="stylesheet" type="text/css" href="https://assets.hubstatic.com/s/site-bases98450879.css">
 
 <style>
 .svglogo.howtheyplay-logo32 { width: 162px; height: 32px;}
@@ -258,7 +295,7 @@ gaSiteTracker = 'siteTracker.';
 <symbol id="howtheyplay-logo" viewBox="0 0 323 64"><path d="M2.052 60.362L0 56.34l3.747-.795c2.062-.437 17.023-.788 33.248-.78 23.03.01 32.46.418 43 1.856 13.47 1.837 17 2.813 17 4.697 0 .648-3.753.723-10.75.215-22.58-1.642-66.154-.375-79.445 2.31-2.358.475-2.953.04-4.748-3.48zm101.573-1.06c-1.277-3.183-1.254-3.654.222-4.532.94-.56 10.88-.978 23.148-.975 17.12.004 24.504.46 36.242 2.23 18.448 2.784 28.8 2.94 31.04.467 1.692-1.87 8.054-18.24 7.358-18.935-.226-.226-1.395 1.18-2.597 3.124-6.414 10.38-15.85 9.99-13.015-.535.607-2.253.924-4.276.705-4.495-.22-.22-1.847 1.838-3.618 4.57-6.328 9.768-13.86 13.764-19.98 10.6-3.037-1.57-3.805-3.14-4.36-8.92-.274-2.844-.283-2.84-3.528 1.783-3.775 5.378-6.813 6.97-9.747 5.107-2.966-1.882-2.898-4.2.415-14.086l3-8.954-4.048 4.48c-4.08 4.515-11.867 16.948-11.867 18.945 0 1.658-3.987 1.272-4.648-.45-.56-1.46 2.374-14.33 6.55-28.725l1.957-6.75h-6.486c-6.332 0-6.453.05-5.055 2.043 1.285 1.835 1.05 3.032-2.32 11.75-2.062 5.34-4.794 12.972-6.072 16.962-2.054 6.417-2.558 7.182-4.373 6.625-1.13-.345-2.138-.696-2.244-.78-.346-.272 3.74-17.955 5.802-25.1l2.556-8.86c.48-1.654.032-1.817-4.09-1.49l-4.628.37.644-3.01c.354-1.656.814-3.3 1.02-3.655.367-.628 11.058-2.24 22.556-3.405 3.584-.362 5.87-1.1 6.218-2.01.47-1.226 1.072-1.19 4.083.246 1.943.927 3.532 2.01 3.532 2.406 0 .397-1.39 3.8-3.09 7.565-4.896 10.84-9.032 21.554-8.52 22.067.26.258 1.42-1.394 2.583-3.672 3.075-6.026 8.84-12.052 11.532-12.052 1.25 0 3.317.845 4.592 1.878l2.32 1.878-4.71 10.01c-4.823 10.256-5.428 12.234-3.74 12.234 1.372 0 8.098-9.29 12.468-17.22 4.647-8.43 8.46-11.78 13.42-11.78 2.035 0 4.7.7 5.922 1.557 4.486 3.142 1.744 16.09-4.237 20.01-1.54 1.01-4.013 1.478-6.737 1.278l-4.303-.316-.318 3.866c-.175 2.127.13 4.316.676 4.863 1.543 1.542 5.736.035 9.8-3.524 4.145-3.63 12.605-16.057 14.502-21.3.683-1.89 1.805-3.436 2.494-3.436 1.835 0 6.345 2.196 6.345 3.09 0 .423-2.025 5.132-4.5 10.465-2.475 5.332-4.5 10.09-4.5 10.57 0 4.245 9.437-7.9 14.862-19.125 1.994-4.125 3.698-7.645 3.788-7.824.142-.28 6.287 2.594 7.165 3.35.174.15-.992 2.905-2.59 6.123-1.598 3.217-5.298 11.608-8.223 18.644-3.765 9.057-6.205 13.54-8.355 15.35-2.99 2.515-3.227 2.546-15.092 1.97-32.166-1.563-55.293-1.692-65.778-.367l-10.722 1.355-1.425-3.55zM172.697 34c2.434-2.67 4.712-9.23 3.92-11.29-1.506-3.927-5.196-.083-8.918 9.29l-1.69 4.25h2.32c1.273 0 3.24-1.012 4.367-2.25zm32.27 24.67c-.962-2.92-.948-3.817.072-4.447 2.11-1.304 25.465-2.277 36.835-1.534 5.84.38 18.045 1.783 27.12 3.117 19.597 2.88 28.592 3.118 31.84.842 2.442-1.71 3.284-3.468 6.177-12.9 1.636-5.33 1.654-5.726.162-3.54-5.746 8.412-9.456 10.783-13.787 8.81-2.315-1.056-2.542-1.614-2.075-5.1.29-2.15.198-3.52-.2-3.04-.4.478-1.987 2.588-3.525 4.69-3.628 4.95-6.717 6.4-10.227 4.8-2.484-1.13-2.6-1.497-2.042-6.41l.592-5.21-2.197 3c-2.972 4.06-6.43 7.5-7.538 7.5-.5 0-2.14-.966-3.64-2.147-2.247-1.768-2.624-2.682-2.13-5.16.602-3.004.596-3-2.257.898-5.543 7.577-9.496 9.573-13.128 6.632l-2.254-1.825 2.235-8.95c2.465-9.865 10.72-34.43 12.044-35.84.656-.7 5.742.57 7.733 1.93.155.107-2.372 6.217-5.616 13.578-6.693 15.194-10.704 26.688-9.667 27.7 1.18 1.15 7.97-7.538 12.426-15.903 2.316-4.348 4.888-8.582 5.715-9.41 2.122-2.12 7.63-1.864 10.633.498 3.168 2.492 3.367 2.486 4.05-.124.46-1.763 1.03-2.005 3.366-1.43 1.546.383 3.148 1.024 3.56 1.425.413.402-1.46 5.657-4.16 11.68-5.646 12.595-6.615 15.45-5.242 15.45 3.28 0 15.025-18.442 18.15-28.5.685-2.2 1.6-4.386 2.032-4.858.955-1.04 7.97 1.125 7.97 2.46 0 .522-1.5 3.974-3.332 7.673-5.37 10.84-9.035 20.192-8.222 20.987 1.635 1.6 14.238-16.445 17.468-25.012 1.174-3.113 1.695-3.248 5.772-1.5l2.915 1.25-7.55 18.462c-9.647 23.587-9.558 23.508-25.55 22.67-6.05-.318-15.725-1.255-21.5-2.083-13.518-1.94-30.324-1.946-46.03-.02-6.86.84-13.217 1.757-14.13 2.037-1.217.375-1.98-.463-2.867-3.147zM269.662 41c3.808-4.044 8.335-10.806 8.335-12.447 0-.678-.984-1.76-2.187-2.403-1.897-1.015-2.467-.817-4.314 1.5-1.17 1.467-2.856 4.79-3.745 7.384-3.6 10.502-3.284 11.486 1.91 5.966zM25.548 50.912c-1.905-1.393-1.902-1.52.258-8.95 1.204-4.147 2.19-8.028 2.19-8.625 0-.62-1.91-1.087-4.438-1.087H19.12l-2.77 8.5c-2.063 6.337-3.21 8.5-4.502 8.5-2.854 0-3.016-1.55-.99-9.46 1.895-7.393 1.896-7.54.035-7.54-1.458 0-1.898-.722-1.898-3.116 0-2.776.27-3.065 2.47-2.645 2.634.503 2.478.844 6.766-14.74.607-2.2 1.417-4.368 1.802-4.818.837-.98 7.963 1.82 7.963 3.13 0 .502-1.35 4.187-3 8.188-3.92 9.507-3.875 10 .918 10h3.92l2.234-6.75c1.23-3.712 3.045-8.65 4.034-10.972l1.8-4.22 3.264 1.37c1.796.756 3.406 1.797 3.578 2.313.172.518-1.05 3.98-2.717 7.693-1.667 3.715-3.03 6.937-3.03 7.16 0 1.158 2.615.046 7.276-3.093 6.24-4.202 10.42-4.526 14.386-1.115 2.25 1.935 2.743 3.143 2.613 6.396-.09 2.206-.84 5.633-1.667 7.616-3.63 8.687 5.328-.714 9.4-9.865 1.476-3.316 2.967-6.828 3.315-7.803.588-1.65.887-1.666 4.353-.218 2.048.854 3.9 1.73 4.115 1.947.216.216-1.206 3.25-3.16 6.742-4.107 7.346-8.63 18.873-8.63 21.997 0 2.137.018 2.135 2.557-.25 3.25-3.054 7.436-10.5 10.934-19.447 1.506-3.85 2.842-7.118 2.97-7.263.127-.145 1.88.425 3.892 1.266l3.66 1.53-1.628 3.733c-2.577 5.91-6.385 18.104-6.385 20.447V49.6l2.4-2.255c3.003-2.822 6.782-11.2 9.738-21.595 1.252-4.4 2.38-8.16 2.506-8.354.126-.195 2.054.255 4.283 1l4.053 1.354-4.385 9.733c-5.365 11.912-10.057 18.647-14.777 21.21-3.407 1.85-3.704 1.862-6.198.228-2.14-1.402-2.62-2.488-2.624-5.943l-.003-4.227-2.1 3.5c-4.716 7.855-8.815 9.935-12.438 6.312-1.287-1.287-1.56-2.775-1.143-6.25.3-2.51.888-5.447 1.307-6.53.623-1.61.244-1.486-2.097.685-1.573 1.458-3.873 2.906-5.113 3.217-1.24.31-3.605 1.916-5.255 3.566-3.63 3.63-7.715 3.92-11.644.83-2.6-2.045-2.728-2.517-2.237-8.25.286-3.344.84-6.866 1.228-7.826.653-1.61.448-1.638-2.648-.356-2.84 1.176-3.863 2.598-6.66 9.246-6.207 14.763-5.47 13.606-7.643 12.018zm25.996-8.095c1.24-1.892 1.348-2.892.488-4.5-.886-1.656-.812-2.067.373-2.067 2.058 0 4.592-3.918 4.592-7.1 0-2.968-2.304-5.448-4.056-4.365-1.93 1.192-6.943 12.78-6.944 16.05-.002 5.078 2.85 6.098 5.547 1.982zm165.57 6.526c-1.715-1.084-1.174-4.265 3.47-20.395 1.876-6.522 3.412-12.194 3.412-12.605 0-.41-1.422-.538-3.16-.283-2.67.392-3.057.197-2.5-1.255.363-.945.66-2.564.66-3.598 0-1.4 1.323-2.272 5.18-3.418 9.2-2.733 18.28-1.283 20.74 3.31 1.653 3.09 1.246 11.19-.787 15.65-3.985 8.74-10.495 13.88-16.885 13.33-3.482-.3-3.63-.17-5.23 4.62-1.74 5.202-2.652 6.065-4.9 4.643zm16.383-17.506c3.2-4.193 5.5-9.81 5.5-13.43 0-2.427-.494-3.005-2.99-3.505-4.22-.843-6.222.085-5.022 2.327.7 1.306.03 4.062-2.52 10.385-1.907 4.733-3.47 8.814-3.47 9.07 0 1.51 6.464-2.175 8.502-4.848z"></path></symbol>
 </svg>
 
-<div id="header_placeholder"><div id="header_wrap"><header id="header"><div class="desktop_hamburger"><div class="menu_bar"><hr><hr><hr></div><div class="menu_bar more">MORE</div></div><div id="hamburger_close" class="close_icon header_icon" style="display: none"><hr class="bar1"><hr class="bar2"><hr class="bar3"></div><div id="site_title"><a tabindex="-1" href="https://howtheyplay.com/" title="HowTheyPlay"><svg class="svglogo howtheyplay-logo howtheyplay-logo32"><title>HowTheyPlay</title><use xlink:href="#howtheyplay-logo"></use></svg></a></div><div id="mobile_menu_bar" class="menu_bar"><hr><hr><hr></div><div id="header_search"><span id="search_icon" class="maven_search_icon header_icon"><svg class="moon smallish icon search-magnify"><use xlink:href="#search-magnify"></use></svg></span></div><div id="header_right"><a id="signin_span" tabindex="-1" href="https://hubpages.com/signin/checkcookie.php?site=howtheyplay.com&amp;redirectUrl=https%3A%2F%2Fhowtheyplay.com%2Fprivacy-policy">Sign In</a><a tabindex="-1" href="https://howtheyplay.com/signup/" class="call_to_action">Join</a><span class="span_link maven_search_icon"><svg class="moon small icon search-magnify"><use xlink:href="#search-magnify"></use></svg></span></div></header></div></div><div id="container">
+<div id="header_placeholder"><div id="header_wrap"><header id="header"><div class="desktop_hamburger"><div class="menu_bar"><hr><hr><hr></div><div class="menu_bar more">MORE</div></div><div id="hamburger_close" class="close_icon header_icon" style="display: none"><hr class="bar1"><hr class="bar2"><hr class="bar3"></div><div id="site_title"><a tabindex="-1" href="https://howtheyplay.com/" title="HowTheyPlay"><svg class="svglogo howtheyplay-logo howtheyplay-logo32"><title>HowTheyPlay</title><use xlink:href="#howtheyplay-logo"></use></svg></a></div><div id="mobile_menu_bar" class="menu_bar"><hr><hr><hr></div><div id="header_search"><span id="search_icon" class="maven_search_icon header_icon"><svg class="moon smallish icon search-magnify"><use xlink:href="#search-magnify"></use></svg></span></div><div id="header_right"><a id="signin_span" tabindex="-1" href="https://howtheyplay.com/signin/">Sign In</a><a tabindex="-1" href="https://howtheyplay.com/signup/" class="call_to_action">Join</a><span class="span_link maven_search_icon"><svg class="moon small icon search-magnify"><use xlink:href="#search-magnify"></use></svg></span></div></header></div></div><div id="container">
 
 <h1>HubPages Network Privacy Policy</h1>
 
@@ -347,7 +384,7 @@ gaSiteTracker = 'siteTracker.';
 
 <h2>10. Contact Information</h2>
 
-<p>Please contact us with any questions or comments about this Privacy Policy by email at team@hubpages.com, or by sending postal mail to WeWork c/o HubPages (Floor 3 - Room #169) 1111 Broadway Oakland, CA 94607, USA.</p>
+<p>Please contact us with any questions or comments about this Privacy Policy by email at team@hubpages.com, or by sending postal mail to HubPages c/o WeWork (Floor 8 - Room #802) 995 Market San Francisco, CA 94103, USA.</p>
 
 <h2 id="gdpr">11. GDPR Addendum for Impacted Users</h2>
 
@@ -396,7 +433,7 @@ gaSiteTracker = 'siteTracker.';
 
 <p>You may access the consent dialogue tool and update/remove your consents by <a href="#" onclick="showGdprPopup();return false;">clicking here</a></p>
 
-<p>Beyond consent management, please submit GDPR-related data rights or other requests via email to: <a href="mailto:gdpr@hubpages.com">GDPR@hubpages.com</a></p>
+<p>Beyond consent management, please submit GDPR-related data rights or other requests via email to: <a href="mailto:dpo@hubpages.com">DPO@hubpages.com</a></p>
 
 <p>The Data Controller is HubPages, Inc.  You may contact HubPages at: <a href="mailto:team@hubpages.com">Team@hubpages.com</a></p>
 
@@ -440,7 +477,7 @@ gaSiteTracker = 'siteTracker.';
 <p>November 19, 2009: We made changes throughout the Privacy Policy. Please review the amended Privacy Policy carefully. Among other things, we added a provision to Section 3 explaining how we may share your Personally Identifiable Information with our service providers; explained how third-party advertisers use your information in Section 4; clarified our security policy in Section 6; and deleted a provision about international users that is covered in our Terms of Use.</p>
 
 
-</div><div id="before_footer"></div><div id="footer_wrap"><div id="footer"><a id="footer_logo" tabindex="-1" href="https://howtheyplay.com/" title="To the HowTheyPlay home page"><svg class="svglogo howtheyplay-logo howtheyplay-logo30"><title></title><use xlink:href="#howtheyplay-logo"></use></svg></a><ul id="footerlist"><li><a tabindex="-1" href="https://howtheyplay.com/about-us">About Us</a></li><li><a href="https://howtheyplay.com/editorial-policy">Editorial Policy</a></li><li><a tabindex="-1" href="https://howtheyplay.com/copyright">Copyright</a></li><li><a tabindex="-1" href="https://howtheyplay.com/user-agreement">Terms of Use</a></li><li><a tabindex="-1" href="https://howtheyplay.com/privacy-policy">Privacy Policy</a></li></ul><div class="legalese"><p>Copyright © 2018 HubPages Inc. and respective owners. Other product and company names shown may be trademarks of their respective owners. HubPages<sup>®</sup> is a registered Service Mark of HubPages, Inc. HubPages and Hubbers (authors) may earn revenue on this page based on affiliate relationships and advertisements with partners including Amazon, Google, and others.</p></div><div style="clear:both;"></div></div></div><div id="mobile_menu" hidden=""><div id="mobile_menu_content"><div class="button_section section"><a href="https://hubpages.com/signin/checkcookie.php?site=howtheyplay.com&amp;redirectUrl=https%3A%2F%2Fhowtheyplay.com%2Fprivacy-policy">Sign In</a><a href="https://howtheyplay.com/signup/" class="button primary_action">Join</a></div><div class="categories section"><div class="category_group"><h3><a href="https://howtheyplay.com/individual-sports/">Individual Sports</a></h3><ul><li><a href="https://howtheyplay.com/individual-sports/tennis/" class="Tennis">Tennis</a></li><li><a href="https://howtheyplay.com/individual-sports/golf/" class="Golf">Golf</a></li><li><a href="https://howtheyplay.com/individual-sports/martial-arts/" class="Martial Arts">Martial Arts</a></li><li><a href="https://howtheyplay.com/individual-sports/boxing/" class="Boxing">Boxing</a></li><li><a href="https://howtheyplay.com/individual-sports/swimming/" class="Competitive Swimming">Competitive Swimming</a></li><li><a href="https://howtheyplay.com/individual-sports/cycling/" class="Competitive Cycling">Competitive Cycling</a></li><li><a href="https://howtheyplay.com/individual-sports/pro-wrestling/" class="Pro Wrestling">Pro Wrestling</a></li><li><a href="https://howtheyplay.com/individual-sports/wrestling/" class="Wrestling">Wrestling</a></li></ul></div><div class="category_group"><h3><a href="https://howtheyplay.com/team-sports/">Team Sports</a></h3><ul><li><a href="https://howtheyplay.com/team-sports/soccer/" class="Soccer">Soccer</a></li><li><a href="https://howtheyplay.com/team-sports/football/" class="American Football">American Football</a></li><li><a href="https://howtheyplay.com/team-sports/basketball/" class="Basketball">Basketball</a></li><li><a href="https://howtheyplay.com/team-sports/baseball/" class="Baseball">Baseball</a></li><li><a href="https://howtheyplay.com/team-sports/hockey/" class="Hockey">Hockey</a></li></ul></div><div class="category_group"><h3><a href="https://howtheyplay.com/fantasy-sports/">Fantasy Sports</a></h3></div><div class="category_group"><h3><a href="https://howtheyplay.com/animal-sports/">Animal Sports</a></h3></div><div class="category_group"><h3><a href="https://howtheyplay.com/olympics/">The Olympics</a></h3></div></div><div class="social section"><h3>Connect with us</h3><a class="facebook" href="https://www.facebook.com/howtheyplay/" rel="nofollow" title="Visit us on Facebook"><svg class="moon medium facebook"><use xlink:href="#facebook"></use></svg></a><a class="pinterest" href="https://www.pinterest.com/howtheyplay/" rel="nofollow" title="Visit us on Pinterest"><svg class="moon medium pinterest"><use xlink:href="#pinterest"></use></svg></a></div><div class="footer section"><h3><a href="https://howtheyplay.com/about-us">About Us</a></h3><ul><li><a href="https://howtheyplay.com/editorial-policy">Editorial Policy</a></li><li><a href="https://howtheyplay.com/copyright">Copyright</a></li><li><a href="https://howtheyplay.com/user-agreement">Terms of Use</a></li><li><a href="https://howtheyplay.com/privacy-policy">Privacy Policy</a></li></ul><p class="legalese">Copyright © 2018 HubPages Inc. and respective owners. </p></div></div></div>
+</div><div id="before_footer"></div><div id="footer_wrap"><div id="footer"><a id="footer_logo" tabindex="-1" href="https://howtheyplay.com/" title="To the HowTheyPlay home page"><svg class="svglogo howtheyplay-logo howtheyplay-logo30"><title></title><use xlink:href="#howtheyplay-logo"></use></svg></a><ul id="footerlist"><li><a tabindex="-1" href="https://howtheyplay.com/about-us">About Us</a></li><li><a href="https://howtheyplay.com/editorial-policy">Editorial Policy</a></li><li><a tabindex="-1" href="https://howtheyplay.com/copyright">Copyright</a></li><li><a tabindex="-1" href="https://howtheyplay.com/user-agreement">Terms of Use</a></li><li><a tabindex="-1" href="https://howtheyplay.com/privacy-policy">Privacy Policy</a></li></ul><div class="legalese"><p>Copyright © 2018 HubPages Inc. and respective owners. Other product and company names shown may be trademarks of their respective owners. HubPages<sup>®</sup> is a registered Service Mark of HubPages, Inc. HubPages and Hubbers (authors) may earn revenue on this page based on affiliate relationships and advertisements with partners including Amazon, Google, and others.</p></div><div style="clear:both;"></div></div></div><div id="mobile_menu" hidden=""><div id="mobile_menu_content"><div class="button_section section"><a href="https://howtheyplay.com/signin/">Sign In</a><a href="https://howtheyplay.com/signup/" class="button primary_action">Join</a></div><div class="categories section"><div class="category_group"><h3><a href="https://howtheyplay.com/team-sports/">Team Sports</a></h3><ul><li><a href="https://howtheyplay.com/team-sports/soccer/" class="Soccer">Soccer</a></li><li><a href="https://howtheyplay.com/team-sports/basketball/" class="Basketball">Basketball</a></li><li><a href="https://howtheyplay.com/team-sports/football/" class="American Football">American Football</a></li><li><a href="https://howtheyplay.com/team-sports/baseball/" class="Baseball">Baseball</a></li><li><a href="https://howtheyplay.com/team-sports/hockey/" class="Hockey">Hockey</a></li></ul></div><div class="category_group"><h3><a href="https://howtheyplay.com/individual-sports/">Individual Sports</a></h3><ul><li><a href="https://howtheyplay.com/individual-sports/tennis/" class="Tennis">Tennis</a></li><li><a href="https://howtheyplay.com/individual-sports/boxing/" class="Boxing">Boxing</a></li><li><a href="https://howtheyplay.com/individual-sports/martial-arts/" class="Martial Arts">Martial Arts</a></li><li><a href="https://howtheyplay.com/individual-sports/golf/" class="Golf">Golf</a></li><li><a href="https://howtheyplay.com/individual-sports/swimming/" class="Competitive Swimming">Competitive Swimming</a></li><li><a href="https://howtheyplay.com/individual-sports/pro-wrestling/" class="Pro Wrestling">Pro Wrestling</a></li><li><a href="https://howtheyplay.com/individual-sports/cycling/" class="Competitive Cycling">Competitive Cycling</a></li></ul></div><div class="category_group"><h3><a href="https://howtheyplay.com/fantasy-sports/">Fantasy Sports</a></h3></div><div class="category_group"><h3><a href="https://howtheyplay.com/animal-sports/">Animal Sports</a></h3></div><div class="category_group"><h3><a href="https://howtheyplay.com/olympics/">The Olympics</a></h3></div></div><div class="social section"><h3>Connect with us</h3><a class="facebook" href="https://www.facebook.com/howtheyplay/" rel="nofollow" title="Visit us on Facebook"><svg class="moon medium facebook"><use xlink:href="#facebook"></use></svg></a><a class="pinterest" href="https://www.pinterest.com/howtheyplay/" rel="nofollow" title="Visit us on Pinterest"><svg class="moon medium pinterest"><use xlink:href="#pinterest"></use></svg></a><a class="envelop" href="#" onclick="return hpLoadLink('help',0,'','')" oncontextmenu="return true" title="Contact Us"><svg class="moon medium envelop"><use xlink:href="#envelop"></use></svg></a></div><div class="footer section"><h3><a href="https://howtheyplay.com/about-us">About Us</a></h3><ul><li><a href="https://howtheyplay.com/editorial-policy">Editorial Policy</a></li><li><a href="https://howtheyplay.com/copyright">Copyright</a></li><li><a href="https://howtheyplay.com/user-agreement">Terms of Use</a></li><li><a href="https://howtheyplay.com/privacy-policy">Privacy Policy</a></li></ul><p class="legalese">Copyright © 2018 HubPages Inc. and respective owners. </p></div></div></div>
 <div id="ajaxing"><div id="ajaxing_box"><div class="spinny"></div><div id="working">working</div></div></div><script>LABqueue.wait(function() {crossDomainSetup('https://equalstyle.com/login-hub/', true);
 jq(document).ready(function() { hpSiteInit(); });
 jq(document).ready( function() { loadLazyImages(); } );
@@ -454,19 +491,186 @@ jq('#mobile_menu .search_button').click(function() {
 	<div class="consent_buttons"><div class="consent_option"><input class="gdpr_category_required" type="checkbox" checked="checked" disabled="disabled">&nbsp;Necessary</div><div class="consent_option"><input class="gdpr_category_features" type="checkbox">&nbsp;Features</div><div class="consent_option"><input class="gdpr_category_marketing" type="checkbox">&nbsp;Marketing</div><div class="consent_option"><input class="gdpr_category_stats" type="checkbox">&nbsp;Statistics</div></div>
 	<div id="gdpr_accept_wrap">
 		<a id="gdpr_accept_button" class="button small primary_action green_bg">Approve All &amp; Submit</a><br>
-		<a id="gdpr_accept_checkedonly" class="button small">Approve Checked Only</a>
+		<a id="gdpr_accept_checkedonly" class="button small primary_action green_bg">Approve Checked Only</a>
 	</div>
 
 	<p style="clear:both">
-		<small>For more information on managing or withdrawing consents and how we handle data, visit our Privacy Policy at: "https://howtheyplay.com/privacy-policy#gdpr"</small>
+		<small>For more information on managing or withdrawing consents and how we handle data, visit our Privacy Policy at: <a href="https://howtheyplay.com/privacy-policy#gdpr" target="_blank">https://howtheyplay.com/privacy-policy#gdpr</a></small>
 	</p>
 
-	<span style="float:right" class="span_link details_link"><small>Show Details</small></span>
+	<span style="float:right" class="span_link details_link"><span class="arrow arrow-right"></span> <small>Show Details</small></span>
 	<table class="details_table"><thead><tr><th colspan="2">Necessary</th></tr></thead><tbody><tr><td class="suboption_name">HubPages Device ID</td><td class="suboption_desc">This is used to identify particular browsers or devices when the access the service, and is used for security reasons. </td></tr><tr><td class="suboption_name">Login</td><td class="suboption_desc">This is necessary to sign in to the HubPages Service. </td></tr><tr><td class="suboption_name">Google Recaptcha</td><td class="suboption_desc">This is used to prevent bots and spam. <small>(<a class="privacy_policy" href="https://policies.google.com/privacy" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Akismet</td><td class="suboption_desc">This is used to detect comment spam. <small>(<a class="privacy_policy" href="https://automattic.com/privacy/" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">HubPages Google Analytics</td><td class="suboption_desc">This is used to provide data on traffic to our website, all personally identifyable data is anonymized. <small>(<a class="privacy_policy" href="https://policies.google.com/privacy" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">HubPages Traffic Pixel</td><td class="suboption_desc">This is used to collect data on traffic to articles and other pages on our site.  Unless you are signed in to a HubPages account, all personally identifiable information is anonymized. </td></tr><tr><td class="suboption_name">Amazon Web Services</td><td class="suboption_desc">This is a cloud services platform that we used to host our service. <small>(<a class="privacy_policy" href="https://aws.amazon.com/compliance/data-privacy-faq/" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Cloudflare</td><td class="suboption_desc">This is a cloud CDN service that we use to efficiently deliver files required for our service to operate such as javascript, cascading style sheets, images, and videos. <small>(<a class="privacy_policy" href="https://www.cloudflare.com/privacypolicy/" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Google Hosted Libraries</td><td class="suboption_desc">Javascript software libraries such as jQuery are loaded at endpoints on the googleapis.com or gstatic.com domains, for performance and efficiency reasons. <small>(<a class="privacy_policy" href="https://developers.google.com/speed/libraries/terms" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr></tbody></table><table class="details_table"><thead><tr><th colspan="2">Features</th></tr></thead><tbody><tr><td class="suboption_name">Google Custom Search</td><td class="suboption_desc">This is feature allows you to search the site. <small>(<a class="privacy_policy" href="https://policies.google.com/privacy" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Google Maps</td><td class="suboption_desc">Some articles have Google Maps embedded in them. <small>(<a class="privacy_policy" href="https://policies.google.com/privacy" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Google Charts</td><td class="suboption_desc">This is used to display charts and graphs on articles and the author center. <small>(<a class="privacy_policy" href="https://policies.google.com/privacy" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Google AdSense Host API</td><td class="suboption_desc">This service allows you to sign up for or associate a Google AdSense account with HubPages, so that you can earn money from ads on your articles.  No data is shared unless you engage with this feature. <small>(<a class="privacy_policy" href="https://www.paypal.com/us/webapps/mpp/ua/privacy-full" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Google YouTube</td><td class="suboption_desc">Some articles have YouTube videos embedded in them. <small>(<a class="privacy_policy" href="https://www.youtube.com/static?template=privacy_guidelines" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Vimeo</td><td class="suboption_desc">Some articles have Vimeo videos embedded in them. <small>(<a class="privacy_policy" href="https://vimeo.com/privacy" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Paypal</td><td class="suboption_desc">This is used for a registered author who enrolls in the HubPages Earnings program and requests to be paid via PayPal.  No data is shared with Paypal unless you engage with this feature. <small>(<a class="privacy_policy" href="https://www.paypal.com/us/webapps/mpp/ua/privacy-full" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Facebook Login</td><td class="suboption_desc">You can use this to streamline signing up for, or signing in to your Hubpages account.  No data is shared with Facebook unless you engage with this feature. <small>(<a class="privacy_policy" href="https://www.facebook.com/policy.php" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Maven</td><td class="suboption_desc">This supports the Maven widget and search functionality. <small>(<a class="privacy_policy" href="https://www.themaven.net/the-maven/pages/S5I9LAYSaEqEDc9mpEdWeA" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr></tbody></table><table class="details_table"><thead><tr><th colspan="2">Marketing</th></tr></thead><tbody><tr><td class="suboption_name">Google AdSense</td><td class="suboption_desc">This is an ad network. <small>(<a class="privacy_policy" href="https://policies.google.com/technologies/ads" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Google DoubleClick</td><td class="suboption_desc">Google provides ad serving technology and runs an ad network. <small>(<a class="privacy_policy" href="https://policies.google.com/technologies/ads" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Index Exchange</td><td class="suboption_desc">This is an ad network. <small>(<a class="privacy_policy" href="http://www.indexexchange.com/privacy/" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Sovrn</td><td class="suboption_desc">This is an ad network. <small>(<a class="privacy_policy" href="https://www.sovrn.com/privacy-policy/" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Facebook Ads</td><td class="suboption_desc">This is an ad network. <small>(<a class="privacy_policy" href="https://www.facebook.com/privacy/explanation" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Amazon Unified Ad Marketplace</td><td class="suboption_desc">This is an ad network. <small>(<a class="privacy_policy" href="https://www.amazon.com/gp/help/customer/display.html/ref=ap_desktop_footer_privacy_notice?ie=UTF8&amp;nodeId=468496" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">AppNexus</td><td class="suboption_desc">This is an ad network. <small>(<a class="privacy_policy" href="https://www.appnexus.com/en/company/platform-privacy-policy" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Openx</td><td class="suboption_desc">This is an ad network. <small>(<a class="privacy_policy" href="https://www.openx.com/legal/privacy-policy/" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Rubicon Project</td><td class="suboption_desc">This is an ad network. <small>(<a class="privacy_policy" href="https://rubiconproject.com/privacy-policy/" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">TripleLift</td><td class="suboption_desc">This is an ad network. <small>(<a class="privacy_policy" href="https://triplelift.com/privacy/" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Say Media</td><td class="suboption_desc">We partner with Say Media to deliver ad campaigns on our sites. <small>(<a class="privacy_policy" href="https://www.saymedia.com/privacy-policy" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Remarketing Pixels</td><td class="suboption_desc">We may use remarketing pixels from advertising networks such as Google AdWords, Bing Ads, and Facebook in order to advertise the HubPages Service to people that have visited our sites. </td></tr><tr><td class="suboption_name">Conversion Tracking Pixels</td><td class="suboption_desc">We may use conversion tracking pixels from advertising networks such as Google AdWords, Bing Ads, and Facebook in order to identify when an advertisement has successfully resulted in the desired action, such as signing up for the HubPages Service or publishing an article on the HubPages Service. </td></tr></tbody></table><table class="details_table"><thead><tr><th colspan="2">Statistics</th></tr></thead><tbody><tr><td class="suboption_name">Author Google Analytics</td><td class="suboption_desc">This is used to provide traffic data and reports to the authors of articles on the HubPages Service. <small>(<a class="privacy_policy" href="https://policies.google.com/privacy?hl=en&amp;gl=us" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Comscore</td><td class="suboption_desc">ComScore is a media measurement and analytics company providing marketing data and analytics to enterprises, media and advertising agencies, and publishers.  Non-consent will result in ComScore only processing obfuscated personal data. <small>(<a class="privacy_policy" href="https://www.comscore.com/About-comScore/Privacy-Policy" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Amazon Tracking Pixel</td><td class="suboption_desc">Some articles display amazon products as part of the Amazon Affiliate program, this pixel provides traffic statistics for those products <small>(<a class="privacy_policy" href="https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&amp;nodeId=468496" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr></tbody></table>
-</div></div><div id="maven_sidebar"><a title="Member of the Maven Coalition" href="#" onclick="return hpLoadLink('maven', 0, '', '')" oncontextmenu="return hpLoadLink('maven', 0, '', '')"><svg class="moon largish maven-key"><use xlink:href="#maven-key"></use></svg></a></div><noscript>
+</div></div><div id="maven_sidebar"><a title="Member of the Maven Coalition" href="#" onclick="return hpLoadLink('maven', 0, '', '')" oncontextmenu="return hpLoadLink('maven', 0, '', '')"><svg class="moon largish maven-key"><use xlink:href="#maven-key"></use></svg></a></div><script id="liftigniter-metadata" type="application/json">
+{"noShow":"true"}
+</script>
+<script type="application/mustache" id="related-item-template">
+	<div class="card">
+	  <a class="obj_image" href="{{url}}">
+		<div style="width:75px;height:75px" class="thumbphoto">
+			<img style="height:75px;" alt="{{description}}" src="{{thumbnail}}">
+		</div>
+	  </a>
+    </div>
+    <div class="catlink"><a href="{{section_url}}">{{section}}</a></div>
+	<h3><a class="title navigation" href="{{url}}">{{title}}</a></h3>
+	<p class="meta">
+	  <span class="author">by <span class="author_primary_name">{{author}}</span></span>
+	  <span class="comment_count"><svg class="moon tiny icon solidbubble"><use xlink:href="#solidbubble"></use></svg>{{comment_count}}</span>
+	</p>
+</script><script>if (typeof $igniter_var === 'undefined') {
+	(function(w,d,s,p,v,e,r) {w.$ps = (w.performance && w.performance.now && typeof(w.performance.now) == "function") ? w.performance.now() : undefined;
+	w['$igniter_var']=v;w[v]=w[v]||function(){(w[v].q=w[v].q||[]).push(arguments)};w[v].l=1*new Date();e=d.createElement(s),r=d.getElementsByTagName(s)[0];e.async=1;
+	e.src=p+'?ts='+(+new Date()/3600000|0);
+	r.parentNode.insertBefore(e,r)})(window,document,'script','//cdn.petametrics.com/999gba4qphtjrmpe.js','$p');	
+
+	var liAddURLParams = function(url, itemData) 
+	{
+		var params = {
+			"utm_source": "maven-coalition",
+			"utm_medium": "hubpages",
+			"utm_campaign": "liftigniter",
+			"utm_content": "hp-related"
+		};
+		
+		for (key in params) {
+			if (url.indexOf('?') > -1) {
+				url += "&";
+			} else {
+				url += "?";
+			}
+			url += key + "=" + params[key];			
+		}
+		
+		return url;
+	}
+	
+	var liUpdateUrl = function(url, itemData)
+	{
+		var parser = document.createElement('a');
+		parser.href = url;
+		var urlDomain = parser.hostname;
+		
+		if (itemData['cm'] != 'HubPages')
+		{
+			return "javascript:hpLoadLink('ext','" + urlDomain + "','" + parser.pathname + parser.search + "', '')";			
+		}
+		else if (window.location.hostname.split('.')[0] != urlDomain.split('.')[0])
+		{
+			
+			var pathParts = parser.pathname.split('/');
+			var articlePath = pathParts[pathParts.length-1];
+			var paramStr = parser.search;
+			
+			return "javascript:hpLoadLink('article','" + articlePath + "','" + paramStr + "', '')";			
+		} else {		
+			//don't need to change anything
+			return url;
+		}		
+		
+	}
+	
+	var liUpdateUrlsFromSelector = function(selector, resp)
+	{
+		var els = document.querySelectorAll(selector);
+		for (var i = 0; i < els.length; ++i) {
+			var url = els[i].href;			
+			els[i].href = liUpdateUrl(url, resp.items[i]);
+		}
+	}
+	
+	var liUpdateUrls = function(resp)
+	{
+		liUpdateUrlsFromSelector('.moduleRelated li.li-widget-item h3 a', resp);
+		liUpdateUrlsFromSelector('.moduleRelated li.li-widget-item a.obj_image', resp);
+		liUpdateUrlsFromSelector('.moduleRelated li.li-widget-item .catlink a', resp);				
+	}		
+
+	var liRenderRelated = function(resp) {
+		var title = document.querySelectorAll('.moduleRelated h2.boxtitle');
+		if (title.length > 0) {
+			title[0].innerHTML = "Recommended";
+		}
+
+		var els = document.querySelectorAll('.moduleRelated li.li-widget-item');
+		var template = document.querySelector('#related-item-template').innerHTML;
+
+		for (var i = 0; i < els.length && i < resp.items.length; ++i) {
+			var itemData = resp.items[i];
+			if (!itemData['comment_count']) { itemData['comment_count'] = 0; }
+			if (!itemData['section_url']) { itemData['section_url'] = itemData['url'].replace(/\/[A-Za-z0-9-]+$/, ''); }
+			itemData['url'] = liAddURLParams(itemData['url'], itemData);
+
+			els[i].innerHTML = $p('render', template, itemData);
+		}
+	}
+
+	var liTrackAlgo = function(algorithm) {
+		$p('track', {
+		  elements: document.querySelectorAll('.moduleRelated li.li-widget-item'),
+		  name: 'hp-related',
+		  source: algorithm,
+		  _debug: false
+		});
+	}
+	
+	var liABTestHandler = function(slice) {
+		
+		var opts = {"_rule": "crossSite"};
+		
+		if ((window.location.hostname.indexOf("soapboxie") > -1))
+        {
+			opts = {"_rule": "siteMatch","_override": "politicsBoost"};
+		}
+		
+		if ((window.location.hostname.indexOf("wehavekids") > -1) || (window.location.hostname.indexOf("delishably") > -1))
+		{
+			if (new Date() < Date.parse("12/22/2018"))
+			{
+				opts = {"_rule": "crossSite", "_override": "urlLock"};
+			}
+		}
+		
+		if (slice < 100) {
+			$p("setRequestFields", ["url", "section", "section_url", "thumbnail", "description", "title", "author", "author_realname", "comment_count", "site_name", "cm"]);
+			$p('register', {
+				opts: opts,
+				max: document.querySelectorAll('.moduleRelated li.li-widget-item').length,
+				widget: 'hp-related',
+				callback: function(resp) {
+					liRenderRelated(resp);
+					// track overwritten areas as 'LI' slice.
+					liTrackAlgo('LI');
+					liUpdateUrls(resp);
+				}
+			});
+		} else {
+			liTrackAlgo('base');
+		}
+		// Executes all registered calls.
+		$p('fetch');
+	}
+	
+	//this must be called AFTER we have the mavne UID
+	window.setupLiftigniter = function(uid)
+	{		
+		$p('init', "999gba4qphtjrmpe");
+		$p('send', "pageview");
+		if (uid) { $p("setUserId", uid); }
+
+		if (document.querySelectorAll('.moduleRelated li.li-widget-item').length > 0)
+		{
+		  $p('abTestSlice', {
+			callback: liABTestHandler
+		  });
+		}
+	}
+	if (window.mavenUID) {
+		setupLiftigniter(window.mavenUID);
+	}
+}
+</script><noscript>
   <img src="https://sb.scorecardresearch.com/p?c1=2&c2=27019031&cv=2.0&cj=1" alt="comscore pixel"/>
 </noscript>
-<!-- rendered by hubwbc16 at Wed, 27 Jun 18 07:49:07 -0700 -->
+<!-- rendered by hubwbc09 at Thu, 27 Dec 18 14:24:10 -0800 -->
 <!-- uncategorized hpads-ourshare -->
-<!-- served from cache Wed, 27 Jun 18 08:02:52 -0700 -->
 </body></html>
