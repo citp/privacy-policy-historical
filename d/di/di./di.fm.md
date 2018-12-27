@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the di.fm privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613104427id_/https%3A//www.di.fm/member/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the di.fm privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227134544id_/https%3A//www.di.fm/member/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - DI.FM
 
@@ -162,4 +162,4 @@ We will keep and use your data as described in this Privacy Policy for (i) as lo
 
 The Data Controller for the Platform and any services provided through them is:
 
-Digitally Imported, Inc. 3773 E. Cherry Creek North Drive Suite 575 Denver, CO 80209-3825
+Digitally Imported, Inc. 501 S. Cherry St Suite 1100 Denver, CO 80246
