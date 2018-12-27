@@ -1,38 +1,38 @@
-> *The following text is extracted and transformed from the docusign.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616041915id_/https%3A//www.docusign.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the docusign.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227145754id_/https%3A//www.docusign.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DocuSign
 
-_Effective Date_ :  May 25, 2018
+**Effective Date:**  June 11, 2018
 
-At DocuSign, privacy is a priority. This Privacy Policy sets out how DocuSign, Inc. and its group of companies (“us,” “our,” or “we”) collect and use information from customers and other individuals who access or use our websites, including docusign.com and docusign.net, our mobile applications, our web client or professional client, and/or any of our other sites, products, or services that link to this Privacy Policy (the “Services”). By using our Services, you understand that we will collect and use your information as described in this Privacy Policy (collectively “you”). 
+At DocuSign, privacy is a priority. This Privacy Policy sets out how DocuSign, Inc. and its group of companies (“us,” “our,” or “we”) collect and use information from customers and other individuals who access or use our websites, including docusign.com and docusign.net, our mobile applications, our web client or professional client, and/or any of our other sites, products, or services that link to this Privacy Policy (the “Services”). By using our Services, you understand that we will collect and use your information as described in this Privacy Policy (collectively “you”).
 
-If you or your organization has an individual agreement with us, that agreement may have privacy terms that also apply to the information you provide to us under that agreement.  Please review the terms in that agreement because they may be different or more restrictive than the terms in this Privacy Policy.
+If you or your organization has an individual agreement with us, that agreement may have privacy terms that also apply to the information you provide to us under that agreement. Please review the terms in that agreement because they may be different or more restrictive than the terms in this Privacy Policy.
 
 This Privacy Policy does not apply to any third-party websites and apps that you may use, including any that are linked to in our Services. You should review the terms and policies for third-party websites and apps before clicking on any links.
 
 DocuSign’s core product and services help users create, complete, and show the validity of digital or electronic transactions, such as electronically signing a contract for mobile phone services or placing a digital signature on a loan application. As part of our Services, users want us to collect and record information that helps the parties prove the validity of the transactions. This information includes the persons who are involved in the transactions and the devices those persons use.
 
-We recommend that you read this Privacy Policy in full to ensure you are fully informed. However, if you want to access a particular section of this Privacy Policy, please refer to the below table. 
+We recommend that you read this Privacy Policy in full to ensure you are fully informed. However, if you want to access a particular section of this Privacy Policy, please refer to the below table.
 
-  1. HOW WE COLLECT INFORMATION
-  2. USE OF INFORMATION
-  3. INFORMATION SHARING
-  4. RETENTION OF INFORMATION
-  5. YOUR CHOICES
-  6. CHILDREN’S PRIVACY
-  7. CALIFRONIA RESIDENTS’ PRIVACY
-  8. USERS FROM OUTSIDE THE UNITED STATES
-  9. HOW WE PROTECT YOUR INFORMATION
-  10. CHANGES TO THIS POLICY
-  11. HOW TO CONTACT US
+  1. How We Collect Information
+  2. Use of Information
+  3. Information Sharing
+  4. Retention of Information
+  5. Your Choices
+  6. Children's Privacy
+  7. California Residents' Privacy
+  8. Users From Outside the United States
+  9. How We Protect Your Information
+  10. Changes to This Policy
+  11. How to Contact Us
 
 
 
-**1. _HOW WE COLLECT INFORMATION_**
+## **1\. How We Collect  Information**
 
-To provide and improve our Services and to support advertising and marketing, we collect information about visitors to our sites, users of our Services, the devices they use, and sometimes their locations. 
+To provide and improve our Services and to support advertising and marketing, we collect information about visitors to our sites, users of our Services, the devices they use, and sometimes their locations.
 
-We collect certain information directly from you, such as when you fill out forms with a name or email address. We collect other information, usually about devices, browsers, or locations, automatically (without you typing it into a form). We may also collect information about you from other sources, such as if we purchase a list of contact information of people who may be interested in our Services. 
+We collect certain information directly from you, such as when you fill out forms with a name or email address. We collect other information, usually about devices, browsers, or locations, automatically (without you typing it into a form). We may also collect information about you from other sources, such as if we purchase a list of contact information of people who may be interested in our Services.
 
 You have choices about whether you visit our sites, install our apps, or provide information to us. However, if you do not provide us with certain information, you may not be able to use some parts of our Services. For example, if you do not adopt an electronic signature, then you will not be able to sign certain electronic documents on our service. For choices you may have, please see Section 5 of this Privacy Policy.
 
@@ -88,9 +88,9 @@ For choices you have on cookies and related technologies, please see Section 5 o
 
 
 
-**  Information We Collect & Process on Behalf of Customers**. When our customers use our Services, we process and store certain information on their behalf as a data processor. For example, in DocuSign Signature when a customer (or the customer’s Authorized Users) upload contracts or other documents for review or signature, we act primarily as a data processor and process information on the customer's behalf and in accordance with their instructions. In those instances, the customer as the data controller is responsible for most aspects of the processing of the information. If you have any questions or concerns about how information is processed in these cases, including how to exercise your rights as a data subject, we recommend contacting the relevant customer.
+**Information We Collect & Process on Behalf of Customers**. When our customers use our Services, we process and store certain information on their behalf as a data processor. For example, in DocuSign Signature when a customer (or the customer’s Authorized Users) upload contracts or other documents for review or signature, we act primarily as a data processor and process information on the customer's behalf and in accordance with their instructions. In those instances, the customer as the data controller is responsible for most aspects of the processing of the information. If you have any questions or concerns about how information is processed in these cases, including how to exercise your rights as a data subject, we recommend contacting the relevant customer.
 
-**2. _USE OF INFORMATION_**
+## **2\. Use of Information**
 
 In general, we collect, use and store or process your information to provide our Services, to fix and improve them, to develop new services, and to market our companies and their products and services. Here are some examples of how we use the information we process:
 
@@ -111,7 +111,7 @@ In general, we collect, use and store or process your information to provide our
 
 **Other Uses**. We may combine the information we collect (“aggregate”) or remove pieces of information (“de-identify”) to limit or prevent identification of any particular user or device to help with goals like research and marketing. This Privacy Policy does not apply to our use of such aggregated or de-identified information.
 
-**  Lawful Basis for Processing Your Information**. If European data protection law applies and DocuSign acts as a controller, our lawful basis for collecting and using the information described in this Privacy Policy will depend on the information concerned and the specific context in which we collect or use it.
+**Lawful Basis for Processing Your Information**. If European data protection law applies and DocuSign acts as a controller, our lawful basis for collecting and using the information described in this Privacy Policy will depend on the information concerned and the specific context in which we collect or use it.
 
 We normally collect or use information from you or others only where we have your consent to do so, where we need the information to perform a contract with you, or where the processing is in our legitimate interests and not overridden by your data protection interests or fundamental rights and freedoms. In some cases, we may have a legal obligation to collect or retain personal information or may need the personal information to protect your vital interests or those of another person. For example, when we:
 
@@ -124,7 +124,7 @@ We normally collect or use information from you or others only where we have you
 
 If you have questions about or need further information concerning the lawful basis on which we collect and use your personal information, please contact us using the contact details provided in Section ­­11 of this Privacy Policy.
 
-**3. _INFORMATION SHARING_**
+## **3\. Information Sharing**
 
 We do not rent, sell, or share your information with third parties except as described in this Privacy Policy.
 
@@ -149,13 +149,13 @@ Your information may also be shared as described below:
 
 
 
-**4. _RETENTION OF INFORMATION_**
+## **4\. Retention of Information**
 
 We keep your personal information for no longer than necessary for the purposes for which it is processed. The length of time for which we retain information depends on the purposes for which we collected and use it and/or as required to comply with applicable laws. Where there are technical limitations that prevent deletion or anonymization, we safeguard personal data and limit active use of it.
 
 See Section 5 for choices about storage of your information.
 
-**5. _YOUR CHOICES_**
+## **5\. Your Choices**
 
 This section describes many of the actions you can take to change or limit the collection or use of your information. 
 
@@ -177,17 +177,17 @@ This section describes many of the actions you can take to change or limit the c
 
 
 
- If you are in Switzerland or the European Economic Area (“EEA”), please also refer to Section 8 of this Privacy Policy.
+If you are in Switzerland or the European Economic Area (“EEA”), please also refer to Section 8 of this Privacy Policy.
 
-**6. _CHILDREN’S PRIVACY_**
+## **6\. Children's Privacy**
 
 Our Services are not designed for and are not marketed to people under the age of 18 (“minors”). We do not knowingly collect or ask for information from minors. We do not knowingly allow minors to use our Services. If you are a minor, please do not use our Services or send us your information. We delete information that we learn is collected from a minor without verified parental consent. Please contact us using <https://support.docusign.com/SAR> if you believe we might have information from or about a minor.
 
-**7. _CALIFORNIA RESIDENTS’ PRIVACY_**
+## **7\. California Residents' Privacy**
 
 If you are a California resident, you may ask for a list of third parties that have received your information for direct marketing purposes during the previous calendar year. This list also contains the types of information shared. We provide this list at no cost. We do not share your information with third parties for their own marketing purposes.
 
-**8. _USERS FROM OUTSIDE THE UNITED STATES_**
+## **8\. Users From Outside the United States**
 
 By using our Services, you:
 
@@ -196,9 +196,9 @@ By using our Services, you:
 
 
 
- If you are in Switzerland or the European Economic Area (EEA), you may have additional rights under data protection law. 
+If you are in Switzerland or the European Economic Area (EEA), you may have additional rights under data protection law. 
 
-  * Transfers to the U.S. and Third Countries. If you are established in Switzerland or the European Economic Area ("EEA"), you understand and acknowledge that DocuSign may transfer your personal data outside of Switzerland and the EEA for processing. Upon your explicit written request, DocuSign may execute Standard Contractual Clauses approved by the European Commission for the benefit of the customer ("Customer SCCs") in order to ensure adequate protection for the Personal Data in accordance with the requirements of the EU General Data Protection Regulation. You acknowledge that DocuSign has been approved for Binding Corporate Rules ("BCRs") for Processors and that, with effect from the date that DocuSign's BCRs are adopted and upon notice from DocuSign (including on this page), all personal data transfers resulting from the use of DocuSign Signature made by or to DocuSign from Switzerland and the EEA shall be conducted under, and in full compliance with, DocuSign's BCRs, and any applicable Customer SCCs shall immediately terminate. The terms “Personal Data,” “Process/Processing,” “Controller,” “Processor,” “Subprocessor,” and “Data Subject” will have the meanings ascribed to them in the EU Data Protection Directive.   
+  * Transfers to the U.S. and Third Countries. If you are in Switzerland or the European Economic Area ("EEA"), you understand and acknowledge that DocuSign may transfer your personal data outside of Switzerland and the EEA for processing. DocuSign has adopted Binding Corporate Rules to facilitate the transfer of personal data from the EEA to DocuSign outside of the EEA. You may view our Binding Corporate Rules at <https://trust.docusign.com/en-us/trust-certifications/gdpr/bcr-p-processor-privacy-code> and <https://trust.docusign.com/en-us/trust-certifications/gdpr/bcr-c-csb-privacy-code>.
   * Other Rights 
     * You can access and review information associated with your account at any time. You also can request the following information: how we collect and use your information and why; the categories of personal data involved; the categories of recipients of your personal data; how we received your personal data; and how long we use or store your personal data or the manner in which we determine relevant retention periods. 
     * You also have a right to correct your personal data. In certain situations, you can ask that we erase or stop using your information (and object to use of your personal data) or export your data. 
@@ -210,14 +210,14 @@ By using our Services, you:
 
 If you wish to exercise these rights, please contact us at <https://support.docusign.com/SAR>.
 
-**9. _HOW WE PROTECT YOUR INFORMATION_**
+## **9\. How We Protect Your Information**
 
 To keep your information safe, we use physical, electronic, and managerial tools. We apply these tools based on the sensitivity of the information we collect, use, and store, and the current state of technology. Although we take steps to prevent unauthorized access to or use of personal information, the Internet and our Services are not 100% secure. For this reason, we are not able to guarantee that information we collect or store will always be protected from unauthorized access, or that it will only be used as described in this Privacy Policy. 
 
-**10. _CHANGES TO THIS POLICY_**
+## **10\. Changes to This Policy**
 
 We may amend this Privacy Policy to reflect changes in the law, our companies, our Services, our data collection use and practices, or advances in technology. Our use of the information we collect is subject to the Privacy Policy in effect at the time such information is used. Depending on the type of change, we may notify you of the change by posting on this page or by email. Please carefully review any changes made to this Privacy Policy. 
 
-**11. _HOW TO CONTACT US_**
+## **11\. How to Contact Us**
 
-For questions or complaints regarding our use of your information or Privacy Policy, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#49393b203f282a30092d262a3c3a202e27672a2624) or DocuSign, Attention: Privacy Team, 221 Main Street, Suite 1000, San Francisco, CA 94105. 
+For questions or complaints regarding our use of your information or Privacy Policy, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#8efefce7f8efedf7ceeae1edfbfde7e9e0a0ede1e3) or DocuSign, Attention: Privacy Team, 221 Main Street, Suite 1000, San Francisco, CA 94105. 
