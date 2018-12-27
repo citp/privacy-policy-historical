@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the best-days.com privacy policy that was archived on 2018-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180302191401id_/http%3A//best-days.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the best-days.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227193347id_/http%3A//www.best-days.com/pages/privacy.php) for the most accurate reproduction.*
 
-# Best Days are for Best Friends
+# Best-Days
 
   
 **Best-Days Respects Your Privacy** **Information Collected** Best-Days has created this privacy statement in order to demonstrate our firm commitment to privacy. Best-Days uses your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to gather broad demographic information. Best-Days uses cookies to deliver content specific to your interests, to save your password so you don't have to reenter it each time you visit our site, and for other purposes. Best-Days's registration form requires users to give us contact information (like their name, address, and email address). Best-Days uses member contact information from the registration form to send the member information about our company and email advertisements. 
