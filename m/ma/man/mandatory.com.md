@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mandatory.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622044231id_/http%3A//www.mandatory.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mandatory.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227154558id_/http%3A//www.mandatory.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Mandatory
 
@@ -6,19 +6,19 @@
 
 This privacy policy was last modified on September 4, 2014 (the “Effective Date”).
 
-CraveOnline Media (the “Company”), a subsidiary of Evolve Media, LLC and the owner and operator of the website [www.mandatory.com](http://www.mandatory.com/) (the “Site”), takes your privacy very seriously. This privacy policy is intended to inform you about the information that is collected from you when you visit the Site; how this information may be used and disclosed; how you can control the use and disclosure of your information; and how your information is protected. If you have any questions about this privacy policy, please contact our legal team at [legal@evolvemediallc.com](mailto:legal@evolvemediallc.com).
+CraveOnline Media (the “Company”), a subsidiary of Evolve Media, LLC and the owner and operator of the website [www.mandatory.com](https://www.mandatory.com/) (the “Site”), takes your privacy very seriously. This privacy policy is intended to inform you about the information that is collected from you when you visit the Site; how this information may be used and disclosed; how you can control the use and disclosure of your information; and how your information is protected. If you have any questions about this privacy policy, please contact our legal team at [legal@evolvemediallc.com](mailto:legal@evolvemediallc.com).
 
-  1. [Scope](http://www.mandatory.com/privacy#scope)
-  2. [What information the Site collects](http://www.mandatory.com/privacy#collect)
-  3. [How we use the information that we collect](http://www.mandatory.com/privacy#info)
-  4. [Information sharing](http://www.mandatory.com/privacy#share)
-  5. [Your choices](http://www.mandatory.com/privacy#choices)
-  6. [Access](http://www.mandatory.com/privacy#access)
-  7. [Confidentiality and security](http://www.mandatory.com/privacy#security)
-  8. [Visitors from outside of the United States](http://www.mandatory.com/privacy#visitors)
-  9. [Children under 13](http://www.mandatory.com/privacy#children)
-  10. [Changes to the privacy policy](http://www.mandatory.com/privacy#policy)
-  11. [Questions and suggestions](http://www.mandatory.com/privacy#questions)
+  1. [Scope](https://www.mandatory.com/privacy#scope)
+  2. [What information the Site collects](https://www.mandatory.com/privacy#collect)
+  3. [How we use the information that we collect](https://www.mandatory.com/privacy#info)
+  4. [Information sharing](https://www.mandatory.com/privacy#share)
+  5. [Your choices](https://www.mandatory.com/privacy#choices)
+  6. [Access](https://www.mandatory.com/privacy#access)
+  7. [Confidentiality and security](https://www.mandatory.com/privacy#security)
+  8. [Visitors from outside of the United States](https://www.mandatory.com/privacy#visitors)
+  9. [Children under 13](https://www.mandatory.com/privacy#children)
+  10. [Changes to the privacy policy](https://www.mandatory.com/privacy#policy)
+  11. [Questions and suggestions](https://www.mandatory.com/privacy#questions)
 
 
 
@@ -52,7 +52,7 @@ When you visit and interact with the Site, certain information may be collected 
   * your bandwidth speed and information about the software programs that are installed on your computer;
   * aggregated data about email click-through rates and user video viewing;
   * standard server log information; and
-  * information collected through HTML cookies, Flash cookies, web beacons, and similar technologies. For more information, please see our discussion of [cookies and other tracking technologies.](http://www.mandatory.com/cookies)
+  * information collected through HTML cookies, Flash cookies, web beacons, and similar technologies. For more information, please see our discussion of [cookies and other tracking technologies.](https://www.mandatory.com/cookies)
 
 
 
@@ -77,9 +77,9 @@ We may use the information that we collect to send you e-mail communications, su
 
  **Advertising:**
 
-In order to provide our readers with free access to our content, we display advertisements on the Site, many of which are targeted based on information about you. For example, using information collected through cookies, web beacons, and other sources, we may use demographic data or information about your online activities or interests to display targeted advertising that may be relevant to your preferences. Through this process, advertisers reach Site visitors who are most interested in their products, and you see advertising for products or services in which you may be interested. For more information on how cookies and other technologies work, please see our discussion of [cookies and other tracking technologies](http://www.mandatory.com/cookies).
+In order to provide our readers with free access to our content, we display advertisements on the Site, many of which are targeted based on information about you. For example, using information collected through cookies, web beacons, and other sources, we may use demographic data or information about your online activities or interests to display targeted advertising that may be relevant to your preferences. Through this process, advertisers reach Site visitors who are most interested in their products, and you see advertising for products or services in which you may be interested. For more information on how cookies and other technologies work, please see our discussion of [cookies and other tracking technologies](https://www.mandatory.com/cookies).
 
-Third-party advertisers and advertising platforms also may serve targeted ads on the Site. For more information, please see our section on [third-party online advertising](http://www.mandatory.com/third-party). Please remember that the information practices of third-party advertisers or platforms collecting data on our Site are not covered by this privacy policy.
+Third-party advertisers and advertising platforms also may serve targeted ads on the Site. For more information, please see our section on [third-party online advertising](https://www.mandatory.com/third-party). Please remember that the information practices of third-party advertisers or platforms collecting data on our Site are not covered by this privacy policy.
 
  **User Accounts:**
 
@@ -95,7 +95,7 @@ In order to learn more about how our Site is used, we aggregate and analyze the 
 
  **Enforcement:**
 
-We may use the information that we collect to prevent illegal activities, to enforce the Site’s [Terms and Conditions](http://www.mandatory.com/termsofuse), and to otherwise protect our rights and the rights of our users.
+We may use the information that we collect to prevent illegal activities, to enforce the Site’s [Terms and Conditions](https://www.mandatory.com/termsofuse), and to otherwise protect our rights and the rights of our users.
 
 By using the Site, you consent to the uses identified above and any other use of information identified in this privacy policy.  In addition, we may use the information that we collect for any other purposes disclosed to you at the time we collect your information or pursuant to your consent.
 
@@ -107,30 +107,30 @@ The Company values your privacy, and shares information about our users only und
   * We may employ third parties to perform Site-related services, including database management, maintenance services, analytics, marketing, data processing, and email and text message distribution. These third parties have access to your information only to perform these tasks on our behalf.
   * If you choose to engage in public activities on the site, such as posting comments on community message boards, any information you submit can be read, collected, or used by others. Please exercise caution when deciding to disclose any personal information in public activities or submissions.
   * We may share information about you in the event that the Site is acquired by or merged with another company or a similar corporate transaction takes place.
-  * We may share information about you to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety or other rights and interests of any person, violations of the Site’s [Terms and Conditions](http://www.mandatory.com/termsofuse), or as otherwise required by law.
+  * We may share information about you to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety or other rights and interests of any person, violations of the Site’s [Terms and Conditions](https://www.mandatory.com/termsofuse), or as otherwise required by law.
   * We may share information about you to respond to subpoenas, search warrants, judicial proceedings, court orders, legal process, or other law enforcement measures, to establish or exercise our legal rights, or to defend against legal claims.
   * In addition to the scenarios identified above, we may share information about you for any other purposes disclosed to you at the time we collect your information or pursuant to your consent.
 
 
 
-Once we share your information with another party, the information received by that party becomes subject to the other party’s privacy policies.  Please note that third parties may independently collect data about you, including your IP address and information about the websites you visit and the links you click, through cookies, clicks on links, or other means when you visit or view ads on the Site. For more information, see our section on [cookies and other tracking technologies](http://www.mandatory.com/cookies) and [third-party online advertising](http://www.mandatory.com/third-party).
+Once we share your information with another party, the information received by that party becomes subject to the other party’s privacy policies.  Please note that third parties may independently collect data about you, including your IP address and information about the websites you visit and the links you click, through cookies, clicks on links, or other means when you visit or view ads on the Site. For more information, see our section on [cookies and other tracking technologies](https://www.mandatory.com/cookies) and [third-party online advertising](https://www.mandatory.com/third-party).
 
  **5\. Your choices**
 
  **Deactivating your account**
 
-If the Site functionality permits, you can deactivate your account at any time by visiting the preferences page for your profile or delete any content you provide from the Site, though we may retain a copy of any deactivated accounts or deleted content for compliance purposes. When you deactivate your account, your user profile will be disabled, but your public comments will remain on the site. The Site has no responsibility to take down, remove, or edit any of your public activities or any submissions that are a result of your public activities. For more information, please review our [Terms and Conditions](http://www.mandatory.com/termsofuse).
+If the Site functionality permits, you can deactivate your account at any time by visiting the preferences page for your profile or delete any content you provide from the Site, though we may retain a copy of any deactivated accounts or deleted content for compliance purposes. When you deactivate your account, your user profile will be disabled, but your public comments will remain on the site. The Site has no responsibility to take down, remove, or edit any of your public activities or any submissions that are a result of your public activities. For more information, please review our [Terms and Conditions](https://www.mandatory.com/termsofuse).
 
  **Cookies and other tracking technologies**
 
-As discussed in the sections on [cookies and other tracking technologies](http://www.mandatory.com/cookies) and [third-party online advertising](http://www.mandatory.com/third-party), some information is collected about you automatically through cookies and other tracking technologies.
+As discussed in the sections on [cookies and other tracking technologies](https://www.mandatory.com/cookies) and [third-party online advertising](https://www.mandatory.com/third-party), some information is collected about you automatically through cookies and other tracking technologies.
 
   *  _Cookies._ You can change your browser settings to reject all cookies, accept only certain cookies, or notify you when a cookie is set. Please note that you may need to renew these settings if you delete your cookies after these preferences are made. These settings also may not apply if you are using a different computer or Internet browser. To opt out of having information collected by third party ad networks, advertising agencies, advertisers, and audience segment providers used for behavioral advertising, to obtain information about the technologies these third parties might use, and to view information regarding their privacy policies, please visit <http://www.aboutads.info/choices> if you are located in the United States, [www.youronlinechoices.com](http://www.youronlinechoices.com/) if you are located in Europe, [youradchoices.ca/choices](http://youradchoices.ca/choices) if you are located in Canada, or [www.youronlinechoices.com.au](http://www.youronlinechoices.com.au/) if you are located in Australia .
-  *  _Flash Cookies_. You can control how Flash cookies are used by visiting the Adobe Macromedia site, located [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). Adobe enables you to allow some Flash cookies from certain websites, limit Flash cookies’ storage capacity, and disallow Flash cookies altogether. In addition, if you use Mozilla Firefox for your Internet browser, you can download the [BetterPrivacy add-on](https://addons.mozilla.org/en-US/firefox/addon/betterprivacy/) to automatically delete your Flash cookies every time you close your browser.
+  *  _Flash Cookies_. You can control how Flash cookies are used by visiting the Adobe Macromedia site, located [here](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). Adobe enables you to allow some Flash cookies from certain websites, limit Flash cookies’ storage capacity, and disallow Flash cookies altogether. In addition, if you use Mozilla Firefox for your Internet browser, you can download the [BetterPrivacy add-on](https://addons.mozilla.org/en-US/firefox/addon/betterprivacy/) to automatically delete your Flash cookies every time you close your browser.
 
 
 
-If you opt out of these technologies, you will continue to see advertising displayed on the Site, but the advertising may not be targeted to your interests. Please remember that we do not have access to, or control over, advertisers’ or service providers’ cookies, and the information practices of third parties are not covered by this privacy policy. For more information on the use of cookies in online advertising, please see the section on [third-party online advertising](http://www.mandatory.com/third-party) and visit the [NAI’s website](http://www.networkadvertising.org/choices/).
+If you opt out of these technologies, you will continue to see advertising displayed on the Site, but the advertising may not be targeted to your interests. Please remember that we do not have access to, or control over, advertisers’ or service providers’ cookies, and the information practices of third parties are not covered by this privacy policy. For more information on the use of cookies in online advertising, please see the section on [third-party online advertising](https://www.mandatory.com/third-party) and visit the [NAI’s website](https://www.networkadvertising.org/choices/).
 
  **Do Not Track**
 
