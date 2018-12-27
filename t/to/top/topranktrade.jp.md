@@ -1,90 +1,98 @@
-> *The following text is extracted and transformed from the topranktrade.jp privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222073843id_/http%3A//www.topranktrade.jp/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topranktrade.jp privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227230157id_/http%3A//topranktrade.jp/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | TOPRANK TRADING
+# TOPRANK TRADING | Privacy Policy
 
-In compliance with the Personal Information Protection Act (hereinafter, "PIPA") TOPRANK CO.,LTD (hereinafter, "TOPRANK Trading") will make efforts to protect personal information in accordance with the following privacy policy.
+### 1\. Regarding the Scope of this Privacy Policy
 
-Definition of Personal Information
+  * (1) Scope
+    * This Privacy Policy is applicable to any information, such as names, addresses, birth dates, gender, telephone numbers, e-mail addresses, etc., provided by users through the website[ [http://topranktrade.jp] ](http://topranktrade.jp/)(hereafter "our website") managed and maintained by TOPRANK Co., Ltd. (hereafter, "we") that could be used to reference, infer, or identify a user of this website and contact them (hereafter "personal data.") 
 
-"Personal Information" means any information concerning living individuals, such as name, date of birth, and other descriptions that can be used to identify specific individual persons (including any information that can be easily collated with other information and, by doing so, can be used to identify specific individual persons).
 
-Privacy Policy
+  * (2) Precedence of Special Notes
+    * In cases when individual pages on this website (hereafter, individual pages) have other remarks for the collection of personal data that do not overlap with this Privacy Policy or there is a third-party link from this site to Facebook, Twitter, line, or a recruitment site, etc., with its own privacy policy, the other policy shall take precedence over this Privacy Policy. 
 
-This summary of our Privacy Policy applies to the Web sites operated by TOPRANK CO.,LTD in addition to Twitter, Facebook or other social networking sites, and their respective contents, whether accessed via computer, mobile device or other technology (all such Web sites are collectively referred to as the "Sites").
 
-This Privacy Policy explains what information may be collected through the Sites, how such information may be used and/or shared with others, how we safeguard it and how you may access and control its use in connection with our marketing communications and activities.
 
-Please read this Privacy Policy carefully, because by using the Sites you are acknowledging that you understand and agree to the terms of this Privacy Policy. In addition, please review our Terms and Conditions which governs your use of the Sites and any content you submit to the Sites.
+### 2\. Use of Personal Data
 
-1\. INFORMATION WE COLLECT
+  * (1) Collection of Personal Data
+    * 1) In general, this site shall be for viewing purposes and not for the provision of personal data. However, in cases of user registrations, newsletter subscriptions, or inquiries over our contact form, etc., we will collect personal data. 
+    * 2) This site tracks information such as individual page views, viewing times, etc. We use the information we collect for analyzing website views to improve the website itself and our marketing efforts. 
 
-Information You Provide to Us
 
-You can visit the Sites to read and learn about our products and services, without telling us who you are and without revealing any personally identifiable information. However, to use certain features or to participate in any special programs, you may need to provide certain personal information. TOPRANK Trading will obtain personal information of Users through fair and appropriate methods only within the scope necessary for the purpose of use.
+  * (2) Purpose of Use of Personal Data
+    * We only use personal data collected through this website for the following purposes:
+    * 1) Checking and responding to suggestions, inquiries, comments about our company information, businesses, etc. 
+    * 2) Receiving contact for open positions, employment applications, replies, and hiring efforts.
+    * 3) Data provided for mail magazines, direct mail, and other announcements. 
+    * 4) Surveys, analyses, marketing to improve the quality of our website. 
+    * 5) Providing URL information from users who send blank e-mails to us to set up accounts. 
 
-The Sites may ask you to provide information that could reasonably be used to contact you or to identify you personally (such as your name, e-mail address, telephone number, or home address ("Personal Information"). For example, TOPRANK Trading may collect Personal Information when you register on the Sites, request information, submit comments or participate in sweepstakes, contests, games, special events, promotions, blogs and chats, and surveys ("Programs") or other feature of the Sites, or otherwise communicate or interact with us. The Sites may also ask you to provide other information about yourself, such as demographic information (gender, postal/ZIP Code, age, etc.) or certain information about your preferences and interests. If we combine demographic or other information we collect about you with Personal Information about you, we will treat the combined information as Personal Information. If you do not want your Personal Information collected, please do not submit it.
 
-The Sites may collect the below types of information from you:
+  * (3) Exceptions
+    * We do not take responsibility for personal information collected under the following circumstances: 
+    * 1) Unrequired personal data accidentally collected through forms on our site submitted by users themselves. 
+    * 2) Data entered on third-party sites after following a link from our site. 
+    * 3) Personal data that was not entered or updated correctly. 
+    * 4) Data submitted by users regarding persons other than the user themselves. 
 
-\- Member Information – when registering with TOPRANK Trading we collect your contact information including email, postal address, phone number, fax number and mobile number.
 
-\- Oder Information – when ordering a vehicle or spare part from TOPRANK Trading, we collect details of your contact information as well as the products you are interested in.
+  * (4) Provision to Third-Parties
+    * Apart from cases in which users provide personal data described below, we do not release personal data to third-parties. 
+    * 1) In cases when the user has agreed. 
+    * 2) In cases when required for outsourced work. 
+    * 3) In cases when, upon reviewing the content, it is deemed appropriate to have an affiliate of our company respond to inquiries. 
+    * 4) In cases of corporate mergers, breakups, transfer of duties, etc. when personal data must be transferred for the continuation of business. 
+    * 5) In cases when required by law to reveal personal data by a court of law, law enforcement office, or other official entity. 
 
-\- Billing and Payment Information - If you purchase any product or any other service from TOPRANK Trading through our websites, we or our merchant may collect additional information including billing/shipping information, payment information, delivery options etc.
 
-\- Statistical Information - We gather aggregate statistical information about our Sites and Users, such as IP addresses, browser software, operating system, pages viewed number of sessions and unique visitors, etc.
 
-\- Communication Services Information: At the time you use Communication Services (The Services may contain e-mail services, Personalized Notifications, newsletter, tell your friend, feedback and/or other message or communication facilities designed to enable you to communicate with us or others) you provide information such as your name, address, phone/fax number, email address and other personal information as well as information about your business.
+### 3\. Disclosing, Correcting, and Ending Use of Personal Data 
 
-\- Collected Information - Members Information, Purchase Request Information, Billing & Payment Information, Statistical Information and any other information we may collect from you through our Websites or any other means shall collectively be referred to as "Collected Information".
+  * Data entered into our site will be disclosed only after receiving a request from and confirming the request with the user.
+  * However, if any of the following point pertaining to disclosure of data are applicable, we may decide not to disclose parts of the data or the data in its entirety and will notify the user of such without delay. 
+    * 1) In cases where there is reason to believe that the individual or a third-party and their rights or property may be in moral, physical, or financial danger. 
+    * 2) If there is or reason to believe the data would cause a hindrance to our business. 
+    * 3) In cases of other illegal practices. 
+    * However, no personal data will be revealed other than the access log, etc. 
 
-Blogs and Public Areas: Please remember that blogs are public areas on the Sites and chat rooms may be public areas on the Sites. Any information posted in these areas can be viewed by other visitors or Internet users. You should not upload or post Personal Information in these public areas. TOPRANK Trading is not responsible or liable in any way for the Personal Information posted to or transmitted through these public areas.
 
-Friend to Friend: Some features on the Sites may permit you to submit information about other people. For example, if you wish to invite your friends to participate in a Program offered on the Sites or forward particular content from the Sites to your friends, you will be asked to submit your friends' e-mail addresses. Our use, sharing and protection of the other person's information will also be subject to the terms of the Program and this Privacy Policy.
 
-Information You Provide to Us
+### 4\. Safety Measures for Personal Data 
 
-Whenever you visit or interact with the Sites, TOPRANK Trading, as well as any third-party publishers or Web sites and/or service providers, may use a variety of technologies that automatically or passively collect information about how the Sites are accessed and used ("Usage Information"). Usage Information may include, in part, browser type, operating system, the page served, the time, and the preceding page views. This statistical data provides us with information about the use of the Sites, such as how many visitors visit a specific page on the Sites, how long they stay on that page, and which hyperlinks, if any, they "click" on. This information helps us keep our Web site fresh and interesting to our visitors and tailor content to a visitor's interests. Usage Information is generally non-identifying, but if TOPRANK Trading associates it with you as a specific and identifiable person, TOPRANK Trading treats it as Personal Information.
+  * For the safe management and maintenance of users' personal data, we are taking measures to prevent users' personal data from third-party access, loss, damage, alteration, and leaking to third-parties. 
 
-The tracking technologies used on the Sites to collect Usage Information, including Device Identifiers, may include, without limitation:
 
-Cookies. Cookies are data files placed on a Device when it is used to visit the Sites. TOPRANK Trading, or our third-party advertising service providers, may place cookies or similar files on your Device for security purposes, to tailor our communications with you, facilitate site navigation and to personalize your experience while visiting our Sites. Cookies allow us to collect technical and navigational information, such as browser type, time spent on our Sites and pages visited. Cookies and other tracking technologies allow us to select which of our advertisements or offers are most likely to appeal to you and display them while you are on the Sites; and determine the correlation between TOPRANK Trading purchasers and the sites they visit. If you would prefer not to accept cookies, you can change your browser settings to notify you when you receive a cookie, which lets you, choose whether or not to accept it; or set your browser to automatically not accept any cookies. However, please be aware that some features and services on our Sites may not work properly because we may not be able to recognize and associate you with your TOPRANK Trading account(s). In addition, the offers we provide when you visit us may not be as relevant to you or tailored to your interests.
 
-Pixel tags. A pixel tag is a transparent graphic image, sometimes called a Web beacon, clear GIFs or tracking beacon, placed on a Web page or in an e-mail, which indicates that a page or e-mail has been viewed. In addition, a pixel tag may tell your browser to get content from another server. In order to ensure the safekeeping of your information, network advertising companies and publishers are not permitted to directly collect Personal Information on our Sites.
+### 5\. Cookies 
 
-2\. HOW WE USE THE INFORMATION WE COLLECT
+  * Cookies are data saved onto users' computers and other devices from website owners through web browsers. 
+  * Cookies can save information about the users who visit a site and the pages that they view. 
+  * Our site uses cookies for the following reasons: 
+    * 1) Session management. 
+    * 2) Customization for users' personal preferences. 
+    * 3) Provision of advertising and other information tailored to users' needs. 
+    * Furthermore, depending on the browser used, cookies can be turned off in advance. For details on how to change the settings on your browser, please contact the program provider. 
 
-TOPRANK Trading uses the information we collect about and from you for a variety of business purposes, including for example, to: respond to your questions and requests such as requests for product information, new vehicle stock information alerts, campaign mails, and brochures; enable you to participate in promotional activities, or other Programs; provide you with access to certain services, areas and features of the Sites; verify your identity; communicate with you about your account and activities on the Sites and, in our discretion, changes to any TOPRANK Trading policy; tailor content, advertisements and offers we serve you; improve the Sites; process applications and transactions; for internal business purposes; and for purposes disclosed at the time you provide your Personal Information or otherwise with your consent.
 
-In relation to the provision of services by the Company and its affiliated entities, TOPRANK Trading will use the personal information it possesses for the following purposes of use. The personal information possessed by TOPRANK Trading will not be used for any purpose other than such purposes of use, except for where permitted under the PIPA and other related laws and ordinances.
 
-1\. Identity verification for the purpose of provision, change, or suspension of products or services, or implementation of services associated with the provision of the TOPRANK Trading's services;  
-2\. Provision of information related to products or services.  
-3\. Examination and development of new products or services.  
-4\. Marketing research and other study and research; and  
-5\. Implementation of questionnaires, prizes, campaigns, etc. 
+### 6\. Opting to Provide Personal Data 
 
-Safety Management of Personal Information
+  * On our website, providing personal data is completely voluntary. However, if personal data is not provided, it is possible that we will not be able to perform appropriate services. 
 
-1\. TOPRANK Trading will take measures for necessary and appropriate safety management in order to prevent divulgation, loss, or damage of Users personal information.
 
-2\. TOPRANK Trading will establish an internal system to prevent unauthorized access to personal information and will provide its employees with necessary and appropriate education with respect to handling of personal information.
 
-3\. When TOPRANK Trading intends to entrust another company with the handling of personal information, TOPRANK Trading will appoint a trustee company that is recognized to appropriately handle personal information, will conclude an agreement which obligates the trustee company to appropriately manage personal information, and will appropriately supervise the trustee company.
+### 7\. Changes to Our Privacy Policy 
 
-Provision of Personal Information to Third Parties
+  * The content of this Privacy Policy is subject to change according to alterations in laws as well as the rules and regulations of our company. We will always provide the latest version of our Privacy Policy on our website. 
 
-TOPRANK Trading will not provide or disclose any User-provided personal information to any third party without the Users' consent, unless otherwise permitted under the PIPA or other related laws and ordinances.
 
-Compliance with Laws and Ordinances
 
-TOPRANK Trading will comply with the PIPA and other related laws and ordinances.
+### 8\. Contact 
 
-Disclosure, Correction, etc. of Personal Information
+  * The following department shall handle inquiries into personal data used on this website. 
 
-If a person who has provided personal information requests any disclosure, correction, addition, deletion, etc. of his/her own personal information, TOPRANK Trading will take appropriate responses to such request. For inquiries, please contact TOPRANK Trading.  
-TOPRANK Trading will address any inquiry from a User with respect to TOPRANK Trading's handling of personal information. 
 
-Revision
 
-TOPRANK Trading may revise the contents of this Privacy Policy either in whole or in part. If this Privacy Policy is revised, it will be published on this website. 
+TOPRANK Co., Ltd. Administrative Division  
+trade@toprank.jp
