@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the statbroadcast.com privacy policy that was archived on 2018-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180621200746id_/http%3A//statbroadcast.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the statbroadcast.com privacy policy that was archived on 2018-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181227072643id_/http%3A//statbroadcast.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" class="xlarge"><head><meta name="viewport" content="user-scalable=yes,width=device-width,initial-scale=1"><style type="text/css">html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section,summary{display:block}audio,canvas,progress,video{display:inline-block;vertical-align:baseline}audio:not([controls]){display:none;height:0}[hidden],template{display:none}a{background-color:transparent}a:active,a:hover{outline:0}abbr[title]{border-bottom:1px dotted}b,strong{font-weight:700}dfn{font-style:italic}h1{font-size:2em;margin:.67em 0}mark{background:#ff0;color:#000}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sup{top:-.5em}sub{bottom:-.25em}img{border:0}svg:not(:root){overflow:hidden}figure{margin:1em 40px}hr{-moz-box-sizing:content-box;box-sizing:content-box;height:0}pre{overflow:auto}code,kbd,pre,samp{font-family:monospace,monospace;font-size:1em}button,input,optgroup,select,textarea{color:inherit;font:inherit;margin:0}button{overflow:visible}button,select{text-transform:none}button,html input[type=button],input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer}button[disabled],html input[disabled]{cursor:default}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}input{line-height:normal}input[type=checkbox],input[type=radio]{box-sizing:border-box;padding:0}input[type=number]::-webkit-inner-spin-button,input[type=number]::-webkit-outer-spin-button{height:auto}input[type=search]{-webkit-appearance:textfield;-moz-box-sizing:content-box;-webkit-box-sizing:content-box;box-sizing:content-box}input[type=search]::-webkit-search-cancel-button,input[type=search]::-webkit-search-decoration{-webkit-appearance:none}fieldset{border:1px solid silver;margin:0 2px;padding:.35em .625em .75em}legend{border:0;padding:0}textarea{overflow:auto}optgroup{font-weight:700}table{border-collapse:collapse;border-spacing:0}td,th{padding:0}</style><style type="text/css">*,*:before,*:after{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box}</style><meta name="viewport" content="initial-scale=1">
 		<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
@@ -45,9 +45,9 @@
 
 				$('.sb_header_navlist').slicknav();
 
-			
-			});
-			function setCookie(name, value, hours)	{		if (hours) {			var date = new Date(); date.setTime(date.getTime() + (hours * 60 * 60 * 1000)); var expires = "; expires=" + date.toGMTString();} else	{			expires = "";	}document.cookie = name + "=" + value + expires + "; path=/; domain=.statbroadcast.com"; }
+						$(".numericonly").on("keydown",function (event) {    	           $(this).val($(this).val().replace(/[^\d].+/, ""));			if ((event.which < 45 || event.which > 57) && (event.which < 95 || event.which > 106) && (event.which < 34 || event.which > 40) && event.which != 8 && event.which != 46 && event.which != 116) {				event.preventDefault();	            }        });			});
+			function setCookie(name, value, hours)	{		if (hours) {			var date = new Date(); date.setTime(date.getTime() + (hours * 60 * 60 * 1000)); var expires = "; expires=" + date.toGMTString();} else	{			expires = "";	}document.cookie = name + "=" + value + expires + "; path=/; domain=.statbroadcast.com.localhost"; }
+
 		</script>
 
 		<style>
@@ -76,6 +76,11 @@
 			}
 			#floaterleft	{left:0em;}
 			#floaterright	{right:0em;}
+
+			.ui-widget-overlay.no-close {
+				background: #555555 !important;
+				opacity: 0.7 !important;
+			}
 
 		</style>
 
