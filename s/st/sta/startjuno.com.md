@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startjuno.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618012215id_/http%3A//www.juno.com/start/landing.do%3Fpage%3Dwww/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startjuno.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227224135id_/https%3A//www.juno.com/start/landing.do%3Fpage%3Dwww/legal/privacy) for the most accurate reproduction.*
 
 # Juno - Privacy and Security
 
@@ -147,7 +147,7 @@ We use secure socket layer (" **SSL** ") technology to protection your informati
 
 **V. Minors' Use of the Services**
 
-Juno believes it is important for parents and guardians to participate in and monitor their children's use of the Internet. Juno offers general audience Sites and Services and these Sites and Services are not intended for children under the age of 13. If we have actual knowledge that a user is under the age of 13, we require the parent or guardian to provide parental consent as required by the Children's Online Privacy Protection Act (" **COPPA** "). Juno will not use or disclose PII from children under 13 except as may be permitted under COPPA. Please [click here](http://www.juno.com/start/landing.do?page=www/legal/special) for further information related to children under the age of 13. 
+Juno believes it is important for parents and guardians to participate in and monitor their children's use of the Internet. Juno offers general audience Sites and Services and these Sites and Services are not intended for children under the age of 13. If we have actual knowledge that a user is under the age of 13, we require the parent or guardian to provide parental consent as required by the Children's Online Privacy Protection Act (" **COPPA** "). Juno will not use or disclose PII from children under 13 except as may be permitted under COPPA. Please [click here](https://www.juno.com/start/landing.do?page=www/legal/special) for further information related to children under the age of 13. 
 
 **VI. Changes to the Privacy Policy**
 
@@ -171,8 +171,8 @@ The information we collect from users is processed and maintained in the United 
 
 Please click on the links below to identify those companies that have placed an advertising cookie on your computer, mobile device or other similar device, and to determine how to opt out from receiving targeted advertisements from those companies. 
 
-Digital Advertising Alliance: <http://www.aboutads.info/choices>
+Digital Advertising Alliance: [http://www.aboutads.info/choices](https://www.aboutads.info/choices)
 
-Network Advertising Initiative: <http://www.networkadvertising.org/managing/opt_out.asp>
+Network Advertising Initiative: [http://www.networkadvertising.org/managing/opt_out.asp](https://www.networkadvertising.org/managing/opt_out.asp)
 
 JumpTap: <https://opt.jumptap.com/optout/opt>
