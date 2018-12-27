@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fundsift.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629162347id_/http%3A//www.fundsift.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fundsift.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227011748id_/http%3A//www.fundsift.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Fund Sift
 
