@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the hindawi.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524043710id_/https%3A//www.hindawi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hindawi.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227083033id_/https%3A//www.hindawi.com/privacy) for the most accurate reproduction.*
 
 # Hindawi
 
 ✕
 
 By using this website, you consent to the use of cookies as described in our [Privacy Policy](https://web.archive.org/web/20171005032846/https://www.hindawi.com/privacy/)
-
-[ ](https://about.hindawi.com/authors/open-access/)
 
 ## Privacy Policy
 
