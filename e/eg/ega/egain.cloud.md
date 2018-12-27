@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the egain.cloud privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627151150id_/http%3A//www.egain.com/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egain.cloud privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227201528id_/http%3A//www.egain.com/privacy-policies) for the most accurate reproduction.*
 
 # Data Privacy and Security Policy - eGain
 
@@ -187,3 +187,5 @@ Phone: +1 408-636-4500
 [dataprivacy@egain.com](mailto:dataprivacy@egain.com)
 
 This Privacy Policy is dated May 25, 2018
+
+[](https://privacy.truste.com/privacy-seal/validation?rid=b86c94d4-2b6f-41c1-b7f4-149bb659b0c7)
