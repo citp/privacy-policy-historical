@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enotes.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627091026id_/https%3A//www.enotes.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enotes.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227165403id_/https%3A//www.enotes.com/help/privacy) for the most accurate reproduction.*
 
 # eNotes Privacy Policy
 
@@ -23,7 +23,7 @@ We will collect data if you voluntarily submit other information, such as provid
 
 **Website Use Information** : We use a standard technology called "cookies" (see below, "What are cookies?") and server logging to collect information about how our website is used. Information gathered through cookies and server logs may include the date and time of visits, the pages viewed, time spent at our website, IP address, and city and country from which you are visiting.
 
-eNotes uses the following third party services that may track information about you on our website; click on any of these providers to see their respective privacy policy: [Google Analytics](https://support.google.com/analytics/answer/6004245?hl=en), [Google AdWords](https://policies.google.com/privacy?hl=en), [ShareASale](https://www.shareasale.com/PrivacyPolicy.pdf) (both AdWords and ShareASale are used for conversion tracking), [Facebook](https://www.facebook.com/legal/terms/update?ref=old_policy) (only if you have enabled Facebook login on our site), [Addthis](http://www.addthis.com/privacy) (used for sharing tools), [Virtual Website Optimizer](https://vwo.com/privacy-policy/) (used for website testing). For more information, or to opt-out, please visit the respective website(s) of these vendors or contact us at support@enotes.com.
+eNotes uses the following third party services that may track information about you on our website; click on any of these providers to see their respective privacy policy: [Google Analytics](https://support.google.com/analytics/answer/6004245?hl=en), [Google AdWords](https://policies.google.com/privacy?hl=en), [ShareASale](https://www.shareasale.com/PrivacyPolicy.pdf) (both AdWords and ShareASale are used for conversion tracking), [Facebook](https://www.facebook.com/legal/terms/update?ref=old_policy) (only if you have enabled Facebook login on our site), [Addthis](https://www.addthis.com/privacy) (used for sharing tools), [Virtual Website Optimizer](https://vwo.com/privacy-policy/) (used for website testing). For more information, or to opt-out, please visit the respective website(s) of these vendors or contact us at support@enotes.com.
 
 ### How do we use the information that you provide to us?
 
