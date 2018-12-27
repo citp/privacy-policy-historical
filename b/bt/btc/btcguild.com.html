@@ -1,31 +1,33 @@
-<!--The following is the downloaded HTML source of the btcguild.com privacy policy that was archived on 2017-11-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171122221023id_/https%3A//bitcoin.org/en/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the btcguild.com privacy policy that was archived on 2018-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181227224039id_/https%3A//bitcoin.org/en/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 
 
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-<meta property="og:image" content="https://bitcoin.org/img/icons/opengraph.png">
+<meta property="og:image" content="https://bitcoin.org/img/icons/opengraph.png?1545739557">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
 <title>Privacy Policy - Bitcoin</title>
 
 <link rel="stylesheet" href="/css/font-awesome-4.4.0/css/font-awesome.min.css">
-<link rel="stylesheet" href="/css/main.css">
+<link rel="stylesheet" href="/css/main.css?1545739557">
 <!--[if lt IE 8]><link rel="stylesheet" href="/css/ie.css"><script type="text/javascript" src="/js/ie.js"></script><![endif]-->
 <!--[if IE 8]><link rel="stylesheet" href="/css/ie8.css"><![endif]-->
 
 
-<script async="" src="//web.archive.org/web/20181002120329/https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/js/base.js"></script>
-<script type="text/javascript" src="/js/main.js"></script>
-
-<link rel="shortcut icon" href="/favicon.png">
-<link rel="apple-touch-icon-precomposed" href="/img/icons/logo_ios.png">
+<script type="text/javascript" src="/js/base.js?1545739557"></script>
+<script type="text/javascript" src="/js/main.js?1545739557"></script>
+<script src="/js/jquery/jquery-1.11.2.min.js"></script>
+<script src="/js/jquery/jquery-ui.min.js"></script>
+<script src="/js/jquery/jquery.qrcode.min.js"></script>
+<link rel="shortcut icon" href="/favicon.png?1545739557">
+<link rel="apple-touch-icon-precomposed" href="/img/icons/logo_ios.png?1545739557">
 <script>
     window.cookieconsent_options = {
         theme: 'light-floating'
     }
 </script>
-<script type="text/javascript" src="/js/cookieconsent/cookieconsent.js"></script>
+<script type="text/javascript" src="/js/cookieconsent/cookieconsent.js?1545739557"></script>
 <script>
 if( navigator.doNotTrack != "yes" && navigator.doNotTrack != "1" && window.doNotTrack != "1" && navigator.msDoNotTrack != "1" ){
 	var script = document.createElement('script');
@@ -34,9 +36,60 @@ if( navigator.doNotTrack != "yes" && navigator.doNotTrack != "1" && window.doNot
 }
 </script><script src="/js/analytics.js"></script>
 
-<link rel="stylesheet" type="text/css" href="/js/cookieconsent/light-floating.css"></head>
+</head>
 
-<body><div class="cc_banner-wrapper "><div class="cc_banner cc_container cc_container--open"><a href="#ok" data-cc-event="click:dismiss" target="_blank" class="cc_btn cc_btn_accept_all">OK</a><p class="cc_message">We use cookies to ensure you get the best experience on our website. <br><br>Please read our <a href="/en/privacy">privacy policy</a> to find out more.</p></div></div>
+<body>
+
+
+
+
+
+<div id="donation-modal" style="display: none" class="donation-modal hidden">
+  <div class="modal-dialog">
+    <div class="modal-header">
+      <div class="modal-close-btn" onclick="closeDonationModal()">×</div>
+      <p class="modal-header-text section-title">Donate to Bitcoin.org</p>
+    </div>
+    <p class="modal-subheader">Use this QR code or address below</p>
+    <div style="text-align: center;">
+      <div id="donation-qr-code" data-address="3FkenCiXpSLqD8L79intRNXUgjRoH9sjXa"></div>
+    </div>
+    <div>
+      <a class="donation-btc-address" href="bitcoin:3FkenCiXpSLqD8L79intRNXUgjRoH9sjXa" target="_blank">
+        3FkenCiXpSLqD8L79intRNXUgjRoH9sjXa
+      </a>
+    </div>
+    <div class="modal-body bg-white" style="overflow-y:hidden;text-align: center;">
+      <div>
+        
+        <button type="button" class="donation-amount-btn" data-amount-usd="5">
+          $5.00
+          <div class="donation-amount-usd-in-btc">(... BTC)</div>
+        </button>
+        
+        <button type="button" class="donation-amount-btn" data-amount-usd="25">
+          $25.00
+          <div class="donation-amount-usd-in-btc">(... BTC)</div>
+        </button>
+        
+        <button type="button" class="donation-amount-btn" data-amount-usd="50">
+          $50.00
+          <div class="donation-amount-usd-in-btc">(... BTC)</div>
+        </button>
+        
+      </div>
+
+      <div>
+        <input style="margin-right: 15px" type="text" placeholder="Or custom amount? (BTC)" id="donation-input-amount-btc" class="donation-amount-input">
+        <input type="text" placeholder="Or custom amount? (USD)" id="donation-input-amount-usd" class="donation-amount-input">
+      </div>
+
+      <div>
+        <textarea class="donation-amount-input" id="donation-input-message" placeholder="Optional description (for your wallet)"></textarea>
+      </div>
+    </div>
+  </div>
+</div>
 
 
 
@@ -50,7 +103,56 @@ if( navigator.doNotTrack != "yes" && navigator.doNotTrack != "1" && window.doNot
 
 <div class="head"><div>
   
-<ul class="lang">
+
+<a class="logo" href="/en/"><img src="/img/icons/logotop.png?1545739557" alt="Bitcoin"></a>
+
+  
+
+<ul id="menusimple" class="menusimple menumain" onclick="mobileMenuHover(event);" ontouchstart="mobileMenuHover(event);">
+  <li><a class="is-expand">Introduction</a>
+    <ul>
+      <li><a href="/en/bitcoin-for-individuals">Individuals</a></li>
+      <li><a href="/en/bitcoin-for-businesses">Businesses</a></li>
+      <li><a href="/en/bitcoin-for-developers">Developers</a></li>
+      <li><a href="/en/getting-started">Getting started</a></li>
+      <li><a href="/en/how-it-works">How it works</a></li>
+      <li><a href="/en/you-need-to-know">You need to know</a></li>
+    </ul>
+  </li>
+  <li><a class="is-expand">Resources</a>
+    <ul>
+      <li><a href="/en/resources">Resources</a>
+      </li><li><a href="/en/exchanges">Exchanges</a></li>
+      <li><a href="/en/community">Community</a></li>
+      
+      
+      <li><a href="/en/developer-documentation">Documentation</a></li>
+      
+      <li><a href="/en/vocabulary">Vocabulary</a></li>
+      <li><a href="/en/events">Events</a></li>
+      
+        <li><a href="/en/bitcoin-core/">Bitcoin Core</a></li>
+      
+    </ul>
+  </li>
+  <li><a href="/en/innovation">Innovation</a></li>
+  <li><a class="is-expand">Participate</a>
+    <ul>
+      <li><a href="/en/support-bitcoin">Support Bitcoin</a>
+      </li><li><a href="/en/buy">Buy Bitcoin</a></li>
+      <li><a href="/en/full-node">Running a full node</a></li>
+      <li><a href="/en/development">Development</a></li>
+    </ul>
+  </li>
+  <li><a href="/en/faq">FAQ</a></li>
+</ul>
+
+  
+
+<a id="menumobile" class="menumobile" onclick="mobileMenuShow(event);" ontouchstart="mobileMenuShow(event);"></a>
+
+  
+<ul class="lang is-expand">
   <li><a>English</a>
   <ul>
     <li><ul>
@@ -96,9 +198,12 @@ if( navigator.doNotTrack != "yes" && navigator.doNotTrack != "1" && window.doNot
           <li><a href="/sl/">Slovenščina</a></li>
         
         
-          <li><a href="/sv/integritet">Svenska</a></li>
+          <li><a href="/sr/privatnost">Srpski</a></li>
         
         </ul></li><li><ul>
+          <li><a href="/sv/integritet">Svenska</a></li>
+        
+        
           <li><a href="/tr/gizlilik">Türkçe</a></li>
         
         
@@ -140,107 +245,68 @@ if( navigator.doNotTrack != "yes" && navigator.doNotTrack != "1" && window.doNot
 </ul>
 
   
-
-<a id="menumobile" class="menumobile" onclick="mobileMenuShow(event);" ontouchstart="mobileMenuShow(event);"></a>
-
-  
-
-<a class="logo" href="/en/"><img src="/img/icons/logotop.svg" alt="Bitcoin"></a>
-
-  
-<div id="langselect" class="langselect"><select onchange="window.location=this.value;">
-    
-          <option value="/id/privasi">Bahasa Indonesia</option>
-    
-          <option value="/da/privatliv">Dansk</option>
-    
-          <option value="/de/privatsphaere">Deutsch</option>
-    
-          <option value="/en/privacy" selected="selected">English</option>
-    
-          <option value="/es/">Español</option>
-    
-          <option value="/fr/confidentialite">Français</option>
-    
-          <option value="/it/privacy">Italiano</option>
-    
-          <option value="/hu/adatvedelem">Magyar</option>
-    
-          <option value="/nl/privacy">Nederlands</option>
-    
-          <option value="/pl/prywatnosc">Polski</option>
-    
-          <option value="/pt_BR/privacidade">Português Brasil</option>
-    
-          <option value="/ro/confidentialitate">Română</option>
-    
-          <option value="/sl/">Slovenščina</option>
-    
-          <option value="/sv/integritet">Svenska</option>
-    
-          <option value="/tr/gizlilik">Türkçe</option>
-    
-          <option value="/el/privacy">Ελληνικά</option>
-    
-          <option value="/bg/privacy">български</option>
-    
-          <option value="/ru/privacy">Русский</option>
-    
-          <option value="/uk/privacy">Українська</option>
-    
-          <option value="/ar/">العربية</option>
-    
-          <option value="/fa/privacy">فارسی</option>
-    
-          <option value="/hi/privacy">हिन्दी</option>
-    
-          <option value="/ko/privacy">한국의</option>
-    
-          <option value="/ja/privacy">日本語</option>
-    
-          <option value="/zh_CN/privacy">简体中文</option>
-    
-          <option value="/zh_TW/privacy">繁體中文</option>
-    
-</select></div>
-
-  
-
-<ul id="menusimple" class="menusimple menumain" onclick="mobileMenuHover(event);" ontouchstart="mobileMenuHover(event);">
-  <li><a>Introduction</a>
-    <ul>
-      <li><a href="/en/bitcoin-for-individuals">Individuals</a></li>
-      <li><a href="/en/bitcoin-for-businesses">Businesses</a></li>
-      <li><a href="/en/bitcoin-for-developers">Developers</a></li>
-      <li><a href="/en/getting-started">Getting started</a></li>
-      <li><a href="/en/how-it-works">How it works</a></li>
-      <li><a href="/en/you-need-to-know">You need to know</a></li>
-    </ul>
-  </li>
-  <li><a>Resources</a>
-    <ul>
-      <li><a href="/en/resources">Resources</a>
-      </li><li><a href="/en/exchanges">Exchanges</a></li>
-      <li><a href="/en/community">Community</a></li>
-      <li><a href="/en/developer-documentation">Documentation</a></li>
-      <li><a href="/en/vocabulary">Vocabulary</a></li>
-      <li><a href="/en/events">Events</a></li>
-      
-        <li><a href="/en/bitcoin-core/">Bitcoin Core</a></li>
-      
-    </ul>
-  </li>
-  <li><a href="/en/innovation">Innovation</a></li>
-  <li><a>Participate</a>
-    <ul>
-      <li><a href="/en/support-bitcoin">Support Bitcoin</a>
-      </li><li><a href="/en/buy">Buy Bitcoin</a></li>
-      <li><a href="/en/full-node">Running a full node</a></li>
-      <li><a href="/en/development">Development</a></li>
-    </ul>
-  </li>
-  <li><a href="/en/faq">FAQ</a></li>
-</ul>
+<div id="langselect" class="langselect">
+    <label for="select-input" class="center-select">
+        <select id="select-input" class="center-select__input" onchange="window.location=this.value;">
+            
+            <option value="/id/privasi">Bahasa Indonesia</option>
+            
+            <option value="/da/privatliv">Dansk</option>
+            
+            <option value="/de/privatsphaere">Deutsch</option>
+            
+            <option value="/en/privacy" selected="selected">English</option>
+            
+            <option value="/es/">Español</option>
+            
+            <option value="/fr/confidentialite">Français</option>
+            
+            <option value="/it/privacy">Italiano</option>
+            
+            <option value="/hu/adatvedelem">Magyar</option>
+            
+            <option value="/nl/privacy">Nederlands</option>
+            
+            <option value="/pl/prywatnosc">Polski</option>
+            
+            <option value="/pt_BR/privacidade">Português Brasil</option>
+            
+            <option value="/ro/confidentialitate">Română</option>
+            
+            <option value="/sl/">Slovenščina</option>
+            
+            <option value="/sr/privatnost">Srpski</option>
+            
+            <option value="/sv/integritet">Svenska</option>
+            
+            <option value="/tr/gizlilik">Türkçe</option>
+            
+            <option value="/el/privacy">Ελληνικά</option>
+            
+            <option value="/bg/privacy">български</option>
+            
+            <option value="/ru/privacy">Русский</option>
+            
+            <option value="/uk/privacy">Українська</option>
+            
+            <option value="/ar/">العربية</option>
+            
+            <option value="/fa/privacy">فارسی</option>
+            
+            <option value="/hi/privacy">हिन्दी</option>
+            
+            <option value="/ko/privacy">한국의</option>
+            
+            <option value="/ja/privacy">日本語</option>
+            
+            <option value="/zh_CN/privacy">简体中文</option>
+            
+            <option value="/zh_TW/privacy">繁體中文</option>
+            
+        </select>
+        <span class="center-select__text">Language: <span class="is-capital">en</span></span>
+    </label>
+</div>
 
 </div></div>
 
@@ -248,74 +314,363 @@ if( navigator.doNotTrack != "yes" && navigator.doNotTrack != "1" && window.doNot
   
 
 <div class="breadcrumbs">
-  
+  <div class="container">
+    
+  </div>
 </div>
 
   
 
 <div id="content" class="content">
-  <h1>Privacy Policy</h1>
+  <div class="hero">
+  <div class="container hero-container">
+    <h1>Privacy Policy</h1>
+    
 
-<p>This page informs you of our policies regarding the collection, use and disclosure of personal information we receive from users of our site (https://bitcoin.org). We use your personal information to better understand your usage of the site, and to collect traffic statistics.</p>
+<div class="row hero-social">
+  <a href="" onclick="window.open('http://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(location.href))" class="hero-social-link" target="_blank">
+    <img src="/img/icons/ico_facebook_bright.svg?1545739557" alt="facebook">
+  </a>
+  <a href="" onclick="window.open('https://twitter.com/share?url=' + encodeURIComponent(location.href))" class="hero-social-link" target="_blank">
+    <img src="/img/icons/ico_twitter_bright.svg?1545739557" alt="twitter">
+  </a>
+</div>
+  </div>
+</div>
 
-<p>By using the site, you agree to the collection and use of information in accordance with this policy.</p>
-
-<h2 id="logdata">Log Data</h2>
-<p>Like many site operators, we collect information that your browser sends whenever you visit our site ("Log Data"). This Log Data may include information such as your computer's Internet Protocol ("IP") address (with replaced last byte), browser type, browser version, the pages of our site that you visit, the time and date of your visit, the time spent on those pages and other statistics.</p>
-
-<h2 id="cookies">Cookies</h2>
-<p>Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer's hard drive. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our site.</p>
-
-<p>We use cookies for the following purposes:</p>
-<ul>
-<li>To keep track of whether you have pressed the "OK" button on the cookie disclaimer, so we don't bother you with the notification if you have.</li>
-<li>Our Analytics software (Google Analytics) uses cookies to measure and better understand user-interactions on our Site. You can read more about how Google Analytics uses cookies <a href="https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage">here</a>.</li>
-</ul>
-
-<h2 id="analytics">Google Analytics</h2>
-<p>We use a third-party JavaScript plug-in provided by Google called "Google Analytics" to provide us with useful traffic statistics and to better understand how you use our site. We do not have direct access to the information obtained from Google Analytics, but Google provides us with a summary through their dashboard.</p>
-
-<p>We may share the information obtained from Google Analytics with business partners who are interested in advertising on our website. The information shared with these business partners will not contain any personally identifying information (Google does not provide us with direct access to the data and therefore we cannot see this information).</p>
-
-<p>You can opt-out of having your information collected by Google Analytics by downloading the Google Analytics opt-out browser add-on provided by Google. This will prevent your information being used by Google Analytics. Doing this will not effect your ability to use our Site in any way. You can download the opt-out browser add-on <a href="https://tools.google.com/dlpage/gaoptout">here</a>. We also honor the Do Not Track header and will not track visitors who have Do Not Track switched on.</p>
-
-<h2 id="changes">Changes to this Privacy Policy</h2>
-<p>We may update this privacy policy from time to time. We will notify you of any changes by posting the new privacy policy on the Site. You are advised to review this privacy policy periodically for any changes.</p>
-
-<p>This Privacy Policy was last updated: 5th July, 2016.</p>
-
-<h2 id="contact">Contact Us</h2>
-<p>If you have any questions about our privacy policy, or how your data is being collected and processed, please e-mail <a href="mailto:privacy@bitcoin.org?Subject=Privacy">privacy@bitcoin.org</a>.</p>
-
+<div class="privacy">
+  <div class="container">
+    <p>This page informs you of our policies regarding the collection, use and disclosure of personal information we receive from users of our site (https://bitcoin.org). We use your personal information to better understand your usage of the site, and to collect traffic statistics.</p>
+  
+    <p>By using the site, you agree to the collection and use of information in accordance with this policy.</p>
+  
+    <h2 id="logdata">Log Data</h2>
+    <p>Like many site operators, we collect information that your browser sends whenever you visit our site ("Log Data"). This Log Data may include information such as your computer's Internet Protocol ("IP") address (with replaced last byte), browser type, browser version, the pages of our site that you visit, the time and date of your visit, the time spent on those pages and other statistics.</p>
+  
+    <h2 id="cookies">Cookies</h2>
+    <p>Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer's hard drive. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our site.</p>
+  
+    <p>We use cookies for the following purposes:</p>
+    <ul>
+      <li>To keep track of whether you have pressed the "OK" button on the cookie disclaimer, so we don't bother you with the notification if you have.</li>
+      <li>Our Analytics software (Google Analytics) uses cookies to measure and better understand user-interactions on our Site. You can read more about how Google Analytics uses cookies <a href="https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage">here</a>.</li>
+    </ul>
+  
+    <h2 id="analytics">Google Analytics</h2>
+    <p>We use a third-party JavaScript plug-in provided by Google called "Google Analytics" to provide us with useful traffic statistics and to better understand how you use our site. We do not have direct access to the information obtained from Google Analytics, but Google provides us with a summary through their dashboard.</p>
+  
+    <p>We may share the information obtained from Google Analytics with business partners who are interested in advertising on our website. The information shared with these business partners will not contain any personally identifying information (Google does not provide us with direct access to the data and therefore we cannot see this information).</p>
+  
+    <p>You can opt-out of having your information collected by Google Analytics by downloading the Google Analytics opt-out browser add-on provided by Google. This will prevent your information being used by Google Analytics. Doing this will not affect your ability to use our Site in any way. You can download the opt-out browser add-on <a href="https://tools.google.com/dlpage/gaoptout">here</a>. We also honor the Do Not Track header and will not track visitors who have Do Not Track switched on.</p>
+  
+    <h2 id="changes">Changes to this Privacy Policy</h2>
+    <p>We may update this privacy policy from time to time. We will notify you of any changes by posting the new privacy policy on the Site. You are advised to review this privacy policy periodically for any changes.</p>
+  
+    <p>This Privacy Policy was last updated: 5th July, 2016.</p>
+  
+    <h2 id="contact">Contact Us</h2>
+    <p>If you have any questions about our privacy policy, or how your data is being collected and processed, please e-mail <a href="mailto:privacy@bitcoin.org?Subject=Privacy">privacy@bitcoin.org</a>.</p>
+  
+  </div>
+</div>
 </div>
 
   <div class="footer">
-    
+    <div class="container">
+       
 
-<div>
-  <p>Bitcoin.org is community supported: <a href="bitcoin:3FkenCiXpSLqD8L79intRNXUgjRoH9sjXa" target="_blank">3FkenCiXpSLqD8L79intRNXUgjRoH9sjXa</a></p>
-</div>
+<a class="logo-footer" href="/en/">
+  <img src="/img/icons/logo-footer.svg?1545739557" alt="Bitcoin">
+</a> 
+       
 
-<div class="footermenu">
-  <a href="/en/alerts" class="statusmenu">Network Status</a>
-  <a href="/en/legal">Legal</a>
+<div class="row footer-row">
+  <div class="donate">
+    <div class="row donate-row">
+      <div>
+        <span class="footer-title">Support Bitcoin.org:</span>
+        <a onclick="openDonationModal()" class="donate-btn btn-bright">Donate</a>
+        <p class="donate-text">
+          <a class="donate-link" href="bitcoin:3FkenCiXpSLqD8L79intRNXUgjRoH9sjXa" target="_blank">3FkenCiXpSLqD8L79intRNXUgjRoH9sjXa</a>
+        </p>
+      </div>
+      <div class="donate-qrcode">
+        <img src="/img/footer/qr.png?1545739557" alt="QR code">
+      </div>
+    </div>
+  </div>
   
-  <a href="/en/privacy">Privacy Policy</a>
-  
-  <a href="/en/press">Press</a>
-  <a href="/en/about-us">About bitcoin.org</a>
-  <a href="/en/blog">Blog</a>
-</div>
-
+  <div class="row footermenu">
+    <div class="footermenu-item footermenu-introduction">
+      <p class="footer-title">Introduction:</p>
+      <ul class="footermenu-list">
+        <li>
+          <a href="/en/bitcoin-for-individuals">Individuals</a>
+        </li>
+        <li>
+          <a href="/en/bitcoin-for-businesses">Businesses</a>
+        </li>
+        <li>
+          <a href="/en/bitcoin-for-developers">Developers</a>
+        </li>
+        <li>
+          <a href="/en/getting-started">Getting started</a>
+        </li>
+        <li>
+          <a href="/en/how-it-works">How it works</a>
+        </li>
+        <li>
+          <a href="/en/you-need-to-know">You need to know</a>
+        </li>
+      </ul>
+    </div>
     
+    <div class="footermenu-item footermenu-resources">
+      <p class="footer-title">Resources:</p>
+      <ul class="footermenu-list">
+        <li>
+          <a href="/en/resources">Resources</a>
+        
+        </li><li>
+          <a href="/en/exchanges">Exchanges</a>
+        </li>
+        
+        <li>
+          <a href="/en/community">Community</a>
+        </li>
+        <li>
+          <a href="/en/vocabulary">Vocabulary
+          </a>
+        </li>
+        <li>
+          <a href="/en/events">Events</a>
+        </li>
+        
+        <li>
+          <a href="/en/bitcoin-core/">Bitcoin Core</a>
+        </li>
+        
+      </ul>
+    </div>
+    
+    <div class="footermenu-item footermenu-participate">
+      <p class="footer-title">Participate:</p>
+      <ul class="footermenu-list">
+        <li>
+          <a href="/en/support-bitcoin">Support Bitcoin</a>
+        
+        </li><li>
+          <a href="/en/buy">Buy Bitcoin</a>
+        </li>
+        
+        
+        <li>
+          <a href="/en/full-node">Running a full node</a>
+        </li>
+        
+        <li>
+          <a href="/en/development">Development</a>
+        </li>
+      </ul>
+    </div>
+    <div class="footermenu-item footermenu-other">
+      <p class="footer-title">Other:</p>
+      
+      <a href="/en/scams">Avoid Scams</a>
+      
+      <a href="/en/legal">Legal</a>
+      
+      <a href="/en/privacy">Privacy Policy</a>
+      
+      <a href="/en/press">Press</a>
+      <a href="/en/about-us">About bitcoin.org</a>
+      <a href="/en/blog">Blog</a>
+    </div>
+  </div>
+</div>
+ 
+       
 
 <div class="footersponsor">
-  <!--<div><span>A community website sponsored by</span> <a href="https://bitcoinfoundation.org/"><img src="/img/brand/bitcoinfoundation.png" alt="Bitcoin Foundation"></a></div>-->
+  <!--<div><span>A community website sponsored by</span> <a href="https://bitcoinfoundation.org/"><img src="/img/brand/bitcoinfoundation.png?1545739557" alt="Bitcoin Foundation"></a></div>-->
 </div>
 
+    </div>
     
 
-<div class="footerlicense">© Bitcoin Project 2009-2017 Released under the <a href="http://opensource.org/licenses/mit-license.php" target="_blank">MIT license</a></div>
+<div class="footer-bottom">
+  <div class="container">
+    <div class="row footer-bottom-row">
+      <div class="footerlicense">© Bitcoin Project 2009-2018 Released under the <a href="http://opensource.org/licenses/mit-license.php" target="_blank">MIT license</a></div>
+      <div class="row footer-social">
+        <a href="" onclick="window.open('http://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(location.href))" class="footer-social-link" target="_blank">
+          <img src="/img/icons/ico_facebook_dark.svg?1545739557" alt="facebook" class="footer-social-img">
+        </a>
+        <a href="" onclick="window.open('https://twitter.com/share?url=' + encodeURIComponent(location.href))" class="footer-social-link" target="_blank">
+          <img src="/img/icons/ico_twitter_dark.svg?1545739557" alt="twitter" class="footer-social-img">
+        </a>
+      </div>
+      <div class="row footer-status-block">
+        <a href="/en/alerts" class="statusmenu">Network Status</a>
+        
+<ul class="lang is-expand">
+  <li><a>English</a>
+  <ul>
+    <li><ul>
+      
+      
+        
+          <li><a href="/id/privasi">Bahasa Indonesia</a></li>
+        
+        
+          <li><a href="/da/privatliv">Dansk</a></li>
+        
+        
+          <li><a href="/de/privatsphaere">Deutsch</a></li>
+        
+        
+          <li><a href="/en/privacy" class="active">English</a></li>
+        
+        
+          <li><a href="/es/">Español</a></li>
+        
+        
+          <li><a href="/fr/confidentialite">Français</a></li>
+        
+        
+          <li><a href="/it/privacy">Italiano</a></li>
+        
+        
+          <li><a href="/hu/adatvedelem">Magyar</a></li>
+        
+        
+          <li><a href="/nl/privacy">Nederlands</a></li>
+        
+        
+          <li><a href="/pl/prywatnosc">Polski</a></li>
+        
+        
+          <li><a href="/pt_BR/privacidade">Português Brasil</a></li>
+        
+        
+          <li><a href="/ro/confidentialitate">Română</a></li>
+        
+        
+          <li><a href="/sl/">Slovenščina</a></li>
+        
+        
+          <li><a href="/sr/privatnost">Srpski</a></li>
+        
+        </ul></li><li><ul>
+          <li><a href="/sv/integritet">Svenska</a></li>
+        
+        
+          <li><a href="/tr/gizlilik">Türkçe</a></li>
+        
+        
+          <li><a href="/el/privacy">Ελληνικά</a></li>
+        
+        
+          <li><a href="/bg/privacy">български</a></li>
+        
+        
+          <li><a href="/ru/privacy">Русский</a></li>
+        
+        
+          <li><a href="/uk/privacy">Українська</a></li>
+        
+        
+          <li><a href="/ar/">العربية</a></li>
+        
+        
+          <li><a href="/fa/privacy">فارسی</a></li>
+        
+        
+          <li><a href="/hi/privacy">हिन्दी</a></li>
+        
+        
+          <li><a href="/ko/privacy">한국의</a></li>
+        
+        
+          <li><a href="/ja/privacy">日本語</a></li>
+        
+        
+          <li><a href="/zh_CN/privacy">简体中文</a></li>
+        
+        
+          <li><a href="/zh_TW/privacy">繁體中文</a></li>
+        
+      </ul></li>
+    </ul>
+  </li>
+</ul>
+ 
+        <div id="footer-langselect" class="footer-langselect langselect">
+          <label for="select-input-footer" class="center-select">
+            <select class="center-select__input" onchange="window.location=this.value; ">
+              
+              <option value="/id/privasi">Bahasa Indonesia</option>
+              
+              <option value="/da/privatliv">Dansk</option>
+              
+              <option value="/de/privatsphaere">Deutsch</option>
+              
+              <option value="/en/privacy" selected="selected">English</option>
+              
+              <option value="/es/">Español</option>
+              
+              <option value="/fr/confidentialite">Français</option>
+              
+              <option value="/it/privacy">Italiano</option>
+              
+              <option value="/hu/adatvedelem">Magyar</option>
+              
+              <option value="/nl/privacy">Nederlands</option>
+              
+              <option value="/pl/prywatnosc">Polski</option>
+              
+              <option value="/pt_BR/privacidade">Português Brasil</option>
+              
+              <option value="/ro/confidentialitate">Română</option>
+              
+              <option value="/sl/">Slovenščina</option>
+              
+              <option value="/sr/privatnost">Srpski</option>
+              
+              <option value="/sv/integritet">Svenska</option>
+              
+              <option value="/tr/gizlilik">Türkçe</option>
+              
+              <option value="/el/privacy">Ελληνικά</option>
+              
+              <option value="/bg/privacy">български</option>
+              
+              <option value="/ru/privacy">Русский</option>
+              
+              <option value="/uk/privacy">Українська</option>
+              
+              <option value="/ar/">العربية</option>
+              
+              <option value="/fa/privacy">فارسی</option>
+              
+              <option value="/hi/privacy">हिन्दी</option>
+              
+              <option value="/ko/privacy">한국의</option>
+              
+              <option value="/ja/privacy">日本語</option>
+              
+              <option value="/zh_CN/privacy">简体中文</option>
+              
+              <option value="/zh_TW/privacy">繁體中文</option>
+              
+            </select>
+            <span class="center-select__text">en</span>
+          </label>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 
   </div>
 </div>
@@ -327,6 +682,8 @@ if( navigator.doNotTrack != "yes" && navigator.doNotTrack != "1" && window.doNot
   addAnchorLinks();
   trackOutgoingLinks();
 </script>
+
+
 
 
 
