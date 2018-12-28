@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caringbridge.org privacy policy that was archived on 2017-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170710101726id_/https%3A//www.caringbridge.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caringbridge.org privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228205909id_/https%3A//www.caringbridge.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CaringBridge
 
@@ -38,6 +38,8 @@ Every member of a caring community, including the creators of Individual Sites a
 
 _Information You Volunteer._ CaringBridge collects the personal information you and others knowingly and voluntarily provide when you use our Service on our Site or through our mobile application, for example, the personal information you provide when you create or post content on an Individual Site, complete a survey, make a donation, use our "tell a friend" feature, or contact our customer care personnel. "Personal information" means information about an identified or identifiable individual. Examples of personal information include your name, your email address and email username, social media sign-in information, address, credit card information and your photograph.
 
+_Google User Information._ If you choose to register for or sign in to the Site using Google, CaringBridge will access, collect, and store certain personal information associated with your Google User Account, including your first name, last name, email address, and profile picture. Upon request, CaringBridge will also access, collect, and store your contacts.
+
 _Credit Card Information._ If you provide credit card information through the Service, the information you provide is never stored on our server. Instead, when you click on the "submit" button, it is forwarded immediately to a third-party service provider for processing. We use industry standard Secure Sockets Layering (SSL) software to encrypt all of your credit card information as it travels over the Internet and via wireless methods to our third-party service provider. We do not retain a copy of your credit card information. Our third-party services providers use your credit card information only to process your transaction (and for fraud prevention purposes) and are bound by contract to keep your credit card information confidential.
 
 _Information Collected From Your Mobile Device._ When using our mobile application we will collect your device type and the operating system you are using to create aggregate statistics in order to improve our mobile application.
@@ -50,7 +52,9 @@ _More About IP Addresses._ An "IP address" is a unique number that is automatica
 
 IP addresses do not include your name, email address or other information that identifies you personally, but in some cases, they can be used to identify you. For example, we may link your IP address to account information that identifies you personally. We may also provide your IP address to our third-party service provider who can use it to identify your state and zip code. This gives us valuable demographic information about the individuals who use the Service. The third-party service provider is bound by contract to use the IP addresses we provide only for this purpose. In addition, if, for example, we suspect fraud or a threat to the security of the Service, we may share our server logs - which contain IP addresses - with the appropriate investigative authorities, who could use that information to trace and identify individuals.
 
-_Cookies and Similar Technologies._ We use "cookies" and other web technologies to collect information and support certain features of the Service on our Site. For example, we may use these technologies to:
+## How CaringBridge Uses Cookies and Similar Technologies
+
+We use "cookies" and other web technologies to collect information and support certain features of the Service on our Site. For example, we may use these technologies to:
 
   * collect information about the ways people use the Service - which pages they visit, which links they use, and how long they stay on each page; 
   * estimate the number of visitors using the Service; 
@@ -60,7 +64,7 @@ _Cookies and Similar Technologies._ We use "cookies" and other web technologies 
 
 
 
-Generally, the information we collect using these web technologies does not identify you personally. If, however, you have created a user identity, for example by registering, we may link the information we collect using these web technologies to other information that identifies you personally.
+The information we collect using these web technologies does not identify you personally. If, however, you have created a user identity, for example by registering, we may link the information we collect using these web technologies to other information that identifies you personally.
 
 If you do not wish to receive cookies, you may set your browser to reject cookies or to alert you when a cookie is placed on your computer. You may also deactivate our cookies as soon as you leave the Service. Although you are not required to accept our cookies when you visit the Service, if you set your browser to reject cookies, you will not be able to use all of the features and functionality of the Service.
 
@@ -91,6 +95,8 @@ Generally, CaringBridge does not use any personal information posted in content 
   * for any other purpose identified in a click-through agreement or other agreement between CaringBridge and you.
 
 
+
+_Google User Information._ If you choose to register for the Site using Google, CaringBridge will use your Google User Information to facilitate the registration process. You will have the option to modify or delete any Google User Information pulled into the Site during the registration process.
 
 _Survey Information._ From time to time, we may post a survey on the Service, if we have your contact information and your consent, we may send you a questionnaire or survey. Your participation in any survey is always voluntary. We compile statistical information from the responses to our surveys. These statistics do not identify you personally. These statistics help us understand the needs and preferences of the groups we serve and improve the content and functionality of the Site as well as Individual Sites.
 
@@ -144,9 +150,9 @@ We maintain reasonable administrative, physical and technological measures to pr
 
 Unfortunately, no website, server or database is 100% secure. Therefore, we cannot guarantee its absolute security. If information on an Individual Site is made public, we cannot safeguard or protect that information. For this reason, you should use care and discretion when you post content on a Site and never post information that can be used for identity theft purposes, such as social security numbers, bank account numbers, or credit card numbers.
 
-## Protecting Children Under the Age of Thirteen
+## Protecting Children Under the Age of Sixteen
 
-Caring communities may include friends and family of all ages. Special care must be taken to protect children under the age of 13. For this reason, CaringBridge does not permit children under the age of 18 to create or maintain their Sites, or children under the age of 13 to register as users.
+Caring communities may include friends and family of all ages. Special care must be taken to protect children under the age of 16. For this reason, CaringBridge does not permit children under the age of 18 to create or maintain their Sites, or children under the age of 16 to register as users.
 
 ## Privacy Notices and Privacy Policy Changes
 
