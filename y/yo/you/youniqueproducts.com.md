@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the youniqueproducts.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628032306id_/https%3A//www.youniqueproducts.com/business/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youniqueproducts.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228094712id_/https%3A//www.youniqueproducts.com/business/privacy) for the most accurate reproduction.*
 
-# Younique - Uplift. Empower. Validate.
+# Privacy Policy
 
 ## Introduction
 
@@ -138,3 +138,5 @@ Younique reserves the right to change this Privacy Policy. Any changes to this P
 ### Contact Us
 
 If you have any questions or concerns regarding this Privacy Policy, please contact us at [privacy@youniqueproducts.com](mailto:privacy@youniqueproducts.com) or by regular mail at Younique, LLC, Attn: Legal Department, 3400 Mayflower Avenue, Lehi, Utah 84043. Please note that email communications are not necessarily secure. Accordingly, you should not include credit card information or other sensitive information in your email correspondence to us.
+
+### Last Updated: March 15, 2018
