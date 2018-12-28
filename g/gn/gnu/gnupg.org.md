@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gnupg.org privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623070946id_/https%3A//gnupg.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gnupg.org privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228114800id_/https%3A//gnupg.org/privacy-policy.html) for the most accurate reproduction.*
 
 # GnuPG - Privacy Policy
 
@@ -71,13 +71,13 @@ All user entered content is considered to be in the _public domain_ with the exc
 
 If you have any questions about our privacy policy or need to get information on the data stored about you, write to 
 
-Werner Koch, `data-privacy at gnupg dot org` ([OpenPGP key](https://web.archive.org/web/20180623070946id_/https%3A//gnupg.org/share/data-privacy-key.asc))  
+Werner Koch, `data-privacy at gnupg dot org` ([OpenPGP key](https://web.archive.org/web/20181228114800id_/https%3A//gnupg.org/share/data-privacy-key.asc))  
 g10 Code GmbH  
 Hüttenstr. 61  
 40699 Erkrath  
 Germany 
 
-You can expect a response within a week. If exceptionally you don't get a timely response please send a reminder or call us at the phone number given in the [imprint](https://web.archive.org/web/20180623070946id_/https%3A//gnupg.org/imprint.html). 
+You can expect a response within a week. If exceptionally you don't get a timely response please send a reminder or call us at the phone number given in the [imprint](https://web.archive.org/web/20181228114800id_/https%3A//gnupg.org/imprint.html). 
 
 ### History
 
