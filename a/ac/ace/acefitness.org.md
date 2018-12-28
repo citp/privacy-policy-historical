@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acefitness.org privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627225532id_/https%3A//www.acefitness.org/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acefitness.org privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228053501id_/https%3A//www.acefitness.org/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Personal Trainer Certification Information | ACE
 
