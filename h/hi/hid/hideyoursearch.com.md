@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the hideyoursearch.com privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912231135id_/http%3A//hideyoursearch.com/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hideyoursearch.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228073144id_/http%3A//www.searchsmart.bid/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ### General
 
-hideyoursearch.com ("we", "us" or the "Company") is firmly committed to ensure that the personal information that users ("user" or "you") share with us or with other users by accessing our website available at: http://hideyoursearch.com/ (the "Service") is safeguarded and protected. This Privacy Policy outlines our practices with respect to the information we may collect from you when you use the Service, the manners in which we may use such information and the choices that available for you.
+searchsmart.bid ("we", "us" or the "Company") is firmly committed to ensure that the personal information that users ("user" or "you") share with us or with other users by accessing our website available at: http://searchsmart.bid/ (the "Service") is safeguarded and protected. This Privacy Policy outlines our practices with respect to the information we may collect from you when you use the Service, the manners in which we may use such information and the choices that available for you.
 
 By accessing, downloading or using our Service, you expressly consent to the terms of this Privacy Policy, and to the collection, use and disclosure of your information, including personal information (as specified below), in accordance with the terms of the Privacy Policy. If you disagree to any term provided herein, please do not install or use the Service.
 
-In addition to this policy, please also review our Terms of Use http://hideyoursearch.com/about/Terms/ which this Privacy Policy in incorporated thereto by reference, along with such other policies of which you may be notified of by us from time to time.
+In addition to this policy, please also review our Terms of Use http://searchsmart.bid/about/Terms/ which this Privacy Policy in incorporated thereto by reference, along with such other policies of which you may be notified of by us from time to time.
 
 The definitions in our Terms of Use apply to this Privacy Policy unless stated otherwise.
 
@@ -110,7 +110,7 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 We may rectify, replenish or remove incomplete or inaccurate information, at any time and at our own discretion.
 
-To remove your email address please contact us at support[at]hideyoursearch.com
+To remove your email address please contact us at support[at]searchsmart.bid
 
 Please note that unless you instruct us otherwise we retain the information we collect (including your Personal Information) for as long as needed to provide the Service and to comply with our legal obligations, resolve disputes and enforce our agreements.
 
@@ -130,7 +130,7 @@ Our Service is not intended for minors, in particular children under the age of 
 
 We take great care in implementing and maintaining the security of the Service and your information. We employ industry standard procedures and policies to prevent unauthorized use of our users' information and ensure the safety of such information. Although we take reasonable steps to safeguard information, we cannot be responsible for the acts of those who gain unauthorized access or abuse our Service, and we make no warranty, express, implied or otherwise, that we will prevent such access.
 
-If you feel that your privacy was treated not in accordance with our policy, or if any person attempted to misuse our service or acted in an inappropriate manner, please contact us directly at support[at]hideyoursearch.com and our privacy designee shall investigate promptly.
+If you feel that your privacy was treated not in accordance with our policy, or if any person attempted to misuse our service or acted in an inappropriate manner, please contact us directly at support[at]searchsmart.bid and our privacy designee shall investigate promptly.
 
 #### Updates or amendments to the Privacy Policy
 
@@ -138,4 +138,4 @@ We reserve the right to periodically amend or revise the Privacy Policy; Materia
 
 #### How to contact us
 
-If you have any questions or queries about our Privacy Policy, please contact us by email in the following address: support[at]hideyoursearch.com.
+If you have any questions or queries about our Privacy Policy, please contact us by email in the following address: support[at]searchsmart.bid.
