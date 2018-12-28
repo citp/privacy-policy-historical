@@ -1,41 +1,36 @@
-<!--The following is the downloaded HTML source of the facty.com privacy policy that was archived on 2018-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180628010222id_/http%3A//facty.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the facty.com privacy policy that was archived on 2018-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181228073252id_/http%3A//facty.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-
-			
-      <link rel="dns-prefetch" href="//cdn.facty.com">
-      <link rel="dns-prefetch" href="//fonts.googleapis.com">
-      <link rel="dns-prefetch" href="//gstatic.com">
-              <link rel="dns-prefetch" href="//pagead2.googlesyndication.com">
-      <link rel="dns-prefetch" href="//googleleads.g.doubleclick.net">
-              <link rel="dns-prefetch" href="//sync.teads.tv">
-      <link rel="dns-prefetch" href="//cdn.teads.tv">
-      <link rel="dns-prefetch" href="//cdn2.teads.tv">
-      <link rel="dns-prefetch" href="//t.teads.tv">
-
-        <script src="https://js-agent.newrelic.com/nr-1071.min.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NSNJCW"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-NJBKXS"></script><script src="https://cdn.ravenjs.com/3.19.1/raven.min.js" crossorigin="anonymous"></script>
-        <script type="text/javascript">
+<link rel="dns-prefetch" href="//cdn.facty.com">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//gstatic.com">
+<link rel="dns-prefetch" href="//pagead2.googlesyndication.com">
+<link rel="dns-prefetch" href="//googleleads.g.doubleclick.net">
+<link rel="dns-prefetch" href="//sync.teads.tv">
+<link rel="dns-prefetch" href="//cdn.teads.tv">
+<link rel="dns-prefetch" href="//cdn2.teads.tv">
+<link rel="dns-prefetch" href="//t.teads.tv">
+<script src="https://js-agent.newrelic.com/nr-1099.min.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NSNJCW"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-NJBKXS"></script><script src="https://cdn.ravenjs.com/3.19.1/raven.min.js" crossorigin="anonymous"></script>
+<script type="text/javascript">
             Raven.config('https://ad0527013e08455385569fc0b7bdf9d4@sentry.io/239774', {
-                whitelistUrls: [/facty\.com/]
+                whitelistUrls: [/facty\.com/],
+                ignoreErrors: ['document.getElementsByClassName.ToString']
             }).install()
         </script>
+<script>dataLayer = [];</script>
 
-        <!-- Google Analytics -->
-        <script>
+<script>
             window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
             ga('create', 'UA-65286674-2', 'auto');
-            ga('send', 'pageview');
+                        ga('send', 'pageview');
         </script>
 
-			<!-- Google Fonts -->
-      <link href="//fonts.googleapis.com/css?family=Playfair+Display:400,700,400italic,700italic" rel="stylesheet" type="text/css">
-			<link href="//fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
+<link href="//fonts.googleapis.com/css?family=Playfair+Display:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+<link href="//fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
 
-			<!-- Facty Search Extension Permission -->
- 			<link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/nbnifmmfdhcadepmkfleiddacokdifcd">
-
-        <script type="text/javascript">
+<link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/nbnifmmfdhcadepmkfleiddacokdifcd">
+<script type="text/javascript">
             function getParam(p){
                 var match = RegExp('[?&]' + p + '=([^&]*)').exec(window.location.search);
                 return match && decodeURIComponent(match[1].replace(/\+/g, ' '));
@@ -62,97 +57,9 @@
                 if (parts.length == 2) return parts.pop().split(";").shift();
             }
 
-            var revenueSession = 0;
-            var timeout;
-
-            window.addEventListener('jitaSlotRenderEnded', function(e) {
-                if(!!e.detail) {
-                    var revenue = 0;
-                    if(!!getCookie('hbSessionRevenue'))
-                    {
-                        revenue = parseFloat(getCookie('hbSessionRevenue'));
-                    }
-
-                    revenue += parseFloat(e.detail.cpm / 1000);
-                    setCookie('hbSessionRevenue', parseFloat(revenue), 30);
-
-                    if (timeout) {
-                        clearInterval(timeout);
-                    }
-                    timeout = setTimeout(reportRevenue, 2000, e);
-
-                    Raven.captureBreadcrumb({
-                        message: 'Slot render ended for ' + e.detail.adUnitCode,
-                        category: 'action',
-                        data: {
-                            adUnit: e.detail.adUnitCode,
-                            totalRevenue: revenue,
-                            cpm: e.detail.cpm
-                        }
-                    });
-                }
-            });
-
-
-            function reportRevenue(e)
-            {
-
-                if(getCookie('hbSessionRevenue')  !== undefined)
-                {
-                    revenueSession = parseFloat(getCookie('hbSessionRevenue'));
-                    Raven.captureBreadcrumb({
-                        message: 'Reporting HB revenue',
-                        category: 'action',
-                        data: {
-                            revenue: revenueSession
-                        }
-                    });
-
-                    if(revenueSession >= parseFloat(0.01)) {
-
-                        var revenueToReport = decimalAdjust('floor', revenueSession, -2);
-
-                        revenueSession = revenueSession - parseFloat(revenueToReport);
-
-                        var data = {revenue: revenueToReport, device: 'desktop', geo: 'us'};
-
-                        if(!!getCookie('gclid')) {
-                            data.clickid = getCookie('gclid');
-                            data.source = getCookie('ct_source');
-                        }
-                        else if(!!getCookie('msclkid')) {
-                            data.clickid = getCookie('msclkid');
-                            data.source = getCookie('ct_source');
-                        }
-                        else
-                        {
-                            data.source = 'direct';
-                        }
-
-                        $.ajax({
-                            type: 'POST',
-                            url: 'http://ct-report.facty.com/rtk/report',
-                            data: data,
-                            complete: function(xhr, status) {
-                                Raven.captureBreadcrumb({
-                                    message: 'HB revenue report to CT server complete, status: ' + status,
-                                    category: 'action',
-                                    data: {
-                                        data: data
-                                    }
-                                });
-                            }
-                        });
-
-                    }
-
-                    setCookie('hbSessionRevenue', revenueSession, 30);
-                }
-            }
         </script>
 
-        <!-- Helper method -->
-        <script>
+<script>
             function getCookie(name) {
                 var value = "; " + document.cookie;
                 var parts = value.split("; " + name + "=");
@@ -243,8 +150,7 @@
             var pagenum = formatSessionDepthValue1000(sessdpth);
             var articlenum = formatArticleDepthValue1000(articleNumber);
         </script>
-
-        <script>
+<script>
             window.rtkGPTSlotsTargeting = [
                 [
                     ['articlenum', articlenum],
@@ -252,59 +158,40 @@
                 ]
             ];
         </script>
-
-                    <script type="text/javascript" src="//delivery.adsrvce.com/ooI9/krtH_86Q1/jita.js?dfp=1" async="" defer=""></script>
-            
-                    <script>
-                window.rtkGPTExtraSlots = [
-                    { slotId: '/180649612/fh_desktop_lh_native', sizes: [[1, 1]], divId: 'div-fh_desktop_lh_native' }
-                ];
-            </script>
-
-
-        
-        
-        <script>
-            dataLayer = [{
+<script type="text/javascript" src="//delivery.adsrvce.com/ooI9/krtH_86Q1/jita.js?dfp=1" async="" defer=""></script>
+<script data-cfasync="false" src="/wp-content/themes/facty2015/js/zepto-with-touch.js" type="text/javascript"></script>
+<script>
+            dataLayer.push({
                 'GTM_WP_device': 'desktop'
-            }];
+            });
                         var noGTMDevice = 'desktop';
         </script>
 
-        <!-- Google Tag Manager -->
-        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
                     new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
                 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
             })(window,document,'script','dataLayer','GTM-NJBKXS');</script>
-        <!-- End Google Tag Manager -->
 
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgYGUF9TGwcBVVZbDwAF"};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(16),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(17),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,v="fn"+h,w="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(v,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(v,function(t,n){i(w,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(v,function(t,n){i(w,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(19)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(19)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(19)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(19)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):v?v(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(19)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,v=l.SI,w="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(w,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!v&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===w||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(16),s=t(17),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){if(!o)return!1;if(t!==o)return!1;if(!n)return!0;if(!i)return!1;for(var e=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==e[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(o="Safari",i=c[1])}n.exports={agent:o,version:i,match:r}},{}],16:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],17:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],18:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],19:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(17),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=m(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[g[e]];return d&&d.push([b,e,r,a]),a}}function p(t,n){y[t]=m(t).concat(n)}function h(t,n){var e=y[t];if(e)for(var r=0;r<e.length;r++)e[r]===n&&e.splice(r,1)}function m(t){return y[t]||[]}function v(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",g[e]=n,n in u||(u[n]=[])})}var y={},g={},b={on:p,addEventListener:p,removeEventListener:h,emit:e,get:v,listeners:m,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(16),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!E++){var t=x.info=NREUM.info,n=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(g,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+x.offset],null,"api");var e=p.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===p.readyState&&i()}function i(){c("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-x.offset}var s=(new Date).getTime(),c=t("handle"),f=t(16),u=t("ee"),d=t(15),l=window,p=l.document,h="addEventListener",m="attachEvent",v=l.XMLHttpRequest,w=v&&v.prototype;NREUM.o={ST:setTimeout,SI:l.setImmediate,CT:clearTimeout,XHR:v,REQ:l.Request,EV:l.Event,PR:l.Promise,MO:l.MutationObserver};var y=""+location,g={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1099.min.js"},b=v&&w&&w[h]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:s,now:a,origin:y,features:{},xhrWrappable:b,userAgent:d};t(12),p[h]?(p[h]("DOMContentLoaded",i,!1),l[h]("load",r,!1)):(p[m]("onreadystatechange",o),l[m]("onload",r)),c("mark",["firstbyte",s],null,"api");var E=0,O=t(18)},{}]},{},["loader",2,10,4,3]);</script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="shortcut icon" href="https://static.fctycdn.com/wp-content/themes/facty2015/favicon.ico">
 
-      
-      <meta charset="UTF-8">
-      <meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
-      <meta name="viewport" content="width=device-width, initial-scale=1">
-
-      <link rel="shortcut icon" href="https://static.fctycdn.com/wp-content/themes/facty2015/favicon.ico">
-
-        <!-- Compose page title from article page subtitle -->
-        <title>
+<title>
             Privacy Policy - Facty Network        </title>
-
-        <script>
+<script>
             var w = Math.max(document.documentElement.clientWidth, window.innerWidth || 0);
         </script>
-
-			<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-            <script type="text/javascript">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script type="text/javascript">
                 //Set current date
                 var date = new Date();
                 var day = date.getDate();
                 var month = date.getMonth();
                 var year = date.getFullYear();
                 var formattedDate = (day + '-' + month + '-' + year);
-                                dataLayer = [{
+                                dataLayer.push({
                                             'GTM_WP_category': "",
                         'GTM_WP_combo_key': "us--desktop",
                                         'GTM_WP_country': 'us',
@@ -313,44 +200,47 @@
                     'version': 'Facty',
                     'extensionEligible': getCookie('_fctyExt'),
                     'sponsored': getCookie('factySponsored')
-                }];
+                });
             </script>
 
-			<!-- Google Tag Manager -->
-			<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 			new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 			j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 			})(window,document,'script','dataLayer',"GTM-NSNJCW");</script>
-			<!-- End Google Tag Manager -->
 
-        <!-- Google Tag Manager (noscript) -->
-        <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NSNJCW"
+
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NSNJCW"
                           height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
-      
-<!-- This site is optimized with the Yoast SEO Premium plugin v7.3 - https://yoast.com/wordpress/plugins/seo/ -->
 <link rel="canonical" href="http://facty.com/privacy-policy/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy - Facty Network">
+<meta property="og:description" content="This Privacy Policy was last revised and shall become effective as of May 25, 2018. &nbsp; By accessing the Site, you have read and agree to the terms and conditions of this Privacy Policy in its entirety. If you opt-in to our newsletter(s), we’ll send you emails and other stuff that may be of interest …">
+<meta property="og:url" content="http://facty.com/privacy-policy/">
+<meta property="og:site_name" content="Facty Network">
+<meta property="article:publisher" content="https://www.facebook.com/factycom/">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:description" content="This Privacy Policy was last revised and shall become effective as of May 25, 2018. &nbsp; By accessing the Site, you have read and agree to the terms and conditions of this Privacy Policy in its entirety. If you opt-in to our newsletter(s), we’ll send you emails and other stuff that may be of interest […]">
+<meta name="twitter:title" content="Privacy Policy - Facty Network">
 <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Organization","url":"http:\/\/facty.com","sameAs":["https:\/\/www.facebook.com\/factycom\/"],"@id":"http:\/\/facty.com#organization","name":"Facty","logo":""}</script>
-<!-- / Yoast SEO Premium plugin. -->
 
-<link rel="dns-prefetch" href="//static.fctycdn.com">
 <link rel="dns-prefetch" href="//s.yimg.com">
 <link rel="dns-prefetch" href="//s.w.org">
 <link rel="alternate" type="application/rss+xml" title="Facty Network » Privacy Policy Comments Feed" href="http://facty.com/privacy-policy/feed/">
-<link rel="stylesheet" id="facty2015_style-css" href="https://static.fctycdn.com/wp-content/themes/facty2015/style.b23c47e7ff7dd8b8f6f524d603cfceb6.css" type="text/css" media="all">
+<link rel="stylesheet" id="facty2015_style-css" href="https://static.fctycdn.com/wp-content/themes/facty2015/style.42e6db0b17bdd2859a5760db3adb0cc8.css" type="text/css" media="all">
 <script type="text/javascript" src="https://static.fctycdn.com/wp-includes/js/jquery/jquery.1.12.4.js"></script>
 <script type="text/javascript" src="https://static.fctycdn.com/wp-includes/js/jquery/jquery-migrate.min.1.4.1.js"></script>
 <script type="text/javascript" src="https://s.yimg.com/uv/dm/scripts/syndication.js"></script>
 <link rel="https://api.w.org/" href="http://facty.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://facty.com/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://facty.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.6.11">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://facty.com/wp-includes/wlwmanifest.xml">
+<meta name="generator" content="WordPress 4.6.13">
 <link rel="shortlink" href="http://facty.com/26">
 <link rel="alternate" type="application/json+oembed" href="http://facty.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ffacty.com%2Fprivacy-policy%2F">
 
-<!-- This site is using AdRotate v3.16.2 to display their advertisements - https://ajdg.solutions/products/adrotate-for-wordpress/ -->
-<!-- AdRotate CSS -->
+
 <style type="text/css" media="screen">
 	.g { margin:0px; padding:0px; overflow:hidden; line-height:1; zoom:1; }
 	.g img { height:auto; }
@@ -361,28 +251,17 @@
 		.g-col, .g-dyn, .g-single { width:100%; margin-left:0; margin-right:0; }
 	}
 </style>
-<!-- /AdRotate CSS -->
 
-<style type="text/css">
-.qtranxs_flag_en {background-image: url(https://static.fctycdn.com/wp-content/plugins/qtranslate-x/flags/gb.png); background-repeat: no-repeat;}
-.qtranxs_flag_de {background-image: url(https://static.fctycdn.com/wp-content/plugins/qtranslate-x/flags/de.png); background-repeat: no-repeat;}
-</style>
-<link hreflang="en" href="http://facty.com/en/privacy-policy/" rel="alternate">
-<link hreflang="de" href="http://facty.com/de/privacy-policy/" rel="alternate">
-<link hreflang="x-default" href="http://facty.com/privacy-policy/" rel="alternate">
-<meta name="generator" content="qTranslate-X 3.4.6.8">
 <link rel="icon" href="https://facty.com/wp-content/uploads/2016/06/favicon-150x150.png" sizes="32x32">
 <link rel="icon" href="https://facty.com/wp-content/uploads/2016/06/favicon.png" sizes="192x192">
 <link rel="apple-touch-icon-precomposed" href="https://facty.com/wp-content/uploads/2016/06/favicon.png">
 <meta name="msapplication-TileImage" content="https://facty.com/wp-content/uploads/2016/06/favicon.png">
-
-        <!--[if lt IE 9]>
+<!--[if lt IE 9]>
         <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
         <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
         <![endif]-->
 
-        <!-- Begin comScore Tag -->
-        <script>
+<script>
             var _comscore = _comscore || [];
             _comscore.push(
 
@@ -393,84 +272,71 @@
                 { var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true; s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js"; el.parentNode.insertBefore(s, el); }
             )();
         </script>
-        <noscript>
+<noscript>
             <img src="https://sb.scorecardresearch.com/p?c1=2&c2=27994339&cv=2.0&cj=1" />
         </noscript>
-        <!-- End comScore Tag -->
-    </head>
 
-    <body class="page page-id-26 page-template-default">
-
-		        
-		<div id="header" class="network">
-            <div class="header-inner">
-                <div class="content-wrapper">
-                    <div class="logo">
-                        <h1><a href="//facty.com" title="Facty Network">Facty Network</a></h1>
-                        <p>Network</p>
-                    </div>
-										
-										<script>
+</head>
+<body class="page page-id-26 page-template-default">
+<div id="header" class="network">
+<div class="header-inner">
+<div class="content-wrapper">
+<div class="logo">
+<h1><a href="//facty.com" title="Facty Network">Facty Network</a></h1>
+<p>Network</p>
+</div>
+<script>
 											//Force search bar url
 											function searchForm(form) {
 												window.location.pathname = "/search/" + encodeURIComponent(form.s.value); //TODO: Remove this.
 												return false;
 											}
 										</script>
-                    <form class="search-form" onsubmit="return searchForm(this)" method="GET">
-                        <input type="text" name="s" data-placeholder="How can we help you?" value="">
-                        <input type="submit" value="Search">
-                    </form>
-
-                    <div id="hamburger-desktop" class="only-desktop">
-                        <a href="#">Facty Network</a>
-                        <div class="hamburger-desktop-menu">
-                            <ul class="hamburger-desktop-nav">
-    <li class=""><a class="Health" href="//health.facty.com/">Health</a></li>
-    <li class=""><a class="Finance" href="//finance.facty.com/">Finance</a></li>
+<form class="search-form" onsubmit="return searchForm(this)" method="GET">
+<input type="text" name="s" data-placeholder="How can we help you?" value="">
+<input type="submit" value="Search">
+</form>
+<div id="hamburger-desktop" class="only-desktop">
+<a href="#">Facty Network</a>
+<div class="hamburger-desktop-menu">
+<ul class="hamburger-desktop-nav">
+<li class=""><a class="Health" href="//health.facty.com/">Health</a></li>
+<li class=""><a class="Finance" href="//finance.facty.com/">Finance</a></li>
 </ul>
-                        </div>
-                    </div>
-
-                    	<ul class="main-nav ">
-		<li class="current-menu-item"><a href="//facty.com">Network</a></li>
-	</ul>
-
-                    <ul class="social">
-                          <li><a class="facebook" href="https://www.facebook.com/factycom/" target="_blank">Facebook</a></li>
-  <li><a class="twitter" href="https://twitter.com/factycom" target="_blank">Twitter</a></li>
-  <li class="second-row"><a class="pinterest" href="https://www.pinterest.com/factynetwork/" target="_blank">Pinterest</a></li>
-  <li><a class="googleplus" href="https://plus.google.com/109771709434223502472" target="_blank">Google+</a></li>
-                      </ul>
-
-                    <div id="hamburger">
-                        <a href="#">Menu</a>
-                        <div class="hamburger-menu">
-                            <ul class="hamburger-nav">
-    <li class=""><a href="//health.facty.com/">Health</a></li>    <li class=""><a href="//finance.facty.com/">Finance</a></li></ul>
-                            <ul class="hamburger-social">
-                                  <li><a class="facebook" href="https://www.facebook.com/factycom/" target="_blank">Facebook</a></li>
-  <li><a class="twitter" href="https://twitter.com/factycom" target="_blank">Twitter</a></li>
-  <li class="second-row"><a class="pinterest" href="https://www.pinterest.com/factynetwork/" target="_blank">Pinterest</a></li>
-  <li><a class="googleplus" href="https://plus.google.com/109771709434223502472" target="_blank">Google+</a></li>
-                              </ul>
-                        </div>
-                    </div>
-
-                    <div class="clearfix"></div>
-                </div>
-            </div>
-        </div>
-
-        <div id="main">
-
+</div>
+</div>
+<ul class="main-nav ">
+<li class="current-menu-item"><a href="//facty.com">Network</a></li>
+</ul>
+<ul class="social">
+<li><a class="facebook" href="https://www.facebook.com/factycom/" target="_blank">Facebook</a></li>
+<li><a class="twitter" href="https://twitter.com/factycom" target="_blank">Twitter</a></li>
+<li class="second-row"><a class="pinterest" href="https://www.pinterest.com/factynetwork/" target="_blank">Pinterest</a></li>
+<li><a class="googleplus" href="https://plus.google.com/109771709434223502472" target="_blank">Google+</a></li>
+</ul>
+<div id="hamburger">
+<a href="#">Menu</a>
+<div class="hamburger-menu">
+<ul class="hamburger-nav">
+<li class=""><a href="//health.facty.com/">Health</a></li> <li class=""><a href="//finance.facty.com/">Finance</a></li></ul>
+<ul class="hamburger-social">
+<li><a class="facebook" href="https://www.facebook.com/factycom/" target="_blank">Facebook</a></li>
+<li><a class="twitter" href="https://twitter.com/factycom" target="_blank">Twitter</a></li>
+<li class="second-row"><a class="pinterest" href="https://www.pinterest.com/factynetwork/" target="_blank">Pinterest</a></li>
+<li><a class="googleplus" href="https://plus.google.com/109771709434223502472" target="_blank">Google+</a></li>
+</ul>
+</div>
+</div>
+<div class="clearfix"></div>
+</div>
+</div>
+</div>
+<div id="main">
 <div class="content-wrapper">
-            
-	<h1>Privacy Policy</h1>
-
-        <article id="post-26" class="post-26 page type-page status-publish hentry">
-            <div class="post-content">
-                <p>This Privacy Policy was last revised and shall become effective as of <strong>May 25, 2018</strong>. &nbsp; By accessing the Site, you have read and agree to the terms and conditions of this Privacy Policy in its entirety.</p>
+<h1>Privacy Policy</h1>
+<article id="post-26" class="post-26 page type-page status-publish hentry">
+<div class="post-content">
+<p>This Privacy Policy was last revised and shall become effective as of <strong>May 25, 2018</strong>. &nbsp; By accessing the Site, you have read and agree to the terms and conditions of this Privacy Policy in its entirety.</p>
 <ul>
 <li>If you opt-in to our newsletter(s), we’ll send you emails and other stuff that may be of interest to you. You can unsubscribe from our marketing emails at any time.</li>
 <li>We collect Personal Data, Site Data, and Anonymous Data (as defined below) to make our website(s) more useful to you.</li>
@@ -566,116 +432,101 @@
 <p><a href="mailto:privacy@assmb.ly">privacy@assmb.ly</a></p>
 <p>&nbsp;</p>
 <p>We reserve the right to limit or deny your request to view, update, or remove your Personal Data if you have failed to provide us with sufficient information to verify your identity. Changes to This Privacy Policy We reserve the right, in our sole discretion, to modify, update and change this Privacy Policy from time to time without prior notice to you. Notice regarding any Privacy Policy changes will be placed in a prominent location on the Site and will take effect immediately upon posting on the Site. Please check the Site periodically for any changes. Your continued use of the Site following the posting of changes to this Privacy Policy will constitute your acknowledgement and acceptance of any and all changes.</p>
-            </div>
-        </article>
-    </div>
-
-    </div>
-		
-    <div id="footer">
-        <div class="content-wrapper">
-            <div class="cols">
-                <div class="col col-facty">
-										<div class="logo">
-											<a class="logo" href="//facty.com" title="Facty Network">Facty Network</a>
-											<p>Network</p>
-										</div>
-                    <p>Do you want to advertise on Facty Network? Let’s talk about it! Contact us.<br><a href="mailto:advertise@facty.com">advertise@facty.com</a></p>
-                    <ul class="social">
-                          <li><a class="facebook" href="https://www.facebook.com/factycom/" target="_blank">Facebook</a></li>
-  <li><a class="twitter" href="https://twitter.com/factycom" target="_blank">Twitter</a></li>
-  <li class="second-row"><a class="pinterest" href="https://www.pinterest.com/factynetwork/" target="_blank">Pinterest</a></li>
-  <li><a class="googleplus" href="https://plus.google.com/109771709434223502472" target="_blank">Google+</a></li>
-                      </ul>
-                    <div class="clearfix"></div>
-                </div>
-                <div class="col col-portals">
-                    <h3>Portals</h3>
-                    <ul class="">
-    <li class=""><a href="//health.facty.com/">Health</a></li>    <li class=""><a href="//finance.facty.com/">Finance</a></li></ul>
-                    <div class="clearfix"></div>
-                </div>
-                <div class="cols-divider-tablet"></div>
-                <div class="col col-featured-news">
-                                                    <h3>Featured Articles</h3>
-                    <ul>
-                                            <li><a href="/how-to/how-to-change-your-wi-fi-password/" title="How to Change Your Wi-Fi Password">How to Change Your Wi-Fi Password</a></li>
-                                            <li><a href="/how-to/sharing-expressions-of-sympathy/" title="Sharing Expressions of Sympathy">Sharing Expressions of Sympathy</a></li>
-                                            <li><a href="/how-to/how-to-create-email-group-in-gmail/" title="How to Create Email Group in Gmail">How to Create Email Group in Gmail</a></li>
-                                        </ul>
-                                                </div>
-                <div class="col col-submit-an-idea">
-                    <h3>Submit an idea</h3>
-                    <p>Send us short note about your idea!</p>
-
-                    <form id="ideabox" action="/contact/?mode=ideabox" method="POST">
-                        <div class="textarea-wrapper">
-                            <textarea name="facty_message" data-placeholder="Type message here"></textarea>
-                        </div>
-                        <input type="submit" value="Send">
-                    </form>
-                </div>
-                <div class="clearfix"></div>
-            </div>
-
-            <div class="meta">
-                <ul id="menu-pages-menu" class="footer-nav"><li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33"><a href="http://facty.com/terms-conditions/">TERMS OF WEBSITE USE</a></li>
+</div>
+</article>
+</div>
+</div>
+<div id="footer">
+<div class="content-wrapper">
+<div class="cols">
+<div class="col col-facty">
+<div class="logo">
+<a class="logo" href="//facty.com" title="Facty Network">Facty Network</a>
+<p>Network</p>
+</div>
+<p>Do you want to advertise on Facty Network? Let’s talk about it! Contact us.<br><a href="mailto:advertise@facty.com">advertise@facty.com</a></p>
+<ul class="social">
+<li><a class="facebook" href="https://www.facebook.com/factycom/" target="_blank">Facebook</a></li>
+<li><a class="twitter" href="https://twitter.com/factycom" target="_blank">Twitter</a></li>
+<li class="second-row"><a class="pinterest" href="https://www.pinterest.com/factynetwork/" target="_blank">Pinterest</a></li>
+<li><a class="googleplus" href="https://plus.google.com/109771709434223502472" target="_blank">Google+</a></li>
+</ul>
+<div class="clearfix"></div>
+</div>
+<div class="col col-portals">
+<h3>Portals</h3>
+<ul class="">
+<li class=""><a href="//health.facty.com/">Health</a></li> <li class=""><a href="//finance.facty.com/">Finance</a></li></ul>
+<div class="clearfix"></div>
+</div>
+<div class="cols-divider-tablet"></div>
+<div class="col col-featured-news">
+<h3>Featured Articles</h3>
+<ul>
+<li><a href="/family/children/is-melatonin-safe-for-children/" title="Is Melatonin Safe for Children?">Is Melatonin Safe for Children?</a></li>
+<li><a href="/family/baby/when-do-babies-start-teething-and-other-questions/" title="When Do Babies Start Teething and Other Questions">When Do Babies Start Teething and Other Questions</a></li>
+<li><a href="/family/children/these-are-the-best-board-games-for-kids/" title="These Are the Best Board Games for Kids">These Are the Best Board Games for Kids</a></li>
+</ul>
+</div>
+<div class="col col-submit-an-idea">
+<h3>Submit an idea</h3>
+<p>Send us short note about your idea!</p>
+<form id="ideabox" action="/contact/?mode=ideabox" method="POST">
+<div class="textarea-wrapper">
+<textarea name="facty_message" data-placeholder="Type message here"></textarea>
+</div>
+<input type="submit" value="Send">
+</form>
+</div>
+<div class="clearfix"></div>
+</div>
+<div class="meta">
+<ul id="menu-pages-menu" class="footer-nav"><li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33"><a href="http://facty.com/terms-conditions/">TERMS OF WEBSITE USE</a></li>
 <li id="menu-item-179" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-26 current_page_item menu-item-179"><a href="http://facty.com/privacy-policy/">Privacy Policy</a></li>
 <li id="menu-item-178" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-178"><a href="http://facty.com/aboutus/">About Us</a></li>
 <li id="menu-item-20" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20"><a href="http://facty.com/contact/">Contact Us</a></li>
-</ul>                <div class="clearfix"></div>
-                <p class="copyrights">© 2018 facty network</p>
-            </div>
-        </div>
-    </div>
-
-    <script type="text/javascript">
+</ul> <div class="clearfix"></div>
+<p class="copyrights">© 2018 facty network</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 /* <![CDATA[ */
 var click_object = {"ajax_url":"http:\/\/facty.com\/wp-admin\/admin-ajax.php"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="https://static.fctycdn.com/wp-content/plugins/adrotate/library/jquery.adrotate.clicktracker.js?ver=1479311520"></script>
-<script type="text/javascript" src="https://static.fctycdn.com/wp-content/themes/facty2015/js/main.1b81b8a770c7d61988f7cc54bff77aeb.js"></script>
-<script type="text/javascript" src="https://static.fctycdn.com/js/iframetracker.c1262abf48ee29d59e4500e67ec0fc5c.js"></script>
-
-			<div class="just-answer-overlay"></div>
-        							<div class="outbrain-overlay">
-	<div class="close outbrain-close"></div>
+<script type="text/javascript" src="https://static.fctycdn.com/wp-content/themes/facty2015/js/main.864c36fa4366dfdc58cb41990caa66a4.js"></script>
+<div class="just-answer-overlay"></div>
+<div class="outbrain-overlay">
+<div class="close outbrain-close"></div>
 </div>
-
 <div class="exit-pop outbrain-exit-pop">
-	<img height="25" src=" https://pbs.twimg.com/profile_images/662357549853732864/-qgHblqC_400x400.png" style="max-height:25px;">
+<img height="25" src=" https://pbs.twimg.com/profile_images/662357549853732864/-qgHblqC_400x400.png" style="max-height:25px;">
 </div>
-			
-			
-      <!-- Quantcast Tag -->
-      <script type="text/javascript">
-      var _qevents = _qevents || [];
 
-      (function() {
-        var elem = document.createElement('script');
-        elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
-        elem.async = true;
-        elem.type = "text/javascript";
-        var scpt = document.getElementsByTagName('script')[0];
-        scpt.parentNode.insertBefore(elem, scpt);
-      })();
+<script type="text/javascript">
+        var _qevents = _qevents || [];
 
-      _qevents.push({
-      qacct:"p-Rvhg0Ep02y9dd"
-      });
+        (function() {
+          var elem = document.createElement('script');
+          elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+          elem.async = true;
+          elem.type = "text/javascript";
+          var scpt = document.getElementsByTagName('script')[0];
+          scpt.parentNode.insertBefore(elem, scpt);
+        })();
+
+        _qevents.push({ qacct:"p-Rvhg0Ep02y9dd" });
       </script>
-
-      <noscript>
-      <div style="display:none;">
-      <img src="//pixel.quantserve.com/pixel/p-Rvhg0Ep02y9dd.gif" border="0" height="1" width="1" alt="Quantcast"/>
-      </div>
+<noscript>
+        <div style="display:none;">
+          <img src="//pixel.quantserve.com/pixel/p-Rvhg0Ep02y9dd.gif" border="0" height="1" width="1" alt="Quantcast"/>
+        </div>
       </noscript>
-      <!-- End Quantcast tag -->
-              <script data-cfasync="false" src="https://static.fctycdn.com/wp-content/themes/facty2015/js/zepto-with-touch.js" type="text/javascript"></script>
 
-                <script type="text/javascript" src="/wp-content/themes/facty2015/js/adsticky.js"></script>
-        <script type="text/javascript">
+<script type="text/javascript" src="/wp-content/themes/facty2015/js/adsticky.js"></script>
+<script type="text/javascript">
             /* <![CDATA[ */
             goog_snippet_vars = function() {
                 var w = window;
@@ -700,9 +551,9 @@ var click_object = {"ajax_url":"http:\/\/facty.com\/wp-admin\/admin-ajax.php"};
             }
             /* ]]> */
         </script>
-        <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion_async.js">
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion_async.js">
         </script>
-        <script>
+<script>
         function decimalAdjust(type, value, exp) {
             // If the exp is undefined or zero...
             if (typeof exp === 'undefined' || +exp === 0) {
@@ -726,6 +577,6 @@ var click_object = {"ajax_url":"http:\/\/facty.com\/wp-admin\/admin-ajax.php"};
             return +(value[0] + 'e' + (value[1] ? (+value[1] + exp) : exp));
         }
     </script>
-        <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"88c074814d","applicationID":"41179812","transactionName":"YlEAZ0IDCEJXVkYNWVsbI1BECwlfGUVTA1M=","queueTime":0,"applicationTime":200,"atts":"ThYDEQoZG0w=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"88c074814d","applicationID":"41179812","transactionName":"YlEAZ0IDCEJXVkYNWVsbI1BECwlfGUVTA1M=","queueTime":0,"applicationTime":105,"atts":"ThYDEQoZG0w=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
