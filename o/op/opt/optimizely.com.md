@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optimizely.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627222217id_/https%3A//www.optimizely.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optimizely.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228050515id_/https%3A//www.optimizely.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,26 +24,26 @@ This policy does not apply to the information Optimizely receives from the third
   
 ## 1\. Information We Collect
 
-We collect two basic types of information: **personal information** and **non-personally identifiable information**. We may use personal and non-personally identifiable information to create **aggregate information**. We collect the following categories of information:
+We collect two basic types of information:  **personal information**  and  **non-personally identifiable information**. We may use personal and non-personally identifiable information to create **aggregate information**. We collect the following categories of information:
 
   * **first name and surname, username and password, email address, contact information, country of residence, job title, and other information** you provide us when you create an account on the Sites or Optimizely Services, sign-up to receive communications or materials from us, or otherwise submit a form to us;
 
   * **Transaction and payment information you provide** when purchasing a product or service from us, whether on our Sites or elsewhere. This information may include the information listed above as well as payment information;
 
-  * **Content and information that you submit when using the Sites or the Optimizely Services;** this information includes, for example, information you provide in any blogs or forums on the Sites, comments you add on the Optimizely Service, information you provide when you participate in any interactive features or surveys, and information you submit when filing a support ticket;
+  * **Content and information that you submit when using the Sites or the Optimizely Services;** this information includes, for example, information you provide in any blogs or forums on the Sites, comments you add on the Optimizely Service, information you provide when you participate in any interactive features or surveys, and information you submit when filing a support ticket;
 
   * **Usage, viewing, logs, metrics and other device and technical data** collected when you visit our Sites, use the Optimizely Service as an end user, or open or reply to emails we send. This may include information such as your web request, Internet Protocol (“ **IP** ”) address, device identifiers, device information (such as OS type or browser type), cookie IDs, referring / exit pages and URLs, interaction information (such as clickstream data), domain names, pages viewed, crash data, and other similar technical data; 
 
   * **Information about you and your company collected from third party or public sources** or that we receive from companies that partner with us to provide products and services; this may include information about you and your company we receive from our advertising and market research partners, who may provide us with information about your interest in and engagement with our online advertisements; and
 
-  * **Location information** when you visit our Sites or use our Optimizely Service, including location information either provided by a mobile device interacting with one of our sites or applications or associated with your IP address. 
+  * **Location information** when you visit our Sites or use our Optimizely Service, including location information either provided by a mobile device interacting with one of our sites or applications or associated with your IP address. 
 
 
 
 
 ## 2\. How We Collect Information From You
 
-**We collect information from you when you submit it to us** , for example, when you request products, services, or information from us, register for an account, register to participate in a conference on our Site, participate in public forums on the Site, or respond to our customer surveys.
+**We collect information from you when you submit it to us** , for example, when you request products, services, or information from us, register for an account, register to participate in a conference on our Site, participate in public forums on the Site, or respond to our customer surveys.
 
 We may also:
 
@@ -127,7 +127,7 @@ We provide you with certain controls and choices regarding the use of your perso
 
 
 
-In many circumstances, you can exercise these choices yourself using the tools described above. If you cannot do so, please contact us as indicated in the "Contact Us" section below to discuss your options. We will respond to your request within 30 days. Please be aware that, if you do not allow us to collect personal information from you, we may not be able to deliver certain products, features and services to you, and some of our products and services may not work appropriately or be able to take account of your interests and preferences. 
+In many circumstances, you can exercise these choices yourself using the tools described above. If you cannot do so, please contact us as indicated in the "Contact Us" section below to discuss your options. We will respond to your request within 30 days. Please be aware that, if you do not allow us to collect personal information from you, we may not be able to deliver certain products, features and services to you, and some of our products and services may not work appropriately or be able to take account of your interests and preferences. 
 
 ## 6\. Children’s Privacy
 
@@ -159,7 +159,7 @@ How long we keep the personal information we collect depends on the type of info
 
   * **Partner Pages.** Some of our partner pages may have the look and feel of being on optimizely.com; however some information collected on those pages may be collected by, or sent to, our partners. Information collected by, or sent to, our partners is subject to their respective privacy policies.
 
-  * **Social Media and Commenting Features.** Our Site may include social media and commenting features provided by third parties. These features may collect your IP address and which page you are visiting on our Site, and may set a cookie to allow the feature to function properly. Your interactions with these features are governed by the privacy policy of the organization providing it.
+  * **Social Media and Commenting Features.**  Our Site may include social media and commenting features provided by third parties. These features may collect your IP address and which page you are visiting on our Site, and may set a cookie to allow the feature to function properly. Your interactions with these features are governed by the privacy policy of the organization providing it.
 
   * **Notice to End Users of the Optimizely Services.** The Optimizely Services are primarily intended for use by organizations. Where the Optimizely Services are made available to you through an organization (such as your employer), that organization is responsible for administering the accounts over which it has control. If this is the case, please direct your data privacy questions and requests to your administrator. We are not responsible for the privacy or security practices of your administrator's organization, which may be different than this policy. 
 
@@ -172,15 +172,15 @@ How long we keep the personal information we collect depends on the type of info
 
 **Privacy Shield:**
 
-Optimizely, Inc. participates in and has certified its compliance with the EU - U.S. Privacy Shield and Swiss - U.S. Privacy Shield Frameworks. Optimizely is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about each Privacy Shield Framework, visit [the U.S. Department of Commerce’s Privacy Shield List](https://www.privacyshield.gov/list).
+Optimizely, Inc. participates in and has certified its compliance with the EU - U.S. Privacy Shield and Swiss - U.S. Privacy Shield Frameworks. Optimizely is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about each Privacy Shield Framework, visit [the U.S. Department of Commerce’s Privacy Shield List](https://www.privacyshield.gov/list).
 
 In certain circumstances, Optimizely is responsible for the processing of personal data it receives under the EU - U.S. and Swiss - U.S. Privacy Shield frameworks and subsequently transfers to a third party acting as an agent on its behalf. We comply with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions. 
 
 With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, Optimizely is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission. In certain situations, Optimizely may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
-Under certain conditions, more fully described on [the Privacy Shield website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted. 
+Under certain conditions, more fully described on [the Privacy Shield website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted. 
 
 **Additional Disclosures for EEA Data Subjects:**
 
@@ -221,7 +221,7 @@ EEA and Swiss data subjects can contact Optimizely’s data protection officer b
 
 ## 12\. Do Not Track and Cross-Site Tracking
 
-Do Not Track is a privacy preference that users can set in their web browsers. When a user turns on the Do Not Track signal, the browser sends a message to websites requesting them not to track the user. For information about Do Not Track, visit [www.allaboutdnt.org](https://web.archive.org/web/20180627222217id_/https://www.optimizely.com/privacy/www.allaboutdnt.org). At this time, we do not respond to Do Not Track browser settings or signals. In addition, some of our advertising partners, and other third-party services and tools on our Site and/or the Optimizely Service, may use standard technologies, such as cookies, pixel tags, and web beacons, to collect information about your internet activities across websites. You may be able to disable certain third-party cross-site tracking as described in the "Your Choices" section above. 
+Do Not Track is a privacy preference that users can set in their web browsers. When a user turns on the Do Not Track signal, the browser sends a message to websites requesting them not to track the user. For information about Do Not Track, visit [www.allaboutdnt.org](https://web.archive.org/web/20181228050515id_/https://www.optimizely.com/privacy/www.allaboutdnt.org). At this time, we do not respond to Do Not Track browser settings or signals. In addition, some of our advertising partners, and other third-party services and tools on our Site and/or the Optimizely Service, may use standard technologies, such as cookies, pixel tags, and web beacons, to collect information about your internet activities across websites. You may be able to disable certain third-party cross-site tracking as described in the "Your Choices" section above. 
 
 ## 13\. Changes to Our Privacy Policy; Notices
 
@@ -229,8 +229,6 @@ From time-to-time, we may change this privacy policy to accommodate changes to o
 
 Notices may be by email to the last email address you provided us, by posting notice of such change on our Site or the Optimizely Service, or by other communication channels. You consent to receiving notices in these ways. We reserve the right to determine the form and means of providing notifications to you, consistent with applicable law. 
 
-## 14\. Contacting Us
-
-If you have any questions about this Privacy Policy or our privacy practices, please contact us at [legal@optimizely.com](mailto:legal@optimizely.com), or send mail to:
+If you have any questions about this Privacy Policy or our privacy practices, please contact us at [legal@optimizely.com](mailto:legal@optimizely.com), or send mail to:
 
 Optimizely, Inc. 631 Howard Street, Suite 100 San Francisco, CA 94105
