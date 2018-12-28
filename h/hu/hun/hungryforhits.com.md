@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the hungryforhits.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622184850id_/https%3A//hungryforhits.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hungryforhits.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228184934id_/https%3A//hungryforhits.com/privacy.php) for the most accurate reproduction.*
 
-# Hungry For Hits
+# Hungry For Hits manual traffic exchange. Best free traffic!
 
-**Privacy Policy**
+Hungry For Hits Privacy policy
+
+## **Privacy Policy**
 
 If you are a member of Hungry For Hits, you can easily check what information we have saved about you.  
 Log in to your account and [****click here](https://hungryforhits.com/pt56ok_displaymem.php) to see the information. You can also reach the page under the "Account" tab in your account.
@@ -45,7 +47,7 @@ We collect different types of information from or through the Service. The legal
 
 We use the information that we collect in a variety of ways in providing the Service and operating our business, including the following:
 
-**3.1 Operations**. We use the information - other than Client Data - to operate, maintain, enhance and provide all features of the Service, to provide the services and information that you request, to respond to comments and questions and to provide support to users of the Service. We process Client Data solely in accordance with the directions provided by the applicable Client or User.
+**3.1 Operations**. We use the information - other than Client Data - to operate, maintain, enhance and provide all features of the Service, to provide the services and information that you request, to respond to comments and questions and to provide support to users of the Service. The site administrator may log in to your account at any time. We process Client Data solely in accordance with the directions provided by the applicable Client or User.
 
 **3.2 Improvements**. We use the information to understand and analyze the usage trends and preferences of our Visitors and Users, to improve the Service, and to develop new products, services, feature, and functionality. Should this purpose require Hungry For Hits to process Client Data, then the data will only be used in anonymized or aggregated form.
 
@@ -61,7 +63,7 @@ We take measures to protect the technical information collected by our use of Go
 
 **4\. To Whom We Disclose Information**
 
-Except as described in this Policy, we will not intentionally disclose the Personal Data or Client Data that we collect or store on the Service to third parties without the consent of the applicable Visitor, User or Client. We may disclose information to third parties if you consent to us doing so, as well as in the following circumstances:
+Except to the site administrator and as described in this Policy, we will not intentionally disclose the Personal Data or Client Data that we collect or store on the Service to third parties without the consent of the applicable Visitor, User or Client. We may disclose information to third parties if you consent to us doing so, as well as in the following circumstances:
 
 **4.1 Unrestricted Information**. Any information that you voluntarily choose to include in a Public Area of the Service, such as on the public profile page, will be available to any Visitor or User who has access to that content.
 
@@ -99,7 +101,7 @@ Please be aware that if you opt-out of receiving commercial email from us or oth
 
 Hungry For Hits has no direct relationship with the Client's customers or third party whose Personal Data it may process on behalf of a Client. An individual who seeks access, or who seeks to correct, amend, delete inaccurate data or withdraw consent for further contact should direct his or her query to the Client or User they deal with directly. If the Client requests Hungry For Hits to remove the data, we will respond to its request within thirty (30) days. We will delete, amend or block access to any Personal Data that we are storing only if we receive a written request to do so from the Client who is responsible for such Personal Data, unless we have a legal right to retain such Personal Data. We reserve the right to retain a copy of such data for archiving purposes, or to defend our rights in litigation. Any such request regarding Client Data should be addressed as indicated in the "How to Contact Us" section, and include sufficient information for Hungry For Hits to identify the Client or its customer or third party and the information to delete or amend.
 
-**6\. Thirt-Party Services**
+**6\. Third-Party Services**
 
 The Service may contain features or links to web sites and services provided by third parties. Any information you provide on third-party sites or services is provided directly to the operators of such services and is subject to those operators' policies, if any, governing privacy and security, even if accessed through the Service. We are not responsible for the content or privacy and security practices and policies of third-party sites or services to which links or access are provided through the Service. We encourage you to learn about third parties' privacy and security policies before providing them with information.
 
@@ -111,9 +113,7 @@ The business partners and advertising networks that serve interest-based adverti
 
 We do not share with these third parties any information that would readily identify you (such as email address); however. We do not have access to, or control over, the technologies that these third parties may use to collect information about your interests, and the information practices of these third parties are not covered by this Privacy Notice. Other than as discussed in this document, we have no control over these third parties.
 
-  
-**7.1 The Following Types of Cookies Are Used in the Site:**  
-
+**7.1 The Following Types of Cookies Are Used in the Site:**
 
   * strictly necessary/essential cookies - These cookies are essential in order to enable you to move around the website and use its features, such as accessing secure areas of the website. Without these cookies services you have asked for cannot be provided. These cookies don't collect information that identifies a visitor.
   
@@ -181,7 +181,13 @@ Please revisit this page periodically to stay aware of any changes to this Polic
 
 Please contact us with any questions or comments about this Policy, your Personal Data, our use and disclosure practices, or your consent choices by email at hungryforhits@gmail.com. If you have any concerns or complaints about this Policy or your Personal Data, you may contact Hungry For Hits' Data Protection Officer by email at hungryforhits@gmail.com.
 
-  
 Last update: May 20, 2018
 
 Please note that this Privacy Policy, as well as all other content in Hungry For Hits, is subject to copyright. 
+
+  
+
+
+Copyright © 2016 - 2018. Hungry For Hits. All rights reserved.
+
+[ ](https://www.dmca.com/Protection/Status.aspx?ID=a3185293-b0cd-4eaa-b8d6-0d096ade3717 "DMCA.com Protection Status")
