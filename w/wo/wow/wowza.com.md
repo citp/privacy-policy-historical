@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wowza.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628045151id_/https%3A//www.wowza.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowza.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228111407id_/https%3A//www.wowza.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy & Cookies Policies
 
@@ -6,11 +6,19 @@ Wowza® Media Systems, LLC (address: 523 Park Point Drive, Suite 100, Golden, Co
 
 By visiting the Site or using Software or a Service, you agree that your personal information will be handled as described in this Policy, and consent to the same. Your use of the Site, Software, or a Service, and any controversy or dispute related to the privacy or use of your personal information, is subject to this Policy, along with other applicable terms and conditions, including limitations on damages and resolution of disputes (the applicable End User License Agreement for Software, for example), which are incorporated by reference into this Policy. 
 
+**Location of Data**
+
+Wowza is based in the United States. We provide services globally using computer systems, servers, and databases located in the U.S. When you use our services from outside of the U.S., your information will therefore be transferred to, stored in, and processed in the U.S. Data is collected, stored, used, and shared as set forth in our privacy policies.
+
 **What Information Does Wowza Collect About You?**
 
 Wowza may collect information directly from you and, where allowed by law, from third parties as well as through your use of our Site, Software, and Services.
 
-_Information We Collect Directly From You._ Certain areas and features of the Site, Software, or Services may require registration or the submission of information by you. When you register with us, we collect, among other things, your name, email address, a user name and password. We may also collect additional optional information. Where the submission of information by you is optional, rather than required, we take reasonable measures to make this distinction clear (marking required fields “required,” for example).
+_Information We Collect Directly From You._ Certain areas and features of the Site, Software, or Services may require registration or the submission of information by you. When you register for an account we process: (i) your personal details (e.g., your name, e-mail, user name and password); (ii) records of your consents to our processing of your personal data; (iii) payment details (e.g., your billing address); (iv) information about your use of our Sites and Apps (e.g., the type of device you are using); (v) details of your current business sector (B2B); (vi) information about your interactions with our services, and (vii) any views or opinions if you provide them to us.
+
+When you register for a trial or download content we process: (i) your personal details (e.g., your name, e-mail, user name and password); (ii) records of your consents to our processing of your personal data; (iii) details of your current business sector (B2B); (iv) information about your interactions with our services, and (v) any views or opinions if you provide them to us.
+
+Where the submission of information by you is optional, rather than required, we take reasonable measures to make this distinction clear (marking required fields “required,” for example).
 
 _Information We Collect Automatically._ We may automatically collect information about you and your use of the Site, Software, or Services through cookies, web beacons, and other technologies and methods. The information we collect in this manner may include the following: your domain name, IP address, location, and manner in which you connect with or to the Site, Software, and Services; information about your browser, device, operating system, and mobile device; the date and time on which you visit the Site or use the Software or Services and the length of time you do so; details regarding your use of the Site, Software, and Services, and other software products or services; web pages you view and links you click or access; information related to your payment for Software and Services; and the referring URL, site, or services that led you to the Site and information related to that referral.
 
@@ -59,7 +67,7 @@ _Third-Party Ad Networks._ Similarly, we work with third parties, such as networ
 
 _Third-Party Links._ The Site, Software, and Services may contain links to third-party websites. Any access to and use of such websites is not governed by this Policy, but instead is governed by the privacy policies of those third party websites. We are not responsible for the information practices of such third party websites and do not have the ability to control such practices.
 
-_Flurry Analytics._ Some Software utilizes a third-party tracking service provided by a company called Flurry. Flurry’s privacy policy and opt-out instructions for the services provided by Flurry are available at <http://www.flurry.com/privacy-policy.html>. Although Flurry provides a mechanism to opt out of tracking by Flurry, opting out of Flurry services will not impact other ad networks or analytics providers.   
+_Flurry Analytics._ Some Software utilizes a third-party tracking service provided by a company called Flurry. Although Flurry provides a mechanism to opt out of tracking by Flurry, opting out of Flurry services will not impact other ad networks or analytics providers.   
 
 **Your Choice**
 
@@ -75,7 +83,7 @@ Wowza is a global organization and your information may be transferred, stored, 
 
 **Updates to this Policy**
 
-Wowza may update this Policy occasionally to ensure that you are informed of our practices with regard to personal information. When we update this policy, we will update [www.wowza.com/privacy](https://www.wowza.com/legal/privacy) and, depending on our view of the significance of the update, send an email to all Site, Software, and Services users notifying them of the update. Your continued use of the Site, Software, or Services following such an update to this Policy on the Site indicates your acceptance of the updated Policy.
+Wowza may update this Policy occasionally to ensure that you are informed of our practices with regard to personal information. When we update this policy, we will update [www.wowza.com/privacy](https://staging.wowza.com/legal/privacy) and, depending on our view of the significance of the update, send an email to all Site, Software, and Services users notifying them of the update. Your continued use of the Site, Software, or Services following such an update to this Policy on the Site indicates your acceptance of the updated Policy.
 
 \----
 
@@ -85,7 +93,7 @@ Our Site, Software and Services use cookies to distinguish you from other users 
 
 **Your Consent**
 
-By continuing to use our Site, Software and Services you are agreeing to our placing cookies on your computer in order to analyze the way you use our Site. Please read this Cookie Policy carefully for more details about the information we collect when you use this website. **If you do not wish to accept cookies in connection with your use of our Site,** Software and Services, **you must stop using our Site.**
+By continuing to use our Site, Software and Services you are agreeing to our placing cookies on your computer in order to analyze the way you use our Site. Please read this Cookie Policy carefully for more details about the information we collect when you use this website. **If you do not wish to accept cookies in connection with your use of our Site,** Software and Services, **you can stop using our Site or delete, review and block cookies by adjusting your browser settings.**
 
 **What Is a cookie?**
 
@@ -136,3 +144,67 @@ _Scorecard Research/ComScore._ We use Scorecard Research to perform web analytic
 _ShareThis._ We use ShareThis to perform web analytics and to enable sharing via social media sites. For more information about ShareThis cookies, please see their [privacy policy](http://www.sharethis.com/legal/privacy/#sthash.dHsP3TpF.dpbs). To opt out, you can go [here](http://www.sharethis.com/legal/privacy/#sthash.gSwGzlTr.dpbs) and click the opt-out button to get the ShareThis opt-out cookie.
 
 More information about how third party cookies are used for targeted advertising and how to opt out of some third party ad networks can be found at: [http://www.youronlinechoices.eu](http://www.youronlinechoices.eu/) or [www.aboutads.info](http://www.aboutads.info/).
+
+\----
+
+## Addendum Data Policy for European Users
+
+The GDPR (General Data Protection Regulation) provides individual rights to EU citizens in relation to personal Data which are listed below for your convenience. Personal Data of residents of European Economic Area ("EEA") must be subject to a legal framework of GDPR. To find out more about GDPR, please visit the European Union’s website, at https://ec.europa.eu/info/law/law-topic/data-protection_en.
+
+If you are an European Union (EU) resident please note the following:
+
+With respect to the WOWZA platforms, we are controllers of personal data of users who visit our website or use our services.
+
+  The party responsible for this website ("controller") for purposes of GDPR data protection law is:
+
+Wowza Media Systems, LLC  
+523 Park Point Drive, Suite 300  
+Golden, CO 80401 USA  
+Telephone: 001- 888.778.7997  
+Email: info@wowza.com
+
+**Reason for personal data Processing**  
+
+The following legal bases apply to the processing of personal data on this website.
+
+  * Legitimate business interests (cf. Art. 6 (1) f) GDPR): We could not provide our services or comply with our obligations to you without transferring your personal information to the U.S. When we process your personal data for legitimate interests, we will consider and balance any potential impact on you and your rights under data protection and any other relevant law. Our legitimate business interests do not override your interests. WOWZA will not use your personal data in circumstances where your rights and freedoms override our legitimate interests, unless we have your consent or are otherwise required or permitted to by law.
+  * Consent (cf. Art. 6 (1) c) GDPR): We transfer your personal information when we receive your express, revocable consent for specific purposes.
+  * Performance of a contract or steps prior to entering into a contract (cf. Art. 6 (1) b) GDPR): We process your personal data that you provide to offer you products, content or services, to supply you with products, content and services as you request, to send important notices, and for internal purposes.
+  * Legal Obligation (cf. Art. 6 (1) c) GDPR): We process your personal data if necessary for compliance with a legal obligation.
+
+
+
+**Retention of personal data**
+
+We retain your personal data for the duration of your business relationship with us, and we hold your information only as long as necessary for each purpose we use it, unless we have obtained your consent to use for another or similar purpose. If you want more information about our retention schedule please contact us: LegalNotice@wowza.com.
+
+**Rights under GDPR**
+
+With regard to the processing of personal data (information that is about any individual, or from which any individual is directly or indirectly identifiable, in particular by reference to an identifier such as a name, an identification number, location data) as stated in the Privacy Policy above, our users (“data subjects”) have the right
+
+  * to confirmation of whether personal data concerning them is being processed, information about the personal data being processed, further information about the nature of the data processing, and copies of the personal data (cf. Art. 15 GDPR); 
+  * to rectification to amend or update the personal data information by correcting or completing data to ensure accurate and up to date personal data (cf. Art. 16 GDPR);
+  * to erasure personal data (‘the right to be forgotten’) without undue delay, or, alternatively, if further processing is necessary as stipulated in Art. 17 Para. 3 GDPR, for example in the case of (i) legal obligation which requires processing by Union or Member State law to which is WOWZA subject and/or (ii) the establishment, exercise or defense of legal claims (cf. Art. 17 GDPR);
+  * to restrict of processing personal data from any further processing of personal information in any of the following events: (i) the personal data is incorrect (but only for as long as it requires to check the accuracy of the relevant personal data), (ii) there is no legal basis processing personal data and the data subject demands that WOWZA restricts personal data from further processing, (iii) we no longer require personal data, but the data subject claims, and this requires WOWZA to retain such data in order to claim or exercise legal rights or to defend against third party claims or (iv) in case the data subject objects to the processing of personal data by WOWZA (based on a legitimate ground) pursuant to Art. 21 (1) GDPR for as long as it is required to review as to whether WOWZA has a prevailing interest or legal obligation in processing personal data (cf. Art. 18 GDPR);
+  * to data portability which allows data subjects to obtain and or reuse their personal data for their own purposes across different services. It allows to move, copy or transfer personal data easily from one IT environment to another in a safe and secure way, without hindrance to usability (cf. Art. 20 GDPR);
+  * to be made aware of any automated decision-making, that made without any human involvement, and or profiling of your personal information by us (cf. Art. 22 GDPR);
+  * to withdraw consent at any time as we Process your Personal Data on the basis of your consent (cf. Art. 7 Abs. 3 GDPR); such withdrawal does not affect the lawfulness of any processing performed prior to the date on which we receive notice of such withdrawal, and does not prevent the processing of your personal data in reliance upon any other available legal bases). If you want to withdraw please contact us: LegalNotice@wowza.com.
+
+
+
+**Right to object**
+
+According to Art. 21 GDPR data subjects have the right to object to the processing of their personal information based on legitimate interests or the performance of a task in the public interest or exercise of official authority including profiling activity, direct marketing including profiling activity; and processing for purposes of scientific and or historical research and statistics. If you want to object please contact us: LegalNotice@wowza.com.
+
+**Complaints**
+
+Should you wish to discuss a complaint, please feel free to contact us using the details provided above. All complaints will be treated in a confidential manner.
+
+**Right to lodge a complaint with the supervisory authority**
+
+If you believe that we are not processing your personal information in accordance with requirements set out herein or applicable EEA (European Economic Area) data protection laws, you can at any time lodge a complaint with the data protection authority in particular in the Member State of your habitual residence, place of work or place of the alleged infringement if the data subject considers that the processing of personal data relating to him or her infringes this Regulation (cf. Art. 77 GDPR). 
+
+“Data Protection Authority” means an independent public authority that is tasked, by law, with overseeing compliance with applicable data protection laws.
+
+We may require proof of your identity before we can give effect to these rights.   
+ 
