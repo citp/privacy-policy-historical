@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icanhazchat.com privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509105225id_/http%3A//www.icanhazchat.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icanhazchat.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228204609id_/http%3A//www.icanhazchat.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -56,7 +56,7 @@ The Website may contain links to third party websites and advertisements. If you
 
 We may use third-parties, known as ad-servers, to serve and target advertisements, promotions and other marketing messages, in connection with the Website. Such third parties may use technologies (such as cookies) to monitor the effectiveness of marketing campaigns. We do not control the activities of such third parties, assume no responsibility in any way for their privacy policies and practices, and encourage you to review their privacy policies. We do not provide any such third-parties with any Personal Information, without your consent. However, you should be aware that your response to certain advertisements or campaigns, targeted at specific audiences, may reveal personal information about yourself (such as age or area of residence). Such third parties may also collect and use non-identifying information about your usage of the Website. 
 
-**_March 13th 2013_ : accounts that are not-hearted may see ads from 3rd parties. If this includes you and you would like to disable tracking for your current browser, see [http://www.lijit.com/choices&rsquo](https://web.archive.org/web/20180509105225id_/http%3A//www.icanhazchat.com/%E2%80%99%3Ca); target=’_blank’>Ad Choices - Opt Out Cookie to opt-out.**
+**_March 13th 2013_ : accounts that are not-hearted may see ads from 3rd parties. If this includes you and you would like to disable tracking for your current browser, see [http://www.lijit.com/choices&rsquo](https://web.archive.org/web/20181228204609id_/http%3A//www.icanhazchat.com/%E2%80%99%3Ca); target=’_blank’>Ad Choices - Opt Out Cookie to opt-out.**
 
 ### Children
 
