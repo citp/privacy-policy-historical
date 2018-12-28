@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traveloregon.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628063540id_/https%3A//traveloregon.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traveloregon.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228125010id_/https%3A//traveloregon.com/legal) for the most accurate reproduction.*
 
 # Privacy Policy & Terms of Use - Travel Oregon
 
@@ -7,10 +7,11 @@
 TravelOregon.com is the official website of The Oregon Tourism Commission (dba Travel Oregon), the official destination marketing agency for the State of Oregon.
 
 Our postal address is:  
-250 Church Street SE, Suite 100  
+530 Center St NE, Suite 200
+
 Salem, Oregon 97301
 
-We can be reached via e-mail at [info@traveloregon.com](mailto:info@traveloregon.com)
+We can be reached via email at  _[info@traveloregon.com](mailto:info@traveloregon.com)_
 
 ### Privacy
 
@@ -24,21 +25,43 @@ You may use our web sites, digital newsletters and other forms of internet-based
 
 ### Personal Information Uses
 
-It is Travel Oregon’s policy to treat any personally identifiable information submitted via our web site as strictly confidential. Travel Oregon does not make your personal information available to third parties for any reason, except to fulfill requests made by you and / or your company or as may be required by the Oregon Public Records Law.
+It is Travel Oregon’s policy to treat any personally identifiable information submitted via our web site as strictly confidential. Travel Oregon does not make your personal information available to third parties for any reason, except to fulfill requests made by you and / or your company or as may be required by the Oregon Public Records Law. Guide requests from outside of the United States and Canada may be sent to third parties contracted with Travel Oregon for processing and fulfillment. Guide requests in the United States and Canada that include a specification for additional information are made available to approved Travel Oregon partners as a way to fulfill the request. This information is stored in a secure database that is accessible only by the approved Travel Oregon partners. Requesting the additional information is not required when requesting printed travel materials from Travel Oregon.
 
-However, Travel Oregon may use the information you voluntarily offer to inform you directly about information, products or services that may be of interest to you, improve content on our web site or electronic newsletter, or to assist with marketing research. We may disclose your personal information as required by law, in conjunction with a public records request, government inquiry, or in litigation or dispute resolution.
+Travel Oregon may use the information you voluntarily offer to inform you directly about information, products or services that may be of interest to you, improve content on our web site or electronic newsletter, or to assist with marketing research. We may disclose your personal information as required by law, in conjunction with a public records request, government inquiry, or in litigation or dispute resolution.
 
 ### Cookies
 
-We use tracking tools such as cookies, or other technologies or methods of integration that may be placed in the browser of your device (e.g., computer or mobile phone) to collect non-personally identifiable information such as internet protocol (IP) addresses to provide us with general location data, sometimes across multiple devices. We may share with our service providers your IP address to monitor how effective our advertisements are at inspiring you to visit Oregon.
+We use tracking tools such as cookies, or other technologies or methods of integration that may be placed in the browser of your device (e.g., computer or mobile phone) to collect non-personally identifiable information such as internet protocol (IP) addresses to provide us with general location data, sometimes across multiple devices. We may share with our service providers your IP address to monitor how effective our advertisements are at inspiring you to visit Oregon. IP addresses may also be collected for marketing purposes when you take other actions like submitting a form on the website or clicking on an email link. When users with an IP address in the EU or an unknown location arrives on TravelOregon.com, they will see language on pages where we enable cookies. If you do not wish to accept the cookies, you may set your browser to reject the cookies (consult the instructions for your browser on how to do this), although doing so may affect your experience with certain functionalities on the website.
 
 ### Links to Outside Websites
 
 This site may contain links to third party sites not controlled by Travel Oregon, which therefore are not covered by this privacy statement, such as those belonging to Travel Oregon partners and advertisers. We recommend that you check the privacy statement of other sites you visit before providing any personal information.
 
-### Unsubscribe
+### Data Storage
 
-We do not want to send you information you do not want to receive. All of our e-newsletters include links in the footer of the e-mail for managing all aspects of your subscription, including the ability to globally unsubscribe from such communications. If you wish to opt out of cookies that allow us to serve our advertisements while you are in Oregon, and collect aggregate information on arrivals, [click here](http://dc.arrivalist.com/optout/).
+We will keep your information for as long as we need it for the purpose for which it is being processed. For example, when you request a printed travel guide from us, we will keep the information related to your order so we can fulfill the specific request you have made. After that, we will keep the information for a period which enables us to handle or respond to any questions or concerns related to the order. The information may also be retained so that we can continue to improve your experience with us.
+
+We will actively review the information we hold and delete it securely, or in some cases, anonymize it, when there is no longer a legal, business or customer need for it to be retained. If you stop interacting with us, we will remove or anonymize your information after 7 years.
+
+### Access and Portability of Data:
+
+You have the right to review your information at any time. If you would like to review your information within our contacts database, please contact [info@traveloregon.com](mailto:info@traveloregon.com). If a user requests access to this data, Travel Oregon will provide the user with a copy of the data in either .csv or .xls format within 30 days.
+
+### Modification of Personal Data
+
+You have the right to ask Travel Oregon to modify personal data if it is inaccurate or incomplete. To request changes to personal data, please contact [info@traveloregon.com](mailto:info@traveloregon.com)
+
+### Data Deletion
+
+You have the right to request that Travel Oregon permanently delete any personal data that we may have stored about you, including email tracking history, call records and form submissions. To request deletion of data, please contact [info@traveloregon.com](mailto:info@traveloregon.com).
+
+### Data Processing
+
+You have the right to request that Travel Oregon stop the processing of your personal information for marketing purposes including analytics for the purposes of targeted marketing, including online advertising. An example would be if your guide order specified an interest in family-friendly travel, we will use analytics to show you family-friendly travel content on traveloregon.com. Contact [info@traveloregon.com](mailto:info@traveloregon.com) if you would like to request that we stop processing your data for marketing purposes.
+
+### Unsubscribe/Opt-Out
+
+We do not want to send you information you do not want to receive. All of our email newsletters include links in the footer of the email for managing all aspects of your subscription, including the ability to globally unsubscribe from such communications. You may also contact [info@traveloregon.com](mailto:info@traveloregon.com) to request to be opted out of our email communications. If you wish to opt out of cookies that allow us to serve our advertisements while you are in Oregon, and collect aggregate information on arrivals,  _[click here](http://dc.arrivalist.com/optout/)_.
 
 ### Changes to Privacy
 
@@ -50,12 +73,18 @@ Content and information contained in this site has been compiled by the Oregon T
 
 ### Google Analytics
 
-User information from both the Travel Oregon and You Might Like Oregon websites is collected primarily to provide a more efficient experience. TravelOregon.com, RideOregonRide.com, YouMightLikeOregon.com and OregonWeatherCompass.com use “cookies” “pixel tags” and “spotlight tags,” to provide more relevant content, advertising, and to improve the web site. These may be small text files which are put on your computer or small graphic files. Information provided through these methods is anonymous in nature. If you wish, you may set your browser to refuse cookies. Some cookies may remain on your computer until you manually delete them.
+User information from the Travel Oregon website is collected primarily to provide a more efficient experience. TravelOregon.com uses “cookies” “pixel tags” and “spotlight tags,” to provide more relevant content, advertising, and to improve the web site. These may be small text files which are put on your computer or small graphic files. Information provided through these methods is anonymous in nature. If you wish, you may set your browser to refuse cookies. Some cookies may remain on your computer until you manually delete them.
 
 This web site uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses cookies to help the web site analyze how users use the site. The information generated by the cookie about your use of the web site (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the web site, compiling reports on web site activity for web site operators and providing other services relating to web site activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google offers opt-outs for analytics and for Google’s remarketing services.
 
 Google’s use of your IP address and other data held by Google is governed by your preferences within Google’s product suite and Google’s privacy policies. Visit Google’s website for to view their privacy policies and opt-out options.  
 In addition, this website may use third-party and partner advertiser cookies, pixel tags, or spotlight tags on select web pages. The purpose of these types of cookies, pixels, and tags is to collect and aggregate statistics about your visit to our website and/or to provide relevant re-marketing to you. These companies and partners may use information about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. These cookies do not contain personally identifiable information.
+
+### Right to Complain
+
+We work hard to handle your information responsibly. If you are unhappy about the way we do this, please lodge a complaint with [info@traveloregon.com](mailto:info@traveloregon.com).
+
+We hope that we will be able to resolve any concerns you may have.
 
 ### Comment Policy
 
