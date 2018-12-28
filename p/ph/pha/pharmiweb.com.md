@@ -1,102 +1,198 @@
-> *The following text is extracted and transformed from the pharmiweb.com privacy policy that was archived on 2017-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170818130412id_/http%3A//www.pharmiweb.com/privacy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pharmiweb.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228183308id_/https%3A//www.pharmiweb.com/privacy/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | PharmiWeb.com
 
-Please read this privacy policy (“Policy”) which sets out the data processing practices carried out through the use of the Internet and any other electronic communications networks by PharmiWeb 2002 Limited trading as PharmiWeb Solutions, in particular through either the PharmiWeb.com website or other sites owned and managed by PharmiWeb Solutions, including but not limited to Detail-Direct.com, HospitalPharma.com and PharmiWebSolutions.com (together the “Site”). 
+**This is an important notice regarding your privacy and the way in which Pharmiweb.com which is a trade website owned by Pharmiweb 2002 Limited (referred to as “we”, “our” or “us” in this policy) collects and makes use of your personal data. We want to be open and transparent with you, and therefore encourage you to contact us if you have any questions about this policy or the ways in which we use your personal data.**
 
-We may update the Policy from time to time. Any changes will be notified to you either via the email address provided by you on registration or via a suitable announcement on the Site. This Policy was last reviewed on [21-Oct-2008].
+This policy applies to our Job Board Applicants, business contacts, clients’ and suppliers’ employees and third parties generally. We take our privacy responsibilities seriously and are committed to protecting and respecting your privacy.
 
-**COLLECTING PERSONAL INFORMATION  
-USE OF PERSONAL INFORMATION  
-RETENTION OF PERSONAL INFORMATION  
-PHARMIWEB JOB ALERTS  
-COOKIES  
-GENERAL  
-**
+This policy sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-## 1 COLLECTING PERSONAL INFORMATION
+For the purpose of applicable privacy legislation, the data controller is Pharmiweb 2002 Limited of One, Station Square, Bracknell, Berkshire, England RG12 1QB. Our registered company number is 04548862.
 
-Our Policy conforms with your statutory rights under the Data Protection Act 1998. It is very important for us to safeguard your privacy while also providing a personalised and valuable service. We collect the following personal information from you throughout the Site:
+Questions regarding this policy should be directed to our Data Protection Compliance Manager who can be contacted at help@pharmiweb.com. The Data Protection Compliance Manager is responsible for ensuring compliance with relevant data protection legislation and with this policy. Any questions about the operation of this policy or any concerns that the policy has not been followed should be referred in the first instance to the Data Protection Compliance Manager.
 
-  * the information you submit when you register to use the Site, store a Curriculum Vitae or resumé (“CV”) for the purpose of job applications or upload a CV to our CV database (“Database”);
-  * the information you submit when you complete a voluntary questionnaire; 
-  * if you are an employer, information about the transactions you undertake including details of payment cards used; and
-  * automatically retrieved information, such as information about your browsing patterns on the Site (please also see the section below relating to cookies).
+## 1\. What information do we hold about you?
+
+We may collect, store and use personal data about you (referred to throughout this privacy policy as personal information):
+
+**Job Board Applicants**
+
+  * Personal details such as your name, title, address, telephone number, date of birth, e-mail address and IP address.
+  * Recruitment information (including personal information such as copies of your right to work documents, your CV or cover letter which is provided to us as part of our external applicant application process).
 
 
 
-We recommend that you don’t submit sensitive personal information to the Site, such as information about:
+**Business contacts**
 
-  * your racial or ethnic origin;
-  * your political opinions;
-  * your religious beliefs;
-  * whether you are a member of a trade union;
-  * you physical or mental health or condition;
-  * your sexual life; or
-  * any offences you have committed or are alleged to have committed.
+  * Contact details such as your name, title, telephone number and e-mail address.
+  * Information that you provide or we collect during our interactions with you or your employer, such as how long we have done business with you or how long you have worked at your company.
 
 
 
-If you do choose to submit sensitive personal information to the Site, you authorise us to retain and use it in accordance with this Policy.
+**Clients’ and Suppliers’ Employees**
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation to not having this information used by these companies, [click here.](http://www.google.co.uk/privacy_ads.html)
-
-## 2 USE OF PERSONAL INFORMATION
-
-The personal information collected throughout the Site is used by us to satisfy the expectations and requirements of our users, for instance as part of a job application. We also use it to administer user registrations, respond to your queries about the Site and operate and improve the Site.
-
-The automatically retrieved information is only used in aggregate form and no individual will be identified. The aggregate data allows us to analyse the site traffic and manage our relationship with advertisers and thus provide a more relevant service to our users (please also see the section below relating to cookies).
-
-Email and postal addresses supplied to us allow us to send you important information about changes and improvements to the Site or special announcements which we feel will be of interest to you. Each time you receive a message or mail shot, you have the option to decline to receive further marketing information relating to our activities. 
-
-Through your use of the Site you may submit information to third parties, for example by applying to a job advertised on the Site or by allowing your CV to be searchable by companies looking for candidates to fill roles. We have no control over such third parties and we are not responsible for their use or retention of your personal information. We try to limit access to use of the job advertisement and Database services to paying employers, recruitment professionals, law enforcement and governmental bodies but we cannot guarantee this.
-
-The Site may contain links to other sites which are outside our control and are not covered by this Policy. If you access other sites using the links provided, the operators of these sites may collect information from you which will be used by them in accordance with their privacy policy, which may differ from ours.
-
-If you have uploaded a CV and have provided a referee, it is your responsibility to ensure that the referee has consented in writing to having his/her contact details forwarded to any prospective employer and being contacted as a result.
-
-Given that the Internet is a global environment, using the Internet to collect and process personal data necessarily involves the transmission of data on an international basis. Therefore, by browsing this Site and communicating electronically with us, you acknowledge and agree to our processing of personal data in this way.
-
-## 3 RETENTION OF PERSONAL INFORMATION
-
-We will retain your personal information as long as you are registered to use the service.
-
-If you use the Database service, your jobseeker status affects how the Database will treat your CV in a search. When you are an ‘active’ or ‘passive’ jobseeker your CV will be searchable. However, when you are not your CV will no longer appear in a search. An ‘active’ jobseeker is a person who is looking to transfer for jobs as soon as possible. A ‘passive’ jobseeker is someone not looking to move job but is open to offers.
-
-If you have uploaded a CV you can update or ask us to remove your CV either from the online storage system or the Database at any time. We will retain an archive copy, which is only for our internal audit purposes and will not be passed to any third parties.
-
-## 4 PHARMIWEB ALERTS
-
-The job alert service aims to match your career requirements and preferences with appropriate vacancies as advertised on the Site. Our email alerts, advertising messages and newsletters aim to provide you with relevant news and information. As a user of any of these services, we may contact you by email from time to time to tell you about improvements to the site, or send you relevant messages from our sponsors or clients. We will only send you advertising messages or relevant messages from our sponsors or clients if you have signed up to the relevant alert service and you can unsubscribe at any time from any of your alerts [by sending us an email at the address below or by clicking on the link at the bottom of the alerts] . Advertising messages may contain promotional content relating to products and/or services from pharmaceutical and biotech companies.
-
-## 5 COOKIES
-
-A cookie is a small piece of information sent by a web server to a web browser, which enables the server to collect information from the browser. We use cookies to identify you when you visit the Site and to keep track of your browsing patterns and build up a demographic profile.
-
-If you are a registered user of the Site our use of cookies also allows you to be presented with a personalised version of the Site and have access to information about your account.
-
-Most browsers allow you to turn off cookies. If you want to know how to do this please look at the help menu on your browser. However, switching off cookies may restrict your use of Site.
-
-## 5a GOOGLE's DART COOKIE
-
-  * Google, as a third-party vendor, uses cookies to serve ads on your site.
-  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network [privacy policy](http://www.google.co.uk/privacy_ads.html).
+  * Your contact details such as your name, title, telephone number and email address.
+  * Information that you provide or we collect during our interactions with you or your employer, such as how long we have done business with you or how long you have worked at your company.
+  * Your bank account details where required for invoicing purposes.
+  * Your bank details where you opt to make an online payment which are not retained or stored by us.
 
 
 
-## 6 GENERAL
+**Generally**
 
-We will only disclose personal information to other companies within our group of companies, government bodies and law enforcement agencies (where required to do so) successors in title to our business and suppliers we engage to process data on our behalf.
+  * Other personal information you provide to us via our website, for example, by using the “Newsletter Signup” page on our website.
+  * Information gathered when you visit our office.
+  * Any personal information you provide to us during your interactions with us.
+  * Information provided to us by third party service providers we work with, for example, analytics providers.
 
-You have a right to access the personal data held about you. To obtain a copy of the personal information we hold about you, please write to us at PharmiWeb Solutions, One Station Square, Bracknell, RG12 1QB.
 
-**
 
-This Site is owned and operated by PharmiWeb 2002 Limited trading as PharmiWeb Solutions, a company registered in England whose registered office is at One Station Square, Bracknell, Berkshire, RG12 1QB. PharmiWeb Solutions’ company registration number is 4548862 and its VAT number is 819388977.
+## 2\. How will we use your personal information and what is the legal ground we rely on for doing so?
 
-If you have any queries please contact [corporate@pharmiweb.com](mailto:corporate@pharmiweb.com)
+We will only use your personal information when the law allows us to. When we use your personal information, we must have a legal ground for doing so. The following are (amongst others) the legal grounds by which we can use your personal information:
 
-**
+  * Where you have provided us with your consent for us to do so;
+  * Where we need to perform the contract we have entered into with you or to take steps to enter into a contract with you;
+  * Where we need to comply with a legal obligation to which we are subject;
+  * Where it is in pursuit of our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests.
 
-See also [Privacy Policy](https://web.archive.org/web/20170818130412id_/http%3A//www.pharmiweb.com/privacy/privacy.asp), [Terms and Conditions](https://web.archive.org/web/20170818130412id_/http%3A//www.pharmiweb.com/legal/legal.asp), [Advertising Policy](https://web.archive.org/web/20170818130412id_/http%3A//www.pharmiweb.com/legal/advertising.asp)
+
+
+More specifically, we will use your personal information in the following circumstances:
+
+**Job Board Applicants**
+
+  * To evaluate and process your application for employment with our clients – to perform the contract with you or to take steps to enter into a contract with you, and in pursuit of our legitimate interests to verify your suitability for our clients’ vacancies.
+
+
+
+**Business contacts**
+
+  * Your contact details to provide you with information on our products and services. This may include technical information and/or marketing information – _in pursuit of our legitimate interests in keeping you informed about our products, services and business updates._
+  * Your contact details to facilitate business between your company and ours – _in pursuit of our legitimate interest of daily business with your company._
+
+
+
+**Clients’ and Suppliers’ Employees**
+
+  * Your contact details to provide you with information on our products and services. This may include technical information and/or marketing information – _in pursuit of our legitimate interests in keeping you informed about our products, services and business updates._
+  * Your contact details and payment details to facilitate business between your company and ours – _in pursuit of our legitimate interest of daily business with your company._
+
+
+
+**Generally**
+
+  * To ensure our premises are kept secure – _in pursuit of our legitimate interests (in ensuring our premises are kept secure and to keep evidence of this)._
+  * Health and safety purposes – _to comply with a legal obligation._
+  * To administer our website and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes – _in pursuit of our legitimate interests (to better understand how people interact with our website and solve any issues it may have)._
+  * To transfer to third party service providers – _in pursuit of our legitimate interests (in outsourcing for effectiveness and efficiency)._
+  * To contact you if we wish to use your information for a purpose not set out in this policy – _to comply with a legal obligation._
+
+
+
+## 3\. What happens if there is a change of purpose?
+
+We will only use your personal information for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If we need to use your personal information for an unrelated purpose, we will notify you and we will explain the legal basis which allows us to do so.
+
+## 4\. Which type of third parties might we share your personal information with?
+
+We require third parties to respect the security of your personal information and to treat it in accordance with the law. For example, where we instruct third party service providers, we carry out due diligence on those providers to ensure they treat your personal information as seriously as we do.
+
+We may share your personal information with the following types of third parties:
+
+  * Our clients where you have applied for a role with them and to facilitate the services that we provide to our clients.
+  * Our clients who are seeking candidates which are relevant to your work experience.
+  * Technical support providers, for example, assisting with our website including the facilitation of payments.
+  * Security companies testing, monitoring and maintaining IT security systems.
+  * Professional advisers such as lawyers, accountants and business analysts.
+  * Providers which help us collate and organise information effectively and securely.
+  * Providers which assist us with marketing.
+  * Third party software hosting companies which provide us with software solutions.
+  * Providers which host our servers in their data centres.
+
+
+
+## 5\. Data retention
+
+**How long will we use your personal information for?**
+
+We will only retain your personal information for as long as necessary to fulfil the purposes we collected it for.
+
+We assess the appropriate retention period for different information based on the size, volume, nature and sensitivity of that information, the potential risk of harm to you from unauthorised use or disclosure of that information, the purposes for which we are using that information, applicable legal requirements for holding that information, and whether we can achieve those purpose(s) through other means.
+
+**Job Board Applicants**
+
+  * Where you have applied for a role via our website, we will retain a copy of your CV and the personal information provided to us in your application for a period of 12 months.
+  * Where we have retained your IP address whilst you browse our website these will be deleted after a period of 6 months.
+
+
+
+**Business contacts**
+
+  * The period we keep your personal information depends on a number of circumstances. For example where we have collected your personal information during the course of your and our organisations doing business, we will keep your personal information for as long as this business continues, or for as long as we have a commercial interest in holding your personal information, for example, with a view to doing business in the future.
+
+
+
+**Clients’ and Suppliers’ Employees**
+
+  * The period we keep your personal information depends on a number of circumstances. For example where we have collected your personal information during the course of your and our organisations doing business, we will keep your personal information for as long as this business continues, or for as long as we have a commercial interest in holding your personal information, for example, with a view to doing business in the future.
+  * We do not store any bank details provided when making payments via our pharmiweb.com website.
+
+
+
+## 6\. Where we store your personal data
+
+Electronic versions of your personal information are stored on our servers in the UK. Any transfers of personal data outside of the European Economic Area (EEA) will be done lawfully.
+
+Where we use third party service providers to assist us, your personal information may also be stored in accordance with their practices and procedures. We require third parties to respect your personal information and to treat it in accordance with the law.
+
+## 7\. Rights of access, correction, erasure and restriction
+
+**Your rights in connection with your personal information**
+
+Under certain circumstances, by law you have the right to:
+
+  * Request access to your personal information (known as a “data subject access request”). This enables you to receive a copy of the personal information we hold about you and to check that we are lawfully processing it.
+  * Request correction of the personal information that we hold about you. This enables you to have any incomplete or inaccurate information we hold about you corrected.
+  * Request the erasure of your personal information. This enables you to ask us to delete or remove personal information when there is no good reason for us continuing to process it. You also have the right to ask us to stop processing personal information where we are relying on a legitimate interest and there is something about your particular situation which makes you want to object to processing on this ground.
+  * Request the restriction of processing of your personal information. This enables you to ask us to suspend the processing of personal information about you, for example if you want us to establish its accuracy or the reason for processing it.
+  * Request the transfer of your personal information to another party.
+
+
+
+If you want to review, verify, correct or request erasure of your personal information, object to the processing of your personal data, or request that we transfer a copy of your personal information to another party, please contact our Data Protection Compliance Manager in writing using the contact details set out at the beginning of this privacy policy.
+
+In the event that you are a Job Board Applicant, please note that you are able to review, correct and request to delete or download the personal data that we hold about you via your online dashboard when you are logged in to our pharmiweb.com website.
+
+## 8\. No fee usually required
+
+You will not have to pay a fee to access your personal information (or to exercise any of the other rights). However, we may charge a reasonable fee if your request for access is clearly unfounded or excessive. Alternatively, we may refuse to comply with the request in such circumstances.
+
+## 9\. What we may need from you
+
+We may need to request specific information from you to help us confirm your identity and ensure your right to access any personal information (or to exercise any of your other rights). This is a security measure to ensure that personal information is not disclosed to another person who has no right to receive it.
+
+## 10\. Right to withdraw consent
+
+In the limited circumstances where you may have provided your consent to the collection, processing and transfer of your personal information for a specific purpose, you have the right to withdraw your consent for that specific processing at any time. To withdraw your consent, please contact our Data Protection Compliance Manager in writing using the contact details set out at the beginning of this privacy policy.
+
+Where we are providing you with marketing information, you can also change your marketing preferences by using the unsubscribe button at the bottom of our marketing e-mails sent to you.
+
+Once we have received notification that you have withdrawn your consent, we will no longer process your personal information for the purpose or purposes you originally agreed to, unless we have another legitimate basis for doing so.
+
+## 11\. What happens if you fail to provide personal information?
+
+If you fail to provide certain information when requested, we may not be able to perform the contract we have entered into with you (such as providing you with our products or services), or we may be prevented from complying with our legal obligations (such as to ensure the health and safety of visitors to our premises).
+
+## 12\. Right to complain
+
+You have the right to make a complaint if you wish to do so. The organisation with oversight of our processing is the Information Commissioner’s Office, which can be contacted in writing at Information Commissioner’s Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF, by telephone (0303 123 1113) or by e-mail (casework@ico.org.uk).
+
+## 13\. Changes to this privacy policy
+
+We may change, modify, add or remove portions of this policy at any time, and any changes will become effective immediately.
+
+Any changes we make to our privacy policy will be posted on this page and, where possible, notified to you.
+
+See also [Privacy Policy](https://web.archive.org/web/20181228183308id_/https%3A//www.pharmiweb.com/privacy/privacy.asp), [Terms and Conditions](https://web.archive.org/web/20181228183308id_/https%3A//www.pharmiweb.com/legal/legal.asp), [Advertising Policy](https://web.archive.org/web/20181228183308id_/https%3A//www.pharmiweb.com/legal/advertising.asp)
