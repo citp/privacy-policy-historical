@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the instabuilder.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628154125id_/http%3A//instabuilder.com/v2.0/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instabuilder.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228125001id_/http%3A//instabuilder.com/v2.0/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | InstaBuilder 2.0
+# Privacy Policy – InstaBuilder 2.0
 
 ## **PRIVACY POLICY**
 
-This Privacy Policy governs the manner in which InstaBuilder collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://InstaBuilder.com website (“Site”). This privacy policy applies to the Site and all products and services offered by InstaBuilder.
+This Privacy Policy governs the manner in which InstaBuilder collects, uses, maintains and discloses information collected from users (each, a “User”) of the //InstaBuilder.com website (“Site”). This privacy policy applies to the Site and all products and services offered by InstaBuilder.
 
- **  Personal Identification Information**
+ **  Personal Identification Information﻿﻿**
 
 #### We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
@@ -60,6 +60,6 @@ By using this Site, you signify your acceptance of this policy and terms of serv
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
 Suzanna Theresia  
-admin @instabuilder.com
+admin (at) instabuilder.com
 
 This document was last updated on November 15, 2014
