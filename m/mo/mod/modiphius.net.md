@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the modiphius.net privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627180422id_/https%3A//www.modiphius.net/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modiphius.net privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228011338id_/https%3A//www.modiphius.net/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Modiphius Entertainment
+
+**During the Christmas and New Year Holiday season, our customer service response and shipping times will be extended. Please allow additional time for your orders to ship during this exceptionally busy period.  **
 
 Modiphius Entertainment stores relevant information supplied by you in order to fulfil your retail orders or facilitate your secure login to Modiphius Entertainment website services and features.
 
@@ -30,7 +32,7 @@ Your data is stored as follows:
 
 Modiphius.net Webstore Customers: Your account information is stored in the Shopify.com store platform. Shopify does not store payment details. All payment information is securely protected by encrypted transactions with your bank or payment service such as Paypal, Amazon Pay etc.  
 
-Modiphius.com Website: From time to time we run surveys to research new projects and get feedback from the community, or check preferences for Kickstarter Backers. The responses are stored securely within the backend of the Weebly.com software.
+Modiphius.com Website: From time to time we run surveys to research new projects and get feedback from the community, or check preferences for Kickstarter Backers. The responses are stored securely within the backend of the Weebly.com software. We use an app to let you get a notification when a product is back in stock which if you use, stores your email address. 
 
 Newsletters: We use ConstantContact.com to securely store your emails for the purposes of sending newsletters. You can update which email list you are on or unsubscribe at any time.
 
@@ -46,7 +48,7 @@ The remainder of this privacy policy sets out the way in which we will collect, 
 
 **What information do we collect? How do we use it?**
 
-When you log in, we need to know your name and e-mail address. This allows us to identify you as the person who used the Modiphius Entertainment website and to include the details in our database for order tracking. All information we hold about you is stored with the e-mail address you used when you registered. As a store customer we may hold your shipping and billing address along with your order history. When you enter a contest or other promotional feature, or sign up for a newsletter, we may ask for your name, address and e-mail address so we can administer the contest and notify winners.  We may ask for other information such as age, location or your preferences in relation to games and other merchandising.  This information is used to personalise our services to you and to create aggregate reports. The reports will not contain any personally identifying information. We also monitor customer traffic patterns and site usage to help us improve the design and layout of the service. We may also use the information we collect to occasionally notify you about important functionality changes to the website, and new services that we may offer. If you would rather not receive this information you may opt out by using the unsubscribe link in the e-mail. 
+When you log in, we need to know your name and e-mail address. This allows us to identify you as the person who used the Modiphius Entertainment website and to include the details in our database for order tracking. All information we hold about you is stored with the e-mail address you used when you registered. As a store customer we may hold your shipping and billing address along with your order history. When you enter a contest or other promotional feature, or sign up for a newsletter, we may ask for your name, address and e-mail address so we can administer the contest and notify winners.  We may ask for other information such as age, location or your preferences in relation to games and other merchandising.  This information is used to personalise our services to you and to create aggregate reports. The reports will not contain any personally identifying information. We also monitor customer traffic patterns and site usage to help us improve the design and layout of the service. We may provide your details to legal bodies such as HMRC on their request to maintain our legal compliance. We may also use the information we collect to occasionally notify you about important functionality changes to the website, and new services that we may offer. If you would rather not receive this information you may opt out by using the unsubscribe link in the e-mail. 
 
 **How does Modiphius Entertainment protect customer information?**
 
