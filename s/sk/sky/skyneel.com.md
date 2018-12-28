@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyneel.com privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621230647id_/https%3A//www.skyneel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyneel.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229003731id_/https%3A//www.skyneel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ We are very serious about our valuable user’s privacy. We ensure that user’s
 
 We may gather personal information of our valuable users by different sources like clicking on the contact us page, or click on our newsletters page and fill his information only your name and valid email id. We take these information to giving reply of your queries. Users may also visit skyneel.com anonymously.
 
-Our newsletters comes via Feedburner so, you can check Feebburner policy by clicking on this [link](http://www.google.com/privacy.html). We assure you that your personal identification information are not disclosed by us.
+Our newsletters comes via Feedburner so, you can check Feebburner policy by clicking on this [link](https://www.google.com/privacy.html). We assure you that your personal identification information are not disclosed by us.
 
 #### Non-Personal identification information
 
@@ -33,7 +33,7 @@ When visitors or users are surfing on skyneel.com they get links of others websi
 
 #### Google Adsense
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html)
 
 #### Changes to this privacy policy
 
@@ -41,7 +41,7 @@ Skyneel has the discretion to update this privacy policy at any time without any
 
 #### Contacting us
 
-If you have any query regarding our privacy policy then you can directly deal with us on our website [www.skyneel.com](https://www.skyneel.com/) or write us on admin@skyneel.com for any clarification.
+If you have any query regarding our privacy policy then you can directly deal with us on our website [www.skyneel.com](https://www.skyneel.com/) or write us on [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) for any clarification.
 
 This document was last updated on March 10, 2018
 
