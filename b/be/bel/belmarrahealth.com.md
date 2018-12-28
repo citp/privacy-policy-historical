@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the belmarrahealth.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628132940id_/https%3A//www.belmarrahealth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belmarrahealth.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228191804id_/https%3A//www.belmarrahealth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -58,7 +58,6 @@ We employs physical, electronic and procedural safeguards to protect the persona
 
 **_How We Use Your Personal Information_**  
 ---  
-   
   
 We use the personal information we collect from you for a range of different business purposes and according to different legal bases of processing. The following is a summary of how and according to which legal bases we use your personal information.
 
