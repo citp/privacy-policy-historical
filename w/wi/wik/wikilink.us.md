@@ -1,31 +1,72 @@
-> *The following text is extracted and transformed from the wikilink.us privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628151740id_/http%3A//wikilink.us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikilink.us privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228213743id_/http%3A//www.wikilink.us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Wikilink page
+# Privacy Policy | Plumber
 
-**Privacy Policy for  [www.wikilink.us](https://www.wikilink.us/)**
+Last updated: December 14, 2018
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at contact@wikilink.us.
+Plumber (“us”, “we”, or “our”) operates the Plumber website (the “Service”).
 
-At [www.wikilink.us](https://www.wikilink.us/), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by [www.wikilink.us](https://www.wikilink.us/) and how it is used.
+This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
 
- **Log Files**  
-Like many other Web sites, [www.wikilink.us](https://www.wikilink.us/) makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+We will not use or share your information with anyone except as described in this Privacy Policy.
 
- **Cookies and Web Beacons**  
-[www.wikilink.us](https://www.wikilink.us/) does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at Plumber
 
- **DoubleClick DART Cookie**  
-.:: Google, as a third party vendor, uses cookies to serve ads on [www.wikilink.us](https://www.wikilink.us/).  
-.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to [www.wikilink.us](https://www.wikilink.us/)and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
+## Information Collection And Use
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
-Google Adsense
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information (“Personal Information”) may include, but is not limited to:
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on [www.wikilink.us](https://www.wikilink.us/) send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+  * Name
+  * Email address
 
-[www.wikilink.us](https://www.wikilink.us/) has no access to or control over these cookies that are used by third-party advertisers.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. [www.wikilink.us’s](https://www.wikilink.us%27s/) privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+## Log Data
+
+We collect information that your browser sends whenever you visit our Service (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics.
+
+## Google AdSense & DoubleClick Cookie
+
+Google, as a third party vendor, uses cookies to serve ads on our Service.
+
+## Cookies
+
+Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your computer’s hard drive.
+
+We use “cookies” to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
+
+## Service Providers
+
+We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
+
+These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+
+## Security
+
+The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
+
+## Links To Other Sites
+
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
+
+We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+## Children’s Privacy
+
+Our Service does not address anyone under the age of 18 (“Children”).
+
+We do not knowingly collect personally identifiable information from children under 18. If you are a parent or guardian and you are aware that your child has provided us with Personal Information, please contact us. If we discover that a child under 18 has provided us with Personal Information, we will delete such information from our servers immediately.
+
+## Compliance With Laws
+
+We will disclose your Personal Information where required to do so by law or subpoena.
+
+## Changes To This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, please contact us.
