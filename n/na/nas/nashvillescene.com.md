@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nashvillescene.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627224541id_/https%3A//www.nashvillescene.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nashvillescene.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228052644id_/https%3A//www.nashvillescene.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -42,4 +42,4 @@ Due to the design of the Internet and other factors outside our control, we cann
 
 ### What are your options for how Nashville Scene uses or shares your information?
 
-If you wish to opt out of receiving postal, email, fax or phone calls from Nashville Scene please send an email to: [PrivacyManager@southcomm.com](mailto:PrivacyManager@southcomm.com) . You may also call 800-547-7377 and ask for the Privacy Manager, or mail your request to the attention of the Privacy Manager at 210 12th Ave. South, Nashville, TN 37203. Specifically who this privacy manager is and how contacting them will work is subject to change. We will attempt to process any such requests within 10 business days or as soon as reasonably possible thereafter.
+If you wish to opt out of receiving postal, email, fax or phone calls from Nashville Scene please send an email to: [ejones@fwpublishing.com](mailto:ejones@fwpublishing.com). You may also mail your request to the attention of the Privacy Manager at 210 12th Ave. South, Nashville, TN 37203. Specifically who this privacy manager is and how contacting them will work is subject to change. We will attempt to process any such requests within 10 business days or as soon as reasonably possible thereafter.
