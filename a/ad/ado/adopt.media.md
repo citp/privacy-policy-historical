@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adopt.media privacy policy that was archived on 2018-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180503040132id_/http%3A//adopt.media/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adopt.media privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228154200id_/http%3A//adopt.media/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Adopt Media
 
