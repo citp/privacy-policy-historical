@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the clickdimensions.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626102556id_/http%3A//clickdimensions.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickdimensions.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228025036id_/http%3A//clickdimensions.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ClickDimensions
 
-Privacy Policy  [Lauren Walker](http://clickdimensions.com/author/laurencwalker/ "Posts by Lauren Walker") 2018-03-07T12:56:47+00:00 
+Privacy Policy  [Lauren Walker](https://clickdimensions.com/author/laurencwalker/ "Posts by Lauren Walker") 2018-11-14T14:20:20+00:00 
 
 Last Updated: March 6, 2018  [[Archive]](http://clickdimensions.com/about/privacy-policy-archive/)
 
