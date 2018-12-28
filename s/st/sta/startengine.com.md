@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startengine.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628040803id_/https%3A//www.startengine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startengine.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228103323id_/https%3A//www.startengine.com/privacy) for the most accurate reproduction.*
 
 # Investment Opportunities for Everyone | StartEngine
 
@@ -32,7 +32,7 @@
 
 ### StartEngine may also use and disclose Personally Identifiable Information and Non-Personally Identifiable Information to help us to carry out certain internal functions such as information management, account processing, client services, or other data collection relevant to our business; to investigate and help prevent potentially unlawful activity or activities that threaten the integrity of our Site or network; to protect and defend our rights or property or the rights or property of others; as required by courts or administrative agencies; and in connection with a financing, sale, merger, or reorganization of StartEngine’s business or assets. Any successor in interest to our business would acquire the information we maintain, including Personally Identifiable Information, and may alter the terms of this Privacy Notice.
 
-### Except as identified here and subject to user's ability to opt-out as provided by Regulation S-P, StartEngine does not and will not sell any of your information, including Non-Personally Identifiable Information or Personally Identifiable Information, to any third party for purposes of advertising, soliciting, or telemarketing.  StartEngine may provide Personally Identifiable Information, including your name, email address, and the date and company of any investment to certain third parties that have referred issuers and investors to StartEngine. StartEngine may also be required to disclose your information, including Non-Personally Identifiable Information or Personally Identifiable Information, to other companies or entities in the event that StartEngine may be sold or is sold to another company or entity.  In that case, your information, including Non-Personally Identifiable Information or Personally Identifiable Information, may be sold or transferred to such acquiring company or entity.  
+### Except as identified here and subject to user's ability to opt-out as provided by Regulation S-P, StartEngine does not and will not sell any of your information, including Non-Personally Identifiable Information or Personally Identifiable Information, to any third party for purposes of advertising, soliciting, or telemarketing.  StartEngine may provide Personally Identifiable Information, including your name, email address, and the date and company of any investment to certain third parties that have referred issuers and investors to StartEngine, or to certain Issuers, including but not limited to issuers in which you have expressed interest. StartEngine may also be required to disclose your information, including Non-Personally Identifiable Information or Personally Identifiable Information, to other companies or entities in the event that StartEngine may be sold or is sold to another company or entity.  In that case, your information, including Non-Personally Identifiable Information or Personally Identifiable Information, may be sold or transferred to such acquiring company or entity.  
 
 ### Third Party Sites and Services
 
@@ -82,4 +82,4 @@
 
 ### Effective Date
 
-### This Privacy Notice was last updated on October 2, 2017.
+### This Privacy Notice was last updated on July 27, 2018.
