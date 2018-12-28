@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nascar.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628083859id_/https%3A//www.nascar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nascar.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228082826id_/https%3A//www.nascar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Official Site Of NASCAR
 
@@ -54,7 +54,7 @@ We or a Partner may use “cookies” or similar technologies to associate certa
 
 Sometimes, we may associate cookies with the Information, including de-identified, “hashed,” or anonymous versions of Information you have provided (such as during registration), in order to send or help our Partners send ads and offers based on your presumed interests or demographic information. 
 
-We may combine any of the Information we collect, for any of the above purposes, and may sometimes enhance the Information with other information that we obtain from third party sources. Please also be aware that if you choose to submit Information or content for publication (e.g., a letter to our editors, comments sent to our writers and/or personalities, a posting to a blog or a discussion board, or a video), we may publish that Information and content, along with other Information about you (such as your name, screen name or location). Likewise, if you register and create a profile with NASCAR.COM, the screen name you select as well as other content you submit to your profile (e.g., photos, comments, video, reviews) will be displayed publicly on NASCAR.COM, is searchable, can be found by third parties and may be reused and redistributed by us in our sole discretion. See our [Terms of Use](https://web.archive.org/en_us/terms-of-use.html) for details on our use of content you submit.
+We may combine any of the Information we collect, for any of the above purposes, and may sometimes enhance the Information with other information that we obtain from third party sources. Please also be aware that if you choose to submit Information or content for publication (e.g., a letter to our editors, comments sent to our writers and/or personalities, a posting to a blog or a discussion board, or a video), we may publish that Information and content, along with other Information about you (such as your name, screen name or location). Likewise, if you register and create a profile with NASCAR.COM, the screen name you select as well as other content you submit to your profile (e.g., photos, comments, video, reviews) will be displayed publicly on NASCAR.COM, is searchable, can be found by third parties and may be reused and redistributed by us in our sole discretion. See our [Terms of Use](https://web.archive.org/terms-of-use/) for details on our use of content you submit.
 
 **Information Sharing and Disclosure**
 
@@ -64,7 +64,7 @@ We may disclose the Information as follows:
 
 2\. In response to legal process, for example, in response to a court order or a subpoena, a law enforcement or government agency's request or similar request, or where we believe in our sole discretion it is necessary 
 
-3\. With third parties in order to investigate, prevent, or take action ( in our sole discretion) regarding potentially illegal activities, suspected fraud, situations involving potential threats to any person, us, or NASCAR.COM, or violations of our policies, the law or our [Terms of Use](https://web.archive.org/en_us/terms-of-use.html), to verify or enforce compliance with the policies governing NASCAR.COM and applicable laws or as otherwise required or permitted by law or consistent with legal requirements. 
+3\. With third parties in order to investigate, prevent, or take action ( in our sole discretion) regarding potentially illegal activities, suspected fraud, situations involving potential threats to any person, us, or NASCAR.COM, or violations of our policies, the law or our [Terms of Use](https://web.archive.org/terms-of-use/), to verify or enforce compliance with the policies governing NASCAR.COM and applicable laws or as otherwise required or permitted by law or consistent with legal requirements. 
 
 4\. We may transfer some or all of your Information if we, or one of our business units, undergoes a business transition, like a merger, acquisition by another company, or sale of all or part of our assets, or if a substantial portion of our or of a business unit’s assets is sold or merged in this way. 
 
