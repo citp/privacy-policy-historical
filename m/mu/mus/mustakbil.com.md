@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mustakbil.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628143207id_/https%3A//www.mustakbil.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mustakbil.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228201442id_/https%3A//www.mustakbil.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Mustakbil
 
@@ -6,7 +6,7 @@
 
 At Mustakbil.com we recognize that privacy is important. This Policy applies to all of the products, services and websites offered by Mustakbil.com. or its subsidiaries or affiliated companies (collectively, Mustakbil.com "services"). In addition, where more detailed information is needed to explain our privacy practices, we post separate privacy notices to describe how particular services process personal information.
 
-If you have any questions about this Policy, please feel free to contact us through our website or write to us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you have any questions about this Policy, please feel free to contact us through our website or write to us at support@mustakbil.com.
 
 #### Information we collect and how we use it:
 
@@ -29,7 +29,7 @@ Mustakbil.com only processes personal information for the purposes described in 
   *  **Invite a Friend** \- If you feel that the services of Mustakbil.com could be useful for a third party you know (e.g. your friends or family members etc), you may use our referral service. If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Mustakbil.com stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. 
   * **Testimonials** \- We post customer testimonials on our web site which may contain personally identifiable information such as the customer's name. We do obtain the customer's consent prior to posting the testimonial to post their name along with their testimonial. 
 
-If you want to remove your personal information that is being displayed on our website under public pages please send your request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you want to remove your personal information that is being displayed on our website under public pages please send your request to support@mustakbil.com.
 
   *  **Blogs, Forums and Chartrooms** \- If you use a bulletin board, blog, or chat room on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. 
   * **Choices for personal information** \- When you sign up for a particular service that requires registration, we ask you to provide personal information. If we use this information in a manner different than the purpose for which it was collected, then we will ask for your consent prior to such use. 
@@ -38,7 +38,7 @@ You can decline to submit personal information to any of our services, in which 
 
     *  **Discontinue jobs alerts, service alerts, newsletters** \- We offer single click unsubscribe option for the users who do not want to receive job alerts email, service alerts or newsletters from Mustakbil.com. If you want to stop receiving job alerts, service alerts, newsletters from Mustakbil.com just click Unsubscribe link show on top of the last email you have received and you will be instantly removed from that particular list.
     *  **Close your account -** Terminate Account option is provided under Account Settings section of your account, so incase you no longer need our services you may stop them by removing your account. 
-  * **Children Under Age 13** \- We do not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not attempt to register at Mustakbil.com. No one under age 13 may provide any personal information to or on Mustakbil.com. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+  * **Children Under Age 13** \- We do not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not attempt to register at Mustakbil.com. No one under age 13 may provide any personal information to or on Mustakbil.com. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at support@mustakbil.com. 
   * **Information sharing** \- Mustakbil.com does not share, sell, rent, or trade personally identifiable information with third parties for their promotional purposes. 
 
 Mustakbil.com only shares personal information with other companies or individuals outside of Mustakbil.com in the following limited circumstances: 
@@ -82,7 +82,7 @@ Users can opt-out of Google Analytics for Display Advertising and customize Goog
 
 You may review, correct, update or change your account details by visiting Edit Profile link shown under Account Settings section of your account. You can also contact us using the following information to update your account (please note that you may be asked for certain information to protect unauthorized changes to your account):
 
-Email: suppor[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
+Email: support@mustakbil.com  
 Phone: +92-51-8313316, 8313317  
 Fax: +92-51-5486878
 
