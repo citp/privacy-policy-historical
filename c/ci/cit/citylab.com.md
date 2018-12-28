@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citylab.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622121516id_/https%3A//www.citylab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citylab.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228223438id_/https%3A//www.citylab.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CityLab
 
@@ -145,6 +145,20 @@ Yes
 
 Yes  
   
+[Amuse Labs](https://amuselabs.com/)
+
+| 
+
+Yes
+
+|  | 
+
+Yes
+
+|  | 
+
+Yes  
+  
 [AppNexus](https://www.appnexus.com/en/company/platform-privacy-policy)
 
 | 
@@ -188,16 +202,6 @@ Yes
 Yes
 
 |  | 
-
-Yes  
-  
-[Brightcove](https://www.brightcove.com/en/legal/privacy)
-
-| 
-
-Yes
-
-|  |  |  | 
 
 Yes  
   
@@ -327,6 +331,28 @@ Yes
 
 Yes  
   
+[Fivetran](https://fivetran.com/privacy)
+
+| 
+
+Yes
+
+| 
+
+Yes
+
+| 
+
+Yes
+
+| 
+
+Yes
+
+| 
+
+Yes  
+  
 [Flashtalking](http://www.flashtalking.com/privacypolicy/)
 
 | 
@@ -351,6 +377,38 @@ Yes
 
 Yes  
   
+[Google Cloud](https://cloud.google.com/security/privacy/)
+
+| 
+
+Yes
+
+| 
+
+Yes
+
+| 
+
+Yes
+
+| 
+
+Yes
+
+| 
+
+Yes  
+  
+[Google Docs](https://policies.google.com/privacy)
+
+| 
+
+Yes
+
+|  |  |  | 
+
+Yes  
+  
 [Google DoubleClick](https://policies.google.com/privacy?hl=en)
 
 | 
@@ -362,6 +420,16 @@ Yes
 Yes
 
 |  |   
+  
+[Google Optimize](https://support.google.com/optimize/answer/6230273?hl=en)
+
+|  |  |  | 
+
+Yes
+
+| 
+
+Yes  
   
 [Grapeshot](https://www.grapeshot.com/privacy/)
 
@@ -389,20 +457,6 @@ Yes
 
 |  |   
   
-[Gumgum](https://gumgum.com/privacy-policy)
-
-| 
-
-Yes
-
-|  | 
-
-Yes
-
-|  | 
-
-Yes  
-  
 [Heap](https://heapanalytics.com/privacy)
 
 | 
@@ -424,6 +478,28 @@ Yes
 Yes
 
 |  | 
+
+Yes  
+  
+[IBM Watson Campaign Automation](https://www.ibm.com/support/knowledgecenter/en/SSWU4L/Support/imc_Support/Support_q_a_watson_assistant/GDPR_FAQs.html)
+
+| 
+
+Yes
+
+| 
+
+Yes
+
+| 
+
+Yes
+
+| 
+
+Yes
+
+| 
 
 Yes  
   
@@ -483,16 +559,6 @@ Yes
 
 Yes  
   
-[Keen](https://keen.io/privacy-policy/)
-
-| 
-
-Yes
-
-|  |  |  | 
-
-Yes  
-  
 [Knotch](https://www.knotch.it/about/privacy)
 
 | 
@@ -518,6 +584,16 @@ Yes
 Yes
 
 |  | 
+
+Yes  
+  
+[Litmus](https://litmus.com/privacy)
+
+| 
+
+Yes
+
+|  |  |  | 
 
 Yes  
   
@@ -595,16 +671,6 @@ Yes
 
 Yes  
   
-[Optimizely](https://www.optimizely.com/privacy/)
-
-|  |  |  | 
-
-Yes
-
-| 
-
-Yes  
-  
 [Outbrain](https://www.outbrain.com/legal/privacy)
 
 | 
@@ -627,7 +693,29 @@ Yes
 
 Yes  
   
-[Peer 39](https://www.sizmek.com/privacy-policy/)
+[Piano](https://piano.io/privacy-policy/)
+
+| 
+
+Yes
+
+| 
+
+Yes
+
+| 
+
+Yes
+
+| 
+
+Yes
+
+| 
+
+Yes  
+  
+[Powerinbox](https://powerinbox.com/privacy-policy/)
 
 | 
 
@@ -666,28 +754,6 @@ Yes
 Yes
 
 |  | 
-
-Yes  
-  
-[RevContent](https://faq.revcontent.com/customer/en/portal/articles/2703838-revcontent-s-privacy-and-cookie-policy)
-
-| 
-
-Yes
-
-| 
-
-Yes
-
-| 
-
-Yes
-
-| 
-
-Yes
-
-| 
 
 Yes  
   
@@ -741,6 +807,50 @@ Yes
 
 |  |   
   
+[SurveyGizmo](https://www.surveygizmo.com/privacy/)
+
+| 
+
+Yes
+
+| 
+
+Yes
+
+| 
+
+Yes
+
+| 
+
+Yes
+
+| 
+
+Yes  
+  
+[Switchboard Software](https://switchboard-software.com/privacy-policy/)
+
+| 
+
+Yes
+
+| 
+
+Yes
+
+| 
+
+Yes
+
+| 
+
+Yes
+
+| 
+
+Yes  
+  
 [Teads](https://teads.tv/privacy-policy/)
 
 | 
@@ -780,6 +890,30 @@ Yes
 Yes
 
 |  | 
+
+Yes  
+  
+[Unbounce](https://unbounce.com/privacy/)
+
+|  |  | 
+
+Yes
+
+|  | 
+
+Yes  
+  
+[Zendesk](https://www.zendesk.com/company/customers-partners/privacy-policy/)
+
+| 
+
+Yes
+
+| 
+
+Yes
+
+|  |  | 
 
 Yes  
   
@@ -1615,6 +1749,30 @@ Yes
 Yes
 
 |  | 
+
+Yes  
+  
+[YouTube](https://policies.google.com/privacy?hl=en)
+
+| 
+
+Yes
+
+|  |  |  | 
+
+Yes  
+  
+[Zendesk](https://www.zendesk.com/company/customers-partners/privacy-policy/)
+
+| 
+
+Yes
+
+| 
+
+Yes
+
+|  |  | 
 
 Yes  
   
