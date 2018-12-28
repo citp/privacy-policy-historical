@@ -1,21 +1,249 @@
-> *The following text is extracted and transformed from the covertcommissions.com privacy policy that was archived on 2018-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180131164925id_/https%3A//www.wildfireconcepts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the covertcommissions.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228224049id_/https%3A//www.wildfireconcepts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wildfire Concepts
 
-Privacy Policy for http://wfconcepts.wpengine.com
+Effective date: May 18, 2018
 
-The privacy of our visitors to http://wfconcepts.wpengine.com is important to us.
+Wildfire Concepts Pty Ltd (“us”, “we”, or “our”) operates the https://wildfireconcepts.com website (the “Service”).
 
-At http://wfconcepts.wpengine.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit http://wfconcepts.wpengine.com, and how we safeguard your information. We never sell your personal information to third parties.
+This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
-Log Files: As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
+We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from https://wildfireconcepts.com
 
-Cookies and Web Beacons: We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
+## Definitions
 
-We also use third party advertisements on http://wfconcepts.wpengine.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+  * **Service**
 
-DoubleClick DART cookies We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (“interest based targeting”). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses “non personally identifiable information”. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting http://www.doubleclick.com/privacy/dart_adserving.aspx
+Service is the https://wildfireconcepts.com website operated by Wildfire Concepts Pty Ltd
 
-You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+  * **Personal Data**
 
-Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
+Personal Data means data about a living individual who can be identified from those data (or from those and other information either in our possession or likely to come into our possession).
+
+  * **Usage Data**
+
+Usage Data is data collected automatically either generated by the use of the Service or from the Service infrastructure itself (for example, the duration of a page visit).
+
+  * **Cookies**
+
+Cookies are small pieces of data stored on your device (computer or mobile device).
+
+  * **Data Controller**
+
+Data Controller means the natural or legal person who (either alone or jointly or in common with other persons) determines the purposes for which and the manner in which any personal information are, or are to be, processed.
+
+For the purpose of this Privacy Policy, we are a Data Controller of your Personal Data.
+
+  * **Data Processors (or Service Providers)**
+
+Data Processor (or Service Provider) means any natural or legal person who processes the data on behalf of the Data Controller.
+
+We may use the services of various Service Providers in order to process your data more effectively.
+
+  * **Data Subject (or User)**
+
+Data Subject is any living individual who is using our Service and is the subject of Personal Data.
+
+
+
+
+## Information Collection And Use
+
+We collect several different types of information for various purposes to provide and improve our Service to you.
+
+### Types of Data Collected
+
+#### Personal Data
+
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you (“Personal Data”). Personally identifiable information may include, but is not limited to:
+
+  * Email address
+  * First name and last name
+  * Cookies and Usage Data
+
+
+
+We may use your Personal Data to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send.
+
+#### Usage Data
+
+We may also collect information how the Service is accessed and used (“Usage Data”). This Usage Data may include information such as your computer’s Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
+
+#### Tracking & Cookies Data
+
+We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.
+
+Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.
+
+You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
+
+Examples of Cookies we use:
+
+  * **Session Cookies.** We use Session Cookies to operate our Service.
+  * **Preference Cookies.** We use Preference Cookies to remember your preferences and various settings.
+  * **Security Cookies.** We use Security Cookies for security purposes.
+
+
+
+## Use of Data
+
+Wildfire Concepts Pty Ltd uses the collected data for various purposes:
+
+  * To provide and maintain our Service
+  * To notify you about changes to our Service
+  * To allow you to participate in interactive features of our Service when you choose to do so
+  * To provide customer support
+  * To gather analysis or valuable information so that we can improve our Service
+  * To monitor the usage of our Service
+  * To detect, prevent and address technical issues
+  * To provide you with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless you have opted not to receive such information
+
+
+
+## Legal Basis for Processing Personal Data Under General Data Protection Regulation (GDPR)
+
+If you are from the European Economic Area (EEA), Wildfire Concepts Pty Ltd legal basis for collecting and using the personal information described in this Privacy Policy depends on the Personal Data we collect and the specific context in which we collect it.
+
+Wildfire Concepts Pty Ltd may process your Personal Data because:
+
+  * We need to perform a contract with you
+  * You have given us permission to do so
+  * The processing is in our legitimate interests and it’s not overridden by your rights
+  * For payment processing purposes
+  * To comply with the law
+
+
+
+## Retention of Data
+
+Wildfire Concepts Pty Ltd will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
+
+Wildfire Concepts Pty Ltd will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our Service, or we are legally obligated to retain this data for longer time periods.
+
+## Transfer Of Data
+
+Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+
+If you are located outside Australia and choose to provide information to us, please note that we transfer the data, including Personal Data, to Australia and process it there.
+
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+Wildfire Concepts Pty Ltd will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+
+## Disclosure Of Data
+
+### Disclosure for Law Enforcement
+
+Under certain circumstances, Wildfire Concepts Pty Ltd may be required to disclose your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
+
+### Legal Requirements
+
+Wildfire Concepts Pty Ltd may disclose your Personal Data in the good faith belief that such action is necessary to:
+
+  * To comply with a legal obligation
+  * To protect and defend the rights or property of Wildfire Concepts Pty Ltd
+  * To prevent or investigate possible wrongdoing in connection with the Service
+  * To protect the personal safety of users of the Service or the public
+  * To protect against legal liability
+
+
+
+## Security Of Data
+
+The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
+
+## “Do Not Track” Signals
+
+We do not support Do Not Track (“DNT”). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.
+
+You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.
+
+## Your Data Protection Rights Under General Data Protection Regulation (GDPR)
+
+If you are a resident of the European Economic Area (EEA), you have certain data protection rights. Wildfire Concepts Pty Ltd aims to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.
+
+If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please contact us.
+
+In certain circumstances, you have the following data protection rights:
+
+  * **The right to access, update or to delete the information we have on you.** Whenever made possible, you can access, update or request deletion of your Personal Data directly within your account settings section. If you are unable to perform these actions yourself, please contact us to assist you.
+  * **The right of rectification.** You have the right to have your information rectified if that information is inaccurate or incomplete.
+  * **The right to object.** You have the right to object to our processing of your Personal Data.
+  * **The right of restriction.** You have the right to request that we restrict the processing of your personal information.
+  * **The right to data portability.** You have the right to be provided with a copy of the information we have on you in a structured, machine-readable and commonly used format.
+  * **The right to withdraw consent.** You also have the right to withdraw your consent at any time where Wildfire Concepts Pty Ltd relied on your consent to process your personal information.
+
+
+
+Please note that we may ask you to verify your identity before responding to such requests.
+
+You have the right to complain to a Data Protection Authority about our collection and use of your Personal Data. For more information, please contact your local data protection authority in the European Economic Area (EEA).
+
+## Service Providers
+
+We may employ third party companies and individuals to facilitate our Service (“Service Providers”), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
+
+These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+
+### Behavioral Remarketing
+
+Wildfire Concepts Pty Ltd uses remarketing services to advertise on third party websites to you after you visited our Service. We and our third-party vendors use cookies to inform, optimize and serve ads based on your past visits to our Service.
+
+  * **Facebook**
+
+Facebook remarketing service is provided by Facebook Inc.
+
+You can learn more about interest-based advertising from Facebook by visiting this page: <https://www.facebook.com/help/164968693837950>
+
+To opt-out from Facebook’s interest-based ads follow these instructions from Facebook: <https://www.facebook.com/help/568137493302217>
+
+Facebook adheres to the Self-Regulatory Principles for Online Behavioral Advertising established by the Digital Advertising Alliance. You can also opt-out from Facebook and other participating companies through the Digital Advertising Alliance in the USA <http://www.aboutads.info/choices/>, the Digital Advertising Alliance of Canada in Canada <http://youradchoices.ca/> or the European Interactive Digital Advertising Alliance in Europe <http://www.youronlinechoices.eu/>, or opt-out using your mobile device settings.
+
+For more information on the privacy practices of Facebook, please visit Facebook’s Data Policy: <https://www.facebook.com/privacy/explanation>
+
+
+
+
+### Payments
+
+We may provide paid products and/or services within the Service. In that case, we use third-party services for payment processing (e.g. payment processors).
+
+We will not store or collect your payment card details. That information is provided directly to our third-party payment processors whose use of your personal information is governed by their Privacy Policy. These payment processors adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, Mastercard, American Express and Discover. PCI-DSS requirements help ensure the secure handling of payment information.
+
+The payment processors we work with are:
+
+  * **PayPal, JVZoo, Credit Card Processors**
+
+Their Privacy Policy can be viewed at <https://www.paypal.com/webapps/mpp/ua/privacy-full>
+
+
+
+
+## Links To Other Sites
+
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
+
+We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+## Children’s Privacy
+
+Our Service does not address anyone under the age of 18 (“Children”).
+
+We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
+
+## Changes To This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the “effective date” at the top of this Privacy Policy.
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, please contact us:
+
+  * By email: support@wildfireconcepts.com
+  * By visiting this page on our website: https://wildfireconcepts.com/support
+
+
