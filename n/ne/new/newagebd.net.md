@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newagebd.net privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628053328id_/http%3A//www.newagebd.net/page/36/Disclaimer-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newagebd.net privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228113744id_/http%3A//www.newagebd.net/page/36/Disclaimer-Privacy-Policy) for the most accurate reproduction.*
 
-# New Age | The Outspoken Daily
+# New Age | The Most Popular Outspoken Daily English Newpaper in Bangladesh
 
 **Media New Age Limited** and its associated companies fully respect your right to privacy. Please note this is the standard cookie policy across all our company sites.  
 
