@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contentreserve.com privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621053320id_/https%3A//company.cdn.overdrive.com/policies/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contentreserve.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228075714id_/https%3A//company.cdn.overdrive.com/policies/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ OverDrive, Inc. and its affiliates ("OverDrive", "we", "us" or "our") provides d
 
 OverDrive respects your privacy. The purpose of this Privacy Policy is to make you aware of how OverDrive collects, manages, protects, uses, and/or shares information and what choices are available to you regarding the collection, use and distribution of your Personal Information and non-personally identifiable information ("non-PII").
 
-Many users under the age of 13 enjoy using the Services. To see OverDrive's policy regarding the collection of information from children who are under 13 years old, please [click here for OverDrive's Privacy Policy for Children.](https://web.archive.org/web/20180621053320id_/https%3A//company.cdn.overdrive.com/policies/privacy-policy-for-children.htm)
+Many users under the age of 13 enjoy using the Services. To see OverDrive's policy regarding the collection of information from children who are under 13 years old, please [click here for OverDrive's Privacy Policy for Children.](https://web.archive.org/web/20181228075714id_/https%3A//company.cdn.overdrive.com/policies/privacy-policy-for-children.htm)
 
 ## What is Personal Information and non-PII?
 
@@ -30,13 +30,13 @@ OverDrive takes information security very seriously. We have implemented measure
 
 ## What non-PII does OverDrive collect?
 
-We collect and store certain information related to your interactions and use of our Services, including but not limited to, IP address, device type, device ID, operating system, library card number, Adobe ID, library name, digital content selections (e.g. lending history), and online activity. If you have chosen to submit your Personal Information to OverDrive, any such non-PII may be linked to your Personal Information and will be treated by OverDrive as Personal Information.
+We collect and store certain information related to your interactions and use of our Services, including but not limited to, IP address, device type, device ID, operating system, library card number, Adobe ID, library name, lending history, holds, reading progress, and online activity. If you have chosen to submit your Personal Information to OverDrive, any such non-PII may be linked to your Personal Information and will be treated by OverDrive as Personal Information. 
 
-Some Services provide the ability for you to see your digital content selections/lending history. If you are using your institution's OverDrive-hosted website, Libby, or the OverDrive app, you will have the option to show your lending history. You can hide your lending history by following the instructions within the app or help articles. Your lending history is protected by OverDrive as confidential. It is not shared with any third parties, except to staff with appropriate authority acting within the scope of their duties for the administration of your institution (library, school, etc.) If we are compelled to disclose your lending history pursuant to a court order or subpoena, or to a person or agency with the relevant administrative or legislative investigative power, we will seek to challenge and limit the scope and comply with the authorized agency or person only as required by law. 
+Some Services provide the ability for you to see your lending history. If you are using your institution’s OverDrive-hosted website, Libby, or the OverDrive app, you will have the option to show your lending history. You can hide your lending history by following the instructions within the app or help articles. Your lending history is protected by OverDrive as confidential. It is not shared with any third parties, except to staff with appropriate authority acting within the scope of their duties for the administration of your institution (library, school, etc.). If we are compelled to disclose your lending history pursuant to a court order or subpoena, or to a person or agency with the relevant administrative or legislative investigative power, we will seek to challenge and limit the scope and comply with the authorized agency or person only as required by law. 
 
 ## Does OverDrive use cookies and similar technologies?
 
-Yes, we use cookies and similar technologies to collect and store certain information when you use, access, or interact with the Services. Cookies are small data file identifiers that are transferred to your device or web browser that allow us to recognize your device or web browser when you visit or use the Service. We use cookies for many purposes, such as to support the internal operations of the Services and make improvements to the Services. To read more about cookies and similar technologies, please visit our [Cookie Policy](https://web.archive.org/web/20180621053320id_/https%3A//company.cdn.overdrive.com/policies/cookie-policy.htm). 
+Yes, we use cookies and similar technologies to collect and store certain information when you use, access, or interact with the Services. Cookies are small data file identifiers that are transferred to your device or web browser that allow us to recognize your device or web browser when you visit or use the Service. We use cookies for many purposes, such as to support the internal operations of the Services and make improvements to the Services. To read more about cookies and similar technologies, please visit our [Cookie Policy](https://web.archive.org/web/20181228075714id_/https%3A//company.cdn.overdrive.com/policies/cookie-policy.htm). 
 
 ## How does OverDrive use information? 
 
@@ -44,7 +44,7 @@ We collect Personal Information and non-PII from you in order to:
 
   * Determine your current geographic location and/or language so that we may provide localized content and Services;
   * Comply with the requirements of our publisher, library, and retail partners;
-  * Alert you if digital content becomes available for check-out from a library partner;
+  * Alert you of opportunities to renew loans, return loans, checkout digital content on which you’ve placed a hold, and cancel holds;
   * Provide recommendations for digital content we think you may enjoy;
   * Notify you of opportunities to provide feedback for OverDrive's Services;
   * Sync bookmarks and most recent point viewed/played across devices;
@@ -55,7 +55,7 @@ We collect Personal Information and non-PII from you in order to:
 
 
 
-OverDrive never sells your Personal Information or non-PII. If you provide Personal Information to us, such as your email address for notification of library hold availability, OverDrive will not use your Personal Information for any other purposes than the specified use. OverDrive will not use your email address to send you any communications without your consent. Information about users of school Services is only retained by OverDrive for the time period necessary to support the authorized school or educational purposes. 
+OverDrive never sells your Personal Information or non-PII. If you provide Personal Information to us, such as your email address for notification of library hold availability, OverDrive will not use your Personal Information for any other purposes than the specified use. Email addresses submitted to OverDrive for holds notifications are stored by OverDrive so you can place future holds in a quicker, more convenient manner.
 
 OverDrive may use and share non-PII with third parties in order to analyze Service usage, improve the Service, or for other similar purposes. The non-PII shared with third parties is disassociated with any Personal Information such that it is anonymous and cannot be used to identify you. Additionally, we may anonymize Personal Information and share it in an aggregated form with third parties in order to analyze Service usage, improve the Service, or for other similar purposes. The use and disclosure of such anonymous information is not subject to any restrictions under this Privacy Policy.
 
@@ -86,21 +86,21 @@ If you contact OverDrive directly for assistance resolving an issue with the Ser
 
 ## What is required to create an OverDrive account?
 
-Your name, email address, and password is required to create an OverDrive account. By creating and using an OverDrive account and/or otherwise consenting to the sharing of information with us, you authorize OverDrive to collect and retain the Personal Information submitted by you. You also affirm that you are at least 13 years of age and acknowledge that an OverDrive account is not intended for use by individuals under 13 years of age. You may not share your information regarding your OverDrive account, including but not limited to your login credentials such as your password.
+Your name, email address, and password are required to create an OverDrive account. By creating and using an OverDrive account and/or otherwise consenting to the sharing of information with us, you authorize OverDrive to collect and retain the Personal Information submitted by you. You also affirm that you are at least 13 years of age and acknowledge that an OverDrive account is not intended for use by individuals under 13 years of age. You may not share your information regarding your OverDrive account, including but not limited to your login credentials such as your password.
 
 ## What is OverDrive's Instant Digital Card service?
 
 OverDrive's Instant Digital Card online service ("IDC") helps users obtain access to the library's OverDrive digital collection. Only authorized patrons of the library are permitted to access and checkout digital content from the library's digital collection
 
-You must be at least 13 years old to use IDC. If you use IDC, you will be asked to submit your name, mobile phone number, and email address to OverDrive. Only U.S. mobile phone numbers are eligible for use with IDC. Your name and mobile phone number will be used to confirm your mobile phone number is associated with you and to verify that you have an address in your library's service area. Libraries that participate in IDC provide OverDrive with the zip codes that comprise their service area. Submitting your name, mobile phone number, and email address to IDC confirms your consent to this Privacy Policy and OverDrive's [Terms and Conditions.](https://web.archive.org/web/20180621053320id_/https%3A//company.cdn.overdrive.com/policies/terms-and-conditions.htm)
+You must be at least 13 years old to use IDC. If you use IDC, you will be asked to submit your name, mobile phone number, and email address to OverDrive. Only U.S. mobile phone numbers are eligible for use with IDC. Your name and mobile phone number will be used to confirm your mobile phone number is associated with you and to verify that you have an address in your library's service area. Libraries that participate in IDC provide OverDrive with the zip codes that comprise their service area. Submitting your name, mobile phone number, and email address to IDC confirms your consent to this Privacy Policy and OverDrive's [Terms and Conditions.](https://web.archive.org/web/20181228075714id_/https%3A//company.cdn.overdrive.com/policies/terms-and-conditions.htm)
 
-To verify that your address is in your library's service area, OverDrive will share your name and mobile phone number with a third-party verification service, [Cognito.](https://cognitohq.com/) Cognito will use your name and mobile phone number to return an address, if any, to OverDrive. To aid the verification process and increase the likelihood that an address is found, you may be asked to submit your date of birth. Your date of birth will be shared with Cognito.
+To verify that your address is in your library's service area, OverDrive will share your name and mobile phone number with a third-party verification service, [Cognito.](https://cognitohq.com/) Cognito will use your name and mobile phone number to return an address, if any, to OverDrive.
 
-Cognito does not use your name, mobile phone number, or date of birth for marketing or sales purposes, nor do they share your name, mobile phone number, or date of birth with third parties for marketing or sales purposes.
+Cognito does not use your name or mobile phone number for marketing or sales purposes, nor do they share your name or mobile phone number with third parties for marketing or sales purposes.
 
 OverDrive will send a text message to the mobile phone number you provide (standard text message rates apply) to verify the mobile phone number's association with you.
 
-If you are validated as having a residential address within your library's service area, you will be able to access and checkout digital content from your library's OverDrive digital collection for twelve (12) months from the date you are validated. Your name, mobile phone number, address, and email address are stored by OverDrive for the purpose of authenticating your checkouts from the library's OverDrive digital collection. Your date of birth, if submitted to OverDrive, is not stored by OverDrive. Unless otherwise permitted through your opt-in consent to receive marketing communications, OverDrive does not use your name, mobile phone number, address, email address, or date of birth for marketing or sales purposes, nor do we share your name, mobile phone number, address, email address, or date of birth with third parties for marketing or sales purposes.
+If you are validated as having a residential address within your library’s service area, you will be able to access and checkout digital content from your library’s OverDrive digital collection for twelve (12) months from the date you are validated. Your name, mobile phone number, and address are stored by OverDrive for the purpose of authenticating your checkouts from the library’s OverDrive digital collection. Unless otherwise permitted through your opt-in consent to receive marketing communications, OverDrive does not use your name or mobile phone number for marketing or sales purposes, nor do we share your name or mobile phone number with third parties for marketing or sales purposes.
 
 In addition to obtaining checkout privileges to your library's digital collection, you may also be eligible for a library card for access to your library's additional resources (e.g. physical book and media borrowing). Through the validation process, OverDrive will store your address for the purpose of providing your name, address, email address, and mobile phone number to your library, where you may be eligible for a library card for access to additional library resources. Your use of IDC confirms your consent to OverDrive providing your name, address, email address, and mobile phone number with your library, and confirms your consent to be contacted by your library, if necessary.
 
@@ -133,7 +133,9 @@ If you are not subject to EU law, these rights do not apply to you.
 
 ## Changes to this Privacy Policy
 
-This Privacy Policy was last updated in **May 2018**. We will continue to evaluate this Privacy Policy against new technologies, business practices, and our users' needs, and may make changes to the Privacy Policy accordingly. Please check the Privacy Policy periodically for updates. Your continued use of the Services after the posting of any changes to this Privacy Policy means that you agree to be bound by such changes. In the event of a change of control (i.e. sale of sale or merger of OverDrive, Inc.) the successor entity will be subject to these same privacy commitments.
+This Privacy Policy was last updated in **December 2018**. We will continue to evaluate this Privacy Policy against new technologies, business practices, and our users’ needs, and may make changes to the Privacy Policy accordingly. Please check the Privacy Policy periodically for updates. Your continued use of the Services after the posting of any changes to this Privacy Policy means that you agree to be bound by such changes.
+
+In the event of a change of control (i.e. sale of sale or merger of OverDrive, Inc.) the successor entity will be subject to these same privacy commitments.
 
 If we make material changes this Privacy Policy that increase our rights to use your Personal Information, we will notify you via a prominent notice on the Services or via email prior to the change becoming effective. If you do not agree to the changes, you should discontinue use of the Services. 
 
