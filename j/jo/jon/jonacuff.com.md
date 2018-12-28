@@ -1,193 +1,118 @@
-> *The following text is extracted and transformed from the jonacuff.com privacy policy that was archived on 2017-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170709193637id_/https%3A//www.daveramsey.com/store/privacy-policy/cPRI-p1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jonacuff.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228072034id_/https%3A//www.daveramsey.com/company/privacy-policy%3Fsnid%3Dfooter.company.privacy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-  * [Home](https://web.archive.org/store/index.ep)
-    *       * [Store Home](https://web.archive.org/store/)
-      * [Exit to daveramsey.com](https://web.archive.org/)
-  * [Classes](https://web.archive.org/store/financial-peace-university/cFpu.html)
-    *       * [Financial Peace University](https://web.archive.org/store/financial-peace-university/financial-peace-university/cFpuClasses.html)
-
-Everything you wish you knew about financial freedom
-
-      * [Smart Money Smart Kids](https://web.archive.org/store/cSmartMoneySmartKids.html)
-
-Learn how to teach your kids to win with money
-
-      * [The Legacy Journey](https://web.archive.org/store/the-legacy-journey/clegacy.html)
-
-Preparing your finances for the next generation
-
-      * [Generation Change](https://web.archive.org/store/cGC.html)
-
-The most engaging way to raise intentional, money smart kids
-
-      * [Foundations in Personal Finance](https://web.archive.org/store/foundations-in-personal-finance/cFoundations.html)
-
-The industry leader in personal finance curriculum
-
-  * [Books](https://web.archive.org/store/books/cBooks.html)
-    * Books
-      * [All Books by Dave](https://web.archive.org/store/books/cBooks.html?showgrid=true)
-      * [Bestsellers](https://web.archive.org/store/dave-s-bestsellers/cDaveBooks.html)
-      * [Audiobooks & eBooks](https://web.archive.org/store/audio-books-and-e-books/cEbooks.html)
-      * [Other Great Reads](https://web.archive.org/store/books-by-radio-show-guests/cShowguest.html)
-    * Dave Recommends
-      * [Business and Leadership](https://web.archive.org/store/Business-Leadership/cBusinessLeadership.html)
-      * [Marital and Relationship](https://web.archive.org/store/Marital-Relationship/cMaritalRelationship.html)
-      * [Personal Growth](https://web.archive.org/store/Personal-Growth/cPersonalGrowth.html)
-      * [Personal Finance](https://web.archive.org/store/Personal-Finance/cPersonalFinance.html)
-      * [View All Dave's Library](https://web.archive.org/store/Daves-Library/cDavesLibrary.html?showgrid=true)
-  * [Tools](https://web.archive.org/store/budgeting-tools/cBUDGETING.html)
-    *       * [Envelope Systems](https://web.archive.org/store/envelope-systems/cEnv.html)
-
-Control your cash and spending.
-
-      * [Online Assessments](https://web.archive.org/store/online-tools/cOnline.html)
-
-Live coaching conferences and more
-
-      * [Dave's ELPs](https://web.archive.org/store/endorsed-local-providers/cElpMain.html)
-
-Find an Endorsed Local Provider.
-
-      * [US Legal Forms & Documents](https://web.archive.org/store/us-legal-forms/cUsLegal.html)
-
-Wills, living wills and business forms
-
-  * [Kids & Youth](https://web.archive.org/store/kids-teens/cYouth.html)
-    *       * [Junior's Adventures](https://web.archive.org/store/Kids-3-12/cKids3to13.html)
-
-Teach your children the importance of giving, saving and spending.
-
-      * [Youth and Teen education](https://web.archive.org/store/teens/cTeens.html)
-
-Motivational, practical, fun lessons to go through as a family
-
-      * [Foundations in Personal Finance](https://web.archive.org/store/foundations-in-personal-finance/cFoundations.html)
-
-The industry leader in personal finance curriculum
-
-  * [Events](https://web.archive.org/store/dave_ramseys_live_event_series/cLiveEvents.html)
-    *       * [Smart Money Tour](https://web.archive.org/store/smart-money-tour/cSmartMoney.html)
-
-The basics of budgeting, dumping debt, planning for retirement, and much more!
-
-      * [EntreLeadership](https://web.archive.org/store/dave_ramseys_entreleadership_live_event/cLiveEntre.html)
-
-Learning the essentials of business and leadership
-
-      * [Smart Conference](https://web.archive.org/store/smart-conference/cSmartConference.html)
-
-The world's leading experts on key areas of life
-
-      * [Business Boutique](https://web.archive.org/store/business-boutique-live-event/cLIVEEVENTS-cBUSINESSBOUTIQUE-p1.html)
-
-Equipping women to make money doing what they love
-
-      * [Money & Marriage](https://web.archive.org/store/money-marriage/cLIVEEVENTS-cMONEYMARRIAGE-p1.html)
-
-A date night worth investing in
-
-  * [Most Popular](https://web.archive.org/store/daves-all-time-best-sellers/cBestsellers.html)
-    *       * [Most Popular](https://web.archive.org/store/daves-all-time-best-sellers/cBestsellers.html)
-
-Not sure what to get? Check out our products sorted by the most popular.
-
-  * [Deals](https://web.archive.org/store/on-sale/cOnsale.html)
-    *       * [Deals](https://web.archive.org/store/on-sale/cOnsale.html)
-
-Save on Dave's great products
-
-  * [More](https://web.archive.org/store/cMore.html)
-    * Personalities
-      * [Rachel Cruze](https://web.archive.org/store/rachel-cruze/cCruze.html)
-
-#1 New York Times Best-Selling author
-
-      * [Chris Hogan](https://web.archive.org/store/chris-hogan/cHogan.html)
-
-Stirring audiences to financial action
-
-      * [Christy Wright](https://web.archive.org/store/christy-wright/cWright.html)
-
-Business and life balance coach
-
-    * Brands
-      * [EntreLeadership](https://web.archive.org/store/cEntreLeadership.html)
-
-Grow your team, your business and your profits.
-
-      * [Financial Coaching](https://web.archive.org/store/coaching/cCounseling.html)
-
-From 1-1 in depths to Q&A web conferences
-
-    * Other Great Products
-      * [Individual Lessons](https://web.archive.org/store/individual-lessons/cLessons.html)
-
-Money, motivation, relationships
-
-      * [Act Your Wage](https://web.archive.org/store/act-your-wage-board-game/prodAYW.html)
-
-Board game for the family, making finances fun!
-
-
-
-
-You Are Here:
-
-  1. [Home](https://web.archive.org/store/index.ep)
-  2. Privacy Policy
-
-
-
-  
-
-
-* * *
-
-  
-
+# DaveRamsey.com
 
 ## Our Policy Behind Our Privacy Policy
 
-We refuse to make you read through pages and pages of boring text about a policy that does nothing but trick you into _not_ reading it. Because we have every intention of protecting your privacy, we have made our privacy policy clear and concise enough that you will read it and feel comfortable using our site. We're here to help you, not put you to sleep!
+The Lampo Group, LLC d/b/a Ramsey Solutions® (“Ramsey Solutions,” “we” or “us”) is committed to protecting your privacy, and in doing so, we want to make sure that this Privacy Policy (“Policy”) is clear and concise enough for you to understand it. We hope that as you read through the Policy, you will become comfortable using the sites. Our intention was not to make this a lengthy Policy with pages and pages of text for you to read through, but we wanted to make sure that you were given enough information to put your mind at ease about your privacy. We hope that you will take the time to read the information and learn how Ramsey Solutions is here to help you. After all, we created this Policy for the sole purpose of protecting your privacy and the information you provide to us.
 
-Respecting the privacy and the security of your personal information is important to us. We realize that providing us with personal information is an act of trust. Therefore, we have created a Privacy Policy to show you the steps we have taken to secure that trust. Please take a few moments to read this policy carefully.
+This Policy discloses our privacy practices and how we may use the information that we gather on the websites of Ramsey Solutions (the “Sites”), and our web-based services, or that you provide to us through other means. By using the Sites or voluntarily providing personal information to us, you consent to the terms and conditions of this Policy. This Policy applies solely to information collected by the Sites and contains the following:
+
+  1. What constitutes personally identifiable information that is collected from you through the Sites, how that information is used and with whom the information may be shared;
+  2. What choices are available to you regarding our use of your data;
+  3. The security procedures in place to protect the misuse of your information; and
+  4. How you can correct any inaccuracies in the information collected.
+
+
+
+Respecting the privacy and the security of your personal information is important to us. We realize that providing us with personal information is an act of trust. Therefore, we have created this Policy to show you the steps we have taken to maintain that trust and secure your information. Please take a few moments to read this Policy carefully.
 
 ## Collected Information
 
-In certain instances, you may be asked to provide personal information on our site. This information is for administrative or transaction use only. We use it to fulfill orders you have placed, better understand and serve your needs, and provide services tailored to you.
+Each time you visit the Sites, certain information _may_ be automatically collected. In some instances, the collected information may allow us to match activities with particular users. Examples of the type of information that may be collected are as follows:
 
-Non-personally identifiable information may be collected by our web-based tools for the purpose of online advertising and is completely anonymous.  This information may include such information as your IP address, date and time of visit, domain type, and their activity on our website. None of this information, individually or grouped together, can be traced back to you as an individual.   
-In web language, a cookie is used to store data on a computer's hard drive. Almost all websites utilize cookies to one extent or another. Some of our web-based tools utilize cookies.  These cookies only collect and utilize non-personally identifiable information. 
+  * Your internet service provider's address, your internet protocol or IP address, the web page from which you accessed the Sites, your web browser software, the type of handheld or mobile device used to link to the web page, and the language settings on your web browser;
+  * A record of your activity or your “clickstream” while visiting the Sites;
+  * “Cookies” of different types to recognize your computer (please see our Cookie Policy below for description of what cookies are); and
+  * Web beacons, match scripts, pixel tags or similar technologies that allow us to know if a particular web page was visited, an e-mail opened, links in the email accessed, or if the advertisements on the Sites or other sites were useful or beneficial to the user(s).
 
-We use the Google AdWords remarketing service to advertise on third-party websites (including Google) to previous visitors of our site. For example, we may advertise to previous visitors who haven’t completed a task on our site (i.e., completing the checkout process). This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network.
 
-Third-party vendors, including Google, use cookies to serve ads based on a user’s past visits to a website. Of course, any data collected will be used in accordance with our own privacy policy and Google’s privacy policy. You can set preferences for how Google advertises to you using the Google Ads Preferences page. If you wish, you can opt out of interest-based advertising entirely by adjusting your cookie settings or using a browser plugin.
+
+We will also collect personal information that you provide/input on the Sites, such as your name, e-mail address, mailing address, phone number or debit card information.
 
 ## Use of Information
 
-We do not use your information for any purpose without your consent. Your information will not be accessible to anyone other than our staff or business affiliates whose services you have requested. This information is specifically used by our affiliates to provide you with services you have requested and is not redistributed in any way. All that to say, we won’t sell your information to all the spammers that clutter your inbox!
+We will use the information collected for the following purposes:
 
-We make every effort to keep you informed of our own special events, news and offers. Periodically, we send announcements via email or direct mail. If you do not wish to be contacted by our office, simply click on the unsubscribe link found at the bottom of the email newsletter.
+  * Fulfill orders you have placed;
+  * To better understand and serve your needs;
+  * Respond to you regarding the reason you contacted us;
+  * To enhance your customer experience and improve our customer service;
+  * Tailor offerings and advertisements to you that are in relation to the services you have requested; and
+  * Communicate with you about products, services and special offerings of Ramsey Solutions that may be of interest to you.
 
-_Note: We’ll have to hand over the information you provide if we’re ordered to do so by a court of law._
+
+
+We may also use this information to evaluate and manage our businesses. Combined data is collected from online and offline facilities and may be used to enhance the ability of Ramsey Solutions to communicate with you and to support business functions, such as internal business processes, marketing, authentication, customer service, fraud prevention, and public safety and legal functions.
+
+Your information will not be accessible to anyone, other than our staff or business affiliates, whose services you have requested. All that to say, we won't sell your information to all the spammers that clutter your inbox!
+
+We will make every effort to keep you informed of Ramsey Solutions’ special events, news and offers, so periodically, we may send these announcements via email or direct mail. If you do not wish to be contacted by Ramsey Solutions or our business affiliates, simply click on the unsubscribe link found at the bottom of the email newsletter.
+
+## Sharing of Information
+
+There may be times when we need to share your personal information with third-party service providers.  The reasons we may need to share this information with those providers are due to the services they provide, which include:
+
+  * Authorization of debit card and check transactions, order fulfillment, service promotions;
+  * Developing, hosting or maintaining the Sites on behalf of Ramsey Solutions; and
+  * Aggregating customer information and/or improving customer service. We may then share such aggregated information with prospective marketing partners and advertisers.
+
+
+
+These third-party service providers are only granted access to your personal information, as necessary, and they are contractually restricted in the ways they may use your information. The providers may also use cookies (as defined within this Policy), or other automatic collection technology on behalf of Ramsey Solutions.
+
+Moreover, in the event that a division, or part or all of Ramsey Solutions, is purchased, sold or otherwise transferred, or is in the process of a potential transaction, customer information will likely be shared for evaluation purposes and included among the transferred business assets.
+
+Ramsey Solutions may also be required to disclose specific information to comply with the law, a subpoena, or other litigation process. We may also disclose your information to protect the interests or safety of its visitors and customers, employees or others, which includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+
+## Access and Control Over Your Information
+
+At any time, you may contact us at [info.general@daveramsey.com](mailto:info.general@daveramsey.com) or by calling  **888.22.PEACE**  to request the correction of any inaccurate information you have submitted through the Sites, to review the data we have obtained about you, to change or correct any data we have about you, or to request that we delete any or all data we have about you.
+
+## Geographic Restrictions
+
+The Sites and web-based services are intended for access and use within the United States only and  complies with applicable United States privacy laws. The Sites and web-based services are not intended for, or directed to, citizens, domiciles or residents of the European Union. By accessing the Sites and web-based services, you affirm that you are not a citizen, domicile or resident of the European Union.
+
+## Do Not Track
+
+Do Not Track (DNT) is a privacy preference that users can set in some web browsers, allowing users to opt out of tracking by websites and online services. At the present time, the World Wide Web Consortium (W3C) has not yet established universal standards for recognizable DNT signals and therefore, Ramsey Solutions and the Sites do not recognize DNT.
+
+## Cookies Policy
+
+“Cookies" are defined as small pieces of information stored by your browser or other application on your computer's browser or hard drive. The cookies are used to connect your computer with information stored about your online activity, searches, preferences and product purchases, both within the same website visit and from one visit to the next, on the Sites and/or other websites. Some examples of the information cookies may store by your browser include your account preferences, user specific information on pages accessed, searched terms or addresses entered, and previous visits to the site. The "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive new cookies, or how to disable cookies altogether. If you reject cookies, you may not be able to participate in certain activities or receive a promotion tailored to you. The Sites does not control, and does not guarantee the effectiveness of browser-based tools for managing cookies.
 
 ## Security
 
-We are determined to keep your information private. We have even added measures to protect your personal information during transactions. For example, when you supply us with your debit card or checking account information to make a purchase, we encrypt your information to ensure a safe and secure transaction. Your payment information is temporarily stored on a secure server before processing.  
-All of the customer data we collect is protected against unauthorized access. We use vendors that specialize in providing secure online payment solutions. None of your payment information can be accessed via the internet. Hey, we buy things online, too, so we understand how important this issue is to you!
+Ramsey Solutions is committed to keep your information private and secure. We use industry-standard security techniques on the Sites to help protect against the loss, misuse or alteration of information collected from you at the Sites. We have even added measures to protect your personal information that is collected during transactions. For example, when you supply us with your debit card or checking account information to make a purchase, we encrypt your information to ensure a safe and secure transaction. Your payment information is temporarily stored on a secure server before processing. While we strive to protect your personal information, we cannot ensure the security of the information you transmit to us. In this regard, we urge you to take every precaution to protect your personal data while you are on the Internet. At a minimum, we encourage you to make sure that you are using a secure browser as you surf the Internet.
+
+## Other Sites
+
+The Sites may contain links to other sites, including those of our business partners. While we seek to link only to sites that share our high standards and respect for privacy and security, we are not responsible for the privacy practices used by other sites.
+
+## Children’s Privacy
+
+### Under Age 13
+
+Ramsey Solutions does not knowingly solicit or collect personally identifiable information online from children under the age of 13 without prior verifiable parental consent. If we learn that a child under the age of 13 has submitted personally identifiable information online without parental consent, we will take all reasonable measures to delete such information from our databases and not use such information for any purpose (except where necessary to protect the safety of the child or others as required or allowed by law).
+
+### Under Age 18
+
+Personal information that has been provided to Ramsey Solutions through the Sites by minors under the age of 18, can be deleted by sending an email requesting the deletion to [info.general@daveramsey.com](mailto:info.general@daveramsey.com).
+
+Please note that while we make reasonable efforts to comply with such requests, deletion of your personal information does not ensure complete and comprehensive removal of that data from all systems.
+
+If you become aware of any personally identifiable information we have collected from children or minors under this Children’s Policy, please contact us at [info.general@daveramsey.com](mailto:info.general@daveramsey.com), or by calling **888.22.PEACE**.
+
+## Changes to the Privacy Policy
+
+This Policy may be revised from time to time as we add new features and services, as laws change, and as industry privacy and security best practices evolve. When we revise the Policy, we will post the new Policy on this page and change the date located at the bottom of the Policy. We encourage you to return to this page periodically to check for any updates or changes. If we make any change to this Policy regarding use or disclosure of personal information, we will provide advance notice on the Sites. Small changes, or changes that do not significantly affect individual privacy interest, may be made at any time, and without prior notice.
 
 ## Contact
 
-Please contact us if you have any questions or concerns about our privacy policy. You are welcome to call our Customer Care Center at **888.22.PEACE** between 8:30 a.m. and 5:30 p.m. CST to speak with a customer service representative.
+Please contact us if you have any questions or concerns about our Privacy Policy. You are welcome to call our Customer Care Center at  **888.22.PEACE**  between 8:30 a.m. and 5:30 p.m. CST to speak with a customer service representative. You may also contact us by e-mail at  _[privacy@daveramsey.com](mailto:privacy@daveramsey.com)_.
 
-You may also contact us by e-mail at [privacy@daveramsey.com](mailto:privacy@daveramsey.com).
-
-The Lampo Group  
+The Lampo Group, LLC  
 1749 Mallory Lane  
-Brentwood, TN 37027  
+Brentwood, TN 37027
 
-
-_Still awake?_ Thanks for reading this privacy policy!
+_**Effective Date: September  12, 2018**_
