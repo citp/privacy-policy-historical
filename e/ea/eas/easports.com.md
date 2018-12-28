@@ -1,15 +1,17 @@
-> *The following text is extracted and transformed from the easports.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607085714id_/http%3A//tos.ea.com/legalapp/WEBPRIVACY/US/en/PC) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easports.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228013709id_/http%3A//tos.ea.com/legalapp/WEBPRIVACY/US/en/PC) for the most accurate reproduction.*
 
 # 
 
 Electronic Arts Inc.Privacy and Cookie Policy
 
-Last Updated: May 25, 2018  
-Effective Date: May 25, 2018
+Last Updated: November 15, 2018  
+Effective Date: November 15, 2018  
+
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=7d587a12-773f-4bf9-a209-d18047ee5f05 "TRUSTe Privacy Certification") [](https://privacy.truste.com/privacy-seal/validation?rid=e92a8af7-0d1a-4829-979e-35da0a860c6f)
 
-TABLE OF CONTENTS
+TABLE OF CONTENTS  
+
 
   1. Information We Collect
   2. How We Collect Information
@@ -148,6 +150,7 @@ We use your personal and non-personal information, both individually and combine
   * Identify, fix, and troubleshoot bugs and service errors;
   * Provide software updates;
   * Activate or authenticate your games and save game progress and stats;
+  * Run competitions and contests;
   * Adhere to your preferences and to deliver dynamic content; and
   * Help keep our services safe and fair, resolve disputes, investigate and help curb fraud and illegal behavior, comply with the law, and to enforce our agreements and policies.
 
@@ -178,7 +181,7 @@ We do not share personal information that directly identifies you (such as your 
 
 We employ third parties located in and outside of your country of residence (including outside of the European Economic Area (EEA)) to collect or process personal information on our behalf for various reasons, such as conducting market surveys, facilitating credit card processing, or sending emails. When our third party agents or service providers collect or receive personal information, we require that they use the data only on our behalf and for purposes consistent with this policy.
 
-We do not knowingly disclose personal information about children under 18 years of age to independent third parties even with consent.
+We do not knowingly disclose directly identifying personal information from children under 18 years of age to independent third parties even with consent.
 
 However, in the event of a reorganization, divestiture, merger, sale or bankruptcy, we may transfer all information we collect to the relevant third party and will obtain your consent to do so if required by law.
 
@@ -188,9 +191,9 @@ We do not control information sent from your browser to third parties, such as a
 
 Personal information we collect may be stored and processed for the purposes set out in this Privacy and Cookie Policy in the United States or any other country in which EA, its subsidiaries, or third party agents operate. By using our products, you acknowledge that your personal information may be transferred to recipients in the United States and other countries that may not offer the same level of privacy protection as the laws in your country of residence or citizenship.
 
-EA's privacy practices comply with the APEC Cross Border Privacy Rules System. The APEC CBPR system provides a framework for organizations to ensure protection of personal information transferred among participating APEC economies. More information about the APEC framework can be found at [www.cbprs.org](http://www.cbprs.org/).
+EA's privacy practices comply with the APEC Cross Border Privacy Rules System. The APEC CBPR system provides a framework for organizations to ensure protection of personal information transferred among participating APEC economies. More information about the APEC framework can be found at <https://www.apec.org/Groups/Committee-on-Trade-and-Investment/~/media/Files/Groups/ECSG/CBPR/CBPR-PoliciesRulesGuidelines.ashx>.
 
-Information is collected by our parent company, Electronic Arts, Inc. For information from the European Economic Area (EEA), Electronic Arts, Inc. holds certifications under the EU-US and Swiss-US Privacy Shield (which are available at [www.privacyshield.gov/participant?id=a2zt0000000GnuQAAS&status=Active](https://www.privacyshield.gov/participant?id=a2zt0000000GnuQAAS&status=Active). When Electronic Arts, Inc. transfers information from the EEA to other affiliates, agents or service providers that are outside the EEA, it will do so in compliance with the 'Accountability for Onward Transfer' principle of the Privacy Shield.
+Information is collected by our parent company, Electronic Arts, Inc. For information from the European Economic Area (EEA), Electronic Arts, Inc. holds certifications under the EU-US and Swiss-US Privacy Shield (which are available at [www.privacyshield.gov/participant?id=a2zt0000000GnuQAAS&status=Active](https://www.privacyshield.gov/participant?id=a2zt0000000GnuQAAS&status=Active)). When Electronic Arts, Inc. transfers information from the EEA to other affiliates, agents or service providers that are outside the EEA, it will do so in compliance with the 'Accountability for Onward Transfer' principle of the Privacy Shield.
 
 6\. How We Protect Your Personal Information
 
@@ -214,7 +217,7 @@ Under no circumstances do we condition a child's participation in an activity—
 
 We give you meaningful choices when it comes to important uses and collection of information. For example, you can update your account information and preferences, choose to opt in or out of EA marketing emails and choose whether to share your information with select EA partners. If you would like to opt out at any time after providing your consent, contact the appropriate Privacy Policy Administrator for your country listed at [privacyadmin.ea.com](http://privacyadmin.ea.com/) or write to Privacy Policy Administrator, Electronic Arts Inc., 209 Redwood Shores Parkway, Redwood City, CA 94065.
 
-You also can review and change most of your preferences through your EA Account settings. If you need additional assistance, please contact [help.ea.com](https://help.ea.com/en/). Where we rely on consent to collect and use information about you, you can withdraw your consent at any time.
+You also can review and change most of your preferences through your EA Account settings. If you need additional assistance, please contact [help.ea.com](https://help.ea.com/en/). If you no longer wish to receive marketing emails from EA, you may also click the unsubscribe link included in the footer of every marketing email we send. Where we rely on consent to collect and use information about you, you can withdraw your consent at any time.
 
 You may deactivate your EA Account or delete the personal information associated with your account by contacting [help.ea.com](https://help.ea.com/en/) or your Privacy Policy Administrator in your country listed on our site at [privacyadmin.ea.com](http://privacyadmin.ea.com/). If you do so, you will no longer have access to the EA games or services associated with your account. Note that EA may retain information needed to resolve disputes, enforce our user agreements, protect our legal rights, and comply with technical and legal requirements and constraints related to the security, integrity and operation of our products. Otherwise, we will retain your personal information for as long as reasonably necessary to provide you services, create and improve our products, comply with the law, and to run our business.
 
