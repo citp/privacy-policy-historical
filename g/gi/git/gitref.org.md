@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gitref.org privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630180640id_/https%3A//help.github.com/articles/github-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gitref.org privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228153954id_/https%3A//help.github.com/articles/github-privacy-statement) for the most accurate reproduction.*
 
 # GitHub Privacy Statement - User Documentation
 
@@ -128,7 +128,7 @@ You also have the option of adding applications from GitHub, such as our Desktop
 
 ###  How you can access and control the information we collect
 
-If you're already a GitHub user, you may access, update, alter, or delete your basic user profile information by [editing your user profile](https://github.com/settings/profile) or contacting [GitHub Support](https://github.com/contact). You can control the information we collect about you by limiting what information is in your profile, by updating out of date information, or by contacting [GitHub Support](https://github.com/contact).
+If you're already a GitHub user, you may access, update, alter, or delete your basic user profile information by [editing your user profile](https://github.com/settings/profile) or contacting [GitHub Support](https://github.com/contact) or [GitHub Premium Support](https://premium.githubsupport.com/). You can control the information we collect about you by limiting what information is in your profile, by updating out of date information, or by contacting [GitHub Support](https://github.com/contact) or [GitHub Premium Support](https://premium.githubsupport.com/).
 
 ####  Data portability
 
@@ -140,7 +140,7 @@ Generally, GitHub will retain User Personal Information for as long as your acco
 
 We may retain certain User Personal Information indefinitely, unless you delete it or request its deletion. For example, we don’t automatically delete inactive user accounts, so unless you choose to delete your account, we will retain your account information indefinitely.
 
-If you would like to cancel your account or delete your User Personal Information, you may do so in your [user profile](https://github.com/settings/admin). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, but barring legal requirements, we will delete your full profile (within reason) within 90 days. You may contact [GitHub Support](https://github.com/contact) to request the erasure of the data we process on the basis of consent within 30 days.
+If you would like to cancel your account or delete your User Personal Information, you may do so in your [user profile](https://github.com/settings/admin). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, but barring legal requirements, we will delete your full profile (within reason) within 90 days. You may contact [GitHub Support](https://github.com/contact) or [GitHub Premium Support](https://premium.githubsupport.com/) to request the erasure of the data we process on the basis of consent within 30 days.
 
 After an account has been deleted, certain data, such as contributions to others' repositories and comments in others' issues, will remain. However, we will delete or deidentify your personal information, including your user name and email address, from the author field of issues, pull requests, and comments by associating them with the [ghost user](https://github.com/ghost). 
 
@@ -226,9 +226,9 @@ If you have concerns about the way GitHub is handling your User Personal Informa
 
 You may also contact our Data Protection Officer directly.
 
-Our Data Protection Officer | Our EU Office  
+Our United States HQ | Our EU Office  
 ---|---  
-Hannah Poteat | GitHub BV  
+GitHub Data Protection Officer | GitHub BV  
 88 Colin P. Kelly Jr. St. | Vijzelstraat 68-72  
 San Francisco, CA 94107 | 1017 HL Amsterdam  
 United States | The Netherlands  
