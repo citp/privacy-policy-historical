@@ -1,153 +1,346 @@
-> *The following text is extracted and transformed from the beautyhigh.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630182340id_/http%3A//www.sheknows.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautyhigh.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228200410id_/https%3A//pmc.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy |
 
-[www.AllParenting.com](http://www.allparenting.com/)
+* **Introduction.**  
+This privacy policy (“ **Privacy Policy** ”) explains the data protection practices of Penske Media Corporation and its subsidiaries and affiliates (collectively, “ **PMC** “, “we” and “us”) when you visit or use the websites, mobile-optimized version of our websites, and digital applications to which this policy is linked (collectively, “ **Websites** “). PMC’s subsidiaries and affiliates include BGR Media, LLC, Deadline Hollywood, LLC, Fairchild Publishing, LLC, Gold Derby Media, LLC, HollywoodLife.com, LLC, IndieWire Media, LLC, Robb Report Media, LLC, Rolling Stone, LLC, SK Media Group, LLC, Spy Media, LLC, TVLine Media, LLC, Variety Media, LLC, Sourcing Journal Media, LLC, and Rolling Stone, LLC. For the purposes of data protection laws, PMC is the data controller. For information about the publisher and blogger network advertising services of SK Media Group, LLC, please read the SheKnows Ad Services Policy. 
 
-[www.BlogHer.com](http://www.blogher.com/)
+This Privacy Policy is incorporated into and subject to the Websites’ Terms of Use.
 
-[www.DailyMakeover.com](http://www.dailymakeover.com/)
+**If you do not agree to the Terms of Use and this Privacy Policy, you must discontinue using the Websites and all services and features therein. By using the Websites, you acknowledge you have read and understand this Privacy Policy.**
 
-[www.DrinksMixer.com](http://www.drinksmixer.com/)
+* **Applicability**  
+(a) This Privacy Policy applies whenever and however you access or use the Websites, whether via personal computers, mobile devices or other devices (each a “ **Device** ”). “Websites” includes all subdomains of Websites and any content, code, data, services, features or functionality made available from or through the Websites. 
 
-[www.FabulousFoods.com](http://www.fabulousfoods.com/)
+(b) We may offer the print and digital magazines, websites and other editorial properties published by PMC (the “ **Publications** ”) through certain third party websites via subscription pages on such third party websites that are linked to this Privacy Policy. For the avoidance of doubt, such subscription pages are considered “Websites” and this Privacy Policy applies to information collected through the subscription pages, but does not apply to information collected through the third party website.
 
-[www.HarryPotterFans.com](http://www.harrypotterfans.com/)
+(c) Except as specified herein, this Privacy Policy does not apply to information you may provide to us offline; however please do be aware that if you subscribe offline to one of the Publications, from time to time we make your postal addresses available to companies for marketing purposes.
 
-[www.PregnancyandBaby.com](http://www.pregnancyandbaby.com/)
+(d) Certain features of the Websites may be subject to additional or different privacy provisions, which will be posted on the Website in connection with such features. All such additional or different privacy provisions are incorporated by reference into this Privacy Policy.
 
-[www.SheKnows.com](https://web.archive.org/)
+* **Information We Collect.**  
+**(a) Information You Provide To Us.**  
+We collect the information you provide when you enter a sweepstakes or contest, complete a survey, participate in a reader panel, register for a part of our Websites, register for a summit or event, make a purchase, participate in our social networking features, request back issues of our Publications, subscribe to our Publications, subscribe to newsletters, promotional correspondence, or other electronic services, or send us an email or feedback. If you elect to post material to any blogs, forums, participate in our social networking features or other community boards that may be offered on our Websites, then such materials will be collected and some information, including your posted pseudonym, may be publicly available for others to view. The information you may provide includes: 
 
-[Australia.SheKnows.com](http://australia.sheknows.com/)
+  * _**Registration or Subscription Information, Communications and Requests from You, and Your Submissions.** _When you engage in activities on the Websites such as those above, you may be asked to provide information such as your e-mail address, name, phone number, shipping address, and billing information, and we (or third party service providers on our behalf) will collect such information as well as any other content you provide us in engaging in any of the above activities. Information such as your age, date of birth, gender, hobbies or interests may also be requested.
+  * _**Billing and Credit Card Information.** _To enable payment for subscriptions to our Publications, our vendors collect and store billing and credit card information. This information may be shared with us, and will only be shared with third parties who perform tasks required to complete the purchase transaction such as fulfilling orders and processing credit cards. We also use third party platforms to process payments for some of our events and summits, and these third party platforms may collect and store billing and credit card information. The processing of your billing and credit card information by these third party platforms are subject to their privacy policies. Some of our Websites may accept billing and credit card information by phone or mail to process payments for advertisements and listings. This information will only be used by us to process the authorized payments.
+  * _**Social Networking Information.** _You may be given the option to link your account on a third party social networking service with one or more of the Websites. In that case, the authentication of your login credentials are conducted through that third party social networking service. When you link your social networking accounts with Websites or engage with Websites through third party social media platforms, we may have access to certain of your information stored on those social networking media services depending upon the service and your privacy settings. In addition, as you interact with the Websites, the social networking service may collect information about your activities on the Websites. We recommend you review the information your third party social networking services may make available to us by visiting those services’ privacy policies and/or modifying your privacy settings directly with those services. As noted below, we reserve the right to use, transfer, assign, sell, share and provide access to all information that we receive through these third party social media services in the same ways described in this Privacy Policy. You agree that we shall not be liable for the use by social networking services of any information.
 
-[Canada.SheKnows.com](http://canada.sheknows.com/)
 
-[UK.SheKnows.com](http://uk.sheknows.com/)
 
-[www.SoapOperaFan.com](http://www.soapoperafan.com/)
+**(b) Information Automatically Collected As You Access and Use the Websites  
+****Usage Information.** In addition to any information that you choose to submit to us, to provide you with services and content that are more customized to your interests, PMC and our third-party service providers and advertisers may use a variety of technologies (including cookies, Flash cookies, web beacons and embedded scripts) (“ **Cookies** ”) that automatically or passively collect information when you visit or interact with the Websites (the “ **Usage Information** ”). This Usage Information may include, without limitation, your IP address, the URL that referred you to our Websites and all of the areas within our Websites that you visit, the web sites you visit after this web site; the ads you see; the ads you click on; other information about the type of web browser, computer, platform, related software and settings you are using; any search terms you have entered on this web site or a referral site; if you share our content to social media platforms; and other web usage activity and data logged by our web servers. Your IP address is usually associated with the place from which you enter the Internet, like your Internet Service Provider, your company or your library. We use your IP address for a variety of purpose, including to help diagnose problems with our servers, gather broad demographic information, and administer our Websites. We may also link this information with your other information when we feel that it is necessary to enforce compliance with our subscription or usage rules and policies or terms of service or to protect our Websites, customers or others.
 
-[www.StyleCaster.com](http://www.stylecaster.com/)
+Usage Information gathered from your use of the Websites may be combined with information from third party sources to identify your location by state and region.
 
-[www.SheKnowsMedia.com](http://www.sheknowsmedia.com/)
+For more information, **see “Cookies and Other Tracking Technologies” below**.
 
-(collectively, the "Website")
+**Geolocation Information.** With your consent, certain mobile Websites or a third party such as an advertiser may collect and use your geolocation to provide you with information about goods and services within your geographic location or implement other functionality in the Website, such as to serve targeted advertising. In addition, when you have geolocation software running on your mobile phone, computer or other device, we may collect that information as controlled by your privacy settings on those devices. **By using such service, you hereby consent to our collection, use and disclosure of your geolocation information as described.**
 
-SheKnows, LLC, an Arizona limited liability company, and its affiliated companies, including StyleCaster, Inc., a Delaware corporation, and BlogHer Inc., a Delaware corporation (collectively, "Company," "we," or "us"), knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by Company when you use the Website, any mobile versions of the Website, any applications published by the Company that you download from the Website or from a third-party, and other related services (the "Service"), how the information will be used and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy. To the extent that any terms of the Privacy Policy conflict with the terms of an existing written (including electronic) agreement between you and the Company regarding the use of specific areas of the Website or specific services (collectively, the "Other Agreements"), the terms of such Other Agreements shall govern.
+**(c) Information We Collect From Third Parties.**  
+We may acquire information from other trusted sources to update or supplement the information that you provided or we collected automatically, such as information to validate or update your address or other demographic information and lifestyle information. We use this information to help us maintain the accuracy of the information we collect, to target our communications so that we can inform you of products, services and offers that may be of interest, and for internal business analysis or other business purposes. We may also acquire information from other sources about your visits over time and across other third party web sites, in order to serve more targeted advertising to you on the Website(s). Those third parties have privacy policies that differ from this Privacy Policy.
 
-#### Information We Collect
+**(d) Information You Provide About A Third Party.**  
+At some Websites and through certain promotions, you can submit information about other people such as a person’s name and mailing address to send a gift. This information is used to facilitate the communication or provide the service and may otherwise be used as set forth herein. If that person becomes a subscriber to one of more of our Publications, or becomes an attendee or sponsor or speaker at one of more of our events, his/her information will be treated in the same manner as all others in that category. Please be aware that when you use any send-to-a-friend functionality on our Websites, your email address may be included in the communication sent to your friend.
 
-**User-Provided Information:** You provide us information about yourself, such as your name and email address, when you register with the Service. Also, you may provide information when you participate in sweepstakes and contests, message boards and chat rooms, leave a comment on the Website, respond to one of our surveys, or use Try On technology other interactive areas of our Website (all such information and material, "User Content"). If you correspond with us by email, we may retain the content of your email messages, your email address and our responses.
+* **How We Use and Share the Information Collected.**  
+In addition to the other disclosures described in this Privacy Policy, PMC may (and you authorize us to) share or disclose information collected from and about you on the Websites to other companies or individuals as set forth below. We may provide access to information to vendors that are performing services on our behalf, including fulfilling subscriptions to our Publications, managing our email lists and sending email messages on our behalf, processing payments, providing customer support and performing other administrative services, in order to carry out such services (the “ **Service Provider Use** ”). 
 
-**Cookies Information:** When you visit the Website, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer, mobile or other device ("Local Device Storage") that uniquely identifies your browser or device and allows Company to help you log in faster and enhance your navigation through the Website. A cookie does not collect personal information about you from which your individual identity can be established. Company uses both session cookies and persistent cookies. A persistent cookie remains in your Local Device Storage after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the Service. Persistent cookies can be removed by following your web browser's or Local Device Storage's directions. A session cookie is temporary and disappears after you close your browser. You can set your web browser to refuse all cookies or to indicate when a cookie is being sent. Therefore, some features of the Service may not function properly or at all if the ability to accept all cookies is disabled. Other cookies collect information about your browsing habits in order to help us and advertisers make suggestions relevant to you and your interests. They remember the websites you have visited and that information is shared with other parties such as advertisers. For example, we use third parties to provide you with more personalized advertisements when visiting other websites. You can change the settings on your browser or Local Device Storage to prevent cookies being stored on your Local Device Storage without your explicit consent. Your browser "help" section will normally provide details on how to manage the cookie settings.
+**(a) Provide, Manage and Improve our Websites.** PMC uses information we collect from you in part to provide you with the goods and service you have requested (e.g., to sign up for an event, request promotional materials directly from a third party partner), to respond to your inquiries, to administer the Websites and for other lawful business purposes.
 
-**Social Networking:** If you choose to access, visit and/or use any third-party social networking service(s) that may be integrated with the Service, we may receive personally identifiable information and other information about you and your computer, mobile and other device that you have made available to those services, including information about your contacts on those services. For example, some social networking services allow you to push content from our Service to your contacts or to pull information about your contacts so you can connect with them on or through our Service. Some social networking services also will facilitate your registration for our Service or enhance or personalize your experience on our Service. Your decision to use a social networking service in connection with our Service is voluntary. However, you should make sure you are comfortable with the information your third-party social networking services may make available to our Service by vising those services' privacy policies and/or modifying your privacy settings directly with those services. We reserve the right to use, transfer, assign, share and provide access to all personally identifiable information and other information about you and your computer, mobile or other device that we receive through third-party social networking services in the same ways described in this Privacy Policy as all of your other information.
+**(b) Advertising and Analytics.** We use the information in connection with advertising and to serve other content, as described below.We also use the information we collect and obtain about you to measure and improve our Websites, to customize certain features of the Websites, to deliver relevant content and to provide you with an enhanced experience based on the type of device you are using.
 
-**Log File Information:** Log file information is automatically reported by your browser each time you access a web page. When you register with or view our Website, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, referring / exit pages and URLs, number of clicks, domain names, landing pages, pages viewed and other such information.
+**(c) Transactional Communications.** We use the information provide transactional or service communications about the Websites, such as to notify you when you have won one of our contests or sweepstakes or other promotions (a “ **Promotion** ”), when we make changes to subscriber agreements, to fulfill a request for you for an email newsletter, or to contact you about your account. If you wish to unsubscribe from our email newsletters, please follow the unsubscribe/opt-out instructions at the bottom of the newsletter.
 
-**Information Storage:** Your information may be transferred to, and maintained on, servers and databases located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as your jurisdiction. Be advised that Company may transfer your information to and from any state, province, country or other governmental jurisdiction, and process it in the United States or elsewhere. Your consent to the Company's Privacy Policy followed by your submission of information represents your agreement to any such transfer.
+**(d) Reader Surveys.** We may collect information from you in connection with voluntary surveys about your readership of our Publications, your household/personal characteristics and your purchase behavior. The information you provide in any audience marketing surveys will only be shared in the aggregate with advertisers and partners unless we notify you otherwise at the time of collection. Any other survey results may be shared with advertiser and partners, at our discretion, unless we notify you otherwise at the time of collection.
 
-**Clear Gifs Information:** When you use the Service, we may employ clear gifs (a.k.a. Web Beacons) which are used to track the online usage patterns of our users anonymously. No personally identifiable information from your Company account is collected using these clear gifs. In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened by recipients. The information is used to enable more accurate reporting, improve the effectiveness of our marketing and make us better for our users.
+**(e) Editorial Use.** In addition, we may use information you provide us through emails, blogs, forums, in response to polls, or through any other user generated submission for editorial purposes, and may use your name and any stories you provide us in articles published in our Publications. If you provide us with personal anecdotes, they may be attributed to you. PMC can edit, rewrite, use, and reuse the content, including your name, likeness, photograph, and biographical information you provide, with or without attribution, including publication in the Publications, and in trade media, and advertising. You hereby consent to this.
 
-**New Technology:** As we adopt additional technology, we may also gather information through other means and there may be other technologies present that act in a similar way, but are protected by confidentiality.
+**(f) Marketing.** Subject to applicable law, we may combine and use any and all information we collect on you either online or otherwise, including from third parties, for marketing purposes, including sending you promotional emails regarding special offers about our products and services or on behalf of third party marketing partners who we think can offer services and products of interest to you. Unless we expressly notify you otherwise at the time of collection, we also may disclose information that we receive from you and from third party sources to third parties whose practices are not covered by this privacy statement (e.g. other marketers, magazine publishers, retailers, participatory databases and non-profit organizations) that want to market products or services to you. This includes licensing information about your interests and activities, and marketing segments created with such data, which we may share with third parties for their marketing purposes.
 
-#### How We Use Your Information
+**(g) Wireless Email Address and Short Message Services.** If the email address you provide to us is a wireless email address, we will send you and you agree to receive messages at such address from PMC or from third parties. Similarly, we may make available services through which you can receive messages on your phone or wireless device SMS Service. If you subscribe to one of our SMS Services, you thereby agree to receive services and messages at the address you provide for such purposes. Such messages may come from PMC, or from third parties. You may opt-out of these messages from us by following the instructions provided in the message. To use the wireless email address or SMS Service, you must reside in the United States. We may also obtain the date, time and content of your messages. We will use the information we obtain in connection with these services in accordance with this Privacy Policy. Your wireless carrier and other service providers may also collect data about your wireless device usage, and their practices are governed by their own policies. **By providing us your wireless email address or by signing up for any SMS Service, you consent to receiving messages as described above. You understand that your wireless carrier’s standard rates apply to these messages. You represent that you are the owner or authorized user of the wireless device on which messages will be received, and that you are authorized to approve the applicable charges.**
 
-We use the information you submit (including any personal information) to operate, maintain and provide to you the features and functionality of the Service or otherwise in connection with our business in relation to the Service. By using the Service you consent to this use and any other use of information identified in this Privacy Policy. For example, if you enter an online sweepstakes, we will use this information to notify you if you are a winner. We may also use the information to communicate with you about new features, products or services, and/or to improve the services that we offer by tailoring them to your needs.
+**(h) Promotions.** By agreeing to participate in a Promotion, you are agreeing to the official rules that govern that Promotion.
 
-Any information or content that you voluntarily disclose for posting to the Service (for instance, in User Content you post on message boards, in chat areas, or leave a comment to an article) becomes available to the public. You should be aware that even if you remove User Content, copies may remain viewable in cached and archived pages or if other users have copied or stored your User Content.
+**(i) Anonymous Information.** We may create aggregated or anonymized information about you and other users of the Websites by excluding information (such as your name) that relate to an identifiable individual (“Anonymous Information”). We may use this Anonymous Information for any purpose permitted under the law and disclose Anonymous Information to third parties in our sole discretion.
 
-By providing Company your email address, you consent to our using the email address to send you Service-related notices, including any notices required by law, in lieu of communication by postal mail. We may also use your email address to send you other messages, such as newsletters, changes to features of the Service or special offers. If you do not want to receive such email messages, you may opt out by sending an email message to [legal@sheknows.com](mailto:legal@sheknows.com?subject=No) with the word "No email - SheKnows" in the subject field. Opting out may prevent you from receiving email messages regarding updates, improvements or offers.
+**(j) Third Party Contests and Promotions.** In some cases you may have entered a contest or sweepstakes sponsored by a third party, in which case the information you provide via the contest or sweepstakes may be shared by us with that third party for their use in their discretion, including direct marketing. Some of our contests and sweepstakes will ask you at the time of entry whether you would like to have your personal information shared with the sponsor, in which case we will honor your selection. Other contests will not give you that option and in that event, if you do not want your information to be shared, you should not enter the contest. The privacy policies of such third party companies apply to their use and disclosure of your information that we collect and disclose to such third party companies.
 
-Company may use certain information about you and/or your User Content without identifying you as an individual to third parties. We do this for purposes such as analyzing how the Service is used, diagnosing service or technical problems, maintaining security and personalizing advertisements and promotions.
+**(k) Cross-Device Tracking.** We may use cookies in combination with the information we collect — for instance, IP addresses and unique mobile device identifiers — to locate or try to locate the same unique users across multiple browsers or devices (such as smartphones or tablets), or work with service providers that do this, in order to save your preferences across devices and analyze usage of the Websites.
 
-Company reserves the right, but has no obligation, to monitor the User Content you post on the Website. Company has the right to remove any such User Content for any reason or no reason, including, without limitation, if in its sole opinion, such User Content violates, or may violate, any applicable law or our Terms of Use, which are incorporated herein by reference, or to protect or defend Company's rights or property or those of any third party. Company also reserves the right to remove User Content upon the request of any third party.
+**(l) Affiliates.** We may transfer your information to other PMC offices and affiliates for internal management and administrative purposes on our behalf.
 
-We use cookies, clear gifs and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the Website; (b) provide custom, personalized content and information; (c) monitor the effectiveness of the Service; (d) monitor aggregate metrics such as total number of visitors and traffic; (e) diagnose or fix technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP; and (f) help you efficiently access your information after you sign in to the Website.
+**(m) Administrative and Legal Reasons.** Notwithstanding anything herein to the contrary, we may at all times and in any manner access, use, preserve, transfer and disclose your information, including disclosure to third parties: (i) to satisfy any applicable law, regulation, subpoenas, governmental requests or legal process, or in connection with a legal investigation, if in our good faith opinion such is required or permitted by law; (ii) to protect and/or defend the Websites’ Terms of Use or other policies applicable to the Websites, their content, services or functionality, including investigation of potential violations thereof; (iii) to protect the safety, rights, property or security of the Websites or any third party (for example, if we are trying to collect money you owe us); and/or (iv) to detect, prevent or otherwise address fraud, security or technical issues. Further, we may use Identifiers and other information to identify users, and may do so in cooperation with third parties such as copyright owners, internet service providers, wireless service providers and/or law enforcement agencies, including disclosing such information to third parties, all in our discretion (the “ **Legal Use** ”). Such disclosures may be carried out without notice to you.
 
-If you do not wish to receive future commercial messages from us, simply follow the unsubscribe instructions contained within the message you receive. Note that you may continue to receive certain communications from us, such as transactional or relationship messages, and/or messages about your account profile.
+**(n) Sales or Transfer of Business or Assets.** In connection with a sale, merger, transfer, exchange, or other disposition (whether of assets, stock, or otherwise, including via bankruptcy) of all or a portion of the business conducted by the Website to which this policy applies, in which case the company will possess the information collected by us and will assume the rights and obligations regarding your information as described in this Privacy Policy (the “ **Acquisition Use** ”).
 
-We may also allow access to our database by third parties that provide us with services, such as technical maintenance, market research, community and forums management, auction services, and shopping, personal/job search and other classified ads functionality, but only for the purpose of and to the extent necessary to provide those services. If you choose to purchase merchandise, products and/or services on or through features on the Service, we may forward your information to third parties for services such as credit card or other payment processing, order fulfillment, credit pre-authorization, and address verification. There are also times when you provide information about yourself to us in areas of the Service that may be managed or participated in by third parties. In such cases, the information may be used by us and by such third party(ies), each pursuant to its own policies. We may also provide your information to our advertisers, so that they can serve ads to you that meet your needs or match your interests. While we may seek to require such third parties to follow appropriate privacy policies and will not authorize them to use this information except for the express purpose for which it is provided, we do not bear any responsibility for any actions or policies of third parties.
+**(o) Social Networks.** As noted, above, if you use your login credentials from a social media networking service on a Website, we may receive information from such service in accordance with its terms and privacy policy and your settings. If you elect to share your information with these social networking sites, we will share information with them in accordance with your election. The terms and conditions of these social networking sites will apply to the information we disclose to them.
 
-We reserve the right to access, use, and share with others your personally identifiable information for purposes of health, safety and other matters in the public interest.
+**(p) Co-Branded Areas.** Some of our Websites may from time to time partner with a retailer or other third party to offer online shopping opportunities, games, services, subscriptions, registration opportunities for our events and summits and other applications on a co-branded or cross-promotional basis ( **“Co-Branded Areas”** ). Those transactions on the Co-Branded Areas may take place on a Website, or the site of the third party. In either case, the information you provide in connection with the transaction may be collected directly by, or shared by PMC with, the third party, as well as with any participating sponsors or advertisers of such Co-Branded Areas. Some of our Websites may offer you the ability to access a third-party site with whom we have a relationship to access both sites through a co-branded registration or password; in that event, your applicable registration information may be collected directly by, or shared by PMC with, the third-party partner. We will notify you at the applicable point of sign up if any such co-branded registration or password practices will be in effect. These third parties will use your information in accordance with their own privacy policy.
 
-In addition, we reserve the right to use the information we collect about your computer, mobile or other device (including its geographic location), which may at times be able to identify you, for any lawful business purpose, including without limitation to help diagnose problems with our servers, to gather broad demographic information, analyze trends, track users' movements around the Service, and to otherwise administer the Service. Geographic location information about you and/or your computer, mobile or other device may specifically be used to show you content and sponsored messaging based on geographic location.
+**(q) Information You Disclose Publicly.** You may submit photographs, user profiles, written material, music, video, photos, comments and other content, which may include information relating to individual users (collectively, “ **UGC** ”) on the Websites. We do not control who will have access to the UGC you choose to make public or how they will use it and take no responsibility for ensuring such UGC remains private or is secure. The UGC is not subject to this Privacy Policy. We are also not responsible for the accuracy, use or misuse of any UGC that you disclose or receive through the Websites. Please see our Terms of Use for further information about the terms that govern the UGC you post.
 
-We reserve the right to use, transfer, sell and share aggregated, anonymous data about our users as a group for any lawful business purpose, such as analyzing usage trends and seeking compatible advertisers, sponsors, clients and customers.
+* **Legal Grounds for Using (Processing) Your Information  
+**If you are a visitor from the European Economic Area, our legal basis for collecting and using the information described above will depend on the information concerned and the context in which we collect it. 
 
-In addition, as our business changes, we may buy or sell various assets. In the event all or a portion of the assets owned or controlled by us, our parent or any subsidiary or affiliated entity are sold, assigned, transferred or acquired by another company, the information from and/or about our Service users may be among the transferred assets.
+We collect information from you:
 
-We reserve the right to identify you from information you provide to us and/or to merge or co-mingle anonymous or non-personally identifiable data about you, your offline and online behavior, and/or your computer, mobile or other device (including its geographic location), with the information you provide to use and/or other personally identifiable data for any lawful business purpose.
+  *     * where we need it to perform our contract with you (i.e. our Terms of Service),
+    * where the processing is in our legitimate interests (provided that these aren’t overridden by your interests or rights)( such as personalizing our services and marketing for example), or
+    * if we otherwise have your consent.
 
-#### How We Share Your Information
 
-**Personally Identifiable Information:** Except as described in this Privacy Policy, Company will not rent or sell your personally identifiable information to others.
 
-Company may share your personally identifiable information or information about your computer, mobile or other device with our affiliates and third parties solely for the purpose of providing services to you. We may store personal information in locations outside the direct control of Company (for instance, on servers or databases co-located with hosting providers).
+If you have questions about or need further information concerning the legal basis on which we collect and use your information, please contact us using the contact details provided under the **“Contact Us” section below**.
 
-As we develop our business, we may buy or sell assets or business offerings. Customer, email and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer such information in the course of corporate divestitures, mergers or dissolution.
+* **Online Analytics and Advertising**  
+**Delivery of Advertising and Other Content.** In addition to ads and content that we serve you directly, PMC may use third party advertising companies and marketing services to serve ads and other content when you visit the Websites and elsewhere on the internet and in other media. We also use analytics services supported by third party companies to perform analytics and track trends. We work with other third parties to provide certain functionalities on the Websites and to improve the effectiveness of the Websites and its content. Those third party companies may use Tracking Technologies to collect and store Usage Information about you and may combine this information with information they collect from other sources. If you access the Websites through a mobile device or app, we may also share your information with mobile carriers, operating systems and platforms. 
 
-Except as otherwise described in this Privacy Policy, Company will not disclose personal information to any third party unless required to do so by law, regulation or subpoena or if we believe that such action is necessary to: (a) conform to the law, comply with legal process served on us or our affiliates or investigate, prevent or take action regarding suspected or actual illegal activities; (b) to enforce our Terms of Use, take precautions against liability, to investigate and defend ourselves against any third-party claims or allegations, to assist government enforcement agencies or to protect the security or integrity of our Website; and (c) to exercise or protect the rights, property or personal safety of Company, our users or others. Please note we may not provide notice prior to disclosure in such cases.
+To provide ads on the Websites, we use a variety of third party advertising service providers, including networks, data exchanges, ad servers, analytics providers and others. The list of third party providers is found in the Section below entitled “Third Party Cookies” **here**. This list may be updated from time to time. These third parties may use technology to send, directly to your Device, the advertisements and links that appear on the Websites. They may automatically receive your IP address, web browser, operating system, and time and location information, geodevice type and device ID when this happens. The third party service providers, as well as the advertisers themselves, may collect and use information about your visits over time and across the Websites and other third party web sites, as well as information received from other sources, in order to serve more targeted advertising to you on the Websites. Third parties may also use information gathered from your usage of the Websites to serve targeted advertisements to you on third party websites and applications. Google is one of the companies that we use to serve advertising and perform analytics on some of the Websites. We and third party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to help implement the above uses of your information.
 
-**Non-Personally Identifiable Information:** We may share non-personally identifiable information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to help them understand the usage patterns for certain Company services.
+We also use Google Analytics along with audience data (such as age, gender and interests of users) to help understand users’ visits to the Websites and to optimize the content that we serve to users.
 
-Company allows other companies, called third-party ad servers or ad networks, to serve advertisements on the Website. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the Website. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content.
+We endeavor to adhere to the Digital Advertising Alliance’s (DAA) self-regulatory principles governing interest-based advertising.
 
-Company does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks Company to show an advertisement to a certain audience and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach.
+**Your Choices about Ads and Analytics.**  
+To learn more about how to manage your preferences regarding our cookie-based advertising, please see the **“Cookie Management” section in our Cookie Notice below**.
 
-You should consult the respective privacy policies of these third-party ad servers or ad networks. This Privacy Policy does not apply to, and we cannot control the activities of, such advertisers.
+In addition, if you do not want to receive tailored in-application advertisements from third parties that relate to your interests in apps on your mobile device, you may opt-out by adjusting the ad tracking settings on your mobile device. You can also reset the “Advertising Identifier” (like an IDFA) from your mobile device’s settings page, which will prevent continued use of existing behavioral data tied to the previous “Advertising Identifier.” Like the opt-out tools mentioned above for web, these mobile opt-out tools are provided by third parties, and we do not control or operate these tools.
 
-#### How We Protect Your Information
+Please note that you may still receive advertisements from third parties within the Websites even if you opt out of tailored advertising but they will not be based on your activity across unrelated web sites or apps.
 
-Company uses commercially reasonable physical, managerial and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Company and you do so at your own risk. Once we receive your transmission of information, Company makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered or destroyed by breach of any of our physical, technical or managerial safeguards.
+**Do Not Track**. PMC does not act on “do not track” requests from your browser because, this way, we are able to personalize your experiences on our Websites. For more information, go to [http://www.networkadvertising.org](http://www.networkadvertising.org/) or [http://www.aboutads.info](http://www.aboutads.info/).
 
-To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications from Company, at all times.
+* **Data Subject Rights & Your Choices**  
+Subject to certain local laws, you have certain rights with respect to your information as further described in this section. 
 
-#### Compromise of Personal Information
+**(a) Your Legal Rights.** If you would like further information in relation to your legal rights under applicable law or would like to exercise any of them, please contact us using the information in the “Contact Us” section below at any time. Your local laws may permit you to request that we:
 
-In the event that personal information is compromised as a result of a breach of security, Company will take commercially reasonable measures to promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy or as otherwise required by applicable law.
+  * provide access to and/or a copy of certain information we have about you;
+  * prevent the processing of your information for direct-marketing purposes;
+  * update information which is out of date or incorrect;
+  * delete certain information which we have about you;
+  * restrict the way that we process and disclose certain of your information;
+  * transfer your information to a third party provider of services; and
+  * revoke your consent for the processing of your information.
 
-#### Your Choices About Your Personal Information
 
-You may, of course, decline to submit personally identifiable information to Company, in which case Company may not be able to provide certain services to you.
 
-#### Children's Privacy
+We will consider all requests and provide our response within the time period stated by applicable law. Certain information may be exempt from such requests in some circumstances, which may include if we need to keep processing your information for our legitimate interests or to comply with a legal obligation. We may request you provide us with information necessary to confirm your identity before responding to your request.
 
-Protecting the privacy of young children is especially important. For that reason, Company does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number or email address. No one under age 13 is allowed to provide any personal information to Company. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [legal@sheknows.com](mailto:legal@sheknows.com).
+**(b) Marketing Emails.** If you want to stop receiving promotional e-mails from us, click on the “unsubscribe” link in any promotional email from us. Please note that once we receive your request, it may take an additional period of time for your opt-out to become effective. We may still communicate with you from time to time if we need to provide you with transaction information about the Websites you are using, if we need to request information from you with respect to a transaction initiated by you, or for other legitimate non-marketing reasons, for example, if we update this Privacy Policy or our Terms of Service.
 
-#### Third Parties
+**(c) SMS Communications.** You may opt-out of SMS messages from us by following the instructions provided in the message or by texting back STOP to the number we send the text from for that particular SMS message. When we receive an opt-out message from you for SMS messages, we may send a message confirming our receipt of your opt-out.
 
-Company expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our Website, may have their own privacy and data collection policies and practices.
+**(d) Geolocation.** If you have previously allowed us to access your geolocation data, you can stop making geolocation available to us by visiting your mobile device’s settings for the relevant application or the “settings” page for the relevant game.
 
-You should also be aware that if you voluntarily disclose information (including personally identifiable information) on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond our control and outside the scope of this Privacy Policy.
+**(e) California Users: Your California Privacy Rights.** Under California Civil Code sections 1798.83-1798.84, California residents may annually request information regarding what categories of personal information (as defined by such law) PMC shares with third parties for those third parties’ direct marketing purposes. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: PMC, 11175 Santa Monica Blvd., Los Angeles, CA 90025. In your request, please specify that you want a “PMC California Privacy Rights Notice.” Please allow at least 30 days for a response.
 
-Company is not responsible for the practices employed by websites linked to or from the Website nor the information or content contained therein. It follows that the Company accepts no responsibility for events experienced by you if you visit a third party site by clicking through from the Website. Please remember that when you use a link to go from the Website to another website, this Privacy Policy is no longer in effect. User browsing and interaction on any other website, including those that have a link on our Website, is subject to that other website's own rules and policies. Please read over those rules and policies before proceeding.
+**(f) Subscriber Preferences.** Subscribers to our Publications may change their subscription-related mail and email preferences at any time as follows:
 
-#### Third Party Advertisements and Technologies:
+**FN:**  
+Log into Customer Care at footwearnews.com/customerservice and update your mailing preferences on the “Change My Mailing Preferences” page, or call us at 1-866-963-7335 or 1-515-237-3650.
 
-We use third-party advertising companies to serve advertisements when you visit the Website as is explained in detail in the Terms of Use. In the course of advertisements being served to you, a unique third-party cookie or other advertising technology may be placed on your browser. This advertising technology uses information derived from your visits to the Website to target advertising within this Website or on other websites. This information is used for many purposes, for example, it helps us try to ensure that you do not see the same advertisements over and over again. We also use this information to help select and display targeted advertisements that we believe may be of interest to you (sometimes called "online behavioral advertising" or "interest-based advertising" or "OBA"). We also use web beacons, provided by third-party advertising companies, to help manage and optimize our online advertising. Web beacons enable us to recognize a browser's cookie when a browser visits this Website, to learn which banner ads bring users to our Website and to deliver more relevant advertising.
+**Robb Report:**  
+Log into Subscriber Services at <https://ssl.palmcoastd.com/19301/apps/LOGINSSO>,  
+click on “Manage your Privacy Settings” and update your mailing preferences, or call us at 1-800-967-7472.
 
-In addition, our advertisers or other third parties may use other third-party advertising technology to target advertising on the Website and other websites. We do not control the data collection and use practices of these other third parties. You should read the privacy notices of the websites you visit in order to determine what companies may be collecting information on those websites.
+**Rolling Stone:**  
+Log into Rollingstone.com/customerservice and go to the E-mail Customer Service link to update your communication preferences, or call us at 1-800-283-1549. Please note that the E-mail Customer Service link is below the fold.
 
-#### OBA Opt Out
+**Variety:**  
+Send an email to variety@pubservice.com asking to have your name removed from the direct mail promotion list, or call us at 1-86-22-552-3632 or 1-818-487-4550.
 
-If you would like to "opt-out" of being served OBA on the Website by our third-party advertising companies, click on the AdChoices icon below and select the companies whose OBA technology you would like to block on the Website.
+**Variety Insight and Vscore:**  
+Log into Varietyinsight.com and go to My Account to update your communication preferences, or call us at 1-323-617-9555.
 
-You may also "opt-out" of other third party programs using OBA technology on your web browser: (a) for users targeted in the United States by visiting <http://www.aboutads.info/choices>; (b) for users targeted in Europe by visiting [http:://www.youronlinechoices.com](http:://www.youronlinechoices.com), selecting the country where you are located; (c) for users targeted in Australia by visiting [http://youronlinechoices.com.au](http://youronlinechoices.com.au/), and selecting "Your Ad Choices" or "Your Choices" as applicable, and (d) for users targeted in Canada by visiting <http://youradchoices.ca/choices>.
+**WWD:**  
+Log into Customer Care at wwd.com/customerservice and update your mailing preferences on the “Change My Mailing Preferences” page, or call us at 1-866-401-7801 or 1-515-237-3650.
 
-For more information about online advertising, please visit: (a) [http://aboutads.info/consumers](htt://www.aboutads.info/consumers) regarding United States online choices; (b) [http://youronlinechoices.com](http://www.youronlinechoices.com/) regarding European online choices; (c) [http://youronlinechoices.com.au](http://www.youronlinechoices.com.au/) regarding Australian online choices; and/or (d) [http://youradchoices.ca](http://www.youradchoices.ca/) regarding Canadian online choices.
+**NOTE: changing your subscription-related preferences does not change your non-subscription-related email preferences, including for email alerts and newsletters, special offers from our brands, and promotional emails from third parties, which are set[via the preference center on each individual Website listed here](https://web.archive.org/adjust-email-preferences).**
 
-#### Notification Procedures
+Despite your indicated preferences, we may send you service related communications, including notices about your subscription, and we may continue disclosing your information to third parties under the Service Provider Use, the Legal Use and the Acquisition Use described above.
 
-It is our policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to you via email notice, written or hard copy notice or through conspicuous posting of such notice on the Website, as determined by Company in its sole discretion. We reserve the right to determine the form and means of providing notifications to you, provided that you may opt out of certain means of notification as described in this Privacy Policy.
+* **Retention of Your Information.** We keep your information for no longer than necessary for the purposes for which it is processed. The length of time for which we retain information depends on the purposes for which we collected and use it and/or as required to comply with applicable laws.
+* **Cookies and Other Tracking Technologies.** We use and allow certain other companies to use certain tracking technologies, including cookies, web beacons, and other similar technologies (collectively, “ **Cookies** ”) on the Websites. This section (“ **Cookie Notice** ”) explains what these technologies are and why we use them, as well as your rights to control our use of them. We endeavor to adhere to the Digital Advertising Alliance’s (DAA) self-regulatory principles governing interest-based advertising. 
 
-#### Changes to Our Privacy Policy
+**What are Cookies?**  
+Cookies are text files that contain a certain amount of information and are downloaded to your computer or mobile device when you visit a website. They are useful because they allow websites to recognize a user’s device. They are then returned to the original website on each subsequent visit or to any other website that recognizes them. For more information on cookies, go to [http://www.allaboutcookies.org](http://www.allaboutcookies.org/). The term **“Cookie”** is used in this Notice in the broad sense to include all similar techniques and technology, including web beacons and log files. For more information on these additional tools, see our glossary below.
 
-We reserve the right to change this Privacy Policy at any time. Please check this page periodically for changes. Your continued use of the Website following the posting of changes to this Privacy Policy will constitute acceptance of those changes. Information collected prior to the time any change is posted will be used according to the rules and law that applied at the time the information was collected.
+**Types of Information We Collect**  
+Cookies help us to understand Website usage and to improve the content and offerings on our Websites and in other media. Examples of the types of information that we collect through Cookies include:The number of users visiting Websites, the number of times a Website was viewed, the pages viewed, the clicks made on the Websites and the total duration of navigation on the Websites;  
+The name of the page that referred you to the Website;  
+Whether this is your first time visiting the Website;  
+Your viewing preferences (e.g. layout, sizing preferences, language etc.)  
+Your user name, your password, the type of browser used and your IP address, so that we can identify you during your next visits.
 
-#### How to Contact the Company
+**How We Use Cookies**  
+Examples of ways that we use Cookies include:
 
-If you have any questions about this Privacy Policy, the practices of the Website or your dealings with the Website (including your choices regarding cookies), please contact us at [legal@sheknows.com](mailto:legal@sheknows.com), or send mail to:  
-SheKnows, LLC  
-14614 N. Kierland Blvd, Suite S150  
-Scottsdale, AZ 85254  
-Attn: General Counsel
+  * To control the display of ads;
+  * To track usage patterns on the Websites;
+  * To deliver editorial content;
+  * To record requests for subscriptions;
+  * To implement our affiliate marketing program; and
+  * To personalize information.
+
+
+
+PMC (or third party service providers on our behalf) may also use cookies to collect aggregate information about Website users on an anonymous basis (“ **Anonymous Information** “). We may share demographic and usage information with our prospective and actual business partners, advertisers and other third parties for any business purpose.
+
+**Types of Cookies We Use on Our Websites**  
+We use first party and third party Cookies for several reasons. Some Cookies are required for technical reasons in order for our Site to operate, and we refer to these as “essential” or “strictly necessary” Cookies. Other Cookies also enable us to track and target the interests of our users and to enhance the experience on our Websites. Third parties also serve Cookies through our Websites for advertising, analytics and other purposes. The specific types of first and third party Cookies served through our Websites and the functions they perform are described in more detail below.
+
+**First-party Cookies**  
+These cookies are created by PMC. They allow you to browse our Websites and use their features.
+
+_Essential Cookies:_ These cookies are strictly necessary to allow you to move around the Websites and use their features, such as accessing your subscriptions. Without these cookies, we cannot enable appropriate content based on the type of device you are using. Therefore, these cookies cannot be disabled.
+
+_Functional Cookies:_ These cookies allow us to remember choices you make on our websites (such as your preferred language or the region you are in). To refuse these Cookies, please follow the instructions below under the section Cookie Management. Note that by disabling functional cookies, you may not be able to use some of our features or those features may not function properly.
+
+_Embedded Scripts:_  An embedded script is programming code that is designed to collect information about your interactions with the Websites, such as the links you click on. The code is temporarily downloaded onto your computer or other device, is active only while you are connected to the Websites, and is deactivated or deleted thereafter.
+
+_Analytics Cookies_ : We use Cookies and other identifiers (such as web beacons) to see how you use our Websites in order to enhance their performance and develop them according to the preferences of our customers and visitors. For example, cookies and web beacons may be used to maintain a consistent look and feel across our Websites, track and provide trend analysis on how our users interact with our Websites, track errors, and measure the effectiveness of our promotional campaigns. To refuse these Cookies, please follow the instructions below under the section Cookie Management.  
+_  
+Cross-Device Cookies:_ PMC may use cookies in combination with the information we collect — for instance, IP addresses and unique mobile device identifiers — to locate or try to locate the same unique users across multiple browsers or devices (such as smartphones or tablets), or work with service providers that do this, in order to save your preferences across devices and analyze usage of the Websites. To refuse these Cookies, you may install the Google Analytics Opt-out Browser Add-on by clicking [**here**](https://tools.google.com/dlpage/gaoptout).
+
+**Third-Party Cookies**  
+Some of our third party partners (including advertisers and marketing services companies) may set and access Cookies on your computer as well, or we may do so on their behalf. We do not have control over how these third parties use such cookies and similar technologies or the information derived therefrom, and this Privacy Policy does not cover any use of information that such third parties may have collected from you or the methods used by the third-parties to collect that information. These types of cookies include:
+
+_Advertising Cookies:_ These Cookies, defined exclusively by third parties, collect several types of data about your browsing habits, as well as your preferences for products and services. This information allows PMC to serve you relevant advertisements on our Websites. To refuse these cookies, please follow the instructions below under the section **Cookie Management**. Some advertisements may also contain an icon that you may click on to find out more about how to manage your advertising preferences.
+
+_Third-Party Functional Cookies:_ These Cookies are defined by third parties who support our Websites and allow you to use useful services and features. To refuse these cookies, please follow the instructions below under the section Cookie Management.  
+As of the Effective Date above, the third party partners include the following. This list may be updated from time to time:
+
+**Ad Servers**  
+DCM  
+Sizmek  
+Celtra  
+Flashtalking  
+Atlas  
+Clipcentric  
+Jet Pack  
+Teads  
+Spotible  
+AdButler  
+LiveIntent 
+
+**Tracking Vendors**  
+Nielsen  
+Integral Ad Science  
+Double Verify  
+Oracle  
+Moat  
+Innovid  
+Millward Brown Digital  
+Ideon  
+Collective UK  
+SpotX  
+Apester  
+Stanza  
+Skimlinks  
+Placed  
+Bluekai  
+Piwik  
+Sizmek/Peer39  
+Adrizer
+
+| Adobe Audience Manager DMP  
+Salesforce DMP / Krux  
+Neustar  
+Conversant  
+Samba TV 
+
+**Other**  
+JW Player  
+Comscore  
+Google DFP/AdX  
+AppNexus  
+Amazon A9  
+Facebook  
+Rubicon  
+Captify  
+Magnetic  
+GumGum  
+Inuvo  
+Kixer  
+Microsoft  
+Index Exchange  
+OpenX  
+Yieldbot  
+Outbrain  
+Taboola  
+Zergnet  
+Sonobi  
+Sharethrough  
+Polar  
+Instinctive  
+Criteo  
+Triplelift
+
+| Pubmatic  
+Sovrn  
+Kargo  
+bRealtime  
+DistrictM  
+JustPremium  
+Parsec  
+Consumable.IO  
+NewsCred  
+Swoop  
+Vibrant  
+Video Elephant  
+ALC Pixels/Digital  
+Vemba  
+Amazon – RoundForest  
+Amazon Associates VigLinks  
+Bringhub  
+Twitter  
+Pinterest  
+Hotjar  
+Chartbeat  
+Disqus  
+Spot.IM  
+Confiant  
+AdLightning  
+Oriel  
+Admiral  
+Teads  
+Jivox  
+Nativo  
+Socius  
+---|---|---  
+  
+**Web Beacons**  
+Small graphic images or other web programming code called web beacons (also known as “clear GIFs” or “pixel tags“) or similar technologies may be included in our web pages and messages. Web beacons or similar technologies may be used for a number of purposes, including, without limitation, to count visitors to the Websites, to monitor how users navigate the Websites, to count how many e-mails that were sent were actually opened or to count how many particular articles or links were actually viewed. A clear gif may enable us to relate your viewing or receipt of a web page or message to other information about you, including your Personally Identifiable Information. To refuse Web Beacons, please follow the instructions below under the section Cookie Management.
+
+**HTML**  
+HTML, the language some websites are coded in, may be used to store information on your computer or device about your interaction with and use of the Websites. This information may be retrieved by us to help us manage our Websites, such as by giving us information about how our Websites are being used by our visitors, how they can be improved, and to customize them for our users.
+
+**Types of Cookies We Serve on Third-Party Websites**  
+**Duration of storage of cookies on your device**  
+We use both “session cookies” (which expire once you close your web browser) and “persistent cookies” (which stay on your computer until you delete them).
+
+**Cookie Management**  
+_Analytics_  
+To learn about Google Analytics’ currently available opt-outs for the Web, please visit <https://support.google.com/analytics/answer/181881?hl=en>.
+
+_Disabling Advertising Cookies_  
+Some of the advertising service providers may be members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies. If you opt-out of receiving targeted ads in this manner, you will continue to receive advertising messages after you opt-out, but they will not be customized to you based on your use of the Websites and/or third party websites. If you would like more information about advertisers’ use of tracking technologies and about your option not to accept these cookies, you can go to [http://www.networkadvertising.org](http://www.networkadvertising.org/). If you would like to learn more about how interest-based information is collected, whether the companies we use are part of an industry network regarding behavioral advertising and to know your choices about not having information used in this manner, you can go to [http://www.aboutads.info](http://www.aboutads.info/). The collection of information via certain ads served to users in Canada may be managed by visiting youradchoices.ca.
+
+Please note that the-opt out is cookie-based and will only affect the specific computer and browser on which the opt-out is applied.
+
+_Using Browser Settings_  
+You can disable and/or delete most types of cookies by using your browser settings. Please note that if you use your browser settings to block all cookies you may not be able to access parts of our or others’ Websites. The following links provide information on how to modify the cookies settings on some popular browsers:  
+Apple Safari <http://support.apple.com/kb/PH5042>  
+Google Chrome [https://support.google.com/chrome/bin/answer.py?hl=en&answer=95647&p=cpn_cookies](https://support.google.com/chrome/bin/answer.py?hl=en&answer=95647&p=cpn_cookies)  
+Microsoft Internet Explorer <http://windows.microsoft.com/en-US/windows7/How-to-manage-cookies-in-Internet-Explorer-9>  
+Mozilla Firefox <http://support.mozilla.org/en-US/kb/Cookies>
+
+_Do Not Track Signals_  
+PMC does not act on “do not track” requests from your browser because, this way, we are able to personalize your experiences on our Websites. For more information, go to [http://www.networkadvertising.org](http://www.networkadvertising.org/) or [http://www.aboutads.info](http://www.aboutads.info/).
+
+If you have questions about the use of Cookies on our Websites, please contact us as described in Contact Us below.
+
+_Managing Cookie Preferences on Our Websites_  
+To manage your cookie preferences for our websites, including advertising cookies served by advertisers that participate in the IAB Europe GDPR Transparency & Consent Framework Global Vendor List, please click on the “Privacy Preferences” link in the footer of the relevant Website.
