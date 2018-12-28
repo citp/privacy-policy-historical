@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nsf.org privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629182652id_/http%3A//www.nsf.org/about-nsf/privacy-copyright) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nsf.org privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228154231id_/http%3A//www.nsf.org/about-nsf/privacy-copyright) for the most accurate reproduction.*
 
-# Privacy and Copyright - NSF International
+# Privacy and Copyright | NSF International
 
 Welcome to the NSF International website (www.nsf.org). Please read the following information regarding privacy, security, terms and conditions as they govern your access to and use of this site.  By accessing, viewing and using the NSF International website, you agree to abide by these policies, terms and conditions. 
 
@@ -149,7 +149,7 @@ Last Modified: May 22, 2018
 
 ## User Names, Passwords and Security
 
-Some sections of the NSF International website (NSF Online) require the use of a user name and password. When you use this site, you are encouraged to maintain the confidentiality of your user name and password as you will be responsible for all the activities that occur under your user name or password. We also remind you that you should monitor the usage of your NSF website user names and passwords by your employees. You are free, at any time, to request a change in your user name and password. You can do this by contacting your project manager. When needed, we do reserve the right to refuse service, terminate accounts, remove or edit content, or cancel transactions.  NSF takes reasonable precautions to protect the security of the information.
+Some sections of the NSF International website (NSF Connect) require the use of a user name and password. When you use this site, you are encouraged to maintain the confidentiality of your user name and password as you will be responsible for all the activities that occur under your user name or password. We also remind you that you should monitor the usage of your NSF website user names and passwords by your employees. You are free, at any time, to request a change in your user name and password. You can do this by contacting your project manager. When needed, we do reserve the right to refuse service, terminate accounts, remove or edit content, or cancel transactions.  NSF takes reasonable precautions to protect the security of the information.
 
 ## Links to Third-Party Sites
 
