@@ -1,125 +1,151 @@
-> *The following text is extracted and transformed from the consumeraffairs.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627223040id_/https%3A//www.consumeraffairs.com/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumeraffairs.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228051242id_/https%3A//www.consumeraffairs.com/about/privacy_policy) for the most accurate reproduction.*
 
 # ConsumerAffairs - Privacy Policy
 
 **Effective Date: May 30, 2018**
 
- **Last Updated: May 24, 2018**
+ **Last Updated: December 2, 2018**
 
-This Privacy Policy describes how Consumers Unified, LLC (“we,” “us,” or “our”) collects, uses, and shares information collected through our [www.consumeraffairs.com](https://www.consumeraffairs.com/) web site or when you communicate with our employees (the “Services”). By using the Services, you consent to our collection and use of your information as described in this Privacy Policy. We reserve the right to change this policy at any time to reflect changes in the law, our data collection and use practices, the features of our Services, or advances in technology. If our information practices change at some time in the future, we will post the changes here. Please check this page periodically. By continuing to use this site, you consent to any changes that have been made to our policy.
+This Privacy Policy describes how ConsumerAffairs (“we,” “us,” or “our”) collects, uses, and shares information collected through our website www.consumeraffairs.com or when you otherwise interact with us (the “Services”).
 
-#### Information we receive about you:
+We may change this policy from time to time. If we make changes, we will notify you by revising the date at the top of the policy, and, in some cases, we may provide you with additional notice (such as by adding a statement to our homepage or sending you a notification). Please check this page when you access the services to stay informed about our information practices and the choices available to you.
 
-We collect only the domain name, but not the e-mail address of visitors to our Web page, your e-mail address if you communicate with us via e-mail, aggregate information on what pages you access or visit, and information you provide to us, such as survey information and/or information entered through site registrations. We may also receive and collect information you provide us if you otherwise contact us, fill in any forms, or submit any reviews through the Services.
+### Collection of Information
 
-You may elect to log into our Services through a social networking site. By doing so, we may collect and store your user ID associated with a social media service account that you use to sign in to your account or connect or use with the Services. When you sign into your account with your social media service account information or otherwise connect to your social media service account with the Services, you authorize us to collect, store, and use in accordance with this Privacy Policy any and all information available to us through the social media interface, including without limitation any information that you have made public in connection with your social media account, information that the social media service shares with us, or information that is disclosed as being shared during the sign-in process.
+#### Information You Provide Us
 
-Please be careful and responsible whenever you are online. Should you choose to voluntarily disclose information through the Services, such as through a customer review, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties.
+We collect information you provide directly to us. For example, we collect information when you create an account, participate in any interactive features of the Services, write a review, respond to a survey, fill out a form, participate in a contest or promotion, communicate with us via third party social media sites, request customer support, interact with us via chat, or otherwise communicate with us. The types of information we may collect include your name, email address, postal address, phone number and any other information you choose to provide.
 
-#### Other ways we gather information about you:
+#### A Note about Customer Reviews
 
-Device/Usage Information: We may automatically collect certain information about the computer or devices (including mobile devices) you use to access the Services. For example, we may collect and analyze information such as (a) IP addresses, mobile device identifiers and other information about your mobile phone or other mobile device(s), browser types, browser language, operating system, and the city, state and country from which you accessed the Services; and (b) information related to the ways in which you interact with the Services, such as: referring and exit pages and URLs, platform type, the number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time you used the Services, error logs, and other similar information. As described further below, we may use third party analytics providers and technologies, including cookies and similar tools, to assist in collecting this information.
+If you disclose information through the Services such as through a customer review, that information can be viewed publicly and can be collected and used by third parties without our knowledge or permission. For this reason, we recommend you do not post personal information about yourself or others. For more information about user terms and guidelines, please visit our Terms of Use.
 
-Cookies and Other Electronic Technologies: A cookie is a data file that is installed on your computer’s hard disk. When you use the Services, we may place a “cookie” on your computer for various purposes, including: tracking your web browsing, provide information to other companies about your web browsing, user authentication, keeping track of your preferences, site administration, and analyzing trends. We may also share this information with companies with whom we have a business relationship in order to help them analyze your interaction with them. You can instruct your browser not to accept cookies, although some Services may not function properly if you disable cookies. We may also include tracking pixels, which are small graphic images, in our email messages and newsletters to determine whether the messages were opened and the links were actually viewed. If you do not want to receive tracking pixels, you will need to disable HTML images in your email client, but that may affect your ability to view images in other email that you receive. As we adopt additional technology, we may also gather additional information through other methods.
+#### Information We Collect from Other Sources
 
-We may also use local shared objects (also known as “Flash cookies”) to assist in delivering special content, such as video clips or animation. Flash cookies are stored on your device, but they are not managed through your web browser. Please see the [Adobe website](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html) for comprehensive information on how to delete or disable Flash cookies. By accessing and using the Services, you consent to the placement of cookies in your browser in accordance with this Privacy Policy.
+If you create or log into your account through a social media site, we may have access to certain information from that site, such as your name, user ID, account information, information that you have made public, and friends lists, according to the social media site’s data practices and your privacy settings on that social media site.
 
-#### Anonymous or de-identified data:
+We may also collect demographic information about you from third parties, including data brokers, mailing list providers, and publicly available sources. We may also receive information about you from our business partners, such as those companies who have created an account with us as Accredited Members. This information may include name, city, state, email address, phone number, and order number or account number.
 
-We may anonymize and/or de-identify information collected by the Services or via other means so that the information does not identify you. Our use and disclosure of aggregated and/or de-identified information is not subject to any restrictions under this Privacy Policy, and we may disclose it to others without limitation for any purpose.
+#### Automatically Collected Information
 
-#### How we use the information we receive about you:
+When you access or use our Services, we automatically collect information about you, including:
 
-We may use the information collected for the following purposes:
+Log Information: We collect log information about your use of the Services, including the type of browser you use, application version, access times, pages viewed, time spent on pages, clicks, website technical errors, your IP address and the page you visited before navigating to our Services.
 
-  * to improve the content of our Services or develop new Services;
-  * to administer and troubleshoot the Services;
-  * to respond to your inquiries;
-  * to administer sweepstakes and contests;
-  * to notify you about updates to our Services or to send you information about your relationship or use of our Services;
-  * to help prevent fraud and enforce the legal terms that govern your use of the Services; and
-  * to perform functions as described at the time of the collection.
+Device Information: We collect information about the computer or mobile device you use to access our Services, including the hardware model, operating system and version, unique device identifiers, and mobile network information.
+
+Cookies and Other Tracking Technologies: We use different technologies to collect information, including cookies, pixels and local storage, implemented either by us or a third party. Cookies are small data files stored on your hard drive or in device memory that help us improve our Services and your experience, see which areas and features of our Services are popular, and count site visits. Pixels are electronic images that may be used in our Services or emails and help deliver cookies, count visits and understand usage and ad campaign effectiveness. Local shared objects are stored on your device and used to provide video or animation, or collect information for analytics. For more information about cookies and trackers and how to disable them, please visit “Your Choices” below or our [Cookies Policy](https://www.consumeraffairs.com/about/cookie-policy/).
+
+### How we use information:
+
+We use the information we collect to provide, maintain, and improve our services. We may also use the information we collect to:
+
+  * Send you technical notices, updates, security alerts and support and administrative messages and to respond to your comments, questions and customer service requests;
+  * Communicate with you about products, services, offers, and events offered by ConsumerAffairs and others, and provide news and information we think will be of interest to you;
+  * Monitor and analyze trends, usage and activities in connection with our Services;
+  * Detect, investigate and prevent fraudulent transactions and other illegal activities and protect the rights and property of ConsumerAffairs and others;
+  * Personalize and improve the Services and provide advertisements, content or features that match user profiles or interests;
+  * Facilitate contests, sweepstakes and promotions and process and deliver entries and rewards; and
+  * Carry-out any other purpose described to you at the time the information was collected.
 
 
 
-#### How we share the information we receive about you:
+### How we share information:
 
-We do not rent, sell, or share your information with third parties except as described in this Privacy Policy. We may share information we receive about you in the following ways:
+We may share information we receive about you as follows or as otherwise described in this Privacy Policy:
 
-  * We may share consumer complaints we receive from you with consultants, regulatory and law enforcement authorities and members of the news media.
-  * We may share consumer complaints we receive from you with companies about which the consumer is complaining who pay us to receive that information. To receive such information, companies must agree that they will use the information only in an attempt to resolve the complaint and/or improve their practices. They must also agree not to use the information for litigation purposes.
-  * We may also share Submissions (i.e., comments that you have posted on our web site) with companies with whom we have business relationship, who may use those Submissions (along with your first name, but not your e-mail address) for marketing purposes on their website or other outlets (such as social media platforms).
-  * We may also share consumer complaints with our affiliates or other entities with whom we have a business relationship. These entities may post consumer complaints on their respective websites.
-  * We may disclose your information if we have a good faith belief that we are required to disclose information we receive about you to comply with the law, such as in response to subpoenas, courts orders, legal process, or requests by government authorities, law enforcement authorities, courts, or regulators. We may also disclose information we collect to (a) protect the safety of any person, (b) address fraud, (c) investigate, prevent, or take action regarding other illegal activities, (d) address violations of our Terms of Use, (e) address security or technical issues, or (f) protect our rights and property.
-  * We may share information we receive about you with our service providers who process your personal information to provide services to us on our behalf. We prohibit our service providers from sharing the information about you that they collect or that we provide to them with anyone else, or using it for purposes not authorized by us.
-  * We may share your name and e-mail address with companies when you fill out a form on our website indicating an interest in the goods or services sold by the company, some of whom have paid us for that information, and others who have not.
-  * We may also share information we receive about you with companies with whom we have a business relationship in order to help them analyze your interactions with them.
-  * As we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses, or sell some or all of our assets. In such transactions, user information may be among the transferred assets.
+  * We may share information we receive about you with our service providers who need access to such information to provide services to us on our behalf.
+  * We may share consumer reviews we receive from you with the companies that are the subject of the review and with our affiliates or other entities with whom we have a business relationship. These entities may post these reviews on their respective websites.
+  * We may also share information (including your first name and, in some cases, your email address) from comments that you have posted on our web site, forms you have filled out, and other submissions, with our business partners, who may use those submissions for analysis and marketing purposes.
+  * We may disclose information if we have a good faith belief that we are required to do so to comply with the law or legal process, such as in response to subpoenas, courts orders, or requests by government authorities, law enforcement authorities, courts, or regulators, including lawful requests by public authorities to meet national security or law enforcement requirements.
+  * We may also disclose information if we believe your actions are inconsistent with our user agreements or policies, or to protect the rights, property or safety of ConsumerAffairs or others.
+  * As we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses, or sell some or all of our assets. In such transactions, or during related negotiations, we may share user information.
+  * We may share information between and among ConsumerAffairs and our current and future parents, affiliates, subsidiaries and other companies under common control or ownership.
   * We may share your information when we otherwise have your permission.
 
 
 
-#### Online analytics and tailored advertising:
+### Online analytics and tailored advertising:
 
-We use third-party advertising companies to serve ads when you visit our Web site. These third parties may place cookies or other tracking technologies on your computer or other device to collection information about your use of the Services in order to help them (i) inform, optimize, and serve ads based on past visits to our websites and other sites and (ii) report how ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to our websites. We neither have access to, nor does this Privacy Policy govern, the use of cookies or other tracking technologies that may be placed on your computer or other device you use to access the Services by non-affiliated, third-party ad technology, ad servers, ad networks or any other non-affiliated third parties. These companies may use information about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, you may visit <http://networkadvertising.org/choices/> or <http://www.aboutads.info/choices/>. This site implements Google Analytics features based on Display Advertising data, including Google Analytics Demographics and Interest Reporting. Using Google Ad Settings, visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads. We use data from Google’s Interest-based advertising or third party audience data (such as age, gender, and interests) to help improve the site and user experience. To opt out of Google Analytics for Display Advertising or customize Google Display Network ads, you can visit <https://www.google.com/settings/ads>. Please note that to the extent advertising technology is integrated into the Services, you may still receive advertisements even if you opt-out of tailored advertising. In that case, the ads will just not be tailored to your interests.
+We may allow others to provide analytics services and serve advertisements on our behalf across the internet and in applications. These entities may use cookies, web beacons, device identifiers and other technologies to collect information about your use of the Services and other websites and applications, including your IP address, web browser, mobile network information, pages viewed, time spent on pages or in apps, links clicked and conversion information. This information may be used by us and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services and other websites, and better understand your online activity.
 
-We do not control any of the above opt-out links and are not responsible for any choices you make using these mechanisms or the continued availability or accuracy of these mechanisms. We also do not evaluate or endorse the products and services advertised. See the [FAQ](https://www.consumeraffairs.com/about/faq/) for more information.
+For more information about interest-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit www.aboutads.info/choices. Your device may also include a feature (“Limit Ad Tracking” on iOS or “Opt Out of Interest-Based Ads” or “Opt Out of Ads Personalization” on Android) that allows you to opt out of having certain information collected through apps used for behavioral advertising purposes.
 
-#### What we don’t do with the information we receive about you:
+To opt-out of cookies or other trackers, please see “Your Choices” below or visit our [Cookie Policy](https://www.consumeraffairs.com/about/cookie-policy/).
 
-We do not make the e-mail addresses of those who access our site available to commercial organizations for marketing purposes, although when we communicate with you we may include commercial or marketing messages in those communications. We do make e-mail addresses available to companies who have paid us in order for them to contact consumers to respond to their comments or complaint, and se may share your name and e-mail address with companies when you fill out a form on our website indicating an interest in the goods or services sold by the company, some of whom have paid us for that information, and others who have not.
+### Links:
 
-If you supply us with your postal address, but not your online address, you will only receive information and inquiries from us at your postal address.
+The Services may contain links to other websites and services. We are not responsible for the privacy policy or other practices employed by sites and services linked to or from our Services nor the information or content available there.
 
-Persons who supply us with their telephone numbers will only receive telephone contact from us (or third parties working with us) about products you have used or may have used, or from companies regarding comments you have posted. We do not use the information you provide for marketing purposes.
+### Security:
 
-#### Links:
+We use reasonable measures to help protect information about you from loss, theft, misuse, and unauthorized access, disclosure, alteration, and destruction.
 
-The Services may contain links to other sites and services. We are not responsible for the privacy policy or other practices employed by sites and services linked to or from our Services nor the information or content contained therein. This Privacy Policy applies solely to information collected by our products and services.
+### Transfer of Information to the United States:
 
-#### Security of your information:
+The Services are hosted in the United States. Therefore, we and our service providers may transfer your information to, or store or access it in, jurisdictions that may not provide equivalent levels of data protection as your home jurisdiction. We will take steps to ensure that your personal data receives an adequate level of protection in the jurisdictions in which we process it.
 
-We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, to maintain data security, and to use correctly the information we collect online. These safeguards vary based on the sensitivity of the information that we collect and store.
+When we transfer personal data from the European Union or Switzerland to the United States, we comply with the EU-U.S. Privacy Shield Framework and the Swiss - U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data transferred from the European Union and Switzerland to the United States, respectively. ConsumerAffairs has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
 
-Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personal information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Policy.
+In compliance with the Privacy Shield Principles, we are committed to resolving complaints about our processing of your personal data. EU and Swiss individuals with inquiries or complaints regarding our compliance with the Privacy Shield program should first contact us. We have further committed to refer unresolved Privacy Shield complaints to JAMS, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit <https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim> for more information or to file a complaint. The services of JAMS are provided at no cost to you.
 
-#### Children:
+Under certain conditions, you may be able to invoke binding arbitration to resolve your complaint. ConsumerAffairs is subject to the investigatory and enforcement powers of the Federal Trade Commission.
 
-The Services are not intended for persons under the age of 13. We require that only persons 13 years of age or older use the Services. By using the Services, you hereby represent that you are at least 13 years old. If we become aware of a user under the age of 13, we will make reasonable efforts to promptly delete that user’s information. ConsumerAffairs strives to comply with all jurisdictional regulations in regards to protecting children's privacy for children residing in the EU under the age of 16.
+If we share personal data transferred to the U.S. under the Privacy Shield with a third-party service provider that processes such data on our behalf, then we will be liable for that third party’s processing in violation of the Privacy Shield Principles, unless we can prove that we are not responsible for the event giving rise to the damage.
 
-#### California Do Not Track Policy:
+### Your European Union and Swiss Privacy Rights:
 
-We are committed to providing you with meaningful choices about the information collected on our Services for third party purposes, and that is why we provide above the NAI “Consumer Opt-out” link, DAA opt-out link, and Google opt-out link. However, we do not recognize or respond to browser-initiated Do Not Track signals, as the Internet industry is currently still working on Do Not Track standards, implementations and solutions.
+If you are in the European Economic Area (“EEA”) or Switzerland, you have certain rights and protections under the law regarding the processing of your personal data.
 
-#### Information access and account deletion:
+#### Legal Basis for Processing
 
-If you wish to cancel your account or request that we no longer use your information, contact us at the following number: 1-866-773-0221
+If you are a resident of the EEA or Switzerland, when we process your personal data we will only do so in the following situations:
 
-#### Your California privacy rights:
+  * We need to use your personal data to perform our responsibilities under our contract with you (e.g., providing the Services you have requested).
+  * We have a legitimate interest in processing your personal data. For example, we may process your personal data to send you marketing communications, to communicate with you about changes to our Services, and to provide, secure, and improve our Services.
+  * You have provided consent for us to process your personal data.
 
-California law permits users who are California residents to request and obtain from us once a year, free of charge, a list of the third parties to whom we have disclosed their personal information (if any) for their direct marketing purposes in the prior calendar year, as well as the type of personal information disclosed to those parties. If you are a California resident and would like to request this information, please submit your request in an email to [contact.us@consumeraffairs.com](mailto:contact.us@consumeraffairs.com).
 
-#### Users from outside the United States (excluding European Union users):
 
-The Services are hosted in the United States and are governed by United States law. If you are using the Services from outside the United States, please be aware that your information may be transferred to, stored and processed in the United States where our servers are located and our databases are operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country. By using the Services, you consent to your information being transferred to our facilities and to the facilities of those third parties with whom we share it as described in our Privacy Policy.
+#### Data Subject Requests
 
-#### Your European Union privacy rights:
+If you are in the EEA, you have the right to access personal data we hold about you and to ask that your personal data be corrected, erased, or transferred. You may also have the right to object to, or request that we restrict, certain processing. If you are in Switzerland, you have the right to access, correct or erase the personal data we hold about you. You may also have the right to object to, or request that we restrict certain processing. If you would like to exercise any of these rights, please contact us at [privacy@consumeraffairs.com](mailto:privacy@consumeraffairs.com).
 
-Protecting our clients’ information is of the utmost importance to us as is maintaining compliance with any governing authority to which the processing of personal information may occur for any of our product lines. The European Union ("EU") maintains strict privacy laws through General Data Privacy Regulation ("GDPR"). This standard differs significantly from U.S. law. ConsumerAffairs strives to comply with regulations where it applies to the processing of personal data, the disclosure of the appropriate notifications, and, where applicable, with provision of a process by which an individual can request the erasure of personal information.
+#### Questions or Complaints
 
-For the deletion and erasure of personal information under GDPR standards, email [gdprcompliance@consumeraffairs.com](mailto:gdprcompliance@consumeraffairs.com) to begin the process and we will respond to your request within 30 days.
+If you are in the EEA or Switzerland and have a concern about our processing of personal data that we are not able to resolve, you have the right to lodge a complaint with the data protection authority where you reside. For contact details of your local EEA Data Protection Authority, please see: <http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm>. For Swiss residents, contact details of the Swiss data protection authority, the Federal Data Protection and Information Commissioner (FDPIC) are available here: <https://www.edoeb.admin.ch/edoeb/en/home/the-fdpic/contact/address.html>. 
 
-#### Contact us:
+### Your Choices
 
-If you feel that this site is not following its stated privacy policy, you may contact us at:
+#### Information access and account cancellation
+
+If you wish to deactivate your account or request that we no longer use your information, please contact us at [privacy@consumeraffairs.com](mailto:privacy@consumeraffairs.com). Please note that we may retain certain information as required by law or for legitimate business purposes. We may also retain cached or archived copies of information about you for a certain period of time.
+
+#### Cookies and Trackers
+
+Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies, although some Services may not function properly if you disable cookies. If you do not want to receive tracking pixels, you will need to disable HTML images in your email client, but that may affect your ability to view images in other email that you receive. Please see the Adobe website for comprehensive information on how to delete or disable local shared objects known as Flash cookies. Also, this site uses Google Analytics. To opt out of Google Analytics please visit <https://www.google.com/settings/ads>.
+
+You may also visit the following sites to opt out of behavioral advertising: <http://networkadvertising.org/choices/> or <http://www.aboutads.info/choices/>. For more information about cookies and trackers, please visit our [Cookie Policy](https://www.consumeraffairs.com/about/cookie-policy/).
+
+#### Promotional Communications by Email or Text Message
+
+You may opt out of receiving promotional emails from ConsumerAffairs by following the instructions in those emails or by contacting us as noted below. If you opt out, we may still send you non-promotional messages, such as those about your account or our ongoing business relations.
+
+To opt out of receiving text messages from ConsumerAffairs.com at any time, text STOP to the short code from which the text message was sent to the enrolled mobile device or reply to a text from us with the word “STOP.” A confirmation message of your opt out will be sent to your mobile number but no additional messages will be sent to you unless you opt in again.
+
+#### Mobile Push Notifications/Alerts
+
+With your consent, we may send promotional and non-promotional push notifications or alerts to your mobile device. You can deactivate these messages at any time by changing the notification settings on your mobile device.
+
+#### Your California Privacy Rights
+
+California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes. If you are a California resident and would like to make such a request, please contact us as noted below.
+
+### Contact us:
+
+If you have any questions or concerns about this Privacy Policy or our data practices, you can reach us at [privacy@consumeraffairs.com](mailto:privacy@consumeraffairs.com), or by writing to us at:
 
 ConsumerAffairs.com  
-297 Kingsbury Grade, Suite 1025, Mailbox 4470  
+297 Kingsbury Grade, Suite 1025, Mailbox 4470   
 Lake Tahoe, NV 89449-4470  
 1-866-773-0221
-
-We can be reached via e-mail through the [Contact Us](https://www.consumeraffairs.com/about/contact/) form on our Web site.
-
-If complaints about your company appear on our site, [we welcome your response](https://brands.consumeraffairs.com/).
-
-The information on this Web site is general in nature and is not intended as a substitute for competent legal advice. We make no representation as to the accuracy of the information herein provided and assumes no liability for any damages or loss arising from the use thereof.
