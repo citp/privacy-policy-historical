@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sail.ca privacy policy that was archived on 2016-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160522165129id_/http%3A//www.sail.ca/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sail.ca privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228221843id_/https%3A//www.sail.ca/en/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | SAIL
+# Privacy policy
 
 Protecting your privacy is important to SAIL Outdoors, Inc. (SAIL). The purpose of this Policy is to explain how we collect, use and disclose the personal information you may provide to us while using this website and is meant to comply with the Canadian federal and provincial privacy laws. This Policy does not apply to information about SAIL employees or its suppliers.
 
