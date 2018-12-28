@@ -1,6 +1,63 @@
-> *The following text is extracted and transformed from the justproperty.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628104702id_/https%3A//www.justproperty.com/en/information/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justproperty.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228164529id_/https%3A//www.justproperty.com/en/information/policy) for the most accurate reproduction.*
 
 # Privacy Policy Statement | Justproperty.Com | JustProperty.com
+
+Budget
+
+-
+
+  * AED 0 
+  * AED 20,000 
+  * AED 30,000 
+  * AED 40,000 
+  * AED 50,000 
+  * AED 60,000 
+  * AED 70,000 
+  * AED 80,000 
+  * AED 90,000 
+  * AED 100,000 
+  * AED 110,000 
+  * AED 120,000 
+  * AED 140,000 
+  * AED 160,000 
+  * AED 180,000 
+  * AED 200,000 
+  * AED 220,000 
+  * AED 250,000 
+  * AED 300,000 
+  * AED 350,000 
+  * AED 400,000 
+  * AED 500,000 
+  * AED 600,000 
+  * AED 700,000 
+
+
+  * AED 0 
+  * AED 20,000 
+  * AED 30,000 
+  * AED 40,000 
+  * AED 50,000 
+  * AED 60,000 
+  * AED 70,000 
+  * AED 80,000 
+  * AED 90,000 
+  * AED 100,000 
+  * AED 110,000 
+  * AED 120,000 
+  * AED 140,000 
+  * AED 160,000 
+  * AED 180,000 
+  * AED 200,000 
+  * AED 220,000 
+  * AED 250,000 
+  * AED 300,000 
+  * AED 350,000 
+  * AED 400,000 
+  * AED 500,000 
+  * AED 600,000 
+  * AED 700,000 
+
+
 
 Alert 
 
@@ -9,6 +66,105 @@ Map View
 List View 
 
 Shortlist (0) 
+
+Area
+
+Min - Max
+
+  * 0 sq. ft. 
+  * 500 sq. ft. 
+  * 600 sq. ft. 
+  * 700 sq. ft. 
+  * 800 sq. ft. 
+  * 900 sq. ft. 
+  * 1,000 sq. ft. 
+  * 1,500 sq. ft. 
+  * 2,000 sq. ft. 
+  * 2,500 sq. ft. 
+  * 3,000 sq. ft. 
+  * 3,500 sq. ft. 
+  * 4,000 sq. ft. 
+  * 4,500 sq. ft. 
+  * 5,000 sq. ft. 
+  * 5,500 sq. ft. 
+  * 6,000 sq. ft. 
+  * 6,500 sq. ft. 
+  * 7,000 sq. ft. 
+  * 7,500 sq. ft. 
+  * 8,000 sq. ft. 
+  * 8,500 sq. ft. 
+  * 9,000 sq. ft. 
+  * 9,500 sq. ft. 
+  * 10,000 sq. ft. 
+  * 10,500 sq. ft. 
+  * 11,000 sq. ft. 
+  * 11,500 sq. ft. 
+  * 12,000 sq. ft. 
+  * 12,500 sq. ft. 
+  * 13,000 sq. ft. 
+  * 13,500 sq. ft. 
+  * 14,000 sq. ft. 
+  * 14,500 sq. ft. 
+  * 15,000 sq. ft. 
+  * 15,500 sq. ft. 
+  * 16,000 sq. ft. 
+  * 16,500 sq. ft. 
+  * 17,000 sq. ft. 
+  * 17,500 sq. ft. 
+  * 18,000 sq. ft. 
+  * 18,500 sq. ft. 
+  * 19,000 sq. ft. 
+  * 19,500 sq. ft. 
+  * 20,000 sq. ft. 
+
+
+  * 0 sq. ft. 
+  * 500 sq. ft. 
+  * 600 sq. ft. 
+  * 700 sq. ft. 
+  * 800 sq. ft. 
+  * 900 sq. ft. 
+  * 1,000 sq. ft. 
+  * 1,500 sq. ft. 
+  * 2,000 sq. ft. 
+  * 2,500 sq. ft. 
+  * 3,000 sq. ft. 
+  * 3,500 sq. ft. 
+  * 4,000 sq. ft. 
+  * 4,500 sq. ft. 
+  * 5,000 sq. ft. 
+  * 5,500 sq. ft. 
+  * 6,000 sq. ft. 
+  * 6,500 sq. ft. 
+  * 7,000 sq. ft. 
+  * 7,500 sq. ft. 
+  * 8,000 sq. ft. 
+  * 8,500 sq. ft. 
+  * 9,000 sq. ft. 
+  * 9,500 sq. ft. 
+  * 10,000 sq. ft. 
+  * 10,500 sq. ft. 
+  * 11,000 sq. ft. 
+  * 11,500 sq. ft. 
+  * 12,000 sq. ft. 
+  * 12,500 sq. ft. 
+  * 13,000 sq. ft. 
+  * 13,500 sq. ft. 
+  * 14,000 sq. ft. 
+  * 14,500 sq. ft. 
+  * 15,000 sq. ft. 
+  * 15,500 sq. ft. 
+  * 16,000 sq. ft. 
+  * 16,500 sq. ft. 
+  * 17,000 sq. ft. 
+  * 17,500 sq. ft. 
+  * 18,000 sq. ft. 
+  * 18,500 sq. ft. 
+  * 19,000 sq. ft. 
+  * 19,500 sq. ft. 
+  * 20,000 sq. ft. 
+
+
 
 __Clear
 
