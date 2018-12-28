@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weddinginspirasi.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628051132id_/http%3A//www.weddinginspirasi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddinginspirasi.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228113211id_/http%3A//weddinginspirasi.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Wedding Inspirasi | Wedding Inspirasi
 
@@ -124,7 +124,7 @@ We use non-personal information in a variety of ways, including to help analyze 
 
 ## Contact and Opt-Out Information
 
-You may contact us as at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) if:
+You may contact us as at support@weddinginspirasi.com if:
 
   1. you have questions or comments about this Privacy Policy;
   2. you wish to amend any personally identifiable information you have provided;
@@ -141,14 +141,14 @@ Wedding Inspirasi reserves the right to make changes to this privacy policy at a
 
 ## Limitation of Liability
 
-In using [WeddingInspirasi.com](https://web.archive.org/web/20180628051132id_/http://www.weddinginspirasi.com/ "Wedding Inspirasi"), the user agrees that the OWNERS shall not be liable for any damage, loss or injury directly or indirectly resulting from the use of this website. While we strive to protect your personally identifiable information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to us online and are not responsible for the theft, destruction or inadvertent disclosure of your personally identifiable information. In the event that your “personally identifiable information” (as the term or similar terms are defined by any applicable law requiring notice upon a security breach) is compromised, we may notify you by email (in our sole and absolute discretion) to the last email address you have provided to us in the most expedient time reasonable under the circumstances; provided, however, delays in notification may occur while we take necessary measures to determine the scope of the breach and restore reasonable integrity to the system, as well as for the legitimate needs of law enforcement if notification would impede a criminal investigation.
+In using [WeddingInspirasi.com](https://web.archive.org/web/20181228113211id_/http://www.weddinginspirasi.com/ "Wedding Inspirasi"), the user agrees that the OWNERS shall not be liable for any damage, loss or injury directly or indirectly resulting from the use of this website. While we strive to protect your personally identifiable information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to us online and are not responsible for the theft, destruction or inadvertent disclosure of your personally identifiable information. In the event that your “personally identifiable information” (as the term or similar terms are defined by any applicable law requiring notice upon a security breach) is compromised, we may notify you by email (in our sole and absolute discretion) to the last email address you have provided to us in the most expedient time reasonable under the circumstances; provided, however, delays in notification may occur while we take necessary measures to determine the scope of the breach and restore reasonable integrity to the system, as well as for the legitimate needs of law enforcement if notification would impede a criminal investigation.
 
 ## Contact information
 
 **Owner and Data Controller (Owner)  
 **Wedding Inspirasi
 
-**Owner contact email:**  [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#462f28202906312322222f28212f2835362f3427352f6825292b)
+**Owner contact email:**  [info@weddinginspirasi.com](mailto:info@weddinginspirasi.com)
 
   
 **Device Data**  
