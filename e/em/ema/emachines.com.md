@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emachines.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517174146id_/http%3A//www.acer-group.com/public/index/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emachines.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228031132id_/http%3A//www.acer-group.com/public/index/privacy.htm) for the most accurate reproduction.*
 
 # English
 
