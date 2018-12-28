@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the browserling.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606173141id_/https%3A//www.browserling.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the browserling.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228055341id_/https%3A//www.browserling.com/privacy-policy) for the most accurate reproduction.*
 
 # Browserling's Privacy Policy
 
