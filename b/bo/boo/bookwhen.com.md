@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bookwhen.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628034230id_/https%3A//bookwhen.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookwhen.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228100719id_/https%3A//bookwhen.com/privacy) for the most accurate reproduction.*
 
-# Bookwhen Privacy Policy
+# Bookwhen - Privacy Policy, GDPR information.
 
 ###  1\. Who is responsible for your data 
 
@@ -21,7 +21,7 @@ Email address | At sign up | Legitimate interest and with your consent. |
   * To provide support and answer questions via email.
   * For a regular newsletter and occasional marketing messages.
 
-| Bookwhen’s secure cloud database in London, UK  
+| Bookwhen’s secure cloud database in London, UK, hosted on the Google Cloud Platform.  
 Name | In-app | Legitimate interest | 
 
   * To provide support (it’s nice to know who we’re speaking with!)
@@ -56,6 +56,7 @@ Help Scout (https://www.helpscout.net)  |  We use your contact details (email, p
 Postmark (https://postmarkapp.com) | Postmark ‘powers’ all of our emails - any notifications (e.g. new booking, cancellation) from Bookwhen.  
 Stripe (https://www.stripe.com)  
 ProfitWell (https://www.profitwell.com)  |  Stripe allow us to take subscription payments from you (if you’re a paying customer). We share your email address with them so that you receive invoice and refund notifications. Profitwell helps us track failing subscription payments to ensure your service isn’t interrupted, this also requires an email address.   
+Elastic (https://www.elastic.co)  |  The elasticsearch cloud service (https://www.elastic.co/cloud/elasticsearch-service) provided by Elastic powers the fast search within the system. The search data is hosted on private servers within the Google Cloud Platform in the EEA.   
   
 ###  4\. Cookies 
 
@@ -73,7 +74,7 @@ We take security extremely seriously and have technologies, processes and securi
 
 We will report any breach of Personal Data, and do so as fast as we can; we aim to let people know within 24 hours. 
 
-We use external servers monitored by Google Cloud Platform, a world-leader in data storage and security. No person at Bookwhen has direct access to personal information. Access to any business account is strictly limited and a register is kept of all access. Personal information can only be partially accessed for business technical support, billing or maintenance reasons. Bookwhen has strict internal data handling policies that all employees with access to data commit to. 
+We use external servers monitored by Google Cloud Platform, a world-leader in data storage and security. Access to any business account is strictly limited and a register is kept of all access. Personal information can only be partially accessed for business technical support, billing or maintenance reasons. Bookwhen has strict internal data handling policies that all employees with access to data commit to. 
 
 We will only send data outside of the European Economic Area (‘EEA’) to work with third parties who we use to deliver services to you or to comply with a legal duty. If we do transfer data outside the EEA, we will make sure that it is protected in the same way as if it were being used in the EEA. We will use one of the following safeguards to ensure that it is protected: 
 
