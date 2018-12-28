@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animegalleries.net privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623163244id_/http%3A//www.animegalleries.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animegalleries.net privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228160405id_/http%3A//www.animegalleries.net/privacy.php) for the most accurate reproduction.*
 
 # Anime Galleries dot Net - Pics, Images, Screencaps, and Scans
 
@@ -8,7 +8,7 @@ Our postal address is
 **2006 Benson ave 3d  
 Brooklyn, NY 11214**
 
-We can be reached via e-mail at [[email protected]](http://www.animegalleries.net/cdn-cgi/l/email-protection#6512000708041611001725040b0c080002090a07004b060a08)  
+We can be reached via e-mail at [[email protected]](https://www.animegalleries.net/cdn-cgi/l/email-protection#a8dfcdcac5c9dbdccddae8c9c6c1c5cdcfc4c7cacd86cbc7c5)  
 or you can reach us by telephone at 917-334-8824 
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
