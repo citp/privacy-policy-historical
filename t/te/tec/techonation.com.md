@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the techonation.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630060015id_/https%3A//techonation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techonation.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228073651id_/https%3A//techonation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## Who Are We?
 
-Our website address is [https://techonation.com](https://techonation.com/). Website/organization name is Techonation. The behind this website is Jitender Singh. If you want to contact us for any type of query you can email us at- _admin@techonation.com_. Or use our [contact us page](https://techonation.com/contact-us/).
+Our website address is [https://techonation.com](https://techonation.com/). Website/organization name is Techonation. The Man behind this website is Jitender Singh. If you want to contact us for any type of query you can email us at- _[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)_. Or use our [contact us page](https://techonation.com/contact-us/).
 
 ## What personal data we collect and why we collect it
 
@@ -110,7 +110,7 @@ Visitor comments may be checked through an automated spam detection service.
 
 ## Your contact information
 
-If you want to contact us then you can fill our [contact us](https://techonation.com/contact-us/) page or you can email us at [admin@techonation.com](mailto:admin@techonation.com)
+If you want to contact us then you can fill our [contact us](https://techonation.com/contact-us/) page or you can email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0e6f6a6367604e7a6b6d6661606f7a676160206d6163)
 
 ## Additional information
 
@@ -130,6 +130,6 @@ We receive data from Google AdSense and Google Analytics about the user behavior
 
 If you still have any questions or suggestions feel free to ask us using below information.
 
-admin@techonation.com
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
  **Last Updated** – May 25, 2018
