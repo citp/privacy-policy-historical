@@ -1,162 +1,157 @@
-> *The following text is extracted and transformed from the rsa.com privacy policy that was archived on 2017-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170706231653id_/https%3A//www.rsa.com/en-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rsa.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228143629id_/https%3A//www.dell.com/learn/us/en/uscorp1/policies-privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Statement Regarding Customer and Online User Information | Dell
 
-### General Information
+This Privacy Statement Regarding Customer and Online User Information (“Privacy Statement”) applies to Dell Inc. and its worldwide subsidiaries (“Dell,” "we" or "our"), but not to those Dell subsidiaries that have published their own privacy and security statements. This Privacy Statement also does not apply to the websites of our business partners or to any other third parties, even if their websites are linked to our website. We recommend you review the privacy statements of the other parties with which you interact.
 
-This Privacy Statement explains what types of information EMC Corporation and its wholly owned subsidiaries (“EMC,” “we,” “our,” or “us”) or our service providers may collect from or about visitors to, or users of, our websites or applications (“you”), and describes our practices for collecting, using, retaining, protecting, disclosing, and transferring such information.
+This Privacy Statement governs Personal Information we collect from our customers and online users ("you"), as well as information we automatically collect from your online visits (e.g. data collected via cookies). Please refer to your warranty statements and Dell's Return Policy for policies that apply to information contained on hard drives returned to Dell.
 
-### Scope
+For the purposes of this Privacy Statement, "Business partner" means any subcontractor, vendor or other entity with whom we have an ongoing business relationship to provide products, services or information. "Personal Information" means information that identifies you, such as your name, telephone number and email address.
 
-This Privacy Statement applies to personal information and other information collected by EMC or our service providers from or about you when you (i) access EMC websites or use EMC applications (including mobile applications) that display or link to this Privacy Statement, or (ii) open and respond to our emails. Unless otherwise specified, this Privacy Statement does not apply to any other products or services or to information collected in any other way (whether online or offline) or for any other purpose. Information we may process about clients of our customers is addressed separately in the section below entitled "Personal Information of our Customers’ Clients."
+### Information We Collect
 
-### TRUSTe Privacy Program Certification
+We may ask you to provide Personal Information when you 
 
-EMC has been awarded TRUSTe's Privacy Seal signifying that this Privacy Statement and EMC’s practices have been reviewed by TRUSTe for compliance with the TRUSTe program viewable by clicking the TRUSTe seal on this page. See below for our contact information if you have questions or complaints regarding this Privacy Statement or our privacy practices. If you are not satisfied with our response, you can contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
+  * Use our websites; 
+  * Request quotes, services, support, downloads, trials, whitepapers or information; 
+  * Place orders for products or services or register for events or webinars; 
+  * Apply for a credit card or financing; 
+  * Participate in surveys, sweepstakes or other promotional activities online or in any other venue; 
+  * Subscribe to newsletters, Dell programs, promotional emails or other materials; 
+  * Apply for a job, submit your resume/CV or create a candidate profile; or 
+  * Contact us.
 
-The TRUSTe program covers personal information that is collected through the following EMC websites:[www.emc.com](http://www.emc.com/),[www.emcworld.com](http://www.emcworld.com/), and [www.rsaconference.com](http://www.rsaconference.com/).
 
-The TRUSTe program does not cover personal information that may be collected through downloadable software or mobile devices.
 
-### What Personal and Other Information Does EMC Collect?
+Personal Information we request may include your email address, name, home address and telephone number. If you make a purchase, we may ask for your credit card number and billing information. We may also ask for your Social Security number and other data to process your credit or financing request. Job applicants may be asked to provide information such as educational background, employment experience and job interest, and such information can be recorded and processed in different countries. We may also collect demographic information, such as your business or company information, age, gender, interests, and preferences. Forms that you choose to complete will indicate whether information requested is mandatory or voluntary.
 
-EMC or our service providers may collect personal information and other information from or about you when you:
+We may collect information about your visits to our websites, including the pages you view, the links and advertisements you click, search terms you enter, and other actions you take in connection with Dell websites and services. We may also collect certain information from the browser you used to come to our website, such as your Internet Protocol (IP) address, browser type and language, access times, the Uniform Resource Locator (URL) of the website that referred you to our website and to which URL you browse away from our site if you click on a link on our site.
 
-  * order products or services,
-  * register products or for an event,
-  * request information,
-  * subscribe to marketing or support materials,
-  * download software,
-  * enter a contest,
-  * respond to promotional campaigns, or
-  * register to a secure extranet site to obtain access to product information, support, services, or training.
+In order to offer you a more consistent and personalized experience in your interactions with Dell, information collected through one source may be combined with information Dell obtains through other sources. This may include information that allows us to identify you across multiple devices through which you access our websites. We may also supplement the information we collect with information obtained from other parties, including our Business Partners and other third parties. 
 
+Some Dell services may be co-branded and offered in conjunction with another company. If you register for or use such services, both Dell and the other company may receive information collected in conjunction with the co-branded services, and may use the information according to each company's privacy statement and other agreements with you.
 
+### How We Use Personal Information
 
-For purposes of this Privacy Statement, “personal information” means information that can be used to personally identify you, such as your name, address, telephone number, email address, user IDs and passwords, billing and transaction information, credit card or other financial information, contact preferences, and similar information.
+Dell uses your Personal Information to:
 
-We also may collect information that is related to you but that does not personally identify you, such as your computer’s operating system, browser, and information regarding your use of and activities on our websites or applications. See also the discussion below on cookies and other electronic tools used for the collection of such information.
+  * Deliver the services and support or carry out the transactions you have requested; 
+  * Send communications to you, such as product safety information, your transaction status including order confirmations, information about particular Dell programs in which you have chosen to participate, information about products and services available from Dell and its subsidiaries, promotional offers and surveys; 
+  * Facilitate communications from Dell Business Partners; 
+  * Customize, analyze and improve our products, services (including the content and advertisements on our website), technologies, communications and relationship with you; 
+  * Enforce our conditions of sale, website terms and/or separate contracts (if applicable) with you; 
+  * Prevent fraud and other prohibited or illegal activities; 
+  * Protect the security or integrity of our website(s), our business(es), or our products or services; or 
+  * Otherwise, as disclosed to you at the point of collection.
 
-### How Does EMC Use Your Information?
 
-EMC may use information that we collect from or about you, including any personal information:
 
-  * to welcome you,
-  * to help you complete a transaction or in order to deliver products or services requested by you,
-  * to bill you for products or services you purchased,
-  * to provide ongoing service and support, including event-related communications,
-  * to carry out our obligations or enforce our rights arising from any contracts entered into between you and us,
-  * to notify you about changes to our websites or applications, or any products or services we offer or provide through them,
-  * to improve our websites, applications, services, and products, including by developing data analytics and reports about your and others’ use of them,
-  * to contact you to complete surveys that we use for marketing or quality assurance purposes,
-  * to display tailored online advertisements that may interest you,
-  * to e-mail or otherwise send you marketing or other promotional information about EMC or others’ products or services that may interest you,
-  * to combat fraud or any other criminal activity,
-  * to fulfill any other purpose for which you provide the information,
-  * in any other way we may describe when you provide the information,
-  * to combat fraud or any other criminal activity,
-  * as otherwise required or permitted by law, and/or
-  * for any other purpose with your consent.
+Personal Information collected may be stored and processed in the United States or any other country in which Dell or its subsidiaries or Business Partners maintain facilities.
 
+### Disclosing Personal Information
 
+We may share your Personal Information with subsidiaries or Business Partners to carry out transactions you request, or to make our business or that of our subsidiaries more responsive to your needs, which includes our subsidiaries providing you with information about Dell, and Dell-branded products and services. These communications may include requests relating to Dell and Dell-branded products or services or offers. We will only share your Personal Information with Business Partners who agree to protect your Personal Information and use it solely for the purposes set forth by Dell.
 
-To assist us with the uses described in this Privacy Statement, information we or our service providers have collected from or about you through EMC websites, applications, or our email communications with you, including about your use of such websites and applications, may be combined with or enhanced by other information from or about you that we have obtained from other online or offline sources, including from our service providers or business partners.
+In addition, Dell may share your Personal Information with participants in our sales and marketing chain, including but not limited to retailers, resellers, distributors, integrators, order fulfillers and some sales agents (“Channel Partners”), for the limited purposes of selling, marketing or providing support for Dell products and services. 
 
-EMC's websites or applications, including third-party applications, may provide online chat forums, including newsgroups and blogs, for our users. Any information that you disclose in these forums becomes public information, which could be read, collected, copied, modified, or otherwise used by other users of these forums, operators of these forums (including third parties), search engines such as Google, and others to send you unsolicited messages, identify you, index and display your postings in search results, or for other purposes. You should exercise caution when deciding to disclose your personal information. To request removal of your personal information from our forums, contact us at [general_counsel@emc.com](mailto:general_counsel@emc.com). In some cases, we may not be able to remove your personal information, in which case we will let you know and explain why. We do not have access to or control over the information posted on a third-party application. To learn how a third-party application uses your information, please review their privacy statement. We may also provide a "Live Chat" functionality, in which EMC personnel can monitor the user's areas of interest in the website or application and engage in instant messaging with the user to provide additional information or answer any questions. By posting in our forums and using "Live Chat," you explicitly consent to these uses of your information. You are solely responsible for the personal information you choose to submit in these forums. For testimonials, we provide a choice as to whether a user posts his or her personal information along with the testimonial. If you wish to make the request that your testimonial be removed, you may contact us at [general_counsel@emc.com](mailto:general_counsel@emc.com). In some cases, we may not be able to remove your testimonial, in which case we will let you know and explain why. See also the next section for an explanation of how EMC uses cookies, web beacons, and other electronic tools to collect other information about you for advertising and other purposes.
+We may also disclose your Personal Information in connection with law enforcement, fraud prevention or other legal action; as required by law or regulation; if Dell (or a part of Dell) is sold or merges with another company; or if Dell reasonably believes it is necessary to protect Dell, its customers or the public.
 
-### Collection of Information Using Cookies and Other Tools
+Except as described above, we will not disclose your Personal Information to third parties for their own marketing purposes without your consent.
 
-EMC may collect and/or log your Internet Protocol address, Internet domain name, the web browser and operating system used to access EMC websites or applications, the pages or files visited, the time spent in each page or file, and the time and date of each visit or use. EMC may collect this information automatically as you browse our websites or use our applications through the use of log files, web beacons, or other electronic tools.
+### How You Can Access Your Information
 
-EMC may also use cookies and other electronic tools to automatically collect information about your use of our websites, applications, or emails. Cookies are text files that are sent from a website via your browser and placed on your computer's hard drive or your mobile device. Thereafter, when you visit that website, a message is sent back to the web server by the browser accessing the website, and this information about your activities is stored in the cookie. The information collected through cookies and other electronic tools (e.g., the web pages you visit on the website and navigation patterns, the date and time of your visit, the number of links you click within the site, the functions you use on the site, the databases you view and the searches you request on the site, the data you save on, or download from, the site, the websites you visited immediately before and after visiting the site, and when you open our emails or click on any of their links) is used and analyzed to improve our service to you and to personalize your web-browsing experience by providing EMC with a better understanding of your interests and requirements regarding our websites and applications. The information collected through cookies and other electronic tools may be linked to your personal information, such as your email address or password.
+Dell wants to help you keep your Personal Information accurate. To view or edit your Personal Information that has been stored online in your Dell account, please visit the [My Account ](https://www.dell.com/identity/v2/discovery?whr=urn:transaction)or [Premier Account ](https://premier.dell.com/)sections of the Dell.com website. For the security of your account, you will be required to sign in with your login ID and password. If you have any questions about the type of Personal Information we hold about you or if you wish to request deletion or correction of Personal Information we hold about you, please send a written request to [privacy@dell.com](mailto:privacy@dell.com) or the postal address provided at the bottom of this Privacy Statement.
 
-We may also use cookies and other electronic tools placed by a third-party service provider to measure the effectiveness of our advertising and other information and to help us understand what product information is of most interest to you and what kinds of advertising offers you like to see. Although the service provider logs the information coming from our websites or applications on our behalf, EMC controls how that data may and may not be used. If you do not want to assist EMC in improving our products, offers, and marketing strategy, you can opt out of this website analysis tool with respect to mobile applications and EMC.com by clicking [here](http://ecn-analytics-nssl.emc.com/optout.html). Websites of EMC subsidiaries or divisions may use similar tracking tools for similar internal business purposes only. These websites may not offer this opt-out functionality. EMC also does not process or respond to web browsers’ “do not track” signals or other similar transmissions that indicate a request to disable online tracking of users who visit our websites or use our applications. However, if you wish to opt out of targeted ads for any EMC websites covered by the TRUSTe program, you may opt out by [clicking here](http://preferences.truste.com/) (or, if you are located in the European Union, click [here](http://youronlinechoices.eu/)). Please note this will not opt you out of being served generic advertising. You may also elect not to accept cookies by changing the designated settings on your web or mobile browser. Or you can set your browser to notify you when you are being sent a cookie, giving you the chance to decide whether or not to accept it. The help function on most browsers contains instructions on how to set your browser to notify you before accepting cookies, or disable cookies entirely. However, disabling cookies in either manner may prevent you from using certain functions and features of websites, and the advertising you receive when you visit the site may not be advertisements tailored to your interests.
+### Selecting Your Communication Preferences and Opting Out of Marketing
 
-We or third-party advertisers or their advertising servers may also place or recognize unique cookies on your computer or use other electronic tools in order to help display advertisements that you see on our websites. Information about your visits to, and activity on, our websites, an IP address, the number of times you have viewed an advertisement, and other such usage information is used, alone or in combination with other information, to display on your computer screen advertisements that may be of particular interest to you. The use and collection of your information by these third-party advertisers and their advertising servers is not covered by this Privacy Statement.
+You may choose to receive or not receive marketing communications from Dell by indicating your preferences. Opportunities to select your preferences include the following: 
 
-To opt out of advertising cookies placed by the Network Advertising Initiative’s ("NAI") or Digital Advertising Alliance’s (“DAA”) member networks, and thereby limit the tracking of your online activity and the tailored advertising you receive, please click [here](http://www.networkadvertising.org/managing/opt_out.asp) for the NAI opt-out mechanism or [here for the DAA opt-out mechanism (or, if you are located in the European Union, click](http://www.aboutads.info/choices/) [here](http://youronlinechoices.eu/)). Note that even if you opt out of cookies placed by such member networks and participating companies, you will still receive generic online advertising.
+  * The My Account and Premier Account sections on Dell.com allow you to choose whether you wish to receive marketing communications from Dell, and to subscribe or unsubscribe to newsletters about our products and services; and 
+  * At any point you can also visit our [List Removal Page](https://www.dell.com/content/public/xdbredirect.aspx?link=global:external:pmc-list-removal) and submit a request to be removed from our advertising and marketing lists (catalogs, telephone, faxes and email); 
+  * When you save a cart while shopping online, you can choose to receive email reminders; 
+  * Any marketing by Dell, or any third parties on behalf of Dell, will be conducted in accordance with applicable laws and include where applicable methods to allow you to express your preferences (including the possibility of being removed from our advertising and marketing lists as set forth above).
 
-We may use Local Storage Objects (LSOs) such as HTML5 (technology that stores information like a cookie) to collect and store unique but anonymous information about your activity on our website. Third parties with whom we partner to provide certain features on our website or to display advertising based upon your web browsing activity may use LSOs to collect and store such information. Various browsers may offer their own management tools for removing LSOs. To manage LSOs, please click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
 
-### With Whom Does EMC Share Your Information?
 
-We may disclose information that does not identify any individual (e.g., anonymous, aggregated data) without restriction.
+Please allow up to 10 business days for your email preferences to take effect. Because some promotions, such as direct mail catalogs, are developed in advance, you may sometimes receive solicitations after we receive your preference request.  
 
-EMC contracts with third-party service providers and suppliers (including distributors and resellers) to deliver certain products, services, and customer solutions. Examples of such services provided on our behalf are mail delivery, website hosting, transaction processing, processing payments, sending emails on our behalf, provide you with support via live chat software, and event planning. EMC may share your personal information with its service providers and suppliers to the extent necessary to deliver the product or service you requested, respond to your requests for information on products or services, or otherwise support your business needs. You will not have the opportunity to opt out of having your information shared with these third-party service providers and suppliers for these purposes, and they may contact you directly in connection with such purposes.
 
-Third-party service providers and suppliers receiving personal information are expected to maintain privacy and security protections that are consistent with EMC’s privacy and information security policies. These companies are authorized to use your personal information only for the purposes for which it was originally intended or as required or permitted by law. However, unless otherwise dictated by law or agreement, EMC is not responsible for any improper use by such parties.
+**
 
-We may also disclose your personal information and other information, including across country borders:
+### How We Secure Your Personal Information
 
-  * to our subsidiaries, affiliates, and worldwide offices,
-  * to third parties for their own use, such as to provide you with special offers and promotions that may be of interest to you,
-  * to share data about web visitors with third-parties for the third parties’ own analytics, reporting, or general advertising purposes,
-  * to comply with the law or in response to a subpoena, court order, law enforcement or government request, or other legal process,
-  * to produce relevant documents or information in connection with litigation, arbitration, mediation, adjudication, government or internal investigations, or other legal or administrative proceedings,
-  * if EMC determines in its good faith judgment that such disclosure is necessary to provide its services or to protect the rights, interests, safety, or property of its business, employees, suppliers, customers, or others,
-  * in connection with any proposed or actual sale or other transfer of some or all assets of EMC, and/or any proposed or actual sale or merger of EMC or any division of EMC,
-  * to enforce the terms of any agreement with EMC,
-  * to combat fraud or other criminal activity,
-  * for any other purpose disclosed by us when you provide the information,
-  * as otherwise required or permitted by law, and/or
-  * with your consent.
+** Dell takes all reasonable steps to protect your Personal Information from misuse, interference and loss, as well as unauthorized access, modification or disclosure. The ways we do this include:
 
+  * using encryption when collecting or transferring sensitive information, such as credit card details; 
+  * limiting physical access to our premises; 
+  * limiting access to the information we collect about you; 
+  * ensuring that we and our Business Partners have appropriate security safeguards to keep personal information secure; and 
+  * where required by law, destroying or de-identifying Personal Information.
 
 
-Some EMC websites or services may be co-branded or offered in conjunction with another company. If you register for or use such websites/services, both EMC and the other company may receive information collected in conjunction with the co-branded website/services.
 
-Unless permitted by relevant laws, EMC will not share, sell, trade, or lease your personal information to or with others except as provided for in this Privacy Statement.
+### Collection and Use of Children's Personal Information
 
-### Your Marketing Choices, Right to Access Your Personal Information, and Our Retention of Your Personal Information
+Dell takes children's privacy seriously. We do not knowingly collect personal information from children under the age of 13 through our websites. If you are under 13 years of age, please do not submit any personal information through our websites without the express consent and participation of a parent or guardian. 
 
-_Your Marketing Choices._ Your decision to provide the personal information that we may request from time to time is voluntary. However, if you do not provide the personal information requested, you may not be able to proceed with the activity or receive the benefit for which the personal information is being requested.
+### How We and Our Partners Use Cookies and Web Beacons
 
-You can unsubscribe or choose not to receive promotional materials from EMC (or from specific divisions or subsidiaries) by following the specific instructions in the email or other communication you receive or by notifying us via the appropriate method(s) described below depending on which website or service is at issue. It may take a reasonable period of time to process your request, but no longer than 30 days for direct mail and telephone promotions and 10 business days for email or text promotions. In countries where EMC is required to do so by law, EMC will offer you the opportunity to provide your opt-in consent before promotional materials are sent, or promotional calls are made, to you. This will not apply to service communications that are considered part of certain EMC services, which you may receive periodically unless you cancel the applicable service. To opt out of receiving marketing emails from a third-party partner, please follow the unsubscribe instructions in the email or other communication you receive from the partner or contact the partner directly. To opt out of having EMC share your personal information with a third-party partner for their own marketing use, please contact us at [emarketing@emc.com](mailto:emarketing@emc.com).
+#### How We and Our Partners Use Cookies
 
-_Your Access to Your Personal Information._ EMC strives to keep your personal information accurate. We have implemented technology, management processes, and policies to maintain data integrity. We will provide you with reasonable access to your personal information in accordance with relevant laws, including by making reasonable efforts to provide you with online access and the opportunity to update your information. To protect your privacy and security, we will take steps to verify your identity before granting access or making changes to your personal information. To request access to, or correction, deletion or removal of, your personal information, follow the applicable instructions below depending on which website or service is at issue. While we will make reasonable efforts to accommodate your request, we also reserve the right to reject such access requests or to impose certain restrictions and requirements on such requests, if required or permitted by applicable law. We will respond to requests for access within 30 days.
+Dell websites use Dell and third-party "cookies" to enable you to sign in to our services and to help personalize your online experience. These technologies and the information collected about you may also be used to track your activity across multiple devices. We use cookies to store your preferences and other information on your computer in order to save you time by eliminating the need to enter the same information repeatedly.
 
-_Our Retention of Your Information._ We will retain your personal information for as long as your account is active or as needed to provide you services. If you wish to cancel your account, or request that we no longer use your personal information to provide you services, contact us via the applicable information provided below. Even after we cancel your account or cease using your personal information to provide you services, we may still retain, use, and disclose your information as necessary to comply with our legal, regulatory, ethical, or document retention obligations, and any request to delete your personal information is subject to these obligations and restrictions.
+A cookie is a piece of text that is placed on your computer's hard drive. Depending on the settings you have selected, your browser adds the text to your device as a small file. Many browsers are set to accept cookies by default. **** You have the ability to accept or decline cookies as you prefer. The Help portion of your web browser, most likely found on the toolbar, typically tells you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether.
 
-### EMC Contact Information for Your Marketing Choices and Your Requests for Access or Deletion:
+Cookies allow you to take advantage of some of Dell's essential features, including allowing you to save a Shopping Cart and remembering items in your Shopping Cart between visits. If you choose to decline cookies, you may not be able to sign in or use other interactive features of Dell websites and services that depend on cookies.
 
-[emarketing@emc.com](mailto:emarketing@emc.com) or EMC, Attn: Marketing Department, 176 South Street, Hopkinton, MA, USA, 01748-9103.
+#### Targeted Display Advertising by Dell and Others
 
-### Transfer of Your Information to Other Countries
+Dell also works with advertising and personalization Business Partners to use cookies, Internet browsing, cross-mobile application browsing and online purchase data across multiple devices to help us display personalized content and appropriate advertising during your visits to mobile applications, Dell.com and other websites. Cookies placed by these Business Partners also assist us with measuring the performance of our advertising campaigns and with identifying the pages you view, the links and ads you click on, other actions you take on those web pages, and the site from which you came before arriving at a web page. These cookies can be effective whether you are on Dell.com or another website.
 
-In accordance with applicable law, personal and other information covered by this Privacy Statement may be transferred to, and processed and stored in, the United States or any other country in which EMC or its affiliates, subsidiaries, service providers, business partners, or customers maintain facilities, even if the level of data privacy required in that country is less than that required by the European Union. By submitting your personal information to EMC, you consent to such transfers and to the worldwide processing of your personal information.
+[Learn more](https://www.dell.com/spredir.ashx/solutions/ads-and-emails) about targeted advertising and how to opt out.
 
-### Links to Non-EMC Websites and Third Parties
+#### “Do Not Track” Signals
 
-EMC’s websites may provide links to third-party websites for your convenience and information. If you access those links, you will leave the EMC website. EMC does not control these third-party websites or their privacy practices, which may differ from EMC's. We do not endorse or make any representations about third-party websites. The personal information you choose to provide to unrelated third parties is not covered by the EMC Privacy Statement. We encourage you to review the privacy statement of any entity before submitting your personal information.
+Please note that while you may have the opportunity to opt-out of targeted advertising through the “Learn more” link above and you may be able to control the use of cookies through your web browser as described in the “How We and Our Partners Use Cookies” section above, some web browsers may also give you the ability to enable a “do not track” setting. This setting sends a special signal to the websites you encounter while web browsing. This “do not track” signal is different from disabling certain forms of tracking by declining cookies in your browser settings, as browsers with the “do not track” setting enabled still have the ability to accept cookies. Dell does not respond to web browser “do not track” signals at this time. If we do so in the future, we will describe how we do so in this Privacy Statement. For more information about “do not track,” visit [www.allaboutdnt.org](http://www.allaboutdnt.org/).
 
-### Security of Your Personal Information
+#### Targeted Email Marketing by Dell
 
-EMC has implemented reasonable administrative, technical, and physical measures designed to protect your personal information from accidental loss and from unauthorized access, disclosure, use, alteration, or destruction. When you provide us with credit card information via an EMC website, we will encrypt that information via SSL. If a password is used to help protect your accounts and personal information, it is your responsibility to keep your password confidential. Please also be careful to avoid “phishing” scams, where someone may send you an email that looks like it is from EMC asking for your personal information. EMC will not request your personal information through email. If you have questions regarding our security, you can contact us via [general_counsel@emc.com](mailto:general_counsel@emc.com).
+Some marketing you receive, including email marketing, may also be personalized based on your visits to Dell.com and your browsing and purchase history. In addition, when you click on some links in email marketing you receive, our email service provider may place a cookie on your browser. This type of cookie would be linked to your email address or IP address and used to gather information about the products and services you view and purchase on Dell.com. Information gathered may be used to personalize and customize future email marketing messages you receive. You may opt out of this use by clicking on the unsubscribe link provided in every personalized email marketing message you receive. 
 
-### Your California Privacy Rights
+#### How We and Our Partners Use Web Beacons, Pixel Tags and Tracking Technology
 
-If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information by EMC to its affiliates and/or third parties for their direct marketing purposes. To make such a request, please send an email with your first name, last name, mailing address, email address, and telephone number to EMC's Office of the General Counsel, at [general_counsel@emc.com](mailto:general_counsel@emc.com) or 176 South Street, Hopkinton, MA, USA, 01748. Please include “California Privacy Rights” in the subject line of your e-mail.
+Dell or its Business Partners may use web beacons on our websites, in our email messages, in our advertisements on other websites, or in our advertisements in others' email messages. Similarly, third parties whose content or advertisements appear at Dell.com, or whose email messages Dell.com sends to our users, may also place web beacons in their advertisements or email messages for purposes of measuring the effectiveness of the content, advertisements or email messages.
 
-### Social Media and Refer a Friend
+A web beacon is an electronic image that can be used to recognize a cookie on your computer when you view a web page or email message. Web beacons help us measure the effectiveness of our website and our advertising in various ways. For example, web beacons may count the number of individuals who visit our website from a particular advertisement or who make a purchase from our website after viewing a particular advertisement or they may tell us when a web page is viewed and provide a description of the page where the web beacon is placed. Web beacons may also measure the effectiveness of our email campaigns, by counting the number of individuals who open or act upon an email message, determining when an email message is opened and determining how many times an email message is forwarded. Subject to local laws, we may combine the information that we collect through web beacons with other Personal Information we have collected from you.
 
-Our websites or applications may include social media features, such as the Facebook “Like” button, and widgets, such as the ”share this” button. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our websites or applications. Your interactions with these features are governed by the privacy statement of the company providing them.
+We may allow some of our Business Partners to compile individual or aggregated statistics from the use of web beacons on Dell.com by Dell, its agents or others, to determine the effectiveness of online marketing and to develop statistics on how often clicking on an advertisement results in a purchase or other action on the advertiser's site. Aggregate information may include demographic and usage information. No Personal Information about you is shared with Business Partners for this research.  
+ ****  
+You can make some web beacons unusable by rejecting cookies in your web browser as described in the How We and Our Partners Use Cookies section above.
 
-If you choose to use our referral service to tell a friend about a page on an EMC website, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. EMC does not store this information, except to the extent permitted by law.
+When you visit our websites or view one of our email messages, we may use pixel tags (also called "clear" gifs), tracking links and/or similar technology to note some of the pages you visit on our websites. We may also use pixel tags to determine what types of email your browser supports. We may use the information collected through web beacons, pixel tags, tracking links and similar technology in combination with your Personal Information to personalize your experience on Dell.com and to provide you with more useful and relevant advertisements.
 
-### Children Under the Age of 13
+### Social Media Features
 
-EMC websites and applications are not intended for children under 13 years of age. No one under age 13 may provide any personal information to or on our websites or applications. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this website or application, or on or through any of its features, register on the website or application, make any purchases through the website or application, use any of the interactive or public comment features of this website or application, or provide any information about yourself to us, including your name, address, telephone number, email address or any screen name or user name you may use. If you believe we might have any information from or about a child under 13, please contact us at [general_counsel@emc.com](mailto:general_counsel@emc.com).
+Our website includes social media features, including Facebook “Like” button and Twitter “Follow” button. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features are either hosted by a third party or hosted directly on our Site. Your interactions with these features are governed by the privacy policy of the company providing it.
 
-### Personal Information of our Customers' Clients
+### Links to Third-Party Websites and Services
 
-When we provide services to our customers, in some instances we process personal information about their clients ("Client Information") on their behalf. In these situations, it is our customers rather than EMC who decide the reasons for which the Client Information will be processed. For details of how the Client Information will be used and protected, and details of how to access or correct the information, please refer to the privacy statement of the EMC customer to which you submitted your personal information.
+Please be aware that Dell provides links to other websites, which if you click on them may collect Personal Information about you. The information practices of those third-party websites linked to Dell.com are not covered by this Privacy Statement. We generally use the "" symbol to mark links that go to third party websites.
 
-### Questions About and Enforcement of this Privacy Statement
+### Changes to This Privacy Statement
 
-If you have questions regarding our compliance with this Privacy Statement, please first contact us by making a written submission to EMC's Office of the General Counsel, at [general_counsel@emc.com](mailto:general_counsel@emc.com) or 176 South Street, Hopkinton, MA, USA, 01748. If we are unable to satisfactorily address your inquiry, you should contact TRUSTe by clicking [here](http://www.truste.com/about-truste/contact-us/), or by fax at 415-520-3420, or by mail to TRUSTe Compliance Dept, 835 Market Street, Suite 800, Box 137, San Francisco, CA 94103. TRUSTe will serve as a liaison with us to resolve your concerns.
+We will occasionally update this Privacy Statement. If we make changes to this Privacy Statement or make any material changes to how we use your Personal Information, we will revise this Privacy Statement to reflect such changes and revise this Privacy Statement's effective date, included at the end of this section. We encourage you to periodically review this Privacy Statement to be informed of how we are using and protecting your Personal Information.
 
-### Changes to this Privacy Statement
+### Contacting Us
 
-EMC will review and update this Privacy Statement periodically, and will note the date of its most recent revision above. If we make material changes to this Privacy Statement, we will notify you either by prominently posting a notice of such changes prior to implementing the changes or by directly sending you a notification. We encourage you to review this Privacy Statement frequently to be informed of how EMC is collecting, using, retaining, protecting, disclosing, and transferring your information.
+If you would like to contact us for any reason regarding our privacy practices, please write to us at the following address:
 
-[Truste Certification](http://privacy.truste.com/privacy-seal/EMC-Corporation/validation?rid=beed4676-e152-4a58-9ba6-7cb88e8da5f0)
+Dell Inc.  
+Attention: Privacy  
+One Dell Way, RR1-61  
+Round Rock, Texas 78682  
+USA
+
+You may also email us at [privacy@dell.com](mailto:privacy@dell.com).
+
+**Effective Date:  April 13, 2017.**
