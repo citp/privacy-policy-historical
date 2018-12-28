@@ -1,96 +1,249 @@
-> *The following text is extracted and transformed from the javascript.net privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120175407id_/http%3A//www.aftermarket.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the javascript.net privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228182453id_/http%3A//www.pluralsight.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | We Respect Your Privacy | Aftermarket.com
+# Privacy policy | Pluralsight
 
-Effective Date: 06/16/2014
+This Privacy Policy (“ **Privacy Policy** ”) applies to the corporate website accessible at <https://www.pluralsight.com/> (“ **Website** ”) and the cloud-based technology learning platform also accessible through that website, the video players used to view Pluralsight courses, and the mobile applications (“ **Platform** ”, and together with the Website, collectively, the “ **Site** ”), all owned and operated by Pluralsight, LLC, a Nevada limited liability company (“ **Pluralsight** ”, “ **we** ”, or “ **us** ”). This Privacy Policy describes how Pluralsight collects and uses personal information collected through the Website and the Platform. It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information. 
 
-Aftermarket, Inc. ("us," "we," or "Aftermarket") is committed to respecting the privacy rights of its users of or visitors to the domain, sub-domains, and affiliated domains of www. Aftermarket.com (collectively, the "Site") and/or utilizing Aftermarket's domain marketplace services (the "Services"). We created this Aftermarket Privacy Policy ("Privacy Policy") to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices and the protection of privacy. This Privacy Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy. 
+**This Privacy Policy sets out:**
 
-Aftermarket, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through the Site and does not cover information that may be collected behind the log in on our website. 
+  * The information we collect about you
+  * How we use the information we collect
+  * Who we give your information to
+  * Control of your information
+  * Your access to your information and how long we keep it
+  * How we protect your information
+  * Where we store your information
+  * Use of Cookies
+  * Links to other websites
+  * Information about our participation in Privacy Shield
+  * Public forums
+  * Payment processing
+  * Information about enforcement and dispute resolution
+  * Changes to this Privacy Policy
+  * Contact us
 
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [support@aftermarket.com](mailto:support@aftermarket.com). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). 
 
-Aftermarket complies with the U.S. - E.U. Safe Harbor and the U.S. - Swiss Safe Harbor Frameworks as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the from European Union member countries and Switzerland respectively. Aftermarket has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Aftermarket's certification, please visit <http://www.export.gov/safeharbor/>
 
-**Section 1. Information Collection Practices.**
+Please read the following carefully to understand our views and practices regarding your personal information and how we will treat it. By engaging with the Website and the Platform you acknowledge you have read and understood this Privacy Policy. Data protection laws require companies to describe their role and responsibility when handling personal information.   
 
-Section 1.1. Types of Information Collected.
 
-a. Traffic Data Collected. As is true of most web sites, we automatically track and collect the following categories of information when you visit our Site and store it in log files: (1) IP addresses; (2) web servers; (3) types of computers accessing the Site; and (4) types of web browsers used to access the Site (collectively "Traffic Data"). Traffic Data is anonymous information that does not personally identify you but is helpful for marketing purposes or for improving your experience on the Site. 
+When users access our Website and view information about us and our technology, communicate with us, download whitepapers, and register for events etc, we are the **_data controller_**.   
 
-b. Personal Information Collected. In order for you to access aspects of the Site or Service, we require you to obtain a user account and provide us with certain information that personally identifies you ("Personal Information"). Personal Information includes the following categories of information: (1) Contact Data (such as your name, mailing address, and e-mail address) and (2) Financial Data (such as your bank account, tax ID and/or credit card number). If you communicate with us by e-mail, any information provided in such communication may be collected as Personal Information. 
 
-c. Data Supplementation. If you participate in Aftermarket's domain monetization program (the "Program") , we will ask you for tax documentation such as Form W-9, Form W-8 or a Certification of No US Activities. This information is necessary for us to issue you potentially required 1099s in connection with the income you make through the Program. 
+When an individual engages with the Platform because their employer has signed up to a Business plan (as defined in our Terms of Use at <https://www.pluralsight.com/terms>, the “ **Terms of Use** ”) or a Company Partnership Subscription (see below), then;
 
-Section 1.2. Uses of Information Collected.
+  * the user’s employer is the **_data controller_** with respect to the user information it provides to us. This information typically includes first name, last name, and business email address. Where your employer is data controller in this way, we act as a **_data processor_** under data protection laws, meaning we use the information to provide a service to your employer.
+  * Pluralsight is the **_data controller_** for information provided directly by the individual or as a result of interacting with the Platform, including assessment data, a secondary email address, additional profile details such as job title, personal website URL, a short bio, social platform handles, and demographic information such as your gender, year of birth, and your work industry. To be clear, none of these additional profile details are required to utilize our Site, but we can offer you an enhanced experience if you provide it.
 
-a. Company Use of the Information. We use Contact Data to contact you when necessary, facilitate contact and negotiations between you and other Aftermarket users or to send you information about our company or our services. We use your Financial Data to verify your qualifications to participate in certain aspects of services and to facilitate domain purchases and sales. 
 
-b. Sharing of Personal Information. We share certain categories of information we collect from you in the ways described in this Privacy Policy. We share your Contact Data and Financial Data with Aftermarket's parent company, Thought Convergence, Inc., and Thought Convergence, Inc.'s wholly owned subsidiaries. Thought Convergence, Inc. and its wholly owned subsidiaries shall uphold the same standards of security and confidentiality that we have promised to you in this Privacy Policy, and they will use your Contact Data and other Personal Information to carry out their specific business obligations to Aftermarket, send you information about their company and their services, and when necessary to have your user accounts with the various companies interact. We maintain a procedure for you to review and request changes to your Personal Information; this procedure is described in Section 2.1, below. 
 
-c. Exceptional disclosure of information. Except as otherwise provided in this Privacy Policy, we will keep your Personal Information private and will not share it with third parties, unless such disclosure is necessary to: (a) as required by law, such as to comply with a subpoena, or similar legal process; (b) protect our rights or property, protect your safety or the safety of others, investigate fraud, or respond to a government request; (c) if Aftermarket is involved in a merger, acquisition, or sale of all or a portion of its assets, in which case you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, or (d) enforce the Aftermarket User Agreement. 
+When an individual signs up as a user of the Platform via an Individual Plan (as defined in the [Terms of Use](https://www.pluralsight.com/terms)), Pluralsight is the **_data controller_** for all personal information provided by that user and collected by the Platform as the user accesses and uses it.
 
-d. Service Providers. We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us. 
+#####  The information we collect about you 
 
-e. User Choice Regarding Collection, Use, and Distribution of Personal Information. You may choose not to provide us with any Personal Information. In such an event, you can still access and use much of the Site; however you will not be able to access and use those aspects of the Site and/or Services that require your Personal Information. 
+We value your trust. In order to honor that trust, Pluralsight adheres to ethical standards in gathering, using, and safeguarding any information you provide.
 
-Section 1.3. Tracking Technologies / Cookies
+**We collect and process the following personal information from you:**
 
-a. Cookies. A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. 
+**Information you give to us:  
+**
 
-We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. 
+This is information about you that you give us directly when you interact with us. You may give it to us by filling out a form on our Site, corresponding with us by phone, e-mail, or at an in-person event. It includes information necessary to register for a subscription, pay for a subscription, or place an order for other services we provide. It also includes information shared when you participate in a discussion board, share on social media via our Site, enter a competition or promotion, submit a query, report feedback about or a problem within our Site, or any of the other Interactive Services (defined in the [Terms of Use](https://www.pluralsight.com/terms)). When you create an account for our Platform, we require you provide first name, last name, and email address. When you purchase a subscription, we will need payment and billing information, often including an address and credit card information. Additionally, you can provide additional personal information to complete a profile within our system. 
 
-We set a persistent cookie to store your passwords, so you don't have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. 
+**Information we collect about you from your use of our Site:  
+**
 
-If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited. 
+We will automatically collect information from you each time you visit our Site. This includes technical information, information about your visit, and information about your activity on our Site such as courses searched and viewed, page response times, download errors, length of visit to certain pages, page interaction information (such as scrolling, clicks, and mouseovers), methods to browse to and away from a page, and methods used to contact our sales and support teams. Technical information may also include the Internet protocol address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating systems, and device platform. 
 
-b. Web Beacons. We employ a software technology called clear gifs (a.k.a. Web Beacons), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information. 
+**Information we receive from other sources:**
 
-c. 3rd Party Tracking. The use of cookies by our service providers is not covered by our privacy policy. We do not have access or control over these cookies. Our service providers use session ID cookies to provide us with web analytics data, which we use to continually improve the Site. 
+This is information we receive about you from third parties that we work closely with to provide, promote, and improve our services. These third parties include business partners, vendors who assist in technical and payment services, advertising networks, analytics providers, and search information providers.
 
-Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do not tie the information gathered to our Customers' or Users' personally identifiable information. 
+#####  How we use the information we collect 
 
-d. Behavioral Targeting. Re-Targeting. We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads. 
+**Information you give to us:**
 
-**Section 2. Confidentiality and Security of Personal Information.**
+Pluralsight uses the personal information you provide in a manner that is consistent with this Privacy Policy. We use your personal information to provide our services on our Site, including services arising from any obligations set forth in a contract between you and us. These services may include providing access to our course library, administration of your account, billing, and notifying you of changes to our service or your account. This data will also be used to allow you to participate in the interactive features of our Site or to provide you with information you may have requested from us, including whitepapers, access to webinars, or the like.
 
-The security of your personal information is important to us. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). 
+We also use your personal information together with other personally non-identifiable information to help us better understand our users, to personalize and improve your experience with our Site, and to improve the content and functionality of our Site. This may include providing information about our goods and services that we feel may interest you and enhance your interaction with our Site. We will communicate with you about these goods and services via email, direct mail, telephone, or on our Site. These communications may include newsletters, promotional emails, product updates, or market research requests. We will use your information for this purpose only if you have given your consent to receive marketing material from us at the point we collected your information, where required by law, or otherwise in our legitimate interests, provided these interests do not override your right to object to such communications.
 
-We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [support@aftermarket.com](mailto:support@aftermarket.com). 
+**Information we collect about you from your use of our Site:**
 
-Section 2.1. User Ability to Access, Update, and Correct Personal Information.
+We will use this information in our legitimate interests (where we have considered these are not overridden by your rights), to administer our Site, and for internal operations, including troubleshooting, data analysis, testing, research, and statistical survey purposes. We will also use this information to keep our Site safe and secure, for measuring the effectiveness of how we present content and how we market and advertise. We use Internet protocol addresses and non-personally identifiable information in our log files to analyze trends, to administer our Site, to track users’ movements in and around our Site, and to gather demographic information about our user base as a whole. We also utilize unstructured machine learning technologies to understand user behaviors and to provide user-specific recommendations and other personalization of our Site experience. 
 
-a. Information Access. If your personal information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove, or ask to have it removed by making the change in your user account setting page, by emailing our Customer Support at [support@aftermarket.com](mailto:support@aftermarket.com) or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within 30 days. 
+**Information we receive from other sources:**
 
-b. Data Retention. We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+We will combine this information with information you give to us and information we collect about you in our legitimate interests (where we have considered that these are not overridden by your rights). We will use this information and the combined information for the purposes set out above (depending on the types of information we receive).
 
-c. Opt-Out Preferences. If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or you can contact us at [support@aftermarket.com](mailto:support@aftermarket.com). 
+#####  Who we give your information to 
 
-d. Blog. Our blog is managed by a third party application that may require you to register to post a comment. We do not have access or control of the information posted to the blog. You will need to contact or login into the third party application if you want the personal information that was posted to the comments section removed. To learn how the third party application uses your information, please review their privacy policy. 
+We consider your personal information to be a vital part of our relationship with you and do not sell your personal information to third parties. There are, however, certain circumstances in which we may share your personal information with certain third parties, as follows:
 
-Section 2.2. Lost or Stolen Information.
+**Agents, Consultants and Related Third Parties:  **
 
-You must promptly notify us if your username or password is lost, stolen, or used without permission. In such an event, we will remove that username or password from your account and update our records accordingly. 
+We sometimes hire other companies to perform certain business-related functions, such as sending email on our behalf, payment processing, or conducting market research. We also share your email address with third parties, such as Facebook, LinkedIn, and Twitter in order to provide custom marketing materials for you on their platforms. When we employ another company to perform a function of this nature, we only provide them with the information that they need to perform their specific function. These companies are not permitted to use any personal information that we share with them for any other purpose aside from providing services to us.
 
-Section 2.3. Third Party Links and Technologies.
+**Business Plans and Company Partnership Subscriptions:    
+**
 
-a. Links to 3rd party sites. Our Site includes links to other Web sites whose privacy practices may differ from those of Aftermarket. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Web site you visit. 
+We partner with certain third parties to provide our services to their employees or their community members. As part of such partnerships, a third party may pay for the subscription for its employees or community members or otherwise contract with Pluralsight to make your subscription available to you, and Pluralsight may share information about your use of our services with the third party. If your subscription was provided by your employer or community sponsor (including Company Partnerships as defined in the [Terms of Use](https://www.pluralsight.com/terms)), we may share information you provide, or information we may otherwise collect through your registration and use of our services, with such third party. This information may include course viewing history, course viewing time, course or assessment completion, course quality ratings and feedback, certifications, performance-related metrics, and other personal information. 
 
-b. Facebook Connect. You can log in to our site using sign-in services such as Facebook Connect. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network. 
+**Business Transfers:  **
 
-c. Widgets and Applets. Our Web site includes Social Media Features, such as the Facebook Like button, the Share this button and interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
+As we develop our business, we might sell or buy businesses or assets. Your personal information may be transferred to a buyer or other successor in the event of a corporate sale, merger, reorganization, dissolution, or similar event in which personal information held by us about our Site users is among the assets transferred.
 
-**Section 3. Updates and Changes to the Policy.**
+**Legal Requirements:  **
 
-We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. 
+In certain situations, Pluralsight may be required to disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. We reserve the right to disclose your personal information as required by law and when we believe that disclosure is necessary to protect our rights or to comply with a judicial proceeding, court order, or similar legal process served on us or our Site.
 
-**Section 4. Contact information**
+We will take reasonable steps to ensure that we only collect that personal information that is relevant for the purposes for which it is to be used. Furthermore, we will not process your personal information in a way that is incompatible with these purposes.
 
-Aftermarket.com  
-11300 W. Olympic Blvd.  
-9th Floor  
-Los Angeles, CA 90064 
+#####  Control of your information 
 
-Phone | 310.909.7909  
-Fax | 310.231.3373  
-Premium Membership Fax | 1.800.783.4011 
+When you register, or otherwise give us personal information, we will not share that information with third parties without your permission, other than for the limited exceptions already listed. It will only be used for the purposes stated in this Privacy Policy. When Pluralsight is acting as a **_data processor_** , we will only process personal information in accordance with the instructions given by the **_data controller_**. When Pluralsight is acting as a data controller, we will act in accordance with your permission to offer you our services and as otherwise instructed by you. We will also give you the ability to opt out before we disclose your personal information to a third party or use your personal information for purposes that are fundamentally different than the purpose for which it was originally created.
+
+If you would like to discontinue receiving communications from us, you may update your email preferences by using the “Unsubscribe” link found in emails we send to you or on the Communications Preferences Dashboard located in your member profile on our Site or by contacting us at [support@pluralsight.com](mailto:support@pluralsight.com). Please note that we may not include the opt-out information in e-mails that are transactional in nature and are not marketing communications (i.e., e-mails concerning your order, the website’s Terms of Use, etc.). You will not have the ability to opt-out of receiving transactional emails via the Communications Preferences Dashboard. If you have questions or concerns regarding a transactional e-mail, please contact us.
+
+#####  Your access to your information and how long we keep it 
+
+Upon request, Pluralsight will provide you with information about whether we hold, or process on behalf of a third party, any of your personal information. To request this information please contact us at [support@pluralsight.com](mailto:support@pluralsight.com). 
+
+We will provide you with the means to ensure that your personal information is correct and current. If you have registered to use the Platform, we will provide a way for you to access and change your profile on our Platform. We will also allow you to completely delete your profile along with all personal information associated with that profile, although this option may significantly degrade your experience with our Platform. You may request deletion by accessing your profile and clicking on the link available there. Alternatively, you may contact us at [support@pluralsight.com](mailto:support@pluralsight.com). We will respond to your request within a reasonable timeframe. Requesting deletion of your account means your personal information is permanently deleted and cannot be retrieved.
+
+If you would like to view your personal information that we hold at any time, you may access your profile from our Site.
+
+We retain your information while your account is active or as needed to provide you services. Thereafter, we may retain certain personal information indefinitely as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. We may also retain aggregate information for research purposes and to help us develop and improve our Site and services.
+
+#####  How we protect your information 
+
+The security of your personal information is important to us. When you enter sensitive information (such as a credit card number) on our checkout page, your information is sent over an authenticated and encrypted connection using Transport Layer Security (TLS).
+
+We store your personal information only on servers with limited access that are located in controlled facilities, and use a variety of technologies and procedures intended to protect your personal information from loss, misuse, unauthorized access, disclosure, alteration and destruction. Nonetheless, no communication via the Internet can ever be 100% secure, and no security measures can ever be assured to be effective. Accordingly, you are advised to use caution and discretion when determining what personal information to disclose to us.  
+
+
+If you have any questions about security on our Site, contact us as follows:  
+
+
+Email: [support@pluralsight.com](mailto:support@pluralsight.com) 
+
+Phone: (801) 784-9007 opt 1
+
+#####  Where we store your information 
+
+The data that we collect from you is transferred to, and stored at, a destination in the United States. Pluralsight participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. For more information on Pluralsight’s participation in EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework, please see below.
+
+Pluralsight and its affiliates use cookies or similar technologies to collect and store certain information. These typically involve pieces of information or code that a website transfers to or accesses from your computer hard drive or mobile device to store and sometimes track information about you. Cookies allow us to create a unique device ID, enable you to be remembered when using that computer or device to interact with websites and online services, and can be used to manage a range of features and content, including storing searches and presenting personalized content.
+
+The Site uses cookies to distinguish you from other users of our Site. This helps us to provide you with a good and personalized user experience when you interact with our Site and also allows us to improve our Site.   
+
+
+Most web browsers automatically accept cookies, but if you prefer, you can change your browser to prevent that. We also give you information about how to disable cookies in the table below. However, you may not be able to take full advantage of our Site if you do so.   
+
+
+A number of cookies we use last only while you are on our Site and expire when you close your browser or exit our Site Others are used to remember you when you return to our Site and will last for longer. We use these cookies on the basis that they are necessary for the performance of a contract with you, or because using them is in our legitimate interests (where we have considered that these are not overridden by your rights), and, in some cases, where required by law, where you have consented to their use.
+
+We use the following types of cookies:  
+
+
+**Strictly necessary cookies.** These are cookies that are required for the operation of our website and under our terms with you. They include, for example, cookies that enable you to log into secure areas of our website, use a shopping cart or make use of e-billing services. 
+
+**Analytical/performance cookies.** They allow us to recognise and count the number of visitors and to see how visitors move around our website when they are using it. This helps us for our legitimate interests of improving the way our website works, for example, by ensuring that users are finding what they are looking for easily. 
+
+**Functionality cookies.** These are used to recognise you when you return to our website. This enables us, subject to your choices and preferences, to personalize our content, greet you by name and remember your preferences (for example, your choice of language or region).
+
+**Targeting cookies.** These cookies record your visit to our website, the pages you have visited and the links you have followed. We will use this information subject to your choices and preferences to make our Site and the advertising displayed on it more relevant to your interests. We may also share this information with third parties for this purpose.
+
+We may also work with advertising networks that gather information about the content on our Site you visit and on information on other websites and services you visit. This may result in you seeing advertisements on our Site or our advertisements when you visit other websites and services of third parties. For more information about how to turn this feature off, see below or visit [https://preferences-mgr.truste.com](https://preferences-mgr.truste.com/) and learn more about opting out of targeted ads. There you will find links for resources specifically for citizens of the United States, Canada, and the European Union. 
+
+The effect of disabling cookies depends on which cookies you disable but, in general, our Site may not operate properly if all cookies are switched off. If you only disable third party cookies, you will not be prevented from making purchases on our Site. If you disable all cookies, you will be unable to complete a purchase on our Site.  
+
+
+If you want to disable cookies on our Site, you need to change your website browser settings to reject cookies. How you can do this will depend on the browser you use. Further details on how to disable cookies for the most popular browsers are set out below:
+
+**For Microsoft Internet Explorer:**
+
+  1. Choose the menu “tools” then “Internet Options”
+  2. Click on the “privacy” tab
+  3. Select the setting the appropriate setting
+
+
+
+**For Google Chrome:**
+
+  1. Choose Settings> Advanced
+  2. Under “Privacy and security,” click “Content settings”.
+  3. Click “Cookies”
+
+
+
+**For Safari:**
+
+  1. Choose Preferences > Privacy
+  2. Click on “Remove all Website Data”
+
+
+
+**For Mozilla Firefox:**
+
+  1. Choose the menu “tools” then “Options”
+  2. Click on the icon “privacy”
+  3. Find the menu “cookie” and select the relevant options
+
+
+
+**For Opera 6.0 and further:**
+
+  1. Choose the menu Files”> “Preferences”
+  2. Privacy
+
+
+
+Where you have not set your permissions, we may also separately prompt you regarding our use of cookies on our Site.
+
+Except for essential cookies, all cookies used on our Site will expire after two years.
+
+This Privacy Policy applies only to our Site. The Site may contain links to other web sites not operated or controlled by us. The policies and procedures described here do not apply to web sites or other services that Pluralsight does not operate or control. These links from our Site do not imply that we endorse or have reviewed those web sites or other services. We suggest contacting those services directly for information on their privacy policies.
+
+#####  Information about our participation in Privacy Shield 
+
+Pluralsight participates in and has certified its compliance with the EU-U.S. and the Swiss-U.S. Privacy Shield frameworks. We are committed to subjecting all information received from the European Union (“ **EU** ”) and European Economic Area and Switzerland which constitutes “personal data” subject to the EU’s and Switzerland’s privacy laws (“ **EU and Swiss Personal Data** ”), in reliance on Privacy Shield, to the applicable Privacy Shield Principles. To learn more about Privacy Shield and to view our certification, visit the U.S. Department of Commerce’s Privacy Shield List (<https://www.privacyshield.gov/list>). Our compliance with applicable Privacy Shield Principles is further described as follows:
+
+**_Collection and use; Purpose._** Pluralsight collects and uses EU and Swiss Personal Data as described in the sections above about how we collect and use personal information.
+
+**_Third party disclosure._** We may disclose EU and Swiss Personal Data as described in the sections above about how and when we disclose personal information.
+
+**_Security._** Pluralsight protects the security of EU and Swiss Personal Data during transfer and storage as described in the sections above about how we protect personal information.
+
+**_Onward transfer._** Where Pluralsight transfers personal data from the EU or Switzerland, we do so under the Privacy Shield framework. Pluralsight maintains contracts with third parties who act on behalf of Pluralsight and to whom we transfer personal data that restrict their access, use, and disclosure of personal data in compliance with our Privacy Shield obligations. Pluralsight complies with the Privacy Shield Principles for all onward transfers of EU and Swiss Personal Data, including the onward transfer liability provisions.
+
+**_Access and choice._** Residents of the EU and Switzerland whose personal data Pluralsight has directly collected may request access to, and the opportunity to correct, amend, or delete such personal data. To submit such requests or raise any other questions, please contact us at [support@pluralsight.com](mailto:support@pluralsight.com). Pluralsight reserves the right to take appropriate steps to authenticate an applicant’s identity and charge a reasonable fee before providing access and deny requests, except as required by the Privacy Shield principles.
+
+**_Recourse; enforcement; liability._** Pluralsight complies with the Privacy Shield Principles for recourse, enforcement and liability. Pluralsight uses a third party (outside compliance review) agent to assure compliance with this Privacy Policy and periodically verifies that this Privacy Policy is accurate, comprehensive for the information intended to be covered, prominently displayed, completely implemented and accessible and in conformance with Privacy Shield principles. You may direct inquiries or complaints concerning our Privacy Shield compliance to [support@pluralsight.com](mailto:support@pluralsight.com). Pluralsight will respond within 45 days. If we fail to respond or if our response did not satisfactorily address your concern, you may file a report with our U.S.-based third party dispute resolution provider (free of charge) at  _<https://feedback-form.truste.com/watchdog/request>_. Pluralsight has further committed to cooperate with the panel established by the EU data protection authorities (DPAs) with regard to unresolved Privacy Shield complaints concerning human resources data transferred from the EU in the context of the employment relationship. Under certain conditions, more fully described on the Privacy Shield website at <https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+
+**_Jurisdiction.  _**With respect to EU and Swiss Personal Data received or transferred pursuant to the Privacy Shield framework, Pluralsight is subject to the regulatory investigation and enforcement powers of the U.S. Federal Trade Commission.
+
+The Site may, from time to time, make chat rooms, message boards, news groups, or other public forums available to its users, whether by way of our own services or by way of the services or features of a third party. Any information that is disclosed in these areas becomes public information and you should exercise caution when using these areas and avoid posting any personal or sensitive information. If a separate login is required to use these areas, please be aware that you may need to also log out separately.
+
+When you purchase a subscription directly from Pluralsight, payment details you provide in the designated checkout page on our Site will be encrypted using the Transport Layer Security (TLS) protocol before they are submitted to us over the internet. Payments made on our Site are made through one of our payment gateway providers, Cybersource, Adyen, or PayPal (“ **Payment Processors** ”), which may be changed from time to time. You will be providing credit or debit card information directly to the Payment Processor which operates a secure server to process payment details, encrypting your credit/debit card information and authorizing payment. Information which you supply to the Payment Processor is not within our control and is subject to the Payment Processor’s own privacy policy and terms and conditions.
+
+#####  Information about enforcement and dispute resolution 
+
+We will conduct compliance audits of our relevant privacy practices to verify compliance with this Privacy Policy. Any Pluralsight employee that we determine has acted in violation of this Privacy Policy will be subject to disciplinary action up to and including termination of employment.
+
+Any questions or concerns regarding our use or disclosure of personal information should be addressed to Customer Support at [support@pluralsight.com](mailto:support@pluralsight.com). We will investigate and attempt to resolve any complaints and disputes regarding the use and disclosure of personal information in accordance with the provisions of this Privacy Policy.
+
+Pluralsight has committed to refer unresolved Privacy Shield complaints to TRUSTe, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgement of your complaint from us, or if we have not resolved your complaint, please contact TRUSTe for more information or to file a report. The services of TRUSTe are provided at no cost to you.
+
+#####  Changes to this Privacy Policy 
+
+As our Site evolves, this Privacy Policy will need to evolve as well to cover new situations. To ensure that you are kept informed of changes, check this Privacy Policy periodically as we will update the date at the top of the document any time we make a change. If we make material changes to this Privacy Policy, we will post the revised policy on this page and will send a notice via email or our Site to all registered users of the Platform. Your continued use of our Site after any such changes constitutes your acceptance of the new Privacy Policy. If you do not agree to abide by these or any future version of the Privacy Policy, you do not have permission to use or access (or continue to use or access) our Site.
+
+Questions or comments regarding this Privacy Policy should be submitted to Pluralsight by e-mail or phone as follows:
+
+Email: [support@pluralsight.com](mailto:support@pluralsight.com)
+
+Phone: (801) 784-9007 opt 1.
+
+Physical Address: 182 N. Union Ave, Farmington, UT 84025
+
+[END OF PRIVACY POLICY]
