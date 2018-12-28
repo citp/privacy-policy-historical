@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the investfourmore.com privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914181943id_/https%3A//investfourmore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investfourmore.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228122300id_/https%3A//investfourmore.com/privacy-policy) for the most accurate reproduction.*
 
 # Invest Four More Privacy Policy for Registration and Orders
 
@@ -49,12 +49,12 @@ Occasionally, at our discretion, we may include or offer third party products or
 DoubleClick DART Cookie  
 .:: Google, as a third party vendor, uses cookies to serve ads on www.investfourmore.com.  
 .:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.investfourmore.com and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – https://www.google.com/privacy_ads.html
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include:
 
   * Google Adsense
-  * Rakuten Linkshare – <http://www.linkshare.com/legal/privacy/>
+  * Rakuten Linkshare – <https://www.linkshare.com/legal/privacy/>
 
 
 
@@ -84,13 +84,25 @@ This online privacy policy applies only to information collected through our web
 
 **Your Consent**
 
-By using our site, you consent to our [online privacy policy](http://www.freeprivacypolicy.com/).
+By using our site, you consent to our [online privacy policy](https://www.freeprivacypolicy.com/).
 
 **Changes to our Privacy Policy**
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-This policy was last modified on 10/11/2013
+**How long we retain your data**
+
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
+
+For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
+
+**What rights you have over your data**
+
+If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
+
+**Where we send your data**
+
+Visitor comments may be checked through an automated spam detection service.
 
 **Contacting Us**
 
@@ -99,4 +111,6 @@ If there are any questions regarding this privacy policy you may contact us usin
 www.investfourmore.com  
 info@investfourmore.com
 
-This policy is powered by Trust Guard [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm).
+This policy is powered by Trust Guard [PCI compliance](https://www.trust-guard.com/PCI-Compliance-s/65.htm).
+
+This policy was last modified on May 25, 2018
