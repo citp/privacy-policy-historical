@@ -1,0 +1,782 @@
+<!--The following is the downloaded HTML source of the coinmarketcap.com privacy policy that was archived on 2018-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181228161705id_/https%3A//coinmarketcap.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><!--<![endif]--><head>
+<meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge"><script src="https://js-agent.newrelic.com/nr-spa-1099.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MNVXW26"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQ4BV1dWDxACVVZTAAUEUVI="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(21),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,s){try{l?l-=1:o(s||new UncaughtException(t,e,n),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t,e){var n=e?null:c.now();i("err",[t,n])}var i=t("handle"),a=t(22),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,p="nr@seenError",l=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(13),t(12),"addEventListener"in window&&t(6),c.xhrWrappable&&t(14),d=!0)}s.on("fn-start",function(t,e,n){d&&(l+=1)}),s.on("fn-err",function(t,e,n){d&&!n[p]&&(f(n,p,function(){return!0}),this.thrown=!0,o(n))}),s.on("fn-end",function(){d&&!this.thrown&&l>0&&(l-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(){M++,N=y.hash,this[u]=g.now()}function o(){M--,y.hash!==N&&i(0,!0);var t=g.now();this[h]=~~this[h]+t-this[u],this[d]=t}function i(t,e){E.emit("newURL",[""+y,e])}function a(t,e){t.on(e,function(){this[e]=g.now()})}var s="-start",c="-end",f="-body",u="fn"+s,d="fn"+c,p="cb"+s,l="cb"+c,h="jsTime",m="fetch",v="addEventListener",w=window,y=w.location,g=t("loader");if(w[v]&&g.xhrWrappable){var b=t(10),x=t(11),E=t(8),O=t(6),P=t(13),R=t(7),T=t(14),L=t(9),j=t("ee"),S=j.get("tracer");t(15),g.features.spa=!0;var N,M=0;j.on(u,r),j.on(p,r),j.on(d,o),j.on(l,o),j.buffer([u,d,"xhr-done","xhr-resolved"]),O.buffer([u]),P.buffer(["setTimeout"+c,"clearTimeout"+s,u]),T.buffer([u,"new-xhr","send-xhr"+s]),R.buffer([m+s,m+"-done",m+f+s,m+f+c]),E.buffer(["newURL"]),b.buffer([u]),x.buffer(["propagate",p,l,"executor-err","resolve"+s]),S.buffer([u,"no-"+u]),L.buffer(["new-jsonp","cb-start","jsonp-error","jsonp-end"]),a(T,"send-xhr"+s),a(j,"xhr-resolved"),a(j,"xhr-done"),a(R,m+s),a(R,m+"-done"),a(L,"new-jsonp"),a(L,"jsonp-end"),a(L,"cb-start"),E.on("pushState-end",i),E.on("replaceState-end",i),w[v]("hashchange",i,!0),w[v]("load",i,!0),w[v]("popstate",function(){i(0,M>1)},!0)}},{}],5:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(13),s=t(12),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",p="resource",l="-start",h="-end",m="fn"+l,v="fn"+h,w="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(8);var b=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof b&&(this.bstStart=g.now())}),o.on(v,function(t,e){var n=t[0];n instanceof b&&i("bst",[n,e,this.bstStart,g.now()])}),a.on(m,function(t,e,n){this.bstStart=g.now(),this.bstType=n}),a.on(v,function(t,e){i(w,[e,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(v,function(t,e){i(w,[e,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+l,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],6:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(24)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=c(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?s(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],7:[function(t,e,n){function r(t,e,n){var r=t[e];"function"==typeof r&&(t[e]=function(){var t=r.apply(this,arguments);return o.emit(n+"start",arguments,t),t.then(function(e){return o.emit(n+"end",[null,e],t),e},function(e){throw o.emit(n+"end",[e],t),e})})}var o=t("ee").get("fetch"),i=t(21);e.exports=o;var a=window,s="fetch-",c=s+"body-",f=["arrayBuffer","blob","json","text","formData"],u=a.Request,d=a.Response,p=a.fetch,l="prototype";u&&d&&p&&(i(f,function(t,e){r(u[l],e,c),r(d[l],e,c)}),r(a,"fetch",s),o.on(s+"end",function(t,e){var n=this;if(e){var r=e.headers.get("content-length");null!==r&&(n.rxSize=r),o.emit(s+"done",[null,e],n)}else o.emit(s+"done",[t],n)}))},{}],8:[function(t,e,n){var r=t("ee").get("history"),o=t(24)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],9:[function(t,e,n){function r(t){function e(){c.emit("jsonp-end",[],p),t.removeEventListener("load",e,!1),t.removeEventListener("error",n,!1)}function n(){c.emit("jsonp-error",[],p),c.emit("jsonp-end",[],p),t.removeEventListener("load",e,!1),t.removeEventListener("error",n,!1)}var r=t&&"string"==typeof t.nodeName&&"script"===t.nodeName.toLowerCase();if(r){var o="function"==typeof t.addEventListener;if(o){var a=i(t.src);if(a){var u=s(a),d="function"==typeof u.parent[u.key];if(d){var p={};f.inPlace(u.parent,[u.key],"cb-",p),t.addEventListener("load",e,!1),t.addEventListener("error",n,!1),c.emit("new-jsonp",[t.src],p)}}}}}function o(){return"addEventListener"in window}function i(t){var e=t.match(u);return e?e[1]:null}function a(t,e){var n=t.match(p),r=n[1],o=n[3];return o?a(o,e[r]):e[r]}function s(t){var e=t.match(d);return e&&e.length>=3?{key:e[2],parent:a(e[1],window)}:{key:t,parent:window}}var c=t("ee").get("jsonp"),f=t(24)(c);if(e.exports=c,o()){var u=/[?&](?:callback|cb)=([^&#]+)/,d=/(.*)\.([^.]+)/,p=/^(\w+)(\.|$)(.*)$/,l=["appendChild","insertBefore","replaceChild"];f.inPlace(HTMLElement.prototype,l,"dom-"),f.inPlace(HTMLHeadElement.prototype,l,"dom-"),f.inPlace(HTMLBodyElement.prototype,l,"dom-"),c.on("dom-start",function(t){r(t[0])})}},{}],10:[function(t,e,n){var r=t("ee").get("mutation"),o=t(24)(r),i=NREUM.o.MO;e.exports=r,i&&(window.MutationObserver=function(t){return this instanceof i?new i(o(t,"fn-")):i.apply(this,arguments)},MutationObserver.prototype=i.prototype)},{}],11:[function(t,e,n){function r(t){var e=a.context(),n=s(t,"executor-",e),r=new f(n);return a.context(r).getCtx=function(){return e},a.emit("new-promise",[r,e],e),r}function o(t,e){return e}var i=t(24),a=t("ee").get("promise"),s=i(a),c=t(21),f=NREUM.o.PR;e.exports=a,f&&(window.Promise=r,["all","race"].forEach(function(t){var e=f[t];f[t]=function(n){function r(t){return function(){a.emit("propagate",[null,!o],i),o=o||!t}}var o=!1;c(n,function(e,n){Promise.resolve(n).then(r("all"===t),r(!1))});var i=e.apply(f,arguments),s=f.resolve(i);return s}}),["resolve","reject"].forEach(function(t){var e=f[t];f[t]=function(t){var n=e.apply(f,arguments);return t!==n&&a.emit("propagate",[t,!0],n),n}}),f.prototype["catch"]=function(t){return this.then(null,t)},f.prototype=Object.create(f.prototype,{constructor:{value:r}}),c(Object.getOwnPropertyNames(f),function(t,e){try{r[e]=f[e]}catch(n){}}),a.on("executor-start",function(t){t[0]=s(t[0],"resolve-",this),t[1]=s(t[1],"resolve-",this)}),a.on("executor-err",function(t,e,n){t[1](n)}),s.inPlace(f.prototype,["then"],"then-",o),a.on("then-start",function(t,e){this.promise=e,t[0]=s(t[0],"cb-",this),t[1]=s(t[1],"cb-",this)}),a.on("then-end",function(t,e,n){this.nextPromise=n;var r=this.promise;a.emit("propagate",[r,!0],n)}),a.on("cb-end",function(t,e,n){a.emit("propagate",[n,!0],this.nextPromise)}),a.on("propagate",function(t,e,n){this.getCtx&&!e||(this.getCtx=function(){if(t instanceof Promise)var e=a.context(t);return e&&e.getCtx?e.getCtx():this})}),r.toString=function(){return""+f})},{}],12:[function(t,e,n){var r=t("ee").get("raf"),o=t(24)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],13:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(24)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],14:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):v?v(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(6);var f=t("ee"),u=f.get("xhr"),d=t(24)(u),p=NREUM.o,l=p.XHR,h=p.MO,m=p.PR,v=p.SI,w="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];e.exports=u;var b=window.XMLHttpRequest=function(t){var e=new l(t);try{u.emit("new-xhr",[e],e),e.addEventListener(w,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(l,b),b.prototype=l.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!v&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===w||a()})},{}],15:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=a.now()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(e.cat=c.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=c(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(16),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,p=t("id"),l=t(19),h=t(18),m=window.XMLHttpRequest;a.features.xhr=!0,t(14),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,l&&(l>34||l<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var s=0;s<d;s++)e.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)})}},{}],16:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],17:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(s(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(21),s=t(22),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],p="api-",l=p+"ixn-";a(d,function(t,e){u[e]=o(p+e,!0,"api")}),u.addPageAction=o(p+"addPageAction",!0),u.setCurrentRouteName=o(p+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[f.now(),t,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],n),t}finally{c.emit("fn-end",[f.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],18:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],19:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],20:[function(t,e,n){function r(t,e){if(!o)return!1;if(t!==o)return!1;if(!e)return!0;if(!i)return!1;for(var n=i.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(o="Safari",i=c[1])}e.exports={agent:o,version:i,match:r}},{}],21:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],22:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],23:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],24:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(22),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(f){p([f,"",[r,a,o],s])}u(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],s),d}finally{u(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<e.length;c++)s=e[c],a=t[s],r(a)||(t[s]=n(a,f?s+o:o,i,s))}function u(n,r,o){if(!c||e){var i=c;c=!0;try{t.emit(n,r,o,e)}catch(a){p([a,n,r,o])}c=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){p([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function p(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function n(n,r,o,i){if(!p.aborted||i){t&&t(n,r,o);for(var a=e(o),s=m(n),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[g[n]];return d&&d.push([b,n,r,a]),a}}function l(t,e){y[t]=m(t).concat(e)}function h(t,e){var n=y[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return y[t]||[]}function v(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",g[n]=e,e in u||(u[e]=[])})}var y={},g={},b={on:l,addEventListener:l,removeEventListener:h,emit:n,get:v,listeners:m,context:e,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(u.api||u.feature)&&(p.aborted=!0,u=p.backlog={})}var s="nr@context",c=t("gos"),f=t(21),u={},d={},p=e.exports=o();p.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!E++){var t=x.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(g,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()+x.offset],null,"api");var n=l.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-x.offset}var s=(new Date).getTime(),c=t("handle"),f=t(21),u=t("ee"),d=t(20),p=window,l=p.document,h="addEventListener",m="attachEvent",v=p.XMLHttpRequest,w=v&&v.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:v,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var y=""+location,g={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-spa-1099.min.js"},b=v&&w&&w[h]&&!/CriOS/.test(navigator.userAgent),x=e.exports={offset:s,now:a,origin:y,features:{},xhrWrappable:b,userAgent:d};t(17),l[h]?(l[h]("DOMContentLoaded",i,!1),p[h]("load",r,!1)):(l[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",s],null,"api");var E=0,O=t(23)},{}]},{},["loader",2,15,5,3,4]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"6d0ece54b7","agent":"","transactionName":"NFBbY0VUXEEEARUPXg0af0JZVkZbCgxOBV4KW1RWRV5XRgYDEUhHClBORBlBQFMLEQ0HRQZRA0dFXERTBhs+Fl4PXFpO","applicationID":"217174376","errorBeacon":"bam.nr-data.net","applicationTime":43}</script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CoinMarketCap Privacy Policy</title>
+<link rel="preload" as="font" href="https://s2.coinmarketcap.com/static/cloud/fonts/glyphicons-regular.woff2" type="font/woff2" crossorigin="">
+<link rel="preconnect" href="https://s2.coinmarketcap.com" crossorigin="">
+<link rel="preconnect" href="https://files.coinmarketcap.com">
+<link rel="preconnect" href="//www.googletagmanager.com">
+<meta name="google-site-verification" content="EDc1reqlQ-zAgeRrrgAxRXNK-Zs9JgpE9a0wdaoSO9A">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="CoinMarketCap">
+<meta property="og:image" content="https://s2.coinmarketcap.com/static/cloud/img/splash_600x315_1.png">
+<meta property="og:image:type" content="image/png">
+<meta property="og:image:width" content="600">
+<meta property="og:image:height" content="315">
+<meta name="twitter:card" content="summary_large_image">
+<meta property="og:title" content="CoinMarketCap Privacy Policy">
+<meta name="description" content="Privacy Policy">
+<meta property="og:description" content="Privacy Policy">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="canonical" href="https://coinmarketcap.com/privacy/">
+<meta property="og:url" content="https://coinmarketcap.com/privacy/">
+<link rel="alternate" href="https://coinmarketcap.com/de/privacy/" hreflang="de">
+<link rel="alternate" href="https://coinmarketcap.com/privacy/" hreflang="en">
+<link rel="alternate" href="https://coinmarketcap.com/es/privacy/" hreflang="es">
+<link rel="alternate" href="https://coinmarketcap.com/fil/privacy/" hreflang="fil">
+<link rel="alternate" href="https://coinmarketcap.com/fr/privacy/" hreflang="fr">
+<link rel="alternate" href="https://coinmarketcap.com/hi/privacy/" hreflang="hi">
+<link rel="alternate" href="https://coinmarketcap.com/it/privacy/" hreflang="it">
+<link rel="alternate" href="https://coinmarketcap.com/ja/privacy/" hreflang="ja">
+<link rel="alternate" href="https://coinmarketcap.com/ko/privacy/" hreflang="ko">
+<link rel="alternate" href="https://coinmarketcap.com/pt-br/privacy/" hreflang="pt-br">
+<link rel="alternate" href="https://coinmarketcap.com/ru/privacy/" hreflang="ru">
+<link rel="alternate" href="https://coinmarketcap.com/tr/privacy/" hreflang="tr">
+<link rel="alternate" href="https://coinmarketcap.com/vi/privacy/" hreflang="vi">
+<link rel="alternate" href="https://coinmarketcap.com/zh/privacy/" hreflang="zh">
+<link rel="alternate" href="https://coinmarketcap.com/zh-tw/privacy/" hreflang="zh-tw">
+<meta name="apple-itunes-app" content="app-id=1282107098">
+<link href="https://s2.coinmarketcap.com/static/cloud/compressed/base.92f2d925.min.css" rel="stylesheet">
+<link href="https://files.coinmarketcap.com/static/header_banner/header-banner-production.css" rel="stylesheet">
+<script>
+        function getCookie(e){var n=" "+document.cookie,t=" "+e+"=",i=null,o=0,u=0;return n.length>0&&-1!=(o=n.indexOf(t))&&(o+=t.length,-1==(u=n.indexOf(";",o))&&(u=n.length),i=unescape(n.substring(o,u))),i}
+
+        var DEFAULT_CURRENCY = 'USD';
+        dataLayer = [{
+            'section': 'Misc',
+            'subSection': 'Privacy Policy',
+            'firstSessionDate': getCookie('gtm_session_first'),
+            'lastSessionDate': getCookie('gtm_session_last'),
+            'language': 'en',
+            'currency': getCookie('currency') || DEFAULT_CURRENCY,
+            'siteTheme': getCookie('theme') || 'day'
+        }];
+        </script>
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-MNVXW26');
+        </script>
+
+<script src="https://s2.coinmarketcap.com/static/cloud/compressed/basehead.443c6f62.min.js"></script>
+</head>
+<body>
+
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MNVXW26" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<!--[if lt IE 7]>
+            <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+        <![endif]-->
+<script>
+            NightMode.init();
+        </script>
+<header class="global-stats desktop text-small hidden-xs">
+<div class="container global-stats-container">
+<div class="pull-right dropdowns-col hidden-sm">
+<div class="btn-group">
+<button type="button" class="btn btn-default btn-xs dropdown-toggle language-dropdown" data-toggle="dropdown">
+<span data-language-dropdown="">English</span> <span class="caret"></span>
+</button>
+<ul class="dropdown-menu language-dropdown-menu text-center" role="menu">
+<li class="pointer"><a href="/de/privacy/" data-language-toggle="de">Deutsch</a></li>
+<li class="pointer"><a href="/privacy/" data-language-toggle="en">English</a></li>
+<li class="pointer"><a href="/es/privacy/" data-language-toggle="es">Español</a></li>
+<li class="pointer"><a href="/fil/privacy/" data-language-toggle="fil">Filipino</a></li>
+<li class="pointer"><a href="/fr/privacy/" data-language-toggle="fr">Français</a></li>
+<li class="pointer"><a href="/hi/privacy/" data-language-toggle="hi">हिन्दी</a></li>
+<li class="pointer"><a href="/it/privacy/" data-language-toggle="it">Italiano</a></li>
+<li class="pointer"><a href="/ja/privacy/" data-language-toggle="ja">日本語</a></li>
+<li class="pointer"><a href="/ko/privacy/" data-language-toggle="ko">한국어</a></li>
+<li class="pointer"><a href="/pt-br/privacy/" data-language-toggle="pt-br">Português Brasil</a></li>
+<li class="pointer"><a href="/ru/privacy/" data-language-toggle="ru">Русский</a></li>
+<li class="pointer"><a href="/tr/privacy/" data-language-toggle="tr">Türkçe</a></li>
+<li class="pointer"><a href="/vi/privacy/" data-language-toggle="vi">Tiếng Việt</a></li>
+<li class="pointer"><a href="/zh/privacy/" data-language-toggle="zh">简体中文</a></li>
+<li class="pointer"><a href="/zh-tw/privacy/" data-language-toggle="zh-tw">繁體中文</a></li>
+</ul>
+</div>
+<div data-global-currency-switch="" class="btn-group global-currency-dropdown-container">
+<button type="button" class="btn btn-default btn-xs dropdown-toggle global-currency-dropdown" data-toggle="dropdown">
+<span data-currency-display="">USD</span> <span class="caret"></span>
+</button>
+<ul class="dropdown-menu global-currency-dropdown-menu text-center" role="menu">
+<li class="pointer"><a data-currency-toggle="">USD</a></li>
+<li class="pointer"><a data-currency-toggle="">DKK</a></li>
+<li class="pointer"><a data-currency-toggle="">JPY</a></li>
+<li class="pointer"><a data-currency-toggle="">PLN</a></li>
+<li class="pointer"><a data-currency-toggle="">AUD</a></li>
+<li class="pointer"><a data-currency-toggle="">EUR</a></li>
+<li class="pointer"><a data-currency-toggle="">KRW</a></li>
+<li class="pointer"><a data-currency-toggle="">RUB</a></li>
+<li class="pointer"><a data-currency-toggle="">BRL</a></li>
+<li class="pointer"><a data-currency-toggle="">GBP</a></li>
+<li class="pointer"><a data-currency-toggle="">MXN</a></li>
+<li class="pointer"><a data-currency-toggle="">SEK</a></li>
+<li class="pointer"><a data-currency-toggle="">CAD</a></li>
+<li class="pointer"><a data-currency-toggle="">HKD</a></li>
+<li class="pointer"><a data-currency-toggle="">MYR</a></li>
+<li class="pointer"><a data-currency-toggle="">SGD</a></li>
+<li class="pointer"><a data-currency-toggle="">CHF</a></li>
+<li class="pointer"><a data-currency-toggle="">HUF</a></li>
+<li class="pointer"><a data-currency-toggle="">NOK</a></li>
+<li class="pointer"><a data-currency-toggle="">THB</a></li>
+<li class="pointer"><a data-currency-toggle="">CLP</a></li>
+<li class="pointer"><a data-currency-toggle="">IDR</a></li>
+<li class="pointer"><a data-currency-toggle="">NZD</a></li>
+<li class="pointer"><a data-currency-toggle="">TRY</a></li>
+<li class="pointer"><a data-currency-toggle="">CNY</a></li>
+<li class="pointer"><a data-currency-toggle="">ILS</a></li>
+<li class="pointer"><a data-currency-toggle="">PHP</a></li>
+<li class="pointer"><a data-currency-toggle="">TWD</a></li>
+<li class="pointer"><a data-currency-toggle="">CZK</a></li>
+<li class="pointer"><a data-currency-toggle="">INR</a></li>
+<li class="pointer"><a data-currency-toggle="">PKR</a></li>
+<li class="pointer"><a data-currency-toggle="">ZAR</a></li>
+</ul>
+</div>
+<button type="button" class="btn btn-default btn-xs js-theme-switch" title="Day/Night Mode"><span class="glyphicons glyphicons-moon glyphicons--in-button"></span></button>
+</div>
+<ul class="global-stats-list list-inline hidden js-global-stats text-bold">
+<li>Cryptocurrencies: <strong><a href="/all/views/all/"><span class="js-global-stats-cryptocurrencies"></span></a></strong></li>
+<li><span class="icon-bullet">•</span> Markets: <strong><a href="/currencies/volume/24-hour/"><span class="js-global-stats-markets"></span></a></strong></li>
+<li><span class="icon-bullet">•</span> Market Cap: <strong><a href="/charts/"><span class="js-global-stats-market-cap" data-global-currency-market-cap=""></span></a></strong></li>
+<li><span class="icon-bullet">•</span> 24h Vol: <strong><a href="/charts/"><span class="js-global-stats-volume" data-global-currency-volume=""></span></a></strong></li>
+<li><span class="icon-bullet">•</span> BTC Dominance: <strong><a href="/charts/#dominance-percentage"><span class="js-global-stats-btc-dominance"></span>%</a></strong></li>
+</ul>
+</div>
+</header>
+<nav class="navbar navbar-default sitenav sitenav--tablet hidden-md hidden-lg">
+<div class="container">
+<div class="sitenav-navbar flex-container js-sitenav">
+<div class="sitenav-menu-toggle">
+<button type="button" class="btn-transparent padding-0x menu-toggle collapsed" data-toggle="collapse" data-target="#sitenav-tablet" aria-expanded="false">
+<span class="sr-only">Toggle navigation</span>
+<span class="glyphicons glyphicons-menu-hamburger sitenav__main-icon"></span>
+</button>
+</div>
+<div class="sitenav-logo">
+<a href="/">
+<span class="cmc-logo cmc-logo_color_black cmc-logo_size_responsive"></span>
+</a>
+</div>
+<div class="sitenav-search-box js-sitenav-search-box">
+<form action="/search/" class="navbar-form quick-search-container" role="search">
+<div class="form-group has-feedback !bottom-margin-0x">
+<input type="text" class="form-control quick-search-box quick-search-box--tablet js-quick-search" placeholder="Search" name="q">
+<span class="glyphicons glyphicons-remove form-control-feedback js-sitenav-search-collapse" aria-hidden="true"></span>
+</div>
+</form>
+</div>
+<div class="sitenav-search-trigger js-sitenav-search-trigger">
+<span class="glyphicons glyphicons-search sitenav__main-icon"></span>
+</div>
+</div>
+</div>
+<div class="collapse" id="sitenav-tablet">
+<ul class="list-group text-small bottom-margin-0x">
+<li class="list-group-item">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown">Rankings <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/">Market Cap - Top 100</a></li>
+<li><a href="/coins/">Market Cap - Top 100 (Coins)</a></li>
+<li><a href="/tokens/">Market Cap - Top 100 (Tokens)</a></li>
+<li><a href="/rankings/exchanges/">Exchanges - Top 100 (Adjusted Volume)</a></li>
+<li><a href="/rankings/exchanges/reported/">Exchanges - Top 100 (Reported Volume)</a></li>
+<li><a href="/exchanges/volume/24-hour/">Exchanges - All (24h Volume)</a></li>
+<li><a href="/currencies/volume/24-hour/">Cryptocurrencies - All (24h Volume)</a></li>
+<li><a href="/currencies/volume/monthly/">Cryptocurrencies - All (30d Volume)</a></li>
+</ul>
+</li>
+<li class="list-group-item">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown">Trending <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/gainers-losers/">Gainers and Losers</a></li>
+<li><a href="/new/">Recently Added</a></li>
+</ul>
+</li>
+<li class="list-group-item">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown">Tools <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/charts/">Global Charts</a></li>
+<li><a href="/historical/">Historical Snapshots</a></li>
+<li><a href="/converter/">Currency Converter Calculator</a></li>
+<li><a href="/glossary/">Crypto Glossary</a></li>
+<li><a href="/watchlist/">Watchlist</a></li>
+<li><a href="/widget/">Website Widgets</a></li>
+</ul>
+</li>
+<li class="list-group-item">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown">Services <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="https://coinmarketcap.com/advertising" target="_blank" rel="noopener">Advertising</a></li>
+<li><a href="/api/" target="_blank">Crypto API</a></li>
+<li><a href="/events/">Events Calendar</a></li>
+<li><a href="/newsletter/" target="_blank" rel="noopener">Newsletter</a></li>
+<li><a href="https://t.me/CoinMarketCap" target="_blank" rel="nofollow noopener">Telegram</a></li>
+</ul>
+</li>
+<li class="list-group-item">
+<div class="btn-group">
+<button type="button" class="btn btn-default btn-xs dropdown-toggle language-dropdown" data-toggle="dropdown">
+<span data-language-dropdown="">English</span> <span class="caret"></span>
+</button>
+<ul class="dropdown-menu language-dropdown-menu text-center" role="menu">
+<li class="pointer"><a href="/de/privacy/" data-language-toggle="de">Deutsch</a></li>
+<li class="pointer"><a href="/privacy/" data-language-toggle="en">English</a></li>
+<li class="pointer"><a href="/es/privacy/" data-language-toggle="es">Español</a></li>
+<li class="pointer"><a href="/fil/privacy/" data-language-toggle="fil">Filipino</a></li>
+<li class="pointer"><a href="/fr/privacy/" data-language-toggle="fr">Français</a></li>
+<li class="pointer"><a href="/hi/privacy/" data-language-toggle="hi">हिन्दी</a></li>
+<li class="pointer"><a href="/it/privacy/" data-language-toggle="it">Italiano</a></li>
+<li class="pointer"><a href="/ja/privacy/" data-language-toggle="ja">日本語</a></li>
+<li class="pointer"><a href="/ko/privacy/" data-language-toggle="ko">한국어</a></li>
+<li class="pointer"><a href="/pt-br/privacy/" data-language-toggle="pt-br">Português Brasil</a></li>
+<li class="pointer"><a href="/ru/privacy/" data-language-toggle="ru">Русский</a></li>
+<li class="pointer"><a href="/tr/privacy/" data-language-toggle="tr">Türkçe</a></li>
+<li class="pointer"><a href="/vi/privacy/" data-language-toggle="vi">Tiếng Việt</a></li>
+<li class="pointer"><a href="/zh/privacy/" data-language-toggle="zh">简体中文</a></li>
+<li class="pointer"><a href="/zh-tw/privacy/" data-language-toggle="zh-tw">繁體中文</a></li>
+</ul>
+</div>
+<div data-global-currency-switch="" class="btn-group global-currency-dropdown-container">
+<button type="button" class="btn btn-default btn-xs dropdown-toggle global-currency-dropdown" data-toggle="dropdown">
+<span data-currency-display="">USD</span> <span class="caret"></span>
+</button>
+<ul class="dropdown-menu global-currency-dropdown-menu text-center" role="menu">
+<li class="pointer"><a data-currency-toggle="">USD</a></li>
+<li class="pointer"><a data-currency-toggle="">DKK</a></li>
+<li class="pointer"><a data-currency-toggle="">JPY</a></li>
+<li class="pointer"><a data-currency-toggle="">PLN</a></li>
+<li class="pointer"><a data-currency-toggle="">AUD</a></li>
+<li class="pointer"><a data-currency-toggle="">EUR</a></li>
+<li class="pointer"><a data-currency-toggle="">KRW</a></li>
+<li class="pointer"><a data-currency-toggle="">RUB</a></li>
+<li class="pointer"><a data-currency-toggle="">BRL</a></li>
+<li class="pointer"><a data-currency-toggle="">GBP</a></li>
+<li class="pointer"><a data-currency-toggle="">MXN</a></li>
+<li class="pointer"><a data-currency-toggle="">SEK</a></li>
+<li class="pointer"><a data-currency-toggle="">CAD</a></li>
+<li class="pointer"><a data-currency-toggle="">HKD</a></li>
+<li class="pointer"><a data-currency-toggle="">MYR</a></li>
+<li class="pointer"><a data-currency-toggle="">SGD</a></li>
+<li class="pointer"><a data-currency-toggle="">CHF</a></li>
+<li class="pointer"><a data-currency-toggle="">HUF</a></li>
+<li class="pointer"><a data-currency-toggle="">NOK</a></li>
+<li class="pointer"><a data-currency-toggle="">THB</a></li>
+<li class="pointer"><a data-currency-toggle="">CLP</a></li>
+<li class="pointer"><a data-currency-toggle="">IDR</a></li>
+<li class="pointer"><a data-currency-toggle="">NZD</a></li>
+<li class="pointer"><a data-currency-toggle="">TRY</a></li>
+<li class="pointer"><a data-currency-toggle="">CNY</a></li>
+<li class="pointer"><a data-currency-toggle="">ILS</a></li>
+<li class="pointer"><a data-currency-toggle="">PHP</a></li>
+<li class="pointer"><a data-currency-toggle="">TWD</a></li>
+<li class="pointer"><a data-currency-toggle="">CZK</a></li>
+<li class="pointer"><a data-currency-toggle="">INR</a></li>
+<li class="pointer"><a data-currency-toggle="">PKR</a></li>
+<li class="pointer"><a data-currency-toggle="">ZAR</a></li>
+</ul>
+</div>
+<button type="button" class="btn btn-default btn-xs js-theme-switch" title="Day/Night Mode"><span class="glyphicons glyphicons-moon glyphicons--in-button"></span></button>
+</li>
+<li class="list-group-item">
+<a href="https://www.facebook.com/CoinMarketCap" target="_blank" rel="noopener"><span class="social social-facebook icon_size_lg icon_color_facebook-blue"></span></a>
+&nbsp;
+<a href="https://twitter.com/CoinMarketCap" target="_blank" rel="noopener"><span class="social social-twitter icon_size_lg icon_color_twitter-blue"></span></a>
+</li>
+</ul>
+</div>
+</nav>
+<header class="global-stats mobile text-small text-bold visible-xs js-global-stats">
+<div class="global-stats-uncollapsed">
+Market Cap: <strong><a href="/charts/"><span class="js-global-stats-market-cap" data-global-currency-market-cap=""></span></a></strong>
+<button class="pull-right dropdown-toggle" data-toggle="collapse" data-target="#global-stats-mobile-1" aria-expanded="false" aria-controls="global-stats-mobile-1"><span class="caret"></span></button>
+</div>
+<div id="global-stats-mobile-1" class="collapse">
+<ul class="list-group bottom-margin-0x">
+<li class="list-group-item">24h Vol: <strong><a href="/charts/"><span class="js-global-stats-volume" data-global-currency-volume=""></span></a></strong></li>
+<li class="list-group-item">BTC Dominance: <strong><a href="/charts/#dominance-percentage"><span class="js-global-stats-btc-dominance"></span>%</a></strong></li>
+<li class="list-group-item">Cryptocurrencies: <strong><a href="/all/views/all/"><span class="js-global-stats-cryptocurrencies"></span></a></strong></li>
+<li class="list-group-item last">Markets: <strong><a href="/currencies/volume/24-hour/"><span class="js-global-stats-markets"></span></a></strong></li>
+</ul>
+</div>
+</header>
+<nav class="navbar navbar-default sitenav sitenav--desktop hidden-xs hidden-sm bottom-margin-1x">
+<div class="container">
+<div class="sitenav-block">
+<a href="/">
+<span class="cmc-logo cmc-logo_color_black cmc-logo_size_lg"></span>
+</a>
+</div>
+<div class="sitenav-block">
+<ul class="nav navbar-nav">
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown">Rankings <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/">Market Cap - Top 100</a></li>
+<li><a href="/coins/">Market Cap - Top 100 (Coins)</a></li>
+<li><a href="/tokens/">Market Cap - Top 100 (Tokens)</a></li>
+<li><a href="/rankings/exchanges/">Exchanges - Top 100 (Adjusted Volume)</a></li>
+<li><a href="/rankings/exchanges/reported/">Exchanges - Top 100 (Reported Volume)</a></li>
+<li><a href="/exchanges/volume/24-hour/">Exchanges - All (24h Volume)</a></li>
+<li><a href="/currencies/volume/24-hour/">Cryptocurrencies - All (24h Volume)</a></li>
+<li><a href="/currencies/volume/monthly/">Cryptocurrencies - All (30d Volume)</a></li>
+</ul>
+</li>
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown">Trending <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/gainers-losers/">Gainers and Losers</a></li>
+<li><a href="/new/">Recently Added</a></li>
+</ul>
+</li>
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown">Tools <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/charts/">Global Charts</a></li>
+<li><a href="/historical/">Historical Snapshots</a></li>
+<li><a href="/converter/">Currency Converter Calculator</a></li>
+<li><a href="/glossary/">Crypto Glossary</a></li>
+<li><a href="/watchlist/">Watchlist</a></li>
+<li><a href="/widget/">Website Widgets</a></li>
+</ul>
+</li><li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown">Services <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="https://coinmarketcap.com/advertising" target="_blank" rel="noopener">Advertising</a></li>
+<li><a href="/api/" target="_blank">Crypto API</a></li>
+<li><a href="/events/">Events Calendar</a></li>
+<li><a href="/newsletter/" target="_blank" rel="noopener">Newsletter</a></li>
+<li><a href="https://t.me/CoinMarketCap" target="_blank" rel="nofollow noopener">Telegram</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="sitenav-block">
+<form action="/search/" class="navbar-form quick-search-container" role="search">
+<div class="form-group has-feedback">
+<input type="text" class="form-control quick-search-box js-quick-search" placeholder="Search" name="q">
+<span class="glyphicons glyphicons-search form-control-feedback" aria-hidden="true"></span>
+</div>
+</form>
+</div>
+</div>
+</nav>
+<div class="container main-section">
+<div class="row">
+<div class="col-xl-10 padding-top-1x">
+<div class="header">
+<h1 class="text-center">Privacy and Cookie Policy</h1>
+</div>
+<div class="row">
+<section class="col-md-8 col-md-offset-2">
+<section class="sub-section">
+<p>
+At CoinMarketCap, we’re committed to protecting and respecting your privacy. This Policy explains when and why we collect personal information about people who visit our website, how we use it, the conditions under which we may disclose it to others, and how we keep it secure. This Policy also explains how we use cookies and similar technology on our website.
+</p>
+<p>
+We may change this Policy from time to time so please check this page occasionally to ensure that you’re happy with any changes. By using our website, you’re agreeing to be bound by this Policy.
+</p>
+</section>
+<section class="sub-section">
+<h3>What Information Do We Collect?</h3>
+<p>
+CoinMarketCap ("CoinMarketCap", "we" or "us") collects (a) the e-mail addresses of those who communicate with us via e-mail, (b) aggregate information concerning what pages users access or visit, (c) information volunteered by the user (such as survey information and/or site registrations) and (d) information related to your use of the site, including IP address, geographic location, and date and time of your request.
+</p>
+</section>
+<section class="sub-section">
+<h3>How Do We Use the Information?</h3>
+<p>
+CoinMarketCap uses collected information for the following purposes:
+</p>
+<ol class="roman-numeral-list">
+<li>
+To fulfill a contract or take steps linked to a contract such as processing your registration on our website or sending you information about changes to our terms or policies;
+</li>
+<li>
+Where it is necessary for purposes which are in CoinMarketCap’s or third parties’ legitimate interests such (a) to provide the information or content you have requested, (b) to contact you about our programs, products, features or services, (c) for internal business purposes such as identification and authentication or customer service, (d) to ensure the security of our website, by trying to prevent unauthorized or malicious activities, (e) to enforce compliance with our terms of use and other policies, (f) to help other organizations (such as copyright owners) to enforce their rights, and (g) to tailor content, advertisements and offers for you or for other purposes disclosed at the time of collection. <br>If you do not wish to receive information about our programs, products, features or services, you may send an email to us at legal@coinmarketcap.com.
+</li>
+<li>
+Where you give us consent: such as (a) where you ask us to send marketing information to you via a medium where we need your consent; (b) where you give us consent to place cookies and to use similar technologies; and (c) on other occasions where we ask you for consent, for a purpose which we explain at that time.
+</li>
+<li>
+Where we are legally required to do so. We may also provide access to your personally identifiable information when legally required to do so, to cooperate with police investigations or other legal proceedings, to protect against misuse or unauthorized use of our website, to limit our legal liability and protect our rights, or to protect the rights, property or safety of visitors of the website or the public. In those instances, the information is provided only for that purpose.
+</li>
+</ol>
+</section>
+<section class="sub-section">
+<h3>How Do We Share Your Information?</h3>
+<p>
+We do not share or sell your personal data to other organizations for commercial purposes, except to provide products or services you’ve requested, when we have your permission, or under the following circumstances:
+</p>
+<ol class="roman-numeral-list">
+<li>
+It is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Terms of Service, or as otherwise required by law.
+</li>
+<li>
+We transfer information about you if CoinMarketCap is acquired by or merged with another company. In this event, CoinMarketCap will notify you before information about you is transferred and becomes subject to a different privacy policy.
+</li>
+<li>
+We provide such information to trusted businesses or persons for the sole purpose of processing personally identifying information on our behalf. When this is done, it is subject to agreements that oblige those parties to process such information only on our instructions and in compliance with this Privacy Policy and appropriate confidentiality and security measures.
+</li>
+<li>
+We provide such information to third parties who have entered into non-disclosure agreements with us.
+</li>
+<li>
+We provide such information to a company controlled by, or under common control with, CoinMarketCap for any purpose permitted by this Privacy Policy.
+</li>
+</ol>
+</section>
+<section class="sub-section">
+<h3>Cookies and Web Beacons</h3>
+<p>
+A cookie is a small amount of data, which often includes an anonymous unique identifier, which is sent to your browser from a website’s computers and stored on your computer’s hard drive. Cookies are required to use some CoinMarketCap services. CoinMarketCap and its ad management partners (“Ad Partners”) use cookies to record current session information.
+</p>
+<p>
+Our Ad Partners may also from time to time use web beacons (also known as Internet tags, pixel tags and clear GIFs). These web beacons are provided by our Ad Partners and allow Ad Partners to obtain information such as the IP address of the computer that downloaded the page on which the beacon appears, the URL of the page on which the beacon appears, the time the page containing the beacon was viewed, the type of browser used to view the page, and the information in cookies set by the Ad Partners. Web beacons enable our Ad Partners to recognize a unique cookie on your web browser, which in turn enables us to learn which advertisements bring users to our Website.
+</p>
+<p>
+With both cookies and web beacon technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address.
+</p>
+<p>
+You can opt-out of Google Analytics data collection with the <a href="https://tools.google.com/dlpage/gaoptout/" target="_blank" rel="nofollow noopener">Google Analytics Opt-out Browser Add-on</a>.
+</p>
+<p>
+You may also wish to refer to this website for additional information about disabling cookies from your browser: <a href="http://www.allaboutcookies.org/manage-cookies/" target="_blank" rel="nofollow noopener">http://www.allaboutcookies.org/manage-cookies/</a>.
+</p>
+</section>
+<section class="sub-section">
+<h3>Data Storage</h3>
+<p>
+CoinMarketCap uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run CoinMarketCap. CoinMarketCap owns the code, databases, and all rights to the CoinMarketCap application.
+</p>
+</section>
+<section class="sub-section">
+<h3>Security</h3>
+<p>
+We take precautions to ensure the security of your personal information. However, we cannot guarantee that hackers or unauthorized personnel may gain access to your personal information despite our efforts. You should note that in using the CoinMarketCap service, your information will travel over the Internet and through third party infrastructures which are not under our control.
+</p>
+<p>
+We cannot protect, nor does this Privacy Policy apply to, any information that you transmit to other users. You should never transmit personal or identifying information to other users.
+</p>
+</section>
+<section class="sub-section">
+<h3>Retention of Your Personal Information</h3>
+<p>
+We retain information as long as it is necessary to provide the services requested by you and others, subject to any legal obligations to further retain such information. Information associated with your account will generally be kept until it is no longer necessary to provide the services or until you ask us to delete it or your account is deleted whichever comes first. Additionally, we may retain information from deleted accounts to comply with the law, prevent fraud, resolve disputes, troubleshoot problems, assist with investigations, enforce the Terms of Use, and take other actions permitted by law. The information we retain will be handled in accordance with this Privacy Policy.
+</p>
+<p>
+Information about you that is no longer necessary and relevant to provide our services may be de-identified and aggregated with other non-personal data to provide insights which are commercially valuable to CoinMarketCap, such as statistics related to the use of CoinMarketCap’s website.
+</p>
+</section>
+<section class="sub-section">
+<h3>Children</h3>
+<p>
+The CoinMarketCap service is not intended for children under the age of 16, and we do not knowingly collect information from children under the age of 16.
+</p>
+<p>
+Children aged 16 or younger should not submit any personal information without the permission of their parents or guardians. By using the CoinMarketCap service, you are representing that you are at least 18 years old, or that you are at least 16 years old and have your parents’ or guardians’ permission to use the service.
+</p>
+</section>
+<section class="sub-section">
+<h3>Consent to Worldwide Transfer and Processing of Personal Information</h3>
+<p>
+CoinMarketCap is located in the United States. If you are not located in the United States, by accessing the website and providing personal information through it, you agree and acknowledge and consent to the collection, maintenance, processing and transfer of such information in and to the United States and other countries and territories. These other jurisdictions may have different privacy laws from your home jurisdiction and provide different levels of protection of personal information. CoinMarketCap does have processes and procedures in place to provide adequate levels of protection to protect the transfer of data from the European Union. You agree that the terms of this Privacy Policy will apply and you consent to the transmission and processing of your personal information in any jurisdiction.
+</p>
+</section>
+<section class="sub-section">
+<h3>EU and EEA Users’ Rights</h3>
+<p>
+If you are habitually located in the European Union or European Economic Area, you have the right to access, rectify, download or erase your information, as well as the right to restrict and object to certain processing of your information. While some of these rights apply generally, certain rights apply only in certain limited circumstances. We describe these rights below:
+</p>
+<p>
+   You have the right to access your personal data and, if necessary, have it amended or deleted or restricted. In certain instances you may have the right to the portability of your data. You can also ask us to not send marketing communications and not to use your personal data when we carry out profiling for direct marketing purposes. You can opt out of receiving email newsletters and other marketing communications by following the opt-out instructions provided to you in those emails. Transactional account messages will be unaffected if you opt-out from marketing communications.
+</p>
+</section>
+<section class="sub-section">
+<h3>Complaints</h3>
+<p>
+Should you wish to raise a concern about our use of your information (and without prejudice to any other rights you may have), you have the right to do so with your local supervisory authority, although we hope that we can assist with any queries or concerns you may have about our use of your personal data.
+</p>
+</section>
+<section class="sub-section">
+<h3>Your California Privacy Rights</h3>
+<p>
+California residents who provide personal information in obtaining products or services for personal, family or household use are entitled to request and obtain from us, once per calendar year, information about the customer information we shared, if any, with other businesses for their own direct marketing uses. If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year. To obtain this information, please email us at legal@coinmarketcap.com with the subject line "Request for California Privacy Information"; we will send you a reply e-mail containing the requested information. Not all information sharing is covered by the California "Shine the Light" requirements and only information on covered sharing will be included in our response.
+</p>
+<p>
+California Do Not Track (DNT): Because there is currently no industry or legal standard for recognizing or honoring DNT, we do not currently respond to DNT signals.
+</p>
+</section>
+<section class="sub-section">
+<h3>Changes</h3>
+<p>
+CoinMarketCap may periodically update this policy. We may notify you about significant changes in the way we treat personal information by placing a prominent notice on our website so please check back occasionally to ensure that you agree with the changes. If you do not, do not use the website or its services.
+</p>
+</section>
+<section class="sub-section">
+<h3>Questions</h3>
+<p>
+Any questions about this Privacy Policy should be addressed to this address: legal@coinmarketcap.com.
+</p>
+</section>
+<section class="sub-section">
+<p>
+Effective Date: May 25, 2018
+</p>
+</section>
+</section>
+</div>
+
+<div class="modal fade" id="donate_btc" tabindex="-1" role="dialog" aria-labelledby="donate_btc_label" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header text-center">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+<h4 class="modal-title" id="donate_btc_label">Donate Bitcoin</h4>
+</div>
+<div class="modal-body text-center">
+<strong>3CMCRgEm8HVz3DrWaCCid3vAANE42jcEv9</strong> <br> <img src="https://s2.coinmarketcap.com/static/cloud/img/qrcodes/donate_bitcoin.png" alt="Donate Bitcoin"><br>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="donate_ltc" tabindex="-1" role="dialog" aria-labelledby="donate_ltc_label" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header text-center">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+<h4 class="modal-title" id="donate_ltc_label">Donate Litecoin</h4>
+</div>
+<div class="modal-body text-center">
+<strong>LTdsVS8VDw6syvfQADdhf2PHAm3rMGJvPX</strong> <br> <img src="https://s2.coinmarketcap.com/static/cloud/img/qrcodes/donate_litecoin.png" alt="Donate Litecoin"><br>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="donate_eth" tabindex="-1" role="dialog" aria-labelledby="donate_eth_label" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header text-center">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+<h4 class="modal-title" id="donate_eth_label">Donate Ethereum</h4>
+</div>
+<div class="modal-body text-center">
+<strong>0x0074709077B8AE5a245E4ED161C971Dc4c3C8E2B</strong> <br> <img src="https://s2.coinmarketcap.com/static/cloud/img/qrcodes/donate_ethereum.png" alt="Donate Ethereum"><br>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="donate_bch" tabindex="-1" role="dialog" aria-labelledby="donate_bch_label" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header text-center">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+<h4 class="modal-title" id="donate_bch_label">Donate Bitcoin Cash</h4>
+</div>
+<div class="modal-body text-center">
+<strong>1LVXG4Z4oF6TrJfmUfSuLX8nqb8c5eCwha</strong> <br> <img src="https://s2.coinmarketcap.com/static/cloud/img/qrcodes/donate_bitcoin_cash.png" alt="Donate Bitcoin Cash"><br>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-xl-2 padding-top-2x">
+</div>
+</div>
+</div>
+<footer>
+<div class="container flex-container">
+<div class="footer-section footer-section--brand text-center">
+<div class="margin-bottom--lv1">
+<span class="cmc-logo cmc-logo_color_grey cmc-logo_size_md footer__cmc-logo"></span>
+</div>
+<div class="text-gray-light">© 2018 CoinMarketCap</div>
+</div>
+<div class="footer-section footer-section--links">
+<section class="margin-bottom--lv2">
+<h5 class="footer-header">Useful Links</h5>
+<div class="row">
+<div class="col-xs-6">
+<ul class="list-unstyled">
+<li><a href="/advertising/" target="_blank">Advertise</a></li>
+<li><a href="/api/" target="_blank">Crypto API</a></li>
+<li><a href="/disclaimer/">Disclaimer</a></li>
+<li><a href="/privacy/">Privacy</a></li>
+<li><a href="/terms/">Terms</a></li>
+<li><a href="/faq/">FAQ</a></li>
+<li><a href="/methodology/">Methodology</a></li>
+</ul>
+</div>
+<div class="col-xs-6">
+<ul class="list-unstyled">
+<li><a href="/request/" target="_blank">Request Form</a></li>
+<li><a href="/careers/">Careers</a></li>
+<li><a href="https://blog.coinmarketcap.com" target="_blank" rel="noopener">Blog</a></li>
+<li><a href="/newsletter/" target="_blank">Newsletter</a></li>
+<li><a href="https://www.facebook.com/CoinMarketCap" target="_blank" rel="noopener">Facebook</a></li>
+<li><a href="https://twitter.com/CoinMarketCap" target="_blank" rel="noopener">Twitter</a></li>
+<li><a href="https://t.me/CoinMarketCap" target="_blank" rel="nofollow noopener">Telegram</a></li>
+</ul>
+</div>
+</div>
+</section>
+<section class="margin-bottom--lv2">
+<div class="row">
+<div class="col-xs-6">
+<h5 class="footer-header">Night Mode</h5>
+<div class="btn-group" data-toggle="buttons">
+<label class="btn btn-default btn-sm" data-night-mode-off="">
+<input type="radio"> Off
+</label>
+<label class="btn btn-default btn-sm" data-night-mode-on="">
+<input type="radio"> On
+ </label>
+</div>
+</div>
+<div class="col-xs-6">
+<h5 class="footer-header">Downloads</h5>
+<a href="https://appstore.com/coinmarketcapcom/" target="_blank" rel="noopener">
+<span class="app-store-badge"></span>
+</a>
+</div>
+</div>
+</section>
+</div>
+<div class="footer-section footer-section--donate overflow-ellipsis">
+<section class="margin-bottom--lv2">
+<h5 class="footer-header">Donate</h5>
+<ul class="list-unstyled">
+<li class="overflow-ellipsis">BTC: <a data-toggle="modal" data-target="#donate_btc">3CMCRgEm8HVz3DrWaCCid3vAANE42jcEv9</a></li>
+<li class="overflow-ellipsis">LTC: <a data-toggle="modal" data-target="#donate_ltc">LTdsVS8VDw6syvfQADdhf2PHAm3rMGJvPX</a></li>
+<li class="overflow-ellipsis">ETH: <a data-toggle="modal" data-target="#donate_eth">0x0074709077B8AE5a245E4ED161C971Dc4c3C8E2B</a></li>
+<li class="overflow-ellipsis">BCH: <a data-toggle="modal" data-target="#donate_bch">1LVXG4Z4oF6TrJfmUfSuLX8nqb8c5eCwha</a></li>
+</ul>
+</section>
+</div>
+</div>
+</footer>
+<div class="banner-alert banner-alert-fixed-bottom hide js-cookie-policy-banner">
+<div class="banner-alert-close">
+<button type="button" class="banner-alert-close-button js-close" aria-label="Close"><span aria-hidden="true">×</span></button>
+</div>
+<div class="banner-alert-body">
+We use cookies to offer you a better browsing experience, analyze site traffic, personalize content, and serve targeted advertisements. Read about how we use cookies and how you can control them on our <a href="/privacy/">Privacy Policy</a>. If you continue to use this site, you consent to our use of cookies.
+</div>
+</div>
+<div id="currency-exchange-rates" data-pkr="0.00718778077269" data-all="0.0092652645233" data-ron="0.245638805822" data-mnt="0.000407539480387" data-ugx="0.000269116178123" data-ttd="0.147042605595" data-aud="0.703966570036" data-cup="0.0388349514563" data-ngn="0.00274725274725" data-byn="0.466438795767" data-gtq="0.129260440269" data-hrk="0.154081329364" data-clp="0.00144318887013" data-eur="1.14431532753" data-nok="0.114587308081" data-amd="0.00206532352289" data-mxn="0.0508592673214" data-gel="0.373831775701" data-try="0.189491663977" data-crc="0.00167219285436" data-aed="0.272245299549" data-gbp="1.26914022096" data-bam="0.585239898613" data-ars="0.0263150318778" data-mdl="0.058879665978" data-btc="3903.34957779" data-sek="0.111513215375" data-mur="0.0291116577634" data-irr="2.37501484384e-05" data-cny="0.145380533547" data-bdt="0.0119405836557" data-pen="0.297159599964" data-kzt="0.00268844305542" data-rub="0.0143561208039" data-omr="2.59740934392" data-mkd="0.0186173965459" data-jod="1.40883168406" data-mmk="0.000647268790405" data-pln="0.265821496081" data-kes="0.00981360278399" data-hkd="0.127704379686" data-ves="0.00177442328182" data-cop="0.000304191220895" data-dzd="0.00845501208974" data-idr="6.8801499998e-05" data-krw="0.000896137646743" data-bgn="0.585051581073" data-isk="0.00858958993409" data-ils="0.265699520412" data-bob="0.144693426462" data-dkk="0.153254121386" data-twd="0.0327216051073" data-kwd="3.29331950139" data-brl="0.25792932788" data-zar="0.0695818347436" data-sgd="0.73200011712" data-uzs="0.000119502868069" data-usd="1.0" data-chf="1.01627255617" data-xau="1277.53078849" data-xpd="1270.98717574" data-xag="15.2689728822" data-huf="0.00356096798633" data-bmd="1.0" data-rsd="0.00968241673122" data-jmd="0.00782044263705" data-azn="0.587371512482" data-uah="0.0365096750639" data-lkr="0.00546448087432" data-tnd="0.33934897257" data-nzd="0.669884793213" data-iqd="0.000839630562552" data-xpt="791.97256607" data-cad="0.732836958433" data-lbp="0.000661174196525" data-khr="0.000248447204969" data-myr="0.240734954186" data-bhd="2.65216814746" data-inr="0.0142949678268" data-jpy="0.00905661744395" data-czk="0.0444316935358" data-sar="0.266581360631" data-ltc="32.0451517733" data-nad="0.0691562932227" data-qar="0.274630285843" data-pab="1.0" data-xrp="0.376478284366" data-vnd="4.30202716939e-05" data-uyu="0.0308776950863" data-nio="0.0306748466258" data-kgs="0.0145543219911" data-ssp="0.00767675340886" data-mad="0.104690478935" data-php="0.0190383718384" data-eth="132.987100198" data-npr="0.00893421889192" data-bch="172.873151717" data-ghs="0.205761316872" data-egp="0.0559112129938" data-hnl="0.0409332687024" data-dop="0.0198196412645" data-thb="0.0307186631238"></div>
+<div class="scroll-to-top">
+<button class="btn"><span class="glyphicons glyphicons-chevron-up"></span></button>
+</div>
+<script>
+            var LANG_CODE = 'en';
+            var STATIC_DOMAIN = 's2.coinmarketcap.com';
+        </script>
+<script src="https://s2.coinmarketcap.com/static/cloud/compressed/base.88a59fa1.min.js"></script>
+<script>
+            $( document ).ready(function() {
+                // GTM Session Set
+                var maxExpire = new Date('2038-01-19 00:00:00');
+                if (Cookies.get("gtm_session_first") === undefined) {
+                    Cookies.set("gtm_session_first", new Date(), {expires: maxExpire})
+                }            
+
+                Cookies.set("gtm_session_last", new Date(), {expires: maxExpire})
+                
+                // Header Banner Prefs
+                $(".header-banner-close").on('click', function () {
+                    Cookies.set("header-banner-noshow", "1", {expires: 1})
+                    $('#header-banner-wrapper').fadeOut();
+                    dataLayer.push({
+                        'event': 'customEvent',
+                        'eventCategory': 'Header Banner',
+                        'eventAction': 'Close',
+                    });
+                });
+
+            });
+
+            (function () {
+                var polyglot = new Polyglot({phrases: {
+                    cryptocurrencies: "Cryptocurrencies",
+                    exchanges: "Exchanges"
+                }});
+
+                initQuickSearch({
+                    currencyDataURL: 'https://' + STATIC_DOMAIN + '/generated/search/quick_search.json',
+                    exchangeDataURL: 'https://' + STATIC_DOMAIN + '/generated/search/quick_search_exchanges.json',
+                    currencySuggestionTemplate: function (context) {
+                        var template = "/currencies/%25s/";
+                        context.url = template.replace('%25s', context.slug);
+                        return Handlebars.templates['quick_search'](context);
+                    },
+                    exchangeSuggestionTemplate: function (context) {
+                        var template = "/exchanges/%25s/";
+                        context.url = template.replace('%25s', context.slug);
+                        return Handlebars.templates['quick_search_exchanges'](context);
+                    },
+                    currencyLimit: 6,
+                    exchangeLimit: 4
+                }, polyglot);
+                SiteNav('.js-sitenav');
+
+                $('[data-language-toggle]').on('click', function () {
+                    dataLayer.push({
+                        'event': 'customEvent',
+                        'eventCategory': 'Language Dropdown',
+                        'eventAction': 'Language Selected',
+                        'eventLabel': $(this).data('language-toggle')
+                    });
+                });
+
+                var language = $('[data-language-toggle="' + 'en' + '"]').html();
+                $('[data-language-dropdown]').html(language);
+
+                NightMode.initSwitch();
+                ThemeSwitch('.js-theme-switch');
+                ScrollToTop('.scroll-to-top');
+                CookiedDismissableAlert({
+                    selector: '.js-cookie-policy-banner',
+                    cookieKey: 'cmc_gdpr_hide'
+                });
+            })();
+
+            function userResizedBrowser(actionType) {
+                var actions = {
+                    mobileToDesktop: 'Mobile to Desktop',
+                    desktopToMobile: 'Desktop to Mobile',
+                    noSidebarToSidebar: 'No Sidebar to Sidebar',
+                    sidebarToNoSidebar: 'Sidebar to No Sidebar'
+                };
+                var action = actions[actionType];
+                if (action) {
+                    return function () {
+                        dataLayer.push({
+                            'event': 'customEvent',
+                            'eventCategory': 'Browser Resize',
+                            'eventAction': action,
+                            'eventLabel': undefined
+                        });
+                    }
+                }
+            }
+            MOBILE.onBrowserResize(userResizedBrowser('mobileToDesktop'), userResizedBrowser('desktopToMobile'));
+            $(function () {
+                var sidebarThreshold = 1440;
+                var isWider = $(window).width() >= sidebarThreshold;
+                $(window).on('resize', function() {
+                    var screenWidth = $(window).width();
+                    if (isWider && screenWidth < sidebarThreshold) {
+                        isWider = false;
+                        userResizedBrowser('sidebarToNoSidebar')();
+                    } else if (!isWider && screenWidth >= sidebarThreshold) {
+                        isWider = true;
+                        userResizedBrowser('noSidebarToSidebar')();
+                    }
+                });
+            });
+        </script>
+
+</body></html>
