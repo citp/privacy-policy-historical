@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chartbeat.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622133108id_/https%3A//chartbeat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chartbeat.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228085045id_/https%3A//chartbeat.com/privacy) for the most accurate reproduction.*
 
 # Chartbeat | Privacy Policy
 
@@ -259,6 +259,10 @@ Chartbeat is subject to the investigatory and enforcement powers of the Federal 
 * a. _General_
 
 If you have any questions or complaints about how we use your personal information, or if you would like to request access to your information in accordance with this Privacy Policy, please contact Chartbeat's Chief Technology Officer at [privacy@chartbeat.com](mailto:privacy@chartbeat.com), or Chartbeat, Inc. at 826 Broadway, 6th Floor, New York, New York 10003.
+
+We have also appointed an EU based representative who can be contacted at: [chartbeat@mcf.ie](mailto:chartbeat@mcf.ie)
+
+You may also make a complaint to the UK Information Commissioner's Office or the data protection regulator in the country where you usually live or work, or where an alleged infringement of the General Data Protection Regulation has taken place. Alternatively, you may seek a remedy through the courts if you believe your rights have been breached.
 
 b. _Complaints under the Privacy Shield Principles_
 
