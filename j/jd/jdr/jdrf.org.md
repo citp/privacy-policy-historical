@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jdrf.org privacy policy that was archived on 2018-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180131083427id_/http%3A//www.jdrf.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jdrf.org privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228044437id_/https%3A//www.jdrf.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - JDRF
 
@@ -13,7 +13,7 @@ Each time you visit the Site, we collect information about you. Some of the info
 **A.   Personally Identifiable Information**  
 We collect personally identifiable information about you in various ways when you visit the Site. During your interactions with the Site, such as when you register with the Site or make a donation or agree to volunteer, we may collect the following types of information:
 
-    * your name,
+  *     * your name,
     * date of birth,
     * postal address,
     * email address,
@@ -108,7 +108,7 @@ JDRF (“WE”, “US” OR “OUR”) PRIVACY POLICY, LINKED AT THE BOTTOM OF J
 **INFORMATION COLLECTION AND USE**
 
 **Child Personally Identifiable Information  
-**JDRF is a non-profit organization dedicated to finding a cure for diabetes and its complications through the support of research. Kids Walk is an online program designed to teach students about diabetes and to raise funds for type 1 diabetes research. You or your child under the age of 13 may be prompted to provide for some or all of the following types of information (referred to as “child personally identifiable information”) in order to register, access various content or features, or otherwise participate in Kids Walk:
+** JDRF is a non-profit organization dedicated to finding a cure for diabetes and its complications through the support of research. Kids Walk is an online program designed to teach students about diabetes and to raise funds for type 1 diabetes research. You or your child under the age of 13 may be prompted to provide for some or all of the following types of information (referred to as “child personally identifiable information”) in order to register, access various content or features, or otherwise participate in Kids Walk:
 
   * Contact information, such as name or e-mail address User name and password;
   * Geolocation information;
@@ -123,7 +123,7 @@ JDRF (“WE”, “US” OR “OUR”) PRIVACY POLICY, LINKED AT THE BOTTOM OF J
 We use child personally identifiable information collected through the Site to validate Site users and facilitate participation in the Kids Walk program all for the sole benefit of the participating schools and such schools’ students. We do not share child personally identifiable information with any third parties except the child’s respective school where necessary to facilitate the child’s involvement in Kids Walk. JDRF does not condition a child’s participation in Kids Walk on the child disclosing more personal information than is reasonably necessary to participate in such activity.
 
 **Correcting/Updating/Deleting/Deactivating Personal Information  
-**A user 13 or over or the adult parent or guardian of a user under 13 may review, request corrections, ask that we delete, or refuse further collection or use of the personally identifiable information JDRF collects from such user or the child or children for which such user is the legal guardian. Such user may do this by contacting JDRF at:
+** A user 13 or over or the adult parent or guardian of a user under 13 may review, request corrections, ask that we delete, or refuse further collection or use of the personally identifiable information JDRF collects from such user or the child or children for which such user is the legal guardian. Such user may do this by contacting JDRF at:
 
 Postal Address:
 
@@ -136,4 +136,4 @@ Telephone: 1-800-533-CURE (2873)
 Fax: (212) 785-9595
 
 **Consent to Receive Notices Via the Site  
-**By using the Site or submitting personally identifiable information to the Site (and, for parents or guardians of children under the age of 13, having consented to your child’s use of the Site), you are agreeing that JDRF may deliver all privacy and opt out notices to you in the manners described in the Privacy Policy.
+** By using the Site or submitting personally identifiable information to the Site (and, for parents or guardians of children under the age of 13, having consented to your child’s use of the Site), you are agreeing that JDRF may deliver all privacy and opt out notices to you in the manners described in the Privacy Policy.
