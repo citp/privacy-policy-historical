@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the candymag.com privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621052307id_/https%3A//www.candymag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the candymag.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228074014id_/https%3A//www.candymag.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Candy Magazine
 
-Our Privacy Policy was last updated on **May 15, 2015**.
+Our Privacy Policy was last updated on **November 26, 2018**.
 
 It governs the privacy terms of all websites and its social networking accounts (collectively, **“Summit Sites”** ) under the Summit Publishing Co. Inc. brand (collectively, **“Summit Media”** ) and its affiliates to which this policy is linked to.
 
@@ -64,6 +64,7 @@ We use the information we receive from you as follows:
   2. **Social Networks.** If you use your login credentials from a social networking site (e.g. Facebook or Twitter) (collectively, “SNS”) on a Summit Site, we may receive information from such SNS in accordance with the terms and conditions (e.g., terms of use and privacy policy) of the SNS (“SNS Terms”). If you elect to share your information with these SNS, we will share information with them in accordance with your election. The SNS Terms of the SNS will apply to the information we disclose to them. 
   3. **Third Party Partners.** Some of the Summit Sites may from time to time partner with a retailer or other third party to offer online shopping opportunities, games, services, subscriptions, and other applications on a co-branded or cross-promotional basis. Those transactions may take place on a Summit Site, or the site of the third party. In either case, Personally Identifiable Information you provide in connection with the transaction may be collected directly by, or shared by Summit Media with, the third party, as well as with any participating sponsor or advertisers of such opportunities and features. Some of the Summit Sites may offer you the ability to access a third-party site with whom we have a relationship to access both sites through a co-branded registration process; in that event, your applicable registration information may be collected directly by, or shared by Summit Media with, the third party partner. These third parties will use your information in accordance with their own privacy policy. 
   4. **Delivery of Advertising and Other Content.** In addition to ads and content that we serve you directly, we use third party advertising companies and marketing services companies to serve ads and other content when you visit a Summit Site. Both we and these companies may use information about your visits to this site and elsewhere to serve ads and other content to you. In the course of doing so, a unique third-party Cookie may be placed or recognized on your browser by such companies.
+  5. **Third-party Advertising Companies.** We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (your cookies and device id) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [www.wmgroup.us](https://wmgroup.us/ "www.wmgroup.us").
 
 
 
