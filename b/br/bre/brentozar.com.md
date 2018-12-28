@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brentozar.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628140756id_/https%3A//www.brentozar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brentozar.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228195528id_/https%3A//www.brentozar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for www.BrentOzar.com - Brent Ozar Unlimited®
 
@@ -93,6 +93,8 @@ Your data may also be shared with our other hosting partners:
 
   * [Automattic](https://automattic.com/) – [Privacy Policy](https://automattic.com/privacy/) – because we filter possible spam comments with Askimet
   * [Disqus](https://disqus.com/) – [Privacy Policy](https://help.disqus.com/terms-and-policies/disqus-privacy-policy) – because we host PasteThePlan comments there
+  * [Facebook](https://www.facebook.com/) – [Privacy Policy](https://www.facebook.com/policy.php) – because we use their advertising to target visitors of this site
+  * [Google Analytics](https://www.google.com/analytics/) – [Privacy Policy](https://www.google.com/analytics/terms/us.html) – because we track page popularity and user activity
   * [Google](https://www.google.com/) AMP Cache – [Privacy Policy](https://developers.google.com/amp/cache/policies) – because you may be viewing our pages through their cache
   * [Google](https://www.google.com/) Fonts – [Privacy Policy](https://developers.google.com/fonts/faq#what_does_using_the_google_fonts_api_mean_for_the_privacy_of_my_users) – because we use their fonts to render these pages
   * [GoToWebinar](https://www.gotomeeting.com/webinar) – [Privacy Policy](https://www.logmeininc.com/legal/privacy) – because you may sign up for our webcasts hosted there
