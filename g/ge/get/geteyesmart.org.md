@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geteyesmart.org privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630115730id_/https%3A//www.aao.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geteyesmart.org privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228055344id_/https%3A//www.aao.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - American Academy of Ophthalmology
 
@@ -44,6 +44,8 @@ The Academy’s CEO/executive vice president may grant permission to use Academy
 ## Security
 
 The website has security measures in place to protect the loss, misuse and alteration of the information under our control.
+
+## Cookie Use
 
 ## Contacting the website
 
