@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contentsutra.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230091827id_/https%3A//gigaom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contentsutra.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228033841id_/https%3A//gigaom.com/privacy-policy) for the most accurate reproduction.*
 
 # Gigaom | Privacy Policy
 
@@ -133,7 +133,7 @@ Gigaom’s website services are hosted by WordPress, an enterprise web publishin
 
 ### Webinars
 
-Gigaom uses third parties, such as Zoom to process registration and/or host and provide technical support for Gigaom webinars. If you register for and/or download or view a Gigaom webinar, Gigaom may provide your Information (including Personally Identifying Information) to these third parties to facilitate registration and access to the webinar. In addition, as discussed below, Gigaom (or its third party registration service) may provide your Information (including Personally Identifying Information) to companies that sponsor or underwrite portions of a webinar that you register for, download, or view.
+Gigaom uses third parties, such as GoToWebinar to process registration and/or host and provide technical support for Gigaom webinars. If you register for and/or download or view a Gigaom webinar, Gigaom may provide your Information (including Personally Identifying Information) to these third parties to facilitate registration and access to the webinar. In addition, as discussed below, Gigaom (or its third party registration service) may provide your Information (including Personally Identifying Information) to companies that sponsor or underwrite portions of a webinar that you register for, download, or view.
 
 If you have elected to register for one of our sponsored webinars or events, or to access research or content from Gigaom, we may share your Information (including Personally Identifying Information) with business partner(s) and/or sponsor(s) of the webinar, event, research and/or content. You agree that these sponsor(s) and/or business partner(s) may use your Personally Identifying Information to contact you to provide additional information about their products or services.
 
