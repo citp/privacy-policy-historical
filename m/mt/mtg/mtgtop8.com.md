@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mtgtop8.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602144458id_/http%3A//mtgtop8.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtgtop8.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228094144id_/https%3A//www.mtgtop8.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy @ mtgtop8.com
 
