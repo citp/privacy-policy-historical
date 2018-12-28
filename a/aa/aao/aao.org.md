@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the aao.org privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627054315id_/http%3A//www.aao.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aao.org privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228055344id_/https%3A//www.aao.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - American Academy of Ophthalmology
 
-The American Academy of Ophthalmology (“Academy”) has created this privacy policy in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for **[www.aao.org](http://www.aao.org/)** and all other Academy-affiliated websites (collectively, “website”).
+The American Academy of Ophthalmology (“Academy”) has created this privacy policy in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for **[www.aao.org](https://www.aao.org/)** and all other Academy-affiliated websites (collectively, “website”).
 
 ## General Principles
 
@@ -44,6 +44,8 @@ The Academy’s CEO/executive vice president may grant permission to use Academy
 ## Security
 
 The website has security measures in place to protect the loss, misuse and alteration of the information under our control.
+
+## Cookie Use
 
 ## Contacting the website
 
