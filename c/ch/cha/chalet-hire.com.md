@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chalet-hire.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227023310id_/http%3A//www.chalet-hire.com/pages/index/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chalet-hire.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228120238id_/http%3A//www.chalet-hire.com/pages/index/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Chalet-Hire.com
 
@@ -97,17 +97,17 @@ Web beacons may be used to track the traffic patterns of users from one page to 
 
 **Phishing or False emails**
 
-If you receive an unsolicited email that appears to be from us or one of our members that requests personal information (such as your credit card, login, or password), or that asks you to verify or confirm your account or other personal information by clicking on a link, that email was likely to have been sent by someone trying to unlawfully obtain your information, sometimes referred to as a "phisher" We do not ask for this type of information in an email. Do not provide the information or click on the link. Please contact us at [info@chalet-hire.com](mailto:info@chalet-hire.com) if you get an email like this.
+If you receive an unsolicited email that appears to be from us or one of our members that requests personal information (such as your credit card, login, or password), or that asks you to verify or confirm your account or other personal information by clicking on a link, that email was likely to have been sent by someone trying to unlawfully obtain your information, sometimes referred to as a "phisher" We do not ask for this type of information in an email. Do not provide the information or click on the link. Please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7811161e17381b1019141d0c5510110a1d561b1715) if you get an email like this.
 
 **How do I correct or update my information?**
 
-You can see any personal information processed by us. The best way of seeing this if you are an Owner is to log on to your account. You can see your basic details and correct or update them from your control panel at any time to suit you. We also want to give you the opportunity to identify any inaccuracies in any information we hold about you. Where possible, if we are told about an inaccuracy of any personal information, we will make appropriate corrections. You can ask to see, update or amend any information we hold on you by emailing us at [info@chalet-hire.com](mailto:info@chalet-hire.com).
+You can see any personal information processed by us. The best way of seeing this if you are an Owner is to log on to your account. You can see your basic details and correct or update them from your control panel at any time to suit you. We also want to give you the opportunity to identify any inaccuracies in any information we hold about you. Where possible, if we are told about an inaccuracy of any personal information, we will make appropriate corrections. You can ask to see, update or amend any information we hold on you by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#563f38303916353e373a33227b3e3f24337835393b).
 
 **How do I opt-out of receiving marketing communications from you?**
 
 You may opt-out of receiving marketing communications from us by the following means:
 
-1\. Email us at [info@chalet-hire.com](mailto:info@chalet-hire.com)
+1\. Email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#422b2c242d02212a232e27366f2a2b30276c212d2f)
 
 **How long will we keep your personal data?**
 
@@ -115,4 +115,4 @@ We will retain your personal data only as long as is necessary for the purposes 
 
 **How do I contact you?**
 
-If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, please email us at [info@chalet-hire.com](mailto:info@chalet-hire.com).
+If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#452c2b232a05262d24292031682d2c37206b262a28).
