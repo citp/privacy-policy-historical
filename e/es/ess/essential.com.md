@@ -1,71 +1,127 @@
-> *The following text is extracted and transformed from the essential.com privacy policy that was archived on 2001-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010801190131id_/http%3A//www.essential.com/company/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essential.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229005946id_/https%3A//www.essential.com/privacy) for the most accurate reproduction.*
 
-# Essential - The Power to Provide it All
+# Essential | Privacy Policy
 
-**Essential.com** is committed to protecting your online privacy. As part of the normal operation of our services we collect and may, in some cases, disclose information about you. For example we must share certain information with our service partners and vendors in order to provide you with the energy and communications services you wish to receive, and to bill you and accept payment for those services. By signing up for our services, you consent to the collection and use of your personal information. Please read the following Privacy Policy to understand how your personal information will be treated as you make full use of our services. Our Privacy Policy may change from time to time; we will post those changes on this page so please check back periodically. 
+~~Last Updated: May 15, 2018~~
 
-**What personally identifiable information is collected from you.**
+This Privacy Policy explains how Essential Products, Inc. and our subsidiaries (“EP,” “we,” or “us”) collect, use, process, and disclose information about you when you access or use our products and services (such as our devices, websites, mobile applications, and online services), or when you interact with us.
 
-To use Essential.com, you register using our online registration form, where you will be required to provide us with your contact information and other personal information, including your name, telephone number, as well as email and postal addresses. You will also be asked to provide credit card information (including type of credit card, credit card number, expiration date, and billing address). This information is necessary in order for us to provide you the Essential.com services and to bill you and accept payment for those services. Also, when you provide information to us on our site feedback form, we use such information for enhancing our customer care and for tracking our performance. 
+We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of the policy, and in some cases, we may provide you with additional notice (such as adding a statement to our website’s homepage or sending you an email notification). We encourage you to review the Privacy Policy frequently to stay informed about our information practices and the choices available to you.
 
-**What "cookies" are and how they are used.**
+### **Collection of Information**
 
-A "cookie" is a small data file that a web site transfers to a user's hard drive when the user visits the web site. A cookie file can contain information such as a user ID that the site uses to track the pages visited. The only personal information a cookie can contain is what the user supplies. A cookie can't read data off a hard drive or read cookie files created by other sites. 
+**Information You Provide to Us** We collect information you provide directly to us. For example, we collect information when you sign up to receive information about our products or services, create an account or profile, use interactive features of our products or services, make a purchase, participate in our contests, promotions, and surveys, communicate with us via third-party social media sites, apply for a job, request customer support, or otherwise communicate with us. The types of information we may collect directly from you include your name, username, email address, phone number, billing and shipping address, demographic information, and any other information you choose to provide. Additionally, if you use our products or services in connection with products or services offered by a third-party partner, you may provide us with information about your account with the third party in order to enable this functionality, such as the email address and password associated with your account.
 
-Many Internet services deliver cookies to visitors to their web sites. Cookies store information about your use of their service on your computer where it can only be retrieved by the same service at a later time. Cookies are used by Internet services to make their services more convenient and personalized. Most Web browsers automatically accept cookies, but by modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. You can also delete cookies from your hard drive. Even without a cookie, you can still use all of the features of Essential.com. 
+In some cases, we may also collect information you provide about others, such as if you decide to purchase and ship products to friends or family. We use this information solely to fulfill your requests, and will not send marketing communications to these individuals, unless they separately opt in to receive communications from us.
 
-Generally, Essential.com uses cookies to: 
+When you make a purchase from us, we will collect and store limited payment information from you, such as payment card type, payment card expiration date, and a limited subset of your payment card number in order to process your payment. We do not collect or store full payment card numbers and all transactions are processed by a third-party payment processor.
 
-  1. remind us of who you are, to access your account information, and to allow you to enter your password less frequently during a session; and 
-  2. measure your visiting patterns and allow us to better personalize the content, banners, and promotions that you will see on our sites, in order to deliver to you a better and more personalized service. 
+**Information We Collect Automatically** When you access or use our services or products, we automatically collect information about you, and we may associate it with information that you provide directly to us. For example, we may collect:
+
+  * **Log Information:** We log information about your use of our website, such as your IP address, web browser type and language, access times, referring and exit websites, and clickstream data.
+
+  * **Mobile Device Information:** We collect information about your mobile device when you access or use our mobile applications, such as the hardware model, operating system version, unique device identifiers, Bluetooth signals, mobile network information, and performance and diagnostic data regarding your use of our applications. With your consent, we may also collect precise location information or access information stored in other applications on your device, such as contacts from your address book or photos from your photo gallery.
+
+  * **EP Device Information:** We may collect information about your access to and use of our devices. For example, we may collect information about the following:
+
+    * Device information, such as IP address, device settings and preferences, hardware model, operating system version, network carrier and network technology information, device serial number, Wi-Fi network password, account tokens, user ID, installed applications, device location, and third-party products and services you connect to the device;
+    * Performance and log information, such as error logs, power status, app battery usage, system diagnostic logs, and reasons for reboots and network errors (for information about how to control the collection of this information, see “Essential Usage and Diagnostics” below); and
+    * Audio and video information for devices that are equipped with a microphone or camera, if you enable or use specific features of our devices.
+
+Note that we collect information from an EP device only when it is connected to the Internet. Additionally, we may associate the information we collect from a device with your account.
+
+  * **Information Collected by Cookies and Other Tracking Technologies:** We use cookies and other similar technologies (e.g., web beacons, pixels, mobile identifiers) on our websites, mobile applications, email messages, and advertisements, to help us understand user behavior, improve our offerings, customize your experience, see which areas and features of our websites and applications are popular, and understand usage and campaign effectiveness. Please refer to our [Cookie Policy](https://web.archive.org/privacy/cookies) for more information. 
 
 
 
-**How your information is used.**
 
-The information collected from you at registration is necessary to provide you with Essential.com's services and to bill you and accept payment for those services. 
+**Information We Collect From Other Sources** We may also obtain information from other sources and combine that with information we collect through our products or services. For example, we may collect information about you when you post content to our pages or feeds on third-party social media sites.
 
-You will receive an email notice of online bill statement availability on a monthly basis. We also send periodic updates about Essential.com (including administrative notices, new product and service offerings, and communications relevant to your use of Essential.com) to our customers. We provide you with the ability to unsubscribe from promotional, newsletter or survey emails. 
+### **Use of Information**
 
-Occasionally our Customer Care Representatives survey selected shoppers by telephone to learn about their experience at the Essential.com site. If you prefer not to be contacted for this purpose, please contact our [Customer Care](https://web.archive.org/help) team. 
+We may use information about you for various purposes, including to:
 
-We may also use personally identifiable information about you on an aggregated basis (including limited aggregate information collected through log files) to improve our marketing and promotional efforts, to statistically analyze site usage, to improve our content and product offerings, to customize our site's content, layout, services, and to advise service providers about service offerings. We believe these uses allow us to improve our site and better tailor it to meet our users' needs. 
+  * Develop, operate, and improve our products and services;
+  * Provide and deliver the products and services you request, process transactions, and send you related information, such as confirmations, invoices, technical notices, updates, security alerts, and support and administrative messages;
+  * Respond to your comments, questions, and requests and provide customer service and technical support;
+  * Communicate with you about products, services, offers, promotions, rewards, and events offered by EP and others and provide news and information we think will be of interest to you;
+  * Monitor and analyze trends, usage, and activities in connection with our products and services;
+  * Detect, investigate, and prevent fraudulent transactions and other illegal activities and protect the rights and property of EP and others;
+  * Personalize and improve the products and services and provide advertisements, content, and features that match user profiles or interests;
+  * Facilitate contests, sweepstakes, and promotions and process and deliver entries and rewards;
+  * Link or combine with information we get from others to help understand your needs and provide you with better service; and
+  * Carry out any other purpose conveyed to you at the time the information was collected.
 
-**Who is collecting your information.**
 
-Your information is being collected solely by Essential.com. See the discussion under "With whom your information may be shared" below concerning the circumstances under which certain of your information may be disclosed to third parties. 
 
-**With whom your information may be shared.**
+EP is based in the United States and the information we collect is governed by U.S. law. By accessing or using our products and services or otherwise providing information to us, you consent to the processing, transfer and storage of information in and to the U.S. and other countries, where you may not have the same rights and protections as you do under local law.
 
-We will share your contact information only with the service providers you've selected. These providers will call you to set up appointments and gather additional information as necessary. 
+### **Sharing of Information**
 
-Essential.com does not sell, trade, or rent your personal information to others. We may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to advertisers and for other marketing and promotional purposes or to reputable third-party service suppliers. In these situations, we would not disclose any information that could be used to personally identify you. 
+We may share your information as follows and as otherwise described in this Privacy Policy:
 
-Essential.com may release account information when we believe, in good faith, that such release is reasonably necessary to (i) comply with law, (ii) enforce or apply the terms of any of our user agreements or (iii) protect the rights, property or safety of Essential.com, our users, or others. 
+  * With vendors, consultants, and other service providers who need such information to perform services on our behalf (such as to send emails or process payments for us);
+  * With our third-party partners, if you choose to connect your EP device to their products or services (the information we share with these partners will be described in the authorization screen that is displayed prior to enabling the connection, and you have the ability to stop this sharing at any time by changing your device settings or by contacting our third-party partners);
+  * In response to a request for information, if we believe disclosure is in accordance with any applicable law, regulation, or legal process, or as otherwise required by any applicable law, rule, or regulation;
+  * If we believe your actions are inconsistent with our user agreements or policies or to protect the rights, property, and safety of EP or others;
+  * In connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business by another company;
+  * Between and among EP and any current or future parents, subsidiaries, affiliates, and other companies under common control and ownership; and
+  * With your consent or at your direction. 
 
-In addition Essential may decide to stop providing a service or may decide to sell or transfer parts or even all of our business to unaffiliated companies. If this happens we may provide confidential customer information to these companies so that they can provide you with the same or similar services. In such circumstances Essential will provide information to these other companies only as needed to accomplish our business objectives, and we will make our best efforts to see that the companies provide you the same level of privacy protection as Essential provides you now. 
 
-**Choices available to you regarding collection, use, and distribution of your information.**
 
-The information collected from you at registration is necessary to provide you with Essential.com's services. Your only alternative to providing this information is to not use Essential.com. 
+We may also share aggregated or de-identified information with third parties.
 
-If you'd like to be removed from the mailing list for periodic updates about Essential.com or from participation in surveys conducted by Customer Care Representatives, we provide the ability to unsubscribe from this type of email communication. 
+### **Third-Party Products and Services**
 
-**Accessing, updating or deleting your information.**
+You have the ability to install or connect third-party products and services (such as mobile applications) on or to our devices, and to purchase third-party products and services through us. When you use third-party products and services, their terms apply to your use of those products or services. This Privacy Policy does not apply to information collected by such third parties, and we encourage you to learn more about their privacy practices before using their products or services.
 
-You may update or change information related to your Essential.com account by accessing the Your Account section of the website with your username and password. If you wish to review the information we have retained about you at any time or if you believe that any of the information we have retained is incorrect, please contact our [Customer Care](https://web.archive.org/help) team with the correct information. 
+### **Social Sharing Features**
 
-We will retain in our files information you have requested to remove in some circumstances, such as to resolve disputes, troubleshoot problems and enforce the terms of your User Registration. Further, such prior information is never completely removed from our databases due to technical constraints and the fact that we back up our systems. Therefore, you should not expect that all of your personally identifiable information will be completely removed from our databases in response to your requests. 
+Our websites and mobile applications may offer social sharing features and other integrated tools (such as the Facebook “Like” button), which let you share actions you take on our services with other media, and vice versa. Your use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the entity that provides the social sharing feature. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features.
 
-**Security precautions in place to protect the loss, misuse, or alteration of your information.**
+### **Advertising and Analytics Services Provided by Others**
 
-Our secure server software (SSL) technology secures your information with state-of-the-art public key encryption. The SSL technology encrypts all information you input before it is sent to us. You can verify that online forms are secure by checking the Web page URL displayed at the top of your browser screen. Secure documents begin with the protocol https://, while unsecured forms and Web pages begin with the usual http:// (HyperText Transfer Protocol). You can also look for the graphical icon specific to your browser type, located in the bottom right hand corner of your browser window. 
+We may work with third-party social platforms, such as Facebook, to serve ads to you as part of a customized campaign, unless you notify us that you prefer not to have information about you used in this way by sending an email to advertising-optout@essential.com indicating the email address you wish to have removed from customized ad campaigns.
 
-In addition, all customer data we collect is stored on secure servers and protected against unauthorized access. We operate a secure data network protected by industry standard firewall and password protection systems. Your Essential.com Account Information is password-protected so that only you have access to this personal information. We recommend that you do not divulge your password to anyone. Essential.com will never ask you for your password in an unsolicited phone call or in an unsolicited email. Also remember to sign out of your Essential.com account and close your browser window when you have finished your work. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet cafe. 
+### **Security**
 
-Whenever Essential.com handles personal information as described above, regardless of where this occurs, Essential.com takes steps to ensure that your information is treated securely. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, Essential.com cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems. 
+EP implements security safeguards to protect your information from loss, theft, misuse, unauthorized access, disclosure, alteration, and destruction. 
 
-Please contact us if you have any questions about our privacy policy or security at the Essential.com site. You can contact our [Customer Care](https://web.archive.org/help) team or call our Customer Care Center at (888) 746-4983.   
-Revised:May 23, 2001
+### **Transfer of Information to the U.S. and Other Countries**
 
- **Top^**
+EP is based in the United States and the information we collect may be transferred, processed, and stored in the United States and other countries, where you may not have the same rights and protections as you do under local law. By accessing or using our products or services or otherwise providing information to us, you consent to the processing, transfer, and storage of information in and to the United States and other countries.
+
+### **Privacy Shield**
+
+We comply with the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks (collectively, the “Privacy Shield”) with respect to personal data we collect from the EU and Switzerland and transfer to the U.S. For more information about the Privacy Shield, and to view our certification, please visit the [Privacy Shield website](https://www.privacyshield.gov/welcome). We remain responsible and liable under the Privacy Shield for any personal data that we share with third parties for external processing on our behalf, as described in the “Sharing of Information” section above, unless we prove we are not responsible for the event giving rise to the damage. If you have an inquiry regarding our certification, contact us at privacy@essential.com. Privacy Shield participants are subject to the authority of the U.S. Federal Trade Commission. You may also refer your complaint to [JAMS](https://www.jamsadr.com/eu-us-privacy-shield), EP’s designated Privacy Shield dispute resolution provider. In certain circumstances, the Privacy Shield provides the right to invoke binding arbitration to resolve complaints (see [Annex I to the Privacy Shield Principles](https://www.privacyshield.gov/article?id=ANNEX-I-introduction) for more details).
+
+### **Your Choices**
+
+**Data Retention** Our data retention periods are based on business needs and legal requirements. We store the information we collect about you for as long as is necessary for the purposes for which we originally collected it, or as needed to provide the products or services to you, unless a longer retention period is required or permitted by applicable law.
+
+You may request that we delete your information, but note that we may retain certain information as reasonably needed to comply with law, meet regulatory requirements, or for legitimate purposes. We may also retain cached or archived copies of information about you for a certain period of time.
+
+You may also ask us to provide you access to, or a copy of, your information, or correct the information we have about you.
+
+If you wish to make these requests, please [submit a support request](https://support.essential.com/hc/en-us/articles/115015511988-Submit-a-support-request).
+
+**Essential Usage and Diagnostics** You can turn Essential usage and diagnostic services on or off at any time by navigating to Settings on your product. If you change your settings after we have initiated a data upload, your new settings will go into effect after that process has been completed. Note that even if you turn this feature off, your device will still send certain device information (such as device serial number, network carrier information, country, and operating system version) needed for critical services such as system or security updates. 
+
+**Promotional Communications** You may opt out of receiving promotional communications from EP by following the instructions in those communications. If you opt out of receiving promotional communications, we may still send you non-promotional emails, such as those about your account or our ongoing business relations.
+
+**Mobile Push Notifications/Alerts** With your consent, we may send promotional and non-promotional push notifications or alerts to your mobile device. You can deactivate these messages at any time by changing the notification settings on your mobile device.
+
+### **Residents of the European Economic Area**
+
+We will process your data where we have lawful bases to do so. Lawful bases can include consent (e.g., if you sign up for a promotion), to perform our responsibilities under our contract with you (e.g., to provide products and services to you, process payments), and for our legitimate interests, provided that the processing doesn’t outweigh your rights and freedoms.
+
+We rely on several legitimate interests in processing your data. For example, we process your data to detect and prevent fraud, understand our users and industry trends, develop and improve our products and services, and send you marketing communications.
+
+Where we rely on consent to process your data, you have the right to withdraw your consent at any time. You may also have a right to object to, or request that we restrict, certain processing of your personal data. 
+
+Residents of the European Economic Area may also lodge a complaint with the supervisory authority where they reside.
+
+### **Contact Us**
+
+If you have any questions about this Privacy Policy, please [email us](mailto:privacy@essential.com) or write us at Essential Products, Inc., 380 Portage Ave, Palo Alto, CA 94306, United States. 
