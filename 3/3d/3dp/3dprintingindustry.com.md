@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3dprintingindustry.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627195821id_/https%3A//3dprintingindustry.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3dprintingindustry.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228025423id_/https%3A//3dprintingindustry.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - 3D Printing Industry
 
@@ -88,4 +88,4 @@ We will continuously assess our privacy protection practices in light of new tec
 
 By visiting our website or using our services, you consent to the collection and use of your information as outlined in this Statement.
 
- _Last update 21 July  2016._
+_Last update 21 July  2016._
