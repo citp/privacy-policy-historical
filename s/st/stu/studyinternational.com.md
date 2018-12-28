@@ -1,189 +1,83 @@
-> *The following text is extracted and transformed from the studyinternational.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627193330id_/http%3A//www.studyinternational.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studyinternational.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228022014id_/http%3A//www.studyinternational.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Study International
 
-## Hybrid News Limited Privacy Notice
+**Privacy Policy of[http://www.studyinternational.com](http://www.studyinternational.com/)**
 
-Last update 11th May 2018
+This website (hereinafter “Website”) collects some Personal Data from its Users. The Data are collected and processed for the purposes set out below.
 
-This privacy notice has been compiled to help you understand why we ask you for your personal information when you use one of our websites and how we will store and use this information.
+**Data Processing Ownership**
 
-Hybrid News Limited is the principle company and the Data Controller in the Hybrid Group of brands.
+Study International part of Hybrid News Limited - Colston Tower, Level 9, Colston St, Bristol. UNITED KINGDOM. BS1 4UX
 
-We create and distribute more compelling media content across influential digital brands for our audiences. This is defined as our Legitimate Business Interest. We process your personal data to help you make informative decisions when selecting learning, software and travel providers. We do that by:
+**Types of Data collected**
 
-Providing extensive sector information  
-Recommending things we think you’ll like, such as hotels or learning providers  
-Dealing with any requests you make or content you submit  
-Getting in touch if we need to tell you about something, like a change to our policies or issues with our service  
-Monitoring usage and performance in order to improve the services we offer.
+Among the Data that this Website may collect there are: Cookie, Browsing and usage Data, First Name, Last Name, Date of Birth, Phone number, Address, State, Email and ZIP/Postal code. Other Personal Data collected may be highlighted by other sections of this privacy policy or by dedicated explanation text, in the moment when the Data collection happens. The Personal Data may be freely inserted by the User or the Data Subject, or collected automatically when using the Website. Any use of Cookies by the Website or the owners of third party services used by the Website, unless stated otherwise, serves to identify the User and remember his/her preferences for the sole purpose of providing the service required by the User. Failure to provide certain Personal Data, in particular Navigation Data, by deactivating the Website’s Cookies may make it impossible to surf or for the Website to provide its services. The Personal Data collected may regard both the User and third parties whose data the User provides. The User assumes responsibility for the Personal Data of third parties published or shared through the Website and declares that (s)he has the right to communicate or broadcast them, thus relieving the Owner of all responsibility towards third parties. Mode and place of processing the Data obtained
 
-This privacy notice applies to all our website and app users whether registered or not, including people responding to surveys and writing reviews.
+**Method of Processing**
 
-Keeping your information safe and private is very important to us. All our services are designed with privacy and security in mind.
+The Data Controller processes the Data of the Interested Parties and Users in a lawful and proper manner and shall take appropriate security measures to prevent unauthorized access, disclosure, modification or unauthorized destruction of the Data. Processing is carried out using computers and / or telematic means, with organizational methods and logics strictly related to the stated purposes. In addition to the owner, in some cases, access to the Data may be available to external parties (such as third party technical service providers, mail carriers, hosting providers, IT companies, communications agencies). The updated list of Managers may be requested from the Owner at any time. Place The Data are processed at the headquarters of the Data Controller, unless stated otherwise in the rest of this document.
 
-## Collecting and using your personal data
+**Conservation Time**
 
-You can browse our websites without providing any personal information. However, to use some of our enhanced functionality will sometimes ask for additional information in order to process your request. For example:
+The Data are kept for the time necessary to perform the service requested by the User, and the User can always ask for their suspension or removal. The use of the collected Data The Data concerning the User or the Data Subject are collected for the following purposes: Analytics and Contacting the User. The kinds of Personal Data used for each purpose are given in the specific sections of this document. The use of Data for additional purposes by the Owner may in some cases, and for legal purposes, require specific consent by the User or the Data Subject. Detailed information on the processing of Personal Data and the services provided by third parties Personal Data collected for the following purposes and using the following services: The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behaviour.
 
-Providing your name, email, and contact details to request a prospectus or make an enquiry to an education and technology provider.
+**Google Analytics (Google)**
 
-The details we request for each piece of enhanced functionality will depend on what is required to perform the action. For example:
+Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the Data collected to track and examine Website use, to prepare reports on an Website’s activities and share them with other Google services. Google may use the Data collected to contextualize and personalize the ads of its own advertising network. Personal data collected: Browsing and usage Data and Cookie. Place of Processing: USA – Privacy Policy.
 
-If we need to contact you by email, we will request your email address.  
-If you are making a payment to Hybrid News Limited, you will be asked for you card and billing details.
+**Contact form (This Website)**
 
-Details of why we collect each piece of information is displayed clearly next to the field used to enter the data.
+By filling in the Contact form with their Data, the Users authorizes the Website to use these details to reply to requests for information, quotes or any other kind of request as indicated by the form’s header. Personal data collected: Address, Date of Birth, Email, First Name, Last Name, Phone number, State and ZIP/Postal code. Additional information about data processing
 
-A full list of the data collected by each website is available on the site-specific data collection notice.
+**Legal Protection**
 
-We also collect some technical information while you use our websites. For example, information on the type of browser you use and your IP address. This information is used to maintain and monitor the performance of our websites.
+The User’s Personal Data may be used for legal purposes by the Owner of the Website in court or in the stages leading to possible legal action arising from its improper use or that of related services by the User.
 
-## Cookies
+**Additional Information**
 
-We use cookies on our websites to provide login and preferences functions, and to collect anonymised data on user interactions. For example, we use cookies to:
+Specific information may be shown on the pages of the Site concerning particular services or the processing of Data provided by the User or by the Data Subject.
 
-Understand and save your user preferences for future personalised experience and to allow us to deliver the type of content and products in which you are most interested.
+**Maintenance**
 
-Compile anonymised data about site traffic and site interactions in order to offer better site experiences and tools in the future. We use tools such as Google Analytics to do this.
+The User’s Personal Data may be further used in ways and for purposes required for Website maintenance.
 
-To provide targeted content and advertising based on your preferences and previous interactions. We work with third-party companies to provide targeted advertising. Personal data is not shared with these companies. Further details of the companies we work with are available within our Cookie Policy.
+**System Logs**
 
-Personal information is never held on any of our first-party cookies.
+For operation and maintenance purposes, this Website and any third party services it uses may collect system logs, i.e., files that record interaction – including navigation. They may also contain personal data, such as IP addresses.
 
-You can choose to have your computer block some or all cookies for you. You do this through your browser settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies.
+**Information not contained in this policy**
 
-If you disable cookies, some advanced features will be disabled and some of our services may not function as intended.
+More information on processing Personal Information may be requested from the Owner at any time.
 
-You can read more about how we use cookies on our [Cookie Policy](http://studyinternational.com/cookie-policy).
+**The Rights of Data Subjects**
 
-## Anonymised analytics and insights
+Those persons to whom the Data refer have the right, at any time, to know whether their data has been stored and can consult the Data Controller to learn about their contents and origin, to verify their accuracy or to ask for them to be supplemented, cancelled, updated or corrected, or for their transformation into anonymous format or to block any data held in violation of the law, as well as to oppose their treatment for any and all legitimate reasons. Requests should be sent to the Owner of the Processing System.
 
-Occasionally, we will ask for additional information to help us monitor the reach and effectiveness of our services. For example, when creating an account, we may ask for your country of residence or postcode. This data will only ever be used in an anonymised format to help us demonstrate the effectiveness and improve the products and services we offer.
+**Changes to this Privacy Policy**
 
-We use Google Analytics to log review aggregated use data across all of our websites. No personal data is shared with Google Analytics.
+The Website reserves the right to make changes to this Privacy Policy at any time by giving notice to its Users on this page, and by ensuring analogous protection of the Personal Information in all cases. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom. Information about this privacy policy.
 
-## Geographical data and geotargeting
+**Personal information or Data**
 
-As with all websites, your IP address is sent to us each time a webpage is viewed. For some functionality we use this, along with geo-location information provided by your browser to provide location-specific content within our websites and apps. Your IP address and location information is stored anonymously, and not associated with any other personal details. You can stop sharing this information by changing your browser settings.
+Any information regarding a natural person, a legal person, an institution or an association, which is, or can be, identified, even indirectly, by reference to any other information, including a personal identification number.
 
-## Mobile app specific settings
+**Browsing and usage Data**
 
-We offer push notifications, location based services, and targeting advertising through our apps. When you first use one of our apps, you will be asked whether or not you want to turn-on these services. You can opt-out of these services at any time using the changing the permissions through your device settings.
+Information collected automatically from the Site, including the IP addresses or domain names of the computers utilized by the users who connect to the site, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server's answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the visitor, the various time details per visit (e.g., the time spent on each page) and the details about the path followed within the site with special reference to the sequence of pages visited, and other parameters about the operating system and the user's IT environment. User Means the individual user of the Website’s services or products.
 
-The personal data you provide is stored in a secure hosting environment based in Ireland. We employ a range of technology and procedures to ensure that this data is secure, including encryption, anti-virus and anti-malware software, intrusion detection, data usage policies, and mandatory security and privacy staff training.
+**Data Subject**
 
-## How long will you keep my information for?
+The legal or natural person to whom the Personal Data refer.
 
-We will keep your data for as long as we are required to, either:
+**Data Processor**
 
-By law, for example to meet financial regulations relating to payments  
-For as long as we require the data to provide a service to you. For example, we will retain your email address for as long as you are subscribed to one of our newsletters.
+The natural person, legal person, public administration or any other organization, association or organization designated by the Data Controller for the Personal Data processing system.
 
-Personal data is deleted in accordance with our internal retention policy. All identifiable personal data is deleted five years following your last interaction with this website.
+**Data Controller**
 
-## Reviewing and updating your data
+The natural person, legal person, public administration or any other body, association or organization with the right, also jointly with another Data Controller, to make decisions regarding the purposes, and the methods of processing of Personal Data and the means used, including the security measures concerning the operation and use of this Site.
 
-You can update the information we store on your behalf by requesting a data update by contacting the Hybrid Privacy Manager.
+**Legal information**
 
-In line with the GDPR regulations, you have the following rights:
-
-## The right to be informed
-
-You have the right to be informed why and how we collect your personal data, how we will use this information, who we share it with, what are the security measures we take to protect this information and what are you are your individual rights. We will publish this information in this Privacy Notice.
-
-## The right of access
-
-You have the right to access the information we hold for you by contacting the Hybrid Privacy Manager. If you need further information, you can make a Subject Access Request by contacting the Hybrid Privacy Manager.
-
-## The right to rectification
-
-You have the right for inaccurate or incomplete data we hold to be updated. You can make a request to have your data updated through the Hybrid Privacy Manager.
-
-## The right to erasure
-
-You have the right to be forgotten at any point by contacting the Privacy Manager or emailing [dpo@Hybrid.co](mailto:dpo@Hybrid.co). At your request, we will remove all the data we have for you which we are not required legally to retain.
-
-## The right to restrict processing
-
-You have the right to restrict processing when you have exercised one of the above right and it may take some time to process that request. For example: when you contact us to update your details you have the right to request restriction until your details are updated.
-
-## Right to withdraw consent
-
-For the processing activities where we have asked you for consent, you have the right to withdraw this consent at any point by clicking on the unsubscribe link in any email we send you, or contacting the Privacy Manager.
-
-## The right to object
-
-You can object to the processing of your personal data at any point by contacting the Privacy Manager. There may be instances where we may not be able to fulfil those requests, but we will provide you with explanation when replying back to you.
-
-## Right to not be subject to automated decisions and profiling
-
-None of our processing activities are purely automated. There are instances where we process data to analyse or predict behaviour but we will ask you for explicit consent when this processing will involve your personal data.
-
-## Right to data portability
-
-If you have provided us with your personal data with consent or under the contact obligations, you have the right to request the data you have provided to us in a machine-readable format should you decide to move to another data controller.
-
-We work with a range of providers that advertise products on our platforms and have agreements and procedures in place to ensure your personal data is protected through the service you receive from us.
-
-Your personal data will only be shared with the providers you have chosen to engage with via our websites. For example, when you make an enquiry or a request to a provider, your details relating to that enquiry will be provided to the provider so that they may answer your enquiry directly.
-
-We also provide anonymised site usage data to providers to enable them to monitor conversions from users who use our websites.
-
-We have data sharing agreements in place with these providers to make sure they apply security operational and technical measures when processing your personal information.
-
-In the future, if Hybrid may be sold, acquired, or merged with another business. Under these circumstances, we may share the personal data we hold with the parties involved.
-
-## Links to other websites
-
-On our website there are lots of links to providers websites. This privacy notice does not cover these links. We encourage you to read the privacy statements on the other websites you visit.
-
-## Changes to Hybrid Privacy Notice details
-
-The date of the most recent version will appear on the top of the page. From time to time we may be updating this Privacy Notice, please review it each time you are to submit personal information. If we make any significant changes to this notice we will send you an email informing you of these amendments. If you do not agree with these changes please do not use our websites to provide personal information.
-
-## Further questions
-
-If you have any question regarding your personal data, please contact the Privacy Manager at the address below:
-
-Privacy Manager
-
-Hybrid News Limited  
-Colston Tower, Level 9  
-Colston Street  
-Bristol  
-BS1 4UX
-
-[dpo@hybrid.co](mailto:dpo@hybrid.co)
-
-If you feel we have been intrusive to your privacy or misused your data you have the right to complain to the ICO <https://ico.org.uk/for-the-public/raising-concerns/>
-
-## Site Specific Privacy Notice
-
-The following section provides information on the collection and processing of personal data specific to the Study International website.
-
-This site is available at <https://www.studyinternatioanl.com/>.
-
-The site is intended for use by users aged 16 years and over.
-
-## What personal data do we collect?
-
-The following items of personal data are collected as part of an enquiry process:
-
-First name  
-Last name  
-Email  
-Password  
-Postcode (optional)  
-Phone number (optional)
-
-## How we process your data
-
-While using the Study International website, you can carry out the following interactions where we process your personal data:
-
-Making an enquiry to an institution  
-Adding a course or institution review
-
-## Data sharing
-
-Your contact details are shared with education institutions to which you have made an enquiry.
+Notice to European Users: this privacy statement has been prepared in fulfilment of the obligations under Art. 10 of EC Directive n. 95/46/EC, and under the provisions of Directive 2002/58/EC, as revised by Directive 2009/136/EC, on the subject of Cookies. This privacy policy exclusively regards this Website.
