@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the pixilart.net privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627184747id_/https%3A//www.pixilart.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixilart.net privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228015450id_/https%3A//www.pixilart.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Pixilart
-
-## Pixilart Privacy Policy
 
 This privacy policy is effective as of May 25th 2018.
 
@@ -37,6 +35,9 @@ Creating an account is completely free. We collect BPI, which is used to access 
 **Cookie Data**  
 Like many Internet sites, we use “cookies” to collect information. Pixilart uses cookies to collect information to track usage. Cookie tracking is used to monitor views on all photo types. Cookie sessions are used to store account data locally or on the server side for your conveniences. Other cookies may be used by advertising and third party tools/resources. 
 
+**Analytics**  
+We collect information about your session including browser, location (city, state, country), user ID (if signed in) to understand the interaction between the website and user. This service is proved by Google Analytics and more information about their privacy policy can be found here: [Google Privacy & Terms](https://policies.google.com/privacy?hl=en). 
+
 **Security**  
 We cannot guarantee the information we collect is completely secure. The Internet and its ability to transmit data isn't flawless, and there is no current method of guaranteeing complete security. However, we will do our best to protect and secure your information. 
 
@@ -51,4 +52,4 @@ Unless we tell you first (such as at the time we collect information from you), 
 **Questions**  
 If you have any questions about this privacy policy or our policies, please contact us at: 
 
-E-mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e4979194948b9690a4948d9c8d88859690ca878b89)
+E-mail: [support@pixilart.com](mailto:support@pixilart.com)
