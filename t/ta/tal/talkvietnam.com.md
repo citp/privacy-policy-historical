@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talkvietnam.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627200511id_/https%3A//www.talkvietnam.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talkvietnam.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228030029id_/https%3A//www.talkvietnam.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Talk Vietnam
 
@@ -20,7 +20,7 @@ www.talkvietnam.com uses cookies to store information about visitors’ preferen
 
 → Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to www.talkvietnam.com and other sites on the Internet.
 
-→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html)
 
 **Our Advertising Partners**
 
