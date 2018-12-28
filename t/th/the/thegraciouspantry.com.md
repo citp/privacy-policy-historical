@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the thegraciouspantry.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627201756id_/https%3A//www.thegraciouspantry.com/privacy-statment) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegraciouspantry.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228031130id_/https%3A//www.thegraciouspantry.com/privacy-statment) for the most accurate reproduction.*
 
-# Privacy Policy Statement | The Gracious Pantry | Your Information
+# Privacy Policy Statement | Your Information | The Gracious Pantry
 
 ### The Gracious Pantry® (“Website”) is governed by the following Privacy Policy. 
 
 We respect your privacy and are committed to protecting it. The purpose of this Privacy Policy is to inform you what information we may collect and how it may be used. This statement only applies to this Website. 
 
-#### WHAT INFORMATION DO WE COLLECT AND HOW IS IT USED?
+## WHAT INFORMATION DO WE COLLECT AND HOW IS IT USED?
 
   *  **Information You Voluntarily Submit to the Website:** We may collect personal information from you such as your name or email address. For example, you may voluntarily submit information to the Website by leaving a comment, subscribing to a newsletter, or submitting a contact form.
   *  **Information We Collect from Others:** We may receive information about you from other sources. For example, if you use a third-party software through the site, they may transfer information to us for fulfillment.
@@ -15,7 +15,7 @@ We respect your privacy and are committed to protecting it. The purpose of this 
 
 
 
-#### HOW YOUR INFORMATION MAY BE USED
+## HOW YOUR INFORMATION MAY BE USED
 
 We may use the information collected in the following ways: 
 
@@ -30,7 +30,7 @@ We may use the information collected in the following ways: 
 
 
 
-#### THIRD-PARTY USE OF PERSONAL INFORMATION
+## THIRD-PARTY USE OF PERSONAL INFORMATION
 
 We may share your information with third parties when you explicitly authorize us to share your information.
 
@@ -46,21 +46,21 @@ At this time, your personal information is not shared with any other third-party
 
 Except when required by law, we will not sell, distribute, or reveal your email addresses or other personal information without your consent; however, we may disclose or transfer personal information collected through the Website to third parties who acquire all or a portion of our business, which may be the result of a merger, consolidation, or purchase of all or a portion of our assets, or in connection with any bankruptcy or reorganization proceeding brought by or against us.
 
-#### ANONYMOUS DATA
+## ANONYMOUS DATA
 
 From time to time, we may use anonymous data, which does not identify you alone, or when combined with data from other parties. This type of anonymous data may be provided to other parties for marketing, advertising, or other uses. Examples of this anonymous data may include analytics or information collected from cookies.
 
-#### PUBLICLY VISIBLE INFORMATION
+## PUBLICLY VISIBLE INFORMATION
 
 If you leave a comment on the Website, certain information may be publicly visible.
 
-#### COOKIES
+## COOKIES
 
 The Website uses cookies to store visitors’ preferences, record user-specific information on what pages users access or visit, ensure that visitors are not repeatedly sent the same banner ads, customize Website content based on visitors’ browser type or other information that the visitor sends. Cookies may also be used by third-party services, such as Google Analytics, as described herein.
 
 Users may, at any time, prevent the setting of cookies, by the Website, by using a corresponding setting of your internet browser and may thus permanently deny the setting of cookies. Furthermore, already set cookies may be deleted at any time via an Internet browser or other software programs. This is possible in all popular Internet browsers. However, if users deactivate the setting of cookies in your Internet browser, not all functions of our Website may be entirely usable.
 
-#### ADVERTISING
+## ADVERTISING
 
  **Display Ads**  
 We may use third-party advertising companies to serve content and advertisements when you visit the Website, which may use cookies. No personally identifiable information is shared with the Website’s ad providers.
@@ -79,7 +79,7 @@ The Gracious Pantry is a participant in the Amazon Services LLC Associates Progr
  **Newsletters**  
 On the Website, you may subscribe to our newsletter, which may be used for advertising purposes. All newsletters sent may contain tracking pixels. The pixel is embedded in emails and allows an analysis of the success of online marketing campaigns. Because of these tracking pixels, we may see if and when you open an email and which links within the email you click. Also, this allows the Website to adapt the content of future newsletters to the interests of the user. This behavior will not be passed on to third parties.
 
-#### RIGHTS RELATED TO YOUR PERSONAL INFORMATION
+## RIGHTS RELATED TO YOUR PERSONAL INFORMATION
 
  **Opt-out** – You may opt-out of future email communications by following the unsubscribe links in our emails. You may also notify us at thegraciouspantry@gmail.com to be removed from our mailing list.
 
@@ -91,18 +91,18 @@ On the Website, you may subscribe to our newsletter, which may be used for adver
 
 Please note that we may need to retain certain information for recordkeeping purposes or to complete transactions, or when required by law.
 
-#### SENSITIVE PERSONAL INFORMATION
+## SENSITIVE PERSONAL INFORMATION
 
 At no time should you submit sensitive personal information to the Website. This includes your social security number, information regarding race or ethnic origin, political opinions, religious beliefs, health information, criminal background, or trade union memberships. If you elect to submit such information to us, it will be subject to this Privacy Policy.
 
-#### CHILDREN’S INFORMATION
+## CHILDREN’S INFORMATION
 
 The Website does not knowingly collect any personally identifiable information from children under the age of 16. If a parent or guardian believes that the Website has personally identifiable information of a child under the age of 16 in its database, please contact us immediately at thegraciouspantry@gmail.com and we will use our best efforts to promptly remove such information from our records.
 
-#### CONTACT INFORMATION
+## CONTACT INFORMATION
 
 At any time, please contact us at thegraciouspantry@gmail.com for questions related to this Privacy Policy. 
 
 Last updated: 5/16/2018
 
-#### [Please See Terms Of Use (Service) here.](https://www.thegraciouspantry.com/terms-of-use/)
+## [Please See Terms Of Use (Service) here.](https://www.thegraciouspantry.com/terms-of-use/)
