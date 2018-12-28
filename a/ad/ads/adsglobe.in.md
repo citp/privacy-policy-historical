@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adsglobe.in privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216003917id_/http%3A//www.adsglobe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsglobe.in privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228192400id_/http%3A//www.adsglobe.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Post Free Ads
 
