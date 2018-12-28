@@ -1,6 +1,18 @@
-> *The following text is extracted and transformed from the rpggeek.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628063142id_/https%3A//rpggeek.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rpggeek.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228124607id_/https%3A//rpggeek.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | RPGGeek
+
+GeekGold Bonus for All Supporters at year's end: 1000! 
+
+13,749 Supporters
+
+$15 min for supporter badge & GeekGold bonus 
+
+4 Days Left 
+
+###  Support: 
+
+Annual  Monthly  One-Time  $15  $25  $40  $70  $100  $
 
 Before you start, we have a few questions for you:
 
@@ -313,7 +325,7 @@ If you purchase an item on the BoardGameGeek Store, we also may provide your con
 
 ### _Our payment processors_
 
-You may provide some financial information as part of the payment process, such as credit card numbers, but we are not able to access more than the last four digits of those numbers. We use Stripe, Inc., or another payment processor, to handle user payment services. See Stripe’s privacy policy (available at <https://stripe.com/privacy)> for how they handle your information. See PayPal’s privacy policy (available at <https://paypal.com/privacy)> for how they handle your information.
+You may provide some financial information as part of the payment process, such as credit card numbers, but we are not able to access more than the last four digits of those numbers. We use Stripe, Inc., or another payment processor, to handle user payment services. If you send us payments with a credit card, we may provide your email address to Stripe to allow you to more easily update your payment information. See Stripe’s privacy policy (available at <https://stripe.com/privacy)> for how they handle your information. See PayPal’s privacy policy (available at <https://paypal.com/privacy)> for how they handle your information.
 
 ### _Our email processor_
 
