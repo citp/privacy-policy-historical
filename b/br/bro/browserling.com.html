@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the browserling.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606173141id_/https%3A//www.browserling.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the browserling.com privacy policy that was archived on 2018-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181228055341id_/https%3A//www.browserling.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -13,14 +13,15 @@
     <meta property="og:image" content="https://www.browserling.com/images/browserling-cross-browser-testing-fb-og-image.png">
     <meta property="fb:app_id" content="891514237625066">
 
+    <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
     <link rel="icon" href="/favicon.ico" type="image/x-icon">
 
     <link rel="stylesheet" type="text/css" href="/css/reset.css">
-    <link rel="stylesheet" type="text/css" href="/css/style-base-template.css">
-    <link rel="stylesheet" type="text/css" href="/css/style-browser-window.css">
-    <link rel="stylesheet" type="text/css" href="/css/style-menu-new.css">
-    <link rel="stylesheet" type="text/css" href="/css/style-footer-new.css">
+    <link rel="stylesheet" type="text/css" href="/css/style-base-template.css?v=eb42d7">
+    <link rel="stylesheet" type="text/css" href="/css/style-browser-window.css?v=eb42d7">
+    <link rel="stylesheet" type="text/css" href="/css/style-menu-new.css?v=eb42d7">
+    <link rel="stylesheet" type="text/css" href="/css/style-footer-new.css?v=eb42d7">
 
     
 <link rel="stylesheet" type="text/css" href="/css/style-article-new.css">
@@ -30,6 +31,9 @@
 
     <link href="//fonts.googleapis.com/css?family=Raleway" rel="stylesheet" type="text/css">
     <link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
+    <!-- todo: remove fonts above -->
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Mono|Roboto:400,700" rel="stylesheet">
 
     <link rel="sitemap" type="application/xml" title="sitemap" href="/sitemap.xml">
 
@@ -50,8 +54,8 @@
     </script>
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-    <script src="/js/sign-in-new.js"></script>
-    <script src="/js/footer.js"></script>
+    <script src="/js/sign-in-new.js?v=eb42d7"></script>
+    <script src="/js/footer.js?v=eb42d7"></script>
 
     
 <script src="/js/api.js"></script>
@@ -59,7 +63,9 @@
 
   </head>
 
-  <body>
+            
+            
+  <body class="">
     <div id="top-container">
       <a name="top"></a>
       <div id="top">
@@ -206,14 +212,26 @@
     <div id="footer">
       <div id="web-subscribe">
         <div id="web-subscribe-title">
+          <a name="subscribe"></a>
           <img src="/images/subscribe-paper-airplane.png"> Subscribe to updates!
         </div>
         <div id="web-subscribe-body">
           <input type="text" name="email" placeholder="Your email"> <button>Subscribe</button>
         </div>
-        <div id="web-subscribe-extra-message">
-        </div>
+        <div id="web-subscribe-error"></div>
+        <div id="web-subscribe-extra-message"></div>
       </div>
+      <script>
+        if (document.location.hash == '#subscribe') {
+          $(function () {
+            setTimeout(function () {
+              if (!$('#web-subscribe-body input[name="email"]').is(':focus')) {
+                $('#web-subscribe-body input[name="email"]').focus();
+              }
+            }, 500);
+          });
+        }
+      </script>
 
       <div id="footer-logo-menu">
         <div id="footer-logo">
@@ -274,9 +292,9 @@
         <div class="clear"></div>
       </div>
 
-      <div id="footer-copyright-legal-hf">
+      <div id="footer-copyright-legal-part-of">
         <div id="copyright-legal">
-          © 2017 Browserling Inc. All rights reserved.
+          © 2018 Browserling Inc. All rights reserved.
           <div class="sep"></div>
           <a href="/terms-of-service" rel="nofollow">Terms of Service</a>
           <div class="sep"></div>
@@ -285,8 +303,12 @@
           <div class="fb-like" data-href="https://www.facebook.com/browserling/" data-layout="button_count" data-action="like" data-show-faces="true"></div>
         </div>
 
-        <div id="hf">
-          Part of the exclusive <a href="http://www.hf.cx" target="_blank"><span id="hf-text">HACKERS<span id="hf-slash">/</span>FOUNDERS</span></a> startup accelerator.
+        <div id="part-of">
+          <div id="hf">
+            Part of the exclusive <a href="http://www.hf.cx" target="_blank"><span id="hf-text">HACKERS<span id="hf-slash">/</span>FOUNDERS</span></a> startup accelerator.
+          </div>
+          <div id="ms">
+            Part of the exclusive <a href="https://startups.microsoft.com" target="_blank"><img src="/images/microsoft-logo-16-px-height.jpg" alt="Microsoft" title="Microsoft"> BizSpark</a> program for startups.
         </div>
 
         <div class="clear"></div>
@@ -389,22 +411,22 @@
     </script>
     
 
-    
-      <!-- Facebook Pixel Code -->
-      <script>
-      !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-      n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-      n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-      t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-      document,'script','https://connect.facebook.net/en_US/fbevents.js');
-      fbq('init', '188256394995408'); // Insert your pixel ID here.
-      fbq('track', 'PageView');
-      </script>
-      <noscript><img height="1" width="1" style="display:none"
-      src="https://www.facebook.com/tr?id=188256394995408&ev=PageView&noscript=1"
-      /></noscript>
-      <!-- End Facebook Pixel Code -->
-    
-  
+          
+        <!-- Facebook Pixel Code -->
+        <script>
+        !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+        document,'script','https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '188256394995408'); // Insert your pixel ID here.
+        fbq('track', 'PageView');
+        </script>
+        <noscript><img height="1" width="1" style="display:none"
+        src="https://www.facebook.com/tr?id=188256394995408&ev=PageView&noscript=1"
+        /></noscript>
+        <!-- End Facebook Pixel Code -->
+      
+      
 
-</body></html>
+</div></body></html>
