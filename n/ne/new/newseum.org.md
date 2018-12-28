@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newseum.org privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523165039id_/http%3A//www.newseum.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newseum.org privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228231900id_/http%3A//www.newseum.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Newseum
 
@@ -48,5 +48,3 @@ We may occasionally update this privacy statement. We recommend that visitors re
 All Content is Protected by Copyright Laws.
 
 Images, text, software, documentation, electronic text and image files, audio and video clips, and other materials are protected by copyright laws and may be covered by other restrictions, as well. The Newseum retains all rights, including copyright, in data, image, text, and any other information contained in these files. Copyrights and other proprietary rights in the material on this website may also subsist in individuals and entities other than, and in addition to, the Newseum. The Newseum expressly prohibits the copying of any protected materials on this website, except for the purposes of fair use as defined in the copyright laws.
-
-#### Share
