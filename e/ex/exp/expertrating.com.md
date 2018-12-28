@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expertrating.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628000033id_/http%3A//www.expertrating.com/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expertrating.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228100018id_/http%3A//www.expertrating.com/privacy/privacy.html) for the most accurate reproduction.*
 
 # ExpertRating - Online Certification and Employment Testing
 
@@ -8,11 +8,11 @@
 
 If you have an unresolved privacy or data-use concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider (free of charge) at [ https://feedback-form.truste.com/watchdog/request ](https://feedback-form.truste.com/watchdog/request). 
 
-ExpertRating Solutions ("ExpertRating") is committed to protecting your privacy. We have established this privacy policy to communicate our information practices through this statement, pertaining to the collection, use and protection of the personal information we collect. This privacy policy applies exclusively to the website [ www.expertrating.com](http://www.expertrating.com/), owned and operated by Expert Rating Solutions. By using this website, you are providing your consent to the privacy practices disclosed within this statement. 
+ExpertRating Solutions ("ExpertRating") is committed to protecting your privacy. We have established this privacy policy to communicate our information practices through this statement, pertaining to the collection, use and protection of the personal information we collect. This privacy policy applies exclusively to the website [ www.expertrating.com](https://web.archive.org/), owned and operated by Expert Rating Solutions. By using this website, you are providing your consent to the privacy practices disclosed within this statement. 
 
 * What type of user related information do we collect?
 
-ExpertRating collects personal information from users of the website at different points of registration. Whether registering as affiliate partner, for an employer account or as an individual user, we collect personal information to facilitate your requested service. This collected personal information includes name, email and physical address, phone number, and PayPal I.D. where applicable. When you supply your credit card information, it is not retained on file by us. When users register for a ‘Live Proctored’ exam, we may also collect, during the proctored session, information such as a web cam photo I.D., a list of applications running on your system and geographical location, in order to maintain the integrity of the proctored session. You may contact us at [ExpertRating Help Desk ](http://www.expertrating.com/support/issue-submit.asp) to request for the removal of your information from our database.   
+ExpertRating collects personal information from users of the website at different points of registration. Whether registering as affiliate partner, for an employer account or as an individual user, we collect personal information to facilitate your requested service. This collected personal information includes name, email and physical address, phone number, and PayPal I.D. where applicable. When you supply your credit card information, it is not retained on file by us. When users register for a ‘Live Proctored’ exam, we may also collect, during the proctored session, information such as a web cam photo I.D., a list of applications running on your system and geographical location, in order to maintain the integrity of the proctored session. You may contact us at [ExpertRating Help Desk ](https://web.archive.org/support/issue-submit.asp) to request for the removal of your information from our database.   
 **Information collection during re-certification on ExpertRating** \- When you apply for re-certification, the website collects information related to your previous and current employment. You will be asked for your previous employer's address and current employer's address. This information is solely used for determining whether you are eligible for re-certification without re-taking the test.  
 
 * How does ExpertRating use my information? 
@@ -29,12 +29,12 @@ ExpertRating services can be purchased online through a secure credit card trans
 
 * How you can access or correct your personal information 
 
-ExpertRating Solutions will provide you with information about whether we hold any of your personal information. You can access and change the personal information that we collect and maintain by logging in to your user account with the username and passwords assigned to your account. You can delete your account and personal information by sending us a request through email or phone. If you wish to cancel your account or request that we no longer use your information to provide you services, contact us at ExpertRating [Help Desk](http://www.expertrating.com/support/index.asp). We will respond to your request within a reasonable timeframe. 
+ExpertRating Solutions will provide you with information about whether we hold any of your personal information. You can access and change the personal information that we collect and maintain by logging in to your user account with the username and passwords assigned to your account. You can delete your account and personal information by sending us a request through email or phone. If you wish to cancel your account or request that we no longer use your information to provide you services, contact us at ExpertRating [Help Desk](https://web.archive.org/support/index.asp). We will respond to your request within a reasonable timeframe. 
 
-The login page is at: <http://www.expertrating.com/login.asp>
+The login page is at: [https://www.expertrating.com/login.asp](https://web.archive.org/login.asp)
 
 To prevent unauthorized use of our testing services, you cannot change your username directly from the login area. You must request us for a change of name by clicking on the "request name change" link within your login area.   
-If you wish to subscribe to our newsletter, we will use your name and email address to send it to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or by accessing the email preferences in your account settings page or you can contact us at [ ExpertRating HelpDesk . ](http://www.expertrating.com/support/index.asp)
+If you wish to subscribe to our newsletter, we will use your name and email address to send it to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or by accessing the email preferences in your account settings page or you can contact us at [ ExpertRating HelpDesk . ](https://web.archive.org/support/index.asp)
 
 * Automatically Collected Information
 
@@ -49,7 +49,7 @@ ExpertRating may be required by law to disclose information to law enforcement, 
 
 * Data Retention 
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services, contact us at  [ExpertRating Help Desk](http://www.expertrating.com/support/index.asp). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services, contact us at  [ExpertRating Help Desk](https://web.archive.org/support/index.asp). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
 * Links to 3rd Party Sites 
 
@@ -69,7 +69,7 @@ ExpertRating will do its utmost to ensure that the successor adheres to the same
 
 * Who should I contact if I have a Privacy related concern? 
 
-If you have any doubts or require clarifications related to the privacy of your information with us, please use our [ contact form ](http://www.expertrating.com/contact.asp) to get in touch with us. 
+If you have any doubts or require clarifications related to the privacy of your information with us, please use our [ contact form ](https://web.archive.org/contact.asp) to get in touch with us. 
 
 * Contact Us 
 
