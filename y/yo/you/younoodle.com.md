@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the younoodle.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623225210id_/https%3A//ww2.younoodle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the younoodle.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228083606id_/https%3A//ww2.younoodle.com/privacy) for the most accurate reproduction.*
 
 # YouNoodle | Privacy Policy
 
@@ -153,7 +153,7 @@ California residents who have an established business relationship with YouNoodl
 
 YouNoodle Headquarters
 
-5 3rd St, Suite 722
+5 Third St, Suite 722
 
 San Francisco, CA 94103
 
@@ -213,7 +213,7 @@ In Writing:
 
 YouNoodle Headquarters
 
-5 3rd St, Suite 722
+5 Third St, Suite 722
 
 San Francisco, CA 94103
 
