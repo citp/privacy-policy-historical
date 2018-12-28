@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peaceloveandlowcarb.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628032215id_/https%3A//peaceloveandlowcarb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peaceloveandlowcarb.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228094620id_/https%3A//peaceloveandlowcarb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Peace Love and Low Carb
 
@@ -8,11 +8,11 @@ We respect your privacy and are committed to protecting it. The purpose of this 
 
 ## WHAT INFORMATION DO WE COLLECT AND HOW IS IT USED?
 
-**Information You Voluntarily Submit to the Website** : We may collect personal information from you such as your name or email address. For example, you may voluntarily submit information to the Website by leaving a comment, subscribing to a newsletter, or submitting a contact form. In addition, you are able to create a user profile, which allows you to create a username and password. We will store the username, but your password will not be visible in our records.
+ **Information You Voluntarily Submit to the Website** : We may collect personal information from you such as your name or email address. For example, you may voluntarily submit information to the Website by leaving a comment, subscribing to a newsletter, or submitting a contact form. In addition, you are able to create a user profile, which allows you to create a username and password. We will store the username, but your password will not be visible in our records.
 
-**Automatically-Collected Information** : We automatically collect certain information about you and the device with which you access the Website. For example, when you use the Website, we will log your IP address, operating system type, browser type, referring website, pages you viewed, and the dates/times when you accessed the Website. We may also collect information about actions you take when using the Website, such as links clicked.
+ **Automatically-Collected Information** : We automatically collect certain information about you and the device with which you access the Website. For example, when you use the Website, we will log your IP address, operating system type, browser type, referring website, pages you viewed, and the dates/times when you accessed the Website. We may also collect information about actions you take when using the Website, such as links clicked.
 
-**Cookies** : We may log information using cookies, which are small data files stored on your browser by the Website. We may use both session cookies, which expire when you close your browser, and persistent cookies, which stay on your browser until deleted, to provide you with a more personalized experience on the Website.
+ **Cookies** : We may log information using cookies, which are small data files stored on your browser by the Website. We may use both session cookies, which expire when you close your browser, and persistent cookies, which stay on your browser until deleted, to provide you with a more personalized experience on the Website.
 
 ## HOW YOUR INFORMATION MAY BE USED
 
@@ -56,21 +56,21 @@ Users may, at any time, prevent the setting of cookies, by the Website, by using
 
 ## ADVERTISING
 
-**Display Ads**
+ **Display Ads**
 
 We may use third-party advertising companies to serve content and advertisements when you visit the Website, which may use cookies, as noted above.
 
-**Retargeting  Ads**
+ **Retargeting  Ads**
 
 From time to time, the Website may engage in remarketing efforts with third-party companies, such as Google, Facebook, or Instagram, in order to market the Website. These companies use cookies to serve ads based on someone’s past visits to the Website.
 
-**Affiliate Program Participation**
+ **Affiliate Program Participation**
 
 The Website may engage in affiliate marketing, which is done by embedding tracking links into the Website. If you click on a link for an affiliate partnership, a cookie will be placed on your browser to track any sales for purposes of commissions.
 
 Peace Love and Low Carb LLC is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and links to Amazon.com.  As part of this Amazon Associates program, the Website will post customized links, provided by Amazon, to track the referrals to their website. This program utilizes cookies to track visits for the purposes of assigning commission on these sales.
 
-**Newsletters**
+ **Newsletters**
 
 On the Website, you may subscribe to our newsletter, which may be used for advertising purposes. All newsletters sent may contain tracking pixels. The pixel is embedded in emails and allows an analysis of the success of online marketing campaigns. Because of these tracking pixels, we may see if and when you open an email and which links within the email you click. Also, this allows the Website to adapt the content of future newsletters to the interests of the user. This behavior will not be passed on to third parties.
 
@@ -92,4 +92,4 @@ The Website does not knowingly collect any personally identifiable information f
 
 At any time, please contact us at Kyndra@peaceloveandlowcarb.com for questions related to this Privacy Policy.
 
-**Last updated: May 23, 2018.**
+ **Last updated: May 23, 2018.**
