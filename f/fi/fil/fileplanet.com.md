@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fileplanet.com privacy policy that was archived on 2017-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170807061852id_/https%3A//www.fileplanet.com/policy-en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fileplanet.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228215554id_/https%3A//www.fileplanet.com/policy-en) for the most accurate reproduction.*
 
 # Privacy Policy of fileplanet.com
 
@@ -33,6 +33,12 @@ The hardware or software tool by which the Personal Data of the User is collecte
 #### Cookies
 
 Small piece of data stored in the User's device.
+
+#### Third Party Advertising
+
+We may use third parties' technology to operate and manage the download and installation process of our products. For the terms of service and privacy policy of the InstallCore technology which may be used by us, please see [here](http://www.installcore.com/legal/terms-of-service/)
+
+We may use [third-party advertising companies](https://d7cwa8ucxkjfz.cloudfront.net/pp.html) to serve ads when you visit our website.
 
 * * *
 
