@@ -1,150 +1,154 @@
-> *The following text is extracted and transformed from the sandisk.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118180733id_/https%3A//www.sandisk.com/about/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sandisk.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228033249id_/https%3A//www.sandisk.com/about/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
 * * *
 
-**Last updated: July 1, 2016**
+**Last Modified:** May 1, 2018
 
-This privacy statement describes the privacy practices of SanDisk®, a brand of Western Digital Corporation or its affiliates (“SanDisk,” “we,” “us,” “our”), regarding our collection, use, and disclosure of your information in connection with SanDisk-branded products, including tools or applications, services, or where there is a link to this privacy statement, such as through the footer of our websites, or when made available within our mobile applications (collectively “SanDisk Services”). We encourage you to read this privacy statement and those of third-party websites, services and products you visit or use (“Third-Party Services”).
+This Privacy Statement explains how Western Digital (“Western Digital,” “we,” “us,” or “our”) collects, uses, and discloses your information. The Privacy Statement applies to all services and products, except those products that have a separate Privacy Statement.
 
-**You consent to the use of your personal information as described in this privacy statement.**
+Where applicable, you consent to the use of your information as described in this Privacy Statement each time you use our products or services, so we urge you to read this document in full, and [Contact Us](mailto:Privacy@wdc.com) if you have any questions.
 
-Click on the links below to go to a specific section of the privacy statement.
+**Quick Links**  
+Click on the links below to go to a specific section of this Privacy Statement.
 
-  * Privacy statement updates
-  * Information we collect
-  * How we collect information
-  * Cookies and other technologies
-  * Use of personal information
-  * Sharing personal information
-  * How to access and update your personal information
-  * Security of personal information
-  * Data retention
-  * Third-Party Services
-  * Children and privacy
-  * Information for individuals outside of the United States
-  * Contact us
-  * Your California Privacy Rights
+Collection and Use of Personal Information  
+Cookies and Similar Technologies  
+Disclosure of Personal Information  
+Your Rights  
+Closing Accounts  
+Third-Party Websites and Services  
+Information Security, Integrity, and Retention  
+Children  
+Information Transfers, Storage, and Processing Globally  
+Changes to This Privacy Statement  
+Contact Us  
 
 
+* * *
 
-**Privacy statement updates**
+### Collection and Use of Personal Information
 
-We may update this privacy statement from time to time. If we change our privacy statement, we will post the revised statement on the applicable SanDisk Services. The revised privacy statement will supersede and replace any previous privacy statements effective as of the date on which the revised statement is posted. Your continued use of the SanDisk Services after such change represents and confirms your consent and agreement to any such changes.
+Personal information is information that can be used to directly or indirectly identify you. Personal information also includes anonymous information that is linked to information that can be used to directly or indirectly identify you. Personal information does not include information that has been irreversibly anonymized or aggregated so that it can no longer enable us, whether in combination with other information or otherwise, to identify you.
 
-**Information we collect**
+Here is a description of the types of personal information we may collect and how we may use it:
 
-We collect different types of information, including both personal and non-personal information. “Personal information” is information that can be used to individually identify you, including your name, postal or physical address, telephone number, e-mail address, and other information you have provided or is required to carry out a transaction, provide a service or deliver a product. Depending on where you live, personal information may also include your real-time location, your device’s Internet Protocol (IP) address or unique device identifier (UDI). We may collect and store information you or others provide in community discussions, chats, and correspondence received through the SanDisk Services or sent to us directly.
+_What Personal Information We Collect_
 
-Portions of our SanDisk Services may only be accessible if you register. When you register we may ask you to provide a user name and password. We may retain this information to remember you when you log in. This information may be linked to other information that we collect while you are on the SanDisk Services.
+Depending on the products and services you use, we collect different kinds of personal information from or about you.
 
-Prospective employees may submit information to apply for employment with our corporate parent (Western Digital Corporation) or affiliates, by visiting the Careers page, which may be operated by an authorized vendor. Information collected through an online job application may include name, address, telephone and fax numbers, email address, education history, military service, immigration status and employment history or other information. Information provided through this process is subject to the privacy policy of the Third-Party Service vendor, which you should review before providing information.
-
-**The collection and use of your personal information may be necessary for us to provide you with a product or service, communicate with you, or maintain our relationship with you. Please note that if you choose not to provide us with personal information, we may not be able to provide these things to you, in part or at all.**
-
-We also collect other non-personal types of data, including device information such as the type of browser or operating system used and software usage statistics. We use this data, and may compile and analyze the data, in order to improve products and services and to personalize your experience with us. Examples of non-personal information include hardware configuration, computer or device characteristics and connection information such as browser type, version and time zone setting, operating system, and platform; the full Uniform Resource Locator (URL) clickstream to, through and from our websites including date and time, cookie number, and the products you viewed, searched or purchased.
-
-**How we collect information**
-
-Much of the personal information we collect is collected online or through our software applications but we may also collect personal information off-line in connection with our providing or servicing SanDisk Services, such as through customer service call centers, at in-person events, and through postal mail (such as rebate or warranty cards you send to us via mail).
-
-Personal and non-personal information collected through one SanDisk product or service may be combined with information collected through or in connection with another SanDisk product or service.
-
-**Cookies and other technologies we use**
-
-We use tracking technologies such as cookies (small files placed on your hard drive), web beacons, website analytics tools, and the personal information you provide us to personalize your online experience and improve our services. Some information about your use of the SanDisk Services and Third-Party Services may be collected using tracking technologies across time and services, and used by us and third parties for purposes, such as to associate different devices you use, and deliver relevant ads and/or other content to you on the SanDisk Services and Third-Party Services. Please see our [Cookie Statement](https://www.sandisk.com/about/legal/cookies.html) for additional information, including certain choices you may have regarding some of these activities. By accessing SanDisk Services, you consent to the placement of cookies and our and third party use of track technologies subject to our [Cookie Statement](https://www.sandisk.com/about/legal/cookies.html).
-
-Some web browsers may have settings for “Do Not Track” signals. Browsers may have this signal on or off by default, and there is no standard as to how websites should respond. We do not currently monitor or take action regarding these signals. We encourage you to look at opt-out methods described in our [Cookie Statement](https://www.sandisk.com/about/legal/cookies.html) or as otherwise available from applicable third parties.
-
-**Use of personal information**
-
-You agree that we may use your personal information for our commercial purposes including for instance:
-
-  * To deliver a product or provide a service you have requested or to provide you with product registration, technical and customer support;
-  * To administer promotions that you enter such as a contest or sweepstakes;
-  * To consider you for employment if you submit a job application;
-  * To allow your participation in activities, such as online discussion groups or chats, communities and surveys;
-  * To communicate with you through emails, text messages or phone calls about our affiliates’ products and services, targeted marketing materials, service updates, and promotional offers;
-  * To customize, measure, deliver and improve our products, services, content and advertising;
-  * To recognize you when you log in and to authorize your instructions after you have logged in;
-  * To personalize your overall experience with us;
-  * To transfer information to our authorized third parties; and
-  * Other uses as indicated with the information that is collected.
+  * **Information you provide** : We collect the personal information you provide—such as your name, username, or email address—when you use our products and services, create an account, [Contact Us](mailto:Privacy@wdc.com), participate in an online survey, participate in community discussions or chat rooms, apply for employment, interact with us at in-person events, or otherwise interact with us.
+  * **Information about payments** : If you make a purchase, we collect personal information in connection with the purchase. This information includes payment information, such as your credit or debit card number and other card information; other account and authentication information; and billing, shipping, and contact details.
+  * **Information about use of our services and products** : When you visit our websites or cloud environment, we may collect information about the type of device you use, your device’s unique identifier, the IP address of your device, your operating system, the type of Internet browser that you use, usage information, diagnostic information, browsing information, session summary information, file attributes (including attributes for photos, videos, music, and documents), and location information from or about the computers, phones, or other devices on which you install or access our products or services. We may gather some of this information automatically. Where available, our services may use GPS, your IP address, and other technologies to determine a device’s approximate location to allow us to improve our products and services.
+  * **Information from third parties** : We may collect information from third parties, including business partners and marketing agencies. This includes your contact information from marketing partners when we engage in joint marketing or co-branding activities, your IP address or location information from service providers to offer certain products and services relevant to your location, and data from your social networks to authenticate your product use with us, or that you grant permission to our products or services to access.
 
 
 
-**Sharing personal information**
+_How We Use Your Personal Information_
 
-We may share certain personal information within the Western Digital family of companies.
+Generally speaking, we use personal information to provide, improve, and develop our products and services, to communicate with you, to offer you targeted advertisements and services, and to protect us and our users.
 
-We may also share personal information with our authorized third parties (such as our vendors) who help with our business operations, including the storage and processing of personal data for the uses listed in this privacy statement.
+Western Digital Technologies, Inc. collects, processes, and determines how to process your personal information as data controller for the following purposes:
 
-We only knowingly share personal information with non-affiliated third parties (i.e., parties other than our affiliated Western Digital companies) for their own direct marketing purposes if you specifically opt-in, or are offered the opportunity to opt-out and elect not to opt-out, to such sharing at the time you provide personal information or choose to participate in an applicable feature on the SanDisk Services. For instance, if personal information is collected with your consent as part of a promotional event, we may share that information with our promotion partner(s). Further, where required by applicable law to provide disclosure and/or obtain consent in order to share your personal information with third parties for their direct marketing, we will provide you with notice, choice or other rights required under applicable law. California residents should see our statement on “ _Your California Privacy Rights_.”[2]
-
-We may disclose your personal information to comply with applicable laws, legal processes, government or quasi-governmental requests, to exercise our legal rights or defend against legal claims. We may disclose personal information and other information available to us when we believe, in our sole discretion, disclosure is necessary or appropriate in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to us or the rights, property or physical safety of any person, violations of our terms of use or other agreements, or as otherwise required or permitted by law.
-
-If Western Digital Corporation or any of its affiliates were to undergo a re-organization, merger or sale of all or a part of our, its or their assets, we may transfer personal and non-personal information as part of the transaction.
-
-Please remember that any information you choose to disclose in public areas of the SanDisk Services (such as within community forums through a chat feature or published in a product review) may become public information. You should exercise caution when disclosing information in such public areas and refrain from disclosing personal information.
-
-As permitted by applicable law, we may disclose and share non-personal information without restriction. For instance, we may share aggregated and non-personally identifiable information with our commercial customers or vendors for the purposes of improving their products or services.
-
-**How to access and update your personal information**
-
-We will take reasonable steps to ensure that any personal information is accurate, complete and up to date. You have the right under applicable data protection laws to access the personal information that we keep for you, on request, except in certain limited circumstances (for example, where an applicable law requires us to deny such access). You can use the links immediately below or contact us by email or mail (see the “Contact us” section at the end of this privacy statement for details) to request access to your personal information.
-
-  * UNSUBSCRIBE: To unsubscribe from SanDisk-branded promotional communications, you may follow the unsubscribe link or instructions in the communication.
-  * “MY SANDISK” PRODUCT REGISTRATION: To update or change contact information you provided in connection with product registration or customer support through the My SanDisk feature, you can click [here](http://kb.sandisk.com/app/home "SanDisk Support"). If this feature is not available in your country, the link may not be active. Products purchased through our ecommerce vendor will be automatically registered with our Customer Support team.
-  * ECOMMERCE: If available in your region, the SanDisk Store is operated by our ecommerce vendor. To update or change information you provided when purchasing SanDisk products online through the SanDisk Store, you can contact our ecommerce vendor [here](http://info.digitalriver.com/Contact-Us.html). If this feature is not available in your country, the link may not be active. Please note, SanDisk may obtain your personal information for transactional purposes and product registration.
-  * OTHER INQUIRIES: If these links do not address your access needs, you can communicate with us via the [Contact us](https://www.sandisk.com/about/legal/privacy#13) __section below.
+  * **Providing, improving, and developing our products and services** : We use personal information to help us provide, improve, and develop our products, services, and advertising. This includes using personal information for purposes such as data analysis, research, and audits. Such processing is based on our legitimate interest in offering you products and services and for business continuity. If you enter a sweepstakes, contest, or other promotion, we may use the personal information you provide to administer those programs. Some of these activities have additional rules, which may contain further information about how we use personal information, so we encourage you to read those rules carefully before participating.
+  * **Communicating with you** : Subject to your prior express consent, we may use personal information to send you marketing communications in relation to Western Digital’s own products and services; communicate with you about your account, transactions, or employment requests; and inform you about our policies and terms. Also subject to your prior express consent, we may share your personal information with third-party partners who may send you marketing communications in relation to their products and services. If you no longer wish to receive email communications for marketing purposes, please [Contact Us](mailto:Privacy@wdc.com) to opt out. We may use your information to process and respond to your requests when you contact us.
+  * **Offering and measuring targeted advertisements and services** : Subject to your prior express consent, we may use personal information to personalize your experience with our products and services, on third-party websites and applications, and to determine the effectiveness of our promotional campaigns.
 
 
 
-**Security of personal information**
+For any of the uses of your data described above that require your prior express consent, note that you may withdraw your consent by [Contact Us](mailto:Privacy@wdc.com).
 
-We appreciate your trust in sharing your personal information with us, and we are committed to taking reasonable measures to protect it. We utilize a combination of industry-standard security technologies, procedures and organizational measures to help protect your personal information from unauthorized access, use or disclosure.
+  * **Promoting safety and security** : We use personal information to help verify accounts and user activity, as well as to promote safety and security, such as by monitoring fraud and investigating suspicious or potentially illegal activity or violations of our terms or policies. Such processing is based on our legitimate interest in helping ensure the safety of our products and services.
 
-By way of example, access to your personal information is restricted to employees, contractors and agents of Western Digital Corporation or its affiliates who need to access such data to perform their assigned job duties. We may also store your personal information on limited-access computer systems which are located in controlled facilities.
 
-Despite our efforts to protect your personal information, there is an inherent risk of encountering an unexpected security breach in any modern day computing environment. In the event of a security breach, if our investigations indicate that there could be significant harm to you as a result of such unauthorized access or disclosure of your personal information, we will promptly notify you and the proper authorities if required by law. We also encourage you to take precautions to protect your personal information when you are online. Create strong passwords by using a combination of letters and numbers, change passwords often, and use a secure browser.
 
-**Data retention**
+As a global company, Western Digital Corporation has a number of corporate affiliates in different jurisdictions. Each of these affiliates collects, processes and determines how to process your personal information as a data controller to help provide you the products and services you request.
 
-We will not retain your personal information longer than is necessary to honor your choices, fulfill the purposes for which it was collected, or as required by law.
+### Cookies and Similar Technologies
 
-**Third-Party Services**
+We use cookies and similar technologies to provide, protect, and improve our products and services, such as by personalizing content, offering and measuring advertisements, understanding user behavior, and providing a safer experience.
 
-We may link to, or otherwise make available via the SanDisk Services, Third-Party Services such as Facebook, LinkedIn, Twitter, and YouTube, which are outside of our control and are not covered by our statements in this privacy statement. We are not responsible for the privacy practices or the content of such Third-Party Services, including without limitation social media platforms and their plug-ins that may be on SanDisk Services. If you have questions about how these third parties collect, use and share your information, you should review their policies or contact them directly. By allowing a link to a Third-Party Service, or otherwise allowing association with a SanDisk Service, we are not in any way endorsing, promoting or representing the quality of that service or taking responsibility for its practices.
+You can remove or reject cookies using your browser or device settings, but in some cases doing so may affect your ability to use our products and services.
 
-**Children and privacy**
+Please read our [Cookie Statement](https://web.archive.org/about/legal/cookies.html) to learn more about how we use cookies and the choices you have.
 
-The SanDisk Services are not directed to minors and are intended for a general audience comprised of adults. If you are a minor in your country of residence, you may use SanDisk Services only with the involvement of your parent or guardian. We do not knowingly collect personal information from children under the age of 13. If we learn that we have inadvertently collected personal information from a child under the age of 13, we will delete the information to the extent required by applicable law.
+### Disclosure of Personal Information
 
-Any California residents under the age of 18 who have registered to use a SanDisk Service and who publicly posts content or information on a SanDisk Service can request that such information be removed from public display by contacting us at the e-mail or mailing address in the “Contact us” section of this privacy statement, detailing where the content or information is posted and attesting that you posted it. We will then make reasonable good faith efforts to remove the post from prospective public view, or anonymize it so the minor cannot be individually identified, to the extent required by applicable law. This process cannot ensure complete or comprehensive removal. For instance, third-parties may have republished or archived content by search engines and others that we do not control.
+We make certain personal information available to strategic partners that work with us to provide our products and services or help us market to customers. Personal information will only be shared by us with these companies in order to provide or improve our products, services, and advertising; it will not be shared with third parties for their own marketing purposes without your prior express consent.
 
-**Information for individuals outside the United States**
+_Service Providers_
 
-If you are using the SanDisk Services from outside the United States, please be aware that personal information collected about you may be transferred to us and our affiliates or authorized third parties acting on our behalf worldwide, for purposes described in this privacy statement. These transfers are carried out using approved data transfer mechanisms in accordance with applicable law, where required.
+We share personal information with companies that provide services on our behalf, such as website hosting; email services; marketing; sponsoring of sweepstakes, contests, and other promotions; auditing; payment processing; fulfilling customer orders; data analytics; providing customer support; conducting customer research and satisfaction surveys; and other services that assist in selling our products and services. These companies are obligated to protect your information and may be located wherever we operate.
 
-Please note that the data protection laws and regulations applicable to your personal information transferred to other countries may be different from the laws in your country of residence. By using the SanDisk Services, you acknowledge and consent to the transfer and processing of your personal information outside your country of residence.
+_Corporate Affiliates and Corporate Business Transactions_
 
-**Contact us**
+We may share personal information with all Western Digital Corporation-affiliated companies. In the event of a merger, reorganization, acquisition, joint venture, assignment, spin-off, transfer, or sale or disposition of all or any portion of our business, including in connection with any bankruptcy or similar proceedings, we may transfer any and all personal information to the relevant third party.
 
-If you have comments or questions, you can email us or send us mail at the address below. Please include your contact information and a detailed description of your request or privacy concern.
+_Legal Compliance and Security_
 
-SanDisk, a Western Digital brand  
-Attention: Privacy Officer  
-951 SanDisk Drive  
-Milpitas, CA 95035 USA
+It may be necessary—by law or as a result of legal process, litigation, or requests from public or governmental authorities within or outside your country of residence—for us to disclose personal information. We may also disclose personal information if we determine that for purposes of national security, law enforcement, or other issues of public importance, disclosure is necessary or appropriate.
 
-[privacy@sandisk.com](mailto:privacy@sandisk.com)
+We may also disclose personal information if we determine in good faith that disclosure is reasonably necessary to protect our rights and pursue available remedies, enforce our terms and conditions, investigate fraud, or protect our operations or users.
 
-  
-Western Digital Technologies, Inc. is the seller of record and licensee in the Americas of SanDisk products and the operator of the SanDisk Services.
+### Your Rights
 
-**Your California Privacy Rights**
+We take reasonable steps to ensure that your personal information is accurate, complete, and up-to-date. Depending on where you live, you may have the rights described below.
 
-We only knowingly shares personal information (as defined by California’s “Shine the Light” law) of California residents with non-affiliated third parties (i.e., parties other than Western Digital Corporation or its affiliates) for their own direct marketing purposes if you specifically opt-in, or are offered the opportunity to opt-out and elect not to opt-out, to such sharing at the time you provide such personal information or choose to participate in an applicable feature on the SanDisk Service. If you do not opt-in or if you opt-out at that time, we will not knowingly share such personal information of California residents that was collected in connection therewith with such identified non-affiliated third party(ies) for its/their own direct marketing purposes, but may continue to seek your consent to sharing with the same, or other, non-affiliated third parties for their own direct marketing purposes from time-to-time. Each consent notice and opportunity will be treated separately so it is possible that you may consent to some sharing but not to others.
+You have the right to access, correct, or delete the personal information that we collect. You are also entitled to object to or restrict, at any time, the further processing of your personal information. You have the right to receive your personal information in a structured and standard format. You may lodge a complaint with the competent data protection authority regarding the processing of your personal information.
 
-In addition, California residents may request information about our compliance with the Shine the Light law, by contacting us at the e-mail or postal address set forth in the “Contact us” section of this privacy statement. Requests must include “California Privacy Rights Request” in the first line of the request and include your name,
+To protect the privacy and the security of your personal information, we may request information from you to enable us to confirm your identity and right to access such information, as well as to search for and provide you with the personal information we maintain. There are instances where applicable laws or regulatory requirements allow or require us to refuse to provide or delete some or all of the personal information that we maintain. __
+
+You may [Contact Us](mailto:Privacy@wdc.com) to exercise your rights. We will respond to your request in a reasonable timeframe, and in any event in less than 30 days.
+
+_California Privacy Rights_
+
+If you are a California resident, California law permits you to request information regarding the disclosure of your personal information to third parties for the third parties’ direct marketing purposes. To make such a request, please [Contact Us](mailto:Privacy@wdc.com) and include “California Privacy Rights Request” in the first line of the request.
+
+### Closing Accounts
+
+Please [Contact Us](mailto:Privacy@wdc.com) to close your account in relation to the following uses of your personal information:
+
+  * providing, improving, and developing our products and services;
+  * communicating with you;
+  * sharing your personal information with third-party partners for marketing communications;
+  * offering and measuring targeted advertisements and services;
+  * promoting safety and security; or
+  * providing products and services (for such requests, Western Digital Technologies, Inc. will act on behalf of its local affiliates).
+
+
+
+If you close your account, we have no obligation to retain your information, and we may delete any or all of your information without liability. We may retain, however, information related to you if we believe it may be necessary to prevent fraud or future abuse, if required by law, or for legitimate purposes, such as analysis of non-personal information, account recovery, auditing our records, or enforcing our rights and obligations under our agreements.
+
+### Third-Party Websites and Services
+
+Our products and services, including our websites and digital media properties, may contain links to or the ability for you to access third-party websites, products, and services. We are not responsible for the privacy practices employed by those third parties, nor are we responsible for the information or content their products and services contain. This Privacy Statement applies solely to information collected by us. We encourage you to read the privacy policies of any third parties before proceeding to use their websites, products, or services.
+
+### Information Security, Integrity, and Retention
+
+It is important that you take precautions to protect against unauthorized access to your Western Digital products, account credentials, and computers or other devices. If you feel that the security of your account or personal information has been compromised, please immediately [Contact Us](mailto:Privacy@wdc.com). Please be aware that, despite our efforts, no security system is impenetrable. In the event of a security breach, we will promptly notify you and the proper authorities if required by law.
+
+We will retain your personal information for as long as it is necessary to fulfill the purposes outlined in this Privacy Statement, unless a longer retention period is required or permitted by law.
+
+### Children
+
+We do not knowingly collect, use, or disclose information from children under 16. If we learn that we have collected the personal information of a child under 16—or the equivalent minimum age depending on the jurisdiction, such as 13 in the United States—we will take steps to delete the information as soon as possible. Please immediately [Contact Us](mailto:Privacy@wdc.com) if you become aware that a child under 16 has provided us with personal information.
+
+If you are a California resident under the age of 18, and you are a registered user of our products or services, California law permits you to request and obtain removal of content or information you have publicly posted. To make such a request, please [Contact Us](mailto:Privacy@wdc.com) with specific information about where the content or information is posted and attesting that you posted it. We will then make reasonable, good faith efforts to remove the post from prospective public view, or anonymize it so you cannot be individually identified, to the extent required by applicable law. Please be aware that such a request does not ensure complete or comprehensive removal of the content or information you have posted and that there may be circumstances in which the law does not require or allow removal even if requested.
+
+### Information Transfers, Storage, and Processing Globally
+
+When we share your personal information with our partners, Western Digital-affiliated companies, and service providers, your personal information may be transferred to and/or made accessible from countries out of the European Economic Area. In such circumstances, we will enter into model contractual clauses as adopted by the European Commission, or rely on alternative legal bases such as the Privacy Shield, where applicable, or binding corporate rules where our partners or service providers have adopted such internal policies approved by European data protection authorities.
+
+### Changes to This Privacy Statement
+
+We may periodically change this Privacy Statement to keep pace with new technologies, industry practices, and regulatory requirements, among other reasons. We expect most such changes to be minor. Any non-material changes will take effect immediately upon posting of an updated Privacy Statement. There may, however, be cases where changes to the Privacy Statement may be more significant. In such cases, we will provide you either a prominent notice of such changes before they take effect or by directly sending you a notification.
+
+Your continued use of our products and services after the effective date of the Privacy Statement means that you accept the revised Privacy Statement. If you do not agree to the revised Privacy Statement, please refrain from using our products or services and [Contact Us](mailto:Privacy@wdc.com) to close any account you may have created.
+
+### Contact Us
+
+If you have any questions regarding this Privacy Statement or its implementation, you may e-mail our Data Protection Officer at [DPO@wdc.com](mailto:DPO@wdc.com). You also may write to us at:
+
+5601 Great Oaks Parkway  
+San Jose, California, USA 95119
