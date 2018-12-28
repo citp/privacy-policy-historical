@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the briantracy.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627235709id_/http%3A//briantracy.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the briantracy.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228065336id_/https%3A//www.briantracy.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Brian Tracy
 
@@ -130,11 +130,11 @@ If you choose to visit Brian Tracy International, your visit and any dispute ove
 
 ## Change of Privacy Policy
 
-From time to time, it may be necessary to change this privacy policy, for example as a result of the further development of our website or legal changes. Brian Tracy International therefore reserves the right to change the privacy policy at any time with effect for the future. We therefore recommend that you read this privacy policy again at regular intervals. 
+From time to time, it may be necessary to change this privacy policy, for example as a result of the further development of our website or legal changes. Brian Tracy International therefore reserves the right to change the privacy policy at any time with effect for the future. Subscribers will be notified of any and all updates at the time they take place.
 
 **Brian Tracy International**  
 Phone: 1-858-436-7300  
 Fax: 1-858-436-7301  
 Email: [support@briantracy.com](mailto:support@briantracy.com)  
 2840 Fifth Ave., Suite 400, San Diego, CA 92103  
-Website: [www.briantracy.com](https://web.archive.org/web/20180627235709id_/http%3A//briantracy.com/www.briantracy.com)
+Website: [www.briantracy.com](https://web.archive.org/)
