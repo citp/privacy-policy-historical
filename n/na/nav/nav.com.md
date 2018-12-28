@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nav.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628102433id_/https%3A//www.nav.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nav.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228162330id_/https%3A//www.nav.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Nav
 
 * * *
 
-_Last Revised: June 18, 2018_
+_Last Revised: July 5, 2018_
 
 Nav Technologies, Inc., (“we” or “us”) wants you to be familiar with what information we collect about you, how the information is being used and what choices you have regarding the collection and use of the information. This Privacy Policy (the “Policy”) describes our practices in connection with information that we collect through our websites (collectively, the “Site”). Please take a moment to review this Policy and feel free to contact us with any questions at 855-226-8388.
 
@@ -23,6 +23,8 @@ Personal information. We may collect the following types of personal information
   * Information you provide us through customer service correspondence and general feedback.
 
 
+
+Without your permission, we do not allow third parties to collect personally identifiable information (PII) about a user’s online activities, over time and across different sites, services, and applications, when that user uses our site, service, or application. PII that you have given permission to be collected may be retrieved, reviewed, and deleted at your request, by contacting Nav.
 
 Non-Personal information. When you visit the Site, we may collect non-personal information, such as a catalog of the Site pages you visit. Non-personal information is generally collected through the Site from the following sources: server log files, environmental variables, cookies, pixel tags and other similar technologies and information that you voluntarily provide.
 
