@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viesearch.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628090217id_/https%3A//viesearch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viesearch.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228134736id_/https%3A//viesearch.com/privacy) for the most accurate reproduction.*
 
 # Viesearch Privacy Policy
 
@@ -16,25 +16,23 @@ Anyone found to be using Viesearch in violation of this privacy policy or our [t
 
 ## Information we collect
 
-· When you perform a search using Viesearch, we anonymously store only the keyword and time of your request. No personal information is attached to these two pieces of data.
+· When you perform a search using Viesearch, we anonymously store only the keyword and time of your request. No personal identifiable information is attached to these two pieces of data.
 
-· When you submit a website for inclusion in our search engine, you give us certain information voluntarily. This may include the title, description, and URL. Additionally, if your submission is approved, we may visit and attempt to categorize your website appropriately. We may also create a thumbnail preview image by creating a screenshot of your website as it appears at the moment of approval.
+· When you submit a website for inclusion in our search engine, you give us certain information voluntarily. This may include the title, description, and URL. Additionally, if your submission is approved, we may visit and attempt to categorize your website appropriately. We may also create a thumbnail preview image by creating a screenshot of your website as it appears at the moment of approval. If you do not provide a custom Title and Description for a URL you submit, we may gather the html title and meta description tags. We may also gather your meta keywords to help categorize your listing appropriately.
 
-· When you register an account, you give us certain information voluntarily. This may include your username, name, email, a password of your choice, and a URL of a graphic avatar of your choice.
+· When you register an account, you give us certain information voluntarily. This may include your username, name, email, a password of your choice, and a URL of a graphic avatar of your choice. We encrypt your password.
 
-· Our traffic log system uses details your browser or mobile app automatically provides when you visit any website. This technical data includes your IP address (Internet Protocol), the date and time of your request, and the referring URL you visited prior to requesting a page within Viesearch.
-
-· Viesearch does not use cookies at this time, however, some third party services may. Please refer to their policies in regards to their use of your data.
+· When you visit Viesearch, we anonymously store your session id, the URL you request, and the date and time you request it in our traffic logs. If the URL you request contains a search term or keyword, it is removed from the URL before it enters the log system. No personal identifiable information is attached to these three pieces of data.
 
 ## What we do with information we collect
 
-We use this information and monitor our logs in order to optimize our search engine results and services. We are eager to provide the most streamlined and relevant family friendly search engine on the internet. Our team may make needed changes to our system to better suit your browsing. This data also helps us to assist you should you have any questions, comments, or concerns.
+· We use search keyword data to publicly and anonymously show popular and trending searches made using Viesearch.
 
-Once you become a member you are given the choice to subscribe to various newsletters and alerts. These mailings and alerts can be turned on or off in your Viesearch account at anytime. Every email we send contains an unsubscribe link at the bottom. The unsubscribe link instantly removes you from any and ALL mailings.
+· We use website submission data to create a separate listing for every URL added to our search engine. This information is also then made available in our search results after manual review.
 
-· We encrypt your password.
+· Once you become a member you are given the choice to subscribe to various newsletters and alerts. These mailings and alerts can be turned on or off in your Viesearch account at anytime. Every email we send contains an unsubscribe link at the bottom. The unsubscribe link instantly removes you from any and ALL mailings.
 
-· All information will not be sold, reused, rented, loaned, or otherwise disclosed.
+· We have legitimate interest in using our traffic log data to help protect our search engine service from abusive automated traffic. During times of high network load, or repeated loading of a specific URL, in order to maintain our service, we may automatically rate limit visitors and/or crawlers and/or bots using this data.
 
 ## How long we keep your information
 
