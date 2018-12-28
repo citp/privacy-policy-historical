@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the generalassemb.ly privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628060958id_/https%3A//generalassemb.ly/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the generalassemb.ly privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228122406id_/https%3A//generalassemb.ly/privacy_policy) for the most accurate reproduction.*
 
 # Privacy and Cookies Policy | General Assembly
 
 **PRIVACY AND COOKIES POLICY**
 
-Effective Date: December 15, 2013 
+Effective Date: December 15, 2013
 
-Last Updated: May 22, 2018
+Last Updated: May 22, 2018
 
 **TABLE OF CONTENTS**
 
   * INTRODUCTION
   * PURPOSE OF THIS PRIVACY POLICY
   * APPLICATION OF THIS PRIVACY POLICY
-  * THE CATEGORIES OF PERSONAL INFORMATION GENERAL ASSEMBLY COLLECTS 
+  * CATEGORIES OF PERSONAL INFORMATION GENERAL ASSEMBLY COLLECTS
   * AGGREGATED AND ANONYMIZED, NON-IDENTIFIABLE DATA
   * FAILURE TO PROVIDE REQUIRED PERSONAL INFORMATION
   * HOW GENERAL ASSEMBLY COLLECTS YOUR INFORMATION
@@ -43,7 +43,7 @@ This privacy policy (“ **Privacy Policy** ") is incorporated by reference into
 
 **PURPOSE OF THIS PRIVACY POLICY**
 
-This Privacy Policy explains how General Assembly may collect and use the personally identifiable information or personal data (" **Personal Information** ") that we obtain through your use of the General Assembly website accessible at [www.generalassemb.ly](https://generalassemb.ly/) (the “ **Site** ”) and General Assembly’s online and offline products, including the cloud-based MyGA assessment and learning platform also accessible through the Site (the “ **Platform** ”) and our class-based instructional products that are delivered through a variety of modalities, both in-person and online (together, the “ **Services** ”), and makes you aware of how and why your Personal Information will be used and the rights you have to access and control the use of your Personal Information.
+This Privacy Policy explains how General Assembly may collect and use the personally identifiable information or personal data (" **Personal Information** ") that we obtain through your use of the General Assembly website accessible at [www.generalassemb.ly](https://generalassemb.ly/) (the “ **Site** ”) and General Assembly’s online and offline products, including the cloud-based myGA assessment and learning platform also accessible through the Site (the “ **Platform** ”) and our class-based instructional products that are delivered through a variety of modalities, both in person and online (together, the “ **Services** ”), and makes you aware of how and why your Personal Information will be used and the rights you have to access and control the use of your Personal Information.
 
 **APPLICATION OF THIS PRIVACY POLICY**
 
@@ -55,17 +55,15 @@ For users based in the EU and the UK, we are required to describe our role and o
 
 
   * If you access and use the Platform or any of the other Services in connection with an Enterprise Agreement entered into between your employer or prospective employer and General Assembly, and in accordance with that agreement, your employer or prospective employer remains data controller for certain Personal Information you may be required to disclose in connection with your use of the Platform or other Services, the terms of that Enterprise Agreement shall apply with respect to the processing of the Personal Information set forth therein.  In these instances, we act as a “data processor” under EU privacy law, meaning that we process your Personal Information to provide a service to your employer and do so at their direction.  If you have any questions about specific privacy practices in connection with your use of the Platform or other Services through your employer or prospective employer, please contact your employer or prospective employer.
-
-
   * If you access and use the Platform or other Services in connection with an Enterprise Agreement entered into between your employer or prospective employer and General Assembly, or any parent, subsidiary or affiliate thereof, and in accordance with that agreement, your employer or prospective employer is not designated as the data controller with respect to any of your Personal Information, then General Assembly will be the data controller.
 
 
 
 By using the Site or the Services, you are authorizing us to gather and retain data related to the provision of the Site and Services in accordance with this Privacy Policy, and (for non-EU residents) you agree that any dispute over privacy or the terms contained in this Privacy Policy will be governed by the law of the state of New York and the adjudication of any disputes arising in connection with General Assembly or the Site or Service will be in accordance with the [Terms of Service](https://generalassemb.ly/terms_of_service).
 
-**THE CATEGORIES OF PERSONAL INFORMATION GENERAL ASSEMBLY COLLECTS**
+**CATEGORIES OF PERSONAL INFORMATION GENERAL ASSEMBLY COLLECTS**
 
-Personal Information includes any information about an individual from which that individual can be identified.  It does not include data where the identity has been removed (i.e., anonymized or aggregated data).
+Personal Information includes any information about an individual from which that individual can be identified.  It does not include data where the identity has been removed (e.g., anonymized or aggregated data).
 
 The categories of Personal Information about you that we may collect, use, store and transfer include the following, some of which constitute Personal Information only when combined with personal identifiers:
 
@@ -75,11 +73,11 @@ The categories of Personal Information about you that we may collect, use, store
 
 **Technical Data:** Includes internet protocol (IP) address, your log in data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access our Site and Services.
 
-**Usage Data:** Includes information about how you use the Site and Services. 
+**Usage Data:** Includes information about how you use the Site and Services.
 
 **Transaction Data:** Includes details of the Services for which you have previously registered and/or in which you have been enrolled.
 
-**Financial Data:** In limited circumstances, we may collect payment information for processing of payments, but this information generally is collected and processed directly by our payment services providers. 
+**Financial Data:** In limited circumstances, we may collect payment information for processing of payments, but this information generally is collected and processed directly by our payment services providers.
 
 **Assessment Data:** Information on your aptitude in certain technology-based subject areas and your performance on General Assembly’s capabilities and learning needs assessments.
 
@@ -123,22 +121,22 @@ As you interact with our Site and/or Services, we also collect technical data su
 
 When you visit the Site or use the Services, we and our third-party service providers, which may include third-party analytics service providers and third-party advertisers, may use cookies, server logs and other similar technology to collect and store your preferences, usage statistics, website traffic and performance data, as well as other information such as your IP address, the type of Internet browser or device you use, any website you have come to the Site or Services from and your operating system. We may also receive Personal Information about you from various third parties and public sources.
 
-Cookies are small text files that include a unique reference code placed on a visitors' device to store their preferences and sometimes track information. A number of cookies we use last only for the duration of your web session and expire when you close your browser. Other cookies are used to remember you when you return to our Site or Services and will last for longer. Some cookies are necessary to enable you to move around the Site and use the Services such as accessing the secure areas of the Site, and they enable us to provide you with the Services you have requested. “Performance cookies” collect aggregated, anonymous, statistical information on how visitors use our Site and Services. We use this information to make improvements to the Site and our Services and to enhance your overall experience. Other cookies, called “functionality cookies,” allow the Site and Services to remember choices you make such as your user name when you login to your account or the language or region you are in. They may also be used to help you watch a video or comment on a blog and are intended to improve your online experience.
+Cookies are small text files that include a unique reference code placed on a visitors' device to store their preferences and sometimes track information. A number of cookies we use last only for the duration of your web session and expire when you close your browser. Other cookies are used to remember you when you return to our Site or Services and will last for longer. Some cookies are necessary to enable you to move around the Site and use the Services such as accessing the secure areas of the Site, and they enable us to provide you with the Services you have requested. “Performance cookies” collect aggregated, anonymous, statistical information on how visitors use our Site and Services. We use this information to make improvements to the Site and our Services and to enhance your overall experience. Other cookies, called “functionality cookies,” allow the Site and Services to remember choices you make such as your user name when you log in to your account or the language or region you are in. They may also be used to help you watch a video or comment on a blog and are intended to improve your online experience.
 
-We and our third-party vendors, including Google, use first-party cookies and third-party cookies to gather information about the pages visited through our advertising partners, both on our Site as well as other websites that you visit, so as to place you in a "market segment." This information is then used by us and our third-party vendors to serve interest-based advertisements when you visit our Site and other websites and our third party vendors will combine it with other information from your visits to other websites and apps to learn more about your interests. For more information about this type of interest based advertising, and about how to opt-out of the automated collection of information by third-party ad networks, please visit the consumer opt-out page for the Self-Regulatory Principles for Online Behavioral Advertising at http://www.aboutads.info/choices/. Without these cookies, advertisements you encounter will be less relevant to you and to your interests.
+We and our third-party vendors, including Google, use first-party cookies and third-party cookies to gather information about the pages visited through our advertising partners, both on our Site as well as other websites that you visit, so as to place you in a "market segment." This information is then used by us and our third-party vendors to serve interest-based advertisements when you visit our Site and other websites and our third party vendors will combine it with other information from your visits to other websites and apps to learn more about your interests. For more information about this type of interest based advertising, and about how to opt-out of the automated collection of information by third-party ad networks, please visit the consumer opt-out page for the Self-Regulatory Principles for Online Behavioral Advertising at <http://www.aboutads.info/choices/>. Without these cookies, advertisements you encounter will be less relevant to you and to your interests.
 
-We also use Google Analytics Advertising Features including Google Analytics Remarketing to advertise across websites, Demographics and Interest Reporting and AdWords and AdSense integrations to collect data about our Site traffic via advertising cookies and anonymous identifiers. We do not facilitate the merging of personal information with non-personally identifiable information previously collected through any Google advertising product. Google may serve ads across other websites that you visit based upon your past visits to our Site, and may also serve our advertisements on other websites. Site visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the Ad Settings found at https://www.google.com/settings/u/0/ads?hl=en. You can also opt-out of Google Analytics tracking with the Google Analytics opt-out browser add-on found at <https://tools.google.com/dlpage/gaoptout/>.
+We also use Google Analytics Advertising Features including Google Analytics Remarketing to advertise across websites, Demographics and Interest Reporting and AdWords and AdSense integrations to collect data about our Site traffic via advertising cookies and anonymous identifiers. We do not facilitate the merging of personal information with non-personally identifiable information previously collected through any Google advertising product. Google may serve ads across other websites that you visit based upon your past visits to our Site, and may also serve our advertisements on other websites. Site visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the Ad Settings found at <https://www.google.com/settings/u/0/ads?hl=en>. You can also opt-out of Google Analytics tracking with the Google Analytics opt-out browser add-on found at <https://tools.google.com/dlpage/gaoptout/>.
 
 In addition to cookies, we use the following similar technologies:
 
-  * Pixel Gifs/web beacons: These are small image files that may be placed by us or third parties on the Site or Services, or within the body of our newsletters so we or third parties can understand which parts of the Site and Services are visited or whether particular content is of interest.
-  * Flash cookies: We do not serve Flash cookies but Adobe Flash Player may be used by third parties serving advertisements to the Site in cases where these advertisements are served with flash related content. It is not possible to block or restrict or block flash cookies using your browser setting, however information on how to do this is available from the Adobe website at: <http://www.adobe.com/products/flashplayer/security>.
+  * **Pixel Gifs/web beacons:** These are small image files that may be placed by us or third parties on the Site or Services, or within the body of our newsletters so we or third parties can understand which parts of the Site and Services are visited or whether particular content is of interest.
+  * **Flash cookies:** We do not serve Flash cookies but Adobe Flash Player may be used by third parties serving advertisements to the Site in cases where these advertisements are served with flash related content. It is not possible to block or restrict or block flash cookies using your browser setting, however information on how to do this is available from the Adobe website at: <http://www.adobe.com/products/flashplayer/security>.
 
 
 
 **Disabling Cookies**
 
-Most computer and some mobile web browsers automatically accept cookies but, if you prefer, you can use your browser to notify you each time a cookie is set or to block and delete cookies from your browser. The effect of disabling cookies depends on which cookies you disable but, please note that if you do that, the Site and Services may not work properly and you may not be able to take full advantage of the Site or our Services.  You can learn more about cookies by visiting www.allaboutcookies.org which includes additional useful information on cookies and how to block cookies using different types of browsers.
+Most computer and some mobile web browsers automatically accept cookies but, if you prefer, you can use your browser to notify you each time a cookie is set or to block and delete cookies from your browser. The effect of disabling cookies depends on which cookies you disable but, please note that if you do that, the Site and Services may not work properly and you may not be able to take full advantage of the Site or our Services.  You can learn more about cookies by visiting [www.allaboutcookies.org](https://web.archive.org/web/20181228122406id_/https%3A//generalassemb.ly/www.allaboutcookies.org) which includes additional useful information on cookies and how to block cookies using different types of browsers.
 
 Details on how to review your cookie settings and disable cookies on the most popular browsers are set forth below:
 
@@ -195,7 +193,7 @@ Please note that we may process your Personal Information for more than one lawf
   
 ---|---|---  
   
-To identify you and your account and to enable you to register to use the Services
+To identify you and your account and to enable you to register to use the Services.
 
 | 
 
@@ -205,9 +203,9 @@ To identify you and your account and to enable you to register to use the Servic
 
 | 
 
-Necessary (i) to allow you to access the Services, (ii) for the performance of a contract with you and (ii) for our legitimate business interest in being able to provide the Services to you  
+Necessary (i) to allow you to access the Services, (ii) for the performance of a contract with you and (ii) for our legitimate business interest in being able to provide the Services to you.  
   
-To manage and process payments, fees and charges for the Services
+To manage and process payments, fees and charges for the Services.
 
 | 
 
@@ -217,9 +215,9 @@ To manage and process payments, fees and charges for the Services
 
 | 
 
-Necessary for our legitimate business interest to obtain a payment due to us for Services  
+Necessary for our legitimate business interest to obtain a payment due to us for Services.  
   
-To facilitate and deliver the Services
+To facilitate and deliver the Services.
 
 | 
 
@@ -229,7 +227,7 @@ To facilitate and deliver the Services
 
 | 
 
-Necessary (i) to provide the Services to you, (ii) for the performance of a contract with you and (ii) for our legitimate business interest in being able to provide the Services to you  
+Necessary (i) to provide the Services to you, (ii) for the performance of a contract with you and (ii) for our legitimate business interest in being able to provide the Services to you.  
   
 To manage our relationship with you, including:
 
@@ -242,9 +240,9 @@ To manage our relationship with you, including:
 
 | 
 
-Necessary (i) for the performance of a contract with you, (ii) for our legitimate business interest in being able to provide the Services to you, and (iii) to provide an excellent customer experience to you during the course of the Services  
+Necessary (i) for the performance of a contract with you, (ii) for our legitimate business interest in being able to provide the Services to you, and (iii) to provide an excellent customer experience to you during the course of the Services.  
   
-  1. Notifying you about any changes to our Services, timetables for the Services, requirements for the Services, and any technical requirements
+Notifying you about any changes to our Services, timetables for the Services, requirements for the Services, and any technical requirements.
 
 | 
 
@@ -254,9 +252,9 @@ Necessary (i) for the performance of a contract with you, (ii) for our legitimat
 
 | 
 
-Necessary (i) for the performance of a contract with you, (ii) for our legitimate business interest in being able to provide the Services to you, and (iii) to provide an excellent customer experience to you during the course of the Services  
+Necessary (i) for the performance of a contract with you, (ii) for our legitimate business interest in being able to provide the Services to you, and (iii) to provide an excellent customer experience to you during the course of the Services.  
   
-  2. Providing you with feedback on your participation and performance in the Services
+Providing you with feedback on your participation and performance in the Services.
 
 | 
 
@@ -268,9 +266,9 @@ Necessary (i) for the performance of a contract with you, (ii) for our legitimat
 
 | 
 
-Necessary (i) for the performance of a contract with you, (ii) for our legitimate business interest in being able to provide the Services to you, and (iii) to provide an excellent customer experience to you during the course of the Services  
+Necessary (i) for the performance of a contract with you, (ii) for our legitimate business interest in being able to provide the Services to you, and (iii) to provide an excellent customer experience to you during the course of the Services.  
   
-  3. Reviewing and scoring your Assessments and course work and certifying your completion of the relevant Services
+Reviewing and scoring your Assessments and coursework and certifying your completion of the relevant Services.
 
 | 
 
@@ -280,9 +278,9 @@ Necessary (i) for the performance of a contract with you, (ii) for our legitimat
 
 | 
 
-Necessary (i) for the performance of a contract with you, (ii) for our legitimate business interest in being able to provide the Services to you, and (iii) to provide an excellent customer experience to you during the course of the Services  
+Necessary (i) for the performance of a contract with you, (ii) for our legitimate business interest in being able to provide the Services to you, and (iii) to provide an excellent customer experience to you during the course of the Services.  
   
-  4. Notifying you of any changes to this or any other policy
+Notifying you of any changes to this or any other policy.
 
 | 
 
@@ -291,9 +289,9 @@ Necessary (i) for the performance of a contract with you, (ii) for our legitimat
 
 | 
 
-Necessary for our compliance with our legal obligations under applicable data privacy laws  
+Necessary for our compliance with our legal obligations under applicable data privacy laws.  
   
-  5. Asking you to complete a review or take a survey 
+Asking you to complete a review or take a survey.
 
 | 
 
@@ -303,9 +301,9 @@ Necessary for our compliance with our legal obligations under applicable data pr
 
 | 
 
-Necessary for our legitimate business interests (i) in keeping our records updated, (ii) understanding how customers use and rate our Services, (iii) providing you an excellent customer experience during the course of the Services, and (iv) ensuring we constantly improve our Services to meet the needs and demands of our clients and students  
+Necessary for our legitimate business interests (i) in keeping our records updated, (ii) understanding how customers use and rate our Services, (iii) providing you an excellent customer experience during the course of the Services, and (iv) ensuring we constantly improve our Services to meet the needs and demands of our clients and students.  
   
-To provide our Site and its content to you and to enhance users’ experience
+To provide our Site and its content to you and to enhance users’ experience.
 
 | 
 
@@ -316,9 +314,9 @@ To provide our Site and its content to you and to enhance users’ experience
 
 | 
 
-Necessary for our legitimate business interest in being able to provide the Site and Services to you and to improve the Site and Services to best meet your needs and use  
+Necessary for our legitimate business interest in being able to provide the Site and Services to you and to improve the Site and Services to best meet your needs and use.  
   
-To improve the functionality of the Site or Services and to provide related customer service
+To improve the functionality of the Site or Services and to provide related customer service.
 
 | 
 
@@ -330,9 +328,9 @@ To improve the functionality of the Site or Services and to provide related cust
 
 | 
 
-Necessary (i) for the performance of a contract with you and (ii) for our legitimate business interests in (a) being able to provide the Services to you, (b) providing administration and IT services and network security in connection with the services, (c) providing you an excellent customer experience during the course of the Services, and (d) ensuring we constantly improve our Services to meet the needs and demands of our clients and students  
+Necessary (i) for the performance of a contract with you and (ii) for our legitimate business interests in (a) being able to provide the Services to you, (b) providing administration and IT services and network security in connection with the services, (c) providing you an excellent customer experience during the course of the Services, and (d) ensuring we constantly improve our Services to meet the needs and demands of our clients and students.  
   
-To administer and protect the Site and Services (including troubleshooting, data analysis, testing, system review)
+To administer and protect the Site and Services (including troubleshooting, data analysis, testing, system review).
 
 | 
 
@@ -344,24 +342,9 @@ To administer and protect the Site and Services (including troubleshooting, data
 
 | 
 
-Necessary (i) for the performance of a contract with you and (ii) for our legitimate business interests in (a) being able to provide the Services to you, (b) providing administration and IT services and network security in connection with the services, (c) providing you an excellent customer experience during the course of the Services, and (d) ensuring we constantly improve our Services to meet the needs and demands of our clients and students  
+Necessary (i) for the performance of a contract with you and (ii) for our legitimate business interests in (a) being able to provide the Services to you, (b) providing administration and IT services and network security in connection with the services, (c) providing you an excellent customer experience during the course of the Services, and (d) ensuring we constantly improve our Services to meet the needs and demands of our clients and students.  
   
-To respond to your communications and to send you information that you request or agree to receive, via regular or electronic mail, text message, or other marketing channels
-
-| 
-
-  * Identity Data
-  * Contact Data
-  * Technical Data
-  * Usage Data
-  * Profile Data
-  * Marketing and Communications Data
-
-| 
-
-Necessary (i) for the performance of a contract with you and (ii) for our legitimate business interests in for our legitimate business interests in continuing to develop and offer new and improved Services to you and in continuing to grow our business  
-  
-To make suggestions and recommendations to you about other courses and services that may be of interest to you
+To respond to your communications and to send you information that you request or agree to receive, via regular or electronic mail, text message, or other marketing channels.
 
 | 
 
@@ -374,23 +357,9 @@ To make suggestions and recommendations to you about other courses and services 
 
 | 
 
-Necessary for our legitimate business interests in continuing to develop and offer new and improved Services to you and in continuing to grow our business  
+Necessary (i) for the performance of a contract with you and (ii) for our legitimate business interests in continuing to develop and offer new and improved Services to you and in continuing to grow our business.  
   
-To allow you to partake in a competition or promotion
-
-| 
-
-  * Identity Data
-  * Contact Data
-  * Profile Data
-  * Usage Data
-  * Marketing and Communications Data
-
-| 
-
-Necessary for our legitimate business interest in encouraging users to visit the Site and use the Services and in the general promotion of our business  
-  
-To send you advertisements or other marketing materials via email, text message or other marketing channels about other programs, promotions or services (or those of our affiliates), including our newsletter, that we think may be of interest to you if you have requested or agreed to receive such information, or where we are otherwise permitted by local law to contact you for these purposes
+To make suggestions and recommendations to you about other courses and services that may be of interest to you.
 
 | 
 
@@ -403,7 +372,36 @@ To send you advertisements or other marketing materials via email, text message 
 
 | 
 
-Necessary for our legitimate business interests in continuing to develop and offer new and improved Services to you and in continuing to grow our business  
+Necessary for our legitimate business interests in continuing to develop and offer new and improved Services to you and in continuing to grow our business.  
+  
+To allow you to partake in a competition or promotion.
+
+| 
+
+  * Identity Data
+  * Contact Data
+  * Profile Data
+  * Usage Data
+  * Marketing and Communications Data
+
+| 
+
+Necessary for our legitimate business interest in encouraging users to visit the Site and use the Services and in the general promotion of our business.  
+  
+To send you advertisements or other marketing materials via email, text message or other marketing channels about other programs, promotions or services (or those of our affiliates), including our newsletter, that we think may be of interest to you if you have requested or agreed to receive such information, or where we are otherwise permitted by local law to contact you for these purposes.
+
+| 
+
+  * Identity Data
+  * Contact Data
+  * Technical Data
+  * Usage Data
+  * Profile Data
+  * Marketing and Communications Data
+
+| 
+
+Necessary for our legitimate business interests in continuing to develop and offer new and improved Services to you and in continuing to grow our business.  
   
 **CHANGE OF PURPOSE**
 
@@ -419,7 +417,7 @@ If you are located outside of the United States, please note that the Personal I
 
 If you do not want us to contact you with marketing communications or other information regarding our products and services (or if you agreed to be contacted for such purposes at the point Personal Information was collected by us but you no longer wish to be contacted or have your information used in such way), you can let us know by following the unsubscribe instructions on any communications sent to you. You can also unsubscribe at any time by contacting us at [hello@ga.co](mailto:hello@ga.co).
 
-Please note that if you have registered an account on the Site or Services or are registered for 
+Please note that if you have registered an account on the Site or Services or are registered for
 
 a Course, opting out of receiving marketing messages will not apply to Personal Information provided to us as a result of signing up to use our Site or Services, and we reserve the right to send you certain communications relating to your account, your registration, and your use of the Site and Services, such as messages relating to account management, customer service and system maintenance.  These transactional account messages will thus be unaffected if you choose to opt-out of marketing communications.
 
@@ -427,13 +425,13 @@ a Course, opting out of receiving marketing messages will not apply to Personal 
 
 We do not rent, sell or share Personal Information about you with third parties who are not our partners or affiliates for their own direct marketing purposes unless you have opted-in to such a disclosure or were offered the opportunity to opt-out of such a disclosure at the time you provided your Personal Information and elected not to opt-out.
 
-**“Do Not Track” Signals.** Some web browsers may transmit "do not track" signals to the websites and other online services with which the browser communicates. There is currently no standard that governs what, if anything, websites should do when they receive these signals.  Therfore, our Site, like many others, may not respond to “do not track” signals.
-
 In addition, California residents are entitled to know that third parties may collect Personal Information about your online activities over time and across different websites when you visit our Site. For additional information about this, please refer to the section entitled "Cookies, Automatic Data Collection and Related Technologies."
+
+**“Do Not Track” Signals:**  Some web browsers may transmit "do not track" signals to the websites and other online services with which the browser communicates. There is currently no standard that governs what, if anything, websites should do when they receive these signals.  Therfore, our Site, like many others, may not respond to “do not track” signals.
 
 **HOW GENERAL ASSEMBLY MAY SHARE YOUR INFORMATION**
 
-**Vendors and Third-Party Service Providers**.  We may share any information we receive, including your Personal Information, with vendors and third-party service providers, including Instructors, retained in connection with the provision of the Site or Services. This includes those providing website and data hosting services, such as Amazon Web Services and Heroku, fulfilment services, distributing any communications we send and supporting or updating marketing lists, such as Sailthru and Salesforce, facilitating feedback on our services and providing IT support services from time to time. These organizations (which may include third party suppliers, agents, sub-contractors and/or other companies in our group) will only use your information to the extent necessary to perform their support functions.  In addition, where necessary, we have entered into Data Processing Agreements with these third-party service providers. 
+**Vendors and Third-Party Service Providers**. We may share any information we receive, including your Personal Information, with vendors and third-party service providers, including Instructors, retained in connection with the provision of the Site or Services. This includes those providing website and data hosting services (e.g., Amazon Web Services and Heroku), distributing communications and supporting or updating marketing lists (e.g., Sailthru and Salesforce), facilitating feedback on our services (e.g., SurveyMonkey); and providing IT support services from time to time. These organizations (which may include third-party suppliers, agents, subcontractors, and/or other companies in our group) will only use your information to the extent necessary to perform their support functions. In addition, where necessary, we have entered into Data Processing Agreements with these third-party service providers. 
 
 **Payment Transactions.**  All payment transactions are conducted through our PCI compliant secure payment solutions provider Braintree, a division of PayPal, Inc. For additional information on how Braintree secures your payment card information during transmission and storage, please refer to Braintree's privacy policy located at: <https://www.paypal.com/us/webapps/mpp/ua/privacy-full>.  You will be providing debit or credit card information directly to our payment solutions provider that operates a secure server to process payment details, encrypting your credit/debit card information and authorizing payment. Information that you supply to our payment solutions provider is not stored by us or within our control, and is subject to our payment solutions provider's own privacy policy and terms and conditions.
 
@@ -443,7 +441,7 @@ In addition, California residents are entitled to know that third parties may co
 
 **Social Networking and Other Websites**. The Site or Services may allow you to post information to social networking websites. We do not share your information with such social networking website unless you direct the Site or Services to share it. The use of the information by such social networking websites will be governed by their privacy policies, and we do not control their use of the shared data.
 
-**As Required By Law and Similar Disclosures**.  We may access, preserve, and disclose your Personal Information, other account information, usage information and device identifier (including IP address), and content if we believe doing so is required or appropriate to: comply with law enforcement requests and legal process, such as a court order, warrant or subpoena; respond to your requests; enforce our policies related to our Site or Services, or other applicable policies; or protect yours, ours or others' rights, property, or safety. Unless prohibited by law or court order, or unless we determine in our sole discretion that notification is inappropriate under the circumstances, we will take all reasonable steps to notify all affected users of a legal request for information or intended disclosure prior to disclosure.
+**As Required By Law and Similar Disclosures**.  We may access, preserve, and disclose your Personal Information, other account information, usage information and device identifier (including IP address), and content if we believe doing so is required or appropriate to: comply with law enforcement requests and legal process, such as a court order, warrant or subpoena; respond to your requests; enforce our policies related to our Site or Services, or other applicable policies; or protect your, our, or others' rights, property, or safety. Unless prohibited by law or court order, or unless we determine in our sole discretion that notification is inappropriate under the circumstances, we will take all reasonable steps to notify all affected users of a legal request for information or intended disclosure prior to disclosure.
 
 **Merger, Sale, or Other Asset Transfers**. If we are involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, sale of company assets, or transition of service to another provider, your information, including Personal Information, may be sold or transferred as part of such a transaction as one of the transferred assets as permitted by law and/or contract.  We cannot control how such entities may use or disclose such information.
 
@@ -469,29 +467,29 @@ The Site or Services may, from time to time, contain links to external websites.
 
 **DATA TRANSFERS TO THE UNITED STATES**
 
-The Site and the Services are operated in the United States. If you are located outside of the United States, please be aware that the information we collect about you, including Personal Information, will be transferred to and processed and stored in the United States. 
+The Site and the Services are operated in the United States. If you are located outside of the United States, please be aware that the information we collect about you, including Personal Information, will be transferred to and processed and stored in the United States.
 
 **TRANSERS OF PERSONAL INFORMATION TO THE UNITED STATES: OUR COMMITMENT TO THE PRIVACY SHIELD**
 
 If you are located in the United Kingdom, for purposes of the Data Protection Act 1998, the General Data Protection Regulation 2016/679 (the GDPR) and any corresponding or equivalent national implementing law or regulations (Revised UK law), General Assembly Space, Limited is the data controller with respect to any information collected by it in the United Kingdom and then transferred to General Assembly Space, Inc. in the United States.
 
-General Assembly Space Inc adheres to the U.S.-EU and Swiss-U.S. Privacy Shield Principles, which can be found here: https://www.privacyshield.gov. General Assembly Space, Inc. is committed to complying with the Privacy Shield principles, including those regarding collection, use, retention, notice, choice, onward transfer, and security, for all Personal Information received from individuals in the European Union and Switzerland in reliance on the Privacy Shield. If there is any conflict between the terms in this Privacy Policy and the Privacy Shield principles, the Privacy Shield principles shall govern. To learn more about the Privacy Shield Framework, and to view our certification, please visit <https://www.privacyshield.gov/>.
+General Assembly Space Inc. adheres to the U.S.-EU and Swiss-U.S. Privacy Shield Principles (collectively, the " **Privacy Shield Principles** "), which can be found here: [https://www.privacyshield.gov](https://www.privacyshield.gov/). General Assembly Space, Inc. is committed to complying with the Privacy Shield Principles, including those regarding collection, use, retention, notice, choice, onward transfer, and security, for all Personal Information received from individuals in the European Union and Switzerland in reliance on the Privacy Shield. If there is any conflict between the terms in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield Framework, and to view our certification, please visit <https://www.privacyshield.gov/>.
 
-As part of our participation in the U.S.-EU and Swiss-U.S. Privacy Shield certification programs, we have further committed to refer unresolved Privacy Shield complaints to JAMS. If you do not receive timely acknowledgment of your complaint from us, or if we have not resolved your complaint, please contact or visit https://www.jamsadr.com/eu-us-privacy-shield or, to file a complaint, visit https://www.jamsadr.com/eu-us-privacy-shield. The services of JAMS are provided at no cost to you.
+As part of our participation in the U.S.-EU and Swiss-U.S. Privacy Shield certification programs, we have further committed to refer unresolved Privacy Shield complaints to JAMS. If you do not receive timely acknowledgment of your complaint from us, or if we have not resolved your complaint, please contact or visit <https://www.jamsadr.com/eu-us-privacy-shield> or, to file a complaint, visit <https://www.jamsadr.com/eu-us-privacy-shield>. The services of JAMS are provided at no cost to you.
 
-EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield practices should first contact us at [privacy@ga.co](mailto:privacy@ga.co). All emails received will be handled by a representative of our Legal Department. For more information on the dispute resolution process, please contact us at [privacy@ga.co](mailto:privacy@ga.co). As explained in the Privacy Shield principles, a binding arbitration option will also be made available to you in order to address residual complaints not resolved by any other means.
+EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield practices should first contact us at [privacy@ga.co](mailto:privacy@ga.co). All emails received will be handled by a representative of our Legal Department. For more information on the dispute resolution process, please contact us at [privacy@ga.co](mailto:privacy@ga.co). As explained in the Privacy Shield Principles, a binding arbitration option will also be made available to you in order to address residual complaints not resolved by any other means.
 
-General Assembly is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC). In certain situations, General Assembly Space, Inc. may be required to disclose Personal Information in response to lawful requests by public authorities, including meeting national security or law enforcement requirements. 
+General Assembly is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC). In certain situations, General Assembly Space, Inc. may be required to disclose Personal Information in response to lawful requests by public authorities, including meeting national security or law enforcement requirements.
 
-General Assembly Space, Inc. is responsible and remains liable for the processing of Personal Information it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. General Assembly Space, Inc. complies with the Privacy Shield principles for all onward transfers of Personal Information from the EU, including the onward transfer liability provisions.
+General Assembly Space, Inc. is responsible and remains liable for the processing of Personal Information it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. General Assembly Space, Inc. complies with the Privacy Shield Principles for all onward transfers of Personal Information from the EU and Switzerland, including the onward transfer liability provisions.
 
-You have a legal right to request the personal information about you held by us. On request, we will provide you with a copy of this information. You also have a right to correct, amend or delete such personal information where it is inaccurate or has been processed in violation of the Privacy Shield principles.
+You have a legal right to request the personal information about you held by us. On request, we will provide you with a copy of this information. You also have a right to correct, amend or delete such personal information where it is inaccurate or has been processed in violation of the Privacy Shield Principles.
 
 Please see elsewhere in this Privacy Policy for more information on: types of Personal Information collected, purposes for data collection, types of third parties receiving Personal Information and purposes of disclosure to such parties and your legal rights.
 
 **DATA RETENTION**
 
-We will only keep your Personal Information for as long as necessary to fulfil the purposes we collected it for, including for the purpose of satisfying any legal, accounting or reporting requirements.
+We will only keep your Personal Information for as long as necessary to fulfill the purposes we collected it for, including for the purpose of satisfying any legal, accounting or reporting requirements.
 
 To determine the appropriate retention period for Personal Information, we consider the amount, nature and sensitivity of the Personal Information, the potential risk of harm from unauthorized use or disclosure of your Personal Information, the purposes for which we process your Personal Information and whether we can achieve those purposes through other means, and the applicable legal requirements.
 
@@ -499,15 +497,15 @@ Details of retention periods for different aspects of your Personal Information 
 
 **YOUR LEGAL RIGHTS**
 
-Under the General Data Protection Regulation 2016/679 (the GDPR) data subjects located in the EU have the right under certain circumstances:
+Under the General Data Protection Regulation 2016/679 (the GDPR), data subjects located in the EU have the right under certain circumstances to:
 
-  * To be provided with a copy of your Personal Information held by us;
-  * To request that we correct any of your Personal Information held by us;
-  * To request that we restrict the processing of your Personal Information (while we verify or investigate your concerns with this information, for example);
-  * To object to any further processing of your Personal Information, including the right to object to marketing;
-  * To request that the Personal Information you have provided be transferred to a third party;
-  * To withdraw consent: where the basis of the processing of your Personal Information is based on consent you have the right to withdraw that consent without detriment at any time.
-  * To request that we delete any of your Personal Information held by us.
+  * Be provided with a copy of your Personal Information held by us;
+  * Request that we correct any of your Personal Information held by us;
+  * Request that we restrict the processing of your Personal Information (while we verify or investigate your concerns with this information, for example); and
+  * Object to any further processing of your Personal Information, including the right to object to marketing;
+  * Request that the Personal Information you have provided be transferred to a third party;
+  * Withdraw consent: where the basis of the processing of your Personal Information is based on consent you have the right to withdraw that consent without detriment at any time.
+  * Request that we delete any of your Personal Information held by us.
 
 
 
@@ -527,7 +525,7 @@ It is important that the Personal Information we hold about you is accurate and 
 
 If you have questions about unsubscribing from email or other communications, you may send an email to [privacy@ga.co](mailto:privacy@ga.co).
 
-Please share any suggestions you may have for improving this Privacy Policy, by sending an email to [privacy@ga.co](mailto:privacy@ga.co). 
+Please share any suggestions you may have for improving this Privacy Policy, by sending an email to [privacy@ga.co](mailto:privacy@ga.co).
 
 **CHANGES TO OUR PRIVACY POLICY AND PRACTICES**
 
