@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brickseek.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628062118id_/https%3A//brickseek.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brickseek.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228123524id_/https%3A//brickseek.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – BrickSeek
 
@@ -63,6 +63,9 @@ We do not sell, trade, or otherwise transfer to outside parties your Personally 
 **Third-party links**
 
 Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+**Third Party Advertising**  
+We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information ( **NOT** including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out [http://www.networkadvertising.org/managing/opt_out.asp](https://www.networkadvertising.org/managing/opt_out.asp)
 
 **Google**
 
@@ -178,6 +181,6 @@ Tempe, Arizona 85284
 
 United States
 
-support@brickseek.com
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
-Last Edited on 2017-04-20
+Last Edited on 2018-07-27
