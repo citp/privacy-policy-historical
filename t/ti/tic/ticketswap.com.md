@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ticketswap.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627201452id_/https%3A//www.ticketswap.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketswap.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228030842id_/https%3A//www.ticketswap.com/content/privacy) for the most accurate reproduction.*
 
 # Privacy Statement – TicketSwap
 
@@ -57,9 +57,11 @@ By interacting (visiting website, buying and/or selling tickets, etc.) with our 
 
 ### Data retention
 
-Our policy is to only store and process personal data that is is essential in providing you with the best service possible. We do not store or process personal data we don’t use. Our data retention policy can be split between active (based on date of last login) and inactive users.
+Our policy is to only store and process personal data that is essential in providing you with the best service possible. We do not store or process personal data we don’t use. Our data retention policy can be split between active (based on date of last login) and inactive users.
 
 For active users we store essential personal data (used to identify your location for VAT purposes) for 10 years after the last transaction you made to comply with tax requirements. We use ip address, Facebook country, IBAN country and country given in your profile as measures to locate you. For inactive users and information relating to active users (considered to be non-essential for tax purposes) we store your information for 5 years after your last login.
+
+If TicketSwap suspects that you do not comply with the Platform Agreement, TicketSwap may (permanently) deny you access to the Platform and to the Platformservice with immediate effect. In the case of non-compliance, we retain the right to keep your (relevant) data and information in our records for future reference. This means that by violating the Platform Agreement, our right to hold on to your information supersedes data protection rules in which you are allowed to request that we delete all your data from our systems. We do this to prevent abuse in the future.
 
 ## 2\. How we use information we collect?
 
@@ -105,7 +107,7 @@ By using our **Secure Swap service** (which you can recognize by the SecureSwap 
 
 For **payments** made via our websites, we use third-party services such as payment gateways and other payment transaction processors. These third parties are contractually obliged not to use said data for any other purpose than to effectuate the payment. These third parties share your bank account holder name and tokenized payment details with us.
 
-For **marketing** , we make use of third parties. We use these third parties to provide you and potential new users with relevant advertisements. We use the services of third by (i) excluding existing TicketSwap users from our acquisition campaigns, (ii) retarget existing users and (iii) create similar audiences based on TicketSwap users.
+For **marketing** , we make use of third parties. We use these third parties to provide you and potential new users with relevant advertisements. We use the services of third parties by (i) excluding existing TicketSwap users from our acquisition campaigns, (ii) retarget existing users and (iii) create similar audiences based on TicketSwap users.
 
 For **mass messaging** we use third parties to send out text messages and emails to verify your account, to notify on completed transactions, to send newsletters and support related matters.
 
@@ -186,7 +188,7 @@ Rokin 75
 The Netherlands
 
 T: 020-3080676  
-Email: privacy@ticketswap.com  
+Email: info@ticketswap.com  
 KVK: 59084952  
 BTW: NL853310488B01  
 www.ticketswap.com
@@ -222,6 +224,14 @@ Google AdWords is an online advertising service developed by Google Inc. (“Goo
 #### Google Analytics
 
 Google Analytics is a web analysis service provided by Google. Google utilizes the Data collected to track and examine the use of this Application, to prepare reports on its activities and share them with other Google services. Google may use the Data collected to contextualize and personalize the ads of its own advertising network. Personal Data collected are cookies and usage data. See [here](https://privacy.google.com/businesses/compliance/#?modal_active=none) for the details.
+
+#### Google Optimize
+
+Google Optimize (Optimize) is an experimentation tool developed by Google Inc. (Google). Optimize utilizes Google Analytics cookies to target content variants to a user and a content experiment cookie to determine a user’s participation in an experiment. We are using this tool to record and track visitors involvement in a website experiment such as an A/B Test where half of our website users see one webpage, and the other half see another custom variant. These tests help us improve the user experience. See [here](https://support.google.com/optimize/answer/6230273?hl=en) for the details.
+
+#### Google Tag Manager
+
+Google Tag Manager is a tag management system created by Google to manage JavaScript and HTML tags used for tracking and analytics on websites. We use this service to load scripts into our webpages. These scripts can have tracking or advertising purposes which are also mentioned Privacy Policy. See [here](https://www.google.com/analytics/tag-manager/use-policy/) for the details.
 
 #### Firebase
 
