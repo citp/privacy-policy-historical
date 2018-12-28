@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the listotic.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627204016id_/http%3A//www.listotic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listotic.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228033105id_/http%3A//www.listotic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Listotic
 
@@ -10,7 +10,7 @@ As standard in online blogs, we may collect data related to server traffic which
 
 From time to time and under certain circumstances, we may use cookies to store personal preferences when you visit this site which may include the ability to log in, make comments or fill out online forms through our site.
 
-In certain pages throughout the site, we may use third party advertisements at Listotic.com to support our site; some of these advertisers may use technology which includes cookies and/or web beacons that may direct your query to an alternate website. If you click on a link on Listotic.com which directs you to an offsite website–such as a link through one of our affiliate partners or Google Adsense– information including your IP address, browser type and additional information pertaining to your browser may be stored. This information is generally used for quality improvements to the website to ensure web visitors have an enjoyable experience.
+In certain pages throughout the site, we may use third party advertisements at Listotic.com which generates revenue to support our site; some of these advertisers may use technology which includes cookies and/or web beacons that may direct your query to an alternate website. If you click on a link on Listotic.com which directs you to an offsite website–such as a link through one of our affiliate partners or Google Adsense– information including your IP address, browser type and additional information pertaining to your browser may be stored. This information is generally used for quality improvements to the website to ensure web visitors have an enjoyable experience.
 
 If your browser permits, you may be able to selectively disable or turn off cookies from within your browser settings which prevents such information from automatically appearing in server logs and tracking files, although this may have an impact on your browsing experience including the inability to log in, make comments or fill out online forms.
 
@@ -30,6 +30,8 @@ Additionally please note the following:
   * Visitors may visit each referred website to opt out of cookies if the vendor or ad network offers such option, and users may opt out of some, but not all of these cookies in one location at the Network Advertising Initiative website at [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
 
 
+
+As an Amazon Associate, we earn revenue from qualifying purchases.
 
 For further information or support, please [contact us](http://www.listotic.com/contact/).
 
