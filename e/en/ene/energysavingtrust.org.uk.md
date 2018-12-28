@@ -1,6 +1,175 @@
-> *The following text is extracted and transformed from the energysavingtrust.org.uk privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627223357id_/http%3A//www.energysavingtrust.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the energysavingtrust.org.uk privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228051544id_/http%3A//www.energysavingtrust.org.uk/privacy) for the most accurate reproduction.*
 
 # Privacy | Energy Saving Trust
+
+1\. About the Energy Saving Trust
+    
+
+We are a leading and trusted organisation helping people save energy every day. Our experts speak with millions of householders every year, deliver first class programmes for governments and provide consultancy to UK businesses and international companies. All our work is underpinned by our pioneering world-renowned research.
+
+We are independent and impartial so the advice we give is all about helping you.
+
+Energy Saving Trust manages Home Energy Scotland on behalf of the Scottish Government as well as the Nest scheme, which is managed on behalf of the Welsh Government by British Gas. Energy Saving Trust is a material subcontractor of British Gas.
+
+Energy Saving Trust will treat any personal data you provide us carefully and securely.
+
+Energy Saving Trust  **does not**  make cold calls (we do not sell insulation or solar panels etc). If you are receiving cold calls from an organisation, the [Information Commissioner’s Office](http://ico.org.uk/for-the-public/nuisance-calls/) has some useful advice and, if you haven’t already, it may be worth considering registering with the [Telephone Preference Service](http://www.tpsonline.org.uk/tps/index.html).
+
+To contact our data protection officer please:
+
+**Write to:**  Energy Saving Trust England, 30 North Colonnade, Canary Wharf, London, E14 5GP. 
+
+**Email:** [DataProtectionOfficer@est.org.uk](mailto:DataProtectionOfficer@est.org.uk)
+
+2\. When we collect data from you
+    
+
+When Energy Saving Trust or the advice services collect information about you we will tell you at least:
+
+·         Who we are
+
+·         Why we are collecting your information
+
+·         Our legal basis for processing it e.g. the processing is required as part of a contract, for example if you apply for a loan from us
+
+·         What we will do with it
+
+·         If we will share it (and who we share it with)
+
+Some of this may be provided to you through this privacy policy which will be updated from time to time. We will always provide detail of how to access our privacy policy.
+
+3\. What information will we collect about you?
+    
+
+We might collect:
+
+·         Contact information (e.g. name, postal address, email address)
+
+·         Information about you (e.g. date of birth, receipt of benefits)
+
+·         Information about your property (e.g. property age, the level of insulation, type of heating)
+
+·                               Bank account details and other financial information
+
+Some of this information may, in some cases, be considered as not being personal data e.g. information purely about your property: property type or energy saving measures. 
+
+4\. Why do we ask for this information?
+    
+
+**We will ask for your contact details so that we can:**
+
+·         respond to requests, enquiries and complaints received from you
+
+·         to contact you about services requested by you
+
+·         evaluate customer satisfaction and the success of any programmes we deliver and their impact on the environment
+
+·         to keep our records up-to-date
+
+·         for audit purposes
+
+**We will ask for information about you and your property so that we can** :
+
+·         provide services requested by you
+
+·         assess eligibility for grant and loan funding you have applied for
+
+·         assess likely eligibility for other assistance you may be able to receive
+
+·         analyse householder trends
+
+·         monitor the energy efficiency of UK housing stock, and to assist in targeting services and new schemes
+
+**We will ask for financial information so that we can:**
+
+·         process payments to you and repayments (e.g. of loans) to us
+
+·         assess your eligibility for funding/assistance (for example by carrying out a credit reference check – see more information on credit checks here)
+
+5\. Where we collect information about you
+    
+
+We will normally only collect information directly from you. If we have received your information from a 3rd party, we will explain to you where we obtained your personal information from. The organisation sharing your information with us will get your permission to do so before sharing. This is likely to be from organisations such as Trading Standards or Citizen’s Advice, in order to help you save energy, or access funding you may be entitled to.
+
+If you telephone us (Energy Saving Trust or the advice services) your call may be recorded for training and monitoring.
+
+We will ask you to provide information for instance, when you contact us by telephone, if you make use of one of our tools (eg our Home Energy Check), if you submit a ‘contact us form’, enter a competition, attend an event, or complete a survey. If you ‘like’ or ‘follow’ any of our social media accounts (such as Facebook and Twitter) we will collect information about this (including any posts you ‘like’ or share). We will use this information to provide you with more personalised advertising and to understand how people are using the information we publish on social media.  **You can change your settings within your social media accounts to set how organisations can target advertising to you through them.**
+
+6\. Sharing information about you
+    
+
+We sometimes use other companies and organisations (third parties) to process personal information for us. For example we use third parties to:
+
+·         deliver our advice service
+
+·         carry out credit reference checks
+
+·         maintain our IT systems
+
+·         carry out site inspections to assess compliance with a particular scheme
+
+complete scheme evaluation
+
+carry out research
+
+using printing services.
+
+**Some of your information may be shared:**
+
+with your local authority, so that they can target specific areas for energy efficiency measures and schemes
+
+with devolved and national government so that they can monitor household trends, the success of schemes to encourage the uptake of renewables and monitoring the output of devices, to facilitate MPs/MSPs etc where they have been asked to help by one of their constituents.
+
+Where we make use of third parties to process personal information, we will ensure that they have adequate security measures in place and that they comply with this privacy policy.
+
+We share information, for analysis and reporting purposes, with government departments and bodies (including the devolved nations) that provide funding to the Energy Saving Trust or have an interest in our activities.
+
+We will also share information about you when we are required to so by law or if we have your permission to do so.
+
+7\. Direct Marketing
+    
+
+Energy Saving Trust will only send you direct marketing information if you have  agreed to receive this information when you provided your contact details, or when you have specifically asked us to send you direct marketing.
+
+We may occasionally present a promotion that is sponsored by a third-party company or organisation. To qualify for entry, we may ask you to provide personal information – if we intend to share that information with the sponsors, we will make this clear and provide you with the opportunity to prevent this
+
+You have the right to stop us using information about you for direct marketing purposes. You can do this at any time even if you previously consented to receive direct marketing. If you wish to change your marketing settings either select the link included in emails or [contact us](http://www.energysavingtrust.org.uk/about-us/contact-us) directly to let us know. We will change your setting as soon as we are able and at least within 28 days.
+
+8\. Google Analytics Advertising
+    
+
+Energy Saving Trust has implemented the following Google Analytics Advertising features:
+
+**Remarketing –  **this enables Energy Saving Trust to display advertising to visitors on our website as they move to other sites.
+
+**Display Network Impression Reporting –  **Energy Saving Trust can use this to understand the impact of adverts displayed on other sites. We will be able to see when someone views an advert elsewhere and then later visits Energy Saving Trust’s website.
+
+**Demographics and Interest Reporting  **– this allows us to obtain anonymous information about the users of our website. For example, we will be able to see how many visitors we had to our site in a particular age range. Find out more about [how Google obtains this information](http://support.google.com/adwords/answer/2580383).
+
+9\. Targeting
+    
+
+If you have agreed that we can send you direct marketing using email, we may make use of social media to target advertising to you. This will take the form of adverts about Energy Saving Trust services that appear in your newsfeed etc. This is done by ‘hashing’ your email address. A process which converts your email address to a line of numbers which is then matched against the social media provider’s records. Any hashed addresses which do not match to their records will be destroyed. No personal data is shared. You can adjust your setting within your social media:
+
+[Facebook ad settings information >](https://www.facebook.com/settings?tab=ads)
+
+[Twitter: how Twitter ads work >](https://business.twitter.com/help/how-twitter-ads-work)​
+
+10\. How long will we keep your data for?
+    
+
+EST will keep your information for:
+
+Financial records –  Where you have applied for a loan through Energy Saving Trust we will keep those records for the length of the loan and an additional 7 years.
+
+Contact information – 7 years from the last active contact with Energy Saving Trust. Unless we have a reason to keep for longer (for example where you have received a loan from us or where the funder has included longer data retention as part of their terms and conditions).
+
+Property information – we will keep information about your property indefinitely so that we can provide funders (eg the Scottish Government) with historic information about the UK’s housing stock. This will be anonymised.
+
+(this list will be added to regularly)
+
+11 Your rights
+    
 
 The General Data Protection Regulation will change the rights you have with regards to the personal data we hold and use about you. Your new rights are described in the guidance below. If you have any questions or concerns about how we use your personal information please contact our Data Protection Officer*. You can also find useful information on the [Information Commissioner’s Office’s website](http://ico.org.uk/).
 
@@ -122,3 +291,53 @@ Your personal information is no longer needed for the reason they were collected
 When we respond to your request for your information we will give you details about the other rights you have. Including:
 
 The right to submit a complaint to the Information Commissioner’s Office The right to request correction or deletion of personal information The right to request the restriction of your personal information Or to object to the processing of your personal information.
+
+12\. Cookies
+    
+
+Please visit here for information about [cookies](http://www.energysavingtrust.org.uk/cookies).
+
+13\. Scottish Parliament Cross Party Group on Renewable Energy and Energy Efficiency (SPREEE)
+    
+
+As part of our role to provide secretariat services for the Cross Party Group on Renewable Energy and Energy Efficiency (SPREEE), Energy Saving Trust will collect the personal data of SPREEE members. 
+
+**What information will we collect from you?**
+
+\- Name  
+\- Organisation  
+\- E-mail address
+
+**Why do we ask for this information?**
+
+We collect and maintain this information to notify you about forthcoming SPREEE meetings and to share any other SPREEE related information.
+
+**Sharing information about you**
+
+\- We share the role of secretary with Scottish Renewables and as such we jointly have access to and maintain the data we collect from you  
+\- We share the names of members with relevant parliamentary staff so that these can be listed on the [Scottish Parliament’s website](http://www.parliament.scot/msps/renewable-energy-and-energy-efficiency.aspx)  
+\- We include the names of members in the group’s annual return which is published on the [Scottish Parliament’s website](http://www.parliament.scot/msps/renewable-energy-and-energy-efficiency.aspx)  
+\- For security purposes we share the names of members and non-members who have registered to attend each meeting with relevant parliamentary staff  
+\- Members and non-members who attend SPREEE meetings are listed (by name only) on the minutes of each meeting    
+\- The minutes are then published on the [Scottish Parliament’s website](http://www.parliament.scot/msps/renewable-energy-and-energy-efficiency.aspx) 
+
+**Retention and Disposal**
+
+The personal information we collect (listed in "Why do we ask for this information?") from members of SPREEE will be retained for as long as membership of the group is held. When notification is received from an individual that they wish to leave the group this information is deleted.
+
+**Security**
+
+\- An information technology policy has been implemented with which all of our employees must comply  
+\- All data will be protected in accordance with applicable legislation  
+\- Access to the buildings and servers in which the data is stored is controlled via electronic pass  
+\- Laptops and other devices access central systems through a suitable secure gateway. Laptops employ encrypted hard-drives  
+\- Data exchanged between devices is encrypted  
+\- Access to files and folders is controlled via user authentication and permissions, according to the employee's role. Email is restricted by user's account  
+\- Backup data is encrypted  
+\- Clear policies and procedures are in place for reporting managing and resolving security breaches associated with the data  
+\- Data exchanged is retained or disposed of in line with agreed retention policy
+
+14\. Changes to our privacy policy
+    
+
+We regularly review our privacy policy to keep it up-to-date. Any changes that we make will be posted on our website. This privacy policy was last updated 28/09/2018.
