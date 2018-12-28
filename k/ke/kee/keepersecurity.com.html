@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the keepersecurity.com privacy policy that was archived on 2018-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180627195242id_/https%3A//keepersecurity.com/en_US/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the keepersecurity.com privacy policy that was archived on 2018-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181228024937id_/https%3A//keepersecurity.com/en_US/privacypolicy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en_US"><head><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}.ng-animate-shim{visibility:hidden;}.ng-anchor{position:absolute;}</style>
+<!DOCTYPE html><html lang="en" locale="en_US"><head><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}.ng-animate-shim{visibility:hidden;}.ng-anchor{position:absolute;}</style>
     <title>Keeper - Privacy Policy</title>
 
     <meta charset="utf-8">
@@ -10,8 +10,8 @@
     <meta name="apple-itunes-app" content="app-id=287170072">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <script async="" src="//web.archive.org/web/20180408183739/https://www.google-analytics.com/analytics.js"></script><script src="/js/lookup.js"></script>
-    <script src="/js/locale-config.js"></script>
+    <script async="" src="https://web.archive.org/web/20190225100333/https://www.googletagmanager.com/gtm.js?id=GTM-M64CX2Z"></script><script src="/js/lookup.js?1545158216184"></script>
+    <script src="/js/locale-config.js?1545158216184"></script>
     <script src="/js/jquery-3.0.0.min.js"></script>
     <script src="/js/bootstrap-custom-3.3.7.min.js"></script>
     <script src="/js/angular-1.6.5.min.js"></script>
@@ -19,15 +19,15 @@
     <script src="/js/magnific-1.1.0/jquery.magnific-popup.min.js"></script>
     <script src="/js/formstone-1.3.2/core.js"></script>
     <script src="/js/formstone-1.3.2/dropdown.js"></script>
-    <script src="/js/utilities.js?1530049795938"></script>
-    <script src="/js/keeper.js?1530049795938"></script>
+    <script src="/js/utilities.js?1545158216184"></script>
+    <script src="/js/keeper.js?1545158216184"></script>
 
     <link rel="stylesheet" href="/css/magnific-1.1.0/magnific-popup.css">
     <link rel="stylesheet" href="/css/formstone-1.1.0/dropdown.css">
     <link rel="stylesheet" href="/css/bootstrap-custom-3.3.7.min.css">
     <link rel="stylesheet" href="/assets/font-awesome/css/font-awesome-4.7.0.min.css">
-    <link rel="stylesheet" href="/css/main.min.css?1530049795938">
-    <link rel="stylesheet" href="/css/bundle.min.css?1530049795938">
+    <link rel="stylesheet" href="/css/main.min.css?1545158216184">
+    <link rel="stylesheet" href="/css/bundle.min.css?1545158216184">
     
 
     <!-- Localized Links --> 
@@ -61,48 +61,880 @@
     <meta property="og:site_name" content="Keeper® Password Manager &amp; Digital Vault">
     <meta property="og:description" content="Learn how Keeper protects your passwords and private information.">
     <meta property="fb:app_id" content="418595631571154">
-  </head>
-<body class="cookie-consent ng-scope" ng-app="keeperApp" ng-controller="main_controller">
-	<script> var app = angular.module('keeperApp', []); </script>
+  <script type="text/javascript" src="/js/google-tag-manager-dev.js" id="google-tag-manager"></script></head>
+<body class="cookie-consent ng-scope nix chrome" ng-app="keeperApp" ng-controller="MainCntrl">
+
+	<script>
+		// this should have ngSanitize that way you can remove the controllers on support on FAQ
+		// when you tried to do this, the country dropdowns broke.
+		var app = angular.module('keeperApp', []);
+		
+		$(document).ready(function (event) {
+			var isMobile = ( !window.matchMedia("(min-width: 768px)").matches );
+			var shouldShowDropdown = ( $(".main").attr("page-type") === "b2b" );
+			if (isMobile || shouldShowDropdown) $("body").addClass("no-cookie-consent-banner");
+		});
+
+		$(document).on('click', '[data-open="phone-switcher"]', function (event) {
+			event.stopPropagation();
+			event.preventDefault();
+			$(event.target).parents('.dropdown').removeClass('open');
+			$('#phone-switcher').addClass('show');
+			
+			$(document).on('click', function (event) {
+				$('#phone-switcher').removeClass('show');
+				$(document).off("click", this);
+			});
+
+			$(document).on('click', '.dropdown-content', function (event) {
+				$('#phone-switcher').removeClass('show');
+				$(document).off("click", '.dropdown-content', this);
+			});
+		});
+
+		$(document).on('show.bs.dropdown', function () {
+			$('.dropdown-content').removeClass('open').removeClass('show');
+		});
+	</script>
+	
+	
+	<section class="lightbox popup-demo ng-scope" ng-controller="PopupDemoCntrl">
+    <div class="popup-background"></div>
+    <div class="popup-content">
+        <div class="modalClose" data-close="popup-demo"></div>
+        <h3 class="popup-title">Request a Demo</h3>
+        <form name="popup_demo_form" novalidate="" class="ng-pristine ng-valid">
+            <div class="ff-section left"> <!-- First Name -->
+                <div class="ff-item">
+                    <input required="" ng-model="input.firstName" type="text" class="field ng-pristine ng-untouched ng-valid" placeholder="First Name">
+                </div>
+            </div>
+            <div class="ff-section right"> <!-- Last Name -->
+                <div class="ff-item">
+                    <input required="" ng-model="input.lastName" type="text" class="field ng-pristine ng-untouched ng-valid" placeholder="Last Name">
+                </div>
+            </div>
+            <div class="ff-section stretch"> <!-- Email Address -->
+                <div class="ff-item">
+                    <input required="" ng-model="input.email" type="email" class="field ng-pristine ng-untouched ng-valid" placeholder="Business Email" id="popup-demo-email">
+                </div>
+            </div>
+            <div class="ff-section stretch"> <!-- Phone Number -->
+                <div class="ff-item">
+                    <input required="" ng-model="input.phone" type="text" class="field ng-pristine ng-untouched ng-valid" placeholder="Phone Number">
+                </div>
+            </div>
+            <div class="ff-section stretch"> <!-- Company / Organization -->
+                <div class="ff-item">
+                    <input required="" ng-model="input.companyName" type="text" class="field ng-pristine ng-untouched ng-valid" placeholder="Company/Organization">
+                </div>
+            </div>
+            <div class="ff-section stretch"> <!-- Country -->
+                <div class="ff-item">
+                    <select class="field dropdown dropdown-country" id="popup-demo-country" style="display: none;">
+                        <option value="Afghanistan">Afghanistan</option>
+<option value="Albania">Albania</option>
+<option value="Algeria">Algeria</option>
+<option value="Samoa, American (U.S. Possession)">Samoa, American (U.S. Possession)</option>
+<option value="Andorra">Andorra</option>
+<option value="Angola">Angola</option>
+<option value="Anguilla">Anguilla</option>
+<option value="Antigua and Barbuda">Antigua and Barbuda</option>
+<option value="Argentina">Argentina</option>
+<option value="Armenia">Armenia</option>
+<option value="Aruba">Aruba</option>
+<option value="Australia">Australia</option>
+<option data-region="eu" value="Austria">Austria</option>
+<option value="Azerbaijan">Azerbaijan</option>
+<option value="Bahamas">Bahamas</option>
+<option value="Bahrain">Bahrain</option>
+<option value="Bangladesh">Bangladesh</option>
+<option value="Barbados">Barbados</option>
+<option data-region="eu" value="Belgium">Belgium</option>
+<option value="Belize">Belize</option>
+<option value="Benin">Benin</option>
+<option value="Bermuda">Bermuda</option>
+<option value="Bhutan">Bhutan</option>
+<option value="Bolivia">Bolivia</option>
+<option value="Bosnia and Herzegovina">Bosnia and Herzegovina</option>
+<option value="Botswana">Botswana</option>
+<option value="Brazil">Brazil</option>
+<option value="Brunei Darussalam">Brunei Darussalam</option>
+<option data-region="eu" value="Bulgaria">Bulgaria</option>
+<option value="Burkina Faso">Burkina Faso</option>
+<option value="Burundi">Burundi</option>
+<option value="Cambodia">Cambodia</option>
+<option value="Cameroon">Cameroon</option>
+<option value="Canada">Canada</option>
+<option value="Cape Verde">Cape Verde</option>
+<option value="Cayman Islands">Cayman Islands</option>
+<option value="Central African Rep.">Central African Rep.</option>
+<option value="Chad">Chad</option>
+<option value="Chile">Chile</option>
+<option value="China">China</option>
+<option value="Cocos Island (Australia)">Cocos Island (Australia)</option>
+<option value="Colombia">Colombia</option>
+<option value="Comoros">Comoros</option>
+<option value="Cook Islands (New Zealand)">Cook Islands (New Zealand)</option>
+<option value="Costa Rica">Costa Rica</option>
+<option data-region="eu" value="Croatia">Croatia</option>
+<option data-region="eu" value="Cyprus">Cyprus</option>
+<option data-region="eu" value="Czech Republic">Czech Republic</option>
+<option data-region="eu" value="Denmark">Denmark</option>
+<option value="Djibouti">Djibouti</option>
+<option value="Dominica">Dominica</option>
+<option value="Dominican Republic">Dominican Republic</option>
+<option value="Ecuador">Ecuador</option>
+<option value="Egypt">Egypt</option>
+<option value="El Salvador">El Salvador</option>
+<option value="Equatorial Guinea">Equatorial Guinea</option>
+<option value="Eritrea">Eritrea</option>
+<option data-region="eu" value="Estonia">Estonia</option>
+<option value="Ethiopia">Ethiopia</option>
+<option value="Falkland Islands">Falkland Islands</option>
+<option value="Faroe Islands">Faroe Islands</option>
+<option value="Fiji">Fiji</option>
+<option data-region="eu" value="Finland">Finland</option>
+<option data-region="eu" value="France">France</option>
+<option value="French Guiana">French Guiana</option>
+<option value="French Polynesia">French Polynesia</option>
+<option value="Gabon">Gabon</option>
+<option value="Gambia">Gambia</option>
+<option value="Georgia, Republic of">Georgia, Republic of</option>
+<option data-region="eu" value="Germany">Germany</option>
+<option value="Ghana">Ghana</option>
+<option value="Gibraltar">Gibraltar</option>
+<option data-region="eu" value="Greece">Greece</option>
+<option value="Greenland">Greenland</option>
+<option value="Grenada">Grenada</option>
+<option value="Guadeloupe">Guadeloupe</option>
+<option value="Guam (U.S. Possession)">Guam (U.S. Possession)</option>
+<option value="Guatemala">Guatemala</option>
+<option value="Guinea">Guinea</option>
+<option value="Guineae-Bissau">Guineae-Bissau</option>
+<option value="Guyana">Guyana</option>
+<option value="Haiti">Haiti</option>
+<option value="Vatican City">Vatican City</option>
+<option value="Honduras">Honduras</option>
+<option value="Hong Kong">Hong Kong</option>
+<option data-region="eu" value="Hungary">Hungary</option>
+<option value="Iceland">Iceland</option>
+<option value="India">India</option>
+<option value="Indonesia">Indonesia</option>
+<option data-region="eu" value="Ireland (Eire)">Ireland (Eire)</option>
+<option value="Israel">Israel</option>
+<option data-region="eu" value="Italy">Italy</option>
+<option value="Jamaica">Jamaica</option>
+<option value="Japan">Japan</option>
+<option value="Jordan">Jordan</option>
+<option value="Kazakhstan">Kazakhstan</option>
+<option value="Kenya">Kenya</option>
+<option value="Kiribati">Kiribati</option>
+<option value="Kuwait">Kuwait</option>
+<option value="Kyrgyzstan">Kyrgyzstan</option>
+<option value="Laos">Laos</option>
+<option data-region="eu" value="Latvia">Latvia</option>
+<option value="Lebanon">Lebanon</option>
+<option value="Lesotho">Lesotho</option>
+<option value="Liechtenstein">Liechtenstein</option>
+<option data-region="eu" value="Lithuania">Lithuania</option>
+<option data-region="eu" value="Luxembourg">Luxembourg</option>
+<option value="Macao">Macao</option>
+<option value="Macedonia">Macedonia</option>
+<option value="Madagascar">Madagascar</option>
+<option value="Malawi">Malawi</option>
+<option value="Malaysia">Malaysia</option>
+<option value="Maldives">Maldives</option>
+<option value="Mali">Mali</option>
+<option data-region="eu" value="Malta">Malta</option>
+<option value="Marshall Islands, Republic of the">Marshall Islands, Republic of the</option>
+<option value="Martinique">Martinique</option>
+<option value="Mauritania">Mauritania</option>
+<option value="Mauritius">Mauritius</option>
+<option value="Mayotte (France)">Mayotte (France)</option>
+<option value="Mexico">Mexico</option>
+<option value="Micronesia, Federated States of">Micronesia, Federated States of</option>
+<option value="Moldova">Moldova</option>
+<option value="Monaco (France)">Monaco (France)</option>
+<option value="Mongolia">Mongolia</option>
+<option value="Montserrat">Montserrat</option>
+<option value="Morocco">Morocco</option>
+<option value="Mozambique">Mozambique</option>
+<option value="Namibia">Namibia</option>
+<option value="Nauru">Nauru</option>
+<option value="Nepal">Nepal</option>
+<option data-region="eu" value="Netherlands">Netherlands</option>
+<option value="Netherlands Antilles">Netherlands Antilles</option>
+<option value="New Caledonia">New Caledonia</option>
+<option value="New Zealand">New Zealand</option>
+<option value="Nicaragua">Nicaragua</option>
+<option value="Niger">Niger</option>
+<option value="Nigeria">Nigeria</option>
+<option value="Niue (New Zealand)">Niue (New Zealand)</option>
+<option value="Norfolk Island (Australia)">Norfolk Island (Australia)</option>
+<option value="Northern Mariana Islands, Commonwealth of">Northern Mariana Islands, Commonwealth of</option>
+<option value="Norway">Norway</option>
+<option value="Oman">Oman</option>
+<option value="Pakistan">Pakistan</option>
+<option value="Palau">Palau</option>
+<option value="Panama">Panama</option>
+<option value="Papua New Guinea">Papua New Guinea</option>
+<option value="Paraguay">Paraguay</option>
+<option value="Peru">Peru</option>
+<option value="Philippines">Philippines</option>
+<option value="Pitcairn Island">Pitcairn Island</option>
+<option data-region="eu" value="Poland">Poland</option>
+<option data-region="eu" value="Portugal">Portugal</option>
+<option value="Puerto Rico">Puerto Rico</option>
+<option value="Qatar">Qatar</option>
+<option value="Reunion">Reunion</option>
+<option data-region="eu" value="Romania">Romania</option>
+<option value="Russia">Russia</option>
+<option value="Rwanda">Rwanda</option>
+<option value="Saint Helena">Saint Helena</option>
+<option value="Saint Kitts (St. Christopher and Nevis)">Saint Kitts (St. Christopher and Nevis)</option>
+<option value="Saint Lucia">Saint Lucia</option>
+<option value="Saint Pierre and Miquelon">Saint Pierre and Miquelon</option>
+<option value="Saint Vincent and the Grenadines">Saint Vincent and the Grenadines</option>
+<option value="Samoa, American (U.S. Possession)">Samoa, American (U.S. Possession)</option>
+<option value="San Marino">San Marino</option>
+<option value="Sao Tome and Principe">Sao Tome and Principe</option>
+<option value="Saudi Arabia">Saudi Arabia</option>
+<option value="Senegal">Senegal</option>
+<option value="Serbia, Republic of">Serbia, Republic of</option>
+<option value="Seychelles">Seychelles</option>
+<option value="Sierra Leone">Sierra Leone</option>
+<option value="Singapore">Singapore</option>
+<option data-region="eu" value="Slovak Republic (Slovakia)">Slovak Republic (Slovakia)</option>
+<option data-region="eu" value="Slovenia">Slovenia</option>
+<option value="Solomon Islands">Solomon Islands</option>
+<option value="Somalia">Somalia</option>
+<option value="South Africa">South Africa</option>
+<option value="South Georgia (Falkland Islands)">South Georgia (Falkland Islands)</option>
+<option data-region="eu" value="Spain">Spain</option>
+<option value="Sri Lanka">Sri Lanka</option>
+<option value="Suriname">Suriname</option>
+<option value="Swaziland">Swaziland</option>
+<option data-region="eu" value="Sweden">Sweden</option>
+<option value="Switzerland">Switzerland</option>
+<option value="Taiwan">Taiwan</option>
+<option value="Tajikistan">Tajikistan</option>
+<option value="Tanzania">Tanzania</option>
+<option value="Thailand">Thailand</option>
+<option value="Timor (Indonesia)">Timor (Indonesia)</option>
+<option value="Togo">Togo</option>
+<option value="Tokelau (Union) Group (Western Samoa)">Tokelau (Union) Group (Western Samoa)</option>
+<option value="Tonga">Tonga</option>
+<option value="Trinidad and Tobago">Trinidad and Tobago</option>
+<option value="Tunisia">Tunisia</option>
+<option value="Turkey">Turkey</option>
+<option value="Turkmenistan">Turkmenistan</option>
+<option value="Turks and Caicos Islands">Turks and Caicos Islands</option>
+<option value="Tuvalu">Tuvalu</option>
+<option value="Uganda">Uganda</option>
+<option value="Ukraine">Ukraine</option>
+<option value="United Arab Emirates">United Arab Emirates</option>
+<option data-region="eu" value="United Kingdom (Great Britain)">United Kingdom (Great Britain)</option>
+<option value="United States">United States</option>
+<option value="United States Minor Outlying Islands">United States Minor Outlying Islands</option>
+<option value="Uruguay">Uruguay</option>
+<option value="Uzbekistan">Uzbekistan</option>
+<option value="Vanuatu">Vanuatu</option>
+<option value="Venezuela">Venezuela</option>
+<option value="Vietnam">Vietnam</option>
+<option value="British Virgin Islands">British Virgin Islands</option>
+<option value="Virgin Islands U.S.">Virgin Islands U.S.</option>
+<option value="Wallis and Futuna Islands">Wallis and Futuna Islands</option>
+<option value="Yemen">Yemen</option>
+<option value="Zambia">Zambia</option>
+<option value="Korea, Republic of">Korea, Republic of</option>
+                    </select>
+                </div>
+            </div>
+            <div class="ff-section stretch"> <!-- ZIP / Postal Code -->
+                <div class="ff-item">
+                    <input required="" ng-model="input.zipcode" type="text" class="field ng-pristine ng-untouched ng-valid" placeholder="Zip/Postal Code">
+                </div>
+            </div>
+            <div class="ff-section stretch text-center"> <!-- EU Notice -->
+                <div class="ff-item half-spacing eu-notice">
+                    <p class="eu-notice" hidden="">Your Keeper account and stored data will reside in the EU (Dublin) data center.</p>
+                </div>
+            </div>
+            <!-- PRIVACY POLICY & TERMS -->
+            <div class="ff-section stretch text-center terms">
+                <div class="ff-item half-spacing">
+                    <p>By completing this form, you accept Keeper's <a href="/termsofuse.html" target="_blank">Terms of Use</a>.</p>
+                </div>
+            </div>
+            <div class="ff-section stretch submit"> <!-- Submit -->
+                <div class="ff-item">
+                    <input required="" type="submit" class="btn btn-varient-three" ng-value="submitText" data-submit="popup-demo" id="popup-demo-submit">
+            </div>
+            <div class="ff-section stretch feedback"> <!-- User Feedback -->
+                <!-- ngIf: errorMessage -->
+            </div>
+        
+    </div></form>
+</div></section>
+
+<script>
+   
+    app.controller("PopupDemoCntrl", ['$scope', '$http', function ($scope, $http) {
+
+        if ( $('.main[id="page-home"]').length < 1) return;
+
+        $scope.errorMessage;
+        $scope.submitText = "Request a Demo";
+        $scope.input = $scope.input || {}
+
+        var parameters = window.keeper.getParams();
+        var isEU = (parameters['data_region'] === 'eu');
+        if (isEU === true)  $(".eu-notice").fadeIn();
+        if (isEU === false) $(".eu-notice").fadeOut();
+        var isLoading = false;
+
+        var registerEvents = function () {
+
+            $(document).on('click', '[data-open="popup-demo"]', function (event) {
+                event.preventDefault();
+                if ( $('body').hasClass('no-scroll') ) return;
+                $('.lightbox.popup-demo').addClass('active');
+                $('body').addClass('no-scroll');
+            });
+
+            $(document).on('click', '[data-close="popup-demo"]', function (event) {
+                event.preventDefault();
+                $('.lightbox.popup-demo').removeClass('active');
+                $('body').removeClass('no-scroll');
+            });
+
+            $(document).on('click', '[data-submit="popup-demo"]', function (event) {
+                event.preventDefault();
+                submit();
+            });
+
+            $(document).on("blur", "#popup-demo-email", function (event) {
+                detectDataCenter();
+            });
+
+            $(document).on("change", "#popup-demo-country", function (event) {
+                detectDataCenter();
+            });
+        }
+
+        var transformDropdown = function () {
+            var countrySelector = '#popup-demo-country';
+            $(countrySelector).val('United States').trigger("change"); // default to United States
+            window.keeper.ui.sortDropdownByValue(countrySelector);
+            window.keeper.ui.dropdownInitialize(countrySelector, 'Country');
+            window.keeper.ui.embedCountryPhoneExtensions(countrySelector);
+            window.keeper.ui.embedCountryFlags(countrySelector);
+            window.keeper.ui.dropdownAutoSelectCountry(countrySelector);
+        }
+
+        var submit = function () {
+            if (isLoading) return;
+            if (!window.keeper.validateAngularForm($scope.popup_demo_form)) { isLoading = false; return; }
+            
+            $scope.submitText = 'Loading...';
+
+            window.keeper.forms.appendToLeadURL('pageKey', 'Popup-RequestADemo');
+            var params = window.keeper.forms.getDefaultParams(); // returns locale and lead_source variables
+            params.action = 'freeTrial';
+            params.createTrial = true;
+            params.enterpriseTier = false;
+            params.seats = 10;
+            params.employees = 10;
+            params.country = $("#popup-demo-country").val();
+            $.extend(params, $scope.input);
+
+            var requestURI = window.location.origin;
+            if ( isEU) requestURI = requestURI.replace(".com", ".eu");
+            if (!isEU) requestURI = requestURI.replace(".eu", ".com");
+            requestURI = requestURI + "/leads";
+
+            $http.post(requestURI, params).then(function (response) {
+                isLoading = false;
+
+                $scope.submitText = "Request a Demo";
+                window.keeper.forms.clearLeads();
+                window.keeper.storage.setSession({
+                    name: 'keeper_trial_email',
+                    value: $scope.input.email
+                });
+
+                if ( isEU) window.location.replace('/' + keeper.getCurrentLocale() + '/password-manager-free-trial-thank-you.html?data_region=eu&type=demo');
+                if (!isEU) window.location.replace('/' + keeper.getCurrentLocale() + '/password-manager-free-trial-thank-you.html?data_region=us&type=demo');
+            }).catch(function (error) {
+                isLoading = false;
+                $scope.errorMessage = "An error occurred while proccessing your request, please try again later.";
+            });
+        }
+
+        var detectDataCenter = function () {
+            var url = "/checkout_api_web";
+
+            var email = $scope.input.email || ''
+
+            var parameters = {
+                command: "get_domain",
+                email: $scope.input.email
+            };
+
+			$http.post(url, parameters).then(function (response) {
+
+                if (response.data.emailFound !== false) {
+                    if (response.data.domain === 'eu') isEU = true;
+                    if (response.data.domain === 'us') isEU = false;
+                }
+
+                else if (window.keeper.getParams()['data_region'] === 'eu') {
+                    isEU = true;
+                }
+
+                else if ( $("#popup-demo-country").find(":selected").data("region") === "eu" ) {
+                    isEU = true;
+                }
+
+                else {
+                    isEU = false;
+                }
+
+                if (isEU === true)  $(".popup-demo .eu-notice").fadeIn();
+                if (isEU === false) $(".popup-demo .eu-notice").fadeOut();
+
+			}).catch(function (error) {
+				$scope.errorMessage = "An error occurred while detecting the appropriate datacenter, please try again later.";
+				$scope.submitText = $scope.submissionText;
+			});
+		
+        }
+
+        transformDropdown();
+        registerEvents();
+    }]);
+</script>
+
+	<section class="lightbox popup-business-trial ng-scope" ng-controller="PopupBusinessTrialCntrl">
+    <div class="popup-background"></div>
+    <div class="popup-content">
+        <div class="modalClose" data-close="popup-business-trial"></div>
+        <h3 class="popup-title">14-Day Business Trial</h3>
+        <form name="popup_business_trial_form" novalidate="" class="ng-pristine ng-valid">
+            <div class="ff-section left"> <!-- First Name -->
+                <div class="ff-item">
+                    <input required="" ng-model="input.firstName" type="text" class="field ng-pristine ng-untouched ng-valid" placeholder="First Name">
+                </div>
+            </div>
+            <div class="ff-section right"> <!-- Last Name -->
+                <div class="ff-item">
+                    <input required="" ng-model="input.lastName" type="text" class="field ng-pristine ng-untouched ng-valid" placeholder="Last Name">
+                </div>
+            </div>
+            <div class="ff-section stretch"> <!-- Email Address -->
+                <div class="ff-item">
+                    <input required="" ng-model="input.email" type="email" class="field ng-pristine ng-untouched ng-valid" placeholder="Business Email" id="popup-business-trial-email">
+                </div>
+            </div>
+            <div class="ff-section stretch"> <!-- Phone Number -->
+                <div class="ff-item">
+                    <input required="" ng-model="input.phone" type="text" class="field ng-pristine ng-untouched ng-valid" placeholder="Phone Number">
+                </div>
+            </div>
+            <div class="ff-section stretch"> <!-- Company / Organization -->
+                <div class="ff-item">
+                    <input required="" ng-model="input.companyName" type="text" class="field ng-pristine ng-untouched ng-valid" placeholder="Company/Organization">
+                </div>
+            </div>
+            <div class="ff-section stretch">
+                <div class="ff-item">
+                    <select class="field dropdown" id="popup-business-trial-country" style="display: none;">
+                        <option value="Afghanistan">Afghanistan</option>
+<option value="Albania">Albania</option>
+<option value="Algeria">Algeria</option>
+<option value="Samoa, American (U.S. Possession)">Samoa, American (U.S. Possession)</option>
+<option value="Andorra">Andorra</option>
+<option value="Angola">Angola</option>
+<option value="Anguilla">Anguilla</option>
+<option value="Antigua and Barbuda">Antigua and Barbuda</option>
+<option value="Argentina">Argentina</option>
+<option value="Armenia">Armenia</option>
+<option value="Aruba">Aruba</option>
+<option value="Australia">Australia</option>
+<option data-region="eu" value="Austria">Austria</option>
+<option value="Azerbaijan">Azerbaijan</option>
+<option value="Bahamas">Bahamas</option>
+<option value="Bahrain">Bahrain</option>
+<option value="Bangladesh">Bangladesh</option>
+<option value="Barbados">Barbados</option>
+<option data-region="eu" value="Belgium">Belgium</option>
+<option value="Belize">Belize</option>
+<option value="Benin">Benin</option>
+<option value="Bermuda">Bermuda</option>
+<option value="Bhutan">Bhutan</option>
+<option value="Bolivia">Bolivia</option>
+<option value="Bosnia and Herzegovina">Bosnia and Herzegovina</option>
+<option value="Botswana">Botswana</option>
+<option value="Brazil">Brazil</option>
+<option value="Brunei Darussalam">Brunei Darussalam</option>
+<option data-region="eu" value="Bulgaria">Bulgaria</option>
+<option value="Burkina Faso">Burkina Faso</option>
+<option value="Burundi">Burundi</option>
+<option value="Cambodia">Cambodia</option>
+<option value="Cameroon">Cameroon</option>
+<option value="Canada">Canada</option>
+<option value="Cape Verde">Cape Verde</option>
+<option value="Cayman Islands">Cayman Islands</option>
+<option value="Central African Rep.">Central African Rep.</option>
+<option value="Chad">Chad</option>
+<option value="Chile">Chile</option>
+<option value="China">China</option>
+<option value="Cocos Island (Australia)">Cocos Island (Australia)</option>
+<option value="Colombia">Colombia</option>
+<option value="Comoros">Comoros</option>
+<option value="Cook Islands (New Zealand)">Cook Islands (New Zealand)</option>
+<option value="Costa Rica">Costa Rica</option>
+<option data-region="eu" value="Croatia">Croatia</option>
+<option data-region="eu" value="Cyprus">Cyprus</option>
+<option data-region="eu" value="Czech Republic">Czech Republic</option>
+<option data-region="eu" value="Denmark">Denmark</option>
+<option value="Djibouti">Djibouti</option>
+<option value="Dominica">Dominica</option>
+<option value="Dominican Republic">Dominican Republic</option>
+<option value="Ecuador">Ecuador</option>
+<option value="Egypt">Egypt</option>
+<option value="El Salvador">El Salvador</option>
+<option value="Equatorial Guinea">Equatorial Guinea</option>
+<option value="Eritrea">Eritrea</option>
+<option data-region="eu" value="Estonia">Estonia</option>
+<option value="Ethiopia">Ethiopia</option>
+<option value="Falkland Islands">Falkland Islands</option>
+<option value="Faroe Islands">Faroe Islands</option>
+<option value="Fiji">Fiji</option>
+<option data-region="eu" value="Finland">Finland</option>
+<option data-region="eu" value="France">France</option>
+<option value="French Guiana">French Guiana</option>
+<option value="French Polynesia">French Polynesia</option>
+<option value="Gabon">Gabon</option>
+<option value="Gambia">Gambia</option>
+<option value="Georgia, Republic of">Georgia, Republic of</option>
+<option data-region="eu" value="Germany">Germany</option>
+<option value="Ghana">Ghana</option>
+<option value="Gibraltar">Gibraltar</option>
+<option data-region="eu" value="Greece">Greece</option>
+<option value="Greenland">Greenland</option>
+<option value="Grenada">Grenada</option>
+<option value="Guadeloupe">Guadeloupe</option>
+<option value="Guam (U.S. Possession)">Guam (U.S. Possession)</option>
+<option value="Guatemala">Guatemala</option>
+<option value="Guinea">Guinea</option>
+<option value="Guineae-Bissau">Guineae-Bissau</option>
+<option value="Guyana">Guyana</option>
+<option value="Haiti">Haiti</option>
+<option value="Vatican City">Vatican City</option>
+<option value="Honduras">Honduras</option>
+<option value="Hong Kong">Hong Kong</option>
+<option data-region="eu" value="Hungary">Hungary</option>
+<option value="Iceland">Iceland</option>
+<option value="India">India</option>
+<option value="Indonesia">Indonesia</option>
+<option data-region="eu" value="Ireland (Eire)">Ireland (Eire)</option>
+<option value="Israel">Israel</option>
+<option data-region="eu" value="Italy">Italy</option>
+<option value="Jamaica">Jamaica</option>
+<option value="Japan">Japan</option>
+<option value="Jordan">Jordan</option>
+<option value="Kazakhstan">Kazakhstan</option>
+<option value="Kenya">Kenya</option>
+<option value="Kiribati">Kiribati</option>
+<option value="Kuwait">Kuwait</option>
+<option value="Kyrgyzstan">Kyrgyzstan</option>
+<option value="Laos">Laos</option>
+<option data-region="eu" value="Latvia">Latvia</option>
+<option value="Lebanon">Lebanon</option>
+<option value="Lesotho">Lesotho</option>
+<option value="Liechtenstein">Liechtenstein</option>
+<option data-region="eu" value="Lithuania">Lithuania</option>
+<option data-region="eu" value="Luxembourg">Luxembourg</option>
+<option value="Macao">Macao</option>
+<option value="Macedonia">Macedonia</option>
+<option value="Madagascar">Madagascar</option>
+<option value="Malawi">Malawi</option>
+<option value="Malaysia">Malaysia</option>
+<option value="Maldives">Maldives</option>
+<option value="Mali">Mali</option>
+<option data-region="eu" value="Malta">Malta</option>
+<option value="Marshall Islands, Republic of the">Marshall Islands, Republic of the</option>
+<option value="Martinique">Martinique</option>
+<option value="Mauritania">Mauritania</option>
+<option value="Mauritius">Mauritius</option>
+<option value="Mayotte (France)">Mayotte (France)</option>
+<option value="Mexico">Mexico</option>
+<option value="Micronesia, Federated States of">Micronesia, Federated States of</option>
+<option value="Moldova">Moldova</option>
+<option value="Monaco (France)">Monaco (France)</option>
+<option value="Mongolia">Mongolia</option>
+<option value="Montserrat">Montserrat</option>
+<option value="Morocco">Morocco</option>
+<option value="Mozambique">Mozambique</option>
+<option value="Namibia">Namibia</option>
+<option value="Nauru">Nauru</option>
+<option value="Nepal">Nepal</option>
+<option data-region="eu" value="Netherlands">Netherlands</option>
+<option value="Netherlands Antilles">Netherlands Antilles</option>
+<option value="New Caledonia">New Caledonia</option>
+<option value="New Zealand">New Zealand</option>
+<option value="Nicaragua">Nicaragua</option>
+<option value="Niger">Niger</option>
+<option value="Nigeria">Nigeria</option>
+<option value="Niue (New Zealand)">Niue (New Zealand)</option>
+<option value="Norfolk Island (Australia)">Norfolk Island (Australia)</option>
+<option value="Northern Mariana Islands, Commonwealth of">Northern Mariana Islands, Commonwealth of</option>
+<option value="Norway">Norway</option>
+<option value="Oman">Oman</option>
+<option value="Pakistan">Pakistan</option>
+<option value="Palau">Palau</option>
+<option value="Panama">Panama</option>
+<option value="Papua New Guinea">Papua New Guinea</option>
+<option value="Paraguay">Paraguay</option>
+<option value="Peru">Peru</option>
+<option value="Philippines">Philippines</option>
+<option value="Pitcairn Island">Pitcairn Island</option>
+<option data-region="eu" value="Poland">Poland</option>
+<option data-region="eu" value="Portugal">Portugal</option>
+<option value="Puerto Rico">Puerto Rico</option>
+<option value="Qatar">Qatar</option>
+<option value="Reunion">Reunion</option>
+<option data-region="eu" value="Romania">Romania</option>
+<option value="Russia">Russia</option>
+<option value="Rwanda">Rwanda</option>
+<option value="Saint Helena">Saint Helena</option>
+<option value="Saint Kitts (St. Christopher and Nevis)">Saint Kitts (St. Christopher and Nevis)</option>
+<option value="Saint Lucia">Saint Lucia</option>
+<option value="Saint Pierre and Miquelon">Saint Pierre and Miquelon</option>
+<option value="Saint Vincent and the Grenadines">Saint Vincent and the Grenadines</option>
+<option value="Samoa, American (U.S. Possession)">Samoa, American (U.S. Possession)</option>
+<option value="San Marino">San Marino</option>
+<option value="Sao Tome and Principe">Sao Tome and Principe</option>
+<option value="Saudi Arabia">Saudi Arabia</option>
+<option value="Senegal">Senegal</option>
+<option value="Serbia, Republic of">Serbia, Republic of</option>
+<option value="Seychelles">Seychelles</option>
+<option value="Sierra Leone">Sierra Leone</option>
+<option value="Singapore">Singapore</option>
+<option data-region="eu" value="Slovak Republic (Slovakia)">Slovak Republic (Slovakia)</option>
+<option data-region="eu" value="Slovenia">Slovenia</option>
+<option value="Solomon Islands">Solomon Islands</option>
+<option value="Somalia">Somalia</option>
+<option value="South Africa">South Africa</option>
+<option value="South Georgia (Falkland Islands)">South Georgia (Falkland Islands)</option>
+<option data-region="eu" value="Spain">Spain</option>
+<option value="Sri Lanka">Sri Lanka</option>
+<option value="Suriname">Suriname</option>
+<option value="Swaziland">Swaziland</option>
+<option data-region="eu" value="Sweden">Sweden</option>
+<option value="Switzerland">Switzerland</option>
+<option value="Taiwan">Taiwan</option>
+<option value="Tajikistan">Tajikistan</option>
+<option value="Tanzania">Tanzania</option>
+<option value="Thailand">Thailand</option>
+<option value="Timor (Indonesia)">Timor (Indonesia)</option>
+<option value="Togo">Togo</option>
+<option value="Tokelau (Union) Group (Western Samoa)">Tokelau (Union) Group (Western Samoa)</option>
+<option value="Tonga">Tonga</option>
+<option value="Trinidad and Tobago">Trinidad and Tobago</option>
+<option value="Tunisia">Tunisia</option>
+<option value="Turkey">Turkey</option>
+<option value="Turkmenistan">Turkmenistan</option>
+<option value="Turks and Caicos Islands">Turks and Caicos Islands</option>
+<option value="Tuvalu">Tuvalu</option>
+<option value="Uganda">Uganda</option>
+<option value="Ukraine">Ukraine</option>
+<option value="United Arab Emirates">United Arab Emirates</option>
+<option data-region="eu" value="United Kingdom (Great Britain)">United Kingdom (Great Britain)</option>
+<option value="United States">United States</option>
+<option value="United States Minor Outlying Islands">United States Minor Outlying Islands</option>
+<option value="Uruguay">Uruguay</option>
+<option value="Uzbekistan">Uzbekistan</option>
+<option value="Vanuatu">Vanuatu</option>
+<option value="Venezuela">Venezuela</option>
+<option value="Vietnam">Vietnam</option>
+<option value="British Virgin Islands">British Virgin Islands</option>
+<option value="Virgin Islands U.S.">Virgin Islands U.S.</option>
+<option value="Wallis and Futuna Islands">Wallis and Futuna Islands</option>
+<option value="Yemen">Yemen</option>
+<option value="Zambia">Zambia</option>
+<option value="Korea, Republic of">Korea, Republic of</option>
+                    </select>
+                </div>
+            </div>
+            <div class="ff-section stretch"> <!-- ZIP / Postal Code -->
+                <div class="ff-item">
+                    <input required="" ng-model="input.zipcode" type="text" class="field ng-pristine ng-untouched ng-valid" placeholder="Zip/Postal Code">
+                </div>
+            </div>
+            <div class="ff-section stretch text-center"> <!-- EU Notice -->
+                <div class="ff-item half-spacing eu-notice">
+                    <p class="eu-notice" hidden="">Your Keeper account and stored data will reside in the EU (Dublin) data center.</p>
+                </div>
+            </div>
+            <!-- PRIVACY POLICY & TERMS -->
+            <div class="ff-section stretch text-center terms">
+                <div class="ff-item half-spacing">
+                    <p>By completing this form, you accept Keeper's <a href="/termsofuse.html" target="_blank">Terms of Use</a>.</p>
+                </div>
+            </div>
+            <div class="ff-section stretch submit"> <!-- Submit -->
+                <div class="ff-item">
+                    <input required="" type="submit" class="btn btn-varient-three" ng-value="submitText" data-submit="popup-business-trial" id="popup-business-trial-submit">
+                </div>
+            </div>
+            <div class="ff-section stretch feedback"> <!-- User Feedback -->
+                <!-- ngIf: errorMessage -->
+            </div>
+        </form>
+    </div>
+</section>
+
+<script>                                                                                                                              
+    app.controller("PopupBusinessTrialCntrl", ['$scope', '$http', function ($scope, $http) {
+        
+        if ( $('.main[id="page-home"]').length < 1) return;
+
+        $scope.errorMessage;
+        $scope.submitText = "Start Free Trial";
+        $scope.input = $scope.input || {}
+
+        var parameters = window.keeper.getParams();
+        var isEU = (parameters['data_region'] === 'eu');
+        if (isEU === true)  $(".eu-notice").fadeIn();
+        if (isEU === false) $(".eu-notice").fadeOut();
+        var isLoading = false;
+
+        var registerEvents = function () {
+
+            $(document).on('click', '[data-open="popup-business-trial"]', function (event) {
+                event.preventDefault();
+                if ( $('body').hasClass('no-scroll') ) return;
+                $('.lightbox.popup-business-trial').addClass('active');
+                $('body').addClass('no-scroll');
+            });
+
+            $(document).on('click', '[data-close="popup-business-trial"]', function (event) {
+                event.preventDefault();
+                $('.lightbox.popup-business-trial').removeClass('active');
+                $('body').removeClass('no-scroll');
+            });
+
+            $(document).on('click', '[data-submit="popup-business-trial"]', function (event) {
+                event.preventDefault();
+                submit();
+            });
+
+            $(document).on("blur", "#popup-business-trial-email", function (event) {
+                detectDataCenter();
+            });
+
+            $(document).on("change", "#popup-business-trial-country", function (event) {
+                detectDataCenter();
+            });
+
+        }
+
+        var transformDropdown = function () {
+            var countrySelector = '#popup-business-trial-country';
+            $(countrySelector).val('United States').trigger("change"); // default to United States
+            window.keeper.ui.sortDropdownByValue(countrySelector);
+            window.keeper.ui.dropdownInitialize(countrySelector, 'Country');
+            window.keeper.ui.embedCountryPhoneExtensions(countrySelector);
+            window.keeper.ui.embedCountryFlags(countrySelector);
+            window.keeper.ui.dropdownAutoSelectCountry(countrySelector);
+        }
+
+        var submit = function () {
+            if (isLoading) return;
+            if (!window.keeper.validateAngularForm($scope.popup_business_trial_form)) { isLoading = false; return; }
+            
+            $scope.submitText = 'Loading...';
+
+            window.keeper.forms.appendToLeadURL('pageKey', 'Popup-14DayBusinessTrial');
+            var params = window.keeper.forms.getDefaultParams(); // returns locale and lead_source variables
+            params.action = 'freeTrial';
+            params.createTrial = true;
+            params.enterpriseTier = false;
+            params.seats = 10;
+            params.employees = 10;
+            params.country = $("#popup-business-trial-country").val();
+            $.extend(params, $scope.input);
+
+            var requestURI = window.location.origin;
+            if ( isEU) requestURI = requestURI.replace(".com", ".eu");
+            if (!isEU) requestURI = requestURI.replace(".eu", ".com");
+            requestURI = requestURI + "/leads";
+
+            $http.post(requestURI, params).then(function (response) {
+                isLoading = false;
+
+                $scope.submitText = "Start Free Trial";
+                window.keeper.forms.clearLeads();
+
+                window.keeper.storage.setSession({
+                    name: 'keeper_trial_email',
+                    value: $scope.input.email
+                });
+
+                if ( isEU) window.location.replace('/' + keeper.getCurrentLocale() + '/password-manager-free-trial-thank-you.html?data_region=eu&type=trial');
+                if (!isEU) window.location.replace('/' + keeper.getCurrentLocale() + '/password-manager-free-trial-thank-you.html?data_region=us&type=trial');
+            }).catch(function (error) {
+                isLoading = false;
+                $scope.errorMessage = "An error occurred while proccessing your request, please try again later.";
+            });
+        }
+
+        var detectDataCenter = function () {
+            var url = "/checkout_api_web";
+            var parameters = {
+                command: "get_domain",
+                email: $scope.input.email
+            };
+
+			$http.post(url, parameters).then(function (response) {
+
+                if (response.data.emailFound !== false) {
+                    if (response.data.domain === 'eu') isEU = true;
+                    if (response.data.domain === 'us') isEU = false;
+                }
+
+                else if (window.keeper.getParams()['data_region'] === 'eu') {
+                    isEU = true;
+                }
+
+                else if ( $("#popup-business-trial-country").find(":selected").data("region") === "eu" ) {
+                    isEU = true;
+                }
+
+                else {
+                    isEU = false;
+                }
+
+                if (isEU === true)  $(".popup-business-trial .eu-notice").fadeIn();
+                if (isEU === false) $(".popup-business-trial .eu-notice").fadeOut();
+
+			}).catch(function (error) {
+				$scope.errorMessage = "An error occurred while detecting the appropriate datacenter, please try again later.";
+				$scope.submitText = $scope.submissionText;
+			});
+		
+        }
+
+        transformDropdown();
+        registerEvents();
+    }]);
+</script>
+	
 	<div class="wrapper">
-
-		<!-- LOCALE POPUP -->
-
-		<section class="nav-lang-secondary">
-			<div class="nav-inner regionsList">
-				<a href="#" class="nav-close"></a>
-				<img src="/assets/images/enterprise/lang-image.png" height="238" width="500" alt="">
-				<h3>Choose Language</h3>
-				<ul>
-					<li data-lang="en_US">English (US)</li>          
-					<li data-lang="ja_JP">日本語</li>
-					<li data-lang="es_ES">Español</li>
-					<li data-lang="pt_BR">Português (BR)</li>
-					<li data-lang="nl_NL">Nederlands</li>
-					<li data-lang="de_DE">Deutsch</li>
-					<li data-lang="ru_RU">Pусский</li>
-					<li data-lang="pl_PL">Polski</li>
-					<li data-lang="sk_SK">Slovenčina</li>
-					<li data-lang="zh_CN">中文 (简体)</li>
-					<li data-lang="zh_HK">中文 (香港)</li>
-				</ul>
-				<ul>
-					<li data-lang="en_GB">English (UK)</li>
-					<li data-lang="ko_KR">한국어</li>
-					<li data-lang="it_IT">Italiano</li>
-					<li data-lang="pt_PT">Português (PT)</li>
-					<li data-lang="ar_AE">عربى</li>
-					<li data-lang="iw_IL">עִברִית</li>
-					<li data-lang="fr_FR">Français</li>
-					<li data-lang="el_GR">ελληνικά</li>
-					<li data-lang="ro_RO">Română</li>
-					<li data-lang="zh_TW">中文 (台灣)</li>
-				</ul>
-			</div>
-		</section>
-
-		<!-- MOBILE NAVIGATION -->
-
+		
 		<div class="nav-mobile-wrapper">
 			<div class="nav-mobile-slide slide1">
 				<a href="#" class="nav-close"></a>
@@ -198,7 +1030,10 @@
 									<a href="/en_US/enterprise-resources.html">Resources</a>
 								</li>
 								<li>
-									<a data-console-login="" href="/en_US/console" title="Admin Console Login">Admin Console Login</a>
+									<a href="/user-guides/enterprise-guide.html" title="Enterprise Guide">Enterprise Guide</a>
+								</li>
+								<li>
+									<a data-console-login="" href="https://web.archive.org/en_US/console/?locale=en_US#login" title="Admin Console Login">Admin Console Login</a>
 								</li>
 							</ul>
 						</nav>
@@ -241,8 +1076,8 @@
 				</div>
 				<!-- /.cols -->
 
-				<a data-vault-signup="" href="/vault/#new/lang/en_US" class="btn">Sign Up Free</a>
-				<a data-vault-login="" href="/vault/#/lang/en_US" class="btn second">Vault Login</a>
+				<a data-vault-signup="" href="https://web.archive.org/vault/#new/lang/en_US" class="btn">Sign Up Free</a>
+				<a data-vault-login="" href="https://web.archive.org/vault/#/lang/en_US" class="btn second">Vault Login</a>
 				<div class="phonenumber">
 					<i style="margin-right:15px;" class="ico-phone-white"></i>
 					<a style="margin-right:15px;display:inline-block;" id="current_phone" class="current_phone only-left-to-right" href="#">312 829 2680</a>
@@ -347,157 +1182,53 @@
 		<!-- DESKTOP NAVIGATION -->
 
 		<div class="wrapper-inner">
-			<header class="header">
-				<div class="header-bar">
-					<div class="container">
-						<nav class="nav-utilities">
-							<ul>
-								<li><a href="/en_US/whats-new.html" title="What's New">What's New</a></li>
-								<li><a href="/en_US/enterprise-resources.html" title="Resources">Resources</a></li>
-								<li><a href="/en_US/support.html" title="Support">Support</a></li>
-								<li><a href="/en_US/jobs.html" title="Careers">Careers</a></li>
-								<li><a href="/en_US/contact.html" title="Contact Us">Contact Us</a></li>
-								<li class="dropdown">
-									<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" title="Login">
-										<i class="ico-phone"></i>
-										<span class="current_phone only-left-to-right"> 312 829 2680</span>
-										<span class="caret"></span>
-									</a>
-									<ul class="shift-right phone-switcher" id="phone-switcher">
-										<div class="phone-switcher-arrow"></div>
-										<a href="#" class="nav-close"></a>
-										<div class="content">
-											<ul class="list-phones business-sales">
-												<li class="heading">
-													<h4>Business Sales</h4>
-												</li>
-												<li itemscope="" itemtype="http://schema.org/LocalBusiness">
-													<a href="tel:+1-312-829-2680">
-														<h5 itemprop="name">Americas &amp; APAC</h5>
-														<span class="only-left-to-right" itemprop="telephone" content="+13128292690">+1 312 829 2680</span>
-													</a>
-												</li>
-												<li itemscope="" itemtype="http://schema.org/LocalBusiness">
-													<a href="tel:+353-21-229-6011">
-														<h5 itemprop="name">EMEA</h5>
-														<span class="only-left-to-right" itemprop="telephone" content="+353212296011">+353 21 229 6011</span>
-													</a>
-												</li>
-												<li itemscope="" itemtype="http://schema.org/LocalBusiness">
-													<a href="tel:+44-20-3405-8853">
-														<h5 itemprop="name">United Kingdom</h5>
-														<span class="only-left-to-right" itemprop="telephone" content="+442034058853">+44 20 3405 8853</span>
-													</a>
-												</li>
-												<li itemscope="" itemtype="http://schema.org/LocalBusiness">
-													<a href="tel:+31-20-262-0932">
-														<h5 itemprop="name">Netherlands</h5>
-														<span class="only-left-to-right" itemprop="telephone" content="+31202620932">+31 20 262 0932</span>
-													</a>
-												</li>
-											</ul>
-											
-											<ul class="list-phones business-sales-2">
-												<li class="heading" hidden="">
-													<h4>Keeper</h4>
-												</li>
-												<li itemscope="" itemtype="http://schema.org/LocalBusiness">
-													<a href="tel:+49-89-143772993">
-														<h5 itemprop="name">Germany &amp; DACH</h5>
-														<span class="only-left-to-right" itemprop="telephone" content="+4989143772993">+49 89 143772993</span>
-													</a>
-												</li>
-												<li itemscope="" itemtype="http://schema.org/LocalBusiness">
-													<a href="tel:+34-919-01-65-13">
-														<h5 itemprop="name">Iberia &amp; Italy</h5>
-														<span class="only-left-to-right" itemprop="telephone" content="+34919016513">+34 919 01 65 13</span>
-													</a>
-												</li>
-												<li itemscope="" itemtype="http://schema.org/LocalBusiness">
-													<a href="tel:+353-21-229-6020">
-														<h5 itemprop="name">Ireland</h5>
-														<span class="only-left-to-right" itemprop="telephone" content="+353212296020">+353 21 229 6020</span>
-													</a>
-												</li>
-												<li itemscope="" itemtype="http://schema.org/LocalBusiness">
-													<a href="tel:+46-8-403-049-28">
-														<h5 itemprop="name">Sweden &amp; Nordics</h5>
-														<span class="only-left-to-right" itemprop="telephone" content="+46840304928">+46 8 403 049 28</span>
-													</a>
-												</li>
-											</ul>
 
-											<ul class="list-phones">
-												<li class="heading">
-													<h4>Support</h4>
-												</li>
-												<li itemscope="" itemtype="http://schema.org/LocalBusiness">
-													<a href="tel:+1-312-971-5702">
-														<h5 itemprop="name">Americas &amp; APAC (Consumer)</h5>
-														<span class="only-left-to-right" itemprop="telephone" content="+13129715702">+1 312 971 5702</span>
-													</a>
-												</li>
-												<li itemscope="" itemtype="http://schema.org/LocalBusiness">
-													<a href="tel:+1-312-226-4782">
-														<h5 itemprop="name">Americas &amp; APAC (Sales)</h5>
-														<span class="only-left-to-right" itemprop="telephone" content="+13122264782">+1 312 226 4782</span>
-													</a>
-												</li>
-												<li itemscope="" itemtype="http://schema.org/LocalBusiness">
-													<a href="tel:+353-21-229-6019">
-														<h5 itemprop="name">EMEA (Business)</h5>
-														<span class="only-left-to-right" itemprop="telephone" content="+353212296019">+353 21 229 6019</span>
-													</a>
-												</li>
-											</ul>
-										</div>
-									</ul>
+			<header class="header">
+
+				<section class="mobilebar">
+					<div class="container">
+						<nav class="nav">
+							<ul class="list-nav">
+								<li class="list-nav-item">
+									<a href="/" class="logo" title="Best Secure Online Password Manager &amp; Digital Vault">Keeper</a>
 								</li>
 							</ul>
-						</nav>
-						<!-- /.nav-utilities -->
-					</div>
-					<!-- /.container -->
-				</div>
-				<!-- /.header-bar -->
 
-				<div class="header-content">
-					<div class="container">
-						<a href="/en_US" class="logo" title="Best Secure Online Password Manager &amp; Digital Vault">Keeper</a>
-						<nav class="nav" id="main-nav">
-							<ul>
-								<li><a href="/en_US/business.html" title="For Business">For Business</a></li>
-								<li><a href="/en_US/personal.html" title="For Individual">For Individual</a></li>
-								<li><a href="/en_US/family-plan.html" title="For Family">For Family</a></li>
-
-								<li class="dropdown">
-									<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" title="Pricing">Pricing<span class="caret"></span></a>
-									<ul class="shift-right">
-										<li role="separator" class="divider"></li>
-										<li><a href="/en_US/pricing.html?tab=individual" title="Personal">Personal</a></li>
-										<li role="separator" class="divider"></li>
-										<li><a href="/en_US/pricing.html?tab=business" title="Business">Business</a></li>
-									</ul>
-								</li>
-
-								<li><a href="/en_US/download.html" title="Download">Download</a></li>
-								<li><a data-vault-signup="" href="/vault/#new/lang/en_US" title="Sign Up">Sign Up</a></li>
-								<li class="dropdown">
-									<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" title="Login">Login<span class="caret"></span></a>
-									<ul class="shift-right">
-										<li role="separator" class="divider"></li>
-										<li><a data-vault-login="" href="/vault/#/lang/en_US" title="Vault Login">Vault Login</a></li>
-										<li role="separator" class="divider"></li>
-										<li><a data-console-login="" href="/en_US/console/" title="Admin Console Login">Admin Console Login</a></li>
-									</ul>
-								</li>
-								<li class="lang-toggle">
-									<a href="#" title="Login">
+							<ul class="list-nav">
+								<li class="dropdown language-selection">
+									<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" title="Login">
 										<i class="ico-globe" style="margin-top: -2px;"></i>
 										<span class="current_locale">English (US)</span>
 										<span class="caret"></span>
 									</a>
+									<div class="shift-right">
+										<div class="popup-background"></div>
+
+<section class="popup-language-selection">
+    <a class="popup-close" href="#"></a>
+    <div class="popup-content">
+        <h3>Choose Language</h3>
+        <ul class="list-languages">
+            <li data-locale="en_US" data-lang="en" data-country="US">English (US)</li>
+            <li data-locale="en_GB" data-lang="en" data-country="GB">English (UK)</li>           
+            <li data-locale="ja_JP" data-lang="ja" data-country="JP">日本語</li>
+            <li data-locale="es_ES" data-lang="es" data-country="ES">Español</li>
+            <li data-locale="pt_BR" data-lang="pt" data-country="BR">Português (BR)</li>
+            <li data-locale="nl_NL" data-lang="nl" data-country="NL">Nederlands</li>
+            <li data-locale="de_DE" data-lang="de" data-country="DE">Deutsch</li>
+            <li data-locale="ru_RU" data-lang="ru" data-country="RU">Pусский</li>
+            <li data-locale="pl_PL" data-lang="pl" data-country="PL">Polski</li>
+            <li data-locale="zh_CN" data-lang="zh" data-country="CN">中文 (简体)</li>
+            <li data-locale="it_IT" data-lang="it" data-country="IT">Italiano</li>
+            <li data-locale="ar_AE" data-lang="ar" data-country="AE">عربى</li>
+            <li data-locale="fr_FR" data-lang="fr" data-country="FR">Français</li>
+        </ul>
+    </div>
+</section>
+
+									</div>
 								</li>
+								
 								<li class="nav-toggle">
 									<a href="#" class="nav-btn">
 										<span></span>
@@ -507,13 +1238,273 @@
 								</li>
 							</ul>
 						</nav>
-						<!-- /.header-inner -->
 					</div>
-					<!-- /.container -->
-				</div>
-				<!-- /.header-content -->
+				</section>
+
+				<section class="topbar">
+					<div class="container">
+						<nav class="nav">
+							<ul class="list-nav">
+								<li class="list-nav-item">
+									<a href="/" class="logo" title="Best Secure Online Password Manager &amp; Digital Vault">Keeper</a>
+								</li>
+
+								<li class="list-nav-item">
+									<h3>Don't let your company get hacked.</h3>
+									<a class="btn btn-varient-one" href="/password-manager-free-trial.html" title="Get Keeper Now">Get Keeper Now</a>
+								</li>
+							</ul>
+						</nav>
+					</div>
+				</section>
+
+				<section class="middlebar">
+					<div class="container">
+						<nav class="nav">
+							<ul class="list-nav">
+								<li class="list-nav-item dropdown">
+									<a href="#" title="Products" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+										Products
+										<span class="caret"></span>
+									</a>
+									<ul class="dropdown-content left">
+										<li class="list-nav-item">
+											<a href="/business.html" title="Business">Business</a>
+										</li>
+										<li class="list-nav-item">
+											<a href="/personal.html" title="Personal">Personal</a>
+										</li>
+										<li class="list-nav-item">
+											<a href="/family-plan.html" title="Family">Family</a>
+										</li>
+									</ul>
+								</li>
+								<li class="list-nav-item dropdown">
+									<a href="#" title="Pricing" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+										Pricing
+										<span class="caret"></span>
+									</a>
+									<ul class="dropdown-content left">
+										<li class="list-nav-item">
+											<a href="/pricing.html?tab=business" title="Business">Business</a>
+										</li>
+										<li class="list-nav-item">
+											<a href="/pricing.html?tab=individual" title="Personal">Personal</a>
+										</li>
+										<li class="list-nav-item">
+											<a href="/pricing.html?tab=individual" title="Family">Family</a>
+										</li>
+									</ul>
+								</li>
+								<li class="list-nav-item dropdown">
+									<a href="#" title="Resources" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+										Resources
+										<span class="caret"></span>
+									</a>
+									<ul class="dropdown-content left">
+										<li class="list-nav-item">
+											<a href="/support.html" title="Support">Support</a>
+										</li>
+										<li class="list-nav-item">
+											<a href="/download.html" title="Download">Download</a>
+										</li>
+										<li class="list-nav-item">
+											<a href="/user-guides/enterprise-guide.html" title="Enterprise Guide">Enterprise Guide</a>
+										</li>
+										<li class="list-nav-item">
+											<a href="/enterprise-resources.html" title="White Papers">White Papers</a>
+										</li>
+										<li class="list-nav-item">
+											<a href="/security.html" title="Security Architecture">Security Architecture</a>
+										</li>
+										<li class="list-nav-item">
+											<a href="/enterprise-resources.html" title="Data Sheets">Data Sheets</a>
+										</li>
+										<li class="list-nav-item">
+											<a href="/enterprise-resources.html" title="All Resources">All Resources</a>
+										</li>	
+									</ul>
+								</li>
+								<li class="list-nav-item dropdown">
+									<a href="#" title="Contact Us" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+										Contact Us
+										<span class="caret"></span>
+									</a>
+									<ul class="dropdown-content left">
+										<li class="list-nav-item">
+											<a href="/support.html#contact" title="Support">Support</a>
+										</li>
+										<li class="list-nav-item">
+											<a href="/contact.html?tab=sales" title="Business Sales">Business Sales</a>
+										</li>
+										<li class="list-nav-item">
+											<a href="/contact.html?tab=press" title="Press Inquiries">Press Inquiries</a>
+										</li>
+										<li class="list-nav-item">
+											<a href="#" data-open="phone-switcher" title="Call Us">Call Us</a>
+										</li>
+									</ul>
+								</li>
+							</ul>
+
+							<ul class="list-nav">
+								<li class="list-nav-item dropdown">
+									<a href="#" title="Pricing" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+										Login
+										<span class="caret"></span>
+									</a>
+									<ul class="dropdown-content left">
+										<li class="list-nav-item">
+											<a data-vault-login="" href="https://web.archive.org/vault/#/lang/en_US" title="Web Vault">Web Vault</a>
+										</li>
+										<li class="list-nav-item">
+											<a data-console-login="" href="https://web.archive.org/en_US/console/?locale=en_US#login" title="Admin Console">Admin Console</a>
+										</li>
+									</ul>
+								</li>
+								<li class="list-nav-item dropdown language-selection">
+									<a href="#" title="Pricing" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+										<i class="ico-globe" style="margin-top: -2px;"></i>
+										<span class="current_locale">English (US)</span>
+										<span class="caret"></span>
+									</a>
+									<ul class="dropdown-content left">
+										<div class="popup-background"></div>
+
+<section class="popup-language-selection">
+    <a class="popup-close" href="#"></a>
+    <div class="popup-content">
+        <h3>Choose Language</h3>
+        <ul class="list-languages">
+            <li data-locale="en_US" data-lang="en" data-country="US">English (US)</li>
+            <li data-locale="en_GB" data-lang="en" data-country="GB">English (UK)</li>           
+            <li data-locale="ja_JP" data-lang="ja" data-country="JP">日本語</li>
+            <li data-locale="es_ES" data-lang="es" data-country="ES">Español</li>
+            <li data-locale="pt_BR" data-lang="pt" data-country="BR">Português (BR)</li>
+            <li data-locale="nl_NL" data-lang="nl" data-country="NL">Nederlands</li>
+            <li data-locale="de_DE" data-lang="de" data-country="DE">Deutsch</li>
+            <li data-locale="ru_RU" data-lang="ru" data-country="RU">Pусский</li>
+            <li data-locale="pl_PL" data-lang="pl" data-country="PL">Polski</li>
+            <li data-locale="zh_CN" data-lang="zh" data-country="CN">中文 (简体)</li>
+            <li data-locale="it_IT" data-lang="it" data-country="IT">Italiano</li>
+            <li data-locale="ar_AE" data-lang="ar" data-country="AE">عربى</li>
+            <li data-locale="fr_FR" data-lang="fr" data-country="FR">Français</li>
+        </ul>
+    </div>
+</section>
+
+									</ul>
+									<ul class="dropdown-content left phone-switcher" id="phone-switcher">
+										<div class="phone-switcher-arrow"></div>
+<a href="#" class="nav-close"></a>
+<div class="content">
+    <ul class="list-phones business-sales">
+        <li class="heading">
+            <h4>Business Sales</h4>
+        </li>
+        <li itemscope="" itemtype="http://schema.org/LocalBusiness">
+            <a href="tel:+1-312-829-2680">
+                <h5 itemprop="name">Americas &amp; APAC</h5>
+                <span class="only-left-to-right" itemprop="telephone" content="+13128292690">+1 312 829 2680</span>
+            </a>
+        </li>
+        <li itemscope="" itemtype="http://schema.org/LocalBusiness">
+            <a href="tel:+353-21-229-6011">
+                <h5 itemprop="name">EMEA</h5>
+                <span class="only-left-to-right" itemprop="telephone" content="+353212296011">+353 21 229 6011</span>
+            </a>
+        </li>
+        <li itemscope="" itemtype="http://schema.org/LocalBusiness">
+            <a href="tel:+44-20-3405-8853">
+                <h5 itemprop="name">United Kingdom</h5>
+                <span class="only-left-to-right" itemprop="telephone" content="+442034058853">+44 20 3405 8853</span>
+            </a>
+        </li>
+        <li itemscope="" itemtype="http://schema.org/LocalBusiness">
+            <a href="tel:+31-20-262-0932">
+                <h5 itemprop="name">Netherlands</h5>
+                <span class="only-left-to-right" itemprop="telephone" content="+31202620932">+31 20 262 0932</span>
+            </a>
+        </li>
+    </ul>
+    
+    <ul class="list-phones business-sales-2">
+        <li class="heading" hidden="">
+            <h4>Keeper</h4>
+        </li>
+        <li itemscope="" itemtype="http://schema.org/LocalBusiness">
+            <a href="tel:+49-89-143772993">
+                <h5 itemprop="name">Germany &amp; DACH</h5>
+                <span class="only-left-to-right" itemprop="telephone" content="+4989143772993">+49 89 143772993</span>
+            </a>
+        </li>
+        <li itemscope="" itemtype="http://schema.org/LocalBusiness">
+            <a href="tel:+34-919-01-65-13">
+                <h5 itemprop="name">Iberia &amp; Italy</h5>
+                <span class="only-left-to-right" itemprop="telephone" content="+34919016513">+34 919 01 65 13</span>
+            </a>
+        </li>
+        <li itemscope="" itemtype="http://schema.org/LocalBusiness">
+            <a href="tel:+353-21-229-6020">
+                <h5 itemprop="name">Ireland</h5>
+                <span class="only-left-to-right" itemprop="telephone" content="+353212296020">+353 21 229 6020</span>
+            </a>
+        </li>
+        <li itemscope="" itemtype="http://schema.org/LocalBusiness">
+            <a href="tel:+46-8-403-049-28">
+                <h5 itemprop="name">Sweden &amp; Nordics</h5>
+                <span class="only-left-to-right" itemprop="telephone" content="+46840304928">+46 8 403 049 28</span>
+            </a>
+        </li>
+    </ul>
+
+    <ul class="list-phones">
+        <li class="heading">
+            <h4>Support</h4>
+        </li>
+        <li itemscope="" itemtype="http://schema.org/LocalBusiness">
+            <a href="tel:+1-312-971-5702">
+                <h5 itemprop="name">Americas &amp; APAC (Consumer)</h5>
+                <span class="only-left-to-right" itemprop="telephone" content="+13129715702">+1 312 971 5702</span>
+            </a>
+        </li>
+        <li itemscope="" itemtype="http://schema.org/LocalBusiness">
+            <a href="tel:+1-312-226-4782">
+                <h5 itemprop="name">Americas &amp; APAC (Sales)</h5>
+                <span class="only-left-to-right" itemprop="telephone" content="+13122264782">+1 312 226 4782</span>
+            </a>
+        </li>
+        <li itemscope="" itemtype="http://schema.org/LocalBusiness">
+            <a href="tel:+353-21-229-6019">
+                <h5 itemprop="name">EMEA (Business)</h5>
+                <span class="only-left-to-right" itemprop="telephone" content="+353212296019">+353 21 229 6019</span>
+            </a>
+        </li>
+    </ul>
+</div>
+
+									</ul>
+								</li>
+							</ul>
+						</nav>
+					</div>
+				</section>
+
+				<section class="bottombar">
+					<div class="container">
+						<nav class="nav">
+							<ul class="list-nav">
+								<li class="list-nav-item">
+									<a data-open="popup-demo" href="/password-manager-free-trial.html" class="btn btn-varient-two">Request a Demo</a>
+								</li>
+								<li class="list-nav-item">
+									<a data-open="popup-business-trial" href="/password-manager-free-trial.html" class="btn btn-varient-one">14-Day Business Trial</a>
+								</li>
+							</ul>
+						</nav>
+					</div>
+				</section>
 			</header>
-			<!-- /.header -->
 
 <style>
 .iphone-image { width: 418px; height: 440px; background-image: url(/assets/images/translated/homepage/desktop/en_US/cyborg.png); }
@@ -521,7 +1512,7 @@
   .image-android { width: 100%; padding-top: 67.72%; background-image: url(/assets/images/translated/homepage/desktop/en_US/passwords.jpg); }
   .ipad-image { width: 100%; padding-top: 69.57%; background-image: url(/assets/images/translated/homepage/desktop/en_US/ipad@2x.jpg); }
   .image-dashboard { width: 100%; padding-top: 68.94%; background-image: url(/assets/images/admin-pw.jpg); }
-  .image-dashboard-2 { width: 100%; padding-top: 68.66%; background-image: url(/assets/images/translated/business/desktop/en_US/surface.jpg); }
+  .image-dashboard-2 { width: 100%; padding-top: 68.66%; background-image: url(/assets/images/translated/business/desktop/en_US/image-security-audit-update@2x.png); }
   .image-teamsharing { width: 100%; padding-top: 68.19%; background-image: url(/assets/images/translated/business/desktop/en_US/business-sharing-teams.jpg); }
   .image-permissions { width: 100%; margin-top: 30px; padding-top: 66.6%; background-image: url(/assets/images/translated/business/desktop/en_US/business-enforcement-settings.jpg); }
   .image-data { width: 100%; padding-top: 65.59%; background-image: url(/assets/images/prevent-data.jpg); }
@@ -532,6 +1523,7 @@
   .image-u2f { width: 100%; padding-top: 67.4%; background-image: url(/assets/images/translated/personal/image-u2f.png); }
   .image-emergencyaccess { width: 100%; padding-top: 69.44%; background-image: url(/assets/images/translated/personal/desktop/en_US/image-emergencyaccess.jpg); }
   .image-securitykey { width: 100%; padding-top: 67.33%; background-image: url(/assets/images/translated/personal/desktop/en_US/image-securitykey.jpg); }
+  .image-keeperchatPersonal { width: 100%; padding-top: 81%; background-image: url(/assets/images/image-keeperchat-personal.jpg); }
   .image-vault { width: 100%; padding-top: 65.41%; background-image: url(/assets/images/translated/business/desktop/en_US/Vault.png); }
   .image-security { width: 100%; padding-top: 65.41%; background-image: url(/assets/images/translated/business/desktop/en_US/security-audit.jpg); margin-top: 15px;}
   .image-sso-connect { width: 100%; padding-top: 78.04%; background-image: url(/assets/images/translated/business/desktop/en_US/sso-connect.jpg); }
@@ -616,7 +1608,7 @@
     .image-android { padding-top: 81.25%; background-image: url(/assets/images/translated/homepage/mobile/en_US/passwords-mobile.jpg); }
     .ipad-image { padding-top: 81.25%; background-image: url(/assets/images/translated/homepage/mobile/en_US/ipad-mobile.jpg); }
     .image-dashboard { padding-top: 67.5%; background-image: url(/assets/images/admin-pw-mobile.jpg); }
-    .image-dashboard-2 { padding-top: 81.25%; background-image: url(/assets/images/translated/business/mobile/en_US/surface-mobile.jpg); }
+    .image-dashboard-2 { padding-top: 81.25%; background-image: url(/assets/images/translated/business/desktop/en_US/image-security-audit-update@2x.png); }
     .image-teamsharing { padding-top: 61.4%; background-image: url(/assets/images/translated/business/mobile/en_US/business-sharing-teams.jpg); }
     .image-kf { padding-top: 81.25%; background-image: url(/assets/images/translated/business/mobile/en_US/KF-mobile.jpg); }
     .image-identityinfo { padding-top: 81.3%; background-image: url(/assets/images/translated/personal/image-identityinfo-mobile.jpg); }
@@ -629,7 +1621,6 @@
     .image-bridge { padding-top: 81.25%; background-image: url(/assets/images/translated/business/mobile/en_US/Bridge-Mobile.jpg); }
     .image-iphone-pw { padding-top: 81.25%; background-image: url(/assets/images/translated/personal/mobile/en_US/iphone-PW-mobile.jpg); }
     .image-touch { padding-top: 81.25%; background-image: url(/assets/images/translated/personal/mobile/en_US/an-touch-mobile.jpg); }
-    .image-meter { padding-top: 81.25%; background-image: url(/assets/images/translated/personal/mobile/en_US/iphone-meter-mobile.jpg); }
     .image-kf-an { padding-top: 81.25%; background-image: url(/assets/images/translated/personal/mobile/en_US/KF-an-mobile.jpg); }
     .image-an-add { padding-top: 81.25%; background-image: url(/assets/images/translated/personal/mobile/en_US/An-Add-mobile.jpg); }
     .image-multi { padding-top: 81.25%; background-image: url(/assets/images/translated/personal/mobile/en_US/multi-mobile.jpg); }
@@ -647,7 +1638,7 @@
     .image-neverforgetpasswords { margin-top: 40px; }
     .image-accounting-password-manager { margin-top: 0px; }
     .image-vault-for-accountants{ padding-top: 68.8%;  background-image: url(/assets/images/marketing-landing-pages/mobile-password-managers-for-accounting.jpg); }
-
+    .image-keeperchatPersonal { background-image: url(/assets/images/image-keeperchat-personal-mobile.jpg); }
   }
 
   @media only screen and ( -webkit-min-device-pixel-ratio: 2 ), only screen and ( min-device-pixel-ratio: 2 ), only screen and ( min-resolution: 192dpi ) {
@@ -661,13 +1652,14 @@
     .image-android { background-image: url(/assets/images/translated/homepage/desktop/en_US/new-passwords@2x.jpg); }
     .ipad-image { background-image: url(/assets/images/translated/homepage/desktop/en_US/ipad@2x.jpg); }
     .image-dashboard { background-image: url(/assets/images/admin-pw@2x.jpg); }
-    .image-dashboard-2 { background-image: url(/assets/images/translated/business/desktop/en_US/surface@2x.jpg); }
+    .image-dashboard-2 { background-image: url(/assets/images/translated/business/desktop/en_US/image-security-audit-update@2x.png); }
     .image-teamsharing { background-image: url(/assets/images/translated/business/desktop/en_US/business-sharing-teams@2x.jpg); }
     .image-permissions { background-image: url(/assets/images/translated/business/desktop/en_US/business-enforcement-settings@2x.jpg); }
     .image-identityinfo { background-image: url(/assets/images/translated/personal/image-identityinfo@2x.jpg); }
     .image-u2f { background-image: url(/assets/images/translated/personal/image-u2f@2x.png); }
     .image-emergencyaccess { background-image: url(/assets/images/translated/personal/desktop/en_US/image-emergencyaccess@2x.jpg); }
     .image-securitykey { background-image: url(/assets/images/translated/personal/desktop/en_US/image-securitykey@2x.jpg); }
+    .image-keeperchatPersonal { background-image: url(/assets/images/image-keeperchat-personal@2x.jpg); }
     .image-data { background-image: url(/assets/images/prevent-data.jpg); }
     .image-kf { background-image: url(/assets/images/translated/business/desktop/en_US/kf-an@2x.png); }
     .image-bizsecuritykey { background-image: url(/assets/images/translated/business/desktop/en_US/image-bizsecuritykey@2x.jpg); }
@@ -728,7 +1720,7 @@
         .image-android { background-image: url(/assets/images/translated/homepage/mobile/en_US/passwords-mobile@2x.jpg); }
         .ipad-image { background-image: url(/assets/images/translated/homepage/mobile/en_US/ipad-mobile@2x.jpg); }
         .image-dashboard { background-image: url(/assets/images/admin-pw-mobile@2x.jpg); }
-        .image-dashboard-2 { background-image: url(/assets/images/translated/business/mobile/en_US/surface-mobile@2x.jpg); }
+        .image-dashboard-2 { background-image: url(/assets/images/translated/business/desktop/en_US/image-security-audit-update@2x.png); }
         .image-teamsharing { background-image: url(/assets/images/translated/business/mobile/en_US/business-sharing-teams@2x.jpg); }
         .image-customize-keeper { background-image: url(/assets/images/translated/business/mobile/en_US/image-customize-keeper-mobile@2x.jpg); }
         .image-kf { background-image: url(/assets/images/translated/business/mobile/en_US/KF-mobile@2x.png); }
@@ -741,7 +1733,6 @@
         .image-bridge { background-image: url(/assets/images/translated/business/mobile/en_US/Bridge-Mobile@2x.jpg); }
         .image-iphone-pw { background-image: url(/assets/images/translated/personal/mobile/en_US/iphone-PW-mobile@2x.png); }
         .image-touch { background-image: url(/assets/images/translated/personal/mobile/en_US/an-touch-mobile@2x.png); }
-        .image-meter { background-image: url(/assets/images/translated/personal/mobile/en_US/iphone-meter-mobile@2x.png); }
         .image-kf-an { background-image: url(/assets/images/translated/personal/mobile/en_US/KF-an-mobile@2x.png); }
         .image-an-add { background-image: url(/assets/images/translated/personal/mobile/en_US/An-Add-mobile@2x.png); }
         .image-multi { background-image: url(/assets/images/translated/personal/mobile/en_US/multi-mobile@2x.png); }
@@ -757,6 +1748,7 @@
         .image-security { margin-top: 0px;}
         .image-accounting-password-manager { margin-top: 0px; }
         .image-vault-for-accountants{  background-image: url(/assets/images/marketing-landing-pages/mobile-password-managers-for-accounting@2x.jpg); }
+        .image-keeperchatPersonal { background-image: url(/assets/images/image-keeperchat-personal-mobile@2x.jpg); }  
     }
   }
 </style>
@@ -771,7 +1763,7 @@
 
     <div class="main-content">
         <div class="container">
-            <section class="section-info section-privacy">
+            <section class="section-info section-privacy only-left-to-right">
                
 
                 <h3>General</h3>
@@ -815,7 +1807,7 @@
                 <br><br>
                 Upon request Keeper Security will provide you with information about whether we hold, or process on behalf of a third party, any of your personal information. To request this information please contact us at support@keepersecurity.com. You may deactivate your Keeper Security account and delete your personally identifiable information at any time by contacting us at support@keepersecurity.com clearly indicating that you wish to deactivate and delete such information.  If your personal information changes, you may correct or update by emailing our Customer Support at support@keepersecurity.com. We will respond to your request to access within 30 days.<br><br>We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.<br> <br>In accordance with the European Union General Data Protection Regulation (GDPR) Keeper Security does not intentionally collect personally identifiable information from nor solicit children under the age of sixteen (16) years of age. <br> <br> Other than as disclosed in this Privacy Policy, at no time will Keeper Security disclose identifiable personal information to any third parties without your express, written consent. <br> <br> Keeper Security will be permitted to display an active customers' corporate logo on its website for the purpose of promoting both the customer and Keeper Security. 
                 <br><br>
-                Keeper Security utilizes a system called KeeperFill™ which allows you to auto-fill login credentials across mobile apps and browsers.  When Keeper is preloaded on OEM devices, KeeperFill is automatically enabled to utilize the device's accessibility and input method services to identify mobile apps and websites which require login credentials.  As disclosed in the Security Disclosure at <a href="/security.html">https://keepersecurity.com/security.html</a>, Keeper is a zero-knowledge security platform.  As such, Keeper Security cannot access, track or view the activity of KeeperFill or your Keeper records.  KeeperFill can be disabled at any time by visiting the accessibility settings screen of your device. 
+                Keeper Security utilizes a system called KeeperFill™ which allows you to autofill login credentials across mobile apps and browsers.  When Keeper is preloaded on OEM devices, KeeperFill is automatically enabled to utilize the device's accessibility and input method services to identify mobile apps and websites which require login credentials.  As disclosed in the Security Disclosure at <a href="/security.html">https://keepersecurity.com/security.html</a>, Keeper is a zero-knowledge security platform.  As such, Keeper Security cannot access, track or view the activity of KeeperFill or your Keeper records.  KeeperFill can be disabled at any time by visiting the accessibility settings screen of your device. 
             </p>
 
             <h3 id="cookies">Cookies/Tracking Technologies</h3>
@@ -890,6 +1882,7 @@
                     <li><a href="/en_US/business-partner.html" title="Become a Partner">Become a Partner</a></li>
                     <li><a href="/en_US/deal-registration.html" title="Deal Registration">Deal Registration</a></li>
                     <li><a href="/en_US/enterprise-resources.html" title="Resources">Resources</a></li>
+                    <li><a href="/user-guides/enterprise-guide.html" title="Enterprise Guide">Enterprise Guide</a></li>
                   </ul>
                 </nav>
               </div>
@@ -902,7 +1895,7 @@
                     <li><a href="/en_US/whats-new.html" title="What's New?">What's New?</a></li>
                     <li><a href="/en_US/family-plan.html" title="For Family">For Family</a></li>
                     <li><a href="/en_US/pricing.html" title="Pricing">Pricing</a></li>
-                    <li><a data-vault-signup="" href="/vault/#new/lang/en_US" title="Sign Up">Sign Up</a></li>
+                    <li><a data-vault-signup="" href="https://web.archive.org/vault/#new/lang/en_US" title="Sign Up">Sign Up</a></li>
                   </ul>
                 </nav>
               </div>
@@ -946,7 +1939,6 @@
           
             <div class="socials">
               <ul>
-                <li><a href="https://plus.google.com/104096704045831671949" target="_blank"><i class="ico-google-plus"></i></a></li>
                 <li><a href="https://www.linkedin.com/company/keeper-security-inc-" target="_blank"><i class="ico-linkedin"></i></a></li>
                 <li><a href="https://twitter.com/keepersecurity" target="_blank"><i class="ico-twitter"></i></a></li>
                 <li><a href="https://www.facebook.com/keeperapp" target="_blank"><i class="ico-facebook"></i></a></li>
@@ -959,10 +1951,6 @@
       </footer>
     </div>
   </div>
-
-  <a href="#" data-dest="body" class="scrollsource backupbutton">
-    <div class="backtotop"></div>
-  </a>
 
   <script data-cfasync="false">
     window.keeper.loader.configureOlark = function () {
@@ -1003,110 +1991,344 @@
 
   <noscript id="no_script"></noscript>
 
-  <div class="cookie-consent-banner">
-      <div class="container">
-          <h6>Cookie Consent Preferences</h6>
-          <div class="columns">
-            <p>Keeper Security uses cookies to store and track information about your usage of our services and to provide a better website experience. We also may share this data, in its aggregate form, with advertisers, affiliates and partners. <a href="/en_US/privacypolicy.html#cookies" title="Cookie Policy">Learn More</a></p>
-            <div class="actions">
-              <a href="#" class="btn-alt btn-grey cookie_decline">Decline</a>
-              <a href="#" class="btn-alt btn-yellow cookie_accept">Accept</a>
-            </div>
+  <div class="cookie-consent-widgets ng-scope" ng-controller="popupConsentCntrl">
+      <div class="cookie-consent-banner">
+          <div class="container">
+              <h6>Cookie Consent Preferences</h6>
+              <div class="columns">
+                <p>Keeper Security uses cookies to store and track information about your usage of our services and to provide a better website experience. We also may share this data, in its aggregate form, with advertisers, affiliates and partners. <a href="/en_US/privacypolicy.html#cookies" title="Cookie Policy">Learn More</a></p>
+                <div class="actions">
+                  <a href="#" class="btn-alt btn-grey cookie_decline">Decline</a>
+                  <a href="#" class="btn-alt btn-yellow cookie_accept" ng-click="giveConsent('banner')">Accept</a>
+                </div>
+              </div>
           </div>
       </div>
-  </div>
-
-	<div id="cookie-consent-popup" class="cookie-consent-popup modal fade" tabindex="-1" role="dialog" aria-labelledby="cookieConsentPopup">
-      <div class="modal-dialog modal-lg" role="document">
-          <div class="modal-content">
-              <!-- ngIf: !popup --><h3 ng-if="!popup" class="ng-scope">Withdraw Cookie Consent</h3><!-- end ngIf: !popup -->
-              <!-- ngIf: popup -->
-              <p>Keeper Security uses cookies to store and track information about your usage of our services and to provide a better website experience. We also may share this data, in its aggregate form, with advertisers, affiliates and partners. <a href="/en_US/privacypolicy.html#cookies" title="Cookie Policy">Learn More</a></p>
-              <!-- ngIf: !popup --><div class="actions ng-scope" ng-if="!popup">
-                  <a href="#" class="btn btn-yellow cookie_cancel">Cancel</a>
-                  <a href="#" class="btn btn-black cookie_withdraw">Withdraw</a>
-              </div><!-- end ngIf: !popup -->
-              <!-- ngIf: popup -->
+      <div id="cookie-consent-popup" class="cookie-consent-popup modal fade" tabindex="-1" role="dialog" aria-labelledby="cookieConsentPopup">
+          <div class="modal-dialog modal-lg" role="document">
+              <div class="modal-content">
+                  <!-- ngIf: !popup -->
+                  <!-- ngIf: popup -->
+                  <p>Keeper Security uses cookies to store and track information about your usage of our services and to provide a better website experience. We also may share this data, in its aggregate form, with advertisers, affiliates and partners. <a href="/en_US/privacypolicy.html#cookies" title="Cookie Policy">Learn More</a></p>
+                  <!-- ngIf: !popup -->
+                  <!-- ngIf: popup -->
+              </div>
           </div>
       </div>
-  </div>
+	</div>
 
-  <section class="chat-with-support no-cookie-consent-only">
+
+
+  <section class="chat-with-support no-cookie-consent-only" style="bottom: 143px; display: block;">
       <h4><div class="ico-chat-with-support"></div> Chat with Support</h4>
       <p>You must enable cookies to use Live Chat.</p>
   </section>
 
-  <script src="/js/ga.js" id="ga_script"></script>
-
   <script>
-    window.keeper.region.updatePhone();
-    window.keeper.region.updateLanguage();
-    window.keeper.region.updateVaultLinks();
-    
-    $("body").addClass(window.keeper.whatBrowser());
-    $("body").addClass(window.keeper.whatOS());
+		window.keeper.region.updatePhone();
+		window.keeper.region.updateLanguage();
+		window.keeper.region.updateVaultLinks();
+		window.keeper.ui.addHeaderScrollFillEvent();
 
-    window.keeper.preloader.scriptQueue.push({
-        src: "/js/google-tag-manager.js",
-        id: "google-tag-manager"
-    });
+		$("body").addClass(window.keeper.whatBrowser());
+		$("body").addClass(window.keeper.whatOS());
 
-    window.keeper.loader.scriptQueue.push({
-        src: "/js/olark.js",
-        id: "olark-script",
-        callback: window.keeper.loader.configureOlark,
-    });
+		if (location.host === 'keepersecurity.com') {
+			window.keeper.preloader.scriptQueue.push({
+				src: "/js/google-tag-manager.js",
+				id: "google-tag-manager",
+				callback: function () {
+					window.keeper.hasGTMLoaded = true;
+					window.keeper.cookieConsent.sendAnalytics()
+				}
+			});
+		} else {
+			window.keeper.preloader.scriptQueue.push({
+				src: "/js/google-tag-manager-dev.js",
+				id: "google-tag-manager",
+				callback: function () {
+					window.keeper.hasGTMLoaded = true;
+					window.keeper.cookieConsent.sendAnalytics()
+				}
+			});
+		}
 
-    window.keeper.loader.scriptQueue.push({
-        src: "/js/pardot.js",
-        id: "pardot"
-    });
+		window.keeper.loader.scriptQueue.push({
+			src: "/js/olark.js",
+			id: "olark-script",
+			callback: window.keeper.loader.configureOlark,
+		});
 
-    if (window.keeper.getParams()['recaptcha'] !== 'false') {
+		window.keeper.loader.scriptQueue.push({
+			src: "/js/pardot.js",
+			id: "pardot"
+		});
 
-        window.keeper.loader.scriptQueue.push({
-            src: 'https://www.google.com/recaptcha/api.js?onload=recaptchaOnload&hl=' + window.keeper.getCurrentLanguage(),
-            id: 'recaptcha'
-        });
-        
-    }
+		if (window.keeper.getParams()['recaptcha'] !== 'false') {
 
-    window.keeper.loader.addElement('no_script', '<iframe src="//www.googletagmanager.com/ns.html?id=GTM-NVM9ZC" height="0" width="0" style="display:none;visibility:hidden"></iframe>');
-    window.keeper.loader.addElement('no_script', '<a href="https://www.olark.com/site/2842-793-10-5180/contact" title="Contact us" target="_blank">Questions? Feedback?</a> powered by <a href="http://www.olark.com?welcome" title="Olark live chat software">Olark live chat software</a>');
+			window.keeper.loader.scriptQueue.push({
+				src: 'https://www.google.com/recaptcha/api.js?onload=recaptchaOnload&hl=' + window.keeper.getCurrentLanguage(),
+				id: 'recaptcha'
+			});
 
-    if (window.keeper.storage.canStore()) {
-        window.keeper.cookieConsent.setConsent('true');
-    } else {
-        window.keeper.cookieConsent.setConsent();
-    }
+		}
 
-    $("[type='checkbox'][name='privacy']").on("change", function (event) {
-        if (this.checked) {
-            window.keeper.cookieConsent.setConsent('true');
-        }
-    });
+		window.keeper.loader.addElement('no_script', '<iframe src="//www.googletagmanager.com/ns.html?id=GTM-NVM9ZC" height="0" width="0" style="display:none;visibility:hidden"></iframe>');
+		window.keeper.loader.addElement('no_script', '<a href="https://www.olark.com/site/2842-793-10-5180/contact" title="Contact us" target="_blank">Questions? Feedback?</a> powered by <a href="http://www.olark.com?welcome" title="Olark live chat software">Olark live chat software</a>');
+
+		if (window.keeper.storage.canStore()) {
+			window.keeper.cookieConsent.setConsent('true');
+		}
+
+		$("[type='checkbox'][name='privacy']").on("change", function (event) {
+			if (this.checked) {
+				window.keeper.cookieConsent.setConsent('true');
+			}
+		});
+
+		app.factory('pricingService', function ($http) {
+			var service = {};
+
+			service.currencies = {
+				en_US: { decPlaces: 2, thouSeparator: ',', decSeparator: '.', symbol: '$', prepend: true, code: 'USD' },
+				ja_JP: { decPlaces: 0, thouSeparator: ',', decSeparator: '.', symbol: '￥', prepend: true, code: 'JPY' },
+				es_ES: { decPlaces: 2, thouSeparator: '.', decSeparator: ',', symbol: 'USD', prepend: false, code: 'USD' },
+				pt_BR: { decPlaces: 2, thouSeparator: '.', decSeparator: ',', symbol: 'US$', prepend: true, code: 'USD' },
+				de_DE: { decPlaces: 2, thouSeparator: '.', decSeparator: ',', symbol: '€', prepend: false, code: 'EUR' },
+				ru_RU: { decPlaces: 2, thouSeparator: ' ', decSeparator: ',', symbol: 'USD', prepend: false, code: 'USD' },
+				pl_PL: { decPlaces: 2, thouSeparator: ' ', decSeparator: ',', symbol: 'USD', prepend: false, code: 'USD' },
+				sk_SK: { decPlaces: 2, thouSeparator: ' ', decSeparator: ',', symbol: '€', prepend: false, code: 'EUR' },
+				en_GB: { decPlaces: 2, thouSeparator: ',', decSeparator: '.', symbol: '£', prepend: true, code: 'GBP' },
+				ko_KR: { decPlaces: 2, thouSeparator: ',', decSeparator: '.', symbol: 'USD', prepend: true, code: 'USD' },
+				it_IT: { decPlaces: 2, thouSeparator: '.', decSeparator: ',', symbol: '€', prepend: true, code: 'EUR' },
+				pt_PT: { decPlaces: 2, thouSeparator: '.', decSeparator: ',', symbol: '€', prepend: false, code: 'EUR' },
+				fr_FR: { decPlaces: 2, thouSeparator: ' ', decSeparator: ',', symbol: '€', prepend: false, code: 'EUR' },
+				el_GR: { decPlaces: 2, thouSeparator: '.', decSeparator: ',', symbol: '€', prepend: false, code: 'EUR' },
+				ro_RO: { decPlaces: 2, thouSeparator: '.', decSeparator: ',', symbol: 'USD', prepend: false, code: 'USD' },
+				zh_HK: { decPlaces: 2, thouSeparator: ',', decSeparator: '.', symbol: 'USD', prepend: true, code: 'USD' },
+				zh_CN: { decPlaces: 2, thouSeparator: ',', decSeparator: '.', symbol: 'USD', prepend: true, code: 'USD' },
+				zh_TW: { decPlaces: 2, thouSeparator: ',', decSeparator: '.', symbol: 'USD', prepend: true, code: 'USD' },
+				ar_AE: { decPlaces: 2, thouSeparator: ',', decSeparator: '.', symbol: 'USD', prepend: true, code: 'USD' },
+				nl_NL: { decPlaces: 2, thouSeparator: ',', decSeparator: '.', symbol: '€', prepend: true, code: 'EUR' },
+				iw_IL: { decPlaces: 2, thouSeparator: ',', decSeparator: '.', symbol: 'USD', prepend: true, code: 'USD' }
+			};
+
+			// Prepare Request Parameters
+			service.prepareRequest = function () {
+				var request = {
+					locale: keeper.getCurrentLocale(),
+					country: keeper.getCurrentCountry(),
+					currency: service.currencies[keeper.getCurrentLocale()].code,
+					command: 'get_product_options'
+				}
+				return request;
+			}
+
+			// Parse Response into Smaller Object
+			service.parseResponse = function (request, response, callback) {
+				var parsedData = {};
+
+				if (request.product === 'enterprise') {
+					if (request.enterpriseTierType) { // Enterprise Pricing
+						parsedData.enterpriseCost = {
+							monthlyUser: response.data.localizedCostPerUser
+						}
+					} else { // Business Pricing
+						parsedData.businessCost = {
+							monthlyUser: response.data.localizedCostPerUser
+						}
+					}
+				} else { // Personal Pricing
+
+					if (request.promoCode && response.data.promoDiscount && response.data.promoDiscount.validPromoCode) {
+						parsedData.discount = response.data.promoDiscount.discountPercentage;
+					}
+
+					parsedData.individualCost = {}
+					parsedData.individualCost.annual = response.data.availableLicenses[0].localizedCost;
+
+					parsedData.familyCost = {};
+					parsedData.familyCost.annual = response.data.availableLicenses[1].localizedCost;
+				}
+				callback(parsedData);
+			}
+
+			// Hit Checkout API for Product Options
+			service.getPricingOptions = function (request, callback) {
+				$http.post('/checkout_api_web', request).then(function (response) {
+					if (response.error) {
+						console.log(response.error);
+						return;
+					}
+					service.parseResponse(request, response, callback);
+				}).catch(function (error) {
+					console.error(error);
+				});
+			}
+
+			// Get Enterprise Pricing
+			service.getEnterprisePricing = function (options, callback) {
+				var request = service.prepareRequest();
+				request.product = "enterprise";
+				request.enterpriseTierType = true;
+				$.extend(request, options);
+
+				service.getPricingOptions(request, callback);
+			}
+
+			// Get Personal Pricing
+			service.getPersonalPricing = function (options, callback) {
+				var request = service.prepareRequest();
+				$.extend(request, options);
+
+				service.getPricingOptions(request, callback);
+			}
+
+			// Get Business Pricing
+			service.getBusinessPricing = function (options, callback) {
+				var request = service.prepareRequest();
+				request.product = "enterprise";
+				request.enterpriseTierType = false;
+				$.extend(request, options);
+
+				service.getPricingOptions(request, callback);
+			}
+
+			// Format Price Based on Locale
+			service.getLocalePricingFormat = function (stringTemplate, price, symbol, currency) {
+				stringTemplate = stringTemplate.replace("XXX,YYY", price);
+				stringTemplate = stringTemplate.replace("XXX.YYY", price);
+				stringTemplate = stringTemplate.replace("SSS", symbol);
+				stringTemplate = stringTemplate.replace("CCC", currency);
+				stringTemplate = stringTemplate.replace("ZZZ", currency + symbol);
+				return stringTemplate;
+			}
+
+			return service;
+		});
+
+		app.factory('recaptchaService', function () {
+			var service = {};
+
+			// todo
+
+			return service;
+		});
+
+		//////////////////////////////////////////////////////////////////////////////////// Main/Root Controller
+
+		app.controller("MainCntrl", ['$scope', '$http', function ($scope, $http) {
+
+			$scope.changeLocale = function (event) {
+				var new_url;
+				var path = window.location.pathname.split('/');
+				var target = $(event.target);
+				var locale = target.attr('data-locale');
+
+				if (!window.location.origin) { // Some browsers (mainly IE) does not have this property, so we need to build it manually...
+					window.location.origin = window.location.protocol + '//' + window.location.hostname + (window.location.port ? (':' + window.location.port) : '');
+				}
+
+				if (path[1] === 'dist' && /\D\D_\D\D/.test(path[2])) {
+					new_url = window.location.origin + '/dist/' + locale + '/' + path.slice(3).join('/');
+				} else if (path[1] === 'dist') {
+					new_url = window.location.origin + '/dist/' + locale + '/' + path.slice(2).join('/');
+				} else if (/\D\D_\D\D/.test(path[1])) {
+					new_url = window.location.origin + '/' + locale + '/' + path.slice(2).join('/');
+				} else {
+					new_url = window.location.origin + '/' + locale + '/' + path.slice(1).join('/');
+				}
+
+				if (locale === 'en_US') {
+					localStorage["keeper_locale"] = "en_US";
+					localStorage["keeper_lang"] = "en";
+				}
+
+				window.location = new_url + window.location.hash + window.location.search;
+			}
+
+			$scope.registerEventListeners = function () {
+
+				$('.list-languages li').on('click', function (event) {
+					$scope.changeLocale(event);
+				});
+
+				$('.popup-close').on('click', function (event) {
+					event.preventDefault();
+					$(this).parents('dropdown').removeClass('open');
+				});
+
+			}
+
+			$scope.registerEventListeners();
+		}]);
+
+		app.controller('popupConsentCntrl', ['$scope', '$http', function ($scope, $http) {
+
+			$scope.popup = true; // default state (true = "Cookie Preferences" | false = "Withdraw")
+
+			$('.main').append('<a id="cookie_onload_popup" class="mobile-only" href="#" data-toggle="modal" data-target="#cookie-consent-popup" hidden></a>');
+
+			var onloadPopup = $('#cookie_onload_popup');
+
+			$scope.giveConsent = function (type) {
+				if (type === 'popup') {
+					$('#cookie-consent-popup').modal('hide');
+					$('#cookie-consent-popup').css('display', 'none');
+					$scope.popup = false;
+				}
+
+				if (type === 'banner') {
+					$scope.popup = false;
+				}
+			}
+
+			$scope.removeConsent = function () {
+				window.keeper.cookieConsent.setConsent('false');
+				setTimeout(function (event) {
+					localStorage['keeper_cookie_consent'] = 'false';
+				}, 1000);
+			}
+
+			window.keeper.triggerpopup = function(){
+
+				if (!window.matchMedia("(min-width: 768px)").matches) {
+						$scope.popup = true;
+						$("#cookie_onload_popup").trigger("click");
+						return;
+					}
+
+					var shouldShowDropdown = ($(".main").attr("page-type") === "b2b");
+					if (shouldShowDropdown === true) {
+						$("body").addClass("no-cookie-consent-banner");
+						$scope.popup = true;
+						$("#cookie_onload_popup").trigger("click");
+					} else {
+						window.keeper.cookieConsent.setConsent();
+					}
+
+			}
+
+
+			if (localStorage['keeper_cookie_consent'] === undefined) {
+				if (!window.keeper.storage.canStore()) {
+					if(window.keeper.isUserFromUS  !==  null){
+						window.keeper.triggerpopup();
+					}
+				} else {
+					$scope.popup = false;
+				}
+			} else if (localStorage['keeper_cookie_consent'] === 'false') {
+				var shouldShowDropdown = ($(".main").attr("page-type") === "b2b");
+				if (shouldShowDropdown === true) {
+					$("#cookie_onload_popup").trigger("click");
+				}
+			} else if (localStorage['keeper_cookie_consent'] === 'true') {
+				$scope.popup = false;
+			}
+		}]);
+
   </script>
 
-  <script>
-    app.controller("main_controller", ['$scope', '$http', function ($scope, $http) {
-
-          var onloadPopup = $('#cookie_onload_popup');
-
-          if (onloadPopup.length > 0) {
-              if (!window.keeper.storage.canStore()) {
-                  $("body").addClass("no-cookie-consent-banner");
-                  $scope.popup = true;
-                  $("#cookie_onload_popup").trigger("click");
-              } else {
-                  $scope.popup = false;
-              }
-          }
-
-          $scope.giveConsent = function () {
-              $('#cookie-consent-popup').modal('hide');
-              $scope.popup = false;
-          }
-      }]);
-  </script>
 
 </body></html>
