@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hse.gov.uk privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604171852id_/http%3A//www.hse.gov.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hse.gov.uk privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228120400id_/http%3A//www.hse.gov.uk/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
@@ -31,9 +31,11 @@ We also sometimes use other organisations to process personal data on our behalf
 
 Research is also undertaken to help meet HSE's business objectives and we may use your information to help us improve our understanding of health and safety risks and how to control them. The data will not be used in relation to decisions that affect individuals. 
 
+There will be other circumstances where we may share your data with third parties who are not a government department or regulatory organisation, for example when you have raised a concern about an organisation but will only do so with your consent.
+
 ## How do we protect your information and how long do we keep it?
 
-We publish a [disposal policy ](https://web.archive.org/web/20180604171852id_/http%3A//www.hse.gov.uk/foi/busclasschem.pdf "PDF")[1] (known as the Business Classification Scheme) which explains how long we keep different types of records and documents for, including records and documents containing personal data. Personal data is deleted or securely destroyed at the end of the disposal period.
+We publish a [disposal policy](https://web.archive.org/web/20181228120400id_/http%3A//www.hse.gov.uk/foi/busclasschem.pdf) (known as the Business Classification Scheme) which explains how long we keep different types of records and documents for, including records and documents containing personal data. Personal data is deleted or securely destroyed at the end of the disposal period.
 
 ## Access to your information and correction
 
@@ -50,7 +52,7 @@ We may ask you for proof of identity. Pease be aware that if we are processing y
 
 ## Cookies and log files
 
-HSE.GOV.UK puts small files (known as ‘cookies’) onto your computer to collect information about how you browse the site. Find out [how HSE uses cookies](https://web.archive.org/web/20180604171852id_/http%3A//www.hse.gov.uk/privacy-cookies.htm)[2].  
+HSE.GOV.UK puts small files (known as ‘cookies’) onto your computer to collect information about how you browse the site. Find out [how HSE uses cookies](https://web.archive.org/web/20181228120400id_/http%3A//www.hse.gov.uk/privacy-cookies.htm).  
 Cookies are used to:
 
   * Measure how you use the website so it can be updated and improved based on your needs;
@@ -58,7 +60,7 @@ Cookies are used to:
 
 
 
-Find out more about [how to manage cookies ](https://ico.org.uk/for-the-public/online/cookies/)[3].
+Find out more about [how to manage cookies](https://ico.org.uk/for-the-public/online/cookies/).
 
 ## What happens when I link to another site?
 
@@ -78,15 +80,4 @@ You can contact HSE’s Data Protection Officer via the following email address 
 
 
 If you feel that your data has not been handled correctly, or you are unhappy with our response to any requests you have made to us regarding the use of your personal data, you have the right to complain to the Information Commissioner’s Office.  
-You can go online to [www.ico.org.uk/concerns ](http://www.ico.org.uk/concerns)[4] or by calling 0303 123 1113.
-
-  1. disposal policy  
-https://web.archive.org/web/20180604171852id_/http%3A//www.hse.gov.uk/foi/busclasschem.pdf
-  2. how HSE uses cookies  
-https://web.archive.org/web/20180604171852id_/http%3A//www.hse.gov.uk/privacy-cookies.htm
-  3. how to manage cookies  
-https://ico.org.uk/for-the-public/online/cookies/
-  4. www.ico.org.uk/concerns  
-http://www.ico.org.uk/concerns
-
-
+You can go online to [www.ico.org.uk/concerns](http://www.ico.org.uk/concerns) or by calling 0303 123 1113.
