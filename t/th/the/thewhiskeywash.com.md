@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thewhiskeywash.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627220205id_/https%3A//thewhiskeywash.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewhiskeywash.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228044653id_/https%3A//thewhiskeywash.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Whiskey Wash
 
@@ -36,7 +36,7 @@ c. Push Notifications. We may request to send you push notifications regarding y
 
 d. Information Collected from Other Sources. We may collect limited information from public databases, marketing partners, social media platforms, and other outside sources, such as public databases, joint marketing partners, social media platforms such as Facebook, and from other sources. Examples of information we may receive from other sources include: social media profile information (your name, gender, birthday, email, current city, state, and country, user identification numbers for your contacts, your profile picture URL, and any other information that you choose to make public); marketing leads, search results, and links, including paid listings such as sponsored links.
 
- **2\. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?**
+**2\. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?**
 
 2.1. What are cookies? Cookies are small pieces of text sent by your web browser by a website you visit. A cookie file is stored in your web browser and allows our Site to recognize you and make your next visit easier and our Site more useful to you.
 
@@ -46,11 +46,11 @@ d. Information Collected from Other Sources. We may collect limited information 
 
 2.4. Where can you find more information about cookies? You can learn more about cookies and opt-out of interest-based advertising by advertisers on our Site at: the following third-party websites:
 
-a. Digital Advertising Alliance: http://www.aboutads.info/choices/
+a. Digital Advertising Alliance: <http://www.aboutads.info/choices/>
 
-b. Network Advertising Initiative: http://www.networkadvertising.org/
+b. Network Advertising Initiative: <http://www.networkadvertising.org/>
 
- **3\. HOW DO WE USE YOUR INFORMATION?**
+**3\. HOW DO WE USE YOUR INFORMATION?**
 
 3.1. We may use the personal information we collect or receive:
 
@@ -68,7 +68,7 @@ f. Where we have a legal right or duty to use or disclose your information. We m
 
 g. To contact you about promotional offers and products and services that we think may interest you. With your consent, we may use your personal information to develop and display content, advertising, and other communications tailored to your interests and/or location and to measure their effectiveness. You can opt–out of our marketing emails at any time. Please see Section 10 (“What are Your Privacy Rights”) below for more information.
 
- **4\. WILL YOUR INFORMATION BE SHARED WITH ANYONE?**
+**4\. WILL YOUR INFORMATION BE SHARED WITH ANYONE?**
 
 4.1. We share and disclose your information only in the following situations:
 
@@ -78,15 +78,15 @@ b. Vital interests and legal rights. We may disclose your personal information w
 
 c. Third-party service providers. We may disclose your personal information to third-party vendors, service providers, contractors, or agents with whom we work to deliver the best possible online experience. This may occur, for example, to process payments, analyze and track data, determine the popularity of certain content, enable e-mail delivery or hosting services, or improve customer service efforts. Unless described elsewhere in this Privacy Policy, we will not share, sell, rent, or trade any of your personal information with third parties for their promotional purposes. We encourage you to familiarize yourself with the privacy policies of technology providers who may assist us by following the links below:
 
-i. https://policies.google.com/privacy?hl=en
+i. <https://policies.google.com/privacy?hl=en>
 
-ii. http://mailchimp.com/legal/privacy/
+ii. <http://mailchimp.com/legal/privacy/>
 
 d. Business transfers. We may disclose your personal information in connection with any transfer of our company or its assets to another company. This may occur in connection with a merger, sale, financing, or acquisition of all or a portion of our business, or with related negotiations.
 
 e. With your consent. We may disclose your personal information for any other purpose with your consent.
 
- **5\. HOW DO WE HANDLE YOUR SOCIAL LOGINS?**
+**5\. HOW DO WE HANDLE YOUR SOCIAL LOGINS?**
 
 5.1. If you choose to register or log into our Site using a social media account, we may have access to certain information about you.
 
@@ -94,26 +94,26 @@ e. With your consent. We may disclose your personal information for any other pu
 
 5.3. We will use the information we receive only for the purposes that are described in this Privacy Policy. We do not control other uses of your personal information by your third-party social media provider, and we are not responsible for their uses of your personal information. We recommend that you review their privacy policies to understand how they collect, use, and share your personal information and how you can set your privacy preferences on their sites and apps.
 
- **6\. WHAT IS OUR POSITION ON THIRD-PARTY ADVERTISING?**
+**6\. WHAT IS OUR POSITION ON THIRD-PARTY ADVERTISING?**
 
 6.1. We are not responsible for the safety of any information that you share with third-party providers who may advertise on our Site.
 
 6.2. Our Site may contain advertisements from third parties that may link to other websites, online services, or mobile applications. We are not responsible for the content or privacy and security practices of any third parties, including other websites, online services, or mobile applications that may be linked to or from our Site. We cannot guarantee the safety and privacy of information that you provide to any third parties, and this Privacy Policy does not apply to any information that third parties may collect from you. We recommend that you review the privacy policies of such third parties and contact them directly to respond to any questions that you may have about their privacy practices.
 
- **7\. HOW LONG DO WE KEEP YOUR INFORMATION?**
+**7\. HOW LONG DO WE KEEP YOUR INFORMATION?**
 
 7.1. We keep your personal information for only as long as is necessary for the purposes set out in this Privacy Policy, unless a longer retention period is required or permitted by law (such as tax, accounting, or other legal requirements) as described in Section 10 (“What are Your Privacy Rights?”). When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize it, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
 
- **8\. HOW DO WE KEEP YOUR INFORMATION SAFE?**  
+**8\. HOW DO WE KEEP YOUR INFORMATION SAFE?**  
 8.1. We have implemented appropriate technical and organizational security measures to protect the security of any personal information we process. We cannot, however, guarantee that the Internet is 100% secure. Please remember that although we will do our best to protect your personal information, transmission of personal information to and from our Site is at your own risk. We recommend that you access our Site and use our services only within a secure environment.
 
- **9\. DO WE COLLECT INFORMATION FROM MINORS?**
+**9\. DO WE COLLECT INFORMATION FROM MINORS?**
 
 9.1. We do not knowingly solicit information from or market to children under 18 years of age. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate any account involved and take reasonable measures to properly delete such information from our records. If you become aware of any information we may have collected from any child under age 18, please contact us using the details below in Section 13 (“How Can You Contact Us About This Policy?”).
 
 9.2. By using our Site, you represent that you are at least 18 years of age or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of our Site. We do not permit anyone under the age of 21 to receive our e-mails.
 
- **10\. WHAT ARE YOUR PRIVACY RIGHTS?**
+**10\. WHAT ARE YOUR PRIVACY RIGHTS?**
 
 10.1. You may review, change, or terminate your account at any time.
 
@@ -129,7 +129,7 @@ b. Contact us using the details below in Section 13 (“How Can You Contact Us A
 
 10.5. Opting Out of E-Mail Marketing. You may opt-out of e-mail marketing when you register an account, access your account settings, and update your preferences. You may also unsubscribe from our marketing e-mail list at any time by clicking on the unsubscribe link in the e-mails that we send or by contacting us using the details below in Section 13 (“How Can You Contact Us About This Policy?”). We will then remove you from our marketing e-mail list. We will, however, still need to send you service-related e-mails necessary for the administration and use of your account.
 
- **11\. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?**
+**11\. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?**
 
 11.1. Notice to California Residents – Your California Privacy Rights. Under California Civil Code Section 1798.83 (the “Shine the Light” law), users who are California residents may request certain information about our disclosure of personal information during the prior calendar year to third parties for their direct marketing purposes.
 
@@ -137,10 +137,10 @@ b. Contact us using the details below in Section 13 (“How Can You Contact Us A
 
 11.3. If you are a California resident and would like to make such a request, please submit your request in writing to us using the details below in Section 13 (“How Can You Contact Us About This Policy?”).
 
- **12\. DO WE UPDATE THIS PRIVACY POLICY?**
+**12\. DO WE UPDATE THIS PRIVACY POLICY?**
 
 12.1. We will update this policy as necessary to comply with relevant laws. The updated version will be indicated by an updated “Revised” date, and the updated version will be effective as soon as it is accessible. If we make material changes to this Privacy Policy, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this Privacy Policy frequently to be informed of how we protect and use your personal information.
 
- **13\. HOW CAN YOU CONTACT US ABOUT THIS PRIVACY POLICY?**
+**13\. HOW CAN YOU CONTACT US ABOUT THIS PRIVACY POLICY?**
 
 13.1. If you have questions or comments about this policy, please contact our Data Protection Officer (“DPO”) by email at Privacy@TheWhiskeyWash.com or phone at (503) 683-3765. You may also write to us at The Whiskey Wash LLC., ATTN: Data Protection Officer, 1631 NE Broadway, Suite 109, Portland, OR 97232.
