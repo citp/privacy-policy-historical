@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justrentals.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628104702id_/https%3A//www.justproperty.com/en/information/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justrentals.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228164529id_/https%3A//www.justproperty.com/en/information/policy) for the most accurate reproduction.*
 
 # Privacy Policy Statement | Justproperty.Com | JustProperty.com
 
