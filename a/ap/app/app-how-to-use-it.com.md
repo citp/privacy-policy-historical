@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the app-how-to-use-it.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622092918id_/http%3A//www.app-how-to-use-it.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the app-how-to-use-it.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228124729id_/http%3A//www.app-how-to-use-it.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – App How To Use It
 
@@ -40,7 +40,13 @@ _Some of our advertising partners may use cookies and web beacons on our site. O
 _While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here:[Privacy Policies](http://www.privacypolicyonline.com/privacy-policies).  
 You may consult this listing to find the privacy policy for each of the advertising partners of http://www.app-how-to-use-it.com._
 
-.
+Your ads will be inserted here by
+
+ **Easy Plugin for AdSense**.
+
+Please go to the plugin admin page to  
+ _Paste your ad code_ OR  
+_Suppress this ad slot_.
 
 _These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on http://www.app-how-to-use-it.com and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site._
 
