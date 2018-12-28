@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keepersecurity.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627195242id_/https%3A//keepersecurity.com/en_US/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keepersecurity.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228024937id_/https%3A//keepersecurity.com/en_US/privacypolicy.html) for the most accurate reproduction.*
 
 # Keeper - Privacy Policy
 
@@ -69,7 +69,7 @@ Other than as disclosed in this Privacy Policy, at no time will Keeper Security 
 
 Keeper Security will be permitted to display an active customers' corporate logo on its website for the purpose of promoting both the customer and Keeper Security. 
 
-Keeper Security utilizes a system called KeeperFill™ which allows you to auto-fill login credentials across mobile apps and browsers. When Keeper is preloaded on OEM devices, KeeperFill is automatically enabled to utilize the device's accessibility and input method services to identify mobile apps and websites which require login credentials. As disclosed in the Security Disclosure at [https://keepersecurity.com/security.html](https://web.archive.org/security.html), Keeper is a zero-knowledge security platform. As such, Keeper Security cannot access, track or view the activity of KeeperFill or your Keeper records. KeeperFill can be disabled at any time by visiting the accessibility settings screen of your device. 
+Keeper Security utilizes a system called KeeperFill™ which allows you to autofill login credentials across mobile apps and browsers. When Keeper is preloaded on OEM devices, KeeperFill is automatically enabled to utilize the device's accessibility and input method services to identify mobile apps and websites which require login credentials. As disclosed in the Security Disclosure at [https://keepersecurity.com/security.html](https://web.archive.org/security.html), Keeper is a zero-knowledge security platform. As such, Keeper Security cannot access, track or view the activity of KeeperFill or your Keeper records. KeeperFill can be disabled at any time by visiting the accessibility settings screen of your device. 
 
 ### Cookies/Tracking Technologies
 
