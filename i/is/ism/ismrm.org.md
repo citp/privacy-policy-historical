@@ -1,60 +1,57 @@
-> *The following text is extracted and transformed from the ismrm.org privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910055825id_/https%3A//www.ismrm.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ismrm.org privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228134259id_/https%3A//www.ismrm.org/about/privacy) for the most accurate reproduction.*
 
-# ISMRM - Refund, Return and Privacy Policies
+# ISMRM - Privacy Policy
 
-**Privacy:**
+## **Personal Information Collection and Use**
 
-When you browse, read pages, complete forms or download information on our website, we automatically gather and store certain technical information about your visit. This information never identifies who you are. The information we collect and store about your visit is listed below:
+We collect the minimal amount of personal information necessary for us to provide services and continually design new services for your future needs. The ISMRM will not sell, trade, rent or disclose personal information gathered about you to third parties. The only exceptions to this rule are when we work with third party businesses, partners or agents to develop a relationship with you or to provide products or services (as further detailed below), or as may be required by subpoena, search warrant or other legal processes or in case of imminent physical harm to you or others. We require that all applicable third party businesses, partners, or agents adhere to our policies regarding the use and protection of your personal information.
 
-This information is only used to help us make the site more useful for you. With this data we learn about the number of visitors to our site and the types of technology our visitors use. We never track or record information about individuals and their visits.
+## **Privacy**
 
-The Internet domain (for example, “xcompany.com” if you use a private Internet access account, or “yourschool.edu” if you connect from a university’s domain) and IP address (an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web) from which you access our website;
+When you browse, read pages or download information on our website, we automatically gather and store certain technical information about your visit. This information never identifies you. The information we collect and store about your visit is only used to help us make the site more useful for you and for us to learn about the number of visitors to our site and the types of technology our visitors use. We never track or record personal information about individuals and their visits. Data collection is limited to the following:
 
-The type of browser (e.g., Firefox, Internet Explorer) and operating system (Windows, Unix) used to access our site;
+  * The type of browser, operating system and region (where you live) used to access our site; and
+  * The date and time you access our site.
 
-The date and time you access our site; and
 
-The pages you visit.
 
-**Enduring Internet Education Privacy and Confidentiality –  Privacy and Sponsorship Policy: **
+## **When You Visit our Site**
+
+When you visit our site and click on a link, you may be directed to one of our partners/vendors websites, which includes but is not limited to:
+
+  * ACGI (Membership Database)
+  * MIRA Smart (Abstract Submissions)
+  * Wiley Online Library (Journals)
+  * ISMRM Mobile App
+
+
+
+On any of these sites/apps above, you will be asked to submit identifying information (such as Name, Email, Academic Institution, and Gender) that is required for membership, abstract submissions and volunteer forms. This information is used for internal reasons only and is never shared without your consent.
+
+  * We do not share this information with any outside vendors or exhibitors without your consent or knowledge. You are required to voluntarily **Opt In** to partake in any special registration and/or member lists.
+
+
+
+## **E-mails**
+
+The ISMRM may use e-mail to communicate to our customers and prospects, respond to requests, provide support, and inform you of upcoming or society related events and news. All emails of this nature will include an “unsubscribe” option and will comply with all applicable laws. However, we will not send email correspondence upon our receipt of your request not to receive such correspondence.
+
+## **Enduring Internet Education Privacy and Confidentiality – Privacy and Sponsorship Policy**
 
 The ISMRM has created this statement to demonstrate our firm commitment to privacy. The ISMRM is the sole owner of the information collected and presented on this site. We will not sell, share, or rent your information to any third party, without your permission. We collect information from our users at several different points on our website.
 
-ACCME Compliance  
-The Education Department shall adhere to the policy framework of online internet activities or enduring material as defined by the Accreditation Council for Continuing Medical Education. A full description of these policies may be found at the following web addresses:
+## **Links**
 
-[The ACCME’s Essential Areas and Their Elements](http://www.accme.org/requirements/accreditation-requirements-cme-providers/accreditation-criteria)
+This website may contain links to other websites. We are not responsible for the privacy practices of other sites. We encourage our users to be aware when they leave our site and to read the privacy statement of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this website.
 
-[ACCME Policies](http://www.accme.org/requirements/accreditation-requirements-cme-providers/policies-and-definitions)
+## **Security**
 
-1\. CME activities delivered via the internet are expected to comply with ACCME Essential Areas, Elements and Policies.  
-2\. There shall be no CME activities of an ACCME-accredited provider on a pharmaceutical or device manufacturer’s product website.  
-3\. Learners will be clearly notified that they are leaving the educational website when links from the website lead to pharmaceutical and device manufacturers’ product websites. In addition, links may exist before or after the educational content of a CME activity, but shall not be embedded in the educational content of a CME activity.  
-4\. Advertising of any type is prohibited within the educational content of CME activities on the internet including, but not limited to, banner ads, subliminal ads, and pop-up window ads.  
-5\. At the start of each internet CME activity, the hardware and software required for the learner to participate will be identified.  
-6\. There will be a mechanism in place for the learner to contact the CME provider with questions about the internet CME activity.  
-7\. The Education Department will adhere to and inform the learner of its policy on privacy and confidentiality related to the online CME activity.  
-8\. Documentation will be provided upon request that the Continuing Medical Education Department owns the copyright for, has received permission to use, or is otherwise permitted to use copyrighted materials within a CME activity on the internet.
-
-Links  
-This website may contain links to other websites. Please be aware that we are not responsible for the privacy practices of other sites. We encourage our users to be aware when they leave our site and to read the privacy statement of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this website.
-
-Security  
 This site has security measures in place to prevent the loss, misuse and alteration of the information under our control. There is no transmission of patient information on this website and therefore no implications to regulation by the Health Care Financing Administration (HCFA) and HIPAA are applicable.
 
-Notification of Changes  
-If we decide to change our privacy policy, we will post those changes to this website so our users are always aware of what information we collect, how we use it, and under which circumstances, if any, that we disclose this information. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, users shall be notified by email. Users will have a choice as to whether or not to permit use of their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
+## **Notification of Changes**
 
-Contacting the Website  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, please contact [info@ismrm.org](mailto:info@ismrm.org)
+If we decide to change our privacy policy, we will post those changes to this website so our users are always aware of what information we collect, and how we use it.
 
-Legal Disclaimer  
-Though we make every effort to preserve your privacy, we may need to disclose personal information when required by law or in the good-faith belief that such action is necessary in order to comply with the edicts of the law or comply with a legal process served on our website.
+## **Contacting the Website**
 
-**Refunds & Returns:**
-
-The ISMRM offers no returns or refunds on items purchased through our bookstore. All sales are final.
-
-Dues subscriptions and payments are not refundable.
-
-Meeting and Workshop Registrations will be refunded in accordance with the cancellation policy of the meeting and/or workshop, as outlined on their respective registration pages.
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, please contact [info@ismrm.org](mailto:info@ismrm.org).
