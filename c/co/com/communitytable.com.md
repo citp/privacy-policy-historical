@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the communitytable.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628014153id_/https%3A//communitytable.parade.com/privacy-policy/%23privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the communitytable.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228080845id_/https%3A//communitytable.parade.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -72,7 +72,7 @@ In each case, we may use third‐party e‐mail providers to deliver these commu
 
  _ZergNet_.  7hops.com, Inc., doing business as ZergNet, is used in contextual advertising, such as ad and article recommendations and sponsored links.  ZergNet’s privacy policy can be found at <https://www.zergnet.com/privacy>.
 
- _AddThis_.  AddThis is a social bookmarking service that can be used for advertising analysis and integrated into a website with the use of a web widget.  You can view AddThis’ privacy policy at <http://www.addthis.com/privacy>.
+ _AddThis_.  AddThis is a social bookmarking service that can be used for advertising analysis and integrated into a website with the use of a web widget.  You can view AddThis’ privacy policy at [http://www.addthis.com/privacy](https://www.addthis.com/privacy).
 
  _Quantcast_. Quantcast specializes in AI-driven real-time advertising audience feedback and measurement.  By placing tags on websites, blogs, videos and widgets, the firm measures metrics such as audience age and gender makeup, areas of interest and type, length and frequency of their engagement with certain types of content.  Quantcast’s privacy policy can be reviewed at <https://www.quantcast.com/privacy/>.
 
