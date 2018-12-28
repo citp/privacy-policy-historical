@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the vuze.com privacy policy that was archived on 2018-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180621160133id_/http%3A//www.vuze.com/corp/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vuze.com privacy policy that was archived on 2018-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181228090717id_/http%3A//www.vuze.com/corp/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd"><html><head>
     <title>Vuze - Privacy</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="google-site-verification" content="UqdNJWkJuotyz8MTQp3HFlBsOnkUv54zS5epA_PJ6IM">
@@ -32,7 +32,7 @@
 	<link rel="stylesheet" href="/css/new/style.css" type="text/css">
         <link rel="SHORTCUT ICON" href="/favicon.ico">
     <script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>function getHtmlEncodedSourceRef() {
-    	return "";
+    	return "/plus/purchase";
     }</script>
     <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/prototype/1.7.0.0/prototype.js"></script>
     <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/scriptaculous/1.9.0/effects.js"></script>
@@ -89,7 +89,7 @@ function toggleMsg(){
     </div>
 </div>
 <div id="header">	
-	<div itemscope="" itemtype="http://schema.org/Organization">
+	<div itemscope="" itemtype="https://schema.org/Organization">
 		<a itemprop="url" href="//www.vuze.com" id="vzLogo">
 			<img itemprop="logo" src="//cf2.vuze.com/img/vuze-bittorrent-client-logo.png">	
 		</a>
@@ -107,23 +107,55 @@ function toggleMsg(){
 		<li><a href="/">Home</a></li>	
 				<li><a href="/download.php" onclick="javascript: _gaq.push(['_trackPageview', '/clicks/DownloadCoreNavbarWin']); ga('send', 'pageview', '/clicks/vuze-core-download-conversion');">Free Download</a></li>
 						<li class="products"><a href="/compare.php" onclick="javascript: _gaq.push(['_trackPageview', '/clicks/PlusLinkNavbarWin']); ga('send', 'pageview', '/clicks/vuze-plus-link-conversion');">Vuze Plus</a></li>
-				<!-- <li><a href="http://twitter.com/vuze" target="new">&hearts; Tweets</a></li> -->
+				<!-- <li><a href="https://twitter.com/vuze" target="new">&hearts; Tweets</a></li> -->
 		<li><a href="/support">Support</a></li>		
+				<li>
+        <a class="dl_btn" id="dl_link0" href="/download.php" vzsource="header">
+    <span class="dl_btn_text" id="dl_btn_text0"></span>
+</a>
+
+    <script type="text/javascript">
+
+    var downloadButtonsTracker = new GAEventTracker("DownloadVuzeButtons")
+    
+    Event.observe(document, 'dom:loaded', function() {
+
+        var buttonTracker = downloadButtonsTracker;
+
+        $$( 'span.dl_btn_text').invoke('update', 'Version 5.7 (Windows)');
+
+        $$("a.dl_btn")
+                .invoke('observe', 'click',
+                    installerTracker.track.bind(installerTracker,{action:"/plus/purchase",label:"Windows"}) )
+                .invoke('observe', 'click', function(event){
+                    var element = event.findElement('A');
+                    buttonTracker.track({action: "click",label: element.readAttribute("vzsource")})
+                })
+
+        buttonTracker.track({action: "impression",label: "header"})
+
+        
+    });
+            
+    if(typeof log4js != "undefined") log4js.debug("referrer: " + "")
+    if(typeof log4js != "undefined") log4js.debug("domain: " + "")
+</script>
+    		</li>
 			</ul>
 	<div class="demo">
 	
 	</div>
 </div>
 <div class="header-sale">
-<div id="buyBanner" style="background-image: url(&quot;http://cf2.vuze.com/img/plus/201806/fd-big-anim.gif&quot;);"><a href="https://www.vuze.com/trk/promo.php?id=1806_house&amp;buy=1&amp;autorenew=1&amp;autosubmit=1" onclick="javascript:_gaq.push(['_trackPageview', '/trk/promo']);" id="buy-butn"><!-- Buy --></a><span class="autorenewbox"><input class="autorenewchk" type="checkbox" id="check" checked="checked" onclick="check()">auto-renew</span></div>
+<div id="buyBanner" style="background-image: url(&quot;-anim.gif&quot;);"><a href="https://www.vuze.com/trk/promo.php?id=_house&amp;buy=1&amp;autorenew=1&amp;autosubmit=1" onclick="javascript:_gaq.push(['_trackPageview', '/trk/promo']);" id="buy-butn"><!-- Buy --></a><span class="autorenewbox"><input class="autorenewchk" type="checkbox" id="check" checked="checked" onclick="check()">auto-renew</span></div>
 <script type="text/javascript">
     function check() {
         if(document.getElementById("check").checked) {
-            document.getElementById("buy-butn").href = "https://www.vuze.com/trk/promo.php?id=1806_house&buy=1&autorenew=1&autosubmit=1";
-			document.getElementById("buyBanner").style.backgroundImage = 'url(http://cf2.vuze.com/img/plus/201806/fd-big-anim.gif)';
+            document.getElementById("buy-butn").href = "https://www.vuze.com/trk/promo.php?id=_house&buy=1&autorenew=1&autosubmit=1";
+			document.getElementById("buyBanner").style.backgroundImage = 'url(-anim.gif)';
         } else {
-            document.getElementById("buy-butn").href = "https://www.vuze.com/trk/promo.php?id=1806_house&buy=1&autosubmit=1";
-			document.getElementById("buyBanner").style.backgroundImage = 'url(http://cf2.vuze.com/img/plus/201806/fd-big-static.gif)';
+            document.getElementById("buy-butn").href = "https://www.vuze.com/trk/promo.php?id=_house&buy=1&autosubmit=1";
+			document.getElementById("buyBanner").style.backgroundImage = 'url(-static.gif)';
         }
     }
     check();
@@ -263,8 +295,8 @@ Incline Village, NV 89451 <br><br>
 			<a href="https://blog.vuze.com/2015/08/06/proxygambit-a-privacy-device-with-promise/" title="ProxyGambit – A Privacy Device With Promise">ProxyGambit – A Privacy Device With Promise</a><a href="https://blog.vuze.com/2015/08/04/mini-heatwave-music-bundle-from-bands-under-the-radar-has-arrived/" title="Mini-Heatwave Music Bundle From Bands Under The Radar Has Arrived">Mini-Heatwave Music Bundle From Bands Under The Radar Has Arrived</a><a href="https://blog.vuze.com/2015/08/03/get-involved-with-imaginary-open-mathematics-project/" title="Get Involved With Imaginary – Open Mathematics Project">Get Involved With Imaginary – Open Mathematics Project</a><a href="https://blog.vuze.com/2015/07/30/the-poetry-archive-live-readings-of-poetry-more/" title="The Poetry Archive, Live Readings Of Poetry &amp; More">The Poetry Archive, Live Readings Of Poetry &amp; More</a><a href="https://blog.vuze.com/2015/07/29/best-data-recovery-software-for-pc/" title="Best Data Recovery Software for PC">Best Data Recovery Software for PC</a>        </li>
         <li id="keepintouch">
             <em>Keep in Touch</em>
-            <a href="http://twitter.com/vuze" class="twitter">Follow Us</a>
-            <a href="http://www.facebook.com/VuzeBittorrentClient" class="fbook">Become a Fan</a>
+            <a href="https://twitter.com/vuze" class="twitter">Follow Us</a>
+            <a href="https://www.facebook.com/VuzeBittorrentClient" class="fbook">Become a Fan</a>
 						<a href="https://plus.google.com/102216466254692772738" rel="publisher" class="gplus">Follow on Google+</a>
             <g:plusone size="small" href="/"></g:plusone>
        </li>
