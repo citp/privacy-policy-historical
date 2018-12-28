@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nakedwines.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628123634id_/https%3A//www.nakedwines.com/terms%23privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nakedwines.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228182717id_/https%3A//www.nakedwines.com/terms%23privacy-policy) for the most accurate reproduction.*
 
 # Terms and conditions | Naked Wines
 
@@ -124,20 +124,20 @@ For a full list of Q and As, please [click here](https://web.archive.org/help#ma
   5. If you've changed your mind, you can cancel your order - and we'll give you your £10 deposit back.
   6. Our standard money-back guarantee also applies i.e. we'll give you a refund if you don't love the wine.
   7. Please note that when we ship you your case, we cannot add any additional bottles, including your free monthly sample.
-  8. Delivery charges are standard i.e. free to most UK postcodes if the wine is £80 or more.
+  8. Delivery charges are standard i.e. free to most UK postcodes if the wine is £100 or more.
 
 
 
 #### Text For Wine
 
   1. As of the start of August 2015, we've introduced a new service where customers can order wine via text message!
-  2. This service will run from 9am to 7pm Monday to Friday and 9am till 1pm on Saturday - and we'll aim to reply to all texts within 20 minutes.
+  2. This service will runs (Mon-Fri 9am-5:30pm, Sat 9am-1pm) \- and we'll aim to reply to all texts within 20 minutes.
   3. To use this service, you have to register with Naked Wines (including address and card details) and you need to opt-in, which you can do so here.
   4. Please note that you have to register via the main site or the mobile site. You cannot currently register via the app.
   5. When you opt-in to the service, you'll have to provide us with a mobile phone number, which we'll store securely with your other personal details.
   6. Once you've opted-in, we'll text you a verification code which you'll need to input on the website. And once we've received this code, we'll confirm the number you can use to place orders!
   7. The beauty of the service is you can ask us to order you a specific case OR you can tell us the types of wines you like and we'll create a case for you.
-  8. We'll use the default card on your account to pay for your order (or any account balance), and we'll deliver to your standard delivery address unless you tell us otherwise. Delivery charges are free if you spend £80 or more, otherwise £4.99.
+  8. We'll use the default card on your account to pay for your order (or any account balance), and we'll deliver to your standard delivery address unless you tell us otherwise. Delivery charges are free if you spend £100 or more, otherwise £4.99.
   9. We won't text you about any other offers etc unless you agree to this - and any texts you send will cost you your standard network rate (texts sent by us are free).
 
 
@@ -150,6 +150,18 @@ For a full list of Q and As, please [click here](https://web.archive.org/help#ma
   4. We'll email you roughly 7 days before each case is due so if the timing's not right, you can postpone your order by a month or skip a quarterly case. If you skip your case you’ll receive an email in 3 months when the next quarter’s subscription box is ready to go to check you’re ready. There’s no limit to how many times you can skip a case- you’re in control.
   5. Please note, unfortunately you can't add any additional bottles to your Naked Beer Subscription box as it’s shipped in a special beer only box that’s just the right size.
   6. You can cancel your membership and get your money back at any time if you're not happy - Just email [help@nakedwines.com](mailto:help@nakedwines.com) and we’ll do the rest.
+
+
+
+#### Naked Fine Wine Discovery Club
+
+  1. Our Naked Fine Wine Discovery Club members receive a selection of fine wines every other month, along with full winemaking and tasting notes to swot up while you drink! 
+  2. The introductory 4-pack costs £60 and will be debited from your registered credit / debit card when each case is shipped. Or if you have any Angel balance sitting in your account, we'll use that up first (excluding any vouchers).
+  3. Subsequent cases contain 6 bottles and cost £90\. 
+  4. Delivery for Fine Wine Discovery Club cases is always free! 
+  5. We'll email you roughly 7 days before each case is due so if the timing's not right, you can postpone your order by a month or skip a case. If you skip your case you’ll receive an email in 2 months when the next case is ready to check you’d like us to send it. There’s no limit to how many times you can skip a case - you’re in control. 
+  6. Unfortunately you can't add any additional bottles to your case as it is specially packed just for Fine Wine Discovery Club members. 
+  7. You can cancel your membership to the club and get your money back at any time if you're not happy - just email [help@nakedwines.com](mailto:help@nakedwines.com) and we’ll do the rest. 
 
 
 
@@ -175,7 +187,7 @@ We are unable to accept orders to either JE or GY postcodes.
 
 #### Click and collect
 
-  1. We offer a Click and Collect delivery option to 200+ Majestic stores throughout the UK (see full list and opening times [here](https://web.archive.org/web/20180628123634id_/https%3A//www.nakedwines.com/store-locations-page.html))
+  1. We offer a Click and Collect delivery option to 200+ Majestic stores throughout the UK (see full list and opening times [here](https://web.archive.org/web/20181228182717id_/https%3A//www.nakedwines.com/store-locations-page.html))
   2. We'll offer this as an option on the checkout page, so look out for a big blue button!
   3. Click and Collect delivery is free, except if you're a new customer purchasing a discounted case. You'll have up to 5 working days to collect your wines once they have arrived
   4. When collecting your wines, you'll need to give the Majestic store staff your email address and your order number, to prove you've paid for the wines.
@@ -183,7 +195,7 @@ We are unable to accept orders to either JE or GY postcodes.
   6. Once you've placed your order with us, we'll send you a delivery confirmation email confirming your Click and Collect details
   7. And we'll send you a second email once they've arrived at the Majestic store, so you know they're ready to collect.
   8. N.B. If you want to cancel your order once you've placed it, you should still contact Naked Wines directly - rather than your local Majestic store.
-  9. Ps. We still offer free next-working day delivery to your home address (or any other address) if you order £80 or more, so no changes there!*
+  9. Ps. We still offer free next-working day delivery to your home address (or any other address) if you order £100 or more, so no changes there!*
 
 
 
@@ -227,19 +239,6 @@ www.nakedwines.com | rememberme | User Experience - Allows us to identify custom
 www.nakedwines.com | SESSION | User Experience - Allows us to Identify customers within sessions |  |   
 www.nakedwines.com | cid | User Experience - remembers which country (US or UK) you want to see. |  |   
   
-#### Wine Advisors Seasonal Picks
-
-  1. Signing-up to our Wine Advisors' Seasonal Picks guarantees you a bundle of seasonal wines, delivered to your door every 3 months.
-  2. Each seasonal case costs around £79.99 (plus your standard delivery rate), and includes 12 bottles of wine selected by our team of Wine Advisors.
-  3. The £79.99 will be debited from your registered credit / debit card on a quarterly basis when each seasonal bundle is shipped - unless you have any Angel balance sitting in your account, which we'll use up first (excluding any vouchers, which cannot be used towards your seasonal case).
-  4. When signing up, you can choose between a mixed, all reds or all whites case, which we'll set as your default option (unless you change your mind and let us know).
-  5. We will email you roughly two weeks before each case is due, and if the timing's not right, you can contact us to postpone or skip your bundle.
-  6. The wines in your case are subject to availability, so we reserve the right to substitute any of the wines between emailing you and shipping your wines - but we will pick similar wines, of the same value if not higher.
-  7. Please note, you cannot add any additional bottles to your seasonal case - but if you're an Angel, you will still receive all of your Angel perks such as free monthly bottles when you order a case, first dibs on our best offers and more.
-  8. You can cancel your membership and get your money back at any time if you're not happy - so there's nothing to lose!
-
-
-
 #### Recommending a friend
 
 **To the person sending an invite:**
@@ -296,7 +295,7 @@ By registering on our website, you are consenting to us tracking when you open a
 
 #### Making a complaint
 
-We'll do everything we can to resolve any complaint you may have. You can reach our Customer Happiness Team by phone on 01603 281869 or Live Chat (9am-7pm Mon-Fri and 9am-1pm Sat). Alternatively, you can email us at [help@nakedwines.com](mailto:%20help@nakedwines.com).
+We'll do everything we can to resolve any complaint you may have. You can reach our Customer Happiness Team by phone on 01603 281869 or Live Chat (Mon-Fri 9am-5:30pm, Sat 9am-1pm). Alternatively, you can email us at [help@nakedwines.com](mailto:%20help@nakedwines.com).
 
 If we are unable to resolve your complaint, you can refer it to RetailADR at:
 
@@ -353,7 +352,7 @@ We may process information that you provide to us for the purpose of subscribing
 
 We may process information contained in any enquiry you submit to us regarding goods and/or services (" **enquiry data** "). This enquiry data may be processed for the purposes of providing clarification, resolving issues or marketing relevant goods and/or services to you. The legal basis for this processing is the performance of a contract between you and us and to ensure we are responding to your enquiry. 
 
-We may process information that you provide to us for the purpose of improving our digital marketing (" **digital marketing data** "). We may use digital marketing data in a number of different ways: either to advertise our products and services to you on third party websites such as Facebook, or to advertise our products and services to similar customers (lookalikes) on third party websites such as Facebook. We may also use digital marketing data to exclude you from seeing advertisements from third party websites such as Facebook. The digital marketing data may include your name, email address, billing address, phone number, date of birth, gender, and the user ID of any social platforms you have connected with us on. The legal basis for this processing is our legitimate interests, namely providing better services and enhancing our customer base. 
+We may process information that you provide to us for the purpose of improving our marketing (" **marketing data** "). We may use marketing data in a number of different ways: either to advertise our products and services to you on third party websites such as Facebook or via post, or to advertise our products and services to similar customers (lookalikes) on third party websites such as Facebook. We may also use marketing data to exclude you from seeing advertisements from third party websites such as Facebook or from receiving our advertisements via post. The marketing data may include your name, email address, billing address, phone number, date of birth, gender, and the user ID of any social platforms you have connected with us on. The legal basis for this processing is our legitimate interests, namely providing better services and enhancing our customer base. 
 
 Please be aware that CCTV is in operation in our head office and delivery depot. 
 
@@ -372,8 +371,9 @@ However, we may disclose your personal data with the following categories of com
   * To any member of our group of companies (this means our subsidiaries, our ultimate holding company and all its subsidiaries) insofar as reasonably necessary for the purposes, and on the legal bases, set out in this policy
   * To our insurers and professional advisers insofar as reasonably necessary for the purposes of obtaining or maintaining insurance coverage, managing risks, obtaining professional advice
   * To companies approved by you, such as Facebook and other social media sites (if you choose to link your accounts to us)
+  * To companies that we engage to provide database profiling and de-duping services to give us insights about our existing and potential customers
   * To companies that do things to get your wine orders to you, such as warehouses, order packers and delivery companies
-  * To deliver exciting news and offers to you we will use postal printing and mailing, as well as email service providers
+  * To deliver exciting news and offers to you we will use postal printing and mailing, as well as email and third party marketing service providers
 
 
 
@@ -453,6 +453,8 @@ We may update this policy from time to time by publishing a new version on our w
 ##### **10\. Data Protection Officer**
 
 As a company we do not have a data protection officer, but we do have a team trained to help with any data protection query. If you have any concerns or questions about how we protect your privacy, please contact the team either on [help@nakedwines.com](mailto:help@nakedwines.com) or on [dataprotection@majestic.co.uk](mailto:dataprotection@majestic.co.uk)
+
+This privacy policy was amended 23/08/2018
 
 #### Recruitment Data Retention
 
