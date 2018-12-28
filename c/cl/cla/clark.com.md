@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clark.com privacy policy that was archived on 2018-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180325091658id_/http%3A//www.clark.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clark.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228055622id_/http%3A//www.clark.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy – ClarkHoward.com | Clark Howard
 
@@ -10,7 +10,7 @@ Last updated March 1, 2018
 
 Other policies may apply to information we gather elsewhere.
 
-Questions regarding privacy issues should be directed to the attention of the General Manager, Clark Howard Incorporated. Address is found on the “contact us” link on the site.
+Questions regarding privacy issues should be directed to the attention of the General Manager, Clark Howard Incorporated. Address is found on the “contact us” link on the site.
 
 **Protecting the Privacy of Children**
 
@@ -24,9 +24,9 @@ To make use of certain features on our website (such as contests, surveys, messa
 
 **Cookies**
 
-To help make our site more responsive to the needs of our visitors, we invoke a standard feature of browser software, called a “cookie,” to assign each visitor a unique number, a sort of user ID, if you will, that resides on your computer. The cookie doesn’t actually identify the visitor, just the computer that a visitor uses to access our site. Unless you voluntarily identify yourself (through registration, for example), we won’t know who you are, even if we assign a cookie to your computer. The only personal information a cookie can contain is information you supply. A cookie can’t read unrelated data off your hard drive. Our advertisers and third party service providers may also assign their own cookies to your browser, a process that we don’t control.
+To help make our site more responsive to the needs of our visitors, we invoke a standard feature of browser software, called a “cookie,” to assign each visitor a unique number, a sort of user ID, if you will, that resides on your computer. The cookie doesn’t actually identify the visitor, just the computer that a visitor uses to access our site. Unless you voluntarily identify yourself (through registration, for example), we won’t know who you are, even if we assign a cookie to your computer. The only personal information a cookie can contain is information you supply. A cookie can’t read unrelated data off your hard drive. Our advertisers and third party service providers may also assign their own cookies to your browser, a process that we don’t control.
 
-We use cookies to help us tailor our site to your needs, to deliver a better, more personalized service. For example, cookies help us to recognize you as a return visitor, which provides convenience for you. For example, a registered site “member” sign up for subsequent website contests or surveys using “one-click entering.” We also use cookies to avoid showing you the same ad, repeatedly, during a single visit. In addition, we may use cookies to track which pages on our site are most frequently visited by our users. We can build a better site if we know which pages our users are visiting and how often. Of course, you can set your browser not to accept cookies, but if you do, you may not be able to take advantage of the personalized features enjoyed by other visitors to our site.
+We use cookies to help us tailor our site to your needs, to deliver a better, more personalized service. For example, cookies help us to recognize you as a return visitor, which provides convenience for you. For example, a registered site “member” sign up for subsequent website contests or surveys using “one-click entering.” We also use cookies to avoid showing you the same ad, repeatedly, during a single visit. In addition, we may use cookies to track which pages on our site are most frequently visited by our users. We can build a better site if we know which pages our users are visiting and how often. Of course, you can set your browser not to accept cookies, but if you do, you may not be able to take advantage of the personalized features enjoyed by other visitors to our site.
 
 **Browser-level information**
 
@@ -64,4 +64,4 @@ Information we gather on our website is stored on servers maintained in protecte
 
 **Changes to This Privacy Statement**
 
-A final note: The Web is an evolving medium. If we need to change our privacy policy at some point in the future, we’ll post the changes before they take effect. If at any point we decide to use personally identifying information in a manner different from what was stated at the time the information was collected, we will notify you and give you an opportunity to opt out of the proposed use.​
+A final note: The Web is an evolving medium. If we need to change our privacy policy at some point in the future, we’ll post the changes before they take effect. If at any point we decide to use personally identifying information in a manner different from what was stated at the time the information was collected, we will notify you and give you an opportunity to opt out of the proposed use.”‹
