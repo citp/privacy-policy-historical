@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the civicforums.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625013223id_/https%3A//www.internetbrands.com/privacy/privacy-main.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the civicforums.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228184919id_/https%3A//www.internetbrands.com/privacy/privacy-main.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-MH Sub I, LLC dba Internet Brands and its subsidiaries and corporate affiliates (collectively, "Internet Brands," "our," "us," or "we") operate websites, provide products and services through mobile and other applications, and develop software. We refer to these as "site(s)," "service(s)," or "our sites and services."
+MH Sub I, LLC dba Internet Brands and its affiliates (collectively, "Internet Brands," "our," "us," or "we") operate websites, provide products and services through mobile and other applications, and develop software. We refer to these as "site(s)," "service(s)," or "our sites and services."
 
 This privacy policy applies to our sites and services on which we display or post a direct link to this privacy policy. This privacy policy does not apply to those sites and services that do not display or link to this privacy policy, or that have their own privacy policies. However, we often acquire new companies to expand our business. Some acquired companies may operate under their own privacy policies until we integrate their privacy practices with ours.
 
@@ -10,13 +10,13 @@ This privacy policy applies to all users of our sites and services and covers wh
 
 ### Data Controller and Contracting Parties
 
-For the purposes of the General Data Protection Regulation 2016/679 (the “GDPR”), the Data Controller is MH Sub I, LLC registered in the State of Delaware, United States of America with a registered address at 909 N. Sepulveda Blvd. 11th Floor., El Segundo CA 90245.
+For the purposes of the General Data Protection Regulation 2016/679 (the “GDPR”), the Data Controller is MH Sub I, LLC registered in the State of Delaware, United States of America with a registered address at 909 N. Pacific Coast Highway, 11th Floor., El Segundo CA 90245.
 
-You can contact our Data Protection Officer by sending an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3f4f4d56495e5c467f56514b5a4d515a4b5d4d5e515b4c115c5052) or by writing to:
+You can contact our Data Protection Officer by sending an email to [privacy@internetbrands.com](mailto:privacy@internetbrands.com) or by writing to:
 
 MH Sub I, LLC  
 Attn: Legal Department  
-909 N. Sepulveda Blvd., 11th Floor  
+909 N. Pacific Coast Highway, 11th Floor  
 El Segundo, California 90245 U.S.A.  
 
 
@@ -51,7 +51,7 @@ In addition, we or our third-party service providers may collect information abo
 
 We or our third-party service providers may use cookies and other tracking technologies (including browser cookies, pixels, beacons, mobile application identifiers, and Adobe Flash technology) to help us recognize you across different sites and services, improve your experience, increase security, measure use and effectiveness of our services, and serve advertising. You can control cookies through your browser settings and other tools. For more information about our use of cookies, please read our [Cookie Policy](https://www.internetbrands.com/privacy/cookie-policy.html). 
 
-By visiting our sites and services, you consent to the placement of cookies and beacons in your browser and HTML-based emails in accordance with this privacy policy and our Cookie Policy.
+By visiting our sites and services, you consent to the placement of cookies and beacons in your browser and HTML-based emails in accordance with this privacy policy and our [Cookie Policy.](https://www.internetbrands.com/privacy/cookie-policy.html)
 
 2.2 Do Not Track
 
@@ -69,7 +69,7 @@ We will only collect and process personal information, including sharing it with
   2. our legitimate interests in keeping our sites and services safe and secure; 
   3. our third party service providers’ legitimate interests as described in “Other Information We Automatically Collect Through Cookies and Other Technologies” above;
   4. your consent to the processing of your personal information, which you can revoke at any time;
-  5. where the processing of personal information is necessary for the performance of a contract to which you are a party to, such as our Terms of Use, Service Agreement, and License Agreement;
+  5. where the processing of personal information is necessary for the performance of a contract to which you are a party to, such as our [Terms of Use](http://www.internetbrands.com/ibterms/), Service Agreement, and License Agreement;
   6. where the processing of your personal information is required to protect your vital interests or those of another person, such as other users of our sites and services; 
   7. where the processing of personal information is necessary to comply with a legal obligation such as a law, regulation, search warrant, subpoena, or court order.
 
@@ -95,7 +95,7 @@ We may use the personal information that you provide in one or more of the follo
   13. to manage our sites' and services' administration, forum management, or fulfillment;
   14. to provide customer service and technical support;
   15. to administer surveys, sweepstakes, giveaways, contests, or similar promotions or events sponsored by us or our partners;
-  16. to prevent fraud or potentially illegal activities, enforce our sites' terms of use, or to comply with applicable law;
+  16. to prevent fraud or potentially illegal activities, enforce our sites' [Terms of Use](http://www.internetbrands.com/ibterms/), or to comply with applicable law;
   17. for internal purposes such as auditing, data analysis, and research to improve our products, services, and communications;
   18. to allow you to apply for a job or sign-up for special offers from third parties through our sites and services;
   19. to help you contact or schedule an appointment with a healthcare provider or a legal professional listed in one of our directories and to remind you of upcoming or follow-up appointments;
@@ -129,7 +129,7 @@ We may share your personal information with third parties in the following circu
   4. where necessary to operate our sites and services, your personal information and the contents of all of your online communications on or through our sites and services may be accessed and monitored: 
     1. to satisfy any applicable laws or regulations,
     2. to defend ourselves in litigation or a regulatory action,
-    3. in order to protect the rights or property of Internet Brands and our subsidiaries and corporate affiliates, including to enforce our sites' or services' terms of use,
+    3. in order to protect the rights or property of Internet Brands and our subsidiaries and corporate affiliates, including to enforce our sites' or services' [Terms of Use.](http://www.internetbrands.com/ibterms/)
     4. when we have a good faith belief that we are required to disclose the information in response to legal process (for example, a subpoena, court order, or search warrant),
     5. where we believe our sites and services are being used in the commission of a crime, including to report such criminal activity or to exchange information with other companies and organizations for the purposes of fraud protection and risk management, and
     6. when we have a good faith belief that there is an emergency that poses a threat to the health and/or safety of you, another person, or the public generally;
@@ -174,8 +174,8 @@ When you submit a request using our services to send your information to a third
   1. To the extent permitted by law, you may receive all disclosures and notices regarding your loan transaction in electronic form, including, but not limited to, any notices (such as adverse action notices and privacy policy notices) required by the Equal Credit Opportunity Act, Gramm-Leach, Bliley Act, other federal law, and any implementing regulations. Your consent applies to any loan request submitted to a lender or dealer through the Site or Services and to any other dealings or transactions you may have with that lender or dealer.
   2. Hardware and Software. Before you decide to do business electronically with a third party lender or dealer, you should consider whether you have the required hardware and software described below. By submitting your information, you acknowledge that you have the required hardware and software designated below to access the documents.
     1. The documents may be provided to you either on the third party’s website, in an email message, or as an attachment to an email message sent to the email address you provide as part of your request through the Site or Services and/or application or registration with the lender or dealer. To access the documents, you will need an email account and may need Adobe Acrobat Reader version 7 or higher, and a personal computer or other access device which is capable of accessing the Internet. To retain the documents, your access device must have the ability to either download the documents to your computer's hard drive or have must have a printer to print the documents. You should send any questions regarding the hardware and software requirements directly to the third party lender or dealer.
-  3. Right to Paper Copies. You have the right to have any documents provided to you in paper form rather than electronic form. You can request the paper copies for your loan transaction or other communications from the third party lender or dealer that you are contacting for a loan. For convenience, if you wish to obtain documents in paper form from CarFinance Capital, LLC you may contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and from Santander by calling (855) 563-5635.
-  4. Right to Withdraw Consent; Update Contact Information. You may withdraw your consent to use and receive electronic signatures, records and disclosures in connection with your loan transaction or other communications or update your contact information at any time by contacting the third party lender or dealer that you are contacting for a loan. For convenience, you may withdraw consent from, or update your contact information with, CarFinance Capital, LLC by emailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and Santander by calling (855) 563-5635.
+  3. Right to Paper Copies. You have the right to have any documents provided to you in paper form rather than electronic form. You can request the paper copies for your loan transaction or other communications from the third party lender or dealer that you are contacting for a loan. For convenience, if you wish to obtain documents in paper form from CarFinance Capital, LLC you may contact ElectronicRecords@CarFinance.com and from Santander by calling (855) 563-5635.
+  4. Right to Withdraw Consent; Update Contact Information. You may withdraw your consent to use and receive electronic signatures, records and disclosures in connection with your loan transaction or other communications or update your contact information at any time by contacting the third party lender or dealer that you are contacting for a loan. For convenience, you may withdraw consent from, or update your contact information with, CarFinance Capital, LLC by emailing ElectronicRecords@CarFinance.com and Santander by calling (855) 563-5635.
 
 
 
@@ -207,15 +207,15 @@ We encourage you to keep your personal information up-to-date and accurate. The 
 
 You can also manage certain aspects of information collection and use, including disabling geo-location, by going to the settings of your mobile device and reviewing the permissions of each application. 
 
-If you have questions about your options, please fill out our Privacy Contact Form. Protecting your privacy and security is important and we also take reasonable steps to verify your identity before granting access to your data.
+If you have questions about your options, please fill out our [Privacy Contact Form](https://www.internetbrands.com/privacy/privacy-contact-form.php). Protecting your privacy and security is important and we also take reasonable steps to verify your identity before granting access to your data.
 
-Please be aware that certain records and information will be retained for specific purposes such as legal, payment, accounting, technical, dispute resolution, enforcement of our sites' and services' terms of use, or customer service. If you have posted comments or user generated content on our site, we may not be able to delete it. Further, we take no responsibility for removing or editing any of your public activities or any submissions or content that is a result of your public activities. We may reject requests that are unreasonably repetitive or impractical, require disproportionate technical effort, or risk the privacy of others. 
+Please be aware that certain records and information will be retained for specific purposes such as legal, payment, accounting, technical, dispute resolution, enforcement of our sites' and services' [Terms of Use](http://www.internetbrands.com/ibterms/), or customer service. If you have posted comments or user generated content on our site, we may not be able to delete it. Further, we take no responsibility for removing or editing any of your public activities or any submissions or content that is a result of your public activities. We may reject requests that are unreasonably repetitive or impractical, require disproportionate technical effort, or risk the privacy of others. 
 
 * ### Storing Personal Information
 
  
 
-We retain your personal information while your account is active or as needed to provide you services. Additionally, we may retain personal information even after your account has been closed if retention is reasonably necessary to comply with our legal or regulatory obligations, resolve disputes, prevent fraud and abuse, enforce our Terms of Use or any other contract entered into between you and us, or if it is not technically feasible to delete your personal information.
+We retain your personal information while your account is active or as needed to provide you services. Additionally, we may retain personal information even after your account has been closed if retention is reasonably necessary to comply with our legal or regulatory obligations, resolve disputes, prevent fraud and abuse, enforce our [Terms of Use](http://www.internetbrands.com/ibterms/) or any other contract entered into between you and us, or if it is not technically feasible to delete your personal information.
 
 * ### Email and Other Communications
 
@@ -231,7 +231,7 @@ Requested communications include, for instance, email newsletters and software u
 
   1. selecting the email "opt-out" or "unsubscribe" link, or following the opt-out instructions included in each email communication;
   2. returning to the web page(s) where you originally registered your preferences and following the opt-out instructions; or
-  3. filling out our Privacy Contact Form. 
+  3. filling out our [Privacy Contact Form](https://www.internetbrands.com/privacy/privacy-contact-form.php). 
 
 
 
@@ -244,7 +244,7 @@ Communications that are sent by or on behalf of a user are indicated as being fr
 General communications provide information about products, services, and/or support and may include special offers, new product information, or invitations to participate in market research. You may opt-out of receiving these general communications by using one of the following methods:
 
   1. selecting the email "opt-out" or "unsubscribe" link, or following the opt-out instructions included in each email communication; or
-  2. filling out our Privacy Contact Form. 
+  2. filling out our [Privacy Contact Form](https://www.internetbrands.com/privacy/privacy-contact-form.php). 
 
 
 * ### Protecting Personal and Protected Health Information
@@ -305,9 +305,9 @@ By using our sites and services or providing us with your information, you conse
 
 ### California Privacy Rights
 
-FOR RESIDENTS OF CALIFORNIA ONLY. Section 1798.83 of the California Civil Code requires select businesses to disclose policies relating to the sharing of certain categories of your personal information with third parties. If you reside in California and you have provided us with your personal information, you may request information about our disclosures of certain categories of your personal information to third parties for direct marketing purposes. To make such a request, please fill out our Privacy Contact Form with “California Privacy Rights” in the subject line and allow 30 days for a response. We will not accept requests via the telephone, mail, or by facsimile, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information.
+FOR RESIDENTS OF CALIFORNIA ONLY. Section 1798.83 of the California Civil Code requires select businesses to disclose policies relating to the sharing of certain categories of your personal information with third parties. If you reside in California and you have provided us with your personal information, you may request information about our disclosures of certain categories of your personal information to third parties for direct marketing purposes. To make such a request, please fill out our [Privacy Contact Form](https://www.internetbrands.com/privacy/privacy-contact-form.php) with “California Privacy Rights” in the subject line and allow 30 days for a response. We will not accept requests via the telephone, mail, or by facsimile, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information.
 
-FOR RESIDENTS OF CALIFORNIA UNDER THE AGE OF 18. In accordance with Section 22581 of the California Business and Professions Code, you may request and obtain the removal of content or information you have publicly posted. To make such a request, please fill out our Privacy Contact Form with “California Privacy Rights” in the subject line. Please specify the site(s) or service(s) to which your removal request relates, including any URLs where the content or information is posted, and the specific content or information you posted for which you are requesting removal. Please be aware that such a request does not ensure complete or comprehensive removal of the content or information you have posted and that there may be circumstances in which the law does not require or allow removal even if requested.
+FOR RESIDENTS OF CALIFORNIA UNDER THE AGE OF 18. In accordance with Section 22581 of the California Business and Professions Code, you may request and obtain the removal of content or information you have publicly posted. To make such a request, please fill out our [Privacy Contact Form](https://www.internetbrands.com/privacy/privacy-contact-form.php) with “California Privacy Rights” in the subject line. Please specify the site(s) or service(s) to which your removal request relates, including any URLs where the content or information is posted, and the specific content or information you posted for which you are requesting removal. Please be aware that such a request does not ensure complete or comprehensive removal of the content or information you have posted and that there may be circumstances in which the law does not require or allow removal even if requested.
 
 * ### EU Privacy Rights
 
@@ -325,13 +325,13 @@ FOR RESIDENTS OF THE EUROPEAN UNION ONLY. Under European data protection law, in
 
 In addition, you have the right to ask us not to process your personal information for marketing purposes. We will usually inform you (before collecting your personal information) if we intend to use your personal information for such purposes or if we intend to disclose your information to any third party for such purposes. 
 
-You can exercise any of these rights by filling out our Privacy Contact Form or sending an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7202001b0413110b321b1c0617001c17061000131c16015c111d1f) with “EU Privacy Rights” in the subject line. If you believe that we have not complied with its obligations under this Privacy Policy or European law, you have the right to make a complaint to an EU Data Protection Authority.
+You can exercise any of these rights by filling out our [Privacy Contact Form](https://www.internetbrands.com/privacy/privacy-contact-form.php) or sending an email to [privacy@internetbrands.com](mailto:privacy@internetbrands.com) with “EU Privacy Rights” in the subject line. If you believe that we have not complied with its obligations under this Privacy Policy or European law, you have the right to make a complaint to an EU Data Protection Authority.
 
 *  
 
 ### Contacting Us
 
-If you have any questions or concerns about this privacy policy or our practices you can [contact us](http://www.internetbrands.com/privacy/privacy-contact-form.php) or write to us at Internet Brands, Inc., Privacy Office, 909 N. Sepulveda Blvd., 11th Floor, El Segundo, California 90245 U.S.A. Please be sure to identify the specific website, software, or service about which you have a question or concern and how we can contact you.
+If you have any questions or concerns about this privacy policy or our practices you can [contact us](http://www.internetbrands.com/privacy/privacy-contact-form.php) or write to us at MH Sub I, LLC, Privacy Office, 909 N. Pacific Coast Highway, 11th Floor, El Segundo, California 90245 U.S.A. Please be sure to identify the specific website, software, or service about which you have a question or concern and how we can contact you.
 
 *  
 
@@ -339,4 +339,4 @@ If you have any questions or concerns about this privacy policy or our practices
 
 We may revise this privacy policy from time to time and, if we do, we will update it on this page and modify the "Last Updated" date. If our information practices change in a significant way, you will be provided notice by means of notice on our sites or otherwise in writing. Because our privacy policy can change at any time, we encourage you to reread it periodically to see if there have been any changes that affect you. If you disagree with any changes to this privacy policy and do not wish your information to be subject to the revised privacy policy, you will need to deactivate your account or terminate your services. Your use of our sites and services following any such change constitutes your agreement that all information collected from or about you through our sites and services after the revised privacy policy is posted will be subject to the terms of the revised privacy policy.
 
-Last Updated: May 18, 2018
+Last Updated: August 6, 2018
