@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surfrider.org privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313195728id_/http%3A//www.surfrider.org/pages/surfrider-foundation-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surfrider.org privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228015810id_/https%3A//www.surfrider.org/pages/surfrider-foundation-privacy-policy) for the most accurate reproduction.*
 
 # Surfrider Foundation Privacy Policy - Surfrider Foundation
 
@@ -114,6 +114,8 @@ Surfrider Foundation does not process your credit card information. Instead, Sur
 
 Surfrider Foundation has implemented policies, procedures, and safeguards, including secured online connections, designed to protect all information submitted through the Services..  We also strive to obligate our agents, contractors and business partners to protect the information that they use or access in connection with providing services to Surfrider Foundation.  While we do work hard to protect your information, we cannot guarantee the privacy or security of information that you transmit over the Internet.  DISCLOSURE OF INFORMATION TO SURFRIDER FOUNDATION IS AT YOUR OWN RISK.  We urge you to take every precaution to protect your information when you use the Internet or store information on your computer, tablet, or mobile device.
 
+All personally identifiable information (PII) is transmitted to Surfrider via SSL-secured connections. Insecure connections to systems that receive this information are not allowed. All information is stored in an encrypted format by the vendors which provide Surfrider with the services we use to process PII, and access to the information is restricted to those personnel and contractors with a business need for such access. All vendors who handle PII on Surfrider's behalf are certified as adhering to the current Payment Card Industry (PCI) Data Security Standard (DSS). Additionally, Surfrider's internal data handling policies and procedures are reviewed twice per year by Surfrider Information Technology personnel to ensure compliance with the current PCI DSS.
+
 #### 8\. LINKS TO OTHER SERVICES
 
 This Privacy Policy applies solely to information collected by or through the Services.  As noted in the Terms, the Services may contain plug ins from and links to third-party websites and services, including our merchandising partner Swell, as well as social media services such as Facebook and Twitter (collectively, “ **Linked Services** ”).  Linked Services are not under the control of Surfrider Foundation and Surfrider Foundation is not responsible for Linked Services.  The inclusion of a plug in or a link does not imply endorsement by Surfrider Foundation of the Linked Services or any association with the operators of the Linked Services.  Surfrider Foundation does not investigate, verify or monitor the Linked Services.  We provide links to Linked Sites for your convenience only.  You access Linked Services at your own risk.  We encourage you to read about the privacy practices of any Linked Service that you access. Swell’s privacy policy can be found [here](http://www.swell.com/c/privacyandsecurity.htm).
@@ -130,9 +132,9 @@ California Civil Code section 1798.83 law permits residents of California to opt
 
 Under California Civil Code Section 1789.3, we are required to provide California residents with the following specific consumer rights information:
 
-  1. The Services are owned and/or operated by Surfrider Foundation, P.O. Box 6010, San Clemente, CA 92674.
+  1. The Services are owned and/or operated by Surfrider Foundation, P.O. Box 73550, San Clemente, CA 92673.
   2. Unless otherwise expressly stated, the Services are provided without charge.
-  3. To file a complaint regarding any of the Services or to receive further information regarding use of the Services, please send a letter to Surfrider Foundation P.O. Box 6010, San Clemente, CA 92674 or contact us via email at info@surfrider.org  (with “California Resident Request” as the Subject Line). You also may contact the Complaint Assistance Unit of the Division of Consumer Services of California’s Department of Consumer Affairs in writing at 400 R Street, Suite 1080, Sacramento, California 95814 or by telephone at 916.445.1254 or 800.952.5210.
+  3. To file a complaint regarding any of the Services or to receive further information regarding use of the Services, please send a letter to Surfrider Foundation P.O. Box 73550, San Clemente, CA 92673 or contact us via email at info@surfrider.org  (with “California Resident Request” as the Subject Line). You also may contact the Complaint Assistance Unit of the Division of Consumer Services of California’s Department of Consumer Affairs in writing at 400 R Street, Suite 1080, Sacramento, California 95814 or by telephone at 916.445.1254 or 800.952.5210.
 
 
 
