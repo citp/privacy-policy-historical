@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the leaguepedia.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630155756id_/https%3A//www.twitch.tv/p/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leaguepedia.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228094302id_/https%3A//www.twitch.tv/p/legal/privacy-policy) for the most accurate reproduction.*
 
 # Twitch.tv - Privacy Policy
 
 This Twitch Privacy Policy applies to your use of [www.twitch.tv](http://www.twitch.tv/), and any other websites, applications, or services provided, owned, or operated by Twitch Interactive, Inc. (with its affiliates, “ **Twitch** ”) that link to this Privacy Policy (collectively, the “ **Twitch Services** ”). Twitch values the privacy of users, subscribers, publishers, members, and others who visit and use the Twitch Services (collectively or individually, “ **you** ” or “ **users** ”) and wants you to be familiar with how we collect, use, and disclose personal information from and about you.
 
-For purposes of data protection laws, Twitch Interactive, Inc., located at 225 Bush Street, 9th Floor, San Francisco, CA 94104, is the “data controller” of your information; with respect to data collected by Curse LLC in connection with the Curse websites and/or services, Curse LLC, located at 225 Bush Street, 9th Floor, San Francisco, CA 94104, is the “data controller” of your information.
+For purposes of data protection laws, Twitch Interactive, Inc., located at 350 Bush Street, 2nd Floor, San Francisco, CA 94104, is the “data controller” of your information; with respect to data collected by Curse LLC in connection with the Curse websites and/or services, Curse LLC, located at 350 Bush Street, 2nd Floor, San Francisco, CA 94104, is the “data controller” of your information.
 
 You may share personal information when using the Twitch Services. One example is when you provide information about yourself as part of the Twitch account creation process. Another is when you take certain actions on the Twitch Services that are public or intended to be public in nature, such as when you broadcast content, participate in a chat room, post profile information, follow a channel, or subscribe to a broadcast channel. Given the social nature of some of the Twitch Services, that information may be collected, used, or disclosed by others who are part of that social interaction. In addition, some features of the Twitch Services are designed to provide others with information about user activity, such as identifying the user who created a particular Clip or the subscription status of users for a given channel. We encourage you to be mindful of this when considering your activity on the Twitch Services.
 
@@ -148,7 +148,7 @@ We will not materially change our policies and practices to make them less prote
 
 #### **Twitch Contact Information**
 
-Please contact Twitch with any questions or comments about this Privacy Policy at 225 Bush Street, 9th Floor, San Francisco, CA 94104 or by email to [privacy@twitch.tv](mailto:privacy@twitch.tv). We will respond to your inquiry within 30 days of its receipt. If you are a California resident, you may have this same information emailed to you by sending a letter to the foregoing address with your email address and a request for this information.
+Please contact Twitch with any questions or comments about this Privacy Policy at 350 Bush Street, 2nd Floor, San Francisco, CA 94104 or by email to [privacy@twitch.tv](mailto:privacy@twitch.tv). We will respond to your inquiry within 30 days of its receipt. If you are a California resident, you may have this same information emailed to you by sending a letter to the foregoing address with your email address and a request for this information.
 
 #### **California Privacy Rights**
 
