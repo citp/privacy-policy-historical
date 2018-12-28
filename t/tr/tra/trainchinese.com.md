@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the trainchinese.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629092044id_/http%3A//trainchinese.com/v2/mprivacy.php%3FrAp%3D0%26tcLanguage%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trainchinese.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228233348id_/http%3A//trainchinese.com/v2/mprivacy.php%3FrAp%3D0%26tcLanguage%3Den) for the most accurate reproduction.*
 
 # train chinese dictionary and flashcards|Privacy policy
 
-### Privacy policy from Molatra Ltd applicable to the www.trainchinese.com website and to the trainchinese apps
+### Privacy policy from Trainchinese BV applicable to the www.trainchinese.com website and to the trainchinese apps
 
-Molatra Ltd, is committed to protecting the privacy of the users of trainchinese.com. The following outlines our privacy and data protection policy. This privacy policy tells you about our online collection and use of data. We feel it is important that you fully understand the terms and conditions under which we use the information we gather from you through the use of our Web site located at www.trainchinese.com and trough our applications fro different kind of platforms (like Android, iOS, Java).
+Trainchinese BV, is committed to protecting the privacy of the users of trainchinese.com. The following outlines our privacy and data protection policy. This privacy policy tells you about our online collection and use of data. We feel it is important that you fully understand the terms and conditions under which we use the information we gather from you through the use of our Web site located at www.trainchinese.com and trough our applications fro different kind of platforms (like Android, iOS, Java).
 
 Third party partners of trainchinese.com and other websites you may access via trainchinese.com have different privacy policies and are not subject to this privacy policy. We recommend that you read the privacy statement of each such website to find out how they protect your personal information.
 
@@ -22,7 +22,7 @@ Your personal information is kept on our servers in such a way that it can only 
 
 #### Cookies
 
-trainchinese uses cookies to save some data in your browser when you are using the site. For more details please see our [cookie policy](https://web.archive.org/web/20180629092044id_/http%3A//trainchinese.com/v2/mcookies.php?rAp=0&tcLanguage=en)
+trainchinese uses cookies to save some data in your browser when you are using the site. For more details please see our [cookie policy](https://web.archive.org/web/20181228233348id_/http%3A//trainchinese.com/v2/mcookies.php?rAp=0&tcLanguage=en)
 
 #### E-mails
 
@@ -42,7 +42,7 @@ The OCR (Optical Character Recognition) enables the Trainchinese Dictionary and 
 
 #### Electronic Payment System
 
-Molatra Ltd is engaging the services of third parties to process your credit card information on our behalf. These companies keep your credit card information confidential and protect your credit card information through the use of industry-standard Secure Sockets Layer (SSL) encryption technology. We do not have access of your credit card data as this is processed and stored exclusively by such third parties.
+Trainchinese BV is engaging the services of third parties to process your credit card information on our behalf. These companies keep your credit card information confidential and protect your credit card information through the use of industry-standard Secure Sockets Layer (SSL) encryption technology. We do not have access of your credit card data as this is processed and stored exclusively by such third parties.
 
 #### Sharing of personal information
 
@@ -54,7 +54,7 @@ On simple request, we will delete your trainchinese account and your associated 
 
 #### Children and Parental Consent
 
-Molatra Ltd does not seek to collect any information from or engage in any transactions with persons under the age of 13. Our policy is to request that minors (the legal age of majority and therefore the age of minors is determined by local law where you reside) do not make purchases or engage in other legal acts on our services without the consent of a parent or legal guardian.
+Trainchinese BV does not seek to collect any information from or engage in any transactions with persons under the age of 13. Our policy is to request that minors (the legal age of majority and therefore the age of minors is determined by local law where you reside) do not make purchases or engage in other legal acts on our services without the consent of a parent or legal guardian.
 
 #### Advertisements
 
