@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zagg.com privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711214934id_/https%3A//www.zagg.com/us/en_us/company/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zagg.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228222053id_/https%3A//www.zagg.com/us/en_us/company/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy US
 
@@ -41,8 +41,11 @@ ZAGG maintains certain protocols in order to protect the security of your inform
 
 
 
-If you prefer to submit your order by telephone, please call us at 800-700-ZAGG (9244).
+If you prefer to submit your order by telephone, please call us at 800-700-ZAGG (9244) or   
+UK: 44 207 365 2400   
+Ireland: 35 36 163 6618   
+International 1-801-839-3906 
 
-From time to time, you may receive our promotional e-mails based on information that we collect from you. If you would like to "opt out" of receiving promotional e-mails from ZAGG, please log in to your account and follow the instructions therein to be removed from our e-mailing list.
+From time to time, you may receive promotional emails from ZAGG based on information we have collected from you. If you would like to opt-out of receiving these emails, please click the “Unsubscribe” link at the bottom of the promotional email.
 
 If you are receiving promotional texts from ZAGG and would like to "opt out" of receiving promotional texts, please text "opt out" to 53535. Be sure to send the text from the phone number that is listed in your account and on which you are receiving the promotional texts.
