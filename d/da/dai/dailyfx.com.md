@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dailyfx.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628093831id_/https%3A//www.dailyfx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyfx.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228154155id_/https%3A//www.dailyfx.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Daily FX
+# Privacy Policy | DailyFX
 
 [ **PDF**   
 Privacy Notice and Access Policy](https://web.archive.org/ppap)
@@ -9,7 +9,7 @@ Privacy Notice and Access Policy](https://web.archive.org/ppap)
 
 We may use personal information for the following purposes:
 
-As part of providing services, or information about our services, to you, we will need to verify your identify to set you up as a customer and we will need to use those details in order to effectively manage your account with us to ensure that you are getting the best possible service from us. This may include third parties carrying out credit or identity checks on our behalf. It is not only in our legitimate interest to do so but the use of your personal information in this way is necessary for us to know who you are as we have a legal obligation to comply with certain Know Your Customer regulatory obligations. 
+As part of providing services, or information about our services, to you, we will need to verify your identify to set you up as a customer and we will need to use those details in order to effectively manage your account with us to ensure that you are getting the best possible service from us. This may include third parties carrying out credit or identity checks on our behalf. It is not only in our legitimate interest to do so but the use of your personal information in this way is necessary for us to know who you are as we have a legal obligation to comply with certain Know Your Customer regulatory obligations.
 
 Once you open an account with us, or subscribe to an update or webinar, we will need to use your personal information to perform our services and comply with our obligations to you. It is also in our legitimate interests to ensure that we are providing the best products and services so we may periodically review your needs to ensure that you are getting the benefit of the best possible products and services from us.
 
