@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the healthresource4u.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628035700id_/https%3A//www.healthresource4u.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthresource4u.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228102217id_/https%3A//www.healthresource4u.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Health Resource
+# Privacy Policy - HealthResource4U
 
 Here at My Blog / Site, the privacy of my visitors is very important. This privacy policy document outlines the types of personal information that we receive and how this important data is used.
 
