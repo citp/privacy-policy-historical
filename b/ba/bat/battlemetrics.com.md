@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the battlemetrics.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628084730id_/https%3A//www.battlemetrics.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the battlemetrics.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228145111id_/https%3A//www.battlemetrics.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - BattleMetrics
 
@@ -10,7 +10,7 @@ We respect your privacy and are committed to protecting it. This privacy stateme
 
 ### 2\. Information About Our Organization and Website and General Data Collection Practices
 
-This Privacy Statement applies to www.BattleMetrics.com (referenced herein as “site” or “website”) which is owned by BattleMetrics, LLC, P.O. Box 980789, Ypsilanti, MI 48198.
+This Privacy Statement applies to [www.BattleMetrics.com](http://www.battlemetrics.com/) (referenced herein as “site” or “website”) which is owned by BattleMetrics, LLC, P.O. Box 980789, Ypsilanti, MI 48198.
 
 **Online Tracking Information**
 
@@ -130,7 +130,7 @@ By Mail:
     Ypsilanti, MI 48198
     
 
-OR By Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+OR By Email: [staff@battlemetrics.com](mailto:staff@battlemetrics.com)
 
 You will be asked for name and address so that we may be able to process your changes. We will use reasonable efforts to correct any factual inaccuracies in your information.
 
@@ -170,7 +170,7 @@ By Mail:
     Ypsilanti, MI 48198
     
 
-OR By Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+OR By Email: [staff@battlemetrics.com](mailto:staff@battlemetrics.com)
 
 We are committed to working with consumers to obtain a fair and rapid resolution of any complaints or disputes about privacy and the handling of your data. We will be happy to respond to your questions and comments.
 
