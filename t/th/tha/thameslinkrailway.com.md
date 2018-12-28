@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thameslinkrailway.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627235610id_/https%3A//www.thameslinkrailway.com/terms-of-use/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thameslinkrailway.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228035330id_/https%3A//www.thameslinkrailway.com/terms-of-use/privacy-policy) for the most accurate reproduction.*
 
-# Thameslink - Privacy Policy
+# Thameslink - Privacy policy
 
 ## Introduction
 
@@ -22,7 +22,7 @@ EC3R 8AJ
 Registered in England company no. 07934306
 
 **Our Data Protection Manager is:**  
-Julie Sadler  
+Paul Staiano  
 1st Floor, Monument Place  
 24, Monument Street  
 London  
