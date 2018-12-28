@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the uservoice.com privacy policy that was archived on 2018-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180628001218id_/https%3A//www.uservoice.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the uservoice.com privacy policy that was archived on 2018-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181228064652id_/https%3A//www.uservoice.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html id="uv-com" class="webkit chrome chrome69 linux js async-hide orientation_landscape maxw_768"><head>
   <meta charset="utf-8">
@@ -26,11 +26,40 @@
 <meta property="og:title" content="UserVoice: Privacy Policy">
 
 
-  <link href="/assets/css/main.css?1530132439" rel="stylesheet" type="text/css">
+  <link href="/assets/css/main.css?1545412371" rel="stylesheet" type="text/css">
 
+  <!-- Start of Async Drift Code -->
+<script type="text/javascript" async="" src="//widget.uservoice.com/eXsHEVVnSPiNttZmV3X5Bw.js"></script><script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/Jv2P2ZPHXvmjTRx1vKz0GMuXVjn1d2mM/analytics.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://js.driftt.com/include/1582533900000/mf6tviaiy5gi.js"></script><script>
+"use strict";
+
+!function() {
+  var t = window.driftt = window.drift = window.driftt || [];
+  if (!t.init) {
+    if (t.invoked) return void (window.console && console.error && console.error("Drift snippet included twice."));
+    t.invoked = !0, t.methods = [ "identify", "config", "track", "reset", "debug", "show", "ping", "page", "hide", "off", "on" ], 
+    t.factory = function(e) {
+      return function() {
+        var n = Array.prototype.slice.call(arguments);
+        return n.unshift(e), t.push(n), t;
+      };
+    }, t.methods.forEach(function(e) {
+      t[e] = t.factory(e);
+    }), t.load = function(t) {
+      var e = 3e5, n = Math.ceil(new Date() / e) * e, o = document.createElement("script");
+      o.type = "text/javascript", o.async = !0, o.crossorigin = "anonymous", o.src = "https://js.driftt.com/include/" + n + "/" + t + ".js";
+      var i = document.getElementsByTagName("script")[0];
+      i.parentNode.insertBefore(o, i);
+    };
+  }
+}();
+drift.SNIPPET_VERSION = '0.3.1';
+drift.load('mf6tviaiy5gi');
+
+</script>
+<!-- End of Async Drift Code -->
   <!-- Google Optimize page-hiding snippet -->
 <style>.async-hide { opacity: 0 !important}</style>
-<script type="text/javascript" async="" src="//widget.uservoice.com/eXsHEVVnSPiNttZmV3X5Bw.js"></script><script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/Jv2P2ZPHXvmjTRx1vKz0GMuXVjn1d2mM/analytics.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+<script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
 h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
 (a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
 })(window,document.documentElement,'async-hide','dataLayer',4000,
@@ -72,6 +101,18 @@ h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
   ga('send', 'pageview');
 </script>
 
+  <!-- Riveted -->
+<script>
+/*!
+ * @preserve
+ * riveted.js | v0.6.1
+ * Copyright (c) 2016 Rob Flaherty (@robflaherty)
+ * Licensed under the MIT license
+ */
+!function(e,n){"function"==typeof define&&define.amd?define([],n):"object"==typeof module&&module.exports?module.exports=n():e.riveted=n()}(this,function(){var e=function(){function e(e){e=e||{},p=parseInt(e.reportInterval,10)||5,g=parseInt(e.idleTimeout,10)||30,k=e.gaGlobal||"ga","function"==typeof window[k]&&(w=!0),"undefined"!=typeof _gaq&&"function"==typeof _gaq.push&&(I=!0),"undefined"!=typeof dataLayer&&"function"==typeof dataLayer.push&&(h=!0),T="gaTracker"in e&&"string"==typeof e.gaTracker?e.gaTracker+".send":"send","function"==typeof e.eventHandler&&(s=e.eventHandler),"function"==typeof e.userTimingHandler&&(m=e.userTimingHandler),y="nonInteraction"in e&&(e.nonInteraction===!1||"false"===e.nonInteraction)?!1:!0,t(document,"keydown",v),t(document,"click",v),t(window,"mousemove",n(v,500)),t(window,"scroll",n(v,500)),t(document,"visibilitychange",o),t(document,"webkitvisibilitychange",o)}function n(e,n){var t,i,o,a=null,r=0,u=function(){r=new Date,a=null,o=e.apply(t,i)};return function(){var c=new Date;r||(r=c);var d=n-(c-r);return t=this,i=arguments,0>=d?(clearTimeout(a),a=null,r=c,o=e.apply(t,i)):a||(a=setTimeout(u,d)),o}}function t(e,n,t){e.addEventListener?e.addEventListener(n,t,!1):e.attachEvent?e.attachEvent("on"+n,t):e["on"+n]=t}function i(){clearTimeout(H),r()}function o(){(document.hidden||document.webkitHidden)&&i()}function a(){_+=1,_>0&&_%p===0&&s(_)}function r(){b=!0,clearInterval(E)}function u(){i(),L=!0}function c(){L=!1}function d(){b=!1,clearInterval(E),E=setInterval(a,1e3)}function l(){var e=new Date,n=e-D;R=!0,m(n),E=setInterval(a,1e3)}function f(){D=new Date,_=0,R=!1,b=!1,clearInterval(E),clearTimeout(H)}function v(){L||(R||l(),b&&d(),clearTimeout(H),H=setTimeout(i,1e3*g+100))}var s,m,p,g,y,w,I,T,h,k,R=!1,b=!1,L=!1,_=0,D=new Date,E=null,H=null;return m=function(e){h?dataLayer.push({event:"RivetedTiming",eventCategory:"Riveted",timingVar:"First Interaction",timingValue:e}):(w&&window[k](T,"timing","Riveted","First Interaction",e),I&&_gaq.push(["_trackTiming","Riveted","First Interaction",e,null,100]))},s=function(e){h?dataLayer.push({event:"Riveted",eventCategory:"Riveted",eventAction:"Time Spent",eventLabel:e,eventValue:p,eventNonInteraction:y}):(w&&window[k](T,"event","Riveted","Time Spent",e.toString(),p,{nonInteraction:y}),I&&_gaq.push(["_trackEvent","Riveted","Time Spent",e.toString(),p,y]))},{init:e,trigger:v,setIdle:i,on:c,off:u,reset:f}}();return e});
+</script>
+<script>riveted.init();</script>
+
   <!-- Infer -->
 <script src="https://lib.infer.com/inferga.js"></script>
 <script>infer.init(2);</script>
@@ -90,73 +131,108 @@ h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
 
   <div id="fb-root"></div>
   
-  <header class="topbar" role="banner">
+  <header class="topbar " role="banner">
 	<div class="topbar-in container">
 		<div class="grid3">
 			<h1 class="uv-logo">
 				<a href="/" class="uv-logo-target">
-					<img src="/assets/img/logos/uservoice/rebrand/uservoice.svg" alt="UserVoice" class="uv-logo-img">
+					<img src="/assets/img/logos/uservoice/rebrand/uservoice.svg" alt="UserVoice" class="uv-logo-img test-pfh-a">
+					<img src="/assets/test-pfh/logo-b-2.svg" alt="UserVoice" class="uv-logo-img test-pfh-b">
 					<img src="/assets/img/logos/uservoice/rebrand/uservoice-white.svg" alt="UserVoice" class="uv-logo-img white">
 				</a>
 			</h1>
+			<a href="https://community.uservoice.com/blog/new-in-uservoice-reactions-on-roadmap-status-updates/" class="home-roadmap-banner"><img src="/assets/img/homepage/new-reactions.svg" alt="New! Reactions to your roadmap and status updates."></a>
 		</div>
 		
 		<div class="grid9 mobile-l-up-text-right">
-			<nav class="navigation" role="navigation">
+			
+<p class="mobile-nav-trigger-open" data-mobile-nav-trigger="">Menu</p>
+
+<nav class="navigation" role="navigation">
+  <i class="iconz-x mobile-nav-trigger-close" data-mobile-nav-trigger="" aria-hidden="true"></i>
+
   <ul class="main-nav">
 
-    <li class="main-nav-item has-dropdown">
-    	<span class="main-nav-target has-dropdown-target ">Product <i class="iconz-arrow-down" aria-hidden="true"></i></span>
-
-    	<div class="dropdown has-highlight">
-    		<ul class="dropdown-nav">
-          <li><a href="/product/" class="dropdown-nav-target">Overview</a></li>
-          <li><a href="/product/product-prioritization/" class="dropdown-nav-target">Product Prioritization</a></li>
-          <li><a href="/product/feedback-collection/" class="dropdown-nav-target">Feedback Collection</a></li>
-          <li><a href="/product/management-moderation/" class="dropdown-nav-target">Management &amp; Moderation</a></li>
-          <li><a href="/product/communication/" class="dropdown-nav-target">Communication</a></li>
-          <li><a href="/integrations/" class="dropdown-nav-target">Integrations</a></li>
-    		</ul>
-        <div class="dropdown-highlight">
-          <i class="iconz-pointer white" aria-hidden="true"></i>
-          <h3 class="dropdown-highlight-headline">See it in Action!</h3>
-          <a href="/demo/" class="button blue dropdown-highlight-button" data-popup-form="" data-track="CTA" data-track-properties="{&quot;action&quot;:&quot;Click&quot;, &quot;subject&quot;:&quot;Live Demo&quot;, &quot;origin&quot;:&quot;/privacy/&quot;, &quot;placement&quot;:&quot;Main Nav&quot;}">View the Live Demo</a>
-        </div>
-    	</div>
+    <li class="main-nav-item">
+    	<a href="/product/" class="main-nav-target ">Product</a>
     </li>
 
     <li class="main-nav-item has-dropdown">
-      <span class="main-nav-target has-dropdown-target ">Resources <i class="iconz-arrow-down" aria-hidden="true"></i></span>
+      <span class="main-nav-target has-dropdown-target ">Solutions <i class="iconz-arrow-down test-pfh-a" aria-hidden="true"></i></span>
 
-      <div class="dropdown">
+      <div class="dropdown has-highlight procore">
         <ul class="dropdown-nav">
+          <li><a href="/solutions/product-manager/" class="dropdown-nav-target">Product Manager</a></li>
+          <li><a href="/solutions/product-executive/" class="dropdown-nav-target">Product Executive</a></li>
+          <li><a href="/solutions/feedback-manager/" class="dropdown-nav-target">Feedback Manager</a></li>
+        </ul>
+
+        <a href="https://www6.uservoice.com/l/17202/2018-08-02/hw6v2z" class="button blue mobile-demo-button">View the Live Demo</a>
+
+        <div class="dropdown-highlight procore text-center">
+          <p class="dropdown-highlight-body mb1">Learn how UserVoice provides Procore with a single source of truth to drive product decisions</p>
+          <span class="wistia_embed wistia_async_nw6csfvkk5 popover=true popoverContent=link dropdown-highlight-target-block">
+            <span class="dropdown-highlight-more mb2">Watch the Video</span>
+
+            <div class="dropdown-vid">
+              <p class="dropdown-vid-runtime">1:31</p>
+              <img src="/assets/img/nav/Procore-video-subnav-CTA-2x.png" alt="">
+            
+          
+        </div>
+      </span></div>
+    </div></li>
+
+    <li class="main-nav-item">
+      <a href="/customers/" class="main-nav-target ">Customers</a>
+    </li>
+
+    <li class="main-nav-item has-dropdown">
+      <span class="main-nav-target has-dropdown-target ">Resources <i class="iconz-arrow-down test-pfh-a" aria-hidden="true"></i></span>
+
+      <div class="dropdown has-highlight customer-centric">
+        <ul class="dropdown-nav">
+          <li><a href="https://community.uservoice.com/" class="dropdown-nav-target">Blog</a></li>
           <li><a href="/library/" class="dropdown-nav-target">Library</a></li>
           <li><a href="/library/#article" class="dropdown-nav-target filter" data-filter=".article">Articles</a></li>
-          <li><a href="/library/#case-study" class="dropdown-nav-target filter" data-filter=".case-study">Case Studies</a></li>
           <li><a href="/library/#data-sheet" class="dropdown-nav-target filter" data-filter=".data-sheet">Data Sheets</a></li>
           <li><a href="/library/#video" class="dropdown-nav-target filter" data-filter=".video">Videos</a></li>
           <li><a href="/library/#ebook" class="dropdown-nav-target filter" data-filter=".ebook">eBooks</a></li>
+          <li><a href="https://developer.uservoice.com/" class="dropdown-nav-target">Developer Docs</a></li>
         </ul>
-      </div>
-    </li>
+
+        <div class="dropdown-highlight customer-centric text-center">
+          <p class="dropdown-highlight-body mb1">Why the future of product management is customer-centric</p>
+          <span class="wistia_embed wistia_async_j3m14nk0pr popover=true popoverContent=link dropdown-highlight-target-block">
+            <span class="dropdown-highlight-more mb3">Watch the Video</span>
+            
+            <div class="dropdown-vid">
+              <p class="dropdown-vid-runtime">1:31</p>
+              <img src="/assets/img/nav/customer-centric-thumbnail.jpg" alt="">
+            
+          
+        </div>
+      </span></div>
+    </div></li>
 
     <li class="main-nav-item has-dropdown">
-      <span class="main-nav-target has-dropdown-target">Contact us <i class="iconz-arrow-down" aria-hidden="true"></i></span>
+      <span class="main-nav-target has-dropdown-target">Contact us <i class="iconz-arrow-down test-pfh-a" aria-hidden="true"></i></span>
 
       <div class="dropdown">
         <ul class="dropdown-nav">
-          <li><a href="http://www6.uservoice.com/l/17202/2017-03-06/7whzwj" class="dropdown-nav-target" data-track="CTA" data-track-properties="{&quot;action&quot;:&quot;Click&quot;, &quot;subject&quot;:&quot;Contact Sales&quot;, &quot;origin&quot;:&quot;/privacy/&quot;, &quot;placement&quot;:&quot;Main nav&quot;}">Talk to Sales</a></li>
+          <li class="test-drift-a">
+            <a href="http://www6.uservoice.com/l/17202/2017-03-06/7whzwj" class="dropdown-nav-target" data-track="CTA" data-track-properties="{&quot;action&quot;:&quot;Click&quot;, &quot;subject&quot;:&quot;Contact Sales&quot;, &quot;origin&quot;:&quot;/privacy/&quot;, &quot;placement&quot;:&quot;Main nav&quot;}">Talk to Sales</a>
+          </li>
+          <li class="test-drift-b">
+            <a href="#talktosales" class="dropdown-nav-target" data-track="CTA" data-track-properties="{&quot;action&quot;:&quot;Click&quot;, &quot;subject&quot;:&quot;Contact Sales Drift&quot;, &quot;origin&quot;:&quot;/privacy/&quot;, &quot;placement&quot;:&quot;Main nav&quot;}">Talk to Sales</a>
+          </li>
           <li><a href="https://feedback.uservoice.com/knowledgebase/" id="widget-customer-support" class="dropdown-nav-target fixed-click">Customer Support</a></li>
           <li><a href="https://feedback.uservoice.com/knowledgebase/" id="widget-other-inquiries" class="dropdown-nav-target fixed-click">Other Inquiries</a></li>
         </ul>
       </div>
     </li>
 
-    <li class="main-nav-item">
-      <a href="https://community.uservoice.com/" class="main-nav-target">Blog</a>
-    </li>
-
-    <li class="main-nav-item is-button"><a href="http://www6.uservoice.com/l/17202/2016-07-29/52wtrp/" class="button tiny nav" data-track="CTA" data-track-properties="{&quot;action&quot;:&quot;Click&quot;, &quot;subject&quot;:&quot;Free Trial&quot;, &quot;origin&quot;:&quot;/privacy/&quot;, &quot;placement&quot;:&quot;Main nav&quot;}">Sign Up</a></li>
+    <li class="main-nav-item is-button"><a href="http://www6.uservoice.com/l/17202/2016-07-29/52wtrp/" class="button tiny nav test-pfh-b" data-track="CTA" data-track-properties="{&quot;action&quot;:&quot;Click&quot;, &quot;subject&quot;:&quot;Free Trial&quot;, &quot;origin&quot;:&quot;/privacy/&quot;, &quot;placement&quot;:&quot;Main nav&quot;}">Sign Up</a></li>
 
   </ul>
 </nav>
@@ -308,7 +384,7 @@ Attn:  Chief Executive Officer<br>
 
 </main>
 
-    <section class="cta gradient">
+      <section class="cta gradient">
   <div class="container">
     <div class="row flex cross-center">
       <div class="grid9">
@@ -361,7 +437,12 @@ Attn:  Chief Executive Officer<br>
 
         <ul class="footer-nav">
           <li><a class="value" href="tel:+18888400280">1 (888) 840.0280</a></li>
-          <li><a href="http://www6.uservoice.com/l/17202/2017-03-06/7whzwj" data-track="CTA" data-track-properties="{&quot;action&quot;:&quot;Click&quot;, &quot;subject&quot;:&quot;Contact Sales&quot;, &quot;origin&quot;:&quot;/privacy/&quot;, &quot;placement&quot;:&quot;Footer&quot;}">Talk to Sales</a></li>
+          <li class="test-drift-a">
+            <a href="http://www6.uservoice.com/l/17202/2017-03-06/7whzwj" data-track="CTA" data-track-properties="{&quot;action&quot;:&quot;Click&quot;, &quot;subject&quot;:&quot;Contact Sales&quot;, &quot;origin&quot;:&quot;/privacy/&quot;, &quot;placement&quot;:&quot;Footer&quot;}">Talk to Sales</a>
+          </li>
+          <li class="test-drift-b">
+            <a href="#talktosales" data-track="CTA" data-track-properties="{&quot;action&quot;:&quot;Click&quot;, &quot;subject&quot;:&quot;Contact Sales Drift&quot;, &quot;origin&quot;:&quot;/privacy/&quot;, &quot;placement&quot;:&quot;Footer&quot;}">Talk to Sales</a>
+          </li>
         </ul>
       </section>
     </div>
@@ -369,7 +450,9 @@ Attn:  Chief Executive Officer<br>
     <div class="divider-gradient bottom-up">
       <div class="row flex cross-end main-between mt8">
         <div class="tagline">
-          <img class="tagline-logo" src="/assets/img/logos/uservoice/rebrand/uservoice-badge.svg" alt="">
+          <img class="tagline-logo test-pfh-a" src="/assets/img/logos/uservoice/rebrand/uservoice-badge.svg" alt="">
+          <img class="tagline-logo test-pfh-b" src="/assets/img/logos/uservoice/rebrand/uservoice-badge-test.svg" alt="">
+
         </div>
 
         <ul class="utility-links mla">
@@ -409,12 +492,29 @@ Attn:  Chief Executive Officer<br>
   <!-- UserVoice -->
 <script>
   UserVoice=window.UserVoice||[];(function(){var uv=document.createElement('script');uv.type='text/javascript';uv.async=true;uv.src='//widget.uservoice.com/eXsHEVVnSPiNttZmV3X5Bw.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(uv,s)})();
+  UserVoice.push(['set', 'locale', 'en']);
 </script>
 
-  <script src="/assets/js/main.js?1530124765" type="text/javascript"></script>
+  <script src="/assets/js/main.js?1542556152" type="text/javascript"></script>
 
-  
+    <script src="//fast.wistia.com/assets/external/E-v1.js" async=""></script>
+  <!-- Procore Video -->
+  <script src="//fast.wistia.com/embed/medias/1eyd7243z0.jsonp" async=""></script>
+  <!-- Why the future of product management -->
+  <script src="//fast.wistia.com/embed/medias/j3m14nk0pr.jsonp" async=""></script>
 
+  <script>
+  (function($, window, undefined) {
+    if ( $('#featuredCarousel').length ) {
+      $('#featuredCarousel').flickity({
+        cellAlign: 'left',
+        groupCells: 2,
+        pageDots: false,
+        watchCSS: true
+      });
+    }
+  })(jQuery, this);
+  </script>
 
 
 </body></html>
