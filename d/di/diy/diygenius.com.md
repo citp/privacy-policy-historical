@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diygenius.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628001138id_/https%3A//www.diygenius.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diygenius.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228070116id_/https%3A//www.diygenius.com/privacy-policy) for the most accurate reproduction.*
 
 # DIY Genius Privacy Policy - DIY Genius
 
@@ -144,8 +144,8 @@ and we will promptly remove you from ALL correspondence.
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 DIY Genius  
-1255 Bidwell Street  
-Vancouver, BC V6G 2K8  
+642 Waterloo Street  
+Burlington, ON L7R 2T1  
 kyle@diygenius.com
 
-Last Edited on 2016-07-27
+Last Edited on 2018-12-05
