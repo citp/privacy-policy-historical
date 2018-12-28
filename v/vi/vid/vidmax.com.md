@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vidmax.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628142604id_/http%3A//vidmax.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vidmax.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228200949id_/http%3A//vidmax.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | VidMax.com
 
