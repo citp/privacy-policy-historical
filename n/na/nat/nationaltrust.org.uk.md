@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationaltrust.org.uk privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627191520id_/https%3A//www.nationaltrust.org.uk/features/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationaltrust.org.uk privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228021616id_/https%3A//www.nationaltrust.org.uk/features/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | National Trust
 
@@ -92,11 +92,11 @@ Children under 18 are included on family memberships and are members of the Nati
 
 Back to index
 
-### 3.2 Junior and Young Person membership
+### 3.2 Junior membership and Young Person concession
 
-Junior membership is available to everyone under the age of 18. Under 13s can have their membership bought for them as a gift by an adult, while those aged between 13 and 17 can buy membership online, by phone or at one of our places. Young Person membership is available from the age of 17.  
+Junior membership is available to everyone under the age of 18. Under 13s can have their membership bought for them as a gift by an adult, while those aged between 13 and 17 can buy membership online, by phone or at one of our places. A Young Person concessionary discount on individual membership is available from the age of 17 to 25.  
 
-When a Junior or Young Person member becomes 18, we’ll carry over their marketing preferences and consent, if they have given any.
+When a Junior member or member with a Young Person concession becomes 18, we’ll carry over their marketing preferences and consent, if they have given any.
 
 Back to index
 
@@ -544,4 +544,4 @@ We’ll amend this privacy policy from time to time to ensure it remains up to d
 
 Back to index
 
-**This privacy policy was last updated on 24 May 2018.**
+**This privacy policy was last updated on 08  August 2018.**
