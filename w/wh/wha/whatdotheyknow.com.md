@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the whatdotheyknow.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627215128id_/https%3A//www.whatdotheyknow.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatdotheyknow.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228043604id_/https%3A//www.whatdotheyknow.com/help/privacy) for the most accurate reproduction.*
 
 # Your privacy - WhatDoTheyKnow
 
-WhatDoTheyKnow is run by the charity mySociety: [see more details here](https://www.whatdotheyknow.com/help/about#who). 
+WhatDoTheyKnow is run by mySociety, a project of the charity UK Citizens Online Democracy. 
+
+For full details of mySociety's structure, governance, and details of the relevant registrations with the Information Commissioner and The Charity Commission see: [Who makes WhatDoTheyKnow?](https://www.whatdotheyknow.com/help/about#who). 
 
 Working in the fields of transparency and accountability, mySociety thinks hard and cares very much about the privacy and security of our users: the length of this privacy policy is one result of that. We know that no-one goes through privacy policies for fun, though, so we’ve tried to keep it a clear and reasonably quick read. 
 
@@ -115,7 +117,7 @@ When it is complete, our Research Data Release policy will be available on reque
 
 ###  Encrypted Transfer of Data #
 
-Sometimes we will want to send a copy of sensitive material to the Information Commissioner to assist them with their investigation into a public body’s breach of the Data Protection Act or the General Data Protection Act. In the case of bulk sensitive personal information we do this by encrypting the data with an AES algorithm using at least a 256bit key. The encrypted data will be sent by email or made available for download via the web, FTP or USB and the decryption password is provided via a separate channel. 
+Sometimes we will want to send a copy of sensitive material to the Information Commissioner to assist them with their investigation into a public body’s breach of the Data Protection Act or the General Data Protection Regulations. In the case of bulk sensitive personal information we do this by encrypting the data with an AES algorithm using at least a 256bit key. The encrypted data will be sent by email or made available for download via the web, FTP or USB and the decryption password is provided via a separate channel. 
 
 ##  Names #
 
@@ -194,7 +196,9 @@ As detailed above, sending an FOI request through this site results in your name
 
 Volunteers will only download from WhatDoTheyKnow whatever information is necessary to handle a suspected breach of the data protection law by an authority, encrypting the data using a strong algorithm, protecting their device with a strong password, and deleting the data as soon as possible and in all circumstances within four hours. If the data needs to be retained after that period, it is kept on mySociety’s servers and mySociety is responsible for holding and deleting it. 
 
-For material that needs to be retained for a relatively short period e.g. where we give the ICO two weeks to request the material from us before we delete it, the material will remain hidden on WhatDoTheyKnow and will be deleted at the end of the retention period. In the rare case where a longer retention period is necessary, mySociety staff are responsible for moving the material to non-web accessible storage on mySociety’s servers and deleting it when the retention period is complete. 
+For material that needs to be retained for a relatively short period e.g. where we give the ICO four weeks to request the material from us before we delete it, the material will remain hidden on WhatDoTheyKnow and will usually be deleted at the end of the retention period. In exceptional circumstances, such as where we are in correspondence with the ICO about the case, we may extend the retention period. 
+
+In any, rare, case where a retention period over four weeks is deemed necessary and it is considered the release of the material is would pose a significant risk of harm, mySociety staff are responsible for moving the material to non-web accessible storage on mySociety’s servers and deleting it when the retention period is complete. 
 
 ###  Support emails #
 
@@ -242,7 +246,7 @@ We automatically publish responses to requests made through the site in full. Wh
 
 This means that: 
 
-  * If you are a decision-maker of any seniority, or if you are responding to an FOI request, we will not normally remove your details from documents and emails sent by a public body. Accountability of decision-making is at the heart of good government. 
+  * If you are a decision-maker of any seniority, or if you are responding to an FOI request, we will not normally remove your details from documents and emails sent by a public body or from FOI requests. Accountability of decision-making is at the heart of good government. 
   * If you hold a junior, non-decision making post we will consider requests to remove your details. Removing these details is time-consuming for our volunteers, so please let us know why this really matters to you. If we are not required to act by law but agree to remove your details we will take reasonable steps to do so — but in some cases may not be able to as it can be difficult to remove material from some types of document, such as images and PDFs. 
 
 
