@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the udimi.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627202731id_/https%3A//udimi.com/help/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the udimi.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228031933id_/https%3A//udimi.com/help/info/privacy-policy) for the most accurate reproduction.*
 
 # Udimi - Buy quality traffic
 
