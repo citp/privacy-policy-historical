@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topcashback.co.uk privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628094838id_/https%3A//www.topcashback.co.uk/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topcashback.co.uk privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228213550id_/https%3A//www.topcashback.co.uk/Privacy) for the most accurate reproduction.*
 
 # TopCashback - Privacy
 
@@ -92,8 +92,9 @@ Technical, Transactional, Identity and Contact Data from the following parties:
 To help improve the service we provide and the functionality of our Site we may receive personal data about you from various third parties as set out below:
 
 **a)** Technical Data from analytics providers such as Google based outside the EU;  
-**b)** Profile Data in the form of a mosaic profile from providers such as Experian; and  
-**c)** Contact and Technical Data where you join our Site as a result of our marketing activities involving third parties. 
+**b)** Profile Data in the form of a mosaic profile from providers such as Experian;  
+**c)** Contact and Technical Data where you join our Site as a result of our marketing activities involving third parties; and  
+**d)** Contact Data received from third parties who operate our Broadband Comparison Tool. 
 
 4\. HOW WE USE YOUR PERSONAL DATA
 
@@ -122,9 +123,9 @@ What is a legitimate interest?
 
   * Processing and facilitating any cashback due to you
   * Subscribing to the ‘On Card’ service
-  * Using the ‘Topcashback Compare’ tool
+  * Using the ‘Topcashback Compare’ and ‘Broadband Comparison’ tools
   * Using our ‘Snap and Save’ feature
-  * Managing payments from your Topcashback account including sending a payment via third parties such as PayPal, BACS, Reward Wallet, Avios.
+  * Managing payments from your Topcashback account including sending a payment via third parties such as PayPal, BACS, Reward Wallet.
   * Awarding On Card cashback
   * Awarding Snap and Save cashback
   * Processing of missing cashback payments (once received from networks)
@@ -370,7 +371,7 @@ We try to respond to all legitimate requests within one month. Occasionally it m
   * Various Affiliate Networks who track your purchases made via the Site 
   * Retailers as featured on the Site from time to time (in rare circumstances where your tracking through the Affiliate Network has failed and we need to investigate with the retailer direct) 
   * Regulators and other authorities based in the United Kingdom who may require reporting of processing activities in certain circumstances 
-  * Third party provider of the Topcashback Compare service 
+  * Third party provider of the Topcashback Compare and Broadband Comparison services. 
   * Various payout providers as offered on the Site from time to time. Some of these providers may be based in the US 
   * Depending on your marketing preferences, we may engage third party email providers 
   * Data matching providers to facilitate our On Card service. 
