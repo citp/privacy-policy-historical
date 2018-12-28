@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ifunny.co privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628141032id_/https%3A//ifunny.co/app/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifunny.co privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228195751id_/https%3A//ifunny.co/app/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - iFunny :)
 
-Last Updated: 05-25-2018
+Last Updated: 09-06-2018
 
 We believe that you should always know what kind of data we collect from you, how we collect it, and how you can have control over your data. We strive to be transparent in our data collection efforts and to provide you with the data that you need to make decisions about our collection of data from you. This is the purpose of our privacy policy.
 
@@ -78,13 +78,23 @@ You do not need to pay a fee to access your PII or to exercise your rights. Howe
 
 To confirm your request, we may need to request specific information from you as a security measure to ensure that personal data is not disclosed to an unauthorized third party. We will attempt to respond to all legitimate requests within thirty days.
 
+## Participation in Privacy Shield
+
+iFunny participates in the EU/Swiss and US Privacy Shield, which is a program intended to ensure that your personal data is safeguarded if it is transferred to the United States. A list of Privacy Shield certified companies is located at [https://www.privacyshield.gov/list ](https://www.privacyshield.gov/list). iFunny is committed to adhering to the principles of the Privacy Shield and to the protection of personal data as required by that program.
+
+For disputes related to iFunny’s participation in the EU/Swiss and US Privacy Shield, iFunny has designated the European Union Data Protection Officers to serve as an Independent Recourse Mechanism for dispute resolution. This means that iFunny has agreed to participate in the dispute resolution procedures of the panel established by the European Union Data Protection Officers to resolve disputes pursuant to the Privacy Shield Framework at no cost to you. Should you wish to file a dispute, you may do so at no cost through the European Union Data Protection Officers panel.
+
+iFunny recognizes that, as a participant in the EU/Swiss and US Privacy Shield, it is subject to the investigatory and enforcement powers of the FTC, the Department of Transportation or any other US authorized statutory body.
+
+Should iFunny fail to abide by the EU/Swiss and US Privacy Shield, it may face liability in cases of onward transfers to third parties.
+
 ## Third Party Links
 
 Our services may include links to third party websites and applications. By clicking on third party links, you may allow third parties to collect or share data about you. We do not control these third-party links and you are advised their respective privacy policies.
 
 ## Responding to Do Not Track Signals
 
-You can generally opt-out of receiving personalized ads from third party advertisers and ad networks who are members of the Network Advertising Initiative (NAI) or who follow the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising by visiting the opt-out pages on the NAI website and DAA website. Our websites are not currently set up to respond to browser do-not-track signals, but you can configure your browser settings to reject all cookies or prompt you before a cookie is set.
+You can generally opt-out of receiving personalized ads from third party advertisers and ad networks who are members of the Network Advertising Initiative (NAI) or who follow the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising by visiting the opt-out pages on the [NAI website](http://optout.networkadvertising.org/) and DAA website. Our websites are not currently set up to respond to browser do-not-track signals, but you can configure your browser settings to reject all cookies or prompt you before a cookie is set.
 
 ## California Privacy Rights
 
