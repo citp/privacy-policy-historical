@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thonky.com privacy policy that was archived on 2017-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170604173237id_/http%3A//thonky.com/globalpriv.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thonky.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228185355id_/http%3A//www.thonky.com/globalpriv.php) for the most accurate reproduction.*
 
 # None
 
@@ -17,7 +17,7 @@ www.thonky.com does use cookies to store information about visitors preferences,
 **DoubleClick DART Cookie**   
 \- Google, as a third party vendor, uses cookies to serve ads on www.thonky.com.  
 \- Google's use of the DART cookie enables it to serve ads to users based on their visit to www.thonky.com and other sites on the Internet.   
-\- Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>
+\- Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <https://www.google.com/privacy_ads.html>
 
 Some of my advertising partners may use cookies and Web beacons on my site. My advertising partners include:  
 Google Adsense  
