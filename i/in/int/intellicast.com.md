@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intellicast.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625192206id_/http%3A//www.intellicast.com/About/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intellicast.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228090946id_/http%3A//www.intellicast.com/About/Privacy.aspx) for the most accurate reproduction.*
 
 # Intellicast - Privacy Policy
 
@@ -94,7 +94,7 @@ Ad Partners may place cookies, web beacons and/or other data collection technolo
 
 This Privacy Policy does not cover the practices of our Ad Partners. While we work with Ad Partners to improve user experience, we do not control Ad Partners' technologies. For more information about technologies and how they use the information collected by the technologies on the Services and your options not to accept cookies placed by some of Ad Partners on the Services, please visit the DAA's [opt-out page](http://www.aboutads.info/choices/)
 
-In addition, you can find the links to our Ad Partners that may use data collection technologies on the Services [here](https://web.archive.org/web/20180625192206id_/http%3A//www.intellicast.com/About/AdPartners.aspx).
+In addition, you can find the links to our Ad Partners that may use data collection technologies on the Services [here](https://web.archive.org/web/20181228090946id_/http%3A//www.intellicast.com/About/AdPartners.aspx).
 
 You may also opt-out of additional third-party advertising networks by going to the Network Advertising Initiative's [website](http://www.networkadvertising.org/managing/opt_out.asp) at www.networkadvertising.org and following the directions.
 
@@ -106,7 +106,7 @@ You can also opt-out of future information collection from the Services by ceasi
 
 C. _Use of Cookies by Third Parties for Analytics_
 
-We contract with certain third parties that use data collection technologies to track, analyze and report data about the use of the Services and to analyze and optimize the performance of the Services. Information about these third parties is available [here](https://web.archive.org/web/20180625192206id_/http%3A//www.intellicast.com/About/AnalyticsPartners.aspx).
+We contract with certain third parties that use data collection technologies to track, analyze and report data about the use of the Services and to analyze and optimize the performance of the Services. Information about these third parties is available [here](https://web.archive.org/web/20181228090946id_/http%3A//www.intellicast.com/About/AnalyticsPartners.aspx).
 
 #### 3\. How We Share or Disclose Your Information
 
@@ -130,7 +130,7 @@ D. _Purchase or Sale of Businesses_. We continually look for ways to improve our
 
 #### 4\. Other Limitations on Privacy
 
-We, our affiliates, or our Third-Party Processors may disclose your personal data without your permission (i) pursuant to judicial or other government subpoenas, warrants, or orders or otherwise to comply with law; (ii) where we believe the rights, property or an individual's safety or security is at risk; (iii) if we find that your actions violate our [Terms of Use](https://web.archive.org/web/20180625192206id_/http%3A//www.intellicast.com/About/Terms.aspx) or any of our other legal rights; or (iv) where otherwise required or permitted by applicable law (which may include a lawful access request by US or foreign courts, governments or law enforcement agencies).
+We, our affiliates, or our Third-Party Processors may disclose your personal data without your permission (i) pursuant to judicial or other government subpoenas, warrants, or orders or otherwise to comply with law; (ii) where we believe the rights, property or an individual's safety or security is at risk; (iii) if we find that your actions violate our [Terms of Use](https://web.archive.org/web/20181228090946id_/http%3A//www.intellicast.com/About/Terms.aspx) or any of our other legal rights; or (iv) where otherwise required or permitted by applicable law (which may include a lawful access request by US or foreign courts, governments or law enforcement agencies).
 
 #### 5\. Opting-Out, Access, Corrections and Cancellations
 
