@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slrlounge.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628040233id_/https%3A//www.slrlounge.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slrlounge.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228102753id_/https%3A//www.slrlounge.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -86,17 +86,17 @@ We state in our Privacy Policy that we do not collect any personal information v
 
 All users have the right to request that their personal data be deleted at any time. 
 
-To request to delete your data, please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#bbd3ded7cbfbc8d7c9d7d4ced5dcde95d8d4d6). 
+To request to delete your data, please email us at [help@slrlounge.com](mailto:help@slrlounge.com). 
 
 **Attaining a Copy of Personal Data**
 
 All users have the right to request a copy of their personal data at any time.
 
-To request a copy of your data, please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2e464b425e6e5d425c42415b40494b004d4143). 
+To request a copy of your data, please email us at [help@slrlounge.com](mailto:help@slrlounge.com). 
 
 ### **Modification of Personal Information**
 
-All users can easily access and update their information in their Account Settings (link to Account Settings). If a user requires further assistance making any personal information modifications, please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#cfa7aaa3bf8fbca3bda3a0baa1a8aae1aca0a2).
+All users can easily access and update their information in their Account Settings (link to Account Settings). If a user requires further assistance making any personal information modifications, please email us at [help@slrlounge.com](mailto:help@slrlounge.com).
 
 ### **Data Protection**
 
