@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the facty.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628010222id_/http%3A//facty.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the facty.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228073252id_/http%3A//facty.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Facty Network
 
