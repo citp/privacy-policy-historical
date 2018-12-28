@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beatlesbible.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628002056id_/https%3A//www.beatlesbible.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beatlesbible.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228075827id_/https%3A//www.beatlesbible.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy – The Beatles Bible
 
@@ -166,5 +166,3 @@ By using our site, you consent to this privacy policy.
 #### Changes to our privacy policy
 
 If we decide to change our privacy policy, we will post those changes on this page.
-
-#### Contact us
