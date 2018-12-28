@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dmagazine.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627225130id_/https%3A//www.dmagazine.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dmagazine.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228053132id_/https%3A//www.dmagazine.com/site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - D Magazine
 
@@ -95,7 +95,7 @@ Third Party Advertisements
 
 Third-party advertisements that appear on  _D Magazine_  are sometimes delivered (or “served”) directly to users by third party advertisers. The advertisers may automatically receive your IP address when this happens. These third party advertisers may also download cookies to your computer, or use other technologies to measure the effectiveness of their ads and to personalize advertising content. Cookies will allow the advertiser to recognize your computer each time they send you an advertisement. In this way, they may compile information about where individuals using your computer or browser saw their advertisements and determine which advertisements are clicked.  _D Magazine_  does not have access to or control of the cookies that may be placed by the third party advertisers. Third party advertisers have no access to your contact information stored on the Site unless you choose to share it with them.
 
-This privacy policy does not cover the use of cookies or other tracking technologies by any of its advertisers. Some third-party ads on our sites will enable geographic, behavioral, and contextual targeting. To opt out of such DoubleClick targeting, click [ **this link**](http://www.networkadvertising.org/managing/opt_out.asp) to visit the Network Advertising Initiative opt-out page.
+This privacy policy does not cover the use of cookies or other tracking technologies by any of its advertisers. Some third-party ads on our sites will enable geographic, behavioral, and contextual targeting. To opt out of such DoubleClick targeting, click [ **this link**](https://www.networkadvertising.org/managing/opt_out.asp) to visit the Network Advertising Initiative opt-out page.
 
 Again, if you would like to avoid cookies, your web browser may have an option that enables you to disable or not accept cookies. It should be noted, however, that should you disable or not accept cookies, portions of the Site may not properly function.
 
@@ -104,4 +104,4 @@ Children’s Online Privacy**
 
 Consistent with the Children’s Online Privacy Protection Act (“COPPA”), this Site is not intended for use by anyone under the age of 13.  _D Magazine_  does not knowingly collect personal information from children through this Site, or any of its Web sites. Minors between the ages of 13 and 17 must obtain the permission of their parents or legal guardians before making purchases of any type on this Site.
 
-If you are a parent with concerns about children’s privacy issues in conjunction with the use of this Site, or any other privacy issue, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you are a parent with concerns about children’s privacy issues in conjunction with the use of this Site, or any other privacy issue, please contact us at feedback@dmagazine.com.
