@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allbeauty.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629173536id_/http%3A//www.allbeauty.com/us/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allbeauty.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228062933id_/http%3A//www.allbeauty.com/us/en/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -18,7 +18,7 @@ We collect contact and delivery information (e.g. name, billing address, deliver
 
 ### Tracking and advertising based on your visit
 
-allbeauty works with Google Analytics and Criteo to display adverts as you browse the web, based on your behaviour on our website. We try to ensure you see only information that is relevant and helpful to your buying experience. If you would like to tailor how these ads are targeted, you can do so [here](http://www.google.com/settings/ads/onweb/). If you would rather opt out of having your data collected for this purpose, install [this free plugin](http://www.google.com/settings/ads/plugin/).
+allbeauty works with Google Analytics and Criteo to display adverts as you browse the web, based on your behaviour on our website. We try to ensure you see only information that is relevant and helpful to your buying experience. If you would like to tailor how these ads are targeted, you can do so [here](https://adssettings.google.com/). If you would rather opt out of having your data collected for this purpose, install [this free plugin](http://www.google.com/settings/ads/plugin/).
 
 We also work with a company called Redeye so that we can make recommendations to you based on your activity on our site. If you would not like this data to be collected you can [contact us](https://www.allbeauty.com/us/en/contact) at any time and we’ll be happy to remove you.
 
