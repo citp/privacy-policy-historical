@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mobileheadlines.net privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628000905id_/https%3A//www.mobileheadlines.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobileheadlines.net privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228064342id_/https%3A//www.mobileheadlines.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - MobileHeadlines
+# Privacy Policy - Mobileheadlines
 
 Privacy Policy for mobileheadlines.net
 
@@ -36,4 +36,4 @@ We may hire third-party advertising companies to display ads when you visit our 
 
 **Contact Us**
 
-You can contact us by clicking on the Contact Us link available on our site links 
+You can contact us by clicking on the Contact Us link available on our site links
