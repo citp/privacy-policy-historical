@@ -1,130 +1,128 @@
-> *The following text is extracted and transformed from the cadbury.co.uk privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517212201id_/https%3A//www.cadbury.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cadbury.co.uk privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228111818id_/https%3A//www.cadbury.co.uk/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# 
 
-Privacy Notice
+##  Full Privacy Notice 
 
-This website is owned and operated by Mondelez Europe Services GmbH – UK Branch (the "Mondelez UK" or "we"). At Mondelez UK, we recognize that visitors to our site may be concerned about the information they provide to us and how we handle that information.  
-The Company is located at Sanderson Road, Uxbridge, Middlesex UB8 1DH. The legal jurisdiction of this site is England and Wales (“Jurisdiction”). 
+###  Introduction 
 
-We respect your privacy. This Privacy Policy outlines the information we collect and how we use it. This Policy applies solely to information collected through this Site and not other sources. 
+At Mondelēz International, we value your trust when sharing your personal data with us and recognize that you may be concerned about the information provided to us and about how we handle that information. 
 
-A) Conditional Use of this Site
+If you are reading this Privacy Notice ("Privacy Notice") it is because you may have visited a Website, a Mobile App or any other place within any Social Media (all of them referred to hereinafter as “Sites”) operated by any of the [European entities of Mondelēz International Group ("Mondelēz International " or "us" or "we")](https://eu.mondelezinternational.com/~/media/MondelezCorporate/Europe/uploads/downloads/European_Entities_of_Mondelez_International_Apr_2018.pdf) or, because you may have contacted us directly by phone or in writing. 
 
-Your access to and use of this Site and its contents (the “Site”) is subject to the terms and conditions of this Privacy Policy (“Privacy Policy” or “Policy”), and all applicable laws.   By accessing and using this Site, you (the “User” or “you”) accept and agree to these without any limitation or qualification. 
+This Privacy Notice sets out (in full transparency and in accordance with applicable laws and regulations, especially the General Data Protection Regulation -Regulation (EU) 2016/679- "GDPR"), the basis on which we process your Personal Data ("Personal Data") when you access our Sites or contact us. 
 
-B) Terms of Use
+###  Speed Read on key Mondelēz International data processing 
 
-Your use of this Site is also subject to the Terms of Use posted on this Site (“Terms of Use”). 
+Mondelēz International collects and uses Personal Data which you provide or which we collect about you when you navigate through our Sites for the purposes of advertising, supplying you with our products and services, making contact with you for marketing or other commercial purposes, answering your enquiries regarding our products, facilitating your participation in our offers and promotions, analysing and improving the quality of our products or services. 
 
-C). Information We Collect
+Your access to and use of our Sites is subject to the terms and conditions of our Privacy Notice and all applicable laws. Your Personal Data processing will be limited to what it is necessary in relation to the purposes abovementioned. We will be collecting your expressed consent only where necessary by opt-ins so that you exert full control on the information we process and hold about you. Otherwise, we will only process your Personal Data if necessary for the performance of a contract with you, for compliance with a legal obligation of Mondelēz International and /or for the purposes of legitimate interests of Mondelēz International. 
 
-1\. Personally-Identifiable Information  
-On our Site, we collect certain personally-identifiable information, such as name, gender, telephone number and e-mail address, about online visitors who choose to register on our Site or participate in our offers and programs. We don’t require you to register or provide personally-identifiable information to view our site or access much of its content, such as our many delicious recipes. But if you register, you may use certain additional features that allow you to e.g. receive or access your favourite recipes and participate in our interactive communities.  Sharing this additional information with us also helps us customize your website experience.  In addition, we may use the information you provide us to send you offers and information about Mondelez UK, its portfolio of brands and its partners.  Here are the ways we collect personally-identifiable information. 
+We usually process your Personal Data in the European Union but, it may also be stored in systems based around the world, and may be processed by third party service providers acting on our behalf. These systems and providers may be based on territories, such as the USA, that do not provide an equivalent level of protection over privacy as that enjoyed in the EU. In that case Mondelēz International will provide for adequate technical and organizational measures to protect your Personal Data and ensure a level of safeguards that is equivalent to the one of the country of origin. You can seek for further information and exercise your rights of access, rectification, cancellation, objection, and data portability in respect of your Personal Data, by clicking in our [Contact Us](https://contactus.mdlzapps.com/form?siteId=Zv0BAiPw9HLxCuKyFDGRiyYZfufseHmj) feature or contacting our Data Protection Officer (please see contact details below). 
 
-2\. Registration   
-To take full advantage of our offers, you may choose to register on our site. In the registration process, we sometimes request certain information (such as your contact information and age) so we can provide you with the communications you request, tailor our Site to better meet your needs and customize our contacts with you. 
+We may change this Privacy Notice from time to time by posting the updated version of the Privacy Notice on our Sites. We will inform of any material change so that you can fully understand the changes that are actually implemented. Please visit frequently this Privacy Notice to stay informed about how we use your personal data. 
 
-3\. Contests, competitions and promotions  
-Our site contains notices of contests, competitions and games that you can enter. We use the information you provide to conduct the promotion (for example, to contact you if you’re a winner). 
+**This Privacy Notice is dated 11.04.2018**
 
-4\. E-mail  
-When you ask us to send you updates, recipes or other content by e-mail, you may provide us with certain information like your e-mail address so we can fulfil your request. 
+###  What Personal Data do we collect from you? 
 
-5\. "Contact Us" link  
-If you contact us through the ""Contact Us"" link on this site, we ask you for information such as your first name, e-mail address, and other information, so we can respond to your questions and comments. You may choose to provide additional information as well. 
+The type of information and Personal Data that we collect about you when you visit our Sites or interact with us may include the following: 
 
-6\. Shopping  
-When you purchase products or services from Mondelez UK, we request your billing information so we can fulfil your request. We use your billing information only to send you the items you ordered. 
+  * Personal details provided by you - such as your name, postal address and other contact details, such as your telephone number and email address, your requests, any complaints you may have and any other data we receive if we communicate with you via email, online or via social media, and any other information you provide - for example, when you register with our Sites, sign up for our newsletters, participate in our offers and promotions, provide customer feedback, reply to surveys or purchase our products or services; 
+  * Payment information - including data to make purchases, such as your payment account details, credit card and debit card numbers, expiration date, shipping and billing address; 
+  * Account login information - including any information that is required for you to establish a user account, such as user name, password and security question and answer; 
+  * Information collected automatically – including information about your computer, IP address, and browser, that we may collect, for example, when we use in our Sites our own cookies or cookies owned by 3rd parties, web beacons and similar technologies that collect information about your use of our Sites or about your interaction with us by emails. See our [Cookie Policy](https://www.cadbury.co.uk/cookies) for further information. 
 
-7\. Send to a Friend  
-We may give you the opportunity to tell your friends about features or information on our websites. If you take advantage of our ‘Send to a Friend’ option, we ask you for your friend’s and your first name and e-mail addresses to send the information to them that you requested. We don’t keep or use your friend’s e-mail address for any other purpose. 
+  
 
-8\. Other site features  
-We offer visitors to our Site various features for their enjoyment, which we change from time to time. We may ask you to submit certain personally-identifiable information (as outlined in section 3(a)), so we can provide you with these features. 
 
-9\. Questionnaires and surveys  
-We may ask our website visitors and purchasers to complete surveys and opinion polls to provide feedback on activities, attitudes and interests. These surveys help us understand the needs of our visitors and purchasers. 
+###  Why do we collect Personal Data? 
 
-10\. Information collected by automated means  
-We may use cookies, web beacons/pixel tags, log files, and other technologies to collect certain information about visitors to our Site, use of our online services, and interactions with our emails and online advertisements. For example, through these means, we may collect your browser type and operating system, viewed webpages, links that are clicked, IP address, sites visited before coming to our Site, emails we send that you open, forward, or click through to our Site.   
-You can set your Internet browser settings to stop accepting new cookies, to receive notice when you receive a new cookie, to disable existing cookies, and to omit images (which will disable pixel tags). Note that the opt-out will apply only to the browser that you are using when you elect to opt out of advertising cookies. Without cookies or pixel tags though, you may not be able to take full advantage of all of Mondelez UK’s website features.   
-Please see “Cookies” section for further information 
+We collect and use your Personal Data for the purposes below and on lawful basis. Please know that insofar as we already hold information about you, we may use that information for the same purposes. 
 
-11\. Information collected from other sources  
-We may obtain information about you from other sources, including commercially available sources, such as data aggregators and public databases. This information may include name, demographic information, interests, and publicly-observed data, such as from social media and shopping behaviour. We may combine this information with the information we collect from you to help us tailor our communications to you and to improve our services and products. 
+For legitimate commercial interests: we may use your Personal Data (both on an aggregated and on an individual basis), such as your contact details, your account and electronic identification data, information regarding your purchases in our stores and online, for the purpose of advertising and for analysing and improving the quality of our products or services, as well as, to understand you as a customer. 
 
-D) How we use your information
+This also means that we analyse the information that you provide to us together with your use of our Sites or of our products and services and we use all this information to improve the same and to give you a better user experience (for example, we analyse what web pages you visit, which products and services you use and like, how you use these products and services). 
 
-We may use the information we collect to contact you from time to time. For example, we may (i) send you promotional offers, materials, and other communications and information about Mondelez UK and Mondelēz International, its portfolio of brands and its partners, (ii) respond to your comments or questions, or (iii) contact you if needed while processing a product or service you requested through our Site. We also may use the information you provide to contact you for your opinions on Mondelez UK products, services or websites. As described in this Privacy Notice, we also use the information we collect about you to improve our Site, products and services, and to deliver content that is customized to your interests. In addition we may use such personal information:   
-•        to respond to your questions and requests, to provide you with access to certain areas and features and to communicate with you about your activities on this Site;  
-•        to share it with our Related Parties as required to perform functions on our behalf in connection with the Site (such as delivery of merchandise, administration of the website or promotions or other features on it, marketing, data analysis or customer services). To do so, it may be necessary for us to transmit your personal information to outside the above Jurisdiction, and, where the site is based within the European Economic Area (EEA), to outside the EEA, and you agree to this transfer.  Further use or disclosure of the information by them for other purposes is not permitted. To provide you with product information or promotional and other offers from us or our Related Parties;  
-•        if required by law, regulation or court order;  
-•        for the purpose of or in connection with legal proceedings or necessary for establishing, defending or exercising legal rights; or   
-•        in an emergency to protect the health or safety of website users or the general public or in the interests of national security.  
-Except as provided in herein, we will not provide any of your personal information to any third parties without your specific consent. 
+We may also use your Personal Data, for legitimate commercial interests such as, to generate aggregated statistics about the users of our products and services; to assist in security and fraud prevention; for system integrity purposes; to remind you per email of your abandoned cart or send you an order confirmation; to facilitate our business operations, to operate company policies and procedures; to enable us to make corporate transactions, such as any merger, sale, reorganization, transfer of Mondelēz International assets or businesses, acquisition, bankruptcy, or similar event; and for other legitimate business purposes permitted by applicable law, on which we would provide the relevant information at the time. 
 
-E) Opt-out and Opt-in
+**For the performance of the terms and conditions of a contract:** to purchase our products or services or to develop a contest, competition or promotion in which you may have entered, to conduct the promotion and contact to you if you became a winner, to be able to answer to any information request performed using our Contact Us features. 
 
-We may provide you with an “opt in” or “opt-out” mechanism depending on the requirements of the Site’s Jurisdiction and the Site.   An “opt-in” mechanism will provide you the opportunity to positively indicate that you would like or do not object to our sending you such further communications and we will not send you any unless you have “opted-in”.  An “opt-out” mechanism will provide you the opportunity to indicate that you do not want us to send you such further communications, and if you “opt-out” we will not send you any.   
-Either way, opting-in or opting-out will be up to you and, in addition, if you do not want us to use your personal information for a particular purpose or disclose it to a third party, you may “opt out” at any time by contacting us as provided below.   
-Specific opt-outs may also be provided at the point of collection or along with the communications to you.   
-Please note though, by opting-out, you may not be able to participate in certain activities on our websites. 
+**We may also use your information based on your consent,** where granted, for instance for marketing purposes and for tailoring our communications with you based on your profiles via email, SMS, other electronic means or otherwise. You can withdraw your consent any time; see What rights do you have regarding the Personal Data we hold about you? 
 
-F) How we share your information
+**To comply with our legal obligations,** such as maintaining appropriate business records, handling complaints made to our customer service, complying with lawful requests by public authorities and with applicable laws and regulations or as otherwise required by law. 
 
-We do not sell or otherwise disclose personally identifiable information about our website visitors, except as described here. We do not share your personally identifiable information with unaffiliated third parties for their own marketing purposes without your consent.   
-We may share personally identifiable information among Mondelez UK and Mondelez UK brands and subsidiaries. We may also share the information with service providers we have retained to perform services on our behalf, such as to help run promotions, fulfil orders and provide customer service. These service providers may have access to personally-identifiable information about our website visitors if it is needed to perform their functions for Mondelez UK, but they are not authorized by Mondelez UK to use or disclose the information except as necessary to perform services on Mondelez UK’s behalf or to comply with legal requirements. In addition, we may disclose information where we think it’s necessary to investigate or prevent an actual or suspected crime or injury to ourselves or others, if required by law, or in response to a request from law enforcement authorities or other government officials.  
-We may conduct joint promotions with other companies. We may share with our promotional partners (and their service providers) certain personally-identifiable information as necessary to conduct the promotion. We will not share this information with our promotional partners for any other purpose unless you consent to such sharing. 
+###  How long do we retain your Personal Data? 
 
-G) Links to other websites
+We will only retain your Personal Data for as long as it is necessary to satisfy the purpose for which it was provided by you or collected by us (for example, for the time necessary for us to answer queries or resolve problems). 
 
-This Site may contain links to other web sites that we do not own or operate.  We do not control, recommend or endorse and are not responsible for these sites or their content, products, services or privacy policies.  Downloading material from certain sites may risk infringing intellectual property rights or introducing viruses into your system.  You should note when you leave this Site and read the privacy policies and terms of these other sites.  You should also independently assess the authenticity of any website which appears or claims that it is one of our sites (including those linked to through an email). 
+We may therefore retain your Personal Data for a reasonable period after your last interaction with us. When the Personal Data that we collect is no longer required in this way, we destroy or delete it in a secure manner. We may, instead of destroying or erasing your Personal Data, make it anonymous so that it cannot be associated with or tracked back to you. In certain cases, we may have legal or regulatory obligations that require us to retain specific records for a set period of time. 
 
-H) How we protect your information
+###  Who might we share your Personal Data with? 
 
-The security of personally-identifiable information is important to us. We maintain administrative, technical and physical safeguards to protect against unauthorized use, disclosure, alteration or destruction of the personally-identifiable information we collect on this Site. However, we cannot guarantee the security of such information. To the fullest extent permitted by law, we disclaim all liability and responsibility for any Damages you may suffer due to any loss, unauthorized access, misuse or alteration of any information you submit to this Site. 
+We may share your Personal Data with: 
 
-I) Use of “Cookies” on our websites
+  * Mondelēz International entities. Your Personal Data could be shared between the responsible Mondelēz International companies that may use your Personal Data as described in this Privacy Notice. 
+  * Service Providers and Processors. We may engage third party vendors, agents, service providers, and affiliated entities to provide services to us on our behalf, such as support for the internal operations of our websites, Mobile Apps or online stores (including social media services providers, payment processors, brand activation agencies, data analytics providers and third parties we use for sending your orders to your home address, such as postal courier vendors) or for the technical processing (for example, hosting services or data storage) or for customer relationship management services, as well as related offline product or promotional support services, (for example, competitions, sweepstakes and contests organizers, winner draws providers, events management agencies, prize or compensation packages vendors) and, other related services. 
+  * In providing their services, they may access, receive, maintain or otherwise process Personal Data on our behalf. Our contracts with these service providers do not permit use of your information for their own purposes, including their marketing purposes. Consistent with applicable legal requirements, we take commercially reasonable steps to require third parties to adequately safeguard your Personal Data and only process it in accordance with our instructions. 
+  * Partners. We may sometimes offer you a service or application in co-operation with partners (for example, co-sponsors or licensors, licensees or distributors of our branded products). We may therefore need to disclose your Personal Data to those partners. Consistent with applicable legal requirements, we take commercially reasonable steps to require third parties to adequately safeguard your Personal Data and only process it in accordance with our instructions or as co-controllers. In those cases in which the disclosure of your Personal Data with third partners takes place based on your consent or your request to do so, where relevant, we will clearly notify you of the sharing, and you will have the choice not to participate or to otherwise object to such sharing. 
+  * Third parties in case of legal requirement. We may also disclose your Personal Data if we believe we are required to do so by law, or that doing so is reasonably necessary to comply with legal processes; when we believe necessary or appropriate to disclose Personal Data to law enforcement authorities, such as to investigate actual or suspected fraud or violations of law, breaches of security, or breaches of this Privacy Notice; to respond to any claims against us; and, to protect the rights, property, or personal safety of Mondelēz International, our customers, or the public. 
+  * Third Parties in case of a corporate transaction. In addition, information about our customers, including Personal Data, may be disclosed as part of any merger, sale, reorganization, transfer of Mondelēz International assets or businesses, acquisition, bankruptcy, or similar event. 
 
-Mondelez UK websites do not use cookies to collect personally identifiable information about you. However, if you wish to restrict or block the cookies which are set by any of our websites, or indeed any other website, you can do this through your browser settings. The “Help” function within your browser should tell you how to disable this function.  
-Please be aware that restricting cookies may impact on the functionality of the Mondelez UK websites.   
-For further information, please see our Cookie Policy. 
+  
 
-J) Updates to this Privacy Policy
 
-Please note we may change information on this Site and/or this Policy, at any time without notice. You should regularly review this Policy for any changes.  Any changes will be effective immediately upon the posting of the revised Policy on this Site.  By continuing to use the Site, you agree to any changes, and by providing continued access to the Site we are providing you consideration for agreement to such changes. 
+###  International transfers of your Personal Data 
 
-K) Children
+We will normally process your Personal Data within the European Union. Notwithstanding this, the global nature of our business involves that your Personal Data may occasionally be disclosed to non-European entities of the Mondelēz International Group for which they have entered into a data transfer agreement regulating these cross-border transfers. 
 
-We take the protection of children’s privacy seriously.   We operate this Site in compliance with all applicable law in the above Jurisdiction.  Children under the age referred to below for the appropriate Jurisdiction for the Site should have a parent/guardian’s consent before providing any personal information to the website.   We will not, as provided by applicable law, require or request children under this age to provide more personal information than is reasonably necessary to participate in the applicable activity on the Site.  If we determine upon collection that a user is under this age, we will not use or maintain his/her personal information without the parent/guardian’s consent.  Without such consent, though, the child may not be able to participate in certain activities.  However, in certain circumstances, we may maintain and use such information (in accordance with the rest of this Policy and applicable law) in order to notify and obtain consent from the parent/guardian and for certain safety, security, liability and other purposes permitted under applicable law.  A parent/ guardian can review, remove, change or refuse further collection or use of their child’s personal information by contacting us as provided above (include child’s name, address and e-mail address).  
-Site’s Jurisdiction/Applicable Age:  
-•        UK: Under 12 years of age. 
+We also use some third party suppliers to help us provide business services. These third parties may have access to or merely host your Personal Data, but will always do so under our instructions and subject to a contractual relationship. When these third parties are located in territories (such as the USA) which may not offer an equivalent level of protection to privacy as that applicable within the EU, we will take all the necessary steps to verify that your Personal Data receives an adequate level of protection. This, either by entering into data transfer agreements or by ensuring that third parties are certified under appropriate data protection schemes (for example, EU-US Privacy Shield). 
 
-L) Jurisdiction
+###  How do we ensure the security of your Personal Data? 
 
-We control and operate the Site from the above Company Location (regardless of where hosting servers are located).  All matters relating to the Site are governed by the laws of the above Jurisdiction, without reference to conflict or choice of law principles.  You agree that jurisdiction and venue for any legal proceeding relating to the Site shall be in appropriate courts located in the above Jurisdiction.  We do not warrant or imply that the Site or materials on it are appropriate for use outside of the above Country.  The information set forth in this Site concerning any products or services is applicable only in the Jurisdiction and these products or services may not be available in all locations.  If you are located outside of this Country, you are solely responsible for compliance with any applicable local laws. 
+We use a variety of physical, technical and administrative security standards, technologies and procedures to help protect your Personal Data from loss, misuse, alteration, destruction or damage to an appropriate level depending on the sensitivity of the information. 
 
-M) Transfer of assets
+We take steps to limit access to your Personal Data to those persons who need to have access to it for one of the purposes listed in this Privacy Notice. Furthermore, we contractually ensure that any third party processing your Personal Data equally provide for confidentiality and integrity of your data in a secure way. 
 
-During the course of our business, we may sell or purchase assets.  If another entity acquires us or all or substantially all of our assets, personally and non-personally identifiable information we have collected about the users of the Site may be transferred to such entity.  Also, if any bankruptcy or reorganization proceeding is brought by or against us, such information may be considered an asset of ours and may be sold or transferred to third parties. 
+###  What rights do you have regarding the Personal Data we hold about you? 
 
-N) Severability
+You have the following rights: 
 
-If for any reason, any provision herein is found void or unenforceable, it will be severed to the extent void or unenforceable and the remaining provisions will continue in full force and effect. 
+  * to obtain a copy of your Personal Data together with information about how and on what basis that Personal Data is processed; 
+  * to rectify inaccurate Personal Data (including the right to have incomplete Personal Data completed); 
+  * to erase your Personal Data in limited circumstances where it is no longer necessary in relation to the purposes for which it was collected or processed; 
+  * to restrict processing of your Personal Data where: 
+    * the accuracy of the Personal Data is contested; 
+    * the processing is unlawful, but you object to the erasure of the Personal Data; 
+    * we no longer require the Personal Data for the purposes for which it was collected, but it is required for the establishment, exercise or defense of a legal claim; 
+    * you challenge the processing which is justified on the basis of a legitimate interest; 
+  * to object to decisions which are based solely on automated processing, including profiling; 
+  * to receive a portable copy of your Personal Data, or to have a copy transferred to a third party controller where technically feasible and this does not involve unreasonable costs; 
 
-O) Definitions/Interpretation
 
-As used herein:  
-“Damages” means any and all direct, special, indirect, consequential or punitive loss or other damages of any kind (whether in contract, including fundamental breach, tort, including negligence, or otherwise).  
-“including” means “including, but not limited to”.  
-“materials sent to the Site” (and “materials you send to the Site” and other like terms) means anything emailed, uploaded, posted or otherwise transmitted or sent to the Site (whether information, text, material, data or code or other) by you or another user.  
-“Related Parties” means all of our parent, subsidiary and affiliated companies, Site Developers and other promotional partners.  
- “Site Developer” means any party involved in creating, producing, delivering or maintaining the Site.  
-“use of this Site” (and “using” and other like terms) means “any and all use of the Site of any kind whatsoever, including access to, browsing of, reviewing, posting of, transmitting, reviewing, downloading, and other using the Site or any material on the Site.” 
 
-P) Contact Us
+In case you may have a complaint about how we process your Personal Data, you can send it by clicking in our [Contact Us](https://contactus.mdlzapps.com/form?siteId=Zv0BAiPw9HLxCuKyFDGRiyYZfufseHmj) form or contacting our Data Protection Officer (please see contact details below). 
 
-If you have any questions about this Privacy Notice, you can contact us at:  
-Cadbury Website Manager, Mondelez UK, 2nd Floor, Bournville Place, Bournville Lane, Birmingham, B30 2LU.   
-Alternatively you can call us on 0121 451 4444 (between 9am and 5pm GMT) and we will be happy to assist you with your query or contact us by email using our [contact us form](https://web.archive.org/contactdetails). 
+Alternatively, you have the right to lodge a complaint with the supervisory data protection authority. 
+
+If you have any questions regarding the processing of your Personal Data, this Privacy Notice or if you wish to exercise any of the above mentioned rights, please contact us. Either you can send it by clicking in our [Contact Us](https://contactus.mdlzapps.com/form?siteId=Zv0BAiPw9HLxCuKyFDGRiyYZfufseHmj) form or contacting our Data Protection Officer (please see contact details below). Whenever reasonably possible and required, we will strive to grant your rights within one month. 
+
+You may revoke your consent for receiving newsletter or marketing communications at any time, free of charge by following the instructions in any marketing communication or even now by using the deregistration option within our [Contact Us](https://contactus.mdlzapps.com/form?siteId=Zv0BAiPw9HLxCuKyFDGRiyYZfufseHmj) form. You can also control these preferences in your profile settings, where applicable. 
+
+###  Social Media and Other Websites 
+
+When you participate in any of our MDLZ profiles or wherever MDLZ is present in any of the various social media forums like Facebook, Twitter, Yammer, Pinterest, Instagram, LinkedIn, Youtube, etc., you should be familiar with and understand the tools provided by those sites that allow you to make choices about how you share the Personal Data in your social media profile(s). 
+
+For these forums the privacy practices or policies of these third parties apply, so we encourage you to read the applicable privacy notices, terms of use and related information about how your Personal Data is used in these social media environments. 
+
+Subsequently our Sites may contain links to third-party websites; if you follow these links, you will exit our websites and mobile applications. While these third-party websites are selected with care, Mondelēz International cannot accept liability for the use of your Personal Data by these organisations. For more information and details, please consult the Section Data Privacy Notices of third parties and the privacy statement of the website you are visiting (if such a statement is provided). 
+
+###  How do we process Children’s Personal Data? 
+
+In general terms, our Sites are not intended to Children under 12 years old. Above that age, as we take the protection of children’s privacy seriously, we operate our Sites in compliance with all applicable law in each corresponding Jurisdiction. Any time children under the age of 16 years old or below, as per the appropriate applicable law for each Site, should have a parent/guardian’s consent before providing any Personal Data to us to the website. If we determine upon collection that a user is under said age and has not provided a parent/guardian’s consent before providing any Personal Data, we will not use or maintain his/her Personal Data without the parent/guardian’s consent. Without such consent, though, the child may not be able to participate in certain activities. However, in certain circumstances, we may maintain and use such information (in accordance with the rest of this Notice and applicable law) in order to notify and obtain consent from the parent/guardian and for certain safety, security, liability and other purposes permitted under applicable law. A parent/ guardian can review, remove, change or refuse further collection or use of their child’s Personal Data by contacting us by clicking in our [Contact Us](https://contactus.mdlzapps.com/form?siteId=Zv0BAiPw9HLxCuKyFDGRiyYZfufseHmj) form or contacting our Data Protection Officer (please see contact details below), including child’s name, address and e-mail address. 
+
+###  Mondelēz International 's Data Protection Officer 
+
+Mondelēz International has a Data Protection Officer ("DPO") who is responsible for the compliance with data protection law. You may contact Mondelēz International 's Data Protection Officer or their office securely and confidentiality at any time if you have questions, general concerns about the processing of your Personal Data, or any data protection issue. 
+
+You can contact the DPO's by emailing to _MDLZDataProtectionOfficeMEU@mdlz.com_
