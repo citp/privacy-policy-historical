@@ -1,37 +1,50 @@
-> *The following text is extracted and transformed from the ussoccerstore.com privacy policy that was archived on 2017-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170727014206id_/http%3A//www.ussoccerstore.com/safety-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ussoccerstore.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228022330id_/https%3A//www.ussoccer.com/privacy-policy) for the most accurate reproduction.*
 
-# The Official Store of U.S. Soccer - 2015 USA Jerseys, USA Apparel, USA T-Shirts, Equipment, Headwear and more
+# Privacy Policy - U.S. Soccer
 
-For detailed information about our policies, please click on any topic of interest listed below:
+Effective Date: January 1, 2005
 
-Web Site Log Information  
-Credit Card Information  
-Email Addresses  
-Postal Addresses   
-Telephone Numbers   
+**U.S. Soccer's Online Privacy Policy**  
+Please also visit our [Terms of Use](https://web.archive.org/About/Terms-of-Use.aspx) section that explains other terms governing the use of this website ("Website"). This policy describes the information collected by U.S. Soccer and how that information is used. By accessing or using this Website, you consent to the terms of this Privacy Policy, as well as the [Terms of Use](https://web.archive.org/About/Terms-of-Use.aspx). U.S. Soccer may modify this Privacy Policy at any time without notice, effective upon its posting to the Website. Your continued use of the Website constitutes your acceptance of this Privacy Policy and any updates to it.
+
+**Collecting Information**  
+When you visit the Website, you may voluntarily provide us with personal information. We may receive information from you when you register for certain functions within the Website, request information, or participate in a promotion or other Website feature.
+
+In addition, we collect information about how Website visitors use our Website, as further described below.
+
+**Using Information**  
+We may use the information we collect from Website visitors to:
+
+  * Operate, provide, improve and maintain the Website;
+  * Customize and/or personalize your communications;
+  * Communicate with you about our events, and for other promotional purposes;
+  * Improve our Website;
+  * Administer contests, promotions, surveys or other Website features.
 
 
-**Website Log Information**  
-When your Web browser requests information from our site, our Web server automatically records the date, time, and IP address from which your request came. From this information, we can sometimes, but not always, determine the domain and host name of the network provider to which you are connected, such as MSN, America Online, your local ISP, etc. This information does not identify you individually, and we do not seek to do this. You are an "anonymous" user unless you choose to send us email, fill out an online form to request more information, add your name to one of our email lists, or purchase one of our USSoccerStore.com products. We use the aggregate information in our visitor files to determine usage and "popularity" of various parts of our web site. Sometimes we share web site log information with our business partners for advertising, promotional or merchandising purposes, and to help improve our site and make it more useful to you.  
-top
 
-**Credit Card Information**  
-Keeping your personal credit card information private is vitally important to us. USSoccerStore.com will never rent or sell the information gathered in a credit card transaction. Knowing that you use certain services or purchase certain products may help us to offer you better service and more popular products. Please note that there are places in USSoccerStore.com where you can transmit credit card information in order to complete a purchase transaction. Any time we ask for a credit card number we transmit that credit card number in an encrypted format. We use industry-standard, SSL (Secure Socket Layer) encryption. USSoccerStore.com does not sell or provide any third parties with any personal credit card information.  
-top
+U.S. Soccer has several sponsors and other business partners that can offer valuable products and services to our Website visitors. U.S. Soccer will not disclose your e-mail address to these partners unless you have indicated that you wish to receive information, special offers or promotions from third parties via e-mail. From time to time, U.S. Soccer shares aggregate information about our Website visitors with advertisers, business partners, sponsors and other third parties. If you do not want your personal information shared with these parties, you may make such request by writing to U.S. Soccer, 1801 South Prairie Avenue, Chicago, Illinois 60616, Attn: Marketing Department or by sending an email to [webmaster@ussoccer.org](mailto:webmaster@ussoccer.org).
 
-**Email Addresses **  
-We may collect your email address when you (i) choose to send us an email message, (ii) choose to fill out one of our online forms to request information about our products and services, or (iii) purchase one of our USSoccerStore.com products. We may use your email address to respond to your inquiry and to communicate with you when necessary to provide customer service and/or follow-up information related to a product purchase or shipping information. We may also use your e-mail address to contact you about special offers from USSoccerStore.com and USSoccer.com from time to time. USSoccerStore.com does NOT sell or provide any of your personal information to third parties.  
-top
+**Security**  
+While we use commercially reasonable efforts to protect your personal information against unauthorized access and disclosure, no website can be absolutely secure, and third parties may unlawfully intercept or access transmissions or private communications, and other users may abuse or misuse your personal information. Therefore, although we work very hard to protect your privacy, we will not be liable for any breaches in the security of the Website.
 
-**Postal Addresses **  
-We may collect your postal address when you (i) choose to fill out one of our online forms to request information about our products and services, or (ii) purchase one of our USSoccerStore.com products. We may use your postal address to respond to your inquiry and to communicate with you when necessary to provide customer service and/or follow-up information related to a product purchase or shipping information. We may also use your postal address to contact you about special offers from USSoccerStore.com from time to time. USSoccerStore.com does NOT sell or provide any of your personal information to third parties.  
-top
+**Cookies and Pixel Tags**  
+U.S. Soccer receives and records information from your browser when you use the Website and may use a variety of methods, such as cookies and pixel tags, to collect this information. A cookie is a small removable data file that is stored by your web browser on your computer.
 
-**Telephone Numbers**  
-We may collect your telephone number when you (i) request that we contact you by telephone, or (ii) choose to fill out one of our online forms to request information about our products and services, or (iii) purchase one of our USSoccerStore.com products and we need to communicate with you about billing or shipping information. USSoccerStore.com does NOT sell or provide any of your personal information to third parties. However, USSoccerStore.com may disclose the information listed above when required by law or court order. 
+We use pixel tags – tiny graphic images – to help us analyze your online behavior. Pixel tags also allow us to send you e-mail in a format you can read and let us know when you have opened an email message from us. We may use pixel tags to collect information about your visit, including the pages you view, the links you click and other actions taken in connection with our Website. We also collect certain standard information that your browser sends to every website you visit, such as your IP address, browser type and language, username, system type, whether you have enabling software to access certain Website features, access times and referring website addresses.
 
-We hope this Security and Privacy Policy statement answers your questions about how we handle the personal information you provide us.   
-top
+We may also work with other companies who use tracking technologies with respect to ads on our Website and across the Internet. These companies may collect non-personally identifiable information about your visits to our Website and your interaction with our communications, including advertising. If you would like to opt-out of third party companies collecting non-personally identifiable information during your visits, please make such request by writing to U.S. Soccer, 1801 South Prairie Avenue, Chicago, Illinois 60616, Attn: Marketing Department or by sending an email to [webmaster@ussoccer.org](mailto:webmaster@ussoccer.org).
 
-If you have any questions, please do not hesitate to contact us by email ([info@USSoccerStore.com](mailto:info@USSoccerStore.com)), or [click here](https://web.archive.org/web/20170727014206id_/http%3A//www.ussoccerstore.com/onlineinfo-contact.html) to contact us.   
-top
+**Children's Privacy**  
+No information should be submitted to or posted at the U.S. Soccer site by Website visitors under 13 years of age without the consent of their parent or guardian.
+
+Unless otherwise disclosed during collection or in this privacy policy, U.S. Soccer does not provide any personally identifying information, regardless of its source, to any third party for any purpose whatsoever from our Guests under 13 years of age.
+
+**International Users**  
+This website is operated from the United States. By using this Website, regardless of where you live in the world, you consent to have your personal data transferred to and processed in the United States, and allow U.S. Soccer to use and collect your personal information in accordance with this Privacy Policy.
+
+**Links to Third Party Sites**  
+This Website may contain links to other websites. These other sites may send their own cookies to site visitors, collect data, or solicit personal information. U.S. Soccer is not responsible or liable for the privacy practices or content of other websites. This Privacy Policy only applies to this Website.
+
+**Terms of Use**  
+Your use of the Website, and any disputes arising from it, is subject to this Privacy Policy as well as our [Terms of Use](https://web.archive.org/About/Terms-of-Use.aspx). Please visit our [Terms of Use](https://web.archive.org/About/Terms-of-Use.aspx) section that explains other terms governing the use of our Website.
