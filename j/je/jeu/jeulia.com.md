@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the jeulia.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628215708id_/https%3A//www.jeulia.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jeulia.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228235614id_/https%3A//www.jeulia.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Jeulia Jewelry
 
 PRIVACY STATEMENT  
 Last Modified: [May 9th, 2018]
 
-We take your privacy seriously and this privacy statement explains how Jeulia Jewelry Limited (collectively, “JEULIA,” “we,” “us,” or “our”) collect, use, share and process your information.
+We take your privacy seriously and this privacy statement explains how Jeulia.com(collectively, “JEULIA,” “we,” “us,” or “our”) collect, use, share and process your information.
 
 ### Collection and Use of Personal Data
 
@@ -39,11 +39,11 @@ We use personal data to help us provide, improve, and develop our products, serv
 
 Subject to your prior express consent, we may use personal data to send you marketing communications in relation to JEULIA own products and services, communicate with you about your account or transactions, and inform you about our policies and terms. If you no longer wish to receive email communications for marketing purposes, please [Contact Us](https://web.archive.org/contact.html)  to opt-out. We also may use your data to process and respond to your requests when you [Contact Us](https://web.archive.org/contact.html) . Subject to your prior express consent, we may share your personal data with third party partners who may send you marketing communications in relation to their products and services. Subject to your prior express consent, we may use personal data to personalize your experience with our products and services and on third-party websites and applications and to determine the effectiveness of our promotional campaigns.
 
-NOTE: For any of the uses of your data described above that require your prior express consent, note that you may withdraw your consent by contacting Jeulia Jewelry Limited.
+NOTE: For any of the uses of your data described above that require your prior express consent, note that you may withdraw your consent by contacting Jeulia.com.
 
 ### Cookies and Similar Technologies
 
-This Cookie Statement applies to all Jeulia Jewelry Limited affiliates, brands, websites, products, and services (collectively, “JEULIA,” “we,” “us,” or “our”) and explains how we use cookies on our websites and online services and the choices you have.
+This Cookie Statement applies to all Jeulia.com affiliates, brands, websites, products, and services (collectively, “JEULIA,” “we,” “us,” or “our”) and explains how we use cookies on our websites and online services and the choices you have.
 
 #### Definition of "Cookies"
 
@@ -65,7 +65,7 @@ Due to the mandatory laws of the European Economic Area or the country in which 
 
 ##### ⅱ. For the purpose of reasonable implementation or application of this article:
 
-We may share personal data with all Jeulia Jewelry Limited-affiliated companies. In the event of a merger, reorganization, acquisition, joint venture, assignment, spin-off, transfer, or sale or disposition of all or any portion of our business, including in connection with any bankruptcy or similar proceedings, we may transfer any and all personal data to the relevant third party.  We may also disclose personal data if we determine in good faith that disclosure is reasonably necessary to protect our rights and pursue available remedies, enforce our terms and conditions, investigate fraud, or protect our operations or users.
+We may share personal data with all Jeulia.com-affiliated companies. In the event of a merger, reorganization, acquisition, joint venture, assignment, spin-off, transfer, or sale or disposition of all or any portion of our business, including in connection with any bankruptcy or similar proceedings, we may transfer any and all personal data to the relevant third party.  We may also disclose personal data if we determine in good faith that disclosure is reasonably necessary to protect our rights and pursue available remedies, enforce our terms and conditions, investigate fraud, or protect our operations or users.
 
 ##### ⅲ. Legal Compliance and Security or Protect Other Rights
 
