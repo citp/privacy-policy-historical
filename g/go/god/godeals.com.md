@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the godeals.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226221128id_/https%3A//www.bradsdeals.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the godeals.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228183157id_/https%3A//www.bradsdeals.com/privacy) for the most accurate reproduction.*
 
 # Brad's Deals Privacy Policy
 
-Our Privacy Policy was developed as an extension of our commitment to combine the highest-quality products and services with the highest level of integrity in dealing with our clients and partners. The Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. This statement will be continuously assessed against new technologies, business practices and our customers' needs. 
+Our Privacy Policy was developed as an extension of our commitment to combine the highest-quality products and services with the highest level of integrity in dealing with our clients and partners. The Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our website, our mobile apps, our Amazon Alexa Skills, and our products and services. This statement will be continuously assessed against new technologies, business practices and our customers' needs. 
 
 ##  What Information Do We Collect? 
 
