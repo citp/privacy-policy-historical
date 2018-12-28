@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lexico.com privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528021149id_/http%3A//www.dictionary.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lexico.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228061437id_/https%3A//www.dictionary.com/e/terms) for the most accurate reproduction.*
 
 # Terms of Service & Privacy Policy - Everything After Z by Dictionary.com
 
@@ -17,6 +17,8 @@ We will continue to evaluate this Privacy & Cookie Policy against new technologi
 The Services may provide links to third-party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy practices.
 
 Our Services are intended for general audiences over the age of 16 years old. We do not knowingly collect information from children under the age of 16 years old.
+
+We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.
 
 _IF YOU ARE NOT AT LEAST 16 YEARS OLD, DO NOT USE THE SERVICES._
 * **YOUR PRIVACY CHOICES.** You have choices when it comes to the privacy practices described in this Privacy & Cookie Policy, including your choices related to: 
