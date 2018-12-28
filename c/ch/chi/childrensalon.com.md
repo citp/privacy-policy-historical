@@ -1,142 +1,210 @@
-> *The following text is extracted and transformed from the childrensalon.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615174511id_/https%3A//www.childrensalon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the childrensalon.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229001441id_/https%3A//www.childrensalon.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy | Childrensalon
+# Privacy Policy | Childrensalon
 
-Childrensalon are committed to protecting your privacy when you are using our website [http://www.childrensalon.com](http://www.childrensalon.com/) (the " **Site** "), interacting with us via social media platforms or purchasing Products from our Site (" **Products** ").
+We will only use your personal data when the law allows us to. Most commonly, we will use your personal data in the following circumstances:
 
-This Privacy Policy explains the following:
+  * Where we need to fulfil a sales contract (your order) we have entered into with you.
+  * Where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests.
+  * Where we need to comply with a legal or regulatory obligation.
 
-  * What information we may collect about you;
-  * How we use the information we collect about you;
-  * Whether we will share your details with anyone else;
-  * How you can instruct us if you prefer to limit the use of that information;
-  * The procedures that we have in place to safeguard your privacy; and
-  * The use of cookies on the Site and how you can reject those cookies.
 
 
+Generally we do not rely on consent as a legal basis for processing your personal data other than in relation to sending third party direct marketing communications to you via email or text message. You have the right to withdraw consent to marketing at any time by [contacting us](https://web.archive.org/contact-us).
 
-## Information About Us
+Purposes for which we will use your personal data
 
-Childrensalon Limited (" **we** ", " **our** ", " **us** ") is the data controller which means we are responsible for protecting your personal information. We're a company registered in England and Wales with company number 04997666. Our registered office is 9 High Street, Tunbridge Wells, Kent, TN1 1UL, England. Our registered VAT number is 929 3652 93.
+We have set out below, in a table format, a description of all the ways we plan to use your personal data, and which of the legal bases we rely on to do so. We have also identified what our legitimate interests are where appropriate.
 
-We will only use information about you in accordance with this Privacy Policy (as amended from time to time) or as otherwise permitted by law. By using our Site or interacting with us via social media platforms, or by submitting information to us, you signify your consent to the collection, use and sharing of your personal information in accordance with this Privacy Policy.
+Note that we may process your personal data for more than one lawful ground depending on the specific purpose for which we are using your data. Please [contact us](https://web.archive.org/contact-us) if you need details about the specific legal ground we are relying on to process your personal data where more than one ground has been set out in the table below.
 
-If you have any requests or questions about how we use your personal information please [Contact us](http://www.childrensalon.com/customer-service/contact-us "Contact Us").
+**Purpose/Activity**
 
-**_If you do not agree with this Privacy Policy, you must not use this Site or interact with us via social media platforms, or submit any information to us._ **
+| 
 
-## What Information Do We Collect?
+**Type of data**
 
-When setting up an account on the Site, you will be asked to provide us with your name, billing address and delivery address details, your email address, telephone number and a password. We will also require your credit/debit card details when you are placing an order, unless you are paying via PayPal or bank transfer.
+| 
 
-When commenting on the "[Happy Customers](http://www.childrensalon.com/happy-customers/ "Happy Customers")" section of our Site, you will be asked to provide your name when you submit a message. We may also collect any information (e.g. your country and your email address) that you submit.
+**Lawful basis for processing including basis of legitimate interest**  
+  
+---|---|---  
+  
+To register you as a new customer
 
-We may collect information about you such as your name, address and contact details where you enter a competition, prize-draw or promotion that we are operating.
+| 
 
-We may also obtain information about your usage of our Site to help us develop and improve it further.
+  1. Identity
+  2. Contact
 
-## Protecting Your Information
+| 
 
-We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you via our Site.
+Performance of a contract with you  
+  
+To process and deliver your order including:
 
-If you would like to know what information we hold about you, please [Contact us](http://www.childrensalon.com/customer-service/contact-us "Contact Us").
+  1. Manage payments, fees and charges
+  2. Collect and recover money owed to us
 
-## Who Might We Disclose Your Information To?
+| 
 
-We may disclose your information to members of our group, our employees, our subsidiaries, affiliated companies and any successors in title to our business, for the purposes listed above.
+  1. Identity
+  2. Contact
+  3. Financial
+  4. Transaction
+  5. Marketing and Communications
 
-We will not disclose your information to any third party outside of the group except under the following limited circumstances:
+| 
 
-  * We may disclose your personal information to carefully selected service providers and agents who operate elements of our Site and process data on our behalf. These may include businesses who provide technology services such as hosting for our servers and email distribution and business partners who provide delivery fulfilment services.
-  * From time to time we may also provide your information to carefully selected customer service agencies for research and analysis purposes, on our behalf, so that we can monitor and improve the services we provide. If you consent, we or our agents, acting on our behalf, may contact you by post, email or telephone to ask you for your feedback and comments on our services.
+  1. Performance of a contract with you
+  2. Necessary for our legitimate interests (to recover debts due to us)
 
+  
+  
+To manage our relationship with you which will include:
 
+  1. Notifying you about changes to our terms or privacy policy
+  2. Asking you to leave a review or take a survey
 
-Where such disclosures are made, this will be under contractual arrangements with us and carried out in accordance with the requirements of the law.
+| 
 
-  * We may also use aggregate information and statistics for the purposes of monitoring Site usage in order to help us develop the Site and our services and may provide such aggregate information to third parties. These statistics will not include information that can be used to identify any individual.
-  * We may also share your information with auditors or contractors or other advisers auditing, assisting with or advising on any of our business purposes.
+  1. Identity
+  2. Contact
+  3. Profile
+  4. Marketing and Communications
 
+| 
 
+  1. Performance of a contract with you
+  2. Necessary to comply with a legal obligation
+  3. Necessary for our legitimate interests (to keep our records updated and to study how customers use our products/services)
 
-We most definitely do not sell or rent the information you provide to us to third parties and we do not sell or otherwise pass your details to third parties for marketing purposes. Marketing communications you subscribe to will only be sent by Childrensalon Ltd.
+  
+  
+To enable you to partake in a prize draw, competition or complete a survey
 
-We do not hold your credit card details. Financial transactions take place directly and securely with our payment handling provider.
+| 
 
-If you believe your details are incorrect you can amend your details by logging onto your account on the '[Sign In](https://www.childrensalon.com/customer/account/login "Sign In")' section on our Site or you can [Contact us](http://www.childrensalon.com/customer-service/contact-us "Contact Us").
+  1. Identity
+  2. Contact
+  3. Profile
+  4. Usage
+  5. Marketing and Communications
 
-## Changes to Our Privacy Policy
+| 
 
-Any changes we may make to our Privacy Policy in the future will be posted on this page and, where appropriate, notified to you by email.
+  1. Performance of a contract with you
+  2. Necessary for our legitimate interests (to study how customers use our products/services, to develop them and grow our business)
 
-## How Do We Use Your Information?
+  
+  
+To administer and protect our business and this website (including troubleshooting, data analysis, testing, system maintenance, support, reporting and hosting of data)
 
-We use your information for the following purposes:
+| 
 
-  * To serve website content to you.
-  * To handle orders, deliver Products, process payments and refunds and provide statements.
-  * To communicate with you about your orders.
-  * To update our records and generally maintain your account with us.
-  * If you contact us, we may keep a record of that correspondence and your contact details.
-  * For our statistical or survey purposes to improve our Site and blog and our services to you.
-  * To prevent or detect fraud or abuses of our Site and enable third parties to carry out technical, logistical or other functions on our behalf.
-  * To contact you by email, post, or telephone, to ask you for feedback and comments on our services.
-  * Interact with you on social media platforms (see below).
-  * To notify you by email of our Products, promotions, competitions and special offers that may be of interest to you, unless you ask us not to.
+  1. Identity
+  2. Contact
+  3. Technical
 
+| 
 
+  1. Necessary for our legitimate interests (for running our business, provision of administration and IT services, network security, to prevent fraud and in the context of a business reorganisation or group restructuring exercise)
+  2. Necessary to comply with a legal obligation
 
-If you stop using our Site, we may continue to use and disclose your personal information in accordance with this Privacy Policy and as permitted by law.
+  
+  
+To deliver relevant website content and advertisements to you and measure or understand the effectiveness of the advertising we serve to you
 
-If you wish us to remove you from our email mailing list or registration database, and stop contacting you with information in connection with the Site, or our Products and services, please send us an email using the contact details in the [Contact us](http://www.childrensalon.com/customer-service/contact-us "Contact Us") section of our Site, including your full name and the email address used when accessing or ordering from our Site.
+| 
 
-## Social Media Platforms
+  1. Identity
+  2. Contact
+  3. Profile
+  4. Usage
+  5. Marketing and Communications
+  6. Technical
 
-Information we have access to through social media platforms will depend on your personal settings. We will have access to all public information on these platforms. We may also be able to access information that others share about you (as they control how that is shared).
+| 
 
-We may collect any data that is accessible to us or that you provide through social media platforms, including for example your Facebook and/or Twitter profile picture, gender, and usernames. We will interact with you through social media platforms in accordance with each site's rules but we are not responsible for how the site owners collect and handle your data. We are not responsible for what third parties post on our social media accounts.
+Necessary for our legitimate interests (to study how customers use our products/services, to develop them, to grow our business and to inform our marketing strategy)  
+  
+To use data analytics to improve our website, products/services, marketing, customer relationships and experiences
 
-If you 'Like' our Facebook Page or post on our Facebook Wall, we can interact with you and send you things via these platforms.
+| 
 
-If at any time you want us to stop interacting with you in this way, please [Contact us](http://www.childrensalon.com/customer-service/contact-us "Contact Us").
+  1. Technical
+  2. Usage
 
-## Newsletter
+| 
 
-You may opt-out of signing up to our newsletter service by ticking the appropriate box during registration. If you are not registering for an account but you would like to receive the newsletter, you can sign up separately on our newsletter service sign up page on the Site.
+Necessary for our legitimate interests (to define types of customers for our products and services, to keep our website updated and relevant, to develop our business and to inform our marketing strategy)  
+  
+To make suggestions and recommendations to you about goods or services that may be of interest to you
 
-If you wish to unsubscribe from our newsletter service, or any other update to which you have subscribed you should:
+| 
 
-  * Email us at _[info@childrensalon.com](mailto:info@childrensalon.com) _with the word "unsubscribe" in the subject line or contact our customer services team on +44 (0) 1892 779110;
-  * Click on "unsubscribe" at the bottom of any email we send you; or
-  * Log into "Sign In" on the Site and edit your account details.
+  1. Identity
+  2. Contact
+  3. Technical
+  4. Usage
+  5. Profile
 
+| 
 
+Necessary for our legitimate interests (to develop our products/services and grow our business)  
+  
+Marketing
 
-Please allow up to 5 days for unsubscribe requests to be processed.
+We strive to provide you with choices regarding certain personal data uses, particularly around marketing and advertising. You can view and make certain decisions about your personal data use in the “my account” section of the website, or by contacting us.
 
-## Cookies
+Promotional offers from us
 
-A cookie may be used in the processing of your personal data. A cookie is a text file stored on your computer by our Site.
+We may use your Identity, Contact, Technical, Usage and Profile Data to form a view on what we think you may want or need, or what may be of interest to you. This is how we decide which products, services and offers may be relevant for you.
 
-A copy of this text file is sent by your computer to our Site whenever you visit our Site.
+You will receive marketing communications from us if you have requested information from us or purchased [goods or services] from us or if you provided us with your details when you entered a competition or registered for a promotion and in each case you have consented to our communicating with you for these purposes.
 
-We use cookies to identify you, to personalise your experience and to store items in your shopping bag. We may also collect the following information during your visit to our Site:
+Third-party marketing
 
-  * The fully qualified domain name from which you accessed our Site, or alternatively, your IP address;
-  * The date and time you accessed each page on our Site;
-  * The URL of any webpage from which you accessed our Site (the referrer); and
-  * The web browser that you are using and the pages you accessed.
+We will get your express opt-in consent before we share your personal data with any company outside the Childrensalon group of companies for marketing purposes.
 
+Opting out
 
+You can ask us or third parties to stop sending you marketing messages at any time [by logging into the website and checking or unchecking relevant boxes to adjust your marketing preferences or by following the opt-out/unsubscribe links on any electronic marketing message sent to you or by [contacting us](https://web.archive.org/contact-us) at any time].
 
-We use this information to improve our Site and so that we can tell which pages are the most popular and where shoppers spend most of their time. Most browsers allow you to turn off cookies. If you want to know how to do this please look at the help menu on your browser. However, if you do not accept cookies your user experience on our Site may be affected and you may be unable to purchase Products from our Site.
+Where you opt out of receiving these marketing messages, this will not apply to personal data provided to us as a result of [a product/service purchase, warranty registration, product/service experience or other transactions].
 
-## Links to Other Sites
+Cookies
 
-We may from time to time make available through our Site links to other sites and certain services provided by third parties. To gain access to the third party services, you must register with these third parties and deal with them direct. Please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites. We have no responsibility for these websites and provide these links solely for the convenience and information of our visitors.
+In order to collect the anonymous data described in the preceding paragraph, we may use cookie technology on our website.
 
-## Contact
+A cookie is a small piece of information which is sent to your browser and stored on your computer’s hard drive, mobile phone or other device. Cookies do not damage your computer.
 
-If you have any questions, comments or requests regarding this Privacy Policy, please [Contact us](http://www.childrensalon.com/customer-service/contact-us "Contact Us") and we will be happy to answer them.
+You can set your browser to notify you when you receive a cookie. This enables you to decide if you want to accept it or not. However, some of the services and features offered through our website may not function properly if your cookies are disabled.
 
-LAST UPDATED: 1st January 2015
+We use two types of cookies on our website:
+
+Strictly necessary cookies
+
+These cookies are essential in order to enable you to move around the website and use its features. Without these cookies, services you have asked for cannot be provided. They are deleted when you close the browser.
+
+Performance cookies
+
+These cookies collect information in an anonymous form about how visitors use our website.
+
+They allow us to recognise and count the number of visitors and to see how visitors move around the site when they are using it.
+
+We may also use your IP address to help diagnose problems with our server, to administer our website and to improve the service we offer to you. An IP address is a numeric code that identifies your computer on a network, or in this case, the internet. Your IP address might also be used to gather broad demographic information.
+
+We may perform IP lookups to determine which domain you are coming from (ie aol.com, yourcompany.com) to more accurately gauge our users' demographics.
+
+Information from these types of cookies and technologies or about website usage is not combined with information about you from any other source.
+
+None of the cookies or technologies that we use will personally identify you.
+
+Change of purpose
+
+We will only use your personal data for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If you wish to get an explanation as to how the processing for the new purpose is compatible with the original purpose, please [contact us](https://web.archive.org/contact-us).
+
+If we need to use your personal data for an unrelated purpose, we will notify you and we will explain the legal basis which allows us to do so.
+
+Please note that we may process your personal data without your knowledge or consent, in compliance with the above rules, where this is required or permitted by law.
