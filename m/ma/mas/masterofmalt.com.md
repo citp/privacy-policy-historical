@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the masterofmalt.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628032406id_/https%3A//www.masterofmalt.com/c/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masterofmalt.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228094814id_/https%3A//www.masterofmalt.com/c/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Master of Malt
 
@@ -15,7 +15,7 @@ By proceeding to use this site, you are accepting and consenting to the terms of
   * We collect information to allow you to place orders with us and to improve your experience using our website. In particular, we diligently collect, track and interpret all data, including your personal information, which help to reveal what users generally, and you specifically, like and don’t like about our website, content and advertising.
   * We may share data with strategic, trusted partners (who may be located outside of the European Economic Area) so that we can better understand and improve the visitor experience, and cater to your preferences.
   * You can always find out what information we hold about you, and you can always opt-out, anytime, day or night (even on high holidays).  
-  * If you have any questions, [please get in touch](mailto:gdpr@atomsupplies.com).
+  * If you have any questions about this Privacy Policy, [please get in touch](mailto:gdpr@atomsupplies.com).
 
 
 
@@ -51,7 +51,8 @@ We use the **information you give to us** to:
   * to provide customer service and support and to respond to your queries and requests;
   * notify you that you have been selected as a winner of a contest or sweepstake (or to confirm your entry to future competitions or events);
   * protect and prevent against fraud;
-  * enable our experts to conduct data analysis to help us improve our services and advertising, including showing you our adverts as you browse the web. We also anonymise and aggregate personal information (so that it does not identify you) and use it for purposes including testing our IT systems, research, data analysis, improving our site and app, and developing new products and services; and
+  * enable our experts to conduct data analysis to help us improve our services and advertising, including showing you our adverts as you browse the web. We also anonymise and aggregate personal information (so that it does not identify you) and use it for purposes including testing our IT systems, research, data analysis, improving our site and app, and developing new products and services; 
+  * we may also send locally hashed data to trusted third parties (including but not limited to Facebook, Twitter, Pinterest, Snapchat, etc) to send you personalised advertising on those platforms  that you are already a member of and to help us create so-called “lookalike audiences” and/or “custom audiences” which will help us send relevant advertising to existing users of those platforms who may have similar taste in drinks and spirits; and
   * keep you updated on our latest announcements or send you marketing information about us and our products. If you would like to change your communication preferences or if you no longer want to be part of our mailing list, please either log into your account or [contact us](mailto:gdpr@atomsupplies.com) to let us know. 
 
 
@@ -100,9 +101,11 @@ To protect your data against unwanted access, we use data encryption. Data colle
 
 ### YOUR RIGHTS (AND HOW TO EXERCISE THEM!)
 
-You have the right to request details of personal information which we hold about you as well as the purpose of its processing (you can check above for the lawful basis we rely on to process your information). You have the right to object to this processing if you wish, but please bear in mind that if you object this may affect our ability to offer you our services in the best way possible (don’t worry, we will always let you know if that is a possibility before we take any action in response to a request).  In addition, you have a right to demand the correction of incorrect data and the deletion of that which is inappropriate or no longer needed.
+If you wish to exercise any of your statutory rights relating to data we hold about you, please get in touch by filling out [this form](https://app-de.onetrust.com/app/#/webform/4f3d67be-5b94-4fc8-bcf7-7ab1f0cd8ff5). We use the OneTrust portal to help us deal with all data-related requests so that we can deal with your query as thoroughly and promptly as possible. The form includes all of the information we require in order to deal with your request and includes a section where you can also insert any other details or questions you may have for us.
 
-If you would like to exercise any of your statutory rights relating to data we hold about you, please [send us an email](mailto:gdpr@atomsupplies.com).  Once we get all of the information we need to process your request, your request will be investigated by our Data Protection Officer.  A response will then be provided in writing within a reasonable period (we will always try to ensure this is no longer than within one month, but we may inform you should we need more time to process your request in certain circumstances). We promise that we will follow procedures so that we can deal fairly and promptly with your request. However, if you remain dissatisfied after we have processed your request, you have the right to lodge a complaint with the [Information Commissioner’s Office](https://ico.org.uk/concerns/).  
+Once we receive the form, you will receive an automated response from OneTrust. Thereafter, rest assured that we will be handling your request personally and we will let you know when we have completed the request. If you have any questions about filling out the form or encounter problems submitting it, please contact us at [gdpr@atomsupplies.com](mailto:gdpr@atomsupplies.com) and we will be happy to help.
+
+If you would like to exercise any of your statutory rights relating to data we hold about you, please fill out this form [here](https://app-de.onetrust.com/app/#/webform/4f3d67be-5b94-4fc8-bcf7-7ab1f0cd8ff5) to let us know.  Once we get all of the information we need to process your request, your request will be investigated by our Data Protection Officer.  A response will then be provided in writing within a reasonable period (we will always try to ensure this is no longer than within one month, but we may inform you should we need more time to process your request in certain circumstances). We promise that we will follow procedures so that we can deal fairly and promptly with your request. However, if you remain dissatisfied after we have processed your request, you have the right to lodge a complaint with the [Information Commissioner’s Office](https://ico.org.uk/concerns/).  
 
 ### CONTACT US
 
@@ -110,19 +113,17 @@ Just so you know, our legal name is Atom Supplies Limited. We are registered in 
 
 If you no longer want to receive marketing information from us, simply follow the ‘unsubscribe instantly’ link in any e-mail we send to you or just [send us a quick email](mailto:gdpr@atomsupplies.com) with your request. Please bear in mind that even if you opt out, we may still continue to send you information that relates to any account or business relationship you may still have with us (for example, a request you have made about one of our lip-smacking whiskies).
 
-If you are seeking to exercise any of your statutory rights or if you have any comments, queries, or complaints about our collection or use your personal information please [contact us here](mailto:gdpr@atomsupplies.com). 
+If you are seeking to exercise any of your statutory rights or if you have any comments, queries, or complaints about our collection or use of your personal information, please get in touch by filling out [this form](https://app-de.onetrust.com/app/#/webform/4f3d67be-5b94-4fc8-bcf7-7ab1f0cd8ff5). We use the OneTrust portal to help us deal with all data-related requests so that we can deal with your query as thoroughly and promptly as possible. The form includes all of the information we require in order to deal with your request and includes a section where you are welcome to insert any other details or questions you may have for us. Once we receive the form, you will receive an automated response from OneTrust. Thereafter, rest assured that we will be handling your request personally and we will let you know when we have completed the request. If you have any questions about filling out the form or encounter problems submitting it, please contact us at [gdpr@atomsupplies.com](mailto:gdpr@atomsupplies.com) and we will be happy to help.
 
 **Please be aware that the transmission of information via the internet is not completely secure. Any transmission of your data to our website is at your own risk.**
 
 ### CHANGES TO OUR PRIVACY POLICY
 
-We keep our Privacy Policy under regular review. Any changes we may make to this Privacy Policy in the future will be posted here (you can access previous versions [here](https://www.masterofmalt.com/c/v1-privacy-policy/)).
+We keep our Privacy Policy under regular review. Any changes we may make to this Privacy Policy in the future will be posted here (you can access previous versions [here](https://www.masterofmalt.com/c/previous-privacy-policy/)).
 
-This Privacy Policy was last updated on 25 May 2018 and it’s version number 2. 
+This Privacy Policy was last updated on 26 November 2018 and it’s version number 4. 
 
 Please check back frequently to see any updates or changes to the privacy policy.
-
-If you have any questions/comments about privacy, [please get in touch.](http://www.masterofmalt.com/contact-us/)
 
 * * *
 
@@ -174,7 +175,7 @@ Typically these cookies just contain a unique ID which allows us and 3rd party s
 
 If you turn these cookies off it’ll hamper our efforts, but nothing critical to you using the site should break.
 
-For a list of the cookies used on our site which fall under this category, click  here.
+For a list of the cookies used on our site which fall under this category, click here.
 
 #### **Functional cookies**
 
@@ -182,7 +183,7 @@ These cookies are used to deliver enhanced functionality and features which we t
 
 You can turn these off, but some things won’t work or won’t work as well.
 
-For a list of the cookies used on our site which fall under this category, click  here.
+For a list of the cookies used on our site which fall under this category, click here.
 
 #### **Targeting cookies**
 
@@ -196,7 +197,7 @@ No one really likes advertising, and while we’d all prefer less of it, it’s 
 
 That’s our pitch, now feel free to turn them off 🙂
 
-For a list of the cookies used on our site which fall under this category, click  here.
+For a list of the cookies used on our site which fall under this category, click here.
 
 #### **Social Media cookies**
 
@@ -204,7 +205,7 @@ These cookies are set by social media services which appear on the site to enabl
 
 If you do not allow these cookies you may not be able to use or see these sharing tools.
 
-For a list of the cookies used on our site which fall under this category, click  here.
+For a list of the cookies used on our site which fall under this category, click here.
 
 #### **Other tracking technologies**
 
@@ -212,13 +213,13 @@ We and our third party partners may use other, similar technologies from time to
 
 Finally, please note that third parties (including providers of external services like web traffic analysis services) may also use cookies. Google also places and reads cookies on the browsers of users of our website (and may also use web beacons and similar technologies) to collect information relevant to the Google Certified Shops Programme. We have no control over these third parties.
 
-For a list of the cookies used on our site which fall under this category, click  here.
+For a list of the cookies used on our site which fall under this category, click here.
 
 ### 4\. How can I control cookies?
 
 You have the right to decide whether to accept or reject cookies.
 
-**Website cookie preference tool:** You can exercise preferences about what cookies are served on our website by clicking  here.
+**Website cookie preference tool:** You can exercise preferences about what cookies are served on our website by clicking here.
 
 **Browser controls:** You can set or amend your web browser controls to accept or refuse cookies. If you choose to reject cookies, you may still use our website though your access to some functionality and areas of our website may be restricted. Please click below for detailed information on how to disable and delete cookies in some commonly used browsers:
 
@@ -235,6 +236,4 @@ You have the right to decide whether to accept or reject cookies.
 
 ### 5\. Changes to our Cookie Policy
 
-This Cookie Policy was last updated on 24 May 2018. We may update it from time to time in order to reflect changes to the cookies we use or for other operational, legal or regulatory reasons. Please therefore re-visit this Cookie Policy regularly to stay informed about our use of cookies and related technologies.
-
-Version 1: updated as at 24 May 2018
+This Cookie Policy was last updated on 26 November 2018. We may update it from time to time in order to reflect changes to the cookies we use or for other operational, legal or regulatory reasons. Please therefore re-visit this Cookie Policy regularly to stay informed about our use of cookies and related technologies.
