@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the iaaf.org privacy policy that was archived on 2018-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180628135348id_/https%3A//www.iaaf.org/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the iaaf.org privacy policy that was archived on 2018-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181228194116id_/https%3A//www.iaaf.org/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <meta charset="utf-8">
@@ -94,19 +94,20 @@
     
     
     <!-- RequireJS -->
-    <script src="/Assets/Scripts/requirejs/2.1.15/version/require.min.js?v=-320627292"></script>
+    <script src="/Assets/Scripts/requirejs/2.1.15/version/require.min.js?v=2004971535"></script>
     <!-- RequireJS -->
     
+
+<script src="/Assets/Scripts/app/bundles/common.min.js?v=2004971535"></script>
     <!-- RequireJS -->
     
     <script>
         // contents of app.js:
         require.config({
             "baseUrl": "/Assets/Scripts/",
-            "urlArgs": "v=-320627292",
+            "urlArgs": "v=2004971535",
             "waitSeconds": 360,
             "paths": {
-
                 "jquery": "jquery",
                 "jquery-cookie": "jquery-cookie",
                 "knockout": "knockout",
@@ -152,24 +153,30 @@
             },
         });
         require(["polyfills"]);
-        require(["menu"]);
+        require(["jquery"], function($) {
+            $(document).ready(function() {
+                if (document.getElementsByClassName('youtubepopup')[0]) {
+                    require(["youtubePopup"]);
+                }
+                require(["app/knockout.min"], function() {
+                    require(["app/bxslider.min"]); //load bxslider
+                    if (document.getElementById('mediaGallery') || document.getElementById('docsGallery')) {
+                        require(["app/masonry.min"]); //load masonry
+                    }
+                    if (document.getElementsByClassName('truncate')[0]) {
+                        require(["app/dotdotdot.min"]); //load dotdotdot
+                    }
+                }); //load knockout
+                
+
+                if (!/iaaf-cookie-banner/.test(document.cookie)) {
+                    require(["app/cookieBanner"]);
+                }
+                
+            });
+        });
         require(["app/jquery.min"]); //load jquery
         require(["app/bootstrap.min"]); //load bootstrap
-        if (document.getElementsByClassName('youtubepopup')[0]) {
-            require(["youtubePopup"]);
-        }
-        require(["app/knockout.min"]); //load knockout
-        require(["app/bxslider.min"]); //load bxslider
-        if (document.getElementById('mediaGallery') || document.getElementById('docsGallery')) {
-            require(["app/masonry.min"]); //load masonry
-        }
-        if (document.getElementsByClassName('truncate')[0]) {
-            require(["app/dotdotdot.min"]); //load dotdotdot
-        }
-
-        if (!/iaaf-cookie-banner/.test(document.cookie)) {
-            require(["app/cookieBanner"]);
-        }
         
     </script>
     <!-- RequireJS -->
@@ -201,6 +208,9 @@
             var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
         })();
     </script>
+    <!-- Google Tag Manager -->
+    
+    <!-- End Google Tag Manager -->
     <script>
         (function (h, o, t, j, a, r) {
             h.hj = h.hj || function () { (h.hj.q = h.hj.q || []).push(arguments) };
@@ -212,7 +222,7 @@
         })(window, document, '//static.hotjar.com/c/hotjar-', '.js?sv=');
     </script><script async="" src="//static.hotjar.com/c/hotjar-505088.js?sv=5"></script>
     
-    <link href="/Assets/Styles/style.min.css?v=-320627292" rel="stylesheet">
+    <link href="/Assets/Styles/style.min.css?v=2004971535" rel="stylesheet">
     
     
     <style type="text/css">
@@ -292,6 +302,7 @@ background-color: #31314f !important;
     <meta name="apple-mobile-web-app-status-bar-style" content="#ff2534">
 
     <link rel="manifest" href="/Assets/Manifest/manifest.json">
+   
 </head>
 <body class="iaaforg" data-bind="css: { 'media' : iaaf.navSelect === 'Media' || iaaf.navSelect === 'MediaType' }">
 
@@ -336,44 +347,6 @@ background-color: #31314f !important;
                                 <ul class="row media-grid">
                                         <li class="col-md-12">
 
-                                            <a class=" col-md-6 col-sm-6" href="/competitions/iaaf-world-u20-championships">
-                                                <span class="_label comp">
-                                                    IAAF World U20 Championships
-                                                </span>
-                                                <span class="_label date">
-                                                    10 JUL 2018 - 15 JUL 2018
-                                                </span>
-                                            </a>
-
-                                            <a class=" col-md-6 col-sm-6" href="/competitions/iaaf-world-u20-championships">
-                                                <picture><img alt="IAAF World U20 Championships Tampere 2018 logo (IAAF)" rel="IAAF World U20 Championships Tampere 2018 logo (IAAF) &amp;copy; Copyright" src="https://media.aws.iaaf.org/media/Original/ba356dea-9eb1-44ea-8507-b98d85bcd573.png?v=-1142574390" width="160"></picture>
-                                                <span class="_label location">
-                                                    <img alt="FINLAND" class="tableflag" src="https://media.aws.iaaf.org/Flags/FIN.gif">
-                                                    Tampere, FIN
-                                                </span>
-                                            </a>
-                                        </li>
-                                        <li class="col-md-12">
-
-                                            <a class=" col-md-6 col-sm-6" href="/competitions/iaaf-continental-cup">
-                                                <span class="_label comp">
-                                                    IAAF Continental Cup
-                                                </span>
-                                                <span class="_label date">
-                                                    08 SEP 2018 - 09 SEP 2018
-                                                </span>
-                                            </a>
-
-                                            <a class=" col-md-6 col-sm-6" href="/competitions/iaaf-continental-cup">
-                                                <picture><img alt="IAAF Continental Cup Ostrava 2018 logo (IAAF)" rel="IAAF Continental Cup Ostrava 2018 logo (IAAF) &amp;copy; Copyright" src="https://media.aws.iaaf.org/media/Original/2e42e716-bac4-4de1-988e-17d8aeae0100.png?v=2145416636" width="160"></picture>
-                                                <span class="_label location">
-                                                    <img alt="CZECH REPUBLIC" class="tableflag" src="https://media.aws.iaaf.org/Flags/CZE.gif">
-                                                    Ostrava, CZE
-                                                </span>
-                                            </a>
-                                        </li>
-                                        <li class="col-md-12">
-
                                             <a class=" col-md-6 col-sm-6" href="/competitions/iaaf-world-cross-country-championships">
                                                 <span class="_label comp">
                                                     IAAF World Cross Country Championships
@@ -391,6 +364,44 @@ background-color: #31314f !important;
                                                 </span>
                                             </a>
                                         </li>
+                                        <li class="col-md-12">
+
+                                            <a class=" col-md-6 col-sm-6" href="/competitions/iaaf-world-relays">
+                                                <span class="_label comp">
+                                                    IAAF World Relays
+                                                </span>
+                                                <span class="_label date">
+                                                    11 MAY 2019 - 12 MAY 2019
+                                                </span>
+                                            </a>
+
+                                            <a class=" col-md-6 col-sm-6" href="/competitions/iaaf-world-relays">
+                                                
+                                                <span class="_label location">
+                                                    <img alt="JAPAN" class="tableflag" src="https://media.aws.iaaf.org/Flags/JPN.gif">
+                                                    Yokohama (International), JPN
+                                                </span>
+                                            </a>
+                                        </li>
+                                        <li class="col-md-12">
+
+                                            <a class=" col-md-6 col-sm-6" href="/competitions/iaaf-world-championships">
+                                                <span class="_label comp">
+                                                    IAAF World Championships
+                                                </span>
+                                                <span class="_label date">
+                                                    27 SEP 2019 - 06 OCT 2019
+                                                </span>
+                                            </a>
+
+                                            <a class=" col-md-6 col-sm-6" href="/competitions/iaaf-world-championships">
+                                                
+                                                <span class="_label location">
+                                                    <img alt="QATAR" class="tableflag" src="https://media.aws.iaaf.org/Flags/QAT.gif">
+                                                    Doha, QAT
+                                                </span>
+                                            </a>
+                                        </li>
                                 </ul>
                             </li>
                             <li class="col-md-5">
@@ -403,7 +414,26 @@ background-color: #31314f !important;
                         <tr>
                             <td>
 
-                                <a href="/results/iaaf-bronze-label-road-races/2018/vidovdan-road-race-6419">Vidovdan Road Race</a>
+                                <a href="/results/iaaf-silver-label-road-races/2018/shenzhen-marathon-6515">Shenzhen Marathon</a>
+                                <br>
+                                <span>
+                                    IAAF Silver Label Road Races
+                                </span>
+
+                            </td>
+                            <td>
+                                <img alt="PR OF CHINA" class="tableflag" src="https://media.aws.iaaf.org/Flags/CHN.gif">
+                                Shenzhen,
+                                CHN
+                            </td>
+                            <td>
+                                16 DEC 2018
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+
+                                <a href="/results/iaaf-bronze-label-road-races/2018/mersin-marathon-6511">Mersin Marathon</a>
                                 <br>
                                 <span>
                                     IAAF Bronze Label Road Races
@@ -411,18 +441,75 @@ background-color: #31314f !important;
 
                             </td>
                             <td>
-                                <img alt="BOSNIA-HERZEGOVINA" class="tableflag" src="https://media.aws.iaaf.org/Flags/BIH.gif">
-                                Brcko,
-                                BIH
+                                <img alt="TURKEY" class="tableflag" src="https://media.aws.iaaf.org/Flags/TUR.gif">
+                                Mersin,
+                                TUR
                             </td>
                             <td>
-                                23 JUN 2018
+                                16 DEC 2018
                             </td>
                         </tr>
                         <tr>
                             <td>
 
-                                <a href="/results/iaaf-gold-label-road-races/2018/mattoni-olomouc-half-marathon-6420">Mattoni Olomouc Half Marathon</a>
+                                <a href="/results/iaaf-bronze-label-road-races/2018/tata-steel-kolkata-25k-6570">Tata Steel Kolkata 25K</a>
+                                <br>
+                                <span>
+                                    IAAF Bronze Label Road Races
+                                </span>
+
+                            </td>
+                            <td>
+                                <img alt="INDIA" class="tableflag" src="https://media.aws.iaaf.org/Flags/IND.gif">
+                                Kolkata,
+                                IND
+                            </td>
+                            <td>
+                                16 DEC 2018
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+
+                                <a href="/results/iaaf-bronze-label-road-races/2018/bangsaen21-half-marathon-6516">Bangsaen21 Half Marathon</a>
+                                <br>
+                                <span>
+                                    IAAF Bronze Label Road Races
+                                </span>
+
+                            </td>
+                            <td>
+                                <img alt="THAILAND" class="tableflag" src="https://media.aws.iaaf.org/Flags/THA.gif">
+                                Chonburi,
+                                THA
+                            </td>
+                            <td>
+                                16 DEC 2018
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+
+                                <a href="/results/iaaf-silver-label-road-races/2018/saitama-international-marathon-6512">Saitama International Marathon</a>
+                                <br>
+                                <span>
+                                    IAAF Silver Label Road Races
+                                </span>
+
+                            </td>
+                            <td>
+                                <img alt="JAPAN" class="tableflag" src="https://media.aws.iaaf.org/Flags/JPN.gif">
+                                Saitama,
+                                JPN
+                            </td>
+                            <td>
+                                09 DEC 2018
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+
+                                <a href="/results/iaaf-gold-label-road-races/2018/standard-chartered-singapore-marathon-6514">Standard Chartered Singapore Marathon</a>
                                 <br>
                                 <span>
                                     IAAF Gold Label Road Races
@@ -430,107 +517,31 @@ background-color: #31314f !important;
 
                             </td>
                             <td>
-                                <img alt="CZECH REPUBLIC" class="tableflag" src="https://media.aws.iaaf.org/Flags/CZE.gif">
-                                Olomouc,
-                                CZE
+                                <img alt="SINGAPORE" class="tableflag" src="https://media.aws.iaaf.org/Flags/SGP.gif">
+                                Singapore,
+                                SGP
                             </td>
                             <td>
-                                23 JUN 2018
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-
-                                <a href="/results/iaaf-world-challenge-meetings/2018/meeting-madrid-2018-6320">Meeting Madrid 2018</a>
-                                <br>
-                                <span>
-                                    IAAF World Challenge Meetings
-                                </span>
-
-                            </td>
-                            <td>
-                                <img alt="SPAIN" class="tableflag" src="https://media.aws.iaaf.org/Flags/ESP.gif">
-                                Madrid (Moratalaz),
-                                ESP
-                            </td>
-                            <td>
-                                22 JUN 2018
+                                09 DEC 2018
                             </td>
                         </tr>
                         <tr>
                             <td>
 
-                                <a href="/results/open-national-championships/2018/us-track-field-championships-6423">U.S. Track &amp; Field Championships</a>
+                                <a href="/results/iaaf-gold-label-road-races/2018/guangzhou-marathon-6513">Guangzhou Marathon</a>
                                 <br>
                                 <span>
-                                    Open National Championships
+                                    IAAF Gold Label Road Races
                                 </span>
 
                             </td>
                             <td>
-                                <img alt="UNITED STATES" class="tableflag" src="https://media.aws.iaaf.org/Flags/USA.gif">
-                                Des Moines (Drake Stadium), IA,
-                                USA
+                                <img alt="PR OF CHINA" class="tableflag" src="https://media.aws.iaaf.org/Flags/CHN.gif">
+                                Guangzhou,
+                                CHN
                             </td>
                             <td>
-                                21 JUN 2018 - 24 JUN 2018
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-
-                                <a href="/results/iaaf-world-combined-events-challenge/2018/22nd-stadtwerke-ratingen-mehrkampf-meeting-6342">22nd Stadtwerke Ratingen Mehrkampf-Meeting</a>
-                                <br>
-                                <span>
-                                    IAAF World Combined Events Challenge
-                                </span>
-
-                            </td>
-                            <td>
-                                <img alt="GERMANY" class="tableflag" src="https://media.aws.iaaf.org/Flags/GER.gif">
-                                Ratingen (Stadionring),
-                                GER
-                            </td>
-                            <td>
-                                16 JUN 2018 - 17 JUN 2018
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-
-                                <a href="/results/iaaf-bronze-label-road-races/2018/corrida-de-langueux-6418">Corrida de Langueux</a>
-                                <br>
-                                <span>
-                                    IAAF Bronze Label Road Races
-                                </span>
-
-                            </td>
-                            <td>
-                                <img alt="FRANCE" class="tableflag" src="https://media.aws.iaaf.org/Flags/FRA.gif">
-                                Langueux,
-                                FRA
-                            </td>
-                            <td>
-                                16 JUN 2018
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-
-                                <a href="/results/iaaf-world-challenge-meetings/2018/57th-ostrava-golden-spike-6319">57th Ostrava Golden Spike</a>
-                                <br>
-                                <span>
-                                    IAAF World Challenge Meetings
-                                </span>
-
-                            </td>
-                            <td>
-                                <img alt="CZECH REPUBLIC" class="tableflag" src="https://media.aws.iaaf.org/Flags/CZE.gif">
-                                Ostrava (Mestský Stadion),
-                                CZE
-                            </td>
-                            <td>
-                                13 JUN 2018
+                                09 DEC 2018
                             </td>
                         </tr>
                 </tbody>
@@ -583,7 +594,7 @@ background-color: #31314f !important;
                                                                     Home of World Athletics
                                                                 </span>
                                                                 
-                                                                <img src="/Assets/Images/layout/iaaf-full-word.png?v=-320627292" alt="IAAF">
+                                                                <img src="/Assets/Images/layout/iaaf-full-word.png?v=2004971535" alt="IAAF">
                                                             </h5>
                                                         </div>
                                                     </div>
@@ -649,13 +660,13 @@ background-color: #31314f !important;
                     <a href="/about-iaaf/documents/iaaf-newsletter#2018">2018</a>
                 </td>
                 <td>
-                    IAAF News 194 - Jun 2018
+                     IAAF News 198 - Nov/Dec 2018
                 </td>
                 <td>
                     PDF
                 </td>
                 <td>
-                        <a class="btn btn-normal" href="/download/download?filename=9564dbbe-7448-470e-bd0d-57f807ca3456.pdf&amp;urlslug=IAAF%20News%20194%20-%20Jun%202018" onclick="_gaq.push(['_trackevent', 'Latest-Documents' , 'Download', 'IAAF Newsletter-IAAF News 194 - Jun 2018-En' ]);">
+                        <a class="btn btn-normal" href="/download/download?filename=0a120a70-8b36-415d-9fd4-3184586b7018.pdf&amp;urlslug=%20IAAF%20News%20198%20-%20Nov%2FDec%202018" onclick="_gaq.push(['_trackevent', 'Latest-Documents' , 'Download', 'IAAF Newsletter- IAAF News 198 - Nov/Dec 2018-En' ]);">
                             En
                         </a>
                 </td>
@@ -772,16 +783,16 @@ background-color: #31314f !important;
                     <a href="/about-iaaf/documents/iaaf-newsletter">IAAF Newsletter</a>
                 </td>
                 <td>
-                    <a href="/about-iaaf/documents/iaaf-newsletter#for-the-record">For the record</a>
+                    <a href="/about-iaaf/documents/iaaf-newsletter#2018">2018</a>
                 </td>
                 <td>
-                    Doping sanctions - News 194
+                    IAAF News 194 - Jun 2018
                 </td>
                 <td>
                     PDF
                 </td>
                 <td>
-                        <a class="btn btn-normal" href="/download/download?filename=d886ec56-30cb-4ef2-b10d-5b48e1b34241.pdf&amp;urlslug=Doping%20sanctions%20-%20News%20194" onclick="_gaq.push(['_trackevent', 'Latest-Documents' , 'Download', 'IAAF Newsletter-Doping sanctions - News 194-En' ]);">
+                        <a class="btn btn-normal" href="/download/download?filename=9564dbbe-7448-470e-bd0d-57f807ca3456.pdf&amp;urlslug=IAAF%20News%20194%20-%20Jun%202018" onclick="_gaq.push(['_trackevent', 'Latest-Documents' , 'Download', 'IAAF Newsletter-IAAF News 194 - Jun 2018-En' ]);">
                             En
                         </a>
                 </td>
@@ -792,16 +803,16 @@ background-color: #31314f !important;
                     <a href="/about-iaaf/documents/iaaf-newsletter">IAAF Newsletter</a>
                 </td>
                 <td>
-                    <a href="/about-iaaf/documents/iaaf-newsletter#for-the-record">For the record</a>
+                    <a href="/about-iaaf/documents/iaaf-newsletter#2018">2018</a>
                 </td>
                 <td>
-                    Member federation elections - News 194
+                    IAAF News 195 - Jul-Aug 2018
                 </td>
                 <td>
                     PDF
                 </td>
                 <td>
-                        <a class="btn btn-normal" href="/download/download?filename=fdcc1ea6-ba75-4577-b38c-409d1d8822ef.pdf&amp;urlslug=Member%20federation%20elections%20-%20News%20194" onclick="_gaq.push(['_trackevent', 'Latest-Documents' , 'Download', 'IAAF Newsletter-Member federation elections - News 194-En' ]);">
+                        <a class="btn btn-normal" href="/download/download?filename=bf0d655c-686f-4628-9642-83ed3efb6753.pdf&amp;urlslug=IAAF%20News%20195%20-%20Jul-Aug%202018" onclick="_gaq.push(['_trackevent', 'Latest-Documents' , 'Download', 'IAAF Newsletter-IAAF News 195 - Jul-Aug 2018-En' ]);">
                             En
                         </a>
                 </td>
@@ -812,16 +823,16 @@ background-color: #31314f !important;
                     <a href="/about-iaaf/documents/iaaf-newsletter">IAAF Newsletter</a>
                 </td>
                 <td>
-                    <a href="/about-iaaf/documents/iaaf-newsletter#for-the-record">For the record</a>
+                    <a href="/about-iaaf/documents/iaaf-newsletter#2018">2018</a>
                 </td>
                 <td>
-                    Transfers of allegiance - News 155
+                    IAAF News 196 - Sep 2018
                 </td>
                 <td>
                     PDF
                 </td>
                 <td>
-                        <a class="btn btn-normal" href="/download/download?filename=6d4eaba0-65de-4011-b16a-ea07de4b7ebc.pdf&amp;urlslug=Transfers%20of%20allegiance%20-%20News%20155" onclick="_gaq.push(['_trackevent', 'Latest-Documents' , 'Download', 'IAAF Newsletter-Transfers of allegiance - News 155-En' ]);">
+                        <a class="btn btn-normal" href="/download/download?filename=523c28bc-5e08-4451-b400-ed8470ef3f13.pdf&amp;urlslug=IAAF%20News%20196%20-%20Sep%202018" onclick="_gaq.push(['_trackevent', 'Latest-Documents' , 'Download', 'IAAF Newsletter-IAAF News 196 - Sep 2018-En' ]);">
                             En
                         </a>
                 </td>
@@ -832,16 +843,16 @@ background-color: #31314f !important;
                     <a href="/about-iaaf/documents/iaaf-newsletter">IAAF Newsletter</a>
                 </td>
                 <td>
-                    <a href="/about-iaaf/documents/iaaf-newsletter#for-the-record">For the record</a>
+                    <a href="/about-iaaf/documents/iaaf-newsletter#2018">2018</a>
                 </td>
                 <td>
-                    Doping sanctions - News 156
+                    IAAF News 197 - Oct 2018
                 </td>
                 <td>
                     PDF
                 </td>
                 <td>
-                        <a class="btn btn-normal" href="/download/download?filename=6e9ff333-d5a3-410f-b629-8e0e936a8a33.pdf&amp;urlslug=Doping%20sanctions%20-%20News%20156" onclick="_gaq.push(['_trackevent', 'Latest-Documents' , 'Download', 'IAAF Newsletter-Doping sanctions - News 156-En' ]);">
+                        <a class="btn btn-normal" href="/download/download?filename=72f625fa-541f-4d74-ae11-16faee4b1598.pdf&amp;urlslug=IAAF%20News%20197%20-%20Oct%202018" onclick="_gaq.push(['_trackevent', 'Latest-Documents' , 'Download', 'IAAF Newsletter-IAAF News 197 - Oct 2018-En' ]);">
                             En
                         </a>
                 </td>
@@ -1140,7 +1151,7 @@ background-color: #31314f !important;
     <div class=" col-md-12 _mobileHide">
         <div class="child homelogoarea">
             <a href="/home">
-                <img src="/Assets/Images/layout/iaafLogo.png?v=-320627292" alt="IAAF" />
+                <img src="/Assets/Images/layout/iaafLogo.png?v=2004971535" alt="IAAF" />
             </a>
             <div class="tagline">
                 <h5>
@@ -1156,7 +1167,7 @@ background-color: #31314f !important;
                         <!-- /ko -->
                     </span>
                     
-                    <img src="/Assets/Images/layout/iaaf-full-word.png?v=-320627292" alt="IAAF" />
+                    <img src="/Assets/Images/layout/iaaf-full-word.png?v=2004971535" alt="IAAF" />
                 </h5>
             </div>
         </div>
@@ -1180,7 +1191,7 @@ background-color: #31314f !important;
                                 </a>
                             </td>
                             <td width="25%">
-                               28 SEP 2019 - 06 OCT 2019
+                               27 SEP 2019 - 06 OCT 2019
                             </td>
                             <td width="10%">
                                 QAT
@@ -1227,7 +1238,7 @@ background-color: #31314f !important;
                                 <img alt="FINLAND" class="tableflag" src="https://media.aws.iaaf.org/Flags/FIN.gif" />
                             </td>
                             <td width="30%">
-                                Tampere
+                                Tampere (Ratina Stadium)
                             </td>
 
                     </tr>
@@ -1330,14 +1341,14 @@ background-color: #31314f !important;
                                 </a>
                             </td>
                             <td width="25%">
-                               10 MAY 2019 - 11 MAY 2019
+                               11 MAY 2019 - 12 MAY 2019
                             </td>
                             <td width="10%">
-                                BAH
-                                <img alt="BAHAMAS" class="tableflag" src="https://media.aws.iaaf.org/Flags/BAH.gif" />
+                                JPN
+                                <img alt="JAPAN" class="tableflag" src="https://media.aws.iaaf.org/Flags/JPN.gif" />
                             </td>
                             <td width="30%">
-                                Nassau (T. Robinson Stadium)
+                                Yokohama (International)
                             </td>
 
                     </tr>
@@ -1360,14 +1371,14 @@ background-color: #31314f !important;
                                 </a>
                             </td>
                             <td width="25%">
-                               30 JUN 2018
+                               03 MAY 2019
                             </td>
                             <td width="10%">
-                                FRA
-                                <img alt="FRANCE" class="tableflag" src="https://media.aws.iaaf.org/Flags/FRA.gif" />
+                                QAT
+                                <img alt="QATAR" class="tableflag" src="https://media.aws.iaaf.org/Flags/QAT.gif" />
                             </td>
                             <td width="30%">
-                                Paris (Stade Charl&#233;ty)
+                                Doha (Hamad Bin Suhaim)
                             </td>
 
                     </tr>
@@ -1380,7 +1391,7 @@ background-color: #31314f !important;
                                 </a>
                             </td>
                             <td width="25%">
-                               08 JUL 2018
+                               28 APR 2019
                             </td>
                             <td width="10%">
                                 BRA
@@ -1394,21 +1405,20 @@ background-color: #31314f !important;
                     <tr>
 
 
-                        <td>
-                            <a href="/competitions/iaaf-world-indoor-tour">
-                                IAAF World Indoor Tour
-                            </a>
-                        </td>
+                            <td>
+                                <a href="/competitions/iaaf-world-indoor-tour">
+                                    IAAF World Indoor Tour
+                                </a>
+                            </td>
                             <td width="25%">
-                                
-                                25 FEB 2018
+                               26 JAN 2019
                             </td>
                             <td width="10%">
-                                GBR
-                                <img alt="GREAT BRITAIN &amp; N.I." class="tableflag" src="https://media.aws.iaaf.org/Flags/GBR.gif" />
+                                USA
+                                <img alt="UNITED STATES" class="tableflag" src="https://media.aws.iaaf.org/Flags/USA.gif" />
                             </td>
                             <td width="30%">
-                                Glasgow (Emirates Arena)
+                                Boston (Reggie Lewis), MA
                             </td>
 
                     </tr>
@@ -1431,14 +1441,14 @@ background-color: #31314f !important;
                                 </a>
                             </td>
                             <td width="25%">
-                               01 JUL 2018
+                               30 DEC 2018
                             </td>
                             <td width="10%">
-                                AUS
-                                <img alt="AUSTRALIA" class="tableflag" src="https://media.aws.iaaf.org/Flags/AUS.gif" />
+                                FRA
+                                <img alt="FRANCE" class="tableflag" src="https://media.aws.iaaf.org/Flags/FRA.gif" />
                             </td>
                             <td width="30%">
-                                Gold Coast
+                                Houilles
                             </td>
 
                     </tr>
@@ -1461,14 +1471,14 @@ background-color: #31314f !important;
                                 </a>
                             </td>
                             <td width="25%">
-                               03 JUL 2018 - 04 JUL 2018
+                               27 APR 2019 - 28 APR 2019
                             </td>
                             <td width="10%">
-                                CAN
-                                <img alt="CANADA" class="tableflag" src="https://media.aws.iaaf.org/Flags/CAN.gif" />
+                                ITA
+                                <img alt="ITALY" class="tableflag" src="https://media.aws.iaaf.org/Flags/ITA.gif" />
                             </td>
                             <td width="30%">
-                                Ottawa (Terry Fox AF), CAN
+                                Lana (ITA)
                             </td>
 
                     </tr>
@@ -1481,14 +1491,14 @@ background-color: #31314f !important;
                                 </a>
                             </td>
                             <td width="25%">
-                               23 SEP 2018 - 26 SEP 2018
+                               10 FEB 2019
                             </td>
                             <td width="10%">
-                                CHN
-                                <img alt="PR OF CHINA" class="tableflag" src="https://media.aws.iaaf.org/Flags/CHN.gif" />
+                                AUS
+                                <img alt="AUSTRALIA" class="tableflag" src="https://media.aws.iaaf.org/Flags/AUS.gif" />
                             </td>
                             <td width="30%">
-                                Suzhou
+                                Adelaide
                             </td>
 
                     </tr>
@@ -1501,14 +1511,14 @@ background-color: #31314f !important;
                                 </a>
                             </td>
                             <td width="25%">
-                               29 JUN 2018
+                               27 SEP 2019 - 06 OCT 2019
                             </td>
                             <td width="10%">
-                                SVK
-                                <img alt="SLOVAK REPUBLIC" class="tableflag" src="https://media.aws.iaaf.org/Flags/SVK.gif" />
+                                QAT
+                                <img alt="QATAR" class="tableflag" src="https://media.aws.iaaf.org/Flags/QAT.gif" />
                             </td>
                             <td width="30%">
-                                Šamor&#237;n (x-bionicsphere)
+                                Doha
                             </td>
 
                     </tr>
@@ -1525,21 +1535,20 @@ background-color: #31314f !important;
                     <tr>
 
 
-                        <td>
-                            <a href="/competitions/iaaf-cross-country-permit">
-                                IAAF Cross Country Permit
-                            </a>
-                        </td>
+                            <td>
+                                <a href="/competitions/iaaf-cross-country-permit">
+                                    IAAF Cross Country Permit
+                                </a>
+                            </td>
                             <td width="25%">
-                                
-                                18 FEB 2018
+                               06 JAN 2019
                             </td>
                             <td width="10%">
-                                POR
-                                <img alt="PORTUGAL" class="tableflag" src="https://media.aws.iaaf.org/Flags/POR.gif" />
+                                ITA
+                                <img alt="ITALY" class="tableflag" src="https://media.aws.iaaf.org/Flags/ITA.gif" />
                             </td>
                             <td width="30%">
-                                Albufeira
+                                San Giorgio su Legnano
                             </td>
 
                     </tr>
@@ -1556,34 +1565,34 @@ background-color: #31314f !important;
                     <tr>
 
 
-                        <td>
-                            <a href="/competitions/olympic-games">
-                                Olympic Games
-                            </a>
-                        </td>
+                            <td>
+                                <a href="/competitions/olympic-games">
+                                    Olympic Games
+                                </a>
+                            </td>
                             <td width="25%">
-                                
-                                05 AUG 2016 - 21 AUG 2016
+                               31 JUL 2020 - 09 AUG 2020
                             </td>
                             <td width="10%">
-                                BRA
-                                <img alt="BRAZIL" class="tableflag" src="https://media.aws.iaaf.org/Flags/BRA.gif" />
+                                JPN
+                                <img alt="JAPAN" class="tableflag" src="https://media.aws.iaaf.org/Flags/JPN.gif" />
                             </td>
                             <td width="30%">
-                                Rio de Janeiro (Est&#225;dio Ol&#237;mpico)
+                                Tokyo
                             </td>
 
                     </tr>
                     <tr>
 
 
-                            <td>
-                                <a href="/competitions/youth-olympic-games">
-                                    Youth Olympic Games
-                                </a>
-                            </td>
+                        <td>
+                            <a href="/competitions/youth-olympic-games">
+                                Youth Olympic Games
+                            </a>
+                        </td>
                             <td width="25%">
-                               11 OCT 2018 - 17 OCT 2018
+                                
+                                11 OCT 2018 - 16 OCT 2018
                             </td>
                             <td width="10%">
                                 ARG
@@ -1609,31 +1618,37 @@ background-color: #31314f !important;
         <ul class="partners">
                     <li>
                         <a href="/about-iaaf/partners/asics" class="sponsor-logo" target="_self">
-                            <img src="/Assets/Images/layout/partners/darkbackground/asics-45x180.jpg?v=-320627292" alt="Asics"/>
+                            <img src="/Assets/Images/layout/partners/darkbackground/asics-45x180.jpg?v=2004971535" alt="Asics"/>
                         </a>
                         <span class="_label">Official IAAF partner</span>
                     </li>
                     <li>
                         <a href="/about-iaaf/partners/seiko" class="sponsor-logo" target="_self">
-                            <img src="/Assets/Images/layout/partners/darkbackground/seiko-45x180.jpg?v=-320627292" alt="SEIKO"/>
+                            <img src="/Assets/Images/layout/partners/darkbackground/seiko-45x180.jpg?v=2004971535" alt="SEIKO"/>
                         </a>
                         <span class="_label">Official IAAF partner</span>
                     </li>
                     <li>
                         <a href="/about-iaaf/partners/tdk" class="sponsor-logo" target="_self">
-                            <img src="/Assets/Images/layout/partners/darkbackground/tdk-45x180.jpg?v=-320627292" alt="TDK"/>
+                            <img src="/Assets/Images/layout/partners/darkbackground/tdk-45x180.jpg?v=2004971535" alt="TDK"/>
                         </a>
                         <span class="_label">Official IAAF partner</span>
                     </li>
                     <li>
+                        <a href="https://www.eurovision.net/" class="sponsor-logo" target="_blank">
+                            <img src="/Assets/Images/layout/partners/darkbackground/eurovision-45x180.jpg?v=2004971535" alt="Eurovision"/>
+                        </a>
+                        <span class="_label">Official IAAF Media partner</span>
+                    </li>
+                    <li>
                         <a href="http://www.tbs.co.jp/" class="sponsor-logo" target="_blank">
-                            <img src="/Assets/Images/layout/partners/darkbackground/tbs-45x180.jpg?v=-320627292" alt="TBS"/>
+                            <img src="/Assets/Images/layout/partners/darkbackground/tbs-45x180.jpg?v=2004971535" alt="TBS"/>
                         </a>
                         <span class="_label">Official IAAF broadcaster</span>
                     </li>
                     <li>
                         <a href="http://www.mondoworldwide.com/" class="sponsor-logo" target="_blank">
-                            <img src="/Assets/Images/layout/partners/darkbackground/mondo-45x180.png?v=-320627292" alt="Mondo"/>
+                            <img src="/Assets/Images/layout/partners/darkbackground/mondo-45x180.png?v=2004971535" alt="Mondo"/>
                         </a>
                         <span class="_label">Official IAAF supplier</span>
                     </li>
@@ -1727,15 +1742,65 @@ background-color: #31314f !important;
 <ul class="row media-grid">
                 <li class="col-xs-4 col-sm-4 col-md-4">
 
-                    <a href="/news/series/janieve-russell-loves-hurdles">
+                    <a href="/news/news/andreas-brugger-obituary">
 
-                        <picture><img alt="Janieve Russell (c) taking the Commonwealth 400m hurdles title (Getty Images)" rel="Janieve Russell (c) taking the Commonwealth 400m hurdles title (Getty Images) &amp;copy; Copyright" src="https://media.aws.iaaf.org/media/List/181c7864-2cba-4cd6-9963-556438cc601a.jpg?v=54937129" /></picture>
+                        <picture><img alt="Andreas Brügger (Getty Images)" rel="Andreas Brügger (Getty Images) &amp;copy; Copyright" src="https://media.aws.iaaf.org/media/List/faa70da4-1b87-41a2-b778-81a814e5a56c.jpg?v=862101841" /></picture>
 
                         <span>
                             <i class="fa fa-newspaper-o"></i>
                             <span class="_label meta">
                                 <span class="date">
-                                    28 JUN 2018
+                                    28 DEC 2018
+                                </span>
+                                <span class="_label type">
+                                    General News
+                                </span>
+                            </span>
+                        </span>
+
+                        <span class="truncate">
+                            Br&#252;gger, pioneering meeting director, dies
+                        </span>
+
+                    </a>
+
+                </li>
+                <li class="col-xs-4 col-sm-4 col-md-4">
+
+                    <a href="/news/preview/wanders-returns-defend-houilles-10km-title">
+
+                        <picture><img alt="Julien Wanders on his way to winning the Corrida Internationale de Houilles (Jiro Mochizuki)" rel="Julien Wanders on his way to winning the Corrida Internationale de Houilles (Jiro Mochizuki) &amp;copy; Copyright" src="https://media.aws.iaaf.org/media/List/af2e7b00-e6f0-473d-bd8c-251f46230beb.png?v=-1467085257" /></picture>
+
+                        <span>
+                            <i class="fa fa-newspaper-o"></i>
+                            <span class="_label meta">
+                                <span class="date">
+                                    28 DEC 2018
+                                </span>
+                                <span class="_label type">
+                                    Preview
+                                </span>
+                            </span>
+                        </span>
+
+                        <span class="truncate">
+                            Wanders returns to defend Houilles 10km title
+                        </span>
+
+                    </a>
+
+                </li>
+                <li class="col-xs-4 col-sm-4 col-md-4">
+
+                    <a href="/news/series/yuki-hashioka-japan-long-jump">
+
+                        <picture><img alt="Yuki Hashioka in the long jump at the IAAF World U20 Championships Tampere 2018 (Roger Sedres)" rel="Yuki Hashioka in the long jump at the IAAF World U20 Championships Tampere 2018 (Roger Sedres) &amp;copy; Copyright" src="https://media.aws.iaaf.org/media/List/34ee08f9-c17a-45ad-9b30-98500cb6e025.jpg?v=694319117" /></picture>
+
+                        <span>
+                            <i class="fa fa-newspaper-o"></i>
+                            <span class="_label meta">
+                                <span class="date">
+                                    27 DEC 2018
                                 </span>
                                 <span class="_label type">
                                     Series
@@ -1747,57 +1812,7 @@ background-color: #31314f !important;
                         </span>
 
                         <span class="truncate">
-                            Janieve Russell – I love hurdling because...
-                        </span>
-
-                    </a>
-
-                </li>
-                <li class="col-xs-4 col-sm-4 col-md-4">
-
-                    <a href="/news/news/lausanne-announces-womens-1500m-field">
-
-                        <picture><img alt="Tsegay Gudaf takes the Stockholm 1500m (Giancarlo Colombo)" rel="Tsegay Gudaf takes the Stockholm 1500m (Giancarlo Colombo) &amp;copy; Copyright" src="https://media.aws.iaaf.org/media/List/04d9d819-7020-454f-8d05-6bf747d53821.jpg?v=-1230241541" /></picture>
-
-                        <span>
-                            <i class="fa fa-newspaper-o"></i>
-                            <span class="_label meta">
-                                <span class="date">
-                                    28 JUN 2018
-                                </span>
-                                <span class="_label type">
-                                    General News
-                                </span>
-                            </span>
-                        </span>
-
-                        <span class="truncate">
-                            Lausanne announces strong women&#39;s 1500m field - IAAF Diamond League
-                        </span>
-
-                    </a>
-
-                </li>
-                <li class="col-xs-4 col-sm-4 col-md-4">
-
-                    <a href="/news/report/mediterranean-games-2018-spanovic">
-
-                        <picture><img alt="Ivana Spanovic sailing to the Mediterranean Games title in Tarragona (Foto Tarragona 2018)" rel="Ivana Spanovic sailing to the Mediterranean Games title in Tarragona (Foto Tarragona 2018) &amp;copy; Copyright" src="https://media.aws.iaaf.org/media/List/046433ff-5d7a-4a0e-91ea-9db48d2b7242.jpg?v=1176258914" /></picture>
-
-                        <span>
-                            <i class="fa fa-newspaper-o"></i>
-                            <span class="_label meta">
-                                <span class="date">
-                                    27 JUN 2018
-                                </span>
-                                <span class="_label type">
-                                    Report
-                                </span>
-                            </span>
-                        </span>
-
-                        <span class="truncate">
-                            Spanovic jumps world lead on first day of athletics at Mediterranean Games
+                            Yuki Hashioka: I love jumping because...
                         </span>
 
                     </a>
@@ -1872,54 +1887,6 @@ background-color: #31314f !important;
 <ul class="row media-grid" id="masonry">
             <li class="col-xs-12 col-sm-4 col-md-4">
 
-                <a href="/athletes/athlete=253964">
-
-                    <picture><img alt="Mutaz Essa Barshim in the high jump at the IAAF World Championships London 2017 (Getty Images)" height="160" rel="Mutaz Essa Barshim in the high jump at the IAAF World Championships London 2017 (Getty Images) &amp;copy; Copyright" src="https://media.aws.iaaf.org/media/List/ddc42424-fe25-4381-a809-30ae0b548b67.png?v=1038425592" width="240" /></picture>
-
-                </a>
-
-                <span class="_label comp">
-                    Mutaz Essa Barshim
-                        <ul class="row social-grid">
-                            <li>
-                                <a href="https://https://spikes.iaaf.org/live/posts//253964?utm_source=iaaf.org&utm_medium=iconlink&utm_campaign=athleteindex" target="_blank" onclick="_gaq.push(['_trackevent', 'Mutaz Essa BarshimSpikes', 'Module']); ">
-                                    <i class="fa fa-spikes xs margined"></i>
-                                </a>
-                            </li>
-                                                    </ul>
-                </span>
-
-                <span class="_label">
-                    <img alt="Qatar" class="tableflag" src="https://media.aws.iaaf.org/Flags/QAT.gif" />
-                    QAT
-                </span>
-            </li>
-            <li class="col-xs-12 col-sm-4 col-md-4">
-
-                <a href="/athletes/athlete=258987">
-
-                    <picture><img alt="Nafissatou Thiam in the heptathlon 800m at the IAAF World Championships London 2017 (Getty Images)" height="160" rel="Nafissatou Thiam in the heptathlon 800m at the IAAF World Championships London 2017 (Getty Images) &amp;copy; Copyright" src="https://media.aws.iaaf.org/media/List/791d8caf-3935-4f8e-be4b-9a857c67b081.jpg?v=1188785356" width="240" /></picture>
-
-                </a>
-
-                <span class="_label comp">
-                    Nafissatou Thiam
-                        <ul class="row social-grid">
-                            <li>
-                                <a href="https://https://spikes.iaaf.org/live/posts//258987?utm_source=iaaf.org&utm_medium=iconlink&utm_campaign=athleteindex" target="_blank" onclick="_gaq.push(['_trackevent', 'Nafissatou ThiamSpikes', 'Module']); ">
-                                    <i class="fa fa-spikes xs margined"></i>
-                                </a>
-                            </li>
-                                                    </ul>
-                </span>
-
-                <span class="_label">
-                    <img alt="Belgium" class="tableflag" src="https://media.aws.iaaf.org/Flags/BEL.gif" />
-                    BEL
-                </span>
-            </li>
-            <li class="col-xs-12 col-sm-4 col-md-4">
-
                 <a href="/athletes/athlete=188307">
 
                     <picture><img alt="Kenya&#39;s Eliud Kipchoge in action at the 2012 World Half Marathon Championships (Getty Images)" height="160" rel="Kenya&#39;s Eliud Kipchoge in action at the 2012 World Half Marathon Championships (Getty Images) &amp;copy; Copyright" src="https://media.aws.iaaf.org/media/List/01207ae2-444d-49ee-902c-263cf6e62cd1.jpg?v=-492736133" width="240" /></picture>
@@ -1933,6 +1900,52 @@ background-color: #31314f !important;
                 <span class="_label">
                     <img alt="Kenya" class="tableflag" src="https://media.aws.iaaf.org/Flags/KEN.gif" />
                     KEN
+                </span>
+            </li>
+            <li class="col-xs-12 col-sm-4 col-md-4">
+
+                <a href="/athletes/athlete=170921">
+
+                    <picture><img alt="Caterine Ibarguen in the triple jump at the IAAF World Championships Beijing 2015 (Getty Images)" height="160" rel="Caterine Ibarguen in the triple jump at the IAAF World Championships Beijing 2015 (Getty Images) &amp;copy; Copyright" src="https://media.aws.iaaf.org/media/List/d1c53c51-bfb8-4fa5-9547-712b34e2eca6.jpg?v=-1495691707" width="240" /></picture>
+
+                </a>
+
+                <span class="_label comp">
+                    Caterine Ibarguen
+                        <ul class="row social-grid">
+                            <li>
+                                <a href="https://https://spikes.iaaf.org/live/posts//170921?utm_source=iaaf.org&utm_medium=iconlink&utm_campaign=athleteindex" target="_blank" onclick="_gaq.push(['_trackevent', 'Caterine IbarguenSpikes', 'Module']); ">
+                                    <i class="fa fa-spikes xs margined"></i>
+                                </a>
+                            </li>
+                                <li>
+                                    <a href="https://twitter.com/tripleCIbarguen" target="_blank" onclick="_gaq.push(['_trackevent', 'tripleCIbarguenTwitter', 'Module']); ">
+                                        <i class="fa fa-twitter"></i>
+                                    </a>
+                                </li>
+                                                    </ul>
+                </span>
+
+                <span class="_label">
+                    <img alt="Colombia" class="tableflag" src="https://media.aws.iaaf.org/Flags/COL.gif" />
+                    COL
+                </span>
+            </li>
+            <li class="col-xs-12 col-sm-4 col-md-4">
+
+                <a href="/athletes/athlete=248948">
+
+                    <picture><img alt="Kevin Mayer after winning the decathlon at the IAAF World Championships London 2017 (Getty Images)" height="160" rel="Kevin Mayer after winning the decathlon at the IAAF World Championships London 2017 (Getty Images) &amp;copy; Copyright" src="https://media.aws.iaaf.org/media/List/f75597b7-3e04-43f5-af8f-838b36a1d4d0.jpg?v=10198272" width="240" /></picture>
+
+                </a>
+
+                <span class="_label comp">
+                    Kevin Mayer
+                </span>
+
+                <span class="_label">
+                    <img alt="France" class="tableflag" src="https://media.aws.iaaf.org/Flags/FRA.gif" />
+                    FRA
                 </span>
             </li>
 
@@ -2403,6 +2416,9 @@ background-color: #31314f !important;
         </ul>
     </li>
     <!-- /ko -->
+    <li data-bind="css: { active: iaaf.navSelect === 'Tickets' }">
+        <a href="/tickets">Tickets</a>
+    </li>
     <!-- ko ifnot: showSubNav -->
     <li data-bind="attr: { 'class' : iaaf.navSelect === 'Spikes' ? 'active' : '' }">
         <a target="_blank" href="https://spikes.iaaf.org">
@@ -2723,26 +2739,19 @@ background-color: #31314f !important;
             Send Competition Results
         </a>
     </li>
-
-
-
-
-
     
+    <li data-bind="attr: { 'class' : iaaf.subNavSelect === 'cpr' ? 'active' : '' }">
+        <a href="/records/competition-performance-rankings">
+            competition performance rankings
+        </a>
+    </li>
     
     <li data-bind="attr: { 'class' : iaaf.subNavSelect === 'crr' ? 'active' : '' }">
-        <a href="/records/certified-roadraces">
-            Certified Roadraces Events
-        </a>
-    </li>
-    <li data-bind="attr: { 'class' : iaaf.subNavSelect === 'crw' ? 'active' : '' }">
-        <a href="/records/certified-racewalking-events">
-            Certified Race walking Events
+        <a href="/records/certified-roadevents">
+            certified road events
         </a>
     </li>
     
-    
-
 </script>
 <!-- /ko -->
 
@@ -2858,12 +2867,12 @@ background-color: #31314f !important;
 
     <li data-bind="attr: { 'class' : iaaf.subNavSelect === 'Vision' ? 'active' : '' }">
         <a href="/development/vision">
-            Vision
+            Development programme
         </a>
     </li>
-    <li data-bind="attr: { 'class' : iaaf.subNavSelect === 'Development-Centres' ? 'active' : '' }">
+    <li data-bind="attr: { 'class' : iaaf.subNavSelect === 'area-development' ? 'active' : '' }">
         <a href="/athletics-development/development-centres">
-            Development Centres
+            Area development
         </a>
     </li>
     <li data-bind="attr: { 'class' : iaaf.subNavSelect === 'Education' ? 'active' : '' }">
@@ -2871,25 +2880,27 @@ background-color: #31314f !important;
             Education
         </a>
     </li>
+  
+    
+  
+    <li data-bind="attr: { 'class' : iaaf.subNavSelect === 'school-youth' ? 'active' : '' }">
+        <a href="/development/school-youth">
+           Kids' Athletics
+        </a>
+    </li>
     <li data-bind="attr: { 'class' : iaaf.subNavSelect === 'Research' ? 'active' : '' }">
         <a href="/development/research">
             Research
         </a>
     </li>
-    
-    <li data-bind="attr: { 'class' : iaaf.subNavSelect === 'Sustainable-Development' ? 'active' : '' }">
-        <a href="/development/sustainable-development">
-            Sustainable Development
-        </a>
-    </li>
-    <li data-bind="attr: { 'class' : iaaf.subNavSelect === 'school-youth' ? 'active' : '' }">
-        <a href="/development/school-youth">
-            School/Youth
-        </a>
-    </li>
     <li data-bind="attr: { 'class' : iaaf.subNavSelect === 'new-studies-in-athletics' ? 'active' : '' }">
         <a href="/development/new-studies-in-athletics">
             New Studies in Athletics
+        </a>
+    </li>
+    <li data-bind="attr: { 'class' : iaaf.subNavSelect === 'development-community' ? 'active' : '' }">
+        <a href="/development/community/solidarity">
+            Development community
         </a>
     </li>
 </script>
@@ -2926,6 +2937,11 @@ background-color: #31314f !important;
                 IAAF Reform
             </a>
         </li>
+        <li data-bind="attr: { 'class' : iaaf.subNavSelect === 'anti-doping' ? 'active' : '' }">
+            <a href='/about-iaaf/documents/anti-doping'>
+                Anti-Doping
+            </a>
+        </li>
         <li data-bind="attr: { 'class' : iaaf.subNavSelect === 'member-federation-information' ? 'active' : '' }">
             <a href='/about-iaaf/documents/member-federation-information'>
                 Member Federation information
@@ -2934,11 +2950,6 @@ background-color: #31314f !important;
         <li data-bind="attr: { 'class' : iaaf.subNavSelect === 'iaaf-newsletter' ? 'active' : '' }">
             <a href='/about-iaaf/documents/iaaf-newsletter'>
                 IAAF Newsletter
-            </a>
-        </li>
-        <li data-bind="attr: { 'class' : iaaf.subNavSelect === 'anti-doping' ? 'active' : '' }">
-            <a href='/about-iaaf/documents/anti-doping'>
-                Anti-Doping
             </a>
         </li>
         <li data-bind="attr: { 'class' : iaaf.subNavSelect === 'transfer-of-allegiance' ? 'active' : '' }">
@@ -3148,7 +3159,8 @@ background-color: #31314f !important;
             <article class="minus-offset padding about-panel">
                 <p align="center">WEBSITE – PRIVACY POLICY</p>
 <p><strong>1. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Introduction</strong></p>
-<p>Your personal information is being processed by the IAAF. The IAAF respects your privacy and is committed to protecting your personal information. &nbsp;This Privacy Policy relates to our use of any personal information you provide to us through the IAAF website.<br>In order to provide you with the full range of services, we may request and/or record information about you. This Privacy Policy explains the following:</p>
+<p>Your personal information is being processed by the IAAF. The IAAF respects your privacy and is committed to protecting your personal information. &nbsp;This Privacy Policy relates to our use of any personal information you provide to us through the IAAF website.</p>
+<p>In order to provide you with the full range of services, we may request and/or record information about you. This Privacy Policy explains the following:</p>
 <ul>
 <li>the type of information we collect;</li>
 <li>how the information is used;</li>
@@ -3161,37 +3173,49 @@ background-color: #31314f !important;
 <p>&nbsp;</p>
 <p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;What type of personal information is collected?</strong></p>
 <p>When you sign up to participate in or receive a service from any IAAF website, such as a newsletter, competition or forum, we will ask for limited personal information. In the table below we set out what personal information we process, the activity on our website it covers, the legal basis upon which we process it and retention period for that data. By entering your details in the fields requested, you consent to us and our service providers to provide you with the services you selected.</p>
-<table class="records-table" border="0" width="100%" cellspacing="0" cellpadding="0">
+<table class="records-table" style="height: 339px;" border="0" width="1101" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
-<td valign="top" width="30%"><br> <strong>Type of Personal Information</strong></td>
-<td valign="top" width="20%"><strong>Business Purpose</strong></td>
-<td valign="top" width="20%"><strong>Legal Basis upon which it is used</strong></td>
-<td valign="top" width="30%"><strong>Retention Period</strong></td>
+<td style="width: 328.008px;" valign="top"><br> <strong>Type of Personal Information</strong></td>
+<td style="width: 218.008px;" valign="top"><strong>Business Purpose</strong></td>
+<td style="width: 218.008px;" valign="top"><strong>Legal Basis upon which it is used</strong></td>
+<td style="width: 328.008px;" valign="top"><strong>Retention Period</strong></td>
 </tr>
 <tr>
-<td valign="top">First Name; Last Name; Email Address</td>
-<td valign="top">To contact the IAAF to make a comment, raise a question or query about its organisation or activities</td>
-<td valign="top">Consent</td>
-<td valign="top">For as long as necessary for the purpose of corresponding with you about your comment, question or query – we will then delete your personal information</td>
+<td style="width: 328.008px;" valign="top">First Name; Last Name; Email Address</td>
+<td style="width: 218.008px;" valign="top">To contact the IAAF to make a comment, raise a question or query about its organisation or activities</td>
+<td style="width: 218.008px;" valign="top">Consent</td>
+<td style="width: 328.008px;" valign="top">For as long as necessary for the purpose of corresponding with you about your comment, question or query – we will then delete your personal information</td>
 </tr>
 <tr>
-<td valign="top">First Name; Last Name; Email Address</td>
-<td valign="top">Registration and to receive the IAAF Newsletter</td>
-<td valign="top">Consent</td>
-<td valign="top">Until such time as the you request to be removed from the Newsletter mailing list</td>
+<td style="width: 328.008px;" valign="top">First Name; Last Name; Email Address</td>
+<td style="width: 218.008px;" valign="top">Registration and to receive the IAAF Newsletter</td>
+<td style="width: 218.008px;" valign="top">Consent</td>
+<td style="width: 328.008px;" valign="top">Until such time as the you unsubscribe/request to be removed from the Newsletter mailing list</td>
 </tr>
 <tr>
-<td valign="top">First Name; Last Name; Email Address; Media Outlet; Press Number</td>
-<td valign="top">Registration and to receive IAAF Press Releases</td>
-<td valign="top">Consent</td>
-<td valign="top">Until such time as you request to be removed from the Press Releases mailing list</td>
+<td style="width: 328.008px;" valign="top">First Name; Last Name; Email Address; Media Outlet; Press Number</td>
+<td style="width: 218.008px;" valign="top">Registration and to receive IAAF Press Releases</td>
+<td style="width: 218.008px;" valign="top">Consent</td>
+<td style="width: 328.008px;" valign="top">Until such time as you unsubscribe/request to be removed from the Press Releases mailing list</td>
 </tr>
 <tr>
-<td valign="top">First Name; Last Name; Email; Username (note we do not have access to any personal information relating to your ticket transactions)</td>
-<td valign="top">Registration for and maintaining an account to be able to purchase tickets to IAAF events</td>
-<td valign="top">Consent</td>
-<td valign="top">Until such time as you requests to close the account</td>
+<td style="width: 328.008px;" valign="top">First Name; Last Name; Email; Username (note we do not have access to any personal information relating to your ticket transactions)</td>
+<td style="width: 218.008px;" valign="top">Registration for and maintaining an account to be able to purchase tickets to IAAF events and transfer of your personal information to the relevant event organiser</td>
+<td style="width: 218.008px;" valign="top">Consent</td>
+<td style="width: 328.008px;" valign="top">Until such time as you request to close the account or 1 year after the Event(s) for which you have registered for whichever is the earlier</td>
+</tr>
+<tr>
+<td style="width: 328.008px;" valign="top">First Name, Last Name, Email, Year of Birth, Gender, Nationality</td>
+<td style="width: 218.008px;" valign="top">Registrations for document download</td>
+<td style="width: 218.008px;" valign="top">Consent</td>
+<td style="width: 328.008px;" valign="top">Until such time as you withdraw your consent or 1 year after your registration whichever is the earlier</td>
+</tr>
+<tr>
+<td style="width: 328.008px;" valign="top">First Name, Last Name, Email</td>
+<td style="width: 218.008px;" valign="top">If you opt in to receiving news, offers, competitions and events from the IAAF commercial partners</td>
+<td style="width: 218.008px;" valign="top">Consent</td>
+<td style="width: 328.008px;" valign="top">Until such time as you unsubscribe/request to be removed from the mailing list (note you will also need to notify the partners who do contact you)</td>
 </tr>
 </tbody>
 </table>
@@ -3199,7 +3223,7 @@ background-color: #31314f !important;
 <p>If you register or sign up to receive information in response to competitions or through our event specific web pages then we will set out in an event specific privacy policy or appendix to this privacy policy any further information about how we handle your personal information we collect about you. This will be available from the privacy policies page of the website.</p>
 <p>&nbsp;</p>
 <p><strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;How will the information be used?</strong></p>
-<p>To send you the information or create an account that you have registered or signed up for. If you have opted into receiving information about upcoming events, offers and news from us or our Official Partners then you will receive information from us or our Official Partners. See <a href="https://www.iaaf.org/about-iaaf/partners">https://www.iaaf.org/about-iaaf/partners</a>&nbsp; We also use your personal information for the following non-marketing purposes:</p>
+<p>To send you the information or create an account that you have registered or signed up for. If you have opted into receiving information about upcoming events, offers and news from us or our Official Partners then you will receive information from us or our Official Partners. See <a href="https://www.iaaf.org/about-iaaf/partners">https://www.iaaf.org/about-iaaf/partners</a> We also use your personal information for the following non-marketing purposes:</p>
 <ul>
 <li><strong>we may contact you for service related reasons; </strong></li>
 <li><strong>to track traffic flows and to make our website easier for you to use (see our Cookies Policy); </strong></li>
@@ -3208,22 +3232,57 @@ background-color: #31314f !important;
 <p>It is easy to unsubscribe from any email messages you no longer want by contacting us (see below).</p>
 <p>&nbsp;</p>
 <p><strong>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Where will the information be stored?</strong></p>
-<p>Information that we collect from you may be transferred and stored outside of Monaco for the purposes of providing the services under the website to you.&nbsp;Our website is hosting on servers located within Europe and where you provide your personal information we have set out below where servers located that host this information. By submitting your personal information, you consent to this transfer, storing or processing.<br>We will always take all reasonable precautions to make sure that your data remains secure, handled in accordance with this Privacy Policy and has the same legal protection as it would have if it remained in Monaco.<br>Please note that the transmission of data via the internet is not completely secure and therefore we cannot guarantee the security of data sent to us electronically.&nbsp; Any transmission of such data is therefore entirely at your own risk.&nbsp; Where we have given you (or you have chosen) a password so that you can access certain parts of the site, you are responsible for keeping this password confidential.</p>
+<p>Information that we collect from you may be transferred and stored outside of Monaco for the purposes of providing the services under the website to you.&nbsp;Our website is hosting on servers located within Europe and where you provide your personal information we have set out below where servers located that host this information. By submitting your personal information, you consent to this transfer, storing or processing.</p>
+<p>We will always take all reasonable precautions to make sure that your data remains secure, handled in accordance with this Privacy Policy and has the same legal protection as it would have if it remained in Monaco.</p>
+<p>Please note that the transmission of data via the internet is not completely secure and therefore we cannot guarantee the security of data sent to us electronically.&nbsp; Any transmission of such data is therefore entirely at your own risk.&nbsp; Where we have given you (or you have chosen) a password so that you can access certain parts of the site, you are responsible for keeping this password confidential.</p>
 <p>&nbsp;</p>
 <p><strong>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Will IAAF share my information with anyone else?</strong></p>
-<p>IAAF may disclose your personal data where it believes it is compelled to do so by law; in particular for the prevention or detection of crime, the capture or prosecution of offenders; and the assessment or collection of tax or duty.<br>Other than our service providers who help us run our website (but unless we need your consent also)&nbsp; we will only share your contact information with third parties, subject to the law, to contact you directly where we have your permission.<br>Newsletter &amp; Press Releases<br>Our service provider for maintaining and hosting the databases for the IAAF Newsletter and IAAF Press Releases are Haymarket Media Group Limited (Haymarket) Registered in England no. 00267189 Registered Office: Bridge House, Twickenham, TW1 3QR visit: www.haymarketnetwork.com or <a href="http://www.haymarket.com">www.haymarket.com</a> they host the databases, which are encrypted, on a sub-contractor’s IBM cloud servers called IBM Watson Campaign Automation. The servers processing the personal are located in both the USA and Germany. <br>Ticket Registration Account<br>If you subscribe to for a ticket registration account (https://tickets.iaaf.org ) then your personal details will be added to a database hosted by Ticketmaster Sports Limited [West Court, Riverside, Campbell Road, Stoke-on-Trent, Staffordshire ST4 4FB, United Kingdom, visit: http://www.ticketmastersport.com). The database is hosted on encrypted servers located in London, United Kingdom and managed by Ticketmaster’s sub-contractors Rackspace. <br>These organisations act as data processors and are controlled in how they may/may not use your personal data. &nbsp;We remain responsible for the protection of your data.<br>If you register or sign up to receive information on our event specific web pages then we will set out in an event specific privacy policy or appendix to this privacy policy about who your information is shared with which will be available from the privacy policies page of the website. <br> <strong>Can I find out what personal information the IAAF holds on me?</strong> <br>Yes.&nbsp; You have the right to request a copy of the personal information that the IAAF holds about you. There will be an administration fee associated with this request and we will require two pieces of identification to prove your identity. <br>If you believe that any information we are holding for you is incorrect or incomplete, please e-mail us as soon as possible to the addresses below.&nbsp;</p>
+<p>IAAF may disclose your personal data where it believes it is compelled to do so by law; in particular for the prevention or detection of crime, the capture or prosecution of offenders; and the assessment or collection of tax or duty.</p>
+<p>Other than our service providers who help us run our website (but unless we need your consent also) we will only share your contact information with third parties, subject to the law, to contact you directly where we have your permission.</p>
+<p>Newsletter &amp; Press Releases</p>
+<p>Our service provider for maintaining and hosting the databases for the IAAF Newsletter and IAAF Press Releases are Haymarket Media Group Limited (Haymarket) Registered in England no. 00267189 Registered Office: Bridge House, Twickenham, TW1 3QR visit: www.haymarketnetwork.com or <a href="http://www.haymarket.com">www.haymarket.com</a> they host the databases, which are encrypted, on a sub-contractor’s IBM cloud servers called IBM Watson Campaign Automation. The servers processing the personal are located in both the USA and Germany.</p>
+<p>Ticket Registration Account</p>
+<p>If you subscribe to for a ticket registration account (https://tickets.iaaf.org ) then your personal details will be added to a database hosted by Ticketmaster Sports Limited [West Court, Riverside, Campbell Road, Stoke-on-Trent, Staffordshire ST4 4FB, United Kingdom, visit: http://www.ticketmastersport.com). The database is hosted on encrypted servers located in London, United Kingdom and managed by Ticketmaster’s sub-contractors Rackspace.</p>
+<p>These organisations act as data processors and are controlled in how they may/may not use your personal data. &nbsp;We remain responsible for the protection of your data.</p>
+<p>Event Organisers</p>
+<p>By registering for tickets, the IAAF will process personal information about you and pass it to the organisers of the Event that you have registered for tickets for. The table above sets out specific activities covered on this website, the legal basis upon which we process it and retention period for that data. Where the Event Organiser is based outside of the EU by providing your personal information you consent to this information being shared outside of the EU. The IAAF will put in place contractual safeguards to assist in ensuring your personal data is handled securely as if it remained in the EU and Monaco.</p>
+<p>If you register or sign up to receive information on our event specific web pages then we will set out in an event specific privacy policy or appendix to this privacy policy about who your information is shared with which will be available from the privacy policies page of the website.</p>
+<p><strong>Can I find out what personal information the IAAF holds on me?</strong></p>
+<p>Yes.&nbsp; You have the right to request a copy of the personal information that the IAAF holds about you. There will be an administration fee associated with this request and we will require two pieces of identification to prove your identity.</p>
+<p>If you believe that any information we are holding for you is incorrect or incomplete, please e-mail us as soon as possible to the addresses below.&nbsp;</p>
 <p>&nbsp;</p>
-<p><strong>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Changes to the IAAF Privacy Policy?</strong></p>
-<p>This Privacy Policy may be updated at any time with or without notice, including in order to comply with new practices or regulations. &nbsp;<u>This policy was last updated in April 2018</u>.&nbsp;You may wish to visit this page every time you submit personal information to one of the IAAF’s websites.</p>
+<p><strong>6.&nbsp; &nbsp; &nbsp;EU Data Protection Rights</strong></p>
+<p>If you are from the European Union then it may be that the EU General Data Protection Regulation 2016 applies to how the IAAF handles your personal information. The IAAF has several obligations in relation to how it handles your personal data. The IAAF is committed to the key principles of transparency, consent (where applicable), security and data minimisation. Alongside relying on the IAAF meeting it obligations, you have several rights that you are entitled to exercise under these regulations. These are:</p>
+<p>The right to object</p>
+<p style="padding-left: 30px;">One key right is the right to stop processing (right to object): This allows you to do three things:</p>
+<ul>
+<li>You object to the disclosure of your information to the third parties listed above, but we must inform you that it will be difficult to process your application/registration for the purposes of providing the services on which you engage with the website and be provided with information without that information being disclosed.</li>
+<li>You have the right to object to IAAF processing information about you where we process based on 'legitimate interest'. We have stated above that the legal basis on which rely to process your personal information is consent and we do not currently rely on ‘legitimate interests’ to process it.</li>
+<li>You have the right to ask the IAAF not to process personal data for purposes of sending you direct marketing.</li>
+</ul>
+<p>The other rights are:</p>
+<ul>
+<li>Right of access: In accordance with the provisions of the data protection laws, you have certain rights to request a copy of your own personal information held by the IAAF. You can request to receive a copy of your personal information in a readily understandable format within a reasonable timeframe (one month from the date of the request).</li>
+<li>Right to rectification: You have the right to ask to rectify inaccurate or incomplete personal information which it has about you after you have been registered for accreditation. Where the IAAF positively knows that the personal information that it is processing is inaccurate or incomplete, the IAAF shall, as appropriate, rectify, amend, complete or update the relevant personal information as soon as possible. Where appropriate, if the personal information in question has been disclosed to a third party that is known or believed to continue to process the personal information, the third party shall be informed of the change as soon as possible.</li>
+<li>Right to erasure: you have the right to ask to erase your personal information in some circumstances, including where the information held by the IAAF is no longer necessary for the purposes for which it is processed, you withdraw your consent to its use, or we can no longer lawfully process the data. However, if you do exercise this right during the accreditation process then it will make providing the basis for you to participate in events difficult.</li>
+<li>Right to restriction of processing: you can restrict our processing of your data in some circumstances. This applies where, for example, if you contest the accuracy of the personal data we use or object to us using the information based on a 'legitimate interest' (see part 1, above (the right to object)). Please note that where you ask us to restrict processing, we can still store it subject to the retention period, and use it to establish or defend legal claims, which may run beyond the retention period stated.</li>
+<li>Right to data portability: This permits you to receive from the IAAF a copy of your personal information in an electronic file or format that commonly be used on different devices and machines, and to transfer your personal data from the IAAF to another data controller or have the data transmitted directly between two data controllers.</li>
+<li>Right to object to automatic processing: you have the right not to be subject to decisions based solely on automated processing which significantly affect them (at time of writing, the IAAF does not process your personal data on its systems for the purposes of making decisions based on automatic processing).</li>
+</ul>
 <p>&nbsp;</p>
-<p><strong>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cookies and your privacy</strong></p>
-<p>In order to enable us to provide you with a personalised browsing experience, this website uses 'cookie' information collection technology. "Cookies" are small pieces of information that are issued to your computer when you enter a website. Cookies are stored by your browser on your computer's hard drive, and they can be used for a wide range of purposes, such as identifying your computer's previous visits to a website, and to ascertain the most popular features of a website. Please see our Cookies Policy for more information about the cookies we use.&nbsp;</p>
+<p><strong>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Changes to IAAF Privacy Policy?</strong></p>
+<p>This Privacy Policy may be updated at any time with or without notice, including in order to comply with new practices or regulations. &nbsp;<u>This policy was last updated in October 2018</u>.&nbsp;You may wish to visit this page every time you submit personal information to one of the IAAF’s websites.</p>
 <p>&nbsp;</p>
-<p><strong>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Contacting the IAAF about this Privacy Policy</strong></p>
-<p>If you have any further questions or comments concerning the privacy of your information, please contact:<br>In respect of the registrations to the IAAF Newsletter or to IAAF Press Releases, please go to<u> </u><a href="https://www.iaaf.org/newsletter/unsubscribe">https://www.iaaf.org/newsletter/unsubscribe</a> to unsubscribe/opt-out of receiving future communications from us.&nbsp; <br>In respect of the registration for an account to be able to purchase tickets to IAAF events, you can change your preferences by logging in into your account and go to ‘My Account’. Here you can unsubscribe, opt-out or refuse receiving future communications from us, change your personal details, correct or complete information we hold about you. Alternatively, you can email<u> </u><a href="mailto:tickets@iaaf.org">tickets@iaaf.org</a> - please also use this email if you wish to close or erase your account or add restrictions to it <br>You can also write to the Department of Legal &amp; Business Affairs, Data Protection, IAAF 6/8 Quai Antoine 1er, 9800 Monaco or email: <a href="mailto:dataprotection@iaaf.org">dataprotection@iaaf.org</a> should you wish to make a request to access information about you or you wish to correct or complete information we hold about you.&nbsp;</p>
+<p><strong>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cookies and your Privacy</strong></p>
+<p>In order to enable us to provide you with a personalised browsing experience, this website uses 'cookie' information collection technology. "Cookies" are small pieces of information that are issued to your computer when you enter a website. Cookies are stored by your browser on your computer's hard drive, and they can be used for a wide range of purposes, such as identifying your computer's previous visits to a website, and to ascertain the most popular features of a website. Please see our Cookies Policy for more information about the cookies we use.</p>
 <p>&nbsp;</p>
-<p><strong>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CCIN </strong></p>
-<p>The IAAF have declared the processing of personal data submitted by you to this Website to the Commission de Contrôl des Information Nominatives, Monaco: <a href="https://www.ccin.mc/en/">https://www.ccin.mc/en/</a>&nbsp; who you may wish to contact should you have any questions or queries that you would like to raise with them.&nbsp;&nbsp;&nbsp;</p>
+<p><strong>9. Contacting the IAAF About this Privacy Policy</strong></p>
+<p>If you have any further questions or comments concerning the privacy of your information, please contact:</p>
+<p>In respect of the registrations to the IAAF Newsletter or to IAAF Press Releases, please go to <a href="https://www.iaaf.org/newsletter/unsubscribe">https://www.iaaf.org/newsletter/unsubscribe</a> to unsubscribe/opt-out of receiving future communications from us.</p>
+<p>In respect of the registration for an account to be able to purchase tickets to IAAF events, you can change your preferences by logging in into your account and go to ‘My Account’. Here you can unsubscribe, opt-out or refuse receiving future communications from us, change your personal details, correct or complete information we hold about you. Alternatively, you can email <a href="mailto:tickets@iaaf.org">tickets@iaaf.org</a> - please also use this email if you wish to close or erase your account or add restrictions to it</p>
+<p>You can also write to the Department of Legal &amp; Business Affairs, Data Protection, IAAF 6/8 Quai Antoine 1er, 9800 Monaco or email: <a href="mailto:dataprotection@iaaf.org">dataprotection@iaaf.org</a> should you wish to make a request to access information about you or you wish to correct or complete information we hold about you.</p>
+<p><strong>10. CCIN </strong></p>
+<p>The IAAF have declared the processing of personal data submitted by you to this Website to the Commission de Contrôl des Information Nominatives, Monaco: <a href="https://www.ccin.mc/en/">https://www.ccin.mc/en/</a> who you may wish to contact should you have any questions or queries that you would like to raise with them.&nbsp;&nbsp;</p>
             </article>
 
 
@@ -3248,6 +3307,7 @@ background-color: #31314f !important;
 
 
     </div>
+   
     <!--googleoff: index-->
     <!--googleoff: all-->
 
@@ -4511,7 +4571,7 @@ background-color: #31314f !important;
                     <a href="/about-iaaf/documents">Official Documents</a>
                 </li>
                 <li>
-                    <a href="/about-iaaf/medical-anti-doping">Medical/Anti-Doping</a>
+                    <a href="/about-iaaf/health-science">Health &amp; Science</a>
                 </li>
                 <li>
                     <a href="/development/vision">Athletics Development</a>
@@ -4575,6 +4635,7 @@ if (window.location.href.indexOf('about-iaaf/anti-doping') >= 0) {
         }
     }());
 </script>
+    
     
 
 </body></html>
