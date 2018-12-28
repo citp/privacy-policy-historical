@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the 3tailer.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123074747id_/http%3A//www.3tailer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3tailer.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228121742id_/https%3A//3tailer.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
-# Privacy Policy at 3tailer.com
+# Privacy Policy
 
 ## Your privacy is important to us.
+
+  
+**UPDATED: 1/18/2010**  
+
 
 **Here at 3tailer we are committed to protecting your privacy.** We will only use the information that we collect about you lawfully. We collect information about you for two reasons: firstly, to process your order and second, to provide you with the best service possible.
 
@@ -18,7 +22,7 @@ The type of information we may securely collect about you includes:
 
 
 
-We will never collect sensitive information about you without your explicit consent. The information we hold will be accurate and up to date. You can check the information that we hold about you by emailing us. If you find any inaccuracies we will delete or correct it promptly. The personal information which we hold will be held securely in accordance with our internal security policy and the law.
+ We will never collect sensitive information about you without your explicit consent. The information we hold will be accurate and up to date. You can check the information that we hold about you by emailing us. If you find any inaccuracies we will delete or correct it promptly. The personal information which we hold will be held securely in accordance with our internal security policy and the law.
 
 We may share your information with service providers for specific business purposes such as facilitating the processing of your order or for answering your inquiry.  The information we collect from you may be shared with our trusted marketing partners or other trusted third parties. We may use the personal information that you supply to us and we may work with other trusted third parties to bring selected retail opportunities to you via direct mail, email and/or telemarketing.
 
@@ -28,6 +32,6 @@ We may use technology to track the patterns of behavior of visitors to our site.
 
 From time to time we may update this privacy policy. If we change this policy in a way that materially changes the use of your information we will notify you by a notice on our site.
 
-**All cient information is transferred securely using a better than industry standard Verisign 256-bit Extended Valdiation Certificate.  Verify below:**
+**All client information is transferred securely using a better than industry standard Verisign 256-bit Extended Valdiation Certificate.  Verify below:**
 
 If you have any questions/comments about your privacy, you should [contact us](https://web.archive.org/contacts).
