@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earthecho.org privacy policy that was archived on 2018-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180505033259id_/http%3A//earthecho.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthecho.org privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228081345id_/http%3A//earthecho.org/privacy) for the most accurate reproduction.*
 
 # EarthEcho International | Privacy Policy
 
@@ -48,21 +48,25 @@ We may transfer your information to mWater, the creator of our App, which shall 
 
 Photos or comments you submit through our Service are not treated as private under this Privacy Policy or the Terms of Service. By using our Service, you understand and agree that photos and comments you submit may be used by EarthEcho International for any purpose and will be made publicly available.
 
-5.  Accessing, Editing, and Removing Your Information
+5.  Donor Commitment
+
+We will not sell, share, or trade our donors’ names or personal information with any other entity, nor send mailings to our donors on behalf of other organizations, with the exception of those listed above. This policy applies to all information received by EarthEcho International, both online and offline, on any platform, as well as any electronic, written, or verbal communications.
+
+6.  Accessing, Editing, and Removing Your Information
 
 You may in some cases be able to review and edit the personal information you have provided to us by logging into your account on the Site and editing it.  Although most changes may occur immediately, information may still be stored in a web browser’s cache.  We take no responsibility for stored information in your cache, or in other devices that may store information, and disclaim all liability of such.  In addition, we may, from time to time, retain residual information about you in our backup and/or database.
 
-6.  Cookies
+7.  Cookies
 
 We use cookies to remember your preferences.  For this reason, it is necessary that you enable cookies in your browser, and you hereby acknowledge that we have informed you of our use of cookies and that you consent to our use of cookies in relation to your computer system.
 
-7.  Third Party Websites
+8.  Third Party Websites
 
 EarthEcho International may post links to third party websites on its Site.  These third party websites are not screened for privacy or security issues by EarthEcho International, and you release us from any liability for the conduct of these third party websites.
 
 Please be aware that this Privacy Policy, and any other policies in place, in addition to any amendments, does not create rights enforceable by third parties or require disclosure of any personal information relating to members of the Service or Site.  EarthEcho International bears no responsibility for the information collected or used by any advertiser or third party website.  Please review the privacy policy and terms of service for each site you visit through third party links.
 
-8.  Third Party Access to Your Information
+9.  Third Party Access to Your Information
 
 Although you are entering into an Agreement with EarthEcho International to disclose your information to us, we do use third party individuals and organizations to assist us, including contractors, web hosts, and others.
 
@@ -72,27 +76,27 @@ It is therefore necessary that you grant the third parties we may use in the cou
 
 Without limiting the generality of the foregoing, you authorize us to collect, share, store, and otherwise use your information in conjunction with Facebook and Google.
 
-9.  Release of Your Information for Legal Purposes
+10.  Release of Your Information for Legal Purposes
 
 At times it may become necessary or desirable to EarthEcho International, for legal purposes, to release your information in response to a request from a government agency or a private litigant.  You agree that we may disclose your information to a third party where we believe, in good faith, that it is desirable to do so for the purposes of a civil action, criminal investigation, or other legal matter.  In the event that we receive a subpoena affecting your privacy, we may elect to notify you to give you an opportunity to file a motion to quash the subpoena, or we may attempt to quash it ourselves, but we are not obligated to do either.  We may also proactively report you, and release your information to, third parties where we believe that it is prudent to do so for legal reasons, such as our belief that you have engaged in fraudulent activities.  You release us from any damages that may arise from or relate to the release of your information to a request from law enforcement agencies or private litigants.
 
-10.  Commercial and Non-Commercial Communications
+11.  Commercial and Non-Commercial Communications
 
 By providing information to the Service that forms the basis of communications with you, such as contact information, you waive all rights to file complaints concerning unsolicited email from EarthEcho International since, by providing such information, you agree to receive communications from us or anyone else covered under this Privacy Policy.  However, you may unsubscribe from certain communications by notifying EarthEcho International that you no longer wish to receive solicitations or information and we will endeavor to remove you from the database.
 
-11.  Security Measures
+12.  Security Measures
 
 We take certain measures to enhance the security of our Service, as it is in our interest to do so.  However, we make no representations as to the security or privacy of your information.  It is in our interest to keep our website secure, but we recommend that you use anti-virus software, firewalls, and other precautions to protect yourself from security threats.
 
-12.  Your California Privacy Rights
+13.  Your California Privacy Rights
 
 EarthEcho International is incorporated in the State of California and complies with the California Business and Professions Code §§ 22575-22579.  If you are a California resident you may request certain information regarding our disclosure of personal information to any third parties for their direct marketing purposes.  Various provisions throughout this Privacy Policy address requirements of the Californian privacy statutes.  In summary, you must presume that we collect electronic information from all visitors.  You may contact us at info@earthecho.org with any questions.
 
-13.  International Transfer
+14.  International Transfer
 
 Your information may be transferred to—and maintained on—computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction.  If you are located outside the United States and choose to provide information to us, EarthEcho International transfers Personal Information to the United States and processes it there.  Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 
-14.  Amendments
+15.  Amendments
 
 We may amend this Privacy Policy from time to time.  When we amend this Privacy Policy, we will update this page accordingly.  You must read this page each time you use our Service and your continued use of our Service shall constitute your acceptance of any such amendments.
 
