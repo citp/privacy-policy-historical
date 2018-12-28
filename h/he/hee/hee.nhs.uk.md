@@ -1,109 +1,159 @@
-> *The following text is extracted and transformed from the hee.nhs.uk privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120081825id_/https%3A//www.hee.nhs.uk/about-us/contact-us/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hee.nhs.uk privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228065826id_/https%3A//www.hee.nhs.uk/about/privacy-notice) for the most accurate reproduction.*
 
-# Privacy and cookies | Health Education England
+# Privacy notice | Health Education England
 
-This page explains our privacy policy and how we will use and protect any information about you that you give us when you visit this website or participate in any HEE sponsored training education and development (hereafter ‘training’)
+This privacy notice is intended to provide transparency regarding what personal data HEE may hold about you, how it will be processed and stored, how long it will be retained and who may have access to your data.
 
-* * *
+Personal data is any information relating to an identified or identifiable living person (the data subject). An identifiable person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number or factors specific to the physical, genetic or mental identity of that person, for example.
 
-### HEE’s role in the NHS
+## HEE’s role in the NHS
 
-HEE is here to improve the quality of healthcare for the people and patients of England through education, training and lifelong development of staff. HEE aims to enable high quality, effective, compassionate care and to identify the right people with  
-the right skills and the right values. All of the information we collect is to support these objectives.
+HEE is here to improve the quality of healthcare for the people and patients of England through education, training and lifelong development of staff and appropriate planning of the workforce required to deliver healthcare services in England. HEE aims to enable high quality, effective, compassionate care and to identify the right people with the right skills and the right values. All the information we collect is to support these objectives.
 
-### What this privacy statement covers
+## What this privacy statement covers
 
-This privacy statement only covers HEE’s websites and services. It does not cover all sites that can be linked to from this site, so you should always be aware when you are moving to another site and read the privacy statement on that site.
+This privacy statement only covers the processing of personal data by HEE that HEE has obtained from data subjects accessing HEE’s websites and from its provision of services and exercise of functions. It does not cover the processing of data by any sites that can be linked to or from HEE’s websites, so you should always be aware when you are moving to another site and read the privacy statement on that website.
+
+When providing HEE with any of your personal data for the first time, for example, when you take up an appointment with HEE or when you enroll in any HEE sponsored training, you will be asked to confirm that you have read and accepted the terms of this privacy statement. A copy of your acknowledgement will be retained for reference.
 
 If our privacy policy changes in any way, we will place an updated version on this page. Regularly reviewing the page ensures you are always aware of what information we collect, how we use it and under what circumstances, if any, we will share it with other parties.
 
-### The information we collect
+## Why HEE collects your personal data
 
-From time to time, you will be asked to submit personal information about yourself (e.g.name and email address) in order to receive or use services such as training, bulletins, email updates and website feedback.
+Personal data may be collected from you via the recruitment process, your Annual Review of Competence Progression (ARCP) or via HEE’s appraisal process. Personal data may also be obtained from Local Education Providers or employing organisations in connection with the functions of HEE.
 
-We collect personal information from you so that we can provide education and training to you, for clinical professional learner recruitment, to promote our services, to monitor our own accounts and records, to monitor our work, to report on progress made, and to let us fulfil our statutory obligations and statutory returns as set by health and the law. In order to achieve these objectives HEE will use information for the following purposes:
+Your personal data is collected and processed for the purposes of and in connection with the functions that HEE performs with regard to workforce education and planning. The collection and processing of such data is necessary for the purposes of those functions. A full copy of our notification to the Information Commissioner setting out all of the types of processing that we undertake can be found on the Commissioner’s website. For further information please refer to HEE’s registration number: [ZA120843 on the ICO’s website](https://ico.org.uk/ESDWebPages/DoSearch).
 
-  * Managing the provision of training programmes;
-  * Managing processes allied to training programmes such as certification and evidence, such as revalidation, supporting the requirements of regulators;
-  * Quality assurance of training programmes;
-  * Workforce Planning;
-  * Improving patient safety;
-  * Compliance with legal and regulatory responsibilities, including monitoring under the Equality Act 2010.
-  * Research associated with each of the purposes described above
+In connection with training, HEE collects and uses your personal information for the following purposes:
+
+  1. To manage your training and programme
+  2. To quality assure training programmes and ensure that standards are maintained
+  3. To identify workforce planning targets
+  4. To maintain patient safety through the management of performance concerns
+  5. To comply with legal and regulatory responsibilities including revalidation
+  6. To contact you about training opportunities, events, surveys and information that may be of interest to you
 
 
 
-### How we protect and use your personal data
+We also collect and use personal information from you so that we can provide HR related support services and education and training to you, for clinical professional learner recruitment, to promote our services, to monitor our own accounts and records, to monitor our work, to report on progress made, and to let us fulfil our statutory obligations and statutory returns as set by the Department of Health and the law (for example complying with HEE’s legal obligations and regulatory responsibilities under employment law).
 
-All personal data we collect from you complies with the data protection principles, as stated in the Data Protection Act 1998 (DPA) in line with Health Education England’s DPA registration held within the Information Commissioners Office. For a full list please check HEE’s registration number: [ZA005728 held within the ICO’s website](https://ico.org.uk/ESDWebPages/DoSearch)
+Further information about our use of your personal data in connection with training can be found in the ‘Reference Guide for Postgraduate Specialty Training in the UK’, also known as the ‘Gold Guide’.
 
-The personal data we collect may be held as an electronic record on data systems managed by HEE or as a paper record. These records are only accessed and seen by staff who need access to personal data so they can do their jobs and other partner organisations under data sharing agreements. The security of the data follows HEE’s policies on information governance management.
+## Collection and use of data from website users
 
-We make every effort to keep your personal information accurate. If you tell us of any changes in your circumstances, we can update the records with personal data you choose to share with us.  
-We will keep personal data for no longer than necessary, in line with the NHS records retention schedule, within the NHS records management code of practice.
+When you access HEE’s website, small amounts of information are sometimes placed on your device, including small files known as cookies. These pieces of information are used to improve services for you. For example, we use a series of cookies to monitor website speed and usage, as well as to ensure that any preferences you have selected previously are the same when you return to our website.
 
-### Sharing personal data
+Google Analytics for example stores information about what pages you visit, how long you are on the site, how you got here and what you click on. Personal information (e.g. your name or address) is not however collected or stored so this information cannot be used to identify who you are. We do not allow Google to use or share our analytics data.
 
-So we can provide the right services at the right level, we may share your personal data within services across HEE to provide the best possible training and education – this will be on a legitimate need to know basis only.
+Full details on the cookies set by Google Analytics are published on the Google website. Google also publishes a browser add-on to allow you to choose that information about your website visit is not sent to Google Analytics.
 
-### Open Data
+On a number of pages we use ‘plug ins’ or embedded media. For example, we might embed YouTube videos in pages. The suppliers of these services may also set cookies on your device when you visit the pages where we have used this type of content. These are known as ‘third-party’ cookies. To opt-out of third-parties collecting any data regarding your interaction on our website, please refer to their websites for further information.
+
+We will not use cookies to collect personal data about you. However, if you wish to restrict or block the cookies which are set by our websites, or indeed any other website, you can do this through your browser settings. The ‘Help’ function within your browser should tell you how. Alternatively, you may wish to visit [www.aboutcookies.org](http://www.aboutcookies.org/) which contains comprehensive information on how to do this on a wide variety of browsers. You will also find details on how to delete cookies from your machine as well as more general information about cookies. Please be aware that restricting cookies may impact on the functionality of our website.
+
+## HEE as data controller
+
+HEE is the data controller in respect of any personal data it holds concerning trainees in training, individuals employed by HEE and individuals accessing HEE’s website.
+
+## Legal basis for processing
+
+The GDPR requires that data controllers and organisations that process personal data demonstrate compliance with its provisions. This involves publishing our basis for lawful processing.
+
+As personal data is processed for the purposes of HEE’s statutory functions, HEE’s legal bases for the processing of personal data as listed in Article 6 of the GDPR are as follows:
+
+  * 6(1)(a) – Consent of the data subject
+  * 6(1)(b) – Processing is necessary for the performance of a contract to which the data subject is party or in order to take steps at the request of the data subject prior to entering into a contract
+  * 6(1)(c) – Processing is necessary for compliance with a legal obligation
+  * 6(1)(e) – Processing is necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller
+
+
+
+Where HEE processes special categories of personal data, its additional legal bases for processing such data as listed in Article 9 of the GDPR are as follows:
+
+  * 9(2)(a) – Explicit consent of the data subject
+  * 9(2)(b) – Processing is necessary for the purposes of carrying out the obligations and exercising specific rights of the controller or of the data subject in the field of employment and social security and social protection law
+  * 9(2)(f) – Processing is necessary for the establishment, exercise or defence of legal claims or whenever courts are acting in their judicial capacity
+  * 9(2)(g) – Processing is necessary for reasons of substantial public interest
+  * 9(2)(h) – Processing is necessary for the purposes of occupational medicine, for the assessment of the working capacity of the employee, or the management of health and social care systems and services
+  * 9(2)(j) – Processing is necessary for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes
+
+
+
+Special categories of personal data include data relating to racial or ethnic origin, political opinions, religious beliefs, sexual orientation and data concerning health.
+
+Please note that not all of the above legal bases will apply for each type of processing activity that HEE may undertake. However, when processing any personal data for any particular purpose, one or more of the above legal bases will apply.
+
+We may seek your consent for some processing activities, for example for sending out invitations to you to training events and sending out material from other government agencies. If you do not give consent for us to use your data for these purposes, we will not use your data for these purposes, but your data may still be retained by us and used by us for other processing activities based on the above lawful conditions for processing.
+
+## Information that we may need to send you
+
+We may occasionally have to send you information from HEE, the Department of Health, other public authorities and government agencies about matters of policy where those policy issues impact on education, training, workforce planning or other matters related to HEE. This is because HEE is required by statute to exercise functions of the Secretary of State in respect of education, training and workforce planning. If you prefer, you can opt out of receiving information about general matters of policy impacting on education, training and workforce planning by contacting your Local Office recruitment lead. The relevant Local Office will provide you with further advice and guidance regarding any consequences of your request.
+
+HEE will not send you generic information from other public authorities and government agencies on issues of government policy.
+
+## Transfers Abroad
+
+The GDPR imposes restrictions on the transfer of personal data outside the European Union, to third countries or international organisations, in order to ensure that the level of protection of individuals afforded by the GDPR is not undermined.
+
+Your data may only be transferred abroad where HEE is assured that a third country, a territory or one or more specific sectors in the third country, or an international organisation ensures an adequate level of protection.
+
+## How we protect your personal data
+
+Our processing of all personal data complies with the General Data Protection Regulation principles in line with Health Education England’s data protection registration held with the Information Commissioners Office.
+
+The personal data we hold may be held as an electronic record on data systems managed by HEE or as a paper record. These records are only accessed, seen and used as required and/or permitted by law by staff who need access to personal data so they can do their jobs and other partner organisations under data sharing agreements.
+
+The security of the data is assured through the implementation of HEE’s policies on information governance management.
+
+We make every effort to keep your personal information accurate and up to date, but in some cases we are reliant on you as the data subject to notify us of any necessary changes to your personal data. If you tell us of any changes in your circumstances, we can update the records with personal data you choose to share with us.
+
+We will keep personal data for no longer than necessary, in line with our records management policy, and the NHS records retention schedule within the NHS records management code of practice.
+
+## Sharing personal data
+
+So we can provide the right services at the right level, we may share your personal data within services across HEE and with other third party organisations such as the Department of Health, Higher Education Institutions, NHS Trusts, clinical placement providers, colleges, faculties, other HEE local offices, the GMC, NHS Trusts/Health Boards/Health and Social Care Trusts, approved academic researchers and other NHS and government agencies where necessary, to provide the best possible training and education and to ensure that we discharge HEEs responsibilities for employment and workforce planning for the NHS. This will be on a legitimate need to know basis only.
+
+We may also share information, where necessary, to prevent, detect or assist in the investigation of fraud or criminal activity, to assist in the administration of justice, for the purposes of seeking legal advice or exercising or defending legal rights or as otherwise required by the law.
+
+Where the data is used for analysis and publication by a recipient or third party, any publication will be on an anonymous basis, and will not make it possible to identify any individual. This will mean that the data ceases to become personal data.
+
+## Open Data
 
 HEE policy is to observe the Cabinet Office transparency and accountability commitments towards more open use of public data in line with relevant and applicable UK and European legislation. HEE would never share personal data through the Open Data facility. To this end, HEE will implement Information Governance protocols that reflect Information Commissioner’s Office recommended best practice for record anonymisation, and Office of National Statistics guidance on publication of statistical information.
 
-### Your rights
+## Your rights
 
-You have the right to ask HEE stop processing your personal data in relation to any HEE service. However, this may prevent HEE providing the best possible service to you. Where possible, we will do as you ask, however we may need to hold and process your data already in our possession so that we comply with NHS retention and legal requirements.
+### Right to rectification and erasure
 
-If you find that personal data that we hold is no longer accurate, you have the right to have this corrected. Please contact the service holding your data to do this.
+The GDPR extends and strengthens your rights as a data subject. Under the GDPR you have the right to rectification of inaccurate personal data and the right to request the erasure of your personal data. However, the right to erasure is not an absolute right and it may be that it is necessary for HEE to continue to process your personal data for a number of lawful and legitimate reasons.
 
-## Cookies
+### Right to object
 
-When we provide services, we want to make them easy, useful and reliable. Where services are delivered on the internet, this sometimes involves placing small amounts of information on your device, for example, computer or mobile phone. These include small files known as cookies. They cannot be used to identify you personally. These pieces of information are used to improve services for you through, for example:
+You have the right in certain circumstances to ask HEE to stop processing your personal data in relation to any HEE service. As set out above, you can decide that you do not wish to receive information from HEE about matters of policy affecting education, training and workforce. However, the right to object is not an absolute right and it may be that it is necessary in certain circumstances for HEE to continue to process your personal data for a number of lawful and legitimate reasons.
 
-  * enabling a service to recognise your device so you don’t have to give the same information several times during one task
-  * recognising that you may already have given a username and password so you don’t need to do it for every web page requested
-  * measuring how many people are using services, so they can be made easier to use and there’s enough capacity to ensure they are fast
-  * analysing anonymised data to help us understand how people interact with government services so we can make them better
+If you object to the way in which HEE is processing your personal information or if you wish to ask HEE to stop processing your personal data, please contact your relevant Local Office. However, if we do stop processing personal data about you, this may prevent HEE from providing the best possible service to you.
 
+### Subject Access
 
+You can access a copy of the information HEE holds about you by writing to [HEE's Public and Parliamentary Accountability Team](https://web.archive.org/about/contact-us/subject-access-request). This information is generally available to you free of charge subject to the receipt of appropriate identification.
 
-You can manage these small files and learn more about them from the article, [Internet Browser cookies – what they are and how to manage them](https://www.gov.uk/help/cookies).
+### Data Portability
 
-### Current cookies
+The GDPR sets out the right for a data subject to have their personal data ported from one controller to another on request in certain circumstances. You should discuss any request for this with your local office.
 
-We use a series of cookies to monitor website speed and usage, as well as to ensure that any preferences you have selected previously are the same when you return to our website.
+If you want to complain about how we have used your personal data or to know more about how your information will be used, please contact your relevant Local Office. Alternatively, HEE’s Data Protection Officer is [Mr Christopher Brady](mailto:christopher.brady@hee.nhs.uk).
 
-  | **_Cookie Name_** | **_Duration_** | **_Purpose_**  
----|---|---|---  
-Bespoke Cookie | STYLE |   | To remember your selections or preferences that you’ve already made when looking at information or using our service.  
-Speed-trap | dohCSADBID |   | So service is available when you want it and fast, we measure numbers and volumes of visitors.  
-dohCSAuvt |    
-usy46gabsosd |   | To understand what visitors want to use and not to use, so we can improve the service you receive and archive what is not used.  
-  
-For more information on Speed-trap (now Celebrus) please read their privacy policy. Google Analytics stores information about what pages you visit, how long you are on the site, how you got here and what you click on. We do not collect or store your personal information (e.g. your name or address) so this information cannot be used to identify who you are. We do not allow Google to use or share our analytics data.
+Alternatively, you can also contact the Information Commissioner if you have a complaint about our processing of your personal data:
 
-  | **_Cookie Name_** | **_Duration_** | **_Purpose_**  
----|---|---|---  
-Google Analytics | __utma | 2 years after your last visit to this site | Tracks how many times (if any) you have visited the HEE or LETB website before  
-__utmb | 30 minutes after your visit, or after 30 minutes of inactivity | Tracks how long you have spent on the website  
-__utmc | When you close your browser  
-__utmd | 6 months after it was last set | Gives us information on how the site was reached (e.g. directly or via a link, organic search or paid search)  
-__utmz | Identifies where you’ve come from e.g. from a search engine or from another website  
-  
-Full details on the cookies set by Google Analytics are published on the Google website. Google also publishes a browser add-on to allow you to choose that information about your website visit is not sent to Google Analytics.
+The Office of the Information Commissioner  
+Wycliffe House  
+Water Lane  
+Wilmslow  
+Cheshire  
+SK9 5AF
 
-### Embedded content
+### Your responsibilities
 
-We want to provide interesting and engaging content on our website. On a number of pages we use ‘plug ins’ or embedded media. For example, we might embed YouTube videos in pages. The suppliers of these services may also set cookies on your device when you visit the pages where we have used this type of content. These are known as ‘third-party’ cookies. To opt-out of third-parties collecting any data regarding your interaction on our website, please refer to their websites for further information.
+It is important that you work with us to ensure that the information we hold about you is accurate and up to date so please inform HEE if any of your personal data needs to be updated or corrected.
 
-### How to control and delete cookies
-
-We will not use cookies to collect personally identifiable information about you. However, if you wish to restrict or block the cookies which are set by our websites, or indeed any other website, you can do this through your browser settings. The ‘Help’ function within your browser should tell you how. Alternatively, you may wish to visit [www.aboutcookies.org](http://www.aboutcookies.org/) which contains comprehensive information on how to do this on a wide variety of browsers. You will also find details on how to delete cookies from your machine as well as more general information about cookies. Please be aware that restricting cookies may impact on the functionality of our website. If you wish to view your cookie code, just click on a cookie to open it. You’ll see a short string of text and numbers. The numbers are your identification card, which can only be seen by the server that gave you the cookie. For information on how to do this on the browser of your mobile phone you will need to refer to your handset manual.
-
-This Page was last updated on: 
-
-9 November 2015
-
-  * [PDF version](https://web.archive.org/printpdf/about-us/contact-us/privacy-cookies "Display a PDF version of this page.")
-
-
+All communications from HEE will normally be by email. It is therefore essential for you to maintain an effective and secure email address or you may not receive information or other important news and information about your employment or training.
