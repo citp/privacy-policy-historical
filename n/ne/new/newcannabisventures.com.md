@@ -1,9 +1,16 @@
-> *The following text is extracted and transformed from the newcannabisventures.com privacy policy that was archived on 2018-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180224134733id_/https%3A//www.newcannabisventures.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newcannabisventures.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228214426id_/https%3A//www.newcannabisventures.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy – New Cannabis Ventures
 
-**Privacy Policy**  
+**Privacy Policy – Last updated May 21st, 2018**  
 This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally Identifiable Information’ (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
+
+**GDPR Compliant  **  
+The European Union has taken an important step in protecting the right to privacy for EU citizens with the General Data Protection Regulation (GDPR), effective from May 25, 2018. EU residents will now have greater control over how their personal data is used.
+
+  * Under GDPR this website is considered the data controller and you, the user, are the data subject. Privacy by design is now a legal requirement under the GDPR, and thus, we as the data controller are taking great care in considering our visitors privacy. If you have a Subject Access Request, we are happy to answer your questions if you email us by clicking the contact us link at the bottom of this page. This website does not process data on its own and relies on the services of third-party vendors who store data on their own servers. They are as follows: a) JotForm may collect information such as name, country, email, nature of the inquiry and IP address. b) OneSignal provides notifications and collects analytics about usage data. c) MailChimp collects newsletter subscription information, as well as open and click rates. d) Google Analytics tracks behavior, acquisition, audience and real-time information.
+
+
 
 **What personal information do we collect from the people that visit our blog, website or app?**  
 When filling out any form on our site, as appropriate, you may be asked to enter your name, email address, phone number, location or other details to help you with your experience.
@@ -15,7 +22,7 @@ We collect information from you when you subscribe to a newsletter, fill out a f
 We may use the information we collect from you when you register, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
   * To send periodic emails regarding your order or other products and services.
-  * To follow up with them after correspondence (live chat, email or phone inquiries)
+  * To follow up with them after correspondence (email or phone inquiries)
 
 
 
@@ -99,7 +106,7 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
 **We collect your email address in order to:**
 
   * Send information, respond to inquiries, and/or other requests or questions
-  * Market to our mailing list or continue to send emails to our clients after the original transaction has occurred.
+  * Market to our mailing list or continue to send emails to our clients after the original submission has occurred.
 
 
 
