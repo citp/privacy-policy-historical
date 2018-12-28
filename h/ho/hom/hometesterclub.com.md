@@ -1,253 +1,152 @@
-> *The following text is extracted and transformed from the hometesterclub.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119122342id_/https%3A//hometesterclub.com/us/en/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hometesterclub.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228062009id_/https%3A//www.hometesterclub.com/us/en/home/Privacy) for the most accurate reproduction.*
 
-# 
+# Home Tester Club
 
-**EXHIBIT B**  
-**Website Privacy Policy**  
-**https://hometesterclub.com/us/en/home/Privacy**
+## **Buchanan Group Digital Privacy Policy**
 
-**Buchanan Group Privacy Policy**
+Effective Date: September 2013; Last Updated: May 2018
 
-Buchanan Advertising (Australia) Pty. Ltd.ACN 155 718 942 and the other companies and organizations which make up Buchanan Group are committed to protecting the privacy of your personal information.  This Privacy Policy explains how Buchanan Group manages the personal information that we collect, use and disclose and how to contact us if you have any further queries about our management of your personal information.  This Privacy Policy does not cover personal information collected or held by Buchanan Group about its employees.
+###  **This Privacy Policy applies to the websites where it appears.**
 
-Buchanan Group knows that users’ personal information is important to them; Buchanan Group respects that importance and treats that information responsibly. Buchanan Group has created the below policy to explain the types of information it collects from users, how it uses this information, with whom and for what purposes it shares the information, and how users can interact with Buchanan Group in connection with the information collection and use.
+This Privacy Policy describes how Buchanan Group treat and process personal information collected on the websites and platforms where this policy appears. This policy does not apply to how we treat employee or prospective employee information.
 
-**What is personal information?**  
-Personal information is information or an opinion, in any form and whether true or not, about an individual whose identity is apparent or can reasonably be ascertained from the information or opinion.  Examples include an individual's name, address, contact number and email address.     
-Special provisions apply to the collection of personal information which is sensitive information.   This includes health information and information about a persons' race, ethnic origin, political opinions, membership of political, professional or trade associations, religious or philosophical beliefs, sexual preferences and criminal history.    
+We use your information based on your consent to our practices. Your use of this website indicates that you agree to our collection, disclosure, and use of your information as described in this Privacy Policy. 
 
-**Collection of personal information by Buchanan Group**
+### **We collect information from and about you.**
 
-  * Buchanan Group will not collect personal information about you unless that information is necessary for one or more of our functions or activities. 
-  * Buchanan Group will collect personal information only by lawful and fair means and not in an unreasonably intrusive manner.
-  * When Buchanan Group collects personal information directly from you, we will take reasonable steps at or before the time of collection to ensure that you are aware of certain key matters, such as the purposes for which we are collecting the information, the organizations (or types of organizations) to which we would normally disclose information of that kind, the fact that you are able to access the information and how to contact us (for example, where personal information is collected on a form, we will generally include a written privacy statement on the form which sets out these details).
-  * Buchanan Group will collect your personal information directly from you where it is reasonable and practicable to do so.  Where Buchanan Group collects information about you from a third party, we will still take reasonable steps to ensure that you are made aware of the details set out above.
+ **We collect contact information.**    
+As part of the registration process on hometesterclub.com, for example, we collect your name and email address. We may also collect your address and phone number. 
+
+**We collect information from your social media accounts.**    
+If you sign up using your social media account or connect your social media account, we collect information from that social media platform. This may include your email address and profile picture. We may also collect the number of friends you have listed. 
+
+**We collect information you submit or post.**    
+We collect the information you submit to complete a product review. Reviews on our website are associated with your first name and your city and state or province. Reviews syndicated to third party sites are associated with either your first name or a nickname you select and your city and state or province. They are also associated with your profile picture. We may also collect information you submit on a third party site. We will also keep information you submit in reviews and in emails to us. 
+
+**We collect demographic and survey-qualifying information.**     
+We collect your age and gender when you register. In the United States and Malaysia we may permit you to select your race or ethnic origin as an optional question. We may also permit you to provide your health information as an optional question for qualifying for certain surveys and products. To better tailor surveys and products for review to you we also collect information about your shopping habits and household. We may also ask you how many children are in your household.
+
+ **We collect usage and device information.**    
+We may collect information about the browser or device you are using. When you visit our website from one of our referring partners, we may collect information to know which one of our partners referred you. We collect information about the sites you came from and where you go next.
+
+###  **We collect information in different ways.**
+
+ **We collect information directly from you.**    
+We collect information from you when you register or use our "contact us" form. We may also collect information when you email us or update your profile. 
+
+**We collect information from you passively.**    
+We use tools like browser cookies and web beacons to collect information from you. We do this on our websites and in emails that we send to you. We collect information about users over time when you use this platform. We may use third parties to collect personal information this way. 
+
+**We get information about you from third parties.**     
+Social media websites may provide us with information about you. We may also get information about you from your friends who use our "email a friend" features.
+
+###  **We combine information** **.**
+
+We may combine information that we have collected offline with information we collect online. Or we may combine information we get from a third party with information we already have. We may also combine information from your profile with information you submit in product reviews or surveys. 
+
+### **We use information as disclosed and described here.**
+
+ **We use information to respond to your questions and requests.**    
+We use your information to respond to questions about products or your relationship with us. We also use information for customer support.
+
+ **We use information for product reviews and surveys.**    
+We use your information to send you a product for review. We also use your information to tell you about new products. We use information we have about you to tailor these invitations to you. Occasionally, third-party brands may ask us to get additional information from you about your experience with their product. 
+
+**We use information to improve products and services.**    
+We may use your information to improve our websites and services. We may use your information to customize your experience with us. We also support clients who use information you submit to improve their products. We use information you submit for research and development for ourselves and our clients.
+
+ **We use information for security purposes.**    
+We may use your information to protect our company and our customers. We also use the information to protect our websites. 
+
+**We use information for marketing purposes.**    
+For example, we might provide you with information about new products and special offers. We do this when legally permitted.
+
+ **We use information to communicate with you about our relationship.**    
+We may contact you about this Privacy Policy or our Terms of Use. We will also communicate with you about product trials in which we believe you may want to participate.
+
+ **We use information as otherwise permitted by law or as we may notify you.**  
+**If you are in Europe** :   
+Our basis for processing your information is typically to perform a contract. Performance of a contract includes responding to your requests. We also process information based on consent or for our legitimate interest.
+
+###  **We may share information with third parties.**
+
+ **We will share information within the Buchanan Group family of companies.  
+** The Buchanan Group includes Buchanan Advertising (Australia) Pty. Ltd. and Buchanan Group Holdings Pty. Ltd. and its subsidiaries (we refer to ourselves collectively as the Buchanan Group). This also includes Joint Ventures, PT Home Tester and licensees, Steve Cragg Advertising Private Ltd and Steve Cragg Advertising (Pty) Ltd. This Policy describes the practices of the Buchanan Group. We will share information for our business purposes and to otherwise engage in the practices described in this Policy.
+
+ **We will share information with third parties who perform services on our behalf.**    
+We share information with vendors who send emails for us. We also share information with companies that help us operate our website. We may also share information with companies that arrange to send free product samples. You can contact us ([privacy@hometesterclub.com](mailto:privacy@hometesterclub.com)) if you want to learn more about how our service providers use your information.
+
+ **We may share your information with our business partners.**  
+
+**We will share information if we think we have to in order to comply with the law or to protect you or ourselves.**    
+For example, we will share information to respond to a court order or subpoena. We may share information if a government agency or investigatory body requests it, including to U.S. law enforcement or government agencies. We may share information if we believe we have to for adverse event reporting purposes. We might also include your information on a winners list if required by law to do so.
+
+ **We might share information if we are investigating potential fraud.**     
+This might also include fraud we think has happened during a product review or other campaign. 
+
+**We may share information with a successor to all or part of our business, as permitted by law.**  For example, if all or part of our business is sold, we may include customer information as part of that transaction. Where legally required we will give you prior notice and if you have the legal right to do so, allow you to object.
+
+ **We may share information for other reasons we may describe to you or as permitted by law.**  
+**Location of third parties.**  
+Some third parties with whom we share information may be located outside of your country. 
+
+### **You have certain choices about how we use your information.**
+
+ **You can opt out of receiving certain emails from us.**    
+You can opt out of receiving our monthly emails. To stop receiving these emails, follow the instructions in any such message you get from us. You may also login to our website to update your contact preferences on your personal dashboard page. If you opt out, you will continue to receive messages from us about your relationship with us where permitted by law. If you wish to cancel your account (and no longer hear from us) visit _[[My Dashboard]](https://web.archive.org/us/en/Dashboard)_
+
+ **You can update your information.**   
+To update or correct information you can log into your account. You can also email us at: [privacy@hometesterclub.com](mailto:privacy@hometesterclub.com)  
+
+
+### **Our Cookie and Do Not Track Policies**
+
+ **Our Do Not Track Policy** : **  
+Some browsers have "do not track" features that allow you to tell a website not to track you. These features are not all uniform.** **We do not currently respond to those signals.** If you block cookies, certain features on our sites may not work. 
+
+Our sites may use cookies or other tracking tools. Your browser may give you the ability to control cookies. How you do so depends on the type of cookie. Certain browsers can be set to reject browser cookies. To find out more about how to enable, disable, or delete cookies from your web browser, please visit [here](http://www.allaboutcookies.org/). To control flash cookies, which we may use on certain websites from time to time, you can go to [here.](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html) Why? Because flash cookies cannot be controlled through your browser settings.   
+If you block essential cookies, certain features on our sites may not work. The non-necessary tracking tools we use are:
+
+  * **Bazaarvoice** :   
+Bazaarvoice helps us share your reviews on third party sites. Your reviews will be shared along with your online identity. The third-party sites include brand and retailer sites. 
+  * **Facebook Social Graph** :   
+We use this technology to measure the effectiveness of our marketing campaigns.
+  * **Google Analytics** :   
+We use Google Analytics to collect information about how visitors use our website. For example, we collect details of the site where the visitor has come from and the total number of times a visitor has been to our website.
+  * **Google Tag Manager** :   
+We use Google Tag Manager to track user behavior, traffic analysis and marketing optimization. 
 
 
 
-**Use and disclosure of personal information by Buchanan Group**  
-If Buchanan Group uses or discloses your personal information for a purpose ( **secondary purpose** ) other the main reason for which it was originally collected ( **primary purpose** ), to the extent required by the law, we will ensure that:
+**Options you select are browser and device specific.**
 
-  * The secondary purpose is related to the primary purpose of collection (and directly related in the case of sensitive information), and you would reasonably expect that Buchanan Group would use or disclose your information in that way; 
-  * You have consented to the use or disclosure of your personal information for the secondary purpose; 
-  * The use or disclosure is required or authorized by or under law; or
-  * The use or disclosure is otherwise permitted by the Law (for example, as a necessary part of an investigation of suspected unlawful activity).
+###  **These websites are not intended for children.**
 
+Our websites are meant for adults. We do not knowingly collect personally identifiable information from minors (children under 18). If you are a parent or legal guardian and think your child has given us information, you can contact us via email or at the address listed at the end of this Privacy Policy. Please mark your inquiries "Child PII Request." Parents, you can learn more about how to protect children's privacy online [here](https://www.consumer.ftc.gov/articles/0031-protecting-your-childs-privacy-online)
 
+###  **We use standard security measures.**
 
-**How might we contact you?**  
-We may contact you in a variety of ways, including by post, email, SMS, telephone call or facsimile. 
+We use security measures as required by relevant laws. This may include encryption and security controls. The Internet is not 100% secure. We cannot promise that your use of our sites will be completely safe. We encourage you to use caution when using the Internet and safeguard your passwords.  
+We keep personal information as long as it is necessary or relevant for the practices described in this Privacy Policy. We destroy information after that time. We also keep information as otherwise required by law. For example, if you are in Brazil and you ask us to cancel your account, we will keep certain information for six months as required by local law. We will then delete it.
 
-_Email Marketing_  
-We will not send you any commercial electronic messages such as SMSs or emails unless this is permitted by law (for example, if we have your express consent to do so).  Any commercial electronic message that we send will identify Buchanan Group as the sender and will include our contact details.  The message will also provide an unsubscribe facility.  If you do not wish to receive commercial electronic messages from us, please let us know (our contact details are provided at the end of this policy). 
+###  **We may store information both inside and outside of the United States.**
 
-_Do Not Call Register_  
-We will not call you on a number listed on the Do Not Call Register unless this is permitted under the Do Not Call Register Act and related instruments (for example, if we have your express consent to do so).  If you do not wish us to call you on a particular number, please let us know (our contact details are provided at the end of this policy).
+Information we collect may be stored in the United States, Canada, Australia and the United Kingdom. We may also store information in other countries. If you live outside of the United States, you understand and agree that we may transfer your information to the United States. This platform is subject to U.S. laws, which may not afford the same level of protection as those in your country.
 
-**Data quality and security**  
-To the extent required by the Law, Buchanan Group will take reasonable steps to:
+###  **We may link to third party sites or services we don't control.**
 
-  * Make sure that the personal information that we collect, use and disclose is accurate, complete and up to date;
-  * Protect the personal information that we hold from misuse and loss and from unauthorized access, modification or disclosure; and
-  * Destroy or permanently de-identify personal information that is no longer needed for any purpose that is permitted by the Law.
+If you click on a link to a third-party site, you will be taken to a website we do not control. This Policy does not apply to the privacy practices of that website. Please read the privacy policy of other websites carefully. We are not responsible for the practices of these third-party sites. Our site may also serve third party content that contains their own cookies or tracking technologies.
 
+ **Feel free to contact us if you have more questions.**  
+If you have any questions about this policy or want to access, delete, correct, or update your information, please email us at: [privacy@hometesterclub.com ](mailto:privacy@hometesterclub.com). Where required by law you can also object to or restrict how we process your information. We can also provide you with information about third parties with whom we share information. You can also contact us at:
 
-
-**Anonymity**  
-Buchanan Group will generally provide individuals with the option of not identifying themselves when entering into transactions when it is lawful and practicable to do so. 
-
-**Use of government identifiers**  
-Buchanan Group will not use government identifiers ( **Identifiers** ) (such as Medicare numbers) as its own identifier of individuals.  We will only use or disclose Identifiers in the circumstances permitted by the Law.
-
-**Transfer of personal information overseas**  
-If Buchanan Group transfers your personal information outside Australia, we will comply with requirements of the Law that relate to transborder data flows.
-
-**Access and correction of your personal information**  
-Please contact Buchanan Group if you would like to access or correct the personal information that we hold about you.  Buchanan Group will generally provide you with access to your personal information (although a fee may be imposed), and will take reasonable steps to amend any personal information that is incorrect.  In some circumstances, Buchanan Group may not permit access to your personal information, or may refuse to correct your personal information, in which case we will provide you with reasons for this decision. 
-
-**Further information**  
-Please contact us if you have any queries about the personal information that Buchanan Group holds about you or the way we handle that personal information.  Our contact details for privacy queries are set out below.
-
-Privacy Officer  
 Buchanan Advertising (Australia) Pty Ltd  
-12 / 380 St Kilda Rd  
-Melbourne 3000  
+Attn: Privacy Officer  
+Level 12, 380 St Kilda Road  
+Melbourne VIC 3004   
 Australia  
-Email: [privacy@hometesterclub.com](mailto:privacy@hometesterclub.com)  
-Phone: +61 3 9644 0000  
-Fax: + 61 3 9644 0011
+Phone: +61 3 9644 0000
 
-**Complaints**  
-Please contact the Buchanan Group Privacy Officer using the above details if you have any concerns or complaints about the manner in which your personal information has been collected or handled by Buchanan Group.
+###  **We may update this Privacy Policy.**
 
-**Chidlren**  
-Buchanan Group does not knowingly collect or retain information in connection with the Site from children under the age of 13. Buchanan Group does not ask children under age 13 for personal information. 
-
-**Updated January 2012.**
-
-* * *
-
-**buchanangroup.com Website Privacy Statement**
-
-Buchanan Advertising (Australia) Pty. Ltd. ACN 155 718 942 (“BG”) is committed to protecting your privacy. This Privacy Statement explains BG's policies and practices in relation to the handling of personal information that may be collected through this website (buchanangroup.com). 
-
-This Privacy Statement does not apply to personal information collected by BG elsewhere.  For information about how BG manages personal information generally, see the **** <Buchanan Group Privacy Policy> above.
-
-The terms of this Privacy Statement are subject to any specific provisions dealing with privacy that may be contained in the terms and conditions for particular offers, products and services made available through this website.  ****
-
-**1\. What personal information does BG collect?**   
-The following types of Information about a user are among those that may be collected by BG in connection with the Site:
-
-  * Name
-  * Postal address
-  * E-mail address
-  * Telephone number
-  * Date of birth
-  * IP Address
-  * Referring site
-  * Other technical information collected by the Site’s servers
-
-
-
-The type of personal information we collect about you will depend on how you use this website.  For example, personal information is collected when you:
-
-  * register on this website to become a member of the BG community ( **Member** );
-  * post a comment in one of our forums; 
-  * submit an article, video or product review to be uploaded to this website;
-  * send a message to another Member using the direct messaging function;
-  * respond to one of our product surveys; 
-  * enter a competition or participate in a promotion; or
-  * register or subscribe for, or contribute content to, any other services available through this website from time to time.
-
-
-
-We may also keep records of any other interactions you have with us (for example, emails or other correspondence you send via this website), together with any other information that you choose to provide to us. 
-
-In some circumstances, we may collect sensitive information about you (for example, if you post a comment in a forum about your health).  We will not do this unless you have consented to the collection, or if we are otherwise required or authorized to do so by or under law. Sensitive information includes (for example) health information and information about a person's racial or ethnic origin, political opinions, religious beliefs, professional or trade association membership, sexual preferences and criminal record.
-
-If you do not provide us with the personal information that we request, we may not be able to provide you with some of our products and services (except in cases where we have indicated that the provision of that information is optional). For example, if you do not register as a Member, you will not be able to access pages of this website or other services that are reserved for Members only.
-
-**Providing us with personal information about others**   
-If, at any time, you provide personal information about another person, you warrant that you have made that person aware of this Privacy Statement and the Terms of Use and that you have obtained that person’s consent to provide their personal information to us for the purpose specified. ****
-
-**2.** **How do we collect personal information?**  
-We will generally collect personal information directly from you, through this website.  We may also collect personal information:
-
-  * from you over the telephone, or through written correspondence (such as letters and emails);
-  * through the maintenance and analysis of Web server logs; and
-  * about you from other Members (in which case, in accordance with the <Terms of Use> and this Privacy Statement, the other Member must first obtain your consent).
-
-
-
-**Collection of information other than personal information**   
-Some of the information that is collected about your visit to this website is not personal information, because it does not reveal your identity.  For example, we may record your server address, the date and time of your visit, the pages you viewed, any documents you downloaded and the type of browser and operating system you used.
-
-If collected, this information will be used and disclosed by BG in anonymous, aggregated form only, for purposes including statistical analysis and web site development. You are not individually identified, however BG reserves its right to use or disclose this information to try to locate an individual where we reasonably believe that the individual may have engaged in any unlawful or inappropriate activity in connection with our website, or where we are otherwise required or authorized by law to do so.
-
-**Cookies**   
-A cookie is a small string of information that a website transfers to your browser for identification purposes. BG may use cookies to gather information about your visits to our website and enhance your experience.  The cookies used by BG do not identify individual users, although they do identify the user's internet browser.  We may use cookies to maintain session information about you when you log into our website and that information helps us to understand your preferences and improve your website experience. 
-
-We may also allow third parties that publish advertisements on our website to place and access cookies on your computer and use the information from those cookies to tailor the advertisements that you see while browsing online with your interests. 
-
-Most internet browsers are set to accept cookies. If you prefer not to receive them, you can adjust your internet browser to reject cookies, or to notify you when they are being used.  There are also software products available that can manage cookies for you.  If you disable cookies, we may be not be able to optimize your visit to this website and certain features may not be available.
-
-The cookies may be used to track site trends and enhance the user experience, and may be shared with third parties. BG may share information to respond to subpoenas, court order, or legal process, or to establish or exercise it legal rights or defend against legal claims. We will transfer Information about you if BG is acquired by or merged with another company. 
-
-To the extent third parties may place advertising or other content on the Site, such third parties may utilize cookies or other technological means within the advertising to collect and utilize non-personally identifiable information. BG is not responsible for information collected by third parties in this manner, nor for the collection or use of Information by other sites to which the Site is linked.
-
-3\. **Why does BG collect personal information?**  
-BG uses the personal information it collects through this website for the purposes for which it was provided and for any other purposes explained at the time of collection or in any additional terms and conditions applicable to the particular feature of the website, including:
-
-    * to operate this website, including through the publication of forums, articles, videos and reviews;
-    * to conduct competitions and promotions;
-    * to provide customer support for Members;
-    * to respond to questions and requests;
-    * to tailor the advertising that is presented to you on this website and the product and service information that we may send you (see below), for example, by providing you with product information relevant to the preferences or opinions that you 
-    * have expressed in your responses to our surveys;
-    * to conduct research and development; 
-    * to investigate any complaints made by or about you, or if we have reason to suspect that you are in breach of our <Terms of Use> or have been engaged in any unlawful activity; and
-    * for other purposes required or authorized by or under law, including purposes for which you have provided your express or implied consent. 
-
-
-
-**Public Material posted by Members**   
-Some of the services offered through this website allow Members to submit, upload, post or transmit content or material such as text, photos, images, audio and video (including links to content or material) that may be accessed and viewed by the general public on the internet (Public Material). Members acknowledge that anything they post onto this website may appear elsewhere on the internet and may remain on the internet after their membership has ended, and accept that BG cannot guarantee that the Public Material will not appear elsewhere, be copied, downloaded or used otherwise. If Members have any concerns about their personal information being published in this way, they are advised to remove any personal information from the Public Material they post, or not to use these services.
-
-As indicated in the < Terms of Use >, we may use Public Material for any promotional purposes of BG and its clients. This may include using Public Material which may include personal information (for example, reproducing in promotional materials testimonials which include either your personal information or a user name which identifies you), unless you opt out of this in your member profile page.
-
-**Product and service offers**   
-If you are a Member, we may (unless you opt out of receiving any or all of these communications in your member profile page) use your personal information to:
-
-    * send you news, product information and promotional offers from BG and selected third party businesses whose products or services we think may be of interest to you ( **Promotional Partners** );
-    * invite you to participate in product surveys and promotions; and
-    * send you product samples and ask for your feedback.
-
-
-
-We may send this information to you in a number of ways, including by post, email, SMS and MMS.  You can let us know at any time if you no longer wish to receive these communications by updating the relevant details in your member profile page. When sending product and service offers to you, we will also let you know how you may opt out of receiving such communications in future.  Your consent to receiving these communications will remain current until you advise us otherwise.
-
-We will not send you any commercial electronic messages such as SMSes or emails unless this is permitted by the Spam Act.  Similarly, we will not call you on a number listed on the Do Not Call Register unless this is permitted under the Do Not Call Register Act and related instruments. 
-
-At any time, a user may opt out from receiving future offers from BG by following the instructions contained within each marketing communication or by sending an e-mail message to members@hometesterclub.com. Such opting out will not apply to any communications from third parties to whom BG may have provided Information regarding the user. Third parties’ use of the information is subject to such parties’ own privacy policies, for which BG shall not be responsible.
-
-4\. **When do we disclose personal information to third parties?**   
-We may disclose your personal information:
-
-    * for the purpose for which that personal information was collected; and 
-    * for the purposes set out under heading 3 above.
-
-
-
-Personal information may be disclosed (and may be transferred overseas) for these purposes to:
-
-    * the general public (both in Australia and overseas), by publication of this website on the internet;
-    * companies and organizations within BG's group of companies;
-    * to our Promotional Partners (for example, to enable them to send product samples or material requested by Members on this website directly to those Members); 
-    * BG's contracted service providers, which may include: 
-      * website development, information technology and security providers;
-      * database management and data processing analysts;
-      * creative, promotional and market research agencies;
-      * mailing houses, freight and courier service providers; and
-      * external business advisors (such as accountants, auditors, recruiters and lawyers).
-
-
-
-The third parties identified above may provide us with personal information they have collected from you, for the purposes set out in this Privacy Statement. Any personal information collected from third parties will be used and disclosed in accordance with this Privacy Statement.
-
-**_Disclosure of information other than personal information_**   
-Some of the information that we disclose to third parties is not personal information, although it may have been compiled (in part) from information that you have provided to us.  For example:
-
-    * if you have participated in one of our product surveys, we may disclose the results of that survey to our Promotional Partners, but only in aggregated, anonymised form, which does not reveal the identity of particular respondents; 
-
-
-
-**5\. Links to third party websites**   
-Links to other websites are provided for your convenience. We are not responsible for the privacy practices of those sites, and you should review their privacy policies before supplying any personal information to them. ****
-
-**6.** **Quality and security of personal information**  
-We rely on the personal information we hold in conducting our business. We take reasonable steps to ensure that the personal information we collect, use and disclose is accurate, complete and up to date.  You can help us, by letting us know about any changes to your personal information, such as email address or phone number.  Our contact details are provided under heading 8 below.
-
-**Website security**   
-With the exception of personal information contained in Public Material, BG strives to protect the personal information and privacy of website users.  However, we cannot guarantee the security of any information that you disclose online and you disclose that information at your own risk. If you are concerned about sending your information over the internet, you can contact BG by telephone or post (our details are provided under heading 8 below). 
-
-You can also help to protect the privacy of your personal information by keeping passwords secret and by ensuring that you log out of the site when you have finished using it.  In addition, if you suspect any security breach, please let us know immediately. If you register to become a member of the Site, you are responsible for maintaining the confidentiality of your member identification and password information, and for restricting access to your computer. You agree to accept responsibility for all activities that occur under your member identification and password ****
-
-**8\. Access and correction**  
-Please contact us if you would like to access or correct the personal information that we hold about you. We will generally provide access or make corrections, subject to some exceptions permitted by law. ****
-
-9\. **Questions and Suggestions**  
-If you have any questions about your privacy, or if you would like to access or correct the personal information that we hold about you, please call us on + 61 3 9644 0000.  Alternatively, you can email us at [privacy@hometesterclub.com](mailto:privacy@hometesterclub.com) or contact us by post at the following address: 
-
-Privacy Officer  
-Buchanan Advertising (Australia) Pty Ltd  
-12 / 380 St Kilda Rd   
-Melbourne 3000  
-Australia 
-
-**10\. Your California Privacy Rights**  
-Beginning on January 1, 2005, California Civil Code Section 1798.83 permits customers of Buchanan Group who are California residents to request certain information regarding Buchanan Group’s disclosure of personal information to third parties for such third parties’ direct marketing purposes. To make such a request, please write to [privacy@hometesterclub.com](mailto:privacy@hometesterclub.com).
-
-11\. **Changes to this Privacy Statement**  
-Buchanan Group reserves the right to revise and update this Privacy Policy at any time. Any such revisions will be effective on the date of posting to the Site, and will apply to all information collected by Buchanan Group both prior to and following the effective date. Your use of the Site following any such revisions will be deemed your acceptance of such revisions. Users should periodically visit this page to review the current policies with regard to Information
-
-Updated September 2013.
+From time to time we may change our privacy policies. We will notify you of any material changes to our Privacy Policy as required by law. We will also post an updated copy on our platform. Please check our platform periodically for updates.
