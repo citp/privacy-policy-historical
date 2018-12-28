@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneysmartguides.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627223209id_/https%3A//www.moneysmartguides.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneysmartguides.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228051403id_/https%3A//www.moneysmartguides.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Disclaimer And Privacy Policy - MoneySmartGuides.com
 
@@ -64,4 +64,4 @@ Through the use of this website, you are hereby accepting the terms and conditio
 
 If you have any questions or concerns regarding the Privacy Policy Agreement related to our website, please feel free to contact us at the following email address.
 
-**Email:** [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#395a56574d585a4d795456575c404a54584b4d5e4c505d5c4a175a5654)
+**Email:** [contact@moneysmartguides.com](mailto:contact@moneysmartguides.com)
