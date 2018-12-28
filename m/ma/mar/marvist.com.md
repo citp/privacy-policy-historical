@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marvist.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626161330id_/http%3A//www.marvist.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marvist.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228093014id_/http%3A//www.marvist.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Marvist Internet Marketing Services for SMBs - Privacy Policy
 
