@@ -1,12 +1,11 @@
-<!--The following is the downloaded HTML source of the dmagazine.com privacy policy that was archived on 2018-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180627225130id_/https%3A//www.dmagazine.com/site/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dmagazine.com privacy policy that was archived on 2018-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181228053132id_/https%3A//www.dmagazine.com/site/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8">
-<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta http-equiv="x-ua-compatible" content="ie=edge"><script src="https://js-agent.newrelic.com/nr-1099.min.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1099.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="Welcome to the&nbsp;D Magazine Partners, L.P.&nbsp;Web site (the “Site”).&nbsp;D Magazine&nbsp;is committed to protecting your privacy and trust and will only use your data as set forth in this Privacy Policy and any amendments hereto. This Privacy Policy discloses the privacy practices for&nbsp;D Magazine&nbsp;and explains how we collect information and how we use the information that we collect. &nbsp; Please read this information carefully before accessing the Site. The privacy statement may be amended at any time, with or without notice to users. You should periodically visit this page to review the then current Privacy Policy. Your use of the Site constitutes your consent and agreement to abide by this Privacy Policy and your consent to the use of the information that we collect, including personally identifiable information, as set forth in this Privacy Policy. Please regularly consult this Privacy Policy in order to be aware of updated practices. Should you not wish&nbsp;D Magazine&nbsp;to collect and use your personal information in">
-<script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script>var DMAG = DMAG || {};</script>
+<script>var DMAG = DMAG || {};</script>
 <title>Privacy Policy - D Magazine</title>
 
 <link rel="canonical" href="https://www.dmagazine.com/site/privacy-policy/">
@@ -18,7 +17,10 @@
 <meta property="og:site_name" content="D Magazine">
 <meta property="article:publisher" content="https://www.facebook.com/DMagazineOnline/">
 <meta property="article:section" content="Uncategorized">
-<meta property="og:image" content="https://www.dmagazine.com/wp-content/uploads/2015/08/d-logo-square-facebook-default.jpg">
+<meta property="og:image" content="https://assets.dmagstatic.com/wp-content/uploads/2015/08/d-logo-square-facebook-default.jpg">
+<meta property="og:image:secure_url" content="https://assets.dmagstatic.com/wp-content/uploads/2015/08/d-logo-square-facebook-default.jpg">
+<meta property="og:image:width" content="345">
+<meta property="og:image:height" content="345">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:description" content="Welcome to the&nbsp;D Magazine Partners, L.P.&nbsp;Web site (the “Site”).&nbsp;D Magazine&nbsp;is committed to protecting your privacy and trust and will only use your data as set forth in this Privacy Policy and any amendments hereto. This Privacy Policy discloses the privacy practices for&nbsp;D Magazine&nbsp;and explains how we collect information and how we use the information that […]">
 <meta name="twitter:title" content="Privacy Policy - D Magazine">
@@ -26,13 +28,14 @@
 <meta name="twitter:image" content="https://www.dmagazine.com/wp-content/uploads/2015/08/d-logo-square-facebook-default.jpg">
 <meta name="twitter:creator" content="@DMagazine">
 
+<link rel="dns-prefetch" href="//www.dmagazine.com">
 <link rel="dns-prefetch" href="//cloud.typography.com">
 <link rel="dns-prefetch" href="//s.w.org">
 <link rel="alternate" type="application/rss+xml" title="D Magazine » Privacy Policy Comments Feed" href="https://www.dmagazine.com/site/privacy-policy/feed/">
 <script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.dmagazine.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.6"}};
-			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="https://www.dmagazine.com/wp-includes/js/wp-emoji-release.min.js?ver=4.9.6" type="text/javascript" defer=""></script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.dmagazine.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.8"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://www.dmagazine.com/wp-includes/js/wp-emoji-release.min.js?ver=4.9.8" type="text/javascript" defer=""></script>
 <style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -47,27 +50,69 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="tablepress-default-css" href="https://www.dmagazine.com/wp-content/plugins/tablepress/css/default.min.css?ver=1.7" type="text/css" media="all">
-<link rel="stylesheet" id="sage/css-css" href="https://www.dmagazine.com/wp-content/themes/dmagazine/dist/styles/main-3b8e13e33a.css" type="text/css" media="all">
+<link rel="stylesheet" id="wp-parsely-style-css" href="https://www.dmagazine.com/wp-content/plugins/wp-parsely/wp-parsely.css?ver=1545964506" type="text/css" media="all">
+<link rel="stylesheet" id="sage/css-css" href="https://www.dmagazine.com/wp-content/themes/dmagazine/dist/styles/main_b96478fc.css" type="text/css" media="all">
 <link rel="stylesheet" id="fonts-css" href="https://cloud.typography.com/6172774/6791152/css/fonts.css" type="text/css" media="all">
 <script type="text/javascript">
 /* <![CDATA[ */
-var wpp_params = {"sampling_active":"0","sampling_rate":"100","ajax_url":"https:\/\/www.dmagazine.com\/wp-admin\/admin-ajax.php","action":"update_views_ajax","ID":"90322","token":"1a3e3b129d"};
+var wpp_params = {"sampling_active":"0","sampling_rate":"100","ajax_url":"https:\/\/www.dmagazine.com\/wp-json\/wordpress-popular-posts\/v1\/popular-posts\/","ID":"90322","token":"606c5b9c6e","debug":""};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://www.dmagazine.com/wp-content/plugins/wordpress-popular-posts/public/js/tracking.js?ver=4.0.0"></script>
+<script type="text/javascript" src="https://www.dmagazine.com/wp-content/plugins/wordpress-popular-posts/public/js/wpp-4.2.0.min.js?ver=4.2.0"></script>
 <script type="text/javascript" src="https://www.dmagazine.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
 <script type="text/javascript" src="https://www.dmagazine.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
 <link rel="https://api.w.org/" href="https://www.dmagazine.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.dmagazine.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.dmagazine.com/wp-includes/wlwmanifest.xml">
+<meta name="generator" content="WordPress 4.9.8">
 <link rel="shortlink" href="https://www.dmagazine.com/?p=90322">
 <link rel="alternate" type="application/json+oembed" href="https://www.dmagazine.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.dmagazine.com%2Fsite%2Fprivacy-policy%2F">
 <link rel="alternate" type="text/xml+oembed" href="https://www.dmagazine.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.dmagazine.com%2Fsite%2Fprivacy-policy%2F&amp;format=xml">
-<link rel="icon" href="https://www.dmagazine.com/wp-content/uploads/2015/09/d-logo-square-facebook-default-300x300.jpg" sizes="32x32">
-<link rel="icon" href="https://www.dmagazine.com/wp-content/uploads/2015/09/d-logo-square-facebook-default-300x300.jpg" sizes="192x192">
-<link rel="apple-touch-icon-precomposed" href="https://www.dmagazine.com/wp-content/uploads/2015/09/d-logo-square-facebook-default-300x300.jpg">
-<meta name="msapplication-TileImage" content="https://www.dmagazine.com/wp-content/uploads/2015/09/d-logo-square-facebook-default-300x300.jpg">
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		if (window.wfLogHumanRan) { return; }
+		window.wfLogHumanRan = true;
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//www.dmagazine.com/?wordfence_lh=1&hid=F263E442E38A6971C3190B731FA5A1E3');
+</script>
+
+<meta name="wp-parsely_version" id="wp-parsely_version" content="1.13.0">
+<script type="application/ld+json">
+	{"@context":"http:\/\/schema.org","@type":"WebPage","headline":"Privacy Policy","url":"https:\/\/www.dmagazine.com\/site\/privacy-policy\/"}
+	</script>
+
+<link rel="icon" href="https://assets.dmagstatic.com/wp-content/uploads/2015/09/d-logo-square-facebook-default-300x300.jpg" sizes="32x32">
+<link rel="icon" href="https://assets.dmagstatic.com/wp-content/uploads/2015/09/d-logo-square-facebook-default-300x300.jpg" sizes="192x192">
+<link rel="apple-touch-icon-precomposed" href="https://assets.dmagstatic.com/wp-content/uploads/2015/09/d-logo-square-facebook-default-300x300.jpg">
+<meta name="msapplication-TileImage" content="https://assets.dmagstatic.com/wp-content/uploads/2015/09/d-logo-square-facebook-default-300x300.jpg">
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -99,184 +144,107 @@ src="https://www.facebook.com/tr?id=359885427553227&ev=PageView&noscript=1"
 <script> var $ = jQuery; </script>
 </head>
 <body data-rsssl="1" class=" template-blank-page">
-<div class="nav-drawer is-hidden--medium_small">
-<div class="container nav-drawer__items">
-<div class="nav-drawer__item">
-<img class="image lazyload" data-srcset="https://www.dmagazine.com/wp-content/uploads/2018/06/Dallas-new-urbanism-2018-330x495.jpg 330w,
-		https://www.dmagazine.com/wp-content/uploads/2018/06/Dallas-new-urbanism-2018-677x1016.jpg 677w" sizes="(max-width: 720px) ,
-			330px" data-src="https://www.dmagazine.com/wp-content/uploads/2018/06/Dallas-new-urbanism-2018-330x495.jpg">
-<div class="nav-drawer__item__overlay">
-<a class="button button--small button--blue button--full" href="https://www.dmagazine.com/publications/d-magazine/2018/dallas-and-the-new-urbanism/">
-View Issue
-</a>
-<a class="button button--blue button--small button--full" href="/site/subscribe">
-Subscribe
-</a>
-</div>
-<h4 class="nav-drawer__item__title"></h4>
-</div>
-<div class="nav-drawer__item">
-<img class="image lazyload" data-srcset="https://www.dmagazine.com/wp-content/uploads/2018/05/DCEO_June_Cover-330x495.jpg 330w,
-		https://www.dmagazine.com/wp-content/uploads/2018/05/DCEO_June_Cover-677x1016.jpg 677w" sizes="(max-width: 720px) ,
-			330px" data-src="https://www.dmagazine.com/wp-content/uploads/2018/05/DCEO_June_Cover-330x495.jpg">
-<div class="nav-drawer__item__overlay">
-<a class="button button--small button--blue button--full" href="https://www.dmagazine.com/publications/d-ceo/2018/june/">
-View Issue
-</a>
-<a class="button button--blue button--small button--full" href="/site/subscribe">
-Subscribe
-</a>
-</div>
-<h4 class="nav-drawer__item__title"></h4>
-</div>
-<div class="nav-drawer__item">
-<img class="image lazyload" data-srcset="https://www.dmagazine.com/wp-content/uploads/2018/05/dhome-may-june-2018-330x495.jpg 330w,
-		https://www.dmagazine.com/wp-content/uploads/2018/05/dhome-may-june-2018-677x1016.jpg 677w" sizes="(max-width: 720px) ,
-			330px" data-src="https://www.dmagazine.com/wp-content/uploads/2018/05/dhome-may-june-2018-330x495.jpg">
-<div class="nav-drawer__item__overlay">
-<a class="button button--small button--blue button--full" href="https://www.dmagazine.com/publications/d-home/2018/may-june/">
-View Issue
-</a>
-<a class="button button--blue button--small button--full" href="/site/subscribe">
- Subscribe
-</a>
-</div>
-<h4 class="nav-drawer__item__title"></h4>
-</div>
-</div>
-</div>
-<header class="nav">
-<div class="nav-inner">
-<div class="nav__main__search">
-<button type="button" class="search__icon js-searchButton">
-<svg class="icon icon--small icon--white" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve"><circle class="icon__main icon--stroke" fill="none" stroke="#000000" stroke-miterlimit="10" cx="22" cy="22" r="18"></circle><path class="icon__main icon--switch" d="M37,32l20.998,16.1C59.236,49.361,60,51.092,60,53c0,3.866-3.134,7-7,7c-1.959,0-3.73-0.805-5.002-2.103L32,37"></path></svg>
-</button>
-<form action="//www3.dmagazine.com/search" class="search__form js-searchForm">
-<input class="search__input js-searchInput" type="text" name="dq" placeholder="Search">
-</form>
-</div>
+<header class="nav js-nav nav--short">
+<div class="nav__inner">
+<div class="nav__branding">
 <a class="nav__logo" href="/">
-<img class="nav__logo__image" src="https://www.dmagazine.com/wp-content/themes/dmagazine/dist/images/dmag-logo_180x164.png">
+<img alt="D Magazine logo" class="nav__logo__image js-nav-image image" src="https://www.dmagazine.com/wp-content/themes/dmagazine/dist/images/dmag-logo_180x164.png">
 </a>
-<button class="nav__button is-hidden--large-only js-slide-trigger">
-<div class="js-slide-switch">
-<svg class="icon icon--white" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve"><g><rect class="icon__main icon--fill" x="9" y="29" width="46" height="7"></rect></g><g><rect class="icon__main icon--fill" x="9" y="13" width="46" height="7"></rect></g><g><rect class="icon__main icon--fill" x="9" y="44" width="46" height="7"></rect></g></svg>
-</div>
-<div class="is-hidden js-slide-switch">
-<svg class="icon icon--white" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve"><line class="icon__main icon--stroke" fill="none" stroke="#000000" stroke-miterlimit="10" x1="23" y1="23" x2="41" y2="41"></line><line class="icon__main icon--stroke" fill="none" stroke="#000000" stroke-miterlimit="10" x1="41" y1="23" x2="23" y2="41"></line></svg>
-</div>
-</button>
-<div class="nav__main-wrapper">
-<div class="nav__main-wrapper-inner">
-<nav class="nav__main nav__main--secondary">
-<div class="nav__main__items">
-<ul>
-<li class="nav__main__item">
-<a class="nav__main__link" href="https://directory.dmagazine.com/?ref=nav">
-Directories
-</a>
-</li>
-<li class="nav__main__item">
-<a class="nav__main__link" href="https://events.dmagazine.com/?ref=nav">
-Events
-</a>
-</li>
-<li class="nav__main__item">
-<a class="nav__main__link" href="https://www.dmagazine.com/category/podcast/?ref=nav">
-Podcasts
-</a>
-</li>
-<li class="nav__main__item nav__main__item--magazines">
-<a class="nav__main__link js-slide-trigger" href="#">
-Magazines
-<div class="nav__main__icon is-hidden--medium_small">
-<div class="js-slide-switch">
-<svg class="icon icon--blue icon--small" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve"><circle class="icon__main icon--switch" cx="32" cy="32" r="29"></circle><line class="icon__accent icon--stroke" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="20" y1="32" x2="44" y2="32"></line><line class="icon__accent icon--stroke" ill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="32" y1="20" x2="32" y2="44"></line></svg>
-</div>
-<div class="js-slide-switch is-hidden">
-<svg class="icon icon--blue icon--small" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve"><circle class="icon__main icon--switch" cx="32" cy="32" r="29"></circle><line class="icon__accent icon--stroke" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="20" y1="32" x2="44" y2="32"></line></svg>
-</div>
-</div>
-</a>
-</li>
-<li class="nav__main__item nav__main__item--subscribe">
-<a class="nav__main__link" href="/site/subscribe/">
-Subscribe
-</a>
-</li>
-<li class="nav__main__item nav__main__item--feedback">
-<a class="nav__main__link" href="https://dmagazine.wufoo.com/forms/dmagazinecom-feedback/" target="_blank">
-Leave Us Feedback
-</a>
-</li>
-</ul>
-</div>
-</nav>
-<nav class="nav__main nav__main--primary">
-<ul class="nav__main__items">
-<li class="nav__main__item">
-<a class="nav__main__link" href="https://www.dmagazine.com/section/frontburner/?ref=nav">
-News
-</a>
-</li>
-<li class="nav__main__item">
-<a class="nav__main__link" href="https://www.dmagazine.com/section/food-drink/?ref=nav">
-Food
-</a>
-</li>
-<li class="nav__main__item">
-<a class="nav__main__link" href="https://www.dmagazine.com/section/arts-entertainment/?ref=nav">
-Arts
-</a>
-</li>
-<li class="nav__main__item">
-<a class="nav__main__link" href="https://www.dmagazine.com/section/home-garden/?ref=nav">
-Home
-</a>
-</li>
-<li class="nav__main__item">
-<a class="nav__main__link" href="https://www.dmagazine.com/section/health-fitness/?ref=nav">
-Health
-</a>
-</li>
-<li class="nav__main__item">
-<a class="nav__main__link" href="https://www.dmagazine.com/section/philanthropy-nonprofits/?ref=nav">
-Charity
-</a>
-</li>
-<li class="nav__main__item">
-<a class="nav__main__link" href="https://www.dmagazine.com/section/business-economy/?ref=nav">
-Business
-</a>
-</li>
-<li class="nav__main__item">
-<a class="nav__main__link" href="http://www.dweddings.com/?ref=nav">
-Weddings
-</a>
-</li>
-<li class="nav__main__item">
-<a class="nav__main__link" href="http://neighborhoods.dmagazine.com/?ref=nav">
-Neighborhoods
-</a>
-</li>
-</ul>
-</nav>
-</div>
-</div>
-</div>
-</header>
-<div class="container nav__tagline-wrapper is-hidden--medium_small">
 <div class="nav__tagline">
 Let’s Make Dallas Even Better
 </div>
 </div>
+<nav class="nav__menu nav__menu--primary js-nav-menu-primary">
+<ul class="nav__menu__items">
+<li class="nav__menu__item">
+<a class="nav__menu__link" href="https://www.dmagazine.com/section/frontburner/">
+News
+</a>
+</li>
+<li class="nav__menu__item">
+<a class="nav__menu__link" href="https://www.dmagazine.com/section/food-drink/">
+Food
+</a>
+</li>
+<li class="nav__menu__item">
+<a class="nav__menu__link" href="https://www.dmagazine.com/section/arts-entertainment/">
+Arts
+</a>
+</li>
+<li class="nav__menu__item">
+<a class="nav__menu__link" href="https://www.dmagazine.com/section/home-garden/">
+Home
+</a>
+</li>
+<li class="nav__menu__item">
+<a class="nav__menu__link" href="https://www.dmagazine.com/section/style-beauty-wellness/">
+Living
+</a>
+</li>
+<li class="nav__menu__item">
+<a class="nav__menu__link" href="https://www.dmagazine.com/section/style-beauty-wellness/?category=health-fitness">
+Health
+</a>
+</li>
+<li class="nav__menu__item">
+<a class="nav__menu__link" href="https://www.dmagazine.com/section/business-economy/">
+Business
+</a>
+</li>
+<li class="nav__menu__item">
+<a class="nav__menu__link" href="http://www.dweddings.com/">
+Weddings
+</a>
+</li>
+<li class="nav__menu__item">
+<a class="nav__menu__link" href="https://www.dmagazine.com/publications/">
+Magazines
+</a>
+</li>
+</ul>
+</nav>
+<nav class="nav__menu nav__menu--secondary">
+<ul class="nav__menu__items">
+<li class="nav__menu__item">
+<a class="nav__menu__link" href="https://events.dmagazine.com/search">
+Events
+</a>
+</li>
+<li class="nav__menu__item nav__menu__item--dropdown">
+<a class="nav__menu__link " href="//directory.dmagazine.com">Directories</a>
+</li>
+<li class="nav__menu__item nav__menu__item--subscribe">
+<a class="nav__menu__link" href="/site/subscribe">
+Subscribe
+</a>
+</li>
+</ul>
+</nav>
+<button type="button" class="nav__button search__button js-searchButton">
+<svg class="icon icon--medium" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve"><circle class="icon__main icon--stroke" fill="none" stroke="#000000" stroke-miterlimit="10" cx="28.5" cy="25.5" r="17.5"></circle><path class="icon__main icon--stroke" fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" d="M39,40l14,16"></path></svg>
+</button>
+<form action="//search.dmagazine.com" class="search__form js-searchForm">
+<input class="search__input js-searchInput" type="text" name="q" placeholder="Search">
+<input class="search__submit" type="submit" value="Search">
+</form>
+<button class="nav__menu-button nav__button is-hidden--large-only js-slide-trigger">
+<div class="js-slide-switch">
+<svg class="icon icon--medium icon--white" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve"><line class="icon__main icon--stroke" stroke="#000000" stroke-miterlimit="10" x1="10" y1="18" x2="54" y2="18"></line><line class="icon__main icon--stroke" stroke="#000000" stroke-miterlimit="10" x1="10" y1="32" x2="54" y2="32"></line><line class="icon__main icon--stroke" stroke="#000000" stroke-miterlimit="10" x1="10" y1="46" x2="54" y2="46"></line></svg>
+</div>
+<div class="is-hidden js-slide-switch">
+<svg class="icon icon--medium icon--white" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve"><line fill="none" class="icon__main icon--stroke" stroke="#000000" stroke-miterlimit="10" x1="15" y1="14.5" x2="49" y2="48.5"></line><line fill="none" class="icon__main icon--stroke" stroke="#000000" stroke-miterlimit="10" x1="15" y1="48.501" x2="49" y2="14.501"></line></svg>
+</div>
+</button>
+</div>
+</header>
+<div class="nav__pushdown js-nav-pushdown"></div>
 <div class="site-wrapper">
 <div class="is-loading-overlay is-hidden">
-<img class=" is-loading-overlay__loader" src="https://www.dmagazine.com/wp-content/themes/dmagazine/dist/images//DMagazine_load.gif">
+<img class=" is-loading-overlay__loader" src="https://www.dmagazine.com/wp-content/themes/dmagazine/dist/images//DMagazine_load.gif" alt="loading">
 </div>
 <div class="container page-wrapper page__content">
-<h1>Privacy Policy</h1>
-<p></p><p>Welcome to the&nbsp;<i>D Magazine Partners, L.P.&nbsp;</i>Web site (the “Site”).&nbsp;<i>D Magazine&nbsp;</i>is committed to protecting your privacy and trust and will only use your data as set forth in this Privacy Policy and any amendments hereto. This Privacy Policy discloses the privacy practices for&nbsp;<i>D Magazine</i>&nbsp;and explains how we collect information and how we use the information that we collect.</p>
+<h1 class="page__title">Privacy Policy</h1>
+<div><p>Welcome to the&nbsp;<i>D Magazine Partners, L.P.&nbsp;</i>Web site (the “Site”).&nbsp;<i>D Magazine&nbsp;</i>is committed to protecting your privacy and trust and will only use your data as set forth in this Privacy Policy and any amendments hereto. This Privacy Policy discloses the privacy practices for&nbsp;<i>D Magazine</i>&nbsp;and explains how we collect information and how we use the information that we collect.</p>
 <p>&nbsp;</p>
 <p>Please read this information carefully before accessing the Site. The privacy statement may be amended at any time, with or without notice to users. You should periodically visit this page to review the then current Privacy Policy. Your use of the Site constitutes your consent and agreement to abide by this Privacy Policy and your consent to the use of the information that we collect, including personally identifiable information, as set forth in this Privacy Policy. Please regularly consult this Privacy Policy in order to be aware of updated practices.</p>
 <p>Should you not wish&nbsp;<i>D Magazine</i>&nbsp;to collect and use your personal information in the manner set forth in this Privacy Policy, please do not provide the information to&nbsp;<i>D Magazine</i>.<br>
@@ -332,13 +300,13 @@ Hyperlinks</b></p>
 D Magazine</i>&nbsp;does not control or endorse Third Party Sites.<br>
 Third Party Advertisements</p>
 <p>Third-party advertisements that appear on&nbsp;<i>D Magazine</i>&nbsp;are sometimes delivered (or “served”) directly to users by third party advertisers. The advertisers may automatically receive your IP address when this happens. These third party advertisers may also download cookies to your computer, or use other technologies to measure the effectiveness of their ads and to personalize advertising content. Cookies will allow the advertiser to recognize your computer each time they send you an advertisement. In this way, they may compile information about where individuals using your computer or browser saw their advertisements and determine which advertisements are clicked.&nbsp;<i>D Magazine</i>&nbsp;does not have access to or control of the cookies that may be placed by the third party advertisers. Third party advertisers have no access to your contact information stored on the Site unless you choose to share it with them.</p>
-<p>This privacy policy does not cover the use of cookies or other tracking technologies by any of its advertisers. Some third-party ads on our sites will enable geographic, behavioral, and contextual targeting. To opt out of such DoubleClick targeting, click&nbsp;<a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank"><b>this link</b></a>&nbsp;to visit the Network Advertising Initiative opt-out page.</p>
+<p>This privacy policy does not cover the use of cookies or other tracking technologies by any of its advertisers. Some third-party ads on our sites will enable geographic, behavioral, and contextual targeting. To opt out of such DoubleClick targeting, click&nbsp;<a href="https://www.networkadvertising.org/managing/opt_out.asp" target="_blank"><b>this link</b></a>&nbsp;to visit the Network Advertising Initiative opt-out page.</p>
 <p>Again, if you would like to avoid cookies, your web browser may have an option that enables you to disable or not accept cookies. It should be noted, however, that should you disable or not accept cookies, portions of the Site may not properly function.</p>
 <p><b><br>
 Children’s Online Privacy</b></p>
 <p>Consistent with the Children’s Online Privacy Protection Act (“COPPA”), this Site is not intended for use by anyone under the age of 13.&nbsp;<i>D Magazine</i>&nbsp;does not knowingly collect personal information from children through this Site, or any of its Web sites. Minors between the ages of 13 and 17 must obtain the permission of their parents or legal guardians before making purchases of any type on this Site.</p>
-<p>If you are a parent with concerns about children’s privacy issues in conjunction with the use of this Site, or any other privacy issue, please contact us at <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="187e7d7d7c7a797b73587c75797f796271767d367b777536">[email&nbsp;protected]</a></p>
-<p></p>
+<p>If you are a parent with concerns about children’s privacy issues in conjunction with the use of this Site, or any other privacy issue, please contact us at feedback@dmagazine.com.</p>
+</div>
 </div>
 </div>
 <footer class="footer">
@@ -355,9 +323,12 @@ D Magazine Partners
 </div>
 <div class="footer__item">
 <span class="footer__item__sub">Tel: 214.939.3636</span>
- <span class="footer__item__sub">Fax: 214.748.4579</span>
+<span class="footer__item__sub">Fax: 214.748.4579</span>
 </div>
-<a class="footer__item" href="/cdn-cgi/l/email-protection#ed9f888e889d99848283849e99ad89808c8a8c97848388c38e8280">CONTACT US</a>
+<div class="footer__items">
+<a class="footer__item" href="/site/feedback/">CONTACT US</a>
+<a class="footer__item" href="/site/newsletters">NEWSLETTERS</a>
+</div>
 </div>
 <div class="footer__block">
 <h3 class="footer__header">Sections</h3>
@@ -388,13 +359,8 @@ Home &amp; Design
 </a>
 </li>
 <li class="footer__item">
-<a href="https://www.dmagazine.com/category/fashion/?ref=footer">
-Shopping &amp; Fashion
-</a>
-</li>
-<li class="footer__item">
-<a href="https://www.dmagazine.com/section/health-fitness/?ref=footer">
-Health &amp; Fitness
+<a href="https://www.dmagazine.com/section/style-beauty-wellness/?ref=footer">
+Living
 </a>
 </li>
 <li class="footer__item">
@@ -442,6 +408,11 @@ Renew D Magazine
 Subscriber Services
 </a>
 </li>
+<li class="footer__item">
+<a href="https://www.dmagazine.com/publications/?ref=footer">
+Browse the Archives
+</a>
+</li>
 </ul>
 </div>
 <div class="footer__block">
@@ -463,7 +434,7 @@ Job Openings
 </a>
 </li>
 <li class="footer__item">
-<a href="http://advertise.dmagazine.com/about-us/internship-program/?ref=footer">
+<a href="http://about.dmagazine.com/about-us/internship-program/?ref=footer">
 Internships
 </a>
 </li>
@@ -481,7 +452,7 @@ Customer Service
 </div>
 <div class="footer__block">
 <h3 class="footer__header">Advertise</h3>
- <ul>
+<ul>
 <li class="footer__item">
 <a href="http://about.dmagazine.com/media-kits/?ref=footer">
 Media Kits
@@ -498,8 +469,13 @@ Case Studies
 </a>
 </li>
 <li class="footer__item">
-<a href="http://advertise.dmagazine.com/about-us/contact/?ref=footer">
-Contact Us
+<a href="http://about.dmagazine.com/about-us/contact/?ref=footer">
+Contact Sales
+</a>
+</li>
+<li class="footer__item">
+<a href="https://www.dmagazine.com/site/feedback/?ref=footer">
+Leave Us Feedback
 </a>
 </li>
 </ul>
@@ -555,23 +531,36 @@ Copyright © 2018, D Magazine Partners, Inc. All Rights Reserved.
 <a href="//www.dmagazine.com/site/privacy-policy">Privacy Policy</a> </div>
 </div>
 </footer>
-<script data-cfasync="false" src="/cdn-cgi/scripts/f2bf09f8/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+
+<div id="parsely-root" style="display: none">
+<div id="parsely-cfg" data-parsely-site="dmagazine.com"></div>
+<script id="parsely-script" async="" data-cfasync="false" src="https://d1z2jf7jlzjs58.cloudfront.net/p.js"></script></div>
+<script data-cfasync="false">
+	(function (s, p, d) {
+		var h = d.location.protocol, i = p + "-" + s,
+			e = d.getElementById(i), r = d.getElementById(p + "-root"),
+			u = h === "https:" ? "d1z2jf7jlzjs58.cloudfront.net"
+				: "static." + p + ".com";
+		if (e) return;
+		e = d.createElement(s);
+		e.id = i;
+		e.async = true;
+		e.setAttribute('data-cfasync', 'false');
+		e.src = h + "//" + u + "/p.js";
+		r.appendChild(e);
+	})("script", "parsely", document);
+</script>
+
+<script type="text/javascript" src="https://www.dmagazine.com/wp-content/plugins/dmagazine/assets/js/jquery-ui.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="https://www.dmagazine.com/wp-content/plugins/dmagazine/assets/js/jquery.beforeafter-1.4.min.js?ver=1.4"></script>
+<script type="text/javascript" src="https://www.dmagazine.com/wp-content/themes/dmagazine/dist/scripts/main_b96478fc.js"></script>
+<script type="text/javascript" src="https://www.dmagazine.com/wp-includes/js/wp-embed.min.js?ver=4.9.8"></script>
+<script type="text/javascript">
 /* <![CDATA[ */
 var countVars = {"disqusShortname":"dmagonline"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://www.dmagazine.com/wp-content/plugins/disqus-comment-system/public/js/comment_count.js?ver=3.0.16"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var embedVars = {"disqusConfig":{"integration":"wordpress 3.0.16"},"disqusIdentifier":"90322 ","disqusShortname":"dmagonline","disqusTitle":"Privacy Policy","disqusUrl":"https:\/\/www.dmagazine.com\/site\/privacy-policy\/","postId":"90322"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="https://www.dmagazine.com/wp-content/plugins/disqus-comment-system/public/js/comment_embed.js?ver=3.0.16"></script>
-<script type="text/javascript" src="https://www.dmagazine.com/wp-content/plugins/dmagazine/assets/js/jquery-ui.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="https://www.dmagazine.com/wp-content/plugins/dmagazine/assets/js/jquery.beforeafter-1.4.min.js?ver=1.4"></script>
-<script type="text/javascript" src="https://www.dmagazine.com/wp-content/themes/dmagazine/dist/scripts/ajax-scripts-34a1b93e4b.js"></script>
-<script type="text/javascript" src="https://www.dmagazine.com/wp-content/themes/dmagazine/dist/scripts/main-b3839ab164.js"></script>
-<script type="text/javascript" src="https://www.dmagazine.com/wp-includes/js/wp-embed.min.js?ver=4.9.6"></script>
+<script type="text/javascript" src="https://www.dmagazine.com/wp-content/plugins/disqus-comment-system/media/js/count.js?ver=4.9.8"></script>
 <script type="text/javascript">
 			(function($) {
 				window.dfp_targeting = {"Page":[],"domain":["www_dmagazine_com"]};
@@ -580,5 +569,5 @@ var embedVars = {"disqusConfig":{"integration":"wordpress 3.0.16"},"disqusIdenti
 		</script>
 <script>
 </script>
-
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"fdea4a9fd0","applicationID":"100413135","transactionName":"YFUGYUFUXhBWUUZZC1kfJVZHXF8NGEZXXRRbURBQHldcAllZH0AFUFU=","queueTime":0,"applicationTime":704,"atts":"TBIFFwlOTR4=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 </body></html>
