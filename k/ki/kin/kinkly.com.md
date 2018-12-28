@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kinkly.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627235226id_/https%3A//www.kinkly.com/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kinkly.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228062805id_/https%3A//www.kinkly.com/about/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Kinkly.com
 
@@ -97,7 +97,7 @@ If you have questions or suggestions, please complete the form on our [Contact U
 Janalta Interactive Inc. o/a Kinkly.com  
 Suite 101, 1289 - 91 Street SW  
 Edmonton, Alberta Canada T6X 1H1  
-Last updated Monday, June 11, 2018  
+Last updated Tuesday, November 27, 2018  
 
 
   
