@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taxjar.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628015430id_/https%3A//www.taxjar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxjar.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228082105id_/https%3A//www.taxjar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TaxJar
 
@@ -21,7 +21,7 @@ Personal Data That You Provide Through The Services: When you visit the Site or 
 
 In order to prepare your relevant sales tax return documentation and history, we collect information about you, such as your name, address, and tax identification number, business information as well as your online transaction history and sales taxes collected, your total previous tax payments, and other information. Collectively, this information is known as “Sales Tax Information”.
 
-### Other Information
+### Cookie Policy | Other Information
 
 Non-Identifiable Data: When you interact with TaxJar through the Site or Services, we receive and store certain personally non-identifiable information. Such information, which is collected passively using various technologies, cannot presently be used to specifically identify you. TaxJar may store such information itself or such information may be included in databases owned and maintained by TaxJar affiliates, agents or service providers. The Services may use such information and pool it with other information to track, for example, the total number of visitors to our Site, the number of visitors to each page of our Site, and the domain names of our visitors' Internet service providers. It is important to note that no Personal Data is available or used in this process.
 
@@ -93,4 +93,4 @@ If we make a material change to this Privacy Policy, including a material change
 
 ### Communication with us about Privacy
 
-If you have privacy-related questions that are not addressed here, please contact the Privacy Team via email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you have privacy-related questions that are not addressed here, please contact the Privacy Team via email at privacy@taxjar.com.
