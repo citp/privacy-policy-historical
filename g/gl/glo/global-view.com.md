@@ -1,80 +1,73 @@
-> *The following text is extracted and transformed from the global-view.com privacy policy that was archived on 2018-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180513114844id_/http%3A//www.global-view.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the global-view.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228173101id_/http%3A//www.global-view.com/policy.html) for the most accurate reproduction.*
 
-# Forex Trading - Global-View.com Privacy Policy Statement For The Currency Trader
+# BY ACCESSING OR USING OUR WEBSITE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND BY THE TERMS OF THIS PRIVACY POLICY
 
-## _Global-View.com Privacy Policy_
+BY ACCESSING OR USING OUR WEBSITE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND BY THE TERMS OF THIS PRIVACY POLICY.  YOU SHOULD CHECK THIS POLICY REGULARLY TO SEE IF ANY CHANGES HAVE BEEN MADE.
 
-Global-View.com respects your privacy. This statement of our Privacy Policy explains what information we gather from you and how we use that information. We consider the information you have shared with us strictly confidential and will use that information only as specified in this Privacy Policy or to the extent necessary to comply with applicable law. 
+By using the Site, you consent to the data collection and use practices prescribed in this Privacy Policy.  We may periodically make changes to this Privacy Policy. It is your responsibility to review this Privacy Policy frequently and remain informed about any changes to it, so we encourage you to visit our websites to review our Privacy Policy.
 
-## Information We Gather and How We Use It
+Personal Data means any information that can be used to identify an individual, including, but not limited to, a first and last name, home or other physical address, an email address, phone number or other contact information, whether at work or at home, as defined in Article 4 of the EU General Data Protection Regulations (GDPR)..
 
-We collect certain information from you in order to provide you with the most interesting and useful Web site possible. 
+We collect information about you when you provide it to us, when you use our Services, and when other sources provide it to us, as further described below. .We collect information about you when you input it into the Services or otherwise provide it directly to us.We collect information about you when you register for an account, create or modify your profile, set preferences, sign-up for or make purchases through the Services. We keep track of your preferences when you select settings within the Services.
 
-We use your IP address to identify you, to gather demographic information that helps us understand how you and our other customers use our Web site, and to administer our Web site. 
+Services include the Global Viewpoint. Inc. products you use, where we collect and store content that you post, send, receive and share. This content includes any information about you that you may choose to include. Content also includes the files and links you upload to the Services.
 
-Our registration form requires you to give us contact information (e.g. name and email address), demographic information (e.g. country). We use your contact information to contact you about our Web site and provide you with information and promotional material from our partners and advertisers. 
+The Services also include our websites owned or operated by us. We collect other content that you submit to these websites, which include social media or social networking websites operated by us. The Services also include our customer support, where you may choose to submit information regarding a problem you are experiencing with a Service. Whether you designate yourself as a technical contact, open a support ticket, speak to one of our representatives directly or otherwise engage with our support team, 
 
-From time to time we may supplement information that you provide to us with information received from third parties. 
+We collect certain payment and billing information when you register for certain paid Services. ** **.We keep track of certain information about you when you visit and interact with any of our Services.GlobalViewpoint Inc. and our third-party partners, such as our advertising and analytics partners, use cookies and other tracking technologies to provide functionality 
 
-## Information We May Disclose
+We receive information about you from other Service users, from third-party services, from our related companies, and from our business and channel partners.We receive information about you from companies that are owned or operated by us, in accordance with their terms and policies. We work with a global network of partners who provide consulting, implementation, training and other services around our products. Some of these partners also help us to market and promote our products, generate leads for us, and resell our products. We receive information from these partners, such as billing information, billing and technical contact information, company name, what GlobalViewpoint, Inc.products you have purchased or may be interested in, evaluation information you have provided, what events you have attended, and what country you are in.
 
-We share demographic, profile and other general information about you and our other customers with our advertisers on an aggregate basis. This means that we tell our advertisers general information about the characteristics of our customer base (e.g. geographical).
+How we use the information we collect depends in part on which Services you use, how you use them, and any preferences you have communicated to us. Below are the specific purposes for which we use the information we collect about you: We use information about you to provide the Services to you, including to process transactions with you, authenticate you when you log in, provide customer support, and operate and maintain the Services.
 
-Our advertisers may ask us to mail or e-mail you promotional information tailored to your interests. We will send you this information on behalf of our advertisers. From time to time we may use third parties (pursuant to a confidentiality agreement) to assist us in e-mail broadcasts and list management. You may opt-out of receiving these mailings as explained below under the heading "Your Options." 
+We use your contact information to send transactional communications via email and within the Services, including confirming your purchases, reminding you of subscription expirations, responding to your comments, questions and requests, providing customer support, and sending you technical notices, updates, security alerts, and administrative messages.
 
-We may release your contact and other information to third parties when we believe that such release is reasonably necessary to (i) comply with law, (ii) cooperate with state and federal regulatory agency investigations, (iii) enforce the terms of our User Agreement or License Agreement, or (v) protect the rights of Global-View.com or others. 
+We use your contact information and information about how you use the Services to send promotional communications that may be of special interest to you, including by email and by other companies’ websites and applications,
 
-## Cookies
+Where required by law or where we believe it is necessary to protect our legal rights, interests and the interests of others, we use information about you in connection with legal claims, compliance, regulatory, and audit functions, and disclosures in connection with the acquisition, merger or sale of a business.
 
-Our Web site uses "cookies" which deposit certain record keeping information in your hard drive. We use cookies to save your password so you don't have to re-enter it each time you visit our site, keep track of your preferences, deliver content specific to your interests, and for other similar purposes. These cookies can't read other data from your hard drive or read cookie files created by other sites or applications. 
+If you are an individual in the European Union (“EU”), we collect and process information about you only where we have legal bases for doing so under applicable EU laws. The legal bases depend on the Services you use and how you use them. 
 
-Our Web site contains display ads sold by us or by outside advertising agencies. These ads may contain cookies which will be deposited in your hard drive if you click on the ads. Information generated from cookies deposited on your hard drive by our advertisers is collected by our advertisers and we do not have access to this information. 
+We need it to provide you the Services, including to operate the Services, provide customer support and personalized features and to protect the safety and security of the Services;It satisfies a legitimate interest (which is not overridden by your data protection interests), such as for research and development, to market and promote the Services and to protect our legal rights and interests;You give us consent to do so for a specific purpose, or we need to process your data to comply with a legal obligation.
 
-Most browsers are set to accept cookies unless you reconfigure your browser to refuse them or to notify you when you have received one. If you do not accept cookies, you will not be able to use certain features of our site. 
+We share information about you through the Services and with certain third parties. We share information we collect about you in the ways discussed below, including in connection with possible business transfers, but we are not in the business of selling information about you to advertisers or other third parties.
 
-## Subscriptions and Purchases
+Our websites offer publicly accessible blogs and forums. You should be aware that any information you provide on these websites – including profile information associated with the account you use to post the information – may be read, collected, and used by any member of the public who accesses these websites. Your posts and certain profile information may remain even after you terminate your account. We urge you to consider the sensitivity of any information you input into these Services. To request removal of your information from publicly accessible websites operated by us, please contact us as provided below. In some cases, we may not be able to remove your information, in which case we will let you know if we are unable to and why.
 
-You may subscribe for a fee to certain services through our Web site. Any financial information we collect will be used solely to bill you for the services and items you have purchased and to ship items to you. 
+We work with third-party service providers to provide website and application development, hosting, maintenance, backup, storage, virtual infrastructure, payment processing, analysis and other services for us, which may require them to access or use information about you. If a service provider needs to access information about you to perform services on our behalf, they do so under close instruction from us, including policies and procedures designed to protect your information.]
 
-## Public Forums
+ We work with third parties who provide consulting, sales, and technical services to deliver and implement customer solutions around the Services. We may share your information with these third parties in connection with their services, such as to assist with billing and collections, to provide localized support, and to provide customizations. We may also share information with these third parties where you have agreed to that sharing.
 
-Forums are available to you through our Web site. Please remember that any information disclosed in these areas becomes public information. If you post personal information online that is accessible to the public, you may receive unsolicited responses. You should exercise caution when deciding to disclose any of your personal information in a public forum. 
+ Enforcement of Our Rights: In exceptional circumstances, we may share information about you with a third party if we believe that sharing is reasonably necessary to (a) comply with any applicable law, regulation, legal process or governmental request, including to meet national security requirements, (b) enforce our agreements, policies and terms of service, (c) protect the security or integrity of our products and services, (d) protect Global Viewpoint, our customers or the public from harm or illegal activities, or (e) respond to an emergency which we believe in good faith requires us to disclose information to assist in preventing the death or serious bodily injury of any person.
 
-## Security
+We use data hosting service providers in the United States to host the information we collect, and we use technical measures to secure your data.While we implement safeguards designed to protect your information, no security system is impenetrable and due to the inherent nature of the Internet, we cannot guarantee that data, during transmission through the Internet or while stored on our systems or otherwise in our care, is absolutely safe from intrusion by others.
 
-Our Web site has certain security measures in place in effort to protect the loss, misuse and alteration of the information under our control. 
+How long we keep information we collect about you depends on the type of information, as described below. After such time, we will either delete or your information or, if this is not possible securely store it.
 
-## Links to Other Web Sites
+ We retain your account information for as long as your account is active and a reasonable period thereafter in case you decide to re-activate the Services. We also retain some of your information as necessary to comply with our legal obligations, to resolve disputes, to enforce our agreements, to support business operations, and to continue to develop and improve our Services. 
 
-Our Web site contains links to other sites. Global-View.com is not responsible for the privacy practices or the content of such sites. You may wish to review the privacy policies of these sites. 
+If you have elected to receive marketing emails from us, we retain information about your marketing preferences for a reasonable period of time from the date you last expressed interest in our Services.
 
-**Third Party Advertising**   
-We use some third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here ](http://www.networkadvertising.org/optout_nonppii.asp)
+ We also use standard technologies such as “cookies,” which are files placed on your computer’s hard drive by the sites you visit.  Websites use temporary cookies called “session” cookies to ensure that you are recognized when you move from page to page within one site and that any information you have entered is remembered. Websites also use cookies called “persistent” cookies to enable a website to remember you on subsequent visits, speeding up or enhancing your experience of services or functions offered. We may install both persistent and session cookies when you visit our Site. We use cookies to improve our Site and make it easier to use. Cookies permit us to recognize users and avoid repetitive requests for the same information. Most browsers will accept cookies until browser settings are changed to refuse them. If you block or refuse to accept cookies, or delete cookies after visiting our Site, you may not be able to access or use certain features or functions of our Site.
 
-**Third Party Cookies**  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique 'cookie' on your browser. 
+Your rights will be determined by the country in which you reside. Many counties have specific laws relating to privacy. We seek to abide with all relevant national laws.
 
-## Your Options
+If you reside in the European Union, you have the right under the General Data Protection Regulation (GDPR) to request from Global-Viewpoint, Inc. access to and erasure of your Personal Data. If you reside outside of the European Union, you may have similar rights under your local laws. You can access, change or to request deletion of your Personal Data by emailing us info[@global-view.com](mailto:i@global-view.com).
 
-## Opting to not receive promotional materials from our advertisers or messages from Global-View.com
+California Civil Code Section 1798.83 (“Code”) permits users of our Site who are California residents and have provided Personal Data to us to request from us certain information regarding our disclosure of Personal Data to third parties for their direct marketing purposes.
 
-You may opt-out during the registration process or after registering by visiting us at [http://www.global-view.com](http://www.global-view.com/) and using the contact us link to contact us. 
+As required by the Code, at your request we will provide you with the categories of Personal Data that we collect through the Site and the categories of third party persons or entities with whom such Personal Data may be shared. California law requires us to inform you, at your request, of (a) the categories of Personal Data we collect and the third parties with whom we share that information; (b) the names and addresses of those third parties; and (c) examples of the products marketed by those third parties. To make such a request, please send an email info@global-view.com.
 
-Every e-mail we send to you will provide you with instructions on how to unsubscribe so that you will not receive any future e-mails. 
+To help protect the privacy of the Personal Data you transmit through use of the Services, we use commercially reasonable security practices that are technically feasible for us to protect the user data we collect against unauthorized access, including, without limitation, physical, technical, and administrative safeguards.
 
-## Correct or Update Your Information
+Except as specified in this Privacy Policy, we use commercially reasonable efforts to limit access to your Personal Data to our employees, agents, and officers who need the information to perform their responsibilities. However. ,be aware that the Site and our services are run on software, hardware and networks, any component of which may, from time to time, require maintenance or experience problems or breaches of security beyond our control.  We cannot guarantee the security of the information on and sent from our Site, and we are not responsible for the acts and omissions of third parties who receive the information. Please be aware that despite best intentions and the guidelines outlined in this Privacy Policy, no data transmission over the internet can be guaranteed to be 100% secure.
 
-You may correct or update any information previously provided to us by visiting us at http:/www.global-view.com and using the contact us link to contact us.
+Personal Data collected on the Site may be stored and processed in the United States or any other country in which Company or its affiliates, subsidiaries or agents maintain facilities, and by using the Site, you consent to any such transfer of information outside of your country.
 
-## Contacting Us
+You agree to comply with all local laws, rules and regulations regarding online conduct and acceptable content.  Without limiting the generality of the foregoing, you agree to comply with all applicable laws, rules and regulations regarding the transmission of data exported from the United States or the country in which you reside.
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
+Our Services are not intended for or directed to persons under the age of 13.  Any person who provides their information to Company through a Service represents to Global Viewpoint  that they are 13 years of age or older.
 
-Web Site Administrator  
-news@global-view.com
+By using the Service, you agree to this Privacy Policy.  This is our entire and exclusive Privacy Policy and it supersedes any earlier version.We may occasionally update this Privacy Policy.  When we do, we will indicate the date that this Privacy Policy was last updated.  Any changes we make will be effective immediately upon notice, which we may provide by means including, without limitation, posting a prominent notice on the Site or sending an email to the address associated with your account.  If we make changes to this Privacy Policy and you continue to use our Site, you are agreeing to this Privacy Policy and any updates. 
 
-## Additional Information
-
-For general information about Internet privacy issues, you may wish to visit the Web site hosted by the Federal Trade Commission at <http://www.ftc.gov/privacy>. 
-
-We may from time to time revise this Privacy Policy. This statement of our Privacy Policy was last revised on March 31, 2009
+Last Updated: May 25, 2018
