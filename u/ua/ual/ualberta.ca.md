@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ualberta.ca privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523200227id_/https%3A//www.ualberta.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ualberta.ca privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229001805id_/https%3A//www.ualberta.ca/privacy) for the most accurate reproduction.*
 
-# Privacy - University of Alberta
+# Privacy | University of Alberta
 
 The University of Alberta is committed to providing our staff, students and visitors with websites that respect their privacy. This page summarizes the privacy policy and practices for all University of Alberta websites. University of Alberta websites do not automatically gather any personal information from you, such as your name, phone number or email address. 
 
