@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smarterbalanced.org privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626114344id_/http%3A//www.smarterbalanced.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smarterbalanced.org privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228094206id_/http%3A//www.smarterbalanced.org/privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy - Smarter Balanced Assessment Consortium
 
