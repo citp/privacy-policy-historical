@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the popstaronline.com privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525131619id_/http%3A//www.popstaronline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popstaronline.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228085435id_/http%3A//www.popstaronline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - POPSTAR!
 
 **PRIVACY POLICY**
 
- **             **This Privacy Policy governs each website, mobile site, application and/or other service, regardless of how distributed, transmitted, published or broadcast (herein collectively “Services”) provided by Popstar Publishing, Inc. (“Popstar,” “we,” “us,” or “our”).
+**             **This Privacy Policy governs each website, mobile site, application and/or other service, regardless of how distributed, transmitted, published or broadcast (herein collectively “Services”) provided by Popstar Publishing, Inc. (“Popstar,” “we,” “us,” or “our”).
 
- **(1)   Information You Provide**
+**(1)   Information You Provide**
 
 We may ask you to provide us with certain categories of information such as: (1) personal information that could reasonably be used to identify you personally, such as your name, e-mail address, date of birth and physical address (“Personal Information”); and (2) demographic information such as information about your family and age (“Demographic Information”).  We may collect this information through various places through the Services, including online subscription, contact us forms, or when you otherwise interact with us.
 
@@ -40,7 +40,7 @@ Also, if you choose to access, visit, and/or use any third party social networki
 
 Some third-party browsers provide “do not track” machine readable signals for websites or other online Services which are automatically applied by default and therefore do not necessarily reflect our visitors’ choice as to whether they wish to receive advertisements tailored to their interests.  As a result, we do not respond to these signals.  Go to [www.networkadvertising.org](http://www.networkadvertising.org/) or [www.aboutads.info](http://www.aboutads.info/) if you wish to learn more about your options to not accept tracking cookies for the purpose of receiving targeted interest-based advertisements.
 
- **(2)   Use of Information**
+**(2)   Use of Information**
 
 (a)  We use information we collect from you in part to provide you with the service you have requested.  If you subscribe to POPSTAR, we may also use your e-mail address to send you a confirmation notice and your mailing address to send you your magazine.  Similarly, if you enter online sweepstakes, we will use this information to notify you if you are a winner.  We also use your information to identify you as a user, improve our Services, and send you administrative notifications, and respond to your inquiries.  We might also send out e-mails to users and sweepstakes/contest entrants to announce special offers, services and announcements.
 
@@ -50,7 +50,7 @@ Some third-party browsers provide “do not track” machine readable signals fo
 
 (e)  We may create Anonymous Information from Personally Identifiable Information by excluding information (such as your name) that make the data personally identifiable to you.  We use this Anonymous Information for any purpose and disclose Anonymous Information to third parties in our sole discretion.
 
- **(3)   Disclosure of Your Information**
+**(3)   Disclosure of Your Information**
 
 (a)  We use Personal Information that you supply through the Services to provide you with the merchandise, product, service and/or content you have requested.
 
@@ -74,19 +74,19 @@ Some third-party browsers provide “do not track” machine readable signals fo
 
 (j)  We may offer sweepstakes, contests, and other promotions (any, a “Promotion”) through the Services that may require registration for the Promotion.  By participating in a Promotion, you are agreeing to the official rules that govern that Promotion, which may contain specific requirements of you, including, allowing the sponsor of the Promotions to use your name, voice and/or likeness in advertising or marketing associated with the Promotion.   If you choose to enter a Promotion, Personal Information may be disclosed to third parties or the public in connection with the administration of such Promotion, including, in connection with winner selection, prize fulfillment, and as required by law or permitted by the Promotion’s official rules, such as on a winners list.
 
- **(4)   Your California Privacy Rights**
+**(4)   Your California Privacy Rights**
 
 California’s “Shine the Light” law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses’ practices related to disclosing personal information to third parties for the third parties’ direct marketing purposes.  Alternatively, such business may have in place a policy not to disclose personal information of customers to third parties for the third parties’ direct marketing purposes if the customer has exercised an option to opt-out of such information sharing.  Pursuant to the Shine the Light Law, Popstar will respond to written requests for this information.  If you would like to request this information, please send your written request to the contact address listed below.
 
- **(5)   Policies for Individuals Under 13**
+**(5)   Policies for Individuals Under 13**
 
 (a)  These Services are not intended for use by children, especially those under the age of 13.  No one under the age of 13 is allowed to register for the Service or provide any personally identifiable information to the Services.  Minors between the ages of 13 to 17, inclusive, must get permission from a parent or legal guardian before making purchases, including subscription, on this Service.
 
 (b)  If a child discloses information about themselves in publicly accessible areas of the Service, they may get unsolicited messages from other parties.  Accordingly, parents or legal guardians should instruct children not to provide such information on this website, or the internet in general.
 
- **(6)   Privacy Policy Coordinator and Other Privacy Inquiries**
+**(6)   Privacy Policy Coordinator and Other Privacy Inquiries**
 
- **             **For all questions and concerns regarding this Privacy Policy, please contact us at:
+**             **For all questions and concerns regarding this Privacy Policy, please contact us at:
 
 POPSTAR PUBLISHING, INC.
 
@@ -95,4 +95,4 @@ Attn: Privacy Policy Coordinator
 
 Las Vegas, NV 89104
 
- **If you do not agree to the terms contained in this Privacy Policy and/or User Agreement, you must immediately exit the Services.**
+**If you do not agree to the terms contained in this Privacy Policy and/or User Agreement, you must immediately exit the Services.**
