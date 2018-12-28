@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the givengain.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628081037id_/https%3A//www.givengain.com/rules/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the givengain.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228141840id_/https%3A//www.givengain.com/rules/privacy) for the most accurate reproduction.*
 
 # Data Protection and Privacy Policy | GivenGain
 
