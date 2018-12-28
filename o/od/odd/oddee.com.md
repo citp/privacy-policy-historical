@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oddee.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628113704id_/https%3A//www.oddee.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oddee.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228173234id_/https%3A//www.oddee.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Oddee
 
@@ -54,6 +54,18 @@ Web beacons (also known as clear gifs, pixel tags or web bugs) are tiny graphics
 
 **3\. Links**  
 This website contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this website.
+
+**COPYRIGHT INFRINGEMENT**  
+We reserve the right to remove any user content on the Site which allegedly infringes another person’s copyright. We are under no obligation to, and do not, scan content posted for any violations of third party rights, however, we respect the copyright interests of others and it is our policy not to permit materials known by us to infringe another party’s copyright to remain on the Site. If you believe any materials on the Site infringe a copyright, you should provide our copyright agent with the following information in writing:  
+the electronic or physical signature of the owner of the copyright or the person authorized to act on the owner’s behalf;  
+identification of the copyrighted work that you claim has been infringed;  
+identification of the material that is claimed to be infringing and information reasonably sufficient to permit ODDEE.COM to locate the material (for example, by providing a URL to the material);  
+your name, address, telephone number, and email address;  
+a statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law; and  
+a statement that the information in your notification is accurate and a statement, made under penalty of perjury, that you are the copyright owner or are authorized to act on the copyright owner’s behalf.  
+Our designated agent to receive notification of claimed infringement can be reached at: hello@oddee.com.
+
+We will remove infringing material upon notification of claimed infringement.
 
 **NAI/IAB**
 
