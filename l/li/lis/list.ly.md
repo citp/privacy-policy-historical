@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the list.ly privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628044241id_/https%3A//list.ly/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the list.ly privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228110549id_/https%3A//list.ly/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Listly
 
@@ -26,7 +26,7 @@ Device Information. We collect information about the computer or mobile device 
 
 Location information. We receive information from you or other third-parties that helps us approximate your location. We may, for example, an IP address received from your browser or device to determine approximate location. Listly may also collect location information from devices in accordance with the consent process provided by your device. This helps us customize the site content based on your approximate location.
 
-Information Collected by Cookies and Other Tracking Technologies. We and our service providers collect information using various technologies, including cookies and pixel tags (which are also called clear GIFs, web beacons, or pixels). Cookies are small data files stored on your hard drive or in device memory that help us improve our Platform and your experience, and track usage of our Platform. Pixel tags are electronic images that may be used in our Platform or emails, and track usage of our Platform and effectiveness of communications. You can learn more about the types of cookies we and our service providers use by reading our [Cookie Policy](https://www.google.com/url?q=https://list.ly/cookie-policy/&sa=D&ust=1530105753225000).
+Information Collected by Cookies and Other Tracking Technologies. We and our service providers collect information using various technologies, including cookies and pixel tags (which are also called clear GIFs, web beacons, or pixels). Cookies are small data files stored on your hard drive or in device memory that help us improve our Platform and your experience, and track usage of our Platform. Pixel tags are electronic images that may be used in our Platform or emails, and track usage of our Platform and effectiveness of communications. You can learn more about the types of cookies we and our service providers use by reading our [Cookie Policy](https://list.ly/cookie-policy/).
 
 #### 1.3 Information We Collect From Other Sources
 
@@ -36,7 +36,7 @@ Social Media Services. If you register or log into your account through a third-
 
 Invitations. If another user sends you an invitation through our Platform, we may receive certain personal information, such as your name, email address, or phone number. If you are an invited guest, we will automatically send you an invitation to our Platform, and, if unanswered, a one-time follow-up invitation. Listly stores this contact information only to send these invitations and evaluate their success. You may unsubscribe from future invitations using the instructions in those messages. You may also contact us at privacy@list.ly to request that we remove this information from our database.
 
-User Content. We may receive information about you when you or another user uploads photos or posts other content to the Platform. For further details about the rights over this information available to individuals, see [Section 6](https://www.google.com/url?q=https://www.meetup.com/privacy/%23section6&sa=D&ust=1530105753226000).
+User Content. We may receive information about you when you or another user uploads photos or posts other content to the Platform. For further details about the rights over this information available to individuals, see Section 6.
 
 ### 2\. Use Of Information
 
@@ -88,7 +88,7 @@ We may use information about you for various other purposes, including to:
 
 Our legal basis for collecting and using the information described above will depend on the type of information and the specific context in which we collect it.
 
-  * We process information about you in order to provide our services in accordance with our [Terms of Service](https://www.google.com/url?q=https://list.ly/terms/&sa=D&ust=1530105753228000), for example to allow you to make lists, follow users, or to display your profile to other users, and to allow us to send you important service updates.
+  * We process information about you in order to provide our services in accordance with our [Terms of Service](https://list.ly/terms/), for example to allow you to make lists, follow users, or to display your profile to other users, and to allow us to send you important service updates.
   * We also process information about you where it is in our legitimate interests to do so and not overridden by your rights (for example, in some cases for direct marketing, fraud prevention, network and information systems security, responding to your communications, the operation of networks of groups by the network administrators, and improving our Platform).
   * Sometimes you provide us with sensitive information about you; for instance, the mere fact of creating or viewing content on a specific topic may indicate information about your health, religion, political views, or sexual identity. Creating and viewing content, or posting content or comments on the Platform about these topics is entirely voluntarily and done with your explicit consent.
   * In some cases, we may also have a legal obligation to collect information about you, or may otherwise need the information to protect your vital interests or those of another person.
@@ -108,7 +108,7 @@ We may use service providers in connection with operating and improving the Plat
 
 #### 3.3 Following The Law And Protecting Listly
 
-We may access, preserve, and disclose information about you to third parties, including the content of messages, if we believe disclosure is in accordance with, or required by, applicable law, regulation, legal process, or audits. We may also disclose information about you if we believe that your actions are inconsistent with our [Terms of Service](https://www.google.com/url?q=https://list.ly/terms/&sa=D&ust=1530105753230000) or related guidelines and policies, or if necessary to protect the rights, property, or safety of, or prevent fraud or abuse of, Listly or others.
+We may access, preserve, and disclose information about you to third parties, including the content of messages, if we believe disclosure is in accordance with, or required by, applicable law, regulation, legal process, or audits. We may also disclose information about you if we believe that your actions are inconsistent with our [Terms of Service](https://list.ly/terms/) or related guidelines and policies, or if necessary to protect the rights, property, or safety of, or prevent fraud or abuse of, Listly or others.
 
 #### 3.4 Social Sharing And Other Tools
 
@@ -126,7 +126,7 @@ We may de-identify or aggregate information about you and share it freely, so th
 
 #### 4.1 Analytics and Advertising Services Provided by Others
 
-With your permission, we may allow others to use cookies, web beacons, device identifiers, and other technologies to collect information about your use of the Platform and other websites and online services. See our [Cookie Policy](https://www.google.com/url?q=https://list.ly/cookie-policy/&sa=D&ust=1530105753231000) for details about these technologies and the information that they collect, use, or share, including how you may be able to control or disable these services.
+With your permission, we may allow others to use cookies, web beacons, device identifiers, and other technologies to collect information about your use of the Platform and other websites and online services. See our [Cookie Policy](https://list.ly/cookie-policy/) for details about these technologies and the information that they collect, use, or share, including how you may be able to control or disable these services.
 
 #### 4.2 Transfer Of Information To The U.S. And Other Countries
 
@@ -165,14 +165,14 @@ We may modify this Privacy Policy from time to time. When we do, we will provide
 
 #### 5.1 Your Choices: Account Information
 
-You may update or correct your account information by editing your account settings or by sending a request to privacy@list.ly as described in [Section 6](https://www.google.com/url?q=https://www.meetup.com/privacy/%23section6&sa=D&ust=1530105753233000). You may deactivate your account by editing your account settings or by sending an email to privacy@list.ly.
+You may update or correct your account information by editing your account settings or by sending a request to privacy@list.ly as described in Section 6. You may deactivate your account by editing your account settings or by sending an email to privacy@list.ly.
 
 #### 5.2 Your Choices: Location Information
 
 When you first access the Platform, we will collect information about your location, which we use to make better recommendations for content relevant to where you live or create local lists that look for places around you to add to lists. If you do not want us to collect information about your location, then you can prevent this:
 
   * If using a mobile app, by changing the settings on your device.
-  * If using our website, your location data will be obtained via a cookie. Please refer to our [Cookie Policy](https://www.google.com/url?q=https://www.meetup.com/cookie-policy/&sa=D&ust=1530105753234000) for additional information on how to manage our use of cookies.
+  * If using our website, your location data will be obtained via a cookie. Please refer to our [Cookie Policy](https://list.ly/cookie-policy/) for additional information on how to manage our use of cookies.
 
 
 
@@ -182,7 +182,7 @@ Your mobile device settings may also give you the option to choose whether to al
 
 #### 5.3 Your Choices: Cookies
 
-We may use and allow others to use cookies, web beacons, device identifiers, and other technologies to collect information about your use of the Platform and other websites and online services. See our [Cookie Policy](https://www.google.com/url?q=https://list.ly/cookie-policy/&sa=D&ust=1530105753235000) for details about these technologies and the information that they collect, use, or share, including how you may be able to control or disable these services.
+We may use and allow others to use cookies, web beacons, device identifiers, and other technologies to collect information about your use of the Platform and other websites and online services. See our [Cookie Policy](https://list.ly/cookie-policy/) for details about these technologies and the information that they collect, use, or share, including how you may be able to control or disable these services.
 
 #### 5.4 Your Choices: Promotional Communications
 
@@ -196,13 +196,13 @@ Rights that you may have, depending on the country in which you live, include:
   * Objecting to processing of your information, asking us to restrict processing of your information, or requesting the portability of your information.
   * Opting out from receiving marketing communications that we send you at any time. You can exercise this right by selecting the “unsubscribe” or “opt-out” link in the marketing emails we send you. Additionally, you may update your email preferences by changing the settings in your account.
   * Withdrawing your consent at any time if we have collected and processed your information with your consent. Withdrawing your consent will not affect the lawfulness of any processing that we conducted prior to your withdrawal, nor will it affect processing of your information conducted in reliance on lawful processing grounds other than consent.
-  * Complaining to a data protection authority about our collection and use of your information. For more information, please contact your local data protection authority. Contact details for data protection authorities in the European Union are available [here](https://www.google.com/url?q=http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm&sa=D&ust=1530105753236000).
+  * Complaining to a data protection authority about our collection and use of your information. For more information, please contact your local data protection authority. Contact details for data protection authorities in the European Union are available [here](http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm).
 
 
 
 ### 7\. Ads
 
-Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Listly and does not cover the use of cookies by any advertisers.  For reference, please read our [Cookie Policy](https://www.google.com/url?q=https://list.ly/cookie-policy/&sa=D&ust=1530105753236000).
+Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Listly and does not cover the use of cookies by any advertisers.  For reference, please read our [Cookie Policy](https://list.ly/cookie-policy/).
 
 ### 8\. Contact Us
 
