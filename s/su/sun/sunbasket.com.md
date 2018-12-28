@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sunbasket.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628011034id_/https%3A//sunbasket.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunbasket.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228074032id_/https%3A//sunbasket.com/privacy) for the most accurate reproduction.*
 
-# Privacy Terms | Sun Basket | Healthy Meals Delivered
+# Privacy Terms | Sun Basket | Healthy Meals Delivered | Sun Basket
 
-Last Updated on August 18, 2014
+Last Updated on July 17, 2018
 
 This Privacy Policy describes our policies on the collection, use, and disclosure of your information in connection with your use of our website, emails, and mobile applications ("Service"). The terms "we", "us", and "Sun Basket" refer to SunBasket Inc., a Delaware corporation, which provides the Sun Basket Service. When you use the Service, you consent to our collection, use, and disclosure of your information as described in this Privacy Policy.
 
@@ -54,11 +54,11 @@ Other users may be able to identify you, or associate you with your user account
 
 VII. DATA RETENTION AND ACCOUNT TERMINATION
 
-The information we obtain from or about you may be processed and stored in the United States of America. We may keep it as long as is permitted or required under the law. If you terminate your account, we will remove your Public Content from the Service, but may retain your data for a period of 5 years (or longer if required by law) in our active systems in order to ensure our ability to satisfy the authorized uses under this Privacy Policy. For example, we may use retained data to prevent, investigate, or identify possible wrongdoing in connection with the Service or to comply with legal obligations. Please note that information may exist in backup storage even after it has been removed from our active databases. You can request that your account be terminated by sending a request to [help@sunbasket.com](mailto:help@sunbasket.com?subject=Terminate%20Account).
+The information we obtain from or about you may be processed and stored in the United States of America. We may keep it as long as is permitted or required under the law. If you terminate your account, we will remove your Public Content from the Service, but may retain your data for a period of 5 years (or longer if required by law) in our active systems in order to ensure our ability to satisfy the authorized uses under this Privacy Policy. For example, we may use retained data to prevent, investigate, or identify possible wrongdoing in connection with the Service or to comply with legal obligations. Please note that information may exist in backup storage even after it has been removed from our active databases. You can request that your account be terminated by sending a request through our help page at [https://sunbasket.com/help](https://web.archive.org/help).
 
 VIII. CHILDREN
 
-The Service is intended for general audiences and is not directed to children under 13. We do not knowingly collect personal information from children under 13. If you become aware that a child has provided us with personal information without parental consent, please contact [help@sunbasket.com](mailto:help@sunbasket.com?subject=Parental%20Consent), If we become aware that a child under 13 has provided us with personal information without parental consent, we take steps to remove such information and terminate the child's account.
+The Service is intended for general audiences and is not directed to children under 13. We do not knowingly collect personal information from children under 13. If you become aware that a child has provided us with personal information without parental consent, please visit our help page to send us a note at [https://sunbasket.com/help](https://web.archive.org/help), If we become aware that a child under 13 has provided us with personal information without parental consent, we take steps to remove such information and terminate the child's account.
 
 IX. SECURITY
 
@@ -70,10 +70,10 @@ If you believe that Sun Basket has not adhered to this Privacy Policy you may wr
 
 Sun Basket Inc. (care of Cooley LLP)  
 Attn: Privacy Officer  
-5215 Hellyer Ave  
-San Jose, CA 95138  
+501 Folsom St, 3rd Floor  
+San Francisco, CA 94105  
 United States of America  
-[help@sunbasket.com](mailto:help@sunbasket.com?subject=Privacy)
+[https://sunbasket.com/help](https://web.archive.org/help)
 
 XI. MODIFICATIONS TO THIS PRIVACY POLICY
 
@@ -81,4 +81,4 @@ We may revise this Privacy Policy from time to time. The most current version of
 
 XII. CONTACT SUNBASKET.COM STAFF
 
-If you have technical problems, questions or other issues related to your use of Sun Basket.com, please contact us at [help@sunbasket.com](mailto:help@sunbasket.com?subject=General%20Inquiry). Our staff will respond to all requests sent through mail or email from members and parents interested in knowing more about what personal information is stored on the Sun BasketIt.com database, or if they want their personal information nullified, or have additional questions regarding privacy.
+If you have technical problems, questions or other issues related to your use of Sun Basket.com, please visit our help page at [https://sunbasket.com/help](https://web.archive.org/help). Our staff will respond to all requests sent through mail or email from members and parents interested in knowing more about what personal information is stored on the Sun BasketIt.com database, or if they want their personal information nullified, or have additional questions regarding privacy.
