@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stanford.org privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630113055id_/https%3A//www.stanford.edu/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stanford.org privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228212923id_/https%3A//www.stanford.edu/site/privacy) for the most accurate reproduction.*
 
 # Online Privacy Policy – Stanford University
 
@@ -6,7 +6,7 @@ Stanford University provides the following information relating to your privacy 
 
 ## Online Privacy Notice
 
-This Online Privacy Notice applies to the information that we collect when you visit Stanford University’s main website ([www.stanford.edu](http://www.stanford.edu/)) and other websites that we own or control and link or refer to this Privacy Notice (together, the “ **Sites** ”). This Notice describes how this information is processed, as well as the choices that are available to you regarding the use of the information you provide.
+This Online Privacy Notice applies to the information that we collect when you visit Stanford University’s main website ([stanfordhs17.wpengine.com](http://stanfordhs17.wpengine.com/)) and other websites that we own or control and link or refer to this Privacy Notice (together, the “ **Sites** ”). This Notice describes how this information is processed, as well as the choices that are available to you regarding the use of the information you provide.
 
 Unless otherwise indicated on a specific Site, Stanford University (“ **Stanford** ”) is the data controller for all information collected under this Notice. Contact information for Stanford is listed at the end of this Notice.
 
@@ -24,7 +24,7 @@ The table below describes the Personal Information and Sensitive Personal Inform
 
 ## Cookie Policy
 
-This Cookie Policy applies to the cookies we use when you visit Stanford University’s main website (www.stanford.edu) and other websites that we own or control and link or refer to this Cookie Policy (together, the “Sites”).
+This Cookie Policy applies to the cookies we use when you visit Stanford University’s main website (stanfordhs17.wpengine.com) and other websites that we own or control and link or refer to this Cookie Policy (together, the “Sites”).
 
 This cookie policy provides you with more information about cookies, what types of cookies we use and how we use them. Our Sites use cookies with the intention of providing you with a user experience that best suits your needs, while concurrently allowing us to improve the design and functionality of our Sites. Cookies can be adjusted or disabled, and this policy provides you with instructions to do so.
 
@@ -56,7 +56,7 @@ You can change your cookie settings by reviewing your internet browser’s cooki
   * [Cookie settings in Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer#w_cookie-settings)
   * [Cookie settings in Internet Explorer](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies)
   * [Cookie settings in Safari – iOS](https://support.apple.com/en-us/HT201265)
-  * [Cookie settings in Safari – macOS](https://support.apple.com/kb/PH21411)
+  * [Cookie settings in Safari – macOS](https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac)
 
 
 
@@ -94,18 +94,9 @@ Personal Information you submit through our Sites, such as your name, address an
 
 If you are an individual located in the EEA only, you will have the following rights with regard to your Personal Data:
 
-  1. _Right of access_
-
-You may request details of your Personal Information that we hold. We will confirm whether we are processing your Personal Information and we will disclose supplementary information including the categories of Personal Information, the sources from which it originated, the purpose and legal basis for the processing, the expected retention period, and the safeguards regarding Personal Information transfers to non-EEA countries, subject to the limitations set out in applicable statutes, regulations and other laws.
-
-  2. _Right of correction_
-
-We will comply with your request to edit and update incorrect Personal Information promptly.
-
-  3. _Right to be forgotten_
-
-At your request, we will delete your Personal Information promptly if:
-
+  1. _Right of access_ You may request details of your Personal Information that we hold. We will confirm whether we are processing your Personal Information and we will disclose supplementary information including the categories of Personal Information, the sources from which it originated, the purpose and legal basis for the processing, the expected retention period, and the safeguards regarding Personal Information transfers to non-EEA countries, subject to the limitations set out in applicable statutes, regulations and other laws.
+  2. _Right of correction_ We will comply with your request to edit and update incorrect Personal Information promptly.
+  3. _Right to be forgotten_ At your request, we will delete your Personal Information promptly if: 
     * it is no longer necessary to retain your Personal Information;
     * you withdraw the consent which formed the basis of your Personal Information processing;
     * you object to the processing of your Personal Information and there are no overriding legitimate grounds for such processing;
@@ -120,38 +111,17 @@ We will decline your request for deletion if processing of your Personal Informa
     * in pursuit of a legal action;
     * to detect and monitor fraud; or
     * for the performance of a task in the public interest.
-  4. _Right to restrict processing of your Personal Information_
-
-At your request, we will limit the processing of your Personal Information if:
-
+  4. _Right to restrict processing of your Personal Information_ At your request, we will limit the processing of your Personal Information if: 
     * you dispute the accuracy of your Personal Information;
     * your Personal Information was processed unlawfully and you request a limitation on processing, rather than the deletion of your Personal Information;
     * we no longer need to process your Personal Information, but you require your Personal Information in connection with a legal claim; or
     * you object to the processing pending verification as to whether an overriding legitimate ground for such processing exists.
-  5. _Right to notice related to correction, deletion, and limitation on processing_
-
-In so far as it is practicable, we will notify you of any correction, deletion, and/or limitation on processing of your Personal Information.
-
-  6. _Right to data portability_
-
-At your request, we will provide you free of charge with your Personal Information in a structured, commonly used and machine readable format, if: (i) you provided us with Personal Information; (ii) the processing of your Personal Information is based on your consent or required for the performance of a contract; or (iii) the processing is carried out by automated means.
-
-  7. _Right to object_
-
-Where we process your Personal Information based upon our legitimate interest then you have the right to object to this processing.
-
-  8. _Right not to be subject to decisions based solely on automated processing_
-
-You will not be subject to decisions with a legal or similarly significant effect (including profiling) that are based solely on the automated processing of your Personal Information, unless you have given us your explicit consent or where they are necessary for a contract with us.
-
-  9. _Right to withdraw consent_
-
-You have the right to withdraw any consent you may have previously given us at any time. If you withdraw your consent, this will not affect the lawfulness of our collecting, using and sharing of your Personal Information up to the point in time that you withdraw your consent. Even if you withdraw your consent, we may still use your information that has been fully anonymized and does not personally identify you.
-
-  10. _Right to complain to a supervisory authority_
-
-If you are not satisfied with our response, you have the right to complain to or seek advice from a supervisory authority and/or bring a claim against us in any court of competent jurisdiction.
-
+  5. _Right to notice related to correction, deletion, and limitation on processing_ In so far as it is practicable, we will notify you of any correction, deletion, and/or limitation on processing of your Personal Information.
+  6. _Right to data portability_ At your request, we will provide you free of charge with your Personal Information in a structured, commonly used and machine readable format, if: (i) you provided us with Personal Information; (ii) the processing of your Personal Information is based on your consent or required for the performance of a contract; or (iii) the processing is carried out by automated means.
+  7. _Right to object_ Where we process your Personal Information based upon our legitimate interest then you have the right to object to this processing.
+  8. _Right not to be subject to decisions based solely on automated processing_ You will not be subject to decisions with a legal or similarly significant effect (including profiling) that are based solely on the automated processing of your Personal Information, unless you have given us your explicit consent or where they are necessary for a contract with us.
+  9. _Right to withdraw consent_ You have the right to withdraw any consent you may have previously given us at any time. If you withdraw your consent, this will not affect the lawfulness of our collecting, using and sharing of your Personal Information up to the point in time that you withdraw your consent. Even if you withdraw your consent, we may still use your information that has been fully anonymized and does not personally identify you.
+  10. _Right to complain to a supervisory authority_ If you are not satisfied with our response, you have the right to complain to or seek advice from a supervisory authority and/or bring a claim against us in any court of competent jurisdiction.
 
 
 
@@ -159,7 +129,7 @@ If you wish to contact us in connection with the exercise of your rights listed 
 
 ## Access and Choice
 
-Stanford students can manage privacy settings for their directory information in [Axess](https://axess.stanford.edu/). Faculty, staff and other Stanford affiliates can manage their privacy settings in [StanfordYou](https://stanfordyou.stanford.edu/).
+Stanford students can manage privacy settings for their directory information in [Axess](https://axess.sahr.stanford.edu/). Faculty, staff and other Stanford affiliates can manage their privacy settings in [StanfordYou](https://stanfordyou.stanford.edu/).
 
 You can choose not to receive emails from us by “unsubscribing” using the instructions in any email you receive from us. This will not stop us from sending emails about your account or your transactions with us.
 
