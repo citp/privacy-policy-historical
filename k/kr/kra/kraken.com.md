@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kraken.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628065213id_/https%3A//www.kraken.com/en-us/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kraken.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228130652id_/https%3A//www.kraken.com/en-us/legal/privacy) for the most accurate reproduction.*
 
 # Kraken | Buy, Sell and Margin Trade Bitcoin (BTC) and Ethereum (ETH) - Privacy Notice
 
@@ -33,7 +33,7 @@ Payward provides the Kraken Exchange Services through local operating entities t
 You are contracting with one Payward group company, as follows:
 
   * If you reside in a country within the European Union, you are contracting with Payward Ltd., 6th Floor, One London Wall, London, EC2Y 5EB.
-  * If you reside in Japan, you are contracting with Payward KK, c/o Ark KK, 4-3-5-704 Ebisu, Shibuya-ku, Tokyo 150-0013, Japan
+  * If you reside in Japan, you are contracting with Payward KK Nibancho 9-3, Chiyoda-ku, Tokyo 102-0084, Japan
   * If you reside in the United States, you are contracting with Payward Ventures Inc., 237 Kearny Street #102, San Francisco, CA 94108.
   * If you reside in the rest of the world, you are contracting with Payward Pte. Ltd., 8 Tomasello Boulevard, #15-04, Suntec Tower Three, Singapore 038988.
 
