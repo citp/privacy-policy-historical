@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gettingpersonal.co.uk privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628113553id_/https%3A//www.gettingpersonal.co.uk/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gettingpersonal.co.uk privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228173121id_/https%3A//www.gettingpersonal.co.uk/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | GettingPersonal.co.uk
 
@@ -37,17 +37,19 @@ Your use of the Website is also governed by the Website's general terms and cond
 
 (d) to fulfil our agreement with you and to process your purchases and obtain payment;
 
-(e) to notify you about important changes and developments the Website;
+(e) to send you email notifications and updates about your purchase;
 
-(f) to analyse and profile your purchasing preferences e.g. (market, customer and product analysis) to enable us to:
+(f) to notify you about important changes and developments the Website;
+
+(g) to analyse your purchasing preferences (for example, market, customer and product analysis) to enable us to:
 
 (i) to provide you with a personalised browsing experience when using the Website;
 
 (ii) to review, develop and improve the products which we offer and to enable us to provide you and other customers with relevant information through our marketing programme(s);
 
-(g) to make decisions about you using computerised or automated technology, for example automatically selecting products which we think will be of interest to you;
+(h) to make decisions about you using computerised or automated technology, for example automatically selecting products which we think will be of interest to you; and
 
-(h) where you have consented, to send you information about our products and services (including goods and services of other companies within our group) including special offers, discounts, offers, competitions which we consider may be of interest to you by any of the following methods: 
+(i) where you have consented, or where we have a legitimate business interest to do so, to send you information about our products and services (including goods and services of other companies within our group) including special offers, discounts, offers, competitions which we consider may be of interest to you by any of the following methods: 
 
 (i) email;
 
@@ -204,7 +206,7 @@ _Disabling cookies_
 
 10.2 We take the following measures to prevent spam:
 
-(a) mailing list subscribers must opt-in to our emails to receive them. The nature of the emails people will be sent is fully disclosed, both on the page on which the subscription is made and with a prominent link to this policy;
+(a) mailing list subscribers must opt-in or otherwise qualify to form part of our mailing list to receive our emails. The nature of the emails people will be sent is fully disclosed, both on the page on which the subscription is made and with a prominent link to this policy;
 
 (b) we do not use bought-in lists, rented lists or lists that use appended email addresses;
 
@@ -242,4 +244,4 @@ _Disabling cookies_
 
 13.2 All comments, queries and requests relating to our use of your information are welcomed and should be addressed to legal@cardfactory.co.uk.
 
-13.3 This policy was last updated on 10 May 2018.
+13.3 This policy was last updated on 10 October 2018.
