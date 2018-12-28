@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerlineblog.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628004505id_/http%3A//www.powerlineblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerlineblog.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228071642id_/https%3A//www.powerlineblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Power Line
 
@@ -82,4 +82,4 @@ Third party vendors, including Google, use cookies to serve ads based on a user�
 
 Google’s use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
 
-Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting the [ads preference manager](http://www.google.com/ads/preferences/). (Alternatively, you can direct users to opt out of a third-party vendor’s use of cookies for interest based advertising by visiting aboutads.info.)
+Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting the [ads preference manager](https://www.google.com/ads/preferences/). (Alternatively, you can direct users to opt out of a third-party vendor’s use of cookies for interest based advertising by visiting aboutads.info.)
