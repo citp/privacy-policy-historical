@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gurufocus.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627132343id_/https%3A//www.gurufocus.com/Privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gurufocus.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228211925id_/https%3A//www.gurufocus.com/Privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy of GuruFocus.com
 
@@ -25,7 +25,7 @@ Modifications of this Privacy Policy
 GuruFocus.com LLC reserves the right to change the terms, conditions, and notices in this privacy policy. 
 
 Contact Us   
-If you have questions about this privacy policy, please [ contact us](http://www.gurufocus.com/contact.htm) at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you have questions about this privacy policy, please [ contact us](http://www.gurufocus.com/contact.htm) at gurufocu@GuruFocus.com
 
 |    
 
