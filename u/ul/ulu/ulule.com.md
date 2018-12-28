@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ulule.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627194207id_/https%3A//www.ulule.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ulule.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228024104id_/https%3A//www.ulule.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy - Ulule
 
@@ -26,13 +26,13 @@ Ulule SAS develops and operates the Ulule crowdfunding platform. It puts project
 
 −         The parties who may receive data from Ulule are mainly our subcontractors, project owners, Ulule partners, if your project is participating in a partner operation, and the judicial and administrative authorities.
 
-−         You have rights. These consist of the right to access, correct , delete and restrict processing, the right to object to the processing of your data, the right to define, modify and revoke instructions governing what happens to your data after your death, and the right to lodge a complaint with the CNIL (French data protection authority). Subject to providing proof your identity and complying with the conditions imposed by current legislation, you can exercise these rights by writing to us at the following email address: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) onto this postal address: ULULE SAS, 8 rue Saint Fiacre, 75002 Paris, FRANCE.
+−         You have rights. These consist of the right to access, correct , delete and restrict processing, the right to object to the processing of your data, the right to define, modify and revoke instructions governing what happens to your data after your death, and the right to lodge a complaint with the CNIL (French data protection authority). Subject to providing proof your identity and complying with the conditions imposed by current legislation, you can exercise these rights by writing to us at the following email address: privacy@ulule.com onto this postal address: ULULE SAS, 8 rue Saint Fiacre, 75002 Paris, FRANCE.
 
 −      The periods for which we store your data vary according to the nature of the data concerned, the purposes for which they were collected and the legal limitation period (generally five years from the time when persons wishing to exercise a right have had or should have had knowledge of the facts enabling them to exercise the right), except in the case of pre-litigation or litigation.
 
 −      Your data may be transferred outside the European Union. We will transfer certain data to our subcontractors, partners or service providers, such as our hosters, email dispatch management tools, etc. If they are transferred outside the European Union, we make every effort to ensure that they are transferred to countries where the personal data protection level has been recognised as adequate by the European Commission, or that the European Commission's standard contractual clauses apply to our service providers or partners.
 
-−      We have appointed a data protection officer, who can be contacted at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or at the following postal address: ULULE SAS, Data Protection Officer, 8 rue Saint Fiacre, 75002 Paris, FRANCE.
+−      We have appointed a data protection officer, who can be contacted at dpo@ulule.com or at the following postal address: ULULE SAS, Data Protection Officer, 8 rue Saint Fiacre, 75002 Paris, FRANCE.
 
 For further information, we invite you to read the Privacy Policy below.
 
@@ -242,7 +242,7 @@ According to the conditions defined in articles 15 and thereafter of the GDPR, a
 
 You also have the right to appoint a third party to whom data concerning you can be communicated after your death. You then undertake to inform this party of your approach and the fact that data enabling them to be unambiguously identified are transmitted to us, and to communicate this Privacy Policy to them.
 
-Subject to proving your identity and the above-mentioned information, you can exercise your rights by writing to us, at either [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or the following postal address: ULULE SAS, 8 rue Saint Fiacre, 75002 Paris, FRANCE.
+Subject to proving your identity and the above-mentioned information, you can exercise your rights by writing to us, at either privacy@ulule.com or the following postal address: ULULE SAS, 8 rue Saint Fiacre, 75002 Paris, FRANCE.
 
 If you have an account on the[ ](https://fr.ulule.com/)[Ulule.com](https://fr.ulule.com/) website, you can correct and delete certain information via your user account.
 
@@ -382,8 +382,8 @@ With regard to the services we offer, and the purposes mentioned in point 2, we 
 
 If your data are transferred outside the European Economic Area, Ulule will take every necessary precaution. It will ensure, in particular, that your data are transferred to countries whose level of personal data protection has been acknowledged as adequate by the European Commission; if not, that the standard contractual clauses of this Commission apply.
 
-If you send a request to our Data Protection Officer ([[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)), we can provide you with more information about such transfers (particularly as regards the European Commission's standard contractual clauses).
+If you send a request to our Data Protection Officer (dpo@ulule.com), we can provide you with more information about such transfers (particularly as regards the European Commission's standard contractual clauses).
 
 8\.                    Who is your contact person at Ulule to answer your questions on personal data?
 
-We have appointed a data protection officer, who is your contact for all questions regarding the processing of your data by Ulule. This officer can be contacted at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or the following postal address: ULULE SAS, 8 rue Saint Fiacre, 75002 Paris, FRANCE.
+We have appointed a data protection officer, who is your contact for all questions regarding the processing of your data by Ulule. This officer can be contacted at dpo@ulule.com or the following postal address: ULULE SAS, 8 rue Saint Fiacre, 75002 Paris, FRANCE.
