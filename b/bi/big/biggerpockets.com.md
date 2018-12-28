@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biggerpockets.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628180129id_/https%3A//www.biggerpockets.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biggerpockets.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228235544id_/https%3A//www.biggerpockets.com/privacy) for the most accurate reproduction.*
 
 # BiggerPockets Privacy Policy
 
@@ -18,7 +18,7 @@ This Policy may be supplemented or amended from time to time by additional priva
 
 ### Your Consent
 
-By using this Site, you are consenting to the collection, use, disclosure, and transfer of your information as described in this Policy (and any Privacy Notices that apply to you). If you do not consent to the collection, use, disclosure and transfer of your information as described in this Policy (and any Privacy Notices that apply to you), you may not use this Site. If you have questions about this Policy, or any Privacy Notice, please contact us via e-mail at legal@biggerpockets.com. 
+By using this Site, you are consenting to the collection, use, disclosure, and transfer of your information as described in this Policy (and any Privacy Notices that apply to you). If you do not consent to the collection, use, disclosure and transfer of your information as described in this Policy (and any Privacy Notices that apply to you), you may not use this Site. If you have questions about this Policy, or any Privacy Notice, please contact us via e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 ### Our Terms of Use
 
@@ -28,7 +28,7 @@ This Policy is part of the [Terms of Use](http://www.biggerpockets.com/terms) th
 
 _In General._ We respect your right to make choices about the ways we collect, use, and disclose your information. This Policy describes some of your choices, such as your choice to opt out of receiving “cookies” and to opt out of having your information shared with third parties for their own marketing purposes. In addition, and as required by applicable law, you can opt out of receiving promotional emails from us by clicking on the “unsubscribe” link at the bottom of each promotional email. 
 
-We may ask you to indicate your choices at the time and on the page where you provide your information. In other situations, and consistent with this Site’s purpose as a networking platform, we make certain assumptions about how you want your information shared with others. However, you can view and change certain default privacy settings at https://www.biggerpockets.com/settings. Otherwise, you can contact us at webmaster@biggerpockets.com. 
+We may ask you to indicate your choices at the time and on the page where you provide your information. In other situations, and consistent with this Site’s purpose as a networking platform, we make certain assumptions about how you want your information shared with others. However, you can view and change certain default privacy settings at https://www.biggerpockets.com/settings. Otherwise, you can contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 _Do Not Track Mechanisms_  
 California law requires this policy to address how the Service responds to any “Do-Not-Track (“DNT”) signal” delivered by your browser. Because of the changing state of technology and indecision within the industry regarding the meaning of DNT signals, we currently do not make any guarantee that we will honor DNT signals.
@@ -134,7 +134,7 @@ This Site may also contain links to websites that are not operated by BiggerPock
 
 ### Access to Your Information 
 
-If you would like to review, correct and update the personal information you have provided to us through this Site, you may be able to do so at https://www.biggerpockets.com/profile/basics. Otherwise, please contact us by email at webmaster@biggerpockets.com. We will respond to your request within the time limit set out by the applicable privacy legislation. We will use reasonable efforts to comply with your request as required by applicable law. 
+If you would like to review, correct and update the personal information you have provided to us through this Site, you may be able to do so at https://www.biggerpockets.com/profile/basics. Otherwise, please contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) We will respond to your request within the time limit set out by the applicable privacy legislation. We will use reasonable efforts to comply with your request as required by applicable law. 
 
 ### Retention of Personal Information
 
@@ -150,4 +150,4 @@ This Policy shall be governed under the laws of the State of Colorado United Sta
 
 ### Questions About This Policy or BiggerPockets’s Data Practices
 
-If you have questions or concerns about this Policy, any Privacy Notice, or BiggerPockets’s data practices, please contact us by email at legal@biggerpockets.com. 
+If you have questions or concerns about this Policy, any Privacy Notice, or BiggerPockets’s data practices, please contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
