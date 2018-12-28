@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the devilonwheels.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620105230id_/http%3A//devilonwheels.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devilonwheels.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228064855id_/https%3A//devilonwheels.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Devil On Wheels™
 
-This Privacy Policy governs the manner in which devilonwheels.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://devilonwheels.com](http://devilonwheels.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by devilonwheels.com.
+This Privacy Policy governs the manner in which devilonwheels.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the [https://devilonwheels.com](https://devilonwheels.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by devilonwheels.com.
 
 ##### Personal identification information
 
@@ -53,7 +53,7 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 ##### Google Adsense
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html)
 
 ##### Changes to this privacy policy
 
