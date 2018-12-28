@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pscsoftware.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628171941id_/http%3A//www.pscsoftware.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pscsoftware.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228182015id_/http%3A//www.pscsoftware.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | PSC Software
 
-This site is owned and operated by [PSC Biotech](https://web.archive.org/web/20180628171941id_/http%3A//www.pscsoftware.com/company/www.biotech.com). Your privacy on the Internet is of the utmost importance to us. At PSC, we want to make your experience online satisfying and safe 
+This site is owned and operated by [PSC Biotech](https://web.archive.org/web/20181228182015id_/http%3A//www.pscsoftware.com/company/www.biotech.com). Your privacy on the Internet is of the utmost importance to us. At PSC, we want to make your experience online satisfying and safe 
 
 Because we gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it. 
 
