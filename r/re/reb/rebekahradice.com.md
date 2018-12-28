@@ -1,69 +1,91 @@
-> *The following text is extracted and transformed from the rebekahradice.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627214549id_/https%3A//rebekahradice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rebekahradice.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228043052id_/https%3A//rebekahradice.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Rebekah Radice
 
-This Privacy Policy governs the manner in which RebekahRadice.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the https://rebekahradice.com website (“Site”). This privacy policy applies to the Site and all products and services offered by RebekahRadice.com.
+Protecting your private information is our priority. This Statement of Privacy applies to www.rebekahradice.com and RebekahRadice.com and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to RebekahRadice.com include www.rebekahradice.com, RR, RadiantLA.com and RadiantLA.com. The RR website is a news and information site. By using the RR website, you consent to the data practices described in this statement.
 
- **Personal identification information**
+#### Collection of your Personal Information
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+In order to better provide you with products and services offered on our Site, RR may collect personally identifiable information, such as your:
 
- **Non-personal identification information**
+– First and Last Name  
+– E-mail Address
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+If you purchase RR’s products and services, we collect billing and credit card information. This information is used to complete the purchase transaction.
 
- **Web browser cookies**
+Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through RR’s public message boards, this information may be collected and used by others.
 
-Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+We do not collect any personal information about you unless you voluntarily provide it to us. However, you may be required to provide certain personal information to us when you elect to use certain products or services available on the Site. These may include: (a) registering for an account on our Site; (b) entering a sweepstakes or contest sponsored by us or one of our partners; (c) signing up for special offers from selected third parties; (d) sending us an email message; (e) submitting your credit card or other payment information when ordering and purchasing products and services on our Site. To wit, we will use your information for, but not limited to, communicating with you in relation to services and/or products you have requested from us. We also may gather additional personal or non-personal information in the future.
 
- **How we use collected information**
+#### Use of your Personal Information
 
-RebekahRadice.com may collect and use Users personal information for the following purposes:
+RR collects and uses your personal information to operate its website(s) and deliver the services you have requested.
 
-– To improve customer service Information you provide helps us respond to your customer service requests and support needs more efficiently.
+RR may also use your personally identifiable information to inform you of other products or services available from RR and its affiliates.
 
-– To improve our Site We may use feedback you provide to improve our products and services.
+Sharing Information with Third Parties
 
-– To process payments We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
+RR does not sell, rent or lease its customer lists to third parties.
 
-– To send periodic emails We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
+RR may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. RR may share data with trusted partners to help perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to RR, and they are required to maintain the confidentiality of your information.
 
- **How we protect your information**
+RR may disclose your personal information, without notice, if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on RR or the site; (b) protect and defend the rights or property of RR; and/or (c) act under exigent circumstances to protect the personal safety of users of RR, or the public.
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site. Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
+#### Tracking User Behavior
 
- **Sharing your personal information**
+RR may keep track of the websites and pages our users visit within RR, in order to determine what RR services are the most popular. This data is used to deliver customized content and advertising within RR to customers whose behavior indicates that they are interested in a particular subject area.
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
+Tracking what users want, care about and interact with on this website through the use of heatmaps that visually represent clicks, taps and scrolling behavior.
 
- **Third party websites**
+#### Automatically Collected Information
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
+Information about your computer hardware and software may be automatically collected by RR. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the RR website.
 
- **Advertising**
+#### Use of Cookies
 
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+The RR website may use “cookies” to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
- **Google Adsense**
+One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize RR pages, or register with RR site or services, a cookie helps RR to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same RR website, the information you previously provided can be retrieved, so you can easily use the RR features that you customized.
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the RR services or websites you visit.
 
- **Changes to this privacy policy**
+#### Links
 
-RebekahRadice.com has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+This website contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.  
+Security of your Personal Information
 
- **Your acceptance of these terms**
+RR secures your personal information from unauthorized access, use, or disclosure. RR uses the following methods for this purpose:
 
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+– SSL Protocol
 
- **Contacting us**
+When personal information (such as a credit card number) is transmitted to other websites, it is protected through the use of encryption, such as the Secure Sockets Layer (SSL) protocol.
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: RebekahRadice.com
+We strive to take appropriate security measures to protect against unauthorized access to or alteration of your personal information. Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, you acknowledge that: (a) there are security and privacy limitations inherent to the Internet which are beyond our control; and (b) security, integrity, and privacy of any and all information and data exchanged between you and us through this Site cannot be guaranteed.
 
-https://rebekahradice.com
+#### Children Under Thirteen
 
-rebekah@rebekahradice.com
+RR does not knowingly collect personally identifiable information from children under the age of thirteen. If you are under the age of thirteen, you must ask your parent or guardian for permission to use this website.
 
-This document was last updated on August 18, 2016
+#### E-mail Communications
 
-Privacy policy created by Generate Privacy Policy
+From time to time, RR may contact you via email for the purpose of providing announcements, promotional offers, alerts, confirmations, surveys, and/or other general communication. In order to improve our Services, we may receive a notification when you open an email from RR or click on a link therein.
+
+If you would like to stop receiving marketing or promotional communications via email from RR, you may opt out of such communications by Customers may unsubscribe from emails by clicking unsubscribe within an email or emailing help@rebekahradice.com..
+
+#### Changes to this Statement
+
+RR reserves the right to change this Privacy Policy from time to time. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your account, by placing a prominent notice on our site, and/or by updating any privacy information on this page. Your continued use of the Site and/or Services available through this Site after such modifications will constitute your: (a) acknowledgment of the modified Privacy Policy; and (b) agreement to abide and be bound by that Policy.
+
+#### Contact Information
+
+RR welcomes your questions or comments regarding this Statement of Privacy. If you believe that RR has not adhered to this Statement, please contact RR at:
+
+RebekahRadice.com
+
+Email Address:
+
+help@rebekahradice.com
+
+Effective as of May 06, 2018
+
+Full disclosure: Some of the links in this post are affiliate links which means that if you decide to buy, I will earn a commission. 3 things you need to know: I only recommend products I use within my own business, am extremely happy with, and can confidently promote.
