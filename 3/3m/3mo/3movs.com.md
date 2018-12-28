@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 3movs.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628082520id_/https%3A//www.3movs.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3movs.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228143127id_/https%3A//www.3movs.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - 3 Movs
 
-Effective Date: June 28, 2018   
+Effective Date: December 28, 2018   
 Last Modified: December 28, 2013   
 Site(s) Covered: www.3movs.com 
 
