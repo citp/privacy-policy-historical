@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cashmoneyaffiliate.com privacy policy that was archived on 2018-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180504101901id_/http%3A//cashmoneyaffiliate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashmoneyaffiliate.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228090631id_/http%3A//cashmoneyaffiliate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Temimarketing LTD (“We”) are committed to protecting and respecting your privacy.
 
-This policy (together with our terms of use [http://cashmoneyaffiliate.com/terms-conditions/](http://cashmoneyaffiliate.com/terms-conditions/) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. We keep certain basic information when you visit our website and recognise the importance of keeping that information secure and letting you know what we will do with it.
+This policy (together with our terms of use [https://cashmoneyaffiliate.com/terms-conditions/](https://cashmoneyaffiliate.com/terms-conditions/) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. We keep certain basic information when you visit our website and recognise the importance of keeping that information secure and letting you know what we will do with it.
 
 For the purpose of the Data Protection Act 1998 (the Act), the data controller is Temimarketing LTD of 20-22 Wenlock Road, London N1 7GU.
 
