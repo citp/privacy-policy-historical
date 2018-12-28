@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newgrounds.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625062947id_/https%3A//www.newgrounds.com/wiki/help-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newgrounds.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228234142id_/https%3A//www.newgrounds.com/wiki/help-information/privacy-policy) for the most accurate reproduction.*
 
 # Newgrounds Wiki - Privacy Policy
 
