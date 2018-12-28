@@ -1,14 +1,20 @@
-> *The following text is extracted and transformed from the stitcher.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628033042id_/https%3A//www.stitcher.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stitcher.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228032017id_/https%3A//www.stitcher.com/privacy) for the most accurate reproduction.*
 
 # Stitcher Radio | Privacy Statement
 
-Stitcher knows that you care about how your personal information is used and shared and we take your privacy seriously. This Privacy Policy discloses our privacy practices and the possible uses of the information that Stitcher, Inc. (“Stiticher”) gathers via our website at [http://www.stitcher.com](https://web.archive.org/), the Stitcher mobile application, and any other submissions by you to Stitcher (together, the “Services”). This Privacy Policy is supplementary to our [Terms of Use](https://web.archive.org/terms.php). 
+Last Revision: 11/26/2012
+
+Stitcher knows that you care about how your personal information is used and shared and we take your privacy seriously. This Privacy Policy discloses our privacy practices and the possible uses of the information that Stitcher, Inc. (“Stiticher”) gathers via our website at [https://www.stitcher.com](https://web.archive.org/), the Stitcher mobile application, and any other submissions by you to Stitcher (together, the “Services”). This Privacy Policy is supplementary to our [Terms of Use](https://web.archive.org/terms.php). 
 
 **BY INSTALLING, USING, REGISTERING FOR OR OTHERWISE ACCESSING THE SERVICES, YOU AGREE TO THIS PRIVACY POLICY AND GIVE AN EXPLICIT AND INFORMED CONSENT TO THE PROCESSING OF YOUR PERSONAL DATA IN ACCORDANCE WITH THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, PLEASE DO NOT INSTALL, USE, REGISTER TO OR OTHERWISE ACCESS THE SERVICES.**
 
-Stitcher may update this Privacy Policy from time-to-time at our sole discretion. It is your responsibility to review the Privacy Policy for any changes each time that you use our Services and you are bound by such changes. Use of the Services by you following the posting of a new privacy policy on our website at [http://www.stitcher.com](https://web.archive.org/) constitutes your acceptance of the Privacy Policy as modified. 
+Stitcher may update this Privacy Policy from time-to-time at our sole discretion. It is your responsibility to review the Privacy Policy for any changes each time that you use our Services and you are bound by such changes. Use of the Services by you following the posting of a new privacy policy on our website at [https://www.stitcher.com](https://web.archive.org/) constitutes your acceptance of the Privacy Policy as modified. 
+
+## What information do we collect, and how do we use it?
 
 Stitcher collects information about our users in various ways, including by your voluntary submissions, participation in and access to the Services, as well as through cookie and other tracking technology. The information Stitcher collects may be used in a variety of ways, including for internal review, to improve the Services, to notify you about updates to the Services,or promotions that you may be interested in, and to fulfill and provide Services requested by you. The information we collect currently includes, but is not limited to, the following: 
+
+## Non-Personal Data
 
 For purposes of this Privacy Policy, “Non-Personal Data” means information that does not directly identify you, including "aggregate" and "de-personalized" information, which is data Stitcher collects about the use of Stitcher, from which any personally identifiable data has been removed. 
 
@@ -21,6 +27,8 @@ Stitcher may automatically collect non-personally identifiable information and d
 Tracking technologies may record information such as Internet domain and host names; Internet protocol (IP) addresses; browser software and operating system types; clickstream patterns; and dates and times that our Services are accessed. An IP address is a number that is automatically assigned to your computer whenever you are surfing the web. Web servers, the computers that 'serve up' webpages, automatically identify your computer by its IP address. We may link the information we record using tracking technologies to Personal Information we collect from you for our own marketing and advertising purposes. In addition, we reserve the right to use IP addresses and other tracking technologies to identify a visitor only when we feel it is necessary to enforce compliance with our [Terms Of Use](https://web.archive.org/terms.php), to protect our Services, our customers or others, or when we believe in good faith that the law requires it. 
 
 You recognize and agree that the analytics companies and marketing partners utilized by Stitcher may combine the information collected with other information they have independently collected from other services or products relating to your activities. These companies collect and use information under their own privacy policies. 
+
+## Personal Information
 
 "Personal Information" refers to information that tells us specifically who you are, such as your name, phone number, email, postal address, and possibly information relating to certain support or customer service issues. In many cases, we need this information to provide to you many of the Services that you may have requested. We use this Personal Information to manage and provide our Services, monitor user activity, and otherwise to improve our Services. We might ask for or collect additional Personal Information in the future. 
 
@@ -41,18 +49,32 @@ We do not disclose Personal Information to third parties, except when one or mor
 
 Prior to sharing of your Personal Information with others, agreements are made between Stitcher and such outside parties to whom we are sharing data. If Stitcher becomes aware that any such outside party is improperly using or disclosing Personal Information, it will notify that outside party and request that it take reasonable steps to cease such use or disclosure. 
 
+## Choice: Opt-In/Opt-Out
+
 You can also ask us whether we are keeping information about you; how your information is being used; update or delete your information, or opt-out of the collection and use of certain information by sending an email or by writing to us specifying the nature and scope of your request. If you choose to delete your information or opt-out of the collection and use of your information, you understand that the Services may no longer be available to you. Please state in your correspondence the details of your request. We may require proof of your identity before we provide you with the requested information. We allow you to challenge the data that we hold about you and, where appropriate, you may have the data erased, rectified, amended, or completed. Approved requests will be processed within ten (10) days of the date on which we receive the request. 
 
+## Email
+
 As part of our Services provided to you, we may send you email with news and other information. You may, at any time, opt-out of receiving these type of email from us; however, you agree that we may continue to use your email address from time to time to contact you about your account. 
+
+## Data Security
 
 The Personal Information you provide and we collect is stored within databases that we control directly or through our service providers. As we deem appropriate, we use security measures consistent with industry standards, such as firewalls, to protect your Personal Information. However, since no security system is impenetrable, we cannot guarantee the security of our databases, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. 
 
 Your information may be transferred to, and maintained on, computers located outside of your state, province, or country where the privacy laws may not be as protective as those where you live. If you are located outside the United States and choose to provide information to us, please be aware that we transfer Personal Information to the United States and process and store it there. By submitting your Personal Information, you consent to having your personal data transferred to, processed, and stored in the United States. 
 
+## Links to Other Sites
+
 Our Services may contain hyperlinks and pointers to Internet sites maintained by third parties. These links are provided for your reference only. We do not control, operate or endorse in any respect information, products or services on such third-party sites and are not responsible for their content. Many third-party sites have their own privacy policies that may differ from ours. This Privacy Policy only covers our Services and does not cover any other site. While we make every effort to keep your information secure, we do not control the policies of other sites. 
+
+## Children's Privacy
 
 We do not seek or knowingly collect any Personal Information about children under 13 years of age. If we become aware that we have unknowingly collected Personal Information from a child under the age of 13, we will make commercially reasonable efforts to delete such information from our database. 
 
+## Governing Law; Visitors Residing Outside the United States
+
 This Privacy Policy and the privacy practices of Stitcher will be subject exclusively to the laws of California, without regard to its conflict of law principles. Stitcher makes no representation that this Privacy Policy and such practices comply with the laws of any country outside the United States. 
+
+## How To Contact Us
 
 Should you have any questions relating to this Privacy Policy, please contact us at [support@stitcher.com](mailto:support@stitcher.com). You may also contact us by mail: Stitcher, Inc., 527 Howard St. 4th Floor San Francisco CA 94105. 
