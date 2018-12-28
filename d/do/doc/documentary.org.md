@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the documentary.org privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628185413id_/https%3A//www.documentary.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the documentary.org privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229004753id_/https%3A//www.documentary.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | International Documentary Association
 
