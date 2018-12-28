@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marchforourlives.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628050306id_/https%3A//marchforourlives.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marchforourlives.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228035152id_/https%3A//marchforourlives.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - March For Our Lives
 
@@ -59,7 +59,7 @@ We may use your Personal Information to send you relevant promotions, personaliz
 
 ##### YOUR PRIVACY CHOICES AND ACCESS
 
-You may opt out of receiving email updates, newsletters or text messages by following the instructions in those emails or text messages, contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5121233827303228113c30233239373e233e24233d382734227f323e3c). If you opt out, we may still send you other types of emails, such as those about your use of the Site or any donations or transactions.
+You may opt out of receiving email updates, newsletters or text messages by following the instructions in those emails or text messages, contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a1d1d3c8d7c0c2d8e1ccc0d3c2c9c7ced3ced4d3cdc8d7c4d28fc2cecc). If you opt out, we may still send you other types of emails, such as those about your use of the Site or any donations or transactions.
 
 If you wish to verify, correct, or update any of your Personal Information collected through the Site, you may contact us at the email or address included in the Contact Us section below. In accordance with our routine record keeping, we may delete certain records that contain Personal Information that you have submitted through the Site. We are under no obligation to store such Personal Information indefinitely and disclaim any liability arising out of, or related to, the destruction of such Personal Information. In addition, you should be aware that it is not always possible to completely remove or delete all of your information from our databases without some residual data because of backups or other technology-related reasons.
 
@@ -69,7 +69,7 @@ The Site may contain links to other sites, maintained by third parties. These li
 
 ##### CHILDREN
 
-We do not knowingly collect information from children under 13 years of age. If we learn that a child under the age of 13 has provided us with any Personal Information without first receiving their parent or guardian’s verified consent, we will use that information only to respond directly to that child (or his or her parent or legal guardian) to inform the child that he or she cannot use the Site. We will then dispose of such Personal Information in accordance with this Privacy Policy. If you believe we may have any information from or about a child under the age of 13, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f282809b8493918bb29f9380919a949d809d87809e9b849781dc919d9f).
+We do not knowingly collect information from children under 13 years of age. If we learn that a child under the age of 13 has provided us with any Personal Information without first receiving their parent or guardian’s verified consent, we will use that information only to respond directly to that child (or his or her parent or legal guardian) to inform the child that he or she cannot use the Site. We will then dispose of such Personal Information in accordance with this Privacy Policy. If you believe we may have any information from or about a child under the age of 13, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#dbaba9b2adbab8a29bb6baa9b8b3bdb4a9b4aea9b7b2adbea8f5b8b4b6).
 
 ##### ACCESSING OUR SITE GLOBALLY – TRANSFER OF DATA
 
@@ -89,4 +89,4 @@ We may update and post revisions to this Privacy Policy from time to time and wi
 
 ##### CONTACT US
 
-If you have any questions or concerns about this Privacy Policy, please contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3646445f4057554f765b5744555e5059445943445a5f4053451855595b).
+If you have any questions or concerns about this Privacy Policy, please contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b5c5c7dcc3d4d6ccf5d8d4c7d6ddd3dac7dac0c7d9dcc3d0c69bd6dad8).
