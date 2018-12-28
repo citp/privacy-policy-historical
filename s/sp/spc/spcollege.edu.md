@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spcollege.edu privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628151605id_/http%3A//www.spcollege.edu/community/about/compliance-statements%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spcollege.edu privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228054642id_/http%3A//www.spcollege.edu/community/about/compliance-statements%23privacy) for the most accurate reproduction.*
 
 # Compliance Statements || St. Petersburg College
 
@@ -24,7 +24,7 @@ If you have other questions about our privacy policies, or have ideas about impr
 
 [*Google Privacy Policy](http://www.google.com/intl/en/privacy/privacy-policy.html)
 
-[SPC's Social Media Guidelines](http://www.spcollege.edu/Documents/social/Social-Media-Guidelines.pdf "SPC Social Networking and Media Guidelines")
+[SPC's Social Media Guidelines](http://www.spcollege.edu/Documents/social/SPC-Social-Media-Guidelines.pdf "SPC Social Networking and Media Guidelines")
 
 ## Social Security Number Usage
 
@@ -91,9 +91,92 @@ Review complete statutory requirements for:
 
 
 
-## Site Disclaimer
+## Crime Reports
 
-These pages are for information only and do not constitute a contract between the applicant/student and the college. The college reserves the right to change, modify or alter without notice all fees, charges, tuition, expenses and costs of any kind and further reserves the right to add or delete without notice any course offering or information on these pages. The college further reserves the right to change any provision or requirement when such action becomes necessary.
+The [Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act](https://ope.ed.gov/campussafety/#/) is the landmark federal law, originally known as the Campus Security Act, that requires colleges and universities across the United States to disclose information about crime on and around their campuses. The definitions used for purposes of these reports are particular to the act and may not be entirely consistent with those definitions used by other entities that collect crime information.
+
+The act requires universities to report statistics for the three most recent years. The statistics were gathered from police reports, college security reports and from reports made to Campus Security authorities. The college's Campus Security authorities for purposes of this report include: college security, provosts, associate provosts and their professional staffs, Disability Resources counselors, academic advisers in all divisions, student organization advisers, athletic coaches, sports club advisers and visitor control attendants. A formal police report or investigation is not needed in order for a crime report to be included in the statistics. The act also requires reporting of not only arrests for liquor law, drug law, and illegal weapons violations, but also referrals for college disciplinary actions of both students and employees based on these violations. A recent clarification in the act requires reporting of not only disciplinary referrals for students but referrals of employees. Therefore, the statistics as of 2002 reflect referrals of students and employees.
+
+**Campus Crime Reports**
+
+The Clery Act, a federal law, requires colleges and universities that receive federal money to report statistics regarding criminal activity on campus and in the neighboring area for the three most recent years, as well as safety information, to the campus community.
+
+  * [2015-2017 Campus Crime Statistics Report](http://www.spcollege.edu/Documents/community/about/SPC-crime-report-stats.pdf "SPC crime report statistics 2015-17")
+
+
+
+**Annual Security Reports**
+
+  * [Annual Security Report 2017-18](http://www.spcollege.edu/Documents/Annual-Security-Report-2018-19.pdf "annual security report")
+  * [Emergency Notification System Policy and Protocols ](http://www.spcollege.edu/Documents/Notification-protocols.pdf "Notification Protocols")
+
+
+
+## Custodian of Public Records
+
+**Request for Public Records**  
+Public records requests may be made in person, in writing, or by phone. To request records you may contact a representative of the General Counsel's Office, St. Petersburg College:
+
+  * Phone: (727)341-3325, Jannis Mascoll, Sr. Administrative Services Specialist, General Counsel's Office
+  * Email: [mascoll.jannis@spcollege.edu](mailto:mascoll.jannis@spcollege.edu)
+  * Mail: General Counsel's Office, St. Petersburg College, PO Box 13489, St. Petersburg, Florida, 3373-33489, or in person at the District Office, 6021 142nd Avenue N, Clearwater, Florida.
+
+
+
+Requests made by the media may be made by contacting the Public Information Officer (PIO) for St. Petersburg College, Rita Farlow, (Executive Director, Marketing & Strategic Communications) as follows:
+
+  * Phone: (727)302-6526
+  * Email: [farlow.rita@spcollege.edu](mailto:farlow.rita@spcollege.edu)
+  * Mail: Marketing & Strategic Communications, St. Petersburg College, PO Box 13489, St. Petersburg, Florida, 3373-33489
+
+
+
+For purposes of compliance with the requirements of Section 119.12, F.S., the Office of the General Counsel shall serve as the general Custodian of Public Records, specifically for the purpose of receiving written notice regarding the filing of a civil action to enforce the provisions of Florida's public records laws.
+
+At least five (5) business days before filing a civil action, the requestor must provide written notice identifying the public records request(s) at issue to:  
+St. Petersburg College, Office of the General Counsel  
+PO Box 13489, St. Petersburg, Florida 33733  
+Attn: Public Records Custodian
+
+Questions may also be directed to the Office of General Counsel, at (727)341-3325 or (727)341-3160.
+
+**Public Records**  
+**Chapter 119 of the Florida Statutes** is known as the Florida Public Records Act. Any person may request access to public records of St. Petersburg College for any reason. The process of requesting, identifying and producing such records are subject to the provisions of Florida law and the policies adopted by the Board of Trustees, St. Petersburg College.  
+Florida law defines "public records" as: all documents, papers, letters, maps, books, tapes, photographs, films, sound recordings, data processing software or other material, regardless of physical form, or characteristics, or means of transmission, made or received pursuant to law or ordinance or in connection with the transaction of official business by any agency. State and federal laws exempt certain types of public records, or portions thereof, from disclosure under the public records law.  
+Exemptions that frequently apply to St. Petersburg College records include but are not limited to:
+
+  * Education records under FERPA
+  * Social Security Numbers
+  * Disciplinary records in certain cases
+  * Personal information regarding certain public officers or their families
+  * Academic evaluations of employees performance
+  * Records of the College's direct-support organizations (DSO)
+
+
+
+Documents that are public records but contain exempt information will be produced after removing the exempt information, unless the exempt information in the document is so extensive that removal is not feasible. The determination of which documents or information is exempt from the public records law will be made by the Office of the General Counsel.  
+What constitutes a reasonable period of time depends upon the circumstances surrounding the request, including the nature of the request, the size of the request, the likely quantity of records to be produced, whether extensive use of information technology resources or clerical services are required, and the timing of the request and the College calendar.  
+If copies are made for the requestor there is a charge of:
+
+  * $0.15 per page
+  * $0.20 per double-sided copies
+
+
+
+In addition to the duplications cost above, if retrieving or copying the public records requires **_extensive_** use of information technology resources or clerical and/or supervisory assistance, the College will assess a reasonable service charge based on the college's actual incurred costs. Reimbursement for these charges may be made to the department or unit that incurred the charge. An estimate of the charges will be given to the requestor prior to responding to the request. All charges will be collected before producing the requested documents. The College follows the 'Extensive Request' definition outlined in Section 119.07(4) (d), Florida Statute.
+
+## REPORTING ABUSE OF A MINOR ON COLLEGE PROPERTY OR DURING ANY COLLEGE SPONSORED ACTIVITY OR EVENT
+
+Under Florida Law, all persons have a legal obligation to report suspected instances of child abuse, neglect or abandonment, regardless of whether an alleged perpetrator is the child's parent, legal custodian, caregiver or other person responsible for the child's welfare.
+
+Any student, employee or visitor to the campus who has knowledge of, or has reasonable cause to suspect, the abuse, neglect or abandonment of a minor shall report such knowledge or suspicion to the Florida Department of Children and Family through its Florida Abuse Hotline. If you suspect or know of an instance where a child was abused, neglected or abandoned on college property during a college sponsored activity, event or function, you must immediately report that information to Campus Security and the Provost on your campus and report such information on the **Florida Abuse Hotline at 1-800-962-2873** or on the [Florida Department of Children and Families website](http://www.myflfamilies.com/service-programs/abuse-hotline/report-online).
+
+## Reporting Fraud and Improper Activities
+
+All members of the College's faculty and staff have a responsibility to report known or suspected instances of fraud or other financial irregularities, ethical violations and improper activities.  Improper activities may include mismanagement, malfeasance, and misuse or neglect of public funds and resources. **If you believe a possible fraud or other violation has occurred, report it to your supervisor or the institutional Compliance Officer in accordance with college policy.** If, based on an administrative review, reasonable evidence of abuse or fraud exists, an investigation, or audit as may be appropriate, will ensue and all appropriate measures, including any necessary legal action, will be taken. You mat report anonymously.
+
+Compliance Phone Number: 727-341-4567  
+Compliance Email: [compliance@spcollege.edu](mailto:compliance@spcollege.edu)  
 
 ## Standards of Conduct for Employees and Trustees
 
@@ -112,35 +195,6 @@ _Specific situations covered in this policy and College Procedure include:_
 
 
 
-## Reporting Fraud and Improper Activities
+## Site Disclaimer
 
-All members of the College's faculty and staff have a responsibility to report known or suspected instances of fraud or other financial irregularities, ethical violations and improper activities.  Improper activities may include mismanagement, malfeasance, and misuse or neglect of public funds and resources. **If you believe a possible fraud or other violation has occurred, report it to your supervisor or the institutional Compliance Officer in accordance with college policy.** If, based on an administrative review, reasonable evidence of abuse or fraud exists, an investigation, or audit as may be appropriate, will ensue and all appropriate measures, including any necessary legal action, will be taken. You mat report anonymously.
-
-Compliance Phone Number: 727-341-4567  
-Compliance Email: [compliance@spcollege.edu](mailto:compliance@spcollege.edu)  
-
-## REPORTING ABUSE OF A MINOR ON COLLEGE PROPERTY OR DURING ANY COLLEGE SPONSORED ACTIVITY OR EVENT
-
-Under Florida Law, all persons have a legal obligation to report suspected instances of child abuse, neglect or abandonment, regardless of whether an alleged perpetrator is the child's parent, legal custodian, caregiver or other person responsible for the child's welfare.
-
-Any student, employee or visitor to the campus who has knowledge of, or has reasonable cause to suspect, the abuse, neglect or abandonment of a minor shall report such knowledge or suspicion to the Florida Department of Children and Family through its Florida Abuse Hotline. If you suspect or know of an instance where a child was abused, neglected or abandoned on college property during a college sponsored activity, event or function, you must immediately report that information to Campus Security and the Provost on your campus and report such information on the **Florida Abuse Hotline at 1-800-962-2873** or on the [Florida Department of Children and Families website](http://www.myflfamilies.com/service-programs/abuse-hotline/report-online).
-
-## Crime Reports
-
-The [Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act](https://ope.ed.gov/campussafety/#/) is the landmark federal law, originally known as the Campus Security Act, that requires colleges and universities across the United States to disclose information about crime on and around their campuses. The definitions used for purposes of these reports are particular to the act and may not be entirely consistent with those definitions used by other entities that collect crime information.
-
-The act requires universities to report statistics for the three most recent years. The statistics were gathered from police reports, college security reports and from reports made to Campus Security authorities. The college's Campus Security authorities for purposes of this report include: college security, provosts, associate provosts and their professional staffs, Disability Resources counselors, academic advisers in all divisions, student organization advisers, athletic coaches, sports club advisers and visitor control attendants. A formal police report or investigation is not needed in order for a crime report to be included in the statistics. The act also requires reporting of not only arrests for liquor law, drug law, and illegal weapons violations, but also referrals for college disciplinary actions of both students and employees based on these violations. A recent clarification in the act requires reporting of not only disciplinary referrals for students but referrals of employees. Therefore, the statistics as of 2002 reflect referrals of students and employees.
-
-**Campus Crime Reports**
-
-The Clery Act, a federal law, requires colleges and universities that receive federal money to report statistics regarding criminal activity on campus and in the neighboring area for the three most recent years, as well as safety information, to the campus community.
-
-  * [2014-2016 Campus Crime Statistics Report](http://www.spcollege.edu/Documents/community/about/SPC-crime-report-stats.pdf "SPC Crime and Incident Statistics 2014-16")
-
-
-
-**Annual Security Report**
-
-  * [Emergency Notification System Policy and Protocols ](http://www.spcollege.edu/Documents/community/about/Notification-protocols.pdf)
-
-
+These pages are for information only and do not constitute a contract between the applicant/student and the college. The college reserves the right to change, modify or alter without notice all fees, charges, tuition, expenses and costs of any kind and further reserves the right to add or delete without notice any course offering or information on these pages. The college further reserves the right to change any provision or requirement when such action becomes necessary.
