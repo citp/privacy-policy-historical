@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the gunsnfreedom.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625131841id_/http%3A//gunsnfreedom.com/disclaimer-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gunsnfreedom.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228025335id_/http%3A//gunsnfreedom.com/disclaimer-and-privacy-policy) for the most accurate reproduction.*
 
 # Affiliate Disclosure & Privacy
+
+[](http://3aaf4ohj-6ysbt4eud2ggm2p85.hop.clickbank.net/?tid=GNF1)
 
 ## **Privacy Policy for Gunsnfreedom.com**
 
@@ -18,6 +20,8 @@ Gunsnfreedom.com does use cookies to store information about visitors preference
 .:: Google, as a third party vendor, uses cookies to serve ads on Gunsnfreedom.com.  
 .:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to Gunsnfreedom.com and other sites on the Internet.  
 .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
+
+[](http://3aaf4ohj-6ysbt4eud2ggm2p85.hop.clickbank.net/?tid=GNF1)
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
 Google Adsense  
