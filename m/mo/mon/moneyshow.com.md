@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneyshow.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628215238id_/https%3A//www.moneyshow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyshow.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228235107id_/https%3A//www.moneyshow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -34,7 +34,7 @@ Anonymous information about our users in aggregate, such as a user's status as a
 
 Your personal information will not be sold or shared with any company not affiliated with MoneyShow.com or MoneyShow, without your permission, with the following exceptions: 
 
-  * In response to subpoenas, court orders, or legal process from law enforcement agencies or to defend against legal claims;
+  * In response to subpoenas, court orders, or legal process from law enforcement agencies or to defend against legal claims; 
   * We provide information to investigate or prevent suspected illegal activities. 
 
 
@@ -47,6 +47,6 @@ With your permission (through our "opt-in" messages on registration or special o
 
 CHANGES TO THIS POLICY: If our policy changes, we will post the new policy on the Web site and changes will be made applicable within 24 hours. Please check back often to review the latest changes.
 
-How to contact us about privacy issues: by mail, send correspondence to: Customer Service, MoneyShow.com or MoneyShow, 1258 North Palm Avenue, Sarasota, FL 34236. By e-mail send inquiries to: content@moneyshow.com. 
+How to contact us about privacy issues: by mail, send correspondence to: Customer Service, MoneyShow.com or MoneyShow, 50 Central Avenue, Suite 980, Sarasota, FL 34236. By e-mail send inquiries to: content@moneyshow.com. 
 
 Last updated: May 25, 2018
