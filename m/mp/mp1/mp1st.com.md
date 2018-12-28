@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mp1st.com privacy policy that was archived on 2018-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180301161937id_/https%3A//mp1st.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mp1st.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228224014id_/https%3A//mp1st.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MP1st
 
