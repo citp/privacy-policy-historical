@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sourcetreeapp.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628040658id_/http%3A//www.atlassian.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sourcetreeapp.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228103223id_/http%3A//www.atlassian.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Atlassian
 
-_Effective starting: May 25, 2018_  ([view archived versions](https://www.atlassian.com/legal/archives/))
+_Effective starting: November 1, 2018_  ([view archived versions](https://www.atlassian.com/legal/archives/))
 
 Key Changes
 
@@ -152,7 +152,7 @@ _**Business Transfers**_ : We may share or transfer information we collect under
 
 **Information storage and security**
 
-We use data hosting service providers in the United States and Ireland to host the information we collect, and we use technical measures to secure your data.  For more information on where we store your information, please see our [Cloud hosting infrastructure page](https://www.atlassian.com/trust/reliability/infrastructure).
+We use industry standard technical and organizational measures to secure the information we store.  For more information on where and how we store your information, please see our [Trust page](https://www.atlassian.com/trust). 
 
 While we implement safeguards designed to protect your information, no security system is impenetrable and due to the inherent nature of the Internet, we cannot guarantee that data, during transmission through the Internet or while stored on our systems or otherwise in our care, is absolutely safe from intrusion by others.
 
@@ -190,7 +190,8 @@ _**Request that we stop using your information**_ :  In some cases, you may as
 
 _**Opt out of  communications**_: You may opt out of receiving promotional communications from us by using the unsubscribe link within each email, updating your email preferences within your Service account settings menu, or by contacting us as provided below to have your contact information removed from our promotional email list or registration database.  Even after you opt out from receiving promotional messages from us, you will continue to receive transactional messages from us regarding our Services. You can opt out of some notification messages in your account settings. 
 
-You may be able to opt out of receiving personalized advertisements from other companies who are members of the Network Advertising Initiative or who subscribe to the Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising. For more information about this practice and to understand your options, please visit: [http://www.aboutads.info](http://www.aboutads.info/), <http://optout.networkadvertising.org/> and [http://www.youronlinechoices.eu](http://www.youronlinechoices.eu/). 
+You may be able to opt out of receiving personalized advertisements from other companies who are members of the Network Advertising Initiative or who subscribe to the Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising. For more information about this practice and to understand your options, please visit: [http://www.aboutads.info](http://www.aboutads.info/), <http://optout.networkadvertising.org/> and   
+[http://www.youronlinechoices.eu](http://www.youronlinechoices.eu/). 
 
 _**Turn off Cookie Controls**_ : Relevant browser-based cookie controls are described in our [Cookies & Tracking Notice](https://www.atlassian.com/legal/cookies).
 
@@ -198,13 +199,13 @@ _**Send "Do Not Track" Signals**_ : Some browsers have incorporated "Do Not Trac
 
 _**Data  portability**_: Data portability is the ability to obtain some of your information in a format you can move from one service provider to another (for instance, when you transfer your mobile phone number to another carrier).  Depending on the context, this applies to some of your information, but not to all of your information.  Should you request it, we will provide you with an electronic file of your basic account information and the information you create on the spaces you under your sole control, like your personal Bitbucket repository.  
 
-## How we transfer information we collect internationally 
+## How we transfer information we collect internationally
 
 **International transfers of information we collect**
 
-We collect information globally and primarily store that information in the United States and Ireland. We transfer, process and store your information outside of your country of residence, to wherever we or our third-party service providers operate for the purpose of providing you the Services.  Whenever we transfer your information, we take steps to protect it.  
+We collect information globally and may transfer, process and store your information outside of your country of residence, to wherever we or our third-party service providers operate for the purpose of providing you the Services.  Whenever we transfer your information, we take steps to protect it.  
 
-_**International transfers within the Atlassian Companies**_ : To facilitate our global operations, we transfer information to either Ireland or the United States and allow access to that information from countries in which the Atlassian owned or operated companies have operations for the purposes described in this policy. These countries may not have equivalent privacy and data protection laws to the laws of many of the countries where our customers and users are based. When we share information about you within and among Atlassian corporate affiliates, we make use of standard contractual data protection clauses, which have been approved by the European Commission, and we rely on the EU-U.S. and Swiss-U.S. Privacy Shield Framework to safeguard the transfer of information we collect from the European Economic Area and Switzerland. Please see our Privacy Shield notice below for more information or contact us as provided below.
+_**International transfers within the Atlassian Companies**_ : To facilitate our global operations, we transfer information globally and allow access to that information from countries in which the Atlassian owned or operated companies have operations for the purposes described in this policy. These countries may not have equivalent privacy and data protection laws to the laws of many of the countries where our customers and users are based. When we share information about you within and among Atlassian corporate affiliates, we make use of standard contractual data protection clauses, which have been approved by the European Commission, and we rely on the EU-U.S. and Swiss-U.S. Privacy Shield Framework to safeguard the transfer of information we collect from the European Economic Area and Switzerland. Please see our Privacy Shield notice below for more information or contact us as provided below.
 
 _**International transfers to third parties**_ : Some of the third parties described in this privacy policy, which provide services to us under contract, are based in other countries that may not have equivalent privacy and data protection laws to the country in which you reside. When we share information of customers in the European Economic Area or Switzerland, we make use of the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks, European Commission-approved standard contractual data protection clauses, binding corporate rules for transfers to data processors, or other appropriate legal mechanisms to safeguard the transfer. Please see our Privacy Shield Notice below.  
 
@@ -269,21 +270,29 @@ Your information is controlled by Atlassian Pty Ltd and Atlassian, Inc.  If yo
 
 Atlassian Pty Ltd  
 c/o Atlassian, Inc.  
-1098 Harrison Street  
-San Francisco, CA 94103  
+350 Bush Street  
+San Francisco, CA 94104  
 E-Mail: [privacy@atlassian.com](mailto:privacy@atlassian.com)
 
 EU Representative:
 
 Atlassian B.V.  
 c/o Atlassian, Inc.  
-1098 Harrison Street  
-San Francisco, CA 94103  
+350 Bush Street  
+San Francisco, CA 94104  
 E-Mail: [eudatarep@atlassian.com](mailto:privacy@atlassian.com)
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=540ec164-5d63-4016-9aa9-16be73ff682d)
 
 ## Key Changes
+
+**November 1, 2018**
+
+  * We are updating our Privacy Policy to reflect the expansion of our cloud data storage infrastructure
+
+
+
+May 25, 2018
 
   * Better navigation and user-friendly language. To make the policy easier to understand, we use clear, plain language and examples that illustrate our activities. We reformatted our privacy policy page with active links, so you can quickly find the information that matters most to you.  
   * How we integrate our products. We're always improving our products to give you a frictionless and customized experience. The updates to our policy describe the tools we’ve built to make our products smarter and allow you to move seamlessly from one Atlassian product to another.
