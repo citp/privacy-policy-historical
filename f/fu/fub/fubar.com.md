@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fubar.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606102729id_/http%3A//fubar.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fubar.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228224816id_/https%3A//fubar.com/privacy.php) for the most accurate reproduction.*
 
 # fubar.com: Terms of Service
 
