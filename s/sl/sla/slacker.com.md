@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slacker.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628051237id_/https%3A//www.slacker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slacker.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228113320id_/https%3A//www.slacker.com/privacy) for the most accurate reproduction.*
 
 # Slacker Radio | Privacy Policy
 
@@ -22,9 +22,13 @@ If you access Slacker Products and Services directly from a partner website, we 
 
 ### What kind of information do we collect?
 
-**Personal Information.** We collect Personal Information when you create an account to use the Slacker Products and Services, such as your name, email address, username, password, and billing and credit card information. 
+**Personal Information.** We collect Personal Information when you create an account by registering to use the Slacker Products and Services, such as your name, email address, username, password, and billing and credit card information. 
 
-You may also register by using your Facebook log-in credentials. When you log in with your Facebook credentials, we collect the Personal Information you have made publicly available in Facebook, such as your name and profile picture and use that information to register with Slacker. We may also obtain other information with your permission, such as your gender and date of birth. You control what information is shared from your Facebook profile by adjusting your Facebook privacy settings. 
+You may also register by using your Facebook log-in credentials. When you log in with your Facebook credentials, we collect the Personal Information you have made publicly available in Facebook, such as your name and profile picture and use that information to register with Slacker. We may also obtain other information with your permission, such as your gender and date of birth. You control what information is shared from your Facebook profile by adjusting your Facebook privacy settings. Note that it is mandatory for a user to provide Personal Information when they register or provide billing and credit card information to purchase certain levels of service. 
+
+If you subscribe to a paid level of service you will need to provide the information your credit card provider requires to complete a transaction. This information typically includes your name, billing address, the credit card expiration date, and the Card Verification Value (CVV) number displayed on your credit card. The subscriber credit card number and CVV are not stored by Slacker. 
+
+It is not mandatory for users to provide Personal Information if they elect to use the service without registering or paying for a subscription. 
 
 We may collect Personal Information when you subscribe to the Slacker newsletter, participate in forum discussions, or when you enter events, such as sweepstakes or contests. 
 
@@ -59,7 +63,7 @@ Slacker uses the information collected to:
 
 
 
-**Direct Marketing.** We do not rent, sell, or share Personal Information about you with other people or nonaffiliated companies for direct marketing purposes. We may allow access to other data collected by the Slacker Products and Services to enable the delivery of direct marketing and offers that will be of greatest utility, relevance, value, and interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/). 
+**Direct Marketing.** We do not rent, sell, or share Personal Information about you with other people or nonaffiliated companies for direct marketing purposes. We may allow access to other data collected by the Slacker Products and Services to enable the delivery of direct marketing and offers that will be of greatest utility, relevance, value, and interest to you. If you would like more information about this practice, [click here](http://www.networkadvertising.org/). If you would like to know your choices about not having this information used by these companies, [click here](http://optout.networkadvertising.org/?c=1#!/). 
 
 **Communications.** If you have chosen to receive emails, we generally send emails to you about Slacker Products and Services, content, and special offers. During registration, you may opt-out of receiving our marketing emails and/or newsletters, or you can change your settings at any time through the other methods set forth in this Privacy Policy. However, we may continue to send you emails about: 
 
@@ -140,4 +144,4 @@ San Diego, CA 92127
 
 We may change this Privacy Policy from time to time. When we do, changes will be reflected in this document so you are always aware of how we may collect, use, or disclose your information. If we decide to use Personal Information different from that stated at the time we collected it, we will notify you by email. You may decide whether or not we may use your information in this different manner. If you do not consent to this different use, we will use the information in accordance with the privacy policy in place when we collected the information. We encourage you to review our Privacy Policy when you visit the Slacker Website. 
 
-Last modified: May 25, 2012 
+Last modified: October 8, 2018 
