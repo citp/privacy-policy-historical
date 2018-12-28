@@ -1,101 +1,160 @@
-> *The following text is extracted and transformed from the sportresult.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230235606id_/http%3A//www.swisstiming.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportresult.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228031946id_/http%3A//www.swisstiming.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Swiss Timing
+# Privacy Notice - Swiss Timing
 
-**Privacy Policy**
+**1\. About this Privacy  Notice  
+**  
+1.1. This is the privacy notice (“Notice”) of Swiss Timing LTD, Rue de l’Envers 1, CH-2606 Corgémont, Switzerland, (“Swiss Timing”, “we", “us”, “our”). Swiss Timing is the data controller for the purpose of this Notice. 
 
-Swiss Timing LTD, rue de l’Envers 1, 2606 Corgémont, Switzerland (“Swiss Timing,” “We," “Us,” “Our”) takes the security and privacy of your personal information very seriously. This policy together with our terms of use sets out the basis on which we will process any personal data obtained as a result of your use of this website (“the Website”) and explains what cookies we use. All processing of your personal data will be in accordance with the applicable data protection legislation for the purposes for which the information was submitted. Please read the following carefully to understand our views and practices regarding your personal data, how we will treat it and how we use cookies. 
+1.2. This Notice, together with our[ Terms of Use](https://web.archive.org/terms/), sets out the basis on which we will process any personal data obtained in connection with your use of and interaction with this [website ](https://web.archive.org/)or any other online presence administered by us including our social media presences and our applications, (collectively referred to as “Website”). For information about our use of cookies, pixels and social plug-ins, please see our Notice regarding [Cookies, Pixels and Social Plug-ins.](https://web.archive.org/cookie/)
 
-**Information we may collect from you**
+1.3. We will post any changes we may make to our Notice on this Website or communicate them to you by email. 
 
-We may collect and process the following data about you: 
+1.4. The Notice currently in place dates of May 15, 2018. 
 
-Information that you provide by filling in forms on the Website. This includes information provided at the time of registering to use the Website, subscribing to our service, posting material or requesting further services. We may also ask you for information when you enter a competition or promotion sponsored by us or when you report a problem with the Website. 
+**2\. What personal data do we collect from you?**
 
-If you contact us, we may keep a record of that correspondence. 
+2.1. We collect personal data, that you provide to us, such as by filling out a contact form, registering for an account, using interactive features, subscribing to a service, participating in a marketing promotion, ordering a product or a service, requesting information and/or material or complete surveys. Such personal data may consist of: 
 
-We may also ask you to complete surveys that we use for research purposes, although you are not required to do so. 
+2.1.1. contact information (such as name, postal address, email address, and mobile or other telephone number); 
 
-Details of your visits to the Website, including but not limited to traffic data, location data, weblogs and other communication data, whether this is required for our own purposes or otherwise and the resources that you access. Please see the section below regarding cookies for more information about our use of cookies. 
+2.1.2. purchase and transaction information; 
 
-**Where we store your personal data**
+2.1.3. payment information (such as your payment card number, expiration date, authorization number or security code, delivery address, and billing address); 
 
-The data that we collect from you may be transferred to, and stored at, a location in Switzerland (server location) or another location inside or outside the European Economic Area. 
+2.1.4. customer service information (such as customer service inquiries, comments, and repair history); 
 
-All information you provide to us is stored on our secure servers. Where we have given you (or where you have chosen) a password that enables you to access certain parts of this website, you are responsible for keeping this password confidential. We ask you not to share any passwords with anyone. 
+2.1.5. username and password; 
 
-Unfortunately, the transmission of information via the Internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to the Website; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorized access. 
+2.1.6. information regarding your personal or professional interests, date of birth, marital status, demographics, and experiences with our products and contact preferences; 
 
-**Uses made of the information**
+2.1.7. job application information (curriculum vitae and content of your application file); 
 
-We use information held about you in the following ways: 
+2.1.8. photographs, comments and other content you provide; 
 
-To ensure that content from the Website is presented in the most effective manner for you and for your computer. 
+2.1.9. contact information you provide about friends or other people you would like us to contact; and 
 
-To provide you with information, products or services that you request from us or that we feel may interest you, where you have consented to be contacted for such purposes. 
+2.1.10. information we may obtain from our third-party service providers. 
 
-To carry out our obligations arising from any contracts entered into between you and us. 
+2.2. We collect metadata, for example details of your visits to the Website, such as traffic data, location data, IP address, browser information, session data, preferences, settings, weblogs and other communication data, which we monitor during your interaction with the Website. 
 
-To allow you to participate in interactive features of our service, when you choose to do so. 
+**3\. On which basis do we process your personal data?**
 
-To notify you about changes to our service. 
+3.1. We process your personal data for the purposes indicated or obvious at the time of collection and 
 
-If you are an existing customer, we will only contact you by electronic means (e.g., e-mail, SMS, APP) or by mail with information about goods and services similar to those that were the subject of a previous sale to you. 
+3.1.1. to which you have agreed, for example by checking a box; or 
 
-If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means or by mail only if you have consented to this. 
+3.1.2. for which we are required by applicable laws, for example to comply with data retention requirements regarding data relevant for financial reporting; or 
 
-If you do not want us to use your data in this way or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data (the order form) or contact us via info@swisstiming.com. 
+3.1.3. which is necessary for the performance of a contract, for example if you order items; or 
 
-We may share non-personal, non-individual statistics or demographic information in aggregate form with our marketing partners, advertisers or other third-parties for research purposes. 
+3.1.4. for which we rely on other legitimate interests, which include:
 
-Through your use of the Website, we may also gather certain information about your use of the Website that does not identify you individually. Generally, this information is collected through "traffic data." We may collect and store such information automatically whenever you interact with the Website. For example, we may collect your IP address, the hostname of your computer, browser information and reference site domain name every time you visit the Website. We may also collect information regarding customer traffic patterns and site usage. This information does not, however, contain anything that can personally identify you; it is used to analyze and improve the Website and to provide our customers with a fulfilling Internet experience. Please see the section below regarding cookies for more information about our use of cookies and when we will ask for your consent. 
+  * gathering market intelligence, promoting products and services, communicating with and tailoring offers to you;
+  * delivering and improving our products or services;
+  * management of customer, client, vendor and other relationships, sharing intelligence with internal stakeholders, implementing safety procedures, and planning and allocate resources and budget;
+  * monitoring, detecting and protecting the organisation, its systems, network, infrastructure, computers, information, intellectual property and other rights from unwanted security intrusion, unauthorised access, disclosure and acquisition of information, data and  system breaches, hacking, industrial espionage and cyberattacks;
+  * protecting and developing industry standards; sharing intelligence about individuals or concerns that may have a negative or detrimental impact; and following industry best practices; or
+  * complying with industry standards, regulators’ requirements and other requirements related to fraud prevention and anti-money laundering.
 
-**Disclosure of your information**
 
-We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, who may be inside or outside of the EEA. 
 
-We may disclose your personal information to third parties: 
+**4\. For which purposes do we process your personal data?**
 
-Who help us to administer the Website (such as our Internet service providers) or to provide the services you are requesting. These third parties must at all times provide the same levels of security for your personal information as Swiss Timing. 
+4.1. We process your personal data for the following purposes: 
 
-In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets. 
+4.1.1. If you fill out a contact form providing your name, email-address, telephone number, preferences, etc., we use your data for answering your questions, sending you information or performing other tasks you ask us to. 
 
-If Swiss Timing or substantially all of its assets or any member of our group are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets. 
+4.1.2. If you apply for a job offer. 
 
-If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use and other agreements; or to protect the rights, property, or safety of Swiss Timing or any member of our group, our customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction. 
+4.1.3.  If you register an account with us, then we process the data required to open that account, for example your name, address, email-address, password, profile picture, third party account data (if you register using your Facebook account, for example), etc. to allow your registration and management of your account. 
 
-**Your rights**
+4.1.4. If you use our interactive features, we process the data required to use these features to allow you and manage their use, for example, your name and email-address to appear in a ranking and to send you updates regarding the online game in which you participated. 
 
-You have the right to ask us not to process your personal data for marketing purposes. We will inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise that right at any time by contacting us at Swiss Timing LTD, rue de l’Envers 1, 2606 Corgémont, Switzerland, or via info@swisstiming.com. 
+4.1.5. If you are an existing customer, we may send you advertisement about our products and services using, for example, your name and postal address. 
 
-You have the right not to consent to our use of certain cookies. Please see the section below on cookies for more information on this. 
+4.1.6. If you subscribe to a service like our newsletter by providing us with your email-address and name, then we use this data for sending you our newsletter. 
 
-The Website may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that they have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites. 
+4.1.7. If you participate in a marketing promotion, then we use the data we require from you to allow your participation, for example, to manage your invitation for an event or to determine and contact the winner of a contest. 
 
-**Access to information**
+4.1.8. If you order a product, material or a service, we need and process the data required to fulfill your order, such as your name, telephone number, delivery address, credit card information, email-address, etc., for example to confirm your order, process your payment, check credit scoring, deliver the ordered items and contact you for delivery purposes. 
 
-Use of Cookies and Spyware 
+4.1.9. If you answer one of our queries and provide us personal data such as name, age, occupation, etc., then we use this data to analyze the query results and draw conclusions therefrom. 
 
-We never use or install spyware on your computer, nor do we use spyware to retrieve information from your computer. 
+4.1.10. If you consent to receive marketing information where prompted, then we use your data to send you promotional materials and other communications, to communicate with you about, and administer your participation in, special events, contests, sweepstakes, programs, offers, surveys and market research, to provide advertisements to you about our products and services, to tailor your use of the Website, marketing experience, and communications according to your preferences and our terms 
 
-Like many websites, we use "cookies", which are files saved on your computer's hard drive by your browser and used to collect and store certain information about you. 
+4.1.11. If you interact with us on third party social networks, then we process your data for such interaction with you on these networks (our interactions with you on a third party social network would be subject to that network's privacy policies and terms of use). 
 
-Most browsers accept cookies automatically but allow you to disable them. The help menu on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies all together. You can also disable or delete cookies you have previously accepted if you wish to. 
+4.1.12. We process your personal data also to comply with and enforce applicable legal requirements, our Terms of Use, relevant industry standards, contractual obligations and our policies. 
 
-We recommend that you leave cookies "turned on" so that we can offer you a better experience on the Website. If you set your browser to block all cookies (including strictly necessary cookies), you may not be able to access parts of the Website. 
+4.2. We may process your personal data in a centralized system that allows enhancing your brand experience by tailoring our communication and marketing efforts to make them as relevant and useful as possible for you (profile building). For this we may process, match and enrich your personal data with data received from your interaction with us or from third parties. For example, if you tell us your age, income, hobbies or travel activities then we may mirror this data against your purchase behavior and other information we have obtained from you in order to approach you with offers, invitations or promotions that we believe specifically fit your interests. 
 
-We have set certain cookies on your device and recommend that you agree to their use. If you do not, you may still use the Website, but certain parts of it may not work or may not work as well. 
+4.3. We process metadata that we collect from you to improve our Website, analyze traffic pattern and Website usage, for targeted marketing, to develop and analyze statistics and demographics, or optimize our online presence and marketing efforts. 
 
-We use the following cookies: 
+**5\. To whom do we disclose and transfer your personal data?**
 
-Performance cookies. These “analytical” cookies allow us to collect information about how visitors use the Website, for example to count visitors and to see how visitors move around the Website. They record your visit to the Website, the pages you have visited and the links you have followed. These cookies do not collect information that identifies you. All information is anonymous. This helps us to improve the way the Website works. 
+5.1. We may disclose your personal data to the following recipients or categories of recipients for them to use the data on their own behalf and under their own control (controllers): 
 
-We rely on Google Analytics, a service provided by Google, Inc. (“Google”), to analyze your use of the Website. The information generated by Google Analytics is subject to Google’s privacy policy and will be transferred to and stored by Google on servers in the USA. Prior to the transfer, it will be anonymized by removing the last octet of your IP address. Google will then process it on our behalf in order to evaluate your use of the Website, to compile reports on Website activity and to provide other services related to Internet usage. Google will not link your IP address with any other data held by Google. You may refuse the use of cookies for the aforesaid purposes by setting your browser accordingly; however, in that case, you may not be able to use the full functionality of the Website. You may further opt-out of the collection of your usage data (including your IP address) and its processing by downloading and installing the add-on for your current web browser at [tools.google.com/dlpage/gaoptout](http://tools.google.com/dlpage/gaoptout?hl=en). For more information about the use of your data by Google, please see [www.google.com/analytics/learn/privacy.html](http://www.google.com/analytics/learn/privacy.html). 
+5.1.1. Our parent company The Swatch Group Ltd, Seevorstadt 6, 2501 Biel/Bienne, Switzerland (“Swatch Group”); 
 
-**Changes to our privacy policy**
+5.1.2. Our affiliates within Swatch Group in the countries where our brand is represented as indicated when we collect your personal data. 
 
-Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by email. 
+5.2. We may disclose your personal data to the following recipients or categories of recipients acting on our behalf and/or as partners (processors), limited to the purpose of the execution of their obligations, which are contractually bound to adhere to an adequate level of data protection when processing your personal data (for example to fulfil orders, deliver packages, process credit card payments, provide customer service, send postal mail and e-mail, store and process data, host websites, remove repetitive data from customer lists, analyse data, provide marketing assistance, execute customer satisfaction surveys, provide customized advertising): 
 
-**Contact**
+5.2.1. Swatch Group; 
 
-If you have any questions about this privacy policy, please contact us via [info@swisstiming.com](mailto:info@swisstiming.com)
+5.2.2. Our data processing center in Switzerland; 
+
+5.2.3. Our affiliates within Swatch Group; 
+
+5.2.4. Our third party service providers. 
+
+5.3. We may disclose your personal data to an acquirer if Swiss Timing or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets. 
+
+5.4. We may disclose your personal data if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use and other agreements; or to protect the rights, property, or safety of Swiss Timing or any member of Swatch Group, our customers, or others. This includes exchanging data with other companies and organizations for the purposes of fraud protection and credit risk reduction. 
+
+5.5. We may internationally transfer your personal data, including to countries that are not considered providing an adequate level of data protection by the relevant regulatory bodies, for example to countries not considered by the European Commission or the Swiss Federal Data Protection and Information Commissioner to be providing such level. In such case, we ensure the adequate protection of your personal data by having the recipients adhere to binding contractual obligations in accordance with applicable standards approved by the relevant regulatory bodies or by relying on other safeguards, such as self-certifications, approved by the relevant regulatory bodies. You may contact us for a copy of the contractual and other safeguards in place (see section 9 below). 
+
+5.6. This Website may contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that they have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites. 
+
+**6\. For how long do we process your personal data?**
+
+We process your personal data:
+
+  * until you withdraw your consent for future processing, for example until you unsubscribe from our newsletter or delete your account with us;
+  * until we are sure that you are satisfied after you have approached us, e.g. to order a catalogue, to ask a question, to request information, to make an appointment or a reservation, etc. but no longer than twelve (12) months after the last contact, unless we can rely on another justification, have informed you otherwise or you have given your consent for a longer retention period;
+  * in connection with a purchase you make or in connection with a customer service transaction for the time until the transaction is completed plus at least the warranty period to which we may add a grace period for your benefit, unless we can rely on another justification, have informed you otherwise or you have given your consent for a longer retention period;
+  * for as long as you remain our business partner plus ten years, unless we can rely on another justification, have informed you otherwise or you have given your consent for a longer retention period;
+  * for as long as laws require us, e.g. legal retention obligations based on bookkeeping or tax laws and regulations.
+
+
+
+**7\. When do we require your personal data?**
+
+If you wish to conclude a contract with us, for example if you order items or services, then we are required to obtain from you certain personal data to allow us to enter into this contract, for example, your name, delivery address, place of residence, payment information or contact information. Should you decide not to provide us the required information, we may not conclude this contract with you. 
+
+**8\. What are your rights?**
+
+8.1. You have the right:
+
+  * to request from us access to and rectification or deletion of your personal data;
+  * to request us to restrict the processing of your personal data, in particular to object to the processing of your personal data for direct marketing purposes; and
+  * to request from us to provide you or any person or entity you appointed with a digital file of your personal data (data portability).
+
+
+
+8.2. You may withdraw your consent that allows us to process your personal data for the indicated purposes at any time. 
+
+8.3. To exercise the above rights, you may contact us as indicated below. 
+
+8.4. You also have the right to lodge a complaint with the competent authority. 
+
+**9\. How can you contact us?**
+
+For any questions or to exercise your rights, you may contact us as follows: 
+
+Postal address: Swiss Timing LTD, Rue de l’Envers 1, CH-2606 Corgémont, Switzerland  
+Telephone number: +41 32 488 36 11  
+Email-address: [info@swisstiming.com](mailto:info@swisstiming.com)  
+
+For the contact details of our representatives or DPO respectively within the European Union, please see our [EU Representatives List](https://web.archive.org/fileadmin/Resources/EU-representatives-list-sg-external.pdf).
