@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zearn.org privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627220938id_/https%3A//www.zearn.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zearn.org privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228045407id_/https%3A//www.zearn.org/privacy) for the most accurate reproduction.*
 
-# Zearn
+# Privacy Policy
 
 Last Updated: January 2018
 
