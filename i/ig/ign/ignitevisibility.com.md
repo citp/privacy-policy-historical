@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ignitevisibility.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628222333id_/https%3A//ignitevisibility.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ignitevisibility.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229002354id_/https%3A//ignitevisibility.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Ignite Visibility
 
@@ -8,9 +8,9 @@ This privacy policy has been compiled to better serve those who are concerned wi
 
 OR
 
-5060 Shoreham Pl #260
+3770 Tansy St. Suite 100
 
-San Diego, CA 92122
+San Diego, CA 92121
 
 **What personal data do we collect?**
 
@@ -63,9 +63,9 @@ You may decline to provide us with personal data and/or decline to enter into tr
 
 OR
 
-5060 Shoreham Pl #260
+3770 Tansy St. Suite 100
 
-San Diego, CA 92122
+San Diego, CA 92121
 
 In addition, you also have the right to lodge a complaint with data protection supervisory authorities, the identity of which may depend on your location.
 
@@ -206,6 +206,6 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 OR
 
-5060 Shoreham Pl #260
+3770 Tansy St. Suite 100
 
-San Diego, CA 92122
+San Diego, CA 92121
