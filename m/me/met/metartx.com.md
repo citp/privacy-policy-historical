@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metartx.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627213854id_/https%3A//www.metartx.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metartx.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228042440id_/https%3A//www.metartx.com/privacy) for the most accurate reproduction.*
 
 # MetArt X - Privacy
 
