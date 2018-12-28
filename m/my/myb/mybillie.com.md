@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mybillie.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628051644id_/https%3A//mybillie.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybillie.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228113624id_/https%3A//mybillie.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Billie
 
@@ -125,7 +125,7 @@ If you have any questions about the mybillie.com Privacy Policy please contact u
 Billie Inc.  
 303 Spring Street  
 New York, NY 10013  
-(877) 888-7422
+(888) 820-7422
 
 [**Hello@mybillie.com**](mailto:Hello@mybillie.com)
 
