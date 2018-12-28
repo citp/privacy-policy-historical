@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 10khits.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627205906id_/https%3A//www.10khits.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 10khits.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228034714id_/https%3A//www.10khits.com/terms) for the most accurate reproduction.*
 
 # Terms and Privacy | 10KHits
 
@@ -86,7 +86,7 @@ Users may not modify, reproduce, distribute, publicly display 10KHits’ content
 
 If you believe that images or photos hosted on this website infringes upon any copyright which you own or control, you may send a written notification of such infringement as set forth below:
 
-By email: [[email protected]](https://www.10khits.com/cdn-cgi/l/email-protection#25464a4b514446516514154e4d4c51560b464a48)
+By email: [[email protected]](https://www.10khits.com/cdn-cgi/l/email-protection#1e7d71706a7f7d6a5e2f2e7576776a6d307d7173)
 
 In your notification you must include the following: 
 
@@ -124,7 +124,7 @@ You hereby agree that you will indemnify 10KHits, its officers, employees and ag
 
 THERE WILL BE NO RIGHT OR AUTHORITY FOR ANY DISPUTE TO BE BROUGHT, HEARD, OR ARBITRATED AS A CLASS ACTION (INCLUDING WITHOUT LIMITATION OPT OUT CLASS ACTIONS OR OPT IN COLLECTIVE CLASS ACTIONS), OR IN A REPRESENTATIVE OR PRIVATE ATTORNEY GENERAL CAPACITY ON BEHALF OF A CLASS OF PERSONS OR THE GENERAL PUBLIC.  ALL DISPUTES SHALL BE RESOLVED ON AN INDIVIDUAL BASIS ONLY.
 
-**If you have questions about this agreement, email:[ [email protected]](https://www.10khits.com/cdn-cgi/l/email-protection#8fece0e1fbeeecfbcfbebfe4e7e6fbfca1ece0e2)**
+**If you have questions about this agreement, email:[ [email protected]](https://www.10khits.com/cdn-cgi/l/email-protection#6a0905041e0b091e2a5b5a0102031e1944090507)**
 
 **_Last modified: May 3, 2018_**
 
@@ -213,7 +213,7 @@ We may also disclose your personal information to comply with any court order, o
 
 ###  VI. Updating Your Information 
 
-You can update any of your personal information including your password by logging into the Site and visiting the settings page. If you would like to remove your personal information from the Site or close your account, please contact us at [[email protected]](https://www.10khits.com/cdn-cgi/l/email-protection#a6c5c9c8d2c7c5d2e69796cdcecfd2d588c5c9cb). 
+You can update any of your personal information including your password by logging into the Site and visiting the settings page. If you would like to remove your personal information from the Site or close your account, please contact us at [[email protected]](https://www.10khits.com/cdn-cgi/l/email-protection#dab9b5b4aebbb9ae9aebeab1b2b3aea9f4b9b5b7). 
 
 ###  VII. Linking Your Gravatar 
 
@@ -241,7 +241,7 @@ We use third party advertisers to serve relevant ads to you and to measure the e
 
 You have the right to opt out of our marketing and system newsletters within the settings page. From time to time we may e-mail you system alerts, special offers, discounts and promo codes for our services. You can exercise your right to not receive these e-mails by ticking or unticking the "Subscribe to Newsletters" or "Subscribe to System Alerts" boxes here: <https://www.10khits.com/dashboard/settings>
 
-You can also close your account using the close your account link in the settings page however your personal information will still be stored on our servers. To delete personal information about you that is stored on our servers, you may send a request to [[email protected]](https://www.10khits.com/cdn-cgi/l/email-protection#197a76776d787a6d5928297271706d6a377a7674).
+You can also close your account using the close your account link in the settings page however your personal information will still be stored on our servers. To delete personal information about you that is stored on our servers, you may send a request to [[email protected]](https://www.10khits.com/cdn-cgi/l/email-protection#0d6e6263796c6e794d3c3d666564797e236e6260).
 
 If you are a resident of the EEA, you have the following data protection rights, which you may exercise by contacting us via support ticket:
 
@@ -256,6 +256,6 @@ If you are a resident of the EEA, you have the following data protection rights,
 
 Please note that we may ask you to verify your identity before responding to such requests.
 
-**If you have any concerns about our privacy policy, please e-mail[ [email protected]](https://www.10khits.com/cdn-cgi/l/email-protection#1c7f7372687d7f685c2d2c777475686f327f7371)**
+**If you have any concerns about our privacy policy, please e-mail[ [email protected]](https://www.10khits.com/cdn-cgi/l/email-protection#c5a6aaabb1a4a6b185f4f5aeadacb1b6eba6aaa8)**
 
 **_Last modified: May 24, 2018_**
