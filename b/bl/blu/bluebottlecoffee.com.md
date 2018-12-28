@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluebottlecoffee.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628133705id_/https%3A//bluebottlecoffee.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluebottlecoffee.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228192437id_/https%3A//bluebottlecoffee.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Blue Bottle Coffee
 
@@ -21,11 +21,9 @@ The email address you provide is used for internal purposes, such as confirming 
 
 In certain instances, we may disclose your personally identifiable information when we have reason to believe that it is necessary to identify, contact or bring legal action against persons or entities who may be causing injury to you, Blue Bottle Coffee or others. We may also disclose your personally identifiable information when we believe the law requires it. In the event of a merger, consolidation or sale or transfer of all or substantially all of our company or its assets, personal information collected by our website may be transferred to the purchaser or the new company.
 
-### Use of Cookies
+### Use of Cookies and Other Technology
 
-Our website uses "cookies." A cookie is a small file that is sent to your browser from a web server and stored on your computer's hard drive. We use cookies to help us determine whether a visitor to our website has visited our website before or if he or she is a new visitor. Cookies also allow Blue Bottle Coffee account registrants to save time during checkout on return visits. Most web browsers automatically accept cookies, but they should also allow you to instruct your browser to prevent the use of cookies. Please note that if you disable cookies, certain aspects of our website will not function properly, such as the shopping cart. Our cookies do not track any personal information about you or provide us with any way to contact you, and the cookies do not extract any information from your computer.
-
-We may use third-party analytical tools to help us better understand how you use our website. These analytical tools will place cookies on your computer to collect information. The information collected by these analytical tools will tell us things like which search engine referred you to our website, how you navigated around our website and what you purchased. This information will help us to better serve you with more personalized information and product offerings. The third party provider of the analytical tools may only use your personal information to perform services for us and is contractually required to maintain all of the information it collects and analyzes for us securely and in confidence. This third party may not share your personal information with anyone else, or use it for any other purpose, except on an aggregate, non-identifiable basis.
+We use cookies and other analytics tools to help us to provide a better user experience and to better understand how you use your website. For more information about these tools and how we use them, please [see our cookie policy](https://web.archive.org/cookies).
 
 ### Updating, Deleting, Editing Your Account Information
 
