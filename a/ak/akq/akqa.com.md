@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the akqa.com privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611013238id_/http%3A//www.akqa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the akqa.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228180437id_/http%3A//www.akqa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AKQA
 
@@ -12,7 +12,7 @@ In this privacy policy, when we refer to "AKQA", "us", "we" or "our", we mean th
 
 ## What personal information do we collect?
 
-Our main reasons for collecting your personal information is to provide you with information or services that you have requested including supporting your applications to AKQA and to provide and improve the service, products and experiences that you and the users of the AKQA careers website, applicants and employees expect from us.
+Our main reasons for collecting your personal information is to provide you with information or services that you have requested including supporting your applications to AKQA and to provide and improve the service, products and experiences that you and the users of the AKQA website, applicants and employees expect from us.
 
 We collect personal information from you in several different ways; you may share that information with us, or we may collect it using other means. In this section, we explain the different ways we collect personal information from you and some ways in which that information will be used. For more detail on how we use your personal information, please see the section titled "How do we use your personal information?".
 
