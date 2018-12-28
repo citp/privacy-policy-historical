@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paramore.net privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627234344id_/http%3A//paramore.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paramore.net privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228062023id_/http%3A//www.paramore.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fueled By Ramen
 
