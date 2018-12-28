@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the takfund.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626110720id_/http%3A//www.takfund.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the takfund.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228011227id_/http%3A//www.takfund.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Tak Fund
 
