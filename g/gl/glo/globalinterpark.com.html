@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the globalinterpark.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606135907id_/http%3A//www.globalinterpark.com/policies/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the globalinterpark.com privacy policy that was archived on 2018-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181228123638id_/http%3A//www.globalinterpark.com/policies/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="en"><head>
 
@@ -8,20 +8,21 @@
 <title>interpark</title>
 <meta name="description" content="Interpark global website">
 <link rel="shortcut icon" href="http://openimage.interpark.com/cbt/img/icons/favicon.ico">
-<link rel="stylesheet" href="/cbt/css/commons/common.page.css?201706051001">
-<script type="text/javascript" src="/common/js/jquery_2_0_3.js?201706051001"></script>
-<script type="text/javascript" src="/common/js/jquery.i18n.properties.js?201706051001"></script>
-<script type="text/javascript" src="/common/js/js.cookie.js?201706051001"></script>
-<script type="text/javascript" src="/common/js/jquery.blockUI.js?201706051001"></script>
-<script type="text/javascript" src="/common/js/jquery.stickr.js?201706051001"></script>
-<script type="text/javascript" src="/common/js/jquery.cookie.js?201706051001"></script>
-<script type="text/javascript" src="/common/js/customSelect.js?201706051001"></script>
-<script type="text/javascript" src="/common/js/common.js?201706051001"></script>
-<script type="text/javascript" src="/cbt/js/CookieUtil.js?201706051001"></script>
-<script type="text/javascript" src="/cbt/js/popupOpener.js?201706051001"></script>
+<link rel="stylesheet" href="/cbt2/css/commons/common.page.css?2018122111">
+<script type="text/javascript" src="/common/js/jquery_2_0_3.js?2018122111"></script>
+<script type="text/javascript" src="/common/js/jquery.i18n.properties.js?2018122111"></script>
+<script type="text/javascript" src="/common/js/js.cookie.js?2018122111"></script>
+<script type="text/javascript" src="/common/js/jquery.blockUI.js?2018122111"></script>
+<script type="text/javascript" src="/common/js/jquery.stickr.js?2018122111"></script>
+<script type="text/javascript" src="/common/js/jquery.cookie.js?2018122111"></script>
+<script type="text/javascript" src="/common/js/customSelect.js?2018122111"></script>
+<script type="text/javascript" src="/common/js/common.js?2018122111"></script>
+<script type="text/javascript" src="/cbt2/js/CookieUtil.js?2018122111"></script>
+<script type="text/javascript" src="/cbt2/js/popupOpener.js?2018122111"></script>
 
-<script type="text/javascript" src="/cbt/js/common.js?201706051001"></script>
+<script type="text/javascript" src="/cbt2/js/common.js?2018122111"></script>
 <script src="/common/js/jquery.bxslider.js"></script>
+<script src="/cbt2/js/wing.js"></script>
 
 
 
@@ -48,9 +49,15 @@
 
 
 
+<link rel="stylesheet" href="/cbt2/css/partials/header.default.css?2018122111">
+<link rel="stylesheet" href="/cbt2/css/partials/footer.default.css?2018122111">
+
 <input type="hidden" id="cacheTest" name="cacheTest">
+<script src="/common/js/base64.js"></script>
 <script>
+	var cateTitle = "";
 	var oldrqval = "";
+	var categoryMainMap = [];
     $(document).ready(function(event) {
         fn_getBannerList();
         $("div.search_list > ul > li").each(function() {
@@ -123,20 +130,10 @@
                 location.href = "/main/searchList?q=" + $(this).text();
             });
         });
-
-        $("[name=select_language]").click( function(){
-            fnc_changeLocale($(this).attr("val"));
-        });
-
-        $("[name=select_currency]").click( function(){
-            fnc_changeCurrency($(this).attr("val"));
-        });
-
-        $("#selected_language").attr("class", lang);
-        $("#selected_language").find("span").text($("[name=select_language][val="+ lang + "]").text());
-        $("#selected_currency").attr("class", currency);
-        $("#selected_currency").find("span").text($("[name=select_currency][val="+ currency + "]").text());
-
+ 
+        $('#lang_title').text($('#lang_'+lang).text());
+        $('#currency_title').text($('#currency_'+currency).text());
+ 
         $("[name=btn_logout]").click(fnc_logout);
 
 /* 		if(top_banner_flag == "true"){
@@ -162,7 +159,12 @@
 	             return false;
 	         }
 		 });
-
+		 
+		 subGateway();
+		 
+		 fn_getMenuData();
+		 
+		 fn_setTopMenuList();
     });
 
     function searchSubmit() {
@@ -251,27 +253,30 @@
 
     function fn_getBannerList() {
         $.ajax({
-            url : "/main/banner",
+            url : "/main/welcomeBanner",
             type : 'GET',
             data : {
-                id : "banner_gnb"
+                id : "imgbanner",
+                s : "99",
+                cache:"Y"
             },
             dataType : 'json',
             success : function(result, status) {
-                fn_setBannerList(result);
+//            	console.log(JSON.stringify(result, undefined, 2));
+                fn_setTopMiniBannerList(result);
             }
         });
     }
 
-    function fn_setBannerList(data) {
+    function fn_setTopMiniBannerList(data) {
         if(data.RESULT_CODE == "000") {
             var rs = data.RESULT;
-            var items = rs.banner_gnb.BannerItem;
+            var items = rs.imgbanner.BannerItem;
             var len = items.length;
             for(var i = 0 ; i < len ; i++) {
-                if(items[i].subType == 'B') {
+                if(items[i].filter2 == "001") {
                     fn_setTopBanner(items[i]);
-                }else {
+                }else if(items[i].filter2 == "002") {
                     fn_setMiniData(items[i]);
                 }
             }
@@ -294,6 +299,182 @@
 	        $("#topBannerWrap").hide();
 	    }
     }
+    
+    function fn_getMenuData() {
+        $.ajax({
+            url : "/main/getCategoryDbList",
+            type : 'GET',
+            data : {
+                "lang":lang
+            },
+            dataType : 'json',
+            success : function(result, status) {
+            	fn_setProductCategoryUl(result);
+            }
+        });
+    }
+
+    function fn_setProductCategoryUl(data) {
+
+    	for (var key in data) {
+    		var cateMenu = $('#mainLeftMenuLi').clone(true);
+    		$(cateMenu).attr('id', '');
+    		$(cateMenu).find('.leftName').attr('href', 'javascript:void(0);');
+    		$(cateMenu).find('.leftName dfn').html(data[key].menuNm);
+    		var subTitle = "";
+    		if ( data[key].dispNo == "001") {
+    			subTitle = $.i18n.prop('word.musicmore');
+    		} else if ( data[key].dispNo == "002") {
+    			subTitle = $.i18n.prop('sentence.cd_dvdgoods');
+    		} else if ( data[key].dispNo == "003") {
+    			subTitle = $.i18n.prop('sentence.beauty_fashion');
+    		} else if ( data[key].dispNo == "004") {
+    			subTitle = $.i18n.prop('sentence.korean_books');
+    		}
+    		$(cateMenu).find('.leftName span').html(subTitle);
+    		$(cateMenu).find('#leftMenu2depth').remove();
+    		$(cateMenu).find('#leftMenu3depth').remove();
+ 
+    		categoryMainMap.push(
+    				{'dispNo':data[key].dispNo,
+    				 'prdTp':data[key].prdTp,
+    				 'menuNm':data[key].menuNm}
+    				);
+    		if (data[key].dispNo == "003") {
+    			cateTitle = data[key].menuNm;
+    		}
+    	    $(data[key].list).each(function(index2, item2){
+    			var sub2Menu = $('#leftMenu2depth').clone(true);
+    	    	
+    	    	$(sub2Menu).find('a').html(item2.menuNm);
+    	    	$(sub2Menu).appendTo($(cateMenu).find('.wrap'));
+    	    	
+    	    	$(item2.list).each(function(index3, item3){
+    				var sub3Menu = $('#leftMenu3depth').clone(true);
+    				
+    		    	$(sub3Menu).find('a').html(item3.menuNm);
+    		    	var shopNo = "&shopNo=0000100000&subDepth=Y";
+    		    	if (item3.prdTp == "002") {
+    		    		shopNo += "&prdTp=002";
+    		    	}
+    		    	$(sub3Menu).find('a').attr('href', '/main/categoryList?dispNo='+ item3.dispNo + shopNo);
+    		    	$(sub3Menu).appendTo($(cateMenu).find('.wrap'));
+
+    	    	});
+    	    });
+    	    $(cateMenu).appendTo('#mainLeftMenuUl').show();
+    	}
+    	$('#mainLeftMenuLi').remove();
+    	categoriesInit();
+     }
+
+    function categoriesInit() {
+    	var depth = $('.depth');
+    	var depthHeight = $('.leftMenuList').height() - 30;
+    	var depthEl = $('.depth').find('span');
+    	var arr = ['first', 'second', 'third', 'fourth'];
+    	var subTitle = $('.subTitle');
+    	
+    	subTitle.prev().css('margin-bottom', '28px');
+    	
+    	depthEl.each(function(index, item) {
+    		var position = parseInt($(this).position().top);
+    		if (position < depthHeight) {
+    			$(this).addClass(arr[0]);
+    		} else if (position <= depthHeight * 2) {
+    			$(this).addClass(arr[1]);
+    		} else if (position <= depthHeight * 3) {
+    			$(this).addClass(arr[2]);
+    		} else if (position <= depthHeight * 4) {
+    			$(this).addClass(arr[3]);
+    		}
+    	});
+
+    	$('.tempWrap').contents().unwrap();
+    	
+    	depth.each(function(index, item) {
+    		var list = depth[index];
+    		for(var i=0; i<=10; i++) {
+    			$(list)
+    			.find('.' + arr[i])
+    			.wrapAll('<div class="wrap"></div>');
+    		}
+    		var wrapWidth = $('.wrap').width();
+    		var wrapLen = $(this).find('.wrap').length;
+    		$(this).css('width', (wrapWidth + 20) * wrapLen);
+    	});
+    	
+        $('.categories, .leftMenuName').on({
+            mouseenter: function() {
+              $(this).addClass('on');
+            },
+            mouseleave: function() {
+              $(this).removeClass('on');
+            }
+          });
+    	
+    }
+    
+    function subGateway() {
+        var $gateway = $('.wrapper');
+        var gateRight = $gateway.find('.navWrap');
+        var hasSubEl = gateRight.find('.hasSub');
+        var hasSubElA = hasSubEl.find('> a');
+
+        hasSubEl.on({
+            mouseenter: function() {
+                $(this).addClass('active');
+            },
+            mouseleave: function() {
+                $(this).removeClass('active');
+            }
+        });
+    }
+
+  //배너정보 가져오기
+    function fn_setTopMenuList() {
+        $.ajax({
+            url : "/main/welcomeBanner",
+            type : 'GET',
+            data : {
+            	id : "topmenu"
+                ,"cache" : "Y"
+            },
+            dataType : 'json',
+            cache : false,
+            success : function(result, status) {
+            	if(result.RESULT_CODE == "000") {
+					fn_setTopmenu(result.RESULT.topmenu);
+            	}
+            }
+        });
+    }
+
+    function fn_setTopmenu(data){
+        var len = data.BannerContent.keywords.len;
+        if(len == 0) {
+            return;
+        }
+
+        var htmlStr = "";
+        $.each(data.BannerContent.keywords, function(index, val){
+        	htmlStr += "<li class='gnbListName'>";
+        	htmlStr += "<a class='gnbName' href='"+val.LINK+"'>"+val.KEYWORD+"</a>";
+        	htmlStr += "</li>";
+        });
+        
+        $('.menuListWrap >ul').append(htmlStr);
+
+    }
+
+function fn_signin() {
+	var url = "https://www.globalinterpark.com/user/signin";
+	
+	location.href = url + "?redirectUrl=" + Base64.encode(document.URL);
+}
+    
+    
+    
 </script>
     <form id="locale_form">
         <input type="hidden" id="localeLang" name="lang" value="">
@@ -312,7 +493,7 @@
     </div>
     <div id="globalNav" data-module="_globalNav">
         <div class="wrapper">
-            <button class="favoriteBtn" type="button" id="btn_favorite">Favorites</button>
+            <button class="favoriteBtn" type="button" id="btn_favorite">Favorite</button>
             <div class="navWrap">
 
                 <ul class="basicNav">
@@ -332,36 +513,76 @@
                 
                     
                     
-                    <li><a href="https://www.globalinterpark.com/user/signin">Sign in</a></li>
+                    <li><a href="javascript:void(0);" onclick="fn_signin();">Sign In</a></li>
                     <li><a href="https://www.globalinterpark.com/user/register">Register</a></li>
                     
                 
-					<li><a href="https://www.globalinterpark.com/mypage/myOrderList">my page</a></li>
-                	<li><a href="https://www.globalinterpark.com/mypage/cart" class="cart">My Cart(<em>0</em>)</a></li>
-                	<li><a href="http://www.globalinterpark.com/customer/faqList">Customer Service</a></li>
+					<li class="hasSub">
+						<a href="https://www.globalinterpark.com/mypage/myTicketOrderList" class="mypage"><em>MY PAGE</em></a>
+						<div class="subLayer">
+							<span><a href="https://www.globalinterpark.com/mypage/myTicketOrderList">My Ticket</a></span>
+							<span><a href="https://www.globalinterpark.com/mypage/myOrderList">My Shopping</a></span>
+						</div>
+					</li>
+                	<li><a href="https://www.globalinterpark.com/mypage/cart" class="cart">My Cart<!-- (<em>0</em>) --></a></li>
+            <li class="hasSub">
+              <a href="https://www.globalinterpark.com/customer/faqList" class="customer">
+                <em>Customer Service</em>
+              </a>
+              <div class="subLayer">
+                <span>
+                  <a href="https://www.globalinterpark.com/customer/faqList">FAQ</a>
+                </span>
+                <span>
+                  <a href="https://www.globalinterpark.com/customer/faqList?faqTp=09">Purchase Guide</a>
+                </span>
+              </div>
+            </li>
+                	
+            <li class="hasSub">
+              <a href="javascript:void(0);" class="charset">
+                <em id="lang_title">Language</em>
+              </a>
+              <div class="subLayer">
+                <span>
+                  <a href="#" onclick="fnc_changeLocale('en')" id="lang_en">English</a>
+                </span>
+                <span>
+                  <a href="#" onclick="fnc_changeLocale('ko')" id="lang_ko">한국어</a>
+                </span>
+                <span>
+                  <a href="#" onclick="fnc_changeLocale('zh-cn')" id="lang_zh">中文</a>
+                </span>
+                <span>
+                  <a href="#" onclick="fnc_changeLocale('ja')" id="lang_ja">日本語</a>
+                </span>
+              </div>
+            </li>
+            <li class="hasSub">
+              <a href="javascript:void(0);" class="charset">
+                <em id="currency_title">Currency</em>
+              </a>
+              <div class="subLayer">
+                <span class="usd">
+                  <a href="#" onclick="fnc_changeCurrency('usd')" id="currency_usd">USD</a>
+                </span>
+                <span class="cny">
+                  <a href="#" onclick="fnc_changeCurrency('cny')" id="currency_cny">CNY</a>
+                </span>
+                <span class="jpy">
+                  <a href="#" onclick="fnc_changeCurrency('jpy')" id="currency_jpy">JPY</a>
+                </span>
+
+<!--                 <span class="eur">
+                  <a href="#" onclick="fnc_changeCurrency('ko')">EUR</a>
+                </span>
+                <span class="gbp">
+                  <a href="#" onclick="fnc_changeCurrency('ko')">GBP</a>
+                </span>
+ -->
+              </div>
+            </li>
                 </ul>
-                <div class="charsetNav">
-                    <button type="button" class="en" id="selected_language">
-                        <span></span>
-                    </button>
-                    <ul>
-                        <li class="en"><a href="#" name="select_language" val="en">English</a></li>
-                        <li class="ko"><a href="#" name="select_language" val="ko">한국어</a></li>
-                        <li class="zh"><a href="#" name="select_language" val="zh">中文</a></li>
-                        <!-- <li class="ja"><a href="#" name="select_language" val="ja">日本語</a></li> -->
-                    </ul>
-                </div>
-                <div class="currencyNav">
-                    <button type="button" class="default" id="selected_currency">
-                        <span>Currency</span>
-                    </button>
-                    <ul>
-                        <li class="usd"><a href="#" name="select_currency" val="usd">USD</a></li>
-                        <li class="cny"><a href="#" name="select_currency" val="cny">CNY</a></li>
-                        <li class="jpy"><a href="#" name="select_currency" val="jpy">JPY</a></li>
-                        <li class="eur"><a href="#" name="select_currency" val="eur">EUR</a></li>
-                    </ul>
-                </div>
             </div>
         </div>
     </div>
@@ -369,7 +590,7 @@
         <div class="wrapper">
             <div class="logo">
                 <h1>
-                    <a href="http://www.globalinterpark.com/main/main"> <img src="http://openimage.interpark.com/cbt/img/partial/header.default/en/logo_interpark.png" alt="Worldwide Shipping Interpark Global shopping">
+                    <a href="http://www.globalinterpark.com/main/main"> <img src="http://openimage.interpark.com/cbt/img/partial/header/en/logo_interpark.png" alt="Worldwide Shipping Interpark Global shopping">
                     </a>
                 </h1>
             </div>
@@ -379,19 +600,18 @@
                         <div class="searchInputWrap">
                             <input type="text" name="q" title="Search" id="search_value">
                             <button class="deleteBtn" type="button" id="btn_search_delete"></button>
-                            <div class="flexibleWrap" id="nameLayer" style="display: none">
-                                <div class="keywordWrap">
-                                    <div class="listKeyword">
-                                        <ul id="keyword_auto"></ul>
-                                    </div>
+                        </div>
+                        <button class="searchBtn" id="searchBtn" type="button">Search</button>
+                        <div class="flexibleWrap" id="nameLayer" style="display: none">
+                            <div class="keywordWrap">
+                                <div class="listKeyword">
+                                    <ul id="keyword_auto"></ul>
                                 </div>
                             </div>
                         </div>
-                        <button class="searchBtn" id="searchBtn" type="button">Search</button>
                     </div>
                 </form>
             </div>
-
             <div class="miniBannerWrap">
             <div class="bannerWrap">
                 <div class="miniBanner">
@@ -401,10 +621,48 @@
                 </div>
             </div>
         	</div>
-
-
         </div>
     </div>
+     <div class="categoryContainer">
+      <div class="gnbMenuWrap" data-module="main">
+        <div class="gnbContentsWrap">
+          <div class="menuListWrap">
+            <ul>
+              <li class="gnbListName categories">
+                <div class="categoryWrap">
+                  <p>
+                    <a class="gnbName" href="#">
+                      <span>Categories</span>
+                    </a>
+                  </p>
+                  <div class="mainLeftMenu" id="mainLeftMenu">
+                    <ul id="mainLeftMenuUl">
+                      <li class="leftMenuName" id="mainLeftMenuLi" style="display:none;">
+                        <a class="leftName" href="#">
+                          <dfn>CloneSample</dfn>
+                          <span>CloneSample</span>
+                        </a>
+                        <div class="cateLayerWrap">
+                          <div class="leftMenuList">
+                            <div class="depth">
+                              <div class="wrap tempWrap">
+                              <span class="subTitle" id="leftMenu2depth"><a href="#">CloneSample</a></span>
+                              <span class="" id="leftMenu3depth"><a href="#">CloneSample</a></span>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
 
     <div class="breadcrumbs" data-module="_breadcrumbs">
         <ul>
@@ -759,47 +1017,106 @@
 
 
 
+
 <script>
     $(document).ready(function() {
         fn_getWingRecentlyProductList();
+        fn_getWingRecentlyEntProductList();
     });
 
     function fn_getWingRecentlyProductList() {
-        $.ajax({
-            url : "/main/recentlyList",
-            type : 'GET',
-            data : null,
-            dataType : 'json',
-            success : function(result, status) {
-                fnc_generateWingRecentlyProductList(result);
-            },
-            error : function(result, status) {}
-        });
-    }
-
-    function fnc_generateWingRecentlyProductList(data) {
+    	
+    	var recently = Cookies.get('recently');
+    	
+        if (typeof recently == "undefined") {
+        	return;
+        }
+        recentlyList = Cookies.get('recently').split(',');
+		if (recentlyList.length < 1) {
+        	return;
+        }
+        
         var htmlStr = "";
 
-        for (var i = 0; data != null && data != "" && i < data.length; i++) {
-             htmlStr += "<li>";
-             htmlStr += "<a href='/detail/detail?prdNo=" + data[i].prdNo + "'>";
-             htmlStr += "    <img src='" + data[i].icnImg + "' />";
-             htmlStr += "</a>";
-             htmlStr += "</li>";
+        for (var i = 0; i < recentlyList.length; i++) {
+			var htmla = recentlyList[i].substring(recentlyList[i].length-4, recentlyList[i].length-3);
+			var htmlb = recentlyList[i].substring(recentlyList[i].length-3, recentlyList[i].length-2);
+			var htmlc = recentlyList[i].substring(recentlyList[i].length-2, recentlyList[i].length-1);
+			var htmld = recentlyList[i].substring(recentlyList[i].length-1, recentlyList[i].length);
+				
+			htmlStr += "<li>";
+			htmlStr += "<a href='/detail/detail?prdNo=" + recentlyList[i] + "'>";
+			htmlStr += "    <img src='http://openimage.interpark.com/goods_image/" + htmla + "/" + htmlb + "/" + htmlc + "/" + htmld + "/" + recentlyList[i] + "s.jpg' />";
+			htmlStr += "</a>";
+			htmlStr += "</li>";
         }
-        $("#wingUl").html(htmlStr);
-        $('.wingContents ul').bxSlider({
+        $("#cbtContentsUl").html(htmlStr);
+        $('#cbtContents ul').bxSlider({
             pager: false,
             auto: false,
             controls: true
-        });
+        }).stopAuto();
+        
+    }
+    
+    function fn_getWingRecentlyEntProductList() {
+    	var recentlyEntList = Cookies.get('recentlyEnt');
+    	var recentlyEntDispNoList = Cookies.get('recentlyEntDispNo');
+    	
+        if (typeof recentlyEntList == "undefined") {
+        	return;
+        }
+        if (typeof recentlyEntDispNoList == "undefined") {
+        	return;
+        }
+        
+        recentlyEntList = Cookies.get('recentlyEnt').split(',');
+		recentlyEntDispNoList = Cookies.get('recentlyEntDispNo').split(',');
+		if (recentlyEntList.length < 1) {
+        	return;
+        }
+		if (recentlyEntDispNoList.length < 1) {
+        	return;
+        }
+
+		fnc_generateWingRecentlyEntProductList();
+    }
+
+    function fnc_generateWingRecentlyEntProductList() {
+        var htmlStr = "";
+        var recentlyEntList = Cookies.get('recentlyEnt').split(',');
+        var recentlyEntDispNoList = Cookies.get('recentlyEntDispNo').split(',');
+        
+        for (var e = 0; e < recentlyEntList.length ; e++) {
+            htmlStr += "<li>";
+            htmlStr += "<a href='http://www.globalinterpark.com/detail/edetail?prdNo=" + recentlyEntList[e] + "&dispNo="+recentlyEntDispNoList[e]+"'>";
+            htmlStr += "    <img src='http://ticketimage.interpark.com/Play/image/large/" + recentlyEntList[e].substring(0,2) + "/" + recentlyEntList[e] + "_p.gif' />";
+            htmlStr += "</a>";
+            htmlStr += "</li>";
+        }
+        $("#entContentsUl").html(htmlStr);
+        $('#entContents ul').bxSlider({
+            pager: false,
+            auto: false,
+            controls: true
+        }).stopAuto();
+        
+    }
+
+    function fn_signin() {
+    	var url = "https://www.globalinterpark.com/user/signin";
+    	
+    	location.href = url + "?redirectUrl=" + Base64.encode(document.URL);
     }
 
 </script>
 <div class="aside right">
 <div class="rightWingWrap" data-module="_rightWing" data-stickr-gap="10" style="display: none;">
-    <p class="wingInfo" onclick="javascript:window.location.href='/customer/company';">About interpark</p>
     <ul class="wingList">
+		<p>
+			<a href="#">
+				<img src="//openimage.interpark.com/cbt/img/partial/wing/icon_wingLeft.mark.gif" alt="items01"> </a>
+		</p>
     	
             
             
@@ -810,32 +1127,35 @@
         
             
             
-            	<li><a href="https://www.globalinterpark.com/user/signin" class="logIn">Sign in</a></li>
+            	<li><a href="javascript:void(0);" onclick="fn_signin();" class="logIn">Sign In</a></li>
             
         
         
-        
-        
-        <li><a href="#" class="lately">Viewed Items</a>
+        <li><a href="javascript:void(0);" class="lately">Viewed Shows</a>
             <div class="wingWrap">
-                <div class="wingContents">
-                    <ul id="wingUl">
+                <div class="wingContents" id="entContents">
+                    <ul id="entContentsUl">
                        
                     </ul>
                 </div>
             </div>
         </li>
-        <li><a href="http://www.globalinterpark.com/customer/faqList?faqTp=06" class="guide">Shopping Guide</a></li>
         
-            
-        
-            <li><a href="https://www.globalinterpark.com/customer/inquiry" class="custom">Contact us</a></li>
-        
-        <li><a href="#" class="top">TOP</a></li>
+        <li><a href="http://www.globalinterpark.com/mypage/recently" class="lately">Viewed Items</a>
+            <div class="wingWrap">
+                <div class="wingContents" id="cbtContents">
+                    <ul id="cbtContentsUl">
+                       
+                    </ul>
+                </div>
+            </div>
+        </li>
+
+        <li><a href="http://www.globalinterpark.com/customer/faqList?faqTp=09" class="guide">Purchase Guide</a></li>
+        <li><a href="http://www.globalinterpark.com/customer/faqList" class="custom">Help</a></li>
     </ul>
 </div>
 </div>
-
 
         </div>
     </div>
@@ -844,12 +1164,34 @@
 
 
 
+
+
 <script>
     $(document).ready(function() {
+    	
     	fn_googleAnalytics();
+    	
+    	topBtn();
     });
 
-	function fn_googleAnalytics(){
+    $(document).scroll(function() {
+		var viewButtonY = $(this).scrollTop();
+		if (viewButtonY > 600) {
+			$('.goTopButton').fadeIn();
+		} else {
+			$('.goTopButton').fadeOut();
+		}
+	});
+
+	function topBtn() {
+		$('.goTopButton button').on('click', function() {
+			$('html, body').animate({
+				scrollTop: 0
+			}, 300);
+		});
+	};
+
+    function fn_googleAnalytics(){
 	    (function(i, s, o, g, r, a, m) {
 	        i['GoogleAnalyticsObject'] = r;
 	        i[r] = i[r] || function() {
@@ -863,26 +1205,23 @@
 	        }
 	    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
 
-	    ga('create', 'UA-60117844-1', 'auto');
+	    ga('create', 'UA-60117844-2', 'auto');
 	    ga('send', 'pageview');
 	}
 </script>
+<div class="goTopButton">
+	<button type="button">TOP</button>
+</div>
 <div id="footer" data-module="_footerDefault">
     <div class="footerNav">
         <div class="navInner">
             <div id="family">
                 <select title="Family Sites">
-                    <option value="http://incorp.interpark.com/communication/CompanyInfo.do?_method=initial&amp;wid1=footer&amp;wid2=company">Interpark Holdings Corporation</option>
-                    <option value="http://global.interpark.com/bookPark/html/book.html">interpark global</option>
-                    <option value="http://ticket.interpark.com/">interpark 티켓</option>
-                    <option value="http://www.imarketkorea.com?wid1=footer&amp;wid2=group&amp;wid3=imk">아이마켓코리아</option>
-                    <option value="http://www.interparkhm.com?wid1=footer&amp;wid2=group&amp;wid3=dc">인터파크HM</option>
-                    <option value="http://www.interparklogistics.com?wid1=footer&amp;wid2=group&amp;wid3=intlogi">인터파크로지스틱스</option>
-                    <option value="http://www.bluesquare.kr/Info/Bluesquare_Info.asp?m_menu=bluesquare&amp;s_menu=info&amp;wid1=footer&amp;wid2=group&amp;wid3=theatre">블루 스퀘어</option>
-                    <option value="http://www.bluesquare.kr?wid1=footer&amp;wid2=group&amp;wid3=bluesquare">아트센터</option>
-                    <option value="http://www.lottecardartcenter.com?wid1=footer&amp;wid2=group&amp;wid3=artcenter">디지털아이디어</option>
-                    <option value="http://www.digiart.co.kr/kor/html/main/index.asp?wid1=footer&amp;wid2=group&amp;wid3=digiart">디지아트</option>
-                    <option value="http://www.paedea.com?wid1=footer&amp;wid2=group&amp;wid3=paedea">페디아</option>
+                    <option value="http://www.interpark.com/holding/communication/CompanyInfo.do?_method=initial">Interpark Holdings</option>
+                    <option value="http://global.interpark.com/bookPark/html/book.html">Interpark Global</option>
+                    <option value="http://www.imarketkorea.com/?wid1=footer&amp;wid2=group&amp;wid3=imk">iMarketKorea</option>
+                    <option value="http://www.interparklogistics.com/default/">Interpark Logistics</option>
+                    <option value="http://www.bluesquare.kr/?wid1=footer&amp;wid2=group&amp;wid3=bluesquare">Blue Square</option>
                 </select>
             </div>
             <ul class="companyLink">
@@ -895,10 +1234,10 @@
         </div>
     </div>
     <div class="footerArticle">
-        <p class="footerNotice">Interpark shall not be held responsible for the validity of the information of products registered and available for sale on the interpark website as it has been presented by sellers.</p>
+        <p class="footerNotice">Interpark shall not be held responsible for the validity of the information of products registered and available for sale on the Interpark website as it has been presented by sellers.</p>
         <p class="address">
             INTERPARK Corporation.135-880 512 Samseong-ro, Gangnam-gu, Seoul, KoreaㅣPhone Number (+82)1588-1555
-            <br>Business Registration Number : 214-87-98889ㅣTelecommunication sale business registration number : Gangnam 02549ㅣCheif Executive Officer：Sang-Kyu Lee
+            <br>Business Registration Number ː 214-87-98889ㅣTelecommunication sale business registration number ː Gangnam 02549ㅣCheif Executive Officer：Dong-Hwa Kang, Yang-Sun Kim
         </p>
         <p class="copyright">
             Copyright © <strong>Interpark Corporation</strong>. All rights reserved.
