@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the grandprix.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123031626id_/http%3A//www.grandprix.com/hmppolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grandprix.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228192623id_/http%3A//www.grandprix.com/privacy) for the most accurate reproduction.*
 
-# F1 News - Grandprix.com
+# Grandprix.com - Privacy
 
 Inside F1, Inc., the developer of the GRANDPRIX.COM website, recognize that many Internet users are concerned about privacy. Accordingly, we have developed this notice to explain our online information practices, identify the kinds of information we collect, and describe how we may use this information. 
 
@@ -48,6 +48,5 @@ If you have any questions, concerns, or comments regarding this Privacy Policy, 
 
 Privacy Coordinator  
 Inside F1, Inc.  
-75 Oak Street  
-Suite 101  
-Norwood, NJ 07648
+PO Box 4  
+Palisades, NY 10964
