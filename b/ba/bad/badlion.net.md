@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the badlion.net privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627230856id_/https%3A//www.badlion.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the badlion.net privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228054815id_/https%3A//www.badlion.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Badlion Network
 
@@ -162,6 +162,6 @@ Turtle Entertainment Online, Inc.
 Burbank, California 91506  
 USA
 
-If you have questions about data protection, you can also contact the data protection officer by email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you have questions about data protection, you can also contact the data protection officer by email dpo@eslgaming.com
 
 Last updated: May 25, 2018
