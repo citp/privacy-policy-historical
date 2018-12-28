@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webaward.org privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520000417id_/https%3A//www.webaward.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webaward.org privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228204522id_/http%3A//www.webaward.org/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Web Marketing Association's WebAwards
 
