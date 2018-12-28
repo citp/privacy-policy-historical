@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speakerdeck.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628070502id_/https%3A//speakerdeck.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speakerdeck.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228131856id_/https%3A//speakerdeck.com/privacy) for the most accurate reproduction.*
 
 # Speaker Deck - Share Presentations without the Mess
 
@@ -35,7 +35,7 @@ Fewer & Faster LLC (Fewer & Faster) collects e-mail addresses of people who send
 
 ## Security
 
-The security of your personal information is important to us. While we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can send email us at [support@fewerandfaster.com](mailto:support@fewerandfaster.com).
+The security of your personal information is important to us. While we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can send email us at [support@speakerdeck.com](mailto:support@speakerdeck.com).
 
 * * *
 
