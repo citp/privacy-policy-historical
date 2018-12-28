@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the targetstudy.com privacy policy that was archived on 2018-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180628092006id_/https%3A//targetstudy.com/company/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the targetstudy.com privacy policy that was archived on 2018-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181228152303id_/https%3A//targetstudy.com/company/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 	<title>Privacy Policy -  TargetStudy.com</title>
@@ -10,6 +10,7 @@
 	<meta name="robots" content="ALL">
 	<meta name="revisit-after" content="1 day">
 	<meta name="google-site-verification" content="v3fK4noX_Syw6ggdA75rx4i-7iG5rVU_p6gfCfpr9fs">
+  <meta name="ahrefs-site-verification" content="f1e228a0efe53e66960e3cc1cf8d4c847d0baf21f9ad210d512bb653dc624c20">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<link rel="apple-touch-icon" href="/img/logos/targetstudy-icon.png">
 	
@@ -50,13 +51,6 @@
 	<div id="site-wrapper">
 		<div id="site-menu-left">
 			<a id="leftNav" href="" class="toggle-nav"><img src="/img/logos/targetstudy.com-small-white.png" alt="Education in India" height="40" width="196"></a><br>
-		</div>
-		<div id="site-menu-right">
-			
-<ul class="nav nav-pills nav-stacked">
-<li><a href="/members/index.php">Dashboard</a></li><li><a href="/members/manage-profile.php">Manage Profile</a></li><li><a href="#">Add Institute</a></li><li><a href="#">Manage Institute</a></li><li><a href="/members/questions/index.php">Questions/Answers</a></li><li><a href="#">Favorite List</a></li><li><a href="#">Change Password</a></li><li><a href="#">Help Section</a></li><li><a href="/members/logout.php">Logout</a></li>  
-</ul>	
-
 		</div>
 	    <div id="site-canvas">
 			<div class="bg-white hidden-xs">
@@ -285,7 +279,7 @@ TargetStudy.com welcomes your comments regarding this privacy statement at the c
 			<div class="panel panel-custom bg-gray" style="padding:1px">
 			<div class="row">
 				<div class="col-lg-6 col-md-6 col-sm-9 text-left">
-					&nbsp;<span class="glyphicon glyphicon-signal text-info"></span> <span class="small-text1">Page Views: 37477</span>				</div>
+					&nbsp;<span class="glyphicon glyphicon-signal text-info"></span> <span class="small-text1">Page Views: 42517</span>				</div>
 				<div class="col-lg-6 col-md-6 col-sm-3 text-right hidden-xs">
 					<a href="#" id="a_disclaimer" class="aMore small-text1"><span class="aMore glyphicon glyphicon-chevron-down"></span> Content Disclaimer</a>&nbsp;				</div>
 			</div><!--Div row-->
@@ -308,7 +302,6 @@ TargetStudy.com welcomes your comments regarding this privacy statement at the c
 </ul></li><li><a href="https://targetstudy.com/articles/"><b>Education Articles</b></a></li>
 <li><a href="https://targetstudy.com/distance-education/"><b>Distance Education</b></a></li>
 <li><a href="https://targetstudy.com/news/"><b>Education News</b></a></li>
-<li><a href="https://targetstudy.com/questions"><b>Ask a Question</b></a></li>
 </ul></div><div class="col-lg-3 col-md-3"><ul><li><a href="https://targetstudy.com/exams/"><b>Entrance Exams in India</b></a></li>
 <li style="list-style:none"><ul style="margin:0px"><li><a href="https://targetstudy.com/exams/bank-exams/">Bank Exams</a></li>
 <li><a href="https://targetstudy.com/exams/ca-entrance-exams/">CA Entrance Exams</a></li>
@@ -510,7 +503,7 @@ TargetStudy.com welcomes your comments regarding this privacy statement at the c
 				target.onselectstart=function()
 				{return false}
 			else if(typeof target.style.MozUserSelect!="undefined")
-				target.style.MozUserSelect="none"
+				target.style.MozUserSelect="none";
 			else
 			target.style.cursor="default"
 		}
@@ -519,13 +512,13 @@ TargetStudy.com welcomes your comments regarding this privacy statement at the c
 		
 		$("#googleSearchInput").on("focus blur", function(e)
 		{
-			if(e.type=="focus")
+			if(e.type==="focus")
 			{
 				$(this).removeClass("google-water-mark");
 			}
-			else if(e.type=="blur")
+			else if(e.type==="blur")
 			{
-				if($(this).val()=="")
+				if($(this).val()==="")
 				{
 					$(this).addClass("google-water-mark");
 				}
@@ -536,8 +529,272 @@ TargetStudy.com welcomes your comments regarding this privacy statement at the c
 			}
 		});
 
+    function showModalBox(parameters)
+    {
+      //Modal size "sm=small, md=medium (default), lg=large, max for full width modal box"
+      var modal_size          = "";
+      var modal_title         = "";
+      var modal_url           = ""; //Load Modal content from URL through ajax call.
+      var modal_scroll_class  = ""; //Additional class to be applied on modal body to show body content // class name = "modal-scroll-500" show scroll for height more than 500px
+      //in fixed height with scroll bars on.
+      var modal_data_from_div = ""; //Load modal body content from existing div id or class.
+      var modal_data_from_var = ""; //Load modal body content from variable.
+      var modal_close_btn     =  ""; //Add close button in modal footer.
+      var modal_fn_call       = ""; //To call any custom function after modal box is loaded fully.
+      var modal_footer_data   = "";
+      var modal_close_on_click= "";
+      var modal_iframe        = "";
+      var modal_iframe_height = "500";
+  
+      //if modal_url is set and used only for ajax calls.
+      var data_type = "json"; //Default data return type is json.
+      var ajax_method = "GET";  //Default ajax method is GET.
+  
+  
+      //Setting variables if exist.
+      if (typeof parameters.modal_size !== "undefined")
+        modal_size = parameters.modal_size;
+  
+      if (typeof parameters.modal_title !== "undefined")
+        modal_title = parameters.modal_title;
+  
+      if (typeof parameters.modal_iframe !== "undefined")
+        modal_iframe = parameters.modal_iframe;
+  
+      if (typeof parameters.modal_iframe_height !== "undefined")
+        modal_iframe_height = parameters.modal_iframe_height;
+  
+      if (typeof parameters.modal_url !== "undefined")
+        modal_url = parameters.modal_url;
+  
+      if (typeof parameters.modal_scroll_class !== "undefined")
+        modal_scroll_class = parameters.modal_scroll_class;
+  
+      if (typeof parameters.modal_data_from_div !== "undefined")
+        modal_data_from_div = parameters.modal_data_from_div;
+  
+      if (typeof parameters.modal_footer_data !== "undefined")
+        modal_footer_data = parameters.modal_footer_data;
+  
+      if (typeof parameters.modal_data_from_var !== "undefined") {
+        modal_data_from_var = parameters.modal_data_from_var;
+        if (modal_data_from_var !== "")
+          modal_url = "";
+      }
+  
+      if (typeof parameters.modal_close_on_click !== "undefined")
+        modal_close_on_click = parameters.modal_close_on_click;
+  
+      if (typeof parameters.modal_close_btn !== "undefined")
+        modal_close_btn = parameters.modal_close_btn;
+  
+      if (typeof parameters.modal_fn_call !== "undefined")
+        modal_fn_call = parameters.modal_fn_call;
+  
+      if (typeof parameters.data_type !== "undefined")
+        data_type = parameters.data_type;
+  
+      if (typeof parameters.ajax_method !== "undefined")
+        ajax_method = parameters.ajax_method;
+  
+  
+      //reference to the modal box.
+      var modal_name = "#" + "modalBox";
+  
+  
+      // Storing reference to modal box sub elements in order to change the content in them dynamically. Can the change the content of modal-box such as its body, title and footer".
+      var modal_body_div = modal_name + ">.modal-dialog >.modal-content >.modal-body";
+      var modal_title_div = modal_name + ">.modal-dialog >.modal-content >.modal-header >.modal-title";
+      var modal_footer_div = modal_name + ">.modal-dialog >.modal-content >.modal-footer";
+  
+  
+      //Resetting the modal box size to medium if changed earlier to small or large.
+      $(modal_name + ">.modal-dialog").removeClass("modal-sm modal-max modal-lg");
+  
+      $(modal_body_div).removeAttr("style");
+  
+      //Set this class through parameters if body content needed to fixed with and scroll bars will be shown when content is crossing the defined width.
+      if (modal_scroll_class !== "")
+        $(modal_body_div).addClass(modal_scroll_class);
+      else
+        $(modal_body_div).removeClass("modal-scroll-600 modal-scroll-500");
+  
+  
+      //If size specified other than medium. Bootstrap has 3 sizes md(default), sm = small, lg =large.
+      if (modal_size !== "") {
+        $(modal_name + ">.modal-dialog").removeClass("modal-sm modal-md modal-lg modal-xl").addClass("modal-" + modal_size);
+      }
+  
+      $(modal_footer_div).hide();
+      $(modal_title_div).html(modal_title);
+  
+      // Show loading message with spinning icon until content is loaded in the modal box.
+      $(modal_body_div).html('<div><span class="fa fa-spinner fa-spin fa-3x text-nda"></span> <div><b>Loading Content Please wait</b></div></div>');
+  
+      if (modal_footer_data !== "") {
+        $(modal_footer_div).html(modal_footer_data).show();
+      }
+  
+      if (modal_close_btn === true) {
+        $(modal_footer_div).html('<button class="btn btn-sm btn-danger" data-dismiss="modal">X Close</button>').show();
+      }
+  
+  
+      //When user click outside the modal box close the modal box. Default is "No"
+      if (modal_close_on_click.toLowerCase() === "no") {
+        $(modal_name).modal({
+          backdrop: 'static'
+        })
+      }
+      else {
+        $(modal_name).modal({
+          backdrop: true
+        })
+      }
 
+      //This code is required to open specific urls inside iframe.
+      if(modal_url.indexOf("add-meta-tags.php")>1)
+      {
+        modal_iframe        = true;
+        modal_iframe_height = "350";
+      }
+      else if(modal_url.indexOf("delete.php")>1)
+      {
+        modal_iframe        = true;
+        modal_iframe_height = "270";
+      }
+      else if(modal_url.indexOf("file-upload.php")>1)
+      {
+        modal_iframe        = true;
+        modal_iframe_height = "700";
+      }
 
+      // Showing the actual modal box.
+      $(modal_name).modal('show');
+  
+      $(modal_body_div).html("<i class='fa fa-spinner fa-spin text-nda fa-2x'></i> Loading...");
+  
+      // Load modal body content from directly from variable.
+      if (modal_data_from_var !== "") {
+        $(modal_body_div).html(modal_data_from_var);
+      }
+      //Load modal body content from div id or class already declared on page.
+      else if (modal_data_from_div !== "") {
+        $(modal_body_div).html($(modal_data_from_div).html());
+      }
+      //Load file inside iframe
+      else if(modal_url!=="" && modal_iframe!=="")
+      {
+        $(modal_body_div).html("<iframe src='"+modal_url+"' width='100%' height='"+modal_iframe_height+"' style='border:none;overflow:hidden' class='ps ps--active-y'></iframe>");
+      }
+  
+      //Load modal content from server through ajax call.
+      else if (modal_url !== "") {
+        $.ajax({
+          beforeSend: function () {
+          },
+          url: modal_url,
+          dataType: data_type,
+          type: ajax_method,
+  
+          success: function (data) {
+            if (data_type === "html")
+              $(modal_body_div).html(data);
+  
+            // Calling the custom function after loading the modal content
+            if (modal_fn_call !== "") {
+              if (modal_fn_call === "load_html_data") {
+                load_html_data(parameters.fn_data);
+              }
+            }
+          },
+  
+          complete: function () {
+          },
+          error: function (xhr, tStatus, err) {
+            if (xhr.status === 401 || xhr.status === 403) {
+              console.log(tStatus + err)
+            }
+            else if (xhr.status === 504) {
+              //ajaxRequest();
+            }
+          } // end error handler
+        });
+      }// if modal_url is filled.
+    }
+
+    $('[data-modal-box]').on("click", function (e)
+    {
+      var modal_url = "";
+      var modal_title = "";
+      var modal_box_for = "";
+      var modal_size = "lg";
+      var modal_scroll_class = "";
+      var modal_close_on_click = "yes";
+      var modal_data = "";
+      var html = "";
+      var modal_iframe = "";
+      var modal_iframe_height = "500";
+
+      if (typeof $(this).attr('title') !== "undefined")
+        modal_title = $(this).attr('title');
+      else if (typeof $(this).attr('alt') !== "undefined")
+        modal_title = $(this).attr('alt');
+  
+      if (typeof $(this).attr('href') !== "undefined")
+        modal_url = $(this).attr('href');
+      else if (typeof $(this).attr('src') !== "undefined")
+        modal_url = $(this).attr('src');
+  
+      if (typeof $(this).attr('data-for') !== "undefined")
+        modal_box_for = $(this).attr('data-for');
+  
+      if (typeof $(this).attr('data-modal-size') !== "undefined")
+        modal_size = $(this).attr('data-modal-size');
+  
+      if (typeof $(this).attr('data-scroll-class') !== "undefined")
+        modal_scroll_class = $(this).attr('data-scroll-class');
+  
+      if (typeof $(this).attr('data-id-class') !== "undefined")
+        modal_data = $($(this).attr('data-id-class')).html();
+  
+      if (typeof $(this).attr('data-close-on-click') !== "undefined")
+        modal_close_on_click = $(this).attr('data-close-on-click');
+  
+      if (typeof $(this).attr('data-modal-iframe') !== "undefined")
+        modal_iframe = $(this).attr('data-modal-iframe');
+  
+      if (typeof $(this).attr('data-modal-iframe-height') !== "undefined")
+        modal_iframe_height = $(this).attr('data-modal-iframe-height');
+  
+      if (modal_box_for === "file") {
+        var parameters = {
+          'modal_url': modal_url,
+          'modal_size': modal_size,
+          'data_type': "html",
+          'modal_scroll_class': modal_scroll_class,
+          'modal_close_on_click': modal_close_on_click,
+          'modal_title': modal_title,
+          'modal_iframe': modal_iframe,
+          'modal_iframe_height': modal_iframe_height
+        }
+      }
+      else {
+        if (modal_data === "")
+          html = '<img class="img-responsive img-center" src="' + modal_url + '"/>';
+        else
+          html = modal_data;
+  
+        parameters = {
+          'modal_data_from_var': html,
+          'modal_size': "lg",
+          'modal_title': '<strong class="h2">' + modal_title + '</strong>'
+        }
+      }
+  
+      showModalBox(parameters);
+      e.preventDefault();
+  });
 
 </script>
 
