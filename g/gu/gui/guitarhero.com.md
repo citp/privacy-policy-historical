@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guitarhero.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628083044id_/https%3A//www.activision.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitarhero.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228143622id_/https%3A//www.activision.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Activision | Privacy Policy
 
@@ -49,7 +49,7 @@ This Privacy Policy applies to all Properties, including:
 
 
 
-This Privacy Policy does not apply to third party websites, online properties, or systems to which our Properties may link or through which our Properties may be accessed, and you accept Activision is not responsible for the security or privacy practices of any such third party websites, properties or systems. In some instances, we may direct you to a site that is operated by a vendor or partner. Even though the page where you provide information may have the look and feel of the Properties, a different privacy policy may govern that information collection by our vendor or partner.
+This Privacy Policy does not apply to third party websites, online properties, or systems to which our Properties may link or through which our Properties may be accessed, and you accept Activision is not responsible for the security or privacy practices of any such third party websites, properties, or systems. In some instances, we may direct you to a site that is operated by a vendor or partner. Even though the page where you provide information may have the look and feel of the Properties, a different privacy policy may govern that information collection by our vendor or partner.
 
 This Privacy Policy does not cover Information provided when you apply for a job at Activision. Please refer [here](https://www.activision.com/legal/applicant-privacy-policy) for more information.
 
@@ -60,7 +60,7 @@ This Privacy Policy and the ESRB certification seals shown on our Properties con
 
 Click here for details Hide details
 
-As part of the ESRB Privacy Certified Program, we are subject to frequent audits of our Properties and other enforcement and accountability mechanisms administered independently by the ESRB Privacy Certified.
+As part of the ESRB Privacy Certified Program, we are subject to frequent audits of our Properties and other enforcement and accountability mechanisms administered independently by ESRB Privacy Certified.
 
 Whenever you visit Properties that display the ESRB Privacy Certified certification seal, you may request information about:
 
@@ -75,7 +75,7 @@ Whenever you visit Properties that display the ESRB Privacy Certified certificat
 
 
 
-_DISCLAIMER: Although ESRB Privacy Certified does not monitor non-English Activision Properties, Activision makes all best efforts to ensure that non-English Properties adhere to applicable data collection guidance and principles set forth by ESRB Privacy Certified, including adherence to EU and other territorial regulations outside of the U.S._
+_DISCLAIMER: Although ESRB Privacy Certified does not monitor non-English Properties, Activision makes all best efforts to ensure that non-English Properties adhere to applicable data collection guidance and principles set forth by ESRB Privacy Certified, including adherence to EU and other territorial regulations outside of the U.S._
 
 If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact the ESRB Privacy Certified at: <http://www.esrb.org/privacy/contact.aspx>; or
 
@@ -89,18 +89,18 @@ Back to top
 
 **3\. Information We Collect and How We Use It**
 
-Activision collects Information about you from you and other sources. As set out below in more detail, we use and in specific cases may combine that Information to operate, tailor content, personalize, adjust and improve our Properties, and to send you messages or personalized information about our games, your scores, new features and more, including for marketing and promotional purposes.
+Activision collects Information about you from you and other sources. As set out below in more detail, we use and in specific cases combine that Information to operate, tailor content, personalize, adjust and improve our Properties, and to send you messages or personalized information about our games, your scores, new features and more, including for marketing and promotional purposes.
 
 Click here for details Hide details
 
-**Information Provided By You**  
+**Information Provided by You**  
 As set out in more detail in the following, Activision may collect Information from you when you: (A) create an Activision account with a Property; (B) use our Properties; (C) participate in sweepstakes, contests and promotions; (D) use Activision customer service; (E) choose to receive newsletters on products and services, receive marketing emails, and/or participate in surveys; (F) buy Activision services or products online; or (G) allow sharing through Social Media.
 
 **A. Creation of an Activision Account  
-**Activision Activision will collect certain Information from you when you register with a Property. Personal information collected during registration includes your first and last name, email address, username, and in specific cases, phone number. This personal information is combined with other Information such as your date of birth, country and information about your interests in and use of various products, programs and services and marketing preferences. Additionally, we collect and combine Information when you link a third party account (e.g., XBOX Live, PlayStation Network, Steam and Battle.net) to your Activision account, such as the username associated with you third party account, and the use of certain Properties may require you to link a third party account to your Activision account. 
+**Activision will collect certain Information from you when you register with a Property. Personal information collected during registration includes your first and last name, email address, username, and in specific cases, phone number. This personal information is combined with other Information such as your date of birth, country and information about your interests in and use of various products, programs and services and marketing preferences. Additionally, we collect and combine Information when you link a third party account (e.g., XBOX Live, PlayStation Network, Steam and Battle.net) to your Activision account, such as the username associated with you third party account, and the use of certain Properties may require you to link a third party account to your Activision account. 
 
 **B. Use of Our Properties  
-**When you visit or use our Properties we collect, process and/or combine Information about your use of those Properties, such as websites you visited before and after you used a Property, browser type and language, IP address, hardware and software information, advertising ID, third party account information (e.g., the username associated with your XBOX Live, PlayStation Network, Steam or Battle.net account), gameplay data, purchase histories, and Social Media data. We use Cookies and/or similar technologies (collectively referred to as “ **Cookies** ”) to do this.  In addition, we or our partners also use Cookies to serve ads in our Properties. Please see our _[Cookie Policy](https://web.archive.org/legal/cookie-policy)_ for more details.
+**When you visit or use our Properties we collect, process and/or combine Information about your use of those Properties, such as websites you visited before and after you used a Property, browser type and language, IP address, hardware and software information, advertising ID, third party account information (e.g., the username associated with your XBOX Live, PlayStation Network, Steam or Battle.net account), gameplay data, purchase histories, and Social Media data. We use Cookies and/or similar technologies (collectively referred to as “ **Cookies** ”) to do this. In addition, we or our partners also use Cookies to serve ads in our Properties. Please see our _[Cookie Policy](https://web.archive.org/legal/cookie-policy)_ for more details.
 
 Activision collects, processes, and combines data such as your age, gender, interests, name, email address, gameplay, marketing preferences, customer service, and device-related information.
 
@@ -130,8 +130,8 @@ You can interact with some Properties through social networking sites, such as F
 
 When you post personal information publicly through the Properties, or on Social Media, it will be viewable by other users of these sites and we cannot prevent further use of the personal information by third parties. For more information about how your Social Media uses and protects your personal information, please refer to their privacy policies and terms of use.
 
-**Information Provided By Other Sources**  
-We may also obtain Information, such as contact details (for example, name and email address), country, IP address, purchase histories, marketing preferences, cookie information, hardware and software information and other technical information about you from other sources, such as our affiliates, Social Media, our vendors (for example, event ticket providers and merchandise vendors), or partners (for example, advertisers, media partners or platform providers (e.g., Microsoft, Sony, Nintendo and Steam), and combine that Information with Information we have collected from or about you. We only collect Information from other sources where they have confirmed to us they are legally entitled to share it with us.
+**Information Provided by Other Sources**  
+We may also obtain Information, such as contact details (for example, name and email address), country, IP address, purchase histories, marketing preferences, cookie information, hardware and software information and other technical information about you from other sources, such as our affiliates, Social Media, our vendors (for example, event ticket providers and merchandise vendors), or partners (for example, advertisers, media partners or platform providers (e.g., Microsoft, Sony, Nintendo and Steam)), and combine that Information with Information we have collected from or about you. We only collect Information from other sources where they have confirmed to us they are legally entitled to share it with us.
 
 We use Cookies to provide and support our Properties and each of the uses outlined and described above. Please see our _[Cookie Policy](https://web.archive.org/legal/cookie-policy)_ for more information.
 
@@ -212,7 +212,7 @@ Back to top
 
 **7\. Security**
 
-Activision takes a range of security measures - as set out in detail below – designed to help protect your Information. However, complete online and offline security  can never be guaranteed, so you should always take care when sharing your information online.
+Activision takes a range of security measures as set out in detail below – designed to help protect your Information. However, complete online and offline security  can never be guaranteed, so you should always take care when sharing your information online.
 
 Click here for details Hide details
 
@@ -237,7 +237,7 @@ We delete your personal information which we process for the performance of the 
 Back to top
 
 **9\. Contacting Us**  
-To contact us, you can send us an email  email at [privacy@activision.com](mailto:privacy@activision.com), or write to us at: Activision Publishing, Inc., 3100 Ocean Park Boulevard, Santa Monica, CA 90405, ATTN: Privacy Team/Privacy Policy, or call Privacy Team/Privacy Policy, ph. +1 310 255 2000. For visitors from the EEA, you may also contact our Data Protection Officer by email at DPO@activision.com.
+To contact us, you can send us an email at [privacy@activision.com](mailto:privacy@activision.com), or write to us at: Activision Publishing, Inc., 3100 Ocean Park Boulevard, Santa Monica, CA 90405, ATTN: Privacy Team/Privacy Policy, or call Privacy Team/Privacy Policy, ph. +1 310 255 2000. For visitors from the EEA, you may also contact our Data Protection Officer by email at DPO@activision.com.
 
 You may also contact ESRB Privacy Certified if you have a question or complaint that has not been resolved to your satisfaction. Please see the  **ESRB Privacy Certified Program**  section at the top of this Privacy Policy for further details.
 
@@ -323,7 +323,7 @@ In certain circumstances, you can request that we transfer personal information 
 
 Where we rely on your consent in order to process your personal information, you have the right to withdraw such consent to further use of your personal information at any time. You can use the methods described in the **Accessing Information **section above to update your marketing preferences.
 
-For each of the rights described above, you can also send your request to us by using the contact details set out in the ******Contacting Us**  section above
+For each of the rights described above, you can also send your request to us by using the contact details set out in the ******Contacting Us**  section above.
 
 We hope that we can satisfy queries you may have about the way we process your personal information. However, if you have unresolved concerns you also have the right to complain to data protection authorities. You can bring the complaint in your member state of residence, place of work or where an alleged infringement of data protection law occurred.
 
