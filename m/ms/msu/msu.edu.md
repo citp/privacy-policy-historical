@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the msu.edu privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620160613id_/https%3A//msu.edu/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msu.edu privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228135430id_/https%3A//msu.edu/privacy/index.php) for the most accurate reproduction.*
 
 # MSU Privacy Statement | Michigan State University
 
@@ -20,17 +20,17 @@ The Site complies with the Payment Card Industry Data Security Standard. When yo
 
 ### Information The Site Collects Automatically
 
-This Site collects information automatically through the use of cookies, third party tracking technologies and server logs. MSU uses this information primarily to monitor the use of this Site and to make improvements. MSU may share this data with partners in order to enhance the functionality of this Site.
+This Site collects information automatically through the use of cookies, third party tracking technologies and server logs. MSU uses this information primarily to monitor the use of this Site, to better target content and advertising, and to make Site improvements. MSU may share this data with partners in order to enhance the functionality of this Site, as well as marketing service providers and digital marketing networks to present advertisements that might interest you.
 
 #### Cookies
 
-“Cookies” are small text files used to collect information about website activity. Cookies are useful because they allow a website to recognize a user's device. You can find more information about cookies at www.allaboutcookies.org. This Site uses cookies for two main purposes: (a) to carry information about your current session at this Site from one web page to the next, which also allows you to automatically login to other Michigan State University websites, and (b) to identify you on this Site on return visits.
+“Cookies” are small text files used to collect information about website activity. Cookies are useful because they allow a website to recognize a user's device. You can find more information about cookies at www.allaboutcookies.org. This Site uses cookies for three main purposes: (a) to carry information about your current session at this Site from one web page to the next, which also allows you to automatically login to other Michigan State University websites, (b) to identify you on this Site on return visits, and (c) to market advertising to you.
 
 You have the option of disabling or not accepting cookies by changing the preferences on your browser. If you opt to disable cookies, you will still be able to use certain sections of our Site. However, you will not be able to use any parts of this Site that requires a login.
 
 #### Third Party Tracking Technology
 
-This Site uses Google Analytics, the Google Search API, Google custom search, the Google Maps API, and Urchin.
+This Site uses Google Tag Manager, Google Analytics, the Google Search API, Google custom search, the Google Maps API, Urchin, and third-party advertising retargeting platforms.
 
 This Site uses a tracking technology called Google Analytics to obtain Site usage information such as users’ Internet Protocol (IP) addresses, Internet domain and host names, browser software, and the date and time that the Site is visited, which may be considered personal data in some jurisdictions. Data from Google Analytics allows us to monitor the use of this Site, understand how users find our Site, and improve the Site’s function and content.
 
@@ -103,4 +103,4 @@ MSU may update or change this policy at any time. Your continued use of the Univ
 
 Your questions, comments and concerns are always welcome. Please send us your feedback regarding the privacy statement or any other issues at: <https://msu.edu/contactus.html>.
 
-This policy was last updated May 2018.
+This policy was last updated August 2018.
