@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the dandb.com privacy policy that was archived on 2018-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180628191728id_/http%3A//www.dnb.com/utility-pages/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dandb.com privacy policy that was archived on 2018-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181228211324id_/https%3A//www.dnb.com/utility-pages/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
 	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
 
     <!-- topmost of head JavaScripts - Page -->
     <link rel="canonical" href="https://www.dnb.com/utility-pages/privacy-policy.html">		        
-	<title>Dun &amp; Bradstreet Privacy Notice - D&amp;B </title>
+	<title>Dun &amp; Bradstreet Privacy Notice - D&amp;B</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -22,7 +22,55 @@
 <link rel="stylesheet" href="/etc/designs/dnb/dnb-mod/clientlibs/styles.min.css" type="text/css">
 <link rel="stylesheet" href="/etc/designs/dnb/dnb-mod/clientlibs/pages/contentpage.min.css" type="text/css">
 <style>
-
+/* position for NewsCred pixel */
+.nc_pixel {
+  position: absolute;
+}
+/* temp style for Resources */
+.resources.landing .items > .container {
+  border: 0;
+  padding-bottom: 0;
+}
+.resources.landing .content-panel .container {
+  border-top: 1px solid rgb(214, 214, 214);
+  padding-top: 3em;
+}
+.resources .grid .items {
+  padding-bottom: 0;
+}
+.resources.category .content-panel, .resources.subcategory .content-panel {
+  padding-top: 3em;
+}
+.resources.category .content-panel h2, .resources.subcategory .content-panel h2 {
+  font-size: 1.5em;
+  line-height: 1.2em;
+}
+@media screen and (min-width: 768px){
+ .resources.category .content-panel h2, .resources.subcategory .content-panel h2 {
+     font-size: 1.8em;
+   }
+}
+@media screen and (min-width: 992px){
+ .resources.category .content-panel h2, .resources.subcategory .content-panel h2 {
+     font-size: 2em;
+   }
+}
+/* temp style to support SEO test on Perspectives */
+div[name=article] h2 {
+  font-size: 1.15em;
+   line-height: 1.39em;
+   margin: 0;
+   padding-top: 1.11em;
+   padding-bottom: 1.2em;
+}
+div[name=article] h2.subheadline {
+  padding-top: inherit;
+}
+@media screen and (min-width: 991px) {
+  div[name=article] h2 {
+     font-size: 1.75em;
+ }
+}
 /* scene7 issue disorting height */
 .content_card img {
 	height:auto;
@@ -50,11 +98,6 @@ footer .title a:hover {color: #868686; cursor: default}
                background-size: 80px 329.4px;    
        }
 }
-.content_card .contenttype_area .type-icon.use-credit-risk.capital-risk {
-background-size: 40px 170.2px;
-}
-.contact_cta {height: 70px}
-
 .contact_cta .cta .form {
   line-height: 2em;
 }
@@ -117,7 +160,6 @@ nav .menu > div > ul > li.open > a {
 			border-top: 0;
 		}
 		.contact_cta .cta .call {
-			width: 50%;
 			line-height: 3.7em;
 		}
 		.contact_cta .cta .call a {
@@ -132,20 +174,15 @@ nav .menu > div > ul > li.open > a {
 		.contact_cta .cta .form .icon {
 			background-position: -34px -231px;
 		}
-		.contact_cta .cta .form {
-			width: 25%;
-			/*border-right: 1px solid #ffffff;*/
-		}
 		.contact_cta .cta .form .mobile,
 		.contact_cta .cta .chat .mobile {
 			font-size: .69em;
 			display: block;
 		}
 		.contact_cta .cta .mobile {
-			line-height: 2;
+			line-height: 2em;
 		}
 		.contact_cta .cta .chat {
-			width: 25%;
 			display: block;
 		}
 		.contact_cta .cta a {
@@ -159,7 +196,17 @@ nav .menu > div > ul > li.open > a {
 			background-size: 85% 85%;
 			height: 30px;
 		}
-	}
+                .contact_cta .col-md-6.form:last-child {
+		width: 50%;
+	        }
+               .contact_cta .col-md-6.call, .contact_cta .col-md-4.call {
+                   width: 50%;
+               }       
+              .contact_cta .col-md-4.call + .col-md-4.form,  .contact_cta .col-md-4.form +
+               .col-md-4.chat  {
+                 width: 25%;
+               }
+          }
 	
 @media screen and (min-width: 992px) {
 	.contact_cta .cta .chat .mobile {
@@ -171,10 +218,6 @@ nav .menu > div > ul > li.open > a {
 /* temp fix for small globe icon */
 footer .international_site_selector_mobile_button .icon.globe {height: 1.8em; width: 1.8em}
 
-/* temporary fix for ios 11 form bug */
-.content-fixed {
-	position: fixed;
-}
 	/* partners */
 	@media screen and (min-width: 992px) #partner-detail .hero .logo .image {
 		display: inline-block;
@@ -186,6 +229,17 @@ footer .international_site_selector_mobile_button .icon.globe {height: 1.8em; wi
 		vertical-align: middle;
 	}
 
+/* temp fix for bug in fixed header and hero height - campaign pages */
+body.lead-landing {
+ padding-top: 0;
+}
+
+.lead-landing .row.hero .img {
+  max-height: 470px;
+}
+
+/* chat button cursor pointer shim */
+#chatBtn-Other {cursor: pointer}
 </style>
 <style>
 .back-to-top {
@@ -299,12 +353,11 @@ li .terms-accordion-head {
 
 <!-- top of head JavaScripts - Site -->
     <!-- For Bing verification -->
-<meta name="msvalidate.01" content="36A20ED6A34F6F0BAEEF7B1A68985B3E">
+<meta name="msvalidate.01" content="0C5B94C0FDCD5D0B9987098E679FAD56"> 
+<!-- For Google verification -->
+<meta name="google-site-verification" content="ygv66PcWeTs3mvbMei4DOcYahDYvL09WGPJQeKHh77k">
 
-<!-- For Bing verification -->
-<meta name="msvalidate.01" content="36A20ED6A34F6F0BAEEF7B1A68985B3E">
-
-<script type="text/javascript" async="" src="https://vmss.boldchat.com/aid/652348453108072006/bc.vms4/vms.js"></script><script type="text/javascript" async="" src="//img04.en25.com/i/elqCfg.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-J6PG"></script><script type="text/javascript">
+<script type="text/javascript" async="" src="//img04.en25.com/i/elqCfg.min.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-J6PG"></script><script type="text/javascript">
     var _elqQ = _elqQ || [];
     _elqQ.push(['elqSetSiteId', '1471']);
     _elqQ.push(['elqUseFirstPartyCookie', 'https://www.dnb.com']);
@@ -322,8 +375,7 @@ li .terms-accordion-head {
         if (window.addEventListener) window.addEventListener('DOMContentLoaded', async_load, false);
         else if (window.attachEvent) window.attachEvent('onload', async_load); 
     })();
-</script>
-<!-- top of head DTM callJavaScripts - Page -->
+</script><!-- top of head DTM callJavaScripts - Page -->
     <script type="text/javascript">
     var contentID = window.location;
     var digitalData={
@@ -377,29 +429,10 @@ li .terms-accordion-head {
     </script>
 
     <script type="text/javascript" src="/etc/designs/dnb/dnb-mod/clientlibs/headlibs.min.js"></script>
-<!-- top of head DTM call - Site -->
-        <script type="text/javascript">
-function readCookie(name) {
-    var nameEQ = name + "=";
-    var ca = document.cookie.split(';');
-    for(var i=0;i < ca.length;i++) {
-        var c = ca[i];
-        while (c.charAt(0) == ' ') c = c.substring(1, c.length);
-        if(c.indexOf(nameEQ) == 0) {
-            return c.substring(nameEQ.length, c.length);
-        }
-    }
-    return null;
-}
-
-
-</script>
 <!-- bottom of head JavaScripts - Site -->
     <script>
 // Site - Bottom of Head - JS
 </script>
-
-<script type="text/javascript" src="/etc/clientlibs/granite/jquery.min.js"></script>
 
 <script>
 	function targetPageParams() {
@@ -426,26 +459,17 @@ function readCookie(name) {
 		} 
 	}
 </script>
+<!-- bottom of head JavaScripts - Page -->
+    <!-- top of head DTM call - Site -->
+    <script src="//assets.adobedtm.com/1e94e5aad30fe5c5d79558a70f53b530c558d0d9/satelliteLib-33440d6e69a882dab18465afac83920e9a1a1c6a.js"></script>
 
-<script type="text/javascript">
-		 	var HID_cookie=readCookie("HID");
-		 	if (HID_cookie)
-		 	{ }
-		 	else
-		 	{
-		 		var today = new Date();
-			 	var cookie_value=today.getTime();		
-		 		createCookie("HID",cookie_value,30);
-		 		HID_cookie=readCookie("HID");
-		 	}	 	
-</script>
-
-<script>
-    var GTMID = 'GTM-J6PG';
-</script>
-<meta name="google-site-verification" content="ygv66PcWeTs3mvbMei4DOcYahDYvL09WGPJQeKHh77k">
-<script src="//assets.adobedtm.com/1e94e5aad30fe5c5d79558a70f53b530c558d0d9/satelliteLib-33440d6e69a882dab18465afac83920e9a1a1c6a.js"></script><!-- bottom of head JavaScripts - Page -->
-    <link href="/etc/designs/dnb/dnb-mod/images/apple-touch-icon-57.png" rel="apple-touch-icon">
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-J6PG');</script>
+<!-- End Google Tag Manager --><link href="/etc/designs/dnb/dnb-mod/images/apple-touch-icon-57.png" rel="apple-touch-icon">
     <link href="/etc/designs/dnb/dnb-mod/images/apple-touch-icon-76.png" rel="apple-touch-icon" sizes="76x76">
     <link href="/etc/designs/dnb/dnb-mod/images/apple-touch-icon-120.png" rel="apple-touch-icon" sizes="120x120">
     <link href="/etc/designs/dnb/dnb-mod/images/apple-touch-icon-152.png" rel="apple-touch-icon" sizes="152x152">
@@ -454,29 +478,17 @@ function readCookie(name) {
     <link href="/etc/designs/dnb/dnb-mod/images/favicon-16.png" rel="icon" type="image/png">
     <link href="/etc/designs/dnb/dnb-mod/images/favicon.ico" rel="icon" type="image/png">
     
-
-                    <script async="" src="https://ds-aksb-a.akamaihd.net/aksb.min.js"></script><script>var w=window;if(w.performance||w.mozPerformance||w.msPerformance||w.webkitPerformance){var d=document;AKSB=w.AKSB||{},AKSB.q=AKSB.q||[],AKSB.mark=AKSB.mark||function(e,_){AKSB.q.push(["mark",e,_||(new Date).getTime()])},AKSB.measure=AKSB.measure||function(e,_,t){AKSB.q.push(["measure",e,_,t||(new Date).getTime()])},AKSB.done=AKSB.done||function(e){AKSB.q.push(["done",e])},AKSB.mark("firstbyte",(new Date).getTime()),AKSB.prof={custid:"552433",ustr:"",originlat:"0",clientrtt:"2",ghostip:"184.50.88.65",ipv6:false,pct:"10",clientip:"207.241.232.218",requestid:"6d5cbb4",region:"20210",protocol:"",blver:14,akM:"g",akN:"ae",akTT:"O",akTX:"1",akTI:"6d5cbb4",ai:"197147",ra:"false",pmgn:"",pmgi:"",pmp:"",qc:""},function(e){var _=d.createElement("script");_.async="async",_.src=e;var t=d.getElementsByTagName("script"),t=t[t.length-1];t.parentNode.insertBefore(_,t)}(("https:"===d.location.protocol?"https:":"http:")+"//ds-aksb-a.akamaihd.net/aksb.min.js")}</script>
-                    </head>
-<body>
+    <!-- To add unique tracking code to individual articles -->
+    </head>
+<body class="">
     
     <!-- top of body JavaScripts - Site --> 
     <!-- top of body JavaScripts - Site --> 
 
-<!-- Google Tag Manager -->
-<noscript>
-<iframe src="//www.googletagmanager.com/ns.html?id=GTM-J6PG" height="0" width="0" style="display:none;visibility:hidden"></iframe>
-</noscript>
-<script>
-(function(w,d,s,l,i){
-  w[l]=w[l]||[];
-  w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});
-  var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
-  j.async=true;
-  j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;
-  f.parentNode.insertBefore(j,f);
-})
-(window,document,'script','dataLayer',GTMID);
-</script><!-- top of body JavaScripts - Page -->
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-J6PG"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><!-- top of body JavaScripts - Page -->
     
 
 
@@ -484,7 +496,6 @@ function readCookie(name) {
 <script>
 var CQ = CQ || {};
 </script>    
-<script type="text/javascript" src="/etc/clientlibs/granite/jquery.min.js"></script>
 
 <div id="page">
         <script>
@@ -513,99 +524,118 @@ var CQ = CQ || {};
     <input class="close" type="button">
     <!-- reference code start -->
     		<div class="parbase html"><div class="container">
-    <div class="row">
-        <div class="col-md-4 group">
-            <a class="category title">Finance, Credit &amp; Risk</a>
-            <div class="submenu">
-                <ul>
-                    <li class="product">
-                        <a class="title" href="https://credit.dnb.com/login">D&amp;B Credit</a>
-                        <span class="description">Credit risk solutions for modern organizations</span>
-                        <a class="login" href="https://credit.dnb.com/login">Login</a>
-                        <a class="learn-more" href="/products/finance-credit-risk/dnb-credit.html">Learn More</a>
-                    </li>
-                    <li class="product">
-                        <a class="title" href="https://creditreporter.dnb.com/">D&amp;B Credit Reporter </a>
-                        <span class="description">Make fast credit solutions and evaluate new credit applicants</span>
-                        <a class="login" href="https://creditreporter.dnb.com/">Login</a>
-                        <a class="learn-more" href="https://www.dandb.com/credit-reporter/">Learn More</a>
-                    </li>
-                    <li class="product">
-                        <a class="title" href="https://sso.dnbi.com/cas/login">DNBi Risk Management Premium</a>
-                        <span class="description">Automate and standardize your credit rules and policies</span>
-                        <a class="login" href="https://sso.dnbi.com/cas/login">Login</a>
-                        <a class="learn-more" href="/products/finance-credit-risk/dnbi-risk-management.html">Learn More</a>
-                    </li>
-                    <li class="product">
-                        <a class="title" href="https://www.mydnb.com/login.html">MyDNB.com</a>
-                        <span class="description">Access to Dun &amp; Bradstreet's online business credit reports</span>
-                        <a class="login" href="https://www.mydnb.com/login.html">Login</a>
-                        <a class="learn-more" href="/products/finance-credit-risk/mydnbcom.html">Learn More</a>
-                    </li>
-					<li class="product">
-                        <a class="title" href="http://www.dnbcountryrisk.com/">Country Insight</a>
-                        <span class="description">Evaluate cross-border risks and opportunities around the globe</span>
-                        <a class="login" href="http://www.dnbcountryrisk.com/">Login</a>
-                        <a class="learn-more" href="/about-us/our-data/country-insight-for-global-risk-management.html">Learn More</a>
-                    </li>
-                </ul>
-            </div>
+	<div class="row">
+		<div class="col-md-4">
+			<div class="group">
+				<a class="category title">Finance, Credit &amp; Risk</a>
+				<div class="submenu">
+					<ul>
+						<li class="product">
+							<a class="title" href="https://credit.dnb.com/login">D&amp;B Credit</a>
+							<span class="description">Credit risk solutions for modern organizations</span>
+							<a class="login" href="https://credit.dnb.com/login">Login</a>
+							<a class="learn-more" href="/products/finance-credit-risk/dnb-credit.html">Learn More</a>
+						</li>
+						<li class="product">
+							<a class="title" href="https://creditreporter.dnb.com/">D&amp;B Credit Reporter </a>
+							<span class="description">Make fast credit solutions and evaluate new credit applicants</span>
+							<a class="login" href="https://creditreporter.dnb.com/">Login</a>
+							<a class="learn-more" href="https://www.dandb.com/credit-reporter/">Learn More</a>
+						</li>
+						<li class="product">
+							<a class="title" href="https://sso.dnbi.com/cas/login">DNBi Risk Management Premium</a>
+							<span class="description">Automate and standardize your credit rules and policies</span>
+							<a class="login" href="https://sso.dnbi.com/cas/login">Login</a>
+							<a class="learn-more" href="/products/finance-credit-risk/dnbi-risk-management.html">Learn More</a>
+						</li>
+						<li class="product">
+							<a class="title" href="https://www.mydnb.com/login.html">MyDNB.com</a>
+							<span class="description">Access to Dun &amp; Bradstreet's online business credit reports</span>
+							<a class="login" href="https://www.mydnb.com/login.html">Login</a>
+							<a class="learn-more" href="/products/finance-credit-risk/mydnbcom.html">Learn More</a>
+						</li>
+						<li class="product">
+							<a class="title" href="http://www.dnbcountryrisk.com/">Country Insight</a>
+							<span class="description">Evaluate cross-border risks and opportunities around the globe</span>
+							<a class="login" href="http://www.dnbcountryrisk.com/">Login</a>
+							<a class="learn-more" href="/about-us/data-cloud/country-insight-for-global-risk-management.html">Learn More</a>
+						</li>
+					</ul>
+				</div>
+			</div>
         </div>
-        <div class="col-md-4 group">
-            <a class="category title">Sales &amp; Marketing</a>
-            <div class="submenu">
-                <ul>
-                    <li class="product">
-                        <a class="title" href="http://www.hoovers.com/">D&amp;B Hoovers</a>
-                        <span class="description">Grow business faster with leading intelligence and analytics</span>
-                        <a class="login" href="http://www.hoovers.com/">Login</a>
-                        <a class="learn-more" href="/products/marketing-sales/dnb-hoovers.html">Learn More</a>
-                    </li>
-                    <li class="product">
-                        <a class="title" href="https://subscriber.hoovers.com/H/login/login.html">Hoovers Subscriptions</a>
-                        <span class="description">Target and engage your most valuable customers and prospects to grow revenue</span>
-                        <a class="login" href="https://subscriber.hoovers.com/H/login/login.html">Login</a>
-                        <!-- <a class="learn-more" href="#">Learn More</a> -->
-                    </li>
-                    <li class="product">
-                        <a class="title" href="http://app.dnboptimizer.com/">D&amp;B Optimizer for Marketing</a>
-                        <span class="description">Optimize your marketing data</span>
-                        <a class="login" href="http://app.dnboptimizer.com/">Login</a>
-                        <a class="learn-more" href="/products/marketing-sales/dnb-optimizer-for-marketing.html">Learn More</a>
-                    </li>
-                    <li class="product">
-                        <a class="title" href="https://solutions.dnb.com/grs/">Global Reference Solution</a>
-                        <span class="description">Create a complete view of your customer</span>
-                        <a class="login" href="https://solutions.dnb.com/grs/">Login</a>
-                        <!-- <a class="learn-more" href="#">Learn More</a> -->
-                    </li>
-                </ul>
-            </div>
+        <div class="col-md-4">
+			<div class="group">
+				<a class="category title">Sales &amp; Marketing</a>
+				<div class="submenu">
+					<ul>
+						<li class="product">
+							<a class="title" href="https://app.dnbhoovers.com" target="_blank">D&amp;B Hoovers</a>
+							<span class="description">Grow business faster with leading intelligence and analytics</span>
+							<a class="login" href="https://app.dnbhoovers.com" target="_blank">Login</a>
+							<a class="learn-more" href="/products/marketing-sales/dnb-hoovers.html">Learn More</a>
+						</li>
+						<li class="product">
+							<a class="title" href="https://subscriber.hoovers.com/H/login/login.html" target="_blank">Hoovers Subscriptions</a>
+							<span class="description">Target and engage your most valuable customers and prospects to grow revenue</span>
+							<a class="login" href="https://subscriber.hoovers.com/H/login/login.html" target="_blank">Login</a>
+							<!-- <a class="learn-more" href="#">Learn More</a> -->
+						</li>
+						<li class="product">
+							<a class="title" href="https://workbench.dnb.com/">D&amp;B Optimizer for Marketing</a>
+							<span class="description">Optimize your marketing data</span>
+							<a class="login" href="https://workbench.dnb.com/">Login</a>
+							<a class="learn-more" href="/products/marketing-sales/dnb-optimizer-for-marketing.html">Learn More</a>
+						</li>
+						<li class="product">
+							<a class="title" href="https://solutions.dnb.com/grs/">Global Reference Solution</a>
+							<span class="description">Create a complete view of your customer</span>
+							<a class="login" href="https://solutions.dnb.com/grs/">Login</a>
+							<!-- <a class="learn-more" href="#">Learn More</a> -->
+						</li>
+					</ul>
+				</div>
+			</div>
         </div>
-        <div class="col-md-4 group">
-            <a class="category title">Supply &amp; Compliance</a>
-            <div class="submenu">
-                <ul>
-                    <li class="product">
-                        <a class="title" href="https://www.supplierriskmanager.com">Supplier Risk Manager</a>
-                        <span class="description">Anticipate and alleviate supplier risk</span>
-                        <a class="login" href="https://www.supplierriskmanager.com">Login</a>
-                        <a class="learn-more" href="/products/operations-supply/dnb-supplier-risk-manager-2-0.html">Learn More</a>
-                    </li>
-                    <li class="product">
-                        <a class="title" href="https://dnb.onelogin.com/login">D&amp;B Onboard</a>
-                        <span class="description">Corporate regulatory compliance made easier</span>
-                        <a class="login" href="https://dnb.onelogin.com/login">Login</a>
-                        <a class="learn-more" href="/products/corporate-compliance/dnb-onboard.html">Learn More</a>
-                    </li>
-                    <li class="product">
-                        <a class="title" href="https://www.portfoliomanager.dnb.com/App/ContentPages/Logon/SecureLogon.aspx">Supply Portfolio Manager</a>
-                        <span class="description">Merge your customer receivables data with our global database</span>
-                        <a class="login" href="https://www.portfoliomanager.dnb.com/App/ContentPages/Logon/SecureLogon.aspx">Login</a>
-                        <!-- <a class="learn-more" href="#">Learn More</a> -->
-                    </li>
-                </ul>
-            </div>
+        <div class="col-md-4">
+			<div class="group">
+				<a class="category title">Dun &amp; Bradstreet <span class="no-break">D-U-N-S</span> Number</a>
+				<div class="submenu">
+					<ul>
+						<li class="product">
+							<a class="title" href="https://www.dandb.com/product/companyupdate/companyupdateLogin?execution=e1s1">Company Update</a>
+							<span class="description">View, manage and print business information on your D&amp;B Credit file</span>
+							<a class="login" href="https://dashboard.dnb.com/login">Login</a>
+							<a class="learn-more" href="https://www.dandb.com/product/companyupdate/companyupdateLogin?execution=e1s1">Learn More</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<div class="group" style="margin-top: 2em">
+				<a class="category title">Supply &amp; Compliance</a>
+				<div class="submenu">
+					<ul>
+						<li class="product">
+							<a class="title" href="https://www.supplierriskmanager.com/cp/login">Supplier Risk Manager</a>
+							<span class="description">Anticipate and alleviate supplier risk</span>
+							<a class="login" href="https://www.supplierriskmanager.com/cp/login">Login</a>
+							<a class="learn-more" href="/products/operations-supply/dnb-supplier-risk-manager-2-0.html">Learn More</a>
+						</li>
+						<li class="product">
+							<a class="title" href="https://onboard.dnb.com/onboard/">D&amp;B Onboard</a>
+							<span class="description">Corporate regulatory compliance made easier</span>
+							<a class="login" href="https://onboard.dnb.com/onboard/">Login</a>
+							<a class="learn-more" href="/products/corporate-compliance/dnb-onboard.html">Learn More</a>
+						</li>
+						<li class="product">
+							<a class="title" href="https://www.portfoliomanager.dnb.com/App/ContentPages/Logon/SecureLogon.aspx">Supply Portfolio Manager</a>
+							<span class="description">Merge your customer receivables data with our global database</span>
+							<a class="login" href="https://www.portfoliomanager.dnb.com/App/ContentPages/Logon/SecureLogon.aspx">Login</a>
+							<!-- <a class="learn-more" href="#">Learn More</a> -->
+						</li>
+					</ul>
+				</div>
+			</div>
         </div>
     </div>
 </div></div>
@@ -614,10 +644,10 @@ var CQ = CQ || {};
 
 </div>
 <div class="dropdown international-sites">
-                                            <a class="button v1" href="/choose-your-country.html" id="intl-sites-dropdown">
-                                                <span class="icon flag"></span> </a>
-                                        </div>
-                                    </div>
+                                                    <a class="button v1" href="/choose-your-country.html" id="intl-sites-dropdown">
+                                                        <span class="icon flag"></span> </a>
+                                                </div>
+                                            </div>
                     <div class="parbase website_selector basecomp"><link rel="stylesheet" href="/etc/designs/dnb/dnb-mod/clientlibs/components/website_selector.min.css" type="text/css">
 <script>
             // pass configuration to client
@@ -652,99 +682,118 @@ var CQ = CQ || {};
     <input class="close" type="button">
     <!-- reference code start -->
     		<div class="parbase html"><div class="container">
-    <div class="row">
-        <div class="col-md-4 group">
-            <a class="category title">Finance, Credit &amp; Risk</a>
-            <div class="submenu">
-                <ul>
-                    <li class="product">
-                        <a class="title" href="https://credit.dnb.com/login">D&amp;B Credit</a>
-                        <span class="description">Credit risk solutions for modern organizations</span>
-                        <a class="login" href="https://credit.dnb.com/login">Login</a>
-                        <a class="learn-more" href="/products/finance-credit-risk/dnb-credit.html">Learn More</a>
-                    </li>
-                    <li class="product">
-                        <a class="title" href="https://creditreporter.dnb.com/">D&amp;B Credit Reporter </a>
-                        <span class="description">Make fast credit solutions and evaluate new credit applicants</span>
-                        <a class="login" href="https://creditreporter.dnb.com/">Login</a>
-                        <a class="learn-more" href="https://www.dandb.com/credit-reporter/">Learn More</a>
-                    </li>
-                    <li class="product">
-                        <a class="title" href="https://sso.dnbi.com/cas/login">DNBi Risk Management Premium</a>
-                        <span class="description">Automate and standardize your credit rules and policies</span>
-                        <a class="login" href="https://sso.dnbi.com/cas/login">Login</a>
-                        <a class="learn-more" href="/products/finance-credit-risk/dnbi-risk-management.html">Learn More</a>
-                    </li>
-                    <li class="product">
-                        <a class="title" href="https://www.mydnb.com/login.html">MyDNB.com</a>
-                        <span class="description">Access to Dun &amp; Bradstreet's online business credit reports</span>
-                        <a class="login" href="https://www.mydnb.com/login.html">Login</a>
-                        <a class="learn-more" href="/products/finance-credit-risk/mydnbcom.html">Learn More</a>
-                    </li>
-					<li class="product">
-                        <a class="title" href="http://www.dnbcountryrisk.com/">Country Insight</a>
-                        <span class="description">Evaluate cross-border risks and opportunities around the globe</span>
-                        <a class="login" href="http://www.dnbcountryrisk.com/">Login</a>
-                        <a class="learn-more" href="/about-us/our-data/country-insight-for-global-risk-management.html">Learn More</a>
-                    </li>
-                </ul>
-            </div>
+	<div class="row">
+		<div class="col-md-4">
+			<div class="group">
+				<a class="category title">Finance, Credit &amp; Risk</a>
+				<div class="submenu">
+					<ul>
+						<li class="product">
+							<a class="title" href="https://credit.dnb.com/login">D&amp;B Credit</a>
+							<span class="description">Credit risk solutions for modern organizations</span>
+							<a class="login" href="https://credit.dnb.com/login">Login</a>
+							<a class="learn-more" href="/products/finance-credit-risk/dnb-credit.html">Learn More</a>
+						</li>
+						<li class="product">
+							<a class="title" href="https://creditreporter.dnb.com/">D&amp;B Credit Reporter </a>
+							<span class="description">Make fast credit solutions and evaluate new credit applicants</span>
+							<a class="login" href="https://creditreporter.dnb.com/">Login</a>
+							<a class="learn-more" href="https://www.dandb.com/credit-reporter/">Learn More</a>
+						</li>
+						<li class="product">
+							<a class="title" href="https://sso.dnbi.com/cas/login">DNBi Risk Management Premium</a>
+							<span class="description">Automate and standardize your credit rules and policies</span>
+							<a class="login" href="https://sso.dnbi.com/cas/login">Login</a>
+							<a class="learn-more" href="/products/finance-credit-risk/dnbi-risk-management.html">Learn More</a>
+						</li>
+						<li class="product">
+							<a class="title" href="https://www.mydnb.com/login.html">MyDNB.com</a>
+							<span class="description">Access to Dun &amp; Bradstreet's online business credit reports</span>
+							<a class="login" href="https://www.mydnb.com/login.html">Login</a>
+							<a class="learn-more" href="/products/finance-credit-risk/mydnbcom.html">Learn More</a>
+						</li>
+						<li class="product">
+							<a class="title" href="http://www.dnbcountryrisk.com/">Country Insight</a>
+							<span class="description">Evaluate cross-border risks and opportunities around the globe</span>
+							<a class="login" href="http://www.dnbcountryrisk.com/">Login</a>
+							<a class="learn-more" href="/about-us/data-cloud/country-insight-for-global-risk-management.html">Learn More</a>
+						</li>
+					</ul>
+				</div>
+			</div>
         </div>
-        <div class="col-md-4 group">
-            <a class="category title">Sales &amp; Marketing</a>
-            <div class="submenu">
-                <ul>
-                    <li class="product">
-                        <a class="title" href="http://www.hoovers.com/">D&amp;B Hoovers</a>
-                        <span class="description">Grow business faster with leading intelligence and analytics</span>
-                        <a class="login" href="http://www.hoovers.com/">Login</a>
-                        <a class="learn-more" href="/products/marketing-sales/dnb-hoovers.html">Learn More</a>
-                    </li>
-                    <li class="product">
-                        <a class="title" href="https://subscriber.hoovers.com/H/login/login.html">Hoovers Subscriptions</a>
-                        <span class="description">Target and engage your most valuable customers and prospects to grow revenue</span>
-                        <a class="login" href="https://subscriber.hoovers.com/H/login/login.html">Login</a>
-                        <!-- <a class="learn-more" href="#">Learn More</a> -->
-                    </li>
-                    <li class="product">
-                        <a class="title" href="http://app.dnboptimizer.com/">D&amp;B Optimizer for Marketing</a>
-                        <span class="description">Optimize your marketing data</span>
-                        <a class="login" href="http://app.dnboptimizer.com/">Login</a>
-                        <a class="learn-more" href="/products/marketing-sales/dnb-optimizer-for-marketing.html">Learn More</a>
-                    </li>
-                    <li class="product">
-                        <a class="title" href="https://solutions.dnb.com/grs/">Global Reference Solution</a>
-                        <span class="description">Create a complete view of your customer</span>
-                        <a class="login" href="https://solutions.dnb.com/grs/">Login</a>
-                        <!-- <a class="learn-more" href="#">Learn More</a> -->
-                    </li>
-                </ul>
-            </div>
+        <div class="col-md-4">
+			<div class="group">
+				<a class="category title">Sales &amp; Marketing</a>
+				<div class="submenu">
+					<ul>
+						<li class="product">
+							<a class="title" href="https://app.dnbhoovers.com" target="_blank">D&amp;B Hoovers</a>
+							<span class="description">Grow business faster with leading intelligence and analytics</span>
+							<a class="login" href="https://app.dnbhoovers.com" target="_blank">Login</a>
+							<a class="learn-more" href="/products/marketing-sales/dnb-hoovers.html">Learn More</a>
+						</li>
+						<li class="product">
+							<a class="title" href="https://subscriber.hoovers.com/H/login/login.html" target="_blank">Hoovers Subscriptions</a>
+							<span class="description">Target and engage your most valuable customers and prospects to grow revenue</span>
+							<a class="login" href="https://subscriber.hoovers.com/H/login/login.html" target="_blank">Login</a>
+							<!-- <a class="learn-more" href="#">Learn More</a> -->
+						</li>
+						<li class="product">
+							<a class="title" href="https://workbench.dnb.com/">D&amp;B Optimizer for Marketing</a>
+							<span class="description">Optimize your marketing data</span>
+							<a class="login" href="https://workbench.dnb.com/">Login</a>
+							<a class="learn-more" href="/products/marketing-sales/dnb-optimizer-for-marketing.html">Learn More</a>
+						</li>
+						<li class="product">
+							<a class="title" href="https://solutions.dnb.com/grs/">Global Reference Solution</a>
+							<span class="description">Create a complete view of your customer</span>
+							<a class="login" href="https://solutions.dnb.com/grs/">Login</a>
+							<!-- <a class="learn-more" href="#">Learn More</a> -->
+						</li>
+					</ul>
+				</div>
+			</div>
         </div>
-        <div class="col-md-4 group">
-            <a class="category title">Supply &amp; Compliance</a>
-            <div class="submenu">
-                <ul>
-                    <li class="product">
-                        <a class="title" href="https://www.supplierriskmanager.com">Supplier Risk Manager</a>
-                        <span class="description">Anticipate and alleviate supplier risk</span>
-                        <a class="login" href="https://www.supplierriskmanager.com">Login</a>
-                        <a class="learn-more" href="/products/operations-supply/dnb-supplier-risk-manager-2-0.html">Learn More</a>
-                    </li>
-                    <li class="product">
-                        <a class="title" href="https://dnb.onelogin.com/login">D&amp;B Onboard</a>
-                        <span class="description">Corporate regulatory compliance made easier</span>
-                        <a class="login" href="https://dnb.onelogin.com/login">Login</a>
-                        <a class="learn-more" href="/products/corporate-compliance/dnb-onboard.html">Learn More</a>
-                    </li>
-                    <li class="product">
-                        <a class="title" href="https://www.portfoliomanager.dnb.com/App/ContentPages/Logon/SecureLogon.aspx">Supply Portfolio Manager</a>
-                        <span class="description">Merge your customer receivables data with our global database</span>
-                        <a class="login" href="https://www.portfoliomanager.dnb.com/App/ContentPages/Logon/SecureLogon.aspx">Login</a>
-                        <!-- <a class="learn-more" href="#">Learn More</a> -->
-                    </li>
-                </ul>
-            </div>
+        <div class="col-md-4">
+			<div class="group">
+				<a class="category title">Dun &amp; Bradstreet <span class="no-break">D-U-N-S</span> Number</a>
+				<div class="submenu">
+					<ul>
+						<li class="product">
+							<a class="title" href="https://www.dandb.com/product/companyupdate/companyupdateLogin?execution=e1s1">Company Update</a>
+							<span class="description">View, manage and print business information on your D&amp;B Credit file</span>
+							<a class="login" href="https://dashboard.dnb.com/login">Login</a>
+							<a class="learn-more" href="https://www.dandb.com/product/companyupdate/companyupdateLogin?execution=e1s1">Learn More</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<div class="group" style="margin-top: 2em">
+				<a class="category title">Supply &amp; Compliance</a>
+				<div class="submenu">
+					<ul>
+						<li class="product">
+							<a class="title" href="https://www.supplierriskmanager.com/cp/login">Supplier Risk Manager</a>
+							<span class="description">Anticipate and alleviate supplier risk</span>
+							<a class="login" href="https://www.supplierriskmanager.com/cp/login">Login</a>
+							<a class="learn-more" href="/products/operations-supply/dnb-supplier-risk-manager-2-0.html">Learn More</a>
+						</li>
+						<li class="product">
+							<a class="title" href="https://onboard.dnb.com/onboard/">D&amp;B Onboard</a>
+							<span class="description">Corporate regulatory compliance made easier</span>
+							<a class="login" href="https://onboard.dnb.com/onboard/">Login</a>
+							<a class="learn-more" href="/products/corporate-compliance/dnb-onboard.html">Learn More</a>
+						</li>
+						<li class="product">
+							<a class="title" href="https://www.portfoliomanager.dnb.com/App/ContentPages/Logon/SecureLogon.aspx">Supply Portfolio Manager</a>
+							<span class="description">Merge your customer receivables data with our global database</span>
+							<a class="login" href="https://www.portfoliomanager.dnb.com/App/ContentPages/Logon/SecureLogon.aspx">Login</a>
+							<!-- <a class="learn-more" href="#">Learn More</a> -->
+						</li>
+					</ul>
+				</div>
+			</div>
         </div>
     </div>
 </div></div>
@@ -787,7 +836,7 @@ var CQ = CQ || {};
 						<a class="title" href="http://www.dnbcountryrisk.com/">Country Insight</a>
 						<span class="description">Evaluate cross-border risks and opportunities around the globe</span>
 						<a class="login" href="http://www.dnbcountryrisk.com/">Login</a>
-						<a class="learn-more" href="/about-us/our-data/country-insight-for-global-risk-management.html">Learn More</a>
+						<a class="learn-more" href="/about-us/data-cloud/country-insight-for-global-risk-management.html">Learn More</a>
 					</li>
 				</ul>
 			</li>
@@ -795,9 +844,9 @@ var CQ = CQ || {};
 				<a class="category" href="#">Sales &amp; Marketing</a>
 				<ul class="submenu">
 					<li class="product">
-						<a class="title" href="http://www.hoovers.com">D&amp;B Hoovers</a>
+						<a class="title" href="https://app.dnbhoovers.com">D&amp;B Hoovers</a>
 						<span class="description">Grow business faster with leading intelligence and analytics</span>
-						<a class="login" href="http://www.hoovers.com">Login</a>
+						<a class="login" href="https://app.dnbhoovers.com">Login</a>
 						<a class="learn-more" href="/products/marketing-sales/dnb-hoovers.html">Learn More</a>
 					</li>
 					<li class="product">
@@ -819,6 +868,19 @@ var CQ = CQ || {};
 						<!-- <a class="learn-more" href="#">Learn More</a> -->
 					</li>
 				</ul>
+			</li>
+			<li>
+				<a class="category" href="#"><span class="no-break">D-U-N-S</span> Number</a>
+				<div class="submenu">
+					<ul>
+						<li class="product">
+							<a class="title" href="https://www.dandb.com/product/companyupdate/companyupdateLogin?execution=e1s1">Company Update</a>
+							<span class="description">View, manage and print business information on your D&amp;B Credit file</span>
+							<a class="login" href="https://dashboard.dnb.com/login">Login</a>
+							<!-- <a class="learn-more" href="https://www.dandb.com/product/companyupdate/companyupdateLogin?execution=e1s1">Learn More</a> -->
+						</li>
+					</ul>
+				</div>
 			</li>
 			<li>
 				<a class="category" href="#">Supply &amp; Compliance</a>
@@ -846,13 +908,19 @@ var CQ = CQ || {};
 		</ul>
 	</li>
 	<li>
-		<a href="/perspectives.html">Perspectives</a>
+		<a class="category" href="/perspectives.html">Perspectives</a>
+                          <ul class="submenu">
+			<li><a href="/perspectives.html">Articles</a></li>
+                        <li><a href="/resources.html">Resources</a></li>
+                         <li><a href="/about-us/our-customers.html">Customer Stories</a></li>
+                        </ul>
 	</li>
 	<li>
 		<a class="category" href="/solutions.html">Solutions</a>
 		<ul class="submenu">
+                          <li><a href="/solutions/small-business.html">Small Business</a></li>
 			<li>
-				<a class="category" href="/solutions/finance-and-risk-management.html">Credit</a>
+				<a class="category" href="/solutions/finance-and-risk-management.html">Finance</a>
 				<ul class="submenu">
 					<li><a href="/solutions/finance-and-risk-management/managing-capital-and-risk-solutions.html">Risk Management</a></li>
 					<li><a href="/solutions/finance-and-risk-management/finance-and-sales-collaboration-solutions.html">Profitable Growth</a></li>
@@ -862,9 +930,10 @@ var CQ = CQ || {};
 			<li>
 				<a class="category" href="/solutions/marketing-sales.html">Sales &amp; Marketing</a>
 				<ul class="submenu">
-					<li><a href="/solutions/marketing-sales/targeting-solutions.html">Predictive Targeting</a></li>
-					<li><a href="/solutions/marketing-sales/digital-optimization-solutions.html">Digital Engagement</a></li>
-					<li><a href="/solutions/marketing-sales/sales-acceleration-solutions.html">Sales Acceleration</a></li>
+					<li><a href="/solutions/marketing-sales/analyze-identify-ideal-customer-profiles.html">Analyze and Identify</a></li>
+					<li><a href="/solutions/marketing-sales/audience-targeting-across-online-offline-marketing.html">Target Across Channels</a></li>
+					<li><a href="/solutions/marketing-sales/sales-engagement-lead-nurturing-solution.html">Engage and Nurture</a></li>
+					<li><a href="/solutions/marketing-sales/accelerate-business-growth-empower-sales.html">Empower Sales</a></li>
 				</ul>
 			</li>
 			<li>
@@ -908,19 +977,20 @@ var CQ = CQ || {};
 					<li><a href="/solutions/government/state-local-provincial.html">State, Local &amp; Provincial</a></li>
 				</ul>
 			</li>
+			<li><a href="/solutions/partner.html">Partners</a></li>
 		</ul>
 	</li>
 	<li>
 		<a class="category" href="/products.html">Products</a>
 		<ul class="submenu">
 			<li>
-				<a class="category" href="/products/finance-credit-risk.html">Credit</a>
+				<a class="category" href="/products/finance-credit-risk.html">Finance</a>
 				<ul class="submenu">
 					<li><a href="/products/finance-credit-risk/dnb-credit-products.html">D&amp;B Credit</a></li>
 					<li><a href="/products/finance-credit-risk/dnb-eram.html">Enterprise Risk Assessment Manager</a></li>
 					<li><a href="/products/finance-credit-risk/business-credit-reports.html">Business Credit Reports</a></li>
 					<li><a href="/products/finance-credit-risk/manage-my-business-credit.html">Manage My Business Credit</a></li>
-					<li><a href="/products/finance-credit-risk.html">View All Credit Products</a></li>
+					<li><a href="/products/finance-credit-risk.html">View All Finance Products</a></li>
 				</ul>
 			</li>
 			<li>
@@ -928,9 +998,9 @@ var CQ = CQ || {};
 				<ul class="submenu">
 					<li><a href="/products/marketing-sales/dnb-hoovers.html">D&amp;B Hoovers</a></li>
 					<li><a href="/products/master-data/dnb-direct/dnb-direct-for-marketing.html">D&amp;B Direct for Marketing</a></li>
-					<li><a href="/products/marketing-sales/dnb-optimizer-for-marketing.html">D&amp;B Optimizer for Marketing</a></li>
-					<li><a href="/products/marketing-sales/audience-solutions.html">D&amp;B Audience Targeting</a></li>
-					<li><a href="/products/marketing-sales/dnb-optimizer-for-microsoft-cds.html">D&amp;B Optimizer for Microsoft</a></li>
+					<li><a href="/products/marketing-sales/dnb-optimizer.html">D&amp;B Optimizer</a></li>
+					<li><a href="/products/marketing-sales/audience-targeting.html">D&amp;B Audience Targeting</a></li>
+					<li><a href="/products/marketing-sales/dnb-datavision.html">D&amp;B DataVision</a></li>
 					<li><a href="/products/marketing-sales.html">View All Marketing Products</a></li>
 				</ul>
 			</li>
@@ -974,11 +1044,9 @@ var CQ = CQ || {};
 		<a class="category" href="/about-us.html">About Us</a>
 		<ul class="submenu">
 			<li><a href="/about-us/company.html">Company</a></li>
-			<li><a href="/about-us/our-data.html">Our Data</a></li>
+			<li><a href="/about-us/data-cloud.html">Data Cloud</a></li>
 			<li><a href="/about-us/our-analytics.html">Our Analytics</a></li>
-			<li><a href="/about-us/partner.html">Partners</a></li>
 			<li><a href="/about-us/events.html">Events</a></li>
-			<li><a href="/about-us/our-customers.html">Customer Spotlight</a></li>
 			<li><a href="/about-us/our-worldwide-network.html">Our Worldwide Network</a></li>
 			<li>
 				<a class="category" href="/about-us/careers-and-people.html">People &amp; Careers</a>
@@ -987,6 +1055,8 @@ var CQ = CQ || {};
 					<li><a href="/about-us/careers-and-people/life-at-DnB.html">Life@D&amp;B</a></li>
 					<li><a href="/about-us/careers-and-people/our-teams.html">Our Teams</a></li>
 					<li><a href="/about-us/careers-and-people/your-growth.html">Your Growth</a></li>
+					<li><a href="/about-us/careers-and-people/benefits.html">Benefits</a></li>
+					<li><a href="/about-us/careers-and-people/internships.html">Internships</a></li>
 				</ul>
 			</li>
 		</ul>
@@ -995,9 +1065,9 @@ var CQ = CQ || {};
 		<a class="category" href="/duns-number.html"><span class="no-break">D-U-N-S</span> Number</a>
 		<ul class="submenu">
 			<li><a href="/duns-number/get-a-duns.html">Get a <span class="no-break">D-U-N-S</span> Number</a></li>
-			<li><a href="/duns-number/what-is-duns.html">About the <span class="no-break">D-U-N-S</span> Number</a>
-			</li><li><a href="/duns-number/duns-number-and-government.html"><span class="no-break">D-U-N-S</span> Number &amp; Government</a></li>
+			<li><a href="/duns-number/duns-number-and-government.html"><span class="no-break">D-U-N-S</span> Number &amp; Government</a></li>
 			<li><a href="/duns-number/lookup.html"><span class="no-break">D-U-N-S</span> Number Lookup</a></li>
+			<li><a href="https://www.dandb.com/product/companyupdate/companyupdateLogin?execution=e1s1">Update My Company Data</a></li>
 		</ul>
 	</li>
 	<li class="mobile">
@@ -1011,24 +1081,27 @@ var CQ = CQ || {};
             </nav>
 </div>
                 <div class="col-md-4">
-
+                    
                     <div class="parbase html"><div class="search-button desktop icon magnifying-glass">
 	<a class="search-panel-toggle di_t" href="#" id="bus-search-desktop" name="business">Company Search</a>	 | <a class="search-panel-toggle di_t" href="#" id="site-search-desktop" name="site">Site Search</a>
 </div></div>
 </div>
             </div>
-        </div>
-    </div>
-    <div class="parbase search_panel basecomp search-panel"><div class="container">
             <div class="row">
                 <div class="col-md-2 col-md-offset-10">
                     <div class="arrow"></div>
                 </div>
             </div>
-            <div class="row panel-row">
-                <div class="col-md-12">
-                    <input class="close di_t" id="search-close" tabindex="3" type="button">
-                    <div class="search_new parbase basecomp global-search"><script>
+        </div>
+    </div>
+</header>
+<div class="mod-teaser">
+        </div>
+<div class="parbase search_panel overlay search_panel basecomp"><div class="container">
+                <div class="row panel-row">
+                    <div class="col-md-12">
+                        <input class="close di_t" id="search-close" tabindex="3" type="button">
+                        <div class="search_new parbase basecomp global-search"><script>
     // create JS structure to pass into dynamic parts
     var searchformSettings = {};
     searchformSettings.js_searchBtnText = "";    
@@ -1093,11 +1166,8 @@ var CQ = CQ || {};
     <script type="text/javascript" src="/etc/designs/dnb/dnb-mod/clientlibs/components/search_new.min.js"></script>
 </div>
 </div>
+                </div>
             </div>
-        </div>
-    </div>
-</header>
-<div class="mod-teaser">
         </div>
 <div id="content" name="utility">
 
@@ -1224,7 +1294,7 @@ function gotoURL(curURL){
    
    </div>
 <div class="parbase html section"><div class="accordion-links">
-<a href="#title-eight">Access and Correction</a>
+<a href="#title-eight">Access, Correction, and Deletion</a>
 <br>
 <a href="#title-nine">Data Security</a>
 <br>
@@ -1268,7 +1338,7 @@ function gotoURL(curURL){
 <h3>Applicability - Legal Entities and Websites</h3>
 <p>This Privacy Notice does not apply to Dun &amp; Bradstreet companies based in the European Union, or when any Dun &amp; Bradstreet company processes data relating to residents of the European Union. In such cases please see the UK Privacy Notice found at <a href="https://www.dnb.co.uk/utility-pages/privacy-policy.html" target="_blank">https://www.dnb.co.uk/utility-pages/privacy-policy.html</a>. This Privacy Notice also covers transfers of data relating to residents of the European Union to the United States pursuant to Dun &amp;Bradstreet’s Privacy Shield certification.</p>
 <p>This Privacy Notice&nbsp;applies<b>&nbsp;</b>to the following Dun &amp; Bradstreet legal entities: Dun &amp; Bradstreet, Inc., Dun &amp; Bradstreet NetProspex, Inc. ("NPX"); Avention, Inc.; Hoover’s Inc.; Dun &amp; Bradstreet Emerging Businesses ("DBEB"). NPX, Avention, and Hoover’s provide Sales and Marketing solutions.&nbsp; DBEB provides business credit information. Market Data Retrieval (MDR), a part of Dun and Bradstreet Inc., is a provider of marketing information and services for the K-12, higher education, library, early childhood, and related education market.&nbsp; These entities and lines of business will be referred to collectively as “Dun &amp; Bradstreet” in this notice.</p>
-<p>This policy covers the following Dun &amp; Bradstreet websites:&nbsp; <a href="https://www.dnb.com/">dnb.com</a>, <a href="https://www.dandb.com/" target="_blank">DandB.com</a>, <a href="http://accesstocapital.com/" target="_blank">accesstocapital.com</a>, <a href="https://products.dandb.com/" target="_blank">products.dandb.com</a>, <a href="http://dandbeducation.com/" target="_blank">dandbeducation.com</a>, <a href="http://companyupdate.com/" target="_blank">companyupdate.com</a>, <a href="http://edahead.org/" target="_blank">EdAhead.org</a>, <a href="http://education.dandb.com/" target="_blank">education.dandb.com</a>, <a href="https://www.creditsignal.com/" target="_blank">CreditSignal.com</a>, <a href="https://businesscredit.dnb.com/" target="_blank">businesscredit.dnb.com</a>, <a href="http://creditreports.dnb.com/" target="_blank">creditreports.dnb.com</a>, <a href="https://b2b.dnb.com/" target="_blank">b2b.dnb.com</a>, <a href="https://www.dnb.com/mktsem/microsite-business-credit-solutions.html" target="_blank">dnb.com/mktsem/microsite-business-credit-solutions.html</a>, <a href="http://cart.dnb.com/" target="_blank">cart.dnb.com</a>,&nbsp;<a href="http://www.hoovers.com/" target="_blank">hoovers.com</a>; <a href="http://sales.hoovers.com/" target="_blank">sales.hoovers.com</a>, <a href="http://yourhoovers.com/" target="_blank">yourhoovers.com</a>, and <a href="http://products.hoovers.com/" target="_blank">products.hoovers.com</a>, <a href="https://mdreducation.com/" target="_blank">mdreducation.com</a>, <a href="http://ednetconference.com/" target="_blank">ednetconference.com</a>.</p>
+<p>This policy covers the following Dun &amp; Bradstreet websites:&nbsp; <a href="https://www.dnb.com/">dnb.com</a>, <a href="https://www.dandb.com/index.html" target="_blank">DandB.com</a>, <a href="http://accesstocapital.com/" target="_blank">accesstocapital.com</a>, <a href="https://www.dandb.com/index.html" target="_blank">products.dandb.com</a>, <a href="http://dandbeducation.com/" target="_blank">dandbeducation.com</a>, <a href="https://www.dandb.com/product/companyupdate/companyupdateLogin?execution=e1s1" target="_blank">companyupdate.com</a>, <a href="http://edahead.org/" target="_blank">EdAhead.org</a>, <a href="http://education.dandb.com/" target="_blank">education.dandb.com</a>, <a href="https://www.creditsignal.com/" target="_blank">CreditSignal.com</a>, <a href="https://businesscredit.dnb.com/" target="_blank">businesscredit.dnb.com</a>, <a href="https://businesscredit.dnb.com/" target="_blank">creditreports.dnb.com</a>, <a href="https://b2b.dnb.com/" target="_blank">b2b.dnb.com</a>, <a href="https://www.dnb.com/mktsem/microsite-business-credit-solutions.html" target="_blank">dnb.com/mktsem/microsite-business-credit-solutions.html</a>, <a href="http://cart.dnb.com/" target="_blank">cart.dnb.com</a>,&nbsp;<a href="http://www.hoovers.com/" target="_blank">hoovers.com</a>; <a href="https://www.dnb.com/" target="_blank">sales.hoovers.com</a>, <a href="http://yourhoovers.com/" target="_blank">yourhoovers.com</a>, and <a href="http://www.hoovers.com/" target="_blank">products.hoovers.com</a>, <a href="/products/marketing-sales/mdr-integrated-education-marketing.html" target="_self">mdreducation.com</a>, <a href="http://ednetconference.com/" target="_blank">ednetconference.com</a>.</p>
 <p>These sites may provide links to other U.S. Dun &amp; Bradstreet websites, non-U.S. Dun &amp; Bradstreet websites and non-Dun &amp; Bradstreet websites that may have different privacy notices. We encourage you to carefully read the online privacy notices of these other websites to ensure that you understand their practices and the relevant distinctions.</p>
 <p><a href="#" class="back-to-top">Back to Top</a></p>
 <h3>What information we collect</h3>
@@ -1330,7 +1400,7 @@ function gotoURL(curURL){
 <div class="parbase content_text section text"><div class="contenttext">
         <h3>How Do We Use and Share Information?</h3>
 <p>Dun &amp; Bradstreet uses the information that we collect to operate our websites, offer customers a variety of business information products and services for use in making business credit, risk management, supplier, and marketing decisions, and to carry out transactions that you request or authorize. Dun &amp; Bradstreet also licenses professional business contact information to authorized resellers and third party businesses for marketing and data management purposes.</p>
-<p>We may use your professional business contact information to match it with other public and private sources in order to create anonymous segments of information (this is non-personally identifying information, such as demographic, behavioral and technical information, extracted from the underlying Data) for use by Dun &amp; Bradstreet and/or third parties to target advertising messages to you on third party sites and services. Such segments do not reveal or contain your personal information. You may opt-out from certain targeting advertising by following the instructions in the section below entitled "Third Party Advertisers." Dun &amp; Bradstreet follows the Self-Regulatory Principles for Online Behavioral Advertising as administered by the Digital Advertising Alliance. Visit <a href="http://www.aboutads.info/choices/">http://www.aboutads.info/choices/</a> to exercise your option to opt-out of targeted ads provided by certain listed companies.</p>
+<p>We may use your professional business contact information to match it with other public and private sources in order to create anonymous segments of information (this is non-personally identifying information, such as demographic, behavioral and technical information, extracted from the underlying Data) for use by Dun &amp; Bradstreet and/or third parties to target advertising messages to you on third party sites and services. Such segments do not reveal or contain your personal information. You may opt-out from certain targeting advertising&nbsp;by following the instructions in the section below entitled "Third Party Advertisers". Dun &amp; Bradstreet follows the Self-Regulatory Principles for Online Behavioral Advertising as administered by the Digital Advertising Alliance. Visit <a href="http://www.aboutads.info/choices/">http://www.aboutads.info/choices/</a> to exercise your option to opt-out of targeted ads provided by certain listed companies.</p>
 <p>Hoover's maintains a separate professional contacts directory in which your company and individual business contact information may be listed. Hoover's licenses business and professional contact information to authorized resellers and third party businesses for marketing purposes. Aggregated website visitor data may be used to determine usage patterns or interests of visitors to the website and users of our products, or for purposes related to technical support or security of the website, products and computer systems. Usage information, such as number of reports, types of reports and functions accessed by a particular UserID, may be tracked within the products. We do this to monitor authorized usage of the products, respond to questions from the user, for market research, and to improve the design and functionality of the products. We may also aggregate corporate or industry information accessed by all of our customers. We do this in order to appreciate the types of companies and industries for which our customers require information, which in turn improves the quality of the products. We do not correlate the accessed corporate or industry information to a specific user or to a particular organization.</p>
 <p>Dun &amp; Bradstreet shares information with third party service providers, such as credit card processors, auditors, attorneys, consultants, live help/chat providers and contractors, in order to support Dun &amp; Bradstreet's Internet websites and business operations. Dun &amp; Bradstreet contractually requires that these recipients only use the information for the intended purpose of the disclosure and that they destroy or return the information when it is no longer needed. We may also disclose the information as required or appropriate in order to protect our website, business operations or legal rights, or in connection with a sale or merger involving Dun &amp; Bradstreet assets or businesses.</p>
 <p>From time to time, Dun &amp; Bradstreet compiles online and offline transaction and registration information for internal analyses, such as market research, quality assurance, customer experience, and operational benchmarking initiatives.</p>
@@ -1465,7 +1535,7 @@ function gotoURL(curURL){
        <div class="item">
                <div class="title">Learn More<div class="icon"></div></div>
                <div class="detail"><p>To opt out of receiving Dun &amp; Bradstreet promotional e-mails, newsletters, and updates about new Dun &amp; Bradstreet features, products and services:</p>
-<p>You can manage your notifications and communications at the <a href="/utility-pages/communication-preferences.html">Communications Preference Center</a> or you may follow the unsubscribe instructions in any of our promotional emails.&nbsp; You can also reach Customer Service at 1-800-234-3867 or send an email to <a href="mailto:custserv@dnb.com">custserv@dnb.com</a>.&nbsp;</p>
+<p>You can manage your notifications and communications at the <a href="/utility-pages/communication-preferences.html">Communications Preference Center</a> or you may follow the unsubscribe instructions in any of our promotional emails.&nbsp; You can also reach Customer Service at 1-800-234-3867 or send an email to <a href="mailto:custservprivacy@dnb.com">custservprivacy@dnb.com</a>.&nbsp;</p>
 <p>You may change your preferences at any time.</p>
 <p>Please note that we may continue to send you transactional or service-related e-mails despite your desire to not receive promotional or marketing e-mail messages.&nbsp; Also please note that if you elect to opt-out of receiving promotional e-mails from one of our websites, you may continue to receive promotional emails from our other websites.&nbsp;</p>
 </div>
@@ -1515,7 +1585,7 @@ function gotoURL(curURL){
        
        <div class="item">
                <div class="title">Learn More<div class="icon"></div></div>
-               <div class="detail"><p>To be placed on our company's internal Do Not Mail list should you no longer wish to receive marketing or promotional mailers you may do so by contacting Dun &amp; Bradstreet Customer Service at 1-800-234-3867.</p>
+               <div class="detail"><p>To be placed on our company's internal Do Not Mail list should you no longer wish to receive marketing or promotional mailers you may do so by contacting: Dun &amp; Bradstreet Customer Service at 1-800-234-3867 or clicking on the Dun &amp; Bradstreet Communications Preference link: <a href="https://www.dnb.com/utility-pages/communication-preferences.html">https://www.dnb.com/utility-pages/communication-preferences.html</a></p>
 <p>You may change your preferences at any time.</p>
 <p>We may continue to send you transactional or service-related correspondence despite your desire to not receive marketing mailers.</p>
 </div>
@@ -1539,7 +1609,7 @@ function gotoURL(curURL){
        
        <div class="item">
                <div class="title">Learn More<div class="icon"></div></div>
-               <div class="detail"><p>Individuals whose contact information is in our professional contacts database may request to be excluded from the professional contacts database, by calling Dun &amp; Bradstreet at 800-234-3867 or emailing &nbsp;<a href="mailto:Custserv@dnb.com">Custserv@dnb.com</a></p>
+               <div class="detail"><p>Individuals whose contact information is in our professional contacts database may request to be excluded from the professional contacts database, by calling Dun &amp; Bradstreet at 800-234-3867 or emailing &nbsp;<a href="mailto:custservprivacy@dnb.com">custservprivacy@dnb.com</a></p>
 <p>While we may remove your individual business contact information from our professional contacts database, please be aware that we will continue to provide your company's or educational institution’s contact information in our Business Information and Educational Institutional Reports and other products and services. Note that if your professional contact information is in a different third party's marketing directory, you will need to request removal with such third party directly.</p>
 </div>
            </div>
@@ -1551,12 +1621,12 @@ function gotoURL(curURL){
 <div name="title-eight" id="title-eight"></div>
 <br></div>
 <div class="parbase content_text section text"><div class="contenttext">
-        <h3>Access and Correction</h3>
-<p>To help ensure data quality and accuracy, Dun &amp; Bradstreet provides businesses organizations and business professionals with access to their business information within the D&amp;B databases and with an opportunity to correct verified inaccuracies. Authorized business representatives may request a complimentary copy of their company's business report.&nbsp;</p>
+        <h3>Access, Correction, and Deletion</h3>
+<p>To help ensure data quality and accuracy, Dun &amp; Bradstreet provides businesses organizations and business professionals with access to their business information within the D&amp;B databases and with an opportunity to review such information, correct verified inaccuracies, or delete any personal information within such business information if required by law. Authorized business representatives may request a complimentary copy of their company's business report.</p>
 <p>To obtain a copy of your company’s business report or your information or, to correct or update your information:</p>
-<p>Dun &amp; Bradstreet Customer Service at 1-800-234-3867 or send an email to <a href="mailto:custserv@dnb.com">customerservice@dnb.com</a>.</p>
-<p>Hoovers/Avention: Customer Support at 1-800-486-8666 or by sending an e-mail to <a href="mailto:customersupport@hoovers.com">customersupport@hoovers.com</a></p>
-<p>When a business owner or principal contacts Dun &amp; Bradstreet about a potential data error, we promptly investigate the issue, confirm the information in question, correct verified inaccuracies and respond to the original inquiry. In such a case, we may apply a "stop distribution" order regarding the relevant business report, as well as ancillary products that may be affected by the verified inaccuracy, until the matter is properly resolved. When the investigation is complete, we will also send a correction notice to businesses or others whom we know to have received the inaccurate data, as appropriate. However, some third parties and third party sites may continue to display inaccurate Data until their databases and display of data are refreshed in accordance with their update schedules.</p>
+<p>Dun &amp; Bradstreet Customer Service at 1-800-234-3867 or send an email to&nbsp;<u><a href="mailto:custservprivacy@dnb.com">custservprivacy@dnb.com</a></u></p>
+<p>Hoovers/Avention: Customer Support at 1-800-486-8666 or by sending an e-mail to&nbsp;<u><a href="mailto:customersupport@hoovers.com">customersupport@hoovers.com</a></u></p>
+<p>When a business owner or principal contacts Dun &amp; Bradstreet about a potential data error, we promptly investigate the issue, confirm the information in question, correct verified inaccuracies or delete any personal information within such business information if required by law, and respond to the original inquiry. In such a case, we may apply a "stop distribution" order regarding the relevant business report, as well as ancillary products that may be affected by the verified inaccuracy, until the matter is properly resolved. When the investigation is complete, we will also send a correction or deletion notice to businesses or others whom we know to have received the inaccurate data, as appropriate. However, some third parties and third party sites may continue to display inaccurate Data until their databases and display of data are refreshed in accordance with their update schedules.</p>
 </div>
 
 </div>
@@ -1582,7 +1652,8 @@ function gotoURL(curURL){
 <br></div>
 <div class="parbase content_text section text"><div class="contenttext">
         <h3>Data Retention</h3>
-<p>Dun &amp; Bradstreet will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services, contact Dun &amp; Bradstreet Customer Service at 1-800-234-3867 or <a href="mailto:customerservice@dnb.com">customerservice@dnb.com</a>. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</p></div>
+<p>Dun &amp; Bradstreet will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services, contact Dun &amp; Bradstreet Customer Service at 1-800-234-3867 or <a href="mailto:custservprivacy@dnb.com">custservprivacy@dnb.com</a>. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</p>
+</div>
 
 </div>
 <div class="parbase html section"><p><a href="#" class="back-to-top">Back to Top</a></p>
@@ -1647,8 +1718,10 @@ function gotoURL(curURL){
 <br></div>
 <div class="parbase content_text section text"><div class="contenttext">
         <h3>Dispute Resolution</h3>
-<p>This dispute resolution program covers both offline Data collection (e.g. personal information collected through our call centers or via postal mail) and online Data collection (e.g. personal information collected via the Internet). If you are a citizen of the EU and you have any complaints regarding our compliance with relevant aspects of the Data transfer laws and regulations surrounding Data transfers from the EU you should contact us at: <a href="mailto:EUDPO@dnb.com">EUDPO@dnb.com</a> or <a href="mailto:EUDPO@dnb.com">customerhelp@dnb.co.uk</a>.</p>
-<p>If you are not a citizen of the EU and you have a question or concern regarding Dun &amp; Bradstreet's data privacy practices, please contact the Chief Privacy Officer at <a href="mailto:privacyofficer@dnb.com">privacyofficer@dnb.com</a> or call the Customer Service center at 1-800-234-3867 or send an email to <a href="mailto:customerservice@dnb.com">customerservice@dnb.com</a>. We will do our best to resolve any complaints or issues as quickly as possible.</p></div>
+<p>This dispute resolution program covers both offline Data collection (e.g. personal information collected through our call centers or via postal mail) and online Data collection (e.g. personal information collected via the Internet). If you are a citizen of the EU and you have any complaints regarding our compliance with relevant aspects of the Data transfer laws and regulations surrounding Data transfers from the EU you should contact us at: <u><a href="mailto:eudpo@dnb.com">EUDPO@dnb.com</a></u> or <u><a href="mailto:eudpo@dnb.com">customerhelp@dnb.co.uk</a></u>.</p>
+<p>If you are not a citizen of the EU and you have a question or concern regarding Dun &amp; Bradstreet's data privacy practices, please contact the Chief Privacy Officer at <u><a href="mailto:privacyofficer@dnb.com">privacyofficer@dnb.com</a></u> or call the Customer Service center at 1-800-234-3867 or send an email to&amp; <u><a href="mailto:custservprivacy@dnb.com">custservprivacy@dnb.com</a></u>. We will do our best to resolve any complaints or issues as quickly as possible.</p>
+<p>If we cannot resolve your complaints, you may have rights to independent dispute resolution or arbitration under certain circumstances as described below in the sections titled “Independent Dispute Resolution” and “Arbitration.”</p>
+</div>
 
 </div>
 <div class="parbase html section"><p><a href="#" class="back-to-top">Back to Top</a></p>
@@ -1657,7 +1730,8 @@ function gotoURL(curURL){
 <br></div>
 <div class="parbase content_text section text"><div class="contenttext">
         <h3>Independent Dispute Resolution</h3>
-<p>If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <a href="https://feedback-form.truste.com/watchdog/request">https://feedback-form.truste.com/watchdog/request</a>.</p></div>
+<p>If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, you may invoke binding arbitration under certain circumstances. Please contact our U.S.-based third party dispute resolution provider (free of charge) at&nbsp;<u><a href="https://feedback-form.truste.com/watchdog/request" target="_blank">https://feedback-form.truste.com/watchdog/request</a></u>, and the section below titled “Arbitration.”</p>
+</div>
 
 </div>
 <div class="parbase html section"><p><a href="#" class="back-to-top">Back to Top</a></p>
@@ -1666,7 +1740,8 @@ function gotoURL(curURL){
 <br></div>
 <div class="parbase content_text section text"><div class="contenttext">
         <h3>Arbitration</h3>
-<p>Under the Privacy Shield, arbitration is an option available to an individual as a final recourse for claims that a Privacy Shield organization has violated its obligations under the Principles and the claim is not fully resolved by other Privacy Shield recourse mechanisms. The arbitration will be implemented in accordance with the rules established under the Privacy Shield.</p></div>
+<p><u></u>In accordance with the Privacy Shield, individuals may invoke binding arbitration as a final recourse for claims that a Privacy Shield organization has violated its obligations under the Principles and the claim is not fully resolved by other Privacy Shield recourse mechanisms. The arbitration will be implemented in accordance with the rules established under the Privacy Shield.</p>
+</div>
 
 </div>
 <div class="parbase html section"><p><a href="#" class="back-to-top">Back to Top</a></p>
@@ -1700,10 +1775,9 @@ Short Hills, NJ 07078<br>
 <br></div>
 <div class="parbase content_text section text"><div class="contenttext">
         <h3>Effective Date:</h3>
-<p>Effective Date of this Privacy Notice: May 10, 2018&nbsp;<br>
-</p>
-<p>This update to the Privacy Notice was done to update the Applicability – Legal Entities and Websites section to include a link to Dun &amp; Bradstreet’s UK Privacy Notice.&nbsp;</p>
-<p>Previous update to this Privacy Notice was dated February 26, 2018.</p>
+<p>Effective Date of this Privacy Notice: October 8, 2018</p>
+<p>This update to the Privacy Notice was done to update our notices regarding access, correction, and deletion of certain information, as well as clarify our notices regarding dispute resolution and arbitration.</p>
+<p>Previous update to this Privacy Notice was dated September 17, 2018.</p>
 </div>
 
 </div>
@@ -1723,18 +1797,15 @@ Short Hills, NJ 07078<br>
 
                 <div class="row">
 
-                    <div class="col-md-4 contact-method call">
-
-                        <a href="tel:8005269018">
+                    <div class="col-md-4 col-sm-4 col-xs-4 contact-method call">
+                            <a href="tel:8005269018">
                 <div class="icon"></div>
                 <span class="text desktop">Call Us</span><span class="text mobile"></span> <span class="phone_number">(800) 526-9018</span>
                 </a>
 
         </div>
-
-                    <div class="col-md-4 contact-method form">
-
-                        <a class="button v1" href="#" id="cta-lead-form">
+                    <div class="col-md-4 col-sm-4 col-xs-4 contact-method form">
+                            <a class="button v1" href="#" id="cta-lead-form">
             <div class="icon"></div>
             <span class="text desktop">Contact Us</span><span class="text mobile">Contact</span><span class="icon arrow-down2 white"></span>
         </a>
@@ -1743,8 +1814,9 @@ Short Hills, NJ 07078<br>
             // override default link behavior and toggle inline form
             $('.contact_cta .form .button').on({
                 click: function(event){
-                    
+
                     event.preventDefault();
+                    event.stopPropagation();
                     DNB.components.contact_cta.togglePanel();
                     
                 }
@@ -1752,15 +1824,12 @@ Short Hills, NJ 07078<br>
         </script>
 
     </div>
-
-                    <div class="col-md-4 contact-method chat"> 
-
-						<a id="chatBtn-Other" href="http://livechat.boldchat.com/aid/652348453108072006/bc.chat?resize=true&amp;cbdid=3005744531964044043&amp;wdid=2775810355515379163" data-di-id="#chatBtn-Other" style="background-image: url(//cbi.boldchat.com/aid/652348453108072006/bc.cbi?cbdid=3005744531964044043&amp;wdid=2775810355515379163); margin-top: 0px; width: 100%; height: 70px;background-position: 50% 30%; background-repeat: no-repeat;"><span class="icon"></span><span class="text desktop">Start a Live Chat</span><span class="text mobile">Chat</span></a>
+                    <div class="col-md-4 col-sm-4 col-xs-4 contact-method chat"> 
+                            <a href="#" id="chatBtn-Other" data-di-id="#chatBtn-Other" style="background-image: url(http://cbi.boldchat.com/aid/652348453108072006/bc.cbi?cbdid=3005744531964044043&amp;wdid=2775810355515379163); margin-top: 0px; width: 100%; height: 70px;background-position: 50% 30%; background-repeat: no-repeat;"><span class="icon"></span><span class="text desktop">Start a Live Chat</span><span class="text mobile">Chat</span></a>
 
     <script type="text/javascript">
         var bccbId = Math.random(); 
-		var WindowParameters="customField_CampaignID=1234&customField_VisitorFromID=5678&customField_VisitID=9012&customField_CreativeID=35455&customField_AutoInviteName=";
-
+		var WindowParameters="customField_SFDC_CampaignID=701a0000002NadP&customField_VisitorFromID="+escape(getVisitorFrom())+"&customField_VisitID="+escape(getVisitorID())+"&customField_CreativeID="+getCreativeID()+"&customField_AutoInviteName="+"&customField_GCLID="+readCookie("gclid")+"&customField_AID="+getAdobeID();
         document.write(unescape('%3Cdiv id=' + bccbId + '%3E%3C/div%3E'));
         window._bcvma = window._bcvma || [];
         _bcvma.push(["setAccountID", "652348453108072006"]);
@@ -1787,7 +1856,7 @@ Short Hills, NJ 07078<br>
         else if(document.readyState=="complete") bcLoad();
         else if(window.addEventListener) window.addEventListener('load', bcLoad, false);
         else window.attachEvent('onload', bcLoad);
-    </script><div id="0.43654887632284956"></div>
+    </script>
     <!-- BoldChat Visitor Monitor HTML v5.00 (ChatInvitation=DNB-Modernization(no_invite)/)--> 
 <div style="display: none !important;">
 <script type="text/javascript">
@@ -1822,50 +1891,17 @@ Short Hills, NJ 07078<br>
             console.log('error: ' + e);
         }
 
-	 // updated visitorfrom function
-	 function getVisitorFrom() {
-         var visitorFrom = getParameterByName("serv") || getParameterByName("Serv");
-         var visitorFromCampaignPage = '';
-         var chosen_visitorFrom_cookie=readCookie("chosen_visitorFrom_cookie_new");
-         
-         return visitorFrom || chosen_visitorFrom_cookie || visitorFromCampaignPage;
-  	}   
 
-
-	function getChatCampaignID(){
-	    var campaignQuery = getParameterByName("ch");
-	 	var chatCampaignPage = '';
-	 	return campaignQuery ||chatCampaignPage;
-	}
-
-	function getCreativeID(){
-		return document.URL.split("?")[0];		 	
-	}
-
-	function getVisitorID(){
-		 	var HID_cookie=readCookie("HID");
-		 	if (HID_cookie)
-		 	{ }
-		 	else
-		 	{
-		 		var today = new Date();
-			 	var cookie_value=today.getTime();		
-		 		createCookie("HID",cookie_value,30);
-		 		HID_cookie=readCookie("HID");
-		 	}	
-		 	return HID_cookie; 		
-	 }
 
 
 </script>
 <noscript>
-<a href="http://www.boldchat.com" title="Live Chat" target="_blank"><img alt="Live Chat" src="https://vms.boldchat.com/aid/652348453108072006/bc.vmi?wdid=2775810355515379163&amp;vr=&vn=&vi=&ve=&vp=&curl=" border="0" width="1" height="1"/></a>
+<a href="https://www.boldchat.com" title="Live Chat" target="_blank"><img alt="Live Chat" src="https://vms.boldchat.com/aid/652348453108072006/bc.vmi?wdid=2775810355515379163&amp;vr=&vn=&vi=&ve=&vp=&curl=" border="0" width="1" height="1"/></a>
 </noscript>
 </div>
 <!-- /BoldChat Visitor Monitor HTML v5.00 -->
 </div>
-
-                </div>
+                    </div>
 
             </div>
 
@@ -1975,12 +2011,12 @@ Short Hills, NJ 07078<br>
 <div class="row">
 	<div class="col-md-12">
 		<input class="field fname" id="form-address" name="address1" placeholder="Street Address" tabindex="7" type="text">
-		<input class="field fname" id="form-address" name="city" type="hidden">
-		<input class="field fname" id="form-address" name="stateProv" type="hidden">
+		<input class="field fname" id="city" name="city" type="hidden">
+		<input class="field fname" id="stateProv" name="stateProv" type="hidden">
 	</div>
 </div><div class="row">
 	<div class="col-md-6">
-		<input class="field fname" id="form-postalcode" name="zipPostal" placeholder="Postal Code" tabindex="8" type="text">
+		<input class="field fname" id="form-postalcode" name="zipPostal" placeholder="Zip Code" tabindex="8" type="text">
 	</div>
 	<div class="col-md-6">
 		<select class="field country" name="country" size="1" tabindex="9" id="form-country">
@@ -2232,40 +2268,39 @@ Short Hills, NJ 07078<br>
 	</div>
 </div>
 
-	<input class="field fname" id="form-custservsubmitemail" name="marketingAgreementStatus1" placeholder="Contact Status" tabindex="3" type="hidden">
-	<input class="field fname" id="creditonself" name="creditOnSelf1" value="0" type="hidden">
-	<input class="field fname" id="partnerName1" name="partnerName1" placeholder="Partner Name" tabindex="3" type="hidden">
-	<input class="field fname" id="contactStatus1" name="contactStatus1" placeholder="Contact Status" tabindex="4" type="hidden">
-	<input class="field fname" id="webvisitorDUNS1" name="webvisitorDUNS1" placeholder="webvisitor_duns" tabindex="3" type="hidden">
-	<input class="field fname" id="webvisitordomesticUltimateDuns1" name="webvisitordomesticUltimateDuns1" placeholder="webvisitor_domesticUltimateDuns" tabindex="4" type="hidden">
-	<input class="field fname" id="webvisitorAnnualSales1" name="webvisitorAnnualSales1" placeholder="Webvisitor_salesAnnualNum" tabindex="3" type="hidden">
-	<input class="field fname" id="webvisitorNumberOfEmployees1" name="webvisitorNumberOfEmployees1" placeholder="Webvisitor_employeesInAllLocationsNum" tabindex="4" type="hidden">
-	<input class="field fname" id="dialerEligiblePage1" name="dialerEligiblePage1" placeholder="Dialer Eligible Page" tabindex="3" type="hidden">
-	<input class="field fname" id="manualReviewFlag1" name="manualReviewFlag1" placeholder="Manual Review Flag" tabindex="4" type="hidden">
-	<input class="field fname" id="leadsource" name="leadSource" placeholder="Lead Source" tabindex="3" type="hidden">
-	<input class="field fname" id="leadType1" name="leadType1" placeholder="Lead Type" tabindex="4" type="hidden">
-	<input class="field fname" id="leadPriority1" name="leadPriority1" placeholder="Lead Priority" tabindex="3" type="hidden">	
-	<input class="field fname" id="uNDUNSdToLDR1" name="uNDUNSdToLDR1" placeholder="UNDUNSd_to_LDR" tabindex="4" type="hidden">
-	<input class="field fname" id="elqCampaignId" name="elqCampaignId" placeholder="Eloqua Campaign ID" tabindex="3" type="hidden">
-	<input class="field fname" id="sFDCLastCampaignID" name="sFDCLastCampaignID" placeholder="SFDC Campaign ID" tabindex="4" type="hidden">
-	<input class="field fname" id="sFDCLastCampaignName" name="sFDCLastCampaignName" placeholder="Campaign Name" tabindex="3" type="hidden">
-	<input class="field fname" id="productInterest1" name="productInterest1" placeholder="Product Interest" tabindex="4" type="hidden">
-	<input class="field fname" id="solutionInterest1" name="solutionInterest1" placeholder="Solution Interest" tabindex="3" type="hidden">		
-	<input class="field fname" id="preferredLanguage1" name="preferredLanguage1" placeholder="Preferred Language" tabindex="4" type="hidden">
-	<input class="field fname" id="siteOrigin1" name="siteOrigin1" placeholder="Site Origin" tabindex="3" type="hidden">
-	<input class="field fname" id="IPAddress1" name="IPAddress1" placeholder="IP Address" tabindex="4" type="hidden">
-	<input class="field fname" id="serv1" name="serv1" placeholder="Serv value" tabindex="4" type="hidden">
-	<input class="field fname" id="visitorFrom1" name="visitorFrom1" placeholder="Visitor From" tabindex="3" type="hidden">
-	<input class="field fname" id="creativeid" name="creativeID1" type="hidden">
-	<input class="field fname" id="visitorFromDate1" name="visitorFromDate1" placeholder="Visitor From Date" tabindex="4" type="hidden">	
-	<input class="field fname" id="visitorID1" name="visitorID1" placeholder="Visitor ID" tabindex="3" type="hidden">
-	<input class="field fname" id="adobeID1" name="adobeID1" placeholder="Adobe ID" tabindex="4" type="hidden">		
-	<input class="field fname" id="lastFormSubmit1" name="lastFormSubmit1" placeholder="Form Submit Timestamp" tabindex="3" type="hidden">
-	<input class="field fname" id="utm_campaign" name="utm_campaign" placeholder="utm_campaign" type="hidden"> 
-	<input class="field fname" id="utm_medium" name="utm_medium" placeholder="utm_medium" type="hidden"> 
-	<input class="field fname" id="utm_source" name="utm_source" placeholder="utm_source" type="hidden"> 
+	<input type="hidden" id="form-custservsubmitemail" name="marketingAgreementStatus1" placeholder="Contact Status" tabindex="3">
+	<input type="hidden" id="creditonself" name="creditOnSelf1" value="0">
+	<input type="hidden" id="partnerName1" name="partnerName1" placeholder="Partner Name" tabindex="3">
+	<input type="hidden" id="contactStatus1" name="contactStatus1" placeholder="Contact Status" tabindex="4">
+	<input type="hidden" id="webvisitorDUNS1" name="webvisitorDUNS1" placeholder="webvisitor_duns" tabindex="3">
+	<input type="hidden" id="webvisitordomesticUltimateDuns1" name="webvisitordomesticUltimateDuns1" placeholder="webvisitor_domesticUltimateDuns" tabindex="4">
+	<input type="hidden" id="webvisitorAnnualSales1" name="webvisitorAnnualSales1" placeholder="Webvisitor_salesAnnualNum" tabindex="3">
+	<input type="hidden" id="webvisitorNumberOfEmployees1" name="webvisitorNumberOfEmployees1" placeholder="Webvisitor_employeesInAllLocationsNum" tabindex="4">
+	<input type="hidden" id="dialerEligiblePage1" name="dialerEligiblePage1" placeholder="Dialer Eligible Page" tabindex="3">
+	<input type="hidden" id="manualReviewFlag1" name="manualReviewFlag1" placeholder="Manual Review Flag" tabindex="4">
+	<input type="hidden" id="leadsource" name="leadSource" placeholder="Lead Source" tabindex="3">
+	<input type="hidden" id="leadType1" name="leadType1" placeholder="Lead Type" tabindex="4">
+	<input type="hidden" id="leadPriority1" name="leadPriority1" placeholder="Lead Priority" tabindex="3">	
+	<input type="hidden" id="uNDUNSdToLDR1" name="uNDUNSdToLDR1" placeholder="UNDUNSd_to_LDR" tabindex="4">
+	<input type="hidden" id="elqCampaignId" name="elqCampaignId" placeholder="Eloqua Campaign ID" tabindex="3">
+	<input type="hidden" id="sFDCLastCampaignID" name="sFDCLastCampaignID" placeholder="SFDC Campaign ID" tabindex="4">
+	<input type="hidden" id="sFDCLastCampaignName" name="sFDCLastCampaignName" placeholder="Campaign Name" tabindex="3">
+	<input type="hidden" id="productInterest1" name="productInterest1" placeholder="Product Interest" tabindex="4">
+	<input type="hidden" id="solutionInterest1" name="solutionInterest1" placeholder="Solution Interest" tabindex="3">		
+	<input type="hidden" id="preferredLanguage1" name="preferredLanguage1" placeholder="Preferred Language" tabindex="4">
+	<input type="hidden" id="siteOrigin1" name="siteOrigin1" placeholder="Site Origin" tabindex="3">
+	<input type="hidden" id="IPAddress1" name="IPAddress1" placeholder="IP Address" tabindex="4">
+	<input type="hidden" id="serv1" name="serv1" placeholder="Serv value" tabindex="4">
+	<input type="hidden" id="visitorFrom1" name="visitorFrom1" placeholder="Visitor From" tabindex="3">
+	<input type="hidden" id="creativeid" name="creativeID1">
+	<input type="hidden" id="visitorFromDate1" name="visitorFromDate1" placeholder="Visitor From Date" tabindex="4">	
+	<input type="hidden" id="visitorID1" name="visitorID1" placeholder="Visitor ID" tabindex="3">
+	<input type="hidden" id="adobeID1" name="adobeID1" placeholder="Adobe ID" tabindex="4">		
+	<input type="hidden" id="lastFormSubmit1" name="lastFormSubmit1" placeholder="Form Submit Timestamp" tabindex="3">
+	<input type="hidden" id="utm_campaign" name="utm_campaign" placeholder="utm_campaign"> 
+	<input type="hidden" id="utm_medium" name="utm_medium" placeholder="utm_medium"> 
+	<input type="hidden" id="utm_source" name="utm_source" placeholder="utm_source"> 
 
-	<input class="field fname" id="form-gclid" name="gCLID1" type="hidden">
 	<input type="hidden" name="elqFormName" value="SYSTEM-dnb.comcontactus">
 	<input type="hidden" name="elqSiteID" value="1471">
 	<input type="hidden" name="elqCustomerGUID" value="">
@@ -2284,7 +2319,7 @@ if (!!(timerId)) {
 return;
 }
 if (typeof this.GetElqCustomerGUID === 'function') {
-        document.forms["SYSTEM-dnb.comcontactus"].elements["elqCustomerGUID"].value = GetElqCustomerGUID();
+        document.forms["eloquaForm"].elements["elqCustomerGUID"].value = GetElqCustomerGUID();
 return;
 }
 timeout -= 1;
@@ -2303,7 +2338,33 @@ _elqQ.push(['elqGetCustomerGUID']);
         
         <div class="row">
                 <div class="col-md-12">
-                    <div class="legal">By clicking submit, you agree to our <a href="/utility-pages/dun-bradstreet-free-trial-terms.html" target="_blank">Terms of Use</a>. You consent to Dun &amp; Bradstreet (D&amp;B) using this data for marketing and analytical purposes, and to D&amp;B emailing you or using an autodialer or pre-recorded voice to text or call you at the number you provide with marketing or other offers. Consent is not a requirement of purchase. See our <a href="/utility-pages/privacy-policy.html" target="_blank">Privacy Policy</a> to unsubscribe.</div>
+                    <div class="legal"><div class="agreement default">
+	<p class="consent mobile-hide">By clicking submit, you agree to our <a href="/utility-pages/terms-of-use.html">Terms of Use</a> and consent to our <a href="#" class="contact_show">contact process</a>. See our <a href="/utility-pages/privacy-policy.html">Privacy Policy</a> to unsubscribe.</p>
+	<p class="consent mobile-show">By clicking submit, you agree to our <a href="/utility-pages/terms-of-use.html">Terms of Use</a>. You consent to Dun &amp; Bradstreet (D&amp;B) using this data for marketing and analytical purposes, and to D&amp;B emailing you or using an autodialer or pre-recorded voice to text or call you at the number you provide with marketing or other offers. Consent is not a requirement of purchase. See our <a href="/utility-pages/privacy-policy.html">Privacy Policy</a> to unsubscribe.</p>
+	<p class="details">You consent to Dun &amp; Bradstreet (D&amp;B) using this data for marketing and analytical purposes, and to D&amp;B emailing you or using an autodialer or pre-recorded voice to text or call you at the number you provide with marketing or other offers. Consent is not a requirement of purchase.</p>
+</div>
+
+<div class="agreement free-trial">
+	<p class="consent mobile-hide">By clicking submit, you agree to our <a href="/utility-pages/dun-bradstreet-free-trial-terms.html">Terms of Use</a> and consent to our <a href="#" class="contact_show">contact process</a>. See our <a href="/utility-pages/privacy-policy.html">Privacy Policy</a> to unsubscribe.</p>
+	<p class="consent mobile-show">By clicking submit, you agree to our <a href="/utility-pages/dun-bradstreet-free-trial-terms.html">Terms of Use</a>. You consent to Dun &amp; Bradstreet (D&amp;B) using this data for marketing and analytical purposes, and to D&amp;B emailing you or using an autodialer or pre-recorded voice to text or call you at the number you provide with marketing or other offers. Consent is not a requirement of purchase. See our <a href="/utility-pages/privacy-policy.html">Privacy Policy</a> to unsubscribe.</p>
+	<p class="details">You consent to Dun &amp; Bradstreet (D&amp;B) using this data for marketing and analytical purposes, and to D&amp;B emailing you or using an autodialer or pre-recorded voice to text or call you at the number you provide with marketing or other offers. Consent is not a requirement of purchase.</p>
+</div>
+
+<style>
+.contact_cta .agreement .mobile-hide, .contact_cta .agreement .details, .contact_cta .agreement.free-trial, .leadform .agreement .mobile-hide, .leadform .agreement .details, .leadform .agreement.free-trial, .free-trial .leadform .agreement.default  {
+  display: none;
+}
+.free-trial .leadform .agreement.free-trial {
+  display: block;
+}
+
+@media screen and (min-width: 991px) {
+/* temp style to utilize sitewide legal text */
+.sidebar-contact-cta-container .leadform .agreement .mobile-hide {
+ display: block;
+  }
+}
+</style></div>
                 </div>
             </div>
         </div> 
@@ -2723,7 +2784,7 @@ function fixDunsNumberToString(dunsNumber) {
             <div class="row">
                 <div class="col-md-3">
                     <div class="logo">
-                        <img class="test-logo desktop" height="27" src="/content/dam/english/image-library/dnb-mod/logo-dnb-white.svg" width="270">
+                        <img class="test-logo desktop" height="48" src="/content/dam/english/image-library/Modernization/logos/internal/logo-dun-bradstreet-white-tagline.svg" width="220">
                         <img class="test-logo mobile" height="" src="/content/dam/english/image-library/dnb-mod/logo-ampersand-white.svg" width="">
                         </div>
                     <a class="international_site_selector_mobile_button" href="/choose-your-country.html"><span class="icon globe"></span></a>
@@ -2749,11 +2810,10 @@ function fixDunsNumberToString(dunsNumber) {
 			<a href="#">Connect<span class="icon plus-minus"></span></a>
 		</div>
 		<ul>
+                        <li><a href="https://iupdate.dnb.com/iUpdate/viewiUpdateHome.htm" target="_blank">Update Company Information</a></li>
 			<li><a href="/customer-success.html">Customer Service</a></li>
 			<li><a href="/contact-us.html">Contact Us</a></li>
-			<li><a href="/utility-pages/communication-preferences.html">Communication Preferences</a></li>
-			<li><a href="/about-us/partner.html">Partners</a></li>
-			<li><a href="/about-us/events.html">Events</a></li>
+			<li><a href="/utility-pages/communication-preferences.html">Communication Preferences</a></li>			
 			<li class="website-feedback"><a href="/site-survey.html" rel="modal">Provide Website Feedback</a></li>
 		</ul>
 	</div>
@@ -2763,7 +2823,7 @@ function fixDunsNumberToString(dunsNumber) {
 		</div>
 		<ul>
 			<li><a href="http://www.hoovers.com" target="_blank">D&amp;B Hoovers</a></li>
-			<li><a href="http://developer.dnb.com" target="_blank">Developer</a></li>
+			<li><a href="https://developer.dnb.com" target="_blank">Developer</a></li>
 			<li><a href="http://investor.dnb.com/" target="_blank">Investor Relations</a></li>
 		</ul>
 	</div>
@@ -2778,7 +2838,7 @@ function fixDunsNumberToString(dunsNumber) {
                 <a class="linkedin" href="http://www.linkedin.com/company/dun-&amp;-bradstreet" target="_blank"></a>
                     </li>
         <li>
-                <a class="twitter" href="http://twitter.com/dnbus" target="_blank"></a>
+                <a class="twitter" href="https://twitter.com/dnbus" target="_blank"></a>
                     </li>
         </ul>
 </div>
@@ -2835,44 +2895,12 @@ function fixDunsNumberToString(dunsNumber) {
             console.log('error: ' + e);
         }
 
-	 // updated visitorfrom function
-	 function getVisitorFrom() {
-         var visitorFrom = getParameterByName("serv") || getParameterByName("Serv");
-         var visitorFromCampaignPage = '';
-         var chosen_visitorFrom_cookie=readCookie("chosen_visitorFrom_cookie_new");
-         
-         return visitorFrom || chosen_visitorFrom_cookie || visitorFromCampaignPage;
-  	}   
 
-
-	function getChatCampaignID(){
-	    var campaignQuery = getParameterByName("ch");
-	 	var chatCampaignPage = '';
-	 	return campaignQuery ||chatCampaignPage;
-	}
-
-	function getCreativeID(){
-		return document.URL.split("?")[0];		 	
-	}
-
-	function getVisitorID(){
-		 	var HID_cookie=readCookie("HID");
-		 	if (HID_cookie)
-		 	{ }
-		 	else
-		 	{
-		 		var today = new Date();
-			 	var cookie_value=today.getTime();		
-		 		createCookie("HID",cookie_value,30);
-		 		HID_cookie=readCookie("HID");
-		 	}	
-		 	return HID_cookie; 		
-	 }
 
 
 </script>
 <noscript>
-<a href="http://www.boldchat.com" title="Live Chat" target="_blank"><img alt="Live Chat" src="https://vms.boldchat.com/aid/652348453108072006/bc.vmi?wdid=2775810355515379163&amp;vr=&vn=&vi=&ve=&vp=&curl=" border="0" width="1" height="1"/></a>
+<a href="https://www.boldchat.com" title="Live Chat" target="_blank"><img alt="Live Chat" src="https://vms.boldchat.com/aid/652348453108072006/bc.vmi?wdid=2775810355515379163&amp;vr=&vn=&vi=&ve=&vp=&curl=" border="0" width="1" height="1"/></a>
 </noscript>
 </div>
 <!-- /BoldChat Visitor Monitor HTML v5.00 -->
@@ -2881,416 +2909,147 @@ function fixDunsNumberToString(dunsNumber) {
     <script type="text/javascript" src="/etc/designs/dnb/dnb-mod/clientlibs/footlibs.min.js"></script>
 <!-- bottom of body JavaScripts - Site --> 
     <script>
-	var country_codes = {};
-	country_codes['aruba'] = 'AW';
-	country_codes['afghanistan'] = 'AF';
-	country_codes['angola'] = 'AO';
-	country_codes['anguilla'] = 'AI';
-	country_codes['aland islands'] = 'AX';
-	country_codes['albania'] = 'AL';
-	country_codes['andorra'] = 'AD';
-	country_codes['netherlands antilles'] = 'AN';
-	country_codes['united arab emirates'] = 'AE';
-	country_codes['argentina'] = 'AR';
-	country_codes['armenia'] = 'AM';
-	country_codes['asia (unknown country)'] = 'AP';
-	country_codes['american samoa'] = 'AS';
-	country_codes['antarctica'] = 'AQ';
-	country_codes['french southern territories'] = 'TF';
-	country_codes['antigua and barbuda'] = 'AG';
-	country_codes['australia'] = 'AU';
-	country_codes['austria'] = 'AT';
-	country_codes['azerbaijan'] = 'AZ';
-	country_codes['burundi'] = 'BI';
-	country_codes['belgium'] = 'BE';
-	country_codes['benin'] = 'BJ';
-	country_codes['bonaire/sint eustatius/saba'] = 'BQ';
-	country_codes['burkina faso'] = 'BF';
-	country_codes['bangladesh'] = 'BD';
-	country_codes['bulgaria'] = 'BG';
-	country_codes['bahrain'] = 'BH';
-	country_codes['bahamas'] = 'BS';
-	country_codes['bosnia and herzegowina'] = 'BA';
-	country_codes['saint barthelemy'] = 'BL';
-	country_codes['belarus'] = 'BY';
-	country_codes['belize'] = 'BZ';
-	country_codes['bermuda'] = 'BM';
-	country_codes['bolivia'] = 'BO';
-	country_codes['brazil'] = 'BR';
-	country_codes['barbados'] = 'BB';
-	country_codes['brunei darussalam'] = 'BN';
-	country_codes['bhutan'] = 'BT';
-	country_codes['bouvet island'] = 'BV';
-	country_codes['botswana'] = 'BW';
-	country_codes['central african republic'] = 'CF';
-	country_codes['canada'] = 'CA';
-	country_codes['cocos (keeling) islands'] = 'CC';
-	country_codes['switzerland'] = 'CH';
-	country_codes['chile'] = 'CL';
-	country_codes['china'] = 'CN';
-	country_codes['cote d ivoire'] = 'CI';
-	country_codes['cameroon'] = 'CM';
-	country_codes['democratic republic of the congo'] = 'CD';
-	country_codes['congo'] = 'CG';
-	country_codes['cook islands'] = 'CK';
-	country_codes['colombia'] = 'CO';
-	country_codes['comoros'] = 'KM';
-	country_codes['cape verde'] = 'CV';
-	country_codes['costa rica'] = 'CR';
-	country_codes['cuba'] = 'CU';
-	country_codes['curacao'] = 'CW';
-	country_codes['christmas island'] = 'CX';
-	country_codes['cayman islands'] = 'KY';
-	country_codes['cyprus'] = 'CY';
-	country_codes['czech republic'] = 'CZ';
-	country_codes['germany'] = 'DE';
-	country_codes['djibouti'] = 'DJ';
-	country_codes['dominica'] = 'DM';
-	country_codes['denmark'] = 'DK';
-	country_codes['dominican republic'] = 'DO';
-	country_codes['algeria'] = 'DZ';
-	country_codes['ecuador'] = 'EC';
-	country_codes['egypt'] = 'EG';
-	country_codes['eritrea'] = 'ER';
-	country_codes['western sahara'] = 'EH';
-	country_codes['spain'] = 'ES';
-	country_codes['estonia'] = 'EE';
-	country_codes['ethiopia'] = 'ET';
-	country_codes['europe (unknown country)'] = 'EU';
-	country_codes['finland'] = 'FI';
-	country_codes['fiji'] = 'FJ';
-	country_codes['falkland islands (malvinas)'] = 'FK';
-	country_codes['france'] = 'FR';
-	country_codes['faroe islands'] = 'FO';
-	country_codes['federated states of micronesia'] = 'FM';
-	country_codes['gabon'] = 'GA';
-	country_codes['united kingdom'] = 'UK';
-	country_codes['georgia'] = 'GE';
-	country_codes['guernsey'] = 'GG';
-	country_codes['ghana'] = 'GH';
-	country_codes['gibraltar'] = 'GI';
-	country_codes['guinea'] = 'GN';
-	country_codes['guadeloupe'] = 'GP';
-	country_codes['gambia'] = 'GM';
-	country_codes['guinea-bissau'] = 'GW';
-	country_codes['equatorial guinea'] = 'GQ';
-	country_codes['greece'] = 'GR';
-	country_codes['grenada'] = 'GD';
-	country_codes['greenland'] = 'GL';
-	country_codes['guatemala'] = 'GT';
-	country_codes['french guiana'] = 'GF';
-	country_codes['guam'] = 'GU';
-	country_codes['guyana'] = 'GY';
-	country_codes['hong kong'] = 'HK';
-	country_codes['heard and mc donald islands'] = 'HM';
-	country_codes['honduras'] = 'HN';
-	country_codes['croatia'] = 'HR';
-	country_codes['haiti'] = 'HT';
-	country_codes['hungary'] = 'HU';
-	country_codes['indonesia'] = 'ID';
-	country_codes['isle of man'] = 'IM';
-	country_codes['india'] = 'IN';
-	country_codes['british indian ocean territory'] = 'IO';
-	country_codes['ireland'] = 'IE';
-	country_codes['iran (islamic republic of)'] = 'IR';
-	country_codes['iraq'] = 'IQ';
-	country_codes['iceland'] = 'IS';
-	country_codes['israel'] = 'IL';
-	country_codes['italy'] = 'IT';
-	country_codes['jamaica'] = 'JM';
-	country_codes['jersey'] = 'JE';
-	country_codes['jordan'] = 'JO';
-	country_codes['japan'] = 'JP';
-	country_codes['kazakhstan'] = 'KZ';
-	country_codes['kenya'] = 'KE';
-	country_codes['kyrgyzstan'] = 'KG';
-	country_codes['cambodia'] = 'KH';
-	country_codes['kiribati'] = 'KI';
-	country_codes['saint kitts and nevis'] = 'KN';
-	country_codes['south korea'] = 'KR';
-	country_codes['kuwait'] = 'KW';
-	country_codes['lao peoples democratic republic'] = 'LA';
-	country_codes['lebanon'] = 'LB';
-	country_codes['liberia'] = 'LR';
-	country_codes['libyan arab jamahiriya'] = 'LY';
-	country_codes['saint lucia'] = 'LC';
-	country_codes['liechtenstein'] = 'LI';
-	country_codes['sri lanka'] = 'LK';
-	country_codes['lesotho'] = 'LS';
-	country_codes['lithuania'] = 'LT';
-	country_codes['luxembourg'] = 'LU';
-	country_codes['latvia'] = 'LV';
-	country_codes['macau'] = 'MO';
-	country_codes['saint martin'] = 'MF';
-	country_codes['morocco'] = 'MA';
-	country_codes['monaco'] = 'MC';
-	country_codes['moldova'] = 'MD';
-	country_codes['madagascar'] = 'MG';
-	country_codes['maldives'] = 'MV';
-	country_codes['mexico'] = 'MX';
-	country_codes['marshall islands'] = 'MH';
-	country_codes['macedonia'] = 'MK';
-	country_codes['mali'] = 'ML';
-	country_codes['malta'] = 'MT';
-	country_codes['myanmar'] = 'MM';
-	country_codes['montenegro'] = 'ME';
-	country_codes['mongolia'] = 'MN';
-	country_codes['northern mariana islands'] = 'MP';
-	country_codes['mozambique'] = 'MZ';
-	country_codes['mauritania'] = 'MR';
-	country_codes['montserrat'] = 'MS';
-	country_codes['martinique'] = 'MQ';
-	country_codes['mauritius'] = 'MU';
-	country_codes['malawi'] = 'MW';
-	country_codes['malaysia'] = 'MY';
-	country_codes['mayotte'] = 'YT';
-	country_codes['namibia'] = 'NA';
-	country_codes['new caledonia'] = 'NC';
-	country_codes['niger'] = 'NE';
-	country_codes['norfolk island'] = 'NF';
-	country_codes['nigeria'] = 'NG';
-	country_codes['nicaragua'] = 'NI';
-	country_codes['niue'] = 'NU';
-	country_codes['netherlands'] = 'NL';
-	country_codes['norway'] = 'NO';
-	country_codes['nepal'] = 'NP';
-	country_codes['nauru'] = 'NR';
-	country_codes['new zealand'] = 'NZ';
-	country_codes['oman'] = 'OM';
-	country_codes['pakistan'] = 'PK';
-	country_codes['panama'] = 'PA';
-	country_codes['pitcairn'] = 'PN';
-	country_codes['peru'] = 'PE';
-	country_codes['philippines'] = 'PH';
-	country_codes['palau'] = 'PW';
-	country_codes['papua new guinea'] = 'PG';
-	country_codes['poland'] = 'PL';
-	country_codes['puerto rico'] = 'PR';
-	country_codes['north korea'] = 'KP';
-	country_codes['portugal'] = 'PT';
-	country_codes['paraguay'] = 'PY';
-	country_codes['palestinian territories'] = 'PS';
-	country_codes['french polynesia'] = 'PF';
-	country_codes['qatar'] = 'QA';
-	country_codes['reunion'] = 'RE';
-	country_codes['romania'] = 'RO';
-	country_codes['russian federation'] = 'RU';
-	country_codes['rwanda'] = 'RW';
-	country_codes['saudi arabia'] = 'SA';
-	country_codes['sudan'] = 'SD';
-	country_codes['senegal'] = 'SN';
-	country_codes['singapore'] = 'SG';
-	country_codes['south georgia / south sandwich isl'] = 'GS';
-	country_codes['st. helena'] = 'SH';
-	country_codes['svalbard and jan mayen islands'] = 'SJ';
-	country_codes['solomon islands'] = 'SB';
-	country_codes['sierra leone'] = 'SL';
-	country_codes['el salvador'] = 'SV';
-	country_codes['san marino'] = 'SM';
-	country_codes['somalia'] = 'SO';
-	country_codes['st. pierre and miquelon'] = 'PM';
-	country_codes['serbia'] = 'RS';
-	country_codes['south sudan'] = 'SS';
-	country_codes['sao tome and principe'] = 'ST';
-	country_codes['suriname'] = 'SR';
-	country_codes['slovakia (slovak republic)'] = 'SK';
-	country_codes['slovenia'] = 'SI';
-	country_codes['sweden'] = 'SE';
-	country_codes['swaziland'] = 'SZ';
-	country_codes['sint maarten'] = 'SX';
-	country_codes['seychelles'] = 'SC';
-	country_codes['syrian arab republic'] = 'SY';
-	country_codes['turks and caicos islands'] = 'TC';
-	country_codes['chad'] = 'TD';
-	country_codes['togo'] = 'TG';
-	country_codes['thailand'] = 'TH';
-	country_codes['tajikistan'] = 'TJ';
-	country_codes['tokelau'] = 'TK';
-	country_codes['turkmenistan'] = 'TM';
-	country_codes['timor-leste'] = 'TL';
-	country_codes['tonga'] = 'TO';
-	country_codes['trinidad and tobago'] = 'TT';
-	country_codes['tunisia'] = 'TN';
-	country_codes['turkey'] = 'TR';
-	country_codes['tuvalu'] = 'TV';
-	country_codes['taiwan province of china'] = 'TW';
-	country_codes['tanzania'] = 'TZ';
-	country_codes['uganda'] = 'UG';
-	country_codes['ukraine'] = 'UA';
-	country_codes['us minor outlying islands'] = 'UM';
-	country_codes['uruguay'] = 'UY';
-	country_codes['united states'] = 'US';
-	country_codes['usa'] = 'US';
-	country_codes['uzbekistan'] = 'UZ';
-	country_codes['holy see (vatican city state)'] = 'VA';
-	country_codes['saint vincent and the grenadines'] = 'VC';
-	country_codes['venezuela'] = 'VE';
-	country_codes['british virgin islands'] = 'VG';
-	country_codes['us virgin islands'] = 'VI';
-	country_codes['viet nam'] = 'VN';
-	country_codes['vanuatu'] = 'VU';
-	country_codes['wallis and futuna islands'] = 'WF';
-	country_codes['samoa'] = 'WS';
-	country_codes['yemen'] = 'YE';
-	country_codes['south africa'] = 'ZA';
-	country_codes['zambia'] = 'ZM';
-	country_codes['zimbabwe'] = 'ZW';
-
-	$("#chatBtn-Other").click(function(event) {
-		event.preventDefault();
-		event.stopPropagation();
-		console.log('prevent chat button click');
-	})
-
-
-	var gclid = getParameterByName('gclid');
-	if (gclid) {
-		var gclsrc = getParameterByName('gclsrc');
-		if (!gclsrc || gclsrc.indexOf('ds') !== -1) {
-			createCookie('gclid', gclid, 90);
-		}
-	}
-
 	// Site - Bottom of Body - JS
 
 	function setFormFromContext(this_form) {
 		this_form = this_form || $('#eloquaForm');
+		//check to make sure form is on page before trying to populate it.
+		if(this_form.length) {
 
-		// If Webvisitor values have been set then preset the form values.
-		if (digitalData.page.clientContext.companyName && digitalData.page.clientContext.companyName != 'Unmatched Visitor' && digitalData.page.clientContext.companyName != 'undefined' && digitalData.page.clientContext.companyName != '') {
-			this_form.find("#form-companyname").val(digitalData.page.clientContext.companyName);
-		}
-		if (digitalData.page.clientContext.companyAddress && digitalData.page.clientContext.companyAddress != 'Unmatched Visitor' && digitalData.page.clientContext.companyAddress != '') {
-			this_form.find("#form-address").val(digitalData.page.clientContext.companyAddress);
-		}
-		if (digitalData.page.clientContext.companyZip && digitalData.page.clientContext.companyZip != 'Unmatched Visitor' && digitalData.page.clientContext.companyZip != '') {
-			this_form.find("#form-postalcode").val(digitalData.page.clientContext.companyZip);
-		} else if (typeof location_zip !== 'undefined' && location_zip) {
-			this_form.find("#form-postalcode").val(location_zip);
-		}
-
-		if (digitalData.page.clientContext.location && digitalData.page.clientContext.location != 'Unmatched Visitor' && digitalData.page.clientContext.location != '') {
-			if (this_form.find("#form-country option[value=" + country_codes[digitalData.page.clientContext.location.toLowerCase()] + "]").length) {
-				this_form.find("#form-country").val(country_codes[digitalData.page.clientContext.location.toLowerCase()]);
+			// If Webvisitor values have been set then preset the form values.
+			if (digitalData.page.clientContext.companyName && digitalData.page.clientContext.companyName != 'Unmatched Visitor' && digitalData.page.clientContext.companyName != 'undefined' && digitalData.page.clientContext.companyName != '') {
+				this_form.find("#form-companyname").val(digitalData.page.clientContext.companyName);
 			}
-		} else if (typeof location_country !== 'undefined' && location_country) {
-			if (this_form.find("#form-country option[value=" + country_codes[location_country.toLowerCase()] + "]").length) {
-				this_form.find("#form-country").val(country_codes[location_country.toLowerCase()]);
+			if (digitalData.page.clientContext.companyAddress && digitalData.page.clientContext.companyAddress != 'Unmatched Visitor' && digitalData.page.clientContext.companyAddress != '') {
+				this_form.find("#form-address").val(digitalData.page.clientContext.companyAddress);
 			}
-		}
-
-		if (this_form.find("input[name='webvisitorNumberOfEmployees1']").length)
-			this_form.find("input[name='webvisitorNumberOfEmployees1']").val(digitalData.page.clientContext.employeesInAllLocations);
-
-		if (this_form.find("input[name='webvisitordomesticUltimateDuns1']").length)
-			this_form.find("input[name='webvisitordomesticUltimateDuns1']").val(digitalData.page.clientContext.domesticUltimateDuns);
-
-		if (this_form.find("input[name='webvisitorAnnualSales1']").length)
-			this_form.find("input[name='webvisitorAnnualSales1']").val(digitalData.page.clientContext.annualSalesNum);
-
-		if (this_form.find("input[name='webvisitorDUNS1']").length)
-			this_form.find("input[name='webvisitorDUNS1']").val(digitalData.page.clientContext.DUNSNumber);
-
-		var fname = DNB.getCookie("w_firstName");
-		if (fname != null) {
-			this_form.find("input[name='firstName']").val(fname);
-		}
-
-		var lname = DNB.getCookie("w_lastName");
-		if (lname != null) {
-			this_form.find("input[name='lastName']").val(lname);
-		}
-		var emailAddress = DNB.getCookie("w_emailAddress");
-		if (emailAddress != null) {
-			this_form.find("input[name='emailAddress']").val(emailAddress);
-		}
-		var busPhone = DNB.getCookie("w_busPhone");
-		if (busPhone != null) {
-			this_form.find("input[name='busPhone']").val(busPhone);
-		}
-		var title = DNB.getCookie("w_title");
-		if (title != null) {
-			this_form.find("#form-jobtitle").val(title);
-		}
-
-		var companyName = DNB.getCookie("w_companyName");
-		if (companyName != null) {
-			this_form.find("input[name='company']").val(companyName);
-		}
-
-		var set_gclid = readCookie("gclid");
-		if (set_gclid) {
-			this_form.find("#form-gclid").val(set_gclid);
-		}
-
-		if (this_form.find("input[name='leadSource']").length) {
-			this_form.find("input[name='leadSource']").val($("input[name='leadSource']").val().replace('&amp;', '&'));
-		}
-		//
-		if (this_form.find("input[name='marketingAgreementStatus1']").length &&
-			this_form.find("input[name='marketingAgreementStatus1']").val().indexOf('T & C Received') >= 0 &&
-			leadformSettings.termsconditions != '' && this_form.find("#termsconditions").length) {
-			this_form.find("input[name='marketingAgreementStatus1']").val('T&C Received');
-			if (this_form.find("#termsconditions").length)
-				this_form.find("#termsconditions").text(leadformSettings.termsconditions);
-		}
-
-		if (this_form.find("input[name='adobeID1']").length) {
-			if (typeof s.visitor.getMarketingCloudVisitorID === "function") {
-				this_form.find("input[name='adobeID1']").val(s.visitor.getMarketingCloudVisitorID());
-			}
-		}
-		if (this_form.find("input[name='elqCampaignId']").length &&
-			leadformSettings.eloquaCampaignId != '') {
-			this_form.find("input[name='elqCampaignId']").val(leadformSettings.eloquaCampaignId);
-		}
-		
-		if (this_form.find("input[name='visitorFromDate1']").length) {
-			setVisitFromDate();
-		}
-		if (this_form.find("input[name='elqCustomerGUID']").length) {
-			setGUIDVisitorID();
-		}
-		
-		if (this_form.find("input[name='serv1']").length) {
-		
-			var chosen_visitorFrom = "";
-			if(leadformSettings.visitorFrom1 != undefined) {
-				chosen_visitorFrom = setVisitorFrom(leadformSettings.visitorFrom1);
-			} else {
-				chosen_visitorFrom = setVisitorFrom("");
+			if (digitalData.page.clientContext.companyZip && digitalData.page.clientContext.companyZip != 'Unmatched Visitor' && digitalData.page.clientContext.companyZip != '') {
+				this_form.find("#form-postalcode").val(digitalData.page.clientContext.companyZip);
+			} else if (typeof location_zip !== 'undefined' && location_zip) {
+				this_form.find("#form-postalcode").val(location_zip);
 			}
 
-			this_form.find('input[name=visitorFrom1]').val(chosen_visitorFrom);
-			if (chosen_visitorFrom.indexOf(',') > 0 && (chosen_visitorFrom.length - 1) >= chosen_visitorFrom.lastIndexOf(',')) {
-				this_form.find('input[name=serv1]').val(chosen_visitorFrom.substr(chosen_visitorFrom.lastIndexOf(',') + 1));
-			} else {
-				this_form.find('input[name=serv1]').val(chosen_visitorFrom);
+			if (digitalData.page.clientContext.location && digitalData.page.clientContext.location != 'Unmatched Visitor' && digitalData.page.clientContext.location != '') {
+				if (this_form.find("#form-country option[value=" + country_codes[digitalData.page.clientContext.location.toLowerCase()] + "]").length) {
+					this_form.find("#form-country").val(country_codes[digitalData.page.clientContext.location.toLowerCase()]);
+				}
+			} else if (typeof location_country !== 'undefined' && location_country) {
+				if (this_form.find("#form-country option[value=" + country_codes[location_country.toLowerCase()] + "]").length) {
+					this_form.find("#form-country").val(country_codes[location_country.toLowerCase()]);
+				}
+			}
+
+			if (this_form.find("input[name='webvisitorNumberOfEmployees1']").length)
+				this_form.find("input[name='webvisitorNumberOfEmployees1']").val(digitalData.page.clientContext.employeesInAllLocations);
+
+			if (this_form.find("input[name='webvisitordomesticUltimateDuns1']").length)
+				this_form.find("input[name='webvisitordomesticUltimateDuns1']").val(digitalData.page.clientContext.domesticUltimateDuns);
+
+			if (this_form.find("input[name='webvisitorAnnualSales1']").length)
+				this_form.find("input[name='webvisitorAnnualSales1']").val(digitalData.page.clientContext.annualSalesNum);
+
+			if (this_form.find("input[name='webvisitorDUNS1']").length)
+				this_form.find("input[name='webvisitorDUNS1']").val(digitalData.page.clientContext.DUNSNumber);
+
+			var fname = DNB.getCookie("w_firstName");
+			if (fname != null) {
+				this_form.find("input[name='firstName']").val(fname);
+			}
+
+			var lname = DNB.getCookie("w_lastName");
+			if (lname != null) {
+				this_form.find("input[name='lastName']").val(lname);
+			}
+			var emailAddress = DNB.getCookie("w_emailAddress");
+			if (emailAddress != null) {
+				this_form.find("input[name='emailAddress']").val(emailAddress);
+			}
+			var busPhone = DNB.getCookie("w_busPhone");
+			if (busPhone != null) {
+				this_form.find("input[name='busPhone']").val(busPhone);
+			}
+			var title = DNB.getCookie("w_title");
+			if (title != null) {
+				this_form.find("#form-jobtitle").val(title);
+			}
+
+			var companyName = DNB.getCookie("w_companyName");
+			if (companyName != null) {
+				this_form.find("input[name='company']").val(companyName);
+			}
+
+			var set_gclid = readCookie("gclid");
+			if (set_gclid) {
+				this_form.find("#form-gclid").val(set_gclid);
+			}
+
+			if (this_form.find("input[name='leadSource']").length) {
+				this_form.find("input[name='leadSource']").val($("input[name='leadSource']").val().replace('&amp;', '&'));
+			}
+			//
+			if (this_form.find("input[name='marketingAgreementStatus1']").length &&
+				this_form.find("input[name='marketingAgreementStatus1']").val().indexOf('T & C Received') >= 0 &&
+				leadformSettings.termsconditions != '' && this_form.find("#termsconditions").length) {
+				this_form.find("input[name='marketingAgreementStatus1']").val('T&C Received');
+				if (this_form.find("#termsconditions").length)
+					this_form.find("#termsconditions").text(leadformSettings.termsconditions);
+			}
+
+			if (this_form.find("input[name='adobeID1']").length) {
+				if (typeof s.visitor.getMarketingCloudVisitorID === "function") {
+					this_form.find("input[name='adobeID1']").val(s.visitor.getMarketingCloudVisitorID());
+				}
+			}
+			if (this_form.find("input[name='elqCampaignId']").length &&
+				leadformSettings.eloquaCampaignId != '') {
+				this_form.find("input[name='elqCampaignId']").val(leadformSettings.eloquaCampaignId);
+			}
+			
+			if (this_form.find("input[name='visitorFromDate1']").length) {
+				setVisitFromDate();
+			}
+			if (this_form.find("input[name='elqCustomerGUID']").length) {
+				setGUIDVisitorID();
+			}
+			
+			if (this_form.find("input[name='serv1']").length) {
+			
+				var chosen_visitorFrom = "";
+				if(leadformSettings.visitorFrom1 != undefined) {
+					chosen_visitorFrom = setVisitorFrom(leadformSettings.visitorFrom1);
+				} else {
+					chosen_visitorFrom = setVisitorFrom("");
+				}
+
+				this_form.find('input[name=visitorFrom1]').val(chosen_visitorFrom);
+				if (chosen_visitorFrom.indexOf(',') > 0 && (chosen_visitorFrom.length - 1) >= chosen_visitorFrom.lastIndexOf(',')) {
+					this_form.find('input[name=serv1]').val(chosen_visitorFrom.substr(chosen_visitorFrom.lastIndexOf(',') + 1));
+				} else {
+					this_form.find('input[name=serv1]').val(chosen_visitorFrom);
+				}		
+			}
+			
+			if (getParameterByName("utm_campaign") != "" &&
+				$("input[name='utm_campaign']").length) {
+				console.log("utm_campaign" + getParameterByName("utm_campaign"));
+				$("input[name='utm_campaign']").val(getParameterByName("utm_campaign"));
+			}
+			if (getParameterByName("utm_medium") != "" &&
+				$("input[name='utm_campaign']").length) {
+				console.log("utm_medium" + getParameterByName("utm_medium"));
+				$("input[name='utm_medium']").val(getParameterByName("utm_medium"));
+			}
+			if (getParameterByName("utm_source") != "" &&
+				$("input[name='utm_campaign']").length) {
+				console.log("utm_source" + getParameterByName("utm_source"));
+				$("input[name='utm_source']").val(getParameterByName("utm_source"));
 			}		
 		}
-		
 	}
 
 	$('a[href$=".pdf"]').click(function() {
-		//console.log('pdf href logged'+$(this).attr("href"));
 		_elq.trackEvent($(this).attr("href"));
-		//_elq.trackOutboundLink(this);
 	})
-
-	function retargetExternalLinks() {
-		$.expr[':'].external = function(obj) {
-			return (!obj.href.match(/^mailto:/) && !obj.href.match(/^javascript:/) && (obj.hostname != location.hostname)) && !obj.href.match(/.pdf$/);
-		};
-		$('a:external').attr({
-			'target': '_blank'
-		});
-	}
-
-
-
-	window.onload = function() {
-		retargetExternalLinks();
-	};
 
 	/* TEMPORARY LAUNCH EDITS */
 	$('.search-panel').on({
@@ -3302,62 +3061,8 @@ function fixDunsNumberToString(dunsNumber) {
 		}
 	})
 
-	// updated visitorfrom function
-	function getVisitorFrom() {
-		var visitorFrom = getParameterByName("serv") || getParameterByName("Serv");
-		var visitorFromCampaignPage = '';
-		var chosen_visitorFrom_cookie = readCookie("chosen_visitorFrom_cookie_new");
-		return visitorFrom || chosen_visitorFrom_cookie || visitorFromCampaignPage;
-	}
-
 </script>
 
-<script>
-	CAMPAIGN_MAP.getCampaignSegment(function(camp_seg) {
-		jQuery(function() {
-
-			setVisitFromDate();
-
-			setGUIDVisitorID();
-
-			setCampaignID(leadformSettings.campaignID);
-
-			var chosen_visitorFrom = setVisitorFrom(leadformSettings.visitorFrom);
-
-			$('#eloquaForm').find('input[name=visitorFrom1]').val(chosen_visitorFrom);
-			if (chosen_visitorFrom.indexOf(',') > 0 && (chosen_visitorFrom.length - 1) >= chosen_visitorFrom.lastIndexOf(',')) {
-				$('#eloquaForm').find('input[name=serv1]').val(chosen_visitorFrom.substr(chosen_visitorFrom.lastIndexOf(',') + 1));
-			} else {
-				$('#eloquaForm').find('input[name=serv1]').val(chosen_visitorFrom);
-			}
-
-
-
-			// if ther eis comma then get last value other wise get the value
-
-		});
-	});
-
-</script>
-
-<script>
-	if (getParameterByName("utm_campaign") != "" &&
-		$("input[name='utm_campaign']").length) {
-		console.log("utm_campaign" + getParameterByName("utm_campaign"));
-		$("input[name='utm_campaign']").val(getParameterByName("utm_campaign"));
-	}
-	if (getParameterByName("utm_medium") != "" &&
-		$("input[name='utm_campaign']").length) {
-		console.log("utm_medium" + getParameterByName("utm_medium"));
-		$("input[name='utm_medium']").val(getParameterByName("utm_medium"));
-	}
-	if (getParameterByName("utm_source") != "" &&
-		$("input[name='utm_campaign']").length) {
-		console.log("utm_source" + getParameterByName("utm_source"));
-		$("input[name='utm_source']").val(getParameterByName("utm_source"));
-	}
-
-</script>
 
 <script>
 	function submitForm() {
@@ -3537,76 +3242,6 @@ function fixDunsNumberToString(dunsNumber) {
 
 </script>
 
-<!-- reusable custom site alert solution 4.0 start-->
-<link rel="stylesheet" href="/etc/designs/dnb/dnb-mod/clientlibs/components/site_alert.min.css" type="text/css">
-<script type="text/javascript" src="/etc/designs/dnb/dnb-mod/clientlibs/components/site_alert.min.js"></script>
-<script>
-	// custom site alert v4.0 - digitalData
-	var DNB = DNB || {};
-	DNB.components = DNB.components || {};
-	DNB.components.site_alert = {
-		custom_site_alert: function(site_alert_name, array_name) {
-
-			if (DNB.getCookie(site_alert_name) == null) {
-
-				var site_alert = $('.site_alert[name="' + site_alert_name + '"]');
-				for (i = 0; i < array_name.length; i++) {
-
-					//generate the appropriate regexp for directories or parent pages
-					if (array_name[i].match(/\/$/)) {
-
-						//trailing backslash indicates directory
-						var regex = new RegExp(array_name[i]);
-
-					} else {
-
-						//no trailing backslash indicates parent page only
-						var regex = new RegExp(array_name[i] + "$");
-
-					}
-
-					//default the foundMatch boolean
-					var foundMatch = false;
-					if (DNB.components.site_alert.url.match(regex)) {
-
-						foundMatch = true;
-
-					}
-
-					if (foundMatch) {
-
-						$('.mod-teaser').html(site_alert);
-
-						site_alert.find('.close').click(function() {
-
-							DNB.setCookie(site_alert_name, 'closed', 1);
-							site_alert.slideUp();
-
-						})
-
-						site_alert.show();
-						break;
-
-					} else {
-
-						site_alert.remove();
-
-					}
-
-				}
-			} else {
-
-				site_alert.remove();
-
-			}
-
-		},
-		url: digitalData.page.pageInfo.contentID
-	}
-
-</script>
-<!-- reusable custom site alert solution 4.0 end -->
-
 <!-- free-credit-alerts site alert start -->
 <div class="site_alert" name="free-credit-alerts">
 	<div class="container">
@@ -3622,7 +3257,6 @@ function fixDunsNumberToString(dunsNumber) {
 
 <script>
 	var free_credit_alerts_array = [
-		"/content/dnb-us/en/home/products/finance-credit-risk/business-credit-reports",
 		"/content/dnb-us/en/home/products/finance-credit-risk/manage-my-business-credit"
 	];
 
@@ -3631,122 +3265,6 @@ function fixDunsNumberToString(dunsNumber) {
 </script>
 <!-- free-credit-alerts site alert end -->
 
-<!-- credit advantage site alert start -->
-<div class="site_alert" name="credit-advantage">
-	<script>
-		// eliminate credit-advantage site alert for mobile
-		$(document).ready(function() {
-			if (Modernizr.mq('screen and (max-width: 991px)')) {
-				$('.site_alert[name="credit-advantage"]').remove();
-			}
-		})
-
-	</script>
-	<div class="container">
-		<div class="row">
-			<div class="col-md-12">
-				<span class="site-alert-copy long">Try D&amp;B Credit Advantage for Free! <a href="https://www.dnb.com/products/finance-credit-risk/dnb-credit-advantage/free-trial.html?serv=UPPCFOHP104622">Get Started.</a></span>
-				<span class="site-alert-copy short">Try D&amp;B Credit Advantage! <a href="https://www.dnb.com/products/finance-credit-risk/dnb-credit-advantage/free-trial.html.html?serv=UPPCFOHP104622">Free Trial</a></span>
-				<input class="close" type="button">
-			</div>
-		</div>
-	</div>
-</div>
-
-<script>
-	var credit_advantage_alerts_array = [
-		"/content/dnb-us/en/home/products/finance-credit-risk",
-		"/content/dnb-us/en/home/solutions/finance-and-risk-management",
-		"/content/dnb-us/en/home/solutions/finance-and-risk-management/managing-capital-and-risk-solutions",
-		"/content/dnb-us/en/home/solutions/finance-and-risk-management/finance-and-sales-collaboration-solutions",
-		"/content/dnb-us/en/home/solutions/finance-and-risk-management/enterprise-wide-data-strategy-solutions"
-	];
-
-	DNB.components.site_alert.custom_site_alert('credit-advantage', credit_advantage_alerts_array);
-
-</script>
-<!-- credit advantage site alert end -->
-
-<!-- free data health scan site alert start -->
-
-<div class="site_alert" name="free-data-health">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-12">
-				<span class="site-alert-copy long">Get a complete report on your sales &amp; marketing data — FREE! <a href="https://www.dnb.com/marketing/media/free-data-health-scan-offer.html?serv=UPPCMOHP105169">Get Started</a>.</span>
-				<span class="site-alert-copy short">Get a FREE report on your data <a href="https://www.dnb.com/marketing/media/free-data-health-scan-offer.html?serv=UPPCMOHP105169">here</a>!</span>
-				<input class="close" type="button">
-			</div>
-		</div>
-	</div>
-</div>
-
-<script>
-	var free_data_health_alerts_array = [
-		"/content/dnb-us/en/home/products/marketing-sales/audience-solutions",
-		"/content/dnb-us/en/home/products/marketing-sales",
-		"/content/dnb-us/en/home/products/marketing-sales/market-insight",
-		"/content/dnb-us/en/home/products/marketing-sales/lead-builder",
-		"/content/dnb-us/en/home/duns-number",
-		"/content/dnb-us/en/home/about-us/our-data"
-	];
-
-	DNB.components.site_alert.custom_site_alert('free-data-health', free_data_health_alerts_array);
-
-</script>
-<!-- free data health scan site alert end -->
-
-<script>
-	$('nav .back').click(function(event) {
-		event.preventDefault();
-	})
-
-</script>
-
-<!-- phone number overrides start -->
-<script>
-	// override phone number script
-	function updatePhoneNumber() {
-
-		// throw DNB.phonenumber into a variable for processing
-		var a = DNB.phonenumber;
-
-		// remove all non-digit characters
-		var b = a.replace(/[^d]/g, "");
-
-		// if number is 10-digit US format
-		if (b.length == 10) {
-
-			// apply 10-digit phone number formatting
-			var c = "(" + b.substring(0, 3) + ") " + b.substring(3, 6) + "-" + b.substring(6);
-
-		} else {
-
-			// apply override with user-entered format
-			var c = a;
-
-		}
-
-		if ($('.contact-method.call').children().length > 0) {
-
-			var link = $('.contact-method.call a');
-			var icon = '<div class="icon"></div>';
-			var children_text = $('.contact-method.call').text();
-			var text_only = $.trim(children_text.match(/[a-zs]/gi).join(''));
-			var text = '<span class="text">' + text_only + '</span> ';
-			link.attr('href', 'tel:' + DNB.phonenumber.replace(/D/g, ''));
-			link.html(icon + text + DNB.phonenumber);
-
-		} else {
-
-			// turned off in config. do nothing.
-
-		}
-
-	}
-
-</script>
-<!-- phone number overrides end -->
 
 <!-- fix for changed contact toggle behavior impacting scroll-to-cta function start -->
 <script>
@@ -3777,54 +3295,24 @@ function fixDunsNumberToString(dunsNumber) {
 
 </script>
 
-<!-- START Temporary contact-bar for mobile until new contact bar is implemented -->
+<!-- temp fix for bug in fixed header - campaign pages -->
 <script>
-	$(document).ready(function() {
-		if ($('html').hasClass('mobile')) {
-			$('#cta-lead-form .mobile').text('Contact');
-			$('#chatBtn-Other .icon').after('<span class="mobile">Chat</span>')
-
-			if (!$.trim($('.cta .form').html()).length) {
-				$('.cta .form').css('display', 'none');
-				$('.cta .chat').addClass('cta-half');
-			}
-
-			if (!$.trim($('.cta .call').html()).length) {
-				$('.cta .call').css('display', 'none');
-			}
-
-		}
-	})
-
-	$(window).resize(function() {
-		if ($(window).width() > 992) {
-			$('#chatBtn-Other').html('<span class="icon"></span>Start a Live Chat')
-			$('#cta-lead-form .mobile').text('Contact Us');
-		} else {
-			$('#chatBtn-Other').html('<span class="icon"></span><span class="mobile">Chat</span>')
-			$('#cta-lead-form .mobile').text('Contact');
-		}
-	});
-
+  $(document).ready(function () {
+    $('div.simple-header').next().first('.content_card').css('padding-top', '84px');
+  });
 </script>
-<!-- END Temporary contact-bar for mobile until new contact bar is implemented -->
 
-<!-- temporary fix for ios 11 form bug -->
+<!-- temp fix for contact bar errors where contact methods not rendered start -->
 <script>
-	$(document).ready(function() {
-		$('.contact_cta .form .button').click(function(event) {
-			event.preventDefault();
-			if ($(window).width() < 768) {
-				var iOS = /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
-				if (iOS) {
-					$('#page').toggleClass('content-fixed');
-				}
-			}
-		})
-	})
-
+DNB.components.contact_cta.measure_footer = function () {
+  this.contact_bar_height = $(".contact_cta .cta").outerHeight();
+  var leadform_height = window.innerHeight - document.querySelector(".contact_cta .cta").offsetHeight;
+  if (document.querySelector(".lead-form") !== null) {
+    document.querySelector(".lead-form").style.height = leadform_height + "px";
+  }
+}
 </script>
-<!-- bottom of body JavaScripts - Page -->
+<!-- temp fix for contact bar errors where contact methods not rendered end--><!-- bottom of body JavaScripts - Page -->
     <script>
 $(document).ready(function(){
 
@@ -3848,7 +3336,7 @@ function wvidt() {
 	if (typeof s_gi === "function") {
 		//console.log('s_gi=yes:');
 		// Must set all the variables here as DTM has already executed.
-		
+		s.eVar43=s.visitor.getMarketingCloudVisitorID();
 		s.eVar20=digitalData.page.clientContext.APIMatchType;
 		s.eVar44=digitalData.page.clientContext.status;
 		s.eVar45=digitalData.page.clientContext.employeesAtLocation;
@@ -3882,6 +3370,13 @@ function wvidt() {
 		if(cxSiteId){
 			reportDNBCxenseEvent(digitalData.page.clientContext);
 		}
+
+try{
+	WindowParameters="customField_AdobeID="+getAdobeID();
+	_bcvma.push(["setParameter", "WindowParameters", WindowParameters])
+} catch (e) {
+	console.log('error: ' + e);
+}
 	} else {
 		setTimeout(function () {
 			//console.log('call wvidt inside setTimeout');
