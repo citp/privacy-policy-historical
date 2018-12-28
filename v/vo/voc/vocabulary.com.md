@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vocabulary.com privacy policy that was archived on 2018-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180518192340id_/https%3A//www.vocabulary.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vocabulary.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228044524id_/https%3A//www.vocabulary.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : Vocabulary.com
 
