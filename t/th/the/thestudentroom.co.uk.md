@@ -1,129 +1,272 @@
-> *The following text is extracted and transformed from the thestudentroom.co.uk privacy policy that was archived on 2018-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180518013343id_/https%3A//www.thestudentroom.co.uk/faq.php%3Ffaq%3Dtsr_privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestudentroom.co.uk privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228151721id_/https%3A//www.thestudentroom.co.uk/faq.php%3Ffaq%3Dtsr_privacy_statement) for the most accurate reproduction.*
 
-# The Student Room - FAQ: Your privacy
+# TSR privacy policy | The Student Room
 
-This Privacy Policy sets out the data processing practices carried out through the use of the internet and any other electronic communications networks by The Student Room Group ("TSRG", "we" or "us"). We believe that it is important you know how we treat the information about you, which we receive from you. If you have any requests concerning your personal information or any queries with regard to these practices please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#92e1e7e2e2fde0e6d2e6faf7e1e6e7f6f7fce6e0fdfdffbcf1fdff). Please note that all data thus captured will be used and held in accordance with the requirements of the Data Protection Act 1998.
+## Introduction
 
-This statement (together with our terms of use and our cookie policy) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting [thestudentroom.co.uk](https://www.thestudentroom.co.uk/) and other TSRG websites (the "TSRG site") you are accepting and consenting to practices described in this statement. If you do not accept the terms in this statement you should not access TSRG site.
+Welcome to The Student Room's (TSR) privacy notice.
 
-This policy applies to all users, members, subscribers, customers and person who visits and use the TSRG site ("you").
+TSR respects your privacy and is committed to protecting your personal data. This privacy notice will inform you as to how we look after your personal data when you visit our website (regardless of where you visit it from) and tell you about your privacy rights and how the law protects you.
 
-**Information collected**
+## 1    Important information and who we are
 
-Generally you can visit the TSRG site without providing personally identifiable information about you. We collect personally identifiable information from visitors to this website through:
+**Purpose of this privacy notice**
 
-  * the registration form when you create an account;
-  * in surveys if you choose to take part in them;
-  * when you email us with an enquiry;
-  * when you participate in discussion boards or other social media functions on the TSRG site;
-  * the transactions you undertake through this site including details of payment cards used when you place an order.
+This privacy notice aims to give you information on how TSR collects and processes your personal data through your use of this website, including any data you may provide through this website when you register, use our site tools (i.e. Uni Match, forums, learning resources), through the use of the data preference centre, interactions with advertising and taking part in competitions.
 
+This website is not intended for children (under 13) and we do not knowingly collect data relating to anyone under 13.
 
+It is important that you read this privacy notice together with any other privacy notice or fair processing notice we may provide on specific occasions when we are collecting or processing personal data about you so that you are fully aware of how and why we are using your data. This privacy notice supplements the other notices and is not intended to override them.
 
-In addition to the above, our servers automatically collect domain names, IP addresses, browser details, your country of origin and how you got to the site (please see our cookie policy for more detail).
+**Controller**
 
-**Use of personal information**
+The Student Room Group Ltd is the controller and responsible for your personal data (collectively referred to as TSR, "we", "us" or "our" in this privacy notice).
 
-We process personal information collected via this website for the purposes of:
+We have appointed a data protection officer ("DPO") who is responsible for overseeing questions in relation to this privacy notice. If you have any questions about this privacy notice, including any requests to exercise your legal rights, please contact the DPO using the details set out below.
 
-  * providing and personalising our services;
-  * dealing with your enquiries and requests;
-  * administering orders and accounts relating to our suppliers or customers;
-  * administering membership records;
-  * providing information about products and services; and
-  * conducting market research.
+**Contact details**
+
+  * **Full name of legal entity:**  The Student Room Group Ltd
+  * **Name  of data protection officer:** Warren Oates
+  * **Email address:**  data.protection@thestudentroom.com
+  * **Postal address:** International House, Queens Road, Brighton, BN1 3XE
 
 
 
-**Data Capture Information**
+You have the right to make a complaint at any time to the Information Commissioner's Office ("ICO"), the UK supervisory authority for data protection issues ([www.ico.org.uk](https://www.ico.org.uk/)). We would, however, appreciate the chance to deal with your concerns before you approach the ICO so please contact us in the first instance.
 
-We will send you information according to the preferences on your email preferences page we think will be useful to you. If you would like to change these preferences at any point, please visit your email preferences page in the My Accounts section.
+**Changes to the privacy notice and your duty to inform us of changes**
 
-From time to time we would like to send you emails from carefully selected third parties that offer products or services that we think may be of interest to you. We will only do this if you have opted-in to receive such emails through your preferences.
+It is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes during your relationship with us.
 
-We may use your IP address to help diagnose any problems with our serves or to administer the TSRG site. Your IP address may be used to help identify you and to gather broad demographic information to help us understand our users requirements.
+**Third-party links**
 
-TSRG is intended for general use and does not knowingly collect personal data from children. We take specific steps to protect the privacy of children by not allowing minors to sign up to the site unless parental or legal guardian consent is provided. Parents and legal guardians are responsible for the activities of their children online.
+This website may include links to third-party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy notice of every website you visit.
 
+## 2    The data we collect about you
+
+Personal data, or personal information, means any information about an individual from which that person can be identified. It does not include data where the identity has been removed (anonymous data).
+
+We may collect, use, store and transfer different kinds of personal data about you which we have grouped together as follows:
+
+  * **Identity Data** includes username, first name, last name, date of birth and gender.
+  * **Contact Data** includes email address and telephone numbers, delivery address.
+  * **Technical Data** includes internet protocol ("IP") address, your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access this website.
+  * **Profile Data** includes your username and password, your education, your interests, preferences, feedback and survey responses.
+  * **Usage Data** includes information about how you use our website, products and services.
+  * **Marketing and Communications Data** includes your preferences in receiving marketing from us and our third parties and your communication preferences.
+
+
+
+We also collect, use and share **Aggregated Data** such as statistical or demographic data for any purpose. Aggregated Data may be derived from your personal data but is not considered personal data in law as this data does not directly or indirectly reveal your identity. For example, we may aggregate your Usage Data to calculate the percentage of users accessing a specific website feature. However, if we combine or connect Aggregated Data with your personal data so that it can directly or indirectly identify you, we treat the combined data as personal data which will be used in accordance with this privacy notice.
+
+We do not collect any Special Categories of Personal Data about you (this includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data). Nor do we collect any information about criminal convictions and offences.
+
+**If you fail to provide personal data**
+
+Where we need to collect personal data by law, or under the terms of a contract we have with you and you fail to provide that data when requested, we may not be able to perform the contract we have or are trying to enter into with you (for example, to provide you with goods or services). In this case, we may have to cancel a product or service you have with us but we will notify you if this is the case at the time.
+
+## 3    How is your personal data collected?
+
+We use different methods to collect data from and about you including through:
+
+  * **Direct interactions**. You may give us your Identity, Contact, Profile and Marketing and Communications Data by filling in forms on our website. This includes personal data you provide when you: 
+    * use our products or services;
+    * create an account on our website;
+    * request marketing to be sent to you;
+    * enter a competition, promotion or survey; or
+    * give us some feedback.
+  * **Automated technologies or interactions**. As you interact with our website, we may automatically collect Technical and Usage Data about your equipment, browsing actions and patterns. We collect this personal data by using cookies, server logs and other similar technologies. We may also receive Technical Data about you if you visit other websites employing our cookies. Please see our [cookie policy](https://www.thestudentroom.co.uk/faq.php?faq=safety_privacy) for further details.
+  * **Third parties**. We may receive personal data about you from various third parties as set out below: 
+    * Technical Data from analytics providers, such as Google and data management platforms, such as Salesforce DMP
+    * Identity, Contact and Profile Data from Facebook or Google, when you choose to register on our site via these third parties
+
+
+
+## 4    How we use your personal data
+
+We will only use your personal data when the law allows us to. Most commonly, we will use your personal data in the following circumstances:
+
+  * Where we need to perform the contract we are about to enter into or have entered into with you.
+  * Where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests.
+  * Where we need to comply with a legal or regulatory obligation.
+
+
+
+Generally we do not rely on consent as a legal basis for processing your personal data other than in relation to sending seasonal third party direct marketing communications to you via email or text message. You have the right to withdraw consent to seasonal or other marketing at any time by contacting us.
+
+**Purposes for which we will use your personal data**
+
+We have set out below, in a table format, a description of all the ways we plan to use your personal data, and which of the legal bases we rely on to do so. We have also identified what our legitimate interests are where appropriate.
+
+Note that we may process your personal data for more than one lawful ground depending on the specific purpose for which we are using your data. Please contact us if you need details about the specific legal ground we are relying on to process your personal data where more than one ground has been set out in the table below.
+
+**Purpose/Activity** | **Type of data** | **Lawful basis for processing including basis of legitimate interest**  
+---|---|---  
+To register you as a new member | Identity, Contact, Technical, Usage, Marketing and Communications | Performance of a contract with you  
+  
+To manage our relationship with you which will include:
+
+\- Notifying you about changes to our terms or privacy policy
+
+\- Password changes and notifications
+
+| Identity, Contact, Technical, Profile, Usage, Marketing and Communications  | 
+
+Performance of a contract with you
+
+Necessary to comply with a legal obligation
+
+Necessary for our legitimate interests (to keep our records updated and to study how customers use our products/services)  
+To enable you to partake in a prize draw, competition or complete a survey | Identity, Contact, Profile, Usage, Marketing and Communications | 
+
+Performance of a contract with you
+
+Necessary for our legitimate interests (to study how customers use our products/services, to develop them and grow our business)  
+To administer and protect our business and this website (including troubleshooting, data analysis, testing, system maintenance, support, reporting and hosting of data) | Identity, Contact, Technical | 
+
+Necessary for our legitimate interests (for running our business, provision of administration and IT services, network security, to prevent fraud and in the context of a business reorganisation or group restructuring exercise)
+
+Necessary to comply with a legal obligation  
+To deliver relevant website content and advertisements and emails to you and measure or understand the effectiveness of the products advertising we serve to you | Identity, Contact, Technical, Profile, Usage, Marketing and Communications | Necessary for our legitimate interests (to study how customers use our products/services, to develop them, to grow our business and to inform our marketing strategy)  
+To use data analytics to improve our website, products/ services, marketing, customer relationships and experiences | Identity, Technical, Profile, Usage  | Necessary for our legitimate interests (to define types of customers for our products and services, to keep our website updated and relevant, to develop our business and to inform our marketing strategy)  
+Personalisation of our site and email experience with TSR | Identity, Contact, Technical, Profile, Usage, Marketing and Communications | Necessary for our legitimate interests (to develop our products/services and grow our business)  
+To deliver seasonal specific email and SMS products to you | Identity, Contact, Marketing and Communications | We will always gain consent for non-regular/seasonal products that we may from time to time wish to deliver to you  
+Third Party use of data | Identity, Profile, Technical, Usage | We will always gain consent for use of your data by third parties  
+  
 **Marketing**
 
-Your information may also be used to send you details of those products or services that we offer that we have identified as likely to be of interest to you.
+We strive to provide you with choices regarding certain personal data uses, particularly around marketing and advertising. We have established a [marketing preference centre](https://www.thestudentroom.co.uk/profile.php?do=emailoptions) where you can view and make certain decisions about the emails you receive.
 
-If at any point you would like to opt-out of receiving communications from us, or would like to change the channels (such as email or post) that we use to contact you, please go to your email preferences page.
+**Promotional offers from us**
 
-**Disclosures**
+We may use your Identity, Contact, Technical, Usage and Profile Data to form a view on what we think you may want or need, or what may be of interest to you. This is how we decide which products, services and offers may be relevant for you (we call this marketing).
 
-We may share your personal information with any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006. We may also share your personal information with selected third parties including:
+You will receive marketing communications from us if you have provided us with your details when you registered and you have not opted out of receiving that marketing.
 
-  * business partners, suppliers and sub-contractors for the performance of any contract we enter into with them or you;advertisers and advertising networks that require the data to select and serve relevant adverts to you and others;
-  * analytics and search engine providers that assist us in the improvement and optimisation of our site;
-  * data when obliged to disclose such data by law, or the disclosure is 'necessary' for purposes of national security, taxation and criminal investigation;
-  * when you chose to register using the online payment method (i.e. debit or credit card) our payment processor, PayPal in order for them to safely and securely process the payment information (please contact PayPal via [http://www.paypal.co.uk/uk](https://www.paypal.co.uk/uk) for information on their Privacy statement and security measures);
-  * when you elect to submit work on TSRG site to gain access to the database, such work will also be submitted along with your name to plagiarism detection software;
-  * or we have your consent.
+**Third-party marketing**
 
+We will get your express opt-in consent before we share your personal data with any company outside the TSR group of companies for marketing purposes.
 
+**Opting out**
 
-**Other websites**
+You can ask us or third parties to stop sending you marketing messages at any time by logging into the website and checking or unchecking relevant boxes to adjust your [marketing preferences](https://www.thestudentroom.co.uk/profile.php?do=emailoptions) or by following the opt-out links on any marketing message sent to you or by contacting us at any time.
 
-TSRG site may contain links to other websites that are outside our control and are not covered by this Privacy Policy. If you access other sites using the links provided, the operators of these sites may collect information from you that will be used by them in accordance with their privacy policy, which may differ from ours. We are not responsible for the privacy or security practice or the content of such websites.
+Where you opt out of receiving these marketing messages, this will not apply to personal data provided to us for the purposes of managing your account with us, such as password reset emails.
 
-**Internet-based transfers**
+**Cookies**
 
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to the TSRG site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly. For more information about the cookies we use, please see our [cookie policy.](https://www.thestudentroom.co.uk/faq.php?faq=safety_privacy)
 
-Given that the Internet is a global environment, using it to collect and process personal data necessarily involves the transmission of data on an international basis. This means for instance that data you pass to us may be transferred to and processed outside the European Economic Area (EEA). It may also be processed by staff operating outside the EEA who work for us or one of our suppliers. Such staff may be engaged in, amongst other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this policy. By communicating electronically with us, you acknowledge and agree to our processing of personal data in this way.
+**Change of purpose**
 
-**Privacy Settings**
+We will only use your personal data for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If you wish to get an explanation as to how the processing for the new purpose is compatible with the original purpose, please contact us.
 
-Privacy settings on [thestudentroom.co.uk](https://www.thestudentroom.co.uk/) (TSR) enable you to customise the amount of personal information that you display to other members. These are vital for keeping you safe to enjoy TSR to the full, and The Student Room Group Ltd (“we”) want to make it as easy as possible for you to use the site without worrying. You can set your privacy settings to allow the following levels of access: Everyone; Registered Members; Contacts; or Friends only.
+If we need to use your personal data for an unrelated purpose, we will notify you and we will explain the legal basis which allows us to do so.
 
-The sorts of information that would be covered by your privacy settings are:
+Please note that we may process your personal data without your knowledge or consent, in compliance with the above rules, where this is required or permitted by law.
 
-  * Contact Information
-  * Profile information, such as your 'About Me' section
-  * Profile Pictures
-  * Photo Albums
-  * Friend lists
-  * Visitor Messages
-  * Group memberships
+## 5    Disclosures of your personal data
+
+We may have to share your personal data with the parties set out below for the purposes set out in the table in paragraph 4 above.
+
+  * External third parties as set out in the _Glossary_
+  * Third parties to whom we may choose to sell, transfer, or merge parts of our business or our assets. Alternatively, we may seek to acquire other businesses or merge with them. If a change happens to our business, then the new owners may use your personal data in the same way as set out in this privacy notice.
 
 
 
-To edit your privacy settings, [click here](https://www.thestudentroom.co.uk/profile.php?do=privacy).
+We require all third parties to respect the security of your personal data and to treat it in accordance with the law. We do not allow our third-party service providers to use your personal data for their own purposes and only permit them to process your personal data for specified purposes and in accordance with our instructions.
 
-**Use of cookies**
+## 6    International transfers
 
-A cookie is a small piece of information sent by a web server to a web browser, which enables the server to collect information from the browser. Find out more about cookies on [www.youronlinechoices.com](http://www.youronlinechoices.com/) and control cookies on your browser.
+We do not transfer your personal data outside the European Economic Area ("EEA").
 
-We use cookies to anonymously track people’s visits to this website and to keep track of people’s browsing patterns across the site, and to build up a demographic profile. This is used for improving the site and is always anonymous, aggregated data.
+## 7    Data security
 
-Our use of cookies also allows registered users to be presented with a personalised version of the site, carry out transactions and have access to information about their account. For more information please read our cookie policy.
+We have put in place appropriate security measures to prevent your personal data from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed. In addition, we limit access to your personal data to those employees, agents, contractors and other third parties who have a business need to know. They will only process your personal data on our instructions and they are subject to a duty of confidentiality.
 
-Most browsers will allow you to turn off cookies. If you want to know how to do this please look at the menu on your browser, or look at the instruction on [www.youronlinechoices.com](http://www.youronlinechoices.com/). Please note however that turning off cookies will restrict your use of our website (for example, you will not be able to login).
+We have put in place procedures to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach where we are legally required to do so.
 
-We use the following cookies on our site:
+## 8    Data retention
 
-|  **Cookie**|  **Used for**|  **How long this data is kept for**|  **Who owns this data**|  **Is this a 1st party or a 3rd party cookie?**  
----|---|---|---|---  
-Internal TSR| Better site service, in particular for when you are a logged in member, including: keeping you logged in, showing you new posts since your last session, remembering side bar options and other settings.| 1 year| TSR| 1st party  
-Internal Optimizely| We use a tool to test new settings and services on TSR, this allows us to split audiences into different groups and show them different things on the site to test which works best.| 10 years| TSR| 1st party  
-Google Analytics| We use Google Analytics to track user activity anonymously, this lets us see how many people visit certain pages across the site and other grouped site usage.| Per session| Google| 3rd party  
-Twitter| Standard uses to allow you to share pages from TSR on Twitter using the Tweet button.| Between 1.5 – 20 years| Twitter| 3rd party  
-Facebook| Standard uses to allow you to share pages from TSR on Facebook using the share button.| Between 1 month – 2 years| Facebook| 3rd party  
-Quantcast| Personalising the adverts shown to you.| Up to 5 years| Quantcast| 3rd party  
-TSR Group Beyond the Click| Advertising user tracking for TSR to personalise the ads shown to you.| Up to 5 years| TSR| 1st party  
-Skim links| For links from TSR to affiliate websites that sell products – TSR receives a small percentage of products bought after clicking a link from our site.| 10 years| Skimlinks| 3rd party  
-Switch Concepts| Advertising, user tracking to help us personalise ads shown to you.| 30 days| Switch Concepts| 3rd party  
-  
-**Amendments**
+**How long will you use my personal data for?**
 
-Please note that this privacy policy is subject to change from time to time. Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by email. Please check back frequently to see any updates or changes to our privacy policy. 
+We will only retain your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.
 
-**Access to Information**
+To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements.
 
-The Data Protection Act 1998 gives you the right to access information held about you. Your rights to access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you. If any of the information we hold about you is incorrect, please let us know and we will review it. We may also update the information we hold if we believe that it is incorrect. 
+In some circumstances you can ask us to delete your data: see _Your legal rights_  below for further information.
 
-**Security**
+In some circumstances we may anonymise your personal data (so that it can no longer be associated with you) for research or statistical purposes in which case we may use this information indefinitely without further notice to you.
 
-TSRG has security measures in place to protect the loss, misuse and alteration of information within its control. We strongly recommend that all users should take steps to keep their log in information secure and cannot be held responsible for any failure to do so. If you suspect that the security of your log in information has been breached, please take steps to change both your password and email address under the options available in My Account. 
+## 9    Your legal rights
+
+Under certain circumstances, you have rights under data protection laws in relation to your personal data. Please see at the end of this document to find out more about these rights:
+
+  * Request access to your personal data.
+  * Request correction of your personal data.
+  * Request erasure of your personal data.
+  * Object to processing of your personal data.
+  * Request restriction of processing your personal data.
+  * Request transfer of your personal data.
+  * Right to withdraw consent.
+
+
+
+If you wish to exercise any of the rights set out above, please contact us.
+
+**No fee usually required**
+
+You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. Alternatively, we may refuse to comply with your request in these circumstances.
+
+**What we may need from you**
+
+We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.
+
+**Time limit to respond**
+
+We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated.
+
+## 10    Glossary
+
+**Lawful bases**
+
+Legitimate Interest means the interest of our business in conducting and managing our business to enable us to give you the best service/product and the best and most secure experience. We make sure we consider and balance any potential impact on you (both positive and negative) and your rights before we process your personal data for our legitimate interests. We do not use your personal data for activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted to by law). You can obtain further information about how we assess our legitimate interests against any potential impact on you in respect of specific activities by contacting us.
+
+Performance of Contract means processing your data where it is necessary for the performance of a contract to which you are a party or to take steps at your request before entering into such a contract.
+
+Comply with a legal or regulatory obligation means processing your personal data where it is necessary for compliance with a legal or regulatory obligation that we are subject to.
+
+**Third parties**
+
+**External third parties acting as data processors**
+
+  * **Email service providers** \- Salesforce Marketing Cloud, dotMailer – they send the emails from us to you – both marketing emails and those helping you manage your account and notifications.
+  * **SMS service provider** – Text Marketing – if you’ve opted in for SMS messages, this is the service we use to send them.
+  * **Survey and quiz tools** – SurveyMonkey, GetFeedBack – we use these to enable you to partake in surveys and quizzes and help us gather feedback.
+  * **Data analysis service providers** – Google Analytics, Salesforce DMP – we use these to collect data on site visitors and pageviews to understand our audience and improve our websites and the services we offer you.
+  * **Website maintenance tools** – we use to administer and protect our websites.
+  * **Hosting service providers** – GossamerThreads, Rackspace, Amazon Web services – they host our websites and data.
+  * **Ad serving providers** – DoubleClick for Publishers, DoubleClick Bid Manager, Facebook – we use these services to deliver relevant advertising to you on our sites and elsewhere and understand the effectiveness of the adverts.
+  * **Personalisation tool** – Dynamic Yield – we use this service to personalise your experience on our sites and in emails to ensure it is as relevant as possible for you.
+  * **Geo-identification service** – MaxMind – we use this to find out your approximate location, based on your IP address, so we can deliver more relevant ads, content and emails to you.
+  * **Professional advisers** \- including lawyers, bankers, auditors and insurers who provide consultancy, legal, insurance and accounting services. Based in the United Kingdom.
+  * **HM Revenue & Customs, regulators and other authorities **\- who require reporting of processing activities in certain circumstances. Based in the United Kingdom.
+
+
+
+**Your legal rights**
+
+You have the right to:
+
+  * **Request access to your personal data** (commonly known as a "data subject access request"). This enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it.
+  * **Request correction of the personal data** that we hold about you. This enables you to have any incomplete or inaccurate data we hold about you corrected, though we may need to verify the accuracy of the new data you provide to us.
+  * **Request erasure of your personal data**. This enables you to ask us to delete or remove personal data where there is no good reason for us continuing to process it. You also have the right to ask us to delete or remove your personal data where you have successfully exercised your right to object to processing (see below), where we may have processed your information unlawfully or where we are required to erase your personal data to comply with local law. Note, however, that we may not always be able to comply with your request of erasure for specific legal reasons which will be notified to you, if applicable, at the time of your request.
+  * **Object to processing of your personal data** where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this ground as you feel it impacts on your fundamental rights and freedoms. You also have the right to object where we are processing your personal data for direct marketing purposes. In some cases, we may demonstrate that we have compelling legitimate grounds to process your information which override your rights and freedoms.
+  * **Request restriction of processing of your personal data**. This enables you to ask us to suspend the processing of your personal data in the following scenarios: (a) if you want us to establish the data’s accuracy; (b) where our use of the data is unlawful but you do not want us to erase it; (c) where you need us to hold the data even if we no longer require it as you need it to establish, exercise or defend legal claims; or (d) you have objected to our use of your data but we need to verify whether we have overriding legitimate grounds to use it.
+  * **Request the transfer of your personal data** to you or to a third party. We will provide to you, or a third party you have chosen, your personal data in a structured, commonly used, machine-readable format. Note that this right only applies to automated information which you initially provided consent for us to use or where we used the information to perform a contract with you.
+  * **Withdraw consent at any time** where we are relying on consent to process your personal data. However, this will not affect the lawfulness of any processing carried out before you withdraw your consent. If you withdraw your consent, we may not be able to provide certain products or services to you. We will advise you if this is the case at the time you withdraw your consent.
+
+
+
+* * *
