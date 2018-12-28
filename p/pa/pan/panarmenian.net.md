@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panarmenian.net privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628164415id_/http%3A//panarmenian.net/eng/panmedia/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panarmenian.net privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228164635id_/http%3A//www.panarmenian.net/eng/panmedia/privacy) for the most accurate reproduction.*
 
 # Armenian News - PanARMENIAN.Net
 
