@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yourlifeafter25.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628052900id_/http%3A//yourlifeafter25.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourlifeafter25.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228144823id_/http%3A//yourlifeafter25.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Your Life After 25: Privacy Policy
 
 YourLifeAfter25.com (“Website”) is governed by the following Privacy Policy. 
 
