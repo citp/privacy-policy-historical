@@ -1,188 +1,136 @@
-> *The following text is extracted and transformed from the gallerycarre.biz privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630224848id_/https%3A//www.google.com/intl/en/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gallerycarre.biz privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228073543id_/https%3A//www.hegre.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy – Privacy & Terms – Google
+# Privacy - Hegre.com
 
-[Download PDF version](https://www.google.com/intl/en/policies/privacy/google_privacy_policy_en.pdf)
+Your privacy is important to us and a particularly high priority for the management of Hegre.com. We're committed to respecting your privacy and managing your personal information in a responsible manner.
 
-There are many different ways you can use our services – to search for and share information, to communicate with other people or to create new content. When you share information with us, for example by creating a [Google Account](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-account), we can make those services even better – to show you [more relevant search results](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/example/more-relevant-search-results.html) and ads, to help you [connect with people](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/example/connect-with-people.html) or to make [sharing with others quicker and easier](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/example/sharing-with-others.html). As you use our services, we want you to be clear how we’re using information and the ways in which you can protect your privacy. 
+Our privacy policy explains the personal information we collect and how we use this information. It also explains your rights to access, update or otherwise take control of the personal information we hold about you.
 
-Our Privacy Policy explains: 
+This policy was last updated on 25th May 2018 to reflect changes in European Union data protection laws. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-  * What information we collect and why we collect it. 
-  * How we use that information. 
-  * The choices we offer, including how to access and update information.
+Processing of personal data, including your name, address and email address will always be in line with the General Data Protection Regulation (GDPR), and in accordance with other data protection regulations applicable to Hegre.com
 
+## Hegre.com privacy principles:
 
+Our Privacy Policy is fueled by our commitment to the following Privacy Principles:
 
-We’ve tried to keep it as simple as possible, but if you’re not familiar with terms like cookies, IP addresses, pixel tags and browsers, then read about these [key terms](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/key-terms/) first. Your privacy matters to Google so whether you are new to Google or a long-time user, please do take the time to get to know our practices – and if you have any questions [consult this page](http://support.google.com/policies/troubleshooter/2990837?hl=en&rd=2). 
+1\. We’re deeply committed to creating a safe and secure online environment for you.  
+2\. We do not sell or lease your personal information to third parties.  
+3\. We strive to provide you with access to and control over the information you give us, and we take the protection of your information very seriously.  
+4\. We do not display advertising for other services or goods than our own on Hegre.com.  
 
-## Information we collect
 
-We collect information to provide better services to all of our users – from figuring out basic stuff like which language you speak, to more complex things like which [ads you’ll find most useful](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/example/ads-youll-find-most-useful.html) or [the people who matter most to you online](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/example/the-people-who-matter-most.html). 
+## Data security:
 
-We collect information in two ways: 
+We take appropriate security measures (including physical, electronic and procedural measures) to help safeguard your personal information from unauthorized access and disclosure. For example, only authorized employees are permitted to access personal information, and they may do so only for permitted business functions. In addition, we use encryption in the transmission of your sensitive personal information between your system and ours, and we use firewalls to help prevent unauthorized persons from gaining access to your personal information.
 
-  * **Information you give us.** For example, many of our services require you to sign up for a Google Account. When you do, we’ll ask for [personal information](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-personal-info), like your name, email address, telephone number or [credit card](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/example/credit-card.html). If you want to take full advantage of the sharing features we offer, we might also ask you to create a publicly visible [Google Profile](http://support.google.com/accounts/bin/answer.py?hl=en&answer=112783), which may include your name and photo. 
+However, as effective as these measures are, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that the information you supply will not be intercepted while being transmitted to us over the Internet. The personal information we hold is stored on secure servers in secure facilities within the European Union and the USA.
 
-  * **Information we get from your use of our services.** We may [collect information](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/example/collect-information.html) about the services that you use and how you use them, like when you visit a website that uses our advertising services or you [view and interact with our ads](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/example/view-and-interact-with-our-ads.html) and content. This information includes: 
+The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our website, you are responsible for keeping this password confidential and unique. We ask you not to share your password with anyone. We urge you to be careful about giving out any information in public areas of the website. The information you share in public areas may be viewed by any user of the website.
 
-    * **[Device information](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-device)**
+## The information we collect:
 
-We may collect [device-specific information](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/example/device-specific-information.html) (such as your hardware model, operating system version, [unique device identifiers](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-unique-device-id), and mobile network information including phone number). Google may associate your [device identifiers](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/example/device-identifiers.html) or [phone number](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/example/phone-number.html) with your Google Account. 
+We collect certain personal information in order to supply our services to you. On some pages, you can purchase a membership to Hegre.com, make requests or register to receive materials/online newsletters or be part of a promotion or contest etc. This kind of information is the first type of personal information collected and are typical name, age, email address, gender etc and are only information you choose to provide to us. We also record copies of your correspondence (including e-mail address), if you contact us. We use CCbill and Epoch's third-party credit card processing services, who also will obtain additional information typed by you in the case of you deciding to buy a membership subscription on our website.
 
-    * **Log information**
+The second type of personal information we collect is recorded automatically, through the use of cookies, pixel tags and other similar technologies. This information includes the link that directed you to our webpage, your IP address and geographical location, the types of device, operating system and web browser you are using and the date and time of your visit. The "Cookies" section of this policy explains more about how we use these technologies.
 
-When you use our services or view content provided by Google, we may automatically collect and store certain information in [server logs](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-server-logs). This may include: 
+We do not collect personal information that is recognized as sensitive, such as information concerning health, ethnicity or political opinions and do not knowingly collect the personal information of any person under the age of 18. If we discover, or have reason to believe, we are holding sensitive personal information we will delete that information within a reasonable period.
 
-      * details of how you used our service, such as your search queries. 
-      * telephony log information like your phone number, calling-party number, forwarding numbers, time and date of calls, duration of calls, SMS routing information and types of calls. 
-      * [Internet protocol address](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-ip). 
-      * device event information such as crashes, system activity, hardware settings, browser type, browser language, the date and time of your request and referral URL. 
-      * cookies that may uniquely identify your browser or your Google Account.
-    * **Location information**
+You also may provide information to be published or displayed (hereinafter, “posted”) on public areas of the website or transmitted to other users of the website or third parties (collectively, “User Contributions”). Your User Contributions are posted on and transmitted to others at your own risk. Although, we may limit access to certain pages, please be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of other users of the Website with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed or used by unauthorized persons.
 
-When you use a location-enabled Google service, we [may collect and process information about your actual location](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/example/may-collect-and-process-information.html), like GPS signals sent by a mobile device. We may also use various technologies to determine location, such as sensor data from your device that may, for example, provide information on nearby Wi-Fi access points and cell towers. 
+## Service providers:
 
-    * **Unique application numbers**
+We may share information with vendors providing contractual services to us, such as hosting vendors. We also may share your information, including your payment information, as appropriate to process your payments for the services or complete a transaction.
 
-Certain services include a unique application number. This number and information about your installation (for example, the operating system type and application version number) may be sent to Google when you install or uninstall that service or when that service periodically contacts our servers, such as for automatic updates. 
+## Credit card info:
 
-    * **Local storage**
+NOTE! The credit card info that you submit on the signup forms are submitted direct to the credit card companies and are not stored on our servers for security reasons. The signup pages are secure and encrypted.
 
-We may collect and store information (including personal information) locally on your device using mechanisms such as [browser web storage](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-browser-web-storage) (including HTML 5) and [application data caches](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-application-data-cache). 
+## Site operations and analytics:
 
-    * **Cookies and anonymous identifiers**
+We use the following third-party partners to enable features that are necessary for providing you the services on our site and to allow us to understand how our services are being used, track site performance, and improve our services. To learn more about your rights with respect to these partners, including any opt-out rights, you can review their respective privacy policies.
 
-We and our partners use various technologies to collect and store information when you visit a Google service, and this may include sending one or more [cookies](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-cookie) or [anonymous identifiers](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-identifier) to your device. We also use cookies and anonymous identifiers when you interact with services we offer to our partners, such as [advertising services](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/example/advertising-services.html) or Google features that may appear on other sites.
+Google Analytics <https://policies.google.com/privacy?hl=en>  
+Amazon Web Services <https://aws.amazon.com/compliance/gdpr-center/>  
+CCbill <https://www.ccbill.com/cs/policies/PP-consumer-english.html>  
+Epoch <https://epoch.com/privacy.html>
 
+## Affiliates:
 
+We do not share your information with our affiliates.
 
+## Cookies:
 
-## How we use information we collect
+When you visit the Hegre.com website, we send one or more cookies to your computer or other browsing device. We use cookies to improve the quality of your experience, for storing your site preferences, improving search results and tracking user trends, such as how people surf the site. We also use cookies to determine if the user is logged in as a member or not. These cookies do not contain any private information and can not be traced back to you as a user in any way.
 
-We use the information we collect from all of our services to provide, maintain, protect and improve them, to [develop new ones](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/example/develop-new-ones.html), and to [protect Google and our users](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/example/protect-google-and-our-users.html). We also use this information to offer you tailored content – like giving you more relevant search results and ads. 
+## Local storage & other tracking technologies:
 
-We may use the name you provide for your Google Profile across all of the services we offer that require a Google Account. In addition, we may replace past names associated with your Google Account so that you are represented consistently across all our services. If other users already have your email, or other information that identifies you, we may show them your publicly visible Google Profile information, such as your name and photo. 
+We, along with third parties, may use other kinds of technologies, such as Local Shared Objects (also referred to as “Flash cookies”) and HTML5 local storage, in connection with our Services. These technologies are similar to the cookies discussed above in that they are stored on your device and can be used to store certain information about your activities and preferences. However, these technologies may make use of different parts of your device from standard cookies, and so you might not be able to control them using standard browser tools and settings. For HTML5 local storage, the method for disabling HTML5 will vary depending on your browser. For Flash cookies, information about disabling or deleting information contained in Flash cookies can be found here: <https://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html>
 
-When you contact Google, we may keep a record of your communication to help solve any issues you might be facing. We may use your email address to inform you about our services, such as letting you know about upcoming changes or improvements. 
+## The way we use information:
 
-We use information collected from cookies and other technologies, like [pixel tags](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-pixel), to [improve your user experience](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/example/improve-your-user-experience.html) and the overall quality of our services. For example, by saving your language preferences, we’ll be able to have our services appear in the language you prefer. When showing you tailored ads, we will not associate a cookie or anonymous identifier with [sensitive categories](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-sensitive-categories), such as those based on race, religion, sexual orientation or health. 
+The information collected by Hegre.com is used solely for the creation and maintenance of your membership account or subscription to our mailinglists. WE DO NOT sell, loan, lease, swap, trade or otherwise disclose your personal data or email address. The information collected by CCBill and Epoch are only used by us for the purpose of processing payment of your membership to Hegre.com and documentation for accounting and tax purposes.
 
-We may [combine personal information from one service with information, including personal information, from other Google services](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/example/combine-personal-information.html) – for example . We will not combine DoubleClick cookie information with personally identifiable information unless we have your opt-in consent. 
+We may also use your personal information to send you emails with selected offers, which we feel may be of interest to you. If you decide you no longer want to receive these emails, you can opt out at any time by clicking the "unsubscribe" link available in all these messages. Please note that it may take up to 48 hours for your opt-out to take effect and bear in mind that if you enquire about new products and services you may be opting back in to receive emails from us.
 
-We will ask for your consent before using information for a purpose other than those that are set out in this Privacy Policy. 
+We'll also use your personal information to respond to any comments, requests or questions you may send us or to send you important messages we feel you should be made aware of, such as a significant change to this policy. We may also use your personal information to compile statistics of our marketing campaigns, in order to give us a better understanding of their performance and help us operate and improve our services. We may also share personal information with companies under the same ownership as us.
 
-Google processes personal information on our servers in many countries around the world. We may process your personal information on a server located outside the country where you live. 
+In general, we use information that we collect about you or that you provide to us, including any personal information: 
 
-## Transparency and choice
+  * to present our Website and its contents to you;
+  * to provide you with information, products or services that you request from us;
+  * to manage your account and provide you with customer support;
+  * to provide you with notices about your account or subscription, including expiration and renewal notices;
+  * to notify you about changes to our website or any products or services we offer or provide through it;
+  * to allow you to participate in interactive features on our website;
+  * to perform research and analysis about your use of, or interest in, our products, services, or content, or products, services or content offered by others;
+  * to determine whether users of the website are unique, or whether the same user is using the Website on multiple occasions;
+  * to track usage throughout various components of the website (e.g., tracking where traffic comes from, how traffic flows within the website, etc.)
+  * to monitor aggregate metrics such as total number of visitors, pages viewed, demographic patterns, etc.
+  * to communicate with you about products or services that may be of interest to you from us;
+  * to develop and display our website content tailored to your interests;
+  * to verify your eligibility and deliver prizes in connection with contests and sweepstakes;
+  * diagnose or fix technology problems;
+  * to enforce our terms and conditions;
+  * to manage our business;
+  * in any other way we may describe when you provide the information; 
+  * for any other purpose with your consent.
 
-People have different privacy concerns. Our goal is to be clear about what information we collect, so that you can make meaningful choices about how it is used. For example, you can: 
 
-  * [Review and control](https://www.google.com/dashboard/?hl=en) certain types of information tied to your Google Account by using Google Dashboard. 
-  * [View and edit](https://www.google.com/settings/ads/preferences?hl=en) your preferences about the ads shown to you on Google and across the web, such as which categories might interest you, using Ads Settings. You can also opt out of certain Google advertising services here. 
-  * [Use our editor](http://support.google.com/accounts/bin/answer.py?hl=en&answer=112783) to see and adjust how your Google Profile appears to particular individuals. 
-  * [Control](http://support.google.com/plus/bin/static.py?hl=en&page=guide.cs&guide=1257347) who you share information with. 
-  * [Take information](http://www.dataliberation.org/) out of many of our services.
 
+## Transfers of personal information abroad
 
+In order to deliver our services to you, we sometimes need to share your personal information with parties outside the European Economic Area (EEA). We'll always ensure that any transfers of this nature are fully compliant with European Union data protection laws governing transfers of personal information outside the EEA, so that your personal information is secure.
 
-You may also set your browser to block all cookies, including cookies associated with our services, or to indicate when a cookie is being set by us. However, it’s important to remember that many of our services [may not function properly](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/example/may-not-function-properly.html) if your cookies are disabled. For example, we may not remember your language preferences. 
+Some countries outside the EEA have been recognized by The European Union as having appropriate laws and safeguards protecting personal data, known as Adequate Jurisdictions, so that personal information may be freely transferred to them. The current list of these countries is Andorra, Argentina, Canada (commercial organisations), Faroe Islands, Guernsey, Israel, Isle of Man, Jersey, New Zealand, Switzerland, Uruguay and the USA (limited to the privacy shield framework). Personal information may also be transferred to countries not recognized as Adequate Jurisdictions, provided we inform you of the absence of appropriate safeguards to personal data in that country and you give your explicit consent to the proposed transfer. If we need to transfer your personal information to one of these countries, we will inform you in a clear, concise and transparent manner and will only make the transfer when you have given us explicit consent to do so.
 
-## Information you share
+## Other parties in connection with a corporate transaction:
 
-Many of our services let you share information with others. Remember that when you share information publicly, it may be indexable by search engines, including Google. Our services provide you with different options on [sharing](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/example/sharing.html) and [removing your content](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/example/removing-your-content.html). 
+We reserve the right to transfer any information we have about you in the event that we sell or transfer all or a portion of our business or assets to a third party, such as in the event of a merger, acquisition, or in connection with a bankruptcy reorganization.
 
-## Accessing and updating your personal information
+## With your consent or at your direction:
 
-Whenever you use our services, we aim to provide you with [access to your personal information](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/example/access-to-your-personal-information.html). If that information is wrong, we strive to give you ways to update it quickly or to delete it – unless we have to keep that information for legitimate business or legal purposes. When updating your personal information, we may ask you to verify your identity before we can act on your request. 
+In addition to the sharing described in this Privacy Policy, we may share information about you with third parties whenever you consent to or direct such sharing.
 
-We may reject requests that are unreasonably repetitive, require disproportionate technical effort (for example, developing a new system or fundamentally changing an existing practice), risk the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup systems). 
+We also may share other information with third parties in a manner that does not identify particular users, including, for example, aggregated data about how users are using our Services.
 
-Where we can provide information access and correction, we will do so for free, except where it would require a disproportionate effort. We aim to maintain our services in a manner that protects information from accidental or malicious destruction. Because of this, after you delete information from our services, we may not immediately delete residual copies from our active servers and may not remove information from our backup systems. 
+## Changes to our privacy policy
 
-## Information we share
+We may modify or revise our privacy policy from time to time in our sole discretion and you agree to be bound by such modifications or revisions. Although we may attempt to notify you when major changes are made to this privacy policy, you are expected to periodically review the most up-to-date version found at <http://www.hegre.com/privacy> so you are aware of any changes, as they are binding on you.
 
-We do not share personal information with companies, organizations and individuals outside of Google unless one of the following circumstances applies: 
+If we change anything in our privacy policy, the date of change will be reflected in the “last updated date”. You agree that you will periodically review this privacy policy and refresh the page when doing so. You agree to note the date of the last revision to our privacy policy. If the “last updated” date is unchanged from the last time you reviewed our privacy policy, then it is unchanged. On the other hand, if the date has changed, then there have been changes, and you agree to re-review our privacy policy, and you agree to the new ones.
 
-  * **With your consent**
+All changes are effective immediately when we post them and apply to all access to and use of the website thereafter. The updated version of our privacy policy supersedes any prior versions immediately upon being posted, and the prior version(s) shall have no continuing legal effect. If you do not review new terms as posted, then you agree that you have waived your right to do so, and you are therefore bound by the updated conditions, even if you failed to review the new ones. You are on notice of changes, and your failure to review the amended terms is your own omission. By continuing to use the website subsequent to us making available an amended version of our privacy policy, you thereby acknowledge, agree to and consent to such amendment.
 
-We will share personal information with companies, organizations or individuals outside of Google when we have your consent to do so. We require opt-in consent for the sharing of any [sensitive personal information](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-sensitive-info). 
+## How you can access or correct your information:
 
-  * **With domain administrators**
+You can access and update all your personally identifiable information that hegre.com collects and maintains online by logging on to the "My Account" page on our site at: <http://www.hegre.com/profile>  
+If you are unable to do so, you are most welcome to contact us via email on gdpr@hegre.com and we will help you.
 
-If your Google Account is managed for you by a [domain administrator](http://support.google.com/a/bin/answer.py?hl=en&answer=178897) (for example, for Google Apps users) then your domain administrator and resellers who provide user support to your organization will have access to your Google Account information (including your email and other data). Your domain administrator may be able to: 
+If you are not a member but subscribe to our free online newsletters you can click the unsubscribe link at the bottom of all newsletters we send out to manage your newsletter settings. We use this procedure to better safeguard your information.
 
-    * view statistics regarding your account, like statistics regarding applications you install. 
-    * change your account password. 
-    * suspend or terminate your account access. 
-    * access or retain information stored as part of your account. 
-    * receive your account information in order to satisfy applicable law, regulation, [legal process or enforceable governmental request](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/example/legal-process.html). 
-    * restrict your ability to delete or edit information or privacy settings.
+If you would like to access/update your personal information stored by our third party credit card processors, you may contact them at any time on: [https://support.ccbill.com](https://support.ccbill.com/) or <https://epoch.com/find_purchase>
 
-Please refer to your domain administrator’s privacy policy for more information. 
+## How to contact us:
 
-  * **For external processing**
-
-We provide personal information to our [affiliates](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-affiliates) or other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures. 
-
-  * **For legal reasons**
-
-We will share personal information with companies, organizations or individuals outside of Google if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to: 
-
-    * meet any applicable law, regulation, legal process or enforceable governmental request. 
-    * enforce applicable Terms of Service, including investigation of potential violations. 
-    * detect, prevent, or otherwise address fraud, security or technical issues. 
-    * protect against harm to the rights, property or safety of Google, our users or the public as required or permitted by law.
-
-
-
-, [non-personally identifiable information](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-info) publicly and with our partners – like publishers, advertisers or connected sites. For example, we may share information publicly [to show trends](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/example/to-show-trends.html) about the general use of our services. 
-
-If Google is involved in a merger, acquisition or asset sale, we will continue to ensure the confidentiality of any personal information and give affected users notice before personal information is transferred or becomes subject to a different privacy policy. 
-
-## Information security
-
-We work hard to protect Google and our users from unauthorized access to or unauthorized alteration, disclosure or destruction of information we hold. In particular: 
-
-  * We encrypt many of our services [using SSL](http://support.google.com/websearch/bin/answer.py?answer=173733&en). 
-  * We offer you [two step verification](https://www.google.com/intl/en/landing/2step/) when you access your Google Account, and a [Safe Browsing feature](http://www.google.com/chrome/intl/en/more/security.html) in Google Chrome. 
-  * We review our information collection, storage and processing practices, including physical security measures, to guard against unauthorized access to systems. 
-  * We restrict access to personal information to Google employees, contractors and agents who need to know that information in order to process it for us, and who are subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations.
-
-
-
-## When this Privacy Policy applies
-
-Our Privacy Policy applies to all of the services offered by Google Inc. and its affiliates, including services offered on other sites (such as our advertising services), but excludes services that have separate privacy policies that do not incorporate this Privacy Policy. 
-
-Our Privacy Policy does not apply to services offered by other companies or individuals, including products or sites that may be displayed to you in search results, sites that may include Google services, or other sites linked from our services. Our Privacy Policy does not cover the information practices of other companies and organizations who advertise our services, and who may use cookies, pixel tags and other technologies to serve and offer relevant ads. 
-
-## Compliance and cooperation with regulatory authorities
-
-We regularly review our compliance with our Privacy Policy. We also adhere to several [self regulatory frameworks](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/frameworks/). When we receive formal written complaints, we will contact the person who made the complaint to follow up. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that we cannot resolve with our users directly. 
-
-## Changes
-
-Our Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of privacy policy changes). We will also keep prior versions of this Privacy Policy in an archive for your review. 
-
-## Specific product practices
-
-The following notices explain specific privacy practices with respect to certain Google products and services that you may use: 
-
-  * [Chrome and Chrome OS](http://www.google.com/chrome/intl/en/privacy.html)
-  * [Books](http://books.google.com/intl/en/googlebooks/privacy.html)
-  * [Wallet](http://wallet.google.com/files/privacy.html?hl=en)
-  * [Fiber](https://fiber.google.com/legal/privacy.html)
-
-
-
-Further useful privacy and security related materials can be found through Google’s [policies and principles pages](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/), including: 
-
-  * Information about our [technologies and principles](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/technologies/), which includes, among other things, more information on 
-    * [how Google uses cookies](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/technologies/cookies/). 
-    * technologies we use for [advertising](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/technologies/ads/). 
-    * how we [recognize patterns like faces](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/technologies/pattern-recognition/).
-  * A [page](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/partners/) that explains what data is shared with Google when you visit websites that use our advertising, analytics and social products. 
-  * Google’s [safety center](https://www.google.com/intl/en/safetycenter/), which provides information on how to stay safe and secure online.
-
-
+Should you have other questions or concerns about these privacy policies or would like us to delete the information that Hegre.com store about you, please contact gdpr@hegre.com
