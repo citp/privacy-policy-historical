@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wealthsimple.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628113733id_/https%3A//www.wealthsimple.com/en-us/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wealthsimple.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228173305id_/https%3A//www.wealthsimple.com/en-us/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Wealthsimple
 
-**Effective as of December 1, 2016**
+**Effective as of July 6, 2018**
 
 We at Wealthsimple US, Ltd. (“Wealthsimple,”“we,”“us,” or “our”) have created this privacy policy (this “Privacy Policy”) because we know that you care about how information you provide to us is used and shared. This Privacy Policy relates to the information collection and use practices of Wealthsimple in connection with our Platform.
 
@@ -74,7 +74,7 @@ Additional information that you voluntarily provide to us (either directly or vi
 
 ### 4\. Plaid Technologies Inc.
 
-Wealthsimple uses Plaid Technologies, Inc. (“Plaid”) to gather your data from financial institutions. By using our service, you grant Wealthsimple and Plaid the right, power, and authority to act on your behalf to access and transmit your personal and financial information, as listed in [Wealthsimple Privacy Policy](https://www.wealthsimple.com/en-us/legal/privacy), from the relevant financial institution. You agree to your personal and financial information, as listed in [Wealthsimple Privacy Policy](https://www.wealthsimple.com/en-us/legal/privacy), being transferred, stored, and processed by Plaid in accordance with the Plaid Privacy Policy which is available at <https://plaid.com/legal/>.
+Wealthsimple uses Plaid Technologies, Inc. (“ **Plaid** ”) to gather your data from financial institutions. By using our service, you grant Wealthsimple and Plaid the right, power, and authority to act on your behalf to access and transmit your personal information as well as account information maintained by third-party financial institutions with which you have a legally-binding customer relationship (“ **Account Information** ”). This information may include account balances, transactions and holdings from the linked financial institutions. You agree to your personal and financial information, as listed in [Wealthsimple Privacy Policy](https://www.wealthsimple.com/en-us/legal/privacy) being transferred, stored, and processed by Plaid in accordance with the Plaid Privacy Policy which is available at <https://plaid.com/legal/>. By choosing to link your bank account to aggregate and analyze Account Information, you expressly authorize and direct Wealthsimple, on your behalf, to electronically retrieve Account Information.
 
 ## The Information Collected by or Through Third-Party Advertising Companies
 
