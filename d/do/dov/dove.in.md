@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the dove.in privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630032106id_/http%3A//www.unileverprivacypolicy.com/en_gb/policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dove.in privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228103652id_/http%3A//www.unileverprivacypolicy.com/en_gb/policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-##  _
+##  __
 
 #yourdataisyours
-
-_
 
 We know that you care about your personal data and how it is used, and we want you to trust that Unilever uses your personal data carefully. This Privacy Notice will help you understand what personal data we collect, why we collect it and what we do with it.
 
@@ -22,11 +20,17 @@ You have the right to object to certain uses of your personal data including the
 
 ## Who is collecting it?
 
+Any personal data provided to or collected by Unilever is controlled by both Unilever PLC and Unilever N.V., which are the joint parent companies of the Unilever Group (all Unilever Group companies, together the data controllers). This Privacy Notice applies to personal data collected by Unilever in connection with the services and products we offer. 
+
+Read More
+
 Any personal data provided to or collected by Unilever is controlled by both Unilever PLC, Port Sunlight, Wirral, Merseyside, CH62 4ZD United Kingdom, and Unilever N.V., Weena 455, PO Box 760 3000 DK Rotterdam The Netherlands, which are the joint parent companies of the Unilever Group (all Unilever Group companies, together the data controllers).
 
 This Privacy Notice applies to personal data collected by Unilever in connection with the services and products we offer. References to “Unilever” in this Notice means Unilever PLC and Unilever N.V. and any company directly or indirectly owned and/or controlled by them that you are interacting with or have a business relationship with (hereinafter, “Unilever Group”). Find out more about the Unilever Group at <https://www.unilever.com/about/>
 
 This Privacy Notice also applies to Unilever’s marketing content, including offers and advertisements for Unilever products and services, which we (or a service provider acting on our behalf) send to you on third-party websites, platforms and applications based on your site usage information. These third-party websites generally have their own Privacy Notice and Terms and Conditions. We encourage you to read them before using those websites.
+
+Read Less
 
 ## What personal data is being collected?
 
@@ -41,6 +45,8 @@ We may collect personal data from a variety of sources. This includes:
   * Personal data we collect from other sources.
 
 
+
+Read More
 
 Personal data means any information that can be used to identify directly or indirectly a specific individual. This definition includes personal data collected offline through our Consumer Engagement Centres, direct marketing campaigns, sweepstakes and competitions and online through our websites, applications and branded pages on third-party platforms and applications accessed or used through third-party platforms.
 
@@ -83,6 +89,8 @@ If you are a child under the age where parental consent is required in your Coun
 
 We sometimes use your personal data to carry out age verification checks and enforce any such age restrictions.
 
+Read Less
+
 ## What purpose do we use your data for?
 
 We collect, process and disclose your personal data only for specific and limited purposes. For example, to process your payments, to assess and handle any complaints, to develop and improve our products, services, communication methods and the functionality of our websites, to provide personalised products, communications and targeted advertising as well as product recommendations to you.
@@ -90,6 +98,8 @@ We collect, process and disclose your personal data only for specific and limite
 We also create profiles by analysing the information about your online surfing, searching and buying behaviour and your interactions with our brand communications by building segments (creating groups that have certain common characteristics) and by placing your personal data in one or more segments.
 
 Additionally, Unilever processes your personal data also using automated means. An automated decision is a decision which is made solely by automatic means, where no humans are involved in the decision-making process related to your personal data.
+
+Read More
 
 We collect, process and disclose your personal data for the following purposes:
 
@@ -155,9 +165,13 @@ You have the right not to be subject to a decision which is based solely on auto
 
 
 
+Read Less
+
 ## Who will it be shared with?
 
 As a global business, Unilever shares your personal data internally and with selected third-parties. For example, we share your personal data with third-party service providers, other third-parties, as well as in case of business transfers or legal disclosure.
+
+Read More
 
 As a global business, Unilever shares your personal data internally and with selected third-parties in the following circumstances:
 
@@ -195,15 +209,25 @@ If we do transfer personal data to outside of the EEA, Unilever will make sure t
 
 
 
+Read Less
+
 ## How do we protect your personal data?
 
 Unilever takes the security of your personal data very seriously. We take every effort to protect your personal data from misuse, interference, loss, unauthorised access, modification or disclosure.
+
+Read More
 
 Our measures include implementing appropriate access controls, investing in the latest Information Security Capabilities to protect the IT environments we leverage, and ensuring we encrypt, pseudonymise and anonymise personal data wherever possible.
 
 Access to your personal data is only permitted among our employees and agents on a need-to-know basis and subject to strict contractual confidentiality obligations when processed by third-parties.
 
+Read Less
+
 ## How long do we keep your personal data for?
+
+We will keep your personal data for as long as we need it for the purpose it is being processed for.
+
+Read More
 
 We will keep your personal data for as long as we need it for the purpose it is being processed for. For example, where you make a purchase online with us we will keep the data related to your purchase, so we can perform the specific contract you have entered and after that, we will keep the personal data for a period which enables us to handle or respond to any complaints, queries or concerns relating to the purchase.
 
@@ -213,9 +237,13 @@ We retain the identifiable data we collect directly for targeting purposes for a
 
 We will actively review the personal data we hold and delete it securely, or in some cases anonymise it, when there is no longer a legal, business or consumer need for it to be retained.
 
+Read Less
+
 ## What are your rights?
 
 Your rights in relation to your personal data how it is processed. You can exercise these rights at any point. We have provided an overview of these rights below together with what this entails for you. You can exercise your rights by sending an [email](mailto:unilever.privacy@unilever.com "unilever.privacy@unilever.com") or submitting a request through the “Contact Us” form on our websites.
+
+Read More
 
 Where we process your personal data, you have a number of rights over how the data is processed and can exercise these rights at any point. We have provided an overview of these rights below together with what this entails for you. You can exercise your rights by sending an [email](mailto:unilever.privacy@unilever.com "unilever.privacy@unilever.com") or submitting a request through the “Contact Us” form on our websites.
 
@@ -237,15 +265,25 @@ Where we process your personal data, you have a number of rights over how the da
 
 Further information and advice about your rights can be obtained from the data protection Regulator in your Country.
 
+Read Less
+
 ## How do you contact Unilever?
 
 Unilever’s nominated Chief Privacy Officer is Isabelle Deschamps who can be contacted at Unilever N.V., Weena 455, PO Box 760 3000 DK Rotterdam The Netherlands or by [email](mailto:unilever.privacy@unilever.com "unilever.privacy@unilever.com") .
+
+Read More
 
 If you have any questions or concerns about Unilever’s Privacy Notice or data processing or if you would like to make a complaint about a possible breach of local privacy laws, please do so by sending an [e-mail](mailto:unilever.privacy@unilever.com "unilever.privacy@unilever.com") or submitting a request through the “Contact Us” form on our websites.
 
 When a privacy question or access request is received we have a dedicated team which triages the contacts and seeks to address the specific concern or query which you are seeking to raise. Where your issue may be more substantive in nature, more information may be sought from you. All such substantive contacts receive a response. If you are unsatisfied with the reply received, you may refer your complaint to the relevant Supervisory Authority in your Country. If you ask us, we will endeavour to provide you with information about relevant complaint avenues which may be applicable to your circumstances.
 
+Read Less
+
 ## How do we keep this notice up to date?
+
+We will update this Privacy Notice when necessary to reflect customer feedback and changes in our products and services
+
+Read More
 
 We will update this Privacy Notice when necessary to reflect customer feedback and changes in our products and services. When we post changes to this statement, we will revise the “last updated” date at the top of this Notice. If the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Privacy Notice changes). We will also keep prior versions of this Privacy Notice in an archive for your review.
 
@@ -254,3 +292,5 @@ We will not reduce your rights under this Privacy Notice without your consent.
 ### Additional Privacy Terms or Notices
 
 In addition to this Privacy Notice, there may be specific campaigns or promotions which will be governed by additional privacy terms or notices. We encourage you to read these additional terms or notices before participating in any such campaigns or promotions as you will be required to comply with them if you participate. Any additional privacy terms or notices will be made prominently available to you.
+
+Read Less
