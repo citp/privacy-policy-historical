@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the studyinhungary.hu privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623081349id_/http%3A//www.studyinhungary.hu/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studyinhungary.hu privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228203420id_/http%3A//www.studyinhungary.hu/footer/privacy-policy.html) for the most accurate reproduction.*
 
-# Study in Hungary
+# Study in Hungary - Privacy Policy
 
 ## Privacy policy
 
@@ -11,3 +11,6 @@ The Tempus Public Foundation uses cookies from external services in order to hav
 These information will not be connected to other personal information, i.e. the users can not be identified according to these information. We use them mainly for the following aims: collection of web analytics and analysis, to see how the users use our page, and to  measure the performance of our advertisements. If someone visits our page, he or she accepts the we use cookies managed by external service(s). In the case you do not wish to keep cookies on your computer, you can cancel them anytime and you can also prohibit the use of the cookies with the help of your browser’s settings. You can have information about the settings of your connected browser at the Help of your browser. About the cookies’ policies of the data protection coming from external services you can inform at the services’ website: Google, Facebook. Regarding to the external services’ data management, the regulation for data protection provided by those services are the normative ones. The Tempus Public Foundation does not take any responsibility regarding to those data management.
 
 The Tempus Public Foundation is committed to the protection of their clients’ information. In order to avoid the unauthorized acces and the publication, to assure the accurate information and the most appropriate data management we take care with the appropriate physical, electronic and technical systems and we assure the information collected online.
+
+**In case of applicants of the Stipendium Hungaricum programme, the Privacy Policy of the programme also applies.  
+[Please click here to download it](http://studyinhungary.hu/static/upload/stipendium-hungaricum/privacy-statement-sh.pdf).**
