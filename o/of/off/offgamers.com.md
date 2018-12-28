@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the offgamers.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628101813id_/https%3A//www.offgamers.com/terms-of-service%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offgamers.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228161742id_/https%3A//www.offgamers.com/terms-of-service%23privacy) for the most accurate reproduction.*
 
 # OffGamers Online Game Store
 
@@ -220,9 +220,7 @@ The data controller shall process and store the personal data of the data subjec
 
 If the storage purpose is not applicable, or if a storage period prescribed by the European legislator or another competent legislator expires, the personal data are routinely blocked or erased in accordance with legal requirements.
 
-###### 3\. Information We Collect From You 
-
-12\. Rights of the data subject
+###### 12\. Rights of the data subject
 
   * **Right of confirmation**  
 Each data subject shall have the right granted by the European legislator to obtain from the controller the confirmation as to whether or not personal data concerning him or her are being processed. If a data subject wishes to avail himself of this right of confirmation, he or she may, at any time, contact our Data Protection Officer or another employee of the controller. 
