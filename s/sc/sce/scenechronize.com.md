@@ -1,94 +1,158 @@
-> *The following text is extracted and transformed from the scenechronize.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819170410id_/https%3A//www.scenechronize.com/sccontent/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scenechronize.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228114754id_/http%3A//www.ep.com/privacy) for the most accurate reproduction.*
 
-# scenechronize
+# Privacy Notice - Entertainment Partners
 
-**scene** chronize is a service of Clever Machine, Inc. Clever Machine is a San Francisco, CA based software company. The company was founded in December 2003. More information about Clever Machine can be found at [http://www.clevermachine.com](http://www.clevermachine.com/).
+_This Privacy Notice was updated on April 3, 2018 to include the following: (i) clarify how we collect and use information we obtain while users browse our websites; (ii) added a link to Your Online Choices, a behavioral advertising opt-out tool for users based in the European Union; and (iii) edits to improve readability and clarity._
 
-**Clever Machine Privacy Policy**
+Entertainment Partners and its affiliates (“EP”, “we”, “us” and “our”) are committed to maintaining meaningful privacy protections for our clients and users under the Principles (as defined below). This Privacy Notice describes EP’s practices with respect to your personal information.
 
-**Effective as of August 1, 2010**
+This Privacy Notice also discusses our implementation of the Principles, the types of information we gather, how we use it and the notice and choice affected individuals have regarding our use of that information that we collect through:
 
-At scenechronize.com, a website operated by Clever Machine, Inc. ("Clever Machine"), we are committed to respecting people’s privacy online. We are also committed to providing you with the very best services we can on our website. In order to do so, we may gather certain personal information about you. Please read the following policy to understand how your personal information will be treated as you make full use of the scenechronize services. By using scenechronize.com, you consent to the collection and use of your information by Clever Machine as described in this Policy, and you signify your agreement to the Clever Machine Privacy Policy. 
-
-**What information does Clever Machine collect?**
-
-When you visit scenechronize.com, we collect some basic information that does not identify individual users. This includes which pages are visited and any feedback from our visitors. We then aggregate this information with other pieces of information to improve our site and make your experience on the site as valuable and efficient as possible. 
-
-When you fill in our Contact form or register for the scenechronize service, we collect personal information such as name, email and nature of your project in order to set up your account. 
-
-We may also collect and accumulate anonymous data which will help us understand and analyze the Internet experience of our website users. For instance, we may accumulate visitor data relating to referring domain names, the type of browsers used, operating system software, screen resolutions, color capabilities, browser plug-ins, language settings, cookie preferences, search engine keywords and JavaScript enablement. 
-
-We also collect IP addresses for system administration and to report aggregate information to any sponsors. While an IP address does not identify an individual by name, it may, with the cooperation of the ISP, be used to locate and identify an individual. Your IP address can, however, reveal what geographic area you are connecting from, or which ISP you are using. Finally, other websites you visit have IP addresses, and we may collect the IP addresses of those websites and their pages. 
-
-Upon canceling your scenechronize account, you have the right to request deletion of your account information, subject to our need to keep appropriate archives for our business operations. 
-
-We maintain archives of our web logs, databases, and other systems and information. Please note that it is possible some of this information may remain archived after we delete the information from its active database. We maintain archives for disaster recovery, legal and other non-marketing purposes. 
-
-**What do we do with the information we collect?**
-
-  1. It is used to set up and maintain your scenechronize account. 
-  2. Your phone number may be used in the event that our customer service representatives need to contact you and cannot reach you by email. 
-  3. Credit card information is used to bill you for services. We use NetBilling for these transactions. They are one of the largest and safest e-commerce billing companies today. 
-  4. Your personal information will never be sold to any other website owner or merchant. We hate junk mail as much as you. This is why we will only send you email about items that we feel you should know about. This includes special promotional items that Clever Machine endorses, membership changes, terms and conditions changes, Holiday cards, and the latest updates and offerings on scenechronize.com. When we send you emails that include a link to the scenechronize.com site, that link may contain an alphanumeric identifier that allows us to identify the person to whom we sent the message so that we can personalize our content for that individual. 
+  * your browsing activity on our websites [www.ep.com](http://www.ep.com/), [www.centralcasting.com](http://www.centralcasting.com/), [www.scenechronize.com](http://www.scenechronize.com/), [www.epfinancialsolutions.com](http://www.epfinancialsolutions.com/), and all other related websites where this Privacy Notice is referenced, but specifically excluding hosted applications, services and tools (our “Websites”);
+  * our provision and your use of our hosted applications, services and tools (collectively, “Online Services”); and
+  * our provision of payroll and payroll-related services (collectively, “Payroll Services”) to our clients, including personal information of any entertainment production workers (“Production Workers”) that we receive in connection with the Payroll Services.
 
 
 
-**Email Opt-out**
+**Notice**
 
-Users who no longer wish to receive our email updates or other notifications may opt-out of receiving these communications by following the instructions contained in the applicable email. 
+We provide access to our Privacy Notice by:
 
-**Credit Card Processing**
+  * linking it throughout our Websites;
+  * referencing it in our Terms of Use and End User License Agreements; and
+  * incorporating it into our contracts, agreements and other documents as necessary or appropriate.
 
-Credit card transactions are handled by a third-party processor that receives credit card numbers and other personally identifying information only to verify credit card accounts and process transactions. If you feel more comfortable doing so, you are welcome to pay by credit card via fax. 
 
-Credit card security is an important aspect of the online experience. We use encryption technology to keep your credit card information safe. To ensure that your information is even more secure, once we receive your credit card information, it is stored on a server that isn't accessible from the Internet. 
 
-With whom do we share your information and for what purpose? Clever Machine does not sell, rent, or trade any personally identifying information with others. However, when one or more of our business partners co-sponsor a service, we may share with the co-sponsor(s)some or all of the information collected in connection with such service. 
+**EU-U.S. Privacy Shield**
 
-We may also share aggregate user information in a non-personally identifiable manner with advertisers and other third parties in order to present to users more targeted advertising, products and services. 
+EP participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework.  EP is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Framework, visit the [U.S. Department of Commerce’s Privacy Shield List](https://www.privacyshield.gov/list).
 
-We may contract with third parties to conduct research and marketing on our behalf. Such third parties will be fully bound by an obligation of confidentiality to Clever Machine and may not use any personally-identifiable information provided by us other than as expressly instructed by us and in strict compliance with the terms of this Privacy Policy. 
+EP is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf.  EP complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
 
-**What information do parties other than Clever Machine collect?**
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, EP is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.  In certain situations, EP may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-Some entities that have links on our site may collect personally identifying information about you when you access or utilize those links. Clever Machine does not control the collection or use of such information, and the practices of those advertisers and websites are not covered by this Privacy Policy. 
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
-It is important to note that those entities may not follow the same privacy policies as Clever Machine. For instance, if you click on an advertisement on scenechronize.com, you may be taken away to an entirely different site. These links can also be from advertisers, content providers and/or partners who may use Clever MachineÕs logo and/or style as a result of a co-branding agreement yet they may still not follow the same privacy policies as Clever Machine. 
+Under certain conditions, more fully described on the Privacy Shield website [https://www.privacyshield.gov](https://www.privacyshield.gov/), you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
-**What are "cookies" and "web beacons" and how do we use them?**
+**Personal Information Defined**
 
-Our site may use "cookies" and "web beacons" to speed navigation, keep track of items, and provide you with custom-tailored services. A "web beacon" is an embedded image file that specifically helps us track whether you have viewed a specific piece of content. We also use "cookies" to remember information you gave us so you don't have to re-enter it each time you visit the site. Some advertisers or websites that have links on our site may also use their own "cookies". 
+As used within this Privacy Notice, “personal information” means any information recorded in any form that relates to an individual and identifies or can be used to identify an individual, including, but not limited to, a first and last name, email address, a home, postal or other physical address or other unique identifier.
 
-Most browsers are initially set to accept "cookies". If you'd prefer, you can set yours to refuse "cookies". You will not be able to use our service if you turn off the "cookies" option. 
+**Browsing EP Websites**
 
-**Security**
+We don’t automatically collect your email address. We log your IP address (the Internet address of your computer) to give us an idea of which part of our Websites you visit and how long you spend there. If you have logged in to our website your IP address will be linked to your personal information. Like many other commercial websites, our Websites may use a standard technology called a “cookie” to collect information about how you use the site. Please go to “Tracking Technologies” below for more information.
 
-scenechronize.com member accounts are secured by member-created passwords. In addition, we use reasonable measures to protect member information that is stored within our databases, and we restrict access to member information to those employees who need access to perform their job functions, such as our customer service personnel and technical staff. 
+While browsing our Websites, EP does collect personal information when you register with EP for an EP account, when you register to attend a seminar or participate in an online survey, when you ask to be included in an email or other mailing list, when you submit an entry for a sweepstakes or other promotions or when you submit your personal information to EP for any other reason. From time to time, EP receives personal information from business partners and vendors. EP only uses such information if it has been collected in accordance with acceptable privacy practices consistent with this Privacy Notice and applicable laws, including but not limited to the Principles.
 
-We use Secured Sockets Layer (SSL) for secure transmissions. SSL applies encryption between two communicating applications, such as your PC and the server. Your name, other personal information, and all credit cards and other payment information that you transmit to us will be protected by 128-bit encryption technology, provided your browser is properly configured and your computer is operating properly. The SSL technology requires that you have a reasonably current browser that is capable of supporting 128-bit encryption. Current browsers such as these will activate the appropriate security features when you enter an online transaction through this site. Furthermore, we take reasonable measures to maintain the confidentiality of credit cards, debit cards, charge cards, and other access numbers under our control. Card numbers are stored for the duration of the transaction, and then deleted. 
+**Our Provision and Your Use of the Online Services**
 
-However, please note that we cannot guarantee the security of member account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of our member information at any time. 
+Access to our Online Services will require a login and a password. The use of our Online Services, and the information or applications accessible from those sites, may be governed by a written agreement between you and/or your employer and EP. Unless you request deletion of your personal information as specified below, your personal information may be retained by EP to verify compliance with any applicable agreement, log software licenses granted, track software downloaded from those pages or track usage of other applications available on those pages.
 
-**Business transitions**
+When you submit your personal information in connection with the provision or use of the Online Services, this Privacy Notice describes how we collect and use your personal information. Your use of the Online Services shall constitute your consent to the terms of this Privacy Notice and any changes to this Privacy Notice that may be made to it in the future in accordance with the terms set forth in this Privacy Notice.
 
-In the event Clever machine goes through a business transition, such as a merger, acquisition by another company, or sale of a portion of its assets, users' personal information will, in most instances, be part of the assets transferred. 
+Below are additional privacy considerations specific to our provision and your use of the Online Services:
 
-**California User Consumer Rights.**
+_Personal Information Collection Practices –_  EP hosts information and data under the direction of its clients through the Online Services, including personal information regarding individuals affiliated with EP’s clients. Notwithstanding the foregoing, EP may also have a direct relationship with such individuals whose personal information it processes, i.e., through the Payroll Services.
 
-In accordance with California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with California Department of Consumer Affairs, 400 R Street, STE1080, Sacramento, CA 95814; or by phone at 916-445-1254 or 800-952-5210; or by email to dca@dca.ca.gov. For more information about protecting your privacy, you may wish to visit: http: //www.ftc.gov 
+_Choice –_  Since EP hosts information and data on its Online Services under the direction of its clients, please contact the EP client that you interact with directly if you have any questions or concerns regarding any personal information that may be hosted on the Online Services. If you are an EP client and would like to update your account, please contact your EP Account Representative.
 
-**Users Located Outside of the United States**
+_Access to Data Controlled by EP’s Clients –_  EP acknowledges that you have the right to access your personal information. Since EP hosts information and data on its Online Services under the direction of its clients, an individual who seeks to correct, amend or delete inaccurate data should direct the inquiry to the specific EP client at issue. If the EP client cannot directly remove the data and specifically requests EP to remove the data, we will respond to their request within the timeframes prescribed in the applicable agreement between EP and the client.
 
-We make an effort to protect the personal information of all users of scenechronize.com. If you are unsure whether this privacy policy is in conflict with the rules applicable where you are located, you should not submit your personal information to scenechronize.com. IN ADDITION, IF YOU ARE LOCATED WITHIN THE EUROPEAN UNION, YOU SHOULD NOTE THAT YOUR INFORMATION WILL BE TRANSFERRED TO THE UNITED STATES, THE LAWS OF WHICH MAY BE DEEMED BY THE EUROPEAN UNION TO HAVE INADEQUATE DATA PROTECTION. Users of scenechronize.com located in countries outside of the United States who submit personal information do thereby consent to the transfer of that information to and/or storage of the information in the United States. 
+_Data Retention –_  EP will retain personal information we process on behalf of its clients for as long as needed to provide services to its clients. EP will retain and use this personal information as necessary to comply with its legal obligations, resolve disputes and enforce its agreements.
 
-**Cooperation with law enforcement; fraud protection**
+**In Connection with Payroll Services**
 
-Clever Machine fully cooperates with law enforcement agencies in identifying those who use our services for illegal activities. We reserve the right to disclose information about members who we believe are in violation of applicable laws or regulations, or as required to respond to a subpoena, court orders or other legal process requiring such disclosure. We also reserve the right to report to law enforcement agencies any activities that we reasonably believe to be unlawful and to exchange information with other companies and organizations for fraud protection. 
+EP is committed to protecting the privacy and security of all personal information that we process in order to provide Payroll Services to our clients. We receive personal information from our clients about their current, prospective and former Production Workers as well as information regarding their dependents and family members. This notice explains our practices with regard to all of the personal information we, as a provider of Payroll Services, receive from our clients.
 
-**Changes to our Privacy Policy**
+EP collects and processes personal information of Production Workers only as instructed or permitted by our client or the specific Production Worker, or as otherwise required for EP to fulfill its legal obligations.
 
-Use of information we collect is subject to the Privacy Policy in effect at the time such information is used or collected. From time to time, we may change our Privacy Policy and will notify you of those changes by email or post a notice on the scenechronize website. Users are bound by any changes to the Privacy Policy when they use scenechronize.com after such changes have been first posted. Please note that if you opt out of receiving legal notices from us, those legal notices will still govern your use of scenechronize.com, and you are responsible for reviewing such legal notices for changes, as posted on scenechronize.com. 
+EP will disclose all of your personal information to the EP client receiving Payroll Services. We may disclose your personal information to our affiliates and data processors as needed to provide the Payroll Services, each of whom will be contractually bound to limit use of your personal information as needed to perform the Payroll Services.
 
-Any questions regarding our Privacy Policy should be directed to Clever Machine at support {at} scenechronize {dot} com. 
+Failure to provide accurate or complete information or failing to consent to this Privacy Notice may impact our ability to provide Payroll Services.
 
-Copyright © 2007-2020 Clever Machine, Inc.
+**Notice Prior to Collection**
+
+When personal information is collected, we will inform you at the point of collection the purpose for the collection. EP will not transfer your personal information to third parties without your consent, except under the limited conditions described under the discussion entitled “Information Sharing and Disclosure” below. If you choose to provide us with your personal information, we may only transfer that information within EP, with our affiliates or our third party service providers in accordance with this Privacy Notice. Upon receiving your permission, we may transfer your information across borders and from your country or jurisdiction to other countries or jurisdictions around the world.
+
+We will always give you the opportunity to “opt out” of receiving direct marketing or market research information. This means we assume you have given us your consent to collect and use your information for the purposes for which it was collected and in accordance with this Privacy Notice unless you take affirmative action to indicate that you do not consent, for instance, by clicking or checking the appropriate option or box at the point of collection. In some cases, when applicable, we will provide you with the opportunity to “opt in.” This means we will require your affirmative action to indicate your consent before we use your information for purposes other than the purpose for which it was submitted.
+
+**Tracking Technologies**
+
+As is true of most websites, we gather certain information automatically and store it in log files. This information may include your IP addresses, browser type, internet service provider, referring/exit pages, operating system, date/time stamp, and/or clickstream data. We may combine this automatically collected log information with other information we collect about you. We do this to improve the services we offer to you, and to improve marketing, analytics or site functionality.
+
+EP, its affiliates and/or service providers (e.g., email distribution vendors, third party payment portals, hosting and managed services vendors), use technologies such as cookies, beacons, tags and scripts to analyze trends, administer the Websites, track users’ movements around the Websites and gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual and aggregated basis.
+
+Some parts of EP’s Websites use cookies to track user traffic patterns. We do this in order to determine the usefulness of our Websites’ information to our users and to see how effective our navigational structure is in helping users reach that information. If you prefer not to receive cookies while browsing our Websites, you can set your browser to warn you before accepting cookies and refuse the cookie when your browser alerts you to its presence. You can also refuse all cookies by turning them off in your browser, although you may not be able to take full advantage of our Websites if you do so. In particular, you may be required to accept cookies in order to complete certain actions on our Websites. You do not need to have cookies turned on, however, to use/navigate through many parts of our Websites, except access to certain of EP’s Websites may require a login and password.
+
+We partner with a third party to either display advertising on our Websites or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on our Websites and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may [opt-out by clicking here](http://preferences-mgr.truste.com/) or if located in the European Union click [here](http://www.youronlinechoices.eu/). Please note this does not opt you out of being served ads. You will continue to receive generic ads. We and third parties with whom we partner with use Local Storage, such as HTML5, to store content information and preferences. Various browsers may offer their own management tools for removing HTML5.
+
+EP’s Websites include Social Media Features, such as the Facebook Like button and Widgets, such as the Share This button or interactive mini-programs that run on our Websites. These features may collect your IP address, which page you are visiting on our Websites, and may set a cookie to enable the feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Websites. Your interactions with these features are governed by the privacy notice and/or policy of the company providing it.
+
+**Information Sharing and Disclosure**
+
+Because EP is a global company, your personal information may be shared with our affiliates around the world. All such entities are governed by this Privacy Notice or are bound by the appropriate confidentiality and data transfer agreements.
+
+Your personal information is never shared outside EP without your permission, except under the conditions explained below. Inside EP, data is stored in controlled servers with limited access. Unless otherwise agreed to in writing with EP, your information may be stored and processed in the United States or any other country where EP, its subsidiaries, affiliates, service providers or agents are located.
+
+EP may send your personal information to other companies or people under any of the following circumstances:
+
+  * you have provided your consent to share the information;
+  * we need to share your information to provide the product or service you have requested; or
+  * we need to send the information to companies who work on behalf of EP to provide a product or service to you (we will only provide those companies the information (i) they need to deliver the service, or (ii) for the purposes for which the information was initially collected, and they are prohibited from using that information for any other purpose).
+
+
+
+We will also disclose your personal information if required to do so by law, to enforce our Terms of Use, or in urgent circumstances, to protect personal safety, the public or our Websites. EP may also share your personal information when we have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (1) satisfy any applicable law (foreign, federal, state or local), regulation, legal process or enforceable government request, (2) detect, prevent or otherwise address fraud, security or technical issues, (3) protect against harm to the rights, property or safety of EP, its users or the public as required or permitted by law or (4) if EP is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+
+Finally, EP may also share with third parties certain aggregate information regarding the use of EP’s services or Websites, such as, for example, the number of people who visit certain web pages or use certain services offered by EP.
+
+**Data Security**
+
+Your EP account information is password-protected for your privacy and security. EP safeguards the security of the data you send us and takes reasonable and appropriate measures to protect it from loss, misuse, and unauthorized access, disclosure, alteration, and destruction with physical, electronic, and managerial procedures. In certain areas of our Websites, EP uses industry-standard SSL-encryption to enhance the security of data transmissions. While we strive to protect your personal information, we cannot ensure the security of the information you transmit to us, and so we urge you to take every precaution to protect your personal information when you are on the Internet. Change your passwords often, use a combination of letters, numbers and special characters, and make sure you use a secure browser.
+
+EP restricts access to personal information to EP employees, contractors and agents who need to know and have access to this information. Although EP takes reasonable steps to protect the data that it collects from its users, it is simply not possible to protect against every conceivable breach of security. Although we do our best to make our Websites and data secure, we cannot guarantee the total security of our Websites and data. Accordingly, you agree that you will not hold EP responsible, and hereby release EP, for any inadvertent or unauthorized disclosure of user information that may occur, such as, for example, by a person hacking into our system and unlawfully gaining access to our data.
+
+EP processes personal information for the purpose for which it was collected and in accordance with this Privacy Notice. EP reviews its data collection, storage and processing practices to ensure that it collects, stores and processes personal information needed to provide or improve its services, or as otherwise permitted under this Privacy Notice.
+
+**Data Retention**
+
+We will retain your information for as long as your account is active or as needed to provide you and/or the EP client services. If you wish to cancel your account or request that we no longer use your information to provide you services, contact us at [privacy@ep.com](mailto:privacy@ep.com). Notwithstanding your request, we reserve the right to retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+**Correcting and Updating Your Information**
+
+Upon request EP will provide you with information about whether we hold any of your personal information.
+
+EP depends upon its users to record, update and correct their personal information whenever necessary. EP asks that individual users review and update their personal information from time to time as this information becomes outdated. For this purpose, EP will allow you access to your personal information in order to correct, amend or delete inaccurate information. However, EP may decline to process requests to update information that are unreasonably repetitive, require disproportionate technical effort, jeopardize the privacy of others or that would be impractical. We will respond to your request to access within a reasonable amount of time, but no later than 30 days after the date of receipt of your request.
+
+**Children and Privacy**
+
+Our Websites do not target and are not intended to attract children under the age of 13. EP does not knowingly solicit personal information from children under the age of 13 or send them requests for personal information.
+
+**California Residents**
+
+If you are a California resident, you may ask us to refrain from sharing your information (whether collected online or offline) with our affiliates for their marketing purposes, if the affiliates are separate legal entities. Please tell us your preference by contacting us as indicated in the “Changes to This Privacy Notice” section below.
+
+**Third Party Applications and Sites**
+
+EP may make available third party applications through its Online Services and Websites. The information collected by EP when you enable a third party application is processed under this Privacy Notice. Information collected by third party applications is governed by the privacy notice and/or policy of the third party application provider, so you should review and consider said privacy policies when using third party applications.
+
+EP’s Websites contains links to other sites. EP does not share your personal information with those websites and is not responsible for their privacy practices. We encourage you to learn about the privacy policies of those companies.
+
+Our Websites may contain links to websites operated by other companies. Some of these third party sites may be co-branded with an EP logo, even though they are not operated or maintained by EP. Although we choose our business partners carefully, EP is not responsible for the privacy practices of websites operated by third parties that are linked to our Websites or the content of those sites. In any event, once you leave our Websites, you should check the applicable privacy notice and/or policy of the third party website to determine how they will handle any information they collect from you. EP does not endorse or control any of the websites for which links are provided on EP’s Websites, and users assume all risks of using these other websites and assume all responsibility for the policies and procedures of these other websites.
+
+**Accountability for Onward Transfers**
+
+Prior to disclosing your personal information to a third party, EP will notify you of such disclosure and allow the you the choice to opt-out of such disclosure unless the disclosure meets an employment requirement or other legal obligation under applicable law. EP will enter into contracts to ensure that any third party to whom personal information may be disclosed is aware of and adheres to the Principles or is subject to law providing the same level of privacy protection as is required by the Principles and agrees to provide an adequate level of privacy protection. EP will also, upon notice, take reasonable and appropriate steps to stop and remediate unauthorized processing by third party agents and agrees to provide a summary or a representative copy of the relevant privacy provisions of its contracts with agents to the U.S. Department of Commerce upon request.
+
+**Changes to This Privacy Notice**
+
+EP may amend this Privacy Notice from time to time consistent with the requirements of the EU – U.S. Privacy Shield framework. We will post any revised Privacy Notice on this Website. If we make any change in how we use your personal information we will notify you by email (sent to the email address specified in your account) or by means of a notice on this Website prior to the change becoming effective. We encourage you to raise any concerns regarding this Privacy Notice and our privacy practice using the contact information provided below and we will investigate and attempt to resolve any complaints and disputes regarding use and disclosure of personal information in accordance with applicable laws. If you have questions, concerns or complaints about this Privacy Notice, please feel free to contact us any time through this Website, by email at [privacy@ep.com](mailto:privacy@ep.com) or by mail at:
+
+Entertainment Partners  
+Attn: Data Protection Officer  
+2950 N. Hollywood Way  
+Burbank, CA 91505
+
+[](https://privacy.truste.com/privacy-seal/validation?rid=6876a6ce-0a6f-47b0-b9b1-6cfc2eeb1b40)
