@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefastmode.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628222037id_/https%3A//www.thefastmode.com/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefastmode.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229002104id_/https%3A//www.thefastmode.com/website-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -69,4 +69,4 @@ This website contains links to other websites. 
 
 The Fast Mode is not responsible for the privacy policies or practices of any third party.
 
-_This document was created using a Contractology template available at[http://www.freenetlaw.com](http://www.freenetlaw.com/) under the [Creative Commons Attribution 2.0 UK: England & Wales License](http://creativecommons.org/licenses/by/2.0/uk/). _ 
+_This document was created using a Contractology template available at[http://www.freenetlaw.com](http://www.freenetlaw.com/) under the [Creative Commons Attribution 2.0 UK: England & Wales License](https://creativecommons.org/licenses/by/2.0/uk/). _ 
