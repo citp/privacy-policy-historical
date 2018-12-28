@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mainetoday.com privacy policy that was archived on 2018-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180606154650id_/http%3A//mainetoday.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mainetoday.com privacy policy that was archived on 2018-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181228214705id_/http%3A//mainetoday.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <link rel="icon" type="image/png" href="http://mainetoday.com/wp-content/themes/mt/mt-favicon.png">
@@ -37,14 +37,14 @@
 <link href="http://fonts.googleapis.com/css?family=Cedarville+Cursive" rel="stylesheet" type="text/css">
 <link href="http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic" rel="stylesheet" type="text/css">
 
-<link rel="stylesheet" type="text/css" href="http://mainetoday.com/wp-content/themes/mt/css/mainetoday-style-v1.5.css?v=3">
+<link rel="stylesheet" type="text/css" href="http://mainetoday.com/wp-content/themes/mt/css/mainetoday-style-v1.5.css?v=4">
 <link href="http://mainetoday.com/wp-content/themes/mt/css/ticker-style.css?v=2" rel="stylesheet" type="text/css">
 <link href="http://mainetoday.com/wp-content/themes/mt/css/flexslider.css" rel="stylesheet" type="text/css">
 
 
 
 
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5FNCK7"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5FNCK7"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//c.amazon-adsystem.com/aax2/apstag.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
 
 
 <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-migrate/3.0.0/jquery-migrate.js" type="text/javascript"></script>
@@ -131,6 +131,10 @@ $(document).ready(function() {
 
 
 <!-- END NEW HEADER SCRIPTS -->
+          <!--DC Site= mnt.mainetoday/test -->
+
+    
+	
 
 <script type="text/javascript" src="//mainetoday-d.openx.net/w/1.0/jstag?nc=6119-mainetoday"></script>
 <!--
@@ -138,7 +142,6 @@ $(document).ready(function() {
 
 -->
 
-      <!--DC Site= mnt.mainetoday/test -->
 <script type="text/javascript">
 var googletag = googletag || {};
 googletag.cmd = googletag.cmd || [];
@@ -189,7 +192,7 @@ googletag.cmd.push(function() {
 
 	var pos4mapping = googletag.sizeMapping().
 						addSize([765, 200], [728, 90]). // Portait tablet
-						addSize([0, 0], [300, 250]). //supress Position 4 below Tablet Portrait
+						addSize([0, 0], []). //supress Position 4 below Tablet Portrait
 						build();
 						
 	var pos6mapping = googletag.sizeMapping().
@@ -197,32 +200,104 @@ googletag.cmd.push(function() {
 						addSize([0, 0], []). //supress Position 4 below Tablet Portrait
 						build();
 		var posfmapping = googletag.sizeMapping().
-						addSize([765, 200], []). 
-						addSize([0, 0], [[320, 50],[300, 50]]). 
+						addSize([765, 200], [1, 1]). 
+						addSize([0, 0], [[320, 50],[300, 50],[1, 1]]). 
 						build();
 	
-	
+slotf = googletag.defineSlot(sitepost, [320, 50], 'pos_f_footer').setTargeting("pos",["f"]).defineSizeMapping(posfmapping).addService(googletag.pubads());	
 slotX = googletag.defineSlot(sitepost, [728,90], 'pos_1_atf_728x90').setTargeting("pos", "1").defineSizeMapping(pos1homemapping).addService(googletag.pubads());
 slotY = googletag.defineSlot(sitepost, [300,600], 'pos_2_atf_300x250').setTargeting("pos", "2").defineSizeMapping(pos2mapping).addService(googletag.pubads());
 //slot6 = googletag.defineSlot(sitepost, [300, 50], "pos_6_atf_300x50").setTargeting("pos",["6"]).defineSizeMapping(pos6mapping).addService(googletag.pubads());
 slot3 = googletag.defineSlot(sitepost, [300,600], 'pos_3_btf_300x250_300x600').setTargeting("pos", "3").defineSizeMapping(pos3mapping).addService(googletag.pubads());
 slot0 = googletag.defineSlot(sitepost, [[728, 90]], 'pos_btf_728x90').setTargeting("pos",["0"]).defineSizeMapping(pos0homemapping).addService(googletag.pubads());
 slot4 = googletag.defineSlot(sitepost, [728, 90], 'pos_btf_728x90_0').setTargeting("pos",["4"]).defineSizeMapping(pos4mapping).addService(googletag.pubads());
-slotf = googletag.defineSlot(sitepost, [320, 50], 'pos_f_footer').setTargeting("pos",["f"]).defineSizeMapping(posfmapping).addService(googletag.pubads());
+
 
 	
-googletag.pubads().setCentering(true);
+
+  googletag.pubads().enableLazyLoad({
+    fetchMarginPercent: 30,  // Fetch slots within 5 viewports.
+    renderMarginPercent: 20,  // Render slots within 2 viewports.
+    mobileScaling: 1.0  // Double the above values on mobile.
+  });
+	googletag.pubads().setCentering(true);
 googletag.pubads().enableAsyncRendering();
 // googletag.pubads().enableSingleRequest();
-googletag.pubads().collapseEmptyDivs();
-googletag.pubads().disableInitialLoad();
+//googletag.pubads().collapseEmptyDivs();
+//googletag.pubads().disableInitialLoad();
 googletag.enableServices();
 });
 
 
+
 </script>
 
+<!-- ---------------- APS Test --------------------- -->
+    <script>
+!function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+     
+apstag.init({
+     pubID: '31257f2f-b5ff-49d9-9bca-92a523e8c19b', //enter your pub ID here as shown above, it must within quotes
+     adServer: 'googletag'
+});
+function pos1sizes() {
+    var widthOptions= [];
+    var width = window.innerWidth || document.body.clientWidth;
+    if(width > 1000) {
+    widthOptions =  [[970,250],[970, 90],[970,30],[728, 90]];
+    } else if(width > 750) {
+    widthOptions =  [728, 90];   
+    } else {widthOptions = [[320, 50], [300, 50], [300, 100]];}
+    return widthOptions;
+}
+function pos2sizes() {
+    var widthOptions= [];
+    var width = window.innerWidth || document.body.clientWidth;
+    if(width > 998) {
+    widthOptions =  [[300,600],[300,250]];
+    } else if(width > 750) {
+    widthOptions =  [];   
+    } else {widthOptions = [300, 250];}
+    return widthOptions;
+}
+function pos3sizes() {
+    var widthOptions= [];
+    var width = window.innerWidth || document.body.clientWidth;
+    if(width > 998) {
+    widthOptions =  [[300,600],[300,250]];
+    } else if(width > 750) {
+    widthOptions =  [];   
+    } else {widthOptions = [];}
+    return widthOptions;
+}  
+apstag.fetchBids({
+     slots: [{
+         slotID: 'pos_1_atf_728x90', //example: 'div-gpt-ad-1475102693815-0'
+         slotName: sitepost, //example: '12345/box-1'
+         sizes: pos1sizes() //example: [[300,250], [300,600]]
+     },
+             {
+      slotID: 'pos_2_atf_300x250',
+      slotName: sitepost, 
+      sizes: pos2sizes()
+    },
+             {
+      slotID: 'pos_3_btf_300x250_300x600',
+      slotName: sitepost, 
+      sizes: pos3sizes()
+    }],
+     timeout: 2e3
+}, function(bids) {
+     // set apstag targeting on googletag, then trigger the first DFP request in googletag's disableInitialLoad integration
+     googletag.cmd.push(function(){
+         apstag.setDisplayBids();
+         // googletag.pubads().refresh();
+     });
+});   
+      //  googletag.enableServices();
+    </script>
 
+<!-- _______________ END APS Test ------------------ -->
 
 
 <!--
@@ -265,8 +340,8 @@ googletag.enableServices();
 <link rel="alternate" type="application/rss+xml" title="mainetoday » Comments Feed" href="http://mainetoday.com/comments/feed/">
 <link rel="alternate" type="application/rss+xml" title="mainetoday » Privacy Policy Comments Feed" href="http://mainetoday.com/privacy-policy/feed/">
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/mainetoday.com\/wp-includes\/js\/wp-emoji-release.min.js"}};
-			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/mainetoday.com\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
 		</script><script src="http://mainetoday.com/wp-includes/js/wp-emoji-release.min.js" type="text/javascript" defer=""></script>
 		<style type="text/css">
 img.wp-smiley,
@@ -302,7 +377,7 @@ img.emoji {
 <link rel="dns-prefetch" href="//i0.wp.com">
 <link rel="dns-prefetch" href="//i1.wp.com">
 <link rel="dns-prefetch" href="//i2.wp.com">
-<style type="text/css">img#wpstats{display:none}</style>
+
  
 </head>
 
@@ -322,6 +397,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <!-- START WRAPPER -->
 <div class="mt-wrapper">
+    <div id="pos_f_footer" class="positionf">
+<script>
+googletag.cmd.push(function() { googletag.display('pos_f_footer');});
+</script>
+</div>
 
 
 
@@ -363,7 +443,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<li id="menu-item-112573" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-112573"><a href="http://mainetoday.com/maine_music">Music</a></li>
 	<li id="menu-item-65271" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-65271"><a href="http://mainetoday.com/maine_art/">Art</a></li>
 	<li id="menu-item-109591" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-109591"><a href="http://mainetoday.com/theater/">Theater</a></li>
-	<li id="menu-item-66135" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-66135"><a href="/blog/face-the-music/">Face the Music</a></li>
+	<li id="menu-item-66135" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-66135"><a href="/maine_music/face-the-music/">Face the Music</a></li>
 	<li id="menu-item-154512" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-154512"><a href="http://mainetoday.com/maine_music/upcoming-concert-tickets-sale/">Upcoming Concerts</a></li>
 </ul>
 </li>
@@ -380,11 +460,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<li id="menu-item-163289" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-163289"><a href="http://mainetoday.com/content-slider/101-things-maine/">101 Things to Do in Maine</a></li>
 </ul>
 </li>
-<li id="menu-item-113266" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113266"><a href="http://mainetoday.com/photo/">Seen Pics</a></li>
 <li id="menu-item-50899" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-50899"><a href="http://calendar.mainetoday.com/events">Calendar</a>
 <ul class="sub-menu">
 	<li id="menu-item-76323" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-76323"><a href="/do-this-2/things-to-do-this-weekend/">Things to do this weekend</a></li>
-	<li id="menu-item-94396" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-94396"><a href="http://calendar.mainetoday.com/wp-login.php?redirect_to=http%3A%2F%2Fcalendar.mainetoday.com%2Fwp-admin%2Fpost-new.php%3Fpost_type%3Dcalendar_event&amp;reauth=1">Post an event</a></li>
+	<li id="menu-item-94396" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-94396"><a href="https://portal.cityspark.com/EventEntry/EventEntry/MaineToday">Post an event</a></li>
 	<li id="menu-item-87522" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-87522"><a href="http://mainetoday.com/the-weekender-newsletter-sign-up/">Newsletter: Sign up for The Weekender</a></li>
 </ul>
 </li>
@@ -421,7 +500,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <div id="pos_1_atf_728x90" class="pos1-leaderboard-holder pos1-leaderboard leader">
 <script type="text/javascript">
-googletag.cmd.push(function() { googletag.display('pos_1_atf_728x90'); googletag.pubads().refresh([slotX]); });
+googletag.cmd.push(function() { googletag.display('pos_1_atf_728x90'); });
 </script>
 </div>
 
@@ -446,7 +525,7 @@ googletag.cmd.push(function() { googletag.display('pos_1_atf_728x90'); googletag
 
 
 					
-						<div id="pos_2_atf_300x250"><script type="text/javascript">googletag.cmd.push(function() { googletag.display('pos_2_atf_300x250'); googletag.pubads().refresh([slotY]); });</script></div><p>&nbsp;</p><div id="text-5" class="widget widget_text">			<div class="textwidget"> <div class="mt-ad-col-title">
+						<div id="pos_2_atf_300x250"><script type="text/javascript">googletag.cmd.push(function() { googletag.display('pos_2_atf_300x250'); });</script></div><p>&nbsp;</p><div id="text-5" class="widget widget_text">			<div class="textwidget"> <div class="mt-ad-col-title">
  	<h3><span>The Weekender</span> Sign up</h3>
 	<p>Know what's happening with our weekly newsletter. Enter your email. Start knowing things!</p>
 </div>
@@ -462,32 +541,34 @@ googletag.cmd.push(function() { googletag.display('pos_1_atf_728x90'); googletag
 		</div>
 	</form>
 </div></div>
-		</div><div id="pos_3_btf_300x250_300x600"><script type="text/javascript">googletag.cmd.push(function() { googletag.display('pos_3_btf_300x250_300x600'); });</script></div><div id="text-13" class="widget widget_text">			<div class="textwidget"><p style="margin-top:50px;">&nbsp;</p>
-<iframe src="https://www.youtube.com/embed/kCJDloOzWuU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
-<div><a href="http://www.mainelifemedia.com/?utm_source=mainetoday.com&amp;utm_medium=homePage&amp;utm_campaign=sidebarVideo"><img src="https://i1.wp.com/mainetoday.com/wp-content/uploads/2018/06/maine-life-logo.png" style="width:300px;" data-recalc-dims="1"></a></div><p>&nbsp;</p></div>
+		</div><div id="custom_html-2" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><br>
+<div data-cswidget="9204"> </div>
+<script type="text/javascript" async="" defer="" src="//cdn.cityspark.com/wid/get.js"> </script></div></div><div id="pos_3_btf_300x250_300x600"><script type="text/javascript">googletag.cmd.push(function() { googletag.display('pos_3_btf_300x250_300x600'); });</script></div><div id="text-13" class="widget widget_text">			<div class="textwidget"><p style="margin-top:50px;">&nbsp;</p>
+<iframe src="https://www.youtube.com/embed/wBOWIvWxM58" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+<div><a href="http://www.mainelifemedia.com/?utm_source=mainetoday.com&amp;utm_medium=homePage&amp;utm_campaign=sidebarVideo"><img src="https://i1.wp.com/mainetoday.com/wp-content/uploads/2018/11/ML-tree.jpg" style="width:300px;" data-recalc-dims="1"></a></div><p>&nbsp;</p></div>
 		</div><div id="simpleimage-12" class="widget widget_simpleimage">
 
 	<p class="simple-image">
-		<a href="http://mainetoday.com/tag/mainetoday-magazine/"><img width="300" height="346" src="https://i0.wp.com/mainetoday.com/wp-content/uploads/2018/05/mag-cover-may-31-1.jpg?fit=300%2C346" class="attachment-full size-full" alt="" srcset="https://i0.wp.com/mainetoday.com/wp-content/uploads/2018/05/mag-cover-may-31-1.jpg?w=300 300w, https://i0.wp.com/mainetoday.com/wp-content/uploads/2018/05/mag-cover-may-31-1.jpg?resize=260%2C300 260w" sizes="(max-width: 300px) 100vw, 300px"></a>	</p>
+		<a href="http://mainetoday.com/tag/mainetoday-magazine/"><img width="300" height="302" src="https://i0.wp.com/mainetoday.com/wp-content/uploads/2018/12/M-cover-Dec-27.jpg?fit=300%2C302" class="attachment-full size-full" alt="" srcset="https://i0.wp.com/mainetoday.com/wp-content/uploads/2018/12/M-cover-Dec-27.jpg?w=300 300w, https://i0.wp.com/mainetoday.com/wp-content/uploads/2018/12/M-cover-Dec-27.jpg?resize=150%2C150 150w, https://i0.wp.com/mainetoday.com/wp-content/uploads/2018/12/M-cover-Dec-27.jpg?resize=298%2C300 298w, https://i0.wp.com/mainetoday.com/wp-content/uploads/2018/12/M-cover-Dec-27.jpg?resize=125%2C125 125w" sizes="(max-width: 300px) 100vw, 300px"></a>	</p>
 
-<p>This week we tell you all about the food truck awesomeness happening in Wells and we send you to Camden for a mini-adventure. Indie Film previews the summer film series in Congress Square Park, Face the Music interviews The B-52s, Eat &amp; Run reviews Belleville in Portland, Bar Guide hits Flux in Lisbon Falls, Tap Lines looks at the rise of cans and the possible demise of growlers and of course we offer up a whole lot of ideas for the weekend including theater, concerts, festivals and more.</p>
+<p>We've got fabulous ideas for this coming weekend and of course all sorts of ways to ring in 2019! Face the Music offers up two stellar options for Friday night, Bar Guide hits Fire &amp; Water at Sable Oaks Marriott, Tap Lines makes predictions for 2019 and we've got plenty for your perusal including concert previews and movie reviews. Dig in!</p>
 
 	<p class="more">
 		<a href="http://mainetoday.com/tag/mainetoday-magazine/">READ THIS WEEK'S MAGAZINE</a>	</p>
 </div><div id="dpe_fp_widget-8" class="widget widget_dpe_fp_widget">	<ul class="dpe-flexible-posts">
-			<li id="post-172463" class="post-172463 post type-post status-publish format-standard has-post-thumbnail hentry category-things-to-do-this-weekend tag-mainetoday-magazine">
-			<a href="http://mainetoday.com/do-this-2/things-to-do-this-weekend/square-hop-make-mine-maine-cocktail-bash-9-things-maine-weekend/">
-				<img width="150" height="150" src="https://i2.wp.com/mainetoday.com/wp-content/uploads/2018/06/june-7-things-to-do-featured.jpg?resize=150%2C150" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i2.wp.com/mainetoday.com/wp-content/uploads/2018/06/june-7-things-to-do-featured.jpg?resize=150%2C150 150w, https://i2.wp.com/mainetoday.com/wp-content/uploads/2018/06/june-7-things-to-do-featured.jpg?resize=125%2C125 125w, https://i2.wp.com/mainetoday.com/wp-content/uploads/2018/06/june-7-things-to-do-featured.jpg?zoom=2&amp;resize=150%2C150 300w, https://i2.wp.com/mainetoday.com/wp-content/uploads/2018/06/june-7-things-to-do-featured.jpg?zoom=3&amp;resize=150%2C150 450w" sizes="(max-width: 150px) 100vw, 150px">				<h4 class="title">Square Hop, Make Mine from Maine  Cocktail Bash: 9 things to do in Maine this weekend</h4>
+			<li id="post-179582" class="post-179582 post type-post status-publish format-standard has-post-thumbnail hentry category-things-to-do-this-weekend tag-mainetoday-magazine">
+			<a href="http://mainetoday.com/do-this-2/things-to-do-this-weekend/theater-film-karaoke-9-things-maine-weekend/">
+				<img width="150" height="150" src="https://i2.wp.com/mainetoday.com/wp-content/uploads/2018/12/dec-27-things-to-do-featured.jpg?resize=150%2C150" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i2.wp.com/mainetoday.com/wp-content/uploads/2018/12/dec-27-things-to-do-featured.jpg?resize=150%2C150 150w, https://i2.wp.com/mainetoday.com/wp-content/uploads/2018/12/dec-27-things-to-do-featured.jpg?resize=125%2C125 125w, https://i2.wp.com/mainetoday.com/wp-content/uploads/2018/12/dec-27-things-to-do-featured.jpg?zoom=2&amp;resize=150%2C150 300w, https://i2.wp.com/mainetoday.com/wp-content/uploads/2018/12/dec-27-things-to-do-featured.jpg?zoom=3&amp;resize=150%2C150 450w" sizes="(max-width: 150px) 100vw, 150px">				<h4 class="title">Theater, film, karaoke: 9 things to do in Maine this weekend</h4>
 			</a>
 		</li>
-			<li id="post-172550" class="post-172550 post type-post status-publish format-standard has-post-thumbnail hentry category-do-this-2 tag-mainetoday-magazine">
-			<a href="http://mainetoday.com/do-this-2/old-port-fest-goes-back-basics/">
-				<img width="150" height="150" src="https://i1.wp.com/mainetoday.com/wp-content/uploads/2018/06/old-port-fest-FEATURED.jpg?resize=150%2C150" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i1.wp.com/mainetoday.com/wp-content/uploads/2018/06/old-port-fest-FEATURED.jpg?resize=150%2C150 150w, https://i1.wp.com/mainetoday.com/wp-content/uploads/2018/06/old-port-fest-FEATURED.jpg?resize=125%2C125 125w, https://i1.wp.com/mainetoday.com/wp-content/uploads/2018/06/old-port-fest-FEATURED.jpg?zoom=2&amp;resize=150%2C150 300w, https://i1.wp.com/mainetoday.com/wp-content/uploads/2018/06/old-port-fest-FEATURED.jpg?zoom=3&amp;resize=150%2C150 450w" sizes="(max-width: 150px) 100vw, 150px">				<h4 class="title">Old Port Fest goes back to the basics</h4>
+			<li id="post-179605" class="post-179605 post type-post status-publish format-standard hentry category-do-this-2 tag-mainetoday-magazine">
+			<a href="http://mainetoday.com/do-this-2/new-years-eve-way/">
+								<h4 class="title">Do New Year’s Eve your way</h4>
 			</a>
 		</li>
-			<li id="post-172400" class="post-172400 post type-post status-publish format-standard has-post-thumbnail hentry category-do-this-2 category-eat-drink tag-mainetoday-magazine">
-			<a href="http://mainetoday.com/do-this-2/food-trucks-congregate-congdons-nightly-feast/">
-				<img width="150" height="150" src="https://i0.wp.com/mainetoday.com/wp-content/uploads/2018/05/97123-20180524_food-truck2.jpg?resize=150%2C150" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i0.wp.com/mainetoday.com/wp-content/uploads/2018/05/97123-20180524_food-truck2.jpg?resize=150%2C150 150w, https://i0.wp.com/mainetoday.com/wp-content/uploads/2018/05/97123-20180524_food-truck2.jpg?resize=125%2C125 125w, https://i0.wp.com/mainetoday.com/wp-content/uploads/2018/05/97123-20180524_food-truck2.jpg?zoom=2&amp;resize=150%2C150 300w, https://i0.wp.com/mainetoday.com/wp-content/uploads/2018/05/97123-20180524_food-truck2.jpg?zoom=3&amp;resize=150%2C150 450w" sizes="(max-width: 150px) 100vw, 150px">				<h4 class="title">Food trucks congregate at Congdon’s for a nightly feast</h4>
+			<li id="post-179563" class="post-179563 post type-post status-publish format-standard has-post-thumbnail hentry category-do-this-2 tag-mainetoday-magazine">
+			<a href="http://mainetoday.com/do-this-2/opera-maine-hosts-winter-serenade/">
+				<img width="150" height="150" src="https://i2.wp.com/mainetoday.com/wp-content/uploads/2018/12/179563_421727-DSC_1750-683x1024-2.jpg?resize=150%2C150" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i2.wp.com/mainetoday.com/wp-content/uploads/2018/12/179563_421727-DSC_1750-683x1024-2.jpg?resize=150%2C150 150w, https://i2.wp.com/mainetoday.com/wp-content/uploads/2018/12/179563_421727-DSC_1750-683x1024-2.jpg?resize=125%2C125 125w, https://i2.wp.com/mainetoday.com/wp-content/uploads/2018/12/179563_421727-DSC_1750-683x1024-2.jpg?zoom=2&amp;resize=150%2C150 300w, https://i2.wp.com/mainetoday.com/wp-content/uploads/2018/12/179563_421727-DSC_1750-683x1024-2.jpg?zoom=3&amp;resize=150%2C150 450w" sizes="(max-width: 150px) 100vw, 150px">				<h4 class="title">Opera Maine hosts winter serenade</h4>
 			</a>
 		</li>
 		</ul><!-- .dpe-flexible-posts -->
@@ -641,14 +722,14 @@ googletag.cmd.push(function() { googletag.display('pos_btf_728x90'); });
 <li id="feature-roll">
                 
 <div class="image-crop">
-   <a href="http://mainetoday.com/restaurant-bar-guide/sammys-deluxe/"><img data-original="" src="https://i2.wp.com/mainetoday.com/wp-content/uploads/2018/04/Sammys-Deluxe-Feb-4.jpg?fit=800%2C534" class="lazy" alt="mainetoday"></a>
+   <a href="http://mainetoday.com/restaurant-bar-guide/musette/"><img data-original="" src="https://i0.wp.com/mainetoday.com/wp-content/uploads/2018/10/Musette-March-8.jpg?fit=800%2C504" class="lazy" alt="mainetoday"></a>
 </div>
                                     
 <h2>
-  <a href="http://mainetoday.com/restaurant-bar-guide/sammys-deluxe/" rel="bookmark" title="Sammy’s Deluxe">Sammy’s Deluxe</a>
+  <a href="http://mainetoday.com/restaurant-bar-guide/musette/" rel="bookmark" title="Musette">Musette</a>
 </h2>
                                 
-<div class="location"><p><a href="http://mainetoday.com/restaurant-bar-guide/sammys-deluxe/">488 Main St., Rockland, ME, 04841</a></p></div>
+<div class="location"><p><a href="http://mainetoday.com/restaurant-bar-guide/musette/">2 Pier Road, Kennebunkport, ME, 04046</a></p></div>
 
 </li>					
 </ul>       																					
@@ -659,14 +740,14 @@ googletag.cmd.push(function() { googletag.display('pos_btf_728x90'); });
 <li id="feature-roll">
                 
 <div class="image-crop">
-   <a href="http://mainetoday.com/restaurant-bar-guide/bolster-snow-co/"><img data-original="" src="https://i0.wp.com/mainetoday.com/wp-content/uploads/2018/02/Bolster.jpg?fit=800%2C534" class="lazy" alt="mainetoday"></a>
+   <a href="http://mainetoday.com/restaurant-bar-guide/lenas-italian-comford/"><img data-original="" src="https://i0.wp.com/mainetoday.com/wp-content/uploads/2018/10/Lenas-Feb-25.jpg?fit=800%2C515" class="lazy" alt="mainetoday"></a>
 </div>
                                     
 <h2>
-  <a href="http://mainetoday.com/restaurant-bar-guide/bolster-snow-co/" rel="bookmark" title="Bolster, Snow &amp; Co.">Bolster, Snow &amp; Co.</a>
+  <a href="http://mainetoday.com/restaurant-bar-guide/lenas-italian-comford/" rel="bookmark" title="Lena’s Italian Comford">Lena’s Italian Comford</a>
 </h2>
                                 
-<div class="location"><p><a href="http://mainetoday.com/restaurant-bar-guide/bolster-snow-co/">747 Congress St., Portland, ME, 04101</a></p></div>
+<div class="location"><p><a href="http://mainetoday.com/restaurant-bar-guide/lenas-italian-comford/">118 Washington Ave. (inside Portland Pottery Cafe), Portland, ME, 04101</a></p></div>
 
 </li>					
 </ul>       																					
@@ -677,14 +758,14 @@ googletag.cmd.push(function() { googletag.display('pos_btf_728x90'); });
 <li id="feature-roll">
                 
 <div class="image-crop">
-   <a href="http://mainetoday.com/restaurant-bar-guide/cong-tu-bot/"><img data-original="" src="https://i1.wp.com/mainetoday.com/wp-content/uploads/2018/01/Cong-Tu-Bot.jpg?fit=800%2C498" class="lazy" alt="mainetoday"></a>
+   <a href="http://mainetoday.com/restaurant-bar-guide/taj/"><img data-original="" src="https://i0.wp.com/mainetoday.com/wp-content/uploads/2018/10/Taj-Feb-26.jpg?fit=800%2C535" class="lazy" alt="mainetoday"></a>
 </div>
                                     
 <h2>
-  <a href="http://mainetoday.com/restaurant-bar-guide/cong-tu-bot/" rel="bookmark" title="Cong Tu Bot">Cong Tu Bot</a>
+  <a href="http://mainetoday.com/restaurant-bar-guide/taj/" rel="bookmark" title="Taj">Taj</a>
 </h2>
                                 
-<div class="location"><p><a href="http://mainetoday.com/restaurant-bar-guide/cong-tu-bot/">57 Washington Ave., Portland, ME, 04101</a></p></div>
+<div class="location"><p><a href="http://mainetoday.com/restaurant-bar-guide/taj/">200 Gorham Road, South Portland, ME, 04106</a></p></div>
 
 </li>					
 </ul>       																					
@@ -712,10 +793,10 @@ googletag.cmd.push(function() { googletag.display('pos_btf_728x90'); });
      <ul>				
 	    
 		<li>
-			<div class="image-crop"><a href="http://mainetoday.com/eat-drink/eatdrink-guides/food-truck-guide-20-southern-maine/"><img src="https://i0.wp.com/mainetoday.com/wp-content/uploads/2018/05/food-trucks-featured.jpg?fit=800%2C568" alt="mainetoday"></a></div>
+			<div class="image-crop"><a href="http://mainetoday.com/maine-travel/most-beautiful-places-in-maine/"><img src="https://i0.wp.com/mainetoday.com/wp-content/uploads/2014/05/QuoddyHeadCROP.jpg?fit=670%2C605" alt="mainetoday"></a></div>
 			<div class="exclusive-overlay">
-				<div class="category">Eat &amp; Drink</div>
-				<div class="title"><a href="http://mainetoday.com/eat-drink/eatdrink-guides/food-truck-guide-20-southern-maine/">Food truck guide: 20+ in southern Maine</a></div>
+				<div class="category">Outdoors</div>
+				<div class="title"><a href="http://mainetoday.com/maine-travel/most-beautiful-places-in-maine/">26 of Maine’s most beautiful places (to see before you die)</a></div>
 			</div>
         </li>
 	
@@ -750,33 +831,9 @@ googletag.cmd.push(function() { googletag.display('pos_btf_728x90'); });
 	    
 		<li>
 	
-			<div class="image-crop"><a href="http://mainetoday.com/eat-drink/get-burger-fix-27-spots-maine/"><img src="https://i1.wp.com/mainetoday.com/wp-content/uploads/2018/01/burger-collage.jpg?fit=800%2C624" alt="mainetoday"></a></div>
+			<div class="image-crop"><a href="http://mainetoday.com/eat-drink/6-soups-cold-day/"><img src="https://i0.wp.com/mainetoday.com/wp-content/uploads/2017/12/soup-collage.jpg?fit=800%2C568" alt="mainetoday"></a></div>
 			<div class="category">Eat &amp; Drink</div>
-			<h2><a href="http://mainetoday.com/eat-drink/get-burger-fix-27-spots-maine/">Get your burger fix at these 26 spots in Maine</a></h2>
-        </li>
-	
-	</ul>
-
-																					
-			<ul>				
-	    
-		<li>
-	
-			<div class="image-crop"><a href="http://mainetoday.com/the-list/patio-season-50-outdoor-decks-to-drink-in-the-sun/"><img src="https://i2.wp.com/mainetoday.com/wp-content/uploads/2016/04/outside-seating-featured-image.jpg?fit=800%2C592" alt="mainetoday"></a></div>
-			<div class="category">Eat &amp; Drink</div>
-			<h2><a href="http://mainetoday.com/the-list/patio-season-50-outdoor-decks-to-drink-in-the-sun/">Take it outside: 40+ decks and patios to eat and drink in the sun</a></h2>
-        </li>
-	
-	</ul>
-
-																					
-			<ul>				
-	    
-		<li>
-	
-			<div class="image-crop"><a href="http://mainetoday.com/maine-travel/most-beautiful-places-in-maine/"><img src="https://i0.wp.com/mainetoday.com/wp-content/uploads/2014/05/QuoddyHeadCROP.jpg?fit=670%2C605" alt="mainetoday"></a></div>
-			<div class="category">Outdoors</div>
-			<h2><a href="http://mainetoday.com/maine-travel/most-beautiful-places-in-maine/">26 of Maine’s most beautiful places (to see before you die)</a></h2>
+			<h2><a href="http://mainetoday.com/eat-drink/6-soups-cold-day/">14 soups for a cold day</a></h2>
         </li>
 	
 	</ul>
@@ -789,6 +846,18 @@ googletag.cmd.push(function() { googletag.display('pos_btf_728x90'); });
 			<div class="image-crop"><a href="http://mainetoday.com/eat-drink/eatdrink-guides/portland-maine-best-brunch/"><img src="https://i1.wp.com/mainetoday.com/wp-content/uploads/2017/04/885123-20170409_Brunch_0235.jpg?fit=3000%2C2322" alt="mainetoday"></a></div>
 			<div class="category">Eat &amp; Drink</div>
 			<h2><a href="http://mainetoday.com/eat-drink/eatdrink-guides/portland-maine-best-brunch/">Brunch: 40+ places to eat it in Portland</a></h2>
+        </li>
+	
+	</ul>
+
+																					
+			<ul>				
+	    
+		<li>
+	
+			<div class="image-crop"><a href="http://mainetoday.com/eat-drink/anyway-slice-get-pizza-southern-maine/"><img src="https://i1.wp.com/mainetoday.com/wp-content/uploads/2018/08/pizza-gallery-featured.jpg?fit=800%2C656" alt="mainetoday"></a></div>
+			<div class="category">Eat &amp; Drink</div>
+			<h2><a href="http://mainetoday.com/eat-drink/anyway-slice-get-pizza-southern-maine/">Anyway you slice it: where to get pizza in southern Maine</a></h2>
         </li>
 	
 	</ul>
@@ -848,13 +917,9 @@ googletag.cmd.push(function() { googletag.display('pos_btf_728x90_0'); });
     
     <div class="copyright">© 2018 MaineToday Media, Inc. </div>
     </div>
-     <!-- Position F ad -->
 
-<div id="pos_f_footer" style="position: fixed;bottom: 0;left: 0;margin-bottom: 0px;width: 100%;height: 50px;background-color: #fff;text-align: center;z-index: 1000000;padding-top: 1px;-moz-box-shadow: #fff 0 -1px 2px;-webkit-box-shadow: #fff 0 -1px 2px;box-shadow: #fff 0 -1px 2px;">
-<script>
-googletag.cmd.push(function() { googletag.display('pos_f_footer'); googletag.pubads().refresh([slotf]); });
-</script>
-</div>
+
+
 <script>
 function twitter(desc) {
      
@@ -917,116 +982,7 @@ jQuery("#super-boost1").detach().insertAfter("#mt-the-loopXX li:nth-of-type(4)")
     document.addEventListener( 'DOMContentLoaded', fn1, false );
 
 };</script>
-<script type="text/javascript">
-	window.ready(function(){
-	//googletag.pubads().refresh([slotsb]);
-	// Refresh the bottom slot when it is about to come into view.
-    var refreshed3 = false;
-	var refreshed0=false;
-	var refreshed4=false;
-	var refreshedn=false;
 
-
-      // Value of scrollY at which the ad is about to come into view.
-      var windowHeight=document.documentElement.clientHeight;
-	console.log('windowheight:' + windowHeight);
-    if( document.getElementById('pos_3_btf_300x250_300x600'))  {
-	var pos3VisibleValue = document.getElementById('pos_3_btf_300x250_300x600').getBoundingClientRect().top  + window.pageYOffset;
-   //  console.log('rectangleTop3:' + pos3VisibleValue);
-	}
-	    if( document.getElementById('pos_btf_728x90'))  {
-	  var pos0VisibleValue = document.getElementById('pos_btf_728x90').getBoundingClientRect().top  + window.pageYOffset;
-			if( pos0VisibleValue > 10000) {pos0VisibleValue = 2000;}
-  //    console.log('rectangleTop0:' + pos0VisibleValue);
-		}
-	 if( document.getElementById('pos_btf_728x90'))  {
-		  var pos4VisibleValue = document.getElementById('pos_btf_728x90_0').getBoundingClientRect().top + window.pageYOffset;
-		 if( pos4VisibleValue > 10000) {pos4VisibleValue = 2400;}
-  //    console.log('rectangleTop4:' + pos4VisibleValue);
-	 }
-		 if( document.getElementById('native_ad'))  {
-		  var posnVisibleValue = document.getElementById('native_ad').getBoundingClientRect().top + window.pageYOffset;
-		
-     console.log('rectangleTopn:' + posnVisibleValue);
-	 }
-
-
-
-      var listener3 = function() {
-        if (window.scrollY >= pos3VisibleValue - windowHeight && !refreshed3) {
-          googletag.cmd.push(function() {
-			  googletag.pubads().refresh([slot3]);
-			  // console.log('Fire 3:'+ window.scrollY);
-			  // console.log('rectangleTop:' + pos3VisibleValue);
-          });
-          // Refresh the ad only once.
-          refreshed3 = true;
-
-          // Remove the listener now.
-          window.removeEventListener('scroll', listener3);
-        }
-      }
-	  
-	        var listener0 = function() {
-        if (window.scrollY >= pos0VisibleValue - windowHeight && !refreshed0) {
-          	googletag.cmd.push(function() {
-            googletag.pubads().refresh([slot0]);
-            // console.log('Fire 0:'+ window.scrollY);
-			// console.log('0rectangleTop:' + pos0VisibleValue);
-          });
-          // Refresh the ad only once.
-          refreshed0 = true;
-
-          // Remove the listener now.
-          window.removeEventListener('scroll', listener0);
-        }
-      }
-			    var listener4 = function() {
-        if (window.scrollY >= pos4VisibleValue - windowHeight && !refreshed4) {
-          	googletag.cmd.push(function() {
-            googletag.pubads().refresh([slot4]);
-            // console.log('Fire 4:'+ window.scrollY);
-			// console.log('4rectangleTop:' + pos4VisibleValue);
-          });
-          // Refresh the ad only once.
-          refreshed4 = true;
-
-          // Remove the listener now.
-          window.removeEventListener('scroll', listener4);
-        }
-      }
-				
-				  var listenern = function() {
-        if (window.scrollY >= posnVisibleValue - windowHeight && !refreshedn) {
-          	googletag.cmd.push(function() {
-            googletag.pubads().refresh([slotn]);
-            console.log('Fire n:'+ window.scrollY);
-			console.log('nrectangleTop:' + posnVisibleValue);
-          });
-          // Refresh the ad only once.
-          refreshedn = true;
-
-          // Remove the listener now.
-          window.removeEventListener('scroll', listenern);
-        }
-      }
-      window.addEventListener('scroll', throttle(listener3, 200));
-	  window.addEventListener('scroll', throttle(listener0, 200));
-	  window.addEventListener('scroll', throttle(listener4, 200));
-	window.addEventListener('scroll', throttle(listenern, 200));
-
-    function throttle(fn, wait) {
-  var time = Date.now();
-  return function() {
-    if ((time + wait - Date.now()) < 0) {
-      fn();
-      time = Date.now();
-    //	console.log(window.scrollY);
-    }
-  }
-}
-		});
-</script>
 
 	<div style="display:none">
 	</div>
@@ -1055,12 +1011,6 @@ var ajax = {"url":"http:\/\/mainetoday.com\/wp-admin\/admin-ajax.php"};
 <script type="text/javascript" src="https://maps.google.com/maps/api/js?sensor=true%2Ffalse&amp;key=AIzaSyCf6kgKCbbn5yu_goeJ7Mp_ZojpNa9ls10"></script>
 <script type="text/javascript" src="http://mainetoday.com/wp-content/plugins/easy2map/scripts/easy2map.js"></script>
 <script type="text/javascript" id="slb_context">/* <![CDATA[ */if ( !!window.jQuery ) {(function($){$(document).ready(function(){if ( !!window.SLB ) { {$.extend(SLB, {"context":["public","user_guest"]});} }})})(jQuery);}/* ]]> */</script>
-<script type="text/javascript" src="https://stats.wp.com/e-201823.js" async="" defer=""></script>
-<script type="text/javascript">
-	_stq = window._stq || [];
-	_stq.push([ 'view', {v:'ext',j:'1:5.7.1',blog:'142094467',post:'50943',tz:'-4',srv:'mainetoday.com'} ]);
-	_stq.push([ 'clickTrackerInit', '142094467', '50943' ]);
-</script>
 
 
 </div></div></div></body></html>
