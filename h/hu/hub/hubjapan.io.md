@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hubjapan.io privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628210817id_/https%3A//hubjapan.io/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hubjapan.io privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228230045id_/https%3A//hubjapan.io/policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hub Japan
 
@@ -181,7 +181,7 @@ The Company uses commercially reasonable physical, managerial, and technical saf
 
 Any suggestions, questions, complaints, or other inquiries on the handling of the User's Information must be submitted to:
 
-Address: Ogawamachi Kita Building 3F, 1 Chome-8-3 Kanda Ogawamachi, Chiyoda-ku, Tokyo 101-0052, Japan  
+Address: Nittochi Building 2F SENQ Kasumigaseki, 1-4-1 Kasumigaseki, Chiyoda-ku, Tokyo 100-0013, Japan  
 Ashinote, Inc. Customer Support Center (Sosuke Kimura)  
 Email：support@ashinote.com  
 
