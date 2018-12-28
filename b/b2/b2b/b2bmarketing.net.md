@@ -1,75 +1,149 @@
-> *The following text is extracted and transformed from the b2bmarketing.net privacy policy that was archived on 2018-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180419125847id_/http%3A//www.b2bmarketing.net/en-gb/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the b2bmarketing.net privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228120055id_/http%3A//www.b2bmarketing.net/en-gb/privacy) for the most accurate reproduction.*
 
-# Privacy | B2B Marketing
+# B2B Marketing privacy policy | B2B Marketing
 
-Untitled Document
+Effective: 25 May 2018
 
-This policy explains how B2B Marketing collects, stores, uses and shares personal information (including but not limited to information from which you can be personally identified such as your name, address, email address, or telephone number) and information about your visits to the network, including the pages you view, the links you click and other actions taken in connection with www.b2bmarketing.net (“Your Data”).  It is important that you read and understand this Privacy Policy ("Policy").
+This Privacy Policy describes how B2B Marketing as a data controller to collect, use and disclose information, and what choices you have with respect to this.
 
-B2B Marketing may update this Policy at any time. It is your responsibility to check for updates to this Policy, as your continued use of the Website and B2B Marketing Services denotes an  acceptance of this Policy.   Unless stated otherwise, B2B Marketing's current Policy applies to all information that B2B Marketing have about you and your account.
+When we refer to ‘B2B Marketing’ we mean the business entity that acts as the controller or processor of your information. The data controller is Silver Bullet Publishing Limited t/a B2B Marketing.
 
-For the purposes of the Data Protection Act 1998 (the "Act"), the data controller is Silver Bullet Publishing Limited t/a B2B Marketing of Clover House, 147-149 Farringdon Road, London, EC1R 3HN.
+### For an at-a-glance infographic version of our Privacy Policy, click the button below.
 
-Capitalised words in this Policy unless otherwise indicated shall have the same meanings as defined in our Terms and Conditions.
+### How to contact us
 
-## 1\. Data Collected
+Please feel free to contact us if you have any questions about this Privacy Policy or if you are seeking to exercise any of your statutory rights.  
+[info@b2bmarketing.net](mailto:info@b2bmarketing.net)  
++44 (0)207 014 4920  
+UK Head office: The Data Protection Officer. B2B Marketing Ltd. Clover House, 147-149 Farringdon Road, London, EC1R 3HN, UK.
 
-1.1 Membership Data inc Events
+### What and who does this Privacy Policy apply to?
 
-To set up a B2B Marketing account, in order for you to become a Member or an event delegate, you are required to complete the registration process. This process requires you to provide certain personal information such as your name, email address, telephone number, company name and job title as well as information about your company such as country and industry sector. B2B Marketing may also collect user profile information such as age, gender, postcode, and areas which B2B Marketing thinks may be of special interest to you. For the avoidance of doubt, Members acknowledge and confirm that all information they supply in their Member profile will be viewable by all Users of the Website via the Member Directory.
+This Privacy Policy applies to both individuals and companies who are our registered free members, Premium and Enterprise members, Leaders programme members, customers, purchasers and delegates of our online content, our training courses and programmes, our free and chargeable events, webinars, podcasts and any other registered-user content we provide, along with any other interactions (e.g. customer enquiries) you may have with B2B Marketing.
 
-1.2 User Communications
+### Why we process your data
 
-When you send email or other communication to B2B Marketing or another User, B2B Marketing may retain those communications in order to process your enquiries, respond to your requests and to improve B2B Marketing services.
+We may process your data for a number of different purposes:
 
-1.3 Affiliated Sites
+  * To keep you up to date with the latest, relevant content we have published.
+  * To administer any membership you have with us.
+  * To administer any training course, programme or event delegate bookings you have bought from us.
+  * To keep you up to date with and invite you to any of our latest, relevant events, training programmes, webinars or podcasts we are producing.
+  * To collect your feedback and seek your insight through online survey invitations.
+  * To give you access to content and events provided by our approved third party partners.
 
-B2B Marketing may offer services in connection with other web sites or suppliers. Personal information that you provide to those sites may be sent to B2B Marketing in order to deliver these services.  B2B Marketing process such information in accordance with this Policy.
 
-1.4 Cookies
 
-Our online services may use cookies (small pieces of information that are stored by your browser on your computer, tablet or other web browsing device's hard drive) “Cookies”.  B2B Marketing Cookies do not contain any personally identifying information, but they enable B2B Marketing to store your delivery details between visits so that you don't have to re-enter information every time you return to a B2B Marketing site. By using B2B services you consent to the downloading of cookies to your computer, tablet or other web browsing device as appropriate.
+### Our lawful basis for processing your data
 
-## 2\. Use and Sharing of Information
+It’s in B2B Marketing’s legitimate business interest to keep its customers, members and contacts informed of our latest content, products and services and to manage and administer their memberships and purchases. 
 
-2.1 B2B Marketing's Use of Information
+We process customer and client data and use direct marketing as part of this legitimate interest. It’s necessary for us to use a variety of direct marketing channels and messages to ensure our contacts are kept informed, and wherever possible we make sure the messages we send are targeted and relevant. Any direct marketing we undertake complies with e-privacy rules on consent.
 
-B2B Marketing collects and uses your personal and activity information, as described above, to operate and improve its services or to carry out the transactions you request. These uses may include making B2B Marketing services easier to use by eliminating the need for you to enter the same information repeatedly, for research and analysis to improve B2B Marketing services and technologies, to display customised content and advertising, to contact you in connection with your enquiries, surveys, your Account or to deliver promotional material, and to provide anonymous reporting to B2B Marketing Channel Owners.
+We will keep your data safely and securely for as long as necessary or according to your instructions, and we review the data we hold at least once every two years. If you’d like more information about how we store your data, please contact us directly.
 
-B2B Marketing may store and process personal information collected on www.b2bmarketing.net or other B2B Marketing Web sites in the UK or any other country including outside the European Economic Area ("EEA") in which B2B Marketing or its affiliates, subsidiaries or agents maintain facilities, and by using a B2B Marketing service, you consent to any such transfer of your information outside your country and the EEA. 
+In particular you could expect to receive from us:
 
-2.2 Sharing of Information
+  * A weekly email update bulletin highlighting our latest trending content, downloadable reports, and forthcoming events and training.
+  * A weekly email Partner Bulletin highlighting our latest third party partner content, including whitepapers, webinars and guides.
+  * A weekly or bi-weekly email update on forthcoming events.
+  * Occasional email updates on surveys or webinars we are running or new reports (or partner reports) we have published.
+  * Occasional direct mailings or telemarketing calls about our forthcoming training, content or events.
+  * Occasional account management calls to check in on how you are getting on with any of our products or services you use.
+  * You can manage your preferences and unsubscribe from any or all of these different types of email at any time.
 
-B2B Marketing will not share or sell personal information about you with third parties or non-affiliated companies except to provide the products or services you have requested, when B2B Marketing have your permission, when you opt-out at the membership registration process, or under the following circumstances:
 
-i) When you sign up to a Partner Downloadable Content “PDC", you must accept all the terms and conditions of this Policy and the General User Agreement before accessing any service provided on, through or by the B2B Marketing Partner Downloadable Content ("PDC Services"). If you do not accept the terms and conditions of this Policy, then you cannot access the PDC Services. Access to the PDC Services is conditional upon your acceptance of this Policy.  Once accepted, B2B Marketing may share your personal information with that partner in order to fulfil the offer or service, and you consent to such partner contacting you (although they shall not be obliged to) as a result of the request of either product or service.
 
-ii) If you are Attendees to an Online Event you consent to our sharing the following Data:
+[Click here to update your preferences. ](https://web.archive.org/confirm-your-email-preferences)
 
-(a) Data from Attendee's Member profile, and/or collected upon registration to view the Online Event with  the relevant Event   Sponsors and Channel Owners; and
+### Types of data we collect
 
-(b) Details of the content you have viewed on that Channel and viewing times with the relevant Channel Owner.
+When you register on our website or purchase any of our professional development services we’ll collect the kind of standard, non-sensitive information you would expect a B2B supplier to request. For example, we’ll ask for your:
 
-For the purpose of this agreement, "Event Sponsor" means any third party who sponsors an Event in exchange for brand promotion, thought leadership opportunities, and the leads generated from the Event audience where applicable.
+  * Your name
+  * Your job title
+  * Your job role
+  * Your email address and contact number
+  * Your postal address
+  * A password (for website access)
+  * The name of the organisation you work for
+  * The type of industry you work in
+  * The number of employees in your organisation (by band)
+  * Your dietary requirements (if you’re attending one of our events)
+  * (And we’ll collect and store data on the transactions and purchases you make with us.)
 
-Attendees agree that the relevant Channel Owner or Event Sponsor may contact Attendees for such purposes as replying to Attendee queries, improving their services, conducting surveys, to deliver promotional material to Attendees. Event Sponsors receiving personal information from B2B Marketing do not have any independent right to share this information. In registering with a Channel to view an Online Event Attendees agree that Attendee's personal and other information may be shared with the Event Sponsor and we encourage you to review the relevant Event Sponsor's own privacy policy to ensure Attendee is satisfied with the provisions. Except as previously stated, B2B Marketing does not control the activities of Event Sponsors or Channel Owners in the control and protection of personal information.
 
-ii)  Notwithstanding the foregoing, B2B Marketing may provide your personal information to a subsidiary of B2B Marketing, any affiliated companies or other trusted businesses or persons, acting under a confidentiality agreement, for the purpose of processing personal information on behalf of B2B Marketing. These parties are required to process such information based on instructions from B2B Marketing and in accordance with this Policy. They do not have any independent right to share this information.
 
-iii) B2B Marketing may share your personal information with a credit checking company or with a credit card processing company to bill users for B2B Marketing services. These third parties do not retain, share, or store any personally identifiable information except to provide these services and are bound by strict confidentiality agreements which limit their use of such information.
+### Use of cookies
 
-iv) Where B2B Marketing believe that it is necessary to disclose such information to satisfy any applicable law, regulation, legal process or enforceable government request, to enforce  B2B Marketing's terms and conditions and investigate violations thereof, to prevent, detect and address fraud, security or technical issues, or to protect against harm to the rights and property of B2B Marketing and its users as required or permitted by law.
+B2B Marketing uses cookies and other third party tracking technologies in our websites and across other websites that help us collect other information about our customers’ and users’ preferences. You can choose to permit or restrict the use of these technologies through your personal browser settings. B2B Marketing cookies do not contain any personally identifying information,
 
-v)  B2B Marketing may transfer Your Data if B2B Marketing is acquired by or merged with another company.  B2B Marketing will provide notice before this occurs and will post a new Policy if necessary.
+### Third party data
 
-## 3\. Security
+B2B Marketing may receive data about organisations, industries, website visitors, marketing campaigns and other matters related to our business from our partners, affiliates or others, that we use to make our own information better or more useful.
 
-3.1 To secure your personal information, access to Your Data is password protected, and sensitive information is protected by encryption when it is exchanged between your Web browser and the B2B Marketing Web site. It is your responsibility to keep your password confidential and not to share this information with anyone. To protect data stored on B2B Marketing servers, B2B Marketing regularly audit B2B Marketing's system for possible vulnerabilities and attacks. Whilst B2B Marketing will implement the security measures detailed above, transmission of information via the internet is not completely secure and therefore transmission via the internet is at your own risk.
+This data may be combined with other information we collect and might include aggregate level data, such as which IP addresses correspond to zip codes or countries. Or it might be more specific: for example, how well an online marketing or email campaign performed.
 
-3.2 Any information provided by you in connection with any transaction regarding your credit or debit card numbers, expiry date and billing or delivery address will be used by B2B Marketing to process the transaction. These details will be stored on a secure server and may be used by B2B Marketing to facilitate and personalise future transactions with you.
+### Additional information provided to B2B Marketing
 
-3.3 To remove all your details from future promotional communication from B2B Marketing please email privacypolicy@b2bmarketing.net and specify which details you would like removed and from what source. You must have the permission to suppress other individual's data, if you are doing so on their behalf. Users have the right, by written request and on payment of a small fee, to a copy of any personal data (as defined in the Data Protection Act 1998), which we hold about you.
+We may receive and store other information when submitted to our websites or if you participate in a focus group, contest, activity or event, apply for a job, request support, interact with our social media accounts or otherwise communicate with B2B Marketing.
 
-Please send any comments about this website or privacy policy to privacypolicy@b2bmarketing.net or call +44 (0) 20 7014 4920.
+### Recipients of the data we collect
 
-This privacy policy is compiled in English and in German. In whatever case of discordance between the two texts or doubts about their interpretation, the English one will prevail.
+In some cases we will share the data we collect from you with trusted third party content providers to support our business. We always let you know this before we collect your data, so you can make an informed decision.
+
+#### Specific cases where we may do this are:
+
+ **1\. Digital content supplied by our partners, e.g. whitepapers, guides, surveys, webinars**
+
+In these cases we’ll ask you to complete an online form to gain access to this content. We will always tell you the name of the partner (company) with which we will be sharing the data collected in the form. 
+
+ **2\. Offline content delivered by our partners at our face to face events**
+
+In these cases you may have attended a presentation or face to face session by one or more of our content partners at one of our events, like B2B Marketing Ignite, the B2B Marketing Conference or InTech, or a partner event co-hosted by B2B Marketing.
+
+When you register for these sessions we will always tell you the name of the partner (company) with which we will be sharing the data we collected from you.
+
+### Our expectations of our content partners
+
+Any personal data we share with our content partners is shared only the basis that the data will be used by the partner under a lawful basis of legitimate interest and according to the requirements of the GDPR. We specify this in our contracts with all our content partners.
+
+#### Data processing partners
+
+B2B Marketing may provide your personal information to a subsidiary of B2B Marketing, any affiliated companies or other trusted businesses or persons, acting under a confidentiality agreement, for the purpose of processing personal information on behalf of B2B Marketing.
+
+These parties are required to process such information based on instructions from B2B Marketing and in accordance with this Policy. They do not have any independent right to share this information.
+
+B2B Marketing may transfer Your Data if B2B Marketing is acquired by or merged with another company. B2B Marketing will provide notice before this occurs and will post a new Policy if necessary.
+
+#### Credit checking
+
+B2B Marketing may share your personal information with a credit checking company or with a credit card processing company to bill users for B2B Marketing services. These third parties do not retain, share, or store any personally identifiable information except to provide these services and are bound by strict confidentiality agreements which limit their use of such information.
+
+#### Your rights over the personal data we hold
+
+You can reasonably request access to the personal data we hold on you, at any time, and we will provide that information free of charge within one month of your request at the latest.
+
+You can request inaccurate or incomplete personal data held on you to be rectified or completed or for your personal data to be suppressed or erased, and we will respond within one month of your request at the latest.
+
+We will supply any data you request in a CSV file.
+
+### Your right to object
+
+You have the right to opt out of our direct marketing at any point, and we will deal with your request right away. You can unsubscribe from our emails automatically [by submitting this unsubscribe form](https://web.archive.org/confirm-your-email-preferences). Alternatively, you can amend your email preferences via our preference centre. To opt out of our direct mail or telephone marketing please call us on +44 (0)207 014 4920 or email [info@b2bmarketing.net](mailto:info@b2bmarketing.net)
+
+#### Data Protection Authority
+
+You have the right to raise a concern or lodge a complaint with a supervisory authority. In the case of residents of the UK [please see more information here](https://ico.org.uk/concerns/).
+
+#### Data security
+
+To secure your personal information, access to your data is password protected. It is your responsibility to keep your password confidential and not to share this information with anyone.
+
+To protect data stored on B2B Marketing servers, B2B Marketing regularly audits our system for possible vulnerabilities and attacks. While B2B Marketing will implement the security measures detailed above, transmission of information via the internet is not completely secure and therefore transmission via the internet is at your own risk.
+
+B2B Marketing may store and process personal information collected on [www.b2bmarketing.net](http://www.b2bmarketing.net/) or other B2B Marketing Web sites in the UK or any other country including outside the European Economic Area ("EEA") in which B2B Marketing or its affiliates, subsidiaries or agents maintain facilities.
+
+### Changes to this Privacy Policy 
+
+We review our data protection and privacy procedures and policy regularly and post any changes to our Privacy Policy on this page. We will inform you via email of revisions to the privacy policy. 
