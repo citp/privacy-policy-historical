@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bath.ac.uk privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628214712id_/http%3A//www.bath.ac.uk/web/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bath.ac.uk privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229003603id_/http%3A//www.bath.ac.uk/web/privacy) for the most accurate reproduction.*
 
 # Privacy and cookie policy
 
@@ -54,14 +54,16 @@ This data is used by us and our agents.
 
 These are the cookies we use with links to the relevant cookie policy:
 
-  * [Vimeo](https://vimeo.com/cookie_policy)
-  * [Flickr](https://policies.yahoo.com/us/en/yahoo/privacy/products/flickr/index.htm)
-  * [Google Analytics](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage)
-  * [Google advertising](https://policies.google.com/technologies/ads)
-  * [LinkedIn](https://www.linkedin.com/legal/cookie-policy)
   * [Facebook](https://www.facebook.com/policies/cookies/)
-  * [Microsoft Forms](https://support.office.com/en-ie/article/security-and-privacy-in-microsoft-forms-7e57f9ba-4aeb-4b1b-9e21-b75318532cd9)
+  * [Flickr](https://policies.yahoo.com/us/en/yahoo/privacy/products/flickr/index.htm)
   * [GeckoForm and GeckoChat](https://www.geckoengage.com/privacy-policy/)
+  * [Google Analytics](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage)
+  * [Google Advertising](https://policies.google.com/technologies/ads)
+  * [LinkedIn](https://www.linkedin.com/legal/cookie-policy)
+  * [Mailchimp](https://mailchimp.com/legal/privacy/)
+  * [Microsoft Forms](https://support.office.com/en-ie/article/security-and-privacy-in-microsoft-forms-7e57f9ba-4aeb-4b1b-9e21-b75318532cd9)
+  * [SnapChat](https://www.snap.com/en-GB/privacy/privacy-policy/)
+  * [Vimeo](https://vimeo.com/cookie_policy)
 
 
 
@@ -75,6 +77,7 @@ You can opt out of these third party remarketing cookies on the following pages:
   * opt out of [Google Analytics](https://tools.google.com/dlpage/gaoptout/)
   * opt out of [LinkedIn advertising](https://www.linkedin.com/psettings/guest-controls/retargeting-opt-out)
   * change your [Facebook settings](https://en-gb.facebook.com/help/568137493302217)
+  * change your [SnapChat preferences](https://support.snapchat.com/en-GB/a/advertising-preferences)
 
 
 
