@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acponline.org privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628112455id_/https%3A//www.acponline.org/acp-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acponline.org privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228172021id_/https%3A//www.acponline.org/acp-privacy-policy) for the most accurate reproduction.*
 
 # ACP Privacy Policy | ACP
 
@@ -112,7 +112,7 @@ _Online interest based Advertising:_ You can manage or turn off ad personalizati
 
 _Cookies:_ You may use the ACP's web sites without accepting cookies. The "Help" function in your web browser explains how to manage cookies while using the Internet. Please note, however, that some services, such as the Internal Medicine Meeting Day Planner, the Shopping Cart, MyACP, and the SSO system will not work if your browser will not accept cookies.
 
-_Email promotional communications:_ To delete your name from our email contact lists you can change the preferences directly via MyACP ([www.acponline.org/myacp](https://www.acponline.org/myacp)), by contacting Member and Customer Service directly at: [www.acponline.org/contact](https://www.acponline.org/contact) or by clicking the "unsubscribe" link found in every email sent to you.
+_Email promotional communications:_ To delete your name from our email contact lists you can change the preferences directly via MyACP ([www.acponline.org/myacp](https://www.acponline.org/myacp)), by contacting Member and Product Support directly at: [www.acponline.org/contact](https://www.acponline.org/contact) or by clicking the "unsubscribe" link found in every email sent to you.
 
 _Removal from Member Directory:_ To request exclusion from the ACP Member Directory, please submit your request via [www.acponline.org/contact](https://www.acponline.org/contact).
 
@@ -126,7 +126,7 @@ Our secure server enables you to transmit a credit card number to us with confid
 
 If EU data protection laws apply to our processing of your information, you are entitled by law to access, correct, amend, or delete personal information about you that we hold. A list of these rights is below and additional information is available in our [message about GDPR](https://www.acponline.org/acp-privacy-policy/gdpr).
 
-You can control the information we have about you and how we use it in several ways. If you are a registered user, you can review, revise, and correct the personal data that you have provided to ACP directly via MyACP ([www.acponline.org/myacp](https://www.acponline.org/myacp)), or by contacting Member and Customer Service directly at: [www.acponline.org/contact](https://www.acponline.org/contact). You can request that data be deleted or make another request in connection with the rights below by contacting us via this same link.
+You can control the information we have about you and how we use it in several ways. If you are a registered user, you can review, revise, and correct the personal data that you have provided to ACP directly via MyACP ([www.acponline.org/myacp](https://www.acponline.org/myacp)), or by contacting us directly at: [www.acponline.org/contact](https://www.acponline.org/contact). You can request that data be deleted or make another request in connection with the rights below by contacting us via this same link.
 
 In the event that we refuse a request under rights of access, we will provide the individual with a reason as to why. Individuals in the EU have the right to complain as outlined in the "Complaints" section.
 
@@ -175,10 +175,10 @@ You must be 18 years or older to use our Services We do not knowingly accept per
 
 #### Questions and Complaints
 
-If you have any questions or complaints about our privacy practices, please contact Member and Customer Service directly at: [www.acponline.org/contact](https://www.acponline.org/contact) or in writing to:
+If you have any questions or complaints about our privacy practices, please contact us directly at: [www.acponline.org/contact](https://www.acponline.org/contact) or in writing to:
 
 American College of Physicians, Inc.  
-Member and Customer Service  
+Member and Product Support  
 190 N. Independence Mall West  
 Philadelphia, PA 19106  
 (p) 800-523-1546
