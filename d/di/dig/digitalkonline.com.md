@@ -1,128 +1,131 @@
-> *The following text is extracted and transformed from the digitalkonline.com privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905122058id_/http%3A//www.digitalkonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalkonline.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229003810id_/https%3A//www.digitalkonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Digital K (Kelly Ward)
 
-Digital K, LLC (“Digital K”, “we”, “us”, or “our”) is committed to protecting your privacy. This Privacy Policy (“Policy”) applies to your use of Digital K’s website located at [www.digitalkonline.com](http://www.digitalkonline.com/) on all platforms (the “Website”).
+Digital K LLC (“ **Company** ,” “ **we** ,” or “ **us** ”) respects your privacy and is committed to protecting it through this Privacy Policy.
 
-Digital K is a United States limited liability company subject to the laws of the United States. This Policy describes how we collect, use, and disclose information in the United States. The United States may not offer a level of privacy protection as great as that offered in other jurisdictions. In jurisdictions outside of the United States where we are subject to different or more restrictive local laws, we may adjust our practices in those jurisdictions to comply with local laws. Otherwise, we make no representation that the practices described in this Policy are compliant with laws outside of the United States that apply to the collection, security, use, and disclosure of information. Information that is collected or stored in jurisdictions outside of the United States may, subject to applicable law, be disclosed or transferred to the United States or other locations. When information is transferred to the United States, it will be handled in accordance with the laws of the United States.
+This Privacy Policy governs your access to and use of digitalkonline.com, including any content, functionality and services offered on or through digitalkonline.com (the “ **Website** “), whether as a guest or a registered user.
 
-By using this Website, you agree to the privacy practices described in this Policy.
+When accessing the Website, the Company will learn certain information about you, both automatically and through voluntary actions you may take, during your visit. This policy applies to information we collect on the Website and in email, text, or other electronic messages between you and the Website.
 
-**1\. INFORMATION WE COLLECT**
+Please read the Privacy Policy carefully before you start to use the Website. **By using the Website or by clicking to accept or agree to the Terms of Use when this option is made available to you, you accept and agree to be bound and abide by the Privacy Policy.** If you do not want to agree to the Privacy Policy, you must not access or use the Website.
 
-The Website collects two kinds of information about you: (a) personally identifiable information; and (b) non-personally identifiable information.
+**Children Under The Age Of 13**
 
-**a. Personally Identifiable Information.** Personally identifiable information is information that identifies you or another person. When you engage in certain activities on the Website, we may ask you to provide certain personal information about yourself, including: (i) your name, address, phone number, country, email address, and other basic contact information; (ii) your preferences, content, access device information, and payment information; (iii) reviews, photographs, videos, and other content; and (iv) communications and other messages, including correspondence between Digital K and you.
+Our Website is not intended for children under 13 years of age. No one under age 13 may provide any information to or on the Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Website or on or through any of its features/register on the Website, make any purchases through the Website, use any of the interactive or public comment features of this Website or provide any information about yourself to us, including your name, address, telephone number, email address, or any screen name or user name you may use.
 
-You may decline to provide personally identifiable information through the Website. However, depending on the activity, some of the information we ask you to provide is mandatory. If you decline to provide the mandatory information for a particular activity that requires it, we may not be able to provide that service to you.
+If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at info@digitalkonline.com.
 
-**b. Non-Personally Identifiable Information.** Non-personally identifiable information is information that does not identify you or another person. Non-personally identifiable information includes: (i) session and usage data; (ii) log data; and (iii) aggregate information.
+**Information We Collect About You**
 
-**i. Session and Usage Data.** Session and usage data is information about your use of the Website, without limitation, connection and service-related data submitted to us through the use of the Website. Session and usage data includes information relating to the connection request, server communication, and data sharing, including: network measurements; quality of service; time and date of the use of the Website; and upon your consent, your location. We may also aggregate session and usage data as described in the aggregate information section below. Session and usage data does not include any personally identifiable information nor does it include content you may transmit or share through the use of the Website (such as name, address, and calendar appointments).
+When you access the Website, the Company will learn certain information about you during your visit.
 
-**ii. Log Data.** When you interact with us or use the Website, our systems may automatically collect your unique user device number, the IP address, type of browser or operating system you use, and the dates and times of your use.
+_Information You Provide To Us_. The Website provides various places for users to provide information. We collect information that users provide by filling out forms on the Website, communicating with us via contact forms, responding to surveys, search queries on our search feature, providing comments or other feedback, and providing information when ordering a product or service via the Website.
 
-**iii. Aggregate Information.** Aggregate information is data we collect about a group or category of services or users from which individual user identities have been removed. In other words, information on how you use the Website, may be collected and combined with information about how others use the Website, but no personally identifiable information will be included in the resulting aggregate information. Aggregate information helps us understand trends in our users’ needs so that we can better consider new features or otherwise tailor the Website.
+We use information you provide to us to deliver the requested product and/or service, to improve our overall performance, and to provide you with offers, promotions, and information.
 
-**2\. HOW WE USE YOUR INFORMATION**
+_Information We Collect Through Automatic Data Collection Technology_. As you navigate through our Website, we may use automatic data collection technologies including Google Analytics to collect certain information about your equipment, browsing actions, and patterns. This will generally include information about your location, your traffic pattern through our website, and any communications between your computer and our Website.  Among other things, we will collect data about the type of computer you use, your Internet connection, your IP address, your operating system, and your browser type.
 
-**a. Personally Identifiable Information.** We may use your personally identifiable information to: (i) provide products and services; (ii) resolve disputes, calculate and collect fees, and troubleshoot problems; (iii) verify your identity and the information you provide; (iv) encourage a safe online experience and enforce our policies; (v) customize your experience, analyze usage of the Website, improve and measure interest in our products and services, and inform you about the Website, services, products, and updates; (vi) provide you with information that may affect your use of the Website, the products and services; (vii) communicate marketing and promotional offers; (viii) provide customer service, including receipts; and (ix) perform certain other business activities.
+The information we collect automatically is used for statistical data and will not include personal information. We use this data to improve our Website and our service offerings. To the extent that you voluntarily provide personal information to us, our systems will associate the automatically collected information with your personal information.
 
-During the course of our business, we may use your personally identifiable information to deliver information to you that is targeted to your interests. Upon receipt of the first communication of this type, you will have the opportunity to opt-out of future communications by clicking on unsubscribe link or by following unsubscribe instructions described within the communication or otherwise notifying us at info@digitalkonline.com. We may, however, send you messages through email or other means of communications as part of our services regarding administrative matters, updates, disputes, and customer service issues regarding the products or services, and you will not be able to opt out of receiving such messages.
+**Use of Cookies And Pixels**
 
-From time to time, we may implement solutions designed to more efficiently capture your communications preferences. In any such event, we will strive to reflect any previously stated communicated preferences within such solutions.
+Similar to other commercial websites, our website utilizes a standard technology called “cookies” and server logs to collect information about how our site is used. Information gathered through cookies and server logs may include the date and time of visits, the pages viewed, time spent at our site, and the websites visited just before and just after our own, as well as your IP address.
 
-We may also use your personally identifiable information as we believe necessary or appropriate, in any manner permitted under applicable law, including laws outside your country of residence to: comply with legal process; respond to requests from public and government authorities, including public and government authorities outside your country of residence; enforce our terms and conditions; protect our operations; protect our rights, privacy, safety or property, and/or that of our affiliates, you, or others; and allow us to pursue available remedies or limit the damages that we may sustain.   
+A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a website, that site’s computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each website can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a website to access the cookies it has already sent to you, not the cookies sent to you by other sites.
 
-**b. Non-Personally Identifiable Information.** We may use your non-personally identifiable information for any purpose, including, but not limited to, for our own internal purpose to measure traffic patterns; to understand demographics, customer interest, and other trends among our users; to provide, improve, and modify the Website; and for promotion and marketing purposes.
+The Company reserves the right to use technological equivalents of cookies, including social media pixels. These pixels allow social media sites to track visitors to outside websites so as to tailor advertising messages users see while visiting that social media website. The Company reserves the right to use these pixels in compliance with the policies of the various social media sites.​
 
-**3\. HOW WE MAY DISCLOSE YOUR INFORMATION**
+**Third Party Use Of Cookies**
 
-**a. Personally Identifiable Information.** We may disclose and you hereby consent to our disclosing of your personally identifiable information to: (i) service providers and others who help with our business operations and assist in the delivery of our products and services including, but not limited to, application development, Website hosting, maintenance, data analysis, infrastructure provision, IT services, customer service, email delivery services, payment processing, marketing, analytics, and enforcement of our Terms of Service Agreement and other agreements; (ii) third parties in the event of an reorganization, merger, sale, debt financing of assets, joint venture, assignment, transfer, or other disposition of all or any portion of our business or assets (including in connection with any insolvency, bankruptcy, receivership, or similar proceeding); (iii) a Digital K subsidiary or business partner; (iv) other users of the site to identify you to anyone to whom you send messages or make comments through the Website; (v) persons or entities with whom you consent to have your personally identifiable information shared; (vi) third parties in order to prevent damage to our property (tangible and intangible), for safety reasons, or to collect amounts owed to us; (vii) merchants and payment processors; and (viii) third parties as we believe necessary or appropriate, in any manner permitted under applicable law, including laws outside your country of residence to: comply with legal process; respond to requests from public and government authorities, including public and government authorities outside your country of residence; enforce our Terms of Service Agreement and other agreements; protect our operations; protect our rights, privacy, safety or property, and/or that of our affiliates, you, or others; and allow us to pursue available remedies or limit the damages that we may sustain.   
+Some content or applications, including advertisements, on the Website are served by third-parties, including advertisers, ad networks and servers, content providers, and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our website. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content.
 
-We will not sell, rent, or lease your personally identifiable information to a third party without your express permission, unless required by law.
+We do not control these third parties’ tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly.
 
-**b. Non-Personally Identifiable Information.** We may disclose non-personally identifiable information for any purpose. Remember, non-personally identifiable information cannot be used to identify you or another person.
+**Email Information**
 
-**4\. PUBLIC AREAS AND THIRD-PARTY POSTINGS**
+If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received online, mail, and telephone. This also applies when you register for our website, sign up through any of our forms using your email address or make a purchase on this site. For further information see the email policies below.
 
-We may provide areas on the Website where users can publicly post information about themselves, including, but not limited to, names, photos, designs, comments, messages, and other content. This information may be accessible by other Website users, third-party users, members of the public, and may appear on other websites and in web searches. As a result, this information could be read, collected, and used by others. We do not control or endorse the information posted by third-party users, are not liable for your or third-party posts to the Website, and specifically disclaim any liability resulting from such posts.
+**Email Policies**
 
-**5\. THIRD PARTIES AND THIRD-PARTY SITES**
+We are committed to keeping your e-mail address confidential. We do not sell, rent, or lease our subscription lists to third parties, and will not disclose your email address to any third parties except as allowed in the section titled Disclosure of Your Information.
 
-Upon your consent, the Website may access third-party information through application interfaces. We may provide links to third-party Websites as a service to you. When you click on links of third parties in a Website, you may leave the Website.
+We will maintain the information you send via e-mail in accordance with applicable federal law.
 
-This Policy does not cover any collection, use, or disclosure by third parties through any applications, Websites, products, or services that we do NOT control or own, or any third-party features or services made available through the Website. By using the Website, you expressly relieve Digital K from any and all liability arising from your use of any third-party website.
+In compliance with the CAN-SPAM Act, all e-mails sent from our organization will clearly state who the e-mail is from and provide clear information on how to contact the sender. In addition, all e-mail messages will also contain concise information on how to remove yourself from our mailing list so that you receive no further e-mail communication from us.
 
-The inclusion of a link or accessibility of third-party Websites does not imply endorsement of such third-party Website by us. All trademarks, trade names, and logos of third parties featured on the Website belong to their respective owners.
+Our emails provide users the opportunity to opt-out of receiving communications from us and our partners by reading the unsubscribe instructions located at the bottom of any e-mail they receive from us at anytime.
 
-Each merchant and third party payment processor collects and shares your information according to its own privacy policy and terms of service. Digital K is not responsible for the actions of third party processors or merchants, including how such entities treat your information. You are responsible for knowing and understanding their policies and terms.
+Users who no longer wish to receive our newsletter or promotional materials may opt-out of receiving these communications by clicking on the unsubscribe link in the e-mail.
 
-**6\. DATA RETENTION**
+​ **How And Why We Collect Information**
 
-We will retain your personally identifiable information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or allowed by law. Your personally identifiable information may or may not be encrypted while stored or archived by us.
+The Company collects your information in order to record and support your participation in the activities you select. If you register to download a book or resource, sign up for our newsletter, receive information about our services, and/or purchase a product or service from us, we collect your information. We use this information to track your preferences and to keep you informed about the products and services you have selected to receive and any related products and/or services. As a visitor to this Website, you can engage in most activities without providing any personal information. It is only when you seek to download resources and/or register for services that you are required to provide information.
 
-**7\. CAN SPAM Act  
-**The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+If you are outside the European Union and opt to receive any free resources, participate in any free training programs, register for a webinar, register for a live event, register for a seminar, or purchase any products or services sold by the Company on this Website, we will automatically enroll ​you to receive our free email newsletter. If you do not wish to receive this newsletter, you can unsubscribe anytime. We include an “unsubscribe” link at the bottom of every email we send. If you ever have trouble unsubscribing, you can send an email to info@digitalkonline.com requesting to unsubscribe from future emails.
 
-We collect your email address in order to:  
-• Send information, respond to inquiries, and/or other requests or questions  
-• Process orders and to send information and updates pertaining to orders.  
-• Send you additional information related to your product and/or service  
-• Market to our mailing list or continue to send emails to our clients after the original transaction has occurred.
+If you are in the European Union and opt to receive any free resources, participate in any free training programs, register for a webinar, register for a live event, register for a seminar, or purchase any products or services sold by the Company on this Website, we will only enroll ​you to receive our free email newsletter if you affirmatively consent to it. If you do not wish to receive this newsletter, you can unsubscribe anytime. We include an “unsubscribe” link at the bottom of every email we send. If you ever have trouble unsubscribing, you can send an email to info@digitalkonline.com requesting to unsubscribe from future emails.
 
-To be in accordance with CANSPAM, we agree to the following:  
-• Not use false or misleading subjects or email addresses.  
-• Identify the message as an advertisement in some reasonable way.  
-• Include the physical address of our business or site headquarters.  
-• Monitor third-party email marketing services for compliance, if one is used.  
-• Honor opt-out/unsubscribe requests quickly.  
-• Allow users to unsubscribe by using the link at the bottom of each email.
+**How Do We Use the Information That You Provide to Us?**
 
-If at any time you would like to unsubscribe from receiving future emails, you can follow the instructions at the bottom of each email and we will promptly remove you from ALL correspondence.
+We use personal information for purposes of presenting our Website and its contents to you, providing you with information, providing you with offers for products and services, providing you with information about your subscriptions and products, carrying out any contract between you and the Company, administering our business activities, providing customer service, and making available other items and services to our customers and prospective customers.
 
-**8\. USERS UNDER 13 YEARS OF AGE**
+From time-to-time, we may use the information you provide to us to make you offers to purchase products and services provided by third parties in exchange for a commission to be paid to us by such third parties. Should you opt to take part in such promotions, the third parties will receive your information.
 
-Our Website is not directed to persons under the age of 13. If you become aware that your child has provided us with personal information without your consent, please contact us at info@digitalkonline.com. We do not knowingly collect personal information from children under the age of 13. If we become aware that a child under the age of 13 has provided us with personal information, we take steps to remove such information. By using this Website, you are representing to us that you are not under the age of 13. If you are under 13 years of age, you are not authorized to use this Website. 
+From time-to-time, we may use the information you provide to us to display advertisements to you that are tailored to your personal characteristics, interests, and activities.
 
-**9\. PRIVACY RIGHTS NOTICE TO CALIFORNIA RESIDENTS**
+**Disclosure Of Your Information**
 
-The State of California enacted the Shine the Light law (California Civil Code Section 1798.83) that permits users who are California residents to request certain information regarding the disclosure of certain “personal information” during the past year for marketing purposes. To make such a request, please email us at info@digitalkonline.com.
+As a general rule, we do not sell, rent, lease or otherwise transfer any information collected wither automatically or through your voluntary action.
 
-**10\. DO NOT TRACK LAW**
+We may disclose your personal information to our subsidiaries, affiliates, and service providers for the purpose of providing our services to you.
 
-California’s Do Not Track Law (Cal. Bus. & Prof. Code §§ 22575-22579) requires us to disclose to you how we respond to web browser “do not track” signals or other mechanisms that provide you the ability to exercise choice regarding the collection of personally identifiable information about your online activities over time and across third-party websites or online services. In addition, the law requires us to disclose whether other parties collect personally identifiable information about your online activities over time and across different websites when you use this Website.
+We may disclose your personal information to a third party, including a lawyer or collection agency, when necessary to enforce our terms of service or any other agreement between you and the Company.
 
-We use cookies to: (a) store information so that you will not have to re-enter that information during your visit or the next time you visit the Website; (b) monitor the effectiveness of marketing campaigns; and (c) monitor aggregate metrics such as total number of visitors, page views, etc.
+We may provide your information to any successor in interest in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of the Company’s asserts and/or business.
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies in the browser settings. If you choose to decline cookies, you may not be able to sign in or use other Website features or services that depend on cookies. If you choose to accept cookies, your browser may allow you to delete cookies that you have accepted at a later date.
+We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights or when compelled by a court or other governmental entity to do so.
 
-We do not combine tracking data with personally identifiable information across other sites.
+**How Do We Protect Your Information and Secure Information Transmissions?**
 
-We do not allow third-party advertising companies and networks to serve cookies on the Website or serve ads to you when you visit the Website.
+We employ commercially reasonable methods to ensure the security of the information you provide to us and the information we collect automatically. This includes using standard security protocols and working only with reputable third-party vendors.
 
-**11\. SECURITY**
+Email is not recognized as a secure medium of communication. For this reason, we request that you do not send private information to us by email. However, doing so is allowed, but at your own risk. Some of the information you may enter on our website may be transmitted securely via a secure medium known as Secure Sockets Layer, or SSL. Credit Card information and other sensitive information is never transmitted via email.
 
-We employ commercially reasonable security measures to protect your information; however, no system is impenetrable. If you create an account on the Website, you are responsible for protecting the security of your account, its content, and all activities that occur under the account or in connection with the Website. Do not share your private account information with others. You must immediately notify Digital K of any unauthorized uses of your account or any other breaches of security.
+The Company may use software programs to create summary statistics, which are used for such purposes as assessing the number of visitors to the different sections of our site, what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas.
 
-**12\. DISCLAIMER**
+For site security purposes and to ensure that this service remains available to all users, the Company uses software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
 
-ELECTRONIC COMMUNICATIONS PRIVACY ACT NOTICE (18 U.S.C. 2701-2711): WE MAKE NO GUARANTY OF CONFIDENTIALITY OR PRIVACY OF ANY COMMUNICATION OR INFORMATION TRANSMITTED ON THE SITE OR ANY WEBSITE LINKED TO THE SITE. WE WILL NOT BE LIABLE FOR THE PRIVACY OF INFORMATION, E-MAIL ADDRESSES, REGISTRATION, AND INDENTIFICATION INFORMATION, DISK SPACE, COMMUNICATIONS, CONFIDENTIAL INFORMATION OR TRADE SECRET INFORMATION, OR ANY OTHER CONTENT TRANSMITTED OVER NETWORKS ACCESSED BY THE SITE, OR OTHERWISE CONNECTED WITH YOUR USE OF THE SITE.
+**Policy Changes**
 
-**13\. UPDATES TO PRIVACY POLICY**
+It is our policy to post any changes we make to our privacy policy on this page. If we make material changes to how we treat our users’ personal information, we will notify you by email to the email address specified in your account and/or through a notice on the Website home page. The date the privacy policy was last revised is identified at the bottom of the page. You are responsible for ensuring we have an up-to-date active and deliverable email address for you, and for periodically visiting our Website and this privacy policy to check for any changes.
 
-California privacy laws require that we describe how we will notify users of updates to this Policy. We will notify users of any updates to this Policy by changing the “last updated” notice set forth at the bottom of this Policy.
+**Visitors’ GDPR Rights**
 
-By describing how we will notify users of updates to this Policy, Digital K is in no way reserving the right to unilaterally amend this Policy. When users purchase a product through this Website, they agree to be legally bound by the Policy and Terms of Service Agreement in effect at that time. The description in this section of how we notify users of updates to this Policy, and any subsequent updates of this Policy, do not affect the legally binding nature of previous agreements between Digital K and users regarding earlier versions of this Policy.
+If you are within the European Union, you are entitled to certain information and have certain rights under the General Data Protection Regulation. Those rights include:
 
-**14\. CONTACT US**
+We will retain the any information you choose to provide to us until the earlier of: (a) you asking us to delete the information, (b) our decision to cease using our existing data providers, or (c) the Company decides that the value in retaining the data is outweighed by the costs of retaining it.
 
-If you have questions or comments about this Policy or our privacy practices, or to report any violations or abuse of the Website, please contact us using the information below:
+You have the right to request access to your data that the Company stores and the rights to either rectify or erase your personal data.
+
+You have the right to seek restrictions on the processing of your data.
+
+You have the right to object to the processing of your data and the right to the portability of your data.
+
+To the extent that you provided consent to the Company’s processing of your personal data, you have the right to withdraw that consent at any time, without affecting the lawfulness of processing based upon consent that occurred prior to your withdrawal of consent.
+
+You have the right to lodge a complaint with a supervisory authority that has jurisdiction over issues related to the General Data Protection Regulation.
+
+We require only the information that is reasonably required to enter into a contract with you. We will not require you to provide consent for any unnecessary processing as a condition of entering into a contract with us.
+
+**Contact Us**
+
+The Company welcomes your questions or comments regarding the Privacy Policy:
 
 Digital K, LLC  
 W5238 Arbor Vitae Dr  
-Sherwood, WI 54169  
-United States  
-info@digitalkonline.com
+Sherwood, WI 54169
 
-Last Edited on 12/01/2016
+Email Address: info@digitalkonline.com
+
+Effective as of May 11, 2018
