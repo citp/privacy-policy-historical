@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kabbage.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627181642id_/https%3A//www.kabbage.com/company/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kabbage.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228012457id_/https%3A//www.kabbage.com/company/legal) for the most accurate reproduction.*
 
 # Kabbage Legal | Kabbage
 
@@ -283,7 +283,7 @@ For inquiries please call: [888-986-8263](tel:888-986-8263)
 
 * * *
 
-  * [](https://privacy.truste.com/privacy-seal/validation?rid=63408a3c-8412-4884-a629-b75c9234d416)
+  * [](https://privacy.truste.com/privacy-seal/validation?rid=351f4dc2-a0ad-4478-92ce-c9186d02b21b)
 
   
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based, privacy and data usage third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request.
