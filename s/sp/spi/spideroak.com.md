@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spideroak.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620232628id_/https%3A//spideroak.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spideroak.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228022629id_/https%3A//spideroak.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | SpiderOak
+# SpiderOak Privacy Policy | SpiderOak
 
 _Posted and effective as of 4 June, 2016_
 
