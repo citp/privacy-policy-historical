@@ -1,89 +1,53 @@
-> *The following text is extracted and transformed from the testeachersonline.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416163614id_/https%3A//www.testeachersonline.com/sp/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the testeachersonline.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228053826id_/http%3A//www.examfx.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - TESTEACHERS ONLINE - ONLINE VIDEO INSURANCE AND SECURITIES EXAM PREP
+# Privacy Policy| Resources
 
-## TesTeachers commitment to Privacy.
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-At TesTeachers, LLC your privacy is of utmost importance to us. To ensure transparency to all potential and current students in the United States, we provide this notice that describes our company policies and practices. 
-
-## What kinds of information do we collect?
-
-Upon registration of an account or purchase of our materials, we collect the following types of information, including, but not limited to: 
+We will track use of the website by our visitors, but unless you sign in as a customer such tracking will be done anonymously. You are not required to provide us with any information in order to browse our website. On some pages, you can purchase courses, make requests, and register to receive materials. The types of personal information collected on these pages, includes, but is not limited to:
 
   * Name
   * Address
-  * Email address
+  * E-Mail address
   * Phone number
-  * Date of birth
-  * Credit/Debit card information
+  * Social Security Number
+  * Credit/Debit Card Information
 
 
 
-To comply with certain state reporting or course requirements, TesTeachers may be required to collect the following additional information during registration or during completion of your course studies, including, but not limited to: 
+We use personal information you submit for the following purposes:
 
-  * Social security number
-  * Scanned proof of at least 18 years of age
-  * Driver’s license number
-  * Credit/Debit card information
-
-
-
-During the completion of any state-required certification exams to fulfill pre-licensing education requirements, you may be required to have a disinterested third party proctor the exam who has no conflict of interest or financial interest in the passing of the exam. Proctor requirements vary by state; typically, a conflict exists if the proctor is a minor, relative, spouse, supervisor or your employee. TesTeachers may be required to collect the following proctor information during the completion of your course studies, including, but not limited to: 
-
-  * Name
-  * Employer
-  * Job title
-  * Address
-  * Email address
-  * Phone number
-  * Date of birth
-  * Social security number
+  * to provide the products and services you request
+  * to process your orders
+  * to provide follow-up information about pertinent products and services
+  * to contact you via surveys to conduct research about your opinion of current products and services or of potential new products or services that may be offered
 
 
 
-We do not knowingly collect information from children under the age of 13. If we determine that a child under age 13 has provided us with personal information, we will delete the related information from our database. 
+We use return e-mail addresses to answer the e-mail we receive. Such addresses are not used for any other purpose and are not shared with outside parties unless needed to properly respond to your message.
 
-## How is this information used?
+We do not sell or exchange any personal information of our customers with any third parties. To comply with state-imposed recordkeeping regulations, we report student course completion information (name, address, NPN, etc.) electronically to the appropriate regulatory agencies and their third party administrators. However, we may release your personal information in the event we are compelled to do so by court order or other requirement of law, or if we, in good faith, believe such release is advisable or necessary. Additionally, it is possible that in the future we may sell our online business. In connection with such a sale, your personal information may be transferred to a third party.
 
-We use this information so that we can provide our products and services to you. This type of information is also used to contact you to share relevant product and service updates as well as to conduct company research relating to your opinion of our products, services, or potential new products and services. 
+By providing information on our website you are consenting to the collection, use and disclosure of such personal information in the manner described in this privacy policy. You may withdraw your consent at any time by following the procedure described in the Choice/Opt-Out provision set forth below.
 
-## Information sharing with third parties.
+From time to time, for your convenience, we might issue you a "cookie" during your visit to our website. A cookie is a small file that contains information (such as your login name on our site) and is stored by your computer's browser. We do not use cookies for any reason other than to provide convenience to our visitors and improve their online experience.
 
-To comply with any state-specific course requirements, we may use your information to report any course completion information or to comply with any regulatory agencies and their third party administrators. 
+We may send you catalogs or e-mails to inform you of new products, services and special offers. If you would prefer not to be contacted about such special offers, products or services, please notify us of such preference using any of the contact information set forth below. Please be aware that we will honor all opt-out requests, however, there may be a delay between your submission of such request and the actual removal of your name and contact information from our mailing lists as these are generated well in advance of our actual mailings.
 
-We do not sell or exchange any of your personal information to third parties who want to market their products or services to you. However, it is possible in the future our business may be sold. In this instance, your personal information may be transferred to a third party. 
-
-Additionally, your personal information may be released in connection to any subpoenas, court orders, or other legal process, in response to a request for cooperation from law enforcement or another government agency, to investigate, prevent, or take action regarding illegal activities, suspected fraud, or to enforce our user agreement or privacy policy, or to protect our rights or the rights of others. 
-
-## How do we store this information? 
-
-We have high security standards to keep the information you provide us safe. We maintain strict control over access to your information. The only employees who are permitted to access your information are those with a business need-to-know. Our standards to safeguard this information meet or exceed the requirements of federal and state law. To protect your privacy, we do not store your account passwords or credit card information after registration. For additional online transaction security information, you can review our trusted safety measures [here](https://sealserver.trustwave.com/cert.php?customerId=5cd02fbba0c44b7e96b60481a5d7ed17&size=65x36&style=invert) and [here](https://sealsplash.geotrust.com/splash?&dn=www.testeachersonline.com). 
-
-## How can I opt-out?
-
-To inform us that you no longer would like to be contacted about our own products and services and special offers you can reach us at (480) 685-2600. You can also email us via the [Contact Us](https://www.testeachersonline.com/contactus) tab of our website. Our office hours are 7AM-7PM Monday through Friday and 9AM-4PM Saturday and Sunday (Arizona time). Your request will be granted immediately, however, there may be a delay between your request and the actual removal of your information from our system. TesTeachers, LLC students can also unsubscribe from company emails within their online account. 
-
-## Links to other websites.
-
-We make available on our website links to websites operated by third parties unrelated to us. It is recommended that you review the Privacy Policy at each such website to determine how that website protects your privacy. We provide links to these websites for your benefit and access to them is at your own risk. We are not responsible for linked third party websites privacy practices. 
-
-## Cookies.
-
-We may employ cookies to identify you, track your use of our site, to help you move faster through our site, to estimate our total audience size and traffic, and to help us improve our website’s experience by measuring which website areas are of greatest interest to users. A cookie is a string of information that is sent by a website and stored on your hard drive or temporarily in your computer’s memory. 
-
-You can turn off the ability to receive any of these cookies by adjusting the browser in your computer, but you should note that disabling cookies in your browser may also prevent other websites from placing cookies on your computer. If you do this, it may materially affect the functionality of the website and the information you can access through it. 
-
-By using Google Analytics, we collect data when you visit most pages of our site. Your visit may automatically provide us with data about your computer, such as your IP (Internet Protocol) address, browser type, operating system, domain name, access times and referring website addresses. 
-
-## Questions?
-
-Company Headquarters 
-
-TesTeachers, LLC   
-8700 E. Via de Ventura   
-Suite 300   
-Scottsdale, AZ 85258   
-(480) 685-2600   
+  *  **Call us:**  800-586-2253
 
 
-If you have any questions about our company policies, agreements, terms and conditions, or products and services, please feel free to call us at (480) 685-2600. You can also email us via the Contact Us tab of our website. Our office hours are 7AM-7PM Monday through Friday and 9AM-4PM Saturday and Sunday (Arizona time). 
+
+We use Secure Sockets Layer (SSL) encryption, the industry standard for secure online transactions, to encrypt your personal credit information, including your credit card number, before it travels over the Internet.
+
+As required by various state-imposed recordkeeping regulations, and to maintain in the event of audit our ability to produce future proof that you completed a given course, we must retain your information indefinitely.
+
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. Personally identifiable information is maintained in a secure database accessible only by authorized staff.
+
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+
+Our website may contain links to third party websites operated by individuals or companies unrelated to us. Please be aware that we are not responsible for the privacy practices of such third party websites. These linked websites are for your convenience only and you access them at your own risk. We recommend that you review the privacy policies posted on such third party websites prior to utilizing them.
+
+Occasionally, we may update our privacy policy and information security procedures. If our privacy and/or information security procedures change at any time in the future, we will post the new changes on our website to notify you and provide you with the ability to opt-out in accordance with the Choice/Opt-Out provisions set forth above.
+
+Please feel free to contact us at any time with any questions or comments you may have or to edit your personal information. We can be reached by any of the means of contact included in the  **choice/opt-out** provision set forth above.
