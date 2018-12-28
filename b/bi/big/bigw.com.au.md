@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the bigw.com.au privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628064117id_/https%3A//www.bigw.com.au/help/privacy-policy-content) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigw.com.au privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228125553id_/https%3A//www.bigw.com.au/help/privacy-policy-content) for the most accurate reproduction.*
 
-# Privacy Policy | BIG W
-
-text.skipToContent text.skipToNavigation
-
-[ ](https://web.archive.org/)
+# BIG W Privacy Policy | BIG W
 
 ### 1\. Respecting your privacy
 
-Woolworths Group Limited ABN 88 000 014 675 trading as Big W (BIGW) is committed to compliance with the privacy and health laws which apply to its business and which set out standards for the management of personal information. This policy outlines our personal information management practices: Specifically, the kinds of personal information we collect and hold; how we collect and hold it; the purposes for which we collect, hold, use and disclose it; your right to access and seek correction of it; our sharing of your personal information overseas. There are some matters to which this policy does not apply. These are referred to in clause 9 below.
+Woolworths Group Limited ABN 88 000 014 675 trading as Big W (BIGW) is committed to compliance with the privacy and health laws which apply to its business and which set out standards for the management of personal information. This policy outlines our personal information management practices: Specifically, the kinds of personal information we collect and hold; how we collect and hold it; the purposes for which we collect, hold, use and disclose it; your right to access and seek correction of it; how you may complain about privacy matters, our sharing of your personal information overseas. There are some matters to which this policy does not apply. These are referred to in clause 9 below.
 
 ### 2\. What kinds of personal information do we collect and hold?
 
@@ -22,7 +18,7 @@ Personal information we hold is generally stored in computer systems. These may 
 
 ### 4\. Why do we collect, hold, use and disclose personal information?
 
-When we collect, hold and use your personal information, we do so primarily to sell and promote our goods and services to you and to improve on the range of our offerings. For example: to learn of your likely preferences so that we may promote our goods and services to you in a way which may be of most interest to you; and to assist in investigating your complaints and enquiries. We disclose personal information we collect for purposes which are incidental to the sale and promotion of our goods and services to you. For example, we may disclose your personal information within our group, to service providers who assist us in our day-to-day business operations and as part of buying or selling businesses. We may collect, hold, use and disclose your personal information for other purposes which are within reasonable expectations or where permitted by law. When marketing to you, your personal information is only ever used or disclosed for BIGW’s own purposes and the purposes of its related entities. You may opt out of our direct marketing to you. Our direct marketing materials will tell you how to do this. We may de-identify your personal information. We may do this for use and disclosure of the anonymous data to determine preferences and shopping patterns.
+When we collect, hold and use your personal information, we do so primarily to sell and promote our goods and services to you and to improve on the range of our offerings. For example: to learn of your likely preferences so that we may promote our goods and services to you in a way which may be of most interest to you (this includes the products and services of our suppliers and other trusted partners who offer products and services that may be of interest to you); and to assist in investigating your complaints and enquiries. We disclose personal information we collect for purposes which are incidental to the sale and promotion of our goods and services to you. For example, we may disclose your personal information within our group, to service providers who assist us in our day-to-day business operations and as part of buying or selling businesses. We may collect, hold, use and disclose your personal information for other purposes which are within reasonable expectations or where permitted by law. When marketing to you, your personal information is only ever used or disclosed for BIG W’s own purposes and the purposes of its related entities. You may opt out of our direct marketing to you. Our direct marketing materials will tell you how to do this. We may de-identifyanonymise and aggregate your personal information. We may do this for use and disclosure of the anonymous data to determine preferences and shopping patterns. We share this anonymised data with our trusted partners to assist them in marketing products and services to you that are likely to be relevant to your interests and preferences.
 
 ### 5\. How can you enquire about, access and correct your personal information?
 
@@ -40,7 +36,7 @@ It is our policy to require all of our overseas sharing of personal information 
 
 ### 8\. Updates
 
-is privacy policy is current at the date below. We may change it periodically. If we propose to change this policy, we will display at least 2 weeks' prior notice of the change on [www.bigw.com.au](http://www.bigw.com.au/).
+This privacy policy is current at the date below. We may change it periodically. If we propose to change this policy, we will display at least 2 weeks' prior notice of the change on [www.bigw.com.au](http://www.bigw.com.au/).
 
 ### 9\. Other privacy terms and limits of this policy
 
@@ -50,4 +46,4 @@ This is a policy. There may be additional privacy notices and terms relevant to 
 
 More information about privacy law and privacy principles is available from the Privacy Commissioner. The Privacy Commissioner may be contacted at [www.oaic.gov.au](http://www.oaic.gov.au/) (email - [enquiries@oaic.gov.au](mailto:enquiries@oaic.gov.au)) (Australia).
 
-Last update of this policy: 19 September 2016
+Last update of this policy: 12 December 2018
