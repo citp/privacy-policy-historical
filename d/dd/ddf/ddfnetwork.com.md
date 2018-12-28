@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ddfnetwork.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628130028id_/https%3A//ddfnetwork.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ddfnetwork.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228184921id_/https%3A//ddfnetwork.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -107,7 +107,13 @@ The Sites may contain links to other websites. Please be aware that we are not r
 
 ## How to Contact DDFNETWORK
 
-If you have comments or questions regarding our privacy policy, please contact us through our [support form](http://support.ddfprod.com/?ref=ddfnetwork) or via email at support@ddfsupport.com.
+If you have comments or questions regarding our privacy policy, please contact us through our [support form](http://ddfsupport.com/) or via email at support@ddfsupport.com.
 
   
 
+
+[](https://web.archive.org/ "Home")
+
+DDFNETWORK is a site of DDF Communications, s.r.o. Krakovská 1366/25, Nové Město, 110 00 Praha 1
+
+DDF Network is the Ultimate European porn videos hub with exclusive VR, 4K and full HD XXX videos for 2018 
