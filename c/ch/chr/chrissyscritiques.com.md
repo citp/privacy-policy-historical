@@ -1,37 +1,18 @@
-> *The following text is extracted and transformed from the chrissyscritiques.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502152335id_/http%3A//chrissyscritiques.com/policy-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chrissyscritiques.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228093913id_/http%3A//www.chrissyscritiques.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Chrissy's Critiques
 
-Our Privacy Policy
+Chrissy’s Critiques (“Website”) is governed by the following privacy policy.  
+We respect your privacy and are committed to protecting it. The purpose of this Privacy Policy is to inform you what information we may collect and how it may be used. This statement only applies to this Website. This Website may contain third-party links to other websites which are not governed by this policy.
 
-As a fellow Internet user myself, I totally respect your online privacy. So it goes without saying that I’m fully committed to safeguarding your online privacy while you’re here at the [Chrissys Critiques](http://chrissyscritiques.com/ "CCritiques") website.
+What Information Do We Collect and How Is This Information Used?  
+We may receive and store information that you voluntarily submit through the Website for the purpose of subscribing to the Website to receive newsletters, for the purpose of leaving comments on blog posts, or administering sweepstakes, contests or promotions. Examples of information collected for this purpose are your name, email address and website URL. This information is only captured when you voluntarily enter or opt-in and enter this information for collection. Winner’s information will be provided to sponsors for purposes of prize fulfillment.
 
-And that’s precisely why I’ve decided to include the following, which discloses the information gathering and dissemination practices for this website.
+We may receive and store certain types of usage-related information when you interact with the Website, including but not limited to, your computer’s IP address and browser information. The information we collect is used to customize the content and/or layout of our page for each individual visitor.
 
-Log Files
+We use third-party advertising companies to serve content and advertisements when you visit the Website, which may use cookies. No personal information is shared with the Website’s ad providers. (You can click here to learn more how how you can opt out).  
+The Website uses Google Analytics to track statistics regarding our audience and Website traffic. No personally identifiable information is transferred from the Website to Google Analytics.
 
-Like most standard websites, this website uses log files. These include: Internet Protocol addresses (IP addresses), browser type, Internet Service Provider (ISP), referring/exit pages, platform type, date/time stamp, and the number of clicks to analyze trends, administer the site, track user movement in the aggregate, and to gather broad demographic information for aggregate use. IP addresses, etc., are not linked to personally identifiable information.
+This Website engages in sponsored campaigns with various influencer networks, brands, and agencies. All sponsored content is duly disclosed in accordance with the FTC’s requirements. From time to time, these sponsored campaigns utilize tracking pixels (aka web beacons), which may contain cookies to collect data regarding usage and audience. This information is collected by the sponsoring company to track the results of the campaign. No personally identifiable information collected by the Website is used in conjunction with these tracking pixels.
 
-Web Cookies and Beacons
-
-Web cookies (also known as HTTP cookies, or just cookies) are parcels of text that are sent by a server to a Web browser, and then sent back unchanged by the browser each time it accesses that server. In other words, a cookie is a piece of data stored on a user’s computer that is tied to information about the user.
-
-Web beacons are objects that are embedded in a webpage or email that are invisible to the user, but allow checking that a user has viewed the page or email. Other names are web bug, tracking bug, tag or page tag.
-
-This website does use cookies. Additionally, some of my business partners (for example, advertisers) may use cookies and web beacons as well. This site has no access to, or control of advertisers’ web cookies or web beacons.
-
-If you wish to disable cookies, you may do so through your individual browser options. Please check your browser’s help section for instructions on how to do this.
-
-Links
-
-This website contains links to other websites. Please be aware that I am not responsible for the privacy practices of other websites. I encourage you, when you leave this website, to read the privacy policy (or privacy statement) of each and every website you visit, as this particular privacy policy applies solely to this particular website.
-
-Advertisers
-
-I use outside advertising networks and companies in order to display ads on this site. These ads may contain cookies and/or web beacons in order to collect data in the ad serving process. These such cookies and/or web beacons are collected by the companies and/or advertising networks, themselves. I do not have any access to this information.
-
-I currently work with several advertising networks and companies. If you have any questions, please check their websites for their respective privacy policies.
-
-Webmaster Contact Information
-
-If you have any questions or suggestions regarding the [Chrissy’s Critiques](http://chrissyscritiques.com/ "CCrituques") privacy policy, please feel free to contact me. See Contact Tab on the home page.
+The Website uses cookies to store visitors’ preferences, record user-specific information on what pages users access or visit, ensure that visitors are not repeatedly sent the same banner ads, customize Website content based on visitors’ browser type or other information that the visitor sends. Cookies may also be used by third-party services, such as Google Analytics, as described above, and Facebook.
