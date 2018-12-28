@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the horriblesubs.info privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611010141id_/http%3A//horriblesubs.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horriblesubs.info privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228135214id_/https%3A//horriblesubs.info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » HorribleSubs
+# Privacy Policy – HorribleSubs
 
 This Privacy Policy governs the manner in which HorribleSubs collects, uses, maintains and discloses information collected from users (each, a “User”) of the horriblesubs.info website (“Site”). This privacy policy applies to the Site and all products and services offered by HorribleSubs.
 
@@ -58,6 +58,6 @@ Contacting us
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 HorribleSubs  
 horriblesubs.info  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+admin@horriblesubs.info
 
 This document was last updated on March 11, 2014
