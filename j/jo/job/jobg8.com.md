@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobg8.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624013435id_/http%3A//jobg8.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobg8.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228073825id_/http%3A//www.jobg8.com/privacy.aspx) for the most accurate reproduction.*
 
 # Jobg8 - Privacy Policy
 
@@ -113,7 +113,7 @@ The retention of candidate data is service specific, however for all services we
 
 #### 3.2.2 Right to be Forgotten
 
-To exercise your right to be forgotten, please contact the data controller you originally registered with. You can also exercise you right to be forgotten by Jobg8 by using [Contact Us](https://web.archive.org/web/20180624013435id_/http%3A//jobg8.com/contactus.aspx)
+To exercise your right to be forgotten, please contact the data controller you originally registered with. You can also exercise you right to be forgotten by Jobg8 by using [Contact Us](https://web.archive.org/web/20181228073825id_/http%3A//www.jobg8.com/contactus.aspx)
 
 #### 3.2.3 Portability
 
@@ -137,11 +137,11 @@ Each email sent contains an easy, automated way for you to cease receiving email
 
 #### 3.3.3 Right to be Forgotten
 
-If you change your mind about being contacted by Jobg8 and would like personal data deleted please [Contact Us](https://web.archive.org/web/20180624013435id_/http%3A//jobg8.com/contactus.aspx) and provide details of your request.
+If you change your mind about being contacted by Jobg8 and would like personal data deleted please [Contact Us](https://web.archive.org/web/20181228073825id_/http%3A//www.jobg8.com/contactus.aspx) and provide details of your request.
 
 ### 4 Cookies
 
-Cookies are small amounts of data, which we store on your computer and are essential for proper use of the Jobg8 sites. Our system will issue cookies to your computer when you log on to the site. Cookies make it easier for you to log on and use the site during future visits. They also allow us to monitor website traffic and to personalise the content of the site for you. You may set up your computer to reject cookies although, in this case, you may not be able to use our site to its full capabilities. For further details, please refer to our [Cookies Policy](https://web.archive.org/web/20180624013435id_/http%3A//jobg8.com/cookiepolicy.aspx)
+Cookies are small amounts of data, which we store on your computer and are essential for proper use of the Jobg8 sites. Our system will issue cookies to your computer when you log on to the site. Cookies make it easier for you to log on and use the site during future visits. They also allow us to monitor website traffic and to personalise the content of the site for you. You may set up your computer to reject cookies although, in this case, you may not be able to use our site to its full capabilities. For further details, please refer to our [Cookies Policy](https://web.archive.org/web/20181228073825id_/http%3A//www.jobg8.com/cookiepolicy.aspx)
 
 ### 5 Links to Other Websites
 
@@ -153,7 +153,7 @@ If you are not satisfied with the way that Jobg8 has processed/used your data, y
 
 ### 7 Accessing your Data
 
-You are entitled to see the data held about you and ask us to make any necessary changes to ensure that it is accurate and kept up to date. If you wish to do this, please [Contact Us](https://web.archive.org/web/20180624013435id_/http%3A//jobg8.com/contactus.aspx) with your request.
+You are entitled to see the data held about you and ask us to make any necessary changes to ensure that it is accurate and kept up to date. If you wish to do this, please [Contact Us](https://web.archive.org/web/20181228073825id_/http%3A//www.jobg8.com/contactus.aspx) with your request.
 
 Where the request is to see data that is held by Jobg8, proof of your identity will be required. Once the proof provided (passport, utility bill etc.,) has been checked, your documents (paper or electronic) will be destroyed, and the requested data will be sent. Jobg8 are committed to providing this data to you within 30 days of receiving your proof of identity. The copy of the data will be provided free of charge. However, there will be a charge of £10 when a request is manifestly unfounded or excessive, particularly if it is repetitive. The fee is based on the administrative cost of providing the data.
 
@@ -171,6 +171,6 @@ Your personal data is contained behind secured networks and is only accessible b
 
 ### 10 Contact Us
 
-All comments, queries and requests relating to our use of your data are welcomed. Please [Contact Us](https://web.archive.org/web/20180624013435id_/http%3A//jobg8.com/contactus.aspx) with any feedback.
+All comments, queries and requests relating to our use of your data are welcomed. Please [Contact Us](https://web.archive.org/web/20181228073825id_/http%3A//www.jobg8.com/contactus.aspx) with any feedback.
 
 We will also monitor any emails sent to us, including file attachments, for viruses or malicious software. Please be aware that you have a responsibility to ensure that any email you send is within the bounds of the law.
