@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the halotop.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628070333id_/https%3A//www.halotop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halotop.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228131719id_/https%3A//halotop.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — HALO TOP®
 
@@ -11,8 +11,11 @@ Eden Creamery LLC, d/b/a Halo Top Creamery, its direct and indirect subsidiaries
 We may collect personal information from you when you voluntarily provide it to us through a number of features available on or through a Halo Top Website. For example, we may ask you to provide personal information if you:
 
   * ask to receive online information from us, such as e-mail newsletters or e-mail updates;
-  *  participate in a review, survey, a consumer research panel, or similar type of activity; and/or
+
+  * participate in a review, survey, a consumer research panel, or similar type of activity; and/or
+
   * otherwise participate in features of a Halo Top Website that ask for personal information.
+
 
 
 
@@ -48,6 +51,18 @@ Halo Top Websites may contain links to other websites operated by third parties.
 
 If you use social and/or other interactive features that may be available on a Halo Top Website (e.g. Facebook or Twitter feeds, comment sections, chat rooms, etc.), you should know that when you voluntarily disclose your personal information using social media features or in interactive areas that may be available on Halo Top Websites where personal information can be posted, the information can be collected and used by other Internet users. This may result in unsolicited messages from other posters or parties. We undertake no obligations as to the security of information you voluntarily post using social media features or in interactive areas that may be available on Halo Top Websites.
 
+ **SHOPIFY**
+
+Our Merchandise and Pint Shop is hosted on Shopify Inc. They provide us with the online e-commerce platform that allows us to sell our merchandise and pints to you.   
+Your data is stored through Shopify’s data storage, databases and the general Shopify application. They store your data on a secure server behind a firewall.
+
+Payment  
+If you choose a direct payment gateway to complete your purchase, then Shopify stores your credit card data. It is encrypted through the Payment Card Industry Data Security Standard (PCI-DSS). Your purchase transaction data is stored only as long as is necessary to complete your purchase transaction. After that is complete, your purchase transaction information is deleted. 
+
+All direct payment gateways adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover.   
+PCI-DSS requirements help ensure the secure handling of credit card information by our store and its service providers.   
+For more insight, you may also want to read Shopify’s Terms of Service here or Privacy Statement [here](https://www.shopify.com/legal/privacy).
+
  **CHILDREN’S PRIVACY**
 
 We are committed to protecting the privacy of children and we do not knowingly solicit personal information from children under the age of 13. If a child has already provided us with personal information, his or her parent or guardian may contact us to have this information deleted.
@@ -69,10 +84,14 @@ We reserve the right to change or replace this Privacy Policy at our sole discre
 We welcome your feedback. If you have questions, comments or concerns about our Privacy Policy, or would like to do any of the following:
 
   * see personal information that you have already sent us so that you can correct or update or delete your personal information from our files;
+
   * if your child under 13 has sent us personal information, delete that personal information from our files;
+
   * ask that we not send you mailings or otherwise contact you; or
+
   * report any violation of this Privacy Policy.
 
 
 
-Please contact us by e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+
+Please contact us by e-mail at info@halotop.com.
