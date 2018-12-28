@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betseyjohnson.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627184711id_/https%3A//www.betseyjohnson.com/content.jsp%3FpageName%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betseyjohnson.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228015152id_/https%3A//www.betseyjohnson.com/content.jsp%3FpageName%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy: Betsey Johnson
 
@@ -66,7 +66,7 @@ If Betsey Johnson, or substantially all of its assets, were acquired, or in the 
 ###  ** _YOUR CHOICES ABOUT THE INFORMATION WE COLLECT_**
 
 If you do not consent to the way in which we may use your personal information, please do not submit any personal information to us. If you do not wish to receive emails about special offers and other promotions from us, click the unsubscribe link located in our emails. If you do not wish to receive other marketing materials from us and/or if you do not want us to share your personal information with other entities as stated in this Privacy Policy, please provide us with your exact name and address and advise us that you wish to opt-out for information sharing or receiving information from us or both as the case may be. Please direct your opt-out request to:  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1c75727a735c7e79686f7965767374726f7372327f7371236f697e76797f68215d686879726875737226392e2c58756e797f68736e392e2c737a392e2c5f696f687371796e392e2c4f796e6a757f79) or
+[info@betseyjohnson.com](mailto:info@betseyjohnson.com?subject=Attention:%20Director%20of%20Customer%20Service) or
 
 Betsey Johnson Direct  
 Attn: Director of Customer Service, Ecommerce  
@@ -83,7 +83,7 @@ We recognize the importance of children's safety and privacy. This Website is no
 ###  ** _YOUR CALIFORNIA PRIVACY RIGHTS_**
 
 We collect various types of personal information about you during the course of your relationship with us as a customer. Under California law, if you are a resident of California, you may make a written request to us about how we have shared your information with third parties for their direct marketing purposes. In response to your written request, we are allowed to provide you with a notice describing the cost-free means to opt-out of our sharing your information with third parties with whom we do not share the same brand name, if the third-party will use such information for its direct marketing purposes. If you would like to exercise your rights under California law, please send your written request to the e-mail address or postal address below. Please include your postal address in your request. Within thirty (30) days of receiving your written request, we will provide you with a Third-Party Direct Marketing Opt-Out Form so you may request that your personal information not be disclosed to third parties for their direct marketing purposes:  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#9cf5f2faf3dcfef9e8eff9e5f6f3f4f2eff3f2b2fff3f1a3efe9fef6f9ffe8a1dde8e8f9f2e8f5f3f2a6b9aeacd8f5eef9ffe8f3eeb9aeacf3fab9aeacdfe9efe8f3f1f9eeb9aeaccff9eeeaf5fff9) or
+[info@betseyjohnson.com](mailto:info@betseyjohnson.com?subject=Attention:%20Director%20of%20Customer%20Service) or
 
 Betsey Johnson Direct  
 Attn: Director of Customer Service, Ecommerce  
@@ -110,5 +110,5 @@ While we use the foregoing security measures to protect your information, please
 
 ###  ** _QUESTIONS / CHANGES TO PRIVACY POLICY:_**
 
-If you have questions or concerns with respect to our Privacy Policy, you may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) We may elect to change or amend our Privacy Policy, in whole or in part, at our discretion and without prior notice; in such event, we will post any such changes or amendments in our Privacy Policy on the Website, which will supersede all prior versions. If you are concerned about how your personal information is used, please visit our Website often for this and other important announcements and updates.  
+If you have questions or concerns with respect to our Privacy Policy, you may contact us at info@betseyjohnson.com. We may elect to change or amend our Privacy Policy, in whole or in part, at our discretion and without prior notice; in such event, we will post any such changes or amendments in our Privacy Policy on the Website, which will supersede all prior versions. If you are concerned about how your personal information is used, please visit our Website often for this and other important announcements and updates.  
 _Last Updated: February 6, 2018_
