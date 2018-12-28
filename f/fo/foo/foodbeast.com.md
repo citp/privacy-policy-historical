@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodbeast.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628220500id_/https%3A//www.foodbeast.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodbeast.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229000446id_/http%3A//www.foodbeast.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy FOODBEAST
 
@@ -18,15 +18,27 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 
 FOODBEAST, INC. may collect and use Users personal information for the following purposes:
 
+  * _To run and operate our Site_
+
 We may need your information display content on the Site correctly.
+
+  * _To improve customer service_
 
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
 
+  * _To personalize user experience_
+
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+
+  * _To improve our Site_
 
 We may use feedback you provide to improve our products and services.
 
+  * _To run a promotion, contest, survey or other Site feature_
+
 To send Users information they agreed to receive about topics we think will be of interest to them.
+
+  * _To send periodic emails_
 
 We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests.
 
