@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airsoftstation.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627181435id_/https%3A//www.airsoftstation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airsoftstation.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228012303id_/https%3A//www.airsoftstation.com/privacy-policy) for the most accurate reproduction.*
 
 # Airsoft Station Privacy Policy - Airsoft Guns Gear & Accessories
 
