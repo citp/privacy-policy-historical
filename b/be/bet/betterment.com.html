@@ -1,511 +1,504 @@
-<!--The following is the downloaded HTML source of the betterment.com privacy policy that was archived on 2017-05-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170517223329id_/https%3A//www.betterment.com/security/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the betterment.com privacy policy that was archived on 2018-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181228222325id_/https%3A//www.betterment.com/security/privacypolicy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head>
-        <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script src="//www.youtube.com/iframe_api"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5RSQL7"></script><script id="facebook-jssdk" src="https://connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=223396044389111"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwYOWVBbGwYAVFZWBwA="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,n,e)])}catch(s){try{i("ierr",[s,c.now(),!0])}catch(u){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t){i("err",[t,c.now()])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,n,e){u&&(d+=1)}),s.on("fn-err",function(t,n,e){u&&(this.thrown=!0,o(e))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",s)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];n.exports=u;var y=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(m,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script>
-        <title>Privacy Policy - Betterment</title>
-        <link rel="stylesheet" href="https://www.betterment.com/wp-content/themes/superstar/release/superstar.6a93f31e827c2699.css" type="text/css">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="shortcut icon" href="/favicon.ico">
-        <link rel="apple-touch-icon" href="/apple-touch-icon.png">
-        <link rel="alternate" type="application/rss+xml" title="Betterment - RSS 2.0 Feed" href="https://www.betterment.com/feed/">
-        <link rel="alternate" type="application/atom+xml" title="Atom 0.3 - Betterment " href="https://www.betterment.com/feed/atom/">
-        <link rel="alternate" type="application/rss+xml" title="Comments Feed - for all the comments on this site" href="https://www.betterment.com/comments/feed/">
-        <meta name="apple-itunes-app" content="app-id=393156562">
-        <!--[if lt IE 9]><script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-            <script type="text/javascript">
-        window.TT = "eyJyZWdpc3RyeSI6eyJqb2ludF9hY2NvdW50X3NpZ251cF9pbnRlbnRfcXVlc3Rpb25fZW5hYmxlZCI6eyJ0cnVlIjo1MCwiZmFsc2UiOjUwfSwicXVvdm9fcmVmcmVzaGluZ19yZWdhcmRsZXNzX29mX2Z1bmRpbmdfZW5hYmxlZCI6eyJ0cnVlIjo1MCwiZmFsc2UiOjUwfSwibW9iaWxlX3NpZ251cF9lbWFpbF9jb25maXJtIjp7ImZhbHNlIjowLCJ0cnVlIjoxMDB9LCJicm9jaHVyZV9tYWRsaWJfaXRlcmF0aW9udHdvX21heV8yMDE2Ijp7ImNvbnRyb2xfYSI6MCwiY29udHJvbF9iIjowLCJ0cmVhdG1lbnQiOjEwMH0sImxpbmtlZF9mdW5kZWRfd2VsY29tZV9lbWFpbCI6eyJyZXRpcmVfZ3VpZGUiOjMzLCJyZWZlcl9hX2ZyaWVuZCI6MzMsImNvbnRyb2wiOjM0fSwicm9sbG92ZXJfcHJvbW90aW9uXzIwMTZfcTIiOnsiY29udHJvbCI6MTAwLCJub19vZmZlciI6MCwib2ZmZXIiOjB9LCJtYXJpdGFsX3N0YXR1c19xdWVzdGlvbl9lbmFibGVkIjp7InRydWUiOjUwLCJmYWxzZSI6NTB9LCJsZWdhY3lfc3VtbWFyeV9yYWlsc19lbmFibGVkIjp7InRydWUiOjEwMCwiZmFsc2UiOjB9LCJqb2ludF9hY2NvdW50X3NpZ251cF9pbnRlbnRfcXVlc3Rpb25fdjJfZW5hYmxlZCI6eyJmYWxzZSI6MCwidHJ1ZSI6MTAwfSwiaG9tZXBhZ2VfaGVyb21hZGxpYl9hcHJpbF8yMDE2Ijp7ImNvbnRyb2xfYSI6MjUsImNvbnRyb2xfYiI6MjUsInRyZWF0bWVudCI6NTB9LCJzcG91c2FsX3RsaF90YWtlb3Zlcl9lbmFibGVkIjp7InRydWUiOjEwMCwiZmFsc2UiOjB9LCJzcG91c2FsX3RsaF9hZGRfc3BvdXNlX2VuYWJsZWRfMjAxNiI6eyJ0cnVlIjowLCJmYWxzZSI6MTAwfSwidGF4X2xvY2F0ZWRfZ29hbF9jcmVhdGlvbl9mbG93X2VuYWJsZWQiOnsidHJ1ZSI6MCwiZmFsc2UiOjEwMH0sInJvbGxvdmVyX3Byb21vdGlvbl8yMDE2X3EyX2VuYWJsZWQiOnsidHJ1ZSI6MCwiZmFsc2UiOjEwMH0sImdvYWxzX3BoYXNlX29uZV8yMDE2Ijp7InRydWUiOjAsImZhbHNlIjoxMDB9LCJyZWZlcnJhbF9pbnZpdGVfZGVzdGluYXRpb25fb25ib2FyZGluZyI6eyJ0cnVlIjowLCJmYWxzZSI6MTAwfSwib25ib2FyZGluZ19zcGlubmVyX3NpZ251cF9zaWRlYmFyX3EyXzIwMTYiOnsic3Bpbm5lciI6MCwic2lkZWJhciI6MCwiY29udHJvbCI6MTAwfSwiYnJvY2h1cmVfdG9sbGZyZWVudW1iZXJfbWF5XzIwMTYiOnsiY29udHJvbF9hIjoxMDAsImNvbnRyb2xfYiI6MCwidHJlYXRtZW50IjowfSwic2lnbnVwX2NoYXRfY2FsbGJhY2tfZW5hYmxlZCI6eyJ0cnVlIjowLCJmYWxzZSI6MTAwfSwicG9ydGZvbGlvX2l0ZXJhdGlvbl90aHJlZV9qdWx5XzIwMTYiOnsiY29udHJvbF9hIjoyNSwiY29udHJvbF9iIjoyNSwidHJlYXRtZW50Ijo1MH0sInRheF9sb2NhdGVkX2dvYWxfY3JlYXRpb25fZmxvd19sYXVuY2hfZW5hYmxlZCI6eyJ0cnVlIjoxMDAsImZhbHNlIjowfSwicmV0YWlsX2xvZ2luX21lc3NhZ2VfcTRfMjAxNiI6eyJ0cnVlIjoxMDAsImZhbHNlIjowfSwidGF4X29yaWVudGVkX3JvbGxvdmVyX3Rhc2tfZW5hYmxlZCI6eyJ0cnVlIjo1MCwiZmFsc2UiOjUwfSwiYnJvY2h1cmVfdG9sbGZyZWVudW1iZXJfaXRlcmF0aW9udHdvX2p1bHlfMjAxNiI6eyJjb250cm9sX2EiOjEwMCwiY29udHJvbF9iIjowLCJ0cmVhdG1lbnQiOjB9LCJhZHZpc2VkX3dlbGNvbWVfZW1haWxfZW5hYmxlZCI6eyJ0cnVlIjoxMDAsImZhbHNlIjowfSwiZGlnaXRhbF9kdXBsaWNhdGVfc3RhdGVtZW50c19mb3Jfa3BtZ19lbmFibGVkIjp7InRydWUiOjAsImZhbHNlIjoxMDB9LCJzaWdudXBfc2lkZWJhcl9xM18yMDE2Ijp7InRydWUiOjAsImZhbHNlIjoxMDB9LCJsb2dpbl92ZXJpZmljYXRpb25fdWlfZW5hYmxlZCI6eyJ0cnVlIjoxMDAsImZhbHNlIjowfSwidGNwX2NhbGN1bGF0b3JfZW5hYmxlZCI6eyJmYWxzZSI6MCwidHJ1ZSI6MTAwfSwiY29ycmVjdGlvbl9jcmVhdGlvbl9lbmFibGVkIjp7InRydWUiOjAsImZhbHNlIjoxMDB9LCJwZXJmb3JtYW5jZV9jb250ZW50X3NlcHRfMjAxNiI6eyJ0cnVlIjoxMDAsImZhbHNlIjowfSwiaW5fYXBwX2d1aWRlX2Rlc2lnbl8yMDE2X3EzIjp7ImNvbnRyb2wiOjEwMCwibmV3X2Rlc2lnbiI6MH0sImJyb2NodXJlX3ByaWNpbmdwYWdlX2F1Z3VzdF8yMDE2Ijp7ImNvbnRyb2xfYSI6MCwiY29udHJvbF9iIjowLCJ0cmVhdG1lbnRfY2FsY3RvcCI6MTAwLCJ0cmVhdG1lbnRfY2FsY2JvdHRvbSI6MH0sIm1vYmlsZV9zaWdudXBfcmVtaW5kZXJfcTRfMjAxNiI6eyJmYWxzZSI6MTAwLCJ0cnVlIjowfSwibW9iaWxlX29uYm9hcmRpbmdfZGVzaWduX3YyX3EzXzIwMTYiOnsiZmFsc2UiOjEwMCwidHJ1ZSI6MH0sIm1vYmlsZV9zaWdudXBfcmVtaW5kZXJfcTNfMjAxNiI6eyJ0cnVlIjowLCJmYWxzZSI6MTAwfSwiZGlnaXRhbF9kdXBsaWNhdGVfc3RhdGVtZW50c19mb3Jfc3BfZW5hYmxlZCI6eyJ0cnVlIjoxMDAsImZhbHNlIjowfSwic2lnbnVwX2NvbmZpcm1hdGlvbl9lbmFibGVkIjp7InRydWUiOjEwMCwiZmFsc2UiOjB9LCJiNGFfc3ViX2FjY291bnRfZGF0YSI6eyJ0cnVlIjoxMDAsImZhbHNlIjowfSwibW9iaWxlX29uYm9hcmRpbmdfaW50cm9fY29weV8yMDE2Ijp7InRydWUiOjEwMCwiZmFsc2UiOjB9LCJicm9jaHVyZV9zZXJ2aWNlc19uYXZfc2VwdGVtYmVyXzIwMTYiOnsiZmluYW5jaWFsX3BsYW5uaW5nIjoxMDAsInBlcnNvbmFsaXplZF9hZHZpY2UiOjAsImZpbmFuY2lhbF9ndWlkYW5jZSI6MCwiZmluYW5jaWFsX2FkdmljZSI6MH0sImI0YV9wb3J0Zm9saW9fc3RyYXRlZ2llcyI6eyJ0cnVlIjoxMDAsImZhbHNlIjowfSwic3ViX2FjY291bnRfcG93ZXJlZF9hZHZpc29yX2Rhc2hib2FyZCI6eyJ0cnVlIjoxMDAsImZhbHNlIjowfSwibm92ZW1iZXJfMjAxNl9wcm9tb19leHBlcmltZW50Ijp7ImNvbnRyb2wiOjM0LCJoaWdoIjozMywibG93IjozM30sImJyb2NodXJlX3Bob25lX2FkdmljZV9xNF8yMDE2X2V4cGVyaW1lbnQiOnsiY29udHJvbCI6NTAsInRyZWF0bWVudCI6NTB9LCJkaWdpdGFsX2R1cGxpY2F0ZV9zdGF0ZW1lbnRzX2Zvcl9wd2NfZW5hYmxlZCI6eyJ0cnVlIjowLCJmYWxzZSI6MTAwfSwiZGlnaXRhbF9kdXBsaWNhdGVfc3RhdGVtZW50c19mb3JfZGVsb2l0dGVfZW5hYmxlZCI6eyJ0cnVlIjowLCJmYWxzZSI6MTAwfSwiYnJvY2h1cmVfcGhvbmVfYWR2aWNlX3E0XzIwMTZfZW5hYmxlZCI6eyJmYWxzZSI6MCwidHJ1ZSI6MTAwfSwiYnJvY2h1cmVfcGhvbmVfYWR2aWNlX3E0XzIwMTZfZXhwZXJpbWVudF92MiI6eyJjb250cm9sIjo1MCwidHJlYXRtZW50Ijo1MH0sImJyb2NodXJlX3Bob25lX2FkdmljZV9xNF8yMDE2X2VuYWJsZWRfdjIiOnsidHJ1ZSI6MTAwLCJmYWxzZSI6MH0sInE0XzIwMTZfd2hpdGVfZ2xvdmVfcm9sbG92ZXJzX2VuYWJsZWQiOnsidHJ1ZSI6MTAwLCJmYWxzZSI6MH0sInE0XzIwMTZfd2hpdGVfZ2xvdmVfcm9sbG92ZXJzIjp7ImNvbnRyb2wiOjAsIm5ldyI6MTAwfSwiaXJhX3RheF93aXRoaG9sZGluZ19lbmFibGVkIjp7InRydWUiOjAsImZhbHNlIjoxMDB9LCJyZXRhaWxfdXNlcl9jcmVhdGlvbl9lbmRwb2ludF9lbmFibGVkIjp7ImZhbHNlIjowLCJ0cnVlIjoxMDB9LCJkaWdpdGFsX2R1cGxpY2F0ZV9zdGF0ZW1lbnRzX2Zvcl9leV9lbmFibGVkIjp7InRydWUiOjEwMCwiZmFsc2UiOjB9LCJzZW5kX2lkb2xvZ3lfZW1haWxfcTRfMjAxNl9lbmFibGVkIjp7ImZhbHNlIjowLCJ0cnVlIjoxMDB9LCJ0YXhfbG9jYXRpb25fYW5ub3VuY2VtZW50X2VuYWJsZWQiOnsidHJ1ZSI6MCwiZmFsc2UiOjEwMH0sIm1vYmlsZV9vbmJvYXJkaW5nX2Rlc2lnbl9xNF8yMDE2X2V4cGVyaW1lbnQiOnsiY29udHJvbCI6MTAwLCJ0cmVhdG1lbnQiOjB9LCJyZXRhaWxfdG9fYjRhX2V2ZW50c19kaXNhYmxlZCI6eyJmYWxzZSI6MTAwLCJ0cnVlIjowfSwiYWR2aXNvcl9uZXR3b3JrX3E0XzIwMTZfZW5hYmxlZCI6eyJ0cnVlIjowLCJmYWxzZSI6MTAwfSwicmV0YWlsX3NpZ251cF9xNF8yMDE2X2VuYWJsZWQiOnsiZmFsc2UiOjAsInRydWUiOjEwMH0sInRheGFibGVfYWNhdHNfdHJhbnNmZXJfcTRfMjAxNl9lbmFibGVkIjp7InRydWUiOjAsImZhbHNlIjoxMDB9LCJ0Y3Bfc2V0dXBfYWdncmVnYXRpb25fYXdhcmVfcm9sbG92ZXJfc3RlcF9xNF8yMDE2X2VuYWJsZWQiOnsidHJ1ZSI6NTAsImZhbHNlIjo1MH0sInVwZ3JhZGVfcGxhbl90YXNrX3ExXzIwMTdfZW5hYmxlZCI6eyJ0cnVlIjowLCJmYWxzZSI6MTAwfSwic3BlY2lhbGl6ZWRfZWRpdF9nb2FsX2V4cGVyaWVuY2VfMjAxNl9lbmFibGVkIjp7InRydWUiOjAsImZhbHNlIjoxMDB9LCJkb2xfcnVsZV9jb3B5X3Rlc3RfcTRfMjAxNiI6eyJjb250cm9sIjo1MCwidHJlYXRtZW50Ijo1MH0sInJldGFpbF9lbWJlZGRlZF9hbGxvY2F0aW9uX2FkdmljZV9lbmFibGVkIjp7InRydWUiOjAsImZhbHNlIjoxMDB9LCJicm9jaHVyZV9tYXNzX2FmZmx1ZW50X292ZXJoYXVsX3E0XzIwMTYiOnsiY29udHJvbCI6NTAsInRyZWF0bWVudCI6NTB9LCJ2YW5ndWFyZF9mdWxsX2lyYV9hY2F0c19lbmFibGVkIjp7InRydWUiOjEwMCwiZmFsc2UiOjB9LCJkZXNrdG9wX3NpZ251cF9zaWRlYmFyX3E0XzIwMTZfZXhwZXJpbWVudCI6eyJjb250cm9sIjoxMDAsInRyZWF0bWVudCI6MH0sInBob25lX2FkdmljZV9xNF8yMDE2X2VuYWJsZWQiOnsidHJ1ZSI6MTAwLCJmYWxzZSI6MH0sInBob25lX2FkdmljZV90YXNrX3E0XzIwMTZfZW5hYmxlZCI6eyJ0cnVlIjowLCJmYWxzZSI6MTAwfSwiZGF5MF9lbWFpbF9xNF8yMDE2X2V4cGVyaW1lbnQiOnsidHJ1ZSI6NTAsImZhbHNlIjo1MH0sIm9uYm9hcmRpbmdfdXNlX3JldGFpbF9hbGxvY2F0aW9uX2FkdmljZV9xNF8yMDE2X2VuYWJsZWQiOnsidHJ1ZSI6MTAwLCJmYWxzZSI6MH0sInNwb3VzYWxfdGxoX2FkZF9zcG91c2VfZW5hYmxlZF9sYXVuY2hfMjAxNyI6eyJ0cnVlIjoxMDAsImZhbHNlIjowfSwicm9sbG92ZXJfY29tcGxldGVfdGNwX2FkdmljZV9xMV8yMDE3X2V4cGVyaW1lbnQiOnsiY29udHJvbCI6NTAsInRyZWF0bWVudCI6NTB9LCJicm9jaHVyZV93aHlfYmV0dGVybWVudF9leHBlcmltZW50Ijp7ImNvbnRyb2wiOjEwMCwidHJlYXRtZW50IjowfSwic3RhbmRhbG9uZV9iYW5rX2FjY291bnRfY3JlYXRpb25fcTRfMjAxNl9lbmFibGVkIjp7InRydWUiOjEwMCwiZmFsc2UiOjB9LCJzcGVjaWFsaXplZF9lZGl0X2dvYWxfZXhwZXJpZW5jZV9sYXVuY2hfMjAxNl9lbmFibGVkIjp7InRydWUiOjEwMCwiZmFsc2UiOjB9LCJwcm9tb3RlX3RjcF9pbl9pbmFwcGd1aWRlX3ExXzIwMTdfZXhwZXJpbWVudCI6eyJjb250cm9sIjoxMDAsInRyZWF0bWVudCI6MH0sInBlcmZvcm1hbmNlX3RhYl9vdXRzaWRlX3NwYSI6eyJ0cnVlIjoxMDAsImZhbHNlIjowfSwiYWN0aXZpdHlfdGFiX291dHNpZGVfc3BhIjp7InRydWUiOjEwMCwiZmFsc2UiOjB9LCJwdXNoX25vdGlmaWNhdGlvbnNfcTFfMjAxN19lbmFibGVkIjp7InRydWUiOjEwMCwiZmFsc2UiOjB9LCJyZXRhaWxfcGFzc3dvcmRfcmVzZXRfcGFnZV9xMV8yMDE3X2VuYWJsZWQiOnsidHJ1ZSI6MTAwLCJmYWxzZSI6MH0sImZ1bmRfdG9fdXBncmFkZV9wbGFuX3Rhc2tfcTFfMjAxN19lbmFibGVkIjp7InRydWUiOjUwLCJmYWxzZSI6NTB9LCJzaWdudXBfYmFzaWNfbGVhZF9xNF8yMDE2X2V4cGVyaW1lbnQiOnsiY29udHJvbCI6MCwidHJlYXRtZW50IjoxMDB9LCJicm9jaHVyZV9tYXNzX2FmZmx1ZW50X3ExXzIwMTciOnsiY29udHJvbCI6NTAsInRyZWF0bWVudCI6NTB9LCJkYXkwX2VtYWlsX3YyX3ExXzIwMTdfZXhwZXJpbWVudCI6eyJjb250cm9sIjo1MCwidHJlYXRtZW50Ijo1MH0sInRydXN0X3NpZ251cF9vdXRzaWRlX3NwYSI6eyJ0cnVlIjowLCJmYWxzZSI6MTAwfSwicG9ydGZvbGlvX291dHNpZGVfc3BhX3ExXzIwMTdfZW5hYmxlZCI6eyJ0cnVlIjoxMDAsImZhbHNlIjowfSwiY3N0X3ByaWNpbmdfcGxhbl90cmFuc2l0aW9uX3ExXzIwMTdfZW5hYmxlZCI6eyJ0cnVlIjoxMDAsImZhbHNlIjowfSwidGhpcnR5X2RheV9mcmVlX3RyaWFsX2VuYWJsZWQiOnsidHJ1ZSI6MCwiZmFsc2UiOjEwMH0sImJyb2NodXJlX3NhdGlzZmFjdGlvbl9ndWFyYW50ZWVfcTFfMjAxNyI6eyJjb250cm9sIjowLCJ0cmVhdG1lbnQiOjEwMH0sInNtYXJ0X2RlcG9zaXRfZmxvd19xMV8yMDE3X2VuYWJsZWQiOnsidHJ1ZSI6MTAwLCJmYWxzZSI6MH0sImZyZWVfY29uc3VsdGF0aW9uX3Rhc2tfcTFfMjAxN19lbmFibGVkIjp7InRydWUiOjEwMCwiZmFsc2UiOjB9LCJhZ2dyZWdhdGlvbl9yb2xsb3Zlcl9xMV8yMDE3X2VuYWJsZWQiOnsidHJ1ZSI6MCwiZmFsc2UiOjEwMH0sInJldGFpbF91c2VyX2NyZWF0aW9uX3VzZV9iZXR0ZXJfZ29hbF9jcmVhdGlvbl9xMV8yMDE3X2VuYWJsZWQiOnsidHJ1ZSI6MTAwLCJmYWxzZSI6MH0sInNpZ251cF9zZ19idWJibGVfcTFfMjAxN19leHBlcmltZW50Ijp7ImNvbnRyb2wiOjAsInRyZWF0bWVudCI6MTAwfSwiYWdncmVnYXRpb25fcm9sbG92ZXJfcTFfMjAxN19zcGxpdCI6eyJjb250cm9sIjo1MCwidHJlYXRtZW50Ijo1MH0sInJldGFpbF9sZWFkX2VuZHBvaW50X3ExXzIwMTdfZW5hYmxlZCI6eyJ0cnVlIjoxMDAsImZhbHNlIjowfSwiZWRpdF9nb2FsX3B1cnBvc2VfZmxvd19xMV8yMDE3X2xhdW5jaCI6eyJ0cnVlIjoxMDAsImZhbHNlIjowfSwiZGF5MF9lbWFpbF92M19xMV8yMDE3X2V4cGVyaW1lbnQiOnsiY29udHJvbCI6MCwidHJlYXRtZW50IjoxMDB9LCJ0YXhfeWVhcl9tYXhfb3V0X3ExXzIwMTciOnsidHJ1ZSI6MTAwLCJmYWxzZSI6MH0sInBvc3Rfc2lnbnVwX2ZyZWVfY2FsbF9xMV8yMDE3Ijp7ImNvbnRyb2wiOjUwLCJ0cmVhdG1lbnQiOjUwfSwiYWR2aXNvcl9uZXR3b3JrX3ExXzIwMTdfZW5hYmxlZCI6eyJ0cnVlIjoxMDAsImZhbHNlIjowfSwiZWRpdF9nb2FsX3B1cnBvc2VfZmxvd19xMV8yMDE3X2VuYWJsZWQiOnsidHJ1ZSI6NTAsImZhbHNlIjo1MH0sIm1vYmlsZV9kaXZpZGVyX3ExXzIwMTdfZXhwZXJpbWVudCI6eyJjb250cm9sIjo1MCwidHJlYXRtZW50Ijo1MH0sImI0Yl9vbmJvYXJkaW5nX2Zsb3dfb3V0c2lkZV9zcGEiOnsidHJ1ZSI6MTAwLCJmYWxzZSI6MH0sIm1hcmNoX21vbnRobHlfZW1haWxfcmVjZWl2ZWQiOnsiY29udHJvbCI6NTAsInRyZWF0bWVudCI6NTB9LCJtYXJjaF9tb250aGx5X2VtYWlsX3JlY2VpdmVkX3dpdGhfY3RhIjp7InNpbmdsZV9jdGEiOjUwLCJkb3VibGVfY3RhIjo1MH0sImRlY29udmVyc2lvbl9yZXBvcnRzX2dlbmVyYWJsZSI6eyJ0cnVlIjowLCJmYWxzZSI6MTAwfSwiYnJvY2h1cmVfaHVtYW5fYWR2aWNlX2hvbWVwYWdlX3ExXzIwMTdfZXhwZXJpbWVudCI6eyJjb250cm9sIjo1MCwidHJlYXRtZW50Ijo1MH0sImJyb2NodXJlX2h1bWFuX2FkdmljZV9ob21lcGFnZV9xMV8yMDE3X2VuYWJsZWQiOnsidHJ1ZSI6MTAwLCJmYWxzZSI6MH0sIm9mZl90cmFja19nb2FsX3Rhc2tfcTFfMjAxN19leHBlcmltZW50Ijp7ImNvbnRyb2wiOjAsInRyZWF0bWVudCI6MTAwfSwic3RhcnRfcm9sbG92ZXJfYnV0dG9uX3ExXzIwMTdfZXhwZXJpbWVudCI6eyJjb250cm9sIjoxMDAsInRyZWF0bWVudCI6MH0sInByaWNpbmdfcGxhbl9zaWdudXBfaW52ZXN0YWJsZV9hc3NldHNfdmFsdWVfaW5wdXRfMjAxNyI6eyJyYWRpbyI6MCwidmFsdWUiOjEwMH0sImRheTBfZW1haWxfZGVsaXZlcnlfdGltZV9xMV8yMDE3X2V4cGVyaW1lbnQiOnsiY29udHJvbCI6NTAsInRyZWF0bWVudCI6NTB9LCJicm9jaHVyZV9yb2xsb3Zlcl9zaWdudXBfaXJhX3BhZ2VfdG9wX2N0YV9jbGlja19xMV8yMDE3X2V4cGVyaW1lbnQiOnsiY29udHJvbCI6NTAsInRyZWF0bWVudCI6NTB9LCJzdW1tYXJ5X2RlcG9zaXRfYnV0dG9uX3RleHRfcTFfMjAxN19leHBlcmltZW50Ijp7ImNvbnRyb2wiOjEwMCwidHJlYXRtZW50IjowfSwic2lnbnVwX3JldGFpbF9yaWdodF9idWJibGVfcTFfMjAxN19leHBlcmltZW50Ijp7ImNvbnRyb2wiOjAsInRyZWF0bWVudCI6MTAwfSwid2l0aGRyYXdhbF9yZWRlc2lnbl9xMV8yMDE3X2VuYWJsZWQiOnsiZmFsc2UiOjAsInRydWUiOjEwMH0sImluaXRpYWxfZ29hbF9zZXR1cF9xMV8yMDE3X2VuYWJsZWQiOnsidHJ1ZSI6MTAwLCJmYWxzZSI6MH0sInJvbGxvdmVyX3NpZ251cF9lbmFibGVkIjp7InRydWUiOjEwMCwiZmFsc2UiOjB9LCJtb2JpbGVfZGVwb3NpdF9wcm9qZWN0aW9uc19xMV8yMDE3X2V4cGVyaW1lbnQiOnsiY29udHJvbCI6NTAsInRyZWF0bWVudCI6NTB9LCJkZWNvbnZlcnNpb25zX2VuYWJsZWQiOnsidHJ1ZSI6MCwiZmFsc2UiOjEwMH0sImluY2x1ZGVfYWR2aWNlX2luX3F1YXJ0ZXJseV9zdGF0ZW1lbnRfcTFfMjAxNyI6eyJjb250cm9sIjo1MCwidHJlYXRtZW50Ijo1MH0sImJyb2NodXJlX3JvbGxvdmVyX3NpZ251cF9pcmFfcGFnZV9ib3R0b21fY3RhX3ExXzIwMTdfZXhwZXJpbWVudCI6eyJjb250cm9sIjoxMDAsInRyZWF0bWVudCI6MH0sImJyb2NodXJlX3ByaWNpbmdfc2lnbnVwX2hvbWVwYWdlX21hZGxpYl9zdWJtaXRfcTFfMjAxN19leHBlcmltZW50Ijp7ImNvbnRyb2wiOjEwMCwidHJlYXRtZW50IjowfSwiYnJvY2h1cmVfZ2V0X3N0YXJ0ZWRfY2xpY2tfcTFfMjAxN19leHBlcmltZW50Ijp7ImNvbnRyb2wiOjEwMCwidHJlYXRtZW50IjowfSwiYnJvY2h1cmVfaHVtYW5fYWR2aWNlX2ltYWdlcnlfcTFfMjAxN19leHBlcmltZW50Ijp7ImNvbnRyb2wiOjUwLCJ0cmVhdG1lbnQiOjUwfSwibW9iaWxlX2luaXRpYWxfZGVwb3NpdF9xMV8yMDE3X2V4cGVyaW1lbnQiOnsiY29udHJvbCI6NTAsInRyZWF0bWVudCI6NTB9LCJjb21wbGlhbmNlX3BsYW5fcmVwb3J0c19lbmFibGVkIjp7InRydWUiOjEwMCwiZmFsc2UiOjB9LCJnb2FsX2NyZWF0aW9uX2Zsb3dfdjJfcTFfMjAxN19leHBlcmltZW50Ijp7ImNvbnRyb2wiOjAsInRyZWF0bWVudCI6MTAwfSwiaHVtYW5fYWR2aWNlX2dyYWNlX3BlcmlvZF9xMV8yMDE3X2VuYWJsZWQiOnsidHJ1ZSI6MTAwLCJmYWxzZSI6MH0sImJyb2NodXJlX3doeV9iZXR0ZXJtZW50X3YyX3ExXzIwMTdfZXhwZXJpbWVudCI6eyJjb250cm9sIjowLCJ0cmVhdG1lbnQiOjEwMH0sImJyb2NodXJlX3JldGlyZW1lbnRfcG9zdF9jaG9pY2VfY3RhX3ExXzIwMTdfZXhwZXJpbWVudCI6eyJjb250cm9sIjowLCJ0cmVhdG1lbnQiOjEwMH0sInByaWNpbmdfcGxhbl9zaWdudXBfZmxvd19xMV8yMDE3X2VuYWJsZWQiOnsidHJ1ZSI6MTAwLCJmYWxzZSI6MH0sImRpc3RyaWJ1dGlvbl9yZXF1ZXN0c19lbmFibGVkIjp7InRydWUiOjAsImZhbHNlIjoxMDB9LCJicm9jaHVyZV9odW1hbl9hZHZpY2VfZnJvbnRfcGFnZV92M18yMDE3X2V4cGVyaW1lbnQiOnsiY29udHJvbCI6NTAsInRyZWF0bWVudCI6NTB9LCJpbml0aWFsX2dvYWxfc2V0dXBfcTFfMjAxN19leHBlcmltZW50Ijp7ImNvbnRyb2wiOjUwLCJ0cmVhdG1lbnQiOjUwfSwiaHVtYW5fYWR2aWNlXzNfbW9udGhfcmVmZXJyYWxfYm9udXNfcTJfMjAxN19lbmFibGVkIjp7InRydWUiOjAsImZhbHNlIjoxMDB9LCJibHVycGxlX2VuYWJsZWQiOnsidHJ1ZSI6MCwiZmFsc2UiOjEwMH0sImJyb2NodXJlX2dldF9zdGFydGVkX2NsaWNrX3YyX3ExXzIwMTdfZXhwZXJpbWVudCI6eyJjb250cm9sIjoxMDAsInRyZWF0bWVudCI6MH0sIm5vbl9mYXhhYmxlX2lyYV9zdWNjZXNzX3EyXzIwMTciOnsiY29udHJvbCI6NTAsInRyZWF0bWVudCI6NTB9LCJmYXhhYmxlX2lyYV9zdWNjZXNzX3EyXzIwMTciOnsiY29udHJvbCI6NTAsInRyZWF0bWVudCI6NTB9LCJpbmFjdGl2ZV9lbXBsb3llcl9wbGFuX21hcmtldGluZ19xMl8yMDE3X2V4cGVyaW1lbnQiOnsiY29udHJvbCI6NTAsInRyZWF0bWVudCI6NTB9LCJpbmFjdGl2ZV9lbXBsb3llcl9wbGFuX21hcmtldGluZ19xMl8yMDE3X2VuYWJsZWQiOnsidHJ1ZSI6MTAwLCJmYWxzZSI6MH0sImJyb2NodXJlX2h1bWFuX2FkdmljZV9mcm9udF9wYWdlX3YzXzIwMTdfZW5hYmxlZCI6eyJ0cnVlIjoxMDAsImZhbHNlIjowfSwiZ29hbF90cmFuc2Zlcl9vdXRzaWRlX3NwYV9lbmFibGVkIjp7InRydWUiOjAsImZhbHNlIjoxMDB9LCJyZWZlcl9hX2ZyaWVuZF9yYWlsc19lbmFibGVkIjp7InRydWUiOjEwMCwiZmFsc2UiOjB9LCJtb2JpbGVfaW5pdGlhbF9vbmVfdGltZV9kZXBvc2l0X3EyXzIwMTdfZW5hYmxlZCI6eyJjb250cm9sIjo1MCwidHJlYXRtZW50Ijo1MH0sImJyb2NodXJlX2d1aWRlZF9zaWdudXBfbWFkbGliX2FsdF9xMl8yMDE3X2V4cGVyaW1lbnQiOnsiY29udHJvbCI6MTAwLCJ0cmVhdG1lbnQiOjB9LCJndWlkZWRfc2lnbnVwX3EyXzIwMTdfZW5hYmxlZCI6eyJ0cnVlIjoxMDAsImZhbHNlIjowfSwiYXBwX2d1aWRlX3Zpc3VhbF9xMl8yMDE3X2VuYWJsZWQiOnsidHJ1ZSI6MTAwLCJmYWxzZSI6MH0sImluaXRpYWxfZ29hbF9zZXR1cF9kZWZhdWx0X2RlcG9zaXRfdHlwZV9xMl8yMDE3X2V4cGVyaW1lbnQiOnsiY29udHJvbCI6MCwidHJlYXRtZW50IjoxMDB9LCJicm9jaHVyZV9ndWlkZWRfc2lnbnVwX2dlbmVyYWxfY3RhX3EyXzIwMTdfZXhwZXJpbWVudCI6eyJjb250cm9sIjowLCJ0cmVhdG1lbnQiOjEwMH0sImFwcF9ndWlkZV92aXN1YWxfcTJfMjAxN19leHBlcmltZW50Ijp7ImNvbnRyb2wiOjM0LCJzaW5nbGVfdGFzayI6MzMsInRocmVlX3Rhc2siOjMzfSwiZm91cl9vaF9vbmVfa19kaXN0cmlidXRpb25fZmxvd19lbmFibGVkIjp7InRydWUiOjAsImZhbHNlIjoxMDB9LCJkaXJlY3RfbWFpbF9mdW5kaW5nX3JlbWluZGVyX3EyXzIwMTdfZXhwZXJpbWVudCI6eyJjb250cm9sIjo1MCwidHJlYXRtZW50Ijo1MH0sInJldGlyZW1lbnRfY2FsY3VsYXRvcl9wcm9zcGVjdF9lbWFpbF9xMl8yMDE3X2VuYWJsZWQiOnsiZmFsc2UiOjAsInRydWUiOjEwMH0sInJlYnJhbmRfZW5hYmxlZCI6eyJ0cnVlIjowLCJmYWxzZSI6MTAwfSwiYnJvY2h1cmVfY2FsY3VsYXRvcl9lbWFpbF9jYXB0dXJlX3EyXzIwMTdfZXhwZXJpbWVudCI6eyJjb250cm9sIjo1MCwidHJlYXRtZW50Ijo1MH0sInJvbGxvdmVyX2Zsb3dfYWNjb3VudF90eXBlX3EyXzIwMTciOnsiY29udHJvbCI6NTAsInRyZWF0bWVudCI6NTB9LCJicm9jaHVyZV9yZXRpcmVtZW50X3JvbGxvdmVyX2N0YV9xMl8yMDE3X2V4cGVyaW1lbnQiOnsiY29udHJvbCI6NTAsInRyZWF0bWVudCI6NTB9LCJmb3VyX29oX29uZV9rX2FncmVlbWVudF9vdXRzaWRlX3NwYV9lbmFibGVkIjp7InRydWUiOjAsImZhbHNlIjoxMDB9LCJwcmljaW5nX3BhZ2VfdjJfcTJfMjAxN19leHBlcmltZW50Ijp7ImNvbnRyb2wiOjUwLCJ0cmVhdG1lbnQiOjUwfSwicHJpY2luZ19wYWdlX3YyX3EyXzIwMTdfZW5hYmxlZCI6eyJ0cnVlIjoxMDAsImZhbHNlIjowfSwic3ViX2FjY291bnRfcmVtb3ZhbF9vdXRzaWRlX3NwYV9lbmFibGVkIjp7InRydWUiOjAsImZhbHNlIjoxMDB9LCJkaXJlY3RfbWFpbF9mdW5kaW5nX3JlbWluZGVyX3EyXzIwMTdfZW5hYmxlZCI6eyJ0cnVlIjoxMDAsImZhbHNlIjowfSwiZW1wbG95ZXJfcGxhbl9yb2xsb3Zlcl9iZW5lZml0c19lbWFpbF9ub3RpZmljYXRpb25fZW5hYmxlZCI6eyJ0cnVlIjoxMDAsImZhbHNlIjowfSwiZW1wbG95ZXJfcGxhbl9yb2xsb3Zlcl9iZW5lZml0c19lbmFibGVkIjp7InRydWUiOjEwMCwiZmFsc2UiOjB9LCJicm9jaHVyZV9ob21lcGFnZV9vbmJvYXJkaW5nX2NhbGxfcTJfMjAxN19lbmFibGVkIjp7InRydWUiOjEwMCwiZmFsc2UiOjB9LCJwcm9maWxlX3BhZ2Vfb3V0c2lkZV9zcGFfZW5hYmxlZCI6eyJ0cnVlIjowLCJmYWxzZSI6MTAwfSwiZ29hbF9hZHZpY2Vfb3V0c2lkZV9zcGFfZW5hYmxlZCI6eyJ0cnVlIjowLCJmYWxzZSI6MTAwfSwiY3VzdG9keV9hY3Rpdml0eV9kaXZpZGVuZF9lbmFibGVkIjp7InRydWUiOjUwLCJmYWxzZSI6NTB9LCJzYXRpc2ZhY3Rpb25fZ3VhcmFudGVlX3dpdGhkcmF3YWxfcTJfMjAxNyI6eyJjb250cm9sIjo1MCwidHJlYXRtZW50Ijo1MH0sImlyYV9hY2F0c191bmFkdmlzZWRfZW5hYmxlZCI6eyJ0cnVlIjowLCJmYWxzZSI6MTAwfSwiaXJhX2FjYXRzX2FkdmlzZWRfZW5hYmxlZCI6eyJ0cnVlIjoxMDAsImZhbHNlIjowfSwiYnJvY2h1cmVfZ3VpZGVkX3NpZ251cF9tYWRsaWJfYWx0X3YyX3EyXzIwMTdfZXhwZXJpbWVudCI6eyJjb250cm9sIjo1MCwidHJlYXRtZW50Ijo1MH0sImJyb2NodXJlX21vYmlsZV9nZW5lcmFsX2N0YV9kZXN0aW5hdGlvbl9xMl8yMDE3X2V4cGVyaW1lbnQiOnsiY29udHJvbCI6NTAsInRyZWF0bWVudCI6NTB9LCJwaG9uZV9udW1iZXJfZW5hYmxlZCI6eyJ0cnVlIjoxMDAsImZhbHNlIjowfSwicGxhbl9zcG9uc29yX2VsaWdpYmxlX29uX2VuYWJsZWQiOnsidHJ1ZSI6MCwiZmFsc2UiOjEwMH19LCJ1cmwiOiJodHRwczpcL1wvdHQuYmV0dGVybWVudC5jb20iLCJjb29raWVEb21haW4iOiJiZXR0ZXJtZW50LmNvbSIsImVuY29kZWRBdCI6IjIwMTcwNTE3MjIzMzI4In0=";
-    </script>
-    <script type="text/javascript">
-        window.bettermentPageLoadStartTime = (new Date()).getTime();
+<!DOCTYPE html><html class="no-js" lang="en-US" xmlns:fb="https://www.facebook.com/2008/fbml" xmlns:addthis="https://www.addthis.com/help/api-spec" prefix="og: http://ogp.me/ns#"><head>
+      <meta charset="UTF-8">
+    <title>Privacy Policy | Betterment</title>
+    <link rel="stylesheet" href="https://www.betterment.com/wp-content/themes/foley/release/foley.51fe216e790ac1a3.css" type="text/css">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-1099.min.js"></script><script src="//www.youtube.com/iframe_api"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5RSQL7"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwYOWVBbGwYAVFZWBwA="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(16),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(17),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,v="fn"+h,w="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(v,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(v,function(t,n){i(w,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(v,function(t,n){i(w,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(19)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(19)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(19)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(19)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):v?v(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(19)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,v=l.SI,w="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(w,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!v&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===w||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(16),s=t(17),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){if(!o)return!1;if(t!==o)return!1;if(!n)return!0;if(!i)return!1;for(var e=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==e[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(o="Safari",i=c[1])}n.exports={agent:o,version:i,match:r}},{}],16:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],17:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],18:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],19:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(17),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=m(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[g[e]];return d&&d.push([b,e,r,a]),a}}function p(t,n){y[t]=m(t).concat(n)}function h(t,n){var e=y[t];if(e)for(var r=0;r<e.length;r++)e[r]===n&&e.splice(r,1)}function m(t){return y[t]||[]}function v(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",g[e]=n,n in u||(u[n]=[])})}var y={},g={},b={on:p,addEventListener:p,removeEventListener:h,emit:e,get:v,listeners:m,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(16),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!E++){var t=x.info=NREUM.info,n=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(g,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+x.offset],null,"api");var e=p.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===p.readyState&&i()}function i(){c("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-x.offset}var s=(new Date).getTime(),c=t("handle"),f=t(16),u=t("ee"),d=t(15),l=window,p=l.document,h="addEventListener",m="attachEvent",v=l.XMLHttpRequest,w=v&&v.prototype;NREUM.o={ST:setTimeout,SI:l.setImmediate,CT:clearTimeout,XHR:v,REQ:l.Request,EV:l.Event,PR:l.Promise,MO:l.MutationObserver};var y=""+location,g={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1099.min.js"},b=v&&w&&w[h]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:s,now:a,origin:y,features:{},xhrWrappable:b,userAgent:d};t(12),p[h]?(p[h]("DOMContentLoaded",i,!1),l[h]("load",r,!1)):(p[m]("onreadystatechange",o),l[m]("onload",r)),c("mark",["firstbyte",s],null,"api");var E=0,O=t(18)},{}]},{},["loader",2,10,4,3]);</script>
+    <link rel="apple-touch-icon-precomposed" href="/favicon-152.png">
+    <meta name="apple-itunes-app" content="app-id=393156562">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="pingback" href="https://www.betterment.com/xmlrpc.php">
+        <script type="text/javascript">
+        window.TT = "eyJyZWdpc3RyeSI6eyJtb2JpbGVfZ29hbF9wcm9qZWN0aW9uc19xMl8yMDE4X3NhZmVfZW5hYmxlZCI6eyJ0cnVlIjoxMDAsImZhbHNlIjowfSwibW9iaWxlX2FnZ3JlZ2F0aW9uX3EyXzIwMThfZW5hYmxlZCI6eyJ0cnVlIjowLCJmYWxzZSI6MTAwfSwiZ29hbHNfcGhhc2Vfb25lXzIwMTYiOnsidHJ1ZSI6MCwiZmFsc2UiOjEwMH0sImV4dGVybmFsX2FjY291bnRfdHJhbnNmZXJfcHJldmlld19xMl8yMDE4X2VuYWJsZWQiOnsidHJ1ZSI6MTAwLCJmYWxzZSI6MH0sIm1vYmlsZV9mb3JjZWRfd2Fsa3Rocm91Z2hfcTJfMjAxOF9lbmFibGVkIjp7InRydWUiOjEwMCwiZmFsc2UiOjB9LCJhbGxvY2F0aW9uX3Jldmlld19yZWZhY3Rvcl9nb2FsX2NyZWF0aW9uX3EyXzIwMThfZW5hYmxlZCI6eyJ0cnVlIjoxMDAsImZhbHNlIjowfSwiY29tcG9uZW50X3JldmVyc2Fsc19lbmFibGVkIjp7InRydWUiOjEwMCwiZmFsc2UiOjB9LCJwb3J0Zm9saW9fdXBncmFkZV9tZXNzYWdpbmdfcTJfMjAxOF9lbmFibGVkIjp7InRydWUiOjEwMCwiZmFsc2UiOjB9LCJyZXRhaWxfY3ByX3plbmRlc2tfd2ViX3dpZGdldF9xMl8yMDE4X2VuYWJsZWQiOnsidHJ1ZSI6MTAwLCJmYWxzZSI6MH0sImV4dGVybmFsX2FjY291bnRfdHJhbnNmZXJfcHJldmlld19xMl8yMDE4X2V4cGVyaW1lbnQiOnsidHJlYXRtZW50Ijo1MCwiY29udHJvbCI6NTB9LCJiNGFfcmFpbHNfc2lnbnVwX2VuYWJsZWQiOnsidHJ1ZSI6MTAwLCJmYWxzZSI6MH0sInJldGFpbF9jaGFybGllX21lZGlhX2Rlc3RpbmF0aW9uX3Rlc3RfcTJfMjAxOF9leHBlcmltZW50Ijp7ImNvbnRyb2wiOjUwLCJ0cmVhdG1lbnQiOjUwfSwiYjRhX3N1Yl9hY2NvdW50X2RhdGEiOnsidHJ1ZSI6MTAwLCJmYWxzZSI6MH0sImI0YV9wb3J0Zm9saW9fc3RyYXRlZ2llcyI6eyJ0cnVlIjoxMDAsImZhbHNlIjowfSwic3ViX2FjY291bnRfcG93ZXJlZF9hZHZpc29yX2Rhc2hib2FyZCI6eyJ0cnVlIjoxMDAsImZhbHNlIjowfSwibm92ZW1iZXJfMjAxNl9wcm9tb19leHBlcmltZW50Ijp7ImNvbnRyb2wiOjM0LCJoaWdoIjozMywibG93IjozM30sIm1vYmlsZV9mb3JjZWRfd2Fsa3Rocm91Z2hfcTJfMjAxOF9leHBlcmltZW50Ijp7ImNvbnRyb2wiOjEwMCwidHJlYXRtZW50IjowfSwicm9sbG92ZXJfcmVkZXNpZ25lZF90cmFuc2Zlcl9wcmV2aWV3X3EyXzIwMThfZXhwZXJpbWVudCI6eyJjb250cm9sIjoxMDAsInRyZWF0bWVudCI6MH0sImFsbG9jYXRpb25fcmV2aWV3X3JlZmFjdG9yX2dvYWxfY3JlYXRpb25fcTJfMjAxOF9leHBlcmltZW50Ijp7ImNvbnRyb2wiOjAsImV4cGVyaW1lbnQiOjEwMH0sInJldGFpbF9jcHJfemVuZGVza193ZWJfd2lkZ2V0X3EyXzIwMThfZXhwZXJpbWVudCI6eyJjb250cm9sIjowLCJ0cmVhdG1lbnQiOjEwMH0sImZvdXJfb2hfb25lX2tfcm9sbG92ZXJfaW5zdHJ1Y3Rpb25zX3E0XzIwMThfZW5hYmxlZCI6eyJ0cnVlIjoxMDAsImZhbHNlIjowfSwibW9iaWxlX2lvc19maXhfcXVvdm9fY29ubmVjdGlvbnNfcTRfMjAxOF9lbmFibGVkIjp7InRydWUiOjEwMCwiZmFsc2UiOjB9LCJtb2JpbGVfcmV3YXJkc19jZW50ZXJfcTFfMjAxOV9leHBlcmltZW50Ijp7ImNvbnRyb2wiOjUwLCJ0cmVhdG1lbnQiOjUwfSwidGF4X3llYXJfbWF4X291dF9xMV8yMDE5X2VuYWJsZWQiOnsidHJ1ZSI6MCwiZmFsc2UiOjEwMH0sImJhc2ljX3NpZ251cF9mbG93X2NvbnRpbnVlX3NwaW5uZXJfcTRfMjAxOF9leHBlcmltZW50Ijp7ImNvbnRyb2wiOjUwLCJ0cmVhdG1lbnQiOjUwfSwibW9iaWxlX2dvYWxfcHJvamVjdGlvbnNfcTJfMjAxOF9leHBlcmltZW50Ijp7ImNvbnRyb2wiOjUwLCJ0cmVhdG1lbnQiOjUwfSwicmV0YWlsX3dlYl9wYWxzX2Rlc3RpbmF0aW9uX3Rlc3RfcTJfMjAxOF9leHBlcmltZW50Ijp7ImNvbnRyb2wiOjUwLCJ0cmVhdG1lbnQiOjUwfSwiYWxsb2NhdGlvbl9yZXZpZXdfcmVmYWN0b3JfZXhpc3RpbmdfZ29hbF9xMl8yMDE4X2VuYWJsZWQiOnsidHJ1ZSI6MTAwLCJmYWxzZSI6MH0sInJldGFpbF90b19iNGFfZXZlbnRzX2Rpc2FibGVkIjp7ImZhbHNlIjoxMDAsInRydWUiOjB9LCJwZXJmb3JtYW5jZV9wYWdlX2phdmFzY3JpcHRfcmVmYWN0b3JfcTJfMjAxOF9lbmFibGVkIjp7InRydWUiOjAsImZhbHNlIjoxMDB9LCJnb2FsX3JlY29tbWVuZGF0aW9uX3EyXzIwMThfZW5hYmxlZCI6eyJ0cnVlIjowLCJmYWxzZSI6MTAwfSwiYWR2aXNvcl9qb2ludF9hY2NvdW50X2dvYWxfY3JlYXRpb25fcTJfMjAxOF9lbmFibGVkIjp7ImZhbHNlIjowLCJ0cnVlIjoxMDB9LCJyZXRhaWxfaXJhX3JvbGxvdmVyX3BpenphX3RyYWNrZXJfcTJfMjAxOF9lbmFibGVkIjp7ImZhbHNlIjoxMDAsInRydWUiOjB9LCJ0ZW51cmVkX2F1dG9tYXRpY19kZXBvc2l0X3EzXzIwMThfZXhwZXJpbWVudCI6eyJjb250cm9sIjo1MCwidHJlYXRtZW50Ijo1MH0sInJldGFpbF9lbXBvd2VyaW5nX21lZGlhX2Rlc3RpbmF0aW9uX3Rlc3RfcTJfMjAxOF9leHBlcmltZW50Ijp7ImNvbnRyb2wiOjUwLCJ0cmVhdG1lbnQiOjUwfSwibW9iaWxlX2F1dG9fd2Fsa3Rocm91Z2hfcTJfMjAxOF9lbmFibGVkIjp7InRydWUiOjEwMCwiZmFsc2UiOjB9LCJyZXRhaWxfYXV0b21hdGljX3JvbGxvdmVyX2NoZWNrX2RlcG9zaXRfcTNfMjAxOF9lbmFibGVkIjp7InRydWUiOjEwMCwiZmFsc2UiOjB9LCJyb2xsb3Zlcl9jb21wbGV0ZV90Y3BfYWR2aWNlX3ExXzIwMTdfZXhwZXJpbWVudCI6eyJjb250cm9sIjo1MCwidHJlYXRtZW50Ijo1MH0sIm1vYmlsZV9hZ2dyZWdhdGlvbl9xMl8yMDE4X2V4cGVyaW1lbnQiOnsiY29udHJvbCI6NTAsInRyZWF0bWVudCI6NTB9LCJyZXRhaWxfbmVyZF93YWxsZXRfZGVzdGluYXRpb25fdGVzdF9xMl8yMDE4X2V4cGVyaW1lbnQiOnsiY29udHJvbCI6NTAsInRyZWF0bWVudCI6NTB9LCJhbGxvY2F0aW9uX3Jldmlld19yZWZhY3Rvcl9leGlzdGluZ19nb2FsX3EyXzIwMThfZXhwZXJpbWVudCI6eyJjb250cm9sIjowLCJleHBlcmltZW50IjoxMDB9LCJwb3N0X3NpZ251cF9mcmVlX2NhbGxfcTFfMjAxNyI6eyJjb250cm9sIjo1MCwidHJlYXRtZW50Ijo1MH0sIm1vYmlsZV9ldmVyeWRheV9zaWdudXBfcTNfMjAxOF9leHBlcmltZW50Ijp7ImNvbnRyb2wiOjAsInRyZWF0bWVudCI6MTAwfSwibW9iaWxlX2F1dG9fd2Fsa3Rocm91Z2hfcTJfMjAxOF9leHBlcmltZW50Ijp7ImNvbnRyb2wiOjEwMCwidHJlYXRtZW50IjowfSwibW9iaWxlX2FuZHJvaWRfZml4X3F1b3ZvX2Nvbm5lY3Rpb25zX3E0XzIwMThfZW5hYmxlZCI6eyJ0cnVlIjoxMDAsImZhbHNlIjowfSwidGVudXJlZF9hdXRvbWF0aWNfZGVwb3NpdF9xM18yMDE4X2VuYWJsZWQiOnsidHJ1ZSI6MTAwLCJmYWxzZSI6MH0sInJldGFpbF9zbWFydF9zYXZlcl9pbl9nb2FsX3NlbGVjdGlvbl9xNF8yMDE4X2V4cGVyaW1lbnQiOnsiY29udHJvbCI6NTAsInRyZWF0bWVudCI6NTB9LCJiNGJfY29udHJpYnV0aW9uX3NvdXJjZV9icmVha2Rvd25fZW5hYmxlZCI6eyJ0cnVlIjoxMDAsImZhbHNlIjowfSwiYjRiX29uYm9hcmRpbmdfZmxvd19vdXRzaWRlX3NwYSI6eyJ0cnVlIjoxMDAsImZhbHNlIjowfSwiZGVjb252ZXJzaW9uX3JlcG9ydHNfZ2VuZXJhYmxlIjp7InRydWUiOjAsImZhbHNlIjoxMDB9LCJicm9jaHVyZV96ZW5kZXNrX3RhbGtfcTFfMjAxOF9leHBlcmltZW50Ijp7ImNvbnRyb2wiOjEwMCwidHJlYXRtZW50IjowfSwicmV0YWlsX2xpc3Rlbl9tb25leV9tYXR0ZXJzX2Rlc3RpbmF0aW9uX3Rlc3RfcTJfMjAxOF9leHBlcmltZW50Ijp7ImNvbnRyb2wiOjUwLCJ0cmVhdG1lbnQiOjUwfSwiaW5jbHVkZV9hZHZpY2VfaW5fcXVhcnRlcmx5X3N0YXRlbWVudF9xMV8yMDE3Ijp7ImNvbnRyb2wiOjUwLCJ0cmVhdG1lbnQiOjUwfSwiYjRhX2dvYWxfc3RhdHVzX2Rpc2FibGVkIjp7InRydWUiOjAsImZhbHNlIjoxMDB9LCJmb3JtX3JlZGVzaWduX2VuYWJsZWQiOnsidHJ1ZSI6MCwiZmFsc2UiOjEwMH0sIm1vYmlsZV9ldmVyeWRheV9zaWdudXBfcTNfMjAxOF9lbmFibGVkIjp7InRydWUiOjEwMCwiZmFsc2UiOjB9LCJwZXJmb3JtYW5jZV9wYWdlX2ltcHJvdmVtZW50c19xM18yMDE4X2VuYWJsZWQiOnsidHJ1ZSI6MTAwLCJmYWxzZSI6MH0sIm1vYmlsZV9ncmFwaGluZ19xNF8yMDE3X2V4cGVyaW1lbnQiOnsiY29udHJvbCI6NTAsInRyZWF0bWVudCI6NTB9LCJtb2JpbGVfZ3JhcGhpbmdfdjJfcTRfMjAxN19leHBlcmltZW50Ijp7ImNvbnRyb2wiOjUwLCJ0cmVhdG1lbnQiOjUwfSwicmV0YWlsX2ludmVzdG9wZWRpYV9kZXN0aW5hdGlvbl90ZXN0X3EyXzIwMThfZXhwZXJpbWVudCI6eyJjb250cm9sIjo1MCwidHJlYXRtZW50Ijo1MH0sImI0Yl9yZWFjdF9lbmFibGVkIjp7InRydWUiOjAsImZhbHNlIjoxMDB9LCJtb2JpbGVfb3V0c21hcnRfYXZlcmFnZV9ob21lX3NjcmVlbl9xM18yMDE4X2VuYWJsZWQiOnsidHJ1ZSI6MTAwLCJmYWxzZSI6MH0sIm1vYmlsZV9vdXRzbWFydF9hdmVyYWdlX2hvbWVfc2NyZWVuX3EzXzIwMThfZXhwZXJpbWVudCI6eyJjb250cm9sIjowLCJ0cmVhdG1lbnQiOjEwMH0sInJldGFpbF91bmZ1bmRlZF9zaW5nbGVfZGVwb3NpdF9xNF8yMDE4X29mZmVyX2V4cGVyaW1lbnQiOnsiY29udHJvbCI6NTAsInRyZWF0bWVudCI6NTB9LCJyZXRhaWxfc21hcnRfc2F2ZXJfaW5fZ29hbF9zZWxlY3Rpb25fcTRfMjAxOF9lbmFibGVkIjp7InRydWUiOjEwMCwiZmFsc2UiOjB9LCJyZXRhaWxfNDAxa193aGl0ZV9nbG92ZV9yb2xsb3Zlcl9xNF8yMDE4X2V4cGVyaW1lbnQiOnsiY29udHJvbCI6NTAsInRyZWF0bWVudCI6NTB9LCJtb2JpbGVfYW5kcm9pZF9yZXdhcmRzX2NlbnRlcl9xMV8yMDE5X2VuYWJsZWQiOnsidHJ1ZSI6MCwiZmFsc2UiOjEwMH0sImdhaW5fbG9zc19yZXBvcnRzX3E0XzIwMThfZW5hYmxlZCI6eyJ0cnVlIjoxMDAsImZhbHNlIjowfSwicmV0YWlsX2dlbmVyYWxfYWZmaWxpYXRlX2Rlc3RpbmF0aW9uX3Rlc3RfcTJfMjAxOF9leHBlcmltZW50Ijp7ImNvbnRyb2wiOjUwLCJ0cmVhdG1lbnQiOjUwfSwidW5mdW5kZWRfd2VsY29tZV9zZXJpZXNfZmlyc3Rfd2Vla19xM18yMDE3X2V4cGVyaW1lbnQiOnsiY29udHJvbCI6NTAsInRyZWF0bWVudCI6NTB9LCJmdW5kZWRfd2VsY29tZV9zZXJpZXNfY2FtcGFpZ25fcTNfMjAxN19leHBlcmltZW50Ijp7ImNvbnRyb2wiOjEwLCJ0cmVhdG1lbnQiOjkwfSwibW9iaWxlX2luaXRpYWxfb25lX3RpbWVfZGVwb3NpdF9xMl8yMDE3X2VuYWJsZWQiOnsiY29udHJvbCI6MCwidHJlYXRtZW50IjoxMDB9LCJpbnRlZ3JhdGlvbl9lcnJvcl9kaXNwbGF5X2VuYWJsZWQiOnsidHJ1ZSI6MCwiZmFsc2UiOjEwMH0sInJldGFpbF90d29fd2F5X3N3ZWVwX3EzXzIwMThfZW5hYmxlZCI6eyJ0cnVlIjowLCJmYWxzZSI6MTAwfSwibWludF90cmFuc2FjdGlvbnNfcTNfMjAxOF9lbmFibGVkIjp7InRydWUiOjEwMCwiZmFsc2UiOjB9LCJtb2JpbGVfZ29hbF9mYWJfcTFfMjAxOF9leHBlcmltZW50Ijp7ImNvbnRyb2wiOjAsInRyZWF0bWVudCI6MTAwfSwicmV0YWlsX3RlbnVyZWRfc21hcnRfc2F2ZXJfcHJvbW9fc2l4X21vbnRoc19xM18yMDE4X2Vucm9sbG1lbnRfY3JlYXRpb25fZW5hYmxlZCI6eyJ0cnVlIjowLCJmYWxzZSI6MTAwfSwicmV0YWlsX3RlbnVyZWRfc21hcnRfc2F2ZXJfcHJvbW9fdGhyZWVfbW9udGhzX3EzXzIwMThfZW5yb2xsbWVudF9jcmVhdGlvbl9lbmFibGVkIjp7InRydWUiOjAsImZhbHNlIjoxMDB9LCJyZXRhaWxfZmlyc3RfcmVmZXJyYWxfZW1haWxfcTNfMjAxOF92Ml9leHBlcmltZW50Ijp7ImNvbnRyb2wiOjEwMCwidHJlYXRtZW50IjowfSwiZGlyZWN0X21haWxfZnVuZGluZ19yZW1pbmRlcl9xMl8yMDE3X2V4cGVyaW1lbnQiOnsiY29udHJvbCI6NTAsInRyZWF0bWVudCI6NTB9LCJyZXRhaWxfd2hpdGVfZ2xvdmVfaXJhX3JvbGxvdmVyc19xM18yMDE4X2VuYWJsZWQiOnsidHJ1ZSI6MTAwLCJmYWxzZSI6MH0sImI0YV9hZHZpc29yX3RydXN0X2NyZWF0aW9uX3EzXzIwMThfZW5hYmxlZCI6eyJ0cnVlIjoxMDAsImZhbHNlIjowfSwiZXh0ZXJuYWxfYWNjb3VudF9vdmVycmlkZW5feWllbGRfcTNfMjAxOF9lbmFibGVkIjp7InRydWUiOjEwMCwiZmFsc2UiOjB9LCJyZXRhaWxfc21hcnRfc2F2ZXJfaW5fZ3VpZGVkX3NpZ251cF9xNF8yMDE4X2V4cGVyaW1lbnQiOnsiY29udHJvbCI6NTAsInRyZWF0bWVudCI6NTB9LCJkcl9wZXJzb25hbF9yZWZlcnJhbF9jcmVhdGlvbl9lbmFibGVkIjp7InRydWUiOjAsImZhbHNlIjoxMDB9LCJ1bmZ1bmRlZF93ZWxjb21lX3Nlcmllc19jYW1wYWlnbl9xM18yMDE3X2V4cGVyaW1lbnQiOnsiY29udHJvbCI6MTAsInRyZWF0bWVudCI6OTB9LCJtb2JpbGVfc3VtbWFyeV9kZXBvc2l0X2J1dHRvbl9xM18yMDE3X2V4cGVyaW1lbnQiOnsiY29udHJvbCI6MCwidHJlYXRtZW50IjoxMDB9LCJyZXRhaWxfd2VsY29tZV9zY3JlZW5fc21hcnRfc2F2ZXJfcTRfMjAxOF9leHBlcmltZW50Ijp7ImNvbnRyb2wiOjUwLCJ0cmVhdG1lbnQiOjUwfSwicmV0YWlsX2FwcF9kYXlfN191bmZ1bmRlZF9zaW5nbGVfZGVwb3NpdF9vZmZlcl9lbnJvbGxtZW50X2pvYl9lbmFibGVkIjp7InRydWUiOjEwMCwiZmFsc2UiOjB9LCJyZXRhaWxfaW5fYXBwX2d1aWRlX2V4dHJhX3Rhc2tzX3E0XzIwMThfdjJfZXhwZXJpbWVudCI6eyJjb250cm9sIjoxMDAsInRyZWF0bWVudCI6MH0sInR3b193YXlfc3dlZXBfYm91bmRfYWRqdXN0bWVudF9xNF8yMDE4X2VuYWJsZWQiOnsidHJ1ZSI6MTAwLCJmYWxzZSI6MH0sInJldGFpbF9zaG93X2FjYXRfY3RhX3E0XzIwMThfZW5hYmxlZCI6eyJ0cnVlIjowLCJmYWxzZSI6MTAwfSwicmV0YWlsX2dldF9zdGFydGVkX2ZpbmFuY2lhbF9wbGFuX3E0XzIwMThfZXhwZXJpbWVudCI6eyJjb250cm9sIjoxMDAsInRyZWF0bWVudF9ndWlkZWRfc2lnbnVwX29ubHkiOjAsInRyZWF0bWVudF9maW5hbmNpYWxfcGxhbl9vbmx5IjowLCJ0cmVhdG1lbnRfZmluYW5jaWFsX3BsYW5fYWx0IjowfSwidGVudXJlZF90YXhfeWVhcl9tYXhfb3V0X3ExXzIwMTlfZXhwZXJpbWVudCI6eyJjb250cm9sIjo1MCwidHJlYXRtZW50Ijo1MH0sInJldGFpbF9sZWdhbF9hY2NvdW50X2luX2Jhc2ljX3NpZ251cF9xNF8yMDE4X2V4cGVyaW1lbnQiOnsiY29udHJvbCI6NTAsInRyZWF0bWVudCI6NTB9LCJyZXRhaWxfdHdvX3Rhc2tzX2luX2FwcF9ndWlkZV9xNF8yMDE4X2VuYWJsZWQiOnsidHJ1ZSI6MTAwLCJmYWxzZSI6MH0sIm1vYmlsZV9kZW1vX21vZGVfcTJfMjAxOF9leHBlcmltZW50Ijp7ImNvbnRyb2wiOjEwMCwidHJlYXRtZW50IjowfSwibW9iaWxlX25vdGhpbmdfcTFfMjAxOF9leHBlcmltZW50Ijp7ImNvbnRyb2wiOjUwLCJ0cmVhdG1lbnQiOjUwfSwibW9iaWxlX291dHNtYXJ0X2F2ZXJhZ2VfaG9tZV9zY3JlZW5fcTNfMjAxOF92Ml9lbmFibGVkIjp7ImZhbHNlIjoxMDAsInRydWUiOjB9LCJicm9jaHVyZV9yZWFjdF9zd2l0Y2hpbmdfY29zdF9jYWxjdWxhdG9yX3E0XzIwMThfZW5hYmxlZCI6eyJ0cnVlIjoxMDAsImZhbHNlIjowfSwicmV0YWlsX3doaXRlX2dsb3ZlX2lyYV9yb2xsb3ZlcnNfcTNfMjAxOF9leHBlcmltZW50Ijp7ImNvbnRyb2wiOjUwLCJ0cmVhdG1lbnQiOjUwfSwicmVmZXJfYV9mcmllbmRfdjJfZW5hYmxlZCI6eyJmYWxzZSI6MTAwLCJ0cnVlIjowfSwiYjRhX2hpZ2hfcHJpb3JpdHlfbm90aWZpY2F0aW9uX2V4cGVyaW1lbnQiOnsiY29udHJvbCI6MTAwLCJhZGRfZ29hbCI6MCwidGF4YWJsZV9hY2F0cyI6MCwiZGlnaXRhbF9yb2xsb3Zlcl91cGRhdGUiOjAsInRheF93aXRoaG9sZGluZyI6MCwiam9pbnRfYWNjb3VudCI6MCwicm9sbG92ZXIiOjB9LCJyZXRhaWxfdGVudXJlZF9zbWFydF9zYXZlcl9wcm9tb192Ml9xM18yMDE4X2V4cGVyaW1lbnQiOnsiY29udHJvbCI6MTAwLCJ0cmVhdG1lbnRfdGhyZWVfbW9udGhzIjowLCJ0cmVhdG1lbnRfc2l4X21vbnRocyI6MH0sIm1vYmlsZV9kZW1vX21vZGVfcTFfMjAxOF9leHBlcmltZW50Ijp7ImNvbnRyb2wiOjUwLCJ0cmVhdG1lbnQiOjUwfSwibW9iaWxlX2ludmVzdGVkX2dyYXBoX3ExXzIwMThfZXhwZXJpbWVudCI6eyJjb250cm9sIjo1MCwidHJlYXRtZW50Ijo1MH0sIm5hdmlnYXRpb25fc2lkZWJhcl91cGRhdGVzX3EzXzIwMThfZXhwZXJpbWVudCI6eyJjb250cm9sIjowLCJ0cmVhdG1lbnQiOjEwMH0sIm1vYmlsZV9xdW92b19iYW5rX2xpbmtpbmdfcTNfMjAxOF9lbmFibGVkIjp7ImZhbHNlIjowLCJ0cnVlIjoxMDB9LCJuYXZpZ2F0aW9uX3NpZGViYXJfdXBkYXRlc19xM18yMDE4X2VuYWJsZWQiOnsidHJ1ZSI6MTAwLCJmYWxzZSI6MH0sInJldGFpbF9hcHBfbmF2X2Vhcm5fcmV3YXJkc19xM18yMDE4X2V4cGVyaW1lbnQiOnsiY29udHJvbCI6MTAwLCJ0cmVhdG1lbnQiOjB9LCJiNGFfbmF2aWdhdGlvbl9yZWFyY2hpdGVjdHVyZV9xNF8yMDE4X2VuYWJsZWQiOnsidHJ1ZSI6MTAwLCJmYWxzZSI6MH0sIm1vYmlsZV9vdXRzbWFydF9hdmVyYWdlX2hvbWVfc2NyZWVuX3EzXzIwMThfdjJfZXhwZXJpbWVudCI6eyJjb250cm9sIjoxMDAsInRyZWF0bWVudCI6MH0sIm1vYmlsZV9pb3NfdHdvX3dheV9zd2VlcF9xNF8yMDE4X2VuYWJsZWQiOnsidHJ1ZSI6MTAwLCJmYWxzZSI6MH0sInJldGFpbF90ZW51cmVkX3NtYXJ0X3NhdmVyX3Byb21vX3YyX3EzXzIwMThfZ2F0ZV9leHBlcmltZW50Ijp7ImNvbnRyb2wiOjEwMCwidHJlYXRtZW50IjowfSwibW9iaWxlX3NpZ251cF9jb3B5X3EyXzIwMThfZXhwZXJpbWVudCI6eyJjb250cm9sIjowLCJ0cmVhdG1lbnQiOjEwMH0sIm1vYmlsZV9xdW92b19iYW5rX2xpbmtpbmdfcTNfMjAxOF9leHBlcmltZW50Ijp7ImNvbnRyb2wiOjAsInRyZWF0bWVudCI6MTAwfSwiYnJvY2h1cmVfaG9tZXBhZ2VfZGVza3RvcF9tYWdnaWVfaGVyb19xNF8yMDE4X2V4cGVyaW1lbnQiOnsiY29udHJvbCI6NTAsInRyZWF0bWVudCI6NTB9LCJyZXRhaWxfdHdvX3Rhc2tzX2luX2FwcF9ndWlkZV9xNF8yMDE4X2V4cGVyaW1lbnQiOnsiY29udHJvbCI6NTAsInRyZWF0bWVudCI6NTB9LCJkZWZhdWx0X2dvYWxzX3E0XzIwMThfZXhwZXJpbWVudCI6eyJjb250cm9sIjo1MCwidHJlYXRtZW50Ijo1MH0sInJldGFpbF9zaG93X2FjYXRfY3RhX3E0XzIwMThfZXhwZXJpbWVudCI6eyJjb250cm9sIjo1MCwidHJlYXRtZW50Ijo1MH0sImJyb2NodXJlX21vYmlsZV9tYWdnaWVfaGVyb19xNF8yMDE4X2V4cGVyaW1lbnQiOnsiY29udHJvbCI6NTAsInRyZWF0bWVudCI6NTB9LCJicm9jaHVyZV9tb2JpbGVfbmF2X2IyYl9saW5rc19xNF8yMDE4X2V4cGVyaW1lbnQiOnsiY29udHJvbCI6NTAsInRyZWF0bWVudCI6NTB9LCJiNGFfYjRiX2RlZmF1bHRfZ29hbHNfcTRfMjAxOF9lbmFibGVkIjp7ImZhbHNlIjoxMDAsInRydWUiOjB9LCJtb2JpbGVfaW9zX3Jld2FyZHNfY2VudGVyX3ExXzIwMTlfZW5hYmxlZCI6eyJ0cnVlIjowLCJmYWxzZSI6MTAwfSwibW9iaWxlX2FuZHJvaWRfdHdvX3dheV9zd2VlcF9xNF8yMDE4X2VuYWJsZWQiOnsidHJ1ZSI6MTAwLCJmYWxzZSI6MH0sInJldGFpbF90d29fd2F5X3N3ZWVwX2NhbmNlbGFibGVfdHJhbnNhY3Rpb25zX3E0XzIwMThfZW5hYmxlZCI6eyJ0cnVlIjowLCJmYWxzZSI6MTAwfSwiYnJvY2h1cmVfYjJiX2xpbmtzX2luX2hvbWVwYWdlX2hlcm9fcTRfMjAxOCI6eyJjb250cm9sIjo1MCwidHJlYXRtZW50Ijo1MH0sIm1vYmlsZV9hbmRyb2lkX3dpdGhkcmF3YWxfYWx0ZXJuYXRpdmVzX3E0XzIwMThfZW5hYmxlZCI6eyJ0cnVlIjowLCJmYWxzZSI6MTAwfSwiYnJvY2h1cmVfcHJvc3BlY3RfaG9tZXBhZ2VfbWFnZ2llX3ZpZGVvX3E0XzIwMThfZXhwZXJpbWVudCI6eyJjb250cm9sIjo1MCwidHJlYXRtZW50Ijo1MH0sImRpdmlkZW5kX3JlcG9ydHNfcTRfMjAxOF9lbmFibGVkIjp7InRydWUiOjAsImZhbHNlIjoxMDB9LCJyZXRhaWxfYXBwX29mZmVyX2Vucm9sbG1lbnRfam9ic19xNF8yMDE4X2VuYWJsZWQiOnsidHJ1ZSI6MCwiZmFsc2UiOjEwMH0sIm1vYmlsZV9pb3Nfc3VtbWFyeV9mYWJfcTJfMjAxOF9leHBlcmltZW50Ijp7ImNvbnRyb2wiOjUwLCJ0cmVhdG1lbnQiOjUwfSwibW9iaWxlX2dvYWxfZ3JhcGhfcTFfMjAxOF9leHBlcmltZW50Ijp7ImNvbnRyb2wiOjUwLCJ0cmVhdG1lbnQiOjUwfSwicHJveHlfdGlja2Vyc19xNF8yMDE4X2VuYWJsZWQiOnsidHJ1ZSI6MCwiZmFsc2UiOjEwMH0sInJldGFpbF9pbl9hcHBfZ3VpZGVfZXh0cmFfdGFza3NfcTRfMjAxOF92Ml9lbmFibGVkIjp7InRydWUiOjEwMCwiZmFsc2UiOjB9LCJtb2JpbGVfZ29hbF9wcm9qZWN0aW9uc19xMl8yMDE4X3NhZmVfZXhwZXJpbWVudCI6eyJjb250cm9sIjowLCJ0cmVhdG1lbnQiOjEwMH0sImI0YV9zaG93X2JhbGFuY2VzX2NsaWVudF9pbmRleF9xNF8yMDE4X2VuYWJsZWQiOnsidHJ1ZSI6MTAwLCJmYWxzZSI6MH0sInF1b3ZvX3JlZnJlc2hpbmdfcmVnYXJkbGVzc19vZl9mdW5kaW5nX2VuYWJsZWQiOnsidHJ1ZSI6NTAsImZhbHNlIjo1MH0sInJvbGxvdmVyX3Byb21vdGlvbl8yMDE2X3EyX2VuYWJsZWQiOnsidHJ1ZSI6MCwiZmFsc2UiOjEwMH0sImRvY3VtZW50X3ZhdWx0X2VuYWJsZWQiOnsidHJ1ZSI6MTAwLCJmYWxzZSI6MH0sInRlbnVyZWRfcm9sbG92ZXJfcHJvbW9fcTFfMjAxOV9leHBlcmltZW50Ijp7ImNvbnRyb2wiOjUwLCJ0cmVhdG1lbnQiOjUwfSwicmV0YWlsX2xlZ2FsX2FjY291bnRfaW5fYmFzaWNfc2lnbnVwX3E0XzIwMThfZW5hYmxlZCI6eyJmYWxzZSI6MCwidHJ1ZSI6MTAwfSwicmV0YWlsX2Nhc2hfYW5hbHlzaXNfd2l0aG91dF9zbWFydF9zYXZlcl9xNF8yMDE4X2VuYWJsZWQiOnsidHJ1ZSI6MTAwLCJmYWxzZSI6MH0sInJldGFpbF90cmFuc2Zlcl9pbXByb3ZlbWVudF9hY2F0c19mbG93X3E0XzIwMThfZW5hYmxlZCI6eyJ0cnVlIjowLCJmYWxzZSI6MTAwfSwiZmxleGlibGVfcG9ydGZvbGlvX2NvbW1vZGl0aWVzX2VuYWJsZWRfcTRfMjAxOCI6eyJ0cnVlIjoxMDAsImZhbHNlIjowfSwiZGlnaXRhbF9kdXBsaWNhdGVfc3RhdGVtZW50c19mb3Jfa3BtZ19lbmFibGVkIjp7InRydWUiOjAsImZhbHNlIjoxMDB9LCJkaWdpdGFsX2R1cGxpY2F0ZV9zdGF0ZW1lbnRzX2Zvcl9zcF9lbmFibGVkIjp7InRydWUiOjEwMCwiZmFsc2UiOjB9LCJkaWdpdGFsX2R1cGxpY2F0ZV9zdGF0ZW1lbnRzX2Zvcl9wd2NfZW5hYmxlZCI6eyJ0cnVlIjowLCJmYWxzZSI6MTAwfSwiZGlnaXRhbF9kdXBsaWNhdGVfc3RhdGVtZW50c19mb3JfZGVsb2l0dGVfZW5hYmxlZCI6eyJ0cnVlIjowLCJmYWxzZSI6MTAwfSwiZGlnaXRhbF9kdXBsaWNhdGVfc3RhdGVtZW50c19mb3JfZXlfZW5hYmxlZCI6eyJ0cnVlIjoxMDAsImZhbHNlIjowfSwiZHJfcG9ydGZvbGlvX21hbmFnZW1lbnRfYXBpX3ExXzIwMThfZW5hYmxlZCI6eyJ0cnVlIjowLCJmYWxzZSI6MTAwfSwiYWxsb2NhdGlvbl9zZWxlY3Rpb25fcmVmYWN0b3JfcTFfMjAxOF9lbmFibGVkIjp7InRydWUiOjAsImZhbHNlIjoxMDB9LCJwdXNoX25vdGlmaWNhdGlvbnNfcTFfMjAxN19lbmFibGVkIjp7InRydWUiOjEwMCwiZmFsc2UiOjB9LCJwb3J0Zm9saW9fbWFuYWdlbWVudF9hcGlfMjAxN19xNF9lbmFibGVkIjp7InRydWUiOjAsImZhbHNlIjoxMDB9LCJiNGFfY29tcGxpYW5jZV9mZWVzXzIwMTdfZW5hYmxlZCI6eyJ0cnVlIjoxMDAsImZhbHNlIjowfSwicmV0YWlsX3plbmRlc2tfbHR2X3F1ZXVlX3E0XzIwMThfZXhwZXJpbWVudCI6eyJjb250cm9sIjo1MCwidHJlYXRtZW50Ijo1MH0sInJldGFpbF90cmFuc2Zlcl9pbXByb3ZlbWVudF9hY2F0c19mbG93X3E0XzIwMThfZXhwZXJpbWVudCI6eyJjb250cm9sIjo1MCwidHJlYXRtZW50Ijo1MH0sIm1vYmlsZV9ncmFwaGluZ19xNF8yMDE3X2VuYWJsZWQiOnsidHJ1ZSI6MTAwLCJmYWxzZSI6MH0sInJldGFpbF9pbnZlc3RpbmdfYXNzZXNzbWVudF9jb25zdWx0YXRpb25fZW5hYmxlZCI6eyJmYWxzZSI6MTAwLCJ0cnVlIjowfSwibW9iaWxlX2dvYWxfZmFiX3ExXzIwMThfZW5hYmxlZCI6eyJ0cnVlIjoxMDAsImZhbHNlIjowfSwiYjRhX2FkZF9nb2FsX25vdGlmaWNhdGlvbl9xNF8yMDE3X2VuYWJsZWQiOnsidHJ1ZSI6MCwiZmFsc2UiOjEwMH0sIm1vYmlsZV9tZXNzYWdpbmdfcTNfMjAxN19lbmFibGVkIjp7InRydWUiOjEwMCwiZmFsc2UiOjB9LCJkaXJlY3RfbWFpbF9mdW5kaW5nX3JlbWluZGVyX3EyXzIwMTdfZW5hYmxlZCI6eyJ0cnVlIjoxMDAsImZhbHNlIjowfSwibW9iaWxlX25hdGl2ZV9zaWdudXBfcTJfMjAxN19lbmFibGVkIjp7ImZhbHNlIjowLCJ0cnVlIjoxMDB9LCJtb2JpbGVfc3VtbWFyeV9kZXBvc2l0X2J1dHRvbl9xM18yMDE3X2VuYWJsZWQiOnsiZmFsc2UiOjAsInRydWUiOjEwMH0sInBlcmZvcm1hbmNlX3BhZ2VfaW1wcm92ZW1lbnRzX3EzXzIwMThfZXhwZXJpbWVudCI6eyJjb250cm9sIjowLCJ0cmVhdG1lbnQiOjEwMH0sIm1vYmlsZV9mcmVlX3RpbWVfcHJvbW9fcTNfMjAxN19lbmFibGVkIjp7InRydWUiOjEwMCwiZmFsc2UiOjB9LCJtb2JpbGVfZ29hbF9wcm9qZWN0aW9uc19xMl8yMDE4X2VuYWJsZWQiOnsidHJ1ZSI6MCwiZmFsc2UiOjEwMH0sInNkYV8xMDBrX2dhdGVfMjAxOF9lbmFibGVkIjp7InRydWUiOjEwMCwiZmFsc2UiOjB9LCJyZXRhaWxfdGVudXJlZF9yb2xsb3Zlcl9kb2xsYXJzX21hbmFnZWRfZnJlZV9xMl8yMDE4X2VuYWJsZWQiOnsidHJ1ZSI6MCwiZmFsc2UiOjEwMH0sIm1vYmlsZV9zaWdudXBfY29weV9xMl8yMDE4X2VuYWJsZWQiOnsidHJ1ZSI6MTAwLCJmYWxzZSI6MH0sImI0YV9hZHZpc29yX2ltcGVyc29uYXRpb25fbW9kYWxfZW5hYmxlZCI6eyJ0cnVlIjoxMDAsImZhbHNlIjowfSwibW9iaWxlX2dyYXBoaW5nX3YyX3E0XzIwMTdfZW5hYmxlZCI6eyJ0cnVlIjowLCJmYWxzZSI6MTAwfSwibW9iaWxlX2ludmVzdGVkX2dyYXBoX3ExXzIwMThfZW5hYmxlZCI6eyJ0cnVlIjoxMDAsImZhbHNlIjowfSwiYWRkX3ByZWZlcnJlZF9tdW5pX2JvbmRfbG9jYWxlX3NlbGVjdGlvbl90b19kcl9lbmFibGVkIjp7InRydWUiOjAsImZhbHNlIjoxMDB9LCJyZXRhaWxfZG9jdG9yX3JlYnJhbmRfcTFfMjAxOF9lbmFibGVkIjp7InRydWUiOjAsImZhbHNlIjoxMDB9LCJyZXRhaWxfYW1lcmljYW5fYWlybGluZXNfb2ZmZXJfcTFfMjAxOF9lbmFibGVkIjp7InRydWUiOjEwMCwiZmFsc2UiOjB9LCJtb2JpbGVfaW9zX3dpdGhkcmF3YWxfYWx0ZXJuYXRpdmVzX3E0XzIwMThfZW5hYmxlZCI6eyJ0cnVlIjowLCJmYWxzZSI6MTAwfSwibW9iaWxlX2lvc19zdW1tYXJ5X2ZhYl9xMl8yMDE4X2VuYWJsZWQiOnsidHJ1ZSI6MTAwLCJmYWxzZSI6MH0sImRyX3BhcGVybGVzc19kaXN0cmlidXRpb25fZWxpZ2liaWxpdHlfZW5hYmxlZCI6eyJ0cnVlIjoxMDAsImZhbHNlIjowfSwiYjRhX3NkYV9wb3J0Zm9saW9zX3ExXzIwMThfZW5hYmxlZCI6eyJ0cnVlIjowLCJmYWxzZSI6MTAwfSwicG9ydGZvbGlvX21hbmFnZW1lbnRfZ29hbF9wb3J0Zm9saW9fMjAxN19xNF9lbmFibGVkIjp7InRydWUiOjAsImZhbHNlIjoxMDB9LCJwbGFuX2ZlZXNfZW5hYmxlZCI6eyJ0cnVlIjowLCJmYWxzZSI6MTAwfSwicmV0YWlsX3RydXN0ZWRfY29udGFjdF9lbmFibGVkIjp7InRydWUiOjEwMCwiZmFsc2UiOjB9LCJtb2JpbGVfZ29hbF9ncmFwaF9xMV8yMDE4X2VuYWJsZWQiOnsidHJ1ZSI6MCwiZmFsc2UiOjEwMH0sIm1vYmlsZV9kZW1vX21vZGVfcTJfMjAxOF9lbmFibGVkIjp7InRydWUiOjAsImZhbHNlIjoxMDB9LCJtb2JpbGVfbm90aGluZ19xMV8yMDE4X2VuYWJsZWQiOnsidHJ1ZSI6MTAwLCJmYWxzZSI6MH0sInNtb29jaF9hdXRvX3Jlc3BvbmRlcl9xM18yMDE3X2VuYWJsZWQiOnsidHJ1ZSI6MTAwLCJmYWxzZSI6MH0sImJsYWNrcm9ja19pbmNvbWVfcG9ydGZvbGlvX3EyXzIwMTdfZW5hYmxlZCI6eyJ0cnVlIjoxMDAsImZhbHNlIjowfSwibW9iaWxlX2RlbW9fbW9kZV9xMV8yMDE4X2VuYWJsZWQiOnsidHJ1ZSI6MCwiZmFsc2UiOjEwMH0sInJldGFpbF90cmFuc2Zlcl9pbXByb3ZlbWVudF9pcmFfbGlua19xNF8yMDE4X2V4cGVyaW1lbnQiOnsiY29udHJvbCI6NTAsInRyZWF0bWVudCI6NTB9LCJyZXRhaWxfdHJhbnNmZXJfaW1wcm92ZW1lbnRfdGF4YWJsZV9saW5rX3E0XzIwMThfZXhwZXJpbWVudCI6eyJjb250cm9sIjo1MCwidHJlYXRtZW50Ijo1MH0sImRlZmF1bHRfZ29hbHNfcTRfMjAxOF9lbmFibGVkIjp7InRydWUiOjEwMCwiZmFsc2UiOjB9LCJyZXRhaWxfdHJhbnNmZXJfaW1wcm92ZW1lbnRfbWFuYWdlX3RyYW5zZmVyc19jdGFfcTRfMjAxOF9lbmFibGVkIjp7InRydWUiOjAsImZhbHNlIjoxMDB9LCJyZXRhaWxfdHJhbnNmZXJfaW1wcm92ZW1lbnRfbWFuYWdlX3RyYW5zZmVyc19zY3JlZW5fY3RhX3E0XzIwMThfZXhwZXJpbWVudCI6eyJjb250cm9sIjoyNSwidHJlYXRtZW50XzEiOjI1LCJ0cmVhdG1lbnRfMiI6MjUsInRyZWF0bWVudF8zIjoyNX0sImZvdXJfb2hfb25lX2tfcm9sbG92ZXJfaW5zdHJ1Y3Rpb25zX3E0XzIwMThfZXhwZXJpbWVudCI6eyJjb250cm9sIjo1MCwidHJlYXRtZW50Ijo1MH0sImI0YV9zZWNvbmRhcnlfYWR2aXNvcl9yZWZhY3Rvcl9xNF8yMDE4X2VuYWJsZWQiOnsidHJ1ZSI6MTAwLCJmYWxzZSI6MH0sInJldGFpbF90cmFuc2Zlcl9pbXByb3ZlbWVudF9wYWdlX2xpbmtzX3E0XzIwMThfZW5hYmxlZCI6eyJ0cnVlIjoxMDAsImZhbHNlIjowfX0sInVybCI6Imh0dHBzOlwvXC90dC5iZXR0ZXJtZW50LmNvbSIsImNvb2tpZURvbWFpbiI6ImJldHRlcm1lbnQuY29tIiwiZW5jb2RlZEF0IjoiMjAxODEyMjgwNTEwMzAifQ==";
     </script>
 
-<!-- This site is optimized with the Yoast SEO plugin v3.4.2 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- This site is optimized with the Yoast SEO plugin v9.3 - https://yoast.com/wordpress/plugins/seo/ -->
 <link rel="canonical" href="https://www.betterment.com/security/privacypolicy/">
 <link rel="publisher" href="https://plus.google.com/+Betterment_com">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Privacy Policy - Betterment">
-<meta property="og:description" content="Introduction Welcome to Betterment! We work hard to protect your personal information and ensure your information is kept private and secure. The following privacy policy outlines the types of personal information that Betterment LLC, Betterment Securities, and Betterment for Business (collectively “Betterment”) collect, including through Betterment’s websites (www.betterment.com, www.bettermentforadvisors.com, and www.bettermentforbusiness.com), the Betterment Resource Center&nbsp;(www.betterment.com/resources), …">
+<meta property="og:title" content="Privacy Policy | Betterment">
+<meta property="og:description" content="Learn about Betterment's policy on privacy for our website visitors and customers.">
 <meta property="og:url" content="https://www.betterment.com/security/privacypolicy/">
 <meta property="og:site_name" content="Betterment">
 <meta property="article:publisher" content="https://www.facebook.com/betterment">
 <meta property="fb:app_id" content="454231674680629">
-<meta property="og:image" content="https://www.betterment.com/wp-content/uploads/2016/04/whatwedo_computer.jpg">
+<meta property="og:image" content="https://www.betterment.com/wp-content/uploads/2017/06/Summary_Desktop.jpg">
+<meta property="og:image:secure_url" content="https://www.betterment.com/wp-content/uploads/2017/06/Summary_Desktop.jpg">
+<meta property="og:image:width" content="1613">
+<meta property="og:image:height" content="1613">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:description" content="Introduction Welcome to Betterment! We work hard to protect your personal information and ensure your information is kept private and secure. The following privacy policy outlines the types of personal information that Betterment LLC, Betterment Securities, and Betterment for Business (collectively “Betterment”) collect, including through Betterment’s websites (www.betterment.com, www.bettermentforadvisors.com, and www.bettermentforbusiness.com), the Betterment Resource Center&nbsp;(www.betterment.com/resources), […]">
-<meta name="twitter:title" content="Privacy Policy - Betterment">
+<meta name="twitter:description" content="Learn about Betterment's policy on privacy for our website visitors and customers.">
+<meta name="twitter:title" content="Privacy Policy | Betterment">
 <meta name="twitter:site" content="@Betterment">
-<meta name="twitter:image" content="https://www.betterment.com/wp-content/uploads/2016/04/whatwedo_computer.jpg">
+<meta name="twitter:image" content="https://www.betterment.com/wp-content/uploads/2017/06/Summary_Desktop.jpg">
 <meta name="twitter:creator" content="@betterment">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","url":"https://www.betterment.com/","sameAs":["https://www.facebook.com/betterment","https://instagram.com/betterment_com/","https://www.linkedin.com/company/betterment","https://plus.google.com/+Betterment_com","https://www.youtube.com/user/betterment","https://twitter.com/Betterment"],"@id":"https://www.betterment.com/#organization","name":"Betterment","logo":"https://www.betterment.com/wp-content/uploads/2017/05/Betterment-Logo.png"}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://www.betterment.com/security/","name":"Security and Privacy Promise"}},{"@type":"ListItem","position":2,"item":{"@id":"https://www.betterment.com/security/privacypolicy/","name":"Privacy Policy"}}]}</script>
 <!-- / Yoast SEO plugin. -->
 
 <link rel="dns-prefetch" href="//s.w.org">
 <link rel="alternate" type="application/rss+xml" title="Betterment » Privacy Policy Comments Feed" href="https://www.betterment.com/security/privacypolicy/feed/">
-<script type="text/javascript" src="https://www.betterment.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
-<script type="text/javascript" src="https://www.betterment.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
-<script type="text/javascript">
-var $ = jQuery;
-</script>
-<script type="text/javascript">
-        var BMT = window.BMT || {};
-        BMT.config = BMT.config || {};
-        BMT.config['mixpanelToken'] = 'de6fc681b8c3f4aa673257c9db15c289';
-        BMT.config['splunkToken'] = 'CE946334-EC4B-587E-BE15-1254C7E1A9FE';
-        BMT.config['segmentKey'] = 'U4px15EFnbiaUtS3KNGnfD7cRLLWcUWw';
-        BMT.config['isProduction'] = true;
-        BMT.config['isStage'] = false;
-        BMT.config['appUrl'] = 'https://wwws.betterment.com';
-        BMT.config['onboardingUrl'] = 'https://wwws.betterment.com/app/onboarding';
-        BMT.config['rolloverSignupUrl'] = 'https://wwws.betterment.com/app/rollover_signup';
-        BMT.config['pricingPlanSignupUrl'] = 'https://wwws.betterment.com/app/pricing_plan_signup';
-        BMT.config['guidedSignupUrl'] = 'https://wwws.betterment.com/app/guidance';
-        BMT.config['signupUrl'] = 'https://wwws.betterment.com/app/signup';
-        BMT.config['affiliateUrl'] = 'hello.betterment.com';
-        BMT.config['brochureUrl'] = 'https://www.betterment.com';
-        BMT.config['templateDir'] = 'https://www.betterment.com/wp-content/themes/superstar';
-        BMT.config['stylesheetDir'] = 'https://www.betterment.com/wp-content/themes/superstar';
-        BMT.config['userIp'] = '10.1.110.233';
-        BMT.config['speedTesting'] = 'slow-page';
-window._bettermentPageUtmContentCode = '';
-</script>
-<script type="text/javascript" src="https://www.betterment.com/wp-content/plugins/betterment-functionality/release/better-func.1a36c379baadc4bb.js"></script>
-<script type="text/javascript">
-window.BMT.start();
-</script>
+<link rel="stylesheet" id="wp-block-library-css" href="https://www.betterment.com/wp-includes/css/dist/block-library/style.min.css?ver=5.0.2" type="text/css" media="all">
 <link rel="https://api.w.org/" href="https://www.betterment.com/wp-json/">
 <link rel="shortlink" href="https://www.betterment.com/?p=72">
 <link rel="alternate" type="application/json+oembed" href="https://www.betterment.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.betterment.com%2Fsecurity%2Fprivacypolicy%2F">
 <link rel="alternate" type="text/xml+oembed" href="https://www.betterment.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.betterment.com%2Fsecurity%2Fprivacypolicy%2F&amp;format=xml">
 <style type="text/css" id="syntaxhighlighteranchor"></style>
-    </head>
-    <body id="top" class="page-template-default page page-id-72 page-child parent-pageid-82 privacypolicy">
-        <div id="fb-root"></div>
-        <script>(function(d, s, id) {
-            var js, fjs = d.getElementsByTagName(s)[0];
-            if (d.getElementById(id)) return;
-            js = d.createElement(s); js.id = id;
-            js.src = "https://connect.facebook.net/en_US/all.js#xfbml=1&appId=223396044389111";
-            fjs.parentNode.insertBefore(js, fjs);
-            }(document, 'script', 'facebook-jssdk'));
-        </script>
+<link rel="icon" href="https://www.betterment.com/wp-content/themes/foley/images/logos/site_icon_512.png" sizes="32x32">
+<link rel="icon" href="https://www.betterment.com/wp-content/themes/foley/images/logos/site_icon_512.png" sizes="192x192">
+<link rel="apple-touch-icon-precomposed" href="https://www.betterment.com/wp-content/themes/foley/images/logos/site_icon_512.png">
+<meta name="msapplication-TileImage" content="https://www.betterment.com/wp-content/themes/foley/images/logos/site_icon_512.png">
 
-        <header>
-            <div class="wrapper nav top-nav">
-                        <nav class="col12">
-            <div class="header_logo">
-                <a href="https://www.betterment.com">Betterment</a>
-            </div>
-            <ul class="nav_menu">
-                <li>
-                    <a href="#" onclick="return false;" class="lines"><span>Menu</span></a>
-                </li>
-            </ul>
-            <ul class="login_container">
-                <li>
-                    <a href="https://www.bettermentforbusiness.com" data-event="ForBusiness" data-location="Header" class="mainlink for-business" target="_blank">For Business</a>
-                    <a href="https://wwws.betterment.com/app/login" class="button login_button">Log In</a>
-                    <a href="https://wwws.betterment.com/app/onboarding?signupStartSource=BrochureSignupCta" class="button sign-up" data-behavior-get-started-click="">Sign Up</a>                </li>
-            </ul>
-            <ul class="nav-items">
-                <li class="dropdown taphover">
-                    <a href="https://www.betterment.com/why-betterment/" data-event="WhyBetterment" data-location="Header" class="mainlink ">Why Betterment</a>
-                    <ul class="dropdown">
-                        <li><a href="https://www.betterment.com/why-betterment/" data-event="WhyBetterment" data-location="Header">Overview</a></li>
-                        <li><a href="https://www.betterment.com/portfolio/" data-event="OurPortfolio" data-location="Header">Our Portfolio</a></li>
-                        <li><a href="https://www.betterment.com/tax-efficient-investing/" data-event="TaxEfficient" data-location="Header">Tax‑Efficient Investing</a></li>
-                        <li><a href="https://www.betterment.com/security/" data-event="Security" data-location="Header">Security</a></li>
-                        <li><a href="https://www.betterment.com/experts/" data-event="TeamOfExperts" data-location="Header">Team of Experts</a></li>
-                        <li><a href="https://www.betterment.com/mission/" data-event="OurMission" data-location="Header">Our Mission</a></li>
-                    </ul>
-                </li>
-                <li class="dropdown taphover">
-                    <a href="https://www.betterment.com/financial-planning/" data-event="Services" data-location="Header" class="mainlink ">Services</a>
-                    <ul class="dropdown">
-                        <li><a href="https://www.betterment.com/financial-planning/" data-event="FinancialPlanning" data-location="Header" class="services-advice-link">Financial Planning</a></li>
-                        <li><a href="https://www.betterment.com/retirement/" data-event="Retirement" data-location="Header">Retirement</a></li>
-                        <li><a href="https://www.betterment.com/401k-and-ira-rollover/" data-event="IRAs" data-location="Header">IRAs</a></li>
-                        <li><a href="https://www.betterment.com/trust-accounts/" data-event="Trusts" data-location="Header">Trusts</a></li>
-                        <li><a href="https://www.betterment.com/tax-loss-harvesting/" data-event="TLH" data-location="Header">Tax Loss Harvesting+</a></li>
-                        <li><a href="https://www.betterment.com/tax-coordinated-portfolio/" data-event="TCP" data-location="Header">Tax-Coordinated Portfolio</a></li>
-                        <li><a href="https://www.betterment.com/financial-experts/" data-event="FinancialExperts" data-location="Header">Financial Experts</a></li>
-                    </ul>
-                </li>
-                <li class="dropdown taphover">
-                    <a href="https://www.betterment.com/resources/" data-event="Blog" data-location="Header" class="mainlink ">Resources</a>
-                    <ul id="menu-resource-menu" class="dropdown"><li id="menu-item-27505" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-27505"><a href="https://www.betterment.com/resources/tags/investing-101/" data-event="Investing 101" data-location="Header">Investing 101</a></li>
-<li id="menu-item-27345" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-27345"><a href="https://www.betterment.com/resources/topics/investment-strategy/" data-event="Advanced Investing" data-location="Header">Advanced Investing</a></li>
-<li id="menu-item-27353" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-27353"><a href="https://www.betterment.com/resources/topics/personal-finance/" data-event="Personal Finance" data-location="Header">Personal Finance</a></li>
-<li id="menu-item-27355" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-27355"><a href="https://www.betterment.com/resources/topics/retirement/" data-event="Retirement" data-location="Header">Retirement</a></li>
-<li id="menu-item-27341" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-27341"><a href="https://www.betterment.com/resources/topics/inside-betterment/" data-event="Inside Betterment" data-location="Header">Inside Betterment</a></li>
-<li id="menu-item-27359" class="menu-item menu-item-type-post_type_archive menu-item-object-research menu-item-27359"><a href="https://www.betterment.com/resources/research/" data-event="Research" data-location="Header">Research</a></li>
-<li id="menu-item-27360" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-27360"><a href="https://www.betterment.com/resources/tags/tools-and-calculators/" data-event="Tools and Calculators" data-location="Header">Tools and Calculators</a></li>
-<li id="menu-item-30365" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30365"><a href="https://www.betterment.com/tax-time-at-betterment/" data-event="Tax Time at Betterment" data-location="Header">Tax Time at Betterment</a></li>
-</ul>                </li>
-                <li>
-                    <a href="https://www.betterment.com/pricing/" data-event="Pricing" data-location="Header" class="">Pricing</a>
-                </li>
-                <li>
-                    <a href="https://support.betterment.com/" data-event="FAQs" data-location="Header" class="">FAQs</a>
-                </li>
-                <li class="mobile_login">
-                    <a href="https://wwws.betterment.com/app/login">Log In</a>
-                </li>
-            </ul>
-            <span></span>
-        </nav>
-            </div>
-            <div class="sticky_nav">
-                <div class="wrapper nav">
-                            <nav class="col12">
-            <div class="header_logo">
-                <a href="https://www.betterment.com">Betterment</a>
-            </div>
-            <ul class="nav_menu">
-                <li>
-                    <a href="#" onclick="return false;" class="lines"><span>Menu</span></a>
-                </li>
-            </ul>
-            <ul class="login_container">
-                <li>
-                    <a href="https://www.bettermentforbusiness.com" data-event="ForBusiness" data-location="Header" class="mainlink for-business" target="_blank">For Business</a>
-                    <a href="https://wwws.betterment.com/app/login" class="button login_button">Log In</a>
-                    <a href="https://wwws.betterment.com/app/onboarding?signupStartSource=BrochureSignupCta" class="button sign-up" data-behavior-get-started-click="">Sign Up</a>                </li>
-            </ul>
-            <ul class="nav-items">
-                <li class="dropdown taphover">
-                    <a href="https://www.betterment.com/why-betterment/" data-event="WhyBetterment" data-location="Header" class="mainlink ">Why Betterment</a>
-                    <ul class="dropdown">
-                        <li><a href="https://www.betterment.com/why-betterment/" data-event="WhyBetterment" data-location="Header">Overview</a></li>
-                        <li><a href="https://www.betterment.com/portfolio/" data-event="OurPortfolio" data-location="Header">Our Portfolio</a></li>
-                        <li><a href="https://www.betterment.com/tax-efficient-investing/" data-event="TaxEfficient" data-location="Header">Tax‑Efficient Investing</a></li>
-                        <li><a href="https://www.betterment.com/security/" data-event="Security" data-location="Header">Security</a></li>
-                        <li><a href="https://www.betterment.com/experts/" data-event="TeamOfExperts" data-location="Header">Team of Experts</a></li>
-                        <li><a href="https://www.betterment.com/mission/" data-event="OurMission" data-location="Header">Our Mission</a></li>
-                    </ul>
-                </li>
-                <li class="dropdown taphover">
-                    <a href="https://www.betterment.com/financial-planning/" data-event="Services" data-location="Header" class="mainlink ">Services</a>
-                    <ul class="dropdown">
-                        <li><a href="https://www.betterment.com/financial-planning/" data-event="FinancialPlanning" data-location="Header" class="services-advice-link">Financial Planning</a></li>
-                        <li><a href="https://www.betterment.com/retirement/" data-event="Retirement" data-location="Header">Retirement</a></li>
-                        <li><a href="https://www.betterment.com/401k-and-ira-rollover/" data-event="IRAs" data-location="Header">IRAs</a></li>
-                        <li><a href="https://www.betterment.com/trust-accounts/" data-event="Trusts" data-location="Header">Trusts</a></li>
-                        <li><a href="https://www.betterment.com/tax-loss-harvesting/" data-event="TLH" data-location="Header">Tax Loss Harvesting+</a></li>
-                        <li><a href="https://www.betterment.com/tax-coordinated-portfolio/" data-event="TCP" data-location="Header">Tax-Coordinated Portfolio</a></li>
-                        <li><a href="https://www.betterment.com/financial-experts/" data-event="FinancialExperts" data-location="Header">Financial Experts</a></li>
-                    </ul>
-                </li>
-                <li class="dropdown taphover">
-                    <a href="https://www.betterment.com/resources/" data-event="Blog" data-location="Header" class="mainlink ">Resources</a>
-                    <ul id="menu-resource-menu-1" class="dropdown"><li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-27505"><a href="https://www.betterment.com/resources/tags/investing-101/" data-event="Investing 101" data-location="Header">Investing 101</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-27345"><a href="https://www.betterment.com/resources/topics/investment-strategy/" data-event="Advanced Investing" data-location="Header">Advanced Investing</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-27353"><a href="https://www.betterment.com/resources/topics/personal-finance/" data-event="Personal Finance" data-location="Header">Personal Finance</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-27355"><a href="https://www.betterment.com/resources/topics/retirement/" data-event="Retirement" data-location="Header">Retirement</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-27341"><a href="https://www.betterment.com/resources/topics/inside-betterment/" data-event="Inside Betterment" data-location="Header">Inside Betterment</a></li>
-<li class="menu-item menu-item-type-post_type_archive menu-item-object-research menu-item-27359"><a href="https://www.betterment.com/resources/research/" data-event="Research" data-location="Header">Research</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-27360"><a href="https://www.betterment.com/resources/tags/tools-and-calculators/" data-event="Tools and Calculators" data-location="Header">Tools and Calculators</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30365"><a href="https://www.betterment.com/tax-time-at-betterment/" data-event="Tax Time at Betterment" data-location="Header">Tax Time at Betterment</a></li>
-</ul>                </li>
-                <li>
-                    <a href="https://www.betterment.com/pricing/" data-event="Pricing" data-location="Header" class="">Pricing</a>
-                </li>
-                <li>
-                    <a href="https://support.betterment.com/" data-event="FAQs" data-location="Header" class="">FAQs</a>
-                </li>
-                <li class="mobile_login">
-                    <a href="https://wwws.betterment.com/app/login">Log In</a>
-                </li>
-            </ul>
-            <span></span>
-        </nav>
-                </div>
-            </div>
-        </header>
-        <header class="mobile-nav hamburger">
-            <div class="wrapper nav">
-                <nav class="col12 hamburger">
-    <ul class="menu">
-        <li>
-            <a href="https://www.betterment.com/why-betterment" data-event="WhyBetterment" data-location="Header">Why Betterment</a>
-            <ul class="nav-items">
-                <li><a href="https://www.betterment.com/why-betterment" data-event="WhyBetterment" data-location="Header">Overview</a></li>
-                <li><a href="https://www.betterment.com/portfolio" data-event="OurPortfolio" data-location="Header">Our Portfolio</a></li>
-                <li><a href="https://www.betterment.com/tax-efficient-investing" data-event="TaxEfficient" data-location="Header">Tax‑Efficient Investing</a></li>
-                <li><a href="https://www.betterment.com/security" data-event="Security" data-location="Header">Security</a></li>
-                <li><a href="https://www.betterment.com/experts" data-event="TeamOfExperts" data-location="Header">Team of Experts</a></li>
-                <li><a href="https://www.betterment.com/mission" data-event="OurMission" data-location="Header">Our Mission</a></li>
-                <li><a href="https://www.betterment.com/pricing" data-event="Pricing" data-location="Header">Pricing</a></li>
-                <li><a href="https://support.betterment.com" data-event="FAQs" data-location="Header">FAQs</a></li>
-            </ul>
-        </li>
-        <li>
-            <a href="https://www.betterment.com/financial-planning" data-event="Services" data-location="Header">Services</a>
-            <ul class="nav-items">
-                <li><a href="https://www.betterment.com/financial-planning" data-event="FinancialPlanning" data-location="Header" class="services-advice-link">Financial Planning</a></li>
-                <li><a href="https://www.betterment.com/retirement" data-event="Retirement" data-location="Header">Retirement</a></li>
-                <li><a href="https://www.betterment.com/401k-and-ira-rollover" data-event="IRAs" data-location="Header">IRAs</a></li>
-                <li><a href="https://www.betterment.com/trust-accounts" data-event="Trusts" data-location="Header">Trusts</a></li>
-                <li><a href="https://www.betterment.com/tax-loss-harvesting" data-event="TLH" data-location="Header">Tax Loss Harvesting+</a></li>
-                <li><a href="https://www.betterment.com/tax-coordinated-portfolio/" data-event="TCP" data-location="Header">Tax-Coordinated Portfolio</a></li>
-                <li><a href="https://www.betterment.com/financial-experts/" data-event="FinancialExperts" data-location="Header">Financial Experts</a></li>
-            </ul>
-        </li>
-        <li>
-            <a href="https://www.betterment.com/resources" data-event="ResourceCenter" data-location="Header">Resources Home</a>
-            <ul id="menu-resource-menu-2" class="nav-items"><li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-27505"><a href="https://www.betterment.com/resources/tags/investing-101/" data-event="Investing 101" data-location="Header">Investing 101</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-27345"><a href="https://www.betterment.com/resources/topics/investment-strategy/" data-event="Advanced Investing" data-location="Header">Advanced Investing</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-27353"><a href="https://www.betterment.com/resources/topics/personal-finance/" data-event="Personal Finance" data-location="Header">Personal Finance</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-27355"><a href="https://www.betterment.com/resources/topics/retirement/" data-event="Retirement" data-location="Header">Retirement</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-27341"><a href="https://www.betterment.com/resources/topics/inside-betterment/" data-event="Inside Betterment" data-location="Header">Inside Betterment</a></li>
-<li class="menu-item menu-item-type-post_type_archive menu-item-object-research menu-item-27359"><a href="https://www.betterment.com/resources/research/" data-event="Research" data-location="Header">Research</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-27360"><a href="https://www.betterment.com/resources/tags/tools-and-calculators/" data-event="Tools and Calculators" data-location="Header">Tools and Calculators</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30365"><a href="https://www.betterment.com/tax-time-at-betterment/" data-event="Tax Time at Betterment" data-location="Header">Tax Time at Betterment</a></li>
-</ul>        </li>
-    </ul>
-    <ul class="actions">
-        <li class="for-business"><a href="https://www.bettermentforbusiness.com/" data-event="ForBusiness" data-location="Header" class="mainlink" target="_blank">For Business</a></li>
-        <li><a href="https://wwws.betterment.com/app/login">Log In</a></li>
-        <li><a href="https://wwws.betterment.com/app/onboarding?signupStartSource=BrochureSignupCta" data-behavior-get-started-click="">Sign Up</a></li>
-    </ul>
-</nav>
-            </div>
-        </header>
+            </head>
+  <body class="page-template-default page page-id-72 page-child parent-pageid-82 sc-backgroundColor-grey-10">
+    <div class="sc-SiteLayout sc-SiteLayout--constrained sc-backgroundColor-white" data-js-hook="SiteLayout">
 
-<article class="brochure page-default">
-    <section class="wrapper">      
-              <div class="post">
-          <h2 id="post-72">Privacy Policy</h2>
-          <div class="entrytext">
-            <h3>Introduction</h3>
-<p>Welcome to Betterment! We work hard to protect your personal information and ensure your information is kept private and secure. The following privacy policy outlines the types of personal information that Betterment LLC, Betterment Securities, and Betterment for Business (collectively “Betterment”) collect, including through Betterment’s websites (<a href="https://www.betterment.com">www.betterment.com</a>, <a href="https://www.bettermentforadvisors.com">www.bettermentforadvisors.com</a>, and <a href="https://www.bettermentforbusiness.com">www.bettermentforbusiness.com</a>), the Betterment Resource Center&nbsp;(<a href="https://www.betterment.com/resources">www.betterment.com/resources</a>), and our mobile applications for iOS and Android devices. It also explains why we collect your&nbsp;information and how we use it.</p>
-<p>Privacy is important to Betterment. <span style="font-weight: 400">We will </span><strong>never</strong><span style="font-weight: 400"> rent or sell your information to anyone.&nbsp;</span>If you have any questions or if you believe that Betterment has not adhered to this privacy policy, please send us a note at <a href="mailto:support@betterment.com">support@betterment.com</a>.</p>
+              <div class="u-hidden sc-SectionLayout sc-SectionLayout--flush u-backgroundColor-blue-3" data-behavior-toast-message-toggle="">
+  <div class="sc-SectionLayout-contentWrapper">
+    <div class="ToastMessage">
+      <div class="u-flex u-flexJustifyBetween u-flexAlignItemsCenter u-col-12 sc-p-v--m">
+        <div class="u-flex u-flexAlignItemsCenter">
+                    <div class="u-hideUntilVisitorStateKnown" data-js-hook="referral_offer_q2_2018">
+  <p class="sc-color-white sc-m-b--xxs">
+  	<strong>Free for 90 days:</strong> Sign up now and get 90 days managed free after your first deposit. <a class="u-knockout" href="/referral-bonus">See&nbsp;offer&nbsp;details</a>
+  </p>
+</div>
+        </div>
+        <a class="sc-m-l--m" href="javascript:void(0)" data-behavior-toast-message-dismiss="">
+          <span class="sc-Icon sc-Icon--s sc-Icon--white">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" aria-label="Dismiss" role="img">
+&lt;title&gt;Dismiss&lt;/title&gt;
+  <polygon points="14.587 .001 8 6.588 1.413 .001 0 1.414 6.587 8.001 0 14.588 1.413 16 8 9.414 14.587 16 16 14.588 9.413 8.001 16 1.414"></polygon>
+</svg>
+</span>
+
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+                  <header class="sc-SiteLayout-header" data-behavior-header-variant="Main">
+  <section class="sc-SectionLayout sc-SectionLayout--flush sc-backgroundColor-grey-60 u-shadow">
+    <div class="sc-SectionLayout-contentWrapper">
+      <header class="sc-Nav sc-Nav--noTriggerIcon">
+  <a href="https://www.betterment.com" class="sc-Nav-logoContainer" data-track-event="ElementClicked" data-track-name="Logo" data-track-module="TopNav">
+      <span class="sc-Logo sc-Logo--retail sc-Logo--knockout">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 63" aria-label="Betterment homepage" role="img">
+&lt;title&gt;Betterment homepage&lt;/title&gt;
+  <path d="M449.7 44.7c0 11.6 6.1 18 17.7 18 5 0 9-1 12.5-2.7l-3.5-11a13 13 0 0 1-6.1 1.6c-4.4 0-6.6-2.6-6.6-7.4V27.3h13.7V16.1h-13.8V.4L449.7 5v39.7z"></path>
+  <path d="M358 33.6a10 10 0 0 1 9.8-7.4c4.5 0 8 2.6 9.3 7.4H358zm33.1 5c-.2-14-9.8-24-23.3-24-13.7 0-24 10.4-24 24 0 13 9.5 24 23.9 24 10.4 0 19.8-6.5 22.6-15.5h-13.5c-2 2.8-5 4.2-9.1 4.2-5 0-8.9-3.4-10-9h33.4v-3.6z"></path>
+  <path d="M428.6 61.3h13.8V33.5c0-5.6-1.7-10.3-4.8-13.7a16.2 16.2 0 0 0-12.4-5.1 19 19 0 0 0-14.1 6V16h-14v45.3h14v-21c0-8.3 3.4-12.8 9.5-12.8 4.8 0 8 3.6 8 9v24.8z"></path>
+  <path d="M324.2 61.3H338V34c0-11.8-6.8-19.2-16.9-19.2-6.7 0-12.2 2.7-16 7.8-3-5-8.1-7.8-14.5-7.8-5.6 0-10 1.9-13.3 5.7V16h-14v45.3h14V39.1c0-7.4 3-11.6 8.6-11.6 5.2 0 7.8 3 7.8 8.5v25.3h14V39.1c0-7.4 3.2-11.6 9-11.6 4.5 0 7.5 3.7 7.5 8.8v25z"></path>
+  <path d="M225.6 61.3h13.9V47c0-12.6 5.7-17.7 14.8-17.7 2.3 0 3.8.3 3.8.3V15.8c-1-.3-1.9-.4-3.2-.4-6.7 0-11.7 3.3-15.4 9.7v-9h-14v45.2z"></path>
+  <path d="M186.4 33.6a10 10 0 0 1 9.8-7.4c4.6 0 8.1 2.6 9.3 7.4h-19.1zm33.2 5c-.3-14-10-24-23.4-24-13.7 0-24 10.4-24 24 0 13 9.5 24 24 24 10.3 0 19.8-6.5 22.5-15.5h-13.5c-2 2.8-5 4.2-9 4.2-5 0-9-3.4-10-9h33.4v-3.6z"></path>
+  <path d="M121.3 27.3h19.4v17.4c0 11.6 6 18 17.7 18 5 0 9-1 12.5-2.7l-3.6-11a13 13 0 0 1-6 1.6c-4.5 0-6.7-2.6-6.7-7.4V27.3h13.7V16.1h-13.7V.4L140.7 5v11h-19.4V.6L107.4 5v39.7c0 11.6 6 18 17.7 18 5 0 9-1 12.5-2.7L134 49a13 13 0 0 1-6 1.6c-4.5 0-6.7-2.6-6.7-7.4V27.3z"></path>
+  <path d="M68.5 33.6a10 10 0 0 1 9.8-7.4c4.5 0 8.1 2.6 9.3 7.4H68.5zm33.1 5c-.2-14-9.8-24-23.3-24-13.7 0-24 10.4-24 24 0 13 9.5 24 23.9 24 10.4 0 19.8-6.5 22.6-15.5H87.3c-2 2.8-5 4.2-9.1 4.2-5 0-8.9-3.4-10-9h33.4v-3.6z"></path>
+  <path d="M28.3 49.5H14V37.3h14.3c3.3 0 6.6 2.1 6.6 6.2 0 3.5-2.7 6-6.6 6zM14 13.6h12.5c4.6 0 6.6 3 6.6 6 0 4.3-3.4 6.3-6.6 6.3H14V13.6zM40.7 30S48 26.2 48 17c0-7.2-6.3-15.3-18.8-15.3H0v59.7h29.2c16 0 20.4-10 20.4-16.8 0-10.9-8.9-14.6-8.9-14.6z"></path>
+</svg>
+</span>
+
+  </a>
+  <nav class="sc-Nav-mainNav">
+    <div class="sc-Nav-mainNavItem">
+  <a href="/why-betterment/" class="sc-Nav-mainNavLink" data-track-event="ElementClicked" data-track-name="WhyBetterment" data-track-module="TopNav">Why Betterment</a>
+</div>
+<div class="sc-Nav-mainNavItem">
+  <a href="/how-it-works/" class="sc-Nav-mainNavLink" data-track-event="ElementClicked" data-track-name="HowItWorks" data-track-module="TopNav">How it works</a>
+</div>
+<div class="sc-Nav-mainNavItem sc-Nav-mainNavItem--withChildren sc-Nav-mainNavItem--withChildren--richMenu">
+  <a href="/what-we-offer/" class="sc-Nav-mainNavLink" data-track-event="ElementClicked" data-track-name="WhatWeOffer" data-track-module="TopNav">What we offer</a>
+  <div class="sc-Nav-panel">
+      <div class="sc-Nav-mainNavItem--withChildren--richMenu-arrow"></div>
+      <div class="sc-Nav-mainNavItem--withChildren--richMenu-columns">
+        <div class="sc-Nav-mainNavItem--withChildren--richMenu-column">
+          <p class="sc-Nav-mainNavItem--withChildren--richMenu-columnHeader">Solutions</p>
+          <a href="/financial-planning/" class="sc-Nav-panelLink" data-track-event="ElementClicked" data-track-name="PersonalizedGuidance" data-track-module="TopNav">Personalized Guidance</a>
+          <a href="/tax-efficient-investing/" class="sc-Nav-panelLink" data-track-event="ElementClicked" data-track-name="TaxSmartInvesting" data-track-module="TopNav">Tax-Smart Investing</a>
+          <a href="/retirement/" class="sc-Nav-panelLink" data-track-event="ElementClicked" data-track-name="RetirementPlanning" data-track-module="TopNav">Retirement Planning</a>
+          <a href="/cash-management/" class="sc-Nav-panelLink" data-track-event="ElementClicked" data-track-name="CashManagement" data-track-module="TopNav">Cash Management</a>
+        </div>
+        <div class="sc-Nav-mainNavItem--withChildren--richMenu-column">
+          <p class="sc-Nav-mainNavItem--withChildren--richMenu-columnHeader">Accounts</p>
+          <a href="/investing-accounts/" class="sc-Nav-panelLink" data-track-event="ElementClicked" data-track-name="PersonalInvestingAccounts" data-track-module="TopNav">Personal Investing</a>
+          <a href="/401k-and-ira-rollover/" class="sc-Nav-panelLink" data-track-event="ElementClicked" data-track-name="Rollover" data-track-module="TopNav">Rollover</a>
+          <a href="/ira-accounts/" class="sc-Nav-panelLink" data-track-event="ElementClicked" data-track-name="IRAAccounts" data-track-module="TopNav">IRA</a>
+          <a href="/trust-accounts/" class="sc-Nav-panelLink" data-track-event="ElementClicked" data-track-name="TrustAccounts" data-track-module="TopNav">Trust</a>
+          <a href="/smart-saver/" class="sc-Nav-panelLink" data-track-event="ElementClicked" data-track-name="SmartSaverAccounts" data-track-module="TopNav">Smart Saver</a>
+        </div>
+      </div>
+      <div class="sc-Nav-mainNavItem--withChildren--richMenu-footer">
+        <a href="https://business.betterment.com/" class="sc-Nav-panelLink" data-track-event="ElementClicked" data-track-name="401kForBusinesses" data-track-module="TopNav">401(k) For Businesses</a>
+        <a href="https://advisors.betterment.com/" class="sc-Nav-panelLink" data-track-event="ElementClicked" data-track-name="AdvisorSolutions" data-track-module="TopNav">Advisor Solutions</a>
+      </div>
+  </div>
+</div>
+<div class="sc-Nav-mainNavItem">
+  <a href="/pricing/" class="sc-Nav-mainNavLink" data-track-event="ElementClicked" data-track-name="Pricing" data-track-module="TopNav">Pricing</a>
+</div>
+<div class="sc-Nav-mainNavItem">
+  <a href="/frequently-asked-questions/" class="sc-Nav-mainNavLink" data-track-event="ElementClicked" data-track-name="FAQs" data-track-module="TopNav" data-behavior-faq-click="">FAQs</a>
+</div>
+  </nav>
+  <span class="u-displayNone u-displayBlock--lg">
+    <a href="/resources/search" class="sc-Icon sc-Icon--inline sc-Icon--white sc-m-r--m" data-track-event="ElementClicked" data-track-name="SiteSearch" data-track-module="TopNav" data-sc-modal-target="#search-modal">
+      <span class="sc-Icon sc-Icon--s">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" aria-label="Search our site" role="img">
+&lt;title&gt;Search our site&lt;/title&gt;
+  <path d="M2 5.5a3.5 3.5 0 1 1 7 0 3.5 3.5 0 0 1-7 0zm8 3.2c.7-.9 1-2 1-3.2a5.5 5.5 0 1 0-2.3 4.6l5.8 5.9 1.4-1.4-5.8-5.9z"></path>
+</svg>
+</span>
+
+    </a>
+  </span>
+  <div class="u-displayNone--lg u-flex u-flexGrow1 u-lg-flexNone u-flexJustifyEnd">
+    <a href="/resources/search" class="sc-Icon sc-Icon--inline sc-Icon--white" data-track-event="ElementClicked" data-track-name="SiteSearch" data-track-module="MobileNav">
+      <span class="sc-Icon sc-Icon--s">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" aria-label="Search our site" role="img">
+&lt;title&gt;Search our site&lt;/title&gt;
+  <path d="M2 5.5a3.5 3.5 0 1 1 7 0 3.5 3.5 0 0 1-7 0zm8 3.2c.7-.9 1-2 1-3.2a5.5 5.5 0 1 0-2.3 4.6l5.8 5.9 1.4-1.4-5.8-5.9z"></path>
+</svg>
+</span>
+
+    </a>
+  </div>
+  <div class="sc-Nav-panelTrigger">
+    <div class="sc-Nav-triggerCta sc-Nav-triggerCta--detailedMode">
+      <a href="https://wwws.betterment.com/app/login" class="sc-Nav-triggerText sc-m-r--xxs" data-track-event="ElementClicked" data-track-name="Login" data-track-module="TopNav">Log in</a>
+    </div>
+    <div class="sc-Nav-triggerCta sc-Nav-triggerCta--simpleMode" data-behavior-toggle-class="is-expanded" data-toggle-target=".sc-OverlayPanel" data-js-hook="overlay-nav-trigger-click">
+      <span class="sc-Icon sc-Icon--s sc-Icon--white">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" aria-label="Open menu" role="img">
+&lt;title&gt;Open menu&lt;/title&gt;
+  <path d="M0 9V7h16v2H0zm0-4V3h16v2H0zm0 8v-2h16v2H0z"></path>
+</svg>
+</span>
+
+    </div>
+  </div>
+  <div class="sc-Nav-ctaContainer">
+    <a href="javascript:void(0);" class="sc-Nav-ctaText" data-behavior-get-started-click="" data-track-event="ElementClicked" data-track-name="GetStarted" data-track-module="TopNav">Get started</a>
+  </div>
+  <div class="sc-OverlayPanel">
+    <div class="sc-OverlayPanel-header">
+      <a href="https://www.betterment.com" class="sc-OverlayPanel-logoContainer" data-track-event="ElementClicked" data-track-name="Logo" data-track-module="TopNav">
+        <span class="sc-Logo sc-Logo--retail sc-Logo--knockout">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 63" aria-label="Betterment homepage" role="img">
+&lt;title&gt;Betterment homepage&lt;/title&gt;
+  <path d="M449.7 44.7c0 11.6 6.1 18 17.7 18 5 0 9-1 12.5-2.7l-3.5-11a13 13 0 0 1-6.1 1.6c-4.4 0-6.6-2.6-6.6-7.4V27.3h13.7V16.1h-13.8V.4L449.7 5v39.7z"></path>
+  <path d="M358 33.6a10 10 0 0 1 9.8-7.4c4.5 0 8 2.6 9.3 7.4H358zm33.1 5c-.2-14-9.8-24-23.3-24-13.7 0-24 10.4-24 24 0 13 9.5 24 23.9 24 10.4 0 19.8-6.5 22.6-15.5h-13.5c-2 2.8-5 4.2-9.1 4.2-5 0-8.9-3.4-10-9h33.4v-3.6z"></path>
+  <path d="M428.6 61.3h13.8V33.5c0-5.6-1.7-10.3-4.8-13.7a16.2 16.2 0 0 0-12.4-5.1 19 19 0 0 0-14.1 6V16h-14v45.3h14v-21c0-8.3 3.4-12.8 9.5-12.8 4.8 0 8 3.6 8 9v24.8z"></path>
+  <path d="M324.2 61.3H338V34c0-11.8-6.8-19.2-16.9-19.2-6.7 0-12.2 2.7-16 7.8-3-5-8.1-7.8-14.5-7.8-5.6 0-10 1.9-13.3 5.7V16h-14v45.3h14V39.1c0-7.4 3-11.6 8.6-11.6 5.2 0 7.8 3 7.8 8.5v25.3h14V39.1c0-7.4 3.2-11.6 9-11.6 4.5 0 7.5 3.7 7.5 8.8v25z"></path>
+  <path d="M225.6 61.3h13.9V47c0-12.6 5.7-17.7 14.8-17.7 2.3 0 3.8.3 3.8.3V15.8c-1-.3-1.9-.4-3.2-.4-6.7 0-11.7 3.3-15.4 9.7v-9h-14v45.2z"></path>
+  <path d="M186.4 33.6a10 10 0 0 1 9.8-7.4c4.6 0 8.1 2.6 9.3 7.4h-19.1zm33.2 5c-.3-14-10-24-23.4-24-13.7 0-24 10.4-24 24 0 13 9.5 24 24 24 10.3 0 19.8-6.5 22.5-15.5h-13.5c-2 2.8-5 4.2-9 4.2-5 0-9-3.4-10-9h33.4v-3.6z"></path>
+  <path d="M121.3 27.3h19.4v17.4c0 11.6 6 18 17.7 18 5 0 9-1 12.5-2.7l-3.6-11a13 13 0 0 1-6 1.6c-4.5 0-6.7-2.6-6.7-7.4V27.3h13.7V16.1h-13.7V.4L140.7 5v11h-19.4V.6L107.4 5v39.7c0 11.6 6 18 17.7 18 5 0 9-1 12.5-2.7L134 49a13 13 0 0 1-6 1.6c-4.5 0-6.7-2.6-6.7-7.4V27.3z"></path>
+  <path d="M68.5 33.6a10 10 0 0 1 9.8-7.4c4.5 0 8.1 2.6 9.3 7.4H68.5zm33.1 5c-.2-14-9.8-24-23.3-24-13.7 0-24 10.4-24 24 0 13 9.5 24 23.9 24 10.4 0 19.8-6.5 22.6-15.5H87.3c-2 2.8-5 4.2-9.1 4.2-5 0-8.9-3.4-10-9h33.4v-3.6z"></path>
+  <path d="M28.3 49.5H14V37.3h14.3c3.3 0 6.6 2.1 6.6 6.2 0 3.5-2.7 6-6.6 6zM14 13.6h12.5c4.6 0 6.6 3 6.6 6 0 4.3-3.4 6.3-6.6 6.3H14V13.6zM40.7 30S48 26.2 48 17c0-7.2-6.3-15.3-18.8-15.3H0v59.7h29.2c16 0 20.4-10 20.4-16.8 0-10.9-8.9-14.6-8.9-14.6z"></path>
+</svg>
+</span>
+
+      </a>
+      <div class="sc-OverlayPanel-closeButton" data-behavior-toggle-class="is-expanded" data-toggle-target=".sc-OverlayPanel">
+        <span class="sc-Icon sc-Icon--s sc-Icon--white">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" aria-label="Close Menu" role="img">
+&lt;title&gt;Close Menu&lt;/title&gt;
+  <polygon points="14.587 .001 8 6.588 1.413 .001 0 1.414 6.587 8.001 0 14.588 1.413 16 8 9.414 14.587 16 16 14.588 9.413 8.001 16 1.414"></polygon>
+</svg>
+</span>
+
+      </div>
+    </div>
+    <nav class="sc-OverlayPanel-nav">
+      <div class="sc-OverlayPanel-navItem">
+  <a href="https://www.betterment.com/why-betterment/" class="sc-OverlayPanel-primaryLink" data-track-event="ElementClicked" data-track-name="WhyBetterment" data-track-module="OverlayNav">Why Betterment</a>
+</div>
+<div class="sc-OverlayPanel-navItem">
+  <a href="https://www.betterment.com/how-it-works/" class="sc-OverlayPanel-primaryLink" data-track-event="ElementClicked" data-track-name="HowItWorks" data-track-module="OverlayNav">How it works</a>
+</div>
+<div class="sc-OverlayPanel-navItem">
+  <a href="https://www.betterment.com/what-we-offer/" class="sc-OverlayPanel-primaryLink" data-track-event="ElementClicked" data-track-name="WhatWeOffer" data-track-module="OverlayNav">What we offer</a>
+</div>
+<div class="sc-OverlayPanel-navItem">
+  <a href="https://www.betterment.com/resources/" class="sc-OverlayPanel-primaryLink" data-track-event="ElementClicked" data-track-name="Resources" data-track-module="OverlayNav">Resources</a>
+</div>
+<div class="sc-OverlayPanel-navItem">
+  <a href="https://www.betterment.com/pricing/" class="sc-OverlayPanel-primaryLink" data-track-event="ElementClicked" data-track-name="Pricing" data-track-module="OverlayNav">Pricing</a>
+</div>
+<div class="sc-OverlayPanel-navItem">
+  <a href="https://www.betterment.com/frequently-asked-questions/" class="sc-OverlayPanel-primaryLink" data-track-event="ElementClicked" data-track-name="FAQs" data-track-module="OverlayNav" data-behavior-faq-click="">FAQs</a>
+</div>
+<div class="sc-ListItem sc-ListItem--iconRight sc-OverlayPanel-navItem sc-m-b--s">
+  <a href="/resources/search" class="sc-ListItem-label sc-OverlayPanel-primaryLink" data-track-event="ElementClicked" data-track-name="SiteSearch" data-track-module="OverlayNav">
+    <span class="sc-Icon sc-Icon--s">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" aria-hidden="true">
+
+  <path d="M2 5.5a3.5 3.5 0 1 1 7 0 3.5 3.5 0 0 1-7 0zm8 3.2c.7-.9 1-2 1-3.2a5.5 5.5 0 1 0-2.3 4.6l5.8 5.9 1.4-1.4-5.8-5.9z"></path>
+</svg>
+</span>
+
+    <p class="sc-OverlayPanel-primaryLink">Search our site</p>
+  </a>
+</div>
+      <a href="https://wwws.betterment.com/app/login" class="u-linkAsButton sc-SecondaryButton u-knockout sc-OverlayPanel-button" data-track-event="ElementClicked" data-track-name="Login" data-track-module="OverlayNav">Log in</a>
+      <a href="javascript:void(0);" class="u-linkAsButton sc-OverlayPanel-button" data-behavior-get-started-click="" data-track-event="ElementClicked" data-track-name="GetStarted" data-track-module="OverlayNav">Get started</a>
+      <div class="u-hideUntilVisitorStateKnown" data-split-name="brochure_mobile_nav_b2b_links_q4_2018_experiment" data-split-variant="treatment">
+  <div class="sc-OverlayPanel-navItem u-flex sc-p-t--m">
+    <a href="https://bettermentforbusiness.com/" class="u-unstyledLink ft-b4bLink" data-track-event="ElementClicked" data-track-name="B4BMobileLink" data-track-module="OverlayNav">For Business</a>&nbsp;<span class="sc-p-h--s">|</span>&nbsp;<a href="https://bettermentforadvisors.com" class="u-unstyledLink ft-b4aLink" data-track-event="ElementClicked" data-track-name="B4AMobileLink" data-track-module="OverlayNav">For Advisors</a>
+  </div>
+</div>
+    </nav>
+  </div>
+</header>
+    </div>
+  </section>
+</header>
+              
+      <main class="sc-SiteLayout-main">
+        
+  <div class="sc-SectionLayout " data-js-hook="">
+  <div class="sc-SectionLayout-contentWrapper ">
+    <div class="sc-ContentLayout ">
+      <div class="sc-ContentSlot ">
+              <h1>Privacy Policy</h1>
+      <div class="at-above-post-page addthis_tool" data-url="https://www.betterment.com/security/privacypolicy/"></div><h3>Introduction</h3>
+<p>Welcome to Betterment! We work hard to protect your personal information and ensure your information is kept private and secure. The following privacy policy outlines the types of personal information that Betterment LLC, Betterment Securities, and Betterment for Business (collectively “Betterment”) collect, including through Betterment’s websites (<a href="https://www.betterment.com">www.betterment.com</a>, <a href="https://www.bettermentforadvisors.com">advisors.betterment.com</a>, and <a href="https://www.bettermentforbusiness.com">business.betterment.com</a>), the Betterment Resource Center&nbsp;(<a href="https://www.betterment.com/resources">www.betterment.com/resources</a>), and our mobile applications for iOS and Android devices. It also explains why we collect your&nbsp;information and how we use it.</p>
+<p>Privacy is important to Betterment. <span style="font-weight: 400;">We will </span><strong>never</strong><span style="font-weight: 400;"> rent or sell your information to anyone.&nbsp;</span>If you have any questions or if you believe that Betterment has not adhered to this privacy policy, please send us a note at <a href="mailto:support@betterment.com">support@betterment.com</a>.</p>
 <h3>Information We Collect and Why</h3>
-<p>I<span style="font-weight: 400">n order to provide a high-quality service, Betterment collects various types of information when you visit the website or mobile app, sign-up as a customer, or otherwise engage with Betterment</span>.</p>
+<p>I<span style="font-weight: 400;">n order to provide a high-quality service, Betterment collects various types of information when you visit the website or mobile app, sign-up as a customer, or otherwise engage with Betterment</span>.</p>
 <p><strong>Visitor Information</strong><br>
-<span style="font-weight: 400">We collect various types of anonymous information about visitors to Betterment, such as device-related information (including browser type and IP address) and server log information (including the date and time of day of your visit, average time spent on the Betterment site, browsing activity, and any site that referred you to Betterment). We also collect information that you input into our website, e.g., by beginning the account application process or by commenting on the Betterment blog. We use this information to better understand our visitors and our business, facilitate site navigation, provide the services or information you request, and enhance the Betterment service</span>.</p>
+<span style="font-weight: 400;">We collect various types of anonymous information about visitors to Betterment, such as device-related information (including browser type and IP address) and server log information (including the date and time of day of your visit, average time spent on the Betterment site, browsing activity, and any site that referred you to Betterment). We also collect information that you input into our website, e.g., by beginning the account application process or by commenting on the Betterment blog. We use this information to better understand our visitors and our business, facilitate site navigation, provide the services or information you request, and enhance the Betterment service</span>.</p>
 <p><strong>Customer Information</strong><br>
-<span style="font-weight: 400">When you choose to create an account with Betterment, we will also collect certain personal information, including your full legal name, email address, permanent address, date of birth, social security number and information about financial status. We are required by law to collect this information to provide you with financial services. If you do not wish to provide this information, you cannot become a Betterment customer</span>.</p>
-<p><span style="font-weight: 400">If you use the Plaid service to link a bank account when signing up for a Betterment account, you acknowledge and agree that the information you provide to Betterment through Plaid will be treated by Plaid in accordance with Plaid’s privacy policy, located at</span> <a href="https://plaid.com/legal/#privacy-policy" target="_blank">https://plaid.com/legal/#privacy-policy</a>,&nbsp;<span style="font-weight: 400">and by Betterment according to this privacy policy.</span></p>
+<span style="font-weight: 400;">When you choose to create an account with Betterment, we will also collect certain personal information, including your full legal name, email address, permanent address, date of birth, social security number and information about financial status. We are required by law to collect this information to provide you with financial services. If you do not wish to provide this information, you cannot become a Betterment customer</span>.</p>
+<p>If you use the Quovo service to link a bank account when signing up for a Betterment account, Betterment will collect information about the cash flows into and out of that bank account. You acknowledge and agree that the information you provide to Betterment through Plaid or Quovo will be treated by Plaid or Quovo in accordance with their respective privacy policies (located at <a href="https://plaid.com/legal/#privacy-policy" target="_blank" rel="noopener">https://plaid.com/legal/#privacy-policy</a> and <a href="https://www.quovo.com/legal/privacy-policy/" target="_blank" rel="noopener">https://www.quovo.com/legal/privacy-policy/</a>), and by Betterment according to this privacy policy.</p>
+<p><span style="font-weight: 400;">If you use Zoom to initiate a screen share with Betterment’s customer support team, you acknowledge and agree that Zoom may collect certain information about your location, as well as the timing and your use of its services, in accordance with its privacy policy (located at </span><a href="https://zoom.us/privacy"><span style="font-weight: 400;">https://zoom.us/privacy</span></a><span style="font-weight: 400;">). </span></p>
 <p><strong>Retirement Plan Sponsor and Participant Information</strong><br>
-<span style="font-weight: 400">When a company creates an account with Betterment as a retirement plan sponsor, we will collect information on both the company and its employees as plan participants, including but not limited to, the company’s name, the company’s employer identification number, details about the company’s existing retirement plans, an email address of the company’s contact person and other relevant plan information. We will also collect certain personal and financial information about the plan participants, including, but not limited to, names, social security numbers, dates of birth, annual incomes, addresses, length of service with the company, gender, marital status, dates of hire, email addresses and other contact information, occupation, industry, personal interests, bank account balance, salary information, contribution rates and tax bracket</span>.</p>
+<span style="font-weight: 400;">When a company creates an account with Betterment as a retirement plan sponsor, we will collect information on both the company and its employees as plan participants, including but not limited to, the company’s name, the company’s employer identification number, details about the company’s existing retirement plans, an email address of the company’s contact person and other relevant plan information. We will also collect certain personal and financial information about the plan participants, including, but not limited to, names, social security numbers, dates of birth, annual incomes, addresses, length of service with the company, gender, marital status, dates of hire, email addresses and other contact information, occupation, industry, personal interests, bank account balance, salary information, contribution rates and tax bracket</span>.</p>
 <p><strong>Other Ways We Collect Information</strong><br>
-<span style="font-weight: 400">Apart from through the account opening process and from visitors to the site, we may collect various other types of personal information if you or a friend engages with Betterment. We collect your email address as part of our customer referral service or if you subscribe to the Betterment blog. We may also collect personal information if you contact us or otherwise give it to us (e.g., in an email, phone call, or live chat with a member of our customer support team). Further, we may collect information regarding your browsing activity when you visit Betterment’s websites and actions you take within your Betterment account while logged in to your Betterment account.</span></p>
+<span style="font-weight: 400;">Apart from through the account opening process and from visitors to the site, we may collect various other types of personal information if you or a friend engages with Betterment. We collect your email address as part of our customer referral service or if you subscribe to the Betterment blog. We may also collect personal information if you enter it into our live chat program or contact us or otherwise give it to us (e.g., in an email, phone call, or live chat with a member of our customer support team). Further, we may collect information regarding your browsing activity when you visit Betterment’s websites and actions you take within your Betterment account while logged in to your Betterment account.</span></p>
 <p><strong>Cookies and Pixels</strong><br>
-<span style="font-weight: 400">Cookies are small pieces of data that are stored on your computer, mobile phone or any other device used to access the internet. Pixels are small code blocks on a website that allow for another server to measure viewing of a webpage and often are used in connection with cookies.</span></p>
-<p><span style="font-weight: 400">We use these technologies to customize Betterment and improve your experience with the site. Cookies store anonymous information, such as whether you viewed the site from your mobile device. We may store some personal information in a cookie and/or pixel, such as the site that you visited immediately prior to visiting Betterment and relevant financial information that allows us to enhance your user experience and for marketing purposes. Additionally, we may use a cookie and/or pixel that only stores anonymous information to track visitors across websites to better customize our marketing and advertising campaigns.</span></p>
-<p><span style="font-weight: 400">Cookies, pixels, and similar technologies are not required for site functionality. You are not required to accept any cookies or pixels to use this site. However, refusing to accept cookies or pixels will make the use of Betterment more cumbersome and less accessible.</span></p>
+<span style="font-weight: 400;">Cookies are small pieces of data that are stored on your computer, mobile phone or any other device used to access the internet. Pixels are small code blocks on a website that allow for another server to measure viewing of a webpage and often are used in connection with cookies.</span></p>
+<p><span style="font-weight: 400;">We use these technologies to customize Betterment and improve your experience with the site. Cookies store anonymous information, such as whether you viewed the site from your mobile device. We may store some personal information in a cookie and/or pixel, such as the site that you visited immediately prior to visiting Betterment and relevant financial information that allows us to enhance your user experience and for marketing purposes. Additionally, we may use a cookie and/or pixel that only stores anonymous information to track visitors across websites or devices to better customize our marketing and advertising campaigns.</span></p>
+<p><span style="font-weight: 400;">Cookies, pixels, and similar technologies are not required for site functionality. You are not required to accept any cookies or pixels to use this site. However, refusing to accept cookies or pixels will make the use of Betterment more cumbersome and less accessible.</span></p>
 <p><strong>Advertising Companies</strong><br>
-<span style="font-weight: 400">Betterment advertises our services on websites not affiliated with Betterment, and we contract with third-party advertising companies to display these ads. These third-party advertising companies, along with data exchanges and similar providers, may use cookies and similar technologies to collect technical and web navigational information, such as device type, browser type, IP address, and pages visited. </span><span style="font-weight: 400">&nbsp;We do not provide any information to these advertising companies that could personally identify our users or clients, and they do not collect such information for us.</span></p>
-<p><span style="font-weight: 400">Betterment and third-party advertising companies may use the data collected to provide you with ads relevant to you and personalized content while you are on Betterment or other sites. If you prefer to not receive targeted advertising, you can opt out of some network advertising programs that use your information by visiting the </span><a href="http://www.networkadvertising.org/choices/"><span style="font-weight: 400">NAI Opt-Out Page</span></a><span style="font-weight: 400">. Please note that even if you choose to remove your information by opting out, you will still see advertisements while you are browsing online.</span></p>
-<p><span style="font-weight: 400">Additionally, many network advertising programs allow you to view and manage the interest categories they have compiled from your online browsing activities. These interest categories help determine the types of targeted advertisements you may receive. The </span><a href="http://www.networkadvertising.org/choices/"><span style="font-weight: 400">NAI Opt-Out Page</span></a><span style="font-weight: 400"> provides a tool that identifies its member companies that have cookies on your browser and provides links to those companies.</span></p>
-<p><span style="font-weight: 400">The Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising govern certain online advertising and data collection practices. The principles facilitate transparency about online advertising practices and support consumer choice in managing behavioral advertising. We subscribe to these Principles. For more information about the Principles and the Ad Choices icon visit </span><span style="font-weight: 400"><a href="http://youradchoices.com/">http://youradchoices.com/</a>.</span></p>
-<p><span style="font-weight: 400">Because mobile devices may vary in how they operate and may not use cookies, the choice management options listed above may not work for all mobile devices and mobile apps.</span></p>
+<span style="font-weight: 400;">Betterment advertises our services on websites not affiliated with Betterment, and we contract with third-party advertising companies to display these ads. These third-party advertising companies, along with data exchanges and similar providers, may use cookies and similar technologies to collect technical and web navigational information, such as device type, browser type, IP address, and pages visited. </span><span style="font-weight: 400;">&nbsp;We do not provide any information to these advertising companies that could personally identify our users or clients, and they do not collect such information for us.</span></p>
+<p><span style="font-weight: 400;">Betterment and third-party advertising companies may use the data collected to provide you with ads relevant to you and personalized content while you are on Betterment or other sites. If you prefer to not receive targeted advertising, you can opt out of some network advertising programs that use your information by visiting the </span><a href="http://www.networkadvertising.org/choices/"><span style="font-weight: 400;">NAI Opt-Out Page</span></a><span style="font-weight: 400;">. Please note that even if you choose to remove your information by opting out, you will still see advertisements while you are browsing online.</span></p>
+<p><span style="font-weight: 400;">Additionally, many network advertising programs allow you to view and manage the interest categories they have compiled from your online browsing activities. These interest categories help determine the types of targeted advertisements you may receive. The </span><a href="http://www.networkadvertising.org/choices/"><span style="font-weight: 400;">NAI Opt-Out Page</span></a><span style="font-weight: 400;"> provides a tool that identifies its member companies that have cookies on your browser and provides links to those companies.</span></p>
+<p><span style="font-weight: 400;">Because mobile devices may vary in how they operate and may not use cookies, the choice management options listed above may not work for all mobile devices and mobile apps.</span></p>
 <p><strong>Analytics Services</strong><br>
-<span style="font-weight: 400">We use third-party analytics tools, including “Google Analytics” (such tools collectively referred to as “Analytics Services”) to collect information about the usage of this site. The Analytics Services collect information about how often users visit this site, what pages they visit when they do so, and what other sites they used prior to coming to this site, among other information. We use the information we get from these Analytics Services to improve this site.</span></p>
-<p><span style="font-weight: 400">These Analytics Services collect the IP address assigned to you on the date you visit this site, along with other anonymized information (e.g., browser type and type of device used to visit the site), but not your name or other personal identifying information. The Analytics Services’ ability to use and share information about your visits to this site is restricted by their terms of use and privacy policies. We do not combine the information collected through the use of Google Analytics with personally identifiable information. </span></p>
-<p><strong><span style="font-weight: 400">You can prevent Google Analytics from recognizing you on return visits to this site by disabling cookies on your browser. You can opt-out of Google Analytics by installing the Google Analytics Opt-out Browser Add-on&nbsp;</span></strong><a href="https://tools.google.com/dlpage/gaoptout">here</a>.</p>
+<span style="font-weight: 400;">We use third-party analytics tools, including “Google Analytics” (such tools collectively referred to as “Analytics Services”) to collect information about the usage of this site. The Analytics Services collect information about how often users visit this site, what pages they visit when they do so, and what other sites they used prior to coming to this site, among other information. We use the information we get from these Analytics Services to improve this site.</span></p>
+<p><span style="font-weight: 400;">These Analytics Services collect the IP address assigned to you on the date you visit this site, along with other anonymized information (e.g., browser type and type of device used to visit the site), but not your name or other personally identifiable information. The Analytics Services’ ability to use and share information about your visits to this site is restricted by their terms of use and privacy policies. We do not combine the information collected through the use of Google Analytics with personally identifiable information. </span></p>
+<p><strong><span style="font-weight: 400;">You can prevent Google Analytics from recognizing you on return visits to this site by disabling cookies on your browser. You can opt-out of Google Analytics by installing the Google Analytics Opt-out Browser Add-on&nbsp;</span></strong><a href="https://tools.google.com/dlpage/gaoptout">here</a>.</p>
 <h3>How We Use Your Personal Information</h3>
-<p><span style="font-weight: 400">Betterment uses your personal information to enhance your customer experience, provide customer support, operate and maintain your account in accordance with US law, investigate and understand how Betterment is used, monitor and protect the security and integrity of Betterment, and better market and advertise Betterment’s services.</span></p>
-<p><span style="font-weight: 400">As part of this process, we may from time to time aggregate some of your personal information in certain data analysis, reports, or other interpretations of investment trends for both internal and external purposes. When aggregating personal information, we make sure that the information is not identifiable to any particular customer.</span></p>
-<p><span style="font-weight: 400">Additionally, we may use your personal information to contact you regarding our own services or resources that we think may be of interest to you. If you no longer wish to receive such marketing communications from Betterment, please click the “unsubscribe” link that can be found at the bottom of each such email message. Please note that if you hold an account with Betterment, you cannot opt-out of certain communications related to the administration of your account, including communications related to billing, statement and trade confirmation delivery or certain regulatory matters</span>.</p>
+<p><span style="font-weight: 400;">Betterment uses your personal information to enhance your customer experience, provide customer support, operate and maintain your account in accordance with US law, investigate and understand how Betterment is used, monitor and protect the security and integrity of Betterment, and better market and advertise Betterment’s services. You understand and agree that Betterment will compare your identifying information with government-provided lists of suspected terrorists.</span></p>
+<p><span style="font-weight: 400;">As part of this process, we may from time to time include, compile, or aggregate some of your personal information in certain data analysis, reports, or other interpretations of investment trends for both internal and external purposes. When including, compiling, or aggregating personal information for such purposes, we make sure that the information is anonymized such that it is not identifiable to any particular customer.</span></p>
+<p><span style="font-weight: 400;">Additionally, we may use your personal information to contact you regarding our own services, resources, or Betterment job openings that we think may be of interest to you. If you no longer wish to receive such marketing communications from Betterment, please click the “unsubscribe” link that can be found at the bottom of each such email message. Please note that if you hold an account with Betterment, you cannot opt-out of certain communications related to the administration of your account, including communications related to billing, statement and trade confirmation delivery or certain regulatory matters</span>.</p>
 <h3>How&nbsp;We Share Your Information</h3>
-<p><span style="font-weight: 400">We do not sell, rent, or trade your personal information with any third parties other than with your consent or as required by law.</span></p>
-<p><span style="font-weight: 400">In order to provide financial services and for everyday business purposes, we may share your personal information with third parties, including consumer identification verification services, public accounting firms, and certain other service providers (including companies that perform marketing and analytics services). We have entered into agreements that require that these third parties keep this information confidential. We may also disclose your information to other third-party financial institutions, e.g., if you ask to transfer assets from Betterment to such financial institutions. </span></p>
-<p><span style="font-weight: 400">We may also disclose personal information in response to service of legal process, such as a court order, summons, or subpoena, or as permitted or required by law when we reasonably believe it is necessary or appropriate to investigate, prevent, or take action regarding illegal activities, suspected fraud (including identity theft), frontrunning or scalping, situations involving potential threats to the physical safety of any person, or suspected violations of our Terms of Service or customer agreements.</span></p>
-<p><span style="font-weight: 400">Furthermore, we may disclose personal information in specific other cases with your consent.</span></p>
-<p><span style="font-weight: 400">If you conduct business with us through Betterment for Advisors, we may exchange information we collect with your investment professional or with others they may authorize.</span></p>
-<p><span style="font-weight: 400">In order to provide workplace services to employers or plan sponsors, such as retirement savings plan services and recordkeeping services, we may exchange any information received in connection with such services with the employer or plan sponsor or others they may authorize. We may also share information, including but not limited to account positions, contributions, distributions, and cash flows, with a third-party financial institution that serves as a directed trustee to 401(k) plans serviced by Betterment for Business and its affiliates.</span></p>
+<p><span style="font-weight: 400;">We do not sell, rent, or trade your personal information with any third parties other than with your consent or as required by law.</span></p>
+<p><span style="font-weight: 400;">In order to provide financial services and in connection with our&nbsp;everyday business purposes and activities, we may share your personal information with third parties who perform services on our behalf. &nbsp;Examples of these third parties and services include consumer identification verification services, public accounting firms and other professional firms, and certain other vendors and service providers&nbsp;who perform marketing, advertising, research and analytics services on our behalf. We have entered into agreements that require that these third parties keep this information confidential. We may also disclose your information to other third-party financial institutions, e.g., if you ask to transfer assets from Betterment to such financial institutions.&nbsp;&nbsp;If you choose to use Betterment’s charitable giving feature, we will share your name and email address with the recipient charity, which the recipient charity may use to contact you.</span></p>
+<p><span style="font-weight: 400;">We may also disclose personal information in response to service of legal process, such as a court order, summons, or subpoena, or as permitted or required by law when we reasonably believe it is necessary or appropriate to investigate, prevent, or take action regarding illegal activities, suspected fraud (including identity theft), frontrunning or scalping, situations involving potential threats to the physical safety of any person, or suspected violations of our Terms of Service or customer agreements.</span></p>
+<p><span style="font-weight: 400;">Furthermore, we may disclose personal information in specific other cases with your consent.</span></p>
+<p><span style="font-weight: 400;">If you conduct business with us through Betterment for Advisors, we may exchange information we collect with your investment professional or with others they may authorize.</span></p>
+<p><span style="font-weight: 400;">In order to provide workplace services to employers or plan sponsors, such as retirement savings plan services and recordkeeping services, we may exchange any information received in connection with such services with the employer or plan sponsor or others they may authorize. We may also share information, including but not limited to account positions, contributions, distributions, and cash flows, with a third-party financial institution that serves as a directed trustee to 401(k) plans serviced by Betterment for Business and its affiliates.</span></p>
 <h3>How Your Personal Information is Protected</h3>
-<p><span style="font-weight: 400">Betterment works diligently to protect your personal information. We employ several physical and electronic safeguards to keep your information safe. We use the strongest available browser encryption, store all of our data on servers in secure facilities, and implement systematic processes and procedures for securing and storing data. We limit access to your personal and financial information to only those employees with authorized access who need to know the information in order to perform their jobs, and we require third parties who perform services for Betterment to agree to keep your information confidential. Furthermore, if you choose to close your account or your account is terminated with us, we will continue to adhere to the privacy policies and practices outlined here. If you maintain a Betterment account that you access through our website or mobile apps, you are responsible for protecting and maintaining the confidentiality of your account and password and restricting access to your computer.</span></p>
+<p><span style="font-weight: 400;">Betterment works diligently to protect your personal information. We employ several physical and electronic safeguards to keep your information safe. We use the strongest available browser encryption, store all of our data on servers in secure facilities, and implement systematic processes and procedures for securing and storing data. We limit access to your personal and financial information to only those employees with authorized access who need to know the information in order to perform their jobs, and we require third parties who perform services for Betterment to agree to keep your information confidential. Furthermore, if you choose to close your account or your account is terminated with us, we will continue to adhere to the privacy policies and practices outlined here. If you maintain a Betterment account that you access through our website or mobile apps, you are responsible for protecting and maintaining the confidentiality of your account and password and restricting access to your computer.</span></p>
 <h3>How You Can Access or Change Your Personal Information That We Have Collected</h3>
-<p><span style="font-weight: 400">Once you have registered with Betterment, you can access your profile, review the information that is stored, and revise that information. If you have any problems, you may also contact us at support@betterment.com. Due to US regulatory requirements, we do not delete residual copies of outdated information and must preserve all customer data for a minimum of three years</span>.</p>
+<p><span style="font-weight: 400;">Once you have registered with Betterment, you can access your profile, review the information that is stored, and revise that information. If you have any problems, you may also contact us at support@betterment.com. Due to US regulatory requirements, we do not delete residual copies of outdated information and must preserve all customer data for a minimum of three years</span>.</p>
 <h3>Other Important Information</h3>
 <p><strong>Former Customers</strong><br>
-<span style="font-weight: 400">If you are a former customer, these policies also apply to you; we treat your information with the same care as we do information about current customers.</span></p>
+<span style="font-weight: 400;">If you are a former customer, these policies also apply to you; we treat your information with the same care as we do information about current customers.</span></p>
 <p><strong>How We Respond to Do Not Track Signals</strong><br>
-<span style="font-weight: 400">Online tracking is the collection of data about an individual’s Internet activity used to deliver targeted advertisements and for other purposes. Customers using certain modern browsers have the ability to activate a “Do Not Track” signal. Betterment does not currently respond to the “Do Not Track” signal.</span></p>
+<span style="font-weight: 400;">Online tracking is the collection of data about an individual’s Internet activity used to deliver targeted advertisements and for other purposes. Customers using certain modern browsers have the ability to activate a “Do Not Track” signal. Betterment does not currently respond to the “Do Not Track” signal.</span></p>
 <p><strong>How You Accept This Policy</strong><br>
-<span style="font-weight: 400">By using and continuing to use the Betterment websites, mobile apps and/or services, or otherwise providing us with personal information (such as an email address) you agree to the terms and conditions of this privacy policy and any updates thereto. This policy may change from time to time. This is our entire and exclusive privacy policy and it supersedes any earlier version. Our </span><a href="https://www.betterment.com/legal/"><span style="font-weight: 400">Terms and Conditions</span></a><span style="font-weight: 400"> take precedence over any conflicting privacy policy provision.</span></p>
+<span style="font-weight: 400;">By using and continuing to use the Betterment websites, mobile apps and/or services, or otherwise providing us with personal information (such as an email address) you agree to the terms and conditions of this privacy policy and any updates thereto. This policy may change from time to time. This is our entire and exclusive privacy policy and it supersedes any earlier version. Our </span><a href="https://www.betterment.com/legal/"><span style="font-weight: 400;">Terms and Conditions</span></a><span style="font-weight: 400;"> take precedence over any conflicting privacy policy provision.</span></p>
 <p><strong>Changes to the Policy</strong><br>
-<span style="font-weight: 400">We may modify this privacy policy over time without prior notice by posting a new version of this privacy policy, which is your responsibility to review. Any changes to the privacy policy will be reflected on this page and will become effective immediately upon posting. We encourage you to periodically review this privacy policy to stay informed about how we are protecting the personally identifiable information we collect. If changes to the privacy policy are material, we will do our best to notify you via email or through a notification on the site or app. Please check the effective date below to determine if there have been any changes since you have last reviewed the Betterment privacy policy.</span></p>
+<span style="font-weight: 400;">We may modify this privacy policy over time without prior notice by posting a new version of this privacy policy, which is your responsibility to review. Any changes to the privacy policy will be reflected on this page and will become effective immediately upon posting. We encourage you to periodically review this privacy policy to stay informed about how we are protecting the personally identifiable information we collect. If changes to the privacy policy are material, we will do our best to notify you via email or through a notification on the site or app. Please check the effective date below to determine if there have been any changes since you have last reviewed the Betterment privacy policy.</span></p>
 <p><strong>Children</strong><br>
-<span style="font-weight: 400">Our service is not directed towards anyone under the age of 18. If a parent or guardian becomes aware that his or her child under the age of 18 has created an account with Betterment and/or provided us with personally identifiable information, please contact us at support@betterment.com. Additionally, if we become aware at any point that a child under the age of 18 is using our service, we will terminate his or her account.</span></p>
+<span style="font-weight: 400;">Our service is not directed towards anyone under the age of 18. If a parent or guardian becomes aware that his or her child under the age of 18 has created an account with Betterment and/or provided us with personally identifiable information, please contact us at support@betterment.com. Additionally, if we become aware at any point that a child under the age of 18 is using our service, we will terminate his or her account.</span></p>
 <h3>Your Rights as a California Resident</h3>
 <p>Residents of California have the right to request from us certain information with respect to the types of personal information we share with third parties for those third parties’ direct marketing purposes and the identities of the third parties with whom the business has shared such information during the immediately preceding calendar year. To exercise your rights, you may make one request each year by emailing us at support@betterment.com. Your request should specify your full name and the email address you used when submitting personal information to us.</p>
 <h3>Your Rights as a Vermont Resident</h3>
-<p><span style="font-weight: 400">We do not share nonpublic personal financial information we collect about Vermont residents to non-affiliated third parties except for our everyday business purposes or as otherwise permitted by law. If you wish to revoke any authorization to share your nonpublic personal financial information, which you have provided to us by entering into our Customer Agreement, please contact us at support@betterment.com. Please note, however, that we will not be able to provide you with services through Betterment without the ability to share this financial information.</span></p>
+<p><span style="font-weight: 400;">We do not share nonpublic personal financial information we collect about Vermont residents to non-affiliated third parties except for our everyday business purposes or as otherwise permitted by law. If you wish to revoke any authorization to share your nonpublic personal financial information, which you have provided to us by entering into our Customer Agreement, please contact us at support@betterment.com. Please note, however, that we will not be able to provide you with services through Betterment without the ability to share this financial information.</span></p>
 <h3>International Visitors</h3>
-<p><span style="font-weight: 400">This Service is hosted in the United States. If you are an international visitor, you should note that by providing your personal information, you are: (i) permitting the transfer of your personal information to the United States which may not have the same data protection laws as the country in which you reside; and (ii) permitting the use of your personal information in accordance with this privacy policy</span>.</p>
+<p><span style="font-weight: 400;">This Service is hosted in the United States. If you are an international visitor, you should note that by providing your personal information, you are: (i) permitting the transfer of your personal information to the United States which may not have the same data protection laws as the country in which you reside; and (ii) permitting the use of your personal information in accordance with this privacy policy</span>.</p>
 <h3>Questions</h3>
 <p>If you have any questions on the privacy policy, please contact us at:<br>
 Betterment LLC<br>
 61 W. 23rd Street, 4th Floor<br>
 New York, NY 10010<br>
 <a href="mailto:support@betterment.com">support@betterment.com</a><br>
-<a href="tel:+18884289482">1-888-428-9482</a></p>
-<p><strong>LAST AMENDED DATE:</strong>&nbsp;March 9, 2017</p>
+<a href="tel:+188860395832">1.888.603.9583</a></p>
+<p><strong>LAST AMENDED DATE:</strong>&nbsp;December 20, 2018</p>
+<!-- AddThis Advanced Settings above via filter on the_content --><!-- AddThis Advanced Settings below via filter on the_content --><!-- AddThis Advanced Settings generic via filter on the_content --><!-- AddThis Share Buttons above via filter on the_content --><!-- AddThis Share Buttons below via filter on the_content --><div class="at-below-post-page addthis_tool" data-url="https://www.betterment.com/security/privacypolicy/"></div><!-- AddThis Share Buttons generic via filter on the_content -->
           </div>
-        </div>
-               
-    </section>
-</article>
-
-            <footer>
-<!-- Begin Global footer -->
-            <div class="footer-contact">
-                <ul class="wrapper">
-                    <li class="questions">Questions? Visit the <a href="https://support.betterment.com" data-event="Support" data-location="Contact">Support Center</a>, or get in touch:</li>
-                    <li>
-                        <span class="phone-enabled">
-                            <a href="#" class="phone" data-js="cta-call-us" data-track-event="ElementClicked" data-track-name="CallIntent" data-track-module="Footer">Call Us</a>
-                            <a href="tel:+18884289482" class="phone" data-js="cta-tel" data-track-event="ElementClicked" data-track-name="CallLaunch" data-track-module="Footer">(888)&nbsp;428-9482</a>
-                        </span>
-                    </li>
-                    <li>
-                        <a href="#" class="email" data-js="cta-email-us" data-track-event="ElementClicked" data-track-name="EmailIntent" data-track-module="Footer">Email Us</a>
-                        <a href="mailto:support@betterment.com" class="email" data-js="cta-mailto" data-track-event="ElementClicked" data-track-name="EmailLaunch" data-track-module="Footer">support@betterment.com</a>
-                    </li>
-                    <li>
-                        <a href="https://support.betterment.com" class="chat" data-cobrowsing-cta="unavailable" data-track-event="ElementClicked" data-track-name="QuestionIntent" data-track-module="Footer">Ask a Question</a>
-                        <a href="javascript:void(0);" class="chat" data-cobrowsing-cta="available" data-track-event="ElementClicked" data-track-name="ChatIntent" data-track-module="Footer">Live Chat</a>
-                    </li>
-                </ul>
-                <span data-sm-show-media-selection-on="click"></span>
-            </div>
-            <div class="wrapper">
-                <nav>
-                    <dl class="about">
-                        <dt><a href="https://www.betterment.com/contact/" data-event="Contact" data-location="Footer">About Us</a></dt>
-                        <dd><a href="https://www.betterment.com/contact/" data-event="Contact" data-location="Footer">Contact Us</a></dd>
-                        <dd><a href="https://www.betterment.com/careers/" data-event="Jobs" data-location="Footer">Careers</a></dd>
-                        <dd><a href="https://www.betterment.com/press/" data-event="Press" data-location="Footer">Press</a></dd>
-                        <dd><a href="https://www.betterment.com/referral/" data-event="Referral" data-location="Footer">Referral Program</a></dd>
-                        <dd><a href="https://www.betterment.com/sitemap/" data-event="Sitemap" data-location="Footer">Sitemap</a></dd>
-                    </dl>
-                    <div class="vr"></div>
-                    <dl class="why">
-                        <dt><a href="https://www.betterment.com/why-betterment/" data-event="WhyBetterment" data-location="Footer">Why Betterment</a></dt>
-                        <dd><a href="https://www.betterment.com/why-betterment/" data-event="WhyBetterment" data-location="Footer">Overview</a></dd>
-                        <dd><a href="https://www.betterment.com/portfolio/" data-event="OurPortfolio" data-location="Footer">Our Portfolio</a></dd>
-                        <dd><a href="https://www.betterment.com/tax-efficient-investing/" data-event="TaxEfficient" data-location="Footer">Tax‑Efficient Investing</a></dd>
-                        <dd><a href="https://www.betterment.com/security/" data-event="Security" data-location="Footer">Security</a></dd>
-                        <dd><a href="https://www.betterment.com/experts/" data-event="TeamOfExperts" data-location="Footer">Team of Experts</a></dd>
-                        <dd><a href="https://www.betterment.com/mission/" data-event="OurMission" data-location="Footer">Our Mission</a></dd>
-                    </dl>
-                    <dl class="services">
-                        <dt><a href="https://www.betterment.com/financial-planning/" data-event="Services" data-location="Footer">Services</a></dt>
-                        <dd><a href="https://www.betterment.com/financial-planning/" data-event="FinancialPlanning" data-location="Footer" class="services-advice-link">Financial Planning</a></dd>
-                        <dd><a href="https://www.betterment.com/retirement/" data-event="Retirement" data-location="Footer">Retirement</a></dd>
-                        <dd><a href="https://www.betterment.com/401k-and-ira-rollover/" data-event="IRAs" data-location="Footer">IRAs</a></dd>
-                        <dd><a href="https://www.betterment.com/trust-accounts/" data-event="Trusts" data-location="Footer">Trusts</a></dd>
-                        <dd><a href="https://www.betterment.com/tax-loss-harvesting/" data-event="TLH" data-location="Footer">Tax Loss Harvesting+</a></dd>
-                        <dd><a href="https://www.betterment.com/tax-coordinated-portfolio/" data-event="TCP" data-location="Footer">Tax-Coordinated Portfolio</a></dd>
-                    </dl>
-                    <dl class="resources">
-                        <dt><a href="https://www.betterment.com/resources/" data-event="Blog" data-location="Footer">Resources</a></dt>
-                        <dd><a href="https://www.betterment.com/resources/research/tax-loss-harvesting-white-paper/" data-event="TLHWhitePaper" data-location="Footer">TLH+ White Paper</a></dd>
-                        <dd><a href="https://www.betterment.com/resources/retirement/401ks-and-iras/how-to-do-a-direct-ira-transfer/" data-event="HowToRolloverAnIRA" data-location="Footer">How to Roll Over an IRA</a></dd>
-                        <dd><a href="https://www.betterment.com/resources/retirement/401ks-and-iras/how-to-roll-over-a-401k/" data-event="HowToRolloverA401k" data-location="Footer">How to Roll Over a 401(k)</a></dd>
-                        <dd><a href="https://www.betterment.com/resources/investment-strategy/etfs/five-ways-an-etf-portfolio-serves-you-better/" data-event="WhyAnETFPortfolioServesYouBetter" data-location="Footer">Why an ETF Portfolio Serves You Better</a></dd>
-                        <dd><a href="https://www.betterment.com/resources/retirement/401ks-and-iras/ira-calculator-select-right-account-savings-goals/" data-event="WhichIRACalculator" data-location="Footer">Which IRA Calculator</a></dd>
-                    </dl>
-                    <dl class="other-businesses">
-                        <dt><a href="https://www.bettermentforbusiness.com" data-event="BettermentForBusiness" data-location="Footer">Other Businesses</a></dt>
-                        <dd><a href="https://www.bettermentforbusiness.com" data-event="BettermentForBusiness" data-location="Footer" target="_blank">Betterment for Business</a></dd>
-                        <dd><a href="https://www.bettermentforadvisors.com" data-event="BettermentForAdvisors" data-location="Footer" target="_blank">Betterment for Advisors</a></dd>
-                    </dl>
-                    <dl class="pricing">
-                        <dt><a href="https://www.betterment.com/pricing/" data-event="Pricing" data-location="Footer">Pricing</a></dt>
-                        <dt class="faq"><a href="https://support.betterment.com" data-event="FAQs" data-location="Footer">FAQs</a></dt>                     </dl>
-                    <dl class="faq">
-                        <dt><a href="https://support.betterment.com" data-event="FAQs" data-location="Footer">FAQs</a></dt>
-                    </dl>
-                </nav>
-                <div class="logos">
-                    <div class="module social">
-
-    <figure>
-        <a href="http://twitter.com/betterment" target="_blank" class="channel-icon twitter" data-event="Social" data-location="Footer">
-            <svg viewBox="0 0 122 100" preserveAspectRatio="xMinYMin meet" role="img" aria-label="Follow us on Twitter">
-                <path d="M122,11.8l-14.3,13.3c0,1.6-0.2,3-0.2,4.1c-0.5,12.3-1.8,34.4-22.1,54.3C55.1,114.2,6.1,93.8,0,87.7c0,0,22.9,1,35.3-10.4 c0,0-17-2-21.8-17.4h12.2c0,0-21.6-5.3-21.6-24.8c0,0,6.6,2.5,13,3c0,0-19.1-13.8-9.2-32.6c0,0,18.8,24.3,51,25.5 C53.8,16.1,64.5,0,82.8,0c5.4,0,11.5,1.8,16,6.6c4.3-0.7,13.5-1.3,19.8-4.9l0.2,0.3l-11,11.8c0,0,8.7-1.5,14.2-2.3 C121.9,11.5,121.9,11.4,122,11.8z"></path>
-            </svg>
-        </a>
-    </figure>
-
-    <figure>
-        <a href="http://facebook.com/betterment" target="_blank" class="channel-icon facebook" data-event="Social" data-location="Footer">
-            <svg viewBox="0 0 50 100" preserveAspectRatio="xMinYMin meet" role="img" aria-label="Like us on Facebook">
-                <path d="M40.8,19c-7.1,0-7.9,4.2-7.9,8.6v6.7H50l-1.6,20.6H32.9V100H12V54.9H0V34.3h12V19.2C12,6.8,19.1,0,32.9,0H50v19H40.8z"></path>
-            </svg>
-        </a>
-    </figure>
-
-    <figure>
-        <a href="https://plus.google.com/+BettermentInvesting" target="_blank" class="channel-icon gplus" data-event="Social" data-location="Footer" rel="publisher">
-            <svg viewBox="0 0 100 100" preserveAspectRatio="xMinYMin meet" role="img" aria-label="Add us on Google Plus">
-                <path d="M100,35.1v27.7H64V100H36V62.8H0V35.1h36V0H64v35.1H100z"></path>
-            </svg>
-        </a>
-    </figure>
-
-    <figure>
-        <a href="http://www.linkedin.com/company/betterment" target="_blank" class="channel-icon linkedin" data-event="Social" data-location="Footer">
-            <svg viewBox="0 0 105.3 100" preserveAspectRatio="xMinYMin meet" role="img" aria-label="Connect with us on LinkedIn">
-                <path d="M105.3,61.3V100H82.7V63.9c0-9.1-3.3-15.3-11.4-15.3c-6.2,0-9.9,4.2-11.6,8.2c-0.6,1.4-0.7,3.4-0.7,5.5V100H36.4 c0,0,0.3-61.1,0-67.5H59v9.6c0,0.1-0.1,0.1-0.1,0.2H59v-0.2c3-4.6,8.4-11.1,20.3-11.1C94.1,30.9,105.3,40.6,105.3,61.3z M12.8,0 C5.1,0,0,5,0,11.7c0,6.5,4.9,11.7,12.5,11.7h0.2c7.9,0,12.8-5.2,12.8-11.7C25.2,5,20.5,0,12.8,0z M1.3,100h22.6V32.5H1.3V100z"></path>
-            </svg>
-      </a>
-    </figure>
-
-
+    </div>
+  </div>
 </div>
-                    <a href="#top" class="backtotop scrollto">Back to Top</a>
-                    <figure class="logo">
-                        <svg viewBox="0 0 72 50" preserveAspectRatio="xMidYMid meet" class="logo-icon">
-    <path d="M36 0C16.1 0 0 16.1 0 36c0 5.8 1.3 9.3 1.3 9.3 1.4 3.8 5.6 5.6 9.3 4l18.5-7.7c3.7-1.5 9.8-1.5 13.5 0l18.8 7.8c3.7 1.5 7.9-0.3 9.3-4 0 0 1.3-3.6 1.3-9.4C72 16.1 55.9 0 36 0zM53 11.3L38.1 33.9c0 0-0.1 0.1-0.1 0.1 0 0 0 0.1-0.1 0.1 -1.3 1.5-3.5 1.8-5.1 0.5 -1.6-1.3-1.8-3.6-0.6-5.1 0 0 0.1-0.1 0.1-0.1 0 0 0-0.1 0.1-0.1l19.1-19.2c0.3-0.3 0.9-0.4 1.3-0.1C53.1 10.3 53.2 10.9 53 11.3z"></path>
+
+      </main>
+      
+<div id="search-modal" class="sc-Modal">
+  <section class="sc-SectionLayout">
+    <div class="sc-SectionLayout-contentWrapper">
+      <div class="sc-Modal-container u-col-7@md u-col-5@lg">
+        <div class="sc-Modal-close">
+          <span class="sc-Icon sc-Icon--s">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" aria-label="Close" role="img">
+&lt;title&gt;Close&lt;/title&gt;
+  <polygon points="14.587 .001 8 6.588 1.413 .001 0 1.414 6.587 8.001 0 14.588 1.413 16 8 9.414 14.587 16 16 14.588 9.413 8.001 16 1.414"></polygon>
 </svg>
-                        <figcaption>© Betterment Holdings Inc.</figcaption>
-                    </figure>
-                </div>
-                <div class="disclosure">
-                    <div class="col3">
-                        <p><strong>This website is operated and maintained by Betterment LLC, an SEC Registered Investment Advisor.</strong><br><a href="https://www.betterment.com/legal">Terms &amp; Legal</a> <a href="https://www.betterment.com/security/privacypolicy">Privacy Policy</a> <a href="https://www.betterment.com/legal#trademarks">Trademarks</a></p>
-                        <p>How Betterment calculates "<a href="https://www.betterment.com/resources/investing-strategy/investor-returns/ ">better returns</a>"</p>
-                        <p>Unless otherwise specified, all return figures shown above are for illustrative purposes only, and are not actual customer or model returns. Actual returns will vary greatly and depend on personal and market circumstances.</p>
-                    </div>
-                    <div class="col6">
-                        <p>Brokerage services provided to clients of Betterment LLC by <a href="http://www.bettermentsecurities.com/" target="_blank">Betterment Securities</a>, an SEC registered broker-dealer and member <a href="http://www.finra.org/" target="_blank">FINRA</a>/<a href="http://www.sipc.org/" target="_blank">SIPC</a>.<br>
-                        Investments: Not FDIC Insured • No Bank Guarantee • May Lose Value. Investing in securities involves risks, and there is always the potential of losing money when you invest in securities. Before investing, consider your investment objectives and Betterment's charges and expenses. Past performance does not guarantee future results, and the likelihood of investment outcomes are hypothetical in nature. See full disclosures for more information. Not an offer, solicitation of an offer, or advice to buy or sell securities in jurisdictions where Betterment is not registered. <a href="http://www.xignite.com" title="Market Data by Xignite" target="_blank" rel="nofollow">Market Data</a> by Xignite.</p>
-                        <p>Contact: Betterment, 61 W. 23rd Street, 4th Floor, New York, NY, 10010. Tel: <a href="tel:+18884289482">(888)&nbsp;428‑9482</a></p>
-                    </div>
-                    <div class="col3">
-                        <p id="largest"><a href="https://www.betterment.com//resources-disclosure/">See how we determine</a> the largest independent robo-advisor.</p>
-                        <p>The information provided by Betterment Support is educational only and is not investment or tax advice.</p>
-                    </div>
-                </div>
-                <div class="associations">
-                    <a href="https://itunes.apple.com/us/app/betterment/id393156562?mt=8" class="download" target="_blank" data-event="iPhone" data-location="Footer"><img src="https://www.betterment.com/wp-content/themes/superstar/images/download_apple@2x.png" alt="Download on the App Store"></a>
-                    <a href="https://play.google.com/store/apps/details?id=com.betterment" class="download" target="_blank" data-event="Android" data-location="Footer"><img src="https://www.betterment.com/wp-content/themes/superstar/images/download_google@2x.png" alt="Download on the Google Play Store"></a>
-                    <br>
-                    <div class="digi">
-                        <!-- Begin DigiCert/ClickID site seal HTML and JavaScript -->
-                        <div id="DigiCertClickID_3t-MUVPI" class="digicert" data-language="en_US"></div>
-                        <script type="text/javascript">
-                        var __dcid = __dcid || [];__dcid.push(["DigiCertClickID_3t-MUVPI", "5", "s", "black", "3t-MUVPI"]);(function(){var cid=document.createElement("script");cid.async=true;cid.src="//seal.digicert.com/seals/cascade/seal.min.js";var s = document.getElementsByTagName("script");var ls = s[(s.length - 1)];ls.parentNode.insertBefore(cid, ls.nextSibling);}());
-                        </script><script async="" src="//seal.digicert.com/seals/cascade/seal.min.js"></script>
-                        <!-- End DigiCert/ClickID site seal HTML and JavaScript -->
-                    </div>
-                </div>
-            </div>
-        </footer>
-        <!-- End global footer -->
-    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5RSQL7" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+</span>
+
+        </div>
+        <div class="sc-Modal-content">
+          <h2>Search our site</h2>
+          <form novalidate="" id="search-modal-form" class="u-flex u-flexAlignItemsCenter" action="/">
+            <input id="search-modal-input" class="sc-m-b--0 sc-m-r--s" aria-labelledby="search-modal-submit" type="search" placeholder="Search for something" value="" name="s">
+            <input type="hidden" value="about-betterment" name="tab" data-search-results-active-tab-react-hack="">
+            <button id="search-modal-submit" type="submit">Search</button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+      
+<div id="extra-terms-placeholder"></div>
+
+<footer class="sc-SiteLayout-footer">
+  <section class="sc-SectionLayout u-backgroundColor-footer">
+    <div class="sc-SectionLayout-contentWrapper">
+      <div class="sc-Footer">
+        <div class="sc-ContentGrid">
+          <div class="sc-Footer-menu sc-ContentGrid-item sc-col-12 sc-col-md-2">
+  <a href="https://help.betterment.com" class="sc-Footer-menuHeader" data-track-event="ElementClicked" data-track-name="ContactIntent" data-track-module="Footer">Questions?</a>
+  <a href="https://www.betterment.com/frequently-asked-questions/" class="sc-Footer-menuItem" data-track-event="ElementClicked" data-track-name="FAQs" data-track-module="Footer" data-behavior-faq-click="">FAQs</a>
+  <a href="https://www.betterment.com/resources/" class="sc-Footer-menuItem" data-track-event="ElementClicked" data-track-name="ResourceCenter" data-track-module="Footer">Resource Center</a>
+  <a href="https://www.betterment.com/contact/" class="sc-Footer-menuItem" data-track-event="ElementClicked" data-track-name="ContactUs" data-track-module="Footer">Contact Us</a>
+</div>
+<div class="sc-Footer-menu sc-ContentGrid-item sc-col-12 sc-col-md-2">
+  <a href="https://www.betterment.com/careers/" class="sc-Footer-menuHeader">About Us</a>
+  <a href="https://www.betterment.com/careers/" class="sc-Footer-menuItem">Careers</a>
+  <a href="https://www.betterment.com/press/" class="sc-Footer-menuItem">Press</a>
+  <a href="https://www.betterment.com/referral/" class="sc-Footer-menuItem">Referral Program</a>
+</div>
+<div class="sc-Footer-menu sc-ContentGrid-item sc-col-12 sc-col-md-2">
+  <a href="https://www.betterment.com/why-betterment/" class="sc-Footer-menuHeader">Why Betterment</a>
+  <a href="https://www.betterment.com/why-betterment/" class="sc-Footer-menuItem">Overview</a>
+  <a href="https://www.betterment.com/portfolio/" class="sc-Footer-menuItem">Our Portfolio</a>
+  <a href="https://www.betterment.com/tax-efficient-investing/" class="sc-Footer-menuItem">Tax‑Efficient Investing</a>
+  <a href="https://www.betterment.com/security/" class="sc-Footer-menuItem">Security</a>
+  <a href="https://www.betterment.com/experts/" class="sc-Footer-menuItem">Team of Experts</a>
+  <a href="https://www.betterment.com/mission/" class="sc-Footer-menuItem">Our Mission</a>
+</div>
+<div class="sc-Footer-menu sc-ContentGrid-item sc-col-12 sc-col-md-2">
+  <a href="https://www.betterment.com/financial-planning/" class="sc-Footer-menuHeader">Services</a>
+  <a href="https://www.betterment.com/financial-planning/" class="sc-Footer-menuItem">Financial Planning</a>
+  <a href="https://www.betterment.com/retirement/" class="sc-Footer-menuItem">Retirement</a>
+  <a href="https://www.betterment.com/401k-and-ira-rollover/" class="sc-Footer-menuItem">Rollovers</a>
+  <a href="https://www.betterment.com/trust-accounts/" class="sc-Footer-menuItem">Trusts</a>
+  <a href="https://www.betterment.com/smart-saver/" class="sc-Footer-menuItem">Smart Saver</a>
+  <a href="https://www.betterment.com/tax-loss-harvesting/" class="sc-Footer-menuItem">Tax Loss Harvesting+</a>
+  <a href="https://www.betterment.com/tax-coordinated-portfolio/" class="sc-Footer-menuItem">Tax-Coordinated Portfolio</a>
+  <a href="https://www.betterment.com/financial-experts/" class="sc-Footer-menuItem">Financial Experts</a>
+</div>
+<div class="sc-Footer-menu sc-ContentGrid-item sc-col-12 sc-col-md-2">
+  <a href="https://www.betterment.com/resources/" class="sc-Footer-menuHeader">Resources</a>
+  <a href="https://www.betterment.com/resources/research/tax-loss-harvesting-white-paper/" class="sc-Footer-menuItem">TLH+ White Paper</a>
+  <a href="https://www.betterment.com/resources/how-to-do-a-direct-ira-transfer/" class="sc-Footer-menuItem">How to Roll Over an IRA</a>
+  <a href="https://www.betterment.com/resources/how-to-roll-over-a-401k/" class="sc-Footer-menuItem">How to Roll Over a 401(k)</a>
+  <a href="https://www.betterment.com/resources/five-ways-an-etf-portfolio-serves-you-better/" class="sc-Footer-menuItem">Why an ETF Portfolio Serves You Better</a>
+  <a href="https://www.betterment.com/resources/ira-calculator-select-right-account-savings-goals/" class="sc-Footer-menuItem">Which IRA Calculator</a>
+  <a href="https://www.betterment.com/legal/" class="sc-Footer-menuItem">Legal</a>
+</div>
+<div class="sc-Footer-menu sc-ContentGrid-item sc-col-12 sc-col-md-2">
+  <a href="https://www.betterment.com/pricing/" class="sc-Footer-menuHeader">Pricing</a>
+  <a href="https://business.betterment.com/" class="sc-Footer-menuHeader" target="_blank" rel="noopener noreferrer">For Business</a>
+  <a href="https://advisors.betterment.com/" class="sc-Footer-menuHeader" target="_blank" rel="noopener noreferrer">For Advisors</a>
+</div>
+        </div>
+                  <div class="sc-ContentGrid u-flexAlignItemsCenter">
+  <div class="sc-ContentGrid-item sc-Footer-socialIcon u-col-12 u-col-4@md u-textCenter u-md-textLeft">
+    <a href="http://twitter.com/betterment" target="_blank" rel="noopener noreferrer" class="sc-p-r--s u-unstyledLink">
+    <span class="sc-Icon sc-Icon--l sc-Icon--grey-50">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" aria-label="Betterment on Twitter" role="img">
+&lt;title&gt;Betterment on Twitter&lt;/title&gt;
+  <path d="M16 2.7c-.6.3-1.2.5-1.9.5.7-.4 1.2-1 1.5-1.8a6 6 0 0 1-2.1.8 3.3 3.3 0 0 0-5.6 3A9.3 9.3 0 0 1 1 1.8a3.3 3.3 0 0 0 1 4.4c-.5 0-1-.2-1.5-.4 0 1.6 1.2 3 2.7 3.2a3.3 3.3 0 0 1-1.5 0 3.3 3.3 0 0 0 3 2.4A6.6 6.6 0 0 1 0 12.7a9.3 9.3 0 0 0 14.4-8.3c.6-.4 1.2-1 1.6-1.7"></path>
+</svg>
+</span>
+
+    </a>
+    <a href="http://facebook.com/betterment" target="_blank" rel="noopener noreferrer" class="sc-p-r--s u-unstyledLink">
+    <span class="sc-Icon sc-Icon--l sc-Icon--grey-50">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" aria-label="Betterment on Facebook" role="img">
+&lt;title&gt;Betterment on Facebook&lt;/title&gt;
+  <path d="M9.5 3H12V0H9.5C7.5 0 6 1.6 6 3.5V5H4v3h2v8h3V8h2.5l.5-3H9V3.5c0-.3.2-.5.5-.5"></path>
+</svg>
+</span>
+
+    </a>
+    <a href="http://www.linkedin.com/company/betterment" target="_blank" rel="noopener noreferrer" class="sc-p-r--s u-unstyledLink">
+    <span class="sc-Icon sc-Icon--l sc-Icon--grey-50">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" aria-label="Betterment on LinkedIn" role="img">
+&lt;title&gt;Betterment on LinkedIn&lt;/title&gt;
+  <path d="M.2 15.2h3.4V4.9H.2v10.3zM1.9 0C.8 0 0 .8 0 1.8s.7 1.8 1.9 1.8 2-.8 2-1.8S3 0 1.9 0zM16 9.3v5.9h-3.4V9.7c0-1.4-.5-2.3-1.8-2.3-1 0-1.5.6-1.7 1.2l-.1.9v5.7H5.5V4.9H9v1.5c.4-.7 1.2-1.7 3-1.7 2.3 0 4 1.5 4 4.6z"></path>
+</svg>
+</span>
+
+    </a>
+  </div>
+  <div class="sc-ContentGrid-item u-flex sc-Footer-socialIcon u-col-12 u-col-4@md u-col-3@lg u-col-offset-1 u-col-offset-4@md u-col-offset-5@lg u-textCenter u-md-textRight">
+    <div class="sc-grid u-fullWidth u-justifyContentBetween">
+      <div class="u-col-6 sc-p-r--12">
+        <a href="http://app.appsflyer.com/id393156562?pid=retailBrochureFooter" data-js-hook-app-store-link="" class="ft-apple-store-link">
+          <img src="/wp-content/themes/foley/images/vendor/download_apple@2x.png" alt="Download the Betterment app on the App Store">
+        </a>
+      </div>
+      <div class="u-col-6 sc-p-l--12">
+        <a href="http://app.appsflyer.com/com.betterment?pid=retailBrochureFooter" data-js-hook-app-store-link="" class="ft-android-store-link">
+          <img src="/wp-content/themes/foley/images/vendor/download_google@2x.png" alt="Get the Betterment app on Google Play">
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="sc-Footer-divider"></div>
+<div class="sc-Footer-disclaimer sc-ContentGrid">
+  <div class="sc-ContentGrid-item sc-col-12 sc-col-md-3">
+    <p class="u-secondaryText">
+    This website is operated and maintained by Betterment LLC, an SEC Registered Investment Advisor.
+    <a class="u-secondaryTextLink" href="https://www.betterment.com/legal">Terms &amp; Legal</a> <a class="u-secondaryTextLink" href="https://www.betterment.com/security/privacypolicy/">Privacy Policy</a> <a class="u-secondaryTextLink" href="https://www.betterment.com/legal/copyright-intellectual-property/">Trademark</a>. How Betterment calculates <a class="u-secondaryTextLink" href="https://www.betterment.com/resources/investor-returns/">"better returns"</a>. Unless otherwise specified, all return figures shown above are for illustrative purposes only, and are not actual customer or model returns. Actual returns will vary greatly and depend on personal and market circumstances.
+    </p>
+  </div>
+  <div class="sc-ContentGrid-item sc-col-12 sc-col-md-6">
+    <p class="u-secondaryText">
+      Brokerage services provided to clients of Betterment LLC by <a class="u-secondaryTextLink" href="https://www.bettermentsecurities.com/">Betterment Securities</a>, an SEC registered broker-dealer and member <a class="u-secondaryTextLink" href="http://www.finra.org/">FINRA</a>/<a class="u-secondaryTextLink" href="http://www.sipc.org/">SIPC</a>.
+    </p>
+    <p class="u-secondaryText">
+      Investments: Not FDIC Insured • No Bank Guarantee • May Lose Value. Investing in securities involves risks, and there is always the potential of losing money when you invest in securities. Before investing, consider your investment objectives and Betterment's charges and expenses. Betterment's internet-based services are designed to assist clients in achieving discrete financial goals. They are not intended to provide comprehensive tax advice or financial planning with respect to every aspect of a client's financial situation and do not incorporate specific investments that clients hold elsewhere. For more details, see our <a class="u-secondaryTextLink" href="http://www.betterment.com/adv">Form ADV Part 2</a> and other disclosures. Past performance does not guarantee future results, and the likelihood of investment outcomes are hypothetical in nature. Not an offer, solicitation of an offer, or advice to buy or sell securities in jurisdictions where Betterment is not registered. <a class="u-secondaryTextLink" href="http://www.xignite.com/" rel="nofollow">Market Data</a> by Xignite.
+    </p>
+  </div>
+  <div class="sc-ContentGrid-item sc-col-12 sc-col-md-3">
+    <p class="u-secondaryText"><a class="u-secondaryTextLink" href="https://www.betterment.com/resources-disclosure/">See how we determine</a> the largest independent online financial advisor.</p>
+    <p class="u-secondaryText">The information provided by Betterment Support is educational only and is not investment or tax advice.</p>
+    <p class="u-secondaryText">© Betterment Holdings Inc.</p>
+  </div>
+</div>
+              </div>
+    </div>
+  </section>
+</footer>
+    </div>
+
+        <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5RSQL7" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
     new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
     j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
     })(window,document,'script','dataLayer','GTM-5RSQL7');</script>
-<!-- MathJax Latex Plugin installed: Disabled as no shortcodes on this page -->    <script type="text/javascript" src="https://www.youtube.com/player_api"></script>
+    <script type="text/javascript" src="https://www.youtube.com/player_api"></script>
     <script type="text/javascript">
         // youtube iframe setup
         var tag = document.createElement('script');
@@ -513,12 +506,61 @@ New York, NY 10010<br>
         var firstScriptTag = document.getElementsByTagName('script')[0];
         firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
     </script>
+<script data-cfasync="false" type="text/javascript">if (window.addthis_product === undefined) { window.addthis_product = "wpp"; } if (window.wp_product_version === undefined) { window.wp_product_version = "wpp-6.1.8"; } if (window.wp_blog_version === undefined) { window.wp_blog_version = "5.0.2"; } if (window.addthis_share === undefined) { window.addthis_share = {}; } if (window.addthis_config === undefined) { window.addthis_config = {"data_track_clickback":true,"ui_atversion":"300"}; } if (window.addthis_plugin_info === undefined) { window.addthis_plugin_info = {"info_status":"enabled","cms_name":"WordPress","plugin_name":"Share Buttons by AddThis","plugin_version":"6.1.8","plugin_mode":"AddThis","anonymous_profile_id":"wp-c281ed93d5472ba646fd6e0a12ac3217","page_info":{"template":"pages","post_type":""},"sharing_enabled_on_post_via_metabox":false}; } 
+                    (function() {
+                      var first_load_interval_id = setInterval(function () {
+                        if (typeof window.addthis !== 'undefined') {
+                          window.clearInterval(first_load_interval_id);
+                          if (typeof window.addthis_layers !== 'undefined' && Object.getOwnPropertyNames(window.addthis_layers).length > 0) {
+                            window.addthis.layers(window.addthis_layers);
+                          }
+                          if (Array.isArray(window.addthis_layers_tools)) {
+                            for (i = 0; i < window.addthis_layers_tools.length; i++) {
+                              window.addthis.layers(window.addthis_layers_tools[i]);
+                            }
+                          }
+                        }
+                     },1000)
+                    }());
+                </script><script type="text/javascript" src="https://www.betterment.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="https://www.betterment.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script type="text/javascript">
+var $ = jQuery;
+</script>
+<script type="text/javascript">
+        var BMT = window.BMT || {};
+        BMT.config = BMT.config || {};
+        BMT.config['splunkToken'] = 'CE946334-EC4B-587E-BE15-1254C7E1A9FE';
+        BMT.config['segmentKey'] = 'U4px15EFnbiaUtS3KNGnfD7cRLLWcUWw';
+        BMT.config['isProduction'] = true;
+        BMT.config['appUrl'] = 'https://wwws.betterment.com';
+        BMT.config['rolloverSignupUrl'] = 'https://wwws.betterment.com/app/rollover_signup';
+        BMT.config['goalSelectionUrl'] = 'https://wwws.betterment.com/app/goal_selection';
+        BMT.config['guidedSignupUrl'] = 'https://wwws.betterment.com/app/guidance';
+        BMT.config['signupUrl'] = 'https://wwws.betterment.com/app/signup';
+        BMT.config['basicSignupUrl'] = 'https://wwws.betterment.com/app/basic_signup';
+        BMT.config['getStartedUrl'] = 'https://wwws.betterment.com/app/get_started';
+        BMT.config['getInvestingReviewUrl'] = 'https://wwws.betterment.com/app/investing_review';
+        BMT.config['additionalReturns'] = '2.66%';
+        BMT.config['smartSaverReturns'] = '2.09%';
+        BMT.config['affiliateUrl'] = 'hello.betterment.com';
+        BMT.config['brochureUrl'] = 'https://www.betterment.com';
+        BMT.config['templateDir'] = 'https://www.betterment.com/wp-content/themes/superstar';
+        BMT.config['stylesheetDir'] = 'https://www.betterment.com/wp-content/themes/foley';
+window._bettermentPageUtmContentCode = '';
+</script>
+<script type="text/javascript" src="https://www.betterment.com/wp-content/plugins/betterment-functionality/release/better-func.dccb45d5874562e5.js"></script>
+<script type="text/javascript">
+window.BMT.start();
+</script>
+<script type="text/javascript" src="https://www.betterment.com/wp-content/themes/foley/app/build/static/js/main.bd48b313.js"></script>
 <script type="text/javascript" src="https://www.betterment.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="https://www.betterment.com/wp-content/themes/superstar/release/superstar.58ca1ae9197a2cb7.js"></script>
+<script type="text/javascript" src="https://www.betterment.com/wp-content/themes/superstar/release/superstar.345b8d9d8fc30242.js"></script>
 <script type="text/javascript">
 window.BMTApp.start();
 </script>
-<script type="text/javascript" src="https://www.betterment.com/wp-includes/js/wp-embed.min.js?ver=4.7.5"></script>
-    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"0dd6621354","applicationID":"5007401","transactionName":"Y1RSMEpRDEZWURdeXloecQdMWQ1bGEICUFQ=","queueTime":0,"applicationTime":233,"atts":"TxNRRgJLH0g=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<script type="text/javascript" src="https://www.betterment.com/wp-includes/js/wp-embed.min.js?ver=5.0.2"></script>
+
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"0dd6621354","applicationID":"5007401","transactionName":"Y1RSMEpRDEZWURdeXloecQdMWQ1bGEICUFQ=","queueTime":0,"applicationTime":945,"atts":"TxNRRgJLH0g=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
