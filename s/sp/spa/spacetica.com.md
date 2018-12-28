@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spacetica.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622051412id_/http%3A//spacetica.com/page/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spacetica.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228222621id_/http%3A//spacetica.com/page/Privacy-Policy) for the most accurate reproduction.*
 
-# Spacetica - Everything of Space!
+# Privacy Policy - Spacetica - Everything of Space!
 
 ### Privacy Policy
 
