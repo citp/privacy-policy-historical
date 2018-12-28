@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simpleindianrecipes.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628152630id_/https%3A//simpleindianrecipes.com/More/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpleindianrecipes.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228205353id_/https%3A//simpleindianrecipes.com/More/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Simple Indian Recipes
 
