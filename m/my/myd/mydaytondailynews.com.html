@@ -1,0 +1,2399 @@
+<!--The following is the downloaded HTML source of the mydaytondailynews.com privacy policy that was archived on 2018-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181228214306id_/https%3A//www.mydaytondailynews.com/privacy_policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><!-- flatpage frameset: empty advanced layout --><!-- Methode uuid: "29a50606-4b31-4670-bbf5-32e26110656e" --><head prefix="og: http://ogp.me/ns#">
+                <!-- begin newrelic_header_override block -->
+                
+
+
+
+<script src="https://js-agent.newrelic.com/nr-spa-1099.min.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UA8DVFJACQoCVFhUAgg="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(21),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,s){try{l?l-=1:o(s||new UncaughtException(t,e,n),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t,e){var n=e?null:c.now();i("err",[t,n])}var i=t("handle"),a=t(22),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,p="nr@seenError",l=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(13),t(12),"addEventListener"in window&&t(6),c.xhrWrappable&&t(14),d=!0)}s.on("fn-start",function(t,e,n){d&&(l+=1)}),s.on("fn-err",function(t,e,n){d&&!n[p]&&(f(n,p,function(){return!0}),this.thrown=!0,o(n))}),s.on("fn-end",function(){d&&!this.thrown&&l>0&&(l-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(){M++,N=y.hash,this[u]=g.now()}function o(){M--,y.hash!==N&&i(0,!0);var t=g.now();this[h]=~~this[h]+t-this[u],this[d]=t}function i(t,e){E.emit("newURL",[""+y,e])}function a(t,e){t.on(e,function(){this[e]=g.now()})}var s="-start",c="-end",f="-body",u="fn"+s,d="fn"+c,p="cb"+s,l="cb"+c,h="jsTime",m="fetch",v="addEventListener",w=window,y=w.location,g=t("loader");if(w[v]&&g.xhrWrappable){var b=t(10),x=t(11),E=t(8),O=t(6),P=t(13),R=t(7),T=t(14),L=t(9),j=t("ee"),S=j.get("tracer");t(15),g.features.spa=!0;var N,M=0;j.on(u,r),j.on(p,r),j.on(d,o),j.on(l,o),j.buffer([u,d,"xhr-done","xhr-resolved"]),O.buffer([u]),P.buffer(["setTimeout"+c,"clearTimeout"+s,u]),T.buffer([u,"new-xhr","send-xhr"+s]),R.buffer([m+s,m+"-done",m+f+s,m+f+c]),E.buffer(["newURL"]),b.buffer([u]),x.buffer(["propagate",p,l,"executor-err","resolve"+s]),S.buffer([u,"no-"+u]),L.buffer(["new-jsonp","cb-start","jsonp-error","jsonp-end"]),a(T,"send-xhr"+s),a(j,"xhr-resolved"),a(j,"xhr-done"),a(R,m+s),a(R,m+"-done"),a(L,"new-jsonp"),a(L,"jsonp-end"),a(L,"cb-start"),E.on("pushState-end",i),E.on("replaceState-end",i),w[v]("hashchange",i,!0),w[v]("load",i,!0),w[v]("popstate",function(){i(0,M>1)},!0)}},{}],5:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(13),s=t(12),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",p="resource",l="-start",h="-end",m="fn"+l,v="fn"+h,w="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(8);var b=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof b&&(this.bstStart=g.now())}),o.on(v,function(t,e){var n=t[0];n instanceof b&&i("bst",[n,e,this.bstStart,g.now()])}),a.on(m,function(t,e,n){this.bstStart=g.now(),this.bstType=n}),a.on(v,function(t,e){i(w,[e,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(v,function(t,e){i(w,[e,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+l,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],6:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(24)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=c(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?s(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],7:[function(t,e,n){function r(t,e,n){var r=t[e];"function"==typeof r&&(t[e]=function(){var t=r.apply(this,arguments);return o.emit(n+"start",arguments,t),t.then(function(e){return o.emit(n+"end",[null,e],t),e},function(e){throw o.emit(n+"end",[e],t),e})})}var o=t("ee").get("fetch"),i=t(21);e.exports=o;var a=window,s="fetch-",c=s+"body-",f=["arrayBuffer","blob","json","text","formData"],u=a.Request,d=a.Response,p=a.fetch,l="prototype";u&&d&&p&&(i(f,function(t,e){r(u[l],e,c),r(d[l],e,c)}),r(a,"fetch",s),o.on(s+"end",function(t,e){var n=this;if(e){var r=e.headers.get("content-length");null!==r&&(n.rxSize=r),o.emit(s+"done",[null,e],n)}else o.emit(s+"done",[t],n)}))},{}],8:[function(t,e,n){var r=t("ee").get("history"),o=t(24)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],9:[function(t,e,n){function r(t){function e(){c.emit("jsonp-end",[],p),t.removeEventListener("load",e,!1),t.removeEventListener("error",n,!1)}function n(){c.emit("jsonp-error",[],p),c.emit("jsonp-end",[],p),t.removeEventListener("load",e,!1),t.removeEventListener("error",n,!1)}var r=t&&"string"==typeof t.nodeName&&"script"===t.nodeName.toLowerCase();if(r){var o="function"==typeof t.addEventListener;if(o){var a=i(t.src);if(a){var u=s(a),d="function"==typeof u.parent[u.key];if(d){var p={};f.inPlace(u.parent,[u.key],"cb-",p),t.addEventListener("load",e,!1),t.addEventListener("error",n,!1),c.emit("new-jsonp",[t.src],p)}}}}}function o(){return"addEventListener"in window}function i(t){var e=t.match(u);return e?e[1]:null}function a(t,e){var n=t.match(p),r=n[1],o=n[3];return o?a(o,e[r]):e[r]}function s(t){var e=t.match(d);return e&&e.length>=3?{key:e[2],parent:a(e[1],window)}:{key:t,parent:window}}var c=t("ee").get("jsonp"),f=t(24)(c);if(e.exports=c,o()){var u=/[?&](?:callback|cb)=([^&#]+)/,d=/(.*)\.([^.]+)/,p=/^(\w+)(\.|$)(.*)$/,l=["appendChild","insertBefore","replaceChild"];f.inPlace(HTMLElement.prototype,l,"dom-"),f.inPlace(HTMLHeadElement.prototype,l,"dom-"),f.inPlace(HTMLBodyElement.prototype,l,"dom-"),c.on("dom-start",function(t){r(t[0])})}},{}],10:[function(t,e,n){var r=t("ee").get("mutation"),o=t(24)(r),i=NREUM.o.MO;e.exports=r,i&&(window.MutationObserver=function(t){return this instanceof i?new i(o(t,"fn-")):i.apply(this,arguments)},MutationObserver.prototype=i.prototype)},{}],11:[function(t,e,n){function r(t){var e=a.context(),n=s(t,"executor-",e),r=new f(n);return a.context(r).getCtx=function(){return e},a.emit("new-promise",[r,e],e),r}function o(t,e){return e}var i=t(24),a=t("ee").get("promise"),s=i(a),c=t(21),f=NREUM.o.PR;e.exports=a,f&&(window.Promise=r,["all","race"].forEach(function(t){var e=f[t];f[t]=function(n){function r(t){return function(){a.emit("propagate",[null,!o],i),o=o||!t}}var o=!1;c(n,function(e,n){Promise.resolve(n).then(r("all"===t),r(!1))});var i=e.apply(f,arguments),s=f.resolve(i);return s}}),["resolve","reject"].forEach(function(t){var e=f[t];f[t]=function(t){var n=e.apply(f,arguments);return t!==n&&a.emit("propagate",[t,!0],n),n}}),f.prototype["catch"]=function(t){return this.then(null,t)},f.prototype=Object.create(f.prototype,{constructor:{value:r}}),c(Object.getOwnPropertyNames(f),function(t,e){try{r[e]=f[e]}catch(n){}}),a.on("executor-start",function(t){t[0]=s(t[0],"resolve-",this),t[1]=s(t[1],"resolve-",this)}),a.on("executor-err",function(t,e,n){t[1](n)}),s.inPlace(f.prototype,["then"],"then-",o),a.on("then-start",function(t,e){this.promise=e,t[0]=s(t[0],"cb-",this),t[1]=s(t[1],"cb-",this)}),a.on("then-end",function(t,e,n){this.nextPromise=n;var r=this.promise;a.emit("propagate",[r,!0],n)}),a.on("cb-end",function(t,e,n){a.emit("propagate",[n,!0],this.nextPromise)}),a.on("propagate",function(t,e,n){this.getCtx&&!e||(this.getCtx=function(){if(t instanceof Promise)var e=a.context(t);return e&&e.getCtx?e.getCtx():this})}),r.toString=function(){return""+f})},{}],12:[function(t,e,n){var r=t("ee").get("raf"),o=t(24)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],13:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(24)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],14:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):v?v(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(6);var f=t("ee"),u=f.get("xhr"),d=t(24)(u),p=NREUM.o,l=p.XHR,h=p.MO,m=p.PR,v=p.SI,w="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];e.exports=u;var b=window.XMLHttpRequest=function(t){var e=new l(t);try{u.emit("new-xhr",[e],e),e.addEventListener(w,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(l,b),b.prototype=l.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!v&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===w||a()})},{}],15:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=a.now()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(e.cat=c.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=c(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(16),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,p=t("id"),l=t(19),h=t(18),m=window.XMLHttpRequest;a.features.xhr=!0,t(14),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,l&&(l>34||l<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var s=0;s<d;s++)e.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)})}},{}],16:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],17:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(s(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(21),s=t(22),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],p="api-",l=p+"ixn-";a(d,function(t,e){u[e]=o(p+e,!0,"api")}),u.addPageAction=o(p+"addPageAction",!0),u.setCurrentRouteName=o(p+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[f.now(),t,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],n),t}finally{c.emit("fn-end",[f.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],18:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],19:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],20:[function(t,e,n){function r(t,e){if(!o)return!1;if(t!==o)return!1;if(!e)return!0;if(!i)return!1;for(var n=i.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(o="Safari",i=c[1])}e.exports={agent:o,version:i,match:r}},{}],21:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],22:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],23:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],24:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(22),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(f){p([f,"",[r,a,o],s])}u(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],s),d}finally{u(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<e.length;c++)s=e[c],a=t[s],r(a)||(t[s]=n(a,f?s+o:o,i,s))}function u(n,r,o){if(!c||e){var i=c;c=!0;try{t.emit(n,r,o,e)}catch(a){p([a,n,r,o])}c=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){p([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function p(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function n(n,r,o,i){if(!p.aborted||i){t&&t(n,r,o);for(var a=e(o),s=m(n),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[g[n]];return d&&d.push([b,n,r,a]),a}}function l(t,e){y[t]=m(t).concat(e)}function h(t,e){var n=y[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return y[t]||[]}function v(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",g[n]=e,e in u||(u[e]=[])})}var y={},g={},b={on:l,addEventListener:l,removeEventListener:h,emit:n,get:v,listeners:m,context:e,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(u.api||u.feature)&&(p.aborted=!0,u=p.backlog={})}var s="nr@context",c=t("gos"),f=t(21),u={},d={},p=e.exports=o();p.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!E++){var t=x.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(g,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()+x.offset],null,"api");var n=l.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-x.offset}var s=(new Date).getTime(),c=t("handle"),f=t(21),u=t("ee"),d=t(20),p=window,l=p.document,h="addEventListener",m="attachEvent",v=p.XMLHttpRequest,w=v&&v.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:v,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var y=""+location,g={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-spa-1099.min.js"},b=v&&w&&w[h]&&!/CriOS/.test(navigator.userAgent),x=e.exports={offset:s,now:a,origin:y,features:{},xhrWrappable:b,userAgent:d};t(17),l[h]?(l[h]("DOMContentLoaded",i,!1),p[h]("load",r,!1)):(l[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",s],null,"api");var E=0,O=t(23)},{}]},{},["loader",2,15,5,3,4]);</script>
+<!-- end newrelic_header_override block -->
+        
+                <!-- nicheParams: ContextMap[envPropertyNiche:false, isNiche:false, legacyNiche:false, nicheClass:, nicheProductID:null, nicheReferrerSuffix:null, referredNiche:null, section:SiteRoot [[+       471#] /PortalSites/mydaytondailynews.com [FolderProxyImpl:PortalRoot, 2.0.273363499]], sectionShortTitle:] -->
+<!-- begin site_meta_override block -->
+<!-- begin page_title_override block -->
+<title>Privacy Policy</title>
+<!-- end page_title_override block -->
+
+<!-- begin meta_description_override block -->
+<meta name="description" content="Privacy Policy">
+<!-- end meta_description_override block -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+	
+	
+	
+	
+
+
+
+
+<meta http-equiv="Content-Security-Policy" content="default-src 'self' http://*.pagefair.com http://*.cloudfront.net http://*.tiles.mapbox.com http://*.intellicast.com http://*.wsi.com http://*.coxnewsweb.com http://*.mathtag.com http://*.inform.com http://*.s3.amazonaws.com http://*.zap2it.com http://*.daytondailynews.com http://*.dayton.com http://*.mydaytondailynews.com http://*.journal-news.com http://*.springfieldnewssun.com http://*.contextweb.com http://*.adkernel.com http://*.pubmatic.com http://ad.afy11.net http://*.coxmediagroup.com http://*.coxohio.com http://*.coxmediagroupohio.com http://code.ionicframework.com http://*.pointslocal.com http://*.cmgdigital.com http://*.googleapis.com http://*.wibbitz.com http://*.cdn.turner.com https:; img-src 'self' http://*.pagefair.com http://*.cloudfront.net http://*.tiles.mapbox.com http://*.intellicast.com http://*.wsi.com http://*.coxnewsweb.com http://*.mathtag.com http://*.inform.com http://*.s3.amazonaws.com http://*.zap2it.com http://*.daytondailynews.com http://*.dayton.com http://*.mydaytondailynews.com http://*.journal-news.com http://*.springfieldnewssun.com http://*.contextweb.com http://*.adkernel.com http://*.pubmatic.com http://ad.afy11.net http://*.coxmediagroup.com http://*.coxohio.com http://*.coxmediagroupohio.com http://code.ionicframework.com http://*.pointslocal.com http://*.cmgdigital.com http://*.googleapis.com http://*.wibbitz.com http://*.cdn.turner.com https: blob: data: https:; script-src 'self' 'self' http://*.pagefair.com http://*.cloudfront.net http://*.tiles.mapbox.com http://*.intellicast.com http://*.wsi.com http://*.coxnewsweb.com http://*.mathtag.com http://*.inform.com http://*.s3.amazonaws.com http://*.zap2it.com http://*.daytondailynews.com http://*.dayton.com http://*.mydaytondailynews.com http://*.journal-news.com http://*.springfieldnewssun.com http://*.contextweb.com http://*.adkernel.com http://*.pubmatic.com http://ad.afy11.net http://*.coxmediagroup.com http://*.coxohio.com http://*.coxmediagroupohio.com http://code.ionicframework.com http://*.pointslocal.com http://*.cmgdigital.com http://*.googleapis.com http://*.wibbitz.com http://*.cdn.turner.com https: 'unsafe-inline' 'unsafe-eval' blob:; style-src 'self' http://*.pagefair.com http://*.cloudfront.net http://*.tiles.mapbox.com http://*.intellicast.com http://*.wsi.com http://*.coxnewsweb.com http://*.mathtag.com http://*.inform.com http://*.s3.amazonaws.com http://*.zap2it.com http://*.daytondailynews.com http://*.dayton.com http://*.mydaytondailynews.com http://*.journal-news.com http://*.springfieldnewssun.com http://*.contextweb.com http://*.adkernel.com http://*.pubmatic.com http://ad.afy11.net http://*.coxmediagroup.com http://*.coxohio.com http://*.coxmediagroupohio.com http://code.ionicframework.com http://*.pointslocal.com http://*.cmgdigital.com http://*.googleapis.com http://*.wibbitz.com http://*.cdn.turner.com https: 'unsafe-inline'; media-src 'self' http://*.pagefair.com http://*.cloudfront.net http://*.tiles.mapbox.com http://*.intellicast.com http://*.wsi.com http://*.coxnewsweb.com http://*.mathtag.com http://*.inform.com http://*.s3.amazonaws.com http://*.zap2it.com http://*.daytondailynews.com http://*.dayton.com http://*.mydaytondailynews.com http://*.journal-news.com http://*.springfieldnewssun.com http://*.contextweb.com http://*.adkernel.com http://*.pubmatic.com http://ad.afy11.net http://*.coxmediagroup.com http://*.coxohio.com http://*.coxmediagroupohio.com http://code.ionicframework.com http://*.pointslocal.com http://*.cmgdigital.com http://*.googleapis.com http://*.wibbitz.com http://*.cdn.turner.com https: blob: data:; font-src 'self' http://*.pagefair.com http://*.cloudfront.net http://*.tiles.mapbox.com http://*.intellicast.com http://*.wsi.com http://*.coxnewsweb.com http://*.mathtag.com http://*.inform.com http://*.s3.amazonaws.com http://*.zap2it.com http://*.daytondailynews.com http://*.dayton.com http://*.mydaytondailynews.com http://*.journal-news.com http://*.springfieldnewssun.com http://*.contextweb.com http://*.adkernel.com http://*.pubmatic.com http://ad.afy11.net http://*.coxmediagroup.com http://*.coxohio.com http://*.coxmediagroupohio.com http://code.ionicframework.com http://*.pointslocal.com http://*.cmgdigital.com http://*.googleapis.com http://*.wibbitz.com http://*.cdn.turner.com https: data:; upgrade-insecure-requests;"><meta charset="UTF-8">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+
+<!-- begin canonical_url_override block -->
+<link rel="canonical" href="https://www.mydaytondailynews.com/privacy_policy/">
+<!-- end canonical_url_override block -->
+
+<!-- begin viewport_override block -->
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<!-- end viewport_override block -->
+<!-- begin favicon_override block -->
+<link rel="apple-touch-icon" href="/r/PortalConfig/np-paid/assets/mydaytondailynews/images/favicon-apple-touch-icon.png">
+<link rel="shortcut icon" href="/r/PortalConfig/np-paid/assets/mydaytondailynews/images/favicon.ico">
+<!-- end favicon_override block -->
+
+<!-- fallback image for persrec vendors -->
+        <!-- begin og_meta_override block -->
+<meta property="og:image" content="https://www.mydaytondailynews.com/rf/image/PortalConfig/np-paid/assets/mydaytondailynews/images/myDDN200x200.png">
+<meta property="og:image:height" content="200">
+<meta property="og:image:width" content="200">
+<meta property="og:title" content="Privacy Policy ">
+<meta property="og:type" content="article">
+	<meta property="og:url" content="https://www.mydaytondailynews.com/privacy_policy/">
+<meta property="og:description" content="Privacy Policy">
+<meta property="og:site_name" content="mydaytondailynews">
+<!-- end og_meta_override block -->
+
+<!-- begin twitter_meta_override block -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:description" content="Privacy Policy">
+<meta name="twitter:image" content="https://www.mydaytondailynews.com/rf/image/PortalConfig/np-paid/assets/mydaytondailynews/images/myDDN200x200.png">
+<meta name="twitter:site" content="@mydaytondailynews">
+<meta name="twitter:title" content="Privacy Policy ">
+<meta name="twitter:url" content="https://www.mydaytondailynews.com/privacy_policy/">
+<!-- end twitter_meta_override block -->
+<!-- begin fb_appid_override block -->
+<meta property="fb:app_id" content="687175061382748">
+<meta property="fb:pages" content="146784110752">
+<meta property="fb:pages" content="73117171555">
+<meta property="fb:pages" content="327258147447888">
+<meta property="fb:pages" content="927540540695784">
+<meta property="fb:pages" content="400864686774960">
+<meta property="fb:pages" content="168815400507">
+<meta property="fb:pages" content="212371565450554">
+<meta property="fb:pages" content="228663903834973">
+<meta property="fb:pages" content="163728107037102">
+<meta property="fb:pages" content="210895530407">
+<meta property="fb:pages" content="146763445752">
+<meta property="fb:pages" content="757828170969604">
+<meta property="fb:pages" content="526163074188703">
+<meta property="fb:pages" content="73484672682">
+<meta property="fb:pages" content="137230649628606">
+<meta property="fb:pages" content="107837429247830">
+<meta property="fb:pages" content="128111708807">
+<meta property="fb:pages" content="290130337851458">
+<!-- end fb_appid_override block -->
+
+<!-- persrec meta configuration -->
+<meta property="og:pers_rec_image" content="https://www.mydaytondailynews.com/rf/image/PortalConfig/np-paid/assets/mydaytondailynews/images/myDDN200x200.png">
+	<meta property="og:pers_rec_first_pub_date" content="2011-02-26T15:42:00-0500">
+
+<meta property="og:pers_rec_web_type" content="flatpage">
+	<!-- grab expiration date (if it exists) (implemented for persrec vendors) -->
+<!-- end persrec meta -->
+
+<meta name="language" content="English">
+
+<!-- end site_meta_override block -->
+<!-- begin ad_init_override block -->
+                <script src="//www.googletagservices.com/tag/js/gpt.js"></script>
+<script src="//www.mydaytondailynews.com/r/PortalConfig/common/assets/js/harmony-7.6.0.min.js"></script>
+
+<script style="display:none">
+        window.cmg = window.cmg || {};
+        cmg.adconf = {
+            slotconf: [],
+            targeting: {}
+        };
+    </script>
+<script style="display:none">
+    cmg.adconf.adunit = '12523293/Dayton_NP/myddn_web_default';
+</script>
+<script style="display:none">
+    (function () {
+        cmg.adconf.targeting.sky = 'Scattered Clouds' || 'ERROR';
+        cmg.adconf.targeting.weather = '';
+
+        
+                var floor = Math.floor(53 / 5) * 5;
+                cmg.adconf.targeting.temp_range = floor + ' to ' + (floor + 4);
+            
+    }());
+</script>
+<script style="display:none">
+    cmg.adconf.targeting.obj_type = location.pathname.indexOf('queryResult') > 0 ? 'List' : 'FlatPage';
+    cmg.adconf.targeting.obj_id = '2.0.80916772';
+    cmg.adconf.targeting.uuid = '29a50606-4b31-4670-bbf5-32e26110656e';
+
+    
+        cmg.adconf.targeting.wrap_token = location.pathname.split('/');
+        cmg.adconf.targeting.wrap_url = location.hostname;
+    </script>
+<script style="display:none">
+    (function () {
+        
+        function getQueryParam(name) {
+            var q = location.search.match(new RegExp('[?&]' + name + '=([^&#]*)'));
+            return q && q[1];
+        }
+
+        cmg.adconf.targeting.environ = location.search.indexOf('testads') > 0 ? 'debug' : location.host.split('.')[0];
+        cmg.adconf.targeting.mediatype = 'np-paid';
+        cmg.adconf.targeting.qa = getQueryParam('qa') || '';
+    }());
+</script>
+<script style="display:none">
+        cmg.adconf.breakpoints = [
+            1,
+            768,
+            972,
+            
+        ];
+
+        
+        cmg.adconf.targeting.topics = [
+            
+        ];
+
+        
+        cmg.adconf.targeting.categories = [
+            
+                    'Online',
+                
+        ];
+
+        
+        googletag.cmd.push(function () {
+            var pubads = googletag.pubads();
+            
+            pubads.collapseEmptyDivs(true);
+            pubads.enableSingleRequest();
+            pubads.setCentering(true);
+        });
+    </script>
+<!-- end ad_init_override block -->
+
+                <!-- begin head_debug_override block -->
+                <meta name="eomportal-instanceid" content="230193">
+<meta name="eomportal-id" content="220852">
+<meta name="eomportal-loid" content="2.0.80916772">
+<meta name="eomportal-uuid" content="29a50606-4b31-4670-bbf5-32e26110656e">
+<meta name="eomportal-lastUpdate" content="Fri Dec 28 16:43:06 EST 2018">
+<!-- end head_debug_override block -->
+                <!-- begin head_misc_override block -->
+                <!-- end head_misc_override block -->
+                <!-- begin head_style_override block -->
+                <!-- end head_style_override block -->
+                <!-- begin head_css_override block -->
+                <link rel="stylesheet" type="text/css" href="/r/PortalConfig/np-one/assets/css/niche.min.css">
+<link rel="stylesheet" type="text/css" href="/r/PortalConfig/np-one/assets/css/niche-section.min.css">
+<link rel="stylesheet" type="text/css" href="/r/PortalConfig/np-one/assets/css/core.min.css">
+<link rel="stylesheet" type="text/css" href="/r/PortalConfig/np-paid/assets/mydaytondailynews/css/site.min.css">
+<!-- end head_css_override block -->
+
+                <!-- begin connext_meta_override block -->
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+<!-- Meter objectType: FlatPage/NA -->
+
+
+    <!-- ConneXt switched on -->
+
+    
+
+    
+        
+            
+        
+        
+    
+
+
+    
+        <!-- begin cmg_product_metatag_override block -->
+    
+    <meta name="cmg:product" content="www.mydaytondailynews.com">
+    
+        <!-- end cmg_product_metatag_override block -->
+    
+
+    
+    
+        <!-- begin cmg_connext_config_metatag_override block -->
+    
+    <meta name="cmg:connext:config" content="myddn_default">
+    
+        <!-- end cmg_connext_config_metatag_override block -->
+    
+
+
+    
+
+	    
+	    
+        
+	
+	    
+	    
+	        
+	        
+	        
+	    
+	        
+	        
+	        
+	    
+	
+	    
+	    
+	    
+
+
+	    
+	        <!-- begin cmg_site_section_metatag_override block -->
+	    
+	    
+	    <meta name="cmg:siteSection" content="Online">
+	    
+	        <!-- end cmg_site_section_metatag_override block -->
+	    
+
+
+        
+            <!-- begin cmg_main_section_metatag_override block -->
+        
+        
+        
+            
+            
+                
+                
+                <meta name="cmg:mainSection" content="/">
+                    
+             
+        
+            <!-- end cmg_main_section_metatag_override block -->
+        
+	
+	
+	    
+	        <!-- begin cmg_primary_category_metatag_override block -->
+	    
+	    <meta name="cmg:primaryCategory" content="/Online">
+	    
+	        <!-- end cmg_primary_category_metatag_override block -->
+	    
+	
+	    
+	    
+	        <!-- begin cmg_categories_metatag_override block -->
+	    
+	    <meta name="cmg:categories" content="/Online, /Online/Site Information">
+	    
+	        <!-- end cmg_categories_metatag_override block -->
+	    
+	
+	
+	    
+	        <!-- begin cmg_topics_metatag_override block -->
+	    
+	    <meta name="cmg:topics" content="">
+	    
+	        <!-- end cmg_topics_metatag_override block -->
+	    
+
+    
+
+
+
+	
+	    <!-- Meter switched to ConneXt -->
+	
+	    
+	    
+	        
+	            
+	            <!-- Premium status = Unmetered -->
+	        
+	        
+	        
+	    
+	        
+	        
+	        
+	    
+	        <!-- begin cmg_meter_metatag_override block -->
+	    
+	    <meta name="cmg:meter" content="false">
+	    
+	        <!-- end cmg_meter_metatag_override block -->
+	    
+	    
+	    
+	    
+	        <!-- begin cmg_max_meter_temporary_metatag_override block -->
+	    
+	    
+	    <meta name="cmg:maxMeterTemporary" content="5">
+	    
+	        <!-- end cmg_max_meter_temporary_metatag_override block -->
+	               
+	
+	
+
+
+
+<!-- end connext_meta_override block -->
+                
+                <!-- begin metrics_complete_override block -->
+                <!-- begin metrics_common_override block -->
+                
+
+
+
+
+
+<script>localStorage.setItem("sdsat_debug", true);</script>
+
+
+
+
+
+
+
+
+
+
+
+<script>
+if(typeof(pubsub)=="undefined"){
+	pubsub={
+			subscribe:function(){
+				if(typeof(DDO.deferredSubscribe) == "undefined"){
+					DDO.deferredSubscribe = [];
+				}
+				DDO.deferredSubscribe.push(arguments);
+			},
+			publish:function(){
+				if(typeof(DDO.deferredPublish) == "undefined"){
+					DDO.deferredPublish = [];
+				}
+				DDO.deferredPublish.push(arguments);
+			}
+	};
+	
+}
+window.pubsub = pubsub;
+</script>
+
+<script src="//assets.adobedtm.com/20d5deb47c9e7fe47a9f969db01578a739d7179d/satelliteLib-3bdb96ce8c62153cdc81a8a72fc964fe2ffa1652.js"></script>
+
+
+
+
+<!-- begin metrics_complete_override block -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- METRIC TAG -->
+
+
+
+
+
+<!-- Primary Category -->
+
+
+
+
+<!-- Setting originating site Start-->
+
+
+
+
+
+
+	
+		
+	
+	
+
+
+
+
+ 
+
+
+
+
+	
+
+<!-- Setting originating site End-->
+
+<!-- Setting Site Domain and Site ID Start-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Setting Site Domain and Site ID End-->
+
+<!-- Setting Provide Name -->
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+		
+		
+			
+	
+	
+
+
+
+
+
+
+
+
+
+		
+			
+			
+			
+			
+			
+		
+			
+			
+			
+			
+			
+			
+	
+
+
+<!--Standalone -->
+
+
+
+
+<!-- Setting video proxy and video proxy play list vendor names -->
+
+ 
+<script>
+var DDO = DDO || {};
+
+<!-- begin metrics_dtm_library_override block -->
+	DDO.DTMLibraryURL = '//assets.adobedtm.com/20d5deb47c9e7fe47a9f969db01578a739d7179d/satelliteLib-3bdb96ce8c62153cdc81a8a72fc964fe2ffa1652.js';
+<!-- end metrics_dtm_library_override block -->
+
+
+DDO.hasLocalStorage = function(){
+	isDefined = typeof(localStorage) != "undefined";
+	if(isDefined){
+		localStorage.setItem("test", "test");
+		canRetrieve = localStorage.getItem("test") == "test";
+	}
+	localStorage.removeItem("test");
+	return isDefined && canRetrieve;
+		 
+}
+
+DDO.connextActive = function(){
+	var connextMetaTag = document.querySelector('meta[name="cmg:connext:config"]');
+	if(connextMetaTag){ 
+		return true;
+	}else{
+		return false;
+	}
+}
+
+</script>
+
+<script src="//www.mydaytondailynews.com/r//PortalConfig/np-one/metrics/js/dtm-ddo-utilities.js"></script>
+
+
+
+
+<script>
+
+	// 	SITE DATA
+	
+	DDO.siteData = {
+		siteID: 'mydaytondaily',
+	    siteDomain: 'mydaytondailynews.com',
+	    siteVersion: 'responsive site',
+	    siteFormat: 'newspaper',
+	    siteMetro: 'oh: dayton',
+	    siteMedium: 'newspaper',
+	    siteType: 'main: premium',
+	    siteCMS: 'methode'
+	};
+    // PAGE DATA
+	var isDwp = false;
+	console.log("isDwp: ", isDwp);
+	var isHome = isDwp && false;
+	console.log("page Title:" + 'Privacy Policy');
+	var trimPageNameUrl = removeExtracharFromUrl('/privacy_policy/');
+	console.log("Primary Category: " + '/Online');
+		    
+	DDO.pageData = {
+		pageFlow : "",
+		pageNumber : '1',
+		pageType : 'standalone page',
+		pageIsDwp: isDwp // Necessary for bookmarklet purposes.
+	};
+	if(isDwp) {
+	    DDO.pageData.pageContentType = (isHome) ? 'homepage' : 'section front';
+		DDO.pageData.pageMainSection = (isHome) ? '/'+'homepage' : '/privacy_policy/';
+		DDO.pageData.pageName = (isHome) ? '/' + 'homepage' + '/' : '/privacy_policy/';
+	} else {
+	    DDO.pageData.pageContentType = 'flat page';
+		DDO.pageData.pageMainSection ='/';
+		DDO.pageData.pageName = trimPageNameUrl;
+	}
+	
+	DDO.pageData.pageTitle = 'Privacy Policy';
+	DDO.pageData.pageSiteSection = (isHome) ? 'home' : 'Online';
+	 
+	if (DDO.pageData.pageContentType == '') {
+		var pageName = DDO.pageData.pageName;
+		var pageNameSplit = pageName.split('/');
+		DDO.pageData.pageContentType = pageNameSplit[1];
+	}
+	
+	DDO.pageData.pageCategory = '';
+	if (DDO.pageData.pageCategory == 'Error') {
+		DDO.pageData.pageContentType = "Page not found";
+	}
+	DDO.pageData.pageSubCategory = '';
+	
+	if(DDO.pageData.pageContentType =='404'){		
+		DDO.pageData.pageType="errorpage";		
+		DDO.pageData.pageTitle="page not found";		
+		DDO.pageData.pageContentType = "404 page";		
+		URLArray = window.location.href.split('/');		
+		DDO.pageData.pageName = '/404_page/'+URLArray[URLArray.length-1];		
+	}
+	
+	if(DDO.pageData.pageContentType == 'weather'){
+		DDO.pageData.pageCategory = 'weather';
+		DDO.pageData.pageTitle = 'weather';
+	}
+	
+	if(DDO.pageData.pageContentType == 'search'){
+		var aMetricsSiteSearchType, aMetricsSearchTerms, aMetricsNumResults;
+		DDO.pageData.pageName = "/search-results/";
+		DDO.pageData.pageTitle = "search results";
+		DDO.pageData.pageMainSection = "/search";
+		DDO.pageData.pageContentType = "search"; 
+		DDO.pageData.pageSiteSection = "search";
+		
+
+
+
+
+
+
+
+
+
+
+
+
+		
+	}
+	
+	// CONTENT DATA (contentViewType is set in access meter metrics)
+	DDO.contentData = DDO.contentData || {};
+	var contentTopics ='';
+	
+	DDO.contentData.contentTopics = contentTopics;
+	var contentByline = '';
+	
+	DDO.contentData.contentByline = contentByline;
+	DDO.contentData.contentOriginatingSite =  'cmgoldcontent';
+	DDO.contentData.contentID = '29a50606-4b31-4670-bbf5-32e26110656e';
+	DDO.contentData.contentVendor = '';
+	DDO.contentData.contentViewType = DDO.contentData.contentViewType || '';
+	DDO.contentData.contentPublishDate = '20110226204200';
+	DDO.contentData.contentUpdatedDate = '20110226204200';
+	DDO.contentData.blogName = '';
+	DDO.contentData.galleryName = '';
+	var pageSubContentType = '';
+	if(pageSubContentType == 'Post') {
+		DDO.contentData.blogName = 'Privacy Policy';
+	}else if(DDO.pageData.pageContentType == 'gallery') {
+		DDO.contentData.galleryName = 'Privacy Policy';
+	}
+	
+	//We need to set this one only for imported stories.
+	DDO.contentData.contentOriginatingCMS='Methode';
+	DDO.contentData.contentOriginatingID='29a50606-4b31-4670-bbf5-32e26110656e';
+	DDO.contentData.melvilID='overrides.myflatpage.924';
+
+	
+	    
+	    
+	        DDO.contentData.connextProductID = 'www.mydaytondailynews.com';
+	    
+		
+	
+	//SEARCH DATA PAGE CONTENT
+		
+   
+  
+   DDO.pageData.pageNumber = location.search.split('page=')[1] ? location.search.split('page=')[1] : location.search.split('offset=')[1] ? location.search.split('offset=')[1] : '1';
+   
+<!-- begin metrics_elements_override block -->
+
+
+<!-- end metrics_elements_override block -->	
+
+DDO.init = function(pubsub, dependentEvents) {
+	// The following code defers loading the DTM library until after certain events have been fired,
+	// namely janrain, mg2, and access meter.
+	// Note: we need to add access meter to list of dependent events etc!
+	DDO.dependentEvents = dependentEvents;// e.g. ['authn', 'authz'];
+	setTimeout(function(){
+		DDO.dependentEventCheck("TIMED OUT");
+	}, 10000);
+	if(dependentEvents.length == 0){
+		DDO.utilities.triggerDTMPageView();//DDO.utilities.loadDTMLibrary();
+	}
+	
+	pubsub.publish("DDO-initialized");
+	console.log('DDO: ', DDO);
+}
+
+//Function to remove last alphanumeric chars from DDO.pageData.pageName url
+function removeExtracharFromUrl(urlPath){
+    var urlArr = urlPath.split('/');
+    if (urlArr.length > 3) {
+    	var urlArr_new = [];
+		for (var i=0; i<urlArr.length-2;i++) {
+			urlArr_new.push(urlArr[i]);
+		}
+		return urlArr_new.join('/') + '/';
+    } 
+    else {
+    	return urlPath;	
+    }
+}
+
+</script>
+
+<!-- end metrics_complete_override block -->
+
+
+<!-- end metrics_common_override block -->
+                <!-- begin metrics_interaction_override block -->
+                
+
+
+
+
+
+
+<script>
+DDO.interaction = {
+	init: function(pubsub, $){
+		// pubsubcutioner can use regex for event names, thus all interaction type events
+		// can be listened to assuming the data is correct.
+		pubsub.subscribe("site-interaction", function(event, data){
+			// data should be like: {element:"[widget clicked]",action: "[button clicked]"}
+			DDO.action("interaction.Website", data);
+		});
+	}
+};
+</script><!-- end metrics_interaction_override block -->
+                <!-- begin metrics_janrain_override block -->
+                
+
+
+
+
+
+
+<script>
+DDO.janrainPort = {
+	init: function(pubsub, $){
+		var returnUser = false;
+		var isModalOpen = false;
+		var autoLogin = true;
+		
+		pubsub.subscribe("janrain.sessionNotFound", function(){
+			pubsub.publish("authn-anonymous");
+		});
+		pubsub.subscribe("janrain.logout",function(){
+			pubsub.publish("authn-logout");
+		});
+		pubsub.subscribe("janrain.loginSuccess", function(event, data){
+			pubsub.publish("login-success");
+			pubsub.publish("authn-login", data);
+			if(!returnUser && !window.mg2){
+				pubsub.publish("login-complete");
+			}
+		});
+		pubsub.subscribe("janrain.loginFailed", function(){
+			pubsub.publish("login-error");
+		});
+		
+		pubsub.subscribe("janrain.sessionFound", function(event, data){
+			pubsub.publish("session-found");
+			pubsub.publish("authn-login", data);
+			if(autoLogin) { 
+				pubsub.publish("authn-login-return");
+			}
+			
+		});
+		pubsub.subscribe("janrain.onEmailSent", function(){
+			pubsub.publish("registration-success");
+		});
+		pubsub.subscribe("janrain.onModalOpen", function(){
+			if (!isModalOpen) {
+				pubsub.publish("authn-modal-open");
+				isModalOpen = true;
+				autoLogin = false;
+			}
+		});
+		pubsub.subscribe("janrain.onModalClose", function(){
+			pubsub.publish("authn-modal-close");
+			isModalOpen = false;
+		});
+	}
+}
+</script><!-- end metrics_janrain_override block -->
+                <!-- begin metrics_comments_override block -->
+                
+
+
+
+
+
+
+<script>
+DDO.comment = {
+	init: function(pubsub, $){
+		pubsub.subscribe('livefyre.commentPosted', function(event, data){
+			DDO.action('commentSubmitted');
+			if (data.sharedToFacebook) {
+                pubsub.publish('authn-social-share', { type:'share-content', site:'facebook' });
+            }
+            if (data.sharedToTwitter) {
+                pubsub.publish('authn-social-share', { type:'share-content', site:'twitter' });
+            }
+		});
+		
+		pubsub.subscribe('additional-comments', function(event, data){
+			DDO.action('additionalComments', data);
+		});
+	}
+};
+</script><!-- end metrics_comments_override block -->
+                <!-- begin metrics_socialshare_override block -->
+                
+
+
+
+
+
+
+
+<script>
+DDO.socialShare = {
+	init: function(pubsub, $){
+		pubsub.subscribe("authn-social-share", function(event, data){
+			DDO.action("socialClick", data);			
+		});
+		pubsub.subscribe("livefyre.commentShared", function(event, data){
+			if (data.sharedToFacebook) {
+	            DDO.action('socialClick', { type:'share-comment', site:'facebook' });
+	        }
+	        if (data.sharedToTwitter) {
+	            DDO.action('socialClick', { type:'share-comment', site:'twitter' });
+	        }
+		});
+	
+	}
+};
+</script><!-- end metrics_socialshare_override block -->
+                <!-- begin metrics_gallery_override block -->
+                
+
+
+
+
+
+
+<script>
+DDO.gallery = {
+	init: function(pubsub, $){
+		pubsub.subscribe("gallery-secondary", function(event, data){
+			DDO.action('gallerySecondaryPhotoView');
+		});
+		pubsub.subscribe("gallery-opened", function(event, data){
+			DDO.action('galleryOpened');
+		});
+	}
+};
+</script><!-- end metrics_gallery_override block -->
+                <!-- begin metrics_breakingnews_override block -->
+                
+
+
+
+
+
+
+<script>
+DDO.breakingNews = {
+	init: function(pubsub, $){
+		pubsub.subscribe("breaking-news-banner", function(event, data){
+			DDO.action("breakingNews", {contentType:DDO.pageData.pageContentType});
+		});
+		
+		pubsub.subscribe("breaking-news-story", function(event, data){
+			DDO.action('breakingNewsStory');
+		});
+	}
+};
+</script><!-- end metrics_breakingnews_override block -->
+                <!-- begin metrics_relatedobjects_override block -->
+                
+
+
+
+
+
+
+<script>
+DDO.relatedObjects = {
+	init: function(pubsub, $){
+		pubsub.subscribe("related-objects", function(event, data){
+			DDO.action("relatedObjects", {contentType:DDO.pageData.pageContentType});
+		});
+		pubsub.subscribe("non-gallery-photo", function(event, data){
+			DDO.action("nonGalleryPhoto", {contentType:DDO.pageData.pageContentType});
+		});
+	}
+};
+</script><!-- end metrics_relatedobjects_override block -->
+                <!-- end metrics_complete_override block -->
+
+                <script style="display:none">
+	window.cmg = window.cmg || {};
+	cmg.anvatoConf = {
+		cmsid: 17813,
+		accessKey: 'Og28wQrX2JBGTEj8qCXBHPwGZG41znEX',
+		dfpTimeout: 20
+	};
+</script>
+<!-- PERSREC VENDOR BEACONS SCRIPTS-->
+				<!-- BLUECONIC -->
+<!-- DYNAMICYIELD -->
+<!-- LIFTIGNITER -->
+<!-- PERSREC ENDS-->
+	       		
+            </head>
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+<body data-spy="scroll" data-target=".subnav" data-offset="50" id="body" class="body  " data-webtype="FlatPage">
+    <!-- begin ad_bp01_override block -->
+                        <div id="cm-ad-BP01" class="BP01 cm-ad default"></div>
+
+    <script style="display:none">
+            googletag.cmd.push(function () {
+                
+                var defaultSizes = [];
+                
+                    defaultSizes.push([1, 1]);
+                
+                var mapping = googletag.sizeMapping();
+                var sizes = [];
+                
+                var conf = {
+                    name: 'BP01',
+                    id: 'cm-ad-BP01',
+                    sizes: defaultSizes,
+                    group: 'default',
+                    adunit: cmg.adconf.adunit,
+                    outofpage: false,
+                    companion: false,
+                    mapping: mapping.build(),
+                    targeting: {
+                        ad_slot: 'BP01'
+                    }
+                };
+                cmg.adconf.slotconf.push(conf);
+                var slot = harmony.defineSlot(conf);
+
+                
+            });
+        </script>
+<!-- end ad_bp01_override block -->
+                        
+                        <i class="jsinclude" style="display:none" data-key="currentSite" data-value="https://www.mydaytondailynews.com" data-literal="false"></i>
+<!-- begin retargeting_pixels_header_override block -->
+                        <div class="retargeting-pixel retargeting-pixel-header" style="display:none">
+	</div>
+<!-- end retargeting_pixels_header_override block -->
+                
+                        <!-- begin header_complete_override block -->
+                        <header class="main-header">
+	<!-- begin header_desktop_toolbar_override block -->
+<div class="toolbar-container">
+	<div class="toolbar-desktop">
+		<div class="toolbar-logo">
+	<a href="/" title="www.mydaytondailynews.com">
+		<img id="toolbar-logo" src="/r/PortalConfig/np-paid/assets/mydaytondailynews/images/logo-white-text.svg" name="www.mydaytondailynews.com" alt="www.mydaytondailynews.com Logo">
+	</a>
+</div>
+<nav class="toolbar-nav">
+			<ul>
+				<li>
+<a target="" href="http://www.daytondailynews.com/jobs/">jobs</a>
+</li>
+<li>
+<a target="_self" href="http://www.daytondailynews.com/cars/">cars</a>
+</li>
+<li>
+<a target="_self" href="http://www.daytondailynews.com/homes/">homes</a>
+</li>
+<li>
+<a target="_self" href="http://www.daytondailynews.com/classifieds/">classifieds</a>
+</li>
+<li>
+<a target="_self" href="https://membercenter.mydaytondailynews.com/products">our products</a>
+</li><li class="toolbar-weather">
+	<a href="/weather/" class="main-header-weather" target="_self">
+		<div class="small-icon weather-icon x-small weather_icon_12">
+			<img src="/r/PortalConfig/np-one/assets/images/sprites/weather/sprites-2-lightbg.png">
+		</div> 
+		<span class="weather-temp">53</span>
+	</a>
+</li>
+<li class="toolbar-traffic small-icon">
+					<a href="http://www.whio.com/traffic/" class="cm-icon-car" target="_self"></a>
+				</li>
+
+				<li class="toolbar-search small-icon">
+	<a href="#" class="cm-icon-search"></a>
+	<form class="toolbar-search-form" role="search" onsubmit="executeSearch(); return false;" id="searchform">
+		<input class="toolbar-search-input" name="q" type="text" value="">
+		<a href="#" class="toolbar-search-close"></a>
+	</form>
+</li>
+
+<script>
+function executeSearch(){
+ els = document.getElementsByClassName("toolbar-search-input");
+ [].forEach.call(els, function (el) {
+	 term = el.value;
+	 if(term.length > 0){
+		 window.location.replace("/google-search/?q=" + term);
+	 }
+ });
+}
+</script></ul>
+		</nav>
+	</div>
+</div>
+<!-- end header_desktop_toolbar_override block -->
+<!-- begin header_desktop_nav_override block -->
+<div class="main-nav-container">
+    <nav class="main-nav-v2">
+        <ul class="main-nav-list">
+        	<li class="main-nav-item main-nav-logo">
+	<a href="/" title="www.mydaytondailynews.com">
+		<img src="/r/PortalConfig/np-paid/assets/mydaytondailynews/images/logo-white.svg" name="www.mydaytondailynews.com" alt="www.mydaytondailynews.com Logo">
+	</a>
+</li>
+<li data-name="Local" data-id="local" class="main-nav-item main-nav-item-subnav">
+<a target="" href="/local">Local</a>
+<div class="main-nav-flyout">
+<ul class="flyout-subnav">
+<h4 class="subnav-title">
+								in Local</h4>
+<li class="flyout-subnav-item">
+<a target="_self" href="/weather">Weather</a>
+</li>
+<li class="flyout-subnav-item">
+<a target="_self" href="/news-ohio/">Ohio News</a>
+</li>
+<li class="flyout-subnav-item">
+<a target="_self" href="/investigations">Investigations</a>
+</li>
+<li class="flyout-subnav-item">
+<a target="_self" href="/ideas-voices/">Opinion</a>
+</li>
+<li class="flyout-subnav-item">
+<a target="_self" href="/military">Wright-Patt/Military/VA</a>
+</li>
+<li class="flyout-subnav-item">
+<a target="_self" href="/news/local/obituaries/">Obituaries</a>
+</li>
+<li class="flyout-subnav-item">
+<a target="_self" href="/clark-champaign-co">Clark &amp; Champaign Counties</a>
+</li>
+<li class="flyout-subnav-item">
+<a target="_self" href="/butler-co">Butler County</a>
+</li>
+<li class="flyout-subnav-item">
+<a target="_self" href="http://dailylawjournal.org/">Daily Law Journal</a>
+</li>
+<li class="flyout-subnav-item">
+<a target="" href="http://secure.adpay.com/searchresultsdisplay.aspx?p=2229&amp;region=2229&amp;pcatid=6200">Legal Notices</a>
+</li>
+<li class="flyout-subnav-item">
+<a target="_self" href="/news/ohio-lottery-results/mY0TEKBlD4zaeooXftkLrL/">Ohio Lottery Results</a>
+</li>
+</ul>
+<div class="main-nav-flyout-content"></div>
+</div>
+</li>
+<li data-name="US/World" data-id="us-world" class="main-nav-item main-nav-item-subnav">
+<a target="_self" href="/nation-world">US/World</a>
+<div class="main-nav-flyout">
+<div class="main-nav-flyout-content"></div>
+</div>
+</li>
+<li data-name="Business" data-id="business" class="main-nav-item main-nav-item-subnav">
+<a target="_self" href="/business">Business</a>
+<div class="main-nav-flyout">
+<div class="main-nav-flyout-content"></div>
+</div>
+</li>
+<li data-name="Politics" data-id="politics" class="main-nav-item main-nav-item-subnav">
+<a target="_self" href="/politics">Politics</a>
+<div class="main-nav-flyout">
+<div class="main-nav-flyout-content"></div>
+</div>
+</li>
+<li data-name="Food" data-id="food" class="main-nav-item main-nav-item-subnav">
+<a target="_self" href="/food">Food</a>
+<div class="main-nav-flyout">
+<div class="main-nav-flyout-content"></div>
+</div>
+</li>
+<li data-name="Path Forward" data-id="" class="main-nav-item main-nav-item-subnav">
+<a target="_self" href="https://www.daytondailynews.com/news/the-path-forward-dayton-daily-news-investigates/hdnP6CnBNN3GZqottdS64J/">Path Forward</a>
+<div class="main-nav-flyout">
+<div class="main-nav-flyout-content"></div>
+</div>
+</li>
+<li data-name="Sports" data-id="sports" class="main-nav-item main-nav-item-subnav">
+<a target="_self" href="/sports">Sports</a>
+<div class="main-nav-flyout">
+<ul class="flyout-subnav">
+<h4 class="subnav-title">
+								in Sports</h4>
+<li class="flyout-subnav-item">
+<a target="_self" href="/sports/high-school">High School</a>
+</li>
+<li class="flyout-subnav-item">
+<a target="_self" href="/sports/cincinnati-bengals">Cincinnati Bengals</a>
+</li>
+<li class="flyout-subnav-item">
+<a target="_self" href="/sports/cincinnati-reds">Cincinnati Reds</a>
+</li>
+<li class="flyout-subnav-item">
+<a target="_self" href="/sports/osu-buckeyes">OSU Buckeyes</a>
+</li>
+<li class="flyout-subnav-item">
+<a target="_self" href="/sports/ud-flyers">UD Flyers</a>
+</li>
+<li class="flyout-subnav-item">
+<a target="_self" href="/sports/wsu-raiders">WSU Raiders</a>
+</li>
+<li class="flyout-subnav-item">
+<a target="_self" href="/sports/dayton-dragons/">Dayton Dragons</a>
+</li>
+</ul>
+<div class="main-nav-flyout-content"></div>
+</div>
+</li>
+<li data-name="Investigations" data-id="" class="main-nav-item main-nav-item-subnav">
+<a target="_self" href="https://www.mydaytondailynews.com/news/investigations/Q6oYhJvzbAjJtmq3YlHm9L/">Investigations</a>
+<div class="main-nav-flyout">
+<div class="main-nav-flyout-content"></div>
+</div>
+</li><li class="main-nav-item main-nav-item-subnav no-subnav">
+				<a href="http://www.daytondailynews.com/epaper" target="_self">Epaper</a>
+				<div class="main-nav-flyout">
+					<div class="main-nav-flyout-content"></div>
+				</div>
+			</li>
+
+            <!-- begin header_desktop_account_override block -->
+            <li class="cmUserAuthed main-nav-item memcen-logout memcen-auth" style="display: none;">
+                <a href="#">
+                    <span class="memcen-logged-in-user cm-icon memcen-login-avatar"></span>
+                    <span class="memcen-logged-in-label"></span>
+                </a>            	
+            	<div class="memcen-auth-dropdown-wrapper">
+					<div class="memcen-auth-dropdown">
+						<div class="memcen-logged-in-links"></div>
+						<a href="#" class="memcen-capture-end-session memcen-authlink cmLogout">
+							Log Out
+						</a>
+					</div>
+				</div>
+            </li>
+
+            <li class="cmUserAnonymous main-nav-item memcen-login memcen-auth" style="display: none;">
+                <a class="cmOpenJanrainModal" href="#">
+                    <span class="cm-icon cm-icon-user memcen-login-icon"></span>
+                    <span class="memcen-login-label">Log In</span></a>
+            	
+            	<div class="memcen-auth-dropdown-wrapper">
+					<div class="memcen-auth-dropdown">
+						<div class="memcen-login-details">
+							<h3>
+								Log in to Manage your<br>Profile and Account
+							</h3>
+							<ul>
+								<li class="memcen-bullet">
+									<span>Create your <strong>account</strong></span>
+								</li>
+								<li class="memcen-bullet">
+									<span>Receive up-to-date <strong>newsletters</strong></span>
+								</li>
+								<li class="memcen-bullet">
+									<span>Set up <strong>text alerts</strong></span>
+								</li>
+								<li class="memcen-bullet">
+									<span>Sign up and <strong>manage subscriptions</strong></span>
+								</li>
+							</ul>
+						</div>
+						<a href="#" class="cmOpenJanrainModal memcen-authlink">
+							Log In
+						</a>
+					</div>
+				</div>
+            </li>
+
+            <li class="cmUserSpinner main-nav-item" style="display: list-item;">
+            	<div id="fountainG">
+	<div id="fountainG_1" class="fountainG"></div>
+	<div id="fountainG_2" class="fountainG"></div>
+	<div id="fountainG_3" class="fountainG"></div>
+	<div id="fountainG_4" class="fountainG"></div>
+	<div id="fountainG_5" class="fountainG"></div>
+	<div id="fountainG_6" class="fountainG"></div>
+	<div id="fountainG_7" class="fountainG"></div>
+	<div id="fountainG_8" class="fountainG"></div>
+</div>
+</li>
+            <!-- end header_desktop_account_override block -->
+
+            <li class="main-nav-item main-nav-item-subscribe" data-messaging="cmg-premium-toggle">
+    <a href="https://subscribe.daytondailynews.com/mysubscribe" target="_self">
+	Subscribe<span>as low as 99¢</span>
+</a>
+</li></ul>
+    </nav>
+</div>
+<!-- end header_desktop_nav_override block --><!-- begin header_mobile_toolbar_override block -->
+<div class="toolbar-mobile">
+    <ul class="toolbar-items">
+        <li class="toolbar-item toolbar-weather">
+	<a href="/weather/" class="main-header-weather" target="_self">
+		<div class="weather-icon x-small weather_icon_12">
+			<img src="/r/PortalConfig/np-one/assets/images/sprites/weather/sprites-2-lightbg.png">
+		</div>
+		<span class="weather-temp">53</span>
+	</a>
+</li>
+<li class="toolbar-item toolbar-traffic">
+        	<a href="http://www.whio.com/traffic/" class="cm-icon-car" target="_self"></a>
+       	</li>
+
+        <li class="toolbar-item toolbar-flex"></li>
+
+        <li class="toolbar-item toolbar-subscribe" data-messaging="cmg-premium-toggle">
+    <a href="https://subscribe.daytondailynews.com/mysubscribe" target="_self">
+	Subscribe<span>as low as 99¢</span>
+</a>
+</li><li class="toolbar-item toolbar-search">
+        	<a href="#" class="cm-icon-search"></a>
+        	<form class="toolbar-search-form" onsubmit="executeSearch(); return false;">
+	        	<input type="text" class="toolbar-search-input" id="search" name="q" value="">
+	        	<a href="#" class="toolbar-search-close"></a>
+        	</form>
+       	</li>
+	</ul>
+</div>
+
+<script>
+function executeSearch(){
+ els = document.getElementsByClassName("toolbar-search-input");
+ [].forEach.call(els, function (el) {
+	 term = el.value;
+	 if(term.length > 0){
+		 window.location.replace("/google-search/?q=" + term);
+	 }
+ });
+}
+</script>
+<!-- end header_mobile_toolbar_override block -->
+<!-- begin header_mobile_nav_override block -->
+<div class="main-nav-container-mobile">
+    <ul class="main-nav-items">
+        <li class="main-nav-item main-nav-flyout-btn"></li>
+
+		<li class="main-nav-item main-nav-logo main-nav-logo-expanded fixed-hide">
+	<a href="/" title="www.mydaytondailynews.com">
+		<img src="/r/PortalConfig/np-paid/assets/mydaytondailynews/images/logo-white-text-center.svg" class="logo" name="www.mydaytondailynews.com" alt="www.mydaytondailynews.com Logo">
+	</a>
+</li>
+<li class="main-nav-item main-nav-logo main-nav-logo-collapsed fixed-show">
+	<a href="/" title="www.mydaytondailynews.com">
+		<img src="/r/PortalConfig/np-paid/assets/mydaytondailynews/images/logo-white-text-center.svg" class="logo" name="www.mydaytondailynews.com" alt="www.mydaytondailynews.com Logo">
+	</a>
+</li>
+<!-- begin header_mobile_account_override block -->
+        <li class="cmUserAuthed main-nav-item memcen-logout memcen-auth fixed-hide" style="display: none;">
+            <a href="#">
+                <span class="memcen-logged-in-user cm-icon-profilecircle memcen-login-avatar"></span>
+            </a>                    	
+       	</li>
+
+        <li class="cmUserAnonymous main-nav-item memcen-login memcen-auth fixed-hide" style="display: none;">
+            <a href="#" class="cmOpenJanrainModal">
+                <span class="cm-icon-user"></span>
+                Log In
+            </a>        	        	
+       	</li>
+
+        <li class="cmUserSpinner main-nav-item fixed-hide" style="display: list-item;">
+           	<div id="fountainG">
+	<div id="fountainG_1" class="fountainG"></div>
+	<div id="fountainG_2" class="fountainG"></div>
+	<div id="fountainG_3" class="fountainG"></div>
+	<div id="fountainG_4" class="fountainG"></div>
+	<div id="fountainG_5" class="fountainG"></div>
+	<div id="fountainG_6" class="fountainG"></div>
+	<div id="fountainG_7" class="fountainG"></div>
+	<div id="fountainG_8" class="fountainG"></div>
+</div>
+</li>
+       	<!-- end header_mobile_account_override block -->
+
+        <li class="main-nav-item main-nav-subscribe fixed-show" data-messaging="cmg-premium-toggle">
+    <a href="https://subscribe.daytondailynews.com/mysubscribe" target="_self">
+	Subscribe<span>as low as 99¢</span>
+</a>
+</li></ul>
+</div>
+<!-- end header_mobile_nav_override block -->
+<!-- begin header_mobile_flyout_override block -->
+<div class="flyout-container-mobile">
+    <div class="flyout-mobile">
+        <ul class="flyout-main-nav">
+            <li class="flyout-item">
+            	<div class="flyout-item-info flyout-closer flyout-closer-x"></div>
+           	</li>
+
+            <li class="flyout-item flyout-item-subnav">
+		        <div class="cmUserAnonymous" style="display:none">
+		            <span class="cm-icon-user"></span>
+		            <a href="#" class="cmOpenJanrainModal">
+		              Log In
+                    </a>
+		        </div>           	            
+           	</li>
+
+            <li class="flyout-item flyout-item-subnav">                
+		        <div class="flyout-item-info cmUserAuthed memcen-logout memcen-auth" style="display:none">
+                    <div class="flyout-item-caret"></div>
+                    <a href="#">
+                        <span class="memcen-logged-in-user cm-icon-profilecircle memcen-login-avatar"></span>
+                        <span class="memcen-logged-in-label"></span>
+                    </a>
+	                <div class="memcen-auth-dropdown-wrapper">
+	                    <div class="memcen-auth-dropdown">
+	                        <div class="memcen-logged-in-links memcen-flyout"></div>
+	                        <div class="memcen-flyout-logout">
+		                        <a href="#" class="memcen-capture-end-session memcen-authlink flyout-item-submenu cmLogout">
+		                            Log Out
+		                        </a>
+	                        
+	                    </div>
+	                </div>
+		        </div>
+            </div></li>
+
+			<li class="flyout-item flyout-item-subnav">
+<div class="flyout-item-info">
+<div class="flyout-item-caret"></div>
+<a target="" href="/local">Local</a>
+</div>
+<ul class="flyout-item-submenu">
+<li class="submenu-item">
+<a class="submenu-link" target="_self" href="/weather">Weather</a>
+</li>
+<li class="submenu-item">
+<a class="submenu-link" target="_self" href="/news-ohio/">Ohio News</a>
+</li>
+<li class="submenu-item">
+<a class="submenu-link" target="_self" href="/investigations">Investigations</a>
+</li>
+<li class="submenu-item">
+<a class="submenu-link" target="_self" href="/ideas-voices/">Opinion</a>
+</li>
+<li class="submenu-item">
+<a class="submenu-link" target="_self" href="/military">Wright-Patt/Military/VA</a>
+</li>
+<li class="submenu-item">
+<a class="submenu-link" target="_self" href="/news/local/obituaries/">Obituaries</a>
+</li>
+<li class="submenu-item">
+<a class="submenu-link" target="_self" href="/clark-champaign-co">Clark &amp; Champaign Counties</a>
+</li>
+<li class="submenu-item">
+<a class="submenu-link" target="_self" href="/butler-co">Butler County</a>
+</li>
+<li class="submenu-item">
+<a class="submenu-link" target="_self" href="http://dailylawjournal.org/">Daily Law Journal</a>
+</li>
+<li class="submenu-item">
+<a class="submenu-link" target="" href="http://secure.adpay.com/searchresultsdisplay.aspx?p=2229&amp;region=2229&amp;pcatid=6200">Legal Notices</a>
+</li>
+<li class="submenu-item">
+<a class="submenu-link" target="_self" href="/news/ohio-lottery-results/mY0TEKBlD4zaeooXftkLrL/">Ohio Lottery Results</a>
+</li>
+</ul>
+</li>
+<li class="flyout-item flyout-item-subnav">
+<div class="flyout-item-info">
+<a target="_self" href="/nation-world">US/World</a>
+</div>
+<ul class="flyout-item-submenu"></ul>
+</li>
+<li class="flyout-item flyout-item-subnav">
+<div class="flyout-item-info">
+<a target="_self" href="/business">Business</a>
+</div>
+<ul class="flyout-item-submenu"></ul>
+</li>
+<li class="flyout-item flyout-item-subnav">
+<div class="flyout-item-info">
+<a target="_self" href="/politics">Politics</a>
+</div>
+<ul class="flyout-item-submenu"></ul>
+</li>
+<li class="flyout-item flyout-item-subnav">
+<div class="flyout-item-info">
+<a target="_self" href="/food">Food</a>
+</div>
+<ul class="flyout-item-submenu"></ul>
+</li>
+<li class="flyout-item flyout-item-subnav">
+<div class="flyout-item-info">
+<a target="_self" href="https://www.daytondailynews.com/news/the-path-forward-dayton-daily-news-investigates/hdnP6CnBNN3GZqottdS64J/">Path Forward</a>
+</div>
+<ul class="flyout-item-submenu"></ul>
+</li>
+<li class="flyout-item flyout-item-subnav">
+<div class="flyout-item-info">
+<div class="flyout-item-caret"></div>
+<a target="_self" href="/sports">Sports</a>
+</div>
+<ul class="flyout-item-submenu">
+<li class="submenu-item">
+<a class="submenu-link" target="_self" href="/sports/high-school">High School</a>
+</li>
+<li class="submenu-item">
+<a class="submenu-link" target="_self" href="/sports/cincinnati-bengals">Cincinnati Bengals</a>
+</li>
+<li class="submenu-item">
+<a class="submenu-link" target="_self" href="/sports/cincinnati-reds">Cincinnati Reds</a>
+</li>
+<li class="submenu-item">
+<a class="submenu-link" target="_self" href="/sports/osu-buckeyes">OSU Buckeyes</a>
+</li>
+<li class="submenu-item">
+<a class="submenu-link" target="_self" href="/sports/ud-flyers">UD Flyers</a>
+</li>
+<li class="submenu-item">
+<a class="submenu-link" target="_self" href="/sports/wsu-raiders">WSU Raiders</a>
+</li>
+<li class="submenu-item">
+<a class="submenu-link" target="_self" href="/sports/dayton-dragons/">Dayton Dragons</a>
+</li>
+</ul>
+</li>
+<li class="flyout-item flyout-item-subnav">
+<div class="flyout-item-info">
+<a target="_self" href="https://www.mydaytondailynews.com/news/investigations/Q6oYhJvzbAjJtmq3YlHm9L/">Investigations</a>
+</div>
+<ul class="flyout-item-submenu"></ul>
+</li><li class="flyout-item flyout-item-subnav">
+            	<div class="flyout-item-info">
+            		<a href="http://www.daytondailynews.com/epaper" target="_self">Epaper</a>
+				</div>
+			</li>
+
+            <li class="flyout-item">
+                <div class="flyout-item-info flyout-subscribe" data-messaging="cmg-premium-toggle">
+    <a href="https://subscribe.daytondailynews.com/mysubscribe" target="_self">
+	Subscribe<span>as low as 99¢</span>
+</a>
+</div></li>
+		</ul>
+
+        <div class="flyout-weather-traffic">
+            <h3 class="flyout-heading">Weather and Traffic</h3>
+            <div class="flyout-weather">
+	<a href="/weather/" class="main-header-weather" target="_self">
+		<h2 class="weather-temp">53</h2>
+		<div class="weather-icon x-small weather_icon_12">
+			<img src="/r/PortalConfig/np-one/assets/images/sprites/weather/sprites-2-lightbg.png">
+		</div>
+	</a>
+</div>
+<a href="http://www.whio.com/traffic/" class="flyout-traffic" target="_self">
+            	<img src="/r/PortalConfig/np-paid/assets/mydaytondailynews/images/traffic_map.png" class="flyout-traffic-location">
+           	</a>
+		</div>        
+
+        <div class="cmUserSpinner flyout-item">
+           	<div id="fountainG">
+	<div id="fountainG_1" class="fountainG"></div>
+	<div id="fountainG_2" class="fountainG"></div>
+	<div id="fountainG_3" class="fountainG"></div>
+	<div id="fountainG_4" class="fountainG"></div>
+	<div id="fountainG_5" class="fountainG"></div>
+	<div id="fountainG_6" class="fountainG"></div>
+	<div id="fountainG_7" class="fountainG"></div>
+	<div id="fountainG_8" class="fountainG"></div>
+</div>
+</div>
+
+        <div class="flyout-search">
+        	<form class="flyout-search-form" action="/search" method="get">
+        		<input type="text" class="flyout-search-input" id="search" name="q" value="">
+				<button type="submit" class="cm-icon-search"></button>
+			</form>
+		</div>
+
+        <div class="flyout-closer flyout-closer-x flyout-closer-section">
+        	<a href="#">Close</a>
+       	</div>
+	</div>
+    <div class="flyout-closer"></div>
+</div>
+<!-- end header_mobile_flyout_override block -->
+</header>
+<!-- end header_complete_override block -->
+                        
+                        <!-- begin breaking_news_override block -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- nicheParams: ContextMap[envPropertyNiche:false, isNiche:false, legacyNiche:false, nicheClass:, nicheProductID:null, nicheReferrerSuffix:null, referredNiche:null, section:SiteSection [[+       474#] /PortalSites/mydaytondailynews.com/local [FolderProxyImpl:PortalSection, 2.0.347872023]], sectionShortTitle:] -->
+<!-- pubEndDateFull Fri Dec 28 16:03:34 EST 2018 -->
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- nicheParams: ContextMap[envPropertyNiche:false, isNiche:false, legacyNiche:false, nicheClass:, nicheProductID:null, nicheReferrerSuffix:null, referredNiche:null, section:SiteSection [[+       474#] /PortalSites/mydaytondailynews.com/local [FolderProxyImpl:PortalSection, 2.0.347872023]], sectionShortTitle:] -->
+<!-- pubEndDateFull Fri Dec 28 13:48:31 EST 2018 -->
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- nicheParams: ContextMap[envPropertyNiche:false, isNiche:false, legacyNiche:false, nicheClass:, nicheProductID:null, nicheReferrerSuffix:null, referredNiche:null, section:SiteRoot [[+       471#] /PortalSites/mydaytondailynews.com [FolderProxyImpl:PortalRoot, 2.0.273363499]], sectionShortTitle:] -->
+<!-- pubEndDateFull Thu Dec 27 16:02:18 EST 2018 -->
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- nicheParams: ContextMap[envPropertyNiche:false, isNiche:false, legacyNiche:false, nicheClass:, nicheProductID:null, nicheReferrerSuffix:null, referredNiche:null, section:SiteSection [[+       474#] /PortalSites/mydaytondailynews.com/local [FolderProxyImpl:PortalSection, 2.0.347872023]], sectionShortTitle:] -->
+<!-- pubEndDateFull Thu Dec 27 15:37:29 EST 2018 -->
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- nicheParams: ContextMap[envPropertyNiche:false, isNiche:false, legacyNiche:false, nicheClass:, nicheProductID:null, nicheReferrerSuffix:null, referredNiche:null, section:SiteRoot [[+       471#] /PortalSites/mydaytondailynews.com [FolderProxyImpl:PortalRoot, 2.0.273363499]], sectionShortTitle:] -->
+<!-- pubEndDateFull Thu Dec 27 13:31:58 EST 2018 -->
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- nicheParams: ContextMap[envPropertyNiche:false, isNiche:false, legacyNiche:false, nicheClass:, nicheProductID:null, nicheReferrerSuffix:null, referredNiche:null, section:SiteSection [[+       474#] /PortalSites/mydaytondailynews.com/local [FolderProxyImpl:PortalSection, 2.0.347872023]], sectionShortTitle:] -->
+<!-- pubEndDateFull Thu Dec 27 12:01:36 EST 2018 -->
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- nicheParams: ContextMap[envPropertyNiche:false, isNiche:false, legacyNiche:false, nicheClass:, nicheProductID:null, nicheReferrerSuffix:null, referredNiche:null, section:SiteRoot [[+       471#] /PortalSites/mydaytondailynews.com [FolderProxyImpl:PortalRoot, 2.0.273363499]], sectionShortTitle:] -->
+<!-- pubEndDateFull Wed Dec 26 21:18:44 EST 2018 -->
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- nicheParams: ContextMap[envPropertyNiche:false, isNiche:false, legacyNiche:false, nicheClass:, nicheProductID:null, nicheReferrerSuffix:null, referredNiche:null, section:SiteRoot [[+       471#] /PortalSites/mydaytondailynews.com [FolderProxyImpl:PortalRoot, 2.0.273363499]], sectionShortTitle:] -->
+<!-- pubEndDateFull Wed Dec 26 15:29:00 EST 2018 -->
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- nicheParams: ContextMap[envPropertyNiche:false, isNiche:false, legacyNiche:false, nicheClass:, nicheProductID:null, nicheReferrerSuffix:null, referredNiche:null, section:SiteRoot [[+       471#] /PortalSites/mydaytondailynews.com [FolderProxyImpl:PortalRoot, 2.0.273363499]], sectionShortTitle:] -->
+<!-- pubEndDateFull Wed Dec 26 15:26:00 EST 2018 -->
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- nicheParams: ContextMap[envPropertyNiche:false, isNiche:false, legacyNiche:false, nicheClass:, nicheProductID:null, nicheReferrerSuffix:null, referredNiche:null, section:SiteRoot [[+       471#] /PortalSites/mydaytondailynews.com [FolderProxyImpl:PortalRoot, 2.0.273363499]], sectionShortTitle:] -->
+<!-- pubEndDateFull Wed Dec 26 13:50:37 EST 2018 -->
+				<!-- end breaking_news_override block -->
+<!-- begin page_container_override block -->
+                        <div class="container cm-flatpage">
+                            <!-- begin page_subhead_override block -->
+                            <header class="subhead" id="subhead"></header>
+                            <!-- end page_subhead_override block -->
+                            
+                            <!-- begin retargeting_pixels_body_override block -->
+                            <div class="retargeting-pixel retargeting-pixel-body" style="display:none">
+	</div>
+<!-- end retargeting_pixels_body_override block -->
+                
+                            <!-- begin page_content_override block -->
+                            <div class="ad-container">
+	<div id="cm-ad-MP01" class="MP01 cm-ad default"></div>
+
+    <script style="display:none">
+            googletag.cmd.push(function () {
+                
+                var defaultSizes = [];
+                
+                    defaultSizes.push([320, 50]);
+                
+                var mapping = googletag.sizeMapping();
+                var sizes = [];
+                
+                    sizes = [];
+                    
+                    mapping.addSize(
+                        [768, 1], sizes
+                    );
+                
+                    sizes = [];
+                    
+                        sizes.push([320, 150]);
+                    
+                        sizes.push([320, 50]);
+                    
+                    mapping.addSize(
+                        [1, 1], sizes
+                    );
+                
+                var conf = {
+                    name: 'MP01',
+                    id: 'cm-ad-MP01',
+                    sizes: defaultSizes,
+                    group: 'default',
+                    adunit: cmg.adconf.adunit,
+                    outofpage: false,
+                    companion: false,
+                    mapping: mapping.build(),
+                    targeting: {
+                        ad_slot: 'MP01'
+                    }
+                };
+                cmg.adconf.slotconf.push(conf);
+                var slot = harmony.defineSlot(conf);
+
+                
+            });
+        </script>
+</div>
+
+<div id="flatpage-well" class="content flatpages">
+    <!-- begin flatpage_content_override block -->
+        <p><strong class="pgsubhed">Privacy Policy</strong><br><span class="note">Last Updated: <em>August 4, 2014</em></span></p> <p>Thank you for visiting this website, which is operated by an Affiliate of Cox Media Group, LLC (“CMG”). This site is one of a network of ad-supported sites operated by Affiliates of CMG each of which also operates a local newspaper, a local television station or a local radio station (each a “CMG Affiliate Site” and, collectively, the “CMG Network of Sites”). Each CMG Affiliate Site has adopted this privacy statement to the extent applicable. “Affiliate” means a company controlling, controlled by or under common control with another company.</p> <p>This privacy statement is provided by the CMG Affiliate that operates this website (“we,” “us” or “our”) to explain the ways in which we collect information from you through your use of this site and any services offered through this website and any of our applications or mobile applications (collectively, the “Service”), and the ways that we and the other CMG Affiliate Sites may use that information. This privacy statement does not apply to any information you may provide to us through other means; for example, at a live event, via mail, or via telephone. Please read this privacy statement carefully so that you understand our online privacy practices. By using our Service, you agree that your use, and any dispute over our online privacy practices, is governed by this privacy statement and our visitor agreement. If you have questions regarding privacy issues, please contact us at privacy@coxinc.com.</p> <p><strong>YOUR CALIFORNIA PRIVACY RIGHTS</strong></p> <p>California law allows California residents, once a year and free of charge, to request information about certain types of personal information (if any) that a business has disclosed to third parties for their direct marketing purposes in the prior calendar year. However, under the law, we are not required to provide this information as long as we: (1) notify you of that you have the right to prevent disclosure of personal information, and (2) provide you with a cost-free means to exercise that right. As noted in this Privacy Statement, we require California residents to opt-in to activities where we would share their personal information with third parties for those third parties’ direct marketing purposes. If you are a California resident and you would like to prevent disclosure of your personal information for use in direct marketing by a third party, do not opt-in to participate in these activities. If you are a California resident, and you have opted in to one of these activities, but you later decide that you would like to prevent our disclosure of your personal information to third parties for their direct marketing purposes, please contact us.</p> <p><strong>TYPES OF INFORMATION WE COLLECT</strong></p> <p><strong><span style="text-decoration: underline;">Overview</span></strong>. The information we gather generally falls into one of two categories: (1) information (for example, your name and address) that you voluntarily supply when you register with our Service, initiate transactions on or through the Service (such as buying products or services through the Service), or when you participate in the features we offer through the Service (such as comments posted on a blog, discussion group, or other social networking features on the Service), and (2) information gathered on usage patterns and preferences as visitors navigate through our Service. In some cases, one of our agents or Affiliates may collect the information on our behalf. Third party Service Providers (as defined below) that provide all or some of the services available through this Service also may be gathering the same kinds of information.</p> <p><span style="text-decoration: underline;"> <strong>Registration Information</strong></span>. To make use of certain features available through this Service (such as to receive email newsletters, to post a classified ad, or to participate in some social networking features) you may need to register and to provide certain information as part of the registration process. (If permitted by this Service, you may be able to bypass some of the steps within the registration process by using your user name and password associated with your account on certain specified social networking sites when you register for our Service, but you will still have to complete the registration process after entering that information.) We or our Service Providers may also ask for information from you if you buy products or services or conduct other transactions via our Service. (We may ask, for example, for your name, email address, sex, age, zip code or credit card number, and we might request information on your interest in sports, personal finance, the performing arts, and the like.) The information you supply will help us to offer you more personalized features, to tailor our Service to your interests and make them more useful to you, and also may be used in the processing of e-commerce transactions. In addition, our Service Providers may provide us with additional personal information about you that you provide to them through your separate accounts with them as described in their own privacy statements.</p> <p>The more you tell us about yourself, the more value we can offer you. Supplying such information is entirely voluntary. But if you don't supply the information we request, we may be unable to provide you with services we make available to other users of our Service. For instance, we can't send you email alerting you to a new service we're offering, or breaking news that may interest you, if you don't tell us what you're interested in and give us your email address.</p> <p><strong><span style="text-decoration: underline;"> Contests and Other Promotions</span></strong>. From time to time, we may offer contests, sweepstakes or other promotions via our Service. If you enter one of these contests, sweepstakes or promotions, you'll have to provide information about yourself (such as your name, address, telephone number and email address) so that we can administer and operate the contest, sweepstakes, or promotion (including contacting you if you win, fulfilling a prize, and publishing a winners’ list). If you don't want us to collect the information requested in the registration form or to provide it to any of our Affiliates, Service Providers and co-sponsor(s) as described below, please do not enter the contest, sweepstakes or promotion.</p> <p><strong><span style="text-decoration: underline;"> Email Newsletters</span></strong>. We may also offer you the opportunity to subscribe to email newsletters that we make available through the Service. If you have opted to receive a particular newsletter, you may always unsubscribe later if you decide not to receive further mailings of the newsletter from us. See "Opting In/Opting Out" below.</p> <p><strong><span style="text-decoration: underline;"> Cookies</span></strong>. To help make our sites more responsive to the needs and interests of our visitors, we keep track of the pages visited by our users by placing a cookie, a small entry in a text file, on your hard drive. Our advertisers and Service Providers may also assign their own cookies to your browser, which is a process that we don't control.</p> <p>We use cookies to help us tailor our site to your needs and to deliver a better, more personalized service. For example, we may use cookies to personalize the ads you see on our Service or to avoid showing you the same ad repeatedly during a single visit. In addition, we may use cookies to track the pages on our Service, the CMG Network of Sites, or other sites visited by our users. We may also use cookies to measure site performance and/or advertising performance. We can build a better Service if we know which pages our users are visiting and how often. You can manage your browser’s cookie setting through the “options” menu on most commercially available web browsers, including options to set your browser to notify you before accepting a cookie or to disable cookies entirely. Of course, if you set your browser not to accept cookies, you may not be able to take advantage of the personalized features enjoyed by other users of our Service.</p> <p><span style="text-decoration: underline;"><strong>Web Beacons</strong></span>. Our Service may contain electronic images (called "single-pixel GIFs" or "web beacons") or other tools that allow us and our Affiliates, Service Providers, vendors and, where necessary, our advertisers to count users who have visited particular pages of this Service, the CMG Network of Sites, or other sites or applications, or to access certain cookies. We may use these tools and other technologies to recognize which the links visitors click and to track how users respond to ads we place on third-party sites or applications. These features may also be included in our email newsletters so that we can learn which messages have been opened and acted upon. In combination with cookies, these web beacons allow us (and/or our Affiliates, Service Providers, vendors, or advertisers) to track the number of users who view particular pages and to fine tune the advertising messages delivered to users of this Service and other websites and applications. We may use "clickstream" data collected using web beacons and cookies to help us tailor promotional content, including such content in email messages and on landing pages, to the perceived interests of our users. Advertising networks with which we are affiliated and third-party advertising services that we use may also use web beacons on our Service to gather similar anonymous "clickstream" information, which is used to fine tune advertising messages delivered to our visitors and visitors to other websites.</p> <p><strong><span style="text-decoration: underline;"> Browser Level Information and IP Addresses</span></strong>. Our web servers automatically collect limited information about your computer configuration or your mobile device when you use our Service, including the type of browser software you use, the operating system you're running, the resolution of your computer monitor or mobile device, the website that referred you, the type of device you’re using, and your IP address. (Your IP address is a numerical address that is used by computers and mobile devices connected to the Internet to identify your computer or mobile device so that data (such as the web pages you want to view) can be transmitted to you. We also use IP address information for systems administration and troubleshooting purposes. Your IP address alone does not tell us who you are.) We use this information to deliver our web pages to you upon request, to tailor our Service (including ads distributed through our Service) to the interests of our users, and to measure traffic within our Service.</p> <p><strong><span style="text-decoration: underline;"> Social Networks</span></strong>. When you use the social networking features on our Service, you may be asked to log in to a social network using your social network credentials (for example, your Facebook user ID). When you log in, we may collect information about you (including personal information) from that social network. In addition, when you use one of the social network sharing tools available on our Service, the social network operating the tool may collect information about you based on such use. The social network’s use of that information will be subject to its own privacy policy, which may be different from ours.</p> <p><strong><span style="text-decoration: underline;"> Non-Personally Identifying Information</span></strong>. This website uses Google Analytics to help analyze how users use the site. Google Analytics is a web analysis service provided by Google. Google utilizes the data collected to track and examine the use of www.massport.com, to prepare reports on its activities and share them with other Google services. Google may use the data collected to contextualize and personalize the ads of its own advertising network. Google Analytics features implemented on this site include Display Advertising (Demographics and Interest Reporting). &nbsp;We use data from Google's Interest-based advertising or 3rd-party audience data (such as age, gender and interests) with Google Analytics only to maintain this site’s functionality, responsiveness and improve content. &nbsp;CMG uses the Google Analytics Demographics and Interest Reporting feature to identify trends in the usage of its website which may be published in reports for internal use.&nbsp; Google’s ability to use and share information collected by Google Analytics regarding your visits to this site is restricted by the <a target="_blank" href="http://www.google.com/analytics/terms/us.html">Terms of Service and Privacy Policy</a>.&nbsp; You may opt-out of Google Analytics for Display Advertising and customer Display Network ads using&nbsp;<a href="https://www.google.com/settings/u/0/ads?hl=en&amp;sig=ACi0TCjJn1o4MBMtGs7PuGXmQTMXL1pKVlmTP-2gwgG7JDIXKXAdxnVqfVu1qAPwqBTgFOLPWtZBuC830QOJwMIdYYTR-9x_pN9uU0zvFdBY8xQYI05RFBDjDa8NwXTHvGR27PKZxHQI5fcvYS8pECbbDN7o0bFWRKqSeLSTs7Tgqkxu4zxF3Og/">Ads Settings.</a></p> <p>The Google Analytics tool uses “cookies” which are text files placed on your computer, to collect standard internet log information and visitor behavior information in an anonymous form. The information generated by the cookie about your use of the website (including IP address) is transmitted to Google. This information is then used to evaluate visitors’ use of the website and to compile statistical reports on website activity. At any time, you may choose to opt-out of Google Analytics tracking with the&nbsp;<a href="https://tools.google.com/dlpage/gaoptout/">Google Analytics opt-out browser add-on.</a>&nbsp;</p> <p><strong><span style="text-decoration: underline;"> Information You Post</span></strong>. Please remember that anything you post to any message boards, discussion or comment areas, or social networking services on our Service can be seen, collected, and used by anyone who has access to that board, area, or social networking service. We cannot control how your postings may be used by third parties with such access.</p> <p><strong><span style="text-decoration: underline;"> Statistical Information</span></strong>. Much of the information we collect is in the form of aggregated statistics, such as the traffic that visits various pages within our Service, and the habits and preferences of our audience. Such aggregated information does not include any information that would identify you personally. We may use such aggregated information and disclose it to any third parties as we see fit.</p> <p><strong><span style="text-decoration: underline;"> Mobile Applications and Location-Based Information</span></strong>. Our Service may have the ability to use your geographic location to deliver content, services, and advertising tailored to your location. If you choose to enable our Service to use your location information, then that information will be stored and used to deliver content, services, and advertising tailored to your location. Also, when you use a mobile device or browser to access our Service, then your device and/or your browser may automatically collect and/or transmit your device’s unique identifier, IP address, location information, device make/model, wireless provider, and related information to us and our Service Providers. We and our Service Providers may use this information to deliver content, services, and advertising tailored to your location.</p> <p><a id="ad-choices" name="ad-choices"></a><span id="ad-choices">&nbsp;</span></p> <p><strong><span style="text-decoration: underline;"> Data Collected in Connection with Ad Serving and Targeting</span></strong>. We use third-party Service Providers, such as ad networks, to serve advertising to you when you use our Service or use other sites or applications. These Service Providers may use information about your activities while you navigate through and use this Service and other web sites and applications (and that the Service Providers collect through cookies) to provide you with advertisements about products and services that they think may be of interest to you. The information used by these Service Providers for these purposes generally does not identify you personally (in other words, the Service Providers are not usually using your name, address, email address, or phone number for these purposes, although they may use your IP address, your geographic location, or your device’s unique identifier). You can learn more about such data collection practices, and/or opt out of any use by our Service Providers’ of cookies to tailor advertising to your interests, by visiting aboutads.info.</p> <p><strong><span style="text-decoration: underline;">CMG’s Adherence to Self-Regulatory Principles for Online Behavioral Advertising.</span></strong> CMG adheres to the Self-Regulatory Principles for Online Behavioral Advertising of the Digital Advertising Alliance. To learn more about the Principles and your choices when it comes to the use of online behavioral advertising data by advertisers and ad servers across the Internet, visit aboutads.info.</p> <p><strong>DISCLOSURE OF INFORMATION</strong></p> <p>Why We Collect Information From You. Like any business, it's important for us to know our customers -- their needs, their likes, what they want and expect from us. Unlike most businesses, however, we deliver a valuable product to our customers without asking for anything in return. Since we make most of this Service available without charge to you, we rely heavily on advertisers to produce the income necessary to operate our Service. Advertisers are like most people: They expect something in return for the money they spend. They want to know how many people will see their ad and how often our users are looking at their ads on our Service -- in other words, how effective their ad is likely to be. So it's important that we be able to tell advertisers who our audience is. Except as expressly set forth in this privacy statement, we will not provide, sell or rent to any third party any personally identifying information that we collect from you through your use of this Service.</p> <p><strong><span style="text-decoration: underline;"> Advertisers</span></strong>. Without your permission, we will not share the personally-identifying information you provide when registering on our Service with advertisers. We may, however, take the information you provide and aggregate it with data from all the other people that use this Service and associated services. Then we will use that pool of information to inform our advertisers about our audience without identifying you personally.</p> <p><strong><span style="text-decoration: underline;"> Service Providers</span></strong>. All or portions of our Service may be provided or supported by our third-party service providers ("Service Providers"), and we may share any of the information that we collect from you through our Service (e.g., anonymous information collected through cookies on your browser, information you submit to us to enter a contest, sweepstakes or promotion offered through the Service, etc.) with such Service Providers. In the event we offer services through this Service such as chat, email newsletters, email services, online classifieds and/or similar services, such services may be made available through cooperative arrangements with providers that specialize in operating such services. In some instances, our Service Providers will have the same access to your information as we do. Their use of the information will be subject to the terms of their respective privacy policies.</p> <p><strong><span style="text-decoration: underline;"> Contest Co-Sponsors</span></strong>. If you enter any contest, sweepstakes or other promotion that we make available through this Service, we may share the information you submit to us with the co-sponsor(s) of the contest, sweepstakes, or promotion. We will identify any co-sponsor(s) in the official rules for the promotion.</p> <p><strong><span style="text-decoration: underline;"> Our Affiliates</span></strong>. We may share any of the information that we collect from you (including anonymous information and personally identifying information that you may provide) with the other CMG Affiliate Sites within the CMG Network of Sites so that we and they can provide you with products and services that may be of interest to you.</p> <p><strong><span style="text-decoration: underline;">Sites to Which We Link</span></strong>. Our Service includes links to plenty of other websites, and provides access to products and services offered by third parties, whose privacy policies we don't control. When you access another site or purchase products or services or conduct other transactions through their sites, use of any information you provide is governed by the privacy statement of the operator of the site you're visiting or the provider of such products or services.</p> <p><strong><span style="text-decoration: underline;"> Other Disclosures</span></strong>. We reserve the right to release information about users of our Service when release is necessary or appropriate to comply with law, to enforce this privacy statement or our visitor agreement, or to protect the rights, property or safety of users of our Service, the public, our customers, or our company and its employees, agents, partners and Affiliates. As our business grows, we may buy or sell various assets. In the unlikely event that we merge with another entity or otherwise transfer substantially all of our assets to another entity (including, without limitation, to one of our Affiliates as part of an internal reorganization), information collected from this Service would be among the transferred assets.</p> <p><strong>SHOPPING</strong></p> <p>When you purchase products and/or services through our Service, we may ask you to provide us with certain information, including your contact details (such as your name, address, telephone and email), and your billing information (such as your credit card number and the date that your card expires). We may also ask you to provide additional information such as unique identifiers (such as your date of birth), and registration information (login name and password).</p> <p>We will use the information you provide us to process your transaction and to contact you regarding your purchase if necessary. We will share this information with our Service Providers to the extent necessary to facilitate your purchase (for purposes such as customer service, verification, fulfillment and billing purposes). We will not sell or rent your personal billing information to any third party. We may share non-financial information with our Service Providers in accordance with this privacy statement.</p> <p><strong>OPTING IN/OPTING OUT</strong></p> <p>In certain places on this Service (for example, when registering as a user of this Service, managing your account, shopping, or participating in activities like promotional contests), we may ask you to consent to the sharing of your information with third parties with which we have business relationships. If you provide such consent (for example, by checking a box or by some other means), we will make your information available to such third parties as described in the consent form so that they, we, or both may contact you directly regarding special offers, promotions, products or services that may be of interest to you.</p> <p>If you register with this Service, you will have the opportunity to review or update the information you have provided us at any time. You also have the option of deleting all information except for your email address. If you would like to completely deactivate your account, please contact us. Please note, however, that if you deactivate your account, you will not receive any newsletters from us and you will not be able to participate in any of our sweepstakes or contests. Also, even if you deactivate your account, you still need to go through a separate process to unsubscribe from any SMS alerts you previously signed up to receive. You can unsubscribe from these alerts by using the “STOP” function within those messages. You agree that, subject to applicable law, we may use your information to contact you for customer service, to inform you of important changes or additions to our Service or the services offered over our Service and to send you administrative notices or any communications relevant to your use of our Service.</p> <p>If you have subscribed to one of our email newsletters, you will always have the opportunity to unsubscribe from future mailings (for example, by clicking on an unsubscribe link in an email newsletter or by modifying your account settings on our Service).</p> <p>If you have submitted your information on a page provided in conjunction with one of our Service Providers, the information you submit may be jointly maintained by us and the Service Provider. If you decide to opt out of our Service, you may also need to contact the Service Provider separately to request the Service Provider to remove your information from its database.</p> <p><strong>DATA SECURITY</strong></p> <p>All information gathered through our Service is stored within database(s) operated by us or by a Service Provider on our behalf. We and/or our Service Providers secure the personally identifying information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. For e-commerce transactions where you provide sensitive financial data (e.g., credit card information) to us via this Service, we transmit your billing information using encryption. Encryption scrambles your credit card number and personal information. However, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply won't be intercepted while being transmitted to us over the Internet.</p> <p><strong>A NOTE ABOUT CHILDREN'S PRIVACY</strong></p> <p>This Service is not directed at children under the age of 13, and we won't knowingly allow anyone under age 13 to register with our Service or to provide any other personally identifying information. If you’re under 13, please do not provide us with any personally identifying information about yourself (such as your name, your email address or your phone number). If we become aware that we have collected any personally identifying information from a user under the age of 13, we will remove such information from our records as soon as possible.</p> <p><strong>CHANGES TO THIS PRIVACY STATEMENT</strong></p> <p>We may change the terms of this privacy statement or introduce new terms and conditions from time to time, in which case we will post an updated version of this privacy statement on this Service and will update the “Last Updated” date above to reflect the date the changes take effect. By continuing to use this Service after we post any such changes, you accept this privacy statement, as modified.</p><!-- end flatpage_content_override block -->
+</div>
+<!-- end page_content_override block -->
+                        </div>
+                        <!-- end page_container_override block -->
+
+                        <!-- begin janrain_override block -->
+                        <i class="jsinclude" style="display:none" data-key="currentSite" data-value="https://www.mydaytondailynews.com" data-literal="false"></i>
+<!-- end janrain_override block -->
+                        
+                        <!-- begin member_center_override block --> 
+                        <script src="https://membercenter.mydaytondailynews.com/sdk.js"></script>
+
+<i class="jsinclude" style="display:none" data-key="mc_prod" data-value="true" data-literal="true"></i>
+<i class="jsinclude" style="display:none" data-key="membercenter_url" data-value="https://membercenter.mydaytondailynews.com" data-literal="false"></i>
+<!-- end member_center_override block -->
+
+                        <!-- begin retargeting_pixels_footer_override block -->
+                        <div class="retargeting-pixel retargeting-pixel-footer" style="display:none">
+	</div>
+<!-- end retargeting_pixels_footer_override block -->
+                        
+                        <!-- begin footer_complete_override block -->
+                        <footer class="mastfoot desktop">
+	<div class="row">
+		<div class="footer-menu">
+	<div class="container">
+		<div class="footer-section">
+<h5>news<span class="arrow"></span>
+</h5>
+<div>
+<div>
+<ul class="unstyled">
+<li>
+<a target="_self" title="MyDaytonDailyNews.com" href="http://www.mydaytondailynews.com/">MyDaytonDailyNews.com</a>
+</li>
+<li>
+<a target="_self" title="Local &amp; State" href="/local">Local &amp; State</a>
+</li>
+<li>
+<a target="_self" title="U.S./World" href="/nation-world">U.S./World</a>
+</li>
+<li>
+<a target="_self" title="Politics" href="/politics">Politics</a>
+</li>
+<li>
+<a target="_self" title="Food" href="/food">Food</a>
+</li>
+<li>
+<a target="_self" title="Business" href="/business">Business</a>
+</li>
+<li>
+<a target="_self" title="Sports" href="/sports">Sports</a>
+</li>
+<li>
+<a target="_self" title="Travel" href="/travel">Travel</a>
+</li>
+</ul>
+<ul class="unstyled">
+<li>
+<a target="_self" title="Sign up for Newsletters" href="https://membercenter.mydaytondailynews.com/newsletters/">Sign up for Newsletters</a>
+</li>
+<li>
+<a target="_self" title="Sign up for Mobile Alerts" href="https://membercenter.mydaytondailynews.com/text-alerts/">Sign up for Mobile Alerts</a>
+</li>
+<li>
+<a target="_self" title="RSS Feeds" href="/feeds/">RSS Feeds</a>
+</li>
+<li>
+<a target="_self" title="Share a News Tip" href="/news/have-tip-share-with-the-team/lmmenX5UzLz9hEfCHV0qmN/">Share a News Tip</a>
+</li>
+<li>
+<a target="_self" title="Dayton Daily News" href="http://www.daytondailynews.com/">Dayton Daily News</a>
+</li>
+<li>
+<a target="_self" title="Dayton.com" href="http://www.dayton.com/">Dayton.com</a>
+</li>
+<li>
+<a target="_self" title="Archives" href="/archive/">Archives</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="footer-section">
+<h5>Customer Service<span class="arrow"></span>
+</h5>
+<div>
+<div>
+<ul class="unstyled">
+<li>
+<a target="_self" title="Subscribe" href="https://subscribe.daytondailynews.com/subscriptionpanel?premium=y&amp;product=desktop&amp;return=http://www.mydaytondailynews.com/">Subscribe</a>
+</li>
+<li>
+<a target="" title="Subscriber Services" href="https://membercenter.mydaytondailynews.com/manage-subscription">Subscriber Services</a>
+</li>
+<li>
+<a target="_self" title="Contact Us" href="https://membercenter.mydaytondailynews.com">Contact Us</a>
+</li>
+<li>
+<a target="_self" title="Our Products" href="https://membercenter.mydaytondailynews.com/products">Our Products</a>
+</li>
+</ul>
+<ul class="unstyled">
+<li>
+<a target="_self" title="Feedback" href="https://myaccount.daytondailynews.com/feedback.aspx">Feedback</a>
+</li>
+<li>
+<a target="_self" title="FAQs" href="http://www.mydaytondailynews.com/services/products/faqs/">FAQs</a>
+</li>
+<li>
+<a target="_self" title="Work Here" href="https://jobs.coxmediagroup.com/search-jobs/?ascf=[{%27key%27:%27travel%27,%27value%27:%27Cox%20Media%20Group%20Ohio,%20Inc.%27}]">Work Here</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="footer-section">
+<h5>Marketplace<span class="arrow"></span>
+</h5>
+<div>
+<div>
+<ul class="unstyled">
+<li>
+<a target="_self" title="Cars" href="http://www.daytondailynews.com/cars">Cars</a>
+</li>
+<li>
+<a target="_self" title="Jobs" href="http://www.daytondailynews.com/jobs">Jobs</a>
+</li>
+<li>
+<a target="_self" title="Homes" href="http://www.daytondailynews.com/homes">Homes</a>
+</li>
+<li>
+<a target="_self" title="Classifieds" href="http://www.daytondailynews.com/classifieds">Classifieds</a>
+</li>
+<li>
+<a target="_self" title="Shopping" href="/shopping/">Shopping</a>
+</li>
+<li>
+<a target="_self" title="Find&amp;Save Local Shopping" href="http://findnsave.daytondailynews.com/PrintCoupons">Find&amp;Save Local Shopping</a>
+</li>
+<li>
+<a target="_self" title="Advertise with Us" href="http://coxmediagroupohio.com/">Advertise with Us</a>
+</li>
+<li>
+<a target="_self" title="General Acceptance Policy" href="/general_acceptance_policy/">General Acceptance Policy</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="footer-section">
+<h5>Social Media<span class="arrow"></span>
+</h5>
+<div>
+<div>
+<ul class="unstyled">
+<li>
+<a target="_self" title="Facebook" href="https://www.facebook.com/daytondailynews">Facebook</a>
+</li>
+<li>
+<a target="_self" title="Instagram" href="https://www.instagram.com/daytondailynews/">Instagram</a>
+</li>
+<li>
+<a target="_self" title="Google+" href="https://plus.google.com/103336035898501112818">Google+</a>
+</li>
+<li>
+<a target="_self" title="LinkedIn" href="https://www.linkedin.com/company/cox-media-group-ohio?trk=hb_tab_compy_id_1353329">LinkedIn</a>
+</li>
+<li>
+<a target="_self" title="Pinterest" href="https://www.pinterest.com/daytondailynews/">Pinterest</a>
+</li>
+<li>
+<a target="_self" title="Twitter" href="https://twitter.com/daytondailynews">Twitter</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="footer-section">
+<h5>Subscribe<span class="arrow"></span>
+</h5>
+<div>
+<div>
+<ul class="unstyled">
+<li>
+<a target="_self" title="Subscribe" href="https://subscribe.daytondailynews.com/?premium=y&amp;product=desktop&amp;return=http://www.mydaytondailynews.com/">Subscribe</a>
+</li>
+</ul>
+</div>
+</div>
+</div><a href="#toolbar-logo" id="to-top">Top<span class="up-arrow"></span></a>
+	</div>
+</div>
+<div class="footer-terms">
+	<div class="container">
+		<p>© <span class="current-year">2018</span>
+			<a href="" target="_blank">Cox Media Group</a>.
+			By using this website, you accept the terms of our
+			<a href="/visitor_agreement/">Visitor Agreement</a> and
+			<a href="/privacy_policy/">Privacy Policy</a>, and understand your options regarding
+			<a href="/privacy_policy/#ad-choices">Ad Choices</a>
+			<img src="/r/PortalConfig/common/ads/ad-choices.svg" alt="AdChoices" class="ad-choices">
+			. Learn about
+			<a href="//jobs.coxmediagroup.com/" target="_blank">careers at Cox Media Group</a></p>
+	</div>
+</div>
+</div>
+</footer>
+<script id="extended-scripts-block">
+<!-- begin extended_scripts_override block -->
+<!-- end extended_scripts_override block -->
+</script>
+<!-- end footer_complete_override block -->
+                
+                        <!-- begin delayed_scripts_override block -->
+                        <!-- end delayed_scripts_override block -->
+                
+                        <!-- begin fb_script_override block -->
+                        <script async="" defer="" src="//connect.facebook.net/en_US/all.js#xfbml=1" id="facebook-jssdk"></script>
+                        <!-- end fb_script_override block -->
+                
+                        <!-- begin trueanthem_script_override block -->
+                        <script src="//tru.am/scripts/custom/coxmedia.js"></script>
+                        <!-- end trueanthem_script_override block -->
+
+                        <!-- begin ads_override block -->
+                        <script style="display:none">
+            googletag.cmd.push(function () {
+                
+                if (window.newrelic) {
+                    var pageload = performance.now();
+                    newrelic.addPageAction('cmg_ads_pageview', {
+                        cmg_ads_page_type: cmg.adconf.targeting.obj_type,
+                        cmg_ads_environment: cmg.adconf.targeting.environ,
+                        cmg_ads_media_type: cmg.adconf.targeting.mediatype,
+                        cmg_ads_adunit: cmg.adconf.adunit,
+                        cmg_ads_adunit_level_one: 'Dayton_NP',
+                        cmg_ads_adunit_level_two: 'myddn_web_default'
+                    });
+                    harmony.one('slotRenderEnded', function () {
+                        newrelic.addPageAction('cmg_ads_rendered', {
+                            cmg_ads_render_time: performance.now() - pageload,
+                            cmg_ads_page_type: cmg.adconf.targeting.obj_type,
+                            cmg_ads_environment: cmg.adconf.targeting.environ,
+                            cmg_ads_media_type: cmg.adconf.targeting.mediatype,
+                            cmg_ads_adunit: cmg.adconf.adunit,
+                            cmg_ads_adunit_level_one: 'Dayton_NP',
+                            cmg_ads_adunit_level_two: 'myddn_web_default'
+                        });
+                    }, true);
+                    harmony.on('slotRenderEnded', function (event) {
+                        event.slot._loadstart = performance.now();
+                    }, true);
+                    harmony.on('slotOnload', function (event) {
+                        newrelic.addPageAction('cmg_ads_load', {
+                            cmg_ads_slot: event.slot._name,
+                            cmg_ads_render_time: performance.now() - event.slot._loadstart,
+                            cmg_ads_page_type: cmg.adconf.targeting.obj_type,
+                            cmg_ads_environment: cmg.adconf.targeting.environ,
+                            cmg_ads_media_type: cmg.adconf.targeting.mediatype,
+                            cmg_ads_adunit: cmg.adconf.adunit,
+                            cmg_ads_adunit_level_one: 'Dayton_NP',
+                            cmg_ads_adunit_level_two: 'myddn_web_default'
+                        });
+                    });
+                }
+
+                
+                harmony.load.targeting(cmg.adconf.targeting);
+                harmony.load.breakpoints(cmg.adconf.breakpoints);
+
+                
+                if (cmg.adconf.breakpoints.length) {
+                    
+                    var currentBP = harmony.breakpoint();
+                    cmg.adconf.targeting.breakpoint = currentBP + 'px';
+                    googletag.pubads().setTargeting('breakpoint', currentBP + 'px');
+                    harmony.trigger('update/slots', currentBP);
+                    
+                    harmony.on('breakpoint/update', function (bp) {
+                        googletag.pubads().clear();
+                        googletag.pubads().setTargeting('breakpoint', bp + 'px');
+                        harmony.trigger('update/slots', bp);
+                        harmony.show.group('default');
+                        console.info('Ad System Update: Targeting key "breakpoint" changed to "' + bp + 'px"');
+                    }, true);
+                }
+
+                
+                if (!window.janrainSafariRefreshDetected) {
+                    harmony.show.group('default');
+                    harmony.trigger('ready');
+                }
+
+                
+                if (window.moatPrebidApi && moatPrebidApi.slotDataAvailable && moatPrebidApi.slotDataAvailable()) {
+                    moatPrebidApi.setMoatTargetingForAllSlots();
+                }
+            });
+        </script>
+<script style="display:none">
+    harmony.one('ready', function () {
+        function append(msg) {
+            msg = msg || '';
+            log += msg + '\n';
+        }
+        function title(name) {
+            log += '\n';
+            log += name;
+            log += '\n-------------\n'
+        }
+        var log = '/* -----===== Begin Ad Logs =====----- */\n';
+
+        title('Ad Unit:');
+        append(
+            cmg.adconf.adunit || 'ERROR: Ad unit could not be calculated!'
+        );
+        if (cmg.adconf.adunitOverride) {
+            append('WARNING: Ad unit override is active.');
+        }
+        
+
+        title('Breakpoints:');
+        append(
+            cmg.adconf.breakpoints.length ? cmg.adconf.breakpoints : 'None defined'
+        );
+
+        title('System Targeting:');
+        append(
+            JSON.stringify(cmg.adconf.targeting, null, 3) || 'WARNING: None defined.'
+        );
+
+        title('Slot Configurations:');
+        if (!cmg.adconf.slotconf.length) {
+            append('WARNING: This page contains no ad slots.');
+        }
+        var slotList = [];
+        cmg.adconf.slotconf.forEach(function (slot) {
+         if (slotList.indexOf(slot.name) == -1) {
+             slotList.push(slot.name);
+            append(slot.name);
+
+            append('. default sizes:');
+            slot.sizes = slot.sizes || [];
+            if (!slot.sizes.length) {
+                append('\tNone defined');
+            }
+            slot.sizes.forEach(function (size) {
+                append('\t' + size);
+            });
+
+            append('. group: ' + slot.group);
+            append('. companion? ' + (slot.companion ? 'yes' : 'no'));
+            append('. out-of-page? ' + (slot.interstitial ? 'yes' : 'no'));
+            append('. targeting: ' + JSON.stringify(slot.targeting, null, 3));
+
+            append('. size mapping:');
+            slot.mapping = slot.mapping || [];
+            if (!slot.mapping.length) {
+                append('\tNone defined');
+            }
+            slot.mapping.forEach(function (breakpoint) {
+                append('\tat width ' + breakpoint[0][0] + 'px, use sizes:');
+                if (!breakpoint[1].length) {
+                    append('\t\tNone defined');
+                }
+                breakpoint[1].forEach(function (size) {
+                    append('\t\t' + size);
+                });
+            });
+
+            append();
+        }
+        });
+
+        title('System Information:');
+        append('Methode tags version 4.0.4');
+        append('Harmony version ' + harmony.version);
+
+        log += '\n/* -----====== End Ad Logs ======----- */\n';
+
+        console.info(log);
+    });
+</script>
+<!-- end ads_override block -->
+                
+                        <!-- begin newrelic_footer_override block -->
+                        <script>_satellite.pageBottom();</script>
+                        
+
+
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"applicationID":"19209659","applicationTime":64,"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"aaf23b031f","transactionName":"MQYHNRZYCkZVBxcKVghMLzI0FgFaWUszDEsSAgkiC1cCXFNLDRNmVlNXBQtXARpSFgIOXBUGET5UCVZRUggCF0kHBAA+DkkQ","agent":"","errorBeacon":"bam.nr-data.net"}</script>
+
+<!-- end newrelic_footer_override block -->
+                    
+
+
+    </body></html>
