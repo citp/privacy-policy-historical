@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wallethacks.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628121544id_/https%3A//wallethacks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallethacks.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228180810id_/https%3A//wallethacks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Privacy Policy for Wallet Hacks
 
-Jim Wang Enterprises, LLC (“Company,” “we,” or “us”) respects your privacy and is committed to protecting it through this Privacy Policy.
+Wallet Hacks (“Company,” “we,” or “us”) respects your privacy and is committed to protecting it through this Privacy Policy.
 
 This Privacy Policy governs your access to and use of Wallet Hacks, including any content, functionality and services offered on or through Wallet Hacks (the “Website”), whether as a guest or a registered user.
 
@@ -124,8 +124,8 @@ Contact Us
 
 The Company welcomes your questions or comments regarding the Privacy Policy:
 
-Jim Wang Enterprises, LLC  
-PO Box 323  
+Wallet Hacks  
+PO Box #323  
 Fulton, MD 20759
 
 Email Address: jim@wallethacks.com
