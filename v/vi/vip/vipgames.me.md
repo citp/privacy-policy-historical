@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vipgames.me privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629055111id_/http%3A//vipgames.me/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vipgames.me privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228232214id_/http%3A//vipgames.me/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – VIPGames
 
@@ -54,7 +54,7 @@ You may choose to set your web browser to refuse cookies or to alert you when co
 
 You can also prevent the collection of your data by Google Analytics by visiting Google Analytics opt-out page and installing the Google add-on for your browser. <https://tools.google.com/dlpage/gaoptout> or visit <https://www.google.com/settings/ads> to set your settings for Google Analytics, Google AdWords, and Google DoubleClick.
 
-You may opt-out from having Hotjar collect your information when visiting our Sites and Services at any time by visiting [www.hotjar.com/opt-out](https://web.archive.org/web/20180629055111id_/http://vipgames.me/en/privacy-policy/www.hotjar.com/opt-out) and clicking ‘Disable Hotjar’.  
+You may opt-out from having Hotjar collect your information when visiting our Sites and Services at any time by visiting [www.hotjar.com/opt-out](https://web.archive.org/web/20181228232214id_/http%3A//vipgames.me/en/www.hotjar.com/opt-out) and clicking ‘Disable Hotjar’.  
 For more details on installing and uninstalling the Google add-on, Google Analytics, Google DoubleClick or AdWords, please visit Google’s website.
 
 ##### HOW WE USE COLLECTED INFORMATION
