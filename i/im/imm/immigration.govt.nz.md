@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the immigration.govt.nz privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628043122id_/https%3A//www.immigration.govt.nz/about-us/site-information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the immigration.govt.nz privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228105459id_/https%3A//www.immigration.govt.nz/about-us/site-information/privacy) for the most accurate reproduction.*
 
 # Privacy | Immigration New Zealand
 
@@ -23,7 +23,8 @@ Storage of information INZ has a legal obligation to protect any information we 
 
 You can find further information on INZ’s obligations to protect your information here:
 
-[Immigration Act 2009](http://www.legislation.govt.nz/act/public/2009/0051/latest/DLM1440303.html?search=ts_act%40bill%40regulation%40deemedreg_immigration+act_resel_25_a&p=1)  
+[Immigration Act 2009](http://www.legislation.govt.nz/act/public/2009/0051/latest/DLM1440303.html?search=ts_act%40bill%40regulation%40deemedreg_immigration+act_resel_25_a&p=1)
+
 [Privacy Act 1993](https://www.privacy.org.nz/)
 
 The Privacy Commissioner's website has more information on the privacy laws in New Zealand.
@@ -44,6 +45,8 @@ INZ will not disclose your information to any third-party in a form that will id
 Please note that INZ is authorised to share information with other government agencies under applicable law.
 
 INZ may also use your information to determine your entitlement to board a flight to New Zealand. Your personal information is not shared with airline check-in agents. When you check in to board a flight, the check-in agent only sees a boarding instruction based on the information you have provided in any application you submit.
+
+[How we collect and use information about people flying in and out of NZ](https://www.immigration.govt.nz/about-us/policy-and-law/identity-information-management/how-we-collect-use-information-about-people-flying-in-out-nz)
 
 INZ may use your information to contact you for research purposes or to advise you on immigration matters.
 
