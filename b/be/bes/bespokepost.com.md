@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bespokepost.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628081656id_/https%3A//www.bespokepost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bespokepost.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228142438id_/https%3A//www.bespokepost.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Bespoke Post
 
 Privacy Policy
 
-This Privacy Policy describes the policies and procedures of nabfly, Inc, doing business as Bespoke Post ("we", "our" or "us") on the collection, use and disclosure of your information on bespokepost.com (the "Site") and the services, features, content or applications we offer (collectively with the Site, the "Services"). We receive information about you from various sources, including: (i) if you register for the Site and the Services, through your user account on the Services (your "Account"); (ii) your use of the Services generally; and (iii) from third party websites and services. When you use the Services, you are consenting to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy. The Services are not available to individuals under 18 years of age.
+This Privacy Policy describes the policies and procedures of nabfly, Inc, doing business as Bespoke Post ("we", "our" or "us") on the collection, use and disclosure of your information on bespokepost.com (the "Site") and the services, features, content or applications we offer (collectively with the Site, the "Services"). We receive information about you from various sources, including: (i) if you register for the Site and the Services, through your user account on the Services (your "Account"); (ii) your use of the Services generally; and (iii) from third party websites and services. When you use the Services, you are consenting to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy. The Services are not available to individuals under 18 years of age. The Site and Services are intended for users who access the Site from the United States or Canada.
 
 What Does This Privacy Policy Cover?
 
@@ -46,7 +46,7 @@ IP Address Information and Other Information Collected Automatically
 
 We automatically receive and record information from your web browser when you interact with the Services, including your IP address, location, browser or mobile platform, cookie information, and page information you requested. This information is used to facilitate collection of data concerning your interaction with the Services (e.g., what links you have clicked on).
 
-We treat this information as non-Personal information, except where required to do so by applicable law. In addition, the Services automatically collect usage information, such as the number and frequency of visitors to the Site. We may also use this data in aggregate form, that is, as a statistical measure. This type of aggregate data enables us and third parties authorized by us to determine how often individuals use parts of the Services so that we can analyze and improve them.
+We treat this information as non-Personal information, except where required to do so by applicable law. In addition, the Services automatically collect usage information, such as the number and frequency of visitors to the Site. We collect information about devices accessing the Services, including type of device, which operating system is used, device settings, application IDs, and unique device identifiers. We may also use this data in aggregate form, that is, as a statistical measure. This type of aggregate data enables us and third parties authorized by us to determine how often individuals use parts of the Services so that we can analyze and improve them.
 
 Email Communications
 
@@ -142,17 +142,13 @@ What Information of Mine Can I Access?
 
 If you are a registered user, you can access information associated with your Account by logging into the Services. Registered and unregistered users can access and delete cookies through their web browser settings.
 
-California Privacy Rights: Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of personal customer information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: 1500 Broadway, Suite 802, New York, NY 10036.
+California Privacy Rights: Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of personal customer information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: 151 W 25th St, Fl 5, New York, NY 10001.
 
 What Choices Do I Have Regarding My Information?
 
 You can always opt not to disclose certain information to us, even though it may be needed to take advantage of the Services.
 
-can delete your Account by emailing
-
-[accounts@bespokepost.com.](mailto:accounts@bespokepost.com)
-
-note that we will need to verify that you have the authority to delete the Account, and activity you provided us or posted on the Site prior to deletion will remain stored by us and may be publicly accessible.
+You can delete your Account by emailing [accounts@bespokepost.com.](mailto:accounts@bespokepost.com) Please note that we will need to verify that you have the authority to delete the Account, and activity you provided us or posted on the Site prior to deletion will remain stored by us and may be publicly accessible. 
 
 What Happens When There Are Changes to this Privacy Policy?
 
@@ -160,10 +156,6 @@ We may amend this Privacy Policy from time to time. Use of information we collec
 
 What If I Have Questions or Concerns?
 
-you have any questions or concerns regarding privacy using the Services, please send us a detailed message to
+If you have any questions or concerns regarding privacy using the Services, please send us a detailed message to [legal@bespokepost.com.](mailto:legal@bespokepost.com) We will make every effort to resolve your concerns. 
 
-[legal@bespokepost.com.](mailto:legal@bespokepost.com)
-
-will make every effort to resolve your concerns.
-
-Effective Date: October 20, 2011
+Effective Date: June 28, 2018
