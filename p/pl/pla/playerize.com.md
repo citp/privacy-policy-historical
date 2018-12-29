@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playerize.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623013016id_/http%3A//www.superrewards.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playerize.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229071551id_/http%3A//superrewards.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SuperRewards
 
@@ -112,4 +112,4 @@ To keep your Personal Information accurate, current and complete, please contact
 
 If you want to verify the accuracy of the Personal Information we hold about you and to have a general account of our uses of that information, you may request the same in writing (see further Contact Details below) and we will provide you with a copy of your Personal Information although in certain limited circumstances, we may not be able to make all relevant information available to you such as where that information also pertains to another user.  In such circumstances we will provide reasons for the denial to you upon request.  We will endeavour to deal with all requests for access and modifications in a timely manner.
 
-**Contact Details.**  If you have any questions or complaints about this Privacy Policy, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6616140f1007051f261513160314140311071402154805090b); or by regular mail at SuperRewards, Inc., Attn: Privacy Officer, to SuperRewards’s main offices located at 180 Sansome, 4th Floor c/o Playerize, San Francisco, CA, 94104.
+**Contact Details.**  If you have any questions or complaints about this Privacy Policy, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ec9c9e859a8d8f95ac9f999c899e9e899b8d9e889fc28f8381); or by regular mail at SuperRewards, Inc., Attn: Privacy Officer, to SuperRewards’s main offices located at 180 Sansome, 4th Floor c/o Playerize, San Francisco, CA, 94104.
