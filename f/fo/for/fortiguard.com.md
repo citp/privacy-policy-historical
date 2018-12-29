@@ -1,150 +1,333 @@
-> *The following text is extracted and transformed from the fortiguard.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003073913id_/https%3A//www.fortinet.com/corporate/about-us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fortiguard.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229174555id_/https%3A//www.fortinet.com/corporate/about-us/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Fortinet Privacy Policy
 
-_Effective Date: March 6, 2017_
-
-This is the Privacy Policy of Fortinet, Inc. and Fortinet Singapore Private Limited (collectively, “Fortinet,” “we,” “our,” or “us”). We provide security solutions that protect networks, users, and data from continually evolving threats. This Privacy Policy covers Fortinet’s handling of two categories of information:
-
-  1. Information we receive through our products, support, or cloud-based services (collectively, the “Fortinet Services”), and
-  2. Information we receive through our website at [www.fortinet.com](https://web.archive.org/) or any other Fortinet website on which this Policy is posted (“Fortinet Websites”).
+### Effective Date: May 25, 2018  
 
 
+This is the Privacy Policy of Fortinet, Inc. and its wholly-owned subsidiaries (collectively, “Fortinet,” “we,” “our,” or “us”). We provide security solutions that help protect the data and systems of our business customers from continually evolving risks. It is Fortinet’s policy to provide security and privacy.  Each are important, and they are sometimes co-dependent.  We believe in Security by Design and Privacy by Design. This Privacy Policy covers Fortinet’s handling of two categories of information:
 
-**1.  Privacy Practices Specific to Fortinet Services**
+1\. Personal data that our partners and customers ask us to process on their behalf (“Processor Data”).  Fortinet offers security products and services, and related support and professional services (the “Fortinet Services”), including FortiGuard, FortiCare, FortiCloud, FortiSandbox Cloud, and FortiMail Cloud.  With some exceptions as identified below, under applicable law, in certain contexts Fortinet is considered the “processor” of the personal data we receive through the Fortinet Services, and the “controller” of the data (i.e., the company with the right to decide how the data is used) is our customer, or our customers’ customer.
 
-    a.  Information Collected Through the Fortinet Services
+2\. Personal data that we handle for our own business (“Controller Data”), other than for our human resources and recruiting operations.  This includes, for example: personal data we use for marketing, sales and customer relationship management
 
-Through the Fortinet Services, we may collect or process (sometimes just momentarily) a variety of information about users of the Fortinet Services and associated devices and networks connected with the Fortinet Services, including:
-
-  * Device identifiers, IP addresses, and other information about computing systems, applications and networks
-  * Information about activity on computing systems, applications and networks; and
-  * File and communications content and metadata; and
-  * Information provided to us through dashboards or portals associated with the Fortinet Services.
+  *     Certain personal data about third-party threat actors that we process to help protect our customers, such as the IP address of certain hacker-controlled devices that attempt cyberattacks on our customers
 
 
+  *     Personal data we handle in connection with the Network Security Expert Institute, the Fortinet Network Security Academy and other training and certification programs
 
-   b.  Uses of Information Collected Through the Fortinet Services
 
-Subject to applicable contractual and legal restrictions, and depending on the particular Fortinet Services at issue, we use and disclose the information described above (sometimes in combination with other information we obtain) for the following purposes:
+  *     Personal data about personnel of our business partners and suppliers
+
+
+  *     Point of Sale data
+
+
+  *     Personal data about event participants
+
+
+  *     Investor relations personal data
+
+
+  *     Other business-related personal data collected on our websites and elsewhere for our own business (such as online forum registrations)  
+
+
+
+
+Under applicable law, Fortinet is a “controller” of this data, in certain contexts.
+
+This Privacy Policy includes details specific to Processor Data, details specific to Controller Data, and information relevant to our handling of both kinds of data. 
+
+  1. **Privacy Practices Specific to Processor Data**
+
+
+
+a.  _Types of Processor Data We Collect_
+
+We receive information from or on behalf of our customers and their users.  Because of the nature of the Fortinet Services, this information may contain any type of personal data.  For example, we may collect the following types of information, that may be Processor Data, through the Fortinet Services:
+
+  * Device identifiers, IP addresses, firmware versions, operating system, time zone, language, MAC addresses, and other information about computing systems, applications, and networks
+
+
+  * Names, emails, age, gender, phone numbers, photographs
+
+
+  * Information about activity on computing systems, applications, and networks
+
+
+  * File and communications content and metadata, Antivirus and other malware statistics and files
+
+
+  * System logs and traffic, including URLs
+
+
+  * Information provided to us through dashboards or portals associated with the security and firewall solutions of the Fortinet Services, such as troubleshooting requests and security inquiries regarding files, systems, and URLs.
+
+
+
+Some of the technical information listed above is considered personal data in certain contexts.  Fortinet also collects Processor Data through the technology described in the Cookies and Similar Automated Data Collection section below. We use Processor Data as described in the following section.
+
+b.  _Uses of Processor Data_
+
+Subject to our contractual obligations, and depending on the particular Fortinet Services, we may use and disclose the information described above (sometimes in combination with other information we obtain, such as from our customers) as follows:
 
   * To provide the Fortinet Services, including by:
-    * Analyzing and improving the Fortinet Services
-    * Providing maintenance and technical support;
-    * Providing product upgrades;
-    * Managing and renewing subscriptions;
-  * To enforce the legal terms that govern the Fortinet Services;
-  * To comply with law and protect rights and property.
-  * For other purposes requested or authorized by our users.
 
 
 
-Various Fortinet Services use automated technology to recognize and defend against cybersecurity threats, such as by blocking or quarantining suspected malicious data.  In addition, to improve cybersecurity, Fortinet may exchange certain threat indicators, such as virus signatures or techniques for detection of malicious activity, with other cybersecurity organizations.
+o   Providing maintenance and technical support
 
-Certain Fortinet Services make certain information they collect available to the customer that manages the service.  For details about that customer’s handling of the data, please contact that customer. 
+o   Providing product upgrades
 
-We conduct the above activities on the basis of our legitimate interests in operating our business and protecting our customers.  Where appropriate, these activities also are conducted on the basis of consent.
+o   Addressing security and business continuity issues
 
-**2.  Privacy Practices Specific to Fortinet Websites**
+o   Analyzing and improving the Fortinet Services
 
-     a.  Information Collected Through the Fortinet Websites
+  * To enforce the legal terms that govern the Fortinet Services
 
-When you use the Fortinet Websites, we may collect information when you provide information directly to us and when we passively collect information from you.
 
-                                i.     Information You Provide to Us Through the Fortinet Websites
+  * To comply with law and protect rights, safety and property
 
-Such information you may provide to us may include, without limitation, your name; address; phone number; email address; and credit card number or other payment details. For example, we collect this information when you fill out an online form, contact us for information or customer support, register to use a service, make a purchase, and request certain features (e.g., newsletters, updates, and other products).  
 
-In order to tailor our communications to you and continuously improve our products and services (including registration), we may also ask you to provide us with information regarding your personal or professional interests, experience with our products, and more detailed contact preferences. You always have the option of choosing not to provide us with this information.
-
-We may enable you to send communications to us or to third parties, such as through our live chat feature. All such communications become our property once you submit them.  Without limiting the foregoing, when you provide us with suggestions or feedback for any of our products and services, you grant us an irrevocable, exclusive, royalty-free, perpetual, worldwide license to use, modify, prepare derivative works, publish, distribute and sublicense the suggestions or feedback.  When you choose to initiate communication with us, or anyone else, you may be contacted in return. Please use your discretion when deciding whether and what to communicate. We reserve the right, in our sole discretion, to monitor, edit or delete communications transmitted to us or that are made publicly available on the Fortinet Websites, but we have no obligation to do so, and we will not be liable for any such edits or deletions.
-
-                              ii.     Information Collected Automatically Through the Fortinet Websites
-
-We may automatically collect information about how you access and use the Fortinet Websites. For example, we may collect and store information such as your browser type, IP address, language, operating system, the state or country from which you accessed the Fortinet Websites, the pages you view, the services you use, the date and time of your visit, the websites you visited immediately before and after visiting our websites, error logs, and other hardware and software information.  Fortinet may maintain logs of the traffic that visits the Fortinet Websites. Log files are used to manage traffic loads and information technology requirements for providing reliable service and for other purposes described in this Privacy Policy. We may use third party analytics providers, such as Google Analytics, and various technologies, including cookies and similar tools, to assist in collecting this information. We may use this information to formulate statistical models about use of the Fortinet Websites, enhance the Fortinet Websites for our users, and provide you with tailored content and advertising. To prevent Google Analytics from using your information in a particular browser for analytics, you may install the Google Analytics Opt-Out Browser Add-on by clicking [here](http://tools.google.com/dlpage/gaoptout)
-
-_Cookies_. The Fortinet Websites may use cookie technology and similar online tools, such as web beacons and web pixels. “Cookies” are small files that a website stores on a user’s computer or device.  We use cookies to identify customers when they visit our sites. Cookies are used to remember user preferences and maximize performance of the Fortinet Websites. Additionally, cookies help us to identify returning users so that we don't ask them to enter their email and password with every visit. Most web browsers automatically accept cookies, but you may set your browser to block cookies (consult the instructions for your particular browser on how to do this). Please note that if you decide to block cookies, this may interfere with your ability to perform certain transactions, use certain functionality, and access certain content on the Fortinet Websites.
-
-_Tailored Advertising_.  The Fortinet Websites may include third-party cookies and other ad technology that enables customized ads to be displayed to you through the Fortinet Websites and elsewhere online. When you use the Fortinet Websites, we or third parties operating the ad serving technology may use device or similar information that is collected through cookies, web beacons, pixels, clear GIFs, or similar technologies to customize ads and to perform analytics concerning your use of the Fortinet Websites and other websites tracked by these third parties. These technologies also may control the number of times you see a given ad, deliver ads that relate to your interests, and measure the effectiveness of ad campaigns. To the extent any of this information is collected by third parties, you acknowledge and agree that such collection and use is governed by those third parties’ privacy policies and we are not responsible for the privacy practices of such third parties. Cookies may be associated with de-identified data linked to or derived from data you voluntarily have submitted to us (e.g., your email address) that we may share with a service provider in hashed, non-human readable form.
-
-For more information about tailored ads and your choices to prevent some of these third parties from delivering tailored ads, you may visit the following third party websites: the [Network Advertising Initiative Consumer Opt-Out Page](http://www.networkadvertising.org/choices/) or the [Digital Advertising Alliance’s Consumer Opt-Out Page](http://www.aboutads.info/choices/).  You can also visit the [Google Ad Settings page](https://www.google.com/settings/u/0/ads/authenticated) adjust your preferences regarding certain ads facilitated by Google. Please note that you will still receive ads even if you opt out of tailored ads. In that case, the ads will just not be tailored to your interests. If your browser is configured to reject cookies when you visit an opt-out page, or you subsequently erase your cookies, use a different computer or change web browsers, your opt-out may no longer be effective. Also, the opt-out services identified above are controlled by those third parties, not Fortinet, and Fortinet does not control which companies choose to participate in those programs.
-
-_Do Not Track_. We are committed to providing you with meaningful choices about the information collected on our Services for third party purposes, and that is why we provide the various advertising opt outs above. However, we do not recognize or respond to browser-initiated Do Not Track signals, as the Internet industry is still working on Do Not Track standards, implementations and solutions.
-
-      b.     Use of Your Information Collected Through the Fortinet Websites
-
-Fortinet uses and discloses information collected though the Fortinet Websites to better understand your needs and provide better service. We may use the information to:
-
-  * Process and respond to your inquiries
-  * Help you complete a transaction, including fulfillment of orders and promotional offers;
-  * Manage and renew your subscription(s).
-  * Send you marketing or other communications that may be of interest to you;
-  * Update you on service and benefits;
-  * Analyze the accuracy, effectiveness, usability, or popularity of the Fortinet Websites;
-  * Improve the content and features of the Fortinet Websites, Fortinet Services or develop new products and services;
-  * Administer and troubleshoot the Fortinet Websites;
-  * Enforce the legal terms that govern the Fortinet Websites;
-  * Comply with law and protect rights and property.
-  * For other purposes requested or authorized by our users.
+  * For other purposes requested or permitted by our customers or users, or as reasonably required to perform our business.
 
 
 
-We conduct those activities either on the basis of our legitimate interests in operating our business or on the basis of consent.
+Many Fortinet Services use automated technology to recognize and defend against cybersecurity risks, such as by blocking or quarantining suspected malicious data.  To better protect our customers and assist them with their own security compliance, some Fortinet Services use external threat information gathered in these situations to improve security for customers of Fortinet Services in similar situations.  For example, if certain Fortinet services determine that a hacker is attacking some of our customers, we may use information about that threat in order to help protect other customers from similar attacks.  This provides our customers’ data with much better protection than what would be possible if our services could not learn from experience.   We handle “Threat Data” like this as described in the “Privacy Practices Specific to Controller Data” section below. 
 
-**3.  Additional Information About Our Privacy Practices (applicable to both Fortinet Services and Fortinet Websites)**
+c.  _Disclosures of Processor Data_
 
-a.   Information from Third Parties
-
-We may obtain additional information about you from third parties such as marketers, partners, researchers, and others. We may combine information that we collect from or about you with information we obtain about you from such third parties and affiliates and information derived from any other subscription, product, or service we provide.
-
-b.  Aggregated or De-Identified Data
-
-We may aggregate and/or de-identify information collected by the Fortinet Websites or Fortinet Services or via other means so that the information does not identify you. Our use and disclosure of aggregated, anonymized, and other non-personal information is not subject to any restrictions under this Privacy Policy, and we may disclose it to others without limitation for any purpose.
-
-c.  Sharing of Your Information
-
-We may share your information in the following ways:
-
-  * We may share information with other companies and individuals that assist us.
-  * We may access or disclose information about you, including the content of your communications, when we believe in good faith that such disclosure is necessary and appropriate in order to: (a) comply with the law or respond to lawful requests or legal processes; (b) protect the rights or property of Fortinet or our partners or customers, including the enforcement of our agreements or policies; or (c) protect the personal safety of individuals such as Fortinet employees, partners, customers or the public.
-  * We may share your information with any affiliate or agent of Fortinet in order to provide the Services or perform services on our behalf.
-  * We may also disclose, sell or assign personal information in connection with or in anticipation of a corporate transaction, such as a merger, acquisition, sale of assets or restructuring.
-  * We may also share your information when we have appropriate consent or when otherwise permitted by law.
+Subject to our contractual obligations, and depending on the particular Fortinet Services, we may share the information described above as follows:  
 
 
+  * To provide the Fortinet Services, which can involve sharing personal data with our customer and with third parties selected by the customer or its users
 
-d.  Your Email Marketing Choices
 
-If you provide us with your email address, we may occasionally send you emails with recommendations or notices regarding our products, prices, and services. This email may include paid advertisements from third parties. We will include unsubscribe instructions with such commercial communications. Please note that these opt-out processes may take some time to complete, consistent with applicable law.
+  * To enforce the legal terms that govern the Fortinet Services
 
-Separately, we send service notifications via email to keep you informed about the status of your service orders or accounts and to provide updates and technical notices. These messages are informational and essential to the maintenance of your subscription and the functionality of our services.  There is thus no opt-out for service notifications.
 
-e.   Third Party Links and Services
+  * To comply with law, and where we deem disclosure appropriate to protect rights, safety and property (for example, for national security or law enforcement)
 
-The Fortinet Services and Fortinet Websites may contain links to third-party websites, including social networking websites. Your use of these features may result in the collection or sharing of information about you, depending on the feature. Please be aware that we are not responsible for the content or privacy practices of other websites or services to which we link. We do not endorse or make any representations about third-party websites or services. The personal information you choose to provide to or that is collected by these third parties is not covered by our Privacy Policy. We strongly encourage you to read such third parties’ privacy policies.
 
-f.  Security of Your Personal Information
+  * As part of an actual or contemplated business sale, merger, consolidation, change in control, transfer of substantial assets or reorganization
 
-We have put in place physical, electronic, and managerial procedures to safeguard data and help prevent unauthorized access, to maintain data security, and to use correctly the data we collect.  However, we cannot assure you that data that we collect will never be disclosed in a manner that is inconsistent with this Privacy Policy.
 
-If a password is used to help protect your personal information, it is your responsibility to keep the password confidential. Do not share this information with anyone.
+  * For other purposes requested or permitted by our customers or users, or as reasonably required to perform our business.
 
-g.  Additional Details About Your Personal Information Rights
 
-You may review and update certain user information by logging in to the relevant portions of the Fortinet Services or Fortinet Websites where such information may be updated.   In addition, the law of your jurisdiction may give you the right to request access to and rectification or erasure of certain personal data we hold.  It may also give you the right to request restrictions on the processing of your personal data, or to withdraw consent for the processing of your personal data.  You may contact us as described below to make these requests.  In situations in which we process your personal data only on behalf of our customer (typically the case with respect to our processing of personal data collected through the Fortinet Services), we may refer your request to the relevant customer and cooperate with their handling of the request.  You may contact us with any concern or complaint regarding our privacy practices, and you also may lodge a complaint with the relevant governmental authority.
 
-h.  International Data Transfer
+For those purposes, we may share information with our affiliates and other entities that help us with the activities described in this Privacy Policy.
 
-The data centers that hold data collected from Fortinet Services are located in the European Union and in Canada (on the basis of the European Commission’s decision 2002/2/EC, which recognizes that the Canadian Personal Information Protection and Electronic Documents Act provides adequate data protection).  This data is not hosted in the United States.  Certain commercial data, such the name, phone number and email address of our main contact at each customer, may be stored in the United States or elsewhere outside your country.
+**2.** **Privacy Practices Specific to Controller Data**
 
-i.   Your California Privacy Rights.
+a. _Types of Controller Data We Collect_
 
-Subject to certain limitations, California law permits California residents to request and obtain from us a list of the third parties to whom we have disclosed personal information (if any) for the recipient’s direct marketing purposes in the prior calendar year, as well as the type of personal information disclosed to those parties. If you are a California resident and would like to request this information, please submit your request in an email to [privacy@fortinet.com](mailto:privacy@fortinet.com).
+Controller Data includes two general categories of data: Business Data and Threat Data.
 
-j.  Notification of Changes
+For example, Business Data may include:
 
-Fortinet reserves the right to change this Privacy Policy at any time to reflect changes in the law, our data collection and use practices, the features of our services, or advances in technology. Please check this page periodically for changes. Your continued use of the services following the posting of changes to this policy will mean you accept those changes.
+  * Contact details and professional details, e.g., name, email address, phone number, title and name of company
 
-**Contact Information**
 
-If you have questions regarding our practices or this Privacy Policy, please contact us at [privacy@fortinet.com](mailto:privacy@fortinet.com).  Additional contact options are [here](https://www.fortinet.com/corporate/about-us/contact-us.html).
+  * Information about users’ experience with our products, services, events and online forums and communities, such as the Fortinet Developer Network
+
+
+  * Information about actual or prospective customer personnel’s other interactions with Fortinet, e.g., procurement and customer service
+
+
+  * Details about certification candidates, including contact information, identity documents and other personal data collected for authentication of the candidate’s identity and test security, and testing results
+
+
+  * Information about actual or prospective users’ interests
+
+
+  * Payment information for Fortinet products and services
+
+
+  * Data from Fortinet-approved distributors
+
+
+
+We obtain Business Data directly from the relevant individuals or their employers, and also from third-party sources, such as credit card issuers, clearinghouses, data brokers, fraud databases, referrals from customers and users, as well as publicly-available sources such as company websites.
+
+Fortinet also is considered a controller of certain personal data relevant to security threats, i.e. Threat Data.  To the extent it is personal data, Threat Data includes IP addresses, device identifiers, URLs, and other data associated with malicious activity.  We obtain Threat Data through Fortinet Services, publicly available sources such as online forums, other security providers and researchers, and independent research.
+
+As described above, we act as a processor for most of the Fortinet Services. We are, however, a controller under applicable law with respect to Threat Data.
+
+Fortinet also collects Business Data and Threat Data through the technology described in the Cookies and Similar Automated Data Collection section below.  We use all Controller Data as described in the following section. 
+
+b.  _Uses of Controller Data (Business Data and Threat Data)_
+
+Fortinet uses Controller Data as follows:
+
+  * To provide our products, services, events, websites, communities, training, certifications and other business offerings
+
+
+  * For marketing, advertising and other communications (including customizing and tailoring all of them for the particular recipient)
+
+
+  * To manage our relationships with customers, partners, suppliers, event attendees, and others
+
+
+  * For surveys and other market research
+
+
+  * For cybersecurity research
+
+
+  * To analyze, improve and create Fortinet Services and other business offerings
+
+
+  * To enforce the legal terms that govern our business and online properties
+
+
+  * To provide security and business continuity
+
+
+  * To comply with law and protect rights, safety and property
+
+
+  * For other purposes requested or permitted by our customers or users, or as reasonably required to perform our business.
+
+
+
+c.  _Disclosures of Controller Data (Business Data and Threat Data)_
+
+Subject to our contractual obligations, we share the information described above as follows:
+
+  * For the uses of information described above
+
+
+  * As part of an actual or contemplated business sale, merger, consolidation, change in control, transfer of substantial assets or reorganization
+
+
+  * For other purposes requested or permitted by our customers or users, or as reasonably required to perform our business.
+
+
+
+For those purposes, we may share information with our affiliates and other entities that help us with the activities described in this Privacy Policy.
+
+d.  _Legal Bases for Processing Controller Data (Business Data and Threat Data)_
+
+The laws in some jurisdictions require companies to tell you about the legal ground they rely on to use or disclose your personal data. To the extent those laws apply, our legal grounds for processing Controller Data are as follows:
+
+  * _Legitimate interests_ :  In most cases, we handle personal data on the ground that it furthers our legitimate interests in commercial activities such as the following in ways that are not overridden by the interests or fundamental rights and freedoms of the affected individuals:
+
+
+
+o   Protecting our business, personnel and property
+
+o   Customer service
+
+o   Marketing
+
+o   Analyzing and improving our business; and/or
+
+o   Managing legal issues
+
+We may also process personal data for the same legitimate interests of our customers and business partners.
+
+  * _To honor our contractual commitments_ to the individual:  Some of our processing of personal data is to meet our contractual obligations to individuals, or to take steps at customers’ request in anticipation of entering into a contract with them.
+
+
+  * _Consent_ :  Where required by law, and in some other cases, we handle personal data on the basis of consent.  Where legally required (e.g., for the use of fingerprints for security purposes in certain jurisdictions), this is explicit consent.
+
+
+  * Some of our processing of Threat Data (and some other data) is _necessary for the performance of a task carried out in the public interest_ (i.e., cybersecurity, including the protection of personal data).
+
+
+  * _Legal compliance_ :  We need to use and disclose personal data in certain ways to comply with our legal obligations.
+
+
+
+**3\. Additional Information About Our Privacy Practices (applicable to both Processor Data and Controller Data)**
+
+    a.  _Personal Data Rights and Choices (including Direct Marketing Opt-Out)_
+
+We offer the options described below for exercising rights and choices under applicable law.  Many of these are subject to important limits or exceptions under applicable law.
+
+  * To exercise rights or choices with respect to Processor Data, please make your request directly to the Fortinet customer for whom we process the data, particularly if the self-service options described below do not fully resolve your concern. 
+
+
+  * You may review and update certain user information by logging in to the relevant portions of the Fortinet Services or Fortinet websites or online services.
+
+
+
+In addition, the law of your jurisdiction (for example, within the European Economic Area) may give you additional rights to request access to and rectification or erasure of certain of your personal data we hold.  In some cases, you may be entitled to receive a copy of the personal data you provided to us in portable form or to request that we transmit it to a third party.  The law may also give you the right to request restrictions on the processing of your personal data, to object to processing of your personal data, or to withdraw consent for the processing of your personal data (which will not affect the legality of any processing that happened before your request takes effect).
+
+You may contact us as described below to make these requests.
+
+  * For example, residents of the European Economic Area and certain other jurisdictions may have a right to opt out of our processing of Controller Data for direct marketing purposes.  You can exercise this right by contacting us as described below.
+
+
+  * Our marketing emails and certain other communications include unsubscribe instructions, which you can use to limit or stop the relevant communications.  Opt-out processes may take some time to complete, consistent with applicable law.  Certain communications (such as certain billing-related communications or emergency service messages) are not subject to opt-out.
+
+
+  * Many Fortinet Services are designed to block hacking and other unauthorized activity, and they use automated means to compare user activity or device traits to similar data points that been associated with hacking or other unauthorized activity.  If you believe that our services have been used to block you in error, please contact the relevant Fortinet customer for assistance.  If you believe our services have blocked access to certain websites in error, please follow the instructions on our FortiGuard website to have such blocking reviewed.  In limited cases, we may be able to assist you directly, depending on our contract with our customer and how the blocking happened.
+
+
+  * You may contact us with any concern or complaint regarding our privacy practices, and you also may lodge a complaint with the relevant governmental authority.
+
+
+
+_Notice to California Residents_ : 
+
+  * Subject to certain limitations, California Civil Code § 1798.83 permits California residents to request and obtain from us a list of the third parties to whom we have disclosed certain personal information subject to that law (if any) for the recipient’s direct marketing purposes in the prior calendar year, as well as the type of personal information disclosed to those parties.  If you are a California resident and would like to request this information, please submit your request to [privacy@fortinet.com](mailto:privacy@fortinet.com).
+
+
+  * Deletion of your online posts:  Minors may request deletion or anonymization of content or information they have posted on our websites or online spaces (such as in a public forum), by using the self-service option in the relevant website or online space (if available) or by contacting us as described below.  We will handle such requests under applicable law.  Where the request is made under California law, this process does not ensure complete or comprehensive removal of the content or information.
+
+
+
+b.  _Aggregate or De-Identified Data_
+
+Subject to applicable law and our contractual obligations, (i) we may aggregate or de-identify Controller Data or Processor Data so that the information cannot be linked to the relevant individual and (ii) our use and disclosure of aggregated, anonymized, and other non-personal information is not subject to any restrictions under this Privacy Policy, and we may disclose it to others without limitation for any purpose.
+
+c. _Cookies and Similar Automated Data Collection_
+
+In our websites, apps and emails, we and third parties may collect certain information by automated means such as cookies, Web beacons, JavaScript and mobile device functionality. This information may include unique browser identifiers, IP address, browser and operating system information, device identifiers (such as the Apple IDFA or Android Advertising ID), geolocation, other device information, Internet connection information, as well as details about individuals’ interactions with our apps, websites and emails (for example, the URL of the third-party website from which you came, the pages on our website that you visit, and the links you click on in our websites).
+
+We and third parties may use automated means to read or write information on users’ devices, such as in various types of cookies and other browser-based or plugin-based local storage (such as HTML5 storage or Flash-based storage).  
+
+
+Cookies and local storage are files that contain data, such as unique identifiers, that we or a third party may transfer to or read from a user’s device for the purposes described in this Privacy Policy, such as recognizing the device, service provision, record-keeping, analytics and marketing, depending on the context of collection.  
+
+
+You may be able to set your web browser to refuse certain types of cookies, or to alert you when certain types of cookies are being sent. Some browsers offer similar settings for HTML5 local storage, and Flash storage can be managed here. However, if you block or otherwise reject our cookies, local storage, JavaScript or other technologies, certain websites (including our own websites) may not function properly.  
+
+
+These technologies help us (a) keep track of whether you are signed in or have previously signed in so that we can display all the features that are available to you; (b) remember your settings on the pages you visit, so that we can display your preferred content the next time you visit; (c) display personalize content; (d) perform analytics, and measure traffic and usage trends, and better understand the demographics of our users; (e) diagnose and fix technology problems; and (f) otherwise plan for and enhance our business.  
+
+
+Also, in some cases, we facilitate the collection of information by advertising services administered by third parties. The ad services may track users’ online activities over time by collecting information through automated means such as cookies, and they may use this information to show users ads that are tailored to their individual interests or characteristics and/or based on prior visits to certain sites or apps, or other information we or they know, infer or have collected from the users. For example, we and these providers may use different types of cookies, other automated technology, and data (i) to recognize users and their devices, (ii) to inform, optimize, and serve ads and (iii) to report on our ad impressions, other uses of ad services, and interactions with these ad impressions and ad services (including how they are related to visits to specific sites or apps).  
+
+
+To learn more about interest-based advertising generally, including how to opt out from the targeting of interest-based ads by some of our current ad service partners, visit aboutads.info/choices or youronlinechoices.eu from each of your browsers. You can opt out of Google Analytics and customize the Google Display Network ads by visiting the Google Ads Settings page. Google also allows you to install a Google Analytics Opt-out Browser Add-on for your browser. If you replace, change or upgrade your browser, or delete your cookies, you may need to use these opt-out tools again. We do not respond to browser-based do-not-track signals.  
+
+
+Please visit your mobile device manufacturer's website (or the website for its operating system) for instructions on any additional privacy controls in your mobile operating system, such as privacy settings for device identifiers and geolocation. 
+
+d.  _International Data Transfers_
+
+Fortinet and the recipients of the data disclosures described in this Privacy Policy have locations in the United States, Canada and elsewhere in the world, including where privacy laws may not provide as much protection as those of your country of residence.  Fortinet data centers for Processor Data are located primarily in Canada.   We comply with legal requirements for cross-border data protection, including through the use of European Commission-approved Standard Contractual Clauses and, in some cases, a third party’s participation in the EU-U.S. or Swiss-U.S. Privacy Shield Framework.  To exercise any legal right to request data transfer mechanism documents that Fortinet uses to transfer data to third parties, please contact us.
+
+Certain Fortinet Services allow our customers and users to make international data transfers to third parties, for which they are solely responsible.
+
+e.  _Security_
+
+We have put in place physical, electronic, and managerial procedures to safeguard data and help prevent unauthorized access, to maintain data security, and to use correctly the data we collect.  However, we cannot assure you that data that we collect will never be used or disclosed in a manner that is inconsistent with this Privacy Policy.
+
+If a password is used to help protect your personal information, it is your responsibility to keep the password confidential.  Do not share this information with anyone.
+
+f. _Data Retention_
+
+We will retain your information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law.  To provide security and business continuity for the activities described in this Privacy Policy, we make backups of certain data, which we may retain for longer than the original data.
+
+g.  _Notification of Changes_
+
+Fortinet reserves the right to change this Privacy Policy at any time to reflect changes in the law, our data collection and use practices, the features of our services, or advances in technology. Please check this page periodically for changes. Any updated Privacy Policy will be posted on Fortinet.com via a hyperlink in the footer or other convenient location. 
+
+h. _How to Contact Us_
+
+If you have questions regarding our practices or this Privacy Policy, please contact us at **privacy@fortinet.com.**  
+
