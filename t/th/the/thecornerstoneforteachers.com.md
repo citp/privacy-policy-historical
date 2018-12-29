@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thecornerstoneforteachers.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629103238id_/http%3A//thecornerstoneforteachers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecornerstoneforteachers.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229122755id_/http%3A//thecornerstoneforteachers.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – The Cornerstone For Teachers
+# Privacy Policy
 
 The privacy of our visitors to www.TheCornerstoneForTeachers.com is important to us. We recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit TheCornerstoneForTeachers.com, and how we safeguard your information. We never sell your personal information to third parties.
 
