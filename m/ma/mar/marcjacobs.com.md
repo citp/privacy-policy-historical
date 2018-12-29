@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marcjacobs.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629210311id_/https%3A//www.marcjacobs.com/legal-copy/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marcjacobs.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229220822id_/https%3A//www.marcjacobs.com/legal-copy/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Marc Jacobs
 
@@ -13,25 +13,25 @@ For further information on how We process your personal information, please use 
 1\. Purpose  
 2\. What Information Is Collected?
 
-  *    • User-Provided Information
-  *    • Information We Obtain Through Cookies and Other Technologies
+  * User-Provided Information
+  * Information We Obtain Through Cookies and Other Technologies
 
 
 
 3\. How Is the Collected Information Used?
 
-  *    • Use of Cookies and Other Automated Technologies
-  *    • Interest-Based Advertising
+  * Use of Cookies and Other Automated Technologies
+  * Interest-Based Advertising
 
 
 
 4\. When Do We Share Personally-Identifiable Information and Usage Information with Others?
 
-  *    • The LVMH Family
-  *    • Co-Sponsored Contests, Sweepstakes and Offerings
-  *    • Service Providers
-  *    • Legally Compelled Disclosures
-  *    • Business Transfer
+  * The LVMH Family
+  * Co-Sponsored Contests, Sweepstakes and Offerings
+  * Service Providers
+  * Legally Compelled Disclosures
+  * Business Transfer
 
 
 
