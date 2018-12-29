@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avid.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629030335id_/http%3A//www.avid.com/legal/privacy-policy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avid.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229045141id_/https%3A//www.avid.com/legal/privacy-policy-statement) for the most accurate reproduction.*
 
 # Privacy Policy Statement - Avid
 
@@ -40,7 +40,7 @@ We also use this information to send you information about Avid, or other topics
 
 The processing of your data is either based on your consent or in case the processing is necessary for the performance of a contract to which you are a party, or in order to take steps at your request prior to entering into a contract.
 
-If the processing is based on your consent, you may at any time withdraw your consent by contacting us at [privacy@avid.com](mailto:privacy@avid.com) or the address listed below.
+If the processing is based on your consent, you may at any time withdraw your consent by contacting us at [privacy@avid.com](mailto:privacy@avid.com) or the address listed below. This email address is for privacy related inquiries only. All other requests, such as for product support, will not be replied to. For product support and troubleshooting, please contact Avid Customer Care by clicking [here](https://web.archive.org/learn-and-support#Help).
 
 In order to enter into a contract regarding the purchase of Avid’s products or services, you must provide us with the required personal data. If you do not to provide us with all the required information, it will not be possible to deliver the product or service.
 
