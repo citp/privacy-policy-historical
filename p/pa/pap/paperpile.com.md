@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paperpile.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629213550id_/https%3A//paperpile.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paperpile.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229223525id_/https%3A//paperpile.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Paperpile
 
@@ -212,6 +212,16 @@ Also use this contact address if you are seeking to exercise any of your statuto
 
 Paperpile LLC  
 28 Glenwood Ave #2  
-Cambridge, MA 02139, USA
+Cambridge, MA 02139  
+USA
 
 [support@paperpile.com](mailto:support@paperpile.com)
+
+Residents from the EU also can contact our EU representation:
+
+Paperpile LLC & Co OG  
+Hauptplatz 23  
+4190 Bad Leonfelden  
+Austria 
+
+[europe@paperpile.com](mailto:europe@paperpile.com)
