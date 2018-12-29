@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stackify.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629170602id_/http%3A//stackify.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stackify.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229182938id_/https%3A//stackify.com/privacy-policy) for the most accurate reproduction.*
 
 # Stackify | Privacy Policy - Stackify
 
@@ -29,7 +29,7 @@ Leawood, KS 66206
 
 OR
 
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+privacy@stackify.com
 
 In your correspondence, please indicate with as much detail as possible the location on this Site or otherwise where you provided your personal information. You may expect a response within thirty (30) days. For information submitted in connection with Products and Services, you may also follow instructions included or referenced within such Product and Service to access, correct or delete inaccuracies in the information.
 
@@ -90,6 +90,6 @@ Leawood, KS 66206
 
 OR
 
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+privacy@stackify.com
 
 Also, please note that Stackify is not responsible for the content or privacy practices of non-Stackify websites to which this Site or any other Stackify website may link. You should review the privacy policies of such sites before using the sites.
