@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enterprisetimes.co.uk privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902213001id_/https%3A//www.enterprisetimes.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enterprisetimes.co.uk privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229212241id_/https%3A//www.enterprisetimes.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy - Enterprise Times
 
@@ -192,7 +192,7 @@
 
 12.9    You can delete cookies already stored on your computer; for example:
 
-(a)      in Internet Explorer (version 10), you must manually delete cookie files (you can find instructions for doing so at <http://support.microsoft.com/kb/278835);>
+(a)      in Internet Explorer (version 10), you must manually delete cookie files (you can find instructions for doing so at http://support.microsoft.com/kb/278835);
 
 (b)      in Firefox (version 24), you can delete cookies by clicking “Tools”, “Options” and “Privacy”, then selecting “Use custom settings for history”, clicking “Show Cookies”, and then clicking “Remove All Cookies”; and
 
