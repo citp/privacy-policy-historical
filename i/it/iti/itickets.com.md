@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itickets.com privacy policy that was archived on 2017-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171103050654id_/https%3A//www.itickets.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itickets.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229173548id_/https%3A//www.itickets.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | iTickets
 
