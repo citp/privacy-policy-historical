@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessdailyafrica.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628130701id_/https%3A//www.businessdailyafrica.com/meta/539554-1130060-o53ha2/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessdailyafrica.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229030030id_/https%3A//www.businessdailyafrica.com/meta/539554-1130060-o53ha2/index.html) for the most accurate reproduction.*
 
 # Privacy Policy - Business Daily
 
