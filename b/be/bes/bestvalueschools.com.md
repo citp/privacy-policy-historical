@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bestvalueschools.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622121745id_/https%3A//www.bestvalueschools.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestvalueschools.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229125404id_/https%3A//www.bestvalueschools.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Best Value Schools
+# Privacy Policy
 
 At Best Value Schools, we respect the privacy of visitors to our website and endeavor to protect their confidentiality to the highest degree possible. Below is a privacy statement to provide details on how our website will collect, employ, and retain personal information given by users.
 
