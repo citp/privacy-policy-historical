@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the face2faceafrica.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629155753id_/https%3A//face2faceafrica.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the face2faceafrica.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229172854id_/https%3A//face2faceafrica.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Face2FaceAfrica
-
-## Privacy Statement
 
 Face2Face Africa, LLC., and its subsidiaries and affiliates (collectively, "F2FA"), respects the privacy rights of our online visitors and recognizes the importance of protecting all information that you may choose to share with us.  To further this commitment, we have adopted this Online Privacy Policy ("Privacy Policy") to guide how we collect, store and use the information you provide to us.
 
