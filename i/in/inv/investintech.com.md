@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the investintech.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602164836id_/https%3A//www.investintech.com/about/legal/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investintech.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229065554id_/https%3A//www.investintech.com/about/legal/policy) for the most accurate reproduction.*
 
 # Investintech.com Website Privacy Policy
 
-This is the privacy notice of Investintech.com In this document, "we", "our", or "us" refer to Investintech.com.  
+This is the privacy notice of Investintech.com In this document, “we”, “our”, or “us” refer to Investintech.com.  
 We are a Canadian registered company.  
 Our registered office is at 301 – 425 University Ave. Toronto, ON, Canada M5G-1T6
 
@@ -101,7 +101,7 @@ Examples include:
 
 5.1. posting a message our forum  
 5.2. tagging an image  
-5.3. clicking on an icon next to another visitor’s message to convey your agreement, disagreement or thanks
+5.3. clicking on an icon next to another visitors message to convey your agreement, disagreement or thanks
 
 In posting personal information, it is up to you to satisfy yourself about the privacy level of every person who might use it.
 
@@ -171,7 +171,7 @@ We expect any affiliate or partner to agree to reciprocate this policy.
 
 ### 13\. Cookies
 
-Cookies are small text files that are placed on your computer's hard drive by your web browser when you visit any website. They allow information gathered on one web page to be stored until it is needed for use on another, allowing a website to provide you with a personalised experience and the website owner with statistics about how you use the website so that it can be improved.
+Cookies are small text files that are placed on your computer’s hard drive by your web browser when you visit any website. They allow information gathered on one web page to be stored until it is needed for use on another, allowing a website to provide you with a personalised experience and the website owner with statistics about how you use the website so that it can be improved.
 
 Some cookies may last for a defined period of time, such as one day or until you close your browser. Others last indefinitely.
 
@@ -189,8 +189,7 @@ We use cookies in the following ways:
 13.2. to record whether you have seen specific messages we display on our website  
 13.3. to keep you signed in our site  
 13.4. to record your answers to surveys and questionnaires on our site while you complete them  
-13.5. to record the conversation thread during a live chat with our support team  
-
+13.5. to record the conversation thread during a live chat with our support team
 
 ### 14\. Personal identifiers from your browsing activity
 
