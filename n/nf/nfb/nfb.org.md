@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the nfb.org privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629145755id_/https%3A//nfb.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nfb.org privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229163719id_/https%3A//nfb.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | National Federation of the Blind
 
-The National Federation of the Blind respects your privacy and security. 
+The National Federation of the Blind respects your privacy and security.
 
-Privacy Policy for users of NFB.org:  No personal information acquired through your use of this website is shared with any third party except as is necessary to fulfill a request for a purchase or donation or to provide a service you request.
+## Privacy Policy for Users of NFB.org
+
+No personal information acquired through your use of this website is shared with any third party except as is necessary to fulfill a request for a purchase or donation or to provide a service you request.
 
 In conformance with Payment Card Industry (PCI) guidelines, user credit card information is not stored in National Federation of the Blind databases or retained on National Federation of the Blind servers. In cases where recurring donations are authorized by a user, industry standard PCI conformant techniques are used to store a “token” that identifies the user to the payment gateway; however, this token limits the transactions the National Federation of the Blind can conduct to those frequencies and amounts previously authorized by the user, and no payment card information is stored in National Federation of the Blind databases or retained on National Federation of the Blind servers.  Payments transacted through the National Federation of the Blind website utilize the PayPal Payflow Pro payment gateway. Please see the [Privacy Policy for PayPal Services](https://www.paypal.com/webapps/mpp/ua/privacy-full) for additional details about how PayPal protects transaction data.
 
@@ -14,7 +16,11 @@ In some cases, the National Federation of the Blind website will request the use
 
 Users of NFB.org may request to review personal (if any) data we may have and to request us to change, correct, update, or delete such data, or to express any concerns about the use of private data by emailing [Privacy-Policy@nfb.org](mailto:Privacy-Policy@nfb.org) or mailing us at National Federation of the Blind, Attn: Privacy Policy, 200 East Wells Street, Baltimore, Maryland 21230.
 
-Privacy policy for personal data obtained by the National Federation of the Blind through direct mail programs:  The National Federation of the Blind sends mail to individuals through the United States Postal Service (USPS). Such mail describes the problems associated with blindness, suggests actions which individuals can take to help alleviate those problems, and requests donations to help support our work. Responses (including credit card donations) to these mailings are processed by a third party vendor specializing in secure processing of payments received through the USPS.
+## Privacy Policy for Offline Users
+
+The privacy policy for personal data obtained by the National Federation of the Blind through direct mail programs is as follows: 
+
+The National Federation of the Blind sends mail to individuals through the United States Postal Service (USPS). Such mail describes the problems associated with blindness, suggests actions which individuals can take to help alleviate those problems, and requests donations to help support our work. Responses (including credit card donations) to these mailings are processed by a third party vendor specializing in secure processing of payments received through the USPS.
 
 The National Federation of the Blind requires the third party vendor to provide a SOC1 (Report on Controls at a Service Organization Relevant to User Entities Internal Control over Financial Reporting) prepared in accordance with the American Institute of Certified Public Accountants Statement on Standards for Attestation Engagements (SSAE) No.16 Reporting on Controls at a Service Organization.
 
@@ -22,4 +28,4 @@ The National Federation of the Blind maintains a list of responders to its direc
 
 We sometimes seek to find new individuals who are interested in helping us to alleviate the problems of blindness by exchanging or “renting” names and addresses of individuals who have responded to our direct mail with other organizations who in turn share the names of responders to their direct mail with us.  Individuals who do not wish us to exchange their names and addresses with other organizations may request to be removed from our exchange process by writing to us at the Privacy Notification address given above. If you have other questions or concerns about our privacy policy regarding respondents to our direct mail please contact us at National Federation of the Blind, Attn: Privacy Policy, 200 East Wells Street, Baltimore, Maryland 21230.
 
-Revised July 2016
+_Revised  July 2016._
