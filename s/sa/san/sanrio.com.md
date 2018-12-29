@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sanrio.com privacy policy that was archived on 2017-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170709121138id_/https%3A//www.sanrio.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sanrio.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229192641id_/https%3A//www.sanrio.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Sanrio Privacy Policy | Sanrio
+# Sanrio Privacy Policy - Sanrio
 
 #### **Please Read This Privacy Policy Carefully Before Using the Sanrio.com Site**
 
