@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spotifyhouse.com privacy policy that was archived on 2018-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180526184450id_/https%3A//www.spotify.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spotifyhouse.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229043847id_/https%3A//www.spotify.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# /legal/privacy-policy-update/
+# Privacy policy
 
 Effective as of May 25, 2018
 
@@ -150,7 +150,7 @@ If you choose to pay by invoice, we will provide your personal data to our payme
 
 
   
-You can find out more about the personal data collected and the controls you have in relation to the marketing communications you receive via the [Privacy Center](https://web.archive.org/web/20180526184507id_/https://www.spotify.com/us/legal/privacy-policy-update/%E2%80%9Dhttps://www.spotify.com/privacy/%E2%80%9D)  
+You can find out more about the personal data collected and the controls you have in relation to the marketing communications you receive via the [Privacy Center](https://www.spotify.com/privacy/)  
   
 ##  6\. What do we use your personal data for?
 
