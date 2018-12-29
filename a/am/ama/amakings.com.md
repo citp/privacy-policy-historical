@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amakings.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612094207id_/http%3A//amakings.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amakings.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229054314id_/http%3A//amakings.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
