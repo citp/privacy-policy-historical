@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartpassiveincome.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629064343id_/https%3A//www.smartpassiveincome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartpassiveincome.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229084839id_/https%3A//www.smartpassiveincome.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -60,7 +60,7 @@ Websites must have a legal basis for collecting information from individuals loc
 
 (6.) Lessons:  We will ask for your consent first.
 
-“Legitimate interests” for processing your personal information exist where you submit the information with an expectation that it will be processed and there is no undue impact on you. If you disagree or have questions, please contact Jessica Lindgren at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7d0e080d0d120f093d0e101c0f090d1c0e0e140b1814131e121018531e1210) and we will cease the processing of your data under this legal basis.
+“Legitimate interests” for processing your personal information exist where you submit the information with an expectation that it will be processed and there is no undue impact on you. If you disagree or have questions, please contact Jessica Lindgren at [support@smartpassiveincome.com](mailto:support@smartpassiveincome.com) and we will cease the processing of your data under this legal basis.
 
 D. Who Has Access To The Data We Collect?
 
@@ -115,11 +115,11 @@ You have the right to control your personal data. Specifically, you have the fol
 
 
 
-To exercise any of these rights, please contact Jessica Lindgren at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3b484e4b4b54494f7b48565a494f4b5a4848524d5e52555854565e15585456) with your request.
+To exercise any of these rights, please contact Jessica Lindgren at [support@smartpassiveincome.com](mailto:support@smartpassiveincome.com) with your request.
 
 H. Your Right To Withdraw Consent
 
-Although this is mentioned above, we want to emphasize that wherever we’ve asked for your consent to collect or process your personal data, you have the right to withdraw that consent. If you receive email messages from us, you can use the “unsubscribe” link in each message to withdraw consent and stop the mailings. Alternatively, you can contact Jessica Lindgren at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#087b7d7878677a7c487b65697a7c78697b7b617e6d61666b67656d266b6765) with your request. 
+Although this is mentioned above, we want to emphasize that wherever we’ve asked for your consent to collect or process your personal data, you have the right to withdraw that consent. If you receive email messages from us, you can use the “unsubscribe” link in each message to withdraw consent and stop the mailings. Alternatively, you can contact Jessica Lindgren at [support@smartpassiveincome.com](mailto:support@smartpassiveincome.com) with your request. 
 
 I. Do We Transfer Your Data To Third Countries?
 
@@ -127,7 +127,7 @@ No. We are located in the United States. Your data is collected and held here.
 
 J. Privacy Concerns, Contacting Us, Complaints.
 
-You can contact Jessica Lindgren at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f3808683839c8187b3809e928187839280809a85969a9d909c9e96dd909c9e) with your request with any questions or requests you have about these policies or your personal data. If, after contacting us, you feel a privacy issue has not be resolved, you have the right to file a complaint with a Supervisory Authority such as the [Data Protection Commissioner of Ireland](https://www.dataprotection.ie/docs/Home/4.htm).
+You can contact Jessica Lindgren at [support@smartpassiveincome.com](mailto:support@smartpassiveincome.com) with your request with any questions or requests you have about these policies or your personal data. If, after contacting us, you feel a privacy issue has not be resolved, you have the right to file a complaint with a Supervisory Authority such as the [Data Protection Commissioner of Ireland](https://www.dataprotection.ie/docs/Home/4.htm).
 
 Data Controller
 
@@ -149,7 +149,7 @@ Pursuant to the California Online Privacy Protection Act, we hereby disclose tha
 
 B. California Eraser Law.
 
-If you are an individual under 18 and have provided personal information or content to us in some manner, you have the right to request the deletion of that information pursuant to the “California Eraser Law.”  Contact us to make such a request at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#abd8dedbdbc4d9dfebd8c6cad9dfdbcad8d8c2ddcec2c5c8c4c6ce85c8c4c6).
+If you are an individual under 18 and have provided personal information or content to us in some manner, you have the right to request the deletion of that information pursuant to the “California Eraser Law.”  Contact us to make such a request at [support@smartpassiveincome.com](mailto:support@smartpassiveincome.com).
 
 **III. For All Our Valued Friends Regardless of Location**
 
