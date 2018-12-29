@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mascotcosplay.com privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319121756id_/http%3A//www.mascotcosplay.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mascotcosplay.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229213018id_/http%3A//www.mascotcosplay.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
