@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bebrainfit.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629004127id_/https%3A//bebrainfit.com/privacy-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bebrainfit.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229175753id_/https%3A//bebrainfit.com/privacy-terms) for the most accurate reproduction.*
 
 # Privacy Policy - Terms of Use | Be Brain Fit
 
@@ -6,21 +6,21 @@
 
 ## Privacy Policy
 
-BeBrainFit.com (“Be Brain Fit,” “our website,” “our(s),” “we,” “us”) is a website that provides information about maintaining and improving cognitive and mental health.
+BeBrainFit.com (“our website,” “our(s),” “we,” “us”) is a website that provides information about brain health and fitness to help visitors maintain and improve their cognitive and mental health.
 
 Visitors (“you,” “your”) are people like you who visit our website.
 
 We know how important privacy is to you.
 
-Thus, we have created this privacy policy that describes the personal information we obtain from you, what we do with it, the safeguards we have in place to protect it, and how you can control our use of such personal information.
+Thus, we have created this privacy policy that describes the personal information we obtain from you, what we do with it, the safeguards we have in place to protect it, and how you can control the use of such personal information.
 
 _By using our website, you agree, without limitation or qualification, to be bound by this privacy policy._
 
 ### Information We Collect
 
-In the course of your interaction with our website, we may receive personally identifiable information, such as your email address and name, from you.
+In the course of your interaction with our website, we may receive personal data, such as your email address and name, from you.
 
-We may also collect information related to your usage of our website, such as time spent on the website, pages visited, and websites linked to and from our website.
+We may also collect information related to your usage of our website, such as the time you spend on the website, the pages you visit, and the websites you visit before and after your visit to our website.
 
 This kind of information is collected through the use of cookies. Cookies are small files that websites store on your computer and its web browser (not on our website) to allow those sites to deliver a page tailored to you.
 
@@ -30,15 +30,25 @@ If you do not wish to allow cookies, or would like to be notified when they are 
 
 ### Third-Party Ad Vendors
 
-Third-party vendors, including Google, use cookies to serve ads to you based on your prior visits to our website and other websites on the internet.
+Third-party vendors gather personal data and set cookies to serve you personalized ads based on your prior visits to our website and other websites on the internet.
 
-You may opt out of the use of Google’s DoubleClick cookie for interest-based advertising by reviewing [Google’s ad policies](https://policies.google.com/technologies/ads) or, to opt out of another third-party vendor’s use of cookies for interest-based advertising, visit the website of that third-party vendor, or visit [AboutAds.info](http://www.aboutads.info/).
+We use Mediavine to manage all third-party advertising on BeBrainFit.com.
 
-EU visitors should visit [YourOnlineChoices.eu](http://youronlinechoices.eu/).
+Mediavine serves content and advertisements when you visit our website, which may use cookies.
+
+Mediavine may collect IP addresses and location to serve personalized ads.
+
+If you would like more information about this practice and to know your choices to opt-in or opt-out of this data collection, visit <http://www.networkadvertising.org/managing/opt_out.asp>.
+
+You can learn how Google uses information gathered from our website and how you can control the collection and use of this information by reviewing [Google’s ad policies](https://policies.google.com/technologies/partner-sites).
+
+To learn about and control the handling of other third-party vendors’ use of cookies or data collection, visit the website of that third-party vendor, or visit [AboutAds.info](http://www.aboutads.info/).
+
+Visitors from countries in the European Economic Area (EEA) should review their options at [YourOnlineChoices.eu](http://youronlinechoices.eu/).
 
 ### Security of Your Personal Information
 
-To secure and maintain your trust and confidence, we have taken measures to protect you against such unauthorized access, use, modification and disclosure of your personal information that is within our control.
+To secure and maintain your trust and confidence, we have taken measures to protect you against such unauthorized access, use, modification, and disclosure of your personal information that is within our control.
 
 In particular, all data communication between you and us is encrypted to protect your sensitive information from eavesdroppers.
 
@@ -48,7 +58,7 @@ This type of security also protects against hacker attacks on our website and as
 
 ### Usage of Your Personal Information
 
-In accordance with this privacy policy, your personal information may be used for record keeping, to improve the content of our website, to customize the website to your preferences, and to communicate information to you via email (if you have requested it).
+In accordance with this privacy policy, your personal information may be used to improve the content of our website, to customize the website to your preferences, and to communicate information to you via email (only if you have requested it).
 
 _At any time, you can quickly stop any email communication from us to you by clicking the Unsubscribe link  included in every email._
 
@@ -66,17 +76,17 @@ If we or our service providers are requested by law enforcement officials or jud
 
 Our website and users of our website are bound by application of United States law.
 
-Do not submit your personal information, such as your name and email address, unless you consent to the application of U.S. law and to the use and disclosure of your information as stated in this privacy policy.
+Do not submit your personal information, such as your name and email address, unless you consent to the application of US law and to the use and disclosure of your information as stated in this privacy policy.
 
 ### Our Privacy Policy and Outside Links
 
 This privacy policy applies only to BeBrainFit.com.
 
-While we always try to link to websites that we feel engage in security and privacy practices much like to our own, be advised that any links on our website to other websites are outside our control.
+While we always try to link to websites that we feel engage in security and privacy practices much like our own, be advised that the privacy policies of all websites that you may visit through any links on our website to those websites are beyond our control.
 
 ### Changes to This Privacy Policy
 
-This privacy policy was last updated on April 10, 2018.
+This privacy policy was last updated on August 31, 2018.
 
 ## Terms of Use
 
@@ -96,7 +106,7 @@ Though we always try to provide accurate information, we make no representation 
 
 We urge you to confirm any information found on or through our website by other means, including consulting with health care providers of your choice.
 
-The products and the claims made about specific products on or through this website have not been evaluated by the United States Food and Drug Administration and are not approved to diagnose, treat, cure or prevent disease.
+The products and the claims made about specific products on or through this website have not been evaluated by the United States Food and Drug Administration and are not approved to diagnose, treat, cure, or prevent disease.
 
 Further, we make absolutely no guarantee, expressed or implied, that by purchasing any of the products we present on our website, or by taking any of the actions recommended by the vendors of those products, that you will achieve the results you wish.
 
@@ -104,17 +114,15 @@ You acknowledge that you are solely responsible for your actions regarding the u
 
 ### Disclosure Policy Regarding Vendor Sales
 
-BeBrainFit.com provides information that can help you maintain and improve your cognitive and mental health.
+BeBrainFit.com provides information about brain health and fitness to help visitors maintain and improve their cognitive and mental health.
 
 In providing this information, we also routinely provide convenient access to products that we think may help you achieve those goals. We do this through links to vendor websites where you can purchase these products.
 
 One of those is the Amazon Services LLC Associates Program (for the US), an affiliate advertising program that allows sites like ours to earn advertising fees by advertising and linking to Amazon.com.
 
-BeBrainFit.com is also a participant in the Amazon EU Associates Programme (for the UK), an affiliate advertising program designed to provide a means for sites to earn advertising fees by linking to Amazon.co.uk, and in the Amazon Associates Program (for Canada), an affiliate advertising program designed to provide a means for sites to earn advertising fees by linking to Amazon.ca and affiliated sites.
-
 If you purchase a product on Amazon.com or another vendor’s website after clicking a link on our website, we will be paid a commission by the vendor for your purchase.
 
-Whenever we do explicitly recommend a product, we give you our honest assessment of it. Our recommendation is based on either our assessment of the vendor and its product or our prior experience with the vendor and similar products made or sold by it.
+Whenever we do recommend a specific product, we give you our honest assessment of it. Our recommendation is based on either our assessment of the vendor and its product or our prior experience with the vendor and similar products made or sold by it.
 
 Note that the cost of any product you buy on a vendor’s website through a link on our website is no higher than if you bypassed our link and bought the product on the vendor’s website directly.
 
@@ -122,4 +130,4 @@ Regardless of any mention or recommendation we make of a product on our website,
 
 ### Changes to These Terms of Use
 
-These terms of use were last updated on April 10, 2018.
+These terms of use were last updated on August 31, 2018.
