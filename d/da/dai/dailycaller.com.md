@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dailycaller.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630014953id_/http%3A//dailycaller.com/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailycaller.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229213519id_/https%3A//dailycaller.com/footer/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Daily Caller
 
 THE DAILY CALLER PRIVACY POLICY
 
-Effective Date: November 29, 2012.
+Effective Date: May 24, 2018.
 
 The Daily Caller (THE DC or we) is the owner and operator of DailyCaller.com (the Website), a comprehensive news website providing original reporting, updated links to the latest news, analysis of current events, satire, research on current policy issues, columns from thought leaders, and Congressional Member reviews. We also offer the DailyCaller.com mobile application (“Application”).
 
@@ -26,6 +26,7 @@ This Policy is incorporated by reference into our [Terms of Use Agreement.](htt
 [**CHILDREN**](https://web.archive.org/footer/privacy-policy/#children)  
 [**CHANGES TO THIS PRIVACY POLICY**](https://web.archive.org/footer/privacy-policy/#changes)  
 [**SPECIAL NOTICE TO CALIFORNIA CONSUMERS**](https://web.archive.org/footer/privacy-policy/#california)  
+[**SPECIAL NOTICE TO EUROPEAN TERRITORY CITIZENS**](https://web.archive.org/footer/privacy-policy/#gdpr)  
 [**HOW TO CONTACT US**](https://web.archive.org/footer/privacy-policy/#contact)
 
   
@@ -86,17 +87,24 @@ _**Local Storage Objects**_  – We and our third party service providers may u
 
 _**Analytics**_. We and our third party service providers conduct analytics of our Services to help us track and understand how visitors use our Services, using the technologies described in this section. For example, we use a variety of third party web analytics, to help us improve the performance and user experience of our Website and Application.
 
+_**Video Player**_.  
+A notice that the player includes proprietary measurement software that allows users to contribute to market research (such as Nielsen TV Ratings)  
+A link to the Nielsen Digital Measurement Privacy Policy at http://www.nielsen.com/digitalprivacy  
+On the Nielsen Digital Measurement Privacy Policy page, users can click choices to read more detailed information about the measurement software and their options. The users can click a link to retrieve an Opt-Out cookie if they do not want to participate in Nielsen online measurement.  
+Nielsen properties may feature Nielsen proprietary measurement software, which will allow the users to contribute to market research, such as Nielsen TV Ratings.  
+To learn more about the information that Nielsen software may collect and your choices with regard to it, please see the Nielsen Digital Measurement Privacy Policy at http://www.nielsen.com/digitalprivacy.  
+Opt-In  
+Once users have opted out, they can choose to opt back into Nielsen Measurement at anytime by selecting the Opt-In link on the Nielsen Digital Privacy Policy page. When a user selects the link, their Opt-Out cookie will be deleted and they will be measured.
+
    
   
 **II. HOW DO WE USE YOUR INFORMATION?**
 
 We use your information, including the personally identifiable information that we collect about you (collectively, “information”), for various reasons, including:
 
-    * to deliver content that you have requested from our Services;
-    * to send e-mails that you have requested to receive from THE DC;
-    * to provide you with information, including via email, about services, products, and features that may be of interest to you, including products and services offered by third parties, as well as emails about our own Services;
-
-
+  * to deliver content that you have requested from our Services;
+  * to send e-mails that you have requested to receive from THE DC;
+  * to provide you with information, including via email, about services, products, and features that may be of interest to you, including products and services offered by third parties, as well as emails about our own Services;
   * for customer service purposes, such as in response to inquiries that you initiate with us about any aspect of our Website and Application, to provide information about our Services, or any other customer service purpose; and
   * to understand how people use our Services, for research purposes, and to improve our Services.
 
@@ -113,14 +121,11 @@ THE DC may share personally identifiable information with others, such as:
   *  Law enforcement authorities, government agencies, courts, or other entities, when:
 
 
+    * we believe in good faith that the law requires it;
+    * we deem it necessary or appropriate to provide such information; or  
+to otherwise protect our rights, other persons, or other users of our Services.
+    * Another entity, in the course of a sale to or merger of all or a part of our business with another entity;
 
-• we believe in good faith that the law requires it;
-
-• we deem it necessary or appropriate to provide such information; or
-
-• to otherwise protect our rights, other persons, or other users of our Services.
-
-• Another entity, in the course of a sale to or merger of all or a part of our business with another entity;
 
   * A court, another business, or other interested party in the event of a bankruptcy proceeding, in which case the information about you would be among the many assets shared or transferred.
 
@@ -180,17 +185,34 @@ Material – that is, really important – changes to the way we use or disclose
   
 **X. SPECIAL NOTICE TO CALIFORNIA CONSUMERS**
 
-California residents may request a list of all third parties to which The DC has disclosed certain personally identifiable information about you for marketing purposes. You may make one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for your response. You may request this information in writing by contacting us at: [privacy@dailycaller.com](mailto:privacy@dailycaller.com) or Privacy Request, The Daily Caller, 1050 17th St NW Suite 900, Washington D.C. 20036.
+California residents may request a list of all third parties to which The DC has disclosed certain personally identifiable information about you for marketing purposes. You may make one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for your response. You may request this information in writing by contacting us at: [privacy@dailycaller.com](mailto:privacy@dailycaller.com) or Privacy Request, The Daily Caller, 1920 L St NW Suite 200, Washington D.C. 20036.
 
   
-**XI. HOW TO CONTACT US**
+**XI. SPECIAL NOTICE TO EUROPEAN TERRITORY CITIZENS**
 
-Questions and comments regarding this Privacy Policy should be directed to privacy@dailycaller.com.
+In compliance with European privacy laws, in particular the European General Data Protection Regulation (GDPR), THE DC provides specific rights for citizens of the European Territories such as the right to access, rectification, right to object, to complaint, erasure and blockage. More specifically:
+
+  * the right to request information about whether and which personal data is processed by us, and the right to demand that personal data is rectified or amended.
+  * under certain circumstances, the right to request that personal data should be deleted.
+  * under certain circumstances, the right to demand that the processing of personal data should be restricted.
+  * withdraw your consent to the processing and use of your data completely or partially at any time with future application.
+  * have the right to obtain your personal data in a common, structured and mechanically readable format.
+  * contact our data protection officer if there are any questions, comments, complaints or requests in connection with our statement on data protection and the processing of your personal data.
+  * the right to complain to the responsible supervisory authority if believed that the processing of your personal data is in violation of the legislation.
+
+
+
+Pursuant to the GDPR, citizens from “European Territories” mean the European Economic Area (EEA) and Switzerland. Please email our Director of Advertising Operations and designated Data Protection Officer (“DPO”) Chad Brady at [advertise@dailycaller.com](mailto:advertise@dailycaller.com) with any questions about exercising any of the above rights.
+
+  
+**XII. HOW TO CONTACT US**
+
+Questions and comments regarding this Privacy Policy should be directed to [privacy@dailycaller.com](mailto:privacy@dailycaller.com).
 
 The Daily Caller  
-1050 17th Street NW  
-Suite 900  
+1920 L Street NW  
+Suite 200  
 Washington, DC 20036  
 (202) 506-2027
 
-Copyright (c) 2012, The Daily Caller, Inc.
+Copyright (c) 2018, The Daily Caller, Inc.
