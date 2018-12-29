@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the scotch.io privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629085537id_/https%3A//scotch.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scotch.io privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229105754id_/https%3A//scotch.io/privacy) for the most accurate reproduction.*
 
-# Privacy ― Scotch
+# Privacy ― Scotch.io
 
 Effective date: May 25, 2018
 
-Scotch.io, LLC ("us", "we", or "our") operates the https://scotch.io website (the "Service").
+Scotch.io, LLC ("us", "we", or "our") operates the [https://scotch.io](https://scotch.io/) website (the "Service").
 
 This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
-We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from https://scotch.io
+We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from [https://scotch.io](https://scotch.io/)
 
 ## Definitions
 
