@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lizventures.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629202627id_/https%3A//eatmovemake.com/privacy-terms-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lizventures.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229213850id_/https%3A//eatmovemake.com/privacy-terms-use) for the most accurate reproduction.*
 
 # Privacy Policy - Eat Move Make
 
