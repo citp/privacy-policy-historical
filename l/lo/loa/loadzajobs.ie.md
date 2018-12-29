@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loadzajobs.ie privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629162225id_/https%3A//www.irishjobs.ie/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loadzajobs.ie privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229175115id_/https%3A//www.irishjobs.ie/about/privacy) for the most accurate reproduction.*
 
 # IrishJobs.ie for jobs in Ireland. Search IrishJobs.ie for jobs in Ireland, Dublin, Cork and Galway.
 
@@ -68,6 +68,7 @@ Where we need to collect personal data by law, or under the terms of a contract 
   * Technical Data from providers such as Google Analytics, Adobe Analytics, Adjust, HotJar and Optimizely;
   * Contact, Financial and Transaction Data from providers of technical, payment and delivery services such as Realex, Elavon, Docusign, Intercom and Lead Forensics;
   * Contact and Profile Data from providers such as Survey Monkey and Thomas International;
+  * We use a Facebook fanpage at irishjobs.ie. Facebook provides Page-Insights for that fanpage to us. Page-Insights are aggregated data, which allow us to understand how users interact with our fanpage. Page Insights can be based on personal data which is collected in relation to a visit of or an interaction with our fanpage and its content by users. Facebook Ireland Limited, 4 Grand Canal Square, Dublin 2, Ireland ("Facebook Ireland") and we are joint controllers in the sense of Art 26 GDPR for the processing of Insights data and we have entered into an arrangement with Facebook Ireland which you can find at [www.facebook.com/legal/terms/page_controller_addendum](https://www.facebook.com/legal/terms/page_controller_addendum). Legal basis for our use of the fanpage and Page-Insights is a legitimate interest in the sense of Art. 6 para 1 f GDPR, in relation to the fanpage that means the use of Facebook as channel of communication about our company and in relation to Page Insights the better understanding of the interests of visitors of our fanpage so that we can specifically serve these interests.
 
 
 
@@ -108,11 +109,11 @@ We may process your personal data for more than one lawful ground depending on t
 
 ## Marketing
 
-We may use your Identity, Contact, Technical, Usage and Profile Data to form a view on what we think you may want or need, or what may be of interest to you. This is how we decide which products, services and offers may be relevant for you.
+We may use your Identity, Contact, Technical, Usage and Profile Data to form a view on what we think you may want or need, or what may be of interest to you. This is how we decide which products, services and offers may be relevant for you. We also work with online advertising partners such as Criteo [www.criteo.com/privacy/](https://www.criteo.com/privacy/) and Adroll [www.adrollgroup.com/en-IE/privacy](https://www.adrollgroup.com/en-IE/privacy), to show you products, services and offers which may be relevant to you.
 
 You will receive marketing communications from us if you have requested information from us or purchased services from us [or if you provided us with your details when you entered a competition or registered for a promotion] and, in each case, you have not opted out of receiving that marketing.
 
-You can opt out of any marketing communications from us at any time by accessing “Account Settings” in “Your Account” of the Website and updating your notification settings or by using the “Unsubscribe” function at the bottom of the marketing email we send you. 
+You can opt out of any marketing communications from us at any time by accessing “Account Settings” in “Your Account” of the Website and updating your notification settings or by using the “Unsubscribe” function at the bottom of the marketing email we send you.
 
 ## Change of purpose
 
