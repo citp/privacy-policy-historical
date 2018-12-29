@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 20dresses.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522043037id_/http%3A//www.20dresses.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 20dresses.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229111333id_/http%3A//www.20dresses.com/privacy) for the most accurate reproduction.*
 
 # 20dresses.com - Privacy Policy
 
