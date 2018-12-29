@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evuln.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627191406id_/http%3A//evuln.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evuln.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229123041id_/http%3A//evuln.com/privacy.html) for the most accurate reproduction.*
 
 # eVuln.com : Privacy Policy
 
