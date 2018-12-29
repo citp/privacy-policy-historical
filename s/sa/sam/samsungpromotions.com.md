@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samsungpromotions.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618044238id_/https%3A//www.samsung.com/us/account/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samsungpromotions.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229154354id_/https%3A//www.samsung.com/us/account/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SAMSUNG
 
@@ -26,7 +26,7 @@ We use the information we collect to, among other things:
 
   * Provide the Services you request;
   * Understand the way you use the Services so that we can improve your experience;
-  * Provide customized content and advertising; and
+  * Provide customized content and advertising (including through Samsung Ads, more details are available at <https://www.samsung.com/us/account/privacy-policy/samsungads>); and
   * Otherwise with your consent.
 
 
@@ -60,7 +60,7 @@ If you have specific questions or requests regarding your information, please co
 
 **SAMSUNG GLOBAL PRIVACY POLICY**
 
-Effective: 30/03/2018
+Effective: 8/23/2018
 
 Samsung Electronics Co., Ltd. and our affiliates (“Samsung”, “we”, “us”, “our”) know how important privacy is to our customers, and we strive to be clear about how we collect, use, disclose, transfer and store your information. This Privacy Policy explains our information practices. This Privacy Policy applies to Samsung devices, websites or online applications that refer to or link to the Privacy Policy (collectively, our “Services”). This includes customer support for such Services.
 
@@ -111,11 +111,14 @@ We may use information we collect for the following purposes:
   * to register you or your device for a Service;
   * to provide a Service or feature you request;
   * to provide customized content and provide personalized services based on your past activities on our Services;
-  * for advertising, such as providing customized advertisements, sponsored content and sending you promotional communications;
+  * to deliver advertising, including customized advertisements, sponsored content and promotional communications (such as through Samsung Ads, more details are available at <https://www.samsung.com/us/account/privacy-policy/samsungads>);
   * for assessment and analysis of our market, customers, products, and services (including asking you for your opinions on our products and services and carrying out customer surveys);
   * to understand the way people use our Services so that we can improve them and develop new products and services;
   * to provide maintenance services for your device;
-  * to conduct free prize draws, prize competitions or promotions, as permitted by law; and otherwise with your consent. 
+  * to conduct free prize draws, prize competitions or promotions, as permitted by law;
+  * to protect against, identify and prevent fraud and other criminal activity, claims and other liabilities;
+  * to comply with and enforce applicable legal requirements, relevant industry standards and our policies, including this Privacy Policy; and
+  * otherwise with your consent. 
 
 
 
@@ -360,13 +363,19 @@ _Third Parties_
 
 Please note that when you watch a video or access applications or content provided by a third-party, that provider may collect or receive information about your Smart TV (e.g., its IP address and device identifiers), the requested transaction (e.g., your request to buy or rent the video), and your use of the application or service. Samsung is not responsible for these providers’ privacy or security practices. You should exercise caution and review the privacy statements applicable to the third-party websites and services you use.
 
+_Data Transfers_
+
+We may transfer the personal information we collect about you to recipients in countries other than the country in which the information originally was collected. Those countries may not have the same data protection laws as the country in which you initially provided the information. When we transfer your personal information to recipients in other countries (such as the U.S.), we will protect that information as described in this Privacy Policy and will comply with applicable legal requirements providing adequate protection for the transfer of personal information to recipients in countries other than the one in which you provided the information.
+
+If you are located in the European Economic Area (“EEA”) or Switzerland, with respect to transfers to the U.S. of certain personal information collected in connection with your use of Samsung Smart TVs, Samsung Electronics America, Inc. and its subsidiary Samsung Research America, Inc. are certified under the EU-U.S. and Swiss-U.S. Privacy Shield frameworks developed by the U.S. Department of Commerce, and the European Commission and Swiss Federal Data Protection and Information Commissioner, respectively, regarding the transfer of certain personal information from the EEA and Switzerland to the U.S. [Click here](https://web.archive.org/us/account/privacy-policy/privacy-shield/) to view our EU/Swiss-U.S. Privacy Shield Privacy Policy.
+
 _Country-Specific Features_
 
 Please note that one or more of the features described in this Smart TV Supplement may not be available to you depending on where you live.
 
 **Voice Recognition Service Privacy Notice**
 
-Effective Date: 30/03/2018
+Effective Date: 8/23/2018
 
 Samsung Electronics Co. Ltd. and our affiliates (“Samsung” or “We”) and its affiliated companies respect your concerns about privacy. This Privacy Notice applies to the personal information we collect through the Voice Recognition service (the “Voice Service”).
 
@@ -446,7 +455,7 @@ Or please contact customer service department at [https://www.samsung.com](https
 
 **Interest-Based Advertisements Service Privacy Notice**
 
-Effective Date: 30/03/2018
+Effective Date: 8/23/2018
 
 Samsung Electronics Co. Ltd. and our affiliates (“Samsung” or “We”) and its affiliated companies respect your concerns about privacy. This Privacy Notice applies to the personal information we collect through the Interest-Based Advertisement services (the “IBA Service”).
 
@@ -497,11 +506,13 @@ Samsung processes personal data for the purposes described above.
 
 If you do not provide us with personal data, we will not be able to provide you with all of the features available through the IBA Service.
 
-Information Sharing
+Information Sharing and Data Transfers
 
 We do not disclose personal information about you through the IBA Service, except as described in this Privacy Notice and the Samsung Global Privacy Policy. Limited members of the Advertising Service team in Samsung may access and otherwise process personal data in connection with their job responsibilities or contractual obligations. We may share your personal information with our subsidiaries and affiliates and with service providers who perform services for us. We do not authorise our service providers to use or disclose the information except as necessary to perform services on our behalf or to comply with legal requirements.
 
 Samsung, our subsidiaries and affiliates, and our third party service providers, may also disclose information about you (1) if we are required to do so by law or legal process (such as a court order or subpoena); (2) in response to requests by government agencies, such as law enforcement authorities; (3) to establish, exercise, or defend our legal rights; (4) when we believe disclosure is necessary or appropriate to prevent physical or other harm; (5) in connection with an investigation of suspected or actual illegal activity; (6) in the event we sell or transfer all or a portion of our business or assets (including in the event of a merger, acquisition, reorganisation, dissolution or liquidation); or (7) otherwise with your consent.
+
+If you are located in the EEA or Switzerland, with respect to transfers to the U.S. of certain personal data collected in connection with your use of Samsung Smart TVs, Samsung Electronics America, Inc. and its subsidiary Samsung Research America, Inc. are certified under the EU-U.S. and Swiss-U.S. Privacy Shield frameworks developed by the U.S. Department of Commerce, and the European Commission and Swiss Federal Data Protection and Information Commissioner, respectively, regarding the transfer of certain personal data from the EEA and Switzerland to the U.S. [Click here](https://web.archive.org/us/account/privacy-policy/privacy-shield/) / Visit [www.samsung.com/us/account/privacy-policy/privacy-shield/](https://web.archive.org/us/account/privacy-policy/privacy-shield/) to view our EU/Swiss-U.S. Privacy Shield Privacy Policy.
 
 Retention of Personal Data
 
@@ -640,11 +651,11 @@ SmartThings Services account and access
 
 In addition to your choices and access rights described in this Samsung Privacy Policy, you may also be able to access and update your personal information in your account, including: name and password/PIN number, shipping address, billing address, credit card information, email address, location, group and device information, user profile and SmartApp information.
 
-If you have additional access questions, you can email us at: [support@smartthings.com](https://web.archive.org/web/20180618044238id_/http://www.samsung.com/us/account/privacy-policy/support@smartthings.com).
+If you have additional access questions, you can email us at: [support@smartthings.com](https://web.archive.org/web/20181229154354id_/https://www.samsung.com/us/account/privacy-policy/support@smartthings.com).
 
 Termination
 
-You may request deletion of your SmartThings Services and account by emailing us at [support@smartthings.com](https://web.archive.org/web/20180618044238id_/http://www.samsung.com/us/account/privacy-policy/support@smartthings.com).
+You may request deletion of your SmartThings Services and account by emailing us at [support@smartthings.com](https://web.archive.org/web/20181229154354id_/https://www.samsung.com/us/account/privacy-policy/support@smartthings.com).
 
 Please note that some information may remain in our records after your deletion in order meet certain business needs and / or comply with retention requirements.
 
@@ -661,5 +672,3 @@ Email: [[support@smartthings.com](mailto:support@smartthings.com)] or visit our 
 Changes to this Policy
 
 Please check back for amendments to this Policy. If we make significant amendments we will notify you by sending you a message through the SmartThings Services, to your Samsung Account, or by email to notify you of those changes and give you the opportunity to review the revised Policy before continuing to use the SmartThings Services.
-
-Samsung printing and copier products are now part of the HP product family. Please refer to the HP Privacy Statement at the following link: <http://www.hp.com/go/privacy>.
