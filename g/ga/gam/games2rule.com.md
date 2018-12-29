@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the games2rule.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617221129id_/http%3A//www.games2rule.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the games2rule.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229080135id_/http%3A//www.games2rule.com/privacy-policy) for the most accurate reproduction.*
 
 # Games2rule-This page informs you of our policies
 
