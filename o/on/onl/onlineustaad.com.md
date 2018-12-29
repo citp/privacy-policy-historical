@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onlineustaad.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617195053id_/http%3A//www.onlineustaad.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineustaad.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229022510id_/http%3A//www.onlineustaad.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Urdu Video Tutorials - Computer Ustaad
+# Privacy Policy - Urdu Video Tutorials - Computer Ustaad
 
 **Privacy Policy for: http://www.onlineustaad.com**  
 Your privacy is very important to us, this policy will be updated when will necessary, Your personal information such as IP Address, browser info, internal pages or even suffering sites information maybe collect just for better service purposes.
