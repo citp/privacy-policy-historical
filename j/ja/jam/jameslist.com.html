@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the jameslist.com privacy policy that was archived on 2018-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180629074309id_/https%3A//www.jamesedition.com/about/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jameslist.com privacy policy that was archived on 2018-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181229094853id_/https%3A//www.jamesedition.com/about/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head>
-<script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="async" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!DOCTYPE html><html lang="en" class=" async-hide"><head>
+<script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-N8N6RLK"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="async" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <script>
   (adsbygoogle = window.adsbygoogle || []).push({
     google_ad_client: "ca-pub-3609917653093509",
@@ -25,18 +25,8 @@ JamesEdition.com - The World's Largest Luxury Marketplace
 <meta content="643afb2028860a1f9d0a4750d1b1158c" name="p:domain_verify">
 <meta content="hL4xmesHrL_MvZBRtD9CKZQdpGsXBo74t6QReS1NAlA" name="google-site-verification">
 <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" rel="stylesheet">
-<link rel="stylesheet" media="all" href="/assets/application-3947f45dcf5d2e0439303f0a6c8b1ab842da195cee2afd69cf8656c4fc061210.css">
+<link rel="stylesheet" media="all" href="/assets/application-3551bf900f5947acd30f8626b4f5b77e3a9582f8f08e99e6ac31da419838bc26.css">
 <meta id="csrf">
-<script>
-  (function(h,o,t,j,a,r){
-  h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
-  h._hjSettings={hjid:824767,hjsv:6};
-  a=o.getElementsByTagName('head')[0];
-  r=o.createElement('script');r.async=1;
-  r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
-  a.appendChild(r);
-  })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
-</script><script async="" src="https://static.hotjar.com/c/hotjar-824767.js?sv=6"></script>
 <script crossorigin="anonymous" src="https://cdn.ravenjs.com/3.26.2/raven.min.js"></script>
 <script>
   Raven.config('https://0475c04d843040008a40c66af51f2b6f@sentry.io/1205127', {
@@ -45,12 +35,101 @@ JamesEdition.com - The World's Largest Luxury Marketplace
   }).install()
 </script>
 <script>
+  (function () {
+    window.dataLayer = window.dataLayer || [];
+  
+    const dimensionsAliases = {
+        office_id: 'dimension1',
+        agent_id: 'dimension2',
+        listing_id: 'dimension3',
+        group_id: 'dimension4',
+        country: 'dimension6',
+        city: 'dimension7',
+        category: 'dimension8',
+        page_type: 'dimension9',
+        is_authenticated: 'dimension10',
+        listing_price: 'dimension11',
+        section: 'dimension12',
+        sub_section: 'dimension13'
+    };
+  
+    const dimensions = {"dimension1":null,"dimension2":null,"dimension3":null,"dimension4":null,"dimension6":null,"dimension7":null,"dimension8":null,"dimension9":null,"dimension10":null,"dimension11":null,"dimension12":null,"dimension13":null};
+  
+    let dataForLayer = {};
+  
+    const setDataLayerUsingDimension = (dimensionAlias, layerName) => {
+        if (dimensions.hasOwnProperty(dimensionsAliases[dimensionAlias]) && dimensions[dimensionsAliases[dimensionAlias]]) {
+          dataForLayer[layerName] = dimensions[dimensionsAliases[dimensionAlias]];
+        }
+    };
+  
+    const setDataLayer = (layerName, value) => {
+        if (value !== null) {
+          dataForLayer[layerName] = value;
+        }
+    };
+  
+    setDataLayerUsingDimension('page_type', 'pageType');
+    setDataLayerUsingDimension('section', 'category');
+    setDataLayerUsingDimension('sub_section', 'subCategory');
+    setDataLayerUsingDimension('listing_price', 'price');
+    setDataLayer('dimensions', dimensions);
+  
+    window.dataLayer = [dataForLayer];
+  
+    function setUserIdAndAuthInDataLayer () {
+        try {
+            let cookies = decodeURIComponent(document.cookie).split(';');
+            let cookieData = null;
+            for (let i = 0; i < cookies.length; i++) {
+                let c = cookies[i];
+                while (c.charAt(0) == ' ') {
+                    c = c.substring(1);
+                }
+                if (c.indexOf('_je_user_id=') == 0) {
+                    cookieData = c.split("=")[1];
+                }
+            }
+            if (cookieData) {
+                cookieData = cookieData.split('--');
+                if (cookieData && cookieData.length == 2) {
+                    let userId = JSON.parse(atob(cookieData[0]));
+                    window.dataLayer.push({
+                      userId: userId,
+                      userAuth: 1
+                    });
+                    return;
+                }
+            }
+        } catch (e) {}
+        window.dataLayer.push({
+          userAuth: 0
+        });
+    }
+  
+    setUserIdAndAuthInDataLayer();
+  
+  })();
+</script>
+
+<style>
+  .async-hide { opacity: 0 !important }
+</style>
+<script>
+  (function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;
+  h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+  (a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);
+  })(window,document.documentElement,'async-hide','dataLayer',4000,{'GTM-MFL4N23':true});
+</script>
+
+<script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
   
   ga('create', "UA-5408803-1", 'auto');
+  ga('require', "GTM-MFL4N23");
   
   try {
     var cookies = decodeURIComponent(document.cookie).split(';');
@@ -77,7 +156,7 @@ JamesEdition.com - The World's Largest Luxury Marketplace
   }
   
   try {
-    var dimensions = {"dimension1":null,"dimension2":null,"dimension3":null,"dimension4":null,"dimension6":null,"dimension7":null,"dimension8":null,"dimension9":null,"dimension10":null};
+    var dimensions = {"dimension1":null,"dimension2":null,"dimension3":null,"dimension4":null,"dimension6":null,"dimension7":null,"dimension8":null,"dimension9":null,"dimension10":null,"dimension11":null,"dimension12":null,"dimension13":null};
   
     for (k in dimensions) {
       var v = dimensions[k];
@@ -87,6 +166,18 @@ JamesEdition.com - The World's Largest Luxury Marketplace
   }
   
   ga('send', 'pageview');
+  ga(function(tracker) {
+      const clientId = tracker.get("clientId");
+      window.dataLayer.push({clientId: "ga.1.2." + clientId});
+  });
+</script>
+
+<script>
+  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-N8N6RLK');
 </script>
 
 
@@ -96,29 +187,47 @@ JamesEdition.com - The World's Largest Luxury Marketplace
   SAVE_LISTING_PATH = "/dashboard/saved-listings/add";
   UNSAVE_LISTING_PATH = "/dashboard/saved-listings/remove";
   MOST_POPULAR_NEAR_YOU_PATH = "/most_popular_near_you";
-  
-  RENDER_INQUIRY_FORM_WITH_CONTACT_FIELDS_URL = "/inquiry/render_inquiry_form_with_contact_details_fields";
-  SEND_INQUIRY_WITH_CONTACT_DETAILS_UPDATE_URL = "/inquiry/send_inquiry_with_contact_details_update";
-  
-  RENDER_INQUIRY_FORM_URL = "/inquiry/render_inquiry_form";
-  SEND_INQUIRY_URL = "/inquiry/send_inquiry";
-  
-  HAS_MEMBER_PROVIDED_CONTACT_DETAILS_URL = "/inquiry/has_member_provided_contact_details";
+  LOG_SHOW_NUMBER_CLICK_EVENT_URL = "/log/show_number_click_event";
+  LOG_SEARCH_WITH_SUGGESTION_CLICK_EVENT_URL = "/log/search-with-suggestion-click";
+  LOG_SEARCH_WITH_QUERY_STRING_EVENT_URL = "/log/search-with-query-string";
 </script>
 
+<script async="async" defer="defer" src="https://www.google.com/recaptcha/api.js"></script>
 
 </head>
 <body class="USD" data-authentication-status-url="/is_authenticated" data-currency="USD">
+<noscript>
+<iframe height='0' src='https://www.googletagmanager.com/ns.html?id=GTM-N8N6RLK' style='display:none;visibility:hidden' width='0'></iframe>
+</noscript>
+
+<svg id="category-icons" style="display:none" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+<symbol id="JE-icon-phone" viewBox="0 0 24 24">
+<path d="M19,15c-0.5-0.5-1.1-0.8-1.7-0.8c-0.6,0-1.2,0.3-1.7,0.8L14,16.6c-0.1-0.1-0.3-0.2-0.4-0.2 c-0.2-0.1-0.4-0.2-0.5-0.3c-1.5-1-2.9-2.2-4.2-3.8c-0.7-0.8-1.1-1.5-1.4-2.3c0.4-0.4,0.8-0.8,1.2-1.2C8.7,8.7,8.9,8.5,9,8.4 C10.1,7.3,10.1,6,9,5L7.6,3.6C7.5,3.4,7.3,3.2,7.2,3.1C6.8,2.8,6.5,2.4,6.2,2.1C5.7,1.7,5.2,1.4,4.5,1.4c-0.6,0-1.2,0.3-1.7,0.7 L1.1,3.9C0.5,4.5,0.1,5.3,0,6.2c-0.1,1.1,0.1,2.3,0.6,3.7c0.8,2.2,2.1,4.3,3.9,6.5c2.2,2.7,4.9,4.8,8,6.2c1.2,0.6,2.7,1.2,4.5,1.3 c0.1,0,0.2,0,0.3,0c1.2,0,2.1-0.4,2.9-1.2c0,0,0,0,0,0c0.3-0.3,0.6-0.6,0.9-0.9c0.2-0.2,0.4-0.4,0.7-0.7c1-1.1,1-2.4,0-3.4L19,15z M20.9,20.3c-0.2,0.2-0.4,0.4-0.6,0.6c-0.3,0.3-0.7,0.6-1,1c-0.5,0.6-1.2,0.8-2,0.8c-0.1,0-0.2,0-0.2,0c-1.5-0.1-2.9-0.7-4-1.2 c-2.9-1.4-5.5-3.4-7.6-5.9c-1.7-2.1-2.9-4-3.7-6.1C1.3,8.2,1.2,7.2,1.2,6.3C1.3,5.7,1.5,5.2,2,4.7L3.7,3C4,2.7,4.3,2.6,4.6,2.6 c0.3,0,0.6,0.1,0.8,0.4C5.7,3.3,6,3.6,6.3,3.9c0.2,0.2,0.3,0.3,0.5,0.5l1.4,1.4c0.6,0.6,0.6,1.1,0,1.7C8,7.6,7.9,7.8,7.7,7.9 C7.3,8.4,6.9,8.8,6.5,9.2l0,0C6,9.6,6.1,10,6.2,10.3c0,0,0,0,0,0C6.6,11.2,7.1,12,7.8,13c1.4,1.7,2.9,3.1,4.5,4.1 c0.2,0.1,0.4,0.2,0.6,0.3c0.2,0.1,0.4,0.2,0.5,0.3c0,0,0,0,0.1,0c0.2,0.1,0.3,0.1,0.5,0.1c0.4,0,0.6-0.2,0.7-0.3l1.7-1.7 c0.3-0.3,0.6-0.4,0.8-0.4c0.3,0,0.6,0.2,0.8,0.4l2.8,2.8C21.6,19.3,21.3,19.9,20.9,20.3z M12.5,4.9c0.1-0.3,0.4-0.5,0.7-0.5 c1.6,0.3,3.1,1,4.2,2.2c1.2,1.2,1.9,2.6,2.2,4.2c0.1,0.3-0.2,0.6-0.5,0.7c0,0-0.1,0-0.1,0c-0.3,0-0.5-0.2-0.6-0.5 c-0.2-1.4-0.9-2.6-1.9-3.6c-1-1-2.2-1.6-3.6-1.9C12.7,5.5,12.4,5.2,12.5,4.9z M23.5,11.3c0,0-0.1,0-0.1,0c-0.3,0-0.5-0.2-0.6-0.5 c-0.4-2.4-1.5-4.6-3.3-6.3c-1.7-1.7-3.9-2.9-6.3-3.3c-0.3-0.1-0.5-0.4-0.5-0.7C12.8,0.2,13.1,0,13.4,0c2.6,0.4,5.1,1.7,7,3.6 c1.9,1.9,3.2,4.3,3.6,7C24,10.9,23.8,11.2,23.5,11.3z"></path>
+</symbol>
+<symbol id="JE-icon-auction" viewBox="0 0 24 24">
+<path d="M23.5,18.5L18.9,14c-0.3-0.3-0.6-0.4-1-0.4l0,0c-0.3,0-0.5,0.1-0.8,0.3L13,9.8L14.8,8l2.3-1.4 c0.3-0.2,0.5-0.5,0.6-0.9c0-0.4-0.1-0.7-0.4-1l-4.2-4.2C13,0.1,12.6,0,12.2,0s-0.7,0.3-0.9,0.6L9.9,2.9l-6,6L1.8,10 c-0.3,0.2-0.5,0.5-0.6,0.9c0,0.4,0.1,0.7,0.4,1l4.2,4.2c0.2,0.2,0.6,0.4,0.9,0.4h0.1c0.4,0,0.7-0.3,0.9-0.6l1.1-2l2.1-2.1l4.1,4.1 c-0.4,0.6-0.3,1.3,0.2,1.8l4.6,4.6c0.3,0.3,0.6,0.4,1,0.4l0,0c0.4,0,0.7-0.1,1-0.4l1.7-1.7C24.1,20,24.1,19.1,23.5,18.5z M8.1,13.3 l-1.2,2.2c-0.1,0.1-0.1,0.1-0.2,0.1c-0.1,0-0.1,0-0.2-0.1l-4.2-4.2c-0.1-0.1-0.1-0.1-0.1-0.2c0-0.1,0.1-0.1,0.1-0.2l2.1-1.2l6.2-6.1 l1.5-2.5C12.2,1,12.3,1,12.3,1c0.1,0,0.1,0,0.2,0.1l4.2,4.2c0.1,0.1,0.1,0.1,0.1,0.2s-0.1,0.1-0.1,0.2l-2.4,1.4L12.4,9l0,0l-2.1,2.1 l0,0L8.1,13.3z M12.4,10.4l4.1,4.1l-0.7,0.7l0,0l-4.2-4.1L12.4,10.4z M22.8,19.8l-1.7,1.7c-0.1,0.1-0.2,0.1-0.3,0.1l0,0 c-0.1,0-0.2,0-0.3-0.1L15.9,17c-0.2-0.2-0.2-0.4,0-0.6l1.7-1.7c0.1-0.1,0.2-0.1,0.3-0.1l0,0c0.1,0,0.2,0,0.3,0.1l4.6,4.6 C23,19.4,23,19.7,22.8,19.8z M14.5,20.4H14v-1.3c0-0.8-0.6-1.4-1.4-1.4H3.4c-0.8,0-1.4,0.6-1.4,1.4v1.3H1.4C0.6,20.4,0,21,0,21.8V24 h15.9v-2.2C15.9,21,15.3,20.4,14.5,20.4z M2.9,19.1c0-0.2,0.2-0.4,0.4-0.4h9.2c0.2,0,0.4,0.2,0.4,0.4v1.3h-10 C2.9,20.4,2.9,19.1,2.9,19.1z M14.9,23H1v-1.2c0-0.2,0.2-0.4,0.4-0.4h13.1c0.2,0,0.4,0.2,0.4,0.4V23z"></path>
+</symbol>
+<symbol id="JE-icon-envelope" viewBox="0 0 24 24">
+<path d="M22,3.5H1.9C0.9,3.5,0,4.3,0,5.4v13.2c0,1,0.8,1.9,1.9,1.9h20.2c1,0,1.9-0.8,1.8-1.9V5.4 C23.9,4.4,23.1,3.5,22,3.5z M22,4.2c0.2,0,0.4,0.1,0.6,0.2l-9.7,8.5c-0.5,0.4-1.3,0.4-1.8,0L1.4,4.3c0.2-0.1,0.3-0.1,0.5-0.1H22z M23.2,18.6c0,0.7-0.6,1.2-1.2,1.2H1.9c-0.7,0-1.2-0.6-1.2-1.2V5.4c0-0.2,0-0.3,0.1-0.4l8,6.9L4.3,16c-0.1,0.1-0.1,0.3,0,0.5 c0.1,0.1,0.2,0.1,0.3,0.1c0.1,0,0.2,0,0.2-0.1l4.5-4.2c0,0,0,0,0,0l1.3,1.1c0.4,0.3,0.9,0.5,1.4,0.5s1-0.1,1.4-0.5l1.2-1.1l4.5,4.2 c0.1,0.1,0.2,0.1,0.3,0.1c0.1,0,0.2,0,0.2-0.1c0.2-0.1,0.2-0.4,0-0.5l-4.4-4.1l7.9-7c0.1,0.2,0.1,0.3,0.1,0.5V18.6z"></path>
+</symbol>
+</svg>
+
 <div class="pages privacy" id="view">
-<div class="header__wrapper">
+<div class="header__wrapper" id="main-header">
 <header>
 <div class="logo">
 <a href="/" title="The World's Largest Luxury Marketplace"></a>
 </div>
-<nav class="pull-right" id="extra-navigation">
+<nav id="extra-navigation">
 <ul>
+<li class="button-sell-wrapper button-sell-wrapper--adjust-padding without-line">
+<a class="btn btn-primary button-sell-wrapper__item" data-track="usermenu_sale-btn_link_clicked" href="/professional_seller">Become a Seller</a>
+</li>
 <li class="js-user-menu user-menu without-line">
 <img src="/assets/loaders/registration_loader-de2f1a1f87ec809bfbb0f6aea4607ff4c3843b384810eba45196b329709388c5.svg" alt="Registration loader">
+</li>
+<li class="button-sell-wrapper button-sell-wrapper--mobile-only button-sell-wrapper--with-border">
+<a class="btn btn-primary button-sell-wrapper__item" data-track="usermenu_sale-btn_link_clicked" href="/professional_seller">Become a Seller</a>
 </li>
 <li class="currency dropdown">
 <div class="text dropdown-toggle" data-toggle="dropdown">
@@ -360,6 +469,13 @@ PLN
 <span class="caret"></span>
 </div>
 </div>
+<div class="converted-currency">
+<div class="FJD" data-currency="FJD" data-target="body" data-toggle="currency-global">
+<span class="flag-icon flag-icon-fj"></span>
+FJD
+<span class="caret"></span>
+</div>
+</div>
 </div>
 <ul class="dropdown-menu">
 <li class="" data-currency="USD" data-target="body" data-toggle="currency-global">
@@ -498,9 +614,12 @@ OMR
 <span class="flag-icon flag-icon-pl"></span>
 PLN
 </li>
+<li class="" data-currency="FJD" data-target="body" data-toggle="currency-global">
+<span class="flag-icon flag-icon-fj"></span>
+FJD
+</li>
 </ul>
 </li>
-<li class="contact"><a href="/about/contact">Contact</a></li>
 <li class="about"><a href="/about">About</a></li>
 </ul>
 </nav>
@@ -530,7 +649,7 @@ PLN
 <div class="brand">
 <a href="/"><img src="/assets/logos/jamesedition_sign_white-331ca249828b20e4ee83ea91ea189836976f4ee56f71ef23e6c9fd7d60a8d0ba.svg" alt="Jamesedition sign white">
 </a></div>
-<ul id="main-menu">
+<ul class="nav navbar-nav navbar-collapse collapse" id="main-menu">
 <li class="sale">
 <a href="/for-sale">For Sale
 </a></li>
@@ -577,14 +696,16 @@ PLN
 <span class="caret"></span>
 </a><ul class="dropdown-menu">
 <li><a href="/professional_seller">Professional Dealers</a></li>
-<li><a href="/private_seller/new">Private Sale</a></li>
+<li><a href="/private_seller/new">Private Sellers</a></li>
 </ul>
 </li>
 <li class="js-user-menu user-menu login"><a href="/login">Sign in / Register</a></li>
+<li class="button-sell-wrapper button-sell-wrapper--mobile-only button-sell-wrapper--with-border">
+<a class="btn btn-primary button-sell-wrapper__item" data-track="usermenu_sale-btn_link_clicked" href="/professional_seller">Become a Seller</a>
+</li>
 <li class="white-menu">
 <ul>
 <li class="about"><a href="/about">About</a></li>
-<li class="contact"><a href="/about/contact">Contact</a></li>
 <li class="mobile-currency-container">
 <select class="mobile-currency">
 <option class="USD" data-currency="USD" data-target="body" data-toggle="currency-global">
@@ -723,20 +844,23 @@ OMR
 
 PLN
 </option>
+<option class="FJD" data-currency="FJD" data-target="body" data-toggle="currency-global">
+
+FJD
+</option>
 </select>
 </li>
 </ul>
 </li>
 </ul>
-<div id="search-bar">
-<form action="/search" class="form-inline" data-track="search_submitted" id="search" method="GET" role="search">
-<div class="form-group">
-<input autocomplete="off" class="form-control" data-suggest-source="/search/suggest" id="main-search" name="q" placeholder="e.g. Brand, Model, Location" type="text">
-</div>
-<button>
-<i class="fa fa-search"></i>
-</button>
+<div class="JE-topbar__search-bar navbar-collapse collapse pull-right" id="search-bar">
+<div class="JE-topbar-search">
+<form action="/search" class="JE-topbar-search__field" data-track="main-search" id="search" method="GET" role="search">
+<input autocomplete="off" class="form-control JE-topbar-search__input" data-suggest-places-source="/search/real_estates_locations_suggestions" data-suggest-source="/search/brands_and_models_suggestions" id="main-search" name="q" placeholder="e.g. Brand, Model, Location" type="text">
+<button class="btn btn-default JE-topbar-search__button"><i class="fa fa-search"></i></button>
 </form>
+</div>
+
 </div>
 </nav>
 </div>
@@ -746,61 +870,61 @@ PLN
 <ul class="sale">
 <li>
 <a class="car" title="Cars" href="/cars"><div class="name">Cars</div>
-<div class="total">2,284</div>
+<div class="total">2,485</div>
 </a></li>
 <li>
 <a class="real_estate" title="Real Estate" href="/real_estate"><div class="name">Real Estate</div>
-<div class="total">51,335</div>
+<div class="total">42,943</div>
 </a></li>
 <li>
 <a class="yacht" title="Yachts" href="/yachts"><div class="name">Yachts</div>
-<div class="total">528</div>
+<div class="total">720</div>
 </a></li>
 <li>
 <a class="watch" title="Watches" href="/watches"><div class="name">Watches</div>
-<div class="total">51,369</div>
+<div class="total">52,153</div>
 </a></li>
 <li>
 <a class="jet" title="Jets" href="/jets"><div class="name">Jets</div>
-<div class="total">63</div>
+<div class="total">61</div>
 </a></li>
 <li>
 <a class="helicopter" title="Helicopters" href="/helicopters"><div class="name">Helicopters</div>
-<div class="total">37</div>
+<div class="total">53</div>
 </a></li>
 <li>
 <a class="extraordinaire" title="Extraordinaire" href="/extraordinaire"><div class="name">Extraordinaire</div>
-<div class="total">2</div>
+<div class="total">4</div>
 </a></li>
 <li>
 <a class="jewelry" title="Jewelry" href="/jewelry"><div class="name">Jewelry</div>
-<div class="total">2,683</div>
+<div class="total">2,780</div>
 </a></li>
 <li>
 <a class="collectible" title="Lifestyle" href="/lifestyle-collectibles"><div class="name">Lifestyle</div>
-<div class="total">254</div>
+<div class="total">184</div>
 </a></li>
 <li>
 <a class="motorcycle" title="Motorcycles" href="/motorcycles"><div class="name">Motorcycles</div>
-<div class="total">40</div>
+<div class="total">43</div>
 </a></li>
 </ul>
 <ul class="travel">
 <li>
 <a class="vacation_rental" title="Vacation Rentals" href="/real_estate?rental=true"><div class="name">Vacation Rentals</div>
-<div class="total">28</div>
+<div class="total">34</div>
 </a></li>
 <li>
 <a class="yacht_rental" title="Yacht Rental" href="/yachts?rental=true"><div class="name">Yacht Rental</div>
-<div class="total">10</div>
+<div class="total">11</div>
 </a></li>
 <li>
 <a class="jet_rental" title="Jet Charter" href="/jets?rental=true"><div class="name">Jet Charter</div>
-<div class="total">10</div>
+<div class="total">0</div>
 </a></li>
 <li>
 <a class="experience" title="Experiences" href="/experiences"><div class="name">Experiences</div>
-<div class="total">43</div>
+<div class="total">42</div>
 </a></li>
 </ul>
 </div>
@@ -820,6 +944,8 @@ PLN
 {
   "@context": "http://schema.org",
   "@type": "BreadcrumbList",
+  "name": "JamesEdition",
+  "logo": "https://www.jamesedition.com/assets/logos/jamesedition_sign-510f008f5ab535a081d1d8d9755ccb6d9036d35b13773ec5c53f8244362d0e73.png",
   "itemListElement": [
     {"@type":"ListItem","position":1,"item":{"@id":"https://www.jamesedition.com/about","name":"About"}}, {"@type":"ListItem","position":2,"item":{"@id":"https://www.jamesedition.com/about/privacy-policy","name":"Privacy policy"}}
   ]
@@ -832,9 +958,7 @@ PLN
 <section class="about"><div class="about-navigation"><ul class="nav nav-pills nav-stacked about-menu">
 <li>
 <a href="/about">JamesEdition at a glance</a>
-<a href="/about/team">Brand team</a>
 <a href="/about/testimonials">Success stories</a>
-<a href="/about/press">Pressroom</a>
 <a href="/about/selling">Listing on JamesEdition</a>
 <a href="/about/safety-precautions">Buying safely</a>
 <a href="/about/banner-advertising">Advertising solutions</a>
@@ -911,6 +1035,11 @@ Amazon Web Services (US) – click [
 ] for more information
 </li>
 <li>
+Google Tag Manager (US) – click [
+<a href="https://www.google.com/analytics/tag-manager/use-policy/" target="_blank">here</a>
+] for more information
+</li>
+<li>
 Google Analytics (US) – click [
 <a href="https://policies.google.com/privacy" target="_blank">here</a>
 ] for more information
@@ -980,7 +1109,7 @@ Zendesk (US) – click [
 </ul>
 <p>Please note that third parties (including, for example, advertising networks and providers of external services like web traffic analysis services) may also use cookies, over which we have no control.</p>
 <h2>9. No Spam, Spyware or Spoofing</h2>
-<p>We and our users do not tolerate spam. Make sure to set your JamesEdition notification preferences so we communicate to you as you prefer. You are not licensed to add other JamesEdition users, even a user who has purchased an item from you, to your mailing list (email or physical mail) without their express consent. To report JamesEdition-related spam or spoof emails to JamesEdition, please forward the email to support@jamesedition.com. You may not use our communication tools to send spam or otherwise send content that would violate our User Agreement. We automatically scan and may manually filter messages to check for spam, viruses, phishing attacks and other malicious activity or illegal or prohibited content, but we do not permanently store messages sent through these tools.</p>
+<p>We and our users do not tolerate spam. Make sure to set your JamesEdition notification preferences so we communicate to you as you prefer. You are not licensed to add other JamesEdition users, even a user who has purchased an item from you, to your mailing list (email or physical mail) without their express consent. To report JamesEdition-related spam or spoof emails to JamesEdition, please <a href="/about/contact">contact us</a>. You may not use our communication tools to send spam or otherwise send content that would violate our User Agreement. We automatically scan and may manually filter messages to check for spam, viruses, phishing attacks and other malicious activity or illegal or prohibited content, but we do not permanently store messages sent through these tools.</p>
 <h2>10. Account Protection</h2>
 <p>Your password is the key to your account. Use unique numbers, letters and special characters, and do not disclose your JamesEdition password to anyone. If you do share your password or your personal data with others, remember that you are responsible for all actions taken in the name of your account. If you lose control of your password, you may lose substantial control over your personal data and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately notify JamesEdition and change your password.</p>
 <h2>11. Your Rights About the Use of Your Personal Data</h2>
@@ -1054,7 +1183,7 @@ Instagram
 <section>
 <ul class="site">
 <li>
-<h5>Site Links</h5>
+<p class="footer-menu-title">Site Links</p>
 </li>
 <li><a href="/">Home</a></li>
 <li><a href="/cars">Cars</a></li>
@@ -1074,7 +1203,7 @@ Instagram
 </ul>
 <ul class="tools">
 <li>
-<h5>Tools</h5>
+<p class="footer-menu-title">Tools</p>
 </li>
 <li><a href="/stories">Stories</a></li>
 <li><a href="/richlist">Rich List</a></li>
@@ -1086,12 +1215,10 @@ Instagram
 </ul>
 <ul class="about">
 <li>
-<h5>About JamesEdition</h5>
+<p class="footer-menu-title">About JamesEdition</p>
 <ul>
 <li><a href="/about">JamesEdition at a glance</a></li>
-<li><a href="/about/team">Brand team</a></li>
 <li><a href="/about/testimonials">Success stories</a></li>
-<li><a href="/about/press">Pressroom</a></li>
 <li><a href="/about/terms-of-use">Terms of use</a></li>
 <li><a href="/about/privacy-policy">Privacy policy</a></li>
 <li><a href="/about/faq">FAQ</a></li>
@@ -1099,20 +1226,20 @@ Instagram
 </ul>
 </li>
 <li>
-<h5>Buying and Selling</h5>
+<p class="footer-menu-title">Buying and Selling</p>
 <ul>
 <li><a href="/about/selling">Listing on JamesEdition</a></li>
 <li><a href="/about/safety-precautions">Buying safely</a></li>
 <li><a href="/about/banner-advertising">Advertising solutions</a></li>
 <li><a href="/professional_seller">Professional Dealers</a></li>
-<li><a href="/private_seller/new">Private Sale</a></li>
+<li><a href="/private_seller/new">Private Sellers</a></li>
 </ul>
 </li>
 
 </ul>
 <ul class="brands">
 <li>
-<h5>Top Brands</h5>
+<p class="footer-menu-title">Top Brands</p>
 <div class="row">
 <ul>
 <li><a title="Ferrari" href="/cars/ferrari">Ferrari</a></li>
@@ -1157,12 +1284,27 @@ Instagram
 <div class="explanation">
 Copyright © JamesEdition.com
 <span class="buy-sell">
-Buy, Sell &amp; Charter Yachts, Watches, Private Jets, Boats, Cars, Motorcycles &amp; Helicopters
+Buy &amp; Sell Real Estate, Yachts, Watches, Jewelry, Private Jets, Boats, Cars, Motorcycles &amp; Helicopters
 </span>
 </div>
 </a></div>
 </div>
 </footer>
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "JamesEdition",
+  "url" : "https://www.jamesedition.com/",
+  "sameAs": [
+    "https://www.facebook.com/thejamesedition",
+    "https://twitter.com/JamesEdition",
+    "https://www.instagram.com/jameseditioncom/",
+    "https://de.pinterest.com/jamesedition/"
+  ]
+}
+
+</script>
 
 <script>
   document.addEventListener("DOMContentLoaded", function(event) {
@@ -1187,10 +1329,10 @@ Buy, Sell &amp; Charter Yachts, Watches, Private Jets, Boats, Cars, Motorcycles 
 <div class="cookie-info-container gray">
 <div class="cookie-info-content">
 <h4>
-Cookies on JamesEdition sites
+Cookies on JamesEdition.com
 </h4>
 <p>
-We use cookies for a number of reasons, such as keeping our Site reliable and secure, personalising content and ads, providing social media features and to analyse how our Sites are used.
+We use cookies to keep our site reliable and secure, personalise content and ads, provide social media features and to analyse how our site is used.
 </p>
 <button class="accept-cookie" id="cookie-info-link">
 Accept &amp; Continue
@@ -1213,25 +1355,32 @@ Accept &amp; Continue
 </script>
 </div>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-<script src="/assets/application-b99b735a6bf548f9cc671723657292e55b472921619864685fd78b5466264189.js"></script>
+<script src="/assets/application-0e1c38fbb0098778f19eb80090f99533d5b2c55a2f51c2ac14ca4b009f6b6d76.js"></script>
+<script>
+  window.gptSetup = new GptSetup(".gpt-ad");
+</script>
+
 <script>
   documentReady(function(event) {
     window.newsletterModal = new JE.NewsletterModal('/render_newsletter_modal_content');
   })
 </script>
 
-<script src="//maps.googleapis.com/maps/api/js?key=AIzaSyDWl9_xgMJN1ASyUONbOgz3sU_ADthixvY&amp;libraries=places&amp;language=en"></script>
+<script src="//maps.googleapis.com/maps/api/js?key=AIzaSyDZiIvlYJjoO4bSH30R4-WXUbYMbkj_RVA&amp;libraries=places&amp;language=en"></script>
 <script>
-  Tracking.googleAnalytics({"dimensions":{"dimension1":null,"dimension2":null,"dimension3":null,"dimension4":null,"dimension6":null,"dimension7":null,"dimension8":null,"dimension9":null,"dimension10":null}});
-  (function(h,o,t,j,a,r){
-  h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
-  h._hjSettings={hjid:824767,hjsv:6};
-  a=o.getElementsByTagName('head')[0];
-  r=o.createElement('script');r.async=1;
-  r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
-  a.appendChild(r);
-  })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
-  Tracking.hotjar();
+  Tracking.googleAnalytics();
+</script>
+<script>
+  if (Cookies.get('je-cookie-acceptance')) {
+    _linkedin_partner_id = "567972";
+    window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+    window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+    (function(){var s = document.getElementsByTagName("script")[0];
+    var b = document.createElement("script");
+    b.type = "text/javascript";b.async = true;
+    b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+    s.parentNode.insertBefore(b, s);})();
+  }
 </script>
 
 
