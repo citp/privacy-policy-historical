@@ -1,69 +1,67 @@
-> *The following text is extracted and transformed from the ucg.org privacy policy that was archived on 2017-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170727225921id_/http%3A//www.ucg.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucg.org privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229174040id_/https%3A//www.ucg.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | United Church of God
 
-Date of last revision: April 6, 2015
+Date of last revision: May 24, 2018
 
-** 1. Introduction**
+###  Introduction
 
-This is the website of the United Church of God, _an International Association_ .
+The privacy of your personal information is important to the United Church of God, _an International Association._ This Privacy Policy discloses our information gathering and dissemination practices. We also provide instructions on how to update or remove personal information you have supplied to us.
 
-Our mailing address is  
-PO Box 541069  
-Cincinnati, OH 45254-1069
+###  Information You Provide to Us
 
-We can be reached via e-mail at [webmaster@ucg.org](mailto:webmaster@ucg.org) or [info@ucg.org](mailto:info@ucg.org) or you can reach us by telephone at (513) 576-9796. Send technical inquiries about this website to [webmaster@ucg.org](mailto:webmaster@ucg.org)
+Registering for an account: You provide the following required information – email. After you register you can choose to provide your name, profile image, short bio and other information.
 
-** 2. The Use of this Website by Children**
+Requesting literature for you or a friend: You provide the following information — name, postal address and email.
 
-We do not collect information from children under the age of 13. If you are under the age of 13 please do not attempt to create an account at ucg.org. If false age information is given and an account is created by a user under 13, we will delete the information as quick as possible. For those minors 13 years of age or older, we strongly urge you ask your parents permission before creating an account and submitting any personal information about yourself over the Internet.
+Subscribing to email updates: You provide the following required information — email address. You can choose to provide your name and mailing address.
 
-** 3. Personal Information You Provide to Us**
+We use MailChimp as our email marketing automation platform. By signing up for our email updates, you acknowledge that the information you provide will be transferred to MailChimp for processing in accordance with their [Privacy Policy](https://mailchimp.com/legal/privacy/) and [Terms](https://mailchimp.com/legal/terms/) .
 
-**Registering for an account:** You provide the following required information – email and date of birth. After your register you can choose to provide your name, profile image, short bio, marital status, gender, location, and favorite topics.
+###  Information We Collect
 
-**Requesting literature for you or a friend:** You provide the following information — name, postal address and email.
+You can visit UCG.org without sharing your personal information.
 
-**Subscribing to email newsletter:** You provide the following required information — email address. You can choose to provide your name and mailing address.
+We use Google Analytics and cookies in order to improve our website content, user experience and analyze how the website is used. Google Analytics collects information about you and your use of the website whenever you visit. For example, Google Analytics may collect various forms of information such as site traffic statistics, page views, operating system and browser type, and approximate location. If you would like to opt-out of being tracked by Google Analytics go to this website for more information: <https://tools.google.com/dlpage/gaoptout>
 
-** 4. Information We Collect**
+We use PayPal to process personal data on our behalf. Paypal processes payments for donations, event registrations and other secured payments as needed. Visit PayPal’s [privacy policy](https://www.paypal.com/ie/webapps/mpp/ua/privacy-full) on how this data is protected.
 
-We collect information about you and your use of the website whenever you visit. For example, we may collect various forms of information such as site traffic statistics, page views, operating system and browser type, and IP address. This information gathered will not personally identify you.
+###  How We Use Information Provided and Collected
 
-With respect to cookies: We use cookies to record and track your traffic pattern on the pages you access or visit.
+Registering for a UCG.org account: The additional information you provide after you register will help us provide content that is relevant to you within your account page. We will use your email address to issue you a new password, to notify you when you have received a new message, or when we have an announcement.
 
-What is a cookie?  
-A cookie is a text file that is placed on your hard drive by a Web server. Cookies are not used to run programs or deliver viruses to your computer. A cookie cannot read data off your hard drive or read cookie files created by another website. Cookies are uniquely assigned for your computer, and can only be read by a Web server in the domain that issued the cookie to you.
+Requesting literature for you or a friend: If you supply us with your postal address via our online form, you will only receive the information which you requested. If you provide us with an email address, then you will receive an email notification about your request.
 
-If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You may refuse cookies by turning them off in your browser; however, some of our webpages may require a cookie for access.
+Subscribing to email updates: We will need this information to send the subscribed email updates to your email address or notify you of special announcements.
 
-** 5. How We Use Your Information**
-
-**Registering for an account:** The additional information you provide after you register will help us provide content that is relevant to you within your account page. We will use your email address to issue you a new password, to notify you when you have received a new message, received a friend request or when we have an announcement.
-
-**Requesting literature for you or a friend:** If you supply us with your postal address via our online form you will only receive the information which you requested.
-
-**Subscribing to email newsletter:** We will this information to send an electronic newsletter to your email address.
+We do not collect information from minors, as determined by your local laws (13 years of age in the United States and 16 years of age within the European Union). If you are under the age of adulthood, please do not attempt to create an account at ucg.org. If false age information is given and an account is created by a user under legal age, we will delete the information without delay when we become aware of it. For those minors younger than legal age, we strongly urge you ask your parents’ permission before creating an account and submitting any personal information about yourself over the Internet.
 
 Other ways we may use your information may include, but not limited to: improving the design and content of the website and notifying you of any special announcements.
 
-We do not sell to third parties your personal information, combined personal and demographic information or information about your use of this website. However, we may use your personal information to integrate with third party service providers.
+We do not sell to third parties your personal information, combined personal and demographic information or information about your use of this website. However, we may use the collected information to integrate with third party service providers to help provide better content or help us to analyze our web stats.
 
-From time to time, we may use website visitor (registered accounts) information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to this website to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at this website periodically.
+From time to time, we may use website visitor (registered accounts) information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future, we will post the policy changes to this website and notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at this website periodically.
 
-**How you can change or remove your  information**
+###  Update or Remove Personal Information
 
-At any time you can change or edit your registered account information by logging into the website and clicking on “Edit my profile” under the “Your Account” link at the top of the website.
+At any time, you can change or edit your registered UCG.org account information by logging into the website and clicking on “Edit my profile” under the “Account Settings” link at the top of the website. If you would like to have your UCG.org account deleted, please contact us at the email listed below.
 
-If you do not want to receive emails from us in the future, please let us know by sending an email at the above address, or, by clicking on the unsubscribe link provided in the bottom portion of the email newsletter you have received from us.
+If you want to update or remove your email address used for email updates, please let us know by sending an email to the address below, or by clicking on the “update subscription preferences” or “unsubscribe from this list” links provided in the bottom portion of the email updates you have received from us.
 
-Upon request, we offer you the ability to have inaccuracies and address changes updated in your contact information or your account information. You can have this information corrected by sending us an email at the above address, calling us at the above telephone number, or writing to us at the above address. We will ask for some confirmation of your identity before changing any account information.
+Where required by law, we offer you the ability to access the information we have on you. If you believe the information we have on you is incorrect, you can contact us so we can update it and keep your data accurate. If at any point you would like your provided information to be deleted, you can contact us. We will ask for some confirmation of your identity before changing any information.
 
-You may prevent your information from being used for purposes other than those for which it was originally collected by emailing us at the address above.  
- 
+We intend to retain the personal information provided for only as long as we need it to fulfill the purposes for which it was initially provided.
 
-  
-=========================
+###  Contact Information
+
+United Church of God, _an International Association_   
+PO Box 541069  
+Cincinnati, OH 45254-1069
+
+E-mail: [info@ucg.org](mailto:info@ucg.org)   
+Telephone: (513) 576-9796
+
+* * *
 
 **Website Policy** ( _As Approved by the Council of Elders on February 23, 2007_ )
 
