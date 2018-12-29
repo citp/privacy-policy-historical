@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the socialtables.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629021110id_/https%3A//www.socialtables.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialtables.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229041909id_/https%3A//www.socialtables.com/privacy-policy) for the most accurate reproduction.*
 
 # Social Tables | Privacy Policy
 
-This Privacy Policy governs the manner in which Social Tables collects, uses, maintains and discloses information collected from users (each, a “User”) of the <https://www.socialtables.com/> website (“Site”). This privacy policy applies to the Site and all products and services offered by Social Tables.
+This Privacy Policy governs the manner in which Social Tables collects, uses, maintains and discloses information collected from users (each, a “User”) of the [https://www.socialtables.com/](https://web.archive.org/web/20181229041909id_/https://www.socialtables.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Social Tables.
 
 ## Personal identification information
 
@@ -38,6 +38,8 @@ We adopt appropriate data collection, storage and processing practices and secur
 
 Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
 
+## Personal data requests under GDPR
+
 ## Sharing your personal information
 
 We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
@@ -58,7 +60,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 ## Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
+If you have questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+
 Social Tables  
 Social Tables 1325 G Street, NW, 3rd Floor, Washington, DC 20005  
 +1 (877) 973-2863  
