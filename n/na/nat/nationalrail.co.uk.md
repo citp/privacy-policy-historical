@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalrail.co.uk privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628132844id_/http%3A//www.nationalrail.co.uk/46389.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalrail.co.uk privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229015933id_/http%3A//www.nationalrail.co.uk/46389.aspx) for the most accurate reproduction.*
 
 # National Rail Enquiries - Privacy policy
 
@@ -92,3 +92,9 @@ You have the right to complain about our processing to the Information Commissio
 
 
 
+
+## National Rail Enquires Contact Centre & Train Tracker™ service
+
+National Rail Enquiries Contact Centre and Train Tracker™ service:  All calls are recorded for the purposes of quality assurance; we also store your telephone number in Train Tracker to identify your previous journey details, which speeds up the process and enhances your overall customer experience. We will not share your details with any other third parties.
+
+If you do not wish your telephone number to be stored, you can block your number by using the prefix of ‘141’ (mobile and landline) before dialling us. Alternatively, you can contact your provider to withhold your number on all your calls.
