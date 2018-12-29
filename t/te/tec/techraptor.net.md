@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the techraptor.net privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627225802id_/https%3A//techraptor.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techraptor.net privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229131553id_/https%3A//techraptor.net/privacy-policy) for the most accurate reproduction.*
 
 # Our Policies
-
-This Privacy Policy governs the manner in which TechRaptor collects, uses, maintains and discloses information collected from users (each, a “User”) of the techraptor.net website (“Site”). This privacy policy applies to the Site and all products and services offered by TechRaptor.
 
 ## Who we are
 
@@ -80,6 +78,10 @@ If you have an account on this site, or have left comments, you can request to r
 
 Visitor comments may be checked through an automated spam detection service, provided by Disqus.
 
+How to delete your data from Google
+
+Should you wish to delete your data collected by Google for analytics and advertising purposes, you can visit the [My Activity page](https://myactivity.google.com/myactivity).
+
 ## Additional information
 
 ### Non-personal identification information
@@ -105,7 +107,3 @@ TechRaptor receives data from various third parties that we work with for Advert
 TechRaptor does not use any user data to make automated decision making at this time, although advertising partners will use some user data to present relevant ads to users.
 
 * * *
-
-TechRaptor has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
-
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
