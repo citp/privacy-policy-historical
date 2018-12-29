@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freshome.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626232307id_/https%3A//freshome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshome.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229084101id_/https%3A//freshome.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Freshome.com
 
@@ -28,7 +28,7 @@ We use the information we collect to count the number and type of visitors to th
 
 We have implemented security measures we consider reasonable and appropriate to protect against the loss, misuse and alteration of the information under our control. Please be advised, however, that while we strive to protect your personally identifiable information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to us online and are not responsible for the theft, destruction, or inadvertent disclosure of your personally identifiable information. From time to time we evaluate new technology for protecting information, and when appropriate, we upgrade our information security systems.
 
-Cookies
+#### Cookies
 
 To save you comment’s information every time you visit Freshome, we place a little text file called a cookie? on your hard drive. It sits in your web browser directory.
 
@@ -38,13 +38,25 @@ Cookies help us create a speedy web experience by remembering your address and e
 
 We may use cookies on the website for the purpose of monitoring your and other users’ activity in order to improve the website and the services available to you. If you don’t want us to use cookies when you use our website, you will need to change your Internet browser settings so that your browser does not accept them.
 
+#### Affiliate Marketing Programs and Third-Party Cookies (last updated August 3, 2018)
+
+We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites. Freshome may also participate in other third-party affiliate marketing programs that allow Freshome to earn commissions when you click on (and/or make purchases using) links to companies, brands, products, and/or services on the Freshome site. To help keep track of the commissions we earn, the companies who provide these programs may place third-party cookies on your computer or mobile device. By clicking on links on Freshome, you consent to placement and use of cookies as described in, and the other terms of, the following privacy policies:
+
+Amazon: [https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=468496](https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=468496)
+
+BrandCycle: <https://www.brandcycle.com/privacy-policy/>
+
+Commission Junction: <https://www.conversantmedia.com/legal/privacy>
+
+ShareASale: [www.shareasale.com/PrivacyPolicy.pdf](http://www.shareasale.com/PrivacyPolicy.pdf)
+
 ### Links to Other sites
 
 Freshome has links to partners and other sites. When you link to another site, you are no longer on our site and are subject to the privacy policy of the new website.
 
 ### Restriction of Liability
 
- **Freshome.com  **makes no claims, promises or guarantees about the accuracy, completeness, or adequacy of the contents of this website and expressly disclaims liability for errors and omissions in the contents of this website.
+**Freshome.com  **makes no claims, promises or guarantees about the accuracy, completeness, or adequacy of the contents of this website and expressly disclaims liability for errors and omissions in the contents of this website.
 
 ### Changes to this Privacy Policy
 
