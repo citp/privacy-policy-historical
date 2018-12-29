@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gostica.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629191229id_/https%3A//gostica.com/6104-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gostica.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229203117id_/https%3A//gostica.com/6104-2) for the most accurate reproduction.*
 
 # Privacy Policy - Gostica The Spiritual Path
 
