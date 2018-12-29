@@ -1,142 +1,183 @@
-> *The following text is extracted and transformed from the simple-talk.com privacy policy that was archived on 2018-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180309060130id_/https%3A//www.red-gate.com/website/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simple-talk.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229175013id_/https%3A//www.red-gate.com/website/legal) for the most accurate reproduction.*
 
 # Legal Information About Redgate Software
 
-## Our privacy policy
+## Privacy policy
 
-### Introduction
-
-Redgate (which means here Redgate Software Limited and its subsidiary Red Gate Software Inc.) respects your privacy. All information you give us is held with the utmost care and security.
+Redgate (which means Red Gate Software Limited and its subsidiary Red Gate Software Inc.) respects your privacy. All information you give us is held with the utmost care and security.
 
 Please take time to review this privacy policy as it sets out our privacy practices and tells you how your personal information will be treated by us. We do not sell, rent or loan any identifiable information regarding our customers to any third party. Only in the circumstances described within this Privacy Policy would we share your information with any third party.
 
-Our use of personal data in the UK is in accordance with the Data Protection Act 1998 and our Subsidiary’s practices in the US are as far as reasonably possible in line with those in the UK.
+Our use of personal data is in accordance with the General Data Protection Regulations 2016 (GDPR).
 
-Any questions regarding Redgate’s privacy policy should be directed to [privacy@red-gate.com](mailto:privacy@red-gate.com), or alternatively see the section Contacting us.
+### How we use your information
 
-### Use of information
+Redgate is committed to protecting your privacy. If you're visiting our websites, using our products and services, working with any of our teams, meeting us at events or applying for a role with us, this privacy policy sets out what data we collect, and how we use it. It also describes your rights regarding our use of your data.
 
-Redgate will not collect any personal information about individuals except as set out in this privacy policy.
+We collect common types of personal information, such as: name, job title, company, postal address, email address, phone number, and IP address.
 
-Examples of the types of personal information we will collect are: name, company, postal address, email address, phone number, details of website, features and product usage, installation data and product commentary.
+We will use the personal information provided to us to:
 
-We will use the personal information provided to us in order to:
-
-  * process orders submitted by you;
-  * identify the Redgate 'certified partner' that is best placed to support your software purchase if you cannot purchase directly from us;
-  * customize the service we provide to you;
-  * administrate or otherwise carry out our obligations in relation to any agreement you have with us;
-  * verify your identity (e.g. if you participate in any promotions administered by us);
-  * anticipate and resolve any problems with any goods or services supplied to you;
-  * carry out market research and surveys and track sales data;
-  * send you our newsletter, where this is requested by you;
-  * track your engagement with us, including through our website, articles and newsletters;
-  * understand how you use our products and services;
-  * contact you by telephone and send you follow-up communications relating to your use of software downloaded from our website; and
-  * send you information about our other products and services.
-
-
-
-We may collect any personal information provided by you to us through this website or via use of our products, or we may collect this information via one of our telephone operators or through your email or other communications with us. We may collect anonymous answers to surveys or anonymous and aggregated information about how our products are used. Certain information is collected automatically, as described later in the privacy policy.
-
-We may also ask you for other optional information such as what sort of equipment/device/software you use and what other subjects interest you. If you choose to give us this information, we will use it to help us to provide you with the best possible service that is personalized to your needs and preferences.
-
-We may also combine personal information with Product Usage Data to provide and improve our products, services, content, and advertising.
-
-Although we do not make it compulsory to give us every item of information we ask for, the more information volunteered by our customers (and the more accurate it is), the better we can match our services to the needs of the body of our customers.
-
-During the installation process we may give you the opportunity to choose what ‘product use’ information you provide to us.
-
-We also collect information from you if you choose to take part in any of our on-site surveys or promotions. We will use this information to administer the promotion, help us to plan other promotions and improve the services we provide.
-
-### Information automatically collected about your use of Redgate Products
-
-  *  **Product Usage Data** – We collect product usage data which records certain 'in-product' actions and activities such as 'starting a product', 'creating a workflow', 'open a project', 'run deployment wizard', 'format SQL', 'autocomplete', and 'use a snippet'. We do not scan or collect the content of any file or information that might be displayed by an application or used whilst performing such actions or activities.
-
-  *  **Device Data** – We collect information about your computer, such as operating system, amount of memory, region, language, time zone, browser version, version of SQL Server.
-
-  *  **Error reports** – If you experience problems with our products we may collect data about the products and any problems you experience with them. This data helps us improve our products and services, to diagnose problems in the products you use, and provide solutions. Depending on your product and settings, error reports can include data such as the type or severity of the problem, details of the software or hardware related to an error, contents of files you were using when an error occurred and the current state of the software.
+  * Process orders submitted by you
+  * Identify the Redgate 'certified partner' that is best placed to support your software purchase if you cannot purchase directly from us;
+  * Customize the service we provide to you
+  * Administrate or otherwise carry out our obligations in relation to any agreement you have with us
+  * Verify your identity (e.g. if you participate in any promotions administered by us)
+  * Anticipate and resolve any problems with any goods or services supplied to you
+  * Carry out market research and surveys
+  * Send you our newsletter, where this is requested by you
+  * Track your engagement with us, including through our website, articles and newsletters
+  * Understand how you use our products and services
+  * Contact you by telephone and send you follow-up communications relating to your use of software downloaded from our website
+  * Send you information about our other products and services
+  * Process your application if you apply for a role with us
 
 
 
+This privacy notice tells you what to expect when Redgate collects personal information. It contains more information about:
 
-### Preview, Freeware and Free Edition Software
+  * Visiting our websites
+  * How we use cookies
+  * Newsletters
+  * Contacting us via social media
+  * Contacting our product and support teams
+  * Call recording
+  * Information sent to us when you use our products
+  * Applying for a role with us
+  * Sharing your information with third parties
+  * Transferring your information outside of the European Economic Area
+  * Your rights
+  * Complaints or queries
+  * Reporting security issues
+  * Changes to this privacy policy
+  * Questions about data privacy
 
-Redgate offers preview, freeware and free edition software or other optional features that will enable you to use them while providing feedback and usage data to Redgate.
 
-As a result, these releases may automatically collect additional data, provide fewer controls, and otherwise employ different privacy and security measures than those typically present in our products. If you participate in previews or pre-release programs, we may contact you about your feedback or your interest in continuing to use the product after general release.
 
-### Third-Parties and their sites
+### Visiting our websites
 
-Certain Redgate services, such as payment processing, information processing or assisting with user evaluation of our products, are offered in conjunction with our (third-party) business partners. In such cases, we may need to share your personal information with them in order to provide these services. In this instance, please note that certain services may be unavailable if you do not want to disclose the personal information you are asked for.
+When you visit one of our websites, we collect standard internet log information and details of visitor behavior patterns, including through the use of third-party analytics services (such as Google Analytics). We do this to understand how people are using our websites, to manage their operation and to diagnose any problems.
 
-Where our services make use of hosted tools, hosted data storage and payment services provided by third parties any of your personal information stored by such third parties shall be subject to their privacy provisions.
+We also use third-party services to help us identify visitors to our website to improve the way we offer our products and services.
 
-Whilst we choose our business partners carefully, unfortunately we cannot be responsible for their privacy policies and practices or those of other sites that you access using links from our site. Therefore we recommend that you check the policy of each site you visit.
+Our website search is powered by Google. Search queries and results are logged anonymously to help us improve our website and search functionality. No user-specific data is collected by either Redgate or any third party.
 
-In addition, if you linked to our site from a third party site, we cannot be responsible for the privacy policies and practices of the owners or operators of that third party site and recommend that you check the policy of that third party site and contact its owner or operator if you have any concerns or questions.
+### How we use cookies
 
-### Call Recording
+Your web browser allows you to control whether cookies can be stored by our websites. However, disabling cookies will prevent certain parts of our websites from working correctly. Your web browser’s documentation has more information on controlling cookie behavior.
 
-We record some calls for training and quality purposes to help us evaluate our performance in customer-orientated parts of the business. You have the right to choose not to be recorded.
+We use cookies on our websites to:
 
-### Log files/IP addresses
+  * Maintain your active session
+  * Store your preferences
+  * Track the success of our marketing and advertising campaigns
+  * Analyze the way people use our websites
+  * Gather data on how our websites are performing
 
-When you visit our website, we automatically log your IP address which is recognized by our web server. We use IP addresses to help us administer the website, to collect broad demographic information for aggregate use and to track your engagement with us.
 
-### Non personal information
 
-Redgate may share non-personal aggregate or summary information regarding its customers with partners or other third parties, such as information relating to the number of users linking to our website from their sites but Redgate does not sell or share any information at the individual level.
+### Newsletters
 
-### Cookies
+We send newsletters using HubSpot and Amazon Simple Email Service. We gather statistics around email opening and interaction using industry-standard technologies, including tracking pixels, to analyze the performance or email campaigns. We use data about your interactions with our emails as an indicator of your interest in our products. We may also use your interaction with our previous newsletters to send you more appropriate information in the future.
 
-Cookies are very small text files saved to your computer used to track user navigation around a website.
+You can opt out of receiving these newsletters at any time by clicking the unsubscribe link in these emails, or by [managing your email preferences](https://web.archive.org/Dynamic/account/Manage/EmailPreferences). For SQL Server Central, [manage your preferences here](https://www.sqlservercentral.com/MyAccount).
 
-At Redgate session cookies are used when users log-in to the website. Redgate will use such cookies to identify unique users to our websites. They are not cross-referenced with any other information such that an individual person could be identified.
+### Contacting us via social media
 
-Redgate use tracking cookies track your movement within our websites, and your engagement with our other services such as blogs and newsletters. You'll receive this cookie when you visit one of our websites but the information it collects will remain anonymous until you share your email address with us through one of our websites.
+Redgate maintains a presence on Twitter, Facebook and LinkedIn. We manage your interactions with us using HubSpot as well as using social media platforms directly.
 
-Redgate may use a third party to serve advertisements on our websites. The advertisers may use cookies to track the number of users responding to the campaign. Redgate does not have access to or control of cookies placed by third parties.
+If you send us a message via social media, we may include this in our CRM systems.
 
-Disabling/Enabling Cookies – users have the ability to accept or disable cookies by modifying the settings in their browser. Disabling cookies, however, may mean that some functionality may be affected. For further directions on how to disable cookies please visit <http://www.allaboutcookies.org/manage-cookies/stop-cookies-installed.html>
+### Connecting with our product support teams
 
-### Disclosures
+If you engage with our support teams, we may ask you to provide additional information to help us assist you (like diagnostic logs). We may share this internally with our teams to support you and to enable them to reproduce and fix product issues.
 
-Other than the disclosures referred to in this policy, we will not disclose any personal information without your permission unless we are legally obliged or entitled to do so (for example, if required to do so by Court order or for the purposes of identifying fraud or other crime).
+Some of our products also include feedback mechanisms such as live chat. If you’re signed into the product, we’ll see your name and email address when you chat to us. Any information you send to us in the chat session will be shared with our product development and support teams.
 
-We will only disclose your personal information to a third party either as part of a reorganization or a sale of the assets of Redgate and/or having ensured that steps have been taken to ensure that your privacy rights continue to be protected.
+### Call recording
 
-### Information about our products and services
+We record some calls for training and quality purposes to help us evaluate our performance and better understand the needs of our customers. If you live in the USA and two-party consent is required, we’ll let you know we’re recording the call at the start.
 
-It is very important to us that we provide you with the highest level of service. In order to help us do this, from time to time Redgate may send you, with your consent, details of our products and services which we think may be of interest to you. If at any time you do not wish to continue to receive these details, then send a blank email message to [unsubscribe@red-gate.com](mailto:unsubscribe@red-gate.com). You can also unsubscribe from our newsletter by using the 'unsubscribe' option located in each of our newsletter communications.
+### Information sent to us when you use our products
 
-### Keeping our records accurate
+Our products send usage and fault reporting information to us. We use this to:
 
-We aim to keep our information about you as accurate as possible. If you would like to review or change the details you have supplied us with, please contact us as set out below.
+  * Measure how many people are using the different versions of our products, and the different features within them
+  * Understand the environments in which our products are used (for example, the operating system version, SQL Server version, the amount of system memory and screen resolutions)
+  * Measure the success of our sales and marketing operations
+  * Guide product development decisions and improve our products
+  * Assist you in your evaluation, purchasing, and renewal of our products
 
-### User discussion forums
 
-Redgate may make chat rooms, forums, message boards and/or other news groups available to its users. Any information that is disclosed in these areas becomes public information and you should always be careful when deciding to disclose your personal information.
 
-See information on [use](https://forums.red-gate.com/faq.php) of our forums.
+We use your basic environment and high-level usage data in conjunction with your records in our marketing and CRM systems. Your use of individual features is submitted anonymously and is not linked to your identity.
 
-### Security
+Some of our products allow you to submit error reports if something goes wrong. These contain logs and other diagnostic data, and you can choose to include your contact details and any additional information you think may be useful. Our support and development teams use this data to improve our products.
 
-We have implemented technology and policies to help safeguard your privacy from unauthorized access and improper use. For example, transactions conducted through the website are encrypted and user log-in is subject to password protection. We will continue to monitor and update security measures as new technology becomes available as appropriate to the website.
+If you choose not to include diagnostic data with an error report, an anonymous record of the type of error which occurred will be sent. This allows us to measure how many of our customers experience errors and prioritise our focus for product development.
 
-### Transfers of your personal information outside of the European Economic Area
+### Applying for a role with us
 
-Information you provide to us may be transferred by us to Red Gate Software Inc. and/or our service providers that are situated outside the European Economic Area (EEA) and may be processed by staff operating outside the EEA. Any of our servers may also be temporarily located in a country outside the EEA. If we transfer your information outside the EEA in this way, we will take steps to ensure that your privacy rights continue to be protected in accordance with EU data protection law.
+If you apply for a role at Redgate, we will use the information you provide to assess your application.
 
-### Your consent
+If you are unsuccessful in your application, we will remove your data after 6 months. We may ask your permission to keep your details on file in our talent pool.
 
-By using our website, or giving us your details at an exhibition, you consent to the collection and use of this information by Redgate. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we would disclose it.
+We use a third party, ICIMS, to manage our recruitment process. Their privacy policy is available [here](https://www.icims.co.uk/legal/privacy-policy-website).
 
-### Contacting us
+### Sharing your information with third parties
 
-If at any time you would like to contact us with your views about our privacy practices, or with any enquiry relating to your personal information, you can do so by sending an email to us at [privacy@red-gate.com](mailto:privacy@red-gate.com) or by contacting us at Redgate Software Limited, Newnham House, Cambridge Business Park, Cambridge, CB4 0WZ, United Kingdom.
+Redgate uses select third parties to help us process data which helps us deliver our products and services to you. We do not sell any data regarding your use of our products or services except as part of a reorganization or a sale of the assets of Redgate, and we will ensure that your privacy continues to be protected.
 
-You are entitled to ask for a copy of the information we store about you (for which we may charge a small fee).
+### Transferring your information outside of the European Economic Area
+
+In order to provide a global service, we transfer information to Red Gate Software Inc. and our service providers situated outside the European Economic Area [EEA], and it may be processed by staff operating outside the EEA. When we do this, we take steps to ensure that your privacy rights continue to be protected in accordance with EU data protection law.
+
+### Your rights
+
+Under the GDPR, you have rights as an individual which you can exercise in relation to the information we hold about you:
+
+  * Confirmation of personal data that is being processed
+  * Access to your personal data
+  * Other supplementary information as referred to (the information provided in our privacy policy)
+
+
+
+### Complaints and queries
+
+Redgate tries to meet the highest standards when collecting and using personal information. We take complaints very seriously. If you feel our collection or use of information is unfair, misleading or inappropriate, we encourage you to bring this to our attention. We also welcome any suggestions for improving our procedures.
+
+If you have any questions regarding this policy, or wish to make a complaint about the way we’ve handled your personal information, contact [privacy@red-gate.com](mailto:privacy@red-gate.com).
+
+### Reporting security issues
+
+If you become aware of a security vulnerability in any of Redgate's products, services or websites, contact [security@red-gate.com](mailto:security@red-gate.com).
+
+We encourage the responsible disclosure of security issues, and will act quickly on any vulnerabilities reported. We will not take legal action against you if you:
+
+
+
+* Provide us with the information needed to reproduce and validate the vulnerability
+* Avoid violating the privacy of our customers, staff and other users
+* Avoid the destruction of data, or degradation of our services
+* Do not modify or access data that is not your own
+* Give us a reasonable time to address the issue before making any information public
+
+### Changes to this privacy policy
+
+We regularly review our privacy policy. This policy was last updated on 28th November 2018.
+
+### Questions about data privacy
+
+Redgate is the data controller for the information you provide unless otherwise stated. If you have any queries about the process or how we handle your information, contact [privacy@red-gate.com](mailto:privacy@red-gate.com).
+
+You can also write to us at:
+
+Compliance Manager  
+Red Gate Software Limited  
+Newnham House  
+Cambridge Business Park  
+Cambridge  
+CB4 0WZ
 
 * * *
 
