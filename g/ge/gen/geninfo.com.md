@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the geninfo.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625195817id_/http%3A//www.geninfo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geninfo.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229230742id_/http%3A//www.geninfo.com/privacy) for the most accurate reproduction.*
 
-# Privacy – GIS
+# Privacy – GIS | HireRight
 
 Protecting privacy has always been a top priority at GIS. We believe that a strong privacy policy is good business. To underscore our commitment to privacy, we have amended our online privacy policy on our websites.
 
