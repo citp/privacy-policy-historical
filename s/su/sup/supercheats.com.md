@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the supercheats.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610052707id_/http%3A//www.videogamernetwork.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supercheats.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229044430id_/https%3A//www.supercheats.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy
+# Super Cheats - Privacy Policy
 
 Last Updated May 24th 2018
+
+**Important Notice**
+
+SuperCheats.com started life in 1999 as a website aimed at helping people get the most out of their games. Over the lifetime of our website we have remained a free to access reource, accessed by millions of people around the world, with advertising being our only revenue stream. We can only remain online if people continue to allow us to serve advertsing alongside our content.
 
 We take your privacy seriously, and are committed to your privacy and protection of your personal information, we hope these values are transmitted correctly in our privacy policy.
 
@@ -10,18 +14,13 @@ We take your privacy seriously, and are committed to your privacy and protection
 
 This Policy explains how we may Process your information. This Policy may be amended or updated from time to time, so please check it regularly for updates.
 
-Web Media Network Limited owns and operates several interactive websites. This Privacy Policy applies to all information collected about you by Web Media Network, regardless of how it is collected or stored, and describes, among other things, the types of information collected about you when you interact with our websites and/or apps, how your information may be used, when your information may be disclosed, how you can control the use and disclosure of your information, and how your information is protected.
+Web Media Network Limited owns and operates several interactive websites, including SuperCheats.com. This Privacy Policy applies to all information collected about you by Web Media Network, regardless of how it is collected or stored, and describes, among other things, the types of information collected about you when you interact with our websites and/or apps, how your information may be used, when your information may be disclosed, how you can control the use and disclosure of your information, and how your information is protected.
 
 Our privacy policy may be updated from time to time, and we encourage you to check back regularly to review any changes that may be made.
 
 This Privacy Policy covers information collected through the following websites:
 
-http://videogamernetwork.com - Video Gamer Network  
-http://gamingupdate.com - Gaming Update  
-http://latestscreens.com - Latest Screens  
-http://juegoz.com - Juegoz  
-http://www.gamesguys.com - Games Guys  
-http://www.appgamer.com - AppGamer 
+[https://supercheats.com](https://www.supercheats.com/) (including all sub-domains)
 
 **What Information We May Process**
 
@@ -63,7 +62,7 @@ We do not seek to collect or otherwise Process your Sensitive Personal Informati
 
 **Use of our Services by Children**
 
-The Services are not intended for use by unaccompanied children, especially those under 13, as our website contains comments from the public which may be inappropriate for children to read. While we do our best to moderate inappropriate commnents, due to the real-time nature of commenting some may appear before we have a chance to moderate and some may appear if we make a mistake in moderating comments and other posts. No one under the age of 13 should provide any personal information or use our public discussion areas, forums or chats. Any child wanting to browse our website should do so with a responsible adult, such as a parent or guardian that will be able to make decisions on privacy and cookie consent. If you believe that a child under 13 has registered on our website please let us know at [dpo@webmedianetwork.co.uk](mailto:dpo@webmedianetwork.co.uk)
+The Services are not intended for use by unaccompanied children, especially those under 13, as our website contains comments from the public which may be inappropriate for children to read. While we do our best to moderate inappropriate commnents, due to the real-time nature of commenting some may appear before we have a chance to moderate and some may appear if we make a mistake in moderating comments and other posts. No one under the age of 13 should provide any personal information or use our public discussion areas, forums or chats. Any child wanting to browse our website should do so with a responsible adult, such as a parent or guardian that will be able to make decisions on privacy and cookie consent. If you believe that a child under 13 has registered on our website please let us know at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 **Email a friend and share this article facilities**
 
@@ -75,7 +74,7 @@ We process your information to help us provide our a functioning, interactive we
 
 **Will I get SPAM from you?**
 
-We do not participate in SPAM, selling email addresses, or even sending out regular marketing or infomational emails. Generally the only emails you can expect from us would be a response after you initially making contact with us by email or via a contact form, or notification about a data update based on an opted-in setting such as notification that yourr question has been answered, or notification that a guide has been updated (you would have to exlicitly opt-in on each individual guide). You can manage the notifications that you receive from us by visting the site while being logged in with your registered account.
+We do not participate in SPAM, selling email addresses, or even sending out regular marketing or infomational emails. Generally the only emails you can expect from us would be a response after you initially making contact with us by email or via a contact form, or notification about a data update based on an opted-in setting such as notification that yourr question has been answered, or notification that a guide has been updated (you would have to exlicitly opt-in on each individual guide). You can manage the notifications that you receive from us by visting: https://www.supercheats.com/myaccount/accountsettings while being logged in with your registered account.
 
 **Cookies**
 
@@ -139,8 +138,8 @@ The personal information that we collect from you may be sent and stored outside
 
 **Access to your Information**
 
-You can access your information by logging into your account. It is possible to request to change the email address associated with your account in your account settings. If you would like to delete, your account or data in in, please get in touch with us at [dpo@webmedianetwork.co.uk](mailto:dpo@webmedianetwork.co.uk)
+You can access your information by logging into your account. It is possible to request to change the email address associated with your account in your account settings. If you would like to delete, your account or data in in, please get in touch with us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f08795929d9183849582b08385809582939895918483de939f9d).
 
 **Getting in Touch, and Privacy Concerns**
 
-If you have any concerns about the way we handle your personal data, would like to make changes to the data that we hold on you, delete your account and all of your data, please get in touch with us at [dpo@webmedianetwork.co.uk](mailto:mailto:dpo@webmedianetwork.co.uk)
+If you have any concerns about the way we handle your personal data, would like to make changes to the data that we hold on you, delete your account and all of your data, please get in touch with us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#45322027282436312037053630352037262d202431366b262a28)
