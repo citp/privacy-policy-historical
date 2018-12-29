@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the first4figures.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622062215id_/https%3A//www.first4figures.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the first4figures.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229071601id_/https%3A//www.first4figures.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -53,7 +53,7 @@ First4figures will disclose your personal data to third parties:
   * if First4figures sells or buys any business or assets, in which case First4figures will disclose your personal data to the prospective seller or buyer of such business or asset;
   * if First4figures or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets; or
   * if First4figures is under a duty to disclose or share your personal data in order to comply with any legal obligation, or to protect the rights, property, or safety of First4figures, you or any third party, and to investigate illegal activities and breaches of any agreement First4figures has with you. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
-  * First4figures may pass your personal data to third parties in a statistical and/or aggregated manner in order to analyse the data, First4figures will always ensure that you are be identifiable from any such data.
+  * First4figures may pass your personal data to third parties in a statistical and/or aggregated manner in order to analyse the data, First4figures will always ensure that you are not be identifiable from any such data.
 
 
 
