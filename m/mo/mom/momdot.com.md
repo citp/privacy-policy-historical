@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the momdot.com privacy policy that was archived on 2017-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171019102042id_/https%3A//www.momdot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momdot.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229191310id_/https%3A//www.momdot.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - MomDot
+# Privacy Policy -
 
 This is the web site of **MomDot**.
 
 Our postal address is  
-**Theodore, Al 36582**
+**1006 Country Ct., Richland, WA 99352**
 
-We can be reached via e-mail at [momdot@live.com](mailto:momdot@live.com)
+We can be reached via e-mail at [admin@momdot.com](mailto:admin@momdot.com)
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer’s domain name, IP and e-mail address (if entered).
 
