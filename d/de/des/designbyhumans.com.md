@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designbyhumans.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630035010id_/https%3A//www.designbyhumans.com/help/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designbyhumans.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229223322id_/https%3A//www.designbyhumans.com/help/policies/privacy) for the most accurate reproduction.*
 
 # T Shirt Help
 
