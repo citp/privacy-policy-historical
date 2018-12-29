@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vision.org.au privacy policy that was archived on 2018-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180318233113id_/https%3A//vision.org.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vision.org.au privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229180231id_/https%3A//vision.org.au/privacy-policy) for the most accurate reproduction.*
 
 # Vision Christian Media
 
