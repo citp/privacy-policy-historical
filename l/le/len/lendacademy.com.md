@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lendacademy.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629183451id_/https%3A//www.lendacademy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lendacademy.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229195541id_/https%3A//www.lendacademy.com/privacy) for the most accurate reproduction.*
 
 # Lend Academy Privacy Policy - Lend Academy
 
@@ -108,7 +108,7 @@ Lend Academy complies with the Children’s Online Privacy Protection Act (“CO
 
 ## Additional Agreements
 
-This Policy is incorporated into our Terms of Use [http://www.LendAcademy.com/terms](https://www.lendacademy.com/terms/) and may include terms that are defined in that agreement. You may also be bound by sponsorship, registration, or exhibitor terms and conditions, (each an “Additional Agreement”). In the event of a conflict between this Policy and an Additional Agreement, the Additional Agreement will supersede. Further, you may arrive at a third-party site or service when using our Site or a certain feature, in which case this Policy does not apply. Please review the policies of any third party to learn how they may treat your Personal Information.
+This Policy is incorporated into our Terms of Use [https://www.lendacademy.com/terms](https://www.lendacademy.com/terms/) and may include terms that are defined in that agreement. You may also be bound by sponsorship, registration, or exhibitor terms and conditions, (each an “Additional Agreement”). In the event of a conflict between this Policy and an Additional Agreement, the Additional Agreement will supersede. Further, you may arrive at a third-party site or service when using our Site or a certain feature, in which case this Policy does not apply. Please review the policies of any third party to learn how they may treat your Personal Information.
 
 ## Limitation of liability
 
