@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the magzter.com privacy policy that was archived on 2018-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180629014414id_/https%3A//www.magzter.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the magzter.com privacy policy that was archived on 2018-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181229035257id_/https%3A//www.magzter.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
         <title>Privacy Policy</title>
@@ -17,7 +17,7 @@
 <!--Facebook Like Button OpenGraph Settings End-->
 
 <link rel="dns-prefetch" href="//akcdn.magzter.com">
-<link rel="dns-prefetch" href="https://dev.magzter.com">
+<link rel="dns-prefetch" href="https://webserv.magzter.com">
 <link rel="dns-prefetch" href="//www.google-analytics.com">
 <link rel="dns-prefetch" href="//www.googleadservices.com">
 <link rel="dns-prefetch" href="//s7.addthis.com">
@@ -28,6 +28,7 @@
    <style type="text/css">
     html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;font-size:12px;vertical-align:baseline}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:'';content:none}table{border-collapse:collapse;border-spacing:0}a img{border:0;outline:0}input,textarea{outline:0}.clear{clear:both}.hide{display:none}
 </style>
+<link rel="manifest" href="/manifest.json">
     
     <style>
         /*modified Header CSS*/
@@ -94,7 +95,6 @@
         .modalpopularSearch .visiblecat ul li a{transition:0.5s;display:block;padding:0 25px 0 20px;height:40px;line-height:40px; border-bottom: 1px solid #ddd;color: #000;text-decoration: none;}
         .modalpopularSearch .visiblecat ul li a:hover{color:#3299ff}
         .modalpopularSearch .visiblecat ul li:last-child a{border:0;}
-        span.filterOpt {position: absolute;top: 50%;right:10px;background:url('../images/filter-icon.jpg') no-repeat 0 0;text-indent:-9999px; transform: translateY(-50%);width:23px;height:18px;text-align: center;}
         .searchblockmain p {color: #0e0e0e;font-size: 16px;font-weight: bold;margin:0;display:block;}
         .searchblockmain p.magTitle {color: #0e0e0e;font-size: 20px;font-weight: bold;margin: 0 0 33px;text-decoration: none;display: block;}
         .searchblockmain p span {font-weight: normal;font-size: 14px;color: #5c5c5c;}
@@ -177,6 +177,7 @@
 
                 /*BR*/
         .searchNew {position: relative; }
+        .searchNew.fxhd {height: 70px; overflow: hidden; }
         .searchNew ul.staticLst{display: table;margin: 0 0 4px;}
         .searchNew ul.staticLst li:first-child{font-weight: bold;font-family: sans-serif;margin-right:10px;}
         .searchNew ul.staticLst li{display: inline-block;vertical-align: middle;    margin-bottom: 5px;margin-right: 5px;}
@@ -205,6 +206,7 @@
             /*.modalSearched {max-height:440px;}*/
         }
         @media(max-width:1199px){
+             .searchNew.fxhd {height: auto;}
             .searchblockmain ul.mscroll li {width:30%;}
             .searchblockmain ul.artic li {width:48%;}
             .searchblockmain p.magTitle {margin:0 0 23px;}
@@ -218,6 +220,7 @@
             .staticLst {display:none !important;}
         }
         @media(max-width:992px){
+            .searchNew.fxhd {height: auto;}
             #SearchModal .tabcontent {margin-left:-6px;margin-right:0;}
             .searchblockmain ul.mscroll li {width:30%;}
             .searchblockmain ul.artic li{width:47%;}
@@ -240,6 +243,7 @@
             header .searchblockNew input.form-control, header .searchblockNew input.form-control:focus {height: 35px;padding: 5px 80px 5px 10px;font-size:13px;}
             header .searchblockNew span.searchIcon {height:33px;}
             .arrowNew {display:none;}
+            .searchNew.fxhd {height: auto;}
             .searchNew ul.staticLst {text-align: center;display:none;}
             #SearchModal .tabcontent {margin-left: 0;margin-right: 0;}
             .modalpopularSearch .populerKeyWord:after, .modalpopularSearch .populercat:after {display:none;}
@@ -288,6 +292,7 @@
             .searchblockmain ul.disInfos li .discInfo p {-webkit-line-clamp: 4;}
         }
         @media(max-width:639px){
+            .searchNew.fxhd {height: auto;}
          .searchblockmain ul.mscroll li {width:31.7%;}
             .searchblockmain ul.mscroll, .searchblockmain ul.artic{margin: 10px 0;}
          .searchblockmain ul.artic li {width:100%;margin:0 0 15px 0;}
@@ -298,6 +303,7 @@
         }
 
         @media(max-width:479px){
+            .searchNew.fxhd {height: auto;}
             #magazines ul.mscroll li {width:40%;}
             .mobtab {width: 86%;}
             .searchblockmain ul.mscroll li {width: 44.5%;}
@@ -323,11 +329,17 @@
             .cart-icon p {padding-top:7px !important;margin: 0;padding-left:5px !important;}
         }
 
+        .newspapperHead #navbar, .newspapperHead .navbar-default{max-width:635px;}
+        .newspapperHead .navbar-default .navbar-nav>li>a{margin: 15px 5px !important;}
+        @media(max-width:992px){
+            .newspapperHead .navbar-default .navbar-nav>li>a {margin: 15px 4px !important;}
+        }
     </style>
 
-<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://d2r1yp2w7bby2u.cloudfront.net/js/a.js"></script><script type="text/javascript">
- var clevertap = {event:[], profile:[], account:[], onUserLogin:[], notifications:[]};
+    <script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://d2r1yp2w7bby2u.cloudfront.net/js/a.js"></script><script type="text/javascript">
+ var clevertap = {event:[], profile:[], account:[], onUserLogin:[], notifications:[], privacy:[]};
  clevertap.account.push({"id": "8RK-ZK5-8Z5Z"});
+ clevertap.privacy.push({useIP: true});
  (function () {
 		 var wzrk = document.createElement('script');
 		 wzrk.type = 'text/javascript';
@@ -396,7 +408,7 @@
                             <span class="filterOpt">f</span>
                         </section> -->
                         <aside class="searchblockNew">
-                            <input type="text" autocomplete="off" placeholder="What do you want to read today?" class="form-control opn-search" name="aq">
+                            <input type="text" autocomplete="off" placeholder="Search Articles, Magazines, Topics &amp; more" class="form-control opn-search" name="aq">
                             <span class="searchbl">&nbsp;</span>
                             <span class="searchIcon opn-search"><a href="#" class="scrollup"></a></span>
                         </aside>
@@ -410,57 +422,60 @@
                         <span class="arrowNew">&nbsp;</span>
                         <p class="populerKeyWord">Popular Topics</p>
                         <hr class="barnew">
-                                                                                                                                                                                                                                                                                                                 <a href="javascript:;" data-magkeyword="Lionel Messi">Lionel Messi</a>
-                                                                                    <a href="javascript:;" data-magkeyword="FIFA World Cup">FIFA World Cup</a>
-                                                                                    <a href="javascript:;" data-magkeyword="Donald Trump">Donald Trump</a>
-                                                                                    <a href="javascript:;" data-magkeyword="Fitness">Fitness</a>
-                                                                                    <a href="javascript:;" data-magkeyword="Facebook">Facebook</a>
-                                                                                    <a href="javascript:;" data-magkeyword="Emmanuel Macron">Emmanuel Macron</a>
-                                                                                    <a href="javascript:;" data-magkeyword="Saudi Arabia">Saudi Arabia</a>
-                                                                                    <a href="javascript:;" data-magkeyword="China">China</a>
-                                                                                    <a href="javascript:;" data-magkeyword="iPhone">iPhone</a>
-                                                                                                                                                                                                                                                                                                                                                                                                                            </section>
+                                                                                                                                                                                                                                                                                                                 <a href="javascript:;" data-magkeyword="Holiday">Holiday</a>
+                                                                                    <a href="javascript:;" data-magkeyword="New Year">New Year</a>
+                                                                                    <a href="javascript:;" data-magkeyword="Celebrity Gossip">Celebrity Gossip</a>
+                                                                                    <a href="javascript:;" data-magkeyword="Meghan Markle">Meghan Markle</a>
+                                                                                    <a href="javascript:;" data-magkeyword="Yoga">Yoga</a>
+                                                                                    <a href="javascript:;" data-magkeyword="Keto Diet">Keto Diet</a>
+                                                                                    <a href="javascript:;" data-magkeyword="Beauty">Beauty</a>
+                                                                                    <a href="javascript:;" data-magkeyword="Apple">Apple</a>
+                                                                                    <a href="javascript:;" data-magkeyword="Winter">Winter</a>
+                                                                                    <a href="javascript:;" data-magkeyword="Festival">Festival</a>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </section>
                     <section style="clear:both"></section>
                     <section class="visiblecat">
                         <p class="populercat">Magazines</p>
                         <hr class="barnew">
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 <a href="javascript:;" data-magkeyword="Maxim">Maxim</a>
-                                                                                    <a href="javascript:;" data-magkeyword="Kiplinger's Personal Finance">Kiplinger's Personal Finance</a>
                                                                                     <a href="javascript:;" data-magkeyword="Bloomberg Businessweek">Bloomberg Businessweek</a>
+                                                                                    <a href="javascript:;" data-magkeyword="Kiplinger's Personal Finance">Kiplinger's Personal Finance</a>
                                                                                     <a href="javascript:;" data-magkeyword="Entrepreneur">Entrepreneur</a>
                                                                                     <a href="javascript:;" data-magkeyword="The Atlantic">The Atlantic</a>
+                                                                                    <a href="javascript:;" data-magkeyword="Black Enterprise">Black Enterprise</a>
+                                                                                    <a href="javascript:;" data-magkeyword="Muscle &amp; Fitness">Muscle &amp; Fitness</a>
                                                                                     <a href="javascript:;" data-magkeyword="ESPN The Magazine">ESPN The Magazine</a>
                                                                                     <a href="javascript:;" data-magkeyword="Muscle &amp; Fitness Hers">Muscle &amp; Fitness Hers</a>
-                                                                                    <a href="javascript:;" data-magkeyword="Cosmopolitan">Cosmopolitan</a>
                                                                                     <a href="javascript:;" data-magkeyword="Forbes">Forbes</a>
-                                                                                    <a href="javascript:;" data-magkeyword="Newsweek">Newsweek</a>
-                                                                                                                                                            </section>
+                                                                                                                                                                                                                                                                                            </section>
                         <!-- <section class="visibleKeywords">
                             <p class="populerKeyWord">Popular Topics</p>
-                                                                                                                                                                                                                                                                                                                    <a href="javascript:;" data-magkeyword="Lionel Messi">Lionel Messi</a>
-                                                                                    <a href="javascript:;" data-magkeyword="FIFA World Cup">FIFA World Cup</a>
-                                                                                    <a href="javascript:;" data-magkeyword="Donald Trump">Donald Trump</a>
-                                                                                    <a href="javascript:;" data-magkeyword="Fitness">Fitness</a>
-                                                                                    <a href="javascript:;" data-magkeyword="Facebook">Facebook</a>
-                                                                                    <a href="javascript:;" data-magkeyword="Emmanuel Macron">Emmanuel Macron</a>
-                                                                                    <a href="javascript:;" data-magkeyword="Saudi Arabia">Saudi Arabia</a>
-                                                                                    <a href="javascript:;" data-magkeyword="China">China</a>
-                                                                                    <a href="javascript:;" data-magkeyword="iPhone">iPhone</a>
-                                                                                                                                                                                                                                                                                                                                                                                                                                </section>
+                                                                                                                                                                                                                                                                                                                    <a href="javascript:;" data-magkeyword="Holiday">Holiday</a>
+                                                                                    <a href="javascript:;" data-magkeyword="New Year">New Year</a>
+                                                                                    <a href="javascript:;" data-magkeyword="Celebrity Gossip">Celebrity Gossip</a>
+                                                                                    <a href="javascript:;" data-magkeyword="Meghan Markle">Meghan Markle</a>
+                                                                                    <a href="javascript:;" data-magkeyword="Yoga">Yoga</a>
+                                                                                    <a href="javascript:;" data-magkeyword="Keto Diet">Keto Diet</a>
+                                                                                    <a href="javascript:;" data-magkeyword="Beauty">Beauty</a>
+                                                                                    <a href="javascript:;" data-magkeyword="Apple">Apple</a>
+                                                                                    <a href="javascript:;" data-magkeyword="Winter">Winter</a>
+                                                                                    <a href="javascript:;" data-magkeyword="Festival">Festival</a>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </section>
 
                        <section style="clear:both"></section>
                         <section class="visibleKeywords">
                             <p class="populerKeyWord">Popular Topics</p>
-                                                                                                                                                                                                                                                                                                                    <a href="javascript:;" data-magkeyword="Lionel Messi">Lionel Messi</a>
-                                                                                    <a href="javascript:;" data-magkeyword="FIFA World Cup">FIFA World Cup</a>
-                                                                                    <a href="javascript:;" data-magkeyword="Donald Trump">Donald Trump</a>
-                                                                                    <a href="javascript:;" data-magkeyword="Fitness">Fitness</a>
-                                                                                    <a href="javascript:;" data-magkeyword="Facebook">Facebook</a>
-                                                                                    <a href="javascript:;" data-magkeyword="Emmanuel Macron">Emmanuel Macron</a>
-                                                                                    <a href="javascript:;" data-magkeyword="Saudi Arabia">Saudi Arabia</a>
-                                                                                    <a href="javascript:;" data-magkeyword="China">China</a>
-                                                                                    <a href="javascript:;" data-magkeyword="iPhone">iPhone</a>
-                                                                                                                                                                                                                                                                                                                                                                                                                                </section> -->
+                                                                                                                                                                                                                                                                                                                    <a href="javascript:;" data-magkeyword="Holiday">Holiday</a>
+                                                                                    <a href="javascript:;" data-magkeyword="New Year">New Year</a>
+                                                                                    <a href="javascript:;" data-magkeyword="Celebrity Gossip">Celebrity Gossip</a>
+                                                                                    <a href="javascript:;" data-magkeyword="Meghan Markle">Meghan Markle</a>
+                                                                                    <a href="javascript:;" data-magkeyword="Yoga">Yoga</a>
+                                                                                    <a href="javascript:;" data-magkeyword="Keto Diet">Keto Diet</a>
+                                                                                    <a href="javascript:;" data-magkeyword="Beauty">Beauty</a>
+                                                                                    <a href="javascript:;" data-magkeyword="Apple">Apple</a>
+                                                                                    <a href="javascript:;" data-magkeyword="Winter">Winter</a>
+                                                                                    <a href="javascript:;" data-magkeyword="Festival">Festival</a>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </section> -->
                       <!--  <section class="visiblecat">
                             <p class="populercat">Categories</p>
                             <ul>
@@ -480,10 +495,7 @@
                            </ul>
                         <section class="searchedInner">
                             <span class="arrowNew">&nbsp;</span>
-                            <section class="filterOpt">
-                                    <a href="javascript:;"><img src="images/filter-icon.jpg"></a>
-                                    <section class="filterblock">asdf</section>
-                                </section>
+
 
 
                            <section class="tabcontent">
@@ -559,16 +571,16 @@
                             <a href="#" onclick="ga('send', 'event', { eventCategory: 'Header - privacy', eventAction: 'Publisher Click', eventLabel: 'clicked'});" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Publisher <span class="caret"></span></a>
                             <ul class="dropdown-menu">
                                 <li><a onclick="ga('send', 'event', { eventCategory: 'Header - privacy', eventAction: 'Publisher Info', eventLabel: 'clicked'});" href="https://www.magzter.com/publisher" style="color:#333;">Publisher Info</a></li>
-                                <li><a onclick="ga('send', 'event', { eventCategory: 'Header - privacy', eventAction: 'Publisher Login', eventLabel: 'clicked'});" href="http://publishers.magzter.com" style="color:#333;">Publisher Login</a></li>
+                                <li><a onclick="ga('send', 'event', { eventCategory: 'Header - privacy', eventAction: 'Publisher Login', eventLabel: 'clicked'});" href="https://publishers.magzter.com" style="color:#333;">Publisher Login</a></li>
                             </ul>
                         </li>
                         <li id="family-plan"><a onclick="ga('send', 'event', { eventCategory: 'Header - privacy', eventAction: 'Family Plan click', eventLabel: 'clicked'});" href="https://www.magzter.com/family_sharing">Family Plan</a></li>
                         <li id="gift-card"><a onclick="ga('send', 'event', { eventCategory: 'Header - privacy', eventAction: 'Gift Card click', eventLabel: 'clicked'});" href="https://www.magzter.com/gift-card"><i class="fa fa-gift"></i><span>Gift Card</span></a></li>
                         <li id="tree-stats"><a onclick="ga('send', 'event', { eventCategory: 'Header - privacy', eventAction: 'Trees Saved click', eventLabel: 'clicked'});" href="https://www.magzter.com/save-environment"><i class="fa fa-tree"></i>
-                                                                207k+ Trees Saved</a></li>
+                                                                230k+ Trees Saved</a></li>
                         <li id="app-down"><a onclick="ga('send', 'event', { eventCategory: 'Header - privacy', eventAction: 'Download App click', eventLabel: 'clicked'});" href="https://www.magzter.com/appdownload"><i class="fa fa-mobile"></i> Download App</a></li>
 
-                        <li id="app-down"><a onclick="ga('send', 'event', { eventCategory: 'Header - home', eventAction: 'Refer Friend click', eventLabel: 'clicked'});" href="https://www.magzter.com/gold/refer"><i class="fa fa-handshake-o"></i><span>Refer &amp; Earn</span></a></li>
+                        
                         <!--<li><a onclick="ga('send', 'event', { eventCategory: 'Header - home', eventAction: 'Help click', eventLabel: 'clicked'});" href="https://www.magzter.com/helpnfaq"> Help</a></li>-->
                     </ul>
                 </div>
@@ -580,14 +592,14 @@
                         
                             <!-- <li onclick="ga('send', 'event', { eventCategory: 'Header - privacy', eventAction: 'Login popup', eventLabel: 'clicked'});" data-toggle="modal" href="https://www.magzter.com/login_modal?re_page=privacy-policy" data-target=".login-popup" class="login-icon" style="margin-left:20px;"><i class="fa fa-user"></i></li>
                             <li onclick="ga('send', 'event', { eventCategory: 'Header - privacy', eventAction: 'Login popup', eventLabel: 'clicked'});" data-toggle="modal" href="https://www.magzter.com/login_modal?re_page=privacy-policy" data-target=".login-popup" class="login-text" style="padding-left:2px;">Login</li> -->
-                            <li><a href="https://www.magzter.com/loginBeta" onclick="ga('send', 'event', { eventCategory: 'Header - privacy', eventAction: 'Login page', eventLabel: 'clicked'});" style="margin-left:20px;padding-right:0 !important;"><i class="fa fa-user"></i></a></li>
-                            <li><a href="https://www.magzter.com/loginBeta" onclick="ga('send', 'event', { eventCategory: 'Header - privacy', eventAction: 'Login page', eventLabel: 'clicked'});" style="padding-left:2px;padding:0 5px 0 0 !important;">Login</a></li>
+                            <li><a href="https://www.magzter.com/login" onclick="ga('send', 'event', { eventCategory: 'Header - privacy', eventAction: 'Login page', eventLabel: 'clicked'});" style="margin-left:20px;padding-right:0 !important;"><i class="fa fa-user"></i></a></li>
+                            <li><a href="https://www.magzter.com/login" onclick="ga('send', 'event', { eventCategory: 'Header - privacy', eventAction: 'Login page', eventLabel: 'clicked'});" style="padding-left:2px;padding:0 5px 0 0 !important;">Login</a></li>
                                             </ul>
                 </div>
             </div>
         </div><!--Status Bar Finish-->
 
-        <div class="container hdr-container"><!--Main navigation start-->
+        <div class="container hdr-container newspapperHead"><!--Main navigation start-->
             <div class="col-sm-3 mag-logo">
                 <a onclick="ga('send', 'event', { eventCategory: 'Header - privacy', eventAction: 'Magzter LOGO', eventLabel: 'clicked'});" href="https://www.magzter.com/"><img src="//akcdn.magzter.com/web/assets/images/magzter-Logo-small.png" alt="magzter" name="magzter"></a>
                                 <style type="text/css">
@@ -629,6 +641,13 @@
                     a.tryGoldAnch:hover{
                         border-bottom: 1px solid #FFF;
                     }
+
+
+                    .newspapperHead #navbar, .newspapperHead .navbar-default{max-width:635px;}
+                    .newspapperHead .navbar-default .navbar-nav>li>a{margin: 15px 5px !important;}
+                    @media(max-width:992px){
+                        .newspapperHead .navbar-default .navbar-nav>li>a {margin: 15px 4px !important;}
+                    }
                 </style>
                 <div class="tryGoldDiv">
                     <a onclick="ga('send', 'event', { eventCategory: 'Header - privacy', eventAction: 'Try GOLD Below Logo', eventLabel: 'clicked'});" href="https://www.magzter.com/magztergold" class="tryGoldAnch">Try GOLD</a>
@@ -663,7 +682,9 @@
                         <li class="hidden-item"><a href="https://www.magzter.com/gift-card">Gift Card</a></li>
                         <li><a href="https://www.magzter.com/offers" onclick="ga('send', 'event', { eventCategory:'Header - privacy', eventAction:'Offers menu click', eventLabel:'clicked'});">Offers</a></li>
                         <li class="hidden-item"><a href="https://www.magzter.com/publisher">Publisher Info</a></li>
-            <li><a href="https://www.magzter.com/helpnfaq">Help</a></li>
+                        <li><a href="https://srz.magzter.com" target="_blank" class="srz" onclick="ga('send', 'event', { eventCategory:'Header - privacy', eventAction:'SRZ menu click', eventLabel:'clicked'});">
+SRZ</a></li>
+                        <li><a href="https://www.magzter.com/helpnfaq">Help</a></li>
                       </ul>
                     </div><!--/.nav-collapse -->
                 </nav>
@@ -672,27 +693,27 @@
 
 
         <section style="clear:both"></section>
-        <section class="searchNew populerSer container">
+        <section class="searchNew populerSer container fxhd">
             <aside class="searchblockNew">
-                <input type="text" autocomplete="off" placeholder="What do you want to read today?" class="form-control opn-search" name="aq-dummy" readonly="">
+                <input type="text" autocomplete="off" placeholder="Search Articles, Magazines, Topics &amp; more" class="form-control opn-search" name="aq-dummy" readonly="">
                 <span class="searchbl hidden-xs">&nbsp;</span>
                 <span class="searchIcon opn-search"><a href="#" class="scrollup"></a></span>
             </aside>
             <section style="clear:both"></section>
-                        <ul class="staticLst">
+                        <ul class="staticLst" style="line-height:1.2">
                 <li class="titl"></li>
-                                                                                                                                                                                                                                                                    <li><a href="javascript:;" data-magkeyword="Lionel Messi">Lionel Messi</a></li>
-                                                                                                                            <li><a href="javascript:;" data-magkeyword="FIFA World Cup">FIFA World Cup</a></li>
-                                                                                                                            <li><a href="javascript:;" data-magkeyword="Donald Trump">Donald Trump</a></li>
-                                                                                                                            <li><a href="javascript:;" data-magkeyword="Fitness">Fitness</a></li>
-                                                                                                                            <li><a href="javascript:;" data-magkeyword="Facebook">Facebook</a></li>
+                                                                                                                                                                                                                                                                    <li><a href="javascript:;" data-magkeyword="Holiday">Holiday</a></li>
+                                                                                                                            <li><a href="javascript:;" data-magkeyword="New Year">New Year</a></li>
+                                                                                                                            <li><a href="javascript:;" data-magkeyword="Celebrity Gossip">Celebrity Gossip</a></li>
+                                                                                                                            <li><a href="javascript:;" data-magkeyword="Meghan Markle">Meghan Markle</a></li>
+                                                                                                                            <li><a href="javascript:;" data-magkeyword="Yoga">Yoga</a></li>
                                                                                                                                                             <li><a href="javascript:;">|</a></li>
                                                                                                                                                                                                                                                                                                                                                 <li><a href="javascript:;" data-magkeyword="Maxim">Maxim</a></li>
-                                                                                                                            <li><a href="javascript:;" data-magkeyword="Kiplinger's Personal Finance">Kiplinger's Personal Finance</a></li>
                                                                                                                             <li><a href="javascript:;" data-magkeyword="Bloomberg Businessweek">Bloomberg Businessweek</a></li>
+                                                                                                                            <li><a href="javascript:;" data-magkeyword="Kiplinger's Personal Finance">Kiplinger's Personal Finance</a></li>
                                                                                                                             <li><a href="javascript:;" data-magkeyword="Entrepreneur">Entrepreneur</a></li>
                                                                                                                             <li><a href="javascript:;" data-magkeyword="The Atlantic">The Atlantic</a></li>
-                                                                                                                                                                                                    </ul>
+                                                                                                                                                                                                                                                                                    </ul>
                     </section>
     </header>
 
@@ -730,11 +751,16 @@
     .searchPopulers .visibleKeywords a {transition: 0.5s;display: inline-block;padding: 8px;border: 1px solid #5c5c5c;
         border-radius: 5px;color: #5c5c5c;text-decoration: none;margin: 0 5px 5px;font-size: 13px;font-family: sans-serif;font-weight: bold;}
         .searchPopulers .visibleKeywords a:hover {border: 1px solid #3299ff;color: #3299ff;}
+        .navbar-nav>li>a.srz span{background: #fa6158;border-radius: 3px;color: #fff;font-size: 7pt !important;left:50%;line-height: 10px;padding:1px 5px;font-family: sans-serif;position: absolute;text-transform: capitalize;top: -15px;transform: translateX(-50%);}        .navbar-nav>li>a.srz span:before{content: '';position: absolute;border:5px solid transparent;border-top:5px solid #fa6158;bottom:-10px;left:50%;transform:translateX(-50%)}
+
+       @media(max-width:767px) {
+           .navbar-nav>li>a.srz span {display:none}
+       }
 </style>
 <section style="clear:both"></section>
 <!-- <section class="searchNew populerSer container">
     <aside class="searchblockNew">
-        <input type="text" autocomplete="off" placeholder="What do you want to read today?" class="form-control opn-search" readonly>
+        <input type="text" autocomplete="off" placeholder="Search Articles, Magazines, Topics & more" class="form-control opn-search" readonly>
         <span class="searchIcon opn-search"><a href="#" class="scrollup"></a></span>
     </aside>
 </section>
@@ -743,16 +769,17 @@
         <section class="searchPopulersInner">
             <section class="visibleKeywords">
                 <p class="populerKeyWord">Popular Topics</p>
-                                                                                                                                                                                                         <a href="javascript:;" data-magkeyword="Lionel Messi">Lionel Messi</a>
-                                                            <a href="javascript:;" data-magkeyword="FIFA World Cup">FIFA World Cup</a>
-                                                            <a href="javascript:;" data-magkeyword="Donald Trump">Donald Trump</a>
-                                                            <a href="javascript:;" data-magkeyword="Fitness">Fitness</a>
-                                                            <a href="javascript:;" data-magkeyword="Facebook">Facebook</a>
-                                                            <a href="javascript:;" data-magkeyword="Emmanuel Macron">Emmanuel Macron</a>
-                                                            <a href="javascript:;" data-magkeyword="Saudi Arabia">Saudi Arabia</a>
-                                                            <a href="javascript:;" data-magkeyword="China">China</a>
-                                                            <a href="javascript:;" data-magkeyword="iPhone">iPhone</a>
-                                                                                                                                                                                                                                                                    </section>
+                                                                                                                                                                                                         <a href="javascript:;" data-magkeyword="Holiday">Holiday</a>
+                                                            <a href="javascript:;" data-magkeyword="New Year">New Year</a>
+                                                            <a href="javascript:;" data-magkeyword="Celebrity Gossip">Celebrity Gossip</a>
+                                                            <a href="javascript:;" data-magkeyword="Meghan Markle">Meghan Markle</a>
+                                                            <a href="javascript:;" data-magkeyword="Yoga">Yoga</a>
+                                                            <a href="javascript:;" data-magkeyword="Keto Diet">Keto Diet</a>
+                                                            <a href="javascript:;" data-magkeyword="Beauty">Beauty</a>
+                                                            <a href="javascript:;" data-magkeyword="Apple">Apple</a>
+                                                            <a href="javascript:;" data-magkeyword="Winter">Winter</a>
+                                                            <a href="javascript:;" data-magkeyword="Festival">Festival</a>
+                                                                                                                                                                                                                                                                                                                                                    </section>
            <section style="clear:both"></section>
 
         </section>
@@ -810,7 +837,7 @@
                         search_length:60,
                         user:0,
                         country:"United States",
-                        now:1530236662,
+                        now:1546055708,
                         ageRating:'9',
                     }
 
@@ -1168,7 +1195,7 @@
                           params: {
                             hitsPerPage: this.config.articleHitsPerPage,
                             optionalFacetFilters:["con:"+this.config.country+"","isrecommend:1"],
-                            numericFilters : ["app_type!=10","app_type!=11","islive!=0","date<="+this.config.now+""],
+                            numericFilters : ["app_type!=10","app_type!=11","islive!=0","date<="+this.config.now+"","expiry_date>="+this.config.now+""],
                             facetFilters:qArtFilters
                             /*filters: "(app_type=1 OR app_type=3 OR app_type=10)",
                             numericFilters: "[\"date<="+this.config.now+"\"]",*/
@@ -1519,13 +1546,45 @@
         if(curScrollPos >= 50){
             jQuery('.status-bar').slideUp(300);
             jQuery('.staticLst').hide();
-            jQuery('body').addClass('posNew')
+            jQuery('.searchNew').removeClass('fxhd');
+            jQuery('body').addClass('posNew');
         }else {
             jQuery('.status-bar').slideDown(300);
             jQuery('.staticLst').show();
+            jQuery('.searchNew').addClass('fxhd');
             jQuery('body').removeClass('posNew')
         }
     });
+</script>
+
+<script type="text/javascript">
+setTimeout(function(){clvrTapWebPush();},45000);
+
+function clvrTapWebPush(){
+   clevertap.notifications.push({
+      "titleText":'Get Updates',
+      "bodyText":'Get notified when we run an exciting offer or find an interesting article/magazine that you will love!',
+      "okButtonText":'OK',
+      "rejectButtonText":'Not Now',
+      "okButtonColor":'#f28046',
+      "askAgainTimeInSeconds":604800,
+      "serviceWorkerPath": "https://www.magzter.com/clevertap_sw.js",
+      "hidePoweredByCT": true,
+      "okCallback":function(){
+        notifyme();
+      }
+   });
+}
+
+function notifyme(){
+  if(Notification.permission == 'denied' || Notification.permission == 'default'){
+    Notification.requestPermission(function (permission) {
+        if(permission === "granted"){
+            console.log("Regranted");
+        }
+    });
+  }
+}
 </script>
 <section class="container"><!-- Breadcrumb Start-->
 	<ul class="breadcrumb">
@@ -1694,8 +1753,8 @@
                 <li><a href="https://www.magzter.com/new-arrivals">New Arrivals</a></li>
                 <li><a href="https://www.magzter.com/top-paid-magazines">Top Paid Magazines</a></li>
                 <li><a href="https://www.magzter.com/international-featured">International Featured</a></li>
-                <li><a href="https://www.magzter.com/top-free-magazines">Top Free Magazines</a></li>
-                <li><a href="https://www.magzter.com/top-grossing-magazines">Top Grossing Magazines</a></li>
+                <!--li><a href="https://www.magzter.com/top-free-magazines">Top Free Magazines</a></li>
+                <li><a href="https://www.magzter.com/top-grossing-magazines">Top Grossing Magazines</a></li-->
                 <li><a href="https://www.magzter.com/offers">Offers</a></li>
                 <li><a href="https://www.magzter.com/gift-card"><span>Gift Card</span></a></li>
             </ul>
@@ -1743,7 +1802,7 @@
             <div class="follow_button">
                 <a class="btn btn_follow btn_follow_fb fa fa-facebook" title="Facebook" target="_blank" href="https://www.facebook.com/mobilemagzter"></a>
                 <a class="btn btn_follow btn_follow_twiter fa fa-twitter" target="_blank" title="Twitter" href="https://twitter.com/MobileMagzter"><span>&amp;nbsp;</span></a>
-                <a class="btn btn_follow btn_follow_msg fa fa-pinterest" target="_blank" title="Pinterest" href="http://www.pinterest.com/mobilemagzter"><span>&amp;nbsp;</span></a>
+                <a class="btn btn_follow btn_follow_msg fa fa-pinterest" target="_blank" title="Pinterest" href="https://www.pinterest.com/mobilemagzter"><span>&amp;nbsp;</span></a>
                 <a class="btn btn_follow btn_follow_Googplus fa fa-linkedin" target="_blank" title="In" href="https://www.linkedin.com/company/magzter"><span>&amp;nbsp;</span></a>
                 <a class="btn btn_follow btn_follow_in fa fa-google-plus" target="_blank" title="Google+" href="https://plus.google.com/+MagzterDigitalNewsstand"><span>&amp;nbsp;</span></a>
             </div>
@@ -1754,10 +1813,27 @@
     	<p>© 2011 - 18. All rights reserved. Magzter Inc.</p>
       <a href="https://verify.authorize.net/anetseal/?pid=d5de5e25-48b8-4745-adae-331a09b8429d&amp;rurl=http%3A//www.magzter.com" target="_blank"><img src="//akcdn.magzter.com/web/assets/images/cc.png"></a>
     </section>
+    <script>
+    function clvrTapLogOutTrk(){
+      clevertap.event.push("Log out",{"OS":"Web"});
+      clevertap.logout();
+    }
+
+    </script>
 </footer><!--Footer Finish-->
 <!-- style for singtel popup -->
 <link rel="stylesheet" href="//akcdn.magzter.com/web/assets/css/popup.css" type="text/css">
+<script src="https://smartlock.google.com/client"></script>
 
+<script>
+function clverTapGoldPriceCountry(){
+  var end_offer_date=new Date('07/22/2018 10:30 AM');
+
+  
+                       var res=new Array('$','99.99','49.99','9.99','','https://rse.magzter.com/200x200/images/new_mg/images/device_mag.png','1',end_offer_date);
+             return res;
+ }
+</script>
 <style type="text/css">
 @charset "utf-8";
 /* CSS Document */
@@ -2129,11 +2205,11 @@
 			success : function(resp) {
 				if(resp == 1){
 					if (window.opener && !window.opener.closed) {
-						//window.opener.location.href="https://www.magzter.com/loginBeta?returnpath=https%3A%2F%2Fwww.magzter.com%2Fnews%2F979%2F2497%2F122017%2Fi6s5f";
+						//window.opener.location.href="https://www.magzter.com/login?returnpath=https%3A%2F%2Fwww.magzter.com%2Fnews%2F979%2F2497%2F122017%2Fi6s5f";
 						//window.close();
 						return false;
 					}
-					//window.location.href="https://www.magzter.com/loginBeta?returnpath=privacy-policy";
+					//window.location.href="https://www.magzter.com/login?returnpath=privacy-policy";
 				}
 			}
 		});
@@ -2174,165 +2250,13 @@ $( document ).ready(function() {
             </div>
         </section>-->
 <!----suresh animation for deals---->
-		<link href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css" rel="stylesheet" type="text/css">
-		<link rel="stylesheet" href="//akcdn.magzter.com/web/srz/assets/css/fonts.css">
-		<style>
-		.magOfferWrapper {position:fixed;left: 0;right: 0;top: 0;bottom:0;background: rgba(0,0,0,0.7);z-index: 100000;}
-		.magOfferWrapper .magOffers{max-width:535px;width: 100%;margin: 45px auto;padding:0;border-radius: 5px;}
-		.magOfferWrapper .magOffers .header{background: #424242;position: relative;padding: 10px;border-top-left-radius: 5px;border-top-right-radius: 5px;}
-		.magOfferWrapper .magOffers .header p{color: #fdeb86;font-size: 20px;margin:0;}
-		.magOfferWrapper .magOffers .header a.closeBtn{position: absolute;top: 50%;right: 10px;transform: translateY(-50%);background: #fff;width:25px;height: 25px;border-radius: 50%;text-align: center;line-height:25px;color: #000;text-decoration: none;font-size:17px;}
-		.magOfferWrapper .magOffers .content{display: table;width:100%;background: #fff;padding: 15px;}
-		.magOfferWrapper .magOffers .content figure{display: table-cell;width: 190px;vertical-align:top;padding-right:35px;}
-		.magOfferWrapper .magOffers .content .magGoldInfo{display:table-cell;vertical-align:top;}
-		.magOfferWrapper .magOffers .content .magGoldInfo img{width:270px;}
-		.magOfferWrapper .magOffers .content .magGoldInfo p{margin: 0;font-size: 20px;line-height: 24px;padding: 10px 0 0;font-family: 'hindregular';}
-		.magOfferWrapper .magOffers .content .magGoldInfo h4{text-transform: uppercase;text-align: center;padding: 10px 0 7px;font-family: 'hindsemibold';color: #000;margin: 0;font-size: 18px;}
-		.magOfferWrapper .magOffers .content .magGoldInfo p span strike span{font-family: 'hindregular';font-size: 22px;font-weight: normal; color: #000 !important;}
-		.magOfferWrapper .magOffers .content .magGoldInfo p span strong{font-family: 'hindregular';font-size: 22px;font-weight: normal;}
-		.magOfferWrapper .magOffers .content .magGoldInfo p span strike span{color:#000 !important;}
-		.magOfferWrapper .magOffers .footer{background: #f0f0f0;padding: 10px;border-bottom-left-radius: 5px;border-bottom-right-radius: 5px;text-align:right;}
-		.magOfferWrapper .magOffers .footer a.btn-default{transition:0.2s all ease-in-out; background-color: #fff;font-family: 'hindregular';font-size: 16px;color: #333333;border-color: #fff;}
-		.magOfferWrapper .magOffers .footer a.btn-default.btnnothanks{width:120px;}
-		.magOfferWrapper .magOffers .footer a.btn-default.btnnothanks:hover{background-color:#fdfafa;color:#333333;border-color:#fdfafa}
-		.magOfferWrapper .magOffers .footer a.btn-default.btnsubMag{background-color:#3674aa;color:#fff;float: right;margin-left: 5px;}
-		.magOfferWrapper .magOffers .footer a.btn-default.btnsubMag:hover{background-color:#3f7aad;color:#fff;}
-		.magOfferWrapper .countdown2{display: table;text-align: center;width: 75%;margin: 0 auto;}
-		.magOfferWrapper .countdown2 div{display:table-cell;padding:0;line-height:24px;font-size: 30px;font-weight: 500;color: #000;text-align: center;text-transform: uppercase;position: relative;font-family:'hindregular'}
-		.magOfferWrapper .countdown2 div span{display:block;color:#ff0000;font-size:12px;line-height:12px;/* font-weight:bold;*/}
-		@media(max-width:992px){
-				.magOfferWrapper .magOffers {margin-top:10px;}
-		}
-		@media(max-width:767px){
-				.magOfferWrapper .magOffers .footer a.btn-default.btnsubMag {float: none;margin-left: 0;}
-				.magOfferWrapper .magOffers .content .magGoldInfo h4{font-size:16px;}
-				.magOfferWrapper .countdown2 div {font-size:24px;}
-				.magOfferWrapper .magOffers .content .magGoldInfo p {margin: 0;font-size: 18px;line-height: 24px;padding: 5px 0 0;}
-				.magOfferWrapper .magOffers .content .magGoldInfo img {width: 180px;}
-				.magOfferWrapper .magOffers .header p {font-size:16px;}
-				.magOfferWrapper .magOffers .content figure {width:160px;padding-right:15px;}
-				.magOfferWrapper .magOffers .content .magGoldInfo p span strong {font-size: 18px;}
-				.magOfferWrapper {position: absolute;overflow-y: scroll;}
-		}
-		@media(max-width:479px){
-				.magOfferWrapper .magOffers .header p {font-size:16px;}
-				.magOfferWrapper .magOffers .content .magGoldInfo p {margin: 0;font-size: 16px;line-height: 20px;padding: 5px 0 0;}
-				.magOfferWrapper .magOffers .content,
-				.magOfferWrapper .magOffers .content figure,
-				.magOfferWrapper .magOffers .content .magGoldInfo {display:block;text-align:center;}
-				.magOfferWrapper .magOffers .content figure {margin:0;padding:0;display:inline-block;}
-				.magOfferWrapper .magOffers .content figure img{width:110px;margin: 0 auto;}
-				.magOfferWrapper .magOffers .content .magGoldInfo {padding:15px 0 0;}
-				.magOfferWrapper .magOffers .footer a.btn-default{width: 100% !important;display: block;margin:5px 0;}
-				.magOfferWrapper .magOffers .content .magGoldInfo p span strong {font-size: 16px;}
-		}
-		</style>
-		
-		
-				<section class="magOfferWrapper animated" id="offerPopup" style="display: none">
-		<section class="container">
-				<section class="magOffers" id="offerPopupinner">
-						<section class="header">
-								<p>Go Unlimited with Magzter GOLD</p>
-								<a href="javascript:;" class="closeBtn">X</a>
-						</section>
-													<section class="content">
-								<figure>
-										<img src="https://rse.magzter.com/1570x1750/images/new_mg/images/device_mag.png" class="img-responsive">
-								</figure>
-									<aside class="magGoldInfo">
-										<section class="timerEnds">
-												<img src="https://rse.magzter.com/400x67/images/new_mg/images/mg-logo-new1.png" alt="Magzter Gold" class="magzterGold-logo">
-												<p>Get unlimited access to 5,000+ magazines and thousands of premium articles for just <span><strong> $9.99/month!</strong></span></p>
-										</section>
-									</aside>
-							</section>
-						
-						<section class="footer">
-								<a href="https://www.magzter.com/magztergold/checkout" class="btn btn-default btnsubMag">Subscribe to Magzter GOLD</a>
-								<a href="javascript:;" class="btn btn-default btnnothanks">No, Thanks</a>
-						</section>
-				</section>
-		</section>
-		</section>
-		<script>
-		 jQuery(document).ready(function(){
-
-				setTimeout(function(){
-				 if(typeof localStorage.buy1get1Day != 'undefined'){
-						 var d = new Date()
-						 var day = d.getDate()
-						 if(localStorage.buy1get1Day != day){
-								 localStorage.buy1get1 = 'show';
-						 }
-				 }
-				 if(typeof localStorage.buy1get1 == 'undefined' || localStorage.buy1get1 == 'show'){
-						 $("#offerPopup").removeClass(".fadeOut").addClass("fadeIn").show();
-						 $(".grBg a").on("click", function(){
-								 localStorage.buy1get1 = 'hide';
-								 var d = new Date()
-								 var day = d.getDate()
-								 localStorage.buy1get1Day = day;
-						 });
-						 $(".closeBtn,.btnnothanks").on("click", function(){
-								 $("#offerPopup").removeClass("fadeIn").addClass("fadeOut");
-								 setTimeout(function(){
-										 $("#offerPopup").hide();
-										 localStorage.buy1get1 = 'hide';
-										 var d = new Date()
-										 var day = d.getDate()
-										 localStorage.buy1get1Day = day;
-								 }, 1000);
-						 });
-				 }
-		 }, 1000);
-
-		var end = new Date('06/22/2018 10:30 AM');
-		var _second = 1000;
-		var _minute = _second * 60;
-		var _hour = _minute * 60;
-		var _day = _hour * 24;
-		var timer;
-
-		function showRemaining() {
-				var now = new Date();
-				var distance = end - now;
-				if (distance < 0) {
-						clearInterval(timer);
-						document.getElementById('countdown').style.display="block";
-						document.getElementById('countdown').innerHTML = 'EXPIRED!';
-						document.getElementById('countdown1').style.display="none";
-						return;
-				}
-				var days = Math.floor(distance / _day);
-				var hours = Math.floor((distance % _day) / _hour);
-				var minutes = Math.floor((distance % _hour) / _minute);
-				var seconds = Math.floor((distance % _minute) / _second);
-
-				$("#days").html(days + "<span>Days</span>");
-				$("#hours").html(hours + "<span>HRs</span>");
-				$("#minutes").html(minutes + "<span>mins</span>");
-				$("#seconds").html(seconds + "<span>secs</span>");
-				if(minutes <10){
-						$("#minutes").html("0" + minutes + "<span>mins</span>");
-				}
-				if(seconds <10){
-						$("#seconds").html("0" + seconds + "<span>secs</span>");
-				}
-		}
-		timer = setInterval(showRemaining, 1000);
-		 });
-		/*jQuery(window).on('load',function(){
-				jQuery('.magOfferWrapper.animated').addClass('slideInDown');
-		});*/
-		</script>
-
 
 
 <!----suresh animation for deals---->
 
             <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
             <style type="text/css">
+
 						.animation{position: fixed;bottom:25px;right: 25px;overflow: visible;text-align: center;z-index: 1;}.doginner {width:200px;}.animation img{display: block;margin: 0 auto;border: 0;border-radius: 50%;width:200px;cursor: pointer;}.info {position: absolute;right: 0;bottom: 0;}.info img{border-radius: 0;}.animation.aniamted img{opacity: 0;-webkit-animation-name: bounceIn;animation-name: bounceIn;-webkit-animation-duration: 450ms;animation-duration: 450ms;-webkit-animation-timing-function: linear;animation-timing-function: linear;-webkit-animation-fill-mode: forwards;animation-fill-mode: forwards;}.animation.animateremoved img{opacity: 0;-webkit-animation-name: bounceOut;animation-name: bounceOut;-webkit-animation-duration: 450ms;animation-duration: 450ms;-webkit-animation-timing-function: linear;animation-timing-function: linear;-webkit-animation-fill-mode: forwards;animation-fill-mode: forwards;}a.closebtn{  background: #0565b6 none repeat scroll 0 0;border-radius: 50%;color: #ffffff;cursor: pointer;display: block;font-size: 14px;font-weight: normal;line-height: 20px;padding: 0 5px;position: absolute;right: 0;top: 0;z-index: 1;}animation.aniamted img{-webkit-animation-delay: 2s;animation-delay: 2s;}.animation.aniamted .info a img.one{-webkit-animation-delay: 2.15s;animation-delay: 2.15s;}.animation.aniamted .info a img.two{-webkit-animation-delay: 3s;animation-delay: 3s;}
 
           .smalltext{
@@ -2492,9 +2416,9 @@ __lc.license = 6177961;
 			  success: function(msg){
 							var returnpath = getUrlParameter('returnpath');
 							if(returnpath!='' && typeof returnpath!=='undefined'){
-								location.href='http://www.magzter.com/autolog/'+msg+'?nodec&path='+returnpath;
+								location.href='https://www.magzter.com/autolog/'+msg+'?nodec&path='+returnpath;
 							}else{
-	              location.href='http://www.magzter.com/autolog/'+msg+'?path=privacy-policy';
+	              location.href='https://www.magzter.com/autolog/'+msg+'?path=privacy-policy';
 							}
 			  }
 		  });
@@ -2545,8 +2469,7 @@ __lc.license = 6177961;
 				    return null;
 				}
         $(document).ready(function(e) {
-
-					jQuery("#closecookie").click(function(){
+          					jQuery("#closecookie").click(function(){
 						jQuery(".cookiesMainWrapper").hide();
 						setCookie('cookie_alert','1','365');
 					});
@@ -2574,6 +2497,11 @@ __lc.license = 6177961;
 				}
 				function clvrTapLogOutTrk(){
 					clevertap.event.push("Log out",{"OS":"Web"});
+					clevertap.logout();
 				}
+				function clvrTapBannerClicked(bnr_url){
+					clevertap.event.push("Banner Clicked",{"Link":""+bnr_url+"","OS":"Web"});
+				}
+
 				</script>
 </body></html>
