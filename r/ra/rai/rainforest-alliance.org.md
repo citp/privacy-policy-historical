@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rainforest-alliance.org privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629020647id_/https%3A//www.rainforest-alliance.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rainforest-alliance.org privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229041437id_/https%3A//www.rainforest-alliance.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Rainforest Alliance
 
@@ -92,7 +92,7 @@ More specifically, we collect and receive information for the following purposes
 
 **To improve our Services**. We also use the information we collect and receive to provide content you or other users are likely to find relevant and engaging. We also use the information to conduct surveys to measure your satisfaction with our Services, which we use to improve our Services. Information collected will allow us to adjust and improve our websites to your wishes and needs and to be able to prepare anonymized statistics about the use of our websites. Using the information to improve our Services is in our legitimate interest.
 
-**To provide effective advertising**. You may receive advertising on third-party websites and apps such as Google AdWords, Facebook, and Instagram. We use the information we collect and receive to make the advertising we provide more effective, which is in our legitimate interest. Some of the ways we do this are:
+**To provide effective advertising**. You may receive advertising on third-party websites and apps such as Google AdWords, Facebook, and Instagram. We use the information we collect and receive to advertise and to make the advertising we provide more effective, which is in our legitimate interest. Some of the ways we do this are:
 
   * Showing you ads based on your online activities, such as your geographic location, the languages you speak, the keywords that you use on search engines, and the types of social media content that you “like” and/or follow, and website content you view;
   * Limiting the number of times you see the same ad; and
