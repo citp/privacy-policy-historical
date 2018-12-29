@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4shared.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629010900id_/https%3A//www.4shared.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4shared.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229031913id_/https%3A//www.4shared.com/privacy.jsp) for the most accurate reproduction.*
 
 # 4shared.com - free file sharing and storage - Privacy Policy
 
@@ -152,6 +152,27 @@ OpenSignal is the independent global standard for measuring real-world mobile ne
 
 To read more about the data we collect and our privacy policy please follow the link <http://opensignal.com/privacypolicy-for-crowdsourcedata.com>
 
+**Epom Ltd.** may collect data related to the use of 4shared apps, other apps and user's device, that may include (a combination of) Personal Data elements, such as geographical location, network performance, and other permission-based information.
+
+Data is collected and treated anonymously and shared with other partners so that users can receive more effective ads in the 4shared applications. For more details please refer to [Epom's Privacy Policy](https://apps.epom.com/privacy-policy).
+
+**Unacast, Inc.** collects Data in a relating to your use of our apps, other apps and your device, that may include (a combination of) Data elements, such as:
+
+  * Precise geolocation data
+  * Unique advertising IDs
+  * Usage data (IP Address, device type, device carrier, timestamp, etc.)
+
+
+
+Unacast, Inc. will use the Data collected about you for the following purposes, including but not limited to:
+
+  * Customize ads in this app and in other apps
+  * Market research and other research
+
+
+
+Please see [Unacast's Privacy Policy](https://www.unacast.com/privacy/policy) for more information and trusted partners listed below.
+
 **Tutela Technologies Ltd.** collects data relating to your use of our apps, other apps and your device, that may include (a combination of) Personal Data elements, such as:
 
   * Location
@@ -183,6 +204,182 @@ Oracle will use the Data we share about you to for the following purposes, inclu
   * Oracle's internal system improvements, product improvement, statistical analysis, and research, and development. 
 
 
+
+**Predicio** collects the following information:
+
+  * iOS® Identifier for Advertising (on iOS only), Android™ Advertiser ID (on Android only)
+  * Details regarding mobile phone operating system and device
+  * Location
+  * Encrypted MD5 email (if in-app sign-in available)
+  * App usage
+
+
+
+To read more about the data and opt-out of the collection please follow the link <http://www.predic.io/privacy>
+
+**X-Mode Social, Inc.** collects data in a relating to your use of our apps, other apps and your device, that may include (a combination of) Data elements, such as:
+
+  * Precise geolocation data
+  * Unique advertising IDs
+  * Usage data (IP Address, device type, device carrier, timestamp, etc.)
+
+
+
+X-Mode will use the Data collected about you for the following purposes, including but not limited to:
+
+  * Customize ads in this app and in other apps
+  * Market research and other research
+
+
+
+Please see [X-Mode's Privacy Policy](http://xmode.io/privacy-policy.html) for more information and trusted partners listed below.
+
+**Complementics** collects Data relating to your use of 4shared App, other apps and your device, in a pseudonymized manner, that may include (a combination of) Personal Data elements, such as:
+
+  * Hashed or encrypted values of your email or phone number
+  * Geolocation, and
+  * other permission-based user information.
+
+
+
+Privacy and Opt-Out Options: for further information about Complementics data collection and use practices, please see Complementics [Privacy Policy](https://www.complementics.com/privacy). To opt out of data collection by Complementics, please use the Complementics [opt-out link](https://www.complementics.com/opt-out).
+
+**Factual, Inc.** collects data in a relating to your use of our apps, other apps and your device, that may include (a combination of) Data elements, such as:
+
+  * Precise geolocation data
+  * Unique advertising IDs
+  * Usage data (IP Address, device type, device carrier, timestamp, etc.)
+
+
+
+Factual, Inc. will use the Data collected about you for the following purposes, including but not limited to:
+
+  * Customize and measure the effectiveness of ads;
+  * Market research and other insights.
+
+
+
+**In Loco**. The 4shared app contains the geolocation technology owned by IN LOCO INFORMATION TECHNOLOGY S.A. ("In Loco"). This technology allows capturing location data from your mobile device, which is collected and treated anonymously by In Loco so that you can receive more effective ads in the 4shared application. By accepting this Privacy Policy, you declare to be aware of and agree to the collection and processing of your data by In Loco, as provided in [In Loco's Privacy Policy](https://s3.amazonaws.com/blog.inlocomedia.com/In+Loco+Media+-+Privacy+Policy+%5BEN%5D.pdf).
+
+**MobKnow.** We share data relating to your use of 4shared Apps, other apps and your device, in a pseudonymized manner, that may include (a combination of) Personal Data elements, such as:
+
+  * IP address
+  * user ID
+  * unique Advertising IDs
+  * device information (ID, brand, model, network, provider)
+  * ad context (e.g. web/app page meta-data)
+  * location data
+
+
+
+The personal data transferred may be subject to the following basic processing activities:
+
+  * providing advertising and app monetization experience
+  * customer service activities, such as processing orders, payment processing, technical support and improving offerings
+  * consulting, professional, security, storage, hosting and other related services
+  * internal business processes and management, age verification or authentication purposes, fraud detection and prevention, and compliance with governmental, legislative and regulatory bodies
+  * sales and marketing
+
+
+
+For further information about MobKnow data practices, including technical and organizational measures to ensure that personal data are not attributed to an identifiable natural person, please see the MobKnow [Privacy Policy](https://mobknow.com/privacy_policy/).
+
+To opt out of data sharing with MobKnow, please utilize the opt-out measures provided in the privacy statement, contact [DPO@mobknow.com](mailto:DPO@mobknow.com), or contact us at [legal@4shared.com](mailto:legal@4shared.com).
+
+**Pubmint GmbH** may collect anonymous data through anonymous tracking technologies that record such events as related to your activity and device, that may include (a combination of) Personal Data elements, such as:
+
+  * socio-demographic data (e.g. age range)
+  * device-related data (type, operating system, version)
+  * app usage data (including app installation, uninstallation)
+  * unique Advertising IDs
+
+
+
+The personal data transferred may be subject to the following basic processing activities:
+
+  * to serve Pubmint ads in mobile applications
+  * personalize advertising
+  * enhance ad effectiveness and relevance
+  * provide reporting for internal and external clients
+  * improve Pubmint Services and Platform
+  * conduct research
+
+
+
+For further information about Pubmint data practices, including technical and organizational measures to ensure that personal data are not attributed to an identifiable natural person, please see the Pubmint [Privacy Policy](https://www.pubmint.com/privacy).
+
+To opt out of data sharing with Pubmint, please utilize the opt-out measures provided in the privacy statement, contact [operations@pubmint.com](mailto:operations@pubmint.com), or contact us at [legal@4shared.com](mailto:legal@4shared.com).
+
+**ElephantData Ltd.** collects data relating to your use of 4shared Apps, other apps and your device, in a pseudonymized manner, that may include (a combination of) Personal Data elements, such as:
+
+  * IP address
+  * device-related data (including CPU core number, RAM, ROM, screen size and model)
+  * network data (e.g. network type, operator)
+  * unique Advertising IDs
+  * app usage data (including app installation, uninstallation, update)
+
+
+
+ElephantData does not collect or disclose any sensitive personal information (e.g. information related to racial or ethnic origin, political opinions, religion or other beliefs, health, sexual orientations).
+
+The personal data transferred may be subject to the following basic processing activities:
+
+  * to operate and improve ElephantData services
+  * find out the reason why the error occurred or application crashed and
+  * improve the quality of the application
+  * better understand how users access and use the application
+  * help ElephantData develop new services.
+
+
+
+For further information about ElephantData data practices, including technical and organizational measures to ensure that personal data are not attributed to an identifiable natural person, please see the ElephantData [Privacy Policy](http://www.elephantdata.net/file/elephantData_PrivacyPolicy.pdf).
+
+To opt out of data sharing with ElephantData, please utilize the opt-out measures provided in the privacy statement, contact [service@elephantdata.net](mailto:service@elephantdata.net), or contact us at [legal@4shared.com](mailto:legal@4shared.com).
+
+**Tiendeo Web Marketing SL** collects data relating to your use of 4shared App and your device, in a pseudonymized manner, that may include (a combination of) Personal Data elements, such as:
+
+  * device location (longitude and latitude)
+  * unique Advertising IDs (IDFA/GAID)
+
+
+
+The personal data transferred may be subject to the following basic processing activities:
+
+  * for purposes of contractual compliance
+  * for purposes of legitimate interest to offer possible service improvements
+  * for purposes of promotion and/or profiling by express consent
+  * to offer personalized and geolocated promotions
+
+
+
+For further information about Tiendeo data practices, including technical and organizational measures to ensure that personal data are not attributed to an identifiable natural person, please see the Tiendeo [Privacy Policy](https://www.tiendeo.com/info/en/legal-notice-en).
+
+To opt out of data sharing with Tiendeo, please utilize the opt-out measures provided in the privacy statement, deactivate location permission, contact [dpo@tiendeo.com](mailto:dpo@tiendeo.com), or contact us at [legal@4shared.com](mailto:legal@4shared.com).
+
+**adsquare GmbH.** We share data relating to your use of 4shared Apps, other apps and your device, in a pseudonymized manner, that may include (a combination of) Personal Data elements, such as:
+
+  * mobile advertising ID
+  * location data
+  * cookie information
+  * IP address
+  * audience data segments (app usage data)
+
+
+
+The personal data transferred may be used for online marketing purposes throughout its ‘Audience Management Platform' ("AMP"), e.g. for
+
+  * predicting users' interests and preferences for interest-based advertising
+  * ad tailoring to a particular location and users' location behavior
+  * determining how users respond to certain ads
+  * cross-device targeting in order to serve or measure advertising on related devices
+  * reporting aggregated statistics regarding, for example, the effectiveness of digital advertising campaigns
+  * provision, operation, management, maintenance, and enhancements of the AMP
+
+
+
+For further information about adsquare data practices, including technical and organizational measures to ensure that personal data are not attributed to an identifiable natural person, please see the adsquare [Privacy Policy](https://www.adsquare.com/privacy/).
+
+To opt out of data sharing with adsquare, please utilize the opt-out measures provided in the privacy statement, contact [privacy@adsquare.com](mailto:privacy@adsquare.com), or contact us at [legal@4shared.com](mailto:legal@4shared.com).
 
 For more details, please refer to opt-out instructions on websites of self-regulatory organizations:
 
