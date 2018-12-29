@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the childcarecenter.us privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625113142id_/http%3A//childcarecenter.us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the childcarecenter.us privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229025038id_/https%3A//childcarecenter.us/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Childcare Center Privacy Policy
 
 This privacy notice discloses the privacy practices for ChildcareCenter.us. This privacy notice applies solely to information collected by this web site. It will notify you of the following: 
 
@@ -65,4 +65,4 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 ### How To Contact Us
 
-If you feel that we are not abiding by this privacy policy, or should you have other questions or concerns about these privacy policies, please send us an email at [contact us](https://web.archive.org/contact).
+If you feel that we are not abiding by this privacy policy, or should you have other questions or concerns about these privacy policies, please send us an email at [contact us](https://childcarecenter.us/contact).
