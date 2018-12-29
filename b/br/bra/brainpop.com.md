@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brainpop.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629201120id_/https%3A//www.brainpop.com/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainpop.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229212711id_/https%3A//www.brainpop.com/about/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - BrainPOP
 
@@ -36,7 +36,7 @@ We do not collect users' web search history across third party websites or searc
 
 **Contact information for newsletter and surveys:** On BrainPOP Educators®, a section of our websites that is directed to adults, users may choose to sign up for newsletters, promotional offerings, or participation in surveys, all of which require contact information. Such messages may include pixel tags and link tracking. The submitted contact information will not be shared, sold, or used for any other purpose, and you may opt out at any time. An opt-out link will be included at the bottom of such messages. Registration for newsletters, promotional offerings, and surveys participation are not intended for minors under the age of 13. Please see BrainPOP Educators® below for further information. 
 
-**Emails received from users:** We may retain certain information from users when they send us messages through our system or by email. We only use such information for providing the services or support requested. 
+**Messages received from users:** We may retain certain information from users when they send us messages through our system or by email or through other online platforms, including Twitter, Facebook etc. We only use such information for providing the services or support requested. 
 
 **Feedback:** Certain features we offer include an option to provide us with feedback. The feedback feature does not identify the user submitting it. The feedback option is voluntary and the information a user submits to us will only be used for improving these features. If we receive personally identifiable information through a feedback form we take steps to immediately delete that information. 
 
@@ -65,7 +65,7 @@ A child's participation or access to an activity on BrainPOP cannot be condition
 
 Schools or districts using My BrainPOP maintain ownership of their Student Records (as defined in the Family Educational Rights and Privacy Act (FERPA)). 
 
-Each school or district has access to a user-friendly administrator dashboard that allows direct control over the Student Records at all times. The administrator can create, update, review, modify, and delete individual accounts, and monitor logins within the individual accounts. "Administrators" are only those individuals explicitly designated by the school or the district. Schools and districts are required to appoint an administrator who will be responsible for the Student Records, and keep us informed about any changes redarding that appointment. Districts and schools are urged to safeguard the administrator's access information, keep it in strict confidence, and notify us of any unauthorized use of a password or account registered under their subscription. 
+Each school or district has access to a user-friendly administrator dashboard that allows direct control over the Student Records at all times. The administrator can create, update, review, modify, and delete individual accounts, and monitor logins within the individual accounts. "Administrators" are only those individuals explicitly designated by the school or the district. Schools and districts are required to appoint an administrator who will be responsible for the Student Records, and keep us informed about any changes regarding that appointment. Districts and schools are urged to safeguard the administrator's access information, keep it in strict confidence, and notify us of any unauthorized use of a password or account registered under their subscription. 
 
 Teachers using My BrainPOP will only be able to access or use My BrainPOP with an educator code provided by their school. Students will only be able to create or access their accounts with a class code provided by their teachers. Students will be able to store their activities, quizzes, movies they’ve created with Make-a-Movie, and correspondences with their teachers within their individual accounts. Students can only interact with teachers who created the My BrainPOP class. Certain games allow students to play with other students in the same school. My BrainPOP does not allow students to communicate privately with other students outside of their schools. 
 
@@ -94,7 +94,7 @@ We may provide Personally Identifiable Information to our partners, business aff
 
 **We will NOT share any personally identifiable information for marketing or advertising purposes.**
 
-We reserve the right to disclose personally identifiable information if we are required to do so by law, or if we believe that disclosure is necessary to protect our rights, protect your safety or others' safety, ivestigate fraud, and/or comply with a judicial proceeding, court order, subpoena, or legal process. 
+We reserve the right to disclose personally identifiable information if we are required to do so by law, or if we believe that disclosure is necessary to protect our rights, protect your safety or others' safety, investigate fraud, and/or comply with a judicial proceeding, court order, subpoena, or legal process. 
 
 We also reserve the right to transfer your Personally Identifiable Information in case of a corporate restructuring (such as a merger or acquisition), as long as the receiving entity adopts this privacy policy regarding your information. 
 
@@ -157,7 +157,7 @@ We constantly strive to provide the best services. Changes to this policy may be
 
 Posting the modified privacy policy on this website(s) or app(s) and providing notice as stated above will give effect to the revised terms. Your continued use of this website(s) or app(s) constitutes your acceptance of any revised terms. If you do not agree to the revised policy, please refrain from using this website(s) or app(s) and/or leave this website(s) or app(s). 
 
-If we make material changes pertaining to the ways we collect and use personal information from children under the age of 13, we will notify the school, parent, or legal gardian, as applicable, by email, in order to obtain verifiable consent for the new use of the child’s persoanl information. 
+If we make material changes pertaining to the ways we collect and use personal information from children under the age of 13, we will notify the school, parent, or legal guardian, as applicable, by email, in order to obtain verifiable consent for the new use of the child’s personal information. 
 
 ## Contact information
 
