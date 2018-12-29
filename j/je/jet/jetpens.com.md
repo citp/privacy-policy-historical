@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the jetpens.com privacy policy that was archived on 2018-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180601140109id_/https%3A//www.jetpens.com/articles/Privacy_Notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jetpens.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229182110id_/https%3A//www.jetpens.com/articles/Privacy_Notice) for the most accurate reproduction.*
 
 # Privacy Notice - JetPens.com
 
 JetPens.com Privacy Policy
 
-Last Updated: May 25, 2018
+Last Updated: November 26, 2018
 
 This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from www.jetpens.com (the "Site").
 
@@ -44,13 +44,25 @@ GOOGLE - https://www.google.com/settings/ads/anonymous
 
 Additionally, you can opt out of some of these services by visiting the Digital Advertising Alliance's opt-out portal at: http://optout.aboutads.info/.
 
+COOKIES  
+Here is a list of the cookies we use:
+
+Name| Function  
+---|---  
+_ga| Google Analytics. Expires in 2 years.  
+_gid| Google Analytics. Expires in 24 hours.  
+_gat| Google Analytics to throttle request rate.  
+_ja| JetPens Analytics.  
+osCid| Allows JetPens to store information about your session.  
+session-id-secure| Allows JetPens to determine if the visitor should have access to secure pages.  
+  
 DO NOT TRACK  
 Please note that we do not alter our Site's data collection and use practices when we see a Do Not Track signal from your browser.
 
 YOUR RIGHTS  
 If you are a European resident, you have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us through the contact information below.
 
-Additionally, if you are a European resident we note that we are processing your information in order to fulfill contracts we might have with you (for example if you make an order through the Site), or otherwise to pursue our legitimate business interests listed above. Additionally, please note that your information will be transferred outside of Europe, including to Canada and the United States.
+Additionally, if you are a European resident we note that we are processing your information in order to fulfill contracts we might have with you (for example if you make an order through the Site), or otherwise to pursue our legitimate business interests listed above. Additionally, please note that your information will be transferred outside of Europe to the United States.
 
 DATA RETENTION  
 When you place an order through the Site, we will maintain your Order Information for our records unless and until you ask us to delete this information.
