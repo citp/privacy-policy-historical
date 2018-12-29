@@ -1,84 +1,71 @@
-> *The following text is extracted and transformed from the limecrime.com privacy policy that was archived on 2017-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170412175140id_/https%3A//www.limecrime.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limecrime.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229191057id_/https%3A//www.limecrime.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Vegan & Cruelty Free Makeup - Lime Crime
 
-Lime Crime understands that the privacy of your personal information is important to you, so we have established privacy policies and practices. This notice explains how your data will be used, shared, or otherwise handled by Lime Crime. By visiting Lime Crime websites (includes limecrimemakeup.com and limecrime.com), you accept the policies and practices described in this Privacy Notice. **By accessing Lime Crime’s websites, you agree to be bound by this Privacy Notice.** This Privacy Notice may be updated from time to time. Accordingly, you should check the date of this policy and review any changes since the last posted version. **If at any time, you do not agree to the terms of this Privacy Notice, please cease use of the Lime Crime websites. If you continue to use, your continued use of our sites constitutes your agreement to this Privacy Notice.**
+PRIVACY POLICY
 
-### Information We Collect
+Lime Crime (“Lime Crime,” “we,” “us,” “our”) (with the help of our lawyers) created this policy to let you know what we do when you tell us stuff about yourself. We know that it seems like nothing is private anymore, but we take this stuff seriously and want to be sure you know what we are up to.
 
-Personal information may be requested and collected when you sign in to Lime Crime websites, such as upon registration with Lime Crime, when placing an order, or when contacting us via phone or email. Additional personally identifiable information (PII) such as user name, password, billing information, and contact information may also be collected in order to offer you Lime Crime products and services. This information will be used to fulfill your orders, process your transactions, facilitate your use of our website(s), market our products and services, respond to your requests, assist you with future shopping, and improve Lime Crime websites. Choosing not to provide us with information will limit our ability to respond to your shopping needs. Non-publically identifiable information (NPII) such as your IP address and the site that referred you to ours is gathered automatically. This assists us in aggregating data in regards to visitor preferences, such as how many users visited a specific page on our site. Because of the nature of the Internet, data may pass through any country and any jurisdiction, including jurisdictions where privacy laws may be different and less protective than those of your home jurisdiction.
+Lime Crime understands that the privacy of your personal information is important to you, so we have established privacy policies and practices. This notice explains how your data will be used, shared, or otherwise handled by Lime Crime. By visiting limecrimemakeup.com and/or limecrime.com (the “Site”), you agree to be bound by this Privacy Policy. This Privacy Policy may be updated from time to time. Accordingly, you should check the date of this policy and review any changes since the last posted version. If at any time, you do not agree to the terms of this Privacy Policy, please cease use of the Site. Your continued use of our Site constitutes your agreement to this Privacy Policy. The Site is owned and operated by Lime Crime Inc.
 
-Unless you opt out of receiving promotional materials, we may send you information by email to the address you provided. From time to time, we may notify you of special promotions, new products or services, or other information that may interest you. You may also receive notifications of special promotions, new products, or additional services from our third-party associates. If you would like to opt out of receiving correspondence, please send your request to info@limecrimemakeup.com. We do not rent or sell your personal information to parties not associated with fulfilling your order, unless sharing this information is necessary to provide you with Lime Crime products or is required by law.
+This Policy was last updated on September 13, 2018. This Site is operated in the United States. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that any information you provide to us will be collected in or transferred to the United States. Unless otherwise noted, all data described by this policy is stored and processed in the United States.
 
-### Information We May Disclose or Share
+How We Get Your Information and What We Do With It
 
-We do not disclose, share, rent or sell your personal information to parties not associated with fulfilling your order unless sharing this information is necessary to provide you with Lime Crime products or is required by law. We consider your personal information a vital part of our relationship with you and your interaction with us and the LimeCrime websites, Examples of when we may share your personal data is with service providers or contractors who process on behalf of LimeCrime to perform certain business-related functions, such as backup and recovery services, business application services, database and analytics services, bank merchant services to process or fulfill orders.
+We have to get to know you a little before we take things to the next level. Personal information may be requested and collected when you use our Site, such as upon registration with Lime Crime, when placing an order, when contacting us via phone or email, when interacting with customer support, when joining our email list, or when you slide into our DMs. The personal information we collect includes your user name, password, phone number, email address, mailing address, and payment information. This information will be used to fulfill your orders, process your transactions, facilitate your use of our website(s), respond to your requests, assist you with future shopping, and improve the Site, all of which we have a legitimate interest in.
+
+We also collect non-personal information, such as your IP address and the site that referred you to ours. This assists us in aggregating data in regards to visitor preferences, such as how many users visited a specific page on our site.
+
+We don’t want to be that annoying “friend” that keeps bothering you after you’ve ghosted. But if you give us permission, we may notify you of special promotions, new products or services, or other information that may interest you using the contact information you provide. We also have some pretty cool friends so if you give us permission to share your information with third parties, as described below, you may also receive notifications of special promotions, new products, or additional services from our third-party associates. If you would like to withdraw your consent to receive marketing messages, please send your request to [info@limecrimemakeup.com](mailto:info@limecrimemakeup.com) or utilize the unsubscribe link contained in any marketing email message.
+
+Winner, winner, chicken (or vegan chicken) dinner! In the event Lime Crime conducts an online promotion, contest, or sweepstakes (collectively, a “Promotion”), information we collect will be used consistent with the terms and conditions outlined in the promotion guidelines or rules, which may include a reference to this Policy. You can elect to provide permission for Lime Crime to use the email address and/or telephone number you provide when entering a Promotion for sending you marketing messages. However, you are only required to provide such permission in order to participate in a Promotion if it is necessary for the running of the promotion. For instance, if we request your email address or your social media handle because it is used to notify you if you’ve won and/or to send your prize, and you do not want to provide it, you will not be able to participate in the Promotion. Information you provide us will be used to administer the promotion. If you have not opted in to receive further communications about upcoming promotions, your identifying data will be retained only for as long as it is necessary to administer the Promotion and legally comply with our obligations that extend from your participation, including prize awarding, reporting obligations, and other legitimate matters.
+
+If you would like to revoke your consent to receiving commercial messages you have previously opted in to receive as the result of a Promotion, you can use he unsubscribe link in any marketing message. Don’t worry, you won’t hurt our feelings (ok, maybe a little, but we’ll get over it). If you have previously provided express written consent to receive commercial text promotions, you can reply “STOP” to any marketing text message you receive. You may also send an e-mail to [info@limecrimemakeup.com](mailto:info@limecrimemakeup.com) that contains the email address or phone number you wish to revoke consent for marketing messages. Please note that your inclusion of your mobile number in an order is consent to allow Lime Crime to send you non-marketing messages about your order or account.
+
+Information We May Disclose or Share
+
+We do not disclose, share, rent or sell your personal information to parties not associated with fulfilling your order without your consent unless sharing this information is necessary to provide you with Lime Crime products or is required by law. We consider your personal information a vital part of our relationship with you and your interaction with us and our Site. We may share your personal data: (1) with service providers or contractors who process on behalf of Lime Crime to perform certain business-related functions, such as backup and recovery services, business application services, database and analytics services, and/or bank merchant services to process or fulfill orders; (2) in connection with the sale, assignment, or other transfer of the business of this Site to which the information relates; and/or (3) to respond to law enforcement requests or where required by applicable laws, court orders, or government regulations all of which we have a legitimate interest in doing. Our contracts with these third party processors require them to comply with the terms and the intent of this privacy policy, and to make commercially reasonable efforts to safeguard your information.
+
+With your consent, we may share your personal data with our partners that sell products we think you might be interested in so that these third parties can send you information about their products. If you would like to withdraw your consent to allow us to share your information with such third parties, please send your request to [info@limecrimemakeup.com](mailto:info@limecrimemakeup.com) or utilize the unsubscribe link contained in any marketing email message you receive from one of these third parties. Please note that even if you request that we no longer send you marketing messages, if you order online, we will send you an email confirming your order and may need to contact you by phone, email, or regular mail if we have questions about your order.
+
+The collection, use, and disclosure of information described by this Privacy Policy may involve a transfer of the information to jurisdictions located outside your country of residence that may not have equivalent laws and rules regarding personal data.
 
 Data Retention
 
-We may retain your personal information as long as we see you are registered and may need assistance on a LimeCrime websites, and a period of time thereafter as permitted or required under applicable laws or due to normal data backup and archival of orders or other regulatory requirements and lawful business purposes. You may close your account by contacting us at info@limecrimemakeup.com.
+You have the right to access, modify, and/or delete your personal data that is held by Lime Crime. To access, modify, and/or delete your personal data, please contact us at [info@limecrimemakeup.com](mailto:info@limecrimemakeup.com). However, if Lime Crime must retain certain personal data for legitimate business purposes, such as to comply with legal requirements or in connection with an order, we will not delete your information until it is no longer required.
 
-### 
+Upon your request we will send you a copy of all of your personal data that we hold, though we reserve the right to charge a processing fee for the reasonable time and expenses required to prepare and send the data to you.
 
-Cookies
+We keep your information only for as long as we have a legitimate business purpose, and only that information required for the particular purpose for which you provided it. We will retain your personal information while you have an active relationship with Lime Crime, including if you have subscribed to a newsletter or other commercial/marketing content from us, have visited the site while logged in, have ordered a product, participated in a promotion, or have affirmatively made requests of us that we, or our data processors, are fulfilling. We will maintain your information for ninety days after that relationship ends, unless you request that we delete your information prior to the expiration of that period, which you may do at any time following the instructions here. Except as required under the law, your request will be honored within thirty days. If Lime Crime determines that it no longer requires your information for the purposes set forth above, including any legal purposes, it will delete your information.
 
-A cookie is a small data file that is automatically saved on your computer's hard drive when you visit a website. These cookies may contain information used to record the websites you visit, but do not contain any personally identifiable information such as your name, address, or credit card information. Lime Crime uses cookies to give you a personalized enhanced shopping experience. If you have signed up with Lime Crime, cookies allow our website to recognize you when you return and give you access to your personal account options. Cookies also let our website remember the contents of your Shopping Cart, allowing you to place orders more easily. We may also use cookies to keep track of the ways in which customers find us and navigate through our website. This information will be used internally to help us determine where improvements can be made to our online store. Most browsers are by default set up to accept cookies and are used by the majority of websites on the internet. Some examples of cookies we use are to retain category info on a page, that allows to display pages more quickly, your preferred currency, an encrypted version of your customer id with the store, a link to information about your cart and viewing history, your preferred language and products you recently viewed. (A full list may be requested by emailing info@limecrimemakeup.com.)
+C is for Cookies
 
-If you do not wish cookies to be saved to your system, you may change your browser's settings so that your computer does not accept them. Another alternative is to delete or erase the cookies. However, if cookies are disabled or deleted/erased, you will not be able to purchase from our website and we will not be able to recognize you as a registered user. 
+A cookie is a small, delicious data file that is automatically saved on your computer's hard drive when you visit a website. Cookies may contain information used to record the websites you visit and/or chocolate chips, but cookies do not contain any personally identifiable information such as your name, address, or credit card information (though we can’t speak for the personalized birthday cookies your grandmother baked you). Lime Crime uses cookies to give you a personalized enhanced shopping experience. If you have signed up with Lime Crime, cookies allow our website to recognize you when you return and give you access to your personal account options. Cookies also let our website remember the contents of your Shopping Cart, allowing you to place orders more easily. We may also use cookies to keep track of the ways in which customers find us and navigate through our website. This information will be used internally to help us determine where improvements can be made to our online store.
 
-### 
+Most browsers are by default set up to accept cookies and are used by the majority of websites on the Internet. However, if you prefer not to allow our Site to place cookies, you can configure your browser to reject our cookies (sad face). Please note that some aspects of our Site will not function correctly (or at all, in some cases) if you disable cookies.
 
-Tags
-
-You may have heard of tags. They do not store personal information on your computing device. Tags are like keywords that assist in classifying unstructured data and may occasionally be downloaded when you look at content while on the web or via an email. Tags can be used to assist in searches or providing content that may be of interest while on LimeCrime websites. Tags cannot normally be managed, but can be deleted by deleting the content in which it was contained.
-
-### 
+Examples of types of cookies we use are those that: retain category info on a page, allow us to display pages more quickly, identify your preferred currency, store an encrypted version of your customer ID with the store, store a link to information about your cart and viewing history, or store your preferred language and products you recently viewed.
 
 Links to Other Websites
 
-There may be links to other websites from Lime Crime websites. Lime Crime does not control any third-party websites and we are not responsible for how these sites use personal information. We encourage you to become familiar with the privacy practices of any linked site when you visit it.
+There may be links to other websites from our Site. Lime Crime does not control any third-party websites and we are not responsible for how these sites use personal information. We encourage you to become familiar with the privacy practices of any linked site when you visit it.
 
-### Children's Privacy
+Security
 
-To protect the privacy of children on the Internet, we will not knowingly collect personally identifiable information (PII) from children under the age of 13 without the prior written consent of a parent or guardian. If we learn that a customer or registered user is actually under the age of 13, we will make every effort to delete all personal information for this person from our database, as our site is intended for adults over the age of 18.
+This Site takes reasonable steps to protect your personal data as you transmit it to our Site and to protect such information from loss, misuse, unauthorized access, disclosure, alteration, or destruction. You should keep in mind that no Internet transmission is ever completely secure or error-free. In particular, e-mail sent to or from this Site may not be secure. We implement a secure processing server on our Site when collecting information to ensure a high level of security for your personal information. Once we receive your personal information, we maintain commercially reasonable physical, electronic and procedural safeguards to protect it. If a data breach occurs, we will notify you and the proper EEA authority (if required) within 72 hours (if reasonably feasible). If we are unable to notify the proper EEA authority within 72 hours, our notice will be accompanied by reasons for the delay.
 
-### Privacy Notice Changes
+Children's Privacy
 
-This notice replaces all previous disclosures we may have provided you about our information practices. We reserve the right to revise and modify this policy at any time without notice and to apply these changes in policy to information previously collected, where legally permissible. We will notify you of changes by posting the policy changes on our website. 
+The Site is a general audience website, intended for adult use. We do not market to, and do not knowingly collect any personally identifiable information from, children under sixteen (16) years of age. Children should always get permission from their parents before sending any personal information about themselves (such as their names, email addresses, and phone numbers) over the Internet, to us or to anyone else. We encourage you to become involved in your children's online experience, and to share your knowledge and experience with your young ones. If you’re under 16, please do not register for any of our services or provide us with any personally identifying information (such as your name, email address or phone number). Please contact our customer service department if you are aware of any personal information supplied to the Site by a child under the age of sixteen (16).
 
-This Privacy Notice was last updated on March 12, 2017.
+Do-Not-Track Signal
 
-A list of cookies should be maintained and readily available to the individual(s) responding to info@limecrimemakeup.com requests.
+Because the do-not track signal does not often reflect the preference of our consumers, our website does not respond to it. Users may, however, elect not to receive marketing messages and/or have certain cookies placed on their browser, as discussed earlier in this Policy.
 
-The examples contained in our privacy notice are illustrations only, and are not intended to be exhaustive.
+How to Contact Us
 
-  
+If you have any questions, comments, requests, cool stories, random thoughts, or concerns related to this Privacy Policy or the information practices of this Site, please contact us at [info@limecrimemakeup.com](mailto:info@limecrimemakeup.com).
 
+We Got Beef?
 
-### 
-
-List of cookies we collect
-
-The table below lists the cookies we collect and what information they store:
-
-**CART** The association with your shopping cart.  
-**CATEGORY_INFO** Stores the category info on the page, that allows to display pages more quickly.  
-**CURRENCY** Your preferred currency.  
-**CUSTOMER** An encrypted version of your customer id with the store.  
-**CUSTOMER_AUTH** An indicator if you are currently logged into the store.  
-**CUSTOMER_INFO** An encrypted version of the customer group you belong to.  
-**CUSTOMER_SEGMENT_IDS** Stores the Customer Segment ID.  
-**EXTERNAL_NO_CACHE** A flag, which indicates whether caching is disabled or not.  
-**FRONTEND** You sesssion ID on the server.  
-**GUEST-VIEW** Allows guests to edit their orders.  
-**LAST_CATEGORY** The last category you visited.  
-**LAST_PRODUCT** The most recent product you have viewed.  
-**NEWMESSAGE** Indicates whether a new message has been received.  
-**NO_CACHE** Indicates whether it is allowed to use cache.  
-**PERSISTENT_SHOPPING_CART** A link to information about your cart and viewing history if you have asked the site.  
-**STORE** The store view or language you have selected.  
-**USER_ALLOWED_SAVE_COOKIE** Indicates whether a customer allowed to use cookies.  
-**VIEWED_PRODUCT_IDS** The products that you have recently viewed.  
-**EMAILSIGNUP** Displays the email signup dialogue when visiting the home page if cookie does not exist.
-
-Top of Page
+If you have tried to work it out with us and you feel like you aren’t being heard or your issues aren’t being adequately resolved, please send a message to [privacyproblems@limecrimemakeup.com](mailto:privacyproblems@limecrimemakeup.com) and we will be sure to squash whatever beef you have (i.e., we will do whatever we reasonably can to make things right with you).
