@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the researchgate.net privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516141145id_/https%3A//www.researchgate.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the researchgate.net privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229192152id_/https%3A//www.researchgate.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ResearchGate, the professional network for scientists.
 
@@ -49,7 +49,7 @@ There are a number of ways in which we collect Personal Information from or abou
   *  **Jobs and external communications**. If you contact us about a job or other corporate matters you may provide us with your name, email address, and other Personal Information.
   *  **Third party providers**. When you choose to benefit from a service or offer presented by ResearchGate on behalf of a third party, you may share Personal Information with ResearchGate to enable us to pass it on to the third party.
 
-Please note: ResearchGate does not process any payment data. All payment data are collected and processed by third party providers, namely [Braintree](https://www.braintreepayments.com/en-de/legal) and [Stripe](https://stripe.com/payment-terms/legal).
+Please note: ResearchGate does not process any payment data. All payment data are collected and processed by third party providers, namely [Stripe](https://stripe.com/payment-terms/legal).
   *  **Other uses**. Our Service is a dynamic, innovative environment, which means we are always seeking to improve the services we offer you. We may introduce material new features, which may result in the collection of new information and in different ways; if we do so, we will inform you by updating this Privacy Policy.
 
 
