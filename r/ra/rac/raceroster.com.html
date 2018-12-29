@@ -1,1071 +1,533 @@
-<!--The following is the downloaded HTML source of the raceroster.com privacy policy that was archived on 2018-01-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180128033434id_/https%3A//raceroster.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the raceroster.com privacy policy that was archived on 2018-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181229205627id_/https%3A//raceroster.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" xmlns="http://www.w3.org/1999/html"><head>
-    <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-1071.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UA4DUFBRGwAIXVRaAwU="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):w?w(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!w&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Race Roster — Registration, Marketing. Fundraising</title>
+<!DOCTYPE html><html lang="en-CA" prefix="og: http://ogp.me/ns#" class="no-js"><head>
+        <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-30973998-1"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'UA-30973998-1');
+        </script>
 
-    <meta name="apple-mobile-web-app-title" content="Race Roster">
-    <meta name="application-name" content="Race Roster">
-    <meta name="msapplication-navbutton-color" content="#0099ff">
-    <meta name="msapplication-starturl" content="https://raceroster.com/">
-    <meta name="msapplication-TileColor" content="#0099ff">
-    <meta name="msapplication-TileImage" content="/mstile-144x144.png">
-    <meta name="description" content="Race Roster makes online registration and fundraising customizable and beautiful for endurance events across North America. We serve event organizers, schools, clubs, charities, and non-profits">
-    <link rel="icon" type="image/png" href="/favicon-192x192.png" sizes="192x192">
+        <title>Privacy policy - Race Roster :Race Roster</title>
 
-    <!-- Bootstrap -->
-    <link rel="stylesheet" href="/assets/shared/vendor/font-awesome/css/font-awesome.min.css">
-    <link rel="stylesheet" href="/assets/legacy/compiled/css/web-main.1516050616.css">
-    <link rel="stylesheet" href="/assets/web/fancy-box/source/jquery.fancybox.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animsition/4.0.1/css/animsition.min.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-        <!--[if lt IE 9]>
-    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script><![endif]-->
+        <link href="https://raceroster.com/favicon-192x192.png" rel="shortcut icon">
+        <link href="https://raceroster.com/mstile-144x144.png" rel="apple-touch-icon-precomposed">
 
-<script async="" src="//static.hotjar.com/c/hotjar-342951.js?sv=5"></script></head>
+        <meta name="description" content="Create a race event or find a race">
 
+        
+<!-- This site is optimized with the Yoast SEO plugin v9.2.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="https://raceroster.com/privacy-policy">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy policy - Race Roster">
+<meta property="og:description" content="1. Importance of your Privacy At Race Roster, your privacy is of great importance to us. We understand that you entrust us with certain personal data when using our website (raceroster.com) and related services such as Salesforce ® (collectively “the Platform”). PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING THE PLATFORM OR ALLOWING/DIRECTING SOMEONE TO…">
+<meta property="og:url" content="https://raceroster.com/privacy-policy">
+<meta property="og:site_name" content="Race Roster">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:description" content="1. Importance of your Privacy At Race Roster, your privacy is of great importance to us. We understand that you entrust us with certain personal data when using our website (raceroster.com) and related services such as Salesforce ® (collectively “the Platform”). PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING THE PLATFORM OR ALLOWING/DIRECTING SOMEONE TO…">
+<meta name="twitter:title" content="Privacy policy - Race Roster">
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Organization","url":"https:\/\/raceroster.com\/","sameAs":[],"@id":"https:\/\/raceroster.com\/#organization","name":"Race Roster","logo":"https:\/\/raceroster.com\/wp-content\/uploads\/2018\/12\/apple-touch-icon-512x512.png"}</script>
+<!-- / Yoast SEO plugin. -->
 
-<body> 
+<link rel="dns-prefetch" href="//raceroster.com">
+<link rel="dns-prefetch" href="//www.google.com">
+<link rel="dns-prefetch" href="//s.w.org">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/raceroster.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.0.2"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://raceroster.com/wp-includes/js/wp-emoji-release.min.js?ver=5.0.2" type="text/javascript" defer=""></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="wp-block-library-css" href="https://raceroster.com/wp-includes/css/dist/block-library/style.min.css?ver=5.0.2" media="all">
+<link rel="stylesheet" id="race-roster-brochure-google-fonts-css" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,600,700|Work+Sans:500,700" media="all">
+<link rel="stylesheet" id="race-roster-brochure-css-css" href="https://raceroster.com/wp-content/themes/race-roster-brochure-theme/assets/dist/css/brochure.css" media="all">
+<script type="text/javascript" src="https://raceroster.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="https://raceroster.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script type="text/javascript" src="https://raceroster.com/wp-content/themes/race-roster-brochure-theme/assets/dist/js/brochure.js"></script>
+<script type="text/javascript" src="https://www.google.com/recaptcha/api.js?ver=5.0.2"></script>
+<link rel="https://api.w.org/" href="https://raceroster.com/wp-json/">
+<link rel="alternate" type="application/json+oembed" href="https://raceroster.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fraceroster.com%2Fprivacy-policy">
+<link rel="alternate" type="text/xml+oembed" href="https://raceroster.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fraceroster.com%2Fprivacy-policy&amp;format=xml">
+    </head>
 
-<div id="wrapper" class="row-offcanvas row-offcanvas-right">
-    <header>
+    <body class="page-template-default page page-id-3 brochure privacy-policy">
 
-
-    <nav>
-    <div class="primary-nav">
-        <div class="container">
-            <div class="row nav-top">
-
-                <div class="col-md-8 logo-top">
-            <a href="/"> <img src="/assets/images/anti-alias-logo.png" class="logo" alt="Race Roster logo"> </a>
-
-                    <ul class="nav-links">
-                        <li><a href="/registration">Registration</a></li>
-                        <li><a href="/fundraising">Fundraising</a></li>
-                        <li><a href="/marketing">Marketing</a></li>
-                        <li><a href="/pricing">Pricing</a></li>
-                        <li><a href="/features">Features</a></li>
-                        <li><a href="/contact">Contact</a></li>
-                    </ul>
-                </div>
-
-                <div class="col-md-4 final-nav-column">
-                    <ul class="dropdown-nav">
-                        <li>
-                            <a href="tel:+18559695515">
-                                1-855-969-5515
-                            </a>
-                        </li>
-
-                        <li>
-                                                            <a class="button-sign-in" href="/signin">Sign In</a>
-                                                    </li>
-
-                        <li class="guest">
-                            <a href="javascript:;" class="dropdown-toggle" data-toggle="offcanvas" data-hover="dropdown" data-close-others="true" id="dropdownToggler" style="background:none;">
-                                <span class="guest-login">
-                                    Menu
-                                </span> <i class="fa fa-bars top-menu custom-primary-icon-color"></i>
-                            </a>
-
-                        </li>
-
-
-                    </ul>
-
-                    </div>
-                 </div>
-            </div>
-        </div>
-
-    </nav>
-</header>
-
-
-    <div class="race-roster-alerts">
-        <!--[if lte IE 8]>
-        <div class="alert alert-warning ie-alert" role="alert">
-            <button type="button" class="close" data-dismiss="alert">
-                <span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-            <i class="fa fa-warning"></i> You are using an <strong>outdated</strong> browser. Please
-            <a href="http://browsehappy.com/">upgrade your browser</a>
-            to improve your experience.
-        </div><![endif]-->
         <noscript>
-            <div class="alert alert-danger js-alert" role="alert">
-                <i class="fa fa-exclamation-circle"></i> JavaScript is <strong>required</strong> to view this site in
-                it's glory.
-            </div>
+            <p class="alert alert-danger m-2">
+                <strong>Oops! JavaScript is required.</strong> If you need some help enabling JavaScript, visit <a href="http://enable-javascript.com/" title="enable-javascript.com">enable-javascript.com</a>.
+            </p>
         </noscript>
-    </div>
-    <main>
-    <section id="terms-conditions" class="privacy-policy">
 
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <h1>Privacy Policy</h1>
-
-                    <h2>As of May 2017</h2>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <section id="to-read">
-        <div class="container">
-            <div class="row">
-
-                <div class="col-md-3 terms-sidebar">
-                    <div class="terms-sidebar-steps">
-                        <ul>
-                            <li>
-                                <a href="#introduction-privacy">
-                                    <span>1</span>
-
-                                    <h1>Introduction</h1>
-                                </a>
-                            </li>
-
-                            <li class="subhead"><strong>Information We Collect</strong></li>
-                            <li>
-                                <a href="#collected-personal-data"><span>1</span>
-                                    <h1>Personal Data</h1>
-                                </a>
-                                <p class="privacy-list-point">
-                                    <a href="#managers-collected">Managers</a>
-                                </p>
-                                <p class="privacy-list-point">
-                                    <a href="#registrants-collected">Registrants and other non-managers</a>
-                                </p>
-                                <p class="privacy-list-point">
-                                    <a href="#privacy-collected">Privacy Policy Links</a>
-                                </p>
-                            </li>
-
-                            <li>
-                                <a href="#collected-non-personal"><span>2</span>
-
-                                    <h1>Non-Personal Data</h1></a>
-                                <p class="privacy-list-point">
-                                    <a href="#identify-collected">Non-Identifiable Data</a>
-                                </p>
-                                <p class="privacy-list-point">
-                                    <a href="#cookies-collected">Cookies and Other Session Identifiers</a>
-                                </p>
-                                <p class="privacy-list-point">
-                                    <a href="#agg-collected">Aggregated Personal Data</a>
-                                </p>
-                            </li>
-
-                            <li class="subhead"><strong>Our Use of Information That We Collect</strong></li>
-                            <li>
-                                <a href="#use-personal-data"><span>1</span>
-
-                                    <h1>Personal Data</h1></a>
-                                <p class="privacy-list-point">
-                                    <a href="#reason-use">Specific Reason</a>
-                                </p>
-                                <p class="privacy-list-point">
-                                    <a href="#access-use">Access and Use</a>
-                                </p>
-                                <p class="privacy-list-point">
-                                    <a href="#internal-use">Internal Business Purposes</a>
-                                </p>
-                                <p class="privacy-list-point">
-                                    <a href="#marketing-use">Marketing</a>
-                                </p>
-                                <p class="privacy-list-point">
-                                    <a href="#manager-use">Manager Emails</a>
-                                </p>
-                            </li>
-
-                            <li>
-                                <a href="#payment-methods">
-                                    <span>2</span>
-
-                                    <h1>Non-Personal Data</h1>
-                                </a>
-
-                            </li><li class="subhead"><strong>Our Disclosure of Information That We Collect</strong></li>
-                            <li>
-                                <a href="#use-of-services">
-                                    <span>1</span>
-
-                                    <h1>Personal Data</h1>
-                                </a>
-                                <p class="privacy-list-point">
-                                    <a href="#disclose-business">Business Transfers</a>
-                                </p>
-                                <p class="privacy-list-point">
-                                    <a href="#disclose-aff">Subsidiaries and Affiliates</a>
-                                </p>
-                                <p class="privacy-list-point">
-                                    <a href="#disclose-agents">Agents, Consultants and Related Third Parties</a>
-                                </p>
-                                <p class="privacy-list-point">
-                                    <a href="#disclose-managers">Managers</a>
-                                </p>
-                                <p class="privacy-list-point">
-                                    <a href="#disclose-legal">Legal Requirements</a>
-                                </p>
-                            </li>
-                            <li class="last">
-                                <a href="#payment-methods">
-                                    <span>2</span>
-
-                                    <h1>Non-Personal Data</h1>
-                                </a>
-                                <p class="privacy-list-point">
-                                    <a href="#disclose-choices">Your Choices</a>
-                                </p>
-                                <p class="privacy-list-point">
-                                    <a href="#disclose-exclusions">Exclusions</a>
-                                </p>
-                                <p class="privacy-list-point">
-                                    <a href="#disclose-children">Children</a>
-                                </p>
-                                <p class="privacy-list-point">
-                                    <a href="#disclose-links">Links to Other Web Sies</a>
-                                </p>
-                                <p class="privacy-list-point">
-                                    <a href="#disclose-storage">Storage and Security</a>
-                                </p>
-                                <p class="privacy-list-point">
-                                    <a href="#disclose-changes">Changes to Company’s Privacy Policy</a>
-                                </p>
-                                <p class="privacy-list-point">
-                                    <a href="#disclose-access">Access to Information; Contacting Company</a>
-                                </p>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-
-
-                <div class="col-md-8 terms">
-                    <div id="introduction-privacy">
-                        <div class="clearfix">
-                            <div id="google_translate_element" class="gtrans-container"></div>
-                        </div>
-                        <p class="first-paragraph">This Privacy Policy (the “Privacy Policy”) describes the
-                            practices, policies and procedures related to our Platform located at https://raceroster.com
-                            (the “Platform”. The Platform is owned and operated by Race Roster, (hereinafter
-                            referred to as “Race Roster,” or “we” or “us”).This Privacy Policy sets forth our policy
-                            with respect to information, including personally identifiable information (“Personal
-                            Data”), that is collected from users of and/or visitors (“you” or “your”) to the
-                            Platform (including through those users’ and visitors’ agents), and including (i)
-                            registered users who are event managers and planners (“Managers”), (ii) users who want
-                            to purchase event entry, register for or donate to events (whether free or paid) listed
-                            by Managers on the Platform (“Registrants”), and (iii) other non-Managers users or
-                            visitors to the Platform (“other non-managers”). Please note that this Privacy Policy
-                            applies only to Race Roster’s online information-gathering and sharing practices
-                            occurring on the Platform, and does not apply to any of our practices conducted
-                            offline. </p>
-
-                        <p>We take the privacy of your Personal Data and other information very seriously. Because
-                            of that, we have created this Privacy Policy. Please read this Privacy Policy as it
-                            includes important information regarding your Personal Data and other important
-                            information. </p>
-
-                        <p>If you have any questions or concerns, please do not hesitate to contact us.  <b>CONSENT:
-                                By using the Platform and related services, or allowing someone to use the Platform
-                                and related services on your behalf, you
-                                are consenting to our collection, use, disclosure, transfer and storage in
-                                accordance with this Privacy Policy of any Personal Data or other information
-                                received by us as a result of such use.</b></p>
-                    </div>
-
-                    <div id="collected-info">
-                        <h1>Information We Collect:</h1>
-
-                        <p>When you interact with us through the Platform, we may collect Personal Data and other
-                            information from you or someone on your behalf, as further described below: </p>
-                    </div>
-
-                    <div id="collected-personal-data">
-
-                        <h1>1. Personal Data</h1>
-
-                        <p id="managers-collected"><b>Managers:</b> We collect Personal Data from you when you
-                            voluntarily provide such information to the Platform, such as when you register for
-                            access to the Platform as a Manager, contact us with inquiries, or use certain Platform.
-                            The Personal Data we may collect includes without limitation your name, address, email
-                            address and other personally identifiable information. In some cases we may collect your
-                            credit card information (e.g., your credit card number and expiration date, billing
-                            address, etc.), some of which may constitute Personal Data, to secure certain payments.
-                            In addition, if you use our payment processing services, we will collect financial
-                            information from you (e.g., your bank account information or an address to send checks)
-                            as necessary to facilitate payments and information required for tax purposes (e.g.,
-                            your taxpayer identification number).
-                        </p>
-
-                        <p id="registrants-collected"><b>Registrants and other non-managers:</b> We collect Personal
-                            Data from you when you voluntarily provide such information to the Platform (including
-                            event registration pages within the Platform), such as when you register for access to
-                            the Platform (whether as a Manager or otherwise), register for an event as a Registrant,
-                            contact us with inquiries, respond to one of our surveys or use certain parts of the
-                            Platform. The Personal Data we may collect includes without limitation your name,
-                            address, email address, ZIP or postal code and other personally identifiable
-                            information. If you register for a paid event, we will collect financial information
-                            from you (e.g., your credit card number and expiration date, billing address, etc.) some
-                            of which may constitute Personal Data. In addition, Managers can set up event
-                            registration pages to collect virtually any information from Registrants in connection
-                            with registration for a Manager’s event listed on the Platform. If a Registrant
-                            voluntarily provides that information in connection with registration for an event or
-                            otherwise, it will be available to us and will be held by us in accordance with this
-                            Privacy Policy. In addition, such information will be delivered to the Manager of the
-                            applicable event in accordance with “Our Disclosure of Information That We Collect:
-                            Manager” below. </p>
-
-                        <p id="privacy-collected"><b>Privacy Policy Links:</b> We make an effort to provide a link
-                            to this Privacy Policy in the footer of every page on our websites, including those
-                            pages on which Personal Data is collected.</p>
-                    </div>
-
-                    <div id="collected-non-personal">
-
-                        <h1>2. Non-Personal Data:</h1>
-
-                        <p id="identify-collected"><b>Non-Identifiable Data:</b> When you interact with the
-                            Platform, we collect certain personally non-identifiable information (“Non-Personal
-                            Data”). The Non-Personal Data we collect includes without limitation Internet Protocol
-                            (IP) addresses, Internet browser type, other characteristics of your device and
-                            software, domain names of your Internet Service Provider, your approximate geographic
-                            location, a record of your usage of the Platform, the time of your usage and aggregated
-                            Personal Data that cannot be used to specifically identify you. Such information, which
-                            is collected passively using various technologies, cannot, in and of itself, be used to
-                            specifically identify you. We also collect Non- Personal Data (including, without
-                            limitation, of the type set forth above) from third parties. The information we collect
-                            from third parties may be combined with the information we collect. </p>
-
-                        <p id="cookies-collected"><b>Cookies and Other Session Identifiers:</b> In operating the
-                            Platform, we use a technology called “cookies.” A cookie is a piece of information that
-                            is placed on your browser when you access the Platform. Our cookies help provide
-                            additional functionality to the Platform and help us analyze Service usage more
-                            accurately. For instance, our Platform may set a cookie on your browser that allows you
-                            to access the Platform without needing to remember and then enter a password more than
-                            once during a visit. These cookies may be used to tailor content (including advertising)
-                            you see on the Platform as well as other Internet sites that you may visit in the
-                            future. Cookies may be session cookies (i.e., last only for one browser session) or
-                            persistent cookies (i.e., continue in your browser until they are deleted or
-                            expire).Through your web browser’s option settings you may be able (i) to receive
-                            notifications when you are receiving new cookies, (ii) to disable cookies or (iii) to
-                            delete cookies. Please refer to your web browser’s help section for information on how
-                            to do this. We recommend that you leave cookies turned on because they allow you to take
-                            advantage of some of the features of the Platform. In addition to the types of cookies
-                            described above, we use local shared objects, also known as “Flash cookies,” and HTML 5
-                            Local Storage for various purposes, including for fraud prevention and to display
-                            content (both on and off the Platform) based upon what you view on the Platform. Local
-                            shared objects and HTML 5 Local Storage are different from cookies described above.
-                            Cookie management tools provided by your browser may not remove local shared objects or
-                            HTML 5 Local Storage. </p>
-
-                        <p id="agg-collected"><b>Aggregated Personal Data:</b> In an ongoing effort to better
-                            understand and serve the users of the Platform, we often conduct research on our
-                            customer demographics, interests and behavior based on Personal Data and other
-                            information that we have collected. This research may be compiled and analyzed on an
-                            aggregate basis and this aggregate information does not identify you personally and
-                            therefore is considered and treated as Non-Personal Data under this Privacy Policy. </p>
-                    </div>
-
-                    <div id="use-personal-data">
-                        <h1>Our Use of Information That We Collect: </h1>
-                        <br>
-
-
-                        <h1>1. Personal Data</h1>
-
-                        <p>We use the Personal Data we collect in a manner that is consistent with this Privacy
-                            Policy. We may use the Personal Data as follows: </p>
-
-                        <p id="reason-use"><b>Specific Reason:</b> If you provide Personal Data for a certain
-                            reason, we may use the Personal Data in connection with the reason for which it was
-                            provided. For instance, if you contact us by e-mail, we will use the Personal Data you
-                            provide to answer your question or resolve your problem and will respond to the email
-                            address from which the contact came. </p>
-
-                        <p id="access-use"><b>Access and Use:</b> If you provide Personal Data in order to obtain
-                            access to or use of the Platform or any functionality thereof, we will use your Personal
-                            Data to provide you with access to or use of the Platform or functionality and to
-                            monitor your use of such Platform or functionality. For instance, if you supply payment
-                            information (e.g., bank account or credit card information) to the Platform for the
-                            purpose of registering as a Registrant or processing payments as a Manager we will use
-                            that information to facilitate such purchase or process such payments. </p>
-
-                        <p id="internal-use"><b>Internal Business Purposes:</b> We may use your Personal Data for
-                            internal business purposes including without limitation to help us improve the content
-                            and functionality of the Platform, to better understand our users, to improve the
-                            Platform, to protect against, identify or address fraudulent activities, to enforce our
-                            Terms of Service, to manage your account and provide you with customer service, and to
-                            generally manage the Platform and our business. </p>
-
-                        <p id="marketing-use"><b>Marketing:</b> We may use your Personal Data to contact you in the
-                            future for our marketing and advertising purposes, including without limitation to
-                            inform you about services or events we believe might be of interest to you, to develop
-                            promotional or marketing materials and provide those materials to you, and to display
-                            content and advertising on or off the Platform that we believe might be of relevance to
-                            you. In particular, Managers should note that we may use information we receive or
-                            collect regarding Registrants (including without limitation via a Manager’s event
-                            registration page) in accordance with the terms of this Privacy Policy, including in the
-                            manner set forth above. </p>
-
-                        <p id="manager-use"><b>Manager Emails:</b> We allow Managers to use our email system to
-                            contact Registrants for their current and past events, so you may receive emails from
-                            our system that originate with such Managers. </p>
-
-                        <p>If we intend to use any Personal Data in any manner that is not consistent with this
-                            Privacy Policy, you will be informed of such anticipated use prior to or at the time at
-                            which the Personal Data is collected or we will obtain your consent subsequent to such
-                            collection but prior to such use. </p>
-                    </div>
-
-                    <div id="content">
-
-                        <h1 id="payment-methods">2. Non-Personal Data:</h1>
-
-                        <p>Because Non-Personal Data cannot be used to personally identify you, we may use
-                            non-personal data for any lawful purpose. </p>
-                    </div>
-
-                    <div id="disclose-information">
-                        <h1>Our Disclosure of Information That We Collect:</h1>
-                        <br>
-                    </div>
-
-
-                    <div id="disclosure">
-
-                        <h1 id="use-of-services">1. Personal Data</h1>
-
-                        <p>We may sell or share your Personal Data to third parties, including third party
-                            advertisers, whom we think may provide products or services that may be of interest to
-                            you. If we do so, we will always ask such third parties to provide you an opportunity to
-                            opt out from receiving such communications. Additionally, you can write to us at
-                            <a href="mailto:support@raceroster.com" target="_blank">support@raceroster.com</a> to
-                            request that we do not share your information with such third parties. Additionally,
-                            there are additional circumstances in which we may disclose, transfer or share your
-                            Personal Data with certain third parties without further notice to you, as set forth
-                            below:</p>
-
-                        <p id="disclose-business"><b>Business Transfers:</b> As we develop our business, we might
-                            sell or buy businesses or assets. In the event of a corporate sale, merger,
-                            reorganization, dissolution or similar event, Personal Data may be part of the
-                            transferred assets. You acknowledge and agree that any successor to or acquiror of the
-                            Company (or its assets) will continue to have the right to use your Personal Data and
-                            other information in accordance with the terms of this Privacy Policy. </p>
-
-                        <p id="disclose-aff"><b>Subsidiaries and Affiliates:</b> We may also share your Personal
-                            Data with our subsidiaries and/or affiliates for purposes consistent with this Privacy
-                            Policy. Our subsidiaries and affiliates will be bound to maintain that Personal Data in
-                            accordance with this Privacy Policy. </p>
-
-                        <p id="disclose-agents"><b>Agents, Consultants and Related Third Parties:</b> We, like many
-                            businesses, sometimes engage other companies to perform certain business-related
-                            functions. Examples of such functions include mailing information, maintaining databases
-                            and processing payments. When we engage another company to perform such functions, we
-                            may provide them with information, including Personal Data, in connection with their
-                            performance of such functions. </p>
-
-                        <p id="disclose-managers"><b>Managers:</b> When you register for or donate to an event on
-                            the Platform, you consent to our providing your Personal Data to the Managers of such
-                            event. These Managers are not bound to treat your Personal Data in accordance with this
-                            Privacy Policy. You agree that we are not responsible for the actions of these Managers
-                            with respect to your Personal Data. It is important that you review the applicable
-                            policies of the Managers of an event before providing Personal Data or other information
-                            in connection with that event. </p>
-
-                        <p id="disclose-legal"><b>Legal Requirements:</b> We may disclose your Personal Data if
-                            required to do so by law (including, without limitation responding to a subpoena or
-                            request from law enforcement, court or government agency) or in the good faith belief
-                            that such action is necessary (i) to comply with a legal obligation, (ii) to protect or
-                            defend our rights, interests or property or that of other customers or users, (iii) to
-                            act in urgent circumstances to protect the personal safety of users of the Platform or
-                            the public, or (iv) to protect against legal liability. </p>
-
-
-                        <div id="referrals">
-
-                            <h1>2. Non-Personal Data</h1>
-
-                            <p>Because Non-Personal Data cannot be used to personally identify you, we may disclose,
-                                transfer or share Non-Personal Data for any lawful purpose. </p>
-
-                            <h2 id="disclose-choices">Your Choices:</h2>
-
-                            <p>You have several choices available when it comes to your Personal Data: </p>
-
-                            <p><b>Limit the Personal Data You Provide:</b> You can use the Platform without
-                                providing any Personal Data or with limiting the Personal Data you provide. If you
-                                choose not to provide any Personal Data or limit the Personal Data you provide, you
-                                may not be able to use certain functionality of the Platform. For instance, in order
-                                to open an account/register for your events your name and email address is required
-                            </p>
-
-                            <p><b>Opt Out:</b> You can “opt out” of receiving Company newsletter emails by following
-                                the prompts on the newsletter to unsubscribe. In the event a Manager uses our system
-                                to email you, you will be able to “opt out” of receiving those communications as
-                                well. Please note that if you unsubscribe from receiving a particular Manager’s
-                                emails, you will no longer receive emails from the particular Manager that are sent
-                                through our system (but you may still receive emails sent by that Manager through
-                                means other than our system), however, you will still receive Company communications
-                                and communications from other Managers whose events you have attended or are
-                                registered to attend or who have otherwise obtained your email address. Likewise, if
-                                you unsubscribe from our communications you will continue to receive communications
-                                from Managers. So you may have to unsubscribe from multiple emails before you stop
-                                receiving all communications. You can also unsubscribe from receiving all Manager
-                                emails sent through our system. It may take up to 72 hours for us to process an
-                                unsubscribe request. Note that you cannot unsubscribe from update communications
-                                about the Platform. You can stop receiving communications only by contacting
-                                us at https://raceroster.com/contact-us/ and closing your account. By electing to
-                                stop receiving all communications from us or through our system you will no longer
-                                receive any updates on your account or on events you are registered to attend or
-                                have previously attended, including communications regarding refunds. We do not
-                                recommend that you do this unless you plan to no longer use the Platform, are not
-                                currently registered for an event, are not currently organizing an event and will
-                                have no need to receive further communications from us or through our system. Even
-                                after you opt out of all communications, we will retain your Personal Data and
-                                Non-Personal Data in accordance with this Privacy Policy, however, we will no longer
-                                use it to contact you. However, Managers who have received your Personal Data in
-                                accordance with this Privacy Policy may still use that Personal Data to contact you
-                                in accordance with their own privacy policies, but they may not use our system to do
-                                so.
-                            </p>
-
-                            <h2 id="disclose-exclusions">Exclusions</h2>
-
-                            <p>This Privacy Policy does not apply to any Personal Data collected by us other than
-                                Personal Data collected by us through the Platform. This Privacy Policy shall not
-                                apply to any unsolicited information you provide to us or another user or visitor
-                                through the Platform or through any other means. Please do not send confidential or
-                                sensitive information to us directly through this Website, or by email to any of the
-                                contact email addresses listed on this Website.This includes, but is not limited to,
-                                information posted to any public areas of the Platform, such as bulletin boards,
-                                any ideas for new products or modifications to existing products, claim or demand
-                                letters, and other unsolicited submissions (collectively, “Unsolicited
-                                Information”). All Unsolicited Information shall be deemed to be non-confidential
-                                and we shall be free to reproduce, use, disclose, distribute and exploit such
-                                Unsolicited Information without limitation or attribution. </p>
-
-                            <h2 id="disclose-children">Children</h2>
-
-                            <p>We do not knowingly collect Personal Data from children under the age of 13. If you
-                                are under the age of 13, please do not submit any Personal Data through the
-                                Platform. We encourage parents and legal guardians to monitor their children’s
-                                Internet usage and to help enforce our Privacy Policy by instructing their children
-                                never to provide Personal Data through the Platform without their permission. If you
-                                have reason to believe that a child under the age of 13 has provided Personal Data
-                                to us through the Platform, please contact us, and we will endeavor to delete that
-                                information from our databases. </p>
-
-                            <h2 id="disclose-links">Links to Other Web Sites</h2>
-
-                            <p>This Privacy Policy applies only to the Platform. The Platform may contain links to
-                                other websites not operated or controlled by us (the “Third Party Sites”). The
-                                policies and procedures we describe here do not apply to the Third Party Sites. The
-                                links from the Platform do not imply that we endorse or have reviewed the Third
-                                Party Sites. We suggest contacting those sites directly for information on their
-                                privacy policies. </p>
-
-                            <h2 id="disclose-storage">Storage and Security: </h2>
-
-                            <p>We may store Personal Data itself or such information may be included in databases
-                                owned and maintained by our affiliates, agents or service providers. We take what we
-                                believe to be reasonable steps to protect the Personal Data provided via the
-                                Platform from loss, misuse, unauthorized access, inadvertent disclosure, alteration,
-                                and destruction. However, no Internet or e-mail transmission is ever fully secure or
-                                error free. In particular, e-mail sent to or from the Platform may not be secure.
-                                Therefore, you should take special care in deciding what information you send to us
-                                via e- mail. Please keep this in mind when disclosing any Personal Data via the
-                                Internet.</p>
-
-                            <p><strong>USE OF THE WEBSITE FROM OUTSIDE THE UNITED STATES OR CANADA</strong><br>
-                                We do not represent or warrant that the Platform, or any part thereof, are
-                                appropriate or available for use in any particular geographic location. If you
-                                choose to access our Platform, you do so on your own initiative and at your own
-                                risk, and are responsible for complying with all local laws, rules, and regulations
-                                applicable in your jurisdiction. Please note that the Platform is hosted in the
-                                United States and Canada and is governed by United States law, as applicable, or
-                                Canadian law, as applicable. If you are using our Platform from outside the United
-                                States, or Canada, please be aware that your information will be transferred to,
-                                stored and processed in the United States, or Canada, whereever our servers are
-                                located and our central database is operated. The data protection and other laws of
-                                the United States and Canada and other countries might not be as comprehensive as
-                                those in your country. By using the Platform, you consent to your information being
-                                transferred to our facilities and to the facilities of those third parties with whom
-                                we share it as described in this Privacy Policy.
-                            </p>
-
-
-                            <h2 id="disclose-changes">Changes to Company’s Privacy Policy</h2>
-
-                            <p>The Platform and our business may change from time to time. As a result, at times it
-                                may be necessary for us to make changes to this Privacy Policy. We reserve the right
-                                to update or modify this Privacy Policy at any time and from time to time without
-                                prior notice, and for any reason. Please review this Privacy Policy periodically,
-                                and especially before you provide any Personal Data. This Privacy Policy was last
-                                updated on the date indicated above. Your continued use of the Platform after any
-                                changes or revisions to this Privacy Policy shall indicate your agreement with the
-                                terms of such revised Privacy Policy. </p>
-
-                            <h2 id="disclose-access">Access to Information; Contacting Company</h2>
-
-                            <p>To keep your Personal Data accurate, current, and complete, please contact us as
-                                specified below. We will take reasonable steps to update or correct Personal Data in
-                                our possession that you have previously submitted via the Platform. Please also feel
-                                free to contact us if you have any questions about this Privacy Policy or our
-                                information practices. Please communicate any questions or concerns via email on our
-                                “Contact Us” page. </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <div class="prompt-action ">
-    <div class="container">
-        <div class="col-md-12">
-            <div class="row">
-                <h1>It's free to create an event and always will be.</h1>
-            </div>
-            <div class="row">
-                <a class="btn btn-prompt" href="/book-demo">Let Us Help You</a>
-                <a class="btn btn-prompt btn-blue" href="/dashboard/RaceDirector/registration_process/create_event.php">Create An Event Yourself</a>
-            </div>
-        </div>
-    </div>
+        <div id="wrapper" class="brochure-wrapper">
+            <div class="skip-links">
+    <a class="sr-only sr-only-focusable" href="#main">
+        Skip to content    </a>
+    <a class="sr-only sr-only-focusable" href="#footer">
+        Skip to footer    </a>
 </div>
-
-</main>
-
-        <footer id="footer">
-        <div class="container">
-            <div class="row">
-
-                <div class="col-md-7 hidden-xs hidden-sm">
-                    <div class="row">
-                        <div class="col-md-12">
-                            <h1 class="footer-title">Contact</h1>
-                        </div>
-                    </div>
-
-                    <div class="row move-down">
-                        <div class="col-md-6">
-                            <h1 class="shift-up">USA</h1>
-
-                            <div class="footer-information">
-                                <div>4281 Express Lane, Suite M9706</div>
-                                <div>Sarasota, FL</div>
-                                <div>34249</div>
-                            </div>
-
-                        </div>
-
-                        <div class="col-md-6 move-down">
-                            <h1 class="shift-up">PHONE</h1>
-
-                            <div class="footer-information">
-                               <div> <a href="tel:+18559695515">1-855-969-5515 </a></div>
-                            </div>
-
-                            <h1 class="title-down">EMAIL</h1>
-
-                            <div class="footer-information">
-                                <div><a href="mailto:support@raceroster.com">support@raceroster.com</a></div>
-                            </div>
-
-                        </div>
-
-                    </div>
-
-                    <div class="row">
-                        <div class="col-md-6">
-
-                            <h1 class="title-down">Canada</h1>
-
-                            <div class="footer-information">
-                                <div>740 Richmond Street, 2nd Floor</div>
-                                <div>London, ON</div>
-                                <div>N6A 3H3</div>
-                            </div>
-
-                        </div>
-
-                    </div>
-                </div>
-
-                <div class="col-md-5">
-
-                    <div class="row">
-                        <div class="col-md-12">
-                            <h1 class="footer-title">Subscribe To Our Newsletter</h1>
-                        </div>
-                    </div>
-                    <form class="form" role="form" id="newsletter-form">
-
-                        <div class="row move-down">
-                            <div class="col-md-12">
-                                <div class="form-group">
-                                    <div class="input-group">
-                                        <div class="input-group-addon"><i class="fa fa-user"></i></div>
-                                        <input required="" class="form-control" type="text" placeholder="Your Name" id="newsletter_name" name="name">
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-
-                        <div class="row">
-                            <div class="col-md-12 form-input-padding">
-                                <div class="form-group ">
-                                    <div class="input-group" id="email-form">
-                                        <div class="input-group-addon email"><i class="fa fa-envelope"></i></div>
-                                        <input required="" class="form-control" type="email" placeholder="Enter email" id="newsletter_email" name="email" pattern=".+@.+\..{2,63}">
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="row">
-                            <div class="col-md-12">
-                                <button type="submit" class="btn btn-default" id="newsletter-submit">Submit</button>
-                            </div>
-                        </div>
-                    </form>
-                </div>
-            </div>
-
-
-            <div class="row bottom-footer">
-
-
-                <div class="col-md-5 footer-icons">
-                    <a href="https://www.facebook.com/RaceRoster"><i class="fa fa-facebook"></i></a>
-                    <a href="https://twitter.com/RaceRoster"><i class="fa fa-twitter"></i></a>
-                    <a href="http://instagram.com/raceroster"><i class="fa fa-instagram"></i></a>
-                    <a href="https://plus.google.com/+RaceRoster"><i class="fa fa-google-plus"></i></a>
-                </div>
-
-                <div class="col-md-7 footer-links">
-                    <a href="/about">About</a>
-                    <a href="https://blog.raceroster.com">Blog</a>
-                    <a href="/careers">Jobs</a>
-                    <a href="https://support.raceroster.com">Support</a>
-                    <a href="https://blog.raceroster.com/ebooks">Ebooks</a>
-                    <a href="/terms-and-conditions">Terms</a>
-                    <a href="/privacy-policy">Privacy Policy</a>
-                </div>
-
-                <div class="col-md-4 visible-xs visible-sm mobile-footer-logo">
-                    <img src="/assets/images/logo2.png" alt="Race Roster logo">
-                </div>
-
-            </div>
-
-
-        </div>
-    </footer>
-    
-
-    <div class="sidebar-offcanvas-wrapper light">
-
-        <div id="popout-sidenav" class="sidebar-offcanvas web-menu light" role="navigation">
-
-                        <div class="side-nav-top">
-
-                                <ul class="nav-info">
-
-                    <li class="edit-profile">
-                        <a href="/signin"><span class="options create">Create
-                                    Account
-                                </span></a>
-                    </li>
-                    <li>
-                        <a href="/signin"><span class="options authenticate">Sign In</span></a>
-                    </li>
-                </ul>
-                                </div>
-
-                <div class="container navigation-container">
-
-                    <hr class="visible-xl visible-lg visible-md">
-                    <div class="container">
-                        
-                        <section id="navigate-brochure" class="hidden-xl hidden-lg hidden-md">
-                            <div class="container">
-
-                                <div class="row">
-                                    <div class="col-md-6 nav-box">
-                                        <a href="/registration">Registration</a>
-                                    </div>
-                                    <div class="col-md-6 nav-box pull-right">
-                                        <a href="/marketing">Marketing</a>
-                                    </div>
-                                </div>
-
-                                <div class="row">
-                                    <div class="col-md-6 nav-box">
-                                        <a href="/fundraising">Fundraising</a>
-                                    </div>
-                                    <div class="col-md-6 nav-box pull-right">
-                                        <a href="/pricing">Pricing</a>
-                                    </div>
-                                </div>
-
-                                <div class="row">
-                                    <div class="col-md-6 nav-box border-none">
-                                        <a href="/features">Features</a>
-                                    </div>
-                                    <div class="col-md-6 nav-box border-none pull-right">
-                                        <a href="/contact">Contact</a>
-                                    </div>
-                                </div>
-                            </div>
-
-                        </section>
-
-                        
-                        <section id="navigate-event-organizers">
-                            <div class="container">
-
-                                <div class="row">
-                                    <div class="col-md-12">
-                                        <span class="menu-title"><i class="fa fa-flag"></i>Event Organizers</span>
-                                    </div>
-                                </div>
-
-                                
-                                
-                                <div class="row">
-                                    <div class="col-md-6 nav-box">
-                                        <a href="/dashboard/RaceDirector/registration_process/create_event.php">Create
-                                            Event
-                                        </a>
-                                    </div>
-                                    <div class="col-md-6 nav-box pull-right">
-                                        <a href="/book-demo">Book a Demo</a>
-                                    </div>
-                                </div>
-
-
-                                <div class="row">
-                                    <div class="col-md-6 nav-box border-none">
-                                        <a href="https://blog.raceroster.com/ebooks/">Ebooks</a>
-                                    </div>
-                                    <div class="col-md-6 nav-box pull-right border-none">
-                                        <a href="https://blog.raceroster.com">Blog</a>
-                                    </div>
-                                </div>
-
-                            </div>
-                        </section>
-
-
-                                                <section id="navigate-participants">
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col-md-12">
-                                        <span class="menu-title"><i class="fa fa-user"></i>Participants</span>
-                                    </div>
-                                </div>
-
-                                <div class="row">
-                                    <div class="col-md-12 nav-box dashboard">
-                                        <a href="/dashboard/Participant/Home.php">Participant Dashboard</a>
-                                    </div>
-                                </div>
-
-                                <div class="row">
-                                    <div class="col-md-6 nav-box">
-                                                                                    <a href="/signin">Sign Up</a>
-                                                                            </div>
-                                    <div class="col-md-6 nav-box pull-right">
-                                        <a href="/search">Find Event</a>
-
-                                    </div>
-                                </div>
-
-
-                            </div>
-
-                        </section>
-
-                                                <section id="navigate-support">
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col-md-12">
-                                        <span class="menu-title"><i class="fa fa-info"></i>Support</span>
-                                    </div>
-                                </div>
-
-                                <div class="row">
-                                    <div class="col-md-6 nav-box border-none">
-                                        <a href="https://support.raceroster.com" target="_blank">Support</a>
-                                    </div>
-                                    <div class="col-md-6 nav-box border-none pull-right">
-                                        <a href="/contact">Feedback</a>
-                                    </div>
-                                </div>
-
-                            </div>
-
-                        </section>
-
-                        <section id="menu-footer">
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col-md-12">
-                                        <p>
-                                                                                            <a href="#" class="view-desktop-site visible-xs">View Desktop Mode</a>
-                                                <span class="visible-xs"></span>
-                                                                                                                                    <span>
-                                                © Race Roster
-                                                <span>| </span>
-                                                <span>
-                                                    <a href="tel:+18559695515">
-                                                        1-855-969-5515
-                                                    </a>
-                                                </span>
-                                            </span>
-                                        </p>
-
-                                    </div>
-                                </div>
-                            </div>
-
-                        </section>
-
-                    </div>
-
-                </div>
-            </div>
-
-
-        </div>
+            <nav id="header" class="brochure-header navbar navbar-expand-lg sticky">
+    <a class="brochure-header__brand navbar-brand" href="https://raceroster.com" title="Go to home page">
+    <svg xmlns="http://www.w3.org/2000/svg" width="483" height="142" viewBox="0 0 483 142">
+    <title>Logo</title>
+    <g fill="none">
+        <path fill="#09f" d="M114 115.6c-.7.1-1.5.3-2.2.5L79.9 80.8c.9-2.1 1.3-4.4 1-6.9-1-6.8-7.3-11.6-14.1-10.6s-11.6 7.3-10.6 14.1c.2 1.4.6 2.6 1.2 3.8l-18.3 22c-1.6-.4-3.3-.5-5-.3-.9.1-1.8.4-2.6.7l-7.1-7.8c.9-2.1 1.3-4.4 1-6.9-1-6.8-7.3-11.6-14.1-10.6S-.3 85.6.7 92.4 8 104 14.8 103c.8-.1 1.5-.3 2.2-.5l7.3 8.1c-.8 2-1.1 4.2-.8 6.5 1 6.8 7.3 11.6 14.1 10.6s11.6-7.3 10.6-14.1c-.2-1.4-.7-2.8-1.3-4l18.2-21.9c1.6.5 3.4.6 5.2.4.7-.1 1.5-.3 2.2-.5l31.9 35.3c-.9 2.1-1.3 4.4-1 6.9 1 6.8 7.3 11.6 14.1 10.6s11.6-7.3 10.6-14.1c-1-6.9-7.3-11.7-14.1-10.7zM118.1.7c-6.8 1-11.6 7.3-10.6 14.1.2 1.6.8 3.1 1.6 4.5L98 32.7c-1.8-.6-3.8-.8-5.8-.5-1 .1-1.9.4-2.7.7l-9-9.9c1.1-2.2 1.6-4.8 1.2-7.4C80.7 8.8 74.4 4 67.6 5 60.8 5.9 56 12.2 57 19c.2 1.6.7 3 1.4 4.3L46.7 37.4c-1.8-.6-3.7-.8-5.6-.5-6.8 1-11.6 7.3-10.6 14.1s7.3 11.6 14.1 10.6 11.6-7.3 10.6-14.1c-.2-1.6-.8-3.2-1.6-4.5l11.7-13.9c1.8.6 3.8.8 5.8.6 1-.1 1.9-.4 2.7-.7l9 9.9c-1.1 2.2-1.6 4.8-1.2 7.4 1 6.8 7.3 11.6 14.1 10.6s11.6-7.3 10.6-14.1c-.2-1.6-.7-3-1.5-4.3L116 24.9c1.8.6 3.7.8 5.6.5 6.8-1 11.6-7.3 10.6-14.1-.9-6.9-7.3-11.6-14.1-10.6z"></path>
+        <g fill="#51545d">
+            <path d="M211.6 26.4c0-8.2-5.8-17.1-18.5-17.1h-24.3v51.1h10.7V43.7h8L202 60.3h12.1v-1.6l-14.4-16.3c7.6-2 11.9-7.8 11.9-16zm-10.7.2c0 3.3-2 7.3-7.8 7.3h-13.6V19.4h13.6c5.8 0 7.8 3.9 7.8 7.2zM244.3 9.3l-22.9 51H233l4.3-9.4h25.1l4.2 9.4h11.7l-22.9-51zm13.8 31.5h-16.4l8.2-18.7zM320.6 46.3c-3 3-7.6 4.8-12 4.8-12 0-16.3-8.3-16.4-16.1 0-4.7 1.6-9.1 4.6-12.1 2.9-2.9 7-4.5 11.8-4.5 4.5 0 8.5 1.6 11.5 4.5l.5.5 7.2-7-.5-.5c-5.2-5.1-11.6-7.8-18.7-7.8-7.9 0-14.6 2.6-19.4 7.4-4.8 4.9-7.6 11.9-7.5 19.4.1 12.1 7.2 26.3 27 26.3 7.6 0 14.3-2.6 19.3-7.6l.5-.5-7.3-7.4zM339 60.3h38.5V49.7h-27.9v-9.9h26.9v-10h-26.9V19.7h27.9V9.3H339zM211.6 97.3c0-8.2-5.8-17.1-18.5-17.1h-24.3v51.1h10.7v-16.6h8l14.5 16.6h12.1v-1.6l-14.4-16.3c7.6-2.1 11.9-7.9 11.9-16.1zm-10.7.2c0 3.3-2 7.3-7.8 7.3h-13.6V90.3h13.6c5.8-.1 7.8 3.9 7.8 7.2zM247.7 79.2c-18 0-26.2 13.9-26.2 26.8 0 13.1 8.1 26.3 26.2 26.3 17.9 0 26-13.2 26.1-26.3.1-7.5-2.7-14.6-7.5-19.5-4.7-4.8-11.1-7.3-18.6-7.3zm0 43.1c-11.2 0-15.4-8.4-15.6-16.2-.1-5 1.5-9.7 4.6-12.8 2.8-2.8 6.5-4.3 11-4.3s8.2 1.4 10.9 4.2c3 3.1 4.7 7.8 4.6 12.8-.1 7.9-4.3 16.3-15.5 16.3zM304.3 99.5c-6.3-.7-10.5-2-10.5-5.6s3.7-5.9 9.6-5.9c5.2 0 9.7 2.7 11.2 5.2l.3.5 8.6-4.4-.3-.6c-3.3-6.7-10.2-10.2-20.1-10.2-9.9.1-19.9 4.8-19.9 15.1 0 11.7 10.2 14.5 20.1 15.7 7.4.8 10.9 2.9 10.9 6.6 0 6.3-8.2 6.8-10.7 6.8-6.5 0-11.5-2.8-13.3-7.4l-.3-.7-9 4.7.2.6c3.5 8.5 10.7 12.6 22.3 12.6 10.4 0 21.5-4.3 21.5-16.5 0-12.3-9.9-15.2-20.6-16.5zM333.2 90H349v41.2h10.7V90h15.7v-9.8h-42.2zM386.4 131.2h38.5v-10.6H397v-9.9h26.9v-10H397V90.6h27.9V80.2h-38.5zM468.4 113.3c7.6-2 12-7.8 12-16s-5.8-17.1-18.5-17.1h-24.3v51.1h10.7v-16.6h8l14.3 16.4.2.2h12.1v-1.6zm1.3-15.8c0 3.3-2.1 7.3-7.8 7.3h-13.6V90.3h13.6c5.7-.1 7.8 3.9 7.8 7.2z"></path>
+        </g>
+    </g>
+</svg>
+</a>
+    <button class="brochure-header__toggler btn btn-outline btn-outline-primary collapsed" type="button" data-toggle="collapse" data-target="#brochure-header-collapse" aria-controls="brochure-header-collapse" aria-expanded="false">
+    <span class="brochure-header__toggler-icon fas fa-bars" aria-hidden="true"></span>
+    Menu
+</button>
+
+    <div class="brochure-header__collapse collapse navbar-collapse" id="brochure-header-collapse">
+        <form class="brochure-header__search my-2 my-lg-0 mr-auto" action="/search" method="get">
+    <label class="sr-only">Search for an event</label>
+    <input class="brochure-header__search-input form-control" type="search" name="q" placeholder="Search for an event">
+    <div class="brochure-header__search-append">
+        <button class="btn btn-primary brochure-header__search-button" type="submit">Search</button>
     </div>
+</form>
 
-        <div class="bottom-menu">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <ul>
-                                                    <li class="svg-logo">
-                                <a href="/">
-
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="223.4" height="220.6" class="svg-symbol" viewBox="0 0 223.5 220.6">
-                                        <path d="M166.5 181.937c-1.175-.05-2.325.025-3.45.175l-38.838-62.737c2.013-2.925 3.25-6.425 3.4-10.225.413-10.688-7.924-19.675-18.6-20.075-10.687-.413-19.674 7.925-20.074 18.6-.075 2.137.187 4.2.75 6.137l-34.063 28.5c-2.3-1.1-4.85-1.75-7.563-1.85-1.412-.05-2.787.05-4.124.288l-8.626-13.9c2.013-2.913 3.238-6.413 3.388-10.213.4-10.688-7.925-19.675-18.6-20.075C9.412 96.137.425 104.475.012 115.15c-.4 10.687 7.926 19.675 18.6 20.075 1.176.05 2.338-.025 3.463-.188l8.912 14.363c-1.787 2.8-2.875 6.1-3.012 9.65-.4 10.687 7.925 19.675 18.6 20.075 10.688.4 19.675-7.925 20.075-18.6.087-2.25-.225-4.425-.85-6.463l33.862-28.312c2.375 1.175 5.038 1.887 7.863 2 1.175.037 2.325-.025 3.45-.175l38.85 62.737c-2.012 2.925-3.25 6.425-3.4 10.238-.4 10.675 7.925 19.662 18.612 20.075 10.675.4 19.663-7.925 20.076-18.6.4-10.675-7.925-19.675-18.6-20.075M204.838 7.612c-10.688-.4-19.675 7.925-20.075 18.6-.1 2.563.312 5.025 1.125 7.3L165.163 50.85c-2.575-1.438-5.525-2.313-8.688-2.438-1.5-.062-2.962.063-4.375.325l-10.937-17.65c2.337-3.062 3.787-6.85 3.95-10.987.4-10.688-7.925-19.675-18.6-20.075-10.688-.4-19.675 7.925-20.075 18.6-.088 2.437.275 4.787 1.012 6.962L85.562 43.762c-2.524-1.362-5.374-2.175-8.424-2.287-10.688-.4-19.676 7.925-20.076 18.6-.412 10.687 7.926 19.675 18.6 20.075 10.675.4 19.675-7.925 20.075-18.6.1-2.563-.312-5.025-1.137-7.313l21.688-18.012c2.6 1.462 5.562 2.35 8.75 2.475 1.5.062 2.962-.063 4.374-.325l10.938 17.65c-2.337 3.062-3.788 6.85-3.95 10.987-.412 10.688 7.925 19.675 18.6 20.075 10.688.4 19.675-7.925 20.075-18.6.1-2.462-.275-4.825-1.038-7.025L194.912 44c2.525 1.362 5.388 2.187 8.45 2.3 10.688.4 19.675-7.925 20.075-18.6.4-10.688-7.925-19.675-18.6-20.075" class="style0 logo-fill"></path>
-                                    </svg>
-                                    <div class="fallback"></div>
-                                    <img src="https://cdn.raceroster.com/assets/images/rr_letters.png" class="letters" alt="Race Roster name">
-
-                                </a>
+        <ul class="brochure-header__navigation navbar-nav">
+            <li class="brochure-header__sign-in brochure-header__sign-in--mobile nav-item">
+                                    <a class="nav-link" href="/signin">
+                        <span class="brochure-header__navigation-item-icon fas fa-sign-in-alt" aria-hidden="true"></span>
+                        Sign in                    </a>
                             </li>
-                        
-
-                        <li class="menu-link">
-                            <a href="#" data-toggle="offcanvas" type="button">
-                                <i class="fa fa-bars custom-primary-icon-color"></i></a>
-                        </li>
-
-                        <li class="authentication-button">
-                                                            <a class="button-sign-in" href="/signin">Sign In</a>
-                                                    </li>
-                    </ul>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="products-dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <span class="brochure-header__navigation-item-icon fas fa-bookmark" aria-hidden="true"></span>
+                    Products                </a>
+                <div class="dropdown-menu dropdown-menu-right" aria-labelledby="products-dropdown-toggle">
+                    <a class="dropdown-item" href="/products/registration">
+                        Registration                    </a>
+                    <a class="dropdown-item" href="/products/fundraising">
+                        Fundraising                    </a>
+                    <a class="dropdown-item" href="/products/timing-tools">
+                        Timing tools                    </a>
+                    <a class="dropdown-item" href="/products/CRM">
+                        CRM                    </a>
+                    <a class="dropdown-item" href="/products/onsite">
+                        Onsite                    </a>
+                    <a class="dropdown-item" href="/features">
+                        All features and tools                    </a>
                 </div>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="solutions-dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <span class="brochure-header__navigation-item-icon fas fa-lightbulb" aria-hidden="true"></span>
+                    Solutions                </a>
+                <div class="dropdown-menu dropdown-menu-right" aria-labelledby="solutions-dropdown-toggle">
+                    <a class="dropdown-item" href="/solutions/event-organizer">
+                        Event organizers                    </a>
+                    <a class="dropdown-item" href="/solutions/fundraising-coordinator">
+                        Fundraising coordinators                    </a>
+                    <a class="dropdown-item" href="/solutions/timer">
+                        Timers                    </a>
+                </div>
+            </li>
+
+            <li class="nav-item">
+                <a class="nav-link" href="/pricing">
+                    <span class="brochure-header__navigation-item-icon fas fa-dollar-sign" aria-hidden="true"></span>
+                    Pricing                </a>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="resources-dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <span class="brochure-header__navigation-item-icon fas fa-file-alt" aria-hidden="true"></span>
+                    Resources                </a>
+                <div class="dropdown-menu dropdown-menu-right dropdown-menu--lg" aria-labelledby="resources-dropdown-toggle">
+                    <div class="dropdown-column">
+                        <div class="border-bottom pb-3 mb-2 d-none d-lg-block">
+                            <span class="h6 text-uppercase">
+                                Resources                            </span>
+                            <a href="/resources" class="float-right">
+                                View all                            </a>
+                        </div>
+                        <a class="dropdown-item" href="/category/articles">
+                            Articles                        </a>
+                        <a class="dropdown-item" href="/category/major-releases">
+                            Major releases                        </a>
+                        <a class="dropdown-item" href="/category/ebooks">
+                            eBooks                        </a>
+                        <a class="dropdown-item" href="/category/video-updates">
+                            Videos                        </a>
+                        <a class="dropdown-item" href="/category/success-stories">
+                            Success stories                        </a>
+                        <a class="dropdown-item" href="/resources">
+                            View all                        </a>
+                    </div>
+                    <div class="dropdown-column d-none d-lg-block">
+                        <div class="pb-3">
+                            <span class="h6 text-uppercase">Latest post</span>
+                        </div>
+
+                        <img src="https://raceroster.com/wp-content/uploads/2018/10/new-site-mockup.jpg" class="img-fluid" alt="" srcset="https://raceroster.com/wp-content/uploads/2018/10/new-site-mockup.jpg 1440w, https://raceroster.com/wp-content/uploads/2018/10/new-site-mockup-300x153.jpg 300w, https://raceroster.com/wp-content/uploads/2018/10/new-site-mockup-768x391.jpg 768w, https://raceroster.com/wp-content/uploads/2018/10/new-site-mockup-1024x522.jpg 1024w" sizes="(max-width: 1440px) 100vw, 1440px">                                <strong class="pt-3 d-block">It’s not a Halloween costume.<br> We have a new look!</strong>
+                                <a href="https://raceroster.com/major-releases/its-not-a-costume-its-our-new-look" title="It’s not a Halloween costume.<br> We have a new look!">
+                                    Read more                                </a>
+                            
+                    </div>
+                </div>
+            </li>
+            <li class="brochure-header__sign-in brochure-header__sign-in--desktop nav-item d-lg-none px-2">
+                                    <a class="btn btn-sm btn-outline btn-outline-primary" href="/signin">
+                        Sign in                    </a>
+                            </li>
+            <li class="brochure-header__navigation-item--demo nav-item px-2">
+                                    <a class="btn btn-sm btn-primary" href="/book-demo" target="_blank">
+                        Request a demo                    </a>
+                            </li>
+        </ul>
+    </div>
+</nav>
+
+            <main id="main" class="brochure-page">
+    <div class="container py-5 py-md-6">
+
+        <div class="pb-4 pb-md-5">
+            <h1 class="display-2">Privacy policy</h1>
+            <span>As of December 12, 2018</span>
+        </div>
+
+        <hr>
+
+        <div class="row mt-4 mt-md-5 justify-content-center">
+
+            <div class="col-md-5">
+                    <div id="accordion" class="brochure-page__sidebar--sticky sticky">
+
+        <ul id="anchor-nav" class="brochure-page__sidebar-nav--sticky list-unstyled accordion pr-lg-5">
+            
+                <li>
+                                            <a class="accordion-heading d-block pt-4 pb-2 collapsed" data-toggle="collapse" href="#collapse-1" role="button" aria-expanded="false" aria-controls="collapse-1">
+                            POLICY CONTENTS:                                                    </a>
+                                    </li>
+
+            
+                <li>
+                                            <a href="#1importanceofyourprivacy" class="accordion-heading d-block pt-4 pb-2">
+                            1.  Importance of your Privacy                        </a>
+                                    </li>
+
+            
+                <li>
+                                            <a href="#2whoweareandgettingintouch" class="accordion-heading d-block pt-4 pb-2">
+                            2.  Who We Are and Getting in Touch                        </a>
+                                    </li>
+
+            
+                <li>
+                                            <a class="accordion-heading d-block pt-4 pb-2 collapsed" data-toggle="collapse" href="#collapse-4" role="button" aria-expanded="false" aria-controls="collapse-4">
+                            3.  What Information is Collected About Me?                                                            <span class="accordion-heading-icon fa fa-chevron-down float-right small"></span>
+                                                    </a>
+                                            <ul id="collapse-4" class="accordion-collapse collapse list-unstyled pl-4" data-parent="#accordion">
+                                                            <li class="py-1">
+                                    <a href="#3whatinformationiscollectedaboutme">3.1. Personal Data</a>
+                                </li>
+                                                            <li class="py-1">
+                                    <a href="#32nonpersonaldata">3.2. Non-Personal Data:</a>
+                                </li>
+                                                    </ul>
+                                    </li>
+
+            
+                <li>
+                                            <a href="#4howismypersonaldataused" class="accordion-heading d-block pt-4 pb-2">
+                            4.  How is my Personal Data Used?                        </a>
+                                    </li>
+
+            
+                <li>
+                                            <a href="#5whoismypersonaldatasharedwith" class="accordion-heading d-block pt-4 pb-2">
+                            5.  Who is my Personal Data Shared With?                        </a>
+                                    </li>
+
+            
+                <li>
+                                            <a href="#6howismypersonaldatakeptsecure" class="accordion-heading d-block pt-4 pb-2">
+                            6.  How is my Personal Data Kept Secure?                        </a>
+                                    </li>
+
+            
+                <li>
+                                            <a href="#7notforchildrenunderthirteen" class="accordion-heading d-block pt-4 pb-2">
+                            7.  Not for Children under Thirteen                        </a>
+                                    </li>
+
+            
+                <li>
+                                            <a href="#8howlongismypersonalinformationretained" class="accordion-heading d-block pt-4 pb-2">
+                            8.  How Long is my Personal Data Retained?                        </a>
+                                    </li>
+
+            
+                <li>
+                                            <a href="#9gdprcomplianceatraceroster" class="accordion-heading d-block pt-4 pb-2">
+                            9.  GDPR Compliance at Race Roster                        </a>
+                                    </li>
+
+            
+                <li>
+                                            <a href="#10externallinksandracerostersocialmedia" class="accordion-heading d-block pt-4 pb-2">
+                            10. External Links and Race Roster Social Media                        </a>
+                                    </li>
+
+            
+                <li>
+                                            <a href="#11changestothisprivacypolicy" class="accordion-heading d-block pt-4 pb-2">
+                            11. Changes to this Policy                        </a>
+                                    </li>
+
+                    </ul>
+    </div>
+    <a href="#wrapper" class="brochure-page__sidebar-toggle--sticky">Scroll to top</a>
+            </div>
+
+            <div class="col-md-7">
+                <h2 id="1importanceofyourprivacy">1. Importance of your Privacy</h2>
+<p>At Race Roster, your privacy is of great importance to us. We understand that you entrust us with certain personal data when using our website (raceroster.com) and related services such as Salesforce ® (collectively “the Platform”).</p>
+<p>PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING THE PLATFORM OR ALLOWING/DIRECTING SOMEONE TO USE THE PLATFORM. BY VOLUNTARILY PROVIDING ANY PERSONAL DATA TO RACE ROSTER AND USING OUR PLATFORM, YOU ARE ACKNOWLEDGING THAT YOU HAVE READ AND UNDERSTOOD THIS POLICY AND THAT YOU CONSENT TO OUR COLLECTION, USE AND DISCLOSURE OF SUCH DATA AS SET FORTH IN THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT PROVIDE US WITH ANY DATA.</p>
+<h2 id="2whoweareandgettingintouch">2. Who We Are and Getting in Touch</h2>
+<p>The Platform is owned and operated by Race Roster, (hereinafter referred to as “Race Roster,” or “we” or “us” or the “Company”). Race Roster operates collectively under the corporate names of Race Roster USA Inc., and Fast North Corp.. If you have any privacy concerns or questions at any time, please do not hesitate to email us at privacy@raceroster.com, or via mail at Race Roster, 4281 Express Lane, Suite M9706, Sarasota, Florida, United States, 34249 or Race Roster, 103 King St. London, Ontario, Canada, N6A 1C1, Attention: Privacy Officer.<br>EU residents may also exercise their data subject rights by contacting our Privacy Officer, who is also Race Roster’s Data Protection Officer (see Section 9 of this policy: GDPR Compliance at Race Roster).</p>
+<h2 id="3whatinformationiscollectedaboutme">3. What Information is Collected About Me?</h2>
+<p>“Personal data” is any information about an identifiable individual that is collected from users of and/or visitors (“you” or “your”) to the Platform, including:</p>
+<p>i. registered users who are event managers and planners (“Managers”)<br>ii. users who want to purchase event entries, goods and services, register for or donate to events (whether free or paid) listed by Managers on the Platform (“Registrants”), and<br>iii. other non-Manager users, or visitors, to the Platform (“other non-managers”).</p>
+<p>When you interact with us through the Platform, we may collect Personal Data and other information from you or someone on your behalf, as further described below:</p>
+<h3 id="31personaldata">3.1. Personal Data</h3>
+<p><strong>Log in</strong>: To log in to the Platform, you must select a username and password or use Facebook for social sign in. The password you select is stored hashed, such that it remains unknown even to Race Roster, and if using social sign in, none of your Facebook profile information is collected by Race Roster. We also collect your IP address or unique device identifier in order to investigate any suspicious use of the Platform.</p>
+<p><strong>Managers</strong>: We collect Personal Data from you when you voluntarily provide such information to the Platform, such as when you register for access to the Platform as a Manager, contact us with inquiries, or use the Platform to manage an event or activity. The Personal Data we collect includes without limitation your name, address, email address, phone number and other personally identifiable information. In addition, if you use our payment processing services, we will collect financial information from you (e.g., your bank account information or an address) as necessary to facilitate payments and information required for tax purposes (e.g., your taxpayer identification number).</p>
+<p><strong>Registrants and other non-managers</strong>: We collect Personal Data from you when you voluntarily provide information to the Platform (including event registration pages within the Platform), such as when you register for access to the Platform (whether as a Manager or otherwise), register for an event as a Registrant, purchase goods and services, make a donation, contact us with inquiries, respond to one of our surveys or use certain parts of the Platform. The Personal Data we collect includes without limitation your name, address, email address, phone number, billing information, and other personally identifiable information. In addition, Managers can set up event registration pages to collect virtually any information from Registrants in connection with registration for a Manager’s event or activity listed on the Platform. If a Registrant voluntarily provides Personal Data in connection with registration for an event or otherwise, it will be available to us and will be held by us in accordance with this Privacy Policy.</p>
+<h3 id="32nonpersonaldata">3.2. Non-Personal Data:</h3>
+<p><strong>Non-Identifiable Data</strong>: When you interact with the Platform, we collect certain personally non-identifiable information (“Non-Personal Data”). The Non-Personal Data we collect includes without limitation, characteristics of your device and software, Internet browser type, domain names of your Internet Service Provider, your approximate geographic location, a record of your usage of the Platform, including the time of your usage and how long you stayed. Such information, which is collected passively using various technologies, cannot, in and of itself, be used to specifically identify you. We also collect Non-Personal Data (including, without limitation, of the type set forth above) from third parties. The information we collect from third parties may be combined with the information we collect.</p>
+<p><strong>Cookies and Other Session Identifiers</strong>: In operating the Platform, we use “cookies” which are small text files placed on the internal storage of your device when you access the Platform. Our cookies help provide additional functionality to the Platform and help us analyze service usage more accurately. For instance, our Platform may set a cookie through your browser that allows you to access the Platform without needing to remember and then enter a password more than once during a visit. These cookies may be used to tailor content (including advertising) you see on the Platform as well as other Internet sites that you may visit in the future. Cookies are also used for website usage analytics so we have an understanding of how our Platform is used and how it can be improved. Cookies may be session cookies (i.e., last only for one browser session) or persistent cookies (i.e., continue in your browser until they are deleted or expire). Note that since cookies are only text files, they cannot run on your device, search your device for other information or transmit any information to anyone.</p>
+<p>Through your web browser’s preference settings you may be able to:</p>
+<p>i. receive notifications when you are receiving new cookies<br>ii. disable cookies, and/or<br>iii. delete cookies</p>
+<p>Please refer to your web browser’s help section for information on how to do this. We recommend that you leave cookies turned on because they allow you to take advantage of some of the features of the Platform. For more information about the cookies used and set by Race Roster visit our <a href="/cookie-statement">Cookie Statement</a></p>
+<p><strong>Aggregated Personal Data</strong>: In an ongoing effort to better understand and serve our Platform users, we often conduct research on our customer demographics, interests and behavior. This research involves compiling and analyzing Personal Data on an aggregate basis and this aggregate information does not identify you personally and therefore is considered and treated as Non-Personal Data under this Privacy Policy.</p>
+<h2 id="4howismypersonaldataused">4. How is my Personal Data Used?</h2>
+<p>We use the Personal Data we collect in a manner that is consistent with this Privacy Policy. We may use the Personal Data as follows:</p>
+<p><strong>Specific Reason</strong>: If you provide Personal Data for a certain reason, we may use the Personal Data in connection with the reason for which it was provided. For instance, if you contact us by email, we will use the Personal Data you provide to answer your question or resolve your problem and will respond to the email address from which the contact came. If you provide credit card information, or other financial account information, we will use it to process payments through payment processing providers. Payment processors will comply with payment card industry (“PCI”) standards for data security and privacy.</p>
+<p><strong>Access and Use</strong>: If you provide Personal Data in order to obtain access to or use of the Platform or any functionality thereof, we will use your Personal Data to provide you with access and monitor your use of the Platform.</p>
+<p><strong>Data Linkage</strong>: Personal Data may be used to link data points and provide Registrants with additional value. For example, bib numbers may be used to link images to Registrant profiles. Race Roster makes best efforts to ensure the accuracy of any such data linkage.</p>
+<p><strong>Internal Business Purposes</strong>: We may use your Personal Data for internal business purposes, including without limitation, to help us improve the content and functionality of the Platform, to better understand our users, to protect against, identify or address fraudulent or inappropriate activities, to enforce our Terms of Service, to manage your account and provide you with customer service, and to generally manage the Platform and our business.</p>
+<p><strong>Marketing and Communications</strong>: We may use your Personal Data to contact you in the future for our marketing and advertising purposes, including without limitation to inform you about services or events we believe might be of interest to you, to develop promotional or marketing materials and provide those materials to you, and to display content and advertising on or off the Platform that we believe might be of relevance to you. Note that any automated data collection does not lead to profiling that significantly affects Platform users, but is simply used to give Race Roster a clear picture of its users or to provide special offers to Platform users. Note that consent for receiving marketing and communication from Race Roster can be removed at any time.</p>
+<p><strong>Manager Communication</strong>: We allow Managers to use our platform communication system and tools, as well as Registrants’ contact information, to contact Registrants for their current and past events, and other communications as described above, so you may receive communication (for example, email or SMS/TXT) from our system that originate with such Managers, as well as directly from such Managers. The Manager, and not Race Roster, is responsible for the content and sending of such communication. A Registrant will always be provided with the ability to opt out from electronic communications. Please note that if you unsubscribe from receiving communication from a particular Manager, you will no longer receive communication from that particular Manager from our Platform, but you may still receive communication sent by that Manager through means other than our system in accordance with the Manager’s own Privacy Policy that Race Roster takes no responsibility for.</p>
+<p><strong>Other Purposes</strong>: If we intend to use any Personal Data in any manner that is not consistent with this Privacy Policy, you will be informed of such anticipated use prior to or at the time at which the Personal Data is collected or we will obtain your consent subsequent to such collection but prior to such use.</p>
+<h2 id="5whoismypersonaldatasharedwith">5. Who is my Personal Data Shared With?</h2>
+<p><strong>Registrants and Managers and Related Parties</strong>: When you register for, or donate to, an event or activity on the Platform, you consent to our providing your Personal Data to the Managers and Related Parties of such event or activity. “Related Parties” include Charitable or Not-For-Profit organizations, or other types of organizations that collect funds for specific causes and are retained in relation to events hosted on the Platform, as well as other third parties as required with respect to the Platform and Managers, such as Timers and other Event Administrators. While on the Platform, anyone with access to your data is required to respect your privacy in accordance with this Privacy Policy and applicable privacy laws. They must also process Personal Data in accordance with Race Roster’s Terms of Service for Event Organizers. However, Managers and Related Parties are not bound to treat your Personal Data in accordance with this Privacy Policy if they move such data off the Platform. You agree that we are not responsible for the actions of these Managers and Related Parties with respect to your Personal Data. It is important that you review the applicable policies of the Managers and Related Parties of an event before providing Personal Data or other information in connection with that event.</p>
+<p><strong>Business Transfers</strong>: As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Data may be part of the transferred assets. You acknowledge and agree that any successor to or acquirer of the Company (or its assets) will continue to have the right to use your Personal Data and other information in accordance with the terms of this Privacy Policy.</p>
+<p><strong>Subsidiaries and Affiliates</strong>: We may also share your Personal Data with our subsidiaries and/or affiliates for purposes consistent with this Privacy Policy. Our subsidiaries and affiliates will be bound to maintain that Personal Data in accordance with this Privacy Policy.</p>
+<p><strong>Agents, Consultants and Service Providers</strong>: We, like many businesses, sometimes engage other companies to perform certain business-related functions. Examples of such functions include mailing information, hosting and maintaining databases and processing payments. When we engage another company to perform such functions, we may provide them with information, including Personal Data, in connection with their performance of such functions. In working with service providers, your Personal Data may be transferred to a foreign jurisdiction to be processed or stored. Such data may be provided to law enforcement or national security authorities of that jurisdiction upon request, in order to comply with foreign laws</p>
+<p><strong>Third Parties</strong>: We may sell or share the Personal Data of American residents or residents of other jurisdictions where consumer contact information may be sold to third parties without explicit consent, including third party advertisers of consumer brands such as, but not limited to, those relating to athletic apparel or health &amp; fitness, whom we think may provide products or services that may be of interest to you. If we do so, we will always ask such third parties to provide you an opportunity to opt out from receiving such communications.</p>
+<p><strong>Legal Requirements</strong>: We may disclose your Personal Data if required to do so by law (including, without limitation responding to a subpoena or request from law enforcement, court or government agency) or in the good faith belief that such action is necessary to:</p>
+<p>i. comply with a legal obligation;<br>ii. protect or defend our legal rights, interests or property or that of users of the Platform;<br>iii. act in critical circumstances to investigate wrongdoing in connection with the Platform; or<br>iv. protect the personal safety of users of the Platform or the public.</p>
+<h2 id="6howismypersonaldatakeptsecure">6. How is my Personal Data Kept Secure?</h2>
+<p>Race Roster has implemented critical physical, organizational and technical measures to guard against unauthorized or unlawful processing of the data we collect. We have also taken steps to avoid accidental loss or destruction of, or damage to, your Personal Data. While no system is completely secure, the measures implemented by Race Roster significantly reduce the likelihood of a data security breach.</p>
+<p>In addition, we recommend that you do your part in protecting yourself from unauthorized access to your Race Roster account by ensuring no one else uses your computer or device when you are logged in, by logging off when you are not using the Platform and by keeping your password confidential. Race Roster is not liable for any unauthorized use of your personal information that is beyond our reasonable control.</p>
+<p>Here are some examples of the data security controls in place at Race Roster (this is not an exhaustive list):</p>
+<ul>
+<li>The use of encryption when personal information is transferred to and stored on Race Roster’s servers. Transmission between your browser and our web server is implemented using Secure Sockets Layer (SSL) technology;</li>
+<li>Limited access to personal information by Race Roster staff on a need-to-know basis, and the use of robust authentication processes;</li>
+<li>The use of data centers with effective physical and logical data security controls, and the use of reputable third parties who have demonstrated security consciousness; and</li>
+<li>Secure office premises and staff that are keenly aware of their data protection responsibilities.</li>
+</ul>
+<p>No method of transmitting or storing data is 100% secure. As a result, although we strive to protect your personal information, we cannot guarantee the security of any information you transmit to us. If you have reason to believe that your Race Roster account is no longer secure (for example, if you feel that the security of your account has been compromised), you must immediately notify us of the problem at privacy@raceroster.com in order for Race Roster to resolve the issue in a timely manner. Also keep in mind that e-mail is not a secure form of communication so never send sensitive personal information to us via e-mail. Examples of sensitive information include social insurance numbers or credit card numbers.</p>
+<h2 id="7notforchildrenunderthirteen">7. Not for Children Under Thirteen:</h2>
+<p>The Race Roster Platform is neither designed nor intended to collect Personal Data directly from children who are under the age of thirteen (13).</p>
+<p>In order to ensure compliance with the provisions of the U.S. Children’s Online Privacy Protection Act and other data protection laws around the world aimed at protecting children, <strong>children under the age of thirteen (13) are not permitted to access or use the Platform</strong>, and children under the age of thirteen (13) should not directly provide any personal information to Race Roster. You may reside in a country where local laws fix the digital age of consent to be older than 13. You may only use the Platform if you have reached this age of consent, in accordance with applicable local laws. If you do not meet the digital age of consent of your country, you must immediately cease using the Platform. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children never to provide Personal Data through the Platform without their permission. If you have reason to believe that a child under the age of 13 has directly provided Personal Data to us through the Platform, please contact us, and we will endeavor to delete that information from our Platform.</p>
+<h2 id="8howlongismypersonalinformationretained">8. How Long is my Personal Information Retained?</h2>
+<p>We will retain your information as long as you have a Race Roster account, to permit us to use it for the purposes that we have identified in this Privacy Policy. However, Race Roster has implemented retention schedules to avoid indefinitely storing personal information associated with an inactive account.</p>
+<p>Personal information that is no longer required for administrative or business purposes, and that does not need to be archived by Race Roster, will be overwritten or scrambled such that it no longer identifies the Race Roster user. Keep in mind however that third parties who store data on our behalf have their own retention rules.</p>
+<h2 id="9gdprcomplianceatraceroster">9. GDPR Compliance at Race Roster</h2>
+<p>Under the <em>General Data Protection Regulation</em> EU/2016/679 (GDPR), a Data Controller determines the purposes and means of the processing of Personal Data. Race Roster remains the Controller of all Personal Data provided to and stored in the Platform, including the data of Registrants, Managers and Related Parties. Thus, we take accountability for the security and use of such data when sending confirmations, processing payments and generally assisting Managers and Related Parties plan and manage their event (for example, providing event reports, using analytics to gain insights into the effectiveness of various sales channels, marketing the event, obtaining event feedback, etc.).</p>
+<p>Under the GDPR, a Data Processor processes Personal Data on behalf of the Controller. Every party who receives or has access to Personal Data from or through the Platform is processing Personal Data and is bound by Race Roster’s <strong>Data Processing Addendum</strong>. When Personal Data is removed from the Platform by Managers or Related Parties because they are authorized to download the data, Race Roster is no longer the Controller of such downloaded data.</p>
+<p>Race Roster’s legal grounds for processing Personal Data include the provision of consent, contractual relationships through Terms of Service with Registrants, Managers and Related Parties, and Race Roster’s legitimate interest in providing an effective event organizing platform.</p>
+<p>EU data subjects permanently residing in the European Union may have supplementary statutory rights with respect to their personal data as outlined in the GDPR. This includes the right to access their personal data, have it deleted, have it corrected, or object to/restrict processing of such data. If you would like to make such a request, please e-mail privacy@raceroster.com (Attn: Data Protection Officer). Race Roster has developed an EU Data Subject Rights Procedure to ensure your request is responded to in a timely manner. In the context of a request for erasure, Race Roster will scramble or pseudonymize the data subject’s information to make it anonymous.</p>
+<p>Race Roster has required our service providers who we entrust with Race Roster user data to commit to the continued protection of such data as a data processor. If at any time in the future we plan to share Personal Data with additional third parties to deliver Race Roster services, we will ensure that they too maintain a high standard of care for such data.</p>
+<p>Race Roster operates through its Canadian organization. Canada was the first country outside of Europe deemed adequate by the EU Commission in 2001, under the EU Data Protection Directive 95/46/EC (the GDPR’s predecessor). An adequacy finding allows the flow of data from the EU to Canada as a trusted country in data protection. In addition, Race Roster uses data hosting providers who have made GDPR commitments of their own. Where data is stored in the U.S. by Race Roster’s service providers, these entities comply with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the processing of personal data transferred from the EU to the United States. To learn more about the Privacy Shield program or the Privacy Shield Principles, please visit www.privacyshield.gov.</p>
+<h2 id="10externallinksandracerostersocialmedia">10. External Links and Race Roster Social Media</h2>
+<p>We may offer links from the Platform to the sites or apps of our service providers, affiliates or unrelated companies that may be of interest to you. Race Roster makes no representations as to such third parties’ practices for dealing with your personal information.</p>
+<p>Race Roster’s use of social media serves as an extension of our presence on the Internet. Social media account(s) are public and are not hosted on Race Roster’s servers. Users who choose to interact with Race Roster via social media should read the terms of service and privacy policies of these third party services/platforms.</p>
+<p>This Privacy Policy only applies to the Race Roster Platform and does not govern the activities of third parties. We recommend that you check the privacy policies of any apps, sites or platforms you associate with before sharing your personal information with such third parties.</p>
+<h2 id="11changestothisprivacypolicy">11. Changes to this Privacy Policy</h2>
+<p>We may change this Privacy Policy from time to time in order to better reflect our current data handling practices. Thus, we encourage you to review this Privacy Policy frequently, and especially before you provide us with your Personal Data. The “Last Updated” date at the top of this Privacy Policy indicates when changes to this policy were published and thus in force. In some cases (for example, if we significantly expand our use or sharing of your Personal Data), we may also tell you about changes by additional means, such as by sending an e-mail to the e-mail address we have on file for you. In some cases, we may request your consent to the changes. Your continued use of the Platform after any changes or revisions to this Privacy Policy indicates your agreement with the terms of such revised Privacy Policy.</p>
+
+
+<p></p>
             </div>
         </div>
     </div>
+
+
+<figure class="blob--footer" aria-hidden="true">
+    <img src="https://raceroster.com/wp-content/themes/race-roster-brochure-theme/assets/img/footer-bg.svg" alt="wave footer">
+</figure>
+            </main>
+            <footer class="brochure-footer bg-white z-1" role="contentinfo">
+                <div class="brochure-footer__container container">
+                    <nav class="brochure-footer__navigation">
+    <a class="brochure-footer__brand" href="https://raceroster.com" title="Go to home page">
+    <svg xmlns="http://www.w3.org/2000/svg" width="483" height="142" viewBox="0 0 483 142">
+    <title>Logo</title>
+    <g fill="none">
+        <path fill="#09f" d="M114 115.6c-.7.1-1.5.3-2.2.5L79.9 80.8c.9-2.1 1.3-4.4 1-6.9-1-6.8-7.3-11.6-14.1-10.6s-11.6 7.3-10.6 14.1c.2 1.4.6 2.6 1.2 3.8l-18.3 22c-1.6-.4-3.3-.5-5-.3-.9.1-1.8.4-2.6.7l-7.1-7.8c.9-2.1 1.3-4.4 1-6.9-1-6.8-7.3-11.6-14.1-10.6S-.3 85.6.7 92.4 8 104 14.8 103c.8-.1 1.5-.3 2.2-.5l7.3 8.1c-.8 2-1.1 4.2-.8 6.5 1 6.8 7.3 11.6 14.1 10.6s11.6-7.3 10.6-14.1c-.2-1.4-.7-2.8-1.3-4l18.2-21.9c1.6.5 3.4.6 5.2.4.7-.1 1.5-.3 2.2-.5l31.9 35.3c-.9 2.1-1.3 4.4-1 6.9 1 6.8 7.3 11.6 14.1 10.6s11.6-7.3 10.6-14.1c-1-6.9-7.3-11.7-14.1-10.7zM118.1.7c-6.8 1-11.6 7.3-10.6 14.1.2 1.6.8 3.1 1.6 4.5L98 32.7c-1.8-.6-3.8-.8-5.8-.5-1 .1-1.9.4-2.7.7l-9-9.9c1.1-2.2 1.6-4.8 1.2-7.4C80.7 8.8 74.4 4 67.6 5 60.8 5.9 56 12.2 57 19c.2 1.6.7 3 1.4 4.3L46.7 37.4c-1.8-.6-3.7-.8-5.6-.5-6.8 1-11.6 7.3-10.6 14.1s7.3 11.6 14.1 10.6 11.6-7.3 10.6-14.1c-.2-1.6-.8-3.2-1.6-4.5l11.7-13.9c1.8.6 3.8.8 5.8.6 1-.1 1.9-.4 2.7-.7l9 9.9c-1.1 2.2-1.6 4.8-1.2 7.4 1 6.8 7.3 11.6 14.1 10.6s11.6-7.3 10.6-14.1c-.2-1.6-.7-3-1.5-4.3L116 24.9c1.8.6 3.7.8 5.6.5 6.8-1 11.6-7.3 10.6-14.1-.9-6.9-7.3-11.6-14.1-10.6z"></path>
+        <g fill="#51545d">
+            <path d="M211.6 26.4c0-8.2-5.8-17.1-18.5-17.1h-24.3v51.1h10.7V43.7h8L202 60.3h12.1v-1.6l-14.4-16.3c7.6-2 11.9-7.8 11.9-16zm-10.7.2c0 3.3-2 7.3-7.8 7.3h-13.6V19.4h13.6c5.8 0 7.8 3.9 7.8 7.2zM244.3 9.3l-22.9 51H233l4.3-9.4h25.1l4.2 9.4h11.7l-22.9-51zm13.8 31.5h-16.4l8.2-18.7zM320.6 46.3c-3 3-7.6 4.8-12 4.8-12 0-16.3-8.3-16.4-16.1 0-4.7 1.6-9.1 4.6-12.1 2.9-2.9 7-4.5 11.8-4.5 4.5 0 8.5 1.6 11.5 4.5l.5.5 7.2-7-.5-.5c-5.2-5.1-11.6-7.8-18.7-7.8-7.9 0-14.6 2.6-19.4 7.4-4.8 4.9-7.6 11.9-7.5 19.4.1 12.1 7.2 26.3 27 26.3 7.6 0 14.3-2.6 19.3-7.6l.5-.5-7.3-7.4zM339 60.3h38.5V49.7h-27.9v-9.9h26.9v-10h-26.9V19.7h27.9V9.3H339zM211.6 97.3c0-8.2-5.8-17.1-18.5-17.1h-24.3v51.1h10.7v-16.6h8l14.5 16.6h12.1v-1.6l-14.4-16.3c7.6-2.1 11.9-7.9 11.9-16.1zm-10.7.2c0 3.3-2 7.3-7.8 7.3h-13.6V90.3h13.6c5.8-.1 7.8 3.9 7.8 7.2zM247.7 79.2c-18 0-26.2 13.9-26.2 26.8 0 13.1 8.1 26.3 26.2 26.3 17.9 0 26-13.2 26.1-26.3.1-7.5-2.7-14.6-7.5-19.5-4.7-4.8-11.1-7.3-18.6-7.3zm0 43.1c-11.2 0-15.4-8.4-15.6-16.2-.1-5 1.5-9.7 4.6-12.8 2.8-2.8 6.5-4.3 11-4.3s8.2 1.4 10.9 4.2c3 3.1 4.7 7.8 4.6 12.8-.1 7.9-4.3 16.3-15.5 16.3zM304.3 99.5c-6.3-.7-10.5-2-10.5-5.6s3.7-5.9 9.6-5.9c5.2 0 9.7 2.7 11.2 5.2l.3.5 8.6-4.4-.3-.6c-3.3-6.7-10.2-10.2-20.1-10.2-9.9.1-19.9 4.8-19.9 15.1 0 11.7 10.2 14.5 20.1 15.7 7.4.8 10.9 2.9 10.9 6.6 0 6.3-8.2 6.8-10.7 6.8-6.5 0-11.5-2.8-13.3-7.4l-.3-.7-9 4.7.2.6c3.5 8.5 10.7 12.6 22.3 12.6 10.4 0 21.5-4.3 21.5-16.5 0-12.3-9.9-15.2-20.6-16.5zM333.2 90H349v41.2h10.7V90h15.7v-9.8h-42.2zM386.4 131.2h38.5v-10.6H397v-9.9h26.9v-10H397V90.6h27.9V80.2h-38.5zM468.4 113.3c7.6-2 12-7.8 12-16s-5.8-17.1-18.5-17.1h-24.3v51.1h10.7v-16.6h8l14.3 16.4.2.2h12.1v-1.6zm1.3-15.8c0 3.3-2.1 7.3-7.8 7.3h-13.6V90.3h13.6c5.7-.1 7.8 3.9 7.8 7.2z"></path>
+        </g>
+    </g>
+</svg>
+</a>
+    <ul class="brochure-footer__navigation-menu nav">
+        <li class="brochure-footer__navigation-column">
+            <span class="brochure-footer__navigation-column-header">
+                Products            </span>
+            <ul class="brochure-footer__navigation-column-menu nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/products/registration">
+                        Registration                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/products/fundraising">
+                        Fundraising                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/products/timing-tools">
+                        Timing tools                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/products/crm">
+                        CRM                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/products/onsite">
+                        Onsite                    </a>
+                </li>
+            </ul>
+        </li>
+        <li class="brochure-footer__navigation-column">
+            <span class="brochure-footer__navigation-column-header">
+                Solutions            </span>
+            <ul class="brochure-footer__navigation-column-menu nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/solutions/event-organizer">
+                        Event organizers                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/solutions/fundraising-coordinator">
+                        Fundraising organizers                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/solutions/timer">
+                        Timers                    </a>
+                </li>
+            </ul>
+        </li>
+        <li class="brochure-footer__navigation-column">
+            <span class="brochure-footer__navigation-column-header">
+                Inquiries            </span>
+            <ul class="brochure-footer__navigation-column-menu nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/book-demo">
+                        Book a demo                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/contact">
+                        Contact us                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/pricing">
+                        Pricing                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/terms-and-conditions">
+                        Terms &amp; conditions                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/privacy-policy">
+                        Privacy policy                    </a>
+                </li>
+            </ul>
+        </li>
+        <li class="brochure-footer__navigation-column">
+            <span class="brochure-footer__navigation-column-header">
+                Other            </span>
+            <ul class="brochure-footer__navigation-column-menu nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/about">
+                        About us                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/careers">
+                        Careers                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/resources/whats-new">
+                        What's new                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/resources">
+                        Resources                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/features">
+                        All products &amp; features                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/releases">
+                        Releases                    </a>
+                </li>
+            </ul>
+        </li>
+    </ul>
+</nav>
+                    <p class="brochure-footer__copyright">
+    © 2018 Race Roster.
+    All rights reserved.</p>
+                    <ul class="brochure-footer__social nav">
+    <li class="nav-item">
+        <a class="nav-link" href="https://www.facebook.com/RaceRoster/" title="Facebook" target="_blank" rel="nofollow noopener noreferrer">
+            <span class="fab fa-facebook" aria-hidden="true"></span>
+        </a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" href="https://twitter.com/RaceRoster" title="Twitter" target="_blank" rel="nofollow noopener noreferrer">
+            <span class="fab fa-twitter" aria-hidden="true"></span>
+        </a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" href="https://www.instagram.com/raceroster/" title="Instagram" target="_blank" rel="nofollow noopener noreferrer">
+            <span class="fab fa-instagram" aria-hidden="true"></span>
+        </a>
+    </li>
+</ul>
+                </div>
+            </footer>
+                    </div>
+
+        <script type="text/javascript" src="https://raceroster.com/wp-content/plugins/better-wp-security/core/modules/wordpress-tweaks/js/blankshield/blankshield.min.js?ver=4108"></script>
+<script type="text/javascript" src="https://raceroster.com/wp-content/plugins/better-wp-security/core/modules/wordpress-tweaks/js/block-tabnapping.js?ver=4108"></script>
+<script type="text/javascript" src="https://raceroster.com/wp-includes/js/wp-embed.min.js?ver=5.0.2"></script>
+
     
-<script src="/assets/shared/js/main.1516050617.js"></script>
-<script src="/assets/legacy/compiled/js/js-web-main.1516050616.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/animsition/4.0.1/js/animsition.min.js"></script>
-<script>
-
-    (function($){
-        $(".animsition").animsition({
-            inClass: 'fade-in',
-            outClass: 'fade-out',
-            inDuration: 400,
-            outDuration: 400,
-            linkElement: '.animsition-link',
-            loading: false,
-            loadingParentElement: 'body', //animsition wrapper elemen
-            timeout: false,
-            timeoutCountdown: 5000,
-            onLoadEvent: true,
-            browser: [ 'animation-duration', '-webkit-animation-duration'],
-            // "browser" option allows you to disable the "animsition" in case the css property in the array is not supported by your browser.
-            // The default setting is to disable the "animsition" in a browser that does not support "animation-duration".
-            overlay : false,
-            overlayClass : 'animsition-overlay-slide',
-            overlayParentElement : 'body',
-            transition: function(url){ window.location.href = url; }
-        });
-
-        $(".fancybox").fancybox({
-            padding: 0,
-            helpers: {
-                overlay: {
-                    locked: false
-                }
-            }
-        });
-    })(jQuery);
-
-</script>
-
-<script>
-    (function(h,o,t,j,a,r){
-        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
-        h._hjSettings={hjid:342951,hjsv:5};
-        a=o.getElementsByTagName('head')[0];
-        r=o.createElement('script');r.async=1;
-        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
-        a.appendChild(r);
-    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
-
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-30973998-1']);
-    _gaq.push(['_trackPageview']);
-
-    (function () {
-        var ga = document.createElement('script');
-        ga.type = 'text/javascript';
-        ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www')
-                 + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(ga, s);
-    })();
-</script>
-<script>
-    $('a[href*=#]:not([href=#])').click(function () {
-        if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '')
-                || location.hostname == this.hostname) {
-
-            var target = $(this.hash);
-            target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
-            if (target.length) {
-                $('html,body').animate({
-                    scrollTop: target.offset().top - 50
-                }, 1000);
-                return false;
-            }
-        }
-    });
-
-    function googleTranslateElementInit() {
-        new google.translate.TranslateElement({
-            pageLanguage: 'en',
-            includedLanguages: 'da,en,es,fr',
-            layout: google.translate.TranslateElement.InlineLayout.SIMPLE
-        }, 'google_translate_element');
-    }
-</script>
-<script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"9dd7ec7146","applicationID":"3895844","transactionName":"YFxbMkRZV0QHVBYNXlkWbBRfF0pFBRgkBUJDd1YUQlAWZQdUBzZeRE1cFBlZSUdIRwoU","queueTime":0,"applicationTime":45,"atts":"TBtMRAxDRBtEVkBeSkpE","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
