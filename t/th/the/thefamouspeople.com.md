@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefamouspeople.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629033612id_/https%3A//www.thefamouspeople.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefamouspeople.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229054035id_/https%3A//www.thefamouspeople.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy :: Thefamouspeople.Com
 
@@ -49,6 +49,8 @@ We don't track what individual members read, but rather try to determine how wel
 Third-party vendors use cookies to serve ads based on a user's prior visits to our website and/or other websites.
 
 Here is a list of each third-party advertising vendor we work with along with a link to their privacy policy.
+
+**Google AdSense And It's Partners**
 
 **Google Analytics Privacy Notice**
 
