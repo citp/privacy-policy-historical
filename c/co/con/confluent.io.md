@@ -1,89 +1,171 @@
-> *The following text is extracted and transformed from the confluent.io privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905222039id_/https%3A//www.confluent.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the confluent.io privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229140330id_/https%3A//www.confluent.io/privacy) for the most accurate reproduction.*
 
-# Privacy - Confluent
+# Confluent Privacy Statement - Confluent
 
-Confluent, Inc. (“Confluent,” “we,” “our,” or “us”) understands that privacy is important to our online visitors to our website (our “Website”) and users of our products and services (our “Products”). This Privacy Policy explains how we collect, use, share and protect your personal information that we collect in relation to the use of our Website and our Products. By using our Website and our Products, you agree to the terms of this Privacy Policy and our [Terms of Use](https://www.confluent.io/terms-of-use) at https://www.confluent.io/terms-of-use.
+### Confluent Privacy Statement
+
+**Effective:** September 12, 2018 ([view archived versions](https://www.confluent.io/confluent-privacy-archive))
+
+Confluent, Inc. and its subsidiaries (“Confluent,” “we,” “our,” or “us”) understand that privacy is important to visitors to our websites (our “Sites”) and users of our products and services (our “Products”). This Privacy Statement explains how we collect, use, and share your personal information when you use the Sites and Products that link to this Privacy Statement.
+
+This Privacy Statement does not apply to Sites or Products that display or link to different privacy statements. This Statement also does not apply where Confluent processes the data of our customers on their behalf; our collection and processing of such data is governed by our agreements with those customers.
 
 **Click on the links below to jump to each section:**
 
-  1. [WHAT INFORMATION DO WE COLLECT AND FOR WHAT PURPOSE?](https://www.confluent.io/privacy#1)
-  2. [HOW WE USE COOKIES AND OTHER TRACKING TECHNOLOGY TO COLLECT INFORMATION](https://www.confluent.io/privacy#2)
-  3. [SHARING OF YOUR INFORMATION](https://www.confluent.io/privacy#3)
-  4. [YOUR CHOICES ABOUT YOUR INFORMATION](https://www.confluent.io/privacy#4)
-  5. [HOW WE STORE AND PROTECT YOUR INFORMATION](https://www.confluent.io/privacy#5)
-  6. [CHILDREN’S PRIVACY](https://www.confluent.io/privacy#6)
-  7. [LINKS TO OTHER WEBSITES AND SERVICES](https://www.confluent.io/privacy#7)
-  8. [HOW TO CONTACT US](https://www.confluent.io/privacy#8)
-  9. [CHANGES TO OUR PRIVACY POLICY](https://www.confluent.io/privacy#9)
+  1. [PERSONAL INFORMATION WE COLLECT](https://www.confluent.io/confluent-privacy-statement#1)
+  2. [OUR USE OF COOKIES AND SIMILAR TECHNOLOGIES](https://www.confluent.io/confluent-privacy-statement#2)
+  3. [OUR USE OF PERSONAL INFORMATION](https://www.confluent.io/confluent-privacy-statement#3)
+  4. [SHARING OF PERSONAL INFORMATION](https://www.confluent.io/confluent-privacy-statement#4)
+  5. [YOUR CHOICES ABOUT PERSONAL INFORMATION ](https://www.confluent.io/confluent-privacy-statement#5)
+  6. [HOW WE STORE AND PROTECT PERSONAL INFORMATION](https://www.confluent.io/confluent-privacy-statement#6)
+  7. [EUROPEAN DATA PROTECTION RIGHTS](https://www.confluent.io/confluent-privacy-statement#7)
+  8. [CHANGES TO OUR PRIVACY STATEMENT](https://www.confluent.io/confluent-privacy-statement#8)
+  9. [HOW TO CONTACT US](https://www.confluent.io/confluent-privacy-statement#9)
 
 
 
-### WHAT INFORMATION DO WE COLLECT AND FOR WHAT PURPOSE?
+### PERSONAL INFORMATION WE COLLECT
 
-We may collect and store personal information that you enter in our Website or provide to us in some other manner, or that we gather or collect from your use of our Products (including through a technical support request that you initiate) including your name, entity name, email address, location, Internet protocol ((“IP”) address,  product interest, and any notes you enter into a web form. We may also collect any communications between you and us, as well as any information you provide if you take part in any interactive features of the Website.
+**Information you provide directly.** We collect and store personal information that you directly provide us through our Site, when using our Products, and other ways, such as through a customer support request, through interactions on social media, participation in a survey or promotion, application for a job, when downloading white papers on our Sites, and at events. Information we collect includes, for example, your name, job title, company name, email address, phone number, mailing address, billing address, city and country, and any data you enter into any ‘free text’ boxes on our forms. We may collect credit card numbers and other payment information if you purchase Products, such as online training, cloud services, or software subscriptions.
 
-We may also receive information about you when you interact with us through various social media, for example, by liking us on Facebook or following us on Twitter. The data we receive from your social network is dependent upon your privacy settings with the social network. You should always review, and if necessary, adjust your privacy settings on third-party websites and services before linking or connecting them to the Website. We use this information to operate, maintain, and provide to you our Website and our Products. We may use this information to communicate with you, such as to send you email messages, and to send you information about our activities. For more information about your communication preferences, see “Your Choices Regarding Your Information” below.
+**Information collected automatically.** As further described in the “Our Use of Cookies and Other Technologies” and “Product telemetry data” sections below, we and our third-party partners automatically collect certain types of usage information when you use our Sites or Products. For example, when you visit our Site, your device’s operating system, device identifier and other device information, user agent string, Internet Protocol (IP) address, access times, browser type, and log data detailing your interactions with our Site (e.g., number of clicks, pages viewed, information searched for), and the website you visited before and after coming to our Site (i.e., referrer header) are logged automatically. When you submit a support ticket, we receive data from the user agent string of your browser, which includes device information, browser information, OS information, city, state, country, and IP address.
 
-### HOW WE USE COOKIES AND OTHER TRACKING TECHNOLOGY TO COLLECT INFORMATION
+**Product telemetry data.** When you use our Products, we may also collect certain telemetry data and other data about your usage, including your IP Address and other unique identifiers in combination with information about the version of our software you are running and how it is configured, to collect and aggregate certain diagnostic and analytics information. We may combine this information with information you provide when you download our Products or provide to customer support, including the name of your organization or company. You can turn off the collection of telemetry data as described in the “Choices” section below and as described further in the applicable product documentation.
 
-We and our third party partners may automatically collect certain types of usage information when you visit or use our Website or use our Products. For instance, when you visit our Website, we may send one or more cookies — a small text file containing a string of alphanumeric characters — to your computer that uniquely identifies your browser and lets us help you log in faster and enhance your navigation through the site. A cookie may also convey information to us about how you use the Website (e.g., the pages you view, the links you click, how frequently you access the Website, and other actions you take on the Website), and allow us to track your usage of the Website over time. We may collect log file information about your browser or mobile device each time you access the Website. Log file information may include anonymous information such as your web request, IP address, browser type, information about your mobile device, referring / exit pages and URLs, number of clicks and how you interact with links on the Website, domain names, landing pages, pages viewed, and other such information. We may employ clear gifs (also known as web beacons) which are used to anonymously track the online usage patterns of our Users. In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened and which links are clicked by recipients. The information allows for more accurate reporting and improvement of the Website. We may also collect analytics data, or use third-party analytics tools, to help us measure traffic and usage trends for the Website. These tools collect information sent by your browser or mobile device, including the pages you visit, your use of third party applications, and other information that assists us in analyzing and improving the Website. Although we do our best to honor the privacy preferences of our Users, we are not able to respond to Do Not Track signals from your browser at this time, as we believe that there is no consistent industry standard for how to respond to Do Not Track browser settings.
+When we collect IP addresses through Control Center, KSQL, or Proactive Support, we take appropriate steps to pseudonymise the IP addresses before it is stored. We employ technical and organizational measures to prevent the reconstitution of IP addresses or reversal of pseudonymization that would allow attribution of the data to a specific individual, including segregating or not collecting any additional information that may be used for attribution. We store the pseudonymized data for 2 years.  
+The resulting pseudonymised data is used by us on behalf of our customers to (i) maintain and improve Control Center, Confluent Enterprise, and KSQL, and (ii) inform users whether they are running the latest version of KSQL.
 
-When you access our Website by or through a mobile device, we may receive or collect and store a unique identification numbers associated with your device, as well as information about your mobile carrier, device type, model and manufacturer, mobile device operating system brand and model, phone number, and, depending on your mobile device settings, your geographical location data, including GPS coordinates (e.g. latitude and/or longitude) or similar information regarding the location of your mobile device.
+Confluent Enterprise customers may choose to enable collection of more information about the Kafka broker and report it to Confluent by setting `confluent.support.customer.id’ to their assigned customer ID in the broker configuration and restarting the broker. The additional information includes bytes written to the broker, bytes read from the broker, incoming and outgoing bytes rate, number of topics and partitions in the cluster, broker configuration with some fields filtered out (such as SSL related configs, host name, etc.). This additional data is used by us to improve customer support and reduce time to support ticket resolution.
 
-When you use our Products, we may also collect certain broker and cluster metadata, including without limitation, your IP Address, to track and aggregate non-personal information. For example, we use IP addresses to monitor the regions from which Users use our Products.
+To find out more detailed information about our collection practices with respect to Control Center, KSQL, and Proactive Support please [click here](https://www.confluent.io/moreinformation/).
 
-We may use the data collected through cookies, log file, device identifiers, location data and clear gifs information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) provide custom, personalized content and information, including advertising; (c) provide and monitor the effectiveness of our Website and Products; (d) monitor aggregate metrics such as total number of visitors, traffic, usage, and demographic patterns on our website and our Website and Products; (e) diagnose or fix technology problems; and (f) otherwise to plan for, research and enhance our Products.
+**Information collected through social media and other platforms.** We receive information about you when you engage with us through various third-party platforms, for example, by joining our Slack community or Google group, liking us on Facebook, connecting on LinkedIn, GitHub, or Meetup, following us on Twitter or Instagram, registering for training through WooCommerce, or sharing content from our Site on Facebook, Twitter, or LinkedIn. The data we exchange with these third-party platforms may depend upon your privacy settings with these platforms. You should review and consider adjusting your privacy settings on third-party websites and services before engaging. Do not provide us with any sensitive personal data through these platforms. We are not responsible for the data protection and use practices of these third-party platforms. Please see their privacy statements to learn how they use your information.
 
-### SHARING OF YOUR INFORMATION
+**Third-party sources.** We may occasionally receive your personal information from third party sources including our affiliates, marketing and research partners, and companies such as DiscoverOrg (contact database), Hootsuite (social media management platform), Kickfire (company database), and LinkedIn. Users of our Products may also provide your personal information when they identify you as a billing, support, or technical contact, or when inviting you to use our Products or attend our events. If you integrate or link a third-party service with our Sites or Products we may receive personal information about you from that third-party service based upon the settings and permissions you’ve established with such third party service, and that third party service’s privacy practices.
 
-We may share your personal information in the instances described below. For further information on your choices regarding your information, see the “Your Choices About Your Information” section below.
+The types of information we collect from third parties may include name, company name, title, role, zip code, city, country, telephone number, and social media engagement. We use this information to maintain and improve the accuracy of the records we hold about you, identify new customers, and provide a more tailored advertising experience. We may combine this information with other information we collect about you through our Sites and Products.
 
-We may share your personal information with:
-
-  * Other companies owned by or under common ownership at Confluent. These companies will use your personal information in the same way as we can under this policy;
-  * With our partners and other third parties whose information we believe you may enjoy;
-  * Third-party vendors and other service providers that perform services on our behalf, as needed to carry out their work for us, which may include identifying and serving targeted advertisements, providing analytic services;
-  * Other parties in connection with a company transaction, such as a merger, sale of company assets or shares, reorganization, financing, change of control or acquisition of all or a portion of our business by another company or third party or in the event of a bankruptcy or related or similar proceedings; and
-  * Third parties as required by law or subpoena or to if we reasonably believe that such action is necessary to (a) comply with the law and the reasonable requests of law enforcement; (b) to enforce our Terms of Use www.confluent.io/terms-of-use or to protect the security or integrity of our Website and Products; and/or (c) to exercise or protect the rights, property, or personal safety of Confluent, our Users, or others.
+When you are asked to provide personal information, you may decline. But if you choose not to provide information that is necessary to provide certain Products, those Products may not be available or function correctly.  
 
 
+### OUR USE OF COOKIES AND SIMILAR TECHNOLOGIES
 
-We may also aggregate or otherwise strip data of all personally identifying characteristics and may share that aggregated, anonymized data with third parties.
+Our Sites and related online services use cookies and similar technologies to enable certain functionality and help collect information about your visit. “Cookies” are small text files, typically containing a unique string of letters and numbers, stored on your hard drive by a Site. When you return to the Site using the same browser, the Site can read the cookie and thereby gather information about your usage over time. Among other things, we use cookies and other technology to see which areas and features are popular and to count visits, which helps us to improve our Site, our Products, and your experience.
 
-### YOUR CHOICES ABOUT YOUR INFORMATION
+**Web Beacons.**  We may collect information using Web beacons. Web beacons are electronic images that may be used on our Site, Products, or in our emails.  We use Web beacons to deliver cookies, count visits, understand usage and campaign effectiveness, and to tell if an email has been opened and acted upon.
 
-**How to control your communications preferences:** You can stop receiving email communications from us by clicking on the “unsubscribe link” provided in such communications. We make every effort to promptly process all unsubscribe requests. You may not opt out of Website-related communications (e.g., changes/updates to features of the Website, technical and security notices, etc.).
+**Analytics and Advertising.** We work with third parties to provide analytics and advertising services in connection with our Sites and Products. These third parties use cookies, web beacons, or similar technologies to automatically collect some of the information described above from visitors of our Sites and Products over time and across third party Web sites and mobile applications for purposes of analytics and advertising. We use the analytics information to analyze and improve our services. Our advertising partners use the information to try to understand your interests and show you relevant advertising about products and services from and on behalf of us and others. For more information about online interest-based advertising, and how you can opt-out of having your information used for this purpose by many of these third parties, you can visit the [Network Advertising Initiative](https://www.networkadvertising.org/) and/or the [Digital Advertising Alliance](http://www.aboutads.info/). Or you can visit the websites of our advertising and analytics partners, including [Adobe](https://www.adobe.com/privacy/policy.html), [Google](https://www.google.com/policies/privacy/), [Kickfire (VisiStat)](https://id.kickfire.com/privacy-policy), [Kwanzoo](http://www.kwanzoo.com/cms/privacy/), [Marketo](https://documents.marketo.com/legal/privacy/), [Vidyard](https://www.vidyard.com/privacy/), and [Vimeo](https://vimeo.com/privacy).
 
-**Online Advertising.** We may permit third party online advertising networks or social media companies to collect information about your use of our website over time so that they may play or display ads that may be relevant to your interests on our Service as well as on other websites or apps. Typically, the information we share is provided through cookies or similar tracking technologies. The only way to completely “opt out” of the collection of any information through cookies or other tracking technology is to actively manage the settings on your browser or mobile device. Please refer to your browser’s or mobile device’s technical information for instructions on how to delete and disable cookies, and other tracking/recording tools. (To learn more about cookies, clear gifs/web beacons and related technologies, you may wish to visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/) and/or the Network Advertising Initiative’s online resources, at [http://www.networkadvertising.org](http://www.networkadvertising.org/)). If you access our service on your mobile device, you may not be able to control tracking technologies through settings.
+For additional information about our use of cookies and other similar tracking technologies, please see our [Cookie Notice](https://www.confluent.io/cookies).  
 
-**How to control collection of your IP address related to your use of our Products:** If you prefer that we do not collect certain cluster and broker metadata from your use of our Products, you can turn off the collection of this metadata by setting
 
-confluent.support.metrics.enable=false
+### OUR USE OF PERSONAL INFORMATION
 
-in the broker configuration and restarting the broker. See the [Confluent Platform documentation](https://www.confluent.io/developer#documentation) for more information.  Please note that if you initiate a support request, you may be required to provide us with certain log information or other cluster or broker metadata in order for us to provide such support services.
+In general, we collect and process personal information about you with your consent, as necessary to provide the Products you use, operate our Sites and business, meet our contractual and legal obligations, protect the security of our systems and our customers, or fulfil other legitimate interests as described in this Privacy Statement and in our notices to you.
 
-### HOW WE STORE AND PROTECT YOUR INFORMATION
+For example, we may use your information to:
 
-**Storage and processing:** Your information collected through the Website may be stored and processed in the United States or any other country in which Confluent or its subsidiaries, affiliates or service providers maintain facilities. If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that we may transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, and you consent to the transfer of information to the U.S. or any other country in which Confluent or its parent, subsidiaries, affiliates or service providers maintain facilities and the use and disclosure of information about you as described in this Privacy Policy.
+  * Operate, maintain and improve our internal operations, systems, Sites, and Products
+  * Understand you and your preferences to enhance your experience and enjoyment using our Sites and Products, to provide recommendations, and to better market and advertise to you
+  * Monitor and analyze user interactions with our Sites and Products to identify trends, usage, and activity patterns
+  * Respond to your comments and questions and provide technical support or customer service
+  * Provide and deliver the Products you request
+  * Comply with applicable laws, rules, or regulations and cooperate and defend legal claims and audits
+  * Communicate with you about promotions, upcoming events, and other news about products and services offered by Confluent and our partners
+  * Plan and host corporate events
+  * Protect the Site and Products, and investigate and deter against fraudulent, unauthorized, or illegal activity.
 
-**Keeping your information safe:** Confluent cares about the security of your information, and uses commercially reasonable physical, administrative, and technological safeguards to preserve the integrity and security of all information collected through the Website and our Products. However, no security system is impenetrable and we cannot guarantee the security of our systems 100%. In the event that any information under our control is compromised as a result of a breach of security, Confluent will take reasonable steps to investigate the situation and where appropriate, notify those individuals whose information may have been compromised and take other steps, in accordance with any applicable laws and regulations.
 
-**Retention** : We will retain your information for as long as your account is active or as needed to provide you with our Products, however, please note that some personal information, may remain in our records to the extent necessary to protect our legal interests, improve our Products, or document compliance with regulatory requirements.
 
-### CHILDREN’S PRIVACY
+### SHARING OF PERSONAL INFORMATION
 
-Confluent does not knowingly collect or solicit any information from anyone under the age of 13 or knowingly allow such persons to register as Users. In the event that we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from a child under 13, please contact us at [contact@confluent.io](mailto:contact@confluent.io)
+We may share your personal information with your consent.  We may also share your personal information:
 
-### LINKS TO OTHER WEB SITES AND SERVICES
+  * Among our affiliates, which include companies owned by or under common ownership of Confluent such as Confluent Europe Ltd., Confluent Germany GmbH, and Confluent Australia Pty Limited, all of which will be required to use your personal information as described in this Privacy Statement
+  * With our partners and other third parties, such as our sponsors and co-sponsors of events, whose information we believe may be relevant to you or research and advisory firms whose reports are offered through our Sites (subject to applicable laws)
+  * With third-party vendors and other service providers that we use to provide payment processing, reselling services, support ticket portals, secure transfer software, cloud hosting, video conference services, marketing automation platforms, project management tools, registration services, learning management services, collaboration and communication tools, data backup services, and professional services
+  * With third-party vendors and other service providers that we use to provide payment processing, reselling services, support ticket portals, secure transfer software, cloud hosting, video conference services, marketing automation platforms, project management tools, registration services, learning management services, collaboration and communication tools, data backup services, and professional services
+  * With other parties in connection with a company transaction, such as a merger, sale of company assets or shares, reorganization, financing, change of control or acquisition of all or a portion of our business or assets by another company or third party, or in the event of a bankruptcy, dissolution, or related or similar proceedings
+  * As required by law or subpoena or if we reasonably believe that such action is necessary to comply with the law or the reasonable requests of law enforcement, to enforce our [Terms of Use](http://www.confluent.io/terms-of-use) or other agreements or to protect the security or integrity of our Sites and Products, and/or to exercise or protect the rights, property, or personal safety of Confluent, our customers, users, or others.
 
-Our Website may integrate with or contain links to other third party sites and services. We are not responsible for the practices employed by third party websites or services embedded in, linked to, or linked from the Website and your interactions with any third-party website or service are subject to that third party’s own rules and policies.
+
+
+We may also share aggregated or deidentified data with third parties (subject to applicable laws).  
+
+
+### YOUR CHOICES ABOUT PERSONAL INFORMATION
+
+**Access, correction, or deletion.** If you wish to request access, correction, or deletion of any of your personal information held by us or a change in the way we use your information (for which we reserve the right to charge you a fee, as permitted by applicable law), please contact us at the information below. However, we may decline requests that are unreasonable, prohibited by law, or are not required to be honored by applicable law.
+
+**How to control your communications preferences.**  You can stop receiving promotional emails from us by clicking on the “unsubscribe link” provided in such emails or by contacting us at the contact details set forth below. In addition, you can make changes to your preferences in our [Preference Center](http://go.confluent.io/preferences.html). We make every effort to promptly process all unsubscribe requests. If you opt out, we may still send you transactional communications (e.g., non-promotional emails such as emails about training and events you registered to attend and technical or security notices).
+
+**Cookies.**   Most Web browsers are set to accept cookies by default.  If you prefer, you can usually set your browser to remove cookies and to reject cookies. If you choose to remove reject cookies, this could affect certain features or services of our Site or other Products.  Other choices related to information collected through the use of cookies and similar technologies are described in the “Cookies” section above. For specific opt-out links and to manage your preferences in relation to first and third party cookies please see our [Cookie Notice](https://www.confluent.io/cookies).
+
+**Analytics and online advertising.**  Our third-party analytics and advertising partners may provide you with options to opt-out of certain information collection. For more information about the applicable choices they provide you, please see the “Cookies” section above and our [Cookie Notice](https://www.confluent.io/cookies).
+
+**How to control collection of telemetry data.**  If you prefer that we do not collect certain telemetry data, including IP Address, through Control Center, KSQL, or Proactive Support, you can turn off the collection of this data as follows:
+
+Control Center
+
+  * Customers may choose to disable transmission of this data to Confluent at any time by setting ‘confluent.support.metrics.enable=false’ in the Control Center configuration and restarting Control Center. See the Confluent Enterprise documentation for further information.
+
+
+
+KSQL
+
+  * Customers may choose to disable transmission of this data to Confluent at any time by setting ‘confluent.support.metrics.enable=false’ in the KSQL configuration and restarting KSQL. See the Confluent Enterprise documentation for further information.
+
+
+
+Proactive Support
+
+  * Customers may choose to disable transmission of this data to Confluent at any time by setting ‘confluent.support.metrics.enable=false’ in the broker configuration and restarting the broker. See the Confluent Enterprise documentation for further information.
+
+
+
+Please note that if you initiate a support request, you may be required to provide us with certain log information or other data about your systems, servers, and clients to allow us to provide such support services.
+
+**Do Not Track.  **There are many ways through which web browser signals and other similar mechanisms (for example, “Do Not Track”) can indicate your choice to disable tracking, and, while we and others give you choices described in this Privacy Statement, we do not currently honor these mechanisms.  
+
+
+### HOW WE STORE AND PROTECT PERSONAL INFORMATION
+
+**Storage and processing.** Your information collected through the Sites and our Products may be stored and processed in any country in which Confluent or its subsidiaries, affiliates, or service providers maintain facilities including your region, the United States, Australia, Canada, and the European Economic Area (including the United Kingdom). Our processing locations are chosen in order to operate efficiently, to improve performance, and to create redundancies in order to protect the data in the event of an outage or other problem. We take steps designed to ensure that the data we collect under this Privacy Statement is processed according to the provisions of this Privacy Statement and applicable law wherever the data is located.
+
+**International data transfers.  **When we transfer personal information from the European Economic Area (including the United Kingdom) and from Switzerland to the United States or other countries which have not been determined by the European Commission to have laws that provide an adequate level of data protection, we use legal mechanisms, including contracts, designed to help ensure your rights and protections. Specifically, our website servers are located in the United States and our affiliates, partners, third parties and service providers operate in the United States, European Economic Area, Canada, and Australia. This means when we collect your personal information we may process it in any of these countries. However, we have taken appropriate safeguards to require that your personal information will remain protected in accordance with this Privacy Statement. The safeguard Confluent primarily relies upon is the European Commission-approved standard contractual data protection clauses. For more information about these mechanisms, please contact us using the contact details provided in the “How to contact us” section below.
+
+**Keeping your information safe.** Confluent cares about the security of your information and takes reasonable and appropriate technical and organizational measures designed to prevent loss, misuse, and unauthorized access, disclosure, alteration, and destruction of personal information. However, no security system is impenetrable, and we cannot guarantee the security of our systems or your information.
+
+**Lawful basis for processing personal information (EEA only).** If you are located in the European Economic Area (EEA), Confluent, Inc, is the data controller of your information.
+
+Our legal basis for collecting and using the personal information above will depend on the personal information concerned and the specific context in which we collect it. However, we will normally collect personal information only where we have your consent to do so, where we need the personal information to perform a contract with you, or where the processing is in our legitimate interests and not overridden by your data protection interests or fundamental rights and freedoms. In some cases, we may also have a legal obligation to collect personal information from you.
+
+If we ask you to provide personal information to comply with a legal requirement or to perform a contract with you, we will indicate this at the relevant time and advise you whether the provision of your personal information is mandatory or not (as well as the possible consequences, if any, if you do not provide your personal information). Similarly, if we collect and use your personal information in reliance on our legitimate interests (or those of a third party), we will indicate to you at the relevant time what those legitimate interests are.
+
+If you have questions about the legal basis for processing or want to find out more please contact us using the details at the end of this Privacy Statement.
+
+**Retention**. We retain personal information for as long as we have an ongoing legitimate business need to do so. For example, we retain your account information for as long as your account is active or as needed to provide you with Products you have requested or authorized, including maintaining and improving the performance of the Products and protecting system security. We also retain personal data as needed to maintain appropriate business and financial records, protect our legal interests, resolve disputes, or comply with legal or regulatory requirements. When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize it or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will store your personal information using appropriate security measures and take appropriate steps designed to isolate it from any further processing until deletion is possible.  
+
+
+### EUROPEAN DATA PROTECTION RIGHTS
+
+If the processing of personal data about you is subject to European Union data protection law, you have certain rights with respect to that data:
+
+  * You may request access to, and correction or erasure of, personal information.
+  * If automated processing of your personal data is based on a contract with you or your consent, you have certain rights to data portability.
+  * If the processing of personal information is based on your consent, you have a right to withdraw consent at any time for future processing.
+  * You have a right to object to, or obtain a restriction of, the processing of personal information under certain circumstances.
+
+
+
+To make such requests, contact us by email at the address below.  You also have the right to lodge a complaint with a supervisory authority, but we encourage you to first contact us with any questions or concerns.  
+
+
+### CHANGES TO OUR PRIVACY STATEMENT
+
+Confluent may modify or update this Privacy Statement from time to time to reflect the changes in our business and practices, and so you should review this page periodically.  If we make any changes to this Privacy Statement, we will notify you by changing the “Last Updated” date above.  If we make any material changes, we will provide you with additional notice or obtain consent as may be required by applicable law.  
+
 
 ### HOW TO CONTACT US
 
-If you have any questions about this Privacy Policy or the Website, please contact us at [contact@confluent.io](mailto:contact@confluent.io)
-
-### CHANGES TO OUR PRIVACY POLICY
-
-Confluent may modify or update this Privacy Policy from time to time to reflect the changes in our business and practices, and so you should review this page periodically.
-
-_This privacy policy was last modified on 8  December 2015._
+If you have any questions, complaints, or concerns about how your information is handled, please email us at [privacy@confluent.io](mailto:privacy@confluent.io).  Our main address is Confluent, Inc., 101 University Ave, Suite 111, Palo Alto, CA 94301, USA.  Our EU representative’s contact information is Confluent Europe Ltd. – EMEA, 52-54 Rosebery Avenue, Clerkenwell, London, EC1R 4RP and may be reached at [privacy@confluent.io](mailto:privacy@confluent.io).
