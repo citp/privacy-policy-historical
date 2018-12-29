@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acop.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629145808id_/https%3A//www.acop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acop.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229163729id_/https%3A//www.acop.com/privacy) for the most accurate reproduction.*
 
 # Get Paid To Answer Online Surveys | American Consumer Opinion Panel
 
@@ -47,7 +47,7 @@ Within the U.S., 1-817-649-5241
 Outside the U.S., +1-817-640-6166   
 Email: [privacy@decisionanalyst.com](mailto:privacy@decisionanalyst.com?subject=Question%20Regarding%20American%20Consumer%20Opinion%20Panel%20Privacy%20Policy)
 
-Decision Analyst has further committed to refer unresolved privacy complaints under the EU-US and Swiss-US Privacy Shield Principles to an independent dispute resolution mechanism.
+Decision Analyst has further committed to refer unresolved privacy complaints under the EU-US and Swiss-US Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgement of your complaint, or if your complaint is not satisfactorily addressed, please visit <http://www.bbb.org/EU-privacy-shield/for-eu-consumers> for more information and to file a complaint. 
 
 Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel.
 
