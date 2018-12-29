@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ccmixter.org privacy policy that was archived on 2018-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180620135722id_/http%3A//ccmixter.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ccmixter.org privacy policy that was archived on 2018-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181229034610id_/http%3A//ccmixter.org/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en" lang="en"><head> 
 
@@ -11,7 +11,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
 <meta name="robots" content="index, follow">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script type="text/javascript">
+<script type="text/javascript">
 //<!--
 var home_url  = 'http://ccmixter.org/';
 var root_url  = 'http://ccmixter.org/';
@@ -22,102 +22,91 @@ var user_name =  null;
 </script>
 
 
-<script type="text/javascript" src="http://ccmixter.org/content/media_skin_20180613063659.js"></script>
-<link rel="stylesheet" type="text/css" title="Default Style" href="http://ccmixter.org/content/media_skin_20180613063659.css">    
+<script type="text/javascript" src="http://ccmixter.org/content/media_skin_20181222132648.js"></script>
+<link rel="stylesheet" type="text/css" title="Default Style" href="http://ccmixter.org/content/media_skin_20181222132648.css">    
 <script src="https://www.google.com/recaptcha/api.js"></script>  
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-  <script type="text/javascript">
-var $j = jQuery.noConflict();
+	<script type="text/javascript">
+    var $j = jQuery.noConflict();
 
-function LoadCCPlusBlock() {
-    if (!$j("div.taglinks").length) {
+    function LoadCCPlusBlock() {
+      if (!$j("div.taglinks").length){return;}
+
+        if ($j("div.taglinks").html().indexOf("ccplus") > -1) {
+          var NavURL = "http://tunetrack.net/license/" + window.location.host + window.location.pathname;
+          var AppendString = '<div class="box"><h2>CCPlus Licensing</h2><p>Like this song? Click <a href="' + NavURL + '">here to license this media</a> for commercial use.</p></div>';
+          //get existing license box
+          var lBox = $j('#license_info').parent().html();
+          $j('#license_info').parent().html(lBox + AppendString);
+        }
+    }
+
+    var FlashReplaceString = home_url + "api/query/stream.m3u?f=m3u&ids=";
+
+    $j(document).ready(function () {
+      LoadCCPlusBlock();
+      ProcessIDsList();
+      //may need a second pass
+      setTimeout(ProcessIDsList, 1000);
+    });
+
+    var ProcessIDsList = function () {
+      var IDList = GetIDsList();
+      if (IDList.length == 0) {
         return;
-    }
-    if ($j("div.taglinks").html().indexOf("ccplus") > -1) {
-        var NavURL = "http://tunetrack.net/license/" + window.location.host + window.location.pathname;
-        var AppendString = '<div class="box"><h2>CCPlus Licensing</h2><p>Like this song? Click <a href="' + NavURL + '">here to license this media</a> for commercial use.</p></div>';
-        //get existing license box
-        var lBox = $j('#license_info').parent().html();
-        $j('#license_info').parent().html(lBox + AppendString);
-    }
-
-}
-
-var FlashReplaceString = "http://ccmixter.org/api/query/stream.m3u?f=m3u&ids=";
-$j(document).ready(function () {
-    LoadCCPlusBlock();
-    ProcessIDsList();
-    //may need a second pass
-    setTimeout(ProcessIDsList, 1000);
-});
-
-var ProcessIDsList = function () {
-    var IDList = GetIDsList();
-    if (IDList.length == 0) {
-        return;
-    }
-    for (var i = 0; i < IDList.length; i++) {
+      }
+      for (var i = 0; i < IDList.length; i++) {
         SetupPlayer(IDList[i]);
+      }
     }
-}
 
-var SetupPlayer = function (DownloadID) {
-    var SubmitURL = "http://ccmixter.org/api/query/api?ids=" + DownloadID +
-        "&f=json&dataview=links_dl";
-    $j.ajax({
+    var SetupPlayer = function (DownloadID) {
+      var SubmitURL = home_url + "api/query/api?ids=" + DownloadID + "&f=json&dataview=links_dl";
+
+      $j.ajax({
         type: "GET",
         url: SubmitURL,
         contentType: "application/json; charset=utf-8",
         dataType: "json",
         success: function (data) {
-            if (data.length > 0) {
-                var fileResult = data[0];
-                if (fileResult.files.length > 0) {
-                    var DownloadURL = fileResult.files[0].download_url;
-                    var ReplaceURL = "_ep_" + DownloadID;
-                    var ReplaceContent = "<audio preload='none' controls><source src='" +
-                        DownloadURL + "' type='audio/mpeg'>Your browser does not support the audio element</audio>\r\n";
-                    $j("a[id='" + ReplaceURL + "']").parent().html(ReplaceContent);
+          if (data.length > 0) {
+            var fileResult = data[0];
+            if (fileResult.files.length > 0) {
+              var DownloadURL = fileResult.files[0].download_url;
+              var ReplaceURL = "_ep_" + DownloadID;
+              var ReplaceContent = "<audio preload='none' controls class='track-audio'><source src='" +
+                DownloadURL + "' type='audio/mpeg'>Your browser does not support the audio element</audio>\r\n";
+              $j("a[id='" + ReplaceURL + "']").parent().html(ReplaceContent);
+
+              document.addEventListener('play', function(e) {
+                var audio = document.getElementsByClassName('track-audio');
+                for(var i = 0, len = audio.length; i < len;i++) {
+                  if(audio[i] != e.target) {
+                    audio[i].pause();
+                  }
                 }
+              }, true);
             }
+          }
         },
         error: function (jqXHR, textStatus, errorThrown) {
-            //leave it.
+          //leave it.
         }
-    });
+      });
 
-}
+    }
 
-var GetIDsList = function () {
-    var IDList = new Array();
-    var list = $j("a[href*='m3u']").each(function (index) {
+    var GetIDsList = function () {
+      var IDList = new Array();
+      var list = $j("a[href*='m3u']").each(function (index) {
         var IDToProcess = $j(this).attr("href").replace(FlashReplaceString, "");
         IDList.push(IDToProcess);
-    });
-    return IDList;
-}
-
-  </script>
+      });
+      return IDList;
+    }
+	</script>
 </head><body>
-<script>
-    window.fbAsyncInit = function() {
-    // facebook
-    FB.init({
-            appId      : '1550961735160190',
-            xfbml      : true,
-            version    : 'v2.2'
-            });
-        };
-
-    (function(d, s, id){
-        var js, fjs = d.getElementsByTagName(s)[0];
-        if (d.getElementById(id)) {return;}
-        js = d.createElement(s); js.id = id;
-        js.src = "//connect.facebook.net/en_US/sdk.js";
-        fjs.parentNode.insertBefore(js, fjs);
-    }(document, 'script', 'facebook-jssdk'));
-</script>
-        <div id="beta_message" style="position:absolute;"><a href="http://ccmixter.org/mixup/summer_2018">Shhh... Join the Shifting Sun Secret Mixter</a></div>
+        <div id="beta_message" style="position:absolute;"><a href="http://ccmixter.org/thread/4088">New Year, New Voice Remix Event</a></div>
     
 <div class="hide">
   <a href="#content">skip</a>
@@ -246,35 +235,35 @@ at <a href="http://dig.ccmixter.org" style="font-weight:bold;text-decoration:und
             <div class="menu_group">        
           <p>Editors' Picks</p>
 <ul>
-   <li><a href="http://ccmixter.org/files/Bluemillenium/57756" class="cc_file_link">Le jardin</a></li>
-   <li><a href="http://ccmixter.org/files/IngemannStrunch/57720" class="cc_file_link">Virtual Gods</a></li>
-   <li><a href="http://ccmixter.org/files/Shebbe/57664" class="cc_file_link">Shed</a></li>
-   <li><a href="http://ccmixter.org/files/speck/57642" class="cc_file_link">Adaptation Is...</a></li>
-   <li><a href="http://ccmixter.org/files/admiralbob77/57628" class="cc_file_link">Menthol (take...</a></li>
+   <li><a href="http://ccmixter.org/files/SackJo22/58971" class="cc_file_link">Mona Lisa Smi...</a></li>
+   <li><a href="http://ccmixter.org/files/The_Stereo_Inspectors/58932" class="cc_file_link">Loving Men</a></li>
+   <li><a href="http://ccmixter.org/files/Bluemillenium/58907" class="cc_file_link">For Christmas</a></li>
+   <li><a href="http://ccmixter.org/files/SiobhanD/58906" class="cc_file_link">Hope for the ...</a></li>
+   <li><a href="http://ccmixter.org/files/septahelix/58905" class="cc_file_link">Hippy Christm...</a></li>
 <li><a href="http://ccmixter.org/editorial/picks" class="cc_more_menu_link">More picks...</a></li>
 </ul>        </div>
             <div class="menu_group">        
           
 <p>Highest Rated</p>
 <ul>
-  <li><a class="cc_file_link" href="http://ccmixter.org/files/SackJo22/57744">Adaptation...</a></li>
-  <li><a class="cc_file_link" href="http://ccmixter.org/files/admiralbob77/57734">Amphibia</a></li>
-  <li><a class="cc_file_link" href="http://ccmixter.org/files/speck/57768">Heart Beat...</a></li>
-  <li><a class="cc_file_link" href="http://ccmixter.org/files/Bluemillenium/57756">Le jardin</a></li>
-  <li><a class="cc_file_link" href="http://ccmixter.org/files/jlbrock44/57746">Sun Says Y...</a></li>
-  <li><a class="cc_file_link" href="http://ccmixter.org/files/speck/57752">Organ On D...</a></li>
+  <li><a class="cc_file_link" href="http://ccmixter.org/files/SackJo22/58920">Come Sing ...</a></li>
+  <li><a class="cc_file_link" href="http://ccmixter.org/files/airtone/58902">midwinter</a></li>
+  <li><a class="cc_file_link" href="http://ccmixter.org/files/snowflake/58879">The Holly ...</a></li>
+  <li><a class="cc_file_link" href="http://ccmixter.org/files/septahelix/58905">Hippy Chri...</a></li>
+  <li><a class="cc_file_link" href="http://ccmixter.org/files/JeffSpeed68/58885">Little rei...</a></li>
+  <li><a class="cc_file_link" href="http://ccmixter.org/files/Loveshadow/58916">Symphony f...</a></li>
 </ul>        </div>
             <div class="menu_group">        
           
 <p>Recent Reviewers</p>
 <ul>
-<li><a href="http://ccmixter.org/reviews/speck/57789#242304">Apoxode</a></li>
-<li><a href="http://ccmixter.org/reviews/JeffSpeed68/57785#242303">Speck</a></li>
-<li><a href="http://ccmixter.org/reviews/Loveshadow/57784#242301">Snowflake</a></li>
-<li><a href="http://ccmixter.org/reviews/Loveshadow/57784#242300">Zep Hurme</a></li>
-<li><a href="http://ccmixter.org/reviews/Apoxode/57787#242294">urmymuse</a></li>
-<li><a href="http://ccmixter.org/reviews/JeffSpeed68/57785#242287">Admiral Bob</a></li>
-<li><a href="http://ccmixter.org/reviews/admiralbob77/57780#242284">unreal_dm</a></li>
+<li><a href="http://ccmixter.org/reviews/texasradiofish/58960#246905">copperhead</a></li>
+<li><a href="http://ccmixter.org/reviews/softmartin/58755#246902">Snowflake</a></li>
+<li><a href="http://ccmixter.org/reviews/onlymeith/39421#246900">Thomas_Kramer</a></li>
+<li><a href="http://ccmixter.org/reviews/JeffSpeed68/58952#246898">David Laprise</a></li>
+<li><a href="http://ccmixter.org/reviews/texasradiofish/58960#246896">panu</a></li>
+<li><a href="http://ccmixter.org/reviews/snowflake/39677#246890">RizkeyG</a></li>
+<li><a href="http://ccmixter.org/reviews/septahelix/58959#246887">moscardo</a></li>
 <li><a href="http://ccmixter.org/reviews" class="cc_more_menu_link">More reviews...</a></li>
 </ul>        </div>
             <div class="menu_group">        
@@ -307,7 +296,7 @@ urchinTracker();
 
 </p><div class="hide" style="font-size:1px;">
 
-<a href="/emails/indexe.php?index=1311008711" rel="nofollow" id="__cnt_st">&nbsp;</a>
+<a href="/emails/indexe.php?index=1308846178" rel="nofollow" id="__cnt_st">&nbsp;</a>
 
 </div>
 
