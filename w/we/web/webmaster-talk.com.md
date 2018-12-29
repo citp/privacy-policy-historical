@@ -1,110 +1,195 @@
-> *The following text is extracted and transformed from the webmaster-talk.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626005017id_/https%3A//www.warriorforum.com/privacy.html%3Futm_source%3Dinternal%26utm_medium%3Dfooter%26utm_campaign%3Dfeed) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmaster-talk.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229050529id_/https%3A//www.freelancer.com/about/privacy) for the most accurate reproduction.*
 
-# WarriorForum - Privacy Policy
+# Privacy Policy | Freelancer
 
-Version Date: 05/01/2013
+Modified 24 May 2018
 
-**GENERAL**
+### Our privacy obligations
 
-Warrior Forum (“Warrior Forum” or “we” or “us” or “our”) respects the privacy of its users (“user” or “you”) whether they use our website located at www.WarriorForum.com, including other media forms and media channels related or connected thereto (collectively, the “Website”) to meet and interact with others involved in Internet and other types of marketing, advertising and sales, or simply to view the Website. The following privacy policy (“Privacy Policy”) is designed to inform you, as a user of the Website, about the types of information that Warrior Forum may gather about or collect from you in connection with your use of the Website. It also is intended to explain the conditions under which Warrior Forum uses and discloses that information, and your rights in relation to that information. Changes to this Privacy Policy are discussed at the end of this document. Each time you use the Website, however, the current version of this Privacy Policy will apply. Accordingly, each time you use the Website you should check the date of this Privacy Policy (which appears at the beginning of this document) and review any changes since the last time you used the Website.   
-Our Website is hosted in the United States of America and is subject to U.S. state and federal law. If you are accessing our Website from other jurisdictions, please be advised that you are transferring your personal information to us in the United States, and by using our Website, you consent to that transfer and use of your personal information in accordance with this Privacy Policy. You also agree to abide by the applicable laws of applicable states and U.S. federal law concerning your use of the Website and your agreements with us. Any persons accessing our Website from any jurisdiction with laws or regulations governing the use of the Internet, including personal data collection, use and disclosure different from those of the jurisdictions mentioned above may only use the Website in a manner lawful in their jurisdiction. If your use of our Website would be unlawful in your jurisdiction, please do not use the Website.
+Freelancer.com (" **Freelancer** ") is governed by the Australian Privacy Principles (APPs) under the _Privacy Act 1988_ (Cth). The APPs regulate how personal information is handled by Freelancer.com. 
 
-BY USING OR ACCESSING THE WEBSITE, YOU ARE ACCEPTING THE PRACTICES DESCRIBED IN THIS PRIVACY POLICY.  
-CHILDREN
+'Personal information' means information or an opinion about an identified individual, or an individual who is reasonably identifiable. Freelancer's Privacy Policy applies to personal information collected and/or held by Freelancer. 
 
-The Children's Online Privacy Protection Act ("COPPA") protects the online privacy of children under 13 years of age. We do not knowingly collect or maintain personal information from anyone under the age of 13, unless or except as permitted by law. Any person who provides personal information through the Website represents to us that he or she is 13 years of age or older. If we learn that personal information has been collected from a user under 13 years of age on or through the Website, then we will take the appropriate steps to cause this information to be deleted. If you are the parent or legal guardian of a child under 13 who has become a member of the Website or has otherwise transferred personal information to the Website, please contact Warrior Forum using our contact information below to have that child's account terminated and information deleted.
+This Privacy Policy also explains how we process 'personal data' about people in the European Union (EU), as required under the General Data Protection Regulation (GDPR). 
 
-**GATHERING, USE AND DISCLOSURE OF NON-PERSONALLY-IDENTIFYING INFORMATION**
+We will review this policy regularly, and we may update it from time to time. 
 
-**Users of the Website Generally**
+### The types of personal information we collect and hold
 
-“Non-Personally-Identifying Information” is information that, without the aid of additional information, cannot be directly associated with a specific person. “Personally-Identifying Information,” by contrast, is information such as a name or email address that, without more, can be directly associated with a specific person. Like most website operators, Warrior Forum gathers from users of the Website Non-Personally-Identifying Information of the sort that Web browsers, depending on their settings, may make available. That information includes the user’s Internet Protocol (IP) address, operating system and browser type, and the locations of the Web pages the user views right before arriving at, while navigating and immediately after leaving the Website. Warrior Forum analyzes Non-Personally-Identifying Information gathered from users of the Website to help Warrior Forum better understand how the Website is being used. By identifying patterns and trends in usage, Warrior Forum is able to better design the Website to improve users’ experiences, both in terms of content and ease of use. From time to time, Warrior Forum may also release the Non-Personally-Identifying Information gathered from Website users in the aggregate, such as by publishing a report on trends in the usage of the Website.
+We collect personal information about our users in order provide our products, services, and customer support. Our products, services, and customer support are provided through many platforms including but not limited to: websites, phone apps, email, and telephone. The specific platform and product, service, or support you interact with may affect the personal data we collect. 
 
-**Web Cookies**
+Not all information requested, collected, and processed by us is "Personal Information" as it does not identify you as a specific natural person. This will include majority of "User Generated Content" that you provide us with the intention of sharing with other users. Such "Non-Personal Information" is not covered by this privacy policy. However, as non-personal information may be used in aggregate or be linked with existing personal information; when in this form it will be treated as personal information. As such, this privacy policy will list both types of information for the sake of transparency. 
 
-A “Web Cookie” is a string of information which assigns you a unique identification that a website stores on a user’s computer, and that the user’s browser provides to the website each time the user submits a query to the site. We use cookies on the Website to keep track of services you have used, to record registration information regarding your login name and password, to record your user preferences, to keep you logged into the Website, and to facilitate purchase procedures. Warrior Forum also uses Web Cookies to track the pages that users visit during each Website session, both to help Warrior Forum improve users’ experiences and to help Warrior Forum understand how the Website is being used. As with other Non-Personally-Identifying Information gathered from users of the Website, Warrior Forum analyzes and discloses in aggregated form information gathered using Web Cookies, so as to help Warrior Forum, its partners and others better understand how the Website is being used. Warrior Forum does not attempt to link information gathered using Web Cookies to Personally-Identifying Information. WARRIOR FORUM USERS WHO DO NOT WISH TO HAVE WEB COOKIES PLACED ON THEIR COMPUTERS SHOULD SET THEIR BROWSERS TO REFUSE WEB COOKIES BEFORE ACCESSING THE WEBSITE, WITH THE UNDERSTANDING THAT CERTAIN FEATURES OF THE WEBSITE MAY NOT FUNCTION PROPERLY WITHOUT THE AID OF WEB COOKIES. WEBSITE USERS WHO REFUSE WEB COOKIES ASSUME ALL RESPONSIBILITY FOR ANY RESULTING LOSS OF FUNCTIONALITY. 
+In some situation users may provide us with personal information without us asking for it, or through means not intended for the collection of particular types of information. Whilst we may take reasonable steps to protect this data, the user will have bypassed our systems, processes, and control and thus the information provided will not be governed by this privacy policy. 
 
-**Third Party Advertisers**
+In some situations users may provide us personal information over platforms that are outside our control; for example through social media or forums. Whilst any information collected by us is governed by this Privacy Policy, the platform by which it was communicated will be governed by its own Privacy Policy. 
 
-We may use third-party advertising companies to serve ads when you visit the Website. These companies may use information (not including any Personally-Identifying Information) about your visits to this and other websites that are contained in Web Cookies in order to provide advertisements about goods and services of interest to you. Using a tool created by the HYPERLINK "http://networkadvertising.org/" Network Advertising Initiative, you can HYPERLINK "http://networkadvertising.org/managing/opt_out.asp" opt out of several third party ad servers’ and networks’ Web Cookies simultaneously. If you would like more information about this practice and to know your choices about not having this information used by these companies, please follow the following link: HYPERLINK "http://networkadvertising.org/managing/opt_out.asp" http://networkadvertising.org/managing/opt_out.asp. Please contact us if you would like to know the identity of the third-party advertising companies we are currently using to serve ads.
+### How we collect personal information
 
-We may allow advertisers to choose the characteristics of users who will see their advertisements and we may use any of the non-personally identifiable attributes we have collected (including information you may have decided not to show to other users, such as your birth year or other sensitive personal information or preferences) to select the appropriate audience for those advertisements. We do not identify you to the advertiser. 
+#### Information that you specifically give us
 
-**Web Beacons**
+While you use our products and services you may be asked to provide certain types of personal information. This might happen through our website, applications, online chat systems, telephone, paper forms, or in-person meetings. We will give you a Collection Notice at the time, to explain how we will use the personal information we are asking for. The notice may be written or verbal. 
 
-A “Web Beacon” is an object that is embedded in a web page that is usually invisible to the user and allows website operators to check whether a user has viewed a particular web page or an email. Warrior Forum may use Web Beacons on the Website and in emails to count users who have visited particular pages, viewed emails, and to deliver co-branded services. Web Beacons are not used to access users’ Personally-Identifying Information; they are a technique Warrior Forum may use to compile aggregated statistics about Website usage. Web Beacons collect only a limited set of information including a Web Cookie number, time and date of a page or email view, and a description of the page or email on which the Web Beacon resides. You may not decline Web Beacons, however, they can be rendered ineffective by declining all Web Cookies or modifying your browser setting to notify you each time a Web Cookie is tendered and permit you to accept or decline Web Cookies on an individual basis. 
+We may request, collect, or process the following information: 
 
-**Aggregated and Non-Personally-Identifying Information**
+  * **Account Details** \- username, password, profile picture.
+  * **Contact Details** \- email address, phone number.
+  * **Location Details** \- physical address, billing address, timezone.
+  * **Identity Details** \- full name, proof of identity (e.g. drivers licence, passport), proof of address (e.g. utility bill), photograph of the user.
+  * **Financial Information** \- credit card details, wire transfer details, payment processor details (e.g. skrill, paypal), tax numbers.
+  * **User Generated Content** \- project descriptions and attachments, bid description, user profiles, user reviews, contest descriptions and attachment, user messages etc.
 
-We may share aggregated and Non-Personally Identifying Information we collect under any of the above circumstances. We may also share it with third parties and our affiliate companies to develop and deliver targeted advertising on our Website and on websites of third parties. We may combine Non-Personally Identifying Information we collect with additional Non-Personally Identifying Information collected from other sources. We also may share aggregated information with third parties, including advisors, advertisers and investors, for the purpose of conducting general business analysis. For example, we may tell our advertisers the number of visitors to our Website and the most popular features or services accessed. This information does not contain any Personally-Identifying Information and may be used to develop website content and services that we hope you and other users will find of interest and to target content and advertising. 
 
-**COLLECTION, USE AND DISCLOSURE OF PERSONALLY-IDENTIFYING INFORMATION**
 
-**Website Registration**
+#### Information that we collect from others
 
-As defined above, Personally-Identifying Information is information that can be directly associated with a specific person. Warrior Forum collects a range of Personally-Identifying Information from and about Website users. Much of the Personally-Identifying Information collected by Warrior Forum about users is information provided by users themselves at the time they register to open an account or otherwise interact with Warrior Forum. That information may include each user’s name, address, email address, and telephone number, and, if you transact business with us, financial information such as your payment method (valid credit card number, type, expiration date or other financial information). We also may request information about your interests and activities, your gender, age, date of birth, username, hometown and other demographic information, and other relevant information as determined by Warrior Forum from time to time. Users of the Website are under no obligation to provide Warrior Forum with Personally-Identifying Information of any kind, with the caveat that a user’s refusal to do so may prevent the user from using certain Website features.
+Users can give permission for us to connect to their account on other platforms to collect personal information. This includes but is not limited to Facebook, LinkedIn, and Google. Information collected will be governed by this Privacy Policy. Users can stop us from collecting data from other platforms by removing our access on the other platform or by contacting our support team. 
 
-BY REGISTERING WITH OR USING THE WEBSITE, YOU CONSENT TO THE USE AND DISCLOSURE OF YOUR PERSONALLY IDENTIFYING INFORMATION AS DESCRIBED IN THIS “COLLECTION, USE AND DISCLOSURE OF PERSONALLY-IDENTIFYING INFORMATION” SECTION.
+Users have the ability to invite non-users to our platform by providing contact details such as email address. In these situations, the information will be collected and stored by us to contact the non-user and to prevent abuse of the invite systems. 
 
-**Online Postings**
+Your payment provider may transmit information about the payment that we may collect or process. 
 
-Certain Personally-Identifying Information collected from users is disclosed as a matter of course as a result of those users’ use of the Website. We provide areas on our Website, such as forums, where you can post questions, comments, reviews, offers and other information relating to your activities on the Website. Such postings are governed by our Terms of Use. In addition, such postings may appear on other websites or when searches are executed on the subject of your posting. Also, whenever you voluntarily disclose personal information on publicly-viewable web pages, that information will be publicly available and can be collected and used by others. For example, if you post your email address, you may receive unsolicited messages. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information. USERS ASSUME ALL RESPONSIBILITY FOR ANY LOSS OF PRIVACY OR OTHER HARM RESULTING FROM THEIR VOLUNTARY DISCLOSURE OF PERSONALLY IDENTIFYING INFORMATION.
+In some situations, personal information of users may be collected from public sources. 
 
-**Warrior Forum Communications**
+We may collect or process the following information: 
 
-We may occasionally use your name and email address to send you notifications regarding new services offered by the Website that we think you may find valuable. We may also send you service-related announcements from time to time through the general operation of the service. Generally, you may opt out of such emails at the time of registration or through your account settings, though we reserve the right to send you notices about your account even if you opt out of all voluntary email notifications.
+  * **Basic Details** \- username, profile picture.
+  * **Contact Details** \- email address, phone number.
+  * **Location Details** \- Physical Address, billing address, timezone.
+  * **Financial Information** \- payment account details (e.g. paypal email address and physical address), and wire transfer details.
+  * **List of contacts** \- email provider address book.
+  * **User Generated Content** \- user profile.
 
-**Warrior Forum Disclosures**
 
-Warrior Forum will disclose Personally-Identifying Information under the following circumstances:   
-By Law or to Protect Rights. When we believe disclosure is appropriate in connection with efforts to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of our business, our users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce our Terms of Use or other agreements or policies, in response to a subpoena or similar investigative demand, a court order, or a request for cooperation from a law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us.  
-Marketing Communications. Unless users opt-out from receiving Warrior Forum marketing materials upon registration, Warrior Forum will email users about products and services that Warrior Forum believes may be of interest to them. If a user wishes to opt-out of receiving marketing materials from Warrior Forum, user may do so by following the unsubscribe link in email communications, by going to your account settings or contacting us using the contact information below.
 
-**Business Partners:**  
-When you make purchases or engage in promotions offered through our Website or our services, we may share Personally-Identifying Information with the businesses with which we partner to offer you those products, services, promotions, contests and/or sweepstakes. When you elect to engage in a particular merchant's offer or program, you authorize us to provide your email address and other information to that merchant.   
-Affiliates. We may share some or all of your personal information with our affiliates, in which case we will require those affiliates to honor this Privacy Policy. Affiliates would include a parent or any subsidiaries, joint venture partners, or other companies that we control or that is under common control with us. 
+#### Information we collect as you use our service
 
-**Third Party Service Providers.**  
-We may share your Personally-Identifying Information, which may include your name and contact information (including email address) with our authorized service providers that perform certain services on our behalf. These services may include fulfilling orders, providing customer service and marketing assistance, performing business and sales analysis, supporting our website functionality, and supporting contests, sweepstakes, surveys and other features offered through our Website. We may also share your name, contact information and credit card information with our authorized service providers who process credit card payments. These service providers may have access to personal information needed to perform their functions but are not permitted to share or use such information for any other purpose.
+We maintain records of the interactions we have with our users, including the products, services and customer support we have provided. This includes the interactions our users have with our platform such as when a user has viewed a page or clicked a button. 
 
-**Business Transfers; Bankruptcy.**   
-Warrior Forum reserves the right to transfer all Personally-Identifying Information in its possession to a successor organization in the event of a merger, acquisition, or bankruptcy or other sale of all or a portion of Warrior Forum’s assets. Other than to the extent ordered by a bankruptcy or other court, the use and disclosure of all transferred Personally-Identifying Information will be subject to this Privacy Policy, or to a new privacy policy if you are given notice of that new privacy policy and are given an opportunity to affirmatively opt-out of it. Personally-Identifying Information submitted or collected after a transfer, however, may be subject to a new privacy policy adopted by the successor organization. 
+In order to deliver certain products or services we may passively collect your GPS coordinates, where available from your device. Most modern devices such as smartphones will display a permission request when our platform requests this data. 
 
-**Changing Personally-Identifying Information; Account Termination**  
-You may at any time review or change your Personally-Identifying Information by going to your account settings (if applicable) or contacting us using the contact information below. Upon your request, we will deactivate or delete your account and contact information from our active databases. Such information will be deactivated or deleted as soon as practicable based on your account activity and accordance with our deactivation policy and applicable law. To make this request, either go to your account settings (if applicable) or contact us as provided below. We will retain in our files some personal information to prevent fraud, to troubleshoot problems, to assist with any investigations, to enforce our Terms of Use and to comply with legal requirements as is permitted by law. Therefore, you should not expect that all your personal information will be completely removed from our databases in response to your requests. Additionally, we keep a history of changed information to investigate suspected fraud with your account.
+When we are contacted we may collect personal information that is intrinsic to the communication. For example, if we are contacted via email, we will collect the email address used. 
 
-**General Use**
+We may collect or process the following information: 
 
-We use the Personally-Identifiable Information in the file we maintain about you, and other information we obtain from your current and past activities on the Website to: deliver the products and services that you have requested, manage your account and provide you with customer support, communicate with you by email, postal mail, telephone and/or mobile devices about products or services that may be of interest to you either from us, our affiliate companies or other third parties, develop and display content and advertising tailored to your interests on our Website and other sites, resolve disputes, troubleshoot problems, measure consumer interest in our services, inform you of updates, customize your experience, detect and protect us against error, fraud and other criminal activity, enforce our Terms of Use, and as otherwise described to you at the time of collection. At times, we may look across multiple users to identify problems. In particular, we may examine your Personally-Identifiable Information to identify users using multiple user IDs or aliases. We may compare and review your Personally-Identifiable Information for accuracy and to detect errors and omissions. We may use financial information or payment method to process payment for any purchases made on our Website, enroll you in the discount, rebate, and other programs in which you elect to participate, to protect against or identify possible fraudulent transactions, and otherwise as needed to manage our business.
+  * **Metadata** \- IP address, computer and connection information, referring web page, standard web log information, language settings, timezone, etc.
+  * **Device Information** \- device identifier, device type, device plugins, hardware capabilities, etc.
+  * **Location** \- GPS position.
+  * **Actions** \- pages viewed, buttons clicked, time spent viewing, search keywords, etc.
 
-**CONTESTS, GIVEAWAYS AND SURVEYS**
 
-From time to time, Warrior Forum may offer Website users the opportunity to participate in contests, giveaways and other promotions. Any information submitted in connection with such activities will be treated in accordance with this Privacy Policy. From time to time, Warrior Forum may also ask Website users to participate in surveys designed to help Warrior Forum improve the Website. Any Personally-Identifying Information provided to Warrior Forum in connection with any survey will be used only in relation to that survey, and will be disclosed to third parties not bound by this Privacy Policy only in non-personally-identifying, aggregated form.
 
-**COLLECTION AND USE OF INFORMATION BY THIRD PARTIES GENERALLY**
+#### Links to other sites
 
-Warrior Forum contractually prohibits its contractors, affiliates, vendors and suppliers from disclosing Personally-Identifying Information received from Warrior Forum, other than in accordance with this Privacy Policy. Third parties are under no obligation to comply with this Privacy Policy, however, with respect to Personally-Identifying Information that users provide directly to those third parties or that those third parties collect for themselves. These third parties include advertisers, providers of games, utilities, widgets and a variety of other third party applications accessible through the Website. Warrior Forum neither owns nor controls the third-party websites and applications accessible through the Website. Thus, this Privacy Policy does not apply to information provided to or gathered by the third parties that operate them. Before visiting a third-party, or using a third party application, whether by means of a link on the Website, directly through the Website, or otherwise, and before providing any Personally-Identifying Information to any such third party, users should inform themselves of the privacy policies and practices (if any) of the third party responsible for that website or application, and should take those steps necessary to, in those users’ discretion, protect their privacy.
+On our website, you will encounter links to third party websites. These links may be from us, or they may appear as content generated by other users. These linked sites are not under our control and thus we are not responsible for their actions. Before providing your personal information via any other website, we advise you to examine the terms and conditions of using that website and its privacy policy. 
 
-**SECURITY**
+### How we use personal information
 
-We take security of your Personally-Identifying Information seriously and use reasonable electronic, personnel, and physical measures to protect it from loss, theft, alteration, or misuse. However, please be advised that even the best security measures cannot fully eliminate all risks. We cannot guarantee that only authorized persons will view your information. We are not responsible for third party circumvention of any privacy settings or security measures. 
+The information we request, collect, and process is primarily used to provide users with the product or service they have requested. More specifically, we may use your personal information for the following purposes: 
 
-**PRIVACY POLICY CHANGES**
+  * to provide the service or product you have requested;
+  * to facilitate the creation of a User Contract (see Terms of Service for more information);
+  * to provide technical or other support to you;
+  * to answer enquiries about our services, or to respond to a complaint;
+  * to promote our other programs, products or services which may be of interest to you (unless you have opted out from such communications);
+  * to allow for debugging, testing and otherwise operate our platforms;
+  * to conduct data analysis, research and otherwise build and improve our platforms;
+  * to comply with legal and regulatory obligations;
+  * if otherwise permitted or required by law; or
+  * for other purposes with your consent, unless you withdraw your consent for these purposes.
 
-Warrior Forum may, in its sole discretion, change this Privacy Policy from time to time. Any and all changes to Warrior Forum’s Privacy Policy will be reflected on this page and the date new versions are posted will be stated at the top of this Privacy Policy. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account. Users should regularly check this page for any changes to its Privacy Policy. Warrior Forum will always post new versions of the Privacy Policy on the Website. However, Warrior Forum may, as determined in its discretion, decide to notify users of changes made to this Privacy Policy via email or otherwise. Accordingly, it is important that users always maintain and update their contact information.
 
-**CALIFORNIA PRIVACY RIGHTS**
 
-California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits our users who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to our privacy officer as listed below.
+The 'lawful processing' grounds on which we will use personal information about our users are (but are not limited to): 
 
-**CONTACT**
+  * when a user has given consent;
+  * when necessary for the performance of a contract to which the user is party;
+  * processing is necessary for compliance with our legal obligations;
+  * processing is necessary in order to protect the vital interests of our users or of another natural person.
+  * processing is done in pursuing our legitimate interests, where these interests do not infringe on the rights of our users.
 
-If you have any questions regarding our Privacy Policy, please contact our privacy officer at:
 
-Privacy Officer
 
-Warrior Forum  
-Address: Level 20, 680 George St, Sydney  
-Australia   
-Email: support@WarriorForum.com  
+We use automated decision when helping matching users to jobs. The primary way this occurs is through how we rank users. These rankings are produced by analysing user generated content, user activity and the outcome of jobs; in this context, user generated content will include reviews that users receive when completing jobs. More information on these ranking guides can be found in our community articles. Automated decision making is also used to recommend potential jobs to our users and as a part of our marketplace security systems. 
 
+### When we disclose personal information
+
+#### Our third party service providers
+
+The personal information of users may be held or processed on our behalf outside Australia, including 'in the cloud', by our third party service providers. Our third party service providers are bound by contract to only use your personal information on our behalf, under our instructions. 
+
+Our third party service providers include: 
+
+  * Cloud hosting, storage, networking and related providers
+  * SMS providers
+  * Payment and banking providers
+  * Marketing and analytics providers
+  * Security providers
+
+
+
+##### Third party applications
+
+Through the Freelancer API it is possible for users to grant third party applications access to their Freelancer account. Depending on the permissions that are granted, these applications may be able to access some personal information or do actions on the users' behalf. These third party applications are not controlled by us and will be governed by their own privacy policy. Users are able to remove third party applications from access their data through their settings. 
+
+#### Other disclosures and transfers
+
+We may also disclose your personal information to third parties for the following purposes: 
+
+  * if necessary to provide the service or product you have requested;
+  * we receive court orders, subpoenas or other requests for information by law enforcement;
+  * if otherwise permitted or required by law; or
+  * for other purposes with your consent.
+
+
+
+As we are a global company, with offices around the world, your personal information may be processed by staff in any of our offices. Freelancer currently has offices in Australia, The Philippines, The United Kingdom, Canada, and Argentina. 
+
+### Accessing, correcting, or downloading your personal information
+
+You have the right to request access to the personal information Freelancer holds about you. Unless an exception applies, we must allow you to see the personal information we hold about you, within a reasonable time period, and without unreasonable expense for no charge. Most personal information can be accessed by logging into your account. If you wish to access information that is not accessible through the platform, or wish to download all personal information we hold on you in a portable data format, please contact our Privacy Officer. 
+
+You also have the right to request the correction of the personal information we hold about you. All your personal information can be updated through the user settings pages. If you require assistance please contact our customer support. 
+
+### Exercising your other rights
+
+You have a number of other rights in relation to the personal data Freelancer holds about you, however, there may be restrictions on how you may exercise the rights. This is largely due to the nature of the products and services we provide. Much of the data we collect is in order to facilitate contracts between users, facilitate payments, and provide protection for the legitimate users of our marketplace - these data uses are protected against the below rights. 
+
+You have the right to: 
+
+  * seek human review of automated decision-making or profiling
+  * opt-out of direct marketing, and profiling for marketing
+  * erasure
+  * temporary restriction of processing.
+
+
+
+**Human review of automated decision making / profiling** \- In the case of our ranking algorithms, it is not possible to exercise this right as this ranking is a fundamental part of the marketplace that users participate in, opting out would mean not being able to participate in the marketplace. Decisions affecting marketplace security are already reviewed by humans. 
+
+**Direct marketing and profiling** \- users can control what emails they receive through their settings page. 
+
+**Erasure** \- Most personal information and user generated content cannot be deleted as they are used to support contracts between users, document financial transactions, and are used in providing protecting other legitimate users of the marketplace. In the case of non-personal data that can be linked with personal data, it will either be erased or otherwise anonymised from the personal data.
+
+**Temporary restriction to processing** \- under certain circumstances you may exercise this right, in particular if you believe that the personal data we have is not accurate, or you believe that we do not have legitimate grounds for processing your information. In either case you may exercise this right by contacting our privacy officer. 
+
+Unless stated above, users may exercise any of the above rights by contacting our Privacy Officer. 
+
+### To contact our Privacy Officer
+
+If you have an enquiry or a complaint about the way we handle your personal information, or to seek to exercise your privacy rights in relation to the personal information we hold about you, you may contact our Privacy Officer as follows: 
+
+**By Email:**   
+[privacy-officer@freelancer.com](mailto:privacy-officer@freelancer.com)
+
+**By Mail:**   
+Attn: Privacy Officer   
+Level 20, 680 George Street   
+World Square, NSW, 2000 Australia 
+
+For the purposes of the GDPR, our Privacy Officer is also our Data Protection Officer (DPO). 
+
+While we endeavour to resolve complaints quickly and informally, if you wish to proceed to a formal privacy complaint, we request that you make your complaint in writing to our Privacy Officer, by mail or email as above. We will acknowledge your formal complaint within 10 working days of receipt. 
+
+If we do not resolve your privacy complaint to your satisfaction, you may lodge a complaint with the Office of the Australian Information Commissioner (OAIC) by calling them on 1300 363 992, making a complaint online at [www.oaic.gov.au](http://www.oaic.gov.au/), or writing to them at OAIC, GPO Box 5218, Sydney NSW 2001. 
+
+If you are in the European Union, you can choose to instead lodge a complaint with your local Data Protection Authority (DPA). The list of DPAs is at <http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm>. 
