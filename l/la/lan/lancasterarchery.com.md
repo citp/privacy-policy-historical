@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lancasterarchery.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627193308id_/http%3A//www.lancasterarchery.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lancasterarchery.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229042940id_/http%3A//www.lancasterarchery.com/privacy-policy) for the most accurate reproduction.*
 
 # Lancaster Archery Supply Privacy Policy
 
@@ -8,9 +8,9 @@ This Privacy Policy describes how Lancaster Archery Supply Inc. (“Lancaster Ar
 
 #### Your Rights to Access Your Personal Information
 
-You have the right to access personal information about you that Lancaster Archery has collected through this Site by sending a request for access to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#34474144445b46407458555a5755474051465546575c51464d1a575b59). You can also request that we correct or delete any such information by sending an email to the same address. To verify that the request is authentic, we may require that such request be sent from the email address associated with your personal information. While we will comply reasonably and promptly with your request, we may need to retain some of your information for our own record keeping or to fulfill a legal obligation.
+You have the right to access personal information about you that Lancaster Archery has collected through this Site by sending a request for access to [support@lancasterarchery.com](mailto:support@lancasterarchery.com). You can also request that we correct or delete any such information by sending an email to the same address. To verify that the request is authentic, we may require that such request be sent from the email address associated with your personal information. While we will comply reasonably and promptly with your request, we may need to retain some of your information for our own record keeping or to fulfill a legal obligation.
 
-If you are a subscriber to Lancaster Archery, you may correct, update, or remove your information by making the change on your user account settings page, or by emailing our Customer Support Team at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5b282e2b2b34292f1b373a35383a282f3e293a2938333e292275383436). If you no longer desire our services, please contact us directly.
+If you are a subscriber to Lancaster Archery, you may correct, update, or remove your information by making the change on your user account settings page, or by emailing our Customer Support Team at [support@lancasterarchery.com](mailto:support@lancasterarchery.com). If you no longer desire our services, please contact us directly.
 
 #### What is personal information?
 
@@ -69,7 +69,7 @@ Personal information provided to Lancaster Archery by its customers remains the 
 
 #### Who to Contact
 
-To report any issues or concerns, or to contact Lancaster Archery with any questions regarding this Privacy Policy, email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#384b4d4848574a4c785459565b594b4c5d4a594a5b505d4a41165b5755), or call 800.829.7408.
+To report any issues or concerns, or to contact Lancaster Archery with any questions regarding this Privacy Policy, email us at [support@lancasterarchery.com](mailto:support@lancasterarchery.com), or call 800.829.7408.
 
 You may also contact us as follows:  
 Fax: 717.556.1390  
