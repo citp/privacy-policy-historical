@@ -1,8 +1,37 @@
-> *The following text is extracted and transformed from the visareservation.com privacy policy that was archived on 2018-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180521134035id_/https%3A//visareservation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visareservation.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230005231id_/https%3A//visareservation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Visa Reservation
 
-When you purchase something from our website, as part of the buying and selling process, we collect the personal information you give us such as your name, address and email address.
+_**Revised: May 23, 2018**_
+
+When you purchase something from our website, as part of the buying and selling process, we collect the personal data you give us such as your name, Phone number, address, email address, passport number(optional), Age, Gender, Date of Birth, Citizenship, Beneficiary name and relationship.
+
+ **EU PERSONAL DATA**
+
+If you are located in the EU, United Kingdom, Lichtenstein, Norway, or Iceland, you may have additional rights under the EU General Data Protection Regulation (the “GDPR”) related to your Personal Data described above. Visa Reservation will be the controller of your Personal Data processed in connection with the Service. The essential personal data described above is collected online through the website only.
+
+### GDPR (General Data Protection Regulation) – Additional Rights for EEA users or similar international areas
+
+If You live in the European Economic Area, or a similar international area, You may have additional privacy rights available to You under applicable laws. We will process Your requests in accordance with applicable data protection laws. If You would like to exercise any of the below rights, please contact service@visareservation.com so that We may consider Your request in accordance with applicable law:
+
+  *  **Right not to provide or withdraw consent:**  You have the right not to provide or withdraw Your consent at any time.
+  *  **Right of access:**  You may have the right to access the Personal Data that You provided Us.
+  *  **Right of erasure:**  You may have the right to the erasure of Personal Data that We hold about You.
+  *  **Right to object to processing:**  You may have the right to request that Visa Reservation stop processing Your Personal Data and/or to stop sending You marketing communications.
+  *  **Right to rectification:**  You may have the right to require Us to correct any of Your Personal Data.
+
+
+
+### Examples of how We use Your Personal Data.
+
+  * To provide You with Site and Service
+  * To enhance the Site and Service
+  * To respond to Your requests or to manage user accounts
+  * To provide feedback and understand Our users
+  * To monitor the security of the Site or Service
+  * To provide You with promotional communications and materials
+
+
 
 When you browse our website, we also automatically receive your computer’s internet protocol (IP) address in order to provide us with information that helps us learn about your browser, location and operating system.
 
@@ -18,7 +47,7 @@ If after you opt-in, you change your mind, you may withdraw your consent for us 
 
 We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service.
 
-All the payments made on the website follow the guidelines set by PayPal.
+All the payments made on the website follow the guidelines set by [PayPal](http://www.paypal.com/) and [Authorize.Net](http://www.authorize.net/)
 
 For more insight, you may also want to read PayPal’s Terms of Service or Privacy Statement by visiting www.paypal.com
 
@@ -40,6 +69,8 @@ When you click on links on our website, they may direct you away from our site. 
 To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.
 
 If you provide us with your credit card information, the information is encrypted using secure socket layer technology (SSL) and stored with a AES-256 encryption. Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards.
+
+We take measures designed to keep your PII (or Personally Identifiable Information) completely secure. The only time it gets shared out is when you consent it to a third party provider to serve your needs.. At all other times, data is stored within our private cloud (we use Google Cloud Platform). We do not allow any other parties to collect this data unless the law dictates we do so.
 
 COOKIES  
 Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
