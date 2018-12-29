@@ -1,7 +1,12 @@
-<!--The following is the downloaded HTML source of the karatbars.com privacy policy that was archived on 2018-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180629213221id_/https%3A//www.karatbars.com/index.php%3Fpage%3Dprivacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the karatbars.com privacy policy that was archived on 2018-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181229223218id_/https%3A//karatbars.com/index.php%3Fpage%3Dprivacy_policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
+<html><head><script type="text/javascript" async="" src="//commondatastorage.googleapis.com/code.snapengage.com/js/bd8be609-1af6-4d3a-b23e-909be820804c.js"></script><script>
+    var rootPath = "https://www.karatbars.com";
+</script>
+
+
+
 
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -26,7 +31,7 @@
     <link href="https://www.karatbars.com/assets/images/favicon.ico" rel="shortcut icon">
 
     <!-- JS FILES -->
-    <script type="text/javascript" async="" src="//commondatastorage.googleapis.com/code.snapengage.com/js/bd8be609-1af6-4d3a-b23e-909be820804c.js"></script><script src="https://www.karatbars.com/assets/js/jquery-1.20.2.min.js"></script>
+    <script src="https://www.karatbars.com/assets/js/jquery-1.20.2.min.js"></script>
     <script src="https://www.karatbars.com/assets/js/jquery-migrate-1.2.1.min.js"></script>
     <script src="https://www.karatbars.com/assets/js/modernizr-2.6.2-respond-1.1.0.min.js"></script>
     <script src="https://www.karatbars.com/assets/js/jquery-ui.js"></script>
@@ -36,7 +41,7 @@
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
     <link href="https://www.karatbars.com/assets/css/karatbars.css" media="screen" rel="stylesheet" type="text/css">
     <link href="https://www.karatbars.com/assets/css/fullwidth.css" media="screen" rel="stylesheet" type="text/css">
-    <link href="https://www.karatbars.com/assets/css/responsive.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="https://www.karatbars.com/assets/css/responsive.css?ver=1.1" media="screen" rel="stylesheet" type="text/css">
     <link href="https://www.karatbars.com/assets/css/textrotator.css" media="screen" rel="stylesheet" type="text/css">
     <link href="https://www.karatbars.com/assets/css/language_dropdown.css" rel="stylesheet" type="text/css">
     <link href="https://www.karatbars.com/assets/css/bootstrap-select.min.css" media="screen" rel="stylesheet" type="text/css">
@@ -130,7 +135,7 @@
         <!-- End Google Tag Manager -->
     
 </head>
-<body class="member-content-section  main-body-bg">
+<body class="karatbars-site member-content-section  main-body-bg">
 
     <!-- Google Tag Manager (noscript) -->
     <noscript>
@@ -153,9 +158,9 @@
         <div>
             <div class="row top-menu-title">
                 <div class="cell-5 time-box" style="padding-left:5%">
-                    <div id="UhrFeld" onload="ZeitAnzeigen()">Monday, 24.02.2020, 10:23:53</div>
+                    <div id="UhrFeld" onload="ZeitAnzeigen()">Thursday, 30.01.2020, 06:17:48</div>
                 </div>
-                <div class="cell-7 right-bar top-box-menu" style="padding-right:5%">
+                                <div class="cell-7 right-bar top-box-menu" style="padding-right:5%">
                     <ul class="right-top top-right-menu">
                                                     <li> 
 <form name="frmchange" id="frmchange" method="POST">
@@ -278,7 +283,8 @@
 
 
 
-<div id="wrapper" class="get-root-path" data-getrootpath="https://www.karatbars.com">
+<div id="wrapper">
+
 <header>
     <div id="velcro-header" class="hide-2sec">
         <div class="container1">
@@ -396,7 +402,9 @@
             </div>
         </div>
     </div>
-</header></div>
+</header>
+
+</div>
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
@@ -883,7 +891,7 @@ They receive at any time without giving reasons for free information about your 
     <script src="https://www.karatbars.com/assets/js/jquery.isotope.min.js"></script>
     <script src="https://www.karatbars.com/assets/js/superfish.min.js"></script>
     <script src="https://www.karatbars.com/assets/js/responsive-nav.min.js"></script>
-    <script src="https://www.karatbars.com/assets/js/main.js"></script>
+    <script src="https://www.karatbars.com/assets/js/main.js?ver=2"></script>
     <script>
 
         $('#velcro-header').removeClass('hide-2sec');
@@ -901,8 +909,40 @@ They receive at any time without giving reasons for free information about your 
 <script>
     // start timer of top menu
     ZeitAnzeigen();
+    // when responsive design then make main menu click event start here
+    $(window).on("resize", makeResponsive);
+    $(document).on("ready", makeResponsive);
+
+    function makeResponsive() {
+        var body_width = $('body').width();
+        if(body_width < 995){
+            $('.super-menu li').each(function(i)
+            {
+                if($(this).find('ul').length > 0){
+                    $(this).children("a").removeAttr('href');
+                    if($(this).hasClass('sfHover')){
+                        $(this).removeClass('sfHover');
+                        $(this).children("ul").hide();
+                    }
+                }
+            });
+        }
+    }
+    $('.super-menu li').click(function (e) {
+        makeResponsive();
+    });
+    // when responsive design then make main menu click event end here
 
     $(document).ready(function () {
+        // close responsive-menu when click out of menu-icon
+        $(document).click(function (e) {
+            if ($(e.target).closest('#responsive-menu').length === 0) {
+                var responsive_class = $('#responsive-menu').attr('class');
+                if (responsive_class == 'opened') {
+                    navigation.toggle();
+                }
+            }
+        });
 
         if ($('.alert-success').is(':visible')) {
             window.setTimeout(function () {
