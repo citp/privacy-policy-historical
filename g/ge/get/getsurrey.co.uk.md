@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getsurrey.co.uk privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629191058id_/https%3A//www.getsurrey.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getsurrey.co.uk privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229200629id_/https%3A//www.getsurrey.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Surrey Live: Local Surrey News, Sport and What's On
 
