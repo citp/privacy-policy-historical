@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the gameanalytics.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629010324id_/https%3A//gameanalytics.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameanalytics.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229031324id_/https%3A//gameanalytics.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - GameAnalytics
 
-> ## GDPR Notice
-> 
-> At GameAnalytics, we’re committed to information security, privacy and transparency. As such, we’ve published a detailed GDPR FAQ, which outlines the measures we’ve put in place to ensure compliance, as well as some recommended changes that game developers can make to be GDPR compliant for their players. **[Read our GDPR FAQ for game developers.](https://gameanalytics.com/gdpr-faq)**
+#### GDPR Notice
 
-* * *
+At GameAnalytics, we’re committed to information security, privacy and transparency. As such, we’ve published a detailed GDPR FAQ, which outlines the measures we’ve put in place to ensure compliance, as well as some recommended changes that game developers can make to be GDPR compliant for their players. [Read our GDPR FAQ for game developers.](https://gameanalytics.com/gdpr-faq)
 
-## 1. Privacy
+#### 1. Privacy
 
 1.1 This Privacy Policy explains how information (both GameAnalytics users and Customer information) is collected and utilized by GameAnalytics and its subsidiaries and affiliated companies (“GameAnalytics”, “our”, “us” or “we”).
 
@@ -20,7 +18,7 @@
 
 1.5 This Privacy Policy may be updated from time to time. We will notify You of any material changes by posting the new Privacy Policy on the Site. You are advised to consult this Privacy Policy regularly for any changes. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our GameAnalytics Terms of Service, which is available on https://gameanalytics.com/terms.
 
-## 2. Information collection and use
+#### 2. Information collection and use
 
 2.1 Our primary goals in collecting information are to provide, administer and improve our Services and software, and to enable users to enjoy and easily navigate and interact with the Services and GameAnalytics software.
 
@@ -74,7 +72,7 @@ If You prefer that we do not collect and process this Customer Data or if You ar
 
 2.8 We may combine Personal Data that we collect from You with information we obtain about You from third parties (e.g., updated contact information and additional demographic information). We may also aggregate Your Personal Data with information collected from other GameAnalytics users to customize Your user experience, to improve the quality and value of the Services, to inform You about GameAnalytics products and services that may be of interest to You, and to analyze and understand how our Services are used.
 
-## 3. Cookies
+#### 3. Cookies
 
 3.1 Like many websites, we use cookies to collect information. A cookie is a small data file that we transfer to Your computer’s hard disk for record-keeping purposes. We utilize session ID cookies to enable certain features of the Services, to get a better understanding of how You interact with the Services and to monitor aggregate usage by GameAnalytics users and web traffic routing on the Services.
 
@@ -90,11 +88,11 @@ If You prefer that we do not collect and process this Customer Data or if You ar
 
 Please be aware that if You do not accept cookies, You might not be able to use all portions or functionalities of the Service.
 
-## 4. Other technologies
+#### 4. Other technologies
 
 We may use standard Internet technologies, such as web beacons (also called clear GIFs or pixel tags) and other similar technologies, to deliver or communicate with cookies and track Your use of the Services. We may also include web beacons in e-mail messages or newsletters to determine whether messages have been opened and acted upon. The information we obtain in this manner enables us to improve our existing Services, create new Services, and measure the overall effectiveness of our online content, marketing campaigns, and the Services.
 
-## 5. Information sharing or disclosure
+#### 5. Information sharing or disclosure
 
 5.1 In the event that we contract with a third party to provide some part of the service that You have requested or to assist us in analyzing our service or information collected about You and/or Your Customers, GameAnalytics may provide Your information and/or Your Customers’ information to such third party, or such third party may collect information from You or the Customers on our behalf. We may share Your information and Customer information with third parties with whom we have a strategic relationship, such as our affiliates (that provide complementary services such as mediation or monetization services, revenue reporting, attribution services), data providers game developers and advertisers. The information shared with these third parties may be used for industry analysis, tracking game conversions or demographic profiling. When permitted by applicable law, we may also provide Your information and Customer information to our affiliates, business partners, advertisers or other trusted entities for the purpose of providing You with information on goods and services we believe will be of interest to You.
 
@@ -104,15 +102,15 @@ We may use standard Internet technologies, such as web beacons (also called clea
 
 5.4 Finally, we may aggregate and/or anonymize information collected by the Services or via other means so that the information does not identify You or Your Customers. Our use and disclosure of aggregated, anonymized, and otherwise non-identifiable information is not subject to any restrictions under this Privacy Policy, and we may disclose it to others without limitation for any purpose, including with game developers, advertisers, publishers, business partners, sponsors, and other third parties.
 
-## 6. Changing or deleting Your information
+#### 6. Changing or deleting Your information
 
 6.1 Under Data Protection Laws you have certain data subject rights including the right to: (i) request access to and rectification or erasure of Your Personal Data; (ii) obtain restriction of processing or to object to processing of Your Personal Data; and (iii) ask for a copy of Your Personal Data to be provided to You, or a third party, in a digital format. If you wish to exercise one of the above mentioned rights, please contact us at privacy@gameanalytics. If Your Personal Data are erased or transferred to a third party , then Your Account may be deactivated. You also have the right to lodge a complaint about the processing of Your Personal Data with Your local data protection authority.
 
-## 7. Confidentiality and security
+#### 7. Confidentiality and security
 
 While we cannot guarantee that loss, misuse or alteration to Your data will not occur; we implement appropriate technical and organisational measures to prevent such occurrences. We do not warrant or represent that Your account or any of Your information or Customer Data will be protected against, loss, misuse, or alteration by third parties. We will retain Your information and Customer Data for no longer than is necessary and for the duration of the agreement with You and for up to 36 months following expiry or termination of this agreement.
 
-## 8. International transfer
+#### 8. International transfer
 
 The submission of Personal Data by You or Your Customer via the Service may involve the transfer of Personal Data to countries located outside the EEA which do not provide a similar or adequate level of protection to that provided by countries in the EEAto. We will take all steps reasonably necessary to ensure that any Personal Data are treated securely and in accordance with this Privacy Policy.
 
@@ -120,13 +118,13 @@ Our Service is hosted by Amazon Web Services and Google both of which comply wit
 
 Game Analytics has entered into EU standard contractual clauses (“Model Contracts”) for transfers of Personal Data to its affiliates. You can request a copy of these Model Contracts by submitting your request via email to privacy@gameanalytics.com.
 
-## 9. Marketing
+#### 9. Marketing
 
 9.1 We may contact You periodically by e-mail or push notifications to provide information regarding our products, services and content that may be of interest to You. If applicable law requires that we receive Your explicit consent before we send You certain types of marketing communications, we will only send You those types of communications after receiving Your explicit consent.
 
 9.2 If You decide at any time that You no longer wish to receive such communications from us, You may follow the unsubscribe instructions provided in any of the communications or opt-out of receiving such communications via the Services (See “Changing or Deleting Information”, above).
 
-## 10. Children
+#### 10. Children
 
 The Services are intended for general audiences and GameAnalytics does not knowingly collect any Personal Data from children.
 
