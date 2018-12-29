@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rac.co.uk privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629020338id_/https%3A//www.rac.co.uk/legal-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rac.co.uk privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229041123id_/https%3A//www.rac.co.uk/legal-information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy & Data Protection | RAC
 
@@ -115,9 +115,9 @@ Some of the information we collect will be obtained during the course of your in
 
 The types of third parties and information we collect from them are:
 
-**Third party intermediaries, brokers and third parties who are authorised to introduce or sell our products and services** who provide the information neccesary to process any applications or requests for products or services you make to us.
+**Third party intermediaries, brokers and third parties who are authorised to introduce or sell our products and services** who provide the information necessary to process any applications or requests for products or services you make to us.
 
-**Motor manufacturers** who provide us the information necessary to provide complimentry cover during the qualifying period, this information may be used at the end of the qualifying period to contact you about the continuation of your breakdown cover.
+**Motor manufacturers** who provide us the information necessary to provide complimentary cover during the qualifying period, this information may be used at the end of the qualifying period to contact you about the continuation of your breakdown cover.
 
 **Insurance intermediary data** this includes information provided when you engage with a product and service administered by a third party insurance intermediary authorised by us to sell an insurance product, including quote data. Information provided includes policy information such as contact details, financial information including premium amount, payment methods and vehicle information.
 
@@ -140,7 +140,7 @@ The provision of your product or service and issue policy documentation during t
 Sharing information with other RAC group companies necessary for the performance of your contract  |    |    |    |     
 To make any changes to your policy details, renew or cancel your policy |    |    |    |     
 To administer your policy, including any claims on service, notify you of any changes to our service and provide renewal information |    |    |    |     
-To receive payment of fees and premiums or to provide any reimbursment |    |    |    |     
+To receive payment of fees and premiums or to provide any reimbursement |    |    |    |     
 To uphold your data protection rights under the GDPR  |    |    |    |     
 Processing or disclosing your information where law requires us to do so |    |    |    |     
 For marketing our own products or services where you have not opted out and for development of our marketing strategy, this may include the use of profiling techniques to identify products and services we believe you may be interested in |    |    |    |     
@@ -176,7 +176,7 @@ To administer and provide RAC products and services we will share your informati
   * Subcontractors and other specialists who help us provide products and services 
   * Organisations that specialise in marketing services or market research  
   * Parts and equipment providers to help us repair your vehicle when needed
-  * Hire car providers and onward travel and accomodation specialists if you benefit from additional product provisions
+  * Hire car providers and onward travel and accommodation specialists if you benefit from additional product provisions
   * Accident management and legal services when these services are available to you
 
 
@@ -203,7 +203,7 @@ The RAC is a UK based business providing services across Europe and your persona
 
 We may share your information with organisations outside of the European Economic Area (EEA) where it is absolutely necessary to enable us to provide you with our services that you have purchased from us, i.e. when you are travelling outside of the UK and need to activate your European Breakdown Cover, we may need to instruct suppliers in the country you are traveling in to provide this service on our behalf. We endeavour to only instruct suppliers that can provide the same level of data security that we have here in the UK.
 
-Where it is necessary to transfer your personal information to a country outside of the EEA and has not been approved by the European Commission, we will will ensure that appropriate safeguards are in place.  This will be through the use of approved EU standard contractual clauses or an approved framework, such as the U.S. Privacy Shield. 
+Where it is necessary to transfer your personal information to a country outside of the EEA and has not been approved by the European Commission, we will ensure that appropriate safeguards are in place.  This will be through the use of approved EU standard contractual clauses or an approved framework, such as the U.S. Privacy Shield. 
 
 * * *
 
@@ -229,13 +229,13 @@ You have a right to:
 
 RAC profiles your personal information to allow for; greater consistency and fairness in our decision making process, to reduce the risk of customers failing to meet payments for products or services, assess risk, to enable us to make decisions quickly and improve efficiency and to enable us to comply with our legal obligations in respect of fraud prevention or money laundering.
 
-Profiling activites allow us to develop and progress our business and to identify improvements in our business operations. 
+Profiling activities allow us to develop and progress our business and to identify improvements in our business operations. 
 
 Where profiling results in an automated decision which is not connected to the provision of your contract with us or the steps taken prior to entering a contract you have the right to request that we reconsider any automated decision and to enable you to obtain an explanation about the decision we have made, express your viewpoint, or contest the decision.
 
 ###  Your right to lodge a complaint
 
-If you are concerned about the manner in which we process your personal information you have the right to complain to the Information Commissioner’s Office (‘the ICO’).  The ICO antcipates that you will raise your concern with us in the first instance. For further information please go to [www.ico.org.uk](http://www.ico.org.uk/) or call the ICO helpline on 0303 123 1113.
+If you are concerned about the manner in which we process your personal information you have the right to complain to the Information Commissioner’s Office (‘the ICO’).  The ICO anticipates that you will raise your concern with us in the first instance. For further information please go to [www.ico.org.uk](http://www.ico.org.uk/) or call the ICO helpline on 0303 123 1113.
 
 * * *
 
