@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blockor.io privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626013746id_/http%3A//blockor.io/privacy.blkr) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blockor.io privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230004909id_/http%3A//blockor.io/privacy.blkr) for the most accurate reproduction.*
 
 # Blockor.io:PRIVACY POLICY
 
