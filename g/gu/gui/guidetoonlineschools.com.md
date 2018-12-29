@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guidetoonlineschools.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629194203id_/https%3A//www.guidetoonlineschools.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guidetoonlineschools.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229205935id_/https%3A//www.guidetoonlineschools.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 If you have questions or concerns regarding this Statement, you should first contact us through our [contact form](https://web.archive.org/contact). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolutaion provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
-Effective Date: July 5, 2017
+Effective Date: June 28, 2018
 
 The following Privacy Policy governs the online information collection practices of GuidetoOnlineSchools.com (owned by Reach Network, Inc. DBA as SR Education Group). Specifically, it outlines the types of information that GuidetoOnlineSchools.com (the “Site”) gathers about you while you are using the Site (the "Service"), and the ways in which this information is used or shared. It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information.
 
