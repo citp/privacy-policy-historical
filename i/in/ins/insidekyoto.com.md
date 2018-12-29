@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insidekyoto.com privacy policy that was archived on 2017-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170726132308id_/https%3A//www.insidekyoto.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidekyoto.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229191602id_/https%3A//www.insidekyoto.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Inside Kyoto
 
@@ -35,16 +35,6 @@ www.insidekyoto.com has no access to or control over these cookies that are used
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.insidekyoto.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. 
-
-##### Kyoto Vacation Checklist
-
-  * Check Kyoto accommodation availability on [Booking.com](https://sp.booking.com/city/jp/kyoto.html?aid=965263;label=IKChecklist) \- usually you can reserve a room with no upfront payment. Pay when you check out. Free cancellations too.
-  * See my comprehensive [Packing List For Japan](http://www.insidekyoto.com/packing-list-for-japan)
-  * Compare Japan flight prices and timings on [Skyscanner](http://www.tkqlhce.com/click-7647395-10639348?sid=IKCheckList)
-  * If you're visiting more than one city, get your [Japan Rail Pass](http://www.insidekyoto.com/japan-rail-pass-is-it-worth-it)
-  * Get travel insurance for your Japan trip - book online with [World Nomads](http://www.worldnomads.com/af.aspx?affiliate=TVLHAP&subid=IKCheckList&utm_source=TVLHAP&utm_medium=textlink&utm_campaign=easy_url)
-
-
 
 ### Kyoto District Map
 
