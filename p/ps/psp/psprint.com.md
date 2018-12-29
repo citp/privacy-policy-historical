@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psprint.com privacy policy that was archived on 2017-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170117160148id_/https%3A//www.psprint.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psprint.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229195102id_/https%3A//www.psprint.com/legal/privacy.asp) for the most accurate reproduction.*
 
 # Learn the privacy policy of online printing company PsPrint.
 
@@ -16,7 +16,7 @@ In order to use PsPrint, a user must first complete the registration form. Durin
 
 #### Communications from the Site
 
-Special Offers and Updates: Established members will occasionally receive information on products, services, special deals and a newsletter. Out of respect for the privacy of our users, we present the option to not receive these types of communications. If you do not wish to receive future emails, please see the Choice/Opt-out section below.
+Special Offers and Updates: Established members will occasionally receive information on products, services, special deals via email offers or direct mail. Out of respect for the privacy of our users, we present the option to not receive these types of communications. If you do not wish to receive future emails, please see the Choice/Opt-out section below.
 
 #### Customer Service
 
@@ -57,7 +57,7 @@ If PsPrint should go through a business transition, such as a merger, acquisitio
 
 #### Choice/Opt-out
 
-Our users are given the opportunity to “opt-out” of having their information used for purposes not directly related to our site at the point where we ask for information. Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email, emailing us at [remove@psprint.com](mailto:remove@psprint.com) or by following the unsubscribe instructions within the email.
+Our users are given the opportunity to “opt-out” of having their information used for purposes not directly related to our site at the point where we ask for information. Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email, emailing us at [remove@psprint.com](mailto:remove@psprint.com) or by following the unsubscribe instructions within the email. Users who no longer wish to receive our direct mails can opt out on this page <https://www.psprint.com/myaccount> by clicking the the 'Remove Me' button under the DIRECT MAIL OFFERS heading.
 
 #### Links
 
