@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saveourbones.com privacy policy that was archived on 2017-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170505103505id_/https%3A//saveourbones.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saveourbones.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229185723id_/https%3A//saveourbones.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -78,7 +78,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-Save Our Bones  
-3389 Sheridan St. #183  
-Hollywood, Florida 33021  
-USA
+Save Institute  
+21218 St Andrews Blvd  
+#240  
+Boca Raton, FL 33433
