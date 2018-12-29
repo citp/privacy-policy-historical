@@ -1,95 +1,324 @@
-> *The following text is extracted and transformed from the sowetan.co.za privacy policy that was archived on 2017-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170919031215id_/http%3A//www.sowetanlive.co.za/%3Ffilter%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sowetan.co.za privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229103424id_/https%3A//www.sowetanlive.co.za/privacy-policy) for the most accurate reproduction.*
 
-# Privacy - Sowetan LIVE
+# Privacy policy
 
-## Privacy policy for the Owner
+## Introduction
 
-1.        Introduction
+Welcome to our privacy policy. We are Tiso Blackstar Group (Pty) Ltd, registration no 2012/074397/07, and this is our plan of action when it comes to protecting your privacy. We respect your privacy and take the protection of personal data very seriously. The purpose of this policy is to describe the way that we collect, store, use and protect data that can be associated with you or another specific natural or juristic person and can be used to identify you or that person ( **personal data** ).
 
-1.1                This privacy policy (" **this Privacy Policy** ") must be read together with the Terms and Condition.  Unless defined elsewhere, terms in this Privacy Policy shall bear the meaning ascribed to them in the Terms and Conditions.
+We have updated this policy to comply with the European Union’s General Data Protection Regulation (GDPR) and South Africa’s Protection of Personal Information Act (Popia).
 
-1.2                The Owner is committed to bringing You information tailored to Your individual needs and recognises the importance of protecting the privacy of personally identifiable information collected about our users. 
+## Audience
 
-1.3                In adopting this Privacy Policy, the Owner wishes to balance its legitimate business interests when collecting and using your personal information and Your reasonable expectation of privacy.  In this respect, the Owner will take reasonable steps to prevent unauthorised access to, or disclosure of your personal information.  However, the Owner does not guarantee that Your personal information shall at all times be 100% secure.
+This policy applies to you if you are:
 
-1.4                By continuing to use this Web Site, You agree to the terms and conditions of this Privacy Policy.  If You do not agree with this Privacy Policy, please do not continue to Use the Web Site.
+  * a visitor to our website; or
+  * a customer who has ordered, registered for or uses the services that we provide.
 
-1.5                You agree that the Owner may collect, collate, process and/or store Your personal information (as this phrase is defined in the ECT Act) provided by You during the registration process referred to in clause 8 of the Web Site Terms and Conditions (" **Collect** ") for, amongst other things, the purposes of (i) verifying your identity, (ii) providing You with access to the Web Site Content, (ii) customer relations, and (iii) conducting research. 
 
-1.6                The Owner reserves the right to vary the terms of this Privacy policy, which will be made available on the Web Site.  It is your responsibility to familiarise Yourself with the most recent version of this Privacy Policy.
 
-2.        What personal information is Collected?
+## Personal data
 
-The Owner may Collect personal information that may include (with limitation), Your name and e-mail address, information relating to Your race, gender, ethnic or social origin, age, well-being, disability, personal opinions, views or preferences. 
+Personal data includes:
 
-3.        When is Your personal information Collected?
+  * certain information that we collect automatically when you visit our website;
+  * certain information collected on registration (see below);
+  * certain information collected on submission; and
+  * optional information that you provide to us voluntarily (see below);
 
-3.1                Personal information may be Collected in several ways.
 
-3.2                Some personal information may be Collected when You register on the Web Site, during the carrying out of demographic research, or when you participate in any promotions, competitions or surveys held on the Web Site.
 
-3.3                You acknowledge that promotions and competitions on the Web Site may be sponsored by third parties, or may be co-sponsored by the Owner together with third parties. You agree that some or all Your personal information may be shared with such third party.  
+but excludes:
 
-3.4                You also acknowledge that advertisers or other web sites that have links on the Web Site may also Collect Your personal information. You agree that the information processing practices of those advertisers and other web sites are neither under the control of the Owner nor regulated by this Privacy Policy.
+  * information that has been made anonymous so that it does not identify a specific person;
+  * permanently de-identified information that does not relate or cannot be traced back to you specifically;
+  * non-personal statistical information collected and compiled by us; and
+  * information that you have provided voluntarily in an open, public environment or forum, including any blog, chat room, community, classifieds or discussion board (because the information has been disclosed in a public forum, it is no longer confidential and does not constitute personal data subject to protection under this policy).
 
-4.        How Your personal information is used? 
 
-4.1                The primary goal in Collecting Your personal information is to provide You with a better online experience, which may include, interactive communications, online shopping and other services. 
 
-4.2                Your personal information may be used to:
+### Common examples
 
-4.2.1                        deliver to You more relevant and targeted content and advertisements, such as banner advertisements;
+Common examples of the types of personal data we may collect and process include your:
 
-4.2.2                        conduct research related to demographics, interests and on line habits;
+  * **identifying information** – such as your name, date of birth, or identification number of any kind;
+  * **contact information** – such as your phone number or email address;
+  * **address information** – such as your physical or postal address; or
+  * **demographic information** – such as your gender or marital status.
 
-4.2.3                        compile profiles for statistical purposes.  You agree that the Owner may trade with those profiles and statistical data.  While the Owner will attempt to ensure that the profiles or statistical data cannot be linked to You, the Owner does not guarantee that third parties may not be able to link such profiles and statistical data to You.  You hereby indemnify the Owner against any loss, liability, expense, claim, penalty or damage suffered by You, whether direct, indirect, special or consequential, arising from or in relation to any third party being able to link such profiles and statistical data to You;
 
-5.        With whom is Your information shared?
 
-5.1                While the Owner will attempt not to disclose any of Your personal information to third parties, except when we have your permission or in the legitimate business interests of the Owner, the Owner does not guarantee that Your personal information will not be shared with third parties without Your permission.
+### Sensitive personal data
 
-5.2                Your personal information may also be shared under the following circumstances:
+Depending on the services that you require, we may also collect sensitive personal data, including your:
 
-5.2.1                        where the law requires that the Owner disclose Your personal information;
+  * **financial information** – such as your bank account details;
+  * **sensitive demographic information** – such as your race or ethnicity; and
+  * **employment information** – including your job title and the industry you work in.
 
-5.2.2                        to monitor web traffic: web servers serving the Web Site automatically collect information about pages You visit. This information is used for internal review, to tailor information to individual visitors and for traffic audits. This information (as well as information from third-party market researchers), on an aggregated, anonymous basis, is provided to advertisers advertising on the Web Site. Should You provide personal information online as part of an online advertising promotion or in order to access a third party service, such information may be provided directly to the advertiser or the third party concerned;
 
-5.2.3                        Promotions: many promotions offer opportunities to request additional information from sponsors or third parties. When You request more information about a particular promotion, Your e-mail address may be shared with the sponsor of that promotion;
 
-5.2.4                        Online shopping: if You make a purchase from an online store or merchant, the information obtained during Your visit to those stores (including tracking information, cookies, credit card number and contact information) is provided to the merchants. This is to enable transactions to take place;
+## Acceptance of this policy
 
-5.2.5                        Marketing purposes: if You expressly consent to us using your personal information for marketing purposes, You agree that the Owner may, from time to time, share Your personal information with any of its affiliates, subsidiaries, holding companies, partners, or third-party providers for the purposes of sending You marketing-related announcements related to the products, goods and/or services made available by the Owner on the Web Site.  You may at any time opt out of receiving such marketing-relating announcements;
+**Acceptance required**
 
-5.2.6                        Third parties: online merchants providing services in association with the Owner have separate privacy and data collection practices. You agree that the Owner has no responsibility or liability for third party policies. For more information regarding the merchant, their store, and their privacy policies, return to that store’s home page and click on the appropriate link;
+You must accept all the terms of this policy when you register for, or use the website or any of our services. If you do not agree with anything in this policy, then you may not register for or use the website or any of our services. You may not register for or use the website or any of our services if you do not accept this policy.
 
-5.2.7                        Editorial purposes: Your personal information may be used by the Owner for editorial purposes. For example, this may include information You provide during an online survey conducted by our editors. 
+**Legal capacity**
 
-5.2.8                        Legal: the Owner may also disclose Your personal information in special cases, where the Owner has reason to believe that such disclosure is necessary to identify, contact or bring legal action against a party who may be breaching the Terms and Conditions or may be causing injury to or interference with (either intentionally or unintentionally) the Owner's rights or property, other users, or anyone else that could be harmed by such activities; and
+You may not access our website or order our services if you are younger than 18 years old or do not have legal capacity to conclude legally binding contracts.
 
-5.2.9                        For statistics and advertisement purposes: the Owner may perform statistical analyses in order to measure interest in the various areas of the Web Site (for product development purposes) and to inform advertisers as to how many consumers have seen or "clicked" on their advertising banners. The Owner also uses demographic information to allow advertising banners on the Web Site to be targeted, in aggregate. 
+**Deemed acceptance**
 
-6.        What are cookies and how are they used?
+By accepting this policy, you are deemed to have read, understood, accepted, and agreed to be bound by all of its terms.
 
-6.1                Cookies are pieces of information a Web Site transfers to a user’s hard drive for record-keeping purposes. Cookies make surfing the web easier for You by saving Your preferences and, tracking Your online habits, traffic patterns, and making sure You do not see the same advertisement too often. The use of cookies is an industry standard.
+**Your obligations**
 
-6.2                The Owner may place a "cookie" on Your browser to store and sometimes track information about You. 
+You may only send us your own personal data or the information of another data subject where you have their permission to do so. Our website may give you the option to post information in a way that is publicly accessible and may be collected by others (such as via comments on articles). You are responsible for any personal data that you post in this way.
 
-6.3                While most browsers are initially set up to accept cookies, You can reset Your browser to refuse all cookies or indicate when a cookie is being sent. Please, note that some parts of the Web Site will not function properly if You refuse cookies. You may occasionally get cookies from third party advertisers. The Owner does not control these cookies. The use of advertising cookies sent by third-party advertisers is an industry standard.
+**Changes**
 
-7.        Use of IP Address
+We may change the terms of this policy at any time by updating this web page. We will notify you of any changes by placing a notice in a prominent place on the website, or by sending you an email detailing the changes that we have made and indicating the date that they were last updated. If you do not agree with the changes, then you must stop using the website and our services. If you continue to use the website or our services following notification of a change to the terms, the changed terms will apply to you and you will be deemed to have accepted those updated terms.
 
-An IP address is a number that is automatically assigned to a computer whenever it is connected to the Internet.  The Owner also logs IP addresses, or the location of computers on the Internet.  The Owner collects IP addresses for the purposes of system administration, to report aggregate information to our advertisers, and to audit the use of the Web Site. The Owner does not ordinarily link IP addresses to personal information, which means that Your session may remain anonymous.  However, the Owner cannot guarantee that this will always be the case.  For example, it may be necessary to identify a particular user when it is necessary to enforce compliance with the Terms and Conditions or to protect our service Web Site, customers or other interests.
+## Collection of data
 
-8.        Security
+**On registration**
 
-The importance of security for all personal information associated with You is of the utmost concern to us.  While the Owner exercises great care in providing secure transmission of Your personal information, no data transmission over the Internet can be guaranteed to be 100% secure.  The Owner cannot guarantee the security of any information you transmit to, or from the Owner's Web Site.
+Once you register on our website, you will no longer be anonymous to us. You will provide us with certain personal data.
 
-9.        E-Mail
+This personal data will include:
 
-The Owner may periodically send e-mails to You about services, products or promotions offered by the Owner and its advertisers to the e-mail address provided by You. 
+  * your name and surname;
+  * your email address; and
+  * your username and password.
 
-10.        This website uses nugg.ad AG (www.nugg.ad) technology to monitor data on controlling advertising.
 
-To this end, nugg.ad saves the frequency of use of various website topics in the form of cookies. These cookies are stored in the browser of your device (e.g. PC, laptop, smart phone etc.) for a maximum period of 26 weeks. nugg.ad's technology may also save basic information on your use of other Internet websites in order to estimate what advertising might interest you the most. If you would like to see advertising on Internet sites that are of interest to you, then you can opt in to receive a further theme-based analysis of your usage behaviour. If you give your agreement, then this opt-in cookie will also be stored in the browser of your device. It will be stored for 1 year. If previously collected nugg.ad cookies are present in the browser of your device, by setting the Opt-In cookie the following will happen: With your permission the nugg.ad cookie lifespan is lengthened to 1 year (calculated from the moment the cookie is set). 
 
-Information stored on nugg.ad cookies prior to Opting- In is retained and will be deleted upon the expiration of cookie (maximum 1 year). You have the right to prevent the recording of information by the nugg.ad system at any time by exercising your right to opt out. If you have already given your consent, you can also cancel it at any time, effective there after. An opt-out will also be stored in a cookie in your browser's device with a lifespan of 10 years, it will be named "nuggstopp", and will be set by "nuggad.net". For further information of nugg.ad's privacy policy, please go to <http://ad-choices.nuggad.net/index.html.en>. The topic monitor will show you how your interests are estimated on the basis of your previous surfing behaviour. I do not want nugg.ad to analyse my surfing behaviour by topic on Internet sites. This objection will be stored in a cookie on my browser, and has a lifespan of 10 years I would like to see advertising that is relevant to me, and agree to nugg.ad's analysis by topic of my surfing behaviour. This permission is limited to the period of one year Please note the following: The cookie is not to be deleted while there is no permission to monitor data. If you delete all the cookies in your browser, you will have to repeat the process. 
+We will use this personal data to fulfil your account, provide additional services and information to you as we reasonably think appropriate, and for any other purposes set out in this policy.
+
+**On order**
+
+When you order any services from us, you may be asked to provide us with additional information on a voluntary basis ( **services information** ). This information may include:
+
+  * your ID number; and
+  * your postal address or street address;
+  * your telephone number.
+
+
+
+**From browser**
+
+We automatically receive and record internet usage information on our server logs from your browser, such as your internet protocol address ( **IP address** ), browsing habits, click patterns, version of software installed, system type, screen resolutions, colour capabilities, plug-ins, language settings, cookie preferences, search engine keywords, JavaScript enablement, the content and pages that you access on the website, and the dates and times that you visit the website, paths taken, and time spent on sites and pages within the website ( **usage information** ).
+
+Please note that other websites you visited before entering our website might place personal data within your URL during a visit to it, and we have no control over such websites. Accordingly, a subsequent website that collects URL information may log some personal data.
+
+**Cookies**
+
+Our website uses cookies. To find out more about what cookies are, when and why we use them, and how you can manage them during your visit to or use of our website, please read our cookie policy, [which you can find here](https://www.sowetanlive.co.za/cookie-policy/).
+
+**Web beacons**
+
+Our website may contain electronic image requests (called a **single-pixel GIF** or **web beacon** request) that allow us to count page views and to access cookies. Any electronic image viewed as part of a web page (including an ad banner) can act as a web beacon. Our web beacons do not collect, gather, monitor or share any of your personal data. We merely use them to compile anonymous information about our website.
+
+**Optional details**
+
+You may also provide additional information to us on a voluntary basis ( **optional information** ). This includes content or products that you decide to upload or download from our website or when you enter competitions, take advantage or promotions, respond to surveys, order certain additional goods or services, or otherwise use the optional features and functionality of our website.
+
+**Recording calls**
+
+We may monitor and record any telephone calls that you make to us, unless you specifically request us not to.
+
+## **Purpose for collection of data**
+
+We may use or process any services information, or optional information that you provide to us for the purposes that you indicated when you agreed to provide it to us. Processing includes gathering your personal data, disclosing it, and combining it with other personal data. We generally collect and process your personal data for various purposes, including:
+
+  * **services purposes** – such as providing our services;
+  * **marketing purposes** – such as pursuing lawful related marketing activities, including business intelligence (including website activity and market research);
+  * **business purposes** – such as internal audit, accounting, business planning, and joint ventures, disposals of business, or other proposed and actual transactions; and
+  * **legal purposes** – such as handling claims, complying with regulations, or pursuing good governance.
+
+
+
+We may use your usage information for the purposes described above and to:
+
+  * remember your information so that you will not have to re-enter it during your visit or the next time you access the website;
+  * monitor website usage metrics such as total number of visitors and pages accessed; and
+  * track your entries, submissions, and status in any promotions or other activities in connection with your usage of the website.
+
+
+
+## **Consent to collection of data**
+
+We will obtain your consent to collect personal data:
+
+  * in accordance with applicable law;
+  * when you provide us with any registration information or optional information.
+
+
+
+## Use of data
+
+**Our obligations**
+
+We may use your personal data to fulfil our obligations to you. This could include delivering newspapers to you, allowing you to access exclusive content on our website, billing you for our services, or improving our offerings.
+
+**Messages and updates**
+
+We may send administrative messages and email updates to you about the website. We may wish to provide you with information about new goods or services in which we think you may be interested. This means that in some cases, we may also send you primarily promotional messages. We will not send you promotional messages unless you have chosen to opt in to receive them. You can choose to opt out of receiving promotional messages.
+
+**Targeted content**
+
+While you are logged into the website, we may display targeted adverts and other relevant information based on your personal data. In a completely automated process, computers process the personal data and match it to adverts or related information. We never share personal data with any advertiser, unless you specifically provide us with your consent to do so.
+
+Advertisers receive a record of the total number of impressions and clicks for each advert. They do not receive any personal data. If you click on an advert, we may send a referring URL to the advertiser’s website identifying that a customer is visiting from the website. We do not send personal data to advertisers with the referring URL. Once you are on the advertiser’s website, however, the advertiser is able to collect your personal data.
+
+## Disclosure of data
+
+**Sharing**
+
+We may share your personal data with:
+
+  * other divisions or companies within the group of companies to which we belong to provide joint content and services like registration, for transactions and customer support, to help detect and prevent potentially illegal acts and violations of our policies, and to guide decisions about our products, services, and communications (they will only use this information to send you marketing communications if you have requested their goods or services);
+  * an affiliate, in which case we will seek to require the affiliates to honour this privacy policy;
+  * our goods suppliers or service providers under contract who help supply certain goods or help with parts of our business operations, including fraud prevention, bill collection, marketing, technology services (our contracts dictate that these goods suppliers or service providers only use your information in connection with the goods they supply to us or services they perform for us and not for their own benefit);
+  * credit bureaus to report account information, as permitted by law;
+  * banking partners as required by credit card association rules for inclusion on their list of terminated merchants (in the event that you utilise the services to receive payments and you meet their criteria);
+  * social media platforms when you use tools or functionality on our website provided by those platforms (such as "recommend" or "share" buttons); and
+  * other third parties who provide us with relevant services where appropriate.
+
+
+
+**Regulators**
+
+We may disclose your personal data as required by law or governmental audit.
+
+**Law enforcement**
+
+We may disclose personal data if required:
+
+  * by a subpoena or court order;
+  * to comply with any law;
+  * to protect the safety of any individual or the general public; and
+  * to prevent violation of our customer relationship terms.
+
+
+
+**No selling**
+
+We will not sell personal data. No personal data will be disclosed to anyone except as provided in this privacy policy.
+
+**No linked websites**
+
+We do not share personal data with any websites linked to on our site, unless they are a party with whom we are allowed to share personal data, as indicated in this policy. Please check these websites’ own privacy policies before sharing your personal data with them.
+
+**Marketing purposes**
+
+We may disclose aggregate statistics (information about the customer population in general terms) about the personal data to advertisers or business partners.
+
+**Employees**
+
+We may need to disclose personal data to our employees that require the personal data to do their jobs. These include our responsible management, human resources, accounting, audit, compliance, information technology, or other personnel. Any of our employees or personnel that handle your personal data will have signed non-disclosure and confidentiality agreements.
+
+**Change of ownership**
+
+If we undergo a change in ownership, or a merger with, acquisition by, or sale of assets to, another entity, we may assign our rights to the personal data we process to a successor, purchaser or separate entity. We will disclose the transfer on the website. If you are concerned about your personal data migrating to a new owner, you may request us to delete your personal data.
+
+## Security
+
+We take the security of personal data very seriously and always do our best to comply with applicable data protection laws. Our hosting company will host our website in a secure server environment that uses a firewall and other advanced security measures to prevent interference or access from outside intruders. We authorise access to personal data only for those employees who require it to fulfil their job responsibilities. We implement disaster recover procedures where appropriate.
+
+## Accurate and up to date
+
+We will try to keep the personal data we collect as accurate, complete and up to date as is necessary for the purposes defined in this policy. From time to time we may request you to update your personal data on the website. You are able to review or update any personal data that we hold on you by accessing your account online, emailing us or phoning us.
+
+Please note that in order to better protect you and safeguard your personal data, we take steps to verify your identity before granting you access to your account or making any corrections to your personal data. Throughout your interaction with us you retain the right to rectify personal data that is incorrect or inaccurate. This does not apply if we process your personal data in our capacity as an operator or processor on behalf of a responsible party or data controller. 
+
+**Retention of data**
+
+We will only retain your personal data for as long as it is necessary to fulfil the purposes explicitly set out in this policy, unless:
+
+  * retention of the record is required or authorised by law; or
+  * you have consented to the retention of the record.
+
+
+
+Without limiting the above, we may store the following types of personal data for the following durations:
+
+  * **account and subscription data –** 5 years after the most recent transaction;
+  * **business intelligence –** 36 months;
+  * **comments on articles –** the lifetime of the article;
+  * **site features and preferences –** the lifetime of your account;
+  * **customer service communications –** 7 years.
+
+
+
+During the period of retention, we will continue to abide by our non-disclosure obligations and will not share or sell your personal data.
+
+We may retain your personal data in physical or electronic records at our discretion.
+
+**Transfer to another country**
+
+We may transmit or transfer personal data outside the country in which it was collected to a foreign country and process it in that country. Personal data may be stored on servers located outside the country in which it was collected in a foreign country whose laws protecting personal data may not be as stringent as the laws in the country in which it was collected. You consent to us processing your personal data in a foreign country whose laws regarding processing of personal data may be less stringent.
+
+**Updating or removing**
+
+You may choose to correct or update the personal data you have submitted to us, by clicking the relevant menu in any of the pages on our website or contacting us by phone or email (please also see additional information under **Enquiries** ).
+
+You are entitled to a right to be forgotten. We will delete any personal data that you don’t want us to have. If you do this, we will remove your personal data from our system, but we may still retain certain personal data as required or allowed by law, including:
+
+  * where we can show legitimate grounds for processing your personal data that override your request; or
+  * where we process your personal data in order to establish, exercise or defend legal claims.
+
+
+
+You understand that if we delete your data from our system, we may be unable to continue providing some or all of our services to you.
+
+If you are a data subject of one of our customers (who is the data controller), then you must submit your request to the relevant data controller who will then delete your personal data.
+
+**Restriction of processing**
+
+You may request that we restrict the use of your personal data. When we restrict your personal data we still have the right to store it but not use it. You can ask that we do this verbally or in writing (which writing may be in an electronic form) via the forums described in this policy. We will respond to the request within 30 days.
+
+**Data portability**
+
+If you should wish to transfer your data from us to another data controller, we will facilitate this transfer. We will pass on all of our personal data to the data controller.
+
+If you are a data subject of one of our customers (who is the data controller), then you must submit your request for your personal data to the relevant data controller, who will then export your personal data as a Microsoft Excel or CSV file.
+
+**Data breaches**
+
+We will notify our customers of any confirmed data breaches that has occurred. It is our customers’ responsibility to notify relevant supervisory authorities and any affected data subjects of the data breach.
+
+## Limitation
+
+We are not responsible for, give no warranties, nor make any representations in respect of the privacy policies or practices of any linked or third-party websites.
+
+## Enquiries
+
+If you want to update or remove your personal data, restrict how we process it, or opt in or out of receiving newsletters or other promotional content, please contact us:
+
+  * **Telephone:** 0860 123 600
+  * **Email:** [helpdesk@sowetanlive.co.za](mailto:helpdesk@sowetanlive.co.za)
+
+
+
+Registered users can also edit their name and surname on the website itself or change their email newsletter preferences. Once you've [signed in](https://www.sowetanlive.co.za/u/sign-in/), hover the mouse over your name displayed at the top of the website and click the “Profile” label that appears (on your mobile phone, click on the menu bar at the top right to find the “Profile” option) to find your personal information and newsletter preferences.
+
+If you have any questions or concerns arising from this privacy policy or the way in which we handle personal data, please contact our data protection officer via one of the following methods:
+
+  * **Telephone:** +27 11 280 3000
+  * **Email:** [privacy@tisoblackstar.co.za](mailto:privacy@tisoblackstar.co.za)
+  * **Post:** Data Protection Office, PO Box 1746, Saxonwold, Johannesburg, 2132
+
+
+
+## Complaints
+
+If you have any complaints about the way we handle your personal data, please contact our data protection officer as described above, so that we can resolve it. You may choose, however, to approach a supervisory authority instead, including:
+
+  * the data protection authority in your jurisdiction, where you are covered by the EU GDPR; or
+  * the South African Information Regulator.
+
+
+
+You can find out who your data protection authority, commissioner or regulator is by [visiting this website](https://www.michalsons.com/focus-areas/privacy-and-data-protection/authority-commissioner-or-regulator).
