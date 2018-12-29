@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mesosphere.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629051750id_/https%3A//mesosphere.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mesosphere.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229071416id_/https%3A//mesosphere.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Mesosphere
 
@@ -8,7 +8,7 @@ Mesosphere, Inc. and its global affiliates **(“Mesosphere” or “we”)** re
 
 This Privacy Notice applies to information we collect through our websites (including https://mesosphere.com/ and https://dcos/io/) (the “ **Websites** “) and in the usual course of our business, such as through our events, sales and marketing activities.
 
-_NOTE_ : Our treatment of information or data from your use of any Mesosphere products other than the Website (for example, Mesosphere Enterprise DC/OS) (the “ **Services** “) is subject to a separate agreement between your organization and Mesosphere.
+ _NOTE_ : Our treatment of information or data from your use of any Mesosphere products other than the Website (for example, Mesosphere Enterprise DC/OS) (the “ **Services** “) is subject to a separate agreement between your organization and Mesosphere.
 
 ### QUICK LINKS
 
@@ -46,19 +46,19 @@ Mesosphere, Inc. develops DC/OS which automates rollout and production operation
 
 ### WHAT INFORMATION DOES MESOSPHERE COLLECT?
 
-_Information you provide to us:_
+ _Information you provide to us:_
 
 Certain part of our Websites may ask you to provide us with personal information about you voluntarily. For example, we may ask you to provide your contact details (such as your name, email address and phone number) and contact preferences when you: register for an account with us; subscribe to marketing communications from us; submit enquiries to us; contact us through the “Contact Us” process and/or request access to a demo. Certain information may be required to sign up for the “Contact Us” feature or to take advantage of other features.
 
 The personal information that you are asked to provide, and the reasons why you are asked to provide it, will usually be made clear to you at the point we ask you to provide your personal information. We will also let you know prior to collection whether the provision of personal information we are collecting is compulsory or may be provided on a voluntary basis and the consequences, if any, of not providing the information.
 
-_Information we collect automatically:_
+ _Information we collect automatically:_
 
 Whenever you interact with our Website or our marketing emails, we automatically receive and record information on our server logs from your browser or device, which may include your IP address, geolocation data, device identification, “cookie” information, the type of browser and/or device you’re using to access our Website or emails, and the page or feature you requested. In some countries, including countries in the European Economic Area, this information may be considered personal information under applicable data protection laws.
 
 We may collect information using cookies or other tracking technologies, as explained further in the Section below headed “Cookies and similar tracking technologies”.
 
-_Information we obtain from third party sources:_
+ _Information we obtain from third party sources:_
 
 From time to time we may obtain personal information about you from third party sources, such as public databases, social networking services and third party data providers and our joint marketing partners. Examples of the information we may receive from third party sources include job title, company, location, updated contact information and other demographic information.  We use this information, alone or in combination with other information (including personal information) we collect, to enhance our ability to provide relevant marketing and content to you and to develop and provide you with more relevant products, features, and services.
 
@@ -147,7 +147,7 @@ As noted in our Terms of Use (mesosphere.com/terms), we do not knowingly collect
 
 ### ADDITIONAL INFORMATION FOR RESIDENTS OF THE EEA
 
-**(A). Legal Basis For Processing Your Information**
+ **(A). Legal Basis For Processing Your Information**
 
 If you are a resident of the European Economic Area, our legal basis for collecting and using the personal information described above will depend on the personal information concerned and the specific context in which we collect it.
 
@@ -159,7 +159,7 @@ If we ask you to provide personal information to comply with a legal requirement
 
 If you have questions about or need further information concerning the legal basis on which we collect and use your personal information, please contact us using the contact details provided under the “Contact Us” heading below.
 
-**(B) Your Data Protection Rights**
+ **(B) Your Data Protection Rights**
 
 You have the following data protection rights:
 
