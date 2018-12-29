@@ -1,34 +1,35 @@
-> *The following text is extracted and transformed from the enpass.io privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113024945id_/https%3A//www.enpass.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enpass.io privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229043842id_/https%3A//www.enpass.io/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Enpass
+# Privacy Policy – Enpass
 
-Your privacy is important to [Sinew Software Systems Pvt. Ltd.](http://www.sinew.io/) This statement describes the information practices for Sinew web sites, including what type of information is gathered and tracked, how the information is used.
+### Introduction
+
+Your privacy is important to [Sinew Software Systems Pvt. Ltd.](https://sinew.io/) This statement describes the information practices for Sinew web sites, including what type of information is gathered and tracked, how the information is used.
 
 ### What Personal Information we collect
 
-"Personal information" is data that reasonably can be used to identify or describe an individual. You do not need to provide us personal information to simply browse our site.
+“Personal information” is data that reasonably can be used to identify or describe an individual. You do not need to provide us personal information to simply browse our site.
 
 Sinew collects personal information when:
 
-\- you request support for a Sinew product;
+  * You request support for a Sinew product.
+  * You register on our support forum.
+  * You request information or materials (e.g., whitepapers or newsletters).
+  * You participate in promotions, contests or giveaways.
+  * You submit questions or comments to us.
 
-\- you register on our support forum;
 
-\- you request information or materials (e.g., whitepapers or newsletters);
-
-\- you participate in promotions, contests or giveaways;
-
-\- you submit questions or comments to us.
 
 Sinew also collects personal information from individuals (with their consent) at conventions, trade shows and expositions.
 
 The types of personal information collected includes:
 
-\- your name;
+  * Your name.
+  * Your e-mail address.
 
-\- your e-mail address;
 
-Sinew do not collect any other personal information from our products until & unless it is explicitly specified. Sinew may track the user's behavior on our products using the third party analytics tools to make our products better to use.
+
+Sinew do not collect any other personal information from our products until & unless it is explicitly specified. Sinew may track the user’s behavior on our products using the third party analytics tools to make our products better to use.
 
 ### Use of Your personal information
 
@@ -46,7 +47,7 @@ We recognize industry standards and employ security safeguards to protect inform
 
 ### Enforcement
 
-Sinew regularly reviews its compliance with this Privacy Statement. Please feel free to direct any questions or concerns regarding this statement or Sinew's treatment of personal information by contacting us. When we receive formal written complaints at this address, it is Sinew's policy to contact the complaining user regarding his or her concerns. We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of personal information in accordance with the principles contained in this policy.
+Sinew regularly reviews its compliance with this Privacy Statement. Please feel free to direct any questions or concerns regarding this statement or Sinew’s treatment of personal information by contacting us. When we receive formal written complaints at this address, it is Sinew’s policy to contact the complaining user regarding his or her concerns. We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of personal information in accordance with the principles contained in this policy.
 
 ### Links to Other Sites
 
