@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lowes.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627074809id_/https%3A//www.lowes.com/l/privacy-and-security-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowes.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229121840id_/https%3A//www.lowes.com/l/privacy-and-security-statement.html) for the most accurate reproduction.*
 
 # Lowe's Home Improvement U.S. Privacy Statement
 
@@ -72,7 +72,7 @@ If you choose to connect your mobile device to the free in-store Wi-Fi available
 
 When you call our customer service centers or other phone support lines, we may record audio of the conversations for quality control, training, security and analytics purposes.
 
-We use video monitoring and recording at Lowe’s stores to enhance security, protect against theft and other crimes and to monitor in-store traffic patterns, customer counts and interests and perform similar analytics. In some stores, we may use facial recognition technologies to identify known shoplifters. Specifically, we may use specialized cameras to scan the faces of persons entering the facility and create a unique set of data points. These data points are compared — in real time — against data points of faces of shoplifters who have previously agreed in writing that they will no longer be allowed in our stores. The scan data is retained only if we identify a biometric match to our database of known shoplifters. Otherwise, the scan data is immediately deleted. We do not use facial recognition or other biometric identifiers for marketing purposes or to build profiles of shoppers.
+We use video monitoring and recording at Lowe’s stores to enhance security, protect against theft and other crimes and to monitor in-store traffic patterns, customer counts and interests and perform similar analytics.
 
 ### Information We Collect From Other Sources
 
@@ -160,7 +160,7 @@ To stop collection of information by our mobile applications, uninstall the appl
 
 ### Do Not Track
 
-We do not collect personally identifiable information about users’ online activities over time and across third-party websites and we do not process or respond to "Do Not Track" signals from your browser or other mechanisms that enable consumer choice regarding the collection of personal information about one's online activities over time and across third-party websites or online services.
+We do not process or respond to "Do Not Track" signals from your browser or other mechanisms that enable consumer choice regarding the collection of personal information about one's online activities over time and across third-party websites or online services.
 
 As described in the Interest-Based Advertising section below, however, we do participate in online advertising networks administered by third parties, and we may share information about activities on our websites with those networks, which may track your online activities over time and across third-party websites.
 
@@ -188,11 +188,9 @@ We do not knowingly collect personally identifiable information from children un
 
 Subject to certain limitations under California Civil Code § 1798.83, if you are a California resident and have an established business relationship with us, you may ask us to provide you with (i) a list of certain categories of personal information that we have disclosed to certain third parties for their direct marketing purposes during the immediately preceding calendar year and (ii) the identity of certain third parties that received personal information from us for their direct marketing purposes during that calendar year. To make such a request, please contact us as follows:
 
-Lowe's Customer Care  
-Attn: Privacy Team – California Marketing Choices – CON8  
-P.O. Box 1111  
-North Wilkesboro, NC 28659  
-1-800-445-6937
+Privacy Officer – California Privacy Rights  
+1000 Lowes Blvd, NB6LG  
+Mooresville, NC 28117
 
 ### Updates
 
@@ -202,9 +200,6 @@ This Privacy Statement may be updated periodically and without prior notice to y
 
 If you have questions or comments about this Privacy Statement, or if you would like us to update information we have about you or your preferences, please contact us as indicated below.
 
-Lowe's Customer Care  
-Attn: Privacy Team – CON8  
-P.O. Box 1111  
-North Wilkesboro, NC 28659  
-1-800-445-6937  
-
+Privacy Officer  
+1000 Lowes Blvd, NB6LG  
+Mooresville, NC 28117
