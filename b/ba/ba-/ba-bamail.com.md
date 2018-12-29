@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ba-bamail.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614114238id_/http%3A//www.ba-bamail.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ba-bamail.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229161218id_/http%3A//www.ba-bamail.com/privacy.aspx) for the most accurate reproduction.*
 
-# BabaMail | Health | DIY | Tips | Guides | Uplifting | Videos | Stories | Articles | Funny | Jokes | Family Friendly
+# Privacy policy - BabaMail
 
 ###  Privacy policy
 
