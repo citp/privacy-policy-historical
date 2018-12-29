@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icfo.eu privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620163320id_/http%3A//www.icfo.eu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icfo.eu privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229172413id_/https%3A//www.icfo.eu/privacy-policy) for the most accurate reproduction.*
 
 # ICFO - Privacy Policy
 
@@ -6,7 +6,7 @@
 
 The website www.icfo.eu (the “Website”) is owned and operated by the Institut de Ciències Fotòniques ("ICFO") with registered address at Av. Carl Friedrich Gauss, 3, (08860) Castelldefels, Barcelona, Spain, registered before the Foundations Registry (Registre de Fundacions) of the Generalitat de Catalunya under number 1651, telephone number (+34) 93 553 4002, e-mail address [secretariat@icfo.eu](mailto:secretariat@icfo.eu).
 
-In the moment that you, as a user of the Website, utilize any of the services available on or organised by the Website, you accept in its entirety the terms which have been laid out for your information in this Policy, as well as in the [Privacy Policy](http://www.icfo.eu/privacy-policy/#privacy-1) and in the [Cookies Policy](http://www.icfo.eu/privacy-policy/#privacy-2).
+In the moment that you, as a user of the Website, utilize any of the services available on or organised by the Website, you accept in its entirety the terms which have been laid out for your information in this Policy, as well as in the [Privacy Policy](https://www.icfo.eu/privacy-policy/#privacy-1) and in the [Cookies Policy](https://www.icfo.eu/privacy-policy/#privacy-2).
 
 In this regard, by using the Website, we understand that you have read, understood and accepted these conditions, which shall be legally binding for you. If you do not agree, please do not use our Website.
 
@@ -40,7 +40,7 @@ Any use of the Website’s content requires ICFO’s previous written authorizat
 
 #### Privacy Policy and Cookies Policy
 
-Please refer to our [Privacy Policy](http://www.icfo.eu/privacy-policy/#privacy-1) to know how we collect and use your personal information and to our [Cookies Policy](http://www.icfo.eu/privacy-policy/#privacy-2) to find out more information about the cookies that we use.
+Please refer to our [Privacy Policy](https://www.icfo.eu/privacy-policy/#privacy-1) to know how we collect and use your personal information and to our [Cookies Policy](https://www.icfo.eu/privacy-policy/#privacy-2) to find out more information about the cookies that we use.
 
 #### Severability and amendments
 
@@ -60,7 +60,7 @@ To help achieve this goal ICFO has drafted this Privacy Policy, which describes 
 
 “Personal Information” as referred in this Policy consists in information such as email, telephone number and address you provide as well as your personal preferences, choices and requirements specific to particular requests or services.
 
-Our Privacy Policy must be read together with any other legal notices or terms and conditions also available on our Website ([Terms of use](http://www.icfo.eu/privacy-policy/#privacy-0) and [Cookies Policy](http://www.icfo.eu/privacy-policy/#privacy-2)).
+Our Privacy Policy must be read together with any other legal notices or terms and conditions also available on our Website ([Terms of use](https://www.icfo.eu/privacy-policy/#privacy-0) and [Cookies Policy](https://www.icfo.eu/privacy-policy/#privacy-2)).
 
 If you have any questions in relation to this Privacy Policy, or if you would like to contact us to exercise your rights as stated in this Privacy Policy, you may contact us to the address, telephone or e-mail below stated.
 
@@ -87,13 +87,13 @@ ICFO does not process any Personal Information for individuals under 13 years ol
 
 ICFO may implement browsing surveys and traceability systems and/or devices in order to collect information for the purposes of establishing general user trends and improving browsing (e.g. cookies).
 
-Information obtainable from browsing may include: the Internet service provider’s domain name in order to ascertain the geographic origins of the computers accessing the web; Internet addresses which redirect navigation to ICFO’s website in order to analyse and evaluate sources of interest in ICFO; browsing dates and times in order to optimise browsing according to traffic peak/off-peak hours; daily web traffic to each section of the web. The tools employed to analyse browser activity have been designed to conduct statistical surveys, and will not be used to identify individual visitors. Please, refer to our [Cookies Policy](http://www.icfo.eu/privacy-policy/#privacy-2) for more information.
+Information obtainable from browsing may include: the Internet service provider’s domain name in order to ascertain the geographic origins of the computers accessing the web; Internet addresses which redirect navigation to ICFO’s website in order to analyse and evaluate sources of interest in ICFO; browsing dates and times in order to optimise browsing according to traffic peak/off-peak hours; daily web traffic to each section of the web. The tools employed to analyse browser activity have been designed to conduct statistical surveys, and will not be used to identify individual visitors. Please, refer to our [Cookies Policy](https://www.icfo.eu/privacy-policy/#privacy-2) for more information.
 
 #### Communication of information to third parties
 
 Some services that we provide require the involvement of third parties. We have carefully selected these third parties and taken steps to ensure that your Personal Information is adequately protected.
 
-Google Analytics. You can prevent Google Analytics cookies from being stored by setting your browser software accordingly (see our [Cookies Policy](http://www.icfo.eu/privacy-policy/#privacy-2) for further information). However, please note that you may not then be able to make full use of all the Website's functions.
+Google Analytics. You can prevent Google Analytics cookies from being stored by setting your browser software accordingly (see our [Cookies Policy](https://www.icfo.eu/privacy-policy/#privacy-2) for further information). However, please note that you may not then be able to make full use of all the Website's functions.
 
 You can also opt-out of Google Analytics by downloading and installing the browser plug-in available [here](http://tools.google.com/dlpage/gaoptout?hl=en).
 
@@ -180,7 +180,7 @@ __utmt
 __utmv  
 __utmz
 
-We use Google Analytics cookies to collect aggregate statistical information on the number of users accessing the Website and how they use it, including how they access the Website, the length and frequency of visits and pages viewed. We use this information to create reports and improve the Website. For more information about Google Analytics cookies please click [here](https://www.google.com/policies/technologies/types/). To learn more about how we use Google Analytics please refer to our [Privacy Policy](http://www.icfo.eu/privacy-policy/#privacy-1).  
+We use Google Analytics cookies to collect aggregate statistical information on the number of users accessing the Website and how they use it, including how they access the Website, the length and frequency of visits and pages viewed. We use this information to create reports and improve the Website. For more information about Google Analytics cookies please click [here](https://www.google.com/policies/technologies/types/). To learn more about how we use Google Analytics please refer to our [Privacy Policy](https://www.icfo.eu/privacy-policy/#privacy-1).  
 You can prevent transmission of the data created by Google Analytics cookies to Google and processing of this data by Google by downloading and installing the browser plug-in available [here.](http://tools.google.com/dlpage/gaoptout?hl+en)
 
 #### Disabling and blocking cookies
