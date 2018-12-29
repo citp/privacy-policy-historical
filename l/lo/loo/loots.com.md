@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loots.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629030710id_/https%3A//loots.com/en/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loots.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229051323id_/https%3A//loots.com/en/legal/privacy) for the most accurate reproduction.*
 
 # loots.com - Legal - Privacy
 
@@ -6,7 +6,7 @@ loots provides a livestream monetization platform via loots.com (The “ _Site_ 
 
 The Service is operated by fishwoodco GmbH, Sophienstrasse 32, 10178 Berlin, Germany, registered at HRB 172582 B District Court Berlin (Charlottenburg), [privacy@loots.com](mailto:privacy@loots.com) (“ _us_ ”, “ _we_ ”, or “ _our_ ”). 
 
-This Privacy Policy sets forth our policy with respect to personally identifiable information or personal data (the “ _Information_ ”) that is controlled by us while operating Service and Site. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our [Terms and Conditions](https://web.archive.org/web/20180629030710id_/https%3A//loots.com/en/legal/terms).
+This Privacy Policy sets forth our policy with respect to personally identifiable information or personal data (the “ _Information_ ”) that is controlled by us while operating Service and Site. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our [Terms and Conditions](https://web.archive.org/web/20181229051323id_/https%3A//loots.com/en/legal/terms).
 
 We are processing Information for carrying out our commercial activities, in particular to pursue our Services, business activities as well as business communication including direct marketing.
 
@@ -86,7 +86,7 @@ You have the right to access the respective personal data, as well as to correct
 
 Please direct any Information requests to [privacy@loots.com](mailto:privacy@loots.com). Beyond that, you have the right of complaint at a supervisory authority in the European Union. 
 
-You may withdraw your consent to process your Personal Information at any time by terminating your account via “ _Account > Settings_” or providing a notice to [privacy@loots.com](mailto:privacy@loots.com). Withdrawal of consent does not affect the legitimacy of processing that has taken place until we have received your withdrawal. Without a valid consent, you may no longer be able to participate in our electronic communications or receive further information from us, like our newsletters. Despite withdrawal of consent we may continue to process your Information on another legal basis for data processing (e.g. legitimate interest).
+You may withdraw your consent to process your Personal Information at any time by terminating your account via “ _Account > Settings_”. Withdrawal of consent does not affect the legitimacy of processing that has taken place until we have received your withdrawal. Without a valid consent, you may no longer be able to participate in our electronic communications or receive further information from us, like our newsletters. Despite withdrawal of consent we may continue to process your Information on another legal basis for data processing (e.g. legitimate interest).
 
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
