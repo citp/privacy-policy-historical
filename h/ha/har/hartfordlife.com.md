@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hartfordlife.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629071138id_/https%3A//www.thehartford.com/online-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hartfordlife.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229091712id_/https%3A//www.thehartford.com/online-privacy-policy) for the most accurate reproduction.*
 
 # Online Privacy Policy | The Hartford
 
@@ -8,7 +8,7 @@ The Hartford values your trust and is committed to the responsible management, u
 
 This Online Privacy Policy supplements, but does not replace other applicable policies, practices and privacy notices that may relate to specific business relationships you have with The Hartford or to certain products or services, as described in the applicable privacy notice. At the start of our business relationship with you as a client, we will give you a copy of our privacy notice that applies to that relationship, if applicable. In the event of a conflict between this Online Privacy Policy and a privacy notice for a specific product or service, the specific product or service privacy notice shall govern.
 
-###  Quick Links
+##  Quick Links
 
   * Information We Collect
   * How We Use Information
