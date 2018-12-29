@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playgamesnet.com privacy policy that was archived on 2018-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180514061721id_/http%3A//freeplaynow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playgamesnet.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229170735id_/http%3A//freeplaynow.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
