@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetappingsolution.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629105221id_/https%3A//www.thetappingsolution.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetappingsolution.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229124710id_/https%3A//www.thetappingsolution.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
