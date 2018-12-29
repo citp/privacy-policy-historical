@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hathitrust.org privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630130724id_/http%3A//www.hathitrust.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hathitrust.org privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229140251id_/https%3A//www.hathitrust.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | www.hathitrust.org | HathiTrust Digital Library
 
@@ -16,21 +16,21 @@ Information from transaction logs may be aggregated for reporting on types of us
 
 ## Authentication
 
-HathiTrust uses [Shibboleth](http://shibboleth.internet2.edu/ "Shibboleth") as a mechanism to allow individuals affiliated with partner institutions to authenticate into HathiTrust. More about Shibboleth, including privacy, is available on HathiTrust's [Shibboleth implementation page](https://web.archive.org/web/20170630130724id_/http%3A//www.hathitrust.org/shibboleth "Shibboleth in HathiTrust").
+HathiTrust uses [Shibboleth](http://shibboleth.internet2.edu/ "Shibboleth") as a mechanism to allow individuals affiliated with partner institutions to authenticate into HathiTrust. More about Shibboleth, including privacy, is available on HathiTrust's [Shibboleth implementation page](https://web.archive.org/web/20181229140251id_/https%3A//www.hathitrust.org/shibboleth "Shibboleth in HathiTrust").
 
-Individuals not affiliated with partner institutions can authenticate to create permanent collections in HathiTrust's Collection Builder using a University of Michigan [Friend Account](http://www.itd.umich.edu/itcsdocs/s4316/ "University of Michigan Friend Accounts"). Friend Accounts require a valid email address. Information about privacy and security for information at the University of Michigan can be found at <http://www.itcs.umich.edu/itpolicies/>. Users may choose a username to build collections in HathiTrust. If users choose to make collections public, the username is displayed on the public list of collections on the [Collection Builder home page](http://babel.hathitrust.org/cgi/mb "HathiTrust Collection Builder"). No information is displayed if collections are made private.
+Individuals not affiliated with partner institutions can authenticate to create permanent collections in HathiTrust's Collection Builder using a University of Michigan [Friend Account](http://www.itd.umich.edu/itcsdocs/s4316/ "University of Michigan Friend Accounts"). Friend Accounts require a valid email address. Information about privacy and security for information at the University of Michigan can be found at [http://cio.umich.edu/policy/](http://cio.umich.edu/policy/). Users may choose a username to build collections in HathiTrust. If users choose to make collections public, the username is displayed on the public list of collections on the [Collection Builder home page](https://babel.hathitrust.org/cgi/mb "HathiTrust Collection Builder"). No information is displayed if collections are made private.
 
 ## Google Analytics
 
-HathiTrust uses Google Analytics, a Web analytics service provided by Google, Inc. (“Google”) to help understand how the site is being used and to improve our interface and services. Google Analytics operates through the use of a “cookie,” which is a text file placed on your computer that contains information about your use of HathiTrust. The information stored in the cookie (including your IP address) will be transmitted to and stored by Google. HathiTrust uses this information for analytical and feature-improvement related purposes only. We do not transmit any information to other third parties. For more information on Google Analytics and Google’s privacy policy, please visit [http://www.google.com/intl/en/privacy.html](http://www.google.com/intl/en/privacy.html).
+HathiTrust uses Google Analytics, a Web analytics service provided by Google, Inc. (“Google”) to help understand how the site is being used and to improve our interface and services. Google Analytics operates through the use of a “cookie,” which is a text file placed on your computer that contains information about your use of HathiTrust. The information stored in the cookie (including your IP address) will be transmitted to and stored by Google. HathiTrust uses this information for analytical and feature-improvement related purposes only. We do not transmit any information to other third parties. For more information on Google Analytics and Google’s privacy policy, please visit [https://www.google.com/intl/en/privacy.html](http://www.google.com/intl/en/privacy.html).
 
 If you choose, you can opt out of this tracking by using one of the following methods:
 
   * Turn off cookies in the preferences setting in your browser
-  * Use the Google Analytics opt-out browser add-on <http://tools.google.com/dlpage/gaoptout>
+  * Use the Google Analytics opt-out browser add-on [https://tools.google.com/dlpage/gaoptout](http://tools.google.com/dlpage/gaoptout)
 
 
 
 ## Personally identifiable information in works in the repository
 
-It is HathiTrust's general policy, in consultation with depositing institutions, to remove access to works or portions of works when significant personally identifiable information is exposed that creates a cause for concern (e.g., Social Security Numbers of living individuals). Works where access is limited in this way will be indicated as Limited (search-only) in HathiTrust search interfaces, and the landing page for an item itself or relevant portions of the item will indicate that the item has been closed due to privacy concerns.
+It is HathiTrust's general policy, in consultation with depositing institutions, to remove access to works or portions of works when significant personally identifiable information is exposed that creates a cause for concern (e.g., Social Security numbers of living individuals). Works where access is limited in this way will be indicated as "Limited (search-only)" in HathiTrust search interfaces, and the landing page for an item itself or relevant portions of the item will indicate that the item has been closed due to privacy concerns.
