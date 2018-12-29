@@ -1,92 +1,185 @@
-> *The following text is extracted and transformed from the blazemeter.com privacy policy that was archived on 2018-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180515132113id_/https%3A//www.blazemeter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blazemeter.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229161911id_/https%3A//www.ca.com/us/legal/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | BlazeMeter
+# Privacy Statement - CA Technologies
 
-## BLAZEMETER PRIVACY POLICY
+At CA, Inc. and our global subsidiaries (“CA,” “our,” “us,” or “we”), we care about your privacy and we are committed to protecting your information.
 
-### OVERVIEW
+This Privacy Statement governs personal information CA collects from customers, attendees and online visitors (“you” or “your”) in connection with your use of CA’s websites and CA’s products, applications and services (including support and education), and corporate meetings and other events (collectively, the “Services”) where we post or link to this Privacy Statement, as well as information we automatically collect from your online visits (e.g. data collected via cookies).
 
-This Privacy Policy explains how BlazeMeter ("we", "us", "our" or "BlazeMeter") collects, uses and shares your "Personal Information" - information that identifies, relates to, describes or is capable of being associated with you as a particular individual, such as your name, address, email address or telephone number - and other data through your use of any of BlazeMeter's websites, services, application programming interfaces ("APIs") or software (collectively, the "BlazeMeter Service"). This Privacy Policy does not apply to the practices of companies that BlazeMeter does not own or control or to people that BlazeMeter does not employ or manage. Your use of the BlazeMeter Service is subject to this Privacy Policy in effect at the time of your use. By using BlazeMeter Service, you consent to the collection and use of your Personal Information, as outlined in this Privacy Policy. You are not obligated to provide us with your Personal Information, however, we will not be able to provide you with the BlazeMeter Service without the receipt thereof. BlazeMeter reserves the right to update and change this Privacy Policy from time to time without notice or acceptance by you, so please check this page frequently for updates and changes.
+For the purposes of this Privacy Statement, “personal information” means any information that, by itself, can identify you or can be combined with other information to identify you.
 
-### COLLECTION OF PERSONAL INFORMATION
+Your continued use of the website and/or the Services indicates your acceptance of the terms and conditions of this Privacy Statement.
 
-When you create a BlazeMeter account, we ask for information such as your name, company name or affiliation and email address. BlazeMeter collects the email addresses of people who communicate with BlazeMeter via email, create accounts or post topics on our website.  
-BlazeMeter may also collect Personal Information provided by users (for example, through posts or site registrations). When posting content on or through the BlazeMeter Service, please keep in mind that any Personal Information you post may be viewed by others.  
-BlazeMeter may collect information about your transactions with us and/or with our business partners. This information might include information necessary to process payments, such as billing information and your credit card number. BlazeMeter may receive information about you from our business partners with which you have an account, service relationship or transaction history. BlazeMeter may obtain information about you from service providers engaged in the business of marketing data. BlazeMeter may receive Personal Information from third parties when you authorize such third parties to authenticate or identify you to BlazeMeter or sign in to the BlazeMeter Service using credentials from a third party service.  
-You must be above 13 years old to join our BlazeMeter Service. We do not knowingly collect Personal Information from visitors under the age of 13.
+Please see our Code of Conduct for more information about CA’s high standard of ethics and our commitment to the protection of your personal information.
 
-### USE OF PERSONAL INFORMATION
+### **What personal information does CA collect about you?**
 
-  * BlazeMeter uses, in accordance with applicable laws, Personal Information it collects for the following general purposes:
-  * Products and services provision
-  * Billing, identification and authentication
-  * Improvement of services
-  * Contact
-  * Research
-  * Analytics and reporting
-  * You will automatically be subscribed to receive optional email messages such as newsletters or promotions, you may choose to unsubscribe at any time, by following the unsubscribe instructions included in each email message. In addition to these optional email messages, BlazeMeter may contact you via any email address you provide to us with transactional or relationship messages such as account status messages, security updates or notifications of changes in the terms of your account or the BlazeMeter Service. These types of transactional or relationship email messages are not optional. BlazeMeter may automatically receive and record information on our server logs from your browser, including your IP address, cookies and the pages you request. This information may be used for various purposes, including to:
-  * Diagnose and prevent service or technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP.
-  * Estimate the total number of users visiting the BlazeMeter Service from specific geographical regions.
-  * Help determine which users have access privileges to certain content, services or resources that we offer.
-  * Estimate and report our total audience size and traffic.
-  * Conduct research to improve the BlazeMeter Service.
-  * Help combat fraud and abuse.
-  * Provide analytics and reporting.
+**Information You Provide**
+
+We may ask you to provide personal information when you:
+
+  * Purchase products or services;
+  * Register for webcasts, seminars, conferences or other events sponsored by us or a partner;
+  * Request quotes, services, product support, trials, white papers and related downloads or additional information;
+  * Join CA Communities;
+  * Register for courses or education;
+  * Subscribe to newsletters, promotional emails or other CA materials;
+  * Participate in surveys, sweepstakes or contests;
+  * Apply for a job and submit your resume/CV; or
+  * Contact us.
 
 
 
-BlazeMeter may combine information about you in our possession with information we obtain from business partners or others.  
-When you send an email or other communication to BlazeMeter, we may retain those communications in order to process and respond to your requests and improve our BlazeMeter Service. Please do not send us any communication which contains confidential information. Since we are not able to evaluate whether such communication contains confidential information or not, we may retain or use such confidential information as described in this Policy and such retention or use shall not be deemed as a breach of any of our obligations herein.
+Personal information we request may include your name, email address, home address, phone number and other contact details. If you purchase a product or service or register for courses, we may also ask you for your credit card number or billing information.
 
-### SHARING OF PERSONAL INFORMATION
+When we ask you to provide your personal information, we will advise you upon collection whether the provision of your personal information is mandatory. If we ask for personal information through one of our registration pages on our website, you will have the option of not providing the information, in which case you may still be able to access other portions of the website, although you may not be able to access certain programs or services.
 
-BlazeMeter does not share Personal Information collected from your use of the BlazeMeter Service with others, except as described in this Privacy Policy.  
-BlazeMeter may share your Personal Information when you have authorized BlazeMeter to do so, when it is necessary to complete a transaction, to operate or improve the BlazeMeter Service, or to take some action that you have asked us to do. BlazeMeter will share your email address with companies that are clients of the BlazeMeter Service when you authorize BlazeMeter to do so. How such companies use your email address is subject to those companies' own privacy policies, not this Privacy Policy.  
-BlazeMeter may share Personal Information under the following circumstances:  
-In the course of operating our business, it may be necessary or appropriate for us to provide access to your Personal Information to others such as our employees, service providers, contractors and vendors so that we can provide the necessary hardware, software, networking, storage, and related technology required to operate, develop or improve the BlazeMeter Service. These individuals are bound by confidentiality obligations that are consistent with this Privacy Policy and that limit others' use or disclosure of this Personal Information. In the course of operating our business, it may be also necessary or appropriate for us to provide access to your Personal Information to our hosting partners for the aforementioned purposes, in which case their use of your Personal Information will be according to their terms of use and privacy policy.  
-We may disclose general aggregated non-personal information about our users to potential business partners, investors, or the public, but we will not, without your specific permission, disclose any of your Personal Information to third parties.  
-We may share your Personal Information to respond to subpoenas, court orders, or legal process, to establish or exercise our legal rights, to defend against legal claims or in such circumstances where such disclosure is required according to applicable law or court order.  
-We may share your Personal Information if we believe it is necessary in order to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our various terms of service or as otherwise required by law.  
-Except as described herein, we do not disclose your Personal Information or share it with third parties.  
-As we continue to develop our business, we may sell all or part of our business. In such transactions, Personal Information collected from users is generally one of the business assets that will be transferred. The transferred Personal Information will remain subject to this Privacy Policy or subsequent policies to which you have consented.
+**Information from Other Sources**
 
-### COOKIES
+We may also obtain information about you from other sources and combine that with information we collect through our Services. For example, we may aggregate your personal information with information that you make publicly available on social media or third-party websites to better market our Services to you.
 
-A "cookie" is a small amount of data, which typically includes an anonymous unique identifier, which is sent to your browser and stored on your computer's hard drive when you view a webpage, an advertisement, a video or other types of content. You can configure your browser to accept all cookies, reject all cookies or notify you when a cookie is set. If you reject all cookies, or specifically reject cookies set by BlazeMeter, you may not be able to take full advantage of features of the BlazeMeter Service that require you to be signed in to your account or otherwise identify yourself.  
-BlazeMeter uses cookies for a number of purposes, including to:
+**Information Automatically Collected**
 
-  * Identify you as an account holder.
-  * Require you to re-enter your password after a certain period of time has elapsed to protect you against others accidentally accessing your account contents.
-  * Keep track of preferences you specify while you are using BlazeMeter's Sites, Services and Software.
-  * Estimate and report our total audience size and traffic.
-  * Conduct research to improve the BlazeMeter Service.
+When you visit our websites, we may automatically collect information about your visit, including pages you access, links you click and actions you take in connection with CA’s Services. We may also collect certain information from your web browser, such as your device’s operating system, application software, browser type and language, Internet Service Provider, Internet Protocol (IP) address, access times and the websites you visited before and after our website(s). For more information on information that we automatically collect, please see the “How does CA use cookies and other tracking technologies?” section.
+
+### **How does CA use your personal information?**
+
+We may use your personal information for legitimate business purposes, including to:
+
+  * Provide and deliver the Services you request;
+  * Send you transaction information, including confirmations and transaction status, product and services information, updates, security alerts and support and administrative messages;
+  * Administer your account, including verifying your information;
+  * Respond to your comments and questions and provide customer support or other services;
+  * Offer Live Chat assistance to facilitate;
+  * Operate and improve our websites, products and services;
+  * Process and deliver sweepstakes and contest entries and rewards;
+  * Ask you to take part in surveys used to measure our performance and improve our products, services and customer experience;
+  * Communicate with you about new promotions and upcoming events;
+  * Provide you with information about products and services offered by CA and our selected partners;
+  * Plan and host corporate events, online forums, communities and social networks;
+  * Link or combine with other information we get from third parties, to help understand your needs, and customize our offerings and market our Services based on your needs; and
+  * Perform other functions or serve other purposes, as disclosed to you at the point of collection, or as otherwise required or allowed under applicable law.
 
 
 
-BlazeMeter's vendors, service providers and business partners may set and access their own cookies on and through the BlazeMeter Service. How other companies use their own cookies and the information they gather is subject to those companies' own privacy policies, not this Privacy Policy.
+**Legal Basis of Processing**
 
-### DO NOT TRACK
+In order to collect, use and otherwise process your personal information, CA may rely on any of the following legal bases:
 
-Currently, various browsers – including Internet Explorer, Firefox, and Safari – offer a “do not track” or “DNT” option that relies on a technology known as a DNT header, which sends a signal to Web sites' visited by the user about the user's browser DNT preference setting. BlazeMeter does not currently commit to responding to browsers' DNT signals with respect to the BlazeMeter Sites, because BlazeMeter does not track its customers over time and across third party websites to provide targeted advertising.
+  * CA’s legitimate interest in providing its websites and making the Services available to you, provided our interest is not outweighed by the risk of harm to your rights and freedoms.
+  * Your consent, where CA has obtained your consent to process your personal information for certain activities. You may withdraw your consent at any time by contacting [privacyhelpline@ca.com](mailto:privacyhelpline@ca.com). However, please note that your withdrawal of consent will not affect the lawfulness of any use of your personal information by CA based on your consent prior to withdrawal.
+  * To fulfill any contractual obligations, such as where you have purchased a product or service from CA. For example, we may require your contact details in order to deliver your order if you have purchased a product from us.
+  * For compliance with CA’s legal obligations where applicable laws require CA to process your personal information.
 
-### DATA WE COLLECT OTHER THAN PERSONAL INFORMATION
 
-In addition to Personal Information, we may also use other technologies to collect anonymous non personally identifiable information on your use and interaction with the BlazeMeter Service. Such information may include, but shall not be limited to, number of users and signups, acquisition channels, top landing pages, number of users by location, number of sessions and their average duration, number of page viewers, conversion rates etc. BlazeMeter may use such information in any manner permitted by applicable laws.
 
-### RETENTION OF PERSONAL INFORMATION AND OTHER DATA
+If you have any questions or would like more information regarding the legal basis on which we collect your personal information, please contact us at [privacyhelpline@ca.com](mailto:privacyhelpline@ca.com).
 
-BlazeMeter reserves the right to retain your Personal Information, other data collected about you and content you submit to or through the BlazeMeter Service for as long as your account is active and as needed to provide our BlazeMeter Service. If you wish to cancel your account or that we no longer use or hold your Personal Information, please contact us via [info@blazemeter.com](mailto:info@blazementer.com?subject=Privacy%20Policy). We may also retain and use your Personal Information, other data collected about you and content you submit to or through the BlazeMeter Service, to the extent required by applicable laws, rules and regulations and as reasonably necessary to protect our legal interests.
+**Retention of Data**
 
-### DATA TRANSMISSION AND STORAGE
+CA may retain your personal information data as long as is necessary to fulfill the purposes for which it was collected and in accordance with CA’s record retention policy and applicable law. CA’s Support Policy may include additional terms related to the collection of personal information or confidential data provided as part of the provision of customer support.
 
-We use industry standard security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These measures include internal reviews of our data collection, storage and processing practices and security measures. However, no data transmission over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk.  
-Governing Law; Dispute Resolution  
-This Privacy Policy shall be construed in accordance with and governed for all purposes by the substantive laws of the State of California without regard to conflicts of law provisions. You agree that any claim or dispute you may have against BlazeMeter and its affiliates, directors, officers, employees and representatives must be resolved by a court located in Santa Clara County, California, and waive any jurisdictional, venue or inconvenient forum objections to such courts.
+**Cross-Border Data Transfers**
 
-### QUESTIONS
+CA may transfer your personal information to other CA entities located in many different countries around the world if required for the purposes described in this Privacy Statement. This may include the transfer of your personal information to countries outside your home country, including outside the European Economic Area (EEA), which may not have the same level of protection as your home country. For example, since CA is headquartered in the United States (US), CA entities in the EEA may need to send your personal information to our servers located in the US for legitimate business purposes. In order to provide adequate protection for the transfer of your personal information, we rely on various mechanisms, including our Privacy Shield certifications, Binding Corporate Rules, EU Standard Contractual Clauses and/or the need to process your personal information in order to provide the requested products or services, as the bases for transferring your personal information. Please [click here for more information on CA’s data transfer mechanisms](https://web.archive.org/us/legal/privacy/data-transfers.html).
 
-Any questions about this Privacy Policy should be addressed to [info@blazemeter.com](mailto:info@blazementer.com?subject=Privacy%20Policy).
+### **How does CA share your personal information?**
 
-Last updated March 12, 2015.
+We may share your personal information with third parties for the purposes described below.
 
-Copyright © 2015 BlazeMeter. All rights reserved.
+  * _**CA Subsidiaries.**_ We may share your personal information with our subsidiaries worldwide in order to improve our website and/or the Services and to manage our customer relationships.
+  * **_Third-Party Vendors/Service Providers._** We may rely on third-party vendors, consultants and other service providers to perform functions on our behalf and under our instructions in order to make our websites and the Services available to you. For example, we may engage third parties to provide customer support relating to our products or cloud storage services or assist CA in protecting its systems.
+  * **_Business Partners._** We may share your information with third parties with whom we do business, including in connection with your purchase of a CA product through a business partner or attendance at an event jointly hosted by CA and business partner. Depending on CA’s business model and its regional coverage, CA may not be able to provide the products or services directly to you. In those instances, CA may disclose information to its business partners for reselling, marketing and other business purposes related to your demonstrated interest in our products and services. We will only share your personal information with business partners who agree to abide by applicable laws and to protect your personal information and use it solely for the purposes specified by CA.
+  * **_Legal Obligations and Rights._** We may disclose your personal information: (i) in connection with the establishment, exercise or defense of legal claims; (ii) to comply with laws or to respond to lawful requests or legal process; (iii) for fraud or security monitoring purposes (e.g., to detect and prevent cyberattacks); (iv) to protect the rights of CA or its employees; or (v) as otherwise permitted by applicable law.
+  * **_Business Reorganization._** We may share your personal information in connection with a sale or business transaction (e.g., merger or acquisition).
+
+
+
+CA may also use or share aggregate data (data from which personal information has been removed) for any purpose.
+
+Except as described above, CA will not disclose your personal information to third parties for their own marketing purposes without your consent.
+
+**EU-US and Swiss-US Privacy Shield**
+
+CA participates in and has certified its compliance with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework and is committed to subjecting all personal information received from the European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework’s applicable Principles. To learn more about the Privacy Shield program and to view CA’s certification page, please visit <https://www.privacyshield.gov/>.
+
+CA is responsible for the processing of personal information that it receives under each Privacy Shield Framework and subsequently transfers to a third party acting as an agent on its behalf. CA remains liable for onward transfers of personal information to third parties who process personal information on its behalf in a manner that is inconsistent with the Privacy Shield Principles, unless CA proves that it is not responsible for the event(s) giving rise to the damage.
+
+CA commits to resolve complaints about our collection or use of personal information under the Privacy Shield Frameworks and we are subject to the regulatory and enforcement powers of the Federal Trade Commission with respect to Privacy Shield. CA may be required, in certain circumstances, to disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+If you have a complaint about CA’s use of your personal information under either Privacy Shield Framework, you should first contact CA at [privacyhelpline@ca.com](mailto:privacyhelpline@ca.com). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our US-based third party dispute resolution provider (free of charge) at [BBB EU Privacy Shield](https://www.bbb.org/EU-privacy-shield/), operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgement of your complaint from us or if we have not addressed your complaint to your satisfaction, please contact or visit <https://www.bbb.org/EU-privacy-shield/for-eu-consumers> for more information and to file a complaint.
+
+If neither CA nor the Council of Better Business Bureaus resolves your complaint, you may have the possibility to engage in binding arbitration through the Privacy Shield Panel.
+
+### **How does CA protect your personal information?**
+
+CA takes all reasonable steps to protect your information from loss, misuse, unauthorized access or disclosure, alteration or destruction, including through the use of encryption when collecting or transferring sensitive data such as credit card information.
+
+[Click here](https://web.archive.org/content/dam/ca/us/files/supportingpieces/ca-information-security-practices.pdf) to learn more about how CA secures information.
+
+### **What rights and choices do you have regarding your personal information?**
+
+**Email and Marketing**
+
+In most instances, CA gives you options with regard to the personal information you provide, including choices with respect to marketing materials. You may manage your receipt of marketing and non-transactional communications by: (i) clicking on the “unsubscribe” link located at the bottom of CA marketing emails; or (ii) checking certain boxes on our preference center which can also be found on certain forms we use to collect personal information.
+
+**Exercising your Rights**
+
+Subject to applicable law in your jurisdiction (e.g. laws in the European Economic Area, United Kingdom and Switzerland), you may have certain rights with respect to your personal information that we are processing. These rights may include the right to access your personal data, correct inaccurate personal data, object to the processing of your personal data based on CA’s legitimate interests (e.g., direct marketing purposes), restrict or delete personal data that you have previously provided to us or to receive an electronic copy of your personal data for purposes of transmitting it to another company. Where the processing of your data is based on your consent, you have the right to withdraw your consent to data processing activities at any time, without affecting the lawfulness of processing based on consent before its withdrawal. If you would like to exercise any of these rights, please contact [privacyhelpline@ca.com](mailto:privacyhelpline@ca.com) with the words “Data Subject Rights Request” in the subject line.
+
+### **How does CA use cookies and other tracking technologies?**
+
+**Cookies**
+
+CA uses “cookies” on its websites to enable you to sign in to CA’s services and personalize your online experience. A “cookie” is a small data file stored on your hard drive. By using cookies, the information you previously provided can be retrieved on your next visit to our website(s) so that your use of the website is more efficient.
+
+Cookies are either session-based (which disappear after you close your browser) or persistent (which remain on your computer after you close your browser or turn off your computer). CA may use any of the following types of cookies:
+
+  * Required cookies are essential to core website functionality.
+  * Performance cookies collect information about website visits to improve performance, but do not collect personal information.
+  * Functional cookies track your preferences, such as your preferred language or display settings, and customize the website to you. Some of these cookies may be required cookies.
+  * Analytics cookies allow us to count page visits and traffic sources so we can measure and improve the performance of our websites and our marketing campaigns.
+  * Advertising cookies may be set through our website(s) by our advertising partners. Data may be collected by these companies that enable them to deliver customized advertisements on other websites that are relevant to your interests.
+
+
+
+**Web Beacons**
+
+CA also uses web beacons alone or in conjunction with cookies to compile information about your usage of our websites and interaction with emails from us. A web beacon is an electronic image that can be used to recognize a cookie on your computer when you view a web page or email message. Web beacons may help CA measure the effectiveness of our websites and our advertising in various ways. For example, web beacons may count the number of individual who visit a particular web page after viewing an advertisement or identify the number of individuals who opened or acted upon a marketing email message.
+
+Our third-party ad services providers may also use aggregated information collected through web beacons and cookies about your visit to the website(s) in order to deliver advertising relevant to your interests and to better understand the usage of our websites and the other sites tracked by these third parties. This Privacy Statement does not apply to, and we are not responsible for, third-party cookies, and CA encourages you to check the privacy policies of advertisers and/or ad services to learn about their use of cookies and other tracking technologies.
+
+**Managing Cookie Preferences**
+
+Many web browsers are set to accept cookies by default, and only you can manage your browser settings. To may see the list of CA and selected partner cookies on our website(s) and make choices about those cookies, please [visit our Cookie Consent Tool here](http://info.evidon.com/pub_info/6457?v=1&nt=1&nw=false). In addition, the Help portion of your web browser, which is most often found on your browser’s toolbar, typically tells you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. Please not that if you choose to decline cookies, you may not be able to get the benefit of some of the features of this website or other websites that you visit.
+
+**Do Not Track**
+
+Certain browsers like Internet Explorer, Firefox and Safari offer a “Do Not Track” or “DNT” option that sends a signal to websites visited by the user about the user’s browser DNT preference setting. Because uniform standards for “Do Not Track” have not been established, CA does not process or respond to “Do Not Track” signals.
+
+**Social Media Accounts**
+
+Portions of our websites make chat rooms, forums, blogs, message boards and/or news groups available to you. Please remember that any information that is disclosed in these areas could be made public so exercise caution when deciding to disclose any personal information. Also, please note that use of these portions of our website may be subject to additional terms. Additional information about community and support sites can be found at our [Terms for User Sites](https://web.archive.org/us/legal/terms-for-user-sites.html) on ca.com.
+
+In addition, CA’s website(s) may include social media features, including the Facebook “Like” button. These features may collect your IP address and identify the web page you are visiting on CA’s website and may set a cookie to enable the feature to function properly. You may be given the option by that social media site to post information about your activities on CA’s website(s) to your profile page on that social media site. Your interactions with these features are governed by the privacy policy of the company that is providing them.
+
+**Third-Party Websites**
+
+CA’s websites may contain links to other third-party websites. This Privacy Statement does not apply to, and CA is not responsible for, the privacy practices or the content of such third-party websites, including business partner websites, and their use of personal information will be governed by their own privacy policies.
+
+### **How will you be notified about changes to this Privacy Statement?**
+
+CA may modify or update this Privacy Statement at any time without prior notice. If we make any changes to this Privacy Statement, we will change the “Last Updated” date at the beginning of this Privacy Statement. If we make material changes to this Privacy Statement that may impact individual rights, CA will make prominent note of such change on its website at least one month prior to the change taking place.
+
+### **Who should you contact with inquiries?**
+
+If you have any questions, concerns or comments about this Privacy Statement or our privacy practices, please contact CA via email at [privacyhelpline@ca.com](mailto:privacyhelpline@ca.com) with the words “PRIVACY STATEMENT” in the subject line.
+
+You may also reach out by regular mail to:
+
+CA Technologies  
+520 Madison Ave  
+New York, NY 10022  
+Attention: Chief Privacy Officer
+
+EU residents may also lodge a complaint with the data protection authority in the EU member state where they live, work or where an alleged infringement of applicable data protection law occurred.
