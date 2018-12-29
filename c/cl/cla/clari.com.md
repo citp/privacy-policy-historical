@@ -1,13 +1,15 @@
-> *The following text is extracted and transformed from the clari.com privacy policy that was archived on 2018-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180317191107id_/http%3A//www.clari.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clari.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230001513id_/https%3A//www.clari.com/privacy) for the most accurate reproduction.*
 
-# Clari Privacy Policy - - Clari
+# Clari Privacy Policy - Clari
 
-**Updated: February 28, 2017**
+**Updated May 29, 2018**
 
-[](https://privacy.truste.com/privacy-seal/validation?rid=2d49537b-f5c6-4e28-b638-087791b08b6f)
+[ ](https://privacy.truste.com/privacy-seal/validation?rid=2d49537b-f5c6-4e28-b638-087791b08b6f)
 
 #### Revision history
 
+  * May 29, 2018: Added reference to Clari GDPR web link and clarified policy change notification.
+  * May 21, 2018: Clarified our disclosure policy to state that information will only be disclosed when required by public authorities or the law
   * February 27, 2018: Added specific language to comply with Google’s User Data Policy, clarifying how Clari “accesses, uses, stores, or shares Google user data”
 
 
@@ -16,7 +18,7 @@
 
 Clari, Inc. ("Clari") knows that you care about how your corporate and personal information is used and shared - and we take your privacy seriously. This privacy policy ("Privacy Policy") covers Clari's treatment of personally identifiable information ("Personal Information") and enterprise information ("Enterprise Information") (such as: CRM data, files, email/calendar information, and contacts) that you submit, or Clari otherwise gathers, when you access or use the Service. Together, Personal Information and Enterprise Information will be referred to as "Information".
 
-By using the [www.clari.com](http://www.clari.com/) website ("Site") or any of our Clari applications available via the application URL: app.clari.com and the Clari mobile applications: Clari Mobile and Clari Connect (collectively, the "Service") you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you consent that we will collect, use, and share your information as set forth below. The use of information collected through our service shall be limited to the sole purpose of providing the service for which your organization (Clari’s “Client”) has engaged Clari. Specific services offered are governed by the Clari Master Service Agreement and business terms for the items purchased by the Client per the Order Agreement.
+By using the [www.clari.com](https://www.clari.com/) website ("Site") or any of our Clari applications available via the application URL: app.clari.com and the Clari mobile applications: Clari Mobile and Clari Connect (collectively, the "Service") you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you consent that we will collect, use, and share your information as set forth below. The use of information collected through our service shall be limited to the sole purpose of providing the service for which your organization (Clari’s “Client”) has engaged Clari. Specific services offered are governed by the Clari Master Service Agreement and business terms for the items purchased by the Client per the Order Agreement.
 
 Clari participates in and has certified its compliance with the EU-U.S. Privacy Shield and the Swiss-U.S. Privacy Shield Framework. Clari is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Frameworks, visit the U.S. Department of Commerce’s Privacy Shield List: <https://www.privacyshield.gov/list>
 
@@ -28,17 +30,19 @@ If you have an unresolved privacy or data use concern that we have not addressed
 
 Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
+#### EU Personal Data
+
+If you are located in the EU, United Kingdom, Lichtenstein, Norway, or Iceland, you may have additional rights under the EU General Data Protection Regulation (the “GDPR”). For more information about Clari’s compliance with GDPR, please visit [our page](https://www.clari.com/gdpr) dedicated to GDPR.
+
 #### What Information Does Clari Collect?
 
 When you visit the Site and express an interest in obtaining additional information about Clari or the Service, or register to receive marketing materials, event registrations or any other form submission tools that collect your personal contact information such as name, company name, address, phone number and email address (“Required Contact Information”), Clari collects this personal information.
 
 By downloading and enabling the Service, you are authorizing Clari to access and store all of the foregoing types of Information:
 
-Information you submit as part of the registration process such as your name and email address
-
+  * Information you submit as part of the registration process such as your name and email address
   * Information you elect to submit (including, without limitation, any text, documents, images or other content or materials) to any areas of the Service that are accessible by other Service users within your organization ("User Submissions"). Such information may be shared with other Services users within your organization - as elected by you via the Service. For example, if you post a photo as part of a deal channel, that may be visible to other Service users within your organization. We endeavor to make sure the Service's functionality puts you on reasonable notice as to the scope of an intended submission.
-  * Information that Clari may obtain from third-party services (both Personal and Enterprise
-  * Information, such as CRM data, files, email/calendar information, and contacts) that Clari requires for the operation of the Clari service.
+  * Information that Clari may obtain from third-party services (both Personal and Enterprise Information, such as CRM data, files, email/calendar information, and contacts) that Clari requires for the operation of the Clari service.
   * For Google Apps/Gmail users, Clari collects email and calendar metadata for the sole business-related use of the user and Clari’s Client. Such information is never provided or disclosed to anyone other than the user and users specifically authorized by the Client.
 
 
@@ -49,7 +53,7 @@ Note that certain features of the Service may allow you to import information fr
 
 ##### Information We Collect Automatically
 
-Whenever you interact with our Service, we may automatically receive and record information on our server logs from your browser or device, which may include your IP address, device identification, "cookie" information, web beacons, the type of browser and/or device you're using to access our Service, domain name server and the page or feature you requested (“tracking information”). In addition, when using the Site, Clari and its partners may use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. "Cookies" are identifiers we transfer to your browser or device that allow us to recognize your browser or device and tell us how and when pages and features in our Service are visited and by how many people. You may be able to change the preferences on your browser or device to prevent or limit your device's acceptance of cookies, but this may prevent you from taking advantage of some of our features. When we collect the usage information described in this paragraph, we only use this data in aggregate form. For example, this aggregate data can tell us how often users use a particular feature of the Service, and we can use that knowledge to make the Service valuable to as many users as possible.
+Whenever you interact with our Service, we may automatically receive and record information on our server logs from your browser or device, which may include your IP address, device identification, "cookie" information, web beacons, the type of browser and/or device you're using to access our Service, domain name server and the page or feature you requested (“tracking information”), in order to analyze product usage patterns. In addition, when using the Site, Clari and its partners may use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. "Cookies" are identifiers we transfer to your browser or device that allow us to recognize your browser or device and tell us how and when pages and features in our Service are visited and by how many people. You may be able to change the preferences on your browser or device to prevent or limit your device's acceptance of cookies, but this may prevent you from taking advantage of some of our features. When we collect the usage information described in this paragraph, we only use this data in aggregate form. For example, this aggregate data can tell us how often users use a particular feature of the Service, and we can use that knowledge to make the Service valuable to as many users as possible.
 
 ##### Social Media Features
 
@@ -73,7 +77,7 @@ Clari uses your Information as follows:
   * We will use your contact information to provide you with notices related to your use of the Service.
   * We will use your contact information (such as, your email address) to provide you with training and marketing emails. You can opt-out of receiving certain types of training and marketing emails - but in such case you may not receive the full benefit of the Service. Opting-out can be done by clicking the "manage email settings" link at the bottom of every email.
   * To help personalize the Service experience for you (such as, remembering your information so you will not have to enter it each time you use the Service).
-  * And for the other purposes referenced in the "Will Clari Share And of the Information it Receives" section below (such as, for the purposes of legal compliance).
+  * And for the other purposes referenced in the "Will Clari Share Any of the Information it Receives" section below (such as, for the purposes of legal compliance).
   * In addition, Required Contact Information collected when you visit the Site is used as follows:
   * Marketing activities such as emails, promotional mail designed to generate leads
   * Inform you of upcoming events, product or service updates
@@ -105,7 +109,7 @@ In some cases, we may choose to buy or sell assets. In these types of transactio
 
 ##### Protection of Clari and Others
 
-We may release Information when we believe in good faith that release is necessary to comply with the law or other legal processes; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of Clari, our employees, our users, or others.
+We may be required to disclose personal data in response to lawful requests by public authorities, including meeting national security or law enforcement requirements. We may also disclose your personal information as required by law, such as to comply with a subpoena or other legal process, when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request. 
 
 ##### With Your Consent
 
@@ -165,7 +169,7 @@ In addition to the security measures referenced above, your Service account is p
 
 #### Changes to this Privacy Policy
 
-This Privacy Policy was last changed on the date set forth at the top of the policy. We're constantly trying to improve the Service, so we may need to change this Privacy Policy from time to time as well, but we will alert you to changes by placing a notice on the [www.clari.com/privacy](http://www.clari.com/privacy), by sending you an email, providing a notification through your Service account, and/or by some other means. In addition, we will also edit the date at the top of this policy to reflect the date of the changes. Please note that if you've opted not to receive legal notice emails from us (or you haven't provided us with your email address), those legal notices will still govern your use of the Service, and you are still responsible for reading and understanding them. If you use the Service after any changes to the Privacy Policy have been posted, that means you agree to all of the changes. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is collected.
+This Privacy Policy was last changed on the date set forth at the top of the policy. We're constantly trying to improve the Service, so we may need to change this Privacy Policy from time to time as well, but we will alert you to changes by placing a revision notice on this page, and if changes are significant, by sending you an email, providing a notification through your Service account, or by some other means. In addition, we will also edit the date at the top of this policy to reflect the date of the changes. Please note that if you've opted not to receive legal notice emails from us (or you haven't provided us with your email address), those legal notices will still govern your use of the Service, and you are still responsible for reading and understanding them. If you use the Service after any changes to the Privacy Policy have been posted, that means you agree to all of the changes. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is collected.
 
 #### Contacting Us
 
