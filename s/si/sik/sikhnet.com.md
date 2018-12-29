@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sikhnet.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629034330id_/https%3A//www.sikhnet.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sikhnet.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229061003id_/http%3A//www.sikhnet.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SikhNet
 
@@ -211,4 +211,4 @@ Consistent with the requirements of the Children’s Online Privacy Protection A
 
 #### **HOW TO CONTACT US**
 
-If you have additional questions, please contact our Customer Support service at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5e2d2b2e2e312c2a1e0d373536103b2a703d3133).
+If you have additional questions, please contact our Customer Support service at [support@SikhNet.com](mailto:support@SikhNet.com).
