@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the cxmagazine.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120055322id_/https%3A//www.cxmagazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cxmagazine.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229180119id_/https%3A//www.cxmagazine.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Cyclocross Magazine - Cyclocross News, Races, Bikes, Photos, Videos
+
+  
+We use Ezoic to provide personalization and analytic services on this website, as such Ezoic's privacy policy is in effect and can be reviewed [here](https://g.ezoic.net/privacy/cxmagazine.com).  
+
 
 **What information do we collect?**
 
@@ -58,7 +62,7 @@ Cyclocross Magazine LLC
 
 Mountain View, California 94041  
 United States  
-info@cxmagazine.com  
+[[email protected]](https://www.cxmagazine.com/cdn-cgi/l/email-protection)  
 (650) 450-9499
 
 > [Home Page](https://www.cxmagazine.com/)
