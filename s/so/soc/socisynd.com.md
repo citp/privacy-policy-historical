@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socisynd.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628090553id_/http%3A//socisynd.com/privicypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socisynd.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229064056id_/http%3A//www.socisynd.com/privicypolicy.html) for the most accurate reproduction.*
 
 # SociSynd
 
