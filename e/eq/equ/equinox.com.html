@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the equinox.com privacy policy that was archived on 2017-09-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170911212652id_/https%3A//www.equinox.com/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the equinox.com privacy policy that was archived on 2018-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181229172037id_/https%3A//www.equinox.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head><script src="https://js-agent.newrelic.com/nr-1044.min.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"325801c55a","applicationID":"4570406","transactionName":"ZVNbZhQFD0EHAhFcV1wZdGQlSzFTAQQWdldcQktdCggEQEkxBFJd","queueTime":0,"applicationTime":13,"agent":"","atts":""}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Ug4CVFFXGwcFU1FWBwc="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,n,e)])}catch(s){try{i("ierr",[s,c.now(),!0])}catch(u){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t){i("err",[t,c.now()])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,n,e){u&&(d+=1)}),s.on("fn-err",function(t,n,e){u&&(this.thrown=!0,o(e))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):w?w(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!w&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1044.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script>
+<!DOCTYPE html><html><head><script src="https://js-agent.newrelic.com/nr-1099.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"325801c55a","applicationID":"4570406","transactionName":"ZVNbZhQFD0EHAhFcV1wZdGQlSzFTAQQWdldcQktdCggEQEkxBFJd","queueTime":0,"applicationTime":14,"agent":"","atts":""}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Ug4CVFFXGwcFU1FWBwc="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(16),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(17),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,v="fn"+h,w="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(v,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(v,function(t,n){i(w,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(v,function(t,n){i(w,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(19)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(19)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(19)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(19)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):v?v(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(19)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,v=l.SI,w="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(w,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!v&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===w||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(16),s=t(17),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){if(!o)return!1;if(t!==o)return!1;if(!n)return!0;if(!i)return!1;for(var e=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==e[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(o="Safari",i=c[1])}n.exports={agent:o,version:i,match:r}},{}],16:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],17:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],18:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],19:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(17),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=m(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[g[e]];return d&&d.push([b,e,r,a]),a}}function p(t,n){y[t]=m(t).concat(n)}function h(t,n){var e=y[t];if(e)for(var r=0;r<e.length;r++)e[r]===n&&e.splice(r,1)}function m(t){return y[t]||[]}function v(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",g[e]=n,n in u||(u[n]=[])})}var y={},g={},b={on:p,addEventListener:p,removeEventListener:h,emit:e,get:v,listeners:m,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(16),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!E++){var t=x.info=NREUM.info,n=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(g,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+x.offset],null,"api");var e=p.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===p.readyState&&i()}function i(){c("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-x.offset}var s=(new Date).getTime(),c=t("handle"),f=t(16),u=t("ee"),d=t(15),l=window,p=l.document,h="addEventListener",m="attachEvent",v=l.XMLHttpRequest,w=v&&v.prototype;NREUM.o={ST:setTimeout,SI:l.setImmediate,CT:clearTimeout,XHR:v,REQ:l.Request,EV:l.Event,PR:l.Promise,MO:l.MutationObserver};var y=""+location,g={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1099.min.js"},b=v&&w&&w[h]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:s,now:a,origin:y,features:{},xhrWrappable:b,userAgent:d};t(12),p[h]?(p[h]("DOMContentLoaded",i,!1),l[h]("load",r,!1)):(p[m]("onreadystatechange",o),l[m]("onload",r)),c("mark",["firstbyte",s],null,"api");var E=0,O=t(18)},{}]},{},["loader",2,10,4,3]);</script>
     <style>
 .loader .loader-circles, .loader-overlay .loader-circles {
   -webkit-animation: bouncedelay 1.4s infinite ease-in-out;
@@ -27,241 +27,365 @@
 <meta property="og:title" content="EQUINOX - IT'S NOT FITNESS. IT'S LIFE.">
 <meta property="og:description" content="Voted Best Gym in America by Fitness Magazine. Equinox isn’t just a fitness club, it’s a temple of well-being. With world-class personal trainers, group fitness experiences and luxurious spas, our fitness clubs deliver substance and style in some of the world’s most sought-after destinations. Get results with Equinox. Become a Member Today! ">
 <meta property="og:url" content="https://www.equinox.com/privacy">
-<meta property="og:image" content="https://www.equinox.com/assets/images/sharing/equinox_logo.jpg">
+<meta property="og:image" content="https://media.cdn-equinox.com/website/assets/images/sharing/equinox_logo.jpg">
 <meta property="og:site_name" content="Equinox.com">
 <meta property="fb:admins" content="Equinox">
 
-<link rel="canonical" href="www.equinox.com/privacy">
+<link rel="canonical" href="https://www.equinox.com/privacy">
 <link rel="manifest" href="/manifest.json">
     
-<link href="https://media2.equinox.com/assets/css/equinox.css?12b37e3f5ca77d" rel="stylesheet" type="text/css">
-<link href="https://media2.equinox.com/assets/css/equinox-medium.css?12b37e001c8d9f" media="screen and (min-width: 768px)" rel="stylesheet" type="text/css">
-<link href="https://media2.equinox.com/assets/css/equinox-large.css?12b37dfe52f0a0" media="screen and (min-width: 1024px)" rel="stylesheet" type="text/css">
-<link href="https://media2.equinox.com/assets/css/equinox-extralarge.css?12b37dfcfb762e" media="screen and (min-width: 1920px)" rel="stylesheet" type="text/css">
-    
-    <link href="https://media2.equinox.com/assets/images/favicon.ico?12a18dcba76e00" rel="shortcut icon" type="image/x-icon"><link href="https://media2.equinox.com/assets/images/favicon.ico?12a18dcba76e00" rel="icon" type="image/x-icon"><link href="https://media2.equinox.com/assets/images/favicon.ico?12a18dcba76e00" rel="apple-touch-icon"><link href="https://media2.equinox.com/assets/images/favicon.ico?12a18dcba76e00" rel="apple-touch-icon-precomposed">
 
-    <!--[if lt IE 9]>
-        <link href="https://media2.equinox.com/assets/css/equinox-ie.css?12b37dfd670912" media="screen" rel="stylesheet" type="text/css" />
-        <script src="https://media2.equinox.com/assets/js/vendor/bower_components/json3/lib/json3.min.js?12a18dd06c2200" type="text/javascript"></script>
-    <![endif]-->
-    <!-- Modernizr -->
-    <script src="https://media2.equinox.com/assets/js/vendor/modernizr.min.js?12a18dd235e580" type="text/javascript"></script>
+<link href="https://media2.equinox.com/assets/6.2.3.1/css/libs.css?142435fcb863bd" rel="stylesheet" type="text/css">
+<link href="https://media2.equinox.com/assets/6.2.3.1/css/style.css?142435fc1fa1ed" rel="stylesheet" type="text/css">
+
+<link href="https://media2.equinox.com/assets/6.2.3.1/css/equinox.css?142435fd894d68" rel="stylesheet" type="text/css">
+<link href="https://media2.equinox.com/assets/6.2.3.1/css/equinox-medium.css?142435fc5f9251" media="screen and (min-width: 768px)" rel="stylesheet" type="text/css">
+<link href="https://media2.equinox.com/assets/6.2.3.1/css/equinox-large.css?142435fbbe44d2" media="screen and (min-width: 1024px)" rel="stylesheet" type="text/css">
+<link href="https://media2.equinox.com/assets/6.2.3.1/css/equinox-extralarge.css?142435fb53726e" media="screen and (min-width: 1920px)" rel="stylesheet" type="text/css">
+
+    <link href="https://media2.equinox.com/assets/6.2.3.1/images/favicon.ico?1424361d0ae476" rel="shortcut icon" type="image/x-icon"><link href="https://media2.equinox.com/assets/6.2.3.1/images/favicon.ico?1424361d0ae476" rel="icon" type="image/x-icon"><link href="https://media2.equinox.com/assets/6.2.3.1/images/favicon.ico?1424361d0ae476" rel="apple-touch-icon"><link href="https://media2.equinox.com/assets/6.2.3.1/images/favicon.ico?1424361d0ae476" rel="apple-touch-icon-precomposed">
     <script src="//assets.adobedtm.com/622415e8d5fc8897871fbd8b8d7ac9505137a57b/satelliteLib-a9d8cd3a4f02f240d459b5281c3bf39ddceb24cc.js"></script>
-    <script>
-        var tagData = {};
-    </script>
+    <script src="https://media2.equinox.com/assets/6.2.3.1/js/lib/tag-manager.js?142436111c5cf3" type="text/javascript"></script>
+
+
     
 </head>
-<body data-layout="MainLayout" data-aset-base-url="https://media2.equinox.com" data-app-version="5.5.2.0" class="">
+<body data-layout="MainLayout" data-assets-base-url="https://media2.equinox.com" data-assets-path="assets/6.2.3.1" class="">
+    <script type="text/javascript">
+        var isSportclub = document.querySelector('body').classList.contains('classSportsClub');
+    </script>
+    
+<div id="apiSettings" data-dynamic-data="{
+    &quot;APIBaseUrl&quot; : &quot;//api.equinox.com&quot;,
+    &quot;APIEndpoint&quot; : &quot;//api.equinox.com/v1&quot;,
+    &quot;APIEndpoint2&quot; : &quot;//api.equinox.com/v2&quot;,
+    &quot;APIEndpoint23&quot; : &quot;//api.equinox.com/v2.3&quot;,
+    &quot;APIEndpoint26&quot; : &quot;//api.equinox.com/v2.6&quot;,
+    &quot;APIEndpoint3&quot; : &quot;//api.equinox.com/v3&quot;,
+    &quot;APIEndpoint31&quot; : &quot;//api.equinox.com/v3.1&quot;,
+    &quot;MainDomain&quot; : &quot;//www.equinox.com&quot;,
+    &quot;APIUrl&quot; : &quot;//api.equinox.com&quot;,
+    &quot;PaymentAppURL&quot; : &quot;//payment.equinox.com&quot;,
+    &quot;EnableSPF&quot; : &quot;1&quot;,
+    &quot;EnablePTSPF&quot; : &quot;1&quot;
+ }"></div>
 
-<nav class="main-transparent is-mobile" data-component="navigation">
-    <a href="" class="menu icon-menu is-mobile"></a>
-    <a href="" class="icon-close is-hidden"></a>
-</nav>
-<div data-component="search-menu-box" class="search-menu-box">
-    <nav class="logged-in-submenu is-mobile">
-        <a href="" class="icon-search"></a>
-    </nav>
+
+
+
+<div class="design-2017">
+    <header class="main-header">
+        <nav class="navbar navbar-fixed main-navbar navbar-toggleable-md navbar-dark bg-inverse logged-out" id="main-navbar">
+            <div class="container">
+                <a href="#" class="menu-icon icon-menu" data-toggle="collapse" data-target=".navbar-collapse"></a>
+                <a class="navbar-brand" href="/"><img src="https://media.cdn-equinox.com/website/Images/Logo/equinox-logo.png" alt="logo"></a>  
+                <div class="collapse navbar-collapse navbar-menu" id="navbar-menu">
+                    <ul class="navbar-nav main-links" id="main-links">
+                                    <li class="nav-item "><a class="nav-link menu-clubs" href="/clubs?icmp=topnav-clubs" target="_self">CLUBS</a></li>
+                                    <li class="nav-item "><a class="nav-link menu-classes" href="/groupfitness?icmp=topnav-groupfitness" target="_self">CLASSES</a></li>
+                                    <li class="nav-item "><a class="nav-link menu-personal training" href="/personaltraining?icmp=topnav-personaltraining" target="_self">Personal Training</a></li>
+                                    <li class="nav-item "><a class="nav-link menu-pilates" href="/pilates?icmp=topnav-pilates" target="_self">PILATES</a></li>
+                                    <li class="nav-item "><a class="nav-link menu-shop" href="/shop?icmp=topnav-shop" target="_self">Shop</a></li>
+                                    <li class="nav-item "><a class="nav-link menu-spa" href="/spa?icmp=topnav-spa" target="_self">SPA</a></li>
+                                    <li class="nav-item "><a class="nav-link menu-magazine" href="https://furthermore.equinox.com?icmp=topnav-furthermore" target="_blank">MAGAZINE</a></li>
+                                    <li class="nav-item "><a class="nav-link menu-hotel" href="/hotels?icmp=topnav-hotels" target="_self">Hotel</a></li>
+                                    <li class="nav-item "><a class="nav-link menu-member benefits" href="/memberbenefits?icmp=topnav-memberbenefits" target="_self">Member Benefits</a></li>
+                    </ul>
+
+                    <ul class="navbar-nav secondary-links ml-auto" id="secondary-links">
+                                    <li id="livechat-header" class="">
+                                        <a class="menu-chat" href="#" style="visibility: hidden; display: none;">CHAT</a>
+                                    </li>
+                                    <li id="livechat-header-mobile" class="">
+                                        <a class="highlight menu-chat" href="#" style="visibility: hidden; display: none;">CHAT</a>
+                                    </li>
+                                    <li><a class="menu-visit a club" href="#leadpopup" data-toggle="modal">Visit A Club</a></li>
+                                    <li id="" class="">
+                                        <a class="highlight menu-join" href="/join-membership/step1?icmp=topnav-join">JOIN</a>
+                                    </li>
+                                    <li id="" class="">
+                                        <a class="highlight menu-log in" href="/login">Log In</a>
+                                    </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
 </div>
-<nav class="main logged-out" data-component="navigation">
-    <!-- Mobile Menu -->
-    <div class="links-wrapper is-mobile">
 
-        <ul class="main-links">
-                        <li class=""><a class="menu-clubs" href="/clubs?icmp=topnav-clubs" target="_self">CLUBS</a></li>
-                        <li class=""><a class="menu-classes" href="/groupfitness?icmp=topnav-groupfitness" target="_self">CLASSES</a></li>
-                        <li class=""><a class="menu-training" href="/personaltraining?icmp=topnav-personaltraining" target="_self">TRAINING</a></li>
-                        <li class=""><a class="menu-pilates" href="/pilates?icmp=topnav-pilates" target="_self">PILATES</a></li>
-                        <li class=""><a class="menu-spa" href="/spa?icmp=topnav-spa" target="_self">SPA</a></li>
-                        <li class=""><a class="menu-spotlight" href="/regeneration?icmp=spotlight-topnav-regeneration" target="_self">Spotlight</a></li>
-                        <li class=""><a class="menu-magazine" href="http://furthermore.equinox.com?icmp=topnav-furthermore" target="_blank">MAGAZINE</a></li>
-                        <li class=""><a class="menu-hotel" href="/hotels?icmp=topnav-hotels" target="_self">Hotel</a></li>
-                        <li class=""><a class="menu-join" href="/join-membership/step1?icmp=topnav-join" target="_self">JOIN</a></li>
-        </ul>
 
-        <ul class="secondary-links">
-                    <li id="livechat-header-mobile" class="">
-                        <a class="highlight menu-chat" href="#" style="visibility: hidden; display: none;">CHAT</a>
-                    </li>
-                    <li class=""><a class="menu-visit us" href="#leadpopup">VISIT US</a></li>
-                    <li class="">
-                        <a class="highlight menu-member log in" href="/login">MEMBER LOG IN</a>
-                    </li>
-        </ul>
+    
 
-        <ul class="member-dropdown">
-                    <li><a href="" class="logout-link" data-component="logout" data-bypass="true">Logout</a></li>
-        </ul>
-    </div>
-
-    <!-- Login Button -->
-    <div class="login-tab is-tablet is-desktop">
-        <a href="/login">Member Login</a>
-    </div>
-    <!-- Full Navigation -->
-    <div class="full-wrapper">
-        <h1 class="logo">
-            <a href="/">
-                <img src="https://media2.equinox.com/cms/images/b672a740-4afd-4713-999e-8e0c35fe9a69/en-us/equinox-logo.png" alt="Equinox">
-            </a>
-        </h1>
-
-        <div class="links-wrapper is-tablet is-desktop">
-            <ul class="main-links">
-                            <li class=""><a class="menu-clubs" href="/clubs?icmp=topnav-clubs" target="_self">CLUBS</a></li>
-                            <li class=""><a class="menu-classes" href="/groupfitness?icmp=topnav-groupfitness" target="_self">CLASSES</a></li>
-                            <li class=""><a class="menu-training" href="/personaltraining?icmp=topnav-personaltraining" target="_self">TRAINING</a></li>
-                            <li class=""><a class="menu-pilates" href="/pilates?icmp=topnav-pilates" target="_self">PILATES</a></li>
-                            <li class=""><a class="menu-spa" href="/spa?icmp=topnav-spa" target="_self">SPA</a></li>
-                            <li class=""><a class="menu-spotlight" href="/regeneration?icmp=spotlight-topnav-regeneration" target="_self">Spotlight</a></li>
-                            <li class=""><a class="menu-magazine" href="http://furthermore.equinox.com?icmp=topnav-furthermore" target="_blank">MAGAZINE</a></li>
-                            <li class=""><a class="menu-hotel" href="/hotels?icmp=topnav-hotels" target="_self">Hotel</a></li>
-                            <li class=""><a class="menu-join" href="/join-membership/step1?icmp=topnav-join" target="_self">JOIN</a></li>
-            </ul>
-
-            <ul class="secondary-links">
-                        <li id="livechat-header" class="">
-                                <a class="menu-chat" href="#" style="visibility: hidden; display: none;">CHAT</a>
-                        </li>
-                        <li class=""><a class="menu-visit us" href="#leadpopup">VISIT US</a></li>
-                        <li class="">
-                                <a class="menu-member log in" href="/login">MEMBER LOG IN</a>
-                        </li>
-                            </ul>
-
-            <ul class="member-dropdown member-desktop">
-                        <li><a href="" class="logout-link" data-component="logout" data-bypass="true">Logout</a></li>
-            </ul>
+    <div class="hidden">
+        <nav class="main-transparent is-mobile" data-component="navigation">
+            <a href="" class="menu icon-menu is-mobile"></a>
+            <a href="" class="icon-close is-hidden"></a>
+        </nav>
+        <div data-component="search-menu-box" class="search-menu-box">
+            <nav class="logged-in-submenu is-mobile">
+                <a href="" class="icon-search"></a>
+            </nav>
         </div>
+        <nav class="main logged-out" data-component="navigation">
+            <!-- Mobile Menu -->
+            <div class="links-wrapper is-mobile">
+
+                <ul class="main-links">
+                <li class=""><a class="menu-clubs" href="/clubs?icmp=topnav-clubs" target="_self">CLUBS</a></li>
+                <li class=""><a class="menu-classes" href="/groupfitness?icmp=topnav-groupfitness" target="_self">CLASSES</a></li>
+                <li class=""><a class="menu-personal training" href="/personaltraining?icmp=topnav-personaltraining" target="_self">Personal Training</a></li>
+                <li class=""><a class="menu-pilates" href="/pilates?icmp=topnav-pilates" target="_self">PILATES</a></li>
+                <li class=""><a class="menu-shop" href="/shop?icmp=topnav-shop" target="_self">Shop</a></li>
+                <li class=""><a class="menu-spa" href="/spa?icmp=topnav-spa" target="_self">SPA</a></li>
+                <li class=""><a class="menu-magazine" href="https://furthermore.equinox.com?icmp=topnav-furthermore" target="_blank">MAGAZINE</a></li>
+                <li class=""><a class="menu-hotel" href="/hotels?icmp=topnav-hotels" target="_self">Hotel</a></li>
+                <li class=""><a class="menu-member benefits" href="/memberbenefits?icmp=topnav-memberbenefits" target="_self">Member Benefits</a></li>
+                </ul>
+
+                <ul class="secondary-links">
+                <li id="livechat-header-mobile" class="">
+                    <a class="highlight menu-chat" href="#">CHAT</a>
+                </li>
+                <li class=""><a class="menu-visit a club" href="#leadpopup">Visit A Club</a></li>
+                <li class="">
+                    <a class="highlight menu-join" href="/join-membership/step1?icmp=topnav-join">JOIN</a>
+                </li>
+                <li class="">
+                    <a class="highlight menu-log in" href="/login">Log In</a>
+                </li>
+                </ul>
+
+                <ul class="member-dropdown">
+                <li><a href="" class="logout-link" data-component="logout" data-bypass="true">Logout</a></li>
+                </ul>
+            </div>
+
+            <!-- Login Button -->
+            <div class="login-tab is-tablet is-desktop">
+                <a href="/login">Member Login</a>
+            </div>
+            <!-- Full Navigation -->
+            <div class="full-wrapper">
+
+                <div class="links-wrapper is-tablet is-desktop">
+                    <ul class="main-links">
+                                    <li class=""><a class="menu-clubs" href="/clubs?icmp=topnav-clubs" target="_self">CLUBS</a></li>
+                                    <li class=""><a class="menu-classes" href="/groupfitness?icmp=topnav-groupfitness" target="_self">CLASSES</a></li>
+                                    <li class=""><a class="menu-personal training" href="/personaltraining?icmp=topnav-personaltraining" target="_self">Personal Training</a></li>
+                                    <li class=""><a class="menu-pilates" href="/pilates?icmp=topnav-pilates" target="_self">PILATES</a></li>
+                                    <li class=""><a class="menu-shop" href="/shop?icmp=topnav-shop" target="_self">Shop</a></li>
+                                    <li class=""><a class="menu-spa" href="/spa?icmp=topnav-spa" target="_self">SPA</a></li>
+                                    <li class=""><a class="menu-magazine" href="https://furthermore.equinox.com?icmp=topnav-furthermore" target="_blank">MAGAZINE</a></li>
+                                    <li class=""><a class="menu-hotel" href="/hotels?icmp=topnav-hotels" target="_self">Hotel</a></li>
+                                    <li class=""><a class="menu-member benefits" href="/memberbenefits?icmp=topnav-memberbenefits" target="_self">Member Benefits</a></li>
+                    </ul>
+
+                    <ul class="secondary-links">
+                                <li id="livechat-header" class="">
+                                    <a class="menu-chat" href="#">CHAT</a>
+                                </li>
+                                <li class=""><a class="menu-visit a club" href="#leadpopup">Visit A Club</a></li>
+                                <li class="">
+                                    <a class="menu-join" href="/join-membership/step1?icmp=topnav-join">JOIN</a>
+                                </li>
+                                <li class="">
+                                    <a class="menu-log in" href="/login">Log In</a>
+                                </li>
+                                            </ul>
+
+                    <ul class="member-dropdown member-desktop">
+                                <li><a href="" class="logout-link" data-component="logout" data-bypass="true">Logout</a></li>
+                    </ul>
+                </div>
+            </div>
+
+        </nav>
+
     </div>
-
-</nav>
-
-<script>
-    var userProfileJson = {"ContactId":null,"EmailAddress":null,"FacebookId":null,"FacilityId":null,"FirstName":null,"HasAnsweredOnboardingQuestions":null,"HasTrainer":null,"IsActive":null,"IsEligibleForEquifit":null,"IsEquinoxMember":null,"IsFacebookLinked":null,"IsMembershipActive":false,"IsSocialRegistration":null,"IsSpaBizCustomer":null,"SpaBizCustomerId":null,"LastName":null,"MemberCategory":null,"MembershipExpirationDate":null,"MembershipStatus":null,"MiddleName":null,"IsNetpulseConnected":false,"PilotPrograms":null,"Salutation":null,"ShareId":null,"SourceSystem":0,"TimeZone":null,"TrackingId":null,"Username":null,"UserType":0,"Gender":null,"SalesForceId":null};
-</script>    
+    <script>
+        var userProfileJson = {"ContactId":null,"EmailAddress":null,"FacebookId":null,"FacilityId":null,"FirstName":null,"HasAnsweredOnboardingQuestions":null,"HasTrainer":null,"IsActive":null,"IsEligibleForEquifit":null,"IsEquinoxMember":null,"IsFacebookLinked":null,"IsMembershipActive":false,"IsSocialRegistration":null,"IsSpaBizCustomer":null,"SpaBizCustomerId":null,"LastName":null,"MemberCategory":null,"MembershipExpirationDate":null,"MembershipStatus":null,"MiddleName":null,"IsNetpulseConnected":false,"PilotPrograms":null,"Salutation":null,"ShareId":null,"SourceSystem":0,"TimeZone":null,"TrackingId":null,"Username":null,"UserType":0,"Gender":null,"SalesForceId":null};
+    </script>
+    
 <div class="page privacy  ">
-                <div class="module tpl-htmlcallout dtm-copy-of-privacyhtmlcallout" data-title="copy-of-privacyhtmlcallout">
+                <div class="module tpl-htmlcallout dtm-privacyhtmlcallout-7-5-18" data-title="privacyhtmlcallout-7-5-18">
                     <div class=" html-callout" data-hash="">
-    <center><strong>DIGITAL PRIVACY POLICY</strong></center>
-<p>This Digital Privacy Policy (“<strong>Privacy Policy</strong>”) describes the privacy practices of Equinox Holdings, Inc. and its subsidiaries operating under the EQUINOX brand (“<strong>Equinox</strong>”) in connection with the Equinox websites and the applications designed for download and use by Equinox members on mobile devices (collectively, “<strong>Digital Properties</strong>”).  By using the Digital Properties, and the features and services made available through the Digital Properties, you are acknowledging that you have read, understand and agreed to the terms and conditions of this Privacy Policy and expressly consent to our collection, use and disclosure of your personal information, as described in this Privacy Policy.
-</p>
-<p>We use the personal information collected through the Digital Properties in an effort to fulfill our commitment to offering and providing unparalleled member service.  This Privacy Policy is intended to describe the personal information that is collected from users of the Digital Properties and how it is used and disclosed by or on behalf of Equinox.
-</p>
-<p>This Privacy Policy may change as we continue to evolve our business, as well as the Digital Properties and the features and services made available through the Digital Properties. If we change this Privacy Policy, we will post the revised document here, and such changes will be effective immediately upon that posting.  Your continued use of the Digital Properties constitutes your acceptance of such changes and agreement to be bound by the modified Privacy Policy, and so we recommend that you review this Privacy Policy periodically when accessing or using the Digital Properties.
-</p>
-<p>This Privacy Policy was last updated on: <strong>March 15, 2017
-</strong></p>
-<p><strong>WHAT INFORMATION WE COLLECT:
-</strong></p>
-<p>When you access and use the Digital Properties, we may directly or indirectly collect information that identifies or relates to you, which includes, without limitation:
-</p>
-<p><strong>Contact and Demographic Information:</strong> Information on how to contact you, such as your name, e-mail address, mobile or other phone number, mailing address and zip code, which you may provide to us when, for example, you inquire about our company, membership, or your account, or when you subscribe to receive one of our mailing lists.  This may also include certain demographic information such as date of birth, age and gender.
-</p>
-<p><strong>Registration and Membership Information:</strong> Information provided when you establish an account on the Digital Properties, such as your email address, username, password, and other contact information provided, as well as information you provide in connection with your Digital Properties account, such as a profile picture.  If you are an Equinox member, we may also collect your membership number and information, as well as information about how you use and interact with Equinox clubs and the Digital Properties, such as when you use our Digital Properties to check-in to an Equinox club, log a workout, book a class or add it to your schedule, purchase training sessions, or schedule personal training or spa appointments.  If you have established a Digital Properties account, you may log in to it in order to review and update your information and preferences.
-</p>
-<p><strong>Transaction Information:</strong> Information related to your purchase(s) of goods and services through the Digital Properties, such as your credit/debit card information, billing address, the goods and services purchased, and other related transaction information.
-</p>
-<p><strong>Usage Information:</strong> Information about your Internet connection, browser, or computer/device, IP address or device ID, and information on how you use and interact with the Digital Properties, such as pages or features you access.
-</p>
-<p><strong>Social Media and Third Party Apps:</strong> If you link your social media profiles and accounts to the Digital Properties, or otherwise interact with the Digital Properties through social media networks (e.g., by clicking a Facebook “like” button), information may be made available to, and collected by, the Digital Properties and Equinox through those social media profiles and accounts.  In addition, if you elect to connect any third-party fitness devices or third party applications (collectively “Third Party Apps”) to the Digital Properties in order to utilize certain features and functionalities, we may collect information about you from such Third Party Apps.
-</p>
-<p><strong>HOW WE USE PERSONAL INFORMATION:
-</strong></p>
-<p>We use the personal information collected through our Digital Properties to provide you with the services and products you request, to deliver a more relevant and curated experience with the Digital Properties and relationship with Equinox, and to satisfy our other business purposes and needs. This may include, without limitation, using that information in connection with:
-</p>
-<p><strong>Transaction Fulfillment: </strong>Providing you with the goods, services or information you have requested, and to respond to inquiries, requests and comments from you.
-</p>
-<p><strong>Promotional Materials:</strong> Communicating special offers, promotions and information about our company and service offerings to you via email or to you mailing address, if you have provided one.  We may also send you newsletters and information about products, services and promotions of our business partners and affiliates.  If you do not wish to receive these promotional emails, you can opt out of future promotional mailings by clicking on the unsubscribe link located on the bottom of the relevant promotional email or, if you maintain an account on our Digital Properties, you can also unsubscribe to promotional mailings at any time by adjusting your communications preferences within your account.  Although we strive to update our email list as frequently as possible, you might receive another promotional email before we are able to remove you from our lists.  If you are a member, please note that even if you opt-out of receiving promotional emails, you will continue to receive Membership Communications, such notices regarding billing or club operations (e.g., change in open hours), as described below.
-</p>
-<p><strong>Text Communications:</strong> The Digital Properties may allow you to elect to communicate with Equinox by using text message, including in connection with scheduling a visit to one of our Equinox locations.  By electing to receive text messages, you are expressly consenting to receiving text messages made using an automatic telephone dialing system from Equinox or its service providers, and you also understand and agree that data rates and charges may apply and that you are solely responsible for all associated costs assessed by your telecommunication carrier or provider.  Providing this consent is not a condition of becoming a member of Equinox or receiving any goods or services from Equinox.
-</p>
-<p>You may opt out from receiving text message at any time by either replying STOP or END to a text you have from Equinox or by texting STOP or END to (646) 357-9500 at any time.  Please note that you may receive a confirmation text acknowledging you have unsubscribed.  Please allow 5 business days to process your request.
-</p>
-<p><strong>Membership Communications:</strong> Providing members with administrative communications, announcements and information about your membership such as information regarding club hours or billing reminders.  Equinox may use any contact information held on file (including email, mailing address, telephone or mobile phone and fax) to communicate with a member in relation to day-to-day administrative activities, such as freeze requests, online purchases and important service alerts.
-</p>
-<p><strong>Personalized Experience: </strong>Delivering a more relevant and curated experience to members, including by recommending services or content we think members will enjoy.  As part of our efforts to provide members with a more personalized experience, we may combine the information regarding a member and collected through the Digital Properties with other information that we have collected from a member in the course of his or her relationship with Equinox, including, without limitation, information collected offline when the member checks in to and use our facilities, information the member volunteers when completing assessments and questionnaires regarding physical health, nutrition and fitness goals, and information about the member, such as training logs, provided by personal trainers and other Equinox staff.
-</p>
-<p><strong>Business Purposes and Research:</strong> Analyzing and improving the services we offer (including on or through the Digital Properties), better understanding our business and members, evaluating products and services that may be of interest to you, and carrying out internal purposes and research and otherwise operating our business.  This may include aggregating information regarding you across our entire user base or part of our user base.
-</p>
-<p><strong>HOW WE SHARE INFORMATION:</strong></p>
-<p>Except as described in this Privacy Policy or in other situations where we have otherwise provided clear prior notice to you, Equinox does not sell, rent or otherwise share your name, e-mail address, or any other personally identifiable information to unaffiliated third parties.  We may, however, share information for the following reasons and with the following persons:
-</p>
-<p><strong>Agents and Service Providers:</strong> We employ other companies and individuals to perform functions on our behalf.  Examples include creating and maintaining our Digital Properties, sending postal mail and e-mail, managing and updating customer lists, analyzing data, providing marketing assistance and providing customer service. They have access to your personal information in order to perform their functions, but may not use it for other purposes.
-</p>
-<p><strong>Social Media and Third Party Apps: </strong>We may share information with social networks when you interact with the Digital Properties (e.g., a clicking a Facebook “like” button) or connect your social media accounts to the Digital Properties.  If you elect to connect Third Party Apps to the Digital Properties, your information may also be shared with these third parties.  Please see below for more information on this, as we do not control these third parties or their privacy practices.
-</p>
-<p><strong>Compliance and Protection: </strong>We reserve the right to disclose any personal information we have concerning you if we determine doing so is necessary or desirable to: comply with our obligations under the law or in connection with any legal process or investigative or governmental requests; enforce or apply our Terms of Use and other agreements; or protect the rights, property, or safety of Equinox, its affiliates, our users, members or employees, or others.  This includes exchanging information with other companies and organizations for fraud protection, as well as providing information to law enforcement and governmental authorities.
-</p>
-<p><strong>Corporate Transactions:</strong> In the event of a reorganization, merger or sale of Equinox or any of its affiliates, we may transfer any and all personal information we have collected to the relevant third party.
-</p>
-<p><strong>Aggregated Information:</strong> We may also share aggregated statistical data with partners that includes your demographic or other information but does not identify you.  We reserve the right to provide any and all such aggregated and de-identified data to third parties.
-</p>
-<p><strong>USE OF COOKIES:
-</strong></p>
-<p>We use cookies and similar technologies such as web beacons to enhance your experience on our Digital Properties. For example, a cookie enables us to remember the region or specific club page you have visited so the next time you return to our site you do not have to select that club or region again.
-</p>
-<p>You can adjust how your Internet browser (like Chrome or Safari) responds to cookies (e.g., to warn you every time a cookie is sent, or to turn off all cookies). See your browser's Help menu for these instructions. By disabling your cookies, please understand you will not have access to some of the features that enhance your user experience on the Digital Properties.
-</p>
-<p>Equinox does not currently allow third parties to collect personally identifiable information about your online activities over time and across different websites when that individual uses the Digital Properties and therefore does not respond to web browser “do not track” signals.
-</p>
-<p><strong>USE BY ADULTS AND TEENAGERS:</strong></p>
-<p>Equinox offers membership to individuals who are at least 18 years of age. However, teenagers that are at least 16 years of age may also join with the written consent of a parent.  Similarly, the Digital Properties are intended for use by adults, and you must be at least 18 years of age or, for teenagers ages 16 to 18, have parental consent, to provide personally identifying information to us. The Digital Properties are not intended for children under the age of 13, and we do not knowingly collect or store any personal information from children under the age of 13.</p>
-<p><strong>THIRD PARTY SITES AND APPS:</strong></p>
-<p>While the Digital Properties may contain links to other sites, products or services, please note that when you click on one of these links, you are 'clicking' away from the Digital Properties and accessing a third party’s website, app or other digital property.  In addition, certain features of the Digital Properties may enable you to connect the Digital Properties to, or otherwise share your information with, Third Party Apps.
-</p>
-<p>Please understand that these third parties may collect information about you which will be used under their privacy policies.  We encourage you to read the privacy polices of these third parties, as their practices may differ from ours. TO THE MAXIMUM EXTENT PERMITTED BY LAW, WE ARE NOT RESPONSIBLE FOR THE PRIVACY PRACTICES OR THE COLLECTION OR USE OF YOUR INFORMATION FROM ANY SUCH THIRD PARTIES.
-</p>
-<p><strong>YOUR CALIFORNIA PRIVACY RIGHTS:</strong></p>
-<p>If you are a California resident, you have a right to request a notice describing the categories of personal information we share with third parties for their direct marketing purposes and the names and address of the third parties to which we have disclosed personal information about you for their own direct marketing purposes within the past year. You may make one request per calendar year, and the information may be provided in a standardized format which is not specific to you individually. In your request, please attest to the fact that you are a California resident and provide a current California address for your response. You are entitled to receive You may request this information in writing by contacting us at: Equinox Holdings, Inc., 895 Broadway, New York, NY 10003, Attention: Legal Department, California Privacy Rights. Please allow up to thirty (30) days for a response.
-</p>
-<p><strong>HOW TO CONTACT EQUINOX:</strong></p>
-<p>If you have questions regarding our Privacy Policy,  our Digital Properties or our clubs, please&nbsp;contact us by visiting http://www.equinox.com/contactus. Your feedback is always welcome and appreciated.
-</p>
+    <div class="design-2017">
+<div class="content-lg container static-content">
+            <h3 class="text-left">Privacy Policy</h3>
+            <p>Equinox Holdings, Inc. and its subsidiaries operating under the EQUINOX brand (collectively, <strong>“Equinox”</strong>) respect your privacy and use your personal data in an effort to fulfill our commitment to offering and providing an unparalleled member experience.  This Privacy Policy (“<strong>Privacy Policy</strong>”) describes the privacy practices of Equinox, including the types of personal data we collect from our members and guests and from other users of http://www.equinox.com and the downloadable EQUINOX-branded mobile app (collectively, “<strong>Digital Properties</strong>”), how we use this personal data and with whom we share it.  When we refer to personal data in this Privacy Policy, we mean any information relating to an identified or identifiable natural person.</p>
+
+            <p>By using the Digital Properties, you are acknowledging that you have read, understand and agreed to the terms and conditions of this Privacy Policy and expressly consent to our collection, use and disclosure of your personal information, as described in this Privacy Policy.</p>
+
+            <p><strong>Effective Date</strong>: This Privacy Policy was last updated on: <strong>July 5, 2018</strong></p>           
+            
+            <h6>WHAT INFORMATION WE COLLECT:</h6>
+            <p>We may collect personal data from you when you access and use Equinox club locations and/or the Digital Properties. The personal data you provide directly to us through your interactions with Equinox and the Digital Properties will typically be apparent from the context in which you provide that information.  Equinox may also automatically collect certain personal data and information from you while you are interacting with Equinox and its clubs and Digital Properties. In particular, we may collect information in connection with:</p>
+
+            <p><strong>Contact Information:</strong> We collect your name and other contact information, such as e-mail address, mobile or other phone number, mailing address and postal code when you fill out a contact form, inquire about our business and membership opportunities, register to use Equinox as a guest or with a trial membership, sign up for our mailing lists or enter any sweepstakes or contest we may offer.</p>
+
+            <p><strong>Communications and Surveys:</strong> We will also collect any information you provide to us in your communications with us, including through emails you send us, exchanges with personnel in Equinox clubs and through social media.  On occasion, we will ask members and other individuals to provide feedback by completing a survey, and we will collect any information you choose to provide in completing a survey.</p>
+
+            <p><strong>Membership and Club Usage Information:</strong> If you are a member, we will collect information about how you use and interact with Equinox clubs and the Digital Properties, including the clubs and times you check in to, workouts you log, classes you book or add to your schedule, and information provided when you purchase or schedule personal training sessions and/or spa treatments.</p>
+
+            <p><strong>Demographic and Fitness Information:</strong> We will collect certain demographic information, including your date of birth, age, gender identity, as well as the name of your employer, when you join or visit Equinox.  In addition, as an Equinox member we may collect certain personal data that you provide regarding your fitness and health, including height, weight, measurements, body fat, performance metrics current and past injuries and surgeries, nutritional information and fitness goals, during the course of your membership such as when you complete a fitness assessment or participate in personal training or spa treatments and may also gather information about you that is developed by our personnel, such as training session logs and notes taken by personal trainers and other Equinox staff.  As a member, we may also collect your photograph, CCTV video footage and certain biometric data for identification and authentication purposes.</p>
+
+            <p><strong>Digital Account Registration:</strong> If you are a member and establish an account on the Digital Properties we will collect your username, password, and membership number, as well as any other information you provide in connection with your Digital Properties account and account preferences, such as a profile picture and your preferred club locations.  If you have established a Digital Properties account, you may log in to it in order to review and update your information and preferences.</p>
+
+            <p><strong>Transaction Information:</strong> Information related to your purchase(s) of goods and services with Equinox, such as your credit/debit card information, billing address, the goods and services purchased, and other related transaction information.</p>
+
+            <p><strong>Social Media and Third-Party Apps:</strong> If you link your social media profiles and accounts to the Digital Properties, or otherwise interact with Equinox through social media networks (e.g., by clicking a Facebook “like” button) or “check in” to a club through social media, information may be made available to, and collected by Equinox through those social media profiles and accounts.  In addition, if you elect to connect any third-party fitness devices or apps to the Digital Properties in order to utilize certain features and functionalities, we may collect information about you from such third-party apps.</p>
+
+            <p><strong>Usage Information:</strong> We may automatically collect certain information about how you use and interact with the Digital Properties and Equinox clubs, such as the time and duration of your visit, search query terms you may enter, and the Digital Property pages, features and content you access and how you interact with those pages, features and contents.</p>
+
+            <p><strong>Technical Information:</strong> When you use the Digital Properties, we may automatically collect information about your Internet connection, browser, or computer/device, including IP address or device ID, browser type, operating system information, time zone, clickstream information, page response times, and download errors.</p>
+
+            <h6>HOW WE USE YOUR PERSONAL DATA</h6>
+            <p>We use your personal data to provide you with the services, products and information you request, administer your membership and respond to your inquiries and questions, deliver a more relevant and curated experience with Equinox and our clubs and Digital Properties, and to satisfy our other business purposes and needs. We use your personal data for these purposes because we have a legitimate business interest in providing services to our members, guests and other interested individuals that is not overridden by your interests, rights and freedoms to protect personal data about you.  In particular, we may use your personal data in connection with:</p>
+
+            <p><strong>Membership Administration:</strong> We process your personal data as necessary to perform our contractual relationship with you as a member or recipient of certain ancillary services such as personal training, including by providing you with administrative and operational communications, announcements and information such as information regarding changes to club hours, billing notifications and appointment reminders.  We reserve the right to use any contact information held on file (including email, mailing address, and telephone or mobile phone) to communicate you in relation to administering your membership.</p>
+
+            <p><strong>Promotional and Marketing Communications:</strong> We use your personal data to provide special offers, promotions and information about Equinox and our service offerings to you.  We may also use your personal data to determine if you are eligible for certain offers – for example, discounted membership rates offered to your company’s employees.  We may also send you newsletters and information about products, services and promotions of our business partners and affiliates that we think you may find interesting.</p>
+
+            <p>Where required by applicable law, we will obtain your consent to send you marketing communications.  If you do not wish to receive any marketing emails, you can opt out of future mailings by clicking on the unsubscribe link located on the bottom of the relevant email.  If you are a member and have established an account on the Digital Properties, you can also unsubscribe at any time by logging in and adjusting your communications preferences.  Although we strive to update our email list as frequently as possible, you might receive another promotional email before we are able to remove you from our lists.  If you are a member, please note that even if you opt-out of receiving promotional emails, you will continue to receive administrative and operational communications regarding your membership, such notices regarding billing or club closures, as described above.</p>
+
+            <p><strong>Personalized Experience:</strong> If you are a member, we may use your personal data to deliver a more relevant and curated experience to you, including by recommending services or content we think you will enjoy.  As part of our effort to provide a personalized experience, we may combine personal data collected through the Digital Properties with other information that we have collected from you in the course of your relationship with Equinox and access to and use of clubs.</p>
+
+            <p><strong>Business Purposes:</strong> We use personal data for our legitimate business purposes, including: to operate, evaluate and improve our business and services; develop new businesses, services and solutions; perform market research; advertise and market our business, services and solutions; determine the effective ness of our advertising and marketing; analyze our businesses, services, solutions and Digital Properties; and improve our security administer the Digital Properties.  This may include aggregating information regarding you across our entire user base or part of our user base.</p>
+
+            <p>We may also use your personal data to protect us against and prevent fraud, claims, and other liabilities and to comply with or enforce applicable legal requirements, industry standards, and our policies and terms.  We use personal data for these purposes when it is necessary to protect, exercise or defend our legal rights, or when we are required to do so by a law that applies to us.</p>
+
+            <p>We do not use personal data to make decisions based solely on automatic processing in any way that would produce legal effects concerning you or otherwise similarly significantly affect you.  If we plan to use the Personal Data that you provide to use for other purposes, we will provide an additional privacy notice to you to describe the purposes for which we will use the Personal Data and, as may be required by applicable law, our legal basis for doing so.</p>
+
+            <h6>HOW WE SHARE YOUR PERSONAL DATA</h6>
+            <p>Except as described in this Privacy Policy or in other situations where we have otherwise provided you with prior notice and, to the extent required by applicable law, obtained your consent, Equinox does not sell, rent or otherwise share your name, e-mail address, or any other identifiable personal data to third parties.  We may, however, share your personal data for the following reasons and with the following persons:</p>
+
+            <p><strong>Service Providers:</strong> We may share personal data with other affiliates, companies and individuals who perform services or functions on our behalf, including providers who help Equinox maintain the Digital Properties, send postal mail and e-mail, manage and update member lists and records, analyze data, provide marketing assistance and facilitate customer service. We take steps to ensure that all service providers access and use your personal data only to perform their functions, but may not use it for other purposes.  However, in certain instances service providers may use aggregated, de-identified information for their reasonable business purposes such as improving their products or services or for statistical reporting.</p>
+
+            <p><strong>Social Media and Third Party Apps:</strong> We may share information with social networks when you interact with the Digital Properties (e.g., a clicking a Facebook “like” button) or connect your social media accounts to the Digital Properties. If you elect to connect Third Party Apps to the Digital Properties, your information may also be shared with these third parties. Please see below for more information on this, as we do not control these third parties or their privacy practices.</p>
+
+            <p><strong>Affiliates:</strong> We may share your personal data with other Equinox entities and affiliated companies for our legitimate business purposes, such as administering our databases, providing you with services and products you have requested and otherwise administering your membership, enabling our affiliated companies to provide you with services and products, and sending you information you have requested or we think you may like about our affiliate’s services, products or solutions.  These affiliates may include our Furthermore and Equinox Hotels businesses.</p>
+
+            <p><strong>Compliance and Protection:</strong> We may disclose your personal data as required or permitted by law or legal process, including to respond to a court order or a request from a governmental or law enforcement agency; in connection with an investigation of suspected or actual fraudulent or illegal activity; to enforce or apply our membership agreement, terms of use or other agreements we may have with you; and where we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or otherwise protect the rights, property, or safety of Equinox, its affiliates, our users, members or employees, or others.</p>
+
+            <p><strong>Corporate Transactions:</strong> In the event of a reorganization, merger, sale, dissolution or liquidation of Equinox or any of its affiliates or assets, we may transfer any and all personal data we have to the relevant third party or affiliate in connection with any sale or transfer of Equinox, or any of its affiliates or assets, including in connection with a merger, reorganization, dissolution or liquidation.</p>
+
+            <p><strong>Aggregated Information:</strong> We may also share aggregated statistical data with our business partners and prospective business partners that includes your demographic or other information such as how you interact with Equinox but does not identify you.  We reserve the right to provide any and all such aggregated and de-identified data to third parties.</p>
+
+            <p><strong>Social Media and Third Party Apps:</strong> We may share information with social networks when you interact with the Digital Properties (e.g., a clicking a Facebook “like” button) or connect your social media accounts to the Digital Properties.  If you elect to connect any third-party apps to the Digital Properties, your information may also be shared with these third parties.  Please see the “Links to Third-Party Sites” section below, as we do not control these third parties or their privacy practices.</p>
+
+            <h6>TEXT MESSAGES</h6>
+            <p>In certain instances, the Digital Properties may allow you to elect to communicate with Equinox by using text message, including in connection with scheduling a visit to one of our Equinox locations.  By electing to receive text messages, you are expressly consenting to receiving text messages made using an automatic telephone dialing system from Equinox or its service providers, and you also understand and agree that data rates and charges may apply and that you are solely responsible for all associated costs assessed by your telecommunication carrier or provider.  Providing this consent is not a condition of becoming a member of Equinox or receiving any goods or services from Equinox.</p>
+
+            <p>You may opt out from receiving text message at any time by either replying STOP or END to a text you have from Equinox or by texting STOP or END to (646) 357-9500 at any time.  Please note that you may receive a confirmation text acknowledging you have unsubscribed.  Please allow five (5) business days to process your request.</p>
+
+            <h6>COOKIES POLICY</h6>
+            <p>We collect certain information by automated means when you visit the Digital Properties, through various means such as "cookies," "web beacons" and IP addresses, as described below.  A “cookie” is a small text file that a website saves on your computer or mobile device when you visit the site. We use cookies to tell us whether you have visited us before or if you are a new visitor.  We also use cookies to help us identify site features in which you may have the greatest interest. Cookies may also enhance your online experience by saving your preferences while you are visiting a particular site. Web beacons” (also known as Internet tags, pixel tags and clear GIFs) allow third parties to obtain information such as IP address, the URL of the page on which the beacon appears, timestamps, browser type, and the information in cookies set by the third party.  The Digital Properties use the following types of cookies and web beacons:</p>
+
+            <p><strong>Strictly Necessary:</strong>These cookies are necessary for the Digital Properties to operate properly and facilitate your use of its features. Without these cookies, certain services cannot be provided. These cookies help us understand information, such as your session ID and other server authentication information.  This category of cookies should not be disabled.  If you use your browser settings to block them, we cannot guarantee your security or predict how the Digital Properties will perform during your visit.  Examples of our strictly necessary cookies include:</p>
+
+            <p></p><ul><li><strong>● EqAuth.v1:</strong> We set this cookie to allow us to authenticate users on our websites </li>
+            <li><strong>● productToken:</strong> We set this cookie to enable online purchasing through the websites by remembering the unique ID of each product you want to to purchase</li></ul><p></p>
+
+            <p><strong>Functional:</strong> These cookies allow the Digital Properties to remember choices you make and provide enhanced and more personal features. They can also be used to make sure the content we show is relevant to you – for example, if you are logged in as a member, we use a cookie to make sure we don’t show you a promotion for non-members. They can also be used to remember changes made to parts of our website that you can customized. Examples of our functional cookies include: </p>
+
+            <p></p><ul><li><strong>● activateJSON:</strong> We set this cookie to allow us to help remember and populate your member ID, last name and location when activating your online account</li>
+            <li><strong>● LPSessionID:</strong> This cookie is set by the va.v.liveperson.net domain to help enable and provide our LivePerson online chat feature</li></ul><p></p>
+
+            <p><strong>Performance and Analytics:</strong> These cookies collect information about how you interact with the Digital Properties, such as what pages you visit and if any errors have occurred. Information is used to improve how the Digital Properties function.  These cookies don’t collect information that identifies you, but generate statistical data about your use of our Digital Properties.  Examples of our analytics cookies include: </p>
+
+            <p></p><ul><li><strong>● AMCV_###@AdobeOrg:</strong> We set this cookie to allow our Adobe Analytics software to identify a unique website visitor</li>
+            <li><strong>● s_cc:</strong> We set this cookie to allow our Adobe Analytics software to determine if a website visitor has enabled cookies</li>
+            <li><strong>● JSESSIONID:</strong> This cookie is set by the .nr-data.net domain to determine which pages you visited and whether you received any errors while browsing those pages, and we use cookie to help debug and fix our site.</li><ul><p></p>
+
+            <p><strong>Targeting and Advertising:</strong> These help customize the content and information you receive on the site and to help deliver ads that we believe are relevant to your interests. Advertising cookies may be placed on the Digital Properties by a third party with our consent, which then enables us to determine whether or not to show you an Equinox ad when you are browsing other sites.  Third-party cookies we have allowed to be placed on the Digital Properties for advertising purposes are listed below.  Please visit the relevant third party’s site for more information on these cookies and how you can opt out of them.</p>
+
+            <p></p><ul><li><strong>● Bing:</strong> The MR, MUID and MUIDB cookies are set on our website to help identify a Bing user as someone who visited our website so that we can determine whether or not to show that user an Equinox ad on Bing. Click <a href="https://choice.microsoft.com/en-US/opt-out" target="_blank">here</a> for more information on Bing’s cookies.</li>
+            <li><strong>● DoubleClick:</strong> The IDE and cto_lwid cookies are set on our website to help identify a Google user as someone who visited our website so that we can determine whether or not to show that user an Equinox ad via Google’s DoubleClick ad services. Click <a href="https://adssettings.google.com/u/0/authenticated" target="_blank">here</a> for more information on Google DoubleClick’s cookies.</li>
+            <li><strong>● Facebook:</strong> The <strong>fr</strong> and other Facebook cookies are set on our website to help identify a Facebook user as someone who visited our website so that we can determine whether or not to show that user an Equinox ad on Facebook.  Click <a href="https://www.facebook.com/help/1075880512458213/?helpref=hc_fnav" target="_blank">here</a> for more information.</li>
+            <li><strong>● LinkedIn:</strong> The <strong>BizoID, BizoUserMatchHistory</strong> and <strong>lang</strong> are set on our website to help identify a LinkedIn user as someone who visited our website so that we can determine whether or not to show that user an Equinox ad or job listing on LinkedIn. Click <a href="https://www.linkedin.com/psettings/guest-controls/retargeting-opt-out?trk" target="_blank">here</a> for more information.</li>
+            <li><strong>● PebblePost:</strong> The <strong>pp_uid</strong> cookie is set on our website by PebblePost to help us determine a how website visitor is interacting with our website so that we can send them more personalized and relevant direct mail. Click <a href="http://www.pebblepost.com/" target="_blank">here</a> for more information.</li>
+            <li><strong>● Yahoo:</strong> The <strong>B</strong> cookie is set on our website to help identify a Yahoo user as someone who visited our website so that we can determine whether or not to show that user an Equinox ad on Yahoo. Click <a href="http://info.yahoo.com/privacy/uk/yahoo/cookies/" target="_blank">here</a> for more information.</li></ul><p></p>
+
+            <p><strong>Your Choices:</strong> In addition to visiting the third-party sites above, you can manage cookies through your web browser. Most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie, and how to disable existing cookies. You can find out how to do this for your particular browser by clicking "help" on your browser’s menu or by visiting www.allaboutcookies.org.  Please note, however, that if you disable cookies you may not be able to take full advantage of all features and functionalities of the Digital Properties.  The following external links will explain how to manage cookies for the most common browsers:</p>
+           
+            <p></p><ul><li><a href="http://windows.microsoft.com/en-gb/internet-explorer/delete-manage-cookies#ie%3Die-11" target="_blank">Internet Explorer</a></li>
+            <li><a href="https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy" target="_blank">Microsoft Edge</a></li>
+            <li><a href="https://support.google.com/accounts/answer/61416?hl=en" target="_blank">Google Chrome</a></li>
+            <li><a href="https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences?redirectlocale=en-US&amp;redirectslug=Enabling%2Band%2Bdisabling%2Bcookies" target="_blank">Firefox</a></li>
+            <li><a href="http://support.apple.com/kb/PH17191" target="_blank">Safari</a></li></ul><p></p>
+
+            <p>In addition to the browser-based controls, you can manage third party cookies by visiting http://aboutads.info/choices/ and http://youronlinechoices.eu/</p>            
+
+            <h6>PROTECTION AND RETENTION OF PERSONAL DATA</h6>
+            <p>Equinox maintains technical and organizational safeguards to ensure an appropriate level of security and confidentiality for your personal data, in accordance with our policies and any applicable laws.  We keep your personal data for the time period necessary to achieve the purposes outlined in this Privacy Policy, taking into account any record retention requirements under any applicable laws.</p>
+
+            <h6>CALIFORNIA: INFORMATION FOR RESIDENTS</h6>
+            <p>If you are a California resident, you have a right to request a notice describing the categories of personal data we share with third parties for their direct marketing purposes and the names and address of the third parties to which we have disclosed personal data about you for their own direct marketing purposes within the past year. You may make one request per calendar year, and the information may be provided in a standardized format which is not specific to you individually. In your request, please attest to the fact that you are a California resident and provide a current California address for your response. You are entitled to receive You may request this information in writing by contacting us at: Equinox Holdings, Inc., 895 Broadway, New York, NY 10003, Attention: Legal Department, California Privacy Rights or at <a href="mailto:privacy@equinox.com">privacy@equinox.com</a> with the subject line: California Privacy Rights. Please allow up to thirty (30) days for a response.</p>
+
+            <p>Equinox does not currently allow third parties to collect personally identifiable information about your online activities over time and across different websites when that individual uses the Digital Properties and therefore does not respond to web browser “do not track” signals.</p><p>
+
+            </p><h6>EUROPEAN ECONOMIC AREA: INFORMATION FOR RESIDENTS</h6>
+            <p>If you are located in the European Economic Area (“EEA”) and have expressed interested in one of our Equinox clubs in the United Kingdom, the following additional information applies with respect to your personal data and our privacy practices.  When you visit or interact with Equinox clubs in the United Kingdom, the data controller is Equinox Fitness Holdings UK Limited, a subsidiary of Equinox Holdings Inc. with a registered office at 5 New Street Square, London EC4A 3TW (company number 10256500).  If you have questions about how Equinox handles your personal data or would like to exercise any of your rights described in this Privacy Policy, please reach out to us in writing by contacting us at: Equinox Holdings, Inc., 895 Broadway, New York, NY 10003, Attention: Legal Department, Data Protection Officer or at <a href="mailto:privacy@equinox.com">privacy@equinox.com</a> with the subject line: EEA Data Rights. Each clause of this Privacy Policy shall apply to you to the maximum extent permitted under applicable law.</p>
+
+<p><strong>Data Controller:</strong>  When you visit, interact with, or request information about Equinox clubs in the United Kingdom, the data controller is Equinox Fitness Holdings UK Limited, a subsidiary of Equinox Holdings Inc. with a registered office at 5 New Street Square, London EC4A 3TW (company number 10256500).  For all other interactions with Equinox, Equinox Holdings, Inc. is considered the data controller. </p>
+
+
+            <p><strong>Data Location and Transfer:</strong> Equinox may transfer your personal data to its affiliates and other recipients in countries other than the country in which the personal data was originally collected.  Those countries may not have the same data protection laws as in the EEA. In many instances, Personal Data will be collected or stored in the United States and transferred to or accessed by Equinox and its affiliates in the United States or in Canada for those purposes described in this Privacy Policy.  We will comply with any applicable legal requirements to provide adequate protection for the transfer of personal data to recipients in countries outside of the EEA. To the extent that these data recipients are in countries that have not been recognized by the European Commission as providing an adequate level of data protection, we put in place appropriate safeguards aimed at ensuring an adequate level of data protection, including by entering into the European Commission’s EU Standard Contractual Clauses with the data recipients or ensuring that the data recipient has certified to the EU-U.S. Privacy Shield Framework or implemented Binding Corporate Rules. To obtain a copy of the safeguards we have put in place, please contact us as indicated below.</p>
+
+            <p><strong>Your Rights:</strong> Subject to applicable law, you have the right to request access to and rectification of the personal data we maintain about you, to request the restriction of the processing of your personal data or to object to that processing on grounds relating to your situation. As described under “Promotional and Marketing Communications” in Section 3 above, you have a right to unsubscribe from any marketing communications we may send to you.  In addition, you may have the right to request erasure of your personal data from Equinox’s systems in certain circumstances provided by applicable law.  Subject to applicable law, where technically feasible and following your written request and verifiable identification, we will provide you with a copy of your EEA personal data in a structured, commonly used, machine readable format.  To exercise any of these rights, please contact Equinox as indicated above. Please allow us a reasonable period of time one (1) month to respond to your request.  You may lodge a complaint with a data protection authority if you are not satisfied with our response.</p>
+
+            <h6>INTENDED FOR USE BY ADULTS</h6>
+            <p>Equinox offers membership to individuals who are at least eighteen (18) years of age. However, teenagers that are at least sixteen (16) years of age may become members with the written consent of their parent or legal guardian.  Similarly, the Digital Properties are intended for use by adults, and you must be at least eighteen (18) years of age or, for teenagers ages sixteen (16) and older, have parental consent, to provide personal data to Equinox. The Digital Properties are not intended for children under the age of thirteen (13), and we do not knowingly collect or store any personal data from children under the age of thirteen (13).</p> 
+
+            <h6>LINKS TO THIRD-PARTY SITES</h6>
+            <p>The Digital Properties may contain links to or otherwise enable you to connect with other sites, social media platforms or apps such as Facebook, Instagram, twitter, YouTube and Apple (collectively “Third-Party Sites”).  We do not control Third-Party Sites and are not responsible for the privacy practices, contents or nature of any Third-Party Site.  If you choose to use any Third-Party Site, any personal data collected by such site or app will be controlled by the privacy policy of that third party.  We strongly encourage you to read the privacy polices of Third-Party Sites, as their practices may differ from ours. TO THE MAXIMUM EXTENT PERMITTED BY LAW, WE ARE NOT RESPONSIBLE FOR THE PRIVACY PRACTICES OR THE COLLECTION OR USE OF YOUR PERSONAL DATA FROM ANY THIRD-PARTY SITES.</p>   
+
+            <h6>UPDATES TO OUR PRIVACY POLICY</h6>
+            <p>We may periodically update this Privacy Policy, in our discretion, to reflect change in our privacy practices, the Digital Properties and applicable law. We will make any changes to this Privacy Policy by posting the revised policy to this page, and such changes will be effective from the date specified in the “Effective Date” section at the top of this Privacy Policy.  You should check this page from time to time to ensure you are happy with our current Privacy Policy, and your continued use of the Digital Properties constitutes your acceptance of any changes and agreement to be bound by the modified Privacy Policy.</p>   
+
+            
+            <h6>CONTACT EQUINOX</h6>
+            <p>If you have questions regarding our Privacy Policy, please contact us at <a href="mailto:privacy@equinox.com">privacy@equinox.com</a>. For general questions regarding Equinox, our clubs or the Digital Properties please visit http://www.equinox.com/contactus. Your feedback is always welcome and appreciated.</p>
+            
+        </ul></ul></div>
+</div>
 </div>
 
                 </div>
 
 </div>
 
-<footer>
-	<ul class="social-icons">
-			<li class=""><a title="facebook" class="icon-facebook" href="https://www.facebook.com/Equinox" target="_blank"></a></li>
-			<li class=""><a title="twitter" class="icon-twitter" href="https://twitter.com/Equinox" target="_blank"></a></li>
-			<li class=""><a title="instagram" class="icon-instagram" href="http://www.instagram.com/equinox" target="_blank"></a></li>
-			<li class=""><a title="youtube" class="icon-youtube" href="http://www.youtube.com/user/equinox" target="_blank"></a></li>
-	</ul>
-	<ul class="footer-links">
-        <li class=""><a class="menu-send feedback" href="/feedback">Send Feedback</a></li>
-        <li class=""><a class="menu-gift cards" href="/gift-card/purchase">Gift Cards</a></li>
-        <li class=""><a class="menu-shop" href="/shop">Shop</a></li>
-        <li class=""><a class="menu-careers" href="http://careers.equinox.com/">Careers</a></li>
-        <li class=""><a class="menu-education" href="https://www1.equinox.com/education?icmp=education">Education</a></li>
-        <li class=""><a class="menu-contact us" href="/ContactUs">Contact Us</a></li>
-        <li class=""><a class="menu-press releases" href="http://www.equinox.com/presscenter">Press Releases</a></li>
-        <li class=""><a class="menu-privacy policy" href="/Privacy">Privacy Policy</a></li>
-        <li class=""><a class="menu-project by equinox" href="http://projectbyequinox.com/">Project by Equinox</a></li>
-        <li class=""><a class="menu-terms and conditions – updated" href="/Terms">Terms And Conditions – UPDATED</a></li>
-        <li class=""><a class="menu-faq" href="/FAQ">FAQ</a></li>
-        <li id="livechat-footer" class=""><a class="menu-chat" href="#" style="visibility: hidden; display: none;">CHAT</a></li>
-        <li class=""><a class="menu-digital experience" href="http://digitalexperience.equinox.com/">Digital Experience</a></li>
-	</ul>
+<div class="design-2017">
+    <footer class="footer-v1">
+        <div class="footer-inner">
+            <div class="container">
+                <ul class="list-inline social-links">
+                        <li><a href="https://www.facebook.com/Equinox" title="facebook" target="_blank"><i class="icon-custom rounded-x icon-md icon-bg-dark icon-facebook"></i></a></li>
+                        <li><a href="https://twitter.com/Equinox" title="twitter" target="_blank"><i class="icon-custom rounded-x icon-md icon-bg-dark icon-twitter"></i></a></li>
+                        <li><a href="http://www.instagram.com/equinox" title="instagram" target="_blank"><i class="icon-custom rounded-x icon-md icon-bg-dark icon-instagram"></i></a></li>
+                        <li><a href="http://www.youtube.com/user/equinox" title="youtube" target="_blank"><i class="icon-custom rounded-x icon-md icon-bg-dark icon-youtube"></i></a></li>
+                </ul>
+                <ul class="list-inline footer-links">
+                        <li id="" class=""><a class="" href="/feedback">Send Feedback</a></li>
+                        <li id="" class=""><a class="" href="/gift-card/purchase">Gift Cards</a></li>
+                        <li id="" class=""><a class="" href="https://careers.equinox.com/">Careers</a></li>
+                        <li id="" class=""><a class="" href="https://www.equinox.com/education?icmp=education">Education</a></li>
+                        <li id="" class=""><a class="" href="/ContactUs">Contact Us</a></li>
+                        <li id="" class=""><a class="" href="https://www.equinox.com/precisionrunninglab/chestnuthill?icmp=bottomnav-precision-running-lab">Precision Running Lab</a></li>
+                        <li id="" class=""><a class="" href="http://www.equinox.com/presscenter">Press Releases</a></li>
+                        <li id="" class=""><a class="" href="/promo?icmp=bottomnav-promotions">Promotions</a></li>
+                        <li id="" class="selected"><a class="" href="/privacy">Privacy Policy - UPDATED</a></li>
+                        <li id="" class=""><a class="" href="http://projectbyequinox.com/">Project by Equinox</a></li>
+                        <li id="" class=""><a class="" href="/Terms">Terms And Conditions</a></li>
+                        <li id="" class=""><a class="" href="/FAQ">FAQ</a></li>
+                        <li id="livechat-footer" class=""><a class="menu-chat" href="#" style="visibility: hidden; display: none;">CHAT</a></li>
+                </ul>
 
-</footer>
-<!-- Version : Equinox.Site.Web: 5.5.2 -->    <script>
-        var _satellite = _satellite || {};
-
-        if( typeof _satellite.pageBottom === 'undefined' ) {
-            _satellite.pageBottom = function() {};
-            //console.warn('_satellite.pageBottom is undefined');
-        }
-
-        if( typeof _satellite.track === 'undefined' ) {
-            _satellite.track = function() {};
-            //console.warn('_satellite.track is undefined');
-        }
-    </script>
+            </div>
+        </div>
+    </footer>
+</div>
+<!-- Version : Equinox.Site.Web: 6.2.3.1 -->
     <script type="text/javascript">
     var user = null;
 </script>
@@ -269,37 +393,21 @@
     
 <script type="text/javascript">
     var isDebugging = false;
-    var assemblyVersion = 'Equinox.Site.Web: 5.5.2';
-    var assemblyServer = 'AWSWEBPRD14';
+    var assemblyVersion = 'Equinox.Site.Web: 6.2.3.1';
+    var assemblyServer = 'AWSWEBWWW13';
 </script>
-    <script>
-    var APIBaseUrl = '//api.equinox.com';
-    var APIEndpoint = '//api.equinox.com/v1';
-    var APIEndpoint2 = '//api.equinox.com/v2';
-    var APIEndpoint23 = '//api.equinox.com/v2.3';
-    var APIEndpoint26 = '//api.equinox.com/v2.6';
-    var APIEndpoint3 = '//api.equinox.com/v3';
-    var APIEndpoint31 = '//api.equinox.com/v3.1';
-    var MainDomain = '//www.equinox.com';
-    var APIUrl = '//api.equinox.com';
-</script>
-<!--[if lte IE 9]>
-	<script>
-		var APIBaseUrl =  '//www.equinox.com/proxy/';
-	    var APIEndpoint = '//www.equinox.com/proxy/v1';
-	    var APIEndpoint26 = '//www.equinox.com/proxy/v2.6';
-        var APIEndpoint2 = '//www.equinox.com/proxy/v2';
-	    var APIEndpoint3 = '//www.equinox.com/proxy/v3';
-        var APIEndpoint31 = '//www.equinox.com/proxy/v3.1';
-	    var MainDomain = '//www.equinox.com';
-        var APIUrl = '//api.equinox.com';
-	</script>
-<![endif]-->
+    
 
-    <script src="https://media2.equinox.com/assets/js/vendor.min.js?12b37e121911e6" type="text/javascript"></script>
-    <script src="https://media2.equinox.com/assets/js/lib.min.js?12b37e12814967" type="text/javascript"></script>
-    <script src="https://media2.equinox.com/assets/js/require.js?12a198f0551300" type="text/javascript"></script>
-    <script src="https://media2.equinox.com/assets/js/app.min.js?12b37e1055dd86" type="text/javascript"></script>
+    
+    
+    
+
+    <script src="https://media2.equinox.com/assets/6.2.3.1/js/lib/utils.js?142436111cabf4" type="text/javascript"></script>
+    <script src="https://media2.equinox.com/assets/6.2.3.1/js/vendor.min.js?14243613353b68" type="text/javascript"></script>
+    <script src="https://media2.equinox.com/assets/6.2.3.1/js/lib.min.js?1424360f58a8ce" type="text/javascript"></script>
+    <script src="https://media2.equinox.com/assets/6.2.3.1/js/require.js?142436138c8504" type="text/javascript"></script>
+    <script src="https://media2.equinox.com/assets/6.2.3.1/js/app.min.js?1424360b6bea71" type="text/javascript"></script>
+
 
 
     
@@ -307,7 +415,7 @@
 
 <script>
 
-		tagData.global = {"pageArea":"pub","pageSection":"legal","pageSubsection":"privacy","pageItem":"","serverName":"AWSWEBPRD14","loginStatus":"out"};
+		tagData.global = {"pageArea":"pub","pageSection":"legal","pageSubsection":"privacy","pageItem":"","serverName":"AWSWEBWWW13","loginStatus":"out"};
 			</script>
 
 
@@ -315,24 +423,9 @@
 
     
 
-<style>
-    #livechat-header .LPMcontainer {
-        display: none !important;
-    }
-    #livechat-footer .LPMcontainer {
-        display: none !important;
-    }
-    #livechat-header-mobile .LPMcontainer {
-        display: none !important;
-    }
-    .LPMcontainer img {
-        width: auto !important;
-    }
-</style>
-
-<script type="text/javascript" src="../assets/js/lib/le-mtagconfig.min.js"></script>
-<script type="text/javascript">
-    (function() {
+<script src="https://media2.equinox.com/assets/6.2.3.1/js/lib/le-mtagconfig.min.js?14243610c191e4" type="text/javascript"></script>
+<script>
+    (function () {
         var headerTag = '#livechat-header';
         var labelHeaderTag = '#livechat-header .LPMlabel';
         var chatHeaderTag = '#livechat-header .menu-chat';
@@ -350,17 +443,19 @@
 
         var domEvent = 'DOMSubtreeModified';
 
-        var hideButton = function(buttonTag) {
-            document.querySelector(buttonTag).style.visibility = 'hidden';
-            document.querySelector(buttonTag).style.display = 'none';
+        var hideButton = function (buttonTag) {
+            if (document.querySelector(buttonTag) != null) {
+                document.querySelector(buttonTag).style.visibility = 'hidden';
+                document.querySelector(buttonTag).style.display = 'none';
+            }
         }
 
-        var renderButton = function(labelTag, chatTag, containerTag) {
+        var renderButton = function (labelTag, chatTag, containerTag) {
             if (document.querySelector(labelTag) != null) {
                 document.querySelector(chatTag).style.visibility = 'visible';
                 document.querySelector(chatTag).style.display = 'inline';
 
-                document.querySelector(chatTag).addEventListener('click', function() {
+                document.querySelector(chatTag).addEventListener('click', function () {
                     document.querySelector(containerTag).click();
                 });
             } else {
@@ -369,73 +464,64 @@
         }
 
         hideButton(chatHeaderTag);
-        document.querySelector(headerTag).addEventListener(domEvent, function() {
-            renderButton(labelHeaderTag, chatHeaderTag, containerHeaderTag);
-        });
+        if (document.querySelector(headerTag)) {
+            document.querySelector(headerTag).addEventListener(domEvent, function () {
+                renderButton(labelHeaderTag, chatHeaderTag, containerHeaderTag);
+            });
+        }
 
         hideButton(chatFooterTag);
-        document.querySelector(footerTag).addEventListener(domEvent, function() {
-            renderButton(labelFooterTag, chatFooterTag, containerFooterTag);
-        });
+        if (document.querySelector(footerTag)) {
+            document.querySelector(footerTag).addEventListener(domEvent, function () {
+                renderButton(labelFooterTag, chatFooterTag, containerFooterTag);
+            });
+        }
 
         hideButton(chatHeaderMobileTag);
-        document.querySelector(headerMobileTag).addEventListener(domEvent, function() {
-            renderButton(labelHeaderMobileTag, chatHeaderMobileTag, containerHeaderMobileTag);
-        });
+        if (document.querySelector(headerMobileTag)) {
+            document.querySelector(headerMobileTag).addEventListener(domEvent, function () {
+                renderButton(labelHeaderMobileTag, chatHeaderMobileTag, containerHeaderMobileTag);
+            });
+        }
     })();
 
-    lpTag.sdes = lpTag.sdes || [];
+    if (typeof lpTag !== 'undefined') {
 
-    if (typeof transactionDetail == 'undefined') {
-        lpTag.sdes.push(
-        {
-            "type": "ctmrinfo", //MANDATORY
-            "info": {
-                "ctype": "visitor",
-                "customerId": ""
-            }
-        });
+        lpTag.sdes = lpTag.sdes || [];
 
-        lpTag.sdes.push({
-            "type": "personal", //MANDATORY
-            "personal": {
-                "firstname": "",
-                "lastname": ""
-            }
-        });
-    } else {
-        lpTag.sdes.push(
-            {
-                "type": "purchase", //MANDATORY
-                "total": transactionDetail.Charge.replace('$', '') * 1, //TOTAL VALUE OF THE TRANSACTION AFTER DISCOUNT
-                "orderId": transactionDetail.Barcode //UNIQUE ORDER ID OR RECEIPT ID
-            }
-        );
+        if (typeof transactionDetail == 'undefined') {
+            lpTag.sdes.push({
+                'type': 'ctmrinfo', //MANDATORY
+                'info': {
+                    'ctype': 'visitor',
+                    'customerId': ''
+                }
+            });
+
+            lpTag.sdes.push({
+                'type': 'personal', //MANDATORY
+                'personal': {
+                    'firstname': '',
+                    'lastname': ''
+                }
+            });
+        } else {
+            lpTag.sdes.push({
+                'type': 'purchase', //MANDATORY
+                'total': transactionDetail.Charge.replace('$', '') * 1, //TOTAL VALUE OF THE TRANSACTION AFTER DISCOUNT
+                'orderId': transactionDetail.Barcode //UNIQUE ORDER ID OR RECEIPT ID
+            });
+        }
     }
 </script>
 
-    <div id="fb-root"></div>
-<script>
-window.fbAsyncInit = function() {
-	FB.init({
-		appId: '774314099255242',
-		status     : true,
-		xfbml      : true
-	});
-	EQ.social = {};
-	EQ.social.namespace = 'equinoxfitness';
-	window.App.Events.trigger('fbsdk:loaded');
-};
-    
+    <div id="fb-root" data-dynamic-data="{
+	&quot;appId&quot; : &quot;774314099255242&quot;,
+	&quot;namespace&quot;: &quot;equinoxfitness&quot;
+}"></div>
 
-(function(d, s, id){
-	var js, fjs = d.getElementsByTagName(s)[0];
-	if (d.getElementById(id)) {return;}
-		js = d.createElement(s); js.id = id;
-		js.src = "//connect.facebook.net/en_US/all.js";
-		fjs.parentNode.insertBefore(js, fjs);
-   }(document, 'script', 'facebook-jssdk'));
-</script>
+<script src="https://media2.equinox.com/assets/6.2.3.1/js/lib/fb-sdk.js?14243610999638" type="text/javascript"></script>
+
     <script type="text/javascript">_satellite.pageBottom();</script>
 
 
