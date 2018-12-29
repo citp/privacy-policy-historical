@@ -1,98 +1,83 @@
-> *The following text is extracted and transformed from the infoq.com privacy policy that was archived on 2018-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180518231047id_/https%3A//www.infoq.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infoq.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229083019id_/https%3A//www.infoq.com/privacypolicy) for the most accurate reproduction.*
 
 # InfoQ - Facilitating the spread of knowledge and innovation in enterprise software development
 
-**InfoQ Privacy Policy:**
+[InfoQ Homepage](https://web.archive.org/) privacyNotice
 
-We take your privacy very seriously. Because we gather certain types of information about our users we want to help you understand the terms and conditions surrounding the collection and use of that information. This privacy policy discloses the types of information C4Media, Inc. ("we", "our" or "us") gather, on www.infoq.com (the "Site") and via the services, features, content or applications we offer (collectively with the Site, the "Services").
+This Privacy Notice describes how InfoQ collects, uses and discloses information, and what choices you have with respect to the information. Updates in this version of the Privacy Policy reflect changes in data protection law.
 
-This Privacy Policy does not apply to the practices of third parties that we do not own or control, including but not limited to any third party websites, advertisers for whom you elected to share your information with, services and applications, such as Facebook, Twitter, Apple News, Google Analytics ("Third Party Services providers") that you elect to access through the Service or to individuals that we do not manage or employ. While we attempt to facilitate access only to those Third Party Services that share our respect for your privacy, we cannot take responsibility for the content, privacy policies, or practices of those Third Party Services. We encourage you to carefully review the privacy policies of any Third Party Services you access.
+## Applicability Of This Privacy Policy
 
-**The types of information we collect:**
+This Privacy Policy applies to any InfoQ services and activities like the InfoQ website (https://www.infoq.com), etc.
 
-Our primary goal in collecting personal information is to provide you with the best and most useful content and services. Because we derive revenue mainly from advertising, and our QCon events business, collecting information is essential to keeping our Services free forusers.
+## How We Use Information
 
-**Account Information:**
+#### Anonymous information
 
-Upon registration, we collect personally identifiable information, which includes name, title, city/state, company, industry, and e-mail address, password.
+In addition to personal information, certain anonymous information about your visit is automatically captured when you visit InfoQ through Google Analytics. We use Google Analytics to understand how the website is used and improve our services. You can read more about how Google Analytics safeguards privacy [here](https://support.google.com/analytics/answer/6004245?hl=en).
 
-InfoQ also contains ‘related vendor content’ promoted around the site. When you register for content provided by one of our advertisers, we explicitly show who the advertiser is and you may elect to provide the advertiser with personally identifiable information, prior to download.
+#### Personally Identifiable Information
 
-**Use of single pixel gifs:**
+We request personally identifiable information for the following purposes:
 
-InfoQ, its third party service providers may use single-pixel gif images, sometimes referred to as web bugs or web beacons, to count Web page accesses and gather some general statistical information. InfoQ does not gather personal information through the use of these images.
-
-**Use of cookies:**
-
-InfoQ and our advertisers may send a "cookie" to your computer. A cookie is a small piece of data that is sent to your Internet browser from a Web server and stored on your computer's hard drive. A cookie can't read data off of your computer hard disk or read cookie files created by other Web sites. Cookies do not damage your system.. You can choose whether to accept cookies by changing the settings of your Internet browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent.
-
-**Information we collect from third parties:**
-
-We may collect information about you from third party services. For example, we may receive information about you when you interact with our site through various social media, for example, by logging in through or liking us on Facebook or following us on Twitter. The data we receive is dependent upon your privacy settings with the social network. You should always review, and if necessary, adjust your privacy settings on such third-party websites and services before linking or connecting them to our website.
-
-**The use of this information:**
-
-  * To understand our audience and assist in how we explain our audience to our advertisers
-  * To send you information you agreed to receive such as our electronic newsletter, conference information and information from our advertisers that map to your interests. 
-  * Within the InfoQ.com website - To customize content and advertising to your interests
-  * Outside of the InfoQ.com domain - to promote InfoQ content, or information about InfoQ events (such as QCon), thru advertising on pages that are part of the Google Ad Display network or on social networks such as Facebook and Twitter. 
+  * To register you for InfoQ membership.
+  * To send e-mail newsletters and/or third party announcements.
+  * To customize your experience on InfoQ.
+  * To provide you with recommendations from [our list of conferences.](https://qconferences.com/)
+  * To allow you access to 3rd-party content (e.g. vendor white papers).
 
 
 
-**Information We Share With Your Consent:**
+In the later case these vendors can choose to contact you to offer deals relevant to the asset you downloaded.
 
-We will make your personally identifiable information available to advertisers only when we have your consent to share the information, such as when you choose to share your account information and additional information upon downloading a vendor white paper.
+## Identifying The Data Controller And Processor
 
-You may also access other Third Party Services through our site, for example by clicking on links to websites or other services outside of the Site. We are not responsible for the privacy policies and practices of these Third Party Services.
+Data protection law in certain jurisdictions differentiates between the "controller" and "processor" of information. In general, InfoQ is the controller of user private data. In cases users choose to download content from 3rd-party entities (e.g. vendor white papers) then these might become joint controllers for that specific case.
 
-**Aggregate Information:**
+## Use of cookies
 
-We aggregate personally identifiable information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for marketing, promotional, and other purposes. We do not disclose to these entities any information that could be used to identify you personally.
+You can read more about how we use cookies on our [Cookies page](https://web.archive.org/cookie-policy).
 
-**User Profile Information:**
+## Social Plugins on Our Site
 
-User profile information including your username and other information you enter may be displayed to other users to facilitate user interaction within the Services. We will not reveal user email addresses to other users of the Site.
+We may use social plugins on InfoQ and may include icons that allow you to interact with third party social networks such as LinkedIn, Twitter and Facebook. For example, you may "like" us or a book on Facebook or follow us or Tweet about us on Twitter or use a social network for login purposes. The third party social plugin may set a cookie when your browser creates a connection to the servers of such social networks and the plugin may transmit your data to the social networks. Your use of these social plugins is subject to the privacy policies of the third party social networks.
 
-**Information Shared with Our Service Providers:**
+## Behavioural Recommendations
 
-We employ and contract with service providers - individuals and entities that perform certain tasks on our behalf (such as email list management software, accounting software, etc). We may need to share Personal Information with our service providers in order to provide products or services to you. We do not authorize our service providers to use Personal Information or other information we share with them beyond what is necessary to assist us.
+In the future we might decide to deliver content recommendations or targeted advertising to people who visit our website. This could work by showing you content recommendations or ads that are based on your browsing patterns, the way you have interacted with our site, or the topics you are interested in. We will not share any of this behavioural data with 3rd party. We might choose to share anonymised behavioural data with advertising partners, including commercial organisations.
 
-**Options:**
+## Use of Email
 
-Users who would rather not provide any of the user data requested by our registration process do not need to register with us. You can still view much of the content and use many of the services offered by our sites without registering.
+If you have given us your email for purposes of communication or promotion, we will use your data to contact you or send promotional emails relating to your interests. You may revoke your consent to being contacted by email for promotional purposes any time, by clicking on an unsubscribe link. Further, with your consent, we may make use of email tracking technology to obtain data on if you open an email or if you click on links in an email. This data will be used only in automated ways to help improve future marketing messaging and/or to prioritize follow ups based on perceived communications relevance. Without your consent, we will not make use of personal data unique to you, such as your IP address, your device and browser information, or the time and number of times you open an email or click on a link.
 
-We also give users the following options: 
+## Your Rights
 
-  * Opting not to receive our electronic newsletters or those of third parties when registering. Users who opt-in may remove themselves from mailing lists at any time through the edit profile pages or by following the instructions at the end of the e-mail they received from us. 
-  * Opting not to provide certain personal information when registering for a site, provided, that you may not be able to utilize certain of our products or services without providing us with certain information. 
+Individuals located in certain countries, including the European Economic Area, have certain statutory rights in relation to their personal data. Subject to any exemptions provided by law, you may have the right to request access to your Information, as well as to seek to update, delete or correct this Information, etc. In more detail you can:
 
-
-
-You can correct or change the information collected during registration for any of our sites. The instructions for doing this can be found in the edit profile area on any of our site. Users may change information at any time and as often as necessary. Users who are experiencing problems with our services or who have questions about how our services work can contact us using e-mail addresses at the bottom of this page.
-
-Any modifications to our privacy policy will be reflected on InfoQ. If there is a material change in our privacy policy, we will indicate on InfoQ.com our privacy policy has changed and provide a link to the new privacy statement. Questions regarding this privacy statement should be emailed to feedback@c4media.com.
-
-**Terms and Conditions**
-
-We reserve the right to remove comments on InfoQ.com which:
-
-  * Advertise a product
-  * Are off-topic
-  * Are abusive or disruptive
-  * Are offensive
-  * Contain personal details
-  * Contain spam
-  * Contain unsuitable links
-  * Are not in English
-  * Contain potentially defamatory statements
-  * Risk breaching copyright law
-  * Risk breaking UK and other relevant law
-  * Risk contempt of court
+  * You can stop receiving promotional email or postal communications from InfoQ by following the instructions in those messages,
+  * You have the right to withdraw your consent for the processing of your personal data by InfoQ,
+  * You have the right to have your personal data erased,
+  * In some instances you have the right to have your personal data transferred to another company and InfoQ will make every reasonable effort to comply with your request.
+  * You have the right to raise any concerns to the processing or use of your personal data by InfoQ to an appropriate data protection authority,
+  * You have the right to review personal data InfoQ hold on you if this does not impact on other individual’s rights and freedoms.
 
 
 
-We reserve the right to block or remove the accounts of persistent offenders. In addition comments for the purpose of back-link building rather than adding value to a discussion will be deleted and the account suspended.
+You can usually do this using the settings or by directly contacting us at: [privacy@c4media.com](mailto:privacy@c4media.com).
 
-We respect other people's rights, and expect you to do the same. InfoQ is dedicated to providing a harassment-free community for all readers, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment in any form. Sexual language and imagery is not appropriate anywhere on the site and violating these rules will cause your account to be blocked. 
+## Retention Period
 
-Any form of offensive or harassing communication is not allowed on InfoQ. Please inform abuse@infoq.com if you feel a violation has taken place and the InfoQ team will address the situation. 
+We will not retain personal information longer than necessary to fulfill the purposes for which it is processed. Because the circumstances may vary depending on the context and the services, retention period time might vary too.
+
+It is your right to request changes to your data, or even request erasure at: [privacy@c4media.com](mailto:privacy@c4media.com).
+
+## How to contact us
+
+If you want to request information about our privacy policy you can email us or write to:  
+C4Media Inc. (InfoQ.com),  
+2275 Lake Shore Boulevard West,  
+Suite #325,  
+Toronto, Ontario, Canada,  
+M8V 3Y3
+
+Or email us at: [privacy@c4media.com](mailto:privacy@c4media.com)
