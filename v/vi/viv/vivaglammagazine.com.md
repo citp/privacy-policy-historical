@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vivaglammagazine.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629112257id_/http%3A//vivaglammagazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivaglammagazine.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229122007id_/http%3A//vivaglammagazine.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - VIVA GLAM MAGAZINE
 
@@ -130,7 +130,7 @@ KVD Brand
 
 North Hollywood, CA 91601
 
-_[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)_ _kvdbrand.com_
+_info@_ _kvdbrand.com_
 
 As discussed above in Section V(B) and XI, you may opt-out of having PII such as your name, email address, postal address or phone number shared with third parties for their marketing purposes.  If you wish to exercise this right, please contact our Privacy Policy Coordinator and state which of these items you wish to opt-out of sharing with third parties.
 
@@ -145,5 +145,3 @@ For communications on other matters, please contact us through the means describ
 *****   *****   *****   *****   *****   *****   *****   *****   *****   *****   *****   *****   *****
 
 **If you don’t agree to the terms contained in this Privacy Policy, you must immediately exit the Service.**
-
-[](https://www.pinterest.com/pin/create/button/)
