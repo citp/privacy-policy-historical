@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uploadgig.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126095925id_/http%3A//uploadgig.com/page/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uploadgig.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229132830id_/https%3A//uploadgig.com/page/content/privacy-policy) for the most accurate reproduction.*
 
 # UploadGIG
 
