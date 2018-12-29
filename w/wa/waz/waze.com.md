@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the waze.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629090336id_/https%3A//www.waze.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waze.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229110514id_/https%3A//www.waze.com/legal/privacy) for the most accurate reproduction.*
 
-# Free Community-based GPS, Maps & Traffic Navigation App | Waze
+# Free Driving Directions, Traffic Reports & GPS Navigation App by Waze
 
 Waze Mobile Limited respects your privacy. Waze Mobile Limited and its affiliates (“Waze” or the “Company”) offer mapping, GPS navigation, community based services and Carpool services to users of [www.waze.com](https://web.archive.org/) (the “Website”) and/or users of Waze’s mobile applications (the “Application”) (collectively referred to as the “Services”). When you use our services, you’re trusting us with your information. We understand this is a big responsibility and work hard to protect your information and put you in control.
 
@@ -69,10 +69,8 @@ Waze collects information to provide better services to all its users - from fig
 
   * **Information from your social networks which you choose to connect to your Waze Account:** you may choose to connect your Waze Account to your social network account(s). If you choose to do so, you may choose to share with Waze and/or other users information from your social network accounts, such as your Facebook profile photo or other personal information shared by you. For more information see Integration with social networks, below.
 
-  * **“Find friends feature”:** if you use the “find friends” feature, Waze will collect:
+  * **“Find friends feature”:** if you use the “find friends” feature, Waze will collect: _ Periodically, Waze will collect all of the phone numbers which are stored on your device’s phone contacts book. With regards to the “find friends” feature we only collect numbers in a form which is anonymous to Waze; This information will be used to help us find and create a list of other Waze users who you may know and with whom you may wish to connect. Note that we will not collect names, addresses or other information from your device’s phone contacts book, however some of this information may be saved locally on your device and may be used within searches for your friend’s name or address within the Services. and/or _ Your phone number. Your phone number will be used to verify your account and as part of the “find friends” feature , if applicable, to help find and create a list of other Waze users who you may know and with whom you may wish to connect.
 
-    * Periodically, Waze will collect all of the phone numbers which are stored on your device’s phone contacts book. With regards to the “find friends” feature we only collect numbers in a form which is anonymous to Waze; This information will be used to help us find and create a list of other Waze users who you may know and with whom you may wish to connect. Note that we will not collect names, addresses or other information from your device’s phone contacts book, however some of this information may be saved locally on your device and may be used within searches for your friend’s name or address within the Services. and/or
-    * Your phone number. Your phone number will be used to verify your account and as part of the “find friends” feature , if applicable, to help find and create a list of other Waze users who you may know and with whom you may wish to connect.
 
 
 
@@ -259,12 +257,7 @@ Some data you can delete whenever you like, some data is deleted automatically, 
   * **Information retained until you remove it** \- such as your “Home, “work”, favorites, email address and other account related information. We’ll keep this data in your Waze Account until you choose to remove it and/or update it.
   * **Data that expires after a specific period of time** \- in some cases, you don’t need to actively delete your information as we set retention timeframes based on the reason for the data’s collection. For example, if you choose to connect your calendar to your Waze Account, we extract your calendar events for several days in advance and delete them after their occurrence. We may also take steps to anonymize certain data within set timeperiods.
   * **Information retained until your Waze Account is deleted** \- we may keep some data for the life of your Waze Account if it’s useful for helping us understand how users interact with our features and how we can improve our services. For example, if you made an incident report, we will keep information about how many reports you have submitted, even after the event is removed. When you delete your Waze Account, the information about how many reports you have submitted is also removed.
-  * **Information retained for extended time periods for limited purposes** \- sometimes business and legal requirements oblige us to retain certain information, for specific purposes, for an extended period of time. For example, when Waze processes a payment for you, we’ll retain this data for longer periods of time as required for tax or accounting purposes. Reasons we might retain some data for extended periods of time include: 
-    * Security, fraud & abuse prevention
-    * Financial record-keeping
-    * Complying with legal or regulatory requirements
-    * Ensuring the continuity of our services
-    * Direct communications with Waze
+  * **Information retained for extended time periods for limited purposes** \- sometimes business and legal requirements oblige us to retain certain information, for specific purposes, for an extended period of time. For example, when Waze processes a payment for you, we’ll retain this data for longer periods of time as required for tax or accounting purposes. Reasons we might retain some data for extended periods of time include: _ Security, fraud & abuse prevention _ Financial record-keeping _ Complying with legal or regulatory requirements _ Ensuring the continuity of our services * Direct communications with Waze
 
 
 
@@ -277,6 +270,8 @@ Waze may use cookies and similar technologies on the Services. Cookies are packe
 Waze may use cookies for various purposes, such as to save you the need to re-enter your username and password each time you log in, to facilitate the use of the Website, to collect statistical information, to verify information, and to customize the Website to your personal preferences and for information security purposes.
 
 Some of the cookies may expire when the session ends and you exit your browser. Other cookies are saved on your computer’s hard drive. If you wish to block the Website’s cookies, then please use the help button in your browser and follow the necessary instructions. However, bear in mind that disabling cookies may complicate or even prevent your use of the Website, or certain features thereof.
+
+For more information visit our [cookie policy](https://web.archive.org/legal/cookies).
 
 Waze allows advertisers to run ad campaigns on the Services.
 
