@@ -1,30 +1,6 @@
-> *The following text is extracted and transformed from the belleproperty.com privacy policy that was archived on 2017-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170730045719id_/https%3A//www.belleproperty.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belleproperty.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229234017id_/https%3A//www.belleproperty.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Belle Property Australasia
-
-Property Type __
-
-  * buy
-    *  __Any
-    *  __House
-    *  __Unit
-    *  __Townhouse
-    *  __Villa
-    *  __Apartment
-    *  __Flat
-    *  __Studio
-    *  __Warehouse
-    *  __Duplex/Semi-detached
-    *  __Alpine
-    *  __Acreage/Semi-rural
-    *  __Block Of Units
-    *  __Terrace
-    *  __Retirement
-    *  __Serviced Apartment
-    *  __Land
-    *  __Other
-  * 
-
 
 Belle Property Australasia Pty Ltd (ACN 12769420) (Belle Property) together with our Related Bodies Corporate (as defined pursuant to the Corporations Act 2001 (Cth)), Franchisees, Agents and Licensees (Belle Property Parties) are committed to protecting your privacy. This document provides information we are required to tell you regarding collection of your personal information pursuant to the Privacy Act 1988 (Cth) (Privacy Act).Belle Property and the Belle Property Parties collect and use personal information from their clients, prospective clients, attendees at rental and property open for inspections, as well as visitors to the Belle Property website located at http://www.belleproperty.com (Belle Property Website) in order to provide you with our services which include real estate services connected with buying, selling and leasing properties (commercial and residential as well as holiday homes) and responding to your requests, questions and comments (Belle Property Services).
 
