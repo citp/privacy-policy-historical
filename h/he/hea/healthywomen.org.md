@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthywomen.org privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627045034id_/http%3A//www.healthywomen.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthywomen.org privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229172010id_/https%3A//www.healthywomen.org/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy | HealthyWomen
 
@@ -66,6 +66,18 @@ We may collect certain information automatically through our Services or other m
 Information from Other Sources
 
 We may receive information about you from other sources, including through third-party services and organizations to supplement information provided by you. For example, if you access our Services through a Third-Party application, such as an App Store or social network site ("SNS"), we may collect information about you from that third-party application that you have made public via your privacy settings. Information we collect through App Stores or SNS accounts may include your name, your SNS user identification number, your SNS user name, location, sex, birth date, email, profile picture, and your contacts on the SNS. This supplemental information allows us to verify information that you have provided to HealthyWomen and to enhance our ability to provide you with information about our business and Services.
+
+Advertising Privacy
+
+This Site is affiliated with AdThrive, LLC ("AdThrive") for the purposes of placing advertising on the Site.  AdThrive uses standard and widely-available tools for the placement and serving of ads, including those provided by Google, Inc. and its affiliates. We publish interest-based advertisements on the Site; that is, ads that are tailored to reflect your interests. To help understand your interests, AdThrive, Google and our other advertising partners will track your behaviour on our website and on other websites across the Internet using cookies.  
+
+A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server. Cookies may be either "persistent" cookies or "session" cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed.  Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies.
+
+By using this Site, you consent to the use of such cookies and the sharing of data captured by such cookies with AdThrive, Google, and our other third party partners. You can view, delete or add interest categories associated with your browser by visiting: [https://adssettings.google.com](https://adssettings.google.com/). You can also opt out of the network cookie using those settings or using the Network Advertising Initiative's multi-cookie opt-out mechanism at: [http://optout.networkadvertising.org](http://optout.networkadvertising.org/). However, these opt-out mechanisms themselves use cookies, and if you clear the cookies from your browser your opt-out will not be maintained.  
+
+For European Economic Area Residents
+
+If you reside in a country in the European Economic Area (EEA), then under the GDPR and applicable data protection laws you have the rights, among other things, to access your personal data, have us erase it, and/or restrict its further processing.  If you wish to access or delete your personal data (if any) maintained by us or AdThrive related to advertising on the Site, you can contact us at [info@healthywomen.org](mailto:info@healthywomen.org) **** and contact AdThrive at [info@adthrive.com](mailto:info@adthrive.com). If you wish to see a list of the advertising partners we work with or change which of those partners track your behavior using cookies, click the ad preferences link at the bottom of the site. (Available in the EU.)
 
 2\. How do we use the information we collect?
 
