@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the buckrail.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629160433id_/https%3A//buckrail.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buckrail.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229173456id_/https%3A//buckrail.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Buckrail
+# Privacy Policy - Buckrail - Jackson Hole, news
 
 The Jackson Hole Buckrail Privacy Policy  
 ==============  
@@ -121,7 +121,28 @@ us, please note that we transfer the information, including Personal
 Information, to United States and process it there. Your consent to this Privacy Policy followed by your submission of such  
 information represents your agreement to that transfer.
 
-8\. Links To Other Websites
+8\. Legal Basis for Processing Personal Data Under General Data Protection Regulation (GDPR)  
+If you are from the European Economic Area (EEA), Buckrail’s legal basis for collecting and using Personal Information described in this Privacy Policy depends on the Personal Information we collect and the specific context in which we collect it.  
+Buckrail may process your Personal Information because:  
+• Buckrail needs to perform a contract with you  
+• You have given us permission to do so  
+• For payment processing purposes  
+• To comply with the law  
+9\. Your Data Protection Rights Under General Data Protection Regulation (GDPR)
+
+If you are a resident of the European Economic Area (EEA), you have certain data protection rights. Buckrail aims to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Information.  
+If you wish to be informed what Personal Information we hold about you and if you want it to be removed from our systems, please contact us.  
+In certain circumstances, you have the following data protection rights:  
+• The right to access, update or to delete the information we have on you. Whenever made possible, you can access, update or request deletion of your Personal Information by contacting us.  
+• The right of rectification. You have the right to have your Persona Information rectified if that information is inaccurate or incomplete.  
+• The right to object. You have the right to object to our processing of your Personal Information  
+• The right of restriction. You have the right to request that we restrict the processing of your Personal Information.  
+• The right to data portability. You have the right to be provided with a copy of the Personal Information we have on you in a structured, machine-readable and commonly used format.  
+• The right to withdraw consent. You also have the right to withdraw your consent at any time where Buckrail relied on your consent to process your Personal Information.  
+Please note that we may ask you to verify your identity before responding to such requests.  
+You have the right to complain to a Data Protection Authority about our collection and use of your Personal Information. For more information, please contact your local data protection authority in the European Economic Area (EEA).
+
+10\. Links To Other Websites
 
 The Buckrail Service may contain links to other sites that are not operated by Buckrail. If  
 you click on a third party link, you will be directed to that third party’s  
@@ -129,11 +150,11 @@ site. We strongly advise you to review the Privacy Policy of every site you
 visit. We have no control over, and assume no responsibility for the content, privacy  
 policies or practices of any third party websites or services.
 
-9\. Compliance with California Online Privacy Protection Act  
+11\. Compliance with California Online Privacy Protection Act  
 California Online Privacy Protection Act (“CalOPPA”) is the first state law in the nation to require commercial websites and online services to post a Privacy Policy. The law’s reach stretches beyond the borders of California to require a person or company in the United States that operates websites collecting Personal Information from California consumers to post a conspicuous Privacy Policy on its website. See http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf  
 According to CalOPPA we agree that users can visit our site anonymously.
 
-10\. Children’s Privacy  
+12\. Children’s Privacy  
 ——————  
 Only persons age 18 or older have permission to access the Buckrail Service. The Buckrail  
 Service does not address anyone under the age of 13 (“Child” or “Children”).  
@@ -142,9 +163,9 @@ have provided Buckrail with Personal Information, please contact us. If we becom
 aware that we have collected Personal Information from a Child without verified parental consent, we will take steps to remove that Personal Information  
 from Buckrail’s servers.
 
-11\. Changes To This Privacy Policy  
-——————————  
-This Privacy Policy is effective as of May___, 2018 and will remain in  
+13\. Changes To This Privacy Policy
+
+This Privacy Policy is effective as of June___, 2018 and will remain in  
 effect except with respect to any changes in its provisions in the future,  
 which will be in effect immediately after being posted on this page.  
 Buckrail reserves the right to update or change our Privacy Policy at any time and  
@@ -153,10 +174,10 @@ Service after Buckrail posts any modifications to the Privacy Policy on this pag
 will constitute your acknowledgment of the modifications and your consent to  
 abide and be bound by the modified Privacy Policy.
 
-If Buckrail makes any material changes to this Privacy Policy, we will notify you  
+If Buckrail makes any material changes to this Privacy Policy, Buckrail will notify you  
 either through the email address you have provided us, or by placing a  
 prominent notice on our website.
 
-12\. Contact Us
+14\. Contact Us
 
 If you have any questions about this Privacy Policy, please contact us at:(307) 222-8609 or info@buckrail.com.
