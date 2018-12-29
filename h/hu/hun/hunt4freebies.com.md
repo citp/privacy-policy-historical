@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hunt4freebies.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610012733id_/http%3A//hunt4freebies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hunt4freebies.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229200500id_/https%3A//hunt4freebies.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Hunt4Freebies
 
@@ -14,10 +14,10 @@ Users may opt out of the use of the DART cookie by visiting the [Google ad and c
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
 
-Our Ad companies – [click here](http://hunt4freebies.com/advertising-companies/).  
-[Disclosure Policy](http://hunt4freebies.com/disclosure-policy/)
+Our Ad companies – [click here](https://www.hunt4freebies.com/advertising-companies/).  
+[Disclosure Policy](https://www.hunt4freebies.com/disclosure-policy/)
 
-**What do we use your information for?**
+ **What do we use your information for?**
 
 Any of the information we collect from you may be used in one of the following ways:
 
@@ -41,41 +41,41 @@ If you decide to opt-in to our mailing list, you will receive emails that may in
 
 Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-**Do we use cookies?**
+ **Do we use cookies?**
 
 Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
 We use cookies to keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-**Do we disclose any information to outside parties?**
+ **Do we disclose any information to outside parties?**
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-**Third party links**
+ **Third party links**
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-**California Online Privacy Protection Act Compliance**
+ **California Online Privacy Protection Act Compliance**
 
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-**Terms and Conditions**
+ **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://hunt4freebies.com/disclaimer/>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <https://www.hunt4freebies.com/disclaimer/>
 
 **Your Consent**
 
 By using our site, you consent to our privacy policy.
 
-**Changes to our Privacy Policy**
+ **Changes to our Privacy Policy**
 
 If we decide to change our privacy policy, we will post those changes on this page.
 
-**Contacting Us**
+ **Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-www.hunt4freebies.com  
-mike@hunt4freebies.com
+www.www.hunt4freebies.com  
+mike@www.hunt4freebies.com
 
 You can Also Follow Us On **[Facebook](http://www.facebook.com/Hunt4Freebies)** , **[Twitter](http://twitter.com/hunt4freebies)** , **[Pinterest](http://pinterest.com/hunt4freebies/)** and **[Google+](https://plus.google.com/107140567143652888131/?prsrc=3)** for 24 hour freebie updates and more!
