@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the riptapparel.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629043700id_/https%3A//www.riptapparel.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riptapparel.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229062402id_/https%3A//www.riptapparel.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # RIPT Apparel Privacy Policy | RIPT Apparel
+
+We can't guarantee delivery by Christmas for International orders placed after November 30th and Domestic orders placed after December 10th. 
 
 Welcome to RIPT Apparel (“RIPT,” “we,” “us” and/or “our”). This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from https://www.riptapparel.com (the “Site”).
 
