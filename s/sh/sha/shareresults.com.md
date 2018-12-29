@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shareresults.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620073622id_/https%3A//www.shareresults.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shareresults.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229080046id_/https%3A//www.shareresults.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Share Results
 
@@ -6,7 +6,7 @@ The Affiliate Program was created to manage relationships between Affiliates and
 
 The following policies are only in effect for the Web pages, newsletters and opt-in announcement lists owned and operated by the Affiliate Program. This policy forms part of, and should be read in conjunction with, our Terms and Conditions.
 
-You may contact us regarding this Privacy Policy by e-mail, [info@innovomedia.com](mailto:info@innovomedia.com?subject=Questions%20about%20the%20Privacy%20Policy%20on%20the%20Share%20Results%20Site "Email us regarding this Privacy Policy"), or by mail to our headquarters address:
+You may contact us regarding this Privacy Policy by e-mail, [info@shareresults.com](mailto:info@shareresults.com?subject=Questions%20about%20the%20Privacy%20Policy%20on%20the%20Share%20Results%20Site "Email us regarding this Privacy Policy"), or by mail to our headquarters address:
 
 Share Results  
 2020 Robert-Bourassa, Suite 2330  
@@ -24,7 +24,7 @@ Requesting Services: we collect information if:
 
 
 
-If you are one of these users, when you register and start using any of our sites located at [www.shareresults.com](http://innovomedia.com/clientes/SR "Share Results") and [www.shareresults.ca](http://www.shareresults.ca/ "Share Results") (the “Site”), we require relevant program information, including but not limited to log-in, contact, company, website, website user and payment data in order to manage your account and provide you with the services requested. In addition, once you are a member of Share Results, we require sales and earnings data and we collect performance statistics related to your Share Results affiliate program(s) in order to properly compensate our users.
+If you are one of these users, when you register and start using any of our sites located at [www.shareresults.com](http://www.shareresults.com/ "Share Results") and [www.shareresults.ca](https://www.shareresults.com/ "Share Results") (the “Site”), we require relevant program information, including but not limited to log-in, contact, company, website, website user and payment data in order to manage your account and provide you with the services requested. In addition, once you are a member of Share Results, we require sales and earnings data and we collect performance statistics related to your Share Results affiliate program(s) in order to properly compensate our users.
 
 ### Contacting us with a Question
 
@@ -53,7 +53,7 @@ Finally, in cases required by law, we may disclose personal information.
 
 ### Access, Update and Deletion
 
-We want your information and preferences to be accurate and complete. If you would like to access or update the personal information we maintain about you in our systems, please contact us at [info@innovomedia.com](mailto:info@innovomedia.com?subject=About%20Access,%20Update%20and%20Deletion%20of%20information%20on%20the%20Share%20Results%20system "Email us about Access, Update and Deletion"). You may use the same contact information above to send us a request that we delete personally identifiable information stored in the databases we actively use. Unless restricted by law, we will take all reasonable steps to functionally delete such information from our database(s), although we may keep a copy for archival purposes for as long as we deem necessary. We will respond to your request to access, update or delete your information within thirty (30) business days.
+We want your information and preferences to be accurate and complete. If you would like to access or update the personal information we maintain about you in our systems, please contact us at [info@shareresults.com](mailto:info@shareresults.com?subject=About%20Access,%20Update%20and%20Deletion%20of%20information%20on%20the%20Share%20Results%20system "Email us about Access, Update and Deletion"). You may use the same contact information above to send us a request that we delete personally identifiable information stored in the databases we actively use. Unless restricted by law, we will take all reasonable steps to functionally delete such information from our database(s), although we may keep a copy for archival purposes for as long as we deem necessary. We will respond to your request to access, update or delete your information within thirty (30) business days.
 
 ### Surveys
 
