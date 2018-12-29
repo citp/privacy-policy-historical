@@ -1,13 +1,10 @@
-> *The following text is extracted and transformed from the iplocation.net privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609083124id_/https%3A//www.iplocation.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iplocation.net privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229143430id_/https%3A//www.iplocation.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-  
-
+# 
 
 ## 1\. PRIVACY STATEMENT
 
-IP Location respects your privacy and is comitted to protecting your privacy. Personally identifiable information about you is not willfully discolsed to any third party without your consent. This notice describes our privacy policy. By visiting any of the sites offered by IP Location, an Edula company, you are accepting the practices described in this Privacy Notice. 
+IP Location respects your privacy and is committed to protecting your privacy. Personally identifiable information about you is not willfully disclosed to any third party without your consent. This notice describes our privacy policy. By visiting any of the sites offered by IP Location, a Brand Media company, you are accepting the practices described in this Privacy Notice.
 
 ## 2\. PERSONAL INFORMATION
 
@@ -25,7 +22,7 @@ The protection of children's online privacy is very important to us. IP Location
 
 ## 5\. CHANGES TO PRIVACY POLICY
 
-IP Location may occasionally update this "Privacy Policy" to better meet our business needs. Specifically, this Privacy Policy may be updated to reflect new features, services, and any changes on the use of personal information. Continued use of IP Location web site and its services will indicate that you agree with such changes. We encourage you to periodically review our privacy policy to be informed of how we protect your privacy information.
+IP Location may occasionally update this "Privacy Policy" to better meet our business needs. Specifically, this Privacy Policy may be updated to reflect new features, services, and any changes on the use of personal information. Continued use of IP Location website and its services will indicate that you agree with such changes. We encourage you to periodically review our privacy policy to be informed of how we protect your privacy information.
 
 ## 6\. QUESTIONS AND CONCERNS
 
