@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tubeninja.net privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629050311id_/https%3A//www.tubeninja.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tubeninja.net privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229070023id_/https%3A//www.tubeninja.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | TubeNinja
 
