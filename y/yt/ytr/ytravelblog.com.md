@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ytravelblog.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629024527id_/https%3A//www.ytravelblog.com/disclaimer/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ytravelblog.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229045232id_/https%3A//www.ytravelblog.com/disclaimer/website-privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy - y Travel Blog
 
@@ -40,7 +40,7 @@ How we collect, store, use and secure personal data is in line with Europe’s n
 
 We collect some information about you automatically when you visit our websites or use our services, like your IP address and device type. We also collect information when you navigate through our websites and services, including what pages you looked at and what links you clicked on. This information is useful for us as it helps us get a better understanding of how you’re using our websites and services so that we can continue to provide the best experience possible (e.g., by personalising the content you see).
 
-Some of this information is collected automatically by cookies or similar tracking technologies.  ‘Cookies’ are pieces of information that websites send to the browser and are stored in the computer hard-drive. Cookies make using the Website easier by storing information about your preferences on the Website. This allows the Website to be tailored to you for any of your return visits. Cookies will not identify you personally.
+Some of this information is collected automatically by cookies or similar tracking technologies. ‘Cookies’ are pieces of information that websites send to the browser and are stored in the computer hard-drive. Cookies make using the Website easier by storing information about your preferences on the Website. This allows the Website to be tailored to you for any of your return visits. Cookies will not identify you personally.
 
 This website includes advertisement and those advertisers may collect, use, store and disclose data and information collected from visitors, including information related to your demographic information. Our trsuted advertising partners include AdThrive.com and Google.com Each of these advertising partners has their own privacy policy for their site, which you can review at each of their sites.
 
