@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the att.jobs privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629082558id_/https%3A//about.att.com/sites/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the att.jobs privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229172437id_/https%3A//about.att.com/sites/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | AT&T
-
-* [Company Profile](https://web.archive.org/web/20171228071645/https://about.att.com/sites/company_profile)
 
 ## Our Privacy Commitments
 
@@ -23,7 +21,7 @@ Whenever you do something like buy one of our products, watch a show or download
 
 
   
-**Effective May 2, 2017**
+**Revised July 21, 2018**
 
 ## A Quick Summary of Our Privacy Policy
 
@@ -166,27 +164,10 @@ Thanks for your feedback on our updated Privacy Policy. We heard you and, as a r
 
 ### For Users of AT&T Business Services in Europe
 
-AT&T is committed to providing global service in compliance with all applicable law. For users of AT&T Business Services in the European Union, AT&T has [published a Privacy Notice](http://link.att.com/GDPRCustomerPrivacyNotice) to provide transparency on our data processing activities, the types of personal data we process, and the legal rights of individuals under the General Data Protection Regulation (GDPR).
+AT&T is committed to providing global service in compliance with all applicable law. For users of AT&T Business Services in the European Union, AT&T has [published a Privacy Notice](https://web.archive.org/ecms/dam/sites/Privacy%20Policy/GDPR_Customer_Privacy_Notice_May_2018.pdf) to provide transparency on our data processing activities, the types of personal data we process, and the legal rights of individuals under the General Data Protection Regulation (GDPR).
 
 ### Welcome DIRECTV Customers
 
 DIRECTV is now part of the AT&T family. For convenience, all AT&T products and services are covered under a single, easy-to-read Privacy Policy. The policy lays out our commitments to privacy and describes our policies for helping to protect personal information. We invite you to learn more about our commitments, safeguards and customer choices by reviewing our AT&T Policy, and we [welcome your feedback](mailto:privacypolicy@att.com).
 
-## Please Be Aware
-
-AT&T will never contact you by e-mail to ask for your personal information. If you receive such an e-mail, do not reply. Learn more about how to [protect yourself from phishing attacks](http://www.att.net/s/editorial.dll?bfromind=19023&eeid=7626712&_sitecat=2009&dcatid=0&eetype=article&render=y&ac=0&ck=&ch=smartcontrol&cat=smct&topic=is).
-
-  * [Legal Policy Center](https://web.archive.org/web/20171228071645/https://www.att.com/legal/legal-policy-center.html)
-  * [Privacy Policy](https://web.archive.org/web/20171228071645/http://www.att.com/privacy/)
-  * [Terms of Use](https://web.archive.org/web/20171228071645/https://www.att.com/legal/terms.attWebsiteTermsOfUse.html)
-  * [Broadband Information](https://web.archive.org/web/20171228071645/https://www.att.com/gen/public-affairs?pid=20879)
-  * [Advertising Choices](https://web.archive.org/web/20171228071645/http://www.att.com/internal/adchoices)
-  * [Accessibility](https://web.archive.org/web/20171228071645/https://www.att.com/shop/wireless/mobile-accessibility.html)
-  * [Contact Us](https://web.archive.org/web/20171228071645/https://www.att.com/contactus/)
-  * [Site Map](https://web.archive.org/web/20171228071645/http://www.att.com/aboutsitemap)
-
-
-
-[© 2020 AT&T Intellectual Property.](https://web.archive.org/web/20171228071645/http://www.att.com/gen/privacy-policy?pid=2587) All rights reserved.
-
-[](https://web.archive.org/web/20171228071645/https://privacy.truste.com/privacy-seal/validation?rid=6a62df46-069b-45ec-8768-f516726eb8f6)
+[](https://privacy.truste.com/privacy-seal/validation?rid=6a62df46-069b-45ec-8768-f516726eb8f6)
