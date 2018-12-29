@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the complaintboard.in privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629121800id_/https%3A//www.complaintboard.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the complaintboard.in privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229140905id_/https%3A//www.complaintboard.in/privacy-policy.html) for the most accurate reproduction.*
 
 # Indian Complaint Board Forum
 
@@ -12,7 +12,7 @@ During the registration on the Site, we collect "Personally Identifiable Informa
 
 
 
-ComplaintBoard.in, or people that submit posts on ComplaintBoard.in, may provide links to third party web sites, which may have different privacy practices than ComplaintBoard.in. We are not responsible for, nor have any control over, the privacy policies on these third party web sites. We encourage all users to read the privacy policies of every web site you visit. 
+ComplaintBoard.in, or people that submit posts on ComplaintBoard.in, may provide links to third party websites, which may have different privacy practices than ComplaintBoard.in. We are not responsible for, nor have any control over, the privacy policies on these third party websites. We encourage all users to read the privacy policies of every website you visit. 
 
 Registration is required to submit a post through our service or to use other types of functionality that require the service to recognize a user (e.g., personally contacting the site users by sending a message). If you decide to register or sign up for certain services, you will need to give us certain Personally Identifiable Information, such as a valid e-mail address, postal address, telephone number. This Personally Identifiable Information will be used to personalize and improve your experience of our service. This information will not be disclosed to any third-party without your explicit consent. 
 
@@ -20,7 +20,7 @@ Registered users may choose to receive the notifications or receive other mailin
 
 You can review and change your Personally Identifiable Information at any time on the My Profile in the My Account section. 
 
-Like many web sites, ComplaintBoard.in uses a standard technology called "cookies." A cookie is a small text file stored on your computer's hard drive that can be accessed by a specific web site to make your experience quicker and more convenient. Cookies allow our users to login without entering their ID and password each time they use ComplaintBoard.in. Cookies also help us understand how our users use the Site, which allows us to improve the service. We do not use cookies to retrieve any information from your computer other than the information we provide, such as a user code. 
+Like many websites, ComplaintBoard.in uses a standard technology called "cookies." A cookie is a small text file stored on your computer's hard drive that can be accessed by a specific website to make your experience quicker and more convenient. Cookies allow our users to login without entering their ID and password each time they use ComplaintBoard.in. Cookies also help us understand how our users use the Site, which allows us to improve the service. We do not use cookies to retrieve any information from your computer other than the information we provide, such as a user code. 
 
 In addition to Personally Identifiable Information you provide at registration or by using the service, we collect the following information: 
 
@@ -66,6 +66,3 @@ If we merge with or are acquired by another company, the resulting combined comp
 ### Share this site with others
 
 ### Recently Updated Complaints
-
-[tspsc - FEE REFUND](https://web.archive.org/complaints-reviews/tspsc-l428893.html)  
-RESPECTED DEAR SIR/MADAM I HAVE TRIED TO APPLY FOR VRO...
