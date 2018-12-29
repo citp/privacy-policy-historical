@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genealogyarchives.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625154940id_/https%3A//www.ancestry.com/cs/legal/privacystatement%3FhideHeader%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genealogyarchives.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229204643id_/https%3A//www.ancestry.com/cs/legal/privacystatement%3FhideHeader%3D1) for the most accurate reproduction.*
 
 # Privacy Statement - Ancestry.com
 
