@@ -1,79 +1,220 @@
-> *The following text is extracted and transformed from the athlonsports.com privacy policy that was archived on 2009-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090820223347id_/http%3A//www.athlonsports.com/pages/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the athlonsports.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229042453id_/https%3A//policies.athlonsports.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
-**Athlon Sports   Privacy Statement**
+**Athlon sports**
 
-Welcome to the Athlon Sports web site, available at www.athlonsports.com (this 'Site').  This Site is owned and operated by Athlon Sports Communications, Inc. ('Athlon'). This Statement discloses the Privacy Policy ('Policy') for this Site and describes how we collect, protect and use information we receive from visitors to our Site. Athlon has created this Policy in order to demonstrate and inform you of our firm commitment to privacy.  This Policy applies only to information collected through this Site and not to information collected offline.
+**Privacy Policy**
 
-_Last updated and effective as of May 1st, 2006._
+_Last Updated_ : May 25, 2018
 
-There are two kinds of information web sites can obtain about you: 
+**1.               **** Overview**
 
-(1) _Anonymous Information_ : 'Anonymous Information' is aggregate data that web sites use to administer their sites. It may include such information as your browser type or your Internet Protocol (IP) address. Athlon may from time to time retain third parties to help us collect and aggregate Site customer information. 
+We are Athlon Sports Communications, Inc. (dba AMG Parade), including Parade.com, AthlonSports.com and CommunityTable.com (collectively, “ _Athlon_ ,” “ _we_ ,” “ _us_ ,” or “ _our_ ”).  This “ _Privacy Policy_ ” governs each website, mobile site, application, and any service provided thereby, regardless of how distributed, transmitted, published, or broadcast (each, a “ _Service_ ”) provided by Athlon Sports Communications Inc., its parent, subsidiaries and/or affiliates that links to this Privacy Policy. 
 
-**IP Addresses**. **  **An IP address is unique string of numbers that is assigned to your computer by your Internet Service Provider. Web servers automatically identify your computer by its IP address. We use your IP address to help diagnose problems with our server, to administer our Site, avoid hacking attacks on the Site's server, and may use it to gather broad demographic information. We do not link IP addresses to any personally identifiable information, even if such information is voluntarily provided by a user. 
+We have developed this Privacy Policy to inform you how we collect data through our Services, how we use the collected data, and a user’s rights with respect to the collected data.  This Privacy Policy is binding on all those who access, visit and/or use our Services, whether acting as an individual or on behalf of an entity, including you and all persons, entities, or digital engines of any kind that harvest, crawl, index, scrape, spider, or mine digital content by an automated or manual process or otherwise (collectively, “ _user_ ,” “ _you_ ,” or “ _your_ ”).
 
-**Cookie Information**. As is the case with many web sites, our Site uses a technology called 'cookies', which are small data files that are downloaded onto your computer. The use of cookies is standard on the Internet, and allows us to tailor your visits to our Site to your individual preferences.  We may also contract with third party service providers who assign cookies to conduct site tracking for us. These companies use cookies solely to provide us with aggregate data about Site traffic. Although most web browsers automatically accept cookies, you can change your browser to prevent cookies or notify you whenever you are sent a cookie. Even without accepting a cookie, you can still access most of the features on our Site.  ****
+Please read this Privacy Policy carefully. If you do not agree to be bound by this Privacy Policy, then do not access or use any of our Services.  By accessing and/or using a Service, you accept and agree to be bound by this Privacy Policy and our Terms of Use [[https://policies.athlonsports.com/user-agreement](https://policies.athlonsports.com/user-agreement)], which is hereby incorporated by reference.
 
-(2) _Personally Identifiable Information_ : 'Personally Identifiable Information' is any information that personally identifies you, such as your name, email address or your telephone number. Sometimes this personal information is needed when you place an order for merchandise or other goods from Athlon, subscribe to our magazines, register in our Fantasy sports leagues, or when you contact us.  We may ask you to provide us with personal information on a voluntary basis in certain areas of our Site. In particular, you may be asked to provide the following information:
+**2.               ****Information we collect from you and how we collect it**
 
-**User IDs and Passwords**. To order magazines or collectibles through the Site, or to participate in Fantasy Sports contests, we may request that you create a login name and password.  We will use this information to maintain your account.  We may also use this information to send you announcements of new Site features, special offers and promotional material that we think may be of interest to you. You may elect not to receive such information by opting out as described below.
+_Information We Collect_.  We collect information about your use of our Service, including but not limited to: your online behavior, your Internet connections, mobile, or other device computer equipment, as well as the site(s), application(s), destination(s), and/or service(s) visited before using or accessing the Services, and after leaving the Services, along with your time of visits, content viewed, ads viewed, and other similar information about traffic and usage, as you navigate to, through, and away from our website(s), including other clickstream data. This is “ _Non-Personal Data_ ,” which does not directly, personally identify you. 
 
-**Email Correspondence**. Scattered throughout the Site are links or forms that can be used to contact Athlon so you can comment, make a complaint, make suggestions and ask questions. Your email address is required on this form so we can answer your questions. Athlon may put information from email on file, but does not currently share, sell, license or transmit this information with third parties without express authorization from you. ****
+We also use “ _cookies_ ” to enhance your use of our Services.  A cookie is information either temporarily or permanently stored in a file on your computer.  You can set your browser to reject cookies, but that may limit your use of some convenient features of our Service(s).  For more information on cookies and how our Services use cookies, please see our Cookie Notification [[https://policies.athlonsports.com/cookie-policy](https://policies.athlonsports.com/cookie-policy)].
 
-#####  HOW WE USE GATHERED INFORMATION
+_Information You Provide, Directly and Indirectly_.  You may register to use our Services, set up an account, enter a sweepstakes or contest, complete a survey, make a payment, subscribe to our Services, or respond to communications (e.g., surveys, polls, requests for feedback).  We will collect the information you provide to us.  This may include your IP address, first and last name(s), demographic information, mailing address, e-mail address, phone number, credit card number, and any other information you provide to us.  Such information may also include the geographic location of you and/or your computer, mobile or other device, as well as date/time stamp, IP address, your computer (e.g., the make, model, settings, and specifications, including but not limited to your CPU speed, connection speed, browser type, operating system, device identifier).  While using our Services, you may also transmit your communication preferences, your physical location, your demographic information (e.g., your age, marital status, ethnicity/race, and gender), and other information.  All of this is “ _Personal Data_ ,” which can be used to personally identify you. 
 
-The information you share with us may be used in a few ways:
+Additionally, if you choose to access, visit, and/or use any _third party social networking service(s)_ that may be integrated with our Service, we may receive your Personal Data and other information about you and your computer, mobile, or other device that you have made available to those social networking services, including information about your contacts on those services.  For example, some social networking services allow you to push content from our Service to your contacts or to pull information about your contacts so you can connect with them on or through our Service.  Some social networking services also will facilitate your registration for our Service or enhance or personalize your experience on our Service.  Your decision to use a social networking service in connection with our Service is voluntary.  However, you should make sure you are comfortable with the information your third-party social networking services may make available to our Service by visiting those services’ privacy policies and/or modifying your privacy settings directly with those services.
 
-(1) _Anonymous Information_ :  Anonymous Information is used internally for Site administration, troubleshooting and to help improve the quality of this Site and its design. We may share such aggregated, non-personally identifiable information, such as demographics, with existing and prospective business partners and advertisers.  We never connect aggregate information with Personally Identifiable Information, and none of the Anonymous Information we share will contain any information that identifies you individually.
+**3.               ****How we use information about you**
 
-(2) _Personally Identifiable Information_ :  Personally Identifiable Information collected by Athlon may be used for purposes including administration of the Site, order processing, management of promotions or contests, and communications with you. In all cases, however, we will only use your information as permitted by law. We may also disclose Personally Identifiable Information if we are required to do so by law or we in good faith believe that such action is necessary to (a) comply with the law or with legal process; (b) protect and defend our rights and property; (c) protect against misuse or unauthorized use of the Site; or (d) protect the personal safety or property of our users or the public. Please note that we may not provide you with notice prior to disclosure in such cases. ****
+_For Legitimate Interests_.  Athlon uses information collected by clickstream data collection, web pixels, and cookies to store your preferences, improve website navigation, make personalized features and other services available to you, compile and analyze aggregate statistics and trends, and otherwise help administer and improve the Services.  We may identify you from your Personal Data and merge or co-mingle Personal Data and Non-Personal Data, for any lawful business purpose.  Where you provide registration information, cookies can also be used to identify you when you log onto the Services or portions of the Services.  Except as otherwise stated, we may use information we collect from you for the legitimate business purpose of providing our Services to you, including, but not limited to:
 
-**Opt-ouT**
+·       to administer the Services 
 
-Although most users of this Site indicate that they welcome details of offers and other promotional material about Athlon, we support the right of our visitors to choose. You will be given the right to opt-out of receiving such information whenever you are asked to provide Personally Identifiable Information on this Site. If you do not opt-out at that time, but later decide that you do not wish to receive future communications of this nature you can contact us at info@athlonsports.com or at the address provided below, indicating that you no longer want to receive information relating to this Site.
+·       to help diagnose problems with our servers 
 
-**Access and Correction**
+·       to customize our Services to your preferences
 
-You have a right to know about the Personally Identifiable Information that Athlon holds about you, including the right to correct, amend or delete the information that Athlon has on file if it is incorrect. If you wish to exercise these rights please contact us by email or postal mail at the addresses below. 
+·       to communicate information to you (e.g., new features, products, or services)
 
-This Site incorporates safeguards to protect the security, integrity and privacy of the personal information we have collected.  We have put in place reasonable precautions to protect information from loss, misuse and alteration, including Secure Socket Layer (SSL) technology and database encryption. While on a secure page, the lock icon on the bottom of Web browsers such as Microsoft Internet Explorer and Mozilla Firefox becomes locked, as opposed to unlocked, or open, when you are just 'surfing'.  While we use SSL encryption to protect sensitive information online, we use reasonable efforts to protect user information offline. Our security and privacy policies are periodically reviewed and enhanced as required and only authorized individuals have access to the information you provide. 
+·       to check on your account status
 
-Security of information communicated by or to us over the Internet is of utmost concern to us; however, no data transmission over the Internet can be guaranteed to be 100% secure.  Please note that your email, like most, if not all, non-encrypted Internet communications, may be accessed and viewed by other Internet users, without your knowledge and permission, while in transit to us.  For that reason, to protect your privacy, please do not use email to communicate information to us that you consider confidential. While we strive to protect your personal information, Athlon cannot ensure or warrant the security of any information you transmit to us or through this Site. Once we receive your transmission, we will use reasonable efforts to ensure its security on our internal systems.  Depending on the nature of the inquiry, your communication may be discarded or archived.  If you wish, you may contact us instead via telephone at the numbers provided throughout our Site.
+·       to improve our Services
 
-As we continue to develop our business, we may buy, merge or partner with other companies or businesses, and in so doing, acquire customer information.  In such transactions, user information may be among the transferred assets. Similarly, in the event that a portion or substantially all of Athlon's assets are sold or transferred to a third party, customer information (including Personally Identifiable Information) would likely be one of the transferred business assets. 
+·       to work with our service providers who perform certain business functions or services on our behalf and who are bound by contractual obligations consistent with this Privacy Policy
 
-## Our Commitment to children's privacy
+·       to show you content and sponsored messaging based on geographic location information from you and/or your computer, mobile, or other device
 
-This Site is controlled, operated and administered entirely within the United States.  By using this Site, you signify your agreement to the terms of this Policy. If you do not agree with this Policy, please do not disclose any personal information through this Site.  This Policy and the use of this Site are governed by Tennessee law.  Any claim related to the Site or this Policy shall be brought in a federal or state court in Davidson County, Nashville, Tennessee, within one year after the claim arises. Users of the Site consent to the exclusive jurisdiction and venue of such courts as the most convenient and appropriate for the resolution of disputes concerning this Policy. This Policy and the notices outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any third party. 
+·       to prevent or investigate fraud (or for risk management purposes), or to comply with a legal obligations, court order, or in order to exercise our legal claims or to defend against legal claims
 
-##### SPECIAL NOTICE TO CALIFORNIA RESIDENTS
+·       to conduct aggregate analysis and develop business intelligence that helps us to enhance, operate, protect, make informed decisions and report on the performances of our Services 
 
-Under the California Civil Code, residents of the State of California that have provided any Personally Identifiable Information to Athlon have the right to request a list of all third parties to which Athlon has disclosed Personally Identifiable Information during the preceding year for direct marketing purposes. Alternatively, the law provides that if Athlon has a privacy policy that gives either an opt-out or opt-in choice for use of Personally Identifiable Information by third parties (such as advertisers or affiliated companies) for marketing purposes, Athlon may instead provide you with information on how to exercise your disclosure choice options. 
+·       for other purposes identified to you and as requested by you (please note that you have the right to withdraw your consent to such use at any time by contacting us via the information below)
 
-Athlon qualifies for the alternative option; it has established this Agreement that provides you with details on how you may either opt-out or opt-in to the use of your Personally Identifiable Information by third parties for direct marketing purposes. Therefore, we are not required to maintain or disclose a list of the third parties that received your Personally Identifiable Information for marketing purposes during the preceding year. 
+_With the Consent of a Data Subject within the European Union.   _If we have obtained your consent, we may also use your information:
 
-If you are a California resident and request information about how to exercise your third party disclosure choices, please send a request to info@athlonsports.com with a preference on how our response to your request should be sent.
+·       to share your information with our corporate parents, subsidiaries, other affiliated entities, and associated entities for the purposes described in this Privacy Policy
 
-#### Modifications To Privacy Policy
+·       to send e-mail and postal mail to provide you with updates and news
 
-Athlon may modify this Policy at any time, at its discretion, and modifications are effective upon being posted on this Site. You are responsible for reviewing this Policy periodically to ensure that you are aware of any changes to it. 
+·       to process any request you make
 
-##  
+·       to process any commercial transaction, including but not limited to fulfilling an order or subscription request
 
-## ACCOUNT REVISIONS, REVOKING AND DELETING PERSONAL INFORMATION
+·       to process your Personal Data as described throughout this Policy
 
-We welcome your questions, comments and all feedback pertaining to your privacy or any other issue with regard to this Site. 
+·       to process your Non-Personal Data as outlined as described throughout this Policy
 
-At any time, you may ask us to cease further use of your email address to send you special offers and promotions, and direct us to delete any Personally Identifiable Information you have supplied.  Although it is not always possible to remove or modify such information, we will make reasonable efforts to do so. If you have given us information for one of those third parties we mentioned above and we have already passed it on, we may not be able to delete or change the information. 
+_Performance of a Contract_.  If you have agreed to our terms of use, or other terms of service, and you have created an account, purchased merchandise, signed up for a subscription, or entered into a contest or sweepstakes, we may also use your information:
 
-In the event that you have given us Personally Identifiable Information in the past and then have second thoughts or want to update it, or if you have any other questions regarding this Policy or this Site, you may send an email or contact us at:
+·       to establish your account to use the Services
 
-**E-mail** :             info@athlonsports.com
+·       to validate your username, e-mail, password, and/or other login credentials
 
-**Address** :         220 25th Avenue North, Suite 200
+·       to respond to your requests
 
-Nashville, Tennessee 37203
+·       to provide you with merchandise you have requested
 
-**Telephone** :      (615) 327-0747
+·       to fulfill your subscription purchase(s)
+
+·       to notify you of your contest or sweepstakes results
+
+·       to send you e-mail and postal mail supplying you with the most recent service information or to send you information about your order (e.g., order confirmations, shipment notifications, etc.)
+
+·       to notify you of any changes to relevant agreements or policies
+
+In each case, we may use third‐party e‐mail providers to deliver these communications to you.
+
+**4.               ****Sharing Personal Data with third parties**
+
+We may sell or share information about you and your computer, mobile, or other device, including without limitation, your Personal Data, with our parent, subsidiaries, and affiliates and with carefully selected companies who we think may offer services and/or products that may be of interest to you.  Additionally, we may use, transfer, assign, sell, share, and provide access to your Personal Data and other information about you and your computer, mobile, or other device that we receive through third-party social networking services.  We may use, transfer, sell, and share your and Non-Personal Data, aggregated with other users’ Non-Personal Data, for any lawful business purpose, such as analyzing usage trends and seeking compatible advertisers, sponsors, clients, and customers.
+
+In addition, as our business changes, we may buy or sell various assets.  In the event all or a portion of the assets owned or controlled by us, our parent or any subsidiary or affiliated entity are sold, assigned, transferred or acquired by another company, the information from and/or about our Service users may be among the transferred assets.
+
+Athlon may also share Personal Data it collects with any third party or outside mailing list, in the following circumstances: (a) to satisfy any applicable law, regulation, legal process, subpoena or governmental request; (b) to enforce this Privacy Policy and/or the Terms of Use, including investigation of potential violations thereof; (c) to detect, prevent, or otherwise address fraud, security or technical issues; (d) to respond to claims that contact information (e.g. name, e-mail address, etc.) of a third-party has been posted or transmitted without their consent or as a form of harassment; (e) to protect the rights, property, or personal safety of Athlon, its users, or the general public; (f) for purposes of health, safety and other matters in the public interest ; (g) by virtue of undergoing any change in control, including in connection with corporate restructuring, sale or assignment of assets, merger, divestiture, and other changes of control or financial status, in which case we will require the recipient to use such information in accordance with this Privacy Policy; (h) to Athlon’s affiliates, successors, and agents/representatives (for example, consultants), which are required to treat the information in accordance with this Privacy Policy; or (i) pursuant to your explicit approval prior to the disclosure.
+
+**5.               ****Third-Party Service Providers**
+
+We use third-party service providers to help us operate our Services, who may collect, store, and/or process the information detailed herein.  We allow access to our database by third parties that provide us with services, such as technical maintenance, market research, community and forums management, auction services, and shopping, personal/job search, and other classified ads functionality, but only for the purpose of and to the extent necessary to provide those services.
+
+If you choose to purchase merchandise, products, and/or services on or through features on the Service, we may forward your information to third parties for services such as credit card or other payment processing, order fulfillment, credit pre-authorization, and address verification.  There are also times when you provide information about yourself to us in areas of the Service that may be managed or participated in by third parties. In such cases, the information may be used by us and by such third party(ies), each pursuant to its own policies.  We may also provide your information to our advertisers, so that they can serve ads to you that meet your needs or match your interests.  
+
+Athlon uses commercially reasonable efforts to engage with third parties that post a privacy policy governing their collection, processing, and use of Non-Personal Data and Personal Data.  **While we may seek to require such third parties to follow appropriate privacy policies and will not authorize them to use this information except for the express purpose for which it is provided, and you agree that we  do not bear any responsibility for any actions or policies of third parties.**
+
+_Google Analytics_.  We have enabled Google Analytics to collect data about our traffic through the use of Google advertisements and other anonymous identifiers. We use Google Analytics cookies and other cookies to compile data to better understand users and provide users with a more tailored experience.  You can opt out of Google Analytics by visiting Google’s Opt-Out Browser Add-on website here, [https://tools.google.com/dlpage/gaoptout/](https://tools.google.com/dlpage/gaoptout/).
+
+_Google AdX_.  We use Google AdX to help with managing many of our revenue sources related to online display advertising inventory and allows us to buy and sell ad space on or relating to our Service(s). You can view Google AdX’s privacy policy at [https://support.google.com/adxbuyer/answer/  
+1325008?hl=en](https://support.google.com/adxbuyer/answer/1325008?hl=en). 
+
+_Google AdSense_.  Our Service(s) utilize Google AdSense to promote and manage advertising on those Service(s) tailored to our content and audience. The privacy policy for Google AdSense can be reviewed at [https://termsfeed.com/blog/privacy-policy-google-adsense/](https://termsfeed.com/blog/privacy-policy-google-adsense/). 
+
+_AOL_. We use AOL’s software platform for digital advertising personalization across our Service(s), including brand integration and analysis of advertising trends, to create a positive experience with our Service(s)for desktop, mobile, and tablet users.  AOL Advertising’s privacy policy can be found at [https://privacy.aol.com/legacy/index.html](https://privacy.aol.com/legacy/index.html). 
+
+_Sharethrough_.   Sharethrough’s advertising software is utilized on our Service(s)to manage native ad strategy including sales, delivery, and management.  You can review Sharethrough’s privacy policy at [https://platform-cdn.sharethrough.com/privacy-policy](https://platform-cdn.sharethrough.com/privacy-policy).  
+
+_ZergNet_.  7hops.com, Inc., doing business as ZergNet, is used in contextual advertising, such as ad and article recommendations and sponsored links.  ZergNet’s privacy policy can be found at [https://www.zergnet.com/privacy](https://www.zergnet.com/privacy). 
+
+_AddThis_.  AddThis is a social bookmarking service that can be used for advertising analysis and integrated into a website with the use of a web widget.  You can view AddThis’ privacy policy at [http://www.addthis.com/privacy](http://www.addthis.com/privacy). 
+
+_Quantcast_. Quantcast specializes in AI-driven real-time advertising audience feedback and measurement.  By placing tags on websites, blogs, videos and widgets, the firm measures metrics such as audience age and gender makeup, areas of interest and type, length and frequency of their engagement with certain types of content.  Quantcast’s privacy policy can be reviewed at [https://www.quantcast.com/privacy/](https://www.quantcast.com/privacy/). 
+
+_YouTube_.  We use YouTube to deliver video content through our Service(s).  You can learn more about YouTube’s data collection practices through its privacy policy, which is available at [https://support.google.com/youtube/answer/7671399?p=privacy_guidelines&hl=en&visit_id=1-636628128110092664-2082382643&rd=1](https://support.google.com/youtube/answer/7671399?p=privacy_guidelines&hl=en&visit_id=1-636628128110092664-2082382643&rd=1). 
+
+_Facebook_.  We use Facebook’s conversion tracking pixel and retargeting service(s) to monitor users who are redirected to the Service(s)after clicking on a Facebook ad.  This allows us to monitor our ads and their effectiveness, as well as to provide advertisements to users for products according to their interests.  Facebook explains conversion tracking on its website [[https://www.facebook.com/business/a/online-sales/conversion-tracking](https://www.facebook.com/business/a/online-sales/conversion-tracking)], and Facebook explains its use of Cookies and other storage technologies, as well as how to control Facebook’s use of Cookies, on its site here [hyperlink: [https://www.facebook.com/policies/cookies/](https://www.facebook.com/policies/cookies/)].  You can access Facebook’s privacy policy at [https://www.facebook.com/policy.php](https://www.facebook.com/policy.php).
+
+_Twitter_.  We use Twitter’s widget to facilitate connection between Your Twitter account the Service(s).  Twitter receives data based on this widget.  For information about Twitter’s Privacy Policy, visit its website [[https://twitter.com/privacy?lang=en](https://twitter.com/privacy?lang=en)] or learn about Twitter’s “Tailored Suggestions,” here [[https://support.twitter.com/articles/20169421](https://support.twitter.com/articles/20169421)].
+
+_Other Third-Party Services_.  In addition to the applications listed above, we use other third-party services to obtain, track, and store user information.  By way of example, we use a Customer Relations Management (CRM) software to manage customer data and information. We also use a third-party software to collect information from your browser and computer device in order to capture and analyze user behavior on our Service(s).  The software allows us to track and monitor such actions as clicks, taps, and scrolling behavior.  From time to time, we will use additional content or applications on our Service(s) that are served by third-parties, including advertisers, ad networks and servers, social media websites, content providers, and application providers.  These third parties may use cookies alone or in conjunction with web beacons or other Internet tracking technologies to collect information about you when you use our Site.  The information they collect may be associated with your Personal Data or they may collect information, including Personal Data, about your online activities over time and across different websites and other online services.  We do not control these third parties’ tracking technologies or how they may be used. You can learn more about opting out of third-party vendors’ use(s) of cookies by visiting the “Network Advertising Initiative” website [[http://www.networkadvertising.org/choices/](http://www.networkadvertising.org/choices/)].  You may also visit other websites, such as [http://www.aboutads.info](http://www.aboutads.info/), for more information.
+
+**6.               ****How Personal Data is protected**
+
+Athlon takes reasonable steps online and offline to safeguard the Personal Data that you provide to us, including Secure Sockets Layer (SSL) encrypted connections (HTTPS) to the web site(s) on our Service(s), secure multi-tiered firewalls, and portions of your data may also be encrypted on our storage server for additional security. 
+
+Nonetheless, it is common knowledge that transmission of information via the internet is not wholly secure, and we cannot guarantee the security of your Personal Data, or any other information, transmitted to or through any of our Service(s).  Any transmission of Personal Data, or other information, is at your own risk.  By using our Service(s), you acknowledge and accept these risks.  As a result, we cannot guarantee or warrant the security of any information you disclose or transmit to us or that are otherwise provided to us and we cannot be responsible for the theft, destruction, or inadvertent disclosure of information.   It is your responsibility to safeguard any passwords, ID numbers, or other special access features associated with your use of the Service(s).  Any transmission of information is at your own risk.  By using our Service(s), you acknowledge and accept these risks.
+
+Please notify us immediately at  [help@amgparade.com](mailto:help@amgparade.com) if you become aware of any unauthorized use of your password or account or any other breach of Service security or of this Policy.  If our security system is breached, we will notify you of the breach only if and to the extent required under applicable law.
+
+**7.               ****Your choices, access, and rights to your Personal Data**
+
+You may change, edit, update, or delete the information you provided, when you set up your account through our Service(s), through your account settings.  You may also request the deletion of this information by sending an e-mail to [help@amgparade.com](mailto:help@amgparade.com).
+
+In certain jurisdictions, you may also have the following rights and options with regard to accessing, reviewing, correcting, and updating your Personal Data, as well as how we use and disclose your Personal Data:
+
+_Right to Access_.  We respect your right to access and control your information, and we will respond to requests for information and, where applicable, will correct, amend, or delete your Personal Data. 
+
+·       _How to Access Your Personally Identifiable Information._ You may choose to access or update Personal Data, by logging into the account you have created with our Service(s), if applicable.
+
+·       _Access to Personal Data_.  You may choose to access your Personal Data by contacting us and requesting access, a process which shall include our identity verification procedures.  Before providing data to you, we will ask for proof of identity and sufficient information about your interaction with us so that we can locate any relevant data. We may also charge you a fee for providing you with a copy of your data (except where this is not permissible under local law).
+
+_Updating Communications Preferences (Opt-Out) and Unsubscribing.  _You may choose to receive promotional offers, newsletters, and similar communications from us regarding products and services of Athlon and our affiliated organizations.  You may opt out of receiving such communications from us by communicating your preferences to us at [help@amgparade.com](mailto:help@amgparade.com), or in the case of e-mails, by following the unsubscribe instructions contained in the applicable e-mail. 
+
+_Right to Rectify — Correction and Deletion_. In some jurisdictions, you have the right to correct or amend your Personal Data if it is inaccurate or requires updating. You may also have the right to request deletion of your Personal Data; however, this is not always possible due to legal requirements and other obligations and factors.  Remember that you can update your account information by contacting us at help@amgparade.com.
+
+_Right to Erasure /  Be Forgotten_.  You may request that we delete your Personal Data in certain circumstances, such as if holding the Personal Data is no longer necessary or if part of your Right to Object (below). **Please note that if you request erasure of your account, Athlon, in complying with your request, shall also delete any and all research data that has been submitted to us through our Services. It is your responsibility at all times to ensure that you are in compliance with all applicable rules, policies, and regulations at the institutional, administrative, and federal levels regarding retention of research data, including, but not limited to, United States regulations governing retention and disposal of research records.**
+
+_Right to Object_.  You have the right to object to the user of Personal Data for direct marketing uses, scientific uses, or historical research.  If you do not wish to have your Personal Data shared with third parties, contact our Data Protection Officer as described at the end of this document.  If you do not wish to receive future commercial messages from us, simply follow the unsubscribe instructions contained within the message you receive. (But note that you may continue to receive certain communications from us, such as transactional or relationship messages, and/or messages about your account/profile).
+
+_Right to Restrict Processing_.  You have the right to request that we stop processing your Personal Data.
+
+_Right to Data Portability_.  You have the right to request that we provide your Personal Data for the purpose of sharing it with another service provider (through a secure process).
+
+_Filing a Complaint_. If you are not satisfied with how we manage your Personal Data, you have the right to make a complaint to a data protection regulator. A list of National Data Protection Authorities can be found here: [http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm](http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm).
+
+**8.               ****Retention**
+
+We will retain Personal Data for the period necessary to fulfill the lawful purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law. 
+
+**9.               ****Access from Outside the United States**
+
+If you are visiting the Services from outside the United States, please be aware that Personal and Non-Personal Data is transferred to, stored in, and processed in the United States. ****
+
+**10.            ****Data Protection Officer**
+
+Please see below for information regarding our appointed Data Protection Officer.
+
+If you have an inquiry regarding your Personal Data, pursuant to the rights listed in the preceding section (above), please send your message to the following:
+
+Parade
+
+Attention:  Data Protection Officer for Parade.com
+
+2451 Atrium Way
+
+Nashville, TN 37214
+
+USA
+
+E-mail:  [dpo@amgparade.com](mailto:dpo@amgparade.com)
+
+**11.            ****Links to third partysites**
+
+Our Service(s) may contain links to other sites that are not operated by us.  If you click on a third-party link, you will be directed to that third party’s site.  Such links do not constitute an endorsement by Athlon of those other websites, their content or services, or the persons or entities associated with those websites. This Privacy Policy does not apply to third-party websites.  We have no control over, and assume no responsibility for, the content, privacy policies, or practices of any third-party sites or services.  We encourage you to review the privacy policies and terms of all third-party websites or services that you may visit. ****
+
+**12.            ****Applicability of the Children’s Online Privacy Protection Act**
+
+We do not sell products or services for purchase by anyone under the age of thirteen (13).  In accordance with the Children’s Online Privacy Protection Act (“COPPA”), we will never knowingly request or solicit Personal Data from anyone under the age of thirteen (13) without verifiable parental consent.  In the event that we receive actual knowledge that we have collected such Personal Data without the requisite and verifiable parental consent, we will delete that information from our database as quickly as is practical.  We reserve the right to request proof of age at any stage so that we can verify that minors are not using the Service(s).
+
+**13.            ****Your California privacy rights**
+
+California Civil Code Section 1798.83 permits users of the Service(s) who are California residents to request and obtain from us a list of what Personal Data (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year and the names and addresses of those third parties.  Requests may be made only once a year and are free of charge. Under Section 1798.83, California residents are entitled to request and obtain such information, by e-mailing a request to [help@amgparade.com](mailto:help@amgparade.com).
+
+**14.            ****Changes to the Privacy Policy**
+
+As stated above, we will make changes to this Privacy Policy from time to time. It is our custom to provide notification on this page when we make material changes.  The date that this Privacy Policy was last revised is identified at the top of the page.  You are responsible for ensuring that you periodically visit our site(s) or Service(s) and this Privacy Policy to check for any changes.
+
+**15.            ****Contact information**
+
+If you have any questions or comments concerning this Privacy Policy, you may contact our representative(s) with the following information:
+
+Waller Lansden Dortch & Davis, LLP
+
+511 Union Street, Suite 2700
+
+Nashville, TN  37219
+
+USA
+
+Attention:  Julian L. Bibb, Esq.
+
+E-mail:  [julian.bibb@wallerlaw.com](mailto:julian.bibb@wallerlaw.com)
