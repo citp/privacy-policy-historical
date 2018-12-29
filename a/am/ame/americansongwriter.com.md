@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americansongwriter.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629160309id_/https%3A//americansongwriter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americansongwriter.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229174837id_/https%3A//americansongwriter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « American Songwriter
 
@@ -8,7 +8,7 @@ ForASong Media, LLC (American Songwriter) is committed to respecting and protect
 
 This Privacy Policy is provided to make you aware of American Songwriter’s privacy policy and practices.
 
-The current version of this Privacy Policy is dated June 22, 2011.
+The current version of this Privacy Policy is dated June 22, 2018.
 
 1\. What Information We Use and How We Use It:  We use personal identifiable information (Personal Information) that is collected through AmericanSongwriter.com so that we have a way to communicate with you regarding American Songwriter’s products and offerings, to process your orders and to present the content on AmericanSongwriter.com. The types of personal information collected on these pages may include, but are not limited to, your name, email address, standard contact information, information about your web browser, IP address (the Internet address of a computer), time zone, purchase history and some of the cookies that are installed on your device.  Like many websites, we use “cookies,” and we obtain certain types of information when your Web browser accesses this website. Additionally, as you browse the site, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the site and information about how you interact with the site.   The information is used to better understand your needs and provide you with better products and service; it is also used to ask you to participate in surveys about products, services, news and events and to provide you with targeted advertising, promotions, special offers and our products and services.  American Songwriter does not sell or rent your submitted information to third parties for marketing purposes. You also may provide additional information to us when you conduct a search on this site, place an order for merchandise, complete a questionnaire or an entry form for contests, and participate in forums and chat rooms or other community features.
 
