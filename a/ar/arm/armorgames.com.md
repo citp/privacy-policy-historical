@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the armorgames.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629202542id_/https%3A//armorgamesstudios.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the armorgames.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229213818id_/https%3A//armorgamesstudios.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 This privacy policy will explain what information we collect online, why we collect it, and the choices we offer to you.
 
-This privacy policy (“Policy”) describes the data practices of Armor Games Inc. (“Armor Games”) and its subsidiaries (collectively, the “we”, or “Company”), covering its services under its control, including this website, any products, mobile applications, console or PC applications (collectively "Services"). By using the Services, you are consenting to this Policy and the processing of your data in the manner provided in this Policy. If you do not agree with these terms, please do not use the Services. This Privacy Policy was last updated on  **May 25th, 2018**.
+This privacy policy (“Policy”) describes the data practices of Armor Games Inc. (“Armor Games”) and its subsidiaries (collectively, the “we”, or “Company”), covering its services under its control, including this website, any products, mobile applications, console or PC applications (collectively "Services"). By using the Services, you are consenting to this Policy and the processing of your data in the manner provided in this Policy. If you do not agree with these terms, please do not use the Services. This Privacy Policy was last updated on  **December 10th, 2018**.
 
 ## Information we collect
 
@@ -84,12 +84,6 @@ We work hard to protect our users from unauthorized access to or unauthorized al
 ## Children Under 13
 
 We do not knowingly collect information for any child under the age of 13. If you are the parent of a child under the age of 13 and have a concern regarding your child’s information on our Services, please contact us at the email provided at the end of this Policy.
-
-## U.S.-E.U. and U.S.-Swiss Privacy Shield Framework
-
-If we transfer personal information from the European Union to the United States, we comply with the EU-U.S. Privacy Shield Framework and the Swiss - U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States, respectively. We have certified to the Department of Commerce that we adhere to the Privacy Shield Principles. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
-
-We are subject to the investigatory and enforcement powers of the Federal Trade Commission. For any questions or complaints regarding our compliance with either the EU-U.S. Privacy Shield Framework and the Swiss - U.S. Privacy Shield Framework, please contact us at privacy@armorgames.com. If we do not resolve your complaint, you may submit your complaint free of charge to the dispute resolution panel set forth by the data protection authorities. Under certain conditions specified by the principles of the EU-U.S. and the Swiss - U.S. Privacy Shield Frameworks, respectively, you may also be able to invoke binding arbitration to resolve your complaint. If we share your data with a third-party service provider, we place contractual restrictions on their use of the data but are not ultimately responsible for their compliance under GDPR or other applicable laws.
 
 ## Changes
 
