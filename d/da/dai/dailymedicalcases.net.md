@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the dailymedicalcases.net privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626211210id_/http%3A//www.dailymedicalcases.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailymedicalcases.net privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229085540id_/http%3A//www.dailymedicalcases.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DailyMedicalCases.net
 
 DailyMedicalCases.net understand and respect your concern about your privacy, the security of your personal information is important to us. This Privacy Policy explains how information about you is collected, used, and disclosed by DailyMedicalCases.net
-
-_Sponsored Advertisement_
 
 **Personal Information**  
 DailyMedicalCases.net is not interested in and does not collect any sensitive personal information from users of this site other than the usual information contained in server logs.
@@ -23,8 +21,6 @@ By accessing and/or using any of the DailyMedicalCases.net, you signify your und
 
 **Changes to Privacy Policy**  
 We may modify this Privacy Policy from time to time. When we post changes to this Privacy Policy, we will revise the “last modified” date at the top of this page. We encourage you to periodically review this Privacy Policy to be informed of how DailyMedicalCases.net protects your information.
-
-_Sponsored Advertisement_
 
 **Contact**  
 You can contact us with regard to this Privacy Policy using our [contact form](http://www.dailymedicalcases.net/contact-us/).
