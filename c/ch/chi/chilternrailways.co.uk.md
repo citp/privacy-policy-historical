@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the chilternrailways.co.uk privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629203755id_/https%3A//www.chilternrailways.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chilternrailways.co.uk privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229214901id_/https%3A//www.chilternrailways.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy | Chiltern Railways
 
 ## Chiltern Railways Privacy Policy
 
-### Last updated: May 28th 2018
+### Last updated: December 12th 2018
 
 The Chiltern Railway Company Limited, trading as Chiltern Railways (”We”) are committed to protecting and respecting your privacy.
 
@@ -85,12 +85,16 @@ Wifi data:  we use data gathered from your use of our free wifi service to iden
 Consent  
   
 Analysis & modelling: your transaction & location data is also stored on a business insight platform. We use this platform to customise marketing campaigns, for business reporting & for data retention modelling. You can opt out of this use of your data via our preference centre.   | Legitimate interest  
-Surveys: we survey portions of our customer and website visitor database periodically to find out more about your travel experience with us, how you use our trains and how we can improve our service delivery to you. We will not confuse this with marketing or promotional messages. |  Legitimate interest  
+Surveys: we survey portions of our customer and website visitor database periodically to find out more about your travel experience with us, how you use our trains and how we can improve our service delivery to you. We will not confuse this with marketing or promotional messages. | Legitimate interest  
 Travel rewards & promotions: if you are an active customer or have enquired about the purchase of our services, Chiltern Railways may send you discounted travel offers via email unless you have opted out. These offers are based on our knowledge of your travel on our trains and your visits to our website, and are aimed at providing you with savings that are relevant. | Legitimate interest  
 Travel rewards & promotions: if you are not an active customer or purchased our services using guest check-out, Chiltern Railways will send you discounted travel offers via email but only if you have opted in. These offers are based on our knowledge of your travel on our trains and your visits to our website, and are aimed at providing you with savings that are relevant.  | Consent  
 Competitions: we offer competition entry via both email and the website, competition entry is sometimes conditional on providing us with additional demographic information about you, which in turns allows us to further customise our communications and travel offers to you  | Legitimate interest 
 
 Consent   
+  
+Administration of your tickets and handling queries relating to your tickets, which may contain other Train Operating Companies' products  | Legitimate interest 
+
+Performance of a contract  
   
 **Information we receive from other sources.** We may combine this information with information you give to us and information we collect about you. We may use this information and the combined information for the purposes set out above (depending on the types of information we receive).
 
@@ -110,7 +114,11 @@ We may disclose your personal data to the following categories of recipient for 
  
   * Icomera UK Limited, of Victory House, Quayside, Chatham Maritime, Chatham, ME4 4QU, for the purpose of providing onboard wifi services  
  
-  * The Gate London, of  90 Tottenham Court Road, London, W1T 4TJ, for the purpose of providing analysis reports, strategic recommendations and campaign implementations
+  * The Gate London, of  90 Tottenham Court Road, London, W1T 4TJ, for the purpose of providing analysis reports, strategic recommendations and campaign implementations  
+ 
+  * Rail Delivery Group who provide the back office technology and infrastructure for Smartcard products  
+ 
+  * Other UK Rail Operators in order that they can provide support in respect of your Smartcard products
 
 
 
