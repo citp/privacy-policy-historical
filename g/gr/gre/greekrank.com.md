@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greekrank.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920225418id_/http%3A//www.greekrank.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greekrank.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229190605id_/http%3A//greekrank.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Greekrank
 
@@ -40,11 +40,13 @@ Additionally, we may give your information to law enforcement if we are compelle
 
 **4.     ****Accessing, Editing, and Removing Your Information**
 
-You will be able to access any PII contained in your account through our Platform.  You may edit that PII by removing or changing the content listed in your account. If you have any questions or wish to review, change, or access any other PII or Non-PII collected by us, please contact us at [http://www.greekrank.com/contact/](http://www.greekrank.com/contact/).  Additionally, if you wish to opt out of our data collection practices or would like us to remove any of your PII or Non-PII, please contact us at [http://www.greekrank.com/contact/](http://www.greekrank.com/contact/).   After you have cancelled your account please be aware that we may keep inaccessible copies of your information subject to our data retention policies.
+You will be able to access any PII contained in your account through our Platform.  You may edit that PII by removing or changing the content listed in your account. If you have any questions or wish to review, change, or access any other PII or Non-PII collected by us, please contact us at [https://www.greekrank.com/contact/](https://www.greekrank.com/contact/).  Additionally, if you wish to opt out of our data collection practices or would like us to remove any of your PII or Non-PII, please contact us at [https://www.greekrank.com/contact/](https://www.greekrank.com/contact/).   After you have cancelled your account please be aware that we may keep inaccessible copies of your information subject to our data retention policies.
 
 **5.     ****Cookies**
 
 When accessing the Platform via a web browser cookies may be loaded onto your web browser.  Cookies are small pieces of code that help us remember your preferences, manage your advertising preferences, and identify your computer.  If you wish to reject any of our cookies please update your web browser settings.   Some of the cookies may be accessible to third parties. Please be aware that disabling cookies through your web browser may affect your user experience.
+
+To opt out of interest-based advertising [Click here](http://optout.networkadvertising.org/)
 
 **6.     ****Third Party Access to Your Information**
 
@@ -58,7 +60,7 @@ You agree that we may disclose your information to authorities if compelled to b
 
 **8.     ****Opt Out of Commercial, Non-Commercial Communications and Do Not Track**
 
-If you decide to provide us with your contact information, you agree that we may send you communications via the Platform, text message, or emails.  However, you may unsubscribe from certain communications by notifying Greekrank that you no longer wish to receive these communications, we will endeavour to promptly remove you from our Platform once we have received that request.  We currently do not offer functionality for you to opt out through “do not track” listings. If you wish to opt out of certain communications or information collection, please contact us at [http://www.greekrank.com/contact/](http://www.greekrank.com/contact/)
+If you decide to provide us with your contact information, you agree that we may send you communications via the Platform, text message, or emails.  However, you may unsubscribe from certain communications by notifying Greekrank that you no longer wish to receive these communications, we will endeavour to promptly remove you from our Platform once we have received that request.  We currently do not offer functionality for you to opt out through “do not track” listings. If you wish to opt out of certain communications or information collection, please contact us at [https://www.greekrank.com/contact/](https://www.greekrank.com/contact/)
 
 **9.     ****Third Parties**
 
@@ -72,7 +74,7 @@ We make reasonable attempts to protect your information by using physical and el
 
 **11.     ****Your California Privacy Rights**
 
-Greekrank permits residents of the State of California to use its Platform, and complies with the California Business and Professions Code §§ 22575-22579.  If you are a California resident you may request certain information regarding our disclosure of personal information to any third parties for their direct marketing purposes.  Various provisions throughout this Privacy Policy address requirements of the Californian privacy statutes. Although we do not disseminate your information to third parties without permission, you must presume that we collect electronic information from all visitors. You may contact us at[http://www.greekrank.com/contact/](http://www.greekrank.com/contact/) with any questions.
+Greekrank permits residents of the State of California to use its Platform, and complies with the California Business and Professions Code §§ 22575-22579.  If you are a California resident you may request certain information regarding our disclosure of personal information to any third parties for their direct marketing purposes.  Various provisions throughout this Privacy Policy address requirements of the Californian privacy statutes. Although we do not disseminate your information to third parties without permission, you must presume that we collect electronic information from all visitors. You may contact us at[https://www.greekrank.com/contact/](https://www.greekrank.com/contact/) with any questions.
 
 **12.     ****Age Compliance**
 
@@ -88,6 +90,6 @@ In the event that Greekrank is involved in a bankruptcy, merger, acquisition, re
 
 **15.     ****Amendments**
 
-Like our Terms of Service, we may amend this Privacy Policy from time to time.  When we amend this Privacy Policy, we will modify the date listed on this Agreement or we may contact you.  You must agree to the amendments as a condition of your continued use of our Platform.  If you do not agree, you must immediately cease using our Platform and notify us of your refusal to agree by contacting us at [http://www.greekrank.com/contact/](http://www.greekrank.com/contact/)
+Like our Terms of Service, we may amend this Privacy Policy from time to time.  When we amend this Privacy Policy, we will modify the date listed on this Agreement or we may contact you.  You must agree to the amendments as a condition of your continued use of our Platform.  If you do not agree, you must immediately cease using our Platform and notify us of your refusal to agree by contacting us at [https://www.greekrank.com/contact/](https://www.greekrank.com/contact/)
 
 Last Updated: December 30, 2016
