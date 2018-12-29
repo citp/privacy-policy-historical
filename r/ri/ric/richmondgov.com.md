@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the richmondgov.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203203133id_/http%3A//www.richmondgov.com/common/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the richmondgov.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229220959id_/http%3A//www.richmondgov.com/common/Privacy.aspx) for the most accurate reproduction.*
 
-# Richmond VA > Richmond City Council
+# Richmond VA > Common Pages
 
 The Privacy Policy outlines the types of information the City of Richmond gathers on visitors to our website, as well as some of the steps we take to safeguard that information.
 
@@ -40,6 +40,7 @@ The following is a list of some of the SaaS that the city uses.
   * [Senior Navigator](http://www.seniornavigator.com/)
   * [Facebook](http://www.facebook.com/)
   * [Twitter](http://twitter.com/)
+  * [Avepoint Citizen Services](https://www.avepointpublicsector.com/)
 
 
 
