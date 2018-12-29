@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipvanish.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612140855id_/https%3A//www.ipvanish.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipvanish.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229011703id_/https%3A//www.ipvanish.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - IPVanish VPN
 
@@ -9,11 +9,11 @@ Your privacy is our priority, but your trust in us is equally important. **That'
   * We care deeply about your privacy rights, and we will never log any traffic or usage of our VPN.
   * We do not sell or rent personal information to others, under any circumstance.
   * Your data is secured and rendered anonymous whenever you are connected to our Services.
-  * In order to provide you with our Services, we need to collect an email address and payment method to process transactions.
+  * In order to provide you with our Services, we need to collect an email address and payment method to process transactions. 
 
 
 
-**Effective Date: May 30, 2018**
+**Effective Date: August 28, 2018**
 
 This Privacy Policy (the "Policy”) applies to the information we collect about visitors to [www.ipvanish.com](https://web.archive.org/) (the "Site") and subscribers to the IPVanish VPN service (the "Services"), which are owned and operated by IPVanish (contact information below). Our Terms of Use, including their limitation on liability, apply to the Privacy Policy. You can read them at [www.ipvanish.com/tos.php](https://web.archive.org/tos.php). 
 
@@ -73,7 +73,7 @@ To create an account, you will need to provide:
 
 
 
-You may also need to provide additional personal information such as a name and billing zip code, depending on your chosen payment method. We will only use this information to collect and process payments for you. Once you have created an account, this personal information can be modified by you at any time through your [Account Control Panel](http://account.ipvanish.com/).
+You may also need to provide additional personal information such as your name, street address, city, state, country, and billing zip code, depending on your chosen payment method. We will only use this information to collect and process payments for you. Once you have created an account, this personal information can be modified by you at any time through your [Account Control Panel](http://account.ipvanish.com/).
 
 ### _Website Cookies_
 
