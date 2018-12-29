@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funtonia.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602224958id_/http%3A//www.funtonia.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funtonia.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229193927id_/http%3A//www.funtonia.com/privacy.asp) for the most accurate reproduction.*
 
 # Funtonia - cover ringtones for your cell phone
 
@@ -14,4 +14,4 @@ We also place cookies on your browser. They let us reward our affiliates and par
 
 We do not store any payment information or any personal data, and we don't share any information that we collect with third parties.
 
-If you have any questions please [contact us](https://web.archive.org/web/20180602224958id_/http%3A//www.funtonia.com/contact.asp).
+If you have any questions please [contact us](https://web.archive.org/web/20181229193927id_/http%3A//www.funtonia.com/contact.asp).
