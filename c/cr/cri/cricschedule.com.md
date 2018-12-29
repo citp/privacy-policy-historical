@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the cricschedule.com privacy policy that was archived on 2017-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171011163455id_/http%3A//www.cricschedule.com/p/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cricschedule.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229190714id_/https%3A//www.cricschedule.com/p/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - CricSchedule.com
 
   
-
+[ ](https://web.archive.org/)
 
   1. We don’t recognize any information about the domain or the mail ID of the people who visit our website.
   2. We try to gather only that information which the visitors themselves want us to gather. For example- if they have to register to the site, they fill in the required blanks and it’s only that information that we keep with us.
