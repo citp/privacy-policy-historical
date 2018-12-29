@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theo2.co.uk privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629163404id_/https%3A//www.theo2.co.uk/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theo2.co.uk privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229180052id_/https%3A//www.theo2.co.uk/legal/privacy) for the most accurate reproduction.*
 
 # Privacy | The O2
 
@@ -8,7 +8,7 @@
 
 The O2 is committed to respecting your privacy. The purpose of this Privacy Policy is to explain how we will use any personal data we collect about you, the rights you have over any personal data we hold about you, and to tell you about the policies and procedures that we have in place to respect your privacy and keep your personal data secure.
 
-This Privacy Policy applies to you if you visit The O2, purchase a ticket for an event or service at The O2, or use our products or services at The O2, over the phone, online, through our mobile applications or otherwise by using any of our websites or interacting with us on social media (our “ **Services** ”).
+This Privacy Policy applies to you if you visit The O2, purchase a ticket for an event or service at The O2, shop at The O2 or use our products or services at The O2, over the phone, online, through our mobile applications or otherwise by using any of our websites or interacting with us on social media (our “ **Services** ”).
 
 **Who are we?**
 
@@ -30,7 +30,7 @@ References to The O2 include (without limitation) The O2 arena, indigo at The O2
 
 **Our contact details**
 
-If you have any comments or questions about this Privacy Policy or our data processing practices, please address them to us at [privacy@theo2.co.uk](mailto:privacy@theo2.co.uk) or address the letter for the attention of our Data Protection Officer, who can be contacted at AEG Europe, Almack House, 28 King Street, London SW1Y 6QW.
+If you have any comments or questions about this Privacy Policy or our data processing practices, please address them to us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e696948f9087859fa6928e8389d4c88589c8938d) or address the letter for the attention of our Data Protection Officer, who can be contacted at AEG Europe, Almack House, 28 King Street, London SW1Y 6QW.
 
 **The categories of personal data we collect and use**
 
@@ -148,7 +148,7 @@ Your personal data may be transferred to, and processed in a location outside of
 
 In particular, your personal data may also be processed by staff operating in the United States or outside the EEA working for us, other members of Our Group or third-party data processors. Such staff may be engaged in, among other things, the provision of our Services to you, the processing of transactions and/or the provision of support services.
 
-Some countries outside the EEA do not have laws that protect your privacy rights as extensively as those in the United Kingdom. However, if we do transfer your personal data to other territories, we will put in place appropriate safeguards to ensure that your personal data are properly protected and processed only in accordance with this Privacy Policy. Those safeguards include imposing contractual obligations of adequacy or requiring the recipient to subscribe to or be certified with an ‘international framework’ of protection. You can obtain more information about the safeguards we put in place by contacting us at [privacy@theo2.co.uk](mailto:privacy@theo2.co.uk).
+Some countries outside the EEA do not have laws that protect your privacy rights as extensively as those in the United Kingdom. However, if we do transfer your personal data to other territories, we will put in place appropriate safeguards to ensure that your personal data are properly protected and processed only in accordance with this Privacy Policy. Those safeguards include imposing contractual obligations of adequacy or requiring the recipient to subscribe to or be certified with an ‘international framework’ of protection. You can obtain more information about the safeguards we put in place by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b9c9cbd0cfd8dac0f9cdd1dcd68b97dad697ccd2).
 
 **How long do we keep your personal data?**
 
@@ -179,7 +179,7 @@ We will ensure that the automated decision-making and profiling does not produce
 
 **Your rights**
 
-You may contact our Data Protection Officer by email at [privacy@theo2.co.uk](mailto:privacy@theo2.co.uk) at any time, to:
+You may contact our Data Protection Officer by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f9898b908f989a80b98d919c96cbd79a96d78c92) at any time, to:
 
   * request that we provide you with a copy of the personal data which we hold about you;
   * request that we update any of your personal data which are inaccurate or incomplete;
@@ -199,7 +199,7 @@ Where we are processing your personal data based on your consent, you may change
 
 You can withdraw your consent to receive marketing communications by clicking on the unsubscribe link in an email or by adjusting the push message settings for the mobile application.
 
-You can also withdraw your consent to receive marketing communications or any other consent you have previously provided to us by contacting us at [privacy@theo2.co.uk](mailto:privacy@theo2.co.uk).
+You can also withdraw your consent to receive marketing communications or any other consent you have previously provided to us by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5525273c2334362c15213d303a677b363a7b203e).
 
 The consequence of you withdrawing consent might be that we cannot do certain things for you.
 
@@ -241,4 +241,4 @@ The use of these technologies by such third parties is subject to their own priv
 
 We reserve the right to change our Privacy Policy from time to time. Any such changes will be posted on this page so that we can keep you informed about how we process your personal data. We recommend that you consult this page frequently so that you are aware of our latest Privacy Policy and can update your preferences if necessary. Your continued use of our Services shall constitute your acceptance of any revised Privacy Policy.
 
-This Privacy Policy was last updated on 9 May 2018.
+This Privacy Policy was last updated on 29 October 2018.
