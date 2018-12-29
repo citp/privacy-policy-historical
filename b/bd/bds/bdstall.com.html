@@ -1,108 +1,36 @@
-<!--The following is the downloaded HTML source of the bdstall.com privacy policy that was archived on 2018-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180625081556id_/http%3A//www.bdstall.com/privacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bdstall.com privacy policy that was archived on 2018-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181229220605id_/http%3A//www.bdstall.com/privacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
     
-    <!--this is a quick fix for IE8-->
-    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
-    
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<link rel="shortcut icon" href="http://static-image.bdstall.com/favicon.ico">
-        
-			<title>Privacy Policy of Bdstall</title>
+    			<title>Privacy Policy of Bdstall</title>
 
             <meta name="description" content="Bdstall privacy policy describes how we collect, use, disclose and store your information">
 
             <meta name="keywords" content="">
             
-    <link href="http://css.bdstall.com/common0025.css" rel="stylesheet" type="text/css">
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+    <link href="http://css.bdstall.com/r-com-min-v21.css" rel="stylesheet" type="text/css">
 
-<script type="text/javascript" src="http://js.bdstall.com/common_script.js"></script>
+<!--[if lt IE 9]>
+<link href="http://css.bdstall.com/ie-v7.css" rel="stylesheet" type="text/css">
+<script src="http://js.bdstall.com/respond.min.js"></script>
+<link href="http://css.bdstall.com/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+<link href="http://www.bdstall.com/assets/images/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+<script src="http://www.bdstall.com/assets/js/respond.proxy.js"></script>
+<![endif]-->
 
-<script type="text/javascript">
-            
-            http = getHTTPObject();               
-        
-            function addToCompare(listingID)
-            {
-                url = 'http://www.bdstall.com/searchItemListing/addToCompare//' + listingID + '/';
-                http.open("POST", url, true);
-                http.onreadystatechange = showCompareResult;
-                http.send(null);
-            }
-
-            function showCompareResult()
-            {
-                if (http.readyState == 4)
-                {            
-                    if (http.responseText == "")
-                    {
-                        return;
-                    }
-                    else
-                    {   
-                        if(http.responseText == "exceeded") {alert('Maximum 2 items can be compared'); return;}
-                        else if(http.responseText == "exist") {alert('Item already added'); return;};
-                        
-                        document.getElementById("showcompare").innerHTML=http.responseText;
-                        alert("Item added to compare list ");
-                    }
-                }
-            }
-        
-        function removeCompare(id)
-        {
-            url = 'http://www.bdstall.com/searchItemListing/removeCompare//' + id + '/';
-            http.open("POST", url, true);
-            http.onreadystatechange = showRemoveCompareResult;
-            http.send(null);
-        }
-
-        function showRemoveCompareResult()
-        {        
-            if (http.readyState == 4)
-            {         
-                if (http.responseText == "")
-                {
-                    return;
-                }
-                else
-                {   
-                    if(http.responseText=="allremove") document.getElementById("showcompare").innerHTML="";            
-                     else document.getElementById(http.responseText).innerHTML="";
-                }
-            }
-        }
-        
-//        function showProductCompare()
-//        {
-//            total_compare_count=0;            
-//            
-//            if(total_compare_count>1)
-//             {
-//                 redirectUrl = "/compare/";
-//                 window.location = redirectUrl;
-//             }
-//            else
-//             {
-//                 alert('Add another product to compare');   
-//                 return;
-//             }   
-//        }
-            
-        </script>
     
+    <meta charset="UTF-8">
+    
+    <link rel="icon" type="image/png" href="http://static-image.bdstall.com/favicon-bdstall.png">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
         
     
-        
-
-     
-
     
         
         
-    <script>
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -112,164 +40,2467 @@
   ga('send', 'pageview');
 
 </script>
+        
+<script>
+    
+// ajax call
+function getHTTPObject() {
+  
+  var xmlhttp;
+  
+  if (!xmlhttp ) {
+
+    if(window.XMLHttpRequest) 
+    {
+    	try {
+			xmlhttp = new XMLHttpRequest();
+        } catch(e) {
+			xmlhttp = false;
+        }
+     }
+     else if(window.ActiveXObject)
+     {
+       	try {
+        	xmlhttp = new ActiveXObject("Msxml2.XMLHTTP");
+      	    }
+       catch(e) 
+       {
+        	try {
+          		xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+        	} catch(e) {
+          		xmlhttp = false;
+        	}
+				}
+     }	
+  }
+  return xmlhttp;
+}
+</script>    
              
 </head>
 
         
     <body>
-        <div class="top_bg">
-            <div class="header">
-                <div class="headerTop">
-                    <a href="http://www.bdstall.com/" class="logo"></a>
+        
+          <div class="main-header">
+    <div class="container">
 
-                                                            <div class="global_ad" style="margin-top:4px; margin-left: 16px;width: 385px">
-                        <a href="https://www.facebook.com/gbsbdnet/photos/a.604123696431259.1073741828.411892815654349/981934325316859/?type=3&amp;theater" target="_BLANK"><img border="0" src="http://ads.bdstall.com/ads1738.gif" width="345" height="128" alt="" title=""></a>                    </div>
-                                        
-                    <div class="stall" style="float: left; margin-left: -30px">
-                                                                            <a href="https://gctlsecurity.com/" target="_BLANK"><img border="0" src="http://ads.bdstall.com/ads1730.gif" width="345" height="128" alt="" title=""></a>                                            </div>
+        <a href="http://www.bdstall.com/"><img src="http://static-image.bdstall.com/bdstall-logo.png" alt="bdstall.com" title="bdstall.com"></a>
+          
+    <div class="spinner-master">
+    <input type="checkbox" id="spinner-form">
+    <label for="spinner-form" class="spinner-spin">
+    <div class="spinner diagonal part-1"></div>
+    <div class="spinner horizontal"></div>
+    <div class="spinner diagonal part-2"></div>
+    </label>
+    
+    </div> 
+    
+    <input type="hidden" name="DepartmentID" value="-1">
+    <input type="hidden" name="ItemTypeID" value="-1">
+        <a href="#search_box" class="search-btn" id="search"><img src="http://static-image.bdstall.com/site-search-icon.png"></a>
+    <form class="search_box" id="search_box" action="/search/">
+    <input name="term" placeholder="Search item" value="" type="text"> 
+    <input class="search_icon" value="Search" type="submit">
+    </form>  
+               
+        <div class="main-header-link">
+           
+                                           <div class="main-header-desk-link"><a href="http://www.bdstall.com/userRegistration/index/2/">Register</a></div>
+            
+                                        <a href="http://www.bdstall.com/userLogin/index/"><div class="main-header-login-link">Login</div></a>
                     
-                    <div class="clear"></div>
-                </div>
-                <div class="menuLeft">
-                    <div class="menuRight">
-                        <div class="menu">
-                            <div class="shoulder">
-                                <ul>
-                                    <li><a href="http://www.bdstall.com/">Home</a></li>
-                                    <li><a href="http://www.bdstall.com/stallList/">Stall List</a></li>
-                                    <li><a href="http://www.bdstall.com/magazine/bn/">Magazine</a></li>                                    
-                                    <li><a href="http://www.bdstall.com/faq/bn/">FAQ</a></li>                                   
-                                    <li><a href="http://www.bdstall.com/contactUs/">Contact Us</a></li>
-                                    <div id="cart">
-                                                                        </div>
-                                </ul>
-                                <div class="signIns">
-                                                                            <a href="http://www.bdstall.com/userRegistration/">Registration</a>
-                                        <span>|</span>
-                                        <a href="http://www.bdstall.com/userLogin/index/">Log in</a>
-                                                                        </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="main">
-            <div class="mainBody">
-<div class="leftAddCon">
-<!--
-    <div class="addObject">
-        <img alt="" src="http://ads.bdstall.com/add_iphone.jpg"  border="0px;"/>
-</div>-->
+                                                        
+            <div class="main-header-desk-link"><a href="http://www.bdstall.com/magazine/bn/">Magazine</a></div>
+        </div> 
+        
+       
 
-    <div class="addObject">
-        <a href="http://www.bdstall.com/searchItemListingByCategory/index/25//" alt="Travel Packages of Bangladesh" title="Travel Packages of Bangladesh"><img src="http://ads.bdstall.com/topAd.jpeg" border="0"></a>
-    
-    
-    <!--<a href="http://www.bdstall.com/searchItemListingByCategory/index/25//" onClick="_gaq.push(['_trackEvent', 'Banner', 'Click', 'PlanYourTravel',1.00,true]);" > <img style="border: 0px" src="http://ads.bdstall.com/topAd.jpeg" border="0" alt="Travel Packages of Bangladesh" title="Travel Packages of Bangladesh" /></a>
-    <img width=0 height=0 src="data:image/jpeg;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" onload="_gaq.push(['_trackEvent', 'Banner', 'Impression', 'PlanYourTravel',2.00,true]);"/>
-    -->
     </div>
+      
+
+      </div>
+  
+  
+    <nav id="menu" class="menu top-menu">
+      
+        
+       
+    <ul class="menu-pd">
+        
+            <li><a href="http://www.bdstall.com/searchItemListingByDepartment/index/1/">Computer</a>
+                <ul>
+                        
+                        <li><a href="http://www.bdstall.com/laptop/">Laptop &amp; Notebook                            
+                                                            
+                            </a>
+                           
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/tablet-pc/">Tablet PC                            
+                                                            
+                            </a>
+                           
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/desktop-pc/">Desktop PC                            
+                                                            
+                            </a>
+                           
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/graphics-tablet-and-pen-pc-input-device/">Graphics Tablet                            
+                                                            
+                            </a>
+                           
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/mini-pc/">Mini PC                            
+                                                            
+                            </a>
+                           
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/computer-parts/">PC Parts                            
+                                »                            
+                            </a>
+                           
+                            
+                              <ul> 
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/computer-processor/">Processor</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/motherboard/">Motherboard</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/computer-ram/">RAM</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/hard-disk-drive/">Hard Disk Drive</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/ssd/">Solid State Drive</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/graphics-card/">Graphics Card</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/sound-card/">Sound Card</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/computer-optical-drive/">Optical Drive</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/computer-casing/">Computer Casing</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/tv-card/">TV Card</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/computer-power-supply/">Power Supply</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/pc-cpu-cooling-fan/">CPU Cooler</a>
+                                </li>
+                                                            </ul>    
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/pc-tablet-accessories/">PC Accessories                            
+                                »                            
+                            </a>
+                           
+                            
+                              <ul> 
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/laptop-bag/">Laptop Bag</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/laptop-cooler/">Laptop Cooler</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/laptop-battery/">Laptop Battery</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/laptop-adapter/">Laptop Adapter</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/laptop-screen/">Laptop Screen</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/laptop-keyboard/">Laptop Keyboard</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/portable-laptop-table/">Laptop Table</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/computer-keyboard/">Computer Keyboard</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/computer-keyboard-mouse/">Mouse</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/internet-modem/">Internet Modem</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/ups/">UPS</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/webcam/">Webcam</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/pen-drive/">Pen Drive</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/headphone/">Headphone</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/cable/">Cable</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/surge-protector-power-strip/">Surge Protector</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/pc-gaming-controller/">PC Game Controller</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/digital-signature-pad/">Signature Pad</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/usb-hub/">USB Hub</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/memory-card-reader/">Memory Card Reader</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/blank-disk/">Blank Disk</a>
+                                </li>
+                                                            </ul>    
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/computer-networking-and-accessories/">Networking                            
+                                »                            
+                            </a>
+                           
+                            
+                              <ul> 
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/wireless-router/">Wireless Router</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/network-wireless-access-point/">Wireless Access Point</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/wireless-bridge/">Wireless Bridge</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/wireless-range-extender/">Range Extender</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/network-switch/">Network Switch</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/network-wired-router/">Wired Router</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/network-lan-card/">LAN Card</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/network-storage/">Network Storage</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/network-cable/">Network Cable</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/network-connector/">Network Connector</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/fiber-optic-splicer-machine/">Splicer Machine</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/wireless-antenna/">Wireless Antenna</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/fiber-optic-media-converter/">Optical Media Converter</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/kvm-switch/">KVM Switch</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/network-accessories/">Network Accessories</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/network-support-service/">Network Support</a>
+                                </li>
+                                                            </ul>    
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/projector-and-accessories/">Projectors                            
+                                »                            
+                            </a>
+                           
+                            
+                              <ul> 
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/projector/">Projector</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/digital-interactive-whiteboard/">Digital Interactive Whiteboard</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/projector-screen/">Projector Screen</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/projector-mount/">Projector Mount</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/projector-lamp/">Projector Lamp</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/wireless-presenter/">Wireless Presenter</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/projector-repair-service/">Projector Repair</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/projector-and-screen-rental/">Projector Rental</a>
+                                </li>
+                                                            </ul>    
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/monitor/">Monitor                            
+                                                            
+                            </a>
+                           
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/printing/">Printing                            
+                                »                            
+                            </a>
+                           
+                            
+                              <ul> 
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/printer/">Printer</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/large-format-printer/">Large Format Printer</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/printer-cutter/">Printer Cutter</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/photo-printer/">Photo Printer</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/pos-printer/">POS Printer</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/dot-matrix-printer/">Dot Matrix Printer</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/label-printer/">Label Printer</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/id-card-printer/">ID Card Printer</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/printer-cartridge/">Printer Cartridge</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/thermal-paper-roll/">Thermal Paper Roll</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/printer-paper/">Printer Paper</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/printer-drum/">Printer Drum</a>
+                                </li>
+                                                            </ul>    
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/photocopy/">Photocopy                            
+                                »                            
+                            </a>
+                           
+                            
+                              <ul> 
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/copier/">Copier Machine</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/copier-toner/">Copier Toner</a>
+                                </li>
+                                                            </ul>    
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/scanning/">Scanning                            
+                                »                            
+                            </a>
+                           
+                            
+                              <ul> 
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/scanner/">Scanner</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/barcode-scanner/">Barcode Scanner</a>
+                                </li>
+                                                            </ul>    
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/servers-and-accessories/">Servers                            
+                                »                            
+                            </a>
+                           
+                            
+                              <ul> 
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/server/">Server</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/server-rack-cabinet/">Server Cabinet</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/workstation/">Workstation</a>
+                                </li>
+                                                            </ul>    
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/software-price-in-bangladesh/">Software                            
+                                »                            
+                            </a>
+                           
+                            
+                              <ul> 
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/antivirus-security-software/">Antivirus &amp; Security</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/business-software/">Business Software</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/pos-software/">POS Software</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/accounting-software/">Accounting Software</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/website-design-development/">Website Design</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/educational-software/">Educational Software</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/operating-system-software/">Operating System</a>
+                                </li>
+                                                            </ul>    
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/web-service/">Web Service                            
+                                »                            
+                            </a>
+                           
+                            
+                              <ul> 
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/web-hosting/">Web Hosting</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/domain-name-registration-service/">Domain Name</a>
+                                </li>
+                                                            </ul>    
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/computer-repair-service/">Computer Repair                            
+                                                            
+                            </a>
+                           
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/digital-marketing/">Digital Marketing                            
+                                »                            
+                            </a>
+                           
+                            
+                              <ul> 
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/sms-marketing/">SMS Marketing</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/led-sign-board/">LED Sign Board</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/digital-signage/">Digital Signage</a>
+                                </li>
+                                                            </ul>    
+                           </li>
+                      
+                </ul>
+            </li>
+        
+            <li><a href="http://www.bdstall.com/searchItemListingByDepartment/index/2/">Mobile</a>
+                <ul>
+                        
+                        <li><a href="http://www.bdstall.com/mobile-phone/">Mobile Phone                            
+                                                            
+                            </a>
+                           
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/mobile-accessories/">Mobile Accessories                            
+                                »                            
+                            </a>
+                           
+                            
+                              <ul> 
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/virtual-reality-headset/">VR Headset</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/power-bank/">Power Bank</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/mobile-phone-battery/">Mobile Phone Battery</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/mobile-phone-charger/">Mobile Phone Charger</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/wireless-charger/">Wireless Charger</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/car-charger/">Car Charger</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/memory-card/">Memory Card</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/mobile-selfie-stick/">Selfie Stick</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/mobile-signal-booster/">Mobile Signal Booster</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/mobile-phone-camera-lens/">Mobile Phone Camera Lens</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/other-mobile-phone-accessories/">Other Accessories</a>
+                                </li>
+                                                            </ul>    
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/telephony/">Telephony                            
+                                »                            
+                            </a>
+                           
+                            
+                              <ul> 
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/telephone/">Telephone</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/ip-phone/">IP Phone</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/pabx-system/">PABX System</a>
+                                </li>
+                                                            </ul>    
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/fax-machine/">Fax Machine                            
+                                                            
+                            </a>
+                           
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/walkie-talkie/">Walkie Talkie                            
+                                                            
+                            </a>
+                           
+                           </li>
+                      
+                </ul>
+            </li>
+        
+            <li><a href="http://www.bdstall.com/searchItemListingByDepartment/index/5/">Camera</a>
+                <ul>
+                        
+                        <li><a href="http://www.bdstall.com/digital-camera/">Digital Camera                            
+                                                            
+                            </a>
+                           
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/camcorder/">Camcorder                            
+                                                            
+                            </a>
+                           
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/camera-accessories/">Camera Accessories                            
+                                »                            
+                            </a>
+                           
+                            
+                              <ul> 
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/camera-lens/">Camera Lens</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/camera-flash/">Camera Flash</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/camera-battery/">Camera Battery</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/camera-tripod/">Camera Tripod</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/camera-lens-cleaning-kit/">Lens Cleaning Kit</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/camera-bag/">Camera Bag</a>
+                                </li>
+                                                            </ul>    
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/photo-frame/">Digital Photo Frame                            
+                                                            
+                            </a>
+                           
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/hidden-camera/">Spy Camera                            
+                                                            
+                            </a>
+                           
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/binocular/">Binocular                            
+                                                            
+                            </a>
+                           
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/telescope/">Telescope                            
+                                                            
+                            </a>
+                           
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/microscope/">Microscope                            
+                                                            
+                            </a>
+                           
+                           </li>
+                      
+                </ul>
+            </li>
+        
+            <li><a href="http://www.bdstall.com/searchItemListingByDepartment/index/3/">Electronics</a>
+                <ul>
+                        
+                        <li><a href="http://www.bdstall.com/tv/">Television                            
+                                                            
+                            </a>
+                           
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/cooling-heating/">Cooling &amp; Heating                            
+                                »                            
+                            </a>
+                           
+                            
+                              <ul> 
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/air-conditioner/">Air Conditioner</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/air-cooler-fan/">Air Cooler Fan</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/room-heater/">Room Heater</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/fan-appliance/">Fan</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/air-purifier/">Air Purifier</a>
+                                </li>
+                                                            </ul>    
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/home-and-stage-audio/">Home &amp; Stage Audio                            
+                                »                            
+                            </a>
+                           
+                            
+                              <ul> 
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/speaker/">Speaker</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/home-theatre-system/">Home Theatre</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/bluetooth-audio-receiver/">Music Receiver</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/amplifier/">Amplifier</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/pa-system-and-live-sound/">PA System</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/digital-conference-system/">Conference System</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/microphone/">Microphone</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/speaker-remote-control/">Speaker Remote Control</a>
+                                </li>
+                                                            </ul>    
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/portable-audio-video-accessories/">Portable Media                            
+                                »                            
+                            </a>
+                           
+                            
+                              <ul> 
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/android-tv-box/">Android TV Box</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/wireless-display-adapter/">Wireless Display Adapter</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/3d-glass/">3D Glass</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/digital-voice-recorder/">Voice Recorder</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/spy-voice-recorder/">Spy Voice Recorder</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/tv-remote-control/">TV Remote</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/wall-mount-tv-bracket/">TV Bracket</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/ebook-reader/">Ebook Reader</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/electronic-dictionary/">Electronic Dictionary</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/hdmi-splitter/">HDMI Splitter</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/mp3-player/">MP3 Player</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/ipod-player/">iPod Player</a>
+                                </li>
+                                                            </ul>    
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/kitchen-appliance/">Kitchen &amp; Home Appliance                            
+                                »                            
+                            </a>
+                           
+                            
+                              <ul> 
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/refrigerator/">Refrigerator</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/deep-freezer/">Deep Freezer</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/microwave-oven/">Microwave Oven</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/water-filter/">Water Filter</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/blender/">Blender</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/coffee-maker/">Coffee Maker</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/toaster/">Toaster</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/food-maker-appliance/">Food Maker</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/chopper-slicer-appliance/">Chopper</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/pressure-cooker/">Pressure Cooker</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/heater-appliance/">Water Heater</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/rice-cooker-appliance/">Rice Cooker</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/thermos-container-appliance/">Thermos Container</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/electric-cooker-appliance/">Electric Cooker</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/sewing-machine/">Sewing Machine</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/dispenser-appliance/">Dispenser</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/gas-stove-appliance/">Gas Stove</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/kitchen-hood-appliance/">Kitchen Hood</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/roti-maker-machine/">Roti Maker</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/barbecue-grill/">Barbeque Grill</a>
+                                </li>
+                                                            </ul>    
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/laundry-appliance/">Laundry Appliance                            
+                                »                            
+                            </a>
+                           
+                            
+                              <ul> 
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/washing-machine/">Washing Machine</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/iron-steamer/">Iron and Steamer</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/vacuum-cleaner-appliance/">Vacuum Cleaner</a>
+                                </li>
+                                                            </ul>    
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/office-electronics/">Office Electronics                            
+                                »                            
+                            </a>
+                           
+                            
+                              <ul> 
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/paper-shredder/">Paper Shredder</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/electronic-cash-register/">Cash Register</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/money-counting-and-detector-machine/">Money Counting Machine</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/fake-note-detector/">Fake Note Detector</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/laminating-machine/">Laminating Machine</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/binding-machine/">Spiral Binding Machine</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/paper-cutting-machine/">Paper Cutting Machine</a>
+                                </li>
+                                                            </ul>    
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/satellite-dish-tv-receiver/">Satellite Dish                            
+                                                            
+                            </a>
+                           
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/video-games-console-handheld-accessories/">Video Games                            
+                                »                            
+                            </a>
+                           
+                            
+                              <ul> 
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/video-games-console/">Game Console</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/handheld-video-games/">Handheld Game</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/video-games-controller/">Video Games Controller</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/video-games-accessories/">Game Accessories</a>
+                                </li>
+                                                            </ul>    
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/toys/">Toys                            
+                                                            
+                            </a>
+                           
+                           </li>
+                      
+                </ul>
+            </li>
+        
+            <li><a href="http://www.bdstall.com/searchItemListingByDepartment/index/7/">Security and Industry</a>
+                <ul>
+                        
+                        <li><a href="http://www.bdstall.com/security-surveillance/">Safety and Security                            
+                                »                            
+                            </a>
+                           
+                            
+                              <ul> 
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/access-control-security/">Access Control</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/cctv-security-surveillance-camera/">CC Camera</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/cctv-system/">CCTV Package</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/nvr/">NVR</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/dvr-security-system/">DVR</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/cctv-accessories/">CCTV Accessories</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/security-sensor-and-alarm-system/">Security Alarm</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/door-phone-intercom-system/">Door Phone</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/electro-magnetic-lock/">Electromagnetic Lock</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/metal-detector/">Metal Detector</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/x-ray-baggage-scanner/">Baggage Scanner</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/vehicle-search-mirror/">Car Search Mirror</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/mobile-phone-jammer/">Mobile Phone Jammer</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/proximity-card/">Proximity Card</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/barrier-gate/">Barrier Gate</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/cctv-camera-repair/">CCTV Camera Repair</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/safe-security-locker/">Safe Locker</a>
+                                </li>
+                                                            </ul>    
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/textile-garments-industry/">Textile &amp; Garments                            
+                                »                            
+                            </a>
+                           
+                            
+                              <ul> 
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/color-guide/">Color Guide</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/textile-color-matching-cabinet/">Color Matching Cabinet</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/textile-testing-instrument/">Testing Instrument</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/gsm-cutter/">GSM Cutter</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/button-snap-pull-tester-machine/">Button Pull Tester</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/textile-accessories/">Textile Accessories</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/needle-detector-machine-garment-textile/">Needle Detector</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/textile-machinery/">Textile Machinery</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/crockmeter/">Crockmeter</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/security-seal/">Security Seal</a>
+                                </li>
+                                                            </ul>    
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/meter-gauges-scale/">Meter &amp; Scale                            
+                                »                            
+                            </a>
+                           
+                            
+                              <ul> 
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/weight-scale-machine/">Electronic Weighing Machine</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/temperature-humidity-meter/">Thermometer</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/gas-leak-detector/">Gas Leak Detector</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/distance-meter/">Distance Meter</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/ph-meter/">pH Meter</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/oxygen-meter/">Oxygen Meter</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/tds-meter/">TDS Meter</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/moisture-meter/">Moisture Meter</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/multimeter/">Multimeter</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/light-meter/">Light Meter</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/sound-level-meter/">Sound Level Meter</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/tachometer/">Tachometer</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/insulation-continuity-tester/">Insulation Tester</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/anemometer/">Anemometer</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/other-meter/">Other Meters</a>
+                                </li>
+                                                            </ul>    
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/gps/">GPS                            
+                                »                            
+                            </a>
+                           
+                            
+                              <ul> 
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/gps-navigation/">GPS Navigation</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/gps-tracker/">Vehicle Tracker</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/chartplotter/">Chartplotter</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/fishfinder/">Fishfinder</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/compass/">Compass</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/marine-radar/">Marine Radar</a>
+                                </li>
+                                                            </ul>    
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/fire-safety/">Fire Safety                            
+                                »                            
+                            </a>
+                           
+                            
+                              <ul> 
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/fire-extinguisher/">Fire Extinguisher</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/smoke-detector-fire-alarm/">Fire Alarm</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/fire-bucket/">Fire Bucket</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/fire-escape-ladder/">Fire Ladder</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/fire-axe/">Fire Axe</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/megaphone/">Megaphone</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/first-aid/">First Aid</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/fire-fighting-accessories/">Fire Accessories</a>
+                                </li>
+                                                            </ul>    
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/lab-equipment/">Laboratory Equipment                            
+                                                            
+                            </a>
+                           
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/machine-tools/">Machine &amp; Tools                            
+                                »                            
+                            </a>
+                           
+                            
+                              <ul> 
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/lift-elevator/">Lift</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/electric-pest-control-machine/">Electric Pest Control</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/eyewash-station/">Eye Wash Machine</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/exhaust-fan/">Exhaust Fan</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/surveying-equipment/">Surveying Equipment</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/egg-incubator/">Egg Incubator</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/liquid-silicone-rubber/">Silicone Rubber</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/numbering-machine/">Numbering Machine</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/water-pump/">Water Pump</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/heat-press-transfer-machine/">Heat Press Machine</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/electric-motor/">Electric Motor</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/ice-cream-machine/">Ice Cream Machine</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/hand-tool/">Hand Tool</a>
+                                </li>
+                                                            </ul>    
+                           </li>
+                      
+                </ul>
+            </li>
+        
+            <li><a href="http://www.bdstall.com/searchItemListingByDepartment/index/8/">Travels</a>
+                <ul>
+                        
+                        <li><a href="http://www.bdstall.com/air-ticket/">Air Ticket                            
+                                                            
+                            </a>
+                           
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/tour-package/">Tour Package                            
+                                                            
+                            </a>
+                           
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/hajj-umrah/">Hajj and Umrah                            
+                                                            
+                            </a>
+                           
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/hotel-booking/">Hotel Booking                            
+                                                            
+                            </a>
+                           
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/visa-processing-service/">Visa Processing                            
+                                                            
+                            </a>
+                           
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/train-ticket/">Train Ticket                            
+                                                            
+                            </a>
+                           
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/ship-ticket/">Ship Ticket                            
+                                                            
+                            </a>
+                           
+                           </li>
+                      
+                </ul>
+            </li>
+        
+            <li><a href="http://www.bdstall.com/searchItemListingByDepartment/index/13/">Health</a>
+                <ul>
+                        
+                        <li><a href="http://www.bdstall.com/health-care/">Health Care                            
+                                »                            
+                            </a>
+                           
+                            
+                              <ul> 
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/hearing-aid/">Hearing Aid</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/e-cigarette/">E-Cigarette</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/alternative-medicine/">Alternative Medicine</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/body-weight-scale/">Body Weight Scale</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/anti-snoring-aid/">Anti Snoring Aid</a>
+                                </li>
+                                                            </ul>    
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/health-fitness/">Health Fitness                            
+                                »                            
+                            </a>
+                           
+                            
+                              <ul> 
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/fitness-activity-tracker/">Fitness Tracker</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/massager-machine/">Massager Machine</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/health-fitness-accessories/">Fitness Accessories</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/treadmill-exercise-machine/">Treadmill</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/stationary-exercise-bicycle/">Exercise Bike</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/exercise-bench/">Exercise Bench</a>
+                                </li>
+                                                            </ul>    
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/hair-care-beauty/">Hair Care                            
+                                »                            
+                            </a>
+                           
+                            
+                              <ul> 
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/electric-hair-trimmer-shaver/">Hair Trimmer</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/hair-treatment/">Hair Treatment</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/hair-straightener-machine/">Hair Straightener</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/hair-dryer-machine/">Hair Dryer</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/hair-shampoo/">Hair Shampoo</a>
+                                </li>
+                                                            </ul>    
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/watches/">Watch                            
+                                »                            
+                            </a>
+                           
+                            
+                              <ul> 
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/smartwatch/">Smartwatch</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/wrist-watch/">Wrist Watch</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/clock-watch/">Clock</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/stopwatch/">Stopwatch</a>
+                                </li>
+                                                            </ul>    
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/skin-care-beauty/">Skin Care                            
+                                                            
+                            </a>
+                           
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/jewelry/">Jewelry                            
+                                                            
+                            </a>
+                           
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/lifestyle/">Lifestyle                            
+                                »                            
+                            </a>
+                           
+                            
+                              <ul> 
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/sunglass/">Sunglass</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/wallet/">Wallet</a>
+                                </li>
+                                                            </ul>    
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/medical/">Medical                            
+                                »                            
+                            </a>
+                           
+                            
+                              <ul> 
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/blood-pressure-machine/">Blood Pressure Machine</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/blood-sugar-tester/">Blood Sugar Tester</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/nebulizer-machine/">Nebulizer Machine</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/hospital-bed/">Hospital Bed</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/operation-theater-light/">Surgical Light</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/wheelchair/">Wheelchair</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/walking-stick-crutch/">Walking Stick</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/ecg-machine/">ECG Machine</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/patient-monitor/">Patient Monitor</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/commode-chair/">Commode Chair</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/ultrasound-scanner/">Ultrasound Scanner</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/dental-treatment-medical-service/">Dental Treatment</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/biochemistry-analyzer/">Biochemistry Analyzer</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/medical-equipment/">Medical Equipment</a>
+                                </li>
+                                                            </ul>    
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/clothing/">Clothing                            
+                                »                            
+                            </a>
+                           
+                            
+                              <ul> 
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/women-bra/">Women Bra</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/body-shaper/">Body Shaper</a>
+                                </li>
+                                                            </ul>    
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/kids-and-baby/">Kids and Baby                            
+                                                            
+                            </a>
+                           
+                           </li>
+                      
+                </ul>
+            </li>
+        
+            <li><a href="http://www.bdstall.com/searchItemListingByDepartment/index/6/">Power</a>
+                <ul>
+                        
+                        <li><a href="http://www.bdstall.com/ips-instant-power-supply/">IPS                            
+                                                            
+                            </a>
+                           
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/solar-ips-instant-power-supply/">Solar Power System                            
+                                                            
+                            </a>
+                           
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/battery/">IPS Battery                            
+                                                            
+                            </a>
+                           
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/lighting/">Lighting                            
+                                »                            
+                            </a>
+                           
+                            
+                              <ul> 
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/light-bulb/">Light Bulb</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/torch-light-flashlight/">Torch Light</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/charger-light/">Charger Light</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/street-light/">Street Light</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/other-light/">Other Light</a>
+                                </li>
+                                                            </ul>    
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/generator/">Generator                            
+                                                            
+                            </a>
+                           
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/voltage-stabilizer/">Voltage Stabilizer                            
+                                                            
+                            </a>
+                           
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/electrical-equipment/">Electrical Equipment                            
+                                »                            
+                            </a>
+                           
+                            
+                              <ul> 
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/electrical-substation/">Electrical Substation</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/electrical-switch/">Electrical Switch</a>
+                                </li>
+                                                            </ul>    
+                           </li>
+                      
+                </ul>
+            </li>
+        
+            <li><a href="http://www.bdstall.com/searchItemListingByDepartment/index/9/">Furniture</a>
+                <ul>
+                        
+                        <li><a href="http://www.bdstall.com/bedroom-furniture/">Bedroom                            
+                                »                            
+                            </a>
+                           
+                            
+                              <ul> 
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/bed-furniture/">Bed</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/bed-side-table-furniture/">Bedside Table</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/dressing-table-furniture/">Dressing Table</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/wardrobe-furniture/">Wardrobe</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/almirah-furniture/">Almirah</a>
+                                </li>
+                                                            </ul>    
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/dining-room-furniture/">Dining Room                            
+                                »                            
+                            </a>
+                           
+                            
+                              <ul> 
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/dining-table-set-furniture/">Dining Table</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/dining-chair-furniture/">Dining Chair</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/showcase-furniture/">Showcase</a>
+                                </li>
+                                                            </ul>    
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/drawing-room-furniture/">Drawing Room                            
+                                »                            
+                            </a>
+                           
+                            
+                              <ul> 
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/sofa-set-furniture/">Sofa Set</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/divan-furniture/">Divan</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/shelf-furniture/">Shelf</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/center-table-furniture/">Center Table</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/trolley-furniture/">Trolley</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/stool-furniture/">Stool</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/drawing-room-furniture-set/">Drawing Room Set</a>
+                                </li>
+                                                            </ul>    
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/kitchen-furniture/">Kitchen                            
+                                                            
+                            </a>
+                           
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/bedding/">Bedding                            
+                                »                            
+                            </a>
+                           
+                            
+                              <ul> 
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/mattress-furniture/">Mattress</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/pillow/">Pillow</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/cushion/">Cushion</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/sofa-foam/">Sofa Foam</a>
+                                </li>
+                                                            </ul>    
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/office-furniture/">Office Furniture                            
+                                »                            
+                            </a>
+                           
+                            
+                              <ul> 
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/office-table-furniture/">Office Table</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/office-chair-furniture/">Office Chair</a>
+                                </li>
+                                                            </ul>    
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/home-office-decor-furniture/">Home and Decor                            
+                                »                            
+                            </a>
+                           
+                            
+                              <ul> 
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/home-office-interior-design-service/">Interior Design</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/showpiece/">Showpiece</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/door/">Door</a>
+                                </li>
+                                                            </ul>    
+                           </li>
+                      
+                </ul>
+            </li>
+        
+            <li><a href="http://www.bdstall.com/searchItemListingByDepartment/index/11/">Real Estate</a>
+                <ul>
+                        
+                        <li><a href="http://www.bdstall.com/apartment/">Apartment                            
+                                                            
+                            </a>
+                           
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/commercial-space/">Commercial Space                            
+                                                            
+                            </a>
+                           
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/land-plot-price-in-bangladesh/">Land                            
+                                                            
+                            </a>
+                           
+                           </li>
+                      
+                </ul>
+            </li>
+        
+            <li><a href="http://www.bdstall.com/searchItemListingByDepartment/index/10/">Sports</a>
+                <ul>
+                        
+                        <li><a href="http://www.bdstall.com/two-wheeler-vehicle/">Two Wheeler                            
+                                »                            
+                            </a>
+                           
+                            
+                              <ul> 
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/motorbike/">Motorbike</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/electric-motorbike/">Electric Motorbike</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/electric-scooter/">Electric Scooter</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/bicycle/">Bicycle</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/motorcycle-tyre/">Motorcycle Tyre</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/motorbike-accessories/">Motorbike Accessories</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/bicycle-accessories/">Bicycle Accessories</a>
+                                </li>
+                                                            </ul>    
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/electric-tricycle/">Electric Tricycle                            
+                                                            
+                            </a>
+                           
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/sports-equipment-and-accessories/">Sports                            
+                                                            
+                            </a>
+                           
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/car/">Car                            
+                                                            
+                            </a>
+                           
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/car-accessories/">Car Accessories                            
+                                »                            
+                            </a>
+                           
+                            
+                              <ul> 
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/hose-pipe/">Hose Pipe</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/car-scratch-repair/">Car Scratch Repair</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/engine-oil/">Engine Oil</a>
+                                </li>
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/vehicle-equipment/">Vehicle Equipment</a>
+                                </li>
+                                                            </ul>    
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/vehicle-rental/">Vehicle Rental                            
+                                »                            
+                            </a>
+                           
+                            
+                              <ul> 
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/rent-a-pickup-service/">Pickup Rental</a>
+                                </li>
+                                                            </ul>    
+                           </li>
+                      
+                </ul>
+            </li>
+        
+            <li><a href="http://www.bdstall.com/searchItemListingByDepartment/index/4/">More</a>
+                <ul>
+                        
+                        <li><a href="http://www.bdstall.com/media-publishing/">Media and Publishing                            
+                                                            
+                            </a>
+                           
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/events-management-service/">Events Management                            
+                                »                            
+                            </a>
+                           
+                            
+                              <ul> 
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/party-center-rental/">Party Center Rental</a>
+                                </li>
+                                                            </ul>    
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/services/">Services                            
+                                »                            
+                            </a>
+                           
+                            
+                              <ul> 
+                               
+                                <li>
+                                    <a href="http://www.bdstall.com/house-shifting-service/">House Shifting Service</a>
+                                </li>
+                                                            </ul>    
+                           </li>
+                        
+                        <li><a href="http://www.bdstall.com/everything-else/">Everything Else                            
+                                                            
+                            </a>
+                           
+                           </li>
+                      
+                </ul>
+            </li>
+         
+    </ul>
+  </nav>
+
+        
+
+<div class="container static b-top">      
+            <div class="body-header">
+                <h1>Privacy Policy</h1>
+            </div>
 </div>
-<div class="rightNav">
-    <div class="rightBox">
-        <h1 class="contentHead">
-            <span class="stallGreenTitleTxt">
-                Privacy Policy
-            </span>
-        </h1>
-        <div class="products" style="float:left;">
-            <div class="registrationFormCon" style=" width:641px;">
-                <h3>Privacy Notice Contents:</h3>
+
+<div class="container static">
+
+                    <a href="http://www.bdstall.com/privacyPolicy/#Privacy/">Our Commitment To Privacy<br></a>
+                    <a href="http://www.bdstall.com/privacyPolicy/#info/">The Information We Collect</a><br> 
+                    <a href="http://www.bdstall.com/privacyPolicy/#Data/">Our Commitment To Data Security</a><br>
+                    <a href="http://www.bdstall.com/privacyPolicy/#Correct/">How To Access Or Correct Your Information</a><br> 
+                    <a href="http://www.bdstall.com/privacyPolicy/#Contact/">How To Contact Us</a><br>
                 
-                    <a href="http://www.bdstall.com/privacyPolicy/#Privacy/">
-                        <img alt="" src="http://www.bdstall.com/system/common_templates/images/mright2.gif" align="bottom" border="0" hspace="2" width="15">
-                        <font color="#508090">Our Commitment To Privacy</font> <br>
-                    </a>
-                    <a href="http://www.bdstall.com/privacyPolicy/#info/"><img alt="" src="http://www.bdstall.com/system/common_templates/images/mright2.gif" align="bottom" border="0" hspace="2" width="15"><font color="#508090">The Information We Collect</font></a> <br>
-                    <a href="http://www.bdstall.com/privacyPolicy/#Data/"><img alt="" src="http://www.bdstall.com/system/common_templates/images/mright2.gif" align="bottom" border="0" hspace="2" width="15"><font color="#508090">Our Commitment To Data Security</font></a> <br>
-                    <a href="http://www.bdstall.com/privacyPolicy/#Correct/"><img alt="" src="http://www.bdstall.com/system/common_templates/images/mright2.gif" align="bottom" border="0" hspace="2" width="15"><font color="#508090">How To Access Or Correct Your Information</font></a> <br>
-                    <a href="http://www.bdstall.com/privacyPolicy/#Contact/"><img alt="" src="http://www.bdstall.com/system/common_templates/images/mright2.gif" align="bottom" border="0" hspace="2" width="15"><font color="#508090">How To Contact Us</font></a>
-                
-                <h3><hr><br><a name="Privacy"></a>Our Commitment To Privacy:<br></h3>
+                <h2><hr><a name="Privacy"></a>Our Commitment To Privacy:</h2>
                 <p>Your privacy is important to us. To better protect your privacy
                     we provide this notice explaining our online information practices and
                     the choices you can make about the way your information is collected
                     and used. To make this notice easy to find, we make it available on our
                     homepage and at every point where personally identifiable information
-                    may be requested. <br></p>
-                <h3><br><a name="info"></a>The Information We Collect: </h3>
+                    may be requested. </p>
+                <h2><a name="info"></a>The Information We Collect: </h2>
                 <p>This notice applies to all information collected or submitted on
                     this website. On some pages, you can register to access secured features on the site. The types of personal information
-                    collected at these pages are: <br></p><p><br></p>
-                <p>Name <br>Address (optional)<br>Email address <br>Phone number (mandatory for stall owner)</p><p><br></p>
-                <h3>The Information We DONT Collect</h3>
-                <p>Credit/Debit Card Information <br></p>
-                <h3><br>The Way We Use Information</h3>We do not share or trade your information with any parties. <br><br>
+                    collected at these pages are: </p>
+                <p>Name Address (optional)<br>
+                    Email address<br>
+                    Phone number (mandatory for stall owner)</p>
+                <h2>The Information We DONT Collect</h2>
+                <p>Credit/Debit Card Information</p>
+                <h2>The Way We Use Information</h2><p>We do not share or trade your information with any parties. 
                 We use return email addresses to answer the email we receive. Such
                 addresses are not used for any other purpose and are not shared with
-                outside parties.<br><br><p>You can register with our website if you would like to receive updates on our new  services.
+                outside parties.</p><p>You can register with our website if you would like to receive updates on our new  services.
                     Information you submit on our website will not be used for this purpose
-                    unless you fill out the registration form. <br></p><p><br></p>
+                    unless you fill out the registration form. </p>
                 <p>We use non-identifying and aggregate information to better design
                     our website and to share with advertisers. For example, we may tell an
                     advertiser that X number of individuals visited a certain area on our
                     website, or that Y number of men and Z number of women filled out our
                     registration form, but we would not disclose anything that could be
                     used to identify those individuals. </p>
-                <p><br></p><p>Finally, we never use or share the personally identifiable
+                <p>Finally, we never use or share the personally identifiable
                     information provided to us online in ways unrelated to the ones
                     described above without also providing you an opportunity to opt-out or
-                    otherwise prohibit such unrelated uses. <br></p>
-                <h3><br><a name="Data"></a>Our Commitment To Data Security:</h3>
+                    otherwise prohibit such unrelated uses. </p>
+                <h2><a name="Data"></a>Our Commitment To Data Security</h2>
                 <p>To prevent unauthorized access, maintain data accuracy, and ensure
                     the correct use of information, we have put in place appropriate
                     physical, electronic, and managerial procedures to safeguard and secure
-                    the information we collect online. <br></p>
-                <h3><br><a name="Correct"></a>How You Can Access Or Correct Your Information</h3>
+                    the information we collect online. </p>
+                <h2><a name="Correct"></a>How You Can Access Or Correct Your Information</h2>
                 <p>You can access all your personally identifiable information that we collect online and maintain by <a href="http://www.bdstall.com/userLogin/index/"><font color="#508090">login here....</font></a> We use this procedure to better safeguard your information. </p>
                 <p>You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. </p>
                 <p>To protect your privacy and security, we will also take reasonable
                     steps to verify your identity before granting access or making
-                    corrections. <br></p>
-                <h3><br><a name="Contact"></a>How To Contact Us</h3>
-                <p>Should you have other questions or concerns about these privacy policies, please <a href="http://www.bdstall.com/contactUs//"><font color="#508090">contact us</font>.</a></p>
-            </div>
-        </div>
-    </div>
+                    corrections. </p>
+                <h2><a name="Contact"></a>How To Contact Us</h2>
+                <p>Should you have other questions or concerns about these privacy policies, please <a href="http://www.bdstall.com/contactUs/"><font color="#508090">contact us</font>.</a></p>
 
 </div>
-
-<br class="clear">	
 
 <br class="clear">
-    </div>
     
-</div>
-<div class="foot_bg">
-   <div class="footer">
-			<div class="footer_up">
-                <ul>
-                    <li><a href="http://m.bdstall.com/home/changeView/0">Mobile</a></li>
-                    <li>|</li>
-                    <li><a target="_BLANK" href="https://www.facebook.com/bdstall">Facebook</a></li>
-                    <li>|</li>
-                   <li><a href="http://www.bdstall.com/discussion/topicListing/">Discussion</a></li>
-                    <li>|</li>
-                    <li><a href="http://www.bdstall.com/privacyPolicy/">Privacy</a></li>
-                    <li>|</li>
-                    <li><a href="http://www.bdstall.com/termsAndCondition/">Terms</a></li>
-                    <li>|</li>
-                    <li><a href="http://www.bdstall.com/sitemap/">Sitemap</a></li>
-                </ul>
-        		<div class="CopyRight">
-					Copyright © <a href="#">bdstall.com.</a> All rights reserved.				</div>
-			</div>
+    
 
-    </div>
-</div>
+<div class="footer-line"></div>
+
+        <div class="container footer">
+            <div class="row">  
+            <div class="three columns m-top">
+                    <label>Popular Department</label>
+                    <div><a href="http://www.bdstall.com/searchItemListingByDepartment/index/1/">Computer &amp; Software</a></div>
+                    <div><a href="http://www.bdstall.com/searchItemListingByDepartment/index/2/">Mobile</a></div>
+                    <div><a href="http://www.bdstall.com/searchItemListingByDepartment/index/3/">Electronics</a></div>
+                    <div><a href="http://www.bdstall.com/searchItemListingByDepartment/index/7/">Security &amp; Industry</a></div>
+                    <div><a href="http://www.bdstall.com/searchItemListingByDepartment/index/8/">Tours &amp; Travels</a></div>
+                    <div><a href="http://www.bdstall.com/stallList/">Stall List</a></div>
+                    
+            </div>    
+            
+            <div class="three columns m-top">
+                <label>Knowledge Base</label>
+                <div><a href="http://www.bdstall.com/magazine/bn/">Magazine</a></div> 
+                <div><a href="http://www.bdstall.com/faq/bn/">FAQ</a></div>
+<!--                <div><a href="http://www.bdstall.com/discussion/topicListing/">Discussion</a></div>-->
+            </div> 
+            
+            <div class="three columns m-top">
+                <label>Follow Bdstall</label>    
+                <div><a href="https://www.facebook.com/bdstall/" target="_BLANK">Facebook</a></div>  
+                <div><a href="https://plus.google.com/+Bdstall" target="_BLANK">Google Plus</a></div>
+                <div><a href="https://twitter.com/bdstall" target="_BLANK">Twitter</a></div>
+            </div>    
+                
+            <div class="three columns m-top">  
+                    <div><a href="http://www.bdstall.com/"><img src="http://static-image.bdstall.com/bdstall-logo.png" width="30%">© bdstall.com</a></div>
+                    <div><a href="http://www.bdstall.com/contactUs/">Contact Us</a></div>
+                    <div><a href="http://www.bdstall.com/sitemap/">Site Map</a></div>  
+                    <div><a href="http://www.bdstall.com/privacyPolicy/">Privacy Policy</a></div>
+                    <div><a href="http://www.bdstall.com/termsAndCondition/">Terms &amp; Conditions</a></div>
+            </div>
+            </div>    
+        </div>
 
 
+
+<script src="https://code.jquery.com/jquery-1.2.pack.js" integrity="sha256-Jlj95HpIFgrhbOHaU8Q6ziim4lqaMuyGN/TCiwnjLRc=" crossorigin="anonymous"></script>
+
+<script>        
+        
+function isNumeric(sText)
+{
+   var ValidChars = "0123456789.";
+   var IsNumber=true;
+   var Char;
+   
+   for (i = 0; i < sText.length && IsNumber == true; i++) 
+      { 
+      Char = sText.charAt(i); 
+      if (ValidChars.indexOf(Char) == -1) 
+         {
+         IsNumber = false;
+         }
+      }
+   return IsNumber;
+   
+}
+
+function echeck(str) 
+{
+	var at="@"
+	var dot="."
+	var lat=str.indexOf(at)
+	var lstr=str.length
+	var ldot=str.indexOf(dot)
+	if (str.indexOf(at)==-1){
+	   return false
+	}
+	
+	if (str.indexOf(at)==-1 || str.indexOf(at)==0 || str.indexOf(at)==lstr){
+	   return false
+	}
+	
+	if (str.indexOf(dot)==-1 || str.indexOf(dot)==0 || str.indexOf(dot)==lstr){
+		return false
+	}
+	
+	 if (str.indexOf(at,(lat+1))!=-1){
+		return false
+	 }
+	
+	 if (str.substring(lat-1,lat)==dot || str.substring(lat+1,lat+2)==dot){
+		return false
+	 }
+	
+	 if (str.indexOf(dot,(lat+2))==-1){
+		return false
+	 }
+	
+	 if (str.indexOf(" ")!=-1){
+		return false
+	 }
+	
+	 return true					
+}
+
+$('ul li:has(ul)').addClass('has-submenu');
+$('ul li ul').addClass('sub-menu');
+$('ul.dropdown li').hover(function () {
+    $(this).addClass('hover');
+}, function () {
+    $(this).removeClass('hover');
+});
+var $menu = $('#menu'), $menulink = $('#spinner-form'), $search = $('#search'), $search_box = $('.search_box'), $menuTrigger = $('.has-submenu > a');
+$menulink.click(function (e) {
+    $menulink.toggleClass('active');
+    $menu.toggleClass('active');
+    if ($search.hasClass('active')) {
+        $('.menu.active').css('padding-top', '50px');
+    }
+});
+$search.click(function (e) {
+    e.preventDefault();
+    $search_box.toggleClass('active');
+});
+$menuTrigger.click(function (e) {
+    e.preventDefault();
+    var t = $(this);
+    t.toggleClass('active').next('ul').toggleClass('active');
+});
+$('ul li:has(ul)');
+
+$(function() {
+  function slideMenu() {
+    var activeState = $("#menuv-container .menuv-list").hasClass("active");
+    $("#menuv-container .menuv-list").animate(
+      {
+        left: activeState ? "0%" : "-100%"
+      },
+      400
+    );
+  }
+  $("#menuv-wrapper").click(function(event) {
+    event.stopPropagation();
+    $("#hamburger-menuv").toggleClass("open");
+    $("#menuv-container .menuv-list").toggleClass("active");
+    slideMenu();
+
+    $("body").toggleClass("overflow-hidden");
+  });
+
+  $(".menuv-list").find(".accordion-toggle").click(function() {
+    $(this).next().toggleClass("open").slideToggle("fast");
+    $(this).toggleClass("active-tab").find(".menuv-link").toggleClass("active");
+
+    $(".menuv-list .accordion-content")
+      .not($(this).next())
+      .slideUp("fast")
+      .removeClass("open");
+    $(".menuv-list .accordion-toggle")
+      .not(jQuery(this))
+      .removeClass("active-tab")
+      .find(".menuv-link")
+      .removeClass("active");
+  });
+  
+   $(window).resize(function(){
+     if($(window).width() >=900) { //desktop only
+    $(".menuv-list")
+    .addClass("active");
+    $(".search_box")
+    .removeClass("active");
+  }});
+  
+  
+}); // jQuery load
+
+ var slideIndex = 1;
+showDivs(slideIndex);
+
+function plusDivs(n) {
+    showDivs(slideIndex += n);
+}
+
+function showDivs(n) {
+    var i;
+    var x = document.getElementsByClassName("mySlides");
+    if (n > x.length) {slideIndex = 1}
+    if (n < 1) {slideIndex = x.length} ;
+    for (i = 0; i < x.length; i++) {
+        x[i].style.display = "none";
+    }
+    x[slideIndex-1].style.display = "block";
+}        
+
+        http = getHTTPObject();               
+
+        function addToCompare(listingID)
+        {
+            url = 'http://www.bdstall.com/searchItemListing/addToCompare//' + listingID + '/';
+            http.open("POST", url, true);
+            http.onreadystatechange = showCompareResult;
+            http.send(null);
+        }
+
+        function showCompareResult()
+        {
+            if (http.readyState == 4)
+            {            
+                if (http.responseText == "")
+                {
+                    return;
+                }
+                else
+                {   
+                    if(http.responseText == "exceeded") {alert('Maximum 2 items can be compared'); return;}
+                    else if(http.responseText == "exist") {alert('Item already added'); return;};
+
+                    document.getElementById("showcompare").innerHTML=http.responseText;
+                    alert("Item added to compare list ");
+                }
+            }
+        }
+
+    function removeCompare(id)
+    {
+        url = 'http://www.bdstall.com/searchItemListing/removeCompare//' + id + '/';
+        http.open("POST", url, true);
+        http.onreadystatechange = showRemoveCompareResult;
+        http.send(null);
+    }
+
+    function showRemoveCompareResult()
+    {        
+        if (http.readyState == 4)
+        {         
+            if (http.responseText == "")
+            {
+                return;
+            }
+            else
+            {   
+                if(http.responseText=="allremove") document.getElementById("showcompare").innerHTML="";            
+                 else document.getElementById(http.responseText).innerHTML="";
+            }
+        }
+    }
+
+    //        function showProductCompare()
+    //        {
+    //            total_compare_count=0;            
+    //            
+    //            if(total_compare_count>1)
+    //             {
+    //                 redirectUrl = "/compare/";
+    //                 window.location = redirectUrl;
+    //             }
+    //            else
+    //             {
+    //                 alert('Add another product to compare');   
+    //                 return;
+    //             }   
+    //        }
+
+</script>
 
 
 </body></html>
