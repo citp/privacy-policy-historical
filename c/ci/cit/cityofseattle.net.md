@@ -1,30 +1,24 @@
-> *The following text is extracted and transformed from the cityofseattle.net privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216015123id_/http%3A//www.seattle.gov/tech/initiatives/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityofseattle.net privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229224008id_/http%3A//www.seattle.gov/tech/initiatives/privacy/about-the-privacy-program) for the most accurate reproduction.*
 
-# Privacy - Tech | seattle.gov
+# About the Privacy Program - Tech | seattle.gov
 
-The collection of data occurs in every day City processes such as paying a utility bill, renewing a pet license, browsing a web page, or signing up for an email list. Police, fire and emergency services collect different forms of video and electronic data while responding to calls. The increasing complexity of emerging technologies, business systems and laws mean the City must take appropriate steps to facilitate the collection, use, and disposal of data in a manner that balances the needs of the City to conduct its business with individual privacy, in a manner that builds public trust.
+The privacy program is designed to provide the structure and guidance required for City departments to incorporate the appropriate privacy practices into daily operations and to build public trust and confidence in how we collect and manage the public’s personal information.
 
-In September 2014, at the request of the Mayor and City Council, Seattle Information Technology launched the City's Privacy Initiative. We convened a group of stakeholders from across 15 City departments to create policies and practices to define and implement a citywide program to address our privacy commitments. To advise these efforts, we invited a Privacy Advisory Committee of area privacy thought leaders from academia, local companies, and private legal practice and community activist groups to provide best practices recommendations.
+In 2015, we designed a citywide Privacy Program to provide guidance and tools to City employees when working with personal information. We convened a group of representatives from across 15 City departments to create policies and practices to define and implement a citywide program to address our privacy commitments. To advise these efforts, we invited a Privacy Advisory Committee of area privacy thought leaders from academia, local companies, and private legal practice and community activist groups to provide best practices recommendations.
 
-## Privacy Program
-
-In 2015, we designed a citywide Privacy Program to provide guidance and tools to City employees when working with personal information.
+Since that start, the program has continued to grow. We now conduct hundreds of privacy reviews each year about the technologies we use to deliver needed services to ensure that new and existing City programs across all of our many departments use and protect information we collect.
 
 ## Privacy Principles
 
-The City of Seattle Privacy Principles were adopted as [City Council Resolution #31570](http://www.seattle.gov/Documents/Departments/InformationTechnology/City-of-Seattle-Privacy-Principles-FINAL.pdf) on February 23, 2015. This set of six principles provides an ethical framework for developing appropriate policies, standards and practices regarding the public's personal information.
+The City of Seattle Privacy Principles were adopted as [City Council Resolution #31570](https://www.seattle.gov/Documents/Departments/InformationTechnology/City-of-Seattle-Privacy-Principles-FINAL.pdf "City of Seattle Privacy Principles") on February 23, 2015. This set of six principles provides an ethical framework for developing appropriate policies, standards and practices regarding the public's personal information. These principles outline our commitment to collect only what is necessary, tell you how we use and share it, why we keep it only as long as necessary or required by law, and how we protect it from misuse.
 
 ## Privacy Policy
 
-Adopted in July 2015, this [policy](http://www.seattle.gov/Documents/Departments/InformationTechnology/privacy/PrivacyPolicyFINAL.pdf) provides direction to all City departments about our obligations to follow our Privacy Principles, Privacy Statement and our Privacy Review process.
+Adopted in July 2015, this [policy](https://www.seattle.gov/Documents/Departments/InformationTechnology/privacy/PrivacyPolicyFINAL.pdf "City of Seattle Privacy Policy") provides direction to all City departments about our obligations to follow our Privacy Principles, Privacy Statement, and our Privacy Review process. This policy outlines how departments will design projects with privacy top of mind.
 
 ## **Privacy Statement**
 
-Informed by the Privacy Principles, the Privacy Statement outlines our commitments about the collection and management of the public's personal information and both replaces and expands on our former [Online Privacy Statement](http://www.seattle.gov/tech/initiatives/privacy#x58255).
-
-## **Privacy Impact Assessments**
-
-A Privacy Impact Assessment is designed to outline the anticipated privacy impacts from a City project or program that collects, manages, retains or shares personal information from the public. The PIA helps identify details that will be used to determine how privacy impacts may be mitigated or reduced in accordance with the City of Seattle Privacy Principles and Privacy Statement. The City publishes information from key programs of public interest or impact.
+Informed by the Privacy Principles, the Privacy Statement outlines our commitments about the collection and management of the public's personal information and both replaces and expands on our former [Online Privacy Statement](https://www.seattle.gov/tech/initiatives/privacy/about-the-privacy-program#x58255).
 
 ## 
 
@@ -32,10 +26,10 @@ We understand the value of personal information and work to protect the personal
 
 ## 
 
-This Privacy Statement applies to the collection, use, disclosure, sharing and retention of personal information we obtain from individuals interacting with City departments, whether in person, on a website (http://www.seattle.gov/), or by mail in the course of providing City services. Each City department will strive to abide by and use this Privacy Statement to direct the handling of personal information, though from time to time it may be necessary for a City department to develop a practice that differs from this Privacy Statement. When that happens, we will do our best to provide you with notice of the practice and to let you know about your choices.
+This Privacy Statement applies to the collection, use, disclosure, sharing and retention of personal information we obtain from individuals interacting with City departments, whether in person, on a website (//www.seattle.gov/), or by mail in the course of providing City services. Each City department will strive to abide by and use this Privacy Statement to direct the handling of personal information, though from time to time it may be necessary for a City department to develop a practice that differs from this Privacy Statement. When that happens, we will do our best to provide you with notice of the practice and to let you know about your choices.
 
 **City of Seattle Employees  
-** This Statement does not apply to personal information we obtain in our capacity as an employer. Employment information is covered under separate polices which may be found on our [Human Resources website](http://www.seattle.gov/personnel/ "Human Resources website").
+** This Statement does not apply to personal information we obtain in our capacity as an employer. Employment information is covered under separate polices which may be found on our [Human Resources website](https://www.seattle.gov/personnel/ "Human Resources website").
 
 ## 
 
@@ -332,6 +326,6 @@ This information should not be construed in any way as giving business, legal, o
 
 ## 
 
-We are mindful of the populations we serve and how data about members of the public, including vulnerable populations, can and should be used. Our Privacy Principles are consistent with our [Race and Social Justice Initiative](http://www.seattle.gov/rsji). 
+We are mindful of the populations we serve and how data about members of the public, including vulnerable populations, can and should be used. Our Privacy Principles are consistent with our [Race and Social Justice Initiative](https://www.seattle.gov/rsji). 
 
 ## 
