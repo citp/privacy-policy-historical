@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playback.fm privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629153109id_/https%3A//playback.fm/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playback.fm privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229170621id_/https%3A//playback.fm/privacy) for the most accurate reproduction.*
 
 # Playback.fm Privacy Policy
 
@@ -21,7 +21,7 @@ Playback.fm uses cookies to store information about visitors' preferences, to re
 **DoubleClick DART Cookie**  
 → Google, as a third party vendor, uses cookies to serve ads on Playback.fm.  
 → Google's use of the DART cookie enables it to serve ads to our site's visitors based upon their visit to Playback.fm and other sites on the Internet.   
-→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html "Opt out of the Dart Cookie")
 
 **Our Advertising Partners**  
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......   
@@ -48,7 +48,7 @@ You should consult the respective privacy policies of these third-party ad serve
 
 We use Google Analytics for tracking general web visitor behavior including geographical location and which pages were visited. We do not use Google Analytics to uncover or store data about particular inviduals. We use data from Google Analytics to better understand user behavior in order to craft better experiences.
 
-We use Google Adsense for advertising. While we don't have any data available to us, Google uses cookies to personalize ad experiences for users. You can learn more [here](http://www.google.com/privacy_ads.html) or opt out of this by visiting this [link.](https://tools.google.com/dlpage/gaoptout/)
+We use Google Adsense for advertising. While we don't have any data available to us, Google uses cookies to personalize ad experiences for users. You can learn more [here](https://www.google.com/privacy_ads.html) or opt out of this by visiting this [link.](https://tools.google.com/dlpage/gaoptout/)
 
 We use a tool called ShareThis, to help users share content and understand how they are doing so. We do not store or process data by ShareThis. Visit the ShareThis privacy policy [here](https://www.sharethis.com/privacy/).
 
@@ -56,7 +56,7 @@ We use a tool called ShareThis, to help users share content and understand how t
 
 In order to allow users to like or follow us on Facebook and Twitter, we've installed Twitter and Facebook widgets. These widgets use cookies. Learn about how twitter uses their data [here](https://twitter.com/en/privacy) and how Facebook uses theirs [here](https://www.facebook.com/policy).
 
-To learn more about Googles policies including Analytics and Adsense, please visit their [privacy policy](http://www.google.com/intl/en/policies/privacy/).
+To learn more about Googles policies including Analytics and Adsense, please visit their [privacy policy](https://www.google.com/intl/en/policies/privacy/).
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. [What Are Cookies?](http://www.privacypolicyonline.com/what-are-cookies)
 
