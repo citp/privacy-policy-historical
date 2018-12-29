@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audiosparx.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628230413id_/https%3A//www.audiosparx.com/sa/legal/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audiosparx.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229010504id_/https%3A//www.audiosparx.com/sa/legal/privacy_policy.cfm) for the most accurate reproduction.*
 
 # AudioSparx Privacy Policy
 
@@ -98,23 +98,23 @@ We reserve the right to modify this policy in the future.
 
 Back to Top
 
-wav sound fx,  
-geluidseffecten,  
-download dj sounds effects,  
-pistol sounds,  
-battle sound effects free download,  
+dj sound effects download for mac,  
+100 hollywood sound effects,  
+sound effects theatre,  
+mp3 sounds,  
+sound effects lightsaber,  
+free horse noises downloads,  
+effects of music on society,  
+free wav sound bites,  
+sound clips from baseball movies,  
+atvs offroading laughing happy sound clips,  
+explosion sound effect,  
+sound chips for fx lightsaber,  
+road runner sound effect,  
+bull sound effect,  
 samples & sound effects,  
-swishes for professional movie sound effects,  
-sound effects kaboom,  
-free gun sound effects soundboard downloads,  
-formula one race car sound effects,  
-free professional dj sound effects,  
-melting sound fx,  
-sound effects da da da,  
-volcano sound effects,  
-free stab sounds effects,  
-sound effects virtual dj,  
-free animal sounds,  
-evil wav sounds,  
-sound effects music,  
-isotrope sound effects library 
+sound effects animals,  
+downloadable keyboard sounds,  
+sound packs,  
+powerpoint sound clips,  
+fx 
