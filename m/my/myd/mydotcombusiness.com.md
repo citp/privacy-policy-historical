@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mydotcombusiness.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625122754id_/http%3A//mydotcombusiness.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydotcombusiness.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229173728id_/http%3A//mydotcombusiness.com/privacy) for the most accurate reproduction.*
 
 # My Dot Com Business Privacy Policy
 
@@ -150,5 +150,5 @@ You can set your browser to refuse all or some browser cookies, or to alert you 
 
 * * *
 
-Privacy Policy / 25 Jun 2018 / v1.0  
+Privacy Policy / 29 Dec 2018 / v1.0  
 My Dot Com Business
