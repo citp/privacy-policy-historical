@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the netflix.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629092947id_/https%3A//help.netflix.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netflix.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229154350id_/https%3A//help.netflix.com/legal/privacy) for the most accurate reproduction.*
 
 # None
-
-[ ](https://web.archive.org/legal/privacy/download?locale=en&forceCountry=FR)
 
 This Privacy Statement explains our practices, including your choices, regarding the collection, use, and disclosure of certain information, including your personal information, by the [Netflix family of companies](https://help.netflix.com/support/2101) ("Netflix").
 
@@ -27,7 +25,7 @@ We receive and store information about you such as:
     * advertising identifiers, such as those on mobile devices, tablets, and streaming media devices that include such identifiers (see the "Cookies and Internet Advertising" section below for more information);
     * device and software characteristics (such as type and configuration), connection information, statistics on page views, referring source (for example, referral URLs), IP address (which may tell us your general location), browser and standard web server log information;
     * information collected via the use of cookies, web beacons and other technologies, including ad data (such as information on the availability and delivery of ads, the site URL, as well as the date and time). (See our "Cookies and Internet Advertising" section for more details.)
-  * **Information from other sources:** We also obtain information from other sources. We protect this information according to the practices described in this Privacy Statement, plus any additional restrictions imposed by the source of the data. These sources vary over time, but could include:
+  * **Information from other sources:** We also obtain information from other sources. We protect this information according to the practices described in this Privacy Statement, plus any additional restrictions imposed by the source of the data. These sources vary over time, but could include: 
     * service providers that help us determine a location based on your IP address in order to customize our service and for other uses consistent with this Privacy Statement;
     * select partners that make our service available on their device or with which we offer co-branded services or engage in joint marketing activities;
     * payment service providers who provide us with updated payment method information based on their relationship with you;
@@ -46,8 +44,6 @@ We use information to provide, analyze, administer, enhance and personalize our 
   * communicate with you concerning our service (for example by email, push notifications text messaging, and online messaging channels), so that we can send you news about Netflix, details about new features and content available on Netflix, and special offers, promotional announcements, and consumer surveys, and to assist you with operational requests such as password reset requests. Please see the "Your Choices" section of this Privacy Statement to learn how to set or change your communications preferences.
 
 
-
-Our legal basis for collecting and using the personal information described in this Privacy Statement will depend on the personal information concerned and the specific context in which we collect and use it. We will normally collect personal information from you where we need the personal information to perform a contract with you (for example, to provide our services to you), where the processing is in our legitimate interests and not overridden by your data protection interests or fundamental rights and freedoms (for example, our direct marketing activities in accordance with your preferences), or where we have your consent to do so (for example, for you to participate in certain consumer insights activities like specific surveys and focus groups). In some cases, we may also have a legal obligation to collect personal information from you or may otherwise need the personal information to protect your vital interests or those of another person (for example, to prevent payment fraud or confirm your identity). For questions about our use of your personal information (including legal bases and transfer mechanisms we rely on), cookies or similar technologies, please contact our Data Protection Officer/Privacy Office by email at [privacy@netflix.com](mailto:privacy@netflix.com). Please visit our online help center at [https://help.netflix.com](https://help.netflix.com/) for more information about these topics.
 
 ### Disclosure of Information
 
@@ -75,7 +71,7 @@ Social plugins and social applications are operated by the social networks thems
 
 ### Access to Account and Profiles
 
-For ease of access to your account, you can use the "Remember me on this device" function when you log in to the website. This function uses technology that enables us to provide direct account access and to help administer the Netflix service without requiring reentry of any password or other user identification when your browser revisits the service.
+For ease of access to your account, you can use the "Remember me on this device" function when you log in to the website. This function uses technology that enables us to provide direct account access and to help administer the Netflix service without requiring reentry of any password or other user identification when your browser revisits the service. 
 
 To remove access to your Netflix account from your devices: (a) visit the "Account" section of our website, choose "Sign out of all devices," and follow the instructions to deactivate your devices (note, deactivation may not occur immediately) or (b) delete your Netflix settings from your device (steps vary by device and the option is not available on all devices). Where possible, users of public or shared devices should log out at the completion of each visit. If you sell or return a computer or Netflix ready device, you should log out and deactivate the device before doing so. If you do not maintain the security of your password or device, or fail to log out or deactivate your device, subsequent users may be able to access your account, including your personal information.
 
@@ -99,9 +95,7 @@ You can most easily do this by visiting the "Account" portion of our website, wh
 
 To make requests, or if you have any other question regarding our privacy practices, please contact our Data Protection Officer/Privacy Office at [privacy@netflix.com](mailto:privacy@netflix.com). We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws. Please also see the "Your Choices" section of this Privacy Statement for additional choices regarding your information.
 
-You can object to processing of your personal information, ask us to restrict processing of your personal information or request portability of your personal information; if we have collected and process your personal information with your consent, then you can withdraw your consent at any time; withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent; you have the right to complain to a data protection authority about our collection and use of your personal information. Our main establishment within the European Union is in the Netherlands. Please visit our online help center at [https://help.netflix.com](https://help.netflix.com/) for more information about these topics.
-
-We may retain information as required or permitted by applicable laws and regulations, including to honor your choices, for our billing or records purposes and to fulfill the purposes described in this Privacy Statement. We take reasonable measures to destroy or de-identify personal information in a secure manner when it is no longer required.
+We may reject requests that are unreasonable or not required by law, including those that would be extremely impractical, could require disproportionate technical effort, or could expose us to operational risks such as free trial fraud. We may retain information as required or permitted by applicable laws and regulations, including to honor your choices, for our billing or records purposes and to fulfill the purposes described in this Privacy Statement. We take reasonable measures to destroy or de-identify personal information in a secure manner when it is no longer required.
 
 ### Security
 
@@ -139,7 +133,7 @@ Advertising identifiers are similar to cookies and are found on many mobile devi
     * **Advertising cookies and advertising identifiers:** These cookies and advertising identifiers use information about your use of this and other websites and apps, your response to ads and emails, and to deliver ads that are more relevant to you. These types of ads are called "interest-based advertising." Many of the advertising cookies associated with our service belong to our Service Providers.
   4. **How can I exercise choice regarding cookies and advertising identifiers?**
 
-For more information about cookies set through our website, as well as other types of online tracking (including the collection of information by third parties about your online activities over time and across third-party Web sites or online services for online interest based advertising), and to exercise choices regarding them, [click here](https://c.betrad.com/netflix/customlink.html?locale=en-FR).
+For more information about cookies set through our website, as well as other types of online tracking (including the collection of information by third parties about your online activities over time and across third-party Web sites or online services for online interest based advertising), and to exercise choices regarding them, [click here](https://c.betrad.com/netflix/customlink.html?locale=en-NZ).
 
 To opt out of interest-based ads from Netflix in connection with an advertising identifier on a mobile device, tablet, or streaming media devices, please configure the appropriate setting on your device (usually found under "privacy" or "ads" in your device's settings). You may still see Netflix ads on your device, but they will not be tailored to your likely interests.
 
