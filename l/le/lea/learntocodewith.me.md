@@ -1,62 +1,68 @@
-> *The following text is extracted and transformed from the learntocodewith.me privacy policy that was archived on 2017-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170725231255id_/https%3A//learntocodewith.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learntocodewith.me privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229181841id_/https%3A//learntocodewith.me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy governs the manner in which Learn to Code With Me collects, uses, maintains and discloses information collected from users (each, a “User”) of the <https://learntocodewith.me/> website (“Site”).
+This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from learntocodewith.me (the “Site”).
 
-### Personal identification information
+### **Personal Information We Collect**
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, fill out a form, respond to a survey, and in connection with other activities, services, features or resources we make available on our Site.. Users may visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. We refer to this automatically-collected information as “Device Information.”
 
-### Non-personal identification information
+We collect Device Information using the following technologies:
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
-
-### Web browser cookies
-
-Our Site may use “cookies” to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
-
-### How we use collected information
-
-Learn to Code With Me may collect and use Users personal information for the following purposes:
-
-  * _To run and operate our Site.  _We may need your information display content on the Site correctly.
-  * _To personalize user experience.  _We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _To improve our Site.  _We may use feedback you provide to improve our products and services.
-  * _To send periodic emails.  _We may use the email address to respond to their inquiries, questions, and/or other requests.
+  * “Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/).
+  * “Log files” track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.
+  * “Web beacons,” “tags,” and “pixels” are electronic files used to record information about how you browse the Site.
 
 
 
-### How we protect your information
+Additionally, if you make a purchase or attempt to make a purchase through the Site, we collect certain information from you, including your name, billing address, shipping address, payment information (including credit card numbers), email address, and phone number.  We refer to this information as “Order Information.”
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+When we talk about “Personal Information” in this Privacy Policy, we are talking both about Device Information and Order Information.
 
-### Sharing your personal information
+### **How Do We Use Your Personal Information?**
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
+We use the Order Information that we collect generally to fulfill any orders placed through the Site (including processing your payment information, arranging for shipping, and providing you with invoices and/or order confirmations). 
 
-### Electronic newsletters
+Additionally, we use Personal Information to:
 
-If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
+  * Run and operate our Site. We may need your information to display content on the Site correctly.
+  * Personalize user experience. We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  * Improve our Site. We may use feedback you provide to improve our products and services.
+  * Send periodic emails. We may use the email address to respond to their inquiries, questions, and/or other requests.
 
-### Third party websites
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licencors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
 
-### Compliance with children's online privacy protection act
+We use the Device Information that we collect to help us screen for potential risk and fraud (in particular, your IP address), and more generally to improve and optimize our Site (for example, by generating analytics about how our customers browse and interact with the Site, and to assess the success of our marketing and advertising campaigns).
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+### **Sharing Your Personal Information**
 
-### Changes to this privacy policy
+We share your Personal Information with third parties to help us use your Personal Information, as described above.  For example, we use an email marketing platform to send subscribers information about our latest content. We also use Google Analytics to help us understand how our customers use the Site–you can read more about how Google uses your Personal Information here:  https://www.google.com/intl/en/policies/privacy/. You can also opt-out of Google Analytics here: https://tools.google.com/dlpage/gaoptout.
 
-Learn to Code With Me has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+Finally, we may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.
 
-### Your acceptance of these terms
+### **Do Not Track**
 
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+Please note that we do not alter our Site’s data collection and use practices when we see a Do Not Track signal from your browser.
 
-### Contacting us
+### **Your Rights**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](https://learntocodewith.me/contact).
+If you are a European resident, you have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us through the contact information below.
 
-This document was last updated on July 24, 2015
+Additionally, if you are a European resident we note that we are processing your information in order to fulfill contracts we might have with you (for example if you make an order through the Site), or otherwise to pursue our legitimate business interests listed above.  Additionally, please note that your information will be transferred outside of Europe, including to Canada and the United States.
+
+### **Data Retention**
+
+When you place an order through the Site, we will maintain your Order Information for our records unless and until you ask us to delete this information.
+
+### **Changes**
+
+We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.
+
+### **Contact Us**
+
+For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at [laurence@learntocodewith.me](mailto:laurence@learntocodewith.me) or by mail using the details provided below:
+
+Laurence Bradford, PO Box 230380, New York, NY, 10023, United States
+
+_This policy was last updated on July 23, 2018._
