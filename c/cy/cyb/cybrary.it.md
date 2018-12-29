@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cybrary.it privacy policy that was archived on 2018-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180315034732id_/https%3A//www.cybrary.it/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cybrary.it privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229213608id_/https%3A//www.cybrary.it/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Cybrary
 
-Last updated: February 2018 
+Last updated: April 2018 
 
 Cybrary is committed to respecting your privacy and complying with applicable laws and regulations to ensure that the personal information you give us is kept appropriately secure and processed fairly and lawfully.
 
@@ -66,7 +66,7 @@ Please see the Cookies Policy (see below) for more information about cookies 
 
   
   
-**COMMUNICATIONS WITH CUSTOMER Success TEAM**
+**COMMUNICATIONS WITH CUSTOMER SUCCESS TEAM**
 
 If you contact our Customer Service Team by live chat from our Site or Application, by email or phone, our Customer Service consultants may collect your personal information and use this information to identify you as a customer, help with your query, process your order, deliver products and services, process payments, update our records and to generally manage your account with us under our terms with you.
 
@@ -116,13 +116,15 @@ In certain circumstances (where required or permitted under applicable laws or w
 In the event that we or a part of our business undergo re-organization or are sold or licensed to a third party, any personal information we hold about you may be transferred to that re-organized entity, licensee or third party.  
 
 
-**OVERSEAS TRANSFERS OF DATA  **
+**OVERSEAS TRANSFERS OF DATA**
 
-The personal information that you provide through the Site and/or Applications is processed and is stored on servers in the United States of America.
+The personal information that you provide through the Site and/or Applications is processed and is stored on servers in the United States of America. 
 
 We may transfer information that we collect from you to other companies in the Cybrary group, joint ventures, franchisees, licensees, other companies who promote and sell Cybrary products and services and to selected service providers who perform functions on our behalf (each as described above), based in countries outside of your country of residence and this information may be stored and processed in such countries.
 
-Personal information stored in another jurisdiction may be subject to access requests from governments, courts, or law enforcement in that jurisdiction according to its laws. Whether the personal information you provide to us is processed by us or our Affiliated Companies or services providers within the U.K. or EEA or outside of it, we will take steps to ensure that your personal information will be afforded the level of protection required of us under and in accordance with this Privacy Policy and applicable data protection laws and in accordance with current legally recognized data transfer mechanisms, such as a valid Privacy Shield certification (in the case of a data transfer to a Privacy Shield certified US recipient –  [https://www.privacyshield.gov/welcome](https://www.privacyshield.gov/welcome)) or appropriate EC approved standard contractual clauses (see [http://ec.europa.eu/justice/data-protection/international-transfers/transfer/index_en.htm](http://ec.europa.eu/justice/data-protection/international-transfers/transfer/index_en.htm)) 
+Personal information stored in another jurisdiction may be subject to access requests from governments, courts, or law enforcement in that jurisdiction according to its laws. Whether the personal information you provide to us is processed by us or our Affiliated Companies or services providers within the U.K. or EEA or outside of it, we will take steps to ensure that your personal information will be afforded the level of protection required of us under and in accordance with this Privacy Policy and applicable data protection laws and in accordance with current legally recognized data transfer mechanisms, such as a valid Privacy Shield certification (in the case of a data transfer to a Privacy Shield certified US recipient – https://www.privacyshield.gov/welcome) or appropriate EC approved standard contractual clauses (see http://ec.europa.eu/justice/data-protection/international-transfers/transfer/index_en.htm)
+
+Personal information stored in another jurisdiction may be subject to access requests from governments, courts, or law enforcement in that jurisdiction according to its laws. Whether the personal information you provide to us is processed by us or our Affiliated Companies or services providers within the U.K. or EEA or outside of it, we will take steps to ensure that your personal information will be afforded the level of protection required of us under and in accordance with this Privacy Policy and applicable data protection laws and in accordance with current legally recognized data transfer mechanisms, such as a valid Privacy Shield certification (in the case of a data transfer to a Privacy Shield certified US recipient – https://www.privacyshield.gov/welcome) or appropriate EC approved standard contractual clauses (see http://ec.europa.eu/justice/data-protection/international-transfers/transfer/index_en.htm)
 
 **_Your Rights_**
 
@@ -131,6 +133,16 @@ You may have the right under applicable laws to ask for details of the personal 
 If you would like to exercise any of these rights in relation to the personal information we hold about you or wish to change your preferences at any time, please contact us at [info@cybrary.it](mailto:info@cybrary.it) . Please note that we may require you to verify your identity before allowing you to access your personal information.
 
 If you have an online customer account, you can also access, amend or update your information by logging into the Site or Application and amending your details as appropriate. 
+
+**EU-US and Swiss-US Privacy Shield**
+
+  
+Cybrary, Inc. participates in the EU-US and Swiss-US Privacy Shield Framework regarding the collection, use, and retention of personal information from European Union member countries and Switzerland, respectively. We have certified with the Department of Commerce that we adhere to the Privacy Shield Principles. To learn more about the Privacy Shield Principles, [visit here](https://www.privacyshield.gov/EU-US-Framework).
+
+If you have any inquiries or complaints about our handling of your personal data under Privacy Shield, or about our privacy practices generally, please contact us at: info@Cybrary.it We will respond to your inquiry promptly. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+
+We sometimes provide personal information to third parties to perform services on our behalf. If we transfer personal information received under the Privacy Shield to a third party, the third party’s access, use, and disclosure of the personal data must also be in compliance with our Privacy Shield obligations, and we will remain liable under the Privacy Shield for any failure to do so by the third party unless we prove we are not responsible for the event giving rise to the damage.  
+You can review our Privacy Shield registration [here](https://www.privacyshield.gov/list). Cybrary is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). We may be required to disclose personal information that we handle under the Privacy Shield in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
 **_Retention and Deletion of Personal Information_**
 
