@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the scraps123.com privacy policy that was archived on 2018-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180605010222id_/http%3A//www.scraps123.com/2009/06/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the scraps123.com privacy policy that was archived on 2018-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181229143151id_/http%3A//www.scraps123.com/2009/06/privacy-policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:b="http://www.google.com/2005/gml/b" xmlns:data="http://www.google.com/2005/gml/data" xmlns:expr="http://www.google.com/2005/gml/expr"><head>
-<link href="https://www.blogger.com/static/v1/widgets/3957297643-widget_css_bundle.css" rel="stylesheet" type="text/css">
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:b="http://www.google.com/2005/gml/b" xmlns:data="http://www.google.com/2005/gml/data" xmlns:expr="http://www.google.com/2005/gml/expr"><head>
+<link href="https://www.blogger.com/static/v1/widgets/254310735-widget_css_bundle.css" rel="stylesheet" type="text/css">
 <title>Images Privacy Policy Status and Cover Pic </title>
 <meta content="Pictures for Privacy Policy Cover images and status " name="description">
 <meta content="s06hxlG+F2hXTfHlpcGO5U9nOyNTc7uEzNqu1YSxMFg=" name="verify-v1">
@@ -434,7 +434,7 @@ var pageTracker = _gat._getTracker("UA-3939105-1");
 pageTracker._initData();
 pageTracker._trackPageview();
 </script>
-<link href="https://www.blogger.com/dyn-css/authorization.css?targetBlogID=571875522884404934&amp;zx=391931d3-f6b5-4c91-90a7-a4ad865c39bc" media="none" onload="if(media!='all')media='all'" rel="stylesheet"><noscript><link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=571875522884404934&amp;zx=391931d3-f6b5-4c91-90a7-a4ad865c39bc' rel='stylesheet'/></noscript>
+<link href="https://www.blogger.com/dyn-css/authorization.css?targetBlogID=571875522884404934&amp;zx=58b13dfb-bacb-4264-bffc-bf1a7faadc8e" media="none" onload="if(media!='all')media='all'" rel="stylesheet"><noscript><link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=571875522884404934&amp;zx=58b13dfb-bacb-4264-bffc-bf1a7faadc8e' rel='stylesheet'/></noscript>
 
 <script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/js/google_top_exp.js"></script></head>
 <body>
@@ -558,65 +558,21 @@ window.open("http://tag.scraps123.com/picu?i="+i);
 
 function gF(b,i)
 {
-   var fbb=b;
+var fbb=b;
 s123Arr=i.split("_u_");
- picLink=s123Arr[0];
- fbb.disabled=true;
- fbb.style.backgroundColor="#f99";
- fbb.style.color="#000";
- fbb.value="Uploading";
-if(doIt==1)
+picLink=s123Arr[0];
+var fDesc=s123Arr[1];
+if(fDesc == null)
 {
-    FB.api('/me', function(response) {
-    FB.api("/me/photos","POST",{"url": picLink},function (response) {
-    if (response && !response.error) {
-        fbb.style.backgroundColor="#090";
-        fbb.value="Uploaded";
-  } 
-  });
-    });
+fDesc = "Image";
 }
-
-else
-{
-     FB.login(function(response) {
-      if (response.authResponse) {
-     FB.api('/me', function(response) {
-checkLoginState();
-     });
-   } 
-    else
-    {
-        fbb.style.backgroundColor="#546C9E";
-        fbb.style.color="#fff";
-        fbb.disabled=false;
-        fbb.value="Update on FB";
-    }
- }, {scope: 'publish_actions'});
-    
-}
-
-
-  function checkLoginState() {
-    FB.getLoginStatus(function(response) {
-      statusChangeCallback(response);
-    });
-  }
-
-
-  function statusChangeCallback(response) {
-    if (response.status === 'connected') {
-    doIt=1;
-     FB.api('/me', function(response) {
-    FB.api("/me/photos","POST",{"url": picLink},function (response) {
-    if (response && !response.error) {
-        fbb.style.backgroundColor="#090";
-        fbb.value="Uploaded";
-  } 
-  });
-    });
-    } 
-  }
+fbb.disabled=true;
+fbb.style.backgroundColor="#f99";
+fbb.style.color="#000";
+fbb.value="Uploading";
+var u = "http://tag.scraps123.com/bt?i="+encodeURI(picLink+"_u_"+fDesc);
+window.open('http://www.facebook.com/sharer.php?u='+u,'fbsharer','toolbar=0,status=0,width=630,height=441');
+return false;
 }
 
 function toOthUrl(i)
@@ -639,7 +595,7 @@ window.top.location.href = "http://tag.scraps123.com/bt?i="+encodeURI(tImgLnk+"_
 <div class="clear"></div>
 <span class="widget-item-control">
 <span class="item-control blog-admin">
-<a class="quickedit" href="//www.blogger.com/rearrange?blogID=571875522884404934&amp;widgetType=HTML&amp;widgetId=HTML9&amp;action=editWidget&amp;sectionId=crosscol" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML9&quot;));" target="configHTML9" title="Edit">
+<a class="quickedit" href="//www.blogger.com/rearrange?blogID=571875522884404934&amp;widgetType=HTML&amp;widgetId=HTML9&amp;action=editWidget&amp;sectionId=crosscol" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML9&quot;));" rel="nofollow" target="configHTML9" title="Edit">
 <img alt="" height="18" src="https://resources.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
@@ -656,14 +612,24 @@ window.top.location.href = "http://tag.scraps123.com/bt?i="+encodeURI(tImgLnk+"_
 <div class="boxContainer">
 <div class="twinBox">
 <ul>
-<li><a href="http://www.scraps123.com/2017/10/rishte-shayari.html">Rishte Shayari<span style="color:#8000FF"> New</span></a></li>
-<li><a href="http://www.scraps123.com/2017/06/funny-shayari.html">Funny Shayari</a></li>
+<li><a href="http://tag.scraps123.com/sms/New+Year/1/">New Year<span style="color:#007700; font-size:11px;"> Sms</span></a></li>
+<li><a href="http://www.scraps123.com/2009/12/miss-you-new-year-scraps-1.html">Miss U on New Year<span style="color:#0000CC; font-size:11px;"> 2019</span></a></li>
+<li><a href="http://www.scraps123.com/2009/12/romantic-new-year-4-lovers.html">New Year<span style="color:#0000CC; font-size:11px;"> Lovers</span></a></li>
+<li><a href="http://www.scraps123.com/2015/12/funny-new-year.html">Funny New Year</a></li>
+<li><a href="http://www.scraps123.com/2009/12/orkut-christmas-scraps-4-lovers.html">Christmas for Lovers</a></li>
 </ul>
 </div>
 
 <div class="twinBox">
 <ul>
+<li><a href="http://www.scraps123.com/2007/12/new-year-i.html">New Year<span style="color:#007700; font-size:11px;"> Pics</span></a></li>
+<li><a href="http://www.scraps123.com/2007/12/happy-new-year-in-marathi-i.html">New Year<span style="color:#007700; font-size:11px;"> मराठी</span></a></li>
+<li><a href="http://tag.scraps123.com/special-fbcover?photo=New-Year-Cover">New Year<span style="color:#007700; font-size:11px;"> Covers</span></a></li>
 <li><a href="http://www.scraps123.com/2017/07/friendship-shayari.html">Dosti Shayari</a></li>
+<li><a href="http://www.scraps123.com/2017/06/funny-shayari.html">Funny Shayari</a></li>
+
+<!--
+-->
 </ul>
 </div>
 </div>
@@ -671,7 +637,7 @@ window.top.location.href = "http://tag.scraps123.com/bt?i="+encodeURI(tImgLnk+"_
 <div class="clear"></div>
 <span class="widget-item-control">
 <span class="item-control blog-admin">
-<a class="quickedit" href="//www.blogger.com/rearrange?blogID=571875522884404934&amp;widgetType=HTML&amp;widgetId=HTML4&amp;action=editWidget&amp;sectionId=main" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML4&quot;));" target="configHTML4" title="Edit">
+<a class="quickedit" href="//www.blogger.com/rearrange?blogID=571875522884404934&amp;widgetType=HTML&amp;widgetId=HTML4&amp;action=editWidget&amp;sectionId=main" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML4&quot;));" rel="nofollow" target="configHTML4" title="Edit">
 <img alt="" height="18" src="https://resources.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
@@ -693,7 +659,7 @@ window.top.location.href = "http://tag.scraps123.com/bt?i="+encodeURI(tImgLnk+"_
 <div class="clear"></div>
 <span class="widget-item-control">
 <span class="item-control blog-admin">
-<a class="quickedit" href="//www.blogger.com/rearrange?blogID=571875522884404934&amp;widgetType=HTML&amp;widgetId=HTML14&amp;action=editWidget&amp;sectionId=main" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML14&quot;));" target="configHTML14" title="Edit">
+<a class="quickedit" href="//www.blogger.com/rearrange?blogID=571875522884404934&amp;widgetType=HTML&amp;widgetId=HTML14&amp;action=editWidget&amp;sectionId=main" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML14&quot;));" rel="nofollow" target="configHTML14" title="Edit">
 <img alt="" height="18" src="https://resources.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
@@ -783,7 +749,7 @@ google_ad_height = 280;
 <div class="clear"></div>
 <span class="widget-item-control">
 <span class="item-control blog-admin">
-<a class="quickedit" href="//www.blogger.com/rearrange?blogID=571875522884404934&amp;widgetType=HTML&amp;widgetId=HTML17&amp;action=editWidget&amp;sectionId=main" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML17&quot;));" target="configHTML17" title="Edit">
+<a class="quickedit" href="//www.blogger.com/rearrange?blogID=571875522884404934&amp;widgetType=HTML&amp;widgetId=HTML17&amp;action=editWidget&amp;sectionId=main" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML17&quot;));" rel="nofollow" target="configHTML17" title="Edit">
 <img alt="" height="18" src="https://resources.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
@@ -807,7 +773,7 @@ google_ad_height = 280;
 <div class="clear"></div>
 <span class="widget-item-control">
 <span class="item-control blog-admin">
-<a class="quickedit" href="//www.blogger.com/rearrange?blogID=571875522884404934&amp;widgetType=HTML&amp;widgetId=HTML1&amp;action=editWidget&amp;sectionId=sidebar" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML1&quot;));" target="configHTML1" title="Edit">
+<a class="quickedit" href="//www.blogger.com/rearrange?blogID=571875522884404934&amp;widgetType=HTML&amp;widgetId=HTML1&amp;action=editWidget&amp;sectionId=sidebar" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML1&quot;));" rel="nofollow" target="configHTML1" title="Edit">
 <img alt="" height="18" src="https://resources.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
@@ -861,7 +827,7 @@ google_ad_height = 280;
 <div class="clear"></div>
 <span class="widget-item-control">
 <span class="item-control blog-admin">
-<a class="quickedit" href="//www.blogger.com/rearrange?blogID=571875522884404934&amp;widgetType=HTML&amp;widgetId=HTML12&amp;action=editWidget&amp;sectionId=sidebar" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML12&quot;));" target="configHTML12" title="Edit">
+<a class="quickedit" href="//www.blogger.com/rearrange?blogID=571875522884404934&amp;widgetType=HTML&amp;widgetId=HTML12&amp;action=editWidget&amp;sectionId=sidebar" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML12&quot;));" rel="nofollow" target="configHTML12" title="Edit">
 <img alt="" height="18" src="https://resources.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
@@ -892,7 +858,7 @@ google_ad_height = 250;
 <div class="clear"></div>
 <span class="widget-item-control">
 <span class="item-control blog-admin">
-<a class="quickedit" href="//www.blogger.com/rearrange?blogID=571875522884404934&amp;widgetType=HTML&amp;widgetId=HTML3&amp;action=editWidget&amp;sectionId=sidebar" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML3&quot;));" target="configHTML3" title="Edit">
+<a class="quickedit" href="//www.blogger.com/rearrange?blogID=571875522884404934&amp;widgetType=HTML&amp;widgetId=HTML3&amp;action=editWidget&amp;sectionId=sidebar" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML3&quot;));" rel="nofollow" target="configHTML3" title="Edit">
 <img alt="" height="18" src="https://resources.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
@@ -961,7 +927,7 @@ google_ad_height = 250;
 <div class="clear"></div>
 <span class="widget-item-control">
 <span class="item-control blog-admin">
-<a class="quickedit" href="//www.blogger.com/rearrange?blogID=571875522884404934&amp;widgetType=HTML&amp;widgetId=HTML29&amp;action=editWidget&amp;sectionId=sidebar" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML29&quot;));" target="configHTML29" title="Edit">
+<a class="quickedit" href="//www.blogger.com/rearrange?blogID=571875522884404934&amp;widgetType=HTML&amp;widgetId=HTML29&amp;action=editWidget&amp;sectionId=sidebar" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML29&quot;));" rel="nofollow" target="configHTML29" title="Edit">
 <img alt="" height="18" src="https://resources.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
@@ -1063,7 +1029,7 @@ taNameCd.select();
 <div class="clear"></div>
 <span class="widget-item-control">
 <span class="item-control blog-admin">
-<a class="quickedit" href="//www.blogger.com/rearrange?blogID=571875522884404934&amp;widgetType=HTML&amp;widgetId=HTML15&amp;action=editWidget&amp;sectionId=sidebar" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML15&quot;));" target="configHTML15" title="Edit">
+<a class="quickedit" href="//www.blogger.com/rearrange?blogID=571875522884404934&amp;widgetType=HTML&amp;widgetId=HTML15&amp;action=editWidget&amp;sectionId=sidebar" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML15&quot;));" rel="nofollow" target="configHTML15" title="Edit">
 <img alt="" height="18" src="https://resources.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
@@ -1094,7 +1060,7 @@ google_ad_height = 90;
 <div class="clear"></div>
 <span class="widget-item-control">
 <span class="item-control blog-admin">
-<a class="quickedit" href="//www.blogger.com/rearrange?blogID=571875522884404934&amp;widgetType=HTML&amp;widgetId=HTML6&amp;action=editWidget&amp;sectionId=sidebar" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML6&quot;));" target="configHTML6" title="Edit">
+<a class="quickedit" href="//www.blogger.com/rearrange?blogID=571875522884404934&amp;widgetType=HTML&amp;widgetId=HTML6&amp;action=editWidget&amp;sectionId=sidebar" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML6&quot;));" rel="nofollow" target="configHTML6" title="Edit">
 <img alt="" height="18" src="https://resources.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
@@ -1112,7 +1078,7 @@ google_ad_height = 90;
 <div class="clear"></div>
 <span class="widget-item-control">
 <span class="item-control blog-admin">
-<a class="quickedit" href="//www.blogger.com/rearrange?blogID=571875522884404934&amp;widgetType=HTML&amp;widgetId=HTML20&amp;action=editWidget&amp;sectionId=sidebar" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML20&quot;));" target="configHTML20" title="Edit">
+<a class="quickedit" href="//www.blogger.com/rearrange?blogID=571875522884404934&amp;widgetType=HTML&amp;widgetId=HTML20&amp;action=editWidget&amp;sectionId=sidebar" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML20&quot;));" rel="nofollow" target="configHTML20" title="Edit">
 <img alt="" height="18" src="https://resources.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
@@ -1147,7 +1113,7 @@ return false;
 <div class="clear"></div>
 <span class="widget-item-control">
 <span class="item-control blog-admin">
-<a class="quickedit" href="//www.blogger.com/rearrange?blogID=571875522884404934&amp;widgetType=HTML&amp;widgetId=HTML7&amp;action=editWidget&amp;sectionId=sidebar" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML7&quot;));" target="configHTML7" title="Edit">
+<a class="quickedit" href="//www.blogger.com/rearrange?blogID=571875522884404934&amp;widgetType=HTML&amp;widgetId=HTML7&amp;action=editWidget&amp;sectionId=sidebar" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML7&quot;));" rel="nofollow" target="configHTML7" title="Edit">
 <img alt="" height="18" src="https://resources.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
@@ -1336,7 +1302,7 @@ display : none;
 <div class="clear"></div>
 <span class="widget-item-control">
 <span class="item-control blog-admin">
-<a class="quickedit" href="//www.blogger.com/rearrange?blogID=571875522884404934&amp;widgetType=HTML&amp;widgetId=HTML5&amp;action=editWidget&amp;sectionId=sidebar" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML5&quot;));" target="configHTML5" title="Edit">
+<a class="quickedit" href="//www.blogger.com/rearrange?blogID=571875522884404934&amp;widgetType=HTML&amp;widgetId=HTML5&amp;action=editWidget&amp;sectionId=sidebar" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML5&quot;));" rel="nofollow" target="configHTML5" title="Edit">
 <img alt="" height="18" src="https://resources.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
@@ -1361,7 +1327,7 @@ www.scraps123.com is in no way endorsed by or affiliated with Facebook, Twitter,
 <div class="clear"></div>
 <span class="widget-item-control">
 <span class="item-control blog-admin">
-<a class="quickedit" href="//www.blogger.com/rearrange?blogID=571875522884404934&amp;widgetType=HTML&amp;widgetId=HTML2&amp;action=editWidget&amp;sectionId=footer" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML2&quot;));" target="configHTML2" title="Edit">
+<a class="quickedit" href="//www.blogger.com/rearrange?blogID=571875522884404934&amp;widgetType=HTML&amp;widgetId=HTML2&amp;action=editWidget&amp;sectionId=footer" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML2&quot;));" rel="nofollow" target="configHTML2" title="Edit">
 <img alt="" height="18" src="https://resources.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
@@ -1372,28 +1338,28 @@ www.scraps123.com is in no way endorsed by or affiliated with Facebook, Twitter,
 </div></div>
 <!-- end outer-wrapper -->
 
-<script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/2388068295-widgets.js"></script>
+<script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/866654127-widgets.js"></script>
 <script type="text/javascript">
-window['__wavt'] = 'AOuZoY4Qf5abRoIqSb2TVQ7U6OwuIwgI1g:1528160542452';_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d571875522884404934','//www.scraps123.com/2009/06/privacy-policy.html','571875522884404934');
-_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '571875522884404934', 'title': 'Images, Cover Pic, Status, Updates, Shayaris', 'url': 'http://www.scraps123.com/2009/06/privacy-policy.html', 'canonicalUrl': 'http://www.scraps123.com/2009/06/privacy-policy.html', 'homepageUrl': 'http://www.scraps123.com/', 'searchUrl': 'http://www.scraps123.com/search', 'canonicalHomepageUrl': 'http://www.scraps123.com/', 'blogspotFaviconUrl': 'http://www.scraps123.com/favicon.ico', 'bloggerUrl': 'https://www.blogger.com', 'hasCustomDomain': true, 'httpsEnabled': false, 'enabledCommentProfileImages': true, 'gPlusViewType': 'FILTERED_POSTMOD', 'adultContent': false, 'analyticsAccountNumber': '', 'encoding': 'UTF-8', 'locale': 'en', 'localeUnderscoreDelimited': 'en', 'languageDirection': 'ltr', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'feedLinks': '\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Images, Cover Pic, Status, Updates, Shayaris - Atom\x22 href\x3d\x22http://www.scraps123.com/feeds/posts/default\x22 /\x3e\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/rss+xml\x22 title\x3d\x22Images, Cover Pic, Status, Updates, Shayaris - RSS\x22 href\x3d\x22http://www.scraps123.com/feeds/posts/default?alt\x3drss\x22 /\x3e\n\x3clink rel\x3d\x22service.post\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Images, Cover Pic, Status, Updates, Shayaris - Atom\x22 href\x3d\x22https://www.blogger.com/feeds/571875522884404934/posts/default\x22 /\x3e\n\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Images, Cover Pic, Status, Updates, Shayaris - Atom\x22 href\x3d\x22http://www.scraps123.com/feeds/7919612390776256575/comments/default\x22 /\x3e\n', 'meTag': '', 'openIdOpTag': '', 'adsenseClientId': 'ca-pub-7567544625554431', 'adsenseHostId': 'ca-host-pub-1556223355139109', 'adsenseHasAds': false, 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/f359efdf904a0da2', 'plusOneApiSrc': 'https://apis.google.com/js/plusone.js', 'sharing': {'platforms': [{'name': 'Get link', 'key': 'link', 'shareMessage': 'Get link', 'target': ''}, {'name': 'Facebook', 'key': 'facebook', 'shareMessage': 'Share to Facebook', 'target': 'facebook'}, {'name': 'BlogThis!', 'key': 'blogThis', 'shareMessage': 'BlogThis!', 'target': 'blog'}, {'name': 'Twitter', 'key': 'twitter', 'shareMessage': 'Share to Twitter', 'target': 'twitter'}, {'name': 'Pinterest', 'key': 'pinterest', 'shareMessage': 'Share to Pinterest', 'target': 'pinterest'}, {'name': 'Google+', 'key': 'googlePlus', 'shareMessage': 'Share to Google+', 'target': 'googleplus'}, {'name': 'Email', 'key': 'email', 'shareMessage': 'Email', 'target': 'email'}], 'googlePlusShareButtonWidth': 300, 'googlePlusBootstrap': '\x3cscript type\x3d\x22text/javascript\x22\x3ewindow.___gcfg \x3d {\x27lang\x27: \x27en\x27};\x3c/script\x3e'}, 'hasCustomJumpLinkMessage': false, 'jumpLinkMessage': 'Read more', 'pageType': 'item', 'postId': '7919612390776256575', 'pageName': 'Privacy Policy', 'pageTitle': 'Images, Cover Pic, Status, Updates, Shayaris: Privacy Policy'}}, {'name': 'features', 'data': {'cmt_anon_warn': 'false', 'lazy_images': 'false', 'poll_static': 'true', 'sharing_get_link_dialog': 'true', 'sharing_native': 'false'}}, {'name': 'messages', 'data': {'edit': 'Edit', 'linkCopiedToClipboard': 'Link copied to clipboard!', 'ok': 'Ok', 'postLink': 'Post Link'}}, {'name': 'template', 'data': {'name': 'custom', 'localizedName': 'Custom', 'isResponsive': false, 'isAlternateRendering': false, 'isCustom': true}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\x3dclassic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\x3dflipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\x3dmagazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\x3dmosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\x3dsidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\x3dsnapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\x3dtimeslide'}, 'isMobile': false, 'title': 'Privacy Policy', 'description': 'Your use of this website (www.scraps123.com) indicates your acceptance of this policy in it\x27s entire form. Also, this privacy policy may be ...', 'url': 'http://www.scraps123.com/2009/06/privacy-policy.html', 'type': 'item', 'isSingleItem': true, 'isMultipleItems': false, 'isError': false, 'isPage': false, 'isPost': true, 'isHomepage': false, 'isArchive': false, 'isLabelSearch': false, 'postId': 7919612390776256575}}]);
-_WidgetManager._RegisterWidget('_NavbarView', new _WidgetInfo('Navbar1', 'navbar', null, document.getElementById('Navbar1'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_HeaderView', new _WidgetInfo('Header1', 'header', null, document.getElementById('Header1'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML9', 'crosscol', null, document.getElementById('HTML9'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML4', 'main', null, document.getElementById('HTML4'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML14', 'main', null, document.getElementById('HTML14'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', null, document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'useNgc': false, 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/4291968727-lbx.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/368954415-lightbox_bundle.css'}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML17', 'main', null, document.getElementById('HTML17'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML8', 'main', null, document.getElementById('HTML8'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML1', 'sidebar', null, document.getElementById('HTML1'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML12', 'sidebar', null, document.getElementById('HTML12'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML3', 'sidebar', null, document.getElementById('HTML3'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML29', 'sidebar', null, document.getElementById('HTML29'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML15', 'sidebar', null, document.getElementById('HTML15'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML6', 'sidebar', null, document.getElementById('HTML6'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML20', 'sidebar', null, document.getElementById('HTML20'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML7', 'sidebar', null, document.getElementById('HTML7'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML5', 'sidebar', null, document.getElementById('HTML5'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML2', 'footer', null, document.getElementById('HTML2'), {}, 'displayModeFull'));
+window['__wavt'] = 'AOuZoY73eGH-cfPzLaFV6bss047FOmtGuQ:1546093912036';_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d571875522884404934','//www.scraps123.com/2009/06/privacy-policy.html','571875522884404934');
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '571875522884404934', 'title': 'Images, Cover Pic, Status, Updates, Shayaris', 'url': 'http://www.scraps123.com/2009/06/privacy-policy.html', 'canonicalUrl': 'http://www.scraps123.com/2009/06/privacy-policy.html', 'homepageUrl': 'http://www.scraps123.com/', 'searchUrl': 'http://www.scraps123.com/search', 'canonicalHomepageUrl': 'http://www.scraps123.com/', 'blogspotFaviconUrl': 'http://www.scraps123.com/favicon.ico', 'bloggerUrl': 'https://www.blogger.com', 'hasCustomDomain': true, 'httpsEnabled': false, 'enabledCommentProfileImages': true, 'gPlusViewType': 'FILTERED_POSTMOD', 'adultContent': false, 'analyticsAccountNumber': '', 'encoding': 'UTF-8', 'locale': 'en', 'localeUnderscoreDelimited': 'en', 'languageDirection': 'ltr', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'feedLinks': '\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Images, Cover Pic, Status, Updates, Shayaris - Atom\x22 href\x3d\x22http://www.scraps123.com/feeds/posts/default\x22 /\x3e\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/rss+xml\x22 title\x3d\x22Images, Cover Pic, Status, Updates, Shayaris - RSS\x22 href\x3d\x22http://www.scraps123.com/feeds/posts/default?alt\x3drss\x22 /\x3e\n\x3clink rel\x3d\x22service.post\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Images, Cover Pic, Status, Updates, Shayaris - Atom\x22 href\x3d\x22https://www.blogger.com/feeds/571875522884404934/posts/default\x22 /\x3e\n\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Images, Cover Pic, Status, Updates, Shayaris - Atom\x22 href\x3d\x22http://www.scraps123.com/feeds/7919612390776256575/comments/default\x22 /\x3e\n', 'meTag': '', 'adsenseClientId': 'ca-pub-7567544625554431', 'adsenseHostId': 'ca-host-pub-1556223355139109', 'adsenseHasAds': false, 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/7a0cbfc92c51aced', 'plusOneApiSrc': 'https://apis.google.com/js/plusone.js', 'sharing': {'platforms': [{'name': 'Get link', 'key': 'link', 'shareMessage': 'Get link', 'target': ''}, {'name': 'Facebook', 'key': 'facebook', 'shareMessage': 'Share to Facebook', 'target': 'facebook'}, {'name': 'BlogThis!', 'key': 'blogThis', 'shareMessage': 'BlogThis!', 'target': 'blog'}, {'name': 'Twitter', 'key': 'twitter', 'shareMessage': 'Share to Twitter', 'target': 'twitter'}, {'name': 'Pinterest', 'key': 'pinterest', 'shareMessage': 'Share to Pinterest', 'target': 'pinterest'}, {'name': 'Google+', 'key': 'googlePlus', 'shareMessage': 'Share to Google+', 'target': 'googleplus'}, {'name': 'Email', 'key': 'email', 'shareMessage': 'Email', 'target': 'email'}], 'googlePlusShareButtonWidth': 300, 'googlePlusBootstrap': '\x3cscript type\x3d\x22text/javascript\x22\x3ewindow.___gcfg \x3d {\x27lang\x27: \x27en\x27};\x3c/script\x3e'}, 'hasCustomJumpLinkMessage': false, 'jumpLinkMessage': 'Read more', 'pageType': 'item', 'postId': '7919612390776256575', 'pageName': 'Privacy Policy', 'pageTitle': 'Images, Cover Pic, Status, Updates, Shayaris: Privacy Policy'}}, {'name': 'features', 'data': {'sharing_get_link_dialog': 'true', 'sharing_native': 'false'}}, {'name': 'messages', 'data': {'edit': 'Edit', 'linkCopiedToClipboard': 'Link copied to clipboard!', 'ok': 'Ok', 'postLink': 'Post Link'}}, {'name': 'template', 'data': {'name': 'custom', 'localizedName': 'Custom', 'isResponsive': false, 'isAlternateRendering': false, 'isCustom': true}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\x3dclassic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\x3dflipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\x3dmagazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\x3dmosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\x3dsidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\x3dsnapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\x3dtimeslide'}, 'isMobile': false, 'title': 'Privacy Policy', 'description': 'Your use of this website (www.scraps123.com) indicates your acceptance of this policy in it\x27s entire form. Also, this privacy policy may be ...', 'url': 'http://www.scraps123.com/2009/06/privacy-policy.html', 'type': 'item', 'isSingleItem': true, 'isMultipleItems': false, 'isError': false, 'isPage': false, 'isPost': true, 'isHomepage': false, 'isArchive': false, 'isLabelSearch': false, 'postId': 7919612390776256575}}]);
+_WidgetManager._RegisterWidget('_NavbarView', new _WidgetInfo('Navbar1', 'navbar', document.getElementById('Navbar1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HeaderView', new _WidgetInfo('Header1', 'header', document.getElementById('Header1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML9', 'crosscol', document.getElementById('HTML9'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML4', 'main', document.getElementById('HTML4'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML14', 'main', document.getElementById('HTML14'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/1400250419-lbx.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/368954415-lightbox_bundle.css'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML17', 'main', document.getElementById('HTML17'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML8', 'main', document.getElementById('HTML8'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML1', 'sidebar', document.getElementById('HTML1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML12', 'sidebar', document.getElementById('HTML12'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML3', 'sidebar', document.getElementById('HTML3'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML29', 'sidebar', document.getElementById('HTML29'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML15', 'sidebar', document.getElementById('HTML15'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML6', 'sidebar', document.getElementById('HTML6'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML20', 'sidebar', document.getElementById('HTML20'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML7', 'sidebar', document.getElementById('HTML7'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML5', 'sidebar', document.getElementById('HTML5'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML2', 'footer', document.getElementById('HTML2'), {}, 'displayModeFull'));
 </script>
 
 </body></html>
