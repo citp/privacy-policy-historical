@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livesimply.me privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001215838id_/http%3A//livesimply.me/disclosure-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livesimply.me privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229194102id_/https%3A//livesimply.me/disclosure-policy) for the most accurate reproduction.*
 
 # Disclosure Policy - Live Simply
 
@@ -59,5 +59,3 @@ www.livesimply.me uses Google Analytics Demographics and Interest Reporting. Vis
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.livesimply.me’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
-
-If you make this recipe, be sure to snap a photo and hashtag it [#LIVESIMPLYBLOG](https://www.instagram.com/explore/tags/livesimplyblog/). I'd love to see what you make!
