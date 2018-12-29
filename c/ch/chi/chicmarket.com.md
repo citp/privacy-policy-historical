@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chicmarket.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628155020id_/http%3A//www.chicmarket.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chicmarket.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229123654id_/http%3A//www.chicmarket.com/help/privacy) for the most accurate reproduction.*
 
 # chicmarket.com - Privacy Policy
 
