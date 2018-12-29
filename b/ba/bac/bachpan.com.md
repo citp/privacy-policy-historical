@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bachpan.com privacy policy that was archived on 2018-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180218092516id_/http%3A//www.bachpan.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bachpan.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229090425id_/http%3A//www.bachpan.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Baby Names With Meanings, Boy & Girl Names | Bachpan.Com
 
@@ -168,11 +168,15 @@ and we will promptly remove you from **ALL** correspondence.
 
 **EU user consent policy**
 
-Third party vendors, including Google, and other ad networks (TriableFusion, Google AdX, PixFuture) use cookies to serve ads based on a user's prior visits to your website. Google's use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet. Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting Ads Settings. You can also check http://www.aboutads.info/ on how to opt out of third-party vendor’s use of cookies for interest-based advertising If you are using other ad networks: Include their required disclosure policy 
+Third party vendors, including Google, and other ad networks (exponential, Google AdX, PixFuture) use cookies to serve ads based on a user's prior visits to your website. Google's use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet. Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting Ads Settings. You can also check http://www.aboutads.info/ on how to opt out of third-party vendor’s use of cookies for interest-based advertising If you are using other ad networks: Include their required disclosure policy 
 
 To EU Users: Please read our disclosure notice as part of our compliance to the EU user consent policy: 
 
 We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners. For more information on how Google uses data when you use our partner’ sites or apps, visit this link: http://www.google.com/intl/en/policies/privacy/partners/ 
+
+**GDPR**
+
+Exponential Interactive, Inc, as our partner, have a legitimate interest to collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. For more details including opt-out requests, access requests or complaints, please review their [privacy policy](http://exponential.com/privacy/) or contact their data protection officer via [privacy@exponential.com](mailto:privacy@exponential.com). 
 
 **Contacting Us**
 
@@ -191,4 +195,4 @@ India
 
 info@bachpan.com
 
-Last Edited on 2015-08-09 
+Last Edited on 2018-05-16 
