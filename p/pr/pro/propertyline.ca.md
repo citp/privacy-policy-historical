@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the propertyline.ca privacy policy that was archived on 2018-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180319204548id_/https%3A//www.mpac.ca/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertyline.ca privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229191334id_/https%3A//www.mpac.ca/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Statement | MPAC
 
