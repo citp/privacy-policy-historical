@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topsimilarsites.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629001956id_/http%3A//www.topsimilarsites.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topsimilarsites.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229084351id_/http%3A//www.topsimilarsites.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Top Similar Sites
 
@@ -42,4 +42,4 @@ This policy was last modified on 20/06/2013
 
 ### Popular Tags
 
-fresh albums massage skiing chain authentic journals islands girl hunter monday finden workshop prayer battle presse escort heights beautiful cargo ofertas chemical programmes banks provide curriculum maintenance return nursery painting gestion charles bedroom html5 surfing preservation step workers default sri
+printer contacts drivers device experts nokia lakes comic grove soul massage salud beautiful searches vacances instant skiing ofertas chain emploi wiki lists banks grow carte baskets foro charles hunter speech specialty lady leather dynamic rica sustainable safari islands concrete send
