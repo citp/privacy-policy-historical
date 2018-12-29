@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diythemes.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622212442id_/http%3A//diythemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diythemes.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229235049id_/http%3A//diythemes.com/privacy-policy) for the most accurate reproduction.*
 
 # DIYthemes Privacy Policy
 
