@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eurobrussels.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629185231id_/https%3A//www.eurobrussels.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurobrussels.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229201240id_/https%3A//www.eurobrussels.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - EuroBrussels
+# Privacy Policy | EuroBrussels
 
 EuroJobsites and its affiliates (collectively "EuroJobsites") respect individuals' concerns about privacy. Your visit to this website (the "Site") is subject to the terms set out in this Privacy Policy and to our Terms of Use.
 
