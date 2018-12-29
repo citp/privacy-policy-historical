@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eightforums.com privacy policy that was archived on 2018-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180201031454id_/https%3A//www.eightforums.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eightforums.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229024227id_/https%3A//www.eightforums.com/help/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Eight Forums
+# Privacy Policy | Windows 8 Help Forums
 
 ****Privacy Policy****  
 
@@ -137,11 +137,11 @@
 > 
 > (3) To target advertisements which may be of particular interest to you. 
 > 
-> In addition, we use Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google's privacy policy is available at: [Google Privacy Policy](http://www.google.com/privacypolicy.html). 
+> In addition, we use Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google's privacy policy is available at: [Google Privacy Policy](https://www.google.com/privacypolicy.html). 
 > 
 > Our advertising services providers may send you cookies for the purpose of enabling the service of advertisements based on your previous visits to our website. 
 > 
-> We publish Google Adsense interest-based advertisements on our website. These are tailored by Google to reflect your interests. To determine your interests, Google will track your behaviour on our website and on other websites across the web using the DART cookie. You can view, delete or add interest categories associated with your browser using Google's Ads Preference Manager, available at: [Here](http://www.google.com/ads/preferences/). You can opt-out of the Adsense partner network cookie at: [Here](http://www.google.com/privacy/ads/) or using the NAI's (Network Advertising Initiative's) multi-cookie opt-out mechanism at: [NAI Opt out](http://www.networkadvertising.org/managing/opt_out.asp). However, these opt-out mechanisms use cookies, and if you clear the cookies from your browser your opt-out will not be maintained. To ensure that an opt-out is maintained in respect of a particular browser, you should use the Google browser plug-in available at: [Google Ad preferences](http://www.google.com/ads/preferences/plugin). 
+> We publish Google Adsense interest-based advertisements on our website. These are tailored by Google to reflect your interests. To determine your interests, Google will track your behaviour on our website and on other websites across the web using the DART cookie. You can view, delete or add interest categories associated with your browser using Google's Ads Preference Manager, available at: [Here](https://www.google.com/ads/preferences/). You can opt-out of the Adsense partner network cookie at: [Here](https://www.google.com/privacy/ads/) or using the NAI's (Network Advertising Initiative's) multi-cookie opt-out mechanism at: [NAI Opt out](https://www.networkadvertising.org/managing/opt_out.asp). However, these opt-out mechanisms use cookies, and if you clear the cookies from your browser your opt-out will not be maintained. To ensure that an opt-out is maintained in respect of a particular browser, you should use the Google browser plug-in available at: [Google Ad preferences](https://www.google.com/ads/preferences/plugin). 
 
   
 ****Blocking cookies****
@@ -161,7 +161,7 @@
 >   
 >  You can also delete cookies already stored on your computer: 
 > 
-> (1) in Internet Explorer, you must manually delete cookie files (you can find instructions for doing so at <http://support.microsoft.com/kb/278835>); 
+> (1) in Internet Explorer, you must manually delete cookie files (you can find instructions for doing so at [http://support.microsoft.com/kb/278835](https://support.microsoft.com/kb/278835)); 
 > 
 > (2) in Firefox, you can delete cookies by, first ensuring that cookies are to be deleted when you "clear private data" (this setting can be changed by clicking "Tools", "Options" and "Settings" in the "Private Data" box) and then clicking "Clear private data" in the "Tools" menu. 
 > 
