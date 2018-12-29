@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jameslist.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629074309id_/https%3A//www.jamesedition.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jameslist.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229094853id_/https%3A//www.jamesedition.com/about/privacy-policy) for the most accurate reproduction.*
 
 # JamesEdition.com - The World's Largest Luxury Marketplace
 
@@ -62,6 +62,7 @@ We may share your personal data internally, with members of our corporate family
 We may transmit your personal data to the following external parties:
 
   * Amazon Web Services (US) – click [ [here](https://d1.awsstatic.com/legal/aws-gdpr/AWS_GDPR_DPA.pdf) ] for more information 
+  * Google Tag Manager (US) – click [ [here](https://www.google.com/analytics/tag-manager/use-policy/) ] for more information 
   * Google Analytics (US) – click [ [here](https://policies.google.com/privacy) ] for more information 
   * Google – AdSense (US) – click [ [here](https://policies.google.com/privacy) ] for more information 
   * Google – DataStudio (US) – click [ [here](https://policies.google.com/privacy) ] for more information 
@@ -112,7 +113,7 @@ Please note that third parties (including, for example, advertising networks and
 
 ## 9\. No Spam, Spyware or Spoofing
 
-We and our users do not tolerate spam. Make sure to set your JamesEdition notification preferences so we communicate to you as you prefer. You are not licensed to add other JamesEdition users, even a user who has purchased an item from you, to your mailing list (email or physical mail) without their express consent. To report JamesEdition-related spam or spoof emails to JamesEdition, please forward the email to support@jamesedition.com. You may not use our communication tools to send spam or otherwise send content that would violate our User Agreement. We automatically scan and may manually filter messages to check for spam, viruses, phishing attacks and other malicious activity or illegal or prohibited content, but we do not permanently store messages sent through these tools.
+We and our users do not tolerate spam. Make sure to set your JamesEdition notification preferences so we communicate to you as you prefer. You are not licensed to add other JamesEdition users, even a user who has purchased an item from you, to your mailing list (email or physical mail) without their express consent. To report JamesEdition-related spam or spoof emails to JamesEdition, please [contact us](https://web.archive.org/about/contact). You may not use our communication tools to send spam or otherwise send content that would violate our User Agreement. We automatically scan and may manually filter messages to check for spam, viruses, phishing attacks and other malicious activity or illegal or prohibited content, but we do not permanently store messages sent through these tools.
 
 ## 10\. Account Protection
 
