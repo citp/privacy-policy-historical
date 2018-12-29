@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the switzer.com.au privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629223540id_/http%3A//www.switzer.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the switzer.com.au privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229071857id_/http%3A//www.switzer.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Switzer
 
