@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footballguys.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628225759id_/http%3A//footballguys.com/fbgprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footballguys.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229010156id_/http%3A//footballguys.com/fbgprivacy.php) for the most accurate reproduction.*
 
 # Footballguys Privacy Policy
 
@@ -85,7 +85,7 @@ We collect the Personally Identifying Information listed below:
 
 **Privacy Policy Archive**
 
-  * [ Effective date: 3/21/2009](https://web.archive.org/web/20180628225759id_/http%3A//footballguys.com/fbgprivacy03212009.php)
+  * [ Effective date: 3/21/2009](https://web.archive.org/web/20181229010156id_/http%3A//footballguys.com/fbgprivacy03212009.php)
 
 
 
