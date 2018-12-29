@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cricwaves.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610220252id_/http%3A//www.cricwaves.com/cricket/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cricwaves.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229153302id_/http%3A//www.cricwaves.com/cricket/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Cricwaves: Privacy Policy - Live Cricket and Free Score Widgets
 
-[](http://www.cricwaves.com/ "For Live Cricket Scores")
+[](https://www.cricwaves.com/ "For Live Cricket Scores")
 
-Follow us on [](http://www.facebook.com/CricketWaves)[](https://twitter.com/cricwaves)[](https://plus.google.com/+Cricwaves1)[](http://www.cricwaves.com/cricket/news/articles/8/0/rss/news.html)
+Follow us on [](https://www.facebook.com/CricketWaves)[](https://twitter.com/cricwaves)[](https://plus.google.com/+Cricwaves1)[](http://www.cricwaves.com/cricket/news/articles/8/0/rss/news.html)
 
 Cricwaves Team recognizes the importance of protecting the privacy of information we may collect from our visitors. This privacy policy discloses how we collect, protect, use and share information gathered about you on our Web Site. We hope that this disclosure will help increase your confidence in this web site.
 
