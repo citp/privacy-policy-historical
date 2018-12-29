@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reviewcentre.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629113549id_/https%3A//www.reviewcentre.com/ct634.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reviewcentre.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229133007id_/https%3A//www.reviewcentre.com/ct634.html) for the most accurate reproduction.*
 
 # Privacy Policy - Review Centre
 
@@ -42,7 +42,7 @@ We use Your Information in the following ways:
 
 
 
-Except as set out below and as expressly authorised by You via ''opt-ins'' we do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users (for example we may inform them that 500 men in the London area have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example Women in SW1).
+Except as set out below and as expressly authorised by You via "opt-ins" we do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users (for example we may inform them that 500 men in the London area have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example Women in SW1).
 
 Third-party companies may collect and use information about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit http://networkadvertising.org/managing/opt_out.asp. 
 
@@ -84,4 +84,4 @@ The Information we collect from You is not transferred to and stored at a destin
 
 We are not responsible for the practices employed by websites linked to or from our Website, nor the information or content contained therein. Often links to other websites are provided solely as pointers to information on topics that may be useful to the users of our Website.
 
-Please remember that when you use a link to go from our Website to another website, this privacy policy is no longer in effect. Your browsing and interaction on any other website, including websites which are linked to ours is subject to that website's own rules and policies.
+Please remember that when you use a link to go from our Website to another website, this privacy policy is no longer in effect. Your browsing and interaction on any other website, including websites which are linked to ours is subject to that website's own rules and policies. 
