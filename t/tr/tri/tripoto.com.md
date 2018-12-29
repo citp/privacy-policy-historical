@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tripoto.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624001632id_/https%3A//www.tripoto.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripoto.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229142150id_/https%3A//www.tripoto.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tripoto
 
-#### Privacy Policy (Version 2.0, Effective date: March 12, 2015)
+#### Privacy Policy (Version 3.0, Effective date: July 1, 2018)
 
 We recognize that your privacy is very important and take it seriously. This Privacy Policy (“Privacy Policy”) describes the Company's policies and procedures on the collection, use and disclosure of your information when you use the Website or our Services. We will not use or share your information with anyone except as described in this Privacy Policy.
 
@@ -135,6 +135,33 @@ You are free to remove or delete Content from your Account at any point in time.
 
 The Website may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites. 
 
+### EU privacy/data protection rights
+
+If you reside in the European Union (“EU”), United Kingdom, Lichtenstein, Norway, Iceland, or Switzerland, you may have additional rights with respect to your Personal Data, as further outlined below:
+
+  * **The right to be informed:** Every company must be transparent in how they use your personal data (personal data may include data such as your work email ID and your work mobile phone number if they are specific to an individual).
+
+  * **The right of access:** You will have the right to know exactly what information is held about you and how it is processed or used by us.
+
+  * **The right of rectification:** You will be entitled to get your personal data rectified if it's inaccurate or incomplete.
+
+  * **The right to erasure:** Also known as 'the right to be forgotten', this refers to your right to have your personal data deleted from our database without the need for a specific reason as to why you wish to do so.
+
+  * **The right to restrict processing:** Your right to block or suppress processing of your personal data by us.
+
+  * **The right to data portability:** This allows you to retain and reuse your personal data for your own purpose.
+
+  * **The right to object:** In certain circumstances, you are entitled to object to your personal data being used. This includes, if a company uses personal data for the purpose of direct marketing, scientific and historical research, or for the performance of a task in the public interest.
+
+  * **Rights of automated decision making and profiling:** The GDPR has put in place safeguards to protect you against the risk that a potentially damaging decision is made without your intervention. For example, you can choose not to be the subject of a decision where the consequence has a legal bearing on you, or is based on automated processing.
+
+
+
+
+These rights may include rights under the EU’s General Data Protection Regulation (“GDPR”), if you are a resident of the EU, United Kingdom, Lichtenstein, Norway, or Iceland.
+
+As we do not have an establishment in the European Union ("EU"), Tripoto solely will be the controller of the Personal Data that is provided, collected and/or processed pursuant to this Privacy Policy, except where otherwise expressly stated. If you have any questions about whether any of foregoing applies to you, please contact us on [info@tripoto.com](mailto:info@tripoto.com).
+
 This Cookie Policy (“Cookie Policy”) is a part of and incorporated within and is to be read along with the Terms of Website Use (“Terms”) . The capitalized terms used in this Cookie Policy, but not defined herein, shall have the meaning given to such terms in the Terms. 
 
 ### What are cookies, pixels, and local storage?
@@ -200,3 +227,16 @@ Most internet browsers are initially set up to automatically accept cookies. You
 If you disable the cookies that we use, this may impact your experience while on the Website, for example you may not be able to visit certain areas of the Website or you may not receive personalised information when you visit the Website.
 
 If you use different devices to view and access the Website (e.g. your computer, smartphone, tablet etc) you will need to ensure that each browser on each device is adjusted to suit your cookie preferences.
+
+### Grievance Redressal
+
+Redressal Mechanism: Any complaints, abuse or concerns with regards to content and or comment or breach of these terms shall be immediately informed to the designated Grievance Officer as mentioned below via in writing or through email signed with the electronic signature to [info@tripoto.com](mailto:info@tripoto.com).
+
+#### [https://www.tripoto.com](https://www.tripoto.com/)
+
+Tripoto Travels Private Limited  
+F-209, Ground Floor,   
+Opposite Kashmir Haat   
+Lado Sarai,   
+New Delhi - 110030 , India   
+
