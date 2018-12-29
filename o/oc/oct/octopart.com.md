@@ -1,92 +1,211 @@
-> *The following text is extracted and transformed from the octopart.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026011838id_/https%3A//octopart.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the octopart.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229092402id_/https%3A//octopart.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Octopart
+# Privacy - Octopart
 
-Octopart values your privacy. This policy describes Octopart’s practices regarding personally identifiable information and data (“Personal Information”). This policy applies to our website, our blog, our tools, our API, email communications, and social media accounts (collectively, the “Properties”). When you use the Properties, you agree to the terms in this policy.
+## Short Version
 
-## The types of Personal Information we collect
+At Octopart, we take privacy and the protection of your Personal Data seriously.
 
-When you use the Properties, we may collect information from you. Some of it may be personal information. This information can include search history, IP address, your device, location, screen resolution, browser used, operating system and settings, access times and referring URL. If you choose to create an Octopart account, we will collect your email address, password, and other preference information you provide us. If you use our BOM tool, we will collect your personal information to create and maintain your BOMs. This can include the personal information that may be included in the confirmation emails you forward to us. If you give us personal information, you are telling us that the information is true, accurate, complete and current. You are also telling us that you have the authorization to provide it to us.
+Personal Data means information that can directly or indirectly identify you or other individuals (“ **Personal Data** ”). This typically includes information such as your surname, name, name suffix, date of birth, address, email address, telephone number, date of purchase and financial details provided by you in connection with your purchase. Personal Data can also include other information such as your IP address and your shopping habits.
 
-## How we collect your Personal Information
+The categories of Personal Data that we process depends on how you use our services. We use your Personal Data to provide our website services in alignment with your preferences, to deal with your requests, to contact you regarding tailored products and services which may be of interest to you, or to carry out relevant administrative services. All Personal Data is processed in accordance with applicable data protection laws.
 
-We collect your personal information directly from you. For example, when you provide us your personal information when you search on Octopart or create an Octopart account. We also collect your personal information passively. For example, we use tracking tools like cookies and beacons (read more about these tools in Cookies and Other Tracking Tools section in this Privacy Policy).
+We do not disclose your Personal Data to any third party except to our affiliates and to data processors that assist us with providing our services. With your consent we use cookies for marketing, performance and statistical purposes.
 
-## Why we use your Personal Information
+As our valid customer, we also offer you various choices to control how your Personal Data is used.
 
-  * To provide our products and services to you.
-  * To communicate with you about your use of our products and services, to respond to your inquiries, and for other customer service purposes.
-  * To tailor the content and information that we may send or display to you, to offer location customization, and personalized help and instructions, and to otherwise personalize your experiences while using the Properties.
-  * For marketing and promotional purposes. For example, we may use your information, such as your email address, to send you news and newsletters, special offers, and promotions, or to otherwise contact you about products or information we think may interest you. We also may use the information that we learn about you to assist us in advertising our products and services on third party websites.
-  * To better understand how users access and use our Properties, both on an aggregated and individualized basis, in order to improve our Properties and respond to user desires and preferences, and for other research and analytical purposes.
+If you would like to receive more information about the processing of your Personal Data by us and on the cookies that we use, please see the extended version of this Privacy Policy below, as well as our [Cookie Policy](https://octopart.com/cookies).
+
+## Extended Version
+
+### 1\. Our Privacy Principles
+
+We take privacy seriously. Here are our 6 privacy promises to you:
+
+(1) We will respond to any questions on processing of your Personal Data without undue delay.
+
+(2) We will ensure that your Personal Data is used in line with applicable data protection laws.
+
+(3) We will be transparent with you about how we use your Personal Data. This includes informing you about what information we collect, what we do with it, with whom we share it and whom you should contact if you have any concerns.
+
+(4) We will provide you simple options to say 'STOP' when you are no longer happy with our marketing communications.
+
+(5) We will protect online and offline data in a similar manner.
+
+(6) We will take reasonable steps to make sure no unauthorized person accesses your Personal Data.
+
+### 2\. Our Privacy Policy
+
+We are committed to safeguarding your privacy and ensuring that your Personal Data is protected. This Privacy Policy explains the types of Personal Data we collect and how we process and protect that data.
+
+This Privacy Policy applies to Personal Data processed by us in connection with the services and products we offer to you, including through the website octopart.com (“ **Service(s)** ”). This includes Personal Data collected offline through trade shows, conferences, or meetups, or online through this website, applications and branded pages on third party platforms and applications accessed or used through such websites or third party platforms (“ **Sites** ”).
+
+This Privacy Policy also applies to our targeted content, including online offers and advertisements for products and services, which we (or a service provider acting on our behalf) may send to you on third party websites, platforms and applications (“ **Third Party Sites** ”) based on your use of the internet. These Third-Party Sites may have their own privacy policies and terms and conditions. We encourage you to read them before using those Third-Party Sites.
+
+#### 2.1. Who is Responsible for what happens with your data?
+
+Octopart Incorporated (“ **Octopart** ” or “ **we** ”; “ **our** ”; “ **us** ”) is responsible for processing of your Personal Data in relation to the Services. You can contact us via mail at Octopart Incorporated, 43 W 24th Street, Suite 11B, New York, NY 10010 USA, by phone at +1-415-562-7278, or by email at data.compliance@altium.com if you have any questions.
+
+#### 2.2. Who is Octopart’s Data Protection Officer?
+
+The Data Protection Officer of Octopart is currently Mr. Robert Jeffares. You can contact the Data Protection Officer at data.compliance@altium.com.
+
+#### 2.3. When do we ask for your consent?
+
+By using our Services and our Sites, you acknowledge that we are processing your Personal Data in accordance with this Privacy Policy. If you do not wish that we process your Personal Data in this way, please do not use our Service or Sites or otherwise provide our Sites with your Personal Data. 
+
+We process your Personal Data to provide you the Services and the Site. In certain instances, we only process your Personal Data if you have consented, for example in certain cases where we process your Personal Data for marketing purposes, use cookies or process your sensitive Personal Data. Where we process your Personal Data on the basis of your consent, we will ask for your consent explicitly but, in some cases and only where permitted by applicable law, we may infer in a transparent manner consent from your actions. We may also ask you to provide additional consent if we need to use your Personal Data for purposes not covered by this Privacy Policy or before sharing your Personal Data with group companies or relevant subsidiaries of Octopart for the purposes of marketing.
+
+#### 2.4. What happens if our customer is a child?
+
+Our Services and Sites are intended for adults, but there could be instances where some customers under the age of 18 decide to view or purchase Services on our Sites. Our rule is that if we know a customer is under the age of 18, we will not use such customer’s Personal Data for marketing purposes unless parental consent is provided to us in writing. We will not sell any Services to customers under the age of 18.
+
+To provide parental consent, please write to the Octopart contact details as listed in Section 2.1. Note however that access to certain parts of our Sites and/or Services may be limited to users over a certain age. We may use your Personal Data to carry out age verification checks and enforce any such age restrictions.
+
+#### 2.5. For which purposes do we process your Personal Data?
+
+We collect your Personal Data directly when you provide us with Personal Data when you visit our Sites, purchase Services, subscribe to our newsletter, receive information or mailings, use our applications, complete a survey, visit us at a trade show, conference, or meetup, and/or make a comment or enquiry or contact our customer services. We may also receive Personal Data about you from other sources, including information from commercially available sources, such as public databases and data aggregators, and information from third parties.
+
+In more detail, we process the following categories of Personal Data for the following purposes:
+
+#### 2.5.1. Surfing on our Sites – with or without Cookies
+
+#### 2.5.1.1. Which Personal Data do we collect about you?
+
+For this purpose (Surfing on our website) we process the following Personal Data: Information about the type of browser you use, details of the web pages you have viewed, your IP and device address, your Cookie ID, hyperlinks that you have clicked, your email address (username), networks, the websites you visited before arriving at our relevant Sites and information collected by cookies or similar tracking devices and any other information you choose to share when using Third Party Sites, e.g. when visiting Octopart’s sites on social media networks, such as Facebook, Instagram, LinkedIn, Google+, Twitter or Octopart’s YouTube channel or Vimeo channel). Our Sites involve simple links to social media networks; depending on the technology used by the social media it may be the case that Octopart will transmit Personal Data to the provider of the relevant social media network when you click on such link.
+
+#### 2.5.1.2. What is the purpose of processing your Personal Data?
+
+We (and third-party service providers acting on our behalf or on their own behalf) use cookies and similar technologies to process data about you when you visit our relevant Sites. Cookies are files that store information on your computer hard drive or browser that mean that we can recognise that you have visited us before. We use cookies and similar technologies (like pixels, fingerprints and other tools) to improve our products and your experience on our Sites by evaluating the use of our Sites, products and services and understand your browsing and shopping habits, analysing the effectiveness of our advertisements, personalising your website experience as well as evaluating statistics on website activity, evaluating (anonymously and in the aggregate) statistics on website activity, such as what time you visited it, whether you've visited it before and what site referred you to it, reviewing the Services that you have searched online and ended up purchasing them, making our Sites easier to use and to better tailor our Sites and our Services to your interests and needs, identifying that you have visited our Sites but did not purchase a Service, collecting information about your device and linking this to your Personal Data so as to ensure that our Sites present the best web experience for you and supplementing the Personal Data that you provide to us with other information that we hold or that we may receive from commercially available sources, such as public databases and data aggregators, and third parties. For more information about the use of cookies, please see our [Cookie Policy](https://octopart.com/cookies).
+
+#### 2.5.1.3. How long do we store your Personal Data?
+
+Please check the [Cookie Policy](https://octopart.com/cookies) to learn about the storage periods for each cookie.
+
+#### 2.5.1.4. What is the legal basis for processing your Personal Data?
+
+Your Consent is the legal basis for processing your Personal Data when surfing on our Sites. You can customize your browser's cookie settings to reflect your comfort level with cookie security. For more information how to configure the settings of your browser, please see our [Cookie Policy](https://octopart.com/cookies).
+
+#### 2.5.2 Contact
+
+#### 2.5.2.1. Which Personal Data do we collect about you?
+
+For this purpose (Contact) we process the following Personal Data: Surname, name, email address, telephone or mobile number, passwords, company, country, industry, job function, the reason for requesting Octopart access, posts and other content you submit to our Sites, other Personal Data you voluntarily provide to us, information on the handling of your request, queries from us and further information submitted with your request. Please, however, refrain from sending us information on your health or other sensitive data in unencrypted emails.
+
+#### 2.5.2.2. What is the Purpose of processing your Personal Data?
+
+We process your Personal Data whenever you contact us and respond to your enquiries and comments. We process your Personal Data that you enter when you subscribe for an Octopart account or when you subsequently update or amend data in your Octopart account. We process Personal Data to provide you with our Services that you request from us, including responding to your queries or comments. We look at the pages that you have viewed on our Sites to help us process your request.
+
+#### 2.5.2.3. How long do we store your Personal Data?
+
+We will store your Personal Data only until the aforementioned purposes for which we have collected or received your Personal Data are fulfilled and once our statutory obligations to preserve records have expired.
+
+#### 2.5.2.4. What is the legal basis for processing your Personal Data?
+
+Applicable data protection legislation allows Octopart to process your Personal Data for the purpose of performance of a contract with you (i.e. fulfil your contact request).
+
+If you provide to us Personal Data that is considered sensitive (e.g. information on your health or ethnic origin), your consent will be the legal basis for processing your Personal Data.
+
+#### 2.5.3. Suggestion of products, features, and services which may be of interest for you; marketing communication
+
+#### 2.5.3.1. Which Personal Data do we collect about you?
+
+For this purpose (suggestion of products, features, and services which may be of interest for you ) we process the following Personal Data: Surname, name, email address, telephone or mobile number, passwords, company, country, industry, job function, the reason for requesting Octopart access, posts and other content you submit to our Sites, other Personal Data you voluntarily provide to us, actions you take on our website or when viewing our emails and your Octopart preferences.
+
+#### 2.5.3.2. What is the purpose of processing your Personal Data?
+
+We process your Personal Data to suggest Octopart and advertiser products, features, or services that we think may be of interest to you. We may also suggest relevant articles. We may do this by sending you – via post, email, newsletter, SMS, push notifications, banner display advertisements, or phone – details of products, services, features, special offers, promotions and other information. We also contact you to offer the opportunity to take part in customer research surveys.
+
+#### 2.5.3.3. How long do we store your Personal Data?
+
+We will store your Personal Data only until the aforementioned purposes for which we have collected or received your Personal Data are fulfilled and once our statutory obligations to preserve records have expired.
+
+#### 2.5.3.4. What is the legal basis for processing your Personal Data?
+
+If you are a subscriber of our newsletter, your express consent in receiving marketing communications shall be the legal basis for processing.
+
+You can opt out of receiving such marketing communications at any time by clicking the ‘unsubscribe’ link at the bottom of the communications we send you.
+
+#### 2.5.4. Purchase of Services
+
+#### 2.5.4.1. Which Personal Data do we collect about you?
+
+For this purpose, we process the following Personal Data: Surname, name, postal address, company, country, company email address, telephone or mobile number, passwords, payment history, payment information (i.e. bank or credit card details), order history/wishlist, information on the handling of your request and other Personal Data you voluntarily provide to us.
+
+#### 2.5.4.2. What is the Purpose of processing your Personal Data?
+
+We process your Personal Data to process your online and / or offline purchase (for instance, advertising services) and deliver the relevant Service(s) to you as ordered. Your payment related Personal Data may be transferred to payment providers to process your payments.
+
+#### 2.5.4.3. How long do we store your Personal Data?
+
+We will store your Personal Data only until the aforementioned purposes for which we have collected or received your Personal Data are fulfilled and once our statutory obligations to preserve records have expired.
+
+#### 2.5.4.4. What is the legal basis for processing your Personal Data?
+
+Applicable data protection legislation allows Octopart to process your Personal Data for the purpose of performance of a contract with you (i.e. your purchase of Services).
+
+If you provide to us Personal Data that is considered sensitive (e.g. information on your health or ethnic origin), your consent will be the legal basis for processing your Personal Data.
+
+#### 2.6. Who is receiving your Personal Data?
+
+#### 2.6.1. Our service providers (processors)
+
+We may share your Personal Data with the following data processors (i.e. service providers):
+
+  * relevant companies of Altium Group and trusted third parties which directly support our promotional activities, Site administration and your Octopart account;
+  * trusted third parties to help us process and analyse your Personal Data, to give us insights about you that we can use to improve our advertising, products and services, and to track the effectiveness of a particular promotion or campaign;
+  * if you purchase Services from us, trusted third parties to allow delivery of the Services you have ordered.
 
 
 
-## How we share your Personal Information
+Unless you provided consent, each trusted third party is not authorised by us to use your Personal Data in any other way. Each trusted third party will be required by us to implement adequate technical and organizational measures to protect your Personal Data.
 
-We may share your personal information with our corporate affiliates and with third parties for our legitimate business purposes as permitted by law. For example, we may share your personal information with suppliers who perform services on our behalf and have agreed in writing to protect and not further disclose your information.
+#### 2.6.2. Other recipients (controllers)
 
-We may also share your information as otherwise described to you at the time of collection. For example, if you provide information to RSVP for an event, we may share your information with the event organizers.
+We may share your Personal Data with the following controllers (i.e. third parties that process your Personal Data for their own purposes): \- social media platforms (e.g. Facebook, Instagram) so that they can help us deliver our advertisements directly to your social media page or mailbox; \- Octopart advertisers (including distributors and manufacturers) may receive IP Address information so that they may effectively evaluate advertising performance; \- law enforcement or other agencies if we are required to do so by law, or by a warrant, subpoena or court order to disclose your Personal Data.
 
-If Octopart itself (or part of its business) is sold or otherwise changes control, owners would have access to your personal information for the uses set out herein.
+#### 2.6.3. Sharing your Site usage information
 
-If you use our BOM tool, you can share your BOMs with anyone you choose. Your BOMs may contain enough details (for example, the specific parts included in your prototype, the quantities you intend to order) to allow the recipient to understand your production plans, replicate your prototype, etc. You should only share your BOM with people you trust. If you choose to display you BOM on publicly-viewable web pages, that information may be collected and used by others. We will not share your BOMs with any individual or organization, or publicly, without your prior written consent.
+We may with your consent share site usage information with trusted third parties (e.g. advertisers, advertising agencies, advertising networks, data exchanges, etc.) in order to offer you tailored content, including more relevant advertising for products and services which may be of interest to you. These trusted third parties may set and access their own cookies, web beacons and similar tracking technologies on your device in order to help us deliver customized content and advertising to you when you visit our relevant Sites or third-party sites.
 
-We may disclose personal information if required by law, for example to law enforcement or other authorities. This includes court orders, subpoenas and orders arising from legal processes, and administrative or criminal investigations. We may also disclose your personal information if the disclosure is necessary for the prevention, detection or prosecution of criminal acts or to prevent other damage, or in response to a legal action or to enforce our rights and claims.
+#### 2.7. To which countries do we transfer your Personal Data?
 
-We may also share anonymous aggregated usage information with others.
+Many of the recipients of your Personal Data are based in the European Union / the European Economic Area. However, we may need to transfer your Personal Data to a location outside of the European Economic Area, including to countries that do not offer the same level of protection with respect to Personal Data as required in the European Economic Area and where there is no adequacy decision by the European Commission. If your Personal Data should be transferred to such country, we have ensured that an adequate level of data protection is achieved by a recognized legal mechanism, e.g. by means of the EU-U.S. Privacy Shield certification, so-called Standard Contractual Clauses, as published by the European Commission or Binding Corporate Rules.
 
-## How we store and protect your Personal Information
+#### 2.8. How long do we process your Personal Data?
 
-We store your Personal Information on cloud servers. Our cloud service provider may redistribute secure data amongst physical locations in order to process it, but they are subject to contractual restrictions which limit their use of any content we provide to providing our cloud services and do not, as a matter of course, send your information to any third parties.
+We will store your Personal Data only until the aforementioned purposes for which we have collected or received your Personal Data have been fulfilled and once our statutory obligations to retain records have expired.
 
-We have implemented commercially reasonable precautions, including, where appropriate, password protection, encryption, SSL, firewalls, and internal restrictions on who may access data to protect the information we collect from loss, misuse, and unauthorized access, disclosure, alteration, and destruction. Please be aware that despite our best efforts, no data security measures can guarantee 100% security.
+#### 2.9. What are your rights?
 
-You should take steps to protect against unauthorized access to your password, phone, and computer by, among other things, signing off after using a shared computer, choosing a robust password that nobody else knows or can easily guess, and keeping your log-in and password private. We are not responsible for any lost, stolen, or compromised passwords or for any activity on your account via unauthorized password activity.
+You have the right to request from us \- Confirmation as to whether or not we process Personal Data from you and, where that is the case, access to your Personal Data; \- Rectification of inaccurate Personal Data; \- Erasure of Personal Data; \- Restriction of processing of Personal Data; and \- To receive the Personal Data which you have provided to us and to have transmitted those Personal Data to another data controller without hindrance.
 
-## Cookies and Other Tracking Tools
+#### 2.10. Can you withdraw your consent to the processing of Personal Data?
 
-We use cookies and other tracking mechanisms to track information about your use of our Properties. We may combine this information with other personal information we collect from you. Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your web browser for record-keeping purposes. Some cookies allow us to make it easier for you to navigate our Properties, while others are used to enable a faster log-in process or to allow us to track your activities at our Properties. There are two types of cookies: session and persistent cookies.
+If your consent is the legal basis for the processing of your Personal Data, you can withdraw your consent at any time. This will not affect the lawfulness of the processing based on your consent before the withdrawal. You can withdraw your consent by sending us an email, or by calling us under the phone number listed in Section 2.1. For more information about the use of cookies, please see our [Cookie Policy](https://octopart.com/cookies).
 
-  * Session Cookies 
+#### 2.11. Can you complain with the data protection authorities?
 
-Session cookies exist only during an online session. They disappear from your computer when you close your browser or turn off your computer. We use session cookies to allow our systems to uniquely identify you during a session or while you are logged into the Site. This allows us to process your online transactions and requests and verify your identity, after you have logged in, as you move through our Site.
+If you think that the processing of Personal Data by us violates applicable data protection laws, you can lodge a complaint with the competent supervisory authority.
 
-  * Persistent cookies 
+#### 2.12. Do you have to provide your Personal Data to order on the Sites?
 
-Persistent cookies remain on your computer after you have closed your browser or turned off your computer. We use persistent cookies to track aggregate and statistical information about user activity.
+You are not legally required to provide the Personal Data. However, if you do not want to provide your Personal Data, you may not purchase Services or subscribe for an Octopart account.
 
+In order to purchase Services on our Sites or register as an Octopart account holder, you must provide the Personal Data as listed in Section 2.5.4. If you purchase Services that may give an indication about your sensitive Personal Data (e.g. health data), we can only process this order if you consent that we process such data.
 
+If you do not provide the relevant Personal Data or if you reject cookies or do not provide your consent in context of other services than purchasing Services or opening an Octopart account, you may not receive such services at all or without interruption.
 
+#### 2.13. How do we protect your Personal Data?
 
-### Third party Cookies
+We maintain appropriate technical and organizational measures to protect the Personal Data you provide to us against accidental or unlawful destruction, loss, alteration, unauthorised disclosure of, or access to your Personal Data. Our security measures are being improved continuously as new technology develops. The processing and transmission of data through our Sites is encrypted by Secure Sockets Layer protocol (“ **SSL** ”), which is an encrypting technology to ensure the highest possible security for the transmission of your data, including Personal Data, between your web browser and our internet system. The URL of a website with SSL connection to your browser starts with “https://”. Most browsers indicate SSL-encrypted websites by displaying an icon that depicts a closed padlock. This icon might be located in the address bar or the bottom status bar. If you have turned off your status bar, this icon may not be visible, even on websites that use SSL.
 
-We may also engage third parties to track and analyze data related to the Properties. We use the data collected by such third parties to help us administer and improve the quality of the Properties, to analyze usage of the Properties, and to serve relevant ads. Such third parties may combine the information that we provide about you with other information that they have collected. This Policy does not cover such third parties' use of the data.
+Our Sites may contain hyperlinks to other websites provided by third parties. We do not control these third-party websites or any of the content contained on those websites. Once you have left our relevant Sites, we cannot be responsible for the protection and privacy of any information which you provide. You should exercise caution and look at the relevant privacy policy for the website you visit.
 
-### Disabling Cookies
+#### 2.14. Can we change our Privacy Policy?
 
-Most web browsers automatically accept cookies, but if you prefer, you can edit your browser options to block them in the future. The Help portion of the toolbar on most browsers will tell you how to prevent your computer from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Visitors to our Properties who disable cookies will be able to browse certain areas of the Properties, but some features may not function.
+We may change this Privacy Policy from time to time by posting the updated version of the privacy policy here. To the extent processing of your Personal Data be based on your consent, we will not change the scope of such processing, unless you have given additional consent to the changed scope of such processing. We encourage you to visit this area frequently to stay informed.
 
-### Third Party Analytics
+Last updated: Thursday, 24-May-2018 16:26:25 EDT
 
-We use automated devices and applications, such as Google Analytics, to evaluate usage of our Properties. We also may use other analytic means to evaluate our products and services. We use these tools to help us improve our products and services, performance and user experiences. We do not share your Personal Information with these third parties.
-
-## Other Websites
-
-If you click through to third party websites or other platforms, Octopart’s privacy policy does not apply.
-
-## Children
-
-Octopart does not knowingly collect personal information from minors. If we become aware that a minor is attempting to submit personal information, we will remove this information from our records. If you are the parent/legal guardian of a minor who has given us personal information, please contact us so we can delete it.
-
-## Changes to the Privacy Policy
-
-We may modify this Privacy Policy at any time and without prior notice. We will notify you of material changes to how we use your personal information prior to implementing them. We may notify you about such a material change by email or prominent notice on our website. By using our services and the Properties after we post these changes, you indicate you accept them.
-
-## Accessing and modifying your Personal Information
-
-You may modify personal information that you have submitted by logging into your account and updating your Personal Information. Please note that copies of information that you have updated, modified or deleted may remain viewable in cached and archived pages of the Site for a period of time. You may also contact us with any questions about or requests to modify your Personal Information at [contact@octopart.com](mailto:contact@octopart.com).
-
-## Your Choices
-
-Every marketing email has an opt-out URL and you can unsubscribe from such communication at any time. You cannot unsubscribe from servicing emails and administrative messages that are considered part of your account membership, unless you cancel your membership. If you would like to change or express concerns about how we communicate with you please send us an email at [contact@octopart.com](mailto:contact@octopart.com).
+The quick brown fox jumps over the lazy dog.
