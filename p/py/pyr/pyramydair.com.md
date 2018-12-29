@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pyramydair.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629061213id_/https%3A//www.pyramydair.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pyramydair.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229081330id_/https%3A//www.pyramydair.com/privacy-policy) for the most accurate reproduction.*
 
 # Pyramyd Air Privacy Statement
 
