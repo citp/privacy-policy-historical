@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the toastmasters.org privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606155926id_/https%3A//www.toastmasters.org/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toastmasters.org privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229193042id_/http%3A//www.toastmasters.org/footer/privacy-policy) for the most accurate reproduction.*
 
 # Toastmasters International -Privacy Policy
 
-Thank you for visiting Toastmasters International’s official website and shopping at our online store. We are committed to respecting and protecting the privacy rights of our members. This policy describes the types of information that Toastmasters may collect from you or that you may provide when you visit [www.toastmasters.org](https://web.archive.org/web/20180606155926id_/https%3A//www.toastmasters.org/footer/~/link.aspx?_id=110D559FDEA542EA9C1C8A5DF7E70EF9&_z=z) and our practices for collecting, using, protecting and disclosing that information. By visiting any website in the [www.toastmasters.org](https://web.archive.org/web/20180606155926id_/https%3A//www.toastmasters.org/footer/~/link.aspx?_id=110D559FDEA542EA9C1C8A5DF7E70EF9&_z=z) domain, you are accepting the practices described in this policy.
+Thank you for visiting Toastmasters International’s official website and shopping at our online store. We are committed to respecting and protecting the privacy rights of our members. This policy describes the types of information that Toastmasters may collect from you or that you may provide when you visit [www.toastmasters.org](https://web.archive.org/web/20181229193042id_/http%3A//www.toastmasters.org/footer/~/link.aspx?_id=110D559FDEA542EA9C1C8A5DF7E70EF9&_z=z) and our practices for collecting, using, protecting and disclosing that information. By visiting any website in the [www.toastmasters.org](https://web.archive.org/web/20181229193042id_/http%3A//www.toastmasters.org/footer/~/link.aspx?_id=110D559FDEA542EA9C1C8A5DF7E70EF9&_z=z) domain, you are accepting the practices described in this policy.
 
 In simplified form (greater detail is below), our policy can be summarized as follows:
 
@@ -67,7 +67,7 @@ A number of companies offer utilities designed to help you visit websites anonym
 
 #### Information from Other Sources:
 
-Third party advertisers may appear on our website from time to time. They may be able to detect that visitors to their website arrived via [www.toastmasters.org.](https://web.archive.org/web/20180606155926id_/https%3A//www.toastmasters.org/footer/~/link.aspx?_id=110D559FDEA542EA9C1C8A5DF7E70EF9&_z=z) However, we do not receive any information from these or other outside websites regarding your page views, purchases or any other information.
+Third party advertisers may appear on our website from time to time. They may be able to detect that visitors to their website arrived via [www.toastmasters.org.](https://web.archive.org/web/20181229193042id_/http%3A//www.toastmasters.org/footer/~/link.aspx?_id=110D559FDEA542EA9C1C8A5DF7E70EF9&_z=z) However, we do not receive any information from these or other outside websites regarding your page views, purchases or any other information.
 
 back to top
 
@@ -110,7 +110,7 @@ Information about our customers is an important part of our business, and we are
 
 #### _Toastmasters International:_
 
-This includes the organization’s World Headquarters, which manages [www.toastmasters.org](https://web.archive.org/web/20180606155926id_/https%3A//www.toastmasters.org/footer/~/link.aspx?_id=110D559FDEA542EA9C1C8A5DF7E70EF9&_z=z), as well as Toastmasters districts, divisions, areas and individual Toastmasters clubs. In keeping with our regular offline business practices, Toastmasters International will provide information about Toastmasters members to these internal associates for communication purposes only.
+This includes the organization’s World Headquarters, which manages [www.toastmasters.org](https://web.archive.org/web/20181229193042id_/http%3A//www.toastmasters.org/footer/~/link.aspx?_id=110D559FDEA542EA9C1C8A5DF7E70EF9&_z=z), as well as Toastmasters districts, divisions, areas and individual Toastmasters clubs. In keeping with our regular offline business practices, Toastmasters International will provide information about Toastmasters members to these internal associates for communication purposes only.
 
 #### _Third-Party Service Providers:_
 
@@ -124,7 +124,7 @@ back to top
 
 ### Do I have choices about sharing my information?
 
-[www.toastmasters.org](https://web.archive.org/web/20180606155926id_/https%3A//www.toastmasters.org/footer/~/link.aspx?_id=110D559FDEA542EA9C1C8A5DF7E70EF9&_z=z) gives you access to a broad range of information about your account and your interactions with Toastmasters International for the limited purpose of viewing and, in certain cases, updating that information. Examples of data you can access at [www.toastmasters.org](https://web.archive.org/web/20180606155926id_/https%3A//www.toastmasters.org/footer/~/link.aspx?_id=110D559FDEA542EA9C1C8A5DF7E70EF9&_z=z) include your order history and personally identifiable information (including name, email, password, and your club membership history). This list will change and expand as our website evolves.
+[www.toastmasters.org](https://web.archive.org/web/20181229193042id_/http%3A//www.toastmasters.org/footer/~/link.aspx?_id=110D559FDEA542EA9C1C8A5DF7E70EF9&_z=z) gives you access to a broad range of information about your account and your interactions with Toastmasters International for the limited purpose of viewing and, in certain cases, updating that information. Examples of data you can access at [www.toastmasters.org](https://web.archive.org/web/20181229193042id_/http%3A//www.toastmasters.org/footer/~/link.aspx?_id=110D559FDEA542EA9C1C8A5DF7E70EF9&_z=z) include your order history and personally identifiable information (including name, email, password, and your club membership history). This list will change and expand as our website evolves.
 
 You may choose not to provide data and opt out of services and communications along the way, but certain services, may be unavailable to you as a result. Alternatives for making purchases or updating your Toastmasters International records may involve using the postal service or a courier service or calling Toastmasters International’s Member Engagement and Support Department during business hours.
 
@@ -146,15 +146,15 @@ back to top
 
 ### Are children allowed to visit or shop at www.toastmasters.org?
 
-[www.toastmasters.org](https://web.archive.org/web/20180606155926id_/https%3A//www.toastmasters.org/footer/~/link.aspx?_id=110D559FDEA542EA9C1C8A5DF7E70EF9&_z=z) does not sell products for purchase by children. We offer very few children's products for purchase by adults. If you are under 18, you may use [www.toastmasters.org](https://web.archive.org/web/20180606155926id_/https%3A//www.toastmasters.org/footer/~/link.aspx?_id=110D559FDEA542EA9C1C8A5DF7E70EF9&_z=z) only with the involvement of a parent or guardian.
+[www.toastmasters.org](https://web.archive.org/web/20181229193042id_/http%3A//www.toastmasters.org/footer/~/link.aspx?_id=110D559FDEA542EA9C1C8A5DF7E70EF9&_z=z) does not sell products for purchase by children. We offer very few children's products for purchase by adults. If you are under 18, you may use [www.toastmasters.org](https://web.archive.org/web/20181229193042id_/http%3A//www.toastmasters.org/footer/~/link.aspx?_id=110D559FDEA542EA9C1C8A5DF7E70EF9&_z=z) only with the involvement of a parent or guardian.
 
 back to top
 
 ### What else should you know?
 
-Toastmasters International strongly supports our members’ right to privacy. For this reason, we urge our visitors to read about privacy issues and laws on <http://www.privacy.ca.gov/>. This information is presented by the State of California Office of Privacy Protection (under the California Department of Consumer Affairs), where Toastmasters is incorporated. We recommend that you read the page entitled: “How to Read a Privacy Policy,” which is useful information for viewing any website, including [www.toastmasters.org](https://web.archive.org/web/20180606155926id_/https%3A//www.toastmasters.org/footer/~/link.aspx?_id=110D559FDEA542EA9C1C8A5DF7E70EF9&_z=z).
+Toastmasters International strongly supports our members’ right to privacy. For this reason, we urge our visitors to read about privacy issues and laws on <http://www.privacy.ca.gov/>. This information is presented by the State of California Office of Privacy Protection (under the California Department of Consumer Affairs), where Toastmasters is incorporated. We recommend that you read the page entitled: “How to Read a Privacy Policy,” which is useful information for viewing any website, including [www.toastmasters.org](https://web.archive.org/web/20181229193042id_/http%3A//www.toastmasters.org/footer/~/link.aspx?_id=110D559FDEA542EA9C1C8A5DF7E70EF9&_z=z).
 
-If you choose to visit [www.toastmasters.org](https://web.archive.org/web/20180606155926id_/https%3A//www.toastmasters.org/footer/~/link.aspx?_id=110D559FDEA542EA9C1C8A5DF7E70EF9&_z=z), your visit and any dispute over privacy is subject to this policy and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of California. If you have any concern about privacy at [www.toastmasters.org](https://web.archive.org/web/20180606155926id_/https%3A//www.toastmasters.org/footer/~/link.aspx?_id=110D559FDEA542EA9C1C8A5DF7E70EF9&_z=z), please contact us by email or regular mail at 9127 S. Jamaica St., Ste 400, Englewood, CO 80112 with a thorough description, and we will try to resolve it.
+If you choose to visit [www.toastmasters.org](https://web.archive.org/web/20181229193042id_/http%3A//www.toastmasters.org/footer/~/link.aspx?_id=110D559FDEA542EA9C1C8A5DF7E70EF9&_z=z), your visit and any dispute over privacy is subject to this policy and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of California. If you have any concern about privacy at [www.toastmasters.org](https://web.archive.org/web/20181229193042id_/http%3A//www.toastmasters.org/footer/~/link.aspx?_id=110D559FDEA542EA9C1C8A5DF7E70EF9&_z=z), please contact us by email or regular mail at 9127 S. Jamaica St., Ste 400, Englewood, CO 80112 with a thorough description, and we will try to resolve it.
 
 If you choose to use the Services from the European Union (“EU”), Switzerland or other regions of the world with laws governing data collection and use that may differ from the law of the United States of America (“US”), please note that you are transferring your personal information outside of those regions to the US for storage and processing. By providing any information, including personal information about you, on or to the Services, you consent to such transfer, storage, and processing.
 
