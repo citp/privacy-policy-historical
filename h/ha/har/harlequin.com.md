@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the harlequin.com privacy policy that was archived on 2018-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180526033927id_/http%3A//corporate.harlequin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harlequin.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229193522id_/http%3A//corporate.harlequin.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Corporate Harlequin
+
+**Effective Date: August 12, 2016**
 
 This **Privacy Policy** outlines the information usage practices within the Harlequin group of businesses, including but not limited to Harlequin Enterprises Limited, Harlequin Sales Corp. and Harlequin Digital Sales Corp. (collectively “Harlequin”).
 
