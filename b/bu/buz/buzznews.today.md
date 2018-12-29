@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buzznews.today privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621201947id_/https%3A//www.buzznews.today/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzznews.today privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229080910id_/https%3A//www.buzznews.today/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY – Buzz News
 
