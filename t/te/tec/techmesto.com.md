@@ -1,31 +1,65 @@
-> *The following text is extracted and transformed from the techmesto.com privacy policy that was archived on 2015-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150928141230id_/https%3A//www.techmesto.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techmesto.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229173812id_/https%3A//www.techmesto.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy for TechMesto
+# Privacy & Cookie Policy - TechMesto
 
-**Contact Us :<http://www.techmesto.com/contact/>**
+When you visit and interact with TechMesto, you trust us with your information. This Privacy Policy is meant to help you understand what data we collect, why we collect it, and what we do with it.
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us through the contact form. Here the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by TechMesto and how it is used.
+ **Last modified:** May 24, 2018
 
-####  **PPC Advertisement Policy**
+## Who we are
 
-We use third party advertising company to serve advertisements at some fixed places of the blog. Some of them like adsense uses the DART cookie to serve advertisement based on user interest and previous interaction. Though user can always opt out of DART cookie settings by visiting the [Google Adsense and Content Network Policy](http://www.google.com/privacy_ads.html).
+TechMesto is a web portal focusing on explainers and beginner guides to help users get the most out of their gadgets. You can read more on our about us page – https://www.techmesto.com/about/
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
+## What personal data we collect and why we collect it
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+### Comments
 
-####  **Copyright Policy**
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
-We don’t have any. You are free to use and copy any content from our site BUT, you must provide credit links on the pages you’ve copied or used our content. Remember that you can’t copy and publish complete articles from here without our permission. However, you are free to copy small excerpts as long as you link back to the source.
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
- **Note**  : Since we accept user submissions, If any of our Articles or content infringe your copyright, then contact us immediately through the contact form.
+### Contact forms
 
-####  **Comment Moderation Policy**
+When a visitor uses the contact form on our “Contact Us” page, the user’s name, email address and the message is securely sent to our email inbox. User’s browser, user agent and IP address is also collected to check against spam.
 
-We love comments, but any comments which is abusive, spread hatred, racial or any way hurting anyone opinion will never be entertained. We keep our comments moderated to maintain the integrity of individuals. We also use Advanced tools to monitor spam. So, if your comment doesn’t appear even after a full week of submitting, the possible reason might be that it was cached incorrectly by spam blocks. Contact us, and we’ll free your comment.
+### Email newsletter
 
- **Last Updated on:** August 15, 2013
+TechMesto offers its visitors an opt-in form where they can subscribe for an email newsletter which is sent weekly. Information about new posts at TechMesto and latest happenings in the technology world is provided using these newsletters. When a user subscribes, his/her name and email address is securely transferred and stored in our database.
 
- **Recent Changes:  
-**August 15, 2013 – Added more info about Network Advertising.  
-July 21, 2012 – Removed information about Infolinks because, no longer using them.
+Data collected using email newsletter form is only used for the purpose of sending newsletters.
+
+### Cookies
+
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
+
+We use third-party advertising company to serve advertisements at some fixed places on the blog. Some of them, like Google Adsense, uses the DART cookie to serve advertisement based on user interest and previous interaction. This cookie is used to serve ads specific to you and your interests (”interest based targeting”). You can always opt out of DART cookie settings by visiting the [Google Adsense and Content Network Policy](https://policies.google.com/technologies/ads).
+
+### Embedded content from other websites
+
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
+
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.
+
+### Analytics
+
+We use cookies to analyze user activity in order to improve the website. The collected data is in no way used to personally identify you. For example, using Cookies we can look at aggregate patterns like the average number of users that visit the website. We can use such analysis to gain insights about how to improve the functionality and experience of the website.
+
+Please refer to [Google Analytics privacy policy](https://support.google.com/analytics/answer/6004245?hl=en) to learn what data is collected and how it is used. You can use the [Google Analytics opt-out browser addon](https://tools.google.com/dlpage/gaoptout) to prevent Google from using your data for analytics.
+
+## Who we share your data with
+
+Nobody. All user data is stored on our servers. We never share or sell this data to any third-parties. We do use third-party services to deliver services (example email newsletters), however, it is processed via an API and your user data stays safe with us.
+
+## How long we retain your data
+
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
+
+## What rights you have over your data
+
+If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
+
+If you have provided your data for the email newsletters, then you can click on the unsubscribe link to stop receiving any future campaigns from us. We periodically delete inactive subscribers, however, you can always contact us for your data to be immediately removed from our servers.
+
+## Our contact information
+
+For any concerns regarding this policy document or how your data is used, kindly feel free to reach out via our dedicated email address – _privacy@techmesto.com_. Please consider explaining your concern so that it can be immediately attended to.
