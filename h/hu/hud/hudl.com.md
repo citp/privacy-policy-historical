@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hudl.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629174721id_/https%3A//www.hudl.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hudl.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229190730id_/https%3A//www.hudl.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -31,7 +31,7 @@
 
 Your privacy is important to Agile Sports Technologies, Inc., dba Hudl and its subsidiaries (“Hudl”, “we”, “our”, or “us”), and Hudl is committed to the protection of your personal information. Our Privacy Policy exists to help you understand what information Hudl collects, how we collect and use it, and what choices you have. To make sure your personal information is secure, we communicate our privacy and security guidelines to Hudl employees and strictly enforce privacy safeguards within the company. Please read this Privacy Policy before visiting our websites, accessing our services, or providing any personal information to Hudl. If you do not wish to have your information used and disclosed as provided in this Privacy Policy, please refrain from providing your information and/or delete the information you may have submitted in the past. In doing so, please understand that your access to information, services and other benefits may be substantially limited. Further assistance is available via email to [support@hudl.com](mailto:support@hudl.com).
 
-If you use Hudl’s products or services, further information may also be provided in your contract with us. If you are an employee, worker or contractor of Hudl, the information about how we handle your personal information is available in the Hudl Handbook. We do not collect social security or equivalent national tax ID numbers, except for employment purposes. If you are a prospective employee or job applicant of Hudl, we will provide you with information about how we handle your personal information for recruitment purposes. This will be provided to you if you commence any of our recruitment initiatives.
+If you use Hudl’s products or services, further information may also be provided in your contract with us. If you are an employee, worker or contractor of Hudl, the information about how we handle your personal information is available in the Hudl Handbook. With respect to employees based in Europe, we are committed to cooperating with EU data protection authorities (DPAs) and comply with the advice given by such authorities with regard to human resources data transferred from the EU in the context of the employment relationship. We do not collect social security or equivalent national tax ID numbers, except for employment purposes. If you are a prospective employee or job applicant of Hudl, we will provide you with information about how we handle your personal information for recruitment purposes. This will be provided to you if you commence any of our recruitment initiatives.
 
 #### 1\. Collection and Use of Personal Information
 
@@ -145,25 +145,25 @@ Individuals in the European Union should be aware that Hudl may transfer your pe
 
 #### 19\. EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield 
 
-Hudl complies with both the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks, as set forth by the U.S. Department of Commerce, regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States, pursuant to the Privacy Shield. Hudl is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, in reliance on the Privacy Shield Frameworks, to the Framework's applicable Principles. If there is any conflict between the terms in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, please visit[ ](https://www.privacyshield.gov/list)[U.S. Department of Commerce's Privacy Shield List](https://www.privacyshield.gov/list).
+Hudl’s U.S. entities, including Agile Sports Technologies, Inc. dba Hudl, Haymarket Recruiting LLC and Hudl Fundraising LLC, comply with both the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks, as set forth by the U.S. Department of Commerce, regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States, pursuant to the Privacy Shield. Hudl is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, in reliance on the Privacy Shield Frameworks, to the Framework's applicable Principles. If there is any conflict between the terms in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit _[U.S. Department of Commerce's Privacy Shield List](https://www.privacyshield.gov/list)_.
 
-Hudl acknowledges the right of EU and Swiss individuals to access their data pursuant to the Privacy Shield. Individuals wishing to exercise this right may do so by contacting us at [support@hudl.com](mailto:support@hudl.com) cc: [legal@hudl.com](mailto:legal@hudl.com). Please note certain information may be under the control of a club or team and you may be directed to contact your organization's account administrator for assistance.
+Hudl acknowledges the right of EU and Swiss individuals to access their data pursuant to the Privacy Shield. Individuals wishing to exercise this right may do so by contacting us at support@hudl.com cc: legal@hudl.com. Please note certain information may be under the control of a club or team and you may be directed to contact your organization's account administrator for assistance.
 
 Hudl will be responsible for the processing of personal data it receives under the Privacy Shield Frameworks, and will subsequently transfer such data to a third party acting as an agent on its behalf. (Information on third parties is provided in section 5 of this Privacy Policy.) Hudl complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
 
-With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, Hudl will be subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Hudl may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, Hudl will be subject to the regulatory investigative and enforcement powers of the U.S. Federal Trade Commission. In certain situations, Hudl may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-In compliance with the EU-US and Swiss-US Privacy Shield Principles, Hudl commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss individuals with inquiries or complaints regarding this Privacy Statement should first contact Hudl's Data Protection Officer at:
+In compliance with the EU-US and Swiss-US Privacy Shield Principles, Hudl commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss individuals with inquiries or complaints regarding this Privacy Statement should first contact Hudl's Data Protection Officer at:   
 
-Data Protection Officer Hudl UK, Ltd. Suncourt House 2nd Floor 8-26 Essex Road London N1 8LN United Kingdom
+Data Protection Officer Hudl UK, Ltd. Suncourt House 2nd Floor 8-26 Essex Road London N1 8LN United Kingdom 
 
-email: [dpo@hudl.com](mailto:dpo@hudl.com)
+email: dpo@hudl.com 
 
-cc: [legal@hudl.com](mailto:legal@hudl.com)
+cc: _[legal@hudl.com](mailto:legal@hudl.com)_
 
-Hudl has further committed to refer unresolved privacy complaints under the Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgement of your complaint, or if your complaint is not satisfactorily addressed, please visit[ http://www.bbb.org/EU-privacy-shield/for-eu-consumers](https://www.bbb.org/EU-privacy-shield/for-eu-consumers) for more information and to file a complaint.
+Hudl has further committed to refer unresolved privacy complaints under the Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus located in the United States. If you do not receive timely acknowledgement of your complaint, or if your complaint is not satisfactorily addressed, please visit _[http://www.bbb.org/EU-privacy-shield/for-eu-consumers](https://www.bbb.org/EU-privacy-shield/for-eu-consumers)_ for more information and to file a complaint. The services of BBB EU PRIVACY SHIELD are provided at no cost to you.
 
-Finally, as a last resort and under limited circumstances, EU and Swiss individuals with residual privacy complaints may invoke a binding arbitration option before the Privacy Shield Panel.
+Finally, as a last resort and under limited circumstances, EU and Swiss individuals with residual privacy complaints may invoke a binding arbitration option before the Privacy Shield Panel. 
 
 #### 20\. California Privacy Rights 
 
@@ -181,4 +181,4 @@ Our UK subsidiary, Hudl UK, Ltd, is registered in England and Wales under regis
 
 Hudl may periodically update this Privacy Policy. The most current version of the Privacy Policy will govern our use of your information and will always be available at <http://www.hudl.com/privacy>. By using the websites and products, you acknowledge your agreement to the terms of this Privacy Policy. We will notify you about material changes in the way we treat personal information by sending a notice to the email address specified in your membership account or by placing a prominent notice on our website. 
 
-_Updated 24 May 2018_
+_Updated 27 August 2018_
