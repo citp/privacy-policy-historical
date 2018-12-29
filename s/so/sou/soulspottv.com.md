@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soulspottv.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629100425id_/http%3A//soulspottv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soulspottv.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229120348id_/http%3A//soulspottv.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SOULSpot
 
@@ -51,10 +51,10 @@ Google (www.google.com) operates the Google Display Network (comprising partner 
  [Google Ads (Admeld, Admob, Channel Intelligence, DoubleClick, Display Network, Teracent)](http://www.privacychoice.org/policy/text?policy=db5e6fe8f7a730ced164644365d4da9e#) 
 
 Admeld Admeld pioneered the private ad exchange and built technology that made it easy for publishers to identify new opportunities and control how every impression is sold. Admob AdMob has been rebuilt, leveraging the best of Google’s ad platforms. Channel Intelligence Channel intelligence optimizes product visibility on shopping engines. With our bidding expertise, data optimization technology, and data quality monitoring, we elevate performance on shopping engines. DoubleClick DoubleClick for Publishers (DFP) is a comprehensive hosted ad serving platform that streamlines ad management functions and allows generating even-greater advertising margins. Display Network The Google Display Network helps generate awareness by getting ads in front of consumers, so they can learn about the business as they consider their options. Teracent Teracent’s Intelligent Display Advertising creates display ads entirely customized to the specific consumer and site proposition for marketers that was, until now, cost and time prohibitive.   
-[Privacy Policy and Choices](http://www.google.com/intl/en/policies/technologies/ads/)
+[Privacy Policy and Choices](https://www.google.com/intl/en/policies/technologies/ads/)
 
 DoubleClick DART cookies  
-We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (“interest based targeting”). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses “non personally identifiable information”. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting <http://www.doubleclick.com/privacy/dart_adserving.aspx>
+We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (“interest based targeting”). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses “non personally identifiable information”. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting [http://www.doubleclick.com/privacy/dart_adserving.aspx](https://www.doubleclick.com/privacy/dart_adserving.aspx)
 
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
@@ -62,7 +62,7 @@ Deleting cookies does not mean you are permanently opted out of any advertising 
 
 **You can ask privacy questions.  
 **If you have any questions or concerns about our privacy policies, please contact us:  
-[[Contact us](http://soulspottv.com/contact-us/)] OR [[EMAIL](https://web.archive.org/cdn-cgi/l/email-protection#8dcee5ffe4fecdfee2f8e1fefde2f9f9fba3eee2e0)]
+[[Contact us](http://soulspottv.com/contact-us/)] OR [[EMAIL](mailto:Chris@soulspottv.com)]
 
  **Analytics providers access data on our behalf.  
 **Analytics companies may access anonymous data (such as your IP address or device ID) to help us understand how our services are used. They use this data solely on our behalf. They do not share it except in aggregate form; no data is shared as to any individual user. Click to see company privacy policies that govern their use of data. 
@@ -70,12 +70,12 @@ Deleting cookies does not mean you are permanently opted out of any advertising 
  [Google Ads (Admeld, Admob, Channel Intelligence, DoubleClick, Display Network, Teracent)](http://www.privacychoice.org/policy/text?policy=db5e6fe8f7a730ced164644365d4da9e#) 
 
 Admeld Admeld pioneered the private ad exchange and built technology that made it easy for publishers to identify new opportunities and control how every impression is sold. Admob AdMob has been rebuilt, leveraging the best of Google’s ad platforms. Channel Intelligence Channel intelligence optimizes product visibility on shopping engines. With our bidding expertise, data optimization technology, and data quality monitoring, we elevate performance on shopping engines. DoubleClick DoubleClick for Publishers (DFP) is a comprehensive hosted ad serving platform that streamlines ad management functions and allows generating even-greater advertising margins. Display Network The Google Display Network helps generate awareness by getting ads in front of consumers, so they can learn about the business as they consider their options. Teracent Teracent’s Intelligent Display Advertising creates display ads entirely customized to the specific consumer and site proposition for marketers that was, until now, cost and time prohibitive.   
-[Privacy Policy and Choices](http://www.google.com/intl/en/policies/technologies/ads/) 
+[Privacy Policy and Choices](https://www.google.com/intl/en/policies/technologies/ads/) 
 
  [Google Analytics](http://www.privacychoice.org/policy/text?policy=db5e6fe8f7a730ced164644365d4da9e#) 
 
 Google Analytics is a web analytics tool that helps website owners understand how visitors engage with their website. Google Analytics customers can view a variety of reports about how visitors interact with their website so they can improve it. Google Analytics collects information anonymously. It reports website trends without identifying individual visitors.   
-[Privacy Policy and Choices](http://www.google.com/analytics/learn/privacy.html) 
+[Privacy Policy and Choices](https://www.google.com/analytics/learn/privacy.html) 
 
  **We take steps to protect personal information  
 **We take reasonable steps to secure your personally identifiable information against unauthorized access or disclosure. We encrypt transmission of data on pages where you provide payment information. However, no security or encryption method can be guaranteed to protect information from hackers or human error.
