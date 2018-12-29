@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mozo.com.au privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629143340id_/https%3A//mozo.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mozo.com.au privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229161413id_/https%3A//mozo.com.au/privacy) for the most accurate reproduction.*
 
 # Mozo Privacy Policy | Mozo
 
@@ -151,4 +151,10 @@ Phone: 
 
 | 
 
-02 9037 4366 
+02 9037 4366   
+  
+Mozo provides factual information in relation to financial products. While Mozo attempts to make a wide range of products and providers available via its site it may not cover all the options available to you. The information published on Mozo is general in nature only and does not consider your personal objectives, financial situation or particular needs and is not recommending any particular product to you. Mozo is paid by product issuers for clicks on, or applications for, products marked as "Promoted". If you decide to apply for a product you will be dealing directly with that provider and not with Mozo. Mozo recommends that you read the relevant PDS or offer documentation before taking up any financial product offer. For more information please see Mozo's FSG, General advice disclaimer or Terms of use.
+
+[General advice disclaimer](https://mozo.com.au/general-advice-disclaimer) [FSG](https://web.archive.org/PDFs/FSG-1-November-2018.pdf) [Terms of use](https://mozo.com.au/terms-and-conditions) [Privacy](https://mozo.com.au/privacy)
+
+_mozo.com.au_ © Copyright 2008-2018 Mozo Pty Ltd. All Rights Reserved. ABN: 68 128 199 208. AFSL & ACL 328141 
