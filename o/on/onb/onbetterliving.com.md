@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onbetterliving.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624045051id_/http%3A//onbetterliving.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onbetterliving.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229082210id_/http%3A//onbetterliving.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Better Living
 
@@ -53,5 +53,3 @@ Better Living will be launching a mailing list. In order to sign up to receive 
 Notification of Changes
 
 Whenever Better Living changes its privacy policy, we will post those changes to this privacy statement, and other places we deem appropriate.
-
-[](https://www.pinterest.com/pin/create/button/)
