@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photoblog.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629151038id_/https%3A//www.photoblog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photoblog.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229164857id_/https%3A//www.photoblog.com/privacy) for the most accurate reproduction.*
 
 # PhotoBlog - Privacy
 
