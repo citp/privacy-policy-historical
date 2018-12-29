@@ -1,243 +1,303 @@
-> *The following text is extracted and transformed from the rs6.net privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629011922id_/http%3A//www.constantcontact.com/legal/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rs6.net privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229193640id_/https%3A//www.endurance.com/privacy/privacy) for the most accurate reproduction.*
 
-# Privacy Statement - Constant Contact
+# Privacy Policy | Endurance International Group
 
-This Privacy Policy applies to all users who sign up for services **before** May 23, 2018. Beginning on **May 23, 2018** , our new Privacy Policy will apply to all new users and all users in the EU/EEA member countries. The new Privacy Policy will be effective on **June 23, 2018** for users outside the EU/EEA member countries who signed up for services before May 23, 2018. The legacy version of the Privacy Policy will remain posted here until July 23, 2018 for your reference. <https://www.endurance.com/privacy/privacy>
+## Table of Contents
 
-**Effective December 27th, 2017**
+## About Us
 
-At Constant Contact, Inc. ("we" or "us"), including our wholly-owned subsidiary, SinglePlatform, LLC, we respect and protect the privacy of our trialers, customers and others who use our websites, products and services. This privacy statement provides details about how your personal information is collected and used by us. Personal information is any information that identifies you or would enable someone to contact you, which may include your name, email address, phone number and other non-public information that is associated with such information. It does not include aggregate information, anonymous information or any other non-personally identifiable information. This privacy statement applies to the Constant Contact website; the Single Platform website; products and services that are located in the www.constantcontact.com and www.singleplatform.com domains; and any other sites owned or operated by us and our mobile applications (the "Sites"). This privacy statement does not cover how our trialers and customers may use the data that we collect on their behalf. For information on how they use data, please contact the applicable trialer or customer directly. Constant Contact, Inc. is located at 1601 Trapelo Road, Waltham, MA 02451. We are also a part of The Endurance International Group, Inc. ("Endurance") corporate family. To learn more about the Endurance corporate family, visit: [http://www.endurance.com](http://www.endurance.com/).
+[The Endurance International Group, Inc.](https://web.archive.org/our-brands/) and our subsidiaries (“we,” “us” or “Endurance”) are a leading provider of online tools for small businesses to establish and build their web presence, get found in online search, and connect with customers through social media, email marketing, and more. Our brands include Constant Contact, Bluehost, HostGator, Domain.com, iPage, and others found at [https://www.endurance.com/our-brands/](https://web.archive.org/our-brands/). We care about protecting the personal information of our customers and visitors who use our websites, products or services (collectively, our “Users”). This privacy policy provides details about how your personal information is collected, shared and used by us. To learn more about the Endurance corporate family, visit: [https://www.endurance.com](https://web.archive.org/). If you have any questions about this privacy policy or the practices described herein, you may contact [privacy@endurance.com](mailto:privacy@endurance.com) or 10 Corporate Drive, Burlington, MA 01803. For the purposes of the European Union’s General Data Protection Regulation 2016/679, or GDPR, The Endurance International Group, Inc. and each of the brands for which you have signed up for a product or service are the data controller, and our European local representative is AppMachine B.V., located at Sophialaan 32, 8911 AE Leeuwarden, Nederland.
 
-#### Summary and Contents
+## Information Covered by this Privacy Policy
 
-The summary below provides the key concepts of the full Constant Contact Privacy Statement. If you have questions, please click the links to view the complete text below.
+This privacy policy covers personal information, including any information we collect, use and share from you, as described further below. This privacy policy applies to all websites in the Endurance corporate family, our products and services, and our mobile applications (collectively, the “Services”). This privacy policy does not cover how our Users may use or share data that they collect using our services.
 
-#### Information Collection and Use by Us
+When you purchase a Service from us, your personal information will be collected, used, and shared consistent with the provisions of this privacy policy as well as the following addendums related to particular products and services offered by Endurance, which are a part of this privacy policy:
 
-We are the sole owner of information collected on the Sites (including any metadata), except for contact lists and content that you provide to us in connection with your use of our products and services. We collect information only as necessary to fulfill the purposes set forth in this privacy statement and we will only use this information as described in this privacy statement. We may combine any or all of this data with other information we collect about you.
+  * [Addendum for Users who purchased services from Constant Contact](https://web.archive.org/privacy/constant-contact-addendum/)
+  * [Addendum for Users who purchased Domain Registration services, including from Domain.com](https://web.archive.org/privacy/domains-addendum/)
+  * [Addendum for Users who purchased services from SinglePlatform](https://web.archive.org/privacy/single-platform-addendum/)
 
-In connection with your use of our products or services, we will obtain contact lists (including email addresses and other information for your subscribers) and content (including the content of your campaigns and storefront information) that you provide to us in connection with such use. We acknowledge your ownership rights in such contact lists and content. We will never sell or rent your contact lists to anyone without your permission and will never use your contact lists or content for any purpose other than as described here.
 
-We may use any of this information to offer and improve our products and services, to provide you with requested information or technical support, to facilitate your movement through the Sites or your use of our products and services, to do a better job of advertising and marketing our products and services, to diagnose problems with our servers or our products and services, in connection with our security and compliance programs, to administer our Sites, to communicate with you, to target prospective customers with our products or services, to assist us in offering you a personalized experience or otherwise tailor our Sites, product and service offerings to you, or as otherwise described in this privacy statement. We may aggregate and anonymize information received to produce reports on trends and statistics, such as mobile search trends, email open rates by industry, campaign best practices or the number of users that have been exposed to, or clicked on, our Sites or evaluated or purchased our products and services. Payment information that you provide to us, including credit card data, will only be used to facilitate payment for our products and services. We may also use recorded telephone conversations for quality control purposes, to train our employees and for our own protection. We will only use the username and password for any email account you import any contacts from to enable you to import such contacts.   
-Learn More »
 
-#### Security and Privacy
+## Information We Collect From You
 
-We employ reasonable technical, administrative and physical safeguards to protect the confidentiality and security of your personal information. We use industry-recognized technical safeguards, such as firewalls, and have adopted and implemented security procedures to protect your information from loss, misuse or unauthorized alteration. When we collect financial account information, such as credit card numbers, we protect its transmission through the use of encryption such as the Transport Layer Security (TLS) protocol.   
-Learn More »
+In the course of your use of the Services, we obtain the following information about you as described below. We collect this data for the purposes described under “How We Use Your Information”.
 
-#### Sharing of Information
+### Signing Up for Services; User Information
 
-We will only share certain personal information with our partners, third party service providers and co-marketing partners, an acquirer, with others within your organization, our affiliates (including other members of the Endurance corporate family) and for legal reasons, as more fully described below.   
-Learn More »
+  * Information you provide prior to any registration process, such as your email when you provide it to us;
+  * Information that you provide during any registration process, including in connection with a co-branded offer (such as your name, company name, email address, phone number, billing address or credit card information, geographic location and industry), when you call or email us (for support or otherwise) or when you use our products or services; and
+  * Payment information that you provide to us (by way of our Services or otherwise) when you purchase some of our products and services, including credit card data.
 
-#### Tracking Technologies
 
-Technologies such as cookies, beacons, tags and scripts are used by us and our partners (including marketing partners and affiliates) as well as our analytics and other service providers. These technologies are used in many ways, including advertising, sales and marketing, analyzing trends, administering and improving the Sites, tracking users' movements around the Sites (including point of entry), gathering demographic information about our user base, verifying login status, measuring the success of a particular marketing campaign, providing improved customer service, providing more relevant content, deterring or detecting fraud, and providing users with a customized experience. We also use these technologies as part of our product offerings, including to provide our trialers and customers with information about their campaigns, such as email opens, clicks and bounces and tracking whether messages are shared and opened using our social share features. We collect information based on the use of these technologies on an individual as well as aggregated basis.
 
-We use Local Storage Objects (LSOs), such as HTML5 to, among other things, optimize screen presentation, video and other preference information.   
-Learn More »
+### Use of Services, Website Visits and Support
 
-#### Online Advertising
+  * Data relating to your online activity on our websites with respect to our Services, including the following:
+    *       * IP address
+      * browser type and version
+      * geographic location
+      * pages you view
+      * how you got to our Services and any links you click on to leave our Services
+      * when you update your information, communicate with us, or order new Services
+      * metadata about your use and your contacts’ use of our Services and your emails you send (including clicks and opens)
+      * your interactions with any videos we offer
+      * issues you encounter requiring our support or assistance
+      * any device or other method of communication you use to interact with the Services
 
-We partner with third parties to either display advertising on our Sites or to manage our advertising on other sites. Our third party partners may use technologies, such as cookies, to gather information about your activities on our Sites and other sites in order to provide you with advertising based upon your browsing activities and interests.   
-Learn More »
+We store this data we collect in a variety of places within our infrastructure, including system log files, back end databases and analytics systems.
 
-#### Choice/Opt-out
+  * Your telephone conversations with us (which we may monitor or record).
 
-You have a choice about how we use your personal information to communicate with you, and you may opt out at any time by unsubscribing or changing your preferences.   
-Learn More »
 
-#### Access to Personal and Storage of Information
+  * Information from third party social networking sites, including information that social networking sites provide to us if you use your credentials at such social networking sites to log into some of our Services (such as your name and email address to pre-populate our sign-up form).
+  * The information you allow us to access varies by social networking site, and depends on the level of privacy settings you have in place at the social networking site. You can control and find out more about these privacy settings at the applicable social networking site.
 
-We take steps to ensure that the personal information we collect is accurate and up to date, and that you have the ability to access it and make corrections to it.   
-Learn More »
 
-#### Refer a Friend
 
-If you choose to use our referral service to tell a friend about our Sites or our products and services, we will ask you for your friend's email address. We will automatically send your friend a one-time email inviting him or her to visit our website. We retain this information for the sole purpose of sending this one-time email and tracking the success of our referral program.   
-Learn More »
+### Other Sources
 
-#### Third Party Links and Information Collection and Use by Our Customers
+  * Information you provide to us at seminars or to our partners;
+  * Information you provide to us in surveys;
+  * Information that is publicly available; and
+  * Information you consent to us receiving from third parties.
 
-Some of our Sites provide links to other websites. You may be asked to submit personal information to any of these sites. You may also be asked to provide certain personal information to our trialers or customers in connection with their use of our products and services. Because we do not control the information policies or practices of these third party sites, you should review their privacy policies to learn about how they collect and use personal information.   
-Learn More »
 
-#### Children
 
-Our Sites and our products and services are not directed to persons under 18. We do not knowingly collect personal information from children under 18.   
-Learn More »
+## How We Use Your Information
 
-#### International Use
+We use the information we collect, both on its own and combined with any other information we collect about you, for the following purposes:
 
-We are headquartered in the United States of America. Personal information may be accessed by us or transferred to us in the United States or to our affiliates (including other members of the Endurance corporate family), partners, merchants, or service providers elsewhere in the world. By providing us with personal information, you consent to this transfer.   
-Learn More »
+  * To provide the requested Services to you;
+  * To provide you with useful content;
+  * To ensure the proper functioning of our Services
+  * To offer and improve our Services;
+  * To provide you with requested information or technical support
+  * To facilitate your movement through our websites or your use of our Services;
+  * To do a better job of advertising and marketing our Services (our use of your information to do this is performed with your consent where required by applicable law);
+  * To advertise and market third party products and services (such advertisement is only performed with your permission where your consent is required by applicable law)
+  * To diagnose problems with our servers or our Services;
+  * In connection with our security and compliance programs;
+  * To administer our websites;
+  * To communicate with you;
+  * To target prospective customers with our products or services (such targeting is only performed with your permission where your consent is required by applicable law);
+  * To assist us in offering you a personalized experience or otherwise tailor our Services to you; and
+  * As otherwise described in this privacy policy.
 
-#### Accountability
 
-Constant Contact (and its subsidiary, SinglePlatform, LLC) participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. Constant Contact is committed to subjecting all personal data received from European Union member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework to the Framework’s applicable principles.   
-Learn More »
 
-#### Notification of Changes
+We also use the information we receive in aggregated and anonymized formats to produce reports on trends and statistics, such as mobile search trends, email open rates by industry, campaign best practices or the number of users that have been exposed to, or clicked on, our websites or evaluated or purchased our products and services.
 
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we decide to change this privacy statement in any material way, we will notify you here, by email, or by means of a notice on www.constantcontact.com and www.singleplatform.com so our users are always aware of what information we collect, how we use it and under what circumstances we disclose it.   
-Learn More »
+Payment information that you provide to us, including credit card data, will only be used to facilitate payment for our products and services.
 
-#### Information Collection and Use by Us
+We also use recorded telephone conversations for quality control purposes, to train our employees and for our own protection.
 
-We are the sole owner of information collected on the Sites (including any metadata), except for contact lists and content that you provide to us in connection with your use of our products and services. We collect information only as necessary to fulfill the purposes set forth in this privacy statement and we will only use this information as described in this privacy statement. We may combine any or all of this data with other information we collect about you.
+## Sharing of Information
 
-In connection with your use of our products or services, we will obtain contact lists (including email addresses and other information for your subscribers) and content (including the content of your campaigns and storefront information) that you provide to us in connection with such use. We acknowledge your ownership rights in such contact lists and content. We will never sell or rent your contact lists to anyone without your permission and will never use your contact lists or content for any purpose other than as described here.
+As further described below, we will only share certain personal information with:
 
-In the course of your use of our products or services or visit to the Sites, we may also obtain the following information about you:
+  * other members of the Endurance corporate family;
+  * our partners;
+  * third party service providers and vendors;
+  * in connection with a sale, merger, acquisition or corporate reorganization;
+  * authorized users within your organization; and
+  * for legal reasons.
 
-  * Information that you provide during any voluntary or mandatory registration process (such as first and last name, company name, email address, phone number, billing address or credit card information, geographic location and industry), when you call or email us (for support or otherwise) or when you use our products or services;
-  * Payment information that you provide to us (on our Sites or otherwise) when you purchase some of our products and services, including credit card data;
-  * Additional information about you that we collect from other sources, such as information you provide at seminars or to our partners, information that is publicly available or that you consent to us receiving from third parties;
-  * Information from third party social networking sites, including information that social networking sites provide to us if you use your credentials at such social networking sites to log into some of our Sites (such as your name and email address to pre-populate our sign-up form). The information you allow us to access varies by social networking site, and it is affected by the privacy settings you establish at the social networking site. You can control and find out more about these privacy settings at the applicable social networking site;
 
 
-  * Your telephone conversations with us (which we may monitor or record);
-  * Data relating to your activity on our Sites (such as your IP address, browser type and version, geographic location, pages you view, how you got to our Sites and any links you click on to leave our Sites, metadata about your use and your subscribers' use of our Sites and your emails you send (including clicks and opens), your interactions with any videos we offer and any device or other method of communication you use to interact with the Sites), which we store in a variety of places within our infrastructure, including system log files, back end databases and analytics systems; and
-  * If you decide to import contacts from other email accounts, we collect the username and password for the email account you wish to import your contacts from.
+Further information about the third parties with whom we share personal information is available [here](https://web.archive.org/privacy/third-party-data/).
 
+### Sharing within the Endurance Corporate Family
 
+We share personal information with other members of the Endurance corporate family to allow our corporate affiliates to contact you with offers, services or products that may be of interest to you and to provide you with their products and services. Any such corporate affiliate may use your information only according to the terms of this privacy policy. If you are located in a jurisdiction where such sharing requires your permission, we will only do so with your consent.
 
-We may use any of this information to offer and improve our products and services, to provide you with requested information or technical support, to facilitate your movement through the Sites or your use of our products and services, to do a better job of advertising and marketing our products and services, to diagnose problems with our servers or our products and services, in connection with our security and compliance programs, to administer our Sites, to communicate with you, to target prospective customers with our products or services, to assist us in offering you a personalized experience or otherwise tailor our Sites, product and service offerings to you, or as otherwise described in this privacy statement. We may aggregate and anonymize information received to produce reports on trends and statistics, such as mobile search trends, email open rates by industry, campaign best practices or the number of users that have been exposed to, or clicked on, our Sites or evaluated or purchased our products and services. Payment information that you provide to us, including credit card data, will only be used to facilitate payment for our products and services. We may also use recorded telephone conversations for quality control purposes, to train our employees and for our own protection. We will only use the username and password for any email account you import any contacts from to enable you to import such contacts.
+### Sharing with Partners
 
-For clarity, any storefront information you make available to us in connection with our SinglePlatform product is non-confidential for all purposes and may be made publicly available on one of our Sites (or the sites of any of our publishers).
+When we share personal information with certain third-party partners, including marketing and advertising partners, that information includes your name, email address and other information enabling partners to:
 
-We obtain information that is provided by you on our public forums, including the Constant Contact Community and Constant Contact Marketplace. With your consent, we may also obtain and post testimonials or reviews for inclusion on our Sites or elsewhere. Your posts may remain even after you suspend or cancel your account. Reviews and contributions to any of our public communities are considered public and non-confidential by us and are not treated as proprietary information or personal information covered by this privacy statement. To request removal of your personal information on our public forums or on the public portions of our Sites, contact us at [privacy@constantcontact.com](mailto:privacy@constantcontact.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+  * assist you in using our products and services,
+  * contact you with offers, services or products that may be of interest to you, and
+  * provide you with their products or services.
 
-Back to Top
 
-#### Security and Privacy
 
-We employ reasonable technical, administrative and physical safeguards to protect the confidentiality and security of your personal information. We use industry-recognized technical safeguards, such as firewalls, and have adopted and implemented security procedures to protect your information from loss, misuse or unauthorized alteration. When we collect financial account information, such as credit card numbers, we protect its transmission through the use of encryption such as the Transport Layer Security (TLS) protocol. 
+If you are located in a jurisdiction where such sharing requires your permission, we will only do so with your consent. Please note that if you access our services through a tool that hides your location, such as through a virtual private network, you may not receive our request for permission because we were not able to identify you as being located in a jurisdiction where your permission is required.
 
-Notwithstanding our efforts, we cannot guarantee absolute or unqualified protection of this information given the open nature and resulting instability of the Internet and World Wide Web, and we make no representations or warranties as to the effectiveness of our security and assume no liability for security breaches or any failure in the security of your computer equipment, your internet service provider or other networks and communications providers.
+Further, our partners are prohibited from using your contact information for any purpose beyond those set forth above without your consent. We will not provide our partners with your credit card information. Further information about certain partners we share personal information with is available [here](https://web.archive.org/privacy/third-party-data/).
 
-Back to Top
+In the event we collect information from you in connection with an offer that is jointly presented by us and a partner, we will let you know who is collecting the information and whose privacy policy applies, as well as any options you may have regarding use of your information.
 
-#### Sharing of Information
+### Sharing with Third Party Service Providers and Vendors
 
-We will only share certain personal information with our partners, third party service providers and co-marketing partners, an acquirer, with others within your organization, our affiliates (including other members of the Endurance corporate family) and for legal reasons, as more fully described below.
+Occasionally, we enter into contracts with carefully selected third parties so that they can assist us in servicing you (for example, providing you with customer service, fraud detection and deterrence or access to advertising assets and providing us with information technology and storage services) or to assist us in our own marketing and advertising activities (including providing us with analytic information and search engine optimization services). Additional information about certain third-party service providers we share personal information with is available [here](https://web.archive.org/privacy/third-party-data/). Our contracts with such third parties prohibit them from using any of your personal information for any purpose beyond the purpose for which it was shared.
 
-We may share your name, email address and other information with certain of our partners so that they may assist you in using our products and services, contact you with offers, services or products that may be of interest to you, and provide you with their products or services. Our partners are prohibited from using your contact information for any other purpose without your consent. We will not provide our partners with your credit card information. If you are working with a partner and would like that partner to have full access to your account, we will provide access to just that partner upon your request or consent.
+If you purchase a product or service from a third party through one of our brands, we will pass your personal information to such third party in order for them to fulfill your order.
 
-Occasionally, we enter into contracts with carefully selected third parties so that they can assist us in servicing you (for example, providing customer service, fraud detection and deterrence or access to advertising assets), to assist us in our own marketing and advertising activities or to engage in co-marketing activities with us. Our contracts with such third parties prohibit them from using any of your personal information for any purpose beyond the purpose for which it was shared.
+We also share non-personal information with certain third parties, including the media, industry observers, marketing and advertising partners, vendors, customers, potential customers or partners. For example, we disclose mobile search trends, email open rates by industry, campaign best practices or the number of users that have been exposed to, or clicked on, our websites or evaluated or purchased our products and services.
 
-We may also share non-personal information with any third party, including the media, industry observers, marketing and advertising partners, vendors, customers, potential customers or partners. For example, we may disclose mobile search trends, email open rates by industry, campaign best practices or the number of users that have been exposed to, or clicked on, our Sites or evaluated or purchased our products and services.
+### Corporate Reorganizations
 
-If we are involved in a merger, acquisition, a sale of all or a substantial portion of our assets, or other similar sale transaction, your information may be transferred as part of that transaction. We will notify you by email and/or a prominent notice on our website of any such transfer and any choices you may have regarding your information.
+If we are involved in a merger, acquisition, a sale of all or a substantial portion of our assets, or other similar sale transaction, your information will be transferred as part of that transaction. We will notify you by email and/or a prominent notice on our website of any such transfer and any choices you may have regarding your information.
 
-We may share your information with others within your organization (including any affiliates or any other individuals designated as users on your account). We may also share your personal information with any of our affiliates (including other members of the Endurance corporate family). Any such affiliate may use your information only according to the terms of this privacy statement.
+All users authorized by you to have access to your account can view personal information stored in the account. A primary account holder can view personal information saved in subaccounts to which they have authorized access. We share information about authorized users only for legitimate purposes consistent with this privacy policy, including servicing your account and marketing products and services to you.
 
-Lastly, we may disclose your personal information to courts, law enforcement authorities and other relevant third parties, such as internet service providers, when such disclosure is necessary or advisable, in our sole discretion, to conduct an investigation, respond to a third party or law enforcement subpoena or court order, bring legal action, prevent harm to others or pursue other relief when you or a third party are or may be: violating our terms and conditions of use; causing injury or other harm to, or otherwise violating our property or other legal rights, or those of other users or third parties; or violating federal, state, local, or other applicable law. This disclosure may include transferring information to the U.S. and outside the European Economic Area. To the extent we are legally permitted to do so, we will take reasonable steps to notify you in the event that we are required to provide your personal information to third parties in connection with a subpoena.
+### Legal Process
 
-Back to Top
+Lastly, if legally required to do so, or if we have a good faith belief that such disclosure is reasonably necessary, we may disclose your personal information to courts of law, law enforcement authorities and other relevant third parties, such as internet service providers, to conduct an investigation, respond to a third party or law enforcement subpoena or court order, bring legal action, prevent harm to others or pursue other relief when you or a third party are or may be:
 
-#### Tracking Technologies
+  * violating our terms and conditions of use;
+  * causing injury or other harm to, or otherwise violating the property or other legal rights, of us, other users, or third parties; or
+  * violating federal, state, local, or other applicable law.
 
-Technologies such as cookies, beacons, tags and scripts are used by us and our partners (including marketing partners and affiliates) as well as our analytics and other service providers. These technologies are used in many ways, including advertising, sales and marketing, analyzing trends, administering and improving the Sites, tracking users' movements around the Sites (including point of entry), gathering demographic information about our user base, verifying login status, measuring the success of a particular marketing campaign, providing improved customer service, providing more relevant content, deterring or detecting fraud, and providing users with a customized experience. We also use these technologies as part of our product offerings, including to provide our trialers and customers with information about their campaigns, such as email opens, clicks and bounces and tracking whether messages are shared and opened using our social share features. We collect information based on the use of these technologies on an individual as well as aggregated basis.
 
-Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our Sites, but your ability to use some features or areas of our Sites may be limited.
 
-We use Local Storage Objects (LSOs), such as HTML5 to, among other things, optimize screen presentation, video and other preference information. Various browsers may offer their own management tools for removing HTML5 LSOs. Third parties with whom we partner to provide certain features on our Sites or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 and Flash to collect and store information. To learn how to manage privacy and storage settings for Flash cookies click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
+This disclosure can include transferring your information to the U.S. and other countries outside the European Economic Area. To the extent we are legally permitted to do so, it is our policy to notify you in the event that we are required to provide your personal information to third parties in connection with a subpoena.
 
-Back to Top
+## Security
 
-#### Online Advertising
+The transmission of information via the internet, email or text message is not completely secure. Although we will do our best to protect your personal information, we cannot guarantee the security of your information transmitted through the Services or over email; any transmission is at your own risk. Once we have received your information, we will take appropriate technical and organizational measures to safeguard your personal information against loss, theft and unauthorized use, access or modification.
 
-We partner with third parties to either display advertising on our Sites or to manage our advertising on other sites. Our third party partners may use technologies, such as cookies, to gather information about your activities on our Sites and other sites in order to provide you with advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+When we collect financial account information, such as credit card numbers, we protect its transmission through the use of encryption such as the Transport Layer Security (TLS) protocol.
 
-We give all Internet users the choice to opt-out of receiving our ad impression cookie. If you opt out, your web browser will be associated with a generic "opt-out" cookie, which will prevent us from associating any non-personally identifying information with your browser. Our "opt-out" cookie has no expiration date. Keep in mind that participating in our opt-out program does not prevent you from seeing our online ads; instead, information about the online ads we serve to you will not be recorded. If you wish to opt-out of receiving this ad impression cookie, click [here](http://www.constantcontact.com/opt-out-info.jsp).
+## Tracking Technologies and Online Advertising
 
-Back to Top
+We use cookies, web beacons, pixels, tags, scripts and other similar technologies in the course of our business. Information about the technologies we use, why we use them (for example, in connection with online advertising), and how you can control them can be found in our [Cookie Policy](https://web.archive.org/privacy/cookie-policy/).
 
-#### Choice/Opt-out
+## Choice/Opt-out
 
-You have a choice about how we use your personal information to communicate with you, and you may opt out at any time by unsubscribing or changing your preferences.
+### Marketing Communications from Us
 
-[Our Anti-Spam Policy](http://www.constantcontact.com/legal/anti-spam) tolerates only permission-based email. You always have the opportunity to opt-out of our marketing communications with you or change preferences by following a link in the footer of all non-transactional email messages sent by us or by emailing us at [privacy@constantcontact.com](mailto:privacy@constantcontact.com). In addition, anyone receiving emails from us on behalf of our trialers or customers always has the opportunity to opt-out of email messages from such customer or trialer by using the opt-out link included in the link in the footer of the message. If you believe that you have received an unsolicited commercial email from us on behalf of any of our trialers or customers, you may report it to us at [abuse@constantcontact.com](mailto:abuse@constantcontact.com).
+#### Email
 
-If you do not wish to have your personal information shared with third parties for co-marketing purposes, you may do so at any time by opting out of all marketing communications with us.
+You always have the opportunity to opt out of our marketing communications with you or change your preferences by following a link in the footer of all non-transactional email messages from us or by emailing us at [privacy@endurance.com](mailto:privacy@endurance.com). Some communications from us are considered transactional or service communications (for example, important account notifications and billing information), and your account(s) for Endurance products and services are provided to you upon the condition that you receive these communications from us. You must cancel your account(s) for Endurance products and services, as applicable, if you do not wish to receive any transactional or service communications. To cancel your Endurance account(s), please follow the instructions found in the terms of service for the applicable Endurance service. You may still receive marketing communications from us even after you cancel your account unless you also opt-out of our marketing communications, as described above.
 
-Some communications (for example, important account notifications and billing information) are considered transactional and are necessary for all of our trialers and customers. You must cancel your Constant Contact or SinglePlatform account, as applicable, to unsubscribe from these communications. To cancel your Constant Contact or SinglePlatform accounts, please see "Access to Personal Information" below. You may still receive marketing communications from us even after you cancel your account unless you also opt-out of our marketing communications, as described above.
+#### Phone
 
-To manage the information we receive about you from a social networking site or any other third party, you will need to follow the instructions from that party for updating your information and changing your privacy settings. The information we collect is covered by this privacy statement and the information the third party collects is subject to such third party's privacy practices. Privacy choices you have made on any third party site will not apply to our use of the information we have collected directly through our Sites.
+We may contact you by telephone, with your consent where applicable, for marketing purposes (including by automatic dialer and/or prerecorded message). If you do not want to receive marketing calls, please contact customer support at the brand from which you purchased your Services. You do not need to agree to receive automated marketing phone calls or texts from us to use the Services.
 
-If an account or profile was created without your knowledge or authorization, please contact us at [privacy@constantcontact.com](mailto:privacy@constantcontact.com) to request removal of the account or profile.
+### Cookies
 
-Back to Top
+For information about how to manage and opt out from cookies, please visit our [Cookie Policy](https://web.archive.org/privacy/cookie-policy/).
 
-#### Access to Personal Information
+### Information from Third Parties
 
-We take steps to ensure that the personal information we collect is accurate and up to date, and that you have the ability to access it and make corrections to it.
+To manage the information we receive about you from a social networking site or other third parties (if applicable), you will need to follow the instructions from that party for updating your information and changing your privacy settings, where available. The information we collect is covered by this privacy policy and the information the third party collects is subject to such third party’s privacy practices. Privacy choices you have made on any third party site will not apply to our use of the information we have collected directly through our Services.
 
-Upon request Constant Contact will provide you with information about whether we hold, or process on behalf of a third party, any of your personal information. To request this information please contact us at [legal@constantcontact.com](mailto:legal@constantcontact.com).
+### Unauthorized Accounts
 
-You can review and update your Constant Contact account information, including your organizational information and email address, by logging in and then clicking on the My Settings tab. Account information, such as your username and password, can be changed by logging in and then clicking on the My Account link at the top of page. The My Account page is also where you can manage product subscriptions and billing information, such as your credit card number. If you would like to suspend or cancel your account, request that we no longer use your account data or obtain further information about or access to your personal information, you can do so by contacting customer support via the Constant Contact [Help Center](https://www.constantcontact.com/help) or by telephone at (866) 289-2101 if you are located in the U.S. or (781) 472-8140 if you are located outside of the U.S. We will respond to your request for access within 30 days.
+If an account or profile was created without your knowledge or authorization, please contact customer support at the brand on which the account or profile is located to request removal of the account or profile.
 
-You can review and update your SinglePlatform account information by contacting the SinglePlatform account management team directly at (866) 289-2087. If you would like to suspend or cancel your account, request that we no longer use your account data or obtain further information about or access to your personal information, you can do so by contacting the account management team at (866) 289-2087. We will respond to your request for access within 30 days.
+## Retention of Personal Information
 
-We will retain and use your information for as long as your account is active or as needed to provide you with services, as necessary to comply with our obligations under this privacy statement and at law, resolve disputes, enforce our agreements and for backup purposes. Notwithstanding the foregoing, we may continue to disclose your storefront information to third parties in a manner that does not reveal personal information after you suspend or cancel your SinglePlatform account unless you request otherwise by calling the SinglePlatform account management team at (866) 289-2087.
+We retain your personal information to provide services to you and as otherwise necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. We will retain your personal information for no more than seven years following the later of (i) the date on which you terminate your use of the Services or (ii) May 25, 2018, unless we are otherwise required by law or regulation to retain your personal information for longer.
 
-Back to Top
+## Legal Basis for Processing Your Information
 
-#### Refer a Friend
+Depending on what information we collect from you and how we collect it, we rely on various grounds for doing processing your information under the GDPR, including the following reasons:
 
-If you choose to use our referral service to tell a friend about our Sites or our products and services, we will ask you for your friend's email address. We will automatically send your friend a one-time email inviting him or her to visit our website. We retain this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Such referrals may not be permissible in all situations or in all jurisdictions. You acknowledge and agree that you are solely responsible for compliance with any applicable laws in this regard. Your friend may contact us at [privacy@constantcontact.com ](mailto:privacy@constantcontact.com) to request that we remove this information from our database.
+  * In order to administer our contractual relationship, including setting up your requested Services, payments, renewals and processes;
+  * Because it is in our legitimate interest to run a successful and efficient business and provide you with the Services and other useful content;
+  * In order to fulfill any legal obligations we may have to collect this information from you; and/or
+  * Because you have provided your consent for us to do so.
 
-Back to Top
 
-#### Third Party Links and Information Collection and Use by Our Customers
 
-Some of our Sites provide links to other websites. You may be asked to submit personal information to any of these sites. You may also be asked to provide certain personal information to our trialers or customers in connection with their use of our products and services. Because we do not control the information policies or practices of these third party sites or our trailers and customers, you should review their privacy policies to learn about how they collect and use personal information.
+## Your Rights
 
-You may also log in to some of our Sites using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you with the option to share certain personal information with us, such as your name and email address to pre-populate our sign up form. For example, if you take advantage of certain of our social media features, such as the Facebook Like button, and widgets, such as the "Share This" button or interactive mini-programs that run on our site, the applicable social networking sites may collect your IP address, which page you are visiting on our Sites, and may set a cookie to enable it to function properly.
+Where the European Union’s General Data Protection Regulation 2016/679, or GDPR, applies, in certain circumstances and subject to data processing agreements, you have rights in relation to the personal information we hold about you. We set out below an outline of those rights and how to exercise those rights. Please note that we will require you to verify your identity before responding to any requests to exercise your rights by providing details only known to the account holder. To exercise any of your rights, please send an email to [privacy@endurance.com](mailto:privacy@endurance.com) or visit the [Privacy Center](https://web.archive.org/privacy/). Please note that for each of the rights below we may have valid legal reasons to refuse your request, in such instances we will let you know if that is the case.
 
-Back to Top
+### Access
 
-#### Children
+You have the right to know whether we process personal information about you, and if we do, to access data we hold about you and certain information about how we use it and who we share it with.
 
-Our Sites and our products and services are not directed to persons under 18. We do not knowingly collect personal information from children under 18. If a parent or guardian becomes aware that his or her child has provided us with personal information without such parent or guardian's consent, he or she should contact us. If we become aware that a child under 18 has provided us with personal information, we will delete such information from our files.
+### Portability
 
-Back to Top
+You have the right to receive a subset of the personal information you provide us if we process it on the legal bases of our contract with you or with your consent in a structured, commonly used and machine-readable format and a right to request that we transfer such personal information to another party. If you wish for us to transfer the personal information to another party, please ensure you detail that party and note that we can only do so where it is technically feasible. We are not responsible for the security of the personal information or its processing once received by the third party.
 
-#### International Use
+### Correction
 
-We are headquartered in the United States of America. Personal information may be accessed by us or transferred to us in the United States or to our affiliates (including other members of the Endurance corporate family), partners, merchants, or service providers elsewhere in the world. By providing us with personal information, you consent to this transfer. We will protect the privacy and security of personal information according to this privacy statement, regardless of where it is processed or stored, however you acknowledge and consent to the fact that personal information stored or processed in the United States will be subject to the laws of the United States, including the ability of governments, courts or law enforcement or regulatory agencies of the United States to obtain disclosure of your personal information.
+You have the right to require us to correct any personal information held about you that is inaccurate and have incomplete data completed. Where you request correction, please explain in detail why you believe the personal information we hold about you to be inaccurate or incomplete so that we can assess whether a correction is required. Please note that while we assess whether the personal information we hold about you is inaccurate or incomplete, you may exercise your right to restrict our processing of the applicable data as described below.
 
-For the purposes of European Directive 95/46/EC and applicable national implementing laws in your jurisdiction, with respect to your data, we are a data controller and with respect to your contacts' information, we are a data processor.
+### Erasure
 
-Back to Top
+You may request that we erase the personal information we hold about you in the following circumstances:
 
-#### Accountability
+  * where you believe it is no longer necessary for us to hold the personal information;
+  * we are processing it on the basis of your consent and you wish to withdraw your consent;
+  * we are processing your data on the basis of our legitimate interest and you object to such processing;
+  * you no longer wish us to use your data to send you marketing; or
+  * you believe we are unlawfully processing your data.
+
+
+
+Please provide as much detail as possible on your reasons for the request to assist us in determining whether you have a valid basis for erasure.
+
+### Restriction of Processing to Storage Only
+
+You have a right to require us to stop processing the personal information we hold about you other than for storage purposes in the following circumstances:
+
+  * You believe the personal information is not accurate for the period it takes for us to verify whether the data is accurate;
+  * We wish to erase the personal information as the processing we are doing is unlawful but you want us to simply restrict the use of that data;
+  * We no longer need the personal information for the purposes of the processing but you require us to retain the data for the establishment, exercise or defense of legal claims; or
+  * You have objected to us processing personal information we hold about you on the basis of our legitimate interest and you wish us to stop processing the personal information while we determine whether there is an overriding interest in us retaining such personal information.
+
+
+
+### Objection
+
+You have the right to object to our processing of data about you and we will consider your request. Please provide us with detail as to your reasoning so that we can assess whether there is a compelling overriding interest in us continuing to process such data or we need to process it in relation to legal claims.
+
+You also have the right, at any time, to object to our processing of data about you in order to send you marketing, including where we build profiles for such purposes and we will stop processing the data for that purpose.
+
+### Withdrawal of Consent
+
+Where you have provided your consent to us processing your personal data, you can withdraw your consent at any time by visiting the [Privacy Center](https://web.archive.org/privacy/).
+
+## Third Party Links and Information Collection and Use by Our Users
+
+Some of our Services provide links to other websites. Because we do not control the information policies or practices of these third party sites, you should review their privacy policies to learn about how they collect and use personal information.
+
+You may also log in to some of our Services using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you with the option to share certain personal information with us, such as your name and email address to pre-populate our sign up form. For example, if you take advantage of certain of our social media features, such as the Facebook Like button, and widgets, such as the “Share This” button or interactive mini-programs that run on our site, the applicable social networking sites may collect your IP address, which page you are visiting on our websites, and may set a cookie to enable it to function properly.
+
+## Children
+
+Our Services are not directed to persons under 18. We do not knowingly collect personal information from children under 18. If a parent or guardian becomes aware that his or her child has provided us with personal information without such parent or guardian’s consent, he or she should contact us. If we become aware that a child under 18 has provided us with personal information, we will delete such information from our files.
+
+## Data Transfer
+
+In order for us to provide the Services to you, your personal information will be transferred to, and stored at/processed in the United States. Your personal data is also processed by staff operating outside the European Economic Area (EEA), such as in India and the Philippines, who work for us or for one of our suppliers. We will take all steps reasonably necessary to ensure that your personal data is treated securely and in accordance with this policy.
+
+For transfers of personal information within the Endurance corporate family, such transfer will be under the Commission’s model contracts for the transfer of personal data to third countries (i.e., the standard contractual clauses), pursuant to Decision 2004/915/EC and 2010/87/EU.
+
+For transfers of data to third parties, such transfers will either (i) be under the Commission’s model contracts for the transfer of personal data to third countries (i.e., the standard contractual clauses), pursuant to Decision 2004/915/EC and 2010/87/EU; or (ii) rely on the EU-US Privacy Shield Framework.
+
+Endurance’s Constant Contact(and its subsidiary, SinglePlatform LLC) participate in and have certified their compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework (together, the “Frameworks”). Constant Contact and SinglePlatform are committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s [Privacy Shield List](https://www.privacyshield.gov/list).
+
+Constant Contact and SinglePlatform are responsible for the processing of personal data they receive under each Privacy Shield Framework, and subsequently transfer to a third party acting as an agent on behalf of Constant Contact and/or SinglePlatform. Constant Contact and SinglePlatform comply with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
+
+With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, Constant Contact and Single Platform are subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.  
+Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
+
+You can contact the Data Protection Officer listed below to obtain a copy of the data transfer agreement or more information regarding the relevant safeguard we put in place. For more information about the EU-US Privacy Shield Framework, please visit the U.S. Department of Commerce’s Privacy Shield website.
+
+## Complaints
+
+In the event that you wish to make a complaint about how we process your personal information, please contact our Data Protection Officer at [privacy@endurance.com](mailto:privacy@endurance.com) and we will try to deal with your request. This is without prejudice to your right to raise a complaint with the Dutch Supervisory Authority (Autoriteit Persoonsgegevens) by contacting:
+
+Autoriteit Persoonsgegevens  
+Postbus 93374  
+2509 AJ DEN HAAG
+
+Telephone: (+31) – (0)70 – 888 85 00  
+Fax: (+31) – (0)70 – 888 85 01
+
+## Notification of Changes
+
+We reserve the right to modify this privacy policy at any time, so please review it frequently. If we decide to change this privacy policy in any material way, we will notify you here, by email, or by means of a notice on [www.endurance.com](https://web.archive.org/) or the website of the Endurance product or service you use prior to the change becoming effective. In all cases, your continued use of any Services constitutes acceptance to any such changes.
+
+ **Last modified December 12, 2018**
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=e295bdb8-2205-4b5d-bdb2-78ff2021f349)
-
-Constant Contact (and its subsidiary, SinglePlatform, LLC) participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework (together, the “Frameworks”). Constant Contact is committed to subjecting all personal data received from European Union (“EU”) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework to the Framework’s applicable principles. To learn more about the Frameworks, and to view our certification, visit the U.S. Department of Commerce’s [Privacy Shield List](https://www.privacyshield.gov/list).
-
-Constant Contact is responsible for the processing of personal data it receives under each Privacy Shield Framework and subsequently transfers to a third party acting as an agent on its behalf. Constant Contact complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
-
-With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, Constant Contact is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Constant Contact may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
-
-Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may invoke binding arbitration when other dispute resolution procedures have been exhausted. 
-
-We have designated our Privacy Manager to oversee our compliance with applicable privacy laws. Questions and inquiries concerning your privacy may be directed by email to [privacy@constantcontact.com](mailto:privacy@constantcontact.com) or write us:
-
-Constant Contact, Inc.  
-1601 Trapelo Road  
-Waltham, MA 02451  
-Attention: Privacy Manager 
-
-Back to Top
-
-#### Notification of Changes
-
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we decide to change this privacy statement in any material way, we will notify you here, by email, or by means of a notice on www.constantcontact.com and www.singleplatform.com so our users are always aware of what information we collect, how we use it and under what circumstances we disclose it. For material changes in how we use personal information, we will provide advance notice by email (sent to the email address specified in your account) or by means of notice on both www.constantcontact.com and www.singleplatform.com prior to the change becoming effective. In all cases, your continued use of any Site or our products and services constitutes consideration and your binding acceptance to any such changes.
-
-Back to Top
