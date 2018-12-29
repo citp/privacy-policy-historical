@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the codeforgeek.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629075527id_/https%3A//codeforgeek.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codeforgeek.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229100013id_/https%3A//codeforgeek.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - Codeforgeek
+# Privacy policy – Codeforgeek
 
 It governs the privacy terms of our Website, located at http://codeforgeek.com. Any capitalized terms not defined in our Privacy Policy, have the meaning as specified in our Terms of Service.
 
@@ -64,6 +64,6 @@ If you have any questions about our Privacy Practices or this Policy, please con
 
 Phone : 9768820285
 
-Email : [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c8bba0a9a0a1ac88aba7acadaea7baafadada3e6aba7a5)
+Email : [shahid@codeforgeek.com](mailto:shahid@codeforgeek.com)
 
 This document was last updated on November 04, 2014
