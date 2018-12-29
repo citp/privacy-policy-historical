@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dgt.gov.in privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630042124id_/http%3A//dgt.gov.in/content/innerpage/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dgt.gov.in privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229072635id_/http%3A//dgt.gov.in/content/innerpage/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy:: Directorate General of Training (DGT)
 
