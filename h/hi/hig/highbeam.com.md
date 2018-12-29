@@ -1,51 +1,25 @@
-> *The following text is extracted and transformed from the highbeam.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624202452id_/https%3A//www.cengage.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highbeam.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229170933id_/https%3A//www.cengage.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Cengage
 
-##    
-Cengage is Committed to Respecting your Privacy
+####  Your privacy is our priority. Simply put, the personal data we collect and process about you belongs to **you**. 
+
+##    
+Our Core Customer Privacy Principles 
+
+{{formPostErrorMessage.message}} [{{formPostErrorMessage.code}}] 
+
+## Privacy Commitment
 
 We have a Global Privacy Policy that has been implemented across all Cengage Learning Companies, that protects all the Personal Information we receive from you as well as information we receive from schools and other third parties. It protects information collected online as well as offline.
 
 This Program and Policy set the standards for Cengage both as a Controller (for its own data) and as a Processor (for its clients).  Additionally, we have updated our Privacy Program controls to address new requirements under GDPR. For more information, please read our complete Notice, linked to below or contact [privacy@cengage.com](mailto:privacy@cengage.com).
 
-If you are an educator, parent, or student, Cengage Learning is a service provider to your school or organization; please reach out to the appropriate contact at your school or organization with questions or inquiries. This notice does not cover other organizations' sites that may be accessible via links on our sites. These sites have their own privacy policies and we encourage you to read them.
+If you are an educator, parent or student, Cengage Learning is a service provider to your school or organization; please reach out to the appropriate contact at your school or organization with questions or inquiries. This notice does not cover other organizations' sites that may be accessible via links on our sites. These sites have their own privacy policies and we encourage you to read them.
 
 We also want our privacy practices to be very clear, so you can interact with us in confidence. The statements and links below may answer your questions about how we handle your Personal Information. For a complete notice, view the [Cengage Privacy Notice](http://www.cengage.com/privacy/statement). If you have any other questions, please contact us.
 
-{{formPostErrorMessage.message}} [{{formPostErrorMessage.code}}] 
-
 ##  Privacy Program Highlights 
-
-**We do not allow any children under 13 to register with Cengage, and we do not knowingly collect or use any Personal Information pertaining to children under 13 for our own purposes.**  If you believe that a child under 13 years of age has provided Personal Information to us, please contact [privacy@cengage.com](mailto:privacy@cengage.com) so that we may delete the information and take other appropriate steps to the protect the child.
-
-We have websites that enable parents and teachers to create accounts for children. We encourage parents and teachers to spend time online with children and to monitor their online activities.
-
-_We also provide digital products for use by children in K-12 schools, sometimes done  through LMS integrations, but we only collect and process information pertaining to these children as a processor for the educational institutions.  We do not use identifiable K-12 student information for our own purposes.  Additionally, many student records are protected by the Family and Educational Rights Privacy Act (FERPA). For information on your K-12 school’s privacy policies, please contact the administration._
-
-The [Cengage Privacy Notice](http://www.cengage.com/privacy/statement) describes how we handle the Personal Information we collect from college and higher-ed students, adult learners and others who register with Cengage and use our products for their own educational purposes. Here are the highlights of our practices:
-
-  * We collect Personal Information directly from you and other third parties (such as social media platforms, if you login to our applications from these sites).  We also collect information automatically when you use our products and applications. We use your Personal Information to provide you with the products and services and for related purposes (such as billing, customer service and product development). Depending on your preferences, we may send you marketing communications, including messages from our partners. You can opt-out of receiving marketing from us at any time by following the opt-in instructions contained in each communication.
-  * We may share your Personal Information with your school. For example, your instructors have access to all of the information generated by your use of the products you use for class. We may also provide Personal Information to your school as needed to investigate possible academic fraud or cheating. Your school uses your Personal Information in accordance with its own privacy policies.
-  * We may share your Personal Information with co-branding partners and other third parties with your consent. For example, you may use third-party apps via MindTap or MyCengage that provide services and features offered by third parties.
-  * We may share your Personal information with carefully selected third parties that provide products and services that may be of interest to you. For example, we may share information about pre-med students with companies that offer test prep services for medical school admissions.  If you do not want us to share your Personal Information with these third parties for their own marketing purposes, you can opt-out by contacting our Customer Service department by email at: [cengagebrain.support@cengage.com](mailto:cengagebrain.support@cengage.com) or phone at +1 800.354.9706 (M - F, 8:00 am - 6:00 pm ET).
-  * We may also share your Personal Information with other Cengage companies, our service providers (who do not use your information for their own purposes) and as required or permitted by law (such as in response to a subpoena or in connection with the sale of a business).
-  * If you have any questions about privacy, you can always contact us at [privacy@cengage.com](mailto:privacy@cengage.com).
-
-
-
-
-The [Cengage Privacy Notice](http://www.cengage.com/privacy/statement) describes how we handle the Personal Information we collect from teachers, instructors, school administrators, authors, editors, contributors and other educational professionals.  Here are the highlights of our practices:
-
-  * We collect Personal Information directly from you as well as from your school and other third parties (such as social media platforms, if you login to our applications from these sites).  We also collect information automatically when you use our products and applications.
-  * We use your Personal Information to provide you with the products and services and for related purposes (such as billing, customer service and product development).
-  * Depending on your preferences, we may send you marketing communications, including messages from our partners. You can opt-out of receiving marketing from us at any time by following the opt-in instructions contained in each communication.
-  * We may share your Personal Information with your school or company. For example, we provide our institutional clients with reports about how their instructors (and their students) use our products, including information that compares instructors within an organization.
-  * We may share your Personal Information with co-branding partners and other third parties with your consent. For example, you may use third-party apps via MindTap or MyCengage that provide services and features offered by third parties. We may share your Personal Information with carefully-selected third parties that provide products and services that may be of interest to you.  For example, we may provide subscriber lists containing your contact information with other publishers that offer products or services to educational professionals. If you do not want us to share your information with these third parties for their own marketing, you can opt-out by contacting our Customer Service department by email at: [cengagebrain.support@cengage.com](mailto:cengagebrain.support@cengage.com) or phone at +1 800.354.9706 (M - F, 8:00 am - 6:00 pm ET).
-  * We may share your Personal Information with other Cengage companies, our service providers and as required or permitted by law (such as in response to a subpoena or in connection with the sale of a business).
-  * If you have any questions about privacy, you can always contact us at [privacy@cengage.com](mailto:privacy@cengage.com).
-
-
 
 ##  Additional Privacy Program Information 
 
@@ -77,3 +51,5 @@ Cengage, Inc.
 Privacy Office  
 20 Channel Center  
 Boston MA 02210
+
+{{formPostErrorMessage.message}} [{{formPostErrorMessage.code}}] 
