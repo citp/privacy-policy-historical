@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sluggerotoole.com privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528124143id_/https%3A//sluggerotoole.com/re/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sluggerotoole.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229151647id_/https%3A//sluggerotoole.com/re/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Slugger O'Toole
 
@@ -25,5 +25,3 @@ Slugger O’Toole Limited (“We”) are committed to protecting and respecting 
 
 
 
-
-[](https://getinvited.to/slugger/housing-then-and-now/)
