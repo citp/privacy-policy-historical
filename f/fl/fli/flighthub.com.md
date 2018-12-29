@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flighthub.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124193424id_/http%3A//www.flighthub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flighthub.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229214717id_/https%3A//www.flighthub.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -53,6 +53,8 @@ Flighthub does not share any Personal Information about you with these advertise
 
 These advertisers may use combined information about your visits to our site and other sites in order to provide advertisements about related goods and services that you may be interested in. This privacy policy does not cover the policies or practices of these third-party advertisers.
 
+We offer personalized shopping experiences and advertising through Intent Media, which uses online identifiers to identify visitors. To view Intent Media’s privacy policy, click [here](http://intentmedia.com/privacy-policy/). To opt out, click [here](http://www.intentmedia.com/opt-out).
+
 **Personal Information**
 
 If you decide to register with us, we will collect Personal Information about you that you voluntarily share with us. We collect Personal Information that is necessary for us to provide you with the services offered on our site. As mentioned, this Personal Information includes things like your name, e-mail and mailing address and telephone number.
@@ -78,6 +80,8 @@ You should let us know if you do not want us to use your e-mail addresses to del
 We use different methods, including an e-mail delivery and marketing company, to send the e-mails that you have agreed to receive.
 
 Pixel tags and cookies may be used in those e-mail messages and at our website to help us measure the effectiveness of our advertising and to study how visitors use our site.
+
+Should you no longer wish to receive our promotions, you may use the unsubscribe link included in any email message that we send you. If you are a registered member, you can also modify your choice at any time on the [Account Manager](https://www.flighthub.com/my-account) page.
 
 **On-line Surveys and Contests**
 
@@ -208,3 +212,6 @@ Flighthub staff are parents and Flighthub believes that parents should play a ce
 **Contact Us**
 
 If you have any questions or concerns regarding this policy or our information handling practices, you may contact us via e-mail at [support@Flighthub.com](mailto:support@Flighthub.com) . We will attempt to respond to your questions or concerns within five (5) business days after we receive them.
+
+**Flighthub Inc.**  
+250 Water Street, Suite 205B, Summerside, P.E.I. C1N 1B6
