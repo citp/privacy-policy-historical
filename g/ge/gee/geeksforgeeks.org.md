@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the geeksforgeeks.org privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529071240id_/https%3A//www.geeksforgeeks.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geeksforgeeks.org privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229050227id_/https%3A//www.geeksforgeeks.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GeeksforGeeks
 
 ## Application Privacy Statement
 
-We Sanchhaya Education Pvt. Ltd., are registered and headquartered at BC 227, 2nd Floor, Matrix Business Tower, B4, Sector 132, Noida, UP-201301, hereinafter referred to as [GeeksforGeeks](https://www.geeksforgeeks.org/). At GeeksforGeeks, we value your trust & respect your privacy. This privacy statement (“Privacy Statement”) applies to the treatment of personally identifiable information submitted by, or otherwise obtained from, you in connection with the associated application (“Application”). The Application is provided by GeeksforGeeks (and may be provided by Geeksforgeeks on behalf of a GeeksforGeeks licensor or partner (“Application Partner”). By using or otherwise accessing the Application, you acknowledge that you accept the practices and policies outlined in this Privacy Statement.
+We Sanchhaya Education Pvt. Ltd., are registered and headquartered at BC 227, 2nd Floor, Matrix Business Tower, B4, Sector 132, Noida, UP-201301, hereinafter referred to as [GeeksforGeeks](https://www.geeksforgeeks.org/). We also offer paid [Courses](https://practice.geeksforgeeks.org/courses) managed by Sanchhaya Classes Pvt. Ltd. with registered office address B-142, Vishwash Park, Uttam Nagar, New Delhi, North Delhi, Delhi, India, 110059. At GeeksforGeeks, we value your trust & respect your privacy. This privacy statement (“Privacy Statement”) applies to the treatment of personally identifiable information submitted by, or otherwise obtained from, you in connection with the associated application (“Application”). The Application is provided by GeeksforGeeks (and may be provided by Geeksforgeeks on behalf of a GeeksforGeeks licensor or partner (“Application Partner”). By using or otherwise accessing the Application, you acknowledge that you accept the practices and policies outlined in this Privacy Statement.
 
 ## Information Collection and Use
 
@@ -70,6 +70,9 @@ The Application may permit you to link to other applications or websites. Such t
   
 We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity.  
 Our site and the services available through GeeksforGeeks are not intended for children under the age of 13. GeeksforGeeks does not knowingly or specifically collect information about children under the age of 13 and believes that children of any age should get their parents’ consent before giving out any personal information. We encourage you to participate in your child’s web experience.
+
+  
+
 
 ## What Personal Information can I Access?
 
