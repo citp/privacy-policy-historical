@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the childmind.org privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629170428id_/https%3A//childmind.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the childmind.org privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229182816id_/https%3A//childmind.org/privacy) for the most accurate reproduction.*
 
 # Online Privacy Statement | Child Mind Institute
 
