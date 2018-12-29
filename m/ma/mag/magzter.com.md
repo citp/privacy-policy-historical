@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the magzter.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629014414id_/https%3A//www.magzter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magzter.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229035257id_/https%3A//www.magzter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 [](https://www.magzter.com/)
 
-  *   * Lionel Messi
-  * FIFA World Cup
-  * Donald Trump
-  * Fitness
-  * Facebook
+  *   * Holiday
+  * New Year
+  * Celebrity Gossip
+  * Meghan Markle
+  * Yoga
   * |
   * Maxim
-  * Kiplinger's Personal Finance
   * Bloomberg Businessweek
+  * Kiplinger's Personal Finance
   * Entrepreneur
   * The Atlantic
 
