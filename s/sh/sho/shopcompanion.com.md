@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopcompanion.com privacy policy that was archived on 2017-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170829080311id_/https%3A//www.shop.com/AboutPrivacyPolicy-t.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopcompanion.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230003203id_/http%3A//www.shop.com/AboutPrivacyPolicy-t.xhtml) for the most accurate reproduction.*
 
 # SHOP.COM - Online Shopping Marketplace: Clothes, Shoes, Beauty, Electronics and More
 
@@ -66,6 +66,8 @@ Sometimes we hire companies to help deliver messages or services, such as a comp
 Regardless of any opt-out choices that you make under paragraph 3, we will disclose personal information when we believe in good faith that such disclosures (a) are required by law, including, for example, to comply with a court order or subpoena, or (b) will help to: enforce our Terms of Use; enforce contest, sweepstakes, promotions, and/or game rules; protect your safety or security, including the safety and security of property that belongs to you; and/or, protect the safety and security of our Site, SHOP MA, Inc., and/or third parties, including the safety and security of property that belongs to SHOP MA Inc. or third parties.
   10. Third-Party Marketers.  
 We do not rent or sell your personal information with third-party marketers without first obtaining your consent. Should this policy change in the future, we will post a notification of those changes to the Site.
+  11. Card Linked Offers.   
+For information on how we may use the payment card information and transaction details that you provide or we receive from third parties in connection with card-linked offers, please see the SHOP Local [Card Linking Terms of Use](https://img.shop.com/Image/resources/shoplocal/ShopLocal_Card_Linking_TermsofUse.pdf).
 
 
 
@@ -87,7 +89,7 @@ Whether you're ordering a catalog or making a purchase, we want you to feel safe
 
 You can access and update the contact information you gave us during registration (that is, your postal address, email address, or any other information that would directly enable us to contact you), or modify your opt-out choices, by going to My Account. You also have the ability to add new credit card or shipping information to [My Account](https://web.archive.org/nbts/myaccount.xhtml) when placing an order. If you have elected to store your credit card information with us, we only display the last four digits of your credit card number in the saved payment methods in the [My Account](https://web.archive.org/nbts/myaccount.xhtml) section. The full credit card information is stored on secure offline servers. For more information on how we protect your credit card information, see our Security section.
 
-If you want to review, modify or correct any of this information, simply click on this link or go to the My Account center on the Site, and then log in with your member name and password. If you have forgotten your password, there are instructions on the link above to help you recover your password. If you need to recover your password, you can also contact us via email at [customerservice@shop.com](https://web.archive.org/web/20170830235745id_/https://www.shop.com/info/customerservice@shop.com). Please include information in the email that will help us identify your account so we can assist you with your request. We may also provide you an opportunity to update your contact information and/or modify your opt-out choices by sending you an email or other communication that invites your response. Finally, you may unsubscribe from certain email communications by clicking on unsubscribe links in those emails.
+If you want to review, modify or correct any of this information, simply click on this link or go to the My Account center on the Site, and then log in with your member name and password. If you have forgotten your password, there are instructions on the link above to help you recover your password. If you need to recover your password, you can also contact us via email at [customerservice@shop.com](https://web.archive.org/web/20181230033841id_/https://www.shop.com/info/customerservice@shop.com). Please include information in the email that will help us identify your account so we can assist you with your request. We may also provide you an opportunity to update your contact information and/or modify your opt-out choices by sending you an email or other communication that invites your response. Finally, you may unsubscribe from certain email communications by clicking on unsubscribe links in those emails.
 
 ### CALIFORNIA RESIDENTS
 
@@ -106,7 +108,7 @@ We do not knowingly collect personal information from, or sell products for purc
   2. Legal Disclaimer.  
 We may disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with a legal process served on our Site.
   3. Notification of Changes.  
-Our business changes constantly and our Privacy Policy will change accordingly. You should check our Site frequently to recent changes. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.
+Our business changes constantly and our Privacy Policy will change accordingly. You should check our Site frequently to view recent changes. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.
 
 
 
@@ -120,4 +122,4 @@ SHOP MA, Inc
 Miami, FL 33137   
 email: [customerservice@shop.com](mailto:%20customerservice@shop.com)
 
-Updated 06/05/15
+Updated September 21, 2017
