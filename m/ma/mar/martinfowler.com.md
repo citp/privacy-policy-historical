@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the martinfowler.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629044932id_/http%3A//www.thoughtworks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the martinfowler.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229064743id_/http%3A//www.thoughtworks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ThoughtWorks
 
@@ -173,7 +173,7 @@ If you want to block the transmission and storage of your data and your behaviou
 
 To post a comment on our website (using a Disqus plug-in), you must log into your Disqus account. When you post a comment on the website, Disqus collects information about your visit to our website and other websites, including the information you post and your IP address. Your comment will be sent directly to the Disqus servers through an iframe.
 
-For more information about Disqus, visit [https://help.disqus.com/customer/portal/articles/466187](https://web.archive.org/web/20180629044932id_/http%3A//www.thoughtworks.com/visit%20https://help.disqus.com/customer/portal/articles/466187) and for more information about the Disqus privacy policy visit <https://help.disqus.com/customer/portal/articles/466259-privacy>.
+For more information about Disqus, visit [https://help.disqus.com/customer/portal/articles/466187](https://web.archive.org/web/20181229064743id_/http%3A//www.thoughtworks.com/visit%20https://help.disqus.com/customer/portal/articles/466187) and for more information about the Disqus privacy policy visit <https://help.disqus.com/customer/portal/articles/466259-privacy>.
 
 ####  _12.6 Facebook conversion pixels_
 
