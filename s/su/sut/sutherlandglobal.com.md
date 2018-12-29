@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sutherlandglobal.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629090123id_/https%3A//www.sutherlandglobal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sutherlandglobal.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229110303id_/https%3A//www.sutherlandglobal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Sutherland Global Services
 
@@ -327,3 +327,5 @@ Facsimile: 585-419-3717
 #### Changes to This Privacy Policy
 
 You should review this Privacy Policy on a routine basis as Sutherland reserves the right change this Privacy Policy, or any portion thereof, an updated version of our Privacy Policy will be posted to our website.
+
+[](https://privacy.truste.com/privacy-seal/validation?rid=749d4c88-fbe4-41e3-adf4-437089a494a7)
