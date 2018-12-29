@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the searshomeservices.com privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031152722id_/https%3A//www.searshomeservices.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searshomeservices.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229192756id_/https%3A//www.searshomeservices.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Sears Home Services
+# Privacy Policy
 
 _Last Updated: July 6, 2015_
 
@@ -8,7 +8,7 @@ This website or mobile application (“Site”) is owned and operated by a Sears
 
 **Please note that on April 7, 2014 Sears Holdings completed a spinoff of our subsidiary Lands’ End, which maintains its own privacy policy. You may view Lands’ End’s privacy policy by clicking here:** [www.landsend.com/customerservice/legal_policies/privacy](http://www.landsend.com/customerservice/legal_policies/privacy/). 
 
-Sears Holdings may update this Privacy Policy from time to time. Please check this Privacy Policy periodically for changes. If we make any changes, the updated policy will notify be posted to this Site with a revised "last updated" date. We encourage you to periodically review this page for the latest information on our privacy practices.
+Sears Holdings may update this Privacy Policy from time to time. Please check this Privacy Policy periodically for changes. If we make any changes, the updated policy will be posted to this Site with a revised "last updated" date. We encourage you to periodically review this page for the latest information on our privacy practices.
 
 Your use of this Site, and any disputes arising from it, are subject to this Privacy Policy as well as our Terms of Use and all of its dispute resolution provisions, including arbitration, class action waiver, limitation on damages and choice of law.
 
