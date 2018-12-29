@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the healthcabin.net privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629032242id_/https%3A//www.healthcabin.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthcabin.net privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229052747id_/https%3A//www.healthcabin.net/privacy.html) for the most accurate reproduction.*
 
-# Privacy Notice : Electronic Cigarettes Wholesale Distributor,Vape,e-Cig,eLiquid,Flavor - HealthCabin
+# Privacy Notice
 
 We understand that you are very concerned about the usage and sharing of your personal information. And we are very appreciated your belief on our prudence and sensitivity handling this issue. This declaration will specify our policy regarding the protection of your privacy. Our website is under the operation of healthcabin.net Inc.
 
