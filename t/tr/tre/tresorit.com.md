@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the tresorit.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629225455id_/https%3A//tresorit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tresorit.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229234059id_/https%3A//tresorit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tresorit
 
-For Tresorit, security and data privacy are of paramount importance. This Privacy Policy details our commitment to protecting the privacy of individuals in accordance with the GDPR.
+Effective date: 24 August 2018
+
+For Tresorit, security and data privacy are of paramount importance. This Privacy Policy describes our commitment to protect the privacy of individuals in accordance with the GDPR.
 
 The main content contains the legally binding full-length version. To help you understand the policies better, we collected some helpful notes at the end of each paragraph to sum up the key points of the main content.
 
-For Tresorit, security and data privacy are of paramount importance. This Privacy Policy details our commitment to protecting the privacy of individuals in accordance with the GDPR.
+For Tresorit, security and data privacy are of paramount importance. This Privacy Policy describes our commitment to protect the privacy of individuals in accordance with the GDPR.
 
 The main content on the left contains the legally binding full-length version. To help you understand our Privacy Policy better, we collected some helpful notes on the right to sum up the key points of the main content.
 
@@ -55,7 +57,7 @@ Tresorit services are provided by Tresorit AG (company registration no: CH-300.3
 
 Your data is processed by Tresorit. However, if you are a part of a business subscription, certain data is processed upon the instructions of your organization.
 
-If your account is part of a Business Domain in accordance with section III of our Terms, in certain cases, the ultimate decisions regarding your personal data will be made by your organisation. In such case, your company will be considered as a controller and Tresorit will act as a processor, acting upon the instructions of your organisation.
+If your account is part of a Business Domain – in accordance with section III of our Terms or you receive a Tresorit link from a user who is part of a Business Domain, in certain cases, the ultimate decisions regarding your personal data will be made by the relevant organisation. In such case, your company will be considered as a controller and Tresorit will act as a processor, acting upon the instructions of such organisation.
 
 In any case, certain activites of Tresorit are outsourced to third parties (processors), they may also use your personal data when acting on behalf of Tresorit. You can find more details about our sub-processors [here](https://support.tresorit.com/hc/en-us/articles/216114397-Third-party-services).
 
@@ -67,15 +69,19 @@ In any case, certain activites of Tresorit are outsourced to third parties (proc
 
 Certain basic information, like your name and email address, is necessary for setting up a Tresorit account.
 
-**Billing Information.** At the time of registration, you also need to provide us certain billing information. You might also provide payment information, such as payment card details, which we collect via secure payment processing services. This data is necessary in order to provide you Tresorit services.
+**Billing Information.** At the time of registration, you also need to provide certain billing information. You might also provide payment information, such as payment card details, which we collect via secure payment processing services. This data is necessary to provide you with Tresorit services.
 
 When you purchase a subscription, you also need to provide payment information, which will be handled by secure processing services.
 
-**Account information.** When you use our services, you provide us access to certain information (such as the name and the permission history of your Tresorit Folders) that is necessary for the provision and maintenance of your user account. For the avoidance of any doubt, Tresorit cannot connect such metadata information to Your Encrypted Content or file names as Tresorit has no access to the Encrypted Content or file names.
+**Account information.** When you use our services, you also give us access to certain information (such as the name and the permission history of your Tresorit Folders) that is necessary for the provision and maintenance of your user account. For the avoidance of any doubt, Tresorit cannot connect such metadata information to Your Encrypted Content or file names as Tresorit has no access to the Encrypted Content or file names.
 
 In order to send and deliver invitations upon your instructions, Tresorit stores and accesses certain personal data (such as the email address, name, Tresor name and its unique URL, storage account and username of the inviter and the invited person). Please note that your email address, first and last name are visible to others when you send them an invitation to, or if you accept an invitation.
 
 Some information about your Tresorit Folders is unencrypted, like its name, size and members. This is needed for features like your activity wall.
+
+**Detailed access logs.** If you open a Tresorit link where Detailed access logs are enabled, certain information (such as your email address, IP address and approx. location) may be logged for your open attempts. Please note that such information will be visible to the sender of the link.
+
+Detailed access logs is a security setting on share links. When turned on, content owners can track useful information such as the date, IP address, and the platforms that were used to download the contents of the link. And if you are signed in to Tresorit Web Access, your email address will also be visible to those who can access the logs.
 
 **Other Information.** You may decide to share further information, including personal data, with us when you contact our Support or Sales Teams, submit forms on our website or otherwise communicate with us. It is solely your decision to share any detailed, non-aggregated logs (which may contain e.g. non-encrypted filenames), your screen or any other data with us during such communications, so our processing of such data will be based on your consent.
 
@@ -138,7 +144,7 @@ We may process your personal data for several purposes. How we use your personal
 ### Communications 
 
   * We will send you technical notices, updates, security alerts, support and administrative messages. Please be aware that you cannot opt out of receiving certain service messages from us, including necessary security alerts and legal notices.
-  * We also send messages about how to use the services. You may [change your communication preferences](https://web.tresorit.com/account/profile) any time.
+  * We also send messages about how to use the services. You may [change your communication preferences](https://web.tresorit.com/account/profile) at any time.
   * Push notifications (in-app) may be sent to your device to notify you of new folders being shared or certain events or user actions regarding the user account or the user’s data. To opt out of push notifications, please edit settings at the device level.
   * Our service also enables communications between you and others. In particular, sending and delivering invitations, between you and the person who invites you or whom you invited.
 
@@ -160,7 +166,7 @@ We collect and analyze usage data from our users – this data is used for the r
 ### Marketing 
 
   * If you are an existing customer of Tresorit, we may use your email address and phone number provided to us to send you marketing communications, such as providing you with information about similar Tresorit products and services, unless you have opted-out.
-  * We may also use information about you, including web statistics and logs, to personalize the content and experience you receive on our websites or in our marketing communications, as well as by displaying Tresorit ads on other companies' websites and applications, such as on platforms like Facebook and Google. Where legally required, we also seek your consent for sending marketing communications.
+  * We may also use information about you, including web statistics and logs, to personalize the content and experience you receive on our websites or in our marketing communications, as well as by displaying Tresorit ads on other companies' websites and applications, such as on platforms like Facebook and Google. Where legally required, also seek your consent for sending marketing communications.
 
 
 
@@ -175,7 +181,7 @@ Some of your data is used for authentication. This is required to secure your ac
 ### Customer Support 
 
   * Occasionally, we connect personal information to information gathered in our log files as necessary to provide better customer experience and to improve our services. In such a case, we would treat the combined information in accordance with this policy.
-  * You may opt-out to send those statistics or logs any time by editing settings at device level, but please note that in this case, it might be more difficult to our support team to find the problem when something goes wrong.
+  * You may opt-out of these statistics or logs at any time by editing settings, but please note that in this case, it might be more difficult to our support team to find the problem when something goes wrong.
 
 
 
@@ -263,7 +269,7 @@ We take appropriate technical and organizational measures to protect your person
 
 ### B) Confidentiality
 
-We NEVER collect or store your files, encryption keys and passwords in an unencrypted or invertible form. The Encrypted Content and corresponding encryption keys can only be decrypted by you and persons with whom you explicitly share them with. If you have an account that is part of a Business Domain with recovery master key, Your Encrypted Content also may be accessed by your Subscription Owner as set out in our Terms.
+We NEVER collect or store your files, encryption keys and passwords in an unencrypted or invertible form. The Encrypted Content and corresponding encryption keys can only be decrypted by you and persons with whom you explicitly share them. If you have an account that is part of a Business Domain with recovery master key, Your Encrypted Content also may be accessed by your Subscription Owner as set out in our Terms.
 
 According to the best of Tresorit’s knowledge, the current state of the art and the public knowledge of the human race, Tresorit is unable to decrypt the Encrypted Content and accordingly, Tresorit cannot access it. As a result, we cannot use Your Encrypted Content to identify any individual.
 
@@ -336,13 +342,25 @@ If you have any questions, please contact us at [support@tresorit.com](mailto:su
 
 We have also appointed a data protection officer, whom you can reach at [dpo@tresorit.com](mailto:dpo@tresorit.com). We speak English.
 
-As Tresorit AG is located outside of the EU, we appointed our EU affiliate to represent us in relation to any GDPR-related issues. This does not change the fact that Tresorit AG is the controller who ultimately handles your data. If you wish, you can also contact them directly. The details of our EU located affiliate is available [here](https://web.archive.org/contact).
+As Tresorit AG is located outside of the EU, we appointed our EU affiliate to represent us in relation to any GDPR-related issues. This does not change the fact that Tresorit AG is the controller who ultimately handles your data. If you wish, you can also contact them directly:
+
+Tresorit Kft.
+
+Köztelek utca 6.
+
+1092 Budapest, Hungary
 
 ## Updates: Privacy Policy
 
 We want to be as transparent as possible about the changes we make to our Privacy Policy. In this archive you can see the previous versions of the policy.
 
-  * [Current version](https://web.archive.org/legal/privacy-policy)
-  * [10/24/2017](https://web.archive.org/legal/privacy-policy/archive/10-24-2017)
+  * [Current version (08/24/2018)](https://web.archive.org/legal/privacy-policy)
+
+Key changes:
+
+    * We have updated this policy to reflect the changes in our data processing activities as a result of the introduction of our Access logs feature, that enables the tracking of shared links.
+
+  * [25/05/2018](https://web.archive.org/legal/privacy-policy/archive/25-05-2018)
+  * [24/10/2017](https://web.archive.org/legal/privacy-policy/archive/24-10-2017)
 
 
