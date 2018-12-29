@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tcrf.net privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117184142id_/https%3A//tcrf.net/The_Cutting_Room_Floor%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcrf.net privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229133049id_/https%3A//tcrf.net/The_Cutting_Room_Floor%3APrivacy_policy) for the most accurate reproduction.*
 
 # The Cutting Room Floor:Privacy policy - The Cutting Room Floor
 
