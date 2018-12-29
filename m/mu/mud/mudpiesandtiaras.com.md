@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mudpiesandtiaras.com privacy policy that was archived on 2018-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180317130850id_/http%3A//www.mudpiesandtiaras.com/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mudpiesandtiaras.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229011209id_/http%3A//www.mudpiesandtiaras.com/our-privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy - MudPiesAndTiaras.comMudPiesAndTiaras.com
 
