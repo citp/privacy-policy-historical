@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the the99percent.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622133108id_/https%3A//www.adobe.com/privacy/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the99percent.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229044209id_/https%3A//www.adobe.com/privacy/policy.html) for the most accurate reproduction.*
 
 # Adobe Privacy Policy
 
 Last updated: May 3, 2018
 
-The Adobe Privacy Policy describes the privacy practices of Adobe’s apps and websites. If you are a resident of North America, your relationship is with Adobe Systems Incorporated (Adobe U.S.) and the laws of California and the United States apply.
+The Adobe Privacy Policy describes the privacy practices of Adobe’s apps and websites. If you are a resident of North America, your relationship is with Adobe Inc. (Adobe U.S.) and the laws of California and the United States apply.
 
 If you reside outside of North America, your relationship is with Adobe Systems Software Ireland Limited (Adobe Ireland), which is the controller with regard to your personal information collected by Adobe, and the laws of Ireland apply. 
 
