@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funkykit.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626013029id_/http%3A//www.funkykit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funkykit.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229171721id_/http%3A//www.funkykit.com/privacy) for the most accurate reproduction.*
 
 # Privacy - FunkyKit
 
@@ -89,3 +89,23 @@ We use Amazon Web services. All data protected is handled by AWS.
 ### What data breach procedures we have in place
 
 If there is a data breach we will announce it on our social media platforms and on our website.
+
+[ ](https://www.funkykit.com/news/pc-computers/weekend-hardware-round-up-29th-december-2018/ "Weekend Hardware Round Up 29th December 2018")
+
+###  [ Weekend Hardware Round Up 29th December 2018 ](https://www.funkykit.com/news/pc-computers/weekend-hardware-round-up-29th-december-2018/ "Weekend Hardware Round Up 29th December 2018")
+
+PC & Computers 
+
+__December 29, 2018
+
+Here is this weeks Weekend Hardware Round Up 29th December 2018. Graphics Cards: ZOTAC GAMING GeForce RTX 2080 Ti AMP Extreme Review @ Guru3d Motherboards [...](https://www.funkykit.com/news/pc-computers/weekend-hardware-round-up-29th-december-2018/ "Weekend Hardware Round Up 29th December 2018")
+
+[ ](https://www.funkykit.com/news/pc-computers/weekend-hardware-round-up-22nd-december-2018/ "Weekend Hardware Round Up 22nd December 2018")
+
+###  [ Weekend Hardware Round Up 22nd December 2018 ](https://www.funkykit.com/news/pc-computers/weekend-hardware-round-up-22nd-december-2018/ "Weekend Hardware Round Up 22nd December 2018")
+
+PC & Computers 
+
+__December 22, 2018
+
+Here is this weeks Weekend Hardware Round Up 22nd December 2018. Graphics Cards: ZOTAC RTX 2080 AMP Extreme Video Card Review @ Hardware Asylum Motherboards [...](https://www.funkykit.com/news/pc-computers/weekend-hardware-round-up-22nd-december-2018/ "Weekend Hardware Round Up 22nd December 2018")
