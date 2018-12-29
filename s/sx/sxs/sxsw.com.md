@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sxsw.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629184552id_/https%3A//www.sxsw.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sxsw.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229200652id_/https%3A//www.sxsw.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SXSW Conference & Festivals
 
-Last modified: May 24, 2018
+Last modified: July 30, 2018
 
 SXSW, LLC, its agents, subsidiaries and affiliates (“SXSW”) produces the SXSW Conference and Festivals, SXSW EDU Conference and Festival, and SXSW Gaming Festival (collectively, the “Events”), and is committed to respecting your privacy. This Privacy Policy identifies what information is collected about you and how it’s used by SXSW when you use the websites [sxsw.com](http://www.sxsw.com/), [sxswedu.com](http://sxswedu.com/), [gaming.sxsw.com](http://gaming.sxsw.com/), explore.sxsw.com, or the SXSW GO mobile app (collectively, the “Site”), purchase goods or services, or communicate with SXSW.
 
@@ -61,7 +61,7 @@ Badges and Other Website Purchases
 
 **Badge Usage**
 
-  * SXSW scans Badges for RFID at the entrance of official SXSW events to discourage counterfeiting and to communicate with you about the Event. For example, SXSW may email you asking for feedback based on a panel you attended. RFID does not contain any personal data, however, it contains a unique ID code that may be correlated with your personal data, such as your name, phone number, mailing address and email address. SXSW does not share RFID information with third-parties for their marketing purposes, and SXSW does not track RFID tags after SXSW has ended. For more about the RFID Policy, please visit [www.sxsw.com/rfid](https://www.sxsw.com/rfid/), and direct questions regarding RFID to [rfid at sxsw.com](mailto:rfid@sxsw.com). 
+  * SXSW scans Badges for RFID at the entrance of official SXSW events to discourage counterfeiting, communicate with you about the Event, and tailor future offerings based on attendance. For example, SXSW may email you asking for feedback based on a panel you attended. RFID does not contain any personal data, however, it contains a unique ID code that may be correlated with your personal data, such as your name, phone number, mailing address and email address. SXSW does not share RFID information with third-parties for their marketing purposes, and SXSW does not track RFID tags after SXSW has ended. For more about the RFID Policy, please visit [www.sxsw.com/rfid](https://www.sxsw.com/rfid/), and direct questions regarding RFID to [rfid at sxsw.com](mailto:rfid@sxsw.com). 
   * You can also choose to scan your Badge to participate in lead retrieval, which is a program for SXSW official clients to collect information from and to communicate with SXSW badge-holders. If you elect to participate in lead retrieval and have your Badge scanned, you will share your name, email address, phone number, company, title, City, State, and Country with the company scanning your Badge. SXSW may also use this data for aggregate reporting. 
 
 
@@ -134,4 +134,4 @@ You may contact us by U.S. mail with any questions about this Privacy Policy at:
 
 * * *
 
-2017 Archive: [9/21/17](https://www.sxsw.com/wp-content/uploads/2018/05/Privacy-Policy-September-21-2017.pdf) [6/9/17](https://www.sxsw.com/wp-content/uploads/2016/05/Privacy-Policy-SXSW-June-9-2017.pdf) [6/15/16](https://web.archive.org/wp-content/uploads/2016/05/Privacy-Policy-_-South-by-Southwest-2017-Conference-Festivals-Austin-Texas.pdf) | [2016 Archive](https://web.archive.org/wp-content/uploads/2016/05/Privacy-Policy-SXSW-2016.pdf) | [2015 Archive](https://web.archive.org/wp-content/uploads/2016/05/Privacy-Policy-SXSW-2015.pdf)
+2018 Archive: [5/24/18](https://www.sxsw.com/wp-content/uploads/2018/07/Privacy-Policy-SXSW-Conference-Festivals.pdf) | 2017 Archive: [9/21/17](https://www.sxsw.com/wp-content/uploads/2018/05/Privacy-Policy-September-21-2017.pdf) [6/9/17](https://www.sxsw.com/wp-content/uploads/2016/05/Privacy-Policy-SXSW-June-9-2017.pdf) [6/15/16](https://web.archive.org/wp-content/uploads/2016/05/Privacy-Policy-_-South-by-Southwest-2017-Conference-Festivals-Austin-Texas.pdf) | [2016 Archive](https://web.archive.org/wp-content/uploads/2016/05/Privacy-Policy-SXSW-2016.pdf) | [2015 Archive](https://web.archive.org/wp-content/uploads/2016/05/Privacy-Policy-SXSW-2015.pdf)
