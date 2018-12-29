@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dtscout.com privacy policy that was archived on 2017-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170728180412id_/http%3A//www.dtscout.com/techpolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dtscout.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229060915id_/http%3A//www.dtscout.com/techpolicy.html) for the most accurate reproduction.*
 
 # Technology Privacy Policy
 
@@ -46,9 +46,9 @@ Disclaimer:
 
 Please note the following reservations with regard to our Partners, for which we have no affiliation with or responsibility for any of their activities:
 
-  * We recommend you review Partners’ respective privacy policies, links available in our “[data Partners](https://web.archive.org/web/20170728180412id_/http%3A//www.dtscout.com/index.html#partners)” section. Partners’ activity is subject to their respective policies and practices.
-  * You may be required to visit Partners’ websites in order to opt out their cookies. Relevant links may be present in our “[data Partners](https://web.archive.org/web/20170728180412id_/http%3A//www.dtscout.com/index.html#partners)” section.
-  * While we require our partners to uphold this privacy policy, we do not monitor or control such third parties cookies and accordingly we are not responsible or liable in any manner to the type of information collected by such third parties cookies. If you would like to file a compliant regarding such third party activity you can contact us at [info@dtscout.com](mailto:info@dtscout.com).
+  * We recommend you review Partners’ respective privacy policies, links available in our “[data Partners](https://web.archive.org/web/20181229060915id_/http%3A//www.dtscout.com/index.html#partners)” section. Partners’ activity is subject to their respective policies and practices.
+  * You may be required to visit Partners’ websites in order to opt out their cookies. Relevant links may be present in our “[data Partners](https://web.archive.org/web/20181229060915id_/http%3A//www.dtscout.com/index.html#partners)” section.
+  * While we require our partners to uphold this privacy policy, we do not monitor or control such third parties cookies and accordingly we are not responsible or liable in any manner to the type of information collected by such third parties cookies. If you would like to file a compliant regarding such third party activity you can contact us at [privacy@dtscout.com](mailto:privacy@dtscout.com?subject=DTScout%20Privacy%20Inquiry).
   * We are not responsible for any of the content published on supply Partners’ websites.
   * We may offer in our documentation and/or website Partners’ summaries, logos and links to their websites and third party publications and/or websites may refer or link to our website; this should not be seen as notice of affiliation, endorsement, authorization or representation.
 
@@ -64,9 +64,19 @@ A cookie is a small text file that is stored in a web browser directory by a web
   
 
 
-DTS respects your choices with regard to online privacy, you can opt-out at any time using the following [opt out link](https://web.archive.org/web/20170728180412id_/http%3A//www.dtscout.com/opt-out.php) in order to opt-out from all/some of our data Partners. Please note that your browser enables you to disable all cookies (if you do not know how to do this, consult with your browsers’ "Help" tab), however, this may interfere with your use of various online services and websites.
+DTS respects your choices with regard to online privacy, you can opt-out at any time using the following [opt out link](https://web.archive.org/web/20181229060915id_/http%3A//www.dtscout.com/index.html#privacy) in order to opt-out from DTS services. Please note that your browser enables you to disable all cookies (if you do not know how to do this, consult with your browsers’ "Help" tab), however, this may interfere with your use of various online services and websites.
 
 Opting out results in embedding opt-out cookies on your browser that notify demand side servers not to interact with your browser: if you delete/purge cookies and remove the said opt out cookie, upgrade or use a different computer or browser, or take any action which results in the deletion of the "opt out" cookie than you will need to opt out again.
+
+You may wish to wish the following opt out tools to manage your choices from various advertising networks:  
+[Manage Choices (NAI)](http://www.networkadvertising.org/choices/)  
+[Manage Choices (DAA)](http://optout.aboutads.info/?c=2#!/)  
+[Manage Choices (EU - EDAA)](http://www.youronlinechoices.com/)
+
+  
+
+
+You can utilize our data retrieval tool to request a copy of your data or request your data be delete from our systems. Inquries will be responded to as soon as possible via the email address provided in the form. To utilize this servive please click on the "User Requests" section of the [Privacy Center](https://web.archive.org/#privacy). 
 
   
 
@@ -76,7 +86,7 @@ DTS does not collect or store sensitive information such as personally identifia
   
 
 
-DTS’s servers are located in the United States (US); you should know that your information is transferred to the US while you may be exposed to our Technology from anywhere in the world. Be advised that US laws governing the collection, disclosure and use of your information (PII and NPII) may differ from the information legislation present in your territory. Through your continued use of the Technology you agree to accept US information related law.
+DTS’s servers are located in the United States (US) and Canada (CA); you should know that your information is transferred to the US and/or Canada while you may be exposed to our Technology from anywhere in the world. Be advised that US and Canadian laws governing the collection, disclosure and use of your information (PII and NPII) may differ from the information legislation present in your territory. Through your continued use of the Technology you agree to accept US and/or Canadian information related law.
 
   
 
@@ -90,6 +100,7 @@ It is supply Partners’ and their respective supply Partners’ responsibility 
 
 Supply Partners are obligated to present a clear, prominent and permanent notification or link to such notification in all pages where DTS Technology is being used. Said notice should offer an opt-out link and can link to the DTS Technology Privacy Policy in order to improve transparency and empower users’ choices. Proper notice and an opt-out link should also be offered in the relevant website’s privacy policies.
 
+  
   
 
 
@@ -106,9 +117,10 @@ Otherwise, we will not disclose your Personal Information to any third party, un
   
 
 
-Please contact us at [info@dtscout.com](mailto:info@dtscout.com) if you have further questions, concerns or complaints having to do with DTS privacy related practices.
+Please contact us at [privacy@dtscout.com](mailto:privacy@dtscout.com?subject=DTScout%20Privacy%20Inquiry) if you have further questions, concerns or complaints having to do with DTS privacy related practices.
 
+  
   
 
 
-This policy was last updated on January 1, 2014.
+This policy was last updated on May 20, 2018.
