@@ -1,22 +1,18 @@
-> *The following text is extracted and transformed from the wish.org privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629034524id_/http%3A//wish.org/content/terms-and-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wish.org privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229092520id_/http%3A//wish.org/content/terms-and-policy) for the most accurate reproduction.*
 
 # Privacy Policy & Terms | Make-A-Wish® America
 
-Make-A-Wish Foundation® of America (“Make-A-Wish”) respects the privacy interests and preferences of our donors and website visitors. We are committed to full transparency in outlining what information we collect about donors and visitors, how it is used and how you can opt-out of those programs (online or by traditional communications) if you so choose. 
+Make-A-Wish Foundation® of America (“Make-A-Wish”) respects the privacy interests and preferences of our donors and website visitors. We are committed to full transparency in outlining what information we collect about donors and visitors, how it is used and how you can opt-out of those programs (online or traditional communications) if you so choose. 
 
 ### Personal contact information we collect and what we do with it 
 
-When you are making a donation, purchasing a product, expressing an interest in referring a wish child, contributing to our guest book, or subscribing to our online newsletter, Make-A-Wish asks you for personal contact information such as your name, mailing address, phone number and e-mail address. We may use this contact information to provide you with a receipt or financial report; to contact you to clarify or obtain additional information about an order you placed, a donation you made, or a wish child you have referred; or to send you additional information about Make-A-Wish.
+When you are making a donation, purchasing a product, expressing an interest in referring a wish child, contributing to our guest book, or subscribing to our online newsletter, Make-A-Wish asks you for personal contact information such as your name, mailing address, phone number and e-mail address. We may use this contact information to provide you with a receipt or financial report; to contact you to clarify or obtain information about an order you placed, a donation you made, or a wish child you have referred; or to send you additional information about Make-A-Wish.
 
-If you make a donation, we may contact you on occasion to offer you an opportunity to make another gift, or to inform you of promotions involving third-party sponsors that will directly benefit Make-A-Wish. You may also receive a personal call from a Make-A-Wish staff member or volunteer thanking you for your donation. You will always have the opportunity to opt-out of future communications from us.
+If you make a donation, we may contact you from time to time (by a staff member or volunteer - we do not use outside vendors to communicate with donors nor do we engage in telemarketing to offer you an opportunity to make another gift, or to offer services from third parties that will directly benefit Make-A-Wish. We will always give you the opportunity to opt-out of future communications from us.
 
-From time to time, Make-A-Wish rents or exchanges its list of direct mail supporters with other trusted organizations to benefit our programs and activities. We have found this to be the most cost-effective method of reaching additional potential constituents and hope you value the information they send you. Your name is only made available to these carefully screened organizations through third-party mailing agents for a limited use. Such organizations will not have continued access to your name and address unless you choose to respond to their initial mailing. You have the opportunity to have your name removed from a list rental or exchange by writing to us at:
+From time to time, Make-A-Wish rents or exchanges its list of supporters with other trusted organizations to benefit our programs and activities. We have found this to be the most cost-effective method of reaching additional potential constituents and hope you value the information they send you. Your name is only made available to these carefully screened organizations through third-party mailing agents for a limited use. Such organizations will not have continued access to your name and address unless you choose to respond to their initial mailing. You have the opportunity to have your name removed from a list rental or exchange (we only rent/exchange direct mail lists) by writing to us at 1702 E. Highland Avenue, Suite 400, Phoenix, AZ  85016.
 
-Make-A-Wish Foundation of America  
-4742 N. 24th Street, Suite 400  
-Phoenix, AZ  85016
-
-Personal contact information may also be shared with certain vendors ( _i.e.,_ reputable companies we use for services such as shipping Make-A-Wish products or sending Make-A-Wish mail). We have confidentiality agreements in place with all such companies to protect your privacy. Finally, in some cases when you wish to refer a child, make a donation to your local chapter, or ask for local chapter information, your contact information may be passed on to your local chapter.
+Personal contact information may also be shared with certain vendors, i.e., reputable companies we use for services such as shipping Make-A-Wish products or sending Make-A-Wish mail. We have confidentiality agreements in place with all such companies to protect your privacy. Finally, in some cases when you wish to refer a child, make a donation to your local chapter, or ask for local chapter information, your contact information may be passed on to your local chapter.
 
 ### Personal billing information we collect and what we do with it
 
@@ -38,7 +34,7 @@ Also, with the exception of credit card numbers, which are not retained, you can
 
 Make-A-Wish Foundation of America   
 Attention: Donor Care   
-4742 N. 24th St., Suite 400  
+1702 E. Highland Avenue, Suite 400  
 Phoenix, AZ 85016-4862
 
 E-mail address:  [donorcare@wish.org](mailto:donorcare@wish.org)
