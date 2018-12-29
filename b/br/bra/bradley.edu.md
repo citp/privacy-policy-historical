@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bradley.edu privacy policy that was archived on 2017-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171103144229id_/https%3A//www.bradley.edu/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bradley.edu privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229190117id_/https%3A//www.bradley.edu/legal/privacy) for the most accurate reproduction.*
 
-# Bradley University: Privacy Policy
+# Privacy Policy - Bradley University
 
 The following policy describes the information gathering and dissemination practices for the Bradley University main website (www.bradley.edu). Other websites in the bradley.edu domain and other affiliated University websites/domains may have alternate privacy policies disclosed on the specific website.
 
