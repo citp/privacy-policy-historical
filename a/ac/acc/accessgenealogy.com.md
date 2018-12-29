@@ -1,15 +1,8 @@
-> *The following text is extracted and transformed from the accessgenealogy.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622160340id_/https%3A//www.accessgenealogy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accessgenealogy.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229170757id_/https%3A//www.accessgenealogy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Access Genealogy
 
 At AccessGenealogy, the privacy of our visitors is of extreme importance to us (See [this article](http://en.wikipedia.org/wiki/Privacy_policy) to learn more about Privacy Policies.). This privacy policy document outlines the types of personal information is received and collected by AccessGenealogy and how it is used.
-
-Discover your  
-family's story.
-
-Enter a grandparent's name to get started.
-
-Start Now
 
 ### Log Files
 
@@ -69,4 +62,4 @@ All of my activity falls within the bounds of the [Google Analytics Terms of Ser
 
 Want to opt out of tracking?
 
-You can also opt out of Google’s advertising tracking cookie or use a browser plugin to [opt out of all Google Analytics tracking software](https://tools.google.com/dlpage/gaoptout).
+You can also opt out of Google’s advertising tracking cookie or use a browser plugin to [opt out of all Google Analytics tracking software](https://tools.google.com/dlpage/gaoptout). 
