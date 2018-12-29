@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harvardmagazine.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622121725id_/https%3A//www.harvardmagazine.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harvardmagazine.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229125346id_/https%3A//www.harvardmagazine.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Harvard Magazine
 
@@ -12,15 +12,15 @@ Besides e-mail addresses, the information we may request on our Web forms includ
 
 Some members of _Harvard Magazine_ ’s staff are authorized to cross-check information collected by this website against information stored in Harvard University databases (maintained elsewhere). _Harvard Magazine_  does not retain external data; when we are authorized to access Harvard University data, we handle it very carefully, use it only for specific business purposes, and then discard it using secure means.
 
-Our Web server generates log files of the [IP addresses ](http://en.wikipedia.org/wiki/Ip_address)of computers that access this website and of what files they access. These logs may be archived. 
+Our Web server generates log files of the [IP addresses ](https://en.wikipedia.org/wiki/Ip_address)of computers that access this website and of what files they access. These logs may be archived. 
 
-We use [cookies](http://en.wikipedia.org/wiki/HTTP_cookie) to maintain a user’s identity between Web sessions. 
+We use [cookies](https://en.wikipedia.org/wiki/HTTP_cookie) to maintain a user’s identity between Web sessions. 
 
-Our website uses [Google Analytics](http://www.google.com/analytics) tracking software. We use it to generate statistical reports and learn how people use our website. We share information about our Web traffic with business partners (such as advertisers), but these reports never contain personally identifiable information. 
+Our website uses [Google Analytics](https://www.google.com/analytics) tracking software. We use it to generate statistical reports and learn how people use our website. We share information about our Web traffic with business partners (such as advertisers), but these reports never contain personally identifiable information. 
 
-Our website uses third-party ad-serving software to display its advertising. The software is provided by [Google AdSense](http://www.google.com/adsense), [Google DoubleClick for Publishers](https://www.google.com/dfp/info/welcome.html), [AdSpeed](http://www.adspeed.com/), and [Oath](https://www.oath.com/). This software uses cookies to identify [unique visitors](http://en.wikipedia.org/wiki/Unique_visitor)—frequently tracking visitors across multiple websites. 
+Our website uses third-party ad-serving software to display its advertising. The software is provided by [Google AdSense](https://www.google.com/adsense), [Google DoubleClick for Publishers](https://www.google.com/dfp/info/welcome.html), [AdSpeed](https://www.adspeed.com/), and [Oath](https://www.oath.com/). This software uses cookies to identify [unique visitors](https://en.wikipedia.org/wiki/Unique_visitor)—frequently tracking visitors across multiple websites. 
 
-Our website uses third-party sharing tools (such as a tool that allows you to e-mail articles to friends by clicking links on our pages). Specifically, we use [AddThis.com](http://www.addthis.com/), which maintains its own [privacy policy](http://www.addthis.com/privacy). 
+Our website uses third-party sharing tools (such as a tool that allows you to e-mail articles to friends by clicking links on our pages). Specifically, we use [AddThis.com](https://www.addthis.com/), which maintains its own [privacy policy](https://www.addthis.com/privacy). 
 
 This website may contain links to other websites. We are not responsible for the privacy practices or the content of other websites.
 
@@ -32,11 +32,11 @@ If you are located in the European Union, Iceland, Liechtenstein or Norway (the 
 
  _Harvard Magazine_ has taken reasonable precautions to secure the personal information collected. The alumni notes and obituaries section of this site, for example, is password-protected to allow access to registered users only. Registration and subsequent access to class notes and obituaries is limited to members of the Harvard community.
 
-Systems that relay payment information are [PCI-compliant](http://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard).
+Systems that relay payment information are [PCI-compliant](https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard).
 
 ### Contacting Us
 
-If you have any questions about this privacy statement, the practices of this website, or your dealings with this website, please contact our webmaster ([[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#fd8a989f909c8e89988fbd959c8f8b9c8f99909c9ad39e9290)).
+If you have any questions about this privacy statement, the practices of this website, or your dealings with this website, please contact our webmaster ([[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3e495b5c535f4d4a5b4c7e565f4c485f4c5a535f59105d5153)).
 
 ### Changes to this Policy
 
