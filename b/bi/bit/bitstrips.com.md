@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bitstrips.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626030319id_/https%3A//www.snap.com/privacy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitstrips.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229224539id_/https%3A//www.snap.com/privacy/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Center – Snap Inc.
 
-Last Modified: May 15, 2018
+Last Modified: October 1, 2018
 
 Snap Inc. is a camera company. Our services—including Snapchat, Bitmoji, and others that link to this Privacy Policy—provide fast and fun ways to express yourself, live in the moment, learn about the world, and have fun together!
 
@@ -63,13 +63,12 @@ When you use our services, we collect information about which of those services 
 
 ### Information We Collect from Third Parties
 
-We may collect information that other users provide about you when they use our services. For example, if another user allows us to collect information from their device phonebook—and you’re one of that user’s contacts—we may combine the information we collect from that user’s phonebook with other information we have collected about you.
+We may collect information about you from other users, our [affiliates](https://support.snapchat.com/a/snap-affiliates), and third parties. Here are a few examples:
 
-We may also obtain information from our [affiliates](https://support.snapchat.com/a/snap-affiliates) and third parties. Here are a few examples:
-
-  * If you link your Snapchat account to Bitmoji, we’ll receive information so you can use your Bitmoji on our services.
+  * If you link your Snapchat account to another service (like Bitmoji or a third-party app), we may receive information from the other service, like how you use that service.
   * Advertisers may let us know you installed a new app or game so we can determine whether we showed you an ad for it.
   * If you interact with one of our advertisers, they may share information with us to help target or measure the performance of ads. You can learn more about these types of ads in our [Support Center](https://support.snapchat.com/a/advertising-preferences).
+  * If another user uploads their contact list, we may combine information from that user’s contact list with other information we have collected about you.
 
 
 
