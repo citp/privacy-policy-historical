@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the bankifscpincodenumber.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627234148id_/http%3A//bankifscpincodenumber.com/HtmlPages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankifscpincodenumber.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229233031id_/https%3A//bankifscpincodenumber.com/HtmlPages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # bankifscpincodenumber.com - Privacy Policy
-
-  
-
 
 The Privacy Policy by Bank IFSC Pin Code Number has been developed to make sure that our subscribers are aware of the possible use of information gathered by us during the subscription process. All this will help us to evolve into a better unit with focus entirely on client satisfaction. 
 
