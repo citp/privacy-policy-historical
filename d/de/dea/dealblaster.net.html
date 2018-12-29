@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dealblaster.net privacy policy that was archived on 2018-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180627081453id_/http%3A//www.dealblaster.net/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dealblaster.net privacy policy that was archived on 2018-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181229065739id_/http%3A//www.dealblaster.net/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <base href="http://www.dealblaster.net/">
@@ -37,22 +37,13 @@
                 <a href="http://www.dealblaster.net/" class="logo"><img src="images/db-logo.png" class="img-responsive site-logo"></a>
             </div>
             <div class="col-md-8 col-sm-8 col-xs-12">
-            <form name="srch_frm" method="post" id="SForm" class="search-form">
-                <div class="input-group">
-                
-                <input type="search" class="form-control" name="new_search_data" id="new_search_data" value="" placeholder="Find your deal.." required="">
-                  <span class="input-group-btn"><button type="button" class="btn btn-primary" onclick="
-                  if(document.getElementById('new_search_data').value!='')
-                  {
-                      search_product22();
-                  }
-                  else
-                  {
-                      alert('Please enter your search term..');
-                  }
-                  "><span class="glyphicon glyphicon-search" aria-hidden="true"></span></button></span>
+            <form role="search" method="get" name="top_search" class="search-form" action="http://www.dealblaster.net/" onsubmit=" window.location.href='http://www.dealblaster.net/results-conn/'+document.top_search.con_search_data.value+'/' ; return false; " style="margin:0;">
+                <div class="input-group" style="margin:15px 0px 25px 0px;">
+                    <input type="search" class="form-control" name="con_search_data" id="con_search_data" value="" placeholder="Find your deal.." required="">
+                    <span class="input-group-btn">
+                        <button type="submit" class="btn btn-primary"><span class="glyphicon glyphicon-search" aria-hidden="true"></span></button>
+                    </span>
                 </div>
-                <input type="hidden" name="act" id="act" value="get_product_search_xml">
             </form>
             </div>
         </div>
@@ -73,55 +64,16 @@
         <li><a class="home" title="Home" href="http://www.dealblaster.net/">Home</a></li>
         <li><a class="appliances" title="Appliances" href="http://www.dealblaster.net/r/appliances/">Appliances</a></li>
         <li><a class="baby" title="Baby" href="http://www.dealblaster.net/r/baby/">Baby</a></li>
+        <li><a class="tv" title="TV" href="http://www.dealblaster.net/r/computers_software/">Computers &amp; Software</a></li>
         <li><a class="electronics" title="Electronics" href="http://www.dealblaster.net/r/electronics/">Electronics</a></li>
-        <li><a class="toys" title="Toys" href="http://www.dealblaster.net/r/toys/">Toys</a></li>
-        <li><a class="jewellery" title="Jewellery" href="http://www.dealblaster.net/r/jewellery/">Jewellery</a></li>
-        <li><a class="watches" title="Watches" href="http://www.dealblaster.net/r/watches/">Watches </a></li>
-        <li><a class="tv" title="TV" href="http://www.dealblaster.net/r/TV/">TV </a></li>
+        <li><a class="jewellery" title="Jewellery" href="http://www.dealblaster.net/r/jewellery_watches/">Jewellery &amp; Watches</a></li>
         <li><a class="garden" title="Garden" href="http://www.dealblaster.net/r/garden/">Garden</a></li>
-        <li><a class="gaming_consoles" title="Gaming Consoles" href="http://www.dealblaster.net/r/gaming%20consoles/">Gaming Consoles</a></li>
+        <li><a class="gaming_consoles" title="Gaming Consoles" href="http://www.dealblaster.net/r/gaming_consoles/">Gaming Consoles</a></li>
+        <li><a class="toys" title="Toys" href="http://www.dealblaster.net/r/toys/">Toys</a></li>
       </ul>
     </div>
   </div>
 </nav>
-<script>
-function search_product22()
-{ 
-	document.location.href='http://www.dealblaster.net/results/'+document.srch_frm.new_search_data.value+"/";
-	return false; 
-}
-function set_search( obj)
-{
-	if( obj.value=="What are you shopping for?"  )
-		obj.value="";
-}
-function set_blank( obj )
-{
-	if( obj.value==""  )
-		obj.value="What are you shopping for?";
-}
-function compaer_product( prod_id )
-{
-	var s="";
-	if( "What are you shopping for?"!=""  &&  "What are you shopping for?"!="What are you searching for?"  )
-		s="&search_data=What are you shopping for?";
-	document.location.href="http://www.dealblaster.net/site/index.php?act=view_compare&prod_id="+prod_id + s;
-}
-function search_product()
-{
-	var s;
-	var f=document.form2
-	if(f.search_data.value=="" || f.search_data.value=="What are you searching for?" )
-		alert("Please fill search field to proceed.");
-	else
-	{
-		var k=f.search_data.value;
-		var l=f.action='http://www.dealblaster.net/'+'searchresults/'+k+'/';		window.location = l;
- 	}			
-}
-</script>
-
-
     <div class="main-section" style="padding:15px 0px;">
     	<div class="container"><ol class="breadcrumb">
     <li><a href="">Home</a></li>
