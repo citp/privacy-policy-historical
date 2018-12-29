@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the regmovies.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629200427id_/https%3A//www.regmovies.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regmovies.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229212001id_/https%3A//www.regmovies.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Regal Cinemas & Regal Entertainment Group
 
@@ -36,7 +36,7 @@ Regal Cinemas, Inc. 101 E. Blount Avenue, Knoxville, TN 37920 Attention: Custome
 
 Or call us at: 865.922.1123
 
-You can also opt-out of receiving future text messages at any time by texting STOP to 61633 from your mobile phone. You agree that if you request to opt out from future messages, we may send you a one-time opt-out confirmation text message. 
+You can also opt-out of receiving future text messages at any time by texting STOP to 61633 from your mobile phone. You agree that if you request to opt out from future messages, we may send you a one-time opt-out confirmation text message.
 
 **Policy Modifications** We reserve the right to change the terms of this Privacy Policy from time to time. We will post any changes here, so please check back periodically. Your continued use of our web site after any change has been posted constitutes acceptance of the change to this Privacy Policy.
 
