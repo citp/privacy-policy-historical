@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the advisorymandi.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616005116id_/http%3A//www.advisorymandi.com/privacy-disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advisorymandi.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229085340id_/http%3A//www.advisorymandi.com/privacy-disclaimer) for the most accurate reproduction.*
 
 # Stock Market Advisory | Stock Trading Advice | Share Market Advisors
 
