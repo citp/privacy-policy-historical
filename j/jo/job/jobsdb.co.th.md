@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsdb.co.th privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625130724id_/http%3A//th.jobsdb.com/en-th/pages/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsdb.co.th privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230001841id_/https%3A//th.jobsdb.com/en-th/pages/terms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | jobsDB Thailand
 
@@ -113,7 +113,7 @@ where the information and/or data is disclosed and/or transferred to any agents,
   
 (c) | 
 
-where permitted under the “ **[Terms and Conditions](http://th.jobsdb.com/en-th/pages/terms/terms-conditions)** ” including the “ **[Talent Search Terms and Conditions](http://th.jobsdb.com/en-th/pages/terms/talent-search-offer-terms)** ” (see the Profiles Section below);
+where permitted under the “ **[Terms and Conditions](https://th.jobsdb.com/en-th/pages/terms/terms-conditions)** ” including the “ **[Talent Search Terms and Conditions](https://th.jobsdb.com/en-th/pages/terms/talent-search-offer-terms)** ” (see the Profiles Section below);
 
 ;  
 (d) | 
