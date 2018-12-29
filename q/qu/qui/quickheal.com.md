@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the quickheal.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622211736id_/http%3A//www.quickheal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickheal.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229034846id_/http%3A//www.quickheal.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy version 1.1 – updated on 24th May 2018
 
-Privacy Policy
+Privacy Policy version 1.1 – updated on 24th May 2018
 
 The following statement discloses the privacy policy of Quick Heal Technologies Ltd. (formerly known as Quick Heal Technologies Pvt. Ltd) for its website or products. Seqrite is a proprietary trade mark of Quick Heal. We update our policy periodically without any notice; kindly visit this page occasionally to stay informed about any changes in the policy.
 
@@ -53,7 +53,7 @@ The personal information that you have shared with us may be transferred to othe
 
 Your personal data rights
 
-According to GDPR, Data subjects (any information relating to an identified or identifiable natural person) have the right to access to data, right to rectification, right to erasure and the right not to be subject to individual decisions. Data subjects/You also have the right to restriction of personal data processing and to request the deletion of the collected personal data, as well as the right to data portability. To exercise these rights, you may send a written request, dated and signed, to the Quick Heal Data Protection Officer (DPO) via email to dpo@quickheal.co.in. 
+According to GDPR, Data subjects (any information relating to an identified or identifiable natural person) have the right to access to data, right to rectification, right to erasure and the right not to be subject to individual decisions. Data subjects/You also have the right to restriction of personal data processing and to request the deletion of the collected personal data, as well as the right to data portability. To exercise these rights, you may send a written request, dated and signed, to the Quick Heal Data Protection Officer (DPO) via email to dpo@quickheal.co.in.
 
 Statistical information
 
@@ -70,6 +70,10 @@ We shall inform you of any addition or replacement of Sub-Processors and allow y
 Privacy policy of other companies
 
 Websites of Quick Heal Technologies Ltd. contain links to websites of companies with whom we have a relationship. Quick Heal Technologies Ltd. is not responsible for the privacy practices of its business partners. We encourage you to read their privacy statements as they may differ from ours.
+
+Governing Law and Jurisdiction
+
+Quick Heal is a company having it’s Registered office and Head Quarters in India. Thus, this policy shall be governed by local laws and any matter/dispute relating thereto shall be subject only to jurisdiction of Courts at Pune, India and shall be interpreted as per the terms of the law/s for the time being in force in India.
 
 Contact information
 
