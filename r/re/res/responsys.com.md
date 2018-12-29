@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the responsys.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629174510id_/http%3A//www.oracle.com/us/legal/privacy/privacy-policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the responsys.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229094613id_/http%3A//www.oracle.com/us/legal/privacy/privacy-policy/index.html) for the most accurate reproduction.*
 
 # Oracle Privacy Policy | Oracle
 
@@ -228,17 +228,23 @@ We ask that you do not send us, and do not share any sensitive personal informat
 
 As a company focused on serving the needs of businesses, Oracle's sites are not directed to minors and Oracle does not promote or market its services to minors, except in very limited circumstances as part of specific educational outreach programs with parental permission. If you believe that we have mistakenly or unintentionally collected personal information of a minor through our sites without appropriate consent, please notify us through our inquiry form so that we may immediately delete the information from our servers and make any other necessary corrections. Additionally, please use this same form to request removal of content or information that was posted to our sites when the registered user was under the age of 16. Please note that such requests may not ensure complete or comprehensive removal of the content or information, as, for example, some of the content may have been reposted by another user.
 
-### 14\. HOW TO CONTACT ORACLE IF YOU HAVE QUESTIONS, COMMENTS OR COMPLAINTS?
+### 14\. DATA PROTECTION OFFICER
 
 Oracle has appointed a **Global Data Protection Officer**. If you believe your personal information has been used in a way that is not consistent with the Privacy Policy or your choices, or if you have further questions, comments or suggestions related to this Privacy Policy, please contact the Global Data Protection Officer by filling out an [inquiry form](https://oracle.ethicspointvp.com/custom/oracle/dp/form_data.asp).
 
-Written inquiries to the Global Data Protection Officer may be addressed to: 
+Written inquiries to the Data Protection Officer may be addressed to: 
 
 Oracle Corporation  
 Global Data Protection Officer  
 10 Van de Graaff Drive  
 Burlington, MA 01803  
-U.S.A.
+U.S.A. 
+
+Robert Niedermeier  
+Hauptstraße 4  
+D-85579 Neubiberg / München  
+Germany  
+Email: [mail@legislator.de](mailto:mail@legislator.de)
 
 ### 15\. DISPUTE RESOLUTION OR FILING A COMPLAINT
 
@@ -256,3 +262,5 @@ Redwood Shores, CA
 
 Tel: +1.650.506.7000  
 Fax: +1.650.506.7200
+
+[](https://privacy.truste.com/privacy-seal/validation?rid=c3494dad-9836-48cf-9d86-0f36fc9a04c6 "TRUSTe")
