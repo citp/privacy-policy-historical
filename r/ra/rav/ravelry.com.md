@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ravelry.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630024434id_/https%3A//www.ravelry.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ravelry.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229231521id_/https%3A//www.ravelry.com/about/privacy) for the most accurate reproduction.*
 
 # Ravelry - a knit and crochet community
 
 Your privacy is very important to us. If you have any questions about this Policy, contact us at <http://www.ravelry.com/contact> or write to us at Ravelry LLC, Privacy Matters, 39 Dodge St #134, Beverly, MA 01915.
 
-_Last updated May 1st, 2018, last major update Dec 8th, 2007_ \-- [view the revision history](http://www.ravelry.com/wiki/pages/Privacy%20Policy/revisions)
+_Last updated September 19th, 2018, last major update Dec 8th, 2007_ \-- [view the revision history](http://www.ravelry.com/wiki/pages/Privacy%20Policy/revisions)
 
   1. What’s Covered Under this Privacy Policy:
 
@@ -65,3 +65,13 @@ If you have any question or concerns about this policy, please feel free to cont
 
 
 
+
+## Appendix: List of 3rd Parties
+
+Party Name(s)| Data disclosed| Purpose  
+---|---|---  
+Google Inc. (Analytics)| Anonymized IP address| Google analytics is used on some pages so that we can measure traffic. We use the “_anonymizeIp” feature so that the only information shared with Google is a portion of your IP address.  
+Google Inc. (Maps)| IP address| We use Google Maps to provide maps and other features related to your location  
+Sendgrid Inc., Mailgun Technologies, Inc.| Email address| Sendgrid and Mailgun are email delivery services that we use to deliver messages to you.  
+New Relic Inc., BugSnag Inc.| IP address| New Relic and BugSnag are services that we use for monitoring Ravelry performance and errors.  
+Amazon Web Services| | We use Amazon Web Services to store and process Ravelry data. [Amazon Web Services Data Privacy FAQ](https://aws.amazon.com/compliance/data-privacy-faq/)
