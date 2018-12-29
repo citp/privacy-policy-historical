@@ -1,19 +1,102 @@
-> *The following text is extracted and transformed from the talentqgroup.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172909id_/https%3A//www.talentqgroup.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talentqgroup.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229174223id_/https%3A//www.kornferry.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy | Legal | Talent Q
+# Privacy Policy
 
-This privacy policy explains what information is collected about you, how we use this information, how you can instruct us if you prefer to limit the use of the information, and the procedures that we have in place to safeguard your privacy.
+###  COMPANYWIDE COMMITMENT TO   
+YOUR PRIVACY 
 
-## The information we collect and how we use it
+**Last Updated: 21 May 2018**
 
-If you contact us (either online, in person, via telephone, fax or letter) and provide any personal data (such as name, address, telephone number etc) then this information will only be used in the course of providing service to you. We will not send unsolicited communications to you unless you explicitly give your consent. Also, we will not pass any of your personal details on to third parties unless it is necessary to facilitate your enquiry.
+Korn Ferry takes the privacy and security of your information seriously. This Policy describes how Korn/Ferry International and its affiliates and subsidiaries (collectively “Korn Ferry”, “we” or “us”) collect, use, transfer, and disclose your information. A list of our affiliates and subsidiaries is available from our Privacy Office as described below, or at **_<https://cdn.kornferry.com/privacy/subsidiariesalliances.pdf>_**
 
-In addition to any personal data you might supply to us, we collect aggregate information and statistics for the purposes of monitoring website usage in order to help us develop the site and our services and we may provide such aggregate information to third parties. These statistics will not include information that can be used to identify any individual.
+This Policy covers information Korn Ferry collects in connection with our Recruitment Services, Consulting Services, and Products (collectively, the “Services”). This Policy also covers information collected through:
 
-## Cookies
+  * web sites we operate from which you are accessing this Policy (the “Site”),
+  * the software applications we make available for use on or through computers or mobile devices (the “Apps”), 
+  * our social media pages and apps to which the Site links (collectively, our “Social Media Pages”), and
+  * HTML-formatted email messages we send to you that link to this Policy (collectively, including the Site, Apps, and our Social Media Pages, the “Online Systems”).
 
-'Cookies' are small pieces of information between a web server and a web browser, which enable the server to collect information from the browser. We use cookies to enable us to provide the mechanisms for online browsing and to monitor traffic. These cookies do not contain any personally identifiable information. Read our [Cookie Policy](https://web.archive.org/legal/cookie-policy/ "Cookie policy") to find out more about how and why we use cookies on the website.
 
-## How we protect your information
 
-The internet is not a secure medium. However, we have put in place various security procedures to help ensure that your information is as secure as is possible. We also keep your information confidential. Our internal procedures cover the storage, access and disclosure of your information.
+This Policy also covers other means by which we collect information. For example, it also covers how we collect information from in person discussions, telephone conversations, and through non-electronic communications (i.e., collection through other means than our Online Systems). 
+
+**WHO WE ARE**
+
+Korn Ferry is a global organizational consulting firm. We help companies design their organization – the structure, the roles and responsibilities, as well as how they compensate, develop and motivate their people. We also help organizations select and hire the talent they need to execute their strategy.
+
+Korn Ferry offers services to help companies recruit new personnel and attract talent (“Recruitment Services”). We provide Recruitment Services to clients searching for talent at the board-level, chief executive, and other senior executive positions. We also help clients find talent for middle to upper level management. Our teams also provide recruitment process outsourcing or project recruitment services to help clients attract top people. 
+
+We are also a global management consulting firm that provides talent management and consulting services (“Consulting Services”). We help our clients implement their business strategy by consulting with them on strategy execution and organization design, talent strategy and work design, rewards and benefits, assessment and succession, leadership development, and other talent needs.
+
+Korn Ferry also has products that may be used by you or our clients to conduct assessments, participate in surveys and career coaching, conduct compensation and benefits analysis (where permitted by law), and facilitate the recruitment process (“Products”). 
+
+Often, our client may be your employer or an organization with which you are seeking employment.
+
+  *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   
+
+
+* * *
+
+  
+**UPDATES TO THIS POLICY**
+
+Korn Ferry reviews its privacy practices regularly, and those practices are subject to change. You can determine when this Policy was last revised by checking the “Revised Date” legend at the bottom of the Policy. Any changes to the Policy will become effective upon posting of the revised Policy on the Internet, accessible through the Site.
+
+Top of page ↑ 
+
+  *   
+
+
+* * *
+
+  
+**USE OF ONLINE SYSTEMS BY CHILDREN**
+
+The Online Systems are not directed to individuals under the age of sixteen (16), and we request that these individuals do not provide their personal information through the Online Systems. 
+
+Top of page ↑ 
+
+  *   
+
+
+* * *
+
+  
+**SUMMARIES OF POLICY**
+
+This Policy is the sole authorized statement of Korn Ferry’s practices with respect to the online collection of Personal Information through the Online Systems and the usage of Personal Information. Any summaries of this Policy generated by third party software or otherwise (for example, in connection with the “Platform for Privacy Preferences” or “P3P”) have no legal effect, are in no way binding upon Korn Ferry, cannot be relied upon in substitute for this Policy, and neither supersede nor modify this Policy.
+
+Top of page ↑ 
+
+  *   
+
+
+* * *
+
+  
+**QUESTIONS**
+
+Korn/Ferry International is responsible for collection, use, and disclosure of your Personal Information under this Policy. 
+
+Questions regarding this Policy should be directed to Korn Ferry at privacy@kornferry.com or, if by postal mail, at Korn/Ferry International, 1900 Avenue of the Stars, Suite 2600, Los Angeles, CA 90067, Attn: Privacy Office. 
+
+Top of page ↑ 
+
+  *   
+
+
+* * *
+
+  
+**ADDITIONAL INFORMATION REGARDING THE EEA**
+
+You may contact us at PrivacyEEA@kornferry.com with any questions about this Policy.
+
+You may also lodge a complaint or report an alleged infringement of applicable data protection law with a data protection authority for your country or region, or where an alleged infringement of applicable data protection law has occurred. 
+
+_Revised Date: 21 May 2018_
+
+Top of page ↑ 
+
+
+
