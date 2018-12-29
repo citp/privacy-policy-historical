@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitlondon.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629143559id_/https%3A//www.visitlondon.com/about-us/privacy%3Fref%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitlondon.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229161628id_/https%3A//www.visitlondon.com/about-us/privacy%3Fref%3Dfooter) for the most accurate reproduction.*
 
 # Privacy - visitlondon.com
 
@@ -175,17 +175,23 @@ Essential Site Functionality
 
 | 
 
-Examples of purposes for which a cookie may be used: when a user registers with the site, London & Partners generate cookies that let us know whether the user is signed in or not.  
+Examples of purposes for which a cookie may be used: when a user registers with the site, London & Partners generate cookies that let us know whether the user is signed in or not.
+
 Often, but not always, connected to an email address.  
   
 Personalisation and Marketing 
 
 | 
 
-This cookie is essential for our site as it enables us to: Serve content based on the user's past browsing behaviour on the site.  
-Recording that a user has seen a particular registration prompt popup so as not to show it again. It does this by serving A/B tests and ensuring that a given user always sees the same variant. It records whether a user who has clicked an off-site advert for our site has completed a goal (register, purchase, etc.).  
-Only connected to an email address if the user has also registered.  
-May be first or third part cookies or a mix of the two.  
+This cookie is essential for our site as it enables us to: Serve content based on the user's past browsing behaviour on the site.
+
+Recording that a user has seen a particular registration prompt popup so as not to show it again. It does this by serving A/B tests and ensuring that a given user always sees the same variant. It records whether a user who has clicked an off-site advert for our site has completed a goal (register, purchase, etc.).
+
+Only connected to an email address if the user has also registered.
+
+May be first or third party cookies or a mix of the two. 
+
+We use a Google product. [Find out more about how Google handles your personal data](https://policies.google.com/technologies/partner-sites).  
   
 Anonymous Analytics
 
