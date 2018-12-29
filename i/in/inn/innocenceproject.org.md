@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the innocenceproject.org privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629025920id_/http%3A//www.innocenceproject.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innocenceproject.org privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229050603id_/https%3A//www.innocenceproject.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Innocence Project
 
 **Innocence Project Privacy Policy**
 
-The Innocence Project (“The Innocence Project,” “we,” “our,” or “us”) understands that privacy is important to our online visitors to our website.  This Privacy Policy explains how we collect, use, share, and protect your personal information that we collect on our website.  By using our website, you agree to the terms of this Privacy Policy and our [Terms of Use](http://www.innocenceproject.org/legal).
+The Innocence Project (“The Innocence Project,” “we,” “our,” or “us”) understands that privacy is important to our online visitors to our website.  This Privacy Policy explains how we collect, use, share, and protect your personal information that we collect on our website.  By using our website, you agree to the terms of this Privacy Policy and our [Terms of Use](https://www.innocenceproject.org/legal).
 
 Click on the links below to jump to each section:
 
-**1.             ** **[WHAT INFORMATION DO WE COLLECT AND FOR WHAT PURPOSE?](http://www.innocenceproject.org/privacy-policy#one)  
-****2.             [HOW WE USE COOKIES AND OTHER TRACKING TECHNOLOGY TO COLLECT INFORMATION](http://www.innocenceproject.org/privacy-policy#two)  
-**3.             [SHARING OF YOUR INFORMATION](http://www.innocenceproject.org/privacy-policy#three)**[ ](http://www.innocenceproject.org/privacy-policy#three)  
-**4.            [YOUR CHOICES ABOUT YOUR INFORMATION](http://www.innocenceproject.org/privacy-policy#four)**[ ](http://www.innocenceproject.org/privacy-policy#four)  
-**5.             [HOW WE STORE AND PROTECT YOUR INFORMATION](http://www.innocenceproject.org/privacy-policy#five)**[ ](http://www.innocenceproject.org/privacy-policy#five)  
-**6.             [CHILDREN’S PRIVACY](http://www.innocenceproject.org/privacy-policy#six)**[ ](http://www.innocenceproject.org/privacy-policy#six)  
-******7.             [LINKS TO OTHER WEB SITES AND SERVICES](http://www.innocenceproject.org/privacy-policy#seven)  
-**8.             [HOW TO CONTACT US](http://www.innocenceproject.org/privacy-policy#eight)**[ ](http://www.innocenceproject.org/privacy-policy#eight)  
-**9.             [CHANGES TO OUR PRIVACY POLICY](http://www.innocenceproject.org/privacy-policy#nine)**[ ](http://www.innocenceproject.org/privacy-policy#nine)****
+**1.             ** **[WHAT INFORMATION DO WE COLLECT AND FOR WHAT PURPOSE?](https://www.innocenceproject.org/privacy-policy#one)  
+****2.             [HOW WE USE COOKIES AND OTHER TRACKING TECHNOLOGY TO COLLECT INFORMATION](https://www.innocenceproject.org/privacy-policy#two)  
+**3.             [SHARING OF YOUR INFORMATION](https://www.innocenceproject.org/privacy-policy#three)**[ ](https://www.innocenceproject.org/privacy-policy#three)  
+**4.            [YOUR CHOICES ABOUT YOUR INFORMATION](https://www.innocenceproject.org/privacy-policy#four)**[ ](https://www.innocenceproject.org/privacy-policy#four)  
+**5.             [HOW WE STORE AND PROTECT YOUR INFORMATION](https://www.innocenceproject.org/privacy-policy#five)**[ ](https://www.innocenceproject.org/privacy-policy#five)  
+**6.             [CHILDREN’S PRIVACY](https://www.innocenceproject.org/privacy-policy#six)**[ ](https://www.innocenceproject.org/privacy-policy#six)  
+******7.             [LINKS TO OTHER WEB SITES AND SERVICES](https://www.innocenceproject.org/privacy-policy#seven)  
+**8.             [HOW TO CONTACT US](https://www.innocenceproject.org/privacy-policy#eight)**[ ](https://www.innocenceproject.org/privacy-policy#eight)  
+**9.             [CHANGES TO OUR PRIVACY POLICY](https://www.innocenceproject.org/privacy-policy#nine)**[ ](https://www.innocenceproject.org/privacy-policy#nine)****
 
 **1.** **WHAT INFORMATION DO WE COLLECT AND FOR WHAT PURPOSE?  **
 
@@ -38,7 +38,7 @@ When you access our Service by or through a mobile device, we may receive or col
 
 We may use the data collected through cookies, log file, device identifiers, location data, and clear gifs to:  (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) provide custom, personalized content and information, including advertising; (c) provide and monitor the effectiveness of our Service; (d) monitor aggregate metrics such as total number of visitors, traffic, usage, and demographic patterns on our website and our Service; (e) diagnose or fix technology problems; and (f) otherwise to plan for and enhance our service.
 
-**Third Party Tracking and Online Advertising** **:**   We may permit third party ad networks, social media companies, and other third party services, such as YouTube to collect information about browsing behavior from visitors to our website through cookies, social plug-ins, or other tracking technology.  We may permit third party online advertising networks to collect information about your use of our websites over time so that they may play or display ads that may be relevant to your interests on our Service as well as on other websites or services.  Typically, the information is collected through cookies or similar tracking technologies.  The only way to completely “opt out” of the collection of any information through cookies or other tracking technology is to actively manage the settings on your browser or mobile device.  Please refer to your browser’s or mobile device’s technical information for instructions on how to delete and disable cookies, and other tracking/recording tools.  (To learn more about cookies, clear gifs/web beacons, and related technologies and how you may opt-out of some of this tracking, you may wish to visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/) and/or the Network Advertising Initiative’s online resources, at [http://www.networkadvertising.org](https://www.networkadvertising.org/)).  Depending on your mobile device, you may not be able to control tracking technologies through settings.  If you have any questions about opting out of the collection of cookies and other tracking/recording tools, you can contact us directly at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ed84838b82ad848383828e88838e889d9f8287888e99c3829f8ad29e988f87888e99d0b985849f89c8dfddbd8c9f9994c8dfddb99f8c8e8684838ac8dfdd8c8389c8dfdda28381848388c8dfddac899b889f99849e84838a).
+**Third Party Tracking and Online Advertising** **:**   We may permit third party ad networks, social media companies, and other third party services, such as YouTube to collect information about browsing behavior from visitors to our website through cookies, social plug-ins, or other tracking technology.  We may permit third party online advertising networks to collect information about your use of our websites over time so that they may play or display ads that may be relevant to your interests on our Service as well as on other websites or services.  Typically, the information is collected through cookies or similar tracking technologies.  The only way to completely “opt out” of the collection of any information through cookies or other tracking technology is to actively manage the settings on your browser or mobile device.  Please refer to your browser’s or mobile device’s technical information for instructions on how to delete and disable cookies, and other tracking/recording tools.  (To learn more about cookies, clear gifs/web beacons, and related technologies and how you may opt-out of some of this tracking, you may wish to visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/) and/or the Network Advertising Initiative’s online resources, at [http://www.networkadvertising.org](https://www.networkadvertising.org/)).  Depending on your mobile device, you may not be able to control tracking technologies through settings.  If you have any questions about opting out of the collection of cookies and other tracking/recording tools, you can contact us directly at [info@innocenceproject.org](mailto:info@innocenceproject.org?subject=Third%20Party%20Tracking%20and%20Online%20Advertising).
 
 **3\. SHARING OF YOUR INFORMATION**
 
@@ -51,7 +51,7 @@ We may share your personal information with:
   * Third parties who partner with us to help provide our services, such as legal organizations and student groups;
   * The public when you provide feedback or user content on our site. For example, if you post user content on our blog or comment on our social media sites, your information, such as your first name, last initial, state of residence, and your comments, may be displayed on our website or in our newsletter or other promotional materials provided by the Innocence Project);
   * Other parties in connection with a company transaction, such as a merger, sale of company assets or shares, reorganization, financing, change of control or acquisition of all or a portion of our business by another company or third party, or in the event of a bankruptcy or related or similar proceedings; and
-  * Third parties as required by law or subpoena or if we reasonably believe that such action is necessary to (a) comply with the law and the reasonable requests of law enforcement; (b) to enforce our [Terms of Use](http://www.innocenceproject.org/legal) or to protect the security or integrity of our Service; and/or (c) to exercise or protect the rights, property, or personal safety of the Innocence Project, our Users, or others.
+  * Third parties as required by law or subpoena or if we reasonably believe that such action is necessary to (a) comply with the law and the reasonable requests of law enforcement; (b) to enforce our [Terms of Use](https://www.innocenceproject.org/legal) or to protect the security or integrity of our Service; and/or (c) to exercise or protect the rights, property, or personal safety of the Innocence Project, our Users, or others.
 
 
 
@@ -61,7 +61,7 @@ We may also aggregate or otherwise strip data of all personally identifying char
 
 **How to control your communications preferences** :  You can stop receiving promotional email communications from us by clicking on the “unsubscribe link” provided in such communications.  We make every effort to promptly process all unsubscribe requests.  You may not opt out of service-related communications (e.g., account verification, transactional communications, changes/updates to features of the Service, technical and security notices).
 
-**Modifying or deleting your information:  **If you have any questions about reviewing, modifying, or deleting your information, or if you want to remove your name or comments from our website or publicly displayed content, you can contact us directly at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4c25222a230c252222232f29222f293c3e2326292f3862233e2b733f392e26292f38711c3e253a2d2f35697e7c1c2320252f35).  We may not be able to modify or delete your information in all circumstances, such as if it has been copied, or commented on by a third party or third party service or if federal or state law requires that we maintain certain information for our records.
+**Modifying or deleting your information:  **If you have any questions about reviewing, modifying, or deleting your information, or if you want to remove your name or comments from our website or publicly displayed content, you can contact us directly at [info@innocenceproject.org](mailto:info@innocenceproject.org?subject=Privacy%20Policy).  We may not be able to modify or delete your information in all circumstances, such as if it has been copied, or commented on by a third party or third party service or if federal or state law requires that we maintain certain information for our records.
 
 **5\. HOW WE STORE AND PROTECT YOUR INFORMATION**
 
@@ -71,7 +71,7 @@ We may also aggregate or otherwise strip data of all personally identifying char
 
 **6.            CHILDREN’S PRIVACY**
 
-The Innocence Project does not knowingly collect or solicit any information from anyone under the age of 13 or knowingly allow such persons to register as Users.  In the event that we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible.  If you believe that we might have any information from a child under 13, please contact us at [[email protected]oject.org](https://web.archive.org/cdn-cgi/l/email-protection#d0b9beb6bf90b9bebebfb3b5beb3b5a0a2bfbab5b3a4febfa2b7efa3a5b2bab5b3a4ed80a2b9a6b1b3a9f5e2e080bfbcb9b3a9).
+The Innocence Project does not knowingly collect or solicit any information from anyone under the age of 13 or knowingly allow such persons to register as Users.  In the event that we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible.  If you believe that we might have any information from a child under 13, please contact us at [info@innocenceproject.org](mailto:info@innocenceproject.org?subject=Privacy%20Policy).
 
 **7\. LINKS TO OTHER WEB SITES AND SERVICES**
 
@@ -79,7 +79,7 @@ Our website may integrate with or contain links to other third party sites and s
 
 **8\. HOW TO CONTACT US**
 
-If you have any questions about this Privacy Policy or the website, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e48d8a828ba48d8a8a8b87818a878194968b8e818790ca8b9683db9791868e818790d9b4968d9285879dc1d6d4b48b888d879d).
+If you have any questions about this Privacy Policy or the website, please contact us at [info@innocenceproject.org](mailto:info@innocenceproject.org?subject=Privacy%20Policy).
 
 **9\. CHANGES TO OUR PRIVACY POLICY**
 
