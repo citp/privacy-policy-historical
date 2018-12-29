@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peepso.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629022612id_/https%3A//www.peepso.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peepso.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229043421id_/https%3A//www.peepso.com/privacy) for the most accurate reproduction.*
 
 # PeepSo - Privacy Policy | PeepSo
 
