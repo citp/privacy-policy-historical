@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usersnap.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628134331id_/https%3A//usersnap.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usersnap.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229122825id_/https%3A//usersnap.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -29,7 +29,7 @@ We collect information about you when you provide it to us, when you use our pro
 
 **Cookies** : Usersnap and our third-party partners, such as our advertising and analytics partners, use cookies and other tracking technologies (e.g., web beacons, device identifiers and pixels) to provide functionality and to recognize you across different Services and devices.
 
- **Information about the data we collect for our clients** : Usersnap processes information under the direction of its clients, and has no direct relationship with the individuals whose personal data it processes. Usersnap helps its clients to provide the necessary information to inform their customers about the nature and purpose of Usersnap and the collected information, if required. We may collect personally identifiable information such as first and last name, zip code, phone number, e-mail address, professional title, company name, and password from our customers and their clients.
+ **Information about the data we collect for our clients** : Usersnap processes information under the direction of its clients, and has no direct relationship with the individuals whose personal data it processes. Usersnap helps its clients to provide the necessary information to inform their customers about the nature and purpose of Usersnap and the collected information, if required. We may collect personally identifiable information such as first and last name, zip code, phone number, e-mail address, professional title and company name from our customers and their clients.
 
  **Website data and information our product collects:** The Usersnap widget collects the content of the website it is activated on. "Website data" means the state of the website including all user-entered information. This information is being transmitted to Usersnap's servers (including the DOM, CSS and Javascript code of the website's current state). Moreover, information about the environment such as browser version, browser type, operating system, operating system's version number, screen resolution, and other similar data related to the current state of the website is included. Added annotations, remarks or any other information using the Usersnap widget, is also being included and transferred. We are collecting this information on behalf of our clients and we do not have a direct relationship with the individuals whose personal data we process.
 
@@ -104,7 +104,7 @@ We are using Google, Inc. ("Google") remarketing features to display ads on the 
 Alternatively we would like to point you to opt out of a third-party vendor's use of cookies by visiting the Network Advertising Initiative opt-out page.
 
  **Changes to our Privacy Policy**  
-If we decide to change our privacy policy, we will update the Privacy Policy modification date below.This policy was last modified on May 14, 2018.
+If we decide to change our privacy policy, we will update the Privacy Policy modification date below. This policy was last modified on Sept 18, 2018.
 
  **Contacting Us**  
 Your information is controlled by Usersnap GmbH.   
