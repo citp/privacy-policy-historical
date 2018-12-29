@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sovereignsociety.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629100136id_/https%3A//banyanhill.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sovereignsociety.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229120038id_/https%3A//banyanhill.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy & Personal Information - Banyan Hill Publishing
 
-_Last updated: 6/18/2018_
+_Last updated: 10/30/2018_
 
 ## Email Address
 
@@ -124,13 +124,32 @@ You can see when this privacy policy was last updated by checking the “last up
 Banyan Hill is registered in the states below and is therefore required to collect sales tax on items sold to customers in these states, to the extent the items are taxable. Whether or not an item is taxable depends upon the laws in effect in the state.
 
   * Alabama
+  * Connecticut
   * Colorado
   * Florida
   * Georgia
+  * Hawaii
+  * Illinois
+  * Indiana
   * Kentucky
   * Louisiana
+  * Maine
   * Maryland
+  * Michigan
+  * Minnesota
+  * Mississippi
+  * Nevada
+  * New Jersey
+  * North Dakota
   * North Carolina
+  * Oklahoma
+  * Pennsylvania
+  * Rhode Island
+  * South Carolina
+  * South Dakota
+  * Vermont
+  * Washington
+  * Wisconsin
 
 
 
