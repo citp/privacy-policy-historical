@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theebookhunter.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629042434id_/https%3A//www.ebookhunter.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theebookhunter.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229062500id_/https%3A//www.ebookhunter.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – The eBook Hunter
 
@@ -14,9 +14,9 @@ Like many other Web sites, [ebookhunter.net](https://ebookhunter.net/) makes use
 
 .:: Google, as a third party vendor, uses cookies to serve ads on ebookhunter.net.  
 .:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to [ebookhunter.net](https://ebookhunter.net/) and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL: <http://www.google.com/privacy_ads.html>
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL: [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html)
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include: ******[PopAds](https://web.archive.org/web/20180629042434id_/https://www.ebookhunter.net/privacy-policy/www.popads.net/users/refer/515249) **and **[Infolinks](https://www.infolinks.com/join-us?aid=2823064)  
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include: ******[PopAds](https://web.archive.org/web/20181229062500id_/https://www.ebookhunter.net/privacy-policy/www.popads.net/users/refer/515249) **and **[Infolinks](https://www.infolinks.com/join-us?aid=2823064)  
 **
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on [ebookhunter.net](https://www.ebookhunter.net/) send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.  
