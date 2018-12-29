@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the artinstitutes.edu privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629101726id_/https%3A//www.artinstitutes.edu/privacy-and-cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artinstitutes.edu privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229083920id_/https%3A//www.artinstitutes.edu/privacy-and-cookies-policy-dceh) for the most accurate reproduction.*
 
 # Privacy and Cookies Policy | The Art Institutes
 
-**This policy was last updated on December 7, 2016**
+**Dream Center Education Holdings, LLC**
 
-The Art Institutes (The Art Institutes, "we" or "our") is committed to protecting any personal information that we maintain about you. Consistent with our [Privacy Principles](http://www.edmc.edu/edmc-privacy-principles.aspx), we want you to understand what kinds of information we may collect from you, how this information may be used, the steps we take to protect it, choices you have regarding our use and disclosure of personal information about you, and other information about our privacy practices. This Privacy Policy (this "Policy") applies to the online collection of information by our websites, webpages and mobile applications that link to or otherwise adopt this Policy.
+This policy was last updated on January 20, 2018.
+
+The Art Institutes (The Art Institutes, "we" or "our") is committed to protecting any personal information that we maintain about you. Consistent with our [Privacy Principles](http://www.dcedh.org/privacy-principles.aspx), we want you to understand what kinds of information we may collect from you, how this information may be used, the steps we take to protect it, choices you have regarding our use and disclosure of personal information about you, and other information about our privacy practices. This Privacy Policy (this "Policy") applies to the online collection of information by our websites, webpages and mobile applications that link to or otherwise adopt this Policy.
 
 This privacy policy is divided into sections for the convenience of the reader. If you would like to jump to a particular section, follow the links below:
 
@@ -52,7 +54,7 @@ Some Internet browsers have begun to offer what often is referred to as "do not 
 [Firefox](https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored)  
 [Chrome](https://support.google.com/chrome/answer/95647?hl=en)
 
-You also can opt-out of, or make other choices concerning, the types of third party advertisements that may be targeted to you based on your browser activity by using mechanisms such as the “AdChoices” icon that may appear in advertisements that may appear on some of our sites. You can click on the “AdChoices” icon, where displayed, to exercise the choices available there. Additional information about AdChoices is available at: [www.youradchoices.com](http://www.youradchoices.com/). Information and opt-out choices for ads placed by Google are available at: [www.google.com/settings/ads](http://www.google.com/settings/ads). You also may click [here](https://info.evidon.com/pub_info/8585?v=1&nt=0&nw=false) for information about cookies placed through our site and choices you have regarding their placement.
+Information and opt-out choices for ads placed by Google are available at: [www.google.com/settings/ads](http://www.google.com/settings/ads). You also may click [here](https://info.evidon.com/pub_info/8585?v=1&nt=0&nw=false) for information about cookies placed through our site and choices you have regarding their placement.
 
  **How is my information used?**
 
@@ -82,7 +84,7 @@ You have a number of choices regarding our collection and use of information thr
 In cases where you are requested to affirmatively provide information, such as to complete a form, or an application, or a survey on our website, you may decline to do so. Please understand, however, that in some cases certain information is required to complete an application, form or survey, and if you decline to provide the information requested you may not be able to submit the application or request or to use certain functionalities of our websites or mobile applications.  
 If you would like restrict our placement of cookies on your device, please see the FAQ "What Choices Do I Have About the Placement of Cookies on My Device?" above.
 
-If you prefer that we no longer contact you about potential educational opportunities at our school, please e-mail us at [csprogramadmin@edmc.edu](mailto:csprogramadmin@edmc.edu).
+If you prefer that we no longer contact you about potential educational opportunities at our school, please e-mail us at [csprogramadmin@dcedh.org](mailto:csprogramadmin@dcedh.org).
 
 If you would prefer not to receive e-mail marketing messages from us, please use the opt-out instructions included in the email message to opt-out of additional communications.  
 You may be given additional choices in the context of particular preferences tools or functions that we make available through our website or mobile applications.
@@ -91,16 +93,16 @@ You may be given additional choices in the context of particular preferences too
 
 Yes. If the information that you provide through our website is included in an educational record then we provide access to that information in accordance with the Family Educational Rights and Privacy Act (FERPA), as applicable.
 
-In the case of personal information that is not part of a student's educational records, it is our policy, with certain exceptions, to provide individuals with access to personal information that is maintained in EDMC's files. In some cases, the website may allow you to log-in to directly access and/or correct information you have provided. In other cases, such as web forms that you may submit through the site, if you would like to obtain a copy of the information you provided you can contact us at [csprogramadmin@edmc.edu](mailto:csprogramadmin@edmc.edu). When you update information, we may keep a copy of the prior version for our records.
+In the case of personal information that is not part of a student's educational records, it is our policy, with certain exceptions, to provide individuals with access to personal information that is maintained in Dream Center Education Holdings's files. In some cases, the website may allow you to log-in to directly access and/or correct information you have provided. In other cases, such as web forms that you may submit through the site, if you would like to obtain a copy of the information you provided you can contact us at [csprogramadmin@dcedh.org](mailto:csprogramadmin@dcedh.org). When you update information, we may keep a copy of the prior version for our records.
 
 Exceptions to access and correction rights may include:
 
 Where the burden or expense of providing access would be disproportionate to the risks to the individual's privacy in the case in question;  
 Where the rights of persons other than the individual would be violated; or  
 With respect to individual requests for the correction or deletion of information, in cases where we are otherwise legally required to retain the personal information.  
-We require that an individual provide reasonable validation of his or her identity before we provide access to personal information from our files. To request access to or correction of information please send an email to [csprogramadmin@edmc.edu](mailto:csprogramadmin@edmc.edu).
+We require that an individual provide reasonable validation of his or her identity before we provide access to personal information from our files. To request access to or correction of information please send an email to [csprogramadmin@dcedh.org](mailto:csprogramadmin@dcedh.org).
 
-You may request that we delete information that you post on our websites, online services, and applications that is accessible to other users of the website, service or application such as comments, social media posts, or blog entries, either by using the functionality (if any) provided by the website, service, or application that you used to post the information or by sending an email to [csprogramadmin@edmc.edu](mailto:csprogramadmin@edmc.edu) specifying the information that you are requesting that we remove and sufficient information about where you posted it so that we can locate it. Please note that a deletion request may not result in complete or comprehensive removal of the content from our website, service, or application to the extent we are permitted or required by law to retain that information. For example, information may not be removed if we need to maintain the information for legal compliance purposes or if you fail to follow the instructions above, such as by failing to provide sufficient information for us to process your request. Similarly, if information that you posted has been stored, republished or reposted by a third party, or you were compensated or consideration for providing the content, that information may not be subject to deletion.
+You may request that we delete information that you post on our websites, online services, and applications that is accessible to other users of the website, service or application such as comments, social media posts, or blog entries, either by using the functionality (if any) provided by the website, service, or application that you used to post the information or by sending an email to [csprogramadmin@dcedh.org](mailto:csprogramadmin@dcedh.org) specifying the information that you are requesting that we remove and sufficient information about where you posted it so that we can locate it. Please note that a deletion request may not result in complete or comprehensive removal of the content from our website, service, or application to the extent we are permitted or required by law to retain that information. For example, information may not be removed if we need to maintain the information for legal compliance purposes or if you fail to follow the instructions above, such as by failing to provide sufficient information for us to process your request. Similarly, if information that you posted has been stored, republished or reposted by a third party, or you were compensated or consideration for providing the content, that information may not be subject to deletion.
 
  **How may personal information collected through this website or mobile application be disclosed?**
 
@@ -148,7 +150,7 @@ If we make any material changes to this privacy policy we will change the "last 
 
 If you have questions concerning our privacy practices, contact us at:  
 Privacy Administrator  
-210 Sixth Avenue  
+1400  Penn Avenue  
 Pittsburgh, PA 15222  
 Fax: 1.412.995.7295  
-Email: [csprogramadmin@edmc.edu](mailto:csprogramadmin@edmc.edu)
+Email: [csprogramadmin@dcedh.org](mailto:csprogramadmin@dcedh.org)
