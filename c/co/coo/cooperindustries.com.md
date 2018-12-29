@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cooperindustries.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627163703id_/http%3A//www.eaton.com/Eaton/OurCompany/PrivacyPolicy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cooperindustries.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229051209id_/http%3A//www.eaton.com/Eaton/OurCompany/PrivacyPolicy/index.htm) for the most accurate reproduction.*
 
 # Privacy, cookies and data protection | Eaton
 
