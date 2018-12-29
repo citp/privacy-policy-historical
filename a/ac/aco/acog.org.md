@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acog.org privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629172217id_/https%3A//www.acog.org/About-ACOG/Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acog.org privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229184409id_/https%3A//www.acog.org/About-ACOG/Privacy-Statement) for the most accurate reproduction.*
 
 # Privacy Statement - ACOG
 
