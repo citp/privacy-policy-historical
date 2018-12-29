@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the grandmotherskitchen.org privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628062431id_/http%3A//grandmotherskitchen.org/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grandmotherskitchen.org privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229183004id_/http%3A//grandmotherskitchen.org/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# Grandmother's Kitchen
+# Yummigram by Grandmother's Recipes
 
 This Privacy Policy governs the manner in which Grandmother's Kitchen collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.grandmotherskitchen.org](http://grandmotherskitchen.org/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Grandmother's Kitchen.
 
 **Personal identification information**
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, place an order, and in connection with other activities, services, features or resources we make available on our Site.. Users may visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, place an order, and in connection with other activities, services, features or resources we make available on our Site.. Users may visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.  
+We use Ezoic to provide personalization and analytic services on this website, as such Ezoic's privacy policy is in effect and can be reviewed [here](http://g.ezoic.net/privacy/grandmotherskitchen.org).  
+
 
 **Non-personal identification information**
 
@@ -24,6 +26,8 @@ Grandmother's Kitchen may collect and use Users personal information for the fol
 We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
   * _\- To send periodic emails_  
 We may use the email address to send them information and updates pertaining to their order. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+
+
 
 **How we protect your information**
 
@@ -57,9 +61,79 @@ By using this Site, you signify your acceptance of this policy and [terms of ser
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 [Grandmother's Kitchen](http://grandmotherskitchen.org/)  
-[www.grandmotherskitchen.org](https://web.archive.org/web/20180628062431id_/http%3A//grandmotherskitchen.org/www.grandmotherskitchen.org)  
-68 Songhees Road, Victoria, BC, Canada, V9A0A3  
-1-250-857-0929  
+[www.grandmotherskitchen.org](http://grandmotherskitchen.org/www.grandmotherskitchen.org)  
+GrandmothersKitchen.org by Wikidee SEZC  
+HSBC House, 68 West Bay Road, Grand Cayman  
 emailgrandmotherskitchen@gmail.com
 
-This document was last updated on April 4, 2014 
+This document was last updated on December 8, 2018 
+
+### Search for Recipes on Yummigram
+
+Yummigram by Grandmother's Recipes - Download our APP for all of these recipes on your phone.
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
