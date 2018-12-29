@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cookinglsl.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629180445id_/https%3A//cookinglsl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cookinglsl.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229205147id_/https%3A//cookinglsl.com/privacy-policy) for the most accurate reproduction.*
 
 # Cookinglsl.com Privacy Policy
 
