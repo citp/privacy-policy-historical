@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the androidbiits.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625211510id_/http%3A//androidbiits.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidbiits.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229191621id_/http%3A//androidbiits.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Android Biits
 
@@ -23,4 +23,4 @@ You can consult the respective privacy policies of these third-party ad servers 
 
 If you want to disable cookies, then you can do so through your individual web browser options. You can obtain more information about cookie management with specific web browsers at the browsers’ respective websites.
 
-If you have any questions or require any more information about our privacy policy, then you can contact us by email at admin@androidbiits.com.
+If you have any questions or require any more information about our privacy policy, then you can contact us.
