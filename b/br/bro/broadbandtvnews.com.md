@@ -1,59 +1,74 @@
-> *The following text is extracted and transformed from the broadbandtvnews.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214052317id_/http%3A//www.broadbandtvnews.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadbandtvnews.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229064218id_/https%3A//www.broadbandtvnews.com/about/about-terms-conditions) for the most accurate reproduction.*
 
-# Broadband TV News | Privacy and Cookie Policy
+# Our Privacy Policy – Terms and Conditions
 
-**Privacy and Cookie Policy**
+By using this site you acknowledge your acceptance to the terms and conditions specified below.
 
-Broadband TV News (BTN) is committed to protecting the privacy of broadbandtvnews.com users and the overall integrity of the Internet. To that end, we are disclosing here any issues related to privacy in the collection by BTN of personally identifiable information from users of broadbandtvnews.com.
+Broadband TV News LLP is not responsible for the content of any external internet websites that are linked to this site.
 
-The Privacy Policy of Broadband TV News (a partnership based in the United Kingdom and the Netherlands), and publisher of e-newsletter Broadband TV News, discloses what information the company gathers and how it is used. It demonstrates our deep commitment to full disclosure regarding privacy issues. Since Broadband TV News gathers certain types of information about its subscribers, the company wants subscribers to fully understand the terms and conditions surrounding the capture and use of that information.
+The contents of Broadband TV News LLP are copyright. Any part of this site may not be copied, reproduced or republished without the written consent of Broadband TV News LLP. You may share content via the social functions.
 
-‘Subscription’ occurs when an end-user registers for services from Broadband TV News, either via registration at the company’s websites, via co-registration at a marketing partner’s website, or via an opt-out mailing. The company collects personally identifiable information about its subscribers, based on: information gathered, subject to the required disclosures and consents, at the time of registration, subscriber interaction and response to subsequent electronic mailings and website use, information provided by marketing partners, and information appended from data aggregators. Information collected may include, but is not necessarily limited to: name, email address, business name, job title and demographic information. This information enables Broadband TV News to better tailor its content to subscribers’ needs and to help its clients to their products and services. During registration the subscriber is required to supply an email address and other personal information. Subscribers have the ability to contact Broadband TV News to provide the company with their feedback. The company uses this information to respond to the subscriber and improve its products/services.
+While Broadband TV News LLP makes every effort to ensure the information contained in this website is accurate at the time of publication, Broadband TV News LLP do not accept any liability for any errors or omissions.
 
-Broadband TV News will never willfully disclose personally identifiable information about its customers to any third party without first receiving that customer’s permission, unless necessary for legal reasons.
+Broadband TV News LLP do not endorse or warrant the quality of products and services provided by companies advertising on this site. Broadband TV News LLP cannot be held liable for any a loss arising from use, information or profit, whether negligent or tortous arising from use of this site.
 
-We have adopted a set of information management guidelines that serve as the basis for our customer and advertiser relationships. These have been developed to comply with the Data Protection Act 1998 and the Privacy and Electronic Communications (EC Directive) Regulations 2003\. We take note of advice published from time to time by the Information Commissioner.
+Where our site contains links to other sites and resources provided by third parties, these links are provided for your information only. We have no control over the contents of those sites or resources, and accept no responsibility for them or for any loss or damage that may arise from your use of them. When accessing a site via our website we advise you check their terms of use and privacy policies to ensure compliance and determine how they may use your information.
 
-Accordingly, guidelines are subject to change and any such changes to our privacy policy will be posted on this page without notification.
+These terms and conditions shall be governed in accordance of the laws of England and Wales.
 
-For information on the Data Protection Act 1998, the Privacy and Electronic Communications (EC Directive) Regulations 2003 and the Information Commissioner please follow this link [www.dataprotection.gov.uk](http://www.dataprotection.gov.uk/)
+* * *
 
-A summary of the measures taken by BTN to protect our users’ privacy is as follows:
+**Our Privacy Policy**
 
-We do not provide or sell your details to third parties. In the case of email these offers will only come to you directly from BTN.
+Broadband TV News LLP will be what’s known as the ‘Controller’ of the personal data you provide to us. We only collect basic personal data about you which does not include any special types of information or location based information. This does however include name, address, email, company, and job description.
 
-BTN and our group of companies many contact you by post or telephone with details of their products, services and promotions. In the case of email and SMS this correspondence will only be sent to those users who have opted in to receive communications via these methods.
+_Why we need your data_  
+We need to know your basic personal data in order to provide you with our daily and weekly news services as well as relevant marketing messages in line with this overall contract. We will not collect any personal data from you we do not need in order to provide and oversee this service to you. 
 
-All our email and SMS correspondence includes an unsubscribe option.
+_Our website_  
+When someone visits www.broadbandtvnews.com we use a third party service, Google Analytics, to collect standard internet log information and details of visitor behaviour patterns. We do this to find out things such as the number of visitors to the various parts of the site. This information is only processed in a way which does not identify anyone. We do not make, and do not allow Google to make, any attempt to find out the identities of those visiting our website.
 
-We reserve the right to disclose information about member usage and demographics to advertisers and partners, but in anonymous aggregate form only. BTN will not reveal your personal identity in connection with the disclosure of such information.
+_Our mailing list_  
+As part of the registration process for our newsletters, we collect personal information. We use that information for a couple of reasons: to tell you about stuff you’ve asked us to tell you about; to contact you if we need to obtain or provide additional information; to check our records are right and to check every now and then that you’re happy and satisfied. We don’t rent or trade email lists with other organisations and businesses.  
+We use a third-party provider, MailChimp, to deliver our newsletter. We gather statistics around email opening and clicks using industry standard technologies to help us monitor and improve our e-newsletter. For more information, please see [MailChimp’s privacy notice](https://mailchimp.com/legal/privacy/). You can unsubscribe to our mailings at any time of the day or night by clicking the unsubscribe link at the bottom of any of our emails or by emailing admin@broadbandtvnews.com
 
-**What personally identifiable information do we collect about you?**  
-We collect information on our users through registration. We require users to provide us with a name, email address, postal address, postcode, gender and date of birth in order to register for access to certain services. We may also ask for other non-mandatory demographic information from subscribers, including number of children and occupation.
+_Why did you receive a mailing from us?_  
+Our email marketing is permission based. If you received a mailing from us, our records indicate that (a) you have expressly shared this address for the purpose of receiving information in the future (“opt-in”), or (b) you have registered or purchased or otherwise have an existing relationship with us. We respect your time and attention by controlling the frequency of our mailings.
 
-**This information is stored by us and our data processors.**  
-Following registration we may employ a registration cookie to recognise a subscriber and his or her access privileges on BTN, as well as to track site usage.
+If you believe you have received unwanted, unsolicited email sent via this system or purporting to be sent via this system, please forward a copy of that email with your comments to admin@broadbandtvnews.com for review.
 
-We may also collect personal information from you through your use of enquiry and feedback forms and every time you email us your details.
+_How can you stop receiving email from us?_  
+Each email sent contains an easy, automated way for you to cease receiving email from us, or to change your expressed interests. If you wish to do this, simply follow the SafeUnsubscribe or Update Profile links at the end of any email.
 
-We also log IP addresses, or the location of your computer on the Internet, for systems administration and troubleshooting purposes. We occasionally use IP addresses to track a user’s session, but do not link IP addresses to personally identifiable information.
+_How we protect your privacy_  
+We use appropriate security measures to protect against the loss, misuse and alteration of data used by our system.
 
-**What do we do with the information collected?**  
-We may perform statistical analyses of user behaviour in order to measure relative consumer interest in the various areas of our site (for product development purposes) and to inform advertisers as to how many consumers have seen or ‘clicked’ their advertising banners. In performing these statistical analyses, we will disclose information to third parties only in aggregate form. Personal information on individual subscribers will not be provided to any third party if you object.
+_Sharing and Usage_  
+We will never share, sell, or rent individual personal information with anyone for their promotional use without your advance permission or unless ordered by a court of law. Information submitted to us is only available to employees managing this information for purposes of contacting you or sending you emails based on your request for information, and to contracted service providers for purposes of providing services relating to our communications with you.
 
-We may periodically send you email updates on broadbandtvnews.com and services offered by broadbandtvnews.com and its advertisers. Only those users who have opted in to receive these communications via email or SMS will receive this information via these methods. If you wish to opt out of receiving such information from us, please use the unsubscribe option included in all our email correspondence [Send us an email](mailto:office@broadbandtvnews.com) stating that you would prefer not to receive such mailings.
+However, from time to time we do send so-called ‘partnermailings’ from third parties to our database of subscribers. We always use our own mailing service provider for these mailings and never make the actual addresses available to any third-party. We send these promotional mailings – as well as banner advertising on our website and in our newsletters – in order to finance our daily news service, which is completely free of charge to our readers.
 
-We will also use your information to target banner and box advertising on the site so you will see advertising that may be more relevant to you. You will never be targeted as an individual, but as a larger demographic group of similar users. This use of your personal information is contractual to the use of broadbandtvnews.com. If you do not wish your information to be used in this way then you will be unable to use those areas of broadbandtvnews.com that require registration.
+_Use of Web Beacons_  
+When we send you emails, we may include a web beacon to allow us to determine the number of people who open our emails. When you click on a link in an email, we may record this individual response to allow us to customize our offerings to you. Web beacons collect only limited information, such as a cookie identifier, time and date of a page being viewed, and a description of the page on which the Web Beacon resides (the URL).
 
-“Third party” advertising cookies: Most of the advertisements you see on broadbandtvnews.com are generated by third parties. Some of these third parties generate their own cookies to track how many people have seen a particular advertisement (or use the services of third parties to do this), and to track how many people have seen it more than once. These cookies cannot be used to identify an individual; they can only be used for statistical purposes, for example, in providing you with advertisements that are more relevant to your interests. Some of the information gleaned from third party cookies will be aggregated with other anonymous information for statistical purposes. The third party companies that generate these cookies have their own, very strict, privacy policies but we don’t have access to these cookies; other than allowing them to be served, we have no role to play in these cookies at all (although we may use statistical information arising from these third party cookies and provided to us by third parties, to improve the targeting of advertisements to users of broadbandtvnews.com).
+Web Beacons can be refused when delivered via email. If you do not wish to receive Web Beacons via email, you will need to disable HTML images or refuse HTML (select Text only) emails via your email software.
 
-If you would like to disable “third party” cookies generated by advertisers or providers of targeted advertising services, you can turn them off by going to the third party’s website and getting them to generate a one-time“ no thanks” cookie that will stop any further cookies being served to your machine. 
+_Events registration_  
+When you order a ticket (or tickets) for one of our events online your name, address data, email and contact number will be stored in the third party system we are using, Eventbrite. Please be assured that we do not share your personal details with any other company without your consent. For more information, please see [Eventbrite’s privacy notice.](https://www.eventbrite.co.uk/support/articles/en_US/Troubleshooting/eventbrite-privacy-policy?lg=en_GB)
 
-**With whom do we share the information we collect?  
-**We will not sell, trade or rent your personal information to others unless you have given us your permission. With your permission we will only share the information with carefully chosen, reputable and trustworthy third parties. Also, we may provide aggregate statistics on our customers, sales, traffic patterns and related site information to reputable third-party vendors, but these statistics will include no personally identifying information.
+_What we do with your data_  
+All the personal data we process is processed by our staff in the European Union, however for the purposes of IT hosting and maintenance this information is located on servers within the United States. No third parties have access to your personal data unless the law allows them to do so. 
 
-We are not responsible for the content or the privacy policies of websites to which broadbandtvnews.com may link.
+_How long we keep your data_  
+We are required under UK tax law to keep your basic personal data (name, address, contact details) for a minimum of 6 years after which time it will be destroyed. Your information we use for marketing purposes will be kept with us until you notify us that you no longer wish to receive this information. 
 
-We may employ external companies to act on our behalf as data processors for internal business purposes. Data processors will abide by the Privacy Policy detailed here and will not disclose personal details to any other organisations or use data other than for purposes required by us. 
+_What are your rights_  
+If at any point you believe the information we process on you is incorrect you can request to see this information and have it corrected or deleted. If you wish to raise a complaint on how we have handled your personal data, you can contact us to have the matter investigated. admin@broadbandtvnews.com
 
-This use of your personal details is contractual to the use of broadbandtvnews.com
+If you are not satisfied with our response or believe we are processing your personal data not in accordance with the law you can complain to the Information Commissioner’s Office <https://ico.org.uk/>
+
+* * *
+
+Broadband TV News LLP is a company registered in England and Wales. Registered Number: OC351738. VAT Registration No: 984 3863 68
+
+Registered Office: 10 Wellington Street, Cambridge CB1 1HW
