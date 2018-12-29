@@ -1,60 +1,132 @@
-> *The following text is extracted and transformed from the expats.cz privacy policy that was archived on 2017-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170724031423id_/https%3A//www.expats.cz/prague/article/expats-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expats.cz privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229202038id_/https%3A//news.expats.cz/expats-info/privacy-policy) for the most accurate reproduction.*
 
-# User/ Advertising User: PRIVACY POLICY, Prague - Czech Republic
+# PRIVACY POLICY - Prague, Czech Republic
 
-**PRIVACY POLICY**
+_Last update effective: 23 May 2018_
 
-**User Privacy**  
-Howlings SRO is a website that lets you meet and interact with new people and businesses. Like any website that offers a service where you register and provide information about yourself or your opinions, it is wise to pay attention to your personal information. At Howlings SRO we understand this, and have established this Privacy Policy to explain how information is collected on our website, and how this information is used. This Privacy Policy is applicable to both users and advertisers of the site. 
+## **Who we are**
 
-**User Information Collected by Howlings SRO**
+Howlings s.r.o., ID no.: 275 72 102, with registered office at Vítkova 244/8, Karlín, 186 00 Praha 8 (hereinafter “ **Howlings** ”), is the data controller in the context of your use of the website [https://www.expats.cz](https://www.expats.cz/) and related services (hereinafter the “ **Services** ”). At Howlings we value your privacy and in this Policy we explain how we collect and use your personal information as well as what are your rights when it comes to the personal information protection.
 
-**Personally Identifiable User Information**  
-All user’s/ advertisers begin using Howlings SRO's services by registering on the Howlings SRO website. When registering, user’s/ advertisers provide personally identifiable information, which includes information such as first and last name, email address, zip/post/PSC code, a user-chosen password, date of birth, and other personal information. To complete the registration process, Howlings SRO sends a validation email message to each user, with a URL link back to our website. This URL contains an alphanumeric identifier and a user-specific numeric passcode that allows us to confirm the user’s/ advertisers identity.
+## **What personal information do we collect and how?**
 
-**Cookies and Passive Data Collection**  
-Howlings SRO logs standard user information and clickstream data for all user’s/ advertisers, including a user’s/ advertisers IP address, operating system, and page views. When user’s/ advertisers visit particular pages within Howlings SRO, a User ID may be placed in the URL, allowing customized features for the user. User’s/ advertisers should be aware that other websites visited before entering Howlings SRO might place personally identifiable information within a user’s/ advertisers URL during a visit to their website, and Howlings SRO has no control over such websites. Accordingly, some of this information may be logged by a subsequent website that collects URL information. In addition to the standard log information, Howlings SRO uses a variety of technologies to create a more personalized experience for its user’s/ advertisers. Cookies are small data files sent by websites to a user’s/ advertisers browser and hard drive that identify the computer to the website. We use cookies to allow enhanced features, such as allowing registered user’s/ advertisers to bypass typing their passwords before entering the website. We may also use cookies to enable customizable content for user’s/ advertisers, as they become available. User’s/ advertisers have the option, within their Internet browsers, to disable cookies and continue to access the Howlings SRO website. We do not have access to, nor control over, advertisers' cookies or how they may be used. 
+The majority of personal information we process is provided directly by you:
 
-**Document Retention Schedule**  
-All personal information collected by Howlings SRO in connection with your use of the Howlings SRO website, including, without limitation, your name, location, email address, pictures, friend connections, messages, comments, login information, ip addresses and other data, will be stored by Howlings SRO indefinitely in a safe and secure manner.
+  * **When you create an account and/or use within our Services**
 
-**How Howlings SRO Uses the User Information**
 
-**Personally Identifiable Information**  
-Howlings SRO may use personally identifiable user information for the purposes of the Howlings SRO website. Personally identifiable information may be displayed to people in order to facilitate user interaction on Howlings SRO. Howlings SRO may share the email address and/or other personally identifiable information of any registered user with third parties for marketing purposes. In addition, Howlings SRO may share a registered user’s/ advertisers email address with third parties to target advertising and to improve user experience on Howlings SRO's pages in general.
 
-**Cookies and Passive Data Collection**  
-Howlings SRO uses cookie, IP address, clickstream and URL information to improve the content of the Howlings SRO website, the quality of Howlings SRO servers, and to provide enhanced features to user’s/ advertisers, where available. We use cookies to save User IDs, session validations, and on user’s/ advertisers' browsers and hard drives, and may use them to provide tailored products or services to those user’s/ advertisers, as they become available. We also cross-match user information with information collected from cookies and clickstream data in order to test features of the Howlings SRO website, and to better personalize our various offerings for user’s/ advertisers. IP Addresses also help us to diagnose problems with our server, to administer the Howlings SRO site, and to otherwise provide the Howlings SRO service to its user’s/ advertisers. IP addresses may be disclosed to a third party if we believe in good faith that the law or legal process so requires, or to protect the rights or property of Howlings SRO or others. From time to time we may extend various offers from various partner companies, including news or additional details on products and services. A user’s/ advertisers usage history may result in specifically tailored special offer screens or products. We may also produce aggregate reports for advertisers. For example, we may report to advertisers the number of user’s/ advertisers who clicked on an ad, or the number of user’s/ advertisers that visited different portions of the Howlings SRO website. This information will not include personally identifiable information about a user, or a specific user’s/ advertiser’s online usage patterns.
+We collect data from you when you create an account with us and/or use our Services, request information, subscribe for a service, post a review, post a question or answer, submit a CV, upload content or otherwise actively send us data through the Services. This may include, but is not limited to, your user name, password, first and last name, e-mail, address, telephone number (including mobile phone number), gender, occupation, interests, messages you send to other users, and any other data contained in a submitted CV and any other information submitted to employers through the Services.
 
-**Profile Information**  
-Howlings SRO allows Members and advertisers to provide information to a profile and/or services that is accessible to other user’s/ advertisers. We use this profile information for the purposes of providing our services to Members and advertisers, such as to analyse demographics, to better personalize our various offerings for user’s/ advertisers, or to enable other user’s/ advertisers to find your profile. We also caution you when sharing sensitive information with other user’s/ advertisers whom you do not know or when placing such information in your profile. 
+If you decide to make a purchase through our Services we may ask you for the details needed to facilitate the payment. This information includes your name, surname, IČO, DIČ, billing address, e-mail address, and telephone number (including mobile phone number). Expats.cz does not store your credit card number or CVV code.
 
-**Sharing Your Content and Information**  
-Howlings SRO allows Members and advertisers to upload and share content and information. With content that you own, you specifically give Howlings SRO the following permission: you grant us a non-exclusive, transferable, sub-licensable, royalty-free, worldwide license to use any IP content that you post on or in connection with Howlings SRO ("IP License"). For example, Howlings SRO may make commercial use and/or otherwise display your name and/or IP Content in or in connection with endorsements of and/or advertisements promoting Howlings SRO and its Services. This IP License ends when you delete your IP content or your account, unless your content has been shared with others, such as in the context of a thread conversation or within a private message and they have not deleted the content or in the instance of public domain information. When you delete non public IP content it is removed from the website. However, you understand that we may maintain backup copies of the content, as part of our document retention policy.
+  * **Information we collect about you automatically**
 
-**Surveys and Contests**  
-At various times we may offer surveys or contests to user’s and advertisers. Surveys may ask for contact, demographic or unique identifying information to increase the value of the results. Contests may require contact information or other demographic or personally identifiable information in order to determine eligibility. Howlings SRO may use information collected from surveys and contests to determine, notify and contact winners of various contests. In addition, user’s/ advertisers' demographic and/or personally identifiable information and responses to survey and contest questions may be used by Howlings SRO and/or shared with third parties in order to provide specifically tailored special offers or advertisements. 
 
-**Third Party Links and Ad Servers**  
-Please be aware that links to third party websites and third-party ad server advertisements that are found on Howlings SRO may, or may not, use cookies, pixel tags and web tags. Howlings SRO may provide links to third party websites, which may, or may not, use cookies, pixel tags and web tags. Ad servers may also use these tools to compile information about where user’s/ advertisers saw particular advertisements, and to determine which ads were clicked on. We are not responsible for, or have any control over, the privacy policies of those third party websites and ad servers, and encourage all user’s/ advertisers to read the privacy policies of each and every website visited when linking directly from Howlings SRO.
 
-**Protection of Howlings SRO and Others**  
-Howlings SRO may disclose personally identifiable user information if required to do so by law or in the good faith belief that such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal process. Howlings SRO may also disclose information about its user’s/ advertisers to law enforcement officers or others, in the good faith belief that such disclosure is reasonably necessary to: enforce our Terms of Service; respond to claims that any posting or other content violates the rights of third-parties; respond to your requests for customer service; or protect the rights, property, or personal safety of Howlings SRO, its user’s/ advertisers or the general public.
+We automatically collect information about how you use our Services, the areas of our Services that you visit, as well as information about your computer including your IP address, physical location, browser and operating system type, and referring URLs. This information is necessary for providing personalized and location-based content as well as for analysing web traffic, troubleshooting problems, preventing fraud, and improving our services. 
 
-**Security**  
-Howlings SRO uses industry standard security measures to prevent the loss, misuse and alteration of the information under our control. Although we make good faith efforts to store the information collected by the Howlings SRO website in a secure operating environment that is not available to the public, we cannot guarantee complete security. Further, while we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "hackers" from illegally obtaining this information.
+  * **Information provided by third parties**
 
-**No Spam Policy**  
-We at Howlings SRO.com are opposed to spam. Our No Spam Policy and Terms of Service prohibit all user’s/ advertisers from engaging in any activity involving spam on our service. Violations of these policies may result in immediate termination of service and legal action against any spammer. Howlings SRO's Terms of Service expressly prohibit user’s/ advertisers from uploading, posting, emailing, transmitting or otherwise making available junk mail, commercial advertisements, or other form of commercial solicitation on the Howlings SRO website or through Howlings SRO's services. Such violations may subject the sender and his or her agents to civil and criminal penalties.
 
-**Other Disclosures**
 
-**Change of Ownership**  
-In the event of a change in ownership, or a direct merger or acquisition with another entity, we reserve the right to transfer all of Howlings SRO's user information, including email addresses and postal addresses, to a separate entity. All registered user’s/ advertisers will be notified of any change in ownership, merger or acquisition of Howlings SRO's assets by a third party, and may choose to modify any of their registration information at that time.
+We may also receive your personal information from third parties, for example if you choose to sign in with Facebook or similar sites, we import the requested information from your account and we make it part of your Expats.cz account. 
 
-**Revisions to This Policy**  
-Howlings SRO reserves the right to revise, amend, or modify this policy and our other policies and agreements at any time and in any manner. Notice of any revision, amendment, or modification will be posted on the website, and a user’s/ advertisers continued use of Howlings SRO will signify agreement to such changes.
+## **What purposes we process your personal information for (and on what legal basis)?**
 
-**USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO THE PRIVACY POLICY.**
+  * **Account maintenance and keeping in touch**
 
-Updated as of June 1st, 2012
+
+
+We need your personal information to be able to create and maintain your user account and to be able to communicate with you and provide customer service. 
+
+The legal basis we rely on in this case is performance of contract. 
+
+  * **Manage your requests within the Services**
+
+
+
+We need to process your personal information to be able to manage the requests you make within our Services. 
+
+The legal basis we rely on in this case is performance of contract. 
+
+  * **Traffic optimization and distribution, protection of other users and prevention of fraud**
+
+
+
+We also process your personal information in order to improve our Services and develop them, and to ensure security and integrity of our Services and ensure that the Services operate effectively. We also need to make sure that our users are protected and safe while using the Services. 
+
+The legal basis we rely on in this case is legitimate interest. 
+
+  * **Direct marketing**
+
+
+
+Occasionally we would like to let you know about promotions we think might be of interest to you. In order to be able to do that, we need to process your personal information. 
+
+The legal basis we rely on in this case is legitimate interest (if you have had previously created an account within our Services or otherwise used them), or your consent. 
+
+  * **Facilitating Payment**
+
+
+
+If you provide credit, debit or other payment card and related details to us in order to make a payment, we will use such information only for the purpose of processing the payment.
+
+The legal basis we rely on in this case is performance of contract. 
+
+  * **Processing of personal information on the basis of consent**
+
+
+
+On some occasions we process your personal information on the basis of your consent. You have the right to withdraw consent at any time. Where consent is the only legal basis for processing, we will cease to process data after consent is withdrawn.
+
+  * **Compliance with a legal obligation**
+
+
+
+Sometime we have to process your personal information in order to comply with a legal obligation. For example, we are required by law to retain business records (which may contain your personal information) for fixed periods of time. 
+
+## **How long do we keep personal information?**
+
+We will retain your personal information to the extent such retention is adequate, relevant and limited to what is necessary for the purposes for which they are processed. In particular, we shall not retain your personal information for any longer than necessary for the purposes of performing the processing outlined in this Policy.
+
+## **Use of HotJar Analytics**
+
+Expats.cz uses [Hotjar](http://www.hotjar.com/) in order to better understand our users’ needs and to optimize this service and experience. Hotjar is a technology service that helps us better understand our users experience (e.g. how much time they spend on which pages, which links they choose to click, what users do and don’t like, etc.) and this enables us to build and maintain our service with user feedback. Hotjar uses cookies and other technologies to collect data on our users’ behavior and their devices (in particular device’s IP address (captured and stored only in anonymized form), device screen size, device type (unique device identifiers), browser information, geographic location (country only), preferred language used to display our website). Hotjar stores this information in a pseudonymized user profile. Neither Hotjar nor we will ever use this information to identify individual users or to match it with further data on an individual user. For further details, please see Hotjar’s privacy policy by clicking on [this link](https://www.hotjar.com/legal/policies/privacy).  **You can opt-out to the creation of a user profile, Hotjar’s storing of data about your usage of our site and Hotjar’s use of tracking cookies on other websites by following this[ opt-out link](https://www.hotjar.com/legal/compliance/opt-out). **
+
+## **How we share your personal information?**
+
+We share your information with third parties who assist us in being able to provide our Services to you. These are in particular professional service providers, such as marketing agencies, advertising partners and website hosts, who help us run our business. These entities are able to access your personal information as necessary to perform their functions, but they may not use that data for any other purpose. 
+
+Further, we disclose your personal information to the employers and service provides you choose to get in touch with through our web forms. 
+
+## **How do we process your personal information and how we keep it secure?**
+
+Processing of personal information is carried out using computers and/or IT enabled tools, following organizational procedures and modes strictly related to the indicated purposes. We have implemented appropriate organisational safeguards and security measures to protect your data from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed. The communication between your browser and our website uses a secure encrypted connection wherever your personal data is involved. We require any third party who is contracted to process your personal data on our behalf to have security measures in place to protect your data and to treat such data in accordance with the law. In the unfortunate event of a personal data breach, we will notify you and any applicable regulator when we are legally required to do so. Your personal information is processed only within the European Economic Area.
+
+## **What are your rights when it comes to the personal data protection?**
+
+You have several rights under the data privacy legislation. These include, under certain circumstances, the right to:
+
+  * Request **access to your personal data** : You have the right to obtain a copy of the personal data we hold about you and certain information relating to our processing of your personal data.
+  * Request **correction of your personal data** : You are entitled to have your personal data corrected if it is inaccurate or incomplete. You can update your personal data at any time by logging into your account and updating your details directly, or by emailing us at the contact detailed above.
+  * Request **erasure of your personal data** : This enables you to request that Howlings delete your personal data, where there is no good reason for us continuing to process it. Note, however, that we may not always be able to comply with your request of erasure for specific legal reasons of which you will be notified, if applicable, at the time of your request. 
+  * Request **restriction of processing of your personal data** : You have a right to ask Howlings to suspend the processing of your personal data in certain cases, for example if you want us to establish the accuracy of the data, or you have objected to our use of your data but we need to verify whether we have overriding legitimate grounds to use it. 
+  * Request the **transfer of your personal data** : You have the right to obtain a digital copy of your personal data or request the transfer of your personal data to another controller. Please note that this right only applies to automated data which you initially provided consent for us to use or where we used the data to perform a contract with you.
+  * The right **to complain to the data protection regulator** — in the Czech Republic it is the Office for Personal Data Protection. We would, however, appreciate the chance to deal with your concerns before you approach the regulator, so please do contact us in the first instance.
+
+
+
+## **Right to object to processing of your personal data**
+
+You have the right to object to the processing of your personal data where we believe we have a legitimate interest in processing it. You also have the right to object to our processing of your personal data for direct marketing purposes. In some cases, we may demonstrate that we have compelling legitimate grounds to process your data which override your rights and freedoms.
+
+## **How can you exercise your rights towards us?**
+
+If you want to exercise any of your rights, please contact us using the contact information below. Please note that in order to be able to manage our request we need to be sure about your identity and we may require that you provide us with additional proof of identity if we deem this to be necessary.
+
+Should you have any questions about this Policy, would like us to stop using your information, want to exercise any of your rights as set out below, or have a complaint, get in touch with us by e-mail at [privacy@expats.cz](mailto:privacy@expats.cz), or by post at Vítkova 244/8, Karlín, 186 00 Praha 8.
+
+## **Changes to this Privacy Policy**
+
+We may change this Privacy Policy from time to time, to reflect how we are processing your personal information. If we make significant changes, we will make that clear within our Services, or by some other means of contact such as email, so that you are able to review the changes before you continue the Services.
