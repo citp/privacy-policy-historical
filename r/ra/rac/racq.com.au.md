@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the racq.com.au privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001225638id_/https%3A//www.racq.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racq.com.au privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229195941id_/https%3A//www.racq.com.au/privacy) for the most accurate reproduction.*
 
-# Privacy Statement | RACQ
+# Privacy Statement - RACQ
 
 ### RACQ Group Privacy Policy
 
@@ -23,7 +23,7 @@ RACQ collect, hold, use and disclose your personal information in a number of wa
 
 ## Purpose
 
-The purpose of this privacy policy is to clearly outline the types, and circumstances, of personal information collected by us, and how we handle, use and disclose that personal information. It provides general information about how RACQ manage your personal information. If you purchase or acquire a product or service from RACQ Bank, you will receive further information about how we deal with your personal information (including credit-related information). Please refer to the RACQ Bank Credit Reporting Policy for further information.
+The purpose of this privacy policy is to clearly outline the types, and circumstances, of personal information collected by us, and how we handle, use and disclose that personal information. It provides general information about how RACQ manage your personal information. If you purchase or acquire a product or service from RACQ Bank, you will receive further information about how we deal with your personal information (including credit-related information). Please refer to the [RACQ Bank Privacy and Credit Reporting Policy](https://web.archive.org/-/media/racq/banking/pdfs/downloads/racq-bank-privacy-and-credit-reporting-policy021118.pdf?la=en&hash=082B85029EF3F83669F15F6BD19B52D132631A4E) for further information.
 
 RACQ collects personal information from you, in order to identify you and provide products, benefits and services to you. To discuss the exact information we require for each product, please contact us on 13 19 05 or visit any RACQ branch. You may also email us at [privacy@racq.com.au.](mailto:privacy@racq.com.au)
 
@@ -35,7 +35,7 @@ If you chose not to provide us with the information that we have requested, in m
 
 ## Questions, comments and complaints
 
-If you have any questions or comments regarding your privacy in relation to RACQ, please contact us on 13 19 05 or email us at [privacy@racq.com.au](mailto:privacy@racq.com.au) 
+If you have any questions or comments regarding your privacy in relation to RACQ, please contact us on 13 19 05 or email us at [privacy@racq.com.au](mailto:privacy@racq.com.au)
 
 If you believe that we have not fulfilled our obligations under the Privacy Act or you do not agree with a decision made by RACQ in relation to the access or update of your personal information, you can make a complaint to us by writing to us at:
 
@@ -44,7 +44,7 @@ Group Risk & Compliance
 PO Box 4 Springwood QLD 4127   
 email: **[privacy@racq.com.au](mailto:privacy@racq.com.au)**
 
-Once we have received your complaint, we will investigate and endeavor to respond to you within 10 working days. If you are unhappy with the response from RACQ, you can direct your complaint to the Federal Privacy Commissioner at: Office of the Australian Information Commissioner (OAIC) GPO Box 5218 Sydney NSW 1042 
+Once we have received your complaint, we will investigate and endeavour to respond to you within 10 working days. If you are unhappy with the response from RACQ, you can direct your complaint to the Federal Privacy Commissioner at: Office of the Australian Information Commissioner (OAIC) GPO Box 5218 Sydney NSW 1042 
 
 Phone: 1300 363 992
 
@@ -54,7 +54,7 @@ email: **[privacy@privacy.gov.au](mailto:privacy@privacy.gov.au)**
 
 ## Changes to this privacy statement
 
-This privacy statement was last updated on 6 July 2017. RACQ continuously reviews our privacy statement and procedures to keep up to date with relevant legislative and operating requirements. As a result, we may update and change this privacy statement from time-to-time and these changes will be updated on our website. If you have a concern or query about this process and how it may affect you, please contact us at [privacy@racq.com.au.](mailto:privacy@racq.com.au)
+This privacy statement was last updated on 24 September 2017. RACQ continuously reviews our privacy statement and procedures to keep up to date with relevant legislative and operating requirements. As a result, we may update and change this privacy statement from time-to-time and these changes will be updated on our website. If you have a concern or query about this process and how it may affect you, please contact us at [privacy@racq.com.au.](mailto:privacy@racq.com.au)
 
 ## Your consent
 
@@ -155,9 +155,10 @@ We use the personal information we collect to provide services, benefits and pro
 
 Further, we will share your personal information with all companies that form part of RACQ. If one company within RACQ collects your personal information, other entities within RACQ may use and disclose your personal information for the purposes described in this Privacy Policy.
 
-We may also use personal information for other purposes where you would reasonably expect us to and the purpose is related to the purpose of collection, or where otherwise permitted by law.
+We may also use personal information for other purposes where you would reasonably expect us to and the purpose is related to the purpose of collection, or where otherwise permitted by law.  
 
-## Using your information to market products and services to you 
+
+Using your information to market products and services to you 
 
 RACQ may use your personal information that we have collected to identify a product or service that may be of benefit to you and may contact you to let you know about these. RACQ may also disclose your personal information to our business partners or related entities to enable them to tell you about a relevant RACQ product or service.
 
@@ -205,7 +206,7 @@ Overseas organisations may be required to disclose information we share with the
 
 If you request it, we will provide you a summary of any personal information held about you in accordance with our obligations under the Privacy Act 1988 (Cth). If you request detailed information, RACQ may charge a fee for the retrieval of this information. 
 
-Any requests for information will be processed within a reasonable timeframe (usually within 10 business days). If the retrieval of information involves accessing archived information and will take longer than normal, we will endeavor to provide you with an estimated timeframe. 
+Any requests for information will be processed within a reasonable timeframe (usually within 10 business days). If the retrieval of information involves accessing archived information and will take longer than normal, we will endeavour to provide you with an estimated timeframe. 
 
 Under some circumstances, we may refuse you access to personal information where denying access is required or authorised by law, for example if access would pose a threat to life or the health of anyone, where the request for access is regarded as frivolous or vexatious, or where information relates to anticipated or legal proceedings. If you are denied access to your information, we will explain why.
 
