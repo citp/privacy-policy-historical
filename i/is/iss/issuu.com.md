@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the issuu.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628222857id_/https%3A//issuu.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the issuu.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229175957id_/https%3A//issuu.com/legal/privacy) for the most accurate reproduction.*
 
 # Issuu - Terms of Service
 
 **Last Updated: July 28th, 2015**
 
-**PLEASE NOTE: The Issuu Privacy Policy is effective as of the "Last Updated" date above. (See[here](https://web.archive.org/web/20180628222857id_/https%3A//issuu.com/legal/privacy/2015february) for the previous version of the Privacy Policy.)**
+**PLEASE NOTE: The Issuu Privacy Policy is effective as of the "Last Updated" date above. (See[here](https://web.archive.org/web/20181229175957id_/https%3A//issuu.com/legal/privacy/2015february) for the previous version of the Privacy Policy.)**
 
 Issuu, Inc. operates the Issuu service and related services, applications, domains and networks offered by Issuu ("Issuu Service"). The Issuu Service allows you to connect, collaborate, share, and remix documents with other users of the Issuu Service community on the Internet. Issuu’s Privacy Policy is designed to help you understand how we collect and use your information. By using or accessing the Issuu Service, you are accepting the practices described in this Privacy Policy. We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of the policy. We encourage you to review the Privacy Policy whenever you access the Issuu Service to stay informed about our information practices. 
 
