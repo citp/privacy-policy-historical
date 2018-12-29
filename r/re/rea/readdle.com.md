@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readdle.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629075145id_/https%3A//readdle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readdle.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229095651id_/http%3A//readdle.com/privacy) for the most accurate reproduction.*
 
 # Learn more about Readdle's privacy policy
 
@@ -112,7 +112,7 @@ As an alternative to the browser add-on or within browsers on mobile devices, yo
 
 For further information on Google Analytics please refer to: http://www.google.com/analytics/terms/, https://support.google.com/analytics/answer/6004245?hl=en and https://policies.google.com/privacy?hl=en&gl=en
 
-**3.3** In order to better understand general usage patters for our Product, we use a third-party tool of Amplitude, Inc, 501 2nd Street, San Francisco, CA 94107, called Amplitude (see https://amplitude.com/privacy). Amplitude is an analytics software tool, which helps us improve our Service by providing statistical patterns of our product use. This tool does not provide us with any additional personal data about you or your behavior online.
+**3.3** In order to better understand general usage patterns for our Product, we use a third-party tool of Amplitude, Inc, 501 2nd Street, San Francisco, CA 94107, called Amplitude (see https://amplitude.com/privacy). Amplitude is an analytics software tool, which helps us improve our Service by providing statistical patterns of our product use. This tool does not provide us with any additional personal data about you or your behavior online.
 
 **3.4** Our Apps use Facebook SDK of Facebook 1 Hacker Way, Menlo Park (<https://developers.facebook.com/docs/ios/>, <https://developers.facebook.com/policy>) to analyze sources of app installations and how you use the app. Facebook SDK and Analytics is a service which helps us to improve ours Service by better understanding general app usage patterns.
 
