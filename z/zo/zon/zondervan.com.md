@@ -1,72 +1,186 @@
-> *The following text is extracted and transformed from the zondervan.com privacy policy that was archived on 2018-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180315172802id_/https%3A//www.harpercollinschristian.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zondervan.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229234900id_/https%3A//www.harpercollinschristian.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | HarperCollins Christian Publishing
 
-_Effective June 5, 2012_
+**HARPERCOLLINS CHRISTIAN PUBLISHING INC.: Privacy Notice (U.S. and Canada)**
 
-HarperCollins Christian Publishing (“HCCP” or “we”), a division of HarperCollins Publishers, has adopted the privacy policy outlined in this document (this “Policy”) applicable to all of the web sites (our or the “Sites”) of its U.S. based companies, affiliates and subsidiaries.
+**Effective Date: May 24, 2018**
 
-This Policy informs you how we collect, use and share the personally identifiable information we obtain from and about you. This Policy applies only to information collected on our Sites and not to information collected offline. We are not responsible for the content or privacy practices on any web site not operated by HCCP to which our Sites link or that links to our Sites.
+We at HarperCollins Christian Publishing Inc. (“Company”) , respect your concerns about privacy. This Privacy Notice (“Notice”) applies to personal customer information obtained by the Company, including through web sites, mobile sites, applications (“apps”) and widgets (collectively, the “Services”).
 
-By using our Sites, you express your consent for your personal data to be treated pursuant to the terms and conditions of this Policy. We encourage you to review this Policy from time to time to ensure you are aware of any changes or updates. Your continued use of our Sites following revisions to this Policy constitutes your acceptances of the revisions.
+The Notice describes the types of personal information we obtain about customers, how we use the information and with whom we share it. We also describe the measures we take to protect the security of the information and how you can contact us about our privacy practices. The Services are for a general audience, are not targeted to children, and we do not knowingly collect personal information from children under 13 years of age.
 
-**1\. CHILDREN’S PRIVACY POLICY (COPPA)**
+Click on one of the links below to jump to the listed section:
 
-Our Sites are not directed to children under the age of 13 and children under the age of 13 should not use any of our Sites. HCCP also does not knowingly collect or maintain information collected online from children under the age of 13.
+  * Information We Obtain
+  * Information Obtained by Automated Means Through Our Services
+  * How We Use the Information We Obtain
+  * Interest-Based Advertising
+  * SMS/MMS Advertising
+  * Information We Share
+  * Your Choices
+  * Accessing, Reviewing, Updating and Modifying Personal Information
+  * Notice to California Residents
+  * How We Protect Personal Information
+  * Transfers of Information
+  * Links to Third-Party Sites, Apps and Services
+  * Updates to Our Privacy Notice
+  * How To Contact Us
 
-**2\. INFORMATION WE COLLECT**
 
-a. Personally Identifiable Information. Depending on the nature of the Site, HCCP collects personally identifiable information including, but not limited to, your name, email address, mailing address, and telephone number when you voluntarily submit this information to us in order to participate in activities like blog comments, product reviews, online forums/communities, email newsletter subscriptions, or because you want us to provide you with products, services or information. In addition, we may also ask you for your country of residence and age so we can comply with applicable laws and regulations. We may also collect your credit card information when you purchase products, tickets or subscriptions on one of our Sites, but this information is only used to fulfill your purchase.
 
-b. Cookies and Other Technology. Like many other websites, our Sites employ the use of cookies and web beacons (also known as clear GIFs or “action tags”) to speed your navigation of our Sites, recognize you and automatically log you in to our Sites, track your usage of our Sites and to otherwise enable us to make your visits to our Sites more enjoyable.
+**_Information We Obtain_**
 
-i. Cookies are small pieces of information that are stored as text files by your Internet browser on your computer’s hard drive. Most Internet browsers accept cookies by default. You can set your browser to refuse cookies from Sites or to remove cookies from your hard drive, but if you do, you may not be able to access or use portions of our Sites.
+We obtain personal information about customers through the Services, publicly and commercially available sources and from our Company affiliates and/or business partners (such as YouVersion, Biblica and ChristianBook.com and social media networks). The types of personal information we may obtain include:
 
-ii. Web beacons assist in delivering cookies and help us determine whether a web page on one of our Sites has been viewed and, if so, how many times. For example, any electronic image on our Sites, such as an ad banner, can function as a web beacon.
+  * • Contact information (such as name, postal address, email address and telephone and/or mobile numbers);
+  * • Username and password when you register through our Services;
+  * • Geolocation data;
+  * • Other information you may provide to us, such as through our “Submit a Request” or “Contact Us” feature; and
+  * • Purchase history with our branded online stores.
 
-iii. We may use third-party technology to help tailor site content to users, to serve ads on our behalf, or to monitor general site usage. These companies may employ cookies and web beacons to measure effectiveness (such as which web pages are visited or what products are purchased and in what amount). Any information that these third parties collect via cookies and web beacons is not linked to any personal information collected by us.
 
-c. Log Files. As with most sites, we automatically recognize and log the Internet URL from which you access our Sites. We may also log your Internet protocol address or “IP address” (which may indicate the general location of your computer on the Internet), Internet service provider, and date/time stamp. Log files are used primarily for system administration and troubleshooting purposes.
 
-**3\. HOW WE USE YOUR INFORMATION**
+**_Information Obtained by Automated Means Through Our Services_**
 
-a. Order Fulfillment. We use your personal information to process your request for products, services or information and to provide you with customer service regarding your request.
+We also may obtain certain information through our Services by automated means, such as cookies (including  
+HTTP, HTML5 and Flash cookies), web beacons, web server logs, JavaScript and similar technologies, including technologies designed to obtain information regarding your use of our Services. The information we obtain in this manner may include IP address, mobile device advertising ID, browser characteristics, device characteristics, operating system, language preferences, referring URLs, information on actions taken on our Services, and dates and times you access or use the Services. In connection with our mobile apps, we also may obtain your phone number and details about your mobile carrier.
 
-b. Reviews / Comments / Communities. Some elements of your personal information may be displayed to others when you voluntarily participate in any of the community aspects of our Sites. Your name, avatar, IP address and comments may be displayed when you publically review a product or post a comment on one of our Sites. Additional information may be displayed to people when you voluntarily join one of our online communities.
+A “cookie” is a file that websites send to a visitor’s computer or other Internet-connected device to uniquely identify the visitor’s browser or to store information or settings in the browser. A “web beacon” also known as an Internet tag, pixel tag or clear GIF, links web pages to web servers and their cookies and may be used to transmit information collected through cookies back to a web server. Through these automated collection methods, we obtain “clickstream data,” which is a log of the links and other content on which a visitor clicks while browsing a website. As the visitor clicks through the website, a record of the action may be collected and stored. We also may use similar automated means to obtain and store information regarding your actions while using our mobile apps.
 
-c. Content / Layout / Design. We may internally use your personal information to improve the content, layout and design of our Sites and marketing efforts, and to determine general trends from visitors to our Sites.
+We may link certain data elements obtained through automated means, such as your browser or device information, with other information we have obtained about you to let us know, for example, whether you have opened an email we sent to you, what search queries you may have run and what advertisements you may have seen on our Services or on third-party websites and apps. Your browser may tell you how to be notified when you receive certain types of cookies or how to restrict or disable certain types of cookies. You also may be able to delete your Flash cookies or adjust your Flash cookie settings by visiting the Adobe Flash [Website Storage Settings Panel](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html) and [Global Storage Settings Pane](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager03.html) _l_. Please note, however, that without cookies you may not be able to use all of the features of our Services. Your device settings also may allow you to prohibit mobile app platforms (such as Apple and Google) from sharing certain information obtained by automated means with us through our apps or other app developers.
 
-d. Communications. We may use your personal information to communicate with you about your request for products, service or information, when you purchase a product, ticket or subscription from us, or when you become a member of one of our Sites. These one-time “transactional” emails are a necessary part of our fulfilling your request or order so you cannot opt-out of these. We may also use your email address to send you content-based email newsletters or communications regarding products and services for sale; however, you will have the option of opting out of these types of communications. You may also globally opt-out of any future email communication from HCCP. Please see the Opt-Out and Correction section for additional information.
+In addition, if you register with us through or connect your account with us to a third-party social media network (such as Facebook or Twitter), we may obtain certain information about you from the relevant social media network, such as your user ID and/or user name associated with that social media network, the information contained in your public profile on the social media network and friends lists. The specific information we obtain depends on your privacy settings on the applicable social media network.
 
-e. External Use. HCCP does not sell, rent, trade, license or otherwise disclose your personal information to anyone other than to entities under the direct control of HCCP, except that:
+The providers of third-party apps, tools, widgets and plug-ins on our Services, such as social media sharing tools, also may use automated means to collect information regarding your interactions with these features. This information is collected directly by the providers of those features and is subject to the privacy policies or notices of those providers. The Company is not responsible for those providers’ information practices.
 
-i. We sometimes need to use third-party companies to perform specific business-related functions on our behalf. For example, we partner with third parties (such as the U.S. Postal Service, United Parcel Service, and Federal Express) to ship products, ensure delivery, and to obtain feedback, improve the quality of our service, and measure and improve the quality of the service of the third party. In the example of shippers, we provide them some personally identifiable information such as your name, shipping address, email, and phone number.
+**_How We Use the Information We Obtain_**
 
-ii. Similarly, to help you buy products and provide customer service to you, we must provide your credit card number to financial-services corporations such as credit-card processors and issuers. When we submit your credit card number for authorization, we use industry standard data encryption to protect your information.
+We may use the information collected from and about you to:
 
-iii. We may disclose information in response to requests from law enforcement officials conducting investigations; subpoenas; a court order; or if we are otherwise required to disclose such information by law. We will release personal information where disclosure is necessary to protect our legal rights, enforce our Terms of Use or other agreements, or to protect ourselves or others. For example, we may share information to reduce the risk of fraud or if someone uses or attempts to use our Sites for illegal reasons or to commit fraud, as we may determine in our sole discretion.
+  * • Provide our products and services;
+  * • Create and manage online accounts;
+  * • Send promotional materials, alerts regarding available offers and other communications, including communications through the Services and outside of the Services, such as via email and through third-party websites and apps;
+  * • Communicate about, and administer participation in, special events, promotions, programs, offers, surveys, contests and market research;
+  * • Respond to inquiries from you and other third-parties, including inquiries from law enforcement agencies;
+  * • Anonymize personal information to provide third parties with aggregated data reports showing anonymized information and other non-personal information;
+  * • Supplement your personal information collected from you with additional information from publicly and commercially available sources, and/or information from Company affiliates and our business partners;
+  * • Associate your browser and/or device with other browsers or devices you use for the purpose of providing relevant and easier access to content, advertising across browsers and devices, and other operational/business purposes.
+  * • Operate, evaluate and improve our business (including developing, enhancing, analyzing and improving our Services; managing our communications; performing data analytics; and performing accounting, auditing and other internal functions);
+  * • Protect against, identify and prevent fraud and other unlawful activity, claims and other liabilities; and
+  * • Comply with and enforce applicable legal requirements, relevant industry standards, contractual obligations and our policies.
 
-iv. It is possible that we might acquire, merge with or be acquired by another company or that we might dispose of some or all of our assets. If that happens, your personal information may be disclosed to another company, but that disclosure will be subject to this Policy, as in effect at that time.
 
-v. We may share non-personal information (such as the number of daily visitors to a site, or the size of an order placed on a certain date) with third parties. However, this information does not directly personally identify you.
 
-vi. We may send third-party sponsored emails or postal mail based off the personal information you provide us. In these circumstances, we do send the mailing on behalf of the third-party or use a bonded mail house to do the mailing for us. The third-party does not have direct access to your personally identifiable information.
+In addition, we and our third-party service providers may use information collected through automated means including cookies, web beacons, web server logs, JavaScript and similar technologies for purposes such as  
+(1) customizing our users’ visits to and use of our Services,  
+(2) delivering content (including advertising) tailored to our users’ interests and the manner in which our users use our Services, and  
+(3) managing our Services and other aspects of our business.
 
-vii. On registration forms for certain products, services, or information, we may indicate that your personal information will be shared with a third-party such as a sponsor or business partner. In these circumstances, the third-party will be clearly identified on the registration page and you may choose not to share that information by not submitting the registration form.
+We may use third-party analytics services on our Services, such as those of Google Analytics. The analytics providers that administer these services use technologies such as cookies, web beacons, web server logs and similar technologies to help us analyze your use of the Services. The information collected through these means may be disclosed to these analytics providers and other relevant third parties who use the information, for example, to evaluate use of the Services. To learn more about how to opt out of Google Analytics services, please visit the link below:
 
-**4\. DATA SECURITY**
+  * • Google Analytics: <https://tools.google.com/dlpage/gaoptout>
 
-Our Sites incorporate physical, electronic, and administrative procedures to safeguard the confidentiality of your personal information, including Secure Sockets Layer (“SSL”) for all financial transactions through our Sites. We use SSL encryption to protect your personal information online, and we also take several steps to protect your personal information in our facilities. Finally, we rely on third-party service providers for the physical security of some of our computer hardware.
 
-While we use industry-standard precautions to safeguard your personal information, due to the nature of the Internet, we cannot guarantee complete security.
 
-**5\. OPT-OUT, CORRECTIONS AND HCCP CONTACT INFORMATION**
+We also may use your personal information in other ways for which we provide specific notice at the time of collection.
 
-Upon your request, we will (a) correct or update your personal information; (b) stop sending emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests by emailing privacy@thomasnelson.com or by sending a letter to:
+**_Interest-Based Advertising_**
 
-HarperCollins Christian Publishing  
-Legal Department / Privacy  
-PO Box 141000  
-Nashville, TN 37214
+On our sites, apps and/or emails we and our third-party service providers may obtain information about your activities to provide you with advertising about products and services tailored to your individual interests. We and our third-party service providers also may obtain information for this purpose from third-party websites and apps. This section of our Privacy Notice provides details and explains how to exercise your choices.
 
-Please include your name, street address, email address or phone number to contact you regarding the request, a clear and precise description of the data which you would like to review, modify, or opt-out of, and anything else that will make it easier for us to locate your personal data.
+We may engage third-party advertising networks to help us target our messaging to visitors through interest-based and contextual means. Through these ad networks, we can track your online activities over time and across third-party websites and apps by obtaining information through automated means, as described above. The networks use this information to show you advertisements on our Services or other third-party websites and apps that may be tailored to your individual interests. The information our ad networks may obtain on our behalf includes data about your visits to websites and use of apps that serve our advertisements, such as the pages or ads you view and the actions you take on those websites or apps. This data collection takes place both on our sites, apps and emails and on third-party websites and apps that participate in these ad networks. This process also helps us track the effectiveness of our marketing efforts. To learn how to opt out of this ad network interest-based advertising,
+
+  * • click [here](http://www.aboutads.info/choices/) or [here](http://www.networkadvertising.org/choices/) in the US.
+  * • click [here](http://youradchoices.ca/choices/) in Canada.
+
+
+
+To the extent required by applicable law, we will obtain your consent before using your information for interest-based advertising.
+
+Our sites are not designed to respond to “do not track” signals from browsers.
+
+**_SMS/MMS Advertising_ **
+
+By electing to submit your mobile phone number, you consent to receive text message alerts from the Company containing product/service and event information or promotions that may be sent using automated dialing systems (“Text Messages”). Your consent to receive Text Messages is not otherwise required to purchase any goods or services from us. You may not consent to receive Text Messages on behalf of someone else or provide someone else’s phone number. You agree to enter into, sign and receive your consent to receive Text Messages electronically.
+
+The number of recurring Text Messages you receive per month may vary based upon the Service you have subscribed  
+to. We do not charge a fee for you to receive Text Messages from us, however, your mobile service provider may charge you for sending and/or receiving text messages and air-time, as well as any other standard applicable rates charged by your mobile service provider.
+
+To receive help with Text Messages or any related issues, such as our participating carriers, contact us as outlined in the _How to Contact Us_ Section below.
+
+You may unsubscribe from receiving our Text Messages by contacting us as outlined in the _How To Contact Us_ Section below or by replying “STOP” to any Text Message received in connection with such subscription.
+
+**_Information We Share_**
+
+We may share customer personal information with
+
+  * • Our subsidiaries and affiliates, any of whom may use your personal information consistent with this Privacy Notice or for the subsidiary’s or affiliate’s own purposes, including marketing purposes. A current list of our affiliated companies is available at <http://newscorp.com/about/our-businesses/>.
+  * • Service providers in the US and other jurisdictions who perform services on our behalf.
+  * • Our third party clients or business partners, such as Biblica and other third parties for those third parties’ own marketing purposes, such as to send you information about its religious publications.
+
+
+
+In addition, when the information collected from or about you does not identify you as a specific person, we may share it with third parties.
+
+We may further disclose information about you (1) if we are required to do so by law or legal process, (2) to law enforcement authorities or other government officials, and (3) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss, or in connection with an investigation of suspected or actual fraudulent or illegal activity. We also reserve the right to transfer personal information we have about you in the event of a proposed or completed sale or transfer of all or a portion of our business or assets (including in the event of a reorganization, dissolution or liquidation).
+
+**_Your Choices_**
+
+We offer you certain choices in connection with the personal information we obtain about you, such as how we communicate with you.  
+To update your preferences, ask us to remove your information from our marketing mailing lists or submit a request, please contact us as outlined in the _How To Contact Us_Section below.  
+You also can unsubscribe from our marketing mailing lists by following the “Unsubscribe” link in our emails, and you can unsubscribe from Text Messages as outlined above.  
+To learn more about how to opt out of ad network interest-based advertising, please visit the customer opt-out pages at:
+
+  * • In the US: <http://www.aboutads.info/choices/> and <http://www.networkadvertising.org/choices/>.
+  * • In Canada: <http://youradchoices.ca/choices>.
+
+
+
+**_Accessing, Reviewing, Updating and Modifying Personal Information_**
+
+You have the right to access, review, update, and correct inaccuracies in your personal information in our custody and control, subject to certain exceptions prescribed by law. You may request access, updates to and corrections of inaccuracies in your personal information by emailing or writing to us at the contact information set out below. We may request certain personal information for the purposes of verifying the identity of the individual seeking access to his/her personal information records.
+
+**_Notice to California Residents_ **
+
+Subject to certain limitations, California residents may ask us to provide them with (1) a list of certain categories of personal information that we have disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year, and (2) the identity of those third parties. To make this request, California residents may contact us as specified in the _How to Contact Us section_ below.
+
+**_How We Protect Personal Information_**
+
+We maintain administrative, technical and physical safeguards designed to protect the personal information we have about you against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use.
+
+**_Transfers of Information_ **
+
+The Services may be hosted in and managed from a country outside the country in which you initially provided the information, including the United States. We may transfer the personal information we collect about you to the United States and/or another country, which may not be deemed to have the same data protection laws as the country in which you initially provided the information. When your personal information is in such countries, it may be accessed by the courts, law enforcement and national security authorities in accordance with applicable law. If you are a user located outside the United States or the country to which your information may be transferred, you understand and consent to having any personal information processed in the United States and/or such country. Your consent includes the use of cookies and other tracking technologies as described above. When we transfer your information, we will protect that information as described in this Notice.
+
+**_Links to Third-Party Sites, Apps and Services_**
+
+For your convenience and information, our Services may provide links to third-party sites, apps and services that may be operated by companies not affiliated with HarperCollins Publishers. These companies may have their own privacy notices or policies, which we strongly suggest you review. We are not responsible for the privacy practices of any non-HarperCollins Publishers’ sites, apps or services.
+
+**_Updates to Our Privacy Notice_ **
+
+This Privacy Notice may be updated periodically and without prior notice to you to reflect changes in our personal information practices. For significant changes, we will notify you by posting a prominent notice on our Services indicating at the top of the Notice when it was most recently updated.
+
+**_How to Contact Us_**
+
+If you have any questions or comments about this Privacy Notice or the manner in which we or our service providers treat your personal information, would like to exercise your choices, or would like us to update information we have about you or your preferences, please contact us as follows:
+
+yourprivacy@harpercollins.com
+
+You also may write to:
+
+Legal Department / Privacy Policy  
+HarperCollins Publishers  
+195 Broadway  
+New York, NY 10007
+
+Canadian residents may also contact our Privacy Officer at
+
+Privacy Official  
+HarperCollins Canada Limited  
+Internet Development Group  
+Bay Adelaide Centre, East Tower  
+2 Adelaide St. W, 41st Floor  
+Toronto, Ontario M5H 4E3  
+Tel. No.: (416) 975-9334  
+e-mail: privacy-canada@harpercollins.com. 
