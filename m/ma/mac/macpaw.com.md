@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macpaw.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629123039id_/https%3A//macpaw.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macpaw.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229142218id_/https%3A//macpaw.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy for MacPaw Products: CleanMyMac 3, Hider 2, Gemini 2, and the rest
 
@@ -31,7 +31,7 @@ _**Products:**_
   * CleanMyDrive 2
   * Gemini Photos
   * CleanMyPC
-  * Hider
+  * Hider 2
   * Encrypto
   * Encrypto for Windows
   * The Unarchiver
