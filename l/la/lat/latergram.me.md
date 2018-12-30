@@ -1,55 +1,289 @@
-> *The following text is extracted and transformed from the latergram.me privacy policy that was archived on 2018-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180204075302id_/https%3A//later.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latergram.me privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230024233id_/https%3A//later.com/privacy) for the most accurate reproduction.*
 
 # Later (previously Latergramme): Privacy Policy
 
-By visiting our Site and providing information to us, you consent to such transfer to, and processing in the US.
+Effective date: May 25, 2018
 
-Our primary goals in collecting personally identifiable information are to provide you with the product and services made available through the Site, including, but not limited, to the Service, to communicate with you, and to manage your registered user account, if you have one.
+Victory Square Media Inc. ("us", "we", or "our") operates the https://later.com website as well as http://www.later.com website, http://www.latergram.me website, http://www.lat.gr website, http://app.later.com website, http://www.linkin.bio website, http://www.submit.media and the Later mobile application (the "Service").
 
-If you desire to have access to certain restricted sections of the Site, you will be required to become a registered user, and to submit certain personally identifiable information to Latergram.me. This happens in a number of instances, such as when you sign up for the Service, or if you desire to receive marketing materials and information. Personally identifiable information that we may collect in such instances may include your IP address, full user name, password, email address, city, time zone, telephone number, and other information that you decide to provide us with.
+This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
-**Use of Contact Information**
+We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.
 
-In addition, we may use your contact information to market to you, and provide you with information about, our products and services, including but not limited to our Service. If you decide at any time that you no longer wish to receive such information or communications from us, please un-follow us, or follow the unsubscribe instructions provided in any of the communications.
+## Definitions
 
-**Log Data**
+### Personal Data
 
-When you visit the Site, our servers automatically record information that your browser sends whenever you visit a website ("Log Data" ). This Log Data may include information such as your IP address, browser type or the domain from which you are visiting, the web-pages you visit, the search terms you use, and any advertisements on which you click. For most users accessing the Internet from an Internet service provider the IP address will be different every time you log on. We use Log Data to monitor the use of the Site and of our Service, and for the Site"ªs technical administration. We do not associate your IP address with any other personally identifiable information to identify you personally, except in case of violation of the Terms of Service.
+Personal Data means data about a living individual who can be identified from those data (or from those and other information either in our possession or likely to come into our possession).
 
-**Cookies**
+### Usage Data
 
-Like many websites, we also use "cookie" technology to collect additional website usage data and to improve the Site and our service. A cookie is a small data file that we transfer to your computer's hard disk. We do not use cookies to collect personally identifiable information. Latergram.me may use both session cookies and persistent cookies to better understand how you interact with the Site and our Service, to monitor aggregate usage by our users and web traffic routing on the Site, and to improve the Site and our services. A session cookie enables certain features of the Site and our service and is deleted from your computer when you disconnect from or leave the Site. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Site. Persistent cookies can be removed by following your web browser help file directions. Most Internet browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit.
+Usage Data is data collected automatically either generated by the use of the Service or from the Service infrastructure itself (for example, the duration of a page visit).
 
-**Information Sharing and Disclosure**
+### Cookies
 
-**_Service Providers_**
+Cookies are small pieces of data stored on a User’s device.
 
-We engage certain trusted third parties to perform functions and provide services to us, including, without limitation, hosting and maintenance, billing, customer relationship, database storage and management, and direct marketing campaigns. We will share your personally identifiable information with these third parties, but only to the extent necessary to perform these functions and provide such services, and only pursuant to binding contractual obligations requiring such third parties to maintain the privacy and security of your data.
+### Data Controller
 
-**_Compliance with Laws and Law Enforcement_**
+Data Controller means a person who (either alone or jointly or in common with other persons) determines the purposes for which and the manner in which any personal data are, or are to be, processed.
 
-Latergram.me cooperates with government and law enforcement officials or private parties to enforce and comply with the law. We may disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims, legal process (including subpoenas), to protect the property and rights of Latergram.me or a third party, the safety of the public or any person, to prevent or stop any illegal, unethical, or legally actionable activity, or to comply with the law.
+For the purpose of this Privacy Policy, we are a Data Controller of your data.
 
-**_Business Transfers_**
+### Data Processor (or Service Providers)
 
-Latergram.me may sell, transfer or otherwise share some or all of its assets, including your personally identifiable information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy. You will have the opportunity to opt out of any such transfer if the new entity's planned processing of your information differs materially from that set forth in this Privacy Policy.
+Data Processor (or Service Provider) means any person (other than an employee of the Data Controller) who processes the data on behalf of the Data Controller.
 
-**_Changing or Deleting Information_**
+We may use the services of various Service Providers in order to process your data more effectively.
 
-If you are a registered user of the Site, you may access and update or correct the information you provided to us by e-mailing us at help@Latergram.meapp.com.
+### Data Subject
 
-Security 
+Data Subject is any living individual who is the subject of Personal Data.
 
-Latergram.me is very concerned about safeguarding the confidentiality of your personally identifiable information. We employ administrative, physical and electronic measures designed to protect your information from unauthorized access. We will make any legally-required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored personal data to you via email or conspicuous posting on this Site in the most expedient time possible and without unreasonable delay, consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
+### User
 
-Links to Other Websites 
+The User is the individual using our Service. The User corresponds to the Data Subject, who is the subject of Personal Data.
 
-Our Site contains links to other websites. The fact that we link to a website is not an endorsement, authorization or representation of our affiliation with that third party. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personally identifiable information from you. Other sites follow different rules regarding the use or disclosure of the personally identifiable information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.
+## Information Collection And Use
 
-The Site is not directed to persons under 13. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without their consent, he or she should contact us at help@Latergram.meapp.com. We do not knowingly collect personally identifiable information from children under 13. If we become aware that a child under 13 has provided us with personal identifiable Information, we will delete such information from our files.
+We collect several different types of information for various purposes to provide and improve our Service to you.
 
-This Privacy Policy may be updated from time to time for any reason; each version will apply to information collected while it was in place. We will notify you of any material changes to our Privacy Policy by posting the new Privacy Policy on our Site. You are advised to consult this Privacy Policy regularly for any changes.
+### Types of Data Collected
 
-This Privacy Policy is effective as of Nov 4, 2015.
+#### Personal Data
 
-If you have any thoughts or questions about this Privacy Policy please let us know.
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:
+
+  * Email address
+  * First name and last name
+  * Cookies and Usage Data
+  * Social Network Authentication and Posting Data
+
+
+
+We may use your Personal Data to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send.
+
+#### Usage Data
+
+We may also collect information that your browser sends whenever you visit our Service or when you access the Service by or through a mobile device ("Usage Data").
+
+This Usage Data may include information such as your computer's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
+
+When you access the Service by or through a mobile device, this Usage Data may include information such as the type of mobile device you use, your mobile device unique ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browser you use, unique device identifiers and other diagnostic data.
+
+#### Tracking & Cookies Data
+
+We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.
+
+Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.
+
+You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
+
+Examples of Cookies we use:
+
+  * **Session Cookies.** We use Session Cookies to operate our Service. 
+  * **Preference Cookies.** We use Preference Cookies to remember your preferences and various settings. 
+  * **Security Cookies.** We use Security Cookies for security purposes. 
+
+
+
+## Use of Data
+
+Victory Square Media Inc. uses the collected data for various purposes:
+
+  * To provide and maintain our Service
+  * To notify you about changes to our Service
+  * To allow you to participate in interactive features of our Service when you choose to do so
+  * To provide customer support
+  * To gather analysis or valuable information so that we can improve our Service
+  * To monitor the usage of our Service
+  * To train machine learning models
+  * To detect, prevent and address technical issues
+  * To provide you with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless you have opted not to receive such information
+
+
+
+## Retention of Data
+
+Victory Square Media Inc. will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
+
+Victory Square Media Inc. will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our Service, or we are legally obligated to retain this data for longer time periods.
+
+## Transfer Of Data
+
+Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+
+If you are located outside Canada and choose to provide information to us, please note that we transfer the data, including Personal Data, to Canada and process it there.
+
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+Victory Square Media Inc. will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+
+## Disclosure Of Data
+
+### Business Transaction
+
+If Victory Square Media Inc. is involved in a merger, acquisition or asset sale, your Personal Data may be transferred. We will provide notice before your Personal Data is transferred and becomes subject to a different Privacy Policy.
+
+### Disclosure for Law Enforcement
+
+Under certain circumstances, Victory Square Media Inc. may be required to disclose your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
+
+### Legal Requirements
+
+Victory Square Media Inc. may disclose your Personal Data in the good faith belief that such action is necessary to:
+
+  * To comply with a legal obligation
+  * To protect and defend the rights or property of Victory Square Media Inc.
+  * To prevent or investigate possible wrongdoing in connection with the Service
+  * To protect the personal safety of users of the Service or the public
+  * To protect against legal liability
+
+
+
+## Security Of Data
+
+The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
+
+## Your Rights
+
+Victory Square Media Inc. aims to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.
+
+Whenever made possible, you can update your Personal Data directly within your account settings section. If you are unable to change your Personal Data, please contact us to make the required changes.
+
+If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please contact us.
+
+In certain circumstances, you have the right:
+
+  * To access and receive a copy of the Personal Data we hold about you
+  * To rectify any Personal Data held about you that is inaccurate
+  * To request the deletion of Personal Data held about you
+
+
+
+You have the right to data portability for the information you provide to Victory Square Media Inc.. You can request to obtain a copy of your Personal Data in a commonly used electronic format so that you can manage and move it.
+
+Please note that we may ask you to verify your identity before responding to such requests.
+
+## Service Providers
+
+We may employ third party companies and individuals to facilitate our Service ("Service Providers"), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
+
+These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+
+### Analytics
+
+We may use third-party Service Providers to monitor and analyze the use of our Service.
+
+  * **Google Analytics**
+
+Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.
+
+For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: <http://www.google.com/intl/en/policies/privacy/>
+
+  * **Firebase**
+
+Firebase is analytics service provided by Google Inc.
+
+You may opt-out of certain Firebase features through your mobile device settings, such as your device advertising settings or by following the instructions provided by Google in their Privacy Policy: <http://www.google.com/intl/en/policies/privacy/>
+
+We also encourage you to review the Google's policy for safeguarding your data: <https://support.google.com/analytics/answer/6004245>. <http://www.google.com/intl/en/policies/privacy/>
+
+  * **Mixpanel**
+
+Mixpanel is provided by Mixpanel Inc
+
+You can prevent Mixpanel from using your information for analytics purposes by opting-out. To opt-out of Mixpanel service, please visit this page: <https://mixpanel.com/optout/>
+
+For more information on what type of information Mixpanel collects, please visit the Terms of Use page of Mixpanel: <https://mixpanel.com/terms/>
+
+
+
+
+### Behavioral Remarketing
+
+Victory Square Media Inc. uses remarketing services to advertise on third party websites to you after you visited our Service. We and our third-party vendors use cookies to inform, optimize and serve ads based on your past visits to our Service.
+
+  * **Google AdWords**
+
+Google AdWords remarketing service is provided by Google Inc.
+
+You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the Google Ads Settings page: <http://www.google.com/settings/ads>
+
+Google also recommends installing the Google Analytics Opt-out Browser Add-on - <https://tools.google.com/dlpage/gaoptout> \- for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics. 
+
+For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: <http://www.google.com/intl/en/policies/privacy/>
+
+  * **Twitter**
+
+Twitter remarketing service is provided by Twitter Inc.
+
+You can opt-out from Twitter's interest-based ads by following their instructions: <https://support.twitter.com/articles/20170405>
+
+You can learn more about the privacy practices and policies of Twitter by visiting their Privacy Policy page: <https://twitter.com/privacy>
+
+  * **Facebook**
+
+Facebook remarketing service is provided by Facebook Inc.
+
+You can learn more about interest-based advertising from Facebook by visiting this page: <https://www.facebook.com/help/164968693837950>
+
+To opt-out from Facebook's interest-based ads follow these instructions from Facebook: <https://www.facebook.com/help/568137493302217>
+
+Facebook adheres to the Self-Regulatory Principles for Online Behavioral Advertising established by the Digital Advertising Alliance. You can also opt-out from Facebook and other participating companies through the Digital Advertising Alliance in the USA <http://www.aboutads.info/choices/>, <http://youradchoices.ca/> or the European Interactive Digital Advertising Alliance in Europe <http://www.youronlinechoices.eu/>, 
+
+For more information on the privacy practices of Facebook, please visit Facebook's Data Policy: <https://www.facebook.com/privacy/explanation>
+
+  * **Pinterest**
+
+Pinterest remarketing service is provided by Pinterest Inc.
+
+You can opt-out from Pinterest's interest-based ads by enabling the "Do Not Track" functionality of your web browser or by following Pinterest instructions: <http://help.pinterest.com/en/articles/personalization-and-data>
+
+You can learn more about the privacy practices and policies of Pinterest by visiting their Privacy Policy page: <https://about.pinterest.com/en/privacy-policy>
+
+
+
+
+### Payments
+
+We may provide paid products and/or services within the Service. In that case, we use third-party services for payment processing (e.g. payment processors).
+
+We will not store or collect your payment card details. That information is provided directly to our third-party payment processors whose use of your personal information is governed by their Privacy Policy. These payment processors adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, Mastercard, American Express and Discover. PCI-DSS requirements help ensure the secure handling of payment information.
+
+The payment processors we work with are:
+
+  * **Stripe**
+
+Their Privacy Policy can be viewed at <https://stripe.com/us/privacy>
+
+
+
+
+## Links To Other Sites
+
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
+
+We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+## Children's Privacy
+
+Our Service does not address anyone under the age of 13 ("Children").
+
+We do not knowingly collect personally identifiable information from anyone under the age of 13. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
+
+## Changes To This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the "effective date" at the top of this Privacy Policy.
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, please contact us:
+
+  * By email: hello@later.com
+
+
