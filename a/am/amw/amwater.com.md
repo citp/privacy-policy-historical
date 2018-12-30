@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amwater.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129151704id_/https%3A//amwater.com/corp/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amwater.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230093731id_/https%3A//amwater.com/corp/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
