@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the androidadvices.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618082830id_/http%3A//androidadvices.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidadvices.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230211830id_/http%3A//androidadvices.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Android Advices
 
