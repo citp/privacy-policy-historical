@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saskatchewan.ca privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628233929id_/http%3A//www.saskatchewan.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saskatchewan.ca privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230220658id_/http%3A//www.saskatchewan.ca/privacy) for the most accurate reproduction.*
 
 # Privacy | Government of Saskatchewan
 
@@ -45,7 +45,7 @@ If you provide personal information, it is your responsibility to keep this info
 
 #### Cookies
 
-During your use of Saskatchwan.ca we may distribute a small file to your browser, called a "cookie". Cookies are used to:
+During your use of Saskatchewan.ca we may distribute a small file to your browser, called a "cookie." Cookies are used to:
 
   * measure how you use the website so it can be updated and improved based on user needs; and
   * remember certain notifications you’ve already seen so that we don’t show them to you again.
