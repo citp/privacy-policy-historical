@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gyazo.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605224542id_/https%3A//gyazo.com/doc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gyazo.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231001538id_/https%3A//gyazo.com/doc/privacy) for the most accurate reproduction.*
 
 # Gyazo - Privacy Policy
 
@@ -7,21 +7,21 @@ Also see the [Gyazo GDPR Hub](https://web.archive.org/gdpr)
 
 ### A. What This Privacy Policy Covers
 
-Nota, Inc., a Delaware corporation (“Nota, Inc.,” “we,” “us,” or “our”) is committed to ensuring your privacy and protecting the security of your Personal Information.  We maintain this Privacy Policy (“ _Policy_ ”) that summarizes our policies and processes for protecting the privacy of all Personal Information (defined below) gathered from customers, prospective customers, and visitors to all of our affiliated websites, products and services, including, without limitation, [http://gyazo.com](http://gyazo.com/) (the “Website”) and all online forms (if any) on the Website used to collect Personal Information (collectively, the “Nota, Inc. Sites, Products and Services”), and when and how such information is collected, used and safeguarded.  This Policy also explains how anyone can review, update, correct, or delete their Personal Information and specify what information, if any, they would like to receive from us on an on-going basis.
+Nota, Inc., a Delaware corporation (“Nota, Inc.,” “we,” “us,” or “our”) is committed to ensuring your privacy and protecting the security of your Personal Information.  We maintain this Privacy Policy (“Policy”) that summarizes our policies and processes for protecting the privacy of all Personal Information (defined below) gathered from customers, prospective customers, and visitors to all of our affiliated websites, products and services, including, without limitation, [https://gyazo.com](https://gyazo.com/) (the “Website”) and all online forms (if any) on the Website used to collect Personal Information (collectively, the “Nota, Inc. Sites, Products and Services”), and when and how such information is collected, used and safeguarded.  This Policy also explains how anyone can review, update, correct, or delete their Personal Information and specify what information, if any, they would like to receive from us on an on-going basis.
 
-“Personal Information” is information about you that is personally identifiable including, without limitation, your name, address, email address, billing address, credit card information, birth date, birth place, mother's maiden name, gender, zip code, biographical information, ICQ/AIM/Yahoo/MSN/Skype user name, Amazon.com associates code, occupation, industry, and personal interests, or phone number, and that is not otherwise publicly available. Please note that any posting made while using the Nota, Inc. Sites, Products and Services is not considered "Personal Information" and is not considered the type of information protected by and subject to, this Policy.
+“Personal Information” is information about you that is personally identifiable including, without limitation, your name, address, email address, billing address, credit card information, birth date, birth place, mother's maiden name, gender, zip code, biographical information, ICQ/AIM/Yahoo/MSN/Skype user name, Amazon.com associates code, occupation, industry, and personal interests, or phone number, and that is not otherwise publicly available. Please note that any posting made while using the Nota, Inc. Sites, Products and Services is not considered “Personal Information“ and is not considered the type of information protected by and subject to, this Policy.
 
 This Policy covers how the Nota, Inc. Sites, Products and Services deal with Personal Information about your children subject to the Children's Online Privacy Protection Act (“COPPA”), and how parents and legal guardians may request from us how they can review, delete or stop the collection of the Personal Information of their child.
 
-Please note that this Policy applies only to sites maintained by Nota, Inc., its subsidiaries or its affiliates, and does not apply to the practices of companies that Nota, Inc. does not own or control, or to people that Nota, Inc. does not employ, control or manage.  Moreover, this Policy does not only apply to information collected by us offline. 
+Please note that this Policy applies only to sites maintained by Nota, Inc., its subsidiaries or its affiliates, and does not apply to the practices of companies that Nota, Inc. does not own or control, or to people that Nota, Inc. does not employ, control or manage.  Moreover, this Policy does not only apply to information collected by us offline.
 
-By using the Website, you are agreeing to the terms and conditions of this Policy.   **If you do not agree with any terms or conditions described in this Policy, please exit from the Website**. 
+By using the Website, you are agreeing to the terms and conditions of this Policy. **If you do not agree with any terms or conditions described in this Policy, please exit from the Website**.
 
 ### B. Personal Information We Gather
 
-You can access our Website without providing us with any Personal Information.  However, we may collect Personal Information at the Nota, Inc. Sites, Products and Services as more particularly described below.  Our primary goal in collecting the information described below is to provide you, the user, with a customized experience on our Website and to deliver better service, products, and more relevant content to our customers, prospective customers, and visitors.  
+You can access our Website without providing us with any Personal Information.  However, we may collect Personal Information at the Nota, Inc. Sites, Products and Services as more particularly described below.  Our primary goal in collecting the information described below is to provide you, the user, with a customized experience on our Website and to deliver better service, products, and more relevant content to our customers, prospective customers, and visitors.
 
-As more particularly described below, Personal Information may be collected from you during exchange of communications relating to the Nota, Inc. Sites, Products and Services.  We ask that you provide only your own Personal Information, not Personal Information concerning anyone else.  Personal Information may be collected by us and/or our business partners. 
+As more particularly described below, Personal Information may be collected from you during exchange of communications relating to the Nota, Inc. Sites, Products and Services.  We ask that you provide only your own Personal Information, not Personal Information concerning anyone else.  Personal Information may be collected by us and/or our business partners.
 
 The Nota, Inc. Sites, Products and Services, including future versions, may collect Personal Information when you register, use the particular products or services or post content on any Nota Project as a guest with authoring rights, as applicable.
 
@@ -115,9 +115,9 @@ Nota, Inc. may revise, modify or update this Policy. We will notify you about si
 
 #### Personal Information Storage and Security
 
-We take reasonable precaution to protect the Personal Information we collect from customers, prospective customers, and visitors.  When users submit Personal Information via the Website, the information is housed in a secure in-house database in one or more of our offices.  The location of our offices may change from time to time and we may acquire offices in other countries at any time.  You acknowledge and agree that we may transfer your personally identifiable information to or through any country which may not have privacy (data protection) legislation and regulation comparable to the law of the country in which you reside. 
+We take reasonable precaution to protect the Personal Information we collect from customers, prospective customers, and visitors.  When users submit Personal Information via the Website, the information is housed in a secure in-house database in one or more of our offices.  The location of our offices may change from time to time and we may acquire offices in other countries at any time. You acknowledge and agree that we may transfer your personally identifiable information to or through any country which may not have privacy (data protection) legislation and regulation comparable to the law of the country in which you reside.
 
-While we strive to protect your Personal Information, you should know that information sent over the Internet, whether by e-mail or by using one of our on-line forms, is not necessarily secure against interception.  No data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. 
+While we strive to protect your Personal Information, you should know that information sent over the Internet, whether by e-mail or by using one of our on-line forms, is not necessarily secure against interception.  No data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk.
 
 To prevent unauthorized access, loss, or misuse, maintain data accuracy, and ensure the appropriate use of information, we have put in place physical, electronic, and managerial procedures to safeguard and secure the Personal Information we maintain.  We use industry-standard technology, such as firewalls, in an effort to protect the confidentiality of your Personal Information.  Moreover, we encrypt your transmission of sensitive information to us (e.g., account passwords and payment-related identifiable information) via SSL (secured socket layer) protocol in the interest of heightened privacy protection and information integrity.  Your account information is also password-protected.  However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered or destroyed by breach of such firewalls and secure server software.
 
@@ -125,7 +125,7 @@ In addition, only employees who need the information to perform their duties are
 
 Furthermore, our trusted vendors and business partners may be responsible for processing or handling some of the information that we receive.  These vendors and business partners are not authorized to use such information for purposes beyond those specified by us and are required to preserve the confidentiality with which we treat such information. 
 
-If Nota, Inc. learns of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using the Nota, Inc. Sites, Products and Services or providing Personal Information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of those sites, products and services. We may post a notice on our applicable web sites if a security breach occurs. If this happens, you will need a web browser enabling you to view the applicable web sites. We may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us at [privacy@notaland.com](mailto:privacy@notaland.com).
+If Nota, Inc. learns of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using the Nota, Inc. Sites, Products and Services or providing Personal Information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of those sites, products and services. We may post a notice on our applicable web sites if a security breach occurs. If this happens, you will need a web browser enabling you to view the applicable web sites. We may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us at [privacy@notainc.com](mailto:privacy@notainc.com).
 
 #### Changing your Preferences and Personal Information
 
@@ -137,7 +137,7 @@ To have access to your Personal Information, you must provide proof of identific
 
 #### Opt-Out Provision 
 
-When we first collect information from you, we will offer you the opportunity to opt-out of having your Personal Information shared with parties outside of Nota, Inc. (unless otherwise described in this Policy).  In addition, if you do not want us to send you e-mail or postal mail about our products and services, you can opt-out at the time of registration or information collection.  If, at a later date, you choose to have your name or any other Personal Information removed from our mailing list, you can do so by emailing [privacy@notaland.com](mailto:privacy@notaland.com). 
+When we first collect information from you, we will offer you the opportunity to opt-out of having your Personal Information shared with parties outside of Nota, Inc. (unless otherwise described in this Policy).  In addition, if you do not want us to send you e-mail or postal mail about our products and services, you can opt-out at the time of registration or information collection.  If, at a later date, you choose to have your name or any other Personal Information removed from our mailing list, you can do so by emailing [privacy@notainc.com](mailto:privacy@notainc.com). 
 
 #### Users Outside the United States
 
@@ -147,17 +147,18 @@ We are a U.S.-based company and its business operations are primarily conducted 
 
 While this Policy states our standards for maintenance of Personal Information and we will make reasonable efforts to meet them, we are not in a position to guarantee these standards.  There may be factors beyond our control that may result in disclosure of Personal Information.  As a consequence, we disclaim any warranties or representations relating to maintenance or nondisclosure of any Personal Information collected from any Nota, Inc. Site, Product or Service.
 
-#### Links to Third Party Websites 
+#### Links to Third Party Websites
 
 Please be advised that a Nota, Inc. Site, Product or Service may contain certain hyperlinks to other websites.  Although these websites may have privacy policies, all of these websites and their privacy policies are independent of our Website and this Policy.  We are not responsible for compliance with other websites’ privacy policies or data collection practices.  You should review these privacy policies carefully before providing Personal Information to these websites.
 
 #### Contacting Nota, Inc.
 
-If you have any questions, comments or concerns regarding any Nota, Inc. Site, Product or Service, or this Policy, and if you cannot satisfactorily resolve it through the use of those sites, products or services, you should complete a feedback form or you can write to us by email at privacy@notaland.com. Alternatively, we can be reached by our postal mail address:
+If you have any questions, comments or concerns regarding any Nota, Inc. Site, Product or Service, or this Policy, and if you cannot satisfactorily resolve it through the use of those sites, products or services, you should complete a feedback form or you can write to us by email at privacy@notainc.com. Alternatively, we can be reached by our postal mail address:
 
-Nota, Inc.  
-10 S. 3rd St. Floor 3,   
-San Jose, CA 95113  
+Nota, Inc.
+
+Silicon Valley PAD 1370 Willow Road, Menlo Park, CA 94025
+
 Attention: Privacy Officer
 
 If you object to any sharing of your Personal Information that may be permitted under this Policy, you may do so by writing us at the above address. We will take reasonable steps to accommodate your requests as they relate to our advertising practices. In some instances, honoring your requests may interfere with or preclude your ability to use the Nota, Inc. Sites, Products and Services or may require us to terminate our relationship with you.
