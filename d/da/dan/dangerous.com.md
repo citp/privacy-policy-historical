@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dangerous.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627000903id_/https%3A//www.dangerous.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dangerous.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230094905id_/https%3A//www.dangerous.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - DANGEROUS
+# Privacy Policy • DANGEROUS
 
 ##### WHAT INFORMATION DO WE COLLECT?
 
@@ -81,3 +81,9 @@ Milo, Inc.
 Miami, Florida, US
 
 support@milo-inc.com
+
+## BECOME A DANGEROUS VIP FOR AS LITTLE AS $3.95 A MONTH
+
+You get all our best writing, MILO’S VIP-ONLY podcast and a bunch of other decent stuff.
+
+[SIGN ME UP!](https://vip.dangerous.com/?url=www.dangerous.com/privacy-policy/)
