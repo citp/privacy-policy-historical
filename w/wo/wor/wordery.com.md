@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wordery.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624045514id_/https%3A//wordery.com/cs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordery.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230042144id_/https%3A//wordery.com/cs/privacy) for the most accurate reproduction.*
 
 # Privacy policy | wordery.com
 
@@ -75,7 +75,7 @@ We may share your information with selected third parties including:
   * Analytics and search engine providers that assist us in the improvement and optimisation of our site;
   * To prospective buyers, in the event that we sell any business or assets, in which case we may disclose your personal data to the prospective buyers of such business or assets. All customer data held by us is considered the property of Wordery.com Limited;
   * In the event that Wordery.com Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets; and
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [Terms of Use](https://web.archive.org/cs/term_use) or [Terms of Sale](https://web.archive.org/cs/term_sale) or to protect the rights, property, or safety of Wordery.com Limited, our customers, or others.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [Terms of Use](https://web.archive.org/cs/terms_use) or [Terms of Sale](https://web.archive.org/cs/terms_sale) or to protect the rights, property, or safety of Wordery.com Limited, our customers, or others.
 
 
 
