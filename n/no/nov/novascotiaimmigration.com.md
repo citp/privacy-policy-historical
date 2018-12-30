@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the novascotiaimmigration.com privacy policy that was archived on 2017-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171103172516id_/http%3A//novascotia.ca/govt/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novascotiaimmigration.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230035247id_/http%3A//novascotia.ca/govt/privacy) for the most accurate reproduction.*
 
 # Nova Scotia Government Website Privacy Policy Statement | novascotia.ca
 
@@ -36,7 +36,7 @@ Government web servers automatically collect some information about a visitor's 
 
 ### Further Information
 
-[Nova Scotia Government Website Privacy Policy](http://www.novascotia.ca/treasuryboard/manuals/PDF/300/30407-01.pdf) (PDF) 
+[Nova Scotia Government Website Privacy Policy](https://novascotia.ca/treasuryboard/manuals/PDF/300/30407-01.pdf) (PDF) 
 
-[Contact Form](https://www.novascotia.ca/govt/privacy/privacycontact.asp)  
+[Contact Form](https://novascotia.ca/govt/privacy/privacycontact.asp)  
 
