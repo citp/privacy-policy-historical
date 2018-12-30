@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 120sports.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620181715id_/https%3A//watchstadium.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 120sports.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230043026id_/https%3A//watchstadium.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy – Stadium
+# Privacy Policy - Stadium
 
 PLEASE READ THIS PRIVACY POLICY (THIS “PRIVACY POLICY”) CAREFULLY BEFORE USING OUR WEBSITE, MOBILE APP OR ANY OTHER 120 SPORTS LLC PRODUCT OR SERVICE.
 
