@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ectnews.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624131048id_/https%3A//www.ectnews.com/about/privacy.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ectnews.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230124704id_/https%3A//www.ectnews.com/about/privacy.xhtml) for the most accurate reproduction.*
 
 # ECT News Network Privacy Policy
 
@@ -60,8 +60,8 @@ ECT News Network may provide links to other Web sites for your convenience and i
 Security  
 ECT News Network maintains reasonable administrative, technical and physical safeguards to defend against unauthorized disclosure, use, alteration or destruction of the personal information in our possession. 
 
-International Usage  
-While we make considerable effort to honor the laws and wishes of all users, the Service is intended for users located in the United States of America and therefore may not recognize foreign laws. If you are located outside of the United States, please note that the information you provide to us will be transferred to the United States. By using the Service, you consent to this transfer. 
+Visiting Our Websites from Outside the United States  
+This Privacy Policy is intended to cover collection of information on our website from residents of the United States. If you are visiting our websites from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States where our servers are located and our central database is operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country. Please be assured that we seek to take reasonable steps to ensure that your privacy is protected. By using our services, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this privacy policy.
 
 Privacy of Children  
 ECT News Network and the Services it provides are not directed to children under the age of 13. The Service operates in compliance with the Children's Online Privacy Protection Act, and we do not knowingly accept registration by, and will not intentionally collect or use personally identifiable information from, anyone under 13 years of age. In the event that we learn that we have collected any personal information from a child under the age of 13 without verification of parental consent, we will delete that information from our database. 
