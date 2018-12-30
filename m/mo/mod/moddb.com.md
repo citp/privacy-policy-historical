@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the moddb.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623100555id_/http%3A//www.moddb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moddb.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230083437id_/https%3A//www.moddb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mod DB - Mod DB
 
 **Last modified: May 28, 2018.  
 Effective date: May 28, 2018.  
-View our [previous privacy policy](https://web.archive.org/web/20180623100555id_/http%3A//www.moddb.com/privacy-policy?history=2016-01-21) here. **
+View our [previous privacy policy](https://web.archive.org/web/20181230083437id_/https%3A//www.moddb.com/privacy-policy?history=2016-01-21) here. **
 
 DBolical Pty Ltd ("us", "we", or "our") operates a network of connected game development communities including [Gamefront.com](https://www.gamefront.com/), [Indiedb.com](https://www.indiedb.com/), [Moddb.com](https://www.moddb.com/), [Vrdb.com](https://www.vrdb.com/) and [Slidedb.com](https://www.slidedb.com/) (the "Service(s)").
 
@@ -150,11 +150,11 @@ Under certain circumstances, DBolical Pty Ltd may hire other companies or indivi
 
 DBolical Pty Ltd may disclose your Personal Data in the good faith belief that such action is necessary to:
 
-  * To comply with a legal obligation;
-  * To protect and defend the rights or property of DBolical Pty Ltd;
-  * To prevent or investigate possible wrongdoing in connection with the Service;
-  * To protect the personal safety of users of the Service or the public; and
-  * To protect against legal liability.
+  * Comply with a legal obligation;
+  * Protect and defend the rights or property of DBolical Pty Ltd;
+  * Prevent or investigate possible wrongdoing in connection with the Service;
+  * Protect the personal safety of users of the Service or the public; and
+  * Protect against legal liability.
 
 
 
@@ -263,6 +263,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 If you have any questions about this Privacy Policy, please contact us:
 
   * By email: [privacy@moddb.com](mailto:privacy@moddb.com)
+  * By post: DBolical Pty Ltd - 164 Kings Way, South Melbourne VIC 3205 Australia
   * By visiting this page on our website: <https://www.moddb.com/contact>
 
 
