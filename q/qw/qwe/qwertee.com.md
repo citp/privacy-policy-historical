@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qwertee.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624200334id_/https%3A//www.qwertee.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qwertee.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230192235id_/https%3A//www.qwertee.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy |Qwertee : Limited Edition Cheap Daily T Shirts | Gone in 24 Hours | T-shirt Only £9/€11/$12 | Cool Graphic Funny Tee Shirts
 
@@ -120,13 +120,12 @@ Under data protection law, you may have a number of rights concerning the data w
 
 If you have any questions about our Privacy Policy, our Cookies Policy or our information practices, please contact us by email via our contact form on the Qwertee.com website: [https://www.qwertee.com/help/contact](https://web.archive.org/help/contact) or by postal mail:
 
-Qwertee.com (Qwertee Limited)  
-13 Upper Baggot Street  
-Second Floor  
-Ballsbridge  
-Dublin 4  
-Ireland  
-
+Qwertee  
+Block 3  
+Harcourt Centre  
+Harcourt Road  
+Dublin 2  
+Ireland
 
 
 
