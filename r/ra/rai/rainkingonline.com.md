@@ -1,164 +1,123 @@
-> *The following text is extracted and transformed from the rainkingonline.com privacy policy that was archived on 2017-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170416233250id_/https%3A//www.rainkingonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rainkingonline.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230160656id_/https%3A//discoverorg.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | RainKing
+# Privacy Policy
 
-**Last updated:** December 22, 2016
+Revised May 7, 2018
 
-This Privacy Policy describes how Rain King Software, Inc. (“RainKing,” “we,” or “us”) handles personal information we collect, receive, maintain, and/or process, whether for RainKing’s sales intelligence products (“Products”), from RainKing’s clients, or via RainKing’s websites (the “Websites”), social media pages ("Social Media Pages"), or Mobile Applications (“Mobile Applications”). We have tried to keep this Privacy Policy short and simple. We encourage you to read it and contact us if you have questions about it. 
+DiscoverOrg is the world’s premier provider of business-to-business data for sales, marketing, and recruiting. This privacy policy (the “Policy”) describes how DiscoverOrg handles personal information collected, received, or maintained by DiscoverOrg (1) as a result of visits to DiscoverOrg’s website, (2) in respect of its relationships with customers, and (3) comprising business contact information that is part of DiscoverOrg’s products or services.
 
-This Privacy Policy applies:
+## 1\. Definitions
 
-  * To RainKing’s services that link or refer to this Privacy Policy. These services include RainKing’s Websites, Mobile Applications, Social Media Pages or other online services, and communications that link or refer to this policy. We sometimes refer to these services collectively in this Privacy Policy as “Online Services.”
-  * To personal information that RainKing collects and maintains in the context of our research to develop and maintain RainKing’s Products (“Research Activities”), whether such Research Activities are conducted online, offline, via phone, or otherwise.
-  * To customers that have entered into a Subscription Agreement with RainKing (“Clients”), including their authorized users (“Users”), for our Products and Online Services, as well as all visitors to our Online Services (“Visitors”), regardless of which computer or device Clients, Users, or Visitors use to access our Products or Online Services.
+“Business Contact Information” means any of the following information as used in connection with an individual’s business or profession: name, title, company, business email address, business phone number, work address, public professional profile address, and/or supplementary information such as business role and responsibility designations.
 
+“DiscoverOrg” for purposes of this Privacy Policy includes DiscoverOrg, LLC, a Delaware limited liability company, and its affiliates, including DiscoverOrg, Inc. (f/k/a Rain King Software, Inc.).
 
+“DiscoverOrg Technology” means DiscoverOrg’s password-protected online graphical user interfaces (including those available at go.discoverydb.com and app.rainkingonline.com), DiscoverOrg’s application programmer interfaces (“APIs”), and any other software that connects DiscoverOrg’s database(s) with any customer relationship manager (“CRM”), marketing automation tool (“MAT”), sales enablement software, or other similar software, including but not limited to DiscoverOrg’s Salesforce Native Application (“SFNA”), Google Chrome Extension (“GCE”), and Marketo Webhooks (collectively, the “Integrations”).
 
-This Privacy Policy describes our practices relating to:
+“Services” means licensed access to DiscoverOrg’s proprietary database, which is provided via the DiscoverOrg Technology.
 
-  * Information we collect and receive.
-  * How we use and disclose information we collect and receive.
-  * Cookies, web beacons, and other tracking technologies.
-  * Control over your information.
-  * Links to other websites.
-  * Mobile Applications.
-  * Information security.
-  * California residents’ privacy rights.
-  * Privacy Sheild.
-  * Changes to this Privacy Policy.
-  * How to contact us.
+“Website” means discoverorg.com.
 
+## 2\. DiscoverOrg Website
 
+This Policy applies to the Website. It does not apply to any website of any third party, even if the third-party website links to (or is linked from) the Website. By accessing, using, and/or submitting information through the Website, you consent to the practices described in this Policy with regard to the information collected thereby as described herein. If you do not agree with this Policy, you must delete all cookies from your browser cache after visiting the Website and refrain from visiting or using the Website.
 
-**INFORMATION WE COLLECT AND RECEIVE**  
-We collect and receive information about you in a few different ways:
+### Website Visitor Information Collected
 
-  * _Information you give us._ You can give us information directly. For example: 
-    * When requesting information about our Products or Online Services or registering to use our Online Services, RainKing requires you to provide us with personal contact information, such as name, company name, address, phone number, and email address (“Contact Information”).
-    * In response to a survey, telephone call, email, or other communication from us as part of RainKing’s Research Activities to support our Products, you may give us business contact information, such as contact name, title, business address, phone number, email address, and other business-related information.
-    * When licensing our Products and Online Services, RainKing may require you to provide financial and billing information, such as billing name and address, credit card number, and the number of employees within the organization that will be using the Products and Online Services (“Billing Information”). RainKing may also ask you to provide additional information, such as company annual revenues, number of employees, or industry (“Profile Information”).
-    * Our interface may also allow Users to upload certain of their own information to be stored on RainKing’s system (“Uploaded Information”). Contact Information, Billing Information, Profile Information and Uploaded Information from Clients and Users are referred to collectively as “Client Information.”
-    * _Client Information._ You may be a User that has been provided access to RainKing’s Products and Online Services through your company’s Subscription Agreement with RainKing. If so, your employer may have asked us to set up its Client account so that Users may designate certain information to be shared with other employees within the Client’s organization. This is done by designating the information as “Public” in the system. Please be aware: 
-      * The option to make such information “Public” should not be used if the information is not to be shared with other Users within the Client’s organization.
-      * A Client may also require that one or more of its Users be given global rights to access any and all information relating to each of its Users.
-      * If you have questions or concerns regarding the rights of other individuals in your organization to access your information, you should raise those concerns with the appropriate person at your organization.
-  * _Information we collect or receive when you use or visit our Online Services._ We also collect or receive information when you use or visit our Online Services (“Web Behavior Information”). We may collect Web Behavior Information using cookies, web beacons, and other technologies. Depending on how you access and use our Online Services and other variables, we may receive: 
-    * _Log information_. This is information we may collect and store when you use or visit our Online Services. It can include, for example: 
-      * Information about your interactions with our Websites, Mobile Applications, Social Media Pages, the content you view, the search queries you submit, and information in cookies and similar technologies.
-      * Information about how you access our Online Services, your browser or operating system, and your Internet Protocol (“IP”) address.
-    * _Device information_. This is information we may collect and store about the device you use when you access our Online Services. Device information includes, for example: 
-      * The type of device you’re using (e.g., an iPhone);
-      * Certain device identifiers which may be unique to your device; and 
-      * Your Internet service provider. 
-    * _Information from third-party sources._ We may collect or receive additional information about you that is publicly available and combine that with the information we have collected or received about you in other ways.
+To browse the Website only, you are not required to provide any personal information. However, we may gather non-personally-identifiable information. Similar to many commercial websites, we utilize “cookies” and other technologies to collect non-personally-identifiable information on visitors to the Website. Cookies allow web servers to recognize the computer used to access a website. Cookies store information accessed through your browser to streamline activities on related web sites, and make the online experience easier and more personalized. Information gathered through cookies and web-server log files may include information such as the date and time of visits, the pages viewed, IP addresses, links to/from any page, and time spent at a site.
 
+The Website may include options for visitors to submit information to DiscoverOrg, for example, to request a product demonstration, download an article, etc. Such forms may provide the option of submitting personal information, such as your name, job title, company, email address, or phone number. In addition, when submitting information on a Website, your submission will be associated with the IP address you are then using, which is automatically assigned to your computer by your Internet Service Provider.
 
+### Use of Website Visitor Information
 
-**HOW WE USE AND DISCLOSE INFORMATION WE COLLECT AND RECEIVE**  
-We use the information we collect and receive for the following general purposes:
+We use cookie data to measure site traffic and usage activity for purposes of improving and enhancing the functionality of the Website, to look for possible fraudulent activity, to better understand the sources of traffic and transactions on the Website, and/or to serve targeted advertisements. Cookies also allow our servers to remember your account information for future visits and to provide personalized and streamlined information across related pages on the Website. You can choose to disable cookies for the Website but this may substantially limit your ability to use our Website. The use of cookies by our partners, affiliates, tracking utility company, or service providers is not covered by this Policy. We do not have access or control over these cookies.
 
-  * _To develop and maintain our Products and Online Services:_ As part of its Research Activities, RainKing’s research department identifies, processes, and maintains business contact information (including contact name, title, business address, phone number, email address, and/or other business-related information) for decision makers worldwide at public and private companies and state and local government entities. We use this information to develop and maintain our Products and Online Services. We provide our Products and Online Services to our Clients, who use the information for sales and marketing activities.
-  * To respond to your requests and service Client accounts. We use the information we collect and receive to provide you with information you request or services you use. For example: 
-    * If you fill out an online “Contact Me” form, we may use the information provided to contact you about your interest in our Products and Online Services.
-    * If you ask us to remember your login information for our Online Services, we’ll use information stored in cookies when you return.
-    * We use Client’s Billing Information to check their financial qualifications and collect payment.
-  * _To improve our Products and Online Services._ We use information we collect and receive from Clients, Users, and Visitors to provide better Products and Online Services. For example: 
-    * We may use cookies, web beacons, and other tracking technologies to operate and improve our Websites, such as for authenticating you when you access our Websites or to remember your preferences.
-    * We may also track and analyze non-personally identifiable information and aggregate usage and volume statistical information from our Clients, Users, and Visitors.
-  * _To conduct more effective marketing._ We may use the information we collect and receive to provide more targeted content that our Clients, Users, and Visitors are likely to find relevant. For example: 
-    * We may use cookies and other tracking technologies alone or in combination with Client Information to provide you with personalized information about our Products and Online Services.
-    * We may use information you provide to contact you to further discuss your interest in our Products and Online Services and to send you information regarding RainKing, its affiliates, and its partners, such as information about promotions.
+Information collected from Website submissions will be used for DiscoverOrg’s internal business purposes, including its investigations, sales, and marketing. We may use IP addresses for purposes such as calculating usage levels, diagnosing server problems and administering the Services. We may also derive your approximate location from your IP address.
 
+DiscoverOrg takes reasonable steps to maintain the security of Website visitor information, does not license or sell such information to anyone, and will only share such information with a third party who has agreed to keep such information confidential and maintain the security thereof, and only for the purposes of facilitating one of the uses described herein on behalf of DiscoverOrg.
 
+If you have visited any of the Website and would like to know what information, if any, DiscoverOrg has about you and would like to correct such information or have it deleted, you may contact us at privacy@discoverorg.com.
 
-In addition to the foregoing, we may share information with:
+## 3\. DiscoverOrg Customers
 
-  * _Affiliates._ We share information we collect or receive among RainKing affiliates.
-  * _Business Partners._ We may share non-personally identifiable information with select business partners.
-  * _Other parties in response to legal process or as we deem necessary to protect our Products, Online Services, or the rights of others._
+### Customer Information Collected
 
+DiscoverOrg may collect the following information from or regarding its customers: (1) personal contact information regarding users of the Services (“User Information”); (2) information uploaded to our system by a user of the Services (“Uploaded Information”); and (3) usage logs regarding the use of the Services, including logins and other actions taken, time stamps, IP address, and other usage data (“Usage Logs”) (collectively, “Customer Information”). In addition, in connection with purchasing the Services, DiscoverOrg may receive credit card or other payment information (“Payment Information”).
 
+You may be a user that has been provided access to the DiscoverOrg site and database through your company license agreement. Your employer may require that one or more users have global rights to access any and all information of every user that has access through the company. If you have questions or concerns regarding the rights of other individuals in your company to access your User Information, Uploaded Information, or Usage Logs, you should raise those concerns with the appropriate person at your company. ****
 
-We may also use and/or disclose information, including personal information, in certain circumstances, such as when we have a good faith belief that:
+### Use of Customer Information
 
-  * It is necessary to respond to lawful governmental requests or legal process (for example, a court order, search warrant, or subpoena);
-  * The information may be relevant to a crime that has been or is being committed;
-  * To investigate and enforce against possible unauthorized access to or use of our Products or Online Services, for example in violation of a Subscription Agreement, our [Terms of Use](https://web.archive.org/terms-of-use/), or the law.
-  * To identify, contact, or bring legal action against persons or entities that may be violating your rights, our rights, or the rights of others.
+Customer Information may be used for DiscoverOrg’s legitimate business interests in connection with your use of the Services, including to respond to user inquiries and fulfill user requests, complete transactions, provide customer service, send administrative information, and to personalize user experience with the Services. We may use Customer Information to better understand our users in general and to improve the content and functionality of the Services. We may use Customer Information to contact you in the future to tell you about services, promotions, opportunities, and other general information about DiscoverOrg we believe will be of interest to you. We may use Customer Information to investigate and prosecute potential breaches of DiscoverOrg’s security or license agreements.
 
+DiscoverOrg will not disclose Customer Information to any third party except in connection with a legitimate use as set forth herein, in connection with a bona fide legal dispute to which such information is relevant, in response to valid, compulsory legal process, or as otherwise required by law. DiscoverOrg will, whenever possible, obtain confidentiality agreements from any person or entity to whom Customer Information is disclosed and ensure any recipients are committed to employing appropriate technological security measures.
 
+DiscoverOrg employs reasonable security and back-up procedures to protect Customer Information. However, in the unlikely event there is a loss or corruption of Customer Information, DiscoverOrg is not responsible or liable for such loss or corruption. We encourage our users to retain copies of all Uploaded Information on their own system.
 
-**COOKIES, WEB BEACONS, AND OTHER TRACKING TECHNOLOGIES**  
-Our Website uses cookies, flash cookies, web beacons, and other tracking technologies for various purposes, including:
+DiscoverOrg will use Payment Information solely for the purpose of fulfilling purchase requests. We will store Payment Information in an encrypted form and will not sell, share, or use it again without prior consent.
 
-  * To help us recognize your browser across the Website, different web pages, and browsing sessions;
-  * To save and remember any preferences that may have been set while accessing or visiting our Website; 
-  * To help us customize the content provided to you on our Website; and
-  * To help measure and research the effectiveness of our Products, Online Services, offerings, advertisements, and email communications.
+### Customer Use of DiscoverOrg Integrations
 
+As part of the Services, DiscoverOrg may make available to its Customers certain Integrations. In using DiscoverOrg’s Integrations, such as DiscoverOrg’s SFNA and web browser extensions, Business Contact Information from Customer’s CRM, MAT, or sales enablement software may be transmitted to DiscoverOrg for purposes of matching or cleansing Customer’s data against DiscoverOrg’s database as a feature of the Services. In that event, DiscoverOrg may retain and store such Business Contact Information for purposes of identifying potential contacts to supplement the Services, verifying the accuracy of such Business Contact Information, removing out-of-date Business Contact Information from the Services, or otherwise improving DiscoverOrg’s research processes and the content provided through the Services. Information so received will be completely anonymous as to the source. In the event that any customer wishes to opt out of DiscoverOrg’s use of such information, they may contact us at connector.optout@discoverorg.com.
 
+## 4\. DiscoverOrg Services
 
-**CONTROL OVER YOUR INFORMATION**  
-You have several choices with respect to opting out of communications from us, identifying your personal information disclosed in our Products, and correcting or deleting your personal information from our Products.
+### Information Collection and Use
 
-  * _Marketing Communications._ RainKing uses an opt-out standard for communications with you about our Products and Online Services and other products or services that may be of interest to you. If you do not wish to receive such communications from us, please email us at [privacy@rainkingonline.com](mailto:privacy@rainkingonline.com). In addition, you can select unsubscribe on any of our electronic marketing communications. If you opt out of marketing communications, RainKing will still contact you in order to provide you with the products and services you have requested from us.
-  * _Information in our Products._ If you wish to correct or remove your personal information from RainKing’s Products, or inquire whether your personal information is shared through RainKing’s Products, you may email us at [privacy@rainkingonline.com](mailto:privacy@rainkingonline.com).
+DiscoverOrg collects information regarding companies and their employees, including Business Contact Information on company executives, decision makers, and other employees. The information collected is similar to that which is typically included on a business card, business email signature block, or an online professional profile, including: name, company name, job title, business email address, business phone number, business address, and corporate website URL. DiscoverOrg gathers, verifies, and organizes this data for purposes of licensing such information to DiscoverOrg’s clients and strategic partners for sales, marketing, and recruiting purposes.
 
+DiscoverOrg obtains data for its database from first-hand research, including telephone interviews and publicly available resources, third-party licensors, and customer contributions/feedback. All of the business contact information that DiscoverOrg obtains through any of the foregoing means is verified by DiscoverOrg’s in-house research team, and information that is found to be inaccurate or irrelevant to the purposes of the Services is removed and deleted. DiscoverOrg endeavors to publish only accurate business contact information on executives and other agents and employees of the companies it profiles.
 
+### Disclosure of Information via the Services
 
-**LINKS TO OTHER WEBSITES**  
-Our Online Services may include links to websites or services operated by third parties. Their business policies may include different privacy policies and practices than we have. Please be aware that when you click through to third-party websites this Privacy Policy no longer applies and we are not responsible for the privacy practices of third-party’s sites. We encourage you to review the policies of each site you use.
+If DiscoverOrg has included your business contact information in its database, such information may be disclosed to DiscoverOrg’s clients and strategic partners who have entered into license agreements with DiscoverOrg. Such agreements require any such licensee to use such information only for such licensee’s internal business purposes, including sales, marketing or recruiting, and not to disclose such information to third parties. Such agreements prohibit such licensees from using any of the information in violation of any applicable law, which include laws regarding unsolicited marketing.
 
-**MOBILE APPLICATIONS**  
-In addition to information collected and received as described in this Privacy Policy, we may collect or receive information through Mobile Applications that Clients or Users download to, and run on, their mobile devices. Our Mobile Applications may collect information from, access data stored on, or transmit information to Users’ mobile devices to provide services related to the Mobile Application, including updating the Mobile Application. Information our Mobile Applications may collect or access on Users’ mobile devices includes calendar information, photographs, and geographic location.
+### EU Residents
 
-**INFORMATION SECURITY**  
-The security of your information is important to us. We take steps to protect the information we collect, receive, maintain, and/or process. However, no method of transmission over the Internet or electronic storage or processing is one hundred percent secure and we cannot guarantee its absolute security.
+In the course of obtaining data to be included in DiscoverOrg’s services, if DiscoverOrg obtains business contact information regarding an individual that DiscoverOrg has reason to believe is based in the European Union, DiscoverOrg will provide such individual with a notice detailing the information DiscoverOrg has on such person, the purpose for which it will be used, and informing such person of their rights with respect to such information, including the right to know what information DiscoverOrg possesses on them, to correct such information, or to opt out of data collection entirely. Such persons may opt out of the DiscoverOrg database by emailing privacy@discoverorg.com.
 
-**CALIFORNIA RESIDENTS’ PRIVACY RIGHTS**  
-If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information to third parties for the third parties’ direct marketing purposes. To make such a request, please contact us.
+## 5\. Miscellaneous Provisions
 
-**PRIVACY SHIELD**  
-RainKing complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union (EU) member countries. RainKing has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement, and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/welcome>.
+### Privacy Shield
 
-With respect to personal data received or transferred pursuant to the Privacy Shield Framework, RainKing is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, RainKing may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+DiscoverOrg complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. DiscoverOrg has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the policies in this Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program (including the Privacy Shield Principles), any rights you may have to binding arbitration before a Privacy Shield Panel, and to view our certification page, please visit https://www.privacyshield.gov.
 
-RainKing is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. RainKing complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
+For information received under the Privacy Shield, DiscoverOrg will require third parties to whom DiscoverOrg discloses personal information to safeguard that personal information consistent with this Policy by contract, obligating those third parties to provide at least the same level of protection as is required by the Privacy Shield Principles. EU and Swiss citizens may choose to opt-out of such disclosures. DiscoverOrg may have liability to you in case of failure to comply with the law or this policy in handling onward transfer of your information to third parties.
 
-In compliance with the EU-US Privacy Shield Principles, RainKing commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this privacy policy should first contact RainKing at: [privacy@rainkingonline.com](mailto:privacy@rainkingonline.com).
+In compliance with the Privacy Shield Principles, DiscoverOrg commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss individuals with inquiries or complaints regarding this Policy should first contact DiscoverOrg at privacy@discoverorg.com. European Union and Swiss individuals have the right to access their personal data.
 
-RainKing acknowledges that EU individuals have the right to access the personal information/data that we maintain about them. RainKing will provide an individual opt-out choice before we share their personal, non-public information with third parties other than our agents, or before we use it for a purpose other than which it was originally collected or subsequently authorized. An EU individual who seeks access, or who seeks to correct, amend, or delete inaccurate data, should direct their query to [privacy@rainkingonline.com](mailto:privacy@rainkingonline.com). If requested to remove data, we will respond within a reasonable timeframe.
+DiscoverOrg further has committed to refer unresolved privacy complaints under the Privacy Shield Principles to JAMS (Judicial Arbitration & Mediation Services), an independent alternative dispute resolution provider located in the United States and recognized for this purpose by the US Department of Commerce. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit https://www.jamsadr.com/eu-us-privacy-shield for more information, and to file a complaint.
 
-RainKing has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles to BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit <http://www.bbb.org/EU-privacy-shield/for-eu-consumers> for more information and to file a complaint.
+The Federal Trade Commission has enforcement authority regarding DiscoverOrg’s compliance with the Privacy Shield Principles.
 
-Under certain conditions, more fully described on the [Privacy Shield](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint " \[External\]") website, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+**The General Data Protection Regulation (“GDPR”) 2016/679**
 
-**CHANGES TO THIS PRIVACY POLICY**  
-We may update this Privacy Policy from time to time, so you should review this Policy periodically. The date of our last update to this Privacy Policy is noted at the top of this page. Any changes to this Privacy Policy are effective when we post the updated Privacy Policy to our Online Services.
+DiscoverOrg endeavors to comply with the provisions of the GDPR as to any information in its possession regarding European Union-based persons (“data subjects”). As such, DiscoverOrg only processes personal information on data subjects where it has a lawful basis to do so, which may include the consent of the person (especially in the case of website visitors who provide their information), performance of a contract, compliance with a legal obligation, or the legitimate interest of the controller or a third party. DiscoverOrg provides notice to all data subjects as required by GDPR Article 13 or 14, as appropriate, and honors the [rights of data subjects](https://pages.discoverorg.com/GDPR-Info-Requested_GDPR-Info-Request-Page.html) provided in Articles 12-23, including the [right to be forgotten](https://pages.discoverorg.com/right-to-be-forgotten-request.html).
 
-**CONTACT US**  
-If you have questions or concerns about this Privacy Policy, or would like to submit a complaint about RainKing’s use or disclosure of your personal information, please contact us at [privacy@rainkingonline.com](mailto:privacy@rainkingonline.com).
+### Security
 
-* * *
+DiscoverOrg employs reasonable security controls to protect all of the information subject to this Policy.
 
-#### DEFINITIONS
+### Change in Control
 
-**Personal Information**  
-Personal information is information that identifies a specific person. It includes name, address, telephone number, email address, payment card number, and government-issued identification number.
+In the event of a merger, acquisition, reorganization, bankruptcy, or other similar events, any information in our possession may be transferred to our successor or assign.
 
-**Non-Personally Identifiable Information**  
-Non-personally identifiable information is every kind of information except for personal information.
+### Changes and Notifications
 
-**Cookies**  
-A cookie is a small text file placed in your device’s browser, and that can be used to help recognize your browser across different webpages, websites, and browsing session. Cookies are stored on your device or in “local storage.” You may disable cookies by selecting the appropriate setting in your browser. However, if you select this setting you may be unable to access certain websites or parts of websites, including our Website. 
+This Policy was last updated on the date indicated above. DiscoverOrg may make updates and changes to this Policy by posting an updated policy on the Website.
 
-**Flash Cookies**  
-“Flash cookies” or Local Shared Objects are another type of local storage technology. Flash cookies may use parts of your device other than your browser, which means you may not be able to control their use using the browser tools and settings you use to control browser cookies. For more information about managing Flash cookies, please visit the [Adobe Flash Player website](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html " \[External\]"). Your browser's privacy controls may enable you to manage other types of local storage.
+### Access to Information; Contact Us
 
-**Web Beacons**  
-Web beacons are small pieces of code placed on webpages, videos, and in emails that can communicate information about your browser and device to a server. Beacons can be used, among other things, to count the users who visit a webpage or read an email, or to deliver a cookie to the browser of a user viewing a webpage or email.
+If you have any questions about this Privacy Policy, the practices, or use of the Website or Services, or would like to make any request as provided hereunder, please contact us at:
 
-**Device Identifiers**  
-Device identifiers are strings of letters and numbers that can be used to distinguish one device from other devices. These identifiers can be used in various ways and for a variety of purposes. For example, identifiers may be used to remember your preferences in connection with a website or app, for analytics purposes, or to provide relevant ads to the device. Apple's iOS Advertising Identifier (IDFA), Google's Android Advertising ID, and Verizon Wireless's UIDH are examples of device identifiers.
+DiscoverOrg
 
-Get your free company profile
+Attn: Privacy
+
+805 Broadway, Suite 900
+
+Vancouver, WA 98660
+
+360-718-5630
+
+[privacy@discoverorg.com](mailto:privacy@discoverorg.com).
