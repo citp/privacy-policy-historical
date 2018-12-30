@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the coloradotech.edu privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114192438id_/http%3A//www.coloradotech.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coloradotech.edu privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230113224id_/https%3A//www.coloradotech.edu/privacy) for the most accurate reproduction.*
 
 # Colorado Technical University Privacy Policy | CTU
 
-Effective Date: January 2014. Last Updated: May 3, 2017. 
+Effective Date: January 2014. Last Updated: May 3, 2017.
 
-#### THIS POLICY APPLIES TO THE SITES AND APPS WHERE IT APPEARS.
+## THIS POLICY APPLIES TO THE SITES AND APPS WHERE IT APPEARS.
 
 This Privacy Policy describes how we treat personal information collected on our sites and apps where it is located. This also includes how we treat information collected when you use our Wi-Fi services. We refer to these as our "Platforms." This policy does not apply to information we collect in other ways, such as information we collect from you in connection with your course work. This policy also does not apply to our privacy obligations under FERPA and similar state laws. To learn more, please visit [here](http://coloradotech.smartcatalogiq.com/current/Catalog/University-Policies/Notification-of-Rights-under-FERPA-with-respect-to-Student-Records).
 
-#### WE COLLECT INFORMATION FROM AND ABOUT YOU. 
+## WE COLLECT INFORMATION FROM AND ABOUT YOU. 
 
 **We collect contact information.** For example, we may collect your name and mailing address. This may include your zip code. We might also collect phone numbers and email addresses. 
 
@@ -22,7 +22,7 @@ This Privacy Policy describes how we treat personal information collected on our
 
 **We collect device and location information.** We collect the type and make of device you use to access our Platforms. We may also collect information about the browser you are using. We might look at what site you came from, or what site you visit when you leave us. We may collect information across the devices you use to access our Platform. If you use our app, we might look at how often you use the app and where you downloaded it. This might include your device identification number, IP address or mobile operating system. We may also collect location information. This may include precise location information from your device such as your location when you are on or near campus. 
 
-#### WE COLLECT INFORMATION ABOUT YOU IN SEVERAL WAYS.
+## WE COLLECT INFORMATION ABOUT YOU IN SEVERAL WAYS.
 
 **We collect information directly from you.** For example, might collect information when you request information about our products and services or sign up for an event. We might also collect information when, for example, you sign up to receive communications from us.
 
@@ -30,11 +30,11 @@ This Privacy Policy describes how we treat personal information collected on our
 
 **We collect information from third parties.** We may receive information about you from other sources. This might include our business partners. It may also include our education partners, like organizations that administer college-level exams, manage records related to education, or provide scholarships, grants and other financial aid. It might also include other academic institutions. It also includes friends who use our “Its Who U Know” and other referral features. We also get information about you from social media platforms.
 
-#### WE COMBINE INFORMATION WE OBTAIN FROM DIFFERENT SOURCES.
+## WE COMBINE INFORMATION WE OBTAIN FROM DIFFERENT SOURCES.
 
 We may combine information that we collect offline with information we collect online. We may also combine information you submit or that we track across multiple devices. We may also combine information we collect from you with information we get about you from others. 
 
-#### WE USE INFORMATION IN A VARIETY OF WAYS.
+## WE USE INFORMATION IN A VARIETY OF WAYS.
 
 **We use your information to communicate with you.** This includes responding to your questions or inquiries or notifying you if you won a promotion. We will also use your information to send you information about your account or about our relationship. We may send push notifications in our apps.
 
@@ -44,11 +44,11 @@ We may combine information that we collect offline with information we collect o
 
 **We use your information for marketing purposes.** We may provide you with information about current or new products and services or other ads. We might use your information to serve you with ads. These might be third party offers or products we think you might find interesting. We may also have our business partners serve you with ads about our products and services. We may use your geolocation information to send these communications. 
 
-**We use information for security purposes.** This could include protecting our family of companies and our students. It may also include protecting our Platform. 
+**We use information for security purposes.** This could include protecting our family of companies and our students. It may also include protecting our Platform.
 
 **We use information as otherwise permitted or required by law or as we may notify you.** This includes using your information for our legitimate business needs.
 
-#### WE SHARE INFORMATION WITH THIRD PARTIES.
+## WE SHARE INFORMATION WITH THIRD PARTIES.
 
 **We share your information within the Career Education Corporation family of companies.** This includes our network of schools and the Career Education Foundation Scholarship Fund
 
@@ -70,7 +70,7 @@ We may combine information that we collect offline with information we collect o
 
 **We will share information for other reasons we may describe to you.**
 
-#### YOU HAVE CERTAIN CHOICES ABOUT HOW WE USE YOUR INFORMATION.
+## YOU HAVE CERTAIN CHOICES ABOUT HOW WE USE YOUR INFORMATION.
 
 **You can opt out of receiving our marketing emails.** To stop receiving our promotional emails, follow the instructions in any promotional message you receive from us. Note that even if you opt out of our promotional emails, you will still receive transactional messages from us. 
 
@@ -78,36 +78,36 @@ We may combine information that we collect offline with information we collect o
 
 **You can control tools your mobile devices.** For example, you can turn off the GPS locator or push notifications on your phone. 
 
-#### YOUR CALIFORNIA PRIVACY RIGHTS
+## YOUR CALIFORNIA PRIVACY RIGHTS
 
 If you reside in California, you have the right to ask us one time each year if we have shared personal information with third parties for their direct marketing purposes. To make a request, please send us an email at [privacymatters@careered.com](mailto:privacymatters@careered.com) or write to us at the address listed below. Indicate in your email or letter that you are a California resident making a "California Shine the Light" inquiry. 
 
-#### OUR PLATFORMS AND CHILDREN.
+## OUR PLATFORMS AND CHILDREN.
 
 Our Platforms are meant for adults. We do not knowingly collect personally identifiable information from children under 13. If you are a parent or legal guardian and think your child under 13 has provided us with information, please contact us at [privacymatters@careered.com](mailto:privacymatters@careered.com). You can also write to us at the address listed at the end of this website Policy. Please mark your inquiries “COPPA Information Request.” Parents, you can learn more about how to protect children's privacy on-line [here](http://www.consumer.ftc.gov/articles/0031-protecting-your-childs-privacy-online).
 
-#### WE USE STANDARD SECURITY MEASURES.
+## WE USE STANDARD SECURITY MEASURES.
 
-The Internet is not 100% secure. We cannot promise that your use of our Platform will be completely safe. We encourage you to use caution when using the Internet. We use reasonable means to safeguard personal information under our control. User IDs and passwords are needed to access certain areas of our Platform. It is your responsibility to protect your username and password. 
+The Internet is not 100% secure. We cannot promise that your use of our Platform will be completely safe. We encourage you to use caution when using the Internet. We use reasonable means to safeguard personal information under our control. User IDs and passwords are needed to access certain areas of our Platform. It is your responsibility to protect your username and password.
 
-#### STORAGE OF INFORMATION
+## STORAGE OF INFORMATION
 
-Information we maintain may be stored in the United States. If you live outside of the United States, you understand and agree that we may transfer your personal information to the United States. This site is subject to U.S. laws, which may not provide the same level of protections as those in your own country. 
+Information we maintain may be stored in the United States. If you live outside of the United States, you understand and agree that we may transfer your personal information to the United States. This site is subject to U.S. laws, which may not provide the same level of protections as those in your own country.
 
-#### WE MAY LINK TO THIRD PARTY SITES.
+## WE MAY LINK TO THIRD PARTY SITES.
 
-Our Platform may contain links to other third party sites that are not governed by this Policy. If you click on a link to a third party site, you will be taken to a site we do not control. We are not responsible for the privacy practices used by third party sites. We suggest that you read the privacy policies of those sites carefully. We are not responsible for these third party sites. 
+Our Platform may contain links to other third party sites that are not governed by this Policy. If you click on a link to a third party site, you will be taken to a site we do not control. We are not responsible for the privacy practices used by third party sites. We suggest that you read the privacy policies of those sites carefully. We are not responsible for these third party sites.
 
-#### HOW TO CONTACT US
+## HOW TO CONTACT US
 
-If you have any questions about our privacy practices contact us at [privacymatters@careered.com](mailto:privacymatters@careered.com) or by telephone at 847-781-3600. You may also write to us at the following address: 
+If you have any questions about our privacy practices contact us at [privacymatters@careered.com](mailto:privacymatters@careered.com) or by telephone at 847-781-3600. You may also write to us at the following address:
 
 Privacy Matters  
 Career Education Corporation  
 231 N. Martingale Road  
 Schaumburg, IL 60173
 
-#### CHANGES TO THIS PRIVACY POLICY
+## CHANGES TO THIS PRIVACY POLICY
 
 From time to time, we may change this Privacy Policy. We will notify you of any material changes to this policy as required by law. We will also post an updated copy on our Platforms. Please check our Platforms periodically for updates. 
 
