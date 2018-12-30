@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the teradatariver.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606064104id_/http%3A//teradatariver.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teradatariver.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230165845id_/http%3A//laptoptera.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Teradatariver - Best Laptops 2017, Specs and News
+# Privacy Policy – Teradatariver - Best Laptops 2018, Specs and News
 
 ### Privacy Policy for Teradatariver.com
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at andrea >>@<< teradatariver.com.At Teradatariver.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by Teradatariver.com and how it is used.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at andrea >>@<< teradatariver.com. At Teradatariver.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by Teradatariver.com and how it is used.
 
 ### Log Files
 
