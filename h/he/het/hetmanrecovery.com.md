@@ -1,8 +1,14 @@
-> *The following text is extracted and transformed from the hetmanrecovery.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112170531id_/https%3A//hetmanrecovery.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hetmanrecovery.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230080412id_/https%3A//hetmanrecovery.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for HetmanRecovery.com Visitors
 
 Hetman Software makes your privacy a top priority. This document discloses the collection, use, and storage of personal information by Hetman Software and https://hetmanrecovery.com/ (hereinafter referred to as “Web site”) visitors.
+
+## GDPR
+
+Effective May 25th, 2018, if you are from the European Economic Area (“EEA”), our processing of your personal data will comply with the Regulations (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016, known as the General Data Protection Regulation (“GDPR”).
+
+To request access to, correction or deleting of your personal data, you may use our online form or send an e-mail located at [this page](https://web.archive.org/support.htm).
 
 ## Cookies and Visitor Tracking
 
