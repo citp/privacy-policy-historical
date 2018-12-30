@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adwerx.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628040643id_/https%3A//www.adwerx.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adwerx.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230134625id_/https%3A//www.adwerx.com/privacy) for the most accurate reproduction.*
 
 # Adwerx
 
@@ -11,7 +11,7 @@ Welcome to the website Adwerx.com (the “Site”), owned, produced and operated
 **SCOPE**  
 This Privacy Policy applies to the collection of personal information from users of this Site. It relates to information we collect from you, including personally identifying information (also referred to as “PII”) and information that does not identify you personally. PII may include, for example, some or all of the following: your name, mailing address, email address, telephone number, mobile phone number, passwords, credit/debit card information, user name and password, and demographic information. 
 
-This Privacy Policy does not apply to the use of the Adwerx platform (“Adwerx Platform”) for delivering online advertising, including the use of the Adwerx Platform on the Site. For information about privacy on the Adwerx Platform [click here](https://web.archive.org/platform_privacy). By using this Site you agree to be bound by this Privacy Policy, whether or not you register as a registered user of the Site. Please read this Privacy Policy carefully. 
+This Privacy Policy does not apply to the use of the Adwerx platform (“Adwerx Platform”) for delivering digital advertising, including the use of the Adwerx Platform on the Site. For information about privacy on the Adwerx Platform [click here](https://web.archive.org/platform_privacy). By using this Site you agree to be bound by this Privacy Policy, whether or not you register as a registered user of the Site. Please read this Privacy Policy carefully. 
 
 **INFORMATION COLLECTED AND USED BY ADWERX**  
 When users register with the Site (“Registered User”), Adwerx collects personal information submitted by the Registered User such as name, mailing address, email address, and telephone number. Adwerx uses that information to authenticate registered users and to send notifications to those users relating to the Adwerx service and other matters that may be of interest to the user such as special offers. Adwerx also uses the information to provide the products and services requested by the user. 
