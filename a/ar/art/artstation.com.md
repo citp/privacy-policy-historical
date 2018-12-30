@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artstation.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624121553id_/https%3A//www.artstation.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artstation.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230115353id_/https%3A//www.artstation.com/privacy) for the most accurate reproduction.*
 
 # ArtStation - Privacy Policy
 
@@ -123,6 +123,6 @@ Any inquiries, complaints or questions regarding this policy or our compliance w
 
 Privacy Officer  
 Ballistiq Digital Inc.  
-33 Rue Prince, Suite 282  
+33 Rue Prince, Suite 313  
 Montreal, QC H3C 2M7  
 Canada
