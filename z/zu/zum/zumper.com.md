@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zumper.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624125214id_/https%3A//www.zumper.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zumper.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230122934id_/https%3A//www.zumper.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Zumper
 
@@ -46,7 +46,7 @@ Notwithstanding the above, Zumper may use Personal Information to the extent req
 
 Zumper's Disclosure of Personal Information:
 
-We will use the Personal Information you give us to fulfill the services you request from us. This may include sharing such Personal Information with any of our Contractors, with our affiliates (including but not limited to any of our subsidiary entities), or with any landlord, landlord representative, broker, property manager or sub-lessor with whom you may wish to enter into a rental contract. Additionally, we may share your email address and phone number with third parties (including in exchange for payment), whose services we think may be of interest to you based on your use of the Website, for their direct marketing purposes. Except as set forth in this paragraph, as described under "Permitted Disclosures" below, and as otherwise authorized by you, Zumper will not disclose Personal Information to any third party. Zumper shall in no event be liable to you for any use or misuse of Personal Information by any third party with whom your Personal Information has been shared in accordance with the terms of this paragraph.
+We will use the Personal Information you give us to fulfill the services you request from us. This may include sharing such Personal Information with any of our Contractors, with our affiliates (including but not limited to any of our subsidiary entities), or with any landlord, landlord representative, broker, property manager or sub-lessor with whom you may wish to enter into a rental contract. Except as set forth in this paragraph, as described under "Permitted Disclosures" below, and as otherwise authorized by you, Zumper will not disclose Personal Information to any third party. Zumper shall in no event be liable to you for any use or misuse of Personal Information by any third party with whom your Personal Information has been shared in accordance with the terms of this paragraph.
 
 Web Tracking Information:
 
