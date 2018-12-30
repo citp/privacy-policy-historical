@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the donbest.com privacy policy that was archived on 2018-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180521211302id_/http%3A//www.donbest.com/Customers/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donbest.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231004951id_/http%3A//www.donbest.com/Customers/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Customers - DonBest.com
 
-**DON BEST SPORTS IS COMMITTED TO YOUR PRIVACY**
+**Don Best Sports Corporation IS COMMITTED TO YOUR PRIVACY**
 
 We value your patronage and respect your privacy rights. As part of the normal operation of our services, we collect and, in some cases, may disclose information about you. We have created the following Privacy Policy to let you know what information we collect when you visit our web site, why we collect it, and how it is used. This Privacy Policy applies to all information that you provide to us and is maintained electronically, whether you provide the information through our website located at www.donbest.com (the "Site"), or through other means. Additionally, this Privacy Policy applies to any Personal Information (defined below) obtained from your use of the Site. This Privacy Policy does not apply to any information that you may provide to third parties; for example, other sites linked to this Site. You should contact such third parties directly to determine their respective privacy policies.  
 This Privacy Policy is governed by our Terms of Use found at www.donbest.com. We may periodically make changes to this Privacy Policy. It is your responsibility to review this Privacy Policy frequently and remain informed about any changes to it, so we encourage you to visit this page often. If you believe we have not adhered to this Privacy Policy or if you have any other questions regarding this Privacy Policy, please contact us at [webmaster@donbest.com](mailto:webmaster%40donbest.com) .
@@ -56,7 +56,7 @@ Cookies are a standard technology used by commercial web services to store small
 
 
 It should be clearly understood that the contact coordinates relating to each person which accesses our (or any of our affiliates') websites or purchases any of our (or any of our affiliates') services and which we access to their respective contact coordinates may be provided to third parties (in exchange for compensation or otherwise) for an indefinite period of time without any compensation being payable to the subject person. Such third parties may be using this personal information to contact you to solicit, advertise or market their products and/or services to you.   
-Should you have any questions, concerns or disagree with the possible provision of your personal information in the manner that is described herein, please contact our Chief Privacy Officer ("CPO") at the contact coordinates noted below.
+Should you have any questions, concerns or disagree with the possible provision of your personal information in the manner that is described herein, please contact our webmaster at the contact coordinates noted below.
 
 **WHAT GENERAL INFORMATION DO WE COLLECT FROM YOU AND WHY?**
 
@@ -81,12 +81,10 @@ We generally keep user data on our server or in our archives for as long as we r
 **PERSONAL CHOICE IN THE DISCLOSURE OF YOUR INFORMATION**
 
 If you do not want us to share your Personal Information with our Partners for marketing purposes, or if you do not want to receive certain communications and offers from us you can "opt out" of such sharing, communications by contacting us via email at [webmaster@donbest.com](mailto:webmaster%40donbest.com) , or write us at:  
-Don Best Sports  
-Akara Bldg  
-24 De Castro Street, Wickhams Cay 1  
-Road Town  
-Tortola  
-British Virgin Islands  
+Don Best Sports Corporation  
+3120 S Durango Dr. #305  
+Las Vegas, NV 89117
+
 If you believe that any Personal Information collected by us about you is not correct or has changed, please send an e-mail message to [webmaster@donbest.com](mailto:webmaster%40donbest.com) explaining the correction or change and providing any relevant confirmation or reference number.
 
 **DISCLOSURE OF PRIVACY PROVISIONS SPECIFIC TO CANADIAN RESIDENTS**
@@ -97,7 +95,7 @@ With respect to the collection, storage, use and retention of your personal info
 
 **Collection** : We collect personal information about individuals (clients, customers, employees, etc.) in order to better manage its business. In appropriate circumstances, we will make all reasonable efforts to fully inform such individuals about the planned use/disclosure. We will limit the collection and use of personal information to that required for valid business purposes or to comply with applicable legislation.
 
-**Accuracy** : We will make every reasonable effort to ensure that the personal information it collects and uses is accurate and complete. Upon written request to our CPO, individuals will have the opportunity to review and correct their personal information and we will modify the information required.
+**Accuracy** : We will make every reasonable effort to ensure that the personal information it collects and uses is accurate and complete. Upon written request to our webmaster, individuals will have the opportunity to review and correct their personal information and we will modify the information required.
 
 **Storage** : We will store personal information using hard copy and/or electronic means in such a way as to use its commercially reasonable best efforts to prevent unauthorized collection, access, use, disclosure, or disposal of the personal information.
 
@@ -109,19 +107,15 @@ With respect to the collection, storage, use and retention of your personal info
 
 **Care** : In addition to the care that we take directly, we also work with the third parties that lease the personal information and all of our partner organizations that may, at some point, handle personal information gathered by us in the course of their relationship with, and service to, us to ensure they also use their commercially reasonable best efforts to meet these Guidelines and our standards of privacy, confidentiality, and security.
 
-**Management** : All employees and third-party staff who in any way handle or manage personal information have been made aware of this Privacy Management Plan and the supporting procedures. Our CPO: For further information concerning our privacy policy, please contact:
+**Management** : All employees and third-party staff who in any way handle or manage personal information have been made aware of this Privacy Management Plan and the supporting procedures. For further information concerning our privacy policy, please contact:
 
-**Chief Privacy Officer**   
+**Webmaster**  
 Subject: Privacy Policy Inquiry  
 [webmaster@donbest.com](mailto:webmaster%40donbest.com)   
-or write the CPO at  
-Don Best Sports  
-Akara Bldg  
-24 De Castro Street, Wickhams Cay 1  
-Road Town  
-Tortola  
-British Virgin Islands  
-Attention: Chief Privacy Officer
+or write the webmaster at  
+3120 S Durango Dr. #305  
+Las Vegas, NV 89117  
+Attention: Webmaster
 
 **CHANGES TO THIS PRIVACY POLICY**
 
@@ -134,16 +128,14 @@ If you have a privacy question about this Site, please email: Customer Service a
 Or write to:
 
 Customer Service  
-Don Best Sports  
-Akara Bldg  
-24 De Castro Street, Wickhams Cay 1  
-Road Town  
-Tortola  
-British Virgin Islands
+Don Best Sports Corporation  
+3120 S Durango Dr. #305  
+Las Vegas, NV 89117  
+ATTN: Webmaster
 
-**DATE LAST MODIFIED: September 19, 2012**
+**DATE LAST MODIFIED: September 2018**
 
-Big Stick Media Corporation. All Rights Reserved.
+Don Best Sports Corporation. All Rights Reserved.
 
 Activities offered by advertising links to other sites may be deemed an illegal activity in certain jurisdictions. Viewers are specifically warned that they should inquire into the legality of participating in any games and/or activities offered by such other sites. The owner of this website assumes no responsibility for the actions by and makes no representation or endorsement of any of these games and/or activities offered by the advertiser. As a condition of viewing this website viewers agree to hold the owner of this website harmless from any claims arising from the viewer's participation in any of the games and/or activities offered by the advertiser.
 
