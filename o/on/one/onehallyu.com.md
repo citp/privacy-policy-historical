@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onehallyu.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624103330id_/https%3A//onehallyu.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onehallyu.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230101406id_/https%3A//onehallyu.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - OneHallyu
 
@@ -18,7 +18,7 @@ Your privacy is important to us. To better protect your privacy we provide this 
   * Where does OneHallyu host its data? Data is hosted in our virtual private server, registered under A Small Orange.
   * How can I edit my data? You can visit your profile page to edit any information that you provide.
   * May I opt out of OneHallyu communications? OneHallyu only provides digest that you have opted for, and you can always edit in your settings to stop receiving emails from us
-  * How can I download your OneHallyu data? Please drop us an email at onehallyu@gmail.com for information, and we will provide necessary support.
+  * How can I download your OneHallyu data? Please drop us an email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) for information, and we will provide necessary support.
 
 
 
