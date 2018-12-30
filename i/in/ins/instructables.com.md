@@ -1,356 +1,230 @@
-> *The following text is extracted and transformed from the instructables.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022194908id_/http%3A//usa.autodesk.com/adsk/servlet/item%3FsiteID%3D123112%26id%3D21292079) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instructables.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230021423id_/http%3A//usa.autodesk.com/adsk/servlet/item%3FsiteID%3D123112%26id%3D21292079) for the most accurate reproduction.*
 
-# Autodesk - Legal Notices & Trademarks - Autodesk Privacy Statement
+# Privacy Statement English
 
-Updated:  February 10, 2014
+### What information does Autodesk collect about you?
 
- **What this privacy statement covers** This privacy statement tells you about our privacy practices for our websites, products, online and web services, and apps that include a link or reference to this statement. It also tells you about our marketing and advertising practices, and applies to our offline practices. In this statement we will refer to our products, online and web services and apps as “applications.” 
+**Information you provide us:**
 
-Some of our websites and applications may display supplemental privacy or data collection notices that we share so you can make informed choices about what you want to do when you review the notices. For example, you may see a notice explaining data collection practices for an application, and your choices for participating. In special cases, websites and applications may have their own privacy policies. For example, we may buy another company to expand our business, and need some time to integrate the company’s privacy practices with ours.
+We collect information that identifies you, including your name, surname, and contact information, such as your address, email address and telephone number, when you:
 
-Third parties (such as social media platforms or other company websites that we link to from our websites and applications) are responsible for their own privacy practices. Be sure to read the privacy policies, supplemental notices, and settings of all websites or platforms that you visit so you can understand their privacy practices and your options.
+  * Create an account
+  * Register a product or service
+  * Sign up for one of our events
+  * Contact us
 
-Some websites and applications are subject to additional terms such as our website [terms of use](https://web.archive.org/adsk/servlet/index?siteID=123112&id=786919), [terms of service](https://web.archive.org/adsk/servlet/index?siteID=123112&id=17752585), and [software license agreements](https://web.archive.org/adsk/servlet/index?siteID=123112&id=10235425). Please read the terms that apply to the website or application you are using. These terms can help answer questions you may have about the confidentiality and security of designs and other content you create, and the effect of sharing and posting of content by you.
 
-Back to top
 
- **How to contact** If you have questions, concerns or complaints you can contact us through our [webform](https://web.archive.org/adsk/servlet/item?siteID=123112&id=13252943), by e-mail at [privacy.questions@autodesk.com](mailto:privacy.questions@autodesk.com), or by postal mail to the address below:
+We collect additional information to inform your specific use of our applications. This includes your language preferences, the date of your birth, the name of your employer and your job title.
 
-> Privacy Questions  
-> Autodesk, Inc.  
-> The Landmark @ One Market  
-> Suite 500  
-> San Francisco, CA 94105  
-> U.S.A.
+After you have created an account or registered for an application, we collect additional information, which may include:
 
-Back to top
+  * Your subscription plans and payment information
+  * Details about the applications that you purchased or have expressed interest in
+  * Training and certification details
+  * Event attendance details
+  * Your communication preferences
+  * Records of our interaction with you, where appropriate, such as service records, correspondence, details of complaints and their resolution
+  * Content you submitted to us, such as comments you posted in our forums
 
- **Self-regulatory frameworks**
 
-Autodesk complies with the US-EU Safe Harbor Framework and US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  Autodesk has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view our certification page, please visit <http://www.export.gov/safeharbor/>
 
-In compliance with the US-EU and US-Swiss Safe Harbor Principles, Autodesk commits to resolve complaints about your privacy and our collection or use of your personal information.  European Union or Swiss citizens with inquiries or complaints regarding this privacy statement should first contact Autodesk:
+When you make purchases through our websites, we use payment processors ([Digital River](https://www.digitalriver.com/corporate-policies/), [BlueSnap](https://home.bluesnap.com/privacy-policy/), [PayPal](https://www.paypal.com/us/webapps/mpp/ua/privacy-full), [Stripe](https://stripe.com/us/privacy)) and do not store credit card or other financial information (other than confirmation that payment in a certain amount has been made). We collect contact information from you that we pass through to the payment processor to facilitate the transaction. For more information you can contact our providers as set forth in their privacy notices. ****
 
-| | 
+**Information we obtain from your use of our applications:**
 
- ** _by postal mail to_**
+We collect information about the applications that you use and how you use them. We use this information to support our legitimate interest in improving your experience, and building better online, mobile, and desktop applications.
 
-Privacy Questions  
-Autodesk, Inc.  
-The Landmark @ One Market  
-Suite 500  
-San Francisco, CA 94105  
-U.S.A.  
-  
----|---  
-  
-We have further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, JAMS, in accordance with the JAMS International Mediation Rules. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Autodesk, please visit the JAMS web site at [www.jamsadr.com](http://www.jamsadr.com/) for more information and to file a complaint.
+This information includes:
 
-Back to top
+  * System Information and Usage Data 
 
- **Information we collect about you**
+We collect device-specific information, like unique device identifiers, operating system, and the type of device you use.
 
- **User IDs, registration, and contact  
-**  
-We collect information that identifies you when you
+We collect information about how you use our applications. This includes your product ID, license information, which applications you use and for how long, your city and country from your IP address, and information about your browser.
 
-  * register to use one of our websites or applications
-  * register to attend an event
-  * create a user ID to access our websites or applications
-  * contact us for services, support, information or other reasons
 
 
+  * Social Networking Data 
 
-We may collect your name, company name, email address and other contact information, a profile image (which may be a picture of you), or payment information.  Sometimes we collect other information that does not identify you, like your job title, industry or interests.  Some information is required, and other information is optional. 
+We have pages on social networking platforms, such as Facebook, LinkedIn, or Twitter, where you can visit and communicate with us.
 
-For student and education versions of our applications, we may require information to confirm your eligibility.  For our customers who make purchases through our channel partners or ecommerce providers, we will receive personal information about you from these companies so that we can have an accurate record of applications to which you have access. 
+Our applications also include buttons, tools, or content that links to another company’s services. We collect information about your use of these features through Autodesk Analytics tools and third-party analytics tools.
 
-To help keep our databases current and to provide you with more relevant content, experiences and offerings, we may combine information you give us with information from public sources and trustworthy companies (such as our resellers and ecommerce providers, and business contact databases), all in accordance with applicable law. 
+If you use an Autodesk application that contains plugins, information can be transferred directly from your device to the social networking provider. We have no influence on the data collected by the plugin. If you are logged in to the social network, a link can be established between your user account there and the use of our application.
 
-For example, these sources can tell us about the company size and industry of our business customers, and also help us maintain the accuracy of our databases.
+If you interact with the plugins, for example by clicking on "Like", "Follow" or "Share", or by writing a comment, this information may automatically appear in your profile on the social network. Even if you are not logged in, the plugins may send your IP address to social network providers. Please note this when using our applications.
 
- **Autodesk desktop product activation and automatic updates**  
-When you activate an Autodesk desktop application, we collect information about your system, the desktop application you are activating, and the application (product) serial number. [Learn more about activation](). Some of our applications include features that connect to our servers and let you install updates to the application. We may keep track of information such as whether the update was successful or not.
+When you connect to a social networking service on a device that is also used by others, these other users are able to see information that is stored or displayed in connection with your profile on the social networking service page.
 
- **Websites and applications**  
-Our websites or applications may collect usage information so we can manage our agreement with you or the company, organization or institution through which you receive access – for example, so we know how much to charge based on amount of use, or when the limit of the services paid for has been reached. You can get more information by reading the terms of service or software license agreement that applies to the applications you are using, and by talking to your license or contract administrator.
 
-Some of our websites and applications include specific data collection programs. Depending on the website or application, this information may or may not be associated with your personal information. You can learn more about specific programs, as well as your choices about how we use this information.
 
- **Automatic data collection tools, cookies and similar technologies  
-** When you communicate with us, access our websites and applications through a browser, application, or other client, our servers automatically collect and record certain information. For example, your browser or device may tell us your browser type, language preference and the Internet Protocol (IP) address (which may tell us generally where you are located) and the type of device or system you used. Your browser may also tell us information such as the time and date of your request, page that led you to our website and, if applicable, the search terms you typed into a search engine that led you to our website.
+  * Error data 
 
-In addition, we and our service providers may use cookies and similar technologies to collect information about how you use our websites and applications, and to measure the success of email or advertising campaigns. Choices about cookies and similar technologies.
+We collect and track data on technical errors that may occur when you use our applications, if you choose to send the relevant report to us in each case. Before the report is sent to us, you will be told what information will be collected and how it will be sent to us.
 
-When we send you emails, they might include a web beacon or similar technology that lets us know if you received or opened the email and whether you clicked on any of the links in the email. You can opt-out of marketing emails.
 
- **Buttons, tools, ads, and content from other companies  
-** Our websites and applications may include buttons, tools, advertisements, or content that links to another companies’ services (for example, a Facebook "Like" button on a webpage, a Google Maps feature in an application, or an ad in a mobile app). We may collect information about your use of these features.
 
-In addition, when you see or interact with these buttons, tools, ads, or content, or view our webpage or application containing them, some information from your browser may automatically be sent to the other company. Please read that company’s privacy policy for more information. You can also learn more about application usage metrics, cookies and your advertising choices.
+  * Automatic updates 
 
- **Advertising**  
-Our websites and applications may feature ads for other companies’ products and services, as well as for ads our own applications.
+We collect information that may identify you to your system administrator in connection with the automatic update process, to help your administrator determine what updates you need. This information includes your user login name, and your computer’s name or description.
 
-We may work with one or more advertising networks (each an Ad Partner) who use cookies, tracking pixels, or other technologies to collect information in order to serve you ads and help us track results. Examples of this information may include, but are not limited to, websites you visit, mobile apps you use, preferences you may provide us as the app provider (such as language preferences), your IP address (for purposes of determining your general location), device ID, MAC address, and browser information. This information helps:
 
-  * ensure that appropriate advertising is shown in the application or on the website
-  * calculate and control the number of unique and repeat views of a given ad
-  * deliver ads that relate to your interests, and
-  * measure the effectiveness of ad campaigns
 
+  * Cookies and similar technologies 
 
+Autodesk uses cookies (small text files stored by your web browser when you use websites) and related technologies, such as pixels and beacons (“Cookies”) to collect and store information when you visit our websites and use our applications.
 
-Some technology enables advertising to be temporarily uploaded onto your mobile device and replaced while you are online.
+We also use Autodesk Analytics programs and third-party analytics tools, such as [Google Analytics](http://www.google.com/policies/privacy), to help us understand how you use our website and applications.
 
-We do not actively share personal information with our Ad Partners or third party advertisers for their direct marketing purposes unless you give us your consent. Our Ad Partners deliver ads for us and may combine the information collected or obtained from us with other information they have independently collected from other websites and/or other online or mobile products and services relating to your browser's activities across their network of websites.
+To learn more about analytics within our websites and applications, see our [Cookie Statement](https://web.archive.org/company/legal-notices-trademarks/privacy-statement/cookie-policy-english).
 
-Please note that if you choose to click on an ad or participate in promotions of any third-party advertisers via an ad that appears in our application, this is solely between you and the advertiser and your participation is subject to the terms and conditions associated with that ad or promotion.
 
-Your choices about ads.
 
- **Social sign on and social networking**  
-Some of our websites and applications may allow you to sign in using a social networking platform account (such as Facebook, Google+ or Twitter). Social sign-on features may make creating an account with us faster for you by pre-populating our registration or user profile form with information you provided to the social networking platform. The first time you use a social sign-on service, the social media platform typically explains what information will be shared with us.
 
-Also, we have pages on many social networking platforms where you can visit and communicate with us. We may collect information when you visit our social networking pages. We will use this and social sign-on information for the purposes described in this privacy statement. Be sure to review the privacy and data usage policies of any social networking platform you use to learn more about its personal information practices and your options.
+With the exception of information essential to operate our services as described in our Cookie Statement, whether we collect this data is up to you. You can change your mind at any time by going into your Settings within the application, as well as here. Please keep in mind that you may also need to clear your Cookies on each browser on each device.
 
- **Children  
-** Some Autodesk websites and applications are intended for general audiences. However, we do not knowingly collect any personal information from children aged 12 years old and under. In some jurisdictions, notification, prior written permission or other verifiable parental consent may be required of a parent or guardian for children from 13 to 17 years of age. No information should be submitted nor posted to Autodesk websites or applications by children 12 years old or under.
+We associate any data we collect as set forth above with your personal account.
 
-Back to top
+**Information we collect from other parties:**
 
- **Information and content that you disclose** Some of our websites and applications allow you to post “likes,” comments, profile information (including profile images), videos, photographs, images, design files, and other content for others to see. In some cases you can limit who can view or access information and content you post. In other cases, the information and content might be available to registered members of the application or website, or even to the general public.
+To help keep our databases current, and to provide you with more relevant content, experiences and offerings, we combine your personal data, as described above, with information from public sources and other companies (such as our channel partners [resellers], business contact databases, and enrichment service providers), in accordance with applicable law.
 
-We urge you to be careful and thoughtful when deciding to disclose personal information, or any other information, on our applications and websites. If you are posting information you to not want to be disclosed publicly, make sure you are using a website or application that allows you to control who sees information you have posted.
+These sources can tell us about the company size and industry of our business customers and also help us maintain the accuracy of our databases.
 
-Please note that in some of our application and website forums, your name, user name, profile image, or email address may be posted along with any message you post. For example, information posted on Area, Instructables and Socialcam will be public by default. If you choose to share personal information in this way, the access limitations, security protocols and other commitments in this privacy statement will not apply to the information shared.
+### How does Autodesk use the information it collects about you?
 
-For information about how to access or remove personal information or content you share, read the information access, controls and choices section.
+We use your personal data mindfully, and in useful ways, including:
 
-For some websites or applications, we may allow access to certain content that you have shared publicly, including personal information, through an application programming interface (API). Learn more.
+  * To validate your identity, to the extent necessary to perform our contract with you
+  * To deliver you services, products, support, or information you have requested about your application, to the extent necessary to perform our contract with you
+  * To send you important information within the scope of our contract with you
+  * To send you other information you requested, like when someone has “liked” one of your posts, to the extent necessary to perform our contract with you
+  * To send you other special offers, promotions, newsletters, surveys, or other information that you have consented to receive, as long as you want them
+  * To support our legitimate interest in gaining a better understanding of our applications, so we can improve them and your experience
+  * To correct problems in our applications, as necessary to perform the contract we have with you
+  * To support our legitimate interest in making our ads more relevant to your interests
+  * To support our legitimate interest in using automated systems to analyze your data using machine learning and advanced analytics to improve our applications
+  * To pursue our legitimate interest in preventing and reducing fraud and software piracy
+  * As further described in your applications, such as in a supplemental notice, or in our About Boxes (available via Settings in your application)
 
-Back to top
 
- **Storage, retention and deletion of personal information** We store personal information and data files associated with you on Autodesk servers and servers of companies we hire to provide services to us. This information may be stored in the United States and in other countries where Autodesk operates, and in countries where our service providers who help us run our business operate.  Please see the sharing with third parties section for more information about our practices and requirements we place on service providers.
 
-If you are in the European Union, Switzerland, or other regions with laws governing data collection and use, you agree to the transfer to, and processing and storage of your personal information in the United States and other countries, the privacy laws of which may be considered as being less strict than those of your region. This consent applies in addition to other legal grounds for transfer, processing and storage of your personal information, such as for contract fulfillment purposes.
+Unless otherwise indicated, there is no statutory or contractual requirement for you to provide this data. If you do not provide this data, we might not be able to provide our services to you.
 
-We will keep personal information about you only as long as we need it:
+### How does Autodesk disclose your personal data?
 
-  * to honor your choices,
-  * to fulfill the purposes described in this privacy statement, or
-  * as required or permitted by applicable laws and regulations
+To provide you the best services we can, we work with other service providers. These companies are located all over the world, and we require them to protect your privacy. They are not authorized by us to use your personal data for their own purposes. Our service providers include companies we use for:
 
+  * Marketing
+  * Sales
+  * Consulting
+  * Communications
+  * Software Maintenance & Support
+  * Social Media
+  * Market Research
+  * License Compliance
+  * Security
+  * Localization
 
 
-For example, some laws and regulations may require us to retain certain transactional data. We take reasonable measures to destroy or permanently de-identify personal information in a secure manner when it is no longer required. For example, when the information is printed on paper, we take reasonable measures to delete or destroy it by shredding or incineration; where the information is stored electronically, we use technical means to render the information unusable.
 
-Back to top
+We may disclose your data in the following circumstances:
 
- **How we use information** We use information about you in a number of ways, including:
+  * When we have your consent to do so
+  * To our service providers for the purposes indicated in this Privacy Statement. We do not disclose your personal data to them for their own purposes.
+  * To our channel partners (resellers), who are not service providers, for the purposes indicated in this Privacy Statement
+  * When we are required to do so by law, such as to respond to a subpoena or a court order
+  * When we have a good faith belief that the disclosure is necessary to prevent or respond to fraud or software piracy, defend ourselves against attacks, or protect the rights, property, and safety of Autodesk, our customers, and the public
+  * If we merge with another company, or if we sell or reorganize part of, or all of our business, assets, or stock (including, if we file for bankruptcy). If this happens, your data will likely be transferred to the other company.
+  * When the data can no longer identify you. This can happen through aggregation, where your data is combined with other data to become a statistic.
 
-  * Providing you with access to our websites and applications for which you are eligible.
-  * Providing you with services, support or information you have requested.
-  * Sending you business communications. Examples include sending you application service packs, notices about upcoming events like an account or subscription expiration date, or reminders that you need to take an action such as complete a payment.
-  * Sending you communications with information about us, including about new applications and special offers or promotions. Sometimes a company or organization (including ones with which we have a business relationship) may ask us to make a business introduction to one or more users of 123dapp.com, Socialcam, Instructables, Pixlr and similar websites and applications, and we may contact you with details and to ask if you are interested. Learn more about your choices.
-  * Measuring and better understanding how our websites and applications are used, so we can improve them.
-  * Tailoring your overall experience with us, our websites, applications, as well as our marketing.
-  * Reducing software piracy, fraud, ensuring our applications and websites are used in compliance with applicable terms and the law, and protecting our customers and end users.
-  * Sending questionnaires and surveys in order to provide better applications and experiences to our customers and end users. Your completion of any questionnaire or survey is voluntary.
-  * As explained in any supplemental privacy or data collection notice for a website or application.
-  * Sharing within our family of companies and sharing information with third parties as described below.
-  * For any related purpose that you would reasonably expect, such as general administrative functions.
 
 
+### How does Autodesk protect your data?
 
-Learn more about your privacy choices and controls.
+We use a combination of reasonable physical, administrative, and technological controls to protect your data from unauthorized access or malicious actions. For more information about our security practices, please visit the [Trust Center](https://www.autodesk.com/trust/overview).
 
-Back to top
+We limit the access employees, contractors, and agents of Autodesk have to your personal data to those who need to know this data to perform their assigned functions and develop or improve our products and services.
 
- **Sharing information inside the Autodesk family of companies** We may share your personal information within Autodesk or any of [our subsidiary companies worldwide](https://web.archive.org/adsk/servlet/index?siteID=123112&id=304753) for purposes of
+### How do you access, update, download, and delete your personal data?
 
-  * data processing or storage
-  * providing you with access to our websites and applications
-  * guiding decisions about websites, applications, and communications
-  * for other purposes described in this privacy statement
+We have processes in place to maintain accurate, complete and up to date data. You have the right to access, update, delete, receive a copy of, or restrict our use of your personal data. When we process personal data based on your consent, you have the right to withdraw consent any time.
 
+To perform these actions, log-in to your account to manage your personal data and content using our applications and services. You can also delete your personal data and close your account. We may retain certain data about you for legal and internal business purposes, such as fraud prevention, in accordance with applicable laws.
 
+To request a copy of the personal data in your account, please [submit this form](https://accounts.autodesk.com/profile/download?returnurl=https://www.autodesk.com/company/legal-notices-trademarks/privacy-statement/confirmation-en). When you contact us to assist you, we will ask you to validate your identity before fulfilling your request. If you have any questions, please [contact us](mailto:privacy.questions@autodesk.com).
 
-Autodesk, Inc. is the party responsible for the management of the jointly-used personal information, and we and our subsidiaries agree to follow principles and procedures that help protect your personal information.
+### What are Autodesk’s storage and data retention practices?
 
-Back to top
+We store your personal data and content on our servers, and the servers of our service providers. Because we and our service providers maintain servers in global locations, your personal data may be transferred across national borders and stored outside of the United States.
 
- **Sharing information with third parties  
-**  
-We may share information about you with companies, contractors and agents that help us to run our business. These companies, contractors and agents provide services to us like fulfilling orders, sending emails to you on our behalf, delivering customer support, and processing payments. They will have access to some of your information, limited to what they need to have to provide services.  We require these companies, contractors and agents to agree to use reasonable safeguards to protect information about you. They are not allowed to use the information collected by us for their own purposes.
+We will retain your personal data for as long as necessary to provide you with the applications you are using, and as needed to comply with our legal obligations.
 
-We may also share information about you:
+### Does Autodesk transfer your personal data across national borders?
 
-  * When you agree to the sharing. We do not share personal information about consumers with third parties for their own direct marketing purposes unless the consumer agreed to that sharing. Under certain programs, we may offer to make an introduction between a consumer and another company. Learn more.
-  * If you are a business customer, with our channel partners and sales partners for operational purposes, such as order fulfillment and to confirm information about what applications you have access to.
-  * When the company, organization or institution through which you have access to our websites and applications has set up an agreement with us to receive user-specific information, subject to privacy laws.
-  * When we are required provide information to comply with applicable laws, subpoenas, court orders or other legal processes.
-  * When we have a good faith belief that the disclosure is necessary to prevent or respond to fraud, defend our websites or applications against attacks, or protect the rights, property and safety of Autodesk, our customers and users, or the public.
-  * If we merge with another company or if we decide to sell or reorganize some part or all of our business, assets or stock (including if we file for bankruptcy or are part of a similar proceeding). You acknowledge that such transfers may occur, and that any acquirer of the part of our business, assets or stock affected may continue to use information about you as set forth in this privacy statement.
-  * We may share or publish aggregated information and other information that does not specifically identify you, such as statistics about the number of visitors to our websites or about how customers and end users use our applications.
+Because we are a global company, we transfer your personal data across national borders to other countries, in compliance with the laws that apply to that data.
 
+When your data is transferred from one of our entities in the European Economic Area (EEA) to the United States, or another country outside of the EEA, we rely on one or more of the following legal mechanisms which provide appropriate safeguards for the transfers: the EU-U.S. Privacy Shield, Swiss-U.S. Privacy Shield, and Standard Contractual Clauses.
 
+To learn more about Autodesk’s Privacy Shield Certification, please read our [Privacy Shield Notice](https://damassets.autodesk.net/content/dam/autodesk/www/Company/docs/pdf/legal-notices-&-trademarks/privacy-shield-statement-nov-2017-updated-1.pdf).
 
-Back to top
+### What are Autodesk’s marketing and advertising practices?
 
- **Security and integrity of personal information  
-**  
-We use a combination of administrative, technical and physical security controls to help protect your personal information from unauthorized access, use, or disclosure. However, despite our efforts, no security controls are 100% effective, and we cannot completely ensure or warrant the security of your personal information.
+**Ad Partners**
 
-Back to top
+Our websites and applications may feature ads for other companies’ products and services, as well as ads for our own applications.
 
- **Information access, controls and choices**
+We work with one or more advertising networks, which are our Ad Partners, who use Cookies or other technologies to collect information in order to serve you ads and help us track results. Such information may include the websites you visit, the mobile apps you use, the preferences you may provide us as your application provider, your IP address, your device ID, and information about your browser. This information is used to display appropriate advertising in mobile apps and websites that you visit, to calculate and control the number of unique and repeat views of a given ad, deliver ads that relate to your interests and measure the effectiveness of ad campaigns. This processing is in our legitimate interest.
 
-  * Profile information
-  * Removing content you have posted
-  * Marketing choices
-  * Introduction programs
-  * Application programming interfaces
-  * Cookies and similar technologies
-  * Advertising, including mobile ads
-  * In-application usage metrics and analytics  
-     \- Customer Involvement Program (the CIP)  
-     \- Trial, preview and pre-release (beta) applications  
-     - Customer Error Reporting and similar programs  
-     - Mobile applications
-  * Contacting our ecommerce providers
-  * Customer controlled services
+Our Ad Partners deliver ads for us and may combine the information collected or obtained from us with other information they have independently collected from other websites and/or other online or mobile products and services relating to your browser's activities across their network of websites.
 
+To opt out of the use of your information by Ad Partners, use the [Digital Advertising Agencies AdChoices Tool](http://optout.aboutads.info/?c=2#!/). If you delete all cookies, use a different browser, or use a different computer, you will need to use the tool again to renew your opt out choice.
 
+You can also change your marketing preferences for our websites here.
 
- **Profile information  
-** We want to be sure the personal information we maintain is accurate, complete and up to date. You may have the right under applicable data protection laws to access the personal information that we keep for you, on request to us, except in certain limited circumstances (for example, where an applicable law requires us to deny such access).
+**Do-not-track signals**
 
-You can update, correct or delete your profile information by following the instructions below. Also, note that we need to retain certain records for legal or internal business reasons, and some of your information may remain on backup systems, in compliance with applicable law.
+Some web browsers may transmit "do-not-track" signals to websites with which the browser communicates. Autodesk currently does not take action in response to these signals.
 
-  *  **Autodesk ID**. Login and make edits to your profile and information by following the instructions. A [sign in help page](http://signinhelp.autodesk.com/adsk/servlet/index?siteID=11034745&id=11053696) is available if you have any problems.  Users from Japan with a Contact ID, please use the [Japan login page](https://registeronce.autodesk.com/eidm/selfcare/japanLogin!input.action).
-  *  **Socialcam, Instructables and Pixlr**. Login to the applicable website or application and make changes to your profile and information by following the instructions.
-  * For help with these or other websites or applications, please contact us. Please tell us the specific website or application you need help with, along with your specific request. Please note that if you contact us to assist you, for your safety and ours we may need to authenticate your identity before fulfilling your request.
+### How does Autodesk protect children and student data?
 
+At Autodesk, we care deeply about children’s privacy and protecting their data.
 
+Many of our applications, and features are made for the general public, and are designed for adult users. We do not knowingly collect personal data from children in connection with those websites, products, services, and features that are made for the general public.
 
- **Removing content you have posted  
-** To remove content you have shared on our websites and applications, please use the same website or application feature you used to share the content and follow the instructions. An option to remove content may not always be available, for example on forums.
+Other applications and features are appropriate for use by children, and our [Children’s Privacy Statement](https://web.archive.org/company/legal-notices-trademarks/privacy-statement/childrens-privacy-policy-english) applies to the personal data collected from those applications. If there is a conflict between our Children’s Privacy Statement and other sections of our Privacy Statement, this Children’s Privacy Statement sets the standard for how we treat children’s personal data.
 
-Where someone has invited you to comment on, or view or edit content through our websites or applications, you may be able to edit or delete your contributions or the user who has invited your participation may have control over these options.
+For more information, please refer to our [Children’s Privacy Statement](https://web.archive.org/company/legal-notices-trademarks/privacy-statement/childrens-privacy-policy-english).
 
- **Marketing choices**
+### Is the personal data you give us ever displayed publically?
 
-  *  **Autodesk** \- You can subscribe to or unsubscribe from Autodesk marketing communications, using our [webform](https://web.archive.org/adsk/servlet/item?siteID=123112&id=13252943), or follow the unsubscribe instructions in communications you receive.
-  *  **Instructables** – [Login](http://www.instructables.com/index) to your account at the Instructables website and change your marketing preferences, or follow the unsubscribe instructions in communications you receive.
-  * For other communications follow the unsubscribe instructions in the communications you receive, or if you need help please contact us.
+As always, we urge you to be mindful when deciding to disclose personal data, including on our applications and websites. There are various places within our applications and services that allow you to post content, including comments and “likes.”
 
+In some cases, you can limit who can view or access the information and content you post. In other cases, the information and content might be available to registered members of the application or website, or even to the general public. Your name, user name, profile image, or email address (particularly if this is your user name) may be posted along with any message or other content you post through some of our applications and websites.
 
+If you are posting information you do not want to be disclosed publicly, make sure you are using a website or application that allows you to control who sees information you have posted.
 
-Remember, we may need to contact you for business reasons and you cannot unsubscribe or opt-out from these communications.
+### Will this Privacy Statement change?
 
- **Introduction programs  
-** Sometimes companies or organizations, including ones with whom we have business relationships, will ask us to make an introduction to one or more members of 123dapp.com, Socialcam, Instructables, Pixlr and similar websites and applications. We may contact you with details and to see if you are interested in the introduction. You can say no to a specific introduction, and you can also ask not to receive requests for introductions in the future.
+If and when the way we treat your personal data changes, we will make sure to let you know by updating this Privacy Statement. When we change it, we will make it clear at the top of our Privacy Statement, and we will tell you when we last updated it. If we have your email address, we will also send you a notice by email regarding the update.
 
- **Application programming interfaces  
-** We may allow access to certain content, including personal information, posted through websites or applications through an application programming interface (API).
+### How to contact us?
 
-API access will be mentioned in the applicable terms of service. We place limitations on what third party developers can do with information. Below is information about your choices.
+If you want to contact us, please use the following contact information. When you do so, please tell us the name of the website or application about which you are contacting us:
 
- _Public information access by third-party applications_
+By email at:
 
-On some websites and applications, content you post is public and cannot be marked as non-public or private. Check the posting controls for the specific application or website you are using.
+privacy.questions@autodesk.com
 
-Where there is an option to mark content as private or otherwise choose a non-public status, and you choose the non-public option, third party developers will not be able to access the following information through a public information access API:
+By postal mail to:
 
-  * the content (including its title, and public comments you include with the content);
-  * the name (or pseudonym) associated with your account;
-  * the profile image associated with you;
-  * the profile URL (which may include user ID) for the account.
+> Privacy Questions Autodesk, Inc. The Landmark @ One Market Suite 500 San Francisco, CA 94105 U.S.A. 
 
+**Data protection officer**
 
+To contact our data protection officer, please use the following contact information: [DPO@autodesk.com](mailto:DPO@autodesk.com).
 
-If your content is “public” but you do not want developers to have access to your real name or profile image (for example, if it is a picture of your face), use a pseudonym or “handle” and use a profile image that does not consist of a picture of you.
+### Who can I contact with questions or concerns?
 
- _Authenticated access by applications_
-
-You may choose to use third party applications that manage your interactions with our websites or applications. For example, third party applications may want to do the following types of activities:
-
-  * Manage relationships: to manage user relationships on your behalf, such as follow, unfollow, block, and unblock people, and to approve people who want to follow you on our website or application;
-  * Manage content: to post and remove content on your behalf;
-  * Manage likes: to manage likes and similar actions on your behalf; and
-  * Manage comments: to manage and post comments on your behalf.
-
-
-
-We require the app developers to explain what actions they will take and also what information (including personal information) they need to access in order to take these actions, and to get your approval. In addition, we require developers to provide a link to an explanation of their privacy practices.
-
-It is your choice to approve or not approve access by these third party applications.
-
- _Limitations on access by third party applications_
-
-In both cases described above, third party application developers are not allowed to use your personal information for marketing or promotional purposes without your consent, and are otherwise restricted in their use of your information by the terms of the applicable App Developer Agreement.
-
-You can find links to the applicable App Developer Agreement through the applicable terms of service. For convenient reference, here is a non-exclusive list of the current agreements:
-
-  * [Socialcam REST API Terms](http://socialcam.com/developers/rest_api_terms)
-
-
-
- **Cookies and similar technologies  
-** Autodesk and our service providers may use “cookies,” "pixel tags," "web beacons," "clear GIFs," or other similar technologies in connection with website pages and HTML-formatted e-mail messages to, among other things, track the actions of website users and e-mail recipients, determine the success of marketing campaigns, compile aggregate statistics about website usage and response rates and make it easier for you to navigate our website or better tailor your experience with us, for example by not requiring you to submit login credentials repeatedly or by showing you content targeted to your interests. 
-
-A “cookie” is a commonly used automated data collection tool.  A cookie is a small amount of data that is sent to a browser from a web server and gets saved on the hard drive of the computer that you are using.  Cookies and similar tools collect standard information from your browser such as browser type, browser language, and the website address you came from when you visited our website. They may also collect information about your Internet Protocol (IP) address, and clickstream behavior (for example, the pages you view and the links you click), along with the date and time of your visit or request, and one or more cookies that may uniquely identify your browser or your account. 
-
-If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to automatically decline cookies, or to be given the choice of declining or accepting the transfer of a particular cookie, or cookies from a particular web site, to your computer. 
-
-If you set your browser to reject all cookies, you will be unable to use our websites and applications that require registration or customization in order to participate. If you choose to accept cookies from us and our service providers, you are granting us and our service providers your consent to set cookies on your computer. To learn more about cookies and other automatic data collection tools, please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/). 
-
-When we send you emails, they might include a web beacon or similar technology that lets us know if you received or opened the email and whether you clicked on any of the links in the email. You can opt-out of marketing emails.
-
- **Advertising, including mobile ads  
-** Some of our mobile applications and websites may contain ads. Learn more about advertisements.
-
-For more information about a specific mobile application, please see the About section (iOS devices) or the Legal/Privacy section (Android devices). 
-
-You may opt out of the use of your information by Ad Partners by using the [Network Advertising Initiative tool](http://www.networkadvertising.org/).  If you delete all cookies, use a different browser, or use a different computer, you will need to use the tool to renew your opt out choice.
-
- **In-application usage metrics and analytics**
-
-  *  **Customer Involvement Program (the CIP)** – For our commercial products that include the option to participate in the CIP, you will be prompted about participating. You can change your choice by going to the Help menu, opening the CIP dialogue box, and following the instructions. Your choice will apply to all commercial Autodesk products installed on your computer. [Learn more about the CIP](https://web.archive.org/adsk/servlet/index?siteID=123112&id=12264110).
-  *  **Trial, preview and pre-release (beta) applications** – For trial, preview or beta applications your limited or full participation in an in-application analytics program may be a condition of receiving access to those products. Please review the applicable terms of service, license agreement and any specific privacy or data collection notice attached to a given application for more details. If you do not wish to participate please do not use these products.
-  *  **Customer Error Reporting and similar programs** – You will be asked if you want to send in error reports, wither through our Customer Error Reporting program or an application specific error reporting program. In each case, a dialog box will appear in-application, and you will be told what information the tool will collect, how it will be sent to us, and any other relevant information about the tool or its use. You must choose to send us the report. [Learn more about CER]().
-  *  **Mobile applications** – We may use third party analytics services to support analytics for some of our mobile applications. For details about a specific mobile application, please read the About section (iOS devices) or the Legal/Privacy section (Android devices). You can opt-out of data collection for an application by following the in-application instructions. Unless the data collection notice in About or Legal/Privacy tells you otherwise, the control selection will be located in the application or device settings (iOS devices) or the settings menu (Android devices).
-
-
-
-For convenience, here is a non-exclusive set of links to the privacy policies and opt-out instructions to services we may use:
-
-  * Flurry
-    * Privacy Policy: <http://www.flurry.com/about-us/legal/privacy.html>
-    * End user opt-out: Please go to <http://www.flurry.com/user-opt-out.html> or see current instructions in the Flurry Privacy Policy.
-  * MixPanel
-    * Privacy Policy: <http://mixpanel.com/privacy/>
-    * End-user opt-out: Please go to <https://mixpanel.com/optout/> or see current instructions in the MixPanel Privacy Policy.
-
-
-
- **Contacting our ecommerce providers**
-
-  * For the Autodesk Online Store, contact Digital River as set forth in their [privacy policy](http://corporate.digitalriver.com/store/digriv/Corp/sectionName.company/subSectionName.corpPolicies/page.corpPolicies#privacy).
-  * For 123D and related applications, contact Turbo Squid as set forth in their [privacy policy](http://support.turbosquid.com/entries/173395-our-privacy-policy).
-
-
-
- **Customer controlled services  
-** Autodesk customers may invite you to participate in a customer-specific site of an application, such as the Autodesk PLM360, Buzzsaw, or Constructware services. The customer site administrator manages these invitations, and requests to change or update information you provided when registering should be directed to that site administrator. AUTODESK ACTS ONLY AS A SERVICE PROVIDER TO OUR CUSTOMERS IN CONNECTION TO THESE APPLICATIONS, AND IS NOT RESPONSIBLE OR LIABLE FOR THE USE AND/OR DISCLOSURE OF PERSONAL INFORMATION ABOUT YOU BY SUCH CUSTOMERS.
-
-Back to top
-
- **Changes to this privacy statement** We may update this privacy statement from time to time. Check the “last updated” section at the top of this privacy statement to see the last time the privacy statement was changed.
-
-If we decide to make changes to our privacy statement on a forward going basis, we will tell you and other users by placing a notice on [www.autodesk.com](http://www.autodesk.com/) and/or by sending you a notice to the e-mail address (if any) we have on file for you. We may also give you notice through our applications and on our other websites. You should periodically check [www.autodesk.com](http://www.autodesk.com/), our other websites and this Privacy Statement for updates. Your continued use of our applications and websites constitutes your agreement to this privacy statement.
-
-For changes to this privacy statement that may be materially less restrictive on our use or disclosure of personal information you have provided to us, we will obtain your consent before implementing the change.  Please contact us if you have questions.
-
-Back to top
+We are committed to working with you to obtain a fair resolution of any complaint or concern about privacy. If, however, you believe that we have not been able to assist with your complaint or concern, you have a right to lodge a complaint with the [data protection authority of the United States of America](https://www.ftc.gov/faq/consumer-protection/submit-consumer-complaint-ftc) and/or with a competent European supervisory authority.
