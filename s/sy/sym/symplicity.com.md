@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the symplicity.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629042245id_/https%3A//www.symplicity.com/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the symplicity.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230133547id_/https%3A//www.symplicity.com/support/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Symplicity
 
@@ -110,4 +110,4 @@ Symplicity complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Pri
 
 ### GDPR
 
-On May 25, 2018, the General Data Protection Regulation (GDPR) takes effect in the European Union (EU). The GDPR is a new EU law that expands the privacy rights of EU individuals and places new obligations on organizations that market, track, or handle EU personal data. Symplicity is committed to helping our customers comply with the GDPR through our robust privacy and security protections.  For more information, please see our GDPR information page [here](http://www.symplicity.com/gdpr).
+On May 25, 2018, the General Data Protection Regulation (GDPR) takes effect in the European Union (EU). The GDPR is a new EU law that expands the privacy rights of EU individuals and places new obligations on organizations that market, track, or handle EU personal data. Symplicity is committed to helping our customers comply with the GDPR through our robust privacy and security protections.  For more information, please see our GDPR information page [here](https://www.symplicity.com/gdpr).
