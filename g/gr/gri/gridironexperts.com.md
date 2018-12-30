@@ -1,15 +1,28 @@
-> *The following text is extracted and transformed from the gridironexperts.com privacy policy that was archived on 2018-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180311143821id_/https%3A//gridironexperts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gridironexperts.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230120411id_/https%3A//gridironexperts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Gridiron Experts
 
-This Privacy Policy governs the manner in which Gridiron Experts collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://GridironExperts.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Gridiron Experts.  
+This Privacy Policy governs the manner in which Gridiron Experts collects, uses, maintains and discloses information collected from users (each, a “User”) of the [GridironExperts.com](https://gridironexperts.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Gridiron Experts.  
 Personal identification information
 
 We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, subscribe to the newsletter, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
+**Privacy Policy Updated: 5/25/2018**
+
+  * What personal information do you collect? – We do not collect any information unless you choose to signup for our mailing list newsletter. At that time your name and email are added to our mailing list. However, you must confirm through your email that you wish to be apart of our newsletter.
+  * How and why do you collect this information? – To send out emails regarding recent posts/articles and promotions.
+  * How do you use this information? – We do not use your information.
+  * How do you keep this information safe? – Your email is apart of a list from [MailChimp](https://mailchimp.com/)
+  * How long is this information kept? – As long as you remain apart of our mailing list.
+  * Is this information shared or sold? If so, with whom? – Never.
+  * Do any third-parties collect personal information or have access to the information you have collected? – MailChimp, which is the third party company that we use to send out our newsletter is the only company that as a record of your name and email.
+  * How can your users control any of these aspects? – Yes. At any time you can unsubscribe from our newsletter which will delete your name and email permanently.
+
+
+
 **Non-personal identification information**
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+We may collect non-personal identification information about Users whenever they interact with our Site. The non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
 **Web browser cookies**
 
@@ -61,4 +74,4 @@ By using this Site, you signify your acceptance of this policy and terms of serv
 
 **Contacting us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: info@GridironExperts.com
