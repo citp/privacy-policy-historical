@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sammobile.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627160813id_/https%3A//www.sammobile.com/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sammobile.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230151750id_/https%3A//www.sammobile.com/privacy-cookies) for the most accurate reproduction.*
 
 # Privacy & Cookies Policy - SamMobile
 
-**Effective June 6, 2018**
+**Effective July 20, 2018**
 
 We at SamMobile B.V. (“SamMobile”) care deeply about how your personal data is used and shared, and we take your privacy seriously.  
 This Privacy & Cookies Policy (“Policy”) describes what data we collect, use and share. It also describes why we collect it in the first place.  
@@ -110,4 +110,4 @@ The Netherlands
 
 ## Additional information
 
-If there are any questions or complaints regarding this Privacy & Cookies Policy you may contact us directly at privacy@sammobile.com or through one of our preferred [contact](https://web.archive.org/contact/) methods. **Please, only use this for questions or complaints and not to request data removal or data takeout, as these are specifically made self-service for easier and faster processing. Emailing instead will delay the process of handling your data removal or data takeout request and will make the process a lot harder and slower for those involved.**
+If there are any questions or complaints regarding this Privacy & Cookies Policy you may contact us directly at privacy-questions-only@sammobile.com or through one of our preferred [contact](https://web.archive.org/contact/) methods. **Please, only use this for questions or complaints and not to request data removal or data takeout, as these are specifically made self-service for easier and faster processing. Emailing instead will delay the process of handling your data removal or data takeout request and will make the process a lot harder and slower for those involved.**
