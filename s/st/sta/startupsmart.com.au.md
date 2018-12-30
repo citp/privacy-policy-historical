@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startupsmart.com.au privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624175047id_/https%3A//www.smartcompany.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startupsmart.com.au privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230171442id_/https%3A//www.smartcompany.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - SmartCompany
 
@@ -282,4 +282,4 @@ We will endeavour to respond to your complaint within 30 days of receipt. If unr
 
 If you would like a copy of this Privacy Policy sent to you then please request it by contacting us and we will provide you a copy of this Privacy Policy free of charge.
 
-**This policy was last updated 4 February 2016.  **
+**This policy was last updated 25 May 2018.  **
