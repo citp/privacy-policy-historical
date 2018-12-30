@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the thedroidguy.com privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103085232id_/http%3A//thedroidguy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedroidguy.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230095956id_/https%3A//thedroidguy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
 **What personal information do we collect from the people that visit our blog, website or app?**  
-We do not collect information from visitors of our site.
+We do not collect information from visitors of our site.  Third party advertising companies TheDroidGuy.com works with, such as Ziff Davis, Google Adsense, RevContent, Amazon, may track users on our site.
 
 **When do we collect information?**  
-We collect information from you when you or enter information on our site or when you opt-in to sign up for our newsletter.
+We collect information from you when you enter information on our site or when you opt-in to sign up for our newsletter.
 
 **How do we use your information?**  
 We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features.
@@ -45,7 +45,7 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 **California Online Privacy Protection Act**
 
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: https://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
 
 **According to CalOPPA we agree to the following:**  
 Users can visit our site anonymously.
@@ -97,10 +97,9 @@ and we will promptly remove you from ALL correspondence.
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 TheDroidGuy.com  
-2522 Chambers Road  
-Suite 100  
-Tustin, CA 92780  
+1037 NE 65th St #80816  
+Seattle, WA 98115  
 United States  
 social@thedroidguy.com
 
-**_Last Edited on 2016-05-14_**
+**_Last Edited on 2018-05-08_**
