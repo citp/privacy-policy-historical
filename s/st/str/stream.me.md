@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stream.me privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624111511id_/https%3A//www.stream.me/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stream.me privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230105630id_/https%3A//www.stream.me/pages/privacy) for the most accurate reproduction.*
 
 # Stream.me
 
@@ -28,11 +28,11 @@ We store PayPal email addresses, if submitted, to allow users to receive donatio
 
 We store physical addresses, if submitted, to mail checks or physical prizes. This data is stored until the user chooses to delete it.
 
-We store payment tokens provided to us by payment providers, RocketGate, Xsolla, BrainTree and PayPal in order to enable recurring subscriptions, when opted into this feature.
+We store payment tokens provided to us by payment providers, RocketGate, Xsolla, BrainTree and PayPal in order to enable recurring subscriptions, when opted into this feature. 
 
-VODs (also known as archives) of streams, if enabled by the user, are kept on the site, publically available, for 45 days. They are then stored in a folder for deletion for 45 additional days, in case recovery is needed. Users can initiate deletion of publically available VODs at any time earlier than the 45 days or disable VODs at any time. User-deleted VODs are kept in a folder for deletion for the remainder of the original 45 days plus 45 additional days, in case recovery is necessary. Users can also extend the 45-day deadline via payment.
+VODs (also known as archives) of streams, if enabled by the user, are kept on the site, publically available, for 45 days. They are then stored in a folder for deletion for 45 additional days, in case recovery is needed. Users can initiate deletion of publically available VODs at any time earlier than the 45 days or disable VODs at any time. User-deleted VODs are kept in a folder for deletion for the remainder of the original 45 days plus 45 additional days, in case recovery is necessary. Users can also extend the 45-day deadline via payment. 
 
-Other than in certain unique situations discussed below, we do not share individualized personal information with third parties which we collect about our users, such as a user’s name or a user’s email address. We may share with third parties certain aggregated personal information about groups of users, such as average or range of ages of users, zip codes of users, etc.
+Other than in certain unique situations discussed below, we do not share individualized personal information with third parties which we collect about our users, such as a user’s name or a user’s email address. We may share with third parties certain aggregated personal information about groups of users, such as average or range of ages of users, zip codes of users, etc. 
 
 In certain unique situations, we reserve the right to share your individualized personal information when we believe disclosure is appropriate, such as in the following situations: *In response to a subpoena or similar investigative demand, a court order, a request for cooperation from a law enforcement or other government agency, or as otherwise required by law; *In connection with efforts to investigate, prevent, report or take other action regarding illegal activity, suspected fraud or other wrongdoing; *To protect, exercise, establish or defend the rights, property or safety of our users, our company, our employees, or others; *To enforce our website Terms and Conditions or other agreements or policies; or *In connection with a substantial corporate transaction or event, such as the sale of our business or assets, a merger, a consolidation, or a dissolution.
 
