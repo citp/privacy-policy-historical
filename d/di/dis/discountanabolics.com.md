@@ -1,67 +1,46 @@
-> *The following text is extracted and transformed from the discountanabolics.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228000609id_/http%3A//www.namejet.com/Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountanabolics.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230190622id_/https%3A//www.binance.com/statement.html) for the most accurate reproduction.*
 
-# Privacy Policy - NameJet Domain Name Services
+# 
 
-NameJet knows that you care about how personal information about you is used and shared and we appreciate your trust that we will do so carefully and sensibly. This notice describes our Privacy Policy. By visiting NameJet , you are accepting the practices described in this Privacy Policy. For questions regarding this Privacy Policy please contact NameJet using our [contact form](https://web.archive.org/Pages/Contact.aspx).
+This Privacy Policy explains how Binance Holdings Limited (“Binance”) collects, uses, shares, and protects user information obtained through the Binance.com website. The terms “we,” “us,” and “our” refer to Binance Holdings Limited and its affiliates. When we ask for certain personal information from users it is because we are required by law to collect this information or it is relevant for specified purposes. Any non-required information you provide to us is done so voluntarily. You decided whether to provide us with these non-required information; you may not be able to access or utilize all of our Services if you choose not to. 
 
-###  What Personal Information About Users Does NameJet Gather?
+By using the Site, you consent to the data practices described in this Privacy Policy. On occasion, Binance may revise this Privacy Policy to reflect changes in law or our personal data collection and use practices. If material changes are made to this Privacy Policy, the changes will be announced by posting on the site. We will ask for your consent before using your information for any purpose that is not covered in this Privacy Policy. 
 
-Information You Give Us:
-     We collect and store personal information you enter on our Web site or give us in any other way. We use the information that you provide us for such purposes as enhancing the experience of users in our network, responding to your requests, providing our services (e.g., domain Backorder requests, auctions, and purchases), and communicating with you about offers that may be of interest to you.
-Automatic Information:
-     Our Web site has features that collect information from users to assist us in creating Web sites that honor our users' preferences and serve their interests and needs.
+The latest privacy policy has incorporated elements from the General Data Protection Regulation (GDPR) as we act in accordance to its personal information processing rules within the European Economic Area (EEA). 
 
-Our Web site places cookies, which are small data files on the user's hard drive when you visit our Web site. A cookie cannot read data off your hard drive. You may refuse cookies by turning them off in your browser; however, if you reject the placement of cookies, you may be limited in using some areas of our Web site. Some cookies are used to improve your user experience by making login to our Web site easier, such as by remembering usernames and passwords. Cookies can also enable us to monitor users' movements through our Web site so that we may target user interests to enhance their experience at our Web site. We may also collect click stream data such as the full Uniform Resource Locators (URL) and assign unique identifiers to our users for the purpose of tracking user behaviors. Information obtained with these technologies may be associated with the personal information you have provided us. Besides using the information as described above, NameJet may utilize cookies to control operations such as the flow of the ordering processes related to your online transactions.
+Information you provide to us at registration 
 
-We, or our third-party advertising partners, may also place cookies to provide advertisements about goods or services that may be of interest to you. Since our advertisers and other third parties whose products or services are promoted on our Web site may also use cookies or other technology, we advise you to check the advertisers' privacy policies for information about their privacy practices.
+When you create a Binance Account, you provide us with personal information that includes your contact information (Email Address, name, and a password). You can also choose to add a phone number for SMS or Google Authenticator account to be used for 2FA verification for improved security. 
 
-We may also gather general information such as the date, time, browser type, operating system, platform, navigation history, and IP address of all users to our site(s). We use this information for our internal security audit log, trend analysis, and system administration, and to gather broad demographic information about our users. We may also associate this general information with your personal information. By visiting our site, you affirmatively consent to our collection, use, and distribution of your general and personal information and other related data to our partners and advertisers. If you do not want us to share information about you with our partners or advertisers, you may opt-out of receiving information by doing the following:
+Information we collect when authenticating user identity 
 
-  1. Login to "My Account".
-  2. Click on "Edit my Account Settings".
-  3. Select the "My Preferences" tab.
-  4. Choose your email settings under "Email Preferences"
-  5. Select the option not to receive advertisements.
+To comply with global industry regulatory standards including Anti-Money Laundering (AML), Know-Your-Customer (KYC), and Counter Terrorist Financing (CTF), Binance requires user accounts to undergo user identity authentication for both Personal & Enterprise-level accounts. This entails collecting formal identification. 
+
+Information we collect as you use our services
+
+Through your use of the Binance platform, we also monitor and collect tracking information related to usage such as access date & time, device identification, operating system, browser type and IP address. This information may be directly obtained by Binance or through third party services. This service usage data helps us our systems to ensure that our interface is accessible for users across all platforms and can aid during criminal investigations. 
+
+For all personal and enterprise user accounts, we collect transaction information including deposit snapshots, account balances, trade history, withdrawals, order activity and distribution history. This transaction data is monitored for suspicious trading activity for user fraud protection, and legal case resolution. 
+
+We use the information collected to deliver our services and verify user identity.  
+We use the IP address and unique identifiers stored in your device’s cookies to help us authenticate your identity and provide our service. Given our legal obligations and system requirements, we cannot provide you with services without data like identification, contact information and transaction-related information. 
+
+We use the information collected to protect our platform, users’ accounts and archives.  
+We use IP addresses and cookie data to protect against automated abuse such as spam, phishing and Distributed Denial of Service (DDoS) attacks.  
+We analyse trading activity with the goal of detecting suspicious behavior early to prevent potential fraud and loss of funds to bad actors.  
 
 
+Respect for the privacy and security of data you store with Binance informs our approach to complying with regulations, governmental requests and user-generated inquiries. We will not disclose or provide any personal information to third party sources without review from our legal case team and/or prior consent from the user. 
 
-###  Does NameJet Share the Information It Receives?
+We actively measure and analyse data to understand how our services are used. This review activity is conducted by our operations team to continually improve our platform’s performance and to resolve issues with the user experience.   
+We continuously monitor our systems’ activity information and communications with users to look for and quickly fix problems. 
 
-Yes, we do share information with at least the entities listed below:
+We use personal information collected, like an email address to interact with users directly when providing customer support on a ticket or to keep you informed on log ins, transations, and security. Without processing your personal information for confirming each communication, we will not be able to respond to your submitted requests, questions and inquiries. All direct communications are kept confidential and reviewed internally for accuracy. 
 
-WHOIS:
-     We are required by the Internet Corporation for Assigned Names and Numbers ("ICANN"), the organization that assumes responsibility for domain name allocation, to collect information about you during the domain name registration process. This information includes your full name, mailing address, phone number, email address, and, where provided, your facsimile number. ICANN then requires all registrars to make your full name, mailing address, phone number, email address, and, where provided, your facsimile number, as well as the creation and expiration dates of your domain name registration and the name server information associated with your domain name, to the public via an interactive Web page and a "port 43" WHOIS service. For the purposes of this Privacy Policy we will refer to this information as your "WHOIS Information." Please note that we may not be able to control how members of the public may use the WHOIS Information.
-Advertisers:
-     We will share aggregated demographic information with our partners and advertisers.
-Partners:
-     We partner with other third party providers of specific services. When the user signs up for these services, we will share names, e-mail addresses, or other contact information that is necessary for the third party to provide these services.
-Agents:
-     We engage other companies and individuals to perform functions on our behalf. Examples include processing credit card payments, providing marketing assistance, providing customer services, sending postal mail and email to you, removing repetitive information from customer lists, and analyzing data. These persons have access to user information needed to perform their functions for the benefit of the user. These companies may, or may not, retain, share, store or use personally identifiable information that you provide to NameJet for any secondary purposes.
-Service Providers:
-     We engage other companies and individuals to perform enhanced services on our behalf. For example, we my engage another service provider to provide free electronic mail services to our domain name registrants. Many of our service providers have access to personal information needed to perform these kinds of services.
-Business Transfer:
-     As we continue to develop our business, we might sell or buy businesses or their assets. In such transactions, customer information generally is one of the transferred business assets. Also, if NameJet , or substantially all of its assets, were ever to be acquired, customer information will of course be one of the transferred assets.
-Compliance:
-     We release account and other personal information when we believe release is required to comply with federal or state law; enforce or apply our Terms of Use and other agreements; or protect the rights, property, or safety of NameJet , our users, or others. This includes at least exchanging information with other companies, organizations and members of law enforcement to protect against fraud or other criminal activity.
+It is very important for us and our customers that we continually review, investigate and prevent any potentially prohibited or illegal activities that violate our Terms of Service. For the benefit of our entire user base, we carefully enforce our agreements with third parties and actively investigate violations of our posted Terms of Use. Binance reserves the right to terminate the provision of service to any user found engaging in activities that violate our Terms of Use. 
 
-###  How Secure Is Information About Me?
+Binance has implemented a number of security measures to ensure that your information is not lost, abused, or altered. Our data security measures include, but are not limited to: PCI Scanning, Secured Sockets Layered encryption technology, pseudonymisation, internal data access restrictions, and strict physical access controls to buildings & files. Please note that it is impossible to guarantee 100% secure transmission of data over the Internet nor method of electronic storage. As such, we request that you understand the responsibility to independently take safety precautions to protect your own personal information. 
 
-The information we receive from or about you is stored on systems designed to prevent the loss, disclosure, or destruction of that information. We protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input and the information we may send to our agents. NameJet has gone to great lengths to ensure your information is securely obtained. For example, we encrypt your credit card number before it is stored in our database. It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.
+If you suspect that your personal information has been compromised, especially account and/or password information, please lock your account and contact Binance customer service immediately. 
 
-###  What Information Can I Access?
-
-NameJet gives you access to certain information about you for the limited purpose of viewing and, in certain cases, updating that information. To view or change this information, log-in to your account. When you update information, we usually keep a copy of the prior version for our records.
-
-###  Links
-
-Sites provided by NameJet contain links to other Web sites. Please be aware that we are not responsible for the privacy practices of such other Web sites. We encourage our users to be aware when they leave our Web site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
-
-###  Children
-
-NameJet does not sell services for purchase by children under the age of 18. If you are under 18, you may use our services only with involvement of a parent or guardian.
-
-###  Conditions of Use, Notices, and Revisions
-
-If you choose to visit NameJet 's Web site, your visit and any dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of the law of the Commonwealth of Virginia. If you have any concern about privacy at NameJet , please send us your concern using our [contact form](https://web.archive.org/Pages/Contact.aspx), and we will address it. Our business changes constantly. This Privacy Policy and the Terms of Use will change also, and use of information that we gather now is subject to the Privacy Policy in effect at the time of use. We may e-mail periodic reminders of our policy and conditions but you should check this Privacy Policy posted on our Web site frequently to see recent changes.
-
-If you feel that NameJet , or any of its agents, representatives, or employees are violating this Privacy Policy, please contact us via e-mail using the [contact form](https://web.archive.org/Pages/Contact.aspx) or by telephone at 1-425-974-4687.
+We are committed to respecting the freedoms and rights of all our Binance users who have placed their trust in our service. If you should have any questions or concerns regarding this Privacy Policy, or if you would like to file a Data Protection request, please refer to our FAQ and contact us on our Support Page. 
