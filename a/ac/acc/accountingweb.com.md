@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accountingweb.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624153325id_/https%3A//www.accountingweb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accountingweb.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230150156id_/https%3A//www.accountingweb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AccountingWEB
 
@@ -138,7 +138,7 @@ Personally identifiable information collected on the Service may be transferred 
 
 **What choices do I have regarding the collection, disclosure and distribution of personally identifiable information?**
 
-Except as otherwise described in this Privacy Policy, we will only use personally identifiable information for the purposes described above or as otherwise disclosed at the time we request such information from you. You must "opt in" and give us permission to use your personally identifiable information for any other purpose. You may also change your preference and "opt out" of receiving certain marketing communications from us by contacting  **[[email  protected]](https://web.archive.org/cdn-cgi/l/email-protection#c6aea3aab686a7a5a5a9b3a8b2afa8a1b1a3a4e8a5a9ab)**.
+Except as otherwise described in this Privacy Policy, we will only use personally identifiable information for the purposes described above or as otherwise disclosed at the time we request such information from you. You must "opt in" and give us permission to use your personally identifiable information for any other purpose. You may also change your preference and "opt out" of receiving certain marketing communications from us by contacting  **[help@accountingweb.com](mailto:help@accountingweb.com)**.
 
 _**Do not track**_
 
@@ -146,7 +146,7 @@ The term “Do Not Track” refers to a HTTP header offered by certain web brows
 
 **Can I update or correct my personally identifiable information?**
 
-You have the right to request the restriction of certain uses and disclosures of personally identifiable information as follows. You can contact us in order to (1) update or correct your personally identifiable information, (2) change your preferences with respect to communications and other information you receive from us, or (3) delete the personally identifiable information maintained about you on our systems (subject to the following paragraph), by contacting  **[[email  protected]](https://web.archive.org/cdn-cgi/l/email-protection#2d4548415d6d4c4e4e4258435944434a5a484f034e4240)**.Such updates, corrections, changes and deletions will have no effect on other information that we maintain, or information that we have provided to third parties in accordance with this Privacy Policy prior to such update, correction, change or deletion. To protect your privacy and security, we may take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your unique password and account information at all times.
+You have the right to request the restriction of certain uses and disclosures of personally identifiable information as follows. You can contact us in order to (1) update or correct your personally identifiable information, (2) change your preferences with respect to communications and other information you receive from us, or (3) delete the personally identifiable information maintained about you on our systems (subject to the following paragraph), by contacting  **[help@accountingweb.com](mailto:help@accountingweb.com)**.Such updates, corrections, changes and deletions will have no effect on other information that we maintain, or information that we have provided to third parties in accordance with this Privacy Policy prior to such update, correction, change or deletion. To protect your privacy and security, we may take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your unique password and account information at all times.
 
 You should be aware that it is not technologically possible to remove each and every record of the information you have provided to us from our system. The need to back up our systems to protect information from inadvertent loss means that a copy of your personally identifiable information may exist in a non-erasable form that will be difficult or impossible for us to locate. We promise that promptly after receiving your request, all personally identifiable information stored in databases we actively use and other readily searchable media will be updated, corrected, changed or deleted, as appropriate, as soon as and to the extent reasonably practicable.
 
@@ -160,7 +160,7 @@ If you have any questions or comments about this Privacy Policy or feel that we 
 
 By email:
 
-**[[email  protected]](https://web.archive.org/cdn-cgi/l/email-protection#224a474e52624341414d574c564b4c455547400c414d4f)**
+**[help@accountingweb.com](mailto:help@accountingweb.com)**
 
 By postal mail or courier:
 
