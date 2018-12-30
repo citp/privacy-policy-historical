@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spreaker.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616225631id_/https%3A//www.spreaker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spreaker.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230193500id_/https%3A//www.spreaker.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -7,9 +7,8 @@ Spreaker collects some Personal Data from its Users.
 ## Owner and Data Controller
 
 Voxnest, Inc  
-25 Broadway, 9th floor   
-New York 10004   
-25 Broadway, 9th floor 
+195 Montague Street, 11th Floor  
+Brooklyn, NY, 11201 
 
 **Owner contact email:** [info@voxnest.com](mailto:info@voxnest.com)
 
