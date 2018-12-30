@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eddiebauer.ca privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609083312id_/http%3A//www.eddiebauer.ca/company-info/company-info-privacy-and-security.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eddiebauer.ca privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230072538id_/http%3A//www.eddiebauer.ca/company-info/company-info-privacy-and-security.jsp) for the most accurate reproduction.*
 
 # Privacy And Security | Company Information | Eddie Bauer
 
@@ -44,7 +44,7 @@ We may provide your personally-identifiable information, including your name, ad
 
 We may transfer your personal information to entities outside Eddie Bauer, such as our vendors, suppliers and agents who assist us in serving you and may use cookies on our behalf. Our service providers may be located outside of Canada and may be required to disclose your personal information under the laws of their jurisdiction. You may contact us for information about our policies and practices regarding service providers to whom we have transferred your personal information and their locations (see Contact Information, below).
 
-We may also partner with other service providers that use anonymized information about your visits to our website, your interaction with our products and services, and your visits to other websites to serve Eddie Bauer and third party ads targeted to your interests on other websites. This information is collected through the use of cookies, web beacons, and similar technologies. To learn more about these practices or to opt out of having this information used by our third-party advertising partners to serve ads targeted to your interests, please visit the Digital Advertising Alliance of Canada by[clicking here](http://www.aboutads.info/). To opt out of the online advertisements provided directly by Eddie Bauer,click here. If you delete your cookies, use a different browser, or buy a new computer, you will need to renew your opt-out choice.
+We may also partner with other service providers that use anonymized information about your visits to our website, your interaction with our products and services, and your visits to other websites to serve Eddie Bauer and third party ads targeted to your interests on other websites. This information is collected through the use of cookies, web beacons, and similar technologies. To learn more about these practices or to opt out of having this information used by our third-party advertising partners to serve ads targeted to your interests, please visit the Digital Advertising Alliance of Canada by[clicking here](https://www.aboutads.info/). To opt out of the online advertisements provided directly by Eddie Bauer,click here. If you delete your cookies, use a different browser, or buy a new computer, you will need to renew your opt-out choice.
 
 ###  Other Uses and Opt Out
 
@@ -93,7 +93,7 @@ We evaluate each request and will reply in an appropriate manner and in a form o
 
 #### How do I know my information is secure?
 
-We have appropriate security measures in place to protect against the loss or theft, or unauthorized access, disclosure, copying, use, or modification of information that we have collected from you so you can feel comfortable and secure when shopping. We use industry-standard encryption technologies when transferring and receiving your personal information. On the Internet, when you see either a solid key icon or a locked padlock icon at the lower portion of your browser window, this indicates that the site is secured through Secure Sockets Layer (SSL). Pages requesting personal information should always have one of these icons. If you do not see one of these icons, please contact us to complete your transaction over the phone by calling 1-888-495-5170. When you apply on-line for an Eddie Bauer Charge Card, we will direct you to the Comenity Bank website. See the[Comenity.net](http://www.comenity.net/) website for information on its privacy statement.
+We have appropriate security measures in place to protect against the loss or theft, or unauthorized access, disclosure, copying, use, or modification of information that we have collected from you so you can feel comfortable and secure when shopping. We use industry-standard encryption technologies when transferring and receiving your personal information. On the Internet, when you see either a solid key icon or a locked padlock icon at the lower portion of your browser window, this indicates that the site is secured through Secure Sockets Layer (SSL). Pages requesting personal information should always have one of these icons. If you do not see one of these icons, please contact us to complete your transaction over the phone by calling 1-888-495-5170. When you apply on-line for an Eddie Bauer Charge Card, we will direct you to the Comenity Bank website. See the[Comenity.net](https://www.comenity.net/) website for information on its privacy statement.
 
 ### How to Report Fraud
 
@@ -124,7 +124,7 @@ We encourage all of our customers to protect themselves and their information:
 If you have already provided information in response to a suspicious email that appeared to have been sent by Eddie Bauer, you may report the suspicious email by forwarding it to[abuse@eddiebauer.com.](mailto:abuse@eddiebauer.com).  
 
 
-For more information on how to protect yourself and your personal information, you can visit the Canadian Anti-Fraud Centre at[http://www.antifraudcentre-centreantifraude.ca/index-eng.htm](http://www.antiphishing.org/resources/overview/).  
+For more information on how to protect yourself and your personal information, you can visit the Canadian Anti-Fraud Centre at[http://www.antifraudcentre-centreantifraude.ca/index-eng.htm](https://www.antiphishing.org/resources/overview/).  
 
 
 Thank you for helping us monitor and prevent fraud.
