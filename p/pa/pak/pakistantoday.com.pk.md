@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pakistantoday.com.pk privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624213343id_/https%3A//www.pakistantoday.com.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pakistantoday.com.pk privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230205321id_/https%3A//www.pakistantoday.com.pk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pakistan Today
 
@@ -62,7 +62,7 @@ Pakistan Today
 
 Lahore, Pakistan
 
-email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)day.com.pk
+email: info@pakistantoday.com.pk
 
 ### For users under 18
 
@@ -70,7 +70,7 @@ If you are aged 18 or under, please get your parent/guardian’s permission befo
 
 ### How to Contact Us
 
-If you have any questions or concerns about this privacy policy you may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you have any questions or concerns about this privacy policy you may contact us at info@pakistantoday.com.pk
 
 ### Updates & Effective Date
 
