@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freebeacon.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624234508id_/http%3A//freebeacon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freebeacon.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230172842id_/https%3A//freebeacon.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Washington Free Beacon
 
@@ -35,7 +35,7 @@ We generally use the information we collect online to:
 
   * Fulfill your requests for products, services, and information;
   * Analyze the use of the Services and user data to understand and improve the Services;
-  * Prevent potentially prohibited or illegal activities and otherwise in accordance with our [Terms of Use](http://freebeacon.com/terms-of-use/); and
+  * Prevent potentially prohibited or illegal activities and otherwise in accordance with our [Terms of Use](https://freebeacon.com/terms-of-use/); and
   * For any other purposes disclosed to you at the time we collect your information or pursuant to your consent.
 
 
