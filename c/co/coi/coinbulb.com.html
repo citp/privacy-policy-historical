@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the coinbulb.com privacy policy that was archived on 2018-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180624170915id_/https%3A//coinbulb.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the coinbulb.com privacy policy that was archived on 2018-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181230163432id_/https%3A//coinbulb.com/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 
@@ -112,7 +112,120 @@ div.section-tout{padding:0px;}
 }
 
 
+.jzy-dropdown-menu>li>a {
+    font-size: 14px;
+    position: relative;
+    height: 31px;
+}
+.jzy-dropdown-menu>li>a>span{
+    position: absolute;
+    right: 16px;
+    top: 7px;
+    display:none;
+}
+.jzy-dropdown-toggle{
+  line-height: 27px;
 
+}
+.caret{
+    margin-left: 20px!important;
+}
+@media (max-width: 768px){
+  .jzy-dropdown-menu{
+    height: 45px!important;
+    background-color:transparent!important;
+    position: fixed!important;
+    top: 0px!important;
+    left: 155px!important;
+    left:calc(100% - 157px)!important;
+    left:-webkit-calc(100% - 157px)!important;
+    left:-moz-calc(100% - 157px)!important;
+  }
+  .jzy-dropdown-toggle{
+    line-height: 22px!important;
+  }
+  .phone-change-menu{
+    top: 49px!important;
+  }
+  .jzy-dropdown-menu>li>a>span{
+    right: 1px;
+  }
+  .phone-change-menu{
+    margin-left: -7px;
+  }
+  .navbar-right{
+    margin-left: -15px!important;
+  }
+
+}
+  @media  (min-width: 768px) and (max-width: 996px){
+    #dropdownMenu1{
+          font-size: 14px!important;
+          margin-top: -2px!important;
+        }
+  }
+
+
+ @keyframes shine{
+       /*     0%{
+               opacity:1;
+              visibility: visible;
+            }
+            33%{
+              opacity: 0;
+              visibility: hidden;
+            }
+            55%{
+              opacity: 0;
+              visibility: hidden;
+            }
+            99%{
+               opacity:1;
+              visibility: visible;
+            }*/
+            0%{
+              color:#d43224;
+            }
+            33%{
+              color:white;
+            }
+            100%{
+              color:#d43224;
+            }
+  }
+  .shine{
+    animation:shine 1600ms linear infinite;
+  }
+  .dropdown-menu{
+  	    background-color:#d43224;
+  	    min-width:150px;
+  	    padding: 5px 0px 1px 0px;
+  }
+  .hvr-underline-reveal:before{
+  	    background: white;
+  }
+  .dropdown-menu>li>a:hover, .dropdown-menu>li>a:focus{
+  	background-color:#d43224;
+  }
+  .dropdown-menu>li>a{
+  	    font-size: 14px;
+  }
+  .dropdown-menu>li>a{
+  	padding: 13px 15px;
+  }
+   @media(max-width: 991px) and (min-width: 768px){
+    body{
+      margin-top:  61px;
+    }
+  }
+  @media (max-width: 767px){
+      .navbar-nav .open .dropdown-menu>li>a, .navbar-nav .open .dropdown-menu .dropdown-header{
+        padding: 10px 15px 10px 25px;
+      }
+      .dropdown-menu>li>a{
+        font-size: 16px;
+      }
+  }
 </style>
 
 
@@ -131,7 +244,7 @@ div.section-tout{padding:0px;}
 
 <a href="https://coinbulb.com" class="navbar-brand"><img src="assets/images/logo-light.png" alt=""></a>
 
-<button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".navbar-collapse">
+<button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-collapse">
 
 <span class="icon-bar"></span>
 
@@ -146,12 +259,22 @@ div.section-tout{padding:0px;}
 <div class="navbar-collapse collapse" id="navbar-collapse">
 
 <ul class="nav navbar-nav">
+<!--  <li><a href="https://coinbulb.com/contest" class="hvr-underline-from-center shine" ><i class="glyphicon glyphicon-fire
+"></i> &nbsp; Contest</a></li> -->
 
 <li><a href="https://coinbulb.com/advertise" class="hvr-underline-from-center"><i class="fa fa-eye"></i> &nbsp; Advertise</a></li>
 
-<li><a href="https://coinbulb.com/ads" class="hvr-underline-from-center"><i class="fa fa-list"></i> &nbsp; View Ads</a></li>
-
-<li><a href="https://coinbulb.com/campaigns" class="hvr-underline-from-center"><i class="fa fa-th-list"></i> &nbsp; Campaigns</a></li>
+<li class="dropdown">
+	<a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+		<i class="fa fa-list"></i> &nbsp; View Ads<span class="caret"></span></a>
+	<ul class="dropdown-menu" role="menu">
+  <li><a href="view_ads?type=surf" class="hvr-underline-reveal"><img src="/assets/images/new2.png" style="margin-right: 8px;height: 100%;
+    margin-top: -8px;" alt="">Surf Ads</a></li>
+    <li><a href="view_ads?type=active" class="hvr-underline-reveal">Active Window Ads</a></li>
+		
+		
+	</ul>
+</li>
 <li style="position:relative;"><span class="spanNum"></span><a id="clicknews" href="https://coinbulb.com/news" class="hvr-underline-from-center"><i class="glyphicon glyphicon-list-alt"></i> &nbsp;News</a></li>
 
 
@@ -180,8 +303,8 @@ div.section-tout{padding:0px;}
                if(data == 0){
                	  $("#clicknews").unbind("click");
                }else{
-                  /*$('.spanNum').css('display','block');*/
-                  /*$('.spanNum').html(data);*/
+                  $('.spanNum').css('display','block');
+                  $('.spanNum').html(data);
                	  $("#clicknews").bind("click",function(){
                	  	  $.ajax({
 		              async:true,
@@ -310,7 +433,7 @@ a particular location as determined by IP address. At the same time, we encourag
 <footer class="footer">
 <div class="container" align="center">
 <div class="row" style="color:white;font-size:15px;">
-2018-06-24 12:14:33</div>
+2018-12-30 11:41:42</div>
 <a href="faq">FAQ </a>|<a href="privacypolicy">Privacy Policy </a>|<a href="terms">Terms of Service </a>|<a href="payment">Payment Proof</a>|<a href="#" id="disclaimer">Disclaimer</a><a href="https://twitter.com/coinbulb" target="_blank"><img src="assets/images/ct.png" litter="twitter" width="65px" height="20px"></a>
 <br>
 <img src="assets/images/stamp.png" alt="contact us" width="16" height="12">&nbsp;<span id="contactus" style="text-align: center; color: white;cursor:pointer;font-weight:bold;font-size:17px;text-decoration:underline;">contact us</span>&nbsp;&nbsp;&nbsp;
@@ -371,17 +494,48 @@ Copyrighted © <b>CoinBulb</b> 2016 - 2018. All rights reserved.<br>
 })
 </script>
 <div id="openModal" class="modalDialog">
-  <div>
-      <img src="assets/images/dbx1.png">
+  <div style="max-width: 98%">
+      <img src="assets/images/dbx1.png" style="max-width: 100%;">
       <div class="close">X</div>
         <h2>Contact us</h2>
         <div class="tt">
           <p class="one">Please read through our FAQ before sending us an email - we will not <br>reply to emails asking questions that have already been answered there.</p>
-            <p class="two">If your enquiry meets the conditions above then please email us at <span><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="f1828481819e8385b1929e989f93849d93df929e9c">[email&nbsp;protected]</a></span>.We will endeavour to reply to emails within <br>48 hours.</p>
+            <p class="two">If your enquiry meets the conditions above then please email us at <span><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="c2b1b7b2b2adb0b682a1adabaca0b7aea0eca1adaf">[email&nbsp;protected]</a></span>.We will endeavour to reply to emails within <br>48 hours.</p>
+        </div>
+         <div class="show" style="display: none;">
+          <span><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="fa898f8a8a95888eba99959394988f9698d4999597">[email&nbsp;protected]</a></span>
         </div>
     </div> 
 </div>
 <style>
+.modalDialog .close{
+      top: 6px;
+          right: 10px;
+}
+ .modalDialog h2 {
+    left: 50%!important;
+    transform: translateX(-50%);
+    text-align: center;
+    width: 100%;
+  }
+  @media (max-width: 1010px){
+    .modalDialog h2{
+      font-size: 30px;
+    }
+    .tt{
+      display: none;
+    }
+    .show{
+      display: block!important;
+    position: absolute;
+    top: 30%;
+    font-size: 22px;
+    text-align: center;
+    width: 100%;
+    transform: translateY(-40%);
+    }
+  }
+
   .modalDisclaimer{
     display:none;
     font-family: Arial, Helvetica, sans-serif;
@@ -431,6 +585,17 @@ Copyrighted © <b>CoinBulb</b> 2016 - 2018. All rights reserved.<br>
   color: white;
   background:#226ace;
 }
+footer a{
+  padding: 0px 15px!important;
+}
+.disclaimer{
+  max-width: 98%;
+  overflow: auto;
+  height: auto;
+}
+.modalDisclaimer p{
+  padding-left: 35px!important;
+}
 </style>
 <div class="modalDisclaimer">
       <div class="disclaimer">
@@ -440,7 +605,7 @@ Copyrighted © <b>CoinBulb</b> 2016 - 2018. All rights reserved.<br>
           <p>Do conduct your own due deligience and consult your financial advisory before making decisions.</p>
       </div>
 </div>
-<script data-cfasync="false" src="/cdn-cgi/scripts/f2bf09f8/cloudflare-static/email-decode.min.js"></script>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
 
 
 
