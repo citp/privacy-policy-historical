@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coinbulb.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624170915id_/https%3A//coinbulb.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coinbulb.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230163432id_/https%3A//coinbulb.com/privacypolicy) for the most accurate reproduction.*
 
 # CoinBulb | Earn Bitcoin - Bitcoin Advertising - Bitcoin PTC
 
