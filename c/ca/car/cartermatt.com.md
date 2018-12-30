@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartermatt.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624131424id_/https%3A//cartermatt.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartermatt.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230125050id_/https%3A//cartermatt.com/terms) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Use - CarterMatt
 
@@ -82,7 +82,7 @@ Email: info@dataprotection.ie
 Phone: +353 57 868 4800
 
 We reserve the right to make change to this Privacy Policy.  
-Last modification was made May 11, 2018.
+Last modification was made November 14, 2018.
 
 ### More on Advertising / Personal Privacy
 
@@ -91,6 +91,8 @@ Cartermatt.com does provide advertisement opportunities to companies and there w
 Vendors from third parties such as Google will use cookies to provide ads based on prior visits to the website. To use this, Google utilizes a DART cookie to facilitate their third-party program. If you would like to opt out of this cookie, please visit this [page](http://www.google.com/privacy_ads.html).  You can also choose to opt out of a third-party vendor’s use of cookies over at this [link](http://www.networkadvertising.org/managing/opt_out.asp).
 
 Please do not post personal information about yourself on our site, no emails, phone numbers or mailing addresses. We are not held responsible for your actions if you choose to do so and we hold the right to remove this content if we find it posted on the site. Do not collect personal information about other users from this site, if you do please note that you will be held liable for those actions and could face criminal charges.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
 
 ### Plugin Use
 
@@ -108,9 +110,13 @@ Although Cartermatt.com does not have a registration requirement when posting co
 
 In addition, you shall not falsely publish, distribute, or exploit this web site (along with its accompanying code or data) on any platform for any purpose without prior written permission nor may any user attempt to edit or remove any content or coding on this site. All use of this site must be held in accordance of United States law alongside any local or state laws currently established. Site content cannot be lifted or plagiarized for any purpose.
 
-Cartermatt.com does not accept any unsolicited content or stories or submissions. Any unsolicited content will not be reviewed and any content sent via post will be returned unopened.
+CarterMatt.com does not accept any unsolicited content or stories or submissions. Any unsolicited content will not be reviewed and any content sent via post will be returned unopened.
 
 If you have seen content on this site that you believe infringes on your copyright rights, please contact us at [info@cartermatt.com](mailto:info@cartermatt.com.com) so that we can address the issues.
+
+ **Copyright Policy**
+
+All rights reserved to CarterMatt.com exclusively. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the publisher, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law. For permission requests, write to the publisher (CarterMatt.com)
 
  **Commenting Policy  
 **  
@@ -122,6 +128,216 @@ We will not alter a comment unless there is swearing in it, but we reserve the r
 
 We conduct many polls on our site and we allow readers to vote multiple times. These polls are just for fun and we don’t allow defamatory, or threatening comments to other fans (or to any of the CarterMatt.com staff) on these polls or in the comment section.
 
+Your email address may be stored with your comment, but will not be used for any purpose and will not be shown.
+
  **Newsletter Policy**
 
 In accordance with the anti-spamming law in Canada (and our own personal stance on spamming), we will never use someone’s email address without permission and add it to our weekly CarterMatt newsletter. The only way an email address will ever been added to receive our newsletter is if a person signs up themselves for the newsletter and provides their email to us for only that purpose. Any emails given to CarterMatt for the intended purpose of being part of our weekly newsletter will not be used for any other purpose, will not be shared, and will not be sold.
+
+### GDPR Vendor List
+
+[24]7.ai (successor to EngageClick)  
+Adacado  
+Adara Media  
+AdClear  
+ADEX  
+Adform  
+AdGear  
+AdGibbon BV  
+AdLedge  
+Adloox  
+Adnanny.com  
+Adnetik  
+Adnologies  
+Adobe Advertising Cloud  
+Adriver  
+Adscale GmbH  
+AdTriba  
+advanced STORE GmbH  
+Adventori  
+adverServe  
+Advolution.control  
+Affilinet  
+Akamai  
+Amazon  
+Amobee  
+Anomaly  
+Answer Media  
+AppNexus  
+Arrivalist  
+AT Internet (Xiti)  
+Audience2Media  
+AudienceProject  
+Awin  
+Axparis.com  
+Azameo  
+Batch Media  
+BDSK Handels GmbH & Co. KG  
+Belboon  
+Better Banners  
+Bidswitch  
+Bizible  
+Bombora  
+Brainworkz  
+Broadband Enterprises  
+C3 Metrics  
+Cablato  
+CDK Global  
+Celtra  
+Cheq  
+Cint  
+Clinch  
+Cloud Technologies  
+Cloudflare  
+Cogo Labs  
+Collective  
+Commanders Act  
+comScore  
+Conversant/CJ Affiliate  
+Conversion Logic  
+Crimtan  
+Criteo  
+Datafy  
+DataXu  
+DMA Institute  
+DoubleVerify  
+Dynamic Yield  
+Eacnur  
+Ebuilders  
+econda GmbH  
+Effinity  
+Emerse  
+Ensighten  
+Eulerian Technologies  
+Evidon  
+Exactag  
+Exponential  
+Eyereturn Marketing  
+F Sharp  
+Facebook  
+Flashtalking  
+FlxOne  
+Fraudlogix  
+Gemius  
+GfK  
+GlobalWebIndex  
+Google  
+GroupM  
+Gskinner  
+Haensel AMS  
+Havas Media France – DBi  
+Heathrow  
+Heathrow Express  
+Herolens  
+Hostelworld.com Limited  
+Hurra.com  
+iBILLBOARD  
+Ignition One  
+Impact  
+Index Exchange  
+Infectious Media  
+Infostrada  
+Integral Ad Science  
+intelliAd  
+Isobar  
+Jivox  
+jQuery  
+Jsdelivr  
+Kantar  
+KeyCDN  
+Knorex  
+Kwanzoo  
+LiveRamp  
+Lotame  
+Macromill group  
+Madison Logic  
+Magnetic  
+Markit  
+MBR Targeting Gmbh  
+MediaMath  
+MEDIAN  
+Meetrics  
+Metalyzer  
+MindTake Research  
+Monotype Imaging, Inc.  
+MSI-ACI  
+MyFonts  
+Naketano.de  
+Nano Interactive  
+NEORY GmbH  
+netAFFILIATION  
+Netflix  
+Neuralone  
+Neustar  
+NEXD  
+Nielsen  
+Nordic Factory Solutions AB  
+Norstat  
+Numberly  
+Oath  
+OCM Internet  
+OmniVirt  
+OnAudience.com  
+OneDigitalAd Technologies  
+Oracle Data Cloud  
+Parship  
+Phaistos Networks  
+Piximedia  
+Platform161  
+PopRule  
+Publicis Groupe  
+PubMatic  
+Pulpo (An Entravision Company)  
+Quantcast  
+Rackspace  
+Rakuten Marketing  
+RAM  
+Relay42  
+RevJet  
+RhythmOne LLC  
+RN SSI Group  
+Roq.ad  
+Rubicon Project  
+Salesforce DMP  
+Scenestealer  
+Scoota  
+Semasio GmbH  
+SFR  
+Signal  
+Sizmek  
+Smart  
+Sojern  
+Spark Flow, SparkFlow  
+Specific Media Inc.  
+Speed Shift Media  
+Swaven  
+Taboola  
+TACTIC™ Real-Time Marketing  
+Tapad  
+tapCLIQ  
+Tealium  
+Telegraph  
+The Reach Group  
+The Trade Desk  
+Thunder  
+TimeOne  
+Tradedoubler  
+travel audience – An Amadeus Company  
+Travelers  
+TripAdvisor  
+TrustArc  
+Turbobytes  
+Twitter  
+UDG  
+usemax (Emego GmbH)  
+Videology  
+Vimeo  
+Virtual Minds  
+VIVALU  
+Vorwerk  
+Webgains  
+Weborama  
+White Ops  
+Zanox  
+ZMS  
+Zuuvi
