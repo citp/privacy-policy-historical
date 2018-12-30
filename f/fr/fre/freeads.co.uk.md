@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeads.co.uk privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624224144id_/https%3A//freeads.zendesk.com/hc/en-us/articles/203180471-Privacy-Policy-Cookie-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeads.co.uk privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230215850id_/https%3A//freeads.zendesk.com/hc/en-us/articles/203180471-Privacy-Policy-Cookie-Policy) for the most accurate reproduction.*
 
 # Privacy, Cookie & Data Policy – Freeads Help Center
 
@@ -159,6 +159,6 @@ Blocking all cookies will have a negative impact upon the usability of many webs
 
 If you block cookies, you will not be able to use all the features on our website.
 
-[Freeads.co.uk](https://www.freeads.co.uk/) is owned and operated by Freeads Classifieds Ltd, registered in England and Wales (company number 004438153). Our registered office is Enterprise House, Beeson's Yard, Bury Lane, Rickmansworth, Herts, WD3 1DS, trading at 4, Downmill Road, Bracknell, RG12 1QS. You can contact us by post, using our website contact form, by telephone, on 0207 243 5454 or by live chat below (available during office hours).
+[Freeads.co.uk](https://www.freeads.co.uk/) is owned and operated by Freeads Classifieds Ltd, registered in England and Wales (company number 004438153). Our registered office is Enterprise House, Beeson's Yard, Bury Lane, Rickmansworth, Herts, WD3 1DS, trading at 4, Downmill Road, Bracknell, RG12 1QS. You can contact us by post, using our website contact form, by telephone, on 0207 965 7104 or by live chat below (available during office hours).
 
 Our data protection officer's is Mr G Tebbutt. See above for contact information.
