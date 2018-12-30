@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solidtrustpay.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614191246id_/https%3A//www.solidtrustpay.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solidtrustpay.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230231104id_/https%3A//solidtrustpay.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - SolidTrust Pay
 
@@ -133,7 +133,7 @@ By entering into our User Agreement, you agree that, with respect to other user'
 
 In all cases, you must provide users with the opportunity to remove themselves from your database and review any information you have collected about them. In addition, under no circumstances, except as defined in this Section, can you disclose personally identifiable information about another SolidTrust Pay user to any third party without our consent and the consent of such other user after adequate disclosure. Note that law enforcement personnel and other rights holders are given different rights with respect to information they access.
 
-SolidTrust Pay does not tolerate unsolicited commercial e-mail (spam). Therefore, without limiting the foregoing, you may not add a SolidTrust Pay user to your mail list (e-mail or physical mail) without their express consent after adequate disclosure, even if said user has previously made a purchase from you. Our anti-spam policy is strictly enforced. To report SolidTrust Pay-related spam to SolidTrust Pay, please **[contact us](https://web.archive.org/web/20180614191246id_/support)**.
+SolidTrust Pay does not tolerate unsolicited commercial e-mail (spam). Therefore, without limiting the foregoing, you may not add a SolidTrust Pay user to your mail list (e-mail or physical mail) without their express consent after adequate disclosure, even if said user has previously made a purchase from you. Our anti-spam policy is strictly enforced. To report SolidTrust Pay-related spam to SolidTrust Pay, please **[contact us](https://web.archive.org/web/20181230231104id_/support)**.
 
 **_D. Information Security_**
 
@@ -150,7 +150,7 @@ You can review the personal information you have provided us and make select cha
   
 **_F. Contacting Us_**
 
-If you have any questions about this privacy statement, you may contact our Data Protection Officer (DPO) directly via email to: privacy @ solidtrustpay.com; for questions regarding SolidTrust Pay's information practices, or your dealings with SolidTrust Pay, you are welcome to **[contact us](https://web.archive.org/web/20180614191246id_/support)** via LiveChat/Ticket.
+If you have any questions about this privacy statement, you may contact our Data Protection Officer (DPO) directly via email to: privacy @ solidtrustpay.com; for questions regarding SolidTrust Pay's information practices, or your dealings with SolidTrust Pay, you are welcome to **[contact us](https://web.archive.org/web/20181230231104id_/support)** via LiveChat/Ticket.
 
 
 
