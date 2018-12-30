@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vecteezy.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624185215id_/https%3A//www.vecteezy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vecteezy.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230181329id_/https%3A//www.vecteezy.com/privacy) for the most accurate reproduction.*
 
 # Download Free Vector Art, Stock Graphics & Images
 
-_Last updated May 25, 2018_
+_Last updated September 14, 2018_
 
 Eezy Inc. ("Eezy") or any Eezy brands (“Videezy,” “Vecteezy,” “Themezy,” “Brusheezy”) (“we,” “us,” or “our”) respects the privacy of our users. Please note that the practices of Eezy (or any properties/brands under the Eezy umbrella), concerning your access to and use of the https://www.vecteezy.com/ website as well as any other media form, media channel, mobile website, or mobile application related, linked, or otherwise connected thereto (collectively, the "the Site"), with respect to personal information, are now governed by this Privacy Policy as same may be amended from time to time. Please read this Privacy Policy carefully. IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT ACCESS THE SITE.
 
@@ -172,6 +172,7 @@ New Relic | Connectivity Monitoring, Logging, and Analytics | United States
 Cloudflare, Inc. | DNS, Content Distribution, and Security Provider | United States  
 Facebook | Login Authentication & Advertising Analytics | United States  
 Zendesk, Inc. | Cloud Service Provider - Customer Support Services | United States  
+The Media Shop | Ad Serving Platform | United States  
   
 ## What you can do to your personal information
 
@@ -183,7 +184,7 @@ Upon your request to terminate your account, we will deactivate or delete your a
 
 ### Request a copy of your data
 
-You can request a copy of your information which we hold (in Europe this is known as a subject access request). If you would like a copy of some or all of it, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#bbc8cecbcbd4c9cffbdedec1c295d8d4d6) and let us know the information you want a copy of, including any account or reference numbers, if you have them. Any subject access request may be subject to a reasonable fee to cover the cost of providing you with details of the information we hold about you.
+You can request a copy of your information which we hold (in Europe this is known as a subject access request). If you would like a copy of some or all of it, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#60131510100f12142005051a194e030f0d) and let us know the information you want a copy of, including any account or reference numbers, if you have them. Any subject access request may be subject to a reasonable fee to cover the cost of providing you with details of the information we hold about you.
 
 ### Data portability request
 
@@ -193,7 +194,7 @@ The right to data portability only applies:
 
   * to Personal Information you’ve provided to us (i.e. not any other information),
   * where we are processing your Personal Information because you have provided your consent for us to do so, or under a contract with you; and
-  * when processing is carried out by automated means.‍
+  * when processing is carried out by automated means.
 
 
 
