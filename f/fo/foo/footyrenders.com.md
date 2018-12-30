@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footyrenders.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119221707id_/https%3A//www.footyrenders.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footyrenders.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230115712id_/https%3A//www.footyrenders.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FootyRenders
 
@@ -6,11 +6,11 @@ This privacy policy has been compiled to better serve those who are concerned wi
 
 ## What information do we collect?
 
-Apart from your IP address, we do not collect personally indentifiable information from visitors of our site.
+Apart from your IP address, we do not collect personally indentifiable information from visitors of our site. _Your IP address is collected when leaving a vote on renders. If you would like to have them deleted please[contact us](https://web.archive.org/contact/)_
 
 ## When do we collect information?
 
-We collect personally identifiable information from you when you fill out a form or enter information on our site, per example when voting for a render.
+We collect personally identifiable information from you when you fill out a form or enter information on our site, per example when voting for a render. Your IP address is stored solely for the purpose of restricting access to the website for abusers of the render voting system.
 
 ## How do we protect visitor information?
 
@@ -20,7 +20,7 @@ We implement security measures when a user enters, submits, or accesses their in
 
 Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
- **We use cookies to:**
+**We use cookies to:**
 
 – Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third party services that track this information on our behalf.
 
@@ -65,4 +65,4 @@ We also agree to the individual redress principle, which requires that individua
 
 If there are any questions regarding this privacy policy you may contact us [here](https://web.archive.org/contact/).
 
- _Last edited on 2016-01-05_
+_Last edited on 2018-05-26_
