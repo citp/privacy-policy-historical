@@ -1,45 +1,122 @@
-> *The following text is extracted and transformed from the mobidea.com privacy policy that was archived on 2017-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170921104930id_/https%3A//www.mobidea.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobidea.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230192253id_/https%3A//www.mobidea.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Mobidea
 
-## Privacy Policy Statement
+_Updated and effective as of May 25, 2018_
 
-We have created this Privacy Policy to demonstrate our dedication to respecting your privacy. This Privacy Policy sets out our practices with respect to personal information collected from visitors to the Site as well as registered affiliates (collectively referred to as "you"). This Site operates an affiliate program and is solely restricted to adults who are capable of entering into contractual relationships. Any persons under the age of eighteen are strictly prohibited from using this Site or signing up for an account with our affiliate program. We do not intentionally collect information on individuals under the age of eighteen. By visiting this Site and/or signing up for an affiliate account, you agree and consent to the terms of this Privacy Policy as amended from time to time, as well as the Mobidea Terms and Conditions also located on this Site.
+At **Mobidea** we understand the value of privacy and are committed to ensuring that all personal data we process is done so in accordance with applicable law and best practices, thus protecting the rights and freedoms of individuals. We place privacy at the core of our business and understand that good relationships are based on trust.
 
-## What Information is Collected:
+This Privacy Notice serves to explain to you how we process your personal data and disclose important information as required by the General Data Protection Regulation (“GDPR”) (EU 2016/679), including your rights towards your personal data. This Privacy Notice applies to the use of our websites and online platforms, the use of our services, and to our sales, marketing and customer contract fulfilment activities. It also applies to individuals who apply for a job with the Company. 
 
-## Personal Information
+## Details of the Mobidea
 
-We collect personal information that is voluntarily provided to us via the registration form for our affiliate program. This information may include, but not be limited to, the affiliate’s name, physical address, phone number, email address, instant messenger address, payment method information (such as bank account information), password, and on occasion a unique identifier (such as their mother's maiden name). If an affiliate sends any personal communication or correspondence, by any means, to the Site, or any of its employees, agents or representatives, the Site may collect any information regarding that communication and include that information in its customer database.
+**Mobidea** refers to **Mobidea Limited.** Our main headquarters is located at Victory House 205, Archbishop Makarios Avenue 3030 Limassol, Cyprus. Mobidea is part of the OLAmobile Group and is controlled by OLAMOBILE S.à.r.l., which has its headquarters in Luxembourg, at L-2453 Luxembourg, 2-4 rue Eugène Ruppert.
 
-## Non-Personal Information and Cookies
+Mobidea provides online advertising services, which support publishers in monetizing their online advertising space, as described in the Terms and Conditions of the Publisher Program, and advertisers in marketing their products and services. 
 
-Certain non-personal information may be collected from visitors to this Site including, but not limited to, their browser type, browser language, operating system, IP address, and the domain name from which they accessed the Site. Other non-personal information may be collected such as browsing behavior, date and time of visit, the pages visited, the time spent viewing the Site, the number of times the visitor returns to the Site, and click- stream data. We do not track any information about visitors once they leave our Site. We may use cookies to collect this information. We may also allow unaffiliated third parties, such as advertisers, to serve cookies to visitors of our Site. You are always free to decline cookies, but in doing so they may not be able to use certain features on our Site.
+With regards to the personal data covered by this Privacy Notice, Mobidea is the data controller.
 
-## Use of Information
+We have a Data Protection Officer, who can be contacted here: **legal@olamobile.com.**
 
-We collect personal information so that we may custom tailor the web experience for each affiliate and offer the best products and services to meet the needs of each affiliate.
+## When do we collect personal data?
 
-We may use information collected from visitors to our Site for any of the following purposes: (1) to send affiliates information and promotional materials about our company, which will not continue if opted out of, (2) to send affiliates limited and only occasional information and promotional materials from our marketing partners and third parties, (3) to deliver highly targeted but very limited display advertisements and offers by email, which will not continue if opted out of, (4) to contact affiliates to our Site when necessary, (5) to allow one-click purchases or access to proprietary content by pre-populating fields, within registration or other transaction screens, with a visitor's name, billing address, all as provided by that visitor, (6) to help diagnose problems with our server, (7) to administer our Site, (8) to conduct internal reviews of our Site (e.g., to determine the number of visitors to the Site), (9) to help us better understand visitors' use of our Site, and (10) to protect the security or integrity of our Site.
+We may collect personal data about you in the following cases: 
 
-Since part of the personal information that is collected and safeguarded by us is your email address, we try very hard to respect your time and privacy by controlling and limiting the frequency of mailings. If you receive a mailing from us or one of our marketing partners, it is because your email address is either listed with us as someone who has expressly shared this address for the purpose of receiving information in the future, or you have registered or purchased or otherwise have an existing relationship with us. Your registration for our affiliate program is your consent to these occasional mailing.
+  * When you use our websites and online platforms, as well as our services.
+  * When you interact with us in person, through correspondence, by phone, in social media, or through our websites and online platforms.
+  * We may also collect certain personal data if we consider that this is in our legitimate interest or that of a third party, but only if this legitimate interest is not overridden by your interests or fundamental rights and freedoms. Before any data is collected we conduct an assessment to ensure this balance is appropriate.
 
-There may be occasions when you will be presented with special offers either from us or from third-party service or content providers, which may include communications, newsletters, commercial advertising, or other promotional or special event materials (collectively referred to as "Offers"). Your consent to this Privacy Policy acts as your consent to receive these occasional mailings by us and by our third party service or content providers.
 
-The Site is not responsible or liable for the use of any information that an affiliate may provide, or that is gathered by third-party websites that have ads or links on the Site. This Site does not control, monitor or endorse the information gathering practices or Privacy Policies of any of those third-party websites. Whenever applicable, each affiliate should seek to read the Privacy Policy of any third-party website provider that has an advertising banner, advertises or has a link on the Site or in an email.
 
-If you have received unsolicited email sent via this system or purporting to be sent via this system, please forward a copy of that email with your comments to [abuse@mobidea.com](mailto:abuse@mobidea.com).
+## Why do we collect and use personal data?
 
-We take unwanted email complaints very seriously and maintain an opt-out system to assist you in removing your name from our mailing.
+We collect and use personal data mainly to run our websites and online platforms appropriately, provide our services, perform sales and direct marketing activities, target advertising on our websites and platforms and elsewhere online, and process job applications with the Mobidea. 
 
-## Removing your name off our list
+## How do we use personal data?
 
-If you wish to be removed off of our mailing list, please send us an email to [abuse@mobidea.com](mailto:abuse@mobidea.com) and we will gladly remove you.
+We may use personal data for the following purposes:
 
-## Security
+  * Provide, maintain, and improve our websites and online platforms.
+  * Provide our services, including related technical support and access to our online platforms.
+  * Prevent fraud, abuse, and other illegal activities; protect our rights and safety and those of others; enforce compliance with our policies; and comply with applicable law and requests of competent authorities.
+  * Send you direct marketing about our products and services, events, activities, and other promotions that we think may interest you.
+  * Perform direct sales activities.
+  * Target content and advertisements we and third parties display to you, both on our websites and online platforms and elsewhere online.
+  * Perform contractual obligations, such as making payments. The contract may be with Mobidea directly or with a subsidiary of Mobidea.
+  * Communicate with you, by replying to your requests;
+  * Notify you about any technical issues, updates and security alerts related to our services.
+  * Obtain aggregated insights about our websites and online platforms, such as by generating statistics about our user traffic and calculating advertisements served or clicked on.
+  * Process job applications. 
 
-This Site has security measures in place to protect the loss, misuse and alteration of the information under our control. For all other information, visitors and affiliates should consider this communication and information to be non-confidential, and consequently, we assume no responsibility or liability if any information relating to any visitor or subscriber is intercepted and/or used by an unintended recipient.
 
-## Acceptance of these Terms
 
-By visiting or registering to become an affiliate, you agree to the practices described in this Privacy Policy. We may at any time revise or amend any of these terms and conditions without notice. You are bound by any such revisions and should therefore periodically visit this page to review the then-current terms and conditions to which you are bound. To the extent that any of the third-party sites accessible through our Site (such as our advertisers) have different privacy practices from those stated in this Privacy Policy, those third-party privacy practices govern the collection and use of information you provide when visiting those sites. We are not responsible for the policies, content, and practices of other companies which may collect personal information as a third-party web service provider that has an advertising banner or link on the Site.
+## Which types of personal data we collect?
+
+We collect the following types of personal data:
+
+  * When you use our websites and online platforms, we collect IP address, device identifier, browser type, access time, and actions taken on the websites and online platforms.
+  * When you use our services and register on our websites and online platforms, we collect name, phone number, email address, password, and other information you decide to provide to us, such as a photo.
+  * We may collect additional information you provide to us, for example when you send us a job application or otherwise communicate with us.
+
+
+
+Mobidea does not collect or processes any special categories of personal data. Our websites and online platforms, as well as our services, are not targeted to and should not be used by children under the age of 16. We do not knowingly collect personal data of children.
+
+## What are our legal bases for processing personal data?
+
+We rely on the following legal bases:
+
+  * Performance of a contract, for providing our services and any related technical support, and fulfilling our contractual obligations, such as making payments.
+  * Our legitimate interests or those of a third party, for providing our websites and online platforms, ensuring security and integrity, performing direct marketing and sales activities, obtaining aggregated insights, processing job applications, and other relevant communications with you.
+  * Compliance with a legal obligation, where required by applicable law or by competent authorities.
+  * Your consent, which you can withdraw at any time, for targeted advertising, using tracking technologies, and other purposes disclosed at the time the data was collected.
+
+
+
+## For how long do we keep personal data?
+
+We keep personal data for as long as it is necessary to fulfill the purpose for which the personal data was collected, for example during the period which you are registered in our websites or online platforms, to attend to any legal claims, for example if we believe that you have violated our rights, or for as long as required by applicable law.
+
+When the personal data that we have collected is no longer required, we will delete it in a secure manner. We may further process data for statistical purposes, but in such cases, data will be anonymized.
+
+## What are your rights in relation to your personal data?
+
+You have the following rights with respect to your personal data held by Mobidea:
+
+  * Right to request a copy of your personal data;
+  * Right to request that Mobidea corrects your personal data if inaccurate or out of date. If you have a registered account on our websites or online platforms, you can update your personal data directly on your preferences section.
+  * Right to request the erasure of your personal data when no longer necessary for the purposes for which they are processed.
+  * Right to withdraw your consent given to us for a certain purpose, for example for targeted advertising;
+  * Right to request a restriction on further processing, in case there is a dispute regarding the processing.
+  * Right to object to the processing, in case such processing is based on legitimate interests, for example for direct marketing and sales activities. You can opt-out of receiving direct marketing and sales communication from us here.
+
+
+
+Any question or request related to your rights should be sent to legal@olamobile.com.
+
+In case you are not satisfied with the way your personal data is treated, you have the right to file a complaint with a supervisory authority. If you are in the EEA, you can find more information about your local supervisory authority **[here](https://edps.europa.eu/data-protection_en)**.
+
+## Do we use cookies and similar technologies?
+
+We use cookies and similar technologies, for example web beacons, pixels, ad tags and device identifiers, to collect information as you navigate on our websites and online platforms. These include standard information such as browser type, IP address, and the actions you take on our websites and online platforms, such as the pages viewed and the links clicked.
+
+This information is used to make our websites and online platforms work more efficiently, to provide us with business and marketing information, and to gather such personal data for the purposes of understanding how visitors use our websites and online platforms. Cookies and similar technologies help us tailor our websites and platforms to you, as well as to detect and prevent security threats and abuse. If used alone, these technologies do not personally identify you.
+
+To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit wikipedia.org, allaboutcookies.org, or aboutcookies.org.
+
+## Do we share personal data with other parties?
+
+We may share personal data with the following parties:
+
+  * Service providers and other partners which help us to provide our services. For example, we may share certain personal data with a bank to make a payment or store certain personal data in a cloud platform.
+  * Partners we work with to serve targeted advertising and other marketing content, provided that you have given us your consent, which you can withdraw at any moment.
+
+
+
+You can find a list of these parties **[here](https://web.archive.org/lp)**. We will ensure that these third parties are bound by this Privacy Notice and all applicable data protection laws, if necessary by executing data processing agreements. If data is transferred outside the EEA, we will ensure that appropriate safeguards are in place to protect your personal data.
+
+We may be required to disclose certain personal data by law, to comply with a court order, or to protect our rights. In any case, we will do what we can to ensure that your rights remain protected.
+
+## Changes to this Privacy Notice
+
+We may amend this Privacy Notice from time to time. The applicable version will always be found on our websites and online platforms. We encourage you to check this Privacy Notice occasionally to ensure that you agree to any eventual changes.
