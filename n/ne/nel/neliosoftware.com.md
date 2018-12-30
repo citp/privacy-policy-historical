@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neliosoftware.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624222737id_/https%3A//neliosoftware.com/privacy-policy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neliosoftware.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230214625id_/https%3A//neliosoftware.com/privacy-policy-cookies) for the most accurate reproduction.*
 
 # Privacy Policy & Cookies
 
@@ -6,7 +6,7 @@
 
 This document is important and we hope you will take time to read it carefully.
 
-**Nelio’s privacy policy has been adapted to the GDPR. In addition, we have worked to make the Nelio’s documentation on privacy policy more understandable, organize it by sections, provide examples that illustrate how the policies may be implemented, and define some terms to gain accuracy and simplicity.**
+ **Nelio’s privacy policy has been adapted to the GDPR. In addition, we have worked to make the Nelio’s documentation on privacy policy more understandable, organize it by sections, provide examples that illustrate how the policies may be implemented, and define some terms to gain accuracy and simplicity.**
 
 ## The Basics
 
@@ -50,7 +50,7 @@ If you have any questions or comments, or if you want to update, delete, or chan
 
 ### 5\. Information We Collect
 
-**Before collecting any personal data from you, we ask your explicit consent for us to store this data and confirm you agree with this privacy policy.** Here are the different alternatives with which we gather the information:
+ **Before collecting any personal data from you, we ask your explicit consent for us to store this data and confirm you agree with this privacy policy.** Here are the different alternatives with which we gather the information:
 
 (a) **Information You Explicitly Give Us:** We receive and store any information you enter on our Website or give us in any other way through a direct interaction with us which includes:
 
@@ -115,9 +115,9 @@ We may use and disclose Personal Data only for the following purposes:
 
 (m) **To transfer your information**  in the case of a sale, merger, consolidation, liquidation, reorganization, or acquisition. In that event, any acquirer will be subject to our obligations under this Privacy Policy, including your rights to access and choice. We will notify you of the change either by sending you an email or posting a notice on our Website.
 
-**We do not sell your Personal Data to anyone.** **We may share your Personal Data with our third party Service Providers, who help us provide and support our Services** , such as credit card processing services, order fulfilment, analytics, event or campaign management, website management, information technology and related infrastructure provision, customer service, e-mail delivery, auditing, and other similar services. In this case, we require by contract from our services providers to use your Personal Data only for the purpose of providing services to us and subject to terms consistent with this policy.
+ **We do not sell your Personal Data to anyone.** **We may share your Personal Data with our third party Service Providers, who help us provide and support our Services** , such as credit card processing services, order fulfilment, analytics, event or campaign management, website management, information technology and related infrastructure provision, customer service, e-mail delivery, auditing, and other similar services. In this case, we require by contract from our services providers to use your Personal Data only for the purpose of providing services to us and subject to terms consistent with this policy.
 
-**We may disclose your personal data as we believe to be necessary or appropriate** :
+ **We may disclose your personal data as we believe to be necessary or appropriate** :
 
   * under applicable law, including laws outside your country of residence;
   * to comply with legal process;
@@ -141,7 +141,7 @@ Additionally, in the event of a reorganization, merge, sale, joint venture, assi
 
 ### 9\. Does Nelio Use Cookies and Other Tracking Mechanisms?
 
-**Yes.** Nelio uses cookies and similar technologies like single-pixel gifs and web beacons. We use both session-based and persistent cookies. We set and accesses our own cookies on our Website. In addition, we use third-party cookies, like Google Analytics’. To learn more about cookies, visit [this site](http://www.allaboutcookies.org/).
+ **Yes.** Nelio uses cookies and similar technologies like single-pixel gifs and web beacons. We use both session-based and persistent cookies. We set and accesses our own cookies on our Website. In addition, we use third-party cookies, like Google Analytics’. To learn more about cookies, visit [this site](http://www.allaboutcookies.org/).
 
 We may use cookies to recognize you when you visit a domain we operate or when you use our Services, and also for us to remember:
 
@@ -201,11 +201,11 @@ You may send a written communication to our Business Headquarters, through the c
 
 We will give you access to any Personal Data we hold about you within 30 days of any request for that information. Individuals may request to access, correct, amend, or delete information we hold about them through our [contact form](https://neliosoftware.com/contact/) or email at [legal@neliosoftware.com](mailto:legal@neliosoftware.com). Unless it is prohibited by law, we will remove any Personal Data about an individual from our servers at your or their request. There is no charge for an individual to access or update their Personal Data.
 
-**Models, forms, and more information about your rights** : [Official website of the Spanish Data Protection Agency](https://www.agpd.es/portalwebAGPD/CanalDelCiudadano/derechos/index-iden-idphp.php).
+ **Models, forms, and more information about your rights** : [Official website of the Spanish Data Protection Agency](https://www.agpd.es/portalwebAGPD/CanalDelCiudadano/derechos/index-iden-idphp.php).
 
-**Possibility of withdrawing consent.** In the event that you have given your consent for a specific purpose, you have the right to withdraw it at any time, without it affecting the lawfulness of the processing based on the consent prior to its withdrawal.
+ **Possibility of withdrawing consent.** In the event that you have given your consent for a specific purpose, you have the right to withdraw it at any time, without it affecting the lawfulness of the processing based on the consent prior to its withdrawal.
 
-**How to complain to the Control Authority.** If you consider that there is a problem with the way in which Nelio is handling your Personal Data, you may address your complaints to Nelio (indicated above) or to the corresponding [Data Protection Authority](https://www.agpd.es/portalwebAGPD/enlaces/index-iden-idphp.php), being the [Spanish Data Protection Agency](https://www.agpd.es/portalwebAGPD/index-iden-idphp.php) the one indicated in the case of Spain.
+ **How to complain to the Control Authority.** If you consider that there is a problem with the way in which Nelio is handling your Personal Data, you may address your complaints to Nelio (indicated above) or to the corresponding [Data Protection Authority](https://www.agpd.es/portalwebAGPD/enlaces/index-iden-idphp.php), being the [Spanish Data Protection Agency](https://www.agpd.es/portalwebAGPD/index-iden-idphp.php) the one indicated in the case of Spain.
 
 ## Compliance
 
@@ -252,7 +252,7 @@ To be transparent and provide you with the maximum information about who our thi
 
 ### FastSpring
 
-**FastSpring is the reseller of our Services.** All Personal Data required to perform the payments to our Services is provided directly to FastSpring. **We do not have access to any of your personal financial information, such as credit card numbers**. When you subscribe to any of our services, FastSpring requests you explicitly to agree with their [Privacy Policy](https://fastspring.com/privacy/).
+ **FastSpring is the reseller of our Services.** All Personal Data required to perform the payments to our Services is provided directly to FastSpring. **We do not have access to any of your personal financial information, such as credit card numbers**. When you subscribe to any of our services, FastSpring requests you explicitly to agree with their [Privacy Policy](https://fastspring.com/privacy/).
 
 [FastSpring](http://www.fastspring.com/) is a United States-based seller of digital goods specialized in safe and secure internet sales, compliant with PCI and that employs Verisign SSL Certificates. FastSpring is operated by Bright Market, LLC, the data of which are in [_About FastSpring_](https://fastspring.com/company/). FastSpring is registered with the EU through a [special scheme set up for companies outside the EU](https://www.gov.uk/guidance/register-and-use-the-vat-mini-one-stop-shop#vat-on-e-services-scheme). FastSpring’s VAT number is EU826012240 (it begins with EU because FastSpring is located in the United States, not in a European Union member state).
 
