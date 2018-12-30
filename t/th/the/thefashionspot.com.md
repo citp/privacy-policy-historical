@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefashionspot.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624191054id_/http%3A//www.totallyhermedia.com/privacy/%3Fsite%3Dwww.thefashionspot.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefashionspot.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230183142id_/http%3A//www.totallyhermedia.com/privacy/%3Fsite%3Dwww.thefashionspot.com) for the most accurate reproduction.*
 
 # TotallyHer Media | Privacy - ?site=www.thefashionspot.com
 
@@ -6,7 +6,7 @@
 
  **Privacy Policy**
 
-This privacy policy was last modified on September 4, 2014 (the “Effective Date”). TotallyHer (the “Company”), a subsidiary of Evolve Media, LLC and the owner and operator of the website [www.totallyhermedia.com](http://www.totallyhermedia.com/) (the “Site”), takes your privacy very seriously. This privacy policy is intended to inform you about the information that is collected from you when you visit the Site; how this information may be used and disclosed; how you can control the use and disclosure of your information; and how your information is protected. If you have any questions about this privacy policy, please contact our legal team at [[email protected]](http://www.totallyhermedia.com/cdn-cgi/l/email-protection#4e222b292f220e2b382122382b232b2a272f22222d602d2123).
+This privacy policy was last modified on September 4, 2014 (the “Effective Date”). TotallyHer (the “Company”), a subsidiary of Evolve Media, LLC and the owner and operator of the website [www.totallyhermedia.com](http://www.totallyhermedia.com/) (the “Site”), takes your privacy very seriously. This privacy policy is intended to inform you about the information that is collected from you when you visit the Site; how this information may be used and disclosed; how you can control the use and disclosure of your information; and how your information is protected. If you have any questions about this privacy policy, please contact our legal team at [[email protected]](http://www.totallyhermedia.com/cdn-cgi/l/email-protection#bcd0d9dbddd0fcd9cad3d0cad9d1d9d8d5ddd0d0df92dfd3d1).
 
   1. [Scope](http://www.totallyhermedia.com/privacy/#scope)
   2. [What information the Site collects](http://www.totallyhermedia.com/privacy/#collect)
@@ -104,7 +104,7 @@ If you opt out of these technologies, you will continue to see advertising displ
 
 
 
-If you choose to share personal information with us, you may update or amend this information by contacting us at [[email protected]](http://www.totallyhermedia.com/cdn-cgi/l/email-protection#68040d0f0904280d1e07041e0d050d0c010904040b460b0705). Please include in your email the name of the Site to which you provided the information you wish to amend.
+If you choose to share personal information with us, you may update or amend this information by contacting us at [[email protected]](http://www.totallyhermedia.com/cdn-cgi/l/email-protection#b4d8d1d3d5d8f4d1c2dbd8c2d1d9d1d0ddd5d8d8d79ad7dbd9). Please include in your email the name of the Site to which you provided the information you wish to amend.
 
   7.  **Confidentiality and security**
 
@@ -122,7 +122,7 @@ The Site’s offices are located in the United States. If you visit the site fro
 
 
 
-Protecting the privacy of young children is especially important. The Site is designed to be of service and interest to users ages 13 and older. If you are a minor over the age of 13, you may only use this Site with the permission and under the supervision of your parent or guardian. If you are a minor under the age of 13, you are not allowed to provide any personal information to the Company, on the Site or through any other service provided by the Company. Please do not send any information about yourself to us, including your name, address, telephone number, or email address. The Company does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [[email protected]](http://www.totallyhermedia.com/cdn-cgi/l/email-protection)
+Protecting the privacy of young children is especially important. The Site is designed to be of service and interest to users ages 13 and older. If you are a minor over the age of 13, you may only use this Site with the permission and under the supervision of your parent or guardian. If you are a minor under the age of 13, you are not allowed to provide any personal information to the Company, on the Site or through any other service provided by the Company. Please do not send any information about yourself to us, including your name, address, telephone number, or email address. The Company does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [[email protected]](http://www.totallyhermedia.com/cdn-cgi/l/email-protection)om.
 
   1.  **Changes to the privacy policy**
 
@@ -134,6 +134,6 @@ We reserve the right to change this policy at any time. Please check this page p
 
 
 
-If you have questions about this privacy policy, please contact our legal team at [[email protected]](http://www.totallyhermedia.com/cdn-cgi/l/email-protection#e8848d8f8984a88d9e87849e8d858d8c818984848bc68b8785), or send mail to: Evolve Media, LLC 5140 W. Goldleaf Circle, Third Floor Los Angeles, CA 90056 Attn: General Counsel  
+If you have questions about this privacy policy, please contact our legal team at [[email protected]](http://www.totallyhermedia.com/cdn-cgi/l/email-protection#204c4547414c6045564f4c56454d454449414c4c430e434f4d), or send mail to: Evolve Media, LLC 5140 W. Goldleaf Circle, Third Floor Los Angeles, CA 90056 Attn: General Counsel  
 
 monitoring_string = "23321ccc63b26ac760ef525e1c1cf37c"
