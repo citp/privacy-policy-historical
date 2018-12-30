@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the spokesman.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616125337id_/http%3A//www.spokesman.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spokesman.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230124352id_/http%3A//www.spokesman.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | The Spokesman-Review
 
 ### Privacy policy
 
-This privacy policy applies to Cowles Publishing Company d/b/a SR Media Group, along with its affiliates and subsidiaries. The policy covers our practices in connection with The Spokesman-Review newspaper, our websites (spokesman.com, nwprepsnow.com, spokane7.com, spokesmanjobs.com, spokesmanauto.com, spokesmanhomes.com, spokesmanclassifieds.com, bizfindernw.com, kissthebridenw.com), our smartphone and tablet apps and mobile sites.
+This privacy policy applies to Cowles Publishing Company d/b/a SR Media Group, along with its affiliates and subsidiaries. The policy covers our practices in connection with The Spokesman-Review newspaper, our websites (spokesman.com, nwprepsnow.com, spokane7.com, swxrightnow.com, classifieds.spokesman.com, autos.spokesman.com), our smartphone and tablet apps and mobile sites.
 
 #### Information contained in this document:
 
