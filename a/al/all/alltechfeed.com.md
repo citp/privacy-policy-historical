@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alltechfeed.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624183548id_/http%3A//www.alltechfeed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alltechfeed.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230022342id_/http%3A//www.alltechfeed.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - All Tech Feed
 
