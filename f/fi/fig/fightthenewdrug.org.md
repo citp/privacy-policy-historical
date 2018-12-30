@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fightthenewdrug.org privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624140822id_/http%3A//www.fightthenewdrug.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fightthenewdrug.org privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230132652id_/http%3A//www.fightthenewdrug.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Fight the New Drug
 
@@ -47,7 +47,7 @@ Securing the information that you share with us online is a top priority. In ord
 
 Fight the New Drug reserves the right to make changes to this policy at any time. Privacy policy changes may be due to new technologies, industry practices, regulatory requirements or for other purposes. Consent will be obtained when required by applicable law.
 
-If you have any questions or concerns regarding this policy, please call us at 213-792-2106 or write to us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e28b8c848da2848b858a96968a878c879586909785cc8d9085).
+If you have any questions or concerns regarding this policy, please call us at 213-792-2106 or write to us at [info@fightthenewdrug.org](mailto:info@fightthenewdrug.org).
 
 __
 
