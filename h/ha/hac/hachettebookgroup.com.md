@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hachettebookgroup.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627074313id_/https%3A//www.hachettebookgroup.com/terms-and-policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hachettebookgroup.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230083730id_/https%3A//www.hachettebookgroup.com/terms-and-policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hachette Book Group
 
-_Last Updated May 25, 2018_
+Last Updated July 23, 2018
 
 **Hachette Book Group, Inc.**
 
@@ -14,11 +14,11 @@ _Last Updated May 25, 2018_
 
 This Privacy Policy applies to _hbgusa.com_ and all other websites, applications, online services, and other interactive features or downloads that post a link to this Privacy Policy (collectively, the “Sites”), that are owned or controlled by Hachette Book Group, Inc. (“Hachette”, “we” or “us”). This Privacy Policy describes what kind of information is collected when you interact with our Sites, how we use that information, the measures we take to protect your information, and how you can opt-out and change your preferences.
 
-**BY USING THE SITES, YOU ARE EXPRESSLY ACCEPTING AND CONSENTING TO THE PRACTICES DESCRIBED IN THIS PRIVACY POLICY, AS IT MAY BE AMENDED FROM TIME TO TIME.  WE MAY UPDATE AND EXPAND OUR SITES AND SERVICES, AND THIS PRIVACY POLICY MAY CHANGE, SO CHECK BACK TO THIS POLICY PERIODICALLY**.
+**BY USING THE SITES, YOU ARE EXPRESSLY ACCEPTING AND CONSENTING TO THE PRACTICES DESCRIBED IN THIS PRIVACY POLICY, AS IT MAY BE AMENDED FROM TIME TO TIME.  WE MAY UPDATE AND EXPAND OUR SITES AND SERVICES, AND THIS PRIVACY POLICY MAY CHANGE, SO CHECK BACK TO THIS POLICY PERIODICALLY. **
 
 This Privacy Policy only covers information collected through our Sites, although it may also apply to information we collect offline (e.g., if you provide us with information by phone, through the mail, or at book shows and fairs) if specifically stated at the time of collection or if the information is combined in our databases.
 
-HACHETTE IS A UNITED STATES COMPANY.  IF YOU LIVE OR RESIDE OUTSIDE THE UNITED STATES, BE AWARE THAT INFORMATION WE COLLECT FROM YOU THROUGH OUR SITES WILL BE TRANSFERRED AND PROCESSED IN THE UNITED STATES.  BY USING THE SITES OR PROVIDING US WITH YOUR INFORMATION, YOU FULLY UNDERSTAND AND CONSENT TO THIS TRANSFER, PROCESSING AND STORAGE OF YOUR INFORMATION IN THE UNITED STATES, A JURISDICTION IN WHICH THE PRIVACY LAWS MAY NOT BE AS COMPREHENSIVE AS THOSE IN THE COUNTRY WHERE YOU RESIDE.
+HACHETTE IS A UNITED STATES COMPANY.  IF YOU LIVE OR RESIDE OUTSIDE THE UNITED STATES, BE AWARE THAT INFORMATION WE COLLECT FROM YOU THROUGH OUR SITES WILL BE TRANSFERRED AND PROCESSED IN THE UNITED STATES.  BY USING THE SITES OR PROVIDING US WITH YOUR INFORMATION, YOU FULLY UNDERSTAND AND CONSENT TO THIS TRANSFER, PROCESSING OF YOUR INFORMATION IN THE UNITED STATES, A JURISDICTION IN WHICH THE PRIVACY LAWS MAY NOT BE AS COMPREHENSIVE AS THOSE IN THE COUNTRY WHERE YOU RESIDE.
 
 **TYPES OF INFORMATION WE COLLECT**
 
@@ -28,19 +28,14 @@ _Information You Provide Directly to Hachette_
 
 We may collect personal information through the Sites that you directly and voluntarily provide to us on forms submitted to our Sites (e.g. Newsletters, polls, surveys, comments, desk copy orders), through contests and sweepstakes, and/or through your requests for customer or technical support, such as: your name, street address, email address, phone numbers, birthdate, zip code, text message address or other wireless device address, instant messaging address, social media handle, payment information, and/or other information that may identify you as an individual or allow online or offline contact with you as an individual.
 
-_Information Automatically Collected When You Visit Hachette Sites_
+_Information Automatically Collected When You Visit Hachette Sites  
+_Certain information is collected automatically about your use and interaction with our Sites which may include: pages or content you open or interact with, pages you viewed or searched for, page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page. We may also collect technical information about your device, including an identifier, device type, IP address, phone, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform.  The ways we collect your data automatically on our Sites are:
 
-Certain information is collected automatically about your use and interaction with our Sites which may include: pages or content you open or interact with, pages you viewed or searched for, page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page. We may also collect technical information about your device, including an identifier, device type, IP address, phone, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform.  The ways we collect your data automatically on our Sites are:
+A. _Cookies and Other Tracking Technologies_
 
-  1. _Cookies and Other Tracking Technologies_
+We may use “cookies”, web beacons, or similar technologies to collect or receive information about you, including pages and content viewed.  Cookies are small data files that are sent to your browser or related software from a Web server and stored on your computer’s hard drive.  We may use these tracking technologies to enable certain features and functionalities of our Sites to remember you and your preferences, to track your use of our Sites, to serve targeted ads, and to provide content to users.  Some tracking technologies used on our Sites may be implemented and controlled by third-party partners.  Most web browsers automatically accept cookies, and some browsers offer a “Do Not Track” feature that lets you tell websites that you do not want to have your online activities tracked. We do not respond to these “Do Not Track” signals, but you can modify and control your own browser setting to decline cookies, or to indicate when they are being used.  If you choose to opt-out of these tracking technologies some features of our Sites may not function properly.
 
-
-
-We may use “cookies”, web beacons, or similar technologies to collect or receive information about you, including pages and content viewed.  Cookies are small data files that are sent to your browser or related software from a Web server and stored on your computer’s hard drive.  We may use these tracking technologies to enable certain features and functionalities of our Sites to remember you and your preferences, to track your use of our Sites, to serve targeted ads, and to provide content to users.  Some tracking technologies used on our Sites may be implemented and controlled by third-party partners.  Most web browsers automatically accept cookies, and some browsers offer a “Do Not Track” feature that lets you tell websites that you do not want to have your online activities tracked. We do not respond to these “Do Not Track” signals, but you can modify and control your own browser setting to decline cookies, or to indicate when they are being used.  If you choose to opt-out of these tracking technologies some features of our Sites may not function properly.
-
-  1. _Embedded Scripts_
-
-
+B. _Embedded Scripts_
 
 We may use embedded scripts, which are programming code designed to collect information about your interactions with the Sites, such as the links you click on.  The code is temporarily downloaded into your device from our web server or a third-party service provider.  Third-party services may use this code to track your interactions across sites where their embedded script is deployed, including third party sites.
 
@@ -138,6 +133,6 @@ Hachette reserves the right to make changes to any terms of this Privacy Policy 
 
 Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to: Privacy@hbgusa.com.
 
-_Last Updated on May 25, 2018._
+_Last Updated on July 23, 2018._
 
 ©2018 Hachette Book Group, Inc. All Rights Reserved.
