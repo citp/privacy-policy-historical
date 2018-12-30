@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the beveragefactory.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531032321id_/http%3A//www.beveragefactory.com/privacy_statement.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beveragefactory.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230164917id_/https%3A//www.beveragefactory.com/privacy_statement.shtml) for the most accurate reproduction.*
 
 # Privacy Statement | BeverageFactory.com
 
-  1. [Home](http://www.beveragefactory.com/index.shtml)
-  2. [Customer Service](http://www.beveragefactory.com/contact_index.shtml)
+[](https://www.beveragefactory.com/sales/last-sale-of-the-year.html)
+
+  1. [Home](https://web.archive.org/index.shtml)
+  2. [Customer Service](https://web.archive.org/contact_index.shtml)
   3. Privacy Statement
 
 
