@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kff.org privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626194419id_/https%3A//www.kff.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kff.org privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230154656id_/https%3A//www.kff.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Henry J. Kaiser Family Foundation
 
@@ -9,7 +9,7 @@ The Kaiser Family Foundation is committed to protecting the privacy and security
 If you have questions about these policies, we encourage you to contact us through our [feedback form](https://kaiserfamilyfoundation.wordpress.com/contact-us/).
 
 **Use of Cookies, Browser information collected on our websites, Personalization of Content:  
-**We use cookies on our site to support some site personalization. A cookie is a piece of data stored on the user’s computer tied to information about the user’s previous visits to the site. We also use cookies to better understand how our visitors use our site and to continue to improve it.
+**We use cookies on our site to support some site personalization. A cookie is a piece of data stored on the user’s web browser tied to information about the user’s previous visits to the site. We also use cookies to better understand how our visitors use our site and to continue to improve it.
 
 You have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. More information on how to modify your browser settings to block or filter cookies is available [here](http://www.aboutcookies.org/default.aspx?page=1), or navigate to the support webpage for your particular internet browser. However, please note that if you reject some or all cookies, your experience and ability to access all offered content on this and other sites throughout the Internet may be affected.
 
