@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chestnet.org privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626035904id_/http%3A//www.chestnet.org/About/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chestnet.org privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230093120id_/http%3A//www.chestnet.org/About/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | About - American College of Chest Physicians
 
@@ -96,11 +96,11 @@ All CHEST marketing emails and those of third parties include a link for unsubsc
 
 ### Opt out
 
-Members, customers, and registered website users may choose not to have information released from CHEST. This is done by requesting that CHEST designate a record as “no contact.” The “no contact” status of a record ensures that information will not be licensed for purposes of marketing via email, mail, or phone. To opt-out via “no contact” designation, contact the CHEST Help Team at 800/343-2227 or at [HelpTeam@chestnet.org](mailto:helpteam@chestnet.org).
+Members, customers, and registered website users may choose not to have information released from CHEST. This is done by requesting that CHEST designate a record as “no contact.” The “no contact” status of a record ensures that information will not be licensed for purposes of marketing via email, mail, or phone. To opt-out via “no contact” designation, contact the CHEST Help Team at +1 (800) 343-2227 or at [HelpTeam@chestnet.org](mailto:helpteam@chestnet.org).
 
 ### Market research opt-out
 
-From time-to-time, CHEST users may be invited to participate in surveys, focus groups, and/or research panels. Participant contact information, including name, phone number, address, and email address, may be used by CHEST to carry out the survey or communicate about the survey, focus groups, and/or research panels and to provide incentives for participation. Participation in any type of research is completely voluntary. If you prefer not to be contacted to participate in future surveys, focus groups, panels, etc, call the CHEST Help Team at 800/343-2227 or email [HelpTeam@chestnet.org](mailto:helpteam@chestnet.org).
+From time-to-time, CHEST users may be invited to participate in surveys, focus groups, and/or research panels. Participant contact information, including name, phone number, address, and email address, may be used by CHEST to carry out the survey or communicate about the survey, focus groups, and/or research panels and to provide incentives for participation. Participation in any type of research is completely voluntary. If you prefer not to be contacted to participate in future surveys, focus groups, panels, etc, call the CHEST Help Team at +1 (800) 343-2227 or email [HelpTeam@chestnet.org](mailto:helpteam@chestnet.org).
 
 ### External relationships
 
@@ -126,7 +126,7 @@ By visiting or accessing CHEST’s websites, becoming a member or customer, or o
 
 ### Contact us
 
-For questions or comments about this Privacy Policy, please contact the CHEST Help Team at 800/343-2227 or via email at [HelpTeam@chestnet.org](mailto:HelpTeam@chestnet.org).
+For questions or comments about this Privacy Policy, please contact the CHEST Help Team at +1 (800) 343-2227 or via email at [HelpTeam@chestnet.org](mailto:HelpTeam@chestnet.org).
 
 ### Last reviewed
 
