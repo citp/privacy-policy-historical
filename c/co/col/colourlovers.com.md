@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colourlovers.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627192018id_/http%3A//www.colourlovers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colourlovers.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230042021id_/http%3A//www.colourlovers.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy :: COLOURlovers
 
@@ -131,7 +131,7 @@ If you buy products or services from us, we may collect some or all of the follo
 
 If you use our mobile application, you may have to provide PD to use it. 
 
-### Our Use of Cookies (for additional Cookie policy and Setting - [click here](https://web.archive.org/cookie-policy.php))
+### Our Use of Cookies (for additional Cookie policy and Setting - [click here](https://web.archive.org/cookie-policy))
 
 Our website uses cookies. A cookie is a small piece of data or a text file that is downloaded to your computer or mobile device when you access certain websites. Cookies may contain text that can be read by the web server that delivered the cookie to you. The text contained in the cookie generally consists of a sequence of letters and numbers that uniquely identifiesyour computer or mobile device; it may contain other information as well. 
 
