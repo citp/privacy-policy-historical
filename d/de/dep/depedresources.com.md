@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the depedresources.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627213513id_/http%3A//depedresources.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the depedresources.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230105736id_/http%3A//depedresources.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DepEd Resources
 
