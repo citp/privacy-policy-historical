@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the samfirmware.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627160813id_/https%3A//www.sammobile.com/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samfirmware.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230151750id_/https%3A//www.sammobile.com/privacy-cookies) for the most accurate reproduction.*
 
 # Privacy & Cookies Policy - SamMobile
 
-**Effective June 6, 2018**
+**Effective July 20, 2018**
 
 We at SamMobile B.V. (“SamMobile”) care deeply about how your personal data is used and shared, and we take your privacy seriously.  
 This Privacy & Cookies Policy (“Policy”) describes what data we collect, use and share. It also describes why we collect it in the first place.  
@@ -91,8 +91,8 @@ For users that register on our website (if any), we also store the personal data
 
 If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
 
-For data removal (deletions), use our [self-service removal page](https://web.archive.org/remove-account/). In case of errors, contact: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
-For data takeout (exports), use our [self-service export page](https://web.archive.org/data-takeout/). In case of errors, contact: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+For data removal (deletions), use our [self-service removal page](https://web.archive.org/remove-account/). In case of errors, contact: deletions@sammobile.freshdesk.com  
+For data takeout (exports), use our [self-service export page](https://web.archive.org/data-takeout/). In case of errors, contact: exports@sammobile.freshdesk.com
 
 For all other contact details, you can use one of our preferred [contact](https://web.archive.org/contact/) methods.
 
@@ -110,4 +110,4 @@ The Netherlands
 
 ## Additional information
 
-If there are any questions or complaints regarding this Privacy & Cookies Policy you may contact us directly at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or through one of our preferred [contact](https://web.archive.org/contact/) methods. **Please, only use this for questions or complaints and not to request data removal or data takeout, as these are specifically made self-service for easier and faster processing. Emailing instead will delay the process of handling your data removal or data takeout request and will make the process a lot harder and slower for those involved.**
+If there are any questions or complaints regarding this Privacy & Cookies Policy you may contact us directly at privacy-questions-only@sammobile.com or through one of our preferred [contact](https://web.archive.org/contact/) methods. **Please, only use this for questions or complaints and not to request data removal or data takeout, as these are specifically made self-service for easier and faster processing. Emailing instead will delay the process of handling your data removal or data takeout request and will make the process a lot harder and slower for those involved.**
