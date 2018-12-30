@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dnamagazine.com.au privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622172247id_/https%3A//www.dnamagazine.com.au/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnamagazine.com.au privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230023918id_/https%3A//www.dnamagazine.com.au/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – DNA Magazine Australia
 
@@ -104,6 +104,8 @@ Our Amazon store is _DNA Magazine_. If you purchase from our Amazon store, Amazo
 
 
 You can view the [Amazon (AU) privacy policy here](https://www.amazon.com.au/gp/help/customer/display.html?ref_=v_sp_privacy_help&nodeId=468496).
+
+DNA is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.au and affiliated sites.
 
 **DNAnews and other Email Newsletters and Communications**
 
