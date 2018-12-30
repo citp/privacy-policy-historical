@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toparticlesworld.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620222820id_/http%3A//www.articlehawk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toparticlesworld.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230124831id_/http%3A//www.articlehawk.com/privacy-policy) for the most accurate reproduction.*
 
 # ArticleHawk: Searching The Internet For Content » Privacy Policy
 
