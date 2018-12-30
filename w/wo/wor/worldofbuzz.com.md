@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldofbuzz.com privacy policy that was archived on 2018-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180120073743id_/http%3A//www.worldofbuzz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldofbuzz.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230085408id_/https%3A//www.worldofbuzz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WORLD OF BUZZ
 
@@ -152,6 +152,6 @@ and we will promptly remove you from  **ALL**  correspondence.
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-enquiry@worldofbuzz.com
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 Last edited on 18 May 2017
