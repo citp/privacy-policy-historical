@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netmediablog.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627024425id_/http%3A//www.netmediablog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netmediablog.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230212141id_/http%3A//www.netmediablog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - NetMediaBlog
 
