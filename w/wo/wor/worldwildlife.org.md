@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the worldwildlife.org privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626144457id_/https%3A//www.worldwildlife.org/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldwildlife.org privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230184540id_/https%3A//www.worldwildlife.org/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pages | WWF
 
 ## World Wildlife Fund, Inc. Privacy Policy
 
-_Effective: July  21, 2017_
+_Last Modified: November 28,  2018_
 
 World Wildlife Fund, Inc. (“WWF”) respects privacy, and we know that many care about how information is used and shared. This Privacy Policy applies to the WWF website www.worldwildlife.org, to all associated subdomains, online services, and mobile applications, and to those sites listed in the paragraph below labeled “Additional Websites Subject to the Privacy Policy” (collectively, the “Sites”). By visiting any of the Sites, you are accepting the practices described in this Privacy Policy. If you disagree with any of the terms herein, please immediately discontinue use of the Sites.
 
@@ -76,6 +76,8 @@ We may use and disclose Other Information for any purpose, except where we are r
 
 Please note, however, that if you choose to reject or erase cookies, your ability to navigate the Sites may be limited. Further, in the event you choose not to share information, WWF will be unable to respond to your request for WWF information, enter you in any sweepstakes or contests, facilitate your action via WWF's Action Network, or send online postcards.
 
+If you would like to request that WWF not share your Personal Information with our third-party partners and service providers for their marketing purposes, please call 1-800-960-0993 and ask that the representative mark your record as “No Exchange.”
+
 Finally, if you would like to modify Personal Information you have previously provided us, please manage your profile by visiting [www.worldwildlife.org/login](https://worldwildlife.org/login).
 
 ### **How Can You Stop Receiving Communications from WWF?**
@@ -91,7 +93,7 @@ If you would like to opt out of receiving content from WWF, you can:
 
 ### **Does WWF Collect Information from Children?**
 
-WWF does not knowingly collect personal information from anyone under the age of 13. The Sites are not directed at children under the age of 13. In the event that WWF learns that it has collected personal information from a child under age 13 without parental consent, we will delete that information as quickly as possible. If you believe that we might have collected any personal information from a child under 13, [please contact us](https://worldwildlife.custhelp.com/app/ask).
+WWF does not knowingly collect personal information from anyone under the age of 13. The Sites are not directed at children under the age of 13. In the event that WWF learns that it has collected personal information from a child under age 13 without parental consent, we will delete that information as quickly as possible. If you believe that we might have collected any personal information from a child under 13, [please contact us](https://help.worldwildlife.org/hc/en-us/requests/new).
 
 ### **Your California Privacy Rights**
 
@@ -121,6 +123,12 @@ The Sites are controlled and operated by us from the United States and are not i
 
 This Privacy Policy shall apply to the following websites and all associated subdomains:
 
+  * wwfparcindex.org / wwfparcindex.com
+
+
+  * storyofwater.org / northerngreatplains.org
+
+
   * www.wwfclimatecrowd.org
 
 
@@ -145,7 +153,7 @@ This Privacy Policy shall apply to the following websites and all associated sub
 
 ### **Questions/Contact Information**
 
-If you have any questions about this Privacy Policy, please visit the “Help” section of the Sites, where you can view [Frequently Asked Questions](https://worldwildlife.custhelp.com/app/answers/list), [submit a question via email](https://worldwildlife.custhelp.com/app/ask/session/L3RpbWUvMTQwNjgzNjIxOS9zaWQvY2tRX3VILWw%3D) and receive assistance from a WWF member services representative. You can also send a letter to:
+If you have any questions about this Privacy Policy, please visit the “Help” section of the Sites, where you can view [Frequently Asked Questions](https://help.worldwildlife.org/hc/en-us), [submit a question](https://help.worldwildlife.org/hc/en-us/requests/new) and receive assistance from a WWF member services representative. You can also send a letter to:
 
 Website Director World Wildlife Fund  
 1250 24th Street  
