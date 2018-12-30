@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betterbathrooms.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624204202id_/https%3A//www.betterbathrooms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betterbathrooms.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230200317id_/https%3A//www.betterbathrooms.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ This privacy notice therefore aims to be completely transparent about how we han
 
 ### Who we are:
 
-BetterBathrooms (referred to in this policy as “we”, “us” or “our) is a trading name of:
+BetterBathrooms (referred to in this policy as “we”, “us” or “our") is a trading name of:
 
 Better Bathrooms (UK) Limited  
 Horizon Park  
@@ -28,6 +28,10 @@ Horizon Park
 Greenfold Way  
 Leigh  
 WN7 3XJ
+
+**Email:**
+
+dpo@betterbathrooms.com
 
 ### The personal data we collect:
 
@@ -219,6 +223,10 @@ Horizon Park
 Greenfold Way  
 Leigh  
 WN7 3XJ
+
+**Email:**
+
+dpo@betterbathrooms.com
 
 Better Bathrooms cookies, like all cookies, are small files that websites put on your computer to help make your visits relevant, easier and faster. Most cookies are essential for websites to work and others remember details about you to give you a better and more enjoyable online experience. For example, a cookie will remember products that you put in your shopping basket, without this cookie, you will have to add those items to your basket every time you visit a different page on that website. So as you can see, cookies are very important in the function of any website. Below we will be talking about the different types of cookies that we use and what they are used for, please read through this information to ensure an understanding of cookies and how they are used.
 
