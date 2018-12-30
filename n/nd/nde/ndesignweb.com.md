@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ndesignweb.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022002237id_/http%3A//www.ndesignweb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ndesignweb.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230143959id_/http%3A//www.ndesignweb.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - NDESIGN
 
@@ -18,7 +18,7 @@ When you place an order, we will ask you to set up “your account,” which inc
 
 If we receive updated account information from third parties, we may revise your account for you so that we can efficiently process your orders, deliver your packages or otherwise communicate with you. For example, we may receive customer information from our shippers. In addition, we may acquire customer names, e-mail addresses and mailing addresses for select mailings from third parties.
 
-_Other Information You Provide:_ We collect additional information that you choose to give us. For example, you provide information to us when you complete surveys or contest entry forms, sign up for special discounts or coupons, communicate with us by e-mail, phone or otherwise, provide product reviews, or provide alternative delivery addresses.
+ _Other Information You Provide:_ We collect additional information that you choose to give us. For example, you provide information to us when you complete surveys or contest entry forms, sign up for special discounts or coupons, communicate with us by e-mail, phone or otherwise, provide product reviews, or provide alternative delivery addresses.
 
 ##### Security.
 
@@ -52,4 +52,4 @@ You can access all your personally identifiable information that we collect onli
 
 ##### How To Contact Us.
 
-Should you have other questions or concerns about these privacy policies, please call us at 614.655.7 **WEB** (7932), or contact us by filling out the form on our [Contact Page](http://www.ndesignweb.com/contact/).
+Should you have other questions or concerns about these privacy policies, please call us at 614.655.7 **WEB** (7932), or contact us by filling out the form on our [Contact Page](https://web.archive.org/contact/).
