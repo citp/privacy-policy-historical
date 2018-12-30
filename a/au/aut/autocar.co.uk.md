@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the autocar.co.uk privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624102306id_/http%3A//www.haymarket.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autocar.co.uk privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230100229id_/http%3A//www.haymarket.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Haymarket Media Group Privacy Notice - Haymarket
 
-Last updated: 15th May 2018.
+Last updated: 2nd November 2018.
 
 ## Introduction
 
-Haymarket Media Group Limited respects and is committed to protecting your privacy. We aim to maintain consistently high standards in our use and storage of your personal data, and endeavour to comply with the Data Protection Act 1998, the EU General Data Protection Regulation (GDPR) and other relevant legislation.
+Haymarket Media Group Limited respects and is committed to protecting your privacy. We aim to maintain consistently high standards in our use and storage of your personal data, and endeavour to comply with the Data Protection Act 2018, the EU General Data Protection Regulation (GDPR) and other relevant legislation.
 
 To reflect changes in privacy laws, this updated Privacy Notice aims to clearly inform you of how we use your personal data, how we ensure it is kept secure and your choices about its use. We hope this can help you to make informed decisions when using our websites or other services we provide.
 
@@ -33,27 +33,15 @@ If you have any questions about this Privacy Notice you can contact us in the fo
 Haymarket Media Group's registered office is Bridge House, 69 London Road, Twickenham, TW1 3SP.  
 Registered in England and Wales under the company number: 00267189.  
 VAT registration number is GB232584272.  
-ICO registration number is: Z1860880.
+ICO registration number is: ZA445905.
 
 ### Our brands
 
 #### Haymarket Automotive brands
 
-#### Haymarket Consumer Media brand
-
 #### Haymarket Business Media brands
 
 Please be aware our brands based overseas will be subject to different Privacy Notices.
-
-### Our Group
-
-Listed below are the Haymarket Group of Companies - registered in England and Wales.
-
-Haymarket Media Group Ltd – company number 00267189  
-Haymarket Exhibitions Ltd – company number 2457048  
-Haymarket Group Ltd – company number 2809261  
-Haymarket Publishing Services – company number 0813651  
-Haymarket Network Ltd – company number 0834207
 
 ## Collection of your personal data
 
@@ -87,7 +75,7 @@ When you visit one of our websites for the first time, you will receive a "pop-u
 We sometimes combine information we have collected from our websites or other sources, with information received from other organisations. This is used to:
 
   * verify the personal data we hold for you (e.g. to check your postal address is correct)
-  * enhance the content and relevance of the advertising we provide to you. To learn more please see Personalise website content and our Cookie Notice.
+  * enhance the content and relevance of the advertising we provide to you. To learn more please see Personalisation of marketing & website content and our Cookie Notice.
 
 
 
@@ -108,12 +96,12 @@ Legitimate Interests - for some of our activities we rely on our legitimate busi
   * manage specific aspects of our events. To learn more please see Conference events, Award events and Forum events
   * send you marketing communications about our products and services. To learn more please see Marketing communications
   * send you marketing communications related to other companies' products and services (in a business-to-business context). To learn more please see Marketing communications
-  * personalise the marketing content we provide you. To learn more please see Personalise marketing content
+  * personalise the marketing content we provide you. To learn more please see Personalisation of marketing & website content
   * share your contact details with a named sponsor, when you access specific sponsored content. To learn more please see Sponsored content
   * undertake business sales and advertising activities
   * share your CV with recruitment agencies (at your request) when you sign up for our job seeking services
   * research publicly available business contact details. To learn more please see Collection of your personal data and From other organisations or publicly available sources
-  * customise the content you see on our websites. To learn more please see Personalised website content
+  * customise the content you see on our websites. To learn more please see Personalisation of marketing & website content
 
 
 
@@ -204,11 +192,9 @@ It is always your choice and you can stop receiving direct marketing communicati
 
 For electronic marketing communications (via email, sms and phone) we adhere to the rules of the Privacy and Electronic Communications Regulations (PECR).
 
-### Personalise marketing content
+### Personalised marketing & website content
 
-We want to ensure our marketing communications are of interest to you. We therefore use the information we know about you to tailor our messages to be more relevant. We will use details such as your gender, age, geographical location, previous transactional history, and site usage to try and do this. You have the right to object, but this will mean we will be unable to send your marketing communications in future, as we do not wish to send irrelevant messages to you. To learn more please see How to stop marketing communications.
-
-### Personalise website content
+We want to ensure our marketing communications are of interest to you. We therefore use the information we know about you to tailor our messages to be more relevant. We will use details such as your gender, age, geographical location, previous transactional history, website usage, and your interactions with our marketing content to try and do this. Please also see our Cookie Notice. You have the right to object, but this will mean we will be unable to send your marketing communications in future, as we do not wish to send irrelevant messages to you. To learn more please see How to stop marketing communications.
 
 We believe website content is more interesting to you when it is relevant. We provide tailored recommendations and advertisements to customise the content that you see on our websites. To do this, we use cookies and similar technologies through various technology partners to help us understand how you interact with our websites (e.g. the content you viewed on a previous visit or aggregated website performance analytics). To learn more please see our Cookie Notice.
 
@@ -216,7 +202,7 @@ We believe website content is more interesting to you when it is relevant. We pr
 
 We don't want to send you marketing communications if you do not want to receive them. You can stop receiving these messages from us at anytime.
 
-We have a diverse range of brands in our Haymarket Automotive, Haymarket Consumer Media and Haymarket Business Media divisions, which you may not realise are all published by Haymarket Media Group. You may therefore wish to be selective and just stop receiving marketing communications from one brand rather than from them all.
+We have a diverse range of brands in our Haymarket Automotive, and Haymarket Business Media divisions, which you may not realise are all published by Haymarket Media Group. You may therefore wish to be selective and just stop receiving marketing communications from one brand rather than from them all.
 
 **Emails** : There will always be an unsubscribe link on any marketing email you receive from us. Some of our brands (where relevant) provide a level of granularity to the types of emails you can unsubscribe from.  
 **Post** : We will inform you in any postal communication how you can stop receiving direct mail in future.  
@@ -249,7 +235,7 @@ We will always make it clear and provide you with choices if another organisatio
 
 ### Our service suppliers
 
-We use a number of companies to help us in providing a professional service to our customers. For example, a subscription fulfilment bureau and call centres. These companies only act under strict contractual instruction from us. We limit the personal data we share with our suppliers to only those necessary to fulfil the specific service they provide to us. To learn more please see Fulfilment of a service
+We use a number of companies to help us in providing a professional service to our customers. For example, a subscription fulfilment bureau, call centres and legal and professional services. These companies only act under strict contractual instruction from us. We limit the personal data we share with our suppliers to only those necessary to fulfil the specific service they provide to us. To learn more please see Fulfilment of a service
 
 ### Audit and verification
 
@@ -315,13 +301,13 @@ If you wish for your personal data to be deleted we will assess any such request
 
 ## Keeping your data secure
 
-### Where we store your personal data
+### Where we store and process your personal data
 
 Ensuring your personal data is kept and transferred securely is of the highest importance to us.
 
 We hold your personal data on our secure systems, mainly based within the UK and the European Economic Area (EEA). Please also see How we keep your personal data secure. Where we employ service providers, we have appropriate agreements in place to ensure your personal data is protected.
 
-Your personal data may be transferred to a country outside the European Economic Area (EEA). This may be required for the purposes of our staff based outside the EEA or where a supplier of a service is based outside the EEA. We will take all reasonable steps necessary to ensure your personal data is treated securely. This includes the use of Binding Corporate Rules and Model Contractual Arrangements as approved by the European Commission, and the EU-US Privacy Shield.
+Your personal data may be transferred to a country outside the European Economic Area (EEA). This may be required for the purposes of our staff based outside the EEA or where a supplier of a service is based outside the EEA. We will take all reasonable steps necessary to ensure your personal data is treated securely. This includes Model Contractual Arrangements as approved by the European Commission, and the EU-US Privacy Shield.
 
 ### How we keep your personal data secure
 
@@ -359,7 +345,7 @@ To help us better manage content we employ web beacons in emails that we send to
 
 #### Pixels
 
-A pixel refers to the code that is placed on your computer in order to trigger a cookie. We sometimes use this methodology to allow us to deliver more relevant messages to you.
+A pixel refers to the code that is placed on your computer in order to trigger a cookie. We sometimes use this methodology to allow us to deliver more relevant messages to you e.g. to understand how you interact with our email marketing.
 
 #### Log Files
 
@@ -412,7 +398,7 @@ We use Google AdWords to promote our products and services through Google's adve
  
 
 **Google Analytics**  
-We use Google Analytics to provide insight into how visitors find and use our web pages so that we can evaluate and develop them.  
+We use Google Analytics to provide insight into how visitors find and use our web pages so that we can evaluate and develop them. We also use Google Analytics to analyse how our audiences interact with our marketing content, for example what content is “clicked on”, so we can ensure we present relevant content which our audiences are interested in.  
  
 
 **Lotame**  
@@ -421,6 +407,22 @@ We use Lotame to allocate our audiences into segments based on their browsing be
 
 **Facebook**  
 We use Facebook to promote our products and services.  
+ 
+
+**GroupM**  
+We use GroupM to help personalise the advertising you see.  
+ 
+
+**Outbrain**  
+We use Outbrain for content recommendations.  
+ 
+
+**Skimlinks**  
+We use Skimlinks to help us attribute traffic.  
+ 
+
+**Dax**  
+We use Dax to customise the Radio adverting provided.  
  
 
 #### External web services
@@ -462,3 +464,10 @@ Your Online Choices website, tips and advice about Online Behavioural Adverts an
 ### Contact us about Cookies
 
 If you want to find out more or request information about our Cookie Notice use Our contact details
+
+**Changes to our Privacy Notice**  
+If we decide to change our privacy notice we will post the changes here.
+
+July 2018: Updated to include additional technology partners who deploy cookies on our websites, with links to further information and controls.
+
+October 2018: Removed other companies within the Haymarket Media Group. Updated the website and marketing personalisation section. Added email marketing as an example of how pixels are used, within the ‘Pixels’ section. Updated the Google Analytics tech supplier section to illustrate its use for personalising content.
