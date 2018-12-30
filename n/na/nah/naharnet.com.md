@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naharnet.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624081629id_/http%3A//www.naharnet.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naharnet.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230075015id_/http%3A//www.naharnet.com/privacy_policy) for the most accurate reproduction.*
 
 # 
 
