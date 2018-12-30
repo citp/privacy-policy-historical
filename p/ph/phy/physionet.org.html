@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the physionet.org privacy policy that was archived on 2016-11-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161127140353id_/http%3A//www.physionet.org/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the physionet.org privacy policy that was archived on 2018-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181231005659id_/http%3A//physionet.org/privacy.shtml) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
+<!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8">
 
     
@@ -10,7 +10,7 @@
 <link rel="stylesheet" href="/pn/print.css" type="text/css" media="print">
 <link rel="stylesheet" href="/pn/css/physionet.css" media="all">
 
-<style type="text/css">
+<style>
 #toc, #doi { margin-right: 1em; }
 
   
@@ -22,32 +22,28 @@
 
 h1, h2, h3 { color: #694;
              background: #daf3ce; }
-a[href^='http://www.physionet.org']
+a[href^='http://physionet.org']
  { background: none; padding-right: 0; }
 </style>
-<!-- scripts from Rich Callogero, May 2016 -->
-<script async="" src="https://web.archive.org/web/20170331125930/https://www.google-analytics.com/analytics.js"></script><script src="/pn/js/jquery-1.11.3.min.js"></script>
+<script src="/pn/js/jquery.min.js"></script>
 <script src="/pn/js/hoverIntent.js"></script>
 <script src="/pn/js/superfish.min.js"></script>
-
-<!--<script src="pn/js/debug.js"></script>-->
 <script src="/pn/js/accessible-superfish.js"></script>
 <script src="/pn/js/physionet.js"></script>
-<!-- -->
-<script type="text/javascript" src="/pn/js/jquery.tableofcontents.min.js"></script>
-<script type="text/javascript">
+<script src="/pn/js/jquery.tableofcontents.min.js"></script>
+<script>
   $(document).ready(function(){
     $('ul.sf-menu').superfish({ autoArrows: false });
 
     if ($('h2').length) {
       $('#tocwrapper').append('<ul id="toc"></ul>');
       $('#toc').tableOfContents(null, { startLevel: 2 });
+
     }
 
   });
 </script>
 
-<script type="text/javascript" src="/users/shared/analytics.js"></script>
 
 </head>
 
@@ -55,7 +51,7 @@ a[href^='http://www.physionet.org']
 
   <header class="banner">
     <a class="hide" href="#content">Skip to content</a>
-    <div style="width: 100%; position: absolute; top: 0;  z-index: 1; background-color: #694; min-width: 700px; padding: 0;">
+    <div style="width: 100%; float: left; background-color: #694; min-width: 700px; padding: 0;">
       <div class="topmenu" style="float: left; padding: 0.5em 2em 0.5em 0.5em;">
 	<!--	  <ul class="sf-menu sf-shadow sf-arrows"  >-->
 	<ul class="sf-menu sf-js-enabled sf-arrows" role="tree" tabindex="0" aria-activedescendant="a11y-activeDescendant" style="touch-action: pan-y;">
@@ -74,6 +70,8 @@ a[href^='http://www.physionet.org']
 <li role="treeitem"><a href="/about.shtml" tabindex="-1">About PhysioNet</a></li>
 <li role="treeitem" aria-expanded="false"><a href="/challenge/" class="" tabindex="-1">Challenges<span class="arrow-right" role="presentation"></span></a>
 <ul role="group" style="display: none;">
+<li role="treeitem"><a href="/challenge/2018/" tabindex="-1">2018</a></li>
+<li role="treeitem"><a href="/challenge/2017/" tabindex="-1">2017</a></li>
 <li role="treeitem"><a href="/challenge/2016/" tabindex="-1">2016</a></li>
 <li role="treeitem"><a href="/challenge/2015/" tabindex="-1">2015</a></li>
 <li role="treeitem"><a href="/challenge/2014/" tabindex="-1">2014</a></li>
@@ -246,10 +244,10 @@ a[href^='http://www.physionet.org']
 	<!--	  </ul>-->
       </div>
       
-      <script src="/pn/breadcrumbs.js"></script><div class="breadcrumbs"><div style="font-size: smaller; margin:0px"> &gt; <span class="crumb"><a href="https://web.archive.org/web">web</a></span> &gt; <span class="crumb"><a href="https://web.archive.org/web/20161127140353id_">20161127140353id_</a></span> &gt; <span class="crumb"><a href="https://web.archive.org/web/20161127140353id_/http%3A">http%3A</a></span> &gt; <span class="crumb"><a href="https://web.archive.org/web/20161127140353id_/http%3A/"></a></span> &gt; <span class="crumb"><a href="https://web.archive.org/web/20161127140353id_/http%3A//www.physionet.org">www.physionet.org</a></span></div></div>
+      <script src="/pn/breadcrumbs.js"></script>
       
       <div style="float: right; padding: 0.6em; margin: 0;" id="searchForm">
-	<script type="text/javascript">
+	<script>
 document.write("<form action=\"/search-results.shtml\"> " +
 	       "<input type=\"text\" name=\"q\" size=\"25\" /> " +
 	       "<input type=\"submit\" name=\"sa\" value=\"Search\" /> " +
@@ -272,7 +270,7 @@ document.write("<form action=\"/search-results.shtml\"> " +
     <div class="pbanner"><!-- pbanner is set to display: none -->
       from <b>PhysioNet</b>, the research resource for complex physiologic signals
     </div>
-    <div style="width: 100%; min-width: 700px; margin:  0 0 2.7em 0; background-color: transparent; padding: 0;">
+    <div style="width: 100%; min-width: 700px; margin: 0; background-color: transparent; padding: 0;">
       <!-- provides space above h1 header, so it isn't hidden by banner -->
       <div id="top"><!-- need nested div to link to top lands in right place --></div>      
     </div>
