@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ceoexpress.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629001821id_/https%3A//ceoexpress.com/html/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ceoexpress.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230105014id_/https%3A//www.ceoexpress.com/html/Privacy.aspx) for the most accurate reproduction.*
 
 # CEOExpress: Business portal for executives created by a busy executive
 
@@ -35,7 +35,7 @@ Subpoena compliance information
 
 Registration: During the registration process we ask you to supply personal information such as your name, email address and title as well as general information such as your industry, company size, zip or postal code, state or province, and country. CEOExpress Company LLC collects this information to know our users better, with the goal of providing you with the best possible services.
 
-Our E-commerce partner, Authorizenet.com, the world's leading payment authorization service for online business, is responsible for handling your payment authorization. They collect your financial data including contact name, credit card information and demographic information on their secure site. This information is strictly confidential and their [Privacy Statement](http://www.authorizenet.com/company/privacy.php) is available online. CEOExpress does not retain copies of this information on its own servers.
+Our E-commerce partner, Authorizenet.com, the world's leading payment authorization service for online business, is responsible for handling your payment authorization. They collect your financial data including contact name, credit card information and demographic information on their secure site. This information is strictly confidential and their [Privacy Statement](https://www.authorize.net/about-us/privacy/) is available online. CEOExpress does not retain copies of this information on its own servers.
 
 Web Site Usage Information: We automatically collect IP addresses and Web site usage information when you visit our Web site. This information helps us evaluate how our subscribers use and navigate our Web sites on an aggregate basis, including the number and frequency of visitors to each Web page, and the length of their visits. We do not monitor usage on an individual basis.
 
