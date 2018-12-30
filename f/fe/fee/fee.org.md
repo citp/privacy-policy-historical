@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fee.org privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624174459id_/https%3A//fee.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fee.org privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230165646id_/https%3A//fee.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Foundation for Economic Education
 
@@ -66,11 +66,11 @@ Our products and services are generally not directed to children under 13. We do
 
 ## Controlling your personal information
 
-If you have previously agreed to allow your personal information to be used for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#582f3d3a35392b2c3d2a181e1d1d76372a3f).
+If you have previously agreed to allow your personal information to be used for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#04736166696577706176444241412a6b7663).
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7a0d1f18171b090e1f083a3c3f3f5415081d). We will promptly correct any information found to be incorrect.
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#65120007080416110017252320204b0a1702). We will promptly correct any information found to be incorrect.
 
 If you receive an SMS message and would like to stop all further SMS communication, reply to the message with "STOP".
 
@@ -78,6 +78,6 @@ Disable push notifications [here](https://fee.org/my-account/notifications/).
 
 ## Donor Privacy Policy
 
-The Foundation for Economic Education respects the privacy of its donors and their choice not to have personal information shared. FEE does not sell, rent, or trade donor information (collected online or offline) to organizations that use such information for commercial purposes. Occasionally, FEE makes donor lists available for limited use by selected nonprofits in return for donor lists from those organizations. This helps FEE continue to grow its global base of support.
+The Foundation for Economic Education respects the privacy of its donors and their choice not to have personal information shared. FEE does not sell, rent, or trade donor information (collected online or offline) to organizations that use such information for commercial purposes. Occasionally, FEE makes donor lists available for limited, one-time use by selected nonprofits in return for donor lists from those organizations. This helps FEE continue to grow its global base of support.
 
 FEE donors may request that their contact information be excluded from any list exchanges. Please direct all such requests to Justin Streiff by emailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection), calling (404) 554-9980, or writing to FEE, 1819 Peachtree Road NE, Suite 300, Atlanta, GA 30309. We will honor such requests immediately.
