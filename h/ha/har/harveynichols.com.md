@@ -1,106 +1,207 @@
-> *The following text is extracted and transformed from the harveynichols.com privacy policy that was archived on 2017-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170323172301id_/http%3A//www.harveynichols.com/information/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harveynichols.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230020244id_/https%3A//www.harveynichols.com/information/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-We take your privacy very seriously and treat all your personal information as confidential. This policy relates to your use of this website; the data you supply to us (including data gathered in our stores) and our use of that data.
+  * [ Terms & Conditions ](https://www.harveynichols.com/information/terms-conditions/)
+  * [ Payment & Security ](https://www.harveynichols.com/information/payment-security/)
+  * [ Policies ](https://www.harveynichols.com/information/policies/)
 
-### Collection, use and storage of data
 
-### What sort of data do you collect?
-
-## Personal information
-
-When you shop on this website, you will be asked to input personal information such as your name, email address, billing address, delivery address, telephone number(s), product selections and a password. Basic personal details, including your name and email address, are also requested when you sign up to receive our email newsletter.
-
-We may ask you for your date of birth (optional), which will be used to identify you if you wish to make changes to your account or your order by telephone.
-
-We do not store credit or debit card information.
-
-## Your use of our website
-
-We collect, and our third party providers may collect, information about where you have come from on the internet and how you are accessing the site (for example, the URL you came from before you visited this website and your IP address), your browser type, your geographical location, the pages of our website you viewed during your visit, the advertisements you clicked on, and any search terms that you entered. We may collect this information about all visitors, even those who do not register with us. For more information, see our [Cookie Policy](https://web.archive.org/information/policies/cookie-policy/).
-
-### How do you use this data?
-
-  * To process your orders, from delivery to payment and returns. 
-  * To send you marketing communications, where you have requested them. 
-  * For analytical purposes, to learn about how shoppers are using our website. This helps us improve and personalise the site and its services to you. 
-  * To prevent or detect fraud and abuses of our website.
+  * [ Privacy Policy ](https://www.harveynichols.com/information/policies/privacy-policy/)
+  * [ Cookie Policy ](https://www.harveynichols.com/information/policies/cookie-policy/)
+  * [ Competition Terms ](https://www.harveynichols.com/information/policies/competition-terms/)
+  * [ Returns Policy ](https://www.harveynichols.com/information/policies/return-policy/)
+  * [ WEEE Policy ](https://www.harveynichols.com/information/policies/weee-policy/)
 
 
 
-### How do you keep my personal information and payment details secure?
+## Introduction
 
-All information about our customers and site visitors is kept on a secure server and we fully comply with all applicable UK data protection and consumer legislation. Any personal information that you give us (or that is available on public registers), and any information we use to identify you, is held in accordance with our registration with the Information Commissioner's Office.
+Harvey Nichols and Company Limited ("Harvey Nichols", “we”, “us”) includes its holding company and any of its subsidiary or associated companies from time to time or those of any such holding company wherever registered or incorporated.
 
-### SSL and encryption technology
+Harvey Nichols is committed to protecting and respecting any personal information you share with us. This statement describes what types of information we collect from you, how it is used by us, how we share it with others, how you can manage the information we hold and how you can contact us.
 
-We have implemented internet security technology to ensure that it is safe for you to shop with us. We use internet standard encryption technology to scramble your personal data when you give it to us. This process is known as Secure Sockets Layer (SSL) and we are constantly updating our technology to provide you with the maximum level of security.
+Sometimes, the contents of this statement may change so you may wish to check this page occasionally to ensure you are still happy to share your information with us. Where possible, we will also contact you directly to notify you of these changes.
 
-To check you are in a secure area of our website, you can look at the bottom right of your browser window and you will see a closed padlock or an unbroken key. This indicates that SSL is enabled and your transaction is secure.
+This version of our Privacy Notice is live from 3 May 2018.
 
-Additionally, we do not hold any of your credit card details anywhere on our website. They are simply passed securely to our e-payments processor for authorisation by your bank.
+## What information do we collect?
 
-### MasterCard SecureCode and Verified by Visa   
-(3D Secure)
+We only collect information that is necessary, relevant and adequate for the purpose you are providing it for.
 
-MasterCard SecureCode and Verified by Visa are services that let you shop online with added confidence and security, and protect you from fraud.
+### Personal data you share with us
 
-To use MasterCard SecureCode and Verified by Visa, all you need to do is register your card once, and create a password. Then, when you make a purchase online, a MasterCard SecureCode or Verified by Visa window will appear. Simply enter the characters requested from your password and click on the 'Submit query' button. Your identity is verified and the purchase is secure.
+We may ask for personal data when you order from us; this includes when you order from the Website or over the phone, when you register for a My HN or Rewards by Harvey Nichols account, when you book a table at one of our restaurants, when you use our stylists or beauty services, or when you sign up to our mailing list.
 
-If you are registered for the scheme and have a password already, you will be asked to enter characters from your password after you have entered your card details and clicked on the ‘Continue to payment’ button. Your card provider will then verify the characters you have entered and, if they match its records, approve your transaction.
+The information we collect includes but is not limited to:
 
-If your card provider is registered for the scheme but you personally are not, we will offer you the chance to sign up and create a password during the checkout process. This is all handled through MasterCard SecureCode or Verified by Visa itself. We simply pass your encrypted details on to your card provider securely.
-
-If you would like further information, please contact your MasterCard or Visa issuer.
-
-### What you can do to stay secure
-
-There are things you can do to protect your personal information and transactions when shopping online. Here are a few of them: 
-
-  * When using a public computer, always log out and close the browser when you have finished.
-  * Do not share your password with anybody else or write it down anywhere.
-  * When you create a password, use at least eight characters and a combination of letters and numbers. Do not use any personal information in your password that can be easily obtained (such as your name). We also recommend that you change your password often.
+  * Name (including title);
+  * Delivery Address;
+  * Billing Address;
+  * Payment card details;
+  * Phone number;
+  * Date of birth;
+  * Email address.
 
 
 
-Use different passwords for your different online accounts.
+### Personal data we receive from other sources
 
-### Marketing communications
+We sometimes obtain information about you or your purchases from other third parties, including our Concession partners on the purchases you make with them in our stores. These companies have their own privacy policies explaining how they use and share your personal data. You should carefully review these privacy policies prior to engaging with the third party, to make sure that you are happy with them.
 
-You can sign up to receive marketing communications from Harvey Nichols through the online sign-up form; when you register for an online account, or via the opt-in tick box found during the checkout process. Opt-in boxes will be pre-ticked on your behalf, but you may always choose to un-tick the box. You can also sign up for marketing communications instore; when making a restaurant booking; when entering competitions, or when using online services that require registration, such as Wishlist.
+### Personal data we collect about you
 
-In signing up, you consent to receive information from us about products, promotions or special offers that we feel may be of interest to you. These may be sent by email, mail, telephone or SMS message, or take place instore. Promotions may also be sent to you based on your shopping history.
+We will collect your information when you use Harvey Nichols’s websites, applications and our customer service centres. Some of this data does not identify you personally but provides us with information about how you use our services and engage with us in order to improve our services and make them more useful to you.
 
-### How to unsubscribe from email communications
+The information we collect includes but is not limited to:
 
-You can unsubscribe from our newsletter via the 'Unsubscribe' link provided in all emails we send; by replying to any marketing email with the word ‘STOP’ either in the subject line or body of the email, or by calling our Customer Services Team on +44 (0)20 7201 8088. Overseas customers, please call +44 (0)20 7201 8088 or email [compliance@harveynichols.com.](mailto:compliance@harveynichols.com?Subject=I%27d%20like%20to%20unsubscribe)
+  * The date and time you used our services;
+  * The pages you visited on our website and how long you visited us for;
+  * The products you viewed or added to your basket;
+  * Your IP address;
+  * Your location (where you have permitted access to this);
+  * The internet browser and devices you are using;
+  * Cookie or Pixel information (for more information please see our Cookie Policy);
+  * Voice recordings of calls you make to our customer service centre;
+  * Hero “Live chat” record;
+  * Any information within correspondence you send to us;
+  * Where you engage with us in a business context, we may collect your job title, company contact details (including email addresses), and company details (some of which we may obtain from an online or public business directories).
 
-Please be aware that it may take up to 15 days to stop receiving emails, and a later opt-in will supersede an earlier opt-out.
 
-### Disclosure to third parties
 
-If we are requested by the police, or any other regulatory or government authority investigating suspected illegal activities, to provide your personal information and/or user information, we will do so.
+## How do we use this information?
 
-Your personal information may be disclosed to other businesses within the Harvey Nichols Group of companies, and to reputable third party companies who will help process your order. These may include our IT suppliers and courier or shipping companies.
+Harvey Nichols will only process information that is necessary for the purpose for which it has been collected. You will always have the option not to receive marketing communications from us (and you can withdraw your consent or object at any time). We will never send you unsolicited ‘junk’ email or communications, or share your personal information with anyone else who might.
 
-We may also disclose your information to reputable third companies for the purpose of insight and analysis, and to third party companies, where you have opted-in for third party promotions. We require all such third parties to treat your personal information as fully confidential and to fully comply with all applicable UK data protection and consumer legislation in place.
+There are various ways in which we may use or process your personal information. We list these below:
 
-With your prior approval, we may also pass your details to third parties or research agencies who may contact you by post, email or telephone. We may also share aggregate information with selected third parties, but we do not disclose individual names or any identifying information without your permission.
+### Consent
 
-If you have provided your details as part of a promotion with a third party and have agreed for us to share your data with them, we will do so on your behalf.
+Where you have provided your consent, we may use and process your information to contact you from time to time through electronic channels such as email about promotions, events, products, services or information which we think may be of interest to you.
 
-### How will I know if this Privacy Policy changes?
+You can withdraw your consent at any time by emailing customerservices@harveynichols.com or, in relation to any marketing messages you receive, by selecting the unsubscribe option included in those messages.
 
-If our policy changes in the future - to comply with new legislation, for example - we will update this page with the new details. Please check back to keep up to date with any changes.
+### Contractual performance
 
-  
-The data controller of your data is:   
-HARVEY NICHOLS & CO LTD   
-361-365 Chiswick High Road   
-Chiswick   
-London   
-W4 4HS   
-ICO Registration Number: Z8687407 
+We may use and process your personal information where this is necessary to perform a contract such as to fulfil and complete your orders and purchases.
 
-If you have questions about our Privacy Policy, please contact [compliance@harveynichols.com](mailto:compliance@harveynichols.com).
+We may also use and process your personal information if you have signed up to our Rewards by Harvey Nichols programme, in order to send you information about how the programme works, statement information, and account updates.
+
+### Legal obligation
+
+We may process your personal information to comply with any legal and/or regulatory requirements.
+
+### Vital interest
+
+We may need to process your personal information to contact you if there is an urgent safety or product recall notice and we need to tell you about it.
+
+### Legitimate interests
+
+We may use and process your personal information as set out below where it is necessary for us to carry out activities for which it is in our legitimate interests as a business to do so.
+
+#### Processing necessary for us to support customers with sales and other enquiries
+
+In order to support sales and/or queries, we may use your information: 
+
+  * To respond to correspondence you send to us and fulfil the requests you make to us (for example: sending you information about a product or making an appointment with Beauty Concierge.
+
+
+
+#### Processing necessary for us to respond to understanding customers’ needs
+
+To develop and improve our relationship with you, we may use your information:
+
+  * To analyse, evaluate and improve our products and services, including use of our website, applications, customer service centre, stores and restaurants, in order to improve your customer experience (where possible we will use data amalgamated from many people so that it doesn’t identify you personally);
+  * To undertake market analysis and research (including contacting you with customer surveys) so that we can better understand you as a customer
+  * To provide tailored offers, products and services by post that we think you will be interested in. We will only send email marketing communications to you if you have provided your consent for us to do so;
+  * We may use automated methods to analyse, combine and evaluate information that you have provided to us (including the sharing of your personal information within our group of companies). We collect and analyse this information in this way so that we can deliver the most appropriate customer experience to you by tailoring, personalising and making relevant all our service and communications (for example, when we receive a product in we think you might like).
+
+
+
+#### Processing necessary for us to operate the administrative and technical aspects of our business efficiently and effectively
+
+To protect your personal information, we may use your data;
+
+  * To verify the accuracy of information that we hold about you and create a better understanding of you as a customer;
+  * For network and information security purposes i.e. in order for us to take steps to protect your information against loss, damage, theft or unauthorised access;
+  * To comply with a request from you in connection with the exercise of your rights (for example where you have asked us not to contact you for marketing purposes, we will keep a record of this on our suppression lists in order to be able to comply with your request);
+  * To inform you of updates to our terms and conditions and policies.
+
+
+
+#### Processing necessary for us to promote our business, brands and products and measure the reach and effectiveness of our campaigns
+
+To support and promote the Group, we may use your information:
+
+  * To send you marketing information from time to time after you have purchased a product or service from us, or made a purchasing enquiry or closed your browser with items in your shopping basket. You have the right to opt out of us sending you this information at any time;
+  * As a business customer, acting on behalf of said business or where we have obtained your business contact details from our Corporate Hampers service, we may contact you from time to time with marketing information (unless you object) if you have expressly indicated to us that you are acting on behalf of said business or where we have obtained your business contact details from our Corporate Hampers service. In relation to any such information we send by email we will include an option allowing you to object to receiving future messages by unsubscribing;
+  * To show you targeted advertising online through social media and other platforms operated by other companies, unless you object. You may receive advertising based on information about you that we have provided to the platform or because, at our request, the platform has identified you as having similar attributes to the individuals whose details it has received from us. To find out more, please refer to the information provided in the help pages of the platforms on which you receive advertising from us;
+  * To identify and record when you have received, opened or engaged with our website or electronic communications (please see our Cookie Policy for more information);
+  * To administer competitions and promotions that you enter with us from time to time and to distribute prizes.
+
+
+
+## How do we share this information?
+
+We do not sell your information to third parties. However, we may from time to time disclose your information to the following categories of companies or organisations to which we pass the responsibility to handle services on our behalf:
+
+  * Service providers who help us to operate our Website and App, fulfil your orders and deliver our products to you, including: 
+    * Credit reference agencies;
+    * Couriers;
+    * Payment providers;
+    * IT support;
+    * Direct marketing communications agencies and consultants;
+    * Market research and market analytics service providers;
+    * Legal and other professional advisors.
+  * Certain regulatory bodies, government and enforcement agencies, where required. 
+  * Companies like Google/Facebook to show you products that might interest you while you’re browsing the internet. This is based on either your marketing consent or your acceptance of cookies on our websites. See our Cookies Notice for details.
+
+
+
+We take steps to ensure that any third party partners who handle your information comply with data protection legislation and protect your information just as we do. We only disclose personal information that is necessary for them to provide the service that they are undertaking on our behalf. We will aim to anonymise your information or use aggregated none specific data sets where ever possible.
+
+Due to the international nature of our business, there may be some instances where your information is processed or stored outside of the EU. In those instances, we will ensure that appropriate safeguards are in place for that transfer and storage as required by applicable law.
+
+## How long do we keep your information for?
+
+We will not hold your personal information in an identifiable format for any longer than is necessary. If you are a customer or otherwise have a relationship with us we will hold personal information about you for a longer period than if we have obtained your details in connection with a prospective relationship.
+
+## How can you manage the information we hold about you?
+
+You have the right as an individual to access any personal information we hold about you and make corrections if necessary. You also have the right to withdraw any consent you have previously given us and, in certain circumstances, ask us to erase information we hold about you. You can also object to us using your personal information (where we rely on our business interests to process and use your personal information).
+
+You have a number of rights in relation to your personal information under data protection law. In relation to most rights, we will ask you for information to confirm your identity and, where applicable, to help us search for your personal information. We will respond to you within a month after we have received any request (including any identification documents requested).
+
+You have the right to:
+
+  * Ask for a copy of the information that we hold about you;
+  * Correct and update your information;
+  * Withdraw your consent (where we rely on it);
+  * Object to our use of your information (where we rely on our legitimate interests to use your personal information) provided we do not have any lawful reason to continue to use and process the information. When we do rely on our legitimate interests to use your personal information for direct marketing, we will always comply with your right to object;
+  * Erase your information (or restrict the use of it), provided we do not have any lawful reason to continue to use and process that information;
+  * Provide you your information in a structured data file, where we rely on your consent to use and process your personal information or need to process it in connection with your purchase
+
+
+
+You can exercise the above rights and/or manage your information by contacting us using the details below:
+
+Post:  
+HARVEY NICHOLS & CO LTD,  
+361-365 Chiswick High Road,  
+Chiswick,  
+London,  
+W4 4HS  
+Email: [customerservices@harveynichols.com](mailto:customerservices@harveynichols.com)  
+Phone: [+44 (0)20 7201 8088](tel:+44 \(0\)20 7201 8088)
+
+You have the right to lodge a complaint with a data protection regulator in Europe, in particular in a country you work or live or where your legal rights have been infringed. The contact details for the Information Commissioner’s Office, the data protection regulator in the UK, are below:
+
+Post:  
+Information Commissioner's Office  
+Wycliffe House  
+Water Lane  
+Wilmslow  
+Cheshire  
+SK9 5AF  
+Call: [0303 123 1113](tel:0303 123 1113)  
+Email: [casework@ico.org.uk](mailto:casework@ico.org.uk)
