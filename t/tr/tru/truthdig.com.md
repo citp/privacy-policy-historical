@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truthdig.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624064429id_/https%3A//www.truthdig.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truthdig.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230061158id_/https%3A//www.truthdig.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy & User Agreement - Truthdig: Expert Reporting, Current News, Provocative Columnists
 
