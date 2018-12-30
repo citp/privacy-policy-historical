@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wingoads.com privacy policy that was archived on 2017-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170916052012id_/https%3A//wingoads.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wingoads.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230151104id_/https%3A//wingoads.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy policy | Wingoads Ad Network | Affiliate Network | Best CPA network
 
 ## PRIVACY POLICY
 
@@ -45,7 +45,7 @@ WINGOADS, as person in charge of said file, is committed to respect the confiden
 
 #### YOUR RIGHTS
 
-The user is entitled to access his information, to rectify it if the data is wrong, to be against the processing of his data and to unregister the services of WINGOADS by sending mail to the electronic address info@wingoads.com.
+The user is entitled to access his information, to rectify it if the data is wrong, to be against the processing of his data and to unregister the services of WINGOADS by sending mail to the electronic address [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 WINGOADS will request, at the exact moment of collecting the data, the commercial consent of the user to receive information, advertisement, communications via electronics means about products or services related to WINGOADS' activity and initiatives. At the exact moment of collecting the data, the user will be able to express his or her desire to receive commercial communications or to be against it. In addition, at any given moment the user will be able to modify his or her profile and the account preferences.  
 WINGOADS shall send commercial communications addressing products or services of their own company that are similar to what initially was the purpose of contract with the client.
