@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apache.org privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624092342id_/http%3A//apache.org/foundation/policies/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apache.org privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230200017id_/http%3A//www.apache.org/foundation/policies/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
