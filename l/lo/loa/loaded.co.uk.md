@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loaded.co.uk privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624100650id_/http%3A//loaded.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loaded.co.uk privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230165101id_/http%3A//loaded.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Loaded
 
@@ -8,7 +8,7 @@ This page contains both the Privacy and Cookies policies of “Loaded”.
 
 “Loaded” is a trading style and Registered Trade Mark owned by Downdaniel Investment Holdings Limited and licensed to The Color Company TM Limited. A company registered in England and Wales at 27a Poland Street, London W1F 8QW. Company No. 05266481 Registration No. GB 849 7664 60.
 
-.It is your responsibility to read and understand our Privacy and Cookie policies. You should also read and understand our [Terms](http://loaded.co.uk/terms/).
+.It is your responsibility to read and understand our Privacy and Cookie policies. You should also read and understand our [Terms](https://loaded.co.uk/terms/).
 
 These Privacy and Cookies policies govern your use of all services provided on any digital and/or printed platforms by “Loaded”. These are henceforth known as the ‘Service’, where “Loaded” may be referred to below as ‘We’, ‘Us’ and/or ‘The Site’.
 
