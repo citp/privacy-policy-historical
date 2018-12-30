@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paultan.org privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624031906id_/https%3A//paultan.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paultan.org privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230024758id_/https%3A//paultan.org/privacy-policy) for the most accurate reproduction.*
 
 # Paul Tan's Automotive News - Privacy Policy
 
@@ -183,69 +183,4 @@ In the event of any conflict between the English and other language versions, th
   
   
   
-
-
-Most Read Stories
-
-  * [](https://paultan.org/2018/06/19/new-suzuki-jimny-revealed-a-cool-baby-g-wagen/?utm_source=topstories&utm_medium=internallinks&utm_campaign=internallinks "New Suzuki Jimny revealed - a cool, baby G-Wagen")
-
-## [New Suzuki Jimny revealed - a cool, baby G-Wagen](https://paultan.org/2018/06/19/new-suzuki-jimny-revealed-a-cool-baby-g-wagen/?utm_source=topstories&utm_medium=internallinks&utm_campaign=internallinks)
-
-19th June 2018
-
-  * [](https://paultan.org/2018/06/21/honda-cb650f-kawasaki-z900-abs-triumph-765s-yamaha-mt-09-which-rm50k-bike-is-best-for-you/?utm_source=topstories&utm_medium=internallinks&utm_campaign=internallinks "Honda CB650F, Kawasaki Z900 ABS, Triumph 765S, Yamaha MT-09 - which RM50k bike is best for you?")
-
-## [Honda CB650F, Kawasaki Z900 ABS, Triumph 765S, Yamaha MT-09 - which RM50k bike is best for you?](https://paultan.org/2018/06/21/honda-cb650f-kawasaki-z900-abs-triumph-765s-yamaha-mt-09-which-rm50k-bike-is-best-for-you/?utm_source=topstories&utm_medium=internallinks&utm_campaign=internallinks)
-
-21st June 2018
-
-  * [](https://paultan.org/2018/06/18/no-public-funds-to-spare-for-new-national-car-project-lim-guan-eng/?utm_source=topstories&utm_medium=internallinks&utm_campaign=internallinks "No public funds to spare for new national car project; must be backed by private sector - Lim Guan Eng")
-
-## [No public funds to spare for new national car project; must be backed by private sector - Lim Guan Eng](https://paultan.org/2018/06/18/no-public-funds-to-spare-for-new-national-car-project-lim-guan-eng/?utm_source=topstories&utm_medium=internallinks&utm_campaign=internallinks)
-
-18th June 2018
-
-  * [](https://paultan.org/2018/06/18/honda-hr-v-facelift-launched-in-thailand-new-rs-spec-with-aeb-lanewatch-glass-roof-pearl-red/?utm_source=topstories&utm_medium=internallinks&utm_campaign=internallinks "Honda HR-V facelift launched in Thailand - new RS spec with AEB, LaneWatch, glass roof, pearl red")
-
-## [Honda HR-V facelift launched in Thailand - new RS spec with AEB, LaneWatch, glass roof, pearl red](https://paultan.org/2018/06/18/honda-hr-v-facelift-launched-in-thailand-new-rs-spec-with-aeb-lanewatch-glass-roof-pearl-red/?utm_source=topstories&utm_medium=internallinks&utm_campaign=internallinks)
-
-18th June 2018
-
-  * [](https://paultan.org/2018/06/19/special-number-plates-cost-government-nearly-rm20-million-in-lost-revenue-for-each-series-loke/?utm_source=topstories&utm_medium=internallinks&utm_campaign=internallinks "Special number plates cost government nearly RM20 million in lost revenue for each series - Loke")
-
-## [Special number plates cost government nearly RM20 million in lost revenue for each series - Loke](https://paultan.org/2018/06/19/special-number-plates-cost-government-nearly-rm20-million-in-lost-revenue-for-each-series-loke/?utm_source=topstories&utm_medium=internallinks&utm_campaign=internallinks)
-
-19th June 2018
-
-  * [](https://paultan.org/2018/06/19/alternative-kl-sg-rail-line-mooted-slower-and-rm50-billion-cheaper-than-hsr-but-is-it-truly-needed/?utm_source=topstories&utm_medium=internallinks&utm_campaign=internallinks "Alternative KL-SG rail line mooted - slower, RM50 billion cheaper than HSR, but is it truly needed?")
-
-## [Alternative KL-SG rail line mooted - slower, RM50 billion cheaper than HSR, but is it truly needed?](https://paultan.org/2018/06/19/alternative-kl-sg-rail-line-mooted-slower-and-rm50-billion-cheaper-than-hsr-but-is-it-truly-needed/?utm_source=topstories&utm_medium=internallinks&utm_campaign=internallinks)
-
-19th June 2018
-
-  * [](https://paultan.org/2018/06/18/proton-believes-car-prices-will-go-up-with-ssts-return/?utm_source=topstories&utm_medium=internallinks&utm_campaign=internallinks "Proton believes car prices will go up with SST's return")
-
-## [Proton believes car prices will go up with SST's return](https://paultan.org/2018/06/18/proton-believes-car-prices-will-go-up-with-ssts-return/?utm_source=topstories&utm_medium=internallinks&utm_campaign=internallinks)
-
-18th June 2018
-
-  * [](https://paultan.org/2018/06/21/2019-volvo-s60-officially-debuts/?utm_source=topstories&utm_medium=internallinks&utm_campaign=internallinks "2019 Volvo S60 revealed - petrol powertrains only, optional Polestar Engineered upgrade, up to 415 hp")
-
-## [2019 Volvo S60 revealed - petrol powertrains only, optional Polestar Engineered upgrade, up to 415 hp](https://paultan.org/2018/06/21/2019-volvo-s60-officially-debuts/?utm_source=topstories&utm_medium=internallinks&utm_campaign=internallinks)
-
-21st June 2018
-
-  * [](https://paultan.org/2018/06/20/nissan-badged-mitsubishi-xpander-mpv-from-2019-shared-next-gen-pick-up-truck-platform-in-2021/?utm_source=topstories&utm_medium=internallinks&utm_campaign=internallinks "Nissan-badged Mitsubishi Xpander MPV from 2019, shared next-gen pick-up truck platform in 2021")
-
-## [Nissan-badged Mitsubishi Xpander MPV from 2019, shared next-gen pick-up truck platform in 2021](https://paultan.org/2018/06/20/nissan-badged-mitsubishi-xpander-mpv-from-2019-shared-next-gen-pick-up-truck-platform-in-2021/?utm_source=topstories&utm_medium=internallinks&utm_campaign=internallinks)
-
-20th June 2018
-
-  * [](https://paultan.org/2018/06/22/mrt-sungai-buloh-serdang-putrajaya-line-to-proceed-but-told-to-reduce-costs-by-cep-24-complete/?utm_source=topstories&utm_medium=internallinks&utm_campaign=internallinks "MRT Sungai Buloh-Serdang-Putrajaya line to proceed, but told to reduce costs by CEP - 24% complete")
-
-## [MRT Sungai Buloh-Serdang-Putrajaya line to proceed, but told to reduce costs by CEP - 24% complete](https://paultan.org/2018/06/22/mrt-sungai-buloh-serdang-putrajaya-line-to-proceed-but-told-to-reduce-costs-by-cep-24-complete/?utm_source=topstories&utm_medium=internallinks&utm_campaign=internallinks)
-
-22nd June 2018
-
-
 
