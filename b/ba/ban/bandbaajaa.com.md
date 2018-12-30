@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bandbaajaa.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615141025id_/http%3A//www.bandbaajaa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bandbaajaa.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230183742id_/http%3A//www.bandbaajaa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ _ _ **FREE SHIPPING** order over ₹1000
 
  _ _ **Need help?** +1 800 987 654 321
 
-[](http://www.bandbaajaa.com/best-destinations-for-weddings-in-india/)
+[](http://www.bandbaajaa.com/miniinterest/)
 
 At Special Occasions, you always come first. As a result, we do not publish, sell or rent any of your personal data to a third party without your consent.
 
