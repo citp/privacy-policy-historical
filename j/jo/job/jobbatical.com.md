@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobbatical.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624195759id_/https%3A//jobbatical.com/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobbatical.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230191659id_/https%3A//jobbatical.com/terms/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Jobbatical
 
@@ -6,7 +6,7 @@ Last update: May 4, 2018
 
 We are Jobbatical (Jobbatical OÜ, registry code 12671900, address at Niine Street 11, Tallinn, Republic of Estonia), an Estonian company dedicated in offering online services for employment opportunities via our website [jobbatical.com](https://jobbatical.com/). We provide a marketplace connecting job seekers/employees to employers for short-term jobs. We enable posting and searching of personal profiles, job vacancies and other employment related opportunities. Hereby we determine and explain the purpose of the processing of the data and the persons to whom communication of the data is permitted, the conditions for communicating the data to third persons and your rights concerning further processing of your personal data.
 
-By joining Jobbatical, creating your account and accepting our Terms and Conditions and this Privacy Policy, you are giving us your permission to process your personal data pursuant to conditions of this Privacy Policy. Please read this Privacy Policy carefully. In case of any questions regarding this Privacy Policy, please kindly contact us [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#50232520203f2224103a3f323231243933313c7e333f3d).
+By joining Jobbatical, creating your account and accepting our Terms and Conditions and this Privacy Policy, you are giving us your permission to process your personal data pursuant to conditions of this Privacy Policy. Please read this Privacy Policy carefully. In case of any questions regarding this Privacy Policy, please kindly contact us [support@jobbatical.com](mailto:support@jobbatical.com).
 
 We process (including collect, store, save, distribute, compile, use, make available to, etc.) personal data submitted by you at the sign up and on your account. We do not collect any personal data about you which is made available outside our platform.
 
@@ -16,7 +16,7 @@ We collect and process job seekers` personal data for the purpose of matching up
 
 We use your personal information to create a profile of you. The profile-making process is not an automated decision which results in legal consequences for you or significantly affects the data about you. As a job seeker you agree that we may assess your skills, experiences, current location or other characteristics and express our preferences to the employers. For providing our services we may, at our discretion, evaluate your suitability to a given job vacancy, create opinions and evaluations which we provide to interested employers (pre-moderation) and provide shortlisting services to employers which may relate to further processing of your personal data.
 
-Upon your separate consent we may provide your profile to an employer even if you are not applying for the vacant position and for these purposes you grant us the right to retain your personal data beyond any given job vacancy you have applied for. Please note that you may withdraw your consent at any given time by communicating such request via [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#70030500001f0204301a1f121211041913111c5e131f1d).
+Upon your separate consent we may provide your profile to an employer even if you are not applying for the vacant position and for these purposes you grant us the right to retain your personal data beyond any given job vacancy you have applied for. Please note that you may withdraw your consent at any given time by communicating such request via [support@jobbatical.com](mailto:support@jobbatical.com).
 
 We may help the employers with pre-selection of possible employees during which we may add to your profile some comments on why we feel that you are the best for this position. However, the final decision is always made by the employer. We do not interview you nor do we conduct any background research. All the data you make available on your account shall be available to potential employers as it is provided by you.
 
@@ -30,23 +30,23 @@ For the purposes of improving your user experience when using Jobbatical service
 
 Web analytic service providers analyze your use of the Jobbatical web platform and services so we could improve and amend the way our website and platform function. Applicant tracking system is a software application that allows an organization to collect and store candidate and job related data and track and monitor the process of candidates through all stages of the hiring process. At the moment of accepting these Terms and Conditions and Privacy Policy, personal data is transferred to following web analytic service and ATS software providers:
 
- **[Segment.io](http://segment.io/), Inc.**, address at 101 15th St, San Francisco, CA 94103, USA, e-mail address [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7c10191b1d103c0f191b11191208521f1311), for further information please also see [segment.com/docs/legal/terms](https://segment.com/docs/legal/terms);
+ **[Segment.io](http://segment.io/), Inc.**, address at 101 15th St, San Francisco, CA 94103, USA, e-mail address [legal@segment.com](mailto:legal@segment.com), for further information please also see [segment.com/docs/legal/terms](https://segment.com/docs/legal/terms);
 
- **Mixpanel, Inc.** , address at 405 Howard St, Floor 2, San Francisco, CA 94105, USA, e-mail address [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6d1e181d1d021f192d0004151d0c030801430e0200), for further information please also see [mixpanel.com/terms](https://mixpanel.com/terms);
+ **Mixpanel, Inc.** , address at 405 Howard St, Floor 2, San Francisco, CA 94105, USA, e-mail address [support@mixpanel.com](mailto:support@mixpanel.com), for further information please also see [mixpanel.com/terms](https://mixpanel.com/terms);
 
- **Workable Software Limited** , (Company No. 08125469) of WeWork, 1 Fore St, London EC2Y 5EJ, email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#10636560607f626450677f627b71727c753e737f7d), for further information please also see [workable.com/terms](https://workable.com/terms);
+ **Workable Software Limited** , (Company No. 08125469) of WeWork, 1 Fore St, London EC2Y 5EJ, email: [support@workable.com](mailto:support@workable.com), for further information please also see [workable.com/terms](https://workable.com/terms);
 
- **The Rocket Science Group, LLC / MailChimp** , address in Georgia, USA, e-mail address [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f8888a918e999b81b8959991949b90919588d69b9795), for further information please also see [mailchimp.com/legal/terms](https://mailchimp.com/legal/terms);
+ **The Rocket Science Group, LLC / MailChimp** , address in Georgia, USA, e-mail address [privacy@mailchimp.com](mailto:privacy@mailchimp.com), for further information please also see [mailchimp.com/legal/terms](https://mailchimp.com/legal/terms);
 
- **Greenhouse Software, Inc.** , address at 110 Fifth Avenue, 3rd Floor, New York, NY 10011, USA, e-mail address [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#234a4d454c63445146464d4b4c5650460d4a4c), for further information please also see [greenhouse.io/legal](https://greenhouse.io/legal);
+ **Greenhouse Software, Inc.** , address at 110 Fifth Avenue, 3rd Floor, New York, NY 10011, USA, e-mail address [info@greenhouse.io](mailto:info@greenhouse.io), for further information please also see [greenhouse.io/legal](https://greenhouse.io/legal);
 
  **Amazon Web Services, Inc.** , address at 1200 12th Avenue South, Suite 1200, Seattle, WA 98144, USA, for contact information please see [aws.amazon.com/contact-us](https://aws.amazon.com/contact-us), for further information please also see [aws.amazon.com](https://aws.amazon.com/);
 
- **Looker Data Sciences, Inc.** , address 101 Church St, Santa Cruz, CA 95060, USA, e-mail address [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e191938897808298a18d8e8e8a8493cf828e8c), for further information please also see [looker.com/terms](https://looker.com/terms);
+ **Looker Data Sciences, Inc.** , address 101 Church St, Santa Cruz, CA 95060, USA, e-mail address [privacy@looker.com](mailto:privacy@looker.com), for further information please also see [looker.com/terms](https://looker.com/terms);
 
- **FullStory, Inc.** , address 120 Ottley Drive NE, Suite 100, Atlanta, GA 30324, USA, e-mail address [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4b3b39223d2a28320b2d3e2727383f24393265282426), for further information please also see [www.fullstory.com/legal/privacy](https://fullstory.com/legal/privacy/).
+ **FullStory, Inc.** , address 120 Ottley Drive NE, Suite 100, Atlanta, GA 30324, USA, e-mail address [privacy@fullstory.com](mailto:privacy@fullstory.com), for further information please also see [www.fullstory.com/legal/privacy](https://fullstory.com/legal/privacy/).
 
-By accepting our Terms and Conditions and this Privacy Policy you therefore also understand and agree that upon disclosing your personal data to web analytic service, ATS software and other service providers, some of your personal data is transferred to and processed outside the European Economic Area. In case of any question about the transfer of your personal data to third parties, please contact our support at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#dcafa9acacb3aea89cb6b3bebebda8b5bfbdb0f2bfb3b1).
+By accepting our Terms and Conditions and this Privacy Policy you therefore also understand and agree that upon disclosing your personal data to web analytic service, ATS software and other service providers, some of your personal data is transferred to and processed outside the European Economic Area. In case of any question about the transfer of your personal data to third parties, please contact our support at [support@jobbatical.com](mailto:support@jobbatical.com).
 
 We will not disclose your personal data to any other third parties or public authorities, except if the person requesting data has a legal basis for doing so pursuant to applicable law.
 
@@ -68,7 +68,7 @@ Under applicable laws you may withdraw your consent to this Privacy Policy at an
 
 By withdrawing your consent, you are deemed to terminate your account in our platform. You may also submit an individual request to delete your account in which case you are also deemed to withdraw your consent to process your personal data. In these cases, we will contact you within seven (7) days to clarify your actual intent and once this is confirmed we will delete your personal data and account permanently latest within thirty (30) days. Provided that within the thirty (30) day period you submit us a request for your information, we will send the information to your contacts within a reasonable period in CVS format.
 
-For exercising your rights under this paragraph please contact us with any of your requests at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1764626767786563577d78757576637e74767b3974787a)
+For exercising your rights under this paragraph please contact us with any of your requests at [support@jobbatical.com](mailto:support@jobbatical.com)
 
 If case you feel that we have violated your privacy rights you may also apply to an appropriate data protection authority for remedy of your rights.
 
@@ -80,4 +80,4 @@ You can delete or block cookies through your browser settings at any time. Howev
 
  **Data Protection Officer**
 
-Our Data Protection Officer responsible for our privacy related obligations is attorney-at-law Tambet Toomela, contact information: telephone +[372 622 9990](tel:3726229990), e-mail [[email protected] ](https://web.archive.org/cdn-cgi/l/email-protection#b3c7d2ded1d6c79dc7dcdcded6dfd2f3d6c5d6c1c0dbd6d7c09ec0c6c7dbd6c1dfd2ddd79dd6d6)
+Our Data Protection Officer responsible for our privacy related obligations is attorney-at-law Tambet Toomela, contact information: telephone +[372 622 9990](tel:3726229990), e-mail [tambet.toomela@eversheds-sutherland.ee ](mailto:tambet.toomela@eversheds-sutherland.ee)
