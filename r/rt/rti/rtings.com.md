@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rtings.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114094803id_/http%3A//www.rtings.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rtings.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230100058id_/http%3A//rtings.com/company/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - RTINGS.com
 
 This Privacy Policy (together with our terms of use and any other documents referred to herein) sets out the basis of how 9295-5266 QUEBEC INC. (“RTINGS”) and its affiliates collect, use, disclose and otherwise process any personal data, this information may include but, not be limited to your name, physical address, email address, phone number, age, preferred language, and any other information (collectively “Personal Information”), in accordance with applicable legislation. RTINGS Privacy Policy is a statement of principles and guidelines concerning the protection of Personal Information and individuals (“you”). By using this website, HTTP://WWW.RTINGS.COM (the “Site”), registering to receive email content from RTINGS, and/or communicating with RTINGS by e-mail or otherwise (collectively the “Service”), you agree to the use of such information in accordance with this Privacy Policy (the “Policy”).
 
