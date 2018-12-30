@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the columbusunderground.com privacy policy that was archived on 2018-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180501002510id_/https%3A//www.columbusunderground.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the columbusunderground.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230151532id_/https%3A//www.columbusunderground.com/privacy) for the most accurate reproduction.*
 
 # Columbus Underground Privacy Policy | ColumbusUnderground.com
 
