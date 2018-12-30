@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the myinvestorsbank.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128225018id_/https%3A//www.myinvestorsbank.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myinvestorsbank.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230190918id_/https%3A//www.myinvestorsbank.com/Privacy) for the most accurate reproduction.*
 
 # Privacy | Online Privacy Notice | Investors Bank
 
-_Last updated June 19, 2015_
+_Last updated July 18, 2018_
 
 The Board, management and staff of Investors Bancorp and its affiliates and/or subsidiaries (hereafter referred to as “Investors,” “we,” “us” or “our”), highly value our customer and consumer relationships and are acutely aware of the trust and responsibilities these relationships entail. We are committed to offering our customers an attractive menu of financial products and services to help them meet their financial goals. In so doing, however, we are mindful of our obligation to ensure that the privacy of the sensitive personal and financial information entrusted to us is not compromised.
 
 This Online Privacy Notice (Notice) describes how interfaces (i.e., web site or mobile application) may collect, use and share information from or about you, and explains how information may be collected and used for advertising and other purposes. The Notice applies to this Investors Bank online interface and any Investors Bank affiliate and/or subsidiary online interface that links to this Notice. Investors Bank may provide other online interfaces not covered by this Notice, so please review the online privacy practices of each interface to understand how your online information may be collected, used and shared.
 
-For account holders visiting this interface, we may use and share any information that we collect from or about you in accordance with our [Privacy Policy and Opt-Out Form](https://web.archive.org/InvestorsBank/media/PDF/Privacy-Notice.pdf), which provides choices in the use and sharing of information.
+For account holders visiting this interface, we may use and share any information that we collect from or about you in accordance with our [Privacy Notice and Opt-Out Form](https://www.myinvestorsbank.com/CMSPages/GetAmazonFile.aspx?path=~\\investorsbank\\media\\oao\\privacynoticeoao_bank.pdf&hash=009a07485138272f39de50618d3adb7f188609833c7c9ccef121b78504eb94a6), which provides choices in the use and sharing of information.
 
 By using this interface, you agree to the terms and conditions of this Notice.
 
@@ -88,7 +88,7 @@ You may be able to opt out of some advertising on third party sites by utilizing
 
 **How Information is Shared**
 
-We may share the information we collect from and about you with our affiliates and other third parties. If you are an account-holder, please see our [Privacy Policy & Opt Out Form](https://web.archive.org/InvestorsBank/media/PDF/Privacy-Notice.pdf) for information on how Personal Information may be shared and how you may be able to limit certain types of sharing.
+We may share the information we collect from and about you with our affiliates and other third parties. If you are an account-holder, please see our [Privacy Notice and Opt-Out Form](https://www.myinvestorsbank.com/CMSPages/GetAmazonFile.aspx?path=~\\investorsbank\\media\\oao\\privacynoticeoao_bank.pdf&hash=009a07485138272f39de50618d3adb7f188609833c7c9ccef121b78504eb94a6), for information on how Personal Information may be shared and how you may be able to limit certain types of sharing.
 
 ## **Third Party Interfaces**
 
