@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usdoj.gov privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623102524id_/https%3A//www.justice.gov/doj/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usdoj.gov privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230194235id_/https%3A//www.justice.gov/doj/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DOJ | Department of Justice
 
@@ -13,7 +13,7 @@ Email Subscriptions and Updates
 Links to External Sites  
 Security
 
-The Department’s Chief Privacy and Civil Liberties Officer, in coordination with the Department’s Office of Privacy and Civil Liberties, manages and oversees the Department’s Privacy Program. The Department Privacy Program webpage can be found here: [https://www.justice.gov/opcl.](https://www.justice.gov/opcl)
+The Department’s Chief Privacy and Civil Liberties Officer, in coordination with the Department’s Office of Privacy and Civil Liberties, manages and oversees the Department’s Privacy Program. The Department Privacy Program webpage can be found here: [https://www.justice.gov/opcl.](https://web.archive.org/opcl)
 
 ## Information Collected and Stored Automatically
 
