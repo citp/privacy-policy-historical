@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitcoinfoundation.org privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624094043id_/https%3A//bitcoinfoundation.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitcoinfoundation.org privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230091732id_/https%3A//bitcoinfoundation.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Bitcoin Foundation
 
@@ -56,4 +56,4 @@ PO Box 3354Belfair, Washington, USA
 
 Belfair, Washington, USA
 
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Info@bitcoinfoundation.org
