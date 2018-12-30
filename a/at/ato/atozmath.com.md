@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the atozmath.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626054711id_/http%3A//atozmath.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atozmath.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230144302id_/https%3A//atozmath.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy policy calculator
 
-This privacy policy ("Policy") describes how Website Operator ("Website Operator", "we", "us" or "our") collects, protects and uses the personally identifiable information ("Personal Information") you ("User", "you" or "your") may provide on the [http://atozmath.com](http://atozmath.com/) website and any of its products or services (collectively, "Website" or "Services"). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. This Policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage.
+This privacy policy ("Policy") describes how Website Operator ("Website Operator", "we", "us" or "our") collects, protects and uses the personally identifiable information ("Personal Information") you ("User", "you" or "your") may provide on the [http://atozmath.com](https://atozmath.com/) website and any of its products or services (collectively, "Website" or "Services"). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. This Policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage.
 
 ## Collection of personal information
 
