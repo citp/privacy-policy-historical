@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lonerwolf.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624131111id_/https%3A//lonerwolf.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lonerwolf.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230124727id_/https%3A//lonerwolf.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy ⋆ LonerWolf
 
@@ -18,7 +18,7 @@ When you use our website, as a User, Customer or as a Visitor, you may provide, 
 
 ##### Commenting
 
-When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
+We collect information about visitors who comment on the site using the Akismet anti-spam service. The information we collect includes the commenter’s IP address, user agent, referrer, and Site URL (along with other information directly provided by the commenter such as their name, username, email address, and the comment itself).
 
 An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available [here](https://automattic.com/privacy/). After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
@@ -38,23 +38,59 @@ We use the information that we collect in a variety of ways in providing the Sit
 
 We use the information to operate, maintain, enhance and provide all features of the website, to provide the services and information that you request, to respond to comments and questions and to provide support to users of the website. We process data solely in accordance with the directions provided by the applicable Customer or User.
 
-#### eCommerce
+### eCommerce
 
-Another way we use this information includes processing the transactions of our eCommerce store by collecting the data you submit during the checkout procedure and securely passing on to our Payment Processing Service (Paypal.com).
+Another way we use this information includes processing the transactions of our eCommerce store by collecting the data you submit during the checkout procedure and securely passing on to our Payment Processing Service (Stripe or Paypal).
 
-We collect information about you during the checkout process on our store. This information may include, but is not limited to, your name, billing address, shipping address, email address, phone number, credit card/payment details and any other details that might be requested from you for the purpose of processing your orders.  
-Handling this data also allows us to:  
-– Send you important account/order/service information.  
-– Respond to your queries, refund requests, or complaints.  
-– Process payments and to prevent fraudulent transactions. We do this on the basis of our legitimate business interests.  
-– Set up and administer your account, provide technical and/or customer support, and to verify your identity.
+##### eCommerce – What we collect and store
 
-Additionally we may also collect the following information:  
-– Location and traffic data (including IP address and browser type) if you place an order, or if we need to estimate taxes and shipping costs based on your location.  
-– Product pages visited and content viewed while your session is active.  
-– Your comments and product reviews if you choose to leave them on our website.  
-– Account email/password to allow you to access your account, if you have one.  
-– If you choose to create an account with us, your name, address, and email address, which will be used to populate the checkout for future orders.
+While you visit our site, we’ll track:
+
+  * Products you’ve viewed: we’ll use this to, for example, show you products you’ve recently viewed
+  * Location, IP address and browser type: we’ll use this for purposes like estimating taxes and shipping
+  * Shipping address: we’ll ask you to enter this so we can, for instance, estimate shipping before you place an order, and send you the order!
+  * We’ll also use cookies to keep track of cart contents while you’re browsing our site.
+
+
+
+When you purchase from us, we’ll ask you to provide information including your name, billing address, shipping address, email address, phone number, credit card/payment details and optional account information like username and password. We’ll use this information for purposes, such as, to:
+
+  * Send you information about your account and order.
+  * Respond to your requests, including refunds and complaints.
+  * Process payments and prevent fraud.
+  * Set up your account for our store.
+  * Comply with any legal obligations we have, such as calculating taxes.
+  * Improve our store offerings.
+  * Send you marketing messages, if you choose to receive them.
+  * If you create an account, we will store your name, address, email and phone number, which will be used to populate the checkout for future orders.
+
+
+
+We generally store information about you for as long as we need the information for the purposes for which we collect and use it, and we are not legally required to continue to keep it. For example, we will store order information for 7 years for tax and accounting purposes. This includes your name, email address and billing and shipping addresses.
+
+We will also store comments or reviews, if you choose to leave them.
+
+##### eCommerce – Who on our team has access 
+
+Members of our team have access to the information you provide us. For example, both Administrators and Shop Managers can access:
+
+  * Order information like what was purchased, when it was purchased and where it should be sent, and
+  * Customer information like your name, email address, and billing and shipping information.
+  * Our team members have access to this information to help fulfill orders, process refunds and support you.
+
+
+
+##### eCommerce – What we share with others
+
+In this section you should list who you’re sharing data with, and for what purpose. This could include, but may not be limited to, analytics, marketing, payment gateways, shipping providers, and third party embeds.
+
+We share information with third parties who help us provide our orders and store services to you; for example —
+
+##### eCommerce – Payments
+
+We accept payments through Stripe and PayPal. When processing payments, some of your data will be passed to Stripe/PayPal, including information required to process or support the payment, such as the purchase total and billing information.
+
+Please see the [PayPal](https://www.paypal.com/us/webapps/mpp/ua/privacy-full) and [Stripes](https://stripe.com/gb/privacy) Private Policies for more details.
 
 #### Improvements
 
@@ -157,4 +193,4 @@ Thank you,
 
 Luna & Sol
 
-Last update: _May 24, 2018_
+Last update: _September 01, 2018_
