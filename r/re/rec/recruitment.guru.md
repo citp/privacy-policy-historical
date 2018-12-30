@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recruitment.guru privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624192938id_/https%3A//www.recruitment.guru/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recruitment.guru privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230184924id_/https%3A//www.recruitment.guru/privacy-policy) for the most accurate reproduction.*
 
 # Recruitment.Guru - Privacy Policy
 
@@ -30,4 +30,4 @@ The feedbacks that you give to our website on Recruitment Guru become the proper
 
 We use the collected information about you to enhance our services and personalize your experience. You email id and contact number lets us send you mails and texts related to our services to keep you informed and updated. Your feedback help us to improve our website and make a perfect fit with your expectations.
 
-The following privacy policies are subject to change. If they change, we will provide the updated policies here itself. If you have any queries regarding our privacy policies, please e-mail us @  **[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)**
+The following privacy policies are subject to change. If they change, we will provide the updated policies here itself. If you have any queries regarding our privacy policies, please e-mail us @  **www.recruitment.guru@gmail.com**
