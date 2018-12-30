@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsmaker.com.au privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626200223id_/https%3A//www.newsmaker.com.au/pages/6/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsmaker.com.au privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230180424id_/https%3A//www.newsmaker.com.au/pages/6/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -68,6 +68,6 @@ NewsMaker and its associated businesses may be required by law to disclose infor
 
 ## General
 
-If at any time you wish to enquire about any of your personally identifiable information that is stored by NewsMaker please _[contact us](https://web.archive.org/cdn-cgi/l/email-protection#107e756763787f657e74507e75676377717c7c7562693e737f7d3e7165)_.
+If at any time you wish to enquire about any of your personally identifiable information that is stored by NewsMaker please _[contact us](mailto:newshound@newsgallery.com.au)_.
 
-[Email us](https://web.archive.org/cdn-cgi/l/email-protection#85e0e1ecf1eaf7c5ebe0f2f6e8e4eee0f7abe6eae8abe4f0 "Please send NewsMaker Services Guide") for any other enquiries or [download the User Guide Presentation](http://www.slideshare.net/newsgal/press-release-services-guide-newsmaker "download the User Guide Presentation.")
+[Email us](mailto:editor@newsmaker.com.au "Please send NewsMaker Services Guide") for any other enquiries or [download the User Guide Presentation](http://www.slideshare.net/newsgal/press-release-services-guide-newsmaker "download the User Guide Presentation.")
