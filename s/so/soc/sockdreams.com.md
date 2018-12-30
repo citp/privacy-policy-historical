@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the sockdreams.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215110421id_/http%3A//www.sockdreams.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sockdreams.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230063710id_/https%3A//www.sockdreams.com/privacy-policy) for the most accurate reproduction.*
 
-# Socks by Sock Dreams » Customer Service » Privacy Policy
+# Privacy Policy | Sock Dreams
 
-## Customer Service
-
-### Privacy Policy
+## Privacy Policy
 
 **We will NEVER sell or give your information to anyone else or add you to any mailing lists, even if you’ve written to us or placed an order.**
 
