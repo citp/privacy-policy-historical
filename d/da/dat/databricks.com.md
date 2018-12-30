@@ -1,75 +1,122 @@
-> *The following text is extracted and transformed from the databricks.com privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126173534id_/https%3A//databricks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the databricks.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230184734id_/https%3A//databricks.com/privacy-policy) for the most accurate reproduction.*
 
-# Databricks Privacy Policy
+# Privacy Policy - Databricks
 
-#### EFFECTIVE: FEBRUARY 2015
+In this Privacy Policy, we, Databricks, Inc., describe what types of personal data we collect while you browse our publicly available websites and use our services, how we use it, and what you can expect from us while we hold it.
 
-Protecting your privacy is really important to us. With this in mind, we’re providing this Privacy Policy to explain our practices regarding the collection, use and disclosure of information that we receive through our Services. When we say “Services” in this Privacy Policy, we mean our websites located at [www.databricks.com](https://www.databricks.com/), [spark-packages.org](https://spark-packages.org/)/ and [spark-summit.org](https://spark-summit.org/)/ (the “ **Sites** ”), our web solutions for cloud-based data processing that we make available to our customers, and our Databricks App Market. This Privacy Policy applies to only those websites, services and applications included within the “Services” and does not apply to any third-party websites, services or applications, even if they are accessible through our Services. Also, please note that, unless we define a term in this Privacy Policy, all capitalized terms used in this Privacy Policy have the same meanings as in our Spark-packages.org Terms of Service, Software as a Service Agreements, App Developer Terms and Conditions, and App Market Terms of Service. So, please make sure that you have read and understand these documents to the extent they apply to your use of the Services.
+**What does it cover?**
 
-## Revisions to this Privacy Policy
+This Privacy Policy covers all Databricks-branded publicly available websites, including sites located on[ databricks.com](https://databricks.com/) (other than *.cloud.databricks.com and[ help.databricks.com](https://help.databricks.com/)), as well as[ spark-summit.org](https://spark-summit.org/), and[ spark-packages.org](https://spark-packages.org/) and any other pages that link to this Privacy Policy (collectively, the “Sites”). With the exception of Account Information and Usage Data (each defined below), this Privacy Policy expressly does not cover data submitted through or otherwise collected during the use of the Databricks Platform Services (known as Databricks and Databricks Community Edition, each located at *.cloud.databricks.com, or the related website at[ help.databricks.com](https://help.databricks.com/) and platform support services, together the “Platform Services”), which are subject to the[ Databricks Terms of Service](https://www.databricks.com/termsofservice) (or with respect to the Community Edition, the [Community Edition Terms of Service](https://www.databricks.com/termsofservice-ce)) or other written agreement in place between Databricks and our subscribers (“Subscribers”), or any other data collection and processing, including, without limitation, data that we collect offline.
 
-Any information that is collected via our Services is covered by the Privacy Policy in effect at the time such information is collected. We may revise this Privacy Policy from time to time. If we make any material changes to this Privacy Policy, we’ll notify you of those changes by posting them on the Services or by sending you an email or other notification, and we’ll update the “Last Updated Date” above to indicate when those changes will become effective.
+Subscribers are solely responsible for establishing policies for and ensuring compliance with all applicable laws and regulations, as well as any and all privacy policies, agreements or other obligations, relating to the such Subscribers’ use of personal data or collection of personal data in connection with the use of our Platform Services by individuals with whom our Subscribers interact. If you are an individual who interacts with a Subscriber using our Platform Services or you otherwise believe that a Subscriber uses our Platform Services to process your personal data, and you contact us regarding this data, then you will be directed to contact our Subscriber for assistance with any requests or questions relating to your personal data, including without limitation any requests to access, amend or erase your personal data.
 
-## Collection and Use of Information
+**What information do we collect?**
 
-### Information Collected or Received from You
+We collect information and data from you in two ways. First, we collect information you manually provide to us, including registration info like your name and email address. Second, we collect information automatically from your use of our Sites and Platform Services, including how and when our Sites and Platform Services are used.
 
-Our primary goals in collecting information are to provide and improve our Services, to administer your use of the Services (including your Account, if you are an Account holder), and to enable you to enjoy and easily navigate our Services.
+_Information you submit or make available._
 
-Account Information. If you create an Account through our Services, we’ll collect certain information that can be used to identify you (“ **PII** ”), such as your name and email address. If you create an Account on behalf of an organization, in addition to your PII, we’ll collect your organization’s corporate name, email address, postal address and phone number.
+If you create an account for our Platform Services or otherwise create an account through our Sites to utilize the forums or register for one of our events or training, we may ask, and in some cases require, you to enter certain personal data such as your name, email address, phone number, physical address, gender, job title, job role, company name, company size and other information relating to your proposed use of our products and services or our events and training. You will know which data categories you provide to us, because you will affirmatively enter and submit the data. Any such information you provide us in connection with the registration for our Platform Services is deemed “Account Information.”  Databricks may receive information from third parties regarding the companies and users who use our Sites and Platform Services and may combine such information with the information we receive or collect from you.
 
-Event Registration. We also promote conferences, events and training sessions (together, “ **Events** ”) through parts of our Services. When you register for Events, we’ll collect your PII, such as your name, email address, postal address, and phone number, and we may also collect certain information that is not PII, because it cannot be used by itself to identify you, such job title and employer.
+_Information we collect about your use of our Sites._
 
-Information Collected Using Cookies and other Web Technologies. Like many website owners and operators, we use automated data collection tools such as Cookies and Web Beacons to collect certain information.
+When you use our Sites, your device automatically generates and provides data to us. We collect and use such data to help us to understand how you are using our Sites, and how to better provide those Sites to you.
 
-“ **Cookies** ” are small text files that are placed on your hard drive by a Web server when you access our Services. We may use both session Cookies and persistent Cookies to identify that you’ve logged in to the Services and to tell us how and when you interact with our Services. We may also use Cookies to monitor aggregate usage and web traffic routing on our Services and to customize and improve our Services. Unlike persistent Cookies, session Cookies are deleted when you log off from the Services and close your browser. Although most browsers automatically accept Cookies, you can change your browser options to stop  automatically accepting Cookies or to prompt you before accepting Cookies. Please note, however, that if you don’t accept Cookies, you may not be able to access all portions or features of the Services. We may engage third party services providers, who may also place their own Cookies on your hard drive. Note that this Privacy Policy covers only our use of Cookies and does not include use of Cookies by such third parties.
+When you use the Sites, we use standard automated data collection tools such as Cookies, Web Beacons, Tracking Pixels and the like (“Web Data”). You can learn more about these terms and what types of data are collected, how it is used and why, as well as how to opt out of certain collection, by visiting our Cookies Policy. While the vast majority of Web Data is not Personal Data, some Web Data may include certain information which may be considered personal data depending on where you live, like a User’s Internet Protocol (IP) address. To the extent Web Data contains personal data, it will be treated as personal data under this Privacy Policy.
 
-“ **Web Beacons** ” (also known as Web bugs, pixel tags or clear GIFs) are tiny graphics with a unique identifier that may be included on our Services for several purposes, including to deliver or communicate with Cookies, to track and measure the performance of our Services and to monitor how many visitors view our Services. Unlike Cookies, which are stored on the user’s hard drive, Web Beacons are typically embedded invisibly on web pages (or in an e-mail).
+_Information we collect about your use of our Platform Services._
 
-Information Related to Use of the Services. Our servers automatically record certain information about how a person uses our Services (we refer to this information as “ **Log Data** ”), including both Account holders and non-Account holders (either, a “ **User** ”). Log Data may include information such as a User’s Internet Protocol (IP) address, browser type, operating system, the web page that a User was visiting before accessing our Services, the pages or features of our Services to which a User browsed and the time spent on those pages or features, search terms, the links on our Services that a User clicked on, commands executed when using our Services, features of the Services accessed, information about the types and size of files analyzed via the Services, and other statistics. We use Log Data to administer the Services and we analyze (and may engage third parties to analyze) Log Data to improve, customize and enhance our Services by expanding their features and functionality and tailoring them to our Users’ needs and preferences. We may use a person’s IP address to generate aggregate, non-identifying information about how our Services are used.
+When you use our Platform Services, a lot of information and data gets automatically generated and collected that can help us to understand how you are using our Platform Services, and how to better provide the Platform Services to you.
 
-## Information that We Share with Third Parties
+When you use the Platform Services, we automatically record information about how our users (both account holders and other users on a user account) (“Users”) use the Platform Services (known as “Usage Data”). Most Usage Data is not personal data, and includes information like browser type, operating system, the pages or features of our Platform Services accessed or used by User and the time spent on those pages or features, search terms entered into our Platform Services to browse the docs, commands executed when using our Platform Services, information about the types and size of files analyzed via the Platform Services, and other statistical information. Some Usage Data may include certain information which may be considered personal data depending on where you live, like a User’s Internet Protocol (IP) address. To the extent Usage Data contains personal data, it will be treated as personal data under this Privacy Policy.
 
-We will not share any PII that we have collected from or regarding you except as described below:
+**How do we use the information collect from you?**
 
-Information Shared with Our Services Providers. We may engage third-party services providers to work with us to administer and provide the Services. These third-party services providers have access to your PII only for the purpose of performing services on our behalf.
+We use personal data for the following purposes:
 
-Information Shared with Third Parties. We may share aggregated information and non-identifying information with third parties for industry research and analysis, demographic profiling and other similar purposes.
+  * To provide the Sites, the Platform Services, our services or information requested;
+  * To develop new products and services;
+  * To identify your account and bill you for the use of our products and services;
+  * To prevent fraud or other illegal use of our products and services;
+  * To keep in contact with you regarding the products and services you use;
+  * To tailor and send you newsletters, emails and other content to promote our products and services (you can always unsubscribe from marketing emails by clicking [here](https://pages.databricks.com/Preference-Center.html));
+  * To generate and analyze statistical information about how our Sites and Platform Services are used in the aggregate;
+  * Where Databricks otherwise has a legitimate interest, including for purposes of direct marketing, fraud prevention, disclosure to affiliated organizations, network and information security, and processing for research purposes (including marketing research);
+  * Where you have otherwise consented.
 
-Information Disclosed in Connection with Business Transactions. Information that we collect from our users, including PII, is considered to be a business asset. Thus, if we are acquired by a third party as a result of a transaction such as a merger, acquisition or asset sale or if our assets are acquired by a third party in the event we go out of business or enter bankruptcy, some or all of our assets, including your PII, may be disclosed or transferred to a third party acquirer in connection with the transaction.
 
-Information Disclosed for Our Protection and the Protection of Others. We cooperate with government and law enforcement officials or private parties to enforce and comply with the law. We may disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate: (i) to respond to claims, legal process (including subpoenas); (ii) to protect our property, rights and safety and the property, rights and safety of a third party or the public in general; and (iii) to stop any activity that we consider illegal, unethical or legally actionable activity.
 
-## Your Choices
+**Do we share your information?**
 
-We offer you choices regarding the collection, use and sharing of your PII and we’ll respect the choices you make. Please note that if you decide not to provide us with the PII that we request, you may not be able to access all of the features of the Services.
+We do not share personal data except as follows:
 
-Opt-Out. We may periodically send you free newsletters and e-mails that directly promote our Services. When you receive such promotional communications from us, you will have the opportunity to “opt-out” (either through your Account or by following the unsubscribe instructions provided in the e-mail you receive). We do need to send you certain communications regarding the Services and you will not be able to opt out of those communications – e.g., communications regarding updates to the terms governing your access to or use of our Services or this Privacy Policy or information about billing.
+  * with affiliated and unaffiliated service providers that help us conduct our business, subject to confidentiality obligations;
+  * with respect to onward transfers to third parties under Privacy Shield, Privacy Shield requires that Databricks remain liable should its agents process personal data in a manner inconsistent with the Privacy Shield Principles;
+  * when necessary to identify you with respect to public contributions (e.g., the posting of a package on spark-packages.org);
+  * when necessary to deliver the products and services you require such as with a payment card provider who we use to process your credit card transaction;
+  * when authorized by law or necessary to comply with a valid legal process;
+  * when required to protect and defend the rights or property of Databricks, Subscribers, vendors or other users of our Sites, including the security of our Sites, products and services;
+  * when necessary to protect the personal safety, property or other rights of the public, Databricks or its customers or employees; or
+  * in connection with a sale or reorganization of all or part of our business.
 
-Modifying Your Information. You can access and modify the PII associated with your Account by sending an email to [info@databricks.com](mailto:info@databricks.com) or through the settings feature on your Account profile (if and when available). If you want us to delete your PII and your Account, please contact us at [info@databricks.com](mailto:info@databricks.com) with your request. We’ll take steps to delete your information as soon we can, but some information may remain in archived/backup copies for our records or as otherwise required by law.
 
-## Responding to Do Not Track Signals
 
-Our Site does not have the capability to respond to “Do Not Track” signals received from various web browsers.
+**What rights do you have over your information?**
 
-## The Security of Your Information
+We offer you choices regarding the collection, use and sharing of your personal data and we will respect the choices you make.  Where you have consented to Databricks’ processing of your personal data, you may withdraw that consent at any time by contacting [privacy@databricks.com](mailto:privacy@databricks.com) with the subject “Withdraw Consent”. Please note that if you decide not to provide us with the personal data that we request, you may not be able to access all of the features of the Sites.
 
-We take reasonable administrative, physical and electronic measures designed to protect the information that we collect from or about you (including your PII) from unauthorized access, use or disclosure. When you enter sensitive information on our forms, we encrypt this data using SSL or other technologies. Please be aware, however, that no method of transmitting information over the Internet or storing information is completely secure. Accordingly, we cannot guarantee the absolute security of any information.
+_Opt Out of Certain Communications._
 
-## Links to Other Sites; Third Party Applications
+We may periodically send you free newsletters and e-mails that directly promote our products and services. When you receive such promotional communications from us, you will have the opportunity to “opt-out” (either by following the unsubscribe instructions provided in the e-mail you receive or by clicking [here](http://www.databricks.com/preferences)). We may need to send you certain communications regarding products or services you are using and you may not be able to opt out of those communications – e.g., communications regarding updates to the terms governing your access to or use of our Sites or this Privacy Policy or information about billing.
 
-Our Services may contain links to third party websites and services, and may make available applications that are owned or operated by third parties such as applications provided by third party developers on the Databricks App Market (collectively, “Third-party Services”). Any information that you provide on or to a Third-party Service or that is collected by a Third-party Service is provided directly to the owner or operator of the Third-party Service and is subject to the owner’s or operator’s privacy policy. We’re not responsible for the content, privacy or security practices and policies of any Third-party Service. To protect your information we recommend that you carefully review the privacy policies of all Third-party Services that you access.
+_Rights of Access, Modification, Deletion and Restriction of Your Information._
 
-## International Transfer
+Individuals located in certain countries, including the European Economic Area, have certain statutory rights (including under Privacy Shield) in relation to their personal data. If you are located in such a country and want us to provide access to, export, modify, delete, or restrict processing of your personal data:
 
-Your PII may be transferred to, and maintained on, computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you’re located outside the United States and choose to provide your PII to us, we may transfer your PII to the United States and process it there.
+  * and you are an individual user of our Community Edition services, please contact us at [ce-dsr@databricks.com](mailto:ce-dsr@databricks.com) with your request with the subject “Community Edition Data Subject Request”;
+  * and you are an individual user through a Subscriber account, please route your request through the appropriate Subscriber and ask that the administrator of the account send us an email at [dsr@databricks.com](mailto:dsr@databricks.com)  with the subject “Data Subject Request”. Please note that we cannot process your request directly, as your information is controlled by that Subscriber, and we do not directly have a relationship with you; or
+  * and you believe we have your personal data for some other reason, including if you registered for one of our events, etc., please contact us at [privacy@databricks.com](mailto:privacy@databricks.com) with your request with the subject “Other Personal Data Request” and please provide as much information as you can regarding you request so we can properly resolve it.
 
-## Our Policy Toward Children
 
-Our Services are not directed to children under 13 and we do not knowingly collect PII from children under 13. If we learn that we have collected PII of a child under 13 we will take steps to delete such information from our files as soon as possible.
 
-## Questions?
+We will endeavor to promptly respond to your request.  Although Databricks makes good faith efforts to provide users of our Sites and Platform Services with access to their personal data, there may circumstances in which Databricks is unable to provide access including but not limited to: where the information contains legal privilege, would compromise others’ privacy or other legitimate rights, where the burden or expense of providing would be disproportionate to the risks to of the User’s privacy in the case in question, where the request is manifestly unfounded or excessive or where it is commercially proprietary. If you request deletion of your personal data, please note that we may continue to retain certain of your personal data in archived/backup copies for our records or as otherwise required or allowed by law.
 
-Please contact us at [info@databricks.com](mailto:info@databricks.com) if you have any questions about our Privacy Policy.
+**How long do we store your information?**
 
-###### 30224/00100/DOCS/3609010.2A
+Databricks may retain the personal data we collect from you as described in this Privacy Policy for as long as you use our services or as necessary to fulfill the purpose(s) for which it was collected, provide our services, resolve disputes, establish legal defenses, conduct audits, pursue legitimate business purposes, enforce our agreements, and comply with applicable laws.
+
+**What steps do we take to secure your Information?**
+
+Databricks considers protecting the security of your data to be its number one responsibility.  Databricks has received a certification to the internationally recognized industry standard information security management system, [ISO27001](https://cert.schellmanco.com/?certhash=4FjlS5AYCp6Z), and aligns its security practices to the internationally recognized industry standard code of practice for protecting personal data in the cloud, ISO27018.  Databricks encrypts communications you make with our Sites and the Platform Services, e.g., entering your username and password or information into forms, using TLS (transport layer security) or other industry standard technologies. Please be aware, however, that no method of transmitting information over the Internet or storing information is completely secure or safe. Accordingly, we cannot guarantee the absolute security of any information.
+
+**What about international data transfer?**
+
+Databricks may transfer your personal data to countries other than the one in which you live. Specifically, if you are located outside the United States and provide your personal data to us, we may transfer your personal data to the United States and process it there.
+
+To comply with European Union and Swiss data protection laws, Databricks adheres to and has self-certified to the EU–U.S. and Swiss-US Privacy Shield Frameworks set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data transferred from the European Economic Area and Switzerland to the United States.
+
+If you are a resident of the European Economic Area or Switzerland and feel that Databricks is not abiding by the terms of the Privacy Policy, or is not in compliance with the Privacy Shield Principles, please contact [privacy@databricks.com](mailto:privacy@databricks.com) with the subject “Privacy Shield”. Databricks will respond to any such requests within 45 days. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our US-based third party dispute resolution provider (free of charge) at[ https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim](https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim). If neither Databricks nor our dispute resolution provider resolves your complaint, you may have the possibility, under certain conditions, to invoke binding arbitration through the Privacy Shield Panel.
+
+Databricks’ commitments under the Privacy Shield are subject to the investigatory and enforcement powers of the United States Federal Trade Commission.  To learn more about the Privacy Shield program and to view our certification, please visit the U.S. Department of Commerce’s Privacy Shield website [here](https://www.privacyshield.gov/).
+
+Additionally, if you represent a Subscriber that you have determined is subject to the GDPR and you do not yet have in place an updated data processing addendum (DPA) with us, please review and complete the instructions on our [DPA](https://www.databricks.com/dpa). Our DPA, as is the industry standard, contains the European Economic Area Model Clauses, also known as Standard Contractual Clauses, to meet the adequacy and security requirements for our Subscribers with users located in the European Economic Area or are otherwise using Databricks to process any data originating from the European Economic Area.
+
+**What about third party services?**
+
+We may make available certain features and functionality that allow you to sign into our Sites using third party login credentials (such as LinkedIn, Facebook, Twitter and Google+ and others (each such third party services, a “Third Party Service”)). Any data you submit to any Third Party Services will be subject to the privacy policy of such Third Party Service.
+
+We may also link to co-branded websites or products that are maintained by Databricks and one or more of our business partners. Please note that these co-branded websites and products may have their own privacy policy, which we encourage you to read and understand.
+
+**Do we collect children’s data?**
+
+Databricks products and services are not directed to children under 18 years of age and Databricks does not knowingly collect personal data from children under 18 years of age. If we learn that we have collected any personal data from children under 18 years old, we will promptly take steps to delete such information.  If you are aware that a child has submitted us such information, please contact us at [privacy@databricks.com](mailto:privacy@databricks.com) with the subject “Child Data”.
+
+**How can we make changes to this Privacy Policy?**
+
+Databricks may change this Privacy Policy from time to time by updating this site. If there are material changes to Privacy Policy that may impact your rights, Databricks will attempt to notify you by email or as otherwise required by applicable law. You understand and agree that you will be deemed to have accepted the updated Privacy Policy if you visit our Sites or use any of our products or services after such changes have been made.
+
+**How can you contact us?**
+
+Please contact us at [privacy@databricks.com](mailto:privacy@databricks.com) if you have any questions about our Privacy Policy.
+
+**Effective Date** **:** We last updated this Privacy Policy on August 8, 2018. (finalized Privacy Shield certification)
