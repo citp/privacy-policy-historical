@@ -1,81 +1,72 @@
-> *The following text is extracted and transformed from the simmarket.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606075640id_/http%3A//secure.simmarket.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simmarket.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230142742id_/https%3A//secure.simmarket.com/privacy.php) for the most accurate reproduction.*
 
 # simMarket: Flight, Train, Ship and Simulation Games, Aviation Videos, Books
 
-**Data Protection Declaration**
+Unless stated otherwise below, the provision of your personal data is neither legally nor contractually obligatory, nor required for conclusion of a contract. You are not obliged to provide your data. Not providing it will have no consequences. This only applies as long as the processing procedures below do not state otherwise.  
+“Personal data” is any information relating to an identified or identifiable natural person.
 
-We take the protection of your personal data very seriously. Therefore, we shall inform you in this declaration about which personal data we collect and how we process and utilise them. Of course, we collect and utilise your personal data exclusively within the context of the provisions of data protection law of the Federal Republic of Germany. This data protection declaration applies to all services that we offer on the German-speaking pages of simmarket.com. 
+**Responsible for data processing**  
+The person responsible for data processing on this website in terms of the General Data Protection Regulation (GDPR) is:  
+simFlight GmbH  
+Werner-von-Siemens-Str. 28  
+24568 Kaltenkirchen  
+Germany
 
-**1 Responsible body**
+Email: ​[privacy@simflight.com](mailto:privacy@simflight.com)
 
-The responsible body within the meaning of the German Federal Data Protection Act is simFlight GmbH, Kisdorfer Weg 15b, D-24568 Kaltenkirchen, email: sales@simmarket.com ("simMarket" or "we"). Should you have any questions or suggestions regarding data protection, please feel free to contact us by email. 
+The person responsible for the processing of personal data is the natural or legal person who alone or together with others decides on the purposes and means of processing personal data.
 
-**2 Subject of data protection**
+**Server log files**  
+You can use our websites without submitting personal data. Every time you access our website, user data is transmitted by your internet browser and stored in protocol files (server log files). This stored data includes e.g. name of the site called up, date and time of the request, amount of data transferred and the provider making the request. This data serves exclusively to ensure smooth operation of our website and to improve our offering. It is not possible to assign this data to a particular person.
 
-The subject of the data protection is personal data. Pursuant to section 3 (1) of the German Federal Data Protection Act (BDSG) this is individual details about personal or material conditions of a certain or identifiable natural person. This includes, for example, details such as name, postal address, email address or telephone number, but if applicable also usage data. Usage data is data which is required to use our websites, e.g. information on the start, end and scope of use of our website and log-in data.
+**Collection and processing when using the contact form / Ticket from / Comment form**  
+When you use the contact form, the ticket form and the Comment form we will only collect your personal data (name, email address, message text) in the scope provided by you. The data processing is for the purpose of making contact. By submitting your message you agree to the processing of your transmitted data. Processing will be carried out on the basis of art. 6 (1) lit. a GDPR with your consent.You can withdraw your consent at any time by contacting us without affecting the legality of the processing carried out with your consent up to the withdrawal. We will only use your email address to process your request. Finally your data will be deleted, unless you have agreed to further processing and use.
 
-**3 Collection, processing and usage of your personal data**
+**Customer account**  
+When you open a customer account, we will collect your personal data in the scope given there. The data processing is for the purpose of improving your shopping experience and simplifying order processing. The processing will be carried out on the basis of art. 6 (1) lit. a GDPR with your consent. You can withdraw your consent at any time by contacting us without affecting the legality of the processing carried out with your consent up to the withdrawal. Your customer account will then be deleted.
 
-3.1 When you place an order with us, we have to ask for your name, email address, billing and delivery address, sort code and account number or your credit card number and the expiry date of the credit card. We collect, store and utilise this data in order to process and execute your order and keep you up to date on your order status. 
+**Collection, processing, and use of personal data in orders**  
+When you submit an order, we only collect and use your personal data where this is necessary for the fulfilment and handling of your requests. The provision of data is necessary for conclusion of a contract. Failure to provide it will prevent the conclusion of any contract. The processing will occur on the basis of art. 6 (1) lit. b GDPR and is required for the fulfilment of a contract with you. We will notforward your data to third parties without your explicit consent. This only excludes our service partners which we require in order to handle the contractual relationship or service providers we use to process an order. Along with the recipients named in the clauses of this data protection declaration, these may be recipients in the following categories: Shipping providers, payment service providers, merchandise management service providers, service providers for order processing, web hosts, IT service providers and dropshipping dealers. We will comply strictly with legal requirements in every case. The scope of data transmission is restricted to a minimum.
 
-3.2 To process payments we forward your name, billing and delivery address, account number and sort code or, in the case of payment by credit card, your credit card number and the expiry date of your credit card to our house bank or our payment service provider [...].
+**Use of your email address for mailing of newsletters**  
+We use your email address outside of contractual processing exclusively to send you a newsletter for our own marketing purposes, if you have explicitly agreed to this. The processing will be carried out on the basis of art. 6 (1) lit. a GDPR with your consent. You can withdraw your consent at any time without affecting the legality of the processing carried out with your consent up to the withdrawal. You can unsubscribe from the newsletter at any time using the relevant link in the newsletter or by contacting us. Your email address will then be removed from the distributor. Your data will be forwarded to a service provider for email marketing in the course of order processing. It will not be forwarded to other third parties.
 
-3.3 simMarket offers you a free newsletter service. On request we inform you with the newsletter about special offers, new publications and similar promotions of simMarket. To receive the newsletter we need your email address. You can unsubscribe to the newsletter at any time. Information on this is contained in each newsletter.
+**Using PayPal**  
+When paying via PayPal we transmit your payment data to PayPal (Europe) S.a.r.l. et Cie, S.C.A., 22-24 Boulevard Royal, L-2449 Luxembourg (hereinafter “PayPal”). The transfer takes place in accordance with Art. 6 (1) point b GDPR and only insofar as this is necessary for payment processing. For further information on data protection law, including the credit agencies used, please refer to PayPal’s data protection declaration at: [https://www.paypal.com/uk/webapps/mpp/ua/privacy-ful​l](https://www.paypal.com/uk/webapps/mpp/ua/privacy-full).
 
-3.4 Furthermore, simMarket offers you the chance to obtain personal shopping recommendations by storing and using the data from your purchase. 
+**Using Alipay**  
+If you choose one of the payment methods offered by Wirecard, payment is processed via the payment service provider ​Wirecard Bank AG | Einsteinring 35 | 85609 Aschheim, Deutschland,​ to which we pass on your information provided during the order process together with the information about your order (name, address, possibly IBAN, possibly BIC, invoice amount, currency and possibly transaction number). Your data will only be passed on to the payment service provider checkoutportal by wirecard for the purpose of payment processing in accordance with Art. 6 Para. 1 letter b GDPR. Your data will only be passed on if this is actually necessary for processing the payment. Wirecard’s Data Privacy Statement can be found here: ​<https://www.wirecard.com/privacy-protection/>
 
-3.5 If, as a customer, you wish to write an online review, then please specify your email address for security reasons. Your email address will not be published with your review unless you have given your consent thereto. 
+**Using Credit Cards, IDEAL** If you choose one of the payment methods offered by Stripe, payment is processed by Stripe Payments Europe Ltd, Block 4, Harcourt Centre, Harcourt Road, Dublin 2, Ireland,,​ to which we pass on your information provided during the order process together with the information about your order (name, address, possibly IBAN, possibly BIC, invoice amount, currency and possibly transaction number). Your data will only be passed on to the payment service provider checkoutportal by wirecard for the purpose of payment processing in accordance with Art. 6 Para. 1 letter b GDPR. Your data will only be passed on if this is actually necessary for processing the payment.Stripe’s Data Privacy Statement can be found here: ​<https://stripe.com/de/privacy>
 
-3.6 In the case of payment on account we review and evaluate the data you have provided. If there is justifiable reason, we exchange data with other companies within the simFlight network and credit reporting agencies. The result of this review will only have an effect on the method of payment, not the delivery per se. 
+**Using Sofort (direct bank transfer)**  
+If you choose one of the payment methods offered by SOFORT, payment is processed by SOFORT GmbH, Theresienhöhe 12, 80339 München, Deutschland, to which we pass on your information provided during the order process together with the information about your order (name, address, possibly IBAN, possibly BIC, invoice amount, currency and possibly transaction number). Your data will only be passed on to the payment service provider checkoutportal by wirecard for the purpose ofpayment processing in accordance with Art. 6 Para. 1 letter b GDPR. Your data will only be passed on if this is actually necessary for processing the payment.Stripe’s Data Privacy Statement can be found here: [h​ttps://www.klarna.com/sofort/datenschutz](https://secure.simmarket.com/h%E2%80%8Bttps://www.klarna.com/sofort/datenschutz/)
 
-3.7 When accessing our websites your internet browser automatically transmits data for technical reasons. The following data is stored separately from the other data that you may send us: date and time of access, browser type/version, operating system used, URL of the previously visited website, volume of data sent. We store this data anonymously so that we cannot link it to individual visitors. We use this anonymous data to improve the appearance and structure of our range of products.
+**Cookies** Our website uses cookies. Cookies are small text files which are saved in a user’s internet browser or by the user’s internet browser on their computer system. When a user calls up a website, a cookie may be saved on the user’s operating system. This cookie contains a characteristic character string which allows the browser to be clearly identified when the website is called up again. We use cookies to make our offering more user-friendly, effective and secure. Cookies also allow our systems to recognise your browser after a page change and to offer you services. Some functions of our website cannot be offered without the use of cookies. These services require the browser to be recognised again after a page change.  
+Our website also uses cookies to allow us to analyse the surfing behaviour of visitors to our website.
 
-**4 Cookies**
+We also use cookies to address visitors to other websites with targeted marketing relating to their interests.
 
-SimMarket stores "cookies" in order to offer you an extensive range of functions on the website and make it more convenient for you to use our websites. Cookies are small files that your internet browser stores on your computer hard disk and which can be read by our server. The cookies enable us to offer you convenient functions and to store items in your shopping trolley between your visits to our website. If you do not wish to use cookies, you can use your browser settings to prevent cookies from being stored on your computer. Please note that this may limit the operation and scope of functions on our website.
+Processing is carried out on the basis of § 15 (3) TMG (Telemedia Act) as well as art. 6 (1) lit. f GDPR due to our justified interest in the purposes above. The data collected in this way is pseudonymised using technological measures. It is therefore not possible to connect the data to your person. The data will not be stored together with other personal data pertaining to you. **_You have the right to veto this processing of your personal data according to art. 6 (1) lit. f GDPR by contacting us, for reasons relating to your personal situation.​_** Cookies will be stored on your computer. You therefore have full control over the use of cookies. By choosing corresponding technical settings in your internet browser, you can prevent the storage of cookies and transmission of the data they contain. Cookies which have already been saved may be deleted at any time. We would, however, like to point out that this may prevent you from making full use of all the functions of this website. Using the links below, you can find out how to manage cookies (or deactivate them, among other things) in major browsers:
 
-**5 Use of Facebook plugins**
+Chrome Browser: <https://support.google.com/accounts/answer/61416?hl=en>  
+Internet Explorer:​ <https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies>  
+Mozilla Firefox: <https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences>  
+Safari: <https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac>
 
-Our websites use plugins for the social networking site facebook.com, which is operated by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA ("Facebook"). You can identify the Facebook plugins by their respective Facebook logo or the additional "Recommend", "Like" or "Comment" buttons. 
+**Use of YouTube**  
+Our website uses YouTube LLC’s function for the embedding of YouTube videos. (901 Cherry Ave., San Bruno, CA 94066, USA; “YouTube”). YouTube is an affiliated company of Google Inc. (1600 Amphitheatre Parkway, Mountain View, CA 94043, USA;“Google”). This feature shows YouTube videos in an iFrame on the website. The option “advanced privacy mode” is enabled here. This prevents YouTube from storing information on visitors to the website. It is only if you watch a video that information is transmitted to and stored by YouTube.Further information on the data collected and used by YouTube and Google, your rights and privacy can be found in YouTube’s privacy policy ([​https://www.youtube.com/t/privacy​](https://www.youtube.com/t/privacy%E2%80%8B)).
 
-Just by visiting our website, your internet browser will not establish a direct connection to the servers of the social networks or transfer data. The "Like" button becomes active only after hovering over it with the cursor and upon clicking on it after a pop-up message informs you that the "Like" button will only be activated once you click on it. After that, you may post a recommendation by clicking on it. After clicking the "Like" button, various data is sent to Facebook. This may include:
+**Use of social media buttons.**  
+In order to increase the protection of your data when you visit our website, these buttons are not fully integrated into the page as plug-ins and only fully operational when using an HTML link. This type of integration ensures that no connection to the respective social media servers is established when a page of our website containing such buttons is accessed. When you click on the button, a new browser window opens and calls up the respective social media page, where you can interact with the plug-ins there (if necessary after entering your login data).
 
-Date and time of accessing the website
+**Duration of storage**  
+After contractual processing has been completed, the data is initially stored for the duration of the warranty period, then in accordance with the retention periods prescribed by law, especially tax and commercial law, and then deleted after the period has elapsed, unless you have agreed to further processing and use.
 
-URL of the website the visitor is currently on
+**Rights of the affected person**  
+If the legal requirements are fulfilled, you have the following rights according to art. 15 to 20 GDPR: Right to information, correction, deletion, restriction of processing, data portability. You also have a right of objection against processing based on art. 6 (1) GDPR, and to processing for the purposes of direct marketing, according to art. 21 (1) GDPR.
 
-URL of the website previously accessed by the visitor
+Contact us at any time. Our contact details can be found in our imprint.
 
-Browser type used
-
-Operating system used
-
-IP address of the visitor
-
-If you are logged in to Facebook while visiting our website, it cannot be ruled out that Facebook may link the visit to your network account. If you use plugin features (e.g. clicking the "Like" button or leaving a comment), this information will likewise be directly transmitted to the respective social network by your browser and potentially stored there. The purpose and extent of this data collection and the further processing and usage of the data by the networks can be found in the data protection policies of Facebook [http://www.facebook.com/policy.php].
-
-**6 "AddThis" bookmarking service**
-
-This website contains "AddThis" buttons which enable you to set bookmarks or share interesting website content in the social web (e.g. Facebook, Twitter). This service uses the cookies described above in subsection 4. The generated data (such as time of use or browser language) will be transmitted to AddThis LLC in the U.S. and processed there.
-
-Further information on data processing by AddThis LLC and AddThis LLC's Privacy Policy can be found at www.addthis.com/privacy. This website especially contains information on the nature of the processed data and its use. This data will not be processed by us. 
-
-With the use of the "AddThis" button, you agree to the data processing by AddThis LLC on the scale shown on the website www.addthis.com. You can object to the use of your data at any time with "opt-out cookies." Further details can also be obtained from the aforementioned AddThis LLC website. 
-
-**7 Date security**
-
-We use secure technology: Our security server software SSL is one of the best in secure e-commerce. Our security server software encrypts all your personal data, such as credit card number, sort code, bank account number, name and address. This information cannot be read by unauthorised persons during transmission in the internet. In the encryption process, the characters you enter are converted into a code that can be safely transmitted through the internet. Thousands of customers worldwide trust us. At simMarket your satisfaction is our top priority. A crucial part of our task is therefore to protect your privacy.
-
-**8 Deletion of data**
-
-If your data is no longer required for the above-mentioned purposes, including billing, they will be deleted. If data has to be stored for legal (especially tax law) reasons, they will be blocked. 
-
-**9 Right of access and rectification**
-
-Of course you have the right to obtain information about the data we store about you on request. Likewise, you are entitled to the rectification of incorrect data and the blocking and deletion of personal data. For this, please contact sales@simmarket.com or write to us at the address stated above.
-
-**10 Changes to our data protection declaration**
-
-This data protection declaration describes our handling of your data in the correct manner at all times. Should the volume of the data we collect and use change in the future, for example owing to an amended legal situation, we shall update this data protection declaration.
-
-Version:
+**Right to complain to the regulatory authority**  
+You have the right to complain to the regulatory authority according to art. 77 GDPR if you believe that your data is not being processed legally.
