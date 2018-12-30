@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the competitor.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624102248id_/http%3A//pocketoutdoormedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the competitor.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230100204id_/https%3A//pocketoutdoormedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Pocket Outdoor MediaPrivacy Policy |
 
@@ -40,13 +40,15 @@ POM may also use your personally identifiable information to inform you of other
 
 **Sharing Information with Third Parties**
 
-POM may sell, rent, or lease customer information to third parties for the following reasons:
+POM’s standard practice is to share as little of your personal information as possible. We reserve the right to share, sell, rent, or lease customer information to third parties for advertising purposes and to acquire users and subscribers, as allowed by law.
 
-  * for advertising purposes and to acquire users and subscribers.
+In order to deliver the products or services you have requested from us, it is necessary for POM to share your personal information with our trusted third-party vendors and partners. POM may, from time to time, contact you on behalf of third-party business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) may be transferred to a third party.
 
+POM may share data with trusted partners to help perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. For example, in order to send you our free e-mail newsletters, we must process your information using a trusted e-mail newsletter service vendor like MailChimp. In order to mail you magazines to which you subscribe, we must share your personal information with our magazine fulfillment partner.
 
+All such third parties are prohibited from using your personal information except to provide these services to POM, and they are required to maintain the confidentiality of your information. At the termination of a contract with a third-party business partner or vendor and subject to the terms of the contract, the partner or vendor will delete user information. POM is not responsible for third-party vendor non-compliance.
 
-POM may, from time to time, contact you on behalf of third-party business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is transferred to the third party. POM may share data with trusted partners to help perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to POM, and they are required to maintain the confidentiality of your information. At the termination of a contract with a third-party business partner or vendor and subject to the terms of the contract, the partner or vendor will delete user information. POM is not responsible for third-party vendor non-compliance.
+The only way to completely stop all sharing of your personal information is to terminate your relationship with POM and its brands, which will cause us to delete all your personal information from our databases and request deletion of your information from our third-party partner databases. After you terminate your relationship with us, you will no longer receive products or services that you have requested or purchased from us. We do not offer refunds for products or services not completely fulfilled at the time we receive your relationship termination request. To request deletion from our system, please contact Greg Thomas using the contact information below.
 
 POM may disclose your personal information, without notice, if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on POM or the sites; (b) protect and defend the rights or property of POM; and/or (c) act under exigent circumstances to protect the personal safety of users of POM, or the public.
 
@@ -78,7 +80,7 @@ POM does not knowingly collect personally identifiable information from children
 
 **Opt-Out & Unsubscribe from Third Party Communications**
 
-We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from third-party partners of POM by updating your e-mail preferences.
+We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt out of receiving all e-mail communications from third-party partners of POM by unsubscribing from our e-mail lists. Making this change means you will no longer receive our free e-mail newsletters. After you are unsubscribed, we may continue to contact you so that we may provide customer service for products and services you have requested or purchased.
 
 **E-mail Communications**
 
@@ -86,7 +88,7 @@ From time to time, POM may contact you via email for the purpose of providing an
 
 We use MailChimp as our marketing automation platform. When submitting forms and/or subscribing to our newsletters, you acknowledge that the information you provide will be transferred to MailChimp for processing in accordance with their [Privacy Policy](https://mailchimp.com/legal/privacy/) and [Terms](https://mailchimp.com/legal/).
 
-If you would like to stop receiving marketing or promotional communications via email from POM, you may easily opt out of such communications by clicking on the UNSUBSCRIBE link in the e-mail.
+If you would like to stop receiving marketing or promotional communications via email from POM, you may easily opt out of such communications by clicking on the “unsubscribe” link that appears at the bottom of every email we send to our newsletter list members.
 
 **External Data Storage Sites**
 
@@ -104,7 +106,7 @@ Your information may be required in order for us to deliver the good or service 
 
 We keep your information for as long as is necessary to continue providing you with our goods or services or for as long as we believe that you may wish to receive our goods or services in the future. We may delete your information at any time at our discretion and without notice.
 
-Our data protection officer is Greg Thomas. Through our data protection officer, EU citizens may request a record of their information, change or update their information, or request the deletion of their information. We will respond to your request within one month of receiving your request.
+Our data protection officer is Felix Magowan. Through our data protection officer, EU citizens may request a record of their information, change or update their information, or request the deletion of their information. We will respond to your request within one month of receiving your request.
 
 **Contact Information**
 
@@ -114,6 +116,6 @@ Pocket Outdoor Media, LLC
 3002 Sterling Circle, Suite 100  
 Boulder, Colorado 80301
 
-Email Address: gthomas@pocketoutdoormedia.com
+Email Address: fmagowan@pocketoutdoormedia.com
 
-Effective as of October 26, 2017. Updated on May 16, 2018.
+Effective as of October 26, 2017. Updated on July 19, 2018.
