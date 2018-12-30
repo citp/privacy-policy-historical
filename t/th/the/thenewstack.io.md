@@ -1,95 +1,92 @@
-> *The following text is extracted and transformed from the thenewstack.io privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624121944id_/https%3A//thenewstack.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenewstack.io privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230115750id_/https%3A//thenewstack.io/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The New Stack
 
-Last updated: November 02, 2015
+Effective November 2, 2015; Last Updated: June 21, 2018
 
-Alex Williams Media, LLC dba The New Stack (“us”, “we”, or “our”) operates the http://thenewstack.io website (the “Service”).
+## INTRODUCTION
 
-This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
+This privacy statement applies to [www.thenewstack.com](https://thenewstack.io/) (the “Site”) and services and products offered by Alex Williams Media, LLC dba The New Stack, (“TNS”, “we”, “our”, or “us”) that collect data and display these terms. This statement does not apply to any TNS site, service or product that does not display or link to this statement or that contains its own privacy statement.
 
-We will not use or share your information with anyone except as described in this Privacy Policy.
+TNS is committed to protecting your privacy in a number of ways including using industry accepted security measures to protect against loss, misuse and alteration of data in our systems. This statement is designed to describe how we secure and maintain your personal data when you visit our Site or when your personal data is collected during your use of the Site. Rest assured, your personal data will never be sold, rented, traded, shared or leased other than as outlined in this statement.
 
-**We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy.** Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at http://thenewstack.io
+TNS does not publish text, images, or multimedia content that portray nudity, foul language, violence or other data not suitable for children. Our Site and products are not directed to children under the age of 16. We will not knowingly collect or maintain personal data from or about anyone under 16. We are committed to complying with applicable privacy laws and adhering to appropriate measures to ensure security of personal data.
 
-### Information Collection And Use
+## COLLECTION AND USE OF DATA
 
-While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your email address (“Personal Information”).
+### Data Collected from You
 
-We collect this information for the purpose of providing the Service, identifying and communicating with you, responding to your requests/inquiries, servicing your purchase orders, and improving our services.
+**Data You Provide Us.** We collect data directly from you when you sign up to receive our products. For instance, if you request to receive an ebook or newsletter, you are required to provide your email address, so we may send you the ebook or newsletter requested. Similarly, if you email us with a request, comment or concern, we will collect your email address, name and other information so we may address the issue. Additionally, if you provide us with your email address, we may, from time-to-time, send you a survey or questionnaire which you may voluntarily respond to and may, at your choice, provide certain personal information.
 
-### Log Data
+**Data Automatically Collected.** Whenever you interact with the Site, we automatically receive and record certain information. This information may include server logs from your browser including your IP address, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, “cookie” information, and the page you requested. We store this information in log files and do not link this automatically collected data to other information we collect about you.
 
-We may also collect information that your browser sends whenever you visit our Service (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics.
+Technologies such as cookies, beacons, tags and scripts are used by us and our partners, affiliates, analytics or service providers. These technologies are used in analyzing trends, administering the Site, tracking users’ movements around the Site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. “Cookies” are small text files stored on a user’s computer or mobile device that allow us to recognize your browser or mobile device and tell us how and when pages on the Site are visited and by how many people. You may be able to change the preferences on your browser or mobile device to prevent or limit your computer or device’s acceptance of cookies, but this may limit you from taking advantage of some of our Site’s features.
 
-In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this type of information in order to increase our Service’s functionality. These third party service providers have their own privacy policies addressing how they use such information.
+Also, if you click on a link to a third party site (for example a promoted event), such third party may also transmit cookies to you. This statement does not cover the use of cookies by any third parties.
 
-### Cookies
+### How We Use Your Data
 
-Cookies are files with a small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and transferred to your device. We use cookies to collect information in order to improve our services for you.
+We use your data to provide you with products and services your request including ebooks and newsletters, responding to inquiries or requests, and displaying content based upon your interests. In addition, we may use your data to market our and sponsors’ products, promotions, and offers which we feel you may find interesting, provided you have not opted out of receiving such information or, where required by law, we have your express consent. We may also use your data to understand general trends and patterns and improve our Site.
 
-You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. The Help feature on most browsers provide information on how to accept cookies, disable cookies or to notify you when receiving a new cookie.
+### How We Share Your Data
 
-If you do not accept cookies, you may not be able to use some features of our Service and we recommend that you leave them turned on.
+**Third Party Service Providers.** We may disclose your personal data to third-party service providers who perform services on our behalf including third parties that send marketing communications on our behalf (such as Mailchimp) and help us create or maintain our databases or help us research or analyze use of the Site (such as Google Analytics). We require our service providers get your prior consent to use your data to market their own products or services to you directly. When we transfer any of your personal data to a service provider, the provider will be contractually required to use your data only to carry out the services we have requested, to provide appropriate protection of your data and to comply with applicable laws and regulations.
 
-### Behavioral Re-marketing
+**Third Party Partners.** We **do not** share your data with our third party partners including our sponsors.
 
-We use re-marketing services to advertise on third party web sites to you after you visited our Service. We, and our third party vendors, use cookies to inform, optimize and serve ads based on your past visits to our Service.
+**To Comply with Legal Process.** In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. We reserve the right to disclose your personal data as required by law and when we believe that disclosure is necessary to protect our rights or comply with a judicial proceeding, court order, or legal process served on us.
 
-  * **AdRoll:  **AdRoll re-marketing service is provided by Semantic Sugar, Inc. You can opt-out of AdRoll re-marketing by visiting this [AdRoll Advertising Preferences](http://info.evidon.com/pub_info/573?v=1&nt=1&nw=false "AdRoll Advertising Preferences") web page.For more information on the privacy practices of AdRoll, please visit the [AdRoll Privacy Policy](http://www.adroll.com/about/privacy "AdRoll Privacy Policy") web page.
+**Third Parties to a Business Transaction.** In the event we go through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personal data will likely be among the assets transferred. You will be notified via prominent notice on our Platforms for 30 days of any such change in ownership or control of your personal data.
+
+Where we want to share data with third parties not described above, we will obtain your consent to do so.
+
+## STORING AND ACCESSING YOUR DATA
+
+### How We Store and Secure Your Data
+
+TNS will take appropriate precautions to protect personal data in our possession from loss, misuse and unauthorized access, disclosure, alteration and destruction. We are committed to complying with applicable privacy laws and adhering to appropriate measures to ensure security of personal data. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personal data, we cannot guarantee its absolute security.
+
+### Updating or Making Choices About Your Data
+
+If your personal data changes or if you no longer desire to use our Site or receive our products, you may contact us at the contact information listed below. We will respond to your request to access within 30 days of receiving the request.
+
+You can choose to stop receiving personalized emails, promotional emails and newsletters from us at any time simply by following the email preference link at the bottom of any email or newsletter or contacting us at the contact information listed below.
+
+We will retain your data for as long as your account is active or as needed to provide products you request to receive. We will retain and use your data as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+## DO NOT TRACK SIGNALS
+
+At this time, our Site does not support “Do Not Track” preferences that may be available in your browser. For more information about Do Not Track, visit [donottrack.us](https://donttrack.us/).
+
+## LINKED WEBSITES
+
+Our Site may contain links to other websites that are not covered by this statement and where data practices may be different from ours. If you submit personal data to any of those sites, your data is governed by their privacy statements. We encourage you to carefully read the privacy statement of any website you visit.
+
+## ADDITIONAL DISCLOSURES FOR USERS BASED IN THE EUROPEAN UNION
+
+The European Union’s General Data Protection Regulation and other data protection laws grant you certain rights in relation to your personal data. Where applicable to you, you can contact us at the contact information below and:
+
+  * request access to your personal data and how we process it
+  * request correction of the personal data that we hold about you
+  * ask us to delete your personal data
+  * object to us processing your personal data
+  * request the restriction of processing of your personal data
+  * request the transfer of your personal data to you or to a third party
+  * withdraw consent at any time where we are relying on consent to process your personal data.
 
 
 
-### Do Not Track Disclosure
+Note that withdrawing your consent to our processing of your data will not affect the lawfulness of any processing carried out before you withdraw your consent. You should also be aware that if you do withdraw your consent, we may not be able to provide certain products or services to you. Where this is the case, we will let you know at the time you withdraw your consent. Please note that even after you have withdrawn your consent we may be able to continue to process your personal data to the extent required or otherwise permitted by law, in particular in connection with exercising and defending our legal rights or meeting our legal and regulatory obligations.
 
-We support Do Not Track (“DNT”). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.
+## CHANGES TO THIS PRIVACY STATEMENT
 
-You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.
+Any updates or changes to this statement will be posted to this statement, and across our Site so that you are aware of what data we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this statement, we will notify you here, by e-mail, or by means of a notice as described in this paragraph, prior to the change becoming effective.
 
-### Service Providers
+## WHERE TO CONTACT US
 
-We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services and/or to assist us in analyzing how our Service is used.
+If you have any questions or concerns regarding this statement, please contact us at:
 
-These third parties have access to your Personal Information only to perform specific tasks on our behalf and are obligated not to disclose or use your information for any other purpose.
-
-### Communications
-
-We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send.
-
-### Security
-
-The security of your Personal Information is important to us, and we strive to implement and maintain reasonable, commercially acceptable security procedures and practices appropriate to the nature of the information we store, in order to protect it from unauthorized access, destruction, use, modification, or disclosure.
-
-However, please be aware that no method of transmission over the internet, or method of electronic storage is 100% secure and we are unable to guarantee the absolute security of the Personal Information we have collected from you.
-
-### International Transfer
-
-Your information, including Personal Information, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
-
-If you are located outside United States and choose to provide information to us, please note that we transfer the information, including Personal Information, to United States and process it there.
-
-Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
-
-### Links To Other Sites
-
-Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
-
-We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
-
-### Children’s Privacy
-
-Only persons age 18 or older have permission to access our Service. Our Service does not address anyone under the age of 13 (“Children”).
-
-We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you learn that your Children have provided us with Personal Information, please contact us. If we become aware that we have collected Personal Information from a children under age 13 without verification of parental consent, we take steps to remove that information from our servers.
-
-### Changes To This Privacy Policy
-
-This Privacy Policy is effective as of November 02, 2015 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
-
-We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.
-
-If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website.
-
-### Contact Us
-
-If you have any questions about this Privacy Policy, please contact us.
+The New Stack  
+7015 N. Kellogg St.  
+Portland, OR 97203  
+[help@thenewstack.io](mailto:help@thenewstack.io)
