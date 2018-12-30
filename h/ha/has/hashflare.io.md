@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hashflare.io privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625010907id_/https%3A//hashflare.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hashflare.io privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231002200id_/https%3A//hashflare.io/privacy-policy) for the most accurate reproduction.*
 
 # HashFlare - Privacy policy
 
@@ -225,7 +225,7 @@ Any changes we make to our privacy policy in the future will be posted on this p
 
 ### QUESTIONS
 
-Any inquiries or requests for access to personal information HashFlare has used or collected can be directed via email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4737352e3126243e072f26342f212b263522692e28)
+Any inquiries or requests for access to personal information HashFlare has used or collected can be directed via email: [privacy@hashflare.io](mailto:privacy@hashflare.io)
 
   
 
