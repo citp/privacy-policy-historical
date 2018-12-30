@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outerplaces.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624185516id_/https%3A//www.outerplaces.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outerplaces.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230181624id_/https%3A//www.outerplaces.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Outer Places
 
@@ -98,7 +98,7 @@ When you ask a question, participate in a survey or enter a contest or sweepstak
 
 Information shared among Outer Places, LLC affiliates:
 
-  * When you choose to register for an account on any Outer Places, LLC online service: the information you provide may be shared with Outer Places, LLC affiliates and used to help us better tailor our services, products and advertising to you. Note that you may be registered for different accounts with different Outer Places, LLC group companies or in different areas of our business. Please visit the account settings page of the applicable online service if you wish you "de­register" from your account or for more information, or email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#bcd5d2dad3fcd3c9c8d9ceccd0dddfd9cf92dfd3d1)
+  * When you choose to register for an account on any Outer Places, LLC online service: the information you provide may be shared with Outer Places, LLC affiliates and used to help us better tailor our services, products and advertising to you. Note that you may be registered for different accounts with different Outer Places, LLC group companies or in different areas of our business. Please visit the account settings page of the applicable online service if you wish you "de­register" from your account or for more information, or email [info@outerplaces.com](mailto:info@outerplaces.com)
 
   * Information collected automatically: this information collected from your interaction with the online services via Cookies and Tracking Technologies, which may or may not include personal information, may be shared with Outer Places, LLC affiliates for the purposes of research, analysis, marketing and ad-serving.
 
@@ -148,14 +148,14 @@ We reserve the right to transfer your usage information and personal information
 
 * ## WHO MAY USE THIS WEB SITE 
 
-  * Except where otherwise indicated we do not knowingly collect or store any personal information from children under the age of 13. We encourage parents and guardians to spend time with their children online and to be fully familiar with the online services used by their children. If a parent or guardian becomes aware that his or her child under 13 has provided us with information without his or her consent, he or she should contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3e575058517e514b4a5b4c4e525f5d5b4d105d5153) As required by law, we will delete such information from our files within a reasonable time.
+  * Except where otherwise indicated we do not knowingly collect or store any personal information from children under the age of 13. We encourage parents and guardians to spend time with their children online and to be fully familiar with the online services used by their children. If a parent or guardian becomes aware that his or her child under 13 has provided us with information without his or her consent, he or she should contact us at [info@outerplaces.com](mailto:info@outerplaces.com) As required by law, we will delete such information from our files within a reasonable time.
 
   * For certain websites covered by this Privacy Policy and involved in e-commerce (for example, [http://www.getsupplypod.com](http://www.getsupplypod.com/) you may only be able to use that site and any related services if you are 18 years of age or older, or the age of majority in your jurisdiction of residence, whichever is older. If you are under the age of 18 or the age of majority in your jurisdiction of residence, you may only use that site and any related services with the involvement of a parent or legal guardian.
 
 
 
 
-California minors under 18 years old may request the removal of any information that they posted to Outer Places, LLC sites by contacting [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#11787f777e517e64657463617d707274623f727e7c). Upon such request, Outer Places, LLC will anonymize or remove from public view any content posted by a minor to one of its websites, unless required by law to retain such content or information.
+California minors under 18 years old may request the removal of any information that they posted to Outer Places, LLC sites by contacting [info@outerplaces.com](mailto:info@outerplaces.com). Upon such request, Outer Places, LLC will anonymize or remove from public view any content posted by a minor to one of its websites, unless required by law to retain such content or information.
 
 This Website is intended for users from the United States and those not governed by privacy policies of other countries. Information sent to us will be processed and housed on servers located in the U.S. and in other countries. In some cases, we may process personal information on servers located outside your own country. We may process personal information to provide our own services. In some cases, we may process Personal Information on behalf of and according to the instructions of a third party, such as our advertising partners. Do not send us information unless you consent to the application of U.S and other countries’ laws and to the use and disclosure of your information consistent with this Privacy Policy
 
@@ -175,11 +175,11 @@ If you have subscribed to one or more of our email newsletters or are receiving 
 
 Access and Correction
 
-In addition to the functionality provided to you via the online services, where legally required we provide online visitors with access to their personal information and the ability to review, update and correct it. To help your privacy and security, we will take reasonable steps to verify your identity, such as requiring a password and user ID, and possibly photo ID before granting access to your personal information. Please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#afc6c1c9c0efc0dadbcadddfc3cecccadc81ccc0c2) for more information about exercising these rights.
+In addition to the functionality provided to you via the online services, where legally required we provide online visitors with access to their personal information and the ability to review, update and correct it. To help your privacy and security, we will take reasonable steps to verify your identity, such as requiring a password and user ID, and possibly photo ID before granting access to your personal information. Please contact [info@outerplaces.com](mailto:info@outerplaces.com) for more information about exercising these rights.
 
 Data Retention and Deletion
 
-We will retain your data for as long as you use the online services and for a reasonable time thereafter. If you’d like to delete, modify or update the data that you provided via the online services please use the settings on the online services or contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2f464149406f405a5b4a5d5f434e4c4a5c014c4042) and we will respond in a reasonable time. Please note that some or all of this data may be required in order for the online services to function properly, and we may be required to retain certain information by law.
+We will retain your data for as long as you use the online services and for a reasonable time thereafter. If you’d like to delete, modify or update the data that you provided via the online services please use the settings on the online services or contact us at [info@outerplaces.com](mailto:info@outerplaces.com) and we will respond in a reasonable time. Please note that some or all of this data may be required in order for the online services to function properly, and we may be required to retain certain information by law.
 
 * ## WHERE YOUR INFORMATION WILL BE USED
 
@@ -213,7 +213,7 @@ You can determine when this Privacy Policy was last revised by referring to the 
 
 * ## CONTACT US
 
-For any queries in relation to this Privacy Policy please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2841464e4768475d5c4d5a5844494b4d5b064b4745) or Outer Places, 114 West 17th Street, 2nd Floor, NY, NY 10011.
+For any queries in relation to this Privacy Policy please contact us at [info@outerplaces.com](mailto:info@outerplaces.com) or Outer Places, 114 West 17th Street, 2nd Floor, NY, NY 10011.
 
 On Outer Places, LLC online services, we along with our advertising partners and vendors, use a variety of technologies to learn more about how people use Outer Places, LLC online services. You can find out more about these technologies and how to control them in the information below. This policy forms part of the Outer Places, LLC Privacy Policy.
 
@@ -284,4 +284,4 @@ A feature of the cache in browsers, an ETag is an opaque identifier assigned by 
 
 * ## CONTACT US
 
-For any queries in relation to this Cookies and Tracking Technologies Policy please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#92fbfcf4fdd2fde7e6f7e0e2fef3f1f7e1bcf1fdff) or Outer Places, Outer Places 49 W 37th Street, 15th Fl. New York, NY 10018.
+For any queries in relation to this Cookies and Tracking Technologies Policy please contact us at [info@outerplaces.com](mailto:info@outerplaces.com) or Outer Places, Outer Places 49 W 37th Street, 15th Fl. New York, NY 10018.
