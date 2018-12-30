@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 9jaflaver.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202185932id_/http%3A//9jaflaver.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 9jaflaver.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230071508id_/http%3A//9jaflaver.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | 9jaflaver
+# Privacy Policy - 9jaflaver
 
-This Privacy Policy governs the manner in which 9jaflaver collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://9jaflaver.com website (“Site”).
+This Privacy Policy governs the manner in which 9jaflaver collects, uses, maintains and discloses information collected from users (each, a “User”) of the https://9jaflaver.com website (“Site”).
 
 **Personal identification information**
 
@@ -63,9 +63,3 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us.
 
 This document was last updated on May 02, 2016
-
-Don't Just Read A Post And Go, Comment Below To Make The Post Lively
-
-Do You Have Something To Say? Comment In The Box Below
-
-NOTE:- After Dropping your comment, keep calm, it will take 5mins before it appears.
