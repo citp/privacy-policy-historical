@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the forcechange.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624122342id_/https%3A//forcechange.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forcechange.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230120147id_/https%3A//forcechange.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – ForceChange
+# Privacy Policy | ForceChange
 
 We (“the Company”, “we”, “ForceChange”, “Animal Petitions”, “Play4Paws”, “Limited Liability Company”, or “us”) are a limited liability company and have established this privacy policy to explain to you how your information on ForceChange is protected, collected and used, which may be updated by us from time to time.
 
