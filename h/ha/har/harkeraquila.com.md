@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harkeraquila.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628174810id_/https%3A//snosites.com/client-site-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harkeraquila.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230031857id_/https%3A//snosites.com/client-site-privacy-policy) for the most accurate reproduction.*
 
 # Client Site Privacy Policy | SNO Sites
 
@@ -93,7 +93,7 @@ PO Box 2277
 
 Burnsville, MN 55337
 
-[contact@schoolnewspapersonline.com](mailto:contact@schoolnewspapersonline.com)
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#aac9c5c4decbc9deead9c9c2c5c5c6c4cfddd9dacbdacfd8d9c5c4c6c3c4cf84c9c5c7)
 
 (888) 649-7784
 
