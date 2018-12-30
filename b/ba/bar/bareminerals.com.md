@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bareminerals.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928062106id_/https%3A//www.bareminerals.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bareminerals.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231005727id_/https%3A//www.bareminerals.com/privacy-policy.html) for the most accurate reproduction.*
 
-# privacy-policy
+# Privacy Policy | bareMinerals
 
 ### PRIVACY POLICY
 
