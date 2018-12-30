@@ -1,34 +1,102 @@
-> *The following text is extracted and transformed from the trailfinders.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606164133id_/http%3A//www.trailfinders.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trailfinders.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230184234id_/https%3A//www.trailfinders.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Trailfinders the Travel Experts
+# Trailfinders - The Travel Experts
 
-Trailfinders Ltd, and, on our behalf, comScore are committed to protecting the privacy of trailfinders.com users and the overall integrity of the internet.
+##### WHAT THIS NOTICE COVERS
 
-These guidelines have been developed to comply with the [Data Protection Act 1998](http://ico.org.uk/ "Information on the Data Protection Act 1998").
+This privacy notice tells you what to expect when Trailfinders Ltd collects personal information. It explains how we use your personal data and your rights in relation to that data.   
+[ [Privacy Notice Scope](https://www.trailfinders.com/privacy/privacy-detailed)] 
 
-Trailfinders Ltd and comScore take the following measures to protect our users' privacy as follows:
+##### INFORMATION Trailfinders Ltd COLLECTS
 
-  1. We make a note of your title, first & last name, email address, house number and postcode but we do NOT pass your details on to any third parties; you will only receive information directly from Trailfinders.
-  2. All our email correspondence includes an unsubscribe option.
+Click [here](https://www.trailfinders.com/privacy/privacy-detailed) for more information
+
+Trailfinders Ltd collects information about you from a variety of sources, including:
+
+  * Information we collect from you directly;
+  * Information we collect about you when you call us, visit our sites or services, or view our online advertisements; 
+  * Information we collect about you from other sources, such as social media, public and commercially available sources;
+  * Information shared with us by our business partners;
+  * All the information Trailfinders Ltd collects about you may be combined to improve our communications with you and to develop world-class products and services.
 
 
 
-Trailfinders Ltd and comScore collect information on our users through cookies (see below for further information). If you accept our cookies, please note that they will remain in your computer for five years unless you delete them. Please note that turning off cookies may limit your use of our website and services.
+#####  LINKS TO THIRD PARTY SITES AND SOCIAL MEDIA 
 
-We may periodically send you email updates on special offers from Trailfinders Ltd. If you wish to opt out of receiving such information from us, please use the unsubscribe option included in all our emails to unsubscribe from such mailings.
+Click [here](https://www.trailfinders.com/privacy/privacy-detailed) for more information
 
-### What is a Cookie?
+Trailfinders Ltd sites may include links to third party sites. Trailfinders Ltd does not control these third-party sites, and we encourage you to read the privacy policy of every site you visit.
 
-A cookie is a small, numeric text file that is stored by your browser on your computer's hard drive. Any information you provide to us is held securely on our web servers and not on your machine.
+Trailfinders Ltd sites may also have “plugins” (such as the Facebook “Like” button) to third-party sites or offer login (such as log in with Facebook) through a third-party account. Third-party plugins and login features, including their loading, operation and use, are governed by the privacy policy and terms of the third-party providing them.
 
-Trailfinders and comScore use cookies to track users as they travel through the site - for instance, we might use cookies to count the total number of unique users who are accessing the site over a particular period of time, or to monitor the success of a particular campaign. The use of cookies in this way helps to make our system more efficient.
+##### USE OF COOKIES BY Trailfinders Ltd
 
-Firewalls set up by your company network may prohibit the use of browser cookies.
+You can read more about how we use cookies on our [cookie page](https://www.trailfinders.com/privacy/cookie-policy)
 
-If you would like to know more about cookies, or would like to disable cookies in your browser settings (i.e. refuse cookies) please visit [www.aboutcookies.org.](http://www.aboutcookies.org/ "www.aboutcookies.org")
+##### IMPORTANT INFORMATION
 
-### Who should you contact about our privacy policy?
+Trailfinders Ltd is committed to working with clients and data protection authorities to resolve any privacy concern.
 
-Please write to The Marketing Department, 9 Abingdon Road, London, W8 6AH
+Trailfinders Ltd complies with EU data protection laws.
 
-Alternatively please call 020 7368 1590 or email marketing@trailfinders.com
+##### CONTACT
+
+You can contact Trailfinders Ltd by clicking below   
+[Contact Page](https://www.trailfinders.com/privacy/privacy-contact)
+
+##### THIS PRIVACY NOTICE
+
+This notice is reviewed by Trailfinders Ltd on a regular basis and should be checked by individuals for the latest updates   
+Last update: 22/05/2018 
+
+##### USES & INFORMATION SHARING
+
+Trailfinders Ltd uses the information we collect for Trailfinders Ltd business purposes such as:
+
+  * To provide the services you request;
+  * To tell you about Trailfinders Ltd services and those offered by our carefully selected business partners; 
+  * To manage our sites and services;
+  * We do not sell your personal information to marketing companies;
+  * We keep your data within the European Union (EU) or countries with EU adequacy status.
+
+
+
+We may share your information:
+
+  * With our business clients for the provision of professional services such as data privacy consultancy, but only if the business client or we have obtained your consent;
+  * With our third-party service providers who perform Trailfinders Ltd business operations on our behalf;
+  * As part of a sale of a Trailfinders Ltd brand to another company;
+  * To protect and defend Trailfinders Ltd (including enforcing our Terms and Conditions);
+  * When required by law and/or government authorities;
+  * You have the right not to provide personal information to Trailfinders Ltd, this may mean Network Utilities are not be able to provide the services you request, or to tell you about other services offered by Trailfinders Ltd. [[Trailfinders Ltd Limited Business Purpose]](https://www.trailfinders.com/privacy/privacy-detailed)
+
+
+
+##### YOUR CHOICES
+
+  * You can stop receiving promotional email or postal communications from Trailfinders Ltd by following the instructions in those messages, or through this Privacy Notice.
+  * You have the right to withdraw your consent for the processing of your personal data by Trailfinders Ltd. 
+  * You have the right to have your personal data erased (right to be forgotten), Trailfinders Ltd will make every reasonable effort to remove any reference to your personal data if they have shared it with any 3rd party during their usual business processes.
+  * You have the right to have your personal data transferred to another company and Trailfinders Ltd will make every reasonable effort to comply with your request.
+  * You have the right to raise any concerns to the processing or use of your personal data by Trailfinders Ltd to an appropriate data protection authority.
+  * You have the right to review personal data Trailfinders Ltd hold on you if this does not impact on other individual’s rights and freedoms [[Your Choices & Access to Your Information]](https://www.trailfinders.com/privacy/privacy-detailed)
+
+
+
+### Enhance your travel experience with our **Viewtrail App**. Your essential travel companion.
+
+##### Our newly designed App offers you an ever increasing amount of additional functions, driven by our passion to look after you from start to finish
+
+  * View your travel plans online or offline, wherever and whenever you wish
+  * GPS tracking will guide you back to your hotel from wherever you exploring takes you
+  * Check your baggage allowance for each flight
+  * Live flight details provide real time access to flight information, terminals, meals and seat requests
+  * Be kept aware of important changes which may affect your travel plans before and during your trip
+
+
+
+[](https://play.google.com/store/apps/details?id=com.trailfinders.viewtrail&hl=gb)
+
+[](https://itunes.apple.com/gb/app/viewtrail-trailfinders/id1180019820?l=en&mt=8)
+
+We use cookies to give you the best experience on our website. Carry on browsing if you are happy with this or find out [how to manage your cookies](https://www.trailfinders.com/privacy)
