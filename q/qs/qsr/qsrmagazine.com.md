@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qsrmagazine.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625012231id_/https%3A//www.qsrmagazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qsrmagazine.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231003450id_/https%3A//www.qsrmagazine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Statement - QSR magazine
 
@@ -12,9 +12,9 @@ Our postal address is:
 
 Chapel Hill, NC 27517
 
-We can be reached via e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4a3a38233c2b29330a2c25252e242f3d39272f2e232b64292527) or you can reach us by telephone at 1-800-662-4834 ext 225.
+We can be reached via e-mail at [privacy@foodnewsmedia.com](mailto:privacy@foodnewsmedia.com) or you can reach us by telephone at 1-800-662-4834 ext 225.
 
-If you have questions or concerns regarding this statement, you should first contact Privacy Policy Administrator at 1-800-662-4834 ext 225 or [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4737352e3126243e0721282823292230342a22232e266924282a).
+If you have questions or concerns regarding this statement, you should first contact Privacy Policy Administrator at 1-800-662-4834 ext 225 or [privacy@foodnewsmedia.com](mailto:privacy@foodnewsmedia.com).
 
 The foodservice-related properties of Journalistic, Inc., which include, but are not limited to, Food News Media, QSR magazine, and FSR magazine, are intended for an audience who are citizens of the United States. If you are not a citizen of the United States, we make a reasonable effort not to accept your data, and you should not subscribe to any of our services.
 
@@ -54,7 +54,7 @@ We may also provide this information to third-party vendors based on your implie
 
 **Opting Out**
 
-Users may cancel magazine subscriptions or unsubscribe from email communications at any time. You may cancel a magazine subscription by emailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#24474d5647514845504d4b4a0a4557574d5750454a50644e4b51564a45484d57504d470a474b49) or calling us at 1-800-662-4834, ext 120. You may unsubscribe from email communication by clicking the “Unsubscribe” link included in every email communication you receive from us.
+Users may cancel magazine subscriptions or unsubscribe from email communications at any time. You may cancel a magazine subscription by emailing [circulation.assistant@journalistic.com](mailto:circulation.assistant@journalistic.com) or calling us at 1-800-662-4834, ext 120. You may unsubscribe from email communication by clicking the “Unsubscribe” link included in every email communication you receive from us.
 
 Upon request at the contact information above, we will purge you and all of your data from our system. However, we reserve the right to keep enough identifiable information to ensure you are not inadvertently re-added to our lists. To be re-added to our lists after a purge, you must contact us in writing with your explicit instructions. Please be mindful that digital services at Journalistic, Inc., are cloud-based and as such are routinely backed up. Backed up data is only used in rare situations, such as a computer failure, but it may exist indefinitely.
 
@@ -114,7 +114,7 @@ If you purchase a product or service on our site and use a credit card, please b
 
 **Security**
 
-The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can send email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4c3c3e253a2d2f350c2a23232822293b3f212928252d622f2321).
+The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can send email us at [privacy@foodnewsmedia.com](mailto:privacy@foodnewsmedia.com).
 
 **Changes in this Privacy Statement**
 
@@ -122,4 +122,4 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 **Contact Us**
 
-If you have any questions or suggestions regarding our privacy policy, please contact us at: 1-800-662-4834, ext 225, [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4636342f3027253f0620292922282331352b23222f276825292b), 101 Europa Drive, Suite 150, Chapel Hill, NC 27517.
+If you have any questions or suggestions regarding our privacy policy, please contact us at: 1-800-662-4834, ext 225, [privacy@foodnewsmedia.com](mailto:privacy@foodnewsmedia.com), 101 Europa Drive, Suite 150, Chapel Hill, NC 27517.
