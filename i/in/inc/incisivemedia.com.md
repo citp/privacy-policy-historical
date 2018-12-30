@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the incisivemedia.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630230710id_/https%3A//www.incisivemedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incisivemedia.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230185305id_/https%3A//www.incisivemedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Incisive Media
 
@@ -7,7 +7,7 @@ Incisive Business Media Limited and all companies within its Group (which means 
 
 This policy (together with our terms of use and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-For the purpose of the Data Protection Act 1998 (“the Act”), the data controller is Incisive Business Media Limited (company number 09178013) of New London House, 172 Drury Lane, London, WC2B 5QR.
+For the purpose of the Data Protection Act 2018 (“the Act”), the data controller is Incisive Business Media Limited (company number 09178013) of New London House, 172 Drury Lane, London, WC2B 5QR.
 
 Our nominated representative for the purpose of the Act is Emma Scheck.
 
@@ -51,7 +51,7 @@ If you are an existing customer, we will only contact you by electronic means (e
 
 If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you using methods appropriate to the data you have submitted to us or the data we hold.
 
-If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box on the registration form or, alternatively, do not provide your consent to pass on those details when prompted. Please note, if you request a whitepaper prepared by or an invitation to an event hosted by a third party, we will pass your details to that third party to fulfil your request. You may also contact Emma Scheck using the details set out in paragraph 10 below.
+If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please contact Emma Scheck using the details set out in paragraph 10 below. Please note, if you request a whitepaper prepared by, or an invitation to an event, hosted by a third party, we will pass your details to that third party to fulfil your request.
 
 7\. HOW WE PROTECT YOUR DATA  
 We have put in place security procedures and technical and organisational measures to safeguard your personal information. Access to all internal data servers is limited to the specialist data protection personnel and is controlled via active directory authentication using defined policies to control password expiry and renewal.
@@ -93,7 +93,7 @@ You can also complain to the [Information Commissioner’s Office](https://ico.o
 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
 12\. ACCESS TO INFORMATION  
-You have the right to request a copy of the information that we hold about you. If you would like a copy of some or all of your personal information, please contact Emma Scheck either by email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d9bcb4b4b8f7aabab1bcbab299b0b7bab0aab0afbcb4bcbdb0b8f7bab6b4) or by post to her at New London House, 172 Drury Lane, London WC2B 5QR.
+You have the right to request a copy of the information that we hold about you. If you would like a copy of some or all of your personal information, please contact Emma Scheck either by email to [Emma.scheck@incisivemedia.com](mailto:emma.scheck@incisivemedia.com) or by post to her at New London House, 172 Drury Lane, London WC2B 5QR.
 
 We want to ensure that your personal information is accurate and up to date. If any of the information that you have provided to us changes, for example if you change your email address or name, please let us know the correct details by writing to Emma Scheck as above. You may ask us, or we may ask you, to correct information you or we think is inaccurate, and you may also ask us to remove information which is inaccurate.
 
@@ -101,7 +101,7 @@ We want to ensure that your personal information is accurate and up to date. If 
 Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by email.
 
 14\. HOW TO CONTACT US  
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d8b1b6beb798b1b6bbb1abb1aebdb5bdbcb1b9f6bbb7b5). Emma Scheck at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0e6b63636f207d6d666b6d654e67606d677d67786b636b6a676f206d6163) or by post to her at New London House, 172 Drury Lane, London. WC2B 5QR
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [info@incisivemedia.com](mailto:info@incisivemedia.com). Emma Scheck at [emma.scheck@incisivemedia.com](mailto:emma.scheck@incisivemedia.com) or by post to her at New London House, 172 Drury Lane, London. WC2B 5QR
 
 **Incisive Business Media Limited and all companies within its Group:**
 
