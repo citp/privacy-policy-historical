@@ -1,248 +1,330 @@
-> *The following text is extracted and transformed from the meethue.com privacy policy that was archived on 2017-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170601205631id_/http%3A//www2.meethue.com/en-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meethue.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230090900id_/https%3A//www2.meethue.com/en-us/support/privacy-notice) for the most accurate reproduction.*
 
-# Philips Hue | Privacy Policy
+# Privacy Notice - Meethue | Philips Hue
 
-**Privacy Notice for Hue**
+### 
 
-Last modified: March 1, 2017
+for Customers, Consumers and Other Business Persons
 
-Philips Lighting (“we”) believe strongly in protecting the privacy of the personal data you share with us. We also believe it is important to inform you about how we will use your personal data, and to give you choices about how that data will be used. Therefore, we encourage you to read this Privacy Notice carefully before you make your choices, and give us the right to use your data as stated in this Privacy Notice.
+Your privacy is important. Read our Privacy Notice to learn how we process personal data. [Contact us](https://www.signify.com/global/privacy/privacy-request), if you have any questions.
 
-**What is the scope of this Privacy Notice?**
+When we transfer your data abroad, we protect your data with a variety of technical, organizational and legal measures.
 
-This Privacy Notice ("Privacy Notice") applies to all personal data of consumers collected via the use of the Hue lamps, sensor and bridge (“Products”), via www.meethue.com (“Website”) and via the Hue App (“App”). Products and Website are controlled by or are under the control of Philips Lighting B.V., “Services”.
+We collect your data when you interact with us. You give data to us, when registering for an account etc., but we also collect data automatically using cookies. 
 
-This Privacy Notice applies in addition to any terms and conditions and other policies of Philips Lighting as they apply to the Services.
+We keep your data until the purpose we collected it for has been fulfilled. We may be required to keep some data for longer due to legal requirements.
 
-Please note that, in certain cases, you will need to create a Hue account in order to use the Services (for example, to control your Products from within and from outside the home, via the App and via the Website). The creation and the management of the account is always done through the “[Create Account](https://www.meethue.com/en-us/register)” section of the Website. Details about the personal data collected within the Hue account, can be found within this Privacy Notice.
+We use your data to provide you with the best experience possible, from improving our products to providing customer service.
 
-**Why should you share your personal data with us? (Our purposes)**
+We keep your data safe using appropriate technical and organizational measures.
 
-Sharing your personal data with us is necessary in order for us to provide you with the services that you have purchased, including:
+We will share your data when required to by law, if you provide us with permission or, to help us provide you with the services you have requested. 
 
-  * Using the Services
-  * Using other applications, products and functionalities made available by Philips Lighting or third parties that can be connected to the Services
-  * Buying goods on store.meethue.com
-  * Assisting you with after sales services
-  * Storing your preferences
-  * Providing software updates
-  * Improving website/app functionalities
-  * Helping us to develop products that are designed around you, optimize customer services and continuously improve our Services
+We encourage you to take control of your data. Please keep your data up to date and accurate. 
 
+#### **INTRODUCTION**  
 
 
-Further, if you choose to register yourself for an additional service, we will also be able to provide you, depending on the service, with the following:
+Your privacy is important to Philips Lighting.
 
-  * Communication in a personal and timely manner, such as responding to your request for contact
-  * Registration of your purchase so you can receive all the benefits to which your purchase entitles you
-  * Access to participate in our online communities
-  * Personalized messages, information and special offers that are relevant to your interests
+We have drafted this Privacy Notice (also referred to as “Notice”) in an easy and comprehensible way in order to help you understand who we are, what personal data we collect about you, why we collect it, and what we do with it. Keep in mind that personal data (in this Notice also referred to as “data” or “your data”) means any information or set of information from which we are able, directly or indirectly, to personally identify you, in particular by reference to an identifier, e.g. name and surname, email address, phone number, etc.
 
+Please keep in mind that since Philips Lighting is an international company, this Notice may be replaced or supplemented in order to fulfill local requirements, as well as in order to provide you with additional information on how we process your data through specific Philips Lighting products, services, systems or applications.
 
+We strongly encourage you to take some time to read this Notice in full.
 
-At Philips Lighting we use the highest quality data security tools to keep your data safe and protect Hue from unauthorized access.
+If you do not agree to this privacy notice, please do not provide us with your data.
 
-**Which personal data do we collect?**
+#### **WHEN DOES THIS PRIVACY NOTICE APPLY?**  
 
-The type of personal data we collect depends on the method of collection.
 
-  * **Using the Website and the App** , we may collect your: 
-    * IP address
-    * MAC Address
-    * UserID
-    * Geolocation
-    * Types of devices connected to the Hue App
-    * Unique ID of the bridge, and the serial number of the bridge
-    * Usage data
-    * Crash incident data
+This Notice covers how we collect and use your data e.g.
 
+  * when you visit or use our consumer and customer-directed websites, applications or social media channels;
+  * purchase and use our products, services, systems or applications;
+  * subscribe to our newsletters;
+  * provide to us your goods or services;
+  * contact our customer support;
+  * join our business events;
 
 
-We will store this usage data also for providing you with appropriate after-sales services and troubleshooting. The usage data is stored for as long as is needed to provide the services to you.
 
-Philips Lighting, transfers data securely (using SSL) and will encrypt some data, such as your MAC address when it is stored.
+or otherwise interact with us in your capacity as consumer, business customer, partner, (sub) supplier, contractor or other person with a business relationship with us. 
 
-We keep data, for as long as is necessary for the purposes of the provision of the Services, unless we have to keep the information for legal purposes. After such time has elapsed, we only keep data in aggregate form.
+#### **WHO IS PHILIPS LIGHTING?**  
 
-  * **Accessing or changing your settings or uploading scenes or images.  **Please note that any scenes or images you choose to upload become available to the public and may be used by third parties who help develop our product.
 
+As Philips Lighting, we are a global organization leader in the general lighting market with a unique competitive position and recognized expertise in the development, manufacturing and application of innovative lighting products, systems and services.
 
-  * **Creating and using account on  **[ **www.meethue.com**](http://www.meethue.com/) **  (My Hue), **we may collect your: 
-    * Name / Nickname
-    * Email address
-    * Password
-    * usage data of the Services
-    * IP address
-    * Configuration of your Products
-    * Scenes and images you choose to upload
+When this Notice mentions “we,” “us,” or the “Company,” it refers to the controller of your data under this Notice, namely the Philips Lighting affiliate with which you had, have or will have a business relationship or that otherwise decides which of your data are collected and how they are used, as well as Philips Lighting B.V. (Registration number 17061150 - High Tech Campus 45, 5656 AE, Eindhoven, The Netherlands). Please note that the Philips Lighting affiliates include the subsidiary companies in which Philips Lighting N.V. has control, either through direct or indirect ownership. You may obtain a list of Philips Lighting’s affiliates by contacting the Philips Lighting Privacy Office (you will find the contact details in the below section “what are your choices?”).
 
+#### **WHAT TYPES OF DATA WE COLLECT ABOUT YOU?**  
 
-  * **Connecting your bridge via  **[ **www.labs.meethue.com**](http://www.labs.meethue.com/) **  (HueLabs), **we may collect your:
 
+Depending on who you are (e.g. customer, consumer, supplier, business partner, etc.) and how you interact with us (e.g. online, offline, over the phone, etc.) we may process different data about you. We may collect your data, for example, when you visit or use our consumer and customer-directed websites, applications or social media channels, purchase and use our products, services, systems or applications, subscribe to our newsletters, download a software update, provide to us your goods or services, contact our customer support, join our business events, participate to our contests, promotions and surveys or otherwise interact with us.
 
-  * IP address
-  * MAC Address
-  * UserID
-  * Geolocation
-  * Types of devices connected to the Hue App
-  * Unique ID of the bridge, and the serial number of the bridge
-  * Usage data Crash incident data
+Below you will find an overview of the categories of data that we may collect:
 
+**Information you provide to us directly**
 
-  * **Connecting your Hue via your HomeKit,  **we may collect your: 
-    * Names of your rooms
-    * Names of your accessories
-    * Which room name each accessory is located
+Categories of data
 
+| 
 
+Examples of types of data  
+  
+---|---  
+  
+Personal identification data
 
-Please be advised that if you include any personal data when naming your rooms or accessories this information may be accessed by third parties who help us develop our products.
+| 
 
-  * **Connecting HueSensor to your environment,**  we may collect:
+Name, surname, title, date of birth  
+  
+Contact information data
 
+| 
 
-  * Light levels of a room where your HueSensor is
-  * Motion information when in range of your HueSensor
+Email, phone number, address, country  
+  
+Account log in information
 
+| 
 
+Log in ID, password or other security codes  
+  
+Images and/or videos from which you may be identified
 
-We do not use this data to monitor you and make sure third parties with access to this data agree not to either.
+| 
 
-  * **Connecting the Products with your WIFI network** , we may collect your:
+Pictures uploaded into Philips Lighting accounts or otherwise provided to us  
+  
+Financial data
 
+| 
 
-  * IP address
-  * MAC Address
+Credit card data, bank account data  
+  
+Any other information that you decide to voluntarily share with Philips Lighting or its affiliates
 
+| 
 
-  * **Buying goods on  **[ **www.store.meethue.com**](http://www.store.meethue.com/) **.  **If you choose to use store.meethue.com to buy products, we may additionally collect your personal information to complete the transaction, to facilitate the delivery of your order and to bill you for the product provided. We may collect your: 
-    * Name / Surname
-    * Email address
-    * Payment information
-    * Billing and shipping addresses
-    * Telephone number
-    * Invoices
-    * Order history
+Feedback, opinions, reviews, comments, uploaded files, interests, information provided for our due diligence process  
+  
+Lastly, if you visit our premises, for security reasons we might also record your data through video or other electronic, digital or wireless surveillance system or device (e.g. CCTV).
 
+**Information we collect automatically**
 
+When you visit or use our websites or applications, subscribe to our newsletters or otherwise interact with us through our digital channels, in addition to the information you provide to us directly, we may collect information sent to us by your computer, mobile phone or other access device. For example, we may collect:
 
-In addition, we may share data with service providers in order to help us collect product reviews from consumers residing in UK who purchase our products from [www.store.meethue.com](http://www.store.meethue.com/). If you choose to provide a review for your purchase, we will also collect your product review.
+Categories of data
 
-  * **Choosing to make use of additional services from us,  **such as participating in promotions, subscribing to a newsletter. We may ask for or receive certain personal data, such as your:
+| 
 
+Examples of types of data  
+  
+---|---  
+  
+Device information
 
-  * Name / Surname
-  * Email address
-  * Social media profile
-  * Age / date of birth
-  * Usage of and activities on our Philips Lighting pages
-  * Interests
-  * Other information related to your online behavior
+| 
 
+Hardware model, IMEI number and other unique device identifiers, MAC address, IP address, operating system version, and settings of the device you use to access the services  
+  
+Log information
 
+| 
 
-In addition, We may collect personal data via [ **cookies or similar techniques**](http://www.philips.com/sites/philips/cookienotice/index.page), including, but not limited to:
+Time and duration of your use of our digital channel or product  
+  
+Location information 
 
-  * Your IP address
-  * Your cookie ID
-  * Your web browser
-  * Your location
-  * The web pages you visit on our websites
-  * The advertisements you've viewed or clicked through
+| 
 
+Your actual location (derived from your IP address or other location-based technologies), that may be collected when you enable location-based products or features such as through our apps  
+  
+Other information about your use of our digital channels or products
 
+| 
 
-We may also aggregate details which you have submitted to the website. Aggregate data does not contain any information that could be used to identify you and it is only used to assist us in providing an effective service on this website. We may from time to time supply third parties with this non-personal or aggregated data for uses in connection with this website.
+Apps you use or websites you visit, links you click within our advertising e-mail, motion sensors data  
+  
+**Information we may collect from other sources**
 
-**How and how long we keep your data?**
+To the extent permitted by applicable law, in addition to our websites, applications and other digital channels, we may also obtain information about you from other sources, such as public databases, joint marketing partners, social media platforms and other third parties. For example, depending on your social media settings, if you choose to connect your social media account to your Philips Lighting account, certain data from your social media account will be shared with us, which may include data that is part of your profile.
 
-We take reasonable steps to ensure that we securely keep information about you only for so long as is necessary for the purposes for which it was collected, or as required under any contract or by applicable law.
+#### **HOW DO WE USE YOUR DATA?**  
 
-Please be advised that even after deletion by you, copies of publicly accessible data such as the scenes and images you choose to upload may remain viewable in cached and archived pages, or if other users or third parties using the Hue API have copied or saved that information. Remember that the Internet never forgets. Everything you choose to share publicly may stay online indefinitely. Please exercise caution before deciding to disclose these images and scenes publicly.
 
-**How do we share information with others?**
+We may use your data for different legitimate reasons and business purposes.
 
-We make use of trusted third parties who act on our behalf, in order to help provide you with the services that you have purchased from us. Note that these third parties often have their own privacy policies that apply to the way they use your personal data. These privacy policies sometimes differ from this Privacy Notice.
+Below you will find an overview of the purposes for which we may process your data:
 
-We may share personal data with service providers, business partners and other trusted affiliates of Philips Lighting, consistent with applicable law and Philips Privacy Rules.
+Purposes
 
-If we are required by law to obtain your consent, or otherwise believe that your consent is appropriate in the circumstances, we will obtain your consent before we share your personal data.
+| 
 
-Our agreements with service providers, business partners and others will limit the purposes for which your personal data can be used and disclosed, and will require your personal data to be adequately safeguarded.
+Examples  
+  
+---|---  
+  
+Assessment and (re)screening of (potential) Customers, Suppliers and/or Business Partners
 
-We will disclose personal data only under this policy and/or when required by law.
+| 
 
-We sometimes sell a business or a part of a business to another company. Such a transfer of ownership could include the transfer of your personal data directly related to that business, to the purchasing company.
+Conducting due diligence  
+  
+Conclusion and execution of agreements 
 
-We may store your personal data in a cloud. This means that your personal data may be processed on our behalf by a cloud provider and stored in different locations around the world. We have taken the required organizational and contractual security measures to ensure that your personal data are adequately protected and are exclusively processed for the purposes mentioned above.
+| 
 
-We work with Google to be able to provide you our Services. Google shall not use your data for any purpose than that which is authorized by Philips Lighting and the [ **Google Privacy Policy**](http://www.google.co.uk/intl/en/policies/privacy/) shall be applicable to your data shared with Google. By using the Services, you consent to the use by Google of your personal data required for the service.
+Sales, billing, shipment of products or services, registration to mobile applications or websites, warranty, service communications, account management  
+  
+Providing support (upon your request)
 
-We also work with Amazon to provide you with Smart Home Skill. We do not share any personal data with Amazon but they may collect their own data in line with the [ **Alexa Privacy Policy**](http://www.alexa.com/help/privacy).
+| 
 
-You should know that your personal data may be transferred from your home country to other Philips Lighting companies around the world, who may communicate with you about our products or special offers you may find useful. In all cases, these transfers will be governed by [ **Philips Privacy Rules**](http://www.philips.com/a-w/privacy/introduction.html).
+Providing support via communication channels, such as customer or contact center support  
+  
+Direct marketing 
 
-If you choose to provide data which will be publicly accessible, such as your scenes and images, please remember that public information is searchable and available to other users and also to anyone off our Services. This public data can be seen, accessed and processed through online search engines, APIs, and offline media.
+| 
 
-**How do we connect with Social Media platforms?**
+Promoting contact with consumers and/or business customers (only in certain countries), email marketing, market surveys, personalizing your experience by presenting products and offers tailored to you (such as on our sites, applications or in other communications)  
+  
+Security and protection of our interests/assets
 
-When you participate in various social media forums like Facebook, Twitter, Yammer, Pinterest, Instagram etc., you should be familiar with and understand the tools provided by those sites that allow you to make choices about how you share personal data in your social media profile(s).
+| 
 
-We are bound by the privacy practices or policies of these third parties, as well as our own [ **Social Media House rules**](http://www.philips.co.uk/e/socialmedia/policy_and_principles.html) and this Privacy Policy, so we encourage you to read the applicable privacy notices, terms of use and related information about how your personal data is used in these social media environments.
+Deploying and maintaining technical and organizational security measures, conducting internal audits and investigations, conducting assessments to verify conflict of interests  
+  
+Compliance with legal obligations
 
-Also, depending on the choices you have made regarding your settings on various social media sites (and/or in combination with your settings on the Philips Lighting pages), certain personal data may be shared with us about your online activities and social media profiles (e.g. interests, marital status, gender, user name, photo, comments and content you have posted/shared etc.).
+| 
 
-**How do we link with other websites?**
+Disclosing data to government institutions or supervisory authorities as applicable in all countries in which we operate, such as tax and national insurance deductions, record-keeping and reporting obligations, conducting compliance audits, compliance with government inspections and other requests from government or other public authorities, responding to legal process such as subpoenas, pursuing legal rights and remedies, and managing any internal complaints or claims  
+  
+Defense of legal claims
 
-During your navigation across our website, you may encounter links to other websites for both your convenience and information. These websites may operate independently from us, and may have their own privacy notices, statements or policies. We strongly recommend that you review them to understand how your personal data may be processed in connection with those sites, as we are not responsible for the content of non-Philips Lighting-owned or -managed sites, or the use or privacy practices of those sites.
+| 
 
-**Who is responsible for your personal data?**
+Establishment, exercise or defense of legal claims to which we are or may be subject  
+  
+If we ask you to provide us with your data, but you chose not to, in some cases we will not be able to provide you with the full functionality of our products, services, systems or applications. Also, we might not be able to respond to requests you might have.
 
-Philips Lighting B.V., Boschdijk 525, 5621 JG, Eindhoven, The Netherlands is the entity that controls the Services and is responsible for the collection and processing of personal data via the Services.
+#### HOW DO WE USE YOUR DATA FOR MARKETING?
 
-**How do we protect your data?**
+Philips Lighting B.V. and other relevant Philips Lighting affiliates may send you regular promotional communications about their products, services, events and promotions.
 
-We recognize our responsibility to protect the information you entrust to us. Philips Lighting uses a variety of techniques to protect your information, including protected servers, firewalls, and encryption.
+Such promotional communications may use the “PHILIPS” brand and may be sent to you via different channels such as: email, phone, SMS text messages, postal mailings, third party social networks.
 
-The Website also may facilitate chat rooms, forums and/or message boards available to you. Also via the Website you could be able to upload content, like your images and scenes. Please remember that any personal data you provide in these areas is also available to other users, and you should exercise caution before deciding to disclose it. You can choose whether or not you want to share these images and scenes publicly or not.
+In order to provide you with the best personalized experience, sometimes these communications may be tailored to your preferences (for example, as you indicate these to us, as we may have inferred from your website visits, or based on the links you click in our emails).
 
-**Your rights**
+When required by applicable law, we will ask your consent before starting the above activities. In addition, we will give you the opportunity to withdraw your consent (opt-out) at any time.
 
-Once you have provided us with your personal data, you will have reasonable access to that information so you can change or delete it. You may also make requests or complaints regarding your personal data, and update your information profile through our [ **contact form**](http://www.meethue.com/support). You may also delete your online profile on meethue.com (My Hue) by clicking “Delete Account” button which you can find at the bottom of the page. When you choose to delete your online profile, all user data we have about you is erased from the Hue databases. Please keep in mind that this does not delete the device data since the link between your user account and bridge account is decoupled. You may remove non-aggregated bridge data by resetting the bridge with the button on the underside of the bridge. The scenes you choose to upload publicly which have been explicitly published and then downloaded by others users will not be affected and are not removed from our databases.
+In particular, you can always opt-out from receiving marketing-related emails by following the unsubscribe instructions provided in each email. If you can sign-in to a Philips Lighting account, you might be given the option to change your communication preferences under the relevant section of our website or application. You can always contact us (you will find the contact details in the below section “what are your choices?”) to opt-out from receiving marketing-related communications.
 
-**Your choices**
+Please note that even if you opt out from receiving marketing communications, you might still receive administrative communications from us, such as technical updates of our products, order confirmations, notifications about your account activities, and other important notices.
 
-We want to know you better so we can serve you better while at the same time, we respect your choices about how we use your personal data.
+#### ON WHAT LEGAL BASIS DO WE USE YOUR DATA?
 
-Your personal data may be transferred from your home country to other Philips Lighting companies, in different locations around the world, who may communicate with you about Philips Lighting products, services or special offers that you may be interested in. If you do not want us to send you personalized offers or information, you can let us know by checking the appropriate box on the registration form or reply card, or by selecting “opt-out” on any e-mails you receive.
+In order to be able to process your data, we may rely on different legal bases, including:
 
-Where local law requires, we will ask you to “opt-in” or affirmatively consent to the processing of your personal data. For example, where local law requires, we will only send you newsletters if you have subscribed to them. Similarly, where local law requires, we will ask you to "opt-in" before using profiling techniques. Profiling techniques allow us to tailor our communications to your personal interests by looking at your purchase history and website use.
+  * Your consent (only when legally required or permitted). If we rely on your consent as a legal basis for processing your data, you may withdraw your consent at any time;
+  * The necessity to establish a contractual relationship with you and to perform our obligations under a contract;
+  * The necessity for us to comply with legal obligations and to establish, exercise, or defend our self from legal claims;
+  * The necessity to pursue our legitimate interests, including:
 
-Because Philips Lighting sells thousands of products in hundreds of countries, you may have previously provided us with personal data through reply cards, our call centers, or in some other manner. Your decision not to register now will not affect the information you have already provided to Philips Lighting. Of course, you will always have the option to unsubscribe to any online contact from Philips Lighting or change your personal profile information.
 
-**Special information for parents**
 
-While Philips Lighting Services are generally not targeted at children (under the age of 16 or the equivalent minimum age in the relevant jurisdiction), it is Philips Lighting policy to comply with the law when it requires that a parent's or guardian's permission is secured before knowingly collecting, using, or disclosing personal information from children.
+o To ensure that our networks and information are secure
 
-We strongly recommend that parents take an active role in supervising the activity of their children. If you believe we have collected personal information of a child without the necessary permissions, please [ **contact us**](http://www.meethue.com/support).
+o To administer and generally conduct business within the Company
 
-**Changes to this Privacy Notice**
+o To prevent or investigate suspected or actual violations of law, breaches of a business customer contract,  or non-compliance with the Philips Lighting General Business Principles or other Philips Lighting policies;
 
-The services that Philips Lighting provides are always evolving and the form and nature of the services that Philips Lighting provides may change from time to time without prior notice to you. For this reason, we reserve the right to change or add to this Privacy Notice from time to time and will post any material revisions on our websites.
+  * The necessity to respond to your requests;
+  * The necessity to protect the vital interests of any person;
+  * Any other legal basis anyhow permitted by local laws.
 
-We will post a prominent notice on our Privacy Notice page to inform you of any significant changes to this Privacy Notice, and will indicate at the top of the notice when it was most recently updated. We encourage you to check back regularly to review the latest version.
 
-The new Privacy Notice will be effective upon publication, if you do not agree to the revised notice, you should alter your preferences, or consider stop using the Philips Lighting pages. By continuing to access or make use of our services after those changes become effective, you agree to be bound by the revised privacy policy.
 
-**Contacting us**
+#### WHEN DO WE SHARE YOUR DATA?
 
-You may contact us through our [ **contact form**](http://www.meethue.com/support) if you:
+We do not share any of your data except in the limited cases described here.
 
-  * Have a concern about our use of your data
-  * Want to ask us a question regarding our Privacy Notice
-  * Want to request a copy of your personal data, or change or delete your personal data
-  * Want to opt-out from receiving any future personalized offers or information from Philips Lighting
+If it is necessary for the fulfillment of the purposes described in this Notice, we may disclose your data to the following entities:
 
+  * Philips Lighting affiliates: due to our global nature, your data may be shared with certain Philips Lighting affiliates. Access to your data within Philips Lighting will be granted on a need-to-know basis;
+  * Service providers: like many businesses, we may outsource certain data processing activities to trusted third party service providers to perform functions and provide services to us, such as ICT service providers, consulting providers, shipping providers;
+  * Business partners: we may share your data with trusted business partners so they can provide you with the services you request;
+  * Public and governmental authorities: when required by law, or as necessary to protect our rights, we may share your data with entities that regulate or have jurisdiction over Philips Lighting.
+  * Professional advisors and others: we may share your data with other parties including professional advisors, such as banks, insurance companies, auditors, lawyers, accountants, other professional advisors.
+  * Other parties in connection with corporate transactions: we may also, from time to time, share your data in the course of corporate transactions, such as during a sale of a business or a part of a business to another company, or any reorganization, merger, joint venture, or other disposition of our business, assets, or stock (including in connection with any bankruptcy or similar proceeding).
 
 
-If you prefer, you can write to us at; Philips Lighting B.V., PO Box 80062, 5600 PB, Eindhoven, The Netherlands.
+
+#### WHEN DO WE TRANSFER YOUR DATA ABROAD?
+
+Due to our global nature, data you provide to us may be transferred to or accessed by Philips Lighting affiliates and trusted third parties from many countries around the world. As a result, your data may be processed outside the country where you live, if this is necessary for the fulfillment of the purposes described in this Notice.
+
+If you are located in a country member of the European Economic Area, we may transfer your data to countries located outside of the European Economic Area. Some of these countries are recognized by the European Commission as providing an adequate level of protection. With regard to transfers from the European Economic Area to other countries that are not are recognized by the European Commission as providing an adequate level of protection, we have put in place adequate measures to protect your data, such as organizational and legal measures (e.g. binding corporate rules and approved European Commission standard contractual clauses). You may obtain a copy of these measures by contacting the Philips Lighting Privacy Office (you will find the contact details in the below section “what are your choices?”).
+
+#### HOW LONG DO WE KEEP YOUR DATA?
+
+We keep your data for the period necessary to fulfill the purposes for which it has been collected (for details on these purposes, see above section “How do we use your data?”). Please keep in mind that in certain cases a longer retention period may be required or permitted by law. The criteria used to determine our retention periods include:
+
+  * How long is the data needed to provide you with our products or services or to operate our business?
+  * Do you have an account with us? In this case, we will keep your data while your account is active or for as long as needed to provide the services to you.
+  * Are we subject to a legal, contractual, or similar obligation to retain your data? Examples can include mandatory data retention laws in the applicable jurisdiction, government orders to preserve data relevant to an investigation, or data that must be retained for the purposes of litigation.
+
+
+
+#### HOW DO WE SECURE YOUR DATA?
+
+To protect your data, we will take appropriate measures that are consistent with applicable data protection and data security laws and regulations, including requiring our service providers to use appropriate measures to protect the confidentiality and security of your data.  Depending on the state of the art, the costs of the implementation and the nature of the data to be protected, we put in place technical and organizational measures to prevent risks such as destruction, loss, alteration, unauthorized disclosure of, or access to your data.
+
+#### WHAT ARE YOUR RESPONSIBILITIES?
+
+We would like to remind you that it is your responsibility to ensure, to the best of your knowledge, that the data you provide us with, are accurate, complete and up-to-date. Furthermore, if you share with us data of other people, it is your responsibility to collect such data in compliance with local legal requirements. For instance, you should inform such other people, whose data you provide to us, about the content of this Notice and obtain their consent.
+
+#### WHAT ARE YOUR CHOICES?
+
+We aim to provide you with access to your data. Usually you can autonomously control your data (e.g. by logging in to your account) and update, modify or, if legally possible, delete it.  In this case, we strongly encourage you to take control of your data.
+
+You can always contact our Privacy Office if you would like to:
+
+  * review, change or delete the data you have supplied us with (to the extent Philips Lighting is not otherwise permitted or required to keep such data);
+  * object to certain data processing operations (e.g., opt-out from marketing communications);
+  * receive a copy of your data (in a common machine readable format, to the extent it is required by applicable law);
+  * ask us any other questions related to the protection of your data in Philips Lighting
+
+
+
+The contact details of our Privacy Office are:
+
+  * Mail: Philips Lighting - Attn: Privacy Office – Herikerbergweg, 102 (1101) - CM Amsterdam Zuid Oost, The Netherlands; or
+  * Online: [Philips Lighting Privacy Center](https://www.signify.com/global/privacy), “Privacy request” section.
+
+
+
+We will do our best to address your request in time and free of charge, except where it would require a disproportionate effort. In certain cases, we may ask you to verify your identity before we can act on your request. If you are unsatisfied with the reply received, you may then refer your complaint to the relevant regulator in your jurisdiction.
+
+#### HOW DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?
+
+For more information on how we use cookies and other tracking technologies, read our Cookie Notice (which can be found in the website of the [Philips Lighting Privacy Center](https://www.signify.com/global/privacy), see “Legal information” section).
+
+#### DO WE COLLECT DATA FROM CHILDREN?
+
+We do not intentionally collect information from children under the age of 16.
+
+  * Special note to Children under the age of 16: if you are under the age of 16, we advise that you speak with and get your parent or guardian’s consent before sharing your data with us;
+  * Special note to Parents of Children under the age of 16: we recommend you to check and monitor your children's use of our products, systems, services, applications (including websites and other digital channels) in order to make sure that your child does not share personal data with us without asking your permission **.**
+
+
+
+#### WHEN WILL THERE BE UPDATES TO THIS PRIVACY NOTICE?
+
+This privacy notice might change from to time.
+
+The most current version of this Notice will govern our use of your data and can be found in the website of the [Philips Lighting Privacy Center](https://www.signify.com/global/privacy), see “Legal information” section.
