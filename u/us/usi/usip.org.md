@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usip.org privacy policy that was archived on 2018-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180507144709id_/https%3A//www.usip.org/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usip.org privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230042339id_/https%3A//www.usip.org/legal/privacy) for the most accurate reproduction.*
 
 # Legal/Privacy Information | United States Institute of Peace
 
@@ -62,7 +62,7 @@ Materials on our site are copywritten by their various owners unless otherwise n
 
 _Materials credited to USIP:_ ©Copyright 2015 by the Endowment of the United States Institute of Peace. All rights reserved.
 
-To request permission to use USIP-owned materials, please visit the [permission instructions page](http://bookstore.usip.org/info/permissions.aspx). For other materials, please contact its source for full copyright information.
+To request permission to use USIP-owned materials, please visit the [permission instructions page](https://bookstore.usip.org/pages/permission). For other materials, please contact its source for full copyright information.
 
 ## Image copyright statement
 
@@ -87,4 +87,4 @@ United States Institute of Peace
 2301 Constitution Avenue, NW  
 Washington, D.C. 20037
 
-If you need information about permission to republish, please [follow these directions](http://bookstore.usip.org/info/permissions.aspx).
+If you need information about permission to republish, please [follow these directions](https://bookstore.usip.org/pages/permission).
