@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the everydayhealth.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624133024id_/https%3A//www.everydayhealth.com/privacyterms/%23everyday_health_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everydayhealth.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230130720id_/https%3A//www.everydayhealth.com/privacyterms/%23everyday_health_privacy_policy) for the most accurate reproduction.*
 
 # Everyday Health Privacy Policy
 
 ## **EVERYDAY HEALTH PRIVACY POLICY**
 
- **Effective May 18, 2018**
+[](https://privacy.truste.com/privacy-seal/validation?rid=ce211316-dfd0-4abb-8bfb-9cb70de1e37c)
 
-If you have any questions about our Privacy Policy, you can contact us at [ **Privacy@everydayhealth.com**](mailto:Privacy@everydayhealth.com)  **and include ‘Privacy Policy’ in the subject line.**
+ **Effective October 9, 2018**
+
+If you have any questions about our Privacy Policy, you can contact us at [ **Privacy@everydayhealth.com**](mailto:Privacy@everydayhealth.com)  **and include ‘Privacy Policy’ in the subject line.  If you have any questions related to Data Subject Access Rights under GDPR, you can contact us through our [DSAR Portal](https://dsar.everydayhealth.com/).**
 
   1.  **Privacy Policy Overview**
   2.  **What Categories of Information We May Process**
@@ -37,7 +39,7 @@ If you have any questions about our Privacy Policy, you can contact us at [ **P
 
 Everyday Health, Inc., with its parents, affiliates and its subsidiaries (collectively,  **“Everyday Health”** ,  **“us”, “our”**  or  **“we”** ), owns, operates, or provides access to, several interactive health, wellness, diet and fitness websites, mobile and connected applications, and other online interactive features and services, including, but not limited to, emails, newsletters, chat areas, forums, communities, sweepstakes and contests for consumers (collectively  **“Services”** ). This Privacy Policy applies to all information collected about you when you interact with the Services, regardless of how it is collected or stored, and describes, among other things, the types of information collected about you when you interact with the Services, how your information may be used, when your information may be disclosed, how you can control the use and disclosure of your information, and how your information is protected.
 
-Except as otherwise noted in this Privacy Policy, Everyday Health is a data controller (as that term is used under the  **[EU General Data Protection Regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN) **(“ **GDPR** ”)), which means that we decide how and why the information you provide to us is processed.  Contact details are provided in Section 17 below.  This Policy may be amended or updated from time to time to reflect changes in our practices with respect to the Processing of your information, or changes in applicable law. We encourage you to read this Policy carefully, and to regularly check this page to review any changes we might make.
+Except as otherwise noted in this Privacy Policy, Everyday Health is a data controller (as that term is used under the  **[EU General Data Protection Regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN) **(“ **GDPR** ”)), which means that we decide how and why the information you provide to us is processed. Please contact us using our [**DSAR Portal**](https://dsar.everydayhealth.com/). This Policy may be amended or updated from time to time to reflect changes in our practices with respect to the Processing of your information, or changes in applicable law. We encourage you to read this Policy carefully, and to regularly check this page to review any changes we might make.
 
  **This Privacy Policy covers information collected through the website[ **Everyday Health**](https://www.everydayhealth.com/) and the applications Everyday Health, Calorie Counter and Diabetes in Check. **
 
@@ -114,7 +116,7 @@ To the extent that information we collect is health data or another special cate
 
 
 
-Please note that Everyday Health is not responsible for the information you volunteer about yourself in the discussions in certain public areas of the Services, such as forums, blogs, wikis, chat rooms, private messages, message boards or other publicly accessible interaction, or information that you choose to make public in your member profile or other areas of the Services that allow users to upload or post content. We discourage users from posting such Personal Information in this fashion. You can change your publicly available information at any time via your profile page. To request removal of your Personal Information from these areas, please see Section 17 in this Privacy Policy for further details. In some cases, we may not be able to remove your Personal Information, in which case we will let you know we are unable to do so and why.
+Please note that Everyday Health is not responsible for the information you volunteer about yourself in the discussions in certain public areas of the Services, such as forums, blogs, wikis, chat rooms, private messages, message boards or other publicly accessible interaction, or information that you choose to make public in your member profile or other areas of the Services that allow users to upload or post content. We discourage users from posting such Personal Information in this fashion. You can change your publicly available information at any time via your profile page. To request removal of your Personal Information from these areas, please contact us using our [**DSAR Portal**](https://dsar.everydayhealth.com/). In some cases, we may not be able to remove your Personal Information, in which case we will let you know we are unable to do so and why.
 
 This Privacy Policy does not cover the practices of third parties, including those that may disclose information to Everyday Health.
 
@@ -247,7 +249,7 @@ The Services contain links to other sites or partners whose information practice
 
 Because of the international nature of our business, we may need to transfer your User Information within the Everyday Health group of companies, and to third parties as noted in Section 9 above, in connection with the purposes set out in this Policy. For this reason, we may transfer your User Information to other countries that may have different laws and data protection compliance requirements to those that apply in the country in which you are located.
 
-Where we transfer your Personal Information from the EEA to recipients located outside the EEA who are not in a jurisdiction that has been formally designated by the European Commission as providing an adequate level of protection for Personal Information, we do so on the basis of standard contractual clauses.  You may request a copy of the relevant standard contractual clauses using the contact details provided in Section 17 below.
+Where we transfer your Personal Information from the EEA to recipients located outside the EEA who are not in a jurisdiction that has been formally designated by the European Commission as providing an adequate level of protection for Personal Information, we do so on the basis of standard contractual clauses. You may request a copy of the relevant standard contractual clauses using our [**DSAR Portal**](https://dsar.everydayhealth.com/).
 
 Please note that when you transfer any Personal Information directly to a Company entity established outside the EEA, we are not responsible for that transfer of your Personal Information. We will nevertheless Process your Personal Information, from the point at which we receive the data, in accordance with the provisions of this Privacy Policy.
 
@@ -297,6 +299,8 @@ Except as may be set forth in this Privacy Policy, Online Data related to OBA is
 
 You may directly take steps to change your preferences as follows:
 
+ _Access to Your Personal Information._ Upon request Everyday Health will provide you with information about whether we hold any of your personal information. You may access, correct, or request deletion of your personal information by logging into your account or contacting us through our DSAR Portal. We will respond to your request within a reasonable timeframe.
+
  _Your Newsletter and Email Subscriptions_. You can opt out or unsubscribe from a newsletter or other email list at any time by following the instructions at the end of the newsletters or emails you receive. Please allow five to ten business days for changes to take effect. On some Services, member service-related communications are an integral part of such Services to which you subscribe and you may continue to receive emails as part of that particular portion of the Services unless you cancel your account, even if you opt out of the newsletters or email list.  If you have provided more than one email address to us, you may continue to be contacted unless you request to unsubscribe each email address you have provided.
 
  _Push Notifications_. We send you push notifications from time-to-time in order to update you about any events or promotions that we may be running. If you no longer wish to receive these types of communications, you may turn them off at the device level. To ensure you receive proper notifications, we will need to collect certain information about your device such as operating system and user identification information.
@@ -317,7 +321,7 @@ The DAA Ad Marker Icon   provides information (and links to other information) 
 
  _California Residents_. In accordance with the California Online Privacy Protection Act, we may collect Personal Information about your online activities when you use the Services. While we give our users many avenues to opt out of providing Personal Information, we do not respond to Web browsers’ “do not track” signals. California’s “Shine the Light” law, Civil Code Section 1798.83, permits our users who are California residents to periodically request and obtain certain information about any Personal Information disclosed to third parties for direct marketing purposes. If you are a California resident and wish to make such a request or if you wish for us to refrain from gathering your Personal Information, please submit your request in writing to the contact details set out in Section 17 below.
 
- _EU Residents._ GDPR provides certain rights for EU residents. You may decline to share certain information with us, in which case we may not be able to provide some of the features and functionality of the Services. These rights include, in accordance with applicable law, the right to object to or request the restriction of processing of your information, and to request access to, rectification, erasure and portability of your own information. Where we process your information on the basis of your consent, you have the right to withdraw that consent (noting that such withdrawal does not affect the lawfulness of any Processing performed prior to the date on which we receive notice of such withdrawal, and does not prevent the Processing of your Personal Information in reliance upon any other available legal bases).  Requests should be submitted by contacting us (using the contact instructions in Section 17 below). If you are an EU resident and have any unresolved privacy concern that we have not addressed satisfactorily after contacting us, you have the right to contact the appropriate EU Supervisory Authority and lodge a complaint.
+ _EU Residents._ GDPR provides certain rights for EU residents. You may decline to share certain information with us, in which case we may not be able to provide some of the features and functionality of the Services. These rights include, in accordance with applicable law, the right to object to or request the restriction of processing of your information, and to request access to, rectification, erasure and portability of your own information. Where we process your information on the basis of your consent, you have the right to withdraw that consent (noting that such withdrawal does not affect the lawfulness of any Processing performed prior to the date on which we receive notice of such withdrawal, and does not prevent the Processing of your Personal Information in reliance upon any other available legal bases). Requests should be submitted by contacting us using the [**DSAR Portal**](https://dsar.everydayhealth.com/). If you are an EU resident and have any unresolved privacy concern that we have not addressed satisfactorily after contacting us, you have the right to contact the appropriate EU Supervisory Authority and lodge a complaint.
 
 ### 16\. Terms of Use
 
@@ -331,9 +335,9 @@ For more information concerning your use of the Everyday Health website and the 
 
  ** **Summary – Contact Details****
 
- **You may contact us at the addresses set out below or by emailing[privacy@everydayhealth.com](mailto:privacy@everydayhealthinc.com) **
+ **You may contact us at the addresses set out below or by emailing[privacy@everydayhealth.com](mailto:privacy@everydayhealthinc.com). For GDPR related inquiries, please use our webform at [DSAR Portal](https://dsar.everydayhealth.com/).**
 
-**Everyday Health**
+ **Everyday Health**
 
  **Attention: Legal Department**
 
@@ -341,7 +345,7 @@ For more information concerning your use of the Everyday Health website and the 
 
  **New York, NY 10014**
 
- **If you are an EU resident, you may contact our Data Protection Officer at[dpo@everydayhealth.com](mailto:dpo@everydayhealth.com)**
+ **If you are an EU resident, you may contact our Data Protection Officer at[dpo@everydayhealth.com](mailto:dpo@everydayhealth.com) or submit GDPR related inquiries to our [DSAR Portal](https://dsar.everydayhealth.com/).**
 
 If you have any comments, questions or concerns about any of the information in this Policy, or any other issues relating to the Processing of User Information carried out by us, or on our behalf, please contact:
 
@@ -355,7 +359,7 @@ New York, NY 10014
 
  **[privacy@everydayhealth.com](mailto:privacy@everydayhealth.com)**
 
-Our Data Protection Officer may be contacted at [**dpo@everydayhealth.com**](mailto:dpo@everydayhealth.com).
+Our Data Protection Officer may be contacted at [**dpo@everydayhealth.com**](mailto:dpo@everydayhealth.com). For GDPR related inquiries, please use our webform at [**DSAR Portal**](https://dsar.everydayhealth.com/).
 
 ### 18\. How this Privacy Policy May Change
 
