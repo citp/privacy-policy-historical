@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the mikeprg.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626024214id_/http%3A//www.mikeprg.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mikeprg.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230111627id_/http%3A//www.mikeprg.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – mikeprg
-
-Advertising   
-
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Privacy](mailto:haempzamermzpala@gmail.com).
 
@@ -39,8 +36,6 @@ _
 
 These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on www.mikeprg.com and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site. 
 
-.
-
 www.mikeprg.com has no access to or control over these cookies that are used by third-party advertisers. 
 
 **Third Party Privacy Policies**
@@ -64,6 +59,3 @@ By using our website, you hereby consent to our privacy policy and agree to its 
 This Privacy Policy was last updated on: Monday, March 6th, 2017.  
 [](http://www.privacypolicyonline.com/ "PrivacyPolicyOnline.com Approved Site")  
 _Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
-
-Advertising   
-
