@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the riotzone.net privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625135055id_/http%3A//legal.my.com/us/games/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riotzone.net privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230083212id_/http%3A//legal.my.com/us/games/privacy) for the most accurate reproduction.*
 
 # My.com — communication and entertainment apps: myMail, myChat, myGames, myCamera. Manage email, chat with friends, discover captivating new games, and edit your photos
 
@@ -17,7 +17,7 @@ In case of any contradictions between this Privacy Policy and the Terms, this Pr
 2.1. By making available the Services we, acting reasonably and in good faith, believe that you:  
 (a) have all necessary rights to register on and use the Services;  
 (b) provide true information about yourself  to the extent necessary for use of the Services;  
-(c) understand that by the posting your personal information you have manifestly made this information public, and this information may become available to other Site users and internet users, be copied and disseminated by them;  
+(c) understand that by the posting your personal information where it is accessible by other users of the Services you have manifestly made this information public, and this information may become available to other Site users and internet users, be copied and disseminated by them;  
 (d) understand that some types of information transferred by you to other Service users cannot be deleted by you or us;  
 (e) are aware of and accept this Privacy Policy.
 
@@ -140,7 +140,7 @@ We use this information in order to manage and administer the Services including
 
 | 
 
-Legitimate interests, which inter alia, include the processing of manifestly made public by you data
+Legitimate interests, which inter alia, include the processing of manifestly made public by you data where it is accessible by other users of the Services
 
  Performance of our contract with you  
   
@@ -208,7 +208,7 @@ Legitimate interests
 
 Performance of our contract with you  
   
-3.3. Our legitimate interests include  (1) maintaining and administrating the Services; (2) providing the Services to you; (3) improving the content of the Services and web pages; (4) processing of the data that was manifestly made public by you; (5) ensuring your account is adequately protected; and (6) compliance with any contractual, legal or regulatory obligations under any applicable law. 
+3.3. Our legitimate interests include  (1) maintaining and administrating the Services; (2) providing the Services to you; (3) improving the content of the Services and web pages; (4) processing of the data that was manifestly made public by you where it is accessible by other users of the Services; (5) ensuring your account is adequately protected; and (6) compliance with any contractual, legal or regulatory obligations under any applicable law. 
 
 3.4. As part of maintaining and administrating the Services we use the information to analyse user activity and ensure that rules and terms of use for the Services are not violated.
 
@@ -228,7 +228,7 @@ Once you have provided this data it will be accessible by other site users and i
 
 ## 4\. Data sharing
 
-4.1. Your username can be available to all of the Service users. We take technical and organizational measures to ensure that your data is safe. Please note that by the posting your personal information you have manifestly made this information public, and this may become available to other Service users and internet users and be copied and/ or disseminated by such users. Once this data is transferred by you to other users you will not be able to delete this data.
+4.1. Your username can be available to all of the Service users. We take technical and organizational measures to ensure that your data is safe. Please note that by the posting your personal information you have manifestly made this information public where it is accessible by other users of the Services, and this may become available to other Service users and internet users and be copied and/ or disseminated by such users. Once this data is transferred by you to other users you will not be able to delete this data.
 
 4.2. We may share your data with MGL MY.COM (CYPRUS) LIMITED and other our affiliates. Sometimes we may also need to share your data with a third party in order to provide our Services to you or to administer the Services, for example if you choose to share your data across other social media platforms. 
 
@@ -300,4 +300,4 @@ Once you have provided this data it will be accessible by other site users and i
 
 11.2. All correspondence received by us from you (written or electronic inquiries) is classified as restricted-access information and may not be disclosed without your written consent. The personal data and other information about you may not be used without your consent for any purpose other than for response to the inquiry, except as expressly provided by law.
 
-11.3. The e-mail address of our DPO is dpo@corp.my.com.
+11.3. The e-mail address of our DPO is [dpo@corp.my.com](mailto:dpo@corp.my.com?subject=my.com%20games%20privacy%20request&body=---Please%20do%20not%20remove%20this%20line%2F%D0%9F%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20%D0%BD%D0%B5%20%D1%83%D0%B4%D0%B0%D0%BB%D1%8F%D0%B9%D1%82%D0%B5%20%D1%8D%D1%82%D1%83%20%D1%81%D1%82%D1%80%D0%BE%D0%BA%D1%83.%20This%20request%20relates%20to%20my.com%20games%20privacy%20policy---).
