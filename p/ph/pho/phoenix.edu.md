@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phoenix.edu privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225233547id_/https%3A//www.phoenix.edu/copyright-legal/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phoenix.edu privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230123035id_/https%3A//www.phoenix.edu/copyright-legal/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - University of Phoenix
 
@@ -47,7 +47,7 @@ We will not sell, rent or lease your Personal Information to others except as pr
   * To obtain payment for services that we provide to you
   * To provide you with information concerning arrangements and other options for the repayment of funds loaned to you for your education
   * To maintain educational and business records for reasonable periods
-  * To enforce our [Terms of Use](https://web.archive.org/copyright-legal/terms_and_conditions.html)
+  * To enforce our [Terms of Use](https://www.phoenix.edu/copyright-legal/terms_and_conditions.html)
   * To provide to Education Partners, Business Associates or Unrelated Entities in connection with the contemplated or actual reorganization, merger, acquisition, financing, securitization, insuring, sale or other disposal of all or part of our business or assets, including for the purposes of determining whether to proceed with such transaction or fulfilling any records or other reporting requirements to such parties. In the event of any actual reorganization, merger or acquisition, such Information may be transferred as part of the transaction to the acquirer
   * And/or as may be required or permitted by legal, regulatory, industry self-regulatory, insurance, audit or security requirements applicable to the University, Apollo Education Group, our Education Partners or our Business Associates.
 
@@ -63,7 +63,7 @@ And/or as may be required or permitted by legal, regulatory, industry self-regul
 
 #### Marketing Communications
 
-If you do not wish to receive marketing email communications or direct mail communications from us, you may express your choice where indicated on the applicable email or other communication, or [ **unsubscribe**](https://web.archive.org/about_us/contact_us/unsubscribe.html).
+If you do not wish to receive marketing email communications or direct mail communications from us, you may express your choice where indicated on the applicable email or other communication, or [ **unsubscribe**](https://www.phoenix.edu/about_us/contact_us/unsubscribe.html).
 
 If you do not wish to receive marketing telephone calls or mailings, you may express your choice to opt out by [**emailing the Office of Compliance**](mailto:Office.ComplianceUOPX@phoenix.edu).
 
@@ -79,13 +79,13 @@ We or our Business Associates may use data collected on this Site for Online Beh
 
 #### Other Collection, Use and Disclosure
 
-You may be able to opt out of our collection, use and disclosure of your Personal Information in other situations subject to applicable contractual, academic, legal or technical restrictions and reasonable notice. If you do not wish to receive marketing email communications or direct mail from us, you may express your choice where indicated on the applicable email or other communication, or [**click here to unsubscribe**](https://web.archive.org/about_us/contact_us/unsubscribe.html).
+You may be able to opt out of our collection, use and disclosure of your Personal Information in other situations subject to applicable contractual, academic, legal or technical restrictions and reasonable notice. If you do not wish to receive marketing email communications or direct mail from us, you may express your choice where indicated on the applicable email or other communication, or [**click here to unsubscribe**](https://www.phoenix.edu/about_us/contact_us/unsubscribe.html).
 
 #### Other Important Information
 
 We will take commercially reasonable measures to secure and store your Information to protect against the loss, misuse and alteration of the Information under our control. We utilize industry-standard security measures when accepting your credit card Information during your registration or other transaction you have initiated with us, as well as whenever we ask you to log in to any of our Sites.
 
-If you become a student, your educational records are subject to the U.S. federal Family Educational Rights and Privacy Act (FERPA), state laws and your University policies. [**To obtain a copy of the Students' Rights to Privacy and Access to Educational Records policy, click here.**](https://web.archive.org/about_us/regulatory/consumer-information.html) You may also contact us via one of the below methods:
+If you become a student, your educational records are subject to the U.S. federal Family Educational Rights and Privacy Act (FERPA), state laws and your University policies. [**To obtain a copy of the Students' Rights to Privacy and Access to Educational Records policy, click here.**](https://www.phoenix.edu/about_us/regulatory/consumer-information.html) You may also contact us via one of the below methods:
 
 University of Phoenix  
 Attn: Registrar's Office  
@@ -177,7 +177,7 @@ As used in this Privacy Policy, the following terms have the following meanings:
 
 ### 2\. How We Collect Information
 
-We collect various types of Information from you through our Sites and other websites where you can express interest in our services, through our mobile applications, via email, [Live Chat](https://web.archive.org/chat/chatNow?queue=student&tenant=uopx&uri=/copyright-legal/privacy_policy) over the phone, via printed forms and in person. Some Information is collected automatically through various web and Internet technologies including Social Networking tools used by your University. Other Information is collected when you provide it to us voluntarily.
+We collect various types of Information from you through our Sites and other websites where you can express interest in our services, through our mobile applications, via email, Live Chat over the phone, via printed forms and in person. Some Information is collected automatically through various web and Internet technologies including Social Networking tools used by your University. Other Information is collected when you provide it to us voluntarily.
 
 We may also obtain Information from Education Partners, Business Associates and Unrelated Entities and combine that with Information we collect about you.
 
@@ -274,7 +274,7 @@ We may collect, use and disclose Personal Information for the following purposes
   * To obtain payment for services that we provide to you
   * To provide you with information concerning arrangements and other options for the repayment of funds loaned to you for your education
   * To maintain educational and business records for reasonable periods
-  * To enforce our [Terms of Use](https://web.archive.org/copyright-legal/terms_and_conditions.html)
+  * To enforce our [Terms of Use](https://www.phoenix.edu/copyright-legal/terms_and_conditions.html)
   * To provide to Education Partners, Business Associates or Unrelated Entities in connection with the contemplated or actual reorganization, merger, acquisition, financing, securitization, insuring, sale or other disposal of all or part of our business or assets, including for the purposes of determining whether to proceed with such transaction or fulfilling any records or other reporting requirements to such parties. In the event of any actual reorganization, merger or acquisition, such Information may be transferred as part of the transaction to the acquirer
 
 
@@ -295,7 +295,7 @@ By consenting to receive texts you specifically authorize University of Phoenix 
 
 ### 7\. Student Educational Records
 
-If you become a student, your educational records are subject to the U.S. federal Family Educational Rights and Privacy Act (FERPA), state laws and your University's policies. Students have the right to limit access to FERPA-defined directory Information about them. [**To obtain a copy of your University's FERPA policy, click here.**](https://web.archive.org/about_us/regulatory/consumer-information.html) You may also contact us via one of the below methods:
+If you become a student, your educational records are subject to the U.S. federal Family Educational Rights and Privacy Act (FERPA), state laws and your University's policies. Students have the right to limit access to FERPA-defined directory Information about them. [**To obtain a copy of your University's FERPA policy, click here.**](https://www.phoenix.edu/about_us/regulatory/consumer-information.html) You may also contact us via one of the below methods:
 
 University of Phoenix  
 Attn: Registrar's Office  
@@ -320,7 +320,7 @@ We may work with third party ad networks to either display advertising on our Si
 
 #### Marketing Communications
 
-If you do not wish to receive marketing email or direct mail communications from us, you may express your choice where indicated on the applicable email or other communication or [ **unsubscribe**](https://web.archive.org/about_us/contact_us/unsubscribe.html).
+If you do not wish to receive marketing email or direct mail communications from us, you may express your choice where indicated on the applicable email or other communication or [ **unsubscribe**](https://www.phoenix.edu/about_us/contact_us/unsubscribe.html).
 
 If you do not wish to receive marketing telephone calls or mailings, you may express your choice to opt-out by [**emailing the Office of Compliance**](mailto:Office.ComplianceUOPX@phoenix.edu).
 
@@ -330,7 +330,7 @@ Marketing opt-out requests will only remove you from our list and the list of an
 
 #### Student Educational Records and Social Networking Content
 
-Students who desire to prevent release of their directory and educational record Information in accordance with FERPA may place a FERPA Hold on their academic file. [ **Click here to review your University's FERPA Policy in the Consumer Information Guide.**](https://web.archive.org/about_us/regulatory/consumer-information.html)
+Students who desire to prevent release of their directory and educational record Information in accordance with FERPA may place a FERPA Hold on their academic file. [ **Click here to review your University's FERPA Policy in the Consumer Information Guide.**](https://www.phoenix.edu/about_us/regulatory/consumer-information.html)
 
 You may change various user settings related to sharing your Personal Information contained in any user profile you set up as part of Social Network activities furnished by us, subject to contractual, academic, legal or technical restrictions and reasonable notice. Note that your withdrawal from Social Network activities might prevent us from providing you with certain products or services.
 
