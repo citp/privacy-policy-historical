@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the climber.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624165025id_/http%3A//climber.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the climber.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230161749id_/http%3A//climber.com/privacy) for the most accurate reproduction.*
 
 # Climber.com - Connect to Recruiters, Career Social Networking, Career and Job Search
 
@@ -84,7 +84,7 @@ We, or a data provider we have engaged, may place or recognize a unique cookie o
 
 ## 6\. CORRECTING, UPDATING OR REMOVING YOUR PERSONAL INFORMATION
 
-If your personal information is incorrect, changes or if you no longer wish to receive information from Climber.com, we will endeavour to correct, update or remove your information as quickly as possible. This can be done by e-mailing customerservice@climber.com or calling our customer service phone number 619-618-4200.
+If your personal information is incorrect, changes or if you no longer wish to receive information from Climber.com, we will endeavour to correct, update or remove your information as quickly as possible. This can be done by e-mailing customerservice@climber.com or calling our customer service phone number 1-800-684-9766.
 
   
 
