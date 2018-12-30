@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the hul.co.in privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630032105id_/http%3A//www.unileverprivacypolicy.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hul.co.in privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230072020id_/http%3A//www.unileverprivacypolicy.com) for the most accurate reproduction.*
 
 # Privacy Policy
 
-##  _
+##  __
 
 #yourdataisyours
-
-_
 
 We know that you care about your personal data and how it is used, and we want you to trust that Unilever uses your personal data carefully. This Privacy Notice will help you understand what personal data we collect, why we collect it and what we do with it.
 
