@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orcid.org privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624161446id_/https%3A//orcid.org/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orcid.org privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230154312id_/https%3A//orcid.org/footer/privacy-policy) for the most accurate reproduction.*
 
 # ORCID Privacy Policy | ORCID
 
@@ -267,7 +267,7 @@ Your access to some of our services and content may be password protected. To ma
 
 #### 12.0 International Data Transfer
 
-Note that we may store and process personal information on servers located outside of the country where you originally deposited the data. The data protection laws of the country or countries where this personal information will be stored or processed might not be as comprehensive as those in your country. Regardless of where we store and process data, we take steps to protect your information, consistent with the principles set forth in this Privacy Policy, which are [intended to comply with the Privacy Shield Framework](https://web.archive.org/sites/default/files/ckfinder/userfiles/files/2018_ORCID%20Privacy%20Shield%20Certification.pdf) issued by the U.S. Department of Commerce and with Article 26 of the EU Data Protection Directive covering data transfers. Additionally, we have thoroughly reviewed our privacy practices and procedures with the European General Data Protection Regulation (GDPR). You can view more details at [ORCID, GDPR, and your rights as an user](https://support.orcid.org/knowledgebase/articles/907155).
+Note that we may store and process personal information on servers located outside of the country where you originally deposited the data. The data protection laws of the country or countries where this personal information will be stored or processed might not be as comprehensive as those in your country. Regardless of where we store and process data, we take steps to protect your information, consistent with the principles set forth in this Privacy Policy, which are [intended to comply with the Privacy Shield Framework](https://web.archive.org/sites/default/files/ckfinder/userfiles/files/2018_ORCID%20Privacy%20Shield%20Certification.pdf) issued by the U.S. Department of Commerce and with Article 26 of the EU Data Protection Directive covering data transfers. Additionally, we have thoroughly reviewed our privacy practices and procedures with the European General Data Protection Regulation (GDPR). You can view more details at [ORCID, GDPR, and your rights as an user](https://support.orcid.org/hc/articles/360006895834).
 
 As a nonprofit organization, we are not subject to the jurisdiction of the United State Federal Trade Commision, which oversees the implementation of the Privacy Shield program. Consequently, ORCID cannot self-certify compliance. Instead we have our policy and practices independently audited annually, further details can be found in Section 2 – TrustArc Certification.
 
@@ -305,4 +305,4 @@ We may change our Privacy Policy from time to time. We will post any changes to 
 
 #### 18.0 Questions or Concerns
 
-If you have any additional questions or concerns about this Privacy Policy or our practices, please contact ORCID at [ombud [at] orcid.org](https://web.archive.org/cdn-cgi/l/email-protection#e7888a859283a78895848e83c9889580d89492858d828493dab6928294938e8889c2d5d78685889293c2d5d7b7958e9186849ec2d5d7b7888b8e849e) or by writing to Executive Director, ORCID Inc., 10411 Motor City Drive, Suite 750, Bethesda MD 20817, USA.
+If you have any additional questions or concerns about this Privacy Policy or our practices, please contact ORCID at [ombud [at] orcid.org](mailto:ombud@orcid.org?subject=Question%20about%20Privacy%20Policy) or by writing to Executive Director, ORCID Inc., 10411 Motor City Drive, Suite 750, Bethesda MD 20817, USA.
