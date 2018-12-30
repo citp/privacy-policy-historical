@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the share-games.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609182935id_/http%3A//www.share-games.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the share-games.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230130815id_/http%3A//www.share-games.com/privacy.htm) for the most accurate reproduction.*
 
 # Share-Games: Privacy Policy
 
-Privacy Policy :
+## Privacy Policy :
 
 share-games.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following statement discloses the information gathering and dissemination practices for this web site. 
 
