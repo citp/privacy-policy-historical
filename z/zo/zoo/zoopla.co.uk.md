@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoopla.co.uk privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623133810id_/https%3A//www.zoopla.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoopla.co.uk privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230224855id_/https%3A//www.zoopla.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Zoopla
 
@@ -6,7 +6,9 @@ Zoopla Limited (" **Zoopla** ", **we** or **us** ) is committed to protecting an
 
 This policy explains how we use any personal information that you provide to us through our website, app or call-centres. Please read it carefully. We may change this policy. We will post any changes on this page, so please check back frequently.
 
-For the purposes of data protection law, the controller is Zoopla Limited of The Cooperage, 5 Copper Row, London SE1 2LH. Zoopla is part of the [ZPG Plc group of companies](https://www.zpg.co.uk/about/our-brands-products), comprising ZPG Plc and its subsidiaries (the “ **ZPG Companies** ”).
+For the purposes of data protection law, the controller is Zoopla Limited of The Cooperage, 5 Copper Row, London SE1 2LH. Zoopla is part of the [ZPG Limited group of companies](https://www.zpg.co.uk/about/our-brands-products), comprising ZPG Limited and its subsidiaries (the “ **ZPG Companies** ”).
+
+Our Data Protection Officer is Michael Haynes. You can contact him at [dpo@zpg.co.uk](mailto:dpo@zpg.co.uk) or via our postal address below. Please mark the envelope 'Data Protection Officer'.
 
 ## Information we collect from you
 
@@ -60,7 +62,7 @@ We share IT infrastructure with other ZPG Companies, and so we may share your pe
 We may also share your personal information with third parties in the following circumstances:
 
 **Agents, developers and other service providers**
-    We provide your personal information to agents, developers and other suppliers when you ask us to do so. For example, when you enquire about a property, we will pass your personal information to the agent or developer handling that property. When this happens, the agents’ or developers’ own privacy policies will apply to how they use your personal information. You can find these privacy policies on their websites and you should check that you are happy with them before submitting your enquiry.
+    We provide your personal information to agents, developers and other suppliers when you ask us to do so. For example, when you enquire about a property, we will pass your personal information (including what you searched for) to the agent or developer handling that property. When this happens, the agents’ or developers’ own privacy policies will apply to how they use your personal information. You can find these privacy policies on their websites and you should check that you are happy with them before submitting your enquiry.
 **Our service providers: to help us run our business and perform services you request**
     We may provide your personal information to our business partners, suppliers and subcontractors who provide services to us or where necessary to perform a service that you have requested.
 **Advertisers and advertising networks: to serve relevant adverts to you and others**
@@ -87,7 +89,7 @@ Where you have a password to enable you to access some parts of our websites or 
 
 Unfortunately, transmission of information over the internet is not completely secure. We will do our best to protect your personal information, but we cannot guarantee its security and any transmission is at your own risk. Once we have received your personal information, we will use strict procedures and security features to try to prevent unauthorised access.
 
-We keep your personal information for as long as is necessary for the purposes for which it is processed. These periods vary depending on the nature of the information and your interactions with us. If you would like to delete your MyZoopla account, please contact us using the details below.
+We keep your personal information for as long as is necessary for the purposes for which it is processed. These periods vary depending on the nature of the information and your interactions with us. If you would like us to delete your MyZoopla account, please contact us by emailing [support@zoopla.co.uk](mailto:support@zoopla.co.uk).
 
 ## Cookies
 
@@ -113,10 +115,10 @@ Our websites and apps may contain links to other websites. This privacy policy d
 
 If you have questions about this privacy policy or the way in which Zoopla processes your personal information, you can contact us using the details below:
 
-Post: Data Protection Manager, Zoopla Limited, The Cooperage, 5 Copper Row, London SE1 2LH
+Post: Data Protection Officer, Zoopla Limited, The Cooperage, 5 Copper Row, London SE1 2LH
 
 Email: [privacy@zoopla.co.uk](mailto:privacy@zoopla.co.uk)
 
 We hope that we will be able to resolve any questions or concerns you have. However, you may at any time raise your concern with the [UK Information Commissioner](https://ico.org.uk/) at:
 
-Post: Information Commissioner’s Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF
+Post: Information Commissioner's Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF
