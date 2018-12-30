@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nfib.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624092857id_/https%3A//www.nfib.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nfib.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230090616id_/https%3A//www.nfib.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | NFIB
 
@@ -50,7 +50,7 @@ We have taken reasonable steps to assign passwords, encrypt sensitive data and p
 
 #### How can you opt-out of receiving e-mails, mail, phone calls and/or faxes from us?
 
-We may periodically contact you via e-mail, phone, mail and/or fax regarding various topics. Should you wish to suspend this service, you may “opt-out” on our Web site by clicking the “contact us” link, or you may contact us at [web_membership@nfib.org](mailto:web_membership@nfib.org), 800-NFIB-NOW (800-634-2669), or at 53 Century Blvd., Suite 250, Nashville, TN 37214 and we will promptly remove your contact information from the appropriate distribution list. In addition, each e-mail or fax you receive will contain instructions on how to unsubscribe from a particular e-mail or fax service.
+We may periodically contact you via e-mail, phone, mail and/or fax regarding various topics. Should you wish to suspend this service, you may “opt-out” on our Web site by clicking the “contact us” link, or you may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6c1b090e330109010e091e1f04051c2c020a050e42031e0b), 800-NFIB-NOW (800-634-2669), or at 53 Century Blvd., Suite 250, Nashville, TN 37214 and we will promptly remove your contact information from the appropriate distribution list. In addition, each e-mail or fax you receive will contain instructions on how to unsubscribe from a particular e-mail or fax service.
 
 #### Will this Privacy Statement change?
 
@@ -72,4 +72,4 @@ Our Web site may contain links to other destinations on the Internet. We are not
 
 #### How can you change or remove your non-public personal information?
 
-You may remove or revise your non-public personal information through our Web site by clicking the “contact us” link. You may also contact us at [web_membership@nfib.org](mailto:web_membership@nfib.org), 800-NFIB-NOW (800-634-2669), or at 53 Century Blvd., Suite 250, Nashville, TN 37214 and we will immediately revise or remove your non-public personal information. Unless you instruct us otherwise, we will archive your non-public personal information indefinitely.
+You may remove or revise your non-public personal information through our Web site by clicking the “contact us” link. You may also contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#384f5d5a67555d555a5d4a4b50514878565e515a16574a5f), 800-NFIB-NOW (800-634-2669), or at 53 Century Blvd., Suite 250, Nashville, TN 37214 and we will immediately revise or remove your non-public personal information. Unless you instruct us otherwise, we will archive your non-public personal information indefinitely.
