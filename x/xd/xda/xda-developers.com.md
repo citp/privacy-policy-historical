@@ -1,10 +1,21 @@
-> *The following text is extracted and transformed from the xda-developers.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609150742id_/https%3A//www.xda-developers.com/xda-developers-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xda-developers.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230071642id_/https%3A//www.xda-developers.com/xda-developers-privacy-policy) for the most accurate reproduction.*
 
 # XDA-Developers Privacy Policy
 
 Last Updated: May 25, 2018
 
-This Privacy Policy (“Policy”) describes and governs the information collection, use, and sharing practices of KC Online Media, LLC (“XDA Developers”) and its corporate affiliates, subsidiaries, and divisions as may change from time to time (collectively, “we,” “us,” and “our”) with respect to our websites, mobile applications, and other digital and interactive services that link to this Privacy Policy (together, the “Services”).
+This Privacy Policy (“Policy”) describes and governs the information collection, use, and sharing practices of KC Online Media, LLC (“XDA Developers”) and its corporate affiliates, subsidiaries, and divisions as may change from time to time (collectively, “we,” “us,” and “our”) with respect to our websites, mobile applications, and other digital and interactive services that link to this Privacy Policy (together, the “Services”). These Services include:
+
+  * xda-developers.com
+  * [XDA Labs](https://www.xda-developers.com/xda-labs/)
+  * [Navigation Gestures](https://play.google.com/store/apps/details?id=com.xda.nobar) (available on Google Play: https://play.google.com/store/apps/details?id=com.xda.nobar)
+  * XDA (available on Google Play: https://play.google.com/store/apps/details?id=com.xda.labs.play)
+  * [XDA Feed](https://forum.xda-developers.com/android/apps-games/feed-t3585865) (available on Google Play: https://play.google.com/store/apps/details?id=com.xda.feed)
+  * [One-Handed Mode](https://play.google.com/store/apps/details?id=com.xda.onehandedmode) (available on Google Play: https://play.google.com/store/apps/details?id=com.xda.onehandedmode)
+  * Pixel/[Pixel XL](https://forum.xda-developers.com/pixel-xl) Feed (available on Google Play: https://play.google.com/store/apps/details?id=com.xda.feed.pixel)
+  * [OnePlus 3](https://forum.xda-developers.com/oneplus-3)/3T Feed (available on Google Play: https://play.google.com/store/apps/details?id=com.xda.feed.oneplus3)
+
+
 
 Before you submit any information on or through the Services, please carefully review this Policy together with our terms of use and any other documents referred to therein to understand our views and practices regarding your information and how we will treat it.
 
