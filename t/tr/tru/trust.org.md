@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trust.org privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624093055id_/http%3A//www.trust.org/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trust.org privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230090806id_/http%3A//www.trust.org/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy and Cookies | Thomson Reuters Foundation
 
@@ -15,7 +15,7 @@ We may collect and process the following data about you:
   * Contact Data: This is information such as your name, email address and telephone number which we collect when you contact us by email, subscribe to any of our newsletters, use our services, including news, TrustLaw, media training through our Media Development platform (together our Services) or which we collect via our interaction with you (for example from business cards).
   * Profile Data: This is information such as the organisation you work for, your job title and role, the country you are based in and your area of expertise which we collect when you sign-up or apply to use any of our Services.
   * Application Information: This is information such as your country of citizenship, past and present employment details, home address and contact details and education history, which we collect when you apply to attend our media training courses.
-  * Information that you provide by filling in forms on our sites including Trust.org (our Sites). This includes information provided at the time of registering to use our Sites, subscribing to any of our Services, posting material or requesting further services. We may also ask you for information when you report a problem with our Sites.
+  * Information that you provide by filling in forms on our sites, including www.Trust.org, www.trustconference.com, www.stopslaveryaward.com, www.thisisplace.org, www.wealth-of-nations.org, www.health-of-india.org, www.perspektivy.media, and any other sites created or managed by us from time to time (our Sites). This includes information provided at the time of registering to use our Sites, subscribing to any of our Services, posting material or requesting further services. We may also ask you for information when you report a problem with our Sites.
   * If you contact us, we may keep a record of that correspondence.
   * We may also ask you to complete feedback questionnaires or surveys that we use for research purposes, although you do not have to respond to them.
   * Details of the Services that you use on our Sites.
