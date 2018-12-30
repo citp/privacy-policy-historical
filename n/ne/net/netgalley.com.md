@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the netgalley.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624145819id_/https%3A//www.netgalley.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netgalley.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230142902id_/https%3A//www.netgalley.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | NetGalley
 
-##### _This is our updated Privacy Policy going into effect on May 22, 2018._
+##### _This is our updated Privacy Policy going into effect on September 20, 2018._
 
 ### _Your privacy is critically important to us. At NetGalley, we have a few fundamental principles:_
 
@@ -30,7 +30,7 @@ NetGalley LLC (Limited Liability Company)
 USA  
 E-Mail: info@netgalley.com 
 
-## Data Protection Officer (shown below as “DPO”) under the EU GDPR:
+## Data Protection Officer under the EU GDPR:
 
 Michael Vogelbacher  
 consileo GmbH & Co. KG  
@@ -41,7 +41,7 @@ GDPRCompliance@netgalley.com
 
 ## Purpose and data minimisation
 
-NetGalley is an innovative and easy-to-use online service and connection point for book publishers, reviewers, media, librarians, booksellers, bloggers and educators. We offer digital galleys, often called advance reading copies, or ARCs, to professional readers and helps promote new and upcoming titles. We collect and use your personal only within the framework of the European Union General Data Protection Regulation (EU GDPR) and the legislation of the United Kingdom related to data protection.
+NetGalley is an innovative and easy-to-use online service and connection point for book publishers, reviewers, media, librarians, booksellers, bloggers and educators. We offer digital galleys, often called advance reading copies, or ARCs, to professional readers to help promote new and upcoming titles. We collect and use your personal information only within the framework of the European Union General Data Protection Regulation (EU GDPR) and the legislation of the United Kingdom related to data protection.
 
 ## What This Policy Covers
 
@@ -53,7 +53,11 @@ Below we explain how we collect, use, and share information about you, along wit
 
 Please note that this Privacy Policy does not apply to any of our products or services that have a separate privacy policy.
 
-If you have any questions about this Privacy Policy, please [contact us](mailto:gdprcompliance@netgalley.com).
+If you have any questions about this Privacy Policy, please [contact us](mailto:GDPRCompliance@netgalley.com).
+
+## Data transmission and logging for system-internal and statistic purposes
+
+For technical reasons, your webbrowser automatically transmits data to our webserver when you access our website. This data includes, inter alia, date and time of access, URL of the referring website, file viewed, amount of transmitted data, browser type and version, operating system and your IP address. This data is stored separately from other data you enter when using our service. We are not able to associate this data to a particular person. This data is analysed for statistic purposes and will subsequently be deleted.
 
 ### Information We Collect
 
@@ -84,7 +88,7 @@ We also collect some information automatically:
 
   * Log Information: Like most online service providers, we collect information that web browsers, mobile devices, and servers typically make available, such as the browser type, IP address, unique device identifiers, language preference, referring site, the date and time of access, operating system, and mobile network information. We store this data separately other data you enter when you use our Services. This information cannot be connected to a specific person. It will be analysed for statistical purposes and subsequently be deleted. We collect log information when you use our Services–for example, when you request a book from a publisher on NetGalley.
   * Usage Information: We collect information about your usage of our Services. For example, we collect information about the actions that site administrators and members perform on a site–in other words, who did what, when and to what thing on a site. We also collect information about what happens when you use our Services (e.g., page views, support document searches, etc.) along with information about your device (e.g., mobile screen size, name of cellular network, and mobile device manufacturer). We use this information to, for example, provide our Services to you, as well as get insights on how people use our Services, so we can make our Services better.
-  * Location Information: We may determine the approximate location of your device from your IP address. We collect and use this information to, for example, calculate how many people visit our Services from certain geographic regions. 
+  * Location Information: We may determine the approximate location of your device from your IP address. We collect and use this information to, for example, calculate how many people visit our Services from certain geographic regions.
   * Information from Cookies & Other Technologies: A cookie is a string of information that a website stores on a visitor’s computer or mobile device, and that the visitor’s browser provides to the website each time the visitor returns. Pixel tags (also called web beacons) are small blocks of code placed on websites and e-mails. NetGalley uses cookies and other technologies like pixel tags to help us identify and track visitors, usage, and access preferences for our Services, as well as track and understand e-mail campaign effectiveness and to deliver targeted ads. At this time, NetGalley does not respond to “do not track” signals across all of our Services. However, you can usually choose to set your browser to remove or reject browser cookies before using NetGalley’s website, with the drawback that certain features of NetGalley’s website may not function properly without the aid of cookies.
   * A Note about Spyware: NetGalley LLC does not install spyware on your computer. Nor does it use spyware to retrieve information from your computer.
 
@@ -118,9 +122,15 @@ We use information about you as mentioned above and as follows:
 
 This website uses Google Analytics, a web analysis service of Google Inc. (“Google”, 1600 Amphitheatre Parkway Mountain View, CA 94043, USA). The information about your visit produced by cookies are transmitted to a Google Server in the United States and stored there. In case of IP-anonymisation on our website, your IP address is shorted by Google within EU members States or other contracting States of the European Economic Area prior to transmission.
 
-In exceptional cases, the full IP address is transmitted to a Google Server in the US and shorted there. Google will use this information to assess your use of the website, compile reports on website activities and render other services connected to website and internet use. The IP address transmitted by your browser within the service of google Analytics will not be connected to other Google data. 
+In exceptional cases, the full IP address is transmitted to a Google Server in the US and shorted there. Google will use this information to assess your use of the website, compile reports on website activities and render other services connected to website and internet use. The IP address transmitted by your browser within the service of google Analytics will not be connected to other Google data.
+
+##### Browser Opt Out
 
 You can prevent the collection and processing of the data generated by this cookie and related to your use of the website to and by Google by downloading and installing the browser plugin available via this link: <http://tools.google.com/dlpage/gaoptout?hl=en>
+
+##### Mobile Opt Out
+
+You can prevent the collection and processing of the data generated by this cookie and related to your use of the website to and by Google by clicking on the following link. When you do so, an opt out cookie is set and will prevent the collection of your data when you visit our website in the future: [Please opt me out](https://web.archive.org/privacy/1)
 
 ## Sharing Information
 
@@ -146,6 +156,16 @@ We share information about you in the limited circumstances spelled out below an
 
 Information that you choose to make public is–you guessed it–disclosed publicly. That means, of course, that information like your public profile, reviews, other content that you make public on the NetGalley website, and your “likes” and comments on other websites that use our Services, are all available to others–and we hope you get a lot of views! We provide a “Firehose” stream of public data (like reviews) from sites that use our Services to provide that data to subscribers, who may view and analyse and republish the content. Public information may also be indexed by search engines or used by third parties. Please keep all of this in mind when deciding what you would like to share.
 
+## Rights
+
+Under the EU GDPR and at any time, you have the right to address the controller or our DPO (see above) and request information on how your data is process. You also have a right to rectification of your data. Or you can have the processing restricted, meaning a right to have processing limited to parts of your data. At any time, you may object to the processing of your personal data. When you do so, we will check whether there are any conflicting legal transmitting and processing obligations and inform you accordingly. You also have a right to data portability, meaning that we hand over your data in a structured, commonly used and machine-readable format determined by us upon your request.
+
+In addition, if you feel that we do not treat your personal data properly and as laid out in this Policy, you have a right to complaint to the supervisory authority responsible for your country.
+
+When you’ve given your consent to the processing of your data you may, of course, revoke your consent at any time.
+
+If you receive advertisement from us, you also have a right to object at any time so that we stop sending you ads.
+
 ## Use of Social Plugins
 
 We’re using so-called Social Plugins (Plugins) in order to participate in social networks with social media content:
@@ -160,19 +180,25 @@ When you visit our website, a direct connection is made via the plugin between y
 
 This website also uses Twitter plugins. These are operated by Twitter Inc. (795 Folsom St., Suite 600, San Francisco, CA 94107, USA). When you’re visiting a site using such a plugin, which you may recognize from the Twitter bird, the logo or embedded tweets, a direct connection is made via the plugin between your browser and the Twitter servers. We don’t have any influence on the nature and extent of data the plugin transmits to the Twitter servers. According to Twitter, only your IP address is collected and stored. You can find more information on the use of personal data by Twitter here: <https://twitter.com/privacy?lang=en>
 
+##### Privacy Policy for the use of our Facebook fan page
+
+When you visit our Facebook fan page, Facebook places cookies on the device you use for your visit (i.e. your computer or your mobile device). These cookies store information in web browsers and will remain valid fort wo years unless they are deleted. Facebook receives the information stored in the cookies, stores and processes it. This not only happens when you use Facebook services such as our fan page, but also when you use services offered by other members of the Facebook company group as well as services offered by other companies who use Facebook services. Facebook partners and third parties also use cookies on Facebook services to offer their services to Facebook or to companies placing ads on Facebook.
+
+Please note that the cookie will be set upon your visit of our Facebook fan page regardless of whether you have a Facebook account or not.
+
+If you do have a Facebook account, Facebook collects and processes data upon accessing the fan page, in case you have disclosed this information in your Facebook account. This includes your age, gender, relationship status, employment status as well as information about your life style, your interests and your purchases or shopping behaviour (demographic data). Facebook also collects and processes geographical data such as your location. Facebook uses both types of data to offer customised information and advertisement (personalisation). Facebook can link this data to your person.
+
+If you do not have a Facebook account, the cookie placement at least collects your IP address, information about your device, the region or possibly the more exact location where you use your device, time and duration of your visit and estimates the above-mentioned demographic data via your surfing behaviour.
+
+As the administrator of our fan page, we receive anonymised visitor statistics produced by Facebook based on this data.
+
+You can prevent the collection of data through the cookie and related to your use of the website (including your IP address), its transfer to and use by Facebook by changing your cookie settings before visiting the Facebook fan page. Most browsers offer an option for restricting or completely blocking the cookie storage. Please note that the use and the user comfort might however be limited without cookies. You can also activate the “do not track” setting in your web browser, deactivate script code in your browser or use a so-called script blocker.
+
+You can obtain more information in Facebook’s Privacy Guideline under <https://www.facebook.com/privacy/explanation> and read about advertisement settings in the Data Protection Information under <https://www.facebook.com/help/568137493302217>. 
+
 ## Security
 
 While no online service is 100% secure, we work very hard to protect information about you against unauthorised access, use, alteration, or destruction, and take reasonable measures to do so. 
-
-## Rights
-
-Under the EU GDPR and at any time, you have the right to address the controller or our DPO (see above) and request information on how your data is process. You also have a right to rectification of your data. Or you can have the processing restricted, meaning a right to have processing limited to parts of your data. At any time, you may object to the processing of your personal data. When you do so, we will check whether there are any conflicting legal transmitting and processing obligations and inform you accordingly. You also have a right to data portability, meaning that we hand over your data in a structured, commonly used and machine-readable format determined by us upon your request.
-
-In addition, if you feel that we do not treat your personal data properly and as laid out in this Policy, you have a right to complain to the supervisory authority responsible for your country.
-
-When you’ve given your consent to the processing of your data you may, of course, revoke your consent at any time.
-
-If you receive advertisement from us, you also have a right to object at any time so that we stop sending you ads.
 
 ## Other Things You Should Know (Keep Reading!)
 
