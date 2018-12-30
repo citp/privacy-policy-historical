@@ -1,140 +1,136 @@
-> *The following text is extracted and transformed from the figshare.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624050617id_/https%3A//figshare.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the figshare.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230041220id_/https%3A//figshare.com/privacy) for the most accurate reproduction.*
 
 # figshare - Privacy
 
-We at **figshare LLP ("figshare")** respect your concerns about privacy and value the relationship we have with you. This Online Privacy Notice applies to personal information we collect on this website (the “Site”).
+This Notice applies to the websites at figshare.com and related services (“figshare”).
 
-This Online Privacy Notice describes the types of personal information we collect on the Site, how we may use the information, with whom we may share it and the choices available to you regarding our use of the information. We also describe the measures we take to safeguard the information and tell you how to contact us about our privacy practices.
+figshare is operated by figshare LLP, with registered offices at 90 York Way, London N1 9AG, UK (“Digital Science” or “we”). This Notice explains what personal data we collect, how we may use and manage it and the rights you may have in relation to such personal data. When we refer to “personal data” in this Notice, we mean information relating to an identified or identifiable individual that we collect and use in connection with figshare; not aggregate or other anonymised data, or information we process on behalf of our customers.
 
 Click on one of the links below to jump to the listed section:
 
-  * Information We Collect
-  * How We Use The Information We Collect
-  * Online Tracking
-  * Information We Share
-  * Links To Other Websites
-  * Children's Privacy
-  * How We Protect Personal Information
-  * Your Choices
-  * Notice to California Residents
-  * Access and Correction
-  * Data Transfers
-  * Updates To Our Online Privacy Notice
-  * How To Contact Us
+  * How do we collect and use personal data?
+  * The legal basis for our use of your personal data
+  * Who we share your personal data with
+  * Security
+  * Retention of your personal data
+  * International transfers
+  * Marketing
+  * Cookies
+  * Your rights
+  * Third party sites
+  * Contact details
+  * Changes to this Notice
 
 
 
-## Information We Collect
+## How do we collect and use personal data?
 
-We may obtain certain personal information (such as name, email address, orcid id) when you choose to provide them through our Site. The types of personal information we may collect include:
+We collect personal data in the following ways:
 
-  * Contact information, such as your name, location, email address, social media profiles
-  * Username and password
-  * Personal information in content you provide on our Site
-  * Department and institutional affiliations
-
-
-
-In addition, when you visit our Site, we may collect certain information by automated means, such as cookies.
-
-The information we collect in this manner includes IP address, browser characteristics, device characteristics, operating system, language preferences, referring URLs, information on actions taken on our site, and dates and times of website visits.
-
-A "cookie" is a text file that websites send to a visitor's computer or other Internet-connected device to uniquely identify the visitor's browser or to store information or settings in the browser. On this Site, we use two kinds of cookies: session cookies and persistent cookies. Session cookies exist only for as long as your browser remains open. Once you close your browser, they are deleted. Persistent cookies, in contrast, last beyond each visit to the Site and remain on your hard drive after you close your browser. The cookies used on the Site include those that are strictly necessary cookies for access and navigation, cookies that track usage (performance cookies) and remember your choices (functionality cookies).
-
-We may use the information we obtain from your use of our cookies for the following purposes:
-
-  * to recognize your computer when you visit the Site
-  * to track you as you navigate the Site
-  * to improve the Site’s usability
-  * to analyze use of the Site
-  * to manage the Site
-  * to personalize the Site
+  * **information you provide to us online.** For example, when you register to use figshare, complete one of our web forms or make a support request, we collect the personal data you provide, like your name, Orcid id, email address and other basic contact details / professional information. We will use this information to enable you to access and use figshare or fulfil the request you’ve made. You may also provide (or configure your account, including by syncing with third party apps, so figshare retrieves) additional information about you to access and use particular features within figshare, such as to populate a public profile page or make content you’ve submitted public. More occasional examples could include where you respond to a survey or enter into a competition.
+  * **information we collect from your use of figshare.** When you use figshare, we may collect information about that usage and other technical information, such as your IP address, browser type and any referring website addresses. We may combine this automatically collected log information with other information we collect about you and use it to keep a record of our interaction and to enable us to support, personalise and improve figshare. This may involve the creation of aggregate or other non-personal data. We may also collect this type of information using cookies and other similar technologies - please see our [cookie policy](https://web.archive.org/cookie-policy) for further details.
+  * **information you provide to us in person.** For example, when you visit one of our exhibition booths or attend a figshare fest or other of our events, you may provide us with your contact details. We will use this information to answer your enquiries or provide other information requested by you.
+  * **information we collect from our other interactions / business dealings.** For example, if you attend a webinar, contact us via social media or otherwise interact with our business, including as a representative of a current / prospective customer, supplier or partner, we will make a record of those dealings, which may contain personal data.
+  * **Information we collect from third parties or publicly available sources.** If you are a figshare user, we may collect personal data about you from research-related data sources, such as Orcid.
 
 
 
-Your browser may tell you how to be notified when you receive certain types of cookies or how to restrict or disable certain types of cookies. Please note, however, that without cookies you may not be able to use all of the features of our Site.
+In all the above cases, where we have a relationship with you, we may also use the personal data we collect to manage and keep a record of that relationship and other business administration purposes you’d reasonably expect and, subject always to your preferences, to provide information we think may be of interest to you.
 
-## How We Use The Information We Collect
+If you provide personal data to us about someone else (such as one of your colleagues), please ensure that you have their permission to do so and that they’re aware of the contents of this Notice.
 
-We may use the information we obtain through the Site to:
+## The legal basis for our use of your personal data
 
-  * Create and manage your account;
-  * Offer and provide products, services and information to you, including newsletters;
-  * Permit you to participate in blogs, forums, and discussion groups;
-  * Communicate with you about, and administer your participation in, special events, programs, surveys, contests, sweepstakes, and other offers or promotions
-  * Display content on our Site, such as stories, product reviews and photos;
-  * Respond to and communicate with you about your requests, questions and comments
-  * Operate, evaluate and improve our business (including developing new products and services; managing our communications; determining the effectiveness of our sales, marketing and advertising; analyzing and enhancing our products, services and Site; and performing accounting, auditing, billing, reconciliation and collection activities);
-  * Perform data analyses and other processing (including market and consumer research and trend analysis
-  * Protect against, identify and prevent fraud and other criminal activity, claims and other liabilities; and
-  * Comply with and enforce applicable legal requirements, relevant industry standards and our policies.
+In order to comply with European data privacy laws, we are required to set out the legal bases for our use of your personal data, which are as follows:
+
+  * where you have given us your explicit consent, which you can withdraw at any time. For example, we rely on your consent to fulfil specific requests you’ve made, such as to receive our blog emails, or provide information you’ve opted-in to receive;
+  * where the processing is necessary for the performance of our contract with you, or to enter into such a contract. For example, if you register to use figshare, we will need to use your details to set-up and administer your account;
+  * where the processing is necessary to comply with our legal obligations; or
+  * the processing is in our legitimate interests, provided these are not overridden by your individual rights. For example, we rely on our legitimate interests to retain personal data that’s associated with content you or a co-author has made public, so that personal information, associated with that content can be preserved. We also rely on our legitimate interests to contact you when you’ve not previously given us your consent to do so.
 
 
 
-In addition, we use information collected online through cookies and other automated means for purposes such as (i) recognizing your computer when you visit the Site, (ii) tracking you as you navigate the Site (iii) improving the Site’s usability, (iv) analyzing use of the Site, (v) managing the Site, and (vi) personalizing the Site , including targeted content and advertisements that may be of particular interest to you. We also use this information to help diagnose technical and service problems, administer our Site, identify users of our Site, and gather demographic information about our users. We use clickstream data to determine how much time users spend on web pages of our Site, how users navigate through our Site, and how we may tailor our Site to better meet the needs of our users.
+## Who we share your personal data with
 
-We also may use the information we obtain about you in other ways for which we provide specific notice at the time of collection.
+We may share your personal data within the Digital Science group on a confidential basis for our internal administrative, billing and other business purposes. We do not generally disclose or share personal data with third parties, except where it’s necessary for legitimate business reasons, such as:
 
-## Online Tracking
+  * to the agents, advisers and service providers that assist us in running and that we use to administer our business;
+  * to the subcontractors and service providers we use to provide and support figshare;
+  * if part of our business is sold to or integrated with another business, to our advisers and any prospective purchasers (and their advisers);
+  * in such circumstances for which you have given your consent;
+  * if and to the extent necessary for the performance of the contract we have with you or in order to enforce any claims we are entitled to;
+  * if we are required by law or ordered by a court to disclose such information;
+  * to third party apps you have chosen to sync with your account;
+  * in the case of your figshare profile or details associated with content you’ve made public, to public users of figshare;
+  * to third parties that host content on a persistent basis that you've chosen to publish, such as Chronopolis, and other third parties involved in the scholarly content infrastructure, such as CrossRef, Orcid and Datacite.
 
-We may use third-party web analytics services on our Site, such as Google Analytics. These service providers help us analyze how users use our Site. The information collected for this purpose (including your IP address and other information collected by automated means) will be disclosed to or collected directly by these service providers. These service providers may retain and use anonymised, aggregated data collected from users of our Site in connection with their own businesses, including in order to improve their products and services. To learn more about opting out of data collection through Google Analytics, click the link below:  
-[Google Analytics](https://tools.google.com/dlpage/gaoptout)
 
-This Site is not designed to respond to “do not track” signals received from browsers.
 
-## Information We Share
+We include appropriate confidentiality and security obligations in our contracts with our service providers and only permit them to process your personal data for specified purposes and in accordance with our instructions (not for their own purposes).
 
-We may share the information you provide with companies that are related to Macmillan through common ownership. We may also share the personal information we obtain with our publishing partners.
+Note, where you are using figshare pursuant to an institutional subscription, your institution will have access to all your content and have admin rights over your account, including the ability to configure and populate your profile and track your usage; and we will act in accordance with any instructions they may give in respect of that content (whose policies - not this policy - will govern how the personal data we process on their behalf is used).
 
-We may share information about you with non-affiliated joint marketing partners and/or third parties whose products or services may be of interest to you. These third parties may contact you directly about their products and services. We will not share your information with these third parties for their own marketing purposes if you request that we not do so. We may, however, engage in joint marketing activities with selected third parties and may share personal information about our Site visitors with them.
+## Security
 
-We share personal information with third parties who perform services on our behalf. For example, when you make a purchase we may share information about you and your transaction with other companies for the purpose of processing your transaction. In addition, we may retain third party service providers to manage our customer databases or distribute e-mail offerings.
+We take appropriate technical and organisational security measures to protect personal data from accidental or unlawful destruction, accidental loss and unauthorised access, destruction, misuse, modification or disclosure.
 
-Our Site may feature blogs, forums and discussion groups. Please be aware that some or all of the information you provide (including personal information) in connection with these activities may be made publicly available.
+## Retention of your personal data
 
-We also may disclose information about you (i) if we are required to do so by law, regulation or legal process (such as a court order or subpoena), (ii) in response to requests by government agencies, such as law enforcement authorities, or (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity. We reserve the right to transfer any information we have about you in the event we sell or transfer all or a portion of our business or assets (including in the event of a reorganization, dissolution or liquidation).
+We only keep your personal data for as long as it is necessary for the purposes for which it was collected, after which it will be destroyed, erased or anonymised.
 
-## Links To Other Websites
+If you are a figshare user and have made content public, we will retain a record of your association with that content potentially indefinitely.
 
-Our Site may contain links to other websites for your convenience and information. These may include, for example, some of the blogs and forums you may access through this Site. These websites may be operated by companies not affiliated with us. Linked websites may have their own privacy policies or notices, which we strongly suggest you review if you visit any linked websites. We are not responsible for the content of any websites that are not affiliated with figshare , any use of those websites, or the privacy practices of those websites.
+## International transfers
 
-## Children's Privacy
+In order to run our business and provide figshare, we may transfer personal data from the UK or the European Economic Area (EEA), including to our affiliates and service providers, many of whom are located outside of these jurisdictions. Whenever we make such transfers, we will ensure an appropriate level of protection is afforded to your personal data by implementing at least one of the following safeguards:
 
-Our Site is not directed to children under the age of 13 and we do not knowingly collect personal information from children under the age of 13 on our Site. If we become aware that we have inadvertently received personal information from a visitor under the age of thirteen on our Site, we will delete the information from our records.
+  * making sure the destination country has been deemed to provide an adequate level of protection for personal data;
+  * by using model form contracts that have been officially declared to afford your personal data an appropriate protection;
+  * in the case of transfers to the United States, checking the recipient is part of the “Privacy Shield”.
 
-## How We Protect Personal Information
 
-We maintain administrative, technical and physical safeguards designed to protect the personal information you provide against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use.
 
-## Your Choices
+Please email us at [support@figshare.com](mailto:support@figshare.com) if you would like more information about these safeguards.
 
-We give you the option of requesting that we not use your information for marketing purposes. Send us an email at info@figshare.com with your name and e-mail address, if you do not want us to use your information for marketing purposes.
+## Marketing
 
-Please be aware that we are able to process an opt-out request only for a specific e-mail address. So, if you have more than one e-mail address or if you have changed your e-mail address, your opt-out request may not be processed properly. If you believe you have opted out, but continue to receive e-mails from us, please contact us by one of the means listed under “How to Contact Us” below, and we will endeavor to resolve the issue.
+Depending on your preferences, we may send you marketing communications we think might be of interest to you. Some of these messages may be tailored to you, based on your interests (e.g. previous browsing activity) and any other information we may hold.
 
-## Notice to California Residents
+If you no longer wish to receive such communications, you can click the unsubscribe button. Note, even if you unsubscribe from marketing messages, we may still send you emails about the services you use, such as details of new functionality / changes to legal terms of use.
 
-California's "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the business' practices related to disclosing personal information to third parties for the third parties’ direct marketing purposes. In the alternative, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties’ direct marketing purposes if the customer has opted out of such information-sharing. We have such a policy in place. As discussed above in the section entitled “Your Choices”, if you wish to opt-out of our sharing of your information with third parties for the third parties’ direct marketing purposes, please follow the appropriate opt-out link in that section.
+## Cookies
 
-## Access and Correction
+Please see our [cookie policy](https://web.archive.org/cookie-policy) for information on how we collect personal data using cookies and similar technologies.
 
-Subject to applicable law, you may (i) have the right to access certain personal information we maintain about you and obtain a copy of that information, (ii) update or correct inaccuracies in that information, (iii) object to our use of your personal information, and (iv) delete your personal information from our database. To exercise these rights, please contact us as indicated in the How To Contact Us section of this Online Privacy Notice. To help protect your privacy and maintain security, we may take steps to verify your identity before granting you access to the information. If you are resident in the EU, a charge may be applicable before we provide a copy to you of any of your personal information that we maintain.
+## Your rights
 
-## Data Transfers
+European data privacy laws give rights to individuals in respect of personal data that organisations hold about them, for example:
 
-We may transfer the personal information we collect about you to countries other than the country in which the information originally was collected. Those countries may not have the same data protection laws as the country in which you initially provided the information. When we transfer your information to other countries, we will protect that information as described in this Online Privacy Notice and in accordance with applicable law. Where your personal information is collected in the EEA and we then transfer it outside the EEA, we will ensure that an adequate level of protection is in place to protect your personal information.
+  * to request a copy of the personal data that we hold about them;
+  * to object to the processing of their personal data; or
+  * to request that their personal data is rectified or deleted, or its processing limited.
 
-## Updates To Our Online Privacy Notice
 
-Changes to this Online Privacy Notice will become effective when those changes are posted to the Site. Your continued use of the Site subsequent to any change to this Online Privacy Notice constitutes your acceptance of the change. Please review this statement periodically to ensure you are aware of any changes or updates to this Online Privacy Notice. We indicate the effective date of this Online Privacy Notice (and any updates) at the top of the Notice.
 
-## How To Contact Us
+To make any requests regarding your personal data, please email us at [support@figshare.com](mailto:support@figshare.com). We will comply with any requests to exercise your rights in accordance with applicable law. Please be aware, however, that there are a number of limitations to these rights, and there may be circumstances where we’re not able to comply with your request.
 
-If you have any questions about this Online Privacy Notice, or if you would like us to update information we have about you or your preferences, please contact us by:
+## Third party sites
 
-E-mailing us at [info@figshare.com](mailto:info@figshare.com); **or**  
-Writing to us at:  
-**figshare llp  
-1 Mark Square,  
-London,  
-EC2A 4EG **
+If any part of figshare is made available on or through third party websites or other resources, includes links to such resources, or other resources contain links to any part of figshare, this is done for convenience only. We recommend that you check the privacy and security policies of such resources as they are not subject to this Notice.
+
+## Contact details
+
+If you would like any further information, or have any questions or concerns, regarding your personal data, as a first step, please email us at [support@figshare.com](mailto:support@figshare.com) or write to us at:
+
+  * If you’re based in Europe: 90 York Way, London N1 9AG, UK
+  * If you’re based outside of Europe: 625 Massachusetts Ave, Cambridge, MA 02139, USA
+
+
+
+You have the right to make a complaint at any time to your local supervisory authority for data protection issues. We would, however, appreciate the chance to deal with your concerns in the first instance. 
+
+## Changes to this Notice
+
+We reserve the right to modify or replace this Notice at any time by posting the revised Notice on our website. You are responsible for reviewing and becoming familiar with any such change each time you access any part of figshare.
+
+## Last Updated [25 June 2018]
