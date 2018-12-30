@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uswitch.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623151238id_/https%3A//www.uswitch.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uswitch.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231001742id_/https%3A//www.uswitch.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # uSwitch Privacy policy
 
@@ -6,9 +6,9 @@ uSwitch Limited **(“uSwitch”, “we” or “us”)** is committed to protec
 
 This policy explains how we use any personal information that you provide to us through our website, app or call-centres. Please read it carefully. We may change this policy. We will post any changes on this page, so please check back frequently.
 
-For the purposes of data protection law, the controller is uSwitch Limited of The Cooperage, 5 Copper Row, London SE1 2LH. uSwitch is part of the [ZPG Plc group of companies](https://www.zpg.co.uk/about/our-brands-products), comprising ZPG Plc and its subsidiaries (the **“ZPG Companies”** ).
+For the purposes of data protection law, the controller is uSwitch Limited of The Cooperage, 5 Copper Row, London SE1 2LH. uSwitch is part of the [ZPG Limited group of companies](https://www.zpg.co.uk/about/our-brands-products), comprising ZPG Limited and its subsidiaries (the **“ZPG Companies”** ).
 
-Information we collect from you
+Our Data Protection Officer is Michael Haynes. You can contact him at [dpo@zpg.co.uk](mailto:dpo@zpg.co.uk) or via our postal address below. Please mark the envelope 'Data Protection Officer'.
 
 ## Information we may collect from you
 
@@ -97,11 +97,15 @@ We provide your personal information to the suppliers whose products and service
 
 Some of the suppliers on our websites and apps will search external sources (for example, the electoral roll, county court judgments, bankruptcy registers and credit reference agencies) before providing you with a quote. These searches may be recorded by credit reference agencies but will not affect your credit rating.
 
-We use some third parties to perform searches on our websites for insurance quotes. They will use your personal information in accordance with their own privacy policies. Details of these third parties and their privacy policies are set out below.
+We use some third parties to perform searches on our websites for insurance quotes and to provide eligibility checkers for some financial products. They will use your personal information in accordance with their own privacy policies. Details of these third parties and their privacy policies are set out below.
+
+The eligibility checkers on our website will perform a soft credit check search before providing you with an indication of your eligibility for a product. These searches may be recorded by credit reference agencies, but will not affect your credit rating.
+
+If you go on to apply for a financial product in relation to which you have done an eligibility check, the eligibility check provider may pass your information to the supplier to help you complete your application quicker.
 
   * ### Our service providers: to help us run our business and perform services you request
 
-We may provide your personal information to our business partners, suppliers and subcontractors who provide services to us or where necessary to perform a service that you have requested.
+We may provide your personal information to our business partners, suppliers and subcontractors who provide services to us or where necessary to perform a service that you have requested. This includes putting our survey partners in touch with you so that we can find out what you thought about your experience on uSwitch.
 
   * ### Advertisers and advertising networks: to serve relevant adverts to you and others
 
@@ -165,11 +169,15 @@ Our life insurance comparison service is provided by ActiveQuote Ltd which is au
 
 Our health insurance comparison service is provided by ActiveQuote Ltd which is authorised and regulated by the Financial Conduct Authority (501109). Registered Office; Cambrian Buildings, Mount Stuart Square, Cardiff CF10 5FL. By using the health insurance comparison service, you agreeing to ActiveQuote’s [Terms and Conditions](https://www.activequote.com/terms) and [Privacy Policy](https://www.activequote.com/privacy).
 
+## Sky broadband switching service 
+
+Our broadband switching service for Sky is provided by UBIO Limited. Unless you have or create a uSwitch account or sign up to receive marketing from uSwitch, uSwitch does not retain your information as part of your switch to Sky. For more information about how Sky uses your information, see Sky's [privacy policy](https://www.sky.com/help/articles/sky-privacy-and-cookies-notice).
+
 ## Contact us
 
 If you have questions about this privacy policy or the way in which uSwitch processes your personal information, you can contact us using the details below:
 
-**Post:** Data Protection Manger, uSwitch Limited, The Cooperage, 5 Copper Row, London SE1 2LH
+**Post:** Data Protection Officer, uSwitch Limited, The Cooperage, 5 Copper Row, London SE1 2LH
 
 **Email:** privacy@uswitch.com
 
@@ -177,4 +185,4 @@ We hope that we will be able to resolve any questions or concerns you have. Howe
 
 **Post:** Information Commissioner’s Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF
 
-Updated: 11 May 2018
+Updated: 20 November 2018
