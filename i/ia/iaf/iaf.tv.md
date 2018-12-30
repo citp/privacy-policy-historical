@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the iaf.tv privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629134043id_/https%3A//nypost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iaf.tv privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230115233id_/https%3A//nypost.com/privacy) for the most accurate reproduction.*
 
 # Privacy | New York Post
 
-_Effective Date: March 23, 2017_
+_Effective Date: November 14, 2018_
 
 We at NYP Holdings, Inc. (“Company”, “we”, “us” or “our”), publisher of the New York Post, respect your concerns about privacy. This Privacy Notice (“Notice”) applies to personal customer information obtained by the Company through our services to which this Notice is linked or referenced to, including direct marketing programs, our websites and mobile apps (collectively, the “Services”)
 
@@ -33,7 +33,7 @@ We obtain personal information about customers through the Services, publicly an
   * Contact information (such as name, postal address, email address and telephone and/or mobile numbers);
   * Username and password when you register through our Services;
   * Geolocation data; and
-  * Other information you may provide to us, such as through our “Submit a Request” or “Contact Us” feature.
+  * Other information you may provide to us, such as through our Careers page as part of an application for employment, “Submit a Request” or “Contact Us” feature.
 
 
 
@@ -43,7 +43,7 @@ We also may obtain certain information through our Services by automated means, 
 
 A “cookie” is a file that websites send to a visitor’s computer or other Internet-connected device to uniquely identify the visitor’s browser or to store information or settings in the browser. A “web beacon” also known as an Internet tag, pixel tag or clear GIF, links web pages to web servers and their cookies and may be used to transmit information collected through cookies back to a web server. Through these automated collection methods, we obtain “clickstream data,” which is a log of the links and other content on which a visitor clicks while browsing a website. As the visitor clicks through the website, a record of the action may be collected and stored. We also may use similar automated means to obtain and store information regarding your actions while using our mobile apps.
 
-We may link certain data elements obtained through automated means, such as your browser or device information, with other information we have obtained about you to let us know, for example, whether you have opened an email we sent to you, what search queries you may have run and what advertisements you may have seen on our Services or on third-party websites and apps. Your browser may tell you how to be notified when you receive certain types of cookies or how to restrict or disable certain types of cookies. You also may be able to delete your Flash cookies or adjust your Flash cookie settings by visiting the Adobe Flash [Website Storage Settings Panel](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html) and [Global Storage Settings Panel](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager03.html). Please note, however, that without cookies you may not be able to use all of the features of our Services. Your device settings also may allow you to prohibit mobile app platforms (such as Apple and Google) from sharing certain information obtained by automated means with us through our apps or other app developers.
+We may link certain data elements obtained through automated means, such as your browser or device information, with other information we have obtained about you to let us know, for example, whether you have opened an email we sent to you, what search queries you may have run and what advertisements you may have seen on our Services or on third-party websites and apps. Your browser may tell you how to be notified when you receive certain types of cookies or how to restrict or disable certain types of cookies. You also may be able to delete your Flash cookies or adjust your Flash cookie settings by visiting the Adobe Flash [Website Storage Settings Panel](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html) and [Global Storage Settings Panel](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager03.html). Please note, however, that without cookies you may not be able to use all of the features of our Services. Your device settings also may allow you to prohibit mobile app platforms (such as Apple and Google) from sharing certain information obtained by automated means with us through our apps or other app developers.
 
 The providers of third-party apps, tools, widgets and plug-ins on our Services, such as social media sharing tools, also may use automated means to collect information regarding your interactions with these features. This information is collected directly by the providers of those features and is subject to the privacy policies or notices of those providers. The Company is not responsible for those providers’ information practices.
 
@@ -60,6 +60,7 @@ We may use the information collected from and about you to:
   * Supplement your personal information collected from you with additional information from publicly and commercially available sources, and/or information from Company affiliates and our business partners;
   * Associate your browser and/or device with other browsers or devices you use for the purpose of providing relevant and easier access to content, advertising across browsers and devices, and other operational/business purposes;
   * Operate, evaluate and improve our business (including developing, enhancing, analyzing and improving our Services; managing our communications; performing data analytics; and performing accounting, auditing and other internal functions);
+  * Improve our recruitment, management and planning programs;
   * Protect against, identify and prevent fraud and other unlawful activity, claims and other liabilities; and
   * Comply with and enforce applicable legal requirements, relevant industry standards, contractual obligations and our policies.
 
@@ -69,11 +70,15 @@ In addition, we and our third-party service providers may use information collec
 
 We may use third-party analytics services on our Services, such as those of Google Analytics. The analytics providers that administer these services use technologies such as cookies, web beacons, web server logs and similar technologies to help us analyze your use of the Services. The information collected through these means may be disclosed to these analytics providers and other relevant third parties who use the information, for example, to evaluate use of the Services. To learn more about how to opt out of Google Analytics services, please visit the link below:
 
-  * Google Analytics: <https://tools.google.com/dlpage/gaoptout>
+  * Google Analytics: <https://tools.google.com/dlpage/gaoptout>
 
 
 
 We also may use your personal information in other ways for which we provide specific notice at the time of collection.
+
+#### Careers
+
+If you submit an application for employment on our Careers page, we will use the information you provide about yourself to process your application. We may also use your information for the Company’s recruitment, management and planning programs. Your provision of personal information to us is voluntary; however, if you fail to provide sufficient information, the Company may be unable to consider your application. We may also obtain personal information about you from your references, a background check (as permitted by applicable law) or through automated means based on your use of our websites or apps. We may share your information with our affiliates and with third-party service providers in connection with Human Resources functions (including technical support).
 
 ### Interest-Based Advertising
 
@@ -81,18 +86,18 @@ On our sites, apps and/or emails we and our third-party service providers may ob
 
 We engage third-party advertising networks to help us target our messaging to visitors through interest-based and contextual means. Through these ad networks, we can track your online activities over time and across third-party websites and apps by obtaining information through automated means, as described above. The ad networks use this information to show you advertisements on our Services or other third-party websites and apps that may be tailored to your individual interests. The information ad networks may obtain on our behalf includes data about your visits to websites and use of apps that serve our advertisements, such as the pages or ads you view and the actions you take on those websites or apps. This data collection takes place both on our sites, apps and emails and on third-party websites and apps that participate in these ad networks. This process also helps us track the effectiveness of our marketing efforts. To learn how to opt out of this ad network interest-based advertising,
 
-  * click [here](http://www.aboutads.info/choices/) or [here](http://www.networkadvertising.org/choices/) in the US.
-  * click [here](http://youradchoices.ca/choices) in Canada.
+  * click [here](http://www.aboutads.info/choices/) or [here](http://www.networkadvertising.org/choices/) in the US.
+  * click [here](http://youradchoices.ca/choices)here in Canada.
 
 
 
 To the extent required by applicable law, we will obtain your consent before using your information for interest-based advertising.
 
-We participate in an advertising platform offered by our affiliate NC Audience Exchange, LLC, News Corp Connect, who gathers information for the purposes as described above. To learn more about News Corp Connect, and how to opt out, please click [here](http://ncaudienceexchange.com/privacy/).
+We participate in an advertising platform offered by our affiliate NC Audience Exchange, LLC, News IQ, who gathers information for the purposes as described above. To learn more about News IQ, and how to opt out, please click  _here_.
 
 We may share customer personal information as described above with
 
-  * Our subsidiaries and affiliates, any of whom may use your personal information consistent with this Privacy Notice or for the subsidiary’s or affiliate’s own purposes, including marketing purposes.  A current list of our affiliated companies is available at <http://newscorp.com/about/our-businesses/>.
+  * Our subsidiaries and affiliates, any of whom may use your personal information consistent with this Privacy Notice or for the subsidiary’s or affiliate’s own purposes, including marketing purposes.  A current list of our affiliated companies is available at <http://newscorp.com/about/our-businesses/>.
   * Service providers in the US and other jurisdictions who perform services on our behalf.
   * Our third party clients or business partners, such as advertisers and social media services and other third parties, for those third parties’ own marketing purposes, such as to serve targeted advertisements.
 
@@ -106,14 +111,14 @@ We may further disclose information about you (1) if we are required to do so by
 
 We offer you certain choices in connection with the personal information we obtain about you, such as how we communicate with you.
 
-To update your preferences, ask us to remove your information from our marketing mailing lists or submit a request, please contact us as outlined in the How To How To Contact Us section below.
+To update your preferences, ask us to remove your information from our marketing mailing lists or submit a request, please contact us as outlined in the How To Contact Us section below.
 
 You also can unsubscribe from our marketing mailing lists by following the “Unsubscribe” link in our emails.
 
 To learn more about how to opt out of ad network interest-based advertising, please visit the customer opt-out pages at:
 
-  * In the US: <http://www.aboutads.info/choices/> and <http://www.networkadvertising.org/choices/>.
-  * In Canada: <http://youradchoices.ca/choices>.
+  * In the US: <http://www.aboutads.info/choices/> and <http://www.networkadvertising.org/choices/>.
+  * In Canada: <http://youradchoices.ca/choices>.
 
 
 
@@ -123,7 +128,7 @@ You have the right to access, review, update, and correct inaccuracies in your p
 
 ### Notice to California Residents
 
-Subject to certain limitations, California residents may ask us to provide them with (1) a list of certain categories of personal information that we have disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year, and (2) the identity of those third parties. To make this request, California residents may contact us as specified in the How to Contact Us section below.
+Subject to certain limitations, California residents may ask us to provide them with (1) a list of certain categories of personal information that we have disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year, and (2) the identity of those third parties. To make this request, California residents may contact us as specified in the How to Contact Us section below.
 
 ### How We Protect Personal Information
 
