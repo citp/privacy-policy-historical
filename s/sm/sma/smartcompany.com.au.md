@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartcompany.com.au privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624175047id_/https%3A//www.smartcompany.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartcompany.com.au privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230171442id_/https%3A//www.smartcompany.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - SmartCompany
 
@@ -27,7 +27,7 @@ MELBOURNE VIC 3000
 
 Ph: 1800 985 502
 
-Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6d0c090004032d1d1f041b0c1908000809040c430e0200430c18)
+Email: [admin@privatemedia.com.au](mailto:admin@privatemedia.com.au)
 
 You may use a pseudonym or not identify yourself when making such a request.
 
@@ -157,7 +157,7 @@ MELBOURNE VIC 3000
 
 Ph: 1800 985 502
 
-Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#95f4f1f8fcfbd5e5e7fce3f4e1f0f8f0f1fcf4bbf6faf8bbf4e0)
+Email: [admin@privatemedia.com.au](mailto:admin@privatemedia.com.au)
 
 We will provide the details of that third party within a reasonable time and without charge.
 
@@ -181,7 +181,7 @@ MELBOURNE VIC 3000
 
 Ph: 1800 985 502
 
-Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2e4f4a4347406e5e5c47584f5a4b434b4a474f004d4143004f5b)
+Email: [admin@privatemedia.com.au](mailto:admin@privatemedia.com.au)
 
 We will affect the change in a reasonable time and without charge.
 
@@ -276,10 +276,10 @@ MELBOURNE VIC 3000
 
 Ph: 1800 985 502
 
-Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5736333a3e391727253e213623323a32333e367934383a793622)
+Email: [admin@privatemedia.com.au](mailto:admin@privatemedia.com.au)
 
 We will endeavour to respond to your complaint within 30 days of receipt. If unresolved, the complaint may be referred to an external complaints resolution entity and finally, if necessary, taken to the Office of the Australian Information Commissioner.
 
 If you would like a copy of this Privacy Policy sent to you then please request it by contacting us and we will provide you a copy of this Privacy Policy free of charge.
 
-**This policy was last updated 4 February 2016.  **
+**This policy was last updated 25 May 2018.  **
