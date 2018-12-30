@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buybluesteel.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229090704id_/https%3A//www.buybluesteel.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buybluesteel.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230201135id_/https%3A//www.buybluesteel.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Blue Steel Jewelry, featuring Stainless Steel, Tungsten and Titanium Jewelry
 
