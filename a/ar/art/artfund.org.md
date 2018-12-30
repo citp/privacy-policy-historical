@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artfund.org privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624194954id_/https%3A//www.artfund.org/pages/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artfund.org privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230190859id_/https%3A//www.artfund.org/pages/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy and cookies - Art Fund
 
@@ -125,7 +125,7 @@ Targeting Cookies. We might occasionally use your public IP address (i.e. the ad
 
 Please note that where you make a comment on Facebook via the Art Fund website, Facebook may also set a cookie on your computer or mobile device.
 
-You are not obliged to accept cookies and you can change your browser's settings to prevent it from accepting them by clicking on the 'Tools' menu in your internet browser. Please be aware that if you do disable cookies, certain services on our website may not be available to you and your enjoyment of the website may be impaired. For more information, please click here
+You are not obliged to accept cookies and you can change your browser's settings to prevent it from accepting them by clicking on the 'Tools' menu in your internet browser. Please be aware that if you do disable cookies, certain services on our website may not be available to you and your enjoyment of the website may be impaired.
 
 _Social Media_
 
@@ -271,7 +271,7 @@ We follow appropriate security procedures in the storage and disclosure of perso
 
 We will only hold your personal information for as long as is reasonably necessary for the purposes set out in this Privacy Notice and to fulfil our legal obligations. The retention periods will vary depending on the purpose, for example if you make a card payment we will only hold your card details while the payment is being processed.
 
-For further information on how long we keep your personal information, please read our [Personal Data Retention Policy](https://www.artfund.org/assets/art-fund-personal-data-retention-policy_1.pdf).
+For further information on how long we keep your personal information, please read our [Personal Data Retention Policy](https://www.artfund.org/assets/art-fund-personal-data-retention-policy_2.pdf).
 
 ####  More about how we protect your information ____
 
@@ -315,5 +315,3 @@ If you have any queries about this Privacy Notice or any queries about the prote
 Art Fund Supporter and Customer Services,  
 PO Box 3678,  
 MELKSHAM SN12 9AP
-
-"Art Fund" is the operating name of the National Art Collections Fund, a charity registered in England and Wales (209174) and Scotland (SC038331) 
