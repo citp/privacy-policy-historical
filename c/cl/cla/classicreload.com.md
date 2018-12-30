@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classicreload.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625011227id_/https%3A//classicreload.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classicreload.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231002510id_/https%3A//classicreload.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | ClassicReload.com
 
@@ -46,4 +46,4 @@ Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1e7d727f6d6d777d6c7b72717f7a5e716b6a72717175307d7173)
+[classicreload.com@gmail.com](mailto:classicreload.com@gmail.com)
