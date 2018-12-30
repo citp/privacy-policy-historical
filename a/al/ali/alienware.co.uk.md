@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alienware.co.uk privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617175320id_/http%3A//www.dell.com/learn/uk/en/ukcorp1/policies-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alienware.co.uk privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230213840id_/https%3A//www.dell.com/learn/uk/en/ukcorp1/policies-privacy) for the most accurate reproduction.*
 
 # Privacy Statement Regarding Customer and Online Visitor Information | Dell UK
 
