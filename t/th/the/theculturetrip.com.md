@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theculturetrip.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624230733id_/https%3A//theculturetrip.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theculturetrip.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230222221id_/https%3A//theculturetrip.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -179,7 +179,9 @@ To enable you to partake in a prize draw, competition or complete a survey
 
 (b) Necessary for our legitimate interests (to study how customers use our products/services, to develop them and grow our business)  
   
-To administer and protect our business and Website and App (including troubleshooting, data analysis, testing, system maintenance, support, reporting and hosting of data)| 
+To administer and protect our business and Website and App (including troubleshooting, data analysis, testing, system maintenance, support, reporting and hosting of data)
+
+| 
 
 (a) Identity
 
@@ -193,7 +195,9 @@ To administer and protect our business and Website and App (including troublesho
 
 (b) Necessary to comply with a legal obligation  
   
-To deliver relevant App and Website content and advertisements to you and measure or understand the effectiveness of the advertising we serve to you| 
+To deliver relevant App and Website content and advertisements to you and measure or understand the effectiveness of the advertising we serve to you
+
+| 
 
 (a) Identity
 
@@ -211,7 +215,9 @@ To deliver relevant App and Website content and advertisements to you and measur
 
 Necessary for our legitimate interests (to study how customers use our products/services, to develop them, to provide a good experience to our users, to grow our business and to inform our marketing strategy)  
   
-To use data analytics to improve our Website, App, products/services, provision of content, marketing, customer relationships and experiences| 
+To use data analytics to improve our Website, App, products/services, provision of content, marketing, customer relationships and experiences
+
+| 
 
 (a) Technical
 
@@ -221,7 +227,9 @@ To use data analytics to improve our Website, App, products/services, provision 
 
 Necessary for our legitimate interests (to define types of customers for our products and services, to keep our website updated and relevant, to develop our business and to inform our marketing strategy)  
   
-To make suggestions and recommendations to you about goods or services or content that may be of interest to you| 
+To make suggestions and recommendations to you about goods or services or content that may be of interest to you
+
+| 
 
 (a) Identity
 
@@ -237,7 +245,9 @@ To make suggestions and recommendations to you about goods or services or conten
 
 Necessary for our legitimate interests (to develop our products/services and grow our business)  
   
-To track your viewing habits and engagement with affiliate links and adverts on the Website and App| 
+To track your viewing habits and engagement with affiliate links and adverts on the Website and App
+
+| 
 
 (a) Technical
 
@@ -247,7 +257,17 @@ To track your viewing habits and engagement with affiliate links and adverts on 
 
 Necessary for our legitimate interests to develop and grow our business  
   
-## 5\. opting out of personalised content and adverts
+To send you our email newsletter, including stories, photos, videos, insider tips, news and product updates, if you have subscribed to receive this. We vary the frequency of these emails, but we aim to email you regularly.
+
+| 
+
+(a) Contact
+
+| 
+
+Consent – we will only send you these types of emails if you have signed up to receive them.  
+  
+## 5\. Opting out of personalised content and adverts
 
 So that we can provide you with a great user experience, we may use your Identity, Contact, Technical, Usage and Profile Data to form a view on what we think you may want or need. This is how we decide which adverts and content may be relevant for you. You will only receive marketing communications from us by email if you provided us with your express opt-in consent.
 
