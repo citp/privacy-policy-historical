@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the selectism.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629131233id_/https%3A//www.highsnobiety.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selectism.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230014911id_/https%3A//www.highsnobiety.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Highsnobiety
 
@@ -17,7 +17,7 @@ Duly represented by David Fischer, Jürgen Hopfgartner
 
 ### Data process manager
 
-Michiel Slot, [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7317031c331b1a141b001d1c111a16070a5d101c1e)
+Michiel Slot, [dpo@highsnobiety.com](mailto:dpo@highsnobiety.com)
 
 ## Summary
 
@@ -40,7 +40,7 @@ Customer and user data, data from partner companies that are needed to fulfill t
 
 Our website is not directed toward children under 16 and we will not knowingly collect information for any child under the age of 16.
 
-If you are the parent of a child under the age of 16 and have a concern regarding your child’s information on our website, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#91f5e1fed1f9f8f6f9e2fffef3f8f4e5e8bff2fefc).
+If you are the parent of a child under the age of 16 and have a concern regarding your child’s information on our website, please contact us at [dpo@highsnobiety.com](mailto:dpo@highsnobiety.com).
 
 ### Recipients or groups of recipients to whom data may be disclosed
 
@@ -71,7 +71,7 @@ Legal basis for the processing of personal data which is necessary in order to r
 
 
 
-If you have any questions about this Privacy Policy or would like to know more about what information we collect and store, please contact us at:[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#57332738173f3e303f243938353e32232e7934383a).
+If you have any questions about this Privacy Policy or would like to know more about what information we collect and store, please contact us at:[dpo@highsnobiety.com](mailto:dpo@highsnobiety.com).
 
 ## Information We Collect
 
@@ -84,6 +84,14 @@ For example, some of our services require you to sign up for an account, provide
 When you contact us, either by e-mail or by using our contact form, we collect the data you have submitted with your request (e.g. name. e-mail) and may keep a record of your communication to help solve any issues you might be facing. Legal basis for such data processing is Article 6 (1) lit. b and lit. f GDPR. Unless statutory provisions provide otherwise, the data will be deleted if the purpose cease to apply, e.g. if we have processed your request.
 
 We work with social networks including, but not limited to Facebook, Twitter, Google Plus, Snapchat, Instagram, and YouTube. We have access to information you directly provide and information through those social networking services based on your privacy settings on those networks. Please see section IV. below for further details. Such information serves to enhance the usability of our services. Legal basis for such data processing is Article 6 (1) lit. f GDPR. Unless statutory provisions provide otherwise, the data will be deleted if the purpose cease to apply.
+
+### Information we gather from surveys.
+
+If you take part in one of our surveys, we store your contact data and the information you provide as part of the survey. We use this data in anonymous form only. It is not possible to draw any conclusions about your person. We publish the results of the survey on our website or share them with partner companies, e.g. advertising partners or connected websites. For example, we may share information to show trends about the general use of our services.
+
+For conducting the surveys we use Typeform, a service of TYPEFORM S.L., Carrer Doctor Trueta, 113-119, Planta 1, 08005 Barcelona, Spain. The data collected in the survey will be stored on a Typeform server, possibly in the USA. The data is only transmitted and stored in encrypted form. Further information can be found in Typeform’s privacy policy at <https://admin.typeform.com/to/dwk6gt>.
+
+The legal basis for such data processing is Art. 6 (1) lit. f) DSGVO. The data will be deleted as soon as the purpose of the storage has ceased to exist, e.g. when the survey has been completely evaluated.
 
 ### Information we get from your use of our services.
 
@@ -115,15 +123,15 @@ We may share anonymous, non-personally identifiable information publicly and wit
 
 ## Information Security
 
-We work hard to protect our users from unauthorized access to or unauthorized alteration, disclosure or destruction of information we hold however no website is entirely secure. You should protect the account information in your possession as well. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once it is received. If you have any questions about the security of your personal information, you can contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#fb9f8b94bb93929c9388959499929e8f82d5989496).
+We work hard to protect our users from unauthorized access to or unauthorized alteration, disclosure or destruction of information we hold however no website is entirely secure. You should protect the account information in your possession as well. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once it is received. If you have any questions about the security of your personal information, you can contact us at [dpo@highsnobiety.com](mailto:dpo@highsnobiety.com).
 
 ## I. Cookies
 
 Technologies such as: cookies, beacons, tags and scripts are used by us and our advertising and marketing partners, affiliates, or service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. We use cookies to remember users’ settings (e.g. geographic location) and for authentication. You can decide whether to accept cookies.
 
-When visiting our website, we will ask you for your consent to use certain cookies. You may at any time revoke your consent to such use by using the opt-out button or the opt-out functions described below or by sending an e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2e4a5e416e464749465d40414c474b5a57004d4143).
+When visiting our website, we will ask you for your consent to use certain cookies. You may at any time revoke your consent to such use by using the opt-out button or the opt-out functions described below or by sending an e-mail to [dpo@highsnobiety.com](mailto:dpo@highsnobiety.com).
 
-In addition, users can control the use of cookies at the individual browser level by changing your browser settings (mostly found under “Options” or “Settings” in the browser menu). You have the choice of accepting all cookies, being informed about each cookie or refusing all. To manage Flash cookies, please [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
+In addition, users can control the use of cookies at the individual browser level by changing your browser settings (mostly found under “Options” or “Settings” in the browser menu). You have the choice of accepting all cookies, being informed about each cookie or refusing all. To manage Flash cookies, please [click here](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
 
 If you choose not to accept cookies on our website, it is possible that the functionality of our website may be limited and some services may not be usable.
 
@@ -144,25 +152,25 @@ Please see below for a full list of cookies and detailed information on the asso
 
 ### Google Analytics
 
-We use Google Analytics, a web analytics service provided by Google Inc., 1600 Amphitheatre Parkway Mountain View, CA 94043, USA (“Google”), on our website. Google Analytics uses so-called “cookies”, text files that are saved on your computer and that enable your use of the website to be analyzed. The cookie-generated information about your use of our website is usually transmitted to and stored on a Google server in the United States. However, if you are in a country that is a member state of the European Union or a contracting party to the Agreement on the European Economic Area, and if IP address anonymization has been activated on our website, Google will first truncate your IP address. Only by way of exception will the full IP address be transmitted to a Google server in the United States and truncated there. Google will use this information on our behalf for the purposes of analyzing how you use our website, compiling reports on website activity and providing further services related to website and internet use to the website operator. The IP address transmitted through Google Analytics from your browser will not be associated with any other data held by Google. You can disable cookies by setting your browser accordingly; however, if you do this you may not be able to use the full functionality of our website. You can also prevent the data generated by the cookie and related to your use of this website (including your IP address) being transmitted to and processed by Google by downloading and installing the browser plug-in available here: <http://tools.google.com/dlpage/gaoptout?hl=en>
+We use Google Analytics, a web analytics service provided by Google Inc., 1600 Amphitheatre Parkway Mountain View, CA 94043, USA (“Google”), on our website. Google Analytics uses so-called “cookies”, text files that are saved on your computer and that enable your use of the website to be analyzed. The cookie-generated information about your use of our website is usually transmitted to and stored on a Google server in the United States. However, if you are in a country that is a member state of the European Union or a contracting party to the Agreement on the European Economic Area, and if IP address anonymization has been activated on our website, Google will first truncate your IP address. Only by way of exception will the full IP address be transmitted to a Google server in the United States and truncated there. Google will use this information on our behalf for the purposes of analyzing how you use our website, compiling reports on website activity and providing further services related to website and internet use to the website operator. The IP address transmitted through Google Analytics from your browser will not be associated with any other data held by Google. You can disable cookies by setting your browser accordingly; however, if you do this you may not be able to use the full functionality of our website. You can also prevent the data generated by the cookie and related to your use of this website (including your IP address) being transmitted to and processed by Google by downloading and installing the browser plug-in available here: [http://tools.google.com/dlpage/gaoptout?hl=en](https://tools.google.com/dlpage/gaoptout?hl=en)
 
 As an alternative to installing the browser plug-in, particularly in internet browsers on mobile devices, you can prevent the collection of data by Google Analytics by clicking this link: <https://tools.google.com/dlpage/gaoptout?hl=en>.
 
 This will save an “opt-out” cookie to your device, meaning that none of your data will be collected on this website by Google Analytics.
 
-More detailed information about the function of Google Analytics and the terms of use and privacy policy relevant to this service can be found under <http://www.google.com/analytics/terms/gb.html> and <http://www.google.de/intl/en/policies/privacy/>. We would also like to point out that our website uses Google Analytics with the anonymizeIP extension so that IP addresses are only processed further in an abbreviated form to prevent them being directly linked to a particular individual.
+More detailed information about the function of Google Analytics and the terms of use and privacy policy relevant to this service can be found under [http://www.google.com/analytics/terms/gb.html](https://www.google.com/analytics/terms/gb.html) and [http://www.google.de/intl/en/policies/privacy/](https://www.google.de/intl/en/policies/privacy/). We would also like to point out that our website uses Google Analytics with the anonymizeIP extension so that IP addresses are only processed further in an abbreviated form to prevent them being directly linked to a particular individual.
 
 ### Google AdSense
 
-Our website also utilizes Google AdSense, a Google Inc. service that allows Google to place automatically generated, content-related advertisements on our website. For further information on Google AdSense, please see <http://www.google.co.uk/adsense>. Similarly to Google Analytics, Google AdSense uses cookies that are saved on your computer and that enable analysis of your use of our website. Additionally, Google AdSense utilizes “web beacons” (invisible graphics), which also enable an evaluation of your use of our website. The information regarding the use of this website (including your IP address) generated by cookies and web beacons, and the delivery of advertising formats, are transferred to a Google server, where they are saved. Google uses such information to evaluate your use of the website, to compile reports on the website activities and to provide other services to us in relation to website and internet use. Furthermore, Google may pass on this data to its advertising partners. We would like to point out that, in contrast to Google Analytics, Google has as yet not taken measures to anonymize your IP address for its Google AdSense service. Therefore, in addition to the previously mentioned data relating to your use of our website, your IP address will also be transferred to, and saved on, a Google server. You can disable cookies by setting your browser accordingly; however, if you do this you may not be able to use the full functionality of our website.
+Our website also utilizes Google AdSense, a Google Inc. service that allows Google to place automatically generated, content-related advertisements on our website. For further information on Google AdSense, please see [http://www.google.co.uk/adsense](https://www.google.co.uk/adsense). Similarly to Google Analytics, Google AdSense uses cookies that are saved on your computer and that enable analysis of your use of our website. Additionally, Google AdSense utilizes “web beacons” (invisible graphics), which also enable an evaluation of your use of our website. The information regarding the use of this website (including your IP address) generated by cookies and web beacons, and the delivery of advertising formats, are transferred to a Google server, where they are saved. Google uses such information to evaluate your use of the website, to compile reports on the website activities and to provide other services to us in relation to website and internet use. Furthermore, Google may pass on this data to its advertising partners. We would like to point out that, in contrast to Google Analytics, Google has as yet not taken measures to anonymize your IP address for its Google AdSense service. Therefore, in addition to the previously mentioned data relating to your use of our website, your IP address will also be transferred to, and saved on, a Google server. You can disable cookies by setting your browser accordingly; however, if you do this you may not be able to use the full functionality of our website.
 
 ### Google DoubleClick Ad Exchange and Google Tag Manager
 
-Our website uses Google Double Click Ad Exchange and Google Tag Manager software provided by Google. These services allow website providers to address their visitors in a targeted fashion by displaying personalized, interest-based advertisements when they visit other websites that are part of the Google Display Network. Google utilizes cookies to analyze how users use a website. The information collected with these cookies form the basis for interest-based advertising. To do so, Google stores a small sequence of numbers in the browser of the visitor calling on the website. This number is used to record the visits to the website and collect anonymized data on how the website is being used. No personal data are collected in the process. If you subsequently visit another website that is part of the Google Display Network, you will be served advertisements that are very likely to be related to the products or information that you have previously viewed. You can permanently deactivate the cookies used by Google if you click on the following link and download and install the plug-in contained therein: <https://www.google.com/settings/ads/plugin>. Alternatively, you can deactivate the use of cookies through third parties by visiting the deactivation page of the Network Advertising Initiative at http://www.networkadvertising.org/choices/ and following the opt-out instructions contained therein. Further information on Google remarketing and the privacy policy of Google can be found at:<http://www.google.com/privacy/ads/>.
+Our website uses Google Double Click Ad Exchange and Google Tag Manager software provided by Google. These services allow website providers to address their visitors in a targeted fashion by displaying personalized, interest-based advertisements when they visit other websites that are part of the Google Display Network. Google utilizes cookies to analyze how users use a website. The information collected with these cookies form the basis for interest-based advertising. To do so, Google stores a small sequence of numbers in the browser of the visitor calling on the website. This number is used to record the visits to the website and collect anonymized data on how the website is being used. No personal data are collected in the process. If you subsequently visit another website that is part of the Google Display Network, you will be served advertisements that are very likely to be related to the products or information that you have previously viewed. You can permanently deactivate the cookies used by Google if you click on the following link and download and install the plug-in contained therein: <https://www.google.com/settings/ads/plugin>. Alternatively, you can deactivate the use of cookies through third parties by visiting the deactivation page of the Network Advertising Initiative at http://www.networkadvertising.org/choices/ and following the opt-out instructions contained therein. Further information on Google remarketing and the privacy policy of Google can be found at:[http://www.google.com/privacy/ads/](https://www.google.com/privacy/ads/).
 
 ### Google DoubleClick for Publisher
 
-Our website uses DoubleClick for Publishers (“DFP”), a service of Google. DFP is a platform for the placement, management and optimization of ads on websites. DFP allows us to present personalized ads to website visitors who have shown interest in certain content areas. This is made possible through an analysis of their use of our website, including other site pages, and on other websites within the Google display network (Google itself, Google Ads, and other websites). For this purpose, Google uses cookies, which are stored on your computer. DoubleClick cookies do not contain or store any personal data of users. You can deactivate personalized Google ads in your browser by clicking the “Turn off” button under “Ads Personalization Across the Web” at <http://www.google.com/settings/ads>, or, if you use the Google Chrome, Firefox or Internet Explorer browser, by installing the DoubleClick opt out extension offered for your browser at http://www.google.de/settings/ads.
+Our website uses DoubleClick for Publishers (“DFP”), a service of Google. DFP is a platform for the placement, management and optimization of ads on websites. DFP allows us to present personalized ads to website visitors who have shown interest in certain content areas. This is made possible through an analysis of their use of our website, including other site pages, and on other websites within the Google display network (Google itself, Google Ads, and other websites). For this purpose, Google uses cookies, which are stored on your computer. DoubleClick cookies do not contain or store any personal data of users. You can deactivate personalized Google ads in your browser by clicking the “Turn off” button under “Ads Personalization Across the Web” at [http://www.google.com/settings/ads](https://www.google.com/settings/ads), or, if you use the Google Chrome, Firefox or Internet Explorer browser, by installing the DoubleClick opt out extension offered for your browser at http://www.google.de/settings/ads.
 
 ### Quantcast
 
@@ -174,7 +182,7 @@ You may opt-out of data collection by Quantcast at any time by following this li
 
 Our website uses Scorecard Research, a service provided by Full Circle Studies, Inc., 11950 Democracy Drive, Reston, VA 20190, USA („Scorecard“). Scorecard collects information on how you use our services, including information about your operating system, browser type and website preferences and your activities on our website. Such information is used to create reports on the use of our website that helps us to understand our user’s behaviour and to provide with you content and advertising based on your interests and preferences. Further information on the processing and use of data by Scorecard can be found in Scorecard‘s privacy policy: www.scorecardresearch.com/privacy.aspx
 
-You may opt-out of data collection by Scorecard at any time by following this link: [www.scorecardresearch.com/privacy.aspx](http://www.scorecardresearch.com/privacy.aspx)
+You may opt-out of data collection by Scorecard at any time by following this link: [www.scorecardresearch.com/privacy.aspx](https://www.scorecardresearch.com/privacy.aspx)
 
 ### comScore
 
@@ -198,7 +206,7 @@ If you do not want Facebook to assign this information directly to your Facebook
 
 ### Chartbeat
 
-Our website uses Chartbeat, a service provided by Chartbeat, Inc., 826 Broadway, 6th Floor, New York, NY 10003, USA („Chartbeat“). Chartbeat is an internet technology company that provides real-time website analytics to monitor content performance. It collects anonymous user data to provide information about how our website is being used and gives us an indication of the content that is of most interest to our website visitors. This includes what pages users are clicking on, how long users spend on each page, whether users are commenting on a page, and whether users are scrolling down pages they click on. This information allows us to provide content that is more useful and relevant for the users of our websites. For details of Chartbeat’s privacy policy, please visit [http://www.chartbeat.com](http://www.chartbeat.com/).
+Our website uses Chartbeat, a service provided by Chartbeat, Inc., 826 Broadway, 6th Floor, New York, NY 10003, USA („Chartbeat“). Chartbeat is an internet technology company that provides real-time website analytics to monitor content performance. It collects anonymous user data to provide information about how our website is being used and gives us an indication of the content that is of most interest to our website visitors. This includes what pages users are clicking on, how long users spend on each page, whether users are commenting on a page, and whether users are scrolling down pages they click on. This information allows us to provide content that is more useful and relevant for the users of our websites. For details of Chartbeat’s privacy policy, please visit [http://www.chartbeat.com](https://www.chartbeat.com/).
 
 ### New Relic APM
 
@@ -217,7 +225,7 @@ Our services are mainly financed by advertising revenues. The use of cookies hel
 With your prior explicit consent, you can use the comment function to comment on articles, tips, news and other content on our website. The comment function is an external service that we have integrated into our website, and is provided by Disqus, Inc., 301 Howard St., Suite 300, San Francisco, CA 94105 (hereinafter referred to as “DISQUS”). You can use the comment function either as a guest or as a registered user. If you wish to comment on articles on our website as a guest, you must first provide a name under which you wish to comment and a valid email address. This information will be transmitted to DISQUS and saved on their servers. You can also log in and comment using your access data from a pre-existing DISQUS user account or your Facebook, Google+ or Twitter account.
 
 If you log in using your DISQUS access data, a connection will be made with the DISQUS server and DISQUS will be informed that you are visiting our website and using the comment function. This information will be associated with your DISQUS account. We have no influence on the scope of further data that is provided to DISQUS using the comment function and saved there. DISQUS is solely responsible for this data processing. You can prevent DISQUS collecting data and information, in particular usage data, by opting out via the following link (click the “opt out” button).  
-[https://help.disqus.com/customer/portal/articles/1657951?utm_source=disqus&utm_medium=embed-footer&utm_content=privacy-btn](https://help.disqus.com/customer/portal/articles/1657951?utm_source=disqus&utm_medium=embed-footer&utm_content=privacy-btn)
+[disqus.com/data-sharing-settings](https://disqus.com/data-sharing-settings/)
 
 When using the comment function via your Facebook, Google+ or Twitter account, DISQUS connects to the relevant social network’s server via our website and informs it that you are visiting our website and using the DISQUS comment function. This information will be associated with your Facebook, Google+ or Twitter account. When registering for DISQUS, Facebook Google+ or Twitter will send your user ID to DISQUS if the login information provided and sent by our website (normally an email address) corresponds to the information saved on Facebook, Google+ or Twitter. At the same time, by logging in using Facebook, Google+ or Twitter you are authorizing DISQUS to use your data and also the functions of Facebook, Google+ or Twitter. You can find more information about this by logging in using your Facebook, Google+ or Twitter account. We have no influence on the volume of further data that is provided to Facebook, Google+ or Twitter using the comment function and saved there. Facebook, Google+ or Twitter is solely responsible for this data processing.
 
@@ -225,14 +233,14 @@ For further information regarding the purpose and scope of data collection, and 
 
   * DISQUS at <https://help.disqus.com/customer/portal/articles/466259-privacy-policy>
   * Facebook at <https://www.facebook.com/policy.php>
-  * Google+ at <http://www.google.com/intl/en/policies/privacy/>
+  * Google+ at [http://www.google.com/intl/en/policies/privacy/](https://www.google.com/intl/en/policies/privacy/)
   * Twitter at <https://twitter.com/privacy?lang=en>
 
 
 
 There you will find, amongst other things, information regarding settings for the protection of your privacy and regarding your further rights regarding the collecting, processing and use of your data by DISQUS, Facebook, Google+ or Twitter.
 
-Legal basis for such data processing is Article 6 (1) lit. a GDPR. You may at any time revoke your consent by using the opt-out link above or by sending an e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) Unless statutory provisions provide otherwise, the data will be deleted if the purpose cease to apply, e.g. if you disable your account.
+Legal basis for such data processing is Article 6 (1) lit. a GDPR. You may at any time revoke your consent by using the opt-out link above or by sending an e-mail to dpo@highsnobiety.com. Unless statutory provisions provide otherwise, the data will be deleted if the purpose cease to apply, e.g. if you disable your account.
 
 ## III. Store
 
@@ -240,7 +248,7 @@ When placing an order via our store, we collect personal data required to proces
 
 Legal basis for such data processing is Article 6 (1) lit. b GDPR. Unless statutory provisions provide otherwise, the data will be deleted if the purpose cease to apply, e.g. if the order has been successfully completed.
 
-Out store is hosted by Shopify, a service provided by Shopify Inc., 126 York Street, Suite 200, Ottawa, ON, Kanada, K1N 5T5. Shopify provides us with an e-commerce platform that allows us to sell products to you. Personal data submitted during the order process will be stored on Shopify’s server in the US. Shopify complies with the Privacy Shield framework to safeguard an appropriate level of data protection. For further information, see Shopify’s privacy policy: <http://www.shopify.com/legal/privacy>.
+Out store is hosted by Shopify, a service provided by Shopify Inc., 126 York Street, Suite 200, Ottawa, ON, Kanada, K1N 5T5. Shopify provides us with an e-commerce platform that allows us to sell products to you. Personal data submitted during the order process will be stored on Shopify’s server in the US. Shopify complies with the Privacy Shield framework to safeguard an appropriate level of data protection. For further information, see Shopify’s privacy policy: [http://www.shopify.com/legal/privacy](https://www.shopify.com/legal/privacy).
 
 ## IV. Links to external social networks and social media widgets
 
@@ -264,7 +272,7 @@ If you are a Facebook member and do not want Facebook to connect the data concer
 
 When you visit our Facebook page, Facebook collects personal data, even if you are not a member of Facebook. Please note that we have no control over the type and scope of such data processing. Facebook provides us with aggregated, anonymous demographic data only that helps us to better understand our audience.
 
-For the information on the purpose and scope of data collection and procession by Facebook, as well as your rights against Facebook in this respect and settings options for protecting your privacy please visit Facebook’s privacy policy: [ https://www.facebook.com/policy.php](https://www.facebook.com/policy.php). 
+For the information on the purpose and scope of data collection and procession by Facebook, as well as your rights against Facebook in this respect and settings options for protecting your privacy please visit Facebook’s privacy policy: [ https://www.facebook.com/policy.php](https://www.facebook.com/policy.php).
 
 ### Login with Facebook
 
@@ -272,7 +280,7 @@ Our website also allows you to register or sign-up to our services using your Fa
 
 Such information serves to enhance the usability of our services. Legal basis for such data processing is Article 6 (1) lit. f GDPR. Unless statutory provisions provide otherwise, the data will be deleted if the purpose cease to apply.
 
-For further information regarding the purpose and scope of data collection, and regarding the further processing and use of your data by Facebook, see Facebook’s own privacy rules. These are available online at [www.facebook.com/policy.php](http://www.facebook.com/policy.php). There you will find, amongst other things, information regarding settings for the protection of your privacy and regarding your further rights regarding the collecting, processing and use of your data by Facebook.
+For further information regarding the purpose and scope of data collection, and regarding the further processing and use of your data by Facebook, see Facebook’s own privacy rules. These are available online at [www.facebook.com/policy.php](https://www.facebook.com/policy.php). There you will find, amongst other things, information regarding settings for the protection of your privacy and regarding your further rights regarding the collecting, processing and use of your data by Facebook.
 
 ### Google+ and Twitter
 
@@ -284,7 +292,7 @@ In addition to the purposes described above the information you provided will be
 
 When you use Twitter and the “Re-Tweet” feature the pages you visited will be linked to your Twitter-account and published to other users. This also involves transferring data to Twitter. Please note that we as providers of the pages have no knowledge as to the contents of the submitted data or its use by Twitter.
 
-For further information regarding the purpose and scope of data collection, and regarding the further processing and use of your data by Google+ and Twitter, see the privacy rules of Google+ and Twitter. These are available online at <http://www.google.com/intl/en/policies/privacy> for Google+ and at <https://twitter.com/privacy?lang=en> for Twitter. There you will find, amongst other things, information regarding settings for the protection of your privacy and regarding your further rights regarding the collecting, processing and use of your data by Google+ and Twitter.
+For further information regarding the purpose and scope of data collection, and regarding the further processing and use of your data by Google+ and Twitter, see the privacy rules of Google+ and Twitter. These are available online at [http://www.google.com/intl/en/policies/privacy](https://www.google.com/intl/en/policies/privacy) for Google+ and at <https://twitter.com/privacy?lang=en> for Twitter. There you will find, amongst other things, information regarding settings for the protection of your privacy and regarding your further rights regarding the collecting, processing and use of your data by Google+ and Twitter.
 
 ### Instagram
 
@@ -355,7 +363,7 @@ When you use our services or view content provided by us, we may automatically c
 
 We may combine this automatically collected log information with other information we collect about you. We do this to improve marketing, analytics, and the products and services we offer you. Such information is used in anonymized or pseudonymized form only. Legal basis for such data processing is Article 6 (1) lit. f GDPR. Unless statutory provisions provide otherwise, the data will be deleted if the purpose cease to apply.
 
-**You may at all times object to the use of personal data for the abovementioned purposes by informal notification by written letter to Titelmedia GmbH, Ritterstraße 9, 10969 Berlin, Germany, or by e-mail to[ [email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2c485c436c44454b445f42434e45495855024f4341).**
+**You may at all times object to the use of personal data for the abovementioned purposes by informal notification by written letter to Titelmedia GmbH, Ritterstraße 9, 10969 Berlin, Germany, or by e-mail to[dpo@highsnobiety.com](mailto:dpo@highsnobiety.com).**
 
 ## VIII. Your right to information and other rights of the persons affected
 
@@ -463,7 +471,7 @@ This shall not apply if the decision:
 
 3\. is based on the data subject’s explicit consent.
 
-In all such cases, please refer to us by written letter to Titel Media GmbH, Ritterstraße 9, 10969 Berlin, Germany, or by e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+In all such cases, please refer to us by written letter to Titel Media GmbH, Ritterstraße 9, 10969 Berlin, Germany, or by e-mail to dpo@highsnobiety.com.
 
 ### Right to revocation
 
@@ -473,7 +481,7 @@ You may at all times revoke consent to the processing of personal data. You can 
 
 Without prejudice to any other administrative or judicial remedy, you have the right to lodge a complaint with a supervisory authority, in particular in the Member State of your habitual residence, place of work or place of the alleged infringement if you consider that the processing of personal data by Titel Media relating to you infringes the provisions oft he GDPR.
 
-In all such cases, please refer to us by written letter to Titel Media GmbH, Ritterstraße 9, 10969 Berlin, Germany, or by e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5531253a153d3c323d263b3a373c30212c7b363a38).
+In all such cases, please refer to us by written letter to Titel Media GmbH, Ritterstraße 9, 10969 Berlin, Germany, or by e-mail to [dpo@highsnobiety.com](mailto:dpo@highsnobiety.com).
 
 If you have any questions about data protection, please feel free to contact us at any time using the details given above.
 
