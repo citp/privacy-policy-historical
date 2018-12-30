@@ -1,299 +1,447 @@
-> *The following text is extracted and transformed from the covers.com privacy policy that was archived on 2017-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171031143539id_/https%3A//www.covers.com/covers/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the covers.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230040441id_/https%3A//accounts2.covers.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Covers.com
+# 
 
-## We respect the importance of your privacy.
+This policy describes how we use your personal information. This Privacy Notice was last changed on May 23, 2018.  
+Click [here](https://www.covers.com/covers/about/privacy.aspx) to view archived versions. 
 
-Covers Media Group Ltd. Privacy Policy applies to Personal Information of non-employee Persons who interact with Covers Media Group Ltd. that is collected, used or disclosed Covers Media Group Ltd. 
+## 1\. Who we are
 
-Non-employee Persons in this context includes Individuals who are viewers, readers, subscribers, advertisers, contest participants, forum members, customers, Internet users who are exposed to the media and e-commerce content of Covers Media Group Ltd. 
+Your personal information is collected by Covers Media Group Limited, a company registered in Ireland with registration number 374718 and its affiliates ("we"/"us"/"our"). 
 
-The Covers Media Group Ltd. Privacy Policy applies to the management of Personal Information in any form whether oral, electronic or written. Covers Media Group Ltd. reserves the right to amend this Covers Media Group Ltd. Privacy Policy from time to time. 
+Covers Media Group Limited's contact details are as follows:  
+**Address:** Covers Media Group Limited, Victoria House, Victoria Place, Eyre Square, Galway, Ireland.  
+**Email:** [privacy@coversmedia.com](mailto:privacy@coversmedia.com)  
+**Phone:** You may contact us by phone on [00-44-808-273-4917] 
 
-The application of the Covers Media Group Ltd. Privacy Policy is subject to the requirements or provisions of any applicable legislation, regulations or agreements, or the order of any court or other lawful authority. 
+If you have questions, please contact the Data Protection Officer at:  
+**Email:**[privacy@coversmedia.com](mailto:privacy@coversmedia.com)  
+**Post:** Covers Media Group Limited, Victoria House, Victoria Place, Eyre Square, Galway, Ireland.  
+**Phone:** [00-44-808-273-4917] 
 
-**Exclusions from privacy protection:** The Covers Media Group Ltd. Privacy Policy does not impose any limits on the collection, use or disclosure of the following information by Covers Media Group Ltd.: 
+This Privacy Notice also covers our group of companies. We share information about you with other members of our group of companies so we can provide the best service across our group. They are bound to keep and use your information in accordance with this Privacy Notice:
 
-a) Information which is available publicly, such as a Person's name, address, telephone number and address, when listed in a directory or made available through directory assistance; 
+  * **Nova Scotia Sports Media Pros Ltd** , a Nova Scotia Limited Company (Registration No. 3269499)
+  * **Tribune Media Company** , a corporation organized under the laws of the State of Delaware.
 
-b) Information collected, used or disclosed in the course of journalistic, literary or artistic activities; or 
 
-c) Aggregate information that cannot be associated with a specific person, such as demographic statistics about Covers Media Group Ltd. customers, or number of visitors and average time spent on a website. 
 
-**Purposes for Collection of Personal Information:**
+## 2\. Data collection and usage
 
-Covers Media Group Ltd. has collected and collects Personal Information for the following purposes: 
+We will collect store and use your personal information to allow access to our website www.covers.com ("Website"), our Steamwire App, and to allow you to register with us, subscribe to our services, buy and use our products and services, and for the purposes set out in more detail in this section.
 
-a) To establish and maintain responsible commercial relations with Individuals and to provide ongoing service; 
+Your information may be shared with members of our group of companies and some third parties as is set out in more detail below.
 
-b) To understand Individual needs; 
+| What information we collect | How we use your data | Why we use your information  
+---|---|---|---  
+**1** | 
 
-c) To enhance, develop, market or provide products and services; and 
+Information that we collect through **your use of our website** including:
 
-d) To meet legal or regulatory requirements, including to protect or defend a legal interest, and in connection with an actual or possible Covers Media Group Ltd. corporate re-organization, merger or amalgamation with another entity, or an actual or possible sale of all or a substantial portion of the assets of Covers Media Group Ltd., provided that the Personal Information disclosed continues to be used by the entity acquiring the information either for evaluation of the possible transaction, or, on completion of any such transaction, for the purposes permitted by this Privacy Policy. 
+  * Device information such as operating system, unique device identifiers, the mobile network system;
+  * Hardware and browser settings;
+  * Date and time of requests;
+  * The requests you make;
+  * The pages you visit and search engine terms you use; 
+  * Location information; and
+  * IP address.
 
-As examples of the above: 
+| 
 
-i) Covers Media Group Ltd. may from time to time use a Person's Personal Information to contact the Person about changes, enhancements or similar notices related to Covers Media Group Ltd. products and services; 
+We use this information, including to:
 
-ii) If a Person indicated that they was interested in receiving offers or information from Covers Media Group Ltd. or certain of our selected sponsors or advertisers, Covers Media Group Ltd. may send the Person materials about products and services that Covers Media Group Ltd. feels may be of interest to the Person; and 
+  * Provide and adapt our services to take account of the technical capabilities of our users;
+  * Develop new services based on the information being collected, the behaviours of our users and the technical capabilities of our users;
+  * Improve our services to better suit the behaviours and technical capabilities of the users of our service;
+  * Identify issues with the website and our users' experience of it;
+  * Monitor the way our website is used (including locations it is accessed from, devices it is accessed from, understanding peak usage times and analysing what functionality and information is most and least accessed);and
+  * We use third party tools, including programmatic advertising, and retargeting, to make the advertising we show you on our Website and / or our partner websites more relevant and interesting to you. For this purpose, we use cookies, web beacons or similar technologies cross-device to collect information about your browsing behaviour (see our Cookies Policy for more detailed information) and deliver interest-based ads to you. We also ensure that mechanisms are made available to end-users to opt out of such data collection in both browsers and mobile applications.
 
-iii) If a Person enters a contest or other promotion offered on a Covers Media Group Ltd. website, Covers Media Group Ltd. may, under the rules of the promotion, use the Person's name and certain other information to administer the promotion, such as contacting, announcing and promoting the winners of the promotion. 
+| 
 
-**Obtaining Consent:**
+We have a **legitimate interest** in managing our business including:
 
-Covers Media Group Ltd. will make a reasonable effort to make sure Persons understand how their Personal Information will be used by Covers Media Group Ltd.. Covers Media Group Ltd. will obtain consent from Persons before or when it collects or uses the Personal Information. Covers Media Group Ltd. will not attempt to deceive Persons into giving consent. 
+  * understanding how our customers use our products, services and websites;
+  * researching and analysing the services our customers want;
+  * improving our services;
+  * providing security over our business and who we trade with; 
+  * ensuring network and information security; and
+  * fraud prevention and detection. 
+  * assessing the number of visitors and page views in order to optimise future marketing campaigns1; and
+  * providing advertising space on our Website to third party advertisers and providing information to third parties to ensure that to provide relevant adverts to you.
 
-A Person's consent can be express, implied, or given through an authorized representative. A Person can withdraw consent at any time, with certain exceptions noted herein. Covers Media Group Ltd., however, may collect, use or disclose Personal Information without the Person's knowledge or consent in exceptional circumstances where such collection, use or disclosure is permitted or as required by law. 
+  
+| What information we collect | How we use your data | Why we use your information  
+**2** | 
 
-**Note:** If any Person has any questions or concerns about Covers Media Group Ltd's privacy practices, the Person can either: 
+**Information provided when you subscribe to our services and as part of your account with us** including:
 
-i) Write to Customer Service - Privacy, Covers Media Group Ltd., Victoria House, Victoria Place, Eyre Square, Galway, Ireland 
+  * Your username;
+  * Your password;
+  * Your account settings;
+  * Your account preferences;
+  * Your email address; 
+  * Your age;
+  * Your gender;
+  * Your occupation; 
+  * When you use our forums, if you use Social Media Single Sign-on, your Facebook name or Twitter handle, date of birth and language preferences 
+  * Any personal data which you post on our forums (N.B. in terms of our forum rules it is forbidden to post personal data on our forums).
 
-ii) Provide information to Covers Media Group Ltd. through the form provided on our [ feedback page ](https://web.archive.org/includes/Email_us.aspx?uid=1). 
+| 
 
-**Refusing or withdrawing Consent:**
+We use this information, including to:
 
-Subject to legal and contractual requirements, a Person can refuse to consent to Covers Media Group Ltd's collection, use or disclosure of Personal Information about the Person, or a Person may withdraw the Person's consent to Covers Media Group Ltd's further collection, use or disclosure of Personal Information at any time in the future by giving Covers Media Group Ltd. reasonable notice, unless: 
+  * Provide our products and services;
+  * Manage and administer our systems;
+  * To communicate with you regarding your account and our services;
+  * To market our goods and services to you, including via newsletters and emails relating to e-commerce sales, non e-commerce promotions and product launches; 
+  * To identify instances of account impersonation; 
+  * Where you have provided consent, to provide your personal data to third parties so that they make market their goods or services to you, and/or to market third parties' goods or services to you.
 
-i) The consent relates to certain information required for credit approval which a Person applies for or accepts,   
+| 
 
+We use this information because this is **necessary to enter into or perform our contract with you**. For example, we use your account details to supply our services to you, to communicate with you, and to enable you to log in to your account and use our services.
 
-ii) The consent is otherwise required by law or iii) the use or disclosure is permitted by law or is related to the legal or regulatory requirements described herein. If a Person refuses or withdraws the Person's consent, Covers Media Group Ltd. may not be able to provide the Person or continue to provide the Person with some products, services or information which may be of value to the Person. 
+We use this information because this is **necessary as in the public interest** e,g. to prevent, investigate and/or report fraud.
 
-**Internet Aspects:**
+In addition, we have a **legitimate interest** in:
 
-Personal Information may be collected when a user conducts activities on or related to all websites of Covers Media Group Ltd. (see "Covers Media Group Ltd. Companies Sites") or related to services made available on the Covers Media Group Ltd. Companies Sites. Although information collected, used or disclosed on the Internet as described below often does not constitute Personal Information (and to the extent that such is the case, then the obligations under the Covers Media Group Ltd. Privacy Policy do not extend to such information), Covers Media Group Ltd. provides the details below about Internet aspects of Covers Media Group Ltd. services for the purposes of disclosure. 
+  * using your information to market our goods and services to you; and
+  * maintaining suppression records to ensure we have a record of your objection to direct marketing (if given).
 
-**Internet Protocol Address (IP Address)**   
-When the user's web browser requests a web page from another computer on the Internet, it automatically gives that computer the address where it should send the information. This address is called the computer's "IP address." For most users accessing the Internet from a dial-up Internet service provider (ISP), the IP address will be different every time the user logs on.   
-Covers Media Group Ltd. may use the user's IP Address to: 
 
-a) Facilitate the diagnosis and remedy of a technical problem reported by the user's or Covers Media Group Ltd's technical team. 
 
-b) Display (or allow the display by Third Party advertising providers of) more appropriate and relevant content and advertising, such as content and advertising based on the user's geographic area. 
+In addition, we use this information where we have collected your consent – for example, in order to send you direct marketing messages from or relating to third parties. You can withdraw your consent at any time (in your account preferences or settings) or by contacting the Data Protection Officer. 
 
-c) Estimate user traffic from specific countries or organizations. Many IP addresses are commonly associated with Internet service providers, universities, or major corporations in specific regions or localities. Aggregate information derived from IP addresses may also be reported to advertisers. 
+Our third party marketing partners use this information where we have **collected your consent** to do so.  
+  
+| What information we collect | How we use your data | Why we use your information  
+**3** | 
 
-**Cookies**   
-A cookie is a small text file, which often includes an anonymous unique identifier, that is sent to the user's web browser from a web site's computers and is stored on the user's computer's hard drive. Cookies cannot be used to run programs or deliver viruses to a user's computer.   
-Covers Media Group Ltd. may use cookies to: 
+Information that you give us to **make a purchase** , whether online or over the phone including:
 
-a) Improve the operation and performance of the Covers Media Group Ltd. services and to make Covers Media Group Ltd. services easier and more convenient to use. For example, cookies help Covers Media Group Ltd. provide more personalized services by recalling user preferences on subsequent visits (e.g. language preference). Cookies also allow Covers Media Group Ltd. to save passwords and preferences for a user so that the user will not have to re-enter them on the next visit to a Covers Media Group Ltd. website; 
+  * Your contact details including: your name, address, email address and telephone number;
+  * Your credit card details;
+  * The product / service purchased.
 
-b) Measure aggregate user traffic and demographic statistics related to Covers Media Group Ltd. websites and advertisements (e.g. number of users, average time spent, average age and similar statistics). This information helps Covers Media Group Ltd. to better understand when to update, change or offer new services and provides Covers Media Group Ltd. with details as to the performance of Third Party advertisements and content. This information may be reported, in aggregate form only, to Covers Media Group Ltd's current and prospective sponsors, advertisers and business partners. No Personal Information will be disclosed in such reports; 
+| 
 
-c) Display advertisements. Covers Media Group Ltd. and Third Party advertising providers may use cookies when serving advertisements on Covers Media Group Ltd. websites. In some cases, advertisements from Third Party advertisers are delivered to users (in conjunction with Covers Media Group Ltd. services) by such Third Party advertisers, or by separately contracted advertising providers on their behalf, and not by Covers Media Group Ltd.; as such, the Third-party advertisers' use of cookies is subject to their own privacy policies, not the Covers Media Group Ltd. Privacy Policy, and users should consult the privacy policies of such Third Party advertisers. 
+We use this information, including to:
 
-Most browsers are initially set up to accept cookies. If a user prefers, the user can reset his/her browser either to notify the user when the user has received a cookie, or to refuse to accept cookies. The user should understand that while Covers Media Group Ltd. do not require a user to use cookies, certain Covers Media Group Ltd. services will not function properly if a user sets his/her browser to not accept cookies. 
+  * Process your order;
+  * Take payment from or give you a refund;
+  * On-board you as a subscriber;
+  * Provide our products and services;
+  * Manage and administer our services;
+  * Help us ensure that our customers are genuine and to prevent fraud;
+  * Send personalised offers or shopping ideas which are based on your shopping habits; 
 
-**Links To Other Sites And Advertisements**   
-A Covers Media Group Ltd. website may contain links to other websites and services. While Covers Media Group Ltd. try to link only to sites and services that share Covers Media Group Ltd's high standards and respect for privacy, a user should understand that Covers Media Group Ltd. is not responsible for the content of, or the privacy practices employed by, other companies or websites. This Covers Media Group Ltd. Privacy Policy applies only to the Covers Media Group Ltd. services related to this Covers Media Group Ltd. Privacy Policy. 
+| 
 
-The majority of the advertisements which are displayed in connection with Covers Media Group Ltd. services are served through one or more reputable Third Party advertisement-serving companies which deliver the advertisements to users in conjunction with Covers Media Group Ltd. services. For more information about what information is collected and how information is used by a major Third Party advertising provider click here. 
+We use this information because this is
 
-**Additional Information**   
-Covers Media Group Ltd. Companies automatically collect certain information about the user's computer hardware and software. This information may include: browser type, operating system type, domain names, access times and referring Web site addresses. This information is used by Covers Media Group Ltd. to operate the service, to maintain the quality of the service, and to provide general statistics regarding use of the Covers Media Group Ltd. Companies Sites. 
+  * necessary to enter into or perform our contract with you;
+  * **necessary as in the public interest** – for example, undertaking anti-fraud screening and verifying our customer identities.
 
-Certain Covers Media Group Ltd. services may be co-branded and offered in conjunction with another company. If a user registers for or uses such services, both Covers Media Group Ltd. and the other company may receive information collected in conjunction with the co-branded services. 
 
-**Covers Media Group Ltd. Companies Sites**   
-Covers.com   
-Experts.covers.com 
 
-**The Covers Media Group Ltd. Privacy Policy in Detail**
+We have a legitimate interest in ensuring that debts are paid.  
+  
+| What information we collect | How we use your data | Why we use your information  
+**4** | 
 
-**Definitions**
+Information about the **way you use our services** including:
 
-**Collection** \- the act of gathering, acquiring, recording or obtaining Personal Information from any source, including third parties, by any means. 
+  * The things that we've provided or you've purchased;
+  * When and where you've made the purchases;
+  * What you paid and how;
+  * Whether you've opened electronic communications from us;
+  * Whether you've clicked on links in electronic communications from us;
+  * Your marketing preferences.
 
-**Consent** \- voluntary agreement with the collection, use and disclosure of Personal Information for defined purposes. Consent can be either express or implied and can be provided directly by the Person or by an authorized representative. Express consent can be given orally, electronically or in writing but is always unequivocal and does not require any inference on the part of Covers Media Group Ltd.. Implied consent is consent that can reasonably be inferred from a Person's action or inaction. 
+| 
 
-**Disclosure** \- making Personal Information available to a Third Party. 
+We use this information, including to:
 
-**Individual** \- an individual other than an Employee who   
-(a) Corresponds with Covers Media Group Ltd., including complaints and including applications for employment;   
-(b) Enters an contest or forum sponsored by Covers Media Group Ltd.; or   
-(c) Uses, or applies to use, the products or services of Covers Media Group Ltd.. 
+  * Develop new services based on what we learn from your activity and the activity of other customers;
+  * Improve our services and efficiency of service delivery to help us meet your needs and expectations;
+  * Identify products and marketing that may be of interest to you;
+  * Personalise our service to you: to provide you with, make available, and show you more of the things which interest you, based on your activity and feedback; and
+  * Do statistical analysis and research with the purpose of allowing us to better understand the breakdown of our customers, the products / services being bought, the demographics of those buying our products and services, what attracts our customers to our products and services, where our customers have come from online (such as from links on other websites or advertising banners), and the way in which our website is used by different users groups. 
 
-**Person** \- an Individual. 
+| 
 
-**Personal Information** \- information about an identifiable Person, but not:   
-a) Information that is publicly available, such as a Person's name, address, telephone number and address, when listed in a directory or made available through directory assistance;   
-b) Business-contact information, such as the name, title or business address or telephone number of an employee of an organization;   
-c) Information collected, used or disclosed in the course of journalistic, literary or artistic activities; or   
-d) Aggregate information that cannot be associated with a specific person, such as demographic statistics about Covers Media Group Ltd. customers, or number of visitors and average time spent on a website. 
+We have a **legitimate interest** in managing our business including:
 
-**Third Party** \- a person other than the Person or his agent, or an organization other than a Covers Media Group Ltd.. 
+  * understanding how our customers use our products, services and websites;
+  * researching and analysing the services our customers want;
+  * improving our services;
+  * understanding the type of products and services our customers buy and how they use them; and
+  * assessing the number of visitors, page views etc in order to optimise future marketing campaigns.
 
-**Use** \- the treatment, handling, and management of Personal Information by the Covers Media Group Ltd.. 
+  
+| What information we collect | How we use your data | Why we use your information  
+**5** | 
 
-**Principle 1 - Accountability**   
+Information when **you communicate with us** whether in person, through our website or via email, over the phone, through social media or via any other medium, including: 
 
+  * Your contact details (this may include your social media account if that's the way you communicate with us);
+  * The details of your communications with us (including when you sent it, when we received it and where you sent it from (such as our website, via email, through social media));
+  * The details of our messages to you.
 
-Covers Media Group Ltd. is responsible for Personal Information under its control and shall designate one or more persons who are accountable for Covers Media Group Ltd's compliance with the following principles. 
+| 
 
-1.1 Responsibility for ensuring compliance with the provisions of the Covers Media Group Ltd. Privacy Policy rests with the senior management of Covers Media Group Ltd., which shall designate one or more persons to be accountable for compliance with the Covers Media Group Ltd. Privacy Policy. Other people within Covers Media Group Ltd. may be delegated to act on behalf of the designated person(s) or to take responsibility for the day-to-day collection and processing of Personal Information. 
+We use this information, including to:
 
-1.2 Covers Media Group Ltd. has designated a Chief Privacy Officer to oversee compliance with the Covers Media Group Ltd. Privacy Policy. The Chief Privacy Officer can be contacted at Chief Privacy Officer, 26 Monivea Park, Ballybane, Galway City, Ireland. 
+  * Answer any issues or concerns;
+  * Moderate our forums;
+  * Monitor customer communications for quality and training purposes.
+  * Develop new services which is based on the information your provide;
+  * Improve our services based on the information and feedback you provide and the information and feedback provided by others; 
+  * Personalise our service to you to take account of the information and feedback you have provided;
+  * Verify your identity when you contact us by telephone.
 
-1.3 Covers Media Group Ltd. is responsible for Personal Information in its possession or control, including information that has been transferred to a Third Party for processing. Covers Media Group Ltd. shall use appropriate means to provide a comparable level of protection while information is being processed by a Third Party (see Principle 7). 
+| 
 
-1.4 Covers Media Group Ltd. has implemented policies and procedures to give effect to the Covers Media Group Ltd. Privacy Policy, including:   
-a) Implementing procedures to protect Personal Information and to oversee Covers Media Group Ltd's compliance with the Covers Media Group Ltd. Privacy Policy;   
-b) Establishing procedures to receive and respond to inquiries or complaints;   
-c) Training and communicating to staff about Covers Media Group Ltd's policies and practices; and   
-d) Developing public information to explain Covers Media Group Ltd's policies and practices. 
+We use this information because this is **necessary to enter into or perform our contract with you** ; 
 
-**Principle 2 - Identifying Purposes for Collection of Personal Information**   
+We have a **legitimate interest** in managing our business including: 
 
+  * understanding and responding to customer feedback;
+  * improving our services;
+  * personalising our offers so we're better able to provide offers and ideas that are relevant to you.
 
-Covers Media Group Ltd. has collected and collects Personal Information for the purposes set out below, and shall identify the purposes for which Personal Information is collected at or before the time the information is collected. 
 
-2.1 Covers Media Group Ltd. has collected and collects Personal Information for the following purposes:   
-a) To establish and maintain responsible commercial relations with Individuals and to provide ongoing service;   
-b) To understand Individual needs;   
-c) To develop, enhance, market or provide products and services;   
-d) To meet legal or regulatory requirements, including to protect or defend a legal interest, and in connection with an actual or possible Covers Media Group Ltd. corporate re-organization, merger or amalgamation with another entity, or an actual or possible sale of all or a substantial portion of the assets of Covers Media Group Ltd., provided that the Personal Information disclosed continues to be used by the entity acquiring the information either for evaluation of the possible transaction, or, on completion of any such transaction, for the purposes permitted by this Privacy Policy. 
 
-As examples of the above: 
+We use this information because it is **necessary in the public interest** , for example, undertaking anti-fraud screening and verifying our customer's identities.  
+  
+| What information we collect | How we use your data | Why we use your information  
+**6** | 
 
-i) Covers Media Group Ltd. may from time to time use a Person's Personal Information to contact the Person about changes, enhancements or similar notices related to Covers Media Group Ltd. products and services; 
+Information **that we collect from third party partners** which includes: 
 
-ii) If a Person indicated that he/she was interested in receiving offers or information from Covers Media Group Ltd. or certain of our selected sponsors or advertisers, Covers Media Group Ltd. may send the Person materials about products and services that Covers Media Group Ltd. feels may be of interest to the Person; and 
+  * Credit reference agencies;
+  * Payment processing companies;
+  * Your bank;
+  * Other entities in our group;
 
-iii) If a Person enters a contest or other promotion offered on a Covers Media Group Ltd. website, Covers Media Group Ltd. may, under the rules of the promotion, use the Person's name and certain other information to administer the promotion, such as contacting, announcing and promoting the winners of the promotion. 
+| 
 
-Further references to "identified purposes" mean the purposes identified in this Principle 2. 
+We use this information, including to: 
 
-2.2 Covers Media Group Ltd. shall specify orally, electronically or in writing the identified purposes to the Person at or before the time Personal Information is collected. Upon request, persons collecting Personal Information shall explain these identified purposes or refer the Person to a designated person within Covers Media Group Ltd. who shall explain the purposes. 
+  * Provide our services;
+  * Manage and administer our systems;
+  * Take payment from or give you a refund;
+  * Help us ensure that our customers are genuine and to prevent fraud;
+  * Verify our customers' credit histories;
+  * Personalise our service to you by complementing your behaviours and preferences;
+  * Statistical analysis and research into our customer so that we can better understand our customers and allow us to develop and improve our services to meet the needs and preferences of our customers; and
+  * Combine this information with other types of information mentioned above to create holistic profile of our customers which allows us to make our services more personal and tailored to each customer's preferences and habits.
 
-2.3 Unless required by law, Covers Media Group Ltd. shall not use or disclose, for any new purpose, Personal Information that has been collected without first identifying the new purpose and obtaining the consent of the Person. 
+| 
 
-**Principle 3 - Obtaining Consent for Collection, Use or Disclosure of Personal Information**   
+We have a legitimate interest in ensuring that we are in a financially stable situation related to busniess relationships with; 
 
+  * Advertising vendors that require financial verification
+  * Consumers that we are collecting and verifying funds from
 
-The knowledge and consent of a Person are required for the collection, use or disclosure of Personal Information, except where inappropriate. 
+  
+| What information we collect | How we use your data | Why we use your information  
+**7** | 
 
-3.1 Generally, Covers Media Group Ltd. shall seek consent to use and disclose Personal Information at the same time it collects the information. However, Covers Media Group Ltd. may seek consent to use and disclose Personal Information after it has been collected but before it is used or disclosed for a new purpose. 
+Information that we collect from **individuals representing organisations** , including: 
 
-3.2 In obtaining consent, Covers Media Group Ltd. shall use reasonable efforts to ensure that a Person is advised of the identified purposes for which Personal Information will be used or disclosed. Purposes shall be stated in a manner that can be reasonably understood by the Person. 
+  * Contact details of individuals working for organisations;
+  * Other personal information regarding such individuals.
 
-3.3 Covers Media Group Ltd. will require Individuals to consent to the collection, use or disclosure of Personal Information as a condition of the supply of a product or service only if such collection, use or disclosure is required to fulfill the identified purposes. 
+| 
 
-3.4 In determining the appropriate form of consent, Covers Media Group Ltd. shall take into account the sensitivity of the Personal Information and the reasonable expectations of the Persons. 
+We use this information, including to: 
 
-3.5 In general, the use of products and services by an Individual constitutes implied consent for Covers Media Group Ltd. to collect, use and disclose Personal Information for all identified purposes. 
+  * Build relationships with other organisations;
+  * Provide marketing communications to these individuals; 
+  * Improve our services and develop new services based on the preferences and behaviours of these individuals. 
 
-3.6 An Individual may withdraw consent at any time, subject to legal or contractual restrictions and reasonable notice. Individuals may contact Covers Media Group Ltd. for more information regarding the implications of withdrawing consent. 
+| 
 
-3.7 In certain circumstances Personal Information can be collected, used or disclosed without the knowledge and consent of the Person. For example, Covers Media Group Ltd. may collect or use Personal Information without knowledge or consent if it is clearly in the interests of the Person and consent cannot be obtained in a timely way, such as when the Person is a minor, seriously ill or mentally incapacitated. 
+We have a legitimate business interest in managing our business including: 
 
-Covers Media Group Ltd. may also collect, use or disclose Personal Information without knowledge or consent if seeking the consent of the Person might defeat the purpose of collecting the information such as in the investigation of a breach of an agreement or a contravention of a federal or provincial law. 
+  * developing and maintaining relationships with vendors, partners and other companies;
+  * dealing with individuals who work for them; 
+  * direct marketing to business contacts;
+  * ensuring that debts are paid; and
+  * providing security over our business and who we trade with.
 
-Covers Media Group Ltd. may also use or disclose Personal Information without knowledge or consent in the case of an emergency where the life, health or security of an individual or property is threatened. 
+  
+| What information we collect | How we use your data | Why we use your information  
+**8** | 
 
-Covers Media Group Ltd. may disclose Personal Information without knowledge or consent to collect a debt, to comply with a subpoena, warrant or other court order, or as may be otherwise related to the legal or regulatory requirements described herein. 
+Information that you provide to us **when you enter and/or win any of our contests** , including: 
 
-**Principle 4 - Limiting Collection of Personal Information**   
+  * A signed affidavit including your name, age, address, telephone number, winner's signature and witness signature; 
+  * A copy of the winner's passport or driving licence; and
+  * Your photograph or other information.
 
+| 
 
-Covers Media Group Ltd. shall limit the collection of Personal Information to that which is necessary for the purposes identified by Covers Media Group Ltd.. 
+We use this information, including to: 
 
-Covers Media Group Ltd. shall collect Personal Information by fair and lawful means. 
+  * Verify the winner's identity and age;
+  * Verify that the winner has adhered to all contest rules; and 
+  * To publicise the outcome of our contests. 
 
-4.1 Covers Media Group Ltd. collects Personal Information primarily from Individuals. 
+| 
 
-4.2 Covers Media Group Ltd. may also collect Personal Information from other sources including credit bureaus, employers or personal references, or other third parties that represent that they have the right to disclose the information. 
+We use this information because this is **necessary to enter into or perform our contract with you;**
 
-**Principle 5 - Limiting Use, Disclosure and Retention of Personal Information**   
+We have a **legitimate business interest** in managing our busniess including:
 
+  * Ensuring compliance with contest rules;
+  * Publicising the outcome of contests.
 
-Covers Media Group Ltd. shall not use or disclose Personal Information for purposes other than those for which it was collected, except with the consent of the Person or as required by law. Covers Media Group Ltd. shall retain Personal Information only as long as necessary for the fulfillment of the purposes for which it was collected. 
 
-5.1 In certain circumstances Personal Information can be collected, used or disclosed without the knowledge and consent of the Person. (See Principle 3.7) 
 
-5.2 In addition, Covers Media Group Ltd. may disclose a Person's Personal Information to:   
-a) Another person for the development, enhancement, marketing or provision of any of the products or services of Covers Media Group Ltd.;   
-b) A person who, in the reasonable judgment of the Covers Media Group Ltd., is seeking the information as an agent of the Person;   
-c) Any Covers Media Group Ltd. to permit the provision of services requested by the Person, and   
-d) A Third Party or Third Parties, where the Person consents to such disclosure or disclosure is required by law. 
+We use this information because this is **necessary in the public interest** , for example, undertaking anti-fraud screening and verifying our customer's identities.  
+  
+| What information we collect | How we use your data | Why we use your information  
+**9** | 
 
-5.4 Only those Employees of Covers Media Group Ltd. who require access for business reasons, or whose duties reasonably so require, or properly designated representatives of Covers Media Group Ltd., are granted access to Personal Information about Individuals. 
+**Photograph and video images of you** which are taken when you attend any of our events in person, including:
 
-5.5 Covers Media Group Ltd. shall keep Personal Information only as long as it remains necessary or relevant for the identified purposes or as required by law. Depending on the circumstances, where Personal Information has been used to make a decision about a Person, Covers Media Group Ltd. shall retain, for a period of time that is reasonably sufficient to allow for access by the Person, either the actual information or the rationale for making the decision. 
+  * Photographic images; 
+  * Video recordings;
+  * Stills taken from video recordings;
 
-5.6 Covers Media Group Ltd. shall maintain reasonable and systematic controls, schedules and practices for information and records retention and destruction which apply to Personal Information that is no longer necessary or relevant for the identified purposes or required by law to be retained. Such information shall be destroyed, erased or made anonymous. 
+| 
 
-**Principle 6 - Accuracy of Personal Information**   
+We use this information, including to: 
 
+  * Report on past events; and
+  * Publicise future events.
 
-Personal Information shall be as accurate, complete and up-to-date as is necessary for the purposes for which it is to be used. 
+| 
 
-6.1 Personal Information used by Covers Media Group Ltd. shall be sufficiently accurate, complete and up-to-date to minimize the possibility that inappropriate information may be used to make a decision about a Person. 
+We use your information where we have a legitimate business interest in making available images and footage of our events which include incidental use of images and footage of those who attend such events.   
+  
+We also collect, use and share **Aggregated Data** such as statistical or demographic data for any purpose. **Aggregated Data** may be derived from your personal data but is not considered personal data in law as this data does **not** directly or indirectly reveal your identity. For example, we may aggregate information about how you use our website, products and services to calculate the percentage of users accessing a specific website feature. However, if we combine or connect Aggregated Data with your personal data so that it can directly or indirectly identify you, we treat the combined data as personal data which will be used in accordance with this privacy notice. 
 
-6.2 Covers Media Group Ltd. shall update Personal Information about Persons as and when necessary to fulfill the identified purposes or upon notification by the Person. 
+## 3\. Legal requirements
 
-**Principle 7 - Security Safeguards**
+We (or our merchants on our behalf) need to collect certain types of information for compliance with legal requirements relating to our anti-fraud and know your customer obligations. If this information is not provided we cannot agree to provide a product or service for you. 
 
-Covers Media Group Ltd. shall protect Personal Information by security safeguards appropriate to the sensitivity of the information. 
+Your personal information may also be processed if it is necessary on reasonable request by a law enforcement or regulatory authority, body or agency or in the defence of a legal claims. We will not delete personal information if relevant to an investigation or a dispute. It will continue to be stored until those issues are fully resolved. 
 
-7.1 Covers Media Group Ltd. shall protect Personal Information against such risks as loss or theft, unauthorized access, disclosure, copying, use, modification or destruction, through appropriate security measures. Covers Media Group Ltd. shall protect the information regardless of the format in which it is held. 
+## 4\. How long do we keep your information
 
-7.2 Covers Media Group Ltd. shall protect Personal Information disclosed to third parties by contractual agreements stipulating the confidentiality of the information and the purposes for which it is to be used. 
+We will keep your information for as long as it is reasonably necessary. It will depend on factors such as whether you've any outstanding purchases or an account with us or have interacted with recent offers. We will also retain your information as necessary to comply with legal, accounting or reporting requirements. 
 
-7.3 All employees of Covers Media Group Ltd. with access to Personal Information shall be required as a condition of employment to respect the confidentiality of Personal Information. 
+We will also routinely refresh our information to ensure we keep it up-to-date.
 
-**Principle 8 - Openness Concerning Policies and Practices**
+It is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes during your relationship with us. 
 
-Covers Media Group Ltd. shall make readily available to Persons specific information about its policies and practices relating to the management of Personal Information. 
+## 5\. Information we share
 
-8.1 Covers Media Group Ltd. shall make information about its policies and practices easy to understand, including:   
-a) The title and address of the person or persons accountable for the compliance with the Covers Media Group Ltd. Privacy Policy and to whom inquiries or complaints can be forwarded;   
-b) The means of gaining access to Personal Information held by Covers Media Group Ltd.; and   
-c) A description of the type of Personal Information held by Covers Media Group Ltd., including a general account of its use. 
+There are certain circumstances where we transfer your personal data to employees, contractors and to other parties. 
 
-8.2 Covers Media Group Ltd. shall make available information to help Persons exercise choices regarding the use of their Personal Information. 
+  * As noted above, we share information about you with other members of our group of companies.
+  * we also share your information with certain suppliers, contractors or service providers. They may process your personal data for us. Our service providers include credit card merchants, CRM platforms, customer service software providers, surveys, e-commerce fulfilment suppliers, and cloud data storage suppliers. Other service providers include programmatic advert integrators, IT suppliers, database providers and backup and disaster recovery specialists. 
+  * Our suppliers and service providers will be required to meet our standards on processing information and security. The information we provide them, including your information, will only be provided in connection with the performance of their function. They will not be permitted to use your information for any purposes other than those outlined in this Privacy Notice.
+  * We also share your information with certain third parties. We will do this either when we receive your consent or because we need them to see your information to provide products or services to you. These include credit reference agencies, anti-fraud databases, screening agencies and other partners we do business with.
 
-**Principle 9 - Access to Personal Information**
 
-Covers Media Group Ltd. shall inform a Person of the existence, use and disclosure of his or her Personal Information upon request and shall give the Person access to that information. 
 
-A Person shall be able to challenge the accuracy and completeness of the Personal Information and have it amended as appropriate. 
+Your personal information may be transferred to other third party organisations in certain scenarios: 
 
-9.1 Upon request, Covers Media Group Ltd. shall afford to a Person a reasonable opportunity to review the Personal Information in the Person's file. Personal Information shall be provided in understandable form within a reasonable time and at minimal or no cost to the Person. 
+  * If we discuss selling or transferring part or all of our business – the information may be transferred to prospective purchasers under suitable terms as to confidentiality;
+  * If we are reorganised or sold, information may be transferred to a buyer who can continue to provide services to you;
+  * If we're required to by law, or under any regulatory code or practice we follow, or if we are asked by any public or regulatory authority – for example the Police;
+  * If we are defending a legal claim your information may be transferred as required in connection with defending such claim.
 
-9.2 In certain situations, Covers Media Group Ltd. may not be able to provide access to all of the Personal Information that they hold about a Person. For example, Covers Media Group Ltd. may not provide access to information if doing so would likely reveal Personal Information about a Third Party or could reasonably be expected to threaten the life or security of another person. Also, Covers Media Group Ltd. may not provide access to information if disclosure would reveal confidential commercial information, if the information is protected by solicitor-client privilege, if the information was generated in the course of a formal dispute resolution process, or if the information was collected in relation to the investigation of a breach of an agreement or a contravention of a federal or provincial law, or if the information was collected as part of journalistic, literary or artistic activities. If access to Personal Information cannot be provided, Covers Media Group Ltd. shall provide the reasons for denying access upon request. 
 
-9.3 Upon request, Covers Media Group Ltd. shall provide an account of the use and disclosure of Personal Information and, where reasonably possible, shall state the source of the information. In providing an account of disclosure, Covers Media Group Ltd. shall provide a list of organizations to which it may have disclosed Personal Information about the individual when it is not possible to provide an actual list. 
 
-9.4 In order to safeguard Personal Information, an individual or employee may be required to provide sufficient identification information to permit Covers Media Group Ltd. to account for the existence, use and disclosure of Personal Information and to authorize access to the individual's file. Any such information shall be used only for this purpose. 
+Your personal data may be shared if it is made anonymous and aggregated, as in such circumstances the information will cease to be personal data. 
 
-9.5 Covers Media Group Ltd. shall promptly correct or complete any Personal Information found to be inaccurate or incomplete. Any unresolved differences as to accuracy or completeness shall be noted in the Person's file. Where appropriate, Covers Media Group Ltd. shall transmit to third parties having access to the Personal Information in question any amended information or the existence of any unresolved differences. 
+## 6\. Where your information will be held
 
-9.6 A Person can obtain information or seek access to his or her Personal Information by contacting a designated representative at Covers Media Group Ltd. principal office. 
+Your information is transferred outside the European Economic Area.
 
-9.7 An employee can obtain information or seek access to his or her Personal Information by contacting his or her immediate supervisor within Covers Media Group Ltd.. 
+We store our information on cloud servers located in the United States. Our cloud services provider is part of the Privacy Shield, which requires them to provide similar protection to personal data shared between Europe and the US. For further details see European Commission: EU-US Privacy Shield <https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/eu-us-privacy-shield_en>
 
-9.8 Third parties may collect information via email/messages from Covers.com to use according to their own privacy policies. One such third party company is LiveRamp. To opt out of LiveRamp for the Covers website please click [here](http://www.aboutads.info/choices). To opt out of LiveRamp for the Covers App please click [here](http://www.aboutads.info/appchoices). 
+Your data is processed by one of our group companies, Nova Scotia Sports Media Pros Limited ("NSSMP"), which carries out customer and operational services, marketing services and sales services for us. NSSMP is located in Canada. In addition, your data is processed by third party vendors who are located in Canada, for the purposes of contest prize fulfilment and e-commerce fulfilment. There is an adequacy decision by the European Commission in respect of Canada. This means that Canada is deemed to provide an adequate level of protection for your personal information. 
 
-**Principle 10 - Challenging Compliance**
+Where we use third party vendors based in the US, we may transfer data to them if they are part of the Privacy Shield, which requires them to provide similar protection to personal data shared between Europe and the US. For further details see European Commission: EU-US Privacy Shield <https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/eu-us-privacy-shield_en>
 
-A Person shall be able to address a challenge concerning compliance with the above principles to the designated person or persons accountable for the compliance of Covers Media Group Ltd. with the   
-Covers Media Group Ltd. Privacy Policy. 
+Where we use third party vendors based in the US, but not part of the Privacy Shield, to ensure your personal information is properly protected in line with EU and UK data protection law, we will ensure that the transfer of this information is governed by a contract including Standard Contractual Clauses (SCCs) approved by the European Commission in accordance with Article 46(2)(c) of the General Data Protection Regulation 
 
-10.1 Covers Media Group Ltd. shall maintain procedures for addressing and responding to all inquiries or complaints from Persons about Covers Media Group Ltd's handling of their Personal Information. If any Person at any time has any questions or concerns about Covers Media Group Ltd's privacy practices, please contact us at:
+We will only transfer data to jurisdictions outside the scope of the European General Data Protection Regulation (GDPR) where the appropriate safeguards set out in the GDPR are in place.
 
-**Covers Media Group Ltd.  
-Victoria House, Victoria Place   
-Eyre Square, Galway, Ireland  
-Ireland**
+If you would like to obtain copies of the relevant contractual clauses, please contact our Data Protection Officer at [privacy@coversmedia.com](mailto:privacy@coversmedia.com)
 
-You may contact us through our [feedback page ](https://web.archive.org/includes/Email_us.aspx?uid=1)  
-You may contact us by phone on 1-800-840-9677 
+## 7\. Your Rights
 
-10.2 Covers Media Group Ltd. shall inform Persons about the existence of these procedures as well as the availability of complaint procedures. 
+You have certain rights in relation to your information. The availability of these rights and the ways in which you can use them are set out below in more detail.
 
-10.3 The person or persons accountable for compliance with the Covers Media Group Ltd. Privacy Policy may seek external advice where appropriate before providing a final response to individual complaints. 
+Some of these rights will only apply in certain circumstances. If you would like to exercise, or discuss, any of these rights, please contact the Data Protection Officer at [privacy@coversmedia.com](mailto:privacy@coversmedia.com)
 
-10.4 Covers Media Group Ltd. shall investigate all complaints concerning compliance with the Covers Media Group Ltd. Privacy Policy. If a complaint is found to be justified, Covers Media Group Ltd. shall take appropriate measures to resolve the complaint including, if necessary, amending its policies and procedures. A Person shall be informed of the outcome of the investigation regarding his or her complaint. 
+  * **Access:** you are entitled to ask us if we are processing your information and, if we are, you can request access to your personal information. This enables you to receive a copy of the personal information we hold about you and certain other information about it to check that we are lawfully processing it. 
+  * **Correction:** you are entitled to request that any incomplete or inaccurate personal information we hold about you is corrected.
+  * **Erasure:** you are entitled to ask us to delete or remove personal information in certain circumstances. There are also certain exceptions where we may refuse a request for erasure, for example, where the personal data is required for compliance with law or in connection with claims. 
+  * **Restriction:** you are entitled to ask us to suspend the processing of certain of your personal information about you, for example if you want us to establish its accuracy or the reason for processing it.
+  * **Transfer:** you may request the transfer of certain of your personal information to another party. 
+  * **Objection:** where we are processing your personal information based on a legitimate interests (or those of a third party) you may challenge this. However we may be entitled to continue processing your information based on the our legitimate interests or where this is relevant to legal claims. You also have the right to object where we are processing your personal information for direct marketing purposes.
+  * **Automated decisions:** We do not currently make any automated decisions. However, if we did, you may contest any automated decision made about you where this has a legal or similar significant effect and ask for it to be reconsidered. 
+
+If you want to exercise any of these rights, please contact our Data Protection Officer in writing at [privacy@coversmedia.com](mailto:privacy@coversmedia.com) or complete our [Individual Rights Request form](https://images.covers.com/covers/privacy/data_subject_request_form.pdf). 
+
+You also have a right to lodge a complaint with a supervisory authority, in particular in the Member State in the European Union where you are habitually resident where we are based or where an alleged infringement of Data Protection law has taken place. In the Republic of Ireland you can make a complaint to the Data Protection Commissioner (Tel: +353 57 8684800,+353 (0)761 104 800 or Lo Call Number 1890 252 231 or at www.dataprotection.ie). 
+
+
+
+
+## 8\. Right to object
+
+You have a right to object to us processing your information in certain circumstances.
+
+**Objection:** where we are processing your personal information based on a legitimate interests (or those of a third party) you may challenge this. However we may be entitled to continue processing your information based on the our legitimate interests or where this is relevant to legal claims. You also have the right to object where we are processing your personal information for direct marketing purposes. 
+
+**You can ask us to stop processing** your information at any time. In certain circumstances we may not be able to do this or may not be required to do this. For example, if the information is relevant to legal claims. 
+
+## 9\. Direct Marketing
+
+As described above, you can opt-out of receiving direct marketing from us at any time.
+
+We may use the information you give us on our website / app for direct marketing purposes to provide updates; newsletters; events; or other communications that we think may interest you. We will only do this with your consent (where required by law).
+
+You can opt-out of receiving directing marketing from us at any time. You can do this by changing your marketing preferences on your online accounts settings page, clicking on the "unsubscribe" link included at the end of any marketing email we send to you, or by contacting the Data Protection Officer at [privacy@coversmedia.com](mailto:privacy@coversmedia.com) or [00-44-808-273-4917], or Covers Media Group Limited, Victoria House, Victoria Place, Eyre Square, Galway, Ireland. 
+
+## 10\. Analysis and Marketing
+
+We use third party tools to personalise the advertising displayed to you on our website / app.
+
+We use third party tools, including programmatic advertising, and retargeting, to make the advertising we show you on our Website and / or our partner websites more relevant and interesting to you.
+
+For this purpose, we use cookies, web beacons or similar technologies to collect information about your browsing behaviour (see our Cookies Policy for more detailed information) and deliver interest-based ads to you.
+
+## 11\. Cookies
+
+We use cookies that identify your browser or device. They collect and store information when you visit our website about how you use it.
+
+For more information about cookies, the types of cookies we use and how we use them please see our: [Cookie Policy](https://web.archive.org/Privacy_Cookies).
+
+## 12\. Security
+
+We are committed to keeping your personal information safe. We've got physical, technical and administrative measures in place to prevent unauthorised access or use of your information. 
+
+## 13\. Link to third party websites
+
+Our website, newsletters, email updates and other communications may, from time to time, contain links to and from the websites of others including our partner networks, advertisers and other group companies and/or social networks as offered to you and supported by your browser.
+
+The personal data that you provide through these websites is not subject to this Privacy Policy and the treatment of your personal data by such websites is not our responsibility. If you follow a link to any of these websites, please note that these websites have their own privacy notices which will set out how your information is collected and processed when visiting those sites. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy notices of entities through which you chose to share. 
+
+## 14\. Children
+
+We do not knowingly collect information from children or other persons who are under 18 years old. If you are under 18 years old, you must not submit any personal information to us or subscribe for the services. If you believe we might have any personal information from or about a person under 18 years old, please contact the Data Protection Officer. 
+
+## 15\. How to contact us
+
+If you have any questions about this policy please contact our Data Protection Officer:[privacy@coversmedia.com](mailto:privacy@coversmedia.com), or [00-44-808-273-4917], or Covers Media Group Limited, Victoria House, Victoria Place, Eyre Square, Galway, Ireland. 
