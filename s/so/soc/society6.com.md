@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the society6.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628071209id_/https%3A//society6.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the society6.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230132233id_/https%3A//society6.com/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Society6
-
-30% Off Tapestries + New Posters with Code HANGUP - Sale Ends Tonight at Midnight PT
 
 ### LEAF GROUP PRIVACY POLICY
 
