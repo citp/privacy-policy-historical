@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the intowindows.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612101416id_/http%3A//www.intowindows.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intowindows.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230205005id_/https%3A//www.intowindows.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
 **Privacy Policy**
 
-Here at **[intowindows.com](http://www.intowindows.com/)** , we recognize that privacy of your personal information is important. **We will not sell or rent your personal information to anyone.  
+Here at **[intowindows.com](https://www.intowindows.com/)** , we recognize that privacy of your personal information is important. **We will not sell or rent your personal information to anyone.  
 **  
 **Email Address**
 
