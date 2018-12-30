@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kaspersky-labs.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630012829id_/http%3A//www.kaspersky.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaspersky-labs.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230013113id_/http%3A//www.kaspersky.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Kaspersky Lab
 
@@ -82,7 +82,7 @@ You can access and change your profile by signing into your account.
 
 At your request, we will inform you what personal data we have stored about you and for what purpose(s). Should we ever have stored false data about you, despite our efforts to only store accurate and current data, we will correct it promptly upon recognition or at your request.
 
-In these cases please contact: [privacy@kaspersky.com](mailto:privacy@kaspersky.com?subject=DATA%20PRIVACY%20INQUIRY%20%28en-Global%29)
+In these cases please contact: <https://support.kaspersky.com/privacy>
 
 In case you want us to delete your personal data or revoke consent granted for certain processing of your personal data, please contact us in the same way. You can also delete your account information by confirming this setting in your profile.
 
@@ -90,4 +90,4 @@ If deletion of your data should not be possible for technical or legal reasons, 
 
 ### 9\. How can you contact us?
 
-Should you have any further questions or suggestions regarding the protection of your personal data processed in connection with the use of our websites, please contact us: [privacy@kaspersky.com](mailto:privacy@kaspersky.com?subject=DATA%20PRIVACY%20INQUIRY%20%28en-Global%29)
+Should you have any further questions or suggestions regarding the protection of your personal data processed in connection with the use of our websites, please contact us: <https://support.kaspersky.com/privacy>
