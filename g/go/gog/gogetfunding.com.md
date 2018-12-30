@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gogetfunding.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624161623id_/https%3A//gogetfunding.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gogetfunding.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230154447id_/https%3A//gogetfunding.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GoGetFunding | GoGetFunding
 
@@ -51,7 +51,7 @@ Data protection law in Europe requires a “lawful basis” for collecting and r
 
   * Performing the contract we have with you: In certain circumstances, we need your personal data to comply with our contractual obligation to deliver the Services, enable campaign owners to create and display their campaigns, and enable donors to find and make donations to them.
   * Legal compliance: Sometimes the law says we need to collect and use your data. For example, to comply with anti-money-laundering regulations we need to collect certain information.
-  * Legitimate interests: This is a technical term in data protection law which essentially means we have a good and fair reason to use your data and we do so in ways which do not hurt your interests and rights. We sometimes require your data to pursue our legitimate interests in a way that might reasonably be expected as part of running our business and that does not materially impact your rights, freedom or interests.For example, we use identity, device, and location information to prevent fraud and abuse and to keep the Services secure. We may also send you promotional communications about our Services, subject to your right to control whether we do so.We analyze how users interact with our Site so we can understand better what elements of the design are working well and which are not working so well. This allows us to improve and develop the quality of the online experience we offer all our users.
+  * Legitimate interests: This is a technical term in data protection law which essentially means we have a good and fair reason to use your data and we do so in ways which do not hurt your interests and rights. We sometimes require your data to pursue our legitimate interests in a way that might reasonably be expected as part of running our business and that does not materially impact your rights, freedom or interests.For example, we use identity, device, and location information to prevent fraud and abuse and to keep the Services secure. We may also send you promotional communications about our Services, subject to your right to control whether we do so. We analyze how users interact with our Site so we can understand better what elements of the design are working well and which are not working so well. This allows us to improve and develop the quality of the online experience we offer all our users.
 
 
 
@@ -89,7 +89,7 @@ We may share your information with certain trusted third-party services to help 
 
 When you back a campaign, the campaign creator will know your name, the amount you have donated, any reward you have selected, your email address, payment method, and any shipping information – if provided. Campaign owners never receive a donor’s credit card details or other sensitive payment information.
 
-Campaign owners are required to keep donor information confidential, except as strictly necessary to communicate with donors directly. Campaign owners should not ask for personal information that isn’t necessary to provide your reward, and should never request sensitive personal information such as your Social Security number or payment information. Contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) if you receive a request for information that seems inappropriate or excessive.
+Campaign owners are required to keep donor information confidential, except as strictly necessary to communicate with donors directly. Campaign owners should not ask for personal information that isn’t necessary to provide your reward, and should never request sensitive personal information such as your Social Security number or payment information. Contact us at info@gogetfunding.com if you receive a request for information that seems inappropriate or excessive.
 
 Team members are third parties that campaign owners can appoint to help manage their campaign. These team members may be able to access the information available to campaign owners (including donor’s names, email addresses, donation amounts, reward selections, and are required to treat donors personal information with the same care and respect as campaign owners are.
 
@@ -125,7 +125,7 @@ We’ll also send you service-related announcements when it’s necessary to do 
 
 We take security seriously, and the security of your personal data is important to us. We follow industry-standard practices to protect the data we collect and maintain, including using Transport Layer Security (TLS) to encrypt information as it travels over the internet. No method of transmission over the internet or electronic storage is completely secure, so GoGetFunding cannot guarantee its absolute security. Your account information is protected by a password, which you should choose carefully and keep secure.
 
-We encourage the responsible disclosure of vulnerabilities of our Services by emailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+We encourage the responsible disclosure of vulnerabilities of our Services by emailing info@gogetfunding.com.
 
 ### **Data Protection Authority**
 
@@ -147,7 +147,7 @@ Web: https://ico.org.uk/global/contact-us/
 
 People under 18 (or the legal age in your jurisdiction) are not permitted to use GoGetFunding on their own. GoGetFunding does not knowingly collect any personal information from children under the age of 13 and children under 13 are not permitted to register for an account or use our Services.
 
-If you believe that a child has provided us with personal information, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) If we become aware that a child under age 13 has provided us with personally identifiable information, we’ll delete it.
+If you believe that a child has provided us with personal information, please contact us at info@gogetfunding.com. If we become aware that a child under age 13 has provided us with personally identifiable information, we’ll delete it.
 
 ### **Cookies**
 
