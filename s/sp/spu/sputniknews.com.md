@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sputniknews.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630092420id_/https%3A//sputniknews.com/docs/about/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sputniknews.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230161342id_/https%3A//sputniknews.com/docs/about/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Sputnik International
 
@@ -42,15 +42,15 @@ Just as most other websites, our web servers and security systems store some tem
 
 \- Device ID*, a unique number we generate when you install our mobile app on your smartphone or tablet, based on installation data and the type of the device used. 
 
-* This information is only collected when you use our mobile app for Android or iOS
+* This information is only collected when you use our mobile app for Android or iOS 1
 
 We do not generally store this data for more than 12 months, although this term may be extended if required by Russian or EU laws. Since ceasing to process this data would make it impossible for us to ensure adequate operation of the website and data security, the only way for you to refrain from transferring this data to us is to stop using the website.
 
-**2.1.2. Cookies**
+**2.1.2. Cookies and similar technology**
 
 Cookie files are among the technologies we use to collect information and improve content quality. A cookie is a small text file stored on the device (computer, tablet, smartphone, etc.) containing information on your browsing activity.
 
-This data is never used to identify individuals. This data is processed for improving website operation, producing better content and for advertising purposes. These purposes are achieved by analyzing statistical data, for example, evaluating user behavior patterns. This data includes, in particular:
+This data is never used to identify individuals. This data is processed for improving website operation, producing better content and for advertising purposes. These purposes are achieved by analyzing statistical data, for example, evaluating user behavior patterns and for displaying targeted advertising based upon your interests. This data includes, in particular:
 
 \- the IP address of your computer/device;
 
@@ -74,13 +74,17 @@ This data is never used to identify individuals. This data is processed for impr
 
 \- name of your internet provider.
 
+\- Advertising ID or Apple IDFA*, this is a unique identifier for displaying ads assigned by Google Play or AppStore services.
+
+* this information is only collected when you use our mobile app for Android or iOS 1
+
 Some cookie files are automatically deleted from your device when you close the browser, while others are deleted after a specified period of time. Depending on the type of the cookie file, this time may vary from 30 minutes to 13 months.
 
 You may use our website without cookie files. In most browsers cookies are stored by default. However, you can use your browser settings to disable cookies or set up a notification to pop up every time a cookie file is stored by your browser. You also have the option to delete cookies stored by your computer/device at any time, using the browser settings. For more information on enabling, disabling, viewing and deleting cookies please check your browser settings or online support for your browser.
 
 Importantly, disabling cookie files may limit the functionality of our website.
 
-For purposes set out in this Section 2.1.2. we may also use third party services on our website which may record and analyze cookies as well as other technical information about your device. We request that our partners treat user data with due care and work only with companies with an appropriate reputation. Below you will find a list of third-party services we may use on our website. Please take the time to read the descriptions of these services on their respective websites, using the links provided below. You can also disable the collection of cookies and technical information about your device for these websites:
+For purposes set out in this Section 2.1.2. we may also use third party services on our website which may record and analyze cookies and other information, received through the similar technologies as well as other technical information about your device. We request that our partners treat user data with due care and work only with companies with an appropriate reputation. Below you will find a list of third-party services we may use on our website. Please take the time to read the descriptions of these services on their respective websites, using the links provided below. You can also disable the collection of cookies and technical information about your device for these websites:
 
 \- Google Analytics (<https://www.google.com/analytics/>)
 
@@ -106,7 +110,7 @@ For purposes set out in this Section 2.1.2. we may also use third party services
 
 \- Flurry* ([http://flurry.com](http://www.flurry.com/)) 
 
-* This service is only used when you use our mobile app for Android or iOS 
+* This service is only used when you use our mobile app for Android or iOS 1 
 
 **2.2. Data we collect which can be used to identify individuals**
 
@@ -172,4 +176,10 @@ We reserve the right to amend our Privacy Policy at any time. For example, amend
 
 If you have any questions related to this Privacy Policy, feel free to contact us by e-mail at [privacy@sputniknews.com](mailto:privacy@sputniknews.com).
 
-Last updated: June 2018
+_1. Sputnik Mobile Apps:_
+
+_Sputnik  _
+
+_Sputnik Trending  _
+
+Last updated: September 2018
