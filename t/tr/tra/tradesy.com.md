@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradesy.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624054350id_/https%3A//www.tradesy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradesy.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230050659id_/https%3A//www.tradesy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Tradesy
 
@@ -25,6 +25,10 @@ We may collect non-personal information about Users whenever they interact with 
 ### Web browser cookies
 
 Our Website may use "cookies" to enhance User experience. Users’ web browsers place cookies on their hard drive for record-keeping purposes and sometimes to track information about them. Users may choose to set their web browser to refuse cookies or to alert them when cookies are being sent. If they do so, we note that some parts of the Website may not function properly. 
+
+### Seller Performance Information
+
+We may use personal information to measure performance of sellers. 
 
 ## How we use information collected
 
@@ -109,6 +113,10 @@ For avoidance of doubt, please take note that disclosing personal information to
 We may disclose User’s personal information to third parties involved in a legal proceeding if the third party provides Tradesy with a subpoena or other similar lawful process. Disclosure may be made without notice to User. 
 
 Tradesy will also disclose to third parties involved in a legal proceeding when Tradesy believes in good faith that disclosing personal information is necessary to prevent imminent physical harm or financial loss, or to report suspected illegal activity. 
+
+##### Tradesy Users
+
+We may use user information obtained from account activity including total number of sales, last active timeframe, and message response time, in order to provide seller performance information to Tradesy users. 
 
 ### Disclosure related to Tradesy’s Terms of Use Agreement
 
