@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goop.com privacy policy that was archived on 2017-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170918143824id_/http%3A//goop.com/privacy-cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goop.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230205045id_/https%3A//goop.com/privacy-cookies-policy) for the most accurate reproduction.*
 
 # Privacy & Cookies Policy | Goop
 
@@ -116,13 +116,13 @@ You may wish to visit <http://www.networkadvertising.org/understanding-online-ad
 
 ### **Opting Out**
 
-If you want to be removed from our marketing list and do not want us to send you e-mail, postal mail or other messages about our products and services, you can opt out. To do so, please send an e-mail to unsubscribe@goop.com, with the word “REMOVE” in the subject line, or unsubscribe by clicking here.
+If you want to be removed from our marketing list and do not want us to send you e-mail, postal mail or other messages about our products and services, you can opt out. To do so, please send an e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection), with the word “REMOVE” in the subject line.
 
-California Civil Code Section 1798.83 permits California residents to request certain information regarding our disclosure of such residents’ personal information to third parties for such third parties’ direct marketing purposes. To make such a request, please e-mail us at [customerservice@goop.com](mailto:customerservice@goop.com).
+California Civil Code Section 1798.83 permits California residents to request certain information regarding our disclosure of such residents’ personal information to third parties for such third parties’ direct marketing purposes. To make such a request, please e-mail us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b8dbcdcbccd7d5ddcacbddcaced1dbddf8dfd7d7c896dbd7d5).
 
 ### **Privacy Policy Updates**
 
-We reserve the right to change this Privacy Policy at any time, so please review it on a regular basis. Any changes made to this Privacy Policy will be posted here. The date stamp at the top of the page represents the last day this Privacy Policy was updated. If you have questions about this Privacy Policy, you can contact us at customerservice@goop.com. By maintaining an Account with us, or by using or accessing any services provided by us or the Website, you will be deemed to have agreed to and accepted this Privacy Policy.
+We reserve the right to change this Privacy Policy at any time, so please review it on a regular basis. Any changes made to this Privacy Policy will be posted here. The date stamp at the top of the page represents the last day this Privacy Policy was updated. If you have questions about this Privacy Policy, you can contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) By maintaining an Account with us, or by using or accessing any services provided by us or the Website, you will be deemed to have agreed to and accepted this Privacy Policy.
 
 ### **Manage Accurate Information**
 
@@ -144,8 +144,8 @@ If you have any questions or suggestions regarding this Privacy Policy, please c
 
 By mail:  
 Goop Inc.  
-745 Fifth Avenue, Suite 500  
-New York, New York 10151  
+212 26th Street, #206  
+Santa Monica, CA 90402  
 Attn: Customer Service
 
-By e-mail: [customerservice@goop.com](mailto:customerservice@goop.com)
+By e-mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#40233533342f2d25323325323629232500272f2f306e232f2d)
