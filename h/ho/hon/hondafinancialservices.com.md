@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hondafinancialservices.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605051549id_/http%3A//www.hondafinancialservices.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hondafinancialservices.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230122626id_/http%3A//www.hondafinancialservices.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Honda Auto Leasing and Financing - Privacy Policy
 
@@ -118,7 +118,7 @@ AHM and third parties, which may include Google, Adobe, Facebook and others adve
 
 **How You Can Opt-Out**
 
-If you do not wish to receive interest-based advertising, please visit the [Digital Advertising Alliance (DAA) Consumer Choice Page](http://http//www.aboutads.info/choices/). The DAA website allows you to opt-out of one or more interest-based advertising networks. Opt-outs are device and browser specific; therefore, you will need to set your opt-out preferences for each device and browser. Deleting browser cookies can remove your opt-out preferences; however, the DAA offers [browser extensions](http://www.aboutads.info/PMC) that help preserve the opt-out preferences you set on the DAA's Consumer Choice Page. Please note that opt-outs only apply to interest-based advertising. You may still receive other types of online advertising.
+If you do not wish to receive interest-based advertising, please visit the [Digital Advertising Alliance (DAA) Consumer Choice Page](http://www.aboutads.info/choices/). The DAA website allows you to opt-out of one or more interest-based advertising networks. Opt-outs are device and browser specific; therefore, you will need to set your opt-out preferences for each device and browser. Deleting browser cookies can remove your opt-out preferences; however, the DAA offers [browser extensions](http://www.aboutads.info/PMC) that help preserve the opt-out preferences you set on the DAA's Consumer Choice Page. Please note that opt-outs only apply to interest-based advertising. You may still receive other types of online advertising.
 
 **Browser Do Not Track Signals**
 
