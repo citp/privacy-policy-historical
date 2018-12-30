@@ -1,59 +1,143 @@
-> *The following text is extracted and transformed from the alidropship.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001172626id_/https%3A//alidropship.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alidropship.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230090655id_/https%3A//alidropship.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - AliDropship
+# Privacy Policy - Dropshipping business with AliExpress
 
-This Privacy Policy governs the manner in which AliDropship collects, uses, maintains and discloses information collected from users (each, a “User”) of the https://AliDropship.com/ website (“Site”). This privacy policy applies to the Site and all products and services offered by AliDropship.
+_AliDropship.com_ is compliant with The General Data Protection Regulation (GDPR) (EU) 2016/679.
 
-## Personal identification information
+It means that we are open about our methods of tracking and use of the visitors’ personal data, and you can freely check what exactly we’re doing to it.
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, place an order, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+By using any of our services, you are agreeing to the terms of this Privacy Policy and [Terms of Use](https://alidropship.com/terms-of-use/).
 
-## Non-personal identification information
+Below, you can read more about our reasons and ways to collect and use your personal details – they are different for our website visitors, company clients, and affiliates.
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+## **I am an AliDropship website visitor**
 
-## Web browser cookies
+AliDropship website visitors are Internet users who browse any pages on alidropship.com website and take any actions apart from buying the AliDropship products or ordering AliDropship services.
 
-Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+### **What personal details we collect from the AliDropship website visitors**
 
-## How we use collected information
+  * Your email address (in case you voluntarily leave it while downloading informational guides, or subscribing for mass emails, or leaving a comment in the blog section, or sending a query email to the support team)
+  * Member name and profile photo used to register on[ AliDropship forum](https://forum.alidropship.com/) (as well as all the messages left by you on the forum threads) 
+  * The data about the browser and device you use to navigate the website
+  * The way you navigate the website
 
-AliDropship may collect and use Users personal information for the following purposes:
 
-**– To improve customer service**
 
-Information you provide helps us respond to your customer service requests and support needs more efficiently.
+### **Why we collect these details from the AliDropship website visitors**
 
-**– To process payments**
+The data is collected for the following purposes:
 
-We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
+  * Email addresses are used to give you the access to our educational materials, and to inform you about our deals and special offers 
+  * The data about your browser and device is used to personalise the website visual appearance, and to let you use the website resources to the full extent
+  * The way you navigate the store is analysed in order to let us research the ways to improve the website interface for a greater users’ satisfaction
 
-**– To send periodic emails**
 
-We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, they may do so by contacting us via our Site.
 
-## How we protect your information
+### **What personal details of the AliDropship website visitors we share with third parties**
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+In order to provide you with the highest quality services, AliDropship partners with several external companies (‘third parties’) that also receive some of the collected personal details:
 
-## Sharing your personal information
+  * Aweber (mass mailing service) uses the collected email addresses in order to create a database out of them, and to arrange mass delivery of our company newsletters.
+  * Google Analytics (web analytics tool) tracks your on-site behavior (the date of your visit to the website, the length of each session, the pages you have visited, the number of times you access the website within any month, and similar details) in order to help us understand the needs and actions of our website visitors, and improve our performance accordingly.
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
-## Changes to this privacy policy
 
-AliDropship has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page and send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+## **I am an AliDropship company client**
 
-## Your acceptance of these terms
+An AliDropship company client is an individual who has purchased at least one product or ordered at least one service from alidropship.com website.
 
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+### **What personal details we collect from the AliDropship clients**
 
-## Contacting us
+  * Your first name and last name
+  * Your email address and/or Skype contact details
+  * The contents of your order(s) (the exact set of AliDropship services ever ordered by you)
+  * Your payment details
+  * The data about the browser and device you use to navigate the website
+  * The way you navigate the store
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-AliDropship
 
-https://AliDropship.com/
+### **Why we collect these details from the AliDropship clients**
 
-_This document was last updated on April 7, 2016_
+The data is collected for the following purposes:
+
+  * Your first name and last name are used to verify your identity when you access the products developed for you by AliDropship team
+  * Email addresses and/or Skype details are used to establish and maintain contact with you throughout the whole process of rendering the ordered service and providing the post-purchase lifelong support
+  * The data about the contents of your order is used to render you the service(s) you have purchased, and to keep track of them in order to be able to answer any of your questions that may arise during the post-purchase lifelong support
+  * Your payment details are used to perform fraud screening and process the orders
+  * The data about your browser and device is used to personalise the website visual appearance, and to let you use the website resources to the full extent
+  * The way you navigate the store is analysed in order to let us research the ways to improve the website interface for a greater users’ satisfaction
+
+
+
+### **What personal details of the AliDropship clients we share with third parties**
+
+In order to provide you with the highest quality services, AliDropship partners with several external companies (‘third parties’) that also receive some of the collected personal details:
+
+  * Aweber (mass mailing service) uses the collected email addresses in order to  create a database out of them, and to arrange mass delivery of our company newsletters.
+  * Google Analytics (web analytics tool) tracks your on-site behavior (the date of your visit to the website, the length of each session, the pages you have visited, the number of times you access the website within any month, and similar details) in order to help us understand the needs and actions of our website visitors, and improve our performance accordingly.
+  * Stripe (online payment processing service) uses your credit card details in order to charge you for the order and transfer the money to AliDropship company.
+
+
+
+## **I am an AliDropship affiliate**
+
+An AliDropship affiliate is an individual that has agreed to the terms of [AliDropship Affiliate program](https://affiliates.alidropship.com/) and registered as an affiliate in order to promote AliDropship services by referring clients to the company.
+
+### **What personal details we collect from the AliDropship affiliates**
+
+  * Your first name and last name
+  * Your email address
+  * Your PayPal account details
+  * The data about the browser and device you use to navigate the website
+  * The way you navigate the store
+
+
+
+### **Why we collect these details from the AliDropship clients**
+
+The data is collected for the following purposes:
+
+  * Your first name and last name are used to verify your identity when you access your personal affiliate account
+  * Email addresses are used to establish and maintain contact with you throughout the whole time of you being an AliDropship affiliate
+  * Your PayPal details are used to send you affiliate commission payments
+  * The data about your browser and device is used to personalise the website visual appearance, and to let you use the website resources to the full extent
+  * The way you navigate the store is analysed in order to let us research the ways to improve the website interface for a greater users’ satisfaction.
+
+
+
+## **How we protect your personal information**
+
+  * Your personal information is only used by a limited number of AliDropship company employees who are eligible to access such data, and are obliged to keep the personal details and financial information strictly confidential.
+  * We store personal information on secure servers that are managed by us and our service providers. Personal information that we store is subject to security and access controls, such as username and password authentication.
+  * According to our customised settings, Google Analytics (web analytics tool) deletes the gathered information on the website users’ behavior in 2 years since every particular visitor’s last access to the website.
+
+
+
+## **How we use cookies**
+
+Cookies are small files that are transferred to your computer through your Web browser. With the help of the cookies, AliDropship site remembers you and recognises your last activity on the website in order to improve its own performance.
+
+We use cookies for the following purposes:
+
+  * To analyse your browser (this way, the website adapts to your device specifics)
+  * To remember the contents of your order (this way, we understand your preferences and address your requests more efficiently)
+  * To get generalized data on the AliDropship website traffic and site interaction (this way, we understand what better website experiences and additional tools we can introduce further)
+
+
+
+If you keep browsing our website after reading this Privacy Policy, you give us the consent to use your personal details for the purposes explained above.
+
+If you don’t agree to these terms, please leave the website.
+
+You can email us at [support@alidropship.com](mailto:support@alidropship.com) and ask:
+
+  * To receive the copy of your personal details we have collected
+  * To delete your personal details from our system
+  * To withdraw your consent (if you previously agreed to provide us with the data, but then changed your mind)
+
+
+
+Thank you for your cooperation!
+
+_This document was last updated on May 24, 2018_
