@@ -1,72 +1,79 @@
-> *The following text is extracted and transformed from the dronefly.com privacy policy that was archived on 2018-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180128024009id_/https%3A//www.dronefly.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dronefly.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230132306id_/https%3A//www.dronefly.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy – Dronefly
 
-**What information do we collect?**
+**Privacy Policy**
 
-  * We collect information from you when you register on the site, place an order, enter a contest or sweepstakes, respond to a survey or communication such as e-mail, or participate in another site feature.
-  * When ordering or registering, we may ask you for your name, e-mail address, mailing address, phone number, credit card information or other information. You may, however, visit our site anonymously.
-  * We also collect information about gift recipients so that we can fulfill the gift purchase. The information we collect about gift recipients is not used for marketing purposes.
-  * Like many websites, we use "cookies" to enhance your experience and gather information about visitors and visits to our websites. Please refer to the "Do we use 'cookies'?" section below for information about cookies and how we use them.
+By purchasing products or services provided by Neat Brands, LLC., You, the Customer, agree to the following policies:
+
+**ONLINE PRIVACY POLICY AGREEMENT**
+
+Neat Brands, LLC. (Dronefly), is committed to keeping any and all personal information collected of those individuals that visit our website and make use of our online facilities and services accurate, confidential, secure and private. Our privacy policy has been designed and created to ensure those affiliated with Dronefly of our commitment and realization of our obligation not only to meet but to exceed most existing privacy standards.
+
+THEREFORE, this Privacy Policy Agreement shall apply to Dronefly, and thus it shall govern any and all data collection and usage thereof. Through the use of http://Dronefly.com you are herein consenting to the following data procedures expressed within this agreement.
+
+**Collection of Information**
+
+  * This website collects various types of information, such as: Voluntarily provided information which may include your name, address, email address, billing and/or credit card information etc., which may be used when you purchase products and/or services and to deliver the services you have requested. 
+
+Information automatically collected when visiting our website, which may include cookies, third party tracking technologies and server logs.
 
 
 
-**How do we use your information?**
 
-We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways: 
+Please rest assured that this site shall only collect personal information that you knowingly and willingly provide by way of surveys, completed membership forms, and emails. It is the intent of this site to use personal information only for the purpose for which it was requested and any additional uses specifically provided on this site.
+
+We may also gather information about the type of browser you are using, IP address or type of operating system to assist us in providing and maintaining superior quality service.
+
+It is highly recommended and suggested that you review the privacy policies and statements of any website you choose to use or frequent as a means to better understand the way in which other websites garner, make use of and share information collected.
+
+**Use of Information Collected**
+
+Dronefly may collect and may make use of personal information to assist in the operation of our website and to ensure delivery of the services you need and request. At times, we may find it necessary to use personally identifiable information as a means to keep you informed of other possible products and/or services that may be available to you from http://Dronefly.com. Dronefly may also be in contact with you with regards to completing surveys and/or research questionnaires related to your opinion of current or potential future services that may be offered. Dronefly does not now, nor will it in the future, sell, rent or lease any of our customer lists and/or names to any third parties. Dronefly may deem it necessary to follow websites and/or pages that our users may frequent in an effort to gleam what types of services and/or products may be the most popular to customers or the general public. Dronefly may disclose your personal information, without prior notice to you, only if required to do so in accordance with applicable laws and/or in a good faith belief that such action is deemed necessary or is required in an effort to:
+
+Remain in conformance with any decrees, laws and/or statutes or in an effort to comply with any process which may be served upon Dronefly and/or our website; 
+
+Maintain, safeguard and/or preserve all the rights and/or property of Dronefly; and
+
+Perform under demanding conditions in an effort to safeguard the personal safety of users of http://Dronefly.com and/or the general public.
+
+We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
   * To personalize your site experience and to allow us to deliver the type of content and product offerings in which you are most interested.
   * To allow us to better service you in responding to your customer service requests.
   * To quickly process your transactions.
   * To administer a contest, promotion, survey or other site feature.
-  * If you have opted-in to receive our e-mail newsletter, we may send you periodic e-mails. If you would no longer like to receive promotional e-mail from us, please refer to the "How can you opt-out, remove or modify information you have provided to us?" section below. If you have not opted-in to receive e-mail newsletters, you will not receive these e-mails. Visitors who register or participate in other site features such as marketing programs and 'members-only' content will be given a choice whether they would like to be on our e-mail list and receive e-mail communications from us.
 
 
 
-**How do we protect visitor information?**
+If you have opted-in to receive our e-mail newsletter, we may send you periodic e-mails. If you do not wish to receive marketing information, email us at CONTACT@DRONEFLY.com. Email messages will also provide you with an opportunity to opt-out of receiving this information. Please note, changes to your preference may not be effective immediately.
 
-We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above.
+**Children Under Age of 13**
 
- **Do we use "cookies"?**
+Dronefly does not knowingly collect personal identifiable information from children under the age of thirteen (13) without verifiable parental consent. If it is determined that such information has been inadvertently collected on anyone under the age of thirteen (13), we shall immediately take the necessary steps to ensure that such information is deleted from our system's database. Anyone under the age of thirteen (13) must seek and obtain parent or guardian permission to use this website.
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+**Unsubscribe or Opt-Out**
 
-We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+All users and/or visitors to our website have the option to discontinue receiving communication from us and/or reserve the right to discontinue receiving communications by way of email or newsletters. To discontinue or unsubscribe to our website please send an email that you wish to unsubscribe to info@Dronefly.com. If you wish to unsubscribe or opt-out from any third party websites, you must go to that specific website to unsubscribe and/or opt-out.
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting customer service.
+**Links to Other Web Sites**
 
- **Do we disclose the information we collect to outside parties?**
+Our website does contain links to affiliate and other websites. Dronefly does not claim nor accept responsibility for any privacy policies, practices and/or procedures of other such websites. Therefore, we encourage all users and visitors to be aware when they leave our website and to read the privacy statements of each and every website that collects personally identifiable information. The aforementioned Privacy Policy Agreement applies only and solely to the information collected by our website.
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include $(CompanyNameLegal). It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.
+**Security**
 
-However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+Dronefly shall endeavor and shall take every precaution to maintain adequate physical, procedural and technical security with respect to our offices and information storage facilities so as to prevent any loss, misuse, unauthorized access, disclosure or modification of the user's personal information under our control.
 
- **How can you opt-out, remove or modify information you have provided to us?**
+The company also uses Secure Socket Layer (SSL) for authentication and private communications in an effort to build users' trust and confidence in the internet and website use by providing simple and secure access and communication of credit card and personal information.
 
-To modify your e-mail subscriptions, please let us know by modifying your preferences in the "My Account" section. Please note that due to email production schedules you may receive any emails already in production.
+**Changes to Privacy Policy Agreement**
 
-To delete all of your online account information from our database, sign into the "My Account" section of our site and remove your shipping addresses, billing addresses & payment information. Please note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping.
+Dronefly reserves the right to update and/or change the terms of our privacy policy, and as such we will post those change to our website homepage at http://Dronefly.com, so that our users and/or visitors are always aware of the type of information we collect, how it will be used, and under what circumstances, if any, we may disclose such information. If at any point in time Dronefly decides to make use of any personally identifiable information on file, in a manner vastly different from that which was stated when this information was initially collected, the user or users shall be promptly notified by email. Users at that time shall have the option as to whether or not to permit the use of their information in this separate manner.
 
- **Third party links**
+**Acceptance of Terms**
 
-In an attempt to provide you with increased value, we may include third party links on our site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these linked sites (including if a specific link does not work).
+Through the use of this website, you are hereby accepting the terms and conditions stipulated within the aforementioned Privacy Policy Agreement. If you are not in agreement with our terms and conditions, then you should refrain from further use of our sites. In addition, your continued use of our website following the posting of any updates or changes to our terms and conditions shall mean that you are in agreement and acceptance of such changes.
 
- **Changes to our policy**
+**How to Contact Us**
 
-If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. **This policy was last modified on August 6, 2003.**
-
- **Questions and feedback**
-
-We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue.
-
- **Online Policy Only**
-
-This online privacy policy applies only to information collected through our website and not to information collected offline.
-
- **Terms and Conditions**
-
-Please also visit our [Terms and Conditions](https://www.dronefly.com/pages/terms-conditions) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
-
- **Your consent**
-
-By using our site, you consent to our privacy policy.
+If you have any questions or concerns regarding the Privacy Policy Agreement related to our website, please feel free to contact us via email at support@Dronefly.com
