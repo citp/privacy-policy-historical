@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mhrdnats.gov.in privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628211652id_/http%3A//mhrdnats.gov.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mhrdnats.gov.in privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230035045id_/http%3A//www.mhrdnats.gov.in/privacy) for the most accurate reproduction.*
 
-# Privacy | National Apprenticeship Training Scheme (NATS), Ministry of Human Resource Development
+# Privacy | National Apprenticeship Training Scheme - NATS, Ministry of Human Resource Development
 
 ##  Privacy Policy
 
