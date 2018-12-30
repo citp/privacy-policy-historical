@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flinders.edu.au privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624194347id_/https%3A//www.flinders.edu.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flinders.edu.au privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230190327id_/https%3A//www.flinders.edu.au/privacy) for the most accurate reproduction.*
 
 # Flinders University website privacy statement - Flinders University
 
@@ -52,16 +52,13 @@ The University uses digital data storage providers located both inside Australia
 
 ## Cookies
 
-A cookie is an electronic token that is passed to your browser and your browser passes it back to the server whenever a page is sent to you.
+The University’s website automatically collects personal informaton when you are browsing or using it. The various mechanisms used to collect this information include pixels, server logs, proxy logs and cookies.
 
-Our server generates one cookie which is used to keep track of the pages you have accessed while using our server. The cookie allows you to page back and forwards through the web site and return to pages you have already visited. The cookie exists only for the time you are accessing our server.
+A cookie is a piece of information that our web server sends to your computer when you visit our website. That cookie is stored on your computer and may provide information ( such as your IP address) to our server to optimise your experience when you visit our website.
 
-Our internal databases may use cookies to store the set of databases that a user has selected and we use technologies, such as cookies, to customise content and advertising, to provide social media features and to analyse traffic to the site. We also share information about your use of our site with our trusted social media, advertising and analytics partners _._
+In addition to optimising website functionality cookies may be used by the University to track website usage patterns, analyse website traffic, personalise content and advertising and enable social media features.  
 
-You do not need to have configured your browser to enable the accepting or sending of cookies in order to use this site (though you will not have access to the full functionality of the services if you do not).
-
-We do not use cookies to collect personal information.  
-
+The University may collect and store the information provided by cookies and use it for marketing/advertising purposes including disclosing it to third party advertising agencies for targeted direct marketing campaigns often called ‘retargeting’. Retargeting occurs where Google, Facebook or another third party uses cookies from your computer to show advertisements when you visit websites based on your web preferences and usage patterns. If you have a cookie from our website stored on your computer you may see the University’s advertisements as you browse other sites. You may choose to opt out or disallow cookies through your web browser settings but this may alter some functionality otherwise available on the University’s website.
 
 ## Searches
 
@@ -73,4 +70,4 @@ This site contains links to other sites. Flinders University is not responsible 
 
 ## Contact details
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this site, you can contact [Digital Presence Services](mailto:digitalpresence@flinders.edu.au "Digital Presence Services").
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this site, please [contact us](mailto:digitalpresence@flinders.edu.au "Digital Presence Services").
