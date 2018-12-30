@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gearbest.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624165304id_/https%3A//www.gearbest.com/about/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gearbest.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230162020id_/https%3A//www.gearbest.com/about/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | GearBest.com
 
 #### Privacy Policy
 
-This Privacy Statement explains how Shenzhen Minikuke E-Commerce Co., Ltd (“GearBest” “we,” “us,” or “our”) collects, uses, and discloses your personal information in connection with its operation of the GearBest ecommerce platform.
+This Privacy Statement explains how GEARBEST (HONG KONG) LIMITED (“GearBest” “we,” “us,” or “our”) collects, uses, and discloses your personal information in connection with its operation of the GearBest ecommerce platform.
 
 #### What information do we collect? 
 
@@ -20,16 +20,18 @@ When ordering or registering on our site, as appropriate, you may be asked to en
 
 We use the information you provide to us for the specific purposes for which you provide the information, as stated at the time of collection, and as otherwise permitted by law. The information we collect from you may be used in the following ways: 
 
-  *   • To personalize your experience  
+  * To personalize your experience  
 (your information helps us to better respond to your individual needs)
-  *   • To improve our website and your shopping experience   
+  * To improve our website and your shopping experience   
 (we continually strive to improve our website offerings based on the information and feedback we receive from you)
-  *   • To improve customer service   
+  * To improve customer service   
 (your information helps us to more effectively respond to your customer service requests and support needs)
-  *   • To process transactions including executing your payments and delivering the purchased products or services requested. 
-  *   • To administer a contest, special promotion, survey, activity or other site feature.
-  *   • To send periodic emails  
+  * To process transactions including executing your payments and delivering the purchased products or services requested. 
+  * To administer a contest, special promotion, survey, activity or other site feature.
+  * To send periodic emails  
 The email address you provide for order processing, may be used to send you important information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
+  * To send periodic SMS messages  
+The phone number you provide during customer registration and/or order processing, may occasionally be used to send you important marketing and promotional information related to products and services that may be of interest to you.
 
 
 
