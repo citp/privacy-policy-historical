@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twiends.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624120500id_/https%3A//twiends.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twiends.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230114247id_/https%3A//twiends.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Twiends
 
@@ -100,7 +100,11 @@ Our nominated representative for the purpose of the Act is Michael Coyle a Solic
 
 We use cookie files which are stored on your browser, or the hard drive of your computer or the memory of your mobile device. They help us to provide you with a secure service. The session and security cookies that we use do not require consent as per the [exemptions provided](https://ico.org.uk/for-organisations/guide-to-pecr/cookies-and-similar-technologies/) in the Privacy and Electronic Communications Regulations for these types of cookies. More detail on the cookies we use can be found [here](https://web.archive.org/cookies).
 
-7\. How your data is stored
+7\. Google Ads & Analytics
+
+Chances are that you first found our website via an advert on Google. We use Google Ads to advertise our service and this is tightly integrated with Google Analytics. Both these service use [cookies](https://web.archive.org/cookies) to optimise and track performance. We do not provide any personally identifiable information to Google (only anonymous & aggregate data is used). In addition, we use remarketing features to build custom audiences for marketing. Google also tracks cross-device sessions for these purposes. Please read [Google's Privacy Policy here](https://policies.google.com/privacy). You can also use Google [opt-out here](https://tools.google.com/dlpage/gaoptout), or delete your Google data at [My Activity](https://myactivity.google.com/myactivity)
+
+8\. How your data is stored
 
 The data we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff may be engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
@@ -108,31 +112,27 @@ All information you provide to us is stored on our secure servers. Any payment t
 
 Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
-8\. Third party websites & services
+9\. Third party websites & services
 
-We may use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you.
+We may use your data to provide you with information about goods and services we provide.
 
 If you are an existing member, we will only contact you by electronic means (e-mail) with information about goods and services similar to those which were the subject of a previous sale to you.
 
-If you are a new member, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this.
-
-Twiends may, from time to time, employ the services of other parties for dealing with matters that may include, but are not limited to, payment handling, delivery of purchased items, search engine facilities, advertising and marketing. The providers of such services do have access to certain personal Data provided by Users of twiends. Any Data used by such parties is used only to the extent required by them to perform the services that twiends requests. Any use for other purposes is strictly prohibited. Furthermore, any Data that is processed by third parties must be processed within the terms of this Policy and in accordance with the Data Protection Act 1998 and GDPR.
+Twiends may, from time to time, employ the services of other parties for dealing with matters that may include, but are not limited to, payment handling, delivery of purchased items, search engine facilities, advertising and marketing. Most of these providers will have access to Data only in aggregated anonymous form. Some, such as payment providers, do have access to certain personal Data in order to fulfil their function. Any Data used by such parties is used only to the extent required by them to perform the services that twiends requests. Any use for other purposes is strictly prohibited. Furthermore, any Data that is processed by third parties must be processed within the terms of this Policy and in accordance with the Data Protection Act 1998 and GDPR.
 
 If you do not want us to use your data in this way, please email a request to remove your information from our records to info@twiends.com.
 
-9\. Disclosure of your information
+10\. Disclosure of your information
 
-We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
+There are some reasons we may disclose or transfer your personal information due to structural or legal requirements:
 
-The reasons we may disclose your personal information are:
-
-9.1 In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
+9.1 In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the seller or buyer of such business or assets.
 
 9.2 If Webcandy or substantially all of its assets are acquired by a third party, in which case personal data held by it about its members will be one of the transferred assets.
 
 9.3 If we are under a duty to disclose or share your personal data in order to comply with any legal obligation or law enforcement request, or in order to enforce or apply our terms of use.
 
-10\. Your rights
+11\. Your rights
 
 You may access certain areas of twiends without providing any Data at all. However, to use all Services and Systems available on twiends you may be required to submit Account information or other Data.
 
@@ -146,14 +146,14 @@ You have the right to delete your account on the [settings](https://web.archive.
 
 You have the right to lodge a complaint with a supervisory authority at any time.
 
-11\. Access to your information
+12\. Access to your information
 
 GDPR gives you the right to access information held about you. Your right of access can be exercised in accordance with GDPR. Any repeat access requests may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
 
-12\. Changes to our policy
+13\. Changes to our policy
 
 Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
 
-13\. Contact us
+14\. Contact us
 
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to info@twiends.com. 
