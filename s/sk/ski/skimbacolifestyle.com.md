@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skimbacolifestyle.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624062106id_/https%3A//www.skimbacolifestyle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skimbacolifestyle.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230054636id_/https%3A//www.skimbacolifestyle.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Skimbaco Lifestyle | online magazine
 
