@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onegreenplanet.org privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626174928id_/http%3A//www.onegreenplanet.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onegreenplanet.org privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230050935id_/http%3A//www.onegreenplanet.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - One Green Planet
+# Privacy Policy - One Green PlanetOne Green Planet
 
 The privacy of our visitors is very important to us. This privacy policy describes what types of information we receive and collect when you use and visit OneGreenPlanet.org and how we safeguard your information.
 
@@ -64,7 +64,7 @@ The OneGreenPlanet.org site is directed to, and intended for use by, adults only
 
 This online privacy policy applies only to information collected through OneGreenPlanet.org and not to information collected offline or via other means. When you use the OneGreenPlanet.org site, you are accepting the terms and conditions of this Privacy Policy, and we will have the right to use your information as described in this Privacy Policy.  If you do not agree to have your information used in any of the ways described in this Privacy Policy, you must discontinue use of the OneGreenPlanet.org Site. We may update this privacy policy at any time to reflect changes in our practices and service offerings. If we modify this privacy policy, we will update the “Effective Date.” Your continued use of the OneGreenPlanet.or Site after a change in the Privacy Policy will constitute your acceptance of those changes.
 
-If you have any questions about this Privacy Policy, please contact us at [team@onegreenplanet.org](mailto:team@onegreenplanet.org)
+If you have any questions about this Privacy Policy, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3f4b5a5e527f50515a584d5a5a514f535e515a4b11504d58)
 
 _Effective Date: February 15, 2011_
 
