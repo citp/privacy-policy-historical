@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the darksoulswiki.wikispaces.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624194206id_/https%3A//fextralife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the darksoulswiki.wikispaces.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231003710id_/https%3A//fextralife.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fextralife
+
+Last updated on May 6th, 2018
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
 
