@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edgars.co.za privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606182634id_/https%3A//www.edgars.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edgars.co.za privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230145816id_/https%3A//www.edgars.co.za/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -27,7 +27,7 @@ Date last amended September 2016
 • become a member of one of our clubs or ThankU loyalty programs or to send you information;  
 • taking part in our promotions, competitions, and surveys (if applicable)  
 4.2 Edcon may also collect personal information about you by accessing data from other sources and then analysing that data together with the information we already hold about you in order to learn more about your likely preferences and interests. When you visit our websites, social media pages or mobile applications or click on our advertisements on the online media of other companies, Edcon may collect information about you using technology which is not apparent to you, for example “cookies”. A cookie is an alphanumeric identifier which we transfer to your hard drive through your web browser when you visit our website. It enables our own system to recognise you when you visit our website again and to improve our service to you. Cookies may also be used to compile aggregate information about areas of our website that are visited most frequently. This information can be used to enhance the content of our website and make your use of it easier. We do not monitor which pages you looked at while visiting our website. You can disable our use of cookies by configuring your browser accordingly.   
-4.3.In order to register for certain services or to enter competitions or promotions offered through our website from time to time Edcon may also collect relevant personal information. Edcon will use such information to provide the services to you. Edcon may also use such information for its own internal purposes including –  
+4.3. In order to register for certain services or to enter competitions or promotions offered through our website from time to time Edcon may also collect relevant personal information. Edcon will use such information to provide the services to you. Edcon may also use such information for its own internal purposes including –  
 • establishing and verifying your identity;  
 • maintaining and updating our customer databases; and  
 • marketing, product research and development purposes.
