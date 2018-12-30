@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wallpaperfx.com privacy policy that was archived on 2017-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170118083605id_/https%3A//wallpaperfx.com/privacy_policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallpaperfx.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230234823id_/https%3A//wallpaperfx.com/privacy_policies) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Date of Last Revision: November 20, 2014
+Date of Last Revision: 16 February 2017
 
 WallpaperFX.com ("wallpaperfx" or "we" or "us" or "our") is one of the most popular wallpapers based website community. We enable our community of users to actively download, produce, promote and share original content such as wallpapers, icons.  
 We take your privacy seriously and are committed to protecting the information we collect. The following privacy policy is designed to let visitors to WallpaperFX, including but not limited to [www.wallpaperfx.com](http://www.wallpaperfx.com/) and m.wallpaperfx.com, (collectively, our "Websites") and users of the WallpaperFX mobile application (our "Mobile Apps") understand our privacy practices. 
@@ -49,8 +49,3 @@ We do not knowingly collect or store personally identifiable information from an
 ### 8\. PRIVACY POLICY CHANGES
 
 WallpaperFX may, in its sole discretion, change this Privacy Policy from time to time. Any and all changes to WallpaperFX’s Privacy Policy will be reflected here and the date new versions are posted will be stated at the top of this Privacy Policy.
-
-### CONTACT
-
-If you have any questions regarding our Privacy Policy, please contact our privacy officer at:  
-Email: contact@wallpaperfx.com
