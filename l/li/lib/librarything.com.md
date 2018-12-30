@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the librarything.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625155807id_/https%3A//www.librarything.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the librarything.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230083146id_/https%3A//www.librarything.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | LibraryThing
 
@@ -220,11 +220,13 @@ If you believe that your copyrighted work has been copied in a way that constitu
 
 
 
-The above information should be submitted to:
+The above information should be submitted to the following designated agent:
 
-> LibraryThing, Inc.  
+> Tim Spalding  
+>  LibraryThing, Inc.  
 >  Attn: DMCA Notice  
 >  286 Spring Street #2, Portland, ME 04102  
+>  Phone: 207-899-4108  
 >  Email: [infolibrarything.com](mailto:info@librarything.com)
 
 UNDER FEDERAL LAW, IF YOU KNOWINGLY MISREPRESENT THAT ONLINE MATERIAL IS INFRINGING, YOU MAY BE SUBJECT TO CRIMINAL PROSECUTION FOR PERJURY AND CIVIL PENALTIES, INCLUDING MONETARY DAMAGES, COURT COSTS, AND ATTORNEYS' FEES.
@@ -554,6 +556,6 @@ Added rule about couples and other family groupings not being considered organiz
   
 ---|---|---  
   
-[About](https://web.archive.org/about) | [Contact](https://web.archive.org/contact) | [Privacy/Terms](https://web.archive.org/privacy) | [Help/FAQs](https://wiki.librarything.com/index.php/Help_and_FAQ) | [Blog](https://web.archive.org/blog) | [Store](https://web.archive.org/more/store) | [APIs](https://web.archive.org/services/) | [TinyCat](https://www.librarycat.org/) | [Legacy Libraries](https://web.archive.org/legacylibraries) | [Early Reviewers](https://web.archive.org/er/list) | [Common Knowledge](https://web.archive.org/commonknowledge/) | [126,538,713 books!](https://web.archive.org/zeitgeist) | [Top bar: Always visible](https://web.archive.org/togglescrolling.php)
+[About](https://web.archive.org/about) | [Contact](https://web.archive.org/contact) | [Privacy/Terms](https://web.archive.org/privacy) | [Help/FAQs](https://wiki.librarything.com/index.php/Help_and_FAQ) | [Blog](https://web.archive.org/blog) | [Store](https://web.archive.org/more/store) | [APIs](https://web.archive.org/services/) | [TinyCat](https://www.librarycat.org/) | [Legacy Libraries](https://web.archive.org/legacylibraries) | [Early Reviewers](https://web.archive.org/er/list) | [Common Knowledge](https://web.archive.org/commonknowledge/) | [131,122,588 books!](https://web.archive.org/zeitgeist) | [Top bar: Always visible](https://web.archive.org/togglescrolling.php)
 
 Copyright LibraryThing and/or members of LibraryThing, authors, publishers, libraries, cover designers, Amazon, Bol, Bruna, etc. | static: /
