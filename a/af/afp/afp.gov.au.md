@@ -1,57 +1,150 @@
-> *The following text is extracted and transformed from the afp.gov.au privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624192428id_/https%3A//www.afp.gov.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afp.gov.au privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230145953id_/https%3A//www.afp.gov.au/about-us/privacy) for the most accurate reproduction.*
 
-# Privacy policy | Australian Federal Police
+# Privacy | Australian Federal Police
 
-We are concerned about protecting your privacy. This statement describes how we handle personal information, including:
+The Australian Federal Police is subject to the Australian Privacy Principles (APPs) at Schedule 1 of the _Privacy Act 1988_ (Cth) (Privacy Act).
 
-  * personal details
-  * e-mail addresses
-  * clickstream (site navigation) data
-  * cookies
+The AFP has a [Privacy Policy (PDF, 90KB)](https://web.archive.org/sites/default/files/PDF/afp-privacy-policy-001.pdf) that explains how the AFP complies with the Privacy Act and the APPs.
 
+## The purposes for which the AFP collects, holds, uses and discloses personal information
 
+The AFP collects, holds, uses and discloses personal information for purposes which are directly related to our functions or activities as set out in section 8 of the _Australian Federal Police Act 1979_ (Cth) (AFP Act) and the Ministerial Direction, and only when it is necessary or directly related to such purposes.
 
-## Personal details
+For a detailed explanation of these purposes refer to section 4 of the [AFP Privacy Policy (PDF, 90KB)](https://web.archive.org/sites/default/files/PDF/afp-privacy-policy-001.pdf).
 
-Some forms on this site can be used to send us personal information necessary for the submitting of reports and processing of certain applications. Your browser should show a lock in the address bar. When you submit such forms, the data is generally encrypted in a format which is virtually impossible for unauthorised parties to read. These secure forms will always have an address beginning https://forms.afp.gov.au/
+## Collection of personal information
 
-We will keep information which you send in a secure environment and will use it only for the purpose for which it was submitted.
+The AFP collects and holds a range of personal information in connection with our functions, including:
 
-If you do not wish to use an online form, you may download a hard copy from the site and post it to us.
-
-## Email addresses
-
-The Australian Federal Police will only record your email address if you send us a message. The address you supply will be used only for the purpose for which you have provided it, and will not be disclosed or added to a mailing list without your consent.
-
-You are reminded that, with the exception of encrypted forms as described above, messages sent from this site over the Internet are not secure. For further information on the Internet and security, you should read the [Disclaimer](https://web.archive.org/disclaimer).
-
-## Clickstream data
-
-When you go to a page or document on one of our websites, the following information may be logged for statistical purposes:
-
-  * the date and time at which you accessed each page or document;
-  * the Internet (IP) address of your computer;
-  * the pages you accessed, and documents downloaded;
-  * the type of browser and operating system used;
-  * the number of bytes transmitted and received for each request;
-  * the previous site or page visited;
-  * the name of any search engine and search terms used to get to the page or document; and
-  * anonymous cookie information.
+  * licensing records
+  * administrative records
+  * records that assist in the enforcement of the criminal law, preservation of peace, the prevention, detection and investigation of criminal incidents, the protection of life, safety and property
+  * investigation records
+  * intelligence records
+  * court records
+  * criminal records
+  * professional standards records
+  * traffic records
+  * illicit drug testing records
+  * records relating to forensic procedures
+  * personnel records
+  * coronial investigation records.
 
 
 
-No attempt will be made to identify users or their browsing activities except in the unlikely event of an investigation, where a law enforcement agency (or other government agency) may exercise a legal authority to inspect the service provider's logs.
+The AFP collects personal information from a variety of sources including:
 
-The statistics and log files may be preserved indefinitely and used at any time and in any way necessary to prevent security breaches and to ensure the integrity of the information supplied by the AFP.
+  * you or someone representing you
+  * a third party
+  * another APP entity
+  * a publicly available source
+  * a Commonwealth, state or territory security, intelligence or government agency
+  * a state or territory police force
+  * a foreign law enforcement, security, intelligence or government agency
+  * a court or tribunal
+  * a royal commission
+  * the Commonwealth, state or territory Director of Public Prosecutions.
 
-## Cookies
 
-We use anonymous "first party" cookies to better analyse user navigation trends and to provide additional information to our web analysis software.
 
-Cookies may also be used in forms-based transactions to correlate the pages of a single transaction.
+The AFP may also collect personal information or sensitive information about you by utilising legislative provisions.
 
-We do not use cookies to collect personal information, nor do we associate anonymous cookies with personal information.
+Detailed information about the type of personal information that the AFP collects is set out at section 5 of the [AFP Privacy Policy (PDF, 90KB)](https://web.archive.org/sites/default/files/PDF/afp-privacy-policy-001.pdf).
 
-## Further enquiries
+## Handling, storage and protection of personal information
 
-If you have enquiries regarding the privacy of this site, please contact the [AFP Online Services team](https://web.archive.org/help#contact).
+All records are handled and stored in accordance with the requirements of the _Archives Act 1983_ (Cth), AFP Records Authority issued by the National Archives and the Australian Government Protective Security Policy Framework.
+
+For further information on the handling and storage of personal information refer to sections 5(d) and (e) of the [AFP Privacy Policy (PDF, 90KB)](https://web.archive.org/sites/default/files/PDF/afp-privacy-policy-001.pdf).
+
+## Use and disclosure of personal information
+
+The AFP only uses and discloses personal information for:
+
+  * the purposes for which it was collected
+  * purposes permitted by legislation
+  * for purposes which are directly related to the AFP's functions as contained in the AFP Act and the Ministerial Direction
+  * in accordance with the provisions contained in section 60A of the AFP Act and the AFP Regulations.
+
+
+
+The AFP does not provide your personal information to other Australian or foreign law enforcement, intelligence, security or government agencies, organisations or individuals unless the disclosure is authorised by the AFP Act and the Privacy Act, or is otherwise required or authorised by law.
+
+### Disclosure of personal information overseas
+
+The AFP is authorised to cooperate with, and provide assistance to, foreign law enforcement, intelligence and security agencies in accordance with the AFP Act and the Ministerial Direction.
+
+The AFP may also disclose personal information overseas in accordance with legislation and a number of treaties.
+
+For more information on the use and disclosure of personal information refer to section 6 of the [AFP Privacy Policy (PDF, 90KB)](https://web.archive.org/sites/default/files/PDF/afp-privacy-policy-001.pdf).
+
+## Access to personal information
+
+You have a right to access your personal information under the Privacy Act. Requests for access will be permitted unless there is a sound reason under relevant Australian law to withhold the information.
+
+The AFP will respond in writing to your request within 30 days of receipt.
+
+Requests can be made in writing to:
+
+Post | 
+
+Privacy Officer  
+AFP Legal  
+Australian Federal Police  
+GPO Box 401  
+Canberra ACT 2601  
+  
+---|---  
+Email | [privacy@afp.gov.au](mailto:privacy@afp.gov.au)  
+  
+For further information on accessing personal information see section 7(a) of the [AFP Privacy Policy (PDF, 90KB)](https://web.archive.org/sites/default/files/PDF/afp-privacy-policy-001.pdf).
+
+## Correction of personal information
+
+You have the right to request a correction of your personal information under the Privacy Act. The AFP is required to make the corrections to your personal information if it is reasonable to do so.
+
+The AFP will respond in writing to your request within 30 days of receipt.
+
+Requests can be made in writing to:
+
+Post | 
+
+Privacy Officer  
+AFP Legal  
+Australian Federal Police  
+GPO Box 401  
+Canberra ACT 2601  
+  
+---|---  
+Email | [privacy@afp.gov.au](mailto:privacy@afp.gov.au)  
+  
+For additional information on correcting personal information refer to section 8 of the [AFP Privacy Policy (PDF, 90KB)](https://web.archive.org/sites/default/files/PDF/afp-privacy-policy-001.pdf).
+
+## Privacy complaints
+
+If you are unhappy with the way the AFP has handled your personal information you can lodge a complaint with the AFP's Privacy Officer.
+
+Privacy complaints may be investigated in cooperation with the AFP's Professional Standards area, depending upon the issues raised by the complaint.
+
+For more information on how the AFP handles privacy complaints refer to section 9 of the [AFP Privacy Policy (PDF, 90KB)](https://web.archive.org/sites/default/files/PDF/afp-privacy-policy-001.pdf).
+
+How to contact the AFP's Privacy Contact Officer:
+
+Telephone | (02) 6131 6131  
+---|---  
+Post | Privacy Officer  
+AFP Legal  
+GPO Box 401  
+Canberra ACT 2601  
+Email | [privacy@afp.gov.au](mailto:privacy@afp.gov.au)  
+  
+You may also refer your complaint to the Office of the Australian Information Commissioner.
+
+Telephone | 1300 363 992  
+---|---  
+TTY | 1800 620 241  
+Post | Office of the Australian Information Commissioner  
+GPO Box 5218  
+Sydney NSW 2001  
+Facsimile | +61 2 9284 9666  
+Website | [www.oaic.gov.au](http://www.oaic.gov.au/)
