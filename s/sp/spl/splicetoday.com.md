@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the splicetoday.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624135144id_/https%3A//www.splicetoday.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the splicetoday.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230132531id_/https%3A//www.splicetoday.com/privacy) for the most accurate reproduction.*
 
 # Splice Today | www.splicetoday.com
 
@@ -44,7 +44,7 @@ Only employees who need personal information to perform a specific job (for exam
 
 ###  **What Information Can I Access?**
 
-You can access your personal information on our website and send an email to [Zach Kaufmann](mailto:zkauf1@gmail.com)to correct, amend, or delete information that is inaccurate. 
+You can access your personal information on our website and send an email to [Nicky Smith](mailto:fullmetalfox@gmail.com)to correct, amend, or delete information that is inaccurate. 
 
 ###  **What Choices Do I Have?**
 
@@ -52,7 +52,7 @@ As stated previously, you can always opt not to disclose information, but then y
 
 You are able to add or update certain information on pages, such as those listed in the "What Personal Information About Users Does SpliceToday Collect?" section above. When you update information, however, we often maintain a copy of the unrevised information in our records. 
 
-You may request deletion of your SpliceToday account by sending an email to [Zach Kaufmann](mailto:zkauf1@gmail.com). This removes all of your past SpliceToday usage from public view. 
+You may request deletion of your SpliceToday account by sending an email to [Nicky Smith](mailto:fullmetalfox@gmail.com). This removes all of your past SpliceToday usage from public view. 
 
 As explained earlier, the "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. Please note, however, that if your browser does not accept cookies, you will not be able to take advantage of some of our attractive features. 
 
