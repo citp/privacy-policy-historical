@@ -1,90 +1,337 @@
-> *The following text is extracted and transformed from the swiftype.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210234645id_/https%3A//swiftype.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swiftype.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230064707id_/https%3A//www.elastic.co/legal/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Policy | Swiftype
+# Elastic Privacy Statement | Elastic
 
-Welcome to Swiftype.com, the online service of Swiftype, Inc. (“Swiftype,” “we,” or “us”). Our Privacy Policy explains how we collect, use, disclose, and protect information that applies to our Service, and your choices about the collection and use of your information. 
+Effective Date: May 18, 2018 
 
-  1. How We Collect and Use Information
-  2. Sharing of Your Information
-  3. How We Store and Protect Your Information
-  4. Your Choices about Your Information
-  5. Children’s Privacy
-  6. Links to Other Websites and Services
-  7. How to Contact Us
-  8. Changes to Our Privacy Policy
+Elastic welcomes your interest in our company, products, and services. This document is our "Privacy Statement." It applies to Elasticsearch, Inc., our subsidiaries and affiliated companies, as well as all Elastic-owned and operated websites, domains, services, applications, and products (collectively, "Site", "Elastic", "We", "Our", or "Us"). 
+
+This Privacy Statement informs you of our privacy practices and the choices you can make about the way we collect and use information about you, including information that may be collected from your online activity, use of our products and services, and provided to us for purposes of recruitment or employment consideration. 
+
+## Use and Purpose of Collected Personal Data
+
+The term "Personal Data" means information relating to an identified or identifiable natural person. That is, someone who can be directly or indirectly identified. This may include your full name, physical address, email address, telephone number, IP address, or any other personal information that, alone or in combination with other information, enables contact with you physically or online. 
+
+## When We Collect Personal Data
+
+We collect Personal Data that you knowingly and voluntarily provide when you: 
+
+  * Interact with our websites;
+  * Register for any of our services;
+  * Submit requests, suggestions, or other communications to us;
+  * Choose to share usage information regarding Elastic products and services with Elastic
 
 
 
-## 1\. How We Collect and Use Information
+## What Data We Collect
 
-Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Service](https://web.archive.org/terms). 
+We collect information that is directly provided by you, collected automatically, and gathered from third parties. 
 
-We collect the following types of information about you: 
+### Information Directly Provided by You
 
-> **Information you provide us directly:** We ask for certain information such as your username, first and last name, company name, address, phone number and e-mail address when you register for a Swiftype account, or if you correspond with us. We may also retain any messages you send through the Service, and may collect information you provide in Your Content you post to the Service. We use this information to operate, maintain, and provide to you the features and functionality of the Service. 
-> 
-> **Analytics information:** We may directly collect analytics data, or use third-party analytics tools, to help us measure traffic and usage trends for the Service. These tools collect information sent by your browser, including the pages you visit and other information that assists us in improving the Service. We collect and use this analytics information in aggregate form such that it cannot reasonably be manipulated to identify any particular individual user. 
-> 
-> **Cookies information:** When you visit the Service, we may send one or more cookies — a small text file containing a string of alphanumeric characters — to your computer that uniquely identifies your browser and lets Swiftype help you log in faster and enhance your navigation through the site. A cookie may also convey information to us about how you use the Service (e.g., the pages you view, the links you click and other actions you take on the Service), and allow us or our business partners to track your usage of the Service over time. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser’s directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled. 
-> 
-> **Log file information:** Log file information is automatically reported by your browser each time you access the Service. When you use our Service, our servers automatically record certain log file information. These server logs may include anonymous information such as your web request, Internet Protocol (“IP”) address, browser type, referring / exit pages and URLs, number of clicks and how you interact with links on the Service, domain names, landing pages, pages viewed, and other such information. 
-> 
-> **Clear gifs/web beacons information:** When you use the Service, we may employ clear gifs (also known as web beacons) which are used to anonymously track the online usage patterns of our Users. In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened and which links are clicked by recipients. The information is allows for more accurate reporting and improvement of the Service. 
-> 
-> **Device identifiers:** When you access the Service by or through a mobile device (including but not limited to smart-phones or tablets), we may access, collect, monitor and/or remotely store one or more “device identifiers,” such as a universally unique identifier (“UUID”). Device identifiers are small data files or similar data structures stored on or associated with your mobile device, which uniquely identify your mobile device. A device identifier may be data stored in connection with the device hardware, data stored in connection with the device’s operating system or other software, or data sent to the device by Swiftype. A device identifier may convey information to us about how you browse and use the Service. A device identifier may remain persistently on your device, to help you log in faster and enhance your navigation through the Service. Some features of the Service may not function properly if use or availability of device identifiers is impaired or disabled. 
-> 
-> **Commercial and marketing communications:** We use the information we collect or receive to communicate directly with you. We may send you emails containing newsletters, promotions and special offers. If you do not want to receive such email messages, you will be given the option to opt out or change your preferences. We also use your information to send you Service-related emails (e.g., account verification, purchase and billing confirmations and reminders, changes/updates to features of the Service, technical and security notices). You may not opt out of Service-related e-mails. 
-> 
-> **Use of certain service type information we collect about you:** We use or may use cookies, log file, device identifiers and clear gifs information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) provide custom, personalized content and information; (c) to provide and monitor the effectiveness of our Service; (d) monitor aggregate metrics such as total number of visitors, traffic, and demographic patterns; (e) diagnose or fix technology problems; (f) to help you efficiently access your information after you sign in; and (g) to provide advertising to your browser or device. 
+  * Contact Data – We may collect contact data including your first name, last name, mailing address, telephone number, fax number, email address, your favorite superhero, and other similar contact information.
+  * Payment Data – We collect data necessary for processing payments and fraud prevention, including credit/debit card numbers, security code numbers and other related billing information.
+  * Account Data – We collect anything related to the account you create, this may include information such as your username, how you purchased or signed up for Elastic products and services, or events, your transaction, billing, and support history.
+  * Location Data – We may collect geolocation data when you enable location-based services or when you choose to provide location-related information during product, service, or event registration. 
+  * Security Credentials Data – We collect user IDs, passwords, password hints, and similar security information required for authentication and access to Elastic accounts. 
+  * Demographic Data – We may collect certain demographic data including country, gender, age, preferred language, general educational and employment background, and general job interest data.
+  * Preferences – We collect information about your preferences and interests as they relate to our products, services (both when you tell us what they are or when we deduce them from what we know about you) and how you prefer to receive communications from us.
+  * Social Media Data – We may provide social media features that enable you to share information with your social networks and to interact with us on various social media sites. Your use of these features may result in the collection or sharing of information about you, depending on the feature. We encourage you to review the privacy policies and settings on the social media sites you use to make sure you understand the information that may be collected, used, and shared by those sites.
+  * Other Unique Identifying Information – Examples of other unique information that we may collect from you include information you provide when you interact in-person, online or by phone or postal mail with our service centers, help desks or other customer support channels, events, meetups and conferences, your responses to customer surveys or contests, or additional information you have provided to us to facilitate delivery of website content, services and to respond to your inquiries.
 
-## 2\. Sharing of Your Information
 
-We will not rent or sell your information into third parties outside Swiftype and its group companies (including any parent, subsidiaries and affiliates) without your consent, except as noted below: 
 
-> **Who we may share your information with:** We may share your information with third-party business partners for the purpose of providing the Service to you. Those business partners will be given limited access to your information as is reasonably necessary to deliver the Service, and we will require that such third parties comply with this Privacy Policy. 
-> 
-> **What happens in the event of a change of control:** We may buy or sell/divest/transfer the Swiftype (including any shares in the Swiftype), or any combination of its products, services, assets and/or businesses. Your information such as customer names and email addresses, Your Content and other user information related to the Service may be among the items sold or otherwise transferred in these types of transactions. We may also sell, assign or otherwise transfer such information in the course of corporate divestitures, mergers, acquisitions, bankruptcies, dissolutions, reorganizations, liquidations, similar transactions or proceedings involving all or a portion of the Swiftype. 
-> 
-> **Instances where we are required to share your information:** Swiftype will disclose your information where required to do so by law or subpoena or if we reasonably believe that such action is necessary to (a) comply with the law and the reasonable requests of law enforcement; (b) to enforce our [Terms of Service](https://web.archive.org/terms) or to protect the security or integrity of our Service; and/or (c) to exercise or protect the rights, property, or personal safety of Swiftype, our Users or others. 
-> 
-> **Sharing certain service type information we collect about you:** We may share certain service type information, including information obtained through tools such as cookies, log files, device identifiers and clear gifs (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.): (i) with our third-party business partners for the purposes described in the section above on “ **How We Collect and Use Information.** ” We may also aggregate or otherwise strip data of all personally identifying characteristics and may share that aggregated, anonymized data with third parties. 
-> 
-> **Ads on Swiftype:** We may also share certain information such as your location, browser and cookie data and other data relating to your use of our Service with our business partners to deliver advertisements (“ads”) that may be of interest to you. Swiftype may allow third-party ad servers or ad networks to serve advertisements on the Service. These third-party ad servers or ad networks use technology to send, directly to your browser or mobile device, the ads and ad links that appear on the Service, and will automatically receive your IP address when they do so. They may also use other technologies (such as cookies, JavaScript, device identifiers, location data, and clear gifs, see above) to compile information about your browser’s or device’s visits and usage patterns on the Service, and to measure the effectiveness of their ads and to personalize the advertising content. Swiftype does not sell, rent, or share the information we collect directly from you or about you from third parties with these third-party ad servers or ad networks for such parties’ own marketing purposes. 
-> 
-> Please note that an advertiser may ask Swiftype to show an ad to a certain audience of Users (e.g., based on demographics or other interests). In that situation, Swiftype determines the target audience and Swiftype serves the advertising to that audience and only provides anonymous aggregated data to the advertiser. If you respond to such an ad, the advertiser or ad server may conclude that you fit the description of the audience they are trying to reach. 
-> 
-> The Swiftype Privacy Policy does not apply to, and we cannot control the activities of, third-party advertisers. Please consult the respective privacy policies of such advertisers or contact such advertisers for more information. 
+### Information Collected Automatically
 
-## 3\. How We Store and Protect Your Information
+We use technology integrated into our websites, products, and services that you can choose to enable to provide us with automated data collection. Such information may include: 
 
-**Storage and Processing:** Your information collected through the Service may be stored and processed in the United States or any other country in which Swiftype or its subsidiaries, affiliates or service providers maintain facilities. Swiftype may transfer information that we collect about you, including personal information, to affiliated entities, or to other third parties across borders and from your country or jurisdiction to other countries or jurisdictions around the world. If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that we may transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, and you consent to the transfer of information to the U.S. or any other country in which Swiftype or its parent, subsidiaries, affiliates or service providers maintain facilities and the use and disclosure of information about you as described in this Privacy Policy. 
+  * Product Usage Data - If you elect to send product usage information, also known as telemetry information, we collect details as described in our [Telemetry Privacy Statement Supplement](https://web.archive.org/legal/telemetry-privacy-statement)
+  * Elastic Cloud Usage Data - When you use an Elastic Cloud trial or subscription account, we collect information about your use of the Elastic Cloud service, as described in our [Telemetry Privacy Statement Supplement](https://web.archive.org/legal/telemetry-privacy-statement)
+  * Demonstration Usage Data - If you interact with our demonstration systems at https://demo.elastic.co, we collect detailed information about your interaction with the demo system as described in our [Telemetry Privacy Statement Supplement](https://web.archive.org/legal/telemetry-privacy-statement)
+  * Device Data - Data collected from Google Analytics may provide us with information regarding your device type (mobile, tablet, desktop/laptop, etc.), operating system, and type of browser. This helps us prioritize support for popular configurations.
+  * Application Data - We may collect data regarding key performance metrics of Elastic applications in order to understand if there are issues.
+  * Website Browsing Data – We collect information about your visits and activity on our Elastic websites, including the content (and any ads) that you view and interact with, the address of the website from which you were referred and other clickstream behavior (such as the pages you view, the links you click or which items you've added to your shopping cart). Some of this information is collected using our Automatic Data Collection Tools which include cookies, web beacons and embedded web links. To learn more, please read the Cookies and Website Automatic Data Collection section in this Privacy Statement.
 
-**Keeping your information safe:** Swiftype cares about the security of your information, and uses commercially reasonable safeguards to preserve the integrity and security of all information collected through the Service. To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications from Swiftype, at all times. However, Swiftype cannot ensure or warrant the security of any information you transmit to Swiftype or guarantee that information on the Service may not be accessed, disclosed, altered, or destroyed. Your privacy settings may also be affected by changes to the functionality of third party sites and services that you add to the Swiftype Service, such as social networks. Swiftype is not responsible for the functionality or security measures of any third party. 
 
-**Compromise of information:** In the event that any information under our control is compromised as a result of a breach of security, Swiftype will take reasonable steps to investigate the situation and where appropriate, notify those individuals whose information may have been compromised and take other steps, in accordance with any applicable laws and regulations. 
 
-## 4\. Your Choices About Your Information
+### Information Collected from Third-Party Sources
 
-**You control your account information and settings:** You may update your account information and email-communication preferences at any time by logging into your account and changing your profile settings. You can also stop receiving promotional email communications from us by clicking on the “unsubscribe link” provided in such communications. We make every effort to promptly process all unsubscribe requests. As noted above, you may not opt out of Service-related communications (e.g., account verification, purchase and billing confirmations and reminders, changes/updates to features of the Service, technical and security notices). If you have any questions about reviewing or modifying your account information, you can contact us directly at [support@swiftype.com](mailto:support@swiftype.com). 
+We may also acquire data from third-party sources that we deem to be credible and that are either publicly-available, or available on a commercial basis. Such information may include: 
 
-**Opting out of collection of your information for Tracking / Advertising:** Please refer to your browser’s technical information for instructions on how to delete and disable cookies, and other tracking/recording tools. Depending on your type of device, it may not be possible to delete or disable tracking mechanisms on your mobile device. Note that disabling cookies and/or other tracking tools prevents Swiftype or its business partners from tracking your browser’s activities in relation to the Service, and for use in targeted advertising activities by third parties. However, doing so may disable many of the features available through the Service. If you have any questions about opting out of the collection of cookies and other tracking/recording tools, you can contact us directly at [support@swiftype.com](mailto:support@swiftype.com). 
+  * Personal data - We may collect Personal Data such as your name, address, email address, preferences, interests, and certain demographic data. For example, Personal Data may be collected when you access our applications through social media logins (e.g., logging in to our applications using your Facebook or other social media credentials). The details we receive may depend on your social media account privacy settings.
+  * Business contact data - In order to provide some of our products and services at an enterprise level, your business contact data may be provided to us by a designated entity within your business or enterprise (such as a member of your IT department). Where necessary, we may also use information provided by you or your employer, together with information from publicly-available and other online and offline sources, to conduct due diligence checks on business contacts as part of our anti-corruption and export control compliance programs.
+  * Combined data - In order to ensure data accuracy and offer personalized services, content, marketing and ads, we may link or combine the information that we collect from the different sources outlined above. For example, we may compare the geographic information acquired from commercial sources with the IP address collected by our Automatic Data Collection Tools (see Cookies and Website Automatic Data Collection) to derive your general geographic area. Information may also be linked via a unique identifier such as a cookie or account number.
 
-**How long we keep Your Content:** Following termination or deactivation of your User account, Swiftype may retain your profile information and Your Content for a commercially reasonable time for backup, archival, or audit purposes. 
 
-## 5\. Children's Privacy
 
-Swiftype does not knowingly collect or solicit any information from anyone under the age of 13 or knowingly allow such persons to register as Users. The Service and its content are not directed at children under the age of 13. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [support@swiftype.com](mailto:support@swiftype.com). 
+### Other Information We Collect
 
-## 6\. Links to Other Websites and Services
+We may also collect information and data you choose to provide that is not Personal Data, such as your occupation, affiliated companies, and general location. Additionally, we may collect technical information relating to your mobile phone, mobile device or computer and the way you interact with the Site, such as your IP address, browser type, and aggregate user data. This information is used to identify your internet browser, store your user preferences, authenticate user sessions, provide services, and determine whether you have installed the software necessary to access certain material or applications on the Site. 
 
-We are not responsible for the practices employed by websites or services linked to or from the Service, including the information or content contained therein. Please remember that when you use a link to go from the Service to another website, our Privacy Policy does not apply to third-party websites or services. Your browsing and interaction on any third-party website or service, including those that have a link or advertisement on our website, are subject to that third party’s own rules and policies. In addition, you agree that we are not responsible and we do not control over any third-parties that you authorize to access Your Content. If you are using a third-party website or service (like Facebook) and you allow such a third-party access to Your Content you do so at your own risk. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources other than through the Service. 
+## How We Use Personal Data
 
-## 7\. How to Contact us
+We use your Personal Data for the following purposes: 
 
-If you have any questions about this Privacy Policy or the Service, please contact us at [support@swiftype.com](mailto:support@swiftype.com). 
+### Transaction Processing and Account Administration
 
-## 8\. Changes to Our Privacy Policy
+To process transactions and orders of our products or services (including payment processing), to provide troubleshooting or consulting for our products or services, and for account administration. 
 
-Swiftype may modify or update this Privacy Policy from time to time to reflect the changes in our business and practices, and so you should review this page periodically. When we change the policy in a material manner we will let you know and update the ‘last modified’ date at the bottom of this page. 
+### Managing Your Customer Experience
 
-This privacy policy was last modified on March 11, 2013. 
+To maintain accurate contact and registration data, deliver customer support, and to offer products, services, and features that may interest you. We also use your data to deliver personalized communications and create recommendations based on your use of Elastic products, services, features, and your visits on our websites. 
+
+### Advertising
+
+To provide personalized advertising to you in accordance with your privacy preferences settings. We might also share some of your information with marketing service providers and digital marketing networks to present advertisements that might interest you. This may involve the use of Automatic Data Collection Tools. To learn more about how Elastic uses Automated Data Collection Tools and which ones, please see our Cookies and Website Automatic Data Collection section of this document. 
+
+### Administrative Communications
+
+To answer questions or to provide information, support, or advice about existing and new products or services. 
+
+### Business Operations
+
+To conduct ordinary business operations, e.g., recruiting, conducting business research and analytics, corporate reporting and management, staff training and quality assurance purposes (which may include monitoring or recording calls to our customer support team) and outreach. 
+
+### Research & Innovation
+
+To develop new products, features, and services using research and development tools, and incorporating data analysis activities. 
+
+### Security
+
+To maintain the integrity and security of our websites, products and services and preventing and detecting security threats, fraud, or other criminal or malicious activity that might compromise your information or the information of other customers and/or website visitors. 
+
+### Compliance with Law
+
+We collect and store data as required to be compliant with applicable laws, regulations, court orders, government, and law enforcement requests. 
+
+## Third Parties With Whom We Share Your Data
+
+### Sharing with Elastic Affiliated Entities
+
+We may transfer your Personal Data to other Elastic entities within the US or worldwide for the purposes outlined in this Privacy Statement. To ensure that your Personal Data is private, Elastic entities are contractually bound to comply with our privacy requirements. For the transfer of Personal Data to Elastic entities outside of the European Union, we have agreed on respective EU Model Clauses between the Elastic entities. Furthermore, our privacy guidelines are communicated to our employees on an annual basis as part of our mandatory security and privacy awareness training. By accessing our websites, registering a product or for services, creating an account, or otherwise providing us with your Personal Data, you consent to the transfer of your Personal Data throughout the global Elastic network of entities on the basis of the international restrictions stated above. 
+
+### Sharing Data with Third Party Service Providers
+
+We will not provide your Personal Data to third party advertisers without your permission, except as provided in this privacy statement. We will not share Personal Data with third parties that would directly contact you without your explicit consent to be contacted by a partner. However, we may provide information and data that is not Personal Data, to our third party providers for any purpose including primarily customizing and targeting advertising messages. 
+
+We work with external service providers to plan, manage and/or support certain aspects of our business operations on our behalf. 
+
+These service providers may be located in the US or in other global locations and may provide services such as credit card processing, customer support, advertising and marketing activities (including digital and personalized advertising), email service, or data hosting. Our service providers are required by contract to safeguard any Personal Data they receive from us and are prohibited from using the Personal Data for any purpose other than to perform the services as instructed by Elastic. 
+
+Examples of our third party service providers and the use of your data: 
+
+  * Google Analytics - We use Google Analytics to understand visitor trends, page popularity, geographic distribution of interest, time on pages, or issues with our site. We use this data to understand how to invest in regions based on demand. For more information about Google Analytics, see <https://policies.google.com/privacy?hl=en> and for more information about how Google uses data when you use a Google partner's sites or apps, see [www.google.com/policies/privacy/partners/](https://policies.google.com/technologies/partner-sites)
+  * Clearbit - In an effort to reduce the amount of information we require users to enter when registering for content or trials on our Site, we use Clearbit to enrich information. For example, many forms only ask for an email address. We securely pass the email address to Clearbit to provide us additional information that may include social identification (like Twitter handle), first and last name as well as organizational affiliation.
+  * Kickfire - Used to identify organizations (not individuals) visiting our site. We leverage this information to determine regional investments in our support, website, sales, and marketing investments.
+  * Facebook - We service a growing community of over 75,000 global followers on Facebook and use the platform to inform this community of new content available. We use a Facebook cookie to match audiences and enable us to ensure we can deliver paid (and unpaid) advertising to our Facebook Elastic followers and additional audiences that we think would be interested in the content.
+  * Google AdWords - We use Adwords to deliver advertising through Google's network of advertising sites.
+  * LinkedIn - We serve a community of over 30,000 global followers on LinkedIn. We share content with this community, and use matching techniques to provide advertising on LinkedIn. The matching techniques include the use of a cookie we execute on our websites and may include email matching (which is only used for Elastic advertising).
+
+
+
+### Sharing Data with Third Parties Who May Collect Information
+
+The following third parties may collect information through the Site, but, except as set forth above, such information shall not include Personal Data unless you post or publish such Personal Data in areas of the Site accessible to other users or the public: 
+
+  * third parties that help facilitate the Site may, from time to time, collect information through the Site in the course of providing support;
+  * we may share Site information with partners for marketing purposes;
+  * third parties may collect other information that you voluntarily post or publish through the Site in any way; and/or
+  * web-crawlers such as Google or Yahoo may collect information through the Site.
+
+
+
+The Site may contain links or references to other websites, including third party advertisers and other unaffiliated websites. We are not responsible for the privacy policies of those websites or of advertisers on the Site, and you should read the privacy policies of each website you visit. 
+
+### Sharing Financial Information
+
+Elastic uses third party payment processors to process payments made to us. In connection with the processing of such payments, we do not retain any personally identifiable information or any financial information such as credit card numbers. Rather, all such information is provided directly to our third party processors. These third party processors currently include Wirecard. Chase Paymentech, and Recurly, and their privacy policies may be viewed at: 
+
+  * Wirecard: <http://www.wirecard.com/privacy-protection/>;
+  * Chase Paymentech: <http://www.chasepaymentech.com/privacypolicy/>;
+  * Recurly: <https://recurly.com/security> and <https://recurly.com/legal/privacy>.
+
+
+
+### Sharing Data for Other Reasons
+
+#### Corporate transactions
+
+Circumstances may arise where, whether for strategic or other business reasons, Elastic decides to sell, buy, merge or otherwise reorganize its businesses. In such transactions, we may disclose or transfer your Personal Data to prospective or actual purchasers, or receive your Personal Data from sellers. Our practice is to seek appropriate protection for your Personal Data in these types of transactions. 
+
+#### Compliance with law
+
+We may also share your Personal Data when we believe, in good faith, that we have an obligation to: (i) respond to duly authorized information requests of law enforcement agencies, regulators, courts, and other public authorities, including to meet national security or other law enforcement requirements; (ii) comply with any law, regulation, subpoena, or court order; (iii) investigate and help prevent security threats, fraud or other criminal or malicious activity; (iv) enforce/protect the rights and properties of Elastic and/or our affiliates; or (v) protect the rights or personal safety of Elastic's and our affiliates' employees, and third parties on or using Elastic property when allowed and in line with the requirements of applicable law. 
+
+### Online Advertising and Tracking
+
+Elastic engages with third-party advertising networks on the Site. Ad networks may include third-party ad servers, ad agencies, ad technology vendors and research firms. We are not responsible for the privacy practices of these third parties, and we encourage you to read their privacy policies, which may apply to these third-party programs. Ad networks allow us to target our advertising to users through demographic, behavioral and contextual means. After you visit our websites, these ad networks may continue to track your online activities over time across third-party websites or online services by collecting information through automated means, including through the use of cookies, identifiers, web server logs, web beacons and other methods. 
+
+Because there is not yet a consensus on how companies should respond to web browser-based or other do-not-track ("DNT") mechanisms, we do not respond to web browser-based DNT signals at this time. 
+
+### How We Keep Your Data Secure
+
+To prevent unauthorized access or disclosure, and to ensure the appropriate use of your information, we utilize reasonable and appropriate physical, technical, and administrative procedures to safeguard the information we collect and process. We retain the data only as required or permitted by law, and while the data continues to have a legitimate business purpose. 
+
+## Cookies and Website Automatic Data Collection
+
+We use and allow certain other companies to use cookies, web beacons and other similar technologies (collectively "Automatic Data Collection Tools") on our website and in the marketing, sale and delivery of our products and services. We do this to understand your use of our website and our products and services and to improve your user experience and to enable personalized features and content, optimize our advertisements and marketing, and to enable third-party advertising companies to assist us in serving ads specific to your interests across the internet. 
+
+For information regarding advertising opt-out and cookie choices, please see Third Party Advertising Cookies and Social Media Cookies below. 
+
+### Our Use of Cookies
+
+Cookies are text files containing small amounts of information which are stored on your device when you visit a site. The entity that places cookies on your browser can then read the information on that cookie that it set. We categorize cookies as follows: 
+
+  * **Necessary cookies** \- These cookies are essential for our websites and their features to work properly, and for us to properly provide services that depend on our websites and these features. (e.g., to remember cookie permission settings, session logins, etc.)
+  * **Convenience cookies** \- These enable us to improve the usability and performance of our websites and services that depend on our websites. (e.g., to remember selection of region and country to redirect visitors to localized websites, or for altering or suggesting content that matches navigation patterns.)
+  * **Statistics cookies** \- Used to collect information about how you navigate to and from our websites and how you use our website. The collection of this information is carried out as anonymous access measurements. Statistics cookies may be classified as either session cookies or persistent cookies. Session cookies expire when you close your browser session. Persistent cookies may remain on your system for an extended period of time.
+  * **Targeting/Retargeting cookies** \- Used by our advertising services to provide you with Elastic-relevant advertising content.
+ 
+
+### Third Party Advertising Cookies and Social Media Cookies
+
+We use third party cookies on our websites, which will then be stored on your device (unless you opt-out) to allow them to show you advertisements that may be relevant and useful to you. We may use remarketing tags (e.g., Facebook, Outbrain, Google, LinkedIn) that align with these third party cookies to deliver advertisements about products that you have browsed on our site when you are on third party websites. However, the remarketing tags that we use do not include any information that directly identifies you. We would note, however, that these advertisers and other third parties (including ad networks, ad-serving companies, and other service providers they may use) may correlate the remarketing tag to their own third party cookies, and infer the user ID of users who interact with or click on a personalized ad or content. 
+
+Cookies may also be used when you share information using a social media feature on our website or with services made available via our website. The social media network may record your activities which may be linked to targeted advertising. The types of cookies used by these third parties and how they use the information generated by them will be governed by those companies' privacy policies. 
+
+You can find out more about some of our social media, interest-based advertising partners and opt-out mechanism by visiting these websites: 
+
+    * Google Opt-out page - [https://adssettings.google.com](https://adssettings.google.com/)
+    * Facebook Opt-out page - <https://www.facebook.com/help/568137493302217>
+    * LinkedIn Opt-out page - <https://www.linkedin.com/help/linkedin/answer/62931/manage-advertising-preferences>
+
+If you do not want to allow cookies at all, or only want to allow use of certain cookies, please refer to your browser settings. You can also use your browser settings to withdraw your consent to our use of cookies at any time, and delete cookies that have already been set. Your browser help menu contains information about the process of opting out on different browsers. 
+
+Note that by disabling certain categories of cookies, you may be prevented from accessing some features of our sites, and certain content or functionality may not be available. 
+
+If you are in the EU and would like to opt out of third party cookies relating to interest-based advertising, please go to [www.youronlinechoices.eu](http://www.youronlinechoices.eu/). 
+
+In the US and Canada, we comply with the Digital Advertising Alliance industry standards with respect to interest based advertising. To learn more about your advertising choices if you are in the US, please [click here](http://www.aboutads.info/choices) or in Canada please [click here](http://www.youradchoices.ca/). 
+
+In the US, the Network Advertising Initiative also offers a means to opt out of a number of advertising cookies. Please visit [www.networkadvertising.org](http://www.networkadvertising.org/) to learn more. Note that opting out does not mean that you will no longer receive online advertising. It does mean that the company or companies from which you opted out will no longer deliver ads tailored to your web preferences and usage patterns. 
+
+### Examples of Cookies in Use on Elastic Websites
+
+**Name:** Cookie Acceptance cookie-accepted  
+**Category:** Necessary  
+**Type:** Permanent. This cookie will be stored until you change your cookie settings.  
+**Purpose:** Allows you to continue using/navigating the website(s) by accepting our cookie policy. 
+
+**Names:** Marketo (Form Consent and site activity tracking), Google Optimize (content testing and optimization)  
+**Category:** convenience  
+**Type:** Permanent. These cookies will be stored until you change your cookie settings.  
+**Purpose:** Remembers your consent to opt-in and/or the use of cookies for this website for features that do not require re-authentication or more additional information to view additional content. Provides site activity tracking used to infer interest and relevant content to share through our site and additional channels such as email and advertising. Enables us to test and optimize content that users will find more valuable and engage with. For more information about Marketo, see <https://www.marketo.com/company/trust/>. For more information about Google Optimize, see <https://policies.google.com/privacy?hl=en>. 
+
+**Name:** AirPR  
+**Category:** Convenience  
+**Type:** Statistics (Social Media and News Activity Tracking)  
+**Purpose:** This enables Elastic to understand the origins of traffic that comes to our website. For example, if users follow a link from a Tweet or a news article about our company or products. 
+
+**Names:** Google Analytics, Kickfire  
+**Category:** Statistics  
+**Type:** Permanent. These cookies will be stored for 3 years max. or until you change your cookie settings.  
+**Purpose:** Enables us to understand geographic demand, determine site effectiveness, and identify issues on our site. Helps us identify organizations engaging with our website(s) so that we can determine how and where we invest to support growing demand for our products and services. 
+
+**Names:** Facebook, Google AdWords, LinkedIn, Stack Overflow, Outbrain  
+**Category:** Advertising retargeting  
+**Type:** Permanent. These cookies will be stored for 3 years max. or until you change your cookie settings.  
+**Purpose:** Enables us to provide Elastic-relevant content in advertising to you from third party sites and provides us with analytics on site visitors' organizations and trends. 
+
+## Other Automatic Data Collection Tools
+
+### Web Beacons
+
+We may use and permit select third parties to use web beacons (usually in combination with cookies) to compile information about your website usage and your interaction with email or other communications, to measure performance and to provide content and ads that are more relevant to you. 
+
+A web beacon (also known as a web bug or clear GIFs) is typically a transparent graphic image (usually 1 pixel x 1 pixel) that can be embedded in online content, pictures, videos, and emails, and can allow a server to read certain types of information from your device, know when you have viewed particular content or a particular email message, determine the date and time when you viewed the beacon, and the IP address of your device. For instance, we may include web beacons on our websites, and in our promotional email messages or newsletters to determine whether our messages have been opened or acted upon and whether our mailing tools are working correctly. 
+
+Because web beacons are the same as any other content request initiated in a web page, you cannot opt out or refuse them. However, you may be able to disable web beacons in email messages by not downloading images contained in messages you receive (this feature varies depending on the email software used on your personal computer). However, doing this may not always disable a web beacon or other Automatic Data Collection Tools in the email message due to specific email software capabilities. For more information, refer to the details provided by your email software or service provider. Web beacons may also be rendered ineffective in some circumstances by opting out of cookies or amending your cookie settings in your browser. 
+
+### Embedded Web Links
+
+Emails from us often use links designed to lead you to a relevant area on the web, after redirection through our servers. The redirection system allows us to change the destination URL of these links, if necessary, and to determine the effectiveness of our communications and marketing initiatives. In emails, such web links may also allow us to determine whether you have clicked a link in an email, and information about this interaction may be connected to your personal identity. 
+
+If you do not want us to collect information about the links that you click, you can: 
+
+    * Change your choice about how you receive communications from us (i.e., choose a text-based version of the message where available) or choose not to click links in emails that we send.
+    * Choose privacy settings in your browser and email client that will restrict this information.
+
+## Your Rights
+
+At your request, we will: (i) inform you of what personal information we have on file for you; (ii) amend or correct the personal information that we have on file for you or any previous privacy preferences that you have selected; and/or (iii) erase personal information that you have provided to us, or that we have collected. You may do so by contacting us via email at [privacy@elastic.co](mailto:privacy@elastic.co); provided, however, that we ask individuals to identify themselves and the information requested to be accessed, corrected or erased before processing such requests, and, to the extent permitted by applicable law, we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes). 
+
+For information regarding advertising opt-out and cookie choices, please see Third Party Advertising Cookies and Social Media Cookies above. 
+
+If you ask us to erase your Personal Data from our records, we will use commercially reasonable efforts to do so while retaining any record necessary to comply with a governmental authority or applicable federal, state, or local law. 
+
+### Your California Privacy Rights
+
+If you are a resident of the State of California and would like to opt-out from the disclosure of your personal information to any third-party for marketing purposes, please email us at: [privacy@elastic.co](mailto:privacy@elastic.co); call us at +1.650.458.2620; or send your request via postal mail to: 
+
+Elasticsearch, Inc.  
+800 W. El Camino Real, Suite 350   
+Mountain View, CA 94040 USA 
+
+Please be advised that where California State residents opt-out from permitting their personal information to be shared, such individuals may still receive selected offers directly from us, in accordance with applicable law. 
+
+### Your European Union Privacy Rights under GDPR
+
+If you are an EU person and would like to exercise your GDPR privacy rights, such as your right to access, amendment, correction, or erasure of Personal Data, please email us at: [privacy@elastic.co](mailto:privacy@elastic.co); call us at +1.650.458.2620; or send your request via postal mail to: 
+
+    1. Elasticsearch, Inc.  
+Attn: Privacy Team  
+800 W. El Camino Real, Suite 350   
+Mountain View, CA 94040 USA
+
+Or 
+
+    1. Elasticsearch B.V.  
+Attn: Privacy Team  
+Rijnsburgstraat 11  
+1059 AT Amsterdam  
+The Netherlands
+
+## Your Privacy Preferences
+
+You have the option of subscribing to communications from us. You can change your choices at the data collection point, or by using other methods, described below. Please note that these options do not apply to communications primarily for the purpose of administering order completion, contracts, support, updates, or other administrative and transactional notices, where the primary purpose of these communications is not promotional in nature. 
+
+### Subscription Communications and General Communications
+
+Elastic subscription communications include email newsletters, software updates, maintenance notifications, etc. that may be expressly requested by you or which you consented to receive. 
+
+After you consent to such communications, you may opt out of receiving them by using one of the following methods: 
+
+    * Select the email's "Opt out" or "Unsubscribe" link and follow the instructions included in each email subscription communication.
+    * To unsubscribe from messages delivered to mobile devices, reply to the message with the words "STOP" or "END."
+    * Visit <https://www.elastic.co/unsubscribe> and follow the instructions.
+    * Contact our Data Protection Officer at [daniela.duda@elastic.co](mailto:daniela.duda@elastic.co). Please be sure to provide your name, contact information, and specific relevant information about the Elastic subscriptions or marketing that you no longer wish to receive.
+
+Please note that unsubscribing from one email list does not automatically unsubscribe you from any other email list that you may be on. Please read the email carefully to find out which list you are unsubscribing from. To unsubscribe from all Elastic email lists, please [click here](https://web.archive.org/unsubscribe). 
+
+## Contact Us
+
+If you have any questions or concerns about our Privacy Statement, our collection and use of your data or a possible breach of local privacy laws, you can contact us via email to [privacy@elastic.co](mailto:privacy@elastic.co) or write to us at the appropriate address below: 
+
+Elasticsearch, Inc.  
+Attn: Privacy Team  
+800 El Camino Real, Suite 350  
+Mountain View, CA 94040  
+United States of America 
+
+Elasticsearch B.V.  
+Attn: Privacy Team  
+Rijnsburgstraat 11  
+1059 AT Amsterdam  
+The Netherlands 
+
+All communications will be treated confidentially and we will also take reasonable steps to verify your identity, such as requiring a password and user ID or confirming personal information, in order to validate any requests, questions or concerns. Upon receipt of your communication, our representative will respond to you within a reasonable time to address your requests, questions or concerns and ensure that they are resolved in a timely and appropriate manner. 
+
+You can also contact our Data Protection Officer (DPO): 
+
+Daniela Duda, DPO  
+[daniela.duda@elastic.co](mailto:daniela.duda@elastic.co)
+
+If we are unable to resolve your concerns, you have the right to contact your local data privacy supervisory authority or seek a remedy through the courts if you believe your requests to exercise your rights have not been honored. 
+
+
+
