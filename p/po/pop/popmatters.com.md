@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popmatters.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627052045id_/https%3A//www.popmatters.com/63082-privacy-policy-2496121214.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popmatters.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231001221id_/https%3A//www.popmatters.com/63082-privacy-policy-2496121214.html) for the most accurate reproduction.*
 
 # Privacy Policy - PopMatters
 
