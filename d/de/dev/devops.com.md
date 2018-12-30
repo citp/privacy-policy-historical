@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the devops.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624220501id_/https%3A//devops.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devops.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230212411id_/https%3A//devops.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DevOps.com
 
@@ -6,7 +6,7 @@
 
 **Scope**
 
-This Privacy Policy covers information which you give us, Meidaops, Inc. d/b/a DEVOPS.COM (“DevOps.com” or “we”), about yourself and your professional background as you register for or attend our face-to-face events around the world, visit or participate in any of our web sites or online venues hosted on servers in the United States or volunteer information in any social media context. We will post or display a link to this DEVOPS.COM Privacy Policy on all forms and all online pages to which it is applicable.
+This Privacy Policy covers information which you give us, MediaOps, Inc. d/b/a DEVOPS.COM (“DevOps.com” or “we”), about yourself and your professional background as you register for or attend our face-to-face events around the world, visit or participate in any of our web sites or online venues hosted on servers in the United States or volunteer information in any social media context. We will post or display a link to this DEVOPS.COM Privacy Policy on all forms and all online pages to which it is applicable.
 
 Our business includes creating opportunities for you to connect with other companies either by accessing information and resources online or at face to face events. When we work with other companies to build co-branded web sites, virtual events, sponsored webinars, or in any way that allows you to connect directly with that other company, we will include a link to the other company’s Privacy Policy if possible. Our Policy will govern our collection and use of information about you. In any case. We recommend that you find and read the other company’s policy as well to learn how that company will treat the information about you.
 
