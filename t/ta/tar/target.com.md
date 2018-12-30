@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the target.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614101055id_/https%3A//www.target.com/c/target-privacy-policy/-/N-4sr7p) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the target.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230192635id_/https%3A//www.target.com/c/target-privacy-policy/-/N-4sr7p) for the most accurate reproduction.*
 
 # Target Privacy Policy : Target
 
