@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ugliesttattoos.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629230257id_/http%3A//finetailored.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ugliesttattoos.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230223752id_/http%3A//finetailored.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fine Tailored
 
