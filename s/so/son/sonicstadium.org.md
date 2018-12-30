@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sonicstadium.org privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624090748id_/https%3A//www.sonicstadium.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonicstadium.org privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230084245id_/https%3A//www.sonicstadium.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – The Sonic Stadium
 
@@ -7,6 +7,8 @@ We take your personal data and privacy very seriously at The Sonic Stadium. This
 This Privacy Policy may change from time to time – whenever it does, we will ask for you to re-read and agree to the Policy. By agreeing and continuing to browse The Sonic Stadium, you agree to be bound by this Policy.
 
 The Privacy Policy on this page applies to your use of The Sonic Stadium website only. We have a separate Privacy Policy in place for users of the SSMB (Sonic Stadium Message Board), [which you can read here](https://board.sonicstadium.org/privacy/).
+
+_This Privacy Policy was last updated 26 July 2018, where we added a paragraph relating to ‘Social Media Shares’ under ‘Additional Information’._
 
 ## **Who We Are**
 
@@ -89,3 +91,7 @@ The Sonic Stadium is a participant in the Amazon EU, US, Canada, China and Japan
 We have similar arrangements with the following organisations: eBay, Play-Asia, CDJapan, Forbidden Planet, and various other companies through Digital Window and TradeDoubler.
 
 Affiliate Advertising is currently disabled, effective May 25 2018, while we revise and investigate the data gathering implications. We will update this Privacy Policy when we are comfortable to re-instate whilst safeguarding your data.
+
+**SOCIAL MEDIA SHARE COUNTS**
+
+This website contains a plugin called MashShare, which allows visitors to share interesting posts they find on The Sonic Stadium with their friends and followers on various social media networks. Part of this plugin involves tracking the total number of shares for each individual post – this information is gathered by a third party service called SharedCount ([privacy policy can be found here](https://www.sharedcount.com/docs/privacy.php)), and is not collected or stored by The Sonic Stadium. SharedCount gathers its data from user activity on the following social networks: [Facebook](http://www.facebook.com/), [Pinterest](http://www.pinterest.com/), [StumbleUpon](https://www.stumbleupon.com/). Please refer to the privacy policies and data sharing agreements of these social media platforms to amend or request further information.
