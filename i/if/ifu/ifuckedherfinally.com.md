@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ifuckedherfinally.com privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611233834id_/http%3A//www.longbucks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifuckedherfinally.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230132110id_/http%3A//1passforallsites.com/privacy.html) for the most accurate reproduction.*
 
 # PRIVACY
 
@@ -6,7 +6,7 @@
 
 Last Modified: May 23, 2018
 
-This privacy policy discloses the privacy practices for IKMedia S.R.O. IKMedia S.R.O.operates longbucks.com, 1passforallsites.com, oldgoesyoung.com, trickyoldteacher.com, 18virginsex.com, amourbabes.com, bumsinaction.com, creampiedsweeties.com, daddiesanddarlings.com, dirtyass2mouth.com, dirtydaddysgirls.com, dirtyhomevids.tv, domywifeslut.com, drilledmouths.com, friskybabysitters.com, hornyinhospital.com, hornythieftales.com, ifuckedherfinally.com, lovelyteenland.com, milfsonsticks.com, mommiesdobunnies.com, oldyounganal.com, shabbyvirgins.com, spoiledvirgins.com, straponservice.com, wildyounghoneys.com, younganaltryouts.com, youngandbanged.com, youngcumgulpers.com, younglesbiansportal.com, youngmodelscasting.com, YoungPornHomeVideo.com. This privacy policy applies solely to information collected by this web sites. It will notify уou of the following: 
+This privacy policy discloses the privacy practices for IKMedia S.R.O. IKMedia S.R.O.operates longbucks.com, 1passforallsites.com, oldgoesyoung.com, trickyoldteacher.com, 18virginsex.com, amourbabes.com, bumsinaction.com, creampiedsweeties.com, daddiesanddarlings.com, dirtyass2mouth.com, dirtydaddysgirls.com, domywifeslut.com, drilledmouths.com, friskybabysitters.com, hornyinhospital.com, hornythieftales.com, ifuckedherfinally.com, lovelyteenland.com, milfsonsticks.com, mommiesdobunnies.com, oldyounganal.com, shabbyvirgins.com, spoiledvirgins.com, straponservice.com, wildyounghoneys.com, younganaltryouts.com, youngandbanged.com, youngcumgulpers.com, younglesbiansportal.com, youngmodelscasting.com, YoungPornHomeVideo.com. This privacy policy applies solely to information collected by this web sites. It will notify уou of the following: 
 
   1. What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared. 
 
@@ -77,7 +77,7 @@ While we use encryption to protect sensitive information transmitted online, we 
 
 Our Privacy Policy may change from time to time and all updates will be posted on this page.
 
-If you feel that we are not abiding by this privacy policy, you should contact us immediately via email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you feel that we are not abiding by this privacy policy, you should contact us immediately via email support@supportservice24h.com
 
 **Registration**
 
