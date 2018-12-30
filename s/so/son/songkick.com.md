@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the songkick.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617183037id_/https%3A//www.songkick.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the songkick.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230093016id_/https%3A//www.songkick.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Songkick
 
