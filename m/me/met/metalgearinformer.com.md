@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metalgearinformer.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624174424id_/http%3A//www.metalgearinformer.com/%3Fpage_id%3D2779) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metalgearinformer.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230170840id_/http%3A//www.metalgearinformer.com/%3Fpage_id%3D2779) for the most accurate reproduction.*
 
 # Privacy Policy – Metal Gear Informer
 
