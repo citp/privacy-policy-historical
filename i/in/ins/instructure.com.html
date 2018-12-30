@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the instructure.com privacy policy that was archived on 2018-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180607064758id_/https%3A//www.instructure.com/policies/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the instructure.com privacy policy that was archived on 2018-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181230191419id_/https%3A//www.instructure.com/policies/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head><meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 
@@ -29,10 +29,25 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
     ga('create', 'UA-9138420-5', 'auto');
+
+		// get the current url of the user for marketo
+	function setCurrentUrl() {
+		setTimeout(function () {
+			var lastFormSubUrl = window.location.href;
+			$("form").each(function() {
+			 // console.log("current url = "+ lastFormSubUrl);
+			 $("#"+$(this).attr('id')+" input[name='Last_Form_Submit_Page_URL__c']").val(lastFormSubUrl);
+			});
+		}, 5000);
+	}
+	setCurrentUrl();
+
+
 </script>
 
 
-<script type="text/javascript" src="//cdn.bizible.com/scripts/bizible.js" async=""></script>	<link rel="stylesheet" href="/css/min/styles.css?v=2.1">
+<script type="text/javascript" src="//cdn.bizible.com/scripts/bizible.js" async=""></script>
+	<link rel="stylesheet" href="/css/min/styles.css?v=2.1">
 </head>
 <body>
 	<!-- Google Tag Manager -->
@@ -190,7 +205,7 @@ $("#gdprAccept").click(function(){
 });
 
 if (sessionStorage.euUnion != "true" && localStorage.euUnion != "true") {
-  var madMax = {"continent":{"code":"NA","geoname_id":6255149,"names":{"de":"Nordamerika","en":"North America","es":"Norteamérica","fr":"Amérique du Nord","ja":"北アメリカ","pt-BR":"América do Norte","ru":"Северная Америка","zh-CN":"北美洲"}},"country":{"iso_code":"US","geoname_id":6252001,"names":{"zh-CN":"美国","de":"USA","en":"United States","es":"Estados Unidos","fr":"États-Unis","ja":"アメリカ合衆国","pt-BR":"Estados Unidos","ru":"США"}},"maxmind":{"queries_remaining":2634992},"registered_country":{"iso_code":"US","geoname_id":6252001,"names":{"en":"United States","es":"Estados Unidos","fr":"États-Unis","ja":"アメリカ合衆国","pt-BR":"Estados Unidos","ru":"США","zh-CN":"美国","de":"USA"}},"traits":{"ip_address":"207.241.225.227"}};
+  var madMax = {"continent":{"code":"EU","geoname_id":6255148,"names":{"ru":"Европа","zh-CN":"欧洲","de":"Europa","en":"Europe","es":"Europa","fr":"Europe","ja":"ヨーロッパ","pt-BR":"Europa"}},"country":{"is_in_european_union":true,"iso_code":"FI","geoname_id":660013,"names":{"ja":"フィンランド共和国","pt-BR":"Finlândia","ru":"Финляндия","zh-CN":"芬兰","de":"Finnland","en":"Finland","es":"Finlandia","fr":"Finlande"}},"maxmind":{"queries_remaining":5679482},"registered_country":{"is_in_european_union":true,"iso_code":"FI","geoname_id":660013,"names":{"ru":"Финляндия","zh-CN":"芬兰","de":"Finnland","en":"Finland","es":"Finlandia","fr":"Finlande","ja":"フィンランド共和国","pt-BR":"Finlândia"}},"traits":{"ip_address":"95.216.163.80"}};
   if (madMax.error) {
     console.log("Huston we have a problem");
     console.log("EEEEEEEUUUUUUU force");
@@ -219,13 +234,13 @@ if (sessionStorage.euUnion != "true" && localStorage.euUnion != "true") {
     }
   }
 }else {
-  console.log("gdpr accepted or doesn't apply");
+  // console.log("gdpr accepted or doesn't apply");
 }
 </script>
 	<nav id="main-nav-d">
 		<div class="group2">
 			<a href="/">
-				<img id="main-nav-l" class="home-nav" src="/img/logo-light.svg">
+				<img id="main-nav-l" class="home-nav" src="/img/logo-light.svg" alt="Instructure Logo">
 			</a>
 			<span id="navD">
 				<a id="canvas-link-nav" href="https://www.canvaslms.com/?lead_source_description=instructure.com_" target="_blank" class="canvas">Canvas</a>
@@ -275,18 +290,18 @@ if (sessionStorage.euUnion != "true" && localStorage.euUnion != "true") {
 				<div class="newsbox1Ctext1 h1BM force000"><strong>“Cookies”</strong> are small pieces of information that a website sends to your computer’s hard drive while you are viewing a website. We may use both session cookies (which expire once you close your web browser) and persistent cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on our Site. </div>
 				<div class="newsbox1Ctext1 h1BM force000"><strong>“Web beacons”</strong> are digital images we use to log information on our Site and in our emails. We use web beacons to manage cookies, count visits, and to learn what marketing works and what does not. We also use web beacons to tell if you open or act on our emails. </div>
 				<div class="newsbox1Ctext1 h1BM force000"><strong>“Flash Cookies”</strong> are used to store your preferences such as volume control or to display content based upon what you view on our websites to personalize your visit. Third party partners who provide certain features on our websites, such as videos, may place Flash cookies on your device. They may use Flash cookies to track your Web browsing activity and to display personalized advertising. Flash cookies are different from other cookies because of the amount of, type of, and way in which data is stored. Cookie management tools provided by your browser usually will not remove Flash cookies. To learn more about Flash cookies, who has placed Flash cookies on your device, and how to manage privacy and storage settings for Flash cookies click here: <a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118" target="_blank">http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118</a>.  We do not control the privacy practices of the third parties who place or track Flash cookies and this privacy policy does not cover their practices. You should visit the privacy policies of companies who place Flash cookies to understand their practices.</div>
+				<div class="newsbox1Ctext1 h1BM force000">Most web browsers are set to accept cookies by default. If you prefer, you can typically remove and reject cookies from our Site with your browser settings. If you remove or reject our cookies, it will affect how our Site and Services work for you. </div>
 				<div class="newsbox1Ctext1 h1BM force000"><strong>Analytics.</strong> We use analytics services to help analyze how users use the Site and Apps. These services use cookies and scripts to collect and store information such as how users interact with our Apps, errors users encounter when using our apps, device identifiers, how often users visit the Site, what pages they visit, and what other sites they used prior to coming to the Site. We use the information we get from Google Analytics only to improve our Site, our Apps, and our Services. Please see the following links for more information about Google Analytics: <a href="http://www.google.com/privacy_ads.html" target="_blank">http://www.google.com/privacy_ads.html</a>, <a href="http://www.google.com/privacy.html" target="_blank">http://www.google.com/privacy.html</a>, and <a href="http://www.google.com/analytics/tos.html" target="_blank">http://www.google.com/analytics/tos.html</a>. We do not tie the information gathered using third party analytics to your personally identifiable information.</div>
 				<div class="newsbox1Ctext1 h1BM force000"><strong>Blogs/Forums.</strong> </div>
 				<div class="newsbox1Ctext1 h1BM force000">Our Site and Apps offer a publicly accessible blog and community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. Anytime you post on our blog please be aware that you may be posting using a third party application and we have no access or control over this information. Our privacy policy does not cover the practices of these third parties.  Your interaction with these third party applications is governed by the privacy policy of the company providing it.</div>
 				<div class="newsbox1Ctext1 h1BM force000"><strong>Testimonials.</strong> </div>
 				<div class="newsbox1Ctext1 h1BM force000">We display personal testimonials of satisfied customers on our Site in addition to other endorsements.  With your consent we may post your testimonial along with your name.  If you wish to update or delete your testimonial, you can contact us at <a href="mailto:privacy@instructure.com" target="_blank">privacy@instructure.com</a>.  </div>
 				<div class="newsbox1Ctext1 h1BM force000"><strong>Use of Your Data.</strong></div>
-				<div class="newsbox1Ctext1 h1BM force000">In general, personal information you submit to us is used either to respond to requests that you make, or to aid us in serving you better. Instructure uses your personal information in the following ways: to create and maintain your account; to identify you as a user in our system; to operate, maintain, and improve our Site, Apps, and Services; to personalize and improve your experience; to send you administrative e-mail; to respond to your comments or inquiries; to send you surveys, promotional communications about our products and services or the products and services of third parties (<strong>“Partners”</strong>); to protect, investigate, and deter against fraudulent, unauthorized, or illegal activity; and to make telephone calls to you, from time to time, as a part of secondary fraud protection or to solicit your feedback with your permission.</div>
+				<div class="newsbox1Ctext1 h1BM force000">In general, personal information you submit to us is used either to respond to requests that you make, or to aid us in serving you better. Instructure uses your personal information in the following ways: to create and maintain your account; to identify you as a user in our system; to operate, maintain, and improve our Site, Apps, and Services; to personalize and improve your experience; to send you administrative e-mail; to respond to your comments or inquiries; to protect, investigate, and deter against fraudulent, unauthorized, or illegal activity; and to make telephone calls to you, from time to time, as a part of secondary fraud protection or to solicit your feedback with your permission.</div>
 				<div class="newsbox1Ctext1 h1BM force000"><strong>Disclosure of Your Personal Information.</strong></div>
 				<div class="newsbox1Ctext1 h1BM force000">We will share your personal information with third parties only in the ways that are described in this privacy policy or with your consent. </div>
 				<div class="newsbox1Ctext1 h1BM force000"><strong>Affiliates.</strong> Although we currently do not have a parent company, any subsidiaries, joint ventures, or other companies under a common control (collectively, <strong>“Affiliates”</strong>), we may in the future. We may share some or all of your information with these Affiliates, in which case we will require our Affiliates to honor this Privacy Policy. </div>
 				<div class="newsbox1Ctext1 h1BM force000"><strong>Third Party Service Providers.</strong> We may share your personal information with third party service providers for the sole purpose of providing you with the Services that we offer you through our Site. For example, we may share data with service providers who host our websites or provide email services on our behalf.</div>
-				<div class="newsbox1Ctext1 h1BM force000"><strong>Partners.</strong> We may also share your personal information with our Partners. Our Partners may use your personal information for their own direct marketing purposes. </div>
 				<div class="newsbox1Ctext1 h1BM force000"><strong>Other Disclosures.</strong> Instructure may disclose information about you if it believes such disclosure is necessary to (a) comply with laws or to respond to lawful requests and legal process; or (b) protect or defend the rights, safety, or property of Instructure, users of the Services, or any person including to enforce our agreements, policies, and terms of use or (c) in an emergency to protect the personal safety of any person.  </div>
 				<div class="newsbox1Ctext1 h1BM force000">We may also share information about you in connection with or during negotiation of any merger, financing, acquisition, bankruptcy, dissolution, transaction or proceeding involving sale, transfer, divestiture or disclosure of all or a portion of our business or assets to another company. In the event that information is shared in this manner, notice will be posted on our Site.</div>
 				<div class="newsbox1Ctext1 h1BM force000">We may also share de-identified and/or aggregated data with others for their own uses.</div>
@@ -296,9 +311,6 @@ if (sessionStorage.euUnion != "true" && localStorage.euUnion != "true") {
 				<div class="newsbox1Ctext1 h1BM force000">We may allow you to connect and share information with certain social networking platforms (<strong>“Social Networking Platforms”</strong>) (e.g., a Facebook application). By choosing to use these Social Networking Platforms, you allow Instructure to share information with the Social Networking Platform. For example, you might use an application to publish Instructure related notices on your Facebook wall. If you do not want us to continue to provide your information to the Social Networking Platform, you may change your privacy settings in the Social Networking Platform. </div>
 				<div class="newsbox1Ctext1 h1BM force000">You can also access certain features of our Site using Social Networking Platforms. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name, email address, and other personal information to pre-populate an application.  </div>
 				<div class="newsbox1Ctext1 h1BM force000">We do not control the privacy practices of the Social Networking Platforms and sign-in services you choose to use and this privacy policy does not cover their practices, you should visit the privacy policies of any Social Networking Platform or sign-in service you choose to use to understand their practices.</div>
-				<div class="newsbox1Ctext1 h1BM force000"><strong>Your Choices Regarding Your Personal Information</strong></div>
-				<div class="newsbox1Ctext1 h1BM force000"><strong>Choices.</strong> We offer you choices regarding the collection, use, and sharing of your personal information. When you receive newsletters or promotional communications from us, you may “opt-out” by following the unsubscribe instructions provided in e-mails you receive from us or by contacting us directly at the contact information below. </div>
-				<div class="newsbox1Ctext1 h1BM force000">Most web browsers are set to accept cookies by default. If you prefer, you can typically remove and reject cookies from our Site with your browser settings. If you remove or reject our cookies, it will affect how our Site and Services work for you. </div>
 				<div class="newsbox1Ctext1 h1BM force000"><strong>Changes to Personal Information.</strong> You may change some of your personal information in your account by editing your profile within the Service. You may also request changes or deletions by e-mailing us at the e-mail address set forth below. We will respond to your request, when permitted by law, within 30 days. We may be unable to delete information that resides in our archives. </div>
 				<div class="newsbox1Ctext1 h1BM force000"><strong>Security of Your Personal Information</strong></div>
 				<div class="newsbox1Ctext1 h1BM force000">Instructure takes reasonable steps to help protect your personal information in an effort to prevent unauthorized access, use, or disclosure.  Despite these measures, you should know that Instructure cannot fully eliminate security risks associated with personal information. No method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security. Any content you post while using the Services is at your own risk. If you have any questions about security on our Site or Apps, you can contact us at the contact information set forth below.</div>
@@ -333,6 +345,9 @@ if (sessionStorage.euUnion != "true" && localStorage.euUnion != "true") {
 			</div></a>
 			<a id="investors" href="https://ir.instructure.com/?lead_source_description=instructure.com_"><div class="footer-text-1">
 				INVESTORS
+			</div></a>
+			<a id="partners" href="https://partners.instructure.com/"><div class="footer-text-1">
+				PARTNERS
 			</div></a>
 			<div class="footer-text-2">
 				CONTACT<br>
