@@ -1,100 +1,118 @@
-> *The following text is extracted and transformed from the sugarinstant.com privacy policy that was archived on 2012-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120314200414id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sugarinstant.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230151144id_/https%3A//www.sugarinstant.com/help/cs_privacypolicy.html) for the most accurate reproduction.*
 
-# Legal Agreement
+# SugarInstant.com - Porn on your Roku, PC, Mac, Playstation & iOS
 
-**Go Daddy Respects Your Privacy**
+Your privacy is important to Ravana, LLC. ("SugarInstant"). We realize that visiting SugarInstant (the "Website") requires trust on your part. We value your trust very highly and pledge to you, our customer, that we will work to protect the security and privacy of your personal information. 
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+We believe that you have a right to know the personal information that we collect from you, why we collect it and how we use the information. This Privacy Policy covers how we collect, use, disclose, store and protect your personal information.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+#### Read More About:
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+  * Personal Information Collected
+  * Use Of Personal Information
+  * With Whom We Share Your Personal Information
+  * How You Can Control The Use Of Your Personal Information
+  * How You Can Decide What Marketing Communication You Receive From Us
+  * How We Protect The Security Of Your Personal Information
+  * Changes To The Privacy Policy
+  * How To Contact SugarInstant 
 
-**Information Collection and Use**
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
-
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
-
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
-
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
-
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
-
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
-
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
-
-**Security**
-
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
-
-**Updating Your Information**
-
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
-
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
-
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
-
-      iii.      You may call us at: (480) 505-8800
-
-       iv.      You may fax us at: (480) 505-8844
-
-**Sending Emails**
-
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
-
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
-
-**Compliance with Laws and Law Enforcement**
-
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
-
-**Third Party Service Providers**
-
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
 
 * * *
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+## 1\. Personal information collected
+
+We collect personal information that you choose to provide voluntarily when using the Website. This information includes your name, email address and a password when you create your SugarInstant Account. While you can browse our online store without opening an account, you will need to create an account in order to make purchases and take advantage of certain features. We may also ask for personal information when you contact [Customer Service](https://web.archive.org/help/home.html). This will allow us to protect your confidentiality by verifying your identity. 
+
+The Website contains sexually-oriented adult material and they are not intended for individuals under 18 years of age. SugarInstant does not knowingly collect personally identifiable information from individuals under 18 years of age who visit the Website. If a person under 18 years of age has provided SugarInstant with personally identifiable information, we ask that a parent or guardian immediately contact [Customer Service for assistance](https://web.archive.org/help/home.html). 
+
+### Purchase Information
+
+When you make a purchase using a credit card, we collect your name and billing address for the card, the card type, number, and expiration date. We collect this information in order to verify your billing address. We also collect information that allows us to ship your purchase and keep you informed of the status of your order. This includes your email address and the name, address, and telephone number of the intended recipient(s). Billing information may also be provided over the phone by contacting our [Customer Service department](https://web.archive.org/help/home.html). 
+
+If you created an account, you can choose to save your billing information for one or more credit cards in "Your Account". You may change or delete this saved information anytime. Simply go to Your Account, log-in with your username and password and edit whatever personal information you wish. 
+
+### Cookies and other computer information
+
+When you visit the Website, you will be assigned a "cookie" (a small, unique identifier text file) to be stored on your computer's hard drive. The purpose of the cookie is to identify you when you visit the Website so that we can enhance and customize your online shopping experience. 
+
+You can choose to shop on the Website without cookies, but without these identifier files you will not be able to take advantage of certain features of our site. These features include remembering your password (so you don't have to log in each time you visit), storing your Order for later use and, in the future, providing a more personalized shopping experience. To shop without cookies, you can configure your browser to reject all cookies or notify you when a cookie is set. (Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.) 
+
+We also collect certain technical information from your computer each time you visit a page on the Website. This information may include your Internet Protocol (IP) address, your computer's operating system, browser type and the address of a referring website, if any. We collect this information to enhance the quality of your experience during your visit to our site. 
+
+We have turned on Google Analytics Demographics and Interest Reporting to get an idea of our demographics and users' interests. You can opt-out of the Google Analytics Advertising Features we use through Ads Settings, Ad Settings for mobile apps, or any other available means (for example, the NAI's consumer opt-out at [http://www.networkadvertising.org/choices/ ](http://www.networkadvertising.org/choices/) ). You may also opt out by using this link: <https://tools.google.com/dlpage/gaoptout/>
+
+* * *
+
+## 2\. Use of your personal information
+
+Information we collect on the Website may be used to enhance your shopping experience in the following ways:
+
+  * Deliver merchandise that you purchase online
+  * Register you as a member of SugarInstant
+  * Bill your credit card for your purchases
+  * Confirm your shopping orders
+  * Respond to your customer service inquiries or requests
+  * Notify you about sales and specials, as well as offers that compliment your shopping experience, unless you choose to opt-out of such communications
+  * Mail you a SugarInstant catalog and other promotional materials
+  * Find and stock the products you want
+  * Customize your shopping experience
+
+
+
+* * *
+
+## 3\. With whom we share your personal information
+
+We never sell or rent your email address to unaffiliated companies. We may use your email address and mailing address to send you messages about Your Account and to send you promotional materials that describe new items, sales, specials and other offers that we think will be of interest to you. If you would like to opt-out of receiving these emails and promotional materials from SugarInstant or its affiliates, please click on Your Account, log-in, and follow the instructions outlined in the Notification Options section. 
+
+We also do not sell other personal customer information to unaffiliated third-parties. We will share personal customer information that we collect only with SugarInstant affiliates, agents, representatives and trusted service providers for the limited purposes of fulfilling customer orders; offering certain products and services in connection with the Website; offering products or services which we believe you may be interested; communicating to customers; providing customer service; enhancing and improving the customer shopping experience; and providing a personalized shopping experience and completing credit card transactions. We may use or share with our strategic partners and affiliates, aggregated demographic and statistical information. This information is not linked to any personal information that can identify any individual person. SugarInstant may assign or transfer any or all of your personal information to the relevant third-party in the event of a reorganization, merger, or sale of the assets of SugarInstant. 
+
+Aside from the purposes described above, we may also disclose your personal information in special circumstances if required to do so by law, court order or other governmental authority or when we believe in good faith that disclosing this information is otherwise necessary or advisable, including, for instance, to identify, contact, or bring legal action against someone who may be causing injury to or interfering with the rights or property of SugarInstant, another user or anyone else that could be harmed by such activities. 
+
+* * *
+
+## 4\. How you can control the use of your personal information
+
+Creating a SugarInstant account lets us provide a better shopping experience for you and allows you to make purchases more conveniently without having to re-enter your payment and shipping information each time you make a purchase on our site. Although you must create an account in order to purchase SugarInstant products, it is not necessary to open an account to visit our site. 
+
+As an existing customer, you can modify your personal information anytime. Simply go to [Your Account](https://web.archive.org/Account/AccountHomePage) then click "Contact Information" and edit whatever information you wish. To have your personal information deleted, contact our Customer Service Department by telephone at 1-724-772-6030 for further details. 
+
+Do not share your password with anyone. Other than requested on the Website, SugarInstant will never ask you for your password. 
+
+* * *
+
+## 5\. How you can decide what marketing communication you receive from us
+
+We may periodically send you email messages describing new items, sales, specials and other offers that we think will be of interest to you. If you would like to opt-out of receiving these emails from SugarInstant please click on [Your Account](https://web.archive.org/Account/AccountHomePage) click on "Notification Options" and remove the check in the box next to the "Sales & Specials" notification option. You can also opt-out of receiving these messages by clicking the "Unsubscribe" link in the email message itself. 
+
+The only email messages you will receive from SugarInstant when you elect not to receive informational emails will be to confirm any purchases you make on our site, let you know your order has been shipped, respond to your Help Desk inquiries and to answer any other questions you may have about our site. We may also need to send operational emails to inform you of any changes to our site that might affect your personal information, or to announce product recalls. 
+
+* * *
+
+## 6\. How we protect the security of your personal information
+
+The security of your personal information is very important to us. In our efforts to protect your online transactions, we use a technology called Secure Sockets Layer (SSL). If your browser is capable of SSL (and most are), your personal information will be automatically encrypted, or encoded, before it is sent over the Internet. 
+
+SugarInstant has also obtained a digital certificate from DigiCert®, a leading provider of Internet trust services. When you enter a secure portion of our site (which is any page containing any of your personal information), an image of a closed lock or a solid key should appear in the bottom bar of your browser window. If you click on this image, a small pop-up window displaying site-security information will appear. This certificate guarantees that your personal information is being transmitted in secure (encrypted) form to a SugarInstant Web server, not to some unknown or unauthorized server. 
+
+Ultimately, your personal information is protected by the password that you entered when you created a SugarInstant account (or another password you chose after changing a previous password). Please keep this password confidential. The confidentiality of your password is your responsibility to protect. You may change it anytime by going to [Your Account](https://web.archive.org/Account/AccountHomePage), then click "Change Password" and enter a new password. 
+
+* * *
+
+## 7\. Changes to the Privacy Policy
+
+We reserve the right to change, modify or amend this Privacy Policy at any time, without prior notice, and we encourage you to check this Privacy Policy periodically for any changes. You are responsible for regularly reviewing this Privacy Policy and your continued use of the Website constitutes your agreement as to all such updated or modified Privacy Policies. By using or visiting the Website, you acknowledge that you have read, understand and agree to be bound by this Privacy Policy. If you do not agree to the terms of this policy, then do not use or visit the Website. 
+
+* * *
+
+## 8\. How to contact SugarInstant
+
+If you have comments or questions regarding our privacy policy, please contact Customer Service. We will address any issue to the best of our abilities. 
+
+Thank you for your support of our policies. 
+
+* * *
+
+Last updated: April 10, 2013 
