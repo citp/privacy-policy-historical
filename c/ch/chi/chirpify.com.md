@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chirpify.com privacy policy that was archived on 2018-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180115134342id_/https%3A//www.chirpify.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chirpify.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230224502id_/http%3A//www.chirpify.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Chirpify
+# Privacy - Chirpify
 
 ## Chirpify Privacy Policy
 
