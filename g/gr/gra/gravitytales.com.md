@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gravitytales.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529210014id_/http%3A//gravitytales.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gravitytales.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230021221id_/http%3A//gravitytales.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Gravity Tales
 
@@ -62,8 +62,13 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. Privacy policy created by [PrivacyPolicies.com](http://privacypolicies.com/)
 
+**Opting Out**
+
+**You can opt out via NAI or DAA using the below links.  
+**
+
 **Contacting us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at gravitytales@gmail.com.
 
 This document was last updated on June 15th, 2016
