@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ghanasoccernet.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625154654id_/https%3A//ghanasoccernet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ghanasoccernet.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230214948id_/https%3A//ghanasoccernet.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - GhanaSoccernet
+# Privacy Policy - Ghanasoccernet News
 
 We at Ghana Sports Data Services, incorporating Ghanasoccernet website, strongly believe in protecting the confidentiality and security of information we collect about individuals. The material below describes our privacy policy and describes how we treat the information we receive about you if you interact with any of our sites.
 
