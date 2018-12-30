@@ -1,156 +1,153 @@
-> *The following text is extracted and transformed from the mtvasia.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624144358id_/http%3A//www.mtvasia.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtvasia.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230102042id_/http%3A//www.mtvasia.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MTV Asia
 
-### **MTV Asia Website Privacy Policy**
+**MTV ASIA PRIVACY POLICY**
 
-####  **Last Modified: 11 September 2013**
+At MTV Asia, we are committed to protecting and respecting your privacy. To ensure that you can make informed decisions and feel confident about sharing certain personal information with us, this Privacy Policy explains when and why we collect personal information about people who visit our website, how we use it, the conditions under which we may disclose it to others and how we keep it secure. 
 
-This is the privacy policy ("Privacy Policy") for mtvasia.com ("Site," "we," "us," or "our"), an Internet website offered in cooperation with the MTV Asia television channel or programming service ("MTVA Channel"). The MTV AChannel and the Site (together, "MTVA") are provided by Viacom International Media Networks ("VIMN"), a division of Viacom International Inc. (together, VIMN and Viacom International Inc., the "Parent Companies").
+If you have any questions or concerns please contact us at **[sg.dpo@vimn.com](mailto:sg.dpo@vimn.com)** **.**
 
-This Privacy Policy is intended to explain our privacy practices and covers the following areas:
+ **1\. CHANGES TO THIS POLICY**
 
-####  **1\. When This Privacy Policy Applies.**
+We may need to make changes to this Privacy Policy in the future, for example to reflect changes in the law, changes in the type of services or information we provide to you or collect from you, or to correct any errors. We will try to keep all such changes to a minimum. We recommend that you check this policy from time to time to see if it has changed. We will always state at the bottom of this policy the date on which it was last updated. If you continue to use our services after our Privacy Policy changes you will be bound by those changes.
 
-This Privacy Policy applies whether you are accessing the Site via a personal computer, a mobile device or any other technology or devices now known or hereafter developed or discovered (each, a "Device") and whether you are accessing the Site as a registered user (if offered by the Site) or other user of the Site. This Privacy Policy governs only the Personal Information and Other Information (as those terms are defined below) collected by the Site and does not cover any such information collected in any other manner (such as by the MTVA Channel not through the Site) or by any other website offered by MTVA, the Parent Companies and/or any subsidiaries and affiliates of the Parent Companies (collectively, "Affiliates") or collected by any other company, unless specifically stated. We may from time to time, combine Information (as that term is defined below) with other information we collect from other sources, such as information received from our Parent Companies, Affiliates, marketing companies or Advertisers and, if we do so, our use of the resulting combined Information will be subject to this Privacy Policy.
+ **2\. WHAT IS YOUR PERSONAL INFORMATION?**
 
-This Privacy Policy will remain in full force and effect, even if your use of or participation in the Site or any particular service, feature, function or promotional activity offered through the Site terminates, expires, ceases, is suspended or deactivated for any reason. If you do not agree with this Privacy Policy, please do not participate in the Site or any features, activities or services offered through the Site.
+In general terms, it is any information that can be used to personally identify you. This may include your name, address, telephone number, email address and profession or occupation. If the information we collect personally identifies you, or you are reasonably identifiable from it, the information will be considered personal information.
 
-####  **2\. Singapore Governing Law.**
+ **3\. WHAT PERSONAL INFORMATION DO WE COLLECT AND HOLD?**
 
-The Site is designed and targeted to Singapore and Southeast Asian audiences and is governed by and operated in accordance with the laws of Singapore. We make no representation that this Site is operated in accordance with the laws or regulations of, or governed by, other nations. By participating in our Site activities, you certify that you meet the age and other eligibility requirements for this Site as set forth in our Terms of Use Agreement. If you do not meet such age and other eligibility requirements, please discontinue using the Site immediately as your continued use of the Site indicates that you are agreeing to the collection, use, disclosure, management and storage of your Information as described in this Privacy Policy.
+You can use most of our products and services without actively submitting any information about yourself, but you may choose to provide us with personal information through the services. In particular, if you choose to:
 
-####  **3\. Collection and Use of Personal Information and Other Information.**
-
-When we use the term "Personal Information" we mean information that would allow someone to identify you or contact you, such as your full name, postal address, e-mail address or telephone number. When we use the term "Other Information", we mean any information other than Personal Information that may be collected about you (Personal Information and Other Information, together, the "Information").
-
- **a. Information We Collect that You Provide Us.**
-
--  **User Registration.**  To the extent we offer user registration on the Site, to register as a member of the Site, you are required to select a user name and password (together, your "User ID") and may be required to also provide other Information, such as your email address and date of birth. Additional Information may be requested during the registration process (but not required).
-
--  **In Connection with Certain Features and Functions.**  We may also provide you with access to certain features or functions that we may offer on the Site, such as the option to subscribe to a selection of free email newsletters and other periodic information, registration and member profile pages. To sign up for or participate in these features or functions, you may be required to provide us with certain Information about you in order for us to personalize and/or allow you to use such features and functions. For example, to sign up to receive email newsletters, you may be required to provide your email address, date of birth and zip code separate from any user registration.
-
--  **In Connection with Contests.**  There may be a separate registration process to enter Contests which may require the submission of all or some of the following: your first and last name, street address, city, state and zip code, email address, telephone number and date of birth. Additional Information may be requested depending on the specific Contest, but submission of such Information may be optional. The Contest's entry page and/or Rules will provide the specific requirements. You may also have the opportunity to opt-in to receive special promotions or offers from our third party advertisers, sponsors or promotional partners ("Advertisers") as a result of your use of the Site in connection with many of these types of promotions.  
- 
-
- **b. Information Collected Through Use of Cookies and Other Tracking Technologies.**
-
-"Cookies" (which may be html files, Flash files or other technology) are text files that help store user preferences and activity. "Web beacons" (also known as image tags, gif or web bugs) are small pieces of code used to collect advertising data, such as counting page views, promotion views or advertising responses. The Site and/or third parties may use "cookies", "web beacons" and other similar tracking technologies (collectively, "Tracking Technologies") to collect Other Information automatically as you browse the Site and the web.
-
-We use Tracking Technologies to help tailor our content, allow users to move between associated sites without logging into each site, understand Site and internet usage, improve or customize the content, offerings or advertisements on this Site, personalize your experience on this Site (for example, to recognize you by name when you return to the Site), save your password in password-protected areas, save your online game or video player settings, deliver relevant advertising, maintain and administer the Site and for other purposes described in the "Use of Information", "Other Information Collected by Us" section below. These Tracking Technologies collect "click stream" data and additional Other Information regarding your visits to the Site, such as your visits to the Site's webpages, use of our features, and purchasing history or preferences and may also collect your IP address or some other identifier unique to the Device you use to access the Site ("Identifier"). An Identifier is automatically assigned to any Device you use to access the Site. Your Personal Information is not collected as part of this process but we may associate Other Information collected by Tracking Technologies with Personal Information.
-
-By visiting the Site, whether as a registered user or otherwise, you acknowledge, understand and hereby agree that you are giving us your consent to track your activities and your use of the Site through these Tracking Technologies and that we may use Tracking Technologies in the emails we send to you.
-
-This Site may additionally use a variety of third party advertising networks, data exchanges, traffic measurement service providers, marketing analytics service providers and other third parties (collectively, "Third Party Advertising Service Providers") to, for example, serve advertisements on the Site, facilitate targeting of advertisements and/or measure and analyze advertising effectiveness and/or traffic on the Site ("Targeting Services"). These Third Party Advertising Service Providers may enable us to display advertisements based on your visits to the Site and other websites you have visited. Targeting Services enable us to, among other things, help deliver advertisements or other content to you for products and services that you might be interested in, to prevent you from seeing the same advertisements too many times and to conduct research regarding the usefulness of certain advertisements to you.
-
-These Third Party Advertising Service Providers do not have access to Tracking Technologies set by the Site except to the extent necessary to provide services to the Site. The Third Party Advertising Service Providers, as well as Advertisers, may themselves set and access their own Tracking Technologies on your Device if you choose to have Tracking Technologies enabled in your browser (or, for Flash cookies, if you have not removed them) and/or they may otherwise have access to Other Information about you.
-
- **c. Use of Information.**
-
-As set forth in this Privacy Policy, we may share Information with our Parent Companies and Affiliates.
-
- **i. Personal Information.**  We, and/or our Parent Companies and Affiliates, use the Personal Information we collect from you in a variety of ways, including:
-
-\- Sending marketing and promotional e-mails;  
-\- Processing your registration with the Site, such as verifying that your e-mail address is active and valid;  
-\- Contacting you regarding the administration of your account, any services, features or functions you have enrolled in or registered to use, any Contests you have participated in or have entered, or any other activities you have engaged in with the Site;  
-\- Allowing you to participate in the public areas and/or other features of the Site;  
-\- Responding to your questions or other requests;  
-\- Contacting you regarding your use of the Site, for informational purposes related to the Site or, in our discretion, regarding changes to the Site's policies;  
-\- Improving the Site or our services and for internal business purposes;  
-\- Tailoring your experience on the Site and/or otherwise customizing what you see when you visit the Site;  
-\- Saving your User ID or other Personal Information, so you don't have to re-enter it each time you visit the Site;  
-\- Otherwise to maintain and administer the Site and  
-\- For other purposes disclosed at the time you provide the Personal Information.
-
- **ii. Other Information Collected by Us.**  We, and/or our Parent Companies and Affiliates, use the Other Information we collect from you in a variety of ways, including:
-
-\- Keeping count of your return visits to the Site or our Parent Companies', Affiliates', Advertisers' or partners' sites;  
-\- Accumulating and reporting aggregate, statistical information in connection with the Site and user activity;  
-\- Determining which features, webpages, products and services users like best to, among other things, help us operate the Site, enhance and improve our services and the Site and display advertising and marketing information;  
-\- Preparing statistics reports;  
-\- Allowing you to participate in the public areas and/or other features of the Site;  
-\- Improving the Site or our services and for internal business purposes;  
-\- Tailoring your experience on the Site and/or otherwise customizing what you see when you visit the Site;  
-\- Saving certain Other Information for use on your return visits to the Site;  
-\- Otherwise to maintain and administer the Site  
-\- For the uses described for "Personal Information" above and  
-\- For other purposes disclosed at the time you provide the Other Information.
-
-####  **4\. Opting-Out of Certain Uses of Your Personal Information and Other Information.**
-
- **a. Opting-Out of Certain Uses of Personal Information.**
-
- **i. In connection with Newsletters and other Editorial-based E-mails.**  To the extent the applicable Site offers newsletters or other editorial-based emails, to manage your newsletter preferences, you may click on the newsletter link provided in the footer of our website to select which newsletters you receive, follow the unsubscribe link in the applicable newsletter or unsubscribe by emailing us directly.
-
- **ii. Certain Continuing Rights Regardless of Opt-Outs.**  However, even if you exercise your opt-out rights above, we, or our Parent Companies or Affiliates, may continue to contact you for the other purposes described in the "Use of Information" Section above, such as for maintenance and administrative purposes.
-
-####  **5\. Sharing and Disclosure of Personal Information and Other Information.**
-
- **a. Sharing and Disclosure of Personal Information.**  Generally, we do not sell, rent, lease or disclose your Personal Information to third parties, except if you consent to such disclosure or as described in this Privacy Policy.
-
- **i. Disclosure to Parent Companies and Affiliates.**  We may disclose Personal Information to Parent Companies and Affiliates for marketing and/or administrative purposes.
-
- **ii. Disclosure of Certain Information in Postings Intended to Be Disclosed.**  Certain Personal Information associated with a Posting may be intended for disclosure ("Posting Information"), such as username. We will disclose Posting Information in connection with the display of, and other services relating to, such Posting.
-
- **iii. Disclosure In Connection with Co-Branded Services and Features.**  The Site may also offer co-branded services and features, such as events and Contests that we put together with another company or our Parent Companies or Affiliates ("Co-Branded Partner") and that may be hosted on the Site and/or our Co-Branded Partner's website. We may share your Personal Information with our Co-Branded Partner and your voluntary use of or participation in a co-branded service or feature means that you opt-in and give your affirmative consent to both the Site and our Co-Branded Partner to collect the Information provided in connection with the specific co-branded feature or service and to use such Information for the fulfillment of the feature or service and for marketing or administrative purposes. The Co-Branded Partner will be identified on the co-branded feature or service, along with the Co-Branded partner's privacy policy. If you wish to opt-out of a Co-Branded Partner's future use of your Personal Information for marketing purposes, you will need to contact the Co-Branded Partner directly and the use of such information by Co-Branded Partner is subject to Co-Branded Partner's privacy policy.
-
- **iv. Disclosure to Operational Service Providers.**  We also have the right to disclose your Personal Information and Other Information to third parties for the purpose of administering and maintaining the Site's services, features, functions and operations. We will refer to these third parties as "operational service providers". We use operational service providers to efficiently provide the full range of content, activities, services, features and functions we bring you and we disclose your Information to operational service providers for the purpose of providing services to us.
-
- **v. Disclosure to Certain Other Third Parties.**  In addition to the above, we will make your Personal Information and Other Information available to certain third parties in the following limited circumstances:
-
-\- When we are compelled to do so by a governmental agency, court or other entity (e.g., to respond to subpoenas, court orders or legal process) or if requested by a governmental agency or other authority as part of an investigation;  
-\- If we believe your actions violate any law, rule, regulation and/or the Terms of Use Agreement, including, without limitation, this Privacy Policy, Rules or Additional Terms;  
-\- In connection with Contests, as necessary to administer the Contest or as required by applicable laws, rules or regulations (for example, to provide winners' lists or make required filings as appropriate);  
-\- If you opt-in or otherwise agree to have your Personal Information shared with or otherwise disclosed to a third party for marketing purposes, in which case the third party's use of your Information is subject to the third party's own privacy policy;  
-\- If, in our sole discretion, we believe such disclosure to be necessary or appropriate: to investigate or resolve possible problems or inquiries; to protect our business and assets or the rights, property or safety of the Site, the MTVA Channel, the Parent Companies, the Affiliates, or any of its or their operational service providers, licensors, suppliers, Advertisers, customers, users, or any other party; to limit our legal liability; to defend our interests; to enforce this Privacy Policy or the Terms of Use Agreement and/or to comply with our legal and regulatory obligations or requests by law enforcement agencies or governmental authorities and/or  
-\- In the event of a bankruptcy, merger, acquisition, sale, transfer of control, joint venture or other business combination involving us, or our Parent Companies or Affiliates.
-
- **b. Sharing and Disclosure of Other Information.**  We may share or otherwise disclose Other Information with third parties, but we do not disclose Personal Information to them except as described in this Privacy Policy.
-
-####  **6\. Reviewing, Updating or Deleting Certain Information.**
-
-Generally, you may review, update or delete certain Information collected by the Site by clicking "Account" on the homepage to sign in to your Site account with your User ID to change, update or deactivate your Personal Information. However, Personal Information that is necessary to check eligibility, such as date of birth or age, cannot be deleted, but may be modified with sufficient verification of the correct information. We will allow you to change the password portion of your User ID, as well as certain other Information you have given us in order to keep your information current, but once you select a user name you will not be able to change that user name provided to us during registration and which is associated with your User ID.
-
-You may also exercise certain privacy settings options by, if you are a registered user of the Site and logged into the Site, clicking "Profile" or your display name at the top of the Site, selecting "Edit Profile" or "Manage Account" and selecting the "Privacy" tab.
-
-Certain Information collected for certain entries into Contests are subject to corporate and regulatory recordkeeping requirements and will not be deleted upon the user's request, unless the entrant is a child under the age of 13 years old.
-
-If the burden or expense of providing access to your Information is disproportionate to the risks to your privacy or if the legitimate rights of others would be violated, we may decide not to provide access to such Information. In such cases, we will provide to you an explanation of why access cannot be provided and contact information for further inquiries.
-
-Children or Ineligible Teenagers.. If we, or our Parent Companies or Affiliates, inadvertently send an email to a person that does not meet the age and other eligibility requirements of the Site, such as a child (a person under the age of 13) or others who do not meet the greater age requirements of certain features of this Site ("Ineligible Teenagers"), the child (or Ineligible Teenager) or the child's (or Ineligible Teenager's) parent or legal guardian (the "Parent") always has the right to unsubscribe (opt-out) from receiving future emails via the unsubscribe mechanism contained in the email. The same unsubscribe process is available to a parent or legal guardian of a minor (a person under the age of 18, or the age of majority in your region).
-
-In addition, Parents of children or Ineligible Teenagers who wish to terminate their child's or Ineligible Teenager's membership must use their child's or Ineligible Teenager's User ID to gain direct access to the account, and follow the procedures in the "Deactivation/Termination of Your Registration or Use" Section of the Terms of Use Agreement to terminate their child's or Ineligible Teenager's member; alternatively, Parents may send an email to the Site's Privacy Administrator and provide us with your child's or Ineligible Teenager's User ID and request to terminate your child's or Ineligible Teenager's account and registration. We will not allow direct access to a user's account and Personal Information by any person without the user's User ID. If a Parent does not have his or her child's or Ineligible Teenager's User ID, the Parent will be required to send an email to the Privacy Administrator that includes the Parent's name, address, telephone and email address, in addition to the child's or Ineligible Teenager's name and email address as registered on the Site, plus the child's or Ineligible Teenager's date of birth. The Parent must also provide verifiable identification that they are the parent or legal guardian of the child or Ineligible Teenager. MTV will send a confirming email to the Parent via the email address provided to verify that the Parent wishes to terminate his or her child's or Ineligible Teenager's account and registration. The Parent must then confirm by sending a reply email to the designated return address. MTV will then terminate the child's or Ineligible Teenager's account but will notify the child or Ineligible Teenager of the termination request via email and will identify the name, address and email address of the person making the request.
-
-####  **7\. Protection of Information.**
-
-While no data transmission over the Internet is 100% secure from intrusion, we maintain commercially reasonable physical, electronic and procedural safeguards to protect your Information. However, regardless of our efforts and the Device you use to access the Site, it is possible that third parties may unlawfully intercept or access transmissions or private communications over an unsecured transmission. We limit access to the Site by our own employees to those individuals who are authorized for the proper handling of such information and any employee found violating our standards of security and confidentiality will be subject to our disciplinary processes. We request that our operational service providers follow similar standards of security and confidentiality.
-
- **Phishing.**  Phishing attacks attempt to steal consumers' personal identity data and financial account credentials. "Phishers" use 'spoofed' e-mails to lead consumers to counterfeit websites designed to trick recipients into divulging Information such as credit card numbers, account usernames, passwords and social security numbers.  **WE DO NOT SEND EMAILS ASKING YOU TO PROVIDE OR CONFIRM CREDIT CARD NUMBERS OR YOUR USERNAME OR PASSWORD!**  If you receive such email communication, please forward it immediately to the Site's Privacy Administrator at contact@mtvasia.com, and then immediately delete the fraudulent email from your computer.
-
-####  **8\. Changes to this Privacy Policy and Notice.**
-
-We reserve the right to revise this Privacy Policy at any time by posting an updated Privacy Policy without advance notice to you. Such revisions shall be effective immediately upon posting. Notice of material changes will be posted on the Site's homepage and/or will be provided by e-mailing you or notifying you upon login about these changes; the form of such notice is at our discretion. However, we encourage you to check this Privacy Policy and Terms of Use Agreement often for updates.
-
-####  **9\. Miscellaneous.**
-
- **a. Accuracy and Confidentiality.**  It is your responsibility to give us current, complete, truthful and accurate information, including Personal Information, and to keep such information up to date. We cannot and will not be responsible for any problems or liability that may arise if you do not give us accurate, truthful or complete information or Personal Information or you fail to update such information or Personal Information. We will reject and delete any entry that we believe in good faith to be false, fraudulent or inconsistent with this Privacy Policy.
-
-You are solely responsible for maintaining the strict confidentiality of your User ID, if applicable, and for any charges, costs, expenses, damages, liabilities and losses we incur or may suffer as a result of your failure to do so. You, and not us, are solely responsible and liable for the activity, behavior, use and conduct on the Site under your User ID (whether used by you or any others who use your User ID), unless and until you notify us that your User ID may have been compromised, misappropriated or improperly taken or used by another party. We reserve the right to deny access, use and registration privileges to any user, including without limitation, a registered user, of any services, features or functions of the Site if we believe there is a question about the identity of the person trying to access the user's account or any services, features or functions.
-
- **b. Your Right to Request Personal Data.**  The Personal Data Protection Act 2012 permits our visitors who are domiciled in Singapore to request certain information regarding our retention and disclosure of their personal data. To make such a request, please send an email to or write us: Sg.DPO@vimn.com via email, or you may contact us via regular mail at:
-
-MTV Asia Data Protection Officer  
-c/o MTV Asia,  
-151 Lorong Chuan  
-#03-08 New Tech Park (Lobby H),  
-Singapore 556741
-
- **c. Sole Statement:**  This document is the sole statement of the Site's Privacy Policy and no summary, restatement or other version thereof, or other privacy statement or policy, in any form, including, but not limited to, machine-generated, is valid.
-
- **d. Other:**  Please review our Terms of Use Agreement which governs your use of the Site. Any terms that are not defined in this Privacy Policy shall have the meaning given in the Terms of Use Agreement.
-
-This Privacy Policy was last modified on the date indicated above and is effective immediately.
+  1. register an account with us, we will collect your name and email address.
+  2. purchase a product or service, we will collect payment information.
+  3. receive updates and newsletters from us, we will collect your email address.
+  4. participate in any contests, promotions, or market surveys we sponsor, we will collect information such as your address, phone number, information about your interests.
+  5. post content or communicate with us or with others on a public platform or through user support, we will collect the information you provide in those postings.
+  6. as a vendor provide us with any services for which payment is to be made, we will collect your business name, registration number, address, and bank account details.
+  7. apply for a job, internship or work position with us, we will collect your employment history and other information you may provide when you apply.
+  8. claim any prize you win from our contests, we will collect information needed to fulfil those prizes (eg. passport details for flight or accommodation bookings).
+  9. where you are under 18 years old, we may ask from you and collect information about your parent or guardian.
 
 
 
+We may also collect some information that is not personal information because it does not identify you or anyone else. For example, we may collect anonymous answers to surveys or aggregated information about how users use our website, or whether you are male or female and how you watch our programmes.
+
+ **4\. HOW DO WE COLLECT YOUR PERSONAL INFORMATION?**
+
+We collect your personal information directly from you unless it is unreasonable or impracticable to do so, in which case the information may be collected automatically, including:
+
+  1. when you access our services online (for example by visiting our websites or using our mobile apps), we automatically collect information about your use of the services, such as the time of your visit and the pages or content you viewed; We also receive and collect technical information about your device and software, including the type of device, operating system and version, mobile network information, IP address (a unique number used to identify a device on the internet), mobile device advertising identifier (a resettable identifier that is assigned to your mobile device by your operating system provider, such as Apple or Google) or other device identifier, the page you visited before visiting our website, and crash data.
+  2. when you post any comments regarding us or our services on our websites or social media accounts, or through your use and interaction with our social media accounts, for example, when you "like" us on Facebook, or follow us on Twitter or Instagram, or when you log into our website or comment or post on sites of this nature using your Facebook or Twitter account details;
+  3. when you attend an event at which we are filming or where filming notices are put up, there may be audio, visual and/or audio-visual content we may record from time to time for our programs and services; 
+
+
+
+Visitors to our premises additionally acknowledge that we may use a third party to collect information, including personal information, when you register at our reception desk. Users of our websites additionally acknowledge that we may use a third party to collect research information from our websites, including through the use of cookies (flash and non-flash) and web beacons, however this process does not contain any personal information.
+
+We may also collect personal information about you from others, including family members (where you are under 18 and have entered a competition or otherwise authorized us to contact your parent/guardian) or friends if you are an accompanying guest for the purposes of a competition or an event, from third party companies such as credit reporting agencies and research companies, from law enforcement agencies, and other government entities.
+
+ **5\. COOKIES**
+
+We and our advertising and analytics service providers use cookies, which are small text files that help store user preferences and activity, and similar technologies such as web beacons, pixels, and ad tags to recognise you when you visit our services, and to collect information such as the number of visits, which features or pages are popular, measurements about the advertising campaign's success, and other information about your browsing activities. This allows us to ensure our services are functioning properly, to improve the Services, and to provide and measure advertisements.
+
+Although most browsers and devices accept cookies by default, you can use the "Help" section of the tool bar on most browsers to change the settings on your computer, for example to notify you when you receive a cookie, or to refuse all cookies. However, some of the features of our online services may not work or may be more difficult to access if you refuse all cookies. To prevent your data from being used by Google Analytics, you can install Google's opt-out browser add-on. You can also access your Google Ads settings to control what data Google uses to show ads to you
+
+ **6\. FOR WHAT PURPOSES DO WE COLLECT, USE AND DISCLOSE PERSONAL INFORMATION?**
+
+We collect personal information about you so that we can perform our business activities and functions and to provide best possible quality of customer service. We collect, hold, use and disclose your personal information for the following purposes:
+
+  1. to provide products and services (including access to protected or age-restricted areas of our websites) to you and to send communications requested by you to answer enquiries, provide feedback and provide information or advice about existing and new products or services on our channels.
+  2. to assess the performance of our websites and to improve the operation of the websites.
+  3. to conduct business processing functions (administrative, marketing (including direct marketing), product or service development, quality control and research purposes.
+  4. for the purposes of prize fulfillment where you have entered and won a promotion.
+  5. for research purposes where you have consented to and participated in research activities.
+  6. with your express consent (for example, when you check a box to agree), to make your information available from time to time to trusted partners and third parties, for the same purposes as set out in above (which will be in accordance with the privacy policies of such trusted partners and third parties).
+  7. to confirm we hold the necessary clearance rights in content we create.
+  8. to update our records and keep your contact details up to date, process and respond to any complaint made by you.
+  9. to keep track of who is on our premises for safety and other reasons.
+  10. to assess your suitability for an employment role you may have applied for or expressed interest in.
+  11. to comply with any law, rule, regulation, lawful and binding determination, decision or direction of a regulator, or in co-operation with any governmental authority of any country.
+
+
+
+You further acknowledge that providing information to our related bodies corporate will sometimes require us to transport your personal information overseas, by way of online servers or cloud-based services, or for example when the prize is overseas or includes overseas travel. This may involve us transferring your personal information to, or store or access it in, other countries where the laws may not provide levels of protection for your personal information meeting or exceeding prevailing international data protection standards. In such circumstances, we take steps to ensure that your personal information receives an appropriate level of protection through contractual requirements imposed on the recipient of the information
+
+Your personal information will not be shared, sold, rented or disclosed other than as described in this Privacy Policy
+
+ **7\. TO WHOM MAY WE DISCLOSE YOUR INFORMATION?**
+
+We may disclose your personal information (including by combining them with other information collected by any of our related bodies corporate) to:
+
+  1. our employees, contractors, related bodies corporate, companies in the Viacom group of companies, contractors or service providers for the purposes of operation of our websites or our business, fulfilling requests by you, and to otherwise provide products and services to you including, without limitation, web hosting providers, IT systems administrators, mailing houses, couriers, payment processors, data entry service providers, electronic network administrators, debt collectors, and professional advisors such as accountants, solicitors, business advisors and consultants.
+  2. suppliers and other third parties with whom we have commercial relationships, for business, marketing, and related purposes.
+  3. third party prize suppliers for the purposes of providing prizing for competitions you have entered and won (including travel agencies and service providers where we book travel and/or accommodation on your behalf, for example as part of prize fulfillment for a competition you have won, or where you are travelling as a guest of a competition winner).
+  4. third parties to whom we are licensing or assigning production content in which you have agreed to participate for which you have completed a release form;
+  5. our affiliates or suppliers for the purposes of addressing any complaint relating to our services that you have made directly to us; and
+  6. any organisation for any authorised purpose with your express consent.
+
+
+
+ **8A. DIGITAL AUDIENCE MEASUREMENT**
+
+Nielsen is a global information, data and measurement company for fast-moving consumer goods, consumer behaviour and media, providing companies with a comprehensive understanding of what consumers watch, what they buy and how those choices intersect. This website may includes Nielsen's proprietary digital audience measurement software, for the purposes of market research (including Nielsen Digital Content Ratings) and audience ratings services. You can access more information about the measurement software and learn about choices with regards to Nielsen measurement [here](https://www.iabaustralia.com.au/images/Nielsen_DCR_Launch_InformationKit_Digital_July2017.pdf). If you wish to opt out, you may do so [here](http://www.nielsen.com/content/corporate/policy/en/cookie-policy.html). 
+
+**8 DIRECT MARKETING MATERIALS**
+
+We may send you direct marketing communications and information about our products and services that we consider may be of interest to you where you have consented, and if you indicate a preference for a method of communication, we will endeavour to use that method whenever practical to do so. In addition, at any time you may opt-out of receiving marketing communications from us by contacting us (see the details below) or by using opt-out facilities provided in the marketing communications and we will then ensure that your name is removed from such communications list or lists.
+
+Unless you expressly consent to us doing so, for example, by selecting a check box when entering a competition on our websites, we do not provide your personal information to other organizations for the purposes of direct marketing. 
+
+**9\. HOW CAN YOU ACCESS AND CORRECT YOUR PERSONAL INFORMATION?**
+
+You may request access to any personal information we hold about you at any time by contacting us (see the details below) and opt out of our databases holding personal information. Where we hold information that you are entitled to access, we will try to provide you with suitable means of accessing it (for example, by mailing or emailing it to you). We may charge you a fee to cover our administrative and other reasonable costs in providing the information to you. We will not charge for simply making the request and will not charge for making any corrections to your personal information.
+
+There may be instances where we cannot grant you access to the personal information we hold. For example, we may need to refuse access if granting access would interfere with the privacy of others or if it would result in a breach of confidentiality. If that happens, we will give you written reasons for any refusal.
+
+If you believe that personal information we hold about you is incorrect, incomplete or inaccurate, then you may request us to amend it. We will consider if the information requires amendment. If we do not agree that there are grounds for amendment then we will add a note to the personal information stating that you disagree with it. 
+
+Please note that to update your details in any social networking sites, whether accessed directly, or via our websites as a login feature, you will need to contact the operators of those social networking sites directly.
+
+ **10\. WHAT IS THE PROCESS FOR COMPLAINING ABOUT A BREACH OF PRIVACY?**
+
+If you believe that your privacy has been breached, please contact our Privacy Officer using the contact information below and provide details of the incident so that we can investigate it. We request that complaints about breaches of privacy be made in writing, so we can be sure about the details of the complaint. 
+
+We will attempt to confirm as appropriate and necessary with you your understanding of the conduct relevant to the complaint and what you expect as an outcome. We will inform you whether we will conduct an investigation, the name, title, and contact details of the investigating officer and the estimated completion date for the investigation process.
+
+After we have completed our enquiries, we will contact you, usually in writing, to advise the outcome and invite a response to our conclusions about the complaint. If we receive a response from you, we will assess it and advise if we have changed our view. 
+
+**11\. SECURITY**
+
+We take reasonable steps to ensure your personal information is protected from misuse and loss and from unauthorized access, modification or disclosure. We may hold your information in either electronic or hard copy form. Personal information is destroyed or de-identified when no longer needed.
+
+As our websites are linked to the internet, and the internet is inherently insecure, we cannot provide any assurance regarding the security of transmission of information you communicate to us online. We also cannot guarantee that the information you supply will not be intercepted while being transmitted over the internet. Accordingly, any personal information or other information which you transmit to us online is transmitted at your own risk.
+
+ **12\. LINKS TO THIRD PARTY SITES**
+
+Our websites may contain links to other websites operated by third parties. We make no representations or warranties in relation to the privacy practices of any third party website and we are not responsible for the privacy policies or the content of any third party website. Third party websites are responsible for informing you about their own privacy practices.
+
+ **13\. BUSINESS TRANSFERS**
+
+In the unlikely event that we sell or otherwise dispose of some or all of our business to another party, we reserve the right to transfer your information as part of any assets sold or disposed of and you consent to such transfer.
+
+ **14\. CONTACTING US**
+
+If you have any questions about this Privacy Policy, any concerns or a complaint regarding the treatment of your privacy or a possible breach of your privacy, please use the contact link on our website, the private or direct message function on our social networking sites, or contact our Privacy Officer using the details set out below.
+
+Please contact our Privacy Officer at:
+
+ **Privacy Officer  
+MTV ASIA**
+
+Post:          151 Lorong Chuan #03-08
+
+                  New Tech Park (Lobby H)
+
+                  Singpore 556741
+
+Tel:            +65 6420 7220
+
+Email:         [sg.dpo@vimn.com](mailto:sg.dpo@vimn.com)
+
+This Privacy Policy was last updated on 11 December 2018
