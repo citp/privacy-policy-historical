@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 5starweddingdirectory.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624060159id_/https%3A//5starweddingdirectory.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 5starweddingdirectory.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230235425id_/https%3A//5starweddingdirectory.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Wedding Directory | Wedding Venues & Suppliers
+# Privacy Policy - Wedding Directory | 5 Star Wedding Directory
 
 ### **5 Star Wedding Directory Privacy Policy (UPDATED 21st May 2018)**
 
@@ -154,7 +154,7 @@ We may update this privacy policy from time to time in order to reflect, for exa
 
 **CONTACT US**
 
-For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at taiwoadedayo@gmail.com or by mail using the details provided below:
+For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or by mail using the details provided below:
 
   87 Serpentine Close, Stevenage, HRT, SG1 6AR, United Kingdom
 
@@ -215,7 +215,7 @@ Your personal information is never shared outside the company without your permi
 
 You also have a significant role in protecting your information. No one can see or edit your personal information without knowing your user name and password, so do not share these with others.
 
-If for some reason you believe 5 Star Wedding Directory has not adhered to these principles, please notify us by email at info@5starweddingdirectory.com and we will do our best to determine and correct the problem promptly. Be certain the words Privacy Policy are in the Subject line.
+If for some reason you believe 5 Star Wedding Directory has not adhered to these principles, please notify us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and we will do our best to determine and correct the problem promptly. Be certain the words Privacy Policy are in the Subject line.
 
 **CUSTOMER PROFILES**
 
