@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the larian.com privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528123006id_/http%3A//larian.com/larian-studios-public-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the larian.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230133818id_/http%3A//larian.com/larian-studios-public-privacy-policy) for the most accurate reproduction.*
 
 # LARIAN STUDIOS PUBLIC PRIVACY POLICY - Larian Studios
 
