@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diyeverywhere.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625215504id_/http%3A//diyeverywhere.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diyeverywhere.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230192013id_/http%3A//diyeverywhere.com/privacy.php) for the most accurate reproduction.*
 
 # DIY Everywhere
 
@@ -77,7 +77,7 @@ You should be aware that while you are using our Service, you may be directed to
 
 You should consult the privacy policies of these third parties for more detailed information.
 
-Third party vendors, including Facebook, Google, AppNexus, OpenX, Exponential and Nativo use cookies to serve ads based on prior visits to This website or other websites on the Internet. You may opt out of personalized advertising by visiting [www.aboutads.info](http://www.aboutads.info/choices/).
+Third party vendors, including Facebook, Google, Amazon, AppNexus, OpenX, Exponential and Nativo use cookies to serve ads based on prior visits to This website or other websites on the Internet. You may opt out of personalized advertising by visiting [www.aboutads.info](http://www.aboutads.info/choices/).
 
 _California_ _Privacy Rights_
 
