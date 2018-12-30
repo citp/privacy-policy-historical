@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the worldnow.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627013404id_/http%3A//franklyinc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldnow.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230080356id_/https%3A//franklyinc.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Frankly Inc.
+# Privacy Policy | Frankly Inc.
 
-### Frankly Co. Privacy Policy
+### FRANKLY CO. PRIVACY POLICY
 
-**Last Updated: April 8, 2015**
+ **Last Updated: April 8, 2015**
 
-Protecting your privacy is really important to us. Accordingly, we’re providing this Privacy Policy to explain our practices regarding the collection, use and disclosure of information that we receive when you use our website located at [www.franklyinc.com](http://franklyinc.com/) (“Site”) and instant messaging and social networking services for professionals, accessible via our mobile device application (“App”). To make the terms in this Privacy Policy easier to read, our Site, services and App are collectively called the Services. This Privacy Policy applies only to those websites, services and applications included within “Services” and doesn’t apply to any third-party websites, services or applications, even if they are accessible through our Services.
+Protecting your privacy is really important to us. Accordingly, we’re providing this Privacy Policy to explain our practices regarding the collection, use and disclosure of information that we receive when you use our website located at [www.franklyinc.com](https://franklyinc.com/) (“Site”) and instant messaging and social networking services for professionals, accessible via our mobile device application (“App”). To make the terms in this Privacy Policy easier to read, our Site, services and App are collectively called the Services. This Privacy Policy applies only to those websites, services and applications included within “Services” and doesn’t apply to any third-party websites, services or applications, even if they are accessible through our Services.
 
-##### How do we collect and use information?
+##### HOW DO WE COLLECT AND USE INFORMATION?
 
 Our primary goals in collecting information are to provide and improve our Services, to administer your use of the Services (including your Account (defined below), if you are an Account holder), and to enable you to enjoy and easily navigate our Services.
 
@@ -32,7 +32,7 @@ LOCATION INFORMATION
 
 When you use our App we may collect and store information about where you are located, such as by converting your IP address into a rough geolocation and utilizing your mobile phone number to approximate rough geolocation information (based on area code). We may use location information to improve and personalize our Services for you and to enable chat functions with those in your approximate geolocation as described below under “Discover Other Account Holders”.
 
-##### What Information Do We Share With Third Parties?
+##### WHAT INFORMATION DO WE SHARE WITH THIRD PARTIES?
 
 We will not share any PII that we have collected from you except as described below:
 
@@ -68,59 +68,59 @@ INFORMATION WE DISCLOSE WITH YOUR CONSENT OR AT YOUR REQUEST
 
 We will share your PII with third-party sites or platforms, such as social networking sites, if you have expressly requested that we do so.
 
-##### The Security of Your Information
+##### THE SECURITY OF YOUR INFORMATION
 
 We take reasonable measures to protect the information that we collect from or about you (including your PII) from unauthorized access, use or disclosure. Please be aware, however, that no method of transmitting information over the Internet or storing information is completely secure. Accordingly, we cannot guarantee the absolute security of any information.
 
-##### Links to Other Sites
+##### LINKS TO OTHER SITES
 
 Our Services may contain links to other websites and services. Any information that you provide on or to a third-party website or service is provided directly to the owner of the website or service and is subject to that party’s privacy policy. Our Privacy Policy does not apply to such websites or services and we’re not responsible for the content, privacy or security practices and policies of those websites or services. To protect your information we recommend that you carefully review the privacy policies of other websites and services that you access.
 
-##### Messaging Via Your Account
+##### MESSAGING VIA YOUR ACCOUNT
 
 As noted above, as part of our Services, Account holders may communicate with other Account holders through the use of our direct messaging functionality. If you choose to link your Account with an SNS Account we may, at your option, and depending on our ability to access your SNS Account, access your personal contacts on such SNS Account in order to create a list of potential contacts through our App. As an Account holder, you will be able to message other Account holders individually as well as engage in group chats with multiple Account holders, and may do so anonymously if you choose. For anonymous chats, the transcript of the chat can’t be saved or shared and although chat participants will know the names and identities of the other chat participants, nobody will be able to associate a particular statement with a particular chat participant. In addition to sending and receiving text messages, you will also be able to send and receive media files via our Services’ functionality. Through the App, Account holders can also invite non-Account holders and non-App users to try the Services. When an Account holder invites someone to try the Services, the Account holder may send an SMS or have an automated email sent to the invitee indicating that a particular Account holder has invited such invitee to try the Services and this SMS or email will include a link to the appropriate app store or distribution platform where the App is made available.
 
-##### Modifying Your Information
+##### MODIFYING YOUR INFORMATION
 
 You can access and modify the PII about you associated with your Account through the profile page in your Account. If you want us to delete your PII and your Account, please contact us at help@franklyinc.com with your request. We’ll take steps to delete your information as soon as is practicable, but some information may remain in archived/backup copies for our records or as otherwise required by law.
 
-##### Opting Out
+##### OPTING OUT
 
-If you do not wish to receive promotional emails, newsletter notifications, or other communications from us, please follow the unsubscribe instructions provided in any of the communications. If you no longer want to be included in a Frankly group or the “Discover Other Account Holders” features of our Services, you can opt-out via the App or by sending an email to us at [help@franklyinc.com](mailto:help@franklyinc.com) and we will use commercially reasonable efforts to disable these features as soon as possible.
+If you do not wish to receive promotional emails, newsletter notifications, or other communications from us, please follow the unsubscribe instructions provided in any of the communications. If you no longer want to be included in a Frankly group or the “Discover Other Account Holders” features of our Services, you can opt-out via the App or by sending an email to us at [help@franklyinc.com](mailto:help@franklyinc.com) and we will use commercially reasonable efforts to disable these features as soon as possible.
 
-##### International Transfer
+##### INTERNATIONAL TRANSFER
 
 Your PII may be transferred to, and maintained on, computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you’re located outside the United States and choose to provide your PII to us, we may transfer your PII to the United States and process it there. Your consent to this Privacy Policy followed by your submission of any PII represents your agreement to that transfer.
 
-##### Our Policy Toward Children
+##### OUR POLICY TOWARD CHILDREN
 
 Our Services are not directed to children under 13 and we do not knowingly collect PII from children under 13. If we learn that we have collected PII of a child under 13 we will take steps to delete such information from our files as soon as possible.
 
-##### Changes to Privacy Policy
+##### CHANGES TO PRIVACY POLICY
 
 Any information that we collect is subject to the privacy policy in effect at the time such information is collected. We may, however, modify and revise this Privacy Policy from time to time. If we make any material changes to this Privacy Policy, we’ll notify you of such changes by posting them on the Services or by sending you an email or other notification, and we’ll indicate when such changes will become effective.
 
-##### Questions?
+##### QUESTIONS?
 
-Please contact us at [help@franklyinc.com](mailto:help@franklyinc.com) if you have any questions about our Privacy Policy.
+Please contact us at [help@franklyinc.com](mailto:help@franklyinc.com) if you have any questions about our Privacy Policy.
 
-##### Frankly Co. COPYRIGHT POLICY
+##### FRANKLY CO. COPYRIGHT POLICY
 
-**DMCA Notice of Alleged Infringement (“Notice”)**
+ **DMCA Notice of Alleged Infringement (“Notice”)**
 
   1. Identify the copyrighted work that you claim has been infringed, or – if multiple copyrighted works are covered by this Notice – you may provide a representative list of the copyrighted works that you claim have been infringed.
   2. Identify the material that you claim is infringing (or to be the subject of infringing activity) and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit us to locate the material, including at a minimum, if applicable, the URL of the link shown on or through the Service(s) where such material may be found.
   3. Provide your mailing address, telephone number, and, if available, email address.
-  4. Include both of the following statements in the body of the Notice: 
-    * _“I hereby state that I have a good faith belief that the disputed use of the copyrighted material is not authorized by the copyright owner, its agent, or the law (e.g., as a fair use).”_
-    * _“I hereby state that the information in this Notice is accurate and, under penalty of perjury, that I am the owner, or authorized to act on behalf of the owner, of the copyright or of an exclusive right under the copyright that is allegedly infringed.”_
-  5. Provide your full legal name and your electronic or physical signature. Deliver this Notice, with all items completed, to Frankly Co.’s Designated Copyright Agent: 
-    * **Copyright Agent**
-    * **c/o Frankly Co.**
+  4. Include both of the following statements in the body of the Notice:
+    *  _“I hereby state that I have a good faith belief that the disputed use of the copyrighted material is not authorized by the copyright owner, its agent, or the law (e.g., as a fair use).”_
+    *  _“I hereby state that the information in this Notice is accurate and, under penalty of perjury, that I am the owner, or authorized to act on behalf of the owner, of the copyright or of an exclusive right under the copyright that is allegedly infringed.”_
+  5. Provide your full legal name and your electronic or physical signature. Deliver this Notice, with all items completed, to Frankly Co.’s Designated Copyright Agent:
+    *  **Copyright Agent**
+    *  **c/o Frankly Co.**
     * 333 Bryant Street, Suite 240
     * San Francisco, CA 94107
     * Tel: (415) 861-9797
     * Fax: (650) 362-1887
-    * Email: [IP@franklyinc.com](mailto:IP@franklyinc.com)
+    * Email: [IP@franklyinc.com](mailto:IP@franklyinc.com)
 
 
