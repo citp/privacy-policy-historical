@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the futureofrealestatemarketing.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624144421id_/https%3A//www.inman.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futureofrealestatemarketing.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230141521id_/https%3A//www.inman.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -8,7 +8,7 @@
 
 **Inman Privacy Policy**
 
-Jun 24, 2018
+Dec 30, 2018
 
 Inman Group, LLC (“Inman”) understands that you care about how we collect, use, and share information when you interact with our websites, email, and online services (our “Services”), and we value the trust you place in us. This Privacy Policy (the “Privacy Policy” or the “Policy”) explains:
 
