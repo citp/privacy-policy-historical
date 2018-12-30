@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the broadwayworld.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624081510id_/https%3A//www.broadwayworld.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadwayworld.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230074858id_/https%3A//www.broadwayworld.com/privacy.cfm) for the most accurate reproduction.*
 
 # BroadwayWorld Privacy Policy
 
-********  
+******  
+We use Ezoic to provide personalization and analytic services on this website, as such Ezoic's privacy policy is in effect and can be reviewed[here](https://g.ezoic.net/privacy/broadwayworld.com).  
+**   
 BroadwayWorld.com does not disclose your registration information to outside parties. We only release account and other personal information when we believe release is appropriate to comply with law; enforce or apply our [Terms and Conditions of Use](https://www.broadwayworld.com/board/guide.cfm) and other agreements; or protect the rights, property, or safety of BroadwayWorld.com, our users, or others. This includes exchanging information with other companies and organizations for fraud protection. 
 
 BroadwayWorld recognizes the importance of protecting the privacy of your personal information, and we have prepared this Privacy Policy to provide you with important information about our privacy practices. This Privacy Policy applies when you use a website, mobile or tablet application, or other online service.
