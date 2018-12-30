@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cryptopia.co.nz privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624163657id_/https%3A//www.cryptopia.co.nz/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cryptopia.co.nz privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230160327id_/https%3A//www.cryptopia.co.nz/Home/Privacy) for the most accurate reproduction.*
 
 # Cryptopia - Privacy
 
@@ -10,7 +10,7 @@ This is the Privacy Policy for Cryptopia Limited, located at PO Box 1117, Christ
 
 The Privacy Policy relates to how we collect, use, share and secure the personal information that you may supply to us. It also describes your choices regarding use, access and correction of your personal information.
 
-We recognise the importance of protecting the privacy of information collected by us, in particular information that is capable of identifying an individual ("personal information").
+We recognise the importance of protecting the privacy of information collected by us, in particular, information that is capable of identifying an individual ("personal information").
 
 This Privacy Policy governs the manner in which your personal information will be dealt with. Cryptopia Limited is the entity collecting and holding your personal information in accordance with this Privacy Policy. We reserve the right, at our discretion, to modify or remove portions of this Privacy Policy at any time.
 
@@ -20,7 +20,7 @@ Please take a moment to read this Privacy Policy carefully. If you have any ques
 
 ### Use of Website
 
-By using this website, you agree to the Privacy Policy of Cryptopia Limited, which is set out on this website page. This Privacy Policy is in addition to any other terms and conditions applicable to the website. This website may contain links to other websites not operated or controlled by us, and we do not make any representations about such third party websites.
+By using this website, you agree to the Privacy Policy of Cryptopia Limited, which is set out on this website page. This Privacy Policy is in addition to any other terms and conditions applicable to the website. This website may contain links to other websites not operated or controlled by us, and we do not make any representations about such third-party websites.
 
 ### Collection of Information
 
@@ -99,7 +99,7 @@ We may disclose your personal information:
 
 We may also disclose your personal information in special situations where we have reason to believe that doing so is necessary to identify, contact or bring legal action against anyone damaging, injuring, or interfering with (intentionally or unintentionally) our rights or property, users, or anyone else who could be harmed by such activities.
 
-We may engage third parties to support our operations and/or provide you with services on our behalf. Where we deem it necessary we may disclose personal information held by us to these third parties.
+We may engage third parties to support our operations and/or provide you with services on our behalf (such as identity verification agencies, credit reporting agencies, and outsourced IT service providers). Where we deem it necessary we may disclose personal information held by us to these third parties solely for the purpose of, and in connection with, performing the particular service or function that we have engaged the third party to provide.
 
 We generally retain personal data for so long as it may be relevant to the purposes for which it was obtained. To dispose of personal data, we may anonymise it, delete it or take other appropriate steps.
 
@@ -134,7 +134,7 @@ The laws in some jurisdictions require companies to tell you about the legal gro
 
 If you are a current user, we will only contact you by electronic means (email or SMS) with information regarding any services which are similar or related to those in which you have previously expressed an interest, be that through transaction history or enquiry.
 
-If you are a new user, we will only contact you by electronic means for marketing purposes if you have consented to receive such communications. Direct marketing includes any communications to you regarding advertising or the promotion of products and services. If you do not want to receive marketing communications, at any time and free of charge you may use the opt-out link provided in any communication from us, or contact us at [privacypolicy@cryptopia.co.nz](mailto:privacypolicy@cryptopia.co.nz).
+If you are a new user, we will only contact you by electronic means for marketing purposes if you have consented to receive such communications. Direct marketing includes any communications to you regarding advertising or the promotion of products and services. If you do not want to receive marketing communications, at any time and free of charge, you may use the opt-out link provided in any communication from us, or contact us at [privacypolicy@cryptopia.co.nz](mailto:privacypolicy@cryptopia.co.nz).
 
 ### Individual Rights
 
@@ -144,7 +144,7 @@ You can update certain information by logging into your account with us and acce
 
 We encourage you to make any individual rights requests through our user support process (<https://www.cryptopia.co.nz/Support>) because this ensures that you have been authenticated already. Otherwise, when we receive an individual rights request via email we may take steps to verify your identity before complying with the request to protect your privacy and security.
 
-**Right to withdraw consent.** You have the right to withdraw your consent to our processing of your personal information collected on the basis of your consent at any time. Pease note that withdrawing this consent does not affect the lawfulness of processing we may have undertaken prior to the withdrawal of consent. The withdrawal of consent will not affect the lawfulness of processing of information for which consent is not required.
+**Right to withdraw consent.** You have the right to withdraw your consent to our processing of your personal information collected on the basis of your consent at any time. Please note that withdrawing this consent does not affect the lawfulness of processing we may have undertaken prior to the withdrawal of consent. The withdrawal of consent will not affect the lawfulness of processing of information for which consent is not required.
 
 **Right of access to and rectification of your personal information.** You have the right to request that we provide you with a copy of all personal information pertaining to you that we hold. This information will be provided without undue delay, unless such provision adversely affects the rights and freedoms of other users, contractors or affiliates of Cryptopia Limited. If a fee is to be charged for this service, the full amount will be made known to you in advance. You may also request that we rectify any false personal information pertaining to you that we keep on record. Your right to access and rectification shall only be limited where the expense of providing such access becomes disproportionate to the risks to your privacy, or where the rights of other users, contractors or affiliates may be violated.
 
@@ -203,4 +203,4 @@ Complaints Form
 
 ### Problems or Questions
 
-If we become aware of any ongoing concerns or problems with our websites, we will take these issues seriously and work to address these concerns. If you have any further queries relating to our Privacy Policy please contact us in writing at [privacypolicy@cryptopia.co.nz](mailto:privacypolicy@cryptopia.co.nz).
+If we become aware of any ongoing concerns or problems with our websites, we will take these issues seriously and work to address these concerns. If you have any further queries relating to our Privacy Policy, please contact us in writing at [privacypolicy@cryptopia.co.nz](mailto:privacypolicy@cryptopia.co.nz).
