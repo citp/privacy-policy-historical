@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the racgp.org.au privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928184930id_/http%3A//www.racgp.org.au/usage/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racgp.org.au privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230051806id_/http%3A//www.racgp.org.au/privacy-policy) for the most accurate reproduction.*
 
 # RACGP - Privacy statement
 
-## Privacy statement
-
 ## 1\. Your personal information is important to us
 
-The RACGP recognises your privacy is very important to you and that you have rights to control your personal information. Providing personal information is an act of trust and we take that seriously. We are committed to protecting your personal information.
+Providing personal information is an act of trust and we take that seriously. We are committed to protecting your personal information.
 
 ## 2\. Privacy statement
 
@@ -45,7 +43,7 @@ If we receive unsolicited personal information, or information we would not ordi
 
 We will take reasonable steps to notify you of our collection of your personal information. Any such notification will include all additional information required by the Privacy Act.
 
-**Collection through RFID technology**
+### Collection through RFID technology
 
 At certain events, the RACGP may use radio frequency identification (RFID) technology. RFID technology generally consists of a transponder which transmits data and a reader which collects that data. RFID technology assembles this data to provide information on user travel within an event. RFID technology is now commonly used across a variety of industries.
 
@@ -57,7 +55,7 @@ RFID technology where identifiable will constitute personal information. It will
 
 Personal information is kept until we are no longer legally obliged to keep, or when the need for the personal information has passed (at which point it will be destroyed, deleted or de-identified). Our purpose for collecting your personal information will to a degree depend on your interaction with us.
 
-For members, our primary purpose for collection is to administer and provide you with the full benefits of and administering your membership, providing services, sending related information, or as a record of confirmation of attainment of academic  qualifications, or QI$CPD status.
+For members, our primary purpose for collection is to administer and provide you with the full benefits of and administering your membership, providing services, sending related information, or as a record of confirmation of attainment of academic  qualifications, or QI&CPD status.
 
 For QI&CPD participants, our primary purpose is similar, though focussed on administering and maintaining your QI&CPD status.
 
@@ -95,21 +93,21 @@ We comply with the Spam Act 2003 (Cth) and the Do Not Call Register Act 2006 (Ct
 
 Unless you have indicated you do not wish to receive such information, we may contact you on your nominated phone number, email, fax or other address for such purposes as:
 
-8.1.1 providing medical alerting of current events, for example drug recall
+**8.1.1** providing medical alerting of current events, for example drug recall
 
-8.1.2 assisting you in your CPD requirements and progress
+**8.1.2** assisting you in your CPD requirements and progress
 
-8.1.3 discussing Fellowship and membership procedures and benefits
+**8.1.3** discussing Fellowship and membership procedures and benefits
 
-8.1.4 gathering information to assist in our advocacy for the profession
+**8.1.4** gathering information to assist in our advocacy for the profession
 
-8.1.5 highlighting educational opportunities
+**8.1.5** highlighting educational opportunities
 
-8.1.6 responding to your enquiries.
+**8.1.6** responding to your enquiries.
 
 We will not disclose any sensitive information in any of these contacts.
 
-If you are receiving RACGP information and do not wish to receive this information any longer, you may remove your name from our list either by emailing us at [privacy@racgp.org.au](mailto:privacy@racgp.org.au). Please allow 10 working days for this request to be processed.
+If you are receiving RACGP information and do not wish to receive this information any longer, you may remove your name from our list either by emailing us at [privacy@racgp.org.au](mailto:privacy@racgp.org.au). Please allow 10 working days for this request to be processed.
 
 ## 9\. Accessing your personal information
 
@@ -127,7 +125,7 @@ If you wish to update or correct your personal information, please contact us us
 
 ## 11\. Problems or queries
 
-If you have a problem, query or complaint about the way in which we collect, use or disclose individuals’ personal information, please contact us using the contact details below. We take all aspects of privacy seriously, and welcome your feedback on the relevant issues. Any concerns received will be internally reviewed and where appropriate an internal investigation will be conducted to ensure we continue to comply with the Privacy Act. If you are unsatisfied with out response, you may contact the Office of the Australian Information Commissioner at [www.oaic.gov.au](http://www.oaic.gov.au/)
+If you have a problem, query or complaint about the way in which we collect, use or disclose individuals’ personal information, please contact us using the contact details below. We take all aspects of privacy seriously, and welcome your feedback on the relevant issues. Any concerns received will be internally reviewed and where appropriate an internal investigation will be conducted to ensure we continue to comply with the Privacy Act. If you are unsatisfied with out response, you may contact the Office of the Australian Information Commissioner at [www.oaic.gov.au](http://www.oaic.gov.au/)
 
 ## 12\. Future changes
 
@@ -135,11 +133,7 @@ From time to time, our policies are reviewed and may be revised. We reserve the 
 
 ## 13\. Further information
 
-For more information about privacy issues in Australia and protecting your privacy, visit the website of the Office of the Australian Information Commissioner at [www.oaic.gov.au](http://www.oaic.gov.au/).
+For more information about privacy issues in Australia and protecting your privacy, visit the website of the [Office of the Australian Information Commissioner](http://www.oaic.gov.au/).
 
-Alternatively, you may contact the RACGP at:
-
-Telephone:  1800 626 901  
-Email: [privacy@racgp.org.au](mailto:privacy@racgp.org.au)  
-Fax: 03 8699 0400   
-Address:  Attn: Privacy Officer, 100 Wellington Parade, East Melbourne VIC 3002
+Alternatively, you may contact the RACGP at:  
+Attn: Privacy Officer, 100 Wellington Parade, East Melbourne VIC 3002.
