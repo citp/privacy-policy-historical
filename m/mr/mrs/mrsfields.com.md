@@ -1,48 +1,88 @@
-> *The following text is extracted and transformed from the mrsfields.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606180731id_/https%3A//www.mrsfields.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrsfields.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230122700id_/https%3A//www.mrsfields.com/privacy) for the most accurate reproduction.*
 
 # Mrs. Fields Privacy Policy
 
-Mrs. Fields® Gifts Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: <https://www.mrsfields.com/>.
+[Cookie Disclosure Policy](https://web.archive.org/privacy/cookie/)
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and your shopping cart and to gather broad demographic information.
+ **Effective: 4/1/18**
 
-Our site uses cookies to keep track of your shopping cart. We use cookies to deliver content specific to your interests and for other purposes.
+We collect information during and, occasionally, at other times. This information, which ranges from limited personal data such as age and address to facts about users’ computers, professions and habits, is then securely stored on separate servers.
 
-Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address), financial information, and demographic information (like their zip code, age, or income level). Contact information from the order form is used to send orders and information about our company to our customers. The customer's contact information is also used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences.
+Famous Brands International (“Mrs. Fields”, “TCBY”, or “We”. “Our” or “Us”) takes your privacy very seriously. Please carefully read this Privacy Policy and familiarize yourself with our privacy practices regarding your personal information and how we will use it. This Privacy Policy applies to the Our site, including mobile sites or apps (collectively, the “Sites”). By visiting the Sites, you accept this Privacy Policy and Cookie Disclosure Policy, which are hereby incorporated. If you do not agree with these policies, do not use the Sites.
 
-Our online surveys ask visitors for contact information (like their email address), and demographic information (like their zip code, age, or income level). We use contact data from our surveys to send the user information about our company. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
+#### What information we collect
 
-We run contests on our site in which we ask visitors for contact information (like their email address), and demographic information (like their zip code, age, or income level). We use contact data from our contests to send users information about our company. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
+We may collect your personally identifiable information at various points throughout the Sites. You may be asked to provide your name, email address, mailing address, phone number, and similar information.
 
-Although our web site is not specifically directed toward children, and we do not collect personal information from persons under the age of 18 on our web site, we recognize that parents and children visit this site because of the family-friendly nature of our products. This provides us with the opportunity to help educate consumers about the Federal Trade Commission's Children's Online Privacy Protection Rule. Please visit [www.ftc.gov/kidsprivacy](http://www.ftc.gov/kidsprivacy) for information from the Federal Trade Commission about protecting children's privacy online.
+#### Uses and Disclosure of Personal Information
 
-Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor.
+Registration information may be used in several ways:
 
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
-
-  1. You can visit the following URL: <https://www.mrsfields.com/cookieclub/remove/>.
-
-
-
-Analytics:
-
-  * The Google Analytics features that we have implemented are based on Display Advertising (e.g., Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration, or Google Analytics Demographics and Interest Reporting). 
-  * Using the Ads Settings, individuals can [opt-out of Google Analytics](https://tools.google.com/dlpage/gaoptout/) for Display Advertising and customize Google Display Network ads. 
-  * Mrs. Fields uses Google's interest-based advertising and 3rd party audience data (such as age, gender and interests) for marketing purposes. 
-
-
-
-This site gives users the following options for changing and modifying information previously provided.
-
-  1. Go to <https://www.mrsfields.com/account/profile/> to edit your online account information.
-  2. Email: Go to <https://www.mrsfields.com/contact/>.
+  * To enable us to process, validate and verify subscriptions;
+  * To alert you to new projects, Sites features, special events and services;
+  * To conduct surveys to measure your satisfaction with our service;
+  * To enforce our rights arising from any contracts entered into between you and us; 
+  * To protect our rights or property or our safety, our members, or others;
+  * To comply with any court order, legal process, or respond to any governmental or regulatory request; 
+  * To transfer information in the event of a merger, transfer of assets or other organizational restructuring;
+  * To monitor and evaluate our Sites and identify where we should make changes or expand services;
+  * To provide advertisers with aggregate - never individual - information about our subscriber base and usage patterns;
+  * To give our marketing and development staff information that's useful for developing new features and services that meet subscriber needs;
+  * To share data with our affiliated companies for joint marketing and other purposes; and
+  * To share data with nonaffiliated third parties who provide products and services that may be of interest to you.
 
 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
+We may use third-party service providers or other third-party organizations helping to support our mission that may collect, store, or process your personal information on our behalf, such as to complete your request, e.g. completing a transaction or to outsource one or more of the functions described above.
 
-Mrs. Fields Gifts Inc.   
-1717 South 4800 West   
-Salt Lake City, Utah 84104   
-Phone: 1-800-COOKIES  
-webmaster@mrsfields.com
+Subscribers may edit registration information or cancel a subscription at any time. We reserve the right to contact any subscriber at any time regarding subscription renewals or other subscription-related problems or questions as well as changes to our Subscriber Agreement.
+
+#### Research
+
+We may contract with a market-research firm to conduct occasional online surveys. When you're within our sites, you may see a pop-up window offering you the optional opportunity of participating in a survey. If you do not wish to participate, simply click the "No, Thank You" link and you will not see this window again. If you choose to participate, you'll be prompted to answer a series of online questions. You will be prompted to enter your e-mail address for validation purposes but no other personal information (name, address, etc.) will be collected as part of the survey. In some cases, however, you may be offered a free gift for your participation. We will need your name and address, which will be used exclusively to fulfill your gift request.
+
+#### Cookie Technology
+
+We also employ cookie technology to help subscribers move faster through our site. When you use one of our sites, we pass several cookies to your computer. A cookie is a string of information that's sent by a Web site and stored on your hard drive or temporarily in your computer's memory. This avoids the potentially time-consuming task of checking our registration database each time a page is requested. The cookie is deleted when a user chooses the log out feature to terminate their session. We also employ cookie technology to store subscribers' User Names and Passwords. Read our cookie disclosure statement and view a cookie-by-cookie breakdown.
+
+Some web browsers may transmit “Do Not Track” signals to websites visited by the user. Our information collection and disclosure practices will continue to apply as described in this policy, regardless of any “Do Not Track” signals that are sent by certain browsers.
+
+#### Third Party Web Sites
+
+We use third-party advertising companies to serve ads when you visit our Sites. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+
+Our Sites may contain links to other Web sites provided by third parties. Please be aware that we do not control these third-party Web sites or any of the content contained on those Web sites. Once you have left our Sites, we cannot be responsible for the privacy practices of such other Web sites. We encourage you to exercise caution and to read the privacy policy for the Web site you visit. The inclusion of hyperlinks to third party Web sites on our Sites in no way constitutes an endorsement by us of such Web sites’ content, actions or policies.
+
+#### Data Storage, Access, and The Right to be Forgotten
+
+We store and process data on our servers in the United States, even though the European Union has not recognized that the United States provides adequate data protection laws. Individuals in the Europe Union have certain data subject rights which may be subject to limitations and/or restrictions. These rights may include the right to: (i) request access to and rectification or erasure of their personal data; (ii) obtain restriction of processing or to object to processing of their personal data; and (iii) the right to data portability. If you wish to exercise one of the above-mentioned rights, please send us your request via email to: support@mrsfields.com Individuals in Europe may also have the right to file a complaint about the processing of their personal data with their local data protection authority. Please also let us know if you have any questions, concerns, disputes, or issues. Our Data Protection Officer is Chase Roberts and can be reached at this email [support@mrsfields.com](mailto:support@mrsfields.com) or by physical mail at 1717 South 4800 West, Salt Lake City, Utah 84104.
+
+We store personal data for different periods of time consistent with the purposes for which they were originally collected, as subsequently further authorized, or when required or allowed under applicable law.
+
+We do not subject data subjects to decisions that have legal effects on them due solely to automated processing of personal data.
+
+For United States residents, we undertake marketing only in compliance with the CAN-SPAM Act, the Telephone Consumer Protection Act, and other applicable law. For European Union residents, we undertake marketing only with your expressive affirmative consent and in compliance with applicable data privacy laws. EU residents will not be added to the marketing lists unless they have already provided express affirmative consent consistent with applicable data protection laws.
+
+#### Security
+
+We are committed to maintaining your confidence and trust, and takes steps to help protect the personal information you provide to us. However, no transmission or electronic storage of information is guaranteed to be secure. We therefore urge you to always use caution when transmitting information over the Internet.
+
+#### Children
+
+The Sites are not directed toward children under 18 years of age nor do we knowingly collect information from children under 18. If you are under 18, please do not use the Sites or submit any personally identifiable information to us.
+
+#### Your California Privacy Rights
+
+California’s “Shine The Light” law permits California residents to annually request and obtain information free of charge about what personal information is disclosed to third parties for direct marketing purposes in the preceding calendar year.
+
+#### Data Controller, Data Protection Officer
+
+We are responsible for your privacy protection and is the official service provider. If you have questions regarding our website, the following information, or if you would like to contact our privacy protection representative, please contact us at [support@mrsfields.com](mailto:support@mrsfields.com). Our Data Protection Officer is Chase Roberts and can be reached at this email [support@mrsfields.com](mailto:support@mrsfields.com) or by physical mail at 1717 South 4800 West, Salt Lake City, Utah 84104.
+
+#### Changes and Updates
+
+We may revise this Privacy Policy from time to time. We will post any changes on this page and update the date at the top, so be sure to check back periodically to stay aware of any modifications. Your continued use of the Sites after changes have been posted will constitute your acceptance of this Privacy Policy and any changes.
+
+#### Contact Us
+
+If you have any questions, concerns, or suggestions regarding this Privacy Policy, or to update any information you have provided us, please send us an [support@mrsfields.com](mailto:support@mrsfields.com).
