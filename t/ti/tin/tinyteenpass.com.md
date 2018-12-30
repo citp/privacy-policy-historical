@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tinyteenpass.com privacy policy that was archived on 2018-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180515032722id_/http%3A//tinyteenpass.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinyteenpass.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230081950id_/http%3A//tinyteenpass.com/privacy.html) for the most accurate reproduction.*
 
 # Tiny Teen Pass : All Access to 29 Teen Porn Sites!
 
