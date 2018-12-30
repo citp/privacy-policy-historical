@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learnersdictionary.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628061334id_/http%3A//learnersdictionary.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnersdictionary.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230135145id_/http%3A//www.learnersdictionary.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Learner's Dictionary
 
