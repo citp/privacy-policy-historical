@@ -1,13 +1,67 @@
-> *The following text is extracted and transformed from the ixsystems.com privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702015121id_/https%3A//www.ixsystems.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ixsystems.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230063235id_/https%3A//www.ixsystems.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This is the Privacy Policy for the iXsystems.com (“iX”) web site (“Site”). Your privacy is very important to us and we are committed to protecting it. We understand that you need to be in control of your personal data. This Privacy Policy explains the manner in which the iX collects personal data from you and the purpose for that collection. This Privacy Policy is designed to ensure that you are aware of how your personal data is being used and to provide you with choices about that use. By visiting the iX Site or submitting your personal data, you accept the terms described in this Privacy Policy.
+At iXsystems, we value user privacy and are committed to disclosing how information is collected and used. This Privacy Policy outlines how iXsystems collects, uses, maintains, and discloses information collected from users of our website, products, and services (“Products”).
 
-We use Google Analytics, Google AdWords Conversion tracker, and other Google services that place cookies on a browser across the website. These cookies help us increase the website’s effectiveness for our visitors. These cookies are set and read by Google. To opt out of Google tracking, please visit this please visit this [page](http://www.google.com/privacy_ads.html).
+### Personal Information
 
-We use AdWords remarketing to market our sites across the web. We place a cookie on a browser, and then a 3rd party (Google) reads these cookies and may serve an ad on a 3rd party site. You may opt out of this ad serving on [Google’s opt out page](https://support.google.com/ads/answer/2662922?hl=en). If you are concerned about 3rd party cookies served by networks, you should also visit the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
+We may collect and store personally identifying information from users in a variety of ways, including, but not limited to, when you visit our website, register on the website, fill out a form, and in connection with other activities on this website, services, features or resources we make available on our website or through the use of the Products. Users may be prompted to enter information, including, name, email address, company name, and other information needed to process your requests. Users may, however, visit our website anonymously and not provide personal identifying information. We will collect personal identifying information from you only if you voluntarily submit such information to us and give us consent.
 
-Cookies. A cookie is a string of information that is sent by a web site and stored on your hard drive or temporarily in your computer’s memory. We may employ cookie technology to help you move faster through our Site. We may employ cookie technology to estimate our total audience size and traffic and to help us improve our Site’s experience by measuring which site areas are of greatest interest to users. You can turn off the ability to receive any of these cookies by adjusting the browser in your computer, but you should note that if you do so, this may materially affect the functionality of the Site and the information you can access through it. If you wish to find out more about cookies, or how to refuse cookies, please visit the Interactive Advertising Bureau’s web site at [www.allaboutcookies.org ](http://www.allaboutcookies.org/). We collect anonymous data when you visit most pages on the iX Site. Your visit may automatically provide us with data that is not linked to your personal information, such as your IP (Internet Protocol) address, browser type, operating system, domain name, access times, and referring web site addresses. Some parts of the iX Site use embedded pixel or javascript technologies to facilitate your use of the Web site and to track general traffic. We use your anonymous data to obtain general statistics regarding the use of the iX Site and its specific Web pages and to evaluate how our visitors use and navigate our Web site on an aggregate basis. We do not link your anonymous data with personal data.
+### Non-personal Information
 
-ixsystems.com participates in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn modest commissions when links to Amazon are used, or when signing up for Amazon Prime for free shipping.
+To ensure necessary and optimal performance of the Products, we may collect non-personal identification information from you when you interact with our website(s) and/or Products. Non-personal information may include the browser name, the type of computer, and technical information about means of connection to our website, such as the operating system and the Internet service providers utilized and other similar information.
+
+### Cookies
+
+iXsystems.com may use “cookies” to enhance your experience. Your web browser places cookies on your hard drive for record-keeping purposes and sometimes to track information about you, including how you interact with our Products. User may choose to set their web browser to refuse cookies, or to alert when a website attempts to use a cookie. If you do so, note that some pieces of our website may not function as well.
+
+### How We Use Your Information
+
+iXsystems may collect and use your personal and non-personal information for the following purposes:
+
+  * _To run and operate ixsystems.com_ – We may need your information to display content on the website correctly.
+  * _To improve customer service_ – Information you provide helps us respond to your customer service requests and support needs more efficiently.
+  * _To personalize your experience_ – We may use aggregated information to understand how our users interact with our website.
+  * _To make improvements to our website –_ We may use feedback you give to improve our Products..
+  * _To send occasional emails_ – If you sign up for our email list you can easily unsubscribe by clicking “unsubscribe” at the bottom of any email you receive from iXsystems.
+
+
+
+### How We Protect Personal Information
+
+iXsystems uses appropriate data collection, storage, and processing practices, as well as additional security measures and procedures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our website.
+
+### Sharing Personal Information
+
+iXsystems does not sell, trade, or rent your personal information to third parties. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates, and advertisers for purposes outlined in this Privacy Policy.
+
+### Affiliate Programs
+
+iXsystems is part of the Amazon Associates partner program and may monetize links to Amazon by adding a referral tag to amazon.com addresses. This allows us to earn a modest commision when referring others to amazon.com.
+
+### Electronic Newsletters
+
+iXsystems uses third party service providers to help us operate our business and websites. Third party services may also administer activities on our behalf, such as sending out newsletters or surveys that you have voluntarily signed up to receive. We may share your information with these third parties for the limited purposes described in this Privacy Policy provided that you have given us your permission by submitting an email sign-up form.
+
+### Third Party Websites
+
+You may find content on ixsystems.com that links to websites operated by our affiliates, Open Source partner projects, or services of other partners. We do not control the content or links that appear on these websites and are not responsible for the practices employed by websites that link to our website. In addition, these websites, including their content and links, may be constantly changing and these sites operate under different privacy policies. Browsing and interaction on any other website, including websites which have a link to our website, is subject to that website’s own terms and policies. iXsystems collects information through third party analytics providers that allows us to analyze trends, demographics, and various statistics about your interaction with our website. Any analytics data collected does not contain personal identifiable information.
+
+### Changes to This Privacy Policy
+
+iXsystems may update this privacy policy at any time. We encourage users to frequently check our Privacy Policy page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this Privacy Policy periodically and become aware of any modifications.
+
+### Your Acceptance of These Terms
+
+By using this website, you are agreeing to our terms of use and Privacy Policy. If you do not agree with this policy, you must not use [www.ixsystems.com](http://www.ixsystems.com/). Continued use of our website following the posting of changes to this policy will be understood as your acceptance of any changes.
+
+### GDPR Compliance
+
+iXsystems is committed to GDPR compliance and offers this Privacy Policy as a means to demonstrate how data may be used when visiting this website and using our Products. iXsystems does not collect personal identifying information unless the user has taken an intentional action to fill out a form and request contact. If you are in the European Union, you may request that identifying information that you have submitted be removed from our database by [contacting us](mailto:legal@ixsystems.com). Learn more about the GDPR by visiting the [official website](https://www.eugdpr.org/).
+
+### Contacting Us
+
+If you have any questions about this Privacy Policy, the practices of how we operate this website, or your dealings with this website, please [contact us](mailto:legal@ixsystems.com).
+
+This document was last updated on May 3rd, 2018.
