@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the timesfreepress.com privacy policy that was archived on 2018-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180607111011id_/http%3A//www.timesfreepress.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the timesfreepress.com privacy policy that was archived on 2018-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181230133618id_/https%3A//www.timesfreepress.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js"><!--<![endif]--><head>
 
@@ -116,9 +116,9 @@ A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js"
                 if(adUnits[i].assignToVariableName && (adUnits[i].assignToVariableName !== null)) window[adUnits[i].assignToVariableName] = dfpSlots[i];
             }
             
-			if (dfpAdunit === 'cha/tfp/homepage') {
+			/*if (dfpAdunit === 'cha/tfp/homepage') {
 				dfpSlots.push(googletag.defineOutOfPageSlot('/27879627/cha/tfp/homepage', 'dfp-sbb-a').addService(googletag.pubads()));
-			}
+			}*/
         }
     });
 
@@ -145,6 +145,18 @@ A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js"
         if(a9BidsBack) apstag.setDisplayBids();
         // Header Bidding Targeting
         pbjs.que.push(function() {pbjs.setTargetingForGPTAsync();});
+        
+        // Blueconic Targeting
+        if (typeof Storage !== "undefined") {
+            var targetingParamStr = localStorage.getItem("bcDFPTargetingParams");
+            if (targetingParamStr) {
+            var targetingParameters = JSON.parse(targetingParamStr);
+            // set page-level targeting parameters
+            jQuery.each(targetingParameters, function (index, param) {
+                window.googletag.pubads().setTargeting(param.key, param.value);
+            });
+            }
+        }
 
         // custom Publisher targeting
         const regex = /(?:(http|https):\/\/)(?:www\.)?(t\.co)/i;
@@ -152,6 +164,9 @@ A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js"
         var ref = document.referrer;
         console.log('referrer value: ' + ref );
         if ((m = regex.exec(ref)) !== null) { googletag.pubads().setTargeting('referrer', ['twitter']); }
+        
+        // Floor Test
+        googletag.pubads().setTargeting('floorTest', (Math.floor(Math.random()*2) == 1) ? "true" : "false");
 
         // Init DFP
         googletag.pubads().enableSingleRequest();
@@ -159,7 +174,7 @@ A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js"
         googletag.enableServices();
     });
 </script>
-<script type="text/javascript" async="true" src="http://media-cdn.timesfreepress.com/adbidding/prebid.js"></script>
+<script type="text/javascript" async="true" src="https://www.timesfreepress.com/js/prebid.js"></script>
 <!-- END: Header Bidding -->
 
 <script>var adBiddingStatus = true;</script>
@@ -170,10 +185,10 @@ A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js"
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, target-densityDpi=device-dpi">
 
-<link rel="canonical" href="http://www.timesfreepress.com/">
+<link rel="canonical" href="//www.timesfreepress.com/">
 	<meta name="keywords" content="Chattanooga News, Chattanooga Newspaper, Chattanooga, Tennessee, Georgia, Alabama, Chattanooga Times Free Press, Chattanooga Breaking News, Breaking News Updates, Top Stories, Chattanooga, Local Regional, Chattanooga Sports, Chattanooga local Sports, Chattanooga Preps, Chattanooga Life, Chattanooga Business, Chattanooga local Business, National, International, Chattanooga local news, Chattanooga movies, Chattanooga music, Chattanooga entertainment, Chattanooga arts, Chattanooga concerts, entertainment news, tickets, neighborhoods">
 	<meta name="description" content="Chattanooga's only daily newspaper. Complete coverage of breaking news in Chattanooga, Other local, regional and national news. Classifieds and online marketplace.">
-	    
+		    
 <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
 <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
 <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
@@ -307,18 +322,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<li><a class="nav-mobile-link" href="/news/politics/">Politics</a></li>
 		<li><a class="nav-mobile-link" href="/obits/">Obits</a></li>
 		<li><a class="nav-mobile-link" href="/news/national/general/">National</a></li>
-		<li><a class="nav-mobile-link" href="http://right2know.timesfreepress.com/">Right2Know</a></li>
-		<li><a class="nav-mobile-link" href="http://myaccount.timesfreepress.com/User/Login">Login</a></li>
+		<li><a class="nav-mobile-link" href="//right2know.timesfreepress.com/">Right2Know</a></li>
+		<li><a class="nav-mobile-link" href="//myaccount.timesfreepress.com/User/Login">Login</a></li>
 
-		<li><a class="nav-mobile-link" href="http://www2.timesfreepress.com/subscribe/">Subscribe</a></li>
-		<li><a class="nav-mobile-link" href="http://rewards.timesfreepress.com/">Rewards</a></li>
+		<li><a class="nav-mobile-link" href="//www2.timesfreepress.com/subscribe/">Subscribe</a></li>
+		<li><a class="nav-mobile-link" href="//rewards.timesfreepress.com/">Rewards</a></li>
 
-		<li><a class="nav-mobile-link" href="http://classifieds.timesfreepress.com/">Classifieds</a></li>
-		<li><a class="nav-mobile-link" href="http://homes.timesfreepress.com/">Homes</a></li>
-		<li><a class="nav-mobile-link" href="http://jobs.timesfreepress.com/">Jobs</a></li>
+		<li><a class="nav-mobile-link" href="//classifieds.timesfreepress.com/">Classifieds</a></li>
+		<li><a class="nav-mobile-link" href="//homes.timesfreepress.com/">Homes</a></li>
+		<li><a class="nav-mobile-link" href="//jobs.timesfreepress.com/">Jobs</a></li>
 		<!--<li><a class="nav-mobile-link" href="http://cars.timesfreepress.com/">Cars</a></li>-->
-		<li><a class="nav-mobile-link" href="http://www.timesfreepress.com/testdrive/">Cars</a></li>
-		<li><a class="nav-mobile-link" href="http://biz.timesfreepress.com/">Biz</a></li>
+		<li><a class="nav-mobile-link" href="//www.timesfreepress.com/testdrive/">Cars</a></li>
+		<li><a class="nav-mobile-link" href="//biz.timesfreepress.com/">Biz</a></li>
 	</ul>
 </div>
 
@@ -332,9 +347,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<span class="weatherCurrent PTSans">
 		<span>Chattanooga, TN</span>
 		<span>
-			<span class="partlycloudy"></span>
+			<span class="cloudy"></span>
 		</span>
-		<span>68°</span>
+		<span>48°</span>
 		<span id="weatherRadar">
 			<span>
 				<span class="radar"></span> View Live Radar
@@ -343,33 +358,33 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	</span>
 	<span class="weatherNext PTSans">
 										<span class="threeDee">
-			<span>Fri</span>
+			<span>Mon</span>
 			<span>
-				<span class="clear"></span>
+				<span class="rain"></span>
 			</span>
-			<span>H 92°</span>
-			<span>L 68°</span>
+			<span>H 68°</span>
+			<span>L 53°</span>
 		</span>
 								<span class="threeDee">
-			<span>Sat</span>
+			<span>Tue</span>
 			<span>
-				<span class="partlycloudy"></span>
+				<span class="mostlycloudy"></span>
 			</span>
-			<span>H 91°</span>
-			<span>L 70°</span>
+			<span>H 61°</span>
+			<span>L 42°</span>
 		</span>
 								<span class="threeDee">
-			<span>Sun</span>
+			<span>Wed</span>
 			<span>
-				<span class="partlycloudy"></span>
+				<span class="rain"></span>
 			</span>
-			<span>H 91°</span>
-			<span>L 69°</span>
+			<span>H 46°</span>
+			<span>L 41°</span>
 		</span>
 																													</span>
 	<span class="weatherSponsor">
 		<span>Weather Sponsored By:</span>
-		<img src="http://media-cdn.timesfreepress.com/tfp/weather/hite-weather.gif">
+		<img src="https://media.timesfreepress.com/tfp/weather/hite-weather.gif">
 	</span>
 </a>		</div>
 	</div>
@@ -393,12 +408,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<li><a href="/news/politics/">Politics</a></li>
 					<li><a href="/obits/">Obits</a></li>
 					<li><a href="/news/national/general/">National</a></li>
-					<li><a href="http://right2know.timesfreepress.com/">Right2Know</a></li>
+					<li><a href="//right2know.timesfreepress.com/">Right2Know</a></li>
 				</ul>
 			</div> <!-- navWrap -->
 			<div id="nav-sub">
 				<div id="nav-login">
-					<a href="http://myaccount.timesfreepress.com/User/Login">
+					<a href="//myaccount.timesfreepress.com/User/Login">
 						<div id="login-icon"></div>
 						<div id="login-text">Login</div>
 					</a>
@@ -410,11 +425,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
 
 				<div class="searchWrap">
-                    <a href="http://www2.timesfreepress.com/search/news/" class="searchText" title="Search">Search</a>
-                    <a href="http://www2.timesfreepress.com/search/news/" id="nav-search"></a>
+                    <a href="//www2.timesfreepress.com/search/news/" class="searchText" title="Search">Search</a>
+                    <a href="//www2.timesfreepress.com/search/news/" id="nav-search"></a>
 				</div>
 				<div id="nav-marketplace" style="display: none;">
-					<a href="http://classifieds.timesfreepress.com/" class="greyLink">
+					<a href="//classifieds.timesfreepress.com/" class="greyLink">
 						<div id="nav-classifieds">
 							<span class="nav-dot"></span>
 							<span class="nav-text">Classifieds</span>
@@ -422,58 +437,58 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</a>
 					<div id="nav-marketplace-menu">
 						<div class="nav-marketplace-section">
-							<a href="http://classifieds.timesfreepress.com/" class="nav-marketplace-head">
+							<a href="//classifieds.timesfreepress.com/" class="nav-marketplace-head">
 								<div class="nav-marketplace-badge classifieds-badge"></div>
 								<div class="nav-marketplace-header">Classifieds.</div>
 							</a>
 							<ul class="nav-marketplace-section-links">
-								<li><a href="http://sellit.timesfreepress.com">Sell your Stuff</a></li>
-								<li><a href="http://marketplace.timesfreepress.com">Buy Stuff</a></li>
+								<li><a href="//sellit.timesfreepress.com">Sell your Stuff</a></li>
+								<li><a href="//marketplace.timesfreepress.com">Buy Stuff</a></li>
 							</ul>
 						</div>
 						<div class="nav-marketplace-section">
-							<a href="http://biz.timesfreepress.com/" class="nav-marketplace-head">
+							<a href="//biz.timesfreepress.com/" class="nav-marketplace-head">
 								<div class="nav-marketplace-badge biz-badge"></div>
 								<div class="nav-marketplace-header">Biz.</div>
 							</a>
 							<ul class="nav-marketplace-section-links">
-								<li><a href="https://timesfreepress.partners.local.com/">Offer your Services</a></li>
-								<li><a href="http://biz.timesfreepress.com/">Find a Service</a></li>
+								<li><a href="//timesfreepress.partners.local.com/">Offer your Services</a></li>
+								<li><a href="//biz.timesfreepress.com/">Find a Service</a></li>
 							</ul>
 						</div>
 						<div class="nav-marketplace-section">
-							<a href="http://cars.timesfreepress.com/" class="nav-marketplace-head">
+							<a href="//cars.timesfreepress.com/" class="nav-marketplace-head">
 								<div class="nav-marketplace-badge cars-badge"></div>
 								<div class="nav-marketplace-header">Cars.</div>
 							</a>
 							<ul class="nav-marketplace-section-links">
-                                <li><a href="http://sellit.timesfreepress.com">Sell your Car</a></li>
-								<li><a href="http://cars.timesfreepress.com/">Find a Car</a></li>
-                                <li><a href="http://cars.timesfreepress.com/Chattanooga-TN-37416/New-Sedans/For-Sale?q=1,,,,37416,50&amp;a=0">Cars</a></li>
-                                <li><a href="http://cars.timesfreepress.com/Chattanooga-TN-37416/New-Trucks/For-Sale?q=1,,,,37416,50&amp;a=6">Trucks</a></li>
+                                <li><a href="//sellit.timesfreepress.com">Sell your Car</a></li>
+								<li><a href="//cars.timesfreepress.com/">Find a Car</a></li>
+                                <li><a href="//cars.timesfreepress.com/Chattanooga-TN-37416/New-Sedans/For-Sale?q=1,,,,37416,50&amp;a=0">Cars</a></li>
+                                <li><a href="//cars.timesfreepress.com/Chattanooga-TN-37416/New-Trucks/For-Sale?q=1,,,,37416,50&amp;a=6">Trucks</a></li>
                                 <!-- <li><a href="http://cars3.timesfreepress.com/motors/results?clientid=tfpress&upgrades=bold">Deals on Wheels</a></li> -->
 							</ul>
 						</div>
 						<div class="nav-marketplace-section">
-							<a href="http://jobs.timesfreepress.com/" class="nav-marketplace-head">
+							<a href="//jobs.timesfreepress.com/" class="nav-marketplace-head">
 								<div class="nav-marketplace-badge jobs-badge"></div>
 								<div class="nav-marketplace-header">Jobs.</div>
 							</a>
 							<ul class="nav-marketplace-section-links">
-								<li><a href="http://jobs.timesfreepress.com/AdminNet/Employer/Marketing/2882">Post a Job</a></li>
-								<li><a href="http://jobs.timesfreepress.com/register/step1">Find a Job</a></li>
+								<li><a href="//jobs.timesfreepress.com/AdminNet/Employer/Marketing/2882">Post a Job</a></li>
+								<li><a href="//jobs.timesfreepress.com/register/step1">Find a Job</a></li>
 							</ul>
 						</div>
 						<div class="nav-marketplace-section">
-							<a href="http://homes.timesfreepress.com/" class="nav-marketplace-head">
+							<a href="//homes.timesfreepress.com/" class="nav-marketplace-head">
 								<div class="nav-marketplace-badge homes-badge"></div>
 								<div class="nav-marketplace-header">Homes.</div>
 							</a>
 							<ul class="nav-marketplace-section-links">
-								<li><a href="http://homes.timesfreepress.com/news/mediapages/">List your Property</a></li>
-								<li><a href="http://homes3.timesfreepress.com/homes/search">Find Property</a></li>
-								<li><a href="http://homes3.timesfreepress.com/homes/search/results?propertyType[0]=single_family&amp;propertyType[1]=condo&amp;propertyType[2]=apartment&amp;propertyType[3]=multi-family&amp;propertyType[4]=mobile_home&amp;sort=MinPrice+desc&amp;rows=20&amp;start=0&amp;distance=0&amp;terms=rent&amp;type=text">Find Rental Property</a></li>
-								<li><a href="http://homes.timesfreepress.com/news/realestate/homefinder/">HomeFinder</a></li>
+								<li><a href="//homes.timesfreepress.com/news/mediapages/">List your Property</a></li>
+								<li><a href="//homes3.timesfreepress.com/homes/search">Find Property</a></li>
+								<li><a href="//homes3.timesfreepress.com/homes/search/results?propertyType[0]=single_family&amp;propertyType[1]=condo&amp;propertyType[2]=apartment&amp;propertyType[3]=multi-family&amp;propertyType[4]=mobile_home&amp;sort=MinPrice+desc&amp;rows=20&amp;start=0&amp;distance=0&amp;terms=rent&amp;type=text">Find Rental Property</a></li>
+								<li><a href="//homes.timesfreepress.com/news/realestate/homefinder/">HomeFinder</a></li>
 							</ul>
 						</div>
 					</div>
@@ -545,20 +560,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<div id="footer-links">
 			<ul>
 				<li><a href="/sitemap/">Site Map</a></li>
-				<li><a href="http://timesfreepress.com/email-subscribe/" target="_blank">Email Newsletters</a></li>
-				<li><a href="http://www2.timesfreepress.com/subscribe/" target="_blank">Subscribe</a></li>
-				<li><a href="http://myaccount.timesfreepress.com/User/Login">Manage Your Account</a></li>
+				<li><a href="//timesfreepress.com/email-subscribe/" target="_blank">Email Newsletters</a></li>
+				<li><a href="//www2.timesfreepress.com/subscribe/" target="_blank">Subscribe</a></li>
+				<li><a href="//myaccount.timesfreepress.com/User/Login">Manage Your Account</a></li>
 			</ul>
 			<ul>
-				<li><a href="http://eedition.timesfreepress.com/Default/welcome.asp?skin=TimesFreePress&amp;QS=skin%3DTimesFreePress" target="_blank">Archives</a></li>
 				<li><a href="/contactus/">Contact Us</a></li>
 				<li><a href="/advertise/">Advertise</a></li>
 				<li><a href="/rewards/">Reader Rewards</a></li>
 			</ul>
 			<ul>
 				
-				<li><a href="http://sellit.timesfreepress.com/" target="_blank">Place an Ad</a></li>
-				<li><a href="http://www.timesfreepress.com/news/3-minute-read/story/2017/nov/17/test/457321/" target="_blank">Legal Notices</a></li>
+				<li><a href="//sellit.timesfreepress.com/" target="_blank">Place an Ad</a></li>
+				<li><a href="https://buy.timesfreepress.com/Default/Home/Search?minorClass=398" target="_blank">Legal Notices</a></li>
 			</ul>
 		</div>
 		<div id="footer-privacy">
@@ -592,7 +606,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div id="fb-root"></div>
 
 
-<script src="/js/pw.js"></script><script src="//web.archive.org/web/20170930082248/http://survey.g.doubleclick.net/survey?site=_7ttdtezr5byey42dgqtk5ndzge&amp;url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20180607111011id_%2Fhttp%253A%2F%2Fwww.timesfreepress.com%2Fprivacy-policy&amp;cid=everything&amp;random=1580463545970" type="text/javascript"></script>
+<!--<script src="/js/pw.js"></script>-->
 <script src="/js/dfpBuster.js"></script>
 
 <!-- chartbeat START -->
