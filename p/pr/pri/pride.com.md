@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pride.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624023752id_/https%3A//www.pridemedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pride.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230020642id_/https%3A//www.pridemedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Pride Media
 
