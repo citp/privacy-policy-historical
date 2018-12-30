@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebookseller.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628094110id_/https%3A//www.thebookseller.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebookseller.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230194006id_/https%3A//www.thebookseller.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Bookseller
 
@@ -44,7 +44,7 @@ We will only send you direct marketing communications in circumstances where we 
 
 When you sign up to any of our services, we ask for your consent to send you direct marketing communication over a variety of channels. We will honour your right to withdraw your consent at any time.
 
-When you enquire about or request a service from us, we may rely on our legitimate business interests to send you marketing communications (via post, email or telephone). These communications will always be related to our services and we believe will be of interest to you.  We will provide you with the opportunity to opt-out of this at any time. 
+When you enquire about or request a service from us, we may rely on our legitimate business interests to send you marketing communications (via post, email or telephone). These communications will always be related to our services and we believe will be of interest to you.  We will provide you with the opportunity to opt-out of this at any time. An example of this would be contacting previous business event attendees about the same event the following year. NB: We will only contact business contacts, and not consumers or sole traders when relying on our legitimate interests.
 
 If you want to stop receiving direct marketing from us, you can use the unsubscribe link at the bottom of any email you receive, amend your preferences by logging in to your Account on thebookseller.com, tell us when we call you or alternatively you can contact the representative responsible for Data Protection using the details available in the Privacy Summary.
 
@@ -59,6 +59,8 @@ However, just like most service providers, The Bookseller works with third parti
 We reserve the right to disclose to third parties your information to comply with applicable laws including but not limited to disclosure in accordance with the Act, the Regulation of Investigatory Powers Act 2000 and lawful authority requests, to safeguard the proper operation of our systems and to protect ourselves and the companies we work with.
 
 The Data Processors that The Bookseller currently works with to enhance the services we provide include, but are not limited to: Access, Adestra, Buxton Press, ESco, Epaqo, Eventsforce, Salesforce, Spatial, [VE Interactive](https://www.ve.com/privacy-policy). Please contact us for the most up-to-date list, if required.
+
+In some of our newsletters, The Bookseller may include banner advertising or advertorials from third parties, though, as stated, we will not pass on your information to third parties for their marketing purposes. Emails that include third party advertising include, but are not limited to, the Morning Briefing, FutureBook, Rights, Books in the Media and Sneak Peek emails. If you do not wish to receive this third-party advertising, do not subscribe to these emails, or use an ad blocker on your email service provider.
 
 ### **6\. Information Security**
 
