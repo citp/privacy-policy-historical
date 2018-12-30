@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sharethrough.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629112753id_/https%3A//platform-cdn.sharethrough.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharethrough.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230095213id_/https%3A//platform-cdn.sharethrough.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Sharethrough
 
 ### Sharethrough Privacy Policy
 
-This content is displayed by [Sharethrough](http://www.sharethrough.com/), the all-in-one native advertising application for publishers, app developers and advertisers, and is paid for by the advertiser or marketer displayed. You can read our Privacy Policy to learn more about how we use information to operate our application and deliver content, and to learn how to "opt out" of the targeted advertising of many companies that help deliver interest based advertising using our application or other content, websites and applications. We adhere to the standards of the DAAC online advertising program, and you may learn more about and opt out from companies that participate in that program at [youradchoices.ca](https://web.archive.org/web/20180629112753id_/https%3A//platform-cdn.sharethrough.com/youradchoices.ca).
+This content is displayed by [Sharethrough](http://www.sharethrough.com/), the all-in-one native advertising application for publishers, app developers and advertisers, and is paid for by the advertiser or marketer displayed. You can read our Privacy Policy to learn more about how we use information to operate our application and deliver content, and to learn how to "opt out" of the targeted advertising of many companies that help deliver interest based advertising using our application or other content, websites and applications. We adhere to the standards of the DAAC online advertising program, and you may learn more about and opt out from companies that participate in that program at [youradchoices.ca](https://web.archive.org/web/20181230095213id_/https%3A//platform-cdn.sharethrough.com/youradchoices.ca).
 
 * * *
 
@@ -206,8 +206,7 @@ We either collect these opt-out signals ourselves or receive them from the mobil
 
   * _Right to Erasure._
 
-You also have the right to obtain the erasure of Personal Data concerning you that we hold as a controller. The above opt-out process satisfies this right. When a user opts-out through our partners (or through mobile device settings), and we receive this signal, we no longer use Personal Data to provide our advertising services. We will also manually delete your Personal Data if prefer that we do so; please click the button below if you wish to exercise this right manually. Please note, however, that we may retain copies of certain Personal Data on inactive or back-up files, for our own internal and necessary purposes, such as auditing, accounting and billing, legal or bug-detection. We will in most cases delete such data within 36 months, absent a compelling reason to retain it.   
-
+You also have the right to obtain the erasure of Personal Data concerning you that we hold as a controller. The above opt-out process satisfies this right. When a user opts-out through our partners (or through mobile device settings), and we receive this signal, we no longer use Personal Data to provide our advertising services. We will also manually delete your Personal Data if prefer that we do so; please contact us at support@sharethrough.com for further instructions if you wish to exercise this right manually. Please note, however, that we may retain copies of certain Personal Data on inactive or back-up files, for our own internal and necessary purposes, such as auditing, accounting and billing, legal or bug-detection. We will in most cases delete such data within 36 months, absent a compelling reason to retain it. 
 
   * _Right to Lodge Complaints._ You have the right to lodge a complaint with a supervisory authority. However, we hope that you will first consult with us, so that we may work with you to resolve any complaint or concern you might have.
 
@@ -223,14 +222,14 @@ If you have any inquiries or concerns regarding this Privacy Policy or our priva
 
 Sharethrough, Inc.  
 Attention: Privacy Inquiries   
-840 Battery St.   
-San Francisco, CA 94111 
+170 Columbus Ave, Suite 280  
+San Francisco, CA 94133 
 
 Last Updated: May 2018
 
 **Politique de confidentialité de Sharethrough**
 
-Ce contenu vous est proposé par [Sharethrough](http://sharethrough.com/), le logiciel de publicités natives tout-en-un destiné aux éditeurs, aux développeurs d'applications et aux annonceurs, et pris directement en charge par l'annonceur ou le distributeur. Sharethrough utilise la méthode de ciblage dite « par centres d'intérêt » pour aider les professionnels du marketing et les éditeurs avec lesquels nous travaillons à proposer à leurs utilisateurs des publicités et un contenu plus pertinents. Consultez notre politique de confidentialité pour découvrir comment nous utilisons ces informations aux fins de la livraison de contenu et comment se désinscrire du ciblage Sharethrough sur ce navigateur ou cet appareil, ou ce [site web mis au point par le secteur](http://www.aboutads.info/) permettant de renoncer aux services de nombreuses autres sociétés qui proposent des publicités selon les centres d'intérêt. Nous adhérons aux normes du programme de publicité en ligne de la DAAC, et vous pouvez en apprendre davantage sur les entreprises qui participent à ce programme sur le site [youradchoices.ca](https://web.archive.org/web/20180629112753id_/https%3A//platform-cdn.sharethrough.com/youradchoices.ca) et vous en retirer.
+Ce contenu vous est proposé par [Sharethrough](http://sharethrough.com/), le logiciel de publicités natives tout-en-un destiné aux éditeurs, aux développeurs d'applications et aux annonceurs, et pris directement en charge par l'annonceur ou le distributeur. Sharethrough utilise la méthode de ciblage dite « par centres d'intérêt » pour aider les professionnels du marketing et les éditeurs avec lesquels nous travaillons à proposer à leurs utilisateurs des publicités et un contenu plus pertinents. Consultez notre politique de confidentialité pour découvrir comment nous utilisons ces informations aux fins de la livraison de contenu et comment se désinscrire du ciblage Sharethrough sur ce navigateur ou cet appareil, ou ce [site web mis au point par le secteur](http://www.aboutads.info/) permettant de renoncer aux services de nombreuses autres sociétés qui proposent des publicités selon les centres d'intérêt. Nous adhérons aux normes du programme de publicité en ligne de la DAAC, et vous pouvez en apprendre davantage sur les entreprises qui participent à ce programme sur le site [youradchoices.ca](https://web.archive.org/web/20181230095213id_/https%3A//platform-cdn.sharethrough.com/youradchoices.ca) et vous en retirer.
 
 * * *
 
@@ -259,7 +258,7 @@ La présente Politique de confidentialité régit deux ensembles de procédures 
 
 Nous estimons que la livraison d'un contenu ciblé et pertinent améliore votre expérience de navigation en ligne et mobile et permet de financer les médias et contenus qui vous sont proposés gratuitement. Comme nous l'indiquons plus loin dans la présente Politique de confidentialité, nous (ou l'un de nos partenaires) pouvons recueillir de manière anonyme des Informations à caractère non personnel en connexion avec vos activités sur un navigateur web ou un appareil mobile (cf. Section 3). « Informations non personnelles » fait référence aux informations pouvant faire l'objet de la création d'un lien unique avec un navigateur ou un appareil, mais où ne figurent pas vos nom, numéro de téléphone ou adresse e-mail ni toute autre donnée d'identification officielle (comme votre numéro de sécurité sociale). Nos partenaires et nous-mêmes utilisons ces informations pour vous proposer un contenu plus pertinent et intéressant et moins susceptible d'être perçu comme une nuisance. Vous avez ainsi moins de chances de voir le même contenu à plusieurs reprises ou un contenu qui ne correspond pas à vos goûts et centres d'intérêt.
 
-Si vous préférez que nous (et/ou) les plateformes tierces avec lesquelles nous travaillons ne collections pas cette information à propos de votre activité web ou mobile dans le but de vous fournir un ciblage publicitaire, vous pouvez vous désinscrire en cliquant sur le bouton ici.
+Si vous ne souhaitez pas que nous, et/ou les plateformes tierces avec lesquelles nous travaillons, recueillions ces informations à propos de vos activités sur votre navigateur web ou mobile aux fins de la fourniture de publicités ciblées, vous pouvez choisir de ne pas vous inscrire sur les plateformes publicitaires en ligne proposant des publicités ciblées. Si vous souhaitez vous désinscrire des plateformes tierces pouvant proposer un contenu personnalisé ou des publicités ciblées avec lesquelles nous sommes susceptibles de travailler de temps en temps (ou simplement pour en savoir plus à ce propos), rendez-vous sur les sites web hébergés par la [Digital Advertising Alliance](https://www.aboutads.info/) et la [Network Advertising Initiative](https://www.networkadvertising.org/). Sachez que ces outils de désinscription utilisent des cookies et que si vous choisissez de bloquer leurs cookies, de les supprimer ou de modifier ou mettre à jour votre navigateur, vous devrez vous désinscrire à nouveau. Vous pouvez également exprimer votre refus de tout contenu publicitaire mobile à l'aide de nos identifiants d'abonné mobile (comme votre identifiant publicitaire Android ou votre IDFA) en configurant les paramètres de votre appareil. 
 
 **3\. Procédures de confidentialité pour les Utilisateurs finaux recevant et consultant le Contenu  : quelles sont les données recueillies et comment nous les utilisons et les partageons**
 
@@ -443,8 +442,8 @@ Si vous avez des questions ou inquiétudes à propos de la présente Politique d
 
 Sharethrough, Inc.  
 À l'attention de : Privacy Inquiries   
-840 Battery St.   
-San Francisco, CA 94111, États-Unis
+170 Columbus Ave, Suite 280  
+San Francisco, CA 94133, États-Unis
 
 Dernière mise à jour : mai 2018
 
@@ -479,9 +478,9 @@ Diese Datenschutzrichtlinie regelt zwei verschiedene Datenschutzpraktiken:
 
 Wir sind davon überzeugt, dass die Bereitstellung gezielter, relevanter Inhalte Ihre Erfahrung bei der Nutzung des Internets und mobiler Geräte verbessert und freie Medien sowie andere beliebte Inhalte fördert. Wie in dieser Datenschutzrichtlinie des Weiteren beschrieben, erfassen wir (oder unsere Partner) anonymisierte, nicht-personenbezogene Daten zu Ihren Aktivitäten im Internet oder auf mobilen Geräten (wie in Abschnitt 3 beschrieben). Unter „nicht-personenbezogenen Daten“ verstehen wir Informationen, die nur an einen Browser oder ein Gerät gekoppelt sind, ohne dass darin Name, Adresse, Telefonnummer, E-Mail-Adresse oder andere, öffentliche Identifikatoren (z. B. die Sozialversicherungsnummer) des Nutzers enthalten sind. Anhand dieser Informationen stellen wir und diese Browser bzw. Gräte relevantere, ansprechendere und weniger störende Inhalte bereit – um zum Beispiel zu verhindern, dass dieselben Inhalte wiederholt angezeigt werden oder diese für Sie überhaupt nicht relevant sind. 
 
-In Ihren Geräteeinstellungen können Sie außerdem den Empfang von Werbung auf mobilen Geräten auf Grundlage der Erfassung mobiler Kennungen (wie z. B. IDFA oder Android-Ad-ID) ablehnen. Um beispielsweise Ihre bevorzugten Anzeigeneinstellungen in iOS einzurichten, gehen Sie auf Einstellungen > Datenschutz > Werbung > Kein Ad-Tracking. Um Ihre bevorzugten Anzeigeneinstellungen in Android einzurichten gehen Sie auf Einstellungen > Google > Anzeigen > Personalisierte Werbung deaktivieren.  (Die exakte Formulierung kann auf bestimmten oder älteren Geräten abweichen.) Wir erfassen diese Opt-out-Signale entweder selbst oder erhalten diese über die Apps für Mobilgeräte, mit denen wir arbeiten.
+Falls Sie nicht wünschen, dass wir oder Drittplattformen diese Informationen über Ihre Aktivitäten im Internet oder auf mobilen Geräten erfassen, um Ihnen gezielte Werbeinhalte anzuzeigen, können Sie die Dienste von vielen Online-Plattformen, die gezielte Werbeinhalte bereitstellen, deaktivieren. Um Plattformen, die möglicherweise Werbung oder Inhalte auf Sie abstimmen und mit denen wir gelegentlich zusammenarbeiten, zu deaktivieren oder mehr über sie zu erfahren, besuchen Sie bitte die von der [Digital Advertising Alliance](http://www.aboutads.info/) und der [ >Network Advertising Initiative](https://www.networkadvertising.org/) Bitte beachten Sie, dass diese Opt-out-Tools Cookies verwenden. Sollten Sie Cookies blockieren, löschen, ändern oder eine neuere Version Ihres Browsers installieren, müssen Sie die betreffenden Dienste erneut deaktivieren. In Ihren Geräteeinstellungen können Sie außerdem den Empfang von Werbung auf mobilen Geräten auf Grundlage der Erfassung mobiler Kennungen (wie z. B. IDFA oder Android-Ad-ID) ablehnen.
 
-Falls Sie nicht wünschen, dass wir oder Drittplattformen diese Informationen über Ihre Aktivitäten im Internet oder auf mobilen Geräten erfassen, um Ihnen gezielte Werbeinhalte anzuzeigen, können Sie den untenstehenden Opt-Out Button anklicken, um den Diensten von vielen Online-Plattformen, die gezielte Werbeinhalte bereitstellen, zu widersprechen.
+In Ihren Geräteeinstellungen können Sie außerdem den Empfang von Werbung auf mobilen Geräten auf Grundlage der Erfassung mobiler Kennungen (wie z. B. IDFA oder Android-Ad-ID) ablehnen. Um beispielsweise Ihre bevorzugten Anzeigeneinstellungen in iOS einzurichten, gehen Sie auf Einstellungen > Datenschutz > Werbung > Kein Ad-Tracking. Um Ihre bevorzugten Anzeigeneinstellungen in Android einzurichten gehen Sie auf Einstellungen > Google > Anzeigen > Personalisierte Werbung deaktivieren.  (Die exakte Formulierung kann auf bestimmten oder älteren Geräten abweichen.) Wir erfassen diese Opt-out-Signale entweder selbst oder erhalten diese über die Apps für Mobilgeräte, mit denen wir arbeiten.
 
 **3\. Datenschutzpraktiken für Endnutzer, die Inhalte erhalten und sehen: Die von uns erfassten Daten und wie wir sie nutzen und weitergeben.**
 
@@ -665,14 +664,14 @@ Falls Sie hinsichtlich dieser Datenschutzrichtlinie oder unserer Datenschutzprak
 
 Sharethrough, Inc.   
 Attention: Privacy Inquiries   
-840 Battery St.   
-San Francisco, CA 94111
+170 Columbus Ave, Suite 280  
+San Francisco, CA 94133
 
 Stand: Mai 2018
 
 **Informativa sulla privacy di Sharethrough**
 
-Questo contenuto è reso visibile da [Sharethrough](https://web.archive.org/web/20180629112753id_/https%3A//platform-cdn.sharethrough.com/www.sharethrough.com/), l’applicazione di native advertising all-in-one per editori, sviluppatori di app e inserzionisti, ed è pagato dall’inserzionista o addetto al marketing indicato. La nostra Informativa sulla privacy spiega come utilizziamo informazioni per il funzionamento della nostra applicazione e per erogare contenuti e come disattivare la pubblicità mirata da parte di molte aziende che si occupano dell’erogazione di pubblicità basata sugli interessi tramite la nostra applicazione o altri contenuti, siti internet e applicazioni.
+Questo contenuto è reso visibile da [Sharethrough](https://web.archive.org/web/20181230095213id_/https%3A//platform-cdn.sharethrough.com/www.sharethrough.com/), l’applicazione di native advertising all-in-one per editori, sviluppatori di app e inserzionisti, ed è pagato dall’inserzionista o addetto al marketing indicato. La nostra Informativa sulla privacy spiega come utilizziamo informazioni per il funzionamento della nostra applicazione e per erogare contenuti e come disattivare la pubblicità mirata da parte di molte aziende che si occupano dell’erogazione di pubblicità basata sugli interessi tramite la nostra applicazione o altri contenuti, siti internet e applicazioni.
 
 * * *
 
@@ -701,7 +700,7 @@ La presente Informativa sulla privacy regola due distinti ambiti concernenti i d
 
 Riteniamo che proporre contenuti mirati e pertinenti migliori la vostra fruizione di internet e dei dispositivi mobili; tale pratica sovvenziona i media gratuiti e altri contenuti di ampia diffusione. Come descritto nel seguito della presente Informativa sulla privacy, noi (o un partner con cui collaboriamo) potremmo raccogliere dati non personali in forma anonima associati alle vostre attività sul web o su dispositivi mobili (cfr. sezione 3). Per “dati non personali” intendiamo informazioni associate in modo univoco a un browser o dispositivo, ma che non contengono il vostro nome, indirizzo, numero di telefono, indirizzo e-mail o altri strumenti di identificazione delle persone fisiche rilasciati dallo Stato (come il codice fiscale). Sia noi, sia loro utilizziamo tali informazioni per fornirvi contenuti più pertinenti e accattivanti, nonché solitamente meno fastidiosi: ad esempio, per ridurre le possibilità che vi siano riproposti più volte gli stessi contenuti o ne visualizziate di non affini ai vostri interessi.
 
-Se si sceglie di non autorizzare nè noi nè terzi al raccoglimento di informazioni dalla navigazione via web e/o mobile usate per fornire pubblicità mirate, è possibile disattivare l'opzione facendo click qui sotto.
+Se preferite che noi e/o piattaforme di terze parti con cui collaboriamo non raccogliamo tali informazioni circa le vostre attività sul web o su dispositivo mobile con lo scopo di proporre pubblicità mirata, potete negare il consenso a molte delle piattaforme pubblicitarie online che la distribuiscono. Se desiderate negare il consenso o semplicemente ricevere maggiori informazioni sulle piattaforme che possono proporre inserzioni o contenuti mirati all’utente e con cui potremmo talora collaborare, potete visitare i siti di [Digital Advertising Alliance](http://www.aboutads.info/) e [Network Advertising Initiative.](https://www.networkadvertising.org/)Segnaliamo che questi strumenti per la negazione del consenso sono basati sui cookie, quindi se questi vengono bloccati o eliminati, o se viene cambiato o aggiornato il browser, occorrerà negare di nuovo il consenso. Potete anche disattivare la ricezione di pubblicità su dispositivo mobile basata sugli identificativi da noi utilizzati (come l’IDFA o l’ID Pubblicità su Android) modificando le “impostazioni” del dispositivo.
 
 Potete anche disattivare la ricezione di pubblicità su dispositivo mobile basata sugli identificativi da noi utilizzati (come l’IDFA o l’ID Pubblicità su Android) modificando le “impostazioni” del dispositivo. Ad esempio, per modificare le preferenze relative ai messaggi pubblicitari su iOS, selezionate Impostazioni > Privacy > Pubblicità > Limita raccolta dati pubblicitari. Per modificare le preferenze annunci su Android, selezionate Impostazioni > Google > Annunci > Disattiva annunci basati sugli interessi. (Su alcuni dispositivi, soprattutto se modelli precedenti, le istruzioni potrebbero essere formulate diversamente). Ci occupiamo direttamente della raccolta di queste segnalazioni per la negazione del consenso oppure le riceviamo dalle app per dispositivi mobili con le quali collaboriamo.
 
@@ -887,8 +886,8 @@ Per eventuali domande o dubbi circa la presente Informativa sulla privacy o le n
 
 Sharethrough, Inc.   
 Attention: Privacy Inquiries   
-840 Battery St.   
-San Francisco, CA 94111, USA
+170 Columbus Ave, Suite 280  
+San Francisco, CA 94133, USA
 
 Ultimo aggiornamento: maggio 2018
 
@@ -919,7 +918,7 @@ La presente Política de privacidad rige dos grupos de prácticas en cuanto a da
 
 En nuestra opinión, facilitar contenido pertinente y personalizado mejora la experiencia de uso del móvil y de Internet y sirve para subvencionar contenido multimedia gratuito y otro contenido popular. Tal como describimos de manera más extensa en la presente Política de privacidad, nosotros (o un socio con el que colaboremos) podemos recopilar Información No Personal anónima asociada a las actividades que lleve a cabo en la web o con el móvil (descritas en el apartado 3). Al hablar de «Información No Personal», nos referimos a información que puede estar vinculada exclusivamente a un navegador o dispositivo, pero que no contiene su nombre, dirección, número de teléfono, dirección de correo electrónico u otra identificación gubernamental (como el número de la Seguridad Social). Estos medios y nosotros utilizamos esta información para facilitar contenido que resulte más pertinente e interesante y con menos probabilidades de molestarle (por ejemplo, para reducir las probabilidades de que vea el mismo contenido reiteradamente o de que se le muestre contenido que no le interesa).
 
-Si usted prefiere que ni nosotros ni terceros recibamos información sobre su actividad al explorar la Web para evitar la aparición de anuncios personalizados, usted puede hacer clic en el botón de abajo. 
+Si prefiere que nosotros o las plataformas externas con las que trabajamos no recopilemos esta información sobre su actividad móvil o en la web con el fin de presentarle publicidad personalizada, puede cancelar muchas de las plataformas publicitarias online que proporcionan publicidad personalizada. Si desea cancelar las plataformas que pueden personalizar anuncios o contenido para el usuario (o simplemente obtener más información acerca de ellas), y con las que podemos colaborar en ocasiones, puede visitar los sitios web alojados por la [Digital Advertising Alliance](https://www.aboutads.com/) (Alianza de Publicidad Digital) y por la [Network Advertising Initiative](https://www.networkadvertising.org/) (Iniciativa de Publicidad en Red). Estas herramientas de cancelación se basan en cookies; por consiguiente, si bloquea o borra las cookies o si cambia o actualiza el navegador, tendrá que volver a realizar la cancelación. A través de los «ajustes» de su dispositivo también puede cancelar la recepción de publicidad en el móvil basándose en la recopilación de identificadores móviles (por ejemplo el IDFA o el ID de publicidad de Android). 
 
 A través de los «ajustes» de su dispositivo también puede cancelar la recepción de publicidad en el móvil basándose en la recopilación de identificadores móviles (por ejemplo el IDFA o el ID de publicidad de Android). Por ejemplo, para ajustar sus preferencias de publicidad en iOS, vaya a Ajustes > Privacidad > Publicidad > Limitar seguimiento. Para ajustar sus preferencias de publicidad en Android, vaya a Ajustes > Google > Anuncios > Inhabilitar Personalización de Anuncios.  (Estas preferencias pueden venir expresadas de forma ligeramente diferente en algunos dispositivos o en algunos modelos más antiguos). Recopilamos estas señales de cancelación nosotros mismos o las recibimos de las aplicaciones móviles con las que trabajamos.
 
@@ -1071,7 +1070,7 @@ El RGPD nos obliga a informarle sobre la base jurídica en la que nos amparamos 
 
 Sharethrough trabaja con empresas y tecnologías de todo el mundo, por lo que es posible que tengamos la necesidad de transferir sus Datos personales fuera del país en el que hayan sido obtenidos originariamente. Por ejemplo, podemos transferir sus datos a terceros con los que trabajemos y que se encuentren en jurisdicciones fuera del EEE o Suiza, y puede ocurrir que no haya legislación para la protección de datos o bien que la legislación sea menos estricta que la vigente en Europa.
 
-Cuando transferimos Datos personales fuera del EEE o de Suiza, adoptamos las medidas necesarias para que se den las garantías oportunas que velen por la protección de sus Datos personales. Por ejemplo, tal y como se describe en el apartado 6([d](https://web.archive.org/web/20180629112753id_/https%3A//platform-cdn.sharethrough.com/international-users-es)), Sharethrough cuenta con la homologación del Escudo de la Privacidad, por lo que se autocertifica para proteger los Datos personales del EEE y Suiza con arreglo a los principios de privacidad de datos establecidos. Puede obtener más información sobre esta cuestión en el apartado 11.  Si desea más información sobre las garantías de que disponemos para proteger sus Datos personales y sus derechos de privacidad en estas circunstancias, póngase en contacto con nosotros a través de los medios que se detallan a continuación.
+Cuando transferimos Datos personales fuera del EEE o de Suiza, adoptamos las medidas necesarias para que se den las garantías oportunas que velen por la protección de sus Datos personales. Por ejemplo, tal y como se describe en el apartado 6([d](https://web.archive.org/web/20181230095213id_/https%3A//platform-cdn.sharethrough.com/international-users-es)), Sharethrough cuenta con la homologación del Escudo de la Privacidad, por lo que se autocertifica para proteger los Datos personales del EEE y Suiza con arreglo a los principios de privacidad de datos establecidos. Puede obtener más información sobre esta cuestión en el apartado 11.  Si desea más información sobre las garantías de que disponemos para proteger sus Datos personales y sus derechos de privacidad en estas circunstancias, póngase en contacto con nosotros a través de los medios que se detallan a continuación.
 
 **c. Conservación de Datos personales**
 
@@ -1107,8 +1106,8 @@ Si tiene alguna pregunta o duda sobre la presente Política de privacidad o sobr
 
 Sharethrough, Inc.   
 A la atención de: Privacy Inquiries   
-840 Battery St.   
-San Francisco, CA 94111, Estados Unidos
+170 Columbus Ave, Suite 280  
+San Francisco, CA 94133, Estados Unidos
 
 Última actualización: mayo de 2018
 
@@ -1139,7 +1138,7 @@ Sharethroughのウェブサイトと本サービスのユーザーは、一般�
 
 当社では的を絞った関連コンテンツをお届けすることは、お客様のインターネットおよびモバイル体験を豊かなものにし、無料メディアおよびその他の人気のあるコンテンツを支援すると考えています。このプライバシーポリシーでさらに説明しているように、当社（または提携しているパートナー）では、お客さまのウェブまたはモバイルでのアクティビティ（第3節に記載する）に関する匿名で「個人情報とならない情報」を収集することがあります。「個人情報とならない情報」とは、特にブラウザーまたはデバイスと関連するものの、それ自体にはお客さまの名前、住所、電話番号、メールアドレス、その他国民識別番号（社会保障番号など）を含まない情報をいいます。当社およびパブリッシャーや広告主は、お客様にとってより関連性があって興味を引くコンテンツを提供し、同じ内容のコンテンツを何度も目にする、あるいはお客様の興味とはまったく無関係のコンテンツを見せられるなどといった迷惑な事態を避けるためにこれらの情報を使用します。
 
-弊社及び弊社の協業企業が、貴方に合った広告を配信するために貴方のウェブやモバイルにおける閲覧履歴などの情報を収集することがあります。もしこの事をお望みでない場合は、以下のボタンをクリックし、オプトアウトすることが可能です。
+お客さまのウェブまたはモバイルでのアクティビティに関するこのような情報は、的を絞った広告をお届けするために必要なのですが、当社および提携する第三者プラットフォームが収集することを希望されない場合、そのような的を絞った広告をお届けしているオンライン広告プラットフォームの多くをオプトアウトできます。当社は広告やコンテンツをお客さまに合わせてカスタム化している他のプラットフォームと提携していることもありますが、そのような他のプラットフォームをオプトアウトしたい（または単にもっとお知りになりたい）場合は、[Digital Advertising Alliance](https://www.aboutads.com/)および[Network Advertising Initiative](https://www.networkadvertising.org/)がホストしているウェブサイトをご覧いただくことができます。このようなオプトアウトのツールはクッキーをベースにしていますので、クッキーのブロックや削除、ブラウザーの変更や更新をすると、再度オプトアウトする必要があります。また、お使いのデバイスの「設定」により、収集したモバイル識別子（DFAやAndroid Ad IDなど）に基づいたモバイルベースの広告の受け取りをオプトアウトすることもできます。
 
 また、お使いのデバイスの「設定」により、収集したモバイル識別子（DFAやAndroid Ad IDなど）に基づいたモバイルベースの広告の受け取りをオプトアウトすることもできます。 例えば、iOSで広告設定を調整するには、「設定」＞「プライバシー」＞「広告」＞「追跡型広告を制限」の順に選択します。Androidで広告設定を調整するには、「設定」＞「Google」＞「広告」＞「インタレスト ベース広告をオプトアウトする」の順に選択します。（デバイスの機種や年式によって、表現に多少の違いがある可能性があります。） 当社はこれらのオプトアウト信号を独自に収集するか、当社が協働しているモバイルアプリから受信します。
 
@@ -1289,7 +1288,7 @@ GDPRは、当社がお客様に関する個人データを処理するために�
 
 Sharethroughは国際的な企業やテクノロジーと協働しているため、当社がお客様が個人データを最初に提供された国の外に移転する必要が生じることもあります。例えば、当社は、当社が協働する第三者で、EEA圏またはスイスの司法権外にあり、データ保護規制が全くないか、あっても欧州ほど厳格でない司法権内に所在する組織にお客様のデータを移転することがあります。
 
-EEA圏またはスイス以外の場所に個人データを移転する場合、当社はお客様の個人データを保護するために適切な保障措置が確実に取られるように方策を講じます。例えば、セクション6（d）に説明されているように、Sharethroughは「Privacy Shiel[d](https://web.archive.org/web/20180629112753id_/https%3A//platform-cdn.sharethrough.com/international-users-jp)」認証を受けています。従って当社は、確立されたデータ機密性原則に基づきEEA圏およびスイスからの個人データを保護するために自己証明します。この点についてはセクション11で詳しくご説明いたします。当社がお客様の個人データを保護するために講じている予防手段、およびそのような状況でのプライバシー権利に関してさらに詳しい情報をお求めの場合、下記の連絡先までお気軽にお問い合わせください。
+EEA圏またはスイス以外の場所に個人データを移転する場合、当社はお客様の個人データを保護するために適切な保障措置が確実に取られるように方策を講じます。例えば、セクション6（d）に説明されているように、Sharethroughは「Privacy Shiel[d](https://web.archive.org/web/20181230095213id_/https%3A//platform-cdn.sharethrough.com/international-users-jp)」認証を受けています。従って当社は、確立されたデータ機密性原則に基づきEEA圏およびスイスからの個人データを保護するために自己証明します。この点についてはセクション11で詳しくご説明いたします。当社がお客様の個人データを保護するために講じている予防手段、およびそのような状況でのプライバシー権利に関してさらに詳しい情報をお求めの場合、下記の連絡先までお気軽にお問い合わせください。
 
 **c. 個人データの保持**
 
@@ -1325,7 +1324,7 @@ EUデータ保護法は、独自の目的で個人データを処理する組織
 
 Sharethrough, Inc.  
 Attention: Privacy Inquiries  
-840 Battery St.  
-San Francisco, CA 94111 
+170 Columbus Ave, Suite 280  
+San Francisco, CA 94133 
 
 最終更新：2018年5月
