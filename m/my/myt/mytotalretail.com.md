@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mytotalretail.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630221413id_/http%3A//www.napco.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytotalretail.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230205425id_/http%3A//www.napco.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy -
 
@@ -52,7 +52,7 @@ When using our Services you consent to the collection, transfer, manipulation, s
   * **Third Party Data**. We may supplement information you give us with information from other sources, such as information to validate or update your address, credit-card or other demographic and lifestyle information. We use this information to help us maintain the accuracy of the information we collect, to target our communications so that we can inform you of products and services that may be of interest, and for internal business analysis or other business purposes.
 
 
-  * **Social Media.** In addition to media that we control, such as the NAPCO Sites, the Publications, the NAPCO Apps, and the Resources, you may post comments, photographs, drawings and other content on third party social media, such as Facebook, Instagram and Twitter, each of which enforces its own terms of use and privacy policy for its service. This is also true for the NAPCO Media pages on Social Media Sites. As noted in the Terms of Use, we may use and copy the content you post. More to the point, your content may contain personal information about you and other people in the form of names, email addresses and location information. You should also be aware that a photograph or drawing of a person may be personal information to the extent the person may be recognized in and identified by the photograph or drawing. We may collect and use content and the personal information contained in the content to market our Services.
+  * **Social Media.** In addition to media that we control, such as the NAPCO Sites, the Publications, the NAPCO Apps, and the Resources, you may post comments, photographs, drawings and other content on third party social media, such as Facebook, Instagram and Twitter, each of which enforces its own terms of use and privacy policy for its service. This is also true for the NAPCO Media pages on Social Media Sites. As noted in the [Terms of Use](http://www.napco.com/terms/), we may use and copy the content you post. More to the point, your content may contain personal information about you and other people in the form of names, email addresses and location information. You should also be aware that a photograph or drawing of a person may be personal information to the extent the person may be recognized in and identified by the photograph or drawing. We may collect and use content and the personal information contained in the content to market our Services.
 
 
   * **Analytics.** We use third-party analytics tools to help us measure traffic and usage trends and other non-personal information for the Services. These tools collect information sent by your device or our Services, including the web pages you visit, add-ons, and other information that assists us in improving our Services. We collect and combine this analytics information with analytics information from other users so that it cannot be used to identify any particular individual user.
@@ -79,7 +79,7 @@ When using our Services you consent to the collection, transfer, manipulation, s
   * Certain types of content you submit to us might reveal your gender, ethnic origin, nationality, age, religion, sexual orientation, or other personal information about you or others.
 
 
-  * By using our Services, or by submitting your personal Information to us, you consent to the collection, storage, processing and onward transfer of your personal Information as stated in the current version of this Privacy Statement and the current version of the _Terms of Use_.
+  * By using our Services, or by submitting your personal Information to us, you consent to the collection, storage, processing and onward transfer of your personal Information as stated in the current version of this Privacy Statement and the current version of the _[Terms of Use](http://www.napco.com/terms/)_.
 
 
 
