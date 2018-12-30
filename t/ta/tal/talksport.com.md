@@ -1,111 +1,329 @@
-> *The following text is extracted and transformed from the talksport.com privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508094900id_/http%3A//talksport.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talksport.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230181647id_/https%3A//newsprivacy.co.uk/single) for the most accurate reproduction.*
 
-# Privacy Policy | talkSPORT
+# News UK - Privacy Policy
 
-talkSPORT Ltd and each of its group companies ("we”) are committed to protecting and respecting your privacy.
+This Privacy and Cookie Policy (this Policy) explains how we collect, use, share, disclose or otherwise process personal information we hold about you. Understanding what our audiences prefer allows us to personalise content, show relevant adverts, and generally improve your experience of our products and services.
 
-This policy (the ‘Privacy Policy’) (together with our Website Terms and Conditions of Use, a copy of which can be found at <http://talksport.com/privacy> together with any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+News Corp UK & Ireland Limited and its subsidiary companies listed below (together “News UK”, "we", “our” or "us") will collect, use, share and disclose or otherwise process your personal information in line with this Policy. The relevant data controller for your data will depend on which product or service you have interacted with or to which title you have subscribed as set out below.
 
-This Privacy Policy also contains our policies on cookies. NOTE this policy only applies to this Website and not to the companies, individuals, organisations or other websites to which there are links.
+**News Group Newspapers Limited**  
+The Sun, The Sun on Sunday, The Irish Sun, The Scottish Sun, The Irish Sun on Sunday, The Scottish Sun on Sunday and the associated websites.
 
-For the purpose of the Data Protection Act 1998 (the ‘Act’), the data controller is talkSPORT Ltd, Ormeau Road, Belfast, BT7 1EB. talkSPORT Ltd is the data controller for various talkSPORT Ltd group companies. Please note that the personal information collected from each talkSPORT Ltd website, including this Website, will be stored separately.
+**News Promotions Limited**  
+The Sun's Dream Team Fantasy Football and the associated websites.
 
-Your use of this Website signifies your consent to us collecting and using personal information about you as specified below in accordance with this Privacy Policy. Should we choose to change our Privacy Policy for any reason, the changes will be posted on this Website, so that you are always kept informed of how we collect and use your personal information, and when we may disclose it.
+**Times Newspapers Limited**  
+The Times, The Sunday Times and The Sunday Times Travel Magazine and the associated websites.
 
-Information Collected
+**Newsprinters Limited**  
+Direct to Consumer, Direct to Retail and other production and retail services
 
-We may collect and process the following data about you:
+**The Times Literary Supplement Limited**  
+The Times Literary Supplement and the associated websites.
 
-• Information that you provide by filling in forms on our site [http://talksport.com](http://talksport.com/) (the Website). This includes information provided at the time of registering to use the Website, subscribing to our service, posting material or requesting further services. We may also ask you for information when you enter a competition or promotion sponsored by talkSPORT Ltd or any of its group companies, and when you report a problem with the Website.  
-• If you contact us, we may keep a record of that correspondence.  
-• We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.  
-• Details of transactions you carry out through the Website and of the fulfilment of your orders.  
-• Details of your visits to the Website including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access. 
+**Sunday Times Driving Limited**  
+Sunday Times Driving Limited
 
-IP Addresses
+**News UK & Ireland Limited**  
+The Quiz App
 
-We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
+**talkSPORT Limited**  
+For the national radio stations talkSPORT, talkSPORT 2, talkRADIO and Virgin Radio UK, and the local radio stations Radio Wave 96.5, Wish FM 102.4, Tower FM, Wire FM 107.2, Peak FM, Total Access, Signal 1, Signal 2, Signal 80s, The Wave 96.4FM, Wave 80s, Swansea Sound, Pulse 1, Pulse 2, Pulse 80s, Signal 107, Scottish Sun 80s, Scottish Sun Hits, and Scottish Sun Greatest Hits
 
-Cookies
+**U105 Limited**  
+For U105, broadcasting on 105.8FM and DAB in Northern Ireland and associated websites.
 
-For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on your browser or the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve the Website and to deliver a better and more personalised service. Some of the cookies we use are essential for the Website to operate. They enable us:
+**The Internet Business Limited**  
+(Trading as Tibus) providers of digital infrastructure services.
 
-• to estimate our audience size and usage pattern;  
-• to store information about your preferences, and so allow us to customise our Website according to your individual interests;  
-• to speed up your searches; and  
-• to recognise you when you return to our Website.
+**Simply Zesty UK Limited**  
+(Trading as Zesty) a PR and digital social media agency operating in the UK.
 
-Cookies are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the Website. 
+**Independent Broadcasting Corporation Limited**  
+For LMFM in Drogheda
 
-If you register with us or if you continue to use the Website, you agree to our use of cookies.  
-You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of the Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies as soon you visit the Website.
+**Capital Radio Productions Limited**  
+For FM 104 in Dublin.
 
-Please note that our advertisers may also use cookies, over which we have no control.
+**Treaty Radio Limited**  
+For Live 95FM in Limerick.
 
-Storage  
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff working for us or for one of our suppliers and operating outside the EEA. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+**City Broadcasting Limited**  
+For Q102 in Dublin.
 
-All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+**Cork Media Enterprises Limited**  
+For 96FM and C103 in Cork.
 
-Uses made of the Information
+  * You can find out more about how and when collect your personal information.
 
-We use information held about you in the following ways:
 
-• To ensure that content from the Website is presented in the most effective manner for you and for your computer.  
-• To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.  
-• To carry out our obligations arising from any contracts entered into between you and us.  
-• To allow you to participate in interactive features of our service, when you choose to do so.  
-• to notify you about changes to our Website or our Website Terms and Conditions of Use..
 
-We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by post or telephone. 
+We collect information about you when you provide it to us: for example, when you fill out our online forms, subscribe to one of our titles, enter a competition being run on one of our radio stations, respond to our promotions, call or text in to the radio studio, register and use one of our apps, enquire about our products and services or participate in a reader forum (which could be on any medium). We may record phone calls or customer enquiries via online chat for quality, training and management purposes.
 
-If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you. 
+We also collect information automatically when you interact with our websites or use our apps. This can include information about the device and the device’s general geographic location. This can be to provide services that have copyright restrictions, or to deliver news that is relevant to where you are. We may also collect information from cookies placed on your device. See the section on Cookies for more information about our use of cookies. With your consent, we may also collect the specific location of your device or request access to data from other applications to provide certain services you have requested.
 
-If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this.  
-If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data (the registration form).  
-We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, men in Northern Ireland). We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience.
+If you log in to our websites or online services through a third party site, such as Facebook, that site may pass information to us, such as user ID, name associated with the ID, email address and location, plus other information permitted under the privacy policy for that website. Our websites and apps may also return information about you to that social networking site regarding your log in, such as which News UK websites and apps you visit and your use of the social media services on those websites and apps.
 
-Protection of your Information
+If you log in with or connect to your account using social media (Facebook, Twitter, etc), the social media service’s use of the shared information will be governed by their privacy policy. If you do not want your personal information shared in this way, please do not connect your social media service account with your News UK account, and do not participate in social sharing on our websites or apps.
 
-We are serious about guarding the security of your personal details. We have strict security procedures covering the storage and disclosure of your information in order to prevent unauthorised access and to comply with the Act. This means that sometimes we may ask you for proof of identity before disclosing any personal information to you.
+If you correspond with any of our titles or radio stations, or interact with other customers or audience members or our staff, for example by using polls, comments, text messages, video, email, phone, radio or by post, we may display this content indefinitely in any relevant context, subject to our editorial judgement and your rights as set out in this Policy. This may be anonymised in the case of testimonials or customer service conversations.
 
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our Website; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+If you take part in any reader or listener forums, send us letters for publication, or take part in any radio ‘phone-ins’, then you may be identifiable to others publicly and your comments attributed to you.
 
-Disclosure of your Information
+Any information about yourself or others that you post on our social media pages, on platforms like Twitter, Facebook and other chat rooms, blogs and forums, will be viewed by others (including search engines), over whom we have no control. You are responsible for the information you choose to post or otherwise make available in such public areas, and you acknowledge that this may be collected and used by third parties.
 
-We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
+We use Experian to make the content and advertising shown on devices that you might use or that may relate to the same household more relevant and useful. Experian may also provide insight reporting as part of their service. As part of this process Experian uses cookies and may receive information about the kind of device you use as well as your IP address, location data, device user agent string or information about websites where your device has previously displayed advertising. By using our sites, you acknowledge that Experian will process personal data about you for the above purpose and for the profiling of audiences bearing similarities to your data on the basis of our or their legitimate interests. You have a choice about whether or not you want your information to be used in this way and you can set your preferences by visiting [www.experianmarketingservices.digital/cookieoptout](https://www.experianmarketingservices.digital/cookieoptout). This won’t stop you from seeing content about our products and services when you visit our websites, but it will mean that the content you do see may not be as relevant to you.
 
-We may disclose your personal information to third parties:
+Our use of Acxiom (a database marketing company): If you have a subscription to one of our titles, or use one of our products or services, we may check with Acxiom to see if they have any relevant lifestyle and demographic insight information about you. This helps us make sure that our marketing is more relevant to you. This is only where you have provided permission or there is a legitimate interest for Acxiom and us to do this. Where we receive information from Acxiom, we use it in accordance with this Policy and the law. You have control over how that information is used. For more information on Acxiom and the data they provide, and to opt-out of their program, please [www.acxiom.co.uk](https://www.acxiom.co.uk/).
 
-• In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.  
-• If talkSPORT Ltd or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets. This may also be the case in the event of an acquisition of the relevant talkSPORT Ltd group company or substantially all of its assets.  
-• If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our Website Terms and Conditions of Use (a copy of which can be found elsewhere on this Website) and other agreements; or to protect the rights, property, or safety of talkSPORT Ltd, its group companies, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+We may also obtain online and offline information about you from other organisations, such as consumer insight providers that have your permission or where there is a legitimate interest in sharing your personal information with us or companies like us. We may combine this with information we collect in accordance with this Policy.
 
-Your Rights  
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us by completing the 'contact us' section appearing on this Website. 
+Other organisations that provide products and services to you may also share information with us. For example, they may notify us when you move home or when the payment card you used with us is renewed or replaced, so that we can keep your information accurate and up to date. This also helps ensure that you do not lose access to our products and services.
 
-You can withdraw your consent for us to hold your details by writing to or emailing us, including your name and full address, requesting a full removal of your details from our database.
+  * You can find out more about the legal reasons behind our use of your personal information and when they apply.
 
-Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
-Access to Information
 
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a small fee for each request made by you to meet our costs in providing you with details of the information we hold about you.
+There may be some uses of your information where we need to ask for your consent. You will have the right to withdraw that consent at any time, however, if you withdraw consent, we may not be able to provide the product or service you have requested.
 
-Third Parties  
-Information collected by cookies is used to provide summative statistics about our customers, and other Website information to third parties. Cookies do not include any personally identifiable information.
+We also process your personal information in order to fulfil a contract we have with you. For example, we would use your information to provide you with access to your digital subscription or other products you have signed up for or to provide a prize to which you are entitled.
 
-This Website allows third-party companies to serve ads, restrict the amounts of popups you get and/or collect certain anonymous information when you and other Internet users visit. These companies may use information (such as click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this Website and other Websites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third-party Web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising if you do not agree, you can visit networkadvertising.org or [www.aboutads.info](http://www.aboutads.info/). This Website also uses PubMatic, Inc.’s yield optimization services. To read more about how PubMatic uses cookies or to opt out of PubMatic’s cookie usage, please visit [http://www.pubmatic.com](http://www.pubmatic.com/)
+We may use your information where there is a legitimate reason to do so. For example, we may use your information where it would help achieve our business objectives or to facilitate a benefit to you or someone else.
 
-Your audio player (Windows Media Player, Win Amp, etc.) may also have a privacy policy attached to it. We advise you to read it. Some players do report anonymous statistics back to their creators.
+We only rely on legitimate interests if the reason for using your information is fair and lawful. Where we want to rely on legitimate interests as a legal basis, we will carry out a balancing test between our legitimate interests and your privacy rights. Our legitimate interests in processing personal data include:
 
-Disclosures
+  * to support a free press, including journalistic activities of societal importance;
+  * to support individual and societal rights to receive information;
+  * to develop, deliver and maintain relevant and engaging products services and advertising;
+  * understanding when our audiences engage with us or other organisations;
+  * to build a clearer understanding of who our audiences are in order to better serve them;
+  * to carry on the business of a commercial organisation; and
+  * to demonstrate that we provide services and products to agreed industry standards.
 
-We have a responsibility to keep your information confidential and we take all reasonable care to prevent any unauthorised access to your personal data. We do not disclose information that you may give, such as name, address, telephone number or e-mail address to any outside companies. However, we reserve the right to access and disclose individually identifiable information to comply with applicable laws and lawful government requests, to operate its systems properly or to protect itself or its users. 
 
-Changes to our Privacy Policy  
-Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
 
-Contacting Us
+There may be situations where we need to use your information to comply with legal and regulatory obligations or defend claims. This may include publishing information about prize winners, for example.
 
-Questions, comments and requests regarding this privacy policy are welcomed. If you have any questions or concerns about our use of your personal information please contact us by completing the 'contact us' section appearing on this Website.
+In the table below we have listed the main reasons we process your information and the legal bases that are available to us. The specific legal basis we use will depend on the activity the information is used for. Please keep in mind that while we will rely on one legal basis, if that is no longer available to us, we may be able to rely on another.
+
+Consent, Fulfil a Contract, Legitimate Interest 
+
+To send you product-related and similar product and services communications 
+
+Fulfil a Contract, Legitimate Interest 
+
+Consent, Legitimate Interest 
+
+Consent, Legitimate Interest 
+
+Fulfil a Contract, Legitimate Interest, Legal Obligation 
+
+Consent, Performance of a Contract, Legitimate Interest 
+
+Consent, Performance of a Contract, Legitimate Interest 
+
+Consent, Performance of a Contract, Legal Obligation 
+
+Legitimate Interest, Legal Obligation 
+
+Consent, Legitimate Interest, Legal Obligation 
+
+Consent, Performance of a Contract, Legitimate Interest, Legal Obligation 
+
+  * You can find out more about how we use your information.
+
+
+
+We will use your information to provide you with products and services you have asked for and to manage our relationship with you, including allowing you to interact, comment, and participate in online games, contests and reward programmes.
+
+We may use your information to monitor, improve and protect our products, content, services and websites, both online and offline. We may also provide you with help and support where we believe it is required. For example, if you have provided your contact information, we may contact you when a checkout journey is not completed.
+
+We sometimes make assumptions about your interests based on the way you interact with our products and services and the information we hold about you. For example:
+
+For The Times and The Sunday Times subscribers: If we notice that you regularly read the Business section of The Times website first, then move on to Comments, we may promote articles in those sections or other related content so you get the most out of the product. We might also tailor your Best of Times Bulletins and other communications.
+
+For Sun readers: If we notice that you have previously booked a Holiday for £9.50, we may continue to promote holidays to you in the future based on this information.
+
+For talkSPORT listeners: If we know you are interested in buying a car, we may insert a car advert into a commercial break on the online audio stream you are listening to.
+
+Knowing these preferences also allows us to understand the products, content and services our customers like, letting us focus our efforts on developing those areas. We may also use this information to make decisions about what direct marketing to show you.
+
+If you choose to turn on the “Do Not Track” setting in your browser, your browser sends a special signal to websites, analytics companies, ad networks, plug-in providers, and other web services you encounter while browsing to request that they stop tracking your activity. Currently our websites and apps are not designed to respond to “Do Not Track” signals.
+
+If you correspond with any of our titles or radio stations, or interact with other customers or audience members or our staff, for example by using polls, comments, text messages, video, email, phone, radio or by post, we may display this content indefinitely in any relevant context, subject to our editorial judgement and your rights as set out in this Policy. This may be anonymised in the case of testimonials or customer service conversations.
+
+If you take part in any reader or listener forums, send us letters for publication, or take part in any radio ‘phone-ins’, then you may be identifiable to others publicly and your comments attributed to you.
+
+Any information about yourself or others that you post on our social media pages, on platforms like Twitter, Facebook and other chat rooms, blogs and forums, will be viewed by others (including search engines), over whom we have no control. You are responsible for the information you choose to post or otherwise make available in such public areas, and you acknowledge that this may be collected and used by third parties.
+
+If you use third party payment providers, such as PayPal, to pay for or receive payment from us that site may pass information to us including your name, email address, billing or other address, phone number (if applicable), date of sign-up, the number of payments you have received from verified PayPal users, whether you have been verified to have control of a bank account and any other information you agree they can share.
+
+When you visit one of our websites or use one of our apps, advertising networks and other intermediaries select and then display adverts on your device. In the case of some of our radio stations, when listening online, partners insert a relevant audio advert for you to listen to.
+
+  * In this section we explain when and why we share your information with our partners and other organisations.
+
+
+
+Your information will be shared between the News UK companies listed in the About Us section above for use in accordance with this Policy. We may share your information with Unruly Group Limited a wholly-owned subsidiary of News UK where there is a legitimate interest in doing so, for use in accordance with their [privacy policy](https://unruly.co/privacy/).
+
+News UK is part of the News Corporation (“News Corp”) group of companies and as such, we may rely on our legitimate interests as an organisation that operates an advertising funded business model, to share your information with [News Corp and its affiliates](https://newscorp.com/about/our-businesses/) to:
+
+  * perform analytics and analysis of how you interact with the group’s products and services, to facilitate business efficiencies and develop products and services that would be relevant to you; and
+  * deliver more relevant advertising from across our News Corp network.
+
+
+
+If you would like to opt-out of this sharing or exercise your data protection rights, you can email [dataprotection@news.co.uk](mailto:dataprotection@news.co.uk) but please bear in mind that opting-out will relate to any future sharing and not to information already shared. For more information about how to exercise your rights, please see the section on Access & Control. Opting-out may also mean you do not receive the best experience across News Corp products, services and websites.
+
+Where your information is used for advertising purposes, you will be provided with information about how it is used and be able to control what information is used and how, as well as with which affiliates it is shared.
+
+These affiliates may be located inside or outside of the EEA, including the United States of America. We have appropriate agreements in place to ensure they protect your information in accordance with our legal obligations.
+
+We also participate in an advertising platform offered by our affiliate, NC Audience Exchange LLC, called News IQ. To learn more about News Corp Connect please visit <http://ncaudienceexchange.com/about/>.
+
+We may disclose your personal information to third parties, such as competition partners, for their direct marketing purposes where we have told you about this and you have given permission or there is a legitimate interest to do so.
+
+We may share your personal information with our partners who operate products and services using our brands where you use these services. This includes partners such as The Sun Bingo, The Times Currency Services, The Sunday Times Wine Club and Sun Bets. We will only share your information where we have an appropriate agreement in place with the partner. The information we share will be used in accordance with our partner's privacy policy, which you should read when you sign up with the partner.
+
+These partners will also pass us the information they collect about you, including your usage and interaction with those products and services, which we will use in accordance with this Policy.
+
+We may pass your information to our processors – companies that we use to provide services on our behalf, for example for home delivery services, prize fulfilment agencies, market research or other purposes mentioned in this Policy. These processors can only use your information in accordance with our instructions and for no other purpose.
+
+When you complete our registration forms or use our services, we may transfer your information to our group companies and processors outside the EEA to countries that may not have data protection rules that provide the same level of protection. However, we only transfer your information where there are appropriate measures and controls in place. If you would like to receive a copy of the applicable data transfer safeguards used when your information is transferred outside the EEA to non-adequate countries, please contact us at [dataprotection@news.co.uk](mailto:dataprotection@news.co.uk).
+
+  * You can find out more about what your data protection rights are and how you can exercise them.
+
+
+
+Please ensure you update your personal information or tell us if it changes or is inaccurate. You can update your details, for example your email address, in your account settings or an equivalent section if you are a subscriber. You may also email our Customer Services team at [info@news.co.uk](mailto:info@news.co.uk).
+
+You can change your mind about receiving direct marketing or other communications you receive from us, such as bulletins and other information about your chosen products and services (for example, your Times+ subscription or one of our campaigns) by contacting us using the details below, changing the settings in your preference centre or by following the unsubscribe instructions in the relevant communication.
+
+There may be some types of communication that you receive that cannot be controlled through your preference centre, but you will still be able to opt-out by following the instructions in the communication itself.
+
+Where we may rely on your consent to process personal information, you have the right to withdraw that consent at any time. Often, this can be managed through the preference centre – such as your consent for us to send you communications. Otherwise, please contact us at [dataprotection@news.co.uk](mailto:dataprotection@news.co.uk) with details of your request. In some instances we may still have an alternative legal basis to continue to process that personal information and we will inform you of that. If you do withdraw consent we may not be able to provide the product or service you have requested.
+
+You may request a copy of your personal information from any News UK company which may hold personal information about you. You can also ask us to correct any inaccuracies in your personal information. In some circumstances you may be able to ask us to transfer information you have provided to us to another organisation. Similarly, you may be able to transfer your information from another organisation to us, but you should check with us first if this is possible.
+
+You may also have the right to object, erase, or restrict our processing of your information – for example, where we process personal data because this is in our legitimate interests, you may object to this. We will need to carefully consider your request, as there may be circumstances which require us, or allow us, to continue processing your data.
+
+To exercise any of these rights, please contact us at [dataprotection@news.co.uk](mailto:dataprotection@news.co.uk). These rights may be restricted by law, for example we may not be able to provide a copy of your data where the data we hold is also the data of a third party and it is not reasonable to disclose this information.
+
+We will retain your information for as long as necessary for the uses set out in this Policy, or while there is a legitimate reason for doing so. If you ask us to delete your information before that time, we may not be able to do so due to technical, legal, regulatory or contractual constraints. For example, we would need to retain your name and contact details for suppression purposes if you do not want to receive direct marketing from us.
+
+If you ask for your account to be closed, we will do this as soon as is reasonably possible subject to any applicable terms and conditions relating to the account. Personal information from closed accounts is retained in order to comply with legal obligations, prevent fraud, collect any fees owed and to resolve disputes.
+
+  * You can find out more about the cookies we use and why. You can also find out more about how to control them.
+
+
+
+Cookies and other online tracking technologies are small bits of data or code that are used to identify your devices when you use and interact with our websites and other services. They are often used for remembering your preferences, to identify popular news stories, to remember you’re logged in and allowing you to comment on stories.
+
+Our legal bases for cookies and similar technologies Placing cookies: in order to place cookies, tags and other technologies on your browser or device, we need to have your permission. We do this by providing a clear notice in the form of a cookie banner that tells you what cookies are used for, as well as providing you with useful information about the technologies we use and a link to this Policy. You’ll need to indicate your acceptance of our use of cookies. On a mobile device this might be by swiping a banner, pressing a button, or using facial recognition.
+
+You are able to opt-out of the use of cookies. For more information, see the section on Managing Cookies.
+
+Using information collected from cookies: where we want to use the information that cookies and similar technologies collect, we either need your consent or a legitimate interest.
+
+**Essential Cookies and Similar Technologies**
+
+These are vital for the running of our services on our websites and apps. Without the use of these cookies, parts of our websites would not function. For example, Times+ uses cookies to help us identify which of our readers have a subscription in order to access content they are entitled to on the website. We use these cookies to tell if you’re logged in to your account, which allows extra functionality, such as commenting on stories.
+
+**Analytics Cookies and Similar Technologies**
+
+These collect information about your use of our websites and apps, and enable us to improve the way they work. For example, analytics cookies show us which are the most frequently visited pages on The Sun or The Times websites allowing us to provide the most popular news articles further up the page. They help us record how you interact with our websites, such as how you navigate around pages and from page to page, identifying improvements we can make to the customer journey. They also help identify any difficulties you have accessing our services, so we can fix any problems. Additionally, these cookies allow us to see overall patterns of usage at an aggregated level.
+
+We may place cookies and similar technologies on behalf of comScore who help us measure the size and quality of our audiences across platforms. You can learn more and control how comScore use your information here <http://www.scorecardresearch.com/preferences.aspx>.
+
+**Functional/Preference Cookies and Similar Technologies**
+
+These cookies collect information about your choices and preferences, and allow us to remember things like language, your username (so you can log in faster), text size, and location, so we can show you relevant content to where you are. They allow us to customise the services you have accessed. We also use these cookies to provide you with services such as video clips.
+
+**Tracking, Advertising Cookies and Similar Technologies**
+
+We use these types of technologies to provide advertisements that we think may be more relevant to your interests. This can be done by delivering online adverts based on your previous web browsing activity, known as “online behavioural advertising” (OBA). Cookies are placed on your browser which will remember the websites you have visited. Adverts based on what you have been looking at are then displayed to you when you visit websites which use the same advertising networks.
+
+For example, you may be doing online research to buy a bicycle, and read several articles about bikes on various websites. As you browse those sites a cookie from an advertising network would be placed in your browser. It would remember that you had visited several websites related to cycling. Then, when you visited another website in the same advertising network, the website could show you an advert related to cycling. 
+
+We may also use cookies and similar technologies to provide you with adverts based on your location, offers you click on, and other similar interactions with our websites and apps.
+
+To help us deliver relevant advertising using cookies, we use Google products including Google Marketing Platform. You can find out more [here](https://marketingplatform.google.com/about/?_ga=2.118758602.2139151997.1537170645-1900677897.1537170645).
+
+As mentioned in the “How We Share Your Information” section of this Policy, we participate in an advertising platform offered by our affiliate NC Audience Exchange LLC, called News IQ. To learn more about News Corp Connect please visit <http://ncaudienceexchange.com/about/>.
+
+**Web Beacons and Tracking Pixels**
+
+These are bits of data that count the number of users who access a website or webpage and can also allow us to see if a cookie has been activated. Web beacons used on web pages or in emails allow us to see how successful an article has been, or whether an email message was successfully delivered and read in a marketing campaign. Web beacons are also used to verify any clicks through to links or advertisements contained in emails. We may use this information to help us identify which emails are more interesting to you and to inform advertisers how many customers have clicked on their adverts (the information shared with advertisers is aggregated and does not identify you individually).
+
+**Flash Cookies**
+
+We may, in certain situations, use Adobe Flash Player to deliver special content, such as video clips or animation. To improve your user experience, Local Shared Objects (commonly known as Flash cookies) are used to provide functions such as remembering your settings and preferences. Flash cookies are stored on your device, but they are managed through an interface different from the one provided by your web browser.
+
+**Tracking URLs**
+
+Tracking URLs are a special web link that allows us to measure when a link is clicked on. They are used to help us measure the effectiveness of campaigns and advertising and the popularity of articles that are read.
+
+**Device Fingerprinting**
+
+We may collect and analyse a device’s browser information to help identify that device, present content correctly, conduct analytics and help prevent and detect fraud.
+
+**If you Access our Services from a Mobile Device**
+
+We may collect a unique device identifier assigned to that device, geo-location data, and other transactional information for that device. We may also use the unique identifier to validate free trials, for example.
+
+Cookies and similar technologies help us identify and prevent threats to our sites. They are necessary to protect your information and our business from outside threats.
+
+Cookies and similar technologies permit your connection to our websites: our servers receive and record information about your computer, device, and browser, including potentially your IP address, browser type, other software or hardware information, and your geographic location.
+
+We use information about your usage of our services, websites and apps, such as pages you have visited, content you have viewed, search queries you have run, and advertisements you have seen or interacted with to assess how our services are used.
+
+Cookies and similar technologies help us provide functionality that you need to navigate our sites, select products and services and purchase them.
+
+The content on our websites and in our communications with you may be adjusted depending on what we know about the content, products and services that you like. This means we can highlight content and articles that we believe will be of interest to you. We provide personalisation by using cookies, IP addresses, web beacons, URL tracking and mobile app settings.
+
+We sell space on our websites and apps to advertisers. The adverts they display on our websites will often contain cookies. Our advertisers may use cookies or similar technologies to provide you with advertisements that they believe are relevant. They may use browsing data obtained to restrict the number of times you see particular adverts (frequency capping). You may also see adverts from these advertisers on other websites you visit.
+
+Third parties that support our services by serving advertisements or providing other services, such as allowing you to share content or tracking aggregate service usage, may also use cookies and other technologies to collect information relevant to the provision of those services.
+
+We do not control third party cookies or other technologies. Their use is governed by the privacy policies of third parties using such technologies. You should make sure you are aware of how third parties will use cookies by checking the third party’s cookie policy.
+
+To learn more about controlling cookies and similar technologies, please see the section below on Managing Cookies.
+
+By downloading our apps, we will require access to the following services on your device: unique identifier (UDID), MAC address or other applicable device identifier and location. Other services may also be required in order for the apps to function. We may use this information to validate free trials. Our apps may also provide push notifications to your device. You may control these through using the tools on your device, such as turning off push notification and location services.
+
+When you visit our websites, our partners will set cookies and similar technologies on your browser in order to help us make the sites work, analyse site usage, deliver adverts and personalise your experience. Where these partners are acting on our behalf, they are called data processors and must only act on our instructions. We will have a contract with them and they must protect your information properly. They’ll use your information in accordance with this Cookie Policy and you’ll be able to opt-out.
+
+Where other partners are placing cookies and similar technologies for their own purposes, they are called data controllers and will use your information for their own purposes.
+
+When you visit our sites you’ll see notices about the use of cookies by us and our partners. You’ll be able to learn more about the specific cookies in use and how to control them. By using our sites, you understand that cookies and similar technologies are used and acknowledge that by continuing to use the site, you consent to their placement.
+
+In the future we plan to release improved controls to allow you to choose which partners can collect and use your information.
+
+Most modern browsers are set to accept cookies by default, but you can change your settings to notify you when a cookie is being set or updated, or to block cookies altogether. Please consult the “Help” section of your browser.
+
+In addition to being able to control cookies by changing the settings in your browser on your computer, or in your mobile device’s settings, you can also control which companies can set cookies and similar technologies on your devices, by visiting the following links (you’ll need to turn any cookie or ad blockers off for the control pages to show which companies you can opt-out of):
+
+  * Internet Advertising Bureau (IAB) Your Online Choices website provides more information about controlling cookies. It also provides an easy way to opt-out of behavioural advertising from each (or all) of the networks represented by the European Interactive Digital Advertising Alliance <http://www.youronlinechoices.com/uk/your-ad-choices>.
+  * The Network Advertising Initiative (NAI) control page allows you to control behavioural advertising from each of the ad networks represented by the NAI.
+  * The Digital Advertising Alliance’s self-regulatory program for online behavioural advertising control page allows you to control behavioural advertising from the ad networks it represents.
+  * The News IQ website provides more information, and an easy way to opt-out.
+  * Importantly, these ad networks set cookies to remember that you have chosen to opt-out. If you clear your cache the opt-outs will not be applied and you would need to opt-out again.
+
+
+
+You can prevent web beacons from tracking your activity, although you won’t be able to decline receiving them in emails. For information about managing your cookie options, please visit <http://www.allaboutcookies.org/>.
+
+Please note that by blocking any or all cookies, you may not have access to certain features, content, or personalisation available on our websites or apps.
+
+From time to time we make changes to this Policy. This may be in relation to changes in the law, best practice, changes in our services or treatment of your personal information. Where necessary, we will notify you of these changes. We will always display clearly when the privacy policy was last amended on the website.
+
+In addition to any general data protection enquiries you may have, you can use these details to contact our Data Protection Officer.
+
+**Email**  
+[dataprotection@news.co.uk](mailto:dataprotection@news.co.uk)
+
+**By Post**  
+Data Protection Enquiries,  
+Customer Services Department,  
+News UK,  
+1 London Bridge Street, London, SE1 9GF
