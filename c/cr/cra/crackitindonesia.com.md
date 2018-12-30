@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crackitindonesia.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018214952id_/https%3A//crackitindonesia.com/privacy-policy-for-crackit-indonesia) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crackitindonesia.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230202747id_/https%3A//crackitindonesia.com/privacy-policy-for-crackit-indonesia) for the most accurate reproduction.*
 
 # Privacy Policy for Crackit Indonesia - Crackit Indonesia
 
@@ -49,4 +49,4 @@ This privacy policy applies only to our online activities and is valid for visit
 By using our website, you hereby consent to our privacy policy and agree to its terms.
 
 **Update**  
-This Privacy Policy was last updated on: Monday, July 27th, 2015.
+This Privacy Policy was last updated on: Monday, July 27th, 2017.
