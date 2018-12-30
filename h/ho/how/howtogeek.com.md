@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the howtogeek.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630212149id_/https%3A//www.howtogeek.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howtogeek.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230165312id_/https%3A//www.howtogeek.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Our Privacy Policy is intended to help you clearly and easily understand:
 
-  * Who we are;
-  * Collection of Information;
-  * How Your Information Is Used;
-  * Disclosure of Your Information;
-  * What “Your Rights” Are;
+  * Who we are
+  * Collection of Information
+  * How Your Information Is Used
+  * Disclosure of Your Information
+  * What “Your Rights” Are
   * Retention of Your Information
   * Information Security
   * California Privacy Rights
@@ -28,8 +28,7 @@ Our Data Protection Officer is the person responsible for overseeing our complia
 
 **_Information that You Provide & that We Collect from Use of Our Services_**
 
-  1. Information You Provide to Us:
-
+A.  Information You Provide to Us:
 
   * Fill in forms
   * Search for a product/service
@@ -53,15 +52,12 @@ The information you provide directly to use may include, without limitation:
   * Demographic information
 
 
-  1. Information Provided Passively or Automatically Collected:
 
-
+B.  Information Provided Passively or Automatically Collected:
 
 We may automatically collect certain information about the computer or devices you use to access our Site and Services. This may include: (a) IP addresses, geolocation information, and other information about your computer or device(s), browser types, operating system the state or country from which you accessed the Site or Services; and (b) information related to the ways in which you interact with the Site or Services, such as the number of clicks, domain names, pages and content viewed and other similar information. We may use third-party analytic providers and technologies, including cookies and similar tools, to assist in collecting this information.
 
-  1. Cookies and Other Electronic Technologies
-
-
+C.  Cookies and Other Electronic Technologies
 
 We collect information about how you use our Services, including access times, browser types and language, and the Internet Protocol addresses. Various technologies are used to collect information, and this may include sending cookies to your computer.
 
@@ -69,9 +65,7 @@ Note that some of our advertisers may serve you cookies as well. We do not have 
 
 If you don’t want any cookies, you have the ability to opt out. If you set your browser to refuse cookies, some portions of our Services may not function properly. You do not have any obligation, legally or otherwise, to provide us with your information. However, if you do not provide us with your information, we may not be able to provide you with the Services you have requested or you may be limited in your use of our Services.
 
-  1. Information Collected from Social Media
-
-
+D.  Information Collected from Social Media
 
 When you “like” or “follow” us on Facebook or Twitter or other social media sites, we may collect some information from you including your name, e-mail address, and any comments or content you post relevant to us. We may also collect your information if you sign up for one of our promotions or submit information to use through social media sites.
 
