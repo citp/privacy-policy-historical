@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the searchonall.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626090741id_/http%3A//searchonall.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchonall.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230034507id_/http%3A//searchonall.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - SearchOnAll
 
-[HOME](https://web.archive.org/web/20180626090741id_/http%3A//searchonall.com/index.php) - PRIVACY POLICY 
+[HOME](https://web.archive.org/web/20181230034507id_/http%3A//searchonall.com/index.php) - PRIVACY POLICY 
 
 ## Privacy Policy
 
