@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drrecommendations.com privacy policy that was archived on 2018-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180526114759id_/http%3A//www.drrecommendations.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drrecommendations.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230015229id_/http%3A//www.drrecommendations.com/privacy.php) for the most accurate reproduction.*
 
 # DrRecommendations.com - Research & Development for Medical Breakthrough™ Massage Chairs!
 
