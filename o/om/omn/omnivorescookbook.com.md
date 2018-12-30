@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omnivorescookbook.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624161619id_/https%3A//omnivorescookbook.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omnivorescookbook.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230154444id_/https%3A//omnivorescookbook.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Omnivore's Cookbook
 
@@ -36,7 +36,7 @@ Most browsers allow you to refuse to accept cookies and to delete cookies. The m
 
 (d) [https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies](https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies) (Internet Explorer);
 
-(e) [https://support.apple.com/kb/PH21411](https://support.apple.com/kb/PH21411) (Safari); and
+(e) https://support.apple.com/kb/PH21411 (Safari); and
 
 (f) [https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy](https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy) (Edge).
 
@@ -52,7 +52,7 @@ By using this Site, you consent to the use of such cookies and the sharing of da
 
 For European Economic Area Residents
 
-If you reside in a country in the European Economic Area (EEA), then under the GDPR and applicable data protection laws you have the rights, among other things, to access your personal data, have us erase it, and/or restrict its further processing.  If you wish to access or delete your personal data (if any) maintained by us or AdThrive related to advertising on the Site, you can contact AdThrive at info@adthrive.com. If you wish to see a list of the advertising partners we work with or change which of those partners track your behavior using cookies, click the ad preferences icon. (Available in the EU.)
+If you reside in a country in the European Economic Area (EEA), then under the GDPR and applicable data protection laws you have the rights, among other things, to access your personal data, have us erase it, and/or restrict its further processing.  If you wish to access or delete your personal data (if any) maintained by us or AdThrive related to advertising on the Site, you can contact AdThrive at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) If you wish to see a list of the advertising partners we work with or change which of those partners track your behavior using cookies, click the ad preferences icon. (Available in the EU.)
 
 **Email Addresses**
 
@@ -102,7 +102,7 @@ Muchen Zhu
 
 Austin, TX 78704
 
-maggie@omnivorescookbook.com
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 **Sale of Business or Assets**
 
@@ -122,4 +122,4 @@ Muchen Zhu
 
 Austin, TX 78704
 
-maggie@omnivorescookbook.com
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
