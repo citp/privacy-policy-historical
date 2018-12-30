@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the iplushub.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624123333id_/https%3A//iplushub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iplushub.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230125649id_/https%3A//iplushub.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | iPlusHub
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us via Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3c5d585155527c554c50494f54495e125f5351)
+If you require any more information or have any questions about our privacy policy, please feel free to contact us via Email: [admin@iplushub.com](mailto:admin@iplushub.com)
 
 At iPlusHub.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by iPlusHub.com and how it is used.
 
