@@ -1,27 +1,25 @@
-> *The following text is extracted and transformed from the specialized.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617215318id_/https%3A//www.specialized.com/us/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the specialized.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230115001id_/http%3A//www.specialized.com/us/en/privacy-policy) for the most accurate reproduction.*
 
-# Story | Specialized
+# Privacy Policy | Specialized.com
 
-**Effective Date of this Privacy Policy: May 6, 2016**
+**Effective date: 1 September 2018**
 
-Your privacy is important to us. Specialized Bicycle Components, Inc., its agents, affiliates, assigns, and all of its direct and indirect subsidiaries, (“Specialized”) are committed to honoring your privacy. We designed our Privacy Policy (“Privacy Policy”) to let you know how we collect and use your information through a variety of digital means. By accessing or using any of our mobile applications, websites or other Specialized products or services (collectively, “Services”) on any computer, mobile phone, tablet, console or other device (collectively, “Device”) you consent to our Privacy Policy.
+This Privacy Policy details the privacy practices of Specialized Bicycle Components, Inc., 15130 Concord Circle, Morgan Hill, CA 95037, and its directly and indirectly held subsidiaries (“Specialized”, “we”, “us”, or “our”). Please read below and learn how Specialized collects, uses and shares your information through a variety of digital means, including any of our mobile applications, websites or other Specialized products or services (collectively, “Services”) that link to or refer to this Privacy Policy, and your choices and rights regarding that information. Other Specialized Services may have different privacy policies. If you have questions about this Privacy Policy you can contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#8cdcfee5faedeff5cfedfee9ccfffce9efe5ede0e5f6e9e8a2efe3e1).
 
 In connection with providing our Services, there are times when we may ask for or collect information from you, either in the form of anonymous data or personally identifiable information.
 
- **Types of Information We Collect**
+We collect information you voluntarily provide, as well as information that your computer, mobile phone, tablet, console or other device (collectively, “Device”) or browser provides automatically. We use cookies to make the Services perform better for you and for advertising purposes. You can opt out of the use of cookies, but if you do, some features of the Services will not work correctly.
 
-We may automatically collect information regarding your interaction with, and use of, our Services. Information we may collect includes, but is not limited to, your telephone number, Device identifier and hardware information, IP address, browser type and language, cookie information, location (GPS) information, system type, whether you have enabling software to access certain features, access times, referring website URLs, information about your purchases, frequency of rides on the bicycle, starting location and ending location of your rides, power consumption during your rides, error occurrences with respect to the battery of the bicycle, motor and bicycle serial numbers and the hardware version you are using, and other information about your interactions with us.
+ **Information You Provide To Us:** We, or our service providers (acting on our behalf), collect “Personal Information” (which is information that, on its own or when combined with other information, can be used to identify you) that you provide to us, such as your first and last name, gender, image, email address, telephone number(s), postal address, post code, billing address, age, birth date, profile, location information, activity and performance information, avatar, weight, height, e-bike-specific information, emergency contact details, and when necessary, credit card information.
 
-When you use some of our Services, we may ask your browser to store small text files containing a string of alphanumeric characters known as a cookie. We use both session cookies and persistent cookies. If you have chosen to identify yourself on a Service, we may use session cookies containing encrypted information to identify you and facilitate your use of the Service. Session cookies are required to access content on some of our Services. After you leave a Service and close your browser, a persistent cookie remains. Persistent cookies can be removed by following your help file directions in your web browser. If you refuse our cookies, some features of our Services may not function properly. We are part of the Google DoubleClick Ad Exchange Program, which places a cookie when you use some of our Services. The cookie allows you to view more links to our Services and advertisements from other websites which are also part of the program. [Click for more information.](https://www.doubleclickbygoogle.com/solutions/digital-marketing/ad-exchange/#tab=updates) [Click for Google’s privacy policy.](http://www.google.com/intl/en/policies/)
-
-User Provided Information: We only collect personal information about you if you voluntarily choose to share it with us. We do not share, rent or sell information concerning our users to third parties in ways other than disclosed in this Privacy Policy. This Information may include, but is not limited to, your name, image, birth date, email and physical address, telephone number, gender, contact lists, social media information and profile, location (GPS) information, activity and performance information, and when necessary, credit card information. When you choose to submit personally identifiable information to our Services (including name, address, telephone number, email address, location (GPS) information, transaction information, credit card information, date of birth, etc.), your information is used only for the specific purpose for which it was submitted, unless you consent otherwise or as required by law. In many cases, you choose the amount of information you supply. There may be instances where some of the information that we ask you to provide is identified as mandatory and some as voluntary. In such cases, if you do not provide mandatory personal information with respect to a particular activity, you will not be able to engage in that activity. We may collect personally identifiable information when you:
+We collect information from you when you:
 
   * Place an order from our Services;
   * Return an item or make an exchange;
   * Inquire about our Services;
   * Create an account via our Services;
   * Sign up for email updates or to receive our newsletter and/or advertisements;
-  * Register your bicycle;
+  * Register and use your bicycle;
   * Enter a contest or sweepstakes;
   * Use a Service that requests information regarding your location;
   * Are referred to us through a marketing promotion; or
@@ -29,93 +27,131 @@ User Provided Information: We only collect personal information about you if you
 
 
 
-We maintain the data that you provide us, along with a record of your purchases, in a secure database. To best serve you, we may combine this information with data that is publicly available and data that we receive from other reputable sources.
+ **Information Collected Automatically:** Whenever you visit or interact with the Services, we, as well as our third-party service providers, use a variety of technologies that automatically or passively collect information about how you access and use the Services (“Usage Information”). Usage Information includes:
 
-YOU ALSO AGREE THAT SOME OF THE DATA YOU PROVIDE AND SUBMIT VIA THE SERVICES IS BEING SENT TO THE UNITED STATES OF AMERICA. YOU ARE INFORMED THAT THE UNITED STATES PRESENTLY DOES NOT HAVE AN ADEQUATE LEVEL OF PERSONAL DATA PROTECTION AS DETERMINED BY THE EUROPEAN COMMISSION’S ADEQUACY DECISION ON OCTOBER 6, 2015 (Case C-362/14) AND ARTICULATED IN THE EUROPEAN UNION’S DATA PROTECTION DIRECTIVE 95/46/EC. AS A RESULT, IN AN EFFORT TO PROVIDE SUFFICIENT SAFEGUARDS FOR THE PROTECTION OF PRIVACY OF INDIVIDUALS, SPECIALIZED HAS ENTERED INTO AGREEMENTS UTILIZING MODEL CONTRACT CLAUSES, APPROVED BY THE EUROPEAN COMMISSION, WITH VARIOUS ENTITIES THAT MAY TRANSFER DATA YOU SUBMIT TO US OR THAT WE COLLECT FROM YOU WHILE USING OUR SERVICES. BY USING THE SERVICES YOU CONSENT TO THIS TRANSFER OF YOUR DATA.
-
-Log Files: Our servers automatically record certain information (e.g., web request, Internet Protocol ("IP") address, browser type, browser language, URLs, etc.) that your web browser sends whenever you use our Services.
-
-Web Beacons: We may employ clear GIFs or Web Beacons to track anonymously how users use our Services. We may also use Web Beacons in our emails to track which emails are opened by recipients. We may also use a third-party service provider to collect analytical information related to the use of the Services, such as Device state information, Device hardware and OS information, information relating to how a Service functions, and the physical location of a user’s Device at the time the Device crashes. This information is collected and stored in a way that does not personally identify any particular user. We use this aggregated data to improve the quality and functionality of its Services.
-
- **Use of Information**
-
-At Specialized, we always want to provide you with the most interesting information and the best possible shopping experience when you choose to purchase products or services through our Services. In order to do this, we collect information that allows us to:
-
-  * Process and track your order;
-  * Provide the information, products and services you request;
-  * Contact you about the status of an order;
-  * Send you promotional offers or information we believe will be of interest to you;
-  * Send you email updates, announcements and/or newsletters;
-  * Identify your product and service preferences;
-  * Determine your location;
-  * Enhance, customize and personalize your experiences and communications with Specialized;
-  * Provide information concerning product recalls or products you have purchased; and
-  * Improve our merchandise selection and customer service.
+  * Your IP address or other unique identifier for your Device.
+  * Device type.
+  * Your location.
+  * The type of browser software and operating system you are using.
+  * The web page(s) you have accessed, and the time you accessed them.
 
 
 
-We collect personal information from users of our Services on a voluntary basis; however, users are not required to give such information to access many of our Services. Personal information may include, without limitation, name, address, phone number, e-mail address, location (GPS) information, billing information and credit card numbers. A user’s personal information may be used for purposes of receiving and processing an order through our Services, determining a user’s location, shipping and returns and customer satisfaction reviews. We also use users' personal information to share news about our athletes, cycling or multi-sport races and competitions, assist in marketing products and services offered by us and our business partners, to facilitate online purchases of our products and to enhance the content of our Services.
+We also automatically collect certain other information, including:
 
-When someone downloads and/or uses our Services, our web servers automatically gather information that allows our Services to communicate with the user's Device. We may also use any of the following information: the number of times a user uses our Services, which parts of the Service a user uses, IP address (the Internet address assigned to your Device from your Internet Service Provider), domain type, browser type (e.g., Safari or Internet Explorer), location (GPS) information, and date and time of day. We use this information for statistical purposes that help us design and administer our Services.
+  * information about your purchases and purchase history;
+  * frequency of rides on your bicycle;
+  * starting location and ending location of your rides;
+  * power consumption during your rides;
+  * error occurrences with respect to the battery of the bicycle;
+  * motor and bicycle serial numbers and the hardware version you are using;
+  * rider behaviour (using analytics), rider preferences, ride history, rider performance statistics (e.g., length of rides, distance covered;
+  * elevation gain & loss, rider power, cadence, speed, average speed and elevation gain uphill);
+  * data from chat features; and
+  * billing history, log data and error reporting.
 
- **Disclosure of Information**
 
-We do not sell, trade, or rent to any unaffiliated third parties your personally identifiable information collected via our Services. We do use the anonymous data and the personally identifiable information collected through our Services for statistical purposes and for improving the Services, as well as for our marketing purposes, as part of our responses to your questions or requests for information and potentially when sending commercial emails to you. We may engage a third party’s software or services to assist us with these analyses and activities in which case such information may be shared with them for these purposes (e.g., your email address with our outbound email marketing provider).
 
-We contract with other companies to provide certain services, including shipping, name and address verification, email distribution, location (GPS) information, market research, promotions management and payment processing. We provide these companies with only the information they need to perform their services and work closely with them to ensure that your privacy is respected and protected. This may include sending you newsletters and emails periodically. However, you will have the choice to opt out of receiving newsletters and promotional emails for our Services. These companies are prohibited by contract from using this information for their own marketing purposes or from sharing this information with anyone other than Specialized. As a practical matter, we must release your mailing address to a postal or courier service to deliver information you requested or the services/products you purchased.
+ **Cookies:** We, and/or our third party service providers, place “cookies” (data files placed on a Device when it is used to visit our website), on your Device to collect Usage Information, for security purposes, and to enable you to use the Services, as well as for market research related purposes. To read our cookie policy, go to <https://www.specialized.com/gb/en/eu-cookie>. To learn how to reduce the number of cookies you receive, or delete cookies that have already been installed in your browser’s cookie folder, please refer to your browser’s help menu or other instructions related to your browser. You can also learn more about cookies by visiting <https://ico.org.uk/for-the-public/online/cookies>, which includes additional useful information on cookies and how to block cookies using different types of browsers.
 
-From time to time, we may share our mailing list (names and addresses only) and your general shopping activity with our business partners whose products and services we believe will be of interest to you and whose privacy practices meet the Direct Marketing Association's privacy standards. We do not share email addresses for this purpose. If you do not want to receive mailings from other reputable companies and prefer that we do not share any information with these companies, please contact us.
+ **Google Analytics:** We use a tool called “Google Analytics” to collect information about your internet use. For example, how often you visit our site, the pages you visit, and what other Sites you may have visited prior to coming to our site. We use Google Analytics to gain insights into how our services are used and to help us improve our products and services. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit this site, the cookie cannot be used by anyone but Google. To opt-out of Google Analytics, please use Google’s opt-out tool: <https://tools.google.com/dlpage/gaoptout>.
 
-On rare occasions, we may disclose specific information upon governmental request, in response to a court order, or when required by law to do so. We may share information to prevent illegal uses of Specialized’s products and services, or to defend ourselves against third-party claims. We may also share information with companies assisting in fraud protection or investigation. We do not provide information to these agencies or companies for marketing or commercial purposes.
+ **Do Not Track:** Currently the Service is not designed to respond to “Do Not Track” signals sent from your browser.
 
-In some cases, we may choose to buy or sell assets. In these business transfers, customer information, including personally identifiable information, is typically one of the business assets that is transferred. Moreover, if any of the Services, Specialized or substantially all of its assets were acquired, or in the unlikely event that we go out of business or enter bankruptcy, customer information, including personally identifiable information, would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of any of the Services, Specialized or any of its assets may continue to use your personally identifiable information as set forth in this policy.
+ _We use the information we collect about you to provide you with products and services, to improve your experience, and to enforce our rights._
 
- **International Transfer of Information Collected**
+We use the Personal Information we collect about and from you:
 
-We primarily store customer data in the United States. To facilitate Specialized’s global operations, we may transfer and access such information from around the world, including from other countries in which Specialized has operations. This Privacy Policy shall apply even if we transfer customer data to other countries.
+  * To perform our responsibilities under a contract we have with you. For example:
+    * If you purchase goods using the Services, we will need to use your Personal Information to process your order and to enable delivery;
+    * If you ask us to recommend products based on your metrics, we will need to use your Personal Information to match you with products we think would work best for you; and
+    * We will need to use your Personal Information to perform our obligations under our app or website terms of use.
+  * When we have a legitimate interest to do so. For example:
+    * To prevent fraud and protect the security of our Services;
+    * To enforce our Terms of Use;
+    * To communicate updates and improvements;
+    * To carry out market research;
+    * To develop and optimize our products and services;
+    * To let you know when your bike needs servicing;
+    * To understand how a specific e-bike is performing, e.g., if errors are logged, Specialized will identify the specific e-bike and send fixes and software updates to that particular e-bike to resolve the error;
+    * To help us provide and operate the Service; and
+    * To comply with our legal obligations.
 
- **Security Measures**
 
-We use a variety of current technologies and processes for the protection of our customer data. We maintain a private database on our servers for the storage of all information collected through our Services. It is our practice to use encryption whenever we receive or transmit sensitive data. We use encryption technology to ensure the secure transmission of any personal information you provide while using our Services. All transactions completed through our Services are conducted using 2048-bit Secure Sockets Layer (SSL) encryption. We will take reasonable measures which we believe are appropriate to protect your information from loss, misuse, alteration or destruction, and, where possible, will ask that any third parties to whom we may transfer your information take comparable steps to protect that security. Although we will use all reasonable efforts to safeguard the confidentiality of any user information collected, we shall have no liability for disclosure of any user information obtained due to errors in transmission or the unauthorized acts of third parties. Email is not a secure form of communication. Please do not send us your credit card number, social security number or other personal information via email.
 
- **How You Can Help Yourself**
+If you have purchased products and services from us, we may also send you marketing communications about similar products and services.
 
-To help ensure that our security measures are effective in preventing unauthorized access to your private information, you should be aware of the security features available to you through your browser. You should use a security-enabled browser to submit your credit card information and other personal information via our Services. Please note: if you do not use a SSL-capable browser, you are at risk of having data intercepted. We will not be responsible for any compromise of data that is intercepted due to your use of an unsecured browser.
+  * With your consent. For example:
+    * We send certain marketing communications to you only if you consent to receive them.
+    * We do not share your Personal Information with third parties for their direct marketing purposes without your consent.
+    * If you consent, we use your health information to provide you with statistics and visualisations representing key data points like heart rate.
+    * We will store your Personal Information if you consent to serve as emergency contact for a friend or family member who owns one of our smart helmets.
+    * With your consent, we use your information to personalize your Specialized experience, including: to tailor content, advertisements, and offers we serve you.
 
-Most browsers have the ability to notify you if you change between secure and insecure communications, receive invalid site identification information for the site you are communicating with, or send information over an unsecured connection. We recommend that you enable these browser functions to help ensure that your communications are secure. You can also monitor the URL of the site you are visiting (secure URLs begin with https:// rather than the normal http://), along with the security symbol of your browser (e.g., a broken or complete key in Internet Explorer) to help identify when you are communicating with a secure server. You can also view the details of the security certificate of the site to which you are connected. We encourage you to use this to check the validity of any site you connect to using secure communications.
 
- **Other Websites**
 
-Please be aware that our Services and email communications may contain links to other websites and services on the Internet that are owned and operated by third parties. The information practices of those websites and services linked in our Services are not covered by this Privacy Policy and, therefore, we are not responsible for the content or privacy policies of websites and services to which our Services link. We encourage you to review the privacy policies of these other websites and services to understand their privacy practices.
+ _We share your information with our affiliates and service providers. We will also share your information if we reorganize our business. We will share Personal Information as necessary to enforce our legal rights or meet our legal obligations._
 
- **Public Forum**
+We share your Personal Information with third parties in the following circumstances:
 
-Any information you submit in a public forum (e.g. a blog, chat room, or social network) can be read, collected, or used by us and others, and could be used to personalize your experience. You are responsible for the information you choose to submit in these instances. Though we do attempt to monitor user-posted content, such user-posted material is not subject to this Privacy Policy and you should exercise caution when deciding to disclose any personal information.
+  *  **Affiliates:**
 
-You may choose to share certain information. In order to participate in certain features, you may have to adjust your privacy settings and share more information. You may also choose to share your activity on other platforms, such as Facebook and Twitter. Please read the privacy policies of those platforms, because your activity associated with Specialized published on those platforms will no longer be governed by this Privacy Policy.
+Other Specialized businesses (our “Affiliates”) jointly use the Personal Information for the purposes described in this Privacy Policy, where this is acceptable under applicable law.
 
- **Who May Use Our Services**
+  *  **Third Party Service Providers:** We use third parties to help us provide the Services to you. Third parties we use for payment processing, email, marketing, customer service and other services will access your Personal Information to help us provide these services to you. We will provide your Personal Information to these third-party service providers when the information is necessary for them to perform their duties. For example we will share bank details and credit card information with payment providers that process rider payments (where applicable).
 
-Our Services are designed for users from the United States. Users from other countries are advised not to disclose personal information unless they consent to having their information used as set forth in this Privacy Policy, rather than under the law of user's home country. You should not send any personal information through the Services unless you agree to be bound by this Privacy Policy and by United States and California law.
+  *  **Business Transfers:** We will share your Personal Information if we are acquired by or enter into a merger with another company, or otherwise reorganize our business.
 
- **Children**
+  *  **With Third Parties, Where Necessary for Legal Reasons:** We will transfer and disclose your Personal Information to third parties where we need to do so in order to conform to the requirements of the law or comply with legal process served upon us, to make sure you are complying with our Terms of Use or other applicable policies, to investigate possible fraud, or to help investigate or fix any security or technical issues relating to the Services.
 
-We are in compliance with the requirements of COPPA (the Children’s Online Privacy Protection Act) and we do not knowingly collect personal information from anyone under the age of 13. Our Services are all directed to people who are at least 13 years old. Since information regarding children under the age of 13 is not collected, we do not knowingly distribute personal information regarding children under the age of 13.
 
- **California Online Privacy Protection Act Compliance**
 
-Because we value your privacy, we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-As part of the California Online Privacy Protection Act, all users of our Services may make any changes to their personal information which we possess at any time by following the link in any email sent by us to remove or edit their personal information.
+ _We link to sites operated by other parties, but we are not responsible for their privacy practices. If you link your Specialized account with your account on another site or service, we will have access to information you have shared with that third party._
 
- **Opt Out/Modify Information**
+The Services and some of our email communications contain links to other sites that we are not responsible for. We do not control, recommend or endorse these other sites. These other sites may also collect personal information about you, and they may have their own privacy policies. We recommend that you review the privacy policy of any site that you access through the Services.
 
-If you would like to add your name to our marketing list, request that your name be removed, or correct your current information, please click on the “unsubscribe” link in our emails. We will make a reasonable effort to accommodate your request.
+You may choose to link your Specialized account with your accounts with third-party services, such as Strava or Facebook. If you do this, Specialized has access to information that you have agreed to make available with the third party, such as profile information and account preferences. You can control the information received by Specialized via the privacy settings in the third party account.
 
- **Changes and Updates to this Privacy Policy**
+ _We do not knowingly collect Personal Information from children._
 
-If you choose to use any of our Services, your use and any disputes over privacy are subject to this Privacy Policy. We reserve the right to change this Privacy Policy at any time without notice except as otherwise provided here. Please check back periodically to see if our Privacy Policy has been updated. Your continued use of the Services constitutes your agreement to the terms of this Privacy Policy and any future versions of this Privacy Policy.
+The Services are not designed for or directed at children. As such, we do not knowingly process Personal Information about children under 16 years of age.
 
- **No Guarantee**
+ _Specialized is a global company with headquarters in the United States. Your Personal Information will be transferred to our United States headquarters. We take measures to protect privacy when data is transferred._
 
-However, like other companies, we cannot guarantee 100% the security or confidentiality of the information you provide to us. Contact Us If you have any questions about this Privacy Policy, you may contact us at: [ridercare@specialized.com](mailto:ridercare@specialized.com)
+Specialized has its headquarters in the United States of America. Information we collect from you will be processed in the United States.
+
+ _We keep your information for as long as you have an account with or are otherwise an active customer of Specialized. Once you delete your account or no longer use our products and Services, we will only keep your information as needed to fulfil our legal obligations, resolve disputes, enforce our agreements, or take other actions permitted by law._
+
+We will generally store information associated with your account until it is no longer necessary to provide the Services, until you ask us to delete it, or until your account is deleted, whichever comes first; but there are some exceptions to this general rule. We will retain information from deleted accounts to comply with the law, prevent fraud, collect fees, resolve disputes, troubleshoot problems, assist with investigations, process warranty claims, distribute important product information (such as recall information), enforce our agreements, and take other actions permitted by law.
+
+We use a variety of current technologies and processes and maintain physical, technical and administrative safeguards for the protection of our customer data. We maintain a private database on our servers for the storage of all information collected through our Services. It is our practice to use encryption whenever we receive or transmit sensitive data. We use encryption technology to ensure the secure transmission of any personal information you provide while using our Services. All transactions completed through our Services are conducted using 2048-bit Secure Sockets Layer (SSL) encryption. We will take reasonable measures which we believe are appropriate to protect your information from loss, misuse, alteration or destruction, and, where possible, will ask that any third parties to whom we may transfer your information take comparable steps to protect that security. Although we will use all reasonable efforts to safeguard the confidentiality of your Personal Information, we cannot guarantee that your information will always be secure.
+
+Email is not a secure form of communication. Please do not send us your credit card number, social security number or other Personal Information via email.
+
+ _If you are in the EEA, you have the right to access the information we have about you, as well as the right to request that we correct it, complete it, erase it, stop using it, or transfer it to you. Submit your request for information[here](https://media.specialized.com/subject-access-request-forms/en.pdf)_
+
+You can stop receiving promotional communications from us by following the opt-out instructions provided in any such communication you receive. You can also email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#68381a011e090b112b091a0d283b180d0b01090401120d0c460b0705).
+
+You may view and opt-out of tracking cookies for any company that participates in the Digital Advertising Alliance Consumer Choice program at <http://www.aboutads.info/choices/>.
+
+If you are in the EU, you have certain rights related to the Personal Information we hold about you:
+
+  *  **Access.** You have the right to access the Personal Information we hold about you. If you wish to obtain a copy or description of the Personal Information we hold about you, please use our Subject Access Request form, located [here](https://media.specialized.com/subject-access-request-forms/en.pdf). If you are unable to use the form, you may send your request to our Data Privacy Specialist (e.g., email or by post) using the contact details set out below. In either case, we may ask you to verify your identity and to provide further details about your request.
+  *  **Accuracy.** We will do our bests to ensure the Personal Information we retain about you is accurate. We may from time to time send you an email update to remind you to tell us about any updates or changes to your Personal Information. You have the right to request that any inaccurate Personal Information is corrected and any incomplete information is completed by contacting our Data Privacy Specialist using the contact details set out below.
+
+
+
+ _We may change our privacy practices, and we will update this page when we do, so be sure to check it periodically._
+
+We may update this Privacy Policy to reflect changes to our information practices. If we make any material changes we will provide you with a prominent notification prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+
+ _Please contact us with questions. If you are dissatisfied with how we use your Personal Information, you can complain to our Data Privacy Specialist or to the data protection authority in your country._
+
+If you have any questions or concerns about this Privacy Policy, the Services, or about our use of your Personal Information, please contact our Data Privacy Specialist using the contact details set out below. In addition, if you have any complaints about how we use your Personal Information, you have the right to lodge a complaint with the data protection authority in your country.
+
+You may contact our Data Privacy Specialist using the following details:
+
+By email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#faaa88938c9b9983b99b889fba898a9f99939b9693809f9ed4999597d4)
+
+Post: Data Privacy Specialist, Specialized Bicycle Components, Inc., 15130 Concord Circle, Morgan Hill, CA 95037
