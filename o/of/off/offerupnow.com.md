@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the offerupnow.com privacy policy that was archived on 2017-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170901120427id_/https%3A//offerup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offerupnow.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230182638id_/https%3A//offerup.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - OfferUp
 
-LAST UPDATED: October 06, 2016
+LAST UPDATED: December 05, 2018
 
 This Privacy Policy explains how information about you is collected, used and disclosed by OfferUp, Inc. (hereafter “OfferUp”, “our,” “we,” or “us”). This Privacy Policy applies to information we collect when you use our website, mobile applications and other online services (collectively, the “OfferUp Service”) or when you otherwise interact with us. 
 
