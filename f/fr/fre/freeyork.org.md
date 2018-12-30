@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freeyork.org privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624202154id_/https%3A//freeyork.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeyork.org privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230193953id_/https%3A//freeyork.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – FREEYORK
 
 This Privacy Policy governs the manner in which FREEYORK collects, uses, maintains and discloses information collected from users (each, a “User”) of the https://freeyork.org website (“Site”). This privacy policy applies to the Site and all products and services offered by FREEYORK.
 
@@ -24,15 +24,15 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 FREEYORK collects and uses Users personal information for the following purposes:
 
-  * _To improve customer service_  
+  *  _To improve customer service_  
 Your information helps us to more effectively respond to your customer service requests and support needs.
-  * _To personalize user experience_  
+  *  _To personalize user experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _To improve our Site_  
+  *  _To improve our Site_  
 We continually strive to improve our website offerings based on the information and feedback we receive from you.
-  * _To administer a content, promotion, survey or other Site feature_  
+  *  _To administer a content, promotion, survey or other Site feature_  
 To send Users information, they agreed to receive about topics we think will be of interest to them.
-  * _To send periodic emails_ The email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
+  *  _To send periodic emails_ The email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
 
 
