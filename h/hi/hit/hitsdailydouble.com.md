@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitsdailydouble.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628033909id_/http%3A//hitsdailydouble.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitsdailydouble.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230133007id_/http%3A//hitsdailydouble.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | HITS Daily Double
 
@@ -10,7 +10,7 @@ As of 03-30-2014
 
 HITS Daily Double has created this Privacy Policy in order to demonstrate our firm commitment to protecting personal information. The following discloses our information gathering and dissemination practices relating to a website located at http://hitsdailydouble.com (the “Site” or the “Website”) and any mobile applications and other services that we may make available from time to time (collectively, the “Services”). The information you provide on this Site will not be shared other than as outlined in this Privacy Policy. By using the Services, you consent to the collection and use by us of any personal and other information you provide whilst using the Services in accordance with our Privacy Policy (this “Privacy Policy”). If you do not agree to the Privacy Policy, please do not use the Services.
 
-Please carefully read our Privacy Policy and [Terms and Conditions](https://web.archive.org/web/20180628033909id_/http%3A//hitsdailydouble.com/privacy?page=tc).
+Please carefully read our Privacy Policy and [Terms and Conditions](https://web.archive.org/web/20181230133007id_/http%3A//hitsdailydouble.com/privacy?page=tc).
 
 This Website presents information and content that is owned, licensed, or provided by HITS Daily Double its subsidiaries and affiliates ("Administrator"). The Site may also include services provided by third parties and distributed through the Site by virtue of a license, grant or some other form of agreement between the third party and Administrator. When used in this Privacy Policy, "we", “us” and "our" mean Administrator.
 
