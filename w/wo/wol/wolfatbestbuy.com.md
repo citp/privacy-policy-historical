@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wolfatbestbuy.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624190128id_/http%3A//www.bestbuy.com/site/help-topics/privacy-policy/pcmcat204400050062.c%3Fid%3Dpcmcat204400050062) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wolfatbestbuy.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230182236id_/http%3A//www.bestbuy.com/site/help-topics/privacy-policy/pcmcat204400050062.c%3Fid%3Dpcmcat204400050062) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -47,13 +47,13 @@ Best Buy and our partners use technologies such as cookies or similar technologi
 
 [Manage Flash cookies ›](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html)
 
-[Learn more about managing cookies, Flash cookies, and more ›](https://web.archive.org/web/20180624190128id_/http%3A//www.bestbuy.com/site/help-topics/privacy-policy/site/privacy-policy/Cookies/pcmcat338600050000.c?id=pcmcat338600050000)
+[Learn more about managing cookies, Flash cookies, and more ›](https://web.archive.org/web/20181230182236id_/http%3A//www.bestbuy.com/site/help-topics/privacy-policy/site/privacy-policy/Cookies/pcmcat338600050000.c?id=pcmcat338600050000)
 
 We may permit third-party service providers to collect and process some information from our digital properties. We may share personal information with those providers and may have similar arrangements with interest-based advertisers. We provide more information about interest-based ads below. Our digital properties are not designed to respond to "do not track" requests from browsers.
 
 **Location information**
 
-Some of our digital properties may collect your location to help you search for one of our stores or to use special mobile features within some of our stores. For example, Best Buy works with third parties to provide you helpful messaging in your mobile app when you come to our stores.
+Some of our digital properties may collect your location to help you search for one of our stores or to use special mobile features within some of our stores. For example, Best Buy works with third parties to provide you helpful messaging in your mobile app when you come to our stores. We also may use this information to determine whether to provide you with content, information, and notices that may be required by law based on your location.
 
 For any mobile application to identify your location, you must enable location services through your mobile device's settings. If you do not want Best Buy to collect this information or to enable these features, you can turn off location services on your mobile device. Best Buy has no control over your device's settings.
 
