@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mynamepixs.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531175132id_/http%3A//www.mynamepixs.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynamepixs.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230085741id_/http%3A//www.mynamepixs.com/policy.php) for the most accurate reproduction.*
 
 # None
 
