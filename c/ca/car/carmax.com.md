@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the carmax.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624161621id_/https%3A//www.carmax.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carmax.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230154446id_/https%3A//www.carmax.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CarMax
 
 Last updated 6/15/16
 
-**
-
 #### This Privacy Policy applies to the sites and apps where it appears.
-
-**
 
 Thank you for visiting the CarMax website (including its mobile device-ready version) or using the CarMax mobile application. In this Privacy and Safeguards Notice, we refer to our websites and mobile application together as our “Media.” We hope that you find our Media to be a useful part of your car-buying experience. Please note that this General Privacy Policy describes our overall privacy practices for the Media. This policy also applies to information collected from consumers in CarMax Superstores. Section II applies to California users. Section III is our privacy policy for nonpublic personal information used in the provision of financial services. Section IV is a summary of tools used to collect information from you and our use of online behavioral advertising.
 
@@ -16,11 +12,9 @@ If any information we have about you is incorrect, we will gladly correct it. Si
 
 From time to time we may change our privacy policies. We will also post an updated copy on our website. Please check our site periodically for updates.
 
-**
-
 #### We collect information from and about you and we collect it in different ways.
 
-**We may collect information associated with your IP address, such as the time and date of a visit, the originating domain name, the browser type, and the particular pages or products viewed on the Media. 
+We may collect information associated with your IP address, such as the time and date of a visit, the originating domain name, the browser type, and the particular pages or products viewed on the Media. 
 
 We collect certain information that users voluntarily provide to us. For example, we collect the email addresses of those who contact us by email. We also collect information that you voluntarily provide to us in surveys. When you register for a MyCarMax account, we collect your full name, email address, zip code and a password chosen by you. As described above, we use that information to serve you, to improve the content of our Media, and to contact you for marketing purposes.  **As a reminder, if you provide personal information to us for the purposes of a financial service, please see Section III for the applicable privacy policy.**
 
@@ -42,19 +36,11 @@ We use information for marketing purposes. For example, we might send you inform
 
 We maintain presence on several social networking and blogging platforms, such as Facebook and Twitter, and we also incorporate some third party social networking features onto our Media. Through these platforms and features, we receive information about you, and this Privacy and Safeguards Notice applies to that information as well. In addition, third party social networking platforms and blogging platforms have their own privacy policies which explain how the third parties that provide them will use and protect your information. In accordance with those policies (and your privacy settings within your social networking accounts) information about your activities on our Media (such as “Mary Smith likes this car” or “John Smith viewed this customer review”) may be published to your social network.
 
-**
-
 #### We use standard security measures.
-
-**
 
 We take commercially reasonable steps to protect the information we collect online. However, as effective as these measures are, no security system is impenetrable. We cannot provide an absolute guarantee of the security of our information databases or that information that you choose to supply will not be intercepted while you transmit it from your computer, over the internet, or along other third party networks, and to our systems. However, with respect to security: when we intend to transfer and receive certain types of sensitive information, such as financial information, we redirect visitors to a secure server using, for example, Transport Layer Security or Secure Sockets Layer security.
 
-**
-
 #### We may share information with third parties to the extent permitted by applicable law.
-
-**
 
 We will share information within the CarMax family of companies. 
 
@@ -68,16 +54,13 @@ We will share information if we think we are required to do so or believe that w
 
 We may share information with any successor to all or part of our business. For example, if part of our business was sold we may give our customer list as part of that transaction. 
 
-We may share information with third parties for their marketing purposes. 
-
 We may share information for other reasons we may describe to you.
 
-**
-
 #### CALIFORNIA USERS: YOUR CALIFORNIA PRIVACY RIGHTS
-
-**
 
 For residents of California Only. Section 1798.83 of the California Civil Code requires select businesses to disclose policies relating to the sharing of certain categories of customers' personal information with third-parties. These businesses are required to accept such requests from customers but are only required to honor one request per calendar year. Businesses have thirty (30) days to respond to each inquiry. Each inquiring customer will receive an explanation of the categories of customer information shared and the names and addresses of the third-party businesses. In limited circumstances, customers' failure to submit requests in the manner specified will not require a response from the business.
 
 **If you are a current CarMax customer in California, you may request such information from CarMax by sending an email correspondence noting your name, address, and email address. You must also include a request that CarMax provide such information to you using the following or similar verbiage. "I request that CarMax provide its third-party information sharing disclosures required by section 1798.83 of the California Civil Code." Press the link at the end of this sentence to create your message:**[ **WebOptOut@carmax.com**](mailto:weboptout@carmax.com) **. The same request may be made by regular mail by sending the above information to CarMax, 12800 Tuckahoe Creek Parkway, Richmond, VA 23238, ATTENTION: Legal Department.**
+
+  
+
