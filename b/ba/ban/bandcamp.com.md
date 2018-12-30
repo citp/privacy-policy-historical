@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bandcamp.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626105746id_/https%3A//bandcamp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bandcamp.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230045531id_/https%3A//bandcamp.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Bandcamp
 
@@ -13,7 +13,6 @@ Bandcamp, Inc. (“Bandcamp”) knows that you care about how your Personal Data
   * **Band information,** such as user-provided biography, location, and tags.
   * **Band financial information,** such as Paypal account(s), Stripe account(s), Pro/label subscriptions, and payouts.
   * **Fan information,** such as the user-provided name, email address, country of residence, zip/postal code, picture, location, and biography.
-  * **Emails and messages,** including receipts, newsletters, and support contact. This information consists of the emails we send to individuals, and the messages that users may send to one another.
   * **Emails and messages,** including receipts, newsletters, and support contact. This information consists of the emails we send to individuals, and the messages that users may send to one another.
 
 
@@ -130,7 +129,7 @@ We do not knowingly collect, maintain, or use Personal Data from children under 
 
 To offer our services, we may transfer your Personal Data to recipients in countries other than the country in which the data were originally collected, including to the United States. The laws in those countries may not offer the same level of data protection as the country in which the data initially were provided. When we transfer your Personal Data to recipients in other countries, we will protect the data as described in this Privacy Policy.
 
-Bandcamp has certified to the EU–U.S. and the Swiss–U.S. Privacy Shield frameworks to provide adequate safeguards for the transfer of Personal Data to the United States from the European Economic Area (“EEA”) and Switzerland. To view our Privacy Shield Privacy Policy, please click [here](https://bandcamp.com/privacy_shield).
+Bandcamp is currently in the process of certifying to the EU–U.S. and the Swiss–U.S. Privacy Shield frameworks to provide adequate safeguards for the transfer of Personal Data to the United States from the European Economic Area (“EEA”) and Switzerland. To view our Privacy Shield Privacy Policy, please click [here](https://bandcamp.com/privacy_shield).
 
 ### Changes to this Privacy Policy
 
