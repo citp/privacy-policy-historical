@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the qualiteam.biz privacy policy that was archived on 2017-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170415064924id_/https%3A//www.x-cart.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualiteam.biz privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231005919id_/https%3A//www.x-cart.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | X-Cart
 
-Rev. date: February 6, 2017
+**If you are a citizen of European Union please refer to[EU Privacy Policy](https://www.x-cart.com/eu-privacy-policy.html) that explains the manner in which Qualiteam Software Ltd collects, uses, discloses and otherwise treats personal information of European Union citizens.**
 
-This Privacy Policy describes the types of information Qualiteam software LLC (“we”, “us”) collects and how we use that information. If You do not agree to the terms of this Privacy Policy, please do not use Qualiteam Products or Services (“Products or Services”) and do not access the Qualiteam’s websites located at [https://www.x-cart.com](https://www.x-cart.com/), [https://market.x-cart.com](https://market.x-cart.com/addons), and [https://my.x-cart.com](https://my.x-cart.com/) (“Site”, “Sites”).
+Rev. date: May 18, 2018
+
+This Privacy Policy describes the types of personal information Qualiteam software Ltd, a company organized and existing under the laws of the Republic of Cyprus (“we”, “us”) collects and how we use that information. If You do not agree to the terms of this Privacy Policy, please do not use our Products or Services (“Products or Services”) and do not access our website located at [x-cart.com](https://x-cart.com/) (“Site”).
 
 ## Information We Collect
 
