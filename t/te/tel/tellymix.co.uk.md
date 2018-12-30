@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tellymix.co.uk privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625000223id_/https%3A//tellymix.co.uk/about/privacy-and-cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tellymix.co.uk privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230231636id_/https%3A//tellymix.co.uk/about/privacy-and-cookies-policy) for the most accurate reproduction.*
 
 # Privacy and Cookies Policy | TellyMix
 
@@ -50,7 +50,7 @@ We use third party ad companies to display advertisements on our websites. With 
 
 Google and our advertising partners (see below), as a third party vendor, uses cookies to serve ads on our websites. Google Adsense will place and use cookies when serving adverts. This cookie enables Google to serve adverts to you based your visits to our website(s) and other website(s) on the internet. You may change your Google ad settings at the [Google ad and content network privacy policy](https://www.google.co.uk/settings/ads).
 
-If ad personalization is turned on, our partners will use your information during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [http://www.networkadvertising.org](http://www.networkadvertising.org/) and [http://www.aboutads.info/choices](https://web.archive.org/web/20180625000223id_/https%3A//tellymix.co.uk/about/%E2%80%9Chttp://www.aboutads.info/choices%E2%80%9D).
+If ad personalization is turned on, our partners will use your information during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [http://www.networkadvertising.org](http://www.networkadvertising.org/) and [http://www.aboutads.info/choices](https://web.archive.org/web/20181230231636id_/https%3A//tellymix.co.uk/about/%E2%80%9Chttp://www.aboutads.info/choices%E2%80%9D).
 
 Please note that if ad personalization if off, they will not collect or use your information to personalize the ads shown to you. You will still see ads, but they may not be as useful. Ads may still be based on the topic of the website or app you’re looking at, your current search terms, or on your general location, but not on your interests, search history, or browsing history.
 
