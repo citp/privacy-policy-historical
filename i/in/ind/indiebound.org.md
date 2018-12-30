@@ -1,86 +1,197 @@
-> *The following text is extracted and transformed from the indiebound.org privacy policy that was archived on 2018-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180315231421id_/https%3A//www.indiebound.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiebound.org privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230074813id_/https%3A//www.indiebound.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | IndieBound.org
 
-American Booksellers Association and IndieBound.org Security & Privacy Policy
+**_Effective Date: July 9, 2018_**
 
-The American Booksellers Association (“ABA”) and IndieBound.org are committed to maintaining and protecting the privacy of your personal information. Collectively ABA and IndieBound.org will be referred to as either “we,” “our” or “us.” The following discloses our policy for gathering and disseminating personal information collected by ABA and IndieBound.org. If you have any questions about your rights as a user of our services, you may contact Dan Cullen, ABA Director Information Dept., via [email](mailto:dan@bookweb.org).
+This Privacy Policy describes the types of information that the American Booksellers Association and IndieBound.org (“ABA”, “we”, “our”, or “us”) collects from and about you when you visit our website, [www.indiebound.org](http://www.indiebound.org/) (“Site”).   This Privacy Policy also explains how ABA may use and disclose such information, as well as your ability to control certain uses of it. 
 
-This privacy policy contains information about our commitment to your privacy, including:
+By using the Site, you agree to the collection, use, and disclosure of your information as described in this Privacy Policy, and agree to the ABA _Terms of Use_ which are incorporated by reference.  If you do not agree, please do not access or use the Site. 
 
-  * The information we collect and how we use it;
-  * Your right to access or update your personally identifiable information;
-  * Your right to opt-out of receiving communications from us; and
-  * Our pledge to have reasonable security measures in place to protect against loss, misuse, or alteration of information under our control.
+**1\. WHO WE ARE**
 
+The American Booksellers Association is a national not-for-profit trade organization created to help independently-owned bookstores grow and succeed.  IndieBound.org is an ABA website dedicated to encouraging the use of independent bookstores. 
 
+For services and Websites used by residents of the European Economic Area, the American Booksellers Association is the data controller responsible for your personal data.
 
-Note: This privacy policy applies to (i) personal information collected on [www.indiebound.org](http://www.indiebound.org/ "www.indiebound.org") (the “Site”): and (ii) personal information collected offline or through other sources, unless otherwise noted. This privacy policy does not apply to the collection practices of any other company, including the web sites of other companies, individuals, or organizations to which we may provide links. These web sites may have different polices relating to your privacy and information they collect about you. Visitors should consult other sites’ privacy policies, as we have no control over information that is submitted to, or controlled by, third parties.
+**2\. INFORMATION WE COLLECT**
 
-A. Information We Collect  
-We may collect two types of information about you when you visit the Site, contact us, place an order, or in any other communication we may have with you: personal information such as, your name, address, telephone number, e-mail address, and credit card number), and, via the Site only, non-personal, aggregate information (such as information regarding the pages on our site you have visited and your IP address).
+There are several ways we may obtain information about you, including through information you provide to us directly and information we automatically collect.  This includes data that identifies you personally whether directly ( _i.e._ , name) or indirectly ( _i.e._ , information about your online use). 
 
-1\. Personally Identifiable Information  
-The only personally identifying information that we collect and store about you is the information that you have chosen to provide to us. For example, if you place an order with us, we may collect your name, mailing address, and credit card information. IN the alternative, if you register on the Site, we may collect your name, store name, your address, store address, e-mail address and other personal information so that we can process your registration. In addition, if you contact us via phone or send us e-mail requesting information about us or otherwise ask us a question, we may collect your name, phone number, address, e-mail address and other personal information so that we can respond to your request or question. We may also from time to time send you e-mail and postal correspondence regarding products and services that we believe may be of interest to you.
+**A. Information You Provide**
 
-2\. Non-Personally Identifiable Information  
-From the Site, we may collect and use non-personally identifiable information about you in the following ways:
+ABA collects information from you when you choose to share it with us.  This may include when you visit the Site, register or create an online account with or through the Site, place an order, request information from us, sign up for newsletters or our email list, fill out a survey, request customer support, or otherwise communicate with or contact us.  The information we collect may include your name, address, telephone or mobile number, and email address. 
 
-  * Your Internet Protocol (IP) address or the proxy address of your Internet Service Provider (e.g. AOL, CompuServe, Comcast, etc.);
-  * The resource on our server accessed as a result of the request, such as the web page, image, etc.;
-  * The query in the request;
-  * The name and version of your web browser;
-  * The content of any sent or received cookie, as defined below;
-  * The Uniform Resource Locator (“URL”) that was accessed before making the request for our web server.
+You may also provide us with certain information in connection with specification transactions:
+
+  * **_Information You Provide When You Make a Purchase_**. If you make a purchase from us, we collect a credit/debit card number and related financial information (such as CVV, expiration date, and billing address).  
+  * **_Information You Provide at Off-Line Events_**. **** If you provide us with any information while attending one of our events offline, we may retain this information. This may include, but is not limited to an email address, phone number, or physical address.
 
 
 
-a. Cookies  
-Some parts of this Site web site may use a “cookie” – a file placed on your computer hard drive allowing our server to log the pages accessed in the Site to determine if you have visited before. This cookie captures no personally identifying information. You may set your browser to warn you when placement of a cookie is requested, and decide whether or not to accept it. Please not that by rejecting a cookie some of the features available on the site may not function properly.
+**B. Information Automatically Collected**
 
-b. Referrers, IP Addresses and Environmental Variables  
-We may also collect information through “referrers,” IP addresses and various environmental variables. A "referrer" is information the web browser passes along to the ABA web server that references the URL from which you came. An “IP Address” is a number used by computers on a network to identify your computer so that data can be transmitted to you. An “environmental variable” may include, among other things, the domain from which you access the Internet, the time you accessed the web site, the type of web browser and operating system or platform used, the Internet address or the web site you left to visit the web site, the pages you visit while at the web site and the Internet address of the web site you then visit. We may collect IP address information in order to administer the web site and to gather broad demographic information.
+Whenever you visit or interact with the Site, we, as well as any third-party advertisers and/or service providers, may use cookies, web beacons, pixel tags, log files, or other technologies to automatically or passively collect information about your online activity. For information about our use of cookies and other similar technologies through the Site, you can read our [_Cookie Policy_](https://web.archive.org/cookies-policy). 
 
-B. Sharing Your Information with Third Parties
+Please note that we automatically collect the following information about you: 
 
-1\. Disclosure of Information by Us  
-We may share your personally identifiable information with any affiliates, partners, agents or other parties whose products and services may be of interest to you. If you do not want us to share your information in this manner, please see the "CHOICE" section below. We also reserve the right to disclose your personal and non-personal information if we reasonably believe we are required to do so by law; to protect our self or to protect the rights of another user; to reduce the risk of credit or other kind of fraud; or to comply with a court order.
+  * **_Computer or Device_** **.**   We may automatically collect your IP address or other unique identifier or information from the computer, mobile device, tablet or other device you use to access the Site, including the browser type, device type, operating system, software version, hardware model, mobile network information, proxy address of your Internet Service Provider; and the domain name from which you accessed the Site. 
+  * **_Usage Information_**. We may also collect information about your use of the Site, including the date and time you visit the Site, the areas or pages of the Site that you visit, the amount of time you spend viewing or using the Site, the number of times you return to the Site, other click-stream or site usage data, emails that you open, forward or click-through to our Site, and other sites that you may visit.
+  * **_Third Party Service Providers_**.  We may use third party service providers to support our Site.  Some of these service providers may use technology such as cookies, web beacons, pixel tags, log files, Flash cookies, or HTML5 cookies to receive, collect, and store information.
+  * **_Third Party Analytic Technologies_** **. _  _**We may use third parties’ analytics and tracking tools to better understand who is using the Site, how people are using the Site, how to improve the effectiveness of the Site and related content, and to help us or those third parties serve more targeted advertising to you across the Internet. These tools may use technology such as cookies, web beacons, pixel tags, log files, Flash cookies, HTML5 cookies, or other technologies to automatically collect and store certain information. They may also combine information they collect from your interaction with the Site with information they collect from other sources. We do not have access to, or control over, these third parties’ use of cookies or other tracking technologies. 
 
-We may also share your personally and non-personally identifiable information with third parties that help manage our web site, databases, credit card processing companies, and affiliate relationships.
 
-We may share your information with third parties in order to fulfill your request or otherwise complete a service provided to you.
 
-In the unlikely event that all or substantially all of our assets are sold or transferred to another party, your personally identifiable information may be transferred to this acquiring entity.
+To learn more about your advertising choices relating to the collection and use of your information, please see the _Your Rights and Choices_ section below.
 
-Though we may also from time to time share your personal information with third parties for research and development purposes, we will not sell your personal information to any third parties, other than as specifically disclosed in this policy.
+**C. Combination of Information**
 
-2\. Online Blogs and Forums  
-Our Site also may offer blogs, chatrooms and forums that allow you to post information for other users to read. You may publish information on electronic bulletin boards generally accessible to other Site subscribers. We do not assume any responsibility for the privacy or security of any such communications, and you assume all risks of publishing such information on the system for examination by others, including our employees and persons who gain unauthorized access to the site (“hackers”). Furthermore, any such information published by you will pass through and be stored upon one or more of our servers. We will access the information stored on our server(s) for three purposes: first, to verify that the Site program and system is operating properly; second, to police the content of publications in response to any customer complaints about inappropriate content, and, third, to gather information for statistical purposes. No information published by a user is to be considered an expression of opinion or fact by us. We do not adopt, ratify, guarantee or endorse the contents or accuracy of any such publications. If you believe a communication published through such a forum or blog violates your privacy, you may report the same to us by e-mailing us for investigation or by mail to Dan Cullen, Director Information Dept., ABA, 200 White Plains Rd., Tarrytown, NY 10591.
+We may combine the information we receive from and about you, including information you provide to us and information we automatically collect through our Site, as well as information collected offline, across other computers or devices that you may use, and from third-party sources.
 
-C. Third Party Links  
-The Site may contain links to other web sites. Additionally, third party sites may from time to time link to the Site. PLEASE BE AWARE THAT WE ARE NOT RESPONSIBLE FOR THE CONTENT OR PRACTICES OF ANY OTHER SITES. We encourage our users to read the privacy statements of each and every web site that they visit. Our privacy policy applies solely to the Site.
+**3\. HOW WE USE YOUR INFORMATION AND OUR LAWFUL BASIS**
 
-D. Choice  
-We provide you with the following choices regarding the use of your personal information:
+ABA may use the information we collect from and about you for a variety of business purposes; in general to provide the services, improve customer experience and engagement, and develop the Site. We are committed to protecting and maintaining the privacy of your information. Therefore we will process your data only in accordance with applicable data protection law and this Privacy Policy.
 
-  * You may choose not to provide us with any personal information;
-  * If you are a user of the Site, you may set your browser not to accept cookies, or to warn you when a cookie is being placed on your computer. If you choose not to accept cookies, however, your ability to navigate this web site may be hindered;
-  * If you would like to unsubscribe to any of our services or would like us to remove you from any of our on-line mailing lists, please email us with the subject heading "unsubscribe from ABA information" or call us at 800-637-0037;
+We will have a lawful basis for processing your data when:
+
+  * We need to process your information in order to provide you with the products or service you have requested or to enter into a contract;
+  * We have a legitimate interest for processing your data – _e.g_., for fraud prevention; network and information systems security; data analytics; enhancing, modifying, or improving our services; identifying usage trends; determining the effectiveness of promotional campaigns; and advertising personalization of the service using data to make it easier and faster for you to place orders; 
+  * You have consented to such processing; and/or
+  * We are required to do this by law (for example, where it is necessary to retain it in connection with potential litigation).
+
+
+
+We may use the information we collect from and about you for a variety of business purposes, including the following:
+
+  * To respond to your inquiries, fulfill orders, and contact and communicate with you when necessary; 
+  * To enhance your online shopping experience, including as a way to recognize you and welcome you to the Site; 
+  * To review the usage and operations of our Site, develop new products or services, and conduct analysis to enhance or improve our content, products, and services;
+  * To provide you with customized Site content, targeted offers, and advertising on the Site, via email, or across other websites, mobile applications, social media or online services;
+  * To contact you with information, newsletters and promotional materials from ABA or on behalf of our partners and affiliates;
+  * To use your data in an aggregated non-specific format for analytical and demographic purposes (this processing may involve profiling – for example to create audiences based on demographic or location-based information for marketing and customization purposes);
+  * To address problems with the Site or our business, and to protect the security or integrity of the Site and our business;
+  * To use and disclose your credit/debit card information only to process payments and prevent fraud; and
+  * For other purposes disclosed at the time you provide your information or otherwise with your consent.
+
+
+
+Additionally, if you use the Site to connect with third party services you authorize us to use information from and about you, on your behalf, to interact with these third party services based on your requests.
+
+**4\. INFORMATION WE SHARE**
+
+Except as provided in this Privacy Policy, we will not disclose, sell, or rent any of your information to any third parties without your consent.  We may share the information we collect from and about you as described below. 
+
+**A. Sharing of Information by Us**
+
+We may share your personal information with:
+
+  * **_Our Affiliates_** : We may share your information with ABA affiliates and subsidiaries bearing the ABA or IndieBound brands for business, operational, promotional and marketing purposes.
+  * **_Third Party Service Providers_** :  We may share your information with third-party service providers that provide business, professional or technical support functions for us (including to the extent necessary or desirable to fulfill or ship your order or complete your transaction), help us operate our business and the Site, or administer activities on our behalf. We may share your information with third-party service providers in order to fulfill your request or otherwise complete a service provided to you.
+  * **_Select Third Parties_** : We may share your personal information with any affiliates, partners, agents or other parties whose products and services may be of interest to you. If you do not want us to share your information in this manner, please see the "Your Rights and Choices" section below.  From time to time, we also may share your personal information with third parties for research and development purposes.
+  * **_Legal Obligations; Safety_** : We may access and disclose your information to respond to subpoenas, judicial processes, or government requests and investigations, or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law. We may disclose your information to protect the security of our Site, servers, network systems, and databases. We also may disclose your information as necessary, if we believe that there has been a violation of our Terms of Use, any other legal document or contract related to our services, or the rights of any third party.
+  * **_Sale or Transfer of Business or Assets_** : We may sell or purchase assets during the normal course of our business.  If another entity acquires us or any of our assets, information we have collected about you may be transferred to such entity.  In addition, if any bankruptcy or reorganization proceeding is brought by or against us, such information may be considered an asset of ours and may be sold or transferred to third parties.  Should such a sale or transfer occur, we will use reasonable efforts to try to require that the transferee use personal information provided through this Site in a manner that is consistent with this Privacy Policy.
+  * **_Aggregate or Anonymous Non-Personal Information_** : We may also share aggregate, anonymous, or de-identified non-personal information with third parties for their marketing or analytics uses.
+  * **_Other_** : We also may share your information as disclosed to you at the time of collection.
+
+
+
+**B. Sharing of Information by You (Online Blogs and Forums)**
+
+The Site offers many ways to find, enjoy, and share content.  Your activity in connection with the Site may include filling out surveys, reviewing and rating products or services, inquiring about or purchasing products or services, participation in online communities, “liking” or “sharing” our content to your social media accounts or pages or otherwise interacting with the Site. Any information you may disclose on our Site, in blogs, on message boards, in chat rooms, or on other public areas on the Site or other third-party websites, applications, or services that this Site may link to, becomes public information.  Please exercise caution when disclosing personal information in these public areas.
+
+**5\. RETENTION OF YOUR INFORMATION**
+
+We will keep your personal data for as long as we need it for the purpose it is being processed for. For example, we will retain your information for as long as your account is active or as needed to provide you services; and after that, we will keep the personal information for a period which enables us to handle or respond to any complaints, queries or concerns relating to your account.  Your information may also be retained so that we can continue to improve your experience with us and to ensure that you receive any loyalty rewards which are due to you.  We will periodically review the personal information we hold and delete it securely, or in some cases anonymize it, when there is no longer a legal, business, or consumer need for it to be retained. 
+
+**6\. YOUR RIGHTS AND CHOICES**
+
+**A. Data Subject Rights**
+
+If you live in the European Economic Area (EEA), you have a number of rights when it comes to your personal data.  If you wish to exercise these rights with regards to your personal data that we hold, please contact us using the details set out in the Contact Us section below. Further information and advice about your rights can be obtained from the data protection regulator in your country.  These include:
+
+  * The right to be provided with clear, transparent and easily understandable information about how we use your information and your rights (which is why we are providing you with the information in this Policy).
+  * The right to obtain access to your information (if we are processing it).
+  * The right to have your information corrected if it is inaccurate or incomplete.  You can do this through your account page or by contacting us.
+  * The right to 'block' or suppress further use of your information. When processing is restricted, we can still store your information, but may not use it further.  We keep lists of people who have asked for further use of their information to be 'blocked' to make sure the restriction is respected in future.
+  * The right to request that we delete or remove your data where there is no compelling reason for us to keep using it.  This is not a general right to erasure; there are exceptions.
+  * The right to request that we transfer or port elements of your data either to you or another service provider.
+  * The right to object to certain types of processing, including processing for direct marketing (i.e., if you no longer want to be contacted with potential opportunities).
+  * If you have given your consent to anything we do with your personal data, you have the right to withdraw your consent at any time. 
+  * You also have the right to lodge a complaint about the way we handle or process your personal data with your national data protection regulator
+
+
+
+Pursuant to applicable data protection law, we may be entitled to refuse to act on the request.  To make these requests with ABA, please submit your name, address, and email address, in addition to the specifics of your request, at [/contact](https://web.archive.org/contact).
+
+**B. Cookies and California Do Not Track Disclosures**
+
+For California Residents: Certain parts of our Site require cookies. You are free to set your browser or operating system settings to limit certain tracking or to decline cookies, but by doing so, you may not be able to use certain features on the Site or take full advantage of all of our offerings. Please refer to your Web browser’s or operating system’s website or “Help” section for more information on how to delete and/or disable your browser or operating system from receiving cookies or controlling your tracking preferences. 
+
+Our system may not respond to Do Not Track requests or headers from some or all browsers. We may use cookies or other technologies to deliver more relevant advertising and to link data collected across other computers or devices that you may use. 
+
+**C. Interest-Based Advertising Choices**
+
+To understand your choices for receiving more relevant advertising provided on the Site or across other websites and online services, please review the information below:
+
+  * To learn more about such interest-based advertising, and to opt out of such collection and use for interest-based advertising by the Digital Advertising Alliance (DAA) participating companies, please visit [http://www.aboutads.info/choices/](http://www.aboutads.info/choices/). 
+  * To opt out from the use of information about your online activities for interest-based advertising by Network Advertising Initiative (NAI) member companies, please visit [http://www.networkadvertising.org/choices/](http://www.networkadvertising.org/choices/).  
+  * If you wish to prevent your data from being used by Google Analytics, Google has developed the Google Analytics opt-out browser add-on available [here](https://tools.google.com/dlpage/gaoptout/).
+
+
+
+**D.   Other Choices Concerning the Use and Disclosure of Your Information**
+
+If you no longer want to receive direct marketing from ABA, we provide you with the opportunity to update you information or opt-out of having you information used for purposes not directly related to placement, processing, fulfillment, or delivery of a product order or servicing of your product. 
+
+  * If you would like to unsubscribe from any of our services or would like us to remove you from any of our on-line mailing lists, you can (1) Unsubscribe from our email communications at any time by unsubscribing or following the instructions contained within the email; (2) email us at [info@bookweb.org](mailto:info@bookweb.org) with the subject heading "unsubscribe from ABA information"; or (3) call us at 800-637-0037;
   * ABA members may access the personal information we have collected about you and correct any inaccuracies by calling us at 800-637-0037;
-  * If you do not want us to share your information, please send e-mail or call us at 800-637-0037.
 
 
 
-E. Security  
-We make every effort to have reasonable security measures in place to protect the loss, misuse, or alteration of information under our control, including using Secure Sockets Layer (SSL) technology to collect and transmit your information.
+If you receive marketing communications from one or more ABA affiliates, you must opt-out individually from each of the affiliates from which you are receiving brand-specific marketing communications.
 
-If you have any questions about the security of our web site, please contact Dan Cullen, Director Information Dept., ABA, 200 White Plains Rd., Tarrytown, NY 10591.
+**E. YOUR CALIFORNIA PRIVACY RIGHTS**
 
-F. Notification of Changes  
-If we decide to change our privacy policy, we will post those changes on our privacy policy so you will always be aware of what information we collect, how we use it, and under what circumstances we disclose it. If at any point we decide to use personally identifiable information in a manner materially different from that stated at the time it was collected, we will notify you by way of e-mail if you provided us your email address or by posting notice on our website if we do not have your email address.You will then have a choice as to whether or not we may use your information in this manner. We will use information in accordance with the privacy policy under which the information was collected.
+If you are a California resident, you may request information about our disclosure of personal information to third parties or affiliated companies for their direct marketing purposes.  To make such a request, please contact us at:
 
-G. Special Policy Regarding Information from Children Under Thirteen Years of Age
+American Booksellers Association
 
-We are not targeted to children under the age of 13, and we do not knowingly collect personally identifiable information from any child under the age of 13 without parental consent. When we receive such information, we delete it as soon as we discover it and do not use it or share it with third parties.
+333 Westchester Avenue, Suite S202
 
-Effective May 2008
+White Plains, NY 10604
+
+You must put the statement “Your California Privacy Rights” in the subject field. We are not responsible for notices that are not labeled or sent properly, or do not have complete information. 
+
+Non-affiliated third parties are independent from ABA and if you wish to receive information about your disclosure choices or stop communications from such third parties, you will need to contact those non-affiliated third parties directly. 
+
+**7\. THIRD-PARTY CONTENT AND LINKS**
+
+The Site may contain links to other web sites. Additionally, third party sites may from time to time link to the Site. PLEASE BE AWARE THAT WE ARE NOT RESPONSIBLE FOR THE CONTENT OR PRACTICES OF ANY OTHER SITES. We encourage our users to read the privacy policies of each and every web site that they visit. Our Privacy Policy applies solely to the Site.
+
+**8\. CHILDREN’S PRIVACY**
+
+Protecting children’s privacy is important to us. We do not direct the Site to, nor do we knowingly collect any personal information from, children under the age of sixteen.  If we learn that a minor has provided personal information through the Site, we will use reasonable efforts to remove such information from our files.
+
+**9\. DATA SECURITY**
+
+We have taken certain physical, administrative, and technical steps to safeguard the information we collect from and about our customers and Site visitors, including through the use of Secure Sockets Layer (SSL) technology to collect and transmit your information. While we make every effort to help ensure the integrity and security of our network and systems, we cannot guarantee our security measures. 
+
+**10\. INTERNATIONAL TRANSFERS**
+
+ABA is a global business and it, or its service providers, may process, transfer, and store information about our users on servers located in a number of countries outside the European Economic Area (EEA), including in the United States (where data protection laws may be less stringent than in the country where you live).  Since we are committed to protecting your information, we take steps to ensure that there are appropriate safeguards in place when we transfer that data. 
+
+To ensure that your data is adequately protected, we only transfer your data subject to suitable safeguards being in place. Where applicable, we only transfer your personal data subject to suitable safeguards being in place, such as through the use of approved standard EU Model Clauses or to companies who are Privacy Shield certified.   To find out more about how we safeguard your information (including obtaining a copy of such safeguards) in relation to transfers outside the EEA, please contact us via the details provided in the “Contact Us” section below.
+
+**11\. REVISIONS TO THIS PRIVACY POLICY**
+
+If we decide to change our privacy policy, we will post those changes on our privacy policy so you will always be aware of what information we collect, how we use it, and under what circumstances we disclose it. If at any point we decide to use personal information in a manner materially different from that stated at the time it was collected, we will provide appropriate notice to you. 
+
+**12\. HOW TO CONTACT US**
+
+If you have any questions or concerns about this Privacy Policy or the practices described herein, you may contact us at [info@bookweb.org](mailto:info@bookweb.org) or by mail to:
+
+American Booksellers Association
+
+333 Westchester Avenue, Suite S202
+
+White Plains, NY 10604
