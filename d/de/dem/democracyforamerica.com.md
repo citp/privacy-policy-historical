@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the democracyforamerica.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120113257id_/http%3A//democracyforamerica.com/index.php/site/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the democracyforamerica.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230091749id_/https%3A//democracyforamerica.com/index.php/site/page/privacy-policy) for the most accurate reproduction.*
 
 # Democracy for America : Privacy Policy
 
@@ -9,6 +9,9 @@ Our privacy policy explains the information practices we use at democracyforamer
 How we use the information you provide.  
 Information on children  
 Linking to other sites.  
+Data Tracking  
+Advertising  
+Individual Opt-Out Links  
 When you contribute money online.  
 When you subscribe to updates.  
 When you sign up for our mailing list.  
@@ -27,6 +30,18 @@ The Democracy for America website does not ask children 13 or under for any info
 **Linking to other sites:**
 
 Our site links to a limited number of other web sites. Democracy for America is not responsible for the content or the privacy policies of these web sites.
+
+**Data Tracking**
+
+In order to better serve our visitors, we use cookies and periodically analyze web logs. We may also use third-party services such as Google Analytics and Twitter conversion tracking, in addition to other third-party services. This helps DFA to understand traffic patterns and know if there are problems with our website. We may also use embedded images in emails sent to you to track open rates for our emails, so that we can tell which mailings are important to you.
+
+**Advertising**
+
+We may place online advertising with third-party vendors, including Google, Facebook, AddThis and Twitter, which will be shown on other sites on the internet. In some cases, those third-party vendors may decide which ads to show you based on your prior visits to the website. At no time will you be personally identified to those third-party vendors, nor will any of the information you share with us be shared with those third-party vendors. If you prefer to opt out of the use of these third-party cookies on the DFA website, you can do so by visiting the [Network Advertising Initiative opt out page](http://optout.networkadvertising.org/?c=1#!/) or by following the individual opt-out links in the section below.
+
+**Individual Opt-Out links**
+
+DFA recognizes that your privacy is important to your internet experience. If you wish to individually opt-out of third-party targeted advertising by one or more of our partners, DFA has provided the individual links here. To opt out of Twitter's interest-based advertising, click [here](https://help.twitter.com/en/safety-and-security/privacy-controls-for-tailored-ads). To opt out of Google Analytics, click [here](https://tools.google.com/dlpage/gaoptout). Information on adjusting your Facebook settings can be found [here](https://www.facebook.com/help/568137493302217). To opt out of AddThis targeted advertising, click [here](http://www.addthis.com/privacy/opt-out).
 
 **When you contribute money online:**
 
