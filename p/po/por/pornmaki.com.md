@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pornmaki.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624090533id_/http%3A//pornmaki.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornmaki.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230085414id_/http%3A//pornmaki.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
