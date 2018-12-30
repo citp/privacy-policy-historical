@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internetsociety.org privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627190032id_/https%3A//www.internetsociety.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetsociety.org privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230054424id_/https%3A//www.internetsociety.org/privacy-policy) for the most accurate reproduction.*
 
 # Internet Society Statement of Privacy | Internet Society
 
@@ -190,9 +190,9 @@ or by mail at:
 
 Internet Society  
 Attn: Chief Administrative Officer  
-1775 Wiehle Avenue  
-Suite 201  
-Reston, VA 20190-5108
+11710 Plaza America Drive  
+Suite 400  
+Reston, VA 20190
 
 ### Member Personal Data, Communication & Database
 
