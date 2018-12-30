@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dogtime.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624090944id_/http%3A//www.totallyhermedia.com/privacy/%3Fsite%3Ddogtime.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogtime.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230084452id_/http%3A//www.totallyhermedia.com/privacy/%3Fsite%3Ddogtime.com) for the most accurate reproduction.*
 
 # TotallyHer Media | Privacy - ?site=dogtime.com
 
@@ -6,7 +6,7 @@
 
  **Privacy Policy**
 
-This privacy policy was last modified on September 4, 2014 (the “Effective Date”). TotallyHer (the “Company”), a subsidiary of Evolve Media, LLC and the owner and operator of the website [www.totallyhermedia.com](http://www.totallyhermedia.com/) (the “Site”), takes your privacy very seriously. This privacy policy is intended to inform you about the information that is collected from you when you visit the Site; how this information may be used and disclosed; how you can control the use and disclosure of your information; and how your information is protected. If you have any questions about this privacy policy, please contact our legal team at [[email protected]](http://www.totallyhermedia.com/cdn-cgi/l/email-protection#4e222b292f220e2b382122382b232b2a272f22222d602d2123).
+This privacy policy was last modified on September 4, 2014 (the “Effective Date”). TotallyHer (the “Company”), a subsidiary of Evolve Media, LLC and the owner and operator of the website [www.totallyhermedia.com](http://www.totallyhermedia.com/) (the “Site”), takes your privacy very seriously. This privacy policy is intended to inform you about the information that is collected from you when you visit the Site; how this information may be used and disclosed; how you can control the use and disclosure of your information; and how your information is protected. If you have any questions about this privacy policy, please contact our legal team at [[email protected]](http://www.totallyhermedia.com/cdn-cgi/l/email-protection#503c3537313c1035263f3c26353d353439313c3c337e333f3d).
 
   1. [Scope](http://www.totallyhermedia.com/privacy/#scope)
   2. [What information the Site collects](http://www.totallyhermedia.com/privacy/#collect)
@@ -104,7 +104,7 @@ If you opt out of these technologies, you will continue to see advertising displ
 
 
 
-If you choose to share personal information with us, you may update or amend this information by contacting us at [[email protected]](http://www.totallyhermedia.com/cdn-cgi/l/email-protection#b9d5dcded8d5f9dccfd6d5cfdcd4dcddd0d8d5d5da97dad6d4). Please include in your email the name of the Site to which you provided the information you wish to amend.
+If you choose to share personal information with us, you may update or amend this information by contacting us at [[email protected]](http://www.totallyhermedia.com/cdn-cgi/l/email-protection#a9c5cccec8c5e9ccdfc6c5dfccc4cccdc0c8c5c5ca87cac6c4). Please include in your email the name of the Site to which you provided the information you wish to amend.
 
   7.  **Confidentiality and security**
 
@@ -134,6 +134,6 @@ We reserve the right to change this policy at any time. Please check this page p
 
 
 
-If you have questions about this privacy policy, please contact our legal team at [[email protected]](http://www.totallyhermedia.com/cdn-cgi/l/email-protection#4428212325280421322b2832212921202d252828276a272b29), or send mail to: Evolve Media, LLC 5140 W. Goldleaf Circle, Third Floor Los Angeles, CA 90056 Attn: General Counsel  
+If you have questions about this privacy policy, please contact our legal team at [[email protected]](http://www.totallyhermedia.com/cdn-cgi/l/email-protection#a1cdc4c6c0cde1c4d7cecdd7c4ccc4c5c8c0cdcdc28fc2cecc), or send mail to: Evolve Media, LLC 5140 W. Goldleaf Circle, Third Floor Los Angeles, CA 90056 Attn: General Counsel  
 
 monitoring_string = "23321ccc63b26ac760ef525e1c1cf37c"
