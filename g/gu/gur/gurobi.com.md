@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gurobi.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627105334id_/http%3A//www.gurobi.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gurobi.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230045710id_/http%3A//www.gurobi.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Last update: June 19, 2018 
+Last update: September 20, 2018 
 
 Section List |   
 ---|---  
@@ -62,9 +62,11 @@ The representative of the controller who represents the controller in the Europe
 
 Gurobi GmbH
 
-Foellerweg 37
+Scanbox #05501 
 
-D-61352 Bad Homburg
+Ehrenbergstr. 16a 
+
+DE-10245 Berlin
 
 E-Mail: info@gurobi.de
 
@@ -72,7 +74,7 @@ E-Mail: info@gurobi.de
 
 ## 3\. What personal data will Gurobi Optimization collect about me?
 
-When you participate in, access or sign up to any of Gurobi Optimization’s services, activities or online content, sign up for a webinar, or create an account using Gurobi Optimization’s online registration system, we may receive personal data about you. This can consist of information such as your name, email address, country of origin, company or university as well as your registration and login data. If you do not provide those personal data to us, you cannot set up an account with Gurobi Optimization and cannot use our products and services.
+When you participate in, access or sign up to any of Gurobi Optimization’s services, activities or online content, sign up for a webinar or training event, or create an account using Gurobi Optimization’s online registration system, we may receive personal data about you. This can consist of information such as your name, email address, telephone number, country of origin, company or university, job title as well as your registration and login data. If you do not provide those personal data to us, you cannot set up an account with Gurobi Optimization, cannot attend a webinar or training event and cannot use our products and services.
 
 By submitting your details, you enable us to provide you with the services, activities or online content you select. The legal basis for such processing is Article 6(1)(b) GDPR since it is necessary for the performance of a contract to which you are a party or in order to take steps at your request prior to entering into a contract. 
 
@@ -98,7 +100,7 @@ If you do not provide your personal data to us when visiting our Website the use
 
 Gurobi Optimization will use your personal data for a number of purposes including the following:
 
-  * to provide our products and services, activities or online/email content and to deal with your requests and inquiries (processing is necessary for the performance of a contract between Gurobi Optimization and you or in order to take steps at your request prior to entering into a contract pursuant to Article 6(1)(b) GDPR);
+  * to provide our products and services, activities or online/email content, to facilitate your attendance at a webinar or training event and to deal with your requests and inquiries (processing is necessary for the performance of a contract between Gurobi Optimization and you or in order to take steps at your request prior to entering into a contract pursuant to Article 6(1)(b) GDPR);
   * for "service administration purposes", which means that Gurobi Optimization may contact you for reasons related to the software, service, activity or online content you have signed up for, as set out in section 5 below (e.g. to provide you with password reminders or to notify you that a particular service, activity or online content has been suspended for maintenance) (processing is necessary for the performance of a contract between Gurobi Optimization and you pursuant to Article 6(1)(b) GDPR);
   * to contact you about a submission, such as responding to a support request you have made (processing is necessary for the performance of a contract between Gurobi Optimization and you pursuant to Article 6(1)(b) GDPR);
   * to provide you with information about our software, services, activities or online/email content (processing of personal data for such direct marketing purposes is based on Article 6(1)(f) GDPR since it is carried out for the legitimate interest of Gurobi Optimization of informing its customers about new software, services, activities or content). You have the right to object at any time to processing of your personal data for direct marketing purposes. Please address your objection to Gurobi Optimization or our representative at the contact details stated above;
@@ -119,7 +121,7 @@ Gurobi Optimization DOES NOT collect or use personal data for automated decision
 
 Gurobi Optimization may contact you:
 
-  * in relation to any product or service (includes activities such as training events as well as online or email content) you have signed up for in order to ensure that Gurobi Optimization can deliver those to you;
+  * in relation to any product or service (includes activities such as training events, webinars as well as online or email content) you have signed up for in order to ensure that Gurobi Optimization can deliver those to you;
   * in relation to any correspondence we receive from you or any comment or complaint you make about Gurobi Optimization software or services;
   * in relation to any contribution you have submitted to Gurobi Optimization, e.g. on Gurobi Optimization message boards or via text or voicemail message;
   * to invite you to participate in surveys about Gurobi Optimization products and services (participation is always voluntary); and
@@ -131,7 +133,7 @@ Gurobi Optimization may contact you:
 
 ## 6\. Will I be contacted for marketing or sales purposes?
 
-When you have set up an account with Gurobi Optimization, we will only use your information for marketing or sales purposes, such as to let you know about educational webinars, free product evaluations, satisfaction surveys, new product releases, or upcoming trade-shows we will be attending, where you have not chosen to object.
+When you have set up an account with Gurobi Optimization or have signed up for a webinar or training event, we will only use your information for marketing or sales purposes, such as to let you know about educational webinars, training events, free product evaluations, satisfaction surveys, new product releases, or upcoming trade-shows we will be attending, where you have not chosen to object.
 
 You have the right to object at any time to processing of your personal data for direct marketing purposes. Please address your objection to Gurobi Optimization or our representative at the contact details stated above.
 
@@ -142,6 +144,8 @@ We will keep your information and personal data confidential except where disclo
 a. Gurobi Optimization enters into a controller - processor contract with such third parties and requires these third parties keep the information confidential and secure, to implement appropriate technical and organizational measures and that they do not use your personal data for their own business purposes, unless you have explicitly consented to the use of your personal data in this way. 
 
 b.When we collect personal data from you in the European Union we will transfer those personal data to Gurobi Optimization, LLC. located in the USA 
+
+c.When we collect personal data from you for the purpose of facilitating your attendance at a webinar or training event and we co-organize such webinar or training event together with another company or we invite speakers we share your personal data with such co-organizing company and the speakers in order to support us in organizing and conducting the webinar or training event, respectively (processing of personal data for the purposes of the legitimate interests pursued by Gurobi Optimization to efficiently organize and conduct webinars and training events based on Article 6(1)(f) GDPR). 
 
 * * *
 
@@ -203,7 +207,7 @@ This Website uses Google Analytics, a web analytics service provided by Google I
 
 ### e. Marketo
 
-This Website uses Marketo, an e-mail, marketing automation and analytics service provided by Marketo, Inc., 901 Mariners Island Blvd., Suite 500, San Mateo, CA 94404, USA to assist us in sending e-mails in accordance with a person’s marketing preferences. Gurobi Optimization also uses Marketo for marketing automation and analytics on our website. Marketo uses cookies on our Website which can be rejected as explained above in section 11 c). You can also opt-out from Marketo tracking by [clicking this link](https://web.archive.org/web/20180627105334id_/http%3A//www.gurobi.com/company/privacy?marketo_opt_out=true), where we place a mkto_opt_out cookie in your browser to notify Marketo to stop tracking your use of our Website in this browser. To stop Marketo tracking on other browsers or devices, please visit this link with every browser you use on our Website.
+This Website uses Marketo, an e-mail, marketing automation and analytics service provided by Marketo, Inc., 901 Mariners Island Blvd., Suite 500, San Mateo, CA 94404, USA to assist us in sending e-mails in accordance with a person’s marketing preferences. Gurobi Optimization also uses Marketo for marketing automation and analytics on our website. Marketo uses cookies on our Website which can be rejected as explained above in section 11 c). You can also opt-out from Marketo tracking by [clicking this link](https://web.archive.org/web/20181230045710id_/http%3A//www.gurobi.com/company/privacy?marketo_opt_out=true), where we place a mkto_opt_out cookie in your browser to notify Marketo to stop tracking your use of our Website in this browser. To stop Marketo tracking on other browsers or devices, please visit this link with every browser you use on our Website.
 
 * * *
 
