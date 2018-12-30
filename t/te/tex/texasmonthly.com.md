@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the texasmonthly.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624164400id_/https%3A//www.texasmonthly.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texasmonthly.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230161138id_/https%3A//www.texasmonthly.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Texas Monthly
 
@@ -56,7 +56,7 @@ Any unauthorized use of the Site may result in criminal and/or civil prosecution
 
 If you have any concerns about privacy procedures at our Web site or wish to access or modify your Personally Identifiable Information collected at the Site:
 
-  * Email us your privacy concerns by [clicking here](https://web.archive.org/cdn-cgi/l/email-protection#483f2d2a083c2d30293b2527263c202431662b2725).
+  * Email us your privacy concerns by [clicking here](mailto:web@texasmonthly.com).
   * Write us at: Attn: Privacy/TEXAS MONTHLY, PO Box 1569, Austin, TX 78767-1569.
   * Call us at: 512-320-6990.
   * Fax us at: 512-476-9007.
