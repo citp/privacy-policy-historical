@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vhlcentral.com privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903032804id_/https%3A//www.vhlcentral.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vhlcentral.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230175106id_/https%3A//www.vhlcentral.com/privacy_policy) for the most accurate reproduction.*
 
 # VHL Central | home: privacy_policy
 
@@ -73,7 +73,7 @@ For the avoidance of doubt, Vista Higher Learning will not provide any third par
 
 **Third Parties Who May Receive Your Information**
 
-Vista Higher Learning may share your information with affiliates and third party service providers who assist us in operating our business, servicing our website, or supporting you with your product experience. For example, Vista Higher Learning has engaged AltaVista (“AltaVista”) and OneLink (“OneLink”) to provide technical support for our VHL Digital Products. At your request or the request of your instructor or educational institution, AltaVista or OneLink may request information from or about you in order to provide technical support. AltaVista and OneLink have agreed to abide by Vista Higher Learning’s Privacy Policy. However, Vista Higher Learning is not responsible for AltaVista, OneLink or any third party’s implementation of its privacy and security practices.
+Vista Higher Learning may share your information with affiliates and third party service providers who assist us in operating our business, servicing our website, or supporting you with your product experience. For example, Vista Higher Learning licenses technology from TokBox, Inc. ("TokBox") and Pubnub, Inc. ("Pubnub") to provide peer chat and messaging services. Additionally, Vista Higher Learning has engaged AltaVista ("AltaVista") and OneLink ("OneLink") to provide technical support for our VHL Digital Products. At your request or the request of your instructor or educational institution, AltaVista or OneLink may request information from or about you in order to provide technical support. These providers have agreed to abide by Vista Higher Learning's Privacy Policy. However, Vista Higher Learning is not responsible for TokBox, Pubnub, AltaVista, OneLink or any third party's implementation of its privacy and security practices.
 
 **How We Protect Your Information**
 
