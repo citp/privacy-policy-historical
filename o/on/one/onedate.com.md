@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the onedate.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615000449id_/http%3A//www.onedate.com/info/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onedate.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230235953id_/http%3A//www.onedate.com/info/privacypolicy) for the most accurate reproduction.*
 
 # Onedate
 
 Back to menu Article 1. Protection of privacy and treatment of personal data
+
+(Valid from 2018.25.05)
 
 ONEDATE respectes the European, Spanish and Swiss laws in force regarding the protection of privacy and personal data processing. Some information, signs or content (photographs or personal information) that Members can enter, under their own responsibility, might reveal their racial and ethnic origin, religious or philosophical beliefs, political opinions, membership to political parties, trade unions, religious, philosophical, political, trade union associations or organizations as well as personal information such as their health conditions or sexual life. By entering such optional information at their own free will, the Member expresses consent to ONEDATE to process such "sensitive" data and takes the whole responsibility.   
 Furthermore, all the collected personal information (including, by way of example and not limited to: email address, telephone and mobile number, text ads, user's interests and how the user uses the Service), will be used both for internal communications, regarding the services offered by Onedate for commercial communications, and marketing communications by Onedate’s partner companies. 
@@ -45,3 +47,15 @@ The person in charge of Processing is TEKKA DIGITAL SA company, the provider of 
 The Member can contact at any time, by sending an email to [Support](http://www.help-tkd.com/en_GB/contact/index/pid/6), to the Person in charge of data processing, in order to obtain a confirmation whether there exists personal data concerning him/her, even if he/she has not signed up to become a member yet and have them communicated in an intelligible way.   
 Furthermore, the Member has the right to ask the Person in charge of Personal Data Processing to delete his/her personal data (by that, it is means to destroy such information without any possibility to restore it), transform it into anonymous form (changing the data into anonymous format) or to freeze the treatment of their personal data (conserving the data by temporarily suspending any kind of processing.)   
 The Member has the right to object to the processing of any personal data concerning him/her, in whole or partly, on legitimate grounds, even if they are relevant to the purpose of the collection, or they can object to the processing of personal data concerning him/her to send advertisement, direct sales, conduct market research or commercial communication. 
+
+Right to be informed, rectification, elimination or limitation of processing of personal data of the user, right of revocation and transferability of data.
+
+Upon user’s request, we will be happy to communicate in writing to you, in accordance with applicable law, if and which personal data are stored at our company. If the user is registered, he can directly view the saved data and, if necessary, modify or delete them. If, despite the efforts made by our company to ensure the security and correctness of the data, incorrect informations where saved and when the user has no way to correct them independently, we will be happy to rectify them on request.
+
+The user can also request the limitation from the processing of personal data on our part. Furthermore, you may request the sending of data made available to our company in a structured, common and machine-readable format. You can then refuse the processing of your personal data from our society.
+
+The user also has the right to request the deletion of his personal data, where there are no legal retention terms. We will delete the data when it will no longer be necessary for the purpose for which it was collected and processed or following the revocation of the consent provided by the user and where there are no other legal bases concerning the further processing of data. Furthermore, the data will be deleted if the processing has been carried out illegally for unknown reasons or if the user has opposed the processing and there are no legitimate priority interests for processing. 
+
+The deletion of data will also take place when we will no longer be bound by law. Our company has implemented technical measures to inform all recipients of data of any request for deletion or correction by the user. This applies in the event that such data is disclosed or made public. All links, copies and replicas of the user’s personal data must be deleted.
+
+Even if the user has given consent to the processing of his personal data, he may revoke it at any time with future effectiveness. When the consent is withdrawn, the processing of data that has already taken place does not become illegal.
