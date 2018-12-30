@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelweekly.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626085830id_/http%3A//adhost1.ntmllc.com/twxads/privacy_0404.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelweekly.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230164305id_/http%3A//adhost1.ntmllc.com/twxads/privacy_0404.htm) for the most accurate reproduction.*
 
 # None
 
@@ -86,6 +86,13 @@ From time to time we may use customer information for new, unanticipated uses no
 
 Right to object. You may object to Northstar using your personal information for the above purposes at any time by contacting [privacy@ntmllc.com](mailto:privacy@ntmllc.com) .   If you do so, Northstar will cease using your personal information for the above purposes (i.e., under a legitimate interest set out above) and remove it from its systems unless such personal information is permitted to be used by Northstar for another purpose set out in this Privacy Policy or Northstar determines and demonstrates a compelling legitimate interest to continue in processing your personal information.
 
+## PRIVACY OF MINORS AND CHILDREN
+
+Northstar complies with the Children's Online Privacy Protection Act, which requires the consent of a parent or guardian for the collection of personally identifiable information from children under 13 years of age. Northstar does not knowingly collect, use or disclose personal information from children under 13, or equivalent minimum age in the relevant jurisdiction, without verifiable parental consent. However, it is possible that we may inadvertently receive information pertaining to children under 13. If you believe that we have received information about your child that is under the age of 13, please do not hesitate to notify us at privacy@ntmllc.com. When we receive your notification, we will obtain your consent to retain the information or will delete it permanently
+
+  
+
+
 ## SHARING OF PERSONAL INFORMATION WITH THIRD PARTIES
 
 In general, Northstar does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you have requested, when we have your consent as indicated in Section I of this Policy, as follows:
@@ -94,7 +101,7 @@ a)      Northstar may use personal information collected through its websit
 
 b)     We may provide personal information about our users to trusted partners and vendors who work on behalf of or with Northstar under written confidentiality and similar agreements prohibiting such parties' further use of the information. These companies may use your personal information to help Northstar communicate with you about offers from Northstar and our marketing partners. However, these companies do not have any independent right to use or share this information.
 
-c)      When you register for an educational program, contest, event, virtual tradeshow, or other promotion that is sponsored by a third party we will, depending upon your jurisdiction, seek your affirmative consent to provide the third party personal information, in a manner clearly specified on the registration materials, unless otherwise posted in connection with the promotion. 
+c)      When you register for an educational program, contest, event, virtual tradeshow or other promotion that is sponsored by a third party, your personal information will be provided to that third-party sponsor unless you are a resident of one of the countries within the European Union (EU). If you are an EU resident, we will seek your affirmative consent to provide the third-party sponsor with your personal information in a manner clearly specified on the registration materials, unless otherwise posed in connection with the promotion. 
 
 d)     Northstar may from time to time share limited personal information such as email addresses, company name, job title and state of business or residence with trusted third parties who deliver content that is likely to be of interest to you.
 
