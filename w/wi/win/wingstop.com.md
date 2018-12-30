@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wingstop.com privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508215206id_/http%3A//www.wingstop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wingstop.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230155809id_/http%3A//www.wingstop.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Wingstop
 
