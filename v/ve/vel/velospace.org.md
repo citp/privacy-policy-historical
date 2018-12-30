@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the velospace.org privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624054445id_/http%3A//www.carbonmedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the velospace.org privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230050757id_/http%3A//www.carbonmedia.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Carbon Media
 
@@ -135,5 +135,6 @@ If you have any questions or comments about this Privacy Policy, please contact 
 
 [legal@carbonmedia.com](mailto:legal@carbonmedia.com)  
 **Privacy Officer**  
-30800 Telegraph Road, Suite 4805  
-Bingham Farms, Michigan 48025 USA 
+3290 W. Big Beaver Rd.  
+Suite 500  
+Troy, Michigan 48084 USA 
