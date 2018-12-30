@@ -1,325 +1,323 @@
-> *The following text is extracted and transformed from the reveal.co.uk privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520145125id_/http%3A//www.hearst.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reveal.co.uk privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230094948id_/http%3A//www.hearst.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Hearst UKHearst UK
+# Privacy Notice - Hearst UKHearst UK
 
-Hearst Magazines UK which is the trading name of The National Magazine Company Limited.
+[ ](http://www.hearst.co.uk/)
 
-Hearst Magazines UK is committed to protecting your privacy and we have prepared this Privacy Policy to describe to you our practices regarding the Personal Data we collect from users of our services.
+__Define your site main menu
 
-Who are we and how to contact us?
+**Privacy Notice – Highlights**
 
-Hearst Magazines UK has its head office at:
+**Last Updated** : 24 May 2018  
+When you use or interact with a website, mobile app or other digital service (each a “ **Digital Service** ”) owned or operated by Hearst UK or complete a hard copy (paper) form to subscribe to our magazine or other publication, enter a competition or provide your details at an event (each a “ **Subscription Form** ”), we and third parties obtain certain information about you. In this Highlights section, we provide an overview of our privacy practices related to the Digital Services and Subscription Forms. Please review our full Privacy Notice below for a detailed explanation of our practices.
 
-72, Broadwick Street, London, W1F 9EP.
+**What Information We Obtain**
 
-The National Magazine Company Ltd is registered in England 112955, VAT Registration GB 238 587 423.
+  * Information you provide when you use the Digital Services or order related content, products or services, including when you sign up for newsletters, order subscriptions, create an account or register for a membership through the Digital Services or via Subscription Forms. This may include your contact, payment or demographic information.
+  * Information you submit when you choose to participate in a survey, sweepstakes, competition, promotion, event or similar initiative.
+  * Information you give us about others, such as a friend’s contact information when you order a gift subscription.
+  * Information collected by Cookies and Similar Technologies. This includes information about your device and browser, including IP address or mobile device advertising identifiers, as well as information about how you and others use, interact with or respond to the Digital Services.  This type of collection takes place while you are using a Digital Service or while the Digital Service is running in the background of your device.  Our [Cookies Policy](http://www.hearst.co.uk/cookies-policy) has detailed information on our use of Cookies and Similar Technologies.
+  * Precise location information associated with your device when location services are active.
+  * Information we obtain from other sources, such as business partners, data suppliers and social media platforms
 
-Details of Subsidiaries and affiliates (collectively known as affiliates) are:
 
-Handbag.com Ltd, registered in England 03819979. VAT registration GB 238 587 423.
 
-Hearst – Rodale UK Ltd, registered in England 00519122. VAT registration GB 626 914 329.
+Read more [here](http://www.hearst.co.uk/privacy-notice#B).
 
-If you would like to contact us for any reason, please email us at dp@hearst.co.uk and we will do our best to answer your questions.
+**How We Use Information We Obtain and Our Legal Bases for Doing So**
 
-1\. What information do we collect from you?
+  * To process your requests, subscriptions and provide you with the Digital Services, including to deliver customised content or recommendations. Note that we use your payment information (such as your card number and expiration date) for limited purposes — to process your transaction (including recurring payments, if applicable), provide you with the requested products or services and to protect our rights or the rights of others.
+  * To learn about users of the Digital Services and analyse how you and others interact with and respond to the Digital Services.
+  * To communicate with you, including to send you marketing and promotional communications.
+  * For advertising and marketing purposes, including to deliver interest-based ads, for cross-device linking and to analyse the performance of advertising and marketing activities.
+  * To protect our rights and the rights of others.
+  * We process personal information for different purposes on the following legal bases: to perform our contract with you, to pursue our legitimate interests, to comply with our legal obligations and otherwise with your consent or at your direction. We provide more specific information on legal bases for processing [here](http://www.hearst.co.uk/privacy-notice#D).
 
-1.1 How we collect Personal Data
 
-1.2 Personal Data that we collect from you about others
 
-2\. How will we use the information we collect?
+Read more about how we use information [here](http://www.hearst.co.uk/privacy-notice#C).
 
-3\. Do we share your Personal Data with other companies?
+**How We Share Information**
 
-4\. Changing your mind about marketing messages and keeping your details up-to-date
+  * Within the Hearst family of companies.
+  * With service providers that perform services or handle transactions on our behalf.
+  * With advertisers, advertising- and marketing-related services providers and partners as well as companies that help us learn how you and others interact with our content.
+  * With social media platforms and similar services, including when you interact with our Digital Services that integrate tools and services provided by social media platforms.
+  * With business partners, such as when we partner with a third party to offer products or services on a co-branded basis.
+  * Other parties when required by law or as necessary to protect our rights, and in the context of corporate transactions.
+  * With your consent or otherwise at your direction.
 
-5\. Other websites
 
-6\. Social media, social commerce and other third parties.
 
-7\. Where is your information processed and how do we keep your Personal Data secure?
+Read more [here](http://www.hearst.co.uk/privacy-notice#E).
 
-8\. Access to your Personal Data
+**Your Choices, Including Marketing and Interest-Based Ads Opt-Outs**
 
-9\. Questions regarding this Privacy Policy
+  * You can take steps to limit the use of your information for interest-based advertising on your browser or mobile device. See [here](http://www.hearst.co.uk/privacy-notice#IB) for more information.
+  * You can unsubscribe from our marketing or promotional emails by clicking the “Unsubscribe” link in our emails.
 
-10\. Changes to this Privacy Policy
 
-1 What information do we collect from you?
 
-Hearst Magazines UK collects Personal Data and Anonymous Data from you when you visit our sites or when you send us information or communications. “Personal Data” means data that allows someone to identify you, including, for example, your name, address, telephone and mobile numbers, e-mail address, as well as any information about you that is associated with or linked to, or could be linked to, any of the foregoing data.
+Read more [here](http://www.hearst.co.uk/privacy-notice#FA).
 
-“Anonymous Data” means data that is not associated with or linked to your Personal Data.
+**Additional Information**
 
-Anonymous Data does not permit the identification of individual persons. We collect Personal Data and Anonymous Data, as described below
+  * We use a variety of security technologies and procedures to help protect information from unauthorised access, use or disclosure.
+  * We delete your data when it is no longer required for legitimate business or legal reasons.
+  * We put appropriate safeguards in place to protect your data when it is transferred to, stored, and processed in a country that does not have similar data protection laws to the European Union or United Kingdom.
+  * The Digital Services are not intended for use by children under the age of 13.
 
-1.1 How we collect Personal Data
 
-We collect Personal Data from you, such as your name, contact details, country of residence, zip code or post code, gender or birth date when you register on one of our sites or when you choose to use the various services we provide. We also collect other types of Personal Data that you provide to us voluntarily, when, for instance, you make a purchase, respond to surveys and questionnaires, or enter a competition. If you provide us feedback regarding our sites or services via e-mail, we will collect your name and e-mail address in order to send you a reply.
 
-In order to improve our services to you, we may ask you to voluntarily complete confidential surveys. We do not ask you to provide us any personally identifiable data in association with these surveys although we do associate your responses with Personal Data. If you do not wish to participate in a survey, however, simply decline to participate when asked.
+Read more [here](http://www.hearst.co.uk/privacy-notice#G).
 
-1.2 Personal Data that we collect from you about others
+**Contact Us**
 
-If you decide to invite a friend or family member to join any of our services, we will collect your name and e-mail address as well as your friend’s or family member’s e-mail address in order to send their e-mail. We will always ask your permission if we want to mention your name when contacting your friend or family member.
+If you have questions about this Privacy Notice you can contact us using the contact information provided [here](http://www.hearst.co.uk/privacy-notice#L).
 
-This information is used once only and is not saved in our database, unless they have entered a competition or other promotion in which case their e-mail address is stored only for that purpose. If you decide to invite a friend or family member to become involved we will collect and save their e-mail address into our database, along with their contact preferences, as we would for anyone who registers on our sites.
+**Privacy Notice**
 
-2 How will we use the information we collect?
+  1. **Introduction**
+  2. **What Information We Obtain**
+  3. **How We Use Information We Obtain**
+  4. **Legal Bases for Using Information**
+  5. **  How We Share Information**
+  6. **Your Rights Over Your Personal Information**  
+**a. Your Choices, Including Marketing and Interest-Based Ads Opt-Outs**
+  7. **How We Protect and Store Your Information**
+  8. **International Data Transfer**
+  9. **Children’s Privacy Rights**
+  10. **Links to Third-Party Websites, Mobile Apps or Other Services**
+  11. **Changes to This Privacy Notice**
+  12. **Contact Us**
 
-Hearst Magazines UK uses your Personal Data to provide you with a customised Web experience and to provide services to you. Such services include sending you marketing messages if you have given us permission to do so, processing your answers to quizzes and other competitions, and sending electronic newsletters and promotional e-mails to you. We also use Personal Data for customer service messages, and to notify you about updates to our services and to respond to your requests.
 
-We may create Anonymous Data records from Personal Data by excluding information (such as your name) that makes the data personally identifiable to you. We use this Anonymous Data to perform statistical analyses of users’ aggregate behaviour so that we may enhance the content of our services and improve site navigation. Hearst Magazines UK reserves the right to use and disclose Anonymous Data to third parties at its discretion, in aggregate form.
 
-If you elect to receive communications from us we may periodically send you free newsletters and e-mails that directly promote the use of our sites or the purchase of our products or services and may contain advertisements for third parties.
+**A. INTRODUCTION**
 
-3 Do we share your Personal Data with other companies?
+This Privacy Notice describes how Hearst UK (referred to in this notice as “we”, “us”, “our” and “Hearst”) collect and process personal information about you, how we use and protect this information, and your rights in relation to this information.  This Privacy Notice applies to personal information we collect or process about you in relation to Hearst’s websites, mobile applications or other digital services (each a “ **Digital Service** ”) linking to this Privacy Notice or any hard copy (paper) form used to subscribe to our magazine or other publication, enter a competition or provide your details at an event (each a “ **Subscription Form** ”).
 
-Except as otherwise stated in this Privacy Policy and in our Privacy Notices where you give us your consent, we do not sell, trade, or rent the Personal Data collected from our services to third parties.
+If you have a query about this Privacy Notice or our data practices, we have provided details of the relevant Hearst businesses, the specific publications they are responsible for and contact details in the “Contact Us” section below.
 
-However, we will share your Personal Data with our third party suppliers who need to process your data in order to fulfil your request, such as to charge your credit card (if authorised by you), fill your order, and deliver electronic newsletters and promotional e-mails. These third parties are required under contract not to use your Personal Data other than to provide the services requested by Hearst Magazines UK and to guarantee to our satisfaction that they have sufficient processes in place to ensure the security of your data whilst it is in their care.
+This Privacy Notice describes the privacy practices of Hearst only and does not cover the practices of other companies, including those that advertise or sponsor content, products or services on the Digital Services as explained further in the section “How We Share Information” below.
 
-You expressly consent to the sharing of your Personal Data with our contractors and third party service providers for the purpose of providing services to you.
+**B.  WHAT INFORMATION WE OBTAIN**
 
-If you send a testimonial or comment to us, we may post it on our site or use it in advertising materials. We will attribute your testimonial to you by posting your first and last initial or your first name and last initial next to your testimonial on our site or advertising materials, if provided.
+When you use a Digital Service or complete a Subscription Form, we obtain various types of information related to you and your use of the Digital Service.  This includes information that directly identifies you such as your name, address, or contact information as well as information such as online identifiers and cookie data, which may indirectly identify you.  The information we obtain generally consists of information (1) you give us about yourself, (2) you give us about others, (3) automatically collected about your interactions with the Digital Services and our content or ads on third-party websites, apps or other media, and (4) we get from other sources as described further below.
 
-Regardless of any choices you make regarding your Personal Data Hearst Magazines UK may disclose Personal Data if it believes in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on us; or (b) protect or defend the rights or property of Hearst Magazines UK or users of our services.
+**1 . Information we collect directly from you**
 
-If another company acquires our company or our assets, that company will possess the Personal Data collected by it and us and will assume the rights and obligations regarding your Personal Data as described in this Privacy Policy and the terms under which you submitted your data.
+When you use certain features of the Digital Services or complete a Subscription Form, we ask you to provide information about yourself.  For example, to subscribe to one of our newsletters, you will need to give us an email address.  You may not be able to use certain features if you choose not to submit the requested information.
 
-If you provide Hearst Magazines UK with your contact details and agree to receive promotional messages, we may share your details with our affiliates or third-party businesses that offer goods or services that we believe may be of interest to our customers. Many customers appreciate the offerings they receive from such third parties; however, we allow you to opt out at any time of having your Personal Data shared with affiliated or unaffiliated third parties for the purpose of sending you relevant information.
+The information you give us includes details such as:
 
-4 Changing your mind about marketing messages and keeping your details-up-to-date
+  * Contact information (e.g., name, mailing address, email address or phone number).
+  * Demographic, interests and household information (e.g., age, gender or education).
+  * Payment information for subscriptions or purchases made through the Digital Services (e.g., payment card number, expiration date and billing information).
+  * Comments, photos, videos and other content or information you choose to publish on the Digital Services or otherwise share with us.
+  * Information you provide when you choose to participate in surveys, sweepstakes, competitions, promotions (including information about your participation in activities that generate loyalty or rewards points) or events.
+  * Location information, including precise location information when you permit the Digital Services to access device location. To prevent the collection of precise location information, please refer to instructions provided by your mobile service provider or device manufacturer.
+  * Other information you allow us to access through your device’s permissions settings, such as your contacts or address book.
+  * Transactional and activity information (e.g., requests, searches or orders).
 
-We offer you choices regarding the collection, use, and sharing of your Personal Data. When you register on one of our sites or respond to one of our communications or offers, we will ask you if you want to receive future communications from us. You may indicate consent to receipt of these communications by entering your personal details and choosing what information you would like to receive, or by not ticking the opt-out box provided. Should you decide to stop receiving further communications from us, you will have the opportunity to “opt-out” by following the unsubscribe instructions provided in the e-mail you receive or, on some of our sites, by going to “Edit Your Profile”, or “My Account” after you have logged in.
 
-Despite your indicated communication preferences, we may send you notice of any updates to our Terms of Use or Privacy Policy.
 
-If you are contacting us by email, or by post please be sure to include your full name and address in order in your opt-out request in order to allow us to process your request for any changes to your preferences.
+**2\. Information you provide about others**  
+You may give us information about other people, such as the name and email of a friend or contact with whom you want to share an article or the name and address of a gift subscription recipient. Do not give us information about others unless you are authorised or have their permission to do so. We will use their information for the purposes described in this Privacy Notice.
 
-Note that we may retain changed or deleted information in our archives, but we will not keep it longer than is necessary.
+**3\. Information automatically collected**  
+The Digital Services automatically log certain information about visits to the Digital Services – the number and frequency of users, technical information about browsers and devices used to access the Digital Services, and information about crashes or other technical issues. In addition, in accordance with your expressed preferences, we and third parties automatically collect certain information through automated means about your activities over time across the Digital Services as well as across third-party sites, apps or other media. The tools that collect this information vary depending on the Digital Services and include technologies such as cookies, web beacons, tags, scripts, pixels, local shared objects (including HTML5 cookies) and software development kits (“SDKs”) (referred to collectively as “ **Cookies and Similar Technologies** ”).
 
-5 Other websites
+The information automatically collected includes the following:
 
-Except as otherwise expressly provided in this Privacy Policy or on this website, only Hearst Magazines UK and its affiliate companies collect Personal Data through the services provided solely by Hearst Magazines UK; this Privacy Policy applies only to the use and disclosure of Personal Data that we collect while you use our services.
+  * Information about your computer, device, browser and operating system (e.g., type, model, or version).
+  * Internet protocol (IP) address, which can be used to derive your general geographic area (e.g., city and country).
+  * Device identifiers (e.g., mobile advertising IDs).
+  * Information about your interactions with the Digital Services, including browsing activities and clickstream data that reflect the content you have accessed, clicked on, or viewed.
+  * Informmographic, interests and household information.
+  * Infation about how you accessed the Digital Services, including details about websites or apps visited immediately before or after ac
+  * Demographic, interests and household information.
+  * Information about your interactions with email messages and other communications, such as whether you opened or forwarded the email or clicked on links contained in the email.
 
-When you click on advertisements or links on Hearst Magazines UK sites, you will leave that site and go to another site. During this process, a third party (including a third party advertising service that may provide services to an advertiser) may collect Personal Data or Anonymous Data from you, such as the URL you just came from, the URL you go to next, your browser type, and your IP address. Our display of advertisements or links to any other company or site is for your convenience and does not signify our endorsement of such company or site (or the contents of the site). We have no control over, we do not review, and our Privacy Policy does not apply to, these other companies, sites, or content, or to any collection of data after you click on an advertisement or link to a third party.
 
-6 Social media, social commerce and other third parties.
 
-We work with trusted third parties, including social network sites like Facebook, and with application developers who specialise in social media so we can connect to your social networks. Other social networks we use include Twitter, MySpace and You Tube. All of these companies operate Third Party Sites. We provide access to our Sites by third parties and business partners so we can generate interest in our products and services among members of your social networks and to allow you to share product and service interests with friends in your network.
+Some Cookies and Similar Technologies assign or collect unique cookie IDs or other identifiers associated with your browser or device. Cookies and Similar Technologies may collect information while you are using our Digital Services or while they are running in the background of your device. More information about the Cookies and Similar Technologies used on the Digital Services, including how to manage your preferences, is available in our Cookies Policy.
 
-We cannot control how your data is collected, stored, used or shared by Third Party Sites or to whom it is disclosed. Please be sure to review the privacy policies and privacy settings on your social networking sites to make sure you understand the information they are sharing. If you do not want a Third Party Site to share information about you, you must contact that site and determine whether it gives you the opportunity to opt-out of sharing such information. Hearst Magazines UK is not responsible for how these third parties may use information collected from or about you.
+**4\. Information we obtain from other sources**
 
-7 Where is your information processed and how do we keep your Personal Data secure?
+We receive information about you from other sources and in certain circumstances combine it with other information about you.  For example, we may obtain data from:
 
-Your Personal Data may be processed both in and outside of your own country. When you submit your details and in whichever country you are situated you agree to the data being transferred to the UK and processed under the terms of the UK Data Protection Act 1998 and the Privacy and Electronic Communications (EC Directive) Regulations 2003 which stem from European Directives 95/46/EC and 2002/58/EC respectively. If you are not in agreement please do not give us your personal details.
+  * Operators of third-party sites or apps, content distribution channels and platforms (e.g., Roku, Amazon Fire TV), voice-activated assistants (e.g., Amazon Alexa, Google Home) or other devices and technologies when you interact with our content, products, services or ads available on those channels and platforms. The information we receive includes information about the content you view or access as well as your demographic information and information about your interests.
+  * Third-party data suppliers such as data aggregators, data resellers, public databases and business partners. They provide us with demographic information, information about your purchases, and information that helps us learn about you and other users of the Digital Services.
+  * Social Media Platforms and similar services (“ **Social Media Platforms** ”). When you engage with our content or ads on Social Media Platforms, or interact with features on the Digital Services that contain content or features provided by Social Media Platforms (e.g., login or sign in features or tools that allow you to share our content with others on Social Media Platforms), we might obtain information from Social Media Platforms, including your username, user ID, and demographic information, subject to the settings and privacy practices of the relevant Social Media Platform.  We obtain this information directly from the Social Media Platform or through plug-ins, integrations or applications.  Please keep in mind that the operators of the Social Media Platforms also gather information about your use of the Digital Services and their features and tools.  We are not responsible for their practices.
 
-We may need to transfer your data outside the UK (and possibly to places outside the European Economic Area) and by using Hearst Magazines UK sites, or responding to our communications, you consent to us transferring any such data in this way. However any company, whether inside or outside the EEA, to whom we transfer data is contractually bound to protect your Personal Data.
 
-Hearst Magazines UK and affiliates are committed to protecting the security of your Personal Data. We use a variety of industry-standard security technologies and procedures to help protect your Personal Data from unauthorised access, use, or disclosure.
 
-On our sites, when collecting your credit card information for online purchases, Hearst Magazines UK enables the use of Secure Sockets Layer (SSL) technology and industry-standard secured-server transactions that encrypt your Personal Data. To verify that you have a secure server connection, look for the locked padlock symbol at the bottom of your browser window or the HTTPS-prefix in the URL.
+**C. HOW WE USE INFORMATION WE OBTAIN**
 
-Hearst Magazines UK has implemented other industry-standard electronic means of protecting your Personal Data. We store Personal Data behind a firewall, a barrier designed to prevent outsiders from accessing our servers. We may also require you to enter a password to access or update your account information. In addition, Hearst Magazines UK protects your Personal Data from unauthorised physical access by storing your Personal Data in a controlled facility.
+If you make a purchase or place an order through or in connection with a Digital Service or a Subscription Form, we use your payment information (e.g., your card number and expiration date) for the purposes of processing your transaction (including recurring payments, if applicable), to provide you with the requested products or services and to protect our rights or the rights of others as described below.
 
-Except as provided elsewhere in this Privacy Policy, Hearst Magazines UK limits access to Personal Data in electronic databases to those persons (including employees and contractors) in Hearst Magazines UK’s organisation who have a business need for such access and those persons are under contract to keep your data secure.
+With respect to information other than your payment information, we use that information:
 
-Even though Hearst Magazines UK has taken significant steps to ensure that your Personal Data is not intercepted, accessed, used, or disclosed by unauthorised persons, you should know that Hearst Magazines UK cannot eliminate security risks associated with Personal Data.
+  1. **To provide you with the Digital Services or Other Requested Services**. This includes:
 
-8 Access to your Personal Data
 
-You are entitled to see the information held about you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date. If you wish to see the information we hold about you, please contact us in writing:
+  * Processing your requests regarding the Digital Services and our subscriptions, products or services, or your participation in a survey, sweepstakes, competition, promotion, event or similar initiative.
+  * Providing customer assistance or technical support.
+  * Customising content, providing recommendations and enhancing the quality and your overall experience with the Digital Services, including by retaining your user preferences or presenting content in the most effective manner for the browser or device you use to access the Digital Services.
+  * Maintaining, operating, improving and developing the Digital Services and related content, products or services including developing new products and features based on users’ interactions with the Digital Services.
+  * Learning about users of the Digital Services and analysing how you and others interact with and respond to the Digital Services, including by measuring and optimising usage, reliability and performance, conducting market research, analysing trends, and supporting our operations (e.g., for accounting, auditing, financial, legal or other purposes).
 
-The Data Protection Compliance Officer
 
-Hearst Magazines UK
+  2. **To communicate with you**. This includes:
 
-72 Broadwick Street,
 
-London, W1F 9EP
+  * Sending you informational messages about the Digital Services (e.g., to confirm your subscription or notify you of changes to a Digital Service).
+  * Delivering marketing or promotional communications, including offers or promotions about our or third parties’ products, services or other initiatives.
+  * Responding to your questions or addressing your requests.
+  * Communicating with you about surveys, sweepstakes, competitions, promotions or events.
 
-We are entitled by law to charge a fee of £10 to meet our costs in providing you with details of the information we hold about you. We are also legally obliged to request you to provide us with identification so that we can be certain that you are entitled to receive the requested data.
 
-9 Questions regarding this Privacy Policy
+  3. **For advertising and marketing purposes, including interest-based advertising.** Depending on your preferences, including for the use of Cookies and Similar Technologies, this may include:
 
-Hearst Magazines UK welcomes your comments or questions regarding this Privacy Policy. Please e-mail us at:dp@hearst.co.uk
 
-Dispute Resolution
+  * Developing, managing and conducting advertising and marketing campaigns, promotions and offers, including about our content, products and services or third-parties’ products, services and other initiatives.
+  * Interest-based advertising (also known as targeted or personalised advertising or ads) is advertising based on your interests as inferred from your activities over time on the Digital Services and online services operated by third parties, as well as information from other sources. Interest-based ads consist of text ads, images, animations or videos and are displayed to you based on various factors, including the context of the site or app in which they appear (e.g., sport or travel section), information you provided to the operator of the site or app (e.g., when you created an account), your activities on the site or app (e.g., pages viewed, searches performed or ads clicked), and information such as your demographic, interests and household information. 
+    * We, our service providers and third parties use automated means including Cookies and Similar Technologies on the Digital Services and on third-party sites, apps or other media to (a) collect information for interest-based advertising purposes or (b) serve you interest-based ads. When you agree to the use of Cookies and Similar Technologies on the Digital Services, unique identifiers may be associated with your browser or device to support interest-based advertising.
+    * We use online and offline information we obtain about you, including your personal information, for interest-based advertising purposes. We aggregate the information we obtain to create audiences that are most likely to respond to ads based on demographic, interests or household information.
+    * Interest-based ads may be displayed to you by third parties, such as ad networks or exchanges.
+    * There are steps you can take to limit the collection of your information by Cookies and Similar Technologies and the use of your information for interest-based advertising purposes. These steps vary for the web and mobile app environments and are browser and device specific.  To learn more about these choices, see “Your Choices, Including Marketing and Interest-Based Ads Opt-Outs” below and our Cookies Policy.
+  * Cross-device linking. If you access the Digital Services from multiple browsers or devices, we, our service providers and third parties may try to establish connections among and link the different browsers and devices you use to access the Digital Services and our content or ads published elsewhere in certain circumstances.  This helps us provide you with a seamless experience across the browsers and devices you use and serve you with more relevant content and ads (e.g., so that we don’t show you the same article twice).  See our Cookies Policy for information on the steps you can take to limit cross-device linking.
+  * Analysing and measuring the performance, effectiveness and reach of our advertising (including interest-based ads) and marketing efforts on the Digital Services and elsewhere.
 
-If you believe that Hearst Magazines UK has not adhered to this Privacy Policy, please contact us by e-mail at dp@hearst.co.uk. We will do our best to address your concerns. If you feel that your complaint has been addressed incompletely, we invite you to let us know for further investigation.
 
-10 Changes to this Privacy Policy
+  4. **To protect our rights or the rights of others**. This includes:
 
-We may amend this Privacy Policy from time to time. If we make material changes in the way we collect, use, and/or share your Personal Data, we may notify you by sending you an e-mail to the last e-mail address you provided to us, by writing to your last known postal address and/or by prominently posting notice of the changes on our sites. Any material changes to this Privacy Policy will be effective thirty (30) calendar days following our posting of notice of the changes on our sites.
 
-These changes will be effective immediately for new users of our services.
+  * Detecting, preventing and responding to fraud or potentially illegal activities, misuse of the Digital Services, intellectual property infringement or other violations of law, this Privacy Notice, our Terms of Use or other Hearst policies.
+  * Performing audits, assessments and testing or troubleshooting activities.
+  * Backing up our systems (including for disaster recovery purposes) and enhancing the overall security of the Digital Services.
+  * Complying with and enforcing applicable industry and legal requirements (including legal process such as court orders, warrants or subpoenas) and fulfilling contractual obligations.
 
-Please note that at all times you are responsible for updating your Personal Data to provide us with your most current e-mail and postal address. In the event that the last e-mail or postal address that you have provided us is not valid, or for any reason is not capable of delivering to you the notice described above, our despatch of the e-mail or letter containing such notice will nonetheless constitute effective notice of the changes described in the notice. In any event, changes to this Privacy Policy may affect our use of Personal Data that you provided us prior to our notification to you of the changes. If you do not wish to permit changes in our use of your Personal Data, you must notify us prior to the effective date of the changes that you wish to deactivate your account with us.
 
-This Privacy Policy was last revised in July 2011
 
-Reference B8
+**D. LEGAL BASES FOR USING INFORMATION**
 
-Privacy Policy for Hearst – RodaleUK Limited
+We process personal information for different purposes on the following legal bases:
 
-Hearst – Rodale UK Ltd is committed to protecting your privacy and we have prepared this Privacy Policy to describe to you our practices regarding the Personal Data we collect from users of our services.
+  * **To perform our** **contractual** **obligations to you.** We and our service providers process your information to perform our contractual obligations to you when we use your information to provide you with the Digital Services and related content, products or services and to communicate with you.  For example, when you purchase a subscription from us, we process your payment and contact information as necessary to confirm the subscription and we process your contact information and other details to provide you with support services you request.  We also send you informational communications on this basis, including to confirm a subscription or to notify you of a change to a Digital Service.  Failure to provide requested information could prevent or delay the fulfilment of our contractual obligations.
+  * **To pursue our legitimate interests.** We process your information to meet our legitimate interests when we use your information to provide you with the Digital Services and related content, products or services, to communicate with you and for our advertising and marketing purposes.  For example, our legitimate interests include making improvements to, customizing and understanding how you interact with the Digital Services and related content, products or services, and sending you communications about products and services we think may be of interest to you.  To accomplish our legitimate interests, we may share your information with our affiliates and subsidiaries, service providers and business partners (including for our advertising and marketing purposes) and in the context of a corporate transaction.  We maintain safeguards to protect the information we process to pursue our legitimate interests.
+  * **To compl** **y with our legal obligations.** We process and share your information as necessary to comply with our legal obligations when we use your information to protect our rights or the rights of others and when we share your information with other parties where required by law or as necessary to protect our rights. For example, we are required to collect certain information from you when processing your subscription payment for tax or financial reporting reasons.
+  * **With your consent.** We obtain your consent to process your information when we are required to do so by law.  In relation to Cookies and Similar Technologies, we obtain your consent as described in our Cookies Policy.  If consent is the legal basis on which we process your personal information, you can withdraw your consent at any time by contacting us using the information provided in the “Contact Us” section below.
 
-Who are we and how to contact us?
 
-Hearst – Rodale UK Ltd has its head office at:
 
-72, Broadwick Street, London, W1F 9EP.
+**E. HOW WE SHARE INFORMATION**
 
-The company is registered in England 00519122, VAT Registration GB 626 914 329.
+We share the information we obtain with:
 
-If you would like to contact us for any reason, please email us at dp@hearst.co.uk and we will do our best to answer your questions.
+  1. **Affiliates and Subsidiaries**. We work closely with affiliates and subsidiaries within the Hearst family of companies with whom we share your information as necessary or appropriate to operate the Digital Services.
+  2. **Service Providers**. In connection with the operation and provision of the Digital Services, Subscription Forms and the fulfilment of orders for our products or services, we engage various third parties to provide services or handle transactions on our behalf, such as payment processing, email distribution, list processing, postal mailing, cloud computing, analytics, digital content or print subscription performance measurement, ad serving, and managing sweepstakes, competitions, promotions or events.  These service providers use the information we provide to them as necessary or appropriate for the performance of their services.
+  3. **Advertisers, Advertising- and Marketing-Related Service Providers and Partners**. We may provide your information to advertisers, advertising agencies, ad networks, ad exchanges, marketing businesses, technology vendors and other entities that create, deliver and assess advertising or marketing campaigns, including interest-based ads.
+  4. **Social Media Platforms.** If you interact with social media widgets, share content using social media share buttons, or access features of the Digital Services that contain content or features provided by Social Media Platforms, the relevant Social Media Platforms collect information.  We encourage you to review the privacy policies of the Social Media Platforms that you engage with to understand their privacy practices, which we do not control.
+  5. **Business Partners**. In certain circumstances we provide your information to business partners including, without limitation, joint marketing partners, content sponsors or event organizers, for various purposes.  For example, we partner with a third party to offer products on a co-branded, co-sponsored or cross-promotional basis that involves the sharing of information.  These initiatives take place on the Digital Services or on other media.  The participation of a business partner in a particular initiative is communicated to you by the inclusion of the products, services or branding of the relevant business partner.
+  6. **Other Parties When Required by Law or As Necessary to Protect Our Rights**. We share your information as we believe is necessary or appropriate to protect, enforce, or defend our legal rights, the privacy or safety of our employees, users of the Digital Services or other individuals and entities, or to comply with or enforce applicable industry standards, law or legal process, including responding to court orders, warrants, subpoenas and other requests from public and government authorities.
+  7. **Corporate Transactions**. We may transfer any of the information we have about you to proceed with the consideration, negotiation, or completion of a sale or transfer of all or a portion of our business or assets to a third party, such as in the event of a merger, acquisition or other disposition, or in connection with a bankruptcy reorganisation, dissolution, or liquidation.
+  8. **With Your Consent or Otherwise at Your Direction**. In addition, we share your information with third parties when you consent to or request such sharing.
 
-1\. What information do we collect from you?
 
-1.1 How we collect Personal Data
 
-1.2 Cookies
+Because we operate as part of a global business, the recipients referred to above will sometimes be located outside the jurisdiction in which you are located (or in which we provide the Digital Services or Subscription Forms). See the section on “International Data Transfer” below for more information.
 
-1.3 Personal Data that we collect from you about others
+**F. YOUR RIGHTS OVER YOUR PERSONAL INFORMATION**
 
-2\. How will we use the information we collect?
+In certain circumstances, you have a right to access or object to the use of personal information held about you (including in relation to direct marketing).  You can also ask us to rectify, update, erase, restrict or to share your information in a usable format with another company.  Such requests are subject to applicable law.
 
-3\. Do we share your Personal Data with other companies?
+We encourage you to contact us to update or correct your information if it changes or if the personal information we hold about you is inaccurate.
 
-4\. Changing your mind about marketing messages and keeping your details up-to-date
+If you would like to discuss or exercise such rights, please contact us using the details provided in the “Contact Us” section below.  We will contact you if we need additional information from you in order to honour your requests.
 
-5\. Other websites
+**a. YOUR CHOICES, INCLUDING MARKETING AND INTEREST-BASED ADS OPT-OUTS**
 
-6\. Social media, social commerce and other third parties.
+**Direct Marketing Opt-Outs**
 
-7\. Where is your information processed and how do we keep your Personal Data secure?
+  1. **Email marketing.**   You can opt out of receiving marketing or promotional emails from us or third parties (where you have chosen to receive third party communications or other types of communications from us, as required by law) by clicking on the “unsubscribe” link contained in such emails.  Please keep in mind that if you opt out of receiving marketing or promotional emails, we will still send you transactional emails or other communications relating to your use of the Digital Services (e.g., to confirm your subscription, to inform you of changes to a Digital Service or in response to your password recovery request).
+  2. **Text message marketing**.  If you choose to participate in a text message marketing campaign or promotion offered in connection with a Digital Service, you can opt out of receiving marketing texts from us by following the instructions contained in those messages (e.g., texting the word STOP) or provided to you when you elected to receive text message marketing.
+  3. **Direct mail.**   If you choose to receive postal mail offers in connection with a Digital Service (whenever such choice is required under applicable law), you can request that we stop sending you postal mail offers by notifying us in writing at the relevant address provided in the “Contact Us” section below.  Please indicate in your correspondence the name of the Digital Service or publication to which your request applies.
+  4. **Marketing by Third Parties.**   We provide your contact information to third parties for their own marketing purposes where you have provided us with your consent to do so.  If you wish to withdraw your consent for future sharing you can notify us in writing using the relevant address provided in the “Contact Us” section below.  Please indicate in your correspondence the name of the Digital Service or publication to which your request applies.
+  5. **Co-Branded, Co-Sponsored or Cross-Promotional Offerings with Business Partners**.  If you choose to participate in a co-branded, co-sponsored or cross-promotional offering, the brand, sponsor or other third-party business partner involved in that offering may use your information for its own purposes, including advertising and marketing purposes, in line with the business partner’s own privacy policy.  You must contact the relevant business partner directly to exercise your opt out choices with respect to the business partner’s use of your information.
 
-8\. Access to your Personal Data
 
-9\. Questions regarding this Privacy Policy
 
-10\. Changes to this Privacy Policy
+**Interest-Based Ads Opt-Outs**
 
-1 What information do we collect from you?
+Depending on your preferences regarding the use of Cookies and Similar Technologies, ads you see on the Digital Services may be interest-based ads.  This means that these ads are customised based on the information we and others obtain about you and involve the use of Cookies and Similar Technologies.  We describe in our Cookies Policy steps you can take to limit tracking of your activities and the delivery of interest-based ads in browsers and mobile apps you use to access the Digital Services.  Please keep in mind that if you opt out of interest-based ads, you will still see ads, but these ads will not be based on your inferred interests.  In addition, if you take the steps described in the Cookies Policy, some automated means will still be used to collect information about your interactions with the Digital Services for the other purposes described in this Privacy Notice (e.g., to remember user preferences or enable specific functionality).
 
-Hearst – Rodale UK Ltd collects Personal Data and Anonymous Data from you when you visit our sites or when you send us information or communications. “Personal Data” means data that allows someone to identify you, including, for example, your name, address, telephone and mobile numbers, e-mail address, as well as any information about you that is associated with or linked to, or could be linked to, any of the foregoing data.
+The technologies used to deliver ads on websites and mobile apps differ.  Please also remember that opt-outs are browser and device-specific.
 
-“Anonymous Data” means data that is not associated with or linked to your Personal Data.
+**Additional Choices**
 
-Anonymous Data does not permit the identification of individual persons. We collect Personal Data and Anonymous Data, as described below.
+  1. **Device Settings.** For relevant Digital Services, you will be able to review and adjust your preferences by updating the settings on your device (e.g., permitting us to collect precise location information).
+  2. **Push Notifications.** If push notifications for a particular Digital Service are enabled on your device, you can review and update your push notification preferences by adjusting the settings on your device.  For example, you can select the relevant app from “Notifications” (for iOS devices) or “App notifications” (for Android devices) and turn off alerts accordingly.
 
-1.1 How we collect Personal Data
 
-We collect Personal Data from you, such as your name, contact details, country of residence, zip code or post code, gender, and/or birth date when you register on one of our sites or when you choose to use the various services we provide on our sites. We also collect other types of Personal Data that you provide to us voluntarily, when, for instance, you make a purchase, respond to surveys and questionnaires, or enter a competition. If you provide us feedback regarding our sites or services via e-mail, we will collect your name and e-mail address in order to send you a reply.
 
-In order to improve our services to you, we may ask you to voluntarily complete confidential surveys. We do not ask you to provide us any personally identifiable data in association with these surveys although we do associate your responses with Personal Data. If you do not wish to participate in a survey, however, simply decline to participate when asked.
+**G. HOW WE PROTECT AND STORE YOUR INFORMATION**
 
-1.2 Cookies
+We use a variety of security technologies and procedures to help protect information from unauthorised access, use or disclosure.
 
-“Cookies” are small pieces of information that a website sends to your computer’s hard drive while you are viewing a website. Hearst – Rodale UK Ltd uses cookies to provide you with a more personal and interactive experience on our sites. You have the ability to accept or delete cookies, but please be aware that for some parts of our site to work, you will need to accept cookies. For more information on cookies please visit www.allaboutcookies.org.
+We will keep your personal information for as long as we have a relationship with you. Once our relationship with you has come to an end, we will retain your personal information for a period of time that enables us to:
 
-Following recent revisions of the Privacy and Electronic Communications (EC Directive) Regulations 2003 relating to the notification and use of cookies we are currently working towards implementing the new requirements in line with guidance provided by the Information Commissioner’s Office.
+  * Maintain business records for analysis, understanding market trends and/or audit purposes and to improve our Digital Services.
+  * Comply with record retention requirements under applicable laws or other relevant legal or regulatory requirements.
+  * Defend, establish, exercise or bring any existing or potential legal claims.
+  * Carry out fraud detection and prevention.
+  * Deal with any complaints regarding the Digital Services, our products and services.
 
-1.3 Personal Data That We Collect from You About Others
 
-If you decide to invite a friend or family member to join any of our services, we will collect your name and e-mail address as well as your friend’s or family member’s e-mail address in order to send their e-mail. We will always ask your permission to mention your name when contacting your friend or family member.
 
-This information is used once only and is not saved in our database, unless they have entered a competition or other promotion in which case their e-mail address is stored only for that purpose. If you decide to invite a friend or family member to become involved we will collect and save their e-mail address into our database, along with their contact preferences, as we would for anyone who registers on our sites.
+We will delete your personal information when it is no longer required for these purposes. If there is any information that we are unable, for technical reasons, to delete from our systems, we will put in place appropriate measures to prevent any further processing or use of the data.
 
-2 How will we use the information we collect?
+**H. INTERNATIONAL DATA TRANSFER**
 
-Hearst – Rodale UK Ltd uses your Personal Data to provide you with a customised Web experience and to provide services to you. Such services include sending you marketing messages if you have given us permission to do so, processing your answers to quizzes and other competitions, and sending electronic newsletters and promotional e-mails to you. We also use Personal Data for customer service messages, and to notify you about updates to our services and to respond to your requests.
+In certain circumstances, your personal information will be transferred to, stored, and processed in countries outside the European Union or United Kingdom that do not have similar data protection laws to the European Union or United Kingdom.
 
-We may create Anonymous Data records from Personal Data by excluding information (such as your name) that makes the data personally identifiable to you. We use this Anonymous Data to perform statistical analyses of users’ aggregate behaviour so that we may enhance the content of our services and improve site navigation. Hearst – Rodale UK Ltd reserves the right to use and disclose Anonymous Data to third parties at its discretion, in aggregate form.
+In such circumstances we put appropriate safeguards in place to protect your data, including contractual commitments.  For more information on these safeguards, please contact us at the details below.
 
-If you select to receive communications from us we may periodically send you free newsletters and e-mails that directly promote the use of our sites or the purchase of our products or services and may contain advertisements for third parties.
+**I.  ** **CHILDREN’S PRIVACY RIGHTS**
 
-3 Do we share your Personal Data with other companies?
+The Digital Services are not intended for use by children, especially those under the age of 13, and we do not knowingly collect personal information from children under the age of 13.
 
-Except as otherwise stated in this Privacy Policy and in our Privacy Notices where you give us your consent, we do not sell, trade, or rent the Personal Data collected from our services to third parties.
+**J. LINKS TO THIRD-PARTY WEBSITES, MOBILE APPS OR OTHER SERVICES**
 
-However, we will share your Personal Data with our third party suppliers who need to process your data in order to fulfil your request, such as to charge your credit card (if authorised by you), fill your order, and deliver electronic newsletters and promotional e-mails. These third parties are required under contract not to use your Personal Data other than to provide the services requested by Hearst – Rodale Ltd and to guarantee to our satisfaction that they have sufficient processes in place to ensure the security of your data whilst it is in their care.
+Certain Digital Services contain links to websites, mobile apps or other services operated by companies not affiliated with Hearst.  In addition, the Digital Services may be made available to you through third-party platforms (such as app stores or Social Media Platforms) or other channels.  We are not responsible for the privacy practices of any non-Hearst operated websites, mobile apps or other services and channels, and we encourage you to review the privacy policies or notices published by relevant third parties.
 
-You expressly consent to the sharing of your Personal Data with our contractors and third party service providers for the purpose of providing services to you.
+**K. CHANGES TO THIS PRIVACY NOTICE**
 
-If you send a testimonial or comment to us, we may post it on our site or use it in advertising materials. We will attribute your testimonial to you by posting your first and last initial or your first name and last initial next to your testimonial on our site or advertising materials, if provided.
+We update this Privacy Notice from time to time to reflect changes in our privacy practices or applicable laws.  Where changes to this Privacy Notice have a fundamental impact on the nature of the processing or otherwise have a substantial impact on you, we will give you advanced notice so that you have the opportunity to exercise your rights (e.g. to object to the processing). We will publish the updated version on the relevant Digital Services and indicate at the top of the Privacy Notice when it was most recently updated.  Your use of the Digital Services will be governed by the then-current version of the Privacy Notice.
 
-Regardless of any choices you make regarding your Personal Data, Hearst – Rodale UK Ltd may disclose Personal Data if it believes in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on us; or (b) protect or defend the rights or property of Hearst – Rodale UK Ltd or users of our services.
+**L. CONTACT US**
 
-If another company acquires our company or our assets, that company will possess the Personal Data collected by it and us and will assume the rights and obligations regarding your Personal Data as described in this Privacy Policy and the terms under which you submitted your data.
+The Hearst entity responsible for the Digital Services or Subscription Forms you are using or accessing is the controller responsible for the personal information we collect and process in relation to that Digital Service or Subscription Form.  The relevant controllers and their publications are listed below, along with their contact information.
 
-If you provide Hearst – Rodale UK Ltd with your contact details and agree to receive promotional messages, we may share your details with our affiliates or third-party businesses that offer goods or services that we believe may be of interest to our customers. Many customers appreciate the offerings they receive from such third parties; however, we allow you to opt out at any time of having your Personal Data shared with affiliated or unaffiliated third parties for the purpose of sending you relevant information.
+**Publishing Company (Data Controller/s)** | **Publications** | **Contact Information**  
+---|---|---  
+The National Magazine Company Limited | <http://www.hearst.co.uk/brands> | Physical Address: 
 
-4 Changing your mind about marketing messages and keeping your details-up-to-date
+House of Hearst  
+30 Panton Street  
+London  
+SW1Y 4AJ
 
-We offer you choices regarding the collection, use, and sharing of your Personal Data. When you register on one of our sites or respond to one of our communications or offers, we will ask you if you want to receive future communications from us. You may indicate consent to receipt of these communications by entering your personal details and choosing what information you would like to receive, or by not ticking the opt-out box provided. Should you decide to stop receiving further communications from us, you will have the opportunity to “opt-out” by following the unsubscribe instructions provided in the e-mail you receive or, on some of our sites, by going to “Edit My Profile or “My Account” after you have logged in.
+Postal Address:  
+Data Protection Officer  
+Unit 9, Apollo Business Centre  
+Trundleys Road  
+Deptford  
+SE8 5JE
 
-Despite your indicated communication preferences, we may send you notice of any updates to our Terms of Use or Privacy Policy.
+[privacy@hearst.co.uk](mailto:privacy@hearst.co.uk)  
+  
+Our Data Protection Officer can be contacted at [privacy@hearst.co.uk](mailto:privacy@hearst.co.uk).
 
-If you are contacting us by email or by post, please be sure to include your full name and address in your opt-out request, in order to allow us to process your request for any changes to your preferences.
-
-Note that we may retain changed or deleted information in our archives, but we will not keep it longer than is necessary.
-
-5 Other websites
-
-Except as otherwise expressly provided in this Privacy Policy or on this website, only Hearst – Rodale UK Ltd and its affiliates collect Personal Data through the services provided solely by Hearst – Rodale UK Ltd; this Privacy Policy applies only to the use and disclosure of Personal Data that we collect while you use our services.
-
-When you click on advertisements or links on Hearst – Rodale UK Ltd sites, you will leave that site and go to another site. During this process, a third party (including a third party advertising service that may provide services to an advertiser) may collect Personal Data or Anonymous Data from you, such as the URL you just came from, the URL you go to next, your browser type, and your IP address. Our display of advertisements or links to any other company or site is for your convenience and does not signify our endorsement of such company or site (or the contents of the site). We have no control over, we do not review, and our Privacy Policy does not apply to, these other companies, sites, or content, or to any collection of data after you click on an advertisement or link to a third party.
-
-6 Social media, social commerce and other third parties.
-
-We work with trusted third parties, including social network sites like Facebook, and with application developers who specialise in social media so we can connect to your social networks. Other social networks we use include Twitter, MySpace and You Tube. All of these companies operate Third Party Sites. We provide access to our Sites by third parties and business partners so we can generate interest in our products and services among members of your social networks and to allow you to share product and service interests with friends in your network.
-
-We cannot control how your data is collected, stored, used or shared by Third Party Sites or to whom it is disclosed. Please be sure to review the privacy policies and privacy settings on your social networking sites to make sure you understand the information they are sharing. If you do not want a Third Party Site to share information about you, you must contact that site and determine whether it gives you the opportunity to opt-out of sharing such information. Hearst – Rodale UK is not responsible for how these third parties may use information collected from or about you.
-
-7 Where is your information processed and how do we keep your Personal Data secure?
-
-Your Personal Data may be processed both in and outside of your own country. When you submit your details and in whichever country you are situated you agree to the data being transferred to the UK and processed under the terms of the UK Data Protection Act 1998 and the Privacy and Electronic Communications (EC Directive) Regulations 2003 which stem from European Directives 95/46/EC and 2002/58/EC respectively. If you are not in agreement please do not give us your personal details.
-
-We may need to transfer your data outside the UK (and possibly to places outside the European Economic Area) and by using Hearst – Rodale UK Ltd sites, or responding to our communications, you consent to us transferring any such data in this way. However any company, whether inside or outside the EEA, to whom we transfer data is contractually bound to protect your Personal Data.
-
-Hearst – Rodale UK Ltd and affiliates are committed to protecting the security of your Personal Data. We use a variety of industry-standard security technologies and procedures to help protect your Personal Data from unauthorised access, use, or disclosure.
-
-On our sites, when collecting your credit card information for online purchases, Hearst – Rodale UK Ltd enables the use of Secure Sockets Layer (SSL) technology and industry-standard secured-server transactions that encrypt your Personal Data. To verify that you have a secure server connection, look for the locked padlock symbol at the bottom of your browser window or the HTTPS-prefix in the URL.
-
-Hearst – Rodale UK Ltd has implemented other industry-standard electronic means of protecting your Personal Data. We store Personal Data behind a firewall, a barrier designed to prevent outsiders from accessing our servers. We may also require you to enter a password to access or update your account information. In addition,Hearst – Rodale UK Ltd protects your Personal Data from unauthorised physical access by storing your Personal Data in a controlled facility.
-
-Except as provided elsewhere in this Privacy Policy, Hearst – Rodale UK Ltd limits access to Personal Data in electronic databases to those persons (including employees and contractors) in Hearst – Rodale UK Ltd’s organisation who have a business need for such access and those persons are under contract to keep your data secure.
-
-Even though Hearst – Rodale UK Ltd has taken significant steps to ensure that your Personal Data is not intercepted, accessed, used, or disclosed by unauthorised persons, you should know that Hearst – Rodale Ltd cannot eliminate security risks associated with Personal Data.
-
-8 Access to your Personal Data
-
-You are entitled to see the information held about you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date. If you wish to see the information we hold about you, please contact us in writing:
-
-The Data Protection Compliance Officer
-
-Hearst – Rodale UK Ltd
-
-72 Broadwick Street,
-
-London, W1F 9EP
-
-We are entitled by law to charge a fee of £10 to meet our costs in providing you with details of the information we hold about you. We are also legally obliged to request you to provide us with identification so that we can be certain that you are entitled to receive the requested data.
-
-9 Questions Regarding this Privacy Policy
-
-Hearst – Rodale UK Ltd welcomes your comments or questions regarding this Privacy Policy. Please e-mail us at:dp@hearst.co.uk.
-
-Dispute Resolution
-
-If you believe that Hearst – Rodale UK Ltd has not adhered to this Privacy Policy, please contact us by e-mail at dp@hearst.co.uk. We will do our best to address your concerns. If you feel that your complaint has been addressed incompletely, we invite you to let us know for further investigation.
-
-10 Changes to this Privacy Policy
-
-We may amend this Privacy Policy from time to time. If we make material changes in the way we collect, use, and/or share your Personal Data, we may notify you by sending you an e-mail to the last e-mail address you provided to us, by writing to your last known postal address and/or by prominently posting notice of the changes on our sites. Any material changes to this Privacy Policy will be effective thirty (30) calendar days following our posting of notice of the changes on our sites.
-
-These changes will be effective immediately for new users of our services.
-
-Please note that at all times you are responsible for updating your Personal Data to provide us with your most current e-mail and postal address. In the event that the last e-mail or postal address that you have provided us is not valid, or for any reason is not capable of delivering to you the notice described above, our despatch of the e-mail or letter containing such notice will nonetheless constitute effective notice of the changes described in the notice. In any event, changes to this Privacy Policy may affect our use of Personal Data that you provided us prior to our notification to you of the changes. If you do not wish to permit changes in our use of your Personal Data, you must notify us prior to the effective date of the changes that you wish to deactivate your account with us.
-
-This Privacy Policy was last revised in July 2011
-
-Reference C8
+We are committed to working with you to obtain a fair resolution in the event you have a complaint or concern about privacy. If, however, you believe that we have not been able to assist with your complaint or concern, you have the right to make a complaint to a data protection authority.
