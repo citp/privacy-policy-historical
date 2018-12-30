@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addictinginfo.org privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628153846id_/http%3A//addictinginfo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addictinginfo.org privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230180301id_/http%3A//addictinginfo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Addicting Info | The Knowledge You Crave
 
@@ -152,7 +152,7 @@ Addicting Info Enterprises LLC
 Addictinginfo.org  
 1007 W. College Ave. #433 Santa Rosa, CA 95403  
 (707) 774-2888  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+addictinginfo@rocketmail.com
 
 We reserve the right to make change to this Privacy Policy.  
 Last modification was made May 22, 2018.
