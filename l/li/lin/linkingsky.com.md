@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkingsky.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214095308id_/http%3A//linkingsky.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkingsky.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230122539id_/https%3A//linkingsky.com/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
