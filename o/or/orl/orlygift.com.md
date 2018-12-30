@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orlygift.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119035328id_/https%3A//www.orlygift.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orlygift.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230202606id_/https%3A//www.orlygift.com/privacy) for the most accurate reproduction.*
 
 # orlygift - Indie Steam games for free
 
@@ -107,6 +107,10 @@ ORLYGIFT and its partners and licensors may provide certain features or services
 Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. 
 
 This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers. Since this is an informational blog, humor blog, parody website you have the opportunity to place ads or advertisements with us, please contact our support team for more information. 
+
+**Mouseflow**
+
+This website uses Mouseflow, a web analysis tool of Mouseflow ApS, Flaesketorvet 68, 1711 Copenhagen, Denmark, to collect and store data for marketing and optimization purposes. From the data, pseudonymised usage profiles can be created. Randomly selected individual visits (only with anonymous IP address) are recorded. The result is a log of mouse movements and clicks with the intention of randomly sampling individual website visits and deriving potential improvements for the website. The data collected by Mouseflow will not be used to personally identify the visitor to this website and will not be merged with personal data about the bearer of the pseudonym without the specific consent of the data subject. If you do not want a recording, you can globally disable a recording on all websites that use Mouseflow for your current browser at https://mouseflow.com/opt-out 
 
 **Choice/Opt-out**
 
