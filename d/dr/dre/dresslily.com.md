@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dresslily.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624063034id_/https%3A//www.dresslily.com/m-article-id-27.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dresslily.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230055800id_/https%3A//www.dresslily.com/m-article-id-27.htm) for the most accurate reproduction.*
 
 # Privacy Policy - DressLily.com
 
 ##  Privacy Policy 
 
-This Privacy Statement explains how Shenzhen Siluzhichou E-commerce Co., Ltd ("DressLily" "we," "us," or "our") collects, uses, and discloses your personal information in connection with its operation of the DressLily ecommerce platform. 
+This Privacy Statement explains how Suneeq Hong Kong Technology Co.,Ltd ("DressLily" "we," "us," or "our") collects, uses, and discloses your personal information in connection with its operation of the DressLily ecommerce platform. 
 
 ##  What information do we collect? 
 
