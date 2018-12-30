@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lucidpress.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930045911id_/https%3A//www.lucidpress.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lucidpress.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230152842id_/https%3A//www.lucidpress.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Lucidpress
 
@@ -8,13 +8,17 @@ _
 
 _ _
 
-Updated March 1, 2017
+## [Click here for our Cookie Policy](https://web.archive.org/pages/cookies)
+
+_ _
+
+Updated May 22, 2018
 
 _
 
-This Lucidpress Privacy Policy (“Policy”) describes how Lucid Software, Inc. (“Lucidpress,” “Lucid,” “we,” or “us”) collects, uses and discloses your personal information. This Policy applies to information we collect when you use our websites, mobile applications and other online products and services where this Policy is posted (collectively, the "Services").
+This Lucidpress Privacy Policy (“Policy”) describes how Lucid Software Inc. (“Lucidpress,” “Lucid,” “we,” or “us”) collects, uses and discloses your personal information. This Policy applies to information we collect when you use our websites, mobile applications and other online products and services where this Policy is posted (collectively, the "Services").
 
-We may change the provisions of this Policy at any time and will indicate when changes have been made by revising the date at the top of this Policy. Your use of the Services, or any portion thereof, following the posting of such changes shall constitute your consent to such changes. We encourage you to review the Policy whenever you access the Services to make sure that you understand our information collection, use and disclosure practices. If we make material changes to this policy, we will provide you with additional notice of such changes and request your affirmative consent before using or sharing previously collected information in a materially different way.
+We may change the provisions of this Policy at any time and will indicate when changes have been made by revising the date at the top of this Policy. We encourage you to review the Policy whenever you access the Services to make sure that you understand our information collection, use and disclosure practices. If we make material changes to this policy, we will provide you with additional notice of such changes and request your affirmative consent before using or sharing previously collected information in a materially different way.
 
 ## Information That You Provide to Us
 
@@ -25,7 +29,7 @@ We may change the provisions of this Policy at any time and will indicate when c
 
 ## Information That We Collect Automatically From You
 
-  * Account activity. Lucid's servers automatically record certain information about your use of Lucidpress. Similar to other web services, Lucid uses both permanent and session cookies, web beacons, and pixel tracking technology to record information such as account activity (e.g., storage usage, number of log-ins, actions taken), data displayed or clicked on (e.g., UI elements, links), other log information (e.g., browser type, IP address, date and time of access, cookie ID, referrer URL, etc.), and to remember user preferences while using the services. Lucidpress may collect automated error reports in the case of software malfunction; such error reports may contain some or all of the information in your documents and may be reviewed to help resolve problems with the Lucidpress software or service.
+  * Account activity. Lucid's servers automatically record certain information about your use of Lucidpress. Similar to other web services, Lucid uses both persistent and session cookies, web beacons, and pixel tracking technology to record information such as account activity (e.g., storage usage, number of log-ins, actions taken), data displayed or clicked on (e.g., UI elements, links), other log information (e.g., browser type, IP address, date and time of access, cookie ID, referrer URL, etc.), and to remember user preferences while using the services. Lucidpress may collect automated error reports in the case of software malfunction; such error reports may contain some or all of the information in your documents and may be reviewed to help resolve problems with the Lucidpress software or service.
 
 
 
@@ -50,7 +54,7 @@ We may change the provisions of this Policy at any time and will indicate when c
     * Personalize and improve the Services and provide ads, content, communications or features that match user profiles or interests; and
     * Link or combine with other information we get from third parties to help understand your needs and provide you with better service.
   * Files you create, upload, or copy to Lucidpress may, if you choose, be read, copied, used and redistributed by people you know or, again if you choose, by people you do not know. When you submit an order for Lucidpress to have your documents printed, your documents may be read by individuals you do not know. Information you disclose using the chat function of Lucidpress may be read, copied, used and redistributed by people participating in the chat. Use care when including sensitive personal information in files you share or in chat sessions, such as social security numbers, financial account information, home addresses or phone numbers.
-  * Some features may be provided by third parties (e.g. the payments processing services such as Amazon Payments, sharing features of social networks such as Facebook and Google+, etc.), who may receive and process your data. When you use one of these features, you may be sharing data with the third party, including allowing the third party to process your data. Access to your data by these third parties is not governed by this Privacy Policy.
+  * Some features may be provided by third parties (e.g., the payments processing services such as Amazon Payments, sharing features of social networks such as Facebook and Google+, etc.), who may receive and process your data. When you use one of these features, you may be sharing data with the third party, including allowing the third party to process your data. Access to your data by these third parties is not governed by this Privacy Policy.
   * Lucidpress reserves the right to review documents to help resolve problems with the Lucidpress software or service, or to ensure compliance with our Terms of Service.
 
 ## Information Sharing
@@ -69,17 +73,33 @@ We may change the provisions of this Policy at any time and will indicate when c
 
     * Lucidpress takes reasonable measures to protect your personal information and your documents from loss, misuse and unauthorized access, disclosure, alteration and destruction and to ensure that your documents remain available to you.
 
-## EU Safe Harbor and Dispute Resolution for Users in the European Union
+## Data Retention
 
-    * Lucid complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Lucid has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit [http://www.export.gov/safeharbor/.](http://www.export.gov/safeharbor/)
-    * Lucid is committed to resolving complaints about your privacy and our collection or use of your personal information. Users located in the European Union with inquiries or complaints regarding this Privacy Policy should first contact Lucid at:[privacy@Lucidpress.com.](mailto:%20privacy@Lucidpress.com) For disputes over Lucid’s compliance with the EU Safe Harbor Principles that remain unresolved, Lucid has elected to use JAMS as an independent dispute resolution mechanism. If you do not receive timely acknowledgment of your complaint, or we do not satisfactorily address your complaint, please visit the JAMS website at: <https://www.jamsadr.com/> for more information and to file a complaint.
+    * We store the information we collect about you for as long as is necessary for the purpose(s) for which we originally collected it. We store our backups for six (6) months. We may retain certain information for legitimate business purposes or as required by law. 
+
+## EU-U.S. Privacy Shield and Dispute Resolution for Users in the European Union
+
+    * In connection with Lucid’s processing of personal data it receives from the EU (“EU Data”), Lucid adheres to the EU-U.S. Privacy Shield Framework Principles issued by the U.S. Department of Commerce (the “Principles”). For more information about the Principles, please visit the Department of Commerce’s [Privacy Shield website](https://www.commerce.gov/page/eu-us-privacy-shield).
+    * Please direct any inquiries or complaints regarding our compliance with the Principles to the point of contact listed in the “Contact Us” section below. If Lucid does not resolve your complaint, you may submit your complaint free of charge to [privacy@lucidchart.com](mailto:privacy@lucidchart.com), Lucid’s designated Privacy Shield dispute resolution provider. Lucid has further committed to refer unresolved Privacy Shield complaints to JAMS, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit <https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim> for more information or to file a complaint. The services of JAMS are provided at no cost to you. Under certain conditions specified by the Principles, you may also be able to invoke binding arbitration to resolve your complaint.
+    * Lucid is subject to the investigatory and enforcement powers of the FTC. If Lucid shares EU Data with a third-party service provider that processes the data solely on our behalf, then Lucid will be liable for that third party’s processing of EU Data in violation of the Principles, unless Lucid can prove that it is not responsible for the event giving rise to the damage.
+    * Under the Principles, you have the right to access your information that Lucid has collected from you. You may do so by contacting Lucid using the “Contact Us” information below or through our designated Privacy Shield dispute resolution provider. You have the right to limit the use and disclosure of your personal data by not providing said information to Lucid or by not using the Lucid Services. You may request that Lucid correct, amend, or delete your information where it is inaccurate, or has been processed in violation of the Principles, except where the burden or expense of providing access would be disproportionate to the risks to your privacy in the case in question, or where the rights of other persons would be violated.
 
 ## Your Choices
 
     * You may terminate your use of Lucidpress at any time.
     * Editing or Deleting your Personal Information. If you have created an account, you may at any time review and/or update the contact information we have for you. Please note that even if you delete information from your account, or deactivate it, we may retain certain information as required by law or for legitimate business purposes. We may also retain cached or archived copies of your information for a certain period of time.
-    * Promotional Communications. You may opt out of receiving promotional emails, text messages, or mail from Lucid by visiting your user settings page at [https://www.Lucidpress.com/users/settings](https://www.lucidpress.com/users/settings) and updating your communications preferences, by following the instructions in emails or text messages, or by sending an e-mail to [privacy@Lucidpress.com.](mailto:privacy@Lucidpress.com) If you opt out, we may still send you transactional or relationship messages, such as emails about your account or our ongoing business relations.
+    * Promotional Communications. You may opt out of receiving promotional emails, text messages, or mail from Lucid by visiting your user settings page at [https://www.Lucidpress.com/users/settings](https://www.lucidpress.com/users/settings) and updating your communications preferences, by following the instructions in emails or text messages, or by sending an e-mail to [privacy@Lucidpress.com.](mailto:privacy@Lucidpress.com) If you opt out, we may still send you transactional or relationship messages, such as emails about your account or updates to our Services.
     * Cookies. Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Removing or rejecting browser cookies does not necessarily affect third party flash cookies used in connection with our Services. For more information about how to delete or disable flash cookies please visit www.adobe.com/products/flashplayer/security. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Services.
+
+## Residents of the European Economic Area
+
+    * If you are a resident of the European Economic Area (EEA), you have certain rights and protections under the law regarding the processing of your personal data. 
+    * Legal Basis for Processing. If you are a resident of the EEA, when we process your personal data we will only do so in the following situations: 
+      * We have your consent to do so. For example, we may ask your consent to send you marketing communications. 
+      * We need to use your personal data to perform our responsibilities under our contract with you (e.g., processing payments for and providing the Lucidchart Services you have requested). 
+      * We have a legitimate interest in processing your personal data. For example, we may process your personal data to communicate with you about changes to our Services, and to provide, secure, and improve our Services. 
+    * Data Subject Requests. If you are a resident of the EEA, you have the right to access personal data we hold about you and to ask that your personal data be corrected, erased, or transferred. You may also have the right to object to, or request that we restrict, certain processing. If you would like to exercise any of these rights, you may do so by following the instructions under “Your Choices.” Alternatively, you may contact us as indicated below. 
+    * Questions or Complaints. If you are a resident of the EEA and have a concern about our processing of personal data that we are not able to resolve, you have the right to lodge a complaint with the data privacy authority where you reside. For contact details of your local Data Protection Authority, please see: <http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm>. 
 
 ## Contact Us
 
