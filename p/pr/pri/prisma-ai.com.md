@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the prisma-ai.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609095451id_/http%3A//prisma-ai.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prisma-ai.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230153749id_/http%3A//prisma-ai.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-You can see our previous Privacy Policy [here](https://web.archive.org/privacy-june-2016.html)
+You can see our previous Privacy Policy [here](https://web.archive.org/privacy-may-30-2018.html)
 
-Effective date: May 30, 2018
+Effective date: Nov 2, 2018
 
 Welcome to Prisma (“Prisma,” “we,” “us” or “our”). Prisma provides a fast, beautiful and fun way for you to stylize your photo. Just snap a photo, choose a style to transform the look and feel, and share!
 
@@ -92,16 +92,16 @@ We will not process your Personal Data in a way that is incompatible with the pu
 
 ### 3\. YOUR RIGHTS
 
-**Modification, correction and erasure**. You are able to modify, correct, erase and update your Personal Data in the Service account settings or, if that is impossible, by writing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6e1e1c07180f0d172e1e1c071d030f430f07400d0103).
+**Modification, correction and erasure**. You are able to modify, correct, erase and update your Personal Data in the Service account settings or, if that is impossible, by writing us at [privacy@prisma-ai.com](mailto:privacy@prisma-ai.com).
 
-**Access**. You have a right to access your Personal Data you leave when using the Services and ask us about what king of Personal Data we have about you. You can do this by using the app settings or by writing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4737352e3126243e0737352e342a266a262e6924282a).
+**Access**. You have a right to access your Personal Data you leave when using the Services and ask us about what kind of Personal Data we have about you. You can do this by using the app settings or by writing us at [privacy@prisma-ai.com](mailto:privacy@prisma-ai.com).
 
-**EU and Swiss residents**. Individuals residing in the countries of the European Union have certain statutory rights in relation to their personal data introduced by the General Data Protection Regulation (the “GDPR”). Subject to any exemptions provided by law, you may have the right to request access to Personal data (including in a structured and portable form), as well as to seek to update, delete or correct Personal data. You can do this by using the app settings and writing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#9aeae8f3ecfbf9e3daeae8f3e9f7fbb7fbf3b4f9f5f7).
+**EU and Swiss residents**. Individuals residing in the countries of the European Union have certain statutory rights in relation to their personal data introduced by the General Data Protection Regulation (the “GDPR”). Subject to any exemptions provided by law, you may have the right to request access to Personal data (including in a structured and portable form), as well as to seek to update, delete or correct Personal data. You can do this by using the app settings and writing us at [privacy@prisma-ai.com](mailto:privacy@prisma-ai.com).
 
   * **Rectification of Personal Data and Restriction of Processing**. You are responsible for ensuring the accuracy of your Personal Data that you submit to Prisma. Inaccurate information will affect your experience when using the Services tools and our ability to contact you as described in this Privacy Policy. If you believe that your Personal Data is inaccurate, you have right to contact us and ask us to correct such Personal Data as described above. You shall also have the right to obtain restriction of processing of your Personal data, if you contest the accuracy of the Personal Data and we need some time to verify its accuracy.
-  * **Access to your Personal Data and Data Portability**. The Services give you the ability to access and update Personal Data within the Services and your account settings. You shall have the right to request information about whether we have any Personal Data about you, to access your Personal data (including in a structured and portable form) by using app settings or by simply writing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7e0e0c17081f1d073e0e0c170d131f531f17501d1113).
-  * **Erasure of your Personal Data**. If you believe that your Personal Data is no longer necessary in relation to the purposes for which it was collected or otherwise processed, or in cases where you has withdrawn your consent or object to the processing of your Personal Data, or where the processing of your Personal Data does not otherwise comply with the GDPR, you have right to contact us and ask us to erase such Personal Data as described above. You can use a special feature in the app settings or simply write us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d1a1a3b8a7b0b2a891a1a3b8a2bcb0fcb0b8ffb2bebc). Please be aware that erasing some Personal Data affect your possibility to use the Services.
-  * **Right to object processing of your Personal Data**. You can object processing your Personal Data and stop us from processing your Personal data using a special feature in the app settings simply write us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d8a8aab1aeb9bba198a8aab1abb5b9f5b9b1f6bbb7b5). Please be aware that erasing some Personal Data inserted by you may affect your possibility to use the Services.
+  * **Access to your Personal Data and Data Portability**. The Services give you the ability to access and update Personal Data within the Services and your account settings. You shall have the right to request information about whether we have any Personal Data about you, to access your Personal data (including in a structured and portable form) by using app settings or by simply writing us at [privacy@prisma-ai.com](mailto:privacy@prisma-ai.com).
+  * **Erasure of your Personal Data**. If you believe that your Personal Data is no longer necessary in relation to the purposes for which it was collected or otherwise processed, or in cases where you has withdrawn your consent or object to the processing of your Personal Data, or where the processing of your Personal Data does not otherwise comply with the GDPR, you have right to contact us and ask us to erase such Personal Data as described above. You can use a special feature in the app settings or simply write us at [privacy@prisma-ai.com](mailto:privacy@prisma-ai.com). Please be aware that erasing some Personal Data affect your possibility to use the Services.
+  * **Right to object processing of your Personal Data**. You can object processing your Personal Data and stop us from processing your Personal data using a special feature in the app settings simply write us at [privacy@prisma-ai.com](mailto:privacy@prisma-ai.com). Please be aware that erasing some Personal Data inserted by you may affect your possibility to use the Services.
   * **Notice about automated decision-making**. We use automated decision-making tools (e.g. neural networks) that process your Personal Data in order to provide you better Services (for example, improvement of filters application).
   * **Notification requirements**. We commit to notify you promptly and your data protection authority within the timeframe specified in applicable law (72 hours) about any personal data breaches.
   * **Data Protection Authorities**. Subject to GDPR, you also have the right to (i) restrict our use of Personal Data and (ii) lodge a complaint with your local data protection authority about any of our activities that you deem are not compliant with GDPR.
@@ -138,11 +138,24 @@ We may also combine your information (including Personal Data) with other inform
 
 ### 5\. HOW WE STORE, PROCESS AND TRANSFER YOUR PERSONAL DATA
 
-**Data Storage and Processing**. Your information collected through the Service may be stored and processed in the United States or any other country in which Prisma, its Affiliates or Service Providers (processors) maintain facilities.
+**General.** The Company is based the United States and the information we collect is governed by U.S. law. Please be advised that U.S. law and laws of other countries may not offer the same protections as the law of your jurisdiction.
 
-Prisma, its Affiliates, or Service Providers may transfer information that we collect about you, including personal information across borders and from your country or jurisdiction to other countries or jurisdictions around the world. If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that we may transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction. Our storage providers and processors in the United States self-certified under the Privacy Shield program and we utilize standard data protection clauses in order to transfer your Personal Data safely and in full compliance with the applicable law.
+**EU and Swiss residents.** Please bear in mind that we may transfer your Personal Data to the United States which data protection is not deemed adequate under applicable data protection laws.
 
-We process your Personal Data in a way that is compatible with and relevant for the purpose for which it was collected. To the extent necessary for those purposes, we take reasonable and appropriate steps to ensure that any information in our care is accurate, complete, current and reliable for its intended use.
+However, we comply with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the Switzerland to the United States.  We have certified to the Department of Commerce that we adhere to the Privacy Shield Principles.  If there is any conflict between the terms in this Privacy Policy and the Privacy Shield Principles (the “Principles”), the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>. 
+
+  1. **Complaints and Dispute Resolution.** In compliance with the Principles, we commit to resolve complaints about our collection or use of your personal information.  EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact us at [privacy@prisma-ai.com](mailto:privacy@prisma-ai.com) or mailing address: 
+    
+        **Prisma Labs, Inc.**
+    440 N Wolfe Rd
+    Sunnyvale, CA 94085
+    
+
+We have further committed to refer unresolved Privacy Shield complaints to JAMS, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit [the following link](https://www.jamsadr.com/file-an-eu-us-privacy-shield-claim) for more information or to file a complaint.  The services of JAMS are provided at no cost to you. 
+  2. **Arbitration.** You may also be able to invoke binding arbitration for unresolved complaints but prior to initiating such arbitration, a resident of a European country participating in the Privacy Shield must first: (1) contact us and afford us the opportunity to resolve the issue; (2) seek assistance from JAMS; and (3) contact the U.S. Department of Commerce (either directly or through a European Data Protection Authority) and afford the Department of Commerce time to attempt to resolve the issue. If such a resident invokes binding arbitration, each party shall be responsible for its own attorney’s fees. Please be advised that, pursuant to the Privacy Shield, the arbitrator(s) may only impose individual-specific, non-monetary, equitable relief necessary to remedy any violation of the Privacy Shield Principles with respect to the resident. The arbitration option may not be invoked if the individual’s same claimed violation of the Principles (1) has previously been subject to binding arbitration; (2) was the subject of a final judgment entered in a court action to which the individual was a party; or (3) was previously settled by the parties. 
+  3. **U.S. Federal Trade Commission Enforcement.** Our Privacy Shield compliance is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC). 
+
+
 
 **Data security**. We use reasonable and appropriate information security safeguards to help keep the information collected through the Service secure and take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. However, Prisma cannot ensure the absolute security of any information you transmit to the Service or an absolute guarantee that information on the Service may not be accessed, disclosed, altered, or destroyed. Please understand that there is no ideal technology or measure to maintain 100 % security. Among others, we utilize the following information security measures:
 
@@ -156,7 +169,7 @@ We process your Personal Data in a way that is compatible with and relevant for 
 
 Please do your part to help us. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to emails between you and Prisma, at all times. Your privacy settings may also be affected by changes the social media services you connect to Instagram make to their services. We are not responsible for the functionality, privacy, or security measures of any other organization.
 
-**Data retention**. We will retain your Personal Data as long as your account is active or needed to provide you services, and only for as long as it serves purposes of processing identified in Section 2 of this Privacy Policy. At any time, you can remove your Personal Data using in-app features as specified in Section 3 of this Privacy Policy or instruct us to remove it by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#83f3f1eaf5e2e0fac3f3f1eaf0eee2aee2eaade0ecee).
+**Data retention**. We will retain your Personal Data as long as your account is active or needed to provide you services, and only for as long as it serves purposes of processing identified in Section 2 of this Privacy Policy. At any time, you can remove your Personal Data using in-app features as specified in Section 3 of this Privacy Policy or instruct us to remove it by emailing us at [privacy@prisma-ai.com](mailto:privacy@prisma-ai.com).
 
 You should be aware that we may retain certain Personal Data and other information after your account has been terminated in an aggregated, anonymized form. Any posts or comments you submit may remain visible if and after you delete your account. We are not obligated to remove your posts or comments. We reserve the right to use your information in any aggregated data collection after you have terminated your account, however we will ensure that the use of such information will not identify you personally. We will also retain your Personal Data as necessary to comply with legal obligations, resolve disputes and enforce our agreements.
 
@@ -164,13 +177,17 @@ All information that you provide to us through the App is automatically uploaded
 
 If you remove data from your account, you will no longer see it in the App, but some backups of the data may remain in our archive servers for a reasonable period of time due to technical reasons.
 
+**Third party (onward) transfers and Privacy Shield compliance.**  In the context of an onward transfer, we have responsibility for the processing of Personal Data we receive under the Privacy Shield or generally from the EU and Swiss residents and subsequently transfer to a third party acting as an agent on our behalf. We remain liable under the Principles and GDPR, if our agent processes such Personal Data in a manner inconsistent with the Principles and GDPR, unless we prove that we are not responsible for the event giving rise to the damage. For any onward transfer we commit to execute a formal agreement with any receiving party or processor acting on our behalf.
+
+If we receive Personal Data subject to our certification under the Privacy Shield and then transfer it to a third-party service provider acting as an agent on our behalf, we have certain liability under the Privacy Shield if both (i) the agent processes the Personal Data in a manner inconsistent with the Privacy Shield and (ii) we are responsible for the event giving rise to the damage.
+
 **Contacting you**. You agree that we may send you Service-related emails (e.g., changes/updates to features of the Service, technical and security notices, updates to the Privacy Policy). Note that you may not opt out of Service-related e-mails, unless applicable laws provide differently for particular types of users.
 
 ### 6\. CHILDREN’S PRIVACY
 
 **General age limitation**. Prisma does not knowingly collect or solicit any information from anyone under the age of 13. The Service and its content are not directed at children under the age of 13. In the event that we learn that we have collected personal information from a child under age 13 without parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us.
 
-**Age limitation for EU residents**. Due to requirements of the GDPR you shall be at least 16 years old in order to use the Service. To the extent prohibited by applicable law, we do not allow use of the Service by the EU residents younger than 16 years old. If you are aware of anyone younger than 16 using the Service, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5323213a2532302a1323213a203e327e323a7d303c3e) and we will take required steps to delete such information and (or) delete her account.
+**Age limitation for EU residents**. Due to requirements of the GDPR you shall be at least 16 years old in order to use the Service. To the extent prohibited by applicable law, we do not allow use of the Service by the EU residents younger than 16 years old. If you are aware of anyone younger than 16 using the Service, please contact us at [privacy@prisma-ai.com](mailto:privacy@prisma-ai.com) and we will take required steps to delete such information and (or) delete her account.
 
 ### 7\. OTHER WEB SITES AND SERVICES
 
@@ -178,20 +195,20 @@ We are not responsible for the practices employed by any websites or services li
 
 ### 8\. HOW TO CONTACT US. EU REPRESENTATIVE AND DATA PROTECTION OFFICER
 
-**General contact details**. If you have any questions about this Privacy Policy or the Service, please contact us through the email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#403032293621233900303229332d216d21296e232f2d) or to our mailing address:
+**General contact details**. If you have any questions about this Privacy Policy or the Service, please contact us through the email [privacy@prisma-ai.com](mailto:privacy@prisma-ai.com) or to our mailing address:
 
 **Prisma Labs, Inc.**  
 440 N Wolfe Rd  
 Sunnyvale, CA 94085
 
-**Appointed EU representative**. If you are the resident of the EU and you have any questions about this Privacy Policy or the Service, please contact us through the email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7202001b0413110b3202001b011f135f131b5c111d1f) or to our EU representative mailing address:
+**Appointed EU representative**. If you are the resident of the EU and you have any questions about this Privacy Policy or the Service, please contact us through the email [privacy@prisma-ai.com](mailto:privacy@prisma-ai.com) or to our EU representative mailing address:
 
-**EUREP LTD**  
+**DPOEU LTD**  
 Agios Athanasios Street, Michael Angelo House, 4102, Limassol, Cyprus  
-Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#abceded9cedbc7dfcfebccc6cac2c785c8c4c6)  
+Email: [info@dpoeu.eu](mailto:info@dpoeu.eu)  
 Phone: [+357 2 534 534 6](tel:+35725345346)
 
-**Data Protection Officer**. If you are the resident of the EU and you wish to exercise your rights under Section 3 of the Privacy Policy, or you have any questions about this Privacy Policy or our privacy practices, you can contact our Data Protection Officer through the email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c1b1b3a8b7a0a2b881b1b3a8b2aca0eca0a8efa2aeac).
+**Data Protection Officer**. If you are the resident of the EU and you wish to exercise your rights under Section 3 of the Privacy Policy, or you have any questions about this Privacy Policy or our privacy practices, you can contact our Data Protection Officer through the email [privacy@prisma-ai.com](mailto:privacy@prisma-ai.com).
 
 ### 9\. CHANGES TO OUR PRIVACY POLICY
 
