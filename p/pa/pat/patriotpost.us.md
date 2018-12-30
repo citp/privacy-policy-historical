@@ -1,14 +1,31 @@
-> *The following text is extracted and transformed from the patriotpost.us privacy policy that was archived on 2018-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180402040247id_/https%3A//patriotpost.us/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patriotpost.us privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230191819id_/https%3A//patriotpost.us/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy — The Patriot Post
+# The Patriot Post — Voice of Essential Liberty
 
 ### Our Commitment to Privacy
 
-Our Privacy Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us, and to assist you in making informed decisions when using The Patriot Post website. We will not sell, share, or rent your personal information to others in ways different from what is disclosed in this Privacy Policy, as amended from time to time. By using our web site, you are agreeing, without qualification or limitation, to be bound by this Privacy Policy. For purposes of this Privacy Policy, the terms "The Patriot Post" or “we” or "us" or "our" refers to Publius Press, Inc. The term "you" refers to the user or viewer of our website.
+Our Privacy Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us, and to assist you in making informed decisions when using The Patriot Post website. Unlike most websites, we have no advertising so there are no third party advertisers collecting marketing information about you. Regarding the small amount of information we do collect, we do not sell, share, or rent your personal information to any third parties.
+
+By using our web site, you are agreeing, without qualification or limitation, to be bound by this Privacy Policy. For purposes of this Privacy Policy, the terms "The Patriot Post" or “we” or "us" or "our" refers to Publius Press, Inc. The term "you" refers to the user or viewer of our website.
 
 ### Information Collection and Use
 
 When you visit our website you may provide us with two types of information: (i) personal information you knowingly choose to disclose that is collected on an individual basis (“Personal Information”), and (ii) website use information collected on an aggregate basis through a website statistics program as you and others browse our website (“Use Information”).
+
+In summary, we collect and use data internally for these purposes:
+
+  * Enhance the functionality of the Website (certain messages or pages cannot be shown or suppressed unless cookies are enabled)
+  * Enhance the security of the Website (certain forms cannot be submitted unless cookies are enabled)
+  * Gather data about Website traffic and how users interact with Website content (analytics)
+
+
+
+Certain third parties may collect some data:
+
+  * Google, for the purposes of gathering data about Website traffic and how users interact with Website content (analytics)
+  * Disqus comment service, for the purposes of allowing users to post comments on Website content
+
+
 
 ### Website Statistics Gathering
 
