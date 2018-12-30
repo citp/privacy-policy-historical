@@ -1,73 +1,56 @@
-> *The following text is extracted and transformed from the tns-online.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221163900id_/http%3A//www.tnsglobal.com/what-we-do/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tns-online.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230173918id_/http%3A//www.tnsglobal.com/what-we-do/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy & Cookies | Kantar TNS
 
-### Kantar TNS Online Data Protection Notice
+## Privacy & Cookies Policy - tnsglobal.com
 
-Your privacy is important to us and we shall take care to safeguard it. This privacy policy applies to individuals who wish to find out more about Kantar TNS’s corporate products and services, and/or employment opportunities at our firm. It applies to personal data submitted at [www.tnsglobal.com](http://www.tnsglobal.com/) and pages hosted by Taleo, a third party hiring management system. This privacy policy does NOT apply to respondents who have completed or are about to complete a market research survey. For the privacy policy relevant to such surveys you should contact the local Kantar TNS company that has asked you to complete the survey.
+Kantar UK Ltd. ("We") are committed to protecting and respecting your privacy.   
+This policy sets out the basis on which any personal data we collect from you, or that you provide to us on [www.tnsglobal.com](http://www.tnsglobal.com/) (“our site”), will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-## When and what information do we collect? 
+## Information we collect from you
 
-Your personal data is collected when you complete and submit a contact form, or resume forms in the Careers section of our site, or when you speak to us over the telephone. In particular, Kantar TNS will collect and hold details of your name, address, email address, telephone number, (including mobile number), fax number, any information that you provide about areas of interest to you, information that you provide in response to any Kantar TNS marketing campaigns, and any other personal information disclosed by you. We believe that details of your areas of interest or responses will assist us in tailoring more specific communications to you in the future. Any information you provide to us will be treated with care and respect. We follow generally accepted industry standards to protect the information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our website, you may send us an email at the address indicated in the Contacting us section below. 
+We collect and process the following data on our site:
 
-## What do we do with your personal information? 
+  * Information that you provide by filling in forms on our site. We may also ask you for information when you report a problem with our site.
+  * If you contact us, we may keep a record of that correspondence.
+  * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
+  * Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own research purposes or otherwise and the resources that you access.
 
-By submitting a contact form you consent to us using the personal data contained in the form to provide you with emails or correspondence containing information about Kantar TNS products and services. Such information may include press releases, product offers, product launches, invitations to seminars or to exhibitions or to attend Kantar TNS workshops, newsletters, e-newsletters, market research articles, industry analysis, corporate or financial announcements as well as general responses to any other information which you may have requested. In addition, you consent to us occasionally contacting you (including by telephone) to notify you about changes to the website and new information or services which we think you may find interesting or valuable.
 
-By completing our resume submission forms in the Careers section of our site, you consent to us keeping your personal information on file for the purpose of considering your candidacy for a current employment opportunity with Kantar TNS and/or to contact you if a future position matches your profile. If we believe that you may be a suitable candidate for a current or future position, we may contact you by phone, email or postal mail to discuss your interest in working at Kantar TNS and/or to invite you to a job interview. 
 
-## With whom will we share your information? 
+## IP Addresses
 
-Kantar TNS is a Kantar company. By submitting personal data to Kantar TNS, as described above, you consent to us sharing your personal information within Kantar TNS and Kantar companies. For more information about Kantar companies please see the "Who We Are" section on [aboutkantar.com](http://aboutkantar.com/).
-
-We may also share your personal information with selected business partners/clients for the purpose of informing you about our and our business partners’ products and services. Other companies within the Kantar TNS group and selected business partners/clients may from time to time contact you on matters, which may be of interest to you. You may opt-out of receiving such news and promotional communications, at any time, by notifying us by email (see Contacting us below). In the Careers section of our site, we have retained a third party company, Taleo, to manage resumes submitted for North American and UK employment opportunities. Taleo hosts the resume submission form even though it appears that users are still on the Kantar TNS site. If you submit your resume using the form on the Kantar TNS North America or the UK Career Opportunity site, only a limited number of Kantar TNS and Kantar employees will have access to it. Taleo is contractually bound to keep your information confidential and is not allowed to use it for its own promotional purposes.
-
-Your personally identifiable information may be transferred if Kantar TNS is involved in a merger, acquisition, or sale of all or a portion of its assets.
-
-We reserve the right to disclose your personally identifiable information In the rare but possible circumstance that the information is subject to disclosure pursuant to judicial or other government subpoenas, warrants, orders or for similar legal or regulatory requirements.
-
-## Contacting us
-
-Please notify us by email to [enquiries@tnsglobal.com](mailto:enquiries@tns-global.com) if you: (a) do not wish your personal data to be used in the manner described above (we should be grateful if you set out your specific objections to any use); (b) wish to see the personal data we hold about you. We will endeavour to respond to your access request within 30 days of receiving your request. Of course, if the personal information we hold about you is inaccurate, incomplete or irrelevant, we shall correct or delete it after discussing the matter with you.
+We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration. This is used to generate statistical data about our users' browsing actions and patterns.
 
 ## Cookies
 
-Cookies are small text files which ask permission to be placed on your computer by websites you visit. Your web browser may allow you to erase the cookies, block all cookies or receive a warning before a cookie is stored. Please refer to your browser instructions or the website below for guidance. However, in some instances unless the cookies are accepted, parts of our website will not function, fully or at all. If you do allow cookies to be used, when you view our website, we will store some cookie files, which will enable us to measure the use of the pages and features on our website and allow you to use some of its functions. The cookie is used to store the IP address of your machine and will not contain any data personal to you. We do not make any attempt to find out, by means of the cookies, the identities of those visiting our website. For further information visit [www.allaboutcookies.org](http://www.allaboutcookies.org/). 
+Our site uses cookies to distinguish you from other users of our site and to remember you between visits. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. A cookie is a small file of letters and numbers that we store on your browser or the hard drive of your computer if you agree. Cookies contain information that is transferred to your computer's hard drive. The cookies we use are "analytical" cookies used by the Google Analytics external service. They allow us to recognise and count the number of visitors and to see how visitors move around the site when they are using it. This helps us to improve the way our site works, for example, by ensuring that users are finding what they are looking for easily. You can find more information about the individual cookies we use and the purposes for which we use them in the list below:
 
-**Cookie** | **Name** | **Purpose**  
----|---|---  
-Google Analytics | 
+  * Cookie: __utma - Name: Identity cookie - Expiry: 2 years Purpose: This cookie enables us to estimate our audience size and usage pattern.
+  * Cookie: __utmb - Name: Session cookie - Expiry: 30 minutes Purpose: This cookie enables us to identify you as a user between page loads. This allows us to remember certain settings
+  * Cookie: __utmz - Name: Referral cookie - Expiry: 6 months Purpose: This cookie stores the referral used by you to reach our site (e.g. a website search, an advert etc). The cookie is used to calculate search engine traffic, ad campaigns and page navigation within our own site.
+  * Cookie: __utmx - Name: Optimiser cookie - Expiry: 2 years Purpose: This cookie helps determine the most effective design for our sites. You can find the latest information about these cookies in the Google Analytics site by clicking [here](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage).
 
-  * _utma
-  * _utmb
-  * _utmc
-  * _utmz
 
-| 
 
-These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.
+You can block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our site.
 
-[Click here](http://www.google.com/analytics/learn/privacy.html) for an overview of privacy at Google. For more information about Google Analytics visit Google Analytics website, and to opt out of being tracked by Google Analytics across all websites visit <http://tools.google.com/dlpage/gaoptout>.  
-  
 Twitter | 
 
   * original_referer
-  * k
-  * _twitter_sess guest_id
+  * k_twitter_sess guest_id
 
-| These cookies are set by Twitter. We use a number of social media tools to enhance visitor interaction on our site. If you already use these platforms their cookies may be set through our website. Data may then be collected by these companies that enables them to serve up adverts on other sites that they think are relevant to your interests. If you do not use such platforms then our site will not place these cookies on your device. No opt-out is offered.  
+| These cookies are set by Twitter. We use a number of social media tools to enhance visitor interaction on our site. If you already use these platforms their cookies may be set through our website. Data may then be collected by these companies that enables them to serve up adverts on other sites that they think are relevant to your interests. If you do not use such platforms then our site will not place these cookies on your device.   
+[Click here](https://help.twitter.com/en/rules-and-policies/twitter-cookies) to read Twitter’s cookie policy.  
+---|---|---  
 YouTube | 
 
   * VISITOR_INFO1
   * _LIVE
   * soundData.sol
 
-| 
-
-[tnsglobal.com](http://www.tnsglobal.com/) contains YouTube videos. These videos do not set cookies automatically, but if you play the video then you may have cookies set by YouTube placed on your computer.
-
-[Click here](http://www.google.co.uk/intl/en/policies/privacy/) to read more about YouTube's cookie policy.  
-  
+| tnsglobal.com contains YouTube videos. These videos do not set cookies automatically, but if you play the video then you may have cookies set by YouTube placed on your computer.  
+[Click here](http://www.google.co.uk/intl/en/policies/privacy/) to read more about YouTube's cookie policy.  
 Slideshare | 
 
   * __utmz
@@ -85,16 +68,82 @@ Slideshare |
   * CSCompanyWebSession
   * CSCCompanyWebLang
 
-| [tnsglobal.com](http://www.tnsglobal.com/) uses Slideshare to provide embedded slideshows on our site. Slideshare use cookies to play the slideshow and remember settings.  
+| tnsglobal.com uses Slideshare to provide embedded slideshows on our site. Slideshare use cookies to play the slideshow and remember settings.  
   
-By using our website, you agree that we can place these types of cookies on your device.
+## Where we store your personal data
 
-## Transferring information
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. If your personal data is transferred to, stored at or otherwise processed in a country or territory outside the EEA, and that country or territory has not been recognised as providing an adequate level of data protection, we will put in place additional safeguards to protect your personal data, based on standard contractual clauses. You can ask us to provide a copy of these clauses by using the contact details below.
 
-You consent to us transferring your personal data to other companies in and out of the EEA only for the purposes mentioned above. We shall endeavour to ensure that your personal information is kept confidential and secure.
+## Third parties and data transfer across borders
 
-## Miscellaneous 
+You can be assured that we will protect your privacy. We will not make your personal information available to anyone without your agreement unless it is for research purposes only or if required by law. This includes your name and e-mail address.  
+We may share your personal data with third parties. Where these transfers are across borders or outside the EEA we shall put safeguards in place to ensure the transfer is made by a legitimate method for the purposes of EU data protection law and secure.  
+Your personal information may be collected, stored, transferred or processed by our sister companies within the WPP group, or 3rd party service providers for research-related purposes, such as data processing, and fulfilment of prize draws or other incentives both within and outside the EEA. They are all contractually bound to keep any information they collect and disclose to us or, we collect and disclose to them, confidential and must protect it with security standards and practices that are equivalent to our own.
 
-This privacy policy is governed and construed in accordance with English law and incorporated into the terms and conditions set out in this website. If we make a material change to this policy, we will post a prominent notice on this site for 30 calendar days prior to the implementation of the material change and describe how individuals may exercise any applicable choice. Following the implementation of the material change, we will record at the introduction of this policy when the policy was last revised. 
+## Keeping your personal data secure
 
-We are Kantar TNS, A Kantar Group Company, and our registered address is Kantar TNS House, Westgate, London W5 1AU (company number 912624).
+We will take reasonable steps to ensure that your data is treated securely and in accordance with this privacy policy. All information you provide to us is stored on a secure server. We limit access to the information by our own employees, contractors, site service providers and those individuals who are authorised for the proper handling of such information. We request that our third party contractors and site service providers follow similar standards of security and confidentiality.  
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will take reasonable steps to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+
+## Uses made of the information
+
+We have listed below the ways in which we use your personal data. We are also required by law to explain the legal basis for using your personal data, and this is also set out below. The legal basis in each case is that we have your consent for the use of your personal data, or that we need to use your personal data in order to perform a contract with you, or that the use of your personal data is necessary for our (or third parties’) legitimate interests (in which case we will explain what those interests are). Where we use your personal data with your consent, you have the right to withdraw your consent at any time
+
+  * To ensure that content from our site is presented in the most effective manner for you and for your computer (this is based on our legitimate interest in ensuring that our site is presented to you in the most effective way possible).
+  * To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes (this is based on your consent, which you may withdraw at any time).
+  * To carry out our obligations arising from any contracts entered into between you and us (this is based on contractual necessity – we need to use your personal data to perform our contract with you).
+  * To allow you to participate in interactive features of our service, when you choose to do so.
+  * To notify you about changes to our service (this is based on our legitimate interest in keeping you informed about changes to our service).
+
+
+
+We may also use your personal data, or permit selected companies within the Kantar Group to use your personal data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by post or telephone. This is based on our legitimate interest, or our group members’ legitimate interest, in providing you with information about our or their goods or services.
+
+## Disclosure of your information
+
+We may disclose your personal data to any member of the Kantar group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006. We may disclose your personal data to third parties:
+
+  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
+  * If Kantar or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation; or to protect the rights, property, or safety of Kantar, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+
+
+
+## How long we keep your personal data
+
+We are required by law to keep your personal data only for as long as is necessary for the purposes for which we are using it. The period for which we keep your personal data will be determined by a number of criteria, including the purposes for which we are using the information, the amount and sensitivity of the information, the potential risk from any unauthorised use or disclosure of the information, and our legal and regulatory obligations.
+
+## Your rights
+
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at [info@tnsglobal.com](mailto:info@tnsglobal.com).  
+You also have the following rights in relation to your personal data (some of these rights apply only in certain circumstances, and some of them vary according to the legal basis on which we are processing your data – please see above for further details):
+
+  * The right to ask whether we’re processing your personal data and, if we are, to find out details of that processing (as well as obtaining a copy of your personal data).
+  * The right to ask us to correct any personal data that we hold about you that’s inaccurate or incomplete.
+  * The right to ask us to delete personal data that we hold about you.
+  * The right to object to how we’re processing your personal data, and to ask us to restrict how we’re processing your personal data.
+  * The right to have the personal data that you’ve provided to us provided to you in a structured and commonly-used electronic format. You can also ask us to transfer your personal data directly to another company if that’s feasible.
+
+
+
+If you’re not happy with how we’ve dealt with your personal data, we’d like a chance to put it right – please contact us at [info@tnsglobal.com](mailto:info@tnsglobal.com). However, you have the right to complain to a supervisory authority – the authority for the UK is the Information Commissioner ([www.ico.org.uk](http://dev.tnsglobal.com/what-we-do/www.ico.org.uk)).
+
+## Children data collection
+
+We never knowingly invite children under the age of 16 years to participate in research studies without consent. If it is necessary and appropriate to a particular project to directly involve children under the age of 16 years, we take measures to ensure we have been given permission by the responsible adult.
+
+## Automated decision making / profiling
+
+In certain circumstances we shall carry out automated decision making or profiling about you. However, in the majority of cases this will not result in any legally significant decisions being made about you. You have the right to appeal if any automated decision made about you is legally significant. If you have any questions about this please contact us.
+
+## Links to other website
+
+Our site may, from time to time, contain links to and from the websites of our partner networks and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+
+## Changes to our privacy policy
+
+This privacy policy was last updated on 17 May 2018. Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
+
+## Contact
+
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [info@tnsglobal.com](mailto:info@tnsglobal.com). You can also contact our data protection officer (DPO), Gillie Abbotts-Jones, at [info@tnsglobal.com](mailto:info@tnsglobal.com).
