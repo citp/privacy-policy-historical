@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the g2crowd.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624092749id_/https%3A//www.g2crowd.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the g2crowd.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230090456id_/https%3A//www.g2crowd.com/static/privacy) for the most accurate reproduction.*
 
 # G2 Crowd - Privacy Policy
 
-_Last Updated on May 25, 2018._
+_Last Updated on July 28, 2018._
 
 1\. About this Policy  
 2\. About G2 Crowd, Inc.  
@@ -12,18 +12,19 @@ _Last Updated on May 25, 2018._
 6\. About Your Reviews and Content Published on the G2 Crowd Site  
 7\. How We Share Your Information  
 8\. Your European Privacy Rights  
-9\. Your California Privacy Rights  
-10\. Retention Periods and Deletion  
-11\. How We Protect Your Information  
-12\. Children’s Privacy  
-13\. Information about International Transfers  
-14\. Changes to this Privacy Policy  
-15\. How You Can Contact Us  
-16\. Archive
+9\. Privacy Shield Frameworks  
+10\. Your California Privacy Rights  
+11\. Retention Periods and Deletion  
+12\. How We Protect Your Information  
+13\. Children’s Privacy  
+14\. Information about International Transfers  
+15\. Changes to this Privacy Policy  
+16\. How You Can Contact Us  
+17\. Archive
 
 ## 1\. About this Policy
 
-By accessing and using our Site, you are accepting the practices described in this Privacy Policy and our [Cookie Policy](https://www.g2crowd.com/static/cookie_policy) and are also agreeing to comply with our [Terms of Use](https://www.g2crowd.com/static/terms). Capitalized terms used in this Privacy Policy but not defined here have the meanings ascribed to them in the [Terms of Use](https://www.g2crowd.com/static/terms).
+By accessing and using our Site, you are accepting the practices described in this Privacy Policy and our Cookie Policy and are also agreeing to comply with our [Terms of Use](https://www.g2crowd.com/static/terms). Capitalized terms used in this Privacy Policy but not defined here have the meanings ascribed to them in the [Terms of Use](https://www.g2crowd.com/static/terms).
 
 Before submitting your personal information to our Site, please read this Privacy Policy carefully. This Privacy Policy is designed to assist you in understanding how we collect, use, and disclose personal information that we obtain through your use of our Site.
 
@@ -45,9 +46,9 @@ When you visit our Site, some information will be automatically collected using 
 
   * To search for information and **to read some content, you don’t need to enter personal information** such as your name, or email address, or submit reviews, but if you want to see full content of reviews or use the full features of our site you may be asked to create a user account with us.
   * You should read and agree with our [Terms of Use](https://www.g2crowd.com/static/terms) and our [Community Guidelines](https://www.g2crowd.com/static/community_guidelines).
-  * You have different choices for the use of cookies on our site, see our [Cookie Policy](https://www.g2crowd.com/static/cookie_policy).
+  * You have different choices for the use of cookies on our site, see our Cookie Policy.
   * **Before publishing a review, understand youroptions** and decide what information you want to be shared. You can always publish reviews anonymously.
-  * If you are in the European Economic Area, UK, or Switzerland, your information will **betransferred to G2 Crowd in the United States.** To protect your information, we will self-certify under the EU-US Privacy Shield and under the Swiss-US Privacy Shield.
+  * If you are in the European Economic Area, UK, or Switzerland, your information will **betransferred to G2 Crowd in the United States.** To protect your information, we are self-certified under the EU-US Privacy Shield and under the Swiss-US Privacy Shield. For more information on our participation in the Privacy Shield, please read the below section **Privacy Shield Frameworks**.
   * If you have questions you can always **contact us at** [privacy@g2crowd.com](mailto:legal@g2crowd.com).
 
 
@@ -136,7 +137,7 @@ a) We share your contact information and company name with **providers of softwa
 
 b) We share your reviews and comments (attributed or not) publicly with **users inside and outside of our Site** , including social media sites, third-party software marketplaces, the providers of software products and services listed on our Site, and the operators of other publicly-available websites, platforms, or mobile apps that we have authorized to share this content through their websites, social media sites, platforms, mobile apps, or other marketing materials, such as slide decks or case studies.
 
-c) We share **aggregated data** and high-level information in a way that does not identify individuals with companies and organizations, such as software providers from different business sectors, to show them trends in technology products and services or rankings amongst providers. We also share aggregated data with our business partners for analytics and advertising purposes according to our [Cookie Policy](https://www.g2crowd.com/static/cookie_policy).
+c) We share **aggregated data** and high-level information in a way that does not identify individuals with companies and organizations, such as software providers from different business sectors, to show them trends in technology products and services or rankings amongst providers. We also share aggregated data with our business partners for analytics and advertising purposes according to our Cookie Policy.
 
 d) Your information is also accessible to our **third-party vendors** who provide services/functions on our behalf, such as business analytics, customer service, marketing, distribution of surveys or promotion programs, payment processing, and fraud prevention. These third-party vendors collect and use your information on behalf of G2 Crowd, for specific purposes, and are not permitted to share or use the information for any other purpose.
 
@@ -144,11 +145,11 @@ e) **Business partners with whom we may offer products or services in conjunctio
 
 f) When you sign into our Site or share content through your **LinkedIn** account or other social media sites, your Information will be shared with those social media sites according to their privacy policies.
 
-## 8\. Your European Privacy Rights
+g) In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-**If you reside or otherwise find yourself in the territory of Europe, we are committed to facilitate the exercise of your rights granted by the European Data Protection law. Otherwise you cancontact us at any time to discuss your privacy concerns.**
+**If you reside or otherwise find yourself in the territory of Europe, we are committed to facilitate the exercise of your rights granted by the EU General Data Protection Regulation. Otherwise you cancontact us at any time to discuss your privacy concerns.**
 
-Privacy rights under the European Data Protection law include:
+Privacy rights under the EU General Data Protection Regulation include:
 
 **Transparency and the right to information.** Through this policy we explain how we use and share your information. However, if you have questions or concerns you can contact us any time.
 
@@ -160,13 +161,31 @@ Please note that we reserve the right to send you other communications, includin
 
 **Right not to be subject to an automated decision, including profiling.** We do not make automated decisions using your personal data that may negatively impact you. We use cookies and similar technologies on our Site to personalize your experience on the Site and recommending software products and services that may be of interest to you. For additional information or to opt-out see our [Cookie Policy](https://www.g2crowd.com/static/cookie_policy).
 
-**Right to lodge a complaint with a supervisory authority.** If you consider that the processing of your personal data infringes your privacy rights according to the European Data Protection law, you have the right to lodge a complaint with a supervisory authority, in the member state of your habitual residence, place of work, or place of the alleged infringement.
+**Right to lodge a complaint with a supervisory authority.** If you consider that the processing of your personal data infringes your privacy rights according to the General Data Protection Regulation, you have the right to lodge a complaint with a supervisory authority, in the member state of your habitual residence, place of work, or place of the alleged infringement. Contact details for the EU data protection authorities can be found at <http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm>
 
-## 9\. Your California Privacy Rights
+## 9\. Privacy Shield Frameworks
+
+G2 Crowd complies with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland transferred to the United States pursuant to Privacy Shield. G2 Crowd, Inc. has certified that it adheres to the Privacy Shield Principles with respect to such data. If there is any conflict between the policies in this privacy policy and data subject rights under the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>.
+
+With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, G2 Crowd, Inc. is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.
+
+Pursuant to the Privacy Shield Frameworks, EU and Swiss individuals have the right to obtain our confirmation of whether we maintain personal information relating to you in the United States. Upon request, we will provide you with access to the personal information that we hold about you. You may also may correct, amend, or delete the personal information we hold about you. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data transferred to the United States under Privacy Shield, should direct their query to [privacy@g2crowd.com](mailto:legal@g2crowd.com). If requested to remove data, we will respond within a reasonable time frame.
+
+We will provide an individual opt-out or opt-in choice before we share your data with third parties other than our agents, or before we use it for a purpose other than which it was originally collected or subsequently authorized. To request to limit the use and disclosure of your personal information, please submit a written request to [privacy@g2crowd.com](mailto:legal@g2crowd.com).
+
+G2 Crowd Inc.’s accountability for personal data that it receives in the United States under the Privacy Shield and subsequently transfers to a third party is described in the Privacy Shield Principles. In particular, G2 Crowd Inc. remains responsible and liable under the Privacy Shield Principles if third-party agents that it engages to process the personal data on its behalf do so in a manner inconsistent with the Principles, unless G2 Crowd Inc. proves that it is not responsible for the event giving rise to the damage.
+
+In compliance with the Privacy Shield Principles, G2 Crowd commits to resolve complaints about your privacy and our collection or use of your personal information transferred to the United States pursuant to Privacy Shield. European Union and Swiss individuals with Privacy Shield inquiries or complaints should first contact G2 Crowd at: [privacy@g2crowd.com](mailto:legal@g2crowd.com)
+
+G2 Crowd has further committed to refer unresolved privacy complaints under the Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers](https://www.bbb.org/EU-privacy-shield/for-eu-consumers) for more information and to file a complaint. This service is provided free of charge to you.
+
+If your Privacy Shield complaint cannot be resolved through the above channels, under certain conditions, you may invoke binding arbitration for some residual claims not resolved by other redress mechanisms. See Privacy Shield Annex 1 at <https://www.privacyshield.gov/article?id=ANNEX-I-introduction>
+
+## 10\. Your California Privacy Rights
 
 California Civil Code Section 1798.83 permits California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please email [privacy@g2crowd.com](mailto:privacy@g2crowd.com).
 
-## 10\. Retention Periods and Deletion
+## 11\. Retention Periods and Deletion
 
 **G2 Crowd retains your personal information to the extent necessary to reasonably serve customer relations, to meet our compliance and legal obligations, to enhance security and fraud prevention, and for audit purposes.**
 
@@ -174,9 +193,9 @@ We will keep your profile information and content published until you decide to 
 
 When you decide to delete reviews, or change them to anonymous or not attributed reviews, we will fulfill your request and automatically update this information on our platform. We will also notify third parties that we authorized to use and share that content of your request. However, you should note that once information has been publicly shared on the Internet or through marketing materials, it is difficult to permanently and completely remove it, and we cannot guarantee that others have not stored it by printing or downloading the original publication.
 
-See our [Cookie Policy](https://www.g2crowd.com/static/cookie_policy) for additional information on retention periods of cookies and other technologies used on our Site.
+See our Cookie Policy for additional information on retention periods of cookies and other technologies used on our Site.
 
-## 11\. How We Protect Your Information
+## 12\. How We Protect Your Information
 
 **We want you to feel confident about using our Site, and we are committed to protecting the information we collect. While no website can guarantee security, we have implemented appropriate administrative, technical, and physical security procedures to help protect the personal information you provide to us.**
 
@@ -184,7 +203,7 @@ For example, only authorized employees are permitted to access personal informat
 
 You should bear in mind that submission of information over the Internet is never entirely secure. We cannot guarantee the security of information you submit via our Site while it is in transit over the Internet, and any such submission is at your own risk.
 
-## 12\. Children’s Privacy
+## 13\. Children’s Privacy
 
 **The Site is a general audience site and does not offer services directed to individuals under 18 years of age.**
 
@@ -192,11 +211,11 @@ No one under the age of 18 may provide any information to or on the Site. We do 
 
 If you are under 18, do not use or provide any information on this Site or on or through any of its features, do not register on this Site, use any of the interactive or comment features of this Site, or provide any information about yourself to us, including your name, address, telephone number, email address, or any screen name or user name you may use. Should an individual whom we know to be under the age of 18 send personal information to us, we will delete or destroy such information as soon as reasonably possible. If you believe we might have this type of information, contact us.
 
-## 13\. Information about International Transfers
+## 14\. Information about International Transfers
 
-If you are visiting our Site from outside the United States, please be aware that your information will be transferred to, stored, and processed in the United States where our servers are located and our central database is operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country, but please be assured that G2 Crowd does take steps pursuant to laws in the United States to ensure that your privacy is protected. To protect your personal data when it is transferred to the United States, we will self-certify under the EU-US Privacy Shield and under the Swiss-US Privacy Shield. By visiting our Site or using our services, you understand that your information will be transferred to our facilities and those third parties with whom we share it as described in this Privacy Policy.
+If you are visiting our Site from outside the United States, please be aware that your information will be transferred to, stored, and processed in the United States where our servers are located and our central database is operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country, but please be assured that G2 Crowd does take steps pursuant to laws in the United States to ensure that your privacy is protected. To protect your personal data when it is transferred to the United States, we are self-certified under the EU-US Privacy Shield and under the Swiss-US Privacy Shield, which you can read more about in the above section **Privacy Shield Frameworks**. By visiting our Site or using our services, you understand that your information will be transferred to our facilities and those third parties with whom we share it as described in this Privacy Policy.
 
-## 14\. Changes to this Privacy Policy
+## 15\. Changes to this Privacy Policy
 
 G2 Crowd may update this Privacy Policy in the future. We will notify you about material changes to this Privacy Policy by either sending a notice to the email address you provided to us and/or by placing a prominent notice on the Site.
 
@@ -210,8 +229,9 @@ If you want to communicate with our **Data Protection Officer** , please email [
 
 Please provide your identification and contact details, including your email address used to register with this Site, and a complete explanation of your concern.
 
-## 16\. Archive
+## 17\. Archive
 
+  * [Previous version ending 7/28/2018](https://www.g2crowd.com/static/privacy/7_28_2018)
   * [Previous version ending 5/25/2018](https://www.g2crowd.com/static/privacy/5_25_2018)
   * [Previous version ending 11/17/2017](https://www.g2crowd.com/static/privacy/11_17_2017)
   * [Previous version ending 2/18/2016](https://www.g2crowd.com/static/privacy/2_18_2016)
