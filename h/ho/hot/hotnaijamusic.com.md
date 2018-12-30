@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotnaijamusic.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604025207id_/http%3A//www.hotnaijamusic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotnaijamusic.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230221854id_/https%3A//www.hotnaijamusic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,15 +20,15 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 HotNaijaMusic may collect and use Users personal information for the following purposes:
 
-  *  _To run and operate our Site_  
+  * _To run and operate our Site_  
 We may need your information display content on the Site correctly.
-  *  _To improve customer service_  
+  * _To improve customer service_  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  *  _To personalize user experience_  
+  * _To personalize user experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  *  _To run a promotion, contest, survey or other Site feature_  
+  * _To run a promotion, contest, survey or other Site feature_  
 To send Users information they agreed to receive about topics we think will be of interest to them.
-  *  _To send periodic emails_  
+  * _To send periodic emails_  
 We may use the email address to respond to their inquiries, questions, and/or other requests.
 
 
@@ -55,7 +55,7 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 ### Google Adsense
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html)
 
 ### Changes to this privacy policy
 
