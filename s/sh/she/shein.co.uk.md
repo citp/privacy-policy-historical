@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shein.co.uk privacy policy that was archived on 2018-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180503233912id_/http%3A//www.shein.co.uk/Privacy-Security-Policy-a-282.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shein.co.uk privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230025911id_/https%3A//www.shein.co.uk/Privacy-Security-Policy-a-282.html) for the most accurate reproduction.*
 
 # 
 
