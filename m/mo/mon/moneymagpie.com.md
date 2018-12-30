@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneymagpie.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627034145id_/https%3A//www.moneymagpie.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneymagpie.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230045801id_/https%3A//www.moneymagpie.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement & Cookies - MoneyMagpie
 
@@ -87,4 +87,4 @@ Google Tag Manager | To allow us to manage dynamic elements within pages | http:
 Gravatar | Provide consistant avatars (user images) across multiple sites | http://automattic.com/privacy/ | Anonymous (Browser Information, Date/Time, Demographic Data, Serving Domains), Pseudonymous (IP Address (EU PII))  
 Twitter | Provide a twitter feed from our own twitter page on the site | https://twitter.com/privacy | Anonymous (Browser Information, Cookie Data , Date/Time, Demographic Data, Hardware/Software Type, Internet Service Provider, Interaction Data , Page Views ), Pseudonymous (IP Address (EU PII), Search History, Device ID (EU PII))  
   
-Please also note that MoneyMagpie partners with advertising companies to enable us to continue to offer great articles for free. These partners change on a regular basis, and to assist in serving relevant adverts to you, these partners may also use cookies. If you wish to stop seeing specific adverts or advertisers on this site, we recommend a product such as https://www.ghostery.com/en/try-us/download-add-on/, which will allow you to block advertisers directly from your web browser.
+Please also note that MoneyMagpie partners with advertising companies to enable us to continue to offer great articles for free. These partners change on a regular basis, and to assist in serving relevant adverts to you, these partners may also use cookies. If you wish to stop seeing specific adverts or advertisers on this site, we recommend a product such as https://www.ghostery.com/products/?utm_source=ghostery.com&utm_campaign=products_menu, which will allow you to block advertisers directly from your web browser.
