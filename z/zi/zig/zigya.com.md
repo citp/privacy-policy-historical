@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zigya.com privacy policy that was archived on 2017-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170401015514id_/http%3A//zigya.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zigya.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230104627id_/https%3A//www.zigya.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Poilcy | Zigya
+# Privacy Poilcy - Zigya
 
 Zigya is the brand name for Zigya Technology Labs Pvt. Ltd. In this document, the terms ‘Zigya’, ‘we’, ‘us’, ‘our’ wherever used individually, refer and imply the company, its affiliates, partners and assigns. 
 
