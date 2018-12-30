@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jigsawplanet.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001104431id_/http%3A//www.jigsawplanet.com%3Frc%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jigsawplanet.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230164227id_/https%3A//www.jigsawplanet.com%3Frc%3Dprivacy) for the most accurate reproduction.*
 
-# Jigsaw Planet - Privacy Policy
+# Privacy Policy
 
 This Privacy Policy describes Jigsaw Planet's policies and procedures on the collection, use and disclosure of your information. Jigsaw Planet receives your information through our various web sites, APIs, services and third-parties ("Services"). When using any of our Services you consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy. Irrespective of which country that you reside in or create information from, your information may be used by Jigsaw Planet in the United States or any other country where Jigsaw Planet operates.
 
