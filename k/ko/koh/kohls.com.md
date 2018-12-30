@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kohls.com privacy policy that was archived on 2017-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170727171936id_/https%3A//www.kohls.com/feature/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kohls.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230182905id_/https%3A//www.kohls.com/feature/privacy-policy.jsp) for the most accurate reproduction.*
 
 # KOHL'S PRIVACY POLICY - YOUR PRIVACY RIGHTS | Kohl's
 
