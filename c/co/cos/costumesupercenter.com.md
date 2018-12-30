@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the costumesupercenter.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928202503id_/https%3A//www.costumesupercenter.com/pages/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costumesupercenter.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230015304id_/https%3A//www.costumesupercenter.com/pages/privacy-security) for the most accurate reproduction.*
 
 # Privacy & Security
 
