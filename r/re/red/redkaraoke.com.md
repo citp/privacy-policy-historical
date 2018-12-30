@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redkaraoke.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520093335id_/https%3A//www.redkaraoke.com/terms/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redkaraoke.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230060859id_/https%3A//www.redkaraoke.com/terms/en/privacy) for the most accurate reproduction.*
 
 # RedKaraoke - Privacy and cookie policy
 
