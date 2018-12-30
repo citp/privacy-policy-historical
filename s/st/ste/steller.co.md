@@ -1,55 +1,150 @@
-> *The following text is extracted and transformed from the steller.co privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417042347id_/https%3A//steller.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steller.co privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230153205id_/https%3A//steller.co/privacy) for the most accurate reproduction.*
 
 # Steller
 
-## Steller Privacy Policy
+## Privacy Policy
 
-This Privacy Policy governs the privacy of information Mombo Labs, Inc. ("Mombo") collects inside the Steller mobile application and Steller website (the "Service").  This policy does not apply to the practices of companies that Mombo does not own or control. This policy includes examples of the types of information Mombo collects, and the kinds of parties with whom Mombo shares such information. These examples are illustrative and should not be considered a complete inventory of Mombo's information collection, use, and sharing practices.  By installing, using, or accessing the Service, you agree to this policy. If you do not agree to this policy, do not install, use, or access the Service. Mombo may update this policy from time to time and will post updates to this policy on this web page, including the policy's effective date.  By your use of the Service, you understand and consent to the collection and use of your data, the transfer of that data around the United States and other countries for storage, processing, and use by Mombo.
+Effective date: December 11, 2018
+
+Expedition Travel Advisor, Inc dba Steller ("us", "we", or "our") operates the [http://www.steller.co](http://www.steller.co/) website and the Steller mobile application (the "Service").
+
+This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. Our Privacy Policy for Expedition Travel Advisor, Inc dba Steller is managed through [Free Privacy Policy Website.](https://www.freeprivacypolicy.com/free-privacy-policy-generator.php)
+
+We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.
 
 #### Information Collection and Use
 
-Mombo collects a variety of information through general use of the Service that help us convey to users your identify, validate that identity, and help us to deliver a better experience for you in the Service.
+We collect several different types of information for various purposes to provide and improve our Service to you.
 
-#### Information Upon Registration
+##### Types of Data Collected
 
-When creating an account on Steller, you do so by authenticating through a third-party service, such Twitter. By doing so, you link your Twitter account with the Steller application, and Steller collects and stores information from such service about your public identify that you have provided to Steller and have consented to share to us. Steller also asks for and stores an email you provide upon registration. We do so to be able to contact you and validate your identity if so needed.  As part of providing you the Service, we may need to provide you with certain communications, such as service announcements and administrative messages. These communications are considered part of the Service and your Steller account, which you may not be able to opt-out from receiving.
+Personal Data
 
-#### Content, Following, and other Public Information
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:
 
-Steller is a content sharing platform, so most of the information you provide us is information that you choose to be made public. This includes not only the content that you post and data provided with such content, such as when it was posted, but also the accounts you follow, the content that you like and other public interactions on the Services. Your public information is broadly and instantly disseminated.
+  * Email address
+  * First name and last name
+  * Cookies and Usage Data
 
-#### Location Information
 
-Mombo collects location information from users for reporting purposes to better understand our users and where they interact with Steller. By collecting your IP address and geolocation, Mombo can better understand you and deliver a better, more personalized experience for you.
 
-#### Links
+Usage Data
 
-Mombo may keep analytical data on the links, content, and gestures you interact with within the Service to understand better how you use Steller, content that users interact with, and general trends across these links, content, and gestures in the Service. We do this to improve the Service, to better understand our users, and deliver more relevant advertising and engagement statistics for users to share popularity and trending information.
+We may also collect information that your browser sends whenever you visit our Service or when you access the Service by or through a mobile device ("Usage Data").
 
-#### Cookies
+This Usage Data may include information such as your computer's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
 
-Mombo uses "cookies" to allow us to better understand how our users use the Service. Cookies themselves are small pieces of text that are stored by your web browser associated with each visit. Mombo uses cookies to help us understand how and when you use the Service. These cookies are not personally associated with your real identity, they simply enable us to understand when users are logged in and key functionality so that we are able to provide you with a higher quality, targeted service and understand aggregate user trends.
+When you access the Service by or through a mobile device, this Usage Data may include information such as the type of mobile device you use, your mobile device unique ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browser you use, unique device identifiers and other diagnostic data.
 
-#### Log Data
+Tracking & Cookies Data
 
-Mombo servers automatically record data ("Log Data") created by your use of the Service. Log Data may include information such as your IP address, browser type, operating system, the referring web page, pages visited, location, your mobile carrier, device and application IDs, search terms, and cookie information. We receive this log information when you interact with the Service by interacting with our mobile application, visiting our website, signing into the Service, or visiting a third party site or service that includes a Steller widget. Mombo uses this data to measure, understand, and improve the Service to you.
+We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.
 
-#### Information Disclosure
+Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.
 
-Mombo may share or disclose your information at your direction, such as when you choose to publicly post content or update your profile information. Mombo may provide information on a confidential basis to nonaffiliated companies Mombo engages as contractors or agents to perform services for Mombo, such as hosting services or maintaining software. Information will be shared with such third party service providers only to the extent reasonably necessary for them to perform services on Mombo's behalf, and pursuant to confidentiality obligations consistent with this Privacy Policy.
+You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
 
-Notwithstanding anything to the contrary in this Privacy Policy, Mombo may preserve or disclose your information if we believe that it is reasonably necessary to comply with a law, regulation or legal request; to protect the safety of any person; to address fraud, security or technical issues; or to protect Mombo's rights or property. However, nothing in this Privacy Policy is intended to limit any legal defenses or objections that you may have to a third party's, including a government's, request to disclose your information. 
+Examples of Cookies we use:
 
-If Mombo is involved in a merger, acquisition, reorganization or sale of assets, or if Mombo goes out of business or enters bankruptcy, user information may be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any of the acquirer of Mombo or our assets may continue to use your personal information as set forth in this Privacy Policy.
+  *  **Session Cookies.** We use Session Cookies to operate our Service.
+  *  **Preference Cookies.** We use Preference Cookies to remember your preferences and various settings.
+  *  **Security Cookies.** We use Security Cookies for security purposes.
 
-We may share or disclose your non-private, aggregated or otherwise non-personal information, such as your public user profile information, public posts, the people you follow or that follow you, or the number of users who clicked on a particular link.
 
-#### Modifying Your Personal Information
 
-If you are a registered user of our Service, you may modify the profile information you provided or made available to us and associated with your account.
+#### Use of Data
 
-#### Users Under Age 13
+Expedition Travel Advisor, LLC dba Steller uses the collected data for various purposes:
 
-Steller services are not intended for persons under the age of 13. If you become aware that a user under the age of 13 has provided us with personal information without the consent of an adult who has custody over that child, please contact us at [support@mombo.com](mailto:support@mombo.com). Mombo never knowingly accepts personal information from users under the age of 13 and if we become aware that a child under 13 has provided us with personal information, we will take action to remove the information and terminate the user's account.
+  * To provide and maintain the Service
+  * To notify you about changes to our Service
+  * To allow you to participate in interactive features of our Service when you choose to do so
+  * To provide customer care and support
+  * To provide analysis or valuable information so that we can improve the Service
+  * To monitor the usage of the Service
+  * To detect, prevent and address technical issues
 
-Effective: February 13, 2014
+
+
+#### Transfer of Data
+
+Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+
+If you are located outside United States and choose to provide information to us, please note that we transfer the data, including Personal Data, to United States and process it there.
+
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+Expedition Travel Advisor, LLC dba Steller will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+
+#### Disclosure of Data
+
+##### Legal Requirements
+
+Expedition Travel Advisor, LLC dba Steller may disclose your Personal Data in the good faith belief that such action is necessary to:
+
+  * To comply with a legal obligation
+  * To protect and defend the rights or property of Expedition Travel Advisor, LLC dba Steller
+  * To prevent or investigate possible wrongdoing in connection with the Service
+  * To protect the personal safety of users of the Service or the public
+  * To protect against legal liability
+
+
+
+#### Security of Data
+
+The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
+
+#### Service Providers
+
+We may employ third party companies and individuals to facilitate our Service ("Service Providers"), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
+
+These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+
+##### Analytics
+
+We may use third-party Service Providers to monitor and analyze the use of our Service.
+
+  *  **Google Analytics**
+
+Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.
+
+For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: <https://policies.google.com/privacy?hl=en>
+
+  * **Firebase**
+
+Firebase is analytics service provided by Google Inc.
+
+You may opt-out of certain Firebase features through your mobile device settings, such as your device advertising settings or by following the instructions provided by Google in their Privacy Policy: <https://policies.google.com/privacy?hl=en>
+
+We also encourage you to review the Google's policy for safeguarding your data: <https://support.google.com/analytics/answer/6004245> For more information on what type of information Firebase collects, please visit please visit the Google Privacy & Terms web page: <https://policies.google.com/privacy?hl=en>
+
+
+
+
+#### Links to Other Sites
+
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
+
+We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+#### Children's Privacy
+
+Our Service does not address anyone under the age of 18 ("Children").
+
+We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
+
+#### Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the "effective date" at the top of this Privacy Policy.
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+#### Contact Us
+
+If you have any questions about this Privacy Policy, please contact us:
+
+  * By email: [support@steller.co](mailto:support@steller.co)
+
+
