@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freedominfluencer.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606041027id_/http%3A//freedominfluencer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedominfluencer.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230162152id_/https%3A//freedominfluencer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -69,7 +69,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.freedominfluencer.com/terms/>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <https://freedominfluencer.com/terms/>
 
 **Your Consent**
 
