@@ -1,16 +1,6 @@
-> *The following text is extracted and transformed from the gao.gov privacy policy that was archived on 2018-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180412234230id_/https%3A//www.gao.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gao.gov privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230150055id_/https%3A//www.gao.gov/privacy.html) for the most accurate reproduction.*
 
-# U.S. GAO - Privacy, Legal, and Other Site Policies
-
-  * Privacy and Security
-  * [Accessibility](https://web.archive.org/dresource.html)
-  * [Copyright and Use of Images](https://web.archive.org/copyright.html)
-  * [Freedom of Information Act (FOIA) ](https://web.archive.org/about/freedom_of_information_act)
-  * [Help](https://web.archive.org/using.htm)
-
-
-
-* * *
+# U.S. GAO - Privacy Policy
 
 ## GAO Privacy and Security Notification
 
@@ -18,7 +8,7 @@
 
 Thanks for visiting our Web site and reviewing our privacy policy. This site is provided as a public service by the Government Accountability Office. The documents and information contained on this site are public information and may be freely distributed or copied. 
 
-We do not routinely collect personally identifiable information when you visit our Web site or our accounts on third-party social media sites. We do, however, collect personal information in several circumstances, which are described below. In addition, we collect some technical information when you visit our site to help improve site service and to make your navigation seamless. All of the information posted to our site is protected in accordance with GAO security policies. Information posted to third-party social media sites and applications is not under GAO control.
+We do not routinely collect personally identifiable information (PII) when you visit our Web site or our accounts on third-party social media sites. We do, however, collect personal information in several circumstances, which are described below. In addition, we collect some technical information when you visit our site to help improve site service and to make your navigation seamless. All of the information posted to our site is protected in accordance with GAO security policies. Information posted to third-party social media sites and applications is not under GAO control.
 
 ### Information Collected and Stored
 
@@ -26,9 +16,9 @@ If you visit the GAO.gov Web site to read or download information, we automatica
 
 The information we collect and store about your visit includes:
 
-    * The name of the domain from which you access the Internet;
-    * The date and time you access our site; and
-    * The Internet address of the Web site from which you accessed our site or the Internet address of the computer used to link to our site.
+  * The name of the domain from which you access the Internet;
+  * The date and time you access our site; and
+  * The Internet address of the Web site from which you accessed our site or the Internet address of the computer used to link to our site.
 
 
 
@@ -36,13 +26,13 @@ This information is only used to help us make our site more useful for you. Thro
 
 ### If You Send Us Personal Information
 
-If you choose to provide us with personally identifiable information—for example, by filling out an e-mail form to subscribe to our publications mailing list—we may use that information to respond to your comment or to get you the information you have requested. That information is temporarily retained and then destroyed in accordance with guidelines of the National Archives and Records Administration. We will not release any personally identifiable information, including e-mail addresses, to the public or to private organizations. We never create individual profiles or give such information to any private organizations. GAO never collects information for commercial marketing.
+If you choose to provide us with PII—for example, by filling out an e-mail form to subscribe to our publications mailing list—we may use that information to respond to your comment or to get you the information you have requested. That information is temporarily retained and then destroyed in accordance with guidelines of the National Archives and Records Administration. We will not release any PII, including e-mail addresses, to the public or to private organizations. We never create individual profiles or give such information to any private organizations. GAO never collects information for commercial marketing.
 
 ### Cookies
 
 When you visit our Web site, small bits of text known as cookies are stored on your computer. GAO uses both per-session and persistent cookies to make it easier for you to comment on a report, complete a survey, and navigate our site, as well as for GAO to gather information about how our site is used to help us improve its performance.
 
-Per-session cookies are stored in memory, are only available during an active browser session, and are erased as soon as you leave our Web site. Persistent cookies, which are not erased when you leave our site, anonymously track how you interact with our site, including where you came from and what you did during your visit. Neither our persistent nor our per-session cookies collects personally identifiable information on users. All data collected is used only for the purposes described above, and is accessible to GAO staff whose duties require it. 
+Per-session cookies are stored in memory, are only available during an active browser session, and are erased as soon as you leave our Web site. Persistent cookies, which are not erased when you leave our site, anonymously track how you interact with our site, including where you came from and what you did during your visit. Neither our persistent nor our per-session cookies collects PII on users. All data collected is used only for the purposes described above, and is accessible to GAO staff whose duties require it. 
 
 If you do not wish to have your visit information collected, you may opt-out by disabling cookies in your browser settings (instructions: <http://www.usa.gov/optout-instructions.shtml>). Doing so will still permit you to access our full Web site. 
 
@@ -56,8 +46,18 @@ GAO uses social media tools to share mission-related information that has been c
 
 GAO encourages all users to read the privacy policies of the third-party sites and applications before registering or posting information. GAO disclaims any liability for any loss or damage resulting from any comments posted on these sites and applications.
 
+### System of Records Notice
+
+GAO is required to post a System of Records Notice if it maintains personnel records containing PII that are retrieved by a personal identifier. GAO’s Human Capital Management System of Personnel Records meets these criteria. The System of Records Notice for this system is published in the [Federal Register](https://www.gpo.gov/fdsys/granule/FR-2009-08-13/E9-19445/content-detail.html).
+
 ### Contact
 
 If you have any questions or comments regarding GAO's privacy policy, please contact the GAO Privacy Office at [privacy@gao.gov](mailto:privacy@gao.gov).
 
 GAO welcomes questions about this site. Please address them to [contact@gao.gov](mailto:contact@gao.gov).
+
+#### Customer Satisfaction Survey
+
+We strive to be a model organization—one that is client and customer driven. In that spirit, we participate in an online customer satisfaction survey using the American Customer Satisfaction Index. The survey randomly selects a small proportion of visitors to our site and asks them a series of questions about their online experience. The survey will appear in a separate browser window; you may complete it when you leave our site. The results, which show how this site compares with some of the best commercial and government Web sites, help guide our efforts to improve our Web site. Thank you for taking the time to fill out the survey if it appears during your visit.
+
+GAO welcomes questions, comments, and suggestions about this site and the customer satisfaction survey. Please address them to [contact@gao.gov](mailto:contact@gao.gov).
