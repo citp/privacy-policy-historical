@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asianscientist.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624033514id_/https%3A//www.asianscientist.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asianscientist.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230030306id_/https%3A//www.asianscientist.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Asian Scientist Magazine | Science, technology and medical news updates from Asia
 
@@ -22,4 +22,4 @@ For example, Google, as a third-party vendor, uses cookies to serve ads on Asian
 
 You can also change your privacy preferences regarding the use of cookies and similar technologies through your browser, or use an anonymous web browsing service such as Anonymizer.com which logs visits from the anonymizing service instead of the users’ own computers.
 
-If you have any questions about our privacy policy, please write to us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#eb8a8f868285ab8a98828a859888828e859f82989fc5888486).
+If you have any questions about our privacy policy, please write to us at [admin@asianscientist.com](mailto:admin@asianscientist.com).
