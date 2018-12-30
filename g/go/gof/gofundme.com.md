@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gofundme.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630210559id_/https%3A//www.gofundme.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gofundme.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230214707id_/https%3A//www.gofundme.com/privacy) for the most accurate reproduction.*
 
 # GoFundMe Privacy Policy
 
-**Date of Last Revision: May 18, 2018.**
+**Date of Last Revision: September 12, 2018.**
 
 Welcome to the web site or mobile application (as the case may be) (collectively, the "Platform") of [GoFundMe, Inc.](https://www.gofundme.com/) (including its subsidiaries, affiliates, agents, and service providers, collectively, "GoFundMe," "we," "us," and/or "our"). This Platform is operated by GoFundMe and has been created to provide information about our company, our online platform designed to permit users to post a fundraising campaign to accept monetary donations, and our related services (together with the Platform, the "Services") to our Services users and visitors ("you," and/or "your"). Except as provided below, this Privacy Policy describes and governs how we collect, use, share and protect data collected from users of or visitors to the Platform.
 
@@ -75,7 +75,7 @@ Please visit the privacy policy of the relevant Social Networking Service to fin
 
 Our Use of Information Collected
 
-GoFundMe uses the information collected from the Services in a manner that is consistent with this Privacy Policy. If you provide information for a certain reason, we may use the information in connection with the reason for which it was provided. For instance, if you contact us by email, we will use the information you provide to answer your question or resolve your problem. Also, if you provide information about yourself, or have provided (or otherwise permitted the Services to access) any Third-Party Data, we will use your information and any such Third-Party Data to provide you with access to such services and to monitor your use of such services. For the purposes of the GDPR, we may use your information in the above ways as this is necessary for us to fulfill our obligations under our contract with you or in order to take steps at your request prior to entering into a contract. 
+GoFundMe uses the information collected from the Services in a manner that is consistent with this Privacy Policy. If you start a campaign, we may reach out to you to provide helpful tips or advice in connection with your campaign. If you provide information for a certain reason, we may use the information in connection with the reason for which it was provided. For instance, if you contact us by email, we will use the information you provide to answer your question or resolve your problem. Also, if you provide information about yourself, or have provided (or otherwise permitted the Services to access) any Third-Party Data, we will use your information and any such Third-Party Data to provide you with access to such services and to monitor your use of such services. For the purposes of the GDPR, we may use your information in the above ways as this is necessary for us to fulfill our obligations under our contract with you or in order to take steps at your request prior to entering into a contract. 
 
 GoFundMe may also use the information we collect through the Services to help us in providing the Services and support services, processing transactions, fulfilling requests for information, receiving and sending communications, updating marketing lists, analyzing data and research aimed at improving the accuracy, effectiveness, usability or popularity of the Services, to personalize the content and advertising that you see on Services and to understand how users interact with and user our advertisement and Services, to associate your activities, customize content or tailor advertising across different device and browsers that you use to access the Services (for instance, computers, tablets, mobile devices, applications and websites), to comply with state, local, federal or international laws, to enforce our [Terms of Service](https://web.archive.org/terms) and this Privacy Policy, as otherwise described in this Privacy Policy, or in assisting with other tasks from time to time. Please note that we may combine information that we collect from you and about you (including automatically-collected information) with information we obtain about you from our affiliates and/or non-affiliated third parties, and use such combined information in accordance with this Privacy Policy. For the purposes of the GDPR, we may use your information in the above ways as this is necessary: (i) to fulfill our obligations under our contract with you or in order to take steps at your request prior to entering into a contract; (ii) for our legitimate interest to maintain our relationship with you or protect you and us against fraud; or (iv) to comply with legal obligations. 
 
@@ -97,7 +97,7 @@ As we develop our business, we might sell or buy businesses or assets. In the ev
 
   2. **Agents, Consultants, Vendors and Related Third Parties:**
 
-GoFundMe, like many businesses, sometimes hires other companies to perform certain business-related functions on its behalf, and we may provide access to or share your information with these companies so they can perform services for us. Examples of such functions include marketing, mailing information, data storage, security, fraud preventions, payment processing, legal services, and maintaining databases.
+GoFundMe, like many businesses, sometimes hires other companies to perform certain business-related functions on its behalf, and we may provide access to or share your information with these companies so they can perform services for us. Examples of such functions include marketing, mailing information, data storage, security, fraud preventions, payment processing, legal services, and maintaining databases. For example, if you are a donor in Australia, GoFundMe’s Australian entity, GoFundMe Australia Pty Ltd (ACN 627 702 630) contracts with Adyen Australia for payment processing. Adyen Australia, therefore, will collect, process and store your data on behalf of GoFundMe. 
 
   3. **Legal Requirements:**
 
@@ -105,11 +105,11 @@ GoFundMe may access, disclose, transfer and preserve your information when we ha
 
   4. **Campaign Organizers**
 
-If you donate to a fundraising campaign, we may share your name, email address and other information you’ve provided in connection with your donation with the campaign organizer, who may contact you.
+If you donate to a fundraising campaign, we may share your name, email address and other information you’ve provided in connection with your donation with the campaign organizer, who may contact you. By donating to the campaign, you consent to our sharing the above information and to the campaign organizer contacting you.
 
   5. **Your consent**
 
-We may share your information in the event that you consent to the sharing of your information.
+We may share your information in the event that you consent to the sharing of your information. For example, we may partner with third party organizations to arrange for specific campaigns. If you consent to our delivering your contact information to a specific partner, we may share, with the partner organization, your name, email address and other information you’ve provided in connection with your donation to the specific campaign.
 
   6. **Aggregate and/or De-Identified Information**
 
