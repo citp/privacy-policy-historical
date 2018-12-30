@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fossbytes.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624134427id_/https%3A//fossbytes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fossbytes.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230131935id_/https%3A//fossbytes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - fossBytes
 
@@ -93,12 +93,12 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 **Contacting us**
 
-Fossbytes Media Private Limited is committed to providing secure and transparent experience to our Users. Protecting our Users’ privacy and data is extremely important to us. If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Fossbytes Media Private Limited is committed to providing secure and transparent experience to our Users. Protecting our Users’ privacy and data is extremely important to us. If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: admin@fossbytes.com
 
 **Address:  
 **Fossbytes Media Pvt Ltd.  
 Sector 50, Noida, U.P. (India)  
 Pin- 201301  
-Email- [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Email- admin@fossbytes.com
 
 _This privacy policy was updated on May 28th, 2018_
