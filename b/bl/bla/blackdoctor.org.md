@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackdoctor.org privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624091347id_/https%3A//blackdoctor.org/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackdoctor.org privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230084959id_/https%3A//blackdoctor.org/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy | BlackDoctor
 
@@ -6,11 +6,11 @@ This Privacy Policy applies to the BlackDoctor.org Web site (“Company Site” 
 
 We hope that reading our Privacy Policy gives you a clear idea of how we manage information about you.
 
-Many of the specific tools and services on our website do not require registration. If you use our Web site without registering, the only information we collect will be non-personal information through the use of cookies.  If you choose to register with our Web site for certain Interactive Tools or other services, we may require you to submit personally identifiable information.  Depending on the tool or service you have selected, we may also collect personal health information. You are responsible for ensuring the accuracy of the Personally Identifiable Information and Personal Health Information you submit to Blackdoctor.org. Inaccurate information will affect the information you receive when using our site and tools and our ability to contact you as contemplated in this Privacy Policy. For example, your email address should be kept current because that it is how we communicate with you.
+Many of the specific tools and services on our website do not require registration. If you use our Website without registering, the only information we collect will be non-personal information through the use of cookies.  If you choose to register with our Web site for certain Interactive Tools or other services, we may require you to submit personally identifiable information.  Depending on the tool or service you have selected, we may also collect personal health information. You are responsible for ensuring the accuracy of the Personally Identifiable Information and Personal Health Information you submit to Blackdoctor.org. Inaccurate information will affect the information you receive when using our site and tools and our ability to contact you as contemplated in this Privacy Policy. For example, your email address should be kept current because that it is how we communicate with you.
 
  **Applicability and User Restrictions**
 
-Unless specifically stated otherwise, this Privacy Policy applies to information collected on the Company Site, which also may be governed by separate or additional policies and does not apply to information about you collected by our affiliated providers, third party Web site (e.g., ad serving and tracking services), applications or offerings linked to or otherwise accessible from the Company Site. The information collected or received by such affiliated providers and third parties is subject to their own respective privacy policies, which we encourage you to review. We are not responsible for compliance with other Web site’s privacy policies or practices.
+Unless specifically stated otherwise, this Privacy Policy applies to information collected on the Company Site, which also may be governed by separate or additional policies and does not apply to information about you collected by our affiliated providers, third-party Web site (e.g., ad serving and tracking services), applications or offerings linked to or otherwise accessible from the Company Site. The information collected or received by such affiliated providers and third parties is subject to their own respective privacy policies, which we encourage you to review. We are not responsible for compliance with other Web site’s privacy policies or practices.
 
 The Company Site is not directed to children under the age of thirteen (13). In compliance with the Children’s Online Privacy Protection Act (”COPPA”), we use reasonable commercial efforts to adhere to the prohibition on the collection of personal information online from children under the age of thirteen (13) without first obtaining verifiable parental consent. At a minimum, the Company Site prohibits registration by, and will not knowingly collect personally identifiable information from, anyone under the age of thirteen (13). Company Site use and membership is void where prohibited by law.
 
@@ -22,7 +22,7 @@ The Company adheres to the Self-Regulatory Principles for Online Behavioral Adve
 
  **Registration**
 
-Certain features and services of the Company Site may require you to first complete a registration form and create a user name and password. During registration you are required to provide certain Personal Information. We may use this information to contact you about the services on our Site in which you have expressed interest. In addition to Personal Information collected for registration purposes, we may collect and store the following:
+Certain features and services of the Company Site may require you to first complete a registration form and create a username and password. During registration, you are required to provide certain Personal Information. We may use this information to contact you about the services on our Site in which you have expressed interest. In addition to Personal Information collected for registration purposes, we may collect and store the following:
 
 (a) your responses to the offerings and advertisements presented on the Site;
 
@@ -42,7 +42,7 @@ Certain features and services of the Company Site may require you to first compl
 
 (i) information from other companies, such as demographic and traffic data; and
 
-(j) other information from your interaction with our Site, services, content and advertising, including computer and/or mobile device connection and location information, browser type, statistics on page views, traffic to and from the Site, ad data, IP address and standard web log information.
+(j) other information from your interaction with our Site, services, content, and advertising, including computer and/or mobile device connection and location information, browser type, statistics on page views, traffic to and from the Site, ad data, IP address and standard web log information.
 
  **  Personally Identifiable Information We Collect About You **
 
@@ -66,7 +66,7 @@ The Company employs reasonable security measures consistent with standard indust
 
  **Web Beacons and Similar Technologies**
 
-The Company Site and our e-mail messages may contain a small graphic image called a web beacon that monitors and collects certain limited information about the viewer of the web page or e-mail message. Web beacons typically are very small (generally 1-by-1 pixel) and invisible to the user, but, in general, any electronic image viewed as part of a web page or e-mail message, including an advertisement or HTML content, can act as a web beacon. We may use web beacons or similar technologies for a number of purposes, including without limitation, to count visitors to our web pages or to monitor how our users navigate the Company Site, and we may include web beacons or similar technologies in e-mails in order to count how many e-mails (or particular articles, links, etc.) that we send are actually opened. Additionally, our advertising providers may use web beacons or similar technologies to personalize and measure the effectiveness of their advertisements using data gathered over time from users of the Company Site.  If you would like more information about the information collection practices of some of these third party advertising companies and to learn which of these companies allow you to opt out of this type of information collection, please click here.
+The Company Site and our e-mail messages may contain a small graphic image called a web beacon that monitors and collects certain limited information about the viewer of the web page or e-mail message. Web beacons typically are very small (generally 1-by-1 pixel) and invisible to the user, but, in general, any electronic image viewed as part of a web page or e-mail message, including an advertisement or HTML content, can act as a web beacon. We may use web beacons or similar technologies for a number of purposes, including without limitation, to count visitors to our web pages or to monitor how our users navigate the Company Site, and we may include web beacons or similar technologies in e-mails in order to count how many e-mails (or particular articles, links, etc.) that we send are actually opened. Additionally, our advertising providers may use web beacons or similar technologies to personalize and measure the effectiveness of their advertisements using data gathered over time from users of the Company Site.  If you would like more information about the information collection practices of some of these third-party advertising companies and to learn which of these companies allow you to opt out of this type of information collection, please click here.
 
  **IP Address and Log Files**
 
@@ -80,7 +80,7 @@ When you are visiting the Company Site, certain content may be served directly b
 
  **Applications and Websites**
 
-The Company does not own or operate certain applications or websites (e.g., games or tools) accessible through the Company Site.  As a result, when you use these third party applications or websites, we may share your information along with the location of your computer or mobile device to enable your use of such services and for age verification and security purposes, among other purposes.  For example, the Company may offer you the option to connect your member profile and activity on the Company Site with certain third party services such as Facebook, Foursquare or Twitter (“Third Party Services”).  When you consent to publish your information or activity on the Company Site to any Third Party Services, such information will be viewable by the communities on such Third Party Services and may be used by such Third Party Services in accordance with their posted privacy practices.  Similarly, if another member in your friend list uses a third party application or website, it may receive your non-private member information so that you may be separately linked with your friend.  If the application or website seeks any further information, your consent should be requested.  We cannot guarantee that such applications or websites will follow our privacy practices, so we encourage you to always review their information sharing policies and to report any application or website that may be in violation of our privacy practices.
+The Company does not own or operate certain applications or websites (e.g., games or tools) accessible through the Company Site.  As a result, when you use these third-party applications or websites, we may share your information along with the location of your computer or mobile device to enable your use of such services and for age verification and security purposes, among other purposes.  For example, the Company may offer you the option to connect your member profile and activity on the Company Site with certain third-party services such as Facebook, Foursquare or Twitter (“Third Party Services”).  When you consent to publish your information or activity on the Company Site to any Third Party Services, such information will be viewable by the communities on such Third Party Services and may be used by such Third Party Services in accordance with their posted privacy practices.  Similarly, if another member in your friend list uses a third party application or website, it may receive your non-private member information so that you may be separately linked with your friend.  If the application or website seeks any further information, your consent should be requested.  We cannot guarantee that such applications or websites will follow our privacy practices, so we encourage you to always review their information sharing policies and to report any application or website that may be in violation of our privacy practices.
 
  **Online Shopping Services**
 
@@ -88,7 +88,7 @@ Company Site may offer shopping services either directly or through a partner th
 
  **Other Third Parties**
 
-Our employees, agents and contractors must have a “need-to-know” business reason to obtain access to your Personal Information. We may share your Personal Information with those who help us manage or provide content or other services for the Company Site (e.g., forum administration, order fulfillment, statistical analyses, data processing), or with outside contractors, agents or sponsors who help us with the administration, judging and prize fulfillment aspects of contests, promotions and sweepstakes. Such outside contractors, agents or sponsors may temporarily store some information on their servers, but they may only use your Personal Information to provide the Company Site with a specific service and not for any other purpose. We may also provide your Personal Information to a third party where you have chosen to receive certain information and have been notified that the fulfillment of such a request requires sharing your Personal Information. We also may share your Personal Information with any affiliated companies and partners if we have a business reason to do so.
+Our employees, agents and contractors must have a “need-to-know” business reason to obtain access to your Personal Information. We may share your Personal Information with those who help us manage or provide content or other services for the Company Site (e.g., forum administration, order fulfillment, statistical analyses, data processing), or with outside contractors, agents or sponsors who help us with the administration, judging and prize fulfillment aspects of contests, promotions, and sweepstakes. Such outside contractors, agents or sponsors may temporarily store some information on their servers, but they may only use your Personal Information to provide the Company Site with a specific service and not for any other purpose. We may also provide your Personal Information to a third party where you have chosen to receive certain information and have been notified that the fulfillment of such a request requires sharing your Personal Information. We also may share your Personal Information with any affiliated companies and partners if we have a business reason to do so.
 
  **BlackDoctor eNewsletters**
 
@@ -98,7 +98,7 @@ Opt Out: You can unsubscribe from the newsletters by simply clicking on the “u
 
  **BlackDoctor.org Email A Friend**
 
-When you use BlackDoctor.org’s “Email a Friend,” BlackDoctor.org emails the article or other content you designate to your friend’s email address and identifies your email address as the sender. BlackDoctor.org uses the friend’s email address to send your friend the particular email you requested.  Such information may be collected and stored to send such articles or other content.  Your friend may contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) to request that we remove this information from our records.
+When you use BlackDoctor.org’s “Email a Friend,” BlackDoctor.org emails the article or other content you designate to your friend’s email address and identifies your email address as the sender. BlackDoctor.org uses the friend’s email address to send your friend the particular email you requested.  Such information may be collected and stored to send such articles or other content.  Your friend may contact feedback@blackdoctor.org to request that we remove this information from our records.
 
  **Message Boards and other Public Forums**
 
@@ -118,10 +118,14 @@ We may access or disclose your Personal Information without your consent in orde
 
  **If Abuse Occurs**
 
-Although we make every effort to ensure that our e-mail list is safe, the Internet is such that we cannot guarantee that our list is invulnerable to attacks. If you believe there has been a breach of our security, please contact us at once at [email protected] **.**
+Although we make every effort to ensure that our e-mail list is safe, the Internet is such that we cannot guarantee that our list is invulnerable to attacks. If you believe there has been a breach of our security, please contact us at once at [feedback@blackdoctor.org](mailto:feedback@blackdoctor.org).
 
  **CONTACTING US**
 
-If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us any time by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#fa989e959f9e938e9588ba98969b99919e95998e9588d495889d).
+If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us any time by email at [feedback@blackdoctor.org](mailto:feedback@blackdoctor.org)[ ](mailto:feedback@blackdoctor.org)or by mail at:
 
-Last revised March 19, 2012
+309 W. Washington, Suite 250
+
+Chicago, IL 60606
+
+Last revised October 31, 2018
