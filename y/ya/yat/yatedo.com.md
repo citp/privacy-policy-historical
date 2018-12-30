@@ -1,124 +1,129 @@
-> *The following text is extracted and transformed from the yatedo.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613072904id_/http%3A//about.yatedo.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yatedo.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230020513id_/http%3A//about.yatedo.com/en/privacy-policy) for the most accurate reproduction.*
 
-# About Yatedo - Policy
+# About Yatedo - Privacy Policy
 
 ## 1\. Treatment manager and delegate for the protection of personal data
 
-The person who processes your personal data is:
+The person who treats your personal data is:
 
-Yatedo France, 54 rue de Paradis, 75010 Paris. Yatedo has for legal representative Amyne Berrada.
+Yatedo France, 54 rue de Paradis, 75010 Paris. Yatedo company has for legal representative Amyne Berrada.
 
 The Data Protection Officer (DPO) of Yatedo is:
 
 Matthieu Mélin, Astura, 26 avenue George V, 75008 Paris.
 
-## 2. Purposes and legal basis of the treatment
+## 2\. Purposes and legal basis of the treatment
 
-Yatedo collects some of your personal data made publicly available on the internet and indexes it as a profile in order to publish a paid people search engine entitled “Yatedo Talent”, made available to its customers (the « Users ») for recruitment purposes.
+Yatedo collects some of your personal data made publicly available on the Internet and indexes them in the form of a profile in order to provide a subscription based people search engine service called «  **Yatedo Talent**  » to its customers («  **Users**  ») for recruitment purposes.
 
-Yatedo’s treatment is within the scope of Article 6.1 (f) of the Regulations 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of personal data (« GDPR»), under which treatment is lawful if it is necessary for the legitimate interests pursued by the controller.
+The processing carried out by Yatedo thus falls under article 6.1 (f) of Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of personal data («  **GDPR**  »), pursuant to which personal data processing is lawful if it is necessary for the purpose of the legitimate interests pursued by the controller.
 
-## 3\. Personal data collected and sources
+## 3\. Collected personal data and sources
 
 ### 3.1. Personal data we collect from Source Sites
 
-Yatedo collects your personal data from publicly available information on the internet. This may include information on publicly accessible sites such as Wikipedia, CNN and Les Echos or information that you made publicly accessible by creating an account on social networks such as Facebook, LinkedIn, Viadeo, Twitter (« Source Sites »).
+Yatedo collects your personal data from information made publicly available on the Internet. This may include information on publicly available websites, such as Wikipedia, CNN or les Echos, or information you made publicly available by creating an account on social networks, including Facebook, LinkedIn, Viadeo, Twitter («  **Sources Websites**  »).
 
-The categories of personal data processed by Yatedo, to the extent that these are made publicly available on the internet, are the following:
+The types of personal data processed by Yatedo are the following, to the extent they are made publicly available on the Internet:
 
-  * Personal data relating to your identity, which include if needed: your name, first name, telephone number, email address, postal address.
-  * Personal data relating to your professional life, which include if needed: your curriculum vitae (CV), academic background, professional training, academic or professional distinctions, as well as your place of work.
+  * _personal data related to your identity, including, as the case may be_ : name, first name, phone number, e-mail address, mailing address;
+  * _personal data related to your professional life, including, as the case may be_ : curriculum vitae (CV), academic background, professional education, academic or professional honors, and workplace.
 
 
 
-Yatedo might also incidentally and non-voluntarily collect sensitive personal data (as information about your union membership, political opinions, religious beliefs or sexual orientation) if they are publicly available on the internet and filled in fields of the source site in connection with your training or your professional activity.
+Yatedo might also collect incidentally and unintentionally some sensitive data (relating, for instance, to your trade union membership, your political opinions, your religious beliefs or your sexual orientation) if such data are made publicly available on the Internet and are set out in some fields related to your education or professional activity of Sources Websites.
 
-### 3.2. Personal data that you transmit to us in the exercise of your rights
+### 3.2. Personal data you transfer to us when exercising your rights
 
-When exercising your rights of access, rectification, deletion, limitation or opposition in accordance with Article 5 of this Privacy Policy, Yatedo will collect your email address, last name, first name and ID so that Yatedo can verify your identity and respond appropriately to your request.
+If you exercise your rights of access, rectification, erasure, restriction or to object as set out under article 5 of this Privacy Policy, Yatedo will collect your e-mail address, name, first name and ID so as to check your identity and satisfy your request in an appropriate way.
 
-## 4. Recipients of your personal data
+## 4\. Recipients of your personal data
 
-Yatedo communicates your personal data to Yatedo Talent Users and its technical service providers.
+Yatedo discloses your personal data to Yatedo Talent Users and to its technical services suppliers.
 
-## 5. Your rights
+## 5\. Your rights
 
-As a search engine, Yatedo only reproduces your personal data made publicly available on the internet, presenting them in the form of profiles.
+As a search engine, Yatedo only reproduces your personal data made publicly available on the Internet by presenting them in the form of a profile.
 
 You have the right to:
 
-  * ask Yatedo the access to your personal data  ;
-  * ask Yatedo the rectification to your personal data ;
-  * ask Yatedo a limitation to the processing of your personal data ;
-  * ask Yatedo the removal of your personal data ;
-  * to oppose at any time the processing of your personal data by Yatedo, for reasons related to your particular situation its remoaval, or a limitation of the treatment of your personal data.
+  * ask Yatedo to access your personal data;
+  * ask Yatedo to rectify your personal data;
+  * ask Yatedo to restrict the processing of your personal data;
+  * ask Yatedo to erase your personal data;
+  * object, on grounds relating to your particular situation, at all time, to the processing of your personal data by Yatedo.
 
 
 
-### 5.1 Access rights and limitation
+### 5.1 Right of access and right to restriction
 
-You can exercise these rights by sending an email to privacy@yatedo.com, stating your name and surname and enclosing an identity card.
+To exercise these rights, please send an email to [privacy@yatedo.com](mailto:privacy@yatedo.com) providing your name, first name, and attaching a copy of your ID.
 
-In accordance with Article 12.5 of the GDPR, Yatedo may refuse to grant your request if it is manifestly unfounded or excessive.
+According to article 12.5 of the GDPR, if requests are manifestly unfounded or excessive, Yatedo may refuse to act on it.
 
-### 5.2 Right of rectification
+### 5.2 Right to rectification
 
-As a search engine, Yatedo only replicates the information you have made public in the profiles of other social networks and information about you on publicly accessible websites.
+As a search engine, Yatedo only reproduces the information you made publicly available through social networks profiles and information about yourself published on publicly available websites.
 
-In order to change the information about you that is collected by Yatedo from the source sites, you can, depending on the case:
+In order to rectify your personal data that have been collected by Yatedo from Sources Websites, you may:
 
-  * if the information is linked to a social network on which you are registered: rectify your information directly on the social network in question so that Yatedo reindexes your profile up to date ;
-  * if the information is linked to a website or a blog : 
-    * ask directly to the editor of the website or the blog containing the information you want to modify to delete or modify the information, or make a request to Yatedo for a dereference by sending an email to privacy@yatedo.com so that the link to the website or blog in question no longer appears on the page linked to your Yatedo profile.
-
-
-
-### 5.3 Right of objection and cancellation
-
-You have the right to (i) oppose at any time the processing of your personal data by Yatedo, for reasons related to your particular situation and / or (ii) request the removal of your personal data processed by Yatedo.
-
-You can exercise these rights by sending an email to privacy@yatedo.com or with the dereferencing form at the following address: https://www.yatedo.com/index/senddeleterequest.
-
-In order to identify you, we will ask you to give us your last name, first name, email address and to submit your identity document in digital form.
-
-As a search engine, Yatedo will likely reindex your profile if future links related to your education, professional activity, or career become publicly available on the internet.
-
-In accordance with Article 12.5 of the GDPR, Yatedo may refuse to give right to your request if it is manifestly unfounded or excessive.
-
-### 5.4 Right of complaint
-
-You have the possibility to lodge a complaint with the National Computers and Privacy Commission, supervisory authority responsible for the protection of personal data.
-
-### 5.5 Right to set guidelines on the fate of your data after your death
-
-In accordance with Article 40-1 de la Loi informatique et libertés n°78-17 of January 6, 1978 amended, you can define the guidelines for storing, deleting or communicating your personal data after your death. If it concerns general instructions concerning all your personal data, these can be registered with a digital trusted third party certified by National Computers and Privacy Commission (CNIL). If it concerns particular directives concerning the personal data collected by Yatedo, these are registered with the latter. You can change or revoke your instructions at any time.
-
-## 6. Shelf life of your personal data
-
-### 6.1. Personal data we collect from source sites
-
-Your personal data that we collect from the source sites is kept:
-
-  * Until your personal data are no longer publicly available on the internet:
+  * _if the information comes from a social network you are registered in_ : rectify the information by yourself directly on the social network, so that Yatedo can update your profile according to the modifications you made;
+  * _if the information comes from a website or a blog:_
+    * request the rectification or erasure of the information directly to the publisher of the website or blog on which the information appears, or
+    * request the search engine Bing to delist the link leading to the website or blog concerned so that it will no longer appear on the Yatedo page linked to your profile.
 
 
 
-If your personal data are no longer publicly available on the internet, they will be kept in Yatedo’s database until one of it’s robots that travels the internet to collect publicly accessible data removes them from it’s database as part of an update.
+### 5.3 Right to objection and right to erasure
 
-In all cases, Yatedo’s robots are configured so that Yatedo Talent Users do not have access to your profile on Yatedo Talent if your personal data are no longer publicly accessible.
+You have the right to (i) object at any time, on grounds relating to your particular situation, to the processing by Yatedo of your personal data and/or (ii) obtain from Yatedo the erasure of your personal data.
 
-  * Either until you ask for your profile to be deleted in Yatedo:
+To exercise these rights, please send an email to [privacy@yatedo.com](mailto:privacy@yatedo.com). You may also fill in the delisting form at the following address : <https://www.yatedo.com/index/senddeleterequest>.
+
+For identification purposes, you will be asked your name, first name, e-mail address and to attach a scan of your ID.
+
+As a search engine, Yatedo may index again your profile in the event new links related to your education, your professional activity or your career become publicly available on the Internet.
+
+Pursuant to article 12.5 of the GDPR, if your requests are manifestly unfounded or excessive, Yatedo may refuse to act on it.
+
+### 5.4 Right to lodge a complaint
+
+You have the right to lodge a complaint with the « Commission Nationale de l’Informatique et des Libertés » («  **CNIL**  »), the French Data Protection Authority.
+
+### 5.5 Right to set guidelines concerning the management of your data after your death
+
+Pursuant to article 40-1 of the French data protection Act of 6 January 1978 (“ _Loi informatique et libertés_ ”), you have the right to set guidelines concerning the storage, the erasure or the disclosure of your personal data after your death.
+
+If you provide general instructions on all your personal data, they may be registered by a digital trusted third-party certified by the CNIL.
+
+If you provide specific instructions on personal data collected by Yatedo, they will be registered with the latter.
+
+You can rectify or repeal your instructions at any time.
+
+## 6. The period for which the personal data will be stored
+
+### 6.1. Personal data we collect from Source Websites
+
+Your personal data, collected from Sources Websites, are stored:
+
+  * **either until your personal data are no longer publicly available on the Internet:** if so, they will be stored in Yatedo’s database until one of its web crawlers delete them as part of an update.
 
 
 
-In case you request the removal of your personal data, Yatedo keeps the URL address of the site(s) source to make sure that your profile will not be re-referenced in Yatedo Talent.
+Yatedo’s web crawlers are set so that Yatedo Talent Users cannot access your profile on Yatedo Talent if your personal data are no longer publicly available;
 
-### 6.2. Personal data that you transmit to us in the exercise of your rights
+  * **or until you ask Yatedo to erase your profile:** if so, Yatedo will store the Sources Websites URL to make sure not to index your profile anymore on Yatedo Talent.
 
-When exercising your rights of access, rectification, deletion, limitation or opposition in accordance with Article 5 of this Privacy Policy, Yatedo will collect your email address, last name, first name and ID for a period of 5 years from the date of your request in order to prove within the statutory limitation period that it has complied with its obligations.
 
-## 7. Transfer of personal data
+
+### 6.2.Personal data you transfer to us when exercising your rights
+
+When you exercise your rights of access, rectification, erasure, restriction or to object as set out under article 5 of this Privacy Policy, Yatedo will store your e-mail address, name, first name and ID for a period of 5 years starting from your request so that it can prove the fulfillment of its obligations during applicable statute of limitations.
+
+## 7\. Transfer of personal data
 
 Yatedo’s databases are hosted in the European Union.
 
-However, the Yatedo Talent service is likely to be used by a User located in a third country in the European Economic Area. If the third country has not been the subject of an appropriate level of protection by the European Commission in accordance with Article 45 of the GDPR, Yatedo and his client sign standard contractual clauses in application of article 46 of the RGPD to cover the transfer of personal data. You can obtain a copy of these standard contractual clauses by contacting us at the following address: privacy@yatedo.com.
+However, Yatedo Talent service may be used by a User who is not located in a EEA country. If such third-country has not been granted an adequacy decision by the European Commission as stated by article 45 of the GDPR, Yatedo and its client will sign standard contractual clauses according to article 46 of the GDPR to cover the transfer of personal data.
+
+You can get a copy of these standard contractual clauses by contacting us at the following address: [privacy@yatedo.com](mailto:privacy@yatedo.com).
