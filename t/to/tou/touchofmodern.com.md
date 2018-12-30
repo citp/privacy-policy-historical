@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the touchofmodern.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624150024id_/https%3A//www.touchofmodern.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the touchofmodern.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230143114id_/https%3A//www.touchofmodern.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Touch of Modern
 
@@ -94,16 +94,16 @@ You are able to add or update certain information on pages, such as those listed
 
 **What choices do I have to opt-out?**
 
-  * You may request deletion of your TouchOfModern account by sending an e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#9df5f8f1f1f2dde9f2e8fef5f2fbf0f2f9f8eff3b3fef2f0). Please note that some information may remain in our records after deletion of your account.
+  * You may request deletion of your TouchOfModern account by sending an e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2c44494040436c5843594f44434a414348495e42024f4341). Please note that some information may remain in our records after deletion of your account.
   * If you do not wish to receive email or other mail from us, please indicate this by changing your account settings or by unsubscribing to our mailing list. Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Website, and you are responsible for reviewing such legal notices for changes.
-  * To opt-out of receiving online display advertisements tailored to your interests by our third party partners and of third party cookies, visit the Network Advertising Initiative at [www.networkadvertising.org/choices](https://web.archive.org/web/20180624150024id_/https%3A//www.touchofmodern.com/www.networkadvertising.org/choices) and Digital Advertising Alliance at <http://www.aboutads.info/choices>.
+  * To opt-out of receiving online display advertisements tailored to your interests by our third party partners and of third party cookies, visit the Network Advertising Initiative at [www.networkadvertising.org/choices](https://web.archive.org/web/20181230143114id_/https%3A//www.touchofmodern.com/www.networkadvertising.org/choices) and Digital Advertising Alliance at <http://www.aboutads.info/choices>.
   * To opt-out of the use of your mobile device ID for targeted advertising, please see <http://www.aboutads.info/appchoices>.
 
 
 
 **Your California Privacy Rights**
 
-California residents may request and obtain from us, once a year, free of charge, a list of third parties, if any, to which we disclosed their personal information for direct marketing purposes during the preceding calendar year and the categories of personal information shared with those third parties. If you are a California resident and wish to obtain that information, please submit your request by sending us an email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#472f222b2b2807332832242f28212a28232235296924282a) with “California Privacy Rights” in the subject line or by writing to us at TouchOfModern, Inc., d/b/a Touch of Modern, 1025 Sansome St, San Francisco, California 94111 and 415-230-0750.
+California residents may request and obtain from us, once a year, free of charge, a list of third parties, if any, to which we disclosed their personal information for direct marketing purposes during the preceding calendar year and the categories of personal information shared with those third parties. If you are a California resident and wish to obtain that information, please submit your request by sending us an email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#771f121b1b1837031802141f18111a18131205195914181a) with “California Privacy Rights” in the subject line or by writing to us at TouchOfModern, Inc., d/b/a Touch of Modern, 1025 Sansome St, San Francisco, California 94111 and 415-230-0750.
 
 **Changes to this privacy policy**
 
@@ -111,6 +111,6 @@ TouchOfModern may amend this Privacy Policy from time to time. Use of informatio
 
 **Questions or concerns**
 
-If you have any questions or concerns regarding privacy on our Website, please send us a detailed message at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a6cec3cacac9e6d2c9d3c5cec9c0cbc9c2c3d4c888c5c9cb) or write to us at TouchOfModern, Inc., d/b/a Touch of Modern, 1025 Sansome St, San Francisco, California 94111 . We will make every effort to resolve your concerns.
+If you have any questions or concerns regarding privacy on our Website, please send us a detailed message at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4c24292020230c3823392f24232a212328293e22622f2321) or write to us at TouchOfModern, Inc., d/b/a Touch of Modern, 1025 Sansome St, San Francisco, California 94111 . We will make every effort to resolve your concerns.
 
 Effective Date: August 23rd, 2017
