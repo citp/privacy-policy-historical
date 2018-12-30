@@ -1,190 +1,198 @@
-> *The following text is extracted and transformed from the marketlinx.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608043049id_/http%3A//www.corelogic.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketlinx.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230234224id_/https%3A//www.corelogic.com/privacy.aspx) for the most accurate reproduction.*
 
-# CoreLogic - Privacy Policy and European Union Safe Harbor Privacy Policy
+# CoreLogic - Privacy Policy
 
-Last Updated May 19, 2015
+## CoreLogic Privacy Policy
 
-**Privacy Policy**
+In this Website Privacy Policy, CoreLogic, Inc. and our affiliates (collectively, “ **CoreLogic** ” or “ **we** ”), provide information about how we use, collect and transfer personally identifiable data from visitors to our websites (collectively the " **Website** ") and users of our services.
 
-In this Website Privacy Policy, CoreLogic, Inc. and our affiliates (collectively, “CoreLogic” or “we”), provide information about how we use, collect and transfer personally identifiable data from website visitors to [www.corelogic.com](http://www.corelogic.com/), and other websites that we operate and for which we provide a link to this Privacy Policy (collectively the "Website").
+Additional information for users located in the European Economic Area (“ **EEA** ”), Switzerland and the UK about their rights and other information can be found in the Annex to this Privacy Policy.
 
-**Scope**
+**1\. Scope**
 
 This Privacy Policy covers only data collected through the Website and not any other data collection or processing, including, without limitation, data collection practices of other websites to which we link or data that we or our subsidiaries or affiliates collect offline or through websites, products, or services that do not display a direct link to this Privacy Policy.
 
-**Collection, Use, and Sharing of Data**
+**2\. Collection, Use, and Sharing of Data**
 
-CoreLogic collects information from visitors of the Website, including the domain names, IP and MAC addresses, browser types, and unique device identifiers of such visitors. This information includes the number of visits, average time spent on the Website, pages viewed and similar information. This information may also include usage information about the page-by-page paths you take as you browse through the Website. CoreLogic uses this information to measure the use of the Website and to develop ideas to improve the content of the Website. For more information regarding CoreLogic’s use of this information, please see the sections on “Cookies and Other Tracking Technologies” and “Analytics” below.
+**_2.1 Browser and device information_**
 
-There are times, however, when we may need additional information from you, including personal information that may be used to identify you. This information includes items such as your name, address, telephone number, and email address. The information we collect is typically used by us to respond to your inquiry, process an order or allow you to access specific account/profile information. We may also use your personal information to: improve the Website or CoreLogic products and services; customize your experience with the Website, or to serve you specific content that is relevant to you; contact you regarding your use of the Website and, in our discretion, changes to our policies; provide you with Website-related notices; send you advertisements for CoreLogic products and services; and for purposes disclosed elsewhere in this Privacy Policy, at the time you provide your personal information, or with your consent. If you choose to share any personal information with us, we will use it in accordance with this Privacy Policy.
+CoreLogic collects information from visitors of the Website, including the domain names, IP and MAC addresses, browser types, and unique device identifiers of such visitors. This information includes the number of visits, average time spent on the Website, pages viewed and similar information. This information may also include usage information about the page-by-page paths you take as you browse through the Website. CoreLogic uses this information to measure the use of the Website and to develop ideas to improve the content of the Website. For more information regarding CoreLogic’s use of this information, please see the sections on “Cookies and Other Tracking Technologies” and “Analytics” below. We may combine such information with information provided by you.
 
-We collect nonpublic personal information about you from the following sources:
+**_2.2 Personal information provided by you_**
 
-  * Information we receive from you on Website forms and in other communications;
-  * Information about your transactions with us, our affiliated companies, or others; and
-  * Information we receive from third-parties (if we receive personal information from a third party source and/or if we combine the information we receive from these third party sources with your personal information, we will treat that information as personal information. We are not responsible for the accuracy of the information provided by third-parties or how such third-parties collect, use and share such information).
+There are times, however, when we may need additional information from you, including personal information that may be used to identify you. This information includes items such as your name, address, telephone number, and email address. The information we collect is typically used by us to respond to your inquiry, process an order or allow you to access specific account/profile information.
 
+**_2.3 Information from third parties_**
 
+We may receive information about you from third-parties such as social networks (subject to the user's privacy settings and the privacy policy of the social network), service providers which allow us to verify, enhance or supplement your information, and business partners to whom we are offering a service. We are not responsible for third-party use of information.
 
-We may store your information indefinitely, including the period after which any customer relationship has ceased. Such information may be used for any internal purpose, such as quality control efforts or customer analysis.  
-We may, in our sole discretion, share with third-parties information that is not associated with your name or identity, such as Website usage information, non-personally identifiable demographic information, and aggregate user statistics.   
-We may share your personal information with nonaffiliated third-parties as necessary for us to provide the product or service you or your lender/service provider have requested of us, as permitted by law, with third party service providers so that they may perform certain services for us, or as otherwise specified herein. Such disclosures may include situations in which we are required to respond to subpoenas or other legal process, or are responding to the request of governmental authorities conducting an investigation.   
-We may also provide all of the types of nonpublic personal information listed above to one or more of our affiliated companies.   
-It is possible that CoreLogic, its subsidiaries, affiliates, joint venture companies, or any combination of them, could merge with or be acquired by another legal entity. In such event, or in the event of any other proposed or actual purchase, sale (including a liquidation, realization, foreclosure or repossession), lease, merger, amalgamation or any other type of acquisition, disposal, transfer, conveyance or financing of all or any portion of CoreLogic or of any of the business or assets or shares of CoreLogic or a subsidiary or division thereof, CoreLogic may share your information with third-parties. Furthermore, we may also provide all the information we collect, as described above, to companies that perform marketing services on our behalf, on behalf of our affiliated companies or to other financial institutions with which we or our affiliated companies have joint marketing agreements. In some circumstances, we will request your consent to share your information with nonaffiliated third parties, such as lenders, realtors, and insurers, so that they may offer you products and services that may be of interest to you. ****  
- **Cookies and Other Tracking Technologies**
+**_2.4 How do we use your information?_**
 
-The Website uses “cookie” technology to measure Website activity and to collect information such as browser type, time spent on the Website, pages visited and other information about your visit to the Website. Cookies are also used to prefill information previously entered into forms and to customize information to your personal tastes. A cookie is an element of data that an Internet site can send to your browser. Cookies are stored on your computer. We may share information about you that we collect through a cookie with third-parties who help us analyze Website data. 
+If you choose to share any personal information with us, we will use it in accordance with this Privacy Policy and applicable law. We may use your personal information to: improve the Website or CoreLogic products and services; customize your experience with the Website, or to serve you specific content that is relevant to you; contact you regarding your use of the Website and, in our discretion, changes to our policies; provide you with Website-related notices; send you advertisements and marketing for CoreLogic products and services in accordance with the law; to notify you about changes to our Websites and services; send you service notices; deal with enquiries and complaints; comply with any legal or regulatory requirements and otherwise to any respond to any relevant regulator or competent authority as required by law; understand user trends and patterns; for business administration; and for purposes disclosed elsewhere in this Privacy Policy, at the time you provide your personal information, or with your consent. We may also use information for any internal purpose, such as quality control efforts or customer analysis.
 
-If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to automatically decline cookies or be given the choice of declining or accepting the transfer to your computer of a particular cookie (or cookies) from a particular site.  You may also wish to refer to: <http://www.allaboutcookies.org/manage-cookies/index.html>.  If, however, you do not accept our cookies, you may experience some inconvenience in your use of the Website.    
-We may also include small graphic images called web beacons, also known as "Internet tags" or "clear gifs," in our web pages and email messages. We may use web beacons or similar technologies for a number of purposes, including, without limitation, to count the number of visitors to the Website, to monitor how users navigate the Website, and to count how many emails that we sent were actually opened or how many particular articles or links were actually viewed.  
-We may also use embedded scripts on the Website. An embedded script is programming code that is designed to collect information about your interactions with the Website. It is temporarily downloaded onto your computer from our web server or a third party with whom we work, is active only while you are connected to the Website, and is deleted or deactivated thereafter.  
-Automatically-collected information about you, such as how you interact with the Website, may be combined with your personal information. If we associate any such automatically-collected information with personal information about you, we will treat the combined information as personal information.  
- ****  
- **Analytics**  
-We may use third party analytics service providers, including but not limited to Google Analytics, to evaluate and provide us with information about the use of the Website. These third-parties use cookies, web beacons, pixels, embedded scripts and other, similar technologies to automatically collect information about your Website use, report Website trends, and help us compile Website metrics.  This Privacy Policy does not cover any use of information that such third-parties themselves may have collected from you. You can learn about Google’s specific practices by going to [www.google.com/policies/privacy/‌partners/](http://www.google.com/policies/privacy/partners/), and you can opt out of Google Analytics by downloading the Google Analytics opt-out browser add-on, available at: <https://tools.google.com/dlpage/gaoptout>. 
+**_2.5 Retention of information_**
 
-These and other third-parties may also collect personal information about your online activities over time and across different websites when you use the Website.
+We may store your information for as long as it is required for our business purposes, including the period after which any customer relationship has ceased.
 
-**Social Features.**
+**_2.6 Sharing of information_**
 
-Certain functionality on the Website may permit interactions that you initiate between the Website and a third party website or service (“Social Features”). If you choose to use Social Features, information you post or provide access to may be publicly displayed by the provider of the Social Feature that you use. Similarly, if you post information on a third party platform that references the Website (e.g., by using a hashtag associated with CoreLogic in a tweet or status update), your post may be published on the Website in accordance with the terms of the third party website or service. Also, both CoreLogic and the third party may have access to certain information about you and your use of the Website and the third party site or service. The information we collect in connection with Social Features is subject to this Privacy Policy. The information collected and stored by the third party remains subject to the third party’s privacy practices.
+We will only share your information with third parties in accordance with applicable law.
 
-**Website Security**
+We may share with third-parties information that is not associated with your name or identity, such as Website usage information, non-personally identifiable demographic information, and aggregate user statistics in accordance with applicable law. 
 
-We maintain reasonable safeguards to help secure personal information that is disclosed to CoreLogic via the Website. We maintain appropriate physical, electronic, and procedural safeguards to help guard your personal information. We provide information to our subsidiaries, affiliated companies, and other businesses or persons for the purposes of processing such information on our behalf, some or all of which may store your information on servers located outside of the United States.
+We may share your personal information with non-affiliated third-parties as necessary for us to provide the product or service you or your lender/service provider have requested of us, as permitted by law, with third party service providers so that they may perform certain services for us, or as otherwise specified herein. Such disclosures may include situations in which we are required to respond to subpoenas or other legal process, or are responding to the request of governmental authorities conducting an investigation. 
 
-**California Privacy Rights**
+We may also provide all of the types of non-public personal information listed above to one or more of our affiliated companies in connection with our services and other business purposes. 
 
-When California customers provide personal information to a business, they have the right to request certain disclosures if that business shares personal information with third parties for the third parties' direct marketing purposes. Once per calendar year the customer may request that the business provide a list of companies with which it shares personal information for those companies' direct marketing purposes, and a list of the categories of personal information that the business shares. CoreLogic generally does not sell products or services directly to individual California consumers. However, if we engage in such contact, you may request information about our compliance with this law by contacting us at:
+It is possible that CoreLogic, its subsidiaries, affiliates, joint venture companies, or any combination of them, could merge with or be acquired by another legal entity. In such event, or in the event of any other proposed or actual purchase, sale (including a liquidation, realization, foreclosure or repossession), lease, merger, amalgamation or any other type of acquisition, disposal, transfer, conveyance or financing of all or any portion of CoreLogic or of any of the business or assets or shares of CoreLogic or a subsidiary or division thereof, CoreLogic may share your information with third-parties.
 
-Stephanie Rumph  
-Chief Compliance Officer  
-1 CoreLogic Drive  
-Westlake, TX  
-[srumph@corelogic.com](mailto:srumph@corelogic.com)
+Furthermore, and subject to your consent where required by law, we may also provide all the information we collect, as described above, to companies that perform marketing services on our behalf, on behalf of our affiliated companies or to other financial institutions with which we or our affiliated companies have joint marketing agreements. In some circumstances, we will request your consent to share your information with nonaffiliated third parties, such as lenders, realtors, and insurers, so that they may offer you products and services that may be of interest to you.
+
+**3\. Cookies and Other Tracking Technologies**
+
+The Website uses “cookie” technology to measure Website activity and to collect information such as browser type, time spent on the Website, pages visited and other information about your visit to the Website. Cookies are also used to prefill information previously entered into forms and to customize information to your personal tastes. A cookie is an element of data that an Internet site can send to your browser. Cookies are stored on your computer. We may share information about you that we collect through a cookie with third-parties who help us analyze Website data, in accordance with the law. 
+
+On our Website we use the following types of cookies:
+
+**(a) Strictly necessary cookies** \- These cookies are essential to enable the user to navigate around the Website securely and to provide the user with services they have specifically requested.
+
+**(b) Functionality cookies** \- These cookies enhance the functionality of the Website by storing user preferences. For instance, they can remember your name and location, if you provide this information and the types of content you are interested in.
+
+**(c) Performance cookies** \- These cookies improve the performance of the Website. For instance, they help pages load quicker.
+
+**(d) Analytics cookies** \- We may use third party analytics services such as Google Analytics and others. Your IP address and other information will be collected by automated means to report on your use of the services. For more information about how Google Analytics uses your information please click [here](https://support.google.com/analytics/answer/6004245).
+
+If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to automatically decline cookies or be given the choice of declining or accepting the transfer to your computer of a particular cookie (or cookies) from a particular site. If, however, you do not accept our cookies, you may experience some inconvenience in your use of the Website.  
+
+We may also include small graphic images called web beacons, also known as "Internet tags" or "clear gifs," in our web pages and email messages. We may use web beacons or similar technologies for a number of purposes, including, without limitation, to count the number of visitors to the Website, to monitor how users navigate the Website, and to count how many emails that we sent were actually opened or how many particular articles or links were actually viewed.
+
+We may also use embedded scripts on the Website. An embedded script is programming code that is designed to collect information about your interactions with the Website. It is temporarily downloaded onto your computer from our web server or a third party with whom we work, is active only while you are connected to the Website, and is deleted or deactivated thereafter.
+
+**4\. Analytics**
+
+We may use third party analytics service providers, including but not limited to Google Analytics, to evaluate and provide us with information about the use of the Website. These third-parties use cookies, web beacons, pixels, embedded scripts and other, similar technologies to automatically collect information about your Website use, report Website trends, and help us compile Website metrics.  You can learn about Google’s specific practices by going to [www.google.com/policies/privacy/‌partners/](http://www.google.com/policies/privacy/partners/).
+
+We use Google Analytics Advertising Features with Google Signals, which includes Remarketing with Google Analytics, Google Display Network Impression Reporting, and Google Analytics Demographics and Interests Reporting to advertise online. Google Signals provides insight into cross-device user journeys and allows us to remarket to signed-in Google users across devices. Websites and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone’s past visits to a website.
+
+**5\. Opt-out**
+
+If you would like us to stop sending you marketing communications you may use the opt-out link set out below or the unsubscribe link in our marketing communications. Although we encourage you to use the opt-out link because it is automated, you may also contact us.
+
+**_5.1 Opt-out Contacts_**
+
+If you, or another user of your device, wish to withdraw your cookies consent at any time, you have the ability to accept or decline cookies by modifying your browser setting. You may also go to [www.allaboutcookies.org](http://www.allaboutcookies.org/) or [www.youronlinechoices.eu](http://www.youronlinechoices.eu/) if you are in Europe, or to [www.aboutads.info/choices](http://www.aboutads.info/choices/) if you are anywhere else for instructions on how to disable cookies. You may opt-out from Google Analytics [here](https://tools.google.com/dlpage/gaoptout/) or by downloading the Google Analytics opt-out browser add-on, available at: <https://tools.google.com/dlpage/gaoptout>. In some instances, when you opt-out, a new cookie ( **Opt-Out-Cookie** ) is placed in your web browser. This tells the third party provider to cease data collection from your browser and prevents advertisements from being delivered to you.
+
+**6\. Social Features**
+
+Certain functionality on the Website may permit interactions that you initiate between the Website and a third party website or service (“ **Social Features** ”). If you choose to use Social Features, information you post or provide access to may be publicly displayed by the provider of the Social Feature that you use. Similarly, if you post information on a third party platform that references the Website (e.g., by using a hashtag associated with CoreLogic in a tweet or status update), your post may be published on the Website in accordance with the terms of the third party website or service. Also, both CoreLogic and the third party may have access to certain information about you and your use of the Website and the third party site or service. The information we collect in connection with Social Features is subject to this Privacy Policy. The information collected and stored by the third party remains subject to the third party’s privacy practices.
+
+**7\. Website Security**
+
+We maintain appropriate physical, electronic, and procedural safeguards to protect your personal information. We provide information to our subsidiaries, affiliated companies, and other businesses or persons for the purposes of processing such information on our behalf, some or all of which may store your information on servers located outside of the United States.
+
+**8\. California Privacy Rights**
+
+When California customers provide personal information to a business, they have the right to request certain disclosures if that business shares personal information with third parties for the third parties' direct marketing purposes. Once per calendar year the customer may request that the business provide a list of companies with which it shares personal information for those companies' direct marketing purposes, and a list of the categories of personal information that the business shares. CoreLogic generally does not sell products or services directly to individual California consumers. However, if we engage in such contact, you may request information about our compliance with this law by contacting us.
 
 Any such inquiry must include "California Privacy Rights Request" in the first line of the description and include your name, street address, city, state, and ZIP code. Please note that we are only required to respond to one request per customer each year, and we are not required to respond to requests made by means other than through this email address or mail address.
 
-**Children’s Online Privacy**
+**9\. Children’s Online Privacy**
 
-Our Site is not intended for children under the age of 13. We do not intentionally or knowingly collect personally-identifiable information from children under the age of 13 and we request that individuals under the age of 13 do not submit any personal information on the Website. If we learn that we have received identifying information from a user under the age of 13, we will delete this information.
+Our Site is not intended for children under the age of 16. We do not intentionally or knowingly collect personally-identifiable information from children under the age of 16 and we request that individuals under the age of 16 do not submit any personal information on the Website. If we learn that we have received identifying information from a user under the age of 16, we will delete this information.
 
-**Third Party Websites**
+**10\. Third Party Websites**
 
-There may be hyperlinks on the Website to other websites or locations that are operated and controlled by third parties ("Third Party Websites"). These Third-Party Websites may solicit personal information from you. We make no representations regarding the policies or business practices of such Third Party Websites and encourage you to familiarize yourself with their privacy policies before providing them with your personal information.
+There may be hyperlinks on the Website to other websites or locations that are operated and controlled by third parties (" **Third Party Websites** "). These Third-Party Websites may solicit personal information from you. We make no representations regarding the policies or business practices of such Third Party Websites and encourage you to familiarize yourself with their privacy policies before providing them with your personal information.
 
-**Consent to Transfer Information and Safe Harbor Certification**
-
-The Website is operated in the United States. If you are located outside of the United States, and are accessing or using the Website, please be aware that information we collect, including personal information, will be transferred to, processed and stored in the United States. By using the Website or providing us with any information through the Website, you consent to this transfer, processing and storage of your information in the United States. If you are located in the European Economic Area, CoreLogic is certified under the Safe Harbor privacy framework as set forth by the U.S. Department of Commerce and European Commission regarding the collection, storage, use, transfer and other processing of personal information transferred from the European Economic Area to the U.S.  Below is a copy of our Safe Harbor Privacy Policy. To learn more about the Safe Harbor program, and to view CoreLogic’s certification, please visit <http://www.export.gov/safeharbor/>.
-
-**Changes to this Statement**
-
-CoreLogic may from time to time and without prior notice revise this Privacy Policy. Any changes will be effective immediately when the revised Policy is posted on the Website, unless stated otherwise. We will not, however, use your personal information in a manner materially different than what was stated in the Privacy Policy posted on the Website at the time your personal information was collected unless we receive your consent.
-
-**Contacting Us**
-
-If you have any questions about this Privacy Policy, our practices, or your dealings with the Website, you can contact us by email or you can write to:
-
-Stephanie Rumph  
-Chief Compliance Officer  
-1 CoreLogic Drive  
-Westlake, TX  
-[srumph@corelogic.com](mailto:srumph@corelogic.com)
-
-Investigative Consumer Reports (California Residents)
+**11\. Investigative Consumer Reports (California Residents)**
 
 Privacy Notice: Preparation and Processing of Investigative Consumer Reports
 
-This notice is provided to California residents. Under California law, an "investigative consumer report" is a consumer report containing information on a consumer's character, general reputation, personal characteristics, or mode of living. CoreLogic SafeRent (“SafeRent”) may compile investigative consumer reports about individuals and provide them to businesses for background screening, tenant screening, and similar purposes.
+This notice is provided to California residents. Under California law, an "investigative consumer report" is a consumer report containing information on a consumer's character, general reputation, personal characteristics, or mode of living. CoreLogic Rental Property Solutions may compile investigative consumer reports about individuals and provide them to businesses for background screening, tenant screening, and similar purposes.
 
-Personal Information Disclosure: United States or Overseas – In connection with its preparation and processing of investigative consumer reports SafeRent may transfer personal information about you to our authorized service providers and affiliates outside the United States and its territories. Such transfer will be conducted in accordance with all applicable laws and regulations.
+Personal Information Disclosure: United States or Overseas – In connection with its preparation and processing of investigative consumer reports CoreLogic Rental Property Solutions may transfer personal information about you to our authorized service providers and affiliates outside the United States and its territories. Such transfer will be conducted in accordance with all applicable laws and regulations.
 
-To obtain additional information about the privacy practices and policies of SafeRent in connection with its preparation and processing of investigative consumer reports, please contact:
+To obtain additional information about the privacy practices and policies of CoreLogic Rental Property Solutions in connection with its preparation and processing of investigative consumer reports, please contact us using the details above.
 
-Stephanie Rumph  
-Chief Compliance Officer  
-1 CoreLogic Drive  
-Westlake, TX  76262  
-[srumph@corelogic.com](mailto:srumph@corelogic.com)
+**12\. Annex - Processing of Personal Data (Residents of the EEA, Switzerland and UK)**
 
-**European Union Safe Harbor Privacy Policy**
+CoreLogic provides additional information to its EEA, Switzerland and UK based users to comply with data protection laws.
 
-CoreLogic, Inc. and its affiliates (“CoreLogic”) respect the privacy of our visitors and clients. It is our policy to maintain the confidentiality and privacy of any personal data voluntarily submitted to us in writing, submitted electronically via our Website, or submitted to us by our clients in connection with credit and fraud risk management and other services.
+**_12.1 What is personal data?_**
 
-**SCOPE**
+“ **Personal data** ” is information about you (a “ **data subject** ”) the use of which is governed by applicable data protection laws. It will include any information from which you can be identified, directly or indirectly, in particular by reference to an identifier such as your name, an identification number, location data, an online identifier or other information about your identity. Most information collected about you on the Website will constitute personal data.
 
-This Safe Harbor Privacy Policy (“Policy”) applies to personal information pertaining to an identified or identifiable individual that is received by CoreLogic from the European Union or other personal information that CoreLogic acquires pursuant to its performance of services for its clients or other third parties to which CoreLogic has contractually agreed to apply this privacy policy (“EU Personal Data"). This Policy does not apply to: (a) data collected and used by CoreLogic which is not EU Personal Data; (b) the subsidiaries of CoreLogic, Inc. which do not receive or process EU Personal Data or; (c) data collected on any other subsidiary website that does not link to this Policy.   
-In the event of a conflict between this Policy and CoreLogic’s obligations under the Fair Credit Reporting Act, 15 U.S.C. Sec. 1681 et. seq., other statutes, regulations, or case law, or to the extent necessary to meet national security, public interest or law enforcement requirements, adherence to this Policy may be limited.
+**_12.2 Who is responsible for your personal data?_**
 
-**PROVISIONS OF OUR SAFE HARBOR PRIVACY POLICY**
+If you use our Website, the data controller is CoreLogic Solutions Limited, 1st floor, 39 Houndsditch, London EC3A 7DB. CoreLogic Solutions Limited is registered as a data controller with the Information Commissioner’s Office in the UK (registration number Z6322218).
 
-CoreLogic receives certain EU Personal Data at the request of clients and other third parties for credit and fraud risk mitigation related purposes. CoreLogic has joined the U.S. Department of Commerce's "Safe Harbor" program with respect to EU Personal Data and utilizes such information in accordance with the Safe Harbor principles. The Safe Harbor principles and our Safe Harbor certification can be found at: [www.export.gov/safeharbor](http://www.export.gov/safeharbor "www.export.gov/safeharbor"). Our Policy addresses each of the Safe Harbor Privacy Principles, as described below.
+**_12.3 What is the legal basis for processing your personal data?_**
 
-**1\. Notice**
+On some occasions, we process your personal data with your consent, for example, when you agree to receive our newsletter or to deal with your enquiries.
 
-Where CoreLogic collects EU Personal Data from individuals, CoreLogic informs individuals about the purposes for which it collects and uses EU Personal Data about them, how to contact CoreLogic with any inquiries or complaints, the types of third parties to which it discloses the information and the choices and means CoreLogic offers individuals for limiting its use and disclosure. Notice is provided in clear and conspicuous language either when individuals are first asked to provide EU Personal Data or as soon thereafter as is practicable, but in any event before CoreLogic uses such information for a purpose other than that for which it was originally collected or processed by the transferring organization or discloses it for the first time to a third-party (other than agents acting under our instructions). Information about how CoreLogic collects and uses EU Personal Data also follows below.
+On other occasions, we process your personal data when we need to do this in order to fulfil a contract with you, such as granting you access to our online services.
 
-CoreLogic gathers and maintains consumer and other data which it provides to entities including lenders, credit reference agencies and fraud prevention agencies. Provided below is an illustrative list of common ways in which lenders, credit reference agencies and fraud prevention agencies use the data provided by this service:
+We also process your personal data when it is in our legitimate interests to do this and when these interests are not overridden by your data protection rights. For example, we may process your personal data in our legitimate interests to ensure that our Website and services are provided efficiently and in an user-friendly and personalised manner taking into account user feedback, data and profiles, unless consent is required for any such processing under applicable law. We will process personal data to ensure the security of our business and the information of our users, and to ensure the proper and efficient administration of our business. You may contact us for further information.
 
-  * Authentication of consumer applicants for loans or other credit services
-  * Prevention or detection of fraud by consumer applicants for loans or other credit services
-  * Determination of credit worthiness or capacity of consumer applicants for loans or other credit services
-  * Location of absconded borrowers
+Finally, we will process your personal data where we are required to do this by law. For example, where we have to fulfil anti-money laundering requirements or disclose information under a court order. 
 
+**_12.4 Data transfers_**
 
+Personal data that we collect may be stored and processed in and transferred between any of the countries in which we operate in order to enable us to use the personal data in accordance with this Privacy Policy.
 
-The scope of this notice covers consumer report data that CoreLogic has obtained on behalf of lenders and other businesses by manually or electronically contacting the appropriate sources of the data (court records, references, licensing bureaus, etc.).  
-More information regarding the nature and scope of consumer data inquiries is available by contacting CoreLogic in writing or by e-mail at the addresses below.
+Personal data which you provide may be transferred to our group companies, commercial partners, suppliers or agents located outside your country as set out above. We will ensure adequate protection of personal data transferred outside of your country as required under applicable laws. For example, if you are located in the EEA, Swiss or in the UK, we may enter into [model clauses](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en) with the recipient. You may contact us for a copy of the safeguards which we have put in place to protect your personal data in these circumstances.
 
-**2\. Choice**
+In addition, personal data that you submit for publication on the Website will be published on the internet and may be available, via the internet, around the world. We cannot prevent the use or misuse of such information by others.
 
-CoreLogic affords individuals the opportunity to choose whether their EU Personal Data will be disclosed to a third-party (not including our agents) or will be used for a purpose incompatible with the purpose for which it was originally collected or subsequently authorized by the individual. Therefore, consumer data may be disseminated under these circumstances unless the consumer explicitly “opts-out.” Where a consumer chooses to “opt-out,” the EU Personal Data is not necessarily erased or deleted. Various laws require that certain information be maintained on file for a specified period of time for consumer protection purposes.
+**_12.5 How long does CoreLogic keep personal data?_**
 
-A consumer may “opt-out” by contacting CoreLogic in writing or by e-mail at the addresses listed below.
+CoreLogic keeps your personal data for only as long as required to provide you with the necessary Website content and services and to carry out the processing set out in this Privacy Notice, and in line with its obligation under applicable law. This means that we will generally not keep your personal data for longer than six years following your last interaction with us, and the actual retention period will often be shorter. You may contact us for further information.
 
-With respect to sensitive information (personal information specifying medical or health conditions, racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership or information specifying the sex life of the individual), however, an individual must “opt-in” to the disclosure of the information to a third-party or to the use of this information for a purpose other than its original purpose or that purpose authorized subsequently by the individual. In other words, unless a consumer chooses to provide explicit consent, a disclosure of sensitive information to a third party or for an unauthorized purpose will not be made.
+**_12.6 Your rights_**
 
-**3\. Onward Transfer (Transfers to Third Parties)**
+Data subjects may ask us for a copy of their personal data, to correct it, erase it or to transfer it to other organisations at their request. Data subjects also have rights to object to some processing including profiling and, where we have asked for their consent to process the data subject’s personal data, to withdraw this consent. In particular, data subjects have the right to object to direct marketing at any time. Where a data subject withdraws their consent, this will not affect the legitimacy of the processing conducted prior to your request.  Where we process personal data because we have a legitimate interest in doing so (as explained above), the data subject has a right to object to this.
 
-With respect to the transfer of EU Personal Data to third-parties (other than our agents), the principles of “Notice” and “Choice” apply. Accordingly, EU Personal Data is only provided to third-parties for purposes described in the “Notice” section or otherwise disclosed to consumers, and will not be disseminated to a third-party where a consumer has “opted-out” or, in the case of sensitive information, failed to “opt-in.”
+These rights may be limited in some situations – for example, where we can demonstrate that we have a legal requirement to process your personal data.
 
-CoreLogic may disclose EU Personal Data to our clients and to third-parties acting as our agents who certify that they subscribe to the Safe Harbor Principles or certify that they are subject to the EU Data Protection Directive or a law subject to an adequacy finding by the EU. CoreLogic also may disclose EU Personal Data clients and third-party agents who enter into a written agreement with CoreLogic, in which the client or third-party agent agrees to provide at least the same level of privacy protection as is required by the relevant Safe Harbor Principles (in instances where EU Personal Data is requested).
+Please use the contact information set out in our Contacting Us section above. We will aim to acknowledge your enquiries within 72 hours and respond within one month, unless otherwise required by law.
 
-**4\. Access**
+We hope that we can satisfy queries you may have about the way we process your personal data. However, if you have unresolved concerns you also have the right to complain to your local data protection authority. 
 
-A consumer may request, in writing, access to all EU Personal Data collected and maintained about him or her. CoreLogic affords the consumer a reasonable opportunity to correct, amend, or delete information that is inaccurate or incomplete, except where the burden or expense of providing access would be disproportionate to the risks to the individual’s privacy, or where the rights of persons other than the individual would be violated. In cases where the information is subject to the FCRA, CoreLogic complies with the FCRA’s requirements regarding access and correction rights of consumers.  
-CoreLogic reserves the right to engage in reasonable efforts to confirm the identity of the individual requesting EU Personal Data to ensure the information is provided only to the subject of the data.
+**13\. Changes to this Statement**
 
-To request information relating to his or her EU Personal Data, a consumer may contact CoreLogic in writing at the address listed below or by e-mail at the following email address: [srumph@corelogic.com](mailto:srumph@corelogic.com). In addition, the consumer will be asked to provide sufficient evidence of his or her identity so we may ensure that information is being released to the correct individual. If we are unable to provide the consumer with access to his or her EU Personal Data or to correct the data, we will notify the consumer.
+CoreLogic may from time to time and without prior notice revise this Privacy Policy. Any changes will be effective immediately when the revised Policy is posted on the Website, unless stated otherwise. We will not, however, use your personal information in a manner materially different than what was stated in the Privacy Policy posted on the Website at the time your personal information was collected unless we receive your consent.
 
-**5\. Security**
+**14\. Contacting Us**
 
-CoreLogic takes reasonable procedures to protect EU Personal Data from loss, misuse and unauthorized access, disclosure, alteration and destruction.
+If you have any questions about this Privacy Policy, our practices, or your dealings with the Website, you can contact us by email or you can write to:
 
-**6\. Data Integrity**
+**USA Residents:**
 
-CoreLogic collects EU Personal Data that is relevant for the purposes for which it is to be used, consistent with the Safe Harbor Principles. We process EU Personal Data in ways that are compatible with the purposes for which it has been collected (as identified in the Notice section above) or subsequently authorized by the individual. To the extent necessary for those purposes, CoreLogic takes reasonable steps to ensure that EU Personal Data collected is accurate, complete, current, and reliable for its intended use.
+| 
 
-**7\. Enforcement**
+**EEA Residents**  
+  
+---|---  
+  
+Mark Wynn  
+Director, Corporate Compliance   
+40 Pacifica Suite 900  
+Irvine, CA 92618
 
-CoreLogic will verify adherence to the EU Safe Harbor Policy via in-house verification and internal policies and procedures implemented by the management of our company. CoreLogic also will cooperate with the European Union Data Protection Authorities as a means of providing consumers a readily available and affordable recourse mechanism by which individual consumer complaints and disputes, if any, can be investigated and remedied.
+Email: [mwynn@corelogic.com ](mailto:mwynn@corelogic.com)
 
-**8\. Amendments**
+| 
 
-From time to time, this Privacy Policy may be amended to reflect new products and services, or as necessary to reflect a new business practice. Consistent with the Safe Harbor requirements, we will post any revised policy on this Website.
+Data Protection Manager, CoreLogic  
+Fore 2, 2 Huskisson Way,  
+Shirley, Solihull, B90 4SS  
+England
 
-**CONTACT INFORMATION**
+Email:  [privacy@corelogicsolutions.co.uk](mailto:privacy@corelogicsolutions.co.uk)  
+  
+**15\. Currency**
 
-To request information relating to your EU Personal Data, please contact:  
-[Click here](mailto:srumph@corelogic.com) to e-mail us an inquiry.
+This Privacy Notice (version 1) was last updated on 24 May 2018.
 
-You may also send any questions regarding our Safe Harbor Privacy Policy to the following address and contact person:  
-CoreLogic, Inc.  
-Stephanie Rumph  
-Chief Compliance Officer  
-1 CoreLogic Drive  
-Westlake, TX  76262  
-[srumph@corelogic.com](mailto:srumph@corelogic.com)
-
-**Please print or download a copy  for your records.**   
-Last Updated May 19, 2015.
+**Please print or download a copy  for your records.** ** ** **  
+**
