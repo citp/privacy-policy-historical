@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the research-int.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626091745id_/http%3A//www.tnsglobal.com/what-we-do/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the research-int.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230173918id_/http%3A//www.tnsglobal.com/what-we-do/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy & Cookies | Kantar TNS
 
 ## Privacy & Cookies Policy - tnsglobal.com
 
 Kantar UK Ltd. ("We") are committed to protecting and respecting your privacy.   
-This policy sets out the basis on which any personal data we collect from you, or that you provide to us on [www.tnsglobal.com](http://www.tnsglobal.com/) (“our site”), will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+This policy sets out the basis on which any personal data we collect from you, or that you provide to us on [www.tnsglobal.com](http://www.tnsglobal.com/) (“our site”), will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
 ## Information we collect from you
 
@@ -126,7 +126,7 @@ You also have the following rights in relation to your personal data (some of th
 
 
 
-If you’re not happy with how we’ve dealt with your personal data, we’d like a chance to put it right – please contact us at [info@tnsglobal.com](mailto:info@tnsglobal.com). However, you have the right to complain to a supervisory authority – the authority for the UK is the Information Commissioner ([www.ico.org.uk](https://web.archive.org/web/20180626091745id_/http%3A//www.tnsglobal.com/what-we-do/www.ico.org.uk)).
+If you’re not happy with how we’ve dealt with your personal data, we’d like a chance to put it right – please contact us at [info@tnsglobal.com](mailto:info@tnsglobal.com). However, you have the right to complain to a supervisory authority – the authority for the UK is the Information Commissioner ([www.ico.org.uk](http://dev.tnsglobal.com/what-we-do/www.ico.org.uk)).
 
 ## Children data collection
 
