@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the her.ie privacy policy that was archived on 2018-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180628090207id_/https%3A//www.her.ie/privacy-statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the her.ie privacy policy that was archived on 2018-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181230222822id_/https%3A//www.her.ie/privacy-statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="noscroll"><head>
 <title>Privacy Statement | Her.ie</title>
@@ -12,6 +12,165 @@
 <meta property="fb:pages" content="216248578492948">
 <meta name="theme-color" content="#fff">
 <link rel="icon" sizes="192x192" href="https://www.her.ie/assets/images/her/icon-highres.png?v=5">
+<script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://quantcast.mgr.consensu.org/v2/cmp.js"></script>
+
+<script type="text/javascript" async="true">
+    (function() {
+        var gdprAppliesGlobally = false;
+        function addFrame() {
+            if (!window.frames['__cmpLocator']) {
+                if (document.body) {
+                    var body = document.body,
+                        iframe = document.createElement('iframe');
+                    iframe.style = 'display:none';
+                    iframe.style.cssText = 'display:none;';
+                    iframe.name = '__cmpLocator';
+                    body.appendChild(iframe);
+                } else {
+                    // In the case where this stub is located in the head,
+                    // this allows us to inject the iframe more quickly than
+                    // relying on DOMContentLoaded or other events.
+                    setTimeout(addFrame, 5);
+                }
+            }
+        }
+        addFrame();
+        function cmpMsgHandler(event) {
+            var msgIsString = typeof event.data === "string";
+            var json;
+            if(msgIsString) {
+                json = event.data.indexOf("__cmpCall") != -1 ? JSON.parse(event.data) : {};
+            } else {
+                json = event.data;
+            }
+            if (json.__cmpCall) {
+                var i = json.__cmpCall;
+                window.__cmp(i.command, i.parameter, function(retValue, success) {
+                    var returnMsg = {"__cmpReturn": {
+                        "returnValue": retValue,
+                        "success": success,
+                        "callId": i.callId
+                    }};
+                    event.source.postMessage(msgIsString ?
+                    JSON.stringify(returnMsg) : returnMsg, '*');
+                });
+            }
+        }
+        window.__cmp = function (c) {
+            var b = arguments;
+            if (!b.length) {
+                return __cmp.a;
+            }
+            else if (b[0] === 'ping') {
+                b[2]({"gdprAppliesGlobally": gdprAppliesGlobally,
+                "cmpLoaded": false}, true);
+            } else if (c == '__cmp')
+                return false;
+            else {
+                if (typeof __cmp.a === 'undefined') {
+                    __cmp.a = [];
+                }
+                __cmp.a.push([].slice.apply(b));
+            }
+        }
+        window.__cmp.gdprAppliesGlobally = gdprAppliesGlobally;
+        window.__cmp.msgHandler = cmpMsgHandler;
+        if (window.addEventListener) {
+            window.addEventListener('message', cmpMsgHandler, false);
+        }
+        else {
+            window.attachEvent('onmessage', cmpMsgHandler);
+        }
+    })();
+    // It seems this function only executes once if you click on revoke link this
+    // code dont executes.
+    window.__cmp('setConsentUiCallback', function() {
+        window.__cmp('getPublisherConsents', [], function(c,s) {
+            // Send Facebook pixel tracking on consent grant
+            var triggerFbPixel = (consentManager.getCookie('pubconsent') == ""  || isEmpty(consentManager.getPublisherConsents.getPublisherConsents)) ? true : false;
+            consentManager.setConsents('publisher', c);
+                            if (!consentManager.sentEventPixel && triggerFbPixel && consentManager.isAllowed('facebook')) {
+                    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '1021712967898776');
+fbq('track', "PageView");
+fbq('track', 'ViewContent');
+
+                    consentManager.sentEventPixel = true;
+                }
+                    });
+        window.__cmp('getVendorConsents', [], function(c,s) {consentManager.setConsents('vendor', c)});
+        window.__cmp('getConsentData', null, function (result) {
+            consentManager.setConsentString(result.consentData);
+        });
+    });
+
+    var referrer = document.createElement('a');
+    referrer.href = document.referrer;
+    if (isSocialMediaReferrer(referrer.hostname) === false) {
+        window.__cmp('init', {
+            'Display UI': 'inEU',
+            'Consent Scope': 'global',
+            'Default Value for Toggles': 'on',
+            'Publisher Purpose IDs': [1, 3, 5],
+            'Min Days Between UI Displays': 21,
+            'Publisher Name': 'Maximum Media',
+            'Initial Screen Title Text': 'We value your privacy',
+            'Initial Screen Body Text': 'Her and our carefully selected partners use technology such as cookies on our site to personalize content and ads, provide social media features, and analyze our traffic to provide the best experience possible.  Click below to consent to the use of this technology by Maximum Media and these 3rd parties on our site. You can change your mind and revisit your consent choices at anytime by returning to this site.',
+            'No Option': true,
+            'Non-Consent Display Frequency': 30,
+            'Initial Screen Accept Button Text': 'I Agree',
+            'Initial Screen Purpose Link Text': 'Settings',
+            'Purpose Screen Header Title Text': 'Manage Page',
+            'Purpose Screen Title Text': 'Purposes For Which We Use Your Data',
+            'Purpose Screen Body Text': 'We at Her (and our very carefully selected partners) use technology such as cookies on our site to  create a personalized experience for you with our content and ads you see,  Click below to consent to the use of this technology by Maximum Media and our partners on our site. You can change your mind and revisit your consent choices at anytime by returning here.',
+            'Purpose Screen Enable All Button Text': 'Enable all purposes',
+            'Purpose Screen Vendor Link Text': 'See full vendor list',
+            'Purpose Screen Cancel Button Text': 'Cancel',
+            'Purpose Screen Save and Exit Button Text': 'Save & Exit',
+            'Vendor Screen Title Text': 'We value your privacy',
+            'Vendor Screen Body Text': 'We at Her (and our very carefully selected partners) use technology such as cookies on our site to  create a personalized experience for you with our content and ads you see,  Click below to consent to the use of this technology by Maximum Media and our partners on our site. You can change your mind and revisit your consent choices at anytime by returning here.',
+            'Vendor Screen Reject All Button Text': 'Reject All',
+            'Vendor Screen Accept All Button Text': 'Accept All',
+            'Vendor Screen Purposes Link Text': 'Back to purposes',
+            'Vendor Screen Cancel Button Text': 'Cancel',
+            'Vendor Screen Save and Exit Button Text': 'Save & Exit',
+            'Display Persistent Consent Link': false,
+            'UI Layout': 'banner'
+        });
+    }
+
+    function isSocialMediaReferrer(referrer) {
+        var facebook = new RegExp('(.*?)facebook(.*?)');
+        var instagram = new RegExp('(.*?)instagram(.*?)');
+        var twitter = new RegExp('(.*?)twitter(.*?)');
+
+        if (facebook.exec(referrer) != null) {
+            return true;
+        } else if (instagram.exec(referrer) != null) {
+            return true;
+        } else if (twitter.exec(referrer) != null) {
+            return true;
+        } else if (referrer == 't.co') {
+            return true;
+        }
+        return false
+    }
+
+    function isEmpty(obj) {
+        for(var prop in obj) {
+            if (obj.hasOwnProperty(prop))
+                return false;
+        }
+
+        return JSON.stringify(obj) === JSON.stringify({});
+    }
+</script>
+
 <meta property="og:title" content="Privacy Statement | Her.ie">
 <meta property="og:description" content="Privacy Statement">
 <meta property="og:type" content="article">
@@ -31,7 +190,7 @@
 <meta name="twitter:app:id:googleplay" content="ie.her.app">
 <meta name="apple-itunes-app" content="app-id=1289435339">
 <meta name="google-play-app" content="app-id=ie.her.app">
-<script src="https://quantcast.mgr.consensu.org/cmp.js" async="" type="text/javascript"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="application/ld+json">
+<script type="application/ld+json">
     {
         "@context": "http://schema.org",
         "@type": "NewsArticle",
@@ -43,7 +202,7 @@
         },
         "dateCreated": "2014-12-18T13:31:14+00:00",
         "datePublished": "2014-12-18T13:31:14+00:00",
-        "dateModified": "2018-06-22T16:32:27+01:00",
+        "dateModified": "2018-08-14T15:28:29+01:00",
                     "thumbnailUrl": "https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5oZXIuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9oZXJcXFwvbm8taW1hZ2UucG5nP3Y9NVwiLFwid2lkdGhcIjo2NDcsXCJoZWlnaHRcIjozNDAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5oZXIuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9oZXJcXFwvbm8taW1hZ2UucG5nP3Y9NVwifSIsImhhc2giOiJhYjM5ZDUyOWRkYmFjM2ZlZWI1Y2I3ODk0Y2UyZjc2MmI1NGE0MzUzIn0=/no-image.png?v=5",
             "image": {
                 "@type": "ImageObject",
@@ -62,7 +221,7 @@
             "name" : "Her.ie",
             "logo": {
                 "@type": "ImageObject",
-                "url": "https://www.her.ie/assets/images/her/wide-logo.png?v=5",
+                "url": "https://www.her.ie/assets/images/her/new-wide-logo.png?v=1",
                 "width": 600,
                 "height": 60
             }
@@ -73,6 +232,8 @@
 var consentManager = {
     publisherCookieName: 'pubconsent',
     vendorCookieName: 'vendorconsent',
+    // This will prevent send several fb track events on consent revoke and grant
+    sentEventPixel: false,
 
     setCookie: function(name, value, expiry_days) {
         var d = new Date();
@@ -155,7 +316,8 @@ var consentManager = {
             'event',
             'Consent [Publisher]',
             total ? 'Total' : (partial ? 'Partial' : 'None'),
-            1
+            1,
+            {'nonInteraction': 1}
         );
         return total;
     },
@@ -182,7 +344,8 @@ var consentManager = {
             'event',
             'Consent [Vendor]',
             total ? 'Total' : (partial ? 'Partial' : 'None'),
-            1
+            1,
+            {'nonInteraction': 1}
         );
         return total;
     },
@@ -218,34 +381,99 @@ var consentManager = {
         }
 
         return 1;
+    },
+
+    /**
+     * Create cookie for consent string and set DFP target for consent string
+     *
+     */
+    setConsentString: function (consentData) {
+        if (consentData) {
+            this.setCookie('consent_string', consentData, 30);
+            dfp_targets.consent_string = this.getConsentString();
+        }
+    },
+
+    /**
+     * Get cookie for consent string
+     *
+     * @return  string
+     */
+    getConsentString: function () {
+        var cookie = this.getCookie('consent_string');
+        if (!cookie.length) {
+            return null;
+        }
+        return JSON.parse(cookie);
+    },
+
+    /**
+     * In-app sandboxes and cookie blocking can cause persistent CMP nagging. Treat as
+     * "no consent" in those cases
+     */
+    isPromptable: function() {
+        if (this.isFromAmpPage() && !this.getCookie('noCmpNeeded').length) {
+            document.cookie = "noCmpNeeded=1; path=/";
+        }
+        return navigator.cookieEnabled && !this.isFromTwitterMobile() && !this.isFromFacebookMobile() && !this.isFromAmpPage() && !this.getCookie('noCmpNeeded').length;
+    },
+    isFromAmpPage: function () {
+        var regex = new RegExp("^https?://("+_maximummedia.url_sitemode+")/amp/(.*?)-([0-9]+$)", 'i');
+        return document.referrer.match(regex);
+    },
+    isFromTwitterMobile: function () {
+        return document.referrer.match(/^https?:\/\/([^\/]+\.)?t\.co(\/|$)/i) && this.isMobileDevice();
+    },
+    isFromFacebookMobile: function () {
+        return document.referrer.match(/^https?:\/\/m\.facebook\.(com$|com\/$)/i) && this.isMobileDevice();
+    },
+    isMobileDevice: function() {
+        return navigator.userAgent.match(/Android/i)
+            || navigator.userAgent.match(/webOS/i)
+            || navigator.userAgent.match(/iPhone/i)
+            || navigator.userAgent.match(/iPad/i)
+            || navigator.userAgent.match(/iPod/i)
+            || navigator.userAgent.match(/BlackBerry/i)
+            || navigator.userAgent.match(/Windows Phone/i);
+    },
+    /**
+     * This will allow to know if user is InEU or not
+     * The *gdprApplies *field will be true if the user is determined (by geo-IP lookup) to be in the EU,
+     * or the publisher has configured the CMP
+     */
+    isOutEU: function() {
+        return !this.getVendorConsents().gdprApplies;
     }
 };
-</script> <script>
-
+</script>
+<script>
 if (consentManager.isAllowed('permutive')) {
-    !function(e,n,t,r,o,i){if(!n){n=n||{},window.permutive=n,n.q=[],n.config=i||{},n.config.projectId=r,n.config.apiKey=o,n.config.environment=n.config.environment||"production";for(var c=["addon","identify","track","trigger","query","segment","segments","ready","on","once","user"],a=0;a<c.length;a++){var s=c[a];n[s]=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);n.q.push({functionName:e,arguments:t})}}(s)}var p=window.Worker?"async":"blocking",g=e.createElement("script");g.type="text/javascript",g.async=!0;var m="https://cdn.permutive.com";g.src=m+"/"+r+"-"+p+".js";var u=e.getElementsByTagName(t)[0];u.parentNode.insertBefore(g,u)}}(document,window.permutive,"script","8f5753e7-35e9-4185-92d3-34cc76541d45","a8706dfe-856a-483f-8d0f-1f45efb24d33",{});
+    !function(n,e,o,r,i){if(!e){e=e||{},window.permutive=e,e.q=[],e.config=i||{},e.config.projectId=o,e.config.apiKey=r,e.config.environment=e.config.environment||"production";for(var t=["addon","identify","track","trigger","query","segment","segments","ready","on","once","user","consent"],c=0;c<t.length;c++){var f=t[c];e[f]=function(n){return function(){var o=Array.prototype.slice.call(arguments,0);e.q.push({functionName:n,arguments:o})}}(f)}}}(document,window.permutive,"8f5753e7-35e9-4185-92d3-34cc76541d45","a8706dfe-856a-483f-8d0f-1f45efb24d33",{});
     var days = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
     var dayOfWeek = days[new Date().getDay()];
     permutive.addon("web", { page: {
     context: {
         day_of_week: dayOfWeek,
     },
-            trending_bar:         [ "Love Island",  "Fashion",  "style",  "TV",  "Beauty",  "food",  "summer",  "Penneys",  "celeb",  "Recipe", ],
+            trending_bar:         [ "TV",  "Coronation Street",  "Corrie",  "style",  "Penneys",  "sponsored",  "Fashion",  "wedding",  "netflix",  "Christmas", ],
     
         watson_categories:        "$alchemy_taxonomy_labels",
         }});
 }
 </script>
+<script async="" src="https://cdn.permutive.com/8f5753e7-35e9-4185-92d3-34cc76541d45-web.js"></script>
 <link rel="canonical" href="https://www.her.ie/privacy-statement">
 <link rel="shortcut icon" type="image/x-icon" href="https://www.her.ie/assets/her.favicon.ico?v=10">
 <link rel="apple-touch-icon" href="https://www.her.ie/assets/her.appletouchicon.png?v=4">
-<link media="all" type="text/css" rel="stylesheet" href="https://www.her.ie/assets/css/her/main.min-c47e204a.css">
+<link media="all" type="text/css" rel="stylesheet" href="https://www.her.ie/assets/css/her/main.min-f4369b45.css">
 <script>
     var _maximummedia = _maximummedia || [];
     _maximummedia.sitemode = 'her';
     _maximummedia.title = 'Her.ie';
     _maximummedia.dfp = '247211819';
-
+    _maximummedia.url_sitemode = 'www.her.ie';
+    _maximummedia.track_pixel_on_grant = '1';
+    _maximummedia.pixel = '1021712967898776';
     var _comscore = _comscore || [];
     _comscore.push({ c1: "2", c2: "9608406" });
     if (consentManager.isAllowed('comscore')) {
@@ -266,10 +494,15 @@ ga('require', 'displayfeatures');
             ga('set', 'dimension4', 'web');
     ga('set', 'anonymizeIp', true);
 ga('send', 'pageview');
-            ga('send', 'event', 'maximummedia', 'article', '209453', {'nonInteraction': 1});
-    
+
     var googletag = googletag || {};
     googletag.cmd = googletag.cmd || [];
+
+    var advelvetTargeting = [];
+    advelvetTargeting.push((Math.floor(Math.random() * 20) + 1) + "");
+    googletag.cmd.push(function () {
+        googletag.pubads().setTargeting('advelvet', advelvetTargeting);
+    });
 
         
     googletag.placement = googletag.placement || [];
@@ -360,11 +593,18 @@ ga('send', 'pageview');
             .defineSizeMapping(mapBackgroundSkin)
             .addService(googletag.pubads());
 
+        if (window.matchMedia("only screen and (min-width: 1200px)").matches) {
+            googletag.defineSlot('/247211819/Her.ie_Desktop_Widget', [310, 140], 'div-gpt-her-desktop_widget')
+                .addService(googletag.pubads());
+        }
+
                 
                                                         dfp_targets.page = "article";
                                                                 dfp_targets.article = "209453";
                                     
                 
+        dfp_targets.consent_string = consentManager.getConsentString();
+
         for (var key in dfp_targets) {
             if (dfp_targets.hasOwnProperty(key)) {
                 googletag.pubads().setTargeting(key, dfp_targets[key]);
@@ -401,129 +641,22 @@ ga('send', 'pageview');
 <script>
     if (consentManager.isAllowed('facebook')) {
         !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-        n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-        document,'script','//connect.facebook.net/en_US/fbevents.js');
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
 
-        fbq('init', '1021712967898776');
-        fbq('track', "PageView");
-        fbq('track', 'ViewContent');
+fbq('init', '1021712967898776');
+fbq('track', "PageView");
+fbq('track', 'ViewContent');
+
+        consentManager.sentEventPixel = true;
     }
     </script>
 
-<script type="text/javascript" data-pin-color="white" data-pin-height="28" data-pin-hover="true" src="//assets.pinterest.com/js/pinit.js"></script>
+<script type="text/javascript" data-pin-color="white" data-pin-height="28" data-pin-hover="true" async="" src="//assets.pinterest.com/js/pinit.js"></script>
 </head>
-<body class=" article-page  noscroll  maximummedia">
-
-<script type="text/javascript" async="true">
-    var elem = document.createElement('script');
-    elem.src = 'https://quantcast.mgr.consensu.org/cmp.js';
-    elem.async = true;
-    elem.type = "text/javascript";
-    var scpt = document.getElementsByTagName('script')[0];
-    scpt.parentNode.insertBefore(elem, scpt);
-    (function() {
-        var gdprAppliesGlobally = false;
-        function addFrame() {
-            if (!window.frames['__cmpLocator']) {
-                if (document.body) {
-                    var body = document.body,
-                        iframe = document.createElement('iframe');
-                    iframe.style = 'display:none';
-                    iframe.name = '__cmpLocator';
-                    body.appendChild(iframe);
-                } else {
-                    // In the case where this stub is located in the head,
-                    // this allows us to inject the iframe more quickly than
-                    // relying on DOMContentLoaded or other events.
-                    setTimeout(addFrame, 5);
-                }
-            }
-        }
-        addFrame();
-        function cmpMsgHandler(event) {
-            var msgIsString = typeof event.data === "string";
-            var json;
-            if(msgIsString) {
-                json = event.data.indexOf("__cmpCall") != -1 ? JSON.parse(event.data) : {};
-            } else {
-                json = event.data;
-            }
-            if (json.__cmpCall) {
-                var i = json.__cmpCall;
-                window.__cmp(i.command, i.parameter, function(retValue, success) {
-                    var returnMsg = {"__cmpReturn": {
-                        "returnValue": retValue,
-                        "success": success,
-                        "callId": i.callId
-                    }};
-                    event.source.postMessage(msgIsString ?
-                    JSON.stringify(returnMsg) : returnMsg, '*');
-                });
-            }
-        }
-        window.__cmp = function (c) {
-            var b = arguments;
-            if (!b.length) {
-                return __cmp.a;
-            }
-            else if (b[0] === 'ping') {
-                b[2]({"gdprAppliesGlobally": gdprAppliesGlobally,
-                "cmpLoaded": false}, true);
-            } else if (c == '__cmp')
-                return false;
-            else {
-                if (typeof __cmp.a === 'undefined') {
-                    __cmp.a = [];
-                }
-                __cmp.a.push([].slice.apply(b));
-            }
-        }
-        window.__cmp.gdprAppliesGlobally = gdprAppliesGlobally;
-        window.__cmp.msgHandler = cmpMsgHandler;
-        if (window.addEventListener) {
-            window.addEventListener('message', cmpMsgHandler, false);
-        }
-        else {
-            window.attachEvent('onmessage', cmpMsgHandler);
-        }
-    })();
-    window.__cmp('setConsentUiCallback', function() {
-        window.__cmp('getPublisherConsents', [], function(c,s) {consentManager.setConsents('publisher', c)});
-        window.__cmp('getVendorConsents', [], function(c,s) {consentManager.setConsents('vendor', c)});
-    });
-
-    window.__cmp('init', {
-        'Display UI': 'inEU',
-        'Consent Scope': 'global',
-        'Default Value for Toggles': 'on',
-        'Publisher Purpose IDs': [1, 3, 5],
-        'Min Days Between UI Displays': 21,
-        'Publisher Name': 'Maximum Media',
-        'Publisher Logo': '/assets/images/her/main-logo.svg',
-        'Initial Screen Title Text': 'We value your privacy',
-        'Initial Screen Body Text': 'Her and our carefully selected partners use technology such as cookies on our site to personalize content and ads, provide social media features, and analyze our traffic to provide the best experience possible.  Click below to consent to the use of this technology by Maximum Media and these 3rd parties on our site. You can change your mind and revisit your consent choices at anytime by returning to this site.',
-        'No Option': true,
-        'Initial Screen Accept Button Text': 'I Agree',
-        'Initial Screen Purpose Link Text': 'Manage Settings',
-        'Purpose Screen Header Title Text': 'Manage Page',
-        'Purpose Screen Title Text': 'Purposes For Which We Use Your Data',
-        'Purpose Screen Body Text': 'We at Her (and our very carefully selected partners) use technology such as cookies on our site to  create a personalized experience for you with our content and ads you see,  Click below to consent to the use of this technology by Maximum Media and our partners on our site. You can change your mind and revisit your consent choices at anytime by returning here.',
-        'Purpose Screen Enable All Button Text': 'Enable all purposes',
-        'Purpose Screen Vendor Link Text': 'See full vendor list',
-        'Purpose Screen Cancel Button Text': 'Cancel',
-        'Purpose Screen Save and Exit Button Text': 'Save & Exit',
-        'Vendor Screen Title Text': 'We value your privacy',
-        'Vendor Screen Body Text': 'We at Her (and our very carefully selected partners) use technology such as cookies on our site to  create a personalized experience for you with our content and ads you see,  Click below to consent to the use of this technology by Maximum Media and our partners on our site. You can change your mind and revisit your consent choices at anytime by returning here.',
-        'Vendor Screen Reject All Button Text': 'Reject All',
-        'Vendor Screen Accept All Button Text': 'Accept All',
-        'Vendor Screen Purposes Link Text': 'Back to purposes',
-        'Vendor Screen Cancel Button Text': 'Cancel',
-        'Vendor Screen Save and Exit Button Text': 'Save & Exit'
-    });
-</script><iframe name="__cmpLocator" style="display: none;"></iframe>
-
+<body class=" article-page  noscroll  maximummedia ">
 <div class="search-block">
 <div class="container">
 <form action="https://www.her.ie/search" method="POST" class="search-form">
@@ -533,7 +666,7 @@ ga('send', 'pageview');
 </div>
 <span class="search-btn close"></span>
 </div>
-<header class="header">
+<header class="header ">
 <div class="container">
 <div class="top-holder">
 <a href="#" class="search-btn icon-search_icon"></a>
@@ -546,7 +679,7 @@ ga('send', 'pageview');
 </div>
 <a class="nav-opener"><span></span></a>
 <nav class="nav">
-<ul class="list-unstyled main-nav common-menu">
+<ul class="list-unstyled main-nav common-menu ">
 <li class="visible-xs ">
 <a href="https://www.her.ie?ref=link">Home</a>
 </li>
@@ -605,7 +738,7 @@ ga('send', 'pageview');
 <a href="https://www.her.ie/content-submission">Content Submission</a>
 </li>
 <li class="visible-xs ">
- <a href="https://www.her.ie/contact">Contact Us</a>
+<a href="https://www.her.ie/contact">Contact Us</a>
 </li>
 <li class="hidden-xs ">
 <a href="https://www.her.ie?ref=link">Home</a>
@@ -655,26 +788,8 @@ MORE
 </li>
 </ul>
 <div class="navigation-trending">
-<ul class="trend list-unstyled">
+<ul class="trend list-unstyled ">
 <li class="trending-item text-uppercase">trending: </li>
-<li class="text-capitalize">
-<span class="tag-icon tag-icon-love-island"></span>
-<a href="https://www.her.ie/her/love-island" class="analytics tag-love-island" data-category="Nav clicks" data-label="Trending Tags" data-value="Love Island">
-Love Island
-</a>
-</li>
-<li class="text-capitalize">
-<span class="tag-icon tag-icon-fashion"></span>
-<a href="https://www.her.ie/her/fashion" class="analytics tag-fashion" data-category="Nav clicks" data-label="Trending Tags" data-value="Fashion">
-Fashion
-</a>
-</li>
-<li class="text-capitalize">
-<span class="tag-icon tag-icon-style-2"></span>
-<a href="https://www.her.ie/her/style-2" class="analytics tag-style-2" data-category="Nav clicks" data-label="Trending Tags" data-value="style">
-style
-</a>
- </li>
 <li class="text-capitalize">
 <span class="tag-icon tag-icon-tv"></span>
 <a href="https://www.her.ie/her/tv" class="analytics tag-tv" data-category="Nav clicks" data-label="Trending Tags" data-value="TV">
@@ -682,21 +797,21 @@ TV
 </a>
 </li>
 <li class="text-capitalize">
-<span class="tag-icon tag-icon-beauty"></span>
-<a href="https://www.her.ie/her/beauty" class="analytics tag-beauty" data-category="Nav clicks" data-label="Trending Tags" data-value="Beauty">
-Beauty
+<span class="tag-icon tag-icon-coronation-street"></span>
+<a href="https://www.her.ie/her/coronation-street" class="analytics tag-coronation-street" data-category="Nav clicks" data-label="Trending Tags" data-value="Coronation Street">
+Coronation Street
 </a>
 </li>
 <li class="text-capitalize">
-<span class="tag-icon tag-icon-food"></span>
-<a href="https://www.her.ie/her/food" class="analytics tag-food" data-category="Nav clicks" data-label="Trending Tags" data-value="food">
-food
+<span class="tag-icon tag-icon-corrie"></span>
+<a href="https://www.her.ie/her/corrie" class="analytics tag-corrie" data-category="Nav clicks" data-label="Trending Tags" data-value="Corrie">
+Corrie
 </a>
 </li>
 <li class="text-capitalize">
-<span class="tag-icon tag-icon-summer"></span>
-<a href="https://www.her.ie/her/summer" class="analytics tag-summer" data-category="Nav clicks" data-label="Trending Tags" data-value="summer">
-summer
+<span class="tag-icon tag-icon-style-2"></span>
+<a href="https://www.her.ie/her/style-2" class="analytics tag-style-2" data-category="Nav clicks" data-label="Trending Tags" data-value="style">
+style
 </a>
 </li>
 <li class="text-capitalize">
@@ -706,15 +821,33 @@ Penneys
 </a>
 </li>
 <li class="text-capitalize">
-<span class="tag-icon tag-icon-celeb-2"></span>
-<a href="https://www.her.ie/her/celeb-2" class="analytics tag-celeb-2" data-category="Nav clicks" data-label="Trending Tags" data-value="celeb">
-celeb
+<span class="tag-icon tag-icon-sponsored"></span>
+<a href="https://www.her.ie/her/sponsored" class="analytics tag-sponsored" data-category="Nav clicks" data-label="Trending Tags" data-value="sponsored">
+sponsored
 </a>
 </li>
 <li class="text-capitalize">
-<span class="tag-icon tag-icon-recipe"></span>
-<a href="https://www.her.ie/her/recipe" class="analytics tag-recipe" data-category="Nav clicks" data-label="Trending Tags" data-value="Recipe">
-Recipe
+<span class="tag-icon tag-icon-fashion"></span>
+<a href="https://www.her.ie/her/fashion" class="analytics tag-fashion" data-category="Nav clicks" data-label="Trending Tags" data-value="Fashion">
+Fashion
+</a>
+</li>
+<li class="text-capitalize">
+<span class="tag-icon tag-icon-wedding"></span>
+<a href="https://www.her.ie/her/wedding" class="analytics tag-wedding" data-category="Nav clicks" data-label="Trending Tags" data-value="wedding">
+wedding
+</a>
+</li>
+<li class="text-capitalize">
+<span class="tag-icon tag-icon-netflix"></span>
+<a href="https://www.her.ie/her/netflix" class="analytics tag-netflix" data-category="Nav clicks" data-label="Trending Tags" data-value="netflix">
+netflix
+</a>
+</li>
+<li class="text-capitalize">
+<span class="tag-icon tag-icon-christmas"></span>
+<a href="https://www.her.ie/her/christmas" class="analytics tag-christmas" data-category="Nav clicks" data-label="Trending Tags" data-value="Christmas">
+Christmas
 </a>
 </li>
 </ul>
@@ -762,7 +895,7 @@ Search
 </div>
 </div>
 </div>
-<div class="main-wrapper container  ">
+<div class="main-wrapper  container  ">
 <main class="main container  article ">
 <div class="sticky-spacer container hidden-xs">
 <div class="text-center top-padding tablet top-ad" id="top-ad-desktop">
@@ -796,7 +929,7 @@ Search
 </div>
 <div class="meta">
 </div>
-<div class="article-content p402_premium">
+<div class="article-content p402_premium ">
 <p><strong>Section 1. Introduction</strong></p>
 <p>At Her.ie we respect the right to personal privacy and our obligations under the General Data Protection Regulation&nbsp;(GDPR) which comes into force across the EU on 25 May 2018. This Privacy Policy outlines how we deal with any personal data you provide to us while visiting this website, or as a registered user. If you are not happy with this Website Privacy Statement you should not use this website.</p>
 <p>By using&nbsp;this website, you are accepting the terms of this privacy statement. Any external links to other websites are clearly identifiable as such, and we are not responsible for the content or the privacy statements of these other websites.</p>
@@ -822,7 +955,7 @@ We will process any Personal Data you provide to us for the following purposes:<
 <li>To send you newsletters or other forms of communication that you register for</li>
 </ol>
 <p><strong>Section 4. Updating Consent&nbsp;</strong></p>
-<p>Her and our carefully selected partners use technology such as cookies on our site to personalize content and ads, provide social media features, and analyze our traffic to provide the best experience possible. Click <a class="change-consent" href="#">here</a> to update your consent preferences for the use of this technology by Maximum Media and these 3rd parties on our site.</p>
+<p>Her and our carefully selected partners use technology such as cookies on our site to personalize content and ads, provide social media features, and analyze our traffic to provide the best experience possible. Click <a href="#" class="change-consent" onclick="window.__cmp('displayConsentUi')">here</a> to update your consent preferences for the use of this technology by Maximum Media and these 3rd parties on our site.</p>
 <p><strong>Section 5. Disclosure of Information to Third Parties</strong></p>
 <p>We may provide Non-Personal Data to third parties, where such information is combined with similar information of other users of our website. For example, we might inform third parties regarding the number of unique users who visit our website, the demographic breakdown of our community users of our website, or the activities that visitors to our website engage in while on our website. The third parties to whom we may provide this information may include potential or actual advertisers, providers of advertising services (including website tracking services), commercial partners, sponsors, licensees, researchers and other similar parties.</p>
 <p>We will not disclose your Personal Data to third parties unless you have consented to this disclosure or unless the third party is required to fulfil a service you have requested (in such circumstances, the third party is bound by similar data protection requirements). Any third party we disclose the information to will use it for the purposes of delivering the service in question unless you have agreed otherwise.</p>
@@ -858,12 +991,13 @@ We will process any Personal Data you provide to us for the following purposes:<
 </div>
 <div id="article-aside" class="col-sm-12 col-lg-4 article-sidebar">
 <div class="visible-lg">
-<div class="hidden-mobile visible-lg">
-<a href="https://soundcloud.com/user-845776759" rel="external">
-<img src="https://www.her.ie/assets/images/her/gwg.png">
-</a>
-</div>
-</div>
+<div id="div-gpt-her-desktop_widget" class="visible-lg" style="height:140px; width:310px;">
+<script>
+        if (window.matchMedia("only screen and (min-width: 1200px)").matches) {
+            googletag.cmd.push(function () { googletag.display('div-gpt-her-desktop_widget'); });
+        }
+    </script>
+</div> </div>
 <div class="banner hidden-mobile top-space sticky-breakpoint">
 <div id="div-gpt-article_top" class="text-center">
 <script type="text/javascript">
@@ -875,152 +1009,152 @@ We will process any Personal Data you provide to us for the following purposes:<
 </div>
 <div class="popular hidden-mobile">
 <div class="section-header">
-<h2 class="h1">popular</h2>
+<div class="h1">popular</div>
 </div>
-<a href="/style/stuck-for-office-workwear-in-this-heat-meet-the-penneys-pants-you-need-asap-410579" class="small-video news-item">
+<a href="/life/this-dublin-based-tattoo-artist-does-the-coolest-girl-power-designs-and-we-love-443092" class="small-video news-item">
 <div class="img-holder video-block">
 <figure>
 <picture>
 <!--[if IE 9]><video style="display: none;"><![endif]-->
-<source data-srcset="https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtaGVyLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzA2XFxcLzI3MTUxNDUxXFxcL3NjcmVlbi1zaG90LTIwMTgtMDMtMjMtYXQtMDktb3B0MS5wbmdcIixcIndpZHRoXCI6MTMzLFwiaGVpZ2h0XCI6NzcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5oZXIuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9oZXJcXFwvbm8taW1hZ2UucG5nP3Y9NVwifSIsImhhc2giOiI2OTA2MzRkNDkyZmY4ZTE0OWVhYjY2NTAxZTI1MDEyYTlkNDI4ODg4In0=/screen-shot-2018-03-23-at-09-opt1.png" media="(min-width: 1200px)">
-<source data-srcset="https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtaGVyLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzA2XFxcLzI3MTUxNDUxXFxcL3NjcmVlbi1zaG90LTIwMTgtMDMtMjMtYXQtMDktb3B0MS5wbmdcIixcIndpZHRoXCI6MjA4LFwiaGVpZ2h0XCI6MTIwLFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuaGVyLmllXFxcL2Fzc2V0c1xcXC9pbWFnZXNcXFwvaGVyXFxcL25vLWltYWdlLnBuZz92PTVcIn0iLCJoYXNoIjoiNTc2N2I2ZGY1NTYyZGMwZjE1ZDY2Y2UyYmI5NDk2NWJhYzg4ZTIwZCJ9/screen-shot-2018-03-23-at-09-opt1.png" media="(min-width: 768px)">
+<source data-srcset="https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtaGVyLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzEyXFxcLzI5MjA0ODMxXFxcL0NhcHR1cmUxMy1lMTU0NjEyMTcyMjEwMS5wbmdcIixcIndpZHRoXCI6MTMzLFwiaGVpZ2h0XCI6NzcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5oZXIuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9oZXJcXFwvbm8taW1hZ2UucG5nP3Y9NVwifSIsImhhc2giOiI1YjcyYjAzZGU2MzRhMDNiMzY3M2RlNTdkNWJjMGVkZmM2ODUzODljIn0=/capture13-e1546121722101.png" media="(min-width: 1200px)">
+<source data-srcset="https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtaGVyLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzEyXFxcLzI5MjA0ODMxXFxcL0NhcHR1cmUxMy1lMTU0NjEyMTcyMjEwMS5wbmdcIixcIndpZHRoXCI6MjA4LFwiaGVpZ2h0XCI6MTIwLFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuaGVyLmllXFxcL2Fzc2V0c1xcXC9pbWFnZXNcXFwvaGVyXFxcL25vLWltYWdlLnBuZz92PTVcIn0iLCJoYXNoIjoiMjc2ZmQ4MTU2OGQzZDFiNzBjYjg5YzgxMmY0MzJhMzIxZmU0ZDc3ZCJ9/capture13-e1546121722101.png" media="(min-width: 768px)">
 <!--[if IE 9]></video><![endif]-->
-<img src="https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5oZXIuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9oZXJcXFwvbm8taW1hZ2UucG5nP3Y9NVwiLFwid2lkdGhcIjoxMzMsXCJoZWlnaHRcIjo3NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lmhlci5pZVxcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2hlclxcXC9uby1pbWFnZS5wbmc_dj01XCJ9IiwiaGFzaCI6IjU3YThhZjQ0YzI1OTEyYzBkNmYyMjdlNGQ0OWVmZDViOGQyYzU3OWMifQ==/no-image.png?v=5" data-srcset="https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtaGVyLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzA2XFxcLzI3MTUxNDUxXFxcL3NjcmVlbi1zaG90LTIwMTgtMDMtMjMtYXQtMDktb3B0MS5wbmdcIixcIndpZHRoXCI6MTMzLFwiaGVpZ2h0XCI6NzcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5oZXIuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9oZXJcXFwvbm8taW1hZ2UucG5nP3Y9NVwifSIsImhhc2giOiI2OTA2MzRkNDkyZmY4ZTE0OWVhYjY2NTAxZTI1MDEyYTlkNDI4ODg4In0=/screen-shot-2018-03-23-at-09-opt1.png" alt="Stuck for office workwear in this heat? Meet the Penneys pants you need ASAP" class="river-post-image lazyload">
+<img src="https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5oZXIuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9oZXJcXFwvbm8taW1hZ2UucG5nP3Y9NVwiLFwid2lkdGhcIjoxMzMsXCJoZWlnaHRcIjo3NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lmhlci5pZVxcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2hlclxcXC9uby1pbWFnZS5wbmc_dj01XCJ9IiwiaGFzaCI6IjU3YThhZjQ0YzI1OTEyYzBkNmYyMjdlNGQ0OWVmZDViOGQyYzU3OWMifQ==/no-image.png?v=5" data-srcset="https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtaGVyLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzEyXFxcLzI5MjA0ODMxXFxcL0NhcHR1cmUxMy1lMTU0NjEyMTcyMjEwMS5wbmdcIixcIndpZHRoXCI6MTMzLFwiaGVpZ2h0XCI6NzcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5oZXIuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9oZXJcXFwvbm8taW1hZ2UucG5nP3Y9NVwifSIsImhhc2giOiI1YjcyYjAzZGU2MzRhMDNiMzY3M2RlNTdkNWJjMGVkZmM2ODUzODljIn0=/capture13-e1546121722101.png" alt="This Dublin based tattoo artist does the coolest girl power designs and we LOVE" class="river-post-image lazyload">
 </picture>
 </figure>
 </div>
 <div class="text-holder">
 <div class="wrap-text">
-<h3 class="h3">Stuck for office workwear in this heat? Meet the Penneys pants you need ASAP</h3>
-</div>
-<ul class="meta">
-<li class="share">18 shares</li>
-</ul>
-</div>
-</a>
-<a href="/style/this-e30-zara-dress-is-ideal-for-the-scorching-weather-and-it-comes-in-two-colours-410484" class="small-video news-item">
-<div class="img-holder video-block">
-<figure>
-<picture>
-<!--[if IE 9]><video style="display: none;"><![endif]-->
-<source data-srcset="https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtaGVyLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzA2XFxcLzI3MDkwNTIyXFxcL1NjcmVlbi1TaG90LTIwMTgtMDYtMjctYXQtMTAuMzYuMzAucG5nXCIsXCJ3aWR0aFwiOjEzMyxcImhlaWdodFwiOjc3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuaGVyLmllXFxcL2Fzc2V0c1xcXC9pbWFnZXNcXFwvaGVyXFxcL25vLWltYWdlLnBuZz92PTVcIn0iLCJoYXNoIjoiYmVlZjU0NGU0MGUwOTVjNzQzMjM5OTM1ODkzZjQ3MGJlZjJkYWJmZSJ9/screen-shot-2018-06-27-at-10-36-30.png" media="(min-width: 1200px)">
-<source data-srcset="https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtaGVyLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzA2XFxcLzI3MDkwNTIyXFxcL1NjcmVlbi1TaG90LTIwMTgtMDYtMjctYXQtMTAuMzYuMzAucG5nXCIsXCJ3aWR0aFwiOjIwOCxcImhlaWdodFwiOjEyMCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lmhlci5pZVxcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2hlclxcXC9uby1pbWFnZS5wbmc_dj01XCJ9IiwiaGFzaCI6IjU5YTY1NDFmODA2MTBkNjRjNDFjMzVjZjgwNDk3YzJhM2FiMTNlY2QifQ==/screen-shot-2018-06-27-at-10-36-30.png" media="(min-width: 768px)">
- <!--[if IE 9]></video><![endif]-->
-<img src="https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5oZXIuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9oZXJcXFwvbm8taW1hZ2UucG5nP3Y9NVwiLFwid2lkdGhcIjoxMzMsXCJoZWlnaHRcIjo3NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lmhlci5pZVxcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2hlclxcXC9uby1pbWFnZS5wbmc_dj01XCJ9IiwiaGFzaCI6IjU3YThhZjQ0YzI1OTEyYzBkNmYyMjdlNGQ0OWVmZDViOGQyYzU3OWMifQ==/no-image.png?v=5" data-srcset="https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtaGVyLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzA2XFxcLzI3MDkwNTIyXFxcL1NjcmVlbi1TaG90LTIwMTgtMDYtMjctYXQtMTAuMzYuMzAucG5nXCIsXCJ3aWR0aFwiOjEzMyxcImhlaWdodFwiOjc3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuaGVyLmllXFxcL2Fzc2V0c1xcXC9pbWFnZXNcXFwvaGVyXFxcL25vLWltYWdlLnBuZz92PTVcIn0iLCJoYXNoIjoiYmVlZjU0NGU0MGUwOTVjNzQzMjM5OTM1ODkzZjQ3MGJlZjJkYWJmZSJ9/screen-shot-2018-06-27-at-10-36-30.png" alt="This €30 Zara dress is ideal for the scorching weather and it comes in two colours" class="river-post-image lazyload">
-</picture>
-</figure>
-</div>
-<div class="text-holder">
-<div class="wrap-text">
-<h3 class="h3">This €30 Zara dress is ideal for the scorching weather and it comes in two colours</h3>
-</div>
-<ul class="meta">
-<li class="share">13 shares</li>
-</ul>
-</div>
-</a>
-<a href="/style/hollys-floral-oasis-dress-has-sold-out-because-of-course-it-has-410479" class="small-video news-item">
-<div class="img-holder video-block">
-<figure>
-<picture>
-<!--[if IE 9]><video style="display: none;"><![endif]-->
-<source data-srcset="https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtaGVyLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzA2XFxcLzI3MTIwMjI3XFxcL3NjcmVlbi1zaG90LTIwMTctMDktMjEtYXQtMTItb3B0LnBuZ1wiLFwid2lkdGhcIjoxMzMsXCJoZWlnaHRcIjo3NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lmhlci5pZVxcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2hlclxcXC9uby1pbWFnZS5wbmc_dj01XCJ9IiwiaGFzaCI6ImE3YzE0ZDA0MTkyMTE4OTE2NjQxMzM5NmY0ZGNmZGEwYmE4OTEyNGMifQ==/screen-shot-2017-09-21-at-12-opt.png" media="(min-width: 1200px)">
-<source data-srcset="https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtaGVyLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzA2XFxcLzI3MTIwMjI3XFxcL3NjcmVlbi1zaG90LTIwMTctMDktMjEtYXQtMTItb3B0LnBuZ1wiLFwid2lkdGhcIjoyMDgsXCJoZWlnaHRcIjoxMjAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5oZXIuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9oZXJcXFwvbm8taW1hZ2UucG5nP3Y9NVwifSIsImhhc2giOiIxNjg0OTZlZWYxZTI4ZjNjYjg0MDFhNTM5NTg0NjlkMDBjZDY1NWI3In0=/screen-shot-2017-09-21-at-12-opt.png" media="(min-width: 768px)">
-<!--[if IE 9]></video><![endif]-->
-<img src="https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5oZXIuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9oZXJcXFwvbm8taW1hZ2UucG5nP3Y9NVwiLFwid2lkdGhcIjoxMzMsXCJoZWlnaHRcIjo3NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lmhlci5pZVxcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2hlclxcXC9uby1pbWFnZS5wbmc_dj01XCJ9IiwiaGFzaCI6IjU3YThhZjQ0YzI1OTEyYzBkNmYyMjdlNGQ0OWVmZDViOGQyYzU3OWMifQ==/no-image.png?v=5" data-srcset="https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtaGVyLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzA2XFxcLzI3MTIwMjI3XFxcL3NjcmVlbi1zaG90LTIwMTctMDktMjEtYXQtMTItb3B0LnBuZ1wiLFwid2lkdGhcIjoxMzMsXCJoZWlnaHRcIjo3NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lmhlci5pZVxcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2hlclxcXC9uby1pbWFnZS5wbmc_dj01XCJ9IiwiaGFzaCI6ImE3YzE0ZDA0MTkyMTE4OTE2NjQxMzM5NmY0ZGNmZGEwYmE4OTEyNGMifQ==/screen-shot-2017-09-21-at-12-opt.png" alt="Holly's floral Oasis dress sells out in record time and it's no surprise really" class="river-post-image lazyload">
-</picture>
-</figure>
-</div>
-<div class="text-holder">
-<div class="wrap-text">
-<h3 class="h3">Holly's floral Oasis dress sells out in record time and it's no surprise really</h3>
-</div>
-<ul class="meta">
-<li class="share">9 shares</li>
-</ul>
-</div>
-</a>
-<a href="/celeb/everyone-calling-megan-hypocrite-said-love-island-last-night-410464" class="small-video news-item">
-<div class="img-holder video-block">
-<figure>
-<picture>
-<!--[if IE 9]><video style="display: none;"><![endif]-->
-<source data-srcset="https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtaGVyLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzA2XFxcLzI3MDcyMzU3XFxcL21lZ2FuMi5qcGdcIixcIndpZHRoXCI6MTMzLFwiaGVpZ2h0XCI6NzcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5oZXIuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9oZXJcXFwvbm8taW1hZ2UucG5nP3Y9NVwifSIsImhhc2giOiIxY2ZhNzcxY2ZhZDI2ZWQ4N2E5MzgxNzQwY2JhMmE2NjQ4YjJiMDNlIn0=/megan2.jpg" media="(min-width: 1200px)">
-<source data-srcset="https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtaGVyLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzA2XFxcLzI3MDcyMzU3XFxcL21lZ2FuMi5qcGdcIixcIndpZHRoXCI6MjA4LFwiaGVpZ2h0XCI6MTIwLFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuaGVyLmllXFxcL2Fzc2V0c1xcXC9pbWFnZXNcXFwvaGVyXFxcL25vLWltYWdlLnBuZz92PTVcIn0iLCJoYXNoIjoiOWQzYmE1MGRhMzhjM2ZjNTQzMThkOGMxMGVkZDU3NzE3OTg1NDMzNiJ9/megan2.jpg" media="(min-width: 768px)">
-<!--[if IE 9]></video><![endif]-->
-<img src="https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5oZXIuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9oZXJcXFwvbm8taW1hZ2UucG5nP3Y9NVwiLFwid2lkdGhcIjoxMzMsXCJoZWlnaHRcIjo3NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lmhlci5pZVxcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2hlclxcXC9uby1pbWFnZS5wbmc_dj01XCJ9IiwiaGFzaCI6IjU3YThhZjQ0YzI1OTEyYzBkNmYyMjdlNGQ0OWVmZDViOGQyYzU3OWMifQ==/no-image.png?v=5" data-srcset="https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtaGVyLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzA2XFxcLzI3MDcyMzU3XFxcL21lZ2FuMi5qcGdcIixcIndpZHRoXCI6MTMzLFwiaGVpZ2h0XCI6NzcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5oZXIuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9oZXJcXFwvbm8taW1hZ2UucG5nP3Y9NVwifSIsImhhc2giOiIxY2ZhNzcxY2ZhZDI2ZWQ4N2E5MzgxNzQwY2JhMmE2NjQ4YjJiMDNlIn0=/megan2.jpg" alt="Everyone is calling Megan a &quot;hypocrite&quot; after she said THIS on Love Island last night" class="river-post-image lazyload">
-</picture>
-</figure>
-</div>
-<div class="text-holder">
-<div class="wrap-text">
-<h3 class="h3">Everyone is calling Megan a "hypocrite" after she said THIS on Love Island last night</h3>
+<div class="h3">This Dublin based tattoo artist does the coolest girl power designs and we LOVE</div>
 </div>
 <ul class="meta">
 <li class="share">12 shares</li>
 </ul>
 </div>
 </a>
-<a href="/celeb/everyones-talking-megan-love-islands-thumbs-410587" class="small-video news-item">
-<div class="img-holder video-block">
-<figure>
- <picture>
-<!--[if IE 9]><video style="display: none;"><![endif]-->
-<source data-srcset="https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtaGVyLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzA2XFxcLzI3MDcyMzU3XFxcL21lZ2FuMi5qcGdcIixcIndpZHRoXCI6MTMzLFwiaGVpZ2h0XCI6NzcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5oZXIuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9oZXJcXFwvbm8taW1hZ2UucG5nP3Y9NVwifSIsImhhc2giOiIxY2ZhNzcxY2ZhZDI2ZWQ4N2E5MzgxNzQwY2JhMmE2NjQ4YjJiMDNlIn0=/megan2.jpg" media="(min-width: 1200px)">
-<source data-srcset="https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtaGVyLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzA2XFxcLzI3MDcyMzU3XFxcL21lZ2FuMi5qcGdcIixcIndpZHRoXCI6MjA4LFwiaGVpZ2h0XCI6MTIwLFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuaGVyLmllXFxcL2Fzc2V0c1xcXC9pbWFnZXNcXFwvaGVyXFxcL25vLWltYWdlLnBuZz92PTVcIn0iLCJoYXNoIjoiOWQzYmE1MGRhMzhjM2ZjNTQzMThkOGMxMGVkZDU3NzE3OTg1NDMzNiJ9/megan2.jpg" media="(min-width: 768px)">
-<!--[if IE 9]></video><![endif]-->
-<img src="https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5oZXIuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9oZXJcXFwvbm8taW1hZ2UucG5nP3Y9NVwiLFwid2lkdGhcIjoxMzMsXCJoZWlnaHRcIjo3NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lmhlci5pZVxcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2hlclxcXC9uby1pbWFnZS5wbmc_dj01XCJ9IiwiaGFzaCI6IjU3YThhZjQ0YzI1OTEyYzBkNmYyMjdlNGQ0OWVmZDViOGQyYzU3OWMifQ==/no-image.png?v=5" data-srcset="https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtaGVyLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzA2XFxcLzI3MDcyMzU3XFxcL21lZ2FuMi5qcGdcIixcIndpZHRoXCI6MTMzLFwiaGVpZ2h0XCI6NzcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5oZXIuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9oZXJcXFwvbm8taW1hZ2UucG5nP3Y9NVwifSIsImhhc2giOiIxY2ZhNzcxY2ZhZDI2ZWQ4N2E5MzgxNzQwY2JhMmE2NjQ4YjJiMDNlIn0=/megan2.jpg" alt="Everyone's talking about Megan from Love Island's thumbs" class="river-post-image lazyload">
-</picture>
-</figure>
-</div>
-<div class="text-holder">
-<div class="wrap-text">
-<h3 class="h3">Everyone's talking about Megan from Love Island's thumbs</h3>
-</div>
-<ul class="meta">
-<li class="share">119 shares</li>
-</ul>
-</div>
-</a>
-<a href="/style/dealz-selling-heatwave-ready-clothing-just-e1-50-fab-410505" class="small-video news-item">
+<a href="/style/we-can-totally-see-ourselves-pretending-to-go-to-the-gym-in-penneys-fab-new-bits-443102" class="small-video news-item">
 <div class="img-holder video-block">
 <figure>
 <picture>
 <!--[if IE 9]><video style="display: none;"><![endif]-->
-<source data-srcset="https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtaGVyLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzA2XFxcLzI3MTExNjM3XFxcLzI2MjA0MV82MzZ4MzU3LmpwZ1wiLFwid2lkdGhcIjoxMzMsXCJoZWlnaHRcIjo3NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lmhlci5pZVxcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2hlclxcXC9uby1pbWFnZS5wbmc_dj01XCJ9IiwiaGFzaCI6IjE1MmEzYjYzZTRkMTFlZDkwOTU1NGJmY2FjMjk4NTIyNzViMzMzZTYifQ==/262041-636x357.jpg" media="(min-width: 1200px)">
-<source data-srcset="https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtaGVyLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzA2XFxcLzI3MTExNjM3XFxcLzI2MjA0MV82MzZ4MzU3LmpwZ1wiLFwid2lkdGhcIjoyMDgsXCJoZWlnaHRcIjoxMjAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5oZXIuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9oZXJcXFwvbm8taW1hZ2UucG5nP3Y9NVwifSIsImhhc2giOiI0YzAzOGMyNzkzMzEyMzdmYjRjZTY1Y2Y2M2Y0YjcwMTk0Njg4ZWZmIn0=/262041-636x357.jpg" media="(min-width: 768px)">
+<source data-srcset="https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtaGVyLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzEyXFxcLzMwMTAzMTI3XFxcL0NhcHR1cmUxMy1lMTU0NjE2NzkyMTk5OC5wbmdcIixcIndpZHRoXCI6MTMzLFwiaGVpZ2h0XCI6NzcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5oZXIuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9oZXJcXFwvbm8taW1hZ2UucG5nP3Y9NVwifSIsImhhc2giOiIzMTljYmEzNzVhMGMxMmNjZjU2NjkzOTAyOGRmYzIzMjk2YWVjMGMwIn0=/capture13-e1546167921998.png" media="(min-width: 1200px)">
+<source data-srcset="https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtaGVyLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzEyXFxcLzMwMTAzMTI3XFxcL0NhcHR1cmUxMy1lMTU0NjE2NzkyMTk5OC5wbmdcIixcIndpZHRoXCI6MjA4LFwiaGVpZ2h0XCI6MTIwLFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuaGVyLmllXFxcL2Fzc2V0c1xcXC9pbWFnZXNcXFwvaGVyXFxcL25vLWltYWdlLnBuZz92PTVcIn0iLCJoYXNoIjoiY2UwNzkxNzZkOWUzNTE3OGE5ZGFhZDIxNjBkZDJmMTMwYTY1ZTM1MCJ9/capture13-e1546167921998.png" media="(min-width: 768px)">
 <!--[if IE 9]></video><![endif]-->
-<img src="https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5oZXIuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9oZXJcXFwvbm8taW1hZ2UucG5nP3Y9NVwiLFwid2lkdGhcIjoxMzMsXCJoZWlnaHRcIjo3NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lmhlci5pZVxcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2hlclxcXC9uby1pbWFnZS5wbmc_dj01XCJ9IiwiaGFzaCI6IjU3YThhZjQ0YzI1OTEyYzBkNmYyMjdlNGQ0OWVmZDViOGQyYzU3OWMifQ==/no-image.png?v=5" data-srcset="https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtaGVyLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzA2XFxcLzI3MTExNjM3XFxcLzI2MjA0MV82MzZ4MzU3LmpwZ1wiLFwid2lkdGhcIjoxMzMsXCJoZWlnaHRcIjo3NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lmhlci5pZVxcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2hlclxcXC9uby1pbWFnZS5wbmc_dj01XCJ9IiwiaGFzaCI6IjE1MmEzYjYzZTRkMTFlZDkwOTU1NGJmY2FjMjk4NTIyNzViMzMzZTYifQ==/262041-636x357.jpg" alt="Dealz is selling heatwave-ready clothing for only €2.50" class="river-post-image lazyload">
+<img src="https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5oZXIuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9oZXJcXFwvbm8taW1hZ2UucG5nP3Y9NVwiLFwid2lkdGhcIjoxMzMsXCJoZWlnaHRcIjo3NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lmhlci5pZVxcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2hlclxcXC9uby1pbWFnZS5wbmc_dj01XCJ9IiwiaGFzaCI6IjU3YThhZjQ0YzI1OTEyYzBkNmYyMjdlNGQ0OWVmZDViOGQyYzU3OWMifQ==/no-image.png?v=5" data-srcset="https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtaGVyLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzEyXFxcLzMwMTAzMTI3XFxcL0NhcHR1cmUxMy1lMTU0NjE2NzkyMTk5OC5wbmdcIixcIndpZHRoXCI6MTMzLFwiaGVpZ2h0XCI6NzcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5oZXIuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9oZXJcXFwvbm8taW1hZ2UucG5nP3Y9NVwifSIsImhhc2giOiIzMTljYmEzNzVhMGMxMmNjZjU2NjkzOTAyOGRmYzIzMjk2YWVjMGMwIn0=/capture13-e1546167921998.png" alt="We can totally see ourselves pretending to go to the gym in Penneys FAB new bits" class="river-post-image lazyload">
 </picture>
 </figure>
 </div>
 <div class="text-holder">
 <div class="wrap-text">
- <h3 class="h3">Dealz is selling heatwave-ready clothing for only €2.50</h3>
+<div class="h3">We can totally see ourselves pretending to go to the gym in Penneys FAB new bits</div>
 </div>
 <ul class="meta">
-<li class="share">5 shares</li>
+<li class="share">30 shares</li>
 </ul>
 </div>
 </a>
-<a href="/entertainment/twelve-new-housemates-joining-love-island-villa-tomorrow-410598" class="small-video news-item">
+<a href="/entertainment/devastating-news-for-coronation-streets-johnny-and-jenny-connor-in-new-storyline-442873" class="small-video news-item">
 <div class="img-holder video-block">
 <figure>
 <picture>
 <!--[if IE 9]><video style="display: none;"><![endif]-->
-<source data-srcset="https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtaGVyLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzA2XFxcLzI1MTE1MzAzXFxcL2xvdmVpc2xhbmQzLmpwZ1wiLFwid2lkdGhcIjoxMzMsXCJoZWlnaHRcIjo3NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lmhlci5pZVxcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2hlclxcXC9uby1pbWFnZS5wbmc_dj01XCJ9IiwiaGFzaCI6IjA1MDM0MDNlYzJhNDY1NTdjYzYxNGU3ODdmZTdjMjkzMDFhOGQ2NmIifQ==/loveisland3.jpg" media="(min-width: 1200px)">
-<source data-srcset="https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtaGVyLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzA2XFxcLzI1MTE1MzAzXFxcL2xvdmVpc2xhbmQzLmpwZ1wiLFwid2lkdGhcIjoyMDgsXCJoZWlnaHRcIjoxMjAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5oZXIuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9oZXJcXFwvbm8taW1hZ2UucG5nP3Y9NVwifSIsImhhc2giOiI0OGJmM2M2ODJhYWYyMzQ5MTQwNWRlZDNhMDA4MzdlNGExMzFhZjM0In0=/loveisland3.jpg" media="(min-width: 768px)">
+<source data-srcset="https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtaGVyLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzEyXFxcLzI3MTAyOTUyXFxcL1NjcmVlbi1TaG90LTIwMTgtMTItMjctYXQtMTAuMjkuMjgucG5nXCIsXCJ3aWR0aFwiOjEzMyxcImhlaWdodFwiOjc3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuaGVyLmllXFxcL2Fzc2V0c1xcXC9pbWFnZXNcXFwvaGVyXFxcL25vLWltYWdlLnBuZz92PTVcIn0iLCJoYXNoIjoiMTU3OTVjNjU1YjZhMGJhOTYyZjhmYTI5YTFhZjU4YTgzNDM5MTg0NCJ9/screen-shot-2018-12-27-at-10-29-28.png" media="(min-width: 1200px)">
+<source data-srcset="https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtaGVyLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzEyXFxcLzI3MTAyOTUyXFxcL1NjcmVlbi1TaG90LTIwMTgtMTItMjctYXQtMTAuMjkuMjgucG5nXCIsXCJ3aWR0aFwiOjIwOCxcImhlaWdodFwiOjEyMCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lmhlci5pZVxcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2hlclxcXC9uby1pbWFnZS5wbmc_dj01XCJ9IiwiaGFzaCI6IjU5NjMxNmZhOWU4OTczYzk3YWRkYzljZjI5ZmY0OGE0MWQ5ZTUwYjgifQ==/screen-shot-2018-12-27-at-10-29-28.png" media="(min-width: 768px)">
 <!--[if IE 9]></video><![endif]-->
-<img src="https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5oZXIuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9oZXJcXFwvbm8taW1hZ2UucG5nP3Y9NVwiLFwid2lkdGhcIjoxMzMsXCJoZWlnaHRcIjo3NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lmhlci5pZVxcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2hlclxcXC9uby1pbWFnZS5wbmc_dj01XCJ9IiwiaGFzaCI6IjU3YThhZjQ0YzI1OTEyYzBkNmYyMjdlNGQ0OWVmZDViOGQyYzU3OWMifQ==/no-image.png?v=5" data-srcset="https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtaGVyLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzA2XFxcLzI1MTE1MzAzXFxcL2xvdmVpc2xhbmQzLmpwZ1wiLFwid2lkdGhcIjoxMzMsXCJoZWlnaHRcIjo3NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lmhlci5pZVxcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2hlclxcXC9uby1pbWFnZS5wbmc_dj01XCJ9IiwiaGFzaCI6IjA1MDM0MDNlYzJhNDY1NTdjYzYxNGU3ODdmZTdjMjkzMDFhOGQ2NmIifQ==/loveisland3.jpg" alt="There are TWELVE new housemates joining the Love Island villa tomorrow...including Jack's ex" class="river-post-image lazyload">
+<img src="https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5oZXIuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9oZXJcXFwvbm8taW1hZ2UucG5nP3Y9NVwiLFwid2lkdGhcIjoxMzMsXCJoZWlnaHRcIjo3NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lmhlci5pZVxcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2hlclxcXC9uby1pbWFnZS5wbmc_dj01XCJ9IiwiaGFzaCI6IjU3YThhZjQ0YzI1OTEyYzBkNmYyMjdlNGQ0OWVmZDViOGQyYzU3OWMifQ==/no-image.png?v=5" data-srcset="https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtaGVyLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzEyXFxcLzI3MTAyOTUyXFxcL1NjcmVlbi1TaG90LTIwMTgtMTItMjctYXQtMTAuMjkuMjgucG5nXCIsXCJ3aWR0aFwiOjEzMyxcImhlaWdodFwiOjc3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuaGVyLmllXFxcL2Fzc2V0c1xcXC9pbWFnZXNcXFwvaGVyXFxcL25vLWltYWdlLnBuZz92PTVcIn0iLCJoYXNoIjoiMTU3OTVjNjU1YjZhMGJhOTYyZjhmYTI5YTFhZjU4YTgzNDM5MTg0NCJ9/screen-shot-2018-12-27-at-10-29-28.png" alt="Devastating news for Coronation Street's Johnny and Jenny Connor in new storyline" class="river-post-image lazyload">
 </picture>
 </figure>
 </div>
 <div class="text-holder">
 <div class="wrap-text">
-<h3 class="h3">There are TWELVE new housemates joining the Love Island villa tomorrow...including Jack's ex</h3>
+<div class="h3">Devastating news for Coronation Street's Johnny and Jenny Connor in new storyline</div>
 </div>
 <ul class="meta">
-<li class="share">138 shares</li>
+<li class="share">50 shares</li>
+</ul>
+</div>
+</a>
+<a href="/celeb/ant-mcpartlin-spotted-returning-work-dec-first-time-since-drink-driving-incident-443111" class="small-video news-item">
+<div class="img-holder video-block">
+<figure>
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtaGVyLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzEyXFxcLzMwMTIxODUwXFxcL1NjcmVlbi1TaG90LTIwMTgtMTItMzAtYXQtMTIuMTcuNTQucG5nXCIsXCJ3aWR0aFwiOjEzMyxcImhlaWdodFwiOjc3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuaGVyLmllXFxcL2Fzc2V0c1xcXC9pbWFnZXNcXFwvaGVyXFxcL25vLWltYWdlLnBuZz92PTVcIn0iLCJoYXNoIjoiZWZiNzQxYzBlZDM3ZDJlMDY2ZTRiMjU3ZTA5NjQxNWE2YjZlZjc2ZiJ9/screen-shot-2018-12-30-at-12-17-54.png" media="(min-width: 1200px)">
+<source data-srcset="https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtaGVyLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzEyXFxcLzMwMTIxODUwXFxcL1NjcmVlbi1TaG90LTIwMTgtMTItMzAtYXQtMTIuMTcuNTQucG5nXCIsXCJ3aWR0aFwiOjIwOCxcImhlaWdodFwiOjEyMCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lmhlci5pZVxcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2hlclxcXC9uby1pbWFnZS5wbmc_dj01XCJ9IiwiaGFzaCI6IjJmN2ViZmZhYjU5ZDMzNWM2ZTY0YmVjMzJlYzFiZGQ5MzNiNjRjM2EifQ==/screen-shot-2018-12-30-at-12-17-54.png" media="(min-width: 768px)">
+<!--[if IE 9]></video><![endif]-->
+<img src="https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5oZXIuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9oZXJcXFwvbm8taW1hZ2UucG5nP3Y9NVwiLFwid2lkdGhcIjoxMzMsXCJoZWlnaHRcIjo3NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lmhlci5pZVxcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2hlclxcXC9uby1pbWFnZS5wbmc_dj01XCJ9IiwiaGFzaCI6IjU3YThhZjQ0YzI1OTEyYzBkNmYyMjdlNGQ0OWVmZDViOGQyYzU3OWMifQ==/no-image.png?v=5" data-srcset="https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtaGVyLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzEyXFxcLzMwMTIxODUwXFxcL1NjcmVlbi1TaG90LTIwMTgtMTItMzAtYXQtMTIuMTcuNTQucG5nXCIsXCJ3aWR0aFwiOjEzMyxcImhlaWdodFwiOjc3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuaGVyLmllXFxcL2Fzc2V0c1xcXC9pbWFnZXNcXFwvaGVyXFxcL25vLWltYWdlLnBuZz92PTVcIn0iLCJoYXNoIjoiZWZiNzQxYzBlZDM3ZDJlMDY2ZTRiMjU3ZTA5NjQxNWE2YjZlZjc2ZiJ9/screen-shot-2018-12-30-at-12-17-54.png" alt="Ant McPartlin spotted returning to work with Dec for first time since drink driving incident" class="river-post-image lazyload">
+</picture>
+</figure>
+</div>
+<div class="text-holder">
+<div class="wrap-text">
+<div class="h3">Ant McPartlin spotted returning to work with Dec for first time since drink driving incident</div>
+</div>
+<ul class="meta">
+<li class="share">95 shares</li>
+</ul>
+</div>
+</a>
+<a href="/style/e5-penneys-top-comes-3-colours-perfect-add-new-years-outfit-443050" class="small-video news-item">
+<div class="img-holder video-block">
+<figure>
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtaGVyLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzEyXFxcLzI5MTI1MzQzXFxcL3NjcmVlbi1zaG90LTIwMTgtMTItMDQtYXQtMTEtNTQtNTkxLnBuZ1wiLFwid2lkdGhcIjoxMzMsXCJoZWlnaHRcIjo3NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lmhlci5pZVxcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2hlclxcXC9uby1pbWFnZS5wbmc_dj01XCJ9IiwiaGFzaCI6IjIxOGMwNjg3Y2E4MDg4ZTdjYWQ5NmFlMGIwYzkyNDAwOTQ4ZGY1NzQifQ==/screen-shot-2018-12-04-at-11-54-591.png" media="(min-width: 1200px)">
+<source data-srcset="https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtaGVyLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzEyXFxcLzI5MTI1MzQzXFxcL3NjcmVlbi1zaG90LTIwMTgtMTItMDQtYXQtMTEtNTQtNTkxLnBuZ1wiLFwid2lkdGhcIjoyMDgsXCJoZWlnaHRcIjoxMjAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5oZXIuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9oZXJcXFwvbm8taW1hZ2UucG5nP3Y9NVwifSIsImhhc2giOiIyMTY1MjQxYTU3OWRjMTVjODA1ZjM3MmVkMDVlNGNhOWZkMDgyYTkyIn0=/screen-shot-2018-12-04-at-11-54-591.png" media="(min-width: 768px)">
+<!--[if IE 9]></video><![endif]-->
+<img src="https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5oZXIuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9oZXJcXFwvbm8taW1hZ2UucG5nP3Y9NVwiLFwid2lkdGhcIjoxMzMsXCJoZWlnaHRcIjo3NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lmhlci5pZVxcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2hlclxcXC9uby1pbWFnZS5wbmc_dj01XCJ9IiwiaGFzaCI6IjU3YThhZjQ0YzI1OTEyYzBkNmYyMjdlNGQ0OWVmZDViOGQyYzU3OWMifQ==/no-image.png?v=5" data-srcset="https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtaGVyLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzEyXFxcLzI5MTI1MzQzXFxcL3NjcmVlbi1zaG90LTIwMTgtMTItMDQtYXQtMTEtNTQtNTkxLnBuZ1wiLFwid2lkdGhcIjoxMzMsXCJoZWlnaHRcIjo3NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lmhlci5pZVxcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2hlclxcXC9uby1pbWFnZS5wbmc_dj01XCJ9IiwiaGFzaCI6IjIxOGMwNjg3Y2E4MDg4ZTdjYWQ5NmFlMGIwYzkyNDAwOTQ4ZGY1NzQifQ==/screen-shot-2018-12-04-at-11-54-591.png" alt="This €5 Penneys top comes in 3 colours and is perfect to add to your New Years outfit" class="river-post-image lazyload">
+</picture>
+</figure>
+</div>
+<div class="text-holder">
+<div class="wrap-text">
+<div class="h3">This €5 Penneys top comes in 3 colours and is perfect to add to your New Years outfit</div>
+</div>
+<ul class="meta">
+<li class="share">20 shares</li>
+</ul>
+</div>
+</a>
+<a href="/style/pink-zara-jacket-everyone-went-mad-year-now-reduced-e40-443066" class="small-video news-item">
+<div class="img-holder video-block">
+<figure>
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtaGVyLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzEyXFxcLzI5MTQ1MTA0XFxcL3phcmEtMTAyNHgzODQucG5nXCIsXCJ3aWR0aFwiOjEzMyxcImhlaWdodFwiOjc3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuaGVyLmllXFxcL2Fzc2V0c1xcXC9pbWFnZXNcXFwvaGVyXFxcL25vLWltYWdlLnBuZz92PTVcIn0iLCJoYXNoIjoiN2ZiNjY2MjUzNTI0ZGRmMjBmNTA0NGEwY2E1MWIwZDVlNmM1Y2QwNyJ9/zara-1024x384.png" media="(min-width: 1200px)">
+ <source data-srcset="https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtaGVyLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzEyXFxcLzI5MTQ1MTA0XFxcL3phcmEtMTAyNHgzODQucG5nXCIsXCJ3aWR0aFwiOjIwOCxcImhlaWdodFwiOjEyMCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lmhlci5pZVxcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2hlclxcXC9uby1pbWFnZS5wbmc_dj01XCJ9IiwiaGFzaCI6IjdkMmZlOGFjMmJiNzBmMzVlY2U2MTVmY2FlMjFiZTlhMDg4YTU1YTEifQ==/zara-1024x384.png" media="(min-width: 768px)">
+<!--[if IE 9]></video><![endif]-->
+<img src="https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5oZXIuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9oZXJcXFwvbm8taW1hZ2UucG5nP3Y9NVwiLFwid2lkdGhcIjoxMzMsXCJoZWlnaHRcIjo3NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lmhlci5pZVxcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2hlclxcXC9uby1pbWFnZS5wbmc_dj01XCJ9IiwiaGFzaCI6IjU3YThhZjQ0YzI1OTEyYzBkNmYyMjdlNGQ0OWVmZDViOGQyYzU3OWMifQ==/no-image.png?v=5" data-srcset="https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtaGVyLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzEyXFxcLzI5MTQ1MTA0XFxcL3phcmEtMTAyNHgzODQucG5nXCIsXCJ3aWR0aFwiOjEzMyxcImhlaWdodFwiOjc3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuaGVyLmllXFxcL2Fzc2V0c1xcXC9pbWFnZXNcXFwvaGVyXFxcL25vLWltYWdlLnBuZz92PTVcIn0iLCJoYXNoIjoiN2ZiNjY2MjUzNTI0ZGRmMjBmNTA0NGEwY2E1MWIwZDVlNmM1Y2QwNyJ9/zara-1024x384.png" alt="The pink Zara jacket that everyone went MAD for this year is now reduced to €40" class="river-post-image lazyload">
+</picture>
+</figure>
+</div>
+<div class="text-holder">
+<div class="wrap-text">
+<div class="h3">The pink Zara jacket that everyone went MAD for this year is now reduced to €40</div>
+</div>
+<ul class="meta">
+<li class="share">6 shares</li>
+</ul>
+</div>
+</a>
+<a href="/entertainment/fan-favourite-coronation-street-character-set-leave-weatherfield-443030" class="small-video news-item">
+<div class="img-holder video-block">
+<figure>
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtaGVyLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzEyXFxcLzExMTYwMTE4XFxcL2ltYWdlLTYtY29yb25hdGlvbi1zdHJlZXQtaWNvbmljLXB1Yi10aGUtcm92ZXJzLXJldHVybi1waWNzLW1pcnJvcnBpeC1pdHYtcGEtcGhvdG9zLTc3NTA5MTY2MC1lMTUxNzIzNDkyNTYwMi5qcGdcIixcIndpZHRoXCI6MTMzLFwiaGVpZ2h0XCI6NzcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5oZXIuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9oZXJcXFwvbm8taW1hZ2UucG5nP3Y9NVwifSIsImhhc2giOiIyOTk3MTE4NDgwMzM1YTEyNDE4NTAwYzA1ZjYyMzYxNzUxMzhiNzk0In0=/image-6-coronation-street-iconic-pub-the-rovers-return-pics-mirrorpix-itv-pa-photos-775091660-e1517234925602.jpg" media="(min-width: 1200px)">
+<source data-srcset="https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtaGVyLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzEyXFxcLzExMTYwMTE4XFxcL2ltYWdlLTYtY29yb25hdGlvbi1zdHJlZXQtaWNvbmljLXB1Yi10aGUtcm92ZXJzLXJldHVybi1waWNzLW1pcnJvcnBpeC1pdHYtcGEtcGhvdG9zLTc3NTA5MTY2MC1lMTUxNzIzNDkyNTYwMi5qcGdcIixcIndpZHRoXCI6MjA4LFwiaGVpZ2h0XCI6MTIwLFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuaGVyLmllXFxcL2Fzc2V0c1xcXC9pbWFnZXNcXFwvaGVyXFxcL25vLWltYWdlLnBuZz92PTVcIn0iLCJoYXNoIjoiMzAwYTlhMjZkMzJhMjhlMTkyNzg0MTM4ODk4MWQzZDY0MTdhNWM5OCJ9/image-6-coronation-street-iconic-pub-the-rovers-return-pics-mirrorpix-itv-pa-photos-775091660-e1517234925602.jpg" media="(min-width: 768px)">
+ <!--[if IE 9]></video><![endif]-->
+<img src="https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5oZXIuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9oZXJcXFwvbm8taW1hZ2UucG5nP3Y9NVwiLFwid2lkdGhcIjoxMzMsXCJoZWlnaHRcIjo3NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lmhlci5pZVxcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2hlclxcXC9uby1pbWFnZS5wbmc_dj01XCJ9IiwiaGFzaCI6IjU3YThhZjQ0YzI1OTEyYzBkNmYyMjdlNGQ0OWVmZDViOGQyYzU3OWMifQ==/no-image.png?v=5" data-srcset="https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtaGVyLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzEyXFxcLzExMTYwMTE4XFxcL2ltYWdlLTYtY29yb25hdGlvbi1zdHJlZXQtaWNvbmljLXB1Yi10aGUtcm92ZXJzLXJldHVybi1waWNzLW1pcnJvcnBpeC1pdHYtcGEtcGhvdG9zLTc3NTA5MTY2MC1lMTUxNzIzNDkyNTYwMi5qcGdcIixcIndpZHRoXCI6MTMzLFwiaGVpZ2h0XCI6NzcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5oZXIuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9oZXJcXFwvbm8taW1hZ2UucG5nP3Y9NVwifSIsImhhc2giOiIyOTk3MTE4NDgwMzM1YTEyNDE4NTAwYzA1ZjYyMzYxNzUxMzhiNzk0In0=/image-6-coronation-street-iconic-pub-the-rovers-return-pics-mirrorpix-itv-pa-photos-775091660-e1517234925602.jpg" alt="A fan favourite Coronation Street character is set to leave Weatherfield" class="river-post-image lazyload">
+</picture>
+</figure>
+</div>
+<div class="text-holder">
+<div class="wrap-text">
+<div class="h3">A fan favourite Coronation Street character is set to leave Weatherfield</div>
+</div>
+<ul class="meta">
+<li class="share">52 shares</li>
 </ul>
 </div>
 </a>
@@ -1057,7 +1191,7 @@ We will process any Personal Data you provide to us for the following purposes:<
         googletag.cmd.push(function () { googletag.display('div-gpt-oop'); });
     </script>
 </div>
-<script src="https://www.her.ie/assets/js/app-cbb77528.js"></script>
+<script src="https://www.her.ie/assets/js/app-0dfbb5aa.js"></script>
 
 
-</div></body></html>
+</div><iframe name="__cmpLocator" style="display: none;"></iframe></body></html>
