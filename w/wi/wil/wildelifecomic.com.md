@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wildelifecomic.com privacy policy that was archived on 2017-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170720184739id_/http%3A//www.thehiveworks.com/privacy/%3Ffrom%3Dwildelifecomic.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wildelifecomic.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230092158id_/http%3A//www.thehiveworks.com/privacy/%3Ffrom%3Dwildelifecomic.com) for the most accurate reproduction.*
 
 # Hiveworks Comics Privacy Policy
 
