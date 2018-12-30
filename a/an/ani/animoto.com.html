@@ -1,12 +1,17 @@
-<!--The following is the downloaded HTML source of the animoto.com privacy policy that was archived on 2018-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180624105052id_/https%3A//animoto.com/legal/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the animoto.com privacy policy that was archived on 2018-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181230103124id_/https%3A//animoto.com/legal/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js fonts-loading"><!--<![endif]--><head>
-    <link rel="dns-prefetch" href="//d14pr3cu5atb0x.cloudfront.net">
-<link rel="dns-prefetch" href="//d2r6q1p754p9pi.cloudfront.net">
-<link rel="dns-prefetch" href="//d2yc83ilop69kq.cloudfront.net">
+      <link rel="preload" href="https://d14pr3cu5atb0x.cloudfront.net/pkg/css/chimera-dad8c4cb86.css" as="style">
+  <link rel="preload" href="https://d14pr3cu5atb0x.cloudfront.net/pkg/css/icons-801192ee65.css" as="style">
+  <link rel="preload" href="https://d14pr3cu5atb0x.cloudfront.net/pkg/css/marketing-f4d6effc3c.css" as="style">
+  <link rel="preload" href="https://d14pr3cu5atb0x.cloudfront.net/pkg/css/webfont-e33486f62a.css" as="style">
 
-    <script src="https://js-agent.newrelic.com/nr-spa-1071.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-RZK8"></script><script src="//d14pr3cu5atb0x.cloudfront.net/pkg/js/font_face_observer-94790a4cc0.js" type="text/javascript" async=""></script><script>
+    <link rel="dns-prefetch" href="https://d14pr3cu5atb0x.cloudfront.net">
+<link rel="dns-prefetch" href="https://d2r6q1p754p9pi.cloudfront.net">
+<link rel="dns-prefetch" href="https://d2yc83ilop69kq.cloudfront.net">
+
+    <script src="https://js-agent.newrelic.com/nr-spa-1099.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-RZK8"></script><script src="https://d14pr3cu5atb0x.cloudfront.net/pkg/js/font_face_observer-54415e4b80.js" type="text/javascript" async=""></script><script>
       (function() {
   var html = document.documentElement,
       wf,
@@ -18,7 +23,7 @@
   }
 
   wf = document.createElement('script');
-  wf.src = '//d14pr3cu5atb0x.cloudfront.net/pkg/js/font_face_observer-94790a4cc0.js';
+  wf.src = "https://d14pr3cu5atb0x.cloudfront.net/pkg/js/font_face_observer-54415e4b80.js";
   wf.type = 'text/javascript';
   wf.async = 'true';
   s = document.getElementsByTagName('script')[0];
@@ -31,17 +36,17 @@
         proximaNovaBold = new FontFaceObserver('ProximaNova-Bold', {
           weight: 'bold'
         }),
-        proximaNovaCond = new FontFaceObserver('ProximaNova-Cond', {
+        playfairBold = new FontFaceObserver('PlayfairDisplay-Bold', {
           weight: 'bold'
         });
 
     proximaNova.load().then(function () {
-      return proximaNovaBold.load().then(function () {
-        return proximaNovaCond.load().then(function () {
+      return proximaNovaBold.load().then(function() {
+        return playfairBold.load().then(function () {
           sessionStorage.fontsLoaded = true;
           html.classList.remove('fonts-loading');
           html.classList.add('fonts-loaded');
-        });
+        })
       });
     }).catch(function () {
       sessionStorage.fontsLoaded = false;
@@ -50,6 +55,7 @@
     });
   }
 })();
+
       var AS_SETTINGS = {
   project_with_assets_map_header: {
     'Accept': 'application/vnd.animoto.project_with_assets_map-v4+json'
@@ -60,7 +66,7 @@ var AS_HEADERS = {
   'Content-Type': 'application/vnd.animoto-v4+json',
   'Accept'      : 'application/vnd.animoto-v4+json'
 };
-var client_token = 'd51ae16454add224e480f5136a4961bfec889f784e55230238a690e241843b1c';
+var client_token = '3e7bf723cbe953ff534482430590db595726240424c6b721a0b0cf0f1a2d7fe7';
 
         var optimizelyRedirect = function(url) {
         if(!url) {
@@ -129,7 +135,7 @@ var client_token = 'd51ae16454add224e480f5136a4961bfec889f784e55230238a690e24184
     ua_profile      : 'UA-1450253-19',
     classic_profile : 'UA-1450253-1',
     dimension1      : 'visitor:none:none:' + parseFloat(window.devicePixelRatio).toFixed(2) + 'x',
-    dimension2      : '',
+    dimension2      : 'XX', // NB: 'XX' replaces legacy/invalid data that used to be the combination of gender and age. See https://animoto.atlassian.net/browse/WC-279
     dimension4      : 'x:x',
     // snowplow data tracking
     env             : 'production'
@@ -161,56 +167,53 @@ var client_token = 'd51ae16454add224e480f5136a4961bfec889f784e55230238a690e24184
     has_facebook_profile  : false
   }
 
-  if (optimizelySettings.user.new_user) {
-    window.optimizely.push({
-      type       : 'user',
-      attributes : {
-        storyboardWizardTest          : false,
-        noProductSelectorTestJune2018 : false,
-        previewUpsellTestJune2018     : false
-      }
-    });
-  }
-
   if (optimizelySettings.user.is_first_purchase) {
     window.optimizely.push(['trackEvent', 'subscribed']);
   }
 
+  window.optimizely.push({
+    type       : 'user',
+    attributes : {
+      country_code : 'US'
+    }
+  });
+
+      
     </script>
       <meta charset="utf-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"9b96fdad10","applicationID":"99464886","transactionName":"dglbTEtWCFxdEE4AV1gATBdaVBcfWw0PF11bEhpLUVYTEBVCERFRQwdWQWZJC1xRARg=","queueTime":0,"applicationTime":106,"agent":""}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQEAWF5WABAJXVVUAwkPUA=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(20),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,c){try{h?h-=1:o(c||new UncaughtException(t,e,n),!0)}catch(f){try{i("ierr",[f,s.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t,e){var n=e?null:s.now();i("err",[t,n])}var i=t("handle"),a=t(21),c=t("ee"),s=t("loader"),f=t("gos"),u=window.onerror,d=!1,p="nr@seenError",h=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(13),t(12),"addEventListener"in window&&t(6),s.xhrWrappable&&t(14),d=!0)}c.on("fn-start",function(t,e,n){d&&(h+=1)}),c.on("fn-err",function(t,e,n){d&&!n[p]&&(f(n,p,function(){return!0}),this.thrown=!0,o(n))}),c.on("fn-end",function(){d&&!this.thrown&&h>0&&(h-=1)}),c.on("internal-error",function(t){i("ierr",[t,s.now(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(){M++,S=y.hash,this[u]=b.now()}function o(){M--,y.hash!==S&&i(0,!0);var t=b.now();this[l]=~~this[l]+t-this[u],this[d]=t}function i(t,e){E.emit("newURL",[""+y,e])}function a(t,e){t.on(e,function(){this[e]=b.now()})}var c="-start",s="-end",f="-body",u="fn"+c,d="fn"+s,p="cb"+c,h="cb"+s,l="jsTime",m="fetch",v="addEventListener",w=window,y=w.location,b=t("loader");if(w[v]&&b.xhrWrappable){var g=t(10),x=t(11),E=t(8),P=t(6),O=t(13),R=t(7),T=t(14),L=t(9),j=t("ee"),N=j.get("tracer");t(15),b.features.spa=!0;var S,M=0;j.on(u,r),j.on(p,r),j.on(d,o),j.on(h,o),j.buffer([u,d,"xhr-done","xhr-resolved"]),P.buffer([u]),O.buffer(["setTimeout"+s,"clearTimeout"+c,u]),T.buffer([u,"new-xhr","send-xhr"+c]),R.buffer([m+c,m+"-done",m+f+c,m+f+s]),E.buffer(["newURL"]),g.buffer([u]),x.buffer(["propagate",p,h,"executor-err","resolve"+c]),N.buffer([u,"no-"+u]),L.buffer(["new-jsonp","cb-start","jsonp-error","jsonp-end"]),a(T,"send-xhr"+c),a(j,"xhr-resolved"),a(j,"xhr-done"),a(R,m+c),a(R,m+"-done"),a(L,"new-jsonp"),a(L,"jsonp-end"),a(L,"cb-start"),E.on("pushState-end",i),E.on("replaceState-end",i),w[v]("hashchange",i,!0),w[v]("load",i,!0),w[v]("popstate",function(){i(0,M>1)},!0)}},{}],5:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(13),c=t(12),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",p="resource",h="-start",l="-end",m="fn"+h,v="fn"+l,w="bstTimer",y="pushState",b=t("loader");b.features.stn=!0,t(8);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=b.now())}),o.on(v,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,b.now()])}),a.on(m,function(t,e,n){this.bstStart=b.now(),this.bstType=n}),a.on(v,function(t,e){i(w,[e,this.bstStart,b.now(),this.bstType])}),c.on(m,function(){this.bstStart=b.now()}),c.on(v,function(t,e){i(w,[e,this.bstStart,b.now(),"requestAnimationFrame"])}),o.on(y+h,function(t){this.time=b.now(),this.startPath=location.pathname+location.hash}),o.on(y+l,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],6:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(23)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],7:[function(t,e,n){function r(t,e,n){var r=t[e];"function"==typeof r&&(t[e]=function(){var t=r.apply(this,arguments);return o.emit(n+"start",arguments,t),t.then(function(e){return o.emit(n+"end",[null,e],t),e},function(e){throw o.emit(n+"end",[e],t),e})})}var o=t("ee").get("fetch"),i=t(20);e.exports=o;var a=window,c="fetch-",s=c+"body-",f=["arrayBuffer","blob","json","text","formData"],u=a.Request,d=a.Response,p=a.fetch,h="prototype";u&&d&&p&&(i(f,function(t,e){r(u[h],e,s),r(d[h],e,s)}),r(a,"fetch",c),o.on(c+"end",function(t,e){var n=this;e?e.clone().arrayBuffer().then(function(t){n.rxSize=t.byteLength,o.emit(c+"done",[null,e],n)}):o.emit(c+"done",[t],n)}))},{}],8:[function(t,e,n){var r=t("ee").get("history"),o=t(23)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],9:[function(t,e,n){function r(t){function e(){s.emit("jsonp-end",[],p),t.removeEventListener("load",e,!1),t.removeEventListener("error",n,!1)}function n(){s.emit("jsonp-error",[],p),s.emit("jsonp-end",[],p),t.removeEventListener("load",e,!1),t.removeEventListener("error",n,!1)}var r=t&&"string"==typeof t.nodeName&&"script"===t.nodeName.toLowerCase();if(r){var o="function"==typeof t.addEventListener;if(o){var a=i(t.src);if(a){var u=c(a),d="function"==typeof u.parent[u.key];if(d){var p={};f.inPlace(u.parent,[u.key],"cb-",p),t.addEventListener("load",e,!1),t.addEventListener("error",n,!1),s.emit("new-jsonp",[t.src],p)}}}}}function o(){return"addEventListener"in window}function i(t){var e=t.match(u);return e?e[1]:null}function a(t,e){var n=t.match(p),r=n[1],o=n[3];return o?a(o,e[r]):e[r]}function c(t){var e=t.match(d);return e&&e.length>=3?{key:e[2],parent:a(e[1],window)}:{key:t,parent:window}}var s=t("ee").get("jsonp"),f=t(23)(s);if(e.exports=s,o()){var u=/[?&](?:callback|cb)=([^&#]+)/,d=/(.*)\.([^.]+)/,p=/^(\w+)(\.|$)(.*)$/,h=["appendChild","insertBefore","replaceChild"];f.inPlace(HTMLElement.prototype,h,"dom-"),f.inPlace(HTMLHeadElement.prototype,h,"dom-"),f.inPlace(HTMLBodyElement.prototype,h,"dom-"),s.on("dom-start",function(t){r(t[0])})}},{}],10:[function(t,e,n){var r=t("ee").get("mutation"),o=t(23)(r),i=NREUM.o.MO;e.exports=r,i&&(window.MutationObserver=function(t){return this instanceof i?new i(o(t,"fn-")):i.apply(this,arguments)},MutationObserver.prototype=i.prototype)},{}],11:[function(t,e,n){function r(t){var e=a.context(),n=c(t,"executor-",e),r=new f(n);return a.context(r).getCtx=function(){return e},a.emit("new-promise",[r,e],e),r}function o(t,e){return e}var i=t(23),a=t("ee").get("promise"),c=i(a),s=t(20),f=NREUM.o.PR;e.exports=a,f&&(window.Promise=r,["all","race"].forEach(function(t){var e=f[t];f[t]=function(n){function r(t){return function(){a.emit("propagate",[null,!o],i),o=o||!t}}var o=!1;s(n,function(e,n){Promise.resolve(n).then(r("all"===t),r(!1))});var i=e.apply(f,arguments),c=f.resolve(i);return c}}),["resolve","reject"].forEach(function(t){var e=f[t];f[t]=function(t){var n=e.apply(f,arguments);return t!==n&&a.emit("propagate",[t,!0],n),n}}),f.prototype["catch"]=function(t){return this.then(null,t)},f.prototype=Object.create(f.prototype,{constructor:{value:r}}),s(Object.getOwnPropertyNames(f),function(t,e){try{r[e]=f[e]}catch(n){}}),a.on("executor-start",function(t){t[0]=c(t[0],"resolve-",this),t[1]=c(t[1],"resolve-",this)}),a.on("executor-err",function(t,e,n){t[1](n)}),c.inPlace(f.prototype,["then"],"then-",o),a.on("then-start",function(t,e){this.promise=e,t[0]=c(t[0],"cb-",this),t[1]=c(t[1],"cb-",this)}),a.on("then-end",function(t,e,n){this.nextPromise=n;var r=this.promise;a.emit("propagate",[r,!0],n)}),a.on("cb-end",function(t,e,n){a.emit("propagate",[n,!0],this.nextPromise)}),a.on("propagate",function(t,e,n){this.getCtx&&!e||(this.getCtx=function(){if(t instanceof Promise)var e=a.context(t);return e&&e.getCtx?e.getCtx():this})}),r.toString=function(){return""+f})},{}],12:[function(t,e,n){var r=t("ee").get("raf"),o=t(23)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],13:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(23)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],14:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",c)}function i(t){b.push(t),l&&(x?x.then(a):v?v(a):(E=-E,P.data=E))}function a(){for(var t=0;t<b.length;t++)r([],b[t]);b.length&&(b=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(6);var f=t("ee"),u=f.get("xhr"),d=t(23)(u),p=NREUM.o,h=p.XHR,l=p.MO,m=p.PR,v=p.SI,w="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],b=[];e.exports=u;var g=window.XMLHttpRequest=function(t){var e=new h(t);try{u.emit("new-xhr",[e],e),e.addEventListener(w,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(h,g),g.prototype=h.prototype,d.inPlace(g.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),l){var x=m&&m.resolve();if(!v&&!m){var E=1,P=document.createTextNode(E);new l(a).observe(P,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===w||a()})},{}],15:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=a.now()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return l(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(16),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,p=t("id"),h=t(19),l=t(18),m=window.XMLHttpRequest;a.features.xhr=!0,t(14),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||h<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=l(r);i&&(n.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var c=0;c<d;c++)e.addEventListener(u[c],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)})}},{}],16:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],17:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(20),c=t(21),s=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],p="api-",h=p+"ixn-";a(d,function(t,e){u[e]=o(p+e,!0,"api")}),u.addPageAction=o(p+"addPageAction",!0),u.setCurrentRouteName=o(p+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var l=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(h+"tracer",[f.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}catch(t){throw s.emit("fn-err",[arguments,this,t],n),t}finally{s.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){l[e]=o(h+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],18:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],19:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],20:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],21:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],22:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],23:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(21),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){p([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o,e)}catch(a){p([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){p([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function p(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o,i){if(!p.aborted||i){t&&t(n,r,o);for(var a=e(o),c=l(n),s=c.length,f=0;f<s;f++)c[f].apply(a,r);var d=u[y[n]];return d&&d.push([b,n,r,a]),a}}function h(t,e){w[t]=l(t).concat(e)}function l(t){return w[t]||[]}function m(t){return d[t]=d[t]||o(n)}function v(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var w={},y={},b={on:h,emit:n,get:m,listeners:l,context:e,buffer:v,abort:a,aborted:!1};return b}function i(){return new r}function a(){(u.api||u.feature)&&(p.aborted=!0,u=p.backlog={})}var c="nr@context",s=t("gos"),f=t(20),u={},d={},p=e.exports=o();p.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!x++){var t=g.info=NREUM.info,e=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(y,function(e,n){t[e]||(t[e]=n)}),s("mark",["onload",a()+g.offset],null,"api");var n=p.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===p.readyState&&i()}function i(){s("mark",["domContent",a()+g.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(c=Math.max((new Date).getTime(),c))-g.offset}var c=(new Date).getTime(),s=t("handle"),f=t(20),u=t("ee"),d=window,p=d.document,h="addEventListener",l="attachEvent",m=d.XMLHttpRequest,v=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var w=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-spa-1071.min.js"},b=m&&v&&v[h]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:c,now:a,origin:w,features:{},xhrWrappable:b};t(17),p[h]?(p[h]("DOMContentLoaded",i,!1),d[h]("load",r,!1)):(p[l]("onreadystatechange",o),d[l]("onload",r)),s("mark",["firstbyte",c],null,"api");var x=0,E=t(22)},{}]},{},["loader",2,15,5,3,4]);</script>
-      <link rel="shortcut icon" href="//d14pr3cu5atb0x.cloudfront.net/images/icons/favicon-c480d3e884.ico">
-      <link rel="apple-touch-icon-precomposed" sizes="144x144" href="//d14pr3cu5atb0x.cloudfront.net/images/icons/touchicon-144-4a42d97241.png">
-      <link rel="apple-touch-icon-precomposed" sizes="114x114" href="//d14pr3cu5atb0x.cloudfront.net/images/icons/touchicon-114-fb592c00d7.png">
-      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="//d14pr3cu5atb0x.cloudfront.net/images/icons/touchicon-72-d0854f51a6.png">
-      <link rel="apple-touch-icon-precomposed" href="//d14pr3cu5atb0x.cloudfront.net/images/icons/touchicon-57-40d80126a6.png">
-      <meta name="description" content="Animoto's video maker turns your photos and video clips into professional videos in minutes. Fast and shockingly simple - we make video creation easy.">
+<script>window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"9b96fdad10","applicationID":"99464886","transactionName":"dglbTEtWCFxdEE4AV1gATBdaVBcfWw0PF11bEhpLUVYTEBVCERFRQwdWQWZJC1xRARg=","queueTime":0,"applicationTime":130,"agent":""}</script>
+<script>(window.NREUM||(NREUM={})).loader_config={xpid:"VQEAWF5WABAJXVVUAwkPUA=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(21),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,s){try{l?l-=1:o(s||new UncaughtException(t,e,n),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t,e){var n=e?null:c.now();i("err",[t,n])}var i=t("handle"),a=t(22),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,p="nr@seenError",l=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(13),t(12),"addEventListener"in window&&t(6),c.xhrWrappable&&t(14),d=!0)}s.on("fn-start",function(t,e,n){d&&(l+=1)}),s.on("fn-err",function(t,e,n){d&&!n[p]&&(f(n,p,function(){return!0}),this.thrown=!0,o(n))}),s.on("fn-end",function(){d&&!this.thrown&&l>0&&(l-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(){M++,N=y.hash,this[u]=g.now()}function o(){M--,y.hash!==N&&i(0,!0);var t=g.now();this[h]=~~this[h]+t-this[u],this[d]=t}function i(t,e){E.emit("newURL",[""+y,e])}function a(t,e){t.on(e,function(){this[e]=g.now()})}var s="-start",c="-end",f="-body",u="fn"+s,d="fn"+c,p="cb"+s,l="cb"+c,h="jsTime",m="fetch",v="addEventListener",w=window,y=w.location,g=t("loader");if(w[v]&&g.xhrWrappable){var b=t(10),x=t(11),E=t(8),O=t(6),P=t(13),R=t(7),T=t(14),L=t(9),j=t("ee"),S=j.get("tracer");t(15),g.features.spa=!0;var N,M=0;j.on(u,r),j.on(p,r),j.on(d,o),j.on(l,o),j.buffer([u,d,"xhr-done","xhr-resolved"]),O.buffer([u]),P.buffer(["setTimeout"+c,"clearTimeout"+s,u]),T.buffer([u,"new-xhr","send-xhr"+s]),R.buffer([m+s,m+"-done",m+f+s,m+f+c]),E.buffer(["newURL"]),b.buffer([u]),x.buffer(["propagate",p,l,"executor-err","resolve"+s]),S.buffer([u,"no-"+u]),L.buffer(["new-jsonp","cb-start","jsonp-error","jsonp-end"]),a(T,"send-xhr"+s),a(j,"xhr-resolved"),a(j,"xhr-done"),a(R,m+s),a(R,m+"-done"),a(L,"new-jsonp"),a(L,"jsonp-end"),a(L,"cb-start"),E.on("pushState-end",i),E.on("replaceState-end",i),w[v]("hashchange",i,!0),w[v]("load",i,!0),w[v]("popstate",function(){i(0,M>1)},!0)}},{}],5:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(13),s=t(12),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",p="resource",l="-start",h="-end",m="fn"+l,v="fn"+h,w="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(8);var b=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof b&&(this.bstStart=g.now())}),o.on(v,function(t,e){var n=t[0];n instanceof b&&i("bst",[n,e,this.bstStart,g.now()])}),a.on(m,function(t,e,n){this.bstStart=g.now(),this.bstType=n}),a.on(v,function(t,e){i(w,[e,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(v,function(t,e){i(w,[e,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+l,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],6:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(24)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=c(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?s(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],7:[function(t,e,n){function r(t,e,n){var r=t[e];"function"==typeof r&&(t[e]=function(){var t=r.apply(this,arguments);return o.emit(n+"start",arguments,t),t.then(function(e){return o.emit(n+"end",[null,e],t),e},function(e){throw o.emit(n+"end",[e],t),e})})}var o=t("ee").get("fetch"),i=t(21);e.exports=o;var a=window,s="fetch-",c=s+"body-",f=["arrayBuffer","blob","json","text","formData"],u=a.Request,d=a.Response,p=a.fetch,l="prototype";u&&d&&p&&(i(f,function(t,e){r(u[l],e,c),r(d[l],e,c)}),r(a,"fetch",s),o.on(s+"end",function(t,e){var n=this;if(e){var r=e.headers.get("content-length");null!==r&&(n.rxSize=r),o.emit(s+"done",[null,e],n)}else o.emit(s+"done",[t],n)}))},{}],8:[function(t,e,n){var r=t("ee").get("history"),o=t(24)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],9:[function(t,e,n){function r(t){function e(){c.emit("jsonp-end",[],p),t.removeEventListener("load",e,!1),t.removeEventListener("error",n,!1)}function n(){c.emit("jsonp-error",[],p),c.emit("jsonp-end",[],p),t.removeEventListener("load",e,!1),t.removeEventListener("error",n,!1)}var r=t&&"string"==typeof t.nodeName&&"script"===t.nodeName.toLowerCase();if(r){var o="function"==typeof t.addEventListener;if(o){var a=i(t.src);if(a){var u=s(a),d="function"==typeof u.parent[u.key];if(d){var p={};f.inPlace(u.parent,[u.key],"cb-",p),t.addEventListener("load",e,!1),t.addEventListener("error",n,!1),c.emit("new-jsonp",[t.src],p)}}}}}function o(){return"addEventListener"in window}function i(t){var e=t.match(u);return e?e[1]:null}function a(t,e){var n=t.match(p),r=n[1],o=n[3];return o?a(o,e[r]):e[r]}function s(t){var e=t.match(d);return e&&e.length>=3?{key:e[2],parent:a(e[1],window)}:{key:t,parent:window}}var c=t("ee").get("jsonp"),f=t(24)(c);if(e.exports=c,o()){var u=/[?&](?:callback|cb)=([^&#]+)/,d=/(.*)\.([^.]+)/,p=/^(\w+)(\.|$)(.*)$/,l=["appendChild","insertBefore","replaceChild"];f.inPlace(HTMLElement.prototype,l,"dom-"),f.inPlace(HTMLHeadElement.prototype,l,"dom-"),f.inPlace(HTMLBodyElement.prototype,l,"dom-"),c.on("dom-start",function(t){r(t[0])})}},{}],10:[function(t,e,n){var r=t("ee").get("mutation"),o=t(24)(r),i=NREUM.o.MO;e.exports=r,i&&(window.MutationObserver=function(t){return this instanceof i?new i(o(t,"fn-")):i.apply(this,arguments)},MutationObserver.prototype=i.prototype)},{}],11:[function(t,e,n){function r(t){var e=a.context(),n=s(t,"executor-",e),r=new f(n);return a.context(r).getCtx=function(){return e},a.emit("new-promise",[r,e],e),r}function o(t,e){return e}var i=t(24),a=t("ee").get("promise"),s=i(a),c=t(21),f=NREUM.o.PR;e.exports=a,f&&(window.Promise=r,["all","race"].forEach(function(t){var e=f[t];f[t]=function(n){function r(t){return function(){a.emit("propagate",[null,!o],i),o=o||!t}}var o=!1;c(n,function(e,n){Promise.resolve(n).then(r("all"===t),r(!1))});var i=e.apply(f,arguments),s=f.resolve(i);return s}}),["resolve","reject"].forEach(function(t){var e=f[t];f[t]=function(t){var n=e.apply(f,arguments);return t!==n&&a.emit("propagate",[t,!0],n),n}}),f.prototype["catch"]=function(t){return this.then(null,t)},f.prototype=Object.create(f.prototype,{constructor:{value:r}}),c(Object.getOwnPropertyNames(f),function(t,e){try{r[e]=f[e]}catch(n){}}),a.on("executor-start",function(t){t[0]=s(t[0],"resolve-",this),t[1]=s(t[1],"resolve-",this)}),a.on("executor-err",function(t,e,n){t[1](n)}),s.inPlace(f.prototype,["then"],"then-",o),a.on("then-start",function(t,e){this.promise=e,t[0]=s(t[0],"cb-",this),t[1]=s(t[1],"cb-",this)}),a.on("then-end",function(t,e,n){this.nextPromise=n;var r=this.promise;a.emit("propagate",[r,!0],n)}),a.on("cb-end",function(t,e,n){a.emit("propagate",[n,!0],this.nextPromise)}),a.on("propagate",function(t,e,n){this.getCtx&&!e||(this.getCtx=function(){if(t instanceof Promise)var e=a.context(t);return e&&e.getCtx?e.getCtx():this})}),r.toString=function(){return""+f})},{}],12:[function(t,e,n){var r=t("ee").get("raf"),o=t(24)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],13:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(24)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],14:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):v?v(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(6);var f=t("ee"),u=f.get("xhr"),d=t(24)(u),p=NREUM.o,l=p.XHR,h=p.MO,m=p.PR,v=p.SI,w="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];e.exports=u;var b=window.XMLHttpRequest=function(t){var e=new l(t);try{u.emit("new-xhr",[e],e),e.addEventListener(w,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(l,b),b.prototype=l.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!v&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===w||a()})},{}],15:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=a.now()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(e.cat=c.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=c(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(16),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,p=t("id"),l=t(19),h=t(18),m=window.XMLHttpRequest;a.features.xhr=!0,t(14),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,l&&(l>34||l<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var s=0;s<d;s++)e.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)})}},{}],16:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],17:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(s(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(21),s=t(22),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],p="api-",l=p+"ixn-";a(d,function(t,e){u[e]=o(p+e,!0,"api")}),u.addPageAction=o(p+"addPageAction",!0),u.setCurrentRouteName=o(p+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[f.now(),t,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],n),t}finally{c.emit("fn-end",[f.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],18:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],19:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],20:[function(t,e,n){function r(t,e){if(!o)return!1;if(t!==o)return!1;if(!e)return!0;if(!i)return!1;for(var n=i.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(o="Safari",i=c[1])}e.exports={agent:o,version:i,match:r}},{}],21:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],22:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],23:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],24:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(22),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(f){p([f,"",[r,a,o],s])}u(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],s),d}finally{u(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<e.length;c++)s=e[c],a=t[s],r(a)||(t[s]=n(a,f?s+o:o,i,s))}function u(n,r,o){if(!c||e){var i=c;c=!0;try{t.emit(n,r,o,e)}catch(a){p([a,n,r,o])}c=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){p([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function p(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function n(n,r,o,i){if(!p.aborted||i){t&&t(n,r,o);for(var a=e(o),s=m(n),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[g[n]];return d&&d.push([b,n,r,a]),a}}function l(t,e){y[t]=m(t).concat(e)}function h(t,e){var n=y[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return y[t]||[]}function v(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",g[n]=e,e in u||(u[e]=[])})}var y={},g={},b={on:l,addEventListener:l,removeEventListener:h,emit:n,get:v,listeners:m,context:e,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(u.api||u.feature)&&(p.aborted=!0,u=p.backlog={})}var s="nr@context",c=t("gos"),f=t(21),u={},d={},p=e.exports=o();p.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!E++){var t=x.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(g,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()+x.offset],null,"api");var n=l.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-x.offset}var s=(new Date).getTime(),c=t("handle"),f=t(21),u=t("ee"),d=t(20),p=window,l=p.document,h="addEventListener",m="attachEvent",v=p.XMLHttpRequest,w=v&&v.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:v,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var y=""+location,g={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-spa-1099.min.js"},b=v&&w&&w[h]&&!/CriOS/.test(navigator.userAgent),x=e.exports={offset:s,now:a,origin:y,features:{},xhrWrappable:b,userAgent:d};t(17),l[h]?(l[h]("DOMContentLoaded",i,!1),p[h]("load",r,!1)):(l[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",s],null,"api");var E=0,O=t(23)},{}]},{},["loader",2,15,5,3,4]);</script>
+      <link rel="shortcut icon" href="https://d14pr3cu5atb0x.cloudfront.net/images/icons/favicon-c480d3e884.ico">
+      <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://d14pr3cu5atb0x.cloudfront.net/images/icons/touchicon-144-4a42d97241.png">
+      <link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://d14pr3cu5atb0x.cloudfront.net/images/icons/touchicon-114-fb592c00d7.png">
+      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://d14pr3cu5atb0x.cloudfront.net/images/icons/touchicon-72-d0854f51a6.png">
+      <link rel="apple-touch-icon-precomposed" href="https://d14pr3cu5atb0x.cloudfront.net/images/icons/touchicon-57-40d80126a6.png">
+      <meta name="description" content="View the terms of Animoto's Privacy Policy.">
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <meta property="og:title" content="Privacy Policy - Animoto">
-      <meta property="og:description" content="Animoto's video maker turns your photos and video clips into professional videos in minutes. Fast and shockingly simple - we make video creation easy.">
+      <meta property="og:description" content="View the terms of Animoto's Privacy Policy.">
       <meta property="og:type" content="website">
-      <meta property="og:image" content="//d14pr3cu5atb0x.cloudfront.net/images/icons/touchicon-144-4a42d97241.png">
+      <meta property="og:image" content="https://d14pr3cu5atb0x.cloudfront.net/images/icons/touchicon-144-4a42d97241.png">
       <meta property="og:site_name" content="Animoto">
       <meta property="og:url" content="https://animoto.com/legal/privacy_policy">
       <title>Privacy Policy - Animoto</title>
-
-        <link rel="stylesheet" media="screen" href="//d14pr3cu5atb0x.cloudfront.net/pkg/css/chimera-cb01c0b848.css">
-        <link rel="stylesheet" media="screen" href="//d14pr3cu5atb0x.cloudfront.net/pkg/css/icons-7c2dacb991.css">
-        <link rel="stylesheet" media="screen" href="//d14pr3cu5atb0x.cloudfront.net/pkg/css/marketing-21139d3324.css">
-        <link rel="stylesheet" media="screen" href="//d14pr3cu5atb0x.cloudfront.net/pkg/css/webfont-e7d28416f2.css">
+        <link rel="stylesheet" media="screen" href="https://d14pr3cu5atb0x.cloudfront.net/pkg/css/chimera-dad8c4cb86.css">
+        <link rel="stylesheet" media="screen" href="https://d14pr3cu5atb0x.cloudfront.net/pkg/css/icons-801192ee65.css">
+        <link rel="stylesheet" media="screen" href="https://d14pr3cu5atb0x.cloudfront.net/pkg/css/marketing-f4d6effc3c.css">
+        <link rel="stylesheet" media="screen" href="https://d14pr3cu5atb0x.cloudfront.net/pkg/css/webfont-e33486f62a.css">
 
       
       
         <link href="https://animoto.com/legal/privacy_policy" rel="canonical">
     <meta name="csrf-param" content="authenticity_token">
-<meta name="csrf-token" content="8VXIgLilXg4dHsRKZnYTb2gWg9hycjVYS4e5mO80mSEUDH63dVHdJhZx0UWL3eqGe+eFYkUGCgcdq8Ya/9TuCQ==">
+<meta name="csrf-token" content="0bmt9WnbwaLTswmr3M5b0V4KY4C7Js3OG3/35A5+bIT+VkfVudWzrw5PvfQa4PSgd6n6Y7lUhAb+NayoX+IQvg==">
     <script>
 //<![CDATA[
-var AUTH_TOKEN = "5ATrOTiR9Cx5mhjbhqE41WPRqzx7mUAcDrTAA/q/FS0BXV0O9WV3BHL1DdRrCsE8cCCthkztf0NYmL+B6l9iBQ==";
+var AUTH_TOKEN = "KbwQ8l8mnsM9JoQBA44NsgWarAwf2ObnJx5s3Yfo5i4GU/rSjyjszuDaMF7FoKLDLDk17x2qry/CVDeR1nSaFA==";
 //]]>
 </script>
+    <meta content="{&quot;aviary&quot;:false,&quot;builder-engine-version&quot;:&quot;production&quot;,&quot;dropbox_retrievals&quot;:true,&quot;emailTemplate&quot;:false,&quot;email_shares&quot;:true,&quot;engine-verbose&quot;:false,&quot;facebook-export&quot;:true,&quot;facebook_retrievals&quot;:true,&quot;flickr_retrievals&quot;:true,&quot;getty_stock&quot;:true,&quot;google_tag_manager&quot;:true,&quot;hubspot-export&quot;:true,&quot;instagram_retrievals&quot;:true,&quot;internal-only-storyboards&quot;:false,&quot;lightroom_retrievals&quot;:true,&quot;linkedin-export&quot;:true,&quot;mobile-styles-and-tap-selector&quot;:false,&quot;mute_videos&quot;:false,&quot;myVideosShares&quot;:false,&quot;optimizely&quot;:true,&quot;phase3PriceButtons&quot;:false,&quot;price-testing&quot;:true,&quot;rebranded-pricing&quot;:false,&quot;sentry&quot;:60,&quot;shot-builder-web&quot;:false,&quot;showBuilderMobileProjects&quot;:false,&quot;smugmug-export&quot;:false,&quot;smugmug_retrievals&quot;:true,&quot;snowplow_service_worker&quot;:false,&quot;twitter-export&quot;:true,&quot;vimeo-export&quot;:true,&quot;vzaar-export&quot;:true,&quot;wistia-export&quot;:true,&quot;youtube-export&quot;:true}" id="ld-bootstrap">
   </head>
   <body class="page fb-no-session white-background" id="">
     <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-RZK8" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -221,59 +224,62 @@ var AUTH_TOKEN = "5ATrOTiR9Cx5mhjbhqE41WPRqzx7mUAcDrTAA/q/FS0BXV0O9WV3BHL1DdRrCs
   <div class="gh-wrapper">
     <div class="container gh-container">
       <div class="row">
-        <div class="gh-logo col-sm-offset-1 col-sm-5 col-md-offset-0 col-md-3">
-          <a href="/" class="logo logo-color logo-text gh-logo-img"><span>Animoto</span></a>
+        <div class="gh-logo">
+          <a href="/" class="logo logo-color logo-text gh-logo-img track-nav-logo-loggedout"><span>Animoto</span></a>
         </div>
-        <div class="gh-nav col-sm-6 col-md-9">
+        <div class="gh-nav">
           <!--  desktop/landscape tablet nav -->
-          <div class="hide-when-sm desktop-nav">
+          <div class="desktop-nav">
             <ul class="body-text-sm label list-style-none gh-list">
-                <li class="gh-list-item"><a class="gh-link grey-link" href="/business">Business</a></li>
-                <li class="gh-list-item"><a class="gh-link grey-link" href="/photography">Photography</a></li>
-                <li class="gh-list-item"><a class="gh-link grey-link" href="/personal">Family</a></li>
-                <li class="gh-list-item"><a class="gh-link grey-link" href="/pricing">Pricing</a></li>
+                <li class="gh-list-item"><a class="gh-link grey-link track-nav-business-desktop" href="/business">Business</a></li>
+                <li class="gh-list-item"><a class="gh-link grey-link track-nav-photography_businessphotography-desktop" href="/photography">Photography</a></li>
+                <li class="gh-list-item"><a class="gh-link grey-link track-nav-family_personal-desktop" href="/personal">Family</a></li>
+                <li class="gh-list-item"><a class="gh-link grey-link track-nav-pricing-desktop" href="/pricing">Pricing</a></li>
               <!-- login button -->
-                <li class="gh-list-item"><a class="gh-link grey-link" href="/sign_up">sign up</a></li>
-                <li class="gh-list-item"><a class="gh-link grey-link" href="/log_in">log in</a></li>
+                <li class="gh-list-item o-site-header-to-hide"><a class="gh-link grey-link track-nav-signup-desktop" href="/sign_up">sign up</a></li>
+                <li class="gh-list-item o-site-header-hidden"><span class="gh-link gh-vertical-separator"></span></li>
+                <li class="gh-list-item"><a class="gh-link grey-link track-nav-login-desktop" href="/log_in">log in</a></li>
+                <li class="gh-list-item o-site-header-hidden"><a class="cta-button-secondary o-site-header-btn-desktop track-nav-startfreetrial_signup-desktop" href="/sign_up">Start free trial</a></li>
             </ul>
           </div>
+        </div>
+        <div class="gh-mobile-buttons-wrap">
+            <a class="cta-button-secondary cta-button-small track-nav-signup-mobile o-site-header-hidden" href="/sign_up">Sign up</a>
           <!-- hamburger nav icon to open mobile nav -->
-          <a href="#" class="js-dropdownControl hamburger gh-hamburger hide-when-desktop hide-text pull-right">menu</a>
+          <a href="#" class="js-dropdownControl hamburger gh-hamburger hide-text pull-right track-nav-hamburger-mobile">menu</a>
         </div>
       </div>
-
-      </div>
+    </div>
   </div>
   <!-- mobile nav -->
-  <div class="gh-mobile hide-when-desktop row">
+  <div class="gh-mobile row">
     <div class="js-dropdownContent gh-menu-content">
       <ul class="list-style-none">
         <li class="gh-list-item">
-          <a href="/business" class="label js-dropdownSubControl gh-menu-sub-control caret-wrapper gh-link grey-link">business<span class="caret gh-mobile-caret pull-right"></span></a>
+          <a href="/business" class="label js-dropdownSubControl gh-mobile-menu-link gh-menu-sub-control caret-wrapper gh-link grey-link track-nav-business_submenu-mobile">business<span class="o-site-header-caret caret"></span><span class="caret gh-mobile-caret pull-right"></span></a>
           <ul class="list-style-none js-dropdownSubContent body-text-md gh-menu-sub-content">
-            <li class="gh-list-item"><a href="/business" class="gh-link grey-link gh-deep-links">overview</a></li>
-            <li class="gh-list-item"><a href="/business/success-stories" class="gh-link grey-link gh-deep-links">success stories</a></li>
-            <li class="gh-list-item"><a href="/pricing" class="gh-link grey-link gh-deep-links">pricing</a></li>
+            <li class="gh-list-item"><a href="/business" class="gh-link grey-link gh-deep-links track-nav-overview-business_submenu-mobile">overview</a></li>
+            <li class="gh-list-item"><a href="/business/success-stories" class="gh-link grey-link gh-deep-links track-nav-successstories-business_submenu-mobile">success stories</a></li>
+            <li class="gh-list-item"><a href="/pricing" class="gh-link grey-link gh-deep-links track-nav-pricing-business_submenu-mobile">pricing</a></li>
           </ul>
         </li>
         <li class="gh-list-item">
-          <a href="/photography" class="label js-dropdownSubControl gh-menu-sub-control caret-wrapper gh-link grey-link">photography<span class="caret gh-mobile-caret pull-right"></span></a>
+          <a href="/photography" class="label js-dropdownSubControl gh-mobile-menu-link gh-menu-sub-control caret-wrapper gh-link grey-link track-nav-photography_submenu-mobile">photography<span class="o-site-header-caret caret"></span><span class="caret gh-mobile-caret pull-right"></span></a>
           <ul class="list-style-none js-dropdownSubContent gh-menu-sub-content body-text-md">
-            <li class="gh-list-item"><a href="/photography" class="gh-link grey-link gh-deep-links">overview</a></li>
-            <li class="gh-list-item"><a href="/photography/success-stories" class="gh-link grey-link gh-deep-links">success stories</a></li>
-            <li class="gh-list-item"><a href="/photography/features" class="gh-link grey-link gh-deep-links">features</a></li>
-            <li><a href="/photography/exclusive-styles" class="gh-link grey-link gh-deep-links">photo-exclusive styles</a></li>
+            <li class="gh-list-item"><a href="/photography" class="gh-link grey-link gh-deep-links track-nav-overview-photography_submenu-mobile">overview</a></li>
+            <li class="gh-list-item"><a href="/photography/success-stories" class="gh-link grey-link gh-deep-links track-nav-successstories-photography_submenu-mobile">success stories</a></li>
           </ul>
         </li>
-        <li class="gh-list-item"><a href="/personal" class="label gh-link grey-link">family</a></li>
-        <li class="gh-list-item"><a href="/pricing" class="gh-link grey-link label">pricing</a></li>
+        <li class="gh-list-item"><a href="/personal" class="label gh-link gh-mobile-menu-link grey-link track-nav-family_personal-mobile">family</a></li>
+        <li class="gh-list-item"><a href="/pricing" class="gh-link gh-mobile-menu-link grey-link label track-nav-pricing-mobile">pricing</a></li>
 
-        <li class="gh-list-item">
-          <a href="/apps" class="label track-homepage-mobile-nav-download gh-link grey-link">download app</a>
+        <li class="gh-list-item o-site-header-to-hide">
+          <a href="/apps" class="label track-homepage-mobile-nav-download gh-link grey-link track-nav-downloadapp_apps-other_mobile">download app</a>
         </li>
-        <li class="gh-list-item"><a href="/sign_up" class="label gh-link grey-link">start trial</a></li>
-        <li class="gh-list-item"><a href="/log_in" class="label gh-link grey-link">log in</a></li>
+        <li class="gh-list-item o-site-header-to-hide"><a href="/sign_up" class="label gh-link grey-link track-nav-starttrial-mobile">start trial</a></li>
+        <li class="gh-list-item o-site-header-to-hide"><a href="/log_in" class="label gh-link grey-link track-nav-login_textlink-mobile">log in</a></li>
       </ul>
+        <a href="/log_in" class="label gh-mobile-login-cta cta-button-secondary track-nav-login_button-mobile o-site-header-hidden">log in</a>
     </div>
   </div>
 </div>
@@ -298,130 +304,126 @@ var AUTH_TOKEN = "5ATrOTiR9Cx5mhjbhqE41WPRqzx7mUAcDrTAA/q/FS0BXV0O9WV3BHL1DdRrCs
     </div>
     <div class="row">
       <div class="col-sm-12 col-md-7">
-        <h2>1. Acknowledgement and Acceptance of Terms</h2>
-<p>
-  If you do not agree to these terms, please do not access or use this site.
-</p>  
-<p>
-    Animoto Inc (henceforward “Animoto”) values the protection of your privacy. This Privacy Policy sets forth our current privacy practices with regard to the personally identifiable information we collect and use  when you or your computer interact with our website. This Privacy Policy applies to www.animoto.com as well as Animoto's application, widget or gadget for mobile devices (such as iPhone) and social networks (including but not limited to Facebook Platform or Google OpenSocial) (each, a "Site"). The Site is not directed to children.
-  </p>
-  <p>
-    If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <a href="https://feedback-form.truste.com/watchdog/request" class="blue-link">https://feedback-form.truste.com/watchdog/request</a>.
-  </p>
-  <h2>2. Participating Third Party Policies</h2>
-  <p>
-    The Site may contain links to related services and offerings, including vendor sites. These third parties may have their own privacy policies that can be viewed on their websites or by contacting these third parties directly. Since we do not have direct control over the policies or practices of third parties, we are not responsible for the privacy practices or contents of those sites. We recommend and encourage that you always review the privacy policies of these third parties before you provide any personal information or complete any transaction with such parties.
-  </p>
-
-  <h2>3. Information We Collect and How We Use It</h2>
-  <p>
-    We do not collect information about the specifics of who you are ("Personally Identifiable Information") unless you specifically provide it to us.
-  </p>
-  <ol type="A">
-    <li>
-      <h3>Personal Information Entered by Users</h3>
-      <p>
-        You provide certain Personally Identifiable Information to us when you register with us, send us email messages, submit forms to us, or provide information to us by any means. When you register, we will request some personal information which may include your name, address, email, telephone number or facsimile number, account number, and may include other relevant information. You may also be asked to disclose personal information to us so that we can provide assistance and information to you. For example, such data may be warranted in order to provide online technical support and troubleshooting.
-      </p>
-      <p>
-        You may also provide certain Personally Identifiable Information to us regarding third parties. For instance, when you share your Animoto video with others, you provide and we collect the email addresses of the people with whom you want to share your video.
-      </p>
-      <p>
-        You can log in to our site using Facebook Connect. This service will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form.  Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
-      </p>
-      <p>
-        Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at contact@animoto.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
-      </p>
-      <p>
-        If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Animoto stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
-      </p>
-      <p>
-        Your friend may contact us to request that we remove this information from our database.
-      </p>
-      <p>
-        We will not sell, trade, or rent Personally Identifiable Information to others. Furthermore, we will not disclose Personally Identifiable Information we collect from you to third parties without your permission, except to the extent necessary:
-      </p>
-      <ul class="bulletted">
-        <li>To fulfill your service request,</li>
-        <li>To protect ourselves from liability,</li>
-        <li>To respond to a court order or subpoena, bankruptcy proceedings or similar legal process to comply with an investigation, or to comply with applicable laws or rules, or</li>
-        <li>In connection with a merger, acquisition, or liquidation of the company.</li>
-      </ul>
-      <p>
-        We reserve the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful.
-      </p>
-      <p>
-        If Animoto Inc. is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personally identifiable information.
-      </p>
-      <p>
-        We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us.
-      </p>
-      <p>
-        For terms relating to areas of this Site that allow you to communicate and/or submit information on or through the Site, such as bulletin board postings, email, messages, suggestions, ideas, \ photographs, video music, text, drawings, or concepts, please refer to our terms of service.
-      </p>
-    </li>
-  </ol>
-
-  <h2>4. Tracking Technologies</h2>
-  <p>
-    Technologies such as COOKIES, beacons, tags and scripts are used by Animoto and our marketing partners, affiliates, analytics, or online customer support provider. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
-  </p>
-  <p>
-    We use COOKIES for [our shopping cart, to remember users’ settings (e.g. language preference), for authentication]. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
-  </p>
-  <p>
-    As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, or site functionality.
-  </p>
-  <p>
-    We use Local Storage such as HTML5 to store content information and preferences. Various browsers may offer their own management tools for removing HTML5. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5.
-  </p>
-    <p>
-    We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking <a href="http://preferences-mgr.truste.com/" class="blue-link">here</a> (or if located in the European Union click <a href="http://www.youronlinechoices.eu/" class="blue-link">here</a>) Please note this does not opt you out of being served ads. You will continue to receive generic ads.
-  </p>
-  <p>
-    Our website includes Social Media Features, such as the Facebook Like button, and Widgets, such as the Share This button or interactive mini-programs that run on our website. These Features may collect your Internet protocol address, which page you are visiting on our website, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our website. Your interactions with these Features are governed by the privacy statement of the company providing it.
-  </p>
-  <h2>5. Accessing Web Account Information</h2>
-  <p>
-    We will provide you with the means to ensure that Personally Identifiable Information that we have on file for you is correct and current. You must update your Personally Identifiable Information promptly after it changes. You may review this information by <a href="mailto:contact@animoto.com" class="blue-link">sending us an email</a>. You may ask to have the information on your account deleted or removed at any time. We will respond to your request to access within 30 days. We will use reasonable efforts to delete your information; however, because we and our web hosting company have backup systems and keep track of past transactions and/or activities, it may be impossible to completely delete your information.
-  </p>
-  <p>
-    We will retain your information for as long as your account is active or as needed to provide you services.  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
-  </p>
-  <h2>6. User Communication</h2>
-  <p>
-    We may, from time to time, send you email regarding our services. In addition, if you indicate upon registration that you are interested in receiving offers or information from us, we may occasionally send you direct mail about products and services that may be of interest to you. Only Animoto will send you these direct mailings, and only if you indicated that you are interested in receiving these offers. If you do not want these mailings, you can tell us when you submit or edit your Personally Identifiable Information by sending us an <a href="mailto:contact@animoto.com" class="blue-link">email</a>.
-  </p>
-  <h2>7. Security of Information</h2>
-  <p>
-    We will keep your Personally Identifiable Information secure consistent with current industry standards. Security of your Personally Identifiable Information is of utmost concern to us. Personally Identifiable Information, once transmitted to us, will be stored on computers that only selected personnel and contractors have access to via password, and/or on web hosting servers maintained by Amazon Web Services, which employs its own physical and network security measures. In addition, your Animoto videos and/or content may be stored on Amazon Web Services servers. A copy of Amazon Web Services' Privacy Policy may be obtained <a href="http://www.amazon.com/AWS-License-home-page-Money/b?ie=UTF8&amp;node=3440661#gen1" class="blue-link" target="_blank">here</a>.
-  </p>
-  <p>
-    Your Animoto videos and user content are limited-access, where access is gained through an obscured URL system. This obscured URL makes it difficult if not impossible for a third party to guess the URL address of your video or content without an invitation from you including the relevant URL. However, because the videos and content are not password-protected, a possibility exists that an unauthorized third party could discover your videos and/or content. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore we cannot guarantee its absolute security.
-  </p>
-
-  <h2>8. Changes to this Statement</h2>
-  <p>
-    Animoto has the discretion to update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+        <h2>1. Acknowledgement and acceptance of terms</h2>
+<p>If you do not agree to these terms, please do not access or use this site.</p>
+<p>This Privacy Policy applies to www.animoto.com, owned and operated by Animoto, Inc. (henceforward “Animoto”, “we”, “us”, or “our), as well as Animoto's application, widget or gadget for mobile devices and social networks (each, a "Site").. This Privacy Policy describes how Animoto collects, uses, shares and secures the personal information (or ‘personal data’) you provide. It also describes your choices regarding use, access and correction of your personal information.</p>
+<p>The Site is not directed to children. For terms relating to areas of this Site that allow you to communicate and/or submit information on or through the Site, such as bulletin board postings, email, messages, suggestions, ideas, photographs, video music, text, drawings, or concepts, please refer to our <a href="https://animoto.com/legal/terms" class="blue-link" target="_blank">terms of service</a>.</p>
+<h2>2. EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield</h2>
+<p>Animoto participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework.  We are committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Frameworks, and to view our certification, visit the <a href="https://www.privacyshield.gov" class="blue-link" target="_blank">U.S. Department of Commerce’s Privacy Shield List</a>.</p>
+<p>Animoto is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Animoto complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.</p>
+<p>With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, Animoto is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.</p>
+<p>If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <a href="https://feedback-form.truste.com/watchdog/request" class="blue-link" target="_blank">https://feedback-form.truste.com/watchdog/request</a>.</p>
+<p>Under certain conditions, more fully described on the Privacy Shield <a href="https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint" class="blue-link" target="_blank">website</a>, you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.</p>
+<h2>3. Notice for EU Residents:</h2>
+<p>If you are a resident in the European Economic Area or Switzerland, Animoto Inc. is generally the “data controller” as such term is used in the General Data Protection Regulation (“GDPR”) with respect to the information that can be associated with or relates to a person or could be used to identify a person (‘Personal Data’) collected through our Site; contact information is located at the end of this privacy policy. In some situations where we receive your Personal Data from another of our customers, we may be the “data processor” and such customer may be the “data controller” for purposes of the GDPR. In such cases, we may need to refer your inquiries, complaints, or requests to such customer as the data controller. In all cases where we are the data controller, the following provisions apply:</p>
+<ol type="A">
+  <li>
+    <h3>Rights of EU Residents</h3>
+    <p>Consent</p>
+    <p>Animoto will obtain your consent before collecting and processing your Personal Data.</p>
+    <p>Right to Access, Update, and Delete Your Personal Data</p>
+    <p>You may request confirmation from us as to whether or not your Personal Data is being processed, where and for what purpose. We will provide you a copy of the Personal Data, free of charge, in an electronic format. We may ask for proof of identification to verify your access requests.  If your Personal Data that we hold is inaccurate or incomplete, please notify us and we will update the relevant information without undue delay. You may also request deletion of your Personal Data in our possession. In certain circumstances we may need to retain your Personal Data, such as: (i) where required by law; (ii) where necessary to continue providing services; or (iii) where the burden or expense of deleting such Personal Data would be disproportionate to the risks to your privacy in the case in question, or where the rights of persons other than the individual would be violated. For example, in cases where we are not the data controller (such as when the personal data was collected on behalf of a third party data controller), we may need to refer you or your request to the applicable data controller.</p>
+    <p>Right to be Forgotten</p>
+    <p>If you no longer wish to use our Services, you may request an erasure of your Personal Data. We will erase your Personal Data and notify you when the erasure is completed. However, we will compare your right to be erased with the public interest in the availability of the data when considering your requests of erasure.</p>
+    <p>Right to Object or Opt-Out</p>
+    <p>You may object to our processing of your Personal Data for direct marketing purposes. If you choose to object, we will no longer process your Personal Data for direct marketing purposes, unless there is a compelling legitimate grounds for future processing. You may not be able to use the full functionality of the Services as a result of an objection.</p>
+    <p>Right to Restrict Processing of Your Information</p>
+    <p>You may choose to restrict us from processing your Personal Data when: (1) you contest the accuracy of your Personal Data, (2) you oppose the erasure of your Personal Data when the processing is unlawful, (3) we no longer need the Personal Data to provide our Services but you would like to keep your Personal Data available for establishment, exercise, or defense of legal claims, or (4) you object to processing of the Personal Data. If you choose to restrict processing of your Personal Data, we will only store and will not further process your Personal Data without your consent. However, we may process your Personal Data for the establishment, exercise, or defense of legal claims or for the protection of the rights of another natural or legal person or for reasons of important public interest of the European Union or of a EU Member State. If it is necessary for us to process your Personal Data after you choose to restrict, we will inform you before any data processing starts.</p>
+    <p>Right to be Notified of Data Breach</p>
+    <p>You will receive data breach notification in accordance to applicable laws if we or our data processors become aware of a data breach which is likely to result in a risk for your rights and freedoms.</p>
+    <p>Right to Data Portability</p>
+    <p>You may require us to provide you a copy of your Personal Data, which you have previously provided, in electronic format. You are free to transmit the Personal Data to any other controllers.</p>
+    <p>Right to Lodge a Complaint</p>
+    <p>European residents who believe their rights have been violated under the GDPR may lodge a complaint with the Information Commissioner’s Office or other supervisory authority.</p>
+  </li>
+  <li>
+    <h3>Privacy by Design and Default</h3>
+    <p>We are committed to implement appropriate technical and organizational measures to safeguard your personal privacy at all design stages. Our design features address the amount of Personal Data collected, the extent of Personal Data processing, the period of Personal Data storage and Personal Data accessibility.</p>
+  </li>
+  <li>
+    <h3>Animoto Processors</h3>
+    <p>To support delivery of our Services, Animoto may engage and use data processors with access to certain Personal Data of its Users (each, a “Processor”). Animoto currently uses third-party Processors to (a) provide infrastructure services, (b) facilitate payments, (c) provide information for site security, maintenance, performance, and error tracking; (d) tracking and reporting user analytics for purposes of improving customer experience. Prior to engaging any third-party Processor, Animoto evaluates their privacy, security, and confidentiality practices, and executes an agreement implementing its applicable obligations.</p>
+  </li>
+</ol>
+<h2>4. Information We Collect, How We Use It, And Your Choices:</h2>
+<p>We may collect the following personal information from you:</p>
+<ul class="bulletted">
+  <li>Contact Information, such as name and email address</li>
+  <li>Billing Information, such as credit card number and billing address</li>
+  <li>Preference Information, such as product wish lists or marketing preferences</li>
+  <li>Demographic information, such as timezone</li>
+</ul>
+<p>We may also collect, from you, the following personal information about your contacts such as, name and email address, in order to refer our products or provide our services, for instance, when you share our Animoto video with others. When you provide us with personal information about your contacts we will only use this information for the specific reason for which it is provided. If you believe that one of your contacts has provided us with your personal information and you would like to request that it be removed from our database, please contact us at <a href="mailto:contact@animoto.com" class="blue-link">sending us an email</a>.</p>
+<p>We may receive information about you from other sources, such as third parties from whom we obtain data, and combine this data with information we already have about you. This helps us to update, expand and analyze our records. If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us. Examples of the types of personal information that may be obtained from third parties and combined with information we already have about you, may include updated credit card information from our provider Chase Paymentech, so that we can successfully process payments.</p>
+<p>Passive Collection: As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, or site functionality.</p>
+<p>Tracking Technologies: Technologies such as COOKIES or similar technologies are used by Animoto and our marketing partners, affiliates, analytics, or online customer support provider. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. We use COOKIES or similar technologies for our shopping cart, to remember users’ settings (e.g. language preference), for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.</p>
+<p>We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies or similar technologies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking <a href="http://preferences-mgr.truste.com/" class="blue-link" target="_blank">here</a> (or if located in the European Union click <a href="http://www.youronlinechoices.eu/" class="blue-link" target="_blank">here</a>) Please note this does not opt you out of being served ads. You will continue to receive generic ads.</p>
+<p>You may sign-up to receive email or newsletter or other communications from us. If you would like to discontinue receiving this information, you may update your email preferences by using the “Unsubscribe” link found in emails we send to you or at your member settings on our website or by contacting us at <a href="mailto:contact@animoto.com" class="blue-link">sending us an email</a>.</p>
+<p>Our website includes Social Media Features, such as the Facebook Like button, and Widgets, such as the Share This button or interactive mini-programs that run on our website. These Features may collect your Internet protocol address, which page you are visiting on our website, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our website. Your interactions with these Features are governed by the privacy statement of the company providing it.</p>
+<p>You can log in to our site using Facebook Connect. This service will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.</p>
+<p>Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at <a href="mailto:contact@animoto.com" class="blue-link">sending us an email</a>. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.</p>
+<p>Links to Third Party Websites: Our website includes links to other websites whose privacy practices may differ from those of Animoto. If you submit personal information to any of those websites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any website you visit.</p>
+<p>Other uses of the information we collect may be in order to:</p>
+<ul class="bulletted">
+  <li>Fulfill your order and send you an order confirmation</li>
+  <li>Send you requested product, service information, or product updates</li>
+  <li>Administer your account, respond to customer service requests, or respond to your questions and concerns</li>
+  <li>Send you a catalog, a newsletter, or marketing communications</li>
+  <li>Improve our website and marketing efforts, including conducting research and analysis</li>
+  <li>Display content based upon your interests</li>
+  <li>Facilitate your transactions with other users</li>
+</ul>
+<p>Credit Card Security</p>
+<p><a href="https://animoto.com" class="blue-link" target="_blank">Animoto</a> takes credit card data security very seriously. For that reason, we use <a href="https://www.braintreepayments.com/" class="blue-link" target="_blank">Braintree</a> to securely handle credit card information. Braintree is a Validated Level 1 PCI DSS Compliant Service Provider. Learn more about <a href="http://www.braintreepayments.com/security" class="blue-link" target="_blank">Braintree security practices</a>.</p>
+<h2>5. Your Access</h2>
+<p>Upon request Animoto will provide you with information about whether we hold any of your personal information. You may access, correct, or request deletion of your personal information by logging into your account or contacting us at <a href="mailto:contact@animoto.com" class="blue-link">sending us an email</a>. We will respond to your request within 30 days. In certain circumstances we may be required by law to retain your personal information, or may need to retain your personal information in order to continue providing a service.</p>
+<h2>6. Information Sharing</h2>
+<p>We will not sell, trade, or rent Personally Identifiable Information to others. Furthermore, we will not disclose Personally Identifiable Information we collect from you to third parties without your permission, except to the extent necessary:</p>
+<p>With Service Providers or data processors: Animoto may share your information with third parties who provide services on our behalf to help with our business activities.  These companies are authorized to use your personal information only as necessary to provide these services to us. These services may include:</p>
+<ul class="bulletted">
+  <li>Fulfilling orders or subscription services</li>
+  <li>Facilitating payments</li>
+  <li>Providing customer service</li>
+  <li>Delivering emails and push notifications to users or sending marketing communications</li>
+  <li>Conducting surveys and capturing user feedback</li>
+  <li>Track and report user analytics for purposes of improving customer experience</li>
+  <li>Providing information related to site security, maintenance, performance, and error tracking</li>
+  <li>Providing cloud computing infrastructure, hosting, and database services</li>
+</ul>
+<p>Prior to engaging any third-party Processor, Animoto evaluates their privacy, security, and confidentiality practices, and executes an agreement implementing its applicable obligations.</p>
+<p>Legal: In certain situations, Animoto may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. We may also disclose your personal information as required by law, such as to comply with a subpoena or other legal process, when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request. If Animoto is involved in a merger, acquisition, or sale of all or a portion of its assets, we may transfer your personal data (where relevant) to the successor of the relevant business, and they will be bound to the same obligations that we were previously bound to. You will be notified via email and/or a prominent notice on our website, of any change in ownership, uses of your personal information, and choices you may have regarding your personal information. We may also disclose your personal information to any other third party with your prior consent.</p>
+<h2>7. Security of Information</h2>
+<p>We will keep your Personally Identifiable Information secure consistent with current industry standards. Security of your Personally Identifiable Information is of utmost concern to us. Personally Identifiable Information, once transmitted to us, will be stored on computers that only selected personnel and contractors have access to via password, and/or on web hosting servers maintained by Amazon Web Services, which employs its own physical and network security measures. In addition, your Animoto videos and/or content may be stored on Amazon Web Services servers. A copy of Amazon Web Services' Privacy Policy may be obtained <a href="http://www.amazon.com/AWS-License-home-page-Money/b?ie=UTF8&amp;node=3440661" class="blue-link" target="_blank">here</a>.</p>
+<p>Your Animoto videos and user content are limited-access, where access is gained through an obscured URL system. This obscured URL makes it difficult if not impossible for a third party to guess the URL address of your video or content without an invitation from you including the relevant URL. However, because the videos and content are not password-protected, a possibility exists that an unauthorized third party could discover your videos and/or content. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore we cannot guarantee its absolute security. If you have any questions about the security of your personal information, you can contact us at <a href="mailto:contact@animoto.com" class="blue-link">sending us an email</a>.</p>
+<h2>8. Changes to this Statement</h2>
+<p>Animoto has the discretion to update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.</p>
+<h2>9. Contacting Us</h2>
+<p id="" class="vcard">
+  <span class="org">Animoto Inc.</span> (<a href="mailto:contact@animoto.com" class="email blue-link">contact@animoto.com</a>) <br>
+  <span class="adr">
+    <span class="street-address">436 Lafayette St, Fl 2</span><br>
+    <span class="locality">New York</span>, <span class="region">NY</span>, <span class="postal-code">10003</span><br>
+    <span class="country-name">USA</span>
+  </span>
 </p>
-  <h2>9. Contacting Us</h2>
-  <p>If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us at:</p>
-
-  <p id="" class="vcard">
-    <span class="org">Animoto Inc.</span> (<a href="mailto:contact@animoto.com" class="email blue-link">contact@animoto.com</a>) <br>
-    <span class="adr">
-      <span class="street-address">436 Lafayette St, Fl 2</span><br>
-      <span class="locality">New York</span>, <span class="region">NY</span>, <span class="postal-code">10003</span><br>
-      <span class="country-name">USA</span>
-    </span>
-  </p>
-
-  <p><strong>This document was last updated on May 21, 2018.</strong></p>
-  <div>
+<h4>For EU residents</h4>
+ 
+<p id="" class="vcard">
+  <span class="org">Jack Baylor</span> (<a href="mailto:eu-privacy@animoto.com" class="email blue-link">eu-privacy@animoto.com</a>) <br>
+  <span class="adr">
+    <span class="street-address">2 Ashton Place</span><br>
+    <span class="locality">Gardiner’s Hill</span><br>
+    <span class="region">Cork</span>, <span class="country-name">Ireland</span>
+  </span>
+</p>
+<p><strong>This document was last updated on November 30, 2018.</strong></p>
+<div>
   <a href="//privacy.truste.com/privacy-seal/validation?rid=5861d98f-9f02-479c-bd0c-ca2e2074e3ce" target="_blank">
     <img style="border: none" src="//privacy-policy.truste.com/privacy-seal/seal?rid=5861d98f-9f02-479c-bd0c-ca2e2074e3ce" alt="TRUSTe">
   </a>
 </div>
+
+
       </div>
       <div class="col-sm-12 col-md-offset-1 col-md-4">
         <h2 class="h4 label margin-top-2">Terms &amp; Policies</h2>
@@ -446,7 +448,7 @@ var AUTH_TOKEN = "5ATrOTiR9Cx5mhjbhqE41WPRqzx7mUAcDrTAA/q/FS0BXV0O9WV3BHL1DdRrCs
     </div>
   </div>
 </div>
-      <div class="footer">
+        <div class="footer">
     <div class="container">
       <div class="row">
         <ul class="f-list grey-links col-md-2">
@@ -506,16 +508,14 @@ var AUTH_TOKEN = "5ATrOTiR9Cx5mhjbhqE41WPRqzx7mUAcDrTAA/q/FS0BXV0O9WV3BHL1DdRrCs
 
     <div id="fb-root"></div>
     
-    
-    <script src="//d14pr3cu5atb0x.cloudfront.net/pkg/js/modernizr-cf363f600e.js" crossorigin="anonymous"></script>
-    <script src="//d14pr3cu5atb0x.cloudfront.net/pkg/js/picturefill-16df5af9c6.js" crossorigin="anonymous"></script>
-      <script src="//d14pr3cu5atb0x.cloudfront.net/pkg/js/vendor-3310ebd2d7.js" crossorigin="anonymous"></script>
-    
-<script src="https://cdn.ravenjs.com/3.23.3/raven.min.js"></script>
-
-<script>
+    <script src="https://d14pr3cu5atb0x.cloudfront.net/pkg/js/modernizr-d89717df33.js" crossorigin="anonymous"></script>
+    <script src="https://d14pr3cu5atb0x.cloudfront.net/pkg/js/picturefill-93ee0ae102.js" crossorigin="anonymous"></script>
+      <script src="https://d14pr3cu5atb0x.cloudfront.net/pkg/js/vendor-39fef08700.js" crossorigin="anonymous"></script>
+    <script src="https://d14pr3cu5atb0x.cloudfront.net/pkg/js/core-4c329e92da.js" crossorigin="anonymous"></script>
+    <script src="https://d14pr3cu5atb0x.cloudfront.net/pkg/js/util-4b48d8b8b5.js" crossorigin="anonymous"></script>
+    <script>
   var ravenOptions = {
-    release : '7b5c5a0d769dbfda0c39c6572f99061073c798eb',
+    release : '1f6f0a6c821641e50f1716e9b9e0832b6b0ee18f',
 
     whitelistUrls : ['animoto.com','d14pr3cu5atb0x.cloudfront.net','d2r6q1p754p9pi.cloudfront.net','d2yc83ilop69kq.cloudfront.net','d150hyw1dtprld.cloudfront.net'],
 
@@ -596,7 +596,7 @@ var AUTH_TOKEN = "5ATrOTiR9Cx5mhjbhqE41WPRqzx7mUAcDrTAA/q/FS0BXV0O9WV3BHL1DdRrCs
       'location' : false
     },
 
-    sampleRate: 0.4
+    sampleRate: 0.6
   };
   if (window.Raven) {
 
@@ -604,15 +604,13 @@ var AUTH_TOKEN = "5ATrOTiR9Cx5mhjbhqE41WPRqzx7mUAcDrTAA/q/FS0BXV0O9WV3BHL1DdRrCs
   }
 </script>
 
-    <script src="//d14pr3cu5atb0x.cloudfront.net/pkg/js/core-dcc0b149ae.js" crossorigin="anonymous"></script>
-    <script src="//d14pr3cu5atb0x.cloudfront.net/pkg/js/util-43de5aff6f.js" crossorigin="anonymous"></script>
       <script src="//d150hyw1dtprld.cloudfront.net/player/2154e3173a59b5188e2201903324e9867b6cf194/player-bundle.js" crossorigin="anonymous"></script>
-<script src="//d14pr3cu5atb0x.cloudfront.net/pkg/js/player_tracking-6604de78ff.js" crossorigin="anonymous"></script>
+<script src="https://d14pr3cu5atb0x.cloudfront.net/pkg/js/player_tracking-7ff7a9c607.js" crossorigin="anonymous"></script>
 
       
 
     
-    <script src="//d14pr3cu5atb0x.cloudfront.net/pkg/js/cms-e6c5a1ad1c.js" crossorigin="anonymous"></script>
+    <script src="https://d14pr3cu5atb0x.cloudfront.net/pkg/js/cms-d0c91c88a7.js" crossorigin="anonymous"></script>
 
     <script>
       
@@ -671,6 +669,7 @@ if (!Cookies.get('gdpr_tracking_accepted')) {
     $('.js-gdpr-logged-out-accept').click(function() {
       $('.js-gdpr-logged-out-banner').slideUp(150);
       Cookies.set('gdpr_tracking_accepted', true);
+      dataLayer.push({ event : 'gdpr_accepted' });
     });
   });
 }
@@ -681,12 +680,6 @@ if (!Cookies.get('gdpr_tracking_accepted')) {
   post_login_redirect_path  : '/login_user_redirect',
   projects_path             : '/projects'
 });
-
-      
-
-      _.extend(animoto.features, {
-        mobilePostRegRedirectTest : false
-      });
 
     </script>
 
@@ -701,6 +694,5 @@ if (!Cookies.get('gdpr_tracking_accepted')) {
   </script>
 
   
-
 
 </body></html>
