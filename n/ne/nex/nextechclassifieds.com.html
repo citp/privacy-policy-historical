@@ -1,202 +1,58 @@
-<!--The following is the downloaded HTML source of the nextechclassifieds.com privacy policy that was archived on 2018-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180624181829id_/http%3A//www.nextechclassifieds.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nextechclassifieds.com privacy policy that was archived on 2018-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181230174227id_/http%3A//www.nextechclassifieds.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
     <title>Nex-Tech Classifieds</title>
-    <link rel="shortcut icon" href="https://static.discoverstuff.com/img/favicon.f37938889242.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="https://static.nextechclassifieds.com/img/favicon.f37938889242.ico" type="image/x-icon">
 
     
     <meta name="classifieds:user:email" content="">
     <meta name="classifieds:user:id" content="None">
 
-    <link rel="stylesheet" href="https://static.discoverstuff.com/classifieds/stylesheets/application.min.6fc48279dc6b.css" media="screen, projection">
-    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.css">
+    <link rel="stylesheet" href="https://static.nextechclassifieds.com/classifieds/stylesheets/application.min.0ea3af47e332.css" media="screen, projection">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700">
 
-    <script id="facebook-jssdk" src="https://connect.facebook.net/en_US/sdk.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script async="" src="//c.amazon-adsystem.com/aax2/apstag.js"></script><script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
+    <script id="facebook-jssdk" src="https://connect.facebook.net/en_US/sdk.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script async="" src="//c.amazon-adsystem.com/aax2/apstag.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 
     
+    
+
     
         
 
-<script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
-<script>!function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");</script>
-<script src="https://static.discoverstuff.com/classifieds/js/prebid_0_34_4.min.b3a83b689e4b.js" async=""></script>
-<script src="https://static.discoverstuff.com/classifieds/js/prebid.sovrn.3c8797c04498.js" async=""></script>
+<script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
 
-
-<script>
-
-    //Get Browser Window Dimensions -- Used in parseSizeMappings
-    function getWindowDimensions() {
-        var width = window.innerWidth ||
-            document.documentElement.clientWidth ||
-            document.body.clientWidth;
-        var height = window.innerHeight ||
-            document.documentElement.clientHeight ||
-            document.body.clientHeight;
-        return [width, height];
-    }
-
-    function parseSizeMappings(sizeMappings) {
-        try{
-            // get current window dimensions
-            var sd = getWindowDimensions();
-
-            // filter mappings that are valid by confirming that the current screen dimensions
-            // are both greater than or equal to the breakpoint [x, y] minimums specified in the first position in the mapping
-            var validMappings = sizeMappings.filter(function(m) {return  m[0][0] <= sd[0] && m[0][1] <= sd[1]}); // return the leftmost mapping's sizes or an empty array
-            var endMappings = validMappings.length > 0 ? validMappings[0][1] :  [];
-            if (Array.isArray(endMappings) && endMappings.length === 2 && typeof endMappings[0] === "number" && typeof endMappings[1] === "number") {
-                return [endMappings];
-            } else {
-                return endMappings;
-            }
-
-            //handle errors
-        } catch (e) {
-            console.log('error parsing sizeMappings:');
-            console.log(sizeMappings);
-            console.log(e);
-            // fallback to last size mapping supplied
-            return sizeMappings[ sizeMappings.length -1 ][1];
-        }
-    }
-
-    function fetchHeaderBids(apstagSlots, adUnits, TIMEOUT) {
-        // TODO 1
-        var bidders = ['a9', 'prebid'];
-
-        // create a requestManager to keep track of bidder state to determine when to send ad server
-        // request and what apstagSlots to request from the ad server
-        var requestManager = {
-            adserverRequestSent: false,
-            apstagSlots: apstagSlots,
-            adUnits: adUnits
-        };
-
-        //loop through bidder array and add the bidders to the request manager:
-        bidders.forEach(function(bidder) {
-            requestManager[bidder] = false;
-        });
-
-        // return true if all bidders have returned
-        function allBiddersBack() {
-            var allBiddersBack = bidders
-            // get the booleans from the object
-                .map(function(bidder) {
-                    return requestManager[bidder];
-                })
-                // get rid of false values - indicates that the bidder has responded
-                .filter(Boolean)
-                // if length is equal to bidders, all bidders are back
-                .length === bidders.length;
-            return allBiddersBack;
-        }
-
-        // handler for header bidder responses
-        function headerBidderBack(bidder) {
-            // return early if request to adserver is already sent
-            if (requestManager.adserverRequestSent === true) {
-                return;
-            }
-            // set the bidder targeting and flip bidder back flag
-            if (bidder === 'a9') {
-                requestManager.a9 = true;
-            } else if (bidder === 'prebid') {
-                requestManager.prebid = true;
-            }
-
-            // if all bidders are back, send the request to the ad server
-            if (allBiddersBack()) {
-                sendAdserverRequest();
-            }
-        }
-
-        // actually get ads from DFP
-        function sendAdserverRequest() {
-
-            // return early if request already sent
-            if (requestManager.adserverRequestSent === true) {
-                return;
-            }
-
-            // flip the boolean that keeps track of whether the adserver request was sent
-            requestManager.adserverRequestSent = true;
-
-            // make ad request to DFP
-            googletag.cmd.push(function() {
-                apstag.setDisplayBids();
-                pbjs.setTargetingForGPTAsync();
-                googletag.pubads().refresh();
-            });
-        }
-
-        function requestBids(apstagSlots, adUnits, bidTimeout) {
-            // fetch apstag bids, set bid targting, then call headerBidderBack
-            // to get the ads for the first time
-            apstag.fetchBids({
-                slots: apstagSlots,
-                timeout: bidTimeout
-            }, function(bids) {
-                headerBidderBack('a9');
-            });
-
-            // request bids from prebid
-            pbjs.que.push(function() {
-                pbjs.addAdUnits(adUnits);
-                pbjs.setBidderSequence('random');
-                pbjs.enableSendAllBids();
-                pbjs.requestBids({
-                    bidsBackHandler: function (bidResponses) {
-                        headerBidderBack('prebid');
-                    }
-                });
-            });
-        }
-
-        requestBids(apstagSlots, adUnits, TIMEOUT);
-        // set timeout to send request to call sendAdserverRequest() after timeout
-        // if all bidders haven't returned before then
-        window.setTimeout(function() {
-            sendAdserverRequest();
-        }, TIMEOUT);
-    }
-</script>
 
 <script>
     var googletag = googletag || {};
     googletag.cmd = googletag.cmd || [];
 
-    var slot1_mapping;
-    var slot2_mapping;
-    var slot3_mapping;
-
     googletag.cmd.push(function() {
-
-        slot1_mapping = googletag.sizeMapping().
+        var slot1_mapping = googletag.sizeMapping().
         addSize([1366, 100], [728, 90]).
         addSize([960, 100], [728, 90]).
         addSize([320, 50], [[320, 50], [320, 100]]).
         build();
 
-        slot2_mapping = googletag.sizeMapping().
+        var slot2_mapping = googletag.sizeMapping().
         addSize([1366, 100], [[300, 600], [300, 250], [160, 600], [250, 250]]).
         addSize([960, 100], [[250, 250], [160, 600]]).
         addSize([320, 50], [[320, 50], [320, 100]]).
         build();
 
-        slot3_mapping = googletag.sizeMapping().
+        var slot3_mapping = googletag.sizeMapping().
         addSize([1366, 100], [300, 250]).
         addSize([960, 100], [250, 250]).
         addSize([320, 50], [[320, 50], [320, 100]]).
         build();
 
-        var slot1 = googletag.defineSlot('/4399290/www_nextechclassifieds_com_slot_1', [[728, 90], [320, 50], [320, 100]], 'slot1').defineSizeMapping(slot1_mapping).addService(googletag.pubads());
-        var slot2 = googletag.defineSlot('/4399290/www_nextechclassifieds_com_slot_2', [[300, 600], [300, 250], [250, 250], [320, 50], [320, 100], [160, 600]], 'slot2').defineSizeMapping(slot2_mapping).addService(googletag.pubads());
-        var slot3 = googletag.defineSlot('/4399290/www_nextechclassifieds_com_slot_3', [[300, 250], [250, 250], [320, 50], [320, 100]], 'slot3').defineSizeMapping(slot3_mapping).addService(googletag.pubads());
+        googletag.defineSlot('/4399290/www_nextechclassifieds_com_slot_1', [[728, 90], [320, 50], [320, 100]], 'slot1').defineSizeMapping(slot1_mapping).addService(googletag.pubads());
+        googletag.defineSlot('/4399290/www_nextechclassifieds_com_slot_2', [[300, 600], [300, 250], [250, 250], [320, 50], [320, 100], [160, 600]], 'slot2').defineSizeMapping(slot2_mapping).addService(googletag.pubads());
+        googletag.defineSlot('/4399290/www_nextechclassifieds_com_slot_3', [[300, 250], [250, 250], [320, 50], [320, 100]], 'slot3').defineSizeMapping(slot3_mapping).addService(googletag.pubads());
+        googletag.defineSlot('/4399290/onscroll_vet', [1, 1], 'vet_slot').addService(googletag.pubads());
 
         var extraGptMetadata = [].slice.call(document.querySelectorAll('meta[data-gpt-key]'))
             .reduce(function (results, meta) {
@@ -217,12 +73,26 @@
     });
 </script>
 
+<script src="https://static.nextechclassifieds.com/classifieds/js/prebid_1.32.0.js" async=""></script>
+
 
 <script>
+
+    //Get Browser Window Dimensions -- Used in parseSizeMappings
+    function getWindowDimensions() {
+        var width = window.innerWidth ||
+            document.documentElement.clientWidth ||
+            document.body.clientWidth;
+        var height = window.innerHeight ||
+            document.documentElement.clientHeight ||
+            document.body.clientHeight;
+        return [width, height];
+    }
+
     var sd = getWindowDimensions();
     var browserWidth = sd[0];
 
-    yb_psn = '';
+    var yb_psn = '';
     if (browserWidth >= 481) {
         
             yb_psn = 'ee11';
@@ -387,6 +257,13 @@
                     psn: yb_psn,
                     slot: 'adslot-inline-wide'
                 }
+            },
+            {
+                bidder: 'rhythmone',
+                labels: ['desktop_slot1', 'tablet_slot1', 'phone_slot1'],
+                params: {
+                    placementId: 'slot_1'
+                }
             }
         ]
     };
@@ -413,6 +290,13 @@
                     psn: yb_psn,
                     slot: 'adslot-feature'
                 }
+            },
+            {
+                bidder: 'rhythmone',
+                labels: ['desktop_slot2', 'tablet_slot2', 'phone_slot2'],
+                params: {
+                    placementId: '79500'
+                }
             }
         ]
     };
@@ -435,6 +319,13 @@
                     psn: yb_psn,
                     slot: 'adslot-feature-1'
                 }
+            },
+            {
+                bidder: 'rhythmone',
+                labels: ['desktop_slot3', 'tablet_slot3', 'phone_slot3'],
+                params: {
+                    placementId: '79501'
+                }
             }
         ]
     };
@@ -452,8 +343,8 @@
     pbjs.que = pbjs.que || [];
 
     pbjs.que.push(function() {
-        pbjs.addAdUnits(adUnits);
         pbjs.setConfig({
+            publisherDomain: "http://www.nextechclassifieds.com",
             sizeConfig: [
                 {
                     'mediaQuery': '(min-width: 961px)',
@@ -528,41 +419,140 @@
             ]
         });
     });
+
+    pbjs.que.push(function() {
+        pbjs.enableAnalytics({
+            provider: 'ga',
+            options: {}
+        });
+    });
+
+</script>
+
+<script>
+!function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
 </script>
 
 
 <script>
-
-    //initialize the apstag.js library on the page to allow bidding
     apstag.init({
         pubID: 'e838ef7e-aaa1-4a91-b672-b40c476ade33',
-        adServer: 'googletag'
+        adServer: 'googletag',
+        simplerGPT: true
     });
 
-    apstagSlots = [
+    var apstagSlots = [
         {
             slotID: 'slot1',
             slotName: '/4399290/www_nextechclassifieds_com_slot_1',
-            sizes: parseSizeMappings(slot1_mapping)
+            sizes: [[728, 90], [320, 50], [320, 100]]
         },
         {
             slotID: 'slot2',
             slotName: '/4399290/www_nextechclassifieds_com_slot_2',
-            sizes: parseSizeMappings(slot2_mapping)
+            sizes: [[300, 600], [300, 250], [160, 600], [250, 250], [320, 50], [320, 100]]
         },
         {
             slotID: 'slot3',
             slotName: '/4399290/www_nextechclassifieds_com_slot_3',
-            sizes: parseSizeMappings(slot3_mapping)
+            sizes: [[300, 250], [250, 250], [320, 50], [320, 100]]
         }
     ];
 </script>
 
 
 <script>
-    //start header bidding auction
-    var TIMEOUT = 2000;
-    fetchHeaderBids(apstagSlots, adUnits, TIMEOUT);
+    function fetchHeaderBids(apstagSlots, adUnits) {
+        var TIMEOUT = 2000;
+        var bidders = ['a9', 'prebid'];
+
+        var requestManager = {
+            adserverRequestSent: false,
+            apstagSlots: apstagSlots,
+            adUnits: adUnits
+        };
+
+        bidders.forEach(function(bidder) {
+            requestManager[bidder] = false;
+        });
+
+        function allBiddersBack() {
+            var allBiddersBack = bidders
+                .map(function(bidder) {
+                    return requestManager[bidder];
+                })
+                .filter(Boolean)
+                .length === bidders.length;
+            return allBiddersBack;
+        }
+
+        function headerBidderBack(bidder) {
+
+            if (requestManager.adserverRequestSent === true) {
+                return;
+            }
+
+            if (bidder === 'a9') {
+                requestManager.a9 = true;
+            } else if (bidder === 'prebid') {
+                requestManager.prebid = true;
+            }
+
+            if (allBiddersBack()) {
+                sendAdserverRequest();
+            }
+        }
+
+        // actually get ads from DFP
+        function sendAdserverRequest() {
+
+            if (requestManager.adserverRequestSent === true) {
+                return;
+            }
+
+            requestManager.adserverRequestSent = true;
+
+            googletag.cmd.push(function() {
+                apstag.setDisplayBids();
+                pbjs.que.push(function() {
+                    pbjs.setTargetingForGPTAsync();
+                    googletag.pubads().refresh();
+                });
+            });
+        }
+
+        function requestBids() {
+
+            pbjs.que.push(function() {
+                pbjs.addAdUnits(requestManager.adUnits);
+                pbjs.requestBids({
+                    bidsBackHandler: function (bidResponses) {
+                        headerBidderBack('prebid');
+                    }
+                });
+            });
+
+            googletag.cmd.push(function(){
+
+                apstag.fetchBids(
+                    {
+                        timeout: TIMEOUT
+                    },
+                    function(bids) {
+                        headerBidderBack('a9');
+                    }
+                );
+            });
+        }
+
+        requestBids();
+
+        window.setTimeout(function() {
+            sendAdserverRequest();
+        }, TIMEOUT);
+    }
+
+    fetchHeaderBids(apstagSlots, adUnits);
 </script>
 
     
@@ -673,7 +663,7 @@
         <header>
             <div id="mobile-nav">
                 <div id="mobile-brand-menu">
-                    <img src="https://media.discoverstuff.com/img/markets/NexTechClassifiedsLogo.png" alt="Nex-Tech Classifieds">
+                    <img src="https://media.nextechclassifieds.com/img/markets/NexTechClassifiedsLogo.png" alt="Nex-Tech Classifieds">
                 </div>
                 <ul>
                     
@@ -696,7 +686,7 @@
             </div>
             <div id="nav-top">
                 <div id="brand">
-                    <a href="/"><img src="https://media.discoverstuff.com/img/markets/NexTechClassifiedsLogo.png" alt="Nex-Tech Classifieds"></a>
+                    <a href="/"><img src="https://media.nextechclassifieds.com/img/markets/NexTechClassifiedsLogo.png" alt="Nex-Tech Classifieds"></a>
                 </div>
                 <nav id="nav-top-right">
                     
@@ -1128,9 +1118,6 @@
                     <a href="/help/reactivate_business/">Reactivate Business</a>
                 </li>
                 <li>
-                    <a href="/affiliate/">Affiliate Information</a>
-                </li>
-                <li>
                     <a href="/help/contact/">Contact Us</a>
                 </li>
             </ul>
@@ -1198,7 +1185,7 @@
                     
                 </div>
                 <div id="ds-brand">
-                    <img src="https://static.discoverstuff.com/classifieds/img/PoweredByDiscoverStuff.71143f067161.png">
+                    <img src="https://static.nextechclassifieds.com/classifieds/img/PoweredByDiscoverStuff.71143f067161.png">
                 </div>
             </div>
             <div id="footer-links">
@@ -1207,15 +1194,14 @@
                     <a href="/tos/">Terms of Service</a>
                     <a href="/privacy/">Privacy Policy</a>
                     <a href="/advertise/">Advertise with Us</a>
-                    <a href="http://www.discoverstuff.com/affiliate/">Get Your Own Classifieds</a>
                     <div id="copyright">Copyright © 2018 DiscoverStuff</div>
                 </div>
                 <div id="mobile-badges">
                     
-                        <a href="https://play.google.com/store/apps/details?id=com.nextechclassifieds.android"><img src="https://static.discoverstuff.com/img/badge_android.be571e8dea4f.png" alt="android badge"></a>
+                        <a href="https://play.google.com/store/apps/details?id=com.nextechclassifieds.android"><img src="https://static.nextechclassifieds.com/img/badge_android.be571e8dea4f.png" alt="android badge"></a>
                     
                     
-                        <a href="https://itunes.apple.com/us/app/nex-tech-classifieds-mobile/id598061180?mt=8&amp;uo=4" target="itunes_store"><img src="https://static.discoverstuff.com/img/badge_ios.6882c674cef5.png" alt="ios badge"></a>
+                        <a href="https://itunes.apple.com/us/app/nex-tech-classifieds-mobile/id598061180?mt=8&amp;uo=4" target="itunes_store"><img src="https://static.nextechclassifieds.com/img/badge_ios.6882c674cef5.png" alt="ios badge"></a>
                     
                 </div>
             </div>
@@ -1235,7 +1221,7 @@
         </div>
         <div id="helpdesk_dialogs"></div>
         <div id="helpdesk_dialog_message">
-            <form id="id_chat_form" name="chat_form" method="post"><input type="hidden" name="csrfmiddlewaretoken" value="8NUFMRm4BrdyhU7iuDbfyG7AugOVfDds$Ty8_MwwBAQcnRAgjJAJ_PyEJUCAydl4NRy9-OFMHVRc">
+            <form id="id_chat_form" name="chat_form" method="post"><input type="hidden" name="csrfmiddlewaretoken" value="aZqEMIhtTMlHs9puUR6lnpmAn9kBC5pT$KG5CMRckOSMMOhx8N00qDzwIdSogBltyIVghdgRRRB4">
                 <textarea cols="40" id="id_chat_comments" name="chat_comments" rows="10" placeholder="How can we help you?"></textarea>
                 <div>
                     <button type="button" class="btn btn-primary" id="chat_message_send">Send</button>
@@ -1281,7 +1267,7 @@
         function facebookChatIcon() {
             // if there is a facebook icon, then use it in the chat dialog
             $(".profile-photo img").each(function () {
-                var iconSrc = $(this).attr('src') || 'https://static.discoverstuff.com/img/blank_profile.e62e2b39a981.png';
+                var iconSrc = $(this).attr('src') || 'https://static.nextechclassifieds.com/img/blank_profile.e62e2b39a981.png';
                 $(".chat_dialog_left").css('backgroundImage', 'url(' + iconSrc + ')');
             });
         }
@@ -1342,8 +1328,8 @@
 </script>
 
 
-    <script src="https://static.discoverstuff.com/classifieds/js/hammer.min.6dc4f32dac39.js"></script>
-    <script src="https://static.discoverstuff.com/classifieds/js/application.min.0822bf59037d.js"></script>
+    <script src="https://static.nextechclassifieds.com/classifieds/js/hammer.min.6dc4f32dac39.js"></script>
+    <script src="https://static.nextechclassifieds.com/classifieds/js/application.min.0822bf59037d.js"></script>
 
     
 
