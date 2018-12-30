@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the triciastreasure.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630110346id_/http%3A//triciastreasure.com/disclosure-polic) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triciastreasure.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230041432id_/http%3A//triciastreasure.com/disclosure-polic) for the most accurate reproduction.*
 
 # Tricia's TreasuresDisclosure Policy/Privacy Policy -
 
