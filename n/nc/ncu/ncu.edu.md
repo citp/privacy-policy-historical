@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncu.edu privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624015314id_/https%3A//www.ncu.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncu.edu privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230012617id_/https%3A//www.ncu.edu/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Northcentral University
 
@@ -12,31 +12,70 @@ Northcentral automatically collects information about your computer hardware and
 
 Our site collects site usage information (not personally identifiable) for the purposes of improving our site content and user experience. The type of information we gather can include the following.
 
-Bing Ads, LiveIntent, Simpli.fi, Taboola Monetize Content and Target Performance  
-Personal Data: Cookies and Usage Data
+Bing Ads, LinkedIn Ads, DoubleClick, LiveIntent, Simpli.fi, AcuityPlatform, Taboola Monetize Content and Target Performance  
+Personal Data: Cookies, Usage Data, Remembers the user's selected language version of a website
 
-Facebook Audience Network  
+Facebook Audience Network, Facebook Ads  
 Personal Data: Cookies, unique device identifiers for advertising (Google Advertiser ID or IDFA, for example) and Usage Data
 
 Outbrain  
 Personal Data: Cookies and various types of Data as specified in the privacy policy of the service
 
+CVENT  
+Personal Data: Cookies
+
+HelpSquad, LivePerson  
+Personal Data: Cookies, Usage Data, Preserves users states across page requests
+
+Jornaya  
+Personal Data: Cookies, Unique user ID that recognizes the user on returning visits
+
+Pardot, AdRoll  
+Personal Data: Cookies, User Data
+
+Sonobi  
+Personal Data: Cookies, used to distribute traffic to the website on several servers in order to optimize response times
+
+UID  
+Personal Data: Cookies, Unique user ID that recognizes the user on returning visits
+
+UTM Parameters (campaign, medium, source)  
+Personal Data: Cookies, User Data, Unique user ID that recognizes the user on returning visits to help with attribution
+
+Jobvite  
+Personal Data: Cookies, Registers a timestamp with the exact time of when the user accessed the website. Used by Google Analytics to calculate the duration of a website visit
+
+Cookie Consent  
+Personal Data: Cookies, stores the user's cookie consent state for the current domain
+
+InstinctiveAds, PushCrew, SiteImprove  
+Personal Data: Cookies, Used by the content network, Cloudflare, to identify trusted web traffic
+
+Visual Website Optimizer (VWO)  
+Personal Data: Cookies, Usage Data, Preserves users states across page requests
+
+Drupal  
+Personal Data: Cookies, Usage Data, Preserves users states across page requests
+
+HotJar  
+Personal Data: Cookies, Usage Data
+
 Analytics  
-Google Analytics, Google Tag Manager, Adobe Analytics, Google Analytics with anonymized IP and Salesforce Analytics Cloud  
+Google Analytics, Google Tag Manager, GAID, Adobe Analytics, Google Analytics with anonymized IP and Salesforce Analytics Cloud  
 Personal Data: Cookies and Usage Data
 
 Google Analytics for Firebase  
 Personal Data: Cookies, unique device identifiers for advertising (Google Advertiser ID or IDFA, for example) and Usage Data
 
-User ID extension for Google Analytics  
-Personal Data: Cookies
+User ID extension for Google Analytics, GID  
+Personal Data: Cookies, Registers a unique ID that is used to generate statistical data on how the visitor uses the website
 
 Opt Out of Analytics Tracking  
 You can choose to opt out of having site activity logged by clicking [here](https://support.google.com/analytics/answer/181881?hl=en).
 
 **Use of your Personal Information**
 
-Northcentral University keeps track of visits to the Northcentral Web sites and pages in order to deliver customized content, and gauge the popularity and efficacy of sites, sections and services.
+Northcentral University keeps track of visits to the Northcentral Web sites and pages in order to deliver customized content, and gauge the popularity and efficacy of sites, sections, and services.
 
 When you request information from Northcentral University, you are asked to provide contact information that is collected and used for the purpose of responding to your request. The contact information collected may include your name, address, home telephone number, mobile telephone number or email address. We, or any 3rd Party trusted partners acting solely on NCU’s behalf, may use this information to contact you through various means, including phone calls, text messages, digital and social media marketing, e-mail, and postal mail about the programs and services that we offer.
 
@@ -60,7 +99,7 @@ You have the ability to accept or decline cookies. Most Web browsers automatical
 
 **Control your Personal Information**
 
-Northcentral offers its Students choices for the collection, use and sharing of personal information. You may go to the Profile page to proactively make choices about the use and sharing of your personal information.
+Northcentral offers its Students choices for the collection, use, and sharing of personal information. You may go to the Profile page to proactively make choices about the use and sharing of your personal information.
 
 **Security of your Personal Information**
 
@@ -68,4 +107,4 @@ Northcentral secures your personal information from unauthorized access, use or 
 
 **Changes to this Statement**
 
-Northcentral may occasionally update this Statement of Privacy, and encourages you to periodically review this Statement to remain informed of how Northcentral is protecting your information.
+Northcentral may occasionally update this Statement of Privacy and encourages you to periodically review this Statement to remain informed of how Northcentral is protecting your information.
