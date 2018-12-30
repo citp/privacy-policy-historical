@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instructure.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607064758id_/https%3A//www.instructure.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instructure.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230191419id_/https%3A//www.instructure.com/policies/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -40,6 +40,8 @@ To make our Site, Apps, and Services more useful to you, our servers (which may 
 
 **“Flash Cookies”** are used to store your preferences such as volume control or to display content based upon what you view on our websites to personalize your visit. Third party partners who provide certain features on our websites, such as videos, may place Flash cookies on your device. They may use Flash cookies to track your Web browsing activity and to display personalized advertising. Flash cookies are different from other cookies because of the amount of, type of, and way in which data is stored. Cookie management tools provided by your browser usually will not remove Flash cookies. To learn more about Flash cookies, who has placed Flash cookies on your device, and how to manage privacy and storage settings for Flash cookies click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118>. We do not control the privacy practices of the third parties who place or track Flash cookies and this privacy policy does not cover their practices. You should visit the privacy policies of companies who place Flash cookies to understand their practices.
 
+Most web browsers are set to accept cookies by default. If you prefer, you can typically remove and reject cookies from our Site with your browser settings. If you remove or reject our cookies, it will affect how our Site and Services work for you. 
+
 **Analytics.** We use analytics services to help analyze how users use the Site and Apps. These services use cookies and scripts to collect and store information such as how users interact with our Apps, errors users encounter when using our apps, device identifiers, how often users visit the Site, what pages they visit, and what other sites they used prior to coming to the Site. We use the information we get from Google Analytics only to improve our Site, our Apps, and our Services. Please see the following links for more information about Google Analytics: <http://www.google.com/privacy_ads.html>, <http://www.google.com/privacy.html>, and <http://www.google.com/analytics/tos.html>. We do not tie the information gathered using third party analytics to your personally identifiable information.
 
 **Blogs/Forums.**
@@ -52,7 +54,7 @@ We display personal testimonials of satisfied customers on our Site in addition 
 
 **Use of Your Data.**
 
-In general, personal information you submit to us is used either to respond to requests that you make, or to aid us in serving you better. Instructure uses your personal information in the following ways: to create and maintain your account; to identify you as a user in our system; to operate, maintain, and improve our Site, Apps, and Services; to personalize and improve your experience; to send you administrative e-mail; to respond to your comments or inquiries; to send you surveys, promotional communications about our products and services or the products and services of third parties ( **“Partners”** ); to protect, investigate, and deter against fraudulent, unauthorized, or illegal activity; and to make telephone calls to you, from time to time, as a part of secondary fraud protection or to solicit your feedback with your permission.
+In general, personal information you submit to us is used either to respond to requests that you make, or to aid us in serving you better. Instructure uses your personal information in the following ways: to create and maintain your account; to identify you as a user in our system; to operate, maintain, and improve our Site, Apps, and Services; to personalize and improve your experience; to send you administrative e-mail; to respond to your comments or inquiries; to protect, investigate, and deter against fraudulent, unauthorized, or illegal activity; and to make telephone calls to you, from time to time, as a part of secondary fraud protection or to solicit your feedback with your permission.
 
 **Disclosure of Your Personal Information.**
 
@@ -61,8 +63,6 @@ We will share your personal information with third parties only in the ways that
 **Affiliates.** Although we currently do not have a parent company, any subsidiaries, joint ventures, or other companies under a common control (collectively, **“Affiliates”** ), we may in the future. We may share some or all of your information with these Affiliates, in which case we will require our Affiliates to honor this Privacy Policy. 
 
 **Third Party Service Providers.** We may share your personal information with third party service providers for the sole purpose of providing you with the Services that we offer you through our Site. For example, we may share data with service providers who host our websites or provide email services on our behalf.
-
-**Partners.** We may also share your personal information with our Partners. Our Partners may use your personal information for their own direct marketing purposes. 
 
 **Other Disclosures.** Instructure may disclose information about you if it believes such disclosure is necessary to (a) comply with laws or to respond to lawful requests and legal process; or (b) protect or defend the rights, safety, or property of Instructure, users of the Services, or any person including to enforce our agreements, policies, and terms of use or (c) in an emergency to protect the personal safety of any person. 
 
@@ -81,12 +81,6 @@ We may allow you to connect and share information with certain social networking
 You can also access certain features of our Site using Social Networking Platforms. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name, email address, and other personal information to pre-populate an application. 
 
 We do not control the privacy practices of the Social Networking Platforms and sign-in services you choose to use and this privacy policy does not cover their practices, you should visit the privacy policies of any Social Networking Platform or sign-in service you choose to use to understand their practices.
-
-**Your Choices Regarding Your Personal Information**
-
-**Choices.** We offer you choices regarding the collection, use, and sharing of your personal information. When you receive newsletters or promotional communications from us, you may “opt-out” by following the unsubscribe instructions provided in e-mails you receive from us or by contacting us directly at the contact information below. 
-
-Most web browsers are set to accept cookies by default. If you prefer, you can typically remove and reject cookies from our Site with your browser settings. If you remove or reject our cookies, it will affect how our Site and Services work for you. 
 
 **Changes to Personal Information.** You may change some of your personal information in your account by editing your profile within the Service. You may also request changes or deletions by e-mailing us at the e-mail address set forth below. We will respond to your request, when permitted by law, within 30 days. We may be unable to delete information that resides in our archives. 
 
