@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theelephantpants.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624025330id_/https%3A//www.theelephantpants.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theelephantpants.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230022212id_/https%3A//www.theelephantpants.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – The Elephant Pants
 
@@ -13,9 +13,6 @@ When ordering or registering on our site, as appropriate, you may be asked to en
 We collect information from you when you register on our site, place an order, subscribe to a newsletter, respond to a survey, fill out a form or enter information on our site.
 
 **How do we use your information?**
-
-  
-
 
 We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
@@ -33,12 +30,7 @@ We may use the information we collect from you when you register, make a purchas
 
 **How do we protect visitor information?**
 
-  
-
-
-Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
-
-We use regular Malware Scanning.
+Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible. We use regular Malware Scanning.
 
 Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.
 
@@ -50,9 +42,9 @@ All transactions are processed through a gateway provider and are not stored or 
 
 When you tag our brand in a picture, we adhere to the policies of the platform on which the content was posted. The following policies are taken directly from the indicated social media platform. For more information, review the full privacy policies of each social media platform.
 
-In the event that you want your shared content removed from our social media channels, you may email pants@theelephantpants.com and we will remove the content within 24 hours.
+In the event that you want your shared content removed from our social media channels, you may email support@theelephantpants.com and we will remove the content within 24 hours.
 
-_Instagram_
+_Instagram_  
 
   * Any information or content that you voluntarily disclose for posting to the Service, such as User Content, becomes available to the public, as controlled by any applicable privacy settings that you set. To change your privacy settings on the Service, please change your profile setting. Once you have shared User Content or made it public, that User Content may be re-shared by others.
 
@@ -67,40 +59,33 @@ _Facebook_
 
 **Do we use 'cookies'?**
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information.
 
-**•** Help remember and process the items in the shopping cart.
+For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-**•** Understand and save user's preferences for future visits.
+**•**  Help remember and process the items in the shopping cart
 
-**•** Keep track of advertisements.
+**•** Understand and save user's preferences for future visits
+
+**•** Keep track of advertisements
 
 **•** Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third party services that track this information on our behalf.
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies.
-
-If you disable cookies off, some features will be disabled It won't affect the users experience that make your site experience more efficient and some of our services will not function properly.
-
-However, you can still place orders .
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies. If you turn cookies off, some personalization features will become disabled but overall, you will still have the ability to place orders as normal.
 
 **Third Party Disclosure**
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information.
 
-**Third party links**
+**Third  Party Links**
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We, therefore, have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
 **Google**
 
-  
-
-
 Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en 
 
-We use Google AdSense Advertising on our website.
-
-Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+We use Google AdSense Advertising on our website. Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
 **We have implemented the following:**
 
@@ -115,7 +100,7 @@ Google, as a third party vendor, uses cookies to serve ads on our site. Google's
 We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions, and other ad service functions as they relate to our website.
 
 Opting out:  
-Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
+Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising Initiative opt-out page or permanently using the Google Analytics Opt-Out Browser add-on.
 
 **California Online Privacy Protection Act**
 
@@ -123,7 +108,7 @@ CalOPPA is the first state law in the nation to require commercial websites and 
 
 **According to CalOPPA we agree to the following:**
 
-Users can visit our site anonymously
+Users can visit our site anonymously.
 
 Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.
 
@@ -147,39 +132,27 @@ It's also important to note that we do not allow third party behavioral tracking
 
 **COPPA (Children Online Privacy Protection Act)**
 
-  
+When it comes to the collection of personal information from children under 13, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online. We do not market to or collect information from children under 13.
 
+**In order to remove your child's information please contact the customer service team at:**
 
-When it comes to the collection of personal information from children under 13, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.
-
-We market to and collect information from children under 13.
-
-No
-
-**In order to remove your child's information please contact the following personnel:**
-
-Nathan Coleman
-
-nathan@theelephantpants.com
+support@theelephantpants.com
 
 **We adhere to the following COPPA tenants:**
 
-**•** We will not require a child to disclose more infomration than is reasonably necessary to particapate in an activity.
+**•** We will not require a child to disclose more information than is reasonably necessary to participate in an activity.
 
 **•** Parents can review their child's personal information, direct us to delete it, and refuse to allow any further collection or use of the child's information.
 
 **•** Parents can agree to the collection and use of their child's information, but still NOT allow disclosure to third parties unless that's part of the service.
 
-**•** Parents can review, delete, manage or refuse with whom their child's information is shared through through emailing our support staff contacting us directly.
+**•** Parents can review, delete, manage or refuse with whom their child's information is shared through emailing our support staff contacting us directly.
 
-**•** We will notify parents directly before collecting PII from their kids. This includes what specific information you will want to collect and how it might be disclosed, a link to your online privacy policy, and how the parents can give their consent. Also, if the parent doesn't consent within a reasonable time you will delete the parent's and childs online contact info from your records.
+**•** We will notify parents directly before collecting PII from their kids. This includes what specific information we'll need to collect, how it might be disclosed, a link to this online privacy policy, and how the parents can give their consent. If we do not receive the consent within a reasonable time, we'll delete any of the parent's and child's online contact info that we have in our records.
 
-**•** Parents can give consent by call a toll-free number staffed by trained personnel or contacting us directly.
+**•** Parents can give consent by calling our toll-free number; (800) 676-8109, which is staffed by our trained personnel.
 
 **Fair Information Practices**
-
-  
-
 
 The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
 
@@ -196,9 +169,6 @@ We will notify the users via in site notification
 We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
 
 **CAN SPAM Act**
-
-  
-
 
 The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
 
@@ -227,8 +197,10 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
 **•** Allow users to unsubscribe by using the link at the bottom of each email
 
 **  
-If at any time you would like to unsubscribe from receiving future emails, you can email us at**
+If at any time you would like to unsubscribe from receiving future emails, you can email us at:**
 
 **•** Follow the instructions at the bottom of each email.
 
 and we will promptly remove you from **ALL** correspondence.
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
