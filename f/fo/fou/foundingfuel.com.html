@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the foundingfuel.com privacy policy that was archived on 2018-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180611191137id_/https%3A//www.foundingfuel.com/page/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the foundingfuel.com privacy policy that was archived on 2018-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181230051152id_/http%3A//www.foundingfuel.com/page/privacy-policy) for the most accurate reproduction.-->
 
 <html><head>
         <title>Founding Fuel</title>
@@ -21,7 +21,7 @@
         <!-- Open Graph data -->
         <meta property="og:title" content="Founding Fuel">
         <meta property="og:type" content="website">
-        <meta property="og:url" content="http://www.foundingfuel.com/page/privacy-policy/">
+        <meta property="og:url" content="https://foundingfuel.com/page/privacy-policy/">
         <meta property="og:image" content="https://d25ecq9zgd9hts.cloudfront.net/img/ffnavlogo.png ">
         <meta property="og:description" content="Fascinating Fearless">
         <meta property="og:site_name" content="Founding Fuel">
@@ -410,7 +410,8 @@ We reserve the right to modify this privacy statement at any time, so please rev
             </div>
         </div>
         <footer>
-            <div class="footercenter">
+            
+<div class="footercenter">
    <ul class="list-inline">
    <li><a href="/about-us" class="link">About Us</a></li>    
    <li><a href="/page/careers/" class="link">Careers</a></li>     
@@ -418,7 +419,31 @@ We reserve the right to modify this privacy statement at any time, so please rev
    <li><a href="/page/terms-of-use/" class="link">Terms</a></li>
    </ul>
 </div>
-
+<div id="newsletter-signup-modal" class="modal fade" role="dialog">
+    <div class="modal-dialog">
+        <!-- Modal content-->
+        <div class="modal-content">
+        <div class="modal-header newsletter-signup-modal--header">
+            <button type="button" class="close" data-dismiss="modal">×</button>
+            <img src="https://d25ecq9zgd9hts.cloudfront.net/img/ffnavlogo.png">
+        </div>
+        <div class="modal-body">
+            <p class="newsletter-signup-modal--content">Subscribe to Founding Fuel's weekly newsletter for voices of reason in an unreasonable world</p>
+            <div class="newsletter-signup-modal--input--holder">
+                <input class="newsletter-signup-modal--input" type="text" placeholder="Please enter your email id">
+                <button id="subscribeFF" class="newsletter-signup-modal--button" type="submit">
+                    <img src="https://d25ecq9zgd9hts.cloudfront.net/aadhaar_effect/img/arrow-go.svg">
+                </button>
+            </div>
+            <p class="newsletter-signup-modal--content">We will not spam you. You can unsubscribe at any time.</p>
+            <div class="clearfix"></div>
+        </div>
+        <div class="modal-footer">
+            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        </div>
+        </div>
+    </div>
+</div>
 <div class="footercenter">
    <p class="copy">Copyright Founding Fuel Publishing Pvt Ltd © 2015-2018 </p>
 </div>
@@ -432,6 +457,96 @@ $(document).ready(function(){
     })
 
    
+});
+
+
+// get browser cookie
+function get_cookies_array() {
+  var cookies = {};
+  if (document.cookie && document.cookie != '') {
+    var split = document.cookie.split(';');
+    for (var i = 0; i < split.length; i++) {
+      var name_value = split[i].split("=");
+      name_value[0] = name_value[0].replace(/^ /, '');
+      cookies[decodeURIComponent(name_value[0])] = decodeURIComponent(name_value[1]);
+    }
+  }
+  return cookies;
+}
+
+// set browser cookie
+function set_expiry_cookie() {
+  now = new Date();
+  document.cookie = "_created_date=" + now.toString() + ";";
+}
+
+function showSignupModal() {
+  setTimeout(function() {
+    
+        $('#newsletter-signup-modal').modal('show');
+    
+    set_expiry_cookie();
+  }, 5000);
+}
+
+// Feature flag
+var show_newsletter_signup = true;
+var cookie_expiry_duration = 10000;
+
+// Show processed data modal
+var now = "";
+$(document).ready(function() {
+    if (show_newsletter_signup == true) {
+      // get cookies
+      var cookies = get_cookies_array();
+      if (Object.keys(cookies).length > 0) {
+        var createdDate = cookies['_created_date'];
+        if (createdDate != undefined || createdDate != null) {
+          var exp_date = new Date(createdDate);
+          var current_date = new Date();
+          var diff_in_sec = (current_date.getTime() - exp_date.getTime()) / 1000;
+          if (cookie_expiry_duration != ''){
+            if (diff_in_sec > cookie_expiry_duration){
+              // show modal and set cookie timeout
+              showSignupModal();
+            }
+            else if (diff_in_sec > parseInt(cookie_expiry_duration)) {
+              // show modal and set cookie timeout
+              showSignupModal();
+            }
+          }
+          else {
+            if (diff_in_sec > parseInt(cookie_expiry_duration)) {
+              // show modal and set cookie timeout
+              showSignupModal();
+            }
+          }
+        }
+        else {
+          // show modal and set cookie timeout
+          showSignupModal();
+        }
+      }
+      else {
+        // show modal and set cookie timeout
+        showSignupModal();
+      }
+
+    }
+    else {
+      return false;
+    }
+});
+
+// subscribeFF
+$('#subscribeFF').click(function(){
+    window.location.href = '//foundingfuel.us10.list-manage.com/subscribe/post?u=6b67caff4abde579dfe771fd6&amp;id=d68263df84';
+});
+
+$('#subscribeInput').keypress(function(e) {
+    if(e.which == 13) {
+        window.location.href = '//foundingfuel.us10.list-manage.com/subscribe/post?u=6b67caff4abde579dfe771fd6&amp;id=d68263df84';
+    }
 });
         </script>
 
