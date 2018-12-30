@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chrismartenson.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630212820id_/https%3A//www.peakprosperity.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chrismartenson.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230161228id_/https%3A//www.peakprosperity.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Peak Prosperity
 
@@ -26,7 +26,7 @@ We also store certain types of information when you interact with us on our web 
 
 The PeakProsperity.com website displays Google AdSense advertisements.  Google, as a third party vendor, uses cookies to serve ads on PeakProsperity.com.  The cookie used by Google is known as the [DoubleClick DART cookie](https://www.doubleclick.com/privacy/faq.aspx) ("DART cookie").
 
-Google's use of the DART cookie enables it to serve ads to PeakProsperity.com visitors based on their visit to our site and other sites on the Internet.  Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy page.  This can be found by clicking the following link: <http://www.google.com/privacy_ads.html>
+Google's use of the DART cookie enables it to serve ads to PeakProsperity.com visitors based on their visit to our site and other sites on the Internet.  Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy page.  This can be found by clicking the following link: [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html)
 
 You can learn more about how Google manages data in its ads products, including how to control the information collected by Google on this site (and others), at this website they've created specifically on this topic for the public: <https://policies.google.com/technologies/partner-sites>
 
