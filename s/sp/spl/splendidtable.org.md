@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the splendidtable.org privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231085134id_/https%3A//www.americanpublicmedia.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the splendidtable.org privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230141139id_/https%3A//www.americanpublicmedia.org/privacy) for the most accurate reproduction.*
 
 # American Public Media Your Privacy Rights
 
