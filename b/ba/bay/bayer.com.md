@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bayer.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624230149id_/https%3A//www.bayer.com/en/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bayer.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230221705id_/https%3A//www.bayer.com/en/privacy-statement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement - Bayer
 
@@ -51,7 +51,7 @@ These cookies assign a randomly generated ID to your device, enabling us to reco
 
 Google Analytics OnOff  
   
-Analysis of webcast with Multimedia Center from Nasdaq:  
+Analysis of webcast with Multimedia Center from West:  
 These Cookies enable us to analyze your use of the webcast by assigning a unique and randomly generated ID to your device that lets us recognize if you have used the Multimedia Center player once before. | 12 months | 
 
 Webcast OnOff  
@@ -72,12 +72,12 @@ Google will analyze your use of our Website on our behalf. To this purpose we us
 You may revoke your consent to the use of web analysis at any time, either by downloading and installing the [provided Google Browser Plugin](https://tools.google.com/dlpage/gaoptout?hl=en-GB) or by administrating your consents in the above table, in which case an opt-out cookie will be placed. Both options will prevent the application of web analysis only as long as you use the browser on which you installed the plugin and do not delete the opt-out cookie.  
 Further information on Google Analytics is available in the [Google Analytics Terms of Use](https://www.google.com/analytics/terms/us.html), the [Privacy and Data Protection Guidelines of Google Analytics](https://support.google.com/analytics/answer/6004245?hl=en-GB) and in the [Google Privacy Policy](http://www.google.com/intl/en/policies/privacy).
 
-**Multimedia Center from Nasdaq**  
-On our website we use the external analytics service Multimedia Center of our webcast provider Webcasts NASDAQ OMX Corporate Solutions International Limited, ("Corporate Solutions") a NASDAQ, Inc. company, Nasdaq Offices, Woolgate Exchange, 25 Basinghall Street, London EC2V 5HA, Great Britain („ **Nasdaq** “).  
-Nasdaq will analyze your use of our webcast on our behalf.   
-To this purpose we use, among others, the cookies described in more detail in the above table. The information collected by Nasdaq in connection with your use of our webcast (e.g. the referring URL, our webpages visited by you, your browser type, your language settings, your operating system, your screen resolution, date, duration of your viewing, part of the webcast you viewed) will be transmitted to a server of Nasdaq in Germany, where it will be stored and analyzed. The respective results will then be made available to us in anonymized form. Your usage data will not be connected to your full IP address during this process.  
+**Multimedia Center from West**  
+On our website we use the external analytics service Multimedia Center of our webcast provider WEST UC Limited, a West LLC company, Unit 1 & 2 Sawmills End Barnwood, Gloucester GL4 3D, Great Britain („ **West** “).  
+West will analyze your use of our webcast on our behalf.   
+To this purpose we use, among others, the cookies described in more detail in the above table. The information collected by West in connection with your use of our webcast (e.g. the referring URL, our webpages visited by you, your browser type, your language settings, your operating system, your screen resolution, date, duration of your viewing, part of the webcast you viewed) will be transmitted to a server of Nasdaq in Germany, where it will be stored and analyzed. The respective results will then be made available to us in anonymized form. Your usage data will not be connected to your full IP address during this process.  
 You may revoke your consent to the use of web analysis for webcasts at any time by administrating your consents in the above table, in which case an opt-out cookie will be placed.  
-Further information on Nasdaq is available in the [Nasdaq privacy statement](https://edge.media-server.com/m6/player/help/privacy.php?lan=en).
+Further information on West is available in the [West privacy statement](https://www.west.com/legal-privacy/#digital-communications).
 
       4. #### Use of contact forms
 
@@ -120,7 +120,7 @@ For further information regarding the scope and purpose of such collection and p
 
 
         * [YouTube (videos)](https://www.google.com/intl/en/policies/privacy/)
-        * [EQS Group AG (stock charts)](https://germany.eqs.com/en/legal)
+        * [EQS Group AG (stock charts)](https://www.eqs.com/home/footer/legals/data-protection/)
         * [Google Maps](https://www.google.com/intl/de/policies/privacy/)
         * TV-Footage
         * Stockholders’ Portal
@@ -155,6 +155,8 @@ This Website is not intended or designed for communications regarding side effec
 
 If you nevertheless report to us undesirable side effects or other issues regarding the safeness or quality of Bayer products, we will be legally bound to deal with your communication and may have to contact you for clarification purposes. Subsequently, we may have to notify the competent health authorities of the issues reported by you. In this context, your information will be forwarded in pseudonymized form, i.e. no information by which you may be directly identified will be passed on. We may also have to forward these pseudonymized notifications to our group companies and cooperation partners, to the extent these are likewise obliged to notify their respectively competent health authorities.   
 
+
+Further information about data privacy and side effect reporting are available in the [Bayer Privacy Statement for Pharmacovigilance Data](https://web.archive.org/en/privacy-statement-pv.aspx).
 
       9. #### Use of Publication Order
 
