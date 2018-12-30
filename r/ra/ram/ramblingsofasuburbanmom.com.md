@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the ramblingsofasuburbanmom.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207065812id_/http%3A//subscriptionboxramblings.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ramblingsofasuburbanmom.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230012532id_/https%3A//subscriptionboxramblings.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Subscription Box Ramblings
 
-##### _Disclosure: This post may contain affiliate / referral links.[Read the full disclosure](http://subscriptionboxramblings.com/disclosure-policy/)._
+##### _Disclosure: This post may contain affiliate / referral links.[Read the full disclosure](https://subscriptionboxramblings.com/disclosure-policy/)._
+
+ **Effective 5.25.18**  
+Click [here](https://app.termly.io/document/privacy-policy/fa8ee46a-e8e6-4d35-a23f-a3d5a0af17a5) to view the updated Privacy Policy.
 
 ### Privacy Policy:
 
@@ -16,7 +19,7 @@ Subscription Box Ramblings also collects potentially personally-identifying info
 
 ### Gathering of Personally-Identifying Information
 
-Certain visitors to Subscription Box Ramblings’ websites choose to interact with Subscription Box Ramblings in ways that require Subscription Box Ramblings to gather personally-identifying information. The amount and type of information that Subscription Box Ramblings gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [subscriptionboxramblings.com](http://subscriptionboxramblings.com/) to provide a username and email address. Those who engage in transactions with Subscription Box Ramblings are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Subscription Box Ramblings collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Subscription Box Ramblings. Subscription Box Ramblings does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+Certain visitors to Subscription Box Ramblings’ websites choose to interact with Subscription Box Ramblings in ways that require Subscription Box Ramblings to gather personally-identifying information. The amount and type of information that Subscription Box Ramblings gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [subscriptionboxramblings.com](https://subscriptionboxramblings.com/) to provide a username and email address. Those who engage in transactions with Subscription Box Ramblings are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Subscription Box Ramblings collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Subscription Box Ramblings. Subscription Box Ramblings does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
 ### Aggregated Statistics
 
