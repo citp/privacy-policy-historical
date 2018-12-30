@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the pornhive.tv privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109060920id_/http%3A//www.pornhive.tv/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornhive.tv privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230090201id_/http%3A//www.pornhive.tv/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-**No more annoying ads on our site!** Instead we ask to use your browser to mine crypto currencies. It won't affect your user experience. If you want to swtich back to ads instead, click on the " **stop** " button.
-
-**Hashes/s:** 0.0    **Total:** 0    **Threads:** 2 __/ __     **Speed:** 100% __/ __    
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy. 
 
