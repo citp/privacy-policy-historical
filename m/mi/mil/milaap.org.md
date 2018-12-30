@@ -1,71 +1,386 @@
-> *The following text is extracted and transformed from the milaap.org privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624112304id_/https%3A//milaap.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milaap.org privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230110307id_/https%3A//milaap.org/privacy-policy) for the most accurate reproduction.*
 
 # Crowdfunding on Milaap | Privacy Policy | Milaap
 
-We value the trust you place in us. That's why we insist upon the highest standards for secure transactions and user information privacy. Please read the following statement to learn about our information gathering and dissemination practices.
+Welcome to Milaap’s **"Privacy Notice"**.
 
-_Note: Our privacy policy is subject to change at any time without notice. To make sure you are aware of any changes, please review this policy periodically._
+Milaap respects your privacy and is committed to protecting your personal data. This Privacy Notice will inform you as to how we look after your personal data when you visit our website (regardless of where you visit it from) and tell you about your privacy rights and how the law protects you.
 
-**By visiting this Website you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree please do not use or access our Website.**
+This Privacy Notice applies to all/any user accessing or availing the services on the Platform. You may also download a complete version of the Privacy Notice [here](https://d2zcpk7yfyf2dq.cloudfront.net/milaap/image/upload/v1537862305/privacy3_r1sna8.pdf). Please also use the Glossary to understand the meaning of some of the terms used in this privacy notice.
 
-By mere use of the Website, you expressly consent to our use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to the Terms of Use.
+* ## Who we are
 
-## Collection of Personally Identifiable Information and other Information
+  1. The purpose of this privacy notice
 
-When you use our Website, we collect and store your personal information which is provided by you from time to time. Our primary goal in doing so is to provide you a safe, efficient, smooth and customized experience. This allows us to provide services and features that most likely meet your needs, and to customize our Website to make your experience safer and easier. More importantly, while doing so we collect personal information from you that we consider necessary for achieving this purpose.
+This Privacy Notice aims to give you information on how Milaap collects and processes your personal data through your use of the Milaap website and connected services (the website and connected services are collectively referred to as “Platform” in this Privacy Notice).
 
-In general, you can browse the Website without telling us who you are or revealing any personal information about yourself. Once you give us your personal information, you are not anonymous to us. Where possible, we indicate which fields are required and which fields are optional. You always have the option to not provide information by choosing not to use a particular service or feature on the Website. We may automatically track certain information about you based upon your behaviour on our Website. We use this information to do internal research on our users' demographics, interests, and behaviour to better understand, protect and serve our users. This information is compiled and analysed on an aggregated basis. This information may include the URL that you just came from (whether this URL is on our Website or not), which URL you next go to (whether this URL is on our Website or not), your computer browser information, and your IP address.
+The Platform is not intended for children and we do not knowingly collect data relating to children.
 
-We use data collection devices such as "cookies" on certain pages of the Website to help analyse our web page flow, measure promotional effectiveness, and promote trust and safety. "Cookies" are small files placed on your hard drive that assist us in providing our services. We offer certain features that are only available through the use of a "cookie".
+It is important that you read this Privacy Notice together with any other privacy notice or fair processing notice we may provide on specific occasions when we are collecting or processing personal data about you so that you are fully aware of how and why we are using your data. This Privacy Notice supplements the other notices and is not intended to override them.
 
-We also use cookies to allow you to enter your password less frequently during a session. Cookies can also help us provide information that is targeted to your interests. Most cookies are "session cookies," meaning that they are automatically deleted from your hard drive at the end of a session. You are always free to decline our cookies if your browser permits, although in that case you may not be able to use certain features on the Website and you may be required to re-enter your password more frequently during a session.
+  2. controllers
 
-Additionally, you may encounter "cookies" or other similar devices on certain pages of the Website that are placed by third parties. We do not control the use of cookies by third parties. If you choose to contribute on the Website, we collect information about your contributions history. If you transact with us, we collect some additional information, such as a billing address, a credit / debit card number and a credit / debit card expiration date and/ or other payment instrument details and tracking information from cheques or money orders. 
+The Milaap Group is made up of different legal entities, details of which can be found [here](https://web.archive.org/contact-us). This Privacy Notice is issued on behalf of the Milaap Group so when we mention “Milaap”, “we”, “us” or “our” in this Privacy Notice, we are referring to the relevant company in the Milaap Group responsible for processing your data. Milaap Social Ventures Pte Ltd is the controller and responsible for this website. 
 
-If you choose to post messages on our message boards, chat rooms or other message areas or leave feedback, we will collect that information you provide to us. We retain this information as necessary to resolve disputes, provide customer support and troubleshoot problems as permitted by law. If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on the Website, we may collect such information into a file specific to you. 
+We have appointed a data privacy manager who is responsible for overseeing questions in relation to this Privacy Notice. If you have any questions about this Privacy Notice, please contact the date privacy manager using the details set out below. 
 
-We collect personally identifiable information (email address, name, phone number, credit card / debit card / other payment instrument details, etc.) from you when you set up a free account with us. While you can browse some sections of our Website without being a registered member, certain activities (such as placing an order) do require registration. We do use your contact information to send you offers based on your previous orders and your interests.
+Contact Details:
 
-## Use of Demographic / Profile Data / Your Information
-
-We use personal information to provide the services you request. To the extent we use your personal information to market to you, we will provide you the ability to opt-out of such uses. We use your personal information to resolve disputes; troubleshoot problems; help promote a safe service; collect money; measure consumer interest in our products and services, inform you about online and offline offers, products, services, and updates; customize your experience; detect and protect us against error, fraud and other criminal activity; enforce our terms and conditions; and as otherwise described to you at the time of collection. In our efforts to continually improve our product and service offerings, we collect and analyse demographic and profile data about our users' activity on our Website. 
-
-We identify and use your IP address to help diagnose problems with our server, and to administer our Website. Your IP address is also used to help identify you and to gather broad demographic information. We will occasionally ask you to complete optional online surveys. These surveys may ask you for contact information and demographic information (like zip code, age, or income level). We use this data to tailor your experience at our Website, providing you with content that we think you might be interested in and to display content according to your preferences. 
-
-## Cookies
-
-A "cookie" is a small piece of information stored by a web server on a web browser so it can be later read back from that browser. Cookies are useful for enabling the browser to remember information specific to a given user. We place both permanent and temporary cookies in your computer's hard drive. The cookies do not contain any of your personally identifiable information.
-
-## Sharing of personal information
-
-We may share personal information with our other corporate entities and affiliates to help detect and prevent identity theft, fraud and other potentially illegal acts; correlate related or multiple accounts to prevent abuse of our services; and to facilitate joint or co-branded services that you request where such services are provided by more than one corporate entity. Those entities and affiliates may not market to you as a result of such sharing unless you explicitly opt-in.
-
-We may disclose personal information if required to do so by law or in the good faith belief that such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal process. We may disclose personal information to law enforcement offices, third party rights owners, or others in the good faith belief that such disclosure is reasonably necessary to: enforce our Terms or Privacy Policy; respond to claims that an advertisement, posting or other content violates the rights of a third party; or protect the rights, property or personal safety of our users or the general public.
-
-We and our affiliates will share / sell some or all of your personal information with another business entity should we (or our assets) plan to merge with, or be acquired by that business entity, or re-organization, amalgamation, restructuring of business. Should such a transaction occur that other business entity (or the new combined entity) will be required to follow this privacy policy with respect to your personal information.
-
-## Links to Other Sites
-
-Our Website links to other websites that may collect personally identifiable information about you. Milaap is not responsible for the privacy practices or the content of those linked websites.
-
-## Security Precautions
-
-Our Website has stringent security measures in place to protect the loss, misuse, and alteration of the information under our control. Whenever you change or access your account information, we offer the use of a secure server. Once your information is in our possession we adhere to strict security guidelines, protecting it against unauthorized access.
-
-## Choice/Opt-Out
-
-We provide all users with the opportunity to opt-out of receiving non-essential (promotional, marketing-related) communications from us on behalf of our partners, and from us in general, after setting up an account. If you want to remove your contact information from all Milaap lists and newsletters, please send us an email at [feedback@milaap.org](https://mail.google.com/mail/?view=cm&fs=1&tf=1&su=&body=&to=feedback@milaap.org)
-
-## Your Consent
-
-By using the Website and/ or by providing your information, you consent to the collection and use of the information you disclose on the Website in accordance with this Privacy Policy, including but not limited to Your consent for sharing your information as per this privacy policy. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
-
-## Grievance Officer
-
-In accordance with Information Technology Act 2000 and rules made there under, the name and contact details of the Grievance Officer are provided below:
-
-Vrushali   
 Milaap Social Ventures India Private Limited   
-549, 26th Main, 14th Cross, J P Nagar Phase I,   
-Bangalore, Karnataka, India   
-Email: [feedback@milaap.org](https://mail.google.com/mail/?view=cm&fs=1&tf=1&su=&body=&to=feedback@milaap.org)
+Name of Data Privacy Manager: Amit Tiwari, Product Manager   
+Email address: product@milaap.org   
+Address: Milaap Social Ventures India Pvt. Ltd.  
+No. 57, 1st Floor, 1st Main Road, Opp. Mini Forest, 3rd Phase, J P Nagar,  
+Bangalore, Karnataka, India 560078   
+Telephone number: 080 26587080 
+
+  3. changes to the privacy notice and your duty to inform us of changes
+
+This version of the Privacy Notice was last updated on 30th December 2018 and previous versions can be obtained by contacting us.
+
+It is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes during your relationship with us.
+
+  4. third-party links
+
+The Platform may include links to third-party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements. When you leave our Platform, we encourage you to read the privacy notice of every website you visit.
+
+
+
+* ## The Data We Collect About You
+
+Personal data, or personal information, means any information about an individual from which that person can be identified. It does not include data where the identity has been removed (anonymous data).
+
+We may collect, use, store and transfer different kinds of personal data about you which we have grouped together as follows:
+
+  * **Identity Data** includes first name, maiden name, last name, username or similar identifier, date of birth, the language you use, and gender. 
+
+  * **Contact Data** includes your email address.
+
+  * **Financial Data** includes your payment card details. 
+
+  * **Transaction Data** includes details about payments to and from you and other details of services you may have purchased from us. 
+
+  * **Technical Data** includes your geo location, your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access the Platform. 
+
+  * **Profile Data** includes your username and password, purchases or orders made by you, your interests, preferences, feedback and survey responses. 
+
+  * **Usage Data** includes information about how you use the Platform. 
+
+  * **Marketing and Communications Data** includes your preferences in receiving marketing from us and our third parties and your communication preferences. 
+
+
+
+
+We also collect, use and share **Aggregated Data** such as statistical or demographic data for any purpose. Aggregated Data may be derived from your personal data but is **not** considered personal data in law as this data does not directly or indirectly reveal your identity. For example, we may aggregate your Usage Data to calculate the percentage of users accessing a specific website feature. However, if we combine or connect Aggregated Data with your personal data so that it can directly or indirectly identify you, we treat the combined data as personal data which will be used in accordance with this Privacy Notice.
+
+We do not collect any **Special Categories of Personal Data** about you (this includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data), nor do we collect any information about criminal convictions and offences.
+
+If You Fail To Provide Personal Data
+
+Where we need to collect personal data by law, or under the terms of a contract we have with you and you fail to provide that data when requested, we may not be able to offer the services that we aim to. In this case, we may have to cancel the service you have with us but we will notify you if this is the case at the time.
+
+* ## How Is Your Personal Data Collected
+
+We use different methods to collect data from and about you including through:
+
+  1. Direct Interactions
+
+You may give us your identity and contact information by using our Platform. This includes personal data you provide when you:
+
+    * create an account on the Platform;
+
+    * subscribe to our publications, newsletters;
+
+    * request marketing material to be sent to you;
+
+    * enter a competition, promotion or survey; or
+
+    * give us some feedback.
+
+  2. Automated Technologies Or Interactions
+
+As you interact with our Platform, we may automatically collect technical data about your equipment, browsing actions and patterns. We collect this personal data by using cookies, server logs and other similar technologies. The session timeout duration on Milaap is 14 days.
+
+  3. Third Parties Or Publicly Available Sources
+
+We may receive personal data about you from various third parties and public sources as set out below:
+
+    * Technical Data from the following parties: 
+      1. analytics providers such as Google;
+      2. advertising networks such as Facebook, Taboola, Outbrain, CTN, Google, Adgebra and
+      3. search information providers such as Google, Yahoo and Bing.
+    * Contact, Financial and Transaction Data from providers of technical, payment and delivery services such as Stripe, Razorpay, PayU, Citrus, Billdesk. 
+    * Identity and Contact Data from publicly availably sources such as Facebook and Google.
+
+
+* ## How We Use Your Personal Data
+
+We will only use your personal data when the law allows us to. Most commonly, we will use your personal data in the following circumstances:
+
+  * Where we need to perform the services we offer.
+
+  * Where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests.
+
+  * Where we need to comply with a legal or regulatory obligation.
+
+
+
+
+Generally we do not rely on consent as a legal basis for processing your personal data other than in relation to sending third party direct marketing communications to you via email or text message. You have the right to withdraw consent to marketing at any time by contacting us.
+
+Purposes For Which We Will Use Your Personal Data
+
+We have set out below, in a table format, a description of all the ways we plan to use your personal data, and which of the legal bases we rely on to do so. We have also identified what our legitimate interests are wherever appropriate.
+
+Note that we may process your personal data for more than one lawful ground depending on the specific purpose for which we are using your data. Please contact us if you need details about the specific legal ground we are relying on to process your personal data where more than one ground has been set out in the table below.
+
+PURPOSE / ACTIVITY | TYPE OF DATA | LAWFUL BASIS FOR PROCESSING INCLUDING BASIS OF LEGITIMATE INTEREST  
+---|---|---  
+To register you as a new user  | 
+
+  1. Identity
+  2. Contact
+
+| 
+
+  * Performance of a contract with you
+
+
+  
+  
+To process and deliver your order including:
+
+  1. Manage payments, fees and charges
+  2. Collect and recover money owed to us
+
+| 
+
+  1. Identity
+  2. Contact
+  3. Financial
+  4. Transaction
+  5. Marketing and Communications
+
+| 
+
+  1. Performance of a contract with you
+  2. Necessary for our legitimate interests (to recover debts due to us)
+
+  
+  
+To manage our relationship with you which will include:
+
+  1. Notifying you about changes to our terms or Privacy Notice
+  2. Asking you to leave a review or take a survey
+
+| 
+
+  1. Identity
+  2. Contact
+  3. Profile
+  4. Marketing and Communications
+
+| 
+
+  1. Performance of a contract with you
+  2. Necessary to comply with a legal obligation
+  3. Necessary for our legitimate interests (to keep our records updated and to study how customers use our products/services)
+
+  
+  
+To enable you to partake in a prize draw, competition or complete a survey
+
+| 
+
+  1. Identity
+  2. Contact
+  3. Profile
+  4. Usage
+  5. Marketing and Communications
+
+| 
+
+  1. Performance of a contract with you
+  2. Necessary for our legitimate interests (to study how customers use our products/services, to develop them and grow our business)
+
+  
+  
+To administer and protect our business and this website (including troubleshooting, data analysis, testing, system maintenance, support, reporting and hosting of data)
+
+| 
+
+  1. Identity
+  2. Contact
+  3. Technical
+
+| 
+
+  1. Necessary for our legitimate interests (for running our business, provision of administration and IT services, network security, to prevent fraud and in the context of a business reorganisation or group restructuring exercise)
+  2. Necessary to comply with a legal obligation
+
+  
+  
+To deliver relevant website content and advertisements to you and measure or understand the effectiveness of the advertising we serve to you
+
+| 
+
+  1. Identity
+  2. Contact
+  3. Profile
+  4. Usage
+  5. Marketing and Communications
+  6. Technical
+
+| 
+
+  * Necessary for our legitimate interests (to study how customers use our products/services, to develop them, to grow our business and to inform our marketing strategy)
+
+
+  
+  
+To use data analytics to improve our website, products/services, marketing, customer relationships and experiences
+
+| 
+
+  1. Technical
+  2. Usage
+
+| 
+
+  * Necessary for our legitimate interests (to define types of customers for our products and services, to keep our website updated and relevant, to develop our business and to inform our marketing strategy)
+
+
+  
+  
+Marketing
+
+We strive to provide you with choices regarding certain personal data usage, particularly around marketing and advertising. We have established the following personal data control mechanisms:
+
+  1. Promotional Offer from Us
+
+We may use your Identity, Contact, Technical, Usage and Profile Data to form a view on what we think you may want or need, or what may be of interest to you. This is how we decide which products, services and offers may be relevant for you (we call this marketing).
+
+You will receive marketing communications from us if you have requested information from us or if you provided us with your details when you entered a competition or registered for a promotion and, in each case, you have not opted out of receiving that marketing.
+
+  2. Third-party Marketing
+
+We will get your express opt-in consent before we share your personal data with any company outside the Milaap group of companies for marketing purposes.
+
+  3. Opting Out
+
+You can ask us or third parties to stop sending you marketing messages at any time by logging into the Platform and checking or unchecking relevant boxes to adjust your marketing preferences or by contacting us at any time.
+
+
+
+
+Cookies
+
+You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this Platform may become inaccessible or not function properly. The session timeout duration on Milaap is 14 days.
+
+Change of Purpose
+
+We will only use your personal data for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If you wish to get an explanation as to how the processing for the new purpose is compatible with the original purpose, please contact us.
+
+If we need to use your personal data for an unrelated purpose, we will notify you and we will explain the legal basis which allows us to do so.
+
+Please note that we may process your personal data without your knowledge or consent, in compliance with the above rules, where this is required or permitted by law.
+
+* ## Disclosures Of Your Personal Data
+
+We may have to share your personal data with the parties set out below for the purposes set out in the table in paragraph 4 above.
+
+  * Internal Third Parties as set out in the Glossary.
+  * External Third Parties as set out in the Glossary.
+  * Third parties to whom we may choose to sell, transfer, or merge parts of our business or our assets. Alternatively, we may seek to acquire other businesses or merge with them. If a change happens to our business, then the new owners may use your personal data in the same way as set out in this privacy notice.
+
+
+
+We require all third parties to respect the security of your personal data and to treat it in accordance with the law. We do not allow our third-party service providers to use your personal data for their own purposes and only permit them to process your personal data for specified purposes and in accordance with our instructions.
+
+* ## International Transfers
+
+As your personal data is shared with us, it will involve transferring your data to Singapore.
+
+Many of our external third parties are based in India and United States so their processing of your personal data may involve a transfer of data outside the country in which you are based.
+
+Please contact us if you want further information on the specific mechanism used by us when transferring your personal data out of the country in which you are based.
+
+* ## Data Security
+
+We have put in place appropriate security measures to prevent your personal data from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed. In addition, we limit access to your personal data to those employees, agents, contractors and other third parties who have a business need to know. They will only process your personal data on our instructions and they are subject to a duty of confidentiality.
+
+We have put in place procedures to deal with any suspected personal data breach and will notify you and any applicable regulatory of a breach where we are legally required to do so.
+
+* ## Data Retention
+
+  1. How Long Will You Use My Personal Data For?
+
+We will only retain your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.
+
+To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements.
+
+In some circumstances we may anonymise your personal data (so that it can no longer be associated with you) for research or statistical purposes in which case we may use this information indefinitely without further notice to you.
+
+
+
+* ## Your legal rights
+
+Under certain circumstances, you have rights under data protection laws in relation to your personal data. Please click on the links below to find out more about these rights:
+
+  * Request access to your personal data
+  * Request correction of your personal data
+  * Request erasure of your personal data
+  * Object to processing of your personal data
+  * Request restriction of processing your personal data
+  * Request transfer of your personal data
+  * Right to withdraw consent
+
+
+
+If you wish to exercise any of the rights above, please contact us.
+
+No Fee Usually Required
+
+You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. Alternatively, we may refuse to comply with your request in these circumstances.
+
+What We May Need From You
+
+We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.
+
+Time Limit To Respond
+
+We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated.
+
+* ## Glossary
+
+Lawful Basis
+
+**Legitimate Interest** means the interest of our business in conducting and managing our business to enable us to give you the best service/product and the best and most secure experience. We make sure we consider and balance any potential impact on you (both positive and negative) and your rights before we process your personal data for our legitimate interests. We do not use your personal data for activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted to by law). You can obtain further information about how we assess our legitimate interests against any potential impact on you in respect of specific activities by contacting us.
+
+**Performance of Contract** means processing your data where it is necessary for the performance of a contract to which you are a party or to take steps at your request before entering into such a contract.
+
+**Comply with a legal or regulatory obligation** means processing your personal data where it is necessary for compliance with a legal or regulatory obligation that we are subject to.
+
+Third Parties
+
+**Internal Third Parties:** Other companies in the Milaap Group [acting as joint controllers or processors] and who are based in India and United States and provide IT and system administration services and undertake leadership reporting.
+
+**External Third Parties:** Contact, Payments and Transaction data service providers.
+
+Your Legal Rights
+
+You have the right to:
+
+**Request access** to your personal data (commonly known as a “data subject access request”). This enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it.
+
+**Request correction** of the personal data that we hold about you. This enables you to have any incomplete or inaccurate data we hold about you corrected, though we may need to verify the accuracy of the new data you provide to us.
+
+**Request erasure** of your personal data. This enables you to ask us to delete or remove personal data where there is no good reason for us continuing to process it. You also have the right to ask us to delete or remove your personal data where you have successfully exercised your right to object to processing (see below), where we may have processed your information unlawfully or where we are required to erase your personal data to comply with local law. Note, however, that we may not always be able to comply with your request of erasure for specific legal reasons which will be notified to you, if applicable, at the time of your request.
+
+**Object to processing** of your personal data where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this ground as you feel it impacts on your fundamental rights and freedom. You also have the right to object where we are processing your personal data for direct marketing purposes. In some cases, we may demonstrate that we have compelling legitimate grounds to process your information which override your rights and freedom.
+
+**Request restriction of processing** of your personal data. This enables you to ask us to suspend the processing of your personal data in the following scenarios: (a) if you want us to establish the data’s accuracy; (b) where our use of the data is unlawful but you do not want us to erase it; (c) where you need us to hold the data even if we no longer require it as you need it to establish, exercise or defend legal claims; or (d) you have objected to our use of your data but we need to verify whether we have overriding legitimate grounds to use it.
+
+**Request the transfer** of your personal data to you or to a third party. We will provide to you, or a third party you have chosen, your personal data in a structured, commonly used, machine-readable format. Note that this right only applies to automated information which you initially provided consent for us to use or where we used the information to perform a contract with you.
+
+**Withdraw consent at any time** where we are relying on consent to process your personal data. However, this will not affect the lawfulness of any processing carried out before you withdraw your consent. If you withdraw your consent, we may not be able to provide certain products or services to you. We will advise you if this is the case at the time you withdraw your consent.
