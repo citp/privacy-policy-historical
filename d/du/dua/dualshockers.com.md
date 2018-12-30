@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the dualshockers.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624054552id_/https%3A//www.dualshockers.com/about-dualshockers/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dualshockers.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230050904id_/https%3A//www.dualshockers.com/about-dualshockers/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Miniature Version of the Privacy Policy:**
+## Miniature Version of the Privacy Policy
 
 You know that DualShockers, Inc. wouldn’t do anything to hurt you guys, right? _Right?_ We wouldn’t – it’s not on our “To do” list.  DualShockers, Inc. is a trusted community site committed to protecting your privacy. What this means is that we will never _ever_ sell your email address, nor share it with anyone, spam you, or send you pictures of the DualShockers staff in monkey suits – ever. For your protection, we have a couple of goodies implemented that will keep potential bad men away. We would also never ask you for your credit card, phone, passwords, date of birth, demographic information, IP address, gender, etc. In all honesty, we could care less if you decide not to share your legal name with us – nicknames are perfectly fine and would probably be your best bet.
 
 If you decide to become a part of the DualShockers, Inc. video game community thingy, you are only agreeing to become some virtual entity in the realm that is cyberspace to discuss video games with us. That’s basically it. Really.
 
-**The Hefty Version of the Privacy Policy:**
+## The Hefty Version of the Privacy Policy
 
 DualShockers, Inc. is committed to protecting the privacy of Internet users. The following statement details our ongoing support for the responsible collection and management of Internet user information.
 
@@ -20,7 +20,7 @@ Additionally, DualShockers, Inc. does not confess any information regarding the 
 
 **Online Advertising**
 
-DualShockers, Inc. does not sell its own ads. We use third-party advertising companies to serve ads and collect information when you visit our site. These companies may use information (not including any of your information such as: your name, email address, home address, or telephone number) about your visits to this and other websites in order to provide advertisements on our website, other websites, and other forms of media about good and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please feel free to check out [http://www.networkadvertising.org/managing/opt_out.asp](https://www.networkadvertising.org/managing/opt_out.asp).
+DualShockers, Inc. does not sell its own ads. We use third-party advertising companies to serve ads and collect information when you visit our site. These companies may use information (not including any of your information such as: your name, email address, home address, or telephone number) about your visits to this and other websites in order to provide advertisements on our website, other websites, and other forms of media about good and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please feel free to check out <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 To sum it up in basic terms, it’s basically cookies that say something along the lines of “Ok, you saw this advertisement already,” or “So this person clicked on a banner advertisement for mining helmets, so let’s send them some more information on them.” DualShockers, Inc. does not share any information from your personal account with advertisers.
 
@@ -30,7 +30,7 @@ Even though we try our hardest to protect your information from people that have
 
 Also be aware that email can be an essentially insecure form of communication. Remember that third parties are capable of illegally intercepting your unencrypted messages, including online greetings. Anytime you visit a chat room or post a message to an online bulletin board, your email address can be accessed by advertisers looking to compile lists for unsolicited commercial email (which can also be referred to as spam).
 
-For your own protection, be sure that you only disclose your email in circumstances which are safe to do so in. Beware of scams in which persons unknown to you request any information that they can use against you (such as your name, screen name, password, credit card information, address, etc.). Make sure that you verify the identity of anyone asking for your personal information. If you don’t know them, it’s probably best to ignore their requests. Always monitor your children’s online activities and educate them as to the rules for safe internet use. For more information, check out [http://www.getnetwise.org/](https://www.getnetwise.org/).
+For your own protection, be sure that you only disclose your email in circumstances which are safe to do so in. Beware of scams in which persons unknown to you request any information that they can use against you (such as your name, screen name, password, credit card information, address, etc.). Make sure that you verify the identity of anyone asking for your personal information. If you don’t know them, it’s probably best to ignore their requests. Always monitor your children’s online activities and educate them as to the rules for safe internet use. For more information, check out <http://www.getnetwise.org/>.
 
 **Changes and Updates**
 
