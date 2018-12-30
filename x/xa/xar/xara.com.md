@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xara.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630120821id_/http%3A//www.xara.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xara.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230055443id_/http%3A//www.xara.com/privacy) for the most accurate reproduction.*
 
 # Privacy and cookie statement for the Xara Websites
 
@@ -274,7 +274,7 @@ Our advertising as a whole is based on entities that we consider to be especiall
 
 We are dependent on protecting our intellectual property rights, not least for the purposes of being able to offer you our products and services at their usual standard of quality and at attractive prices. In order to guarantee effective protection of our intellectual property and enable you, depending on the product, to use our software or service on one of more computers, each installation of our software or service is linked to your user account, where certain data must be obligatorily saved (minimum email address). It is only in this way that we can provide you with access to and updates for your software or service. To guarantee smooth operability of our products or service, you are therefore required to provide us with the above mentioned data.
 
-If you use the Share Editing feature of our Xara Cloud service then we will collect the email address of the people you wish to share your document with. This is essential to provide the feature, the shared email addresses will not be used for any other purpose.
+If you use the Share Editing feature of our Xara Cloud service then we will collect the email address of the people you wish to share editing of your document with, and the email addresses will be visible to anyone you share editing of the document with. This is essential to provide the feature, the shared email addresses will not be used for any other purpose.
 
 **c) Accounting**
 
@@ -366,7 +366,7 @@ Data is used as required to allow customers to access our service and store and 
 
 
 
-We store account data (Account Name, Email address, Country where provided) in a secure (not externally available) database system. Access to the database is restricted to the database / server management team within Xara. The data itself is stored within a secure data center (Amazon Web Services).
+We store account data (Account Name, Email address, Country where provided) in a secure (not externally available) database system. Access to the database is restricted to the database / server management team within Xara. The data itself is stored within a secure data center (Amazon Web Services EMEA SARL, Luxembourg).
 
 No Google, Dropbox or Microsoft passwords are stored within any Xara Cloud systems.
 
@@ -524,15 +524,37 @@ For more information about privacy at YouTube, please see their privacy policy a
 
 We use Intercom (operated by Intercom R&D Unlimited Company, 18-21 St. Stephen’s Green, Dublin 2, Ireland) for Xara Cloud messaging services and support, including emails, chat and in-service messages, and for analytics on usage of Xara Cloud.
 
-Data processed by Intercom may include personal information such as names, email addresses and IP addresses of customers, potential customers and other users of and visitors to our websites or cloud service, which information may be input into Intercom by Xara (for example data collected when a customer registers for Xara Cloud) or collected using Segment tags, scripts and other code implemented on our website or cloud service pages, or information contained in communications between Xara and customers using the messaging / chat features of Intercom. Furthermore Intercom may add publicly available information such as social media profiles.
+Data processed by Intercom may include personal information such as names, email addresses, product and service usage and IP addresses of customers, potential customers and other users of and visitors to our websites or cloud service, which information may be input into Intercom by Xara (for example data collected when a customer registers for Xara Cloud) or collected using Segment tags, scripts and other code implemented on our website or cloud service pages, or information contained in communications between Xara and customers using the messaging / chat features of Intercom. Furthermore Intercom may add publicly available information such as social media profiles.
 
 For more information about privacy at Intercom see: <https://www.intercom.com/terms-and-policies#privacy>
 
 **f) Segment**
 
-We use Segment (Segment.io, Inc of [101 15th St, San Francisco, CA 94103](https://www.bing.com/local?lid=YN873x3840367299263649826&id=YN873x3840367299263649826&q=Segment&name=Segment&cp=37.767219543457%7e-122.40210723877&ppois=37.767219543457_-122.40210723877_Segment&FORM=SNAPST), USA) to collect information about the use of our cloud service and website using tags, scripts and other code implemented on our website or cloud service pages, and to route that data to other services, such as Google Analytics or Intercom. 
+We use Segment (Segment.io, Inc of 101 15th St, San Francisco, CA 94103, USA) to collect information about the use of our cloud service and website using tags, scripts and other code implemented on our website or cloud service pages, and to route that data to other services, such as Google Analytics or Intercom. 
 
 For more information about privacy at Segment see: https://segment.com/docs/legal/privacy/
+
+**g) Lucky Orange**
+
+We use a service from Lucky Orange (8680 w. 96th Street, Suite 200 Overland Park, KS 66212, USA) for user experience optimization of our websites. Lucky Orange enables us to assess user behavior (e.g. mouse movement, clicks, scrolling) on our website. For this purpose, Lucky Orange uses cookies on the system of website visitors and can collect technical information (e.g. browser information, operating system, duration of visit, etc.). More information on the Lucky Orange privacy policy and opt-out options can be found here: <https://www.luckyorange.com/privacy.php>
+
+**h) Hotjar**
+
+We use Hotjar (Hotjar Ltd, Level 2 St Julians Business Centre, 3, Elia Zammit Street St Julians STJ 1000, Malta ) in order to better understand our users’ needs and to optimize this service and experience. Hotjar is a technology service that helps us better understand our users experience (e.g. how much time they spend on which pages, which links they choose to click, what users do and don’t like, etc.) and this enables us to build and maintain our service with user feedback. Hotjar uses cookies and other technologies to collect data on our users’ behavior and their devices (in particular device’s IP address (captured and stored only in anonymized form), device screen size, device type (unique device identifiers), browser information, geographic location (country only), preferred language used to display our website). Hotjar stores this information in a pseudonymized user profile. Neither Hotjar nor we will ever use this information to identify individual users or to match it with further data on an individual user. For further details, please see Hotjar’s privacy policy by clicking on [this link](https://www.hotjar.com/legal/policies/privacy). You can opt-out to the creation of a user profile, Hotjar’s storing of data about your usage of our site and Hotjar’s use of tracking cookies on other websites by following this [opt-out link](https://www.hotjar.com/legal/compliance/opt-out). 
+
+**i) Facebook**
+
+Facebook is a social network with over two billion active users worldwide. The platform collects various kinds of user information and activity, which is provided by the user about themselves or shared by other users. This information includes the individual user’s networks and connections, payment information, device information, information about websites and apps with Facebook integration, other Facebook companies and information from third parties including interaction with advertising partners. Detailed information about the privacy policy – available under <https://www.facebook.com/about/privacy> – provides information about the collection, processing and use of personal data through Facebook. Users can restrict and control their individual privacy settings under <https://www.facebook.com/about/basics>.
+
+Facebook is operated by Facebook Ireland Limited, 4 Grand Canal Square, Dublin 2, Ireland.
+
+Facebook uses cookies and other technology to collect and save identifiers and additional user information about computers, phones and other devices. Cookies enable Facebook to process user information on Facebook itself and also to track user behavior on other websites and apps, regardless of whether the user is registered or logged in.
+
+In addition, cookies support the targeted placement of advertisements and help companies that use Facebook products to evaluate and optimize their advertising campaigns. More information about Facebook’s cookie policy can be found under <https://www.facebook.com/policies/cookies/>.
+
+Xara uses Facebook as a platform for increasing brand awareness and as an advertising platform for Xara products. To assist with performance measurement of these campaigns, Xara has implemented Facebook Conversion Tracking on its own homepages. This form of tracking enables the sharing of information about user behavior with Facebook in order to enhance product relevance and advertising effectiveness for users and their interests.
+
+Using Facebook targeting options, Xara identifies individual target groups on the platform (according to location, age, interests etc.) for targeted advertising using relevant content. Users can view, modify and limit targeting options and advertising preferences in their advertisement settings under <https://www.facebook.com/ads/about/>.
 
   8. **Privacy policy for the payment methods offered**
 
