@@ -1,147 +1,556 @@
-> *The following text is extracted and transformed from the mom.me privacy policy that was archived on 2018-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180201195018id_/https%3A//mom.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mom.me privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230235942id_/https%3A//mom.me/privacy-policy) for the most accurate reproduction.*
 
 # Pregnancy, Parenting, Lifestyle, Beauty: Tips & Advice | mom.me
 
-Effective Date: March 31, 2016
+#### Privacy Policy (Outside the EU)
 
-This Privacy Policy ("Policy") describes the privacy practices for www.Mom.me, www.LatinaMom.me, www.ClubMomme.com, www.glo.com, www.animals.mom.me and websites (the "Sites"), which are owned and operated by Whalerock Digital Media, LLC d/b/a Whalerock Industries ("Company" or "We"). This Policy applies only to information we collect on the Sites. This Policy does not apply to information that we collect offline or on any other Company websites or apps, including websites you may access through this Sites or you provide to or is collected by any third party. Our websites and apps and these third parties may have their own privacy policies, which we encourage you to read before providing information on or through them.
+ **Effective Date:** **May 25, 2018**
+
+Introduction
+
+Whalerock Digital Media, LLC d/b/a Whalerock Industries, its affiliates and subsidiaries (the "Whalerock", "we" or "us") values the privacy of our users and subscribers. We strive to be transparent about how we collect and use your information, to keep your information secure and to provide you with meaningful choices. This Privacy Policy ("Policy") describes the privacy practices for [www.Mom.me](http://www.mom.me/), [www.LatinaMom.me](http://www.latinamom.me/), and [www.animals.mom.me](http://www.animals.mom.me/) websites (each a "Site" or collectively, the "Sites"), which are owned and operated by the Whalerock. This Policy is meant to help you understand what information is collected by Whalerock, why we collect it and what we do with it.
+
+This Policy applies to our online information practices for the Sites with respect to all users with the exception of users within the European Union. This Policy does not apply to personal data collected through any third-party websites or apps, including websites you may access through the Sites. Those websites and apps may have their own privacy policies, which we encourage you to read before providing any personal information on or through them. Certain offerings on our Sites, may have additional notices about the information practices and choices. Please read those additional privacy disclosures to understand how they may apply to you.
 
 Please read this Policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, do not use the Sites. By using the Sites, you agree to this Policy. This Policy may change from time to time. Your continued use of the Sites after we make changes is deemed to be acceptance of those changes, so please check the Policy periodically for updates.
 
-## Children Under the Age of 13
+### Children Under the Age of 13
 
-The Sites are not intended for children under 13 years of age, and we do not knowingly collect personal information from children under 13. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at [privacy@whalerockindustries.com](mailto:privacy@whalerockindustries.com).
+The Sites are not intended for children under 13 years of age, and we do not knowingly collect personal information from children under 13. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at privacy@mom.me
 
-## Information We Collect and How We Collect It
+### Information We Collect and How We Collect It
 
-We may collect information from and about users of our Sites directly from you when you provide it to us and/or automatically when you use the Sites.
+We may collect information from and about you when you interact and use the Sites. This information may include personal information (e.g. name, email address, postal address, telephone number and any other contact details), technical information (e.g. IP address, browser type, device identifier) and usage information (e.g. webpages you visit, ads you click on). We may combine these types of information together, and collectively refer to all of this information in this Privacy Policy as "Information". Information may be collected as described below and through the use of cookies, web beacons, pixels, and other similar technologies by us or by other companies on our behalf. Below is the type of Information we may collect:
 
-### Information You Provide to Us
+ **Information You Provide to Us**. We may collect Information that you provide to us, such as
 
-When you register with or use these Sites, we may ask you to provide information by which you may be personally identified, such as name, postal address, e-mail address, telephone number, credit card number, geolocation, device identification number, or any other identifier by which you may be contacted online or offline ("personal information"), or that is about you but individually does not identify you.
-
-This information includes: (i) Information that you provide by filling in forms on the Sites. This includes information provided at the time of registering to use the Sites, subscribing to any service, posting material, and requesting further services. We may also ask you for information when you enter a contest or promotion sponsored by us, and when you report a problem with the Sites; (ii) records and copies of your correspondence (including e-mail addresses and phone numbers), if you contact us; (iii) Your responses to surveys that we might ask you to complete for research purposes; (iv) Details of transactions you carry out through the Sites and of the fulfillment of any orders (note that you may be required to provide financial information before placing an order through the Sites); (v) Your search queries on the Sites; and (vi) Your appearance at events where you use a QR code at the event location to indicate to us that you attended the event. You may be able to access features of the Sites by using your Facebook or other social media accounts. Your privacy settings on your Facebook or other social media accounts, as well as the social media companies' respective privacy policies, will determine the personal and other information that may be shared with us when you access the Sites.
-
-You may provide information to be published or displayed ("Posts" or "Posted") on public areas of the Sites (collectively, "User Contributions"). Your User Contributions and Posts may be transmitted to others at your own risk. We cannot control the actions of third parties with whom you may choose to share your User Contributions. Therefore, we cannot guarantee that your User Contributions will not be viewed by unauthorized persons.
-
-### Automatic Information Collection and Tracking
-
-When you access and use the Sites, it may use technology to automatically collect certain information, including but not limited to:
-
-  *  **Usage Details.** When you access and use the Sites, we may automatically collect the domain name and host from which you access the Internet and the Internet address of the website from which you direct-linked to the Sites, the date and time you access the Sites and pages you visit, traffic data, location data, logs and other communication data and the resources that you access and use on or through the Sites.
-  *  **Device Information.** We may collect information about your computer's or device's IP address and information about its operating system, platform, location, and the web browser type and version you use.
-  *  **Location and Other Information.** We may collect real-time information about the location of your device as well as demographic, usage patterns and other non-personally identifiable profile information about you.
+  * when you register with or use these Sites, or subscribe to any service on the Sites, we may ask you to provide personal information by which you may be identified, such as name, postal address, e-mail address, telephone number, or any other contact details.
+  * when you use the Sites to communicate with others or post, upload, display or store any content such as comments, photos, videos, emails, attachments, voice inputs, and other content generated by you (collectively, " **User Contributions** ") on public areas of the Sites. Your User Contributions may be transmitted to others and we cannot control the actions of third parties with whom you may choose to share your User Contributions. We also cannot prevent further use of this Information once it is made public.
+  * we may ask you to provide Information when you enter a contest or sweepstakes sponsored by us or respond to surveys that we may post and ask to complete on the Site.
+  * when you communicate with us to report a problem with the Sites, or any other general inquiries. We may keep records and copies of your correspondence (including e-mail addresses, phone numbers, and any other personal information you had provided).
+  * when you sign up for any paid services or place any orders on the Sites, we may keep details of transactions you carry out through the Sites and of the fulfillment of any orders (note that you may be required to provide financial information before placing an order through the Sites).
+  * when you otherwise use the Sites, such as for search queries, watch history, page views, viewing the content we make available, or installing any of our plug-ins.z
 
 
 
-We also may use technologies to collect information about your usage of the Sites over time. We do not respond to web browser "do not track" signals.
+ **Technical, usage, and analytical Information**.
 
-### Information Collection and Tracking Technologies
+We may collect certain technical and usage information when you use our Sites, such as the type of device, browser, and operating system you are using, unique device identifier, IP address, device and browser settings, the webpages you visit, including information about how you interact with our Sites and those of our third-party partners and information that allows us to recognize and associate your activity across devices and Sites. We may recognize your device to provide you with personalized experiences and advertising across the devices you use. See our Cookie Policy section for more information on how we may use these technologies to collection this information.
 
-The technologies we use for automatic information collection may include:
+You may be able to access features of the Sites through third party communities, forums, and social media sites, services, plug-ins, and applications ("Social Media Sites"). Your privacy settings on such Social Media Sites, as well as their respective privacy policies, will determine the personal and other information that may be shared with us, or received by us through social media tracking technologies, when you access the Sites, and may be collected and used by these Social Media Sites. Where permitted by law, by providing this Information or otherwise interacting with our Sites through Social Media Sites, you consent to our use of Information from the Social Media Site in accordance with this Privacy Policy.
 
-  *  **Cookies.** A cookie is a small file placed on your computer's hard drive through your web browser to enable our systems to recognize your browser. While you may block or disable cookies, if you do, the Sites may not function and appear as designed.
-  *  **Web Beacons.** Pages of the Sites or our emails may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages or opened an e-mail and for other related statistics (for example, recording the popularity of certain content and verifying system and server integrity).
+ **Location Information:** We collect real-time information about your location, such as your country, when you provide it or via device information (such as an IP address), or your device's location when you access the Sites with your mobile device.
 
+ ** _HOW WE USE YOUR INFORMATION_**
 
+We use Information that we collect about you or that you provide to us for the purposes described in this policy or disclosed at the time of collection or with your consent, including for the following purposes:
 
-## Third-party Information Collection
-
-When you use the Sites or its content, certain third parties may use automatic information collection technologies to collect information about you or your device. These third parties may include: advertisers, ad networks and ad servers, analytics companies your device manufacturer, etc.
-
-These third parties may use tracking technologies to collect information about you when you use these Sites. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites, apps and other online services or websites. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content.
-
-We do not control these third parties' tracking technologies or how they may be used. If you would like more information about this practice and to know your choices about not having this information used by these third-parties, please go to <http://www.networkadvertising.org/choices>.
-
-## How We Use Your Information
-
-We use information that we collect about you or that you provide to us, including any personal information, to:
-
-  * Provide you with the Sites and its contents, and any other information, products or services that you request from us.
-  * Fulfill any other purpose for which you provide it.
+  * Provide or analyze your use of the Sites and its contents, products, programs, and services.
+  * Fulfill your requests and any other purpose for which you provide it, including communicating with you about your purchases or transactions.
   * Give you notices about your account or subscription.
-  * Carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection.
+  * Send information about promotions, offerings, and Site features.
+  * Notify you when you win one of our contests or sweepstakes.
   * Notify you when Sites updates are available, and of changes to any products or services we offer or provide though it.
-
-
-
-The usage information we collect helps us to improve our Sites and to deliver a better and more personalized experience by enabling us to:
-
+  * Provide, develop, maintain, personalize, protect, and improve your experience and our offerings on the Sites.
   * Estimate our audience size and usage patterns.
-  * Store information about your preferences, allowing us to customize our Sites according to your individual interests.
+  * Store information about your preferences, allowing us to customize our Sites according to your individual interests
   * Speed up your searches.
+  * Protect against, identify, and prevent fraud and other unlawful activity
   * Recognize you when you use the Sites.
+  * Offer, market, and advertise products, programs, and services from us and our affiliates, business partners, and select third parties that may be of interest to you. We may also use the information we collect to display advertisements to our advertisers' target audience.
+  * Carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection.
+  * Detect, investigate, and prevent activities on our Sites that may violate our terms, could be fraudulent, violate copyright, or other rules or that may be otherwise illegal, to comply with legal requirements, and to protect our rights and the rights and safety of our users and others.
 
 
 
-We may also use your information to contact you about our own and third parties' goods and services that may be of interest to you. We may use the information we collect to display advertisements to our advertisers' target audiences. If you click on or otherwise interact with an advertisement, the advertiser may assume that you meet its target criteria.
+ ** _HOW WE SHARE AND DISCLOSE YOUR INFORMATION_**
 
-## Disclosure of Your Information
+We may share and disclose aggregated and de-identified Information about our users without restriction. In addition, we may share and disclose Information that we collect, or you provide in the following ways or for any other purpose disclosed at the time of collection:
 
-We may disclose aggregated and de-identified information about our users without restriction. In addition, we may disclose personal information that we collect or you provide:
+ **With Your Consent**. We may disclose your Information when you provide us with your consent to do so.
 
-  * To our subsidiaries and affiliates.
-  * To contractors, service providers, content providers, and other third parties we use to support our business.
-  * To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by us about our App users is among the assets transferred.
-  * To third parties to personalize services and products offered to you.
-  * To fulfill the purpose for which you provide it.
-  * For any other purpose disclosed by us when you provide the information.
-  * With your consent.
-  * To comply with any court order, law or legal process, including to respond to any government or regulatory request.
-  * To enforce our rights arising from any contracts entered into between you and us, including the Terms of Use, this Policy, and for billing and collection.
-  * If we believe disclosure is necessary or appropriate to protect our rights, property, or safety or that of our customers, users, contractors or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
+ **Service Providers**. Our contractors, service providers, content providers, and other third parties we use to support our business may have access to Information to help carry out the services they are performing for us, such as, including: creating, maintaining, hosting, and delivering of our Sites, products, and services; conducting marketing, handling payments, email and order fulfillment; administering contests; conducting research and analytics; and customer service.
+
+ **New Ownership.** To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which information held by us about our Sites and users is among the assets transferred.
+
+ **Linked Sites**. Some of the Sites may contain links to other sites, including Social Media Sites. We may integrate social media application program interfaces or plug-ins ("Plug-ins") from social networks, including Facebook, Twitter, Instagram, Tumblr, Pinterest and others, into our Sites. Plug-ins may transfer information about you to the Plug-in's respective platform without action by you. This information may include your platform user identification number, which website you are on, and more. Interacting with a Plug-in will transmit information directly to that Plug-in's social network and that information may be visible by others on that platform. Plug-ins are controlled by the respective platform's privacy policy, and not by our Policy.
+
+ **Partners and Affiliates**. We may disclose Information to affiliates, business partners, and third parties (e.g., retailers, advertisers, ad agencies, advertising networks and platforms, research organizations, and other companies) whose practices are not covered by this Privacy Policy, and that may provide, offer, improve, market, and otherwise communicate with you about their own products and services. To learn more about your choices, please see [Your Choices](https://web.archive.org/web/20181230235942id_/https://mom.me/privacy-policy/%5Cl%20%22YOUR%20CHOICES%22) below. We may also share certain Information with third parties to provide advertising to you based on your interests. For more information, please see [Ad Choices](https://web.archive.org/web/20181230235942id_/https://mom.me/privacy-policy/%5Cl%20%22Ad%20Choices.%22) below.
+
+ **Sponsors and co-promotions**. We sometimes offer content or programs (e.g., contests, sweepstakes, promotions, or Social Media Site integrations) that are sponsored by or co-branded with third parties. By virtue of these relationships, the third parties collect or obtain Information from you when you participate in the activity. We have no control over these third parties' use of this Information. We encourage you to look at the privacy disclosure of any such third party to learn about their data practices before you participate in the activity.
+
+ **Legal and Law Enforcement Purposes**. We may disclose Information in response to legal process, for example in response to a court order or a subpoena, or in response to a law enforcement agency's request. We may also disclose such Information to third parties: (i) for the purposes of fraud protection and credit risk reduction, (ii) where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, (iii) to enforce our rights arising from any contracts entered into between you and us, including the Terms of Use, this Policy, and for billing and collection, (iv) if we believe disclosure is necessary or appropriate to protect our rights, property, or safety or that of our customers, users, contractors or others, (v) as otherwise required by law.
+
+ _ **YOUR CHOICES**_
+
+ **Marketing Communications and Sharing with Third Parties**. You may update your preferences with respect to receiving certain marketing communications from us, and our sharing of personal information with third parties. You may do so by contacting us at privacy@ mom.me . You may also opt out of receiving email marketing communications, by following the "unsubscribe" instructions provided in every email you receive from us. You may also adjust your push notifications on your mobile device through your device or app settings.
+
+ **Ad Choices.** We may work with third parties to present advertisements, and engage in data collection, reporting, site analytics, ad delivery and response measurement on our Sites and on third party websites and applications over time. These third parties may use cookies, web beacons, pixels, and other similar technology to perform this activity. They may also obtain information about websites you visit, applications you use, and other information from across your browsers and devices in order to present advertising that may be tailored to your interests on and off our Sites and across other platforms. This type of advertising is known as interest-based advertising.
+
+For more information about interest-based advertising on your desktop or mobile browser, and your ability to opt out of this type of advertising by third parties, please visit the [Network Advertising Initiative](https://www.networkadvertising.org/understanding-online-advertising/what-are-my-options) and/or the DAA [Self-Regulatory Program for Online Behavioral Advertising](http://optout.aboutads.info/?c=2%22%20%5Cl%20%22!/). To learn more about interest-based advertising in mobile apps and how to opt out of this type of advertising by third parties, you can visit [AppChoices](http://youradchoices.com/appchoices). Please note that any opt-out choices you may exercise through these programs will only apply to interest-based advertising by the third parties you select but will still allow for collection of data for other purposes, such as analytics, research, and operations. You may also continue to receive advertising, but that advertising may be less relevant to your interests.
+
+California Privacy Rights. California Civil Code Section 1798.83 permits users of our Sites that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please contact us at privacy@mom.me.
+
+#### Cookie Policy (Outside the EU)
+
+ **Cookies and Other Technologies**. We, and our affiliates, third party service providers, and business partners may send "cookies" to your computer or use similar technologies to enhance your online experience at our Sites and through our advertising and media across the Internet and mobile apps **.**
+
+Cookies are small text files containing information which are downloaded to your device when you visit a website, including our Sites. Cookies are then sent back to the originating web domain on your subsequent visits to that domain. Most web pages contain elements from multiple web domains so when you visit a website, your browser may receive cookies from several sources. Cookies are useful because they allow a website to recognize a user's device. Cookies allow you to navigate websites efficiently, remember preferences and generally improve the user experience. They can also be used to tailor advertising to your interests through tracking your browsing across websites. Session cookies are deleted automatically when you close your browser and persistent cookies remain on your device after the browser is closed (e.g. remembering your user preferences when you return to the Sites).
+
+We may also use pixels or "web beacons" that monitor your use of our Sites. Web beacons are small electronic files integrated into the Sites or our communications (e.g. emails) that permit us, for example, to count users who have visited those pages or opened an email or for other related statistics. We may also integrate "Software Development Kits" ("SDKs") into our applications to perform similar functions as cookies and web beacons. For example, SDKs may collect technical and usage information such as mobile device identifiers and your interactions with the Site and other mobile apps.
+
+We may use cookies and other technologies to help recognize your browser or device, maintain your preferences, provide certain Site features, and collect Information about interactions with our Sites, our content, and our communications.
+
+We may also use cookies and other technologies (i) to provide, develop, maintain, personalize, protect, and improve our Sites, products, programs, and services and to operate our business, (ii) to perform analytics, including to analyze and report on usage and performance of our Sites and marketing materials, (iii) to protect against, identify, and prevent fraud and other unlawful activity, (iv) to create aggregate data about groups or categories of our users, (v) to synchronize users across devices, affiliates, business partners, and select third parties, and (vi) for us and our affiliates, business partners, and select third parties to target, offer, or market, products, programs, or services. Cookies and other technologies also facilitate and measure the performance of advertisements displayed on or delivered by or through us and/or other networks or sites. By visiting the Sites, whether as a registered user or otherwise, you acknowledge, and agree that you are giving us your consent to track your activities and your use of the Sites through the technologies described above, as well as similar technologies developed in the future, and that we may use such tracking technologies in the emails we send to you.
+
+You may adjust your browser to reject cookies. Controlling cookies via browser controls may not limit our use of other technologies. Please consult your browser's settings for more information. However, blocking cookies or similar technology might prevent you from accessing some of our content or features on the Sites. We currently do not respond to Do Not Track signals because a uniform technological standard has not been yet developed. We continue to review new technologies and may adopt a standard once one is created.
+
+ ** _Managing Cookies and Other Technologies._**
+
+Strictly Necessary Cookies
+
+These _cookies_ are essential in order to enable you to move around the Sites and use its features. Without these cookies, services you have asked for (such as navigating between pages) cannot be provided. The following list sets out some examples of these types of cookies:
+
+ **Cookie Source: Mom.me**
+
+  *  **Purpose:**
+    * We use the data stored in this cookie for system administration, to improve security, and provide access to required functionality on the site
+  *  **Further Information:**
+    * Session cookie (expires when browser is closed)
 
 
 
-## Accessing, Correcting and Deleting Your Information
+ ** _Performance Cookies_**
 
-You may review and change your personal information by logging into the Sites and visiting your account profile page. You can request and obtain removal of your Posts and User Contributions by emailing [contactus@mom.me](mailto:contactus@mom.me) with your request and specifying the particular Post or User Contribution you seek to remove. We may not accommodate a request to change or delete any information if we believe such action would violate any law or legal requirement or cause the information to be incorrect. Removal of your Posts or User Contributions from the Sites does not ensure complete or comprehensive removal of such Posts or User Contributions from the Sites as copies may remain viewable in cached and archived pages, or might have been copied or stored by other Sites' users. You can unsubscribe from any newsletters or various promotional emails at any time by clicking on the "unsubscribe" links provided in such communications. You may not opt out of Site-related communications, such as account verification, purchase confirmations and administrative messages, so long as you are registered with the Sites. As we develop our business, we might buy or sell businesses or their assets, or engage in transfers, acquisitions, mergers, restructurings, changes of control, or other transactions. In such transactions, customer information generally is one of the transferred business assets and your information may be subject to such a transfer. You agree to and do hereby consent to any such transfer. Also, in the unlikely event of a bankruptcy, your information may be transferred to a bankruptcy trustee or debtor in possession and then to a subsequent purchaser.
+We make use of analytic cookies to analyse how our visitors use the Sites and to monitor their performance. This allows us to provide a high-quality experience by customizing our offering and quickly identifying and fixing any issues that arise. For example, we may use performance cookies to keep track of which pages are most popular, which method of linking between pages is most effective, and to determine why some pages are receiving error messages. We may also use these cookies to highlight articles or Sites' services that we think will be of interest to you based on your usage of the Sites. The information collected by these cookies is not associated with your personal information by us or by our contractors and is only used in aggregate and de-identified form. The following list sets out some examples of these types of cookies:
 
-## Links to Third-Party Sites
+ **Cookie Source: Google Analytics**
 
-The Sites contain links to other websites. We are not responsible for the privacy practices of such other websites. We encourage you to be aware when you leave the Sites and to read the privacy statements of every website that collects your personal information. This Policy applies only to information collected by the Sites.
+  *  **Purpose:**
+    * These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve our site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.
 
-## Social Media Plug-ins
+  *  **Further Information:**
+    * Click here for Google's privacy policy in respect of Google Analytics: <http://www.google.com/analytics/learn/privacy.html>
+    * You may opt out of tracking by Google Analytics by visiting: <https://tools.google.com/dlpage/gaoptout?hl=en-GB>.
+    * Persistent Cookies.
 
-We may integrate social media application program interfaces or plug-ins ("Plug-ins") from social networks, including Facebook, Twitter, Instagram, Tumblr, Pinterest and others, into our Sites. Plug-ins may transfer information about you to the Plug-in's respective platform without action by you. This information may include your platform user identification number, which website you are on, and more. Interacting with a Plug-in will transmit information directly to that Plug-in's social network and that information may be visible by others on that platform. Plug-ins are controlled by the respective platform's privacy policy, and not by our Policy.
 
-## Processing Your Information
+
+ **Cookie Source: Mouseflow**
+
+  *  **Purpose:**
+    * We use Mouseflow to capture anonymized user information how site visitors are interacting with the page elements. We use this anonymous data to deliver feedback for an improved site experience for users.
+
+
+  *  **Further Information:**
+    * Click here to see Mouseflow's Privacy Policy: <http://mouseflow.com/privacy/>
+    * If you'd like to opt-out, you can do so at https://mouseflow.com/opt-out.
+    * Persistent Cookies.
+
+
+
+ ** _Functionality Cookies_**
+
+We make use of cookies to provide you with certain functionality. For example, viewing video content, live streams, or to remember choices you make and to provide enhanced and more personal features. These cookies are not used to track your browsing on other sites. The following list sets out some examples of these types of cookies:
+
+ **Cookie Source: Ooyala**
+
+  *  **Purpose:**
+    * Ooyala uses a cookie to better deliver video assets to end users, recording bandwidth and video size preferences, as well as any technical issues. All user data is anonymized
+
+
+  *  **Further Information:**
+    * Session cookie (expires when browser is closed)
+
+
+
+ _ **Advertising Cookies**_
+
+Advertising cookies (or targeting cookies) collect information about the browsing habits associated with your device and are used to make advertising more relevant to you and your interests. These cookies also measure the effectiveness of advertising campaigns and track whether ads have been properly displayed. You can access the EU Consent Manager at the footer of the Sites should you wish to change your consent preferences.
+
+ **Cookie Source: DoubleClick**
+
+  *  **Purpose:**
+    * Doubleclick uses cookies to improve advertising. Some common applications are to target advertising based on what's relevant to a user, to improve reporting on campaign performance, and to avoid showing ads the user has already seen.
+
+
+  *  **Further Information:**
+    * Click here for Google's privacy policy in respect of DoubleClick <https://policies.google.com/privacy?hl=en>
+    * You may opt out of tracking by DoubleClick by visiting https://support.google.com/ads/answer/2662922?hl=en
+    * Persistent cookies
+
+
+
+ **Cookie Source: Facebook Pixel**
+
+  *  **Purpose:**
+    * We use the Facebook pixel as a means of better understanding our users, to customize content and advertising, to provide social media features and to analyze traffic to the site. The collected data remains anonymous. This means that we cannot see the personal data of any individual user. However, the collected data is saved and processed by Facebook.
+
+
+  *  **Further Information:**
+    * Facebook is able to connect the data with your Facebook account and use the data for their own advertising purposes, in accordance with their privacy policy found under: https://www.facebook.com/about/privacy/
+    * If you'd like to opt-out, you can do so at <https://www.facebook.com/ads/website_custom_audiences/>
+    * Persistent cookies.
+
+
+
+Advertising Cookies may be used by social media sites that are linked from our Site, such as "Share" buttons or embedded audio/video players, in addition to providing the requested functionality. Social media sites provide these services in return for recognizing that you (or more accurately your device has) have visited certain websites. Such social media sites put down advertising cookies both when you visit our Sites and when you use their services and navigate away from our Sites. The cookie practices of some of these social media sites are set out below:
+
+Facebook's Cookie Policy: <https://www.facebook.com/policies/cookies/>
+
+Twitter's Cookie Policy: <https://help.twitter.com/en/rules-and-policies/twitter-cookies>
+
+Instagram's Cookie Policy: <https://help.instagram.com/1896641480634370?ref=ig>
+
+Pinterest's Cookie Policy: <https://policy.pinterest.com/en/cookies>
+
+YouTube's Cookie Policy: <https://policies.google.com/technologies/cookies>
+
+SoundCloud Cookie Policy: <https://soundcloud.com/pages/cookies>
+
+Google Plus Cookie Policy: <https://policies.google.com/technologies/cookies>
+
+**ACCESSING, CORRECTING AND DELETING YOUR INFORMATION**
+
+To inquire on the personal information that we have collected about you online from Sites on which this Privacy Policy is posted or to correct such personal information, you can send us an email to privacy@mom.me. You can request and obtain removal of your User Contributions by emailing privacy@mom.me with your request and specifying the particular User Contribution you seek to remove. We may not accommodate a request to change or delete any information if we believe such action would violate any law or legal requirement or cause the information to be incorrect. Removal of your User Contributions from the Sites does not ensure complete or comprehensive removal of such User Contributions from the Sites as copies may remain viewable in cached and archived pages or might have been copied or stored by other Sites' users. You can unsubscribe from any newsletters or various promotional emails at any time by clicking on the "unsubscribe" links provided in such communications. You may not opt out of Site-related communications, such as account verification, purchase confirmations and administrative messages, so long as you are registered with the Sites.
+
+ **PROCESSING YOUR INFORMATION**
 
 The Sites are hosted in the United States. Your use of the Sites from the European Union or any other place in the world means you agree to transfer, store and process your personal information to and in the United States, which laws may not provide the same level of protection of those in your country. We may limit the availability of the Sites or any service or product described on the Sites to any person or geographic area at any time. If you choose to access the Sites from outside the United States, you do so at your own risk.
 
-## Your California Privacy Rights
+ **DATA SECURITY**
 
-California Civil Code Section 1798.83 permits users of our Sites that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please contact us at [privacy@whalerockindustries.com](mailto:privacy@whalerockindustries.com).
+We have implemented appropriate technical and organizational measures for security of the Sites. Unfortunately, the transmission of information via the Internet and mobile platforms is not completely secure. Although we take reasonable safeguards to protect your personal information, we cannot guarantee the security of your personal information. Any transmission of personal information via the Internet is at your own risk. We are not responsible for circumvention of any privacy settings or security measures we provide. The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Sites, you are responsible for keeping this password confidential. You should not share your password with anyone.
 
-## Data Security
+ **CHANGES TO OUR POLICY**
 
-The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Sites, you are responsible for keeping this password confidential. You should not share your password with anyone. Unfortunately, the transmission of information via the Internet and mobile platforms is not completely secure. Although we take reasonable precautions to protect your personal information, we cannot guarantee the security of your personal information. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures we provide.
+We may update our Policy from time to time. We will notify you about any material changes to this Privacy Policy by placing a notice on our Sites. We encourage you to periodically check back and review this Policy so you are aware of any recent changes.
 
-## Changes to Our Policy
+ **HOW TO CONTACT US**
 
-We may update our Policy from time to time. Non-material changes will take effect immediately. If we make material changes, we will notify you by email (at the email address you have provided to us) or through notice on the home page of the Sites, and will also indicate as much at the top of this page. Material changes will take effect 30 days after such notice. We encourage you to review this Policy at least every 30 days to check for material changes.
+ **Privacy Concerns**. If you have any concern or complaint about privacy on the Sites, please contact us at Whalerock Digital Media, LLC., Attn: Legal Affairs, Pacific Design Center, Red Building West, 750 N. San Vicente Blvd., 9th Floor, West Hollywood, CA, 90069, U.S.A. or email us at privacy@mom.me. We will do our best to respond to you in a timely and professional manner in order to answer your questions and resolve your concerns.
 
-## Intellectual Property Rights Policy; DMCA Notification
+© Whalerock Digital Media, LLC. All rights reserved., Mom.me, LatinaMom.me, and animals.mom.me are trademarks of Whalerock Digital Media, LLC
 
-We respect the rights of intellectual property holders. If you believe that any content on the Sites violates your intellectual property rights, you can report such violation to us in accordance with the Digital Millennium Copyright Act (17 U.S.C. §512). In the case of an alleged infringement, please provide the following information:
+#### Privacy Policy for EU Users
 
-  * A description of the copyrighted work or other intellectual property that you claim has been infringed;
-  * A description of where the material that you claim is infringing is located on the Sites (including the exact URL);
-  * An address, a telephone number, and an e-mail address where we can contact you;
-  * A statement that you have a good faith belief that the use is not authorized by the copyright or other intellectual property rights owner, by its agent, or by law;
-  * A statement by you under penalty of perjury that the information in your notice is accurate and that you are the copyright or intellectual property owner or are authorized to act on the owner's behalf; and
-  * Your electronic or physical signature, or that of the person authorized to act on behalf of the owner of the copyright or other right being infringed.
+ **Effective Date: May 25, 2018**
+
+### INTRODUCTION
+
+Whalerock Digital Media, LLC d/b/a Whalerock Industries, its affiliates and subsidiaries (" **Whalerock** ", " **we** ", " **us** ", or " **our** ") values the privacy of our users and subscribers. We strive to be transparent about how we collect and use your Information (as defined below), to keep your Information secure and to provide you with meaningful choices. This Privacy Policy (" ** _Policy_** ") describes the privacy practices for [www.Mom.me](http://www.mom.me/), [www.LatinaMom.me](http://www.latinamom.me/), and [www.animals.mom.me](http://www.animals.mom.me/) websites (each a " **Site** " or collectively, the " _Sites_ "), which are owned, and operated, in whole or in part, by Whalerock. This Policy explains how your Information is collected, used, and disclosed by Whalerock as a data controller.
+
+This Policy applies to our online information practices for the Sites with respect to users within the European Union. This Policy does not apply to personal data collected through any third-party websites or apps, including websites you may access through the Sites. Those websites and apps may have their own privacy policies, which we encourage you to read before providing any personal information on or through them.
+
+Please read this Policy carefully to understand our policies and practices regarding your Information and how we will treat it. If you do not agree with our policies and practices, do not use the Sites. By using the Sites, you agree to this Policy. This Policy may change from time to time. Your continued use of the Sites after we make changes is deemed to be acceptance of those changes, so please check the Policy periodically for updates.
+
+### INTERNATIONAL TRANSFER
+
+Our Sites are hosted in the United States. This means the Information we collect will be processed by us in the United States, a country with a lower standard of protection of personal data than the European Union. However, as we offer our Sites, apps, and subscription services to residents in the European Union, Whalerock is therefore also subject to European data protection laws, in particular the EU General Data Protection Regulation (the **_GDPR_** ).
+
+Whalerock is in the process of appointing an EU representative and will notify you through an updated version of this Policy once the EU representative has been appointed.
+
+We use instruments similar to the standard contractual clauses in accordance with the GDPR when transferring your Information outside of European Union or to third parties.
+
+We may also limit the availability of the Sites or any service or product described on the Sites to any person or geographic area at any time.
+
+### CHILDREN UNDER THE AGE OF 16
+
+The Sites are not intended for children under 16 years of age, and we do not knowingly collect personal information from children under 16. If we learn we have collected or received personal information from a child under 16 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 16, please contact us at privacy@mom.me.
+
+### INFORMATION WE COLLECT AND HOW WE COLLECT IT
+
+We may collect and combine different types of information together, and collectively refer to all of this information in this Privacy Policy as " **Information** ". Below is the type of Information we may collect:
+
+ **Information You Provide to Us**. We may collect Information that you provide to us, such as:
+
+  * when you register with or use these Sites, or subscribe to any service on the Sites, we may ask you to provide personal information by which you may be identified, such as name, postal address, e-mail address, telephone number, or any other contact details.
+  * when you use the Sites to communicate with others or post, upload, display or store any content such as comments, photos, videos, emails, attachments, voice inputs, and other content generated by you (collectively, "User Contributions") on public areas of the Sites. Your User Contributions may be transmitted to others and we cannot control the actions of third parties with whom you may choose to share your User Contributions. We also cannot prevent further use of this Information once it is made public.
+  * we may ask you to provide your Information when you enter a contest or sweepstakes sponsored by us or respond to surveys that we may post and ask to complete on the Sites.
+  * when you communicate with us to report a problem with the Sites, or make any other general inquiries. We may keep records and copies of your correspondence (including e-mail addresses, phone numbers, and any other personal information you had provided).
+  * when you sign up for any paid services or place any orders on the Sites, we may keep details of transactions you carry out through the Sites and of the fulfillment of any orders (note that you may be required to provide financial information before placing an order through the Sites).
+  * when you otherwise use the Sites, such as for search queries, watch history, page views, viewing the content we make available, or installing any of our plug-ins.
 
 
 
-We may request additional information before we remove allegedly infringing material. You may report a copyright violation by providing the above information to the Whalerock designated agent listed below.
+ **Technical, usage, and analytical information**
 
-Contract Administrator, Whalerock Industries, Legal Affairs, Pacific Design Center, Red Building West, 750 N. San Vicente Blvd., 9th Floor, West Hollywood, CA 90069; Phone: (310) 255-7110 Fax: (310) 255-7058 Email:[copyright@whalerockindustries.com](mailto:copyright@whalerockindustries.com).
+We may collect certain technical and usage information when you use our Sites, such as the type of device, browser, and operating system you are using, unique device identifier, IP address, device and browser settings, the webpages you visit, including information about how you interact with our Sites and those of our third-party partners and information that allows us to recognize and associate your activity across devices and Sites. We may recognize your device to provide you with personalized experiences and advertising across the devices you use. Where appropriate we will only collect such information with your prior consent. Please see Your Choices and our Cookie Policy sections for more information.
 
-We will terminate the user account of any user who repeatedly submits content that violates our intellectual property policies. A repeat infringer is a user who has been notified of infringing activity more than twice and/or has had Content removed from the Sites more than twice.
+You may be able to access features of the Sites through third party communities, forums, and social media sites, services, plug-ins, and applications ("Social Media Sites"). Your privacy settings on such Social Media Sites, as well as their respective privacy policies, will determine the personal and other information that may be collected and used by these Social Media Sites.
 
-## Contact Information
+ **Location Information**.
 
- **Privacy Concerns.** If you have any concern or complaint about privacy on the Sites, please contact us at Whalerock Digital Media, LLC., Attn: Legal Affairs, Pacific Design Center, Red Building West, 750 N. San Vicente Blvd., 9th Floor, West Hollywood, CA, 90069, U.S.A. or email us at [privacy@whalerockindustries.com](mailto:privacy@whalerockindustries.com). We will do our best to respond to you in a timely and professional manner in order to answer your questions and resolve your concerns.
+We have access to Information about your location, such as your country, when you provide it or via device information (such as an IP address), or your device's location when you access the Sites with your mobile device. Where appropriate, we will only collect such information with your prior consent.
 
-© Whalerock Digital Media, LLC. All rights reserved. MomLatino, ClubMomMe, Glo, Pawnation, Mom.me, ClubMomme.com, MomLatino.me, Glo.com, and Pawnation.com are trademarks of Whalerock Digital Media, LLC
+### HOW WE USE YOUR INFORMATION
+
+What legal basis do we have for processing your personal data?
+
+We only process your personal data for legitimate purposes. The use of your personal data will also be justified on the basis of one or more of legal "processing grounds" that are provided for in the EU General Data Protection Regulation (the GDPR).
+
+The table below contains an explanation of the scope of the various legal processing grounds available under the GDPR that Whalerock relies upon when collecting Information:
+
+ **Contract performance:** where we require your personal data in order to enter into a contract with you and provide our services to you.
+
+ **Legitimate interests:** where we use your personal data to achieve a legitimate interest and our reasons for using it outweigh any prejudice to your data protection rights.
+
+ **Legal claims:** where your personal data is necessary for us to defend, prosecute or make a claim against you, us or a third party.
+
+ **Our legal obligations and rights:** where we are required to process your personal data under a statutory obligation within the EU.
+
+ **Consent:** where you have consented to our use of your personal data (in which case you will have been presented with a consent form in relation to any such use and you may withdraw your consent at any time by giving notice to privacy@mom.me.
+
+ **Providing our products and services:**
+
+  *  **Use of Information**
+    * We use the Information we collect about you to fulfill your requests for products, application, services, and content and to provide, develop, maintain, personalize, protect, and improve your experience and our offerings. For example, we use Information collected on our sites to (i) provide content, products, services, and updates (ii) provide notices about your account or subscriptions, (iii) enable you to read and post comments, or (iv) enable you to enter promotions, contests, and sweepstakes.
+
+
+  *  **Processing Grounds Under GDPR:**
+    * Fulfilling contractual and legal obligations; and with your consent (where required)
+  *  **Legitimate Interests (where appropriate)**
+
+
+    * Improving and developing new products and services; increasing efficiency; protecting against fraud; retaining your past use details of products and/or services that you may have purchased or were interested in, so as to suggest to you other products that may be of interest.
+
+
+
+ **Marketing.**
+
+  *  **Use of Information:**
+    * We use Information we collect to (i) to send you information about promotions, offerings, and our features, (ii) provide ads based on your interests and location, (iii) engage with interactive features, activities, and Social Media Sites to provide you with, or allow the Social Media Sites to provide you with ads based on your interests, (iv) occasionally we also use this Information to offer, market, or advertise products, programs, or services to you from us and our affiliates, business partners, and selected third parties, or (v) for us and our affiliates, business partners, and select third parties to target, offer, or advertise products, programs, or services that may be of interest to you.
+  *  **Processing Grounds Under GDPR:**
+    * Legitimate interests and with your consent (where required)
+  *  **Legitimate Interests (where appropriate)**
+  * Promoting our products and services to our users, provide tailored offers, opportunities and services that may be of interest to you.
+
+
+
+ **Communicating with you.**
+
+  *  **Use of Information:**
+    * We use Information about you to communicate with you, such as (i) to notify you when you win one of our contests or sweepstakes or when we make changes to our policies or terms, (ii) to respond to your inquiries, or (iii) to contact you about your account.
+  *  **Processing Grounds Under GDPR:**
+    * Fulfilling contractual and legal obligations; and with your consent (where required)
+  *  **Legitimate Interests (where appropriate)**
+    * Providing and/or communicating important information; increasing efficiency; managing, improving, or developing new services and products; aggregating statistics.
+
+
+
+ **For security purposes and to analyze and continuously improve our Sites and services.**
+
+  *  **Use of Information:**
+    * We use technical and usage information to improve our design, functionality and content and to enable us to personalize your experience with our content and offerings. We use this Information (i) to provide, develop, maintain, personalize, protect, and improve our products, applications, and services, and to operate our business, (ii) to perform analytics, including to analyze and report on usage and performance, (iii) to protect against, identify, and prevent fraud and other unlawful activity, (iv) to create aggregate data about groups or categories of our users, and (iv) to prevent fraud.
+  *  **Processing Grounds Under GDPR:**
+    * Fulfilling contractual and legal obligations, legitimate interests, and with your consent (where required)
+  *  **Legitimate Interests (where appropriate)**
+    * Evaluating information from your visits and interactions with the Sites to have a better understanding of their use so that we can develop a more intuitive user experience.
+
+
+
+ **Marketing by and with third-party social networks.**
+
+  *  **Use of Information:**
+    * We use your Information when you interact with third party social networking features to serve you with advertisements and engage with you on third party social networks. You can learn more about how these features work, the profile data that we obtain about you, and find out how to opt out by reviewing the privacy notices of the relevant third party social networks.
+  *  **Processing Grounds Under GDPR:**
+    * Legitimate interest, and with your consent as obtained by us or any third party social network (where required)
+  *  **Legitimate Interests (where appropriate)**
+    * Evaluating information from your visits and interactions with the Sites to have a better understanding of their use so that we can develop a more intuitive user experience, provide tailored offers, opportunities and services that may be of interest to you.
+
+
+
+ **Compliance and to change our business structure.**
+
+  *  **Use of Information:**
+    * We use Information we collect to detect, investigate, and prevent activities that violate our terms of use, could be fraudulent, violate copyright, or other laws, to comply with legal requirements, and to protect our rights and the rights and safety of our users and others. We may also provide your personal data to any potential acquirer of or investor in any part of Whalerock's business for the purposes of that acquisition or investment.
+  *  **Processing Grounds Under GDPR:**
+    * Fulfilling contractual and legal obligations
+  *  **Legitimate Interests (where appropriate)**
+    * Protecting our business interests, property and other rights, protecting the privacy, safety and other rights of the public.
+
+
+
+### HOW WE SHARE AND DISCLOSE YOUR INFORMATION
+
+Whalerock controls your Information and is deemed a data controller as defined in the GDPR. We may share and disclose aggregated and de-identified Information about our users without restriction.
+
+Where we engage data processors that process personal data outside of the EEA we will ensure that there will be an appropriate level of protection. In addition, we will implement legal safeguards governing such transfer, such as instruments similar to model contractual clauses, individuals' consent, or other legal grounds permitted by applicable legal requirements.
+
+Certain countries outside the EEA have been approved by the European Commission as providing essentially equivalent protections as EEA data protection laws. EU data protection laws allow Whalerock to freely transfer personal data to such countries. Please contact us at privacy@mom.me if you would like to see a copy of the safeguards we apply in relation to the export of your personal data.
+
+ **Service Providers**. We have engaged the following categories of data processors that process personal data on our behalf: our contractors, service providers, content providers, and other third parties we use to support our business may have access to Information to help carry out the services they are performing for us, including: creating, maintaining, hosting, and delivering of our Sites, products, and services; conducting marketing (for example to provide you with targeted advertisements with appropriate consent); handling payments, email and order fulfillment; administering contests; conducting research and analytics; and customer service.
+
+ **Marketing by affiliates and third parties.** We may disclose Information to affiliates, business partners, and third parties (e.g., retailers, advertisers, ad agencies, advertising networks and platforms, research organizations, and other companies) whose practices are not covered by this Privacy Policy and will act as controller. These parties may provide, offer, improve, market, and otherwise communicate with you about their own products and services. We will always ask your prior consent prior to any such disclosure.
+
+ **Sponsors and co-promotions**. We sometimes offer content or programs (e.g., contests, sweepstakes, promotions, or Social Media Site integrations) that are sponsored by or co-branded with third parties. By virtue of these relationships, the third parties collect or obtain Information from you when you participate in the activity. We have no control over these third parties' use of this Information. We encourage you to look at the privacy disclosure of any such third party to learn about their data practices before you participate in the activity.
+
+ **Linked Sites**. Some Sites contain links to other sites, including Social Media Sites. We may integrate social media application program interfaces or plug-ins (" _Plug-ins_ ") from social networks, including Facebook, Twitter, Instagram, Pinterest and others, into our Sites. Plug-ins may transfer information about you to the Plug-in's respective platform without action by you. This information may include your platform user identification number, which website you are on, and more. Interacting with a Plug-in will transmit information directly to that Plug-in's social network and that information may be visible by others on that platform. Plug-ins are controlled by the respective platform's privacy policy, and not by our Policy.
+
+ **Legal and Law Enforcement Purposes**. We may disclose Information in response to legal process, for example in response to a court order or a subpoena, or in response to a law enforcement agency's request. We may also disclose such Information to third parties: (i) for the purposes of fraud protection and credit risk reduction, (ii) where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, (iii) to enforce our rights arising from any contracts entered into between you and us, including the Terms of Use, this Policy, and for billing and collection, (iv) if we believe disclosure is necessary or appropriate to protect our rights, property, or safety or that of our customers, users, contractors or others, (v) as otherwise required by law.
+
+### YOUR CHOICES
+
+Marketing Communications and Sharing with Third Parties. If you have subscribed to receive newsletters and/or marketing information, you have an opportunity to select your preferences with respect to receiving marketing communications from us, and our sharing of Information with partners for their direct marketing purposes.
+
+You may update your preferences with respect to receiving certain marketing communications from us, and our sharing of personal information with third parties. You may do so by contacting us at privacy@mom.me. You may also opt out of receiving email marketing communications, by following the "unsubscribe" instructions provided in every email you receive from us. You may also adjust your push notifications on your mobile device through your device or app settings.
+
+ **Ad Choices** **.** We may work with third parties to present advertisements, and engage in data collection, reporting, site analytics, ad delivery and response measurement on our Sites and on third party websites and applications over time. These third parties may use cookies, web beacons, pixels, and other similar technology to perform this activity. They may also obtain information about websites you visit, applications you use, and other information from across your browsers and devices in order to present advertising that may be tailored to your interests on and off our Sites and across other platforms. This type of advertising is known as interest-based advertising, and may be used to associate various browsers and devices together for the purpose of interest-based advertising and analytics.
+
+For more information about interest-based advertising on your desktop or mobile browser, and your ability to opt out of this type of advertising by third parties, please visit [Your Online Choices](http://www.youronlinechoices.com/) and/or the EDAA [Self-Regulatory Initiative for Online Behavioral Advertising](https://www.edaa.eu/). Please note that any opt-out choices you may exercise through these programs will only apply to interest-based advertising by the third parties you select. You may also continue to receive advertising, but that advertising may be less relevant to your interests.
+
+You may have more options depending on your operating system or mobile device. Most device operating systems provide their own instructions on how to minimize or block delivery of tailored in-app advertising. You can review the privacy settings in such operating system to learn about limiting of tailored in-app advertising. You may also disable precise location information from a mobile device through your mobile device settings and choose to limit that collection.
+
+#### Cookie Policy for EU Users
+
+ **Cookies and Other Technologies**. We, and our affiliates, third party service providers, and business partners may send "cookies" to your computer or use similar technologies to enhance your online experience on our Sites and through our advertising and media across the Internet and mobile apps.
+
+Cookies are small text files containing information which are downloaded to your device when you visit a website, including our Sites. Cookies are then sent back to the originating web domain on your subsequent visits to that domain. Most web pages contain elements from multiple web domains so when you visit a website, your browser may receive cookies from several sources. Cookies are useful because they allow a website to recognize a user's device. Cookies allow you to navigate websites efficiently, remember preferences and generally improve the user experience. They can also be used to tailor advertising to your interests through tracking your browsing across websites. Session cookies are deleted automatically when you close your browser and persistent cookies remain on your device after the browser is closed (e.g. remembering your user preferences when you return to the Sites).
+
+We may also use pixels or "web beacons" that monitor your use of our Sites. Web beacons are small electronic files integrated into the Sites or our communications (e.g. emails) that permit us, for example, to count users who have visited those pages or opened an email or for other related statistics. We may also integrate "Software Development Kits" ("SDKs") into our applications to perform similar functions as cookies and web beacons. For example, SDKs may collect technical and usage information such as mobile device identifiers and your interactions with the Site and other mobile apps.
+
+We may also use cookies and other technologies (i) to provide, develop, maintain, personalize, protect, and improve our Sites, products, programs, and services and to operate our business, (ii) to perform analytics, including to analyze and report on usage and performance of our Sites and marketing materials, (iii) to protect against, identify, and prevent fraud and other unlawful activity, (iv) to create aggregate data about groups or categories of our users, (v) to synchronize users across devices, affiliates, business partners, and select third parties, and (vi) for us and our affiliates, business partners, and select third parties to target, offer, or market, products, programs, or services. Cookies and other technologies also facilitate and measure the performance of advertisements displayed on or delivered by or through us and/or other networks or sites.
+
+We currently do not respond to Do Not Track signals because a uniform technological standard has not yet been developed. We continue to review new technologies and may adopt a standard once one is created.
+
+ **Managing Cookies and Other Technologies.**
+
+ _Strictly Necessary Cookies_
+
+These _cookies_ are essential in order to enable you to move around the Sites and use its features. Without these cookies, services you have asked for (such as navigating between pages) cannot be provided. The following table sets out some examples of these types of cookies:
+
+ **Cookie Source: Mom.me**
+
+  *  **Purpose:**
+    * We use the data stored in this cookie for system administration, to improve security, and provide access to required functionality on the site
+  *  **Further Information:**
+    * Session cookie (expires when browser is closed)
+
+
+
+ _Performance Cookies_
+
+We make use of analytic cookies to analyse how our visitors use the Sites and to monitor their performance. This allows us to provide a high-quality experience by customizing our offering and quickly identifying and fixing any issues that arise. For example, we may use performance cookies to keep track of which pages are most popular, which method of linking between pages is most effective, and to determine why some pages are receiving error messages. We may also use these cookies to highlight articles or Sites' services that we think will be of interest to you based on your usage of the Sites. The information collected by these cookies is not associated with your personal information by us or by our contractors and is only used in aggregate and de-identified form. The following table sets out some examples of these types of cookies:
+
+ **Cookie Source: Google Analytics**
+
+  *  **Purpose:**
+    * These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve our site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.
+  *  **Further Information:**
+    * Click here for Google's privacy policy in respect of Google Analytics: <http://www.google.com/analytics/learn/privacy.html>
+    * You may opt out of tracking by Google Analytics by visiting: <https://tools.google.com/dlpage/gaoptout?hl=en-GB>.
+    * Persistent Cookies.
+
+
+
+ **Cookie Source: Mouseflow**
+
+  *  **Purpose:**
+    * We use Mouseflow to capture anonymized user information how site visitors are interacting with the page elements. We use this anonymous data to deliver feedback for an improved site experience for users.
+
+
+  *  **Further Information:**
+    * Click here to see Mouseflow's Privacy Policy: <http://mouseflow.com/privacy/>
+    * If you'd like to opt-out, you can do so at https://mouseflow.com/opt-out.
+    * Persistent Cookies.
+
+
+
+ _FunctionalityCookies_
+
+We make use of cookies to provide you with certain functionality. For example, viewing video content, live streams, or to remember choices you make and to provide enhanced and more personal features. These cookies are not used to track your browsing on other sites. The following table sets out some examples of these types of cookies:
+
+ **Cookie Source: Ooyala**
+
+  *  **Purpose:**
+    * Ooyala uses a cookie to better deliver video assets to end users, recording bandwidth and video size preferences, as well as any technical issues. All user data is anonymized
+
+
+  *  **Further Information:**
+    * Session cookie (expires when browser is closed)
+
+
+
+ _Advertising Cookies_
+
+Advertising cookies (or targeting cookies) collect information about the browsing habits associated with your device and are used to make advertising more relevant to you and your interests. These cookies also measure the effectiveness of advertising campaigns and track whether ads have been properly displayed. You can access the EU Consent Manager at the footer of the Sites should you wish to change your consent preferences.
+
+ **Cookie Source: DoubleClick**
+
+  *  **Purpose:**
+    * Doubleclick uses cookies to improve advertising. Some common applications are to target advertising based on what's relevant to a user, to improve reporting on campaign performance, and to avoid showing ads the user has already seen.
+
+
+  *  **Further Information:**
+    * Click here for Google's privacy policy in respect of DoubleClick <https://policies.google.com/privacy?hl=en>
+    * You may opt out of tracking by DoubleClick by visiting https://support.google.com/ads/answer/2662922?hl=en
+    * Persistent cookies
+
+
+
+ **Cookie Source: Facebook Pixel**
+
+  *  **Purpose:**
+    * We use the Facebook pixel as a means of better understanding our users, to customize content and advertising, to provide social media features and to analyze traffic to the site. The collected data remains anonymous. This means that we cannot see the personal data of any individual user. However, the collected data is saved and processed by Facebook.
+
+
+  *  **Further Information:**
+    * Facebook is able to connect the data with your Facebook account and use the data for their own advertising purposes, in accordance with their privacy policy found under: https://www.facebook.com/about/privacy/
+    * If you'd like to opt-out, you can do so at <https://www.facebook.com/ads/website_custom_audiences/>
+    * Persistent cookies.
+
+
+
+Advertising Cookies may be used by social media sites that are linked from our Site, such as "Share" buttons or embedded audio/video players, in addition to providing the requested functionality. Social media sites provide these services in return for recognizing that you (or more accurately your device has) have visited certain websites. Such social media sites put down advertising cookies both when you visit our Sites and when you use their services and navigate away from our Sites. The cookie practices of some of these social media sites are set out below:
+
+Facebook's Cookie Policy: <https://www.facebook.com/policies/cookies/>
+
+Twitter's Cookie Policy: <https://help.twitter.com/en/rules-and-policies/twitter-cookies>
+
+Instagram's Cookie Policy: <https://help.instagram.com/1896641480634370?ref=ig>
+
+Pinterest's Cookie Policy: <https://policy.pinterest.com/en/cookies>
+
+YouTube's Cookie Policy: <https://policies.google.com/technologies/cookies>
+
+SoundCloud Cookie Policy: <https://soundcloud.com/pages/cookies>
+
+Google Plus Cookie Policy: <https://policies.google.com/technologies/cookies>
+
+### YOUR RIGHTS TO ACCESS, CORRECT AND DELETE YOUR INFORMATION
+
+You have the right to ask us for a copy of your Information, to correct it, erase it or restrict its processing, and to obtain the Information you have provided. You may also ask us to transmit certain Information that you have provided to a third party electronically.
+
+You have the right to object to the processing of personal information on the basis of our legitimate interests. Where we have asked for your consent to process Information, you have the right to withdraw this consent at any time.
+
+If you have unresolved concerns, you have the right to complain to an EU data protection authority where you live, work or where you believe a breach may have occurred. Please be aware that certain exceptions apply to the exercise of these rights and so you may not be able to exercise all of these rights in all situations.
+
+These rights are subject to certain exemptions to safeguard the public interest (e.g. the prevention or detection of crime) and our interests (e.g. the maintenance of legal privilege). In some instances, this may mean that we are able to retain your Information even if you withdraw your consent. We will respond to most requests within one month.
+
+You can unsubscribe from any newsletters or various promotional emails at any time by clicking on the "unsubscribe" links provided in such communications. You may not opt out of Site-related communications, such as account verification, purchase confirmations and administrative messages, so long as you are registered with the Sites.
+
+### DATA RETENTION
+
+Our retention periods for personal data are based on business needs and legal requirements. We retain personal data for as long as it necessary for the processing purpose(s) for which the personal data was collected, and any other permissible, related purpose. For example, we retain certain transaction details and correspondences until the time limit for claims arising from the transaction has expired, or to comply with regulatory requirements regarding the retention of such data.
+
+### DATA SECURITY
+
+We have implemented appropriate technical and organizational measures to secure the processing of personal data. These safeguards will vary depending on the sensitivity, format, location, amount, distribution and storage of the personal data, and include measures designed to keep personal data protected from unauthorized access.
+
+We restrict access to personal data to personnel and third parties that require access to such information for legitimate, relevant business purposes.  
+All of our staff members, contractors and third parties who will have access to personal data on our instructions will be bound to confidentiality and we use access controls to limit access to individuals that require such access for the performance of their responsibilities and tasks.  
+We have information security policies in place and its security policies and systems are frequently audited. We take the security of our IT infrastructure very seriously.
+
+Although we take reasonable precautions to protect your personal information, we cannot guarantee the security of your personal information. Any transmission of personal information via the Internet and mobile platforms is not completely secure, and thus, any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures we provide.
+
+The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Sites, you are responsible for keeping this password confidential. You should not share your password with anyone.
+
+### CHANGES TO OUR POLICY
+
+We may update our Policy from time to time. We will notify you about any material changes to this Privacy Policy by placing a notice on our Sites. We encourage you to periodically check back and review this Policy so you are aware of any recent changes.
+
+### HOW TO CONTACT US
+
+ **Privacy Concerns**. If you have any concern or complaint about privacy on the Sites, please contact us at Whalerock Digital Media, LLC., Attn: Legal Affairs, Pacific Design Center, Red Building West, 750 N. San Vicente Blvd., 9th Floor, West Hollywood, CA, 90069, U.S.A. or email us at privacy@mom.me. We will do our best to respond to you in a timely and professional manner in order to answer your questions and resolve your concerns.
+
+© Whalerock Digital Media, LLC. All rights reserved. Mom.me, LatinaMom.me, and animals.mom.me are trademarks of Whalerock Digital Media, LLC
