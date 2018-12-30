@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mycouchtuner.nu privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623074718id_/http%3A//www.couchtuner.fr/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycouchtuner.nu privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230140411id_/http%3A//www.couchtuner.fr/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Watch Privacy Policy Online | CouchTuner
+
+## Watch Privacy Policy Online
 
 This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you accept the practices described here.
 
