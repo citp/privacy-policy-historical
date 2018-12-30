@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wegottickets.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624155010id_/http%3A//www.wegottickets.com/ppl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wegottickets.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230115951id_/https%3A//www.wegottickets.com/ppl) for the most accurate reproduction.*
 
 # WeGotTickets | Simple, honest ticketing | Our privacy policy
 
-This is the privacy policy for WeGotTickets ( **"WGT", "we", "our", "us"** ). This Policy explains how and why we collect and use personal information, and what we do to ensure it is kept private and secure. Please read this policy in conjunction with our [Terms and Conditions](http://www.wegottickets.com/tandc), which sets out the terms on which you may access [www.wegottickets.com](http://www.wegottickets.com/) (our **"Website"** ). 
+This is the privacy policy for WeGotTickets ( **"WGT", "we", "our", "us"** ). This Policy explains how and why we collect and use personal information, and what we do to ensure it is kept private and secure. Please read this policy in conjunction with our [Terms and Conditions](https://www.wegottickets.com/tandc), which sets out the terms on which you may access [www.wegottickets.com](https://www.wegottickets.com/) (our **"Website"** ). 
 
 #### 1\. WHO WE ARE
 
