@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the stellar.org privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624024743id_/https%3A//www.stellar.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stellar.org privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230021652id_/https%3A//www.stellar.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Stellar
 
 We are committed to protecting the privacy of our users and visitors. The following Privacy Policy outlines the information Stellar Development Foundation, a Delaware non-profit corporation (the “Company”) may collect and how we may use that information to better serve its visitors, participating merchants, charitable organizations and members. All terms not defined herein shall have the meanings described in the Terms of Service.
 
-If you have questions about this Privacy Policy, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f0838580809f8284b08384959c9c9182de9f8297).
+If you have questions about this Privacy Policy, please contact us at [support@stellar.org](mailto:support@stellar.org).
 
 **1\. Children Under the Age of 13**
 
@@ -54,4 +54,4 @@ The Personal Information we collect is securely stored within our database, and 
 
 **6\. Revisions and Amendments**
 
-If you have further privacy concerns please do not hesitate to ask us by contacting [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3a494f4a4a55484e7a494e5f56565b481455485d). This Privacy Policy is effective as of Tuesday the 23th, December 2014. This Privacy Policy is not intended to and does not create any contractual or other legal rights in or on behalf of any party. Company reserves the right, at any time and without notice, to add to, modify, change or update this Privacy Policy, simply by posting such change, update or modification on www.stellar.org. Any such change, update or modification will be effective immediately upon posting on the Company’s website.
+If you have further privacy concerns please do not hesitate to ask us by contacting [support@stellar.org](mailto:support@stellar.org). This Privacy Policy is effective as of Tuesday the 23th, December 2014. This Privacy Policy is not intended to and does not create any contractual or other legal rights in or on behalf of any party. Company reserves the right, at any time and without notice, to add to, modify, change or update this Privacy Policy, simply by posting such change, update or modification on www.stellar.org. Any such change, update or modification will be effective immediately upon posting on the Company’s website.
