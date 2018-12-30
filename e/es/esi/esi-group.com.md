@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esi-group.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627171613id_/http%3A//www.esi-group.com/privacy-terms-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esi-group.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230121501id_/https%3A//www.esi-group.com/privacy-terms-use) for the most accurate reproduction.*
 
 # Privacy & Terms Of Use | ESI Group
 
@@ -96,3 +96,5 @@ If you do not want Social Media to collect data about you via our website, you h
 ## Terms of use of the website documents
 
 The documents you can download here are protected by the Copyright laws of their authors and beneficiaries. Your use of these documents should be strictly personal. Copies may be made only in the case of information sharing with your colleagues. Apart from this, you agree not to send the documents to any third parties, to respect the authors’ rights, not to change the text, or to remove the Copyright mentions.
+
+_Updated June, 12, 2018_
