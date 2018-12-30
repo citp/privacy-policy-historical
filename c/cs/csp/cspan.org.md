@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cspan.org privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624172249id_/https%3A//www.c-span.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cspan.org privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230164744id_/https%3A//www.c-span.org/about/privacy) for the most accurate reproduction.*
 
 # Privacy | C-SPAN.org
 
-## C-SPAN.org Privacy Statement
+## C-SPAN'S Online Privacy Policy
 
-C-SPAN is sensitive to the privacy concerns of the visitors to all of its websites. The websites, which can be reached through the domain www.c-span.org, are operated by National Cable Satellite Corporation, d/b/a C-SPAN ("NCSC" or "C-SPAN" or "we" or "our" or "us"). This Privacy Policy applies to all of our websites except The C-SPAN Store site, which collects credit card and other information from users. The privacy policy for The C-SPAN Store is here.
+C-SPAN is sensitive to the privacy concerns of the visitors to all of its websites and to users of its apps. The websites, which can be reached through the domain www.c-span.org, are operated by National Cable Satellite Corporation, d/b/a C-SPAN ("NCSC" or "C-SPAN" or "we" or "our" or "us"). This Privacy Policy applies to all of our websites except The C-SPAN Store site, which collects credit card and other information from users and the C‑SPAN Radio app. The privacy policy for the C‑SPAN Radio app is below.
 
 This policy applies to all the other sites that can be reached from www.c-span.org. It describes the types of information collected from you, what we do with it, with whom we share it and how you can correct or change such information. It is your responsibility to review this Privacy Policy carefully, especially before providing us any personal data. **Your use of this site signifies your agreement to its terms**.
 
@@ -40,6 +40,10 @@ We may use "cookies" and similar tools to relate your use of c-span.org and aggr
 
 
 
+
+### The C‑SPAN Radio App
+
+If you download the C-SPAN Radio app, you will be asked if you want to receive push notifications from us. If you choose to receive them you will occasionally receive alerts informing you of radio programs that you may be interested in. The C‑SPAN Radio app incorporates third party software, and may collect information about your personal device, including its advertising identifier (which is Personal Data). The software provider is neither a contractor nor an agent of C‑SPAN.
 
 ### Disclosure to Others:
 
