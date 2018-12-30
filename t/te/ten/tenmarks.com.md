@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tenmarks.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830210356id_/https%3A//www.tenmarks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tenmarks.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230232703id_/https%3A//www.tenmarks.com/privacy-policy) for the most accurate reproduction.*
 
 # TenMarks | Privacy Policy
 
@@ -100,7 +100,7 @@ Yes, our Programs allow customers to comply with FERPA. For more information, pl
 Yes, students using TenMarks Writing may download the final version of student-generated essays. TenMarks Math does not involve the creation of student-generated content. 
 
 **Can parents, legal guardians, or students review Student Information in the student's records and correct erroneous information?**   
-A parent, legal guardian, or student may review Student Information in the applicable student's records by viewing their TenMarks account. To correct any erroneous information, the parent, legal guardian, or student can ask the applicable studentâs teacher or TenMarks customer support to make the changes. 
+A parent, legal guardian, or student may review Student Information in the applicable student's records by viewing their TenMarks account. To correct any erroneous information, the parent, legal guardian, or student can ask the applicable student's teacher or TenMarks customer support to make the changes. 
 
 **What does TenMarks do to ensure the security and confidentiality of Student Information?**   
 We take a number of steps to protect the security and confidentiality of Student Information. We leverage industry-standard software, encryption, and the leading infrastructure of Amazon Web Services to ensure the security of that information. All team members with access to Student Information are required to take regular training on their responsibilities in protecting that information against technical and social engineering threats. Access to sensitive Student Information is provided only to employees with a business need, and is immediately removed upon the termination of the employee. 
