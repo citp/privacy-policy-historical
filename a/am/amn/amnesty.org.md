@@ -1,73 +1,170 @@
-> *The following text is extracted and transformed from the amnesty.org privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629112225id_/https%3A//www.amnesty.org/en/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amnesty.org privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230022827id_/https%3A//www.amnesty.org/en/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Amnesty International
 
-Please read this policy carefully to understand how we collect, use and process your personal data.
-
-### Definitions
-
-**Amnesty International Application** means any digital application operated by Amnesty International Limited, which states that this Privacy Policy applies to that application.
-
-**Amnesty International Limited** means Amnesty International Limited, a company limited by guarantee, registered in England (number 01606776).
-
-**Amnesty International Website** means [www.amnesty.org](http://www.amnesty.org/) and any other website operated by Amnesty International Limited, which states that this Privacy Policy applies to that website.
-
 ### Introduction
 
-The Amnesty International Websites and Amnesty International Applications, including all information and materials contained on them, are managed by Amnesty International Limited.
+Amnesty International is committed to ensuring the privacy of all our users. We have long campaigned for the right to privacy and against government surveillance and intrusion. This policy represents our commitment as an organisation to your right to privacy, giving you a clear explanation about how we use your information and your rights over that information.
 
-For any questions regarding this Privacy Policy please contact us using the details below. 
+This policy applies to all online systems offered by Amnesty International Limited to the public, through our website www.amnesty.org and other websites we operate.
 
-Amnesty International Limited is committed to ensuring the privacy of all our users. This Privacy Policy governs all pages on the Amnesty International Websites and the operation of the Amnesty International Applications. It does not apply to pages or applications hosted or operated by other organisations, including the websites or applications of Amnesty International sections or related organisations or third party sites. The Amnesty International Websites and Amnesty International Applications may be linked to the websites/applications of such other parties, but those other sites may have their own privacy policies which apply to them.
+References to ‘we’,‘us’ and ‘our’ are to Amnesty International Limited, the main operating company of the Amnesty International’s [International Secretariat](https://web.archive.org/en/who-we-are/ "Who We Are"), registered as a company limited by guarantee in England and Wales (number 01606776).
 
-### Consent
+Amnesty International Limited is the registered data controller to which the policy refers. Our full details can be found at the end of this policy and please feel free to contact us with any questions related to it. This policy was last updated on [1] June 2018 and is reviewed every 12 months.
 
-By using any Amnesty International Website and/or Amnesty International Application, you consent to the terms of this Privacy Policy. Amnesty International Limited may change the terms of this Privacy Policy from time to time. Your continued use of the Amnesty International Website and/or Amnesty International Application will be on the terms of this Privacy Policy as amended from time to time.
+### What types of information do we collect and how?
 
-### What types of information do we collect and store?
+The type and amount of information we receive and store depends on how you use our websites. You can access most of the pages on our websites without telling us who you are and without revealing any personal information.
 
-The type and amount of information we receive and store depends on how you use the Amnesty International Websites and/or Amnesty International Applications. You can access most of the pages on the Amnesty International Websites without telling us who you are and without revealing any personal information. Our web servers collect anonymous logs during user visits to the Amnesty International Websites which provide valuable information for improving it in the future.
+Our web servers use cookies and collect anonymous logs during user visits to our websites which provide valuable information for improving them in the future. For more information see the separate [Use of Cookies page](https://web.archive.org/en/about-us/cookie-statement/ "Cookie Statement").
 
-For more information see [Use of Cookies](https://www.amnesty.org/en/about-us/cookie-statement/) page
+In some circumstances your information may be shared with us by third parties, but only where you have specifically consented. Examples include registering for a human rights education course with our external provider, or if you register your interest in joining Amnesty International or one of its campaigns through Facebook, Facebook will share information such as your name and email address with us.
 
-We do not collect personal information (such as your name, address, phone number or e-mail address) on the Amnesty International Websites or Amnesty International Applications unless you choose to provide it. For example, where you express an interest in joining or donating to Amnesty International, sign a petition or email action or subscribe to our email updates. If you apply for a job or volunteer role at Amnesty International we will collect information so that we can process your application and assess your suitability for the role. On Amnesty International Applications, we automatically collect only randomly generated unique user number to identify your application, and other non personal information.
+### We collect personal information in the following ways:
+
+  * When you sign up to online actions or express an interest in joining us as an international member
+  * When you make a donation to us
+  * When you sign up for our human rights education courses
+  * When you participate in other online campaigns or activities for example Amnesty Decoders
+  * When you apply for a job or volunteering opportunity with us
+
+
+
+### If you choose to provide it, we can collect the following types of personal information from you:
+
+  * Name
+  * Age
+  * Address
+  * Email address
+  * Phone number
+  * Credit card details
+  * Information provided for the purpose of applying for a job or volunteering opportunity, including: gender, ethnicity, sexual orientation, disability and criminal convictions
+
+
 
 ### How do we use information collected?
 
-Your personal information will be retained by Amnesty International Limited and its service providers in a secure environment, will be kept confidential, and will only be used in connection with the purposes for which it is submitted, or as otherwise explained on the Amnesty International Website or Amnesty International Application, or as necessary for us to comply with our legal obligations. For example, personal information submitted for the purposes of making a donation will be used to process that donation and personal information submitted with an expression of interest in joining Amnesty International will be used to action your expression of interest in joining Amnesty International and provide you with information about Amnesty International.
+We use your personal information collected via our websites for the following purposes:
 
-### Security
+  * To undertake email actions or compile petitions
+  * To update you on our campaigns and activities
+  * To ask you to donate or get involved in our campaigns
+  * To action your expression of interest in joining Amnesty International
+  * To administer your membership of Amnesty International
+  * To process donations that we receive from you
+  * To administer and progress your applications for employment or volunteering opportunities with us
+  * To monitor the diversity of applicants for employment or volunteering opportunities
+  * To share your data with other Amnesty International organisations or with trusted third parties (further details below)
+  * To improve our websites
+  * To fulfil any legal obligations
 
-We take appropriate security measures to ensure that we keep your information secure, accurate and up to date, and that we only keep it for as long as is reasonable and necessary. However the transmission of information over the Internet is never completely secure, so while we do our best to protect personal information, we cannot guarantee the security of information transmitted to the Amnesty International Websites and/or Amnesty International Applications.
+
+
+### Legal basis of processing
+
+Data protection law requires us to have a legal justification to process your personal information. We use the following depending on the type of data and the type of processing:
+
+**Consent** We require your consent to send you our communications for example to send you emails to update you on our work and our campaigns and to request donations. We will only process your information in this way if you consent. If you apply for a job with us and provide us with sensitive personal information (including details of your race, ethnicity, gender) we will only process that information with your consent.
+
+**Legitimate interest**  
+We sometimes share your personal information with other parts of the Amnesty International global movement (see below). This is done to fulfil our legitimate interest in promoting our organisation as effectively as possible and enabling our message to reach people who may be interested in human rights.
+
+**To fulfil a contractual obligation**  
+If you donate to us or express an interest in joining our movement we will process the personal data you provided to process that donation or action your membership request.
+
+**Legal obligation**  
+We will process your personal information to fulfil any legal obligations placed upon us, such as the prevention of fraud or money-laundering. We will also process your personal information if lawfully required to do so by a legal authority or a court of law.
+
+**Necessity**  
+For example where you are applying for an employment or volunteering opportunity with us, processing certain information is necessary for employment purposes.
+
+**Security**  
+We take appropriate security measures to ensure that we keep your information secure, accurate and up to date. We also take care to ensure that we have secure systems for processing payments through our payment services provider. However the transmission of information over the Internet is never completely secure, so while we do our best to protect personal information, we cannot guarantee the security of information transmitted to our websites.
+
+### Third Party Websites
+
+On our website we sometimes have links to third party websites or applications. This policy does not apply to such pages or applications hosted or operated by other organisations. This includes the websites or applications of Amnesty International sections or related organisations or third party sites. These other sites may have their own privacy policies which apply to them.
 
 ### Sharing of your personal information
 
-The information you provide will not be sold or rented nor will it be shared with third parties unless we have your permission, or are required to disclose the information by law or in the following circumstances:
+We will only share your personal information in the following circumstances:
 
-1\. Sharing with Amnesty International Sections and Structures: In addition to Amnesty International Limited, there are several Amnesty International Sections and Structures located around the world, including within the UK. An Amnesty International Section is a formally constituted body which carries out Amnesty International's work in a given country, state, territory or region. Similarly, an Amnesty International Structure is a national or regional body established by Amnesty International to promote and implement Amnesty International's vision and missions. Amnesty International may share your personal information with Amnesty International Sections and Structures located around the world, who may then use your personal information in connection with their activities related to Amnesty International or about Amnesty International's activities in general. For example, if you have expressed an interest in joining Amnesty International or sign a petition, we may share your contact details with your local Amnesty International Section or Structure.
+**Sharing with other parts of the Amnesty International global movement**  
+Amnesty International Limited is one part of Amnesty International’s global movement. Our movement is made up of over 60 membership organisations working to end human rights violations globally, including within the UK. Some of these bodies are formally constituted and others not. We may share your information with these entities who may then use your personal information in connection with their activities. For example, if you have expressed an interest in joining Amnesty International or sign a petition, we may share your contact details with your local Amnesty International organisation. To the extent that sharing your information in this way requires us to transfer your personal information outside of the EU, we have contractual arrangements in place to ensure that your data is shared and processed by the recipient organisation to an EU standard.
 
-2\. Hosting and processing: the Amnesty International Websites and Amnesty International Applications are hosted by third party service providers and therefore any personal details you submit through the Amnesty International Website and/or Amnesty International Applications may be processed by that third party service provider. We may also use other third parties to process your personal details. For example, such third parties may process your personal information to action expressions of interest to join Amnesty International, process donations to Amnesty International on our behalf or process and forward mailing information for users sign up to our online actions and/or choose to subscribe to our email updates. All of these third party services providers will process your personal information only on Amnesty International Limited's behalf and will be bound by strict confidentiality conditions.
+**Hosting and processing arrangements**  
+Our websites are hosted by third party service providers and therefore any personal details you submit through them may be processed by that third party service provider. 
 
-3\. Payment processing and fraud: Where submitted, your card details may be disclosed to banks or relevant financial institutions to arrange payments. In the case of a suspected fraudulent transaction, your details may be further disclosed for the sole purpose of performing further checks (for example, disclosure to a credit checking agency).
+We also use other third parties to process your personal details including in the following areas:
 
-The disclosure of your personal information discussed above may involve transfer of that information outside of the UK and European Union. Countries outside of the European Union, such as the United States, may not have data privacy laws as strong as those in force in the European Union.
+  * to action all online expressions of interest to join Amnesty International or take actions and manage all related communications
+  * to process online payments
+  * to process all information associated with applications for employment or volunteering opportunities and related recruitment processes.
+
+
+
+All third party services providers process your personal information only on Amnesty International Limited's behalf and are bound by contractual terms that are compliant with data protection law.
+
+We participate in Facebook’s custom audience and lookalike audience programs, which, depending on your privacy settings with Facebook, enable us to display our content to our existing or potential supporters on Facebook. We provide personal information such as your email address to Facebook which securely encrypts it. That personal information is then deleted by Facebook if it does not match a Facebook account or once they confirm you have an account.
+
+**Payment processing and fraud**  
+Where submitted, your card details may be disclosed to banks or relevant financial institutions to arrange payments. In the case of a suspected fraudulent transaction, your details may be further disclosed for the sole purpose of performing further checks (for example, disclosure to a credit checking agency).
+
+**Other sharing**  
+We may also share your personal information with your permission, or if we are legally required to disclose your information in circumstances where this cannot be reasonably resisted.
 
 ### Use of cookies
 
 A cookie is a text-only piece of information that a website transfers to your computer's hard disk so that the website can remember who you are. A cookie will normally contain the name of the Internet domain from which the cookie has come, the "lifetime" of the cookie, and a value, usually a randomly generated unique number.
 
-If you wish to restrict or block cookies you can set your internet browser to do so - click on the following link for more information: [www.aboutcookies.org](http://www.aboutcookies.com/).
+If you wish to restrict or block cookies you can set your internet browser to do so - click on the following link for more information: [www.aboutcookies.org.](https://www.aboutcookies.org/)
 
-Please click through to our [Use of Cookies](https://www.amnesty.org/en/about-us/cookie-statement/) document for more detailed information on cookies and how Amnesty International uses them.
+Please click through to our [Use of Cookies](https://web.archive.org/en/about-us/cookie-statement/ "Cookie Statement") document for more detailed information on cookies and how Amnesty International uses them.
 
-### Access to your personal information
+### Under 18s
 
-You may have rights of access to personal information that we hold about you, to correct that information or, in some circumstances, to object to our processing of your information, under data privacy law. If you wish to exercise any of these rights or have any questions about this policy, please contact:
+If you are aged 18 or under and would like to get involved in Amnesty International’s work, please make sure that you have your parent/guardian’s permission before giving us personal information.
+
+### Retention Period For Data
+
+We only hold your personal information on our systems for as long as is necessary for the purposes outlined above. We remove personal data from our systems once it is no longer required, in line with our guidelines on how long important information must remain accessible for future use or reference, as well as when and how data can be destroyed when it is no longer needed.
+
+The length of time each category of data will be retained will vary depending on how long we need to process it for, the reason it was collected and in line with any statutory requirements. After this time the data will either be deleted or we may retain a secure anonymised record for research and analytical purposes.
+
+### Access to and your rights over your personal information
+
+The personal data we hold about you is yours. You have the following rights over your information:
+
+  * To be informed how your data is being processed
+  * To access your data
+  * To rectify any data that is inaccurate
+  * To instruct us to delete your data
+  * To restrict our processing of your data (which includes contacting you via email) at any time. All our email communications to you will contain an unsubscribe link.
+  * To object to your data being stored.
+  * To move your data
+
+
+
+### If you wish to exercise any of these rights or have any questions about this policy you may contact us in the following ways:
+
+By post:
 
 Amnesty International, International Secretariat  
-1 Easton Street  
-London  
-WC1X 0DW  
+1 Easton Street   
+London   
+WC1X 0DW   
 UK
 
-Or please e-mail us at amnestyis@amnesty.org 
+By email: amnestyis@amnesty.org 
+
+By telephone: + 44 (0) 20 7413 5500
+
+### Complaints
+
+If you wish to lodge a complaint about our handling of your personal data please get in touch with us on the details above with the details of your complaint; we aim to respond to all complaints within 14 working days.
+
+If you are dissatisfied with how we have handled your complaint you may lodge a complaint with the Information Commissioner’s Office which is the UK regulator in charge of data protection and privacy enforcement:
+
+Website: <https://ico.org.uk/global/contact-us/>
+
+Telephone: 0303 123 1113
