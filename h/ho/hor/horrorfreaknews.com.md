@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the horrorfreaknews.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627124757id_/http%3A//horrorfreaknews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horrorfreaknews.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230121433id_/https%3A//horrorfreaknews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Horror Freak News
 
@@ -79,7 +79,7 @@ Users can set preferences for how Google advertises to you using the Google Ad S
 
 **California Online Privacy Protection Act**
 
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: https://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
 
 **According to CalOPPA we agree to the following:**
 
