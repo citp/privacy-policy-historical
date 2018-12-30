@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopexpress.io privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627092222id_/http%3A//www.bizomart.com/jv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopexpress.io privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230093516id_/http%3A//www.bizomart.com/jv/privacy-policy) for the most accurate reproduction.*
 
 # 
 
@@ -46,6 +46,89 @@ Overall, cookies help us provide you with a better website, by enabling us to mo
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
 This privacy policy applies to the various websites operated by BizOmart.com/Saglus.com  under various domain names. BizOmart.com/Saglus.com operates websites which may utilize ‘cookies’ to collect personal information. If you transact electronically with a member of BizOmart.com/Saglus.com  you should refer to the website of that member for more information on its website privacy and security procedures.
+
+### **GDPR Compliance Information:**
+
+**GDPR (EU General Data Protection Regulation)**
+
+We here at Bizomart are meeting the new requirements for how we process EU personal data. We embrace these changes, and our policy updates and reflect the transparency that this new law requires.
+
+Bizomart is GDPR compliant so that our clients can use shared marketing services automation with ease.
+
+At Bizomart we take data confidentiality seriously and meet data privacy regulations, and support organizations that uses shared marketing services while meeting data privacy requirements across the globe.
+
+This privacy policy notice is for this website; https://www.vidrankxpress.com and served by [Bizomart] and governs the privacy of those who use it. The purpose of this policy is to explain to you how we control, process, handle and protect your personal information while browsing or using this website, including your rights under current laws and regulations. If you do not agree to the following policy you may wish to cease viewing / using this website.
+
+**Personal Information**
+
+We may collect personal data from Users in a variety of forms, including, but not limited to, when: –
+
+  * Users visit our site
+  * Register on the site
+  * Place an order
+  * Subscribe to the newsletter
+  * Fill out a form, and
+  * In connection with other activities, services, features or resources we make available on our Site.
+
+
+
+Users may be asked for, name, email address, mailing address, credit card information. However they may visit our Site anonymously. We will collect personal data from Users only if they willingly submit information to us.
+
+Users can always decline to provide personal information, except that it may stop them from engaging in certain Site related activities.
+
+**Non-personal information**
+
+We may collect non-personal identification information about users whenever they interact with our Site. Non-personal information may include
+
+  * Browser name
+  * The type of computer and
+  * Technical information about users means of connection to our Site, such as the operating system and the Internet service providers used and other similar information.
+
+
+
+**How we use the information gathered:**
+
+Bizomart [VidRankXpress] may collect and use user’s personal info for the following purposes:
+
+  * Information provided helps us respond to your customer service requests and support needs more efficiently. It also helps us to personalize user experience
+
+
+  * We may use information collectively to understand how our users as a group use the services and resources provided on our Site.
+
+
+  * We may use feedbacks provided to improve our products and services.
+
+
+  * We may use the information Users provide about themselves while placing any order only to provide service to that order.
+
+
+  * We do not share this information with third parties except to the extent necessary to provide the service.
+
+
+  * To run a promotion, contest, survey or other Site feature to send Users information they agreed to receive about topics that would be of interest to them.
+
+
+  * We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests.
+
+
+
+**Opt-Out**
+
+Any individual has the right to opt-out of email communication from us at any point of time without any prior information. Each email sent by Bizomart contains a link that allows the individual to permanently opt-out of getting emails from us. Additionally, the email management allows the individual to manage the type of communication they receive from Bizomart via subscription management.
+
+If you want your data to be removed permanently from our system, you can contact us by raising a ticket at <https://bizomart.com/helpdesk>. Along with ticket do provide us with your EU citizenship proof to get your info deleted permanently.
+
+**Do Not Track**
+
+“Do not track” refers to a feature that is aimed at limiting targeting and tracking of web browsing behavior by various web services. Bizomart does not make use of anything like this.
+
+Tracking may be disabled by any user through the use of the browser’s built-in cookie handling mechanism. Cookies are typically stored on your computer or device when a website is visited and may contain information such as site preferences or login status.
+
+This cookie is used to help determine use of the site. The cookie itself does not contain any personally identifiable information.
+
+**Your acceptance of these terms**
+
+By using this Site, you indicate your acceptance to these policies. If you do not agree, please do not use our Site. Your continued use of the Site following the posting of changes to these policies will be considered as your acceptance of those changes.
 
 ### **Information collected from this website**
 
