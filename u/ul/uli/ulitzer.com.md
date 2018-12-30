@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ulitzer.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230000111id_/http%3A//www.sys-con.com/general/terms.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ulitzer.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230155646id_/http%3A//www.sys-con.com/general/terms.htm) for the most accurate reproduction.*
 
 # Privacy Information | SYS-CON MEDIA
 
@@ -131,7 +131,7 @@ To be in accordance with CANSPAM we agree to the following:
 
 If at any time you would like to unsubscribe from receiving future emails, you can email us at  
 • Follow the instructions at the bottom of each email.  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and we will promptly remove you from ALL correspondence.
+events@sys-con.com and we will promptly remove you from ALL correspondence.
 
 ### Contacting Us
 
@@ -141,6 +141,6 @@ SYS-CON Media
 577 Chestnut Ridge Road  
 Woodcliff Lake, New Jersey 07677  
 USA  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+webmaster@sys-con.com
 
 _Last Edited on 2015-07-23_
