@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the submityourflicks.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624034551id_/https%3A//www.submityourflicks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the submityourflicks.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230031400id_/https%3A//www.submityourflicks.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - SubmitYourFlicks.com
 
@@ -40,7 +40,7 @@ It does not apply to information collected by:
 
 No. The Website is not intended for anyone under 18-years old. You will only access the Website or register for an account if (1) you are at least 18-years old and (2) have reached the age of majority where you live. The Company prohibits all persons who do not meet the age requirements from accessing the Website. Minors must not access the Website or use its services.
 
-The Company does not knowingly collect or solicit any information or data from minors or allow minors to register for the Website. The Website and its content are not directed at minors. If the Company learns that it has collected personal information from a minor, the Company will delete that information as quickly as possible. If you believe that the Company might have any information from or about a minor, please contact the Company at cs@yorkvillemarketing.com .
+The Company does not knowingly collect or solicit any information or data from minors or allow minors to register for the Website. The Website and its content are not directed at minors. If the Company learns that it has collected personal information from a minor, the Company will delete that information as quickly as possible. If you believe that the Company might have any information from or about a minor, please contact the Company at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) .
 
 **Section 230 Notice:** **** In accordance with 47 U.S.C. § 230(d), you are notified that parental control protections (including computer hardware, software, or filtering services) are commercially available that may assist in limiting access to material that is harmful to minors. You may find information about providers of these protections on the Internet by searching “parental control protection” or similar terms. If minors have access to your computer, please restrain their access to sexually explicit material by using any of the following products, which the Company provides for informational purposes only and does not endorse: [CYBERsitter™](http://www.cybersitter.com/) | [Net Nanny®](http://www.netnanny.com/) | [CyberPatrol](http://www.cyberpatrol.com/) | [ASACP](http://www.asacp.org/).
 
@@ -175,7 +175,7 @@ The Company may use the information that it collects about you or that you provi
 
 
 
-The Company may also use your information to contact you about the Company’s own and third parties’ goods and services that may be of interest to you. If you do not want the Company to use your information in this way, please send the Company an email at cs@yorkvillemarketing.com . For more information, see _**What choices do you have about how the Company uses and discloses your information**_.
+The Company may also use your information to contact you about the Company’s own and third parties’ goods and services that may be of interest to you. If you do not want the Company to use your information in this way, please send the Company an email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) . For more information, see _**What choices do you have about how the Company uses and discloses your information**_.
 
 The Company may use the information it has collected from you to allow the Company to display advertisements to its advertisers’ target audiences. Even though the Company does not disclose your personal information for these purposes without your consent, if you click on or otherwise interact with an advertisement, the advertiser may assume that you meet its target criteria.
 
@@ -274,7 +274,7 @@ Do Not Track (“DNT”) is a privacy preference that you can set in your browse
 
 
 
-If you are a California resident, you may have certain additional rights. California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information by the Company to third parties for the third parties’ direct marketing purposes. Further, if you are a California resident and would like to opt out from the disclosure of your personal information to any third party for direct marketing purposes, please send an email to cs@yorkvillemarketing.com . Please be advised that if you opt out from permitting your personal information to be shared, you may still receive selected offers directly from the Company in accordance with California law.
+If you are a California resident, you may have certain additional rights. California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information by the Company to third parties for the third parties’ direct marketing purposes. Further, if you are a California resident and would like to opt out from the disclosure of your personal information to any third party for direct marketing purposes, please send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) . Please be advised that if you opt out from permitting your personal information to be shared, you may still receive selected offers directly from the Company in accordance with California law.
 
   11. **Your Canadian Privacy Rights**
 
@@ -287,7 +287,7 @@ The Company will only use your personal information for the purposes intended an
 
 Residents of Canada are notified that the personal information they provide to the Company is stored in its databases outside of Canada, including in the United States, and may be subject to disclosure to authorized law enforcement or government agencies in response to lawful demand under the laws of that country. 
 
-If you need to contact the Company about your personal information or believe that the Company has violated your privacy rights, please email the Company at cs@yorkvillemarketing.com . You may visit [www.priv.gc.ca](http://www.priv.gc.ca/) for more information about your privacy rights.
+If you need to contact the Company about your personal information or believe that the Company has violated your privacy rights, please email the Company at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) . You may visit [www.priv.gc.ca](http://www.priv.gc.ca/) for more information about your privacy rights.
 
   12. **Links to Other Websites**
 
@@ -324,4 +324,4 @@ Although most changes are likely to be minor, the Company may change this policy
 
 
 
-To ask questions or comment about this policy and the Company’s privacy practices, you may contact the Company at cs@yorkvillemarketing.com .
+To ask questions or comment about this policy and the Company’s privacy practices, you may contact the Company at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) .
