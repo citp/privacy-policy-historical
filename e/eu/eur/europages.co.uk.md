@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the europages.co.uk privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625230847id_/http%3A//corporate.europages.co.uk/terms-and-conditions/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the europages.co.uk privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230074224id_/http%3A//corporate.europages.co.uk/terms-and-conditions/privacy) for the most accurate reproduction.*
 
 # EUROPAGES privacy policy | Europages
 
-Last updated: 12/14/2017
+Last updated: 12/14/2017 
 
 EUROPAGES recognises the importance that must be given to protecting personal data.
 
@@ -14,7 +14,7 @@ In order to offer the best possible protection of data concerning an identified 
 
 ## 1\. Gathering your personal data
 
- **1.1** The company EUROPAGES SA is responsible for processing the data.
+**1.1** The company EUROPAGES SA is responsible for processing the data.
 
 The EUROPAGES website does not ask its Users for name-specific registration when they are simply visiting its services.  
 When browsing the www.europages.com website, certain personal data is automatically generated.  
@@ -25,7 +25,7 @@ This electronic identification data comprises:
 
 
 
- **1.2**  Other personal data may be communicated voluntarily by the User to EUROPAGES.
+**1.2**  Other personal data may be communicated voluntarily by the User to EUROPAGES.
 
 This concerns:
 
@@ -35,7 +35,7 @@ This concerns:
 
 
 
- **1.3** Creating an account and online subscriptions
+**1.3** Creating an account and online subscriptions
 
 To create a EUROPAGES account, you have to tell us your last name and email address and agree to our Terms and Conditions of Use and this Privacy Policy, which governs the way in which we process your personal data.
 
@@ -43,7 +43,7 @@ By providing us with personal data when you create or modify your account and yo
 
 If you have any reservations about providing information to us or having such information displayed on our services or otherwise used in any manner permitted in this Privacy Policy and the Terms and Conditions of Use, you should not become a member and should cease to visit our websites.
 
- **1.4** Activity and session information
+**1.4** Activity and session information
 
 We may be led to store data concerning your use of our services, such as your searches, the pages you visit, the data and time of your visit and the companies you contact on the EUROPAGES website.
 
@@ -51,7 +51,7 @@ We may also store data concerning your use of our services as provided by your c
 
 You may be able to block our use of certain data using the parameters of your device or browser.
 
- **1.5** Communications
+**1.5** Communications
 
 When you sign up for an account or to use certain functions, you choose or agree by default to receive messages from other EUROPAGES users, companies and the EUROPAGES site itself.
 
@@ -73,7 +73,7 @@ Pursuant to the French Data Protection Act, a declaration has been filed with th
 
 EUROPAGES does not sell or rent personal data that it collects on the www.europages.com website.
 
- **2.1** EUROPAGES undertakes to process personal data gathered on its www.europages.com website in accordance with the following specific aims:
+**2.1** EUROPAGES undertakes to process personal data gathered on its www.europages.com website in accordance with the following specific aims:
 
   * general operation of the europages.com website;
   * operation of services for registered or subscribed Users;
@@ -100,23 +100,23 @@ Communications include:
 
 In any event, EUROPAGES will only use your personal data for canvassing operations or other purposes that have no direct relation with our services in full compliance with legislation in effect with regard to personal data and privacy.
 
- **2.2  **EUROPAGES keeps connection data (i.e.: data recovered by the User log) for a maximum period of 3 years and does so only for the purposes of compiling statistics.
+**2.2  **EUROPAGES keeps connection data (i.e.: data recovered by the User log) for a maximum period of 3 years and does so only for the purposes of compiling statistics.
 
 With regard to data given voluntarily by the User on the europages.com website, EUROPAGES keeps these data until deleted by the user.
 
- **2.3**  Third parties
+**2.3**  Third parties
 
- **a. Advertisers**
+**a. Advertisers**
 
 We may allow third parties to use the cookies on the EUROPAGES website to collect the same type of information as EUROPAGES for the same purposes. Third parties may be able to link the information they collect with other information about you they have obtained from different sources.
 
 Moreover, we may provide third parties with information about you or from you that does not allow you to be identified personally, including data on your position and advertising identifiers, in order to improve the display of targeted advertising. You may be able to limit our communication of this information via the parameters of your mobile device or browser.
 
- **b. Browsing statistics**
+**b. Browsing statistics**
 
 We may provide third parties with information on users in the form of browsing statistics, including advertisers and content distributors. For example, we may indicate the number of users who have been shown advertisements or clicked on them.
 
- **c. Commercial and statutory data transmission**
+**c. Commercial and statutory data transmission**
 
 EUROPAGES reserves the right to disclose the personal data that it collects in the following cases:
 
@@ -132,13 +132,13 @@ We may be led to communicate information from or about you with subsidiaries, co
 
 
 
- **d. Companies listed on EUROPAGES**
+**d. Companies listed on EUROPAGES**
 
 We may communicate information from or about you (such as your first name, last name and email address) and concerning your device or use of our services (for example, companies you visit or contact) with the companies present on EUROPAGES.
 
 Do not forget that companies can see your profile when you contact them and receive information on your visits to their pages. If you visit a company’s page, we may communicate information on your visit, including the date and time of the visit and your first name, last name, email address and company name.
 
- **2.4  **EUROPAGES reserves the right to contact user companies, those registered in the free listing or members, in order to offer them new products or propose new business offers. If a User does not want to receive these proposals and/or business offers, then that User may unsubscribe via an active link featured in each message.
+**2.4  **EUROPAGES reserves the right to contact user companies, those registered in the free listing or members, in order to offer them new products or propose new business offers. If a User does not want to receive these proposals and/or business offers, then that User may unsubscribe via an active link featured in each message.
 
 ## 3\. Security of your personal data
 
@@ -153,9 +153,9 @@ Users are informed of the installation of cookies on their browser. The cookie s
 
 ## 5\. Unsubscribing – Contacts
 
- **5.1** A company whose details are given in the free listing section of the Directory has the right to access, rectify and delete its data according to the conditions described in Clause 5.4 below.
+**5.1** A company whose details are given in the free listing section of the Directory has the right to access, rectify and delete its data according to the conditions described in Clause 5.4 below.
 
- **5.2** Any User of the www.europages.com website may object to the processing of their personal data
+**5.2** Any User of the www.europages.com website may object to the processing of their personal data
 
 If a User receives an e-mail or letter that they do not wish to receive, they may:
 
@@ -164,11 +164,11 @@ If a User receives an e-mail or letter that they do not wish to receive, they ma
 
 
 
- **5.3** Any registered or subscribed company benefits from direct online access to all the personal data that has been gathered concerning them.
+**5.3** Any registered or subscribed company benefits from direct online access to all the personal data that has been gathered concerning them.
 
 Such a company may, at any time, have access to the information given during their registration or subscription by logging onto myEUROPAGES.
 
- **5.4** Any User of the website and any company registered in the free listing or a member that wishes to contact EUROPAGES pursuant to their rights mentioned in this Article may do so by:
+**5.4** Any User of the website and any company registered in the free listing or a member that wishes to contact EUROPAGES pursuant to their rights mentioned in this Article may do so by:
 
   * either sending an e-mail to: [administration@europages.com](mailto:administration@europages.com "Send an email")
   * or sending a fax to: **_33 (1)_** 41 16 49 50 ; [33 (0) 141 164 95]
@@ -176,11 +176,11 @@ Such a company may, at any time, have access to the information given during the
 
 
 
- **5.5** EUROPAGES endeavours to satisfy requests concerning the personal data in their possession within a period of four (04) weeks following receipt of the request.
+**5.5** EUROPAGES endeavours to satisfy requests concerning the personal data in their possession within a period of four (04) weeks following receipt of the request.
 
 ## 6\. Application of these rules – Assignment of jurisdiction
 
- **6.1** EUROPAGE’s personal data protection policy does not apply to:
+**6.1** EUROPAGE’s personal data protection policy does not apply to:
 
   * websites independent from the www.europages.com website that have established a hyperlink or search block directing Users to service offers;
   * websites working in partnership with www.europages.com that have integrated one of the services on their website (co-branding);
@@ -191,7 +191,7 @@ Such a company may, at any time, have access to the information given during the
 
 EUROPAGE therefore advises its Users to consult the data protection policies applied by these different websites.
 
- **6.2** In the event of any major difficulty or dispute with EUROPAGES, the parties agree to seek an amicable solution.
+**6.2** In the event of any major difficulty or dispute with EUROPAGES, the parties agree to seek an amicable solution.
 
 Failing this, the Commercial Court of Nanterre shall be granted jurisdiction.  
 These terms and conditions of use are governed by French law.  
