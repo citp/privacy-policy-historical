@@ -1,15 +1,15 @@
-<!--The following is the downloaded HTML source of the truthdig.com privacy policy that was archived on 2018-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180624064429id_/https%3A//www.truthdig.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the truthdig.com privacy policy that was archived on 2018-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181230061158id_/https%3A//www.truthdig.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-    <meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-1071.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+    <meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-1099.min.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1099.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>
         Privacy Policy &amp; User Agreement - Truthdig: Expert Reporting, Current News, Provocative Columnists    </title>
 
     <!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
 
-<!-- This site is optimized with the Yoast SEO plugin v7.5.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- This site is optimized with the Yoast SEO plugin v9.2 - https://yoast.com/wordpress/plugins/seo/ -->
 <meta name="news_keywords" content="">
 <meta name="original-source" content="https://www.truthdig.com/privacy-policy/">
 <link rel="canonical" href="https://www.truthdig.com/privacy-policy/">
@@ -29,12 +29,13 @@
 <!-- / Yoast SEO plugin. -->
 
 <link rel="dns-prefetch" href="//s.w.org">
-<!-- managing ads with Advanced Ads --><script>
+<!-- managing ads with Advanced Ads – https://wpadvancedads.com/ --><script>
 					advanced_ads_ready=function(){var fns=[],listener,doc=typeof document==="object"&&document,hack=doc&&doc.documentElement.doScroll,domContentLoaded="DOMContentLoaded",loaded=doc&&(hack?/^loaded|^c/:/^loaded|^i|^c/).test(doc.readyState);if(!loaded&&doc){listener=function(){doc.removeEventListener(domContentLoaded,listener);window.removeEventListener("load",listener);loaded=1;while(listener=fns.shift())listener()};doc.addEventListener(domContentLoaded,listener);window.addEventListener("load",listener)}return function(fn){loaded?setTimeout(fn,0):fns.push(fn)}}();
 			</script><link rel="stylesheet" id="login-with-ajax-css" href="https://www.truthdig.com/wp-content/plugins/login-with-ajax/widget/widget.css?ver=3.1.7" type="text/css" media="all">
-<link rel="stylesheet" id="style-css" href="https://www.truthdig.com/wp-content/themes/am2/assets/build/style.76ca35aa.css" type="text/css" media="all">
+<link rel="stylesheet" id="style-css" href="https://www.truthdig.com/wp-content/themes/am2/assets/build/style.fb0b3dcf.css" type="text/css" media="all">
 <link rel="stylesheet" id="mediaelement-css" href="https://www.truthdig.com/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.6-78496d1" type="text/css" media="all">
-<link rel="stylesheet" id="wp-mediaelement-css" href="https://www.truthdig.com/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=4.9.6" type="text/css" media="all">
+<link rel="stylesheet" id="wp-mediaelement-css" href="https://www.truthdig.com/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=4.9.9" type="text/css" media="all">
+<link rel="stylesheet" id="elasticpress-facets-css" href="https://www.truthdig.com/wp-content/plugins/elasticpress/features/facets/assets/css/facets.min.css?ver=2.6.1" type="text/css" media="all">
 <script type="text/javascript" src="https://www.truthdig.com/wp-content/themes/am2/assets/js/jquery.min.js"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
@@ -46,7 +47,7 @@ var LWA = {"ajaxurl":"https:\/\/www.truthdig.com\/wp-admin\/admin-ajax.php"};
 var mejsL10n = {"language":"en","strings":{"mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen-off":"Turn off Fullscreen","mejs.fullscreen-on":"Go Fullscreen","mejs.download-video":"Download Video","mejs.fullscreen":"Fullscreen","mejs.time-jump-forward":["Jump forward 1 second","Jump forward %1 seconds"],"mejs.loop":"Toggle Loop","mejs.play":"Play","mejs.pause":"Pause","mejs.close":"Close","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.","mejs.time-skip-back":["Skip back 1 second","Skip back %1 seconds"],"mejs.captions-subtitles":"Captions\/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.mute-toggle":"Mute Toggle","mejs.volume-help-text":"Use Up\/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.ad-skip":"Skip ad","mejs.ad-skip-info":["Skip in 1 second","Skip in %1 seconds"],"mejs.source-chooser":"Source Chooser","mejs.stop":"Stop","mejs.speed-rate":"Speed Rate","mejs.live-broadcast":"Live Broadcast","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};
 </script>
 <script type="text/javascript" src="https://www.truthdig.com/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.6-78496d1"></script>
-<script type="text/javascript" src="https://www.truthdig.com/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=4.9.6"></script>
+<script type="text/javascript" src="https://www.truthdig.com/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=4.9.9"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};
@@ -109,7 +110,8 @@ var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPr
 		  	</div>
 		</script>
 					<meta property="fb:pages" content="64639136366">
-				<script type="text/javascript">
+			<!-- Stream WordPress user activity plugin v3.2.3 -->
+	<script type="text/javascript">
         var am2 = {};
         am2.main = {};
         am2.functionsQueue = [];
@@ -121,7 +123,7 @@ var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPr
         am2.templateDirectory  = 'https://www.truthdig.com/wp-content/themes/am2';
     </script>
     <!-- Start GPT Async Tag -->
-<script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+<!--<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
 <script>
   var gptadslots = [];
   var googletag = googletag || {cmd:[]};
@@ -176,7 +178,7 @@ var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPr
 
     googletag.enableServices();
   });
-</script>
+</script> -->
 <!-- End GPT Async Tag -->
 
 <script src="https://cdn.broadstreetads.com/init-2.min.js" async=""></script>
@@ -188,8 +190,7 @@ document.addEventListener('broadstreetLoaded', function () {
 <link rel="icon" href="https://www.truthdig.com/wp-content/uploads/2018/01/cropped-truthdig_td_favicon512-192x192.png" sizes="192x192">
 <link rel="apple-touch-icon-precomposed" href="https://www.truthdig.com/wp-content/uploads/2018/01/cropped-truthdig_td_favicon512-180x180.png">
 <meta name="msapplication-TileImage" content="https://www.truthdig.com/wp-content/uploads/2018/01/cropped-truthdig_td_favicon512-270x270.png">
-
-    <script>
+        <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -274,6 +275,7 @@ document.addEventListener('broadstreetLoaded', function () {
 	<li id="menu-item-102272" class="menu-item menu-item-type-taxonomy menu-item-object-bucket menu-item-102272"><a href="https://www.truthdig.com/?bucket=military">Military</a></li>
 	<li id="menu-item-102273" class="menu-item menu-item-type-taxonomy menu-item-object-bucket menu-item-102273"><a href="https://www.truthdig.com/?bucket=national-u-s-a">National (U.S.A.)</a></li>
 	<li id="menu-item-102274" class="menu-item menu-item-type-taxonomy menu-item-object-bucket menu-item-102274"><a href="https://www.truthdig.com/?bucket=politics">Politics</a></li>
+	<li id="menu-item-192594" class="menu-item menu-item-type-taxonomy menu-item-object-bucket menu-item-192594"><a href="https://www.truthdig.com/?bucket=prison">Prison</a></li>
 	<li id="menu-item-102275" class="menu-item menu-item-type-taxonomy menu-item-object-bucket menu-item-102275"><a href="https://www.truthdig.com/?bucket=race">Race</a></li>
 	<li id="menu-item-102276" class="menu-item menu-item-type-taxonomy menu-item-object-bucket menu-item-102276"><a href="https://www.truthdig.com/?bucket=science-technology">Science &amp; Technology</a></li>
 	<li id="menu-item-102277" class="menu-item menu-item-type-taxonomy menu-item-object-bucket menu-item-102277"><a href="https://www.truthdig.com/?bucket=social-issues">Social Issues</a></li>
@@ -326,26 +328,28 @@ document.addEventListener('broadstreetLoaded', function () {
 	<li id="menu-item-103776" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-103776"><a href="/scrapbook">Scrapbook</a></li>
 	<li id="menu-item-154280" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-154280"><a href="https://www.truthdig.com/nominate-a-truthdigger-of-the-week/">Truthdiggers</a></li>
 	<li id="menu-item-154282" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-154282"><a href="https://www.truthdig.com/global-voices/">Global Voices</a></li>
+	<li id="menu-item-191207" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-191207"><a href="https://www.truthdig.com/countering-violence-against-women">Countering Violence Against Women</a></li>
 	<li id="menu-item-103775" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-103775"><a href="/multimedia">Multimedia</a>
 	<ul class="sub-menu">
+		<li id="menu-item-187416" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-187416"><a href="https://www.truthdig.com/photo-essays/">Photo Essays</a></li>
 		<li id="menu-item-103982" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-103982"><a href="https://www.truthdig.com/category/live-at-truthdig/">Videos</a></li>
 		<li id="menu-item-131310" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-131310"><a href="https://www.truthdig.com/category/scheer-intelligence/">Audio</a></li>
 	</ul>
 </li>
 </ul>
 </li>
-<li id="menu-item-5466" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor menu-item-has-children menu-item-5466"><a href="/multimedia">Multimedia</a>
+<li id="menu-item-5466" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5466"><a href="/multimedia">Multimedia</a>
 <ul class="sub-menu">
 	<li id="menu-item-99739" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-99739"><a href="/videos">Videos</a>
 	<ul class="sub-menu">
 		<li id="menu-item-107982" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-107982"><a href="https://www.truthdig.com/category/live-at-truthdig/">Live at Truthdig</a></li>
 	</ul>
 </li>
-	<li id="menu-item-99738" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-99738"><a href="/cartoons">Cartoons</a>
+	<li id="menu-item-99738" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-99738"><a href="/cartoons">Cartoons</a>
 	<ul class="sub-menu">
 		<li id="menu-item-107698" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-107698"><a href="https://www.truthdig.com/category/animations/">Animations</a></li>
 		<li id="menu-item-130608" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-130608"><a href="https://www.truthdig.com/category/holiday-animation/">Holiday Animations</a></li>
-		<li id="menu-item-105748" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-105748"><a href="https://www.truthdig.com/author/mr_fish/">Mr. Fish</a></li>
+		<li id="menu-item-105748" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-105748"><a href="https://www.truthdig.com/author/mr_fish/">Mr. Fish</a></li>
 		<li id="menu-item-107983" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-107983"><a href="https://www.truthdig.com/author/mark_fiore/">Mark Fiore</a></li>
 		<li id="menu-item-105749" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-105749"><a href="https://www.truthdig.com/author/jeff_danziger/">Jeff Danziger</a></li>
 		<li id="menu-item-105745" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-105745"><a href="https://www.truthdig.com/author/mike_luckovich/">Mike Luckovich</a></li>
@@ -355,12 +359,7 @@ document.addEventListener('broadstreetLoaded', function () {
 	<li id="menu-item-116376" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-116376"><a href="https://www.truthdig.com/photo-essays/">Photo Essays</a></li>
 </ul>
 </li>
-<li id="menu-item-5485" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5485"><a href="http://freshstore.truthdig.com/">Shop</a>
-<ul class="sub-menu">
-	<li id="menu-item-102252" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-102252"><a href="http://freshstore.truthdig.com/">Bazaar</a></li>
-	<li id="menu-item-102253" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-102253"><a href="http://www.cafepress.com/truthdig">Truthdig Merchandise</a></li>
-</ul>
-</li>
+<li id="menu-item-5485" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5485"><a href="http://freshstore.truthdig.com/">Shop</a></li>
 <li id="menu-item-28" class="menu-item--donate menu-item menu-item-type-post_type menu-item-object-page menu-item-28"><a href="https://www.truthdig.com/donate/">Donate</a></li>
 </ul></nav>    <!-- end:all nav -->
 </div>
@@ -396,6 +395,7 @@ document.addEventListener('broadstreetLoaded', function () {
 	<li id="menu-item-102272" class="menu-item menu-item-type-taxonomy menu-item-object-bucket menu-item-102272"><a href="https://www.truthdig.com/?bucket=military">Military</a></li>
 	<li id="menu-item-102273" class="menu-item menu-item-type-taxonomy menu-item-object-bucket menu-item-102273"><a href="https://www.truthdig.com/?bucket=national-u-s-a">National (U.S.A.)</a></li>
 	<li id="menu-item-102274" class="menu-item menu-item-type-taxonomy menu-item-object-bucket menu-item-102274"><a href="https://www.truthdig.com/?bucket=politics">Politics</a></li>
+	<li id="menu-item-192594" class="menu-item menu-item-type-taxonomy menu-item-object-bucket menu-item-192594"><a href="https://www.truthdig.com/?bucket=prison">Prison</a></li>
 	<li id="menu-item-102275" class="menu-item menu-item-type-taxonomy menu-item-object-bucket menu-item-102275"><a href="https://www.truthdig.com/?bucket=race">Race</a></li>
 	<li id="menu-item-102276" class="menu-item menu-item-type-taxonomy menu-item-object-bucket menu-item-102276"><a href="https://www.truthdig.com/?bucket=science-technology">Science &amp; Technology</a></li>
 	<li id="menu-item-102277" class="menu-item menu-item-type-taxonomy menu-item-object-bucket menu-item-102277"><a href="https://www.truthdig.com/?bucket=social-issues">Social Issues</a></li>
@@ -426,6 +426,7 @@ document.addEventListener('broadstreetLoaded', function () {
 	<li id="menu-item-103776" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-103776"><a href="/scrapbook">Scrapbook</a></li>
 	<li id="menu-item-154280" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-154280"><a href="https://www.truthdig.com/nominate-a-truthdigger-of-the-week/">Truthdiggers</a></li>
 	<li id="menu-item-154282" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-154282"><a href="https://www.truthdig.com/global-voices/">Global Voices</a></li>
+	<li id="menu-item-191207" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-191207"><a href="https://www.truthdig.com/countering-violence-against-women">Countering Violence Against Women</a></li>
 	<li id="menu-item-103775" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-103775"><a href="/multimedia">Multimedia</a></li>
 </ul>
 </li>
@@ -437,12 +438,7 @@ document.addEventListener('broadstreetLoaded', function () {
 	<li id="menu-item-116376" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-116376"><a href="https://www.truthdig.com/photo-essays/">Photo Essays</a></li>
 </ul>
 </li>
-<li id="menu-item-5485" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5485"><a href="http://freshstore.truthdig.com/">Shop</a>
-<ul class="sub-menu">
-	<li id="menu-item-102252" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-102252"><a href="http://freshstore.truthdig.com/">Bazaar</a></li>
-	<li id="menu-item-102253" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-102253"><a href="http://www.cafepress.com/truthdig">Truthdig Merchandise</a></li>
-</ul>
-</li>
+<li id="menu-item-5485" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5485"><a href="http://freshstore.truthdig.com/">Shop</a></li>
 <li id="menu-item-28" class="menu-item--donate menu-item menu-item-type-post_type menu-item-object-page menu-item-28"><a href="https://www.truthdig.com/donate/">Donate</a></li>
 </ul></nav></div>
 <!-- end:rasp nav -->
@@ -452,10 +448,13 @@ document.addEventListener('broadstreetLoaded', function () {
 
     <!-- start:header -->
     <header id="header" class="header header--site">
-
-        <!-- <div id="header-ad" class="header__ad">
-
-        </div> -->
+                        <div id="masthead-ad" class="masthead__ad">
+            <broadstreet-zone zone-id="66566"></broadstreet-zone>
+        </div>
+        
+<!--        <div id="header-ad" class="header__ad">-->
+<!---->
+<!--        </div>-->
 
         <div id="header-top" class="header__top">
             <div class="wrapper">
@@ -463,19 +462,19 @@ document.addEventListener('broadstreetLoaded', function () {
 
                     <div class="header__left">
                         <div class="header__date">
-                            <time datetime="2018-06-24">June 24, 2018</time>
+                            <time datetime="2018-12-30">December 30, 2018</time>
                         </div>
 
                         <div class="header__newsletter">
                             <p>Truthdig newsletter</p>
-                            <iframe src="https://support.truthdig.com/p/salsa/web/common/public/signup?signup_page_KEY=7426" id="iFrameResizer1" scrolling="no" style="margin-bottom:-15px; border:none; overflow: hidden; max-height: 50px; height: 95px; width: 100%;"></iframe>
+                            <iframe src="https://truthdig.wiredforchange.com/o/5225/p/salsa/web/common/public/signup?signup_page_KEY=7426" id="iFrameResizer1" scrolling="no" style="margin-bottom:-15px; border:none; overflow: hidden; max-height: 50px; height: 95px; width: 100%;"></iframe>
                         </div>
                     </div>
 
                     <div class="header__tablet-left">
                         <div class="header__login">
-                            <a href="https://www.truthdig.com/subscribe/" class="">Subscribe</a><a href="#" data-modal-id="login-modal" class="js-am2-modal-open">Login</a>
-                        </div>
+                                                            <a href="https://www.truthdig.com/subscribe/" class="">Subscribe</a><a href="#" data-modal-id="login-modal" class="js-am2-modal-open">Login</a>
+                                                    </div>
                     </div>
 
                                         <h1 class="logo">
@@ -562,32 +561,33 @@ document.addEventListener('broadstreetLoaded', function () {
                         <!-- end:all menu button -->
 
                         <!-- start:main nav -->
-                        <nav id="main-nav" class="main-navigation"><ul id="menu-main-menu" class="menu menu--main-menu clearfix"><li id="menu-item-32" class="menu-item--news menu-item--double menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-32"><a href="https://www.truthdig.com/news/">News</a>
+                        <nav id="main-nav" class="main-navigation"><ul id="menu-main-menu-1" class="menu menu--main-menu clearfix"><li class="menu-item--news menu-item--double menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-32"><a href="https://www.truthdig.com/news/">News</a>
 <ul class="sub-menu">
-	<li id="menu-item-102721" class="menu-item menu-item-type-taxonomy menu-item-object-bucket menu-item-102721"><a href="https://www.truthdig.com/?bucket=activism">Activism</a></li>
-	<li id="menu-item-102264" class="menu-item menu-item-type-taxonomy menu-item-object-bucket menu-item-102264"><a href="https://www.truthdig.com/?bucket=belief-religion">Belief &amp; Religion</a></li>
-	<li id="menu-item-102265" class="menu-item menu-item-type-taxonomy menu-item-object-bucket menu-item-102265"><a href="https://www.truthdig.com/?bucket=economy-business">Economy &amp; Business</a></li>
-	<li id="menu-item-102266" class="menu-item menu-item-type-taxonomy menu-item-object-bucket menu-item-102266"><a href="https://www.truthdig.com/?bucket=education">Education</a></li>
-	<li id="menu-item-102281" class="menu-item menu-item-type-taxonomy menu-item-object-bucket menu-item-102281"><a href="https://www.truthdig.com/?bucket=environment">Environment</a></li>
-	<li id="menu-item-102267" class="menu-item menu-item-type-taxonomy menu-item-object-bucket menu-item-102267"><a href="https://www.truthdig.com/?bucket=health">Health</a></li>
-	<li id="menu-item-102268" class="menu-item menu-item-type-taxonomy menu-item-object-bucket menu-item-102268"><a href="https://www.truthdig.com/?bucket=immigration">Immigration</a></li>
-	<li id="menu-item-102269" class="menu-item menu-item-type-taxonomy menu-item-object-bucket menu-item-102269"><a href="https://www.truthdig.com/?bucket=international">International</a></li>
-	<li id="menu-item-102270" class="menu-item menu-item-type-taxonomy menu-item-object-bucket menu-item-102270"><a href="https://www.truthdig.com/?bucket=lgbtq">LGBTQ</a></li>
-	<li id="menu-item-102271" class="menu-item menu-item-type-taxonomy menu-item-object-bucket menu-item-102271"><a href="https://www.truthdig.com/?bucket=media">Media</a></li>
-	<li id="menu-item-102272" class="menu-item menu-item-type-taxonomy menu-item-object-bucket menu-item-102272"><a href="https://www.truthdig.com/?bucket=military">Military</a></li>
-	<li id="menu-item-102273" class="menu-item menu-item-type-taxonomy menu-item-object-bucket menu-item-102273"><a href="https://www.truthdig.com/?bucket=national-u-s-a">National (U.S.A.)</a></li>
-	<li id="menu-item-102274" class="menu-item menu-item-type-taxonomy menu-item-object-bucket menu-item-102274"><a href="https://www.truthdig.com/?bucket=politics">Politics</a></li>
-	<li id="menu-item-102275" class="menu-item menu-item-type-taxonomy menu-item-object-bucket menu-item-102275"><a href="https://www.truthdig.com/?bucket=race">Race</a></li>
-	<li id="menu-item-102276" class="menu-item menu-item-type-taxonomy menu-item-object-bucket menu-item-102276"><a href="https://www.truthdig.com/?bucket=science-technology">Science &amp; Technology</a></li>
-	<li id="menu-item-102277" class="menu-item menu-item-type-taxonomy menu-item-object-bucket menu-item-102277"><a href="https://www.truthdig.com/?bucket=social-issues">Social Issues</a></li>
-	<li id="menu-item-102278" class="menu-item menu-item-type-taxonomy menu-item-object-bucket menu-item-102278"><a href="https://www.truthdig.com/?bucket=sports">Sports</a></li>
-	<li id="menu-item-102279" class="menu-item menu-item-type-taxonomy menu-item-object-bucket menu-item-102279"><a href="https://www.truthdig.com/?bucket=surveillance">Surveillance</a></li>
-	<li id="menu-item-102280" class="menu-item menu-item-type-taxonomy menu-item-object-bucket menu-item-102280"><a href="https://www.truthdig.com/?bucket=women">Women</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-bucket menu-item-102721"><a href="https://www.truthdig.com/?bucket=activism">Activism</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-bucket menu-item-102264"><a href="https://www.truthdig.com/?bucket=belief-religion">Belief &amp; Religion</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-bucket menu-item-102265"><a href="https://www.truthdig.com/?bucket=economy-business">Economy &amp; Business</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-bucket menu-item-102266"><a href="https://www.truthdig.com/?bucket=education">Education</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-bucket menu-item-102281"><a href="https://www.truthdig.com/?bucket=environment">Environment</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-bucket menu-item-102267"><a href="https://www.truthdig.com/?bucket=health">Health</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-bucket menu-item-102268"><a href="https://www.truthdig.com/?bucket=immigration">Immigration</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-bucket menu-item-102269"><a href="https://www.truthdig.com/?bucket=international">International</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-bucket menu-item-102270"><a href="https://www.truthdig.com/?bucket=lgbtq">LGBTQ</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-bucket menu-item-102271"><a href="https://www.truthdig.com/?bucket=media">Media</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-bucket menu-item-102272"><a href="https://www.truthdig.com/?bucket=military">Military</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-bucket menu-item-102273"><a href="https://www.truthdig.com/?bucket=national-u-s-a">National (U.S.A.)</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-bucket menu-item-102274"><a href="https://www.truthdig.com/?bucket=politics">Politics</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-bucket menu-item-192594"><a href="https://www.truthdig.com/?bucket=prison">Prison</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-bucket menu-item-102275"><a href="https://www.truthdig.com/?bucket=race">Race</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-bucket menu-item-102276"><a href="https://www.truthdig.com/?bucket=science-technology">Science &amp; Technology</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-bucket menu-item-102277"><a href="https://www.truthdig.com/?bucket=social-issues">Social Issues</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-bucket menu-item-102278"><a href="https://www.truthdig.com/?bucket=sports">Sports</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-bucket menu-item-102279"><a href="https://www.truthdig.com/?bucket=surveillance">Surveillance</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-bucket menu-item-102280"><a href="https://www.truthdig.com/?bucket=women">Women</a></li>
 </ul>
 </li>
-<li id="menu-item-5464" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5464"><a href="/opinion">Opinion</a>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5464"><a href="/opinion">Opinion</a>
 <ul class="sub-menu">
-	<li id="menu-item-102237" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-102237"><a href="https://www.truthdig.com/category/columns/">Columnists</a>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-102237"><a href="https://www.truthdig.com/category/columns/">Columnists</a>
 	<ul class="sub-menu">
 		<li id="menu-item-103525" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-103525"><a href="https://www.truthdig.com/author/bill_blum/">Bill Blum</a></li>
 		<li id="menu-item-103526" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-103526"><a href="https://www.truthdig.com/author/bill_boyarsky/">Bill Boyarsky</a></li>
@@ -605,20 +605,20 @@ document.addEventListener('broadstreetLoaded', function () {
 </li>
 </ul>
 </li>
-<li id="menu-item-5468" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5468"><a href="/group/ear-to-the-ground/">Ear to the Ground</a></li>
-<li id="menu-item-103980" class="menu-item menu-item-type-taxonomy menu-item-object-group menu-item-has-children menu-item-103980"><a href="https://www.truthdig.com/group/arts-and-culture/">Arts &amp; Culture</a>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5468"><a href="/group/ear-to-the-ground/">Ear to the Ground</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-group menu-item-has-children menu-item-103980"><a href="https://www.truthdig.com/group/arts-and-culture/">Arts &amp; Culture</a>
 <ul class="sub-menu">
-	<li id="menu-item-102259" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-102259"><a href="https://www.truthdig.com/category/book-excerpt/">Book Excerpts</a></li>
-	<li id="menu-item-102260" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-102260"><a href="https://www.truthdig.com/category/book-review/">Book Reviews</a></li>
-	<li id="menu-item-102261" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-102261"><a href="https://www.truthdig.com/category/film-review/">Film Features &amp; Reviews</a></li>
-	<li id="menu-item-126194" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-126194"><a href="https://www.truthdig.com/category/in-the-news/">A&amp;C News</a></li>
-	<li id="menu-item-102511" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-102511"><a href="https://www.truthdig.com/category/visual-arts/">Visual Arts</a></li>
-	<li id="menu-item-102262" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-102262"><a href="https://www.truthdig.com/category/poetry/">Poetry</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-102259"><a href="https://www.truthdig.com/category/book-excerpt/">Book Excerpts</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-102260"><a href="https://www.truthdig.com/category/book-review/">Book Reviews</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-102261"><a href="https://www.truthdig.com/category/film-review/">Film Features &amp; Reviews</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-126194"><a href="https://www.truthdig.com/category/in-the-news/">A&amp;C News</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-102511"><a href="https://www.truthdig.com/category/visual-arts/">Visual Arts</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-102262"><a href="https://www.truthdig.com/category/poetry/">Poetry</a></li>
 </ul>
 </li>
-<li id="menu-item-5469" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5469"><a href="/td-originals">TD Originals</a>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5469"><a href="/td-originals">TD Originals</a>
 <ul class="sub-menu">
-	<li id="menu-item-103774" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-103774"><a href="#">Articles</a>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-103774"><a href="#">Articles</a>
 	<ul class="sub-menu">
 		<li id="menu-item-129657" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-129657"><a href="https://www.truthdig.com/group/opinion/?bucket=td-originals">Opinion</a></li>
 		<li id="menu-item-129699" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-129699"><a href="https://www.truthdig.com/group/ear-to-the-ground/?bucket=td-originals">Ear to the ground</a></li>
@@ -626,25 +626,27 @@ document.addEventListener('broadstreetLoaded', function () {
 		<li id="menu-item-103781" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-103781"><a href="https://www.truthdig.com/dig/">Digs</a></li>
 	</ul>
 </li>
-	<li id="menu-item-103776" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-103776"><a href="/scrapbook">Scrapbook</a></li>
-	<li id="menu-item-154280" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-154280"><a href="https://www.truthdig.com/nominate-a-truthdigger-of-the-week/">Truthdiggers</a></li>
-	<li id="menu-item-154282" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-154282"><a href="https://www.truthdig.com/global-voices/">Global Voices</a></li>
-	<li id="menu-item-103775" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-103775"><a href="/multimedia">Multimedia</a>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-103776"><a href="/scrapbook">Scrapbook</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-154280"><a href="https://www.truthdig.com/nominate-a-truthdigger-of-the-week/">Truthdiggers</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-154282"><a href="https://www.truthdig.com/global-voices/">Global Voices</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-191207"><a href="https://www.truthdig.com/countering-violence-against-women">Countering Violence Against Women</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-103775"><a href="/multimedia">Multimedia</a>
 	<ul class="sub-menu">
+		<li id="menu-item-187416" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-187416"><a href="https://www.truthdig.com/photo-essays/">Photo Essays</a></li>
 		<li id="menu-item-103982" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-103982"><a href="https://www.truthdig.com/category/live-at-truthdig/">Videos</a></li>
 		<li id="menu-item-131310" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-131310"><a href="https://www.truthdig.com/category/scheer-intelligence/">Audio</a></li>
 	</ul>
 </li>
 </ul>
 </li>
-<li id="menu-item-5466" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5466"><a href="/multimedia">Multimedia</a>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5466"><a href="/multimedia">Multimedia</a>
 <ul class="sub-menu">
-	<li id="menu-item-99739" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-99739"><a href="/videos">Videos</a>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-99739"><a href="/videos">Videos</a>
 	<ul class="sub-menu">
 		<li id="menu-item-107982" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-107982"><a href="https://www.truthdig.com/category/live-at-truthdig/">Live at Truthdig</a></li>
 	</ul>
 </li>
-	<li id="menu-item-99738" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-99738"><a href="/cartoons">Cartoons</a>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-99738"><a href="/cartoons">Cartoons</a>
 	<ul class="sub-menu">
 		<li id="menu-item-107698" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-107698"><a href="https://www.truthdig.com/category/animations/">Animations</a></li>
 		<li id="menu-item-130608" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-130608"><a href="https://www.truthdig.com/category/holiday-animation/">Holiday Animations</a></li>
@@ -654,17 +656,12 @@ document.addEventListener('broadstreetLoaded', function () {
 		<li id="menu-item-105745" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-105745"><a href="https://www.truthdig.com/author/mike_luckovich/">Mike Luckovich</a></li>
 	</ul>
 </li>
-	<li id="menu-item-134353" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-134353"><a href="https://www.truthdig.com/td-audio/">Audio</a></li>
-	<li id="menu-item-116376" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-116376"><a href="https://www.truthdig.com/photo-essays/">Photo Essays</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-134353"><a href="https://www.truthdig.com/td-audio/">Audio</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-116376"><a href="https://www.truthdig.com/photo-essays/">Photo Essays</a></li>
 </ul>
 </li>
-<li id="menu-item-5485" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5485"><a href="http://freshstore.truthdig.com/">Shop</a>
-<ul class="sub-menu">
-	<li id="menu-item-102252" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-102252"><a href="http://freshstore.truthdig.com/">Bazaar</a></li>
-	<li id="menu-item-102253" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-102253"><a href="http://www.cafepress.com/truthdig">Truthdig Merchandise</a></li>
-</ul>
-</li>
-<li id="menu-item-28" class="menu-item--donate menu-item menu-item-type-post_type menu-item-object-page menu-item-28"><a href="https://www.truthdig.com/donate/">Donate</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5485"><a href="http://freshstore.truthdig.com/">Shop</a></li>
+<li class="menu-item--donate menu-item menu-item-type-post_type menu-item-object-page menu-item-28"><a href="https://www.truthdig.com/donate/">Donate</a></li>
 </ul></nav>                        <!-- end:main nav -->
 
                         <a href="#" class="menu-search js-am2-modal-open" data-modal-id="search-modal" onclick="$('#s2').focus();">
@@ -689,8 +686,8 @@ document.addEventListener('broadstreetLoaded', function () {
                     <h2 class="header__welcome">Welcome</h2>
 
                     <div class="header__login">
-                        <a href="https://www.truthdig.com/subscribe/" class="">Subscribe</a><a href="#" data-modal-id="login-modal" class="js-am2-modal-open">Login</a>
-                    </div>
+                                                    <a href="https://www.truthdig.com/subscribe/" class="">Subscribe</a><a href="#" data-modal-id="login-modal" class="js-am2-modal-open">Login</a>
+                                            </div>
 
                 </div>
             </div>
@@ -773,7 +770,10 @@ document.addEventListener('broadstreetLoaded', function () {
 	</div>
 	<!-- end:content -->
 
-			<!-- start:footer -->
+			            <div id="footer-ad" class="footer__ad">
+                <broadstreet-zone zone-id="66568"></broadstreet-zone>
+            </div>
+                        <!-- start:footer -->
 			<footer id="footer" class="footer">
 
 				<div class="footer__nav">
@@ -797,7 +797,7 @@ document.addEventListener('broadstreetLoaded', function () {
 						<div class="wrapper">
 							<div class="container clearfix">
 
-								<p>An Independent Journal of News and Opinion. Publisher, Zuade Kaufman, and Editor in Chief, Robert Scheer.</p>
+								<p>An Independent, Progressive Journal of News and Opinion. Publisher, Zuade Kaufman, and Editor in Chief, Robert Scheer.</p>
 <p>All content © 2018 Truthdig, LLC. All rights reserved.</p>
 
 							</div>
@@ -824,9 +824,7 @@ document.addEventListener('broadstreetLoaded', function () {
                     Personalize your Truthdig experience. Choose authors to follow, bookmark your favorite articles and more.
                 </div>
             
-                            <div id="js-modal-message-login" class="am2-modal__message">
-                    Your Truthdig, your way. Access your favorite authors, articles and more.
-                </div>
+                            <div id="js-modal-message-login" class="am2-modal__message">As a security measure, we ask that you <a href="https://www.truthdig.com/wp-login.php?action=lostpassword">reset your password</a> for the Truthdig site. <br> Thank you!</div>
             
             
 <div id="am2-tabs-modalLogin" class="am2-tabs">
@@ -983,7 +981,6 @@ document.addEventListener('broadstreetLoaded', function () {
             
             <form role="search" method="get" id="searchform-modal" class="searchform-modal" action="https://www.truthdig.com/">
 	<input type="text" value="" placeholder="Search by topic, author or tag" name="s" id="s2">
-    <input type="hidden" name="orderby" value="newest">
 	<button type="submit" id="searchsubmit2">
 		<svg>
 			<use xlink:href="https://www.truthdig.com/wp-content/themes/am2/assets/images/sprite.svg#icon--search"></use>
@@ -1067,8 +1064,171 @@ document.addEventListener('broadstreetLoaded', function () {
 				</svg>
 			</a>
 			<!-- end:back to top -->
-                        <a href="#" style="display: none;" class="js-am2-modal-open" data-modal-id="am2-modal__site-wide">Login modal</a>
+            <div id="am2-modal__site-wide" class="am2-modal am2-modal__site-wide" data-state="0">
 
+    <div class="am2-modal__overlay js-am2-modal-close"></div>
+
+    <div class="am2-modal__wrapper">
+
+        <div class="am2-modal__content">
+
+            <span class="am2-modal__close js-am2-modal-close"></span>
+
+            <p class="modal_title">Catch Truthdig's on-the-ground reporting from the U.S.-Mexico Border.  
+
+            <a href="https://www.truthdig.com/photo-essays/migrants-spend-the-holidays-in-limbo-at-the-u-s-mexico-border-photo-essay/" target="_blank" class="popup-btn">View Photo Essay</a></p>
+
+
+
+
+        </div>
+
+    </div>
+
+</div>
+
+<script>
+    $( document ).ready( function() {
+        var args = {
+            "blockId": "am2-modal__site-wide"
+        };
+        am2.main.am2Modal( args );
+    });
+</script>                    <style>
+                        /* Modal Box Content CSS */
+.am2-modal.am2-modal__site-wide .am2-modal__content {
+    background: transparent;
+    border: 0;
+    max-width: 630px;
+    min-height: 579px;
+    background-image: url(https://www.truthdig.com/wp-content/uploads/2018/12/20181218_td_gfm_popup_bk.jpg);
+    background-repeat: no-repeat;
+    padding: 0 !important;
+    margin: 80px 0 0 0;
+    background-size: 100%;
+}    
+/* Button Close CSS */
+.am2-modal.am2-modal__site-wide .am2-modal__close {
+	background: #FFF;
+    border-radius: 100%;
+    width: 45px;
+    height: 45px;
+    top: 0px;
+    right: -12px;
+    box-shadow: 0 0 29px 3px rgba(0,0,0,.55);
+}
+
+.am2-modal.am2-modal__site-wide .am2-modal__close:after, .am2-modal.am2-modal__site-wide .am2-modal__close:before {
+    content: " ";
+    position: absolute;
+    display: block;
+    top: 22px;
+    width: 45%;
+    border-top: 3px solid #000;
+    transition: all .3s ease 0s;
+    left: 12px;
+}
+.am2-modal.am2-modal__side-wide .am2-modal__overlay {
+  	background: #ffffff;
+}
+/* Logo size */
+.am2-modal.am2-modal__site-wide .am2-modal__content .am2-modal__logo {
+	max-width: 317px;
+}
+    
+/* modal text */
+.am2-modal.am2-modal__site-wide .am2-modal__content p.modal_title {
+    color: transparent;
+    font-size: 30px;
+    line-height: normal;
+    margin: 0 auto;
+    text-align: left;
+    font-weight: bold;
+    font-style: normal;
+    font-family: "Book Antiqua", serif;
+    /* width: 95%; */
+    display: block;
+    position: absolute;
+    top: 405px;
+    /* text-transform: uppercase; */
+    text-align: center;
+    /* background: #2e373a; */
+  	letter-spacing: .06em;
+}
+.am2-modal.am2-modal__site-wide .am2-modal__content p.modal_title span {
+	color: #A22626;
+}
+.am2-modal.am2-modal__site-wide .am2-modal__content p.modal_title a.popup-btn:after {
+	content: " ";
+	display: block;
+	height: 15px !important;
+}
+/* Modal Button */
+.am2-modal.am2-modal__site-wide .am2-modal__content p.modal_title a.popup-btn {
+    display: block;
+    height: 47px;
+    line-height: 47px;
+    margin: 30px auto 20px;
+    padding: 0 30px;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    text-transform: uppercase;
+    font-weight: 600;
+    text-decoration: none;
+    font-family: "ProximaNova", sans-serif;
+    letter-spacing: 1px;
+    border-radius: 25px;
+    background-color: #da7214;
+    max-width: 450px;
+}
+.am2-modal.am2-modal__site-wide .am2-modal__content p.modal_title a.popup-btn:hover {
+  font-size: 34px;
+  font-weight: 700;
+}
+/* Modal Regular Text */
+.am2-modal.am2-modal__site-wide .am2-modal__content p.modal_title.no_italic {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+}
+.am2-modal__overlay { background: #c0c0c0 !important; }
+.am2-modal__wrapper:before { height: 50% !important; }
+
+/* Mobile CSS */
+@media only screen and (max-width: 500px) {
+	.am2-modal.am2-modal__site-wide  p.modal_title {
+        font-size: 24px;
+        line-height: 30px;
+  	}
+  	.am2-modal.am2-modal__site-wide .am2-modal__content {
+  		max-width: 320px !important;
+        /* left: 25%; not needed with footer_ad fix */
+  	}
+  	.am2-modal.am2-modal__site-wide p.modal_title {
+      font-size: 15px !important;
+      line-height: 14px !important;
+      top: 208px !important;
+      width: 100% !important;
+      padding: 0 15px;
+  	}
+  .am2-modal.am2-modal__site-wide .am2-modal__content p.modal_title a.popup-btn {
+      font-size: 18px;
+      margin: 15px auto 0;
+      height: 32px;
+      line-height: 32px;
+  	}  
+  .am2-modal.am2-modal__site-wide .am2-modal__close {
+	/* top: 35px; */
+  }
+}                    </style>
+                                <a href="#" style="display: none;" class="js-am2-modal-open" data-modal-id="am2-modal__site-wide">Login modal</a>
+
+                            <script>
+                    var cookie_hours = 24;
+                    var cookie_name = "2018-caravan-gofundme";
+                </script>
+                <script src="https://www.truthdig.com/wp-content/themes/am2/resources/js/modal-donate.js?v=1546150318"></script>
             		</div>
 		<!-- end:wrapper -->
 
@@ -1100,12 +1260,7 @@ document.addEventListener('broadstreetLoaded', function () {
 		<# } #>
 	</div>
 </script>
-<script>
-		var advanced_ads_ga_UID = '';
-		var advanced_ads_ga_anonymIP = true;
-advanced_ads_check_adblocker=function(t){function e(t){(window.requestAnimationFrame||window.mozRequestAnimationFrame||window.webkitRequestAnimationFrame||function(t){return setTimeout(t,16)}).call(window,t)}var n=[],a=null;return e(function(){var t=document.createElement("div");t.innerHTML="&nbsp;",t.setAttribute("class","ad_unit ad-unit text-ad text_ad pub_300x250"),t.setAttribute("style","width: 1px !important; height: 1px !important; position: absolute !important; left: 0px !important; top: 0px !important; overflow: hidden !important;"),document.body.appendChild(t),e(function(){var e=window.getComputedStyle&&window.getComputedStyle(t),o=e&&e.getPropertyValue("-moz-binding");a=e&&"none"===e.getPropertyValue("display")||"string"==typeof o&&-1!==o.indexOf("about:");for(var i=0;i<n.length;i++)n[i](a);n=[]})}),function(t){if(null===a)return void n.push(t);t(a)}}(),function(){var t=function(t,e){this.name=t,this.UID=e,this.analyticsObject=null;var n=this,a={hitType:"event",eventCategory:"Advanced Ads",eventAction:"AdBlock",eventLabel:"Yes",nonInteraction:!0,transport:"beacon"};this.analyticsObject="string"==typeof GoogleAnalyticsObject&&"function"==typeof window[GoogleAnalyticsObject]&&window[GoogleAnalyticsObject],!1===this.analyticsObject?(!function(t,e,n,a,o,i,d){t.GoogleAnalyticsObject=o,t[o]=t[o]||function(){(t[o].q=t[o].q||[]).push(arguments)},t[o].l=1*new Date,i=e.createElement(n),d=e.getElementsByTagName(n)[0],i.async=1,i.src="https://www.google-analytics.com/analytics.js",d.parentNode.insertBefore(i,d)}(window,document,"script",0,"_advads_ga"),_advads_ga("create",n.UID,"auto",this.name),advanced_ads_ga_anonymIP&&_advads_ga("set","anonymizeIp",!0),_advads_ga(n.name+".send",a)):(window.console&&window.console.log("Advanced Ads Analytics >> using other's variable named `"+GoogleAnalyticsObject+"`"),window[GoogleAnalyticsObject]("create",n.UID,"auto",this.name),window[GoogleAnalyticsObject]("set","anonymizeIp",!0),window[GoogleAnalyticsObject](n.name+".send",a))};advanced_ads_check_adblocker(function(e){e&&"string"==typeof advanced_ads_ga_UID&&advanced_ads_ga_UID&&new t("advadsTracker",advanced_ads_ga_UID)})}();
-		
-		</script>	    <div id="preloader_overlay">
+	    <div id="preloader_overlay">
 	    <div id="preloader_wrap">
 	    <div id="preloader_1">
 	        <span></span>
@@ -1116,32 +1271,81 @@ advanced_ads_check_adblocker=function(t){function e(t){(window.requestAnimationF
 	    </div>
 	    </div>
 	    </div>
-	    <div class="ad_unit ad-unit text-ad text_ad pub_300x250" style="width: 1px !important; height: 1px !important; position: absolute !important; left: 0px !important; top: 0px !important; overflow: hidden !important;">&nbsp;</div><script type="text/javascript">
+	    	<script>
+      function TenUpGetCookie (cname) {
+        var name = cname + '='
+        var decodedCookie = decodeURIComponent(document.cookie)
+        var ca = decodedCookie.split(';')
+        for (var i = 0; i < ca.length; i++) {
+          var c = ca[i]
+          while (c.charAt(0) == ' ') {
+            c = c.substring(1)
+          }
+          if (c.indexOf(name) == 0) {
+            return c.substring(name.length, c.length)
+          }
+        }
+        return ''
+      }
+
+
+              window.onload = function () {
+          var modal_message = document.getElementById('js-modal-message-login')
+          if ('' === TenUpGetCookie('resetMyPass')) {
+            modal_message.innerHTML = 'As a security measure, we ask that you <a href="https://www.truthdig.com/wp-login.php?action=lostpassword">reset your password</a> for the Truthdig site. <br> Thank you!'
+          }
+        }
+      
+	</script>
+	<script type="text/javascript">
 /* <![CDATA[ */
 var wpcf7 = {"apiSettings":{"root":"https:\/\/www.truthdig.com\/api\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"cached":"1"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://www.truthdig.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.2"></script>
-<script type="text/javascript" src="https://www.truthdig.com/wp-content/themes/am2/resources/js/twig.js?ver=1529822670"></script>
+<script type="text/javascript" src="https://www.truthdig.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.5"></script>
+<script type="text/javascript" src="https://www.truthdig.com/wp-content/themes/am2/resources/js/twig.js?ver=1546150318"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var truthdig = {"ajaxurl":"https:\/\/www.truthdig.com\/wp-admin\/admin-ajax.php","nonce":"a2db6db246"};
+var truthdig = {"ajaxurl":"https:\/\/www.truthdig.com\/wp-admin\/admin-ajax.php","nonce":"9dfe887ac9"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://www.truthdig.com/wp-content/themes/am2/assets/build/am2-functions.min.d371ccd5.js"></script>
+<script type="text/javascript" src="https://www.truthdig.com/wp-content/themes/am2/assets/build/am2-functions.min.95ed7b65.js"></script>
 <script type="text/javascript" src="https://www.truthdig.com/wp-includes/js/underscore.min.js?ver=1.8.3"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://www.truthdig.com/wp-includes/js/wp-util.min.js?ver=4.9.6"></script>
+<script type="text/javascript" src="https://www.truthdig.com/wp-includes/js/wp-util.min.js?ver=4.9.9"></script>
 <script type="text/javascript" src="https://www.truthdig.com/wp-includes/js/backbone.min.js?ver=1.2.3"></script>
-<script type="text/javascript" src="https://www.truthdig.com/wp-includes/js/mediaelement/wp-playlist.min.js?ver=4.9.6"></script>
-<script type="text/javascript" src="https://www.truthdig.com/wp-includes/js/wp-embed.min.js?ver=4.9.6"></script>
+<script type="text/javascript" src="https://www.truthdig.com/wp-includes/js/mediaelement/wp-playlist.min.js?ver=4.9.9"></script>
+<script type="text/javascript" src="https://www.truthdig.com/wp-content/plugins/elasticpress/features/facets/assets/js/facets.min.js?ver=2.6.1"></script>
+<script type="text/javascript" src="https://www.truthdig.com/wp-includes/js/wp-embed.min.js?ver=4.9.9"></script>
 
-		<!--            <script id="dsq-count-scr" src="//truthdig.disqus.com/count.js" async></script>-->
+		<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-f16N3TodQCbGg"
+});
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-f16N3TodQCbGg.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag --><!--            <script id="dsq-count-scr" src="//truthdig.disqus.com/count.js" async></script>-->
     <script type="text/javascript" src="//cdn4.wibbitz.com/truthdig/embed.js" async=""></script>
-	<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"203e24b636","applicationID":"90994021","transactionName":"NFZVbUZYXUEDVxVdCQ0cdlpAUFxcTUQAUwM=","queueTime":0,"applicationTime":322,"atts":"GBFWGw5CTk8=","errorBeacon":"bam.nr-data.net","agent":""}</script>
-
+	<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"252db97b3e","applicationID":"153879265","transactionName":"YVMDNUUDC0ECUkYMX1gZIhREFgpfTGFTAlU=","queueTime":0,"applicationTime":261,"atts":"TRQUQw0ZGB5BUBBfS0tL","errorBeacon":"bam.nr-data.net","agent":""}</script>
 </body></html>
