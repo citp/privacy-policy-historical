@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stratfor.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624043016id_/https%3A//worldview.stratfor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stratfor.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230035806id_/https%3A//worldview.stratfor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,13 +10,13 @@ Stratfor complies with the Privacy Shield Framework as set forth by the U.S. Dep
 
 We may make content or services from other Web sites, including our affiliated or co-branded Web sites, available to you from links located on the Service. These other Web sites are not subject to this Privacy Policy. We recommend that you review the privacy policy at each such Web site to determine how that site protects your privacy. Stratfor has no control over these Web sites and is not responsible or liable for the policies and practices followed by these other Web sites. The personal data you choose to provide to or that is collected by these other Web sites is not covered by this Privacy Policy.
 
-You can request that we mail you a paper copy of this Privacy Policy by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+You can request that we mail you a paper copy of this Privacy Policy by contacting us at Compliance@Stratfor.com.
 
 ## Information We Collect About You
 
 General: When you subscribe to or otherwise use the Service, sign up to receive emails from us, and at other times, we may ask you to provide us with certain categories of personal information. Personal information is information that could reasonably be used to identify you personally, such as your name, date of birth, age, gender, occupation, industry, interests, e-mail address(es), physical address, telephone number(s), profession, facts about your computers and other devices through which you access the Service, any information we receive from the applicable third parties when you register or otherwise interact with the Service by means of Facebook or other social media, and similar information (collectively, to the extent we collect it from time to time, "Personal Information"). We may collect this information through various forms and in various places, including account registration forms, contact us forms, or when you otherwise interact with us.
 
-Children Under the Age of Thirteen: We do not knowingly collect Personal Information from children under the age of thirteen. By providing any Personal Information to us, you represent and warrant to us that you are at least thirteen years of age. If you are under the age of thirteen, we require that you do not provide any Personal Information to us. If you are the parent or guardian of a child under the age of thirteen, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) so that we may delete that information from our systems.
+Children Under the Age of Thirteen: We do not knowingly collect Personal Information from children under the age of thirteen. By providing any Personal Information to us, you represent and warrant to us that you are at least thirteen years of age. If you are under the age of thirteen, we require that you do not provide any Personal Information to us. If you are the parent or guardian of a child under the age of thirteen, please contact us at Compliance@Stratfor.com so that we may delete that information from our systems.
 
 Credit card information: The credit card information you provide when you subscribe to the Service or renew your subscription is stored and used by our third party credit card processors in order for them to process your subscription payments.
 
@@ -30,7 +30,7 @@ Community Forums: Our Service may include community or user forums, or similar f
 
 Conferences and Other Events: We may invite you to, or you may otherwise participate in, video or telephonic conferences, webinars, or other live or recorded events that we offer. We may share any information you provide when signing up for any such event with other sponsors of the event.
 
-Testimonials: We display personal testimonials of satisfied subscribers on our Web sites from time to time. With your consent, we may post your testimonial along with your name. If you wish to update or delete your testimonial, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Testimonials: We display personal testimonials of satisfied subscribers on our Web sites from time to time. With your consent, we may post your testimonial along with your name. If you wish to update or delete your testimonial, please contact us at Compliance@Stratfor.com.
 
 Contests, Drawings and Sweepstakes: We collect Personal Information from you when you participate in contests, drawings, sweepstakes and other special offers. If this information is also being collected by or shared with a third party other than Stratfor, we will notify you at the same time. If you do not want to provide any Personal Information, you should not participate in the contest, drawing, sweepstakes and other special offer.
 
@@ -46,7 +46,7 @@ We may combine the information that we collect from you with information that yo
 
 Stratfor uses web analytics services (which may include, but are not limited to, Google Analytics and LeadLander) to analyze how users use our Web sites. These services may use javascript, cookies or other tools that include cookies that we place on your computer or mobile device. We and our service providers use these tools to collect information about your usage of our Web sites, such as your IP address, the name of your internet service provider, your operating system and other computer or mobile device information and statistics, the URL for the Web pages you visit and how long you spent on those pages, how you arrived at our pages, and the date and time you visited. The information generated about Web site usage may be transmitted to Google, LeadLander or other service providers and used for a variety of purposes, including, without limitation, to improve our Web sites, prevent fraud, evaluate users’ use of our Web sites, complete statistical reports on Web site and user activity, provide other related services, and enable, improve and support our marketing programs. This information may be stored on servers located in the United States or elsewhere. For more information about Google Analytics or the Google Analytics opt-out browser add-on, go to https://tools.google.com/dlpage/gaoptout. For more information about LeadLander, please go to https://www.leadlander.com/privacy.html.
 
-You are responsible for maintaining the accuracy of the information you submit to us, such as your user preferences and contact information provided as part of subscription registration. If your Personal Information changes, or if you no longer desire our Service, you may correct, delete inaccuracies, or amend information by making the change in your profile on-line, or by contacting us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) We will make good faith efforts to make requested changes in our then active databases as soon as reasonably practicable.
+You are responsible for maintaining the accuracy of the information you submit to us, such as your user preferences and contact information provided as part of subscription registration. If your Personal Information changes, or if you no longer desire our Service, you may correct, delete inaccuracies, or amend information by making the change in your profile on-line, or by contacting us by email at Compliance@Stratfor.com. We will make good faith efforts to make requested changes in our then active databases as soon as reasonably practicable.
 
 We will retain your Personal Information, Survey Information and Usage Information for as long as your account with the Service is active and as needed to provide you the Service. Even after your account is terminated, we will retain your Personal Information, Survey Information and Usage Information as needed to comply with our legal and regulatory obligations, resolve disputes, conclude any activities related to cancellation of an account (such as addressing chargebacks from your credit card companies), investigate or prevent fraud and other inappropriate activity, to enforce our agreements, and for other business reasons as we deem appropriate.
 
@@ -80,7 +80,7 @@ Stratfor complies with the EU-U.S. Privacy Shield Framework as set forth by the 
 
 ## Dispute Resolution
 
-In compliance with the Privacy Shield Principles, Stratfor commits to resolve complaints about our collection or use of your personal information. EU individuals with inquiries or complaints regarding our Privacy Shield policy, including EU individuals, should first contact Stratfor by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+In compliance with the Privacy Shield Principles, Stratfor commits to resolve complaints about our collection or use of your personal information. EU individuals with inquiries or complaints regarding our Privacy Shield policy, including EU individuals, should first contact Stratfor by email at Compliance@Stratfor.com.
 
 Stratfor has further committed to cooperate with the panel established by the EU data protection authorities (DPAs) with regard to unresolved Privacy Shield complaints concerning human resources and non-human resources data transferred from the EU.
 
@@ -88,7 +88,7 @@ In certain circumstances, individuals may be able to invoke binding arbitration 
 
 ## Your Privacy Rights Under California Law
 
-California law permits our customers who are California residents to request certain information regarding our disclosure of Personal Information to third parties for their own direct marketing purposes. To make such a request, please write to us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+California law permits our customers who are California residents to request certain information regarding our disclosure of Personal Information to third parties for their own direct marketing purposes. To make such a request, please write to us at Compliance@Stratfor.com.
 
 ## Additional Technical Information We May Collect
 
@@ -108,11 +108,11 @@ We may change this Privacy Policy from time to time. We will post any changes he
 
 ## Choice/Opt-Out
 
-Stratfor provides its users the opportunity to opt-out of receiving communications from Stratfor and its partners. To remove your information from our database, to not receive future communications or to no longer receive our Service, please send an e-mail request to: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Stratfor provides its users the opportunity to opt-out of receiving communications from Stratfor and its partners. To remove your information from our database, to not receive future communications or to no longer receive our Service, please send an e-mail request to: Compliance@Stratfor.com.
 
 ## Correcting/Updating Your Information
 
-You can change or modify information you previously provided to us by sending an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+You can change or modify information you previously provided to us by sending an email to Compliance@Stratfor.com.
 
 ## Comments and Questions
 
@@ -122,7 +122,7 @@ Chief Compliance Officer Stratfor Enterprises, LLC
 P.O. Box 92529  
 Austin, Texas 78709-2529 USA
 
-Or email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Or email us at Compliance@Stratfor.com.
 
 ## Cookie-Disclosure Statement
 
