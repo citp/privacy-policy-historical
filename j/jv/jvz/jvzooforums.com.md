@@ -1,85 +1,126 @@
-> *The following text is extracted and transformed from the jvzooforums.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231224752id_/https%3A//www.jvzoo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jvzooforums.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231152343id_/https%3A//www.jvzoo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Effective Date: 05-02-2016
+Effective Date: 05-24-2018
 
-## JVZoo is owned and operated by BBC Systems, Inc.
+ **JVZOO PRIVACY POLICY**
 
-**1\. Our Commitment to Privacy.**
+**PLEASE READ THE FOLLOWING PRIVACY POLICY CAREFULLY BEFORE DOWNLOADING, USING, ACCESSING, OR PURCHASING ANY PRODUCT OR SERVICE THROUGH, ANY PART OF THE** **JVZOO WEBSITE OR SERVICES, THE JVZOO AFFILIATE PROGRAM, OR THE JVZOO MOBILE APPLICATION (IF AVAILABLE)**
 
-  Our Privacy Policy is designed to advise you about how we collect, use, and protect the Personally Identifiable Information (hereinafter defined) that you provide to us through our website. By visiting this website, you are accepting the practices described in this Privacy Policy. 
+**I. OVERVIEW**
 
-**2\. What Information is Collected**
+BBC Systems, Inc. ("JVZoo," "us," or "we") respects the privacy of users of JVZoo's website www.JVZoo.com and its related services, including the JVZoo platform and Affiliate Program (the "Website") and the JVZoo Mobile Application (if available) and its services (the "Application") (collectively the Website and the Application are referred to as the "Services"). The following privacy policy (the "Policy") tells you about the information that JVZoo collects through the Services and how JVZoo may use or disclose that collected information.
 
-(a) Information You Provide to Us: 
+By accessing the Services, continuing to access the Services, purchasing any products or services through the Services, downloading and/or using the Application, or submitting any information through the Services, you are consenting to the information collection and use practices described in this Policy, as modified from time to time by us, as described below. Your use of the Services is also governed by the Terms of Service, and may be governed by the Affiliate Agreement or Seller Agreement, all of which are expressly incorporated into this Policy.
 
-We collect the Personally Identifiable Information you choose to enter on various pages of our website, or that you may choose to give us in some other way (such as by email, physical mail, or by telephone). For example, you will be asked to provide Personally Identifiable Information when you register for access to certain portions of our website, sign up for newsletters or mailings, or make a purchase. 
+Sellers, affiliates, and users may collect information from or about other sellers, affiliates, or users outside of the Services. A seller's, affiliate's, or user's collection, use, and disclosure of information will be governed by their own privacy policy.
 
-The types of personal information that we seek to collect from you, for purposes of our website, include your first and last name, e-mail address, physical address, and telephone number, along with any other related relevant information (referred to herein collectively as "Personally Identifiable Information"). 
+**II. UPDATES**
 
-You can choose not to provide certain information, but you may not be able to take advantage of our services and features. 
+JVZoo reserves the right to make changes to this Policy at any time, and will post any revised Policy on this page. You will know we have changed the Policy when you see a new updated date at the top of this Policy. JVZoo will not notify the Services' users of any such changes by email or other personal contact. We encourage you to check the date of this Policy whenever you visit the Services so that you will know when you need to review the Policy for modifications.
 
-(b) Automatic Information: 
+**III. INFORMATION COLLECTION**
 
-When you visit a website, you disclose certain information, such as your Internet Protocol (IP) address and the time of your visit. This site, like many other sites, records this basic information about visits to our site. 
+**Age Restriction.** JVZoo does not intend to use the Services to collect any information from children under age 18. By submitting any information through the Services, you represent and warrant that you are older than age 18.
 
-(c) “Cookies”: 
+**Collection of Submitted Information.** JVZoo may collect and store any information you submit or upload through the Services, whether through your submission of information through a form, purchase of a product, or otherwise. This information may include, but is not limited to, your name, address, email address, telephone number, payment information, or any other information submitted by you or any user through the Services.
 
-Cookies are pieces of information that are transferred to your computer from a web server. 
+**Collection from Third-Parties.** JVZoo may collect information about you from third-parties, including from any account through which you log into, or otherwise interact with, JVZoo (e.g., Facebook or Google). If applicable, JVZoo may have access to certain information from your linked Google or Facebook account, including your public profile information, your email address, or other information possessed by those third-parties. JVZoo may aggregate any information about you collected from any source.
 
-We use cookies to store visitor preferences, record session information (such as items that you add to your shopping cart), record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site, ensure that visitors are not repeatedly sent the same banner ads, and customize Web page content based on visitors' browser type or other information that the visitor sends. 
+**Passive Information Collection.** JVZoo may also collect passive information about your device, visit, or use of the Services, including, but not limited to, the date and time of your visit, the length of your visit, the specific webpages you visited, your IP address, the type of web browser and operating system used, the address of any website that directed you to the Services, and information about your mobile device used to access the Services (including phone number, operating system details, and any applicable unique identifiers for you or your device, including your devices' Unique Device Identifier (UDID), any Apple or iOS identifiers (e.g., IDFA or an Advertising Identifier), any Google or Android identifiers (e.g., Android or Google Advertising ID), any Windows identifiers (e.g., Windows Advertising ID), or any other similar identifiers which identify you or your device). JVZoo may collect and aggregate usage information related to your use of the Services.
 
-Most browsers are set up to accept cookies, but you can change your settings to have your browser notify you when you receive a new cookie. You can also change your settings to refuse to accept cookies. 
+**Cookies and Related Technologies.** We, or other third-parties assisting us, may use cookies, web beacons, local shared objects (sometimes called "flash cookies"), or other similar technology in connection with your use of the Services (collectively, "Cookies"). Cookies are small data files that may have unique identifiers, and reside, among other places, on your computer or mobile device, in emails we send to you, and on our web pages. Cookies may transmit information about you and your use of the Services, such as your browser type, search preferences, data relating to advertisements that have been displayed to you or that you have clicked on, and the date and time of your use. Cookies may track activities over time and across websites. You can disable some (but not all) Cookies in your device or browser settings, but doing so may affect your ability to use the services provided through the Services.
 
-**3\. How and When the Information is Used**
+**Third-Party Vendors and Advertisers.** JVZoo may use third-party vendors or advertisers to collect and analyze information about your use of the Services. These third-parties may use cookies or other similar mechanisms to provide us with information and analysis about your use of the Services. This information collection and analysis allows us to better understand how the Services are being used so that we can strive to provide the most relevant content to our users. These third-parties may collect information about your online activities over time and across different websites. This information may be used to serve interest-based advertisements on our website or other websites across the internet. We may combine information gathered from one or more of these services.
 
- **.** The information we collect is used for administering our business activities as follows: 
+**Analytics Services.** JVZoo may, from time to time, use one or more analytics service providers, including, for example, Google or Facebook. JVZoo may use the following Google analytics features: AdWords, Remarketing, Google Display Network Impression Reporting, DoubleClick, and Google Analytics Demographics and Interest Reporting. We may combine information gathered from one or more of these services.
 
-(a) to improve the content of our website;
+For information on how Google collects and uses the information collected through JVZoo' use of the Google analytics and advertising services, if applicable, see the Google, Inc. Privacy Policy here (https://www.google.com/intl/en/policies/privacy/).
 
-(b) to customize the content and/or layout of website pages for each individual visitor;
+For more information about the Google analytics features used by JVZoo, if applicable, click here (https://support.google.com/analytics/answer/2404395?hl=en&ref_topic=1631776&rd=1).
 
-(c) to notify consumers about updates to our website; and
+For information on how to see and change your Google Ad Settings, click here (https://support.google.com/ads/answer/2662856?hl=en).
 
-(d) to contact consumers for marketing purposes for our own business purposes.
+For information on the use of the Google Analytics Opt-Out Browser Add-On, click here (https://tools.google.com/dlpage/gaoptout/). However, JVZoo does not necessarily endorse this add-on and does not guarantee that using the add-on will be effective.
 
-**4\. How We Protect Your Information.**
+For more information on how Facebook Analytics may collect and use the information collected through JVZoo's use of the Facebook's analytics and advertising services, if applicable, see the Facebook data use policy and related policies here. (https://www.facebook.com/full_data_use_policy).
 
-  The privacy and protection of your information is important to us. We offer some of our services in connection with other websites. The affiliated websites may have different privacy practices, and we encourage you to read their privacy policies. Your access to some services and content is password protected. We advise that you do not disclose your password to anyone. In addition, we recommend you sign out of password-protected services at the end of your session. You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond our control and the control of this policy, and you agree to waive any claim against us for liability arising from the foregoing activities. 
+The Services may, from time to time, also include social media functions allowing you to like or share content on social media platforms like Facebook or Twitter. These features may collect your information through the use of cookies or other technologies. These features may be hosted by a third-party and governed by the third-party's privacy policy.
 
-  Information about our users is important to us. Access to your information may be provided to third parties who help us perform the services on our website and third parties who provide technical support for the operation of our website. In addition, we may sell our business or buy, merge or partner with other companies or businesses. In such transactions, user information may be transferred along with other assets. We may also disclose your information in response to a court order, and we may disclose your information when we believe we are required to do so by law. We may disclose your information in connection with the collection of amounts you may owe to us and to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure. 
+JVZoo does not guarantee that it will take action in response to do-not-track signals or similar mechanisms. Additionally, some third-party service providers may still collect tracking information even if you have enabled your browser's do-not-track functionality or utilized a similar do-not-track mechanism.
 
-**6\. Methods We Use to Protect Your Information.**
+**IV. INFORMATION USE PRACTICES**
 
-  We use security software to protect the confidentiality of your personal information. In addition, our business practices are reviewed periodically for compliance with policies and procedures governing the security and confidentiality of our information. Our business practices limit employee access to confidential information and limit the use and disclosure of such information to authorized persons. 
+JVZoo may use the collected information or data described above, individually or in the aggregate, for any lawful purpose, including, but not limited to, such purposes as connecting sellers, affiliates, and customers, analyzing and tracking user activity on the Services for individual users or for groups of users, tracking and analyzing usage trends, personalizing the Services to better reflect your preferences, serving more relevant advertisements, or enhancing your and other users' use of the Services. All collected information may be linked to specific website users and may result in the tracking of the usage information for individual users.
 
-**7\. Children.**
+**JVZoo may also use your submitted information to contact you, via regular mail, email, text message, telephone, or otherwise, regarding your account, the Services, your purchased services or products, or other relevant or promotional information or offers as determined by JVZoo or its partners. By submitting your contact information to JVZoo or JVZoo' partners, you consent to receiving such communications.**
 
-  This website does not provide services or sell products to children under the age of 18. 
+**V. DISCLOSURE OF INFORMATION**
 
-If we discover we have received any information from a child under the age of 18 in violation of this policy, we will delete that information immediately. If you believe we have received any information from or about anyone under the age of 18, please contact us at the address listed below. 
+Except for the limitations expressly discussed herein, if any, JVZoo may disclose, sell, or transfer any collected information to third-parties for any lawful purpose in our sole discretion.
 
-**8\. How You Can Access Your Information.**
+**Disclosure of Customer, Affiliate, or Seller Information.** JVZoo may disclose any collected information about a customer to all sellers whose products or services the customer purchases and to any affiliates through whom the customer is linked to the seller. JVZoo may disclose any collected information about an affiliate to all sellers whose products or services the affiliate advertises and to any customers that were linked to a seller through the affiliate. JVZoo may disclose any collected information about a seller to any affiliates and to any customers who purchase the seller's products or services. The disclosed information about a customer, affiliate, or seller include, but are not limited to, the person's name, user name, contact information, and information related to any transactions between those persons.
 
-  You can request access to all your Personally Identifiable Information maintained by us by sending an e-mail to us at the address listed below. Upon request we offer you the ability to have inaccuracies corrected in our records of your Personally Identifiable Information. You can have this information corrected by sending us an e-mail at the address listed below. 
+**Third-Party Services.** If you log in to JVZoo through a third-party service like Facebook or Google, then those third-parties may have access to certain information about your use of JVZoo. For more information on the type of information those third-parties may collect about you, please review the privacy policies for those third-parties.
 
-**9\. Consent.**
+**Vendors.** JVZoo may use third-party companies, agents, or contractors to perform services on our behalf. For example, JVZoo may partner with other companies to personalize our web pages, analyze our website or usage information, process payments or credit card transactions, fulfill or ship orders, collect debts, analyze or enhance the data collected by the Services (including user's interaction with the Services), or otherwise assist JVZoo in better serving the Services' users. During the course of providing JVZoo with these services, these third-parties may have access to your personal and non-personal information in order to provide the services we requested from those third-parties.
 
-  By using our website, you consent to the collection and use of your personal information as described in this Privacy Policy. 
+**Affiliates and Marketing.** JVZoo may disclose your collected information, including information about any purchases you make through the Services, to JVZoo' affiliated entities. JVZoo may also disclose your information to third-parties for marketing purposes. These affiliates and third-parties may contact you via any method of contact you provide to JVZoo.
 
-**10.  Use of PayPal**: 
+**Legal Compliance.** JVZoo also reserves the right to disclose personal information when we reasonably believe disclosure is required by law, if we reasonably believe disclosure is necessary to establish or exercise legal rights, or in situations involving potential threats to physical safety.
 
-JVZoo uses PayPal as one of its payment processors. You must agree to PayPal’s Acceptable Use Policy, Terms and Conditions and any other legal requirements of operating a PayPal account. Any information you provide to PayPal is subject to its policies and procedures as outlined in its privacy policy, and we are in no way responsible for PayPal's use of your information or its privacy practices. 
+**Merger or Acquisition.** In the event that JVZoo is acquired by or merged with a third-party, we reserve the right to sell or otherwise transfer any and all information we have collected from you as part of that transaction and such third-party will assume the rights and obligations with respect to that information as described in this Policy.
 
-**11\. Changes to Privacy Policy.**
+**VI. THIRD-PARTY LINKS**
 
-  If our Privacy Policy or procedures change, we will post those changes to our website. Any such changes will be effective immediately upon being posted, unless otherwise stated. 
+The Services may contain links to websites not owned or controlled by JVZoo. JVZoo does not necessarily review or endorse the content of these linked websites. You should review the terms of service and privacy policies of all websites you visit.
 
-**12\. Effective Date.**
+**VII. SECURITY**
 
- This Privacy Policy is effective as of July 25, 2012.
+We use commercially reasonable efforts to protect the information we collect on the Services. Unfortunately, however, no security system can be guaranteed to be 100% effective. Accordingly, we cannot and do not guarantee the security of your personal information and cannot assume liability for improper access to it. Do not submit confidential information through the Services.
 
-**13\. Contact E-Mail.**
+You are responsible for restricting access to your computer or mobile device through which you access the Services. Users of public or shared computers or unprotected mobile devices should log out at the completion of each visit to our Services. By using the Services, or providing personal information to us through any means, you agree that we can communicate with you electronically regarding security, privacy, and administrative issues relating to your use of these Services.
 
-  You may contact us concerning this Privacy Policy at the following e-mail address: support (at) jvzoo.com 
+**VIII. DATA RETENTION**
+
+JVZoo may retain the personal and non-personal information or other collected data, individually or in the aggregate, as described above, after you delete your account or have ceased using the Services. However, JVZoo does not guarantee that any information will continue to be available after such deletion or cessation.
+
+**IX. VIEWING AND UPDATING INFORMATION**
+
+You are responsible for updating and maintaining the accuracy of your personal information that you provide to or through the Services. If you believe you have submitted inaccurate information through the Services, and would like JVZoo to change such information, please contact JVZoo at the address below.
+
+**X. CONTACT**
+
+If you have questions concerning this Privacy Policy, please contact JVZoo at the following address:
+
+BBC Systems Inc.
+
+1945 W. County Road 419
+
+Suite 1141-212
+
+Oviedo, FL 32766
+
+support[at]JVZoo.com
+
+**XI. DESIGNATED GDPR ARTICLE 27 EU REPRESENTATIVE**
+
+VeraSafe has been appointed as JVZoo's representative in the European Union for data protection matters, pursuant to Article 27 of the General Data Protection Regulation of the European Union. VeraSafe can be contacted in addition to JVZoo, only on matters related to the processing of personal data. To make such an inquiry, please contact VeraSafe using this contact form: https://www.verasafe.com/privacy-services/contact-article-27-representative 
+
+Alternatively, VeraSafe can be contacted at:
+
+Matthew Joseph  
+Zahradnickova 1220/20A  
+Prague 15000  
+Czech Republic
+
+VeraSafe Ireland Ltd  
+Unit 3D  
+North Point House  
+North Point Business Park  
+New Mallow Road  
+Cork T23AT2P  
+Ireland
+
+1843115.02
