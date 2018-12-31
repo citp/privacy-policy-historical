@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naijanewsplus.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625002955id_/http%3A//www.naijanewsplus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naijanewsplus.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231020536id_/http%3A//www.naijanewsplus.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,7 @@ When ordering or registering on our site, as appropriate, you may be asked to en
 
 We collect information from you when you subscribe to a newsletter, fill out a form or enter information on our site.
 
-[](http://hookupgist.com/mrs-doyin-from-ketu-lagos-needs-a-fresh-guy-for-250k-per-month-sugarmummy-deal/)
+**Enjoyed the Video? Watch more XXX Below** [](http://hookupgist.com/sugar-mummy-emily-sent-you-private-message-respond-now/)
 
 **How do we use your information?**
 
