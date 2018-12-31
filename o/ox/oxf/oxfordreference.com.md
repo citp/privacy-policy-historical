@@ -1,63 +1,39 @@
-> *The following text is extracted and transformed from the oxfordreference.com privacy policy that was archived on 2013-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130324210035id_/http%3A//www.oxfordreference.com/page/77/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxfordreference.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231123911id_/https%3A//global.oup.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy Oxford Reference
+# Oxford University Press - Privacy Policy
 
-Updated on: 5 August 2012
+Last updated April 2018
 
-Effective from: 5 August 2012
+Privacy Policy
 
-This privacy policy is specific to the Oxford Reference Online Site ("Website") and overrides any other privacy policy appearing elsewhere on Oxford University Press websites.
+Oxford University Press ("OUP") is committed to protecting your personal information and respecting data protection laws around the world. This privacy policy explains how we do this, and it applies to your use of OUP websites, products, and services. 
 
-Oxford University Press ("OUP", "we", "us" or "our") is committed to protecting your privacy online. Our policy explains how we will do this. We will review this policy in the light of comments we receive so please check the latest version. If you have any questions about our privacy policy please contact us by emailing us at oxfordonline@oup.com if you are in the Americas or onlinesubscriptions@oup.com if you are outside the Americas.
+  
+How we use your personal information  
+  
+We use personal information in order to promote and provide OUP products and services, to ensure the security of our websites, and to run our business. We have set out on **[this page](http://global.oup.com/privacy_info?cc=us)** more information on the categories of personal information that we collect, the specific ways in which that personal information is processed by us, the legal bases which permit us to do this, and the types of partners with whom we share your personal information.
 
-By using the Website, you are accepting the practices described in this statement.
+In some cases where we ask for your personal information, we do so in order for us to fulfil your request or order (e.g. needing your address to send you your order). If you do not provide that personal information we will not be able to process your request or order.
 
-## What kind of information do we collect and how do we use it?
+  
+Giving and withdrawing your consent, and updating your personal information  
+  
+Where your consent is required for us to process your personal information, we will ask for your consent at the point at which you provide your data.  You have the right to withdraw that consent at any time. You can also update your personal information at any time. If you wish to do either, contact us at [privacy@oup.com](mailto:privacy@oup.com).We do not sell your personal information to third parties.
 
-When you subscribe to or ask for further information about the Website, we ask for your name, email address, postal address, and other relevant personal information. Personal information submitted in this way is added to our access control database, hosted by a third party hosting company, and to our customer databases at OUP's premises. This information will be updated if you inform us of any changes.
+Storing your personal information
 
-We may use information in our customer databases to send you information about us and our products which we think may be of interest to you, both electronically or otherwise. In the case of subscribers, your personal information will also be used to enable us to verify you are a subscriber and to deliver the Website to you.
+Your personal information may be stored and processed outside of the country where it is collected, including outside of the European Economic Area. When transferring information to others, within the EEA or otherwise, we ensure that appropriate and suitable safeguards and technical measures are in place to protect your personal data. To do this, we make use of standard contractual clauses that have been approved by the European Commission, or we use an appropriate Privacy Shield certification or Binding Corporate Rules put in place by our suppliers, or we implement other similar measures required by laws around the world. A copy of the relevant mechanism can be provided for your review on request by sending an e-mail to our Data Privacy Officer at [privacy@oup.com](mailto:privacy@oup.com).We will only keep records of your personal information for as long as is reasonably necessary for the purposes for which we have collected it, and in order to comply with any statutory or regulatory obligations in relation to retention of records. We respect requests to stop processing your personal data for marketing purposes. This includes keeping a record of your request indefinitely so that we can respect your request in future.
 
-We request personal information (such as your name, email address and other contact details) from you when you contact us with subscription management queries, technical problems, to comment on the Website , or when you ask for information about how to use the service. Personal information submitted by you via contact us will not be added to our customer database and we request it simply so that we can respond to you about your query. Statistics regarding the types of queries submitted to us via contact us may be collated by us in aggregate form so that we can effectively monitor the site and improve levels of service.
+  
+Cookies  
+  
+We use cookies on our websites and similar technologies in our apps and other software.  Please see our [Cookie Policy](http://global.oup.com/cookiepolicy?cc=us "Global OUP CookiePolicy") for details of how this may apply to you. 
 
-If you have asked for information or subscribed to the Website in the past and no longer use the service and do not wish us to store information about you, please contact us and we will remove your details from our customer database. We need to store information about current subscribers in order to fulfil our contractual requirements to you and in order to deliver the Website to you.
+  
+Your rights  
+  
+You have the right to request access to and rectification or erasure of personal information, the right to restrict processing of your personal information, and the right to object to processing of your personal information. You have the right to object to your personal information being processed on the grounds of OUP's legitimate interests. You have the right to object to us sending you direct marketing and profiling you for the purposes of direct marketing. You can contact us by email at [privacy@oup.com](mailto:privacy@oup.com) in relation to any of the rights described in this paragraph, or if you have any questions regarding this privacy policy.  You have the right to lodge a complaint regarding our processing of your personal information with a data protection supervisory authority in a country where you live, work, or where you believe a breach may have occurred. 
 
-Unless you have informed us that you do not wish to receive further information about our products, we may send you direct mail.
+Contacting us
 
-You may notify us either in writing or by telephone, fax or email that you object to being contacted in a particular stated way. If you use more than one email address to communicate with us, please notify us of each email account you use.
-
-## When do we share information?
-
-We do not sell your personal information to others.
-
-We share your information within OUP. We also share your information to our affiliates and licensors and supplier which assist us in making the Website available to you on the Website (e.g. our hosting supplier) but we have agreed with those third parties that they will keep your information secure and not use it for other purposes.
-
-If we believe that your use of the Website is unlawful or damaging to others, we reserve the right to disclose the information we have obtained through the Website about you to the extent that it is reasonably necessary in our opinion to prevent, remedy or take action in relation to such conduct.
-
-We may also disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply any agreements or licences with you; or to protect the rights, property, or safety of OUP, our affiliates, our licensors and suppliers and/or our customers. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
-
-If any part of our business (including those of our affiliates) is sold or integrated with another business, your details may be disclosed to our advisers and any prospective purchasers and their advisers.
-
-## Use of cookies
-
-OUP uses ‘cookies’ and other technologies on the Website. The terms and condition governing OUP's use of "cookies" and such other technologies on the Website are set out in OUP's Cookie Policy.
-
-By using the Website, you are agreeing to be bound by the terms of our Cookie Policy.
-
-## Security
-
-Your personal information is stored at a data centre managed by our third party hosting company. The data centre managed by our third party hosting company is specifically designed to be physically secure and to admit authorised personnel only, who are contractually bound to keep all of our data confidential.
-
-Access to our customer databases is only given on a 'need to know basis'.
-
-(All personal information submitted by you and entered by Oxford University Press into the SAMS access control system is encoded using 128–bit SSL encryption before being sent over the Internet.)
-
-Owing to the global nature of the Internet infrastructure, the information you provide may be transferred in transit to countries outside the European Economic Area that do not have similar protections in place regarding your data and its use as set out in this privacy policy. However, we have taken the steps outlined above to try to improve the security of your information. By using the Website, you consent to these transfers.
-
-## Updating Your Details
-
-If any of the information that you have provided to OUP changes e.g. if you change your e-mail address, please let us know the correct details by sending an e-mail to oxfordonline@oup.com if you are in the Americas or onlinesubscriptions@oup.com if you are outside the Americas.
-
-## Governing Law
-
-You agree that this Privacy Policy shall be exclusively governed in accordance with the laws of and the courts in England and Wales.
+The data controller for our websites, products and services is The Chancellor, Masters and Scholars of the University of Oxford, trading as Oxford University Press, of Great Clarendon Street, Oxford OX2 6DP, United Kingdom, unless otherwise indicated on the website, product, service or form  through which you have provided your personal data to us.  For example, if you provided your personal data through the website www.oupe.es, the data controller is Oxford University Press España S.A. If you are unsure who your data controller is, or have other queries relating to this policy, OUP's Data Privacy Officer (the Data Protection Officer) can be reached at the same address or by email at [privacy@oup.com.](mailto:privacy@oup.com)
