@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sites.google.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627000624id_/https%3A//accounts.google.com/TOS%3Floc%3DUS%26hl%3Den%26privacy%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sites.google.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231213538id_/https%3A//accounts.google.com/TOS%3Floc%3DUS%26hl%3Den%26privacy%3Dtrue) for the most accurate reproduction.*
 
 # Privacy Policy – Privacy & Terms – Google
 
