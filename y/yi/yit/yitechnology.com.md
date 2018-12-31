@@ -1,87 +1,249 @@
-> *The following text is extracted and transformed from the yitechnology.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625154204id_/https%3A//www.yitechnology.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yitechnology.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231083206id_/http%3A//www.yitechnology.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | YI Technology
 
-YI Technologies, Inc. (“we”, “us”, “our” or “YI”) is committed to protecting the users of its websites, mobile applications, products, and services (each a **“YI Service”** and collectively the **“YI Services”** ). When you access, browse, or use the **YI Services** , information will be collected, transferred, processed, stored, and disclosed in accordance with this privacy policy (“Policy”). This Policy governs the information collection and disclosure practices for the **YI Services**. By accessing, browsing, or using the **YI Services** , including registering an account with our **YI Services** , you expressly consent to the collection, transfer, use, processing, and storage of your information (including personal information), as described in this Policy. IF YOU DO NOT AGREE WITH THIS POLICY OR THE INFORMATION COLLECTION, USE, AND DISCLOSURE PRACTICES DESCRIBED IN THIS POLICY, DO NOT USE THE **YI SERVICES** OR REGISTER AN ACCOUNT. 
+Last Updated: Nov. 1, 2018 
 
-**1\. INFORMATION COLLECTION PRACTICES**
+This Privacy Policy for YI Products and services (“Privacy Policy”) describes information that YI Technologies, Inc. and its subsidiaries and other group companies (collectively, “YI”, “we,” or, “us”) collect, use, share, or store, including personal information (i.e., information that directly or indirectly personally identifies you) or a combination of data that can be reasonably used to infer information about you (such as your email address or mobile phone IMEI).
 
- **1.1. General.** When you visit YI websites and use YI mobile applications without registering, you can browse without submitting personal information about yourself. If you register for an account within or to access a **YI Services** , we will collect some personally identifiable information from you, including your full name, username, email address, and hashed version of the password you select. When you interact with the **YI Services** , we also receive and store certain additional types of information which, in general, do not directly identify you. For example, we automatically receive and record information on our server logs from your browser or device including your IP address, browser type and language, referring/exit pages and URLs, device type, platform type, number of clicks, landing pages, cookie information, the pages you requested and viewed, the amount of time spent on particular pages, and the date and time. This Section of the Policy outlines the various ways that information is collected from the **YI Services**. Please fully review this Policy before you use the **YI Services** or submit information to us. 
+This document focuses on information related to the operation of the following YI products and services: the YI Action Camera, YI Dash Camera, and YI Home Camera (collectively, “YI Products”). In this Privacy Policy, the expression “YI Products” also includes our Mobile App, PC App, and YI Cloud as defined in our [**Terms of Use**](https://www.yitechnology.com/legal/terms-of-use).
 
-**1.2. Information that You Provide.**
+This Privacy Policy should be read in conjunction with the[ **Terms of Use**](https://www.yitechnology.com/legal/terms-of-use) of which it forms part and which also apply when you visit our website or use YI Products. If you do not agree with this Privacy Policy, you must not submit information to us through or in connection with the website or use YI Products.
 
- **(a) Registration and Login.** Certain **YI Services** require you to register for an account and/or log in using credentials. You can register for an account from our account registration system or a third-party site or service such as Facebook (“Account”). When you register for an Account you may be asked to provide some personally identifiable information, such as your full name, email address, phone number, camera SN code and a username and password that you select. When you are asked to create an Account using your credentials from a third-party site or service, you will be asked for your username, password, and other information to verify that you have an account with the third-party site or service. When you provide credentials for a third-party site or service, we may use those credentials to obtain information about you from that third party. See Section 1.4 (Information from Other Sources) and 3.5 (Social Sites) for more information. When you register an Account and log in to a **YI Services** you must provide your current, complete, and accurate information. It is your responsibility to keep your information up to date. We are not responsible for any problems, interruptions in access, or liability that may arise if you do not give us complete and accurate information or if you fail to update your information so that it is current. 
+ **How We Collect Data**
 
-**(b) Product Set Up.** In order to use certain products such as our camera products, you will need to associate the product with your Account following the directions provided with the product. When you associate a product with your Account you will need to provide Wi-Fi network information (this may include username and password) to YI mobile applications (“YI App” or “YI Apps”). The YI App will send the information to the product by using QR code and the product will use the information to connect to the Wi-Fi network. Once a product is associated with your Account it will remain associated until you unbind the product from your Account or terminate your Account. The Wi-Fi network user name and password may be saved in your YI Apps or your YI products but it will not be sent to YI services or YI. 
+We will collect and store your personal data when you interact with our website, when you contact us, request YI Products and services or when you use YI Products, as further detailed below. We collect personal information in writing, by telephone and by email.
 
-**(c) Correspondence.** If you send us personal correspondence, such as emails or letters, about your use of **the YI Services** , we may save the information in a profile specific to you. 
+ **International Transfers of Personal Data**
 
-**(d) Information You Provide to Others.** You may choose to share information with third-parties such as social networking Sites like Facebook and WeChat (“Social Sites”) by “sharing” videos and photos. See Section 3.5 (Social Sites) for more information. 
+Depending on your geographic location, your personal information may be collected, processed and stored by YI or its service providers in the United States and other countries. Please be aware that the privacy protections and legal requirements, including the rights of authorities to access your personal information, in some of these countries may not be equivalent to those in your country.
 
-**1.3. Automatically Collected Information.** We will collect some information about you and any product or device you use to access or use the **YI Services** automatically using a variety of technologies. In general, automatically collected information about the use of **YI Services** does not directly identify you and the information may include your diagnostic log information, IP address, browser type and language, referring/exit pages and URLs, platform type, number of clicks, landing pages, cookie information, the pages you requested and viewed, the amount of time spent on particular pages, the actions performed in the YI App, the info(OS type/version, network, etc.) of the phone which the YI App was installed, and the date and time. We collect this information for the purposes described in this Policy, including to better understand our customer base and to improve the quality of our **YI Services**. We do NOT collect information not related to the use of the **YI services**. 
+If you are using YI Products in the European Economic Area (“EEA”) please be aware that we may transfer your personal data to a third party in countries outside the EEA for further processing in accordance with the purposes set out in this Privacy Policy. In particular, your personal data may be transferred to the United States and other countries (including to Germany and Singapore) where YI operates and to our outsourced service providers located abroad. In these circumstances we will, as required by applicable law, ensure that your privacy rights are adequately protected by appropriate technical, organisation, contractual or other lawful means. Please contact us for a copy of the safeguards which we have put in place to protect your personal data and privacy rights in these circumstances. For transfers of data from the EEA to the United States or Singapore, YI (i.e., the controller) has entered into the European Commission’s Standard Contractual Clauses with its service providers (i.e., processors) to protect user’s privacy rights.
 
-**(a) Video Transmission.** The primary mode of transmission of video from our YI camera products to our YI Apps is through a point-to-point direct connection. When encountering unreliable point-to-point network conditions, the YI camera product may opt to relay videos through our servers to the mobile app to achieve optimal viewing experience. In each scenario, both videos and the transmission channel are securely encrypted. The role of our servers is only to act as a relay agent, and they do not store video content transmitted to or through them in connection with our provision of **YI Services**. 
+If you are using YI Products in other regions (outside of the EEA) with laws governing data collection and use that may differ from United States law, you consent to the transfer of your personal data to the United States and other countries (including to Germany and Singapore) where YI operates.
 
-**(b) Activity Alert Video/Picture.** This is an optional feature, and off by default, and user needs to manually activate this feature in the YI App before transmission happens. Turning this feature OFF will NOT affect the normal operations of YI Home/Dome Cam and its YI App. If the user chooses to turn on this feature, a short video up to 10 seconds long and one or more pictures are encrypted individually and transferred to and stored on our servers when the camera has detected activity, provided that you have activated the “activity alerts” functionality within the YI App for YI camera product. If you don’t delete the videos stored on our servers, they shall be automatically deleted on a regular basis (typically seven days). However, we cannot ensure that residual copies do not survive elsewhere (e.g., in a cache or backup). 
+ **What information does YI generally collect?**
 
-**(c) Cookies.** A cookie is a small text file that is stored on a user’s computer or mobile device. We and our third-party analytics provider use cookies to record information about your activities on the **YI Services** to “remember” you when you return to the **YI Services**. Some cookies remain on your computer or device until you delete them. Others, like session ID cookies, expire when you close your browser. You may set your browser setting to attempt to reject cookies and you may still use the **YI Services**. See the section “Do-Not-Track-Settings” below for more information on how the **YI Services** may respond to your browser settings. We do not control the use of cookies by third parties. See Section 4 (THIRD-PARTY PROVIDERS) for more information and review the privacy policies of all third-party providers for more information on third-party cookies. 
+Identity data – includes first name, last name, title, date of birth and gender.
 
-**(d) Pixels (aka web beacons/web bugs/JavaScript).** Pixels are tiny graphics with a unique identifier that are used to track how the web page is accessed. Unlike cookies, which are stored on a user’s computer hard drive, pixels are small graphics that are about the size of the period at the end of the sentence that are embedded invisibly on web pages or in HTML-based emails. Our third-party analytics provider uses information obtained from pixels to help us improve our **YI Services**. We do not control the use of pixels by third parties. See Section 4 (THIRD-PARTY PROVIDERS) for more information and review the privacy policies of each of the third-party providers for more information on third-party pixels. 
+Contact data – includes address, email address and telephone numbers.
 
-**(e) Video/Picture Content.** In general, YI does not view, monitor or in any way see your video or picture content except with your permission and authorization and only in regard to technical support issues. 
+Technical data – includes information about your internet protocol (IP) address, your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access this website.
 
-**1.4. Information from Other Sources.** With your permission, we may obtain both personal and non-personal information about you from business partners, Social Sites, and other third parties and add it to our account information or other information we have collected. We also collect information from Social Sites when you register or log in to use our **YI Services** by using your Social Site log-in and password. For example, our Site allows you to create an account and log in using your Facebook account credentials and, in addition to allowing you to log in to the Site and share videos with Facebook, we also use your authorization to obtain the following information from Facebook: Facebook username, first name, last name, and profile picture. The information we collect may depend on the privacy settings you have with the Social Site, so please consult the Social Site’s privacy and data practices. 
+If you are a customer of YI, personal data that we hold about you may include the same information listed in above, along with:
 
-**2\. USE OF INFORMATION**
+Business data – your function/job title within the company and your work email address, company’s name, postal address, VAT and/or company number.
 
- **2.1. General.** We may use your personally identifiable information (including tracking information) to manage your Account. We may also use it to operate, maintain, and improve the **YI Services** (including providing you a more personal experience); communicate with you; provide you information about products and **YI Services** (including products and services of third parties); market; research purposes; resolve disputes; collect fees owed; detect and protect against errors, fraud, and criminal activity; assist law enforcement; enforce this Policy and any the terms related to our **YI Services** ; and any other purpose described in this Policy or that we describe to you at the time of collection. 
+Financial and transaction data – including bank account and payment card details as well as details about payments to and from you and other details of services you have purchased from us.
 
-**2.2. Email Communications.** We may use your personally identifiable information to send you emails or other communications related to your Account or the **YI Services** , or in response to your inquiries or requests. You may not opt-out of receiving service-related messages that are not promotional. We may also send you marketing emails, surveys, or newsletters to notify you about products or services that may be of interest to you. If you would like to stop receiving marketing emails from us, please click on the unsubscribe link at the bottom of any marketing email you receive. You can opt out of marketing email in this way but you will continue to receive service related emails as they are a fundamental part of the services. 
+Marketing and communications data – where you have opted-in via your user preferences in your account settings, we hold details about your preferences for receiving marketing from YI and our third parties, your communication preference, your language and your social network accounts.
 
-**2.3. Non-identifying Information.** We may use non-identifying information for any lawful purpose, including analyzing trends, research, **YI Services** administration, tracking users’ movements around the **YI Services** , and to improve our business and the **YI Services**. 
+Specific YI Products collect specific additional data as further detailed below.
 
-**2.4. Retaining Your Information.** In general, we will retain your information as long as legally required or allowed. If you cancel your Account or your Account is otherwise terminated, we may but are not obligated to, delete information we have collected or obtained from third parties and we may continue to use and disclose it in accordance with this Policy. But you can delete your account information manually, and it will be purged from our system. 
+ **What information does the YI Action Camera and YI Dash Camera collect?**
 
-**3\. INFORMATION SHARING**
+The YI Action Camera and YI Dash Camera collect:
 
- **3.1. General.** We will not sell or rent any of your personal information to third parties for marketing purposes. However, we may disclose your information to any affiliated entity or organization and to agents and service providers. We may also share non-identifying information with third parties for any lawful purpose, including analyzing trends, research, **YI Services** administration, tracking users’ movements around the **YI Services** , and to improve our business, products, and the **YI Services**. Use of information by affiliated entities and organizations will be subject to this Policy or an agreement that is at least as restrictive as this Policy. For information on the use of information by agents and service providers see Section 4 (THIRD-PARTY PROVIDERS). 
+• **Setup information you provide**
 
-**3.2. Legal Requirements.** In some cases, we may disclose your personally identifiable information as required by law; if we believe that disclosure is needed to protect our rights; to government regulators; to law enforcement authorities; in connection with any judicial proceeding, court order, subpoena, or legal process served on us or the **YI Services** ; and to respond to a physical threat to you or another person. 
+ _Information input during setup_
 
-**3.3. Insolvency and Business Transitions.** If we ever file for bankruptcy or engage in a business transition such as a merger with another company or if purchase, sell, or reorganize all or a part of the **YI Services** or our business or assets, we may disclose your personal information, including to prospective or actual purchasers in connection with one of these transactions. 
+: When you set up a YI Action Camera or YI Dash Camera, you will be asked for certain basic information like your email address, your Facebook username, and your general location (e.g., city or country).
 
-**3.4. Camera Sharing.** Some of the **YI Services** permit you to share access to our camera products that you own with others. If you share access to your camera by authorizing a third party on your Account, the third party will be permitted to access that camera and to record videos from that camera until you remove them from your Account. We encourage you to exercise discretion and caution with respect to enabling third party access your cameras because we do not control the actions of any third party and cannot stop them from sharing videos obtained from your camera with others. 
+• **Video and audio signals and data**
 
-**3.5. Social Sites.** In addition to using Facebook credentials to set up an Account, certain **YI Services** may permit you to choose to share information and videos taken with our camera products with Social Sites. When you choose to share with a Social Site, we may share that video or information as well as additional personal information about you with the Social Site. Information shared with a Social Site is subject to that Social Site’s privacy policy and practices, you should familiarize yourself with the Social Site’s privacy policy and practices before sharing. Facebook’s Data Policy is located at: https://www.facebook.com/about/privacy. 
+ _Video and audio signals and data_
 
-**3.6. Disclaimer.** We cannot ensure that all of your personal information will never be disclosed in ways not otherwise described in this Policy. For example, we may be required to disclose personal information to the government or third parties under certain circumstances, third parties may unlawfully intercept or access transmissions or private communications, or users may abuse or misuse your personal information that they collect from the **YI Services**. No transmission of data over the internet can be 100% secure. 
+: When you use the recording feature of your YI Action Camera or YI Dash Camera, the recordings are stored on your camera and are not stored on a YI server without your intervention.
 
-**4\. THIRD-PARTY PROVIDERS.**
+• **Technical information from the device**
 
- **4.1. General.** We use third parties to help us operate and improve the **YI Services**. We may provide these third parties information we collect and they may collect information from you and about your use of the **YI Services**. We may provide information we collect to third parties and it will, unless specifically noted otherwise in this Policy, be governed by this Policy and may only be used by those third parties to help us operate or improve our business or the **YI Services** and provide services to us. We do not control information collected by third parties and are not responsible for their use of that information. Please review their privacy policies for more information on their information collection, use, and sharing practices. 
+ _Technical information from the device_
 
-**4.2. Google Analytics.** We use Google, a third-party analytics provider, to collect information about **YI Services** usage and the users of the **YI Services** , including demographic and interest-level information. Google uses cookies and pixels to collect demographic and interest-level information and usage information from users that visit the **YI Services** , including information about the pages where users enter and exit the **YI Services** and the pages users view on the **YI Services** , time spent, browser, operating system, and IP address. Cookies and pixels allow Google to recognize a user when a user visits the **YI Services** and when the user visits other websites. Google uses the information it collects from the **YI Services** and other websites to share with us and other website operator’s information about users including age range, gender, geographic regions, general interests, and details about devices used to visit websites and purchase items. We do not link the information we receive from Google with any of your personally identifiable information. For more information regarding Google’s use of cookies, pixels, and collection and use of information, see the Google Privacy Policy. If you would like to opt out of Google Analytics tracking of YI Services website visiting, please visit Google Analytics Opt-out Browser Add-on page at: https://tools.google.com/dlpage/gaoptout. 
+: In order to improve your experience over time, help troubleshoot problems you may encounter, and provide updates to YI Action Camera or YI Dash Camera, we store your device information, such as camera model and serial number, hardware and software versions, and mobile phone information like unique identifiers (including IMEI and MAC), operating system, crash logs, error logs, and language settings. In addition, we will collect your mobile phone’s IMEI and MAC numbers for logging you into and authenticating you to your YI Product or YI’s systems. Further, to improve your experience, we collect but do not associate your account or email with aggregated, non-identified, data on functions used and frequency of use.
 
-**5\. ONLINE TRACKING AND YOUR CHOICES**
+• **Shared content**
 
-As discussed above, because we and our third-party service providers automatically collect **YI Services** usage information through the use of cookies, pixels and other tracking technologies (including as described in the “Automatically Collected Information” section above, and otherwise in this Policy), your selection of the “Do Not Track” option provided by your browser may not have any effect on our automatically collected information. One way to attempt to “opt out” of the collection of any information through cookies and some (but not all) other tracking technology is to actively manage the settings on your browser to delete and disable cookies and other tracking/recording tools. However, getting a “Do Not Track” signal to work as you might want is difficult and may not be possible. Using browsers as an example, not all tracking technologies can be controlled by browsers; unique aspects of your browser might be recognizable even if you disable a tracking technology; not all settings will necessarily last or be effective; even if a setting is effective for one purpose data still may be collected for another; and even if one website observes a “Do Not Track” signal, that website usually will not be able to control other websites. 
+ _Shared Content_
 
-**6\. INFORMATION SECURITY MEASURES**
+: YI Action Camera and YI Dash Camera users and authorized users tend to enjoy sharing certain content like video clips, images, captions, and comments with other people. Your content can be shared as directed by you or your authorized user through YI’s community website or third-party applications and services, such as Facebook or YouTube. Such third-party applications and services are not controlled by YI and have their own privacy and service policies. YI is not responsible for the privacy practices of any website or third-party applications and services that it does not own or otherwise control and you should read the privacy policies of websites, applications and services owned and controlled by others before deciding whether to proceed.
 
-Keeping secure personal information that we collect is of great concern to us. While we have mechanisms in place to safeguard your personal information once we receive it, no transmission of data over the Internet or any other public network can be guaranteed to be 100% secure. When you provide information to the **YI Services** , you do so at your own risk. 
+The content you share by placing it on YI Community is available for sharing for a limited time (e.g. 30 days or less) after which it is deleted from YI’s systems.
 
-**7\. CHILDREN**
+Data protection and privacy laws in your locality may impose certain responsibilities on you and your use of YI Products. You (not YI) are responsible for ensuring that you comply with any applicable laws when you use YI Products. Note that recording and sharing clips that involve other people may affect their privacy and data protection rights.
 
-The **YI Services** are intended for general audiences and are not directed to children under 18. We do not knowingly collect personal information from children under 18. If you become aware that a child has provided us with personal information without parental consent, please contact us by using the contact information in the Privacy Questions section at the bottom of this Policy, and we will take steps to remove the information and terminate the child's Account. 
+ **What information does YI Home Camera collect?**
 
-**8\. ACCESSING AND UPDATING YOUR PERSONAL INFORMATION**
+YI Home Camera collects:
 
-If you would like to cancel your Account or update your personally identifiable information associated with your Account, you may make such changes by logging in YI Apps. If you do not want your information accessed or stored as described in this Policy, you should not access, use, or register an Account with the **YI Services**. 
+• **Setup information you provide**
 
-**9\. MODIFICATION OF THIS POLICY**
+ _Information input during setup_
 
-We will occasionally update this Policy. When we post changes to this Policy, we will revise the "Last Updated” date at the top of this Policy. We recommend that you check our **YI Services** from time to time to inform yourself of any changes in this Policy or any of our other policies. 
+: When you setup a YI Home Camera, you will be asked for certain basic information like your email address, your Facebook username, and your general location (e.g. city or country).
 
-**10\. PRIVACY QUESTIONS**
+• **Video and audio signals and data**
 
-If you have questions or concerns about our privacy practices, please email us at: **support@yitechnology.com**. 
+Video and audio signals and data: When you use the recording or streaming features of your YI Home Camera, we will record and process video and/or audio recordings received from your device, subject to your configuration and settings. If you have enabled motion sensing or sound detection, we will record and process video and/or audio recordings upon sensing motion or detecting sound and may send notifications to you regarding the sensed motion or sound. In addition, if you have the recording feature enabled, we will capture, process and retain video, photo, and audio data recordings received from your device for a limited time (for example, 7, 15, or 30 days, depending on your subscription) and you will be able to access, download, and delete those recordings using YI services during that time. After the subscription period, the recordings are deleted from YI’s systems.
+
+• **Technical information from the device**
+
+ _Technical information from the device_
+
+: In order to improve your experience over time, help troubleshoot problems you may encounter, and provide updates to YI Home Camera, we store your device information, such as camera model and serial number, hardware and software versions, and mobile phone information like unique identifiers (including IMEI and MAC), operating system, crash logs, error logs, and language settings. In addition, we will collect your mobile phone’s IMEI and MAC numbers. This information is used to login and authenticate you to your YI Product. Further, to improve your experience, we collect but do not associate your account or email with aggregated, non-identified data on functions used and frequency of use.
+
+• **Saved and shared content**
+
+ _Saved and Shared Content_
+
+: Your YI Home Camera can utilize the YI Cloud subscription service to store audio, camera, and video content during a selected subscription period (for example, 7, 15, or 30 days). After the subscription period, the content is deleted from YI’s systems. We have technical barriers to prevent unauthorized viewing or hearing your audio, camera, and video content, and we do not share your audio, camera, or video content. You may choose to download your content for sharing, including through a third-party application or service, such as Facebook or YouTube that is not controlled by YI and has its own privacy and service policies. YI is not responsible for the privacy practices of any website or third-party applications and services that it does not own or otherwise control and you should read the privacy policies of websites, applications and services owned and controlled by others before deciding whether to proceed.
+
+Data protection and privacy laws in your locality may impose certain responsibilities on you and your use of YI Products. You (not YI) are responsible for ensuring that you comply with any applicable laws when you use YI Products. For example, you may need to display a notice that alerts visitors to your home that you are using a YI Product. Note that recording and sharing clips that involve other people may affect their privacy and data protection rights.
+
+ **How does my YI Product or account interact with third parties?**
+
+Any YI data that you choose to share with a third party is governed by that third party’s privacy policy while in that party’s possession.
+
+Any data that YI receives from third-parties (for example, information received from Facebook after you login to your Facebook account to share content) will be processed and stored by YI and will be treated in accordance with this Privacy Policy. This information may be processed in the same manner as any other data that is a part of your YI account or the YI logs.
+
+ **What additional information does YI collect and store when a user connects a YI Product to the Internet or creates an account?**
+
+Wi-Fi Network Information: To connect your YI Product to YI services, including YI Cloud, or to access your YI Product over the Internet from a computer, a smartphone or a tablet, you may need to connect it to your Wi-Fi network. During setup, the YI Product will ask for your Wi-Fi network name (SSID) and password to connect to the Internet. It will save this information on the device so that you can access it and control it from your computer, smartphone or tablet, and so that it can communicate with YI’s systems and download software updates.
+
+Once connected to your Wi-Fi network, your YI Product regularly sends the data described in this Privacy Policy (excluding your Wi-Fi password) to YI to provide you with services.
+
+Email Addresses: When you create a YI account, we collect and store your email address. From that point forward, your email address is used for communications from YI. In addition, YI may provide you with the ability to login with alternative credentials, such as a Facebook account.
+
+Basic Profile Information: Your account allows you to provide certain basic profile information like a username of your choice and profile photo. Usernames and profile photos may be shown to others in connection with YI services. We routinely record log entries and technical information when your mobile device, tablet, PC, or YI Product contacts our systems. 
+
+**How does YI use the information it collects?**
+
+We use this information to provide, develop and improve YI Products and services, including making assessments and recommendations about products or safety. We may use your contact details to send you this information, to ask you to participate in surveys about your YI use, and to send you other communications from YI.
+
+We may also use this information in an aggregated, non-identified form for research purposes and to help us make sales, marketing, and business decisions. For example, we use aggregated, non-identified information about the number of times users in a particular region use a particular function to help us determine if the function is desired by customers. We may use service providers to perform some of these functions. Those service providers are restricted from sharing your information for any other purpose.
+
+If you have agreed that we may do so, we may use your information to send you marketing via the communications methods you have selected via your user preferences in your account settings. Not all YI Products conduct direct marketing. Where this functionality is available, you can change your preferences at any time and switch this option on/off. We use industry-standard methods to keep this information safe and secure while it is transmitted over your home network and through the Internet to our systems.
+
+Depending on your location and type of data, YI may process your personal information on servers that are not in your home country. If you are in the United States, YI processes your personal information only in the United States. If you are outside of the United States, YI processes your personal information in Germany and/or Singapore.
+
+ **Our legal bases for processing information**
+
+In order to store, hold and process your data lawfully where EU Data Protection Law (including the General Data Protection Regulation (Regulation (EU) 2016/679 of the European Parliament and the Council of 27 April 2016), read in conjunction with and subject to any consequential national data protection legislation) applies, we rely on one or more of the following legal grounds:
+
+ _Where it is necessary for the performance of a contract_
+
+\- we process your data to provide and support a product or service you have asked for under a contract, including but not limited to delivering our Terms of Use.
+
+ _When we are pursuing legitimate interests_
+
+. We process your information for our legitimate interests and those of third parties while applying appropriate safeguards that protect your privacy. This means we process your information for things like:
+
+\- offering and improving YI Products and services  
+\- developing new products and features  
+\- understanding how people use our products and services  
+\- performing research that improves our services for our users and benefits the public  
+\- protecting against harm to the rights, property, and safety of YI, our users, and the public  
+\- detecting, preventing or otherwise addressing fraud, abuse, security or technical issues with our services  
+\- maintaining and improving the integrity of our computing systems, and protecting our users’ data security  
+\- enforcing legal claims, including investigation of potential violations of applicable Terms of Use
+
+ _When we are complying with legal obligations_
+
+. We process your data when we have a legal obligation to do so, for example, if we are responding to a legal process or an enforceable governmental request.
+
+ _With your consent_
+
+. Where necessary, we ask for your consent to process your information for certain specific purposes and give you the right to withdraw that consent at any time.
+
+ **Individual Rights in the European Economic Area**
+
+If you are located in the EEA, you may seek confirmation regarding whether YI is processing personal information about you, request access to your personal information and ask that we correct, amend or delete your personal information. In addition, you may object to YI’s processing of your personal information at any time. However doing so may impact your use of the YI Products and services.
+
+If applicable law provides you the right to request access to, (receive) port, object to or restrict processing, seek rectification or request erasure of personal information held about you by YI, you may do so, as applicable, through controls in the YI app or by contacting YI at [ support@YItechnology.com.](mailto:support@YItechnology.com)
+
+Further information on your rights in the EEA is set out below:
+
+• **Right to obtain a copy of your personal data** – you have the right to obtain a copy of the personal information we hold about you. If you would like to make a SAR, i.e. a request for copies of the personal data we hold about you, you may do so by contacting us at the contact details above. The request should make clear that a SAR is being made. You may also be required to submit a proof of your identity.
+
+• **Right to rectification** – you may request that we rectify any inaccurate and/or complete any incomplete personal data.
+
+• **Right to withdraw consent** – you may, as permitted by applicable law, withdraw your consent to the processing of your personal data at any time. Such withdrawal will not affect the lawfulness of processing based on your previous consent. Please note that if you withdraw your consent, you may not be able to benefit certain service features for which the processing of your personal data is essential.
+
+• **Right to object to processing** – including automated processing and profiling. You may, as permitted by applicable law, request that we stop processing your personal data. In relation to automated processing and profiling, you may object to the processing and you will have the right to obtain human intervention.
+
+• **Right to erasure** – you may request that we erase your personal data and we will comply, unless there is a lawful reason for not doing so. For example, there may be an overriding legitimate ground for keeping your personal data, such as, a legal obligation that we have to comply with, or if retention is necessary for us to comply with our legal obligations.
+
+• **Right to data portability** – in certain circumstances, you may request that we provide your personal data to you in a structured, commonly used and machine readable format and have it transferred to another provider of the same or similar services.
+
+• **Your right to lodge a complaint with the supervisory authority** – please contact us first about any questions or if you have a complaint in relation to how we process your personal data. However, you do have the right to contact the relevant EEA supervisory authority directly.
+
+ **In what circumstances does YI share my information?**
+
+We do not share personal information for any commercial or marketing purpose unrelated to the activation and delivery of YI Products and services without asking you first.
+
+The following are the limited situations where we may share personal information:
+
+• 
+
+_For external processing_
+
+: We have vendors, service providers, and technicians who help with some of our processing and storage, including helping to answer your questions. They may also assist with monitoring our servers and systems for technical problems. These technicians (as well as YI employees) can access certain information about you or your account relating to this work, but these technicians are not allowed to use this data for non-YI purposes. We also have strict policies and technical barriers in place to prevent unauthorized employee access to video and audio recordings that you have not shared.
+
+• 
+
+_As part of business transitions_
+
+: Upon the sale or transfer of the company and/or all or part of its assets, your personal information may be among the items sold or transferred. We will request that a purchaser treat our data under the Privacy Policy.
+
+• 
+
+_For legal reasons_
+
+: We may provide information to a third party if we believe in good faith that we are required to do so for legal reasons. For example, we may disclose information in response to legal process and we may disclose information in response to lawful requests by public authorities in the United States and other countries for the purposes of law enforcement and national security.
+
+If you select an outside party for the purchase, installation, or service of your YI device and share your personal information, we cannot control the collection, storage or sharing of information collected by that party. For example, if you buy a YI Product from a retailer, the retailer may collect personal information as part of the transaction.
+
+ **What choices do I have and how can I delete my personal information?**
+
+YI generally stores your personal information on YI’s systems until you delete or edit it, or for as long as you remain a YI customer, in order to provide you with YI Products, but your audio, photo, and video files are stored for a limited time (e.g., 7, 15, or 30 days). Your YI account allows you to delete audio, photo, and video files that you choose before the limited storage time has elapsed. In addition, should you wish to delete your entire account, including all recordings associated with it, contact [ support@YItechnology.com.](mailto:support@YItechnology.com)
+
+As described above, some information is processed and stored directly on the YI device. All personal information is encrypted as it is transmitted to YI and cannot easily be accessed.
+
+You can access, amend or delete your personal information from YI’s systems through the controls in your YI account. Because of the way we maintain certain services, after your information is deleted, backup copies may linger for some time before they are deleted, and we may retain certain data for a longer period of time if we are required to do so for legal reasons.
+
+ **Retention of Personal Data**
+
+Your personal data will be retained for as long as it is necessary to carry out the purposes set out in this Privacy Policy (unless longer retention is required by applicable law). However, we will not retain any of your personal data beyond this period and the retention of your personal information will be subject to periodic review. We may keep an anonymized form of your personal data, which will no longer refer to you, for statistical purposes without time limits, to the extent that we have a legitimate and lawful interest in doing so.
+
+ **Cookies**
+
+The YI Action Camera website and app use cookies to distinguish you from other users of the website and app. This helps us to provide you with a good experience when you browse the service and also allows us to improve our website and/or app. If other YI Products use cookies we will inform you.
+
+This section of the Privacy Policy explains what cookies are, why we use them and what you may do if you wish to restrict, remove or refuse to accept cookies. By continuing to use the YI Action Camera website and/or app, you agree to the use of cookies for the purposes set out in this Privacy Policy.
+
+A cookie is a small file that a website, app or its service provider transfers to your computer’s hard drive, mobile phone or other device, through your web browser (if you agree) that enables the website’s, app’s or service provider’s systems to recognize your browser and capture and remember certain information. We use the following cookies:
+
+• **Strictly necessary cookies**. These are cookies that are required for the operation of our website.
+
+• **Analytical/performance cookies**. They allow us to recognise and count the number of visitors and to see how visitors move around our website when they are using it. This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily.
+
+• **Functionality cookies**. These are used to recognise you when you return to our website. This enables us to personalize our content for you, greet you by name and remember your preferences (for example, your choice of language or region).
+
+You can find more information about the individual cookies we use and the purposes for which we use them in the table below:
+
+Cookie Name| Purpose| Duration| More information  
+---|---|---|---  
+[Google Analytics _ga]| Used to distinguish users| 2 years| These cookies are used to collect information about how visitors use our Website. We use the information to compile reports and to help us improve the Website. The cookies collect information in an anonymous form, including the number of visitors to the Website, where visitors have come to the Website from and the pages they visited. [https://developers.google.com/analytics/devguides/collection/  
+analyticsjs/cookie-usage ](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage)  
+[Google Analytics _gat]| Used to throttle request rates to maintain Website performance| 1 minute  
+[Google Analytics _gid]| Used to distinguish users| 24 hours  
+  
+Please note that third parties (including, for example, advertising networks and providers of external services like web traffic analysis services) may also use cookies, over which we have no control. These cookies are likely to be analytical/performance cookies or targeting cookies.
+
+You can block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of the relevant website and/or app.
+
+ **Can the Privacy Policy be changed?**  
+Please note that this Privacy Policy may change from time to time. We will provide notice of any changes by contacting you through a notification in the YI mobile app or through the email contact information you provided when setting up your YI account.
+
+ **How can I contact YI?**  
+If you have any questions, please contact us at: [support@yitechnology.com](mailto:support@yitechnology.com). 
