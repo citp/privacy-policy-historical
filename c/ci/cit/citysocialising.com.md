@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citysocialising.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625180340id_/https%3A//www.citysocializer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citysocialising.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231171522id_/https%3A//www.citysocializer.com/privacy) for the most accurate reproduction.*
 
 # citysocializer social club privacy policy
 
