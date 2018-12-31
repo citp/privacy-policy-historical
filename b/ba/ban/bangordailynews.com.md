@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bangordailynews.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630013426id_/https%3A//bangordailynews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangordailynews.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231191257id_/https%3A//bangordailynews.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — Bangor Daily News — BDN Maine
 
-This Privacy Policy discloses the general privacy practices for Bangor Daily News websites, which include all sites owned by Bangor Publishing Company. We may change this policy from time to time by updating this page. You should check this page from time to time to be aware of any changes. This policy is effective from May 24, 2018.
+This Privacy Policy discloses the general privacy practices for Bangor Daily News websites, which include all sites owned by Bangor Publishing Company. We may change this policy from time to time by updating this page. You should check this page from time to time to be aware of any changes. This policy is effective from December 21st, 2018.
 
 Bangor Daily News is committed to respecting your privacy rights when visiting any Bangor Daily News website, such as this one. To protect your personal information, Bangor Daily News has adopted the guidelines outlined below.
 
@@ -51,6 +51,20 @@ If you are accessing the site from the European Economic Area (EEA), ads served 
 
 Bangor Daily News logs  IP addresses (the location of your computer on the Internet) for systems administration and troubleshooting purposes and to determine site usage.
 
+#### **Interest-Based Advertising**
+
+To help ensure that you receive ads that are relevant to your interests on our services, our advertisers’ services, and elsewhere on the Internet, we and third-parties (including service providers, advertisers, and advertising companies) may collect information about your online activities over time and across different websites, apps, and devices. We and third parties may use that information to help understand audience segments. Advertisers may use the segments to determine the audience groups to which they wish to deliver particular ads. Through this process, we do not use information that directly identifies you.
+
+You can opt out of receiving interest-based advertising on your computer or laptop from some companies, including us and our service providers, by visiting the following sites: [//www.aboutads.info/choices/](https://www.aboutads.info/choices/), [//www.networkadvertising.org/choices/](https://www.networkadvertising.org/choices/), [//choices.ghosteryenterprise.com/global-opt-out.html](https://choices.ghosteryenterprise.com/global-opt-out.html), and [//preferences-mgr.truste.com/](https://preferences-mgr.truste.com/). If you wish to opt out of receiving interest-based advertising on your mobile device, please see the advertising preferences information on support.apple.com for iOS devices or support.google.com for Android devices.
+
+If you are accessing our services from Europe, please see [www.youronlinechoices.com](https://www.youronlinechoices.com/). If you are accessing our services from Canada, please see [youradchoices.ca](https://www.youradchoices.ca/).
+
+Opting out does not mean you will no longer receive advertising. It means that the company or companies from which you opted out will no longer deliver ads tailored to your web preferences and usage patterns.
+
+If you do not wish to allow cookies to be placed on your computer or device, you can configure your web browser (Chrome, Firefox, Internet Explorer, Safari, etc.) to control the use of cookies. Please note that the interest-based advertising opt outs provided in the links above may rely on the use of cookies. If you disable or delete cookies, you may remove your opt-out preferences. Deleting and/or controlling the use of cookies AND visiting the opt-out links above to register your preferences will help to ensure that you do not receive interest-based advertising. Again, this does not mean that you will not receive ads, it simply means that you will not receive ads that are tailored to your web preferences and usage patterns.
+
+Except as otherwise disclosed in this Privacy Policy, we do not respond to browser Do Not Track signals or other mechanisms that provide a method to opt out of the collection of information across the networks of websites and online services in which we participate; if we do so in the future, we will describe how we do so here. For more information on Do Not Track, please visit [//allaboutdnt.com](https://allaboutdnt.com/).
+
 **Use of Personal Information**
 
 We believe in protecting your privacy, and will not share personal information (excepting your screen name or registered name) with third parties outside of Bangor Daily News except as described in this Privacy Policy.   
@@ -84,4 +98,4 @@ Bangor Daily News cares about the safety of children and their use of the Intern
 
 We respect your privacy and ability to choose whether to share information with us and any third party. You may choose to opt out from providing personal information to us by not registering on the site and thereby not providing personal information. You may also choose at a later date to have your name removed from our database. Certain portions of the site and certain services provided on the site, however, do require registration in order to access or use these areas and services. If you choose not to register or provide certain information, these areas will not be accessible to you.
 
-_Policy last updated 4/10/17_
+_Policy last updated 12/21/18_
