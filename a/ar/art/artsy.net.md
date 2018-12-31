@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the artsy.net privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625080306id_/https%3A//www.artsy.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artsy.net privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231073117id_/https%3A//www.artsy.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Artsy
 
 ## Our Privacy Policy was recently updated. Please review it carefully.
 
-Last Updated: April 30, 2018
+Last Updated: November 1, 2018
 
 This Privacy Policy ("Policy") describes how Art.sy, Inc. d/b/a Artsy (“Artsy” or “we” or “our” or “us”) collects, stores, shares, and uses information, and your choices about privacy when you use our website, products, and services (collectively, “Services”). Your privacy is important to us, and we ask that you read this Policy carefully to be informed about our practices. This Policy is part of our Terms of Use, which can be viewed at: [https://artsy.net/terms](https://web.archive.org/terms). Any capitalized terms that are used but not defined in this Policy have the same meaning given to them in our Terms of Use. By accessing or using our Services in any way, you agree that your information may be collected, stored, shared, and used as described in this Policy and our Terms of Use. By using our Services, you consent to the collection, use and sharing of your Personal Information as outlined in this Policy. You may withdraw consent at any time in writing, however such withdrawal does not negate our right to process your data prior to your withdrawal. 
 
@@ -14,7 +14,7 @@ This Policy applies to all of our Services, regardless of how you use them, and 
 
 ## Types of Information We Process
 
-**Information You Provide:** We may collect the information that you provide or otherwise make available to us when you access or use our Services, including when you:
+**Information You Provide:** We may collect the information that you provide (such as name, email address, home address, phone number) or otherwise make available to us when you access or use our Services, including when you:
 
   * fill in any forms on our Services, such as when you register for an Artsy account or update your account or User profile information;
   * access or use our Services, such as when you search for or view artwork or other items, follow artists, galleries, institutions or other Users, place bids in an auction or otherwise perform transactions, or communicate with other Users (this can include the information you provide on or through our Services, and information about how you access or use our Services, such as which features you use and when you use them);
@@ -101,7 +101,7 @@ Our Services may include links to other websites or services that we do not own 
 
 ## International Processing
 
-Artsy is based in the United States. Our Users (including the galleries and other organizations that use our Services as exhibitors or sellers), service providers, and other third parties you may interact with in connection with our Services, may be located in the United States and other countries around the world, including countries that may not offer the same level of protection for Personal Information as that offered in the United States. By accessing or using our Services in the United States or any other country or jurisdiction, you agree that your information may be transferred and processed in the United States and any other country or jurisdiction.
+Artsy is headquartered in the United States. Our Users (including the galleries and other organizations that use our Services as exhibitors or sellers), service providers, and other third parties you may interact with in connection with our Services, may be located in the United States and other countries around the world, including countries that may not offer the same level of protection for Personal Information as that offered in the United States. By accessing or using our Services in the United States or any other country or jurisdiction, you agree that your information may be transferred and processed in the United States and any other country or jurisdiction.
 
 In cases of onward transfer to third parties of Personal Information of EU individuals received pursuant to the EU-U.S. Privacy Shield, Artsy remains accountable for the onward transfer of such Personal Information.
 
@@ -119,7 +119,7 @@ Some jurisdictions have laws that give people the right to access or correct the
 
 ## EU-U.S. Privacy Shield
 
-Artsy is a participant in the U.S. Department of Commerce’s EU-U.S. Privacy Shield and we have certified that we adhere to the EU-U.S. Privacy Shield Principles. We are subject to the investigatory and enforcement powers of the Federal Trade Commission.
+Artsy is a participant in the U.S. Department of Commerce’s EU-U.S., we are committed to the principles of Privacy Shield, and we have certified that we adhere to the EU-U.S. Privacy Shield Principles. We are subject to the investigatory and enforcement powers of the Federal Trade Commission.
 
 For more information about the EU-U.S. Privacy Shield Framework, visit the U.S. Department of Commerce's Privacy Shield website [here](https://www.privacyshield.gov/welcome).
 
@@ -143,7 +143,7 @@ If you have questions or comments about our Privacy Policy or practices, would l
 
 We may also use third-party advertising providers, including ad networks or exchanges, to help display ads on our Services or on other websites, including customized ads based on past online activity. These third parties may use cookies, web beacons and similar technologies to help provide their services to us, and to collect information about your and others’ online activity across different websites. These providers may also collect your IP address, device identifier, or identifier for advertising (IDFA). The third-party advertising providers we use include but are not limited to Google Analytics, and we use its Remarketing and Demographics and Interest Reporting features, which enables Google Analytics to collect data about traffic on our Services through [Google advertising cookies](http://www.google.com/policies/technologies/types/) and anonymous identifiers. We and third-party providers, including Google Analytics, may use first-party cookies (i.e. cookies set by the website you are visiting) and third-party cookies (i.e. cookies set by a third-party website other than the website you are visiting) to inform, optimize, and serve ads based on past visits to our Services. We do not control the practices of any third-party providers, and this Cookie Policy (and our Privacy Policy in general) does not cover the use of cookies, web beacons or similar technologies by any third parties. 
 
-**Opting-Out.** Third-party providers may offer you a way to opt-out of receiving cookies from them by visiting their own websites or the websites of industry groups such as the [Network Advertising Initiative](http://www.networkadvertising.org/choices/) and the [Digital Advertising Alliance](http://www.aboutads.info/choices/). For example, you may opt-out of receiving ad-related cookies from Google through its [Ad Settings](https://www.google.com/settings/ads/onweb/). If you opt-out of receiving cookies from one of these providers, it may place a cookie on your device to remember your preference. Accordingly, if you delete cookies, install a new browser, or start using a new device, you may need to repeat the opt-out process. 
+**Opting-Out.** Third-party providers may offer you a way to opt-out of receiving cookies from them by visiting their own websites or the websites of industry groups such as the [Network Advertising Initiative](http://www.networkadvertising.org/choices/) and the [Digital Advertising Alliance](http://www.aboutads.info/choices/). For example, you may opt-out of receiving ad-related cookies from Google through its [Ad Settings](https://www.google.com/settings/ads/onweb/). If you opt-out of receiving cookies from one of these providers, it may place a cookie on your device to remember your preference. Accordingly, if you delete cookies, install a new browser, or start using a new device, you may need to repeat the opt-out process. To opt out of receiving any marketing materials, please email us at [privacy@artsy.net](mailto:privacy@artsy.net).
 
 **Changes to this Cookie Policy.** As this Cookie Policy is part of our Privacy Policy, we may update it at any time as described in our Privacy Policy. Please review this Cookie Policy regularly to be informed of any updates.
 
