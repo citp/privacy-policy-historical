@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allaboutcircuits.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625040810id_/https%3A//www.allaboutcircuits.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allaboutcircuits.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231032838id_/https%3A//www.allaboutcircuits.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -121,7 +121,7 @@ If you have any questions about this Privacy Policy, the practices of this Site,
 
 EETech Media, LLC  
 ATTN: Data Protection Officer  
-404 S. 8th St., Ste. 203  
+850 W Main St.,  
 Boise, ID 83702
 
 This document was last updated on May 24, 2018
