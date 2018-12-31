@@ -1,201 +1,215 @@
-> *The following text is extracted and transformed from the warthunder.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602172412id_/https%3A//warthunder.com/en/support/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warthunder.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231223114id_/https%3A//warthunder.com/en/support/privacypolicy) for the most accurate reproduction.*
 
 # Privacy policy - War Thunder
 
-Last updated 24th of May 2018
+Last updated 28 December 2018
 
-This Privacy Policy explains what kind of information about you Gaijin Network Ltd. collects and processes when you use our online games “War Thunder”, “Crossout”, “Star Conflict”, and others published by Gaijin Network Ltd. (“Game”/”Games”), the official online store of the Games - [https://store.gaijin.net](https://store.gaijin.net/), the official websites of the Games - [https://warthunder.ru](https://warthunder.ru/), [https://warthunder.com](https://warthunder.com/), [https://crossout.net](https://crossout.net/), [http://star-conflict.com](http://star-conflict.com/) as well as other websites where this Privacy Policy is published (“Website”/”Websites”), and other services (e.g., support services, in-game chats, forums, etc.) related to the Games or Gaijin Network Ltd. Gaijin Network Ltd. will hereinafter be referred to as “Gaijin”. The pronouns “we”, “our” and their derivatives also refer to Gaijin Network Ltd.
+This privacy policy explains what kind of information about you Gaijin Network Ltd collects and processes when you use our online games, ‘War Thunder’, ‘Crossout’, ‘Star Conflict’, ‘Enlisted’ and others which have been published by Gaijin Network Ltd (which hereinafter are referred to as the ‘Game’ or ‘Games’). The same applies to the official online store for the games - [https://store.gaijin.net](https://store.gaijin.net/) \- and the official websites for the games - [https://warthunder.ru](https://warthunder.ru/), [https://warthunder.com](https://warthunder.com/), [https://crossout.net](https://crossout.net/), and [http://star-conflict.com](http://star-conflict.com/), https://enlisted.net \- as well as to other websites where this privacy policy is published (with these websites hereinafter being referred to as the ‘Website’ or ‘Websites’), and via other services (such as support services, in-game chats, forums, etc) where these are related to the games or to Gaijin Network Ltd. Gaijin Network Ltd will hereinafter be referred to as ‘Gaijin’. The pronouns ‘we’, ‘our’, and ‘their’ also refer to Gaijin Network Ltd.
 
 PLEASE READ THIS PRIVACY POLICY BEFORE CONTINUING TO USE THE GAME OR THE WEBSITE. BY CONTINUING TO USE THE GAME OR THE WEBSITE YOU WILL BE DEEMED TO HAVE ACCEPTED THIS PRIVACY POLICY.
 
-If after reviewing this Privacy Policy you still have questions or privacy concerns please contact us at [[email protected]](https://warthunder.com/cdn-cgi/l/email-protection#eb9b99829d8a8892ab8c8a82818285c5858e9f).
+If, after reviewing this privacy policy, you still have any questions or privacy concerns please contact us at [[email protected]](https://warthunder.com/cdn-cgi/l/email-protection#7f0f0d16091e1c063f181e1615161151111a0b). Please note that for security reasons your requests concerning rectification or erasure of your personal data shall be sent through our support service at: [https://support.gaijin.net](https://support.gaijin.net/).
 
 1\. DATA CONTROLLER
 
-Data controller means the legal person which determines the purposes and means of the processing of user data.
+The term ‘data controller’ refers to the legal person which determines the purposes and means of the processing of user data.
 
-Controller’s name: Gaijin Network Ltd.
+Controller’s name: Gaijin Network Ltd
 
-Address: Kyriakou Matsi, 10 Liliana Building, 2nd floor Office 203, PC 1082 Nicosia, Cyprus
+Address: Kyriakou Matsi, 10 Liliana Building, 2nd Floor Office 203, PC 1082 Nicosia, Cyprus
 
-E-mail: [[email protected]](https://warthunder.com/cdn-cgi/l/email-protection#2151534857404258614640484b484f0f4f4455)
+Email: [[email protected]](https://warthunder.com/cdn-cgi/l/email-protection#0f7f7d66796e6c764f686e6665666121616a7b)
+
+Please note that for security reasons your requests concerning rectification or erasure of your personal data shall be sent through our support service at: [https://support.gaijin.net](https://support.gaijin.net/).
 
 2\. DATA WE COLLECT ABOUT YOU
 
 2.1. Data you provide us:
 
-2.1.1. when you create a game account - nickname and email.
+2.1.1. when you create a game account this is your nickname and email address;
 
-2.1.2. when you contact our support team, send your messages in chat, post your comments on the forum - data that you send at your discretion and/or with your consent;
+2.1.2. when you contact our support team, send your messages in chat, post your comments on the forum, this all contains data that you send at your discretion and/or with your consent;
 
-2.1.3. when you enable the two-factor authorization - your mobile phone number;
+2.1.3. when you enable two-factor authorisation your mobile phone number is recorded;
 
-2.1.4. when you provide us with data to send you a prize or a gift - the data that is required for delivery and/or use of the prize/gift;
+2.1.4. when you provide us with your details so that we can send you a prize or a gift, we collect the details that are required for delivery and/or for the use of the prize or gift;
 
-2.1.5. if you participate in our surveys - the data required for participation in the survey.
+2.1.5. if you participate in our surveys, we collect the details that are required for your participation in the survey.
 
 2.2. Data we may collect automatically:
 
-2.2.1. User ID generated by us;
+2.2.1. A user ID which is generated by us;
 
-2.2.2. IP-address;
+2.2.2. Your IP address;
 
-2.2.3. Data about your device (operating system, browser type and language, manufacturer, model, screen resolution, interface language);
+2.2.3. Details about your device (such as operating system, browser type and language, manufacturer, model, screen resolution, and interface language);
 
 2.2.4. Profile data and gameplay data;
 
-2.2.5. Traffic source (source from which the Game was installed on your mobile device);
+2.2.5. Traffic source (the source from which the game was installed on your mobile device);
 
-2.2.6. General location data (if available, usually the country and the city, without identifying your specific location);
+2.2.6. General location data (if available, usually your town or city and country, without identifying your specific location);
 
-2.2.7. Gameplay data and data on interaction with other players (application installation date; version of the application; interface language; all and any quantitative and time data about your in-game activity, incl. gaming achievements, completed game tasks, in-game purchases, game results, information about in-game interactions with other players, the time of the last gaming session, information about any queries executed through the Game, etc.);
+2.2.7. Gameplay data and details which cover your interaction with other players (application installation date; the application version; interface language; any and all quantitative and time data about your in-game activity, including gaming achievements, completed game tasks, in-game purchases, game results, information about in-game interactions with other players, the time of your last gaming session, information about any queries which have been executed through the game, etc);
 
-2.2.8. Records of your requests to our support team, other requests send to us in accordance with this Privacy Policy.
+2.2.8. Records of your requests to our support team, and any other requests sent to us in accordance with this privacy policy.
+
+2.2.9. Data that you provide to us in the course of participating in our alpha-tests, beta-tests and other similar tests of the Game.
 
 2.3. Data we may collect from our partners:
 
-2.3.1. Data we collect when players link third-party services (i.e., Facebook, Mail.Ru, Gmail) with our Games, including your name (nickname), email, profile image (photo), data on your friends playing the same Game as you, depending on the privacy settings of the particular third-party service);
+2.3.1. Data we collect when players link third-party services (ie. Facebook, Mail.Ru, Gmail) with our games, including your name (nickname), email address, profile image (photo), and details about your friends who are playing the same game as you, depending on the privacy settings of the particular third-party service);
 
-2.3.2. Data to fight fraud and unfair methods of play;
+2.3.2. Data which helps to fight fraud and unfair methods of play;
 
-2.3.3. Data from platforms that the games run on (such as to verify payment; other platforms IDs);
+2.3.3. Data from platforms upon which the games run (such as to verify payment; or the IDS of the other platforms);
 
-2.3.4. Data for advertising and analytics purposes, so we can provide you a better service.
+2.3.4. Data for advertising and analytical purposes, so that we can provide you with a better service;
 
-2.3.5. Data from our payment partners for sending the invoices to you when you buy something in our official store - [https://store.gaijin.net](https://store.gaijin.net/).
+2.3.5. Data from our payment partners for sending invoices to you when you buy something via our official store: [https://store.gaijin.net](https://store.gaijin.net/).
 
 2.4. Public data we may collect:
 
-2.4.1. Your feedback, comments, opinions about the Games and our services published by you in the form of texts, audio recordings, video recordings on public resources.
+2.4.1. Your feedback, comments, or opinions about the games and our services which is published by you in the form of texts, audio recordings, or video recordings on public resources.
 
 2.5. Data we DO NOT collect:
 
-2.5.1. We do not collect any data about your payment instruments (i.e., bankcard data, etc.);
+2.5.1. We do not collect any data about your payment instruments (ie. bank or card data, etc);
 
-2.5.2. We do not request or intend to collect any “special categories of personal data” (i.e., any information on your health, race, religion, political views, etc.). Kindly be cautious when sharing this information about yourself on the Websites, in game chats and on forums.
+2.5.2. We do not request or intend to collect any ‘special categories of personal data’ (ie. any information about your health, race, religion, political views, etc). Kindly be cautious when sharing this information about yourself on the websites, in game chats, and on the forums.
 
-3\. PURPOSES OF PROCESSING YOUR USER DATA
+3\. THE PURPOSES BEHIND PROCESSING YOUR USER DATA
 
-We use the information collected about you and your device to provide you with our Games and services and conduct our business. We pursue the following goals when processing your user data:
+We use the information that is collected about you and your device to provide you with our games and services and to be able to conduct our business. We pursue the following goals when processing your user data:
 
-(1) To perform the contract with you and to enable you to play our Games, use the Websites and related services - for this purpose we do the following:
+(1) To carry out the duties and provide the services that are part of the contract with you and to enable you to play our games, and use the websites and related services. For this purpose we carry out the following:
 
-(a) operate, administer and support our Games and Websites;
+(a) operate, administer, and support our games and websites;
 
-(b) create user profiles, build up and maintain users database;
+(b) create user profiles, and build up and maintain the users database;
 
-(c) receive bug reports, improve your game experience, improve the quality of our services, develop, improve our Games, Websites and related services;
+(c) receive bug reports, improve your game experience, improve the quality of our services, and develop and improve our games, websites and related services;
 
 (d) enable you to communicate with other players in chats and on forums (where available);
 
-(e) conduct surveys and researches, analyze, integrate use the received results in an anonymized form;
+(e) conduct surveys and research, and analyse and integrate into use the results that are received from such surveys and research in an anonymised form;
 
-(f) personalize our Games and Websites for you (i.e., by storing your preferences and settings);
+(f) personalise our games and websites for you (ie. by storing your preferences and settings);
 
-(g) send you messages in order to confirm the fulfillment of certain actions by you - by mobile phone number and/or email;
+(g) send you messages in order to confirm the fulfilment of certain actions by you, via your supplied mobile phone number and/or email address;
 
-(h) send you technical messages, service notices, legal notices (including changes in regulatory documents), replies to your requests in our support service, the results of our consideration of your requests in accordance with this Privacy Policy and other mandatory information – by email. (2) To show personalized advertisements and send direct marketing messages to you - for this purpose our analytics partners (see article 5.2.) and some other partners may track your online behavior and then show you personalized advertisements in the Games as well as in other games and websites. In addition, we may make you special personalized in-game offers based on the data about your use of our Games. We also may send you by e-mail information messages about games patches and updates, news, forthcoming releases, special promotions and offers, discounts, competitions, etc. For details on your right to opt out of personalized advertisements and direct marketing messages, see article 6.2.
+(h) send you technical messages, service notices, legal notices (including changes in regulatory documents), replies to your requests via our support service, the results of our consideration of your requests in accordance with this privacy policy and other compulsory information to you via email.
 
-(3) To ensure security, to fight fraud and unfair methods of play - for this purpose we may monitor and analyze the behavior of players in the Games, take action against players who violate the rules of fair play, take necessary precautionary measures.
+(2) To show personalised advertisements and send direct marketing messages to you. For this purpose our analytics partners (see article 5.2) and some other partners may track your online behaviour and then show you personalised advertisements in the games as well as in other games and on other websites. In addition, we may produce special, personalised in-game offers for you based on the data about your use of our games. We may also send out information via your email address which contains messages about games patches and updates, news, forthcoming releases, special promotions and offers, discounts, competitions, and other events directly related to our Games. For details regarding your right to opt out of personalised advertisements and direct marketing messages, see article 6.2.
 
-(4) To analyze all collected data, to segment and profile data.
+(3) To ensure security, and to fight fraud and unfair methods of play, we may monitor and analyse the behaviour of players in the games, take action against players who violate the rules of fair play, and take any necessary precautionary measures.
 
-(5) To comply with applicable laws, perform legal obligations, exercise or protect our rights, protect your vital interests or the interests of others.
+(4) To analyse all data which has been collected, and to segment and profile data.
+
+(5) To comply with applicable legal requirements, and to be able to carry out our legal obligations, exercise or protect our rights, and protect your vital interests or the interests of others.
 
 4\. PUBLIC USER DATA
 
-Other players may see some of your user data. For example, other players may see your nickname and profile image (photo) as well as your nickname and account image (photo) from your social network account if you linked your social network account to your game account, they can see also your game results, posts on the Websites, messages in chats and on forums. In addition, your nickname and profile image can be viewed in game ratings (leaderboards) placed on a variety of Internet resources.
+Other players may see some of your user data. For example, other players may see your nickname and profile image (photo) as well as your nickname and account image (photo) via your social network account if you have linked your social network account to your game account. They can also see your game results, posts on the websites, and messages in chats and on forums. In addition, your nickname and profile image can be viewed in game ratings (leaderboards) which are placed on a variety of internet resources.
 
 5\. SHARING USER DATA WITH THIRD PARTIES
 
-As a rule, we do not share your user data with anyone and ensure confidentiality of your data. However, in some cases described in this Privacy Policy, we may share your user data with third parties.
+As a rule, we do not share your user data with anyone and we ensure the confidentiality of your data. However, in some cases which are described in this privacy policy, we may share your user data with third parties.
 
-5.1. We may share your user data with any competent law enforcement body, regulatory, government agency, court for the purposes of compliance with the applicable law, response to their lawful request.
+5.1. We may share your user data with any competent law enforcement body, or regulatory or government agency, or with the courts for the purposes of compliance with applicable legislation, or in response to an official and legal request.
 
-5.2. Analytics partners. We share some of your user data with our partners processing your user data for statistics, analytics and providing you with personalized online advertising ("Analytics Partners"). Such partners, for example, include Google.Analytics and Yandex.Metrics. We encourage you to check their privacy policies to learn more about their data processing practices. Analytics partners may disclose your data in aggregated manner, for the purposes of showing trends about the use of their services, for advertising services and marketing purposes. We can aggregate the data for benchmarking feature.
+5.2. Analytics partners. We share some of your user data with our partners who are processing your user data for statistics, analytics, and to provide you with personalised online advertising (hereinafter referred to as ‘Analytics Partners’). Such partners can include, for example, Google Analytics and Yandex Metrics. We encourage you to check their privacy policies to be able to learn more about their data processing practices. Analytics partners may disclose your data in an aggregated manner for the purposes of illustrating trends about the use of their services, for advertising services or for marketing purposes. We can also aggregate the data for our benchmarking feature.
 
-5.2.1. Details of using Google. Analytics.
+5.2.1. The details of using Google Analytics
 
-The Games use the Google Analytics web analytics service provided by Google Inc. To learn more about how Google collects and processes your user data, visit <https://policies.google.com/technologies/partner-sites?hl=en>. In order to control the collection of your data by Google for analytical purposes, you can install the Google Analytics Opt-out Browser Add-On - https://tools.google.com/dlpage/gaoptout.
+The games use the Google Analytics web analytics service which are provided by Google Inc. To be able to learn more about how Google collects and processes your user data, visit <https://policies.google.com/technologies/partner-sites?hl=en>. In order to be able to control the collection of your data by Google for analytical purposes, you can install the Google Analytics Opt-Out Browser Add-On: https://tools.google.com/dlpage/gaoptout.
 
-5.2.2. Details of using Yandex.Metrics.
+5.2.2. The details of using Yandex Metrics
 
-The Games and the Websites use Yandex.Metrics web analytics provided by Yandex Oy Limited Company - Moreenikatu 6, 04600 Mantsala, Finland (hereinafter - Yandex). Yandex.Metrica uses “cookies,” small text files placed on users’ computers to analyze user activity. Information collected by cookies does not reveal your identity, but it can help us to improve our Games and Websites performance. Information about your use of the Games and Websites collected by cookies will be transferred to Yandex and stored on Yandex’s server in the EU and the Russian Federation. Yandex will process this information to assess how you use the Games and Websites, compile reports for us on our website operation, and provide other services. Yandex processes this information as specified in the Terms of Use of Yandex.Metrica Service. You can stop using cookies be making relevant adjustments in browser settings. You can also use the tool https://yandex.com/support/metrika/general/opt-out.html. However, it can affect some website functions. By using our Games and Websites, you agree that Yandex can process your data in the above manner and for the above purposes.
+The games and the websites use Yandex Metrics web analytics which are provided by Yandex Oy Limited at Moreenikatu 6, 04600 Mantsala, Finland (which hereinafter is referred to as ‘Yandex’). Yandex Metrics uses ‘cookies’, small text files which are placed on user computers to analyse user activity. Information which is collected by cookies does not reveal your identity, but it can help us to improve the performance of our games and websites. Information about your use of the games and websites which is collected by cookies will be transferred to Yandex for storage on the Yandex server in the EU and the Russian Federation. Yandex will process this information to assess how you use the games and websites, compile reports for us in terms of our website operation, and provide other services. Yandex processes this information as specified in the ‘Terms of Use’ for the Yandex Metrics service. You can stop using cookies by making the relevant adjustments in your browser settings. You can also use the tool at: https://yandex.com/support/metrika/general/opt-out.html. However, this can affect some website functions. By using our games and websites, you agree that Yandex can process your data in the aforementioned manner and for the aforementioned purposes.
 
-5.3. Advertising partners. We may share some impersonal user data necessary for the transfer of advertisements, accounting for the rendered advertising services with our advertising partners.
+5.3. Advertising partners. We may share some of Your user data (i.e. e-mail) where this is necessary for the publication, personalization (targeting) of advertisements, or for accounting purposes in relation to the advertising services being rendered by our advertising partners.
 
-5.4. Tracking partners. We allow our partners to track the number of impressions, installations, and other indicators of the effectiveness of our ads, and in this respect they have the right to process some of your user data. For instance, we use Facebook tracking service. Please have a look at their privacy policy: <https://www.facebook.com/privacy/explanation>.
+5.4. Tracking partners. We allow our partners to track the number of impressions and installations, as well as other indicators of the effectiveness of our adverts and, in this respect, they have the right to process some of your user data. For instance, we use the Facebook tracking service. Please have a look at their privacy policy: <https://www.facebook.com/privacy/explanation>.
 
-5.5. Operating partners. We may share any and all of your user data with our partners that provide the following services: (a) hosting, (b) user support, (c) testing, (d) statistical and marketing research, data analysis.
+5.5. Operating partners. We may share any and all of your user data with our partners where those partners provide the following services: (a) hosting; (b) user support; (c) testing; and (d) statistical and marketing research or data analysis.
 
-5.6. 2FA providers. We may share your data (such as mobile phone number) with partners providing Two Factor Authentication services. 5.7. Payment partners / licensees. When you purchase something at our official online store https://store.gaijin.net, we share with our payment partners your player ID and the amount of the payment. In some cases, we share your email, nickname, IP address and date of your registration in the Game with our licensees who help us to operate the Game and receive payments.
+5.6. 2FA providers. We may share your data (such as your mobile phone number) with partners who provide ‘Two Factor Authentication’ services.
 
-5.8. Partners for the protection against cheats and unfair play. We are using different services to protect our users from cheats and unfair play, including EasyAntiCheat service (“Easy Anti-Cheat”), which are operated by a third-party service provider offering services to us. Easy Anti-Cheat and other similar services have a client software (“Client”) that is integrated into the Games (where applicable). When you start a new Game session the Client will automatically load and install its latest version to the Unit. When you are using the Game on your Unit Easy Anti-Cheat (as well as other similar service) is monitoring the Unit, analyzing the Game binaries and scanning the memory of the Unit for the purpose of detecting and preventing cheating in the Game (“Purpose”). For the Purpose Easy Anti-Cheat (as well as other similar service) is storing information regarding cheating methods used in the Game (“Data”). The Data will contain your personal data as described in of the privacy statement of Easy Anti-Cheat. By installing, copying, or otherwise using the Game, you give your consent that Easy Anti-Cheat (as well as other similar service) may gather, store, share and publish Data for the sole purpose of the Purpose. You also acknowledge and agree that the processing activities of Easy Anti-Cheat (as well as other similar service) include automated decision-making which may have significant effects to you as you may be banned from the Game if you have been found to be cheating in it. The Data will be used solely for the Purpose including but not limited to identifying and banning player accounts which are used for cheating in computer games, analyzing cheating behavior and cheating codes, as well as sharing data about cheats with affiliates of Easy Anti-Cheat ((as well as other similar service)). You are entitled to use the Game only in accordance with applicable terms and conditions and privacy statement of Easy Anti-Cheat - [www.easyanticheat.net/privacy/](https://www.easy.ac/en-us/support/ragnarok/account/privacy/).
+5.7. Payment partners/licensees. When you purchase something via our official online store at: https://store.gaijin.net, we share with our payment partners your player ID and the value of the payment. In some cases we will also share your email address, nickname, IP address, and the date of your registration in the game with our licensees who help us to operate the game and receive payments.
 
-5.9. Licensees, assignees, purchasers. If we decide to assign the exclusive rights in and to the Game, appoint the licensee to operate the Game, sell the shares of Gaijin Network Ltd. to a purchaser or merger with another company, we may share your user data to the assignee, licensee, purchaser or a new legal entity formed as a result of the merger of Gaijin Network Ltd. with another company, respectively, without your additional consent.
+5.8. Partners for protection against cheats and unfair play. We use different services to protect our users from cheats and unfair play, including the ‘EasyAntiCheat’ service (referred to hereinafter as ‘Easy Anti-Cheat’), which are operated by a third-party service provider who offers services to us. Easy Anti-Cheat and other, similar services have a client software (hereinafter referred to as the ‘Client’) that is integrated into the games (where applicable). When you start a new game session the client will automatically load and install its latest version into the unit. When you are using the game on your unit, Easy Anti-Cheat (as well as other similar services) will monitor the unit, analysing the game binaries and scanning the unit’s memory for the purpose of detecting and preventing cheating in the game (hereinafter referred to as ‘Game Protection’). For this purpose, Easy Anti-Cheat (as well as other similar services) will store information regarding cheating methods that can be used in the game (hereinafter referred to as the ‘Data’). The data will contain your personal data as described in the privacy statement for Easy Anti-Cheat. By installing, copying, or otherwise using the game, you provide your consent that Easy Anti-Cheat (as well as other similar services) may gather, store, share, and publish data for the sole purpose of game protection. You also acknowledge and agree that the processing activities of Easy Anti-Cheat (as well as other similar services) include automated decision-making which may have a significant effect upon you as you may be banned from the game if you have been found to be cheating in it. The data will be used solely for game protection, including but not limited to identifying and banning player accounts which are used for cheating in computer games, analysing cheating behaviour and cheating codes, and also for sharing data about cheats with affiliates of Easy Anti-Cheat (as well as other, similar service). You are entitled to use the game only in accordance with applicable terms and conditions and the Easy Anti-Cheat privacy statement at: [www.easyanticheat.net/privacy/](https://www.easy.ac/en-us/support/ragnarok/account/privacy/).
 
-5.10. Affiliates. Being an international company operating worldwide, we may share any and all of your user data with our affiliates (i.e. the companies control us, or being under our control, or being under common control with us), and subsidiaries. We take reasonable measures to ensure the confidentiality of your user data.
+5.9. Licensees, assignees, and purchasers. If we decide to assign the exclusive rights in and to the game, appoint the licensee to operate the game, sell the shares of Gaijin Network Ltd to a purchaser, or agree a merger with another company, we may share your user data to the assignee, licensee, or purchaser, or a new legal entity which is formed as a result of a merger by Gaijin Network Ltd with another company, without seeking your additional consent.
 
-In the future, we may enter into contracts with other partners, we will make every reasonable effort to update the list of our partners given in this Privacy Policy in a timely manner at least once every six months, or more often in the event of a significant change in our data processing practices.
+5.10. Affiliates. Being an international company which operates worldwide, we may share any and all of your user data with our affiliates (ie. the companies which control us, or which are under our control, or which are under common control along with us), and any subsidiaries. We take all reasonable measures to ensure the confidentiality of your user data.
 
-We operate all over the world, and therefore we may transfer your user data to our partners in the different countries including those located outside the European Union or European Economic Area. We guarantee an adequate level of personal data protection in each case. We take reasonable steps to ensure the confidentiality of your personal data transferred to the countries located outside the European Union or European Economic Area, including but not limited to, by entering into standard data protection terms adopted by the European Commission with third parties located outside the European Union or European Economic Area (a copy of which we will provide upon request).
+5.11. Auditors. From time to time Gaijin Network Ltd. and its affiliates may hire third-party auditing companies and therefore some of your user data (for example, your User ID, email address, list of in-game purchases) may be transferred to such companies solely for the purpose of auditing.
+
+In the future, we may enter into contracts with other partners. If this is the case then we will make every reasonable effort to update the list of our partners which is provided in this privacy policy in a timely manner at least once every six months, or more often in the event of a significant change in our data processing practices.
+
+We operate all over the world, and therefore we may transfer your user data to our partners in different countries, including those which are located outside the European Union or European Economic Area. We guarantee an adequate level of personal data protection in each case. We take all reasonable steps to ensure the confidentiality of your personal data when it is transferred to countries which are located outside the European Union or European Economic Area, including but not limited to, by entering into standard data protection terms which have been adopted by the European Commission with third parties who are located outside the European Union or European Economic Area (a copy of which we will provide upon request).
 
 6\. YOUR RIGHTS
 
-6.1. Right of access
+6.1. The right of access
 
-You have the right to request with reasonable frequency information about your personal data we store and require us to provide you with a copy of your personal data we store or access to such data. To exercise this right, you should send us a request [to](https://warthunder.com/cdn-cgi/l/email-protection#8bffe4) our support service https://support.gaijin.net and follow the instructions provided or send us such a request directly in your personal account (where available). Please note that in some cases, to comply with a request, we may ask you to provide us with some additional information necessary to identify you as our user. We undertake to comply with your request free of charge within one (1) month of receipt, but in some cases provided by the law, this period may be extended by a further (2) two months. We have the right to refuse to comply with your request or charge a reasonable fee, if your request is manifestly unfounded or excessive.
+You have the right to request with reasonable frequency any information about your personal data which we have stored, and can require us to provide you with a copy of your personal data which we have stored or provide access to such data. In order to exercise this right, you should send us a request via our support service: https://support.gaijin.net, and follow the instructions provided or send us such a request directly through your personal account (where available). Please note that in some cases, in order to comply with a request, we may ask you to provide us with some additional information where this is necessary to identify you as our user. We undertake to comply with your request free of charge within one (1) month of receipt, but in some cases which are regulated by legislation this period may be extended by a further two (2) months. We have the right to refuse to comply with your request or charge a reasonable fee if your request is manifestly unfounded or excessive.
 
-6.2. Right to opt out of personalized (interest-based) ads and direct marketing
+6.2. The right to opt out of personalised (interest-based) adverts and direct marketing
 
-6.2.1. You may change the settings of your browser at any time and opt out of the analytics cookies on, in accordance with the instruction given in article 10.6.2.2. You also have the right to customize the collection and processing of your data by our Analytics partners in accordance with the instructions contained in article 5.2. 6.2.3. We may send you targeted in-game offers based on the analysis of your user data (mainly data about your in-game activity) in accordance with certain algorithms. These in-game offers do not significantly affect your rights and interests, they are designed to provide you with timely interesting (in our opinion) offers for you. However, if you want to opt out of receiving targeted in-game offers from us, please let us know by contacting our support service [https://support.gaijin.net](https://support.gaijin.net/) or through game settings (where available).
+6.2.1. You may change your browser settings at any time and opt out of the analytics cookies in accordance with the instructions given in article 10.
 
-6.2.4. We have the right to send you direct marketing messages by email, as specified in subclause (2) of clause 3. You may unsubscribe from such mailings by following the instructions provided in the e-mail received from us. Please note that your refusal to receive direct marketing messages from us does not affect our right to send you emails specified in subclause 1(h) of clause 3. 6.3. Right to rectification
+6.2.2. You also have the right to customise the collection and processing of your data by our Analytics partners in accordance with the instructions contained in article 5.2.
 
-You have the right to have inaccurate personal data rectified. You can change some data about you directly in the Game settings (for example, such data as nickname or profile in social network linked to your game profile). Please inform us by contacting our support service [https://support.gaijin.net](https://support.gaijin.net/) if any of your personal data retained by us is inaccurate. Please note that in some cases, to comply with a request, we may ask you to provide us with some additional information necessary to identify you as our user. We undertake to comply with your request free of charge within one (1) month of receipt, but in some cases provided by the law, this period may be extended by a further (2) two months. We have the right to refuse to comply with your request or charge a reasonable fee, if your request is manifestly unfounded or excessive.
+6.2.3. We may send you targeted in-game offers based on the analysis of your user data (mainly data about your in-game activity) in accordance with certain algorithms. These in-game offers do not significantly affect your rights or interests. They are designed to provide you with timely and interesting (in our opinion) offers for you. However, if you want to opt out of receiving targeted in-game offers from us, please let us know by contacting our support service at: [https://support.gaijin.net](https://support.gaijin.net/), or through game settings (where available).
 
-6.4. Right to erasure
+6.2.4. We have the right to send you direct marketing messages by email, as specified in sub-clause (2) of clause 3. You may unsubscribe from such mailings by following the instructions provided in the email which you receive from us. Please note that your refusal to receive direct marketing messages from us does not affect our right to send you emails that are specified in sub-clause 1(h) of clause 3. 6.3. The right to rectification.
 
-You have the right to have your personal data retained by us erased by contacting our support service [https://support.gaijin.net](https://support.gaijin.net/) or by sending the request through your personal account (where available). Please note that in some cases, to comply with a request, we may ask you to provide us with some additional information necessary to identify you as our user. We undertake to comply with your request free of charge within one (1) month of receipt, but in some cases provided by the law, this period may be extended by a further (2) two months.
+You have the right to have inaccurate personal data amended. You can change some data about you directly via the game settings (such as, for example, your nickname or profile in a social network which is linked to your game profile). Please inform us by contacting our support service at: [https://support.gaijin.net](https://support.gaijin.net/), if any of your personal data which is retained by us is inaccurate. Please note that in some cases, in order to be able to comply with a request, we may ask you to provide us with additional information which is necessary to identify you as our user. We undertake to comply with your request free of charge within one (1) month of receipt, but in some cases which are regulated by legislation this period may be extended by a further two (2) months. We have the right to refuse to comply with your request or charge a reasonable fee if your request is manifestly unfounded or excessive.
 
-Note that complying with your request to erase your personal data will result in deletion of your game account and/or in all game results and game progress associated with your game account being irretrievably lost, so consider this when deciding to erase your personal data.
+6.4. The Right to erasure
 
-Please also note that uninstallation of the Game on your mobile device does not automatically result in the erasure of your personal data on our game servers.
+You have the right to have your personal data erased where such data is retained by us by contacting our support service via: [https://support.gaijin.net](https://support.gaijin.net/), or by sending your request through your personal account (where available). Please note that in some cases, in order to be able to comply with a request, we may ask you to provide us with additional information which is necessary to identify you as our user. We undertake to comply with your request free of charge within one (1) month of receipt, but in some cases which are governed by applicable legislation this period may be extended by a further two (2) months.
 
-We have the right to continue to retain some of your user data even after complying with your erasure request, if (1) we are required to do so in order to comply with the applicable law; or (2) you user data have been anonymized and therefore is no longer your personal data.
+Please note that complying with your request to erase your personal data will result in the deletion of your game account and/or all game results, and any game progress which is associated with your game account may be irretrievably lost, so please consider this when deciding to erase your personal data.
 
-6.5. Right to object
+Please also note that uninstalling the game from your computer device does not automatically result in the erasure of your personal data from our game servers.
 
-You have the right to object to the processing of your personal data. Please let us know about your objections at [[email protected]](https://warthunder.com/cdn-cgi/l/email-protection#d8a8aab1aeb9bba198bfb9b1b2b1b6f6b6bdac).
+We have the right to continue to retain some of your user data even after complying with your request to delete such data if (1) we are required to do so in order to comply with applicable legislation; or (2) your user data has been anonymised and therefore is no longer your personal data.
+
+6.5. The right to object
+
+You have the right to object to the processing of your personal data. Please let us know about your objections at: [[email protected]](https://warthunder.com/cdn-cgi/l/email-protection#d1a1a3b8a7b0b2a891b6b0b8bbb8bfffbfb4a5).
 
 6.6. Other rights
 
-You may have other rights in accordance with your applicable law (for example, the right to data portability is also guaranteed for European users by the General Data Protection Regulations effective of May 25, 2018). To effectuate your other rights, please contact us at [[email protected]](https://warthunder.com/cdn-cgi/l/email-protection#0f7f7d66796e6c764f686e6665666121616a7b).
+You may have other rights in accordance with applicable legislation in your country (such as, for example, the right to data portability also being guaranteed for European users by the General Data Protection Regulations which became effective on 25 May 2018). To effectuate your other rights, please contact us at: [[email protected]](https://warthunder.com/cdn-cgi/l/email-protection#3242405b4453514b7255535b585b5c1c5c5746).
 
-If you believe that your personal data rights have been violated, please let us know at [[email protected]](https://warthunder.com/cdn-cgi/l/email-protection#8afaf8e3fcebe9f3caedebe3e0e3e4a4e4effe). You also have the right to file a complaint with your local supervisory authority about the violation of your personal data rights in the country of your location.
+If you believe that your personal data rights have been violated, please let us know at: [[email protected]](https://warthunder.com/cdn-cgi/l/email-protection#92e2e0fbe4f3f1ebd2f5f3fbf8fbfcbcfcf7e6). You also have the right to file a complaint with your local supervisory authority about any perceived violation of your personal data rights within the country of your location.
 
-7\. PERSONAL DATA OF MINORS
+7\. THE PERSONAL DATA OF MINORS
 
-Our Games and services are not aimed at children under the age of 13 (as well as children who have not reached other applicable age of consent in accordance with the law), and we do not intentionally collect or solicit personal data from them. If we learn that we have unintentionally collected personal data from a child under 13 (or a child who has not reached the age of consent in accordance with applicable law) without the consent of his or her parental responsibility holder, we will take all reasonable steps to erase this information as soon as possible. If you find out that your child has provided us with his or her personal data without your consent, please contact us at [[email protected]](https://warthunder.com/cdn-cgi/l/email-protection) Please provide us with conclusive evidences that (a) personal data was provided by a child who has not reached the minimum age of consent in accordance with applicable law, and (b) you are his or her parental responsibility holder.
+Our games and services are not aimed at children under the age of thirteen (as well as children who have not reached any applicable ages of consent in accordance with applicable legislation), and we do not intentionally collect or solicit personal data from minors. If we learn that we have unintentionally collected personal data from a child under thirteen (or a child who has not reached the age of consent in accordance with applicable legislation) without the consent of that child’s holder of parental responsibility, we will take all reasonable steps to erase this information as soon as possible. If you find out that your child has provided us with their personal data without your consent, please contact us at: [[email protected]](https://warthunder.com/cdn-cgi/l/email-protection) Please provide us with conclusive evidence that (a) personal data was provided by a child who has not yet reached the minimum age of consent in accordance with applicable legislation, and (b) that you are the minor’s holder of parental responsibility.
 
 [For our European users:
 
-We do not exactly know the age of our users, but before the first login in the Game, we always ask each user whether he or she has reached the age of 13 or other age required in accordance with the laws of his or her country (the age of consent in the European Union varies from 13 to 16 years depending on the country), and without confirmation of this fact we do not grant access to the Game to such a user. Children who have not reached the age of consent in accordance with the laws of their country may use our Games and the Website only upon the consent of their parental responsibility holder.]
+We do not exactly know the age of our users, but before their first game log-in, we always ask each user whether they have reached the age of thirteen or whichever other age may be required in accordance with the applicable legislation of their particular country of origin (the age of consent within the European Union varies from thirteen to sixteen years, depending upon the country in question), and without confirmation of this fact we do not grant access to the game to such a user. Children who have not reached the age of consent in accordance with their country’s legislation may use our games and the website only upon receipt of the consent of their holder of parental responsibility.]
 
 8\. DATA RETENTION
 
-We retain your personal data we collect as long as your game account is active and as long as it is necessary to provide you with access to the Games and while we have legitimate interest in processing your personal data, from the moment we receive your personal data and till the moment when we erase your personal data in accordance with article 6.4. Please note that some of your user data, as set forth in article 6.4., will not be erased even after the complying with your erasure request. We also erase your personal data after reaching the goal for which we collected them (i.e., data set forth in clauses 2.1.4., 2.1.5.).
+We retain any of your personal data which we collect for as long as your game account is active, and for as long as it is necessary to provide you with access to the games, and while we have a legitimate interest in processing your personal data, from the moment we receive your personal data until the moment at which we erase your personal data in accordance with article 6.4. Please note that some of your user data, as set forth in article 6.4, will not be erased even after we have complied with your deletion request. We also erase your personal data after reaching the goal for which we collected such data (ie. data as set out in clauses 2.1.4 and 2.1.5).
 
 9\. INFORMATION SECURITY
 
-In order to ensure the security of processing your personal data we constantly develop and implement technical and organizational measures to protect your personal data from unauthorized access, disclosure, misuse, alteration, loss and destruction.
+In order to ensure the security of your personal data when it is being processed, we constantly develop and implement technical and organisational measures to protect your personal data from unauthorised access, disclosure, misuse, alteration, loss, or destruction.
 
 10\. COOKIES
 
-We and our partners (i.e., advertising partners, analytics partners) may use cookies and other similar technologies (web beacons, pixels, device ID, etc.) to recognize you and/or your device for the purposes of provision our services and personalization of the Games, the Website and related services, for the analysis of your use of our Games and Website, for showing you the personalized ads and prevention of fraud. For more information about cookies and how to disable them, please visit <https://www.aboutcookies.org/>. In addition, some third-party advertisers can use cookies in their advertising campaigns within our Games and Website. Such cookies are used to collect anonymous behavioral information that advertisers use to provide personalized ads within and outside of our Games and the Website. To disable this feature, go to <http://optout.aboutads.info/>, and follow the steps described there. In addition, you can disable these and other cookies in your browser settings. However, please note that some of the functions of the Games, the Website and the related services may not be available to you or may work improperly in the event that you disable some cookies that are not related to the personalization of ads, while in general the Games and the Website will remain accessible to you.
+We and our partners (ie. advertising partners and analytics partners) may use cookies and other similar technologies (such as web beacons, pixels, device ID, etc) to recognise you and/or your device for the purposes of providing our services and for the personalisation of the games, the website, and related services, for the analysis of your use of our games and website, to be able to show you the personalised adverts and for the prevention of fraud. For more information about cookies and how to disable them, please visit: <https://www.aboutcookies.org/>. In addition, some third-party advertisers can use cookies in their advertising campaigns within our games and on our website. Such cookies are used to collect anonymous behavioural information that advertisers use to provide personalised adverts within and outside of our games and the website. To disable this feature, go to: <http://optout.aboutads.info/>, and follow the steps described there. In addition, you can disable these and other cookies via your browser settings. However, please note that some of the functions of the games, the website, and the related services may not be available to you or may work improperly in the event that you disable some cookies that are not related to the personalisation of adverts, while in general the games and the website will remain accessible to you.
 
 11\. UPDATES TO THIS PRIVACY POLICY
 
-The current version of this Privacy Policy is available at <https://gaijin.net/en/pp/>, <https://warthunder.com/en/support/privacypolicy/>, <https://crossout.net/en/support/privacypolicy/#/>, <http://star-conflict.com/en/b/privacypolicy>.
+The current version of this privacy policy is available at: <https://gaijin.net/en/pp/>, <https://warthunder.com/en/support/privacypolicy/>, [https://crossout.net/en/support/privacypolicy/#/](https://warthunder.com/#/), and <http://star-conflict.com/en/b/privacypolicy>.
 
-We may change this Privacy Policy at any time. Any updates to this Privacy Policy come into effect from the moment of publication of the updated version of the Privacy Policy at [the webpages listed above](https://gaijindistribution.com/en/pp/), unless another effective date is specified in the text of the updated version of the Privacy Policy.
+We may change this privacy policy at any time. Any updates to this privacy policy come into effect from the moment at which the updated version of the privacy policy is published at: the websites listed above, unless another effective date is specified in the text of the updated version of the privacy policy.
