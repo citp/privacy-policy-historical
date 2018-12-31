@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nightout.com privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909064956id_/https%3A//nightout.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nightout.com privacy policy that was archived on 2019-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190101001118id_/https%3A//nightout.com/privacy-policy) for the most accurate reproduction.*
 
 # NIGHTOUT | Find Events, Tickets, Artists and Nightlife
 
@@ -9,7 +9,7 @@
 
 ## 1\. Summary.
 
-Welcome to NIGHTOUT! First and foremost, thank you for being here and we are excited to have you! This Privacy Policy discloses the privacy practices for Night Out, Inc. (the “Site”). As the provider of the Website (referred to as “us”, “we” or “Night Out, Inc.”), is committed to protecting your privacy online. Please read the following to learn what information we collect from you (the “User”) and how we use that information. If you do not wish to agree to the Privacy Policy set in this document (the “Privacy Policy”), please refrain using this website; http://nightout.com, mobile website; m.nightout.com, iPhone app, Android app and all related Night Out, Inc. Products. If you have any questions about our privacy policy, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Welcome to NIGHTOUT! First and foremost, thank you for being here and we are excited to have you! This Privacy Policy discloses the privacy practices for Night Out, Inc. (the “Site”). As the provider of the Website (referred to as “us”, “we” or “Night Out, Inc.”), is committed to protecting your privacy online. Please read the following to learn what information we collect from you (the “User”) and how we use that information. If you do not wish to agree to the Privacy Policy set in this document (the “Privacy Policy”), please refrain using this website; http://nightout.com, mobile website; m.nightout.com, iPhone app, Android app and all related Night Out, Inc. Products. If you have any questions about our privacy policy, please contact us at support@nightout.com.
 
 ## I. Privacy Policy.
 
@@ -87,7 +87,7 @@ Because Non-Personal Data cannot be used to personally identify you, we may disc
 
 ### 11\. Updating and Correcting Information.
 
-We believe that you should have the ability to access and edit the Personal Data you provide to Night Out, Inc. on the Site or other methods. You may change any of your Personal Data by logging into your account and accessing the "My Account" section of the site, sending us an email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or writing to us at:
+We believe that you should have the ability to access and edit the Personal Data you provide to Night Out, Inc. on the Site or other methods. You may change any of your Personal Data by logging into your account and accessing the "My Account" section of the site, sending us an email at support@nightout.com or writing to us at:
 
 NIGHTOUT, Inc.   
 735 State Street, Suite 500-A   
@@ -102,7 +102,7 @@ User Options on Collection and Use of Information.
 
 As discussed above, you can always choose not to use the Site or provide information, although it may be required to engage in a certain activity on the Site.
 
-As a condition of a purchase of Night Out Inc. Event Tickets, Special Offers, our products and services, we may send you Administrative and Promotional emails. We will send you information regarding your account activity and purchases as well as updates about Night Out, Inc. products and promotional offers. You cannot opt-out of Administrative Emails. “Administrative Emails” relate to a User’s activity on the Website, and include emails regarding a particular User’s account, requests or inquiries, and purchases of products and services. In contrast to Administrative Emails, however, you do have a choice with respect to Promotional Emails. Promotional Emails advertise our products and services, including Offers, Events, Updates, offers, and/or the products and services of our Advertisers and Affiliates. If you do not want to receive Promotional Emails from us, you may elect to opt-out of receiving Promotional Emails at any time after registering by e-mailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) By writing to us at the address contained herein, or by hitting the “unsubscribe” button at the bottom of any of the Promotional Emails. When contacting us, please indicate your name, address, email address, and what Promotional Emails you do not want to receive.
+As a condition of a purchase of Night Out Inc. Event Tickets, Special Offers, our products and services, we may send you Administrative and Promotional emails. We will send you information regarding your account activity and purchases as well as updates about Night Out, Inc. products and promotional offers. You cannot opt-out of Administrative Emails. “Administrative Emails” relate to a User’s activity on the Website, and include emails regarding a particular User’s account, requests or inquiries, and purchases of products and services. In contrast to Administrative Emails, however, you do have a choice with respect to Promotional Emails. Promotional Emails advertise our products and services, including Offers, Events, Updates, offers, and/or the products and services of our Advertisers and Affiliates. If you do not want to receive Promotional Emails from us, you may elect to opt-out of receiving Promotional Emails at any time after registering by e-mailing us at supprot@nightout.com. By writing to us at the address contained herein, or by hitting the “unsubscribe” button at the bottom of any of the Promotional Emails. When contacting us, please indicate your name, address, email address, and what Promotional Emails you do not want to receive.
 
 ### 12\. Security of Information.
 
@@ -163,6 +163,6 @@ Whether you’re a new or loyal user, Merchant, Organizer, venue owner, marketer
 NIGHTOUT, Inc.   
 735 State Street, Suite 500-A   
 Santa Barbara, CA 93101, USA.   
-Customer Service Inquiries: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)   
-For Business Inquires: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)   
+Customer Service Inquiries: info@nightout.com   
+For Business Inquires: sales@nightout.com   
 For Inquiries: 1-800-936-3126 
