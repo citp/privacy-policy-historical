@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the agilecrm.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625215804id_/https%3A//www.agilecrm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agilecrm.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231205547id_/https%3A//www.agilecrm.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Agile CRM
+
+Effective up to 24th May, 2018
 
 ### Our Customer Information
 
