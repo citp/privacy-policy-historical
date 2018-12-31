@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the f-secure.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618012007id_/https%3A//www.f-secure.com/en/web/legal/privacy/website) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the f-secure.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231014646id_/https%3A//www.f-secure.com/en/web/legal/privacy/website) for the most accurate reproduction.*
 
 # Website privacy policy | F-Secure
 
@@ -12,7 +12,7 @@
 
 ## In full
 
-This policy describes the privacy practices on our websites. By "websites" (or "sites") this description refers to groups of pages within the `f-secure.com` domain. For our personal data processing practices in general, please see the [F‑Secure privacy statement](https://web.archive.org/web/20180618012007id_/https%3A//www.f-secure.com/en/web/legal/privacy/services). If you are looking for information about how we process your data in a particular service, you may also find our service-specific privacy policies, e.g. that of [F‑Secure SAFE](https://web.archive.org/web/20180618012007id_/https%3A//www.f-secure.com/en/web/legal/privacy/safe), relevant to you.
+This policy describes the privacy practices on our websites. By "websites" (or "sites") this description refers to groups of pages within the `f-secure.com` domain. For our personal data processing practices in general, please see the [F‑Secure privacy statement](https://web.archive.org/web/20181231014646id_/https%3A//www.f-secure.com/en/web/legal/privacy/services). If you are looking for information about how we process your data in a particular service, you may also find our service-specific privacy policies, e.g. that of [F‑Secure SAFE](https://web.archive.org/web/20181231014646id_/https%3A//www.f-secure.com/en/web/legal/privacy/safe), relevant to you.
 
 We use cookies on our websites to assist us in content personalization, website improvements and development, and to create relevant online marketing activities. When you visit our sites, you agree to the use of such cookies. If you do not want us to place cookies on your device, we recommend that you update your browser settings accordingly, use private browsing when visiting our site, or make use of tracking protection tools.
 
@@ -30,7 +30,7 @@ The information collected via cookies and other web technologies helps us unders
 
 We generate statistics and aggregate reports for internal use, as well as for sharing with F‑Secure group companies, partners, and subcontractors. Our third-party web analytic providers may also create and publish aggregate reports of the data collected. The statistics and aggregate reports do not contain any data that could be linked to an individual website visitor.
 
-We do not use cookies to identify you as an individual, nor connect visitor IP addresses to individual users. However, if you have voluntarily submitted your contact information to F‑Secure — when purchasing a product, downloading a product trial, completing a survey or entering a contest, for example — we may, with your consent, tie your website usage to your individual record through the use of cookies. If you are a visitor interested in our corporate-oriented communication, this will also include your previous browsing on F‑Secure websites. If you already have a business relationship with F‑Secure, this will be combined with the pre-existing information we have about you stored in our Customer Relations Management platform. [Read more](https://web.archive.org/web/20180618012007id_/https%3A//www.f-secure.com/en/web/legal/corporate-personal-data-record).
+We do not use cookies to identify you as an individual, nor connect visitor IP addresses to individual users. However, if you have voluntarily submitted your contact information to F‑Secure — when purchasing a product, downloading a product trial, completing a survey or entering a contest, for example — we may, with your consent, tie your website usage to your individual record through the use of cookies. If you are a visitor interested in our corporate-oriented communication, this will also include your previous browsing on F‑Secure websites. If you already have a business relationship with F‑Secure, this will be combined with the pre-existing information we have about you stored in our Customer Relations Management platform. [Read more](https://web.archive.org/web/20181231014646id_/https%3A//www.f-secure.com/en/web/legal/corporate-personal-data-record).
 
 ### Web marketing activities
 
