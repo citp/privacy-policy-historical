@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hrzone.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625002020id_/https%3A//www.hrzone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrzone.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231012035id_/https%3A//www.hrzone.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | HRZone
 
@@ -164,9 +164,9 @@ We keep your personal information for as long as we need to for the purposes for
 
 **Your rights**
 
-You have the right to ask us not to process your personal data or to restrict our processing of your personal data (including for marketing purposes). You can do so at any time by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1b737e776b5b73696174757e3578747624686e79717e786f2653494174757e3e292b4a6e7e6962). Please state the site(s) it is in reference to.
+You have the right to ask us not to process your personal data or to restrict our processing of your personal data (including for marketing purposes). You can do so at any time by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#553d303925153d272f3a3b307b363a386a2620373f303621681d070f3a3b30706765042030272c). Please state the site(s) it is in reference to.
 
-You also have the right to ask us to correct any mistakes or inaccuracies in your information which we hold at any time by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a7cfc2cbd7e7cfd5ddc8c9c289c4c8ca98d4d2c5cdc2c4d39aeff5fdc8c9c2829597f6d2c2d5de). Please state the site(s) it is in reference to.
+You also have the right to ask us to correct any mistakes or inaccuracies in your information which we hold at any time by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f49c919884b49c868e9b9a91da979b99cb8781969e919780c9bca6ae9b9a91d1c6c4a58191868d). Please state the site(s) it is in reference to.
 
 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
@@ -232,8 +232,21 @@ For more details on Google Analytics please visit their website[ http://www.goog
 
     * Drupal (<http://drupal.com/>) is our content management system and sets cookies to store user initiated interface preferences. This helps make your visits easier and the site more useful to you.
 
+  * **Convertr**  
+We use this service to validate data received via forms for example company name and email address.  Convertr will set the following cookies:
 
 
+
+What it does | Duration | Mandatory | Action  
+---|---|---|---  
+The PHPSESSIONID cookie is a mandatory cookie for the Convertr platform to operate.We use this cookie to give the user feedback messages around form errors and to temporarily persist application data to this user. | This cookie will last for a maximum of 24 hours or be automatically removed when you close your browser | Yes | [Opt-out](https://sift.cvtr.io/cookies/optout)  
+The cvtr cookie is used to track which data source your clickcame from. We use this only to attribute your click & conversion to the correct data source within our platform for reporting. | 30 days | No | [Opt-out](https://sift.cvtr.io/cookies/optout)  
+  
+  * For more details on Convertr please visit their website <https://www.convertrmedia.com/>
+
+
+
+**Third Party Cookies**
 
 Third parties (including, for example, advertising networks and providers of external services like web traffic analysis services) may also use cookies, over which we have no control. These cookies are likely to be analytical/performance cookies or targeting cookies.
 
@@ -247,10 +260,10 @@ Any changes we may make to our privacy policy in the future will be posted on th
 
 **Complaints**
 
-If you have any complaints about the way we use your personal information please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5139343d211139232b3e3f347f323e3c6e2224333b3432256c19030b3e3f347463610024342328) who will try to resolve the issue. If we cannot resolve any issue, you have the right to complain to the data protection authority in your country (the Information Commissioner in the UK).
+If you have any complaints about the way we use your personal information please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3a525f564a7a52484055545f1459555705494f58505f594e0772686055545f1f080a6b4f5f4843) who will try to resolve the issue. If we cannot resolve any issue, you have the right to complain to the data protection authority in your country (the Information Commissioner in the UK).
 
 **Contact**
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a2cac7ced2e2cad0d8cdccc78cc1cdcf9dd1d7c0c8c7c1d69feaf0f8cdccc7879092f3d7c7d0db) and please state the website(s) it is in reference to.
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e68e838a96a68e949c898883c885898bd99593848c838592dbaeb4bc898883c3d4d6b79383949f) and please state the website(s) it is in reference to.
 
 Thank you for visiting our site.
