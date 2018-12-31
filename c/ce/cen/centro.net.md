@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the centro.net privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629113038id_/https%3A//www.centro.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centro.net privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231224711id_/https%3A//www.centro.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Digital Advertising Planning and Buying
+# Privacy Policy | Centro
 
-##### Introduction
+## Introduction
 
   1. This is Centro, Inc.’s (“ **Centro** ” or “we”) privacy policy, and applies to our websites, services that we provide to you through our website or technology platform, and ads we display to you on other websites. It is effective as of May 23, 2018 (“ _Effective Date_ “).
   2. This policy is incorporated into, and subject to, Centro’s Terms of Service.
@@ -10,11 +10,11 @@
 
 
 
-##### What is in this document?
+## What is in this document?
 
 This document provides information about our website and our digital advertising technology platforms (“ **Basis DSP** ”, “ **Basis Platform** ”) which enables our clients to buy digital advertising, and then describes our policies about data collection and use. It also provides information on the type of data we collect and utilize when serving ads to individuals.
 
-#### CONSUMER OPT-OUT CHOICES
+### CONSUMER OPT-OUT CHOICES
 
 Centro supports empowering you to make informed decisions about the type of advertisements that are delivered to you online, and, as such, we are providing you the opportunity to opt out of the tailored ads delivered to you by Centro based on your interests, previous visits to other sites, and information stored in your web browser or mobile device.
 
@@ -22,9 +22,9 @@ If you select this option, you will still see just as many ads, but they will no
 
 Feel free to opt out here if you so desire:
 
-#### Basis DSP
+### Basis DSP
 
-  1. For desktop and mobile web, [click here](http://pixel.sitescout.com/ap/optout?r=http%3A%2F%2Fwww.centro.net). The opt-out requires a [cookie](https://www.centro.net/glossary/cookie-also-known-as-an-http-cookie-web-cookie-or-browser-cookie/) to be stored by your browser, in order to signal your opt-out status to us during future ad calls. By opting-out, you consent to Centro’s opt-out [cookie](https://www.centro.net/glossary/cookie-also-known-as-an-http-cookie-web-cookie-or-browser-cookie/) being stored by your browser.
+  1. For desktop and mobile web, [click here](https://pixel-optout.sitescout.com/ap/optout?r=https%3A%2F%2Fwww.centro.net/privacy-policy). The opt-out requires a cookie to be stored by your browser, in order to signal your opt-out status to us during future ad calls. By opting-out, you consent to Centro’s opt-out cookie being stored by your browser.
   2. For mobile app: 
     1. Find your phone’s Android Advertising Identifier (for Android devices) or Apple Identifier for Advertising (for iOS devices). 
       1. On Android 6, open the Settings app and select “Google”. Select “Ads”. Choose “Opt out of Ads Personalization”, and make a note of your advertising ID. In earlier versions of Android, this is found in a separate Google Settings app instead.
@@ -45,19 +45,19 @@ for the USA, [http://www.youronlinechoices.com](http://www.youronlinechoices.co
 
 for the EU, [http://www.youradchoices.com](http://www.youradchoices.com/)
 
-#### Basis DSP PRIVACY PRACTICES
+### Basis DSP PRIVACY PRACTICES
 
-##### What is Basis DSP?
+## What is Basis DSP?
 
 Basis DSP provides tools for advertisers, or media buyers, to purchase digital ad space on website and mobile sites and applications. To accomplish these goals, advertisers and media buyers use Basis DSP to engage in a variety of techniques, including interest-based advertising, real-time (programmatic) advertising, contextual, and location-based advertising. Basis DSP also provides buyers other tools, like the ability to measure how effective their ads were, designed to make the buying of ad space seamless.
 
-##### What information does Basis DSP collect?
+## What information does Basis DSP collect?
 
 Basis DSP is designed to use certain types of data. It includes data generated through Basis DSP as well as data clients receive from other sources and then use on Basis DSP, or that they buy through Basis DSP. This may include pseudonymous information about Internet users’ browsers and devices, such as:
 
   * the type of browser and its settings,
   * information about the device’s operating system,
-  * [cookie](https://www.centro.net/glossary/cookie-also-known-as-an-http-cookie-web-cookie-or-browser-cookie/) information,
+  * cookie information,
   * information about other identifiers assigned to the device, and
   * the IP address from which the device accesses a client’s website or mobile application
   * Information about whether an Internet user has visited a Centro client’s website, based on web beacons placed on the site by our customer
@@ -68,7 +68,7 @@ Basis DSP is designed to use certain types of data. It includes data generated t
 
 Pseudonymous information is considered personal data in some places like the European Union. However, the pseudonymous information used on the Basis DSP can’t be used to identify an actual person.
 
-##### How does Basis DSP use the information that it collects?
+## How does Basis DSP use the information that it collects?
 
 We use the information we collect to serve targeted ads to individuals.
 
@@ -85,19 +85,19 @@ More specifically, the platform enables our users to use this information to:
 
 
 
-##### How long is the information stored and kept?
+## How long is the information stored and kept?
 
 For data collected via browsers and stored in cookies, Basis DSP stores  _pseudonymous targeting segments_ for up to 60 days. For data collected via mobile application advertising and stored via mobile advertising IDs Basis DSP stores this data for up to 180 days. Our systems typically reset the retention period each time we encounter the same user.
 
-##### How does Basis DSP collect this information?
+## How does Basis DSP collect this information?
 
 Basis DSP uses cookies, beacons, mobile SDKs, tags and other technology to collect data associated with particular devices or web browsers. Customers then use this data within Basis DSP to enhance and refine digital ad campaigns.
 
-##### Does Basis DSP use web beacons (aka clear GIFs or web bugs)?
+## Does Basis DSP use web beacons (aka clear GIFs or web bugs)?
 
 Yes. “Web beacons” are small images (generally a single transparent pixel) with a unique identifier, served to you as part of a web page or other document. Web beacons may be used in parts of our Services for purposes such as site traffic reporting, unique visitor counts, advertising auditing and reporting, and personalization. For more information on web beacons, see <http://www.allaboutcookies.org/faqs/beacons.html>
 
-##### How does Centro use the information provided by Basis DSP advertisers?
+## How does Centro use the information provided by Basis DSP advertisers?
 
 We use any information provided by Basis DSP and Basis Platform advertising customers for the following service-related purposes:
 
@@ -112,7 +112,7 @@ We use any information provided by Basis DSP and Basis Platform advertising cust
 
 
 
-##### As a Basis DSP or Basis Platform customer, will Centro share my information?
+## As a Basis DSP or Basis Platform customer, will Centro share my information?
 
   1. We share aggregate information collected from the Basis DSP for marketing purposes. For example, we may issue a press release announcing that users who have visited travel sites have a higher click-thru rate on finance related web pages.
   2. Billing and Contact information – We work with trusted agents and service providers to assist us in billing and account maintenance for our clients.  For example, if you fund your platform account with a credit card, we use a credit card processing company to bill you for the Services and share your address and billing details with them in order to do so. These service providers do not retain, share, store or use that information for any other purpose. In certain instances, we may share information with our suppliers (data and inventory exchanges).
@@ -122,7 +122,7 @@ We use any information provided by Basis DSP and Basis Platform advertising cust
 
 _Legal Disclaimer_ : We reserve the right to disclose your information as required by law, and when we believe that disclosure is necessary to protect our rights and/or to comply with any applicable judicial proceeding, court order, or legal process.
 
-##### As a Basis DSP user or Basis Platform customer, what communications can I expect from Centro?
+## As a Basis DSP user or Basis Platform customer, what communications can I expect from Centro?
 
   1. Special Offers and Updates – We will occasionally send you information on products, services, special deals, and promotions (if you opt-in on our registration page). If you no longer wish to receive this type of communication, you can opt-out through the link in the email communication.
   2. Surveys or Contests – From time to time, we may provide you the opportunity to participate in contests or surveys on our site. If you participate, we may request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary, and you therefore have a choice whether or not to disclose this information. We use this information to notify contest winners and award prizes, and to process and analyze survey results. We use a third party service provider to conduct these surveys or contests; that company is prohibited from using our users’ personally identifiable information for any other purpose.
@@ -137,31 +137,32 @@ Through our partners, we use web beacons in our HTML-based emails to let us know
 
 _Supplementation of Information_ : In order to provide certain services to you, we may supplement the personal information you submit to us with information from third party sources, including in respect of credit worthiness and verification of any information provided.
 
-#### CENTRO.NET WEBSITE VISITORS
+### CENTRO.NET WEBSITE VISITORS
 
-##### What information does the Centro website collect, and how is it used?
+## What information does the Centro website collect, and how is it used?
 
 We collect usage data about you whenever you interact with our website. This may include which of our pages you visit, what you click on, when you performed those actions, and so on. Additionally, like most websites today, our web servers keep log files that record data each time a device accesses those servers. The log files contain data about the nature of each access, including originating IP addresses. We collect data from the device and application you use to access our services, such as your IP address and browser type. We may also infer your geographic location based on your IP address. If you arrive at our website from an external source (such as a link on another website or in an email), we record information about the source that referred you to us. We use third party tracking services that employ cookies and page tags (also known as [web beacons](http://en.wikipedia.org/wiki/Web_bug)) to collect aggregated and anonymized data about visitors to our websites. This data includes usage and user statistics, but not personally identifiable information.
 
-##### Does Centro.net use cookies?
+## Does Centro.net use cookies?
 
-Yes. “Cookies” are pieces of information (actually, alphanumeric identifiers) generated by web servers, and stored on your web browser for future access. Cookies cannot view or retrieve data from other cookies, nor can they capture files or data stored on your computer. We do not link the information that we store in cookies to any information that may be used to ascertain your real world identity. We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID [cookie](https://www.centro.net/glossary/cookie-also-known-as-an-http-cookie-web-cookie-or-browser-cookie/) expires when you close your browser. A persistent [cookie](https://www.centro.net/glossary/cookie-also-known-as-an-http-cookie-web-cookie-or-browser-cookie/) remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your web browser’s “help” file. We set a persistent [cookie](https://www.centro.net/glossary/cookie-also-known-as-an-http-cookie-web-cookie-or-browser-cookie/) to store your passwords, so you don’t have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. If you reject cookies, you may still use our site, but your ability to use some areas of our site will be limited. For more information on cookies, see: <http://www.allaboutcookies.org/faqs/cookie-file.html>
+Yes. “Cookies” are pieces of information (actually, alphanumeric identifiers) generated by web servers, and stored on your web browser for future access. Cookies cannot view or retrieve data from other cookies, nor can they capture files or data stored on your computer. We do not link the information that we store in cookies to any information that may be used to ascertain your real world identity. We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent   
+cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your web browser’s “help” file. We set a persistent cookie to store your passwords, so you don’t have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. If you reject cookies, you may still use our site, but your ability to use some areas of our site will be limited. For more information on cookies, see: <http://www.allaboutcookies.org/faqs/cookie-file.html>
 
-#### GENERAL PRIVACY INFORMATION
+### GENERAL PRIVACY INFORMATION
 
-##### How do I access my information?
+## How do I access my information?
 
 You have the right to access, update, and correct inaccuracies in certain information in our custody and control, subject to certain exceptions prescribed by law. You may request access, updating and corrections of inaccuracies in the personal information we have in our custody or control by emailing us at [privacy@centro.net](mailto:privacy@centro.net). We may request certain personal information for the purposes of verifying your identity when requesting access to or correction of your personal information records. If your personally identifiable information changes, or if you no longer desire our Service, you may correct, update, delete or deactivate it by emailing us at [privacy@centro.net](mailto:privacy@centro.net). EU data subjects may be entitled to additional rights as described below.
 
-##### Is my information secure?
+## Is my information secure?
 
 Yes, the portions of our website (and our other Services) that handle sensitive confidential information are secure. We are committed to maintaining the security of your information and have measures in place to protect against the loss, misuse, and alteration of the information under our control. We employ industry-standard techniques to protect our systems from intrusion by unauthorized individuals. Our data center utilizes state-of-the-art physical security measures to prevent unauthorized access to the facility. In addition, all information is stored in a secure location behind firewalls and other sophisticated security systems with limited (need-to-know) administrative access. All provider employees who have access to, or are associated with, the processing of personal information are contractually obligated to respect the confidentiality of your information and abide by the privacy standards we have established. Please be aware that no security measures are perfect or impenetrable. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-##### Onward Transfer – Will my information be transferred?
+## Onward Transfer – Will my information be transferred?
 
 Centro may share information with trusted third-party partners such as billing and payment processing vendors and hosting providers for the Centro website and DSP. These third-party contractors are prohibited from using the information for purposes other than performing services for Centro.
 
-The above notwithstanding, we may disclose any of the information we collect when we believe that we have a legal obligation to do so or to protect the safety, property or rights of Centro or of any third party. For example, we may disclose any of the above in order to (i) protect our rights and/or comply with a judicial proceeding, court order, or legal process served, (ii) for law enforcement or national security purposes including sharing data of EU and Swiss individuals in [response](https://www.centro.net/glossary/response/) to lawful requests from public authorities to meet national security and law enforcement requirements, or (iii) protect or defend our proprietary rights.
+The above notwithstanding, we may disclose any of the information we collect when we believe that we have a legal obligation to do so or to protect the safety, property or rights of Centro or of any third party. For example, we may disclose any of the above in order to (i) protect our rights and/or comply with a judicial proceeding, court order, or legal process served, (ii) for law enforcement or national security purposes including sharing data of EU and Swiss individuals in response to lawful requests from public authorities to meet national security and law enforcement requirements, or (iii) protect or defend our proprietary rights.
 
 In cases of onward transfer to third parties of the personal data of EU and Swiss individuals received pursuant to the EU-US and Swiss-U.S. Privacy Shield, Centro is potentially liable **.**
 
@@ -169,27 +170,27 @@ We will also provide an EU or Swiss individual with opt-out or opt-in choice bef
 
 In the event that Centro (or its parent or subsidiary companies) goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via prominent notice on our site for 30 days of any such change in ownership or control of your personal information.
 
-##### Does the Centro privacy policy apply to other sites?
+## Does the Centro privacy policy apply to other sites?
 
 This site contains links to other sites that are not owned or controlled by Centro. We are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site, and to read the privacy statements of each and every site that collects personally identifiable information. This privacy statement applies only to information collected by Centro.
 
-##### What if Centro changes this privacy policy?
+## What if Centro changes this privacy policy?
 
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we decide to change our privacy policy, we will post the updated version, together with an updated Effective Date, on this page. We encourage you to check this page periodically for any changes.
 
-#### EUROPEAN UNION DATA SUBJECTS
+### EUROPEAN UNION DATA SUBJECTS
 
 The General Data Privacy Regulation (“GDPR”) affords additional rights to EU data subjects. Those rights include the right to complain to EU Supervisory Authorities and the right to access, correct, port to another party and delete certain personal data processed by Centro.
 
-With respect to EU data subjects, personal data includes pseudonymous information such as an IP address, a mobile advertising ID or a [cookie](https://www.centro.net/glossary/cookie-also-known-as-an-http-cookie-web-cookie-or-browser-cookie/) ID. Where Centro is a controller of data (e.g., via our Basis DSP), the legal basis will be both legitimate interest and consent depending on the type of information subject to processing and the information we receive from upstream partners. Where we rely upon legitimate interest, we have assessed the processing is not high risk and will not violate fundamental human rights of EU data subjects.
+With respect to EU data subjects, personal data includes pseudonymous information such as an IP address, a mobile advertising ID or a cookie ID. Where Centro is a controller of data (e.g., via our Basis DSP), the legal basis will be both legitimate interest and consent depending on the type of information subject to processing and the information we receive from upstream partners. Where we rely upon legitimate interest, we have assessed the processing is not high risk and will not violate fundamental human rights of EU data subjects.
 
 Where Centro receives from an EU data subject a request to cease processing of data via one of the choice mechanisms listed above, Centro will stop all data processing with respect to the opted out browser or device unless such processing is required by law.
 
-If you’re an EU data subject and believe Centro is processing your pseudonymous information (e.g., Centro [cookie](https://www.centro.net/glossary/cookie-also-known-as-an-http-cookie-web-cookie-or-browser-cookie/) ID or mobile advertising ID) or your contact information (e.g., email address, telephone number) and you wish to exercise your right to access, delete, port or remove such information, please send an email to [privacy@centro.net](mailto:privacy@centro.net) and we will respond to your request within 30 days.
+If you’re an EU data subject and believe Centro is processing your pseudonymous information (e.g., Centro cookie ID or mobile advertising ID) or your contact information (e.g., email address, telephone number) and you wish to exercise your right to access, delete, port or remove such information, please send an email to [privacy@centro.net](mailto:privacy@centro.net) and we will respond to your request within 30 days.
 
-Centro’s Data Protection Officer and EU representative is Dr. Christoph Bauer, CEO at ePrivacy GmbH and he may be contacted at [DPO@centro.net](mailto:privacy@centro.net).
+Centro’s Data Protection Officer and EU representative is Dr. Christoph Bauer, CEO at ePrivacy GmbH and he may be contacted at [privacy@centro.net](mailto:privacy@centro.net).
 
-##### Privacy Shield
+## Privacy Shield
 
 Centro complies with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland transferred to the United States pursuant to Privacy Shield.  Centro has certified that it adheres to the Privacy Shield Principles with respect to such data. If there is any conflict between the policies in this privacy policy and data subject rights under the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>
 
@@ -200,10 +201,10 @@ In compliance with the Privacy Shield Principles, Centro commits to resolve comp
 Alternatively, you may contact us at the address below:
 
 **Centro, Inc.**  
- **11 E Madison St., 6th Floor**  
- **Chicago, IL**  
- **60602**  
- **United States**
+**11 E Madison St., 6th Floor**  
+**Chicago, IL**  
+**60602**  
+**United States**
 
 We have further committed to refer unresolved privacy complaints under the Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers](http://www.bbb.org/EU-privacy-shield/for-eu-consumers) for more information and to file a complaint. This service is provided free of charge to you.
 
