@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apester.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627164542id_/https%3A//apester.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apester.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231224922id_/https%3A//apester.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Apester
 
@@ -38,7 +38,9 @@ Personal Information is not transferred or disclosed to third parties other than
 
 ## Opt-Out
 
-If End User does not wish its Personal Information to be collected, processed or shared for the above purposes, he may opt out from this use with effect for the future. For opting out, the End User can do so by sending an email to privacy@apester.com, or sending a paper letter to Apester’s Privacy Officer at the following address: Soncino 3 Tel Aviv 67216, P.O.box 57703, Israel. Facsimile copies can be sent to the following number: 153-3-6020065, however we do encourage you to reach out via email which is checked more often.
+If End User does not wish its Personal Information to be collected, processed or shared for the above purposes, he may opt out from this use with effect for the future. For opting out, the End User can do so by turning off the toggle below.
+
+**Targeted Advertising  **
 
 ## Cookies
 
