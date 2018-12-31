@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urbantoronto.ca privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625110830id_/http%3A//urbantoronto.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbantoronto.ca privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231092325id_/http%3A//urbantoronto.ca/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Urban Toronto
 
@@ -79,9 +79,9 @@ Chart may charge a reasonable administration fee ($15) for providing access to t
 Chart is responsible for personal information under its control and has designated a Privacy Officer who is accountable for Chart’s compliance with this Privacy Policy and PIPEDA. If at any time you have any questions or complaints about this Privacy Policy or your personal information and how it is being used, collected or disclosed (including if you wish to request to update or correct any personally identifiable information you have provided), or you wish to withdraw your consent to “Use of Personal Information”, please  contact us [here](mailto:online@urbantoronto.ca) or write to us at:
 
 Chart Communications Inc.  
-366 Adelaide St E, Suite 422  
-Toronto ON M5A 3X9  
+5255 Yonge St, Suite 709  
+Toronto ON M2N 6P4  
 Canada
 
 Phone: 416.363.3101   
-Fax: 416.363.3109
+Email: online@urbantoronto.ca
