@@ -1,107 +1,148 @@
-> *The following text is extracted and transformed from the rover.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602185831id_/https%3A//www.rover.com/privacy/%3Fref%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rover.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231183630id_/https%3A//www.rover.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Rover.com Dog Boarding
 
-Updated March 28, 2014 [Previous versions: April 20, 2012; July 21, 2011; November 14th, 2011]. 
+Last Updated: June 4, 2018  
+[Previous versions: [April 6, 2018](https://web.archive.org/privacy/04-06-2018/); [January 25, 2018](https://web.archive.org/privacy/01-25-2018/); [December 1, 2017](https://web.archive.org/privacy/12-01-2017/); March 28, 2014; April 20, 2012; November 14th, 2011; July 21, 2011] 
 
-A Place for Rover, Inc. ("Rover.com," "we," "our,” or "us") provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of Personal Information (as defined below) we receive from users of www.rover.com (this "Site"). At Rover.com, we understand that you value your privacy, and we want to help make your experience with our Site and other services we may offer (referred to in this policy collectively as our “Service”) satisfying and safe. This Privacy Policy applies only to information that you provide to us through this Site. This Privacy Policy may be updated from time to time. We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by posting the revised policy on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our [Terms of Service](https://web.archive.org/tos/).
+This Privacy Statement explains how information about you is collected, used and disclosed by A Place for Rover, Inc. and our affiliate Rover Europe GmbH (collectively, “Rover,” “we” or “us”). This Privacy Statement applies to information we collect when you use our websites, mobile applications and other online products and services (collectively, the “Services”) or when you otherwise interact with us. This Privacy Statement does not apply to websites, applications, or services that display or link to different privacy statements. 
 
-As used in this policy, the terms "using" and "processing" information include using cookies on a computer, subjecting the information to statistical or other analysis and using or handling information in any way, including, but not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within our organization or among our affiliates within the United States.
+We may change this Privacy Statement from time to time. If we make changes, we will notify you by revising the date at the top of the Privacy Statement. If we make material changes to this statement, we will provide you with notice or obtain consent regarding such changes as may be required by applicable law. We encourage you to review the Privacy Statement whenever you access the Services or otherwise interact with us to stay informed about our information practices and the ways you can help protect your privacy. Capitalized terms used but not defined in this Privacy Statement have the meanings given to them in the Terms of Service applicable to your location. 
 
-## 1\. Information Collection and Use
+#### Collection of Information
 
-Our primary goals in collecting information are to provide and improve our Site, our Services, features and content, and to enable users to enjoy and easily navigate the Site.
+Information we collect depends on how you interact with us, the Services you use, and the choices you make. We collect and process information about you with your consent and/or as necessary to provide the products and services you use, operate our business, meet our contractual and legal obligations, protect the security of our systems and our customers, or fulfil other legitimate interests. 
 
-## 2\. Personally Identifiable Information
+We collect information about you in various ways when you use our Services, including information you provide directly, information collected automatically, and third-party data sources. 
 
-When you register with us through the Site and become a Rover.com Member, when you choose to post or reserve a listing, or when you contact a Rover.com Member using the “Contact” feature of the Site, we will collect personally identifiable information. This refers to information about you that can be used to contact or identify you ("Identity Information"). Identity Information includes, but is not limited to, your name, phone number, email address and home postal address, but does not include your credit card number or billing information. In order to process some of your transactions through the Site, we may also ask for your credit card number and billing information ("Billing Information") (Identity Information and Billing Information together, "Personal Information"). However, if the address of a listing you post matches that of your credit card billing address, that address would be considered Identity Information.
+##### Information You Provide to Us
 
-We also collect the other information that you provide as part of registration and the administration and personalization of your profile webpage (e.g., without limitation, zip code (on its own) and individual preferences or demographic information) ("Non-Identifying Information"). Non-Identifying Information includes Personal Information that we aggregate or otherwise render anonymous.
+We collect information you provide directly to us. For example, we collect information when you create an account, post or reserve a listing, make a payment, write a review, communicate with other users through our Services or participate in any other interactive features of the Services. We also collect information when you participate in a contest, promotion or survey, apply for a job, communicate with us via third party social media sites, request customer support, or otherwise communicate with us. The types of information we may collect include basic user information (such as your name, email address, postal address, phone number, photos, gender, and date of birth); pet information (such as breed, age, photos, veterinarian, and immunization status); tax information (including social security or other tax identification number for Service Providers) and any other information you choose to provide (including the content of any communications you send and receive through the Services). 
 
-We use your Personal Information (in some cases, in conjunction with your Non-Identifying Information) mainly to provide the Service, complete your transactions, and administer your inquiries. We may use your Personal Information (and disclose it to third parties) to verify your identity, derive other information about you, for fraud prevention, to enforce the terms of the [Terms of Service](https://web.archive.org/tos/) and otherwise protect the integrity of our Site or Service, or to verify other information you provided to us or included in your profile, including for example any associations, certifications, or other attributes of your profile. We may also verify your profile information through other means.
+We may also collect and store limited payment information from you, such as payment card type, expiration date and a portion of your payment card number; however, we do not store or have access to full payment card numbers as all transactions are processed by our third-party payment processors. If you are a Service Provider, we and our third-party payment processors may also collect certain payment disbursement information to pay you for the Pet Care Services you provide via the Rover Service. 
 
-We also use your Personal Information to contact you with Rover.com newsletters, marketing or promotional materials and other information that may be of interest to you. If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications or update your "user preferences" information. (See "Changing or Deleting Information," below.) Please note that we may also use your Personal Information to contact you with information related to your use of the Service; you may not opt out of these notifications.
+If you are a Service Provider, we and our third-party service providers may also collect certain personal information from you for purposes of verifying your identity or conducting a background check. In the U.S., in addition to the information we collect to set up your account, our third-party service provider collects your social security number in order to conduct a background check. In the U.K., in addition to the information we collect to set up your account, our third-party service provider collects your photo and an image of your passport, government identity card, or driver’s license in order to verify your identity. 
 
-We may use and disclose your Identity Information to third parties for advertising and promotional purposes, but never for directing marketing purposes without your consent. (See Section 11, below, for more information regarding such use and disclosures to third parties.)
+In some cases, we may also collect information you provide about others, such as when you send an email to one of your personal contacts using our Services. In such case, we will use this information solely to fulfill your request, and not to otherwise send promotional communications to those contacts. 
 
-## 3\. Log Data
+When you are asked to provide information, you may decline. But if you choose not to provide information that is necessary for certain products or features, those products or features may not be available or function correctly. 
 
-When you visit the Site, whether as Rover.com Member or a non-registered user just browsing (any of these, a "Rover.com User"), our servers automatically record information that your browser sends whenever you visit a website ("Log Data"). This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type or the webpage you were visiting before you came to our Site, pages of our Site that you visit, the time spent on those pages, information you search for on our Site, access times and dates, and other statistics. We use this information to monitor and analyze use of the Site and the Service and for the Site's technical administration, to increase our Site's functionality and user-friendliness, and to better tailor it to our visitors' needs. We also use this information to verify that visitors to the Site meet the criteria required to process their requests. We do not treat Log Data as Personal Information or use it in association with other Personal Information, though we may aggregate, analyze and evaluate such information for the same purposes as stated above regarding other Non-Identifying Information.
+##### Information We Collect Automatically When You Use the Services
 
-## 4\. Cookies
+When you access or use our Services, we automatically collect information about you, including: 
 
-Like many websites, we use "cookies" to collect information. A cookie is a small data file that we transfer to your computer's hard disk for record-keeping purposes. We use cookies for two purposes. First, we utilize persistent cookies to save your registration ID and login password for future logins to the Site. Second, we utilize session ID cookies to enable certain features of the Site, to better understand how you interact with the Site and to monitor aggregate usage by Rover.com Users and web traffic routing on the Site. Unlike persistent cookies, session cookies are deleted from your computer when you log off from the Site and Service and then close your browser. Third party advertisers on the Site may also place or read cookies on your browser. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Site or all functionality of the Service.
+  * **Log Information:** We collect log information about your use of the Services, including the type of browser you use, access times, pages viewed, your IP address and the page you visited before navigating to our Services. 
+  * **Device Information:** We collect information about the computer or mobile device you use to access our Services, including the hardware model, operating system and version, unique device identifiers and mobile network information 
+  * **Location Information:** We may collect information about the location of your device each time you access or use certain features of our mobile applications or otherwise consent to the collection of this information. For more details, please see “Your Choices” below. 
+  * **Information Collected by Cookies and Other Tracking Technologies:** We use various technologies to operate our Services and collect information, including cookies and web beacons (collectively, “Cookies”). Most browsers are set to accept cookies. To learn more about how we use Cookies and how to manage your preferences, please read our [ Cookie Policy](https://web.archive.org/tos/cookies/). 
 
-## DISCLOSURE SPECIFIC TO GOOGLE
 
-Rover uses Google Analytics Demographics and Interest Reporting, which is based on Google Display Advertising. Google Analytics Demographics and Interest Reporting uses cookies. You can choose to opt-out of Google Analytics for Display Advertising and manage Google Display Network ads using Google Ads Settings. We use the information provided by this service (such as age, gender and interests) to improve the usability of the Site and Service, and to deliver more relevant content.
 
-## 5\. Web Beacons
+##### Information We Collect from Other Sources
 
-Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
+We may also obtain information from other sources and combine that with information we collect through our Services. For example, we may collect information about you from third parties, including but not limited to mailing list providers, partners with whom we offer co-branded services or engage in joint marketing activities, agencies that conduct background checks and publicly available sources. Additionally, if you create or log into your account through a social media site, we will have access to certain information from that site, such as your name, account information and friends lists, in accordance with the authorization procedures determined by such social media site. 
 
-## 6\. Messages Sent Via a Rover.com Account
+#### Use of Information
 
-As part of the Service, Rover.com Users may communicate with Rover.com Members through use of the "Contact" feature on the site. Where Rover.com Users have selected the option of adding one or more email addresses to an online form, the message they create in the corresponding template will be sent from Rover.com to those email addresses on their behalf. These email addresses will be used only for the purpose of sending the email communication to the addressee.
+We may use information about you for various purposes as described in this Privacy Statement or disclosed to you in connection with our Services, including to: 
 
-Your friend may visit our [Help Center](https://support.rover.com/) to request that we remove this information from our database, and we will use reasonable efforts to remove the information.
+  * Provide, maintain and improve our Services; 
+  * Facilitate and process transactions and send you related information, including booking and payment confirmations and tax documentation (where required); 
+  * Enable communications between you and other users of the Services; 
+  * Send you technical notices, updates, security alerts and support and administrative messages; 
+  * Respond to your comments, questions and requests and provide customer service; 
+  * Enable the mediation of disputes between users of the Services; 
+  * Communicate with you about products, services, offers, promotions, rewards, and events offered by Rover and others, and provide news and information we think will be of interest to you; 
+  * Monitor and analyze trends, usage and activities in connection with our Services; 
+  * Detect, investigate and prevent fraudulent transactions and other illegal activities and protect the rights and property of Rover and others; 
+  * Personalize and improve the Services and provide advertisements, content or features that match user profiles or interests; 
+  * Facilitate contests, sweepstakes and promotions and process and deliver entries and rewards; 
+  * Link or combine with information we get from others to help understand your needs and provide you with better service; and 
+  * Carry out any other purpose described to you at the time the information is collected. 
 
-You can import contacts from your email account address book to invite them to send you a recommendation. We collect the username and password for the email account you wish to import your contacts from and will only use it for that purpose only. By choosing to import your contacts, you consent to our access of your email address book. Your use of the “Contact” feature (or any other messaging feature) of the Site is subject to the [Terms of Service](https://web.archive.org/tos/). We have the right, but not the obligation, to review, save, edit, decline to transmit, and otherwise use such messages, including their contents, in our sole discretion. YOUR USE OF THE “CONTACT” OR ANY OTHER MESSAGING FEATURE OF THE SITE CONSTITUTES BOTH YOUR ACKNOWLEDGEMENT THAT MESSAGES SENT USING THESE FEATURES ARE NOT PRIVATE, AND YOUR CONSENT FOR US TO REVIEW, SAVE, EDIT, DECLINE TO TRANSMIT, AND OTHERWISE USE THE MESSAGES OR THEIR CONTENTS OR DISCLOSE THEIR CONTENTS TO THIRD PARTIES, IN OUR SOLE DISCRETION. 
 
-## 7\. Phishing
 
-Identity theft and the practice currently known as "phishing" are of great concern to Rover.com. Safeguarding information to help protect you from identity theft is a priority. We do not and will not, at any time, request your credit card information, your account ID, login password, or national identification numbers in a non-secure or unsolicited e-mail or telephone communication. For more information about phishing, visit the Federal Trade Commission's website at [http://www.ftc.gov](http://www.ftc.gov/).
+#### Sharing of Information
 
-## 8\. Information Sharing and Disclosure
+We may share with third parties information about you, including your personal data and communications, as follows or as otherwise described in this Privacy Statement: 
 
-Rover.com is designed to allow Members who have a home to host dogs ("Hosts"), Members who will travel to another Members home to watch pets ("Sitters"), and Members who wish to find care for their pets ("Pet Owners") to share information with one another in order to facilitate arranging stays and sittings. Listings posted by Hosts and Sitters, ratings and reviews of Hosts, Sitters and Pet Owners, and the Profile Information (as defined below) of Hosts and Pet Owners, are visible to any visitor to the site. If a Host or a Sitter and a Pet Owner enter into a confirmed transaction with one another (the Host accepts the Pet Owner's request, and the Pet Owner's payment details are collected and processed), then the Pet Owner and the Host's Identity Information are shared with each other in order to facilitate the reservation. In no event is a Pet Owner's Billing Information shared with their Host or Sitter.
+  * When you make or accept a booking, certain information is shared between the pet owner and pet sitter, including names, the pet owner’s address, pet information and any other information you choose to share through the Services; 
+  * When you sign up for and participate in the interactive areas of our Services (such as when you create a user profile or write a review), certain information about you may be displayed publicly, such as your name, photo, availability (if you are a Service Provider), and location; 
+  * With vendors, consultants and other service providers who need access to such information to carry out work on our behalf; 
+  * In response to a request for information if we believe disclosure is in accordance with, or required by, any applicable law, regulation or legal process; 
+  * If we believe your actions are inconsistent with our user agreements or policies, or to protect the rights, property or safety of Rover, its employees, its users (including their pets), or the public; 
+  * In connection with, or during negotiations of, any merger, sale of company assets, financing, acquisition, divestiture, bankruptcy, dissolution, or other transaction or proceeding involving sale, transfer or divestiture of all or a portion of our business or assets to another company; 
+  * Between and among Rover and our current and future parents, affiliates, subsidiaries and other companies under common control and ownership; and 
+  * With your consent or at your direction. 
 
-**If you post any of your information to a public area of our Service, please be aware that it is no longer Personal Information for the purposes of this policy, and we or anyone else may use such information without restriction. If you provide access to Personal Information or other information, including your email address or name, to a limited set of other users through any of our privacy controls or other settings, please understand that Rover.com has no control over how others may collect, use, or disclose such information.**
 
-## 9\. Rover.com Members and Users
 
-When you register through the Site and submit your Personal Information to create a profile webpage, Rover.com Users will see your first name and last initial ("Required Member Identifiers"). You can choose what other Personal Information you provide as part of your profile ("Other Member Information") (together, your "Profile Information"). We will display your Profile Information in your profile page, elsewhere on the Site, and on third party sites (e.g., through the use of a Rover.com HTML "widget" or API). Any information you choose to provide as part of your profile should reflect how much you want other Rover.com Users to know about you. We recommend that you guard your anonymity and sensitive information and we encourage members to think carefully about what information about themselves they disclose in their profile pages. You can review and revise your profile information at any time.
+We may also share aggregated or de-identified information. 
 
-If you post a listing, we may publish that listing anywhere on the Site and may enable third parties to publish your listing on their site through the use of an HTML "widget". We may also display the geographical location of your listing in the form of a map so that potential guests can see the general area and neighborhood of your listing, but your actual street address will not be disclosed until you enter into a confirmed transaction with another Rover.com Member. If you enter into a confirmed transaction with another Rover.com Member (that is, you request hosting or sitting from another Member, the other Member confirms your reservation, and your payment is processed, you will have access to that Member's Identity Information, and that Member will have access to your Identity Information. Note that Members will never have access to your Billing Information.
+#### Social Sharing Features
 
-## 10\. Aggregate Information and Non-Identifying Information
+The Services may offer social sharing features and other integrated tools (such as the Facebook “Like” button), which let you share actions you take on our Services with other media, and vice versa. Your use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the entity that provides the social sharing feature. For more information about the purpose and scope of information collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features. 
 
-We may share aggregated information that does not include Personal Information and we may otherwise share disclose Non-Identifying Information and Log Data with third parties for industry analysis, demographic profiling and other purposes. Any aggregated information shared in these contexts will not contain your Personal Information, unless such Personal Information is Non-Identifying Information.
+#### Advertising and Analytics Services Provided by Others
 
-## 11\. Third Party Service Providers
+We may allow others to provide analytics services and/or serve advertisements on our behalf across the Internet. These entities may use Cookies to collect information about your use of our websites and third-party websites. To learn more about how these third parties use Cookies and how to manage your preferences, please read our [Cookie Policy](https://web.archive.org/tos/cookies/). Note that if you opt-out of third-party advertising Cookies, you will still see online ads, but they will not be personalized. 
 
-We may employ third party companies and individuals to facilitate, advertise and promote our Service, to provide the Service on our behalf, to perform Site-related services (e.g., without limitation, maintenance services, database management, web analytics and improvement of the Site's features) or to assist us in analyzing how our Site and Service are used. These third parties may have access to your Personal Information; if they do, this access is only so that they may perform these tasks on our behalf and they are obligated not to disclose or use it for any other purpose. We may also provide Personal Information to our business partners or other trusted entities for the purpose of providing you with information on goods or services we believe will be of interest to you. You can, at any time, opt out of receiving such communications. We may use your Identity Information, alone or in conjunction with any content you submit to the Site, to advertise and promote the Service and the pet care services you provide (including without limitation, any photograph, words, pictures, or symbols), and may provide your Identity Information and/or your submitted content to third party service providers in connection with such advertising and promotion. For example, we may ask advertisers to display ads on third party websites which promote the pet care services you provide through Rover. With your consent, ads which we request such third parties to display may contain your name and contact information.
+#### Security
 
-## 12\. Compliance with Laws and Law Enforcement
+Rover takes reasonable measures designed to help protect information about you from loss, theft, misuse and unauthorized access, use, disclosure, alteration and destruction. 
 
-Rover.com cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of Rover.com or a third party, to protect the safety of the public or any person, in the event of a dispute, or to prevent or stop activity we may consider to be, or to pose a risk of being, any illegal, unethical or legally actionable activity.
+#### Transfer and Location of Information
 
-## 13\. Business Transfers
+The information we collect may be stored and processed in your region, in the United States, or in any other country where we or our affiliates, subsidiaries, or service providers maintain facilities. The processing locations are chosen in order to operate efficiently, to improve performance, and to create redundancies in order to protect information in the event of an outage or other problem. We take steps designed to ensure that the information we collect under this statement is processed according to the provisions of this statement and applicable law wherever the information is located. 
 
-Rover.com may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.
+We transfer information from the European Economic Area and Switzerland to other countries, some of which have not been determined by the European Commission to have an adequate level of data protection. When we do so, we use a variety of legal mechanisms, including contracts, to help ensure your rights and protections. To learn more about the European Commission’s decisions on the adequacy of information protections, please click [here](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en). 
 
-## 14\. Changing or Deleting Your Information
+#### Retention of Information
 
-All Members may review, update, or correct the Personal Information in their registration profile by visiting our [Help Center](https://support.rover.com/) or editing the relevant part of their profile. If you contact us, we will attempt to accommodate your request, including any request to deactivate your record in our system. See below for privacy contact information.
+We retain information for as long as necessary to provide the products and fulfill the transactions you have requested, or for other essential purposes such as complying with our legal obligations, resolving disputes, and enforcing our agreements. Because these needs can vary for different information types in the context of different products, actual retention periods can vary significantly based on criteria such as user expectations or consent, the sensitivity of the information, the availability of automated controls that enable users to delete information, and our legal or contractual obligations. 
 
-## 15\. Security
+#### Your Choices
 
-We have put in place physical, electronic, and managerial procedures to safeguard and secure the information we collect online to protect the Personal Information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can visit our [Help Center](https://support.rover.com/).
+##### Account Information
 
-We will attempt to make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored "personal data" (as defined in applicable state statutes on security breach notification) to you via email or conspicuous posting on this Site, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
+You may request to update, correct or delete information about you at any time by logging into your online account. If you cannot do so from your account, you may visit our [US Help Center](https://support.rover.com/) or our [UK Help Center](https://support-uk.rover.com/), or call us at 1-888-453-7889 (U.S.) or +44 808 281 2524 (U.K.). If you wish to deactivate your account, please call us at 1-888-453-7889 (U.S) or +44 808 281 2524 (U.K.). We may decline requests that are unreasonable, excessive, prohibited by law, could adversely affect the privacy or other rights of another person, where we are unable to authenticate you as the person to whom the information relates, or are not required to be honored by applicable law. We may also retain cached or archived copies of information about you for a certain period of time. 
 
-## 16\. Links to Other Sites
+##### Location Information
 
-Our Site contains links to other websites. If you choose to visit an advertiser by "clicking on" a banner ad or other type of advertisement, or click on another third party link, you will be directed to that third party's website. The fact that we link to a website or present a banner ad or other type of advertisement is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other sites follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.
+When you first install or launch any of our mobile applications that collect location information, you will be asked to consent to the application’s collection of this information. We require location information to use certain features of our Services, so if you do not consent to this collection, you cannot use those features. If you initially consent to our collection of location information, you can subsequently stop the collection of this information at any time by changing the preferences on your mobile device. If you do so, certain features of our mobile applications will no longer function. You may also stop our collection of location information by following the standard uninstall process to remove all of our mobile applications from your device. 
 
-## 17\. Our Policy Toward Children
+##### Emails
 
-We do not knowingly collect personally identifiable information from children under 18; nor do we allow such persons to use our Site or Services. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should visit our [Help Center](https://support.rover.com/). If we become aware that a child under 18 has provided us with Personal Information, we will delete such information from our files.
+You may choose whether you wish to receive marketing emails from Rover by updating your “Notifications” preferences under “Account Settings” in your online Rover profile (these settings are not available in-app). If you receive marketing emails and you wish to opt-out, you may also do so by clicking “Unsubscribe” in those emails. If you opt out of receiving marketing emails, we may still send you Service-related emails, such as those about your account or our ongoing business relations, and surveys or other informational communications that may have their own unsubscribe method. 
 
-## 18\. International Visitors
+##### Mobile Push Notifications/Alerts
 
-The Service is hosted in and provided from the United States. If you use our Service from the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that you are transferring your personal data to the United States. The United States does not have the same data protection laws as the EU and some other regions. By providing your personal information, you consent to the transfer of your personal data to the United States and the use of your personal information in accordance with this policy.
+With your consent, we may send push notifications or alerts to your mobile device. You can deactivate these messages at any time by changing the notification settings on your mobile device. If you are a Service Provider, however, certain Pet Care Services or features may require that you accept mobile app push notifications or alerts. If you do not want to receive these push notifications or alerts, then, in addition to adjusting the notifications in your mobile device, you must withdraw from providing such services or using such features. Further information about required acceptance of push notifications and alerts by Service Providers can be found in the Terms of Service applicable to your location (or as communicated to you elsewhere via the Rover Service). 
 
-## 19\. Contacting Us
+##### Text Messages
 
-If you have any questions about this Privacy Policy, please visit our [Help Center](https://support.rover.com/).
+As permitted by applicable law, we may send marketing and/or service-related text messages to your mobile device. You may opt out of receiving some or all of these messages by updating your “Notifications” preferences under “Account Settings” in your online Rover profile (these settings are not available in-app). If you are a Service Provider, however, certain Pet Care Services or features may require you to receive service-related messages by text. If you do not want to receive these service-related text messages, then, in addition to adjusting your Notifications preferences, you must withdraw from providing such services or using such features. Further information about required acceptance of text messages by Service Providers can be found in the Terms of Service applicable to your location (or as notified to you elsewhere via the Rover Service). 
+
+#### European Data Protection Rights
+
+If the processing of information about you is subject to European Union data protection law, you have certain rights with respect to that information: 
+
+  * You can request access to, and rectification or erasure of, information; 
+  * If any automated processing of information is based on your consent or a contract with you, you have a right to transfer or receive a copy of your information in a usable and portable format; 
+  * If the processing of information is based on your consent, you can withdraw consent at any time for future processing; 
+  * You can to object to, or obtain a restriction of, the processing of information under certain circumstances; and 
+  * For residents of France, you can send us specific instructions regarding the use of your information after your death. 
+
+
+
+#### Contact Us
+
+If you have any questions, concerns, or complaints about this Privacy Statement,please contact us: 
+
+  * By phone: 1-888-453-7889 (U.S.) or +44 808 281 2524 (U.K.) 
+  * By e-mail: [privacy@rover.com](mailto:privacy@rover.com)
+  * By mail: 2101 4th Avenue, Suite 400, Attn: Privacy, Seattle, WA 98121, U.S.A. 
+
+
+
+Our data protection representative for the European Economic Area and Switzerland is: Rover Europe GmbH, WeWork Atrium Tower, Eichhornstraße 3, 10785 Berlin, Germany. 
