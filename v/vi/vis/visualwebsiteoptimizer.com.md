@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the visualwebsiteoptimizer.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626193634id_/https%3A//vwo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visualwebsiteoptimizer.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231220835id_/https%3A//vwo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | VWO
 
-#### Last updated: May 22, 2018
-
-##  **Non-legalese, Simple English Summary**
+## **Non-legalese, Simple English Summary**
 
   1. You provide your personal information (email, phone number, etc.) to us while creating an account with us. We store that information reliably. We use that information to serve you.
   2. When you install our services on your website / mobile app, we collect some personally identifiable data to serve you.
@@ -238,8 +236,30 @@ If you have any questions or concerns regarding our privacy policies, please sen
 
 ## 12\. Children
 
-We do not knowingly attempt or solicit personal information from anyone under the age of 13 years. If you are under 13, please do not attempt to register for the Services or send any Personal Information about yourself to us. If we learn that we have collected Personal Information from a child who is under 13, we will delete that information as quickly as possible. If you believe that a child under 13 years may have provided us Personal Information, please contact us at [privacy@wingify.com](mailto:privacy@wingify.com).
+We do not knowingly attempt or solicit personal information from anyone under the age of 16 years. If you are under 16, please do not attempt to register for the Services or send any Personal Information about yourself to us. If we learn that we have collected Personal Information from a child who is under 16, we will delete that information as quickly as possible. If you believe that a child under 16 years may have provided us Personal Information, please contact us at [privacy@wingify.com](mailto:privacy@wingify.com).
 
 ## 13\. Data Protection Officer
 
 The Wingify has appointed a data protection officer for you to contact if you have any questions or concerns about Wingify’s personal data policies or practices. Wingify’s Data Protection Officer’s contact information: [privacy@wingify.com](mailto:privacy@wingify.com).
+
+## 14\. EU Representative  
+
+
+Wingify has nominated local representative in the European Union in order to comply with Article 27 EU GDPR. If you want to exercise your data privacy rights, please visit the  **[privacy dashboard](https://www.gdpr-rep.eu/q/19843629)**.
+
+ **Contact info for our EU GDPR representative:**
+
+GDPR-Rep.eu provided by Dr. Andreas Mätzler  
+Attorney at Law  
+c/o Wingify Software Pvt Ltd  
+Schellinggasse 3/10  
+1010 Vienna  
+Austria
+
+Email: [office@gdpr-rep.eu](mailto:office@gdpr-rep.eu "Follow link")  
+Website: [www.gdpr-rep.eu](http://www.gdpr-rep.eu/ "Follow link")
+
+Please add the following subject to all correspondence:  
+**DPI-REP ID: 19843629**
+
+Last updated: May 22, 2018
