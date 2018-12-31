@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ensighten.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629092651id_/https%3A//www.ensighten.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ensighten.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231220835id_/https%3A//www.ensighten.com/privacy-policy) for the most accurate reproduction.*
 
 # Ensighten Privacy Policy
 
@@ -164,9 +164,9 @@ Our customers can request for access or removal of data from our systems. Reques
 Transparency  
 A list of domains where data is collected by Pulse on behalf of our customers and partners is available [here](https://web.archive.org/data-collection-domains). In addition to this list, some of our customers may choose to disclose their data collection domains through their own privacy policy.
 
-**Safe Harbor Statement**
+**Privacy Shield Statement**
 
-Ensighten, Inc. and its subsidiaries comply with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Ensighten has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Ensighten’s certification, please visit <http://www.export.gov/safeharbor/>.
+Ensighten, Inc. and its subsidiaries are currently undergoing certification for the Privacy Shield Framework. To learn more about the Privacy Shield program please visit <https://www.privacyshield.gov/>.
 
 **Other websites**
 
