@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the muohio.edu privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630101831id_/http%3A//miamioh.edu/about-miami/pubs-policies/privacy-statement/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muohio.edu privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231133532id_/http%3A//miamioh.edu/about-miami/pubs-policies/privacy-statement/index.html) for the most accurate reproduction.*
 
 # Privacy Statement - Miami University
 
 ## Miami Cares About Your Privacy
 
-We know that many people are concerned about threats to their personal privacy, from receiving junk mail to being the victim of identity theft. At Miami, protecting personal privacy is a priority, and we are taking a proactive approach to enhancing protection for visitors to our site. This site has been created to provide useful information regarding privacy and to help you determine where to get assistance. Students, faculty, staff, and other users in our community are directed to the [Policy on Responsible Computing](http://blogs.miamioh.edu/miamipolicies/?p=379).
+We know that many people are concerned about threats to their personal privacy, from receiving junk mail to being the victim of identity theft. At Miami, protecting personal privacy is a priority, and we are taking a proactive approach to enhancing protection for visitors to our site. This site has been created to provide useful information regarding privacy and to help you determine where to get assistance. Students, faculty, staff, and other users in our community are directed to the [Policy on Responsible Computing](https://miamioh.edu//policy-library/administration-operations/it-services/responsible-use-university-computing-resources.html).
 
 ### Web Privacy Policy
 
