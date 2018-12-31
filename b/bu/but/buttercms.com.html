@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the buttercms.com privacy policy that was archived on 2018-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180625161807id_/https%3A//buttercms.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the buttercms.com privacy policy that was archived on 2018-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181231153333id_/https%3A//buttercms.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <meta charset="utf-8">
@@ -14,7 +14,7 @@
     
     
 
-    <link href="/static/css/website/main.9ca49b3399a4.css" rel="stylesheet">
+    <link href="/static/css/website/main.16ac0e18b3f5.css" rel="stylesheet">
     <link href="//fonts.googleapis.com/css?family=Open+Sans:300i,400,700" rel="stylesheet">
 
     
@@ -41,26 +41,25 @@ legal
                 <li class="dropdown">
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="true">Solutions <span class="caret"></span></a>
                   <ul class="dropdown-menu" role="menu">
-                    <li><a href="/cms">Full CMS</a></li>
-                    <li><a href="/blog-engine">Blog Engine</a></li>
+                    <li><a href="/api-first-cms/">Full CMS</a></li>
+                    <li><a href="/blog-engine/">Blog Engine</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="true">Learn <span class="caret"></span></a>
+                  <ul class="dropdown-menu" role="menu">
+                    <li><a href="/wordpress-alternative/">Compare WordPress</a></li>
+                    <li><a href="/docs/">Documentation</a></li>
+                    <li><a href="/blog/">Blog</a></li>
                   </ul>
                 </li>
                 <li><a href="/pricing/">Pricing</a></li>
-                <li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="true">Compare <span class="caret"></span></a>
-                  <ul class="dropdown-menu" role="menu">
-                    <li><a href="/wordpress-alternative/">WordPress</a></li>
-                    <li><a href="/medium-alternative/">Medium</a></li>
-                  </ul>
-                </li>
-                <li><a href="/docs/">Docs</a></li>
-                <li><a href="/blog/">Blog</a></li>
+                <li><a href="/customers/">Customers</a></li>
               </div>
               <div class="header-nav pull-right">
                 <li><a href="/login/">Log In</a></li>
-                
+                <!-- This button can't link to /home/ since this page is cached. Linking to home causes vistors to redirect to the login page -->
                 <li><a href="#" data-remodal-target="signup" class="button green">Try it FREE</a></li>
-                
               </div>
 
               <a href="#" class="pull-right open-sidenav sb-toggle-right"><img src="/static/images/home/menu.091cdc051606.png" width="32"></a>
@@ -197,7 +196,6 @@ legal
                   <div class="pull-right">
                     <a href="https://twitter.com/buttercms"><i class="fa fa-twitter social-media"></i></a>
                     <a href="https://github.com/buttercms"><i class="fa fa-github social-media"></i></a>
-                    <a href="https://www.linkedin.com/company/17877149"><i class="fa fa-linkedin social-media"></i></a>
                   </div>
                 </div>
 
@@ -240,11 +238,11 @@ legal
   </div>
 
   <form action="/do_sign_up/" method="POST">
-    <input type="hidden" name="csrfmiddlewaretoken" value="pLIilMj5xsinRH7HAdZm68e7qixNEoEyw5W44udOU9QOI5QdY5pk2CgGAtZ1IZh0">
+    <input type="hidden" name="csrfmiddlewaretoken" value="UgJPICFpJjw5wL3pju64o70yP8KCpWhn5u5CkGQZCwLi2XuMhR8VB5DXzHAZVhe7">
     <div class="fields">
       <div class="row">
         <div class="col-sm-12 form-group">
-          <input type="text" name="first_name" placeholder="First Name" id="id_first_name" required="" class="form-control" maxlength="30">
+          <input type="text" name="first_name" placeholder="First Name" required="" id="id_first_name" class="form-control" maxlength="30">
           
         </div>
       </div>
@@ -256,7 +254,7 @@ legal
       </div>
       <div class="row">
         <div class="col-sm-12 form-group">
-          <input type="text" name="email" placeholder="Email Address" id="id_email" required="" class="form-control" maxlength="50">
+          <input type="text" name="email" placeholder="Email Address" required="" id="id_email" class="form-control" maxlength="50">
           
         </div>
         <div class="col-sm-12 form-group">
@@ -273,11 +271,21 @@ legal
 
     
       <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-      <script src="/static/js/main.10a828a82794.js"></script>
+      <script src="/static/js/main.670a33db2500.js"></script>
     
 
     
     
+
+    <script type="text/javascript">
+      $('[data-remodal-target=signup]').click(function(event) {
+        mixpanel.track('Sign Up Button Clicked', {
+          'page_url': window.location.href, 
+          'button_text': event.target.text, 
+          'pricing_plan': $(event.target).data('plan')
+        });
+      });
+    </script>
 
     
 
@@ -290,7 +298,6 @@ legal
   if (typeof window.intercomSettings === 'undefined') {
     window.intercomSettings = {
       app_id: "bp1btbv7"
-      
     };
   }
 </script>
@@ -308,7 +315,7 @@ legal
   ga('send', 'pageview');
 </script>
 
-      
+
       <!-- Google Code for Remarketing Tag -->
       <script type="text/javascript">
       /* <![CDATA[ */
@@ -323,7 +330,7 @@ legal
       <div style="display:inline;">
       <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/933906461/?value=0&amp;guid=ON&amp;script=0"/>
       </div>
-      </noscript> 
+      </noscript>
 
       <!-- Perfect Audience -->
       <script type="text/javascript">
@@ -346,4 +353,5 @@ legal
     <script src="//my.hellobar.com/de6f8197505394fb38dea9562761404eaf87cdbf.js" type="text/javascript" charset="utf-8" async="async"></script>
     
   
+
 </body></html>
