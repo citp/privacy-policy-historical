@@ -1,58 +1,39 @@
-> *The following text is extracted and transformed from the oxfordenglishtesting.com privacy policy that was archived on 2017-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170725190039id_/http%3A//www.oxfordenglishtesting.com/showContent.aspx%3FmenuId%3D5%26id%3D116) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxfordenglishtesting.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231123911id_/https%3A//global.oup.com/privacy) for the most accurate reproduction.*
 
-# Oxford Online Placement Test | Exam Practice Tests for KET, PET, FCE, CAE, IELTS, TOEIC, TOEFL iBT
+# Oxford University Press - Privacy Policy
 
-## Privacy Policy for Oxford English Testing
+Last updated April 2018
 
-This privacy policy is specific to the Oxford English Testing web site and in the event of any conflict arising overrides any other privacy policy appearing on Oxford University Press ("OUP") web sites.
+Privacy Policy
 
-**Privacy Policy**
+Oxford University Press ("OUP") is committed to protecting your personal information and respecting data protection laws around the world. This privacy policy explains how we do this, and it applies to your use of OUP websites, products, and services. 
 
-Oxford University Press is committed to protecting your privacy online. Our policy explains how we will do this. We will review this policy in the light of comments we receive so please check the latest version. If you have any questions, please contact us.
+  
+How we use your personal information  
+  
+We use personal information in order to promote and provide OUP products and services, to ensure the security of our websites, and to run our business. We have set out on **[this page](http://global.oup.com/privacy_info?cc=us)** more information on the categories of personal information that we collect, the specific ways in which that personal information is processed by us, the legal bases which permit us to do this, and the types of partners with whom we share your personal information.
 
-By using the Oxford English Testing website, you are accepting the practices described in this statement.
+In some cases where we ask for your personal information, we do so in order for us to fulfil your request or order (e.g. needing your address to send you your order). If you do not provide that personal information we will not be able to process your request or order.
 
-**What information do we collect?**
+  
+Giving and withdrawing your consent, and updating your personal information  
+  
+Where your consent is required for us to process your personal information, we will ask for your consent at the point at which you provide your data.  You have the right to withdraw that consent at any time. You can also update your personal information at any time. If you wish to do either, contact us at [privacy@oup.com](mailto:privacy@oup.com).We do not sell your personal information to third parties.
 
-When you register to the website we may ask for your name, email address, postal address, and other relevant personal information. Personal information submitted in this way is added to our access control database, hosted by a third party hosting company, and to our customer database at OUP premises. This information will be updated if you inform us of any changes.
+Storing your personal information
 
-If you have indicated your consent, we may use information in our customer databases to send you information about us and our products which we think may be of interest to you, either electronically or otherwise. Your personal information will also be used to enable us to verify you are a registered user and to deliver the Oxford English Testing resource to you.
+Your personal information may be stored and processed outside of the country where it is collected, including outside of the European Economic Area. When transferring information to others, within the EEA or otherwise, we ensure that appropriate and suitable safeguards and technical measures are in place to protect your personal data. To do this, we make use of standard contractual clauses that have been approved by the European Commission, or we use an appropriate Privacy Shield certification or Binding Corporate Rules put in place by our suppliers, or we implement other similar measures required by laws around the world. A copy of the relevant mechanism can be provided for your review on request by sending an e-mail to our Data Privacy Officer at [privacy@oup.com](mailto:privacy@oup.com).We will only keep records of your personal information for as long as is reasonably necessary for the purposes for which we have collected it, and in order to comply with any statutory or regulatory obligations in relation to retention of records. We respect requests to stop processing your personal data for marketing purposes. This includes keeping a record of your request indefinitely so that we can respect your request in future.
 
-We request personal information (such as your name, e-mail address and other contact details) from you when you contact us with registered user management queries, technical problems, to comment on the Oxford English Testing resource, or when you ask for information about how to use the service. Personal information submitted by you via a “contact us” or Support programme will not be added to our customer database and we request it simply so that we can respond to you about your query. Statistics regarding the types of queries submitted to us via a “contact us” or Support programme may be collated by us in aggregate form so that we can effectively monitor the site and improve levels of service.
+  
+Cookies  
+  
+We use cookies on our websites and similar technologies in our apps and other software.  Please see our [Cookie Policy](http://global.oup.com/cookiepolicy?cc=us "Global OUP CookiePolicy") for details of how this may apply to you. 
 
-We need to store information about current registered users and your use of the Oxford English Testing website in order to fulfil our contractual requirements to you and in order to deliver the Oxford English Testing resource to you. 
+  
+Your rights  
+  
+You have the right to request access to and rectification or erasure of personal information, the right to restrict processing of your personal information, and the right to object to processing of your personal information. You have the right to object to your personal information being processed on the grounds of OUP's legitimate interests. You have the right to object to us sending you direct marketing and profiling you for the purposes of direct marketing. You can contact us by email at [privacy@oup.com](mailto:privacy@oup.com) in relation to any of the rights described in this paragraph, or if you have any questions regarding this privacy policy.  You have the right to lodge a complaint regarding our processing of your personal information with a data protection supervisory authority in a country where you live, work, or where you believe a breach may have occurred. 
 
-You may notify us either in writing or by telephone, fax or e-mail that you object to being contacted in a particular stated way. If you use more than one e-mail address to communicate with us, please notify us of each e-mail account you use.
+Contacting us
 
-We will only keep personal information for so long as is required to perform our obligations to you after which time we shall delete and destroy it. 
-
-**When do we share information?**
-
-We do not sell your personal information to others. 
-
-We share your personal information within OUP and with Oxford Publishing Limited. We will also share your personal information with third party suppliers for the purpose of enabling such suppliers' software that we use to support your use of the Oxford English Testing website. 
-
-The Oxford English Testing web site has been developed by and hosted by third parties but we have agreed with those third parties that they will keep your information secure and not use it for other purposes. 
-
-If we believe that your use of the web site is unlawful or damaging to others, we reserve the right to disclose the information we have obtained through the site about you to the extent that it is reasonably necessary in our opinion to prevent, remedy or take action in relation to such conduct.
-
-Where schools have agreed to form a chain, the schools and their authorised users (teachers and students) should be aware that a school in the chain will have the right (for proper purposes related to the management of their English testing resources) to view, process and amend the personal data in OUP’s learning management system relating to authorised users belonging to its school and any schools lower down that chain of schools.   
-
-
-**Use of cookies**
-
-Cookies are small files that we create to store information on your computer.
-
-  * we do not use cookies to track what other sites you have visited.
-  * we do not look at or track any personal or confidential information about you other than is strictly necessary for the purposes of your use of the Oxford English Testing resources.
-  * we do make use of cookies to enable authorization control for online products.
-
-
-
-**Security**
-
-Your personal information is stored at a data centre controlled by our third party hosting company and on the customer databases at OUP. The data centre controlled by our third party hosting company is specifically designed to be physically secure and to admit authorized personnel only, who are contractually bound to keep all of our data confidential. 
-
-Access to our customer databases at OUP is only given to those of our employees who need such access in order to carry out necessary processing of your account. 
-
-All personal information submitted by you and entered by OUP into the Oxford English Testing resource access control system is encoded using 128-bit SSL encryption before being sent over the Internet.
+The data controller for our websites, products and services is The Chancellor, Masters and Scholars of the University of Oxford, trading as Oxford University Press, of Great Clarendon Street, Oxford OX2 6DP, United Kingdom, unless otherwise indicated on the website, product, service or form  through which you have provided your personal data to us.  For example, if you provided your personal data through the website www.oupe.es, the data controller is Oxford University Press España S.A. If you are unsure who your data controller is, or have other queries relating to this policy, OUP's Data Privacy Officer (the Data Protection Officer) can be reached at the same address or by email at [privacy@oup.com.](mailto:privacy@oup.com)
