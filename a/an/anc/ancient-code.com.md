@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ancient-code.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625212726id_/https%3A//ancient-code.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ancient-code.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231202620id_/https%3A//www.ancient-code.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ancient Code
 
@@ -63,6 +63,8 @@ We will not disclose your personal information to any other party other than in 
 We may disclose personal information if we have your specific consent to do so.
 
 **Co-sponsored activities:**
+
+[](https://is.ltroute.com/click.track?CID=420784&AFID=426982&SID=AncientCode&nonencodedurl=https://allpopculture.com/products/warrior-tankard-viking-skull-mug)
 
 When you sign up for a webinar or other activity that is co-sponsored by another company, we may share your registration information with that company.
 
