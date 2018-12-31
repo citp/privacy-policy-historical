@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fselite.net privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625192947id_/https%3A//fselite.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fselite.net privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231201134id_/https%3A//fselite.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy and Legal | FSElite
 
@@ -33,6 +33,8 @@ You must not:
 Redistribute content from FSElite (unless content is specifically made for redistribution).
 
 #### User Comments
+
+[**Our full community guidelines can be found here.**](https://fselite.net/community-guidelines/)
 
   1. This Agreement shall begin on the date hereof.
   2. Certain parts of this website offer the opportunity for users to post and exchange opinions, information, material and data (‘Comments’) in areas of the website. FSElite does not screen, edit, publish or review Comments prior to their appearance on the website and Comments do not reflect the views or opinions of FSElite, its agents or affiliates. Comments reflect the view and opinion of the person who posts such view or opinion. To the extent permitted by applicable laws FSElite shall not be responsible or liable for the Comments or for any loss cost, liability, damages or expenses caused and or suffered as a result of any use of and/or posting of and/or appearance of the Comments on this website.
@@ -72,7 +74,7 @@ We will approve link requests from these organizations if we determine that: (a)
 
 These organizations may link to our home page, to publications or to other Web site information so long as the link: (a) is not in any way misleading; (b) does not falsely imply sponsorship, endorsement or approval of the linking party and it products or services; and (c) fits within the context of the linking party’s site.
 
-If you are among the organizations listed in paragraph 2 above and are interested in linking to our website, you must notify us by sending an e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c2abaca4ad82a4b1a7aeaba7ecaca7b6 "send an email to info@fselie.net"). Please include your name, your organization name, contact information (such as a phone number and/or e-mail address) as well as the URL of your site, a list of any URLs from which you intend to link to our Web site, and a list of the URL(s) on our site to which you would like to link. Allow 2-3 weeks for a response.
+If you are among the organizations listed in paragraph 2 above and are interested in linking to our website, you must notify us by sending an e-mail to [info@fselite.net](mailto:info@fselie.net "send an email to info@fselie.net"). Please include your name, your organization name, contact information (such as a phone number and/or e-mail address) as well as the URL of your site, a list of any URLs from which you intend to link to our Web site, and a list of the URL(s) on our site to which you would like to link. Allow 2-3 weeks for a response.
 
 Approved organizations may hyperlink to our Web site as follows:
 
@@ -121,11 +123,17 @@ To the extent that the website and the information and services on the website a
 
 **Valid from:  **May 24th 2018
 
+**Updated on November 1st 2018**
+
+  * Included a link to our Community Guidelines section in the comment section.
+
+
+
 This is the privacy notice of FSElite In this document, “we”, “our”, or “us” refer to FSElite.
 
 We are registered in the United States of America.
 
-Our registered office is at 21 Broadmoor Rd, Scarsdale, NY 10583.
+Our registered office is at Scarsdale, New York.
 
 ## Introduction
 
@@ -182,7 +190,7 @@ Except where you have consented to our use of your information for a specific pu
 
 We continue to process your information on this basis until you withdraw your consent or it can be reasonably assumed that your consent no longer exists.
 
-You may withdraw your consent at any time by instructing us [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) However, if you do so, you may not be able to use our website or our services further.
+You may withdraw your consent at any time by instructing us privacy@fselite.net. However, if you do so, you may not be able to use our website or our services further.
 
 ### 3\. Information we process for the purposes of legitimate interests
 
@@ -236,7 +244,7 @@ We do store it, and we reserve a right to use it in the future in any way we dec
 
 Once your information enters the public domain, we have no control over what any individual third party may do with it. We accept no responsibility for their actions at any time.
 
-Provided your request is reasonable and there is no legal basis for us to retain it, then at our discretion we may agree to your request to delete personal information that you have posted. You can make a request by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Provided your request is reasonable and there is no legal basis for us to retain it, then at our discretion we may agree to your request to delete personal information that you have posted. You can make a request by contacting us at privacy@fselite.net
 
 ### 6\. Complaints regarding content on our website
 
@@ -383,14 +391,14 @@ We use the following safeguards with respect to data transferred outside the Eur
 ### 18\. Access to your personal information
 
   * At any time you may review or update personally identifiable information that we hold about you, by signing in to your account on our website.
-  * To obtain a copy of any information that is not provided on our website you may send us a request at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+  * To obtain a copy of any information that is not provided on our website you may send us a request at privacy@fselite.net
   * After receiving the request, we will tell you when we expect to provide you with the information, and whether we require any fee for providing it to you.
 
 
 
 ### 19\. Removal of your information
 
-If you wish us to remove personally identifiable information from our website, you may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you wish us to remove personally identifiable information from our website, you may contact us at privacy@fselite.net
 
 This may limit the service we can provide to you.
 
@@ -424,7 +432,7 @@ Data is stored securely via database tables hosted on FSElite servers.
 
 ### 23\. How you can complain
 
-  * If you are not happy with our privacy policy or if have any complaint then you should tell us by email. Our address is [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+  * If you are not happy with our privacy policy or if have any complaint then you should tell us by email. Our address is privacy@fselite.net
   * If a dispute is not settled then we hope you will agree to attempt to resolve it by engaging in good faith with us in a process of mediation or arbitration.
   * If you are in any way dissatisfied about how we process your personal information, you have a right to lodge a complaint with the Information Commissioner’s Office. This can be done at <https://ico.org.uk/concerns/>
 
