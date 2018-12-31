@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wsws.org privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629221119id_/http%3A//www.wsws.org/en/special/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsws.org privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231015419id_/https%3A//www.wsws.org/en/special/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement - World Socialist Web Site
 
 ## Privacy Statement
 
-Effective date: May 25, 2018
+Effective date: November 1, 2018
 
 World Socialist Web Site, Inc. ("us", "we", or "our") operates the wsws.org website (the "Service").
 
@@ -144,6 +144,14 @@ Google Analytics is a web analytics service offered by Google that tracks and re
 You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity.
 
 For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: <https://policies.google.com/privacy?hl=en>
+
+**SharpSpring**
+
+Our website uses “SharpSpring” software to collect information about your use of our site, which we then use to learn about your interests and market products and services to you via phone, email or through our website. SharpSpring can only collect personally identifiable information if you provide your information through a form submission. However, it can collect non-personal information, such as IP addresses, browser types, system types, and the referring URLs. It also assigns your device a unique user ID, which can then be used to track the content and pages that you access, as well as the frequency and duration of your visits to our site.
+
+SharpSpring has chosen to take part in and certify its adherence to the E.U.-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. You can read more about the steps SharpSpring has taken to protect the privacy of your information here: <https://sharpspring.com/legal/us-eu-privacy-notice/>
+
+While SharpSpring plants a permanent cookie on your web browser to identify you as a unique user the next time you visit our site, the cookie cannot be used by anyone but SharpSpring. SharpSpring’s ability to use and share information collected by their software about your visits to our site is restricted by SharpSpring’s Privacy Policy: <https://sharpspring.com/legal/privacy/>. You can prevent SharpSpring from recognizing you on return visits to this site by disabling cookies on your browser.
 
 #### Transfer of Data
 
