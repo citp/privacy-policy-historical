@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ubagroup.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110181719id_/http%3A//www.ubagroup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubagroup.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231052033id_/https%3A//www.ubagroup.com/privacy) for the most accurate reproduction.*
 
 # UBA Bank
 
