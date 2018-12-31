@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grabbon.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231234109id_/https%3A//www.snapdeal.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grabbon.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231131744id_/https%3A//www.snapdeal.com/page/privacy-policy) for the most accurate reproduction.*
 
 # 
 
@@ -139,16 +139,6 @@ If you find any discrepancies or have any grievances in relation to the collecti
 
 Mr. Rakesh Yadav, the designated grievance officer under Information Technology Act, 2000  
 E-mail: [grievanceofficer@snapdeal.com.](mailto:grievanceofficer@snapdeal.com.).
-
-## For Accelyst Solution Private Limited:
-
-Mr. Velmurugan Arumugam, the designated grievance officer under Information Technology Act, 2000  
-E-mail: [grievanceofficer@freecharge.com](mailto:grievanceofficer@freecharge.com).
-
-## For Freecharge Payment Technologies Private Limited:
-
-Mr. Vibhu Arya, the designated grievance officer under Information Technology Act, 2000  
-E-mail: [grievances@klickpay.in](mailto:grievances@klickpay.in).
 
 The details of the grievance officer may be changed by us from time to time by updating this Privacy Policy.
 
