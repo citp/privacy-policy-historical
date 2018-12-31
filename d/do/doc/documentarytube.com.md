@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the documentarytube.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626114732id_/http%3A//www.documentarytube.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the documentarytube.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231073822id_/http%3A//www.documentarytube.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | DocumentaryTube
 
