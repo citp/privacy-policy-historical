@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the allkeyshop.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625201150id_/http%3A//www.allkeyshop.com/blog/privacy-policy-allkeyshop-com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allkeyshop.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231120722id_/https%3A//www.allkeyshop.com/blog/privacy-policy-allkeyshop-com) for the most accurate reproduction.*
 
 # Privacy Policy Allkeyshop.com
 
 ## **Introduction**
 
-ALLKEYSHOP NETWORK provides Game comparison prices  websites that helps Customers compare and buy games at best prices. Allkeyshop Network gathers several sites specialized in the price comparison of video games as well as a site dedicated to its loyalty program [allkeyshop.com](http://allkeyshop.com/) / [Keyforsteam.de](http://keyforsteam.de/) / [Goclecd.fr](http://goclecd.fr/) / [CheapDigitalDownload.com](http://cheapdigitaldownload.com/) / [Clavecd.es](http://clavecd.es/) / [Cdkeyit.it](http://cdkeyit.it/) / [Cdkeypt/pt](http://cdkeypt/pt) / [Cdkeynl.nl](http://cdkeynl.nl/) / [Steamkeybox.com](https://steamkeybox.com/) Security & Privacy is an important part of our platform that we take very seriously. Therefore, this Privacy Policy governs the manner in which Allkeyshop Network website collects, uses, maintains and discloses information collected from users of the [Allkeyshop.com](http://allkeyshop.com/) website and Allkeyshop Network. This privacy policy applies to the Site and all products or services offered by Allkeyshop Network. In order to ensure confidentiality and lawful processing of its, Visitors, Customers and Comparison prices websites Users personal data, Allkeyshop Network in its capacity of a data controller and of a processor, conducts its activities in strict compliance with the requirements set in the Regulation (EU) 2016/679 of the European Parliament and of the Council on the protection of natural persons with regard to the processing of personal data and on the free movement of this data (GDPR). This Privacy Policy applies to all Customers, Allkeyshop Network Users and Visitors of our Sites and Services.
+ALLKEYSHOP NETWORK provides Game comparison prices  websites that helps Customers compare and buy games at best prices. Allkeyshop Network gathers several sites specialized in the price comparison of video games as well as a site dedicated to its loyalty program [allkeyshop.com](http://allkeyshop.com/) / [Keyforsteam.de](http://keyforsteam.de/) / [Goclecd.fr](http://goclecd.fr/) / [CheapDigitalDownload.com](https://cheapdigitaldownload.com/) / [Clavecd.es](http://clavecd.es/) / [Cdkeyit.it](http://cdkeyit.it/) / [Cdkeypt/pt](http://cdkeypt/pt) / [Cdkeynl.nl](http://cdkeynl.nl/) / [Steamkeybox.com](https://steamkeybox.com/) Security & Privacy is an important part of our platform that we take very seriously. Therefore, this Privacy Policy governs the manner in which Allkeyshop Network website collects, uses, maintains and discloses information collected from users of the [Allkeyshop.com](http://allkeyshop.com/) website and Allkeyshop Network. This privacy policy applies to the Site and all products or services offered by Allkeyshop Network. In order to ensure confidentiality and lawful processing of its, Visitors, Customers and Comparison prices websites Users personal data, Allkeyshop Network in its capacity of a data controller and of a processor, conducts its activities in strict compliance with the requirements set in the Regulation (EU) 2016/679 of the European Parliament and of the Council on the protection of natural persons with regard to the processing of personal data and on the free movement of this data (GDPR). This Privacy Policy applies to all Customers, Allkeyshop Network Users and Visitors of our Sites and Services.
 
 ##  **What Information We Collect and How We Use It**
 
@@ -54,7 +54,7 @@ Allkeyshop Network may collect and use User’s personal information for the fol
 Allkeyshop Network does not own or use any identifiable data provided users for any reason other than to:
 
   * Ensure that your specific request is carried out and assigned to the correct giveaway or loterie that you provided consent for
-  * Identify and detect fraudulent behaviour or Allkeyshop Users that are violating our [Terms of Service](http://www.allkeyshop.com/blog/mentions-legales-pour-le-site-allkeyshop-com/)
+  * Identify and detect fraudulent behaviour or Allkeyshop Users that are violating our [Terms of Service](https://www.allkeyshop.com/blog/mentions-legales-pour-le-site-allkeyshop-com/)
   * Provide support to Customers regarding specific User queries
   * Analyze anonymized statistics or usage to help improve the Allkeyshop Network
 
@@ -104,9 +104,9 @@ Allkeyshop will not retain data longer than is necessary to fulfill the purposes
 
 Allkeyshop Network Websites Communication: Our Customers, Site Visitors and Users have a choice about how we use their personal data to get in touch with them and may choose to opt-out at any time by unsubscribing or changing their account settings.   Newsletter Users Notifications: We provide an easy mechanism for opt-ing out of any communication from campaigns inside the Post Entry Email. You can simply selec the Unsubscribe links in the footer. Users Social Accounts: We provide a mechanism for every users to remove any linked social accounts from Allkeyshop via the Profil page. Your Rights: We provide all Customers, Visitors and Users of our Site with the opportunity to request access, correction, restriction, deletion, data portability or oppose to any personal information that has previously been provided to us in connection with the use of our Website, as required by law. You can send us an email to [support@Allkeyshop.com](mailto:support@Allkeyshop.com). We may request specific information from you to confirm your identity.
 
-###  **Allkeyshop Network Data Protection Officer**
+###  **Allkeyshop Network Data Protection**
 
-Allkeyshop Network has a Data Protection Officer who is responsible for matters relating to privacy and data protection. This Data Protection Officer can be reached at the following address: Allkeyshop Limited 31 / F., Chinachem Century Tower, 178, rue Gloucester, Wanchai, Hong Kong Mail: Support@allkeyshop.com
+Mail: support@allkeyshop.com
 
 ##  **Compliance With Children’s Online Privacy Protection Act**
 
