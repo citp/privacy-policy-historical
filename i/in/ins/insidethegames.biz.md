@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insidethegames.biz privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625072634id_/https%3A//www.insidethegames.biz/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidethegames.biz privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231230107id_/https%3A//www.insidethegames.biz/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -11,7 +11,7 @@
 Dunsar Media Company Limited ("We") are committed to protecting and respecting your privacy.  
 This policy (together with our [terms of use](https://web.archive.org/terms-and-conditions) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controller is Dunsar Media Company Limited of The Stable Yard, Vicarage Road, Stony Stratford, Milton Keynes, Buckinghamshire, England, MK11 1BN.
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is Dunsar Media Company Limited of 63 Wolverton Road, Stony Stratford, Milton Keynes, Buckinghamshire, England, MK11 1EQ.
 
 ### Information we may collect from you
 
@@ -84,7 +84,7 @@ We may disclose your personal information to third parties:
 
 ### Your rights
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at contact@insidethegames.biz.
 
 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
@@ -98,6 +98,6 @@ Any changes we may make to our privacy policy in the future will be posted on th
 
 ### Contact
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to contact@insidethegames.biz.
 
 Thank you for visiting our site.
