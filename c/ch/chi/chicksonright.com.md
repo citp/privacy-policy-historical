@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chicksonright.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625062944id_/https%3A//www.chicksonright.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chicksonright.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231055355id_/https%3A//www.chicksonright.com/legal) for the most accurate reproduction.*
 
-# Legal | Chicks On The Right
+# Legal - Chicks On The Right
 
 This Privacy Policy governs the manner in which COTR, LLC (dba Chicks on the Right) collects, uses, maintains and discloses information collected from users (each, a “User”) of the chicksontheright.com website (“Site”). This privacy policy applies to the Site and all products and services offered by COTR, LLC (dba Chicks on the Right).
 
@@ -17,6 +17,8 @@ Web browser cookies
 Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
 If you would like to “opt out” of interest-based advertising delivered by advertisers on web pages using cookies, you may “opt out” by following the instructions available at [Network Advertising Initiative](http://optout.networkadvertising.org/#!/).
+
+Our Site uses third parties, including Facebook, who may use cookies, web beacons, and other storage technologies to collect or receive information from your websites and elsewhere on the internet and use that information to provide measurement services and target ads. You may opt-out of the collection and use of information for ad targeting. You may exercise your choice to opt-out by using the following links to [About Ad Choices](http://www.aboutads.info/choices) and [Your Ad Choices](http://www.youronlinechoices.eu/).
 
 How we use collected information
 
@@ -35,10 +37,6 @@ We may use the email address to respond to their inquiries, questions, and/or ot
 How we protect your information
 
 We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
-
-Sharing your personal information
-
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
 Third party websites
 
