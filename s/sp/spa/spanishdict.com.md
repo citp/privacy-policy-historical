@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the spanishdict.com privacy policy that was archived on 2018-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180603175936id_/http%3A//www.spanishdict.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spanishdict.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231110534id_/http%3A//www.spanishdict.com/company/privacy) for the most accurate reproduction.*
 
 # SpanishDict | Privacy
 
-  * [Home](https://www.spanishdict.com/) >
-  * [Company](https://www.spanishdict.com/company) >
+  * [Home](http://www.spanishdict.com/) >
+  * [Company](http://www.spanishdict.com/company) >
   * Privacy Policy
 
 
