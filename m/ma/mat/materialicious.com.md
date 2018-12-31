@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the materialicious.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627172405id_/http%3A//materialicious.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the materialicious.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231211220id_/http%3A//materialicious.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
