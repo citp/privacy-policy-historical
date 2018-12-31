@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatarcadehits.com privacy policy that was archived on 2018-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180202232628id_/http%3A//www.greatarcadehits.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatarcadehits.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231031916id_/http%3A//greatarcadehits.com/privacy-policy) for the most accurate reproduction.*
 
 # GreatArcadeHits | Privacy Policy
 
