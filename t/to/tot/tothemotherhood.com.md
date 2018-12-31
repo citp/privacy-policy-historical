@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tothemotherhood.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630221633id_/http%3A//tothemotherhood.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tothemotherhood.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231041406id_/http%3A//tothemotherhood.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | To the Motherhood - Lifestyle Blogazine by HilLesha O'Nan
 
