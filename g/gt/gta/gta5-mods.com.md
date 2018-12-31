@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gta5-mods.com privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129135429id_/https%3A//www.gta5-mods.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gta5-mods.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231044024id_/https%3A//www.gta5-mods.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - GTA5-Mods.com
 
