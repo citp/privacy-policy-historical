@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the xtra.ca privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625112321id_/https%3A//www.dailyxtra.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtra.ca privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231121505id_/https%3A//www.dailyxtra.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Xtra
 
-**THIS PRIVACY POLICY WAS LAST UPDATED ON: May 25, 2018.**
+**THIS PRIVACY POLICY WAS LAST UPDATED ON: November 12, 2018.**
 
 Pink Triangle Press (collectively “we”, “our” or “us”) is committed to protecting the privacy of the users (collectively “you” or “your”) of our website (the “Site”). This Privacy Policy is applicable to any of our websites that make reference to this Privacy Policy.
 
@@ -12,7 +12,7 @@ Pink Triangle Press (collectively “we”, “our” or “us”) is committed 
 
 **1.1** This policy applies where we are acting as a data controller with respect to your personal data of our users; in other words, where we determine the purposes and means of the processing of your personal data.
 
-**1.2** We use cookies on the Site – where these cookies are not strictly necessary for you to use the Site we will ask you to consent to our use of cookies when you first visit the Site.
+**1.2** We use cookies on the Site – where these cookies are not strictly necessary for you to use the Site we have provided information in the “ **Cookies** ” section of this Privacy Policy on how you can personalize your cookie settings.
 
 **1.3** If you are an individual in the European Economic Area (“ **EEA** ”), we collect and process personal data about you only where we have legal bases for doing so under applicable EU laws. These legal bases depend on the various aspects of the Site and how you use them.
 
@@ -164,7 +164,7 @@ Account Data is retained for six months after we receive an “unsubscribe” re
 
 **10.8 OPTIONAL COOKIES:** We use optional cookies to help us understand how you use the service and to develop ways to improve your experience and to deliver engaging and relevant content for our members:
 
-**(a) Analytics** – in addition to our own cookies, we use Google Analytics, which is one of the most widespread and trusted analytic solutions on the Internet. These cookies may track things like how long you spend on the Service, the areas you visit most frequently along with other usage statistics. For more information on how Google uses cookies, please visit [here](https://policies.google.com/technologies/cookies).
+**(a) Analytics** – in addition to our own cookies, we use Google Analytics, which is one of the most widespread and trusted analytic solutions on the Internet. These cookies may track things like how long you spend on the Service, the areas you visit most frequently along with other usage statistics. For more information on how Google uses cookies, please visit [**here**](https://policies.google.com/technologies/cookies). Many Google Analytics functions require your “Ad Personalization” setting be turned “ON”. Visit [**here**](https://adssettings.google.com/authenticated) to learn more about Google Ad Personalization and to control your setting. And visit [**here**](https://support.google.com/accounts?p=adssettings_activity&hl=en) to learn how to control the Google ads you see.
 
 **(b) Marketing** – marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
 
@@ -180,7 +180,7 @@ Account Data is retained for six months after we receive an “unsubscribe” re
 
 **(e) Opera:[here](http://www.opera.com/help/tutorials/security/cookies/)**
 
-**(f) Safari:[here](https://support.apple.com/kb/PH21411)**
+**(f) Safari:  **[ **here**](https://support.apple.com/en-ca/guide/safari/manage-cookies-and-website-data-sfri11471/mac) for Mac and [**here**](https://support.apple.com/en-us/HT201265) for iPhone, iPad and iPod
 
 **10.10 OPT-OUT OF INTEREST-BASED ADVERTISING:** Some advertisers participate in the Digital Advertising Alliance (“DAA”) WebChoices Tool, which allows you to opt-out of interest-based advertising and other applicable uses of web-viewing data by DAA’s participating companies. You may still receive other types of online advertising from participating companies, and these companies may still collect information for other purposes consistent with DAA principles. Access the WebChoices tool [here](http://optout.aboutads.info/?c=2#!/).
 
