@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the labour.org.uk privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628130157id_/https%3A//labour.org.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the labour.org.uk privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231135903id_/https%3A//labour.org.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Labour Party
 
@@ -56,4 +56,4 @@ The Labour Party site does not automatically capture or store personal informati
 
 ### Cookies
 
-A cookie is a tiny text file that is stored on your computer. We may use cookies – including analytics cookies provided by companies such as Google – in order to tailor your experience on our site according to the preferences you have specified. However, we will only access the information that we stored in your cookie file. We will not access any information stored in a cookie placed by other websites. Our cookies do not contain personally identifiable information, other than your IP address, which itself is only very rarely enough to identify you as an individual. You can find out more in our [Cookie Policy](https://labour.org.uk/cookie-policy/).
+A cookie is a tiny text file that is stored on your computer. The Labour Party may use cookie data, on page website behaviour, and click through data from digital media to personalise your website experience across Labour platforms. We may use cookies – including analytics cookies provided by companies such as Google – in order to tailor your experience on our site according to the preferences you have specified. However, we will only access the information that we stored in your cookie file. We will not access any information stored in a cookie placed by other websites. Our cookies do not contain personally identifiable information, other than your IP address, which itself is only very rarely enough to identify you as an individual. You can find out more in our [Cookie Policy](https://labour.org.uk/cookie-policy/).
