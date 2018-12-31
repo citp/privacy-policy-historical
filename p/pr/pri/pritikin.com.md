@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pritikin.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625055955id_/https%3A//www.pritikin.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pritikin.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231050612id_/https%3A//www.pritikin.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Pritikin Weight Loss Resort
 
@@ -48,4 +48,4 @@ You can correct factual errors in your personally identifiable information by se
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
 **How To Contact Us**  
-Should you have other questions or concerns about these privacy policies, please call us at 305.935.7131 or send us an email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#523b3c343d1222203b263b393b3c7c313d3f).
+Should you have other questions or concerns about these privacy policies, please call us at 305.935.7131 or send us an email at [info@pritikin.com](mailto:info@pritikin.com).
