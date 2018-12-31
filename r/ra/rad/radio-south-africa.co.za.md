@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radio-south-africa.co.za privacy policy that was archived on 2018-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180511150845id_/http%3A//www.radio-south-africa.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radio-south-africa.co.za privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231033727id_/http%3A//www.radio-south-africa.co.za/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Listen to radio online
 
