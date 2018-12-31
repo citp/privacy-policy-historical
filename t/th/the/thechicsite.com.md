@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thechicsite.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625025335id_/https%3A//thechicsite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thechicsite.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231020917id_/https%3A//thechicsite.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Chic Site
 
