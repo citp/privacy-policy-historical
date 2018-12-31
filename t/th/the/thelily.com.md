@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelily.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629001525id_/https%3A//www.washingtonpost.com/privacy-policy/2011/11/18/gIQASIiaiN_story.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelily.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231150914id_/https%3A//www.washingtonpost.com/privacy-policy/2011/11/18/gIQASIiaiN_story.html) for the most accurate reproduction.*
 
 # Privacy Policy - The Washington Post
 
@@ -94,7 +94,7 @@ We have in place physical, electronic and managerial procedures to protect the i
 
 **Do-Not-Track Signals and Similar Mechanisms.  **Some web browsers may transmit “do-not-track” signals to the websites with which the user communicates. Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them. Because there currently is no industry standard concerning what, if anything, websites should do when they receive such signals, the Services currently do not take action in response to these signals. If and when a final standard is established and accepted, we will reassess how to respond to these signals. In the meantime, please see Online Tracking & Advertising for additional information about privacy choices that may be available to you with respect to targeted advertising.
 
-**International Transfers.  **The Services are headquartered in the United States. Please be aware that if information you provide to us or that we obtain as a result of your use of the Services may be collected in your country and subsequently transferred to the United States or to another country in accordance with applicable law. By using the Services, you consent to the collection, international transfer, storage, and processing of your information
+**International Transfers.  **The Services are headquartered in the United States. Please be aware that information you provide to us or that we obtain as a result of your use of the Services may be collected in your country and subsequently transferred to the United States or to another country in accordance with applicable law. By using the Services, you consent to the collection, international transfer, storage, and processing of your information
 
 **_Changes to Our Privacy Policy_ **
 
