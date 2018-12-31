@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infusionblog.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627033031id_/https%3A//www.infusionsoft.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infusionblog.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231114655id_/https%3A//www.infusionsoft.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Infusionsoft Privacy Policy
 
@@ -70,7 +70,7 @@ We may use your email and other addresses and contact information for customer s
 
 ##### How To Contact Us
 
-**General.** If you have any questions or concerns about this Policy or the way your information is being used by Infusionsoft, or should you wish to contact us for any other reason described in this Policy, you can contact us (i) by email directed to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#9df1f8fafcf1ddf4f3fbe8eef4f2f3eef2fbe9b3fef2f0) or (ii) by mail addressed to Infusion Software, Inc., 1260 S. Spectrum Blvd., Chandler, AZ 85286, attention Legal /Privacy Compliance. If you are not satisfied with our response, or if contacting us does not resolve your complaint, you can contact VeraSafe™ here: <https://www.verasafe.com/dispute-submission>
+**General.** If you have any questions or concerns about this Policy or the way your information is being used by Infusionsoft, or should you wish to contact us for any other reason described in this Policy, you can contact us (i) by email directed to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a2cec7c5c3cee2cbccc4d7d1cbcdccd1cdc4d68cc1cdcf) or (ii) by mail addressed to Infusion Software, Inc., 1260 S. Spectrum Blvd., Chandler, AZ 85286, attention Legal /Privacy Compliance. If you are not satisfied with our response, or if contacting us does not resolve your complaint, you can contact VeraSafe™ here: <https://www.verasafe.com/dispute-submission>
 
 **Effective Date of Policy.** This Policy was last updated as of the last date set forth below. If you would like to see an earlier version of this Policy, please contact us using one of the methods set forth above and specify the applicable date or time period for the prior Policy version requested.
 
