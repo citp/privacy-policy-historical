@@ -1,27 +1,38 @@
-> *The following text is extracted and transformed from the jcpenney.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227235539id_/http%3A//www.jcpenney.com/jsp/customerservice/serviceContent.jsp%3FpageId%3Dpg4003700012%26isFooter%3Dtrue%26title%3Dprivacy%2520policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jcpenney.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231103349id_/https%3A//www.jcpenney.com/jsp/customerservice/serviceContent.jsp%3FpageId%3Dpg4003700012%26isFooter%3Dtrue%26title%3Dprivacy%2520policy) for the most accurate reproduction.*
 
-# privacy policy - JCPenney
+# 
 
-###  **J. C. Penney Corporation, Inc.  Privacy Policy (rev. 08/01/17) **
+###  **J. C. Penney Corporation, Inc.  Privacy Policy (rev. 08/01/17)**
 
 The following Privacy Policy applies to information collected by J. C. Penney Corporation, Inc. its subsidiaries and affiliates (collectively, “JCPenney,” “we” or “us”) in the United States and Puerto Rico at JCPenney’s retail stores and through our websites and mobile applications.
 
 ###  table of contents 
 
-  * information we collect
-  * using the information we collect
-  * information we share with others
-  * safeguarding the Information we collect
-  * your choices about how we use information
-  * opt-outs for interest-based advertising (IBA)
-  * our use of cookies and other technologies 
-  * links to other sites and social media widgets
-  * children’s privacy
-  * notice to California residents – your California privacy rights  
-  * international customer privacy
-  * changes to this policy
+• information we collect
 
+• using the information we collect
 
+• information we share with others
+
+• safeguarding the Information we collect
+
+• your choices about how we use information
+
+• opt-outs for interest-based advertising (IBA)
+
+• our use of cookies and other technologies
+
+• links to other sites and social media widgets
+
+• children’s privacy
+
+• notice to California residents – your California privacy rights 
+
+• international customer privacy
+
+• changes to this policy
+
+•  _[r](http://lenldtmgtpr1p01.jcpenney.com:82/AssetManager/assetEditor/editAsset.jsp?assetURI=atgasset:/JCP%20Content%20Repository/astReferenceDHTML/2300061&pushContext=true&linkPropertyName=dhtmlAssetReference#policychange)esponsible disclosure program_
 
 ###  **information we collect**
 
@@ -49,7 +60,7 @@ When you interact with JCPenney, we collect information, including personal info
 
 • social media information. (e.g. handle or ID, gender, age)
 
-###  **when we collect your information**
+###  when we collect your information
 
 Such information can be collected, for instance, when:
 
@@ -183,7 +194,7 @@ We have physical, technical and procedural safeguards in place to protect the pe
 
 If you have created a jcpenney.com account or a gift registry account/profile, you can update your information by signing back into your account or registry.  Or, to update or correct your name, address, telephone number, or email address, you may:
 
-• email us at [privacy@jcpenneyeservices.com](mailto:privacy@jcpenneyeservices.com),
+• email us at [privacy@jcpenneyeservices.com](mailto:privacy@jcpenneyeservices.com),
 
 • call us at 1.800.322.1189, or
 
@@ -199,7 +210,7 @@ Customers may also exercise their preferences by:
 
 If you do not want to receive coupons and other promotional mail, or if you do not want to receive promotional email offers and updates from JCPenney, you may:
 
-• email us at [privacy@jcpenneyeservices.com](mailto:privacy@jcpenneyeservices.com),
+• email us at [privacy@jcpenneyeservices.com](mailto:privacy@jcpenneyeservices.com),
 
 • call us at 1.800.322.1189, or
 
@@ -211,9 +222,9 @@ Please note that even if you unsubscribe from promotional email offers and updat
 
   **opt-out for JCPenney mobile marketing messages**
 
-If you are currently receiving promotional text alerts from JCPenney, you may unsubscribe at any time by texting **STOP** to 527365. After we receive your opt-out, we will send you a final text message to confirm the opt-out.  You may also:
+If you are currently receiving promotional text alerts from JCPenney, you may unsubscribe at any time by texting  **STOP**  to 527365. After we receive your opt-out, we will send you a final text message to confirm the opt-out.  You may also:
 
-• email us at [privacy@jcpenneyeservices.com](mailto:privacy@jcpenneyeservices.com),
+• email us at [privacy@jcpenneyeservices.com](mailto:privacy@jcpenneyeservices.com),
 
 • call us at 1.800.322.1189, or
 
@@ -221,9 +232,9 @@ If you are currently receiving promotional text alerts from JCPenney, you may un
 
 **opt-out for JCPenney transactional SMS (text) messages**
 
-If you are currently receiving text alerts from JCPenney, you may unsubscribe at any time by texting **STOP** to 65566. After we receive your opt-out, we will send you a final text message to confirm the opt-out.  You may also:
+If you are currently receiving text alerts from JCPenney, you may unsubscribe at any time by texting  **STOP**  to 65566. After we receive your opt-out, we will send you a final text message to confirm the opt-out.  You may also:
 
-• email us at [privacy@jcpenneyeservices.com](mailto:privacy@jcpenneyeservices.com),
+• email us at [privacy@jcpenneyeservices.com](mailto:privacy@jcpenneyeservices.com),
 
 • call us at 1.800.322.1189, or
 
@@ -233,7 +244,7 @@ If you are currently receiving text alerts from JCPenney, you may unsubscribe at
 
 If you do not want JCPenney to share information about you with companies outside the JCPenney family for their marketing purposes, you may stop such sharing by:
 
-• emailing us at [privacy@jcpenneyeservices.com](mailto:privacy@jcpenneyeservices.com),
+• emailing us at [privacy@jcpenneyeservices.com](mailto:privacy@jcpenneyeservices.com),
 
 • calling us at 1.800.322.1189, or
 
@@ -257,11 +268,11 @@ JCPenney uses third-party analytics companies on its websites and mobile applica
 
 _Google Analytics_
 
-•         To learn more about Google Analytics’ privacy practices and any opt-out choices it offers, [click here](https://support.google.com/analytics/answer/6004245).
+•         To learn more about Google Analytics’ privacy practices and any opt-out choices it offers, [click here](https://support.google.com/analytics/answer/6004245).
 
 _Adobe Analytics_
 
-•         To learn more about Adobe Analytics’ privacy practices or to opt-out of cookies set to facilitate reporting by Adobe Analytics, [click here](http://www.adobe.com/privacy/opt-out.html).
+•         To learn more about Adobe Analytics’ privacy practices or to opt-out of cookies set to facilitate reporting by Adobe Analytics, [click here](http://www.adobe.com/privacy/opt-out.html).
 
 Please note that your opt-out status may be maintained by placement of an “opt-out” cookie on your device.  If the cookie is removed or deleted, or you upgrade to a new version of your browser, change browsers or visit us from a different device, you will need to repeat this process to indicate your preference.
 
@@ -273,9 +284,9 @@ As noted above in the “using the information we collect” section of this not
 
 To learn more about interest-based advertising or to “opt-out” of interest based advertising programs from participating companies:
 
-• visit <http://www.networkadvertising.org/choices/>, or
+• visit <http://www.networkadvertising.org/choices/>, or
 
-• visit <http://www.aboutads.info/choices/>.
+• visit <http://www.aboutads.info/choices/>.
 
 These opt-outs limit the sharing of information from the devices and browsers for which the opt-out is in effect. To maximize your control over IBA and cross-device tracking, you may choose to exercise this opt-out choice using each browser on each device that you use to interact with us. Please note that the opt-outs you make on one or both of those websites only apply to the receipt of interest-based advertising from participating third-party companies.  You may still receive other types of online advertising from participating companies, and the websites you visit may still collect information for other purposes.
 
@@ -287,19 +298,19 @@ To exercise choice for mobile applications on mobile devices, you may download t
 
 ###  **our use of cookies and other technologies**
 
-**cookies** \- A cookie is a small data file stored by your web browser on your computer or device. When you arrive at our website, cookies allow us or our third-party service providers to recognize you by an identification number in the cookie. We and our service providers use "cookies" to collect and analyze information about your browsing and buying activity on our site, whether through the Internet or mobile applications. You may use the privacy settings on your web browser to disable cookies. If so, you can still browse our websites, but you may not have as exceptional a shopping experience as one that is specifically tailored to your needs. However, if you block cookies you will not be able to make a purchase on our websites.
+**cookies  **\- A cookie is a small data file stored by your web browser on your computer or device. When you arrive at our website, cookies allow us or our third-party service providers to recognize you by an identification number in the cookie. We and our service providers use "cookies" to collect and analyze information about your browsing and buying activity on our site, whether through the Internet or mobile applications. You may use the privacy settings on your web browser to disable cookies. If so, you can still browse our websites, but you may not have as exceptional a shopping experience as one that is specifically tailored to your needs. However, if you block cookies you will not be able to make a purchase on our websites.
 
 **web beacons** \- A “web beacon” (also called a pixel tag or a clear gif) is a tiny graphic image placed on website pages and in emails, advertising, and other marketing communications that allows us and our third-party service providers to determine whether you have performed specific actions. When you access those pages or open email messages, or click on advertising, the web beacons generate a notice of that action to us, or our service providers.  That information is used to analyze what our visitors like to do on our site or mobile applications, and the effectiveness of our features and advertising, as well as interactions with our e-mail and advertising.
 
 **wireless beacons** \- A wireless beacon is a small device that we may use as part of our in-store experience. Wireless beacons broadcast a signal that can be received by compatible devices, such as a mobile phone or tablet, when those devices are within the proximity of the beacon. When you choose to download the JCPenney mobile application, we and our service providers may use wireless beacons in conjunction with the JCPenney mobile application to personalize and enhance your in-store shopping experience and to understand your interests so that we can provide relevant notifications, offers, and promotions.
 
-**flash cookies** – A flash cookie (also known as a Local Shared Object) is a persistent data file stored on your computer by the websites you visit using Adobe Flash technology. We or our service providers may use Flash cookies to enable or control Flash-based content and for other uses similar to those provided by the cookies discussed earlier in this section. You can manage the use of Flash cookies via the Settings Manager on Adobe’s website at <https://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html>
+**flash cookies** – A flash cookie (also known as a Local Shared Object) is a persistent data file stored on your computer by the websites you visit using Adobe Flash technology. We or our service providers may use Flash cookies to enable or control Flash-based content and for other uses similar to those provided by the cookies discussed earlier in this section. You can manage the use of Flash cookies via the Settings Manager on Adobe’s website at <https://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html>
 
-  **analytics services** \- JCPenney uses third party analytics companies to collect and analyze information about how people use our websites and mobile applications, including information about browsing and buying activities. They may collect and use information from first- and third-party cookies. In addition, analytics companies also provide services that analyze information regarding visits to certain portions of jcpenney.com that are operated for JCPenney by third parties. They use cookies and web beacons to collect this information.
+  **analytics services  **\- JCPenney uses third party analytics companies to collect and analyze information about how people use our websites and mobile applications, including information about browsing and buying activities. They may collect and use information from first- and third-party cookies. In addition, analytics companies also provide services that analyze information regarding visits to certain portions of jcpenney.com that are operated for JCPenney by third parties. They use cookies and web beacons to collect this information.
 
 **technology used to serve advertising** \- We use third-party advertising companies to serve ads (e.g. banners or links) tailored to your individual interests based on how you browse and shop on jcpenney.com and other sites over time, and to perform tracking and reporting functions with respect to our ads. We also allow third-party companies to collect certain information when you visit our site and to use that information to serve ads for JCPenney products or services, or the products or services of other companies when you visit our site or other sites. For instance, we and third-party vendors, such as Google and Facebook use first- and third-party cookies, web beacons (a.k.a. pixel tags) and other technologies to collect or receive information from websites to inform, optimize and serve ads based upon a user’s past visits to our website and to report upon how our ad impressions and other ad services are related to jcpenney.com.  We may combine and associate the information we collect through these technologies with other information we have collected from and about you. This collective information may be used, among other things, for interest-based and location-based advertising to personalize your online experience, improve our website, evaluate the effectiveness of our advertising, and to tailor our marketing to you.
 
-  **do not track** \- At this time, we do not respond to browser “do not track” signals, but we do provide you the option to opt-out of interest-based advertising here, as well as the other choices described in the “your choices about how we use information” section of this policy.
+  **do not track**  \- At this time, we do not respond to browser “do not track” signals, but we do provide you the option to opt-out of interest-based advertising here, as well as the other choices described in the “your choices about how we use information” section of this policy.
 
 ###  **links to other sites and social media widgets**
 
@@ -315,60 +326,48 @@ We do not knowingly collect personally identifiable information from children un
 
 Under California law, a California resident with whom JCPenney has an established relationship has the right to request certain information with respect to the types of personal information JCPenney has shared with third parties for their direct marketing purposes, and the identities of those third parties, within the immediately preceding calendar year, subject to certain exceptions. All requests for such information must be in writing and sent to:  J. C. Penney Corporation, Inc., P.O. Box 10001, Dallas, TX 75301.  Attention: Corporate Customer Care.
 
-This same California law permits JCPenney to provide you, in response to your written request, with a cost-free means to choose not to have your information shared rather than providing the above described information. You may exercise that choice by any of the means described under “opt-out of sharing with other companies for their marketing purposes”.
+This same California law permits JCPenney to provide you, in response to your written request, with a cost-free means to choose not to have your information shared rather than providing the above described information. You may exercise that choice by any of the means described under “opt-out of sharing with other companies for their marketing purposes.
 
-###  **international customer privacy**
+###  **responsible disclosure program**
 
-JCPenney has contracted with Borderfree, Inc. (“Borderfree”) to facilitate the sale and fulfillment of online purchases that our customers choose to ship internationally (an “international order”).
+Security is a top priority for JCPenney and we welcome all skilled security researchers to help us identify any weakness in our environment. To encourage the responsible reporting of potential security vulnerabilities, the JCPenney security team has committed to working with the security research community to verify, reproduce, and respond to legitimate reported vulnerabilities.
 
-When you place an international order, you will submit personal information (e.g. your name, email address, billing address, and shipping address) and other order-related information to JCPenney through and to servers located in the United States.  If you also choose to create a jcpenney.com account, any personal information you provide will also be transferred to JCPenney through and to servers located in the United States.  Please note that United States law may not provide a level of data protection equivalent to the laws in your home country.  This privacy policy applies to any personal information you furnish JCPenney in connection with international orders, your jcpenney.com account or otherwise.
+If you are uncertain about any aspects of this program or would like clarification, please contact JCPenney at [IT-security@jcp.com](mailto:IT-security@jcp.com) before engaging in any conduct that may be inconsistent with or unaddressed by this program.
 
-JCPenney will then share your international order information, including personal information about you, with Borderfree for the purpose of facilitating ordering and shipping internationally.  Borderfree will process personal information about you in accordance with its [privacy policy](http://shop.borderfree.com/privacy-policy).  Borderfree has agreed not to sell, transfer, or otherwise use your information other than for processing international orders and shipments.
+_**Responsible Disclosure Guidelines**_
 
-By placing an international order, you acknowledge and agree that JCPenney will transfer personal information about you to Borderfree, and acknowledge that your financial transaction and shipment will be processed by Borderfree.  During the checkout process, you will be presented with Borderfree’s terms and conditions and privacy policy.  You must agree to them to receive the product(s) you ordered.
+If you believe you've identified a potential security vulnerability, please report it to us right away. We will investigate all reports and address appropriately.
 
-Once your order is approved, JCPenney will ship it to Borderfree.  Simultaneously, Borderfree will purchase the product(s) you ordered from us, which allows them to take title to the product(s), bill your credit card, collect and remit any duties and taxes to the appropriate taxing authorities and arrange for the product(s) to be delivered to you.  In this process, Borderfree makes the sale to you as the merchant of record.
+To encourage responsible reporting, we will not initiate legal action against you nor ask law enforcement to investigate you providing you comply with this policy, including:
 
-Customers shipping internationally should email us at [privacy@jcpenneyeservices.com](mailto:privacy@jcpenneyeservices.com) if they wish to:
+   o Notifying JCPenney and provide all details of the vulnerability to support validation and reproduction of the issue.
 
-• inquire about or update their personal information,
+   o Making a good faith effort to avoid privacy violations, destruction of data, and interruption or degradation of our services.
 
-• make a complaint about the collection or use of their personal information, or
+   o Not engaging in automated scanning.
 
-• comment on or ask questions regarding JCPenney’s privacy policy,
+   o Providing JCPenney a reasonable time to correct the issue before making any information public.
 
-###  **changes to this policy**
+_**Targets**_
 
-This policy was last updated on August 1, 2017.and included the following changes:
+  • *.jcpenney.com, *.jcp.com
 
-• Added the “opts-out for interest-based advertising (IBA)” heading to the Table of Contents and added a hyperlink to that section.
+  • Any JCPenney owned websites or mobile App
 
-• Revised the “information we collect” section to include social media information as an example and to generalize the reference to location information.
+Certain JCPenney branded products and services are hosted on domains that may be operated by our vendors or partners. You are not authorized under this program to test or conduct any actions on such domains.
 
-• Revised the “when we collect your information” section to include advertisements as an example.
+_**Submittal Information**_
 
-• Revised the “information from your computer/mobile device” section to better describe the purposes of device information collection, add types of information that may be collected from devices, and add language about precise location information methodologies.
+If you identify any potential security issue, please send an email to [IT-security@jcp.com](mailto:IT-security@jcp.com) with the following:
 
-• Revised the “using the information we collect” section to provide additional explanation about our use of information for cross-channel and cross device personalization.
+  • A clear description of the issue, including the impact you believe it has to the user, JCPenney, and others.
 
-• Revised the “information we share with others” section to more clearly describe purposes of information sharing with third-parties.
+  • Specific reproduction steps including the environment used for testing (browsers, devices, tools, configuration) and any accounts used during testing.
 
-• Updated the “safeguarding the information we collect” section to remove references to any specific technology.
+  • Your recommendations to resolve the issue.
 
-• Added hyperlinks to the “opt-outs for certain third-party services” section and removed the opt-out for IBM Digital Analytics.
+Thank you for your support in helping us safeguard the information of our users.
 
-• Revised and renamed the “opt-outs for interest-based advertising (IBA) section to include the mobile application opt-out information and link and to separate it from the opt-out for websites. Also included additional explanation of the website IBA opt-out.
+_**Legal**_
 
-• Added hyperlink to the “flash cookies” section.
-
-• Updated the “technology used to serve advertising” section to include references to specific third-parties and explain uses of these technologies.
-
-• Added a “do not track” section with the “do not track” language previously included in the “technology used to serve advertising” section.
-
-We may change our privacy policy from time to time.  If we change our privacy policy in the future, we will let you know by posting the updated policy at this website. We encourage you to check our policy periodically. You can tell if it has changed by checking the revision date that appears at the beginning of the policy. If you would like further information, or have any questions about our privacy policy, please:
-
-•         email us at [privacy@jcpenneyeservices.com](mailto:privacy@jcpenneyeservices.com),
-
-•         call us at 1.800.322.1189, or
-
-•         write to us at J. C. Penney Corporation, Inc., P.O. Box 10001, Dallas, TX. 75301-7311, Attention: Corporate Customer Care.
+JCPenney reserves the right to modify terms and conditions of this program and your participation constitutes acceptance of all terms. Any actions you take must not violate any law, or disrupt or compromise any data that is not your own.
