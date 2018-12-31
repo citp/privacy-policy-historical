@@ -1,155 +1,140 @@
-> *The following text is extracted and transformed from the dyndns-ip.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123032143id_/http%3A//dyn.com/legal/dyn-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dyndns-ip.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231194008id_/https%3A//dyn.com/legal/dyn-privacy-policy) for the most accurate reproduction.*
 
-# Dyn Privacy Policy - Dyn
+# Oracle's Privacy Policy
 
-Last updated: July 2, 2012
+_Dyn has been[acquired](https://www.oracle.com/corporate/acquisitions/dyn/index.html) by Oracle and will soon transition to the Oracle Privacy Policy. Click here to view the Oracle Privacy Policy. Please note that the provisions of Oracle’s Privacy Policy for Dyn Services below will remain active until the policy transition is complete_
 
-## Our Approach to Privacy in Plain English
+Last Modified: February 15, 2018
 
-[](https://privacy.truste.com/privacy-seal/Dynamic-Network-Services,-Inc-/validation?rid=ad7dc3ec-a019-47d7-a01c-7e204b9da7ea "Validate TRUSTe privacy certification")
+**ORACLE’S PRIVACY POLICY FOR DYN SERVICES (“Privacy Policy”)**
 
-Before we let our lawyer get into the weeds on how we keep your information private, let’s get something straight. We believe in the golden rule when it comes to privacy – we wouldn’t do anything to you that we would get annoyed about if it were done to any of us (and some of us are pretty paranoid). If you have a question about what personal information we collect or how we protect it, read on or feel free to shoot us an email at [privacy@dyn.com](mailto:privacy@dyndns.com). We respect your privacy and want to answer any questions you have.
+Oracle America, Inc. (“Oracle,” “Us,” or “We”) recognizes that privacy is important, and we want to be clear with you about our privacy practices. This Privacy Policy describes how Oracle collects, uses and shares information collected from you through your use of Oracle’s websites for Dyn Services (like www.dyn.com and other websites that reference this Privacy Policy, collectively referred to as the “Sites”) and the services offered through the Sites (the “Services”). If you are curious about Oracle’s privacy practices for Oracle’s Internet Performance Tools (like Oracle’s RUM Beacons and Recursive DNS services), please visit: [http://dyn.com/legal/ipm-tools-privacy-policy/](http://dyn.com/legal/ipm-tools-privacy-policy/).
 
-This Privacy Policy covers our collection, use and disclosure of information we collect through dyn.com, all other web sites to which this policy is linked, and our DynECT services . The use of information collected through our services shall be limited to the purpose of providing the services for which the Client has engaged Dynamic Network Services, Inc. (“Dyn”).
+**HOW ORACLE COLLECTS INFORMATION AND THE TYPES OF INFORMATION COLLECTED**
 
-**Our Approach to Privacy in (What Our Lawyer Calls) Plain English**
+Any time you use Oracle’s Sites or Services, information is generated. Some of this information is considered “Personal Information,” meaning information that either directly identifies you individually (like your name, address, email, or billing information) or could reasonably be used to identify you in combination with other data. Other information is considered “Anonymous Information,” meaning information that does not directly identify, and cannot reasonably be linked with other data to identify you individually.
 
-**I. Introduction**
+Oracle collects information from you in the following ways:
 
-Dyn has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe’s [Program Requirements](http://www.truste.com/privacy-program-requirements/program_requirements_website_privacy.html) and the [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/trusted-cloud/index.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
+A. YOU GIVE IT TO US
 
-**II. Contact Information**
+When you visit or use our Sites or use our Services, you may provide us with information. For example, when downloading an Oracle whitepaper or setting up a new DynID account, we will prompt you to provide us with your name, physical address, email address and phone number.
 
-If you have questions or concerns regarding this statement, you should first contact our legal department at [privacy@dyn.com](mailto:privacy@dyndns.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns.
+B. WE RECEIVE IT FROM THIRD PARTIES
 
-**III. EU Safe Harbor Framework**
+Oracle engages with third party vendors to try to determine new customers who might be interested in Oracle’s Dyn Services. In such instances third parties may give Oracle your name and contact information.
 
-Dyn complies with the U.S. – E.U. Safe Harbor Framework and the U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union and Switzerland respectively. Information regarding the both the E.U. and Swiss Safe Harbor Frameworks can be found at:  http://export.gov/safeharbor.
+C.  WE AUTOMATICALLY COLLECT IT FROM YOU
 
-**IV. Information Related to Data Collected Through our Service**
+While visiting our Sites or using our Services, we may automatically collect information from you through the use of cookies, web server logs, and other mechanisms.  For example, when you visit a Site, we automatically collect device identifiers (e.g., device model, operating system, browser version, and other data that may be used to identify a device), IP addresses, device configurations, browser history, information about Site usage, and geographic location data.
 
-**A. Service Provider Collection and Use**
+NOTE ON CROSS BORDER TRANSFERS: Oracle has established a global network presence and may process information on our servers in many countries around the world, including the United States. You agree that we may process information on a server located outside the country where you reside.
 
-Our Clients provide us with the following kinds of personal information:
+NOTE ON CHILDREN’S PERSONAL INFORMATION: Oracle does not knowingly collect any personal information (as defined under the Children’s Online Privacy Protection Act) from children under the age of 13. If we learn that we have collected or received personal from a child under 13 without verification of parental consent, we will delete that information. If you believe that we might have such information, please contact us at the contact information provided below.
 
-  * Name(s)
-  * Email Address(es)
-  * Mailing Address(es)
-  * Phone Number(s)
-  * Billing Information (e.g., credit card information, billing address, etc.)
+NOTE ON COOKIES AND SIMILAR TECHNOLOGY
 
+Oracle uses cookies and web beacons to automatically collect information in connection with your use of the Sites and Services.
 
+“Cookies” are small files that are placed on an individual’s computer when you interact with the Sites or Services.  Cookies are often used to enable you to more easily communicate and interact with the Sites and Services. “Web beacons” (also known as “single-pixel” or “clear” GIFs) include electronic images embedded in the Site or in communications sent through the Services which are invisible to users. Web beacons collect information, such as identifiers, time and date of access, and descriptions of the pages or communications in which the web beacons are embedded.
 
-We use this information:
+We may use cookies or web beacons on the Sites or in communications sent through the Services for various purposes, including for example:
 
-  * in connection with the provision of our services, and
-  * to administer Client accounts, billing and reconciling Client accounts, operational maintenance and support activities.
+  * Saving user preferences;
+  * Customizing content of the Site for individual users;
+  * Ensuring that users are not repeatedly sent the same banner ads;
+  * Recording session information;
+  * Fraud prevention;
+  * Saving certain information about users of the Sites and others who visit the Sites;
+  * Keeping track of whether you’ve had a chance to open an email or view an advertisement; and
+  * Otherwise facilitating and enhancing interaction with the Sites.
 
 
 
-Dyn collects information under the direction of its Clients, and has no direct relationship with the individuals whose personal data it processes.
+Oracle may contract with third party service providers who also may also use cookies or web beacons in connection with the Sites or communications regarding the Services. For example, Oracle uses Google Analytics to get aggregated information on our Site’s performance (you can learn more about how Google uses data when you use our Sites by visiting www.google.com/policies/privacy/partners/). Similarly, we may use an outside advertisement serving company to display advertisements on the Site or in communications sent through the Services. The advertisement serving company may place and collect cookies or web beacons when it displays an advertisement on the Site or through the Services. The information these third parties collect may be associated with other information about you, or they may collect information about your online activities over time and across different websites and other online services. We do not control these third parties’ tracking technologies or how they may be used.
 
-**B. Choice**
+**HOW ORACLE USES AND SHARES INFORMATION**
 
-Our Clients provide us with the aforementioned information in connection with their use of our services. If you are a customer of one of our Clients and would no longer like to be contacted by one of our Clients that use our service, please contact the client that you interact with directly.
+Oracle uses your information for a variety of purposes related to provisioning, maintaining and improving the Sites and Services, as well as for developing new services. For example, Oracle uses your information to administer your account, provide technical support and to communicate with you about your account. Oracle also uses your information to send you new and exciting information about Oracle.  
+Other than as described above, Oracle does not use your Personal Information, nor does it share your personal information with companies, organizations or individuals outside of Oracle, unless one of the following circumstances apply:
 
-**C. Access to Data Controlled by our Clients**
+  * Oracle has your express consent;
+  * It is for Oracle’s internal use, research and product development;
+  * It is for domain registration in accordance with the RAA and ICANN policies. (Please see Domain Registration section below for more information regarding our treatment of Personal Information in connection with our domain name registration services.)
+  * It is for external processing by our affiliates or other trusted third parties we use to support our business based on our instructions or other appropriate confidentiality and security measures (for example, companies that help Oracle improve its web site’s usability or understand customer interests); or
+  * It is to detect, prevent or otherwise address fraud, security or other legal related issues.
 
-Dyn has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to the Dyn’s Client (the data controller). If the Client requests Dyn to remove the data, we will respond to their request within 30 business days.
 
-**V. Types of Personally Identifiable Information That We Collect on our Web Site**
 
-**A. Dyn.com Account Creation**
+Note that Oracle may share Anonymous Information with third parties. Oracle may also share Personal Information with companies, organizations or individuals outside of Oracle if we have a good-faith belief that access, use, preservation, or disclosure of the information is reasonably necessary to:
 
-When you create an account on Dyn.com, we will ask you to create a user name and password and to provide us with your email address. In addition, while it is not required, you may provide us with further information, such as your name and address, to complete your profile on Dyn.com.
+  * meet any applicable law, regulation, legal process or enforceable governmental request;
+  * enforce applicable agreements or adherence to terms and conditions, including investigation of potential violations; and
+  * protect against harm to the rights, property or safety of Oracle, our users, third parties or the public as required or permitted by law.
 
-**B. Dyn.com Service Purchases**
 
-When you purchase services on Dyn.com, we will ask you to provide personally identifiable information (“PII”), including your name, address, phone number and financial information (e.g. your credit card number and expiration date).
 
-**C. Third party information.**
+If Oracle is involved in a merger, acquisition or asset sale, we will continue to ensure the confidentiality of any Personal Information and give affected users notice before Personal Information is transferred or becomes subject to a different privacy policy.
 
-Dyn customers who sign up for certain services must supply contact information. You can enter third party information such as name, email address and company in the “Create a Contact” section of your account on the site. These records are used as official contacts for services such as registering a domain name.
+Oracle does not sell or license your Personal Information to a third party for that third party’s own direct marketing purposes.
 
-**VI. Protecting Your Privacy**
+**YOUR PRIVACY CHOICES**
 
-It is the policy of Dyn to protect and respect your privacy and PII. Therefore, Dyn will not monitor, edit, or disclose the contents of your private communications to third parties for promotional or marketing purposes unless required to do so by law, judicial proceeding, court order, subpoena or legal process or in the good faith belief that such action is necessary to: (i) conform to the edicts of the law or comply with legal processes served on Dyn; (ii) identify, contact or bring legal action to defend and protect the rights or property of Dyn, its customer or end users, or anyone else; (iii) act under exigent circumstances to protect the personal safety of its end users, customers, or the public; (iv) administer its networks or systems to maintain performance for its end users or customers; or (v) provide authenticated domain owners (registrant, administrative, or technical contacts) with contact information for the account which controls DNS for their domain. Additionally, Dyn will not to apply this policy in any manner that is contrary to applicable law or governmental regulation.
+TRACKING TECHNOLOGIES. Most browsers will allow you to erase cookies from your computer hard drive, block acceptance of cookies, or receive a warning before a cookie is stored. You may also be able to refuse certain web beacons by adjusting the settings on your browser or email software. Please refer to your browser or email software instructions or help screen to learn more about these functions.  Note that if you disable or refuse cookies, some parts of the Sites may be inaccessible or not function properly.
 
-**VII. Newsletter, Technical Notices and Other Communication**
+ACCESSING AND CORRECTING YOUR INFORMATION.Should you wish to access, amend, correct, or delete any Personal Information about you, please contact privacy_ww@oracle.com. Oracle will use commercially reasonable efforts to respond to such requests within thirty days, except where the burden or expense of providing access or requested changes would be disproportionate to the risks to your privacy in the case in question. Please note that your ability to use, and Oracle’s ability to provide, the Services may depend upon the use of your Personal Information. As such, you agree that Oracle will not be liable for any inability to provide all or a portion of the Services that may result from Oracle’s compliance with any request to amend, correct or delete any of your Personal Information.
 
-**A. You may receive the following types of communications from Dyn**
+UNSUBSCRIBING FROM COMMUNICATIONS. **** If you no longer wish to receive Newsletters, Support Related Emails or other promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter, by going to [https://account.dyn.com/profile/mailinglist.html](https://account.dyn.com/profile/mailinglist.html) or emailing privacy_ww@oracle.com. In order to ensure the integrity, security and operation of our systems and networks, we do not allow you to unsubscribe from Service Notices.
 
-1\. Newsletters. Dyn allows you to opt-in to receive Newsletters, sent periodically, which provide information on updates existing services, new services, and what is going on in at Dyn and with Dyn.com. If you wish to subscribe to our newsletter, we will use the email address you have on file with Dyn to send the newsletter to you. If you do not get the Newsletter, you may opt-in by selecting the appropriate setting on your account settings page at Dyn.com.
+**APPLICABILITY**
 
-2\. Support Related Emails. Dyn allows you opt-out of receiving, on an as-needed basis, emails regarding the provisioning, trouble shooting and enhancement of services that you purchase on Dyn.com.
+This Privacy Policy applies to Sites and Services that make specific reference to or contain a link to this Policy. It does not apply to Oracle sites, services and products that do not display or link to this statement or that have their own privacy statements. If you are interested in Oracle’s privacy practices in connection with some of its specific internet monitoring tools please see [http://dyn.com/legal/ipm-tools-privacy-policy/](http://dyn.com/legal/ipm-tools-privacy-policy/).
 
-3\. Service Notices. Dyn requires that you allow it to use the email address you have on file with Dyn to receive, on an as-needed basis, technical and service notices on topics such as changes to service specifications and account and/or service expiration information.
+**EU US PRIVACY SHIELD**
 
-**B. How to Unsubscribe**
+DYN has been acquired by Oracle. Oracle is a global corporation with operations in over 80 countries and has developed global data security practices designed to ensure that your personal information is appropriately protected. Please note that personal information may be transferred, accessed and stored globally as necessary in accordance with this Statement. 
 
-If you no longer wish to receive Newsletters, Support Related Emails or other promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter, by going to <https://account.dyn.com/profile/mailinglist.html> or emailing [privacy@dyn.com](mailto:privacy@dyndns.com). In order to ensure the integrity, security and operation of our systems and networks, we do not allow you to unsubscribe from Service Notices.
+Oracle complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention when a customer and Oracle have agreed by contract that transfers of personal information from the European Economic Area (“EEA”) or Switzerland will be transferred and processed pursuant to the Privacy Shield for the relevant services. When conducting those activities on behalf of its EEA or Swiss customers, Oracle holds and/or processes personal information provided by the EEA or Swiss customer at the direction of the customer. Oracle will then be responsible for ensuring that third parties acting as an agent on our behalf do the same. 
 
-**VIII. Third Parties**
+Oracle has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this Statement and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit https://www.privacyshield.gov/list. 
 
-**A. Service Providers**
+The following entities are covered entities under Oracle’s Privacy Shield self-certification: Delphi Asset Management Corporation; MICROS Fidelio Worldwide LLC; Oracle America, Inc.; Oracle Financial Services Software America, Inc.; Oracle Financial Services Software, Inc.; Oracle International Corporation; Oracle Taiwan LLC; Bronto Software, LLC; Monexa, LLC, NetSuite, Inc.; OrderMotion, Inc.; Dynamic Network Services, Inc. With respect to personal information received or transferred pursuant to the Privacy Shield Framework, Oracle is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission and commits to cooperate with EU data protection authorities. 
 
-1\. Domain Names. When you purchase a domain registration service, Dyn will, as such required by ICANN policy and/or Dyn contractual obligation, share with the applicable third party vendor, either a registry or a registrar, the name, address and phone number for every contact that you provide for the domain name at issue so that it may be included in the WHOIS database for the registry at issue. You may avoid the sharing and publishing of this information by purchasing the Secret Registration service.
+Dispute Resolution
 
-2\. Secure Socket Layer (“SSL”) Certificates. When you purchase a SSL certificate, Dyn will share with the applicable Certificate Authority, the organization name and location, as submitted to Dyn in the SSL certificate signing request.
+If you have any complaints regarding our compliance with this Statement, you should first contact us. We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of personal information in accordance with this Statement. 
 
-3\. Credit Card Processing. We use a third party credit card processor to handle financial transactions on the Site.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request. Under certain conditions, more fully described on the Privacy Shield website, you may invoke binding arbitration when other dispute resolution procedures have been exhausted. 
 
-**B. Business Partners**
+**DOMAIN REGISTRATION**
 
-Dyn transmits some non-personally identifiable information to its business partners for the purpose of improving its website (e.g, web analytics), its network and the Internet. However, Dyn will not give out personal identifiable information to advertisers, business partners, sponsors, or other third parties for promotional use.
+In order to provide domain registration services, Oracle is required to be an ICANN accredited registrar. As an ICANN accredited registrar, Oracle is required to share, process and maintain Personal Information of customers of its domain registration services in accordance with the ICANN Registrar Accreditation Agreement (as amended from time to time) (“RAA”) and policies related to the domain name registration services provided by Oracle. By using Oracle’s domain name registration services, you agree that Oracle may use, share, transfer, process and retain any Personal Information provided to Oracle in connection with such services in accordance with the version RAA by which Oracle is bound and any applicable ICANN policies. For more information regarding the RAA and ICANN policies, you contact Oracle or [www.icann.org](http://www.icann.org/). Please note that Oracle is currently bound by the terms and conditions of the 2013 RAA.
 
-**IX. Financial Data**
+**SECURITY**
 
-Any financial data collected from you shall be stored in encrypted form, and will be made available for future transactions immediately upon request, and stored only for as long as required by applicable financial regulations.
+Oracle has implemented policies that include administrative, technical, and physical safeguards designed to help protect Personal Information against unauthorized access, use, or disclosure. While Oracle strives to protect your privacy, due to many reasons, including the inherent security flaws in the internet, Oracle cannot guarantee the security of any information you disclose to us and, as such, you agree that your disclosure of such information is at your own risk.
 
-**X. Correcting, Updating and Removing Information**
+**INFORMATION PROCESSED BY ORACLE’S CLIENTS**
 
-You may contact Dyn at [privacy@dyn.com](mailto:privacy@dyndns.com) to correct, update, delete or remove personal information that you have given us. We will respond to your request to access within 30 days.
+Our clients may provide us with Personal Information belonging to their customers or other third parties in connection with their use of our services. Oracle does not control the content or nature of the information processed by our clients in connection with their use of our services. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate Personal Information processed by one of our clients should direct his/her request to the client (the data controller) directly.
 
-**XI. Cyber and Physical Security Measures**
+**PUBLIC FORUMS**
 
-Dyn encrypts financial information, as well as other sensitive information, sent to it using SSL technology. To protect information once it is in Dyn’s possession, the company takes industry standard security measures. Active systems that are network accessible are protected by firewalls. Backup systems that are not network accessible are protected by physical security measures and are stored in encrypted form. The company’s headquarters and data center facilities are all protected by industry standard (or better) physical security measures.
+Oracle may make chat rooms, forums, message boards, and/or news groups available to its users. Please note that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
-**XII. Cookies**
+**CHANGES TO PRIVACY POLICY**
 
-**A. Definition and use on Dyn.com**
+We reserve the right to modify this Privacy Policy from time to time. We will post any changes to this Privacy Policy on this page and, if the changes are significant, we will provide a more prominent notice, which may include sending notice to you by email or posting notice of such changes on Oracle’s public status page for Dyn Services (www.dynstatus.com) or Oracle’s home page for Dyn Services (www.dyn.com).
 
-A cookie is a small text file that is stored on your computer for record-keeping purposes. Dyn uses two types of cookies on Dyn.com.
+**CONTACT INFORMATION**
 
-**B. Session Cookies**
+If you have any questions regarding this Privacy Policy, Oracle may be contacted at:
 
-Dyn uses Session Cookies, which do not contain PII, to enable you to use Dyn.com without entering login credentials on each page.
+By email:  
+privacy_ww@oracle.com
 
-**C. Persistent Cookies**
-
-Dyn uses Persistent Cookies, which are connected to your Dyn.com account, which may contain PII, for the purpose of web analytics.
-
-**XIII. Data Retention**
-
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [privacy@dyndns.com](mailto:privacy@dyndns.com).  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
-
-**XIV. No Guarantee of Privacy**
-
-While Dyn strives to protect your PII and privacy, due to many reasons, including the inherent security flaws in the Internet, Dyn cannot guarantee the security of any information you disclose online and, as such, your disclosure of such information at your own risk. Additionally, Dyn’s policies do not extend to anything that is inherent in the operation of the Internet, and therefore beyond Dyn’s control.
-
-**XV. Changes to this Privacy Policy**
-
-Dyn reserves the right to modify this policy at any time, so please review it frequently. If we determine that a material change to this policy is necessary, we will notify you of the change by email or by means of a notice on our home page. Additionally, if changes are made, Dyn will post them to on this web page and to other places we deem appropriate.
-
-**XVI. Dyn Physical Address**
-
-If you want to send Dyn anything by postal mail, including fan letters, please reach us at:
-
-Dynamic Network Services, Inc.  
-150 Dow Street, Tower Two  
-Manchester, NH 03104 USA  
-[privacy@dyn.com](mailto:privacy@dyndns.com)
-
-**XVII. Effective Date**
-
-THE EFFECTIVE DATE OF THIS PRIVACY POLICY IS THE DATE FIRST SET FORTH ABOVE.
+By mail:  
+Oracle America, Inc.  
+500 Oracle Parkway  
+Redwood Shores, CA 94065  
+Attn: General Counsel, Legal Department
