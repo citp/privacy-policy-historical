@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the dailymail.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627234931id_/http%3A//www.dailymail.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailymail.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231024837id_/https%3A//www.dailymail.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy and Cookies | Daily Mail Online
 
-Privacy & Cookies Policy (the “Policy”) 
+## ASSOCIATED NEWSPAPERS LIMITED
+
+Privacy & Cookies Policy (the 'Policy') 
 
 You can control online behavioural advertising cookies on this website via your Privacy Settings. Further details on this can be found under "Managing Cookies" in Section 10 below. 
 
@@ -14,15 +16,15 @@ By using our products and services, including browsing our websites, registering
 
 Who we are
 
-[dmg media](https://www.dmgmedia.co.uk/) is an international multichannel media company which is home to some of the UK’s most popular brands, including the [](https://www.dmgmedia.co.uk/brands/daily-mail/)[Daily Mail](https://www.dmgmedia.co.uk/brands/daily-mail/), [The Mail on Sunday](https://www.dmgmedia.co.uk/brands/the-mail-on-sunday/), [MailOnline](https://web.archive.org/home/index.html), [Metro](https://metro.co.uk/), [This Is Money](https://web.archive.org/money/index.html), [You Magazine](https://www.you.co.uk/), [MyMail](https://www.mymail.co.uk/home), [MailPlus](https://www.dailymailplus.co.uk/), [MailShop](https://www.mailshop.co.uk/), [MailTravel](https://www.mailtravel.co.uk/) and [MailFinance](https://www.mailfinance.co.uk/).
+[dmg media](https://www.dmgmedia.co.uk/) is an international multichannel media company which is home to some of the UK's most popular brands, including the [](https://www.dmgmedia.co.uk/brands/daily-mail/)[Daily Mail](https://www.dmgmedia.co.uk/brands/daily-mail/), [The Mail on Sunday](https://www.dmgmedia.co.uk/brands/the-mail-on-sunday/), [MailOnline](https://web.archive.org/home/index.html), [Metro](https://metro.co.uk/), [This Is Money](https://web.archive.org/money/index.html), [You Magazine](https://www.you.co.uk/), [MyMail](https://www.mymail.co.uk/home), [MailPlus](https://www.dailymailplus.co.uk/), [MailShop](https://www.mailshop.co.uk/), [MailTravel](https://www.mailtravel.co.uk/) and [MailFinance](https://www.mailfinance.co.uk/).
 
 These brands are all trading styles of Associated Newspapers Ltd., which is the controller of your personal data for the purposes of data protection law.
 
-If you are a [MyMail](https://www.mymail.co.uk/home) member and have linked your account with your [Nectar](https://www.nectar.com/) Account, Associated Newspapers Ltd. and Nectar Loyalty Ltd. (“Nectar”) will each be data controllers of your personal data. Associated Newspapers Ltd will handle your personal data in accordance with this Policy and [Nectar](https://www.nectar.com/) will handle your data in accordance with Nectar’s [Privacy Policy](https://www.nectar.com/about/privacy-and-legal/privacy-policy) and [Cookie Policy](https://www.nectar.com/about/privacy-and-legal/cookie-policy). 
+If you are a [MyMail](https://www.mymail.co.uk/home) member and have linked your account with your [Nectar](https://www.nectar.com/) Account, Associated Newspapers Ltd. and Nectar Loyalty Ltd. ('Nectar') will each be data controllers of your personal data. Associated Newspapers Ltd will handle your personal data in accordance with this Policy and [Nectar](https://www.nectar.com/) will handle your data in accordance with Nectar's [Privacy Policy](https://www.nectar.com/about/privacy-and-legal/privacy-policy) and [Cookie Policy](https://www.nectar.com/about/privacy-and-legal/cookie-policy). 
 
 ## 1\. What kinds of information do we collect:
 
-  * Information you’ve provided to us:
+  * Information you've provided to us:
 
 
 
@@ -42,11 +44,11 @@ This may include:
 
 (iii) Unique identifiers: device IDs in order to save your preferences against an identifier to refer to on subsequent pages.
 
-(iv) Device Settings: Information from your device’s setting such as access to your GPS location/Information related to the location of your device so that we know which version of the website to serve you;
+(iv) Device Settings: Information from your device's setting such as access to your GPS location/Information related to the location of your device so that we know which version of the website to serve you;
 
 (v) Network/connections: Your IP address, so that we can recognise if you have visited us before and allow your device to communicate with our websites and apps.
 
-(vi) Cookies: Data from cookies or similar technologies placed on your device which tells us about your use of our websites and/or selected third party websites. Please see Section 10 “Cookies” below for more information about our use of cookies and other similar technologies.
+(vi) Cookies: Data from cookies or similar technologies placed on your device which tells us about your use of our websites and/or selected third party websites. Please see Section 10 'Cookies' below for more information about our use of cookies and other similar technologies.
 
   * Information about transactions made
 
@@ -58,7 +60,7 @@ If you purchase anything or make any other financial transactions on any of our 
 
 
 
-Where you have registered or created an account with one of our websites, we may obtain information about you from other companies who have obtained your permission (through their own privacy policies) to share information about you. For more information about this, please see “Personalisation/Identifying Your Interests” in Section 2 below. We also obtain information about you via cookies placed on your device when you visit third party websites, but only where you have given these partners appropriate permission. 
+Where you have registered or created an account with one of our websites, we may obtain information about you from other companies who have obtained your permission (through their own privacy policies) to share information about you. For more information about this, please see 'Personalisation/Identifying Your Interests' in Section 2 below. We also obtain information about you via cookies placed on your device when you visit third party websites, but only where you have given these partners appropriate permission. 
 
   * Social media:
 
@@ -72,9 +74,17 @@ If you log-in to our websites through a social media site, such as Facebook, you
 
 By supplying us with information about someone else, you confirm that they have authorised you to provide us with their information (including sensitive personal data) on their behalf.
 
-Before you use “email a friend” or “share this article” buttons please make sure that anyone you wish to email or share with are happy for this to occur and expect to receive the email or article. You may only share the details of another person with us where you have their express permission.
+Before you use 'email a friend' or 'share this article' buttons please make sure that anyone you wish to email or share with are happy for this to occur and expect to receive the email or article. You may only share the details of another person with us where you have their express permission.
 
 ## 2\. How we may use your information
+
+  *  Journalism
+
+
+
+ We use personal information for journalistic activities to support a free press and to support individual and societal rights to receive information. 
+
+ Legal basis for these processing activities: Legitimate Interest
 
   * Delivering services
 
@@ -124,7 +134,7 @@ We provide personalisation by using data you submit to us, cookies, IP addresses
 
 Legal basis for this processing activity: Consent
 
-We may also overlay demographic and lifestyle data from [CACI](https://www.caci.co.uk/privacy-policy) and [Acxiom](https://www.acxiom.co.uk/about-acxiom/privacy/uk-privacy-policy-2/) to help us understand what you might be interested in for insight and marketing purposes (also known as “profiling”). [CACI](https://www.caci.co.uk/privacy-policy) and [Acxiom](https://www.acxiom.co.uk/about-acxiom/privacy/uk-privacy-policy-2/) data are built using a variety of sources, including publically available data (such as the electoral register and UK Census records) or from surveys and polls where you have given permission for your data to be shared. For more information on these partners and how you can opt-out of having your data shared with us from these sources for profiling purposes, please see the section entitled “Marketing Personalisation” in Section 4 below.
+We may also overlay demographic and lifestyle data from [CACI](https://www.caci.co.uk/privacy-policy) and [Acxiom](https://www.acxiom.co.uk/about-acxiom/privacy/uk-privacy-policy-2/) to help us understand what you might be interested in for insight and marketing purposes (also known as 'profiling'). [CACI](https://www.caci.co.uk/privacy-policy) and [Acxiom](https://www.acxiom.co.uk/about-acxiom/privacy/uk-privacy-policy-2/) data are built using a variety of sources, including publically available data (such as the electoral register and UK Census records) or from surveys and polls where you have given permission for your data to be shared. For more information on these partners and how you can opt-out of having your data shared with us from these sources for profiling purposes, please see the section entitled 'Marketing Personalisation' in Section 4 below.
 
 Legal basis for this processing activity: Legitimate Interests
 
@@ -132,7 +142,7 @@ Legal basis for this processing activity: Legitimate Interests
 
 
 
-We use advertising to fund some of our websites and apps. Some advertising is “contextual” meaning it is shown due to the particular webpage you are presently viewing. Other advertising, known as “online behavioural advertising” is shown to you based upon your likely interests, which are inferred from your device’s browsing history. This information is collected through the use of cookies and similar technologies. For more information on controlling your tailored advertising preferences, please see Section 10 on Cookies below.
+We use advertising to fund some of our websites and apps. Some advertising is 'contextual' meaning it is shown due to the particular webpage you are presently viewing. Other advertising, known as 'online behavioural advertising' is shown to you based upon your likely interests, which are inferred from your device's browsing history. This information is collected through the use of cookies and similar technologies. For more information on controlling your tailored advertising preferences, please see Section 10 on Cookies below.
 
 Sometimes we allow advertisers to show advertisements directly on our website and apps, which are tailored to you based upon information they have obtained, such as your browsing history on their own websites.
 
@@ -154,9 +164,9 @@ Legal basis for this processing activity: Consent
 
 
 
-Where we provide services that utilise your device’s location, such as local weather or news, your location will be determined either from a lookup of your IP address in a “GeoIP” database which lists information provided by your ISP (usually your closest town or borough) or your precise location directly from the device (such as through GPS or Wifi on mobile devices) where you have granted permission for us to access this location information via your device settings. We use such information to provide you with a more tailored, relevant experiences when using our websites/apps.
+Where we provide services that utilise your device's location, such as local weather or news, your location will be determined either from a lookup of your IP address in a 'GeoIP' database which lists information provided by your ISP (usually your closest town or borough) or your precise location directly from the device (such as through GPS or Wifi on mobile devices) where you have granted permission for us to access this location information via your device settings. We use such information to provide you with a more tailored, relevant experiences when using our websites/apps.
 
-Where you have granted permission to access your device’s location and consented to us to use your data for advertising purposes, this location information may be used to tailor the advertising you receive, including showing you certain advertisements when you are in the vicinity of a particular location.
+Where you have granted permission to access your device's location and consented to us to use your data for advertising purposes, this location information may be used to tailor the advertising you receive, including showing you certain advertisements when you are in the vicinity of a particular location.
 
 Legal basis for this processing activity: Consent
 
@@ -192,7 +202,7 @@ Our websites may provide message boards, blogs and other user generated content 
 
 Legal basis for processing this data: Consent
 
-  * Regulatory compliance
+  * Regulatory compliance 
 
 
 
@@ -216,15 +226,15 @@ Legitimate Interests: We process some of your data because it is in our Legitima
 
 Vendors: When you purchase goods or services from us, we partner with specialist companies to fulfil your order and provide certain customer services. This includes vendors on [MailShop](https://www.mailshop.co.uk/) who you may have bought something from and specialist companies who assist us in obtaining ratings and reviews of product(s) and/or service(s). We usually remain the data controller of your information and the other companies only process data under our instructions and cannot use the information for their own purposes. If one of our third party partners acts as data controller of your personal data (whether or not as a data controller in common with us) we will let you know before you register for the service.
 
-Promotions: Sometimes we bring you promotions in association with other companies. If you enter such promotions, the other company will use the information you submit and we provide to them as a data controller in line with their own privacy policies. We’ll let you know the precise arrangement at the time you provide your personal information.
+Promotions: Sometimes we bring you promotions in association with other companies. If you enter such promotions, the other company will use the information you submit and we provide to them as a data controller in line with their own privacy policies. We'll let you know the precise arrangement at the time you provide your personal information.
 
 Affiliates: We regularly partner with industry affiliates to bring you special deals on products and packages you may find of interest. These include travel providers on [MailTravel](https://www.mailtravel.co.uk/) and financial service providers on [MailFinance](https://www.mailfinance.co.uk/) or [This Is Money](https://web.archive.org/money/index.html). These providers collect marketing permissions for us and share data back with us about your purchases in order for us to measure the effectiveness of our marketing campaigns.
 
 If you decide to book a holiday with an affiliate, use their advisory services or set up an account, or purchase a financial product, these affiliates will be data controllers of the information you have provided them in order to administer your relationship with them and will handle your information in accordance with their own privacy policies.
 
-Functionality: We may share information about you with suppliers that we engage to help us provide our services and/or functionality of our websites and apps. For example, we share data with Google to prevent certain website functions from being abused. Where this happens your data will be processed in accordance with Google’s [Privacy Policy](https://policies.google.com/privacy?hl=en).
+Functionality: We may share information about you with suppliers that we engage to help us provide our services and/or functionality of our websites and apps. For example, we share data with Google to prevent certain website functions from being abused. Where this happens your data will be processed in accordance with Google's [Privacy Policy](https://policies.google.com/privacy?hl=en).
 
-Advertisers: We may provide third party advertisers with reports containing aggregate statistical data about our customers’ use of our websites and apps to determine the kinds of people viewing their ads and how they are performing. This aggregated information may include demographic data such as age range and/or geographic location of groups of our customers.
+Advertisers: We may provide third party advertisers with reports containing aggregate statistical data about our customers' use of our websites and apps to determine the kinds of people viewing their ads and how they are performing. This aggregated information may include demographic data such as age range and/or geographic location of groups of our customers.
 
 This aggregated data does not include contact details (such as names, addresses or email addresses) that can be used to personally identify you or contact you.
 
@@ -232,7 +242,7 @@ OBA Partners: In order to arrange for our customers to be shown tailored adverti
 
 Marketing personalisation: We may match your data with data held by [CACI](http://www.caci.com/) and [Acxiom](https://www.acxiom.com/), to add extra lifestyle and demographic insight information to your account with us which we then use to make our marketing more relevant to you (subject to your communication preferences and our internal policies and procedures). We can only obtain this information where they have your permission to share this information with us in line with their privacy policies. You can opt-out of having your personal information profiled in this way by contacting us or adjusting your account settings. For more information on these partners and the data it provides, and to opt out of their programmes directly, please visit them at [CACI](https://www.caci.co.uk/privacy-policy) and [Acxiom](https://www.acxiom.co.uk/about-acxiom/privacy/uk-privacy-policy-2/).
 
-DMGT Group: Associated Newspapers Ltd. is part of the Daily Mail and General Trust plc Group (“DMGT”). Members of DMGT may, use and share, within that group, the information you provide and other information held about you for the purposes set out in this Policy. For more information about the DMGT group please see the [DMGT website](https://www.dmgt.com/) and the [DMGT Privacy Policy](https://www.dmgt.com/site-services/privacy-policy).
+DMGT Group: Associated Newspapers Ltd. is part of the Daily Mail and General Trust plc Group ('DMGT'). Members of DMGT may, use and share, within that group, the information you provide and other information held about you for the purposes set out in this Policy. For more information about the DMGT group please see the [DMGT website](https://www.dmgt.com/) and the [DMGT Privacy Policy](https://www.dmgt.com/site-services/privacy-policy).
 
 Change of Control: We may transfer, sell or assign any of the information described in this Policy to third parties as a result of a sale, merger, consolidation, change of control, transfer of assets or reorganisation of our business.
 
@@ -254,31 +264,31 @@ The [Daily Mail](https://www.dmgmedia.co.uk/brands/daily-mail/), [The Mail on Su
 
 · Rectification: If you wish to update or rectify your data, you can do this directly by accessing your account settings.
 
-· Revoke consent: If you wish to object to the processing of your data for direct marketing or online behavioural advertising purposes, you can opt-out by updating your settings or, for direct marketing, clicking on the “unsubscribe” link in any marketing email or newsletter you receive from us.
+· Revoke consent: If you wish to object to the processing of your data for direct marketing or online behavioural advertising purposes, you can opt-out by updating your settings or, for direct marketing, clicking on the 'unsubscribe' link in any marketing email or newsletter you receive from us.
 
 · Objection to automated profiling: If you wish to opt-out of having your personal information profiled for personalisation purposes you can adjusting your account settings or contact us directly.
 
 · Objection to legitimate interests: If you wish to object to our processing of your data where we are pursuing our legitimate interests or those of a third party please contacting us as at the contact details provided below stating the nature of and reasons for such objection.
 
-· Complain: You also have the right to lodge a complaint about us with our supervisory authority, the [Information Commissioner’s Office](https://ico.org.uk/).
+· Complain: You also have the right to lodge a complaint about us with our supervisory authority, the [Information Commissioner's Office](https://ico.org.uk/).
 
 If you are contacting us to exercise any of your rights under the GDPR, you will have to provide valid proof of identification. We are required to respond to your request within 1 month.
 
 ## 8\. Data retention and account deletion
 
-We store your data for no longer than necessary in relation to the purpose under which such data was collected. This is determined on a cases by case basis and depends on things such as the nature of the data provided, why it was collected, the legal basis we rely upon to process the data, and our relevant legal or operation retention requirements. For example, if you request to delete your account we still have to retain some data for fraud prevention purposes and financial auditing.
+We store your data for no longer than necessary in relation to the purpose under which such data was collected. This is determined on a cases by case basis and depends on things such as the nature of the data provided, why it was collected, the legal basis we rely upon to process the data, and our relevant legal or operation retention requirements. For example, if you request to delete your account we still have to retain some data for fraud prevention purposes and financial auditing. 
 
 ## 9\. Children & young people
 
-Our websites, apps and other products and services are not aimed at children. We do not target, intend to collect, or knowingly collect or otherwise process information from anyone under the age of 13.
+Our websites, apps and other products and services are not aimed at children.
 
-If you are under the age of 13, we request that you do not provide us with your information and do not use our websites and apps.
+We do not intentionally target, or otherwise process information from individuals in the European Economic Area, the United Kingdom, and Switzerland who are under the age of 16.
 
-If you are a parent or guardian of a child under 13, please contact us if you are aware that your child has used our websites or apps or otherwise provided their information to us without your consent. We will delete or otherwise cease processing your child’s personal information within a reasonable time.
+We do not create interest segments specifically designed for the purpose of online behavioural advertising to children who are under the age of 16.
 
-If you are aged 13, 14 or 15, we request that you seek your parent or guardian’s permission before providing us with your information or using our websites or apps.
+If you live in the European Economic Area, the United Kingdom, or Switzerland, you must be at least 16 years of age to consent to online behavioural advertising via your Privacy Settings.
 
-In accordance with industry best practice guidelines, we may retain your information for a reasonable amount of time to make sure that we do not contact you in the future.
+If you are a parent or guardian of a child under 16, please contact us if you are aware that your child has used our websites or apps or otherwise provided their information to us without your consent. We will delete or otherwise cease processing your child's personal information within a reasonable time. In accordance with industry best practice guidelines, we may retain your information for a reasonable amount of time to make sure that we do not contact you in the future.
 
 ## 10\. Cookies
 
@@ -312,7 +322,7 @@ Yes, we use the following:
 
 
 
-We use these similar technologies on websites, emails and apps, for the same purposes and in much the same way as we use cookies on websites. We will use “cookies” and “websites” below as shorthand for “cookies and similar technologies” on “websites, emails and in apps”.
+We use these similar technologies on websites, emails and apps, for the same purposes and in much the same way as we use cookies on websites. We will use 'cookies' and 'websites' below as shorthand for 'cookies and similar technologies' on 'websites, emails and in apps'.
 
 What do you use cookies for?
 
@@ -336,23 +346,25 @@ We may combine information collected by analytics cookies with other information
 
 We may also use this combined information to improve our products and services. For instance, we may analyse this information in aggregate to improve our advertising systems.
 
+Our properties may also feature Nielsen proprietary measurement software, which will allow you to contribute to market research, such as Nielsen TV Ratings. To learn more about the information that Nielsen software may collect and your choices with regard to it, please see the Nielsen Digital Measurement Privacy Policy a [](http://priv-policy.imrworldwide.com/priv/browser/us/en/optout.html "This link is invalid, and will be stripped on publish")<https://priv-policy.imrworldwide.com/priv/browser/us/en/optout.html>
+
 (iv) Cookies used to show advertising that is relevant to you (Tracking and Advertising)
 
-Some advertising, known as “online behavioural advertising” is tailored to you and uses information collected by first party and third party cookies based your web browsing activity. Cookies are placed on your browser to remember the websites you have visited. Advertising based on what you have been looking at is then displayed to you when you visit websites who use the same advertising networks.
+Some advertising, known as 'online behavioural advertising' is tailored to you and uses information collected by first party and third party cookies based your web browsing activity. Cookies are placed on your browser to remember the websites you have visited. Advertising based on what you have been looking at is then displayed to you when you visit websites who use the same advertising networks.
 
 To help us deliver relevant advertising using cookies, we use Google Double Click. Click [here](https://www.google.com/intl/bg/doubleclick/) to find out more about Google Double Click.
 
 We also use these cookies in order to:
 
   * know how many advertisements we serve, how many times these are clicked or hovered over with a mouse cursor, how many advertisements we show to a given user and how many customer actions these generate.
-  * understand which customers reach a sale or other action page on an advertiser’s site. This allows us to monitor how many sales or actions we achieve for an advertising client, and therefore, how effective our advertising is.
-  * protect our advertisers' brands, we often use a technology that scans the page to ascertain that it is safe from profane, sensitive & potentially brand-negative topics, before serving an ad there. This process is called “ad verification”.
+  * understand which customers reach a sale or other action page on an advertiser's site. This allows us to monitor how many sales or actions we achieve for an advertising client, and therefore, how effective our advertising is.
+  * protect our advertisers' brands, we often use a technology that scans the page to ascertain that it is safe from profane, sensitive & potentially brand-negative topics, before serving an ad there. This process is called 'ad verification'.
 
 
 
-Ad-blockers: We and our advertisers may use information from within our webpages to determine whether you have an ad-blocker enabled. This information may be stored or associated with your device (including through the use of cookies) to re-insert advertisements on our websites and to understand how our customers use ad-blockers. The advertisements that are re-inserted may include those from ad-blockers’ “white lists” or that promote our own products and services. We reserve the right to restrict your access to some or all of our website while you have an ad blocker turned on.
+Ad-blockers: We and our advertisers may use information from within our webpages to determine whether you have an ad-blocker enabled. This information may be stored or associated with your device (including through the use of cookies) to re-insert advertisements on our websites and to understand how our customers use ad-blockers. The advertisements that are re-inserted may include those from ad-blockers' 'white lists' or that promote our own products and services. We reserve the right to restrict your access to some or all of our website while you have an ad blocker turned on.
 
-Do Not Track: Our websites do not respond to "Do Not Track" (DNT) browser settings.
+Do Not Track: Our websites do not respond to 'Do Not Track' (DNT) browser settings.
 
 Managing Cookies 
 
@@ -362,10 +374,10 @@ You can change your cookie settings on this website at any time via your Privacy
 
 Cookies can also be controlled using the following instructions:
 
-  * Mobile Devices: When using a mobile device, you can opt-out of receiving online behavioural advertising by selecting ‘Limit Ad Tracking’ in the Settings of your Apple iPhone or iPad, or the “Opt out of interest-based ads” in the Settings on your Android device. You may also be able to reset your unique identifier used for online behavioural advertising (referred to as an “Advertising ID”) in the Settings on your Apple or Android device.
+  * Mobile Devices: When using a mobile device, you can opt-out of receiving online behavioural advertising by selecting 'Limit Ad Tracking' in the Settings of your Apple iPhone or iPad, or the 'Opt out of interest-based ads' in the Settings on your Android device. You may also be able to reset your unique identifier used for online behavioural advertising (referred to as an 'Advertising ID') in the Settings on your Apple or Android device.
   * OBA Cookies: If you are primarily concerned about third party cookies generated by advertisers, you can turn these off by going to [Your Online Choices](http://www.youronlinechoices.com/uk/).
-  * Web-Beacons: You can usually prevent the operation of web-beacons by changing your web-browser cookie settings and your ad choices, or for those in emails, by switching off images in your email client or viewing emails using only the “text” display (rather than “HTML” display”). See the “Help” section of your email client for instructions. Please see the [All About Cookies](http://www.allaboutcookies.org/) website for further information about managing your options.
-  * Flash Cookies: You can manage the use of Flash technologies with the Flash management tools available at [Adobe’s website](https://www.adobe.com/devnet/flashplayer/articles/privacy.html).
+  * Web-Beacons: You can usually prevent the operation of web-beacons by changing your web-browser cookie settings and your ad choices, or for those in emails, by switching off images in your email client or viewing emails using only the 'text' display (rather than 'HTML' display'). See the 'Help' section of your email client for instructions. Please see the [All About Cookies](http://www.allaboutcookies.org/) website for further information about managing your options.
+  * Flash Cookies: You can manage the use of Flash technologies with the Flash management tools available at [Adobe's website](https://www.adobe.com/devnet/flashplayer/articles/privacy.html).
   * You can also visit the trade body representing these advertising platforms where you can control your third-party online advertising preferences by going to the [Network Advertising Initiative](http://optout.networkadvertising.org/?c=1#!/).
   * Browsers: The links below take you to the help sections for each of the major browsers that will tell you how you can manage your cookies:
 
