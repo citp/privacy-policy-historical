@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tomoson.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625072338id_/https%3A//www.tomoson.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomoson.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231064715id_/https%3A//www.tomoson.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Tomoson
 
@@ -6,7 +6,7 @@ This Privacy Policy describes Tomoson’s policies and procedures on the collect
 
 ### Information Collection and Use
 
-Any information collected via a third party API is public information authorized by you before we can access it. Once access is given all information is accessed via third party secured API’s as long as you authorize access via a secured token or key. The information that is displayed on Tomoson is used by its users to understand if a brand or influencer is a good fit for their campaign. All data accessed by Tomoson is GDPR compliant in accordance withe EU Data Protection rules. We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information.
+Any information collected via a third-party API is public information authorized by you before we can access it. Tomoson is integrated with these third-party APIs and complies with each of their privacy policies [Youtube](https://policies.google.com/privacy), Facebook, Twitter, and Pinterest. Once access is given all information is accessed via third-party secured APIs as long as you authorize access via a secured token or key. The information that is displayed on Tomoson is used by its users to understand if a brand or influencer is a good fit for their campaign. All data accessed by Tomoson is GDPR compliant in accordance with the EU Data Protection rules. We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. in addition to Tomoson’s normal procedure for deleting stored data, users can revoke that our access to their data via the Google security settings page at <https://security.google.com/settings/security/permissions>.
 
 **Information Collected Upon Registration:** When you create or reconfigure a Tomoson account, you provide some personal information, such as your name, username, password, and email address. Some of this information, for example, your name and username, is listed publicly on our Services, including on your profile page and in search results. Some Services, such as search, public user profiles and viewing lists, do not require registration.
 
