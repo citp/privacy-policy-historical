@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the androidheadlines.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626030825id_/https%3A//www.androidheadlines.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidheadlines.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231025430id_/https%3A//www.androidheadlines.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Androidheadlines.com
+# Privacy Policy | Android Headlines
 
 **What information do we collect?**
 
@@ -10,7 +10,7 @@ _We use third-party advertising companies who serve ads to help keep content fre
 
 _Please review the following for a full list of partners and purposes and is GDPR compliant:_
 
-  * [ZiffDavis Privacy Policy – ZD will not to not track, tag or cookie any visitor from the EU](https://www.ziffdavis.com/privacy-policy)
+  * [ZiffDavis Privacy Policy - ZD will not to not track, tag or cookie any visitor from the EU](https://www.ziffdavis.com/privacy-policy)
   * _[PubGalaxy (Titan Gate AD)](https://www.pubgalaxy.com/privacy-policy.html)_
   * [Rubicon](http://rubiconproject.com/rubicon-project-yield-optimization-privacy-policy/?mkt_tok=eyJpIjoiWWpVME9USTRPVFkwTnpneSIsInQiOiJwZ2ZaTG1cL3FhSVdFMjZSbVliaFlXbXUxUzliWW1hK0RJODZUdmdwSW10K0dVbWY5eFp4U3Q3UmV4QlBsOWMrYTV3a1ExV3doTmRYSGFIM09hKzB5Zzl2dUd1WlFTZWlab0o5WDhKKzhKbUUycEw1TlwvRUVUNE9pT0ZVbHFRQTBkIn0%3D)
   * [Conversant / Commission Junction](https://www.conversantmedia.com/legal/privacy)
@@ -62,4 +62,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 androidheadlines.com  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+admin@androidheadlines.com
