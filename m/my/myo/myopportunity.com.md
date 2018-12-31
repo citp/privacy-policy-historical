@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myopportunity.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625210344id_/https%3A//myopportunity.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myopportunity.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231200342id_/https%3A//myopportunity.com/en/privacy) for the most accurate reproduction.*
 
 # Opportunity - Privacy Policy
 
@@ -33,7 +33,7 @@ The data that you provide we keep until you delete your account. You have the ab
 
 We operate throughout the world and in some countries user rights are not us protective as the ones we follow or the laws of your country. 
 
-We only process data that is lawfully provided consent by you. You may at any time request to withdraw your consent and we will delete all data associated with your account. If you have any questions you many contact us at [[email protected]](https://web.archive.org/web/20180625210344id_/https%3A//myopportunity.com/en/support@myopportunity.com) or [contact our Data Protection Officer](https://web.archive.org/dpo). 
+We only process data that is lawfully provided consent by you. You may at any time request to withdraw your consent and we will delete all data associated with your account. If you have any questions you many contact us at [support@myopportunity.com](https://web.archive.org/web/20181231200342id_/https%3A//myopportunity.com/en/support@myopportunity.com) or [contact our Data Protection Officer](https://web.archive.org/dpo). 
 
 ## Information about your Contacts
 
@@ -61,7 +61,7 @@ Another example are software tools that allow you to see our and other public in
 
 If you grant Opportunity permission to access your email, they will access and may store some of your email information. Our products that sync with external email services may also temporarily cache message content for performance reasons, in a way that is unreadable by us and our service providers. 
 
-Any information that you upload or sync with our Services is covered by the [Terms of Service](https://myopportunity.com/en/terms) and this Privacy Policy. You can remove your information at your convenience by going to your accounts page or sending an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#15666065657a676155786c7a65657a6761607b7c616c3b767a78). For designated countries in EU you may [use this link to contact us regarding Data Protection Rights](https://web.archive.org/dpo). 
+Any information that you upload or sync with our Services is covered by the [Terms of Service](https://myopportunity.com/en/terms) and this Privacy Policy. You can remove your information at your convenience by going to your accounts page or sending an email to [support@myopportunity.com](mailto:support@myopportunity.com). For designated countries in EU you may [use this link to contact us regarding Data Protection Rights](https://web.archive.org/dpo). 
 
 You can remove your address book and any other synced information at any time. 
 
@@ -139,7 +139,7 @@ It is possible that we may need to disclose personal information when required b
 
 ## Accessing and Changing Your Account Information
 
-You can review the personal information you provided us and make any desired changes to the information, or to the settings for your Opportunity account, at any time by editing the information on your Profile page. You can also close your account through the Opportunity website. If you close your Opportunity account, We may retain certain data contributed by you if it may be necessary to prevent fraud or future abuse, or for legitimate business purposes, such as analysis of aggregated, non-personally-identifiable data, account recovery, or if required by law. All retained data will continue to be subject to the terms of the Opportunity Privacy Policy that you have previously agreed to. To request that we close your account and remove your information from the Opportunity service, please send your request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#70030500001f0204301d091f00001f0204051e1904095e131f1d). Please send your request using an email account that you have registered with Opportunity under your name. You will receive a response to requests sent to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#bac9cfcacad5c8cefad7c3d5cacad5c8cecfd4d3cec394d9d5d7) usually within a few days of the receipt of the email. You can review the personal information you provided us and make any desired changes to the information, or to the settings for your Opportunity account, at any time by editing the information on your Profile page. You can also close your account through the Opportunity website. If you close your Opportunity account, We may retain certain data contributed by you if it may be necessary to prevent fraud or future abuse, or for legitimate business purposes, such as analysis of aggregated, non-personally-identifiable data, account recovery, or if required by law. All retained data will continue to be subject to the terms of the Opportunity Privacy Policy that you have previously agreed to. To request that we close your account and remove your information from the Opportunity service, please send your request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ed9e989d9d829f99ad8094829d9d829f999883849994c38e8280). Please send your request using an email account that you have registered with Opportunity under your name. You will receive a response to requests sent to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#9eedebeeeef1eceadef3e7f1eeeef1eceaebf0f7eae7b0fdf1f3) usually within a few days of the receipt of the email. You may also [contact Opportunity's Data Protection Officer](https://web.archive.org/dpo). 
+You can review the personal information you provided us and make any desired changes to the information, or to the settings for your Opportunity account, at any time by editing the information on your Profile page. You can also close your account through the Opportunity website. If you close your Opportunity account, We may retain certain data contributed by you if it may be necessary to prevent fraud or future abuse, or for legitimate business purposes, such as analysis of aggregated, non-personally-identifiable data, account recovery, or if required by law. All retained data will continue to be subject to the terms of the Opportunity Privacy Policy that you have previously agreed to. To request that we close your account and remove your information from the Opportunity service, please send your request to [support@myopportunity.com](mailto:support@myopportunity.com). Please send your request using an email account that you have registered with Opportunity under your name. You will receive a response to requests sent to [support@myopportunity.com](mailto:support@myopportunity.com) usually within a few days of the receipt of the email. You can review the personal information you provided us and make any desired changes to the information, or to the settings for your Opportunity account, at any time by editing the information on your Profile page. You can also close your account through the Opportunity website. If you close your Opportunity account, We may retain certain data contributed by you if it may be necessary to prevent fraud or future abuse, or for legitimate business purposes, such as analysis of aggregated, non-personally-identifiable data, account recovery, or if required by law. All retained data will continue to be subject to the terms of the Opportunity Privacy Policy that you have previously agreed to. To request that we close your account and remove your information from the Opportunity service, please send your request to [support@myopportunity.com](mailto:support@myopportunity.com). Please send your request using an email account that you have registered with Opportunity under your name. You will receive a response to requests sent to [support@myopportunity.com](mailto:support@myopportunity.com) usually within a few days of the receipt of the email. You may also [contact Opportunity's Data Protection Officer](https://web.archive.org/dpo). 
 
 ## Security
 
@@ -157,13 +157,13 @@ Opportunity may update this privacy policy. In the event there are significant c
 
 ## Questions or Comments
 
-If you have questions or comments about this privacy policy, please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#93e0e6e3e3fce1e7d3feeafce3e3fce1e7e6fdfae7eabdf0fcfe) or [contact Opportunity's Data Protection Officer](https://web.archive.org/dpo) or contact us at: 
+If you have questions or comments about this privacy policy, please email us at [support@myopportunity.com](mailto:support@myopportunity.com) or [contact Opportunity's Data Protection Officer](https://web.archive.org/dpo) or contact us at: 
 
 Opportunity, Inc. 
 
 Attn: Privacy Policy Issues 
 
-1343 Main Street, #305  
-Sarasota, FL 34236 
+23638 Lyons Ave. #260  
+Newhall, CA 91321 
 
 Back to Top
