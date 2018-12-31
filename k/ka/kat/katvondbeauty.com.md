@@ -1,92 +1,286 @@
-> *The following text is extracted and transformed from the katvondbeauty.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625223405id_/https%3A//www.katvondbeauty.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the katvondbeauty.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231213137id_/https%3A//www.katvondbeauty.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Kat Von D Beauty Privacy Policy
 
-Thank you for visiting KatVonDBeauty.com (the “Site”). This website is operated by Kendo Holdings Inc. (“We” or “Us”), a wholly owned subsidiary of Sephora USA, Inc., under license from Kat Von D. This Site is not affiliated with any other website operated or controlled by Kat Von D (including www.wonderlandla.com), any other website operated or controlled by Sephora USA, Inc., or any other website operated or controlled by Us.
+_**Effective Date: September 19, 2018**_
 
-This policy describes what information we may collect from you or obtain about you when you use the services or features of the Site (including by making purchases) and how that information may be used and shared. You may be accessing our Site from a computer, tablet or mobile phone device and this policy governs your use of our Site regardless of the means of access.
+**Kendo Holdings, Inc. and our affiliates (hereinafter “Kendo” or “Company”) care about the processing, confidentiality and safety of your personal data.**
 
-We may, from time to time, modify this Privacy Policy and we invite you to check back periodically to see if we have made any changes. If We make any material changes, We will post a notice on our home page and will obtain your consent if the material changes affect the way We use the information We have already collected from you. Your continued use of this Site constitutes your agreement to abide by this Privacy Policy as changed from time to time. For more information about the terms of use for this Site, please visit our Terms of Use page.
+**This policy applies to KVD Beauty, LLC, a subsidiary of Kendo, located at www.katvondbeauty.com. We refer to Kendo and the website together as "Kendo", "we", "us" or "our."**
 
-We like to interact with you on third party sites where We may post content and invite your feedback or contributions, such as Facebook, Twitter, Instagram or YouTube ("Third Party Sites"). 
+**The aim of this privacy policy is to provide you with clear, simple and complete information about how we process the personal data you give us or the data we may collect while you are browsing all websites operated by us, including other media forms, media channels, mobile website or mobile application related or connected thereto (hereinafter collectively, the “website”), how it may be transferred to third parties and your rights and options to control your personal information and protect your privacy.**
 
-This policy applies only to information collected by Us when you use this Site and does not apply to information collected on any other Third Party Site that may link to or be accessible from this Site. Except as otherwise described below, this policy does not cover the privacy practices of any Third Party Sites or other companies that We do not own or control, or the actions of people that We do not employ or manage. You should check the privacy policies of all Third Party Sites before providing personal information to or through those Third Party Sites. Please see our Terms of Use for more information about how We can interact with you via Third Party Sites.
+**I. What is personal data?**
 
-This Site is directed to viewers in the United States only and information collected on the Site goes directly to servers housed in the United States. Your privacy is important to Us and this policy has been developed as an extension of our commitment to combine the finest quality products and services with the highest level of integrity in dealing with our customers. This Privacy Policy guides how We collect, store, and use information, and it will be periodically assessed against new technologies, business practices, and our customers' changing needs.
+Personal data is any information about an identified physical person or a physical person that may be directly or indirectly identified via an identification number or one or more elements particular to them, such as their last name, first name, date of birth, customer number, order number, photo, etc.
 
-## COLLECTION AND USE OF PERSONAL INFORMATION
+**II. When do we collect your personal data?**
 
-We take your concerns about privacy seriously and our Privacy Policy recognizes that personal information deserves protection. Our Privacy Policy describes the personal information We collect from you and why; how We use this information; when We share this information with third parties; the choices you can make about how your personal information is collected, used, or shared; and the data security, accuracy, and access measures We have adopted to protect your information under our control from unauthorized access, destruction, use, modification, or disclosure.
+We may collect your personal data when you:
 
-Collection:  
-Personal information will only be collected to the extent that We deem it to be reasonably necessary to serve a legitimate business or marketing purpose. In general, we will collect personal information from you when you make a purchase, if you request services from Us that require information, registration, or subscription, or when you register as a user on our Site and create an account with Us. The type of personal information that We collect will depend on the circumstances but may include your name, e-mail address, telephone number, shipping address, billing address and credit card information.
+  * create a customer account on our website, apps, or in our stores
+  * order goods from our website
+  * make purchases in stores
+  * agree to receive marketing communications from us by email, telephone, SMS or post, depending on your selection
+  * answer surveys or satisfaction questionnaires based on your customer experience
+  * interact with our Company via its official page on social networks or when we suggest re-use of content that you have published on a social network
+  * contact our customer service
+  * send requests for information to our Company
+  * take part in an event we organize
+  * browse on the Internet using cookies or similar technology or when you click on advertisements for our products
 
-If you access our Site with your log-in credentials from a social networking site (e.g., Facebook or Twitter) or if you otherwise agree to associate your account with Us with a social networking site, We may receive personal information about you from such social networking site, in accordance with the terms of use and privacy policy of that social networking site. We may add this information to the information We have already collected from you via our own Site. We call this process “Social Log-In.”
 
-We may also run sweepstakes and promotions in collaboration with Kat Von D, either directly from our Site or through her own social media channels on Twitter, Instagram or Facebook. All sweepstakes and promotions will have their own official rules which will address the ownership of information, photos or videos collected during those sweepstakes and promotions. Personal information submitted by you in connection with a sweepstakes or promotion will be collected and used by Us in accordance with this Privacy Policy and the official rules. We also may combine personal information We collect with publicly available information to enhance and personalize your shopping experience with Us, to communicate with you about our products and events that may be of interest to you, and for other promotional purposes.
 
-If you choose not to provide personal information We request, you may be unable to make a purchase, access certain services and content on our Site or participate in sweepstakes and promotions.
+**III. What personal data might we collect?**
 
-Our Site, in coordination with Third Party Sites, offers a number of ways for you to contribute content and show Us your favorite products and inspirations and provide ratings and reviews. For example, user generated content on Twitter, YouTube or Instagram that uses a unique hashtag promoted by our Site or by Kat Von D through her social media channels will be pulled through to and posted on our Site. We view this user generated content as public information and not personal information. Our Site may offer other interactive services in the future and this Privacy Policy will govern your use of those services as they evolve. If you want to use any of these interactive services, you may have to provide personal information (including some demographic information like your age) and any personal information you submit will become part of your profile, as maintained by Us. Please review our Terms of Use for the Site because they explain the way you can participate in our interactive services in more detail.
+(i) As part of the services we provide, we may need to collect certain data directly from you using electronic forms on our website, mobile apps or in selected stores, or in paper form, for a range of purposes (see Section IV for a list of processing purposes).
 
-Like most websites, our Site automatically collects and uses the data contained in log files generated when you navigate through the Site. The information in the log files may include your IP (Internet Protocol) address, your ISP (Internet Service Provider), the Web browser you used to visit the Site, the time you visited the Site, which Web pages you visited on the Site, and other anonymous website usage data. As noted above, our Site also collects information from you when you use a Third Party Site to post content to our Site. Please be aware that if you disclose personal information by submitting content to the Site, that information may be collected and used by third parties without our knowledge and may result in unsolicited communications from third parties. Such activities are beyond our control. Please review our Terms of Use for the Site regarding creating and submitting user-generated content to the Site.
+Information we might collect includes:
 
-Please note that if you choose to share personal information about yourself in an open format, such as through a Third Party Site like Facebook, Instagram or Twitter, We consider that information to be public information - and not personal information.
+  * Your identity (e.g. first name, last name, date of birth
+  * Your contact details (e.g. email address, mailing address)
+  * Your personal preferences in relation to the products we market or to our website (language)
+  * Information relating to your orders, their tracking and your purchase invoices
+  * Information you may provide to our customer service center
+  * Specific health data if you notify us of any undesirable side-effects concerning any of our products
+  * Your credit card information if you place an order via our website
+  
 
-Where Information is Stored and Security  
-Information collected by Us from you will be maintained on servers protected by security features located in the U.S. and access to the information stored on those servers is limited to authorized persons. We use industry-standard Secure Sockets Layer (“SSL”) authentication to guarantee the confidentiality of online transactions made on our Site. SSL authentication and encryption of the information that you send to us over the Internet help protect your online transaction information from third party interception. We may use third parties to design and host the Site and to initiate communications with you. As a result, personal information may be stored on servers owned by other companies. Except as otherwise described herein, only We have the right to access this information.
 
-We ensure our Site uses physical, electronic and procedural safeguards to protect your personal information. For example, we never display your full credit card number once it has been entered. We will only reveal the last four digits of your credit card for verification purposes. However, we urge you to protect your own privacy by not sharing account information or passwords with anyone including in an unsolicited phone call or e-mail. You should keep your registration with Us current and complete. You are responsible for maintaining the confidentiality of your account and password. Please notify Us if there is any unauthorized use or your account or password. We recommend that you always log out from your account at the end of a session with us to prevent other people from accessing your account without your permission.
 
-Unfortunately, despite all of our efforts, there is always a risk that third parties may unlawfully intercept transmissions. For example, We cannot ensure the security of your data during transmission to Us or the security of your data on any mobile device or on a computer. This reality is true of all Internet or data transmission use. As a result, We cannot ensure the security of any information during transmission, and you transmit all information at your own risk.
+Important: your credit card information is encrypted on Kendo servers. Payments are processed via a secured payment platform, involving additional verifications, in order to guarantee the security of purchases made on the Website, and combat fraud. The details you provide of your Payment Card when placing an order are always encrypted prior to transit using an SSL (Secure Socket Layer) protocol.
 
-Use:  
-We will collect personal information from users resident in the United States primarily to make our Site and our services more rewarding for you to use. We usually will use this information for internal purposes, such as studying our customers' preferences or to send out announcements or communications with information about new products and special features. We may also use your information to track your product interests, purchase history, and to contact you for account and promotional purposes. We may also share personal information with third parties for analytical purposes and in order to help us notify you of products or services that We think may be of interest to you. We may also share your information with outside third party service providers who are authorized to use this information solely to perform services on our behalf. Finally, we may collect and use personal information for other purposes as required or permitted by applicable law including to enforce our rights or carry out our obligations.
+Personal data essential to Kendo is marked with an asterisk on all personal data collection forms on our website, in electronic form at some of our counters and stores, as well as off-line in paper form. If you do not fill in these compulsory fields, Kendo will probably be unable to respond to your request and/or provide you with the requested services. Other information is optional and enables us to get to know you better and improve our communications and services with respect to you.
 
-If you receive an e-mail from Us and want to avoid further messages, look at the end of the e-mail for instructions on how to remove yourself (or “unsubscribe”) from the mailing list. You can also update your communication preferences in your account settings on the Site.
+(ii) We may also collect certain data generated by your purchases of products or services, online or in stores, particularly information regarding the amount and type of your purchases.
 
-Our collection and use of personal information is based on the fact that our Site is directed to residents of the United States only and we do not intend to collect information from users who reside in other countries. The laws of other countries may differ regarding what personal information may be collected and how it may be used by Us.
+(iii) We may collect information regarding the use of our website, especially with respect to your browsing (pages visited, links clicked, etc.). Some of this information may be collected using cookies placed in your web browser when you browse our website. For more information about cookies, read Section XI of this policy.
 
-Cookies, Pixel Tags and Tracking:  
-We want to give you the best possible experience when you visit the Site. So We like to constantly update and improve the features on our Site, We like to personalize your browsing experience and We like to recognize you when you return. We have a variety of ways of doing this.
+(iv) If you apply for a job with our Company via our website, we may collect the following information:
 
-The Site uses "cookies." We may also use cookies and other tracking code if we send emails to you. A cookie or other tracking code is a small amount of data that is sent to your browser from a Web server and stored on your computer's hard drive. Generally, We use cookies to remind Us of who you are, tailor our products, services and advertising to suit the personal interests of you and others, estimate our audience size, assist our online service providers to track visits to our Site, and to track your status in our promotions, and/or analyze your visiting patterns. Certain of our service providers may use cookies and collect information on our behalf. They are prohibited by our contract with them from sharing that information with anyone other than Us or our other service providers. In addition, in connection with the services that they provide to Us, certain of our service providers may work with third parties who may use cookies to collect anonymous information to tailor advertising for you and others elsewhere on the Web. These third parties do not have access to any personal information about you. If you would like to opt out of accepting cookies altogether, you can generally set your browser to not accept cookies or to notify you when you are sent a cookie, giving you the chance to decide whether or not to accept it. However, certain features of the Site or our services may not work if you delete or disable cookies.
+  * Your identity
+  * Your contact details
+  * Your resume
+  * Your cover letter
+  
 
-We also use pixel tags (also called Web beacons or "clear" gifs) on our Site. They help Us analyze what our clients like to do on our Site and the effectiveness of our features and advertising. They can also help Us customize your browsing and shopping experience. We may use information collected through pixel tags or tracked links in combination with your personal information. We may also combine personal information you provide to Us with other personal information (such as purchase history and demographic information). We often work with other companies to help Us track, collect and analyze this information but they are prohibited from using this information for any other purpose.
 
-We may also work with advertising partners (like Google and Mediaforge) that use cookies, pixel tags and other tracking technologies to serve advertisements on behalf of their retail clients, including Us, across the Internet, including to you after you have visited our Site. These advertising partners may change from time to time. These advertising partners engage in remarketing, online behavioral advertising and ad delivery and reporting. With respect to Us, these advertising partners may collect anonymous information about your browser as it makes visits to websites across the Internet (including our Sites) and your interaction with our advertising and e-mail communications. This anonymous information may also be used to tailor advertising for you and others elsewhere on the Internet. We will have access to the information collected by these advertising partners and We can then use it in combination with personal information provided by you to Us to enhance your experience on our Site. We will not share your personal information with these advertising partners. If you would like more information about this practice or would like to know your choices about not having your information used by these companies, please visit http://www.networkadvertising.org/choices/
 
-Access to Your Information by Third Parties:  
-Whenever We permit a third party to access personal information, commercially appropriate procedures will be followed to help ensure that such information is used only by authorized persons for authorized purposes in a manner consistent with the choices you have made under this Privacy Policy, and that the security, integrity, and privacy of the information is maintained. As described above, from time to time, We may share your information with outside third party service providers authorized to use this information solely to perform services on our behalf. We may also share aggregate information about our customers with advertisers and marketing partners. This information does not identify individual users or use personal information. In certain limited circumstances We may disclose personal information when We believe it is necessary to identify, contact, or bring legal action against persons or entities in order to protect Us or our customers or when We believe that the law or legal process requires such disclosure.
+As this data concerns your application, please inform us in writing of any changes to your contact details or, more generally, to your career and employment situation, to help us to manage your application efficiently.
 
-Any personal information that you include in any content submitted by you when using Our interactive services (including photographs or other user generated content) or through Third Party Sites may be displayed on our Site, so please consider this before submitting any such content. Please don't submit any information that you don't want the whole world to know!
+**IV. For what purpose is your personal data collected and used?**
 
-We do not currently sell or license personal information to unaffiliated third parties. Before selling or licensing your personal information, We will post a notice in this Privacy Policy and on the home page of the Site. However, We may share personal information with our parent company, Sephora USA, Inc. or our other affiliates. In the event that another company buys the assets or stock of Kendo Holdings Inc., your personal information may be shared with the other company who may then use and disclose your personal information for substantially similar purposes as described in this Privacy Policy. We may also share this information with prospective purchasers so that they may determine whether to proceed with the transaction.
+Kendo processes your data to:
 
-## CHILDREN’S PRIVACY STATEMENT
+  * enable you to create a customer account on our website, at our counters and in our stores
+  * manage your access to your customer account
+  * process and manage your online orders and their delivery
+  * record purchases made at our counters or in our stores
+  * secure online transactions, prevent fraud and manage debt collection (see our terms and conditions for more details)
+  * manage customer relations with respect to any requests for information or complaints you may send us via our website, customer service or social network pages
+  * trace and manage any alerts you may send us as part of our cosmetic vigilance obligations
+  * manage and optimise your customer experience by improving our knowledge of our customers
+  * propose appropriate, tailored services, particularly when we enhance our products and services
+  * conduct statistical analyses to develop management, measuring and reporting tools in order to adjust and improve our sales, marketing and product manufacturing
+  * subject to your consent, send you information on our offers, news and events on your chosen communication media
+  * manage your participation in any events to which you have signed up
+  * manage any online job applications
 
-We comply with the Children's Online Privacy Protection Act of 1998. If you are under the age of 13, you can look at our Site, but you cannot make a purchase, use any service on our Site that asks for personal information and you cannot use Social Log-In. Our Site is not designed for children. We do not wish to collect any information from children under 13. If We become aware that we have inadvertently received personal information from a child under the age of 13, We will delete such information from our records. This policy is designed to protect children. Federal law requires Us to take special steps to safeguard children's privacy. For more information about this federal law and about children’s privacy, click here.
 
-## SOCIAL MEDIA AND OTHER THIRD PARTIES
 
-In the future, We may work with application developers who specialize in social media so We can connect to your social networks like Twitter, Instagram and YouTube. All of these companies operate Third Party Sites. We may provide access to our Site by third parties and business partners so We can generate interest in our products among members of your social networks and to allow you to share product interests with friends in your network.
+**V. What legal grounds legitimize the processing of your data?**
 
-The use of any features made available to you on our Site by a third party may result in information being collected or shared about you by Us or by the third party. Information collected or shared through any such third party features is considered "public information" by Us because the Third Party Sites made it publicly available (except where applicable privacy laws where you reside consider that information to be personal information). If you do not want Us to be able to access information about you from Third Party Sites, you must instruct Third Party Sites not to share the information (for example, by adjusting your privacy settings in your account with such Third Party Site). We cannot control how your data is collected, stored, used or shared by Third Party Sites or to whom it is disclosed. Please be sure to review the privacy policies and privacy settings on your social networking sites to make sure you understand the information they are sharing. If you do not want a Third Party Site to share information about you, you must contact that site and determine whether it gives you the opportunity to opt out of sharing such information. We are not responsible for how these third parties may use information collected from or about you.
+Kendo processes your personal information:
 
-## QUESTIONS AND COMMENTS?
+  * to perform the contract agreed between yourself and Kendo, to manage your access to your customer account and to process and track your orders
+  * within the framework of its legitimate interest for the purposes of marketing management, securing its digital media (websites, applications, etc.) and preventing fraud
+  * when you have given your consent for the processing of your data, especially for the purposes of managing our sales prospection, and in connection with your browsing data via cookies, etc.
+  * to comply with our legal and regulatory obligations
 
-This Privacy Policy has been developed out of respect for the privacy preferences and choices of customers of and visitors to our Site. We have established procedures to ensure that reasonable effort is made to address your concerns. Questions or comments may be directed to:
 
-information@KatVonDBeauty.com or
 
-Kat Von D Beauty  
-Attn: Privacy Officer  
-c/o Kendo Holdings Inc.  
+**VI. Who are the recipients of your personal data?**
+
+Your personal data is processed by the personnel of Kendo. We ensure that only authorized persons within Kendo have access to your personal data and that such access is granted only as necessary for managing our commercial relations or meeting our legal obligations.
+
+We may also share your personal data with:
+
+  * our corporate affiliates, including across Brands, and other entities in the LVMH Moët Hennessy-Louis Vuitton Group, with some of these entities acting as data processors
+  * the acquiring company in the event another company acquires our company, business, or our assets
+  * subcontractors, such as: 
+    * site hosting and maintenance service providers and the providers of our electronic personal data collection solutions at counters and in stores
+    * payment service providers
+    * anti-fraud service providers
+    * logistic service providers
+    * marketing solution service providers
+    * sales prospection and social network communication service providers
+    * customer service providers
+    * service providers for managing regulatory alerts or notifications
+    * event organization service providers
+  
+
+
+
+
+Lastly, Kendo may need to share your personal data with third parties to meet its legal, regulatory or treaty obligations, or to respond to requests from authorized legal authorities.
+
+**VII. Security Measures**
+
+No method of transmission over the Internet, or method of electronic storage, is fully secure. While we use reasonable efforts to protect your personal data from unauthorized access, use, or disclosure, we cannot guarantee the security of your personal data. In the event that we are required by law to inform you of any unauthorized access to your personal data we may notify you electronically, in writing, or by telephone, if permitted to do so by law.
+
+**VIII. International Transfer of Personal Data**
+
+With respect to personal data collected on the website, Kendo is the data controller for purposes of the Regulation (EU) 2016/679 on the protection of natural persons with regard to the processing of personal data and the free movement of such data (hereinafter the "GDPR").
+
+We store personal data about our website visitors and subscribers within the United States. If you are visiting our website from the European Economic Area or other regions with laws governing data collection and use, you are agreeing to the transfer of your personal information to the United States. By providing us your personal information, you consent to any transfer and processing in accordance with this Policy.
+
+All data transfers are subject to appropriate guarantees, especially contractual, technical and organizational guarantees, that comply with applicable regulations relating to the protection of personal data.
+
+**IX. How long do we keep your data?**
+
+We keep and process your personal data for as long as it is required in order to fulfil the purposes described in this Privacy Policy and as long as it may be required by law such as for regulatory, tax and accounting purposes.
+
+**X. What are your rights and how can you exercise them?**
+
+Under current regulations, including the GDPR, you may have the right to access and correct your personal data, request erasure, object to processing on legitimate grounds and obtain limitation or portability, where applicable.
+
+You can exercise these rights directly with Kendo by sending an email to [kvdprivacy@kendobrands.com](mailto:kvdprivacy@kendobrands.com) or by mailing a non-registered letter with a document proving your identity to the below address:
+
+Kendo Holdings, Inc.  
+Legal Department, Privacy  
 425 Market Street, 19th Floor  
 San Francisco, CA 94105
 
-## YOUR CALIFORNIA RIGHTS
+If, at any time, you no longer wish to receive details of our offers, news and events, you can unsubscribe using the hypertext link provided for this purpose in each mail we send you. You can also telephone us at 1-844-500-5832 or send a letter to:
 
-Pursuant to Section 1798.83 of the California Civil Code, residents of California can obtain certain information about the types of personal information that companies with whom they have an established business relationship have shared with third parties for direct marketing purposes during the preceding calendar year. In particular, the law provides that companies must inform consumers about the categories of personal information that have been shared with third parties, the names and addresses of those third parties, and examples of the types of services or products marketed by those third parties. To request a copy of the information disclosure provided by Kendo Holdings, Inc. pursuant to Section 1798.83 of the California Civil Code, please contact us via email or at the address stated above. Please allow 30 days for a response.
+Kendo Holdings, Inc.  
+Legal Department, Privacy  
+425 Market Street, 19th Floor  
+San Francisco, CA 94105
 
-If you wish to request access to or correction of your personal information in our custody or control, you may write to the above address. Your right to access or correct your personal information is subject to applicable legal restrictions. We may take reasonable steps to verify your identity before granting access or making corrections. You may withdraw your consent to our collection, use and disclosure of personal information at any time, subject to contractual and legal restrictions and reasonable notice. Note that if you withdraw your consent to certain uses of your personal information, We may no longer be able to provide certain of our products or services to you.
+**Your California Privacy Rights**
+
+California Civil Code Section 1798.83 permits customers of Kendo who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please contact us at the following address:
+
+Kendo Holdings, Inc.  
+Legal Department, Privacy  
+425 Market Street, 19th Floor  
+San Francisco, CA 94105
+
+California residents may be entitled to ask us for a notice describing what categories of personal information (if any) we share with third parties or affiliates for direct marketing. If you are a California resident and would like a copy of such notice, please submit a written request using the contact information provided above.
+
+**Online Tracking**
+
+We do not currently recognize automated browser signals regarding tracking mechanisms, which may include "Do Not Track" instructions.
+
+**XI. Contact details of the Data Protection Officer (DPO) and your right to lodge a complaint**
+
+For all questions relating to the collection and processing of your data by Kendo, you can contact the Kendo Data Protection Officer at [dpo@kendobrands.com](mailto:dpo@kendobrands.com). If you are not satisfied with our response and are in the European Union, you may have a right to lodge a complaint with your local supervisory authority.
+
+**XII. Information on Cookie Management**
+
+This section is dedicated to our policy for managing cookies on the website. It has been designed to provide you with information on the origin and use of browsing data processed when you use our website, together with your rights.
+
+_**What is a Cookie?**_
+
+When you use our website, we may, depending on your choice, place a text file on your terminal (computer, smart phone or tablet) via the web browser.
+
+This text file is a cookie. Throughout the period of validity or registration, it will enable Kendo to identify your terminal during subsequent visits.
+
+Only the entity issuing the cookies is able to read or modify the information they contain.
+
+Below you will find information about the cookies that may be placed on your terminal when you visit the pages of the website, either by Kendo, or by third parties, together with ways in which you can delete or refuse installation of these cookies.
+
+_**What is the purpose of the cookies issued on the website?**_
+
+There are several types of cookies, some of which are issued directly by Kendo and its service providers, while others may be issued by third parties.
+
+**I.** _ **Cookies issued by Kendo and its service providers**_
+
+Different types of cookies may be placed on your terminal while you are browsing on our website:
+
+_(i) "Essential" cookies_
+
+These cookies are _essential_ for browsing on our website, especially for the functioning of the order process.
+
+Deletion of these cookies may cause problems with browsing on our website and make it impossible for you to place an order.
+
+These cookies are also necessary for tracking the activity of Kendo.
+
+They may be installed on your terminal by Kendo or by its service providers.
+
+_(ii) "Analysis and Customization" cookies_
+
+These cookies are not essential to browsing on our website, but may help you, for example, to search more effectively and optimize your purchasing experience and help us better target your requirements, improve our offer and optimize the functioning of our website.
+
+_(iii) "Advertising" cookies_
+
+Cookies may also be used for advertising purposes. These cookies ensure that the advertisements you see are the most relevant to you.
+
+_**What is the benefit of seeing special offers and advertising tailored to your browsing preferences?**_
+
+The aim is to show you the most relevant offers and advertising. As such, cookie technology enables us to display content, in real-time, that is best suited to your fields of interest, as deduced from your browsing history on our website.
+
+The interest you show in content displayed on your terminal when you consult a website often determines the advertising resources of this site, enabling it to provide its services, which are often supplied free of charge to users. You likely prefer to see offers and advertising that are relevant to you, rather than content that is of no interest to you at all. Similarly, both Kendo and advertisers want their offers and advertising to be shown to Internet users that are likely to be interested in them.
+
+_**Important information if you share your terminal with other users**_
+
+If your terminal is used by several people or when a single terminal has more than one type of browser software, we cannot be sure that the services and advertising sent to your terminal will match your use of the terminal, rather than that of another user.
+
+In this case, sharing use of your terminal with others and deciding your browser cookie settings are your free choice and your responsibility.
+
+**II. _Cookies issued by third-party companies_**
+
+Kendo participates in behavior-based advertising and permits third parties to use cookies to collect information about your use of our website so that they can provide advertising about products and services tailored to your interests on our website, or on other websites. The issue and use of cookies by third parties on our website are subject to privacy policies concerning these third parties.
+
+These cookies are not essential to browsing on our website.
+
+On our website, we may include computer applications from third parties that enable you to share our website content with others, inform others that you have been consulting our website or notify them of your opinion concerning content on our site. This particularly concerns use of the "Share" and "Like" buttons featured on social networks such as Facebook, Twitter, Instagram, Pinterest, etc.
+
+The social network providing these application buttons is likely to identify you via this button, even if you have not used it when browsing our website.
+
+Indeed, this type of application button can enable the social network concerned to track your browsing on our website, simply because your account on the social network in question is enabled on your terminal (a session is open) while you are browsing our website.
+
+We have no control over how social networks collect information regarding your browsing on our website and associated with the personal data they hold.
+
+We encourage you to read the privacy policies of the social networks to learn about the purpose, especially advertising, of any browsing information they may collect via these application buttons. These privacy policies should enable you to exercise your choices with respect to these social networks, in particular by changing your account settings.
+
+Visit the websites of the aforementioned social networks for more information about their privacy policies.
+
+**III.** _ **Managing the cookies placed in your web browser**_
+
+**You can decide whether to allow cookies to be installed on your terminal.**
+
+By changing the settings of your browser software, you can choose whether to accept the installation of cookies on your terminal at any time, simply and free of charge.
+
+_a. Agreeing to Cookies_
+
+If your browser software is set to accept the registration of cookies on your terminal, the cookies embedded in the pages and content you have consulted will automatically be registered on your terminal.
+
+_b. Refusing Cookies_
+
+You can set your browser software so that:
+
+  * you are regularly asked if you wish to accept or refuse cookies before a cookie can be registered
+  * you systematically refuse the registration of cookies on your terminal.
+  
+
+
+
+**Important: Any adjustments you may make to the settings in your browser software concerning the acceptance or refusal of cookies may modify your browsing on the Internet and your terms of access to certain services requiring use of these cookies.**
+
+For example, by refusing certain essential cookies, you may no longer be able to place orders on our website.
+
+If you choose to refuse the registration of cookies on your terminal or if you delete cookies that are already registered, we decline all responsibility for any consequences relating to the degraded performance of our services resulting from the fact we are unable to register or consult the cookies required for their performance and which you have refused or deleted.
+
+__How to exercise your choice, depending on your browser__
+
+Settings vary from one type of browser software to another. Details can generally be found in your browser software help menu. We therefore encourage you to look at your settings to find out how you can make choices regarding cookies.
+
+  * For Internet Explorer: https://support.microsoft.com/en-us/help/278835/how-to-delete-cookie-files-in-internet-explorer
+  * For IOS: https://support.apple.com/en-us/ht201265
+  * For Safari/Mac: https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac
+  * For Chrome: https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&hl=en
+  * For Firefox: https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored
+
+
