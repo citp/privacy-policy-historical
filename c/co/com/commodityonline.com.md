@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commodityonline.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625234556id_/https%3A//www.commodityonline.com/home/disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commodityonline.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231223810id_/https%3A//www.commodityonline.com/home/disclaimer) for the most accurate reproduction.*
 
 # Commodity Online
 
