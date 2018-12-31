@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hockeydb.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625054918id_/http%3A//www.hockeydb.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hockeydb.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231051120id_/http%3A//www.hockeydb.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy at Hockeydb.com
 
@@ -25,6 +25,6 @@ Google, as a third party vendor, uses cookies to serve ads on your site. Google'
 
 We use other third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
 
-Exponential Interactive, Inc, as our partner, has a legitimate interest to collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. For more details including opt-out requests, access requests or complaints, please review their privacy policy or contact their data protection officer via [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Exponential Interactive, Inc, as our partner, has a legitimate interest to collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. For more details including opt-out requests, access requests or complaints, please review their privacy policy or contact their data protection officer via privacy@exponential.com.
 
 If you have any questions about your privacy, please [contact us](https://web.archive.org/feedback.html)
