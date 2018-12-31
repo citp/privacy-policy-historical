@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hortonworks.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625054537id_/https%3A//hortonworks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hortonworks.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231050705id_/https%3A//hortonworks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Hortonworks
 
-**Last updated: May 10, 2018**
+**Last updated: July 18, 2018**
 
 Hortonworks respect your right to privacy. This privacy notice (the “Privacy Notice”) explains who we are, how we collect, share and use personal information about you, and how you can exercise your privacy rights. This Privacy Notice applies to data collected about all users of _www.hortonworks.com_ , including the Hortonworks Community Connection and other related websites, (the “Website”) and the services available on the Website (the “Services”).
 
@@ -85,7 +85,7 @@ However, we have taken appropriate safeguards to require that your personal info
 
 **Cookies and similar tracking technology**
 
-We use cookies and similar tracking technology (collectively, “ **Cookies** ”) to collect and use personal information about you, including to serve interest-based advertising.  For further information about the types of Cookies we use, why, and how you can control Cookies, please see our Cookie Policy [<https://hortonworks.com/cookie-policy/>]
+We use cookies and similar tracking technology (collectively, “ **Cookies** ”) to collect and use personal information about you, including to serve interest-based advertising.  For further information about the types of Cookies we use, why, and how you can control Cookies, please see our Cookie Notice [<https://hortonworks.com/cookie-policy/>]
 
 **Sandbox**
 
@@ -109,7 +109,7 @@ Hortonworks does not knowingly collect or solicit Personal Information from anyo
 
 Once a year, users who are California residents may request from us, free of charge, certain information about the Personal Information disclosed to third parties for marketing purposes by Hortonworks (if any). Hortonworks will provide a basic report including, as applicable, the type of Personal Information that was shared and the names and addresses of all third parties who received such Personal Information in the previous calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to Privacy@hortonworks.com. Hortonworks is under no obligation to provide such reports absent a written request or more than once per calendar year.
 
-**Your data protection rights**
+**Your data protection rights (EEA visitors only)**
 
 You have the following data protection rights:
 
@@ -122,6 +122,10 @@ You have the following data protection rights:
 
 
 We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws.
+
+**Your data protection rights (Argentina only)**
+
+If you wish to access, rectify, or suppress your personal information, you can do so at any time by contacting us at the email address set out in the section “Questions, Requests, and Concerns below.” We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws.
 
 **Questions, requests, and concerns**
 
