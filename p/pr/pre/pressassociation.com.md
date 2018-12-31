@@ -1,99 +1,383 @@
-> *The following text is extracted and transformed from the pressassociation.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208004446id_/https%3A//www.pressassociation.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pressassociation.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231221939id_/https%3A//www.pressassociation.com/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Press Association
+# Privacy Policy - PA
 
-**Privacy Policy**
+**Introduction**
 
-Your privacy is important to us. We have developed this privacy policy in order to clarify how we collect, protect and make use of your personal information as a user of our websites (each a “ **Site”** ). We operate in accordance with applicable data protection legislation, including the Data Protection Act 1998.
+PA respects your privacy and is committed to protecting your personal data. This privacy notice will inform you as to how we look after your personal data when you visit our website (regardless of where you visit it from) and tell you about your privacy rights and how the law protects you.
 
-The Press Association Group is committed to conducting our business in accordance with this policy, in order to ensure that the confidentiality of personal information is protected and maintained.
+**1\. Important information and who we ar** e 
 
-By using the Sites and our services you are consenting to the use of your personal information as set out in this privacy policy, and cookies to be placed on your computer.
+**Purpose of this privacy notice**
 
-**What personal information do we collect and why?  
-**  
-We may collect personal information from you (such as your name, address, telephone number and email address) when you complete registration or enquiry forms or send emails to us, so that we may provide you with the services and information which you request. Please do not submit your personal information to us if you do not wish us to collect it.
+This privacy notice aims to give you information on how PA collects and processes your personal data through your use of this website, including any data you may provide through this website when you sign up to receive information or purchase a product or service.
 
-If you login or subscribe to any PA Group service or product, we will use your personal information to provide you with the service or product you select, (for example, sending you password reminders or notices about the relevant service or product being suspended for emergency or routine maintenance).
+This website is not intended for children and we do not knowingly collect data relating to children.
 
-If you purchase services and products from us, we may also need your name, address and payment information in order to process your transaction.
+It is important that you read this privacy notice together with any other privacy notice or fair processing notice we may provide on specific occasions when we are collecting or processing personal data about you so that you are fully aware of how and why we are using your data. This privacy notice supplements the other notices and is not intended to override them. 
 
-We may collect information if you choose to post information to the Sites in the form of comments or contributions to discussions. In addition, we may collect information from you, for example, in order to reply to any enquiry you make of any PA Group company or notify you of a change to our services. We may also use the information you provide for our own internal statistical purposes.
+**PA Sites**
 
-You are under no obligation to provide any such information. However, if you should choose to withhold requested information, we may not be able to provide you with certain services.
+This privacy policy covers all PA Group Sites, including but not limited to the Sites listed below. The Privacy Policy will also apply to all PA customer portal, hub and login Sites, where relevant, in addition to the applicable Terms of Use in respect of each of those Sites.
 
-**Use of your personal information for marketing purposes  
-**  
-We may share your personal information with other companies within the PA Group, or with carefully selected partners, so that those companies can provide you with information relating to products and services we think may interest you, by letter, email, telephone or on your mobile device.
+Sites  
+---  
+pressassociation.com  
+paimages.co.uk  
+pa-mediapoint.press.net  
+mediapoint.press.net  
+mediapointireland.press.net  
+mediapointhealth.press.net  
+medialawyer.press.net  
+picselect.com  
+explore.pressassociation.com  
+radar-ai.pressassociation.com  
+video.pressassociation.com  
+wemakecommotion.com  
+radarai.com  
+wearetnr.com  
+globelynx.com  
+stickycontent.com  
+streamamg.com  
+snappa.press.net  
+becomeajournalist.co.uk  
+pawa.tv  
+empics.com  
+thesprc.org  
+  
+**Controller**
 
-If you do not wish to receive this promotional material, you may opt-out at any time by:
+PA is made up of different legal entities, details of which can be found here: https://www.pressassociation.com/group-overview/ This privacy notice is issued on behalf of the PA Group so when we mention PA , "we", "us" or "our" in this privacy notice, we are referring to the relevant company in the PA Group responsible for processing your data. The Press Association Limited is the controller and responsible for this website.
 
-  * notifying your usual contact at PA Group; or
-  * sending an email to: [privacy@pressassociation.com](mailto:privacy@pressassociation.com) to tell us do you not wish to receive further promotional material; or
-  * using the “unsubscribe” process described in the promotional material.
+We have appointed a data privacy manager who is responsible for overseeing questions in relation to this privacy notice. If you have any questions about this privacy notice, please contact the data privacy manager using the details set out below.
+
+**Contact details**
+
+Our full details are:
+
+Full name of legal entity: The Press Association Limited
+
+Name or title of Data Protection Officer: Head of IT
+
+Email address: GDPRenquiries@pressassociation.com
+
+Postal address: 292 Vauxhall Bridge Road, London, SW1V 1AE
+
+You have the right to make a complaint at any time to the Information Commissioner's Office (ICO), the UK supervisory authority for data protection issues (www.ico.org.uk). We would, however, appreciate the chance to deal with your concerns before you approach the ICO so please contact us in the first instance.
+
+**Changes to the privacy notice and your duty to inform us of changes**
+
+It is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes during your relationship with us.
+
+**Third-party links**
+
+This website may include links to third-party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy notice of every website you visit.
+
+**2\. The data we collect about you**
+
+Personal data, or personal information, means any information about an individual from which that person can be identified. It does not include data where the identity has been removed (anonymous data).
+
+We may collect, use, store and transfer different kinds of personal data about you which we have grouped together follows: 
+
+  * Identity Data includes first name, maiden name, last name, username or similar identifier, marital status, title, date of birth and gender.
+  * Contact Data includes billing address, delivery address, email address and telephone numbers.
+  * Financial Data includes bank account and payment card details.
+  * Transaction Data includes details about payments to and from you and other details of products and services you have purchased from us.
+  * Technical Data includes internet protocol (IP) address, your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access this website.
+  * Profile Data includes your username and password, purchases or orders made by you, your interests, preferences, feedback and survey responses.
+  * Usage Data includes information about how you use our website, products and services.
+  * Marketing and Communications Data includes your preferences in receiving marketing from us and our third parties and your communication preferences.
 
 
 
-**Disclosure of personal information to third parties  
-**  
-We will only disclose personal information to companies within the PA Group or carefully selected and reputable third parties, unless:
+We also collect, use and share Aggregated Data such as statistical or demographic data for any purpose. Aggregated Data may be derived from your personal data but is not considered personal data in law as this data does not directly or indirectly reveal your identity. For example, we may aggregate your Usage Data to calculate the percentage of users accessing a specific website feature. However, if we combine or connect Aggregated Data with your personal data so that it can directly or indirectly identify you, we treat the combined data as personal data which will be used in accordance with this privacy notice.
 
-  * we need to do so in order to provide you with the products or services you have selected, for example, where we use service providers to provide support services to the Sites;
-  * we are obliged by law or regulation to disclose it (for example, if required by a court order);
-  * we sell or buy or otherwise reorganise any of our businesses or assets, in which case we may disclose your personal data to the reorganised entity or a prospective seller or buyer of any such business or assets;
-  * a PA Group company, or substantially all of its assets, is acquired by a third party, in which case personal data held by it may be one of the transferred assets;
-  * in order to protect the rights, property, or safety of any PA Group company, its customers, employees, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction; or
-  * the information is only in the form of aggregate statistics about visitors to the Sites in order to describe our services to prospective partners, advertisers, sponsors and other third parties and for other lawful purposes, and which contain no personally identifiable information.
+We do not collect any Special Categories of Personal Data about you (this includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data). Nor do we collect any information about criminal convictions and offences.
+
+**If you fail to provide personal data**
+
+Where we need to collect personal data by law, or under the terms of a contract we have with you and you fail to provide that data when requested, we may not be able to perform the contract we have or are trying to enter into with you (for example, to provide you with goods or services). In this case, we may have to cancel a product or service you have with us but we will notify you if this is the case at the time.
+
+**3\. How is your personal data collected?**
+
+We use different methods to collect data from and about you including through:
+
+  * **Direct interactions.** You may give us your Contact by filling in forms or by corresponding with us by post, phone, email or otherwise. This includes personal data you provide when you:
+    * apply for our products or services;
+    * create an account on our website;
+    * subscribe to our service or publications;
+    * request marketing to be sent to you;
+    * enter a competition, promotion or survey; or
+    * give us some feedback.
+  * **Automated technologies or interactions** As you interact with our website, we may automatically collect Technical Data about your equipment, browsing actions and patterns. We collect this personal data by using cookies, server logs and other similar technologies. Please see our Cookie section below for further details.
+  * **Third parties or publicly available sources.** We may receive personal data about you from various third parties as set out below:
+      * **Technical Data from the following parties:**
+  
+(a) analytics providers such as Hotjar based inside the EU;  
+(b) advertising networks such as Google based outside the EU; and  
+(c) search information providers such as Google based outside the EU. 
+      * **Contact, Financial and Transaction Data from providers of technical, payment and delivery services.**
+  
+
+      * **Identity and Contact Data from data brokers or aggregators.**
+  
+
+      * **Identity and Contact Data from publicly availably sources such as Companies House and the Electoral Register based inside the EU.**
+  
 
 
 
-**Data Security  
-**  
-All information you provide to us is stored on our secure servers or in secure filing systems.
 
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to us via the internet; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
-**Links to other websites**
+**4\. How we use your personal data?**
 
-The Sites may contain links to other websites which are outside our control and are not covered by this Privacy Policy. Please note that, if you access other websites using the links provided, the operators of these websites may collect information from you which will be used by them in accordance with their privacy policy, which may differ from ours.
+We will only use your personal data when the law allows us to. Most commonly, we will use your personal data in the following circumstances:
 
-**Storage of your data and international transfers**
+  * Where we need to perform the contract we are about to enter into or have entered into with you.
+  * Where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests.
+  * Where we need to comply with a legal or regulatory obligation.
 
-Information that you submit via the Sites is sent to and stored on secure servers located in the UK, the Netherlands and Ireland and your information is processed in accordance with European data protection law.  However your information may be transferred to countries outside the European Economic Area (“ **EEA** ”).  By way of example, this may happen if one or more of our servers are from time to time located in a country outside the EEA or one of our service providers or group companies is located in a country outside the EEA.  If we transfer your information outside the EEA in this way, we will take steps to ensure that your privacy rights continue to be protected.
 
-In addition, if you use our services while you are outside the EEA, your information may be transferred outside the EEA in order to provide you with those services.
 
-**How to contact us  
-**  
-If you have any queries with regard to our data processing practices, or you wish to request a copy of any of the personal details we hold about you, please contact your usual PA Group contact or send us an email at: [privacy@pressassociation.com](mailto:privacy@pressassociation.com) or write to us at: The Data Protection Officer, Legal Department, The Press Association Limited, 292 Vauxhall Bridge Road, London SW1V 1AE.
+Generally we do not rely on consent as a legal basis for processing your personal data other than in relation to sending third party direct marketing communications to you via email or text message. You have the right to withdraw consent to marketing at any time by contacting us.
 
-Any request for a copy of information may be subject to a fee (currently £10) to meet our costs in providing you with details of the information we may hold about you.
+**Purposes for which we will use your personal data**
 
-**Changes to the Privacy Policy and Queries**
+We have set out below, in a table format, a description of all the ways we plan to use your personal data, and which of the legal bases we rely on to do so. We have also identified what our legitimate interests are where appropriate.
 
-If we make changes to this privacy policy in the future, these will be posted on this page, so please check this page from time to time.
+Note that we may process your personal data for more than one lawful ground depending on the specific purpose for which we are using your data. Please contact us if you need details about the specific legal ground we are relying on to process your personal data where more than one ground has been set out in the table below. 
 
-**Cookies  
-**  
-Our Sites use cookies to distinguish you from other users of our Sites. This helps to provide you with a good experience when you browse our Sites and helps us to improve our Sites and deliver a better service to you. In the case of the pads.pa-sport.com Sites, we also use cookie to customise elements of the layout and/or content of the pages of the Site for you once you have submitted the PA unique API key.
+Purpose/activity | Type of data | Lawful basis for processing including basis of legitimate interest  
+---|---|---  
+To register you as a new customer | (a) Identity   
+(b) Contact | Performance of a contract with you  
+To process and deliver your order including:
+
+(a) Manage payments, fees and charges   
+(b) Collect and recover money owed to us 
+
+| (a) Identity   
+(b) Contact   
+(c) Financial   
+(d) Transaction   
+(e) Marketing and Communications   
+| (a) Performance of a contract with you   
+(b) Necessary for our legitimate interests (to recover debts due to us)   
+To manage our relationship with you which will include:
+
+(a) Notifying you about changes to our terms or privacy policy   
+(b) Asking you to leave a review or take a survey 
+
+| (a) Identity   
+(b) Contact   
+(c) Profile   
+(d) Marketing and Communications   
+| (a) Performance of a contract with you   
+(b) Necessary to comply with a legal obligation   
+(c) Necessary for our legitimate interests (to keep our records updated and to study how customers use our products/services)   
+To enable you to partake in a prize draw, competition or complete a survey | (a) Identity   
+(b) Contact   
+(c) Profile   
+(d) Usage   
+(e) Marketing and Communications  | (a) Performance of a contract with you   
+(b) Necessary for our legitimate interests (to study how customers use our products/services, to develop them and grow our business)   
+To administer and protect our business and this website (including troubleshooting, data analysis, testing, system maintenance, support, reporting and hosting of data)  | (a) Identity   
+(b) Contact   
+(c) Technical  | (a) Necessary for our legitimate interests (for running our business, provision of administration and IT services, network security, to prevent fraud and in the context of a business reorganisation or group restructuring exercise)   
+(b) Necessary to comply with a legal obligation   
+To deliver relevant website content and advertisements to you and measure or understand the effectiveness of the advertising we serve to you | (a) Identity   
+(b) Contact   
+(c) Profile   
+(d) Usage   
+(e) Marketing and Communications   
+(f) Technical  | Necessary for our legitimate interests (to study how customers use our products/services, to develop them, to grow our business and to inform our marketing strategy)  
+To use data analytics to improve our website, products/services, marketing, customer relationships and experiences | (a) Technical   
+(b) Usage  | Necessary for our legitimate interests (to define types of customers for our products and services, to keep our website updated and relevant, to develop our business and to inform our marketing strategy)  
+To make suggestions and recommendations to you about goods or services that may be of interest to you | (a) Identity   
+(b) Contact   
+(c) Technical   
+(d) Usage   
+(e) Profile  | Necessary for our legitimate interests (to develop our products/services and grow our business)  
+  
+**Marketing**
+
+We strive to provide you with choices regarding certain personal data uses, particularly around marketing and advertising.
+
+**Promotional offers from us**
+
+We may use your Identity, Contact, Technical, Usage and Profile Data to form a view on what we think you may want or need, or what may be of interest to you. This is how we decide which products, services and offers may be relevant for you (we call this marketing). 
+
+You will receive marketing communications from us if you have requested information from us or purchased goods or services from us or if you provided us with your details when you entered a competition or registered for a promotion and, in each case, you have not opted out of receiving that marketing.
+
+**Third-party marketing**
+
+We will get your express opt-in consent before we share your personal data with any company outside the PA group of companies for marketing purposes. 
+
+**Opting out**
+
+You can ask us or third parties to stop sending you marketing messages at any time by logging into the website and checking or unchecking relevant boxes to adjust your marketing preferences or by following the opt-out links on any marketing message sent to you, or by contacting us at any time at privacy@pressassociation.com. 
+
+Where you opt out of receiving these marketing messages, this will not apply to personal data provided to us as a result of a product/service purchase, warranty registration, product/service experience or other transactions. 
+
+**Cookies**
+
+You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly. 
+
+Our Sites use cookies to distinguish you from other users of our Sites. This helps to provide you with a good experience when you browse our Sites and helps us to improve our Sites and deliver a better service to you.
 
 Cookies are text files stored by your browser software that identify your device to the cookie owner’s server. There are two main types of cookies that we use:
 
-  1. ‘ **Session’** cookies – where they only last for the duration of your browser session and expire when you close it.
-  2. ‘ **Remember Me’** cookies – cookies that remain on your computer after you close your browser and computer to remember you when you return to the Site. These can last from 30 minutes to years.
+1\. ‘Session’ cookies – where they only last for the duration of your browser session and expire when you close it.
+
+2\. ‘Remember Me’ cookies – cookies that remain on your computer after you close your browser and computer to remember you when you return to the Site. These can last from 30 minutes to years. 
+
 
 
 
 We do not use cookies to store your credit or debit card details.
 
-__You can remove cookies from your Browser:__
+**You can remove cookies from your Browser:**
 
 Most web browsers are set up to automatically accept cookies but, if you prefer, you may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting, you may be unable to use the full functionality of the Sites and your user experience may be adversely affected.
 
-You can learn more about cookies by visiting [www.allaboutcookies.org](http://www.allaboutcookies.org/) which includes additional information on cookies and how to block cookies using different types of browser.
+You can learn more about cookies by visiting www.allaboutcookies.org which includes additional information on cookies and how to block cookies using different types of browser.
 
-A simple guide to removing cookies is to go to the “Tools” option in your web browser options, select “Settings”. To delete all cookies on your computer to date select “Clear Browsing History” and to set options for future cookies select “Cookies” and the options you wish to apply to your web browser.
+A simple guide to removing cookies is to go to the “Tools” option in your web browser options, select “Settings”. To delete all cookies on your computer to date select “Clear Browsing History” and to set options for future cookies select “Cookies” and the options you wish to apply to your web browser. 
 
 **Our Cookies**
 
-We use the following cookies:
+We use the following cookies: 
+
+Cookie name | Purpose | Type and duration  
+---|---|---  
+www.pressassociation.com | Only used for maintaining login sessions 
+
+Anonymous reporting of patterns of activity and usage statistics on the site to manage demand using Google Analytics
+
+| Session  
+pa-mediapoint.press.net | Only used for maintaining login sessions | Session  
+mediapoint.press.net | Only used for maintaining login sessions | Session  
+mediapointscotland.press.net | Only used for maintaining login sessions | Session  
+mediapointireland.press.net | Only used for maintaining login sessions | Session  
+mediapointhealth.press.net | Only used for maintaining login sessions | Session  
+Picselect.com | Only used for maintaining login sessions | Session  
+Radarai.com | Only used for maintaining login sessions | Session  
+Wemakecommotion.com | Only used for maintaining login sessions | Session  
+Wearetnr.com | Only used for maintaining login sessions | Session  
+globelynx.com | Only used for maintaining login sessions | Session  
+streamamg.com | Only used for maintaining login sessions | Session  
+stickycontent.com | Only used for maintaining login sessions | Session  
+snappa.press.net | Only used for maintaining login sessions | Session  
+becomeajournalist.co.uk | Only used for maintaining login sessions | Session  
+paimages.co.uk | Only used for maintaining login sessions | Session  
+pawa.tv | Only used for maintaining login sessions | Session  
+Empics.com | Only used for maintaining login sessions | Session  
+thesprc.org | Only used for maintaining login sessions | Session  
+explore.pressassociation.com | Only used for maintaining login sessions | Session  
+radar-ai.pressassociation.com | Only used for maintaining login sessions | Session  
+  
+**Third Party Cookies**
+
+Cookies are also set by third parties on the Site (such as Google Analytics).
+
+We don’t have access to these cookies. We only allow them to be served. However, we may use the statistical information provided to us by our partners arising from these third party cookies, for example, to improve the targeting of advertisements to users of the Sites.
+
+The third parties that generate these cookies and action tags have their own privacy policies describing how they use the information that they collect. More information about cookies placed by specific third parties and how to restrict or block their cookies can be accessed by following the link to their website and to generate an “opt-out” cookie that will stop any further cookies being written to your device. You can also visit the Network Advertising Initiative (NAI) website at www.networkadvertising.org for information on how to obtain an “opt-out cookie” from other third parties.
+
+Full details of Google Analytics and Youtube cookies can be found at: https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage
+
+The Google and Youtube Privacy Policy can be found at: https://www.google.co.uk/intl/en/policies/privacy/
+
+Full details of Pardot cookies can be found at: http://help.pardot.com/customer/portal/articles/2125776-pardot-cookies-overview
+
+The Pardot privacy policy can be found at: http://www.pardot.com/company/legal/privacy-policy/
+
+Full details of Hotjar cookies can be found at: https://www.hotjar.com/legal/policies/cookie-information
+
+The Optimizely privacy policy can be found at: https://www.optimizely.com/privacy/
+
+The Hotjar privacy policy can be found at: https://www.hotjar.com/legal/policies/privacy
+
+The Inspectlet privacy policy can be found at: https://www.inspectlet.com/legal
+
+Full details of Embedly cookies and the Embedly Privacy Policy can be found at: https://www.hotjar.com/legal/policies/privacy
+
+Full details of Facebook cookies can be found at: https://en-gb.facebook.com/policies/cookies/
+
+The Facebook privacy policy can be found at: https://www.facebook.com/about/privacy/update?ref=old_policy
+
+Full details of Twitter cookies can be found at: https://help.twitter.com/en/rules-and-policies/twitter-cookies
+
+The Twitter privacy policy can be found at: https://twitter.com/en/privacy
+
+Full details of Vimeo cookies can be found: https://vimeo.com/cookie_policy
+
+The Vimeo privacy policy can be found at: https://vimeo.com/privacy
+
+**5\. Change of purpose**
+
+We will only use your personal data for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If you wish to get an explanation as to how the processing for the new purpose is compatible with the original purpose, please contact us.
+
+If we need to use your personal data for an unrelated purpose, we will notify you and we will explain the legal basis which allows us to do so.
+
+Please note that we may process your personal data without your knowledge or consent, in compliance with the above rules, where this is required or permitted by law.
+
+**6\. Disclosures of your personal data**
+
+We may have to share your personal data with the parties set out below for the purposes set out in the table in paragraph 4 above.
+
+  * Internal Third Parties
+  * External Third Parties
+  * Third parties to whom we may choose to sell, transfer, or merge parts of our business or our assets. Alternatively, we may seek to acquire other businesses or merge with them. If a change happens to our business, then the new owners may use your personal data in the same way as set out in this privacy notice.
+
+
+
+We require all third parties to respect the security of your personal data and to treat it in accordance with the law. We do not allow our third-party service providers to use your personal data for their own purposes and only permit them to process your personal data for specified purposes and in accordance with our instructions.
+
+**7\. International transfers**
+
+We do not routinely transfer your personal data outside the European Economic Area (EEA). Where data is found to be transmitted beyond the EEA we will notify you to ensure you are content with this transfer.
+
+**8\. Data security**
+
+We have put in place appropriate security measures to prevent your personal data from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed. In addition, we limit access to your personal data to those employees, agents, contractors and other third parties who have a business need to know. They will only process your personal data on our instructions and they are subject to a duty of confidentiality.
+
+We have put in place procedures to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach where we are legally required to do so.
+
+**9\. Data retention**
+
+**How long will you use my personal data for?**
+
+We will only retain your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.
+
+To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements.
+
+**10\. Your legal rights**
+
+Under certain circumstances, you have rights under data protection laws in relation to your personal data.
+
+You have the right to:
+
+  * **Request access** to your personal data (commonly known as a "data subject access request"). This enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it.
+  * **Request correction** of the personal data that we hold about you. This enables you to have any incomplete or inaccurate data we hold about you corrected, though we may need to verify the accuracy of the new data you provide to us.
+  * **Request erasure** of your personal data. This enables you to ask us to delete or remove personal data where there is no good reason for us continuing to process it. You also have the right to ask us to delete or remove your personal data where you have successfully exercised your right to object to processing (see below), where we may have processed your information unlawfully or where we are required to erase your personal data to comply with local law. Note, however, that we may not always be able to comply with your request of erasure for specific legal reasons which will be notified to you, if applicable, at the time of your request.
+  * **Object to processing** of your personal data where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this ground as you feel it impacts on your fundamental rights and freedoms. You also have the right to object where we are processing your personal data for direct marketing purposes. In some cases, we may demonstrate that we have compelling legitimate grounds to process your information which override your rights and freedoms.
+  * **Request restriction of processing** of your personal data. This enables you to ask us to suspend the processing of your personal data in the following scenarios: (a) if you want us to establish the data's accuracy; (b) where our use of the data is unlawful but you do not want us to erase it; (c) where you need us to hold the data even if we no longer require it as you need it to establish, exercise or defend legal claims; or (d) you have objected to our use of your data but we need to verify whether we have overriding legitimate grounds to use it.
+  * **Request the transfer** of your personal data to you or to a third party. We will provide to you, or a third party you have chosen, your personal data in a structured, commonly used, machine-readable format. Note that this right only applies to automated information which you initially provided consent for us to use or where we used the information to perform a contract with you.
+  * **Withdraw consent at any time** where we are relying on consent to process your personal data. However, this will not affect the lawfulness of any processing carried out before you withdraw your consent. If you withdraw your consent, we may not be able to provide certain products or services to you. We will advise you if this is the case at the time you withdraw your consent.
+
+
+
+If you wish to exercise any of the rights set out above, please contact our data privacy manager Andrew Godfrey, GDPRenquiries@pressassociation.com. 
+
+**No fee usually required**
+
+You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. Alternatively, we may refuse to comply with your request in these circumstances.
+
+**What we may need from you**
+
+We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.
+
+**Time limit to respond**
+
+We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated. 
