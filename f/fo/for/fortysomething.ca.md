@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fortysomething.ca privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626055714id_/http%3A//www.fortysomething.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fortysomething.ca privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231083658id_/http%3A//www.fortysomething.ca/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Food and Family
+# Privacy Policy - Gourmet Grub
 
 The privacy of visitors to **Food and Family** is important to me.
 
