@@ -1,29 +1,29 @@
-> *The following text is extracted and transformed from the btcclicks.com privacy policy that was archived on 2015-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150420011458id_/http%3A//btcclicks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the btcclicks.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231073739id_/https%3A//btcclicks.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | BTC Clicks | Earn Bitcoins - Bitcoin Advertising - Bitcoin PTC
+# Privacy Policy | BTCClicks
 
-[Advertise now!](https://web.archive.org/advertise) Extremely competitive prices at **4.49 mBTC/1000 visitors**.  
-Longer ad view prices have been lowered. 20 second ads used to be 1.45x the price of 10 second ads, now they are only 1.3x the price.
+### Privacy Policy
 
-**BONUS: Withdraw to your Xapo wallet for the first time and receive 2 days worth of premium membership as a bonus.[Click here for more details.](https://web.archive.org/xapo)**
+Your privacy and the safety of your information are extremely import to us at BTCClicks. It is our policy to respect your privacy regarding any information we collect from you.
 
-BTC Clicks highly respects your privacy and will never risk your privacy.
+We do not collect any personally identifying information other than what is needed to provide you with our service. We will also let you know why we’re collecting it and how it will be used in the points below.
 
-Cookies
-    1\. To use our website, you must enable cookies.
-    2\. We use cookies to store your preferences and sessions.
-Account Security
-    1\. We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
-    2\. We are not responsible for personal information or account information stolen or accessed due to the failure of securing your device.
-Personal Information
-    1\. We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information (username, email, etc.)
-    2\. We will use your email to contact you or help you reset your password.
-Passwords
-    1\. Passwords are stored and encrypted in an irreversible format in our database.
-    2\. Plain-text passwords are not restorable and are never known.
-    3\. Encrypted passwords will never be sold, traded, or shared.
-Advertisements
-    1\. We do our best to avoid offensive ads. However, we are not responsible for any content in advertisements. If you find any ad not complying with our rules, please report it.
-    2\. By clicking a link and viewing an ad, you are agreeing to take responsibility for your own actions on that website.
-Your Consent
-    1\. By using our website, you are agreeing to our privacy policy and terms of service.
+##### Cookies and Website Analytics
+
+To be able to use our website and its services, cookies need to be enabled. We use cookies to store your preferences and sessions. Without these cookies we will be unable to keep you logged in between sessions. Cookies are also used on our website by our third-party web analytics services. 
+
+Our website uses Google Analytics, which is a service which collects website traffic data to Google's datacenters. Google Analytics does not collect any personally identfying data such as IP addresses or individual user identifiers. Google Analytics is only used to collect aggregated reports about our traffic to better understand how our website is being used. 
+
+##### Data Security
+
+We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. Whatever data we store, we'll protect within commercially acceptable means to prevent loss and theft, as well as unauthorised access, disclosure, copying, use or modification. 
+
+##### Liability
+
+While we do our best to protect your personal information, we are not liable for the loss or theft of information due to the failure of securing your own device or its compromise. We also link to external websites through links and advertisements that are not operated by us. As we do not have control over their content or practices, we are not responsible or liable for their own privacy policies. 
+
+##### Your Consent
+
+You are free to refuse our request for your personal information, with the understanding that we may be unable to provide you with some of your desired services.
+
+Your continued use of our website will be regarded as acceptance of our practices around privacy and personal information. If you have any questions about how we handle user data and personal information, feel free to contact us. 
