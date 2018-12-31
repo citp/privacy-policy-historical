@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starfall.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627043704id_/https%3A//teach.starfall.com/lv/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starfall.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231224242id_/https%3A//teach.starfall.com/lv/info/privacy) for the most accurate reproduction.*
 
 # Starfall Education - Parent-Teacher Center
 
