@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the bangornews.com privacy policy that was archived on 2018-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180630013426id_/https%3A//bangordailynews.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bangornews.com privacy policy that was archived on 2018-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181231191257id_/https%3A//bangordailynews.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en-US"><!--<![endif]--><head>
-    	<script type="text/javascript" async="" defer="" src="https://s3.amazonaws.com/downloads.mailchimp.com/js/goal.min.js"></script><script type="text/javascript" async="" defer="" src="https://js.matheranalytics.com/s/ma63069/92760912/sp.js?cb=1524"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-W3QLSF"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" src="https://cse.google.com/cse.js?cx=partner-pub-9916322126856371:7008677015"></script><script async="" src="//c.amazon-adsystem.com/aax2/apstag.js"></script><script>window.mrf={host:"bc.marfeel.com",dt:3},function(e,t,o,a,i,n,r){function s(){l&&(e.cookie="fromt=yes;path=/;expires="+new Date(Date.now()+18e5).toGMTString(),o.reload())}var l=!/marfeelgarda=no|fromt=yes/i.test(n+";"+i);if((/(ipad.*?OS )(?!1_|2_|3_|4_|X)|mozilla.*android (?!(1|2|3)\.)[0-9](?!.*mobile)|\bSilk\b/i.test(a)&&2&r.dt||/(ip(hone|od).*?OS )(?!1_|2_|3_|4_|X)|mozilla.*android (?!(1|2|3)\.)[0-9].*mobile|bb10/i.test(a)&&1&r.dt||/marfeelgarda=off/i.test(n))&&t===t.top){l&&e.write('<plaintext style="display:none">');var m="script",d=setTimeout(s,1e4),c=e.createElement(m),f=e.getElementsByTagName(m)[0];c.src="https://"+t.mrf.host+"/statics/marfeel/gardac.js",c.onerror=s,c.onload=function(){clearTimeout(d)},f.parentNode.insertBefore(c,f)}else{var p=o.pathname.split("/"),m=e.createElement("script");m.src="https://"+t.mrf.host+"/"+o.hostname+(r.multi&&p.length>1&&p[1].length?"/"+p[1]:"")+"/main.d.js",m.async=!0,e.head.appendChild(m)}}(document,window,location,navigator.userAgent,document.cookie,location.search,window.mrf);</script><script src="https://bc.marfeel.com/web.archive.org/main.d.js" async=""></script>
+        <script type="text/javascript" async="" defer="" src="https://s3.amazonaws.com/downloads.mailchimp.com/js/goal.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" defer="" src="https://js.matheranalytics.com/s/ma63069/92760912/sp.js?cb=1524"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-W3QLSF"></script><script type="text/javascript" async="" src="https://cse.google.com/cse.js?cx=partner-pub-9916322126856371:7008677015"></script><script async="" src="//c.amazon-adsystem.com/aax2/apstag.js"></script><script data-mrf-script="garda" data-mrf-host="bc.marfeelcache.com" src="https://bc.marfeelcache.com/statics/marfeel/gardac-sync.js"></script>
 	
     
     <!-- Rendering directives -->
@@ -25,9 +25,9 @@
 
     <!-- Social Metadata -->             
     <!-- Required Primary Stylesheet. Maybe providing alternate stylesheets  -->
-    <link rel="stylesheet" href="http://bangordailynews.com/wp-content/themes/bpc-full-goose/style.css?ver=2.0" type="text/css" media="screen,print">
-
-    <!-- Is this needed/helpful? -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
+            <link rel="stylesheet" href="http://bangordailynews.com/wp-content/themes/bpc-full-goose/assets/stylesheet/style.css?ver=3.2" type="text/css" media="screen,print">
+        <!-- Is this needed/helpful? -->
     <link rel="pingback" href="http://bangordailynews.com/xmlrpc.php">
 
     <!-- [if IE]>
@@ -48,8 +48,9 @@
 
                         console.log( 'SDK Init from Action' );
             var sdk = window.syncLoginSdk || {};
+            var sync_meta = window.document.head.querySelector("[name='__sync_contentCategory']");
             sdk.applicationOrigin = 'https://syncaccess-bpc-bdn.syncronex.com';
-            sdk.contentId = window.document.head.querySelector("[name='__sync_contentCategory']").getAttribute('content');
+            sdk.contentId = (sync_meta != null) ? sync_meta.getAttribute('content'):'free';
             sdk.debug = true;
             sdk.apiTimeout = 5000;
             sdk.sessionExpireDays = 30;
@@ -128,7 +129,8 @@
                 e.preventDefault();
                 sdk.logOut( function(data) {
                     console.log('Logout Succeeded');
-                    window.location = window.location.href;
+                    //window.location = window.location.href;
+                    window.location.reload();
                 }, function(data) {
                     console.log('Failed to Logout');
                 } );
@@ -146,7 +148,7 @@
             jQuery('#user-menu-button').addClass('sign-in');
             jQuery('#user-menu-button').attr('href','https://syncaccess-bpc-bdn.syncronex.com/bpc/bdn/Account/LogOn?ReturnUrl='+encodeURIComponent(location)+'');
             userspan.text( 'Sign In' );
-            userspan.next('i').attr('class','fa fa-sign-in');
+            userspan.next('i').attr('class','fas fa-sign-in-alt');
             loggedOutShow.show();
 
             //Strip sp-tk
@@ -166,7 +168,7 @@
     }
 </script>
 
-<script type="text/javascript" src="https://syncaccess-bpc-bdn.syncronex.com/bpc/bdn/api/scripts/syncwall?ver=1.0"></script>
+<script type="text/javascript" src="https://syncaccess-bpc-bdn.syncronex.com/bpc/bdn/api/scripts/syncwall?ver=1.0" async=""></script>
 
 <script type="application/javascript">
     function getCookie(cname) {
@@ -204,22 +206,26 @@
 
 <!-- Maybe load Header Bidder -->
 <script id="bdn-amazon-uam-tag">
-    //load the apstag.js library
-    !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+    var cancelUAM4Sponsored = false;
 
-    //initialize the apstag.js library on the page to allow bidding
-    apstag.init({
-        pubID: 'b9cc9a74-23ed-483b-9eb8-000dee4af668',
-        adServer: 'googletag',
-        simplerGPT: true
-    });
+    if ( !cancelUAM4Sponsored )  {
+        //load the apstag.js library
+        !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+
+        //initialize the apstag.js library on the page to allow bidding
+        apstag.init({
+            pubID: 'b9cc9a74-23ed-483b-9eb8-000dee4af668',
+            adServer: 'googletag',
+            simplerGPT: true
+        });
+    }
 </script>
 <!-- GPT Loaded Here-->
 <script>
     console.log( 'Pre Ad Registration' )
     googletag.cmd.push(function () {
                         
-        var leader_sizes = ( document.location.pathname.indexOf('/maine-elections/') ) ? [[970, 90], [970, 250], [970, 300],[728,90]] : [[970, 90], [728,90]]
+                var leader_sizes = ( document.location.pathname.indexOf('/maine-elections/') ) ? [[970, 90], [970, 250], [970, 300],[728,90]] : [[970, 90], [728,90]]
         leader_sizes = ( isMobileDevice() ) ? [[320,50],[300,50]]:leader_sizes;
         bpcads['bpcads-top-leaderboard'] = googletag.defineSlot('/21682974628/bangordailynews/privacy', leader_sizes, 'bpcads-top-leaderboard')
             .addService(googletag.pubads())
@@ -234,15 +240,11 @@
             .addService(googletag.pubads());
         
         // Set Page-Level Targeting
-        googletag.pubads().setTargeting("pub", "bdn");
-
-                        googletag.pubads().setTargeting("kw", [ "bdn","is_page","privacy" ]);
-        
-        
+                googletag.pubads().setTargeting("pub", "bdn");
+                googletag.pubads().setTargeting("kw", ["bdn","is_page","privacy"]);
                 googletag.pubads().setTargeting("page_name", "privacy");
         
-        
-        var loggedInStatus = loggedInStatus || ( localStorage['ls.authorizationData'] || getCookie('syncronex') );
+                var loggedInStatus = loggedInStatus || ( localStorage['ls.authorizationData'] || getCookie('syncronex') );
         if ( loggedInStatus && loggedInStatus != 'invalid' ) {
             console.log('Setting subscriber tag');
             googletag.pubads().setTargeting("bdn_subscriber", "true");
@@ -281,32 +283,70 @@
     </script>
 
     <!-- Enqueues come in here -->
-    <!-- Do Nativo  --><link rel="dns-prefetch" href="//s.ntv.io">
+    <!-- Do Nativo  --><!-- Google Tag Manager -->
+<script type="text/javascript">
+    window.dataLayer = window.dataLayer || [];
+    window.dataLayer.push({"event":"dataLayer-loaded","companyName":"Bangor Daily News","contentType":"section-privacy"});
+</script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-W3QLSF');</script>
+<!-- End Google Tag Manager -->
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script><link rel="dns-prefetch" href="//s.ntv.io">
 <link rel="dns-prefetch" href="//bangordailynews.com">
 <link rel="dns-prefetch" href="//platform.twitter.com">
 <link rel="dns-prefetch" href="//s.w.org">
 <link rel="dns-prefetch" href="//bdn-data.s3.amazonaws.com">
-		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/bangordailynews.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.6"}};
-			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="http://bangordailynews.com/wp-includes/js/wp-emoji-release.min.js?ver=4.9.6" type="text/javascript" defer=""></script>
-		<style type="text/css">
-img.wp-smiley,
-img.emoji {
-	display: inline !important;
-	border: none !important;
-	box-shadow: none !important;
-	height: 1em !important;
-	width: 1em !important;
-	margin: 0 .07em !important;
-	vertical-align: -0.1em !important;
-	background: none !important;
-	padding: 0 !important;
-}
-</style>
-<link rel="stylesheet" id="election-style-css" href="http://bangordailynews.com/wp-content/plugins/bpc-elections/elections.css?ver=1.4" type="text/css" media="all">
+<!-- Mather Listener Tag -->
+<script type="text/javascript">
+    /**
+     * Retrieve specific cookie val
+     * @param name
+     * @returns {null}
+     */
+    function getCookie(name) {
+        var re = new RegExp(name + "=([^;]+)");
+        var value = re.exec(document.cookie);
+        return (value != null) ? unescape(value[1]) : null;
+    }
+
+    (function () {
+        var _matherq;
+        var loadSp;
+
+        try {
+            _matherq = window.top._matherq;
+        }
+        catch (e) { }
+
+        if (!_matherq) {
+            _matherq = (window._matherq = window._matherq || []);
+            loadSp = true;
+        }
+
+        _matherq.push(['setCollectorUrl', 'www.i.matheranalytics.com']);
+        _matherq.push(['setAppId', 'v1']);
+        _matherq.push(['setCustomerId', 'ma63069']);
+        _matherq.push(['setMarket', '92760912']);
+        _matherq.push(['setSection', (dataLayer[0].primaryCategory || dataLayer[0].contentType || '').replace(/^section-/i, '')]);
+        _matherq.push(['setAuthor', dataLayer[0].author]);
+        _matherq.push(['setPageType', dataLayer[0].contentType]);
+        _matherq.push(['setArticlePublishTime', dataLayer[0].contentPublishedTime]);
+        _matherq.push(['setArticleUpdateTime', dataLayer[0].lastUpdatedTime]);
+        _matherq.push(['enableActivityTracking', 30, 10]);
+        _matherq.push(['trackPageView', null, { category: { categories: [[(dataLayer[0].allCategories || '').replace(/\|/g, ',')]] }} ]);
+
+        if (loadSp) {
+            var a = [].concat.apply([], _matherq);
+            var src = a[a.indexOf('setCustomerId') + 1] + '/' + a[a.indexOf('setMarket') + 1] + '/sp.js?cb=' + Math.round(new Date() / 1.0368e9);
+            var sp = document.createElement('script'); sp.type = 'text/javascript'; sp.async = true; sp.defer = true;
+            sp._mather_tag = document.scripts[document.scripts.length - 1]; sp._mather_sp = sp.uniqueID;
+            sp.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://js.matheranalytics.com/s/' + src;
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sp, s);
+        }
+    })();
+</script>
+<noscript><img src="http://www.i.matheranalytics.com/i?e=pv&aid=v1&cid=ma63069&mrk=92760912&p=web&tv=no-js-0.1.0&tid=<?php echo time();?>" style="display:none" height="1" width="1" alt/></noscript>
+<link rel="stylesheet" id="election-style-css" href="http://bangordailynews.com/wp-content/plugins/bpc-elections/elections.css?ver=1.7" type="text/css" media="all">
 <link rel="stylesheet" id="contact-form-7-css" href="http://bangordailynews.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.7" type="text/css" media="all">
-<link rel="stylesheet" id="font-awesome-css" href="http://bangordailynews.com/wp-content/themes/bpc-full-goose/assets/contrib/font-awesome/scss/font-awesome.css?ver=0.0.1" type="text/css" media="all">
 <script type="text/javascript" src="https://s.ntv.io/serve/load.js?ver=2" async="async"></script>
 <script type="text/javascript" src="http://bangordailynews.com/wp-content/plugins/bdn-plugins/js/audience.js?ver=14"></script>
 <script type="text/javascript" src="http://bangordailynews.com/wp-content/themes/bpc-full-goose/assets/js/jwplayer-listener.js?ver=20170410.1"></script>
@@ -315,20 +355,17 @@ img.emoji {
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://bangordailynews.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://bangordailynews.com/wp-includes/wlwmanifest.xml"> 
 <meta name="generator" content="WordPress 4.9.6">
-<link rel="canonical" href="http://bangordailynews.com/privacy/">
 <link rel="shortlink" href="http://bangordailynews.com/?p=680034">
 <link rel="alternate" type="application/json+oembed" href="http://bangordailynews.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fbangordailynews.com%2Fprivacy%2F">
 <link rel="alternate" type="text/xml+oembed" href="http://bangordailynews.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fbangordailynews.com%2Fprivacy%2F&amp;format=xml">
-	<script>(function() { var _fbq = window._fbq || (window._fbq = []); if (!_fbq.loaded) { var fbds = document.createElement('script'); fbds.async = true; fbds.src = '//connect.facebook.net/en_US/fbds.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(fbds, s); _fbq.loaded = true; } _fbq.push(['addPixelId', '413375698823720']); })(); window._fbq = window._fbq || []; window._fbq.push(['track', 'PixelInitialized', {}]); </script>
-	<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=413375698823dd720&ev=PixelInitialized" /></noscript>
 	<script id="electionsjs" type="application/javascript">
         var race_results = race_results || []
         var bpcElections = {
             get_race_result: function( source, race, type, filter, from ) {
-                jQuery('#race_result-'+source+"-"+race+"-"+type+"-"+filter).find('.rr_header h3').append(jQuery('<i class="fa fa-refresh fa-spin"></i>'));
+                jQuery('#race_result-'+source+"-"+race+"-"+type+"-"+filter).find('.rr_header h3').append(jQuery('<i class="fas fa-sync fa-spin"></i>'));
 
                 jQuery.ajax({
-                    type: 'POST',
+                    type: 'GET',
                     dataType: 'json',
                     url: ajax_login_object.ajaxurl,
                     data: {
@@ -355,7 +392,7 @@ img.emoji {
             },
             get_race_result_map: function( source, race, type, filter, from ){
                 jQuery.ajax({
-                    type: 'POST',
+                    type: 'GET',
                     dataType: 'json',
                     url: ajax_login_object.ajaxurl,
                     data: {
@@ -383,7 +420,7 @@ img.emoji {
                             colors[data.candidates[i].id] = "hsla("+Math.round(i*chunk)+",60%,70%,1.0)";
                             cands[data.candidates[i].id] = data.candidates[i]
                         }
-                        jQuery('div.widget.bpc_fauxmap_widget div.legend .header').text(data.meta.party+" "+data.meta.officeName+" "+data.meta.raceType);
+                        jQuery('div.widget.bpc_fauxmap_widget div.legend .header').text((data.meta.party?(data.meta.party+" "):"")+data.meta.officeName+" "+data.meta.raceType);
 
                         jQuery.each(data.counties, function(cname,cobj) {
                             var county_total = Object.values(cobj.votes).reduce(function(acc, val) { return acc + val; });
@@ -398,7 +435,7 @@ img.emoji {
                             container.find('.header').text(cname.charAt(0).toUpperCase()+cname.substr(1)+" County");
                             for (var i = 0; i < data.candidates.length; i++) {
                                 var item = "<li>" +
-                                    "<span class='box' style='background-color:" + colors[data.candidates[i].id] + ";'></span>" +
+                                    "<span class='box' style='background-color:" + data.candidates[i].color + ";'></span>" +
                                     "<span class='name'>" + data.candidates[i].fname + " " + data.candidates[i].lname + "</span>" +
                                     "<span class='votes'>" + cobj.votes[data.candidates[i].id] + "</span>" +
                                     "</li>";
@@ -411,15 +448,15 @@ img.emoji {
                             // Path Stuff
                             var cpath = jQuery('path#'+cname);
                             var thistooltip = jQuery('#tooltip-'+cname);
-                            $(cpath).hover(function() {
+                            jQuery(cpath).hover(function() {
                                 thistooltip.addClass('active');
-                                $(cpath).addClass('hovered');
+                                jQuery(cpath).addClass('hovered');
                             }, function() {
                                 thistooltip.removeClass('active');
-                                $(cpath).removeClass('hovered');
+                                jQuery(cpath).removeClass('hovered');
                             });
 
-                            $(document).on('mousemove', function(e){
+                            jQuery(document).on('mousemove', function(e){
                                 thistooltip.css({
                                     left:  e.pageX,
                                     top:   e.pageY - (thistooltip.height()+30)
@@ -428,9 +465,9 @@ img.emoji {
 
 
                             if (county_total > 0) {
-                                var cwinnername = cands[total_winner].fname + " " + cands[total_winner].fname;
-                                console.log(cname + " leader is " + county_winner + " " + cands[county_winner].fname + " " + cands[county_winner].lname);
-                                cpath.attr('fill',colors[county_winner]);
+                                 var cwinnername = cands[total_winner].fname + " " + cands[total_winner].fname;
+                                 console.log(cname + " leader is " + county_winner + " " + cands[county_winner].fname + " " + cands[county_winner].lname);
+                                cpath.attr('fill',cobj.county_color);
                             } else {
                                 cpath.attr('fill','#ccc');
                             }
@@ -467,33 +504,42 @@ img.emoji {
                         vote_percent = (Number.isNaN(vote_percent)) ? 0 : vote_percent;
 
                         var winner = "";
-                        if ( op['called'] != false ) winner = " <i class='fa fa-check-square-o' style='padding-right: 10px;' aria-hidden='true'></i>";
+                        if ( op['called'] != false ) winner = " <i class='fas fa-check-circle' aria-hidden='true'></i>";
 
+                        var fullname = ( op['lname'] == 'Yes' || op['lname']=='No' ) ? '':(op['fname']+" ");
+                        fullname += op['lname'];
+                        var party = (op['lname'] == 'Yes' || op['lname']=='No') ? ' ':(' ('+op['party']+') ');
                         var op_div = jQuery("<div class='option'></div>")
                         op_div.append(jQuery("<div class='progress_cont'></div>").append(
                             jQuery("<div class='progress'></div>").attr('style', 'width:' + vote_percent + '%')
                         ).append(
-                            jQuery("<span class='pvotes'></span>").text(op['fname'] + " " + op['lname'] + "  " + r.votes[op.id] + "")
+                            jQuery("<span class='pvotes'></span>").text(fullname + party + r.votes[op.id] + "")
                         )).append(
                             jQuery("<span class='percent'></span>").text(vote_percent + '%')
                         );
                         op_div.find("span.pvotes").prepend(jQuery(winner));
-                        if ( winner != "" )
+                        if ( winner != "" && winner != null )
                             op_div.find("div.progress").addClass('winner');
                         else
                             op_div.find("div.progress").removeClass('winner');
 
                         op_list.append(op_div);
                     };
-                    op_list.parent().find('div.ptr').text("Precincts Reporting " + r.precincts.reporting+ " of "+r.precincts.total);
+                    if ( jQuery.isEmptyObject(r.county) ) {
+                        op_list.parent().find('span.prtr-msg').text("Precincts Reporting " + r.precincts.reporting+ " of "+r.precincts.total);
+                    } else {
+                        op_list.parent().find('span.prtr-msg').text("Precincts Reporting " + r.precincts.county.reporting+ " of "+r.precincts.county.total);
+                    }
                 }
             }
         }
 	</script>
-	
+	            <meta itemprop="pageType" content="main">
+            <meta itemprop="inLanguage" content="en">
+            
 
 <!-- This site is optimized with the Schema plugin v1.6.9 - http://schema.press -->
-<script type="application/ld+json">{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"http:\/\/bangordailynews.com\/privacy\/"},"url":"http:\/\/bangordailynews.com\/privacy\/","headline":"Privacy Policy","datePublished":"2011-04-22T14:49:10+00:00","dateModified":"2018-05-25T09:50:13+00:00","publisher":{"@type":"Organization","name":"Bangor Daily News","logo":{"@type":"ImageObject","url":"","width":600,"height":60}},"description":"This Privacy Policy discloses the general privacy practices for Bangor Daily News websites, which include all sites owned by Bangor Publishing Company. We may change this policy from time to time by updating this page. You should check this page from time to time to be aware of any","author":{"@type":"Person","name":"Contributed","url":"http:\/\/bangordailynews.com\/author\/bdndefault\/"}}</script>
+<script type="application/ld+json">{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"http:\/\/bangordailynews.com\/privacy\/"},"url":"http:\/\/bangordailynews.com\/privacy\/","headline":"Privacy Policy","datePublished":"2011-04-22T14:49:10+00:00","dateModified":"2018-12-21T13:19:06+00:00","publisher":{"@type":"Organization","name":"Bangor Daily News","logo":{"@type":"ImageObject","url":"","width":600,"height":60}},"description":"This Privacy Policy discloses the general privacy practices for Bangor Daily News websites, which include all sites owned by Bangor Publishing Company. We may change this policy from time to time by updating this page. You should check this page from time to time to be aware of any","author":{"@type":"Person","name":"Contributed","url":"http:\/\/bangordailynews.com\/author\/bdndefault\/"}}</script>
 
 
     <script>
@@ -517,68 +563,6 @@ img.emoji {
 
 	
 
-    	<!-- Google Tag Manager -->
-	<script type="text/javascript">
-		window.dataLayer = window.dataLayer || [];
-		window.dataLayer.push({"event":"dataLayer-loaded","companyName":"Bangor Daily News","contentType":"section-privacy"});
-	</script>
-
-	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-W3QLSF');</script>
-	<!-- End Google Tag Manager -->
-
-<!-- mather listener tag -->
-    <script type="text/javascript">
-        /**
-         * Retrieve specific cookie val
-         * @param name
-         * @returns {null}
-         */
-        function getCookie(name)
-        {
-            var re = new RegExp(name + "=([^;]+)");
-            var value = re.exec(document.cookie);
-            return (value != null) ? unescape(value[1]) : null;
-        }
-
-        (function () {
-            var _matherq;
-            var loadSp;
-
-            try {
-                _matherq = window.top._matherq;
-            }
-            catch (e) { }
-
-            if (!_matherq) {
-                _matherq = (window._matherq = window._matherq || []);
-                loadSp = true;
-            }
-
-            _matherq.push(['setCollectorUrl', 'www.i.matheranalytics.com']);
-            _matherq.push(['setAppId', 'v1']);
-            _matherq.push(['setCustomerId', 'ma63069']);
-            _matherq.push(['setMarket', '92760912']);
-            _matherq.push(['setSection', (dataLayer[0].primaryCategory || dataLayer[0].contentType || '').replace(/^section-/i, '')]);
-            _matherq.push(['setAuthor', dataLayer[0].author]);
-            _matherq.push(['setPageType', dataLayer[0].contentType]);
-            _matherq.push(['setArticlePublishTime', dataLayer[0].contentPublishedTime]);
-            _matherq.push(['setArticleUpdateTime', dataLayer[0].lastUpdatedTime]);
-            _matherq.push(['enableActivityTracking', 30, 10]);
-            _matherq.push(['trackPageView', null, { category: { categories: [[(dataLayer[0].allCategories || '').replace(/\|/g, ',')]] }} ]);
-
-            if (loadSp) {
-                var a = [].concat.apply([], _matherq);
-                var src = a[a.indexOf('setCustomerId') + 1] + '/' + a[a.indexOf('setMarket') + 1] + '/sp.js?cb=' + Math.round(new Date() / 1.0368e9);
-                var sp = document.createElement('script'); sp.type = 'text/javascript'; sp.async = true; sp.defer = true;
-                sp._mather_tag = document.scripts[document.scripts.length - 1]; sp._mather_sp = sp.uniqueID;
-                sp.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://js.matheranalytics.com/s/' + src;
-                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sp, s);
-            }
-        })();
-    </script>
-    <noscript><img src="http://www.i.matheranalytics.com/i?e=pv&aid=v1&cid=ma63069&mrk=92760912&p=web&tv=no-js-0.1.0&tid=1530322466" style="display:none" height="1" width="1" alt/></noscript>
-
-
 	<script type="text/javascript">
 	var BdnAdsCommandArray = new Array();
 	</script>
@@ -586,7 +570,7 @@ img.emoji {
 					<script async="" type="text/javascript" src="//bdn.disqus.com/count.js"></script></head>
 
 	<body class="page-template-default page page-id-680034" data-template="base.twig">
-				
+		
 		<script type="text/javascript">
 	(function() {
 	  var ARTICLE_URL = window.location.href;
@@ -599,9 +583,9 @@ img.emoji {
 	    '&amp;random='+(new Date).getTime()+
 	    '" type="text/javascript">'+'\x3C/scr'+'ipt>');
 	})();
-	</script><script src="//survey.g.doubleclick.net/survey?site=_co4sl7ki43vcs&amp;url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20180630013426id_%2Fhttp%3A%2F%2Fbangordailynews.com%2Fprivacy%2F&amp;cid=everything&amp;random=1580377879925" type="text/javascript"></script>
+	</script><script src="//survey.g.doubleclick.net/survey?site=_co4sl7ki43vcs&amp;url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20181231191257id_%2Fhttp%3A%2F%2Fbangordailynews.com%2Fprivacy%2F&amp;cid=everything&amp;random=1580377874194" type="text/javascript"></script>
     
-					<!-- Default Site Header -->
+		            <!-- Default Site Header -->
 <header id="comp-header" class="comp-header">
     <nav id="nav-top" class="nav nav-bar nav-top" role="navigation">
         <!-- Location of appearing mobile logo -->
@@ -640,10 +624,10 @@ img.emoji {
                 </ul>
                 <!-- Section Section -->
                                     <ul id="menu-main-nav" class="menu menu-main-nav nav-part show hidden-xs">
-                                                    
+                                                                        
                                                     
                             <li id="menu-item-1" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-2494238 menu-item">
-                    <a href="https://bangordailynews.com/?ref=main-nav" id="home" class="" target="_self">
+                    <a href="http://bangordailynews.com/?ref=main-nav" id="home" class="" target="_self">
                         Home
                     </a>
                     <ul id="menu-main-nav" class="menu menu-main-nav menu menu-main-nav nav-part show hidden-xs">
@@ -653,7 +637,7 @@ img.emoji {
                                             
                                                     
                             <li id="menu-item-2" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-2578441 menu-item">
-                    <a href="https://bangordailynews.com/news/?ref=main-nav" id="news" class="" target="_self">
+                    <a href="http://bangordailynews.com/news/?ref=main-nav" id="news" class="" target="_self">
                         News
                     </a>
                     <ul id="menu-main-nav" class="menu menu-main-nav menu menu-main-nav nav-part show hidden-xs">
@@ -663,7 +647,7 @@ img.emoji {
                                             
                                                     
                             <li id="menu-item-3" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-2494189 menu-item">
-                    <a href="https://bangordailynews.com/politics/?ref=main-nav" id="politics" class="" target="_self">
+                    <a href="http://bangordailynews.com/politics/?ref=main-nav" id="politics" class="" target="_self">
                         Politics
                     </a>
                     <ul id="menu-main-nav" class="menu menu-main-nav menu menu-main-nav nav-part show hidden-xs">
@@ -673,7 +657,7 @@ img.emoji {
                                             
                                                     
                             <li id="menu-item-4" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-2494190 menu-item">
-                    <a href="https://bangordailynews.com/business/?ref=main-nav" id="business" class="" target="_self">
+                    <a href="http://bangordailynews.com/business/?ref=main-nav" id="business" class="" target="_self">
                         Business
                     </a>
                     <ul id="menu-main-nav" class="menu menu-main-nav menu menu-main-nav nav-part show hidden-xs">
@@ -682,18 +666,8 @@ img.emoji {
                 </li>
                                             
                                                     
-                            <li id="menu-item-5" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-2579997 menu-item">
-                    <a href="https://bangordailynews.com/homestead/?ref=main-nav" id="homestead" class="" target="_self">
-                        Homestead
-                    </a>
-                    <ul id="menu-main-nav" class="menu menu-main-nav menu menu-main-nav nav-part show hidden-xs">
-    		<!-- No menu found -->
-    </ul>
-                </li>
-                                            
-                                                    
-                            <li id="menu-item-6" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-2494226 menu-item">
-                    <a href="https://bangordailynews.com/arts-and-culture/?ref=main-nav" id="arts" class="" target="_self">
+                            <li id="menu-item-5" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-2494226 menu-item">
+                    <a href="http://bangordailynews.com/arts-and-culture/?ref=main-nav" id="arts" class="" target="_self">
                         Arts
                     </a>
                     <ul id="menu-main-nav" class="menu menu-main-nav menu menu-main-nav nav-part show hidden-xs">
@@ -702,8 +676,8 @@ img.emoji {
                 </li>
                                             
                                                     
-                            <li id="menu-item-7" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-2494195 menu-item">
-                    <a href="https://bangordailynews.com/living/food/?ref=main-nav" id="food" class="" target="_self">
+                            <li id="menu-item-6" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-2494195 menu-item">
+                    <a href="http://bangordailynews.com/living/food/?ref=main-nav" id="food" class="" target="_self">
                         Food
                     </a>
                     <ul id="menu-main-nav" class="menu menu-main-nav menu menu-main-nav nav-part show hidden-xs">
@@ -712,8 +686,8 @@ img.emoji {
                 </li>
                                             
                                                     
-                            <li id="menu-item-8" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-2494192 menu-item">
-                    <a href="https://bangordailynews.com/sports/?ref=main-nav" id="sports" class="" target="_self">
+                            <li id="menu-item-7" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-2494192 menu-item">
+                    <a href="http://bangordailynews.com/sports/?ref=main-nav" id="sports" class="" target="_self">
                         Sports
                     </a>
                     <ul id="menu-main-nav" class="menu menu-main-nav menu menu-main-nav nav-part show hidden-xs">
@@ -722,8 +696,8 @@ img.emoji {
                 </li>
                                             
                                                     
-                            <li id="menu-item-9" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-2494193 menu-item">
-                    <a href="https://bangordailynews.com/outdoors/?ref=main-nav" id="outdoors" class="" target="_self">
+                            <li id="menu-item-8" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-2494193 menu-item">
+                    <a href="http://bangordailynews.com/outdoors/?ref=main-nav" id="outdoors" class="" target="_self">
                         Outdoors
                     </a>
                     <ul id="menu-main-nav" class="menu menu-main-nav menu menu-main-nav nav-part show hidden-xs">
@@ -732,8 +706,8 @@ img.emoji {
                 </li>
                                             
                                                     
-                            <li id="menu-item-10" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-2494196 menu-item">
-                    <a href="https://bangordailynews.com/opinion/?ref=main-nav" id="opinion" class="" target="_self">
+                            <li id="menu-item-9" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-2494196 menu-item">
+                    <a href="http://bangordailynews.com/opinion/?ref=main-nav" id="opinion" class="" target="_self">
                         Opinion
                     </a>
                     <ul id="menu-main-nav" class="menu menu-main-nav menu menu-main-nav nav-part show hidden-xs">
@@ -742,7 +716,7 @@ img.emoji {
                 </li>
                                             
                                                     
-                            <li id="menu-item-11" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-2494197 menu-item">
+                            <li id="menu-item-10" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-2494197 menu-item">
                     <a href="http://obituaries.bangordailynews.com/?ref=main-nav" id="obituaries" class="" target="_self">
                         Obituaries
                     </a>
@@ -752,7 +726,7 @@ img.emoji {
                 </li>
                                             
                                                     
-                            <li id="menu-item-12" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-2494242 menu-item">
+                            <li id="menu-item-11" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-2494242 menu-item">
                     <a href="http://classifieds.bangordailynews.com/?ref=main-nav" id="classifieds" class="" target="_self">
                         Classifieds
                     </a>
@@ -762,9 +736,9 @@ img.emoji {
                 </li>
                                             
                                                     
-                            <li id="menu-item-13" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-2578442 menu-item">
-                    <a href="http://www.mainenotices.com/?utm_source=bangordailynews.com&amp;utm_medium=referral&amp;utm_campaign=menu?ref=main-nav" id="public-notices" class="" target="_blank">
-                        Public Notices
+                            <li id="menu-item-12" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-2578443 menu-item">
+                    <a href="http://jobs.bangordailynews.com/?ref=main-nav" id="jobs" class="" target="_self">
+                        Jobs
                     </a>
                     <ul id="menu-main-nav" class="menu menu-main-nav menu menu-main-nav nav-part show hidden-xs">
     		<!-- No menu found -->
@@ -772,9 +746,9 @@ img.emoji {
                 </li>
                                             
                                                     
-                            <li id="menu-item-14" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-2578443 menu-item">
-                    <a href="http://jobs.bangordailynews.com/?ref=main-nav" id="jobs" class="" target="_self">
-                        Jobs
+                            <li id="menu-item-13" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-2704887 menu-item">
+                    <a href="https://hellohomestead.com/?ref=main-nav" id="hello-homestead" class="" target="_self">
+                        | Hello Homestead |
                     </a>
                     <ul id="menu-main-nav" class="menu menu-main-nav menu menu-main-nav nav-part show hidden-xs">
     		<!-- No menu found -->
@@ -785,9 +759,9 @@ img.emoji {
             <!-- Location of Right Side Menu Items -->
             <div class="nav-right">
                 <ul class="button-list-compact">
-                    <li id="nav-user" class="hidden-xs" data-show-identity="true" data-menu="user-menu">
-                        <a id="user-menu-button" class="button">
-                            <span class="username"></span> <i class="v"></i>
+                    <li id="nav-user" class="" data-show-identity="true" data-menu="user-menu">
+                        <a id="user-menu-button" class="button" style="">
+                            <span class="username hidden-xs" style="margin-right: 5px;"></span> <i class="v"></i>
                         </a>
                     </li>
                                                                                                                                         <li id="nav-subscribe" class="hidden-xs">
@@ -822,10 +796,10 @@ img.emoji {
                 </div>
                 <div id="contact-submit-menu" class="header-login-menu closed" style="display: none;">
                     <ul id="menu-contact-submit-nav" class="menu menu-contact-submit-nav nav-part">
-                                                    
+                                                                        
                                                     
                             <li id="menu-item-1" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-2543146 menu-item">
-                    <a href="https://bangordailynews.com/customer-service/?ref=contact-submit-nav" id="customer-service" class="" target="_self">
+                    <a href="http://bangordailynews.com/customer-service/?ref=contact-submit-nav" id="customer-service" class="" target="_self">
                         Customer service
                     </a>
                     <ul id="menu-contact-submit-nav" class="menu menu-contact-submit-nav menu menu-contact-submit-nav nav-part">
@@ -835,7 +809,7 @@ img.emoji {
                                             
                                                     
                             <li id="menu-item-2" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-2584926 menu-item">
-                    <a href="https://bangordailynews.com/subscriber-center/?ref=contact-submit-nav" id="subscriber-center" class="" target="_self">
+                    <a href="http://bangordailynews.com/subscriber-center/?ref=contact-submit-nav" id="subscriber-center" class="" target="_self">
                         Subscriber center
                     </a>
                     <ul id="menu-contact-submit-nav" class="menu menu-contact-submit-nav menu menu-contact-submit-nav nav-part">
@@ -844,8 +818,18 @@ img.emoji {
                 </li>
                                             
                                                     
-                            <li id="menu-item-3" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-2582784 menu-item">
-                    <a href="https://bangordailynews.com/submit-content/?ref=contact-submit-nav" id="submit-content" class="" target="_self">
+                            <li id="menu-item-3" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-2671990 menu-item">
+                    <a href="https://syncaccess-bpc-bdn.syncronex.com/bpc/bdn/Account/Register/?ref=contact-submit-nav" id="register-to-read-more" class="" target="_self">
+                        Register to read more
+                    </a>
+                    <ul id="menu-contact-submit-nav" class="menu menu-contact-submit-nav menu menu-contact-submit-nav nav-part">
+    		<!-- No menu found -->
+    </ul>
+                </li>
+                                            
+                                                    
+                            <li id="menu-item-4" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-2582784 menu-item">
+                    <a href="http://bangordailynews.com/submit-content/?ref=contact-submit-nav" id="submit-content" class="" target="_self">
                         Submit content
                     </a>
                     <ul id="menu-contact-submit-nav" class="menu menu-contact-submit-nav menu menu-contact-submit-nav nav-part">
@@ -854,8 +838,8 @@ img.emoji {
                 </li>
                                             
                                                     
-                            <li id="menu-item-4" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-2494299 menu-item">
-                    <a href="https://bangordailynews.com/corrections/report/?ref=contact-submit-nav" id="submit-correction" class="" target="_self">
+                            <li id="menu-item-5" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-2494299 menu-item">
+                    <a href="http://bangordailynews.com/corrections/report/?ref=contact-submit-nav" id="submit-correction" class="" target="_self">
                         Submit correction
                     </a>
                     <ul id="menu-contact-submit-nav" class="menu menu-contact-submit-nav menu menu-contact-submit-nav nav-part">
@@ -864,7 +848,7 @@ img.emoji {
                 </li>
                                             
                                                     
-                            <li id="menu-item-5" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-2494301 menu-item">
+                            <li id="menu-item-6" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-2494301 menu-item">
                     <a href="http://obituaries.bangordailynews.com?ref=contact-submit-nav" id="place-obituary" class="" target="_self">
                         Place obituary
                     </a>
@@ -874,7 +858,7 @@ img.emoji {
                 </li>
                                             
                                                     
-                            <li id="menu-item-6" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-2494302 menu-item">
+                            <li id="menu-item-7" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-2494302 menu-item">
                     <a href="http://classifieds.bangordailynews.com?ref=contact-submit-nav" id="place-classified-ad" class="" target="_self">
                         Place classified ad
                     </a>
@@ -884,7 +868,7 @@ img.emoji {
                 </li>
                                             
                                                     
-                            <li id="menu-item-7" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-2494304 menu-item">
+                            <li id="menu-item-8" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-2494304 menu-item">
                     <a href="mailto:advertise@bangordailynews.com?Subject=Advertising%20Inquiry?ref=contact-submit-nav" id="advertise-with-us" class="" target="_self">
                         Advertise with us
                     </a>
@@ -900,16 +884,16 @@ img.emoji {
     <div id="breaking-news-banner" class="banner"></div>
 </header>
 <div style="clear:both; margin-top:50px;"></div>
-				            <div id="nav-side" class="wrapper closed">
+        		            <div id="nav-side" class="wrapper closed">
         <div id="nav-side-body" class="closed">
         <div id="nav-side-content">
             <div id="nav-side-content-sections" class="nav-side-piece">
                 <div class="nav-side-piece-header">Sections</div>
                 <ul id="menu-side-menu" class="menu menu-side-menu">
-                                                    
+                                                                        
                                                     
                             <li id="menu-item-1" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-2494238 menu-item">
-                    <a href="https://bangordailynews.com/?ref=side-menu" id="home" class="" target="_self">
+                    <a href="http://bangordailynews.com/?ref=side-menu" id="home" class="" target="_self">
                         Home
                     </a>
                     <ul id="menu-side-menu" class="menu menu-side-menu menu menu-side-menu">
@@ -919,7 +903,7 @@ img.emoji {
                                             
                                                     
                             <li id="menu-item-2" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-2578441 menu-item">
-                    <a href="https://bangordailynews.com/news/?ref=side-menu" id="news" class="" target="_self">
+                    <a href="http://bangordailynews.com/news/?ref=side-menu" id="news" class="" target="_self">
                         News
                     </a>
                     <ul id="menu-side-menu" class="menu menu-side-menu menu menu-side-menu">
@@ -929,7 +913,7 @@ img.emoji {
                                             
                                                     
                             <li id="menu-item-3" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-2494189 menu-item">
-                    <a href="https://bangordailynews.com/politics/?ref=side-menu" id="politics" class="" target="_self">
+                    <a href="http://bangordailynews.com/politics/?ref=side-menu" id="politics" class="" target="_self">
                         Politics
                     </a>
                     <ul id="menu-side-menu" class="menu menu-side-menu menu menu-side-menu">
@@ -939,7 +923,7 @@ img.emoji {
                                             
                                                     
                             <li id="menu-item-4" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-2494190 menu-item">
-                    <a href="https://bangordailynews.com/business/?ref=side-menu" id="business" class="" target="_self">
+                    <a href="http://bangordailynews.com/business/?ref=side-menu" id="business" class="" target="_self">
                         Business
                     </a>
                     <ul id="menu-side-menu" class="menu menu-side-menu menu menu-side-menu">
@@ -948,18 +932,8 @@ img.emoji {
                 </li>
                                             
                                                     
-                            <li id="menu-item-5" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-2579997 menu-item">
-                    <a href="https://bangordailynews.com/homestead/?ref=side-menu" id="homestead" class="" target="_self">
-                        Homestead
-                    </a>
-                    <ul id="menu-side-menu" class="menu menu-side-menu menu menu-side-menu">
-    		<!-- No menu found -->
-    </ul>
-                </li>
-                                            
-                                                    
-                            <li id="menu-item-6" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-2494226 menu-item">
-                    <a href="https://bangordailynews.com/arts-and-culture/?ref=side-menu" id="arts" class="" target="_self">
+                            <li id="menu-item-5" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-2494226 menu-item">
+                    <a href="http://bangordailynews.com/arts-and-culture/?ref=side-menu" id="arts" class="" target="_self">
                         Arts
                     </a>
                     <ul id="menu-side-menu" class="menu menu-side-menu menu menu-side-menu">
@@ -968,8 +942,8 @@ img.emoji {
                 </li>
                                             
                                                     
-                            <li id="menu-item-7" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-2494195 menu-item">
-                    <a href="https://bangordailynews.com/living/food/?ref=side-menu" id="food" class="" target="_self">
+                            <li id="menu-item-6" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-2494195 menu-item">
+                    <a href="http://bangordailynews.com/living/food/?ref=side-menu" id="food" class="" target="_self">
                         Food
                     </a>
                     <ul id="menu-side-menu" class="menu menu-side-menu menu menu-side-menu">
@@ -978,8 +952,8 @@ img.emoji {
                 </li>
                                             
                                                     
-                            <li id="menu-item-8" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-2494192 menu-item">
-                    <a href="https://bangordailynews.com/sports/?ref=side-menu" id="sports" class="" target="_self">
+                            <li id="menu-item-7" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-2494192 menu-item">
+                    <a href="http://bangordailynews.com/sports/?ref=side-menu" id="sports" class="" target="_self">
                         Sports
                     </a>
                     <ul id="menu-side-menu" class="menu menu-side-menu menu menu-side-menu">
@@ -988,8 +962,8 @@ img.emoji {
                 </li>
                                             
                                                     
-                            <li id="menu-item-9" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-2494193 menu-item">
-                    <a href="https://bangordailynews.com/outdoors/?ref=side-menu" id="outdoors" class="" target="_self">
+                            <li id="menu-item-8" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-2494193 menu-item">
+                    <a href="http://bangordailynews.com/outdoors/?ref=side-menu" id="outdoors" class="" target="_self">
                         Outdoors
                     </a>
                     <ul id="menu-side-menu" class="menu menu-side-menu menu menu-side-menu">
@@ -998,8 +972,8 @@ img.emoji {
                 </li>
                                             
                                                     
-                            <li id="menu-item-10" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-2494196 menu-item">
-                    <a href="https://bangordailynews.com/opinion/?ref=side-menu" id="opinion" class="" target="_self">
+                            <li id="menu-item-9" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-2494196 menu-item">
+                    <a href="http://bangordailynews.com/opinion/?ref=side-menu" id="opinion" class="" target="_self">
                         Opinion
                     </a>
                     <ul id="menu-side-menu" class="menu menu-side-menu menu menu-side-menu">
@@ -1008,7 +982,7 @@ img.emoji {
                 </li>
                                             
                                                     
-                            <li id="menu-item-11" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-2494197 menu-item">
+                            <li id="menu-item-10" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-2494197 menu-item">
                     <a href="http://obituaries.bangordailynews.com/?ref=side-menu" id="obituaries" class="" target="_self">
                         Obituaries
                     </a>
@@ -1018,7 +992,7 @@ img.emoji {
                 </li>
                                             
                                                     
-                            <li id="menu-item-12" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-2494242 menu-item">
+                            <li id="menu-item-11" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-2494242 menu-item">
                     <a href="http://classifieds.bangordailynews.com/?ref=side-menu" id="classifieds" class="" target="_self">
                         Classifieds
                     </a>
@@ -1028,9 +1002,9 @@ img.emoji {
                 </li>
                                             
                                                     
-                            <li id="menu-item-13" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-2578442 menu-item">
-                    <a href="http://www.mainenotices.com/?utm_source=bangordailynews.com&amp;utm_medium=referral&amp;utm_campaign=menu?ref=side-menu" id="public-notices" class="" target="_blank">
-                        Public Notices
+                            <li id="menu-item-12" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-2578443 menu-item">
+                    <a href="http://jobs.bangordailynews.com/?ref=side-menu" id="jobs" class="" target="_self">
+                        Jobs
                     </a>
                     <ul id="menu-side-menu" class="menu menu-side-menu menu menu-side-menu">
     		<!-- No menu found -->
@@ -1038,9 +1012,9 @@ img.emoji {
                 </li>
                                             
                                                     
-                            <li id="menu-item-14" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-2578443 menu-item">
-                    <a href="http://jobs.bangordailynews.com/?ref=side-menu" id="jobs" class="" target="_self">
-                        Jobs
+                            <li id="menu-item-13" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-2704887 menu-item">
+                    <a href="https://hellohomestead.com/?ref=side-menu" id="hello-homestead" class="" target="_self">
+                        | Hello Homestead |
                     </a>
                     <ul id="menu-side-menu" class="menu menu-side-menu menu menu-side-menu">
     		<!-- No menu found -->
@@ -1051,10 +1025,10 @@ img.emoji {
             <div id="nav-side-content-regions" class="nav-side-piece">
                 <div class="nav-side-piece-header">Regions</div>
                 <ul id="menu-side-region" class="menu menu-side-region">
-                                                    
+                                                                        
                                                     
                             <li id="menu-item-1" class=" menu-item menu-item-type-taxonomy menu-item-object-region current-post-ancestor current-menu-parent current-post-parent menu-item-2494261 menu-item">
-                    <a href="https://bangordailynews.com/region/state/?ref=side-region" id="state" class="" target="_self">
+                    <a href="http://bangordailynews.com/region/state/?ref=side-region" id="state" class="" target="_self">
                         State
                     </a>
                     <ul id="menu-side-region" class="menu menu-side-region menu menu-side-region">
@@ -1064,7 +1038,7 @@ img.emoji {
                                             
                                                     
                             <li id="menu-item-2" class=" menu-item menu-item-type-taxonomy menu-item-object-region menu-item-2526695 menu-item">
-                    <a href="https://bangordailynews.com/region/new-england/?ref=side-region" id="new-england" class="" target="_self">
+                    <a href="http://bangordailynews.com/region/new-england/?ref=side-region" id="new-england" class="" target="_self">
                         New England
                     </a>
                     <ul id="menu-side-region" class="menu menu-side-region menu menu-side-region">
@@ -1074,7 +1048,7 @@ img.emoji {
                                             
                                                     
                             <li id="menu-item-3" class=" menu-item menu-item-type-taxonomy menu-item-object-region menu-item-2494257 menu-item">
-                    <a href="https://bangordailynews.com/region/nation/?ref=side-region" id="nation" class="" target="_self">
+                    <a href="http://bangordailynews.com/region/nation/?ref=side-region" id="nation" class="" target="_self">
                         Nation
                     </a>
                     <ul id="menu-side-region" class="menu menu-side-region menu menu-side-region">
@@ -1084,7 +1058,7 @@ img.emoji {
                                             
                                                     
                             <li id="menu-item-4" class=" menu-item menu-item-type-taxonomy menu-item-object-region menu-item-2494251 menu-item">
-                    <a href="https://bangordailynews.com/region/bangor/?ref=side-region" id="bangor" class="" target="_self">
+                    <a href="http://bangordailynews.com/region/bangor/?ref=side-region" id="bangor" class="" target="_self">
                         Bangor
                     </a>
                     <ul id="menu-side-region" class="menu menu-side-region menu menu-side-region">
@@ -1094,7 +1068,7 @@ img.emoji {
                                             
                                                     
                             <li id="menu-item-5" class=" menu-item menu-item-type-taxonomy menu-item-object-region menu-item-2494249 menu-item">
-                    <a href="https://bangordailynews.com/region/aroostook/?ref=side-region" id="aroostook" class="" target="_self">
+                    <a href="http://bangordailynews.com/region/aroostook/?ref=side-region" id="aroostook" class="" target="_self">
                         Aroostook
                     </a>
                     <ul id="menu-side-region" class="menu menu-side-region menu menu-side-region">
@@ -1104,7 +1078,7 @@ img.emoji {
                                             
                                                     
                             <li id="menu-item-6" class=" menu-item menu-item-type-taxonomy menu-item-object-region menu-item-2494265 menu-item">
-                    <a href="https://bangordailynews.com/region/central-maine/?ref=side-region" id="central-maine" class="" target="_self">
+                    <a href="http://bangordailynews.com/region/central-maine/?ref=side-region" id="central-maine" class="" target="_self">
                         Central Maine
                     </a>
                     <ul id="menu-side-region" class="menu menu-side-region menu menu-side-region">
@@ -1114,7 +1088,7 @@ img.emoji {
                                             
                                                     
                             <li id="menu-item-7" class=" menu-item menu-item-type-taxonomy menu-item-object-region menu-item-2494252 menu-item">
-                    <a href="https://bangordailynews.com/region/down-east/?ref=side-region" id="down-east" class="" target="_self">
+                    <a href="http://bangordailynews.com/region/down-east/?ref=side-region" id="down-east" class="" target="_self">
                         Down East
                     </a>
                     <ul id="menu-side-region" class="menu menu-side-region menu menu-side-region">
@@ -1124,7 +1098,7 @@ img.emoji {
                                             
                                                     
                             <li id="menu-item-8" class=" menu-item menu-item-type-taxonomy menu-item-object-region menu-item-2494253 menu-item">
-                    <a href="https://bangordailynews.com/region/hancock/?ref=side-region" id="hancock" class="" target="_self">
+                    <a href="http://bangordailynews.com/region/hancock/?ref=side-region" id="hancock" class="" target="_self">
                         Hancock
                     </a>
                     <ul id="menu-side-region" class="menu menu-side-region menu menu-side-region">
@@ -1134,7 +1108,7 @@ img.emoji {
                                             
                                                     
                             <li id="menu-item-9" class=" menu-item menu-item-type-taxonomy menu-item-object-region menu-item-2494256 menu-item">
-                    <a href="https://bangordailynews.com/region/midcoast/?ref=side-region" id="midcoast" class="" target="_self">
+                    <a href="http://bangordailynews.com/region/midcoast/?ref=side-region" id="midcoast" class="" target="_self">
                         Midcoast
                     </a>
                     <ul id="menu-side-region" class="menu menu-side-region menu menu-side-region">
@@ -1144,7 +1118,7 @@ img.emoji {
                                             
                                                     
                             <li id="menu-item-10" class=" menu-item menu-item-type-taxonomy menu-item-object-region menu-item-2494258 menu-item">
-                    <a href="https://bangordailynews.com/region/penobscot/?ref=side-region" id="penobscot" class="" target="_self">
+                    <a href="http://bangordailynews.com/region/penobscot/?ref=side-region" id="penobscot" class="" target="_self">
                         Penobscot
                     </a>
                     <ul id="menu-side-region" class="menu menu-side-region menu menu-side-region">
@@ -1154,7 +1128,7 @@ img.emoji {
                                             
                                                     
                             <li id="menu-item-11" class=" menu-item menu-item-type-taxonomy menu-item-object-region menu-item-2494259 menu-item">
-                    <a href="https://bangordailynews.com/region/piscataquis/?ref=side-region" id="piscataquis" class="" target="_self">
+                    <a href="http://bangordailynews.com/region/piscataquis/?ref=side-region" id="piscataquis" class="" target="_self">
                         Piscataquis
                     </a>
                     <ul id="menu-side-region" class="menu menu-side-region menu menu-side-region">
@@ -1164,7 +1138,7 @@ img.emoji {
                                             
                                                     
                             <li id="menu-item-12" class=" menu-item menu-item-type-taxonomy menu-item-object-region menu-item-2494260 menu-item">
-                    <a href="https://bangordailynews.com/region/portland/?ref=side-region" id="portland" class="" target="_self">
+                    <a href="http://bangordailynews.com/region/portland/?ref=side-region" id="portland" class="" target="_self">
                         Portland
                     </a>
                     <ul id="menu-side-region" class="menu menu-side-region menu menu-side-region">
@@ -1173,8 +1147,8 @@ img.emoji {
                 </li>
                                             
                                                     
-                            <li id="menu-item-13" class=" menu-item menu-item-type-taxonomy menu-item-object-region current-post-ancestor current-menu-parent current-post-parent menu-item-2494262 menu-item">
-                    <a href="https://bangordailynews.com/region/york/?ref=side-region" id="york" class="" target="_self">
+                            <li id="menu-item-13" class=" menu-item menu-item-type-taxonomy menu-item-object-region menu-item-2494262 menu-item">
+                    <a href="http://bangordailynews.com/region/york/?ref=side-region" id="york" class="" target="_self">
                         York
                     </a>
                     <ul id="menu-side-region" class="menu menu-side-region menu menu-side-region">
@@ -1186,11 +1160,11 @@ img.emoji {
             <div id="nav-side-content-more" class="nav-side-piece">
                 <div class="nav-side-piece-header">More from BDN</div>
                 <ul id="menu-side-more" class="menu menu-side-more">
+                                                                        
                                                     
-                                                    
-                            <li id="menu-item-1" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-2540468 menu-item">
-                    <a href="http://eedition.bangordailynews.com/Olive/ODN/BangorDailyNews/default.aspx?ref=side-more" id="e-edition" class="" target="_self">
-                        E-edition
+                            <li id="menu-item-1" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-2656774 menu-item">
+                    <a href="https://syncaccess-bpc-bdn.syncronex.com/bpc/bdn/Account/LogOn?ReturnUrl=https://www.bangordailynews.com?ref=side-more" id="sign-in" class="" target="_self">
+                        Sign In
                     </a>
                     <ul id="menu-side-more" class="menu menu-side-more menu menu-side-more">
     		<!-- No menu found -->
@@ -1198,8 +1172,28 @@ img.emoji {
                 </li>
                                             
                                                     
-                            <li id="menu-item-2" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-2494269 menu-item">
-                    <a href="https://bangordailynews.com/newsletters/?ref=side-more" id="newsletters" class="" target="_self">
+                            <li id="menu-item-2" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-2656773 menu-item">
+                    <a href="http://bangordailynews.com/subscribe/?ref=side-more" id="subscribe" class="" target="_self">
+                        Subscribe
+                    </a>
+                    <ul id="menu-side-more" class="menu menu-side-more menu menu-side-more">
+    		<!-- No menu found -->
+    </ul>
+                </li>
+                                            
+                                                    
+                            <li id="menu-item-3" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-2540468 menu-item">
+                    <a href="http://eedition.bangordailynews.com/Olive/ODN/BangorDailyNews/default.aspx?ref=side-more" id="todays-paper-the-e-edition" class="" target="_self">
+                        Today's Paper (the e-edition)
+                    </a>
+                    <ul id="menu-side-more" class="menu menu-side-more menu menu-side-more">
+    		<!-- No menu found -->
+    </ul>
+                </li>
+                                            
+                                                    
+                            <li id="menu-item-4" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-2494269 menu-item">
+                    <a href="http://bangordailynews.com/newsletters/?ref=side-more" id="newsletters" class="" target="_self">
                         Newsletters
                     </a>
                     <ul id="menu-side-more" class="menu menu-side-more menu menu-side-more">
@@ -1208,8 +1202,8 @@ img.emoji {
                 </li>
                                             
                                                     
-                            <li id="menu-item-3" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-2600968 menu-item">
-                    <a href="https://bangordailynews.com/mainefocus/?ref=side-more" id="maine-focus" class="" target="_self">
+                            <li id="menu-item-5" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-2600968 menu-item">
+                    <a href="http://bangordailynews.com/mainefocus/?ref=side-more" id="maine-focus" class="" target="_self">
                         Maine Focus
                     </a>
                     <ul id="menu-side-more" class="menu menu-side-more menu menu-side-more">
@@ -1218,8 +1212,8 @@ img.emoji {
                 </li>
                                             
                                                     
-                            <li id="menu-item-4" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-2605400 menu-item">
-                    <a href="https://bangordailynews.com/submit-content/?ref=side-more" id="submit-content" class="" target="_self">
+                            <li id="menu-item-6" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-2605400 menu-item">
+                    <a href="http://bangordailynews.com/submit-content/?ref=side-more" id="submit-content" class="" target="_self">
                         Submit Content
                     </a>
                     <ul id="menu-side-more" class="menu menu-side-more menu menu-side-more">
@@ -1228,8 +1222,8 @@ img.emoji {
                 </li>
                                             
                                                     
-                            <li id="menu-item-5" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-2642150 menu-item">
-                    <a href="https://bangordailynews.com/bdn-events/?ref=side-more" id="bdn-events" class="" target="_self">
+                            <li id="menu-item-7" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-2642150 menu-item">
+                    <a href="http://bangordailynews.com/bdn-events/?ref=side-more" id="bdn-events" class="" target="_self">
                         BDN Events
                     </a>
                     <ul id="menu-side-more" class="menu menu-side-more menu menu-side-more">
@@ -1238,8 +1232,8 @@ img.emoji {
                 </li>
                                             
                                                     
-                            <li id="menu-item-6" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-2540519 menu-item">
-                    <a href="https://bangordailynews.com/bdn-maine/?ref=side-more" id="community-news" class="" target="_self">
+                            <li id="menu-item-8" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-2540519 menu-item">
+                    <a href="http://bangordailynews.com/bdn-maine/?ref=side-more" id="community-news" class="" target="_self">
                         Community News
                     </a>
                     <ul id="menu-side-more" class="menu menu-side-more menu menu-side-more">
@@ -1248,8 +1242,8 @@ img.emoji {
                 </li>
                                             
                                                     
-                            <li id="menu-item-7" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-2542981 menu-item">
-                    <a href="http://bangordailynews.com/bdn-maine/events/?ref=side-more" id="bdn-maine-community-events" class="" target="_self">
+                            <li id="menu-item-9" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-2542981 menu-item">
+                    <a href="http://bangordailynews.com/events/?ref=side-more" id="bdn-maine-community-events" class="" target="_self">
                         BDN Maine: Community Events
                     </a>
                     <ul id="menu-side-more" class="menu menu-side-more menu menu-side-more">
@@ -1258,8 +1252,8 @@ img.emoji {
                 </li>
                                             
                                                     
-                            <li id="menu-item-8" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-2494270 menu-item">
-                    <a href="https://bangordailynews.com/maine-blogs/?ref=side-more" id="blogs" class="" target="_self">
+                            <li id="menu-item-10" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-2494270 menu-item">
+                    <a href="http://bangordailynews.com/maine-blogs/?ref=side-more" id="blogs" class="" target="_self">
                         Blogs
                     </a>
                     <ul id="menu-side-more" class="menu menu-side-more menu menu-side-more">
@@ -1268,8 +1262,8 @@ img.emoji {
                 </li>
                                             
                                                     
-                            <li id="menu-item-9" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-2591329 menu-item">
-                    <a href="https://bangordailynews.com/health/?ref=side-more" id="health" class="" target="_self">
+                            <li id="menu-item-11" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-2591329 menu-item">
+                    <a href="http://bangordailynews.com/health/?ref=side-more" id="health" class="" target="_self">
                         Health
                     </a>
                     <ul id="menu-side-more" class="menu menu-side-more menu menu-side-more">
@@ -1278,7 +1272,7 @@ img.emoji {
                 </li>
                                             
                                                     
-                            <li id="menu-item-10" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-2494290 menu-item">
+                            <li id="menu-item-12" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-2494290 menu-item">
                     <a href="http://bangordailynews.com/polls/stories-with-polls/?ref=side-more" id="poll-questions" class="" target="_self">
                         Poll Questions
                     </a>
@@ -1288,8 +1282,8 @@ img.emoji {
                 </li>
                                             
                                                     
-                            <li id="menu-item-11" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-2494285 menu-item">
-                    <a href="https://bangordailynews.com/weather/?ref=side-more" id="weather" class="" target="_self">
+                            <li id="menu-item-13" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-2494285 menu-item">
+                    <a href="http://bangordailynews.com/weather/?ref=side-more" id="weather" class="" target="_self">
                         Weather
                     </a>
                     <ul id="menu-side-more" class="menu menu-side-more menu menu-side-more">
@@ -1298,8 +1292,8 @@ img.emoji {
                 </li>
                                             
                                                     
-                            <li id="menu-item-12" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-2529045 menu-item">
-                    <a href="https://bangordailynews.com/closings/?ref=side-more" id="closings-cancellations-and-delays" class="" target="_self">
+                            <li id="menu-item-14" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-2529045 menu-item">
+                    <a href="http://bangordailynews.com/closings/?ref=side-more" id="closings-cancellations-and-delays" class="" target="_self">
                         Closings, cancellations and delays
                     </a>
                     <ul id="menu-side-more" class="menu menu-side-more menu menu-side-more">
@@ -1308,7 +1302,7 @@ img.emoji {
                 </li>
                                             
                                                     
-                            <li id="menu-item-13" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-2494276 menu-item">
+                            <li id="menu-item-15" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-2494276 menu-item">
                     <a href="http://bangordailynews.com/circulars/?ref=side-more" id="deals-coupons" class="" target="_self">
                         Deals &amp; Coupons
                     </a>
@@ -1318,7 +1312,7 @@ img.emoji {
                 </li>
                                             
                                                     
-                            <li id="menu-item-14" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-2494279 menu-item">
+                            <li id="menu-item-16" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-2494279 menu-item">
                     <a href="http://classifieds.bangordailynews.com/bangor/transportation/search/?ref=side-more" id="autos" class="" target="_self">
                         Autos
                     </a>
@@ -1328,7 +1322,7 @@ img.emoji {
                 </li>
                                             
                                                     
-                            <li id="menu-item-15" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-2494280 menu-item">
+                            <li id="menu-item-17" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-2494280 menu-item">
                     <a href="http://classifieds.bangordailynews.com/me-bangor/real-estate/search?ref=side-more" id="real-estate" class="" target="_self">
                         Real Estate
                     </a>
@@ -1338,7 +1332,7 @@ img.emoji {
                 </li>
                                             
                                                     
-                            <li id="menu-item-16" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-2618740 menu-item">
+                            <li id="menu-item-18" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-2618740 menu-item">
                     <a href="http://archive.bangordailynews.com/?ref=side-more" id="bdn-archive" class="" target="_self">
                         BDN Archive
                     </a>
@@ -1348,8 +1342,8 @@ img.emoji {
                 </li>
                                             
                                                     
-                            <li id="menu-item-17" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-2494281 menu-item">
-                    <a href="https://bangordailynews.com/special-sections/?ref=side-more" id="special-sections" class="" target="_self">
+                            <li id="menu-item-19" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-2494281 menu-item">
+                    <a href="http://bangordailynews.com/special-sections/?ref=side-more" id="special-sections" class="" target="_self">
                         Special Sections
                     </a>
                     <ul id="menu-side-more" class="menu menu-side-more menu menu-side-more">
@@ -1358,7 +1352,7 @@ img.emoji {
                 </li>
                                             
                                                     
-                            <li id="menu-item-18" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-2494291 menu-item">
+                            <li id="menu-item-20" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-2494291 menu-item">
                     <a href="http://bangordailynews.com/series/sponsored/?ref=side-more" id="local-sponsored-content" class="" target="_self">
                         Local Sponsored Content
                     </a>
@@ -1371,7 +1365,7 @@ img.emoji {
             <div id="nav-side-content-more" class="nav-side-piece">
                 <div class="nav-side-piece-header">Entertainment</div>
                 <ul id="menu-side-entertainment" class="menu menu-side-entertainment">
-                                                    
+                                                                        
                                                     
                             <li id="menu-item-1" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-2578717 menu-item">
                     <a href="http://bangordailynews.com/games/?ref=side-entertainment" id="games" class="" target="_self">
@@ -1384,7 +1378,7 @@ img.emoji {
                                             
                                                     
                             <li id="menu-item-2" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-2540131 menu-item">
-                    <a href="https://bangordailynews.com/living/lottery/?ref=side-entertainment" id="lottery-results" class="" target="_self">
+                    <a href="http://bangordailynews.com/living/lottery/?ref=side-entertainment" id="lottery-results" class="" target="_self">
                         Lottery Results
                     </a>
                     <ul id="menu-side-entertainment" class="menu menu-side-entertainment menu menu-side-entertainment">
@@ -1394,7 +1388,7 @@ img.emoji {
                                             
                                                     
                             <li id="menu-item-3" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-2540130 menu-item">
-                    <a href="https://bangordailynews.com/living/tv-listings-streaming/?ref=side-entertainment" id="tv-streaming" class="" target="_self">
+                    <a href="http://bangordailynews.com/living/tv-listings-streaming/?ref=side-entertainment" id="tv-streaming" class="" target="_self">
                         TV &amp; Streaming
                     </a>
                     <ul id="menu-side-entertainment" class="menu menu-side-entertainment menu menu-side-entertainment">
@@ -1405,96 +1399,18 @@ img.emoji {
             </div>
         </div>
         <div id="nav-side-footer" class="nav-side-piece">
-                    
-    <div id="bpcads-bottom-sidenav" class="ad-unit-300x50 bpcads-bottom-sidenav"><!-- Ad goes here --></div>
-    <script>
-                googletag.cmd.push(function () {
-            // Define Slot
-
-            var slot_sizes = [[300,50]];
-            var new_slot_sizes = [];
-            var has_banner = false;
-            for (var i = 0; i < slot_sizes.length; i++) {
-                if (isMobileDevice()) {
-                    if (slot_sizes[i][0] <= 320) {
-                        new_slot_sizes.push(slot_sizes[i])
-                    } else if ( slot_sizes[i][0] == 728 || slot_sizes[i][0] == 970 ) {
-                        has_banner = true;
-                    }
-                } else {
-                    new_slot_sizes.push(slot_sizes[i])
-                }
-                if ( has_banner ) {
-                    new_slot_sizes.push([300,50]);
-                }
-            }
-
-            bpcads['bpcads-bottom-sidenav'] = googletag.defineSlot('/21682974628/bangordailynews/privacy', new_slot_sizes, 'bpcads-bottom-sidenav')
-                .addService(googletag.pubads());
-
-            // Set Unit-Level Targeting
-                        bpcads['bpcads-bottom-sidenav'].setTargeting('pos','bottom');
-            
-            // Display and Refresh
-            googletag.display("bpcads-bottom-sidenav");
-
-            
-            console.log("Display dynamic GPT for bpcads-bottom-sidenav")
-            googletag.pubads().refresh([bpcads["bpcads-bottom-sidenav"]]);
-
-                    });
-            </script>
-            <script>
-
-            </script>
-        </div>
+                                                                                                                                            </div>
     </div>
     </div>				    <div id="masthead" class="sectionfront">
     <div id="masthead-wrapper" class="">
         <div id="masthead-inner">
                         <div id="masthead-left" class="mc-sectionfront">
                                     <div class="masthead-left-ear">
-
-                                
-    <div id="bpcads-ear-left" class="ad-unit-180x80 bpcads-ear-left"><!-- Ad goes here --></div>
-    <script>
-                googletag.cmd.push(function () {
-            // Define Slot
-
-            var slot_sizes = [[180,80]];
-            var new_slot_sizes = [];
-            var has_banner = false;
-            for (var i = 0; i < slot_sizes.length; i++) {
-                if (isMobileDevice()) {
-                    if (slot_sizes[i][0] <= 320) {
-                        new_slot_sizes.push(slot_sizes[i])
-                    } else if ( slot_sizes[i][0] == 728 || slot_sizes[i][0] == 970 ) {
-                        has_banner = true;
-                    }
-                } else {
-                    new_slot_sizes.push(slot_sizes[i])
-                }
-                if ( has_banner ) {
-                    new_slot_sizes.push([300,50]);
-                }
-            }
-
-            bpcads['bpcads-ear-left'] = googletag.defineSlot('/21682974628/bangordailynews/privacy', new_slot_sizes, 'bpcads-ear-left')
-                .addService(googletag.pubads());
-
-            // Set Unit-Level Targeting
-                        bpcads['bpcads-ear-left'].setTargeting('pos','ear');
-            
-            // Display and Refresh
-            googletag.display("bpcads-ear-left");
-
-            
-            console.log("Display dynamic GPT for bpcads-ear-left")
-            googletag.pubads().refresh([bpcads["bpcads-ear-left"]]);
-
-                    });
-            </script>
-                    </div>
+                                                    <a href="/subscribe/?ref=left-ear">
+                                <img src="http://bangordailynews.com/wp-content/themes/bpc-full-goose/assets/img/subscribe-button.jpg">
+                            </a>
+                        
+                                                                                                                                                                                                                                                                    </div>
                     <div class="masthead-left-bottom">
                         <span></span>
                     </div>
@@ -1511,8 +1427,7 @@ img.emoji {
         <div id="masthead-right" class="">
                             <div class="masthead-right-ear">
                     <div id="ear-right" class="ad-unit-180x80">
-                                
-    <div id="bpcads-ear-right" class="ad-unit-125x50 bpcads-ear-right"><!-- Ad goes here --></div>
+                                    <div id="bpcads-ear-right" class="ad-unit-125x50 bpcads-ear-right"><!-- Ad goes here --></div>
     <script>
                 googletag.cmd.push(function () {
             // Define Slot
@@ -1544,19 +1459,19 @@ img.emoji {
             // Display and Refresh
             googletag.display("bpcads-ear-right");
 
-            
-            console.log("Display dynamic GPT for bpcads-ear-right")
+                        
+            console.log("Display dynamic GPT for bpcads-ear-right");
             googletag.pubads().refresh([bpcads["bpcads-ear-right"]]);
 
                     });
             </script>
                         <div id="weather-unit">
-                            <a href="weather/">74℉ A Few Clouds</a>
+                            <a href="weather/">33℉ Mostly Cloudy</a>
                         </div>
                     </div>
                 </div>
                 <div class="masthead-right-bottom">
-                    <span id="current-datetime">June 30, 2018</span>
+                    <span id="current-datetime">December 31, 2018</span>
                 </div>
                     </div>
     </div>
@@ -1567,38 +1482,38 @@ img.emoji {
                                                                             <a href="http://bangordailynews.com">Privacy Policy</a>
                                                 </span>
                             <span class="topic">
-                    <a href="http://bangordailynews.com/browse/news/">Latest News</a>
+                    <a href="https://bangordailynews.com/browse/news/">Latest News</a>
                 </span>
                 <span class="sep"> | </span>                            <span class="topic">
-                    <a href="http://bangordailynews.com/polls/stories-with-polls/">Poll Questions</a>
+                    <a href="https://bangordailynews.com/topic/bangor-mall/">Bangor Mall</a>
                 </span>
                 <span class="sep"> | </span>                            <span class="topic">
-                    <a href="https://bangordailynews.com/2018/06/29/news/bangor/dixmont-standoff-ends-with-man-in-custody/">Dixmont Standoff</a>
+                    <a href="https://bangordailynews.com/2018/12/31/news/state/theres-new-hope-for-mainers-fighting-to-save-working-waterfronts/">Working Waterfronts</a>
                 </span>
                 <span class="sep"> | </span>                            <span class="topic">
-                    <a href="https://bangordailynews.com/2018/06/28/news/midcoast/authorities-shoot-otter-that-bit-woman-on-maine-beach/">Otter Bite</a>
+                    <a href="https://bangordailynews.com/topic/elizabeth-warren/">Elizabeth Warren</a>
                 </span>
                 <span class="sep"> | </span>                            <span class="topic">
-                    <a href="https://bangordailynews.com/2018/06/29/news/nation/today-we-are-speechless-the-capital-gazettes-heartbreaking-editorial-page/">Capital Gazette Shooting</a>
+                    <a href="https://syncaccess-bpc-bdn.syncronex.com/bpc/bdn/Account/logon?From=http%3a%2f%2feedition.bangordailynews.com%2fOlive%2fODN%2fBangorDailyNews%2fAfterLogin.ashx%3forigin%3d%25252fOlive%25252fODN%25252fBangorDailyNews%25252fdefault.aspx">Today's Paper</a>
                 </span>
                                                         <div id="share-buttons">
     <span class="sharing-header">Sharing</span>
     <ul>
         <li>
             <a title="Share on Facebook" href="https://www.facebook.com/dialog/share?app_id=748756371893770&amp;display=popup&amp;href=http%3A%2F%2Fbangordailynews.com%2Fprivacy%2F&amp;redirect_uri=http%3A%2F%2Fbangordailynews.com%2Fprivacy%2F">
-                <i class="fa fa-facebook-f" aria-hidden="true"></i>
+                <i class="fab fa-facebook-f" aria-hidden="true"></i>
             </a>
         </li><li>
             <a title="Share on Twitter" href="http://twitter.com/intent/tweet?text=Privacy%20Policy&amp;url=http%3A%2F%2Fbangordailynews.com%2Fprivacy%2F&amp;via=bangordailynews&amp;related=bangordailynews,bdnbiz,bdnpolitics,rockblogsterbdn,bdnhealth" target="_blank" onclick="ga('send', 'event', 'share', 'twitter');">
-                <i class="fa fa-twitter" aria-hidden="true"></i>
+                <i class="fab fa-twitter" aria-hidden="true"></i>
             </a>
         </li><li>
             <a title="Email this Story" href="http://bangordailynews.com/privacy/email/1/">
-                <i class="fa fa-envelope-o" aria-hidden="true"></i>
+                <i class="far fa-envelope" aria-hidden="true"></i>
             </a>
         </li><li>
             <a title="Print this Story" href="javascript:window.print();">
-                <i class="fa fa-print" aria-hidden="true"></i>
+                <i class="fas fa-print" aria-hidden="true"></i>
             </a>
         </li>
     </ul>
@@ -1608,33 +1523,24 @@ img.emoji {
 
     <hr>
 					<!-- Banner ad top position -->
-                <div id="bpcads-top-leaderboard" class="ad-unit-970x90"></div>
+                <div id="bpcads-top-leaderboard" class="ad-unit-970x90 bpcads-top-leaderboard"></div>
     <script>
         googletag.cmd.push(function () {
             googletag.display("bpcads-top-leaderboard");
 
-            
-            console.log("Fixed UAM Bid for bpcads-top-leaderboard")
-            // Once slot has been defined, call Amazon for a bid, after the timeout (1000ms), if they are not back yet, callback executes regardless, continuing along the normal ad call flow
-            apstag.fetchBids({
-                slots: [bpcads["bpcads-top-leaderboard"]],
-                timeout: 2e3
-            }, function(bids) {
-                // set apstag targeting on googletag
-                console.log("Display fixed UAM for bpcads-top-leaderboard")
-                apstag.setDisplayBids();
-                googletag.pubads().refresh([bpcads["bpcads-top-leaderboard"]]);
-            });
+                        
+            console.log("Display fixed GPT for bpcads-top-leaderboard");
+            googletag.pubads().refresh([bpcads["bpcads-top-leaderboard"]]);
 
                     });
     </script>
-		        			<!-- Out of page Interstitial position -->
-                <div id="bpcads-oop-interstitial" class="ad-unit-interstitial"></div>
+		        							<!-- Out of page Interstitial position -->
+				    <div id="bpcads-oop-interstitial" class="ad-unit-interstitial"></div>
     <script>
         googletag.cmd.push(function () {
             googletag.display("bpcads-oop-interstitial");
 
-            
+                        
             console.log("Fixed UAM Bid for bpcads-oop-interstitial")
             // Once slot has been defined, call Amazon for a bid, after the timeout (1000ms), if they are not back yet, callback executes regardless, continuing along the normal ad call flow
             apstag.fetchBids({
@@ -1649,8 +1555,8 @@ img.emoji {
 
                     });
     </script>
-        
-		<section id="content" role="main" class="content-wrapper" style="min-height:100%;" onclick="void(0);">
+			        
+		<section id="content" role="main" class="content-wrapper" style="min-height:100%;">
 			<div class="debug">
                                 			</div>
             <div class="view page">
@@ -1669,7 +1575,7 @@ img.emoji {
                         <div class="article-content">
                 <section class="article-body columns ">
                             <section class="article-section">
-        <p><span style="font-weight: 400;">This Privacy Policy discloses the general privacy practices for Bangor Daily News websites, which include all sites owned by Bangor Publishing Company. We may change this policy from time to time by updating this page. You should check this page from time to time to be aware of any changes. This policy is effective from May 24, 2018.</span></p>
+        <p><span style="font-weight: 400;">This Privacy Policy discloses the general privacy practices for Bangor Daily News websites, which include all sites owned by Bangor Publishing Company. We may change this policy from time to time by updating this page. You should check this page from time to time to be aware of any changes. This policy is effective from December 21st, 2018.</span></p>
 <p><span style="font-weight: 400;">Bangor Daily News is committed to respecting your privacy rights when visiting any Bangor Daily News website, such as this one. To protect your personal information, Bangor Daily News has adopted the guidelines outlined below.</span></p>
 <p><b>Information Collected</b></p>
 <p><span style="font-weight: 400;">While visiting any of the Bangor Daily News websites we may ask you to register and/or provide information that personally identifies you for purposes of interacting with the site. Such personal information may include, but is not limited to, your name, date of birth, phone number, street address and e-mail address. On any page that collects personal information, we will specifically describe what information is required in order to provide you with the product or service or enter you in the promotion you have requested, as well as respond to your inquiry or comment.</span></p>
@@ -1694,6 +1600,13 @@ img.emoji {
 <p><span style="font-weight: 400;">If you are accessing the site from the European Economic Area (EEA), ads served through Google’s platform will not serve with audience targeting. We are taking efforts to remove all programmatic advertising and most advertising that is not part of a Bangor Daily News website sponsorship.</span></p>
 <p><b>IP Addresses</b></p>
 <p><span style="font-weight: 400;">Bangor Daily News logs &nbsp;IP addresses (the location of your computer on the Internet) for systems administration and troubleshooting purposes and to determine site usage.</span></p>
+<h4><b>Interest-Based Advertising</b></h4>
+<p><span style="font-weight: 400;">To help ensure that you receive ads that are relevant to your interests on our services, our advertisers’ services, and elsewhere on the Internet, we and third-parties (including service providers, advertisers, and advertising companies) may collect information about your online activities over time and across different websites, apps, and devices. We and third parties may use that information to help understand audience segments. Advertisers may use the segments to determine the audience groups to which they wish to deliver particular ads. Through this process, we do not use information that directly identifies you.</span></p>
+<p><span style="font-weight: 400;">You can opt out of receiving interest-based advertising on your computer or laptop from some companies, including us and our service providers, by visiting the following sites: </span><a href="https://www.aboutads.info/choices/"><span style="font-weight: 400;">//www.aboutads.info/choices/</span></a><span style="font-weight: 400;">, </span><a href="https://www.networkadvertising.org/choices/"><span style="font-weight: 400;">//www.networkadvertising.org/choices/</span></a><span style="font-weight: 400;">, </span><a href="https://choices.ghosteryenterprise.com/global-opt-out.html"><span style="font-weight: 400;">//choices.ghosteryenterprise.com/global-opt-out.html</span></a><span style="font-weight: 400;">, and </span><a href="https://preferences-mgr.truste.com/"><span style="font-weight: 400;">//preferences-mgr.truste.com/</span></a><span style="font-weight: 400;">. If you wish to opt out of receiving interest-based advertising on your mobile device, please see the advertising preferences information on support.apple.com for iOS devices or support.google.com for Android devices.</span></p>
+<p><span style="font-weight: 400;">If you are accessing our services from Europe, please see </span><a href="https://www.youronlinechoices.com/"><span style="font-weight: 400;">www.youronlinechoices.com</span></a><span style="font-weight: 400;">. If you are accessing our services from Canada, please see </span><a href="https://www.youradchoices.ca/"><span style="font-weight: 400;">youradchoices.ca</span></a><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">Opting out does not mean you will no longer receive advertising. It means that the company or companies from which you opted out will no longer deliver ads tailored to your web preferences and usage patterns.</span></p>
+<p><span style="font-weight: 400;">If you do not wish to allow cookies to be placed on your computer or device, you can configure your web browser (Chrome, Firefox, Internet Explorer, Safari, etc.) to control the use of cookies. Please note that the interest-based advertising opt outs provided in the links above may rely on the use of cookies. If you disable or delete cookies, you may remove your opt-out preferences. Deleting and/or controlling the use of cookies AND visiting the opt-out links above to register your preferences will help to ensure that you do not receive interest-based advertising. Again, this does not mean that you will not receive ads, it simply means that you will not receive ads that are tailored to your web preferences and usage patterns.</span></p>
+<p><span style="font-weight: 400;">Except as otherwise disclosed in this Privacy Policy, we do not respond to browser Do Not Track signals or other mechanisms that provide a method to opt out of the collection of information across the networks of websites and online services in which we participate; if we do so in the future, we will describe how we do so here. For more information on Do Not Track, please visit </span><a href="https://allaboutdnt.com/"><span style="font-weight: 400;">//allaboutdnt.com</span></a><span style="font-weight: 400;">.</span></p>
 <p><b>Use of Personal Information</b></p>
 <p><span style="font-weight: 400;">We believe in protecting your privacy, and will not share personal information (excepting your screen name or registered name) with third parties outside of Bangor Daily News except as described in this Privacy Policy. </span><span style="font-weight: 400;"><br>
 </span></p>
@@ -1711,28 +1624,27 @@ img.emoji {
 <p><span style="font-weight: 400;">Bangor Daily News cares about the safety of children and their use of the Internet. Therefore, in accordance with the Children’s Online Privacy Protection Act of 1998, we will never knowingly request or solicit personally identifiable information from anyone under the age of 13 without parental consent. In the event that we receive actual knowledge that we have collected such personal information without the requisite and parental consent, we will delete that information from our database as quickly as is practical.</span></p>
 <p><b>Opting-Out</b></p>
 <p><span style="font-weight: 400;">We respect your privacy and ability to choose whether to share information with us and any third party. You may choose to opt out from providing personal information to us by not registering on the site and thereby not providing personal information. You may also choose at a later date to have your name removed from our database. Certain portions of the site and certain services provided on the site, however, do require registration in order to access or use these areas and services. If you choose not to register or provide certain information, these areas will not be accessible to you.</span></p>
-<p><em>Policy last updated 4/10/17</em></p>
+<p><em>Policy last updated 12/21/18</em></p>
 <p>&nbsp;</p>
 
     </section>
                 </section>
-                <script type="text/javascript">
-                    var loggedInStatus = loggedInStatus || ( localStorage['ls.authorizationData'] || getCookie('syncronex') );
-                    if ( loggedInStatus && loggedInStatus != 'invalid' ) {
-                        console.log('No surveys');
-                    } else {
-                        console.log('Surveys possible');
-                        try { _402_Show(); } catch(e) { console.log('survey_problem'); console.log(e) }
-                    }
-                </script>
-                                    <aside class="article-sidebar columns sidebar-container">
+                                    <script type="text/javascript">
+                        var loggedInStatus = loggedInStatus || ( localStorage['ls.authorizationData'] || getCookie('syncronex') );
+                        if ( loggedInStatus && loggedInStatus != 'invalid' ) {
+                            console.log('No surveys');
+                        } else {
+                            console.log('Surveys possible');
+                            try { _402_Show(); } catch(e) { console.log('survey_problem'); console.log(e) }
+                        }
+                    </script>
+                                                    <aside class="article-sidebar columns sidebar-container">
                             <div class="sidebar-widget">
         <div class="widget bpc_ad_widget ad top-ad">
     <div class="widget-header">
             </div>
     <div class="widget-content">
-                    
-    <div id="bpcads-top-widget-13" class="ad-unit-300x250 bpcads-middle-widget"><!-- Ad goes here --></div>
+                        <div id="bpcads-top-widget-13" class="ad-unit-300x250 bpcads-middle-widget"><!-- Ad goes here --></div>
     <script>
                 googletag.cmd.push(function () {
             // Define Slot
@@ -1755,7 +1667,7 @@ img.emoji {
                 }
             }
 
-            bpcads['bpcads-top-widget-13'] = googletag.defineSlot('/21682974628/bangordailynews/events', new_slot_sizes, 'bpcads-top-widget-13')
+            bpcads['bpcads-top-widget-13'] = googletag.defineSlot('/21682974628/bangordailynews/living', new_slot_sizes, 'bpcads-top-widget-13')
                 .addService(googletag.pubads());
 
             // Set Unit-Level Targeting
@@ -1764,15 +1676,15 @@ img.emoji {
             // Display and Refresh
             googletag.display("bpcads-top-widget-13");
 
-            
-            console.log("Dynamic UAM Bid for bpcads-top-widget-13")
+                        
+            console.log("Dynamic UAM Bid for bpcads-top-widget-13");
             // Once slot has been defined, call Amazon for a bid, after the timeout (1000ms), if they are not back yet, callback executes regardless, continuing along the normal ad call flow
             apstag.fetchBids({
                 slots: [bpcads["bpcads-top-widget-13"]],
                 timeout: 1e3
             }, function(bids) {
                 // set apstag targeting on googletag
-                console.log("Display dynamic UAM for bpcads-top-widget-13")
+                console.log("Display dynamic UAM for bpcads-top-widget-13");
                 apstag.setDisplayBids();
                 googletag.pubads().refresh([bpcads["bpcads-top-widget-13"]]);
             });
@@ -1781,27 +1693,32 @@ img.emoji {
             </script>
     </div>
     <div class="widget-footer">
-            <script>
+                <script>
         jQuery(function() {
                                 });
     </script>
-    </div>
+        </div>
 </div><div class="widget bpc_mostread_widget mostread">
     <div class="widget-header">
             <div class="widget-h2">Most Popular</div>
     </div>
     <div class="widget-content">
             <ul class="widget-list">
-                        
-<article class="tease sm tease-2652331 tease-post tease-list" id="">
-                                                        <div class="headline">
-                                    <a href="https://bangordailynews.com/2018/06/29/news/bangor/dixmont-standoff-ends-with-man-in-custody/">
-                            <figure class="">
-                        <img src="https://bdn-data.s3.amazonaws.com/uploads/2018/06/13693981_H23441246-75x75.jpg">
-            <figcaption>
+                    
+<article class="tease sm tease-2739623 tease-post tease-list tease-wall" id="">
+                                                    
+            <span class="overline default" style="">
+            POLL QUESTION
+        </span>
+                    <div class="headline">
+                                                                            
+            <a href="http://bangordailynews.com/2018/12/31/news/bangor/all-is-not-bleak-in-bangor-business-growth-elsewhere-in-bangor-helps-offset-malls-woes/?ref=most-popular">
+                                <figure class="">
+                                        <img src="https://bdn-data.s3.amazonaws.com/uploads/2018/12/19392701_H24011532-75x75.jpg">
+                        <figcaption>
             </figcaption>
         </figure>
-        <h2 class="article-h2">Suspect in Dixmont standoff in critical condition after being shot by police</h2>
+        <h2 class="article-h2">2018 was rough on the Bangor Mall, but ‘all is not bleak in Bangor’</h2>
             </a>
         </div>
 
@@ -1809,16 +1726,17 @@ img.emoji {
                                         
                                                     <div class="debug"></div>
             </article>
-                        
-<article class="tease sm tease-2652575 tease-post tease-list" id="">
+                    
+<article class="tease sm tease-2739874 tease-post tease-list tease-wall" id="">
                                                         <div class="headline">
-                                    <a href="https://bangordailynews.com/2018/06/29/news/midcoast/otter-that-bit-woman-on-maine-beach-tests-positive-for-rabies/">
-                            <figure class="">
-                        <img src="https://bdn-data.s3.amazonaws.com/uploads/2018/06/13696201_H23435862-75x75.jpg">
-            <figcaption>
+                                                                            
+            <a href="http://bangordailynews.com/2018/12/31/news/midcoast/maine-man-accused-of-stabbing-son-after-argument-in-car/?ref=most-popular">
+                                <figure class="">
+                                        <img src="https://bdn-data.s3.amazonaws.com/uploads/2018/12/19430442_H24223646-e1546272093554-75x75.jpg">
+                        <figcaption>
             </figcaption>
         </figure>
-        <h2 class="article-h2">Otter that bit woman on Maine beach tests positive for rabies</h2>
+        <h2 class="article-h2">Maine man accused of stabbing son after argument in car</h2>
             </a>
         </div>
 
@@ -1826,16 +1744,17 @@ img.emoji {
                                         
                                                     <div class="debug"></div>
             </article>
-                        
-<article class="tease sm tease-2652139 tease-post tease-list" id="">
+                    
+<article class="tease sm tease-2739962 tease-post tease-list tease-wall" id="">
                                                         <div class="headline">
-                                    <a href="https://bangordailynews.com/2018/06/28/news/bangor/brewer-baseball-player-caught-with-cocaine-36-hours-after-winning-title/">
-                            <figure class="">
-                        <img src="https://bdn-data.s3.amazonaws.com/uploads/2018/06/BEN_BYORAK_23430672-75x75.jpg">
-            <figcaption>
+                                                                            
+            <a href="http://bangordailynews.com/2018/12/31/news/penobscot/grand-jury-indicts-convicted-murderer-who-escaped-from-maine-prison/?ref=most-popular">
+                                <figure class="">
+                                        <img src="https://bdn-data.s3.amazonaws.com/uploads/2018/12/19441122_H23772952-75x75.jpg">
+                        <figcaption>
             </figcaption>
         </figure>
-        <h2 class="article-h2">Brewer baseball player caught with cocaine 36 hours after winning title</h2>
+        <h2 class="article-h2">Grand jury indicts convicted murderer who escaped from Maine prison</h2>
             </a>
         </div>
 
@@ -1843,16 +1762,21 @@ img.emoji {
                                         
                                                     <div class="debug"></div>
             </article>
-                        
-<article class="tease sm tease-2652644 tease-post tease-list" id="">
-                                                        <div class="headline">
-                                    <a href="https://bangordailynews.com/2018/06/29/news/state/lepage-vetoes-medicaid-expansion-funding-bill/">
-                            <figure class="">
-                        <img src="https://bdn-data.s3.amazonaws.com/uploads/2018/06/13702221_H23188160-75x75.jpg">
-            <figcaption>
+                    
+<article class="tease sm tease-2738979 tease-post tease-list tease-wall" id="">
+                                                    
+            <span class="overline default" style="">
+            JULIA BAYLY
+        </span>
+                    <div class="headline">
+                                                                            
+            <a href="http://bangordailynews.com/2018/12/31/homestead/the-end-of-a-mushing-era-on-rusty-metal-farm/?ref=most-popular">
+                                <figure class="">
+                                        <img src="https://bdn-data.s3.amazonaws.com/uploads/2018/12/19393041_H24210080-75x75.jpg">
+                        <figcaption>
             </figcaption>
         </figure>
-        <h2 class="article-h2">LePage says he’ll veto Medicaid expansion funding bill</h2>
+        <h2 class="article-h2">The end of a mushing era on Rusty Metal Farm</h2>
             </a>
         </div>
 
@@ -1860,16 +1784,21 @@ img.emoji {
                                         
                                                     <div class="debug"></div>
             </article>
-                        
-<article class="tease sm tease-2652661 tease-post tease-list" id="">
-                                                        <div class="headline">
-                                    <a href="https://bangordailynews.com/2018/06/29/news/midcoast/fort-kent-fire-department-responds-to-new-brunswick-mill-fire/">
-                            <figure class="">
-                        <img src="https://bdn-data.s3.amazonaws.com/uploads/2018/06/13703441_H23367692-75x75.jpg">
-            <figcaption>
+                    
+<article class="tease sm tease-2739617 tease-post tease-list tease-wall" id="">
+                                                    
+            <span class="overline default" style="">
+            VIDEO
+        </span>
+                    <div class="headline">
+                                                                            
+            <a href="http://bangordailynews.com/2018/12/30/news/lewiston-auburn/lewiston-vigil-turns-violent/?ref=most-popular">
+                                <figure class="">
+                                        <img src="https://bdn-data.s3.amazonaws.com/uploads/2018/12/19391481_H23358046-75x75.png">
+                        <figcaption>
             </figcaption>
         </figure>
-        <h2 class="article-h2">Fort Kent Fire Department responds to New Brunswick mill fire</h2>
+        <h2 class="article-h2">Lewiston vigil turns violent</h2>
             </a>
         </div>
 
@@ -1885,8 +1814,7 @@ img.emoji {
     <div class="widget-header">
             </div>
     <div class="widget-content">
-                    
-    <div id="bpcads-bottom-widget-11" class="ad-unit-300x250 bpcads-middle-widget"><!-- Ad goes here --></div>
+                        <div id="bpcads-bottom-widget-11" class="ad-unit-300x250 bpcads-middle-widget"><!-- Ad goes here --></div>
     <script>
                 googletag.cmd.push(function () {
             // Define Slot
@@ -1909,7 +1837,7 @@ img.emoji {
                 }
             }
 
-            bpcads['bpcads-bottom-widget-11'] = googletag.defineSlot('/21682974628/bangordailynews/events', new_slot_sizes, 'bpcads-bottom-widget-11')
+            bpcads['bpcads-bottom-widget-11'] = googletag.defineSlot('/21682974628/bangordailynews/living', new_slot_sizes, 'bpcads-bottom-widget-11')
                 .addService(googletag.pubads());
 
             // Set Unit-Level Targeting
@@ -1918,15 +1846,15 @@ img.emoji {
             // Display and Refresh
             googletag.display("bpcads-bottom-widget-11");
 
-            
-            console.log("Dynamic UAM Bid for bpcads-bottom-widget-11")
+                        
+            console.log("Dynamic UAM Bid for bpcads-bottom-widget-11");
             // Once slot has been defined, call Amazon for a bid, after the timeout (1000ms), if they are not back yet, callback executes regardless, continuing along the normal ad call flow
             apstag.fetchBids({
                 slots: [bpcads["bpcads-bottom-widget-11"]],
                 timeout: 1e3
             }, function(bids) {
                 // set apstag targeting on googletag
-                console.log("Display dynamic UAM for bpcads-bottom-widget-11")
+                console.log("Display dynamic UAM for bpcads-bottom-widget-11");
                 apstag.setDisplayBids();
                 googletag.pubads().refresh([bpcads["bpcads-bottom-widget-11"]]);
             });
@@ -1935,7 +1863,7 @@ img.emoji {
             </script>
     </div>
     <div class="widget-footer">
-            <script>
+                <script>
         jQuery(function() {
                         googletag.cmd.push(function() {
                 googletag.pubads().addEventListener('slotRenderEnded', function (event) {
@@ -1987,7 +1915,7 @@ img.emoji {
             }
                     });
     </script>
-    </div>
+        </div>
 </div>
     </div>
                     </aside>
@@ -2003,27 +1931,18 @@ img.emoji {
 								</section>
 
 		            				<!-- Banner ad bottom position -->
-                    <div id="bpcads-bottom-footer" class="ad-unit-970x90"></div>
+                    <div id="bpcads-bottom-footer" class="ad-unit-970x90 bpcads-bottom-footer"></div>
     <script>
         googletag.cmd.push(function () {
             googletag.display("bpcads-bottom-footer");
 
-            
-            console.log("Fixed UAM Bid for bpcads-bottom-footer")
-            // Once slot has been defined, call Amazon for a bid, after the timeout (1000ms), if they are not back yet, callback executes regardless, continuing along the normal ad call flow
-            apstag.fetchBids({
-                slots: [bpcads["bpcads-bottom-footer"]],
-                timeout: 2e3
-            }, function(bids) {
-                // set apstag targeting on googletag
-                console.log("Display fixed UAM for bpcads-bottom-footer")
-                apstag.setDisplayBids();
-                googletag.pubads().refresh([bpcads["bpcads-bottom-footer"]]);
-            });
+                        
+            console.log("Display fixed GPT for bpcads-bottom-footer");
+            googletag.pubads().refresh([bpcads["bpcads-bottom-footer"]]);
 
                     });
     </script>
-            			<footer id="footer">
+                            			<footer id="footer">
 				<div id="module-footer" class="layout container">
         <div class="layout-content container">
             <div class="footer-content">
@@ -2031,22 +1950,22 @@ img.emoji {
             <div class="foot-section-header">Follow Us</div>
             <ul>
                 <li>
-                    <i class="fa fa-facebook-f" aria-hidden="true"></i>
+                    <i class="fab fa-facebook-f" aria-hidden="true"></i>
                     <a href="//www.facebook.com/bangordailynews" target="_blank">Facebook</a>
                 </li><li>
-                    <i class="fa fa-twitter" aria-hidden="true"></i>
+                    <i class="fab fa-twitter" aria-hidden="true"></i>
                     <a href="//www.twitter.com/bangordailynews" target="_blank">Twitter</a>
                 </li><li>
-                    <i class="fa fa-linkedin" aria-hidden="true"></i>
+                    <i class="fab fa-linkedin" aria-hidden="true"></i>
                     <a href="//www.linkedin.com/company-beta/29003/" target="_blank">LinkedIn</a>
                 </li><li>
-                    <i class="fa fa-youtube" aria-hidden="true"></i>
+                    <i class="fab fa-youtube" aria-hidden="true"></i>
                     <a href="//www.youtube.com/user/thebangordailynews" target="_blank">YouTube</a>
                 </li><li>
-                    <i class="fa fa-instagram" aria-hidden="true"></i>
+                    <i class="fab fa-instagram" aria-hidden="true"></i>
                     <a href="//www.instagram.com/bangordailynews/" target="_blank">Instagram</a>
                 </li><li>
-                    <i class="fa fa-rss" aria-hidden="true"></i>
+                    <i class="fas fa-rss" aria-hidden="true"></i>
                     <a href="//bangordailynews.com/feed/" target="_blank">RSS</a>
                 </li>
             </ul>
@@ -2056,7 +1975,7 @@ img.emoji {
             <ul>
                 <li><a href="/about/?ref=footer">BDN History</a></li>
                 <li><a href="/contact/?ref=footer">Contact Us</a></li>
-                <li><a href="/staff-directory/?ref=footer">Staff Directory</a></li>
+                <li><a href="/contact/staff-directory/?ref=footer">Staff Directory</a></li>
                 <li><a href="/sitemap.xml?ref=footer">Sitemap</a></li>
                 <li><a href="/ask-a-question/?ref=footer">Questions</a></li>
             </ul>
@@ -2074,8 +1993,7 @@ img.emoji {
             <ul>
                 <li><a href="/manage-account/?ref=footer">Manage Subscription</a></li>
                 <li><a href="/manage-account/?ref=footer">Make a Payment</a></li>
-                <li><a href="/manage-account/?ref=footer">Vacation Hold</a></li>
-                <li><a href="/manage-account/?task=complaint&amp;ref=footer">Home Delivery Feedback</a></li>
+                                <li><a href="/manage-account/?task=complaint&amp;ref=footer">Home Delivery Feedback</a></li>
                 <li><a href="/customer-service/">Get Help</a></li>
             </ul>
         </div>
@@ -2085,11 +2003,11 @@ img.emoji {
                 <li><a href="mailto:advertise@bangordailynews.com?Subject=Advertising%20Inquiry">Advertise with us!</a></li>
                 <li><a href="http://bangordailynews.com/wp-content/themes/bpc-full-goose/assets/pdf/BDN_Ad_Sizes_2017.pdf" target="_blank">Creative Services Guide</a></li>
                 <li><a href="/special-sections/?ref=footer">Special Sections</a></li>
-                <li><a href="//streamsidemarketing.com/?ref=footer" target="_blank">Streamside Marketing</a>
-                    <a href="//streamsidemarketing.com/?ref=footer" target="_blank" style="display:block;">
-                        <img src="http://bangordailynews.com/wp-content/themes/bpc-full-goose/assets/img/streamside-150.jpg">
-                    </a>
-                </li>
+                <li><a href="https://pulsemarketingagency.com/" target="_blank">Pulse Marketing</a>
+                                            <a href="https://pulsemarketingagency.com/" target="_blank" style="display:block;">
+                            <img src="http://bangordailynews.com/wp-content/themes/bpc-full-goose/assets/img/pulse-logo.png">
+                        </a>
+                                    </li>
             </ul>
         </div>
         <div id="services-column" class="foot-column columns">
@@ -2118,7 +2036,32 @@ img.emoji {
         </div>
     </div>
 </div>			</footer>
-			        <script type="text/javascript">
+			<script type="text/javascript">
+    /** CONFIGURATION START **/
+    var _sf_async_config = window._sf_async_config = (window._sf_async_config || {});
+
+    _sf_async_config.uid = 14550;
+    _sf_async_config.domain = 'bangordailynews.com';
+    _sf_async_config.useCanonical = true;
+    _sf_async_config.useCanonicalDomain = true;
+    _sf_async_config.sections = "";
+    _sf_async_config.authors = '';
+    /** CONFIGURATION END **/
+    (function() {
+        function loadChartbeat() {
+            window._sf_endpt = (new Date()).getTime();
+            var e = document.createElement('script');
+            e.setAttribute('language', 'javascript');
+            e.setAttribute('type', 'text/javascript');
+            e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js');
+            document.body.appendChild(e);
+        };
+        var oldonload = window.onload;
+        window.onload = (typeof window.onload != 'function') ?
+            loadChartbeat : function() { oldonload(); loadChartbeat(); };
+    })();
+</script>
+        <script type="text/javascript">
         // <![CDATA[
         var disqus_shortname = 'bdn';
         (function () {
@@ -2140,7 +2083,17 @@ img.emoji {
         }());
         // ]]>
         </script>
-        <script type="text/javascript" src="http://bangordailynews.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20"></script>
+        <!-- Klangoo Magnet Plugin, Version: 1.0.12
+Related widget id: 
+Recommended widget id: recom_336-1
+Entities widget id: 
+Follow widget id: 
+In-Text id: 
+Related articles page id: 
+Related entities page id: 
+ -->
+<script src="//magnetapi.klangoo.com/w/Widgets_336.js" async=""></script>
+<script type="text/javascript" src="http://bangordailynews.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"cached":"1"};
@@ -2166,31 +2119,19 @@ var ajax_login_object = {"ajaxurl":"https:\/\/bangordailynews.com\/wp-admin\/adm
 <script type="text/javascript" src="http://bangordailynews.com/wp-content/mu-plugins/js/submitevent.js?ver=2"></script>
 <script type="text/javascript" src="//cc.cdn.civiccomputing.com/8.0/cookieControl-8.0.min.js?ver=4.9.6"></script>
 <script type="text/javascript" src="http://bangordailynews.com/wp-includes/js/wp-embed.min.js?ver=4.9.6"></script>
-
-    <!-- ChartBeat -->
-    <script type="text/javascript">
-        var _sf_async_config={uid:14550,domain:"bangordailynews.com",useCanonical:true};
-    </script>
-
-            <script type="text/javascript" src="http://static.chartbeat.com/js/chartbeat.js">
-    
-	<script type="text/javascript">
-		var oldonload = window.onload;
-		window.onload = (typeof window.onload != 'function') ?
-		loadChartbeat : function() { oldonload(); loadChartbeat(); };
-	</script>
-
-
-   <script type="text/javascript">
-   	var $mcGoal = {'settings':{'uuid':'a629a44de37af801f63b7384a','dc':'us1'}};
-   	(function() {
-   		 var sp = document.createElement('script'); sp.type = 'text/javascript'; sp.async = true; sp.defer = true;
-   		sp.src = ('https:' == document.location.protocol ? 'https://s3.amazonaws.com/downloads.mailchimp.com' : 'http://downloads.mailchimp.com') + '/js/goal.min.js';
-   		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sp, s);
-   	})();
-   </script>
-
-
+		<script type="text/javascript">
+            var $mcGoal = {'settings': {'uuid': 'a629a44de37af801f63b7384a', 'dc': 'us1'}};
+            (function () {
+                var sp = document.createElement('script');
+                sp.type = 'text/javascript';
+                sp.async = true;
+                sp.defer = true;
+                sp.src = ('https:' == document.location.protocol ? 'https://s3.amazonaws.com/downloads.mailchimp.com' : 'http://downloads.mailchimp.com') + '/js/goal.min.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(sp, s);
+            })();
+		</script>
+		
 <script type="text/javascript">
   var config = {
     apiKey: '7ccbe0ef422b3cb1f71f711349c6b7ede2db33ec',
@@ -2301,7 +2242,6 @@ var ajax_login_object = {"ajaxurl":"https:\/\/bangordailynews.com\/wp-admin\/adm
 
   CookieControl.load( config );
 </script>
-
 			
 
-</body></html>
+<script language="javascript" type="text/javascript" src="//static.chartbeat.com/js/chartbeat.js"></script></body></html>
