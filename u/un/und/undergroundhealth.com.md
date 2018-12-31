@@ -1,159 +1,114 @@
-> *The following text is extracted and transformed from the undergroundhealth.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315061436id_/http%3A//www.undergroundhealth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the undergroundhealth.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231220835id_/https%3A//www.amazon.com/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D468496) for the most accurate reproduction.*
 
-# Privacy Policy - Underground Health
+# Amazon.com Help: Amazon.com Privacy Notice
 
-This privacy policy applies to users of the undergroundhealth.com website (the “Site”). This privacy policy is intended to inform you about the information that is collected from you when you visit the Site; how this information may be used and disclosed; how you can control the use and disclosure of your information; and how your information is protected.
+**Last updated: August 29, 2017.** To see what has changed, [click here](https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=16015091) . 
 
-**1\. Scope**
+Amazon.com knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. **By visiting Amazon.com, you are accepting the practices described in this Privacy Notice.**
 
-This privacy policy applies only to the Site. It does not apply to information collected through any other website or to the practices of companies that the site does not control. Please note that the Site may contain links to other websites. If you click on a link to another website, this privacy policy will not apply to any information collected on that website. We are not responsible for the privacy practices of other websites, and we recommend that you read the privacy policies of each website that you visit.
+##  What Personal Information About Customers Does Amazon.com Gather? 
 
-**2\. What information the Site collects**
+The information we learn from customers helps us personalize and continually improve your Amazon experience. Here are the types of information we gather. 
 
-We limit the personal information that we collect to what is necessary for the purposes that we have identified. The types of information that we collect include:  
-Information you provide directly to us:  
-You are not required to provide information directly to us in order to view the Site. However, when you use certain Site functions, such as when you register for certain services, access certain content or features, or directly contact the Site, we may ask you to provide information, including:
+  * **Information You Give Us:** We receive and store any information you enter on our Web site or give us in any other way. Click here to see examples of what we collect. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our stores, and communicating with you. 
+  * **Automatic Information:** We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses Amazon.com or advertisements and other content served by or on behalf of Amazon.com on other Web sites. Click here to see examples of the information we receive. 
+  * **Mobile:** When you download or use [apps created by Amazon](https://www.amazon.com/gp/feature.html?&docId=1000511451) or our subsidiaries, we may receive information about your location and your mobile device, including a unique identifier for your device. We may use this information to provide you with location-based services, such as advertising, search results, and other personalized content. Most mobile devices allow you to turn off location services. For more information about how to do this,click here . 
+  * **E-mail Communications:** To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from Amazon.com if your computer supports such capabilities. We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please adjust your [Customer Communication Preferences](https://www.amazon.com/gp/gss/ccp/ref=hp_468496_ccp) . 
+  * **Information from Other Sources:** We might receive information about you from other sources and add it to our account information. Click here to see examples of the information we receive. 
 
-Registration and contact information, such as name, email address, postal address, phone number, and mobile number;  
-username and password;  
-information posted in community discussions and other interactive online features;  
-search queries conducted on the Site; and  
-correspondence you send to us.
 
-Information automatically collected when you visit and interact with the Site:  
-When you visit and interact with the Site, certain information may be collected automatically, including:
 
-your computer’s Internet Protocol (IP) address;  
-your browser type and operating system;  
-the web pages you were visiting immediately before and after you came to the Site;  
-activities within community discussions;  
-web pages and advertisements that you view, and links that you click on, within the Site;  
-information about the searches you perform on the Site and how you use the results of those searches;  
-information about the services that you use on the Site, how frequently you use them; and your responses to the offerings and advertisements presented on the Site, including those available through third party websites  
-your bandwidth speed and information about the software programs that are installed on your computer;  
-aggregated data about email click-through rates and user video viewing;  
-location data and other information about mobile devices used to access and interact with the Site;  
-standard server log information; and  
-information collected through HTML cookies, Flash cookies, web beacons, and similar technologies.
+##  What About Cookies? 
 
-**Information we collect from other sources** :
+  * Cookies are unique identifiers that we transfer to your device to enable our systems to recognize your device and to provide features such as [1-Click](https://web.archive.org/gp/help/customer/display.html?nodeId=468480) purchasing, [Recommended for You](https://www.amazon.com/gp/yourstore/nr/ref=hp_468496_recommended) , personalized advertisements on other Web sites (e.g., Amazon Associates with content served by Amazon.com and Web sites using Checkout by Amazon payment service), and storage of items in your Shopping Cart between visits. 
+  * The Help feature on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the Web site of its manufacturer. Because cookies allow you to take advantage of some of Amazon.com's essential features, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Cart, proceed to Checkout, or use any Amazon.com products and services that require you to Sign in. 
 
-We may access information about you from third-party sources and platforms (such as social networking sites, databases, online marketing firms, and ad targeting firms), including:  
-if you access third-party social networking services (such as Facebook Connect or Twitter) through the Site, your username and connection lists for those services;  
-demographic data, such as age range, gender, and interests;  
-advertisement interaction and viewing data, such as ad click-through rates and information about how many times you viewed a particular ad; and  
-unique identifiers, including mobile device identification numbers, that can identify the physical location of such devices in accordance with applicable law.
 
-Please note that the Site may combine the information that we collect with information we obtain from third-party sources.
 
-**3\. How We Use the Information that We Collect**
+##  Does Amazon.com Share the Information It Receives? 
 
-We collect information for one or more of the following purposes:
+Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only as described below and with subsidiaries Amazon.com, Inc. controls that either are subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice. 
 
-**Email Communications** :
+  * **Affiliated Businesses We Do Not Control:** We work closely with affiliated businesses. In some cases, such as Marketplace sellers, these businesses operate stores at Amazon.com or sell offerings to you at Amazon.com. In other cases, we operate stores, provide services, or sell product lines jointly with these businesses. Click here for some examples of co-branded and joint offerings. You can tell when a third party is involved in your transactions, and we share customer information related to those transactions with that third party. 
+  * **Third-Party Service Providers:** We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes. 
+  * **Promotional Offers:** Sometimes we send offers to selected groups of Amazon.com customers on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not want to receive such offers, please adjust your [Customer Communication Preferences](https://www.amazon.com/gp/gss/ccp/ref=hp_468496_ccp2) . 
+  * **Business Transfers:** As we continue to develop our business, we might sell or buy stores, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the customer consents otherwise). Also, in the unlikely event that Amazon.com, Inc., or substantially all of its assets are acquired, customer information will of course be one of the transferred assets. 
+  * **Protection of Amazon.com and Others:** We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our [Conditions of Use](https://web.archive.org/gp/help/customer/display.html?nodeId=000000) and other agreements; or protect the rights, property, or safety of Amazon.com, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice. 
+  * **With Your Consent:** Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information. 
 
-We may use the information that we collect to send you e-mail communications, such as editorial updates, information about your account or changes to the Site, and promotional messages about our own or our marketing partners’ products and services. If you signed up for one of our email newsletters, we also will send you the newsletter that you requested.
 
-**Mobile Communications:**
 
-With your consent, we may use your mobile number to send you promotions, notifications, or other services.
+##  How Secure Is Information About Me? 
 
-**Advertising:**
+  * We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. 
+  * We reveal only the last four digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. 
+  * It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer. [Click here](https://web.archive.org/gp/help/customer/display.html?nodeId=201293120) for more information on how to sign off. 
 
-In order to provide our readers with free access to our content, we display advertisements on the Site. To create a more customized online experience for you, some of the ads you may receive are tailored to your preferences using information collected through cookies, web beacons, and other sources, such as ad networks which help us to present customized content and advertisements on the Site. Through this process, advertisers reach Site visitors who are most interested in their products, and you see advertising for products or services in which you may be interested.
 
-Third-party advertisers and advertising platforms also may serve targeted ads on the Site. Please remember that the information practices of third-party advertisers or platforms collecting data on our site are not covered by this privacy policy.
 
-**User Accounts:**
+##  What About Third-Party Advertisers and Links to Other Websites? 
 
-To provide you with an open, but also civil, discussion forum, we track user involvement in our community discussions. For example, we keep track of the ratio of how many flagged comments are eventually deleted in order to award badges to our most effective comment moderators.
+Our site includes third-party advertising and links to other Web sites. For more information about third-party advertising at Amazon.com, including personalized or interest-based ads, please read our [Interest-Based Ads](https://www.amazon.com/interestbasedads) policy. 
 
-**Request Fulfillment:**
+##  Which Information Can I Access? 
 
-We may use the information that we collect to fulfill your requests for products, services, and information. For example, we may use your contact information to respond to your customer service requests or to enable you to participate in features on the Site such as surveys, polls, sweepstakes, and message boards.
+Amazon.com gives you access to a broad range of information about your account and your interactions with Amazon.com for the limited purpose of viewing and, in certain cases, updating that information. [Click here](https://web.archive.org/gp/help/customer/display.html?nodeId=468496) to see some examples, the list of which will change as our Web site evolves. 
 
-**Statistical Analysis:**
+##  What Choices Do I Have? 
 
-In order to learn more about how our Site is used, we aggregate and analyze the data that we collect. We may use this information, for example, to monitor and analyze use of the Site, to increase our Site’s functionality, and to better tailor our content and design to suit our visitors’ needs.
+  * As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of such Amazon.com features as [Your Profile](https://www.amazon.com/gp/pdp/ref=hp_468496_profile), [Wish Lists](https://www.amazon.com/gp/registry/wishlist-homepage.html/ref=hp_468496_wishlist) , [Customer Reviews](https://web.archive.org/gp/help/customer/display.html?nodeId=200791000), and [Amazon Prime](https://www.amazon.com/gp/browse.html/ref=hp_468496_prime?node=13819211). 
+  * You can add or update certain information on pages such as those referenced in the [Which Information Can I Access?](https://web.archive.org/gp/help/customer/display.html?nodeId=468496) section. When you update information, we usually keep a copy of the prior version for our records. 
+  * If you do not want to receive e-mail or other mail from us, please adjust your [Customer Communication Preferences](https://www.amazon.com/gp/gss/ccp/ref=hp_468496_ccp3) . (If you do not want to receive [Conditions of Use](https://web.archive.org/web/20181231220835id_/https%3A//www.amazon.com/gp/help/customer/GUID-9E1C842E-2978-4D86-9865-C4FEDC9F84F1) and other legal notices from us, such as this Privacy Notice, those notices will still govern your use of Amazon.com, and it is your responsibility to review them for changes.) 
+  * If you do not want us to use personal information that we gather to allow third parties to personalize advertisements we display to you, please adjust your [Advertising Preferences](https://www.amazon.com/gp/dra/info/ref=hp_468496_advertisingpref2) . 
+  * The Help feature on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the Web site of its manufacturer. Because cookies allow you to take advantage of some of Amazon.com's essential features, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Cart, proceed to Checkout, or use any Amazon.com products and services that require you to Sign in. 
 
-**Enforcement:**
 
-We may use the information that we collect to meet legal and regulatory requirements, to prevent illegal activities, to enforce the Site’s Terms and Conditions, and to otherwise protect our rights and the rights of our users.
 
-**4\. Information Sharing**
+##  Are Children Allowed to Use Amazon.com? 
 
-The undergroundhealth.com Site values your privacy, and shares information about our users only under certain circumstances. We will make information about you available to other companies, applications, or people in the circumstances listed below:
+Amazon.com does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use Amazon.com only with the involvement of a parent or guardian. We do not knowingly collect personal information from children under the age of 13 without the consent of the child's parent or guardian. For more information, please see our [Children's Privacy Disclosure](https://www.amazon.com/gp/help/customer/display.html?nodeId=202185560). 
 
-We may share aggregated information or information that does not directly identify you with third parties to help us develop content, services, and advertising that we hope you will find of interest. Please note that we do not share contact information with third parties that advertise on the Site.
+## EU-US and Swiss-US Privacy Shield
 
-We may employ third parties to perform Site-related services, including database management, maintenance services, analytics, marketing, data processing, and email and text message distribution. These third parties have access to your information only to perform these tasks on our behalf.
+Amazon.com, Inc. participates in the EU-US and Swiss-US Privacy Shield frameworks. Click [here](https://www.amazon.com/gp/help/customer/display.html/ref=hp_left_v4_sib?ie=UTF8&nodeId=202135380) to learn more. 
 
-If you choose to engage in public activities on the site, such as posting comments on community message boards, any information you submit can be read, collected, or used by others. Please exercise caution when deciding to disclose any personal information in public activities or submissions.
+##  Conditions of Use, Notices, and Revisions 
 
-We may share information about you in the event that the Site is acquired by or merged with another company or a similar corporate transaction takes place. However, the Site will notify you by placing a prominent notice on our site or sending a notice to the primary email address specified in your account before your information is transferred and becomes subject to a different privacy policy.
+If you choose to visit Amazon.com, your visit and any dispute over privacy is subject to this Notice and our [Conditions of Use](https://web.archive.org/gp/help/customer/display.html?nodeId=201909000), including limitations on damages, resolution of disputes, and application of the law of the state of Washington. If you have any concern about privacy at Amazon.com, please contact us with a thorough description, and we will try to resolve it. Our business changes constantly, and our Privacy Notice and the [Conditions of Use](https://web.archive.org/gp/help/customer/display.html?nodeId=201909000) will change also. We may e-mail periodic reminders of our notices and conditions, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers. 
 
-We may share information about you to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety or other rights and interests of any person, violations of the Site’s Terms and Conditions, or as otherwise required by law.
+Related Practices and Information 
 
-We may share information about you to respond to court orders, search warrants, judicial proceedings, subpoenas, legal process, or other law enforcement measures, to establish or exercise our legal rights, or to defend against legal claims.
+  * [Conditions of Use](https://web.archive.org/web/20181231220835id_/https%3A//www.amazon.com/gp/help/customer/GUID-9E1C842E-2978-4D86-9865-C4FEDC9F84F1)
+  * [Discussion Boards](https://www.amazon.com/gp/help/customer/display.html/ref=hp_468496_discussion?nodeId=14279661)
+  * [Community Rules](https://www.amazon.com/gp/help/customer/display.html/ref=hp_468496_crules?nodeId=537776)
+  * [Help department](https://www.amazon.com/gp/browse.html/ref=hp_468496_help?node=508510)
+  * [Most Recent Purchases](https://www.amazon.com/your-orders)
+  * [Your Profile and Community Guidelines](https://www.amazon.com/gp/browse.html/ref=hp_468496_yourprofile?node=14279631)
 
-In addition to the scenarios identified above, we may share information about you for any other purposes disclosed to you at the time we collect your information or pursuant to your consent.
 
-Please note that third parties may independently collect data about you, including your IP address and information about the websites you visit and the links you click, through cookies, clicks on links, or other means when you visit or view ads on the Site. For more information, see our section on cookies and other technologies and third party advertising.
 
-**5\. Third-party Services**
+##  Examples of Information Collected 
 
-To customize your experience on the Site and to simplify the Site’s registration process, we provide you with the opportunity to access or interact with third-party services, such as Facebook and Twitter. When you connect to the Site through these third-party services, we may share information about you with these third-party service providers and they may share data about you with us.
+**Information You Give Us**
 
-When you allow us to access your data through a third-party service to create a Site profile, we may use this data for several purposes, including:  
-Creating relationships automatically within our system. For example, if you connect to us via a service with a public friend list, like Twitter, we may check to see if any people you follow on Twitter are also Site members. If we find a match, we will replicate your Twitter relationship with those members, setting them to be fans, followers, or friends on our Site.  
-Suggesting relationships. For example, if you connect via a service that has a private contact list (like Google and Yahoo!), we check for people in your contacts who are Site members and suggest that you become a fan of these users. This process is not automatic; you must affirmatively choose to become a fan of these suggested users.  
-Populating a list of potential friends to whom you can send emails. When users share content with their friends using, for example, the forward-to-a-friend feature on the Site, we may use friend lists from third-party services to create a list of contacts to whom you may choose to send the email message.  
-Populating a list of potential friends to whom you can send service-specific messages. For example, we may use friend lists from a third-party service to create a list of contacts to whom you may choose to send an invitation to view an interactive slideshow.  
-To enhance and personalize your experience on the Site. When you are connected via a third-party service, we may access certain account information, such as your profile picture, what stories are popular in your network, and what your friends are saying about certain articles or blog posts, in order to enhance and personalize your experience on the Site.
+You provide most such information when you search, buy, post, participate in a contest or questionnaire, or communicate with customer service. For example, you provide information when you search for a product; place an order through Amazon.com or one of our third-party sellers; provide information in [Your Account](https://www.amazon.com/gp/css/homepage.html/ref=hp_468496_youraccount) (and you might have more than one if you have used more than one e-mail address when shopping with us) or [Your Profile](https://www.amazon.com/gp/pdp/profile/) ; communicate with us by phone, e-mail, or otherwise; complete a questionnaire or a contest entry form; use our services such as [Amazon Instant Video](https://www.amazon.com/Instant-Video/b/?node=2858778011); compile [Wish Lists](https://www.amazon.com/gp/registry/wishlist-homepage.html/ref=hp_468496_wishlist2) or other gift registries; participate in Discussion Boards or other community features; provide and rate [Reviews](https://www.amazon.com/gp/help/customer/display.html/?nodeId=200791000); and employ [Product Availability Alerts](https://web.archive.org/gp/help/customer/display.html?nodeId=569162), such as Available to Order Notifications. As a result of those actions, you might supply us with such information as your name, address, and phone numbers; credit card information; people to whom purchases have been shipped, including addresses and phone number; people (with addresses and phone numbers) listed in [1-Click](https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=468482) settings; e-mail addresses of your friends and other people; content of reviews and e-mails to us; personal description and photograph in [Your Profile](https://www.amazon.com/profile) ; and financial information, including Social Security and driver's license numbers. 
 
-In addition, if you connect to a Facebook account, your experience on the Site may be personalized. For example, you may automatically see what stories are popular in your network, and what your friends are saying about particular stories.
+**Automatic Information**
 
-**6\. Your Choices**
+Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; login; e-mail address; password; computer and connection information such as browser type, version, and time zone setting, browser plug-in types and versions, operating system, and platform; purchase history, which we sometimes aggregate with similar information from other customers to create features like [Top Sellers](https://www.amazon.com/gp/bestsellers) ; the full Uniform Resource Locator (URL) clickstream to, through, and from our Web site, including date and time; cookie number; products you viewed or searched for; and the phone number you used to call our 800 number. We may also use browser data such as cookies, Flash cookies (also known as Flash Local Shared Objects), or similar data on certain parts of our Web site for fraud prevention and other purposes. During some visits we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page. We may also collect technical information to help us identify your device for fraud prevention and diagnostic purposes. 
 
-We are committed to offering you meaningful privacy choices regarding the collection, use, and disclosure of your personal information. This includes the opportunity to:
+**Mobile**
 
-**Deactivate your account**  
-You can deactivate your account at any time by visiting the preferences page for your profile. When you deactivate your account, your user profile will be disabled, but your public comments will remain on the site. The Site has no responsibility to take down, remove, or edit any of your public activities or any submissions that are a result of your public activities. For more information, please review our Terms and Conditions.
+Most mobile devices provide users with the ability to disable location services. Most likely, these controls are located in the device's settings menu. For information about specific devices, [click here](https://www.amazon.com/gp/help/customer/display.html/ref=hp_468496_turnofflbs?nodeId=200903520) . If you have questions about how to disable your device's location services, we recommend you contact your mobile service carrier or your device manufacturer. 
 
-**Cookies and Other Technologies**
+**Information from Other Sources**
 
-As discussed in the sections on cookies and other technologies and third party advertising, some information is collected about you automatically through cookies and other technologies to customize your online experience. You can opt out of the use of your information for targeting purposes through the following procedures:
+Examples of information we receive from other sources include updated delivery and address information from our carriers or other third parties, which we use to correct our records and deliver your next purchase or communication more easily; account information, purchase or redemption information, and page-view information from some merchants with which we operate co-branded businesses or for which we provide technical, fulfillment, advertising, or other services; search term and search result information from some searches conducted through the Web search features offered by our subsidiary, Alexa Internet; search results and links, including paid listings (such as Sponsored Links); and credit history information from credit bureaus, which we use to help prevent and detect fraud and to offer certain credit or financial services to some customers. 
 
-**Cookies.** You can change your browser settings to reject all cookies, accept only certain cookies, or notify you when a cookie is set. Please note that you may need to renew these settings if you delete your cookies after these preferences are made. These settings also may not apply if you are using a different computer or Internet browser. In addition, many third-party advertising networks are members of the Network Advertising Initiative (“NAI”). To opt out of having information collected by NAI member companies used for behavioral advertising, to obtain information about the technologies these ad networks might use, and to view information regarding their privacy policies, please visit http://networkadvertising.org/managing/opt_out.asp.
+**Co-branded and Joint Offerings**
 
-**Flash Cookies.** You can control how Flash cookies are used by visiting the Adobe Macromedia site, located here. Adobe enables you to allow some Flash cookies from certain websites, limit Flash cookies’ storage capacity, and disallow Flash cookies altogether. In addition, if you use Mozilla Firefox for your Internet browser, you can download the BetterPrivacy add-on to automatically delete your Flash cookies every time you close your browser.
+Examples of businesses with which we offer joint or co-branded products and other offerings include Starbucks, OfficeMax, Verizon Wireless, Sprint, T-Mobile, AT&T, J&R Electronics, Eddie Bauer and Northern Tool + Equipment. 
 
-If you opt out of these technologies, you will continue to see advertising displayed on the Site, but the advertising may not be targeted to your interests.  
-Please remember that we do not have access to, or control over, advertisers’ or service providers’ cookies, and the information practices of third parties are not covered by this privacy policy.
+**Information You Can Access**
 
-**7\. Confidentiality and Security**
-
-We have privacy and security practices in place to safeguard your personal information. We retain personal information only as long as necessary to fulfill the purposes for which it was collected and as permitted or required by law. We also limit access to information about you to employees or service providers who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. Moreover, we have adopted commercially reasonable technical, physical, and administrative procedures to help protect your personal information from loss or theft and unauthorized access, disclosure, copying, use, or modification.
-
-Please note that no data transmission or storage can be guaranteed to be 100% secure. We want you to feel confident using the Site, but we cannot ensure or warrant the security of any information you transmit to us.
-
-**8\. Information May Be Collected, Transferred, Stored.**
-
-The undergroundhealth.com Site and its third party partners to whom we disclose information under this policy may perform activities outside of the United States and potentially collect, transfer, store, and process your personal information in other countries. As a result, your information may be subject to the laws of those countries. These laws may not be equivalent to the privacy and data protection laws in Canada. Information may be disclosed in response to valid demands or requests from government authorities, courts, or law enforcement in these countries. By using this Site or providing us with your information, you consent to the potential collection, transfer, storage, and processing of information in other countries.
-
-**9\. Children’s Guidelines**
-
-We do not knowingly collect personal information from children under 13. If we learn that we have collected any personal information from a child under the age of 13 without verifiable parental consent, we will delete that information from our database as quickly as possible.
-
-**10\. Changes to the Privacy Policy**
-
-We may update this privacy policy at any time to reflect changes in our practices and service offerings. If we modify this privacy policy, we will update the “Effective Date.” We will also notify you of any substantive changes in the way we treat your information by placing a prominent notice on our site or sending a notice to the primary email address specified in your account. Your continued use of the account following notice of a change means that you agree to and accept the new terms of the privacy policy. If you do not agree with any changes made or with the new terms of the policy, you must immediately stop using the account and deactivate it.
-
-**11\. Addressing Your Concerns**
-
-We have implemented policies and practices to give effect to this policy, including training and communicating with our employees the importance of privacy. We regularly monitor our procedures and security measures to ensure that they remain effective and that they are being properly administered. If you have questions about this privacy policy, please contact our privacy team as follows:
-
-By Email:  
-admin@undergroundhealth.com
-
-Effective Date: January 1, 2008
+Examples of information you can access easily at Amazon.com include up-to-date information regarding recent orders; personally identifiable information (including name, e-mail, password, communications and personalized advertising preferences, address book, and 1-Click settings); payment settings (including credit card information and promotional certificate and gift card balances); e-mail notification settings (including Product Availability Alerts, Delivers, and newsletters); Recommendations (including Recommended for You and Improve Your Recommendations); shopping lists and gift registries (including Wish Lists and Baby and Wedding Registries); Seller accounts; and Your Profile (including your product Reviews, Recommendations, Listmania lists, Reminders, personal profile, and Wish List). 
