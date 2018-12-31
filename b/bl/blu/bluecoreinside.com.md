@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bluecoreinside.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625064315id_/https%3A//www.bluecoreinside.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluecoreinside.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231071057id_/https%3A//www.bluecoreinside.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | BLUECORE INSIDE
 
 The privacy of our visitors to BluecoreInside.com is important to us.
 
