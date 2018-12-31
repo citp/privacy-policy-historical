@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the thesweethome.com privacy policy that was archived on 2018-05-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180527212309id_/https%3A//thewirecutter.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thesweethome.com privacy policy that was archived on 2018-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181231204957id_/https%3A//thewirecutter.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><head>
 	<meta charset="UTF-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="https://js-agent.newrelic.com/nr-1071.min.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-W3CTCVX"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQYFWF9aDRAJXFlRBQkP"};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):w?w(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!w&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="https://js-agent.newrelic.com/nr-1099.min.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-W3CTCVX"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQYFWF9aDRAJXFlRBQkP"};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(16),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(17),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,v="fn"+h,w="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(v,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(v,function(t,n){i(w,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(v,function(t,n){i(w,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(19)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(19)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(19)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(19)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):v?v(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(19)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,v=l.SI,w="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(w,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!v&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===w||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(16),s=t(17),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){if(!o)return!1;if(t!==o)return!1;if(!n)return!0;if(!i)return!1;for(var e=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==e[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(o="Safari",i=c[1])}n.exports={agent:o,version:i,match:r}},{}],16:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],17:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],18:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],19:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(17),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=m(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[g[e]];return d&&d.push([b,e,r,a]),a}}function p(t,n){y[t]=m(t).concat(n)}function h(t,n){var e=y[t];if(e)for(var r=0;r<e.length;r++)e[r]===n&&e.splice(r,1)}function m(t){return y[t]||[]}function v(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",g[e]=n,n in u||(u[n]=[])})}var y={},g={},b={on:p,addEventListener:p,removeEventListener:h,emit:e,get:v,listeners:m,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(16),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!E++){var t=x.info=NREUM.info,n=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(g,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+x.offset],null,"api");var e=p.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===p.readyState&&i()}function i(){c("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-x.offset}var s=(new Date).getTime(),c=t("handle"),f=t(16),u=t("ee"),d=t(15),l=window,p=l.document,h="addEventListener",m="attachEvent",v=l.XMLHttpRequest,w=v&&v.prototype;NREUM.o={ST:setTimeout,SI:l.setImmediate,CT:clearTimeout,XHR:v,REQ:l.Request,EV:l.Event,PR:l.Promise,MO:l.MutationObserver};var y=""+location,g={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1099.min.js"},b=v&&w&&w[h]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:s,now:a,origin:y,features:{},xhrWrappable:b,userAgent:d};t(12),p[h]?(p[h]("DOMContentLoaded",i,!1),l[h]("load",r,!1)):(p[m]("onreadystatechange",o),l[m]("onload",r)),c("mark",["firstbyte",s],null,"api");var E=0,O=t(18)},{}]},{},["loader",2,10,4,3]);</script>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="profile" href="http://gmpg.org/xfn/11">
 	<link rel="pingback" href="https://thewirecutter.com/xmlrpc.php">
@@ -14,9 +14,9 @@
 <link rel="alternate" type="application/rss+xml" title="Wirecutter: Reviews for the Real World » Comments Feed" href="https://thewirecutter.com/comments/feed/">
 <link rel="alternate" type="application/rss+xml" title="Wirecutter: Reviews for the Real World » Privacy Policy Comments Feed" href="https://thewirecutter.com/privacy/feed/">
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/cdn.thewirecutter.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.6"}};
-			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="https://cdn.thewirecutter.com/wp-includes/js/wp-emoji-release.min.js?ver=4.9.6" type="text/javascript" defer=""></script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/cdn.thewirecutter.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.8"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://cdn.thewirecutter.com/wp-includes/js/wp-emoji-release.min.js?ver=4.9.8" type="text/javascript" defer=""></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -31,29 +31,28 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="yeti-css" href="https://cdn.thewirecutter.com/wp-content/themes/yeti/assets/build/css/theme.css?ver=1527200775" type="text/css" media="all">
-<script type="text/javascript" src="https://cdn.thewirecutter.com/wp-includes/js/jquery/jquery.js"></script>
+<link rel="stylesheet" id="yeti-css" href="https://cdn.thewirecutter.com/wp-content/themes/yeti/assets/build/css/theme.css?ver=1546127722" type="text/css" media="all">
+<link rel="stylesheet" id="elasticpress-facets-css" href="https://cdn.thewirecutter.com/wp-content/plugins/ElasticPress/features/facets/assets/css/facets.min.css?ver=2.6.1" type="text/css" media="all">
 <script type="text/javascript" src="https://cdn.optimizely.com/js/8453001447.js?ver=1.0.55" async="async"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var yetiDfp = {"renderAds":"0"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="https://cdn.thewirecutter.com/wp-content/themes/yeti/assets/build/yetiHeader.js?ver=1527200775"></script>
 <link rel="https://api.w.org/" href="https://thewirecutter.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://thewirecutter.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://cdn.thewirecutter.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.9.6">
+<meta name="generator" content="WordPress 4.9.8">
 <link rel="canonical" href="https://thewirecutter.com/privacy/">
 <link rel="shortlink" href="https://thewirecutter.com/?p=5845">
 <link rel="alternate" type="application/json+oembed" href="https://thewirecutter.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fthewirecutter.com%2Fprivacy%2F">
 <link rel="alternate" type="text/xml+oembed" href="https://thewirecutter.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fthewirecutter.com%2Fprivacy%2F&amp;format=xml">
 <script async="async">
 	dataLayer = [ {
-		"objectID"            : "PA5845",
-		"objectPrimaryTerm"   : "",
-		"objectAuxiliaryTerms": "",
-		"objectAuthors"       : ""	} ];
+		"objectID"             : "PA5845",
+		"objectPrimaryTerm"    : "",
+		"objectAuxiliaryTerms" : "",
+		"objectAuthors"        : "",
+		"objectSeoTierTerm"    : "",
+		"objectDesignationTerm": "",
+		"objectActivityTerm"   : "",
+		"platform"             : "wirecutter",
+	} ];
 </script>
 
 <!-- Google Tag Manager -->
@@ -77,17 +76,39 @@ var yetiDfp = {"renderAds":"0"};
 <meta property="og:locale" content="en_US">
 <meta property="fb:app_id" content="441494522611849">
 <meta property="og:image" content="https://cdn.thewirecutter.com/wp-content/uploads/2017/10/Facebook-OG-social-share-image_630x420.png">
-<meta name="theme-color" content="#ffffff"></head>
+<meta name="theme-color" content="#ffffff"><link rel="canonical" href="https://thewirecutter.com/privacy/"></head>
 <body class="page-template-default page page-id-5845">
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W3CTCVX"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) --><div id="page" class="container">
 	
+<div class="site-head-banner feedback-banner js-feedback-banner" aria-hidden="true">
+	<div class="row">
+		<p class="summary">
+			</p><div class="summary__content--desktop">
+				<strong class="notice medium-text"><p>Have a minute?</p>
+</strong>
+				<span class="medium-text">
+					<p>Our New Year’s resolution: Keep trying new things. <a href="https://nyt.qualtrics.com/jfe/form/SV_aY3k9mF8uzilEz3">Take our short survey</a> and let us know what you’d be interested in seeing from us next!</p>
+				</span>
+			</div>
+			<div class="summary__content--desktop">
+				<strong class="notice small-text"><p>Have a minute?</p>
+</strong>
+				<span class="small-text">
+					<p>Our New Year’s resolution: Keep trying new things. <a href="https://nyt.qualtrics.com/jfe/form/SV_aY3k9mF8uzilEz3">Take our short survey</a> and let us know what you’d be interested in seeing from us next!</p>
+				</span>
+			</div>
+		<p></p>
+		<span class="banner-close" href="#" title="Close Banner"></span>
+	</div>
+</div>
+
 <div class="site-head-banner cookie-policy-banner js-cookie-policy-banner" aria-hidden="true">
 	<div class="row">
 		<p class="summary">
-			We use cookies and similar technologies to measure traffic, repeat visitors and site performance. <a href="https://thewirecutter.com/cookie-policy">Learn more about cookies (including how to disable them)</a>. By clicking “<a href="#" class="js-cookie-banner-link-optin" title="Cookie Opt-In">I agree</a>”, “X” or by continuing to use our site you consent to the use of cookies (unless you’ve disabled cookies).
+			We use cookies and similar technologies to measure traffic, repeat visitors and site performance. <a href="https://thewirecutter.com/cookie-policy/">Learn more about cookies (including how to disable them)</a>. By clicking “<a href="#" class="js-cookie-banner-link-optin" title="Cookie Opt-In">I agree</a>”, “X” or by continuing to use our site you consent to the use of cookies (unless you’ve disabled cookies).
 		</p>
 		<span class="banner-close" title="Close Banner"></span>
 	</div>
@@ -97,11 +118,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="desktop-header-wrap">
 				<div class="mobile-header js-mobile-sticky-header">
 					<div class="branding">
-						<h2 class="heading">
-							<a class="heading-link logo" href="https://thewirecutter.com" aria-label="Wirecutter" title="Wirecutter">
+													<h2 class="heading">
+													<a class="heading-link logo" href="https://thewirecutter.com/" aria-label="Wirecutter" title="Wirecutter">
 								Wirecutter							</a>
-						</h2>
-					</div>
+													</h2>
+											</div>
 					<nav id="primary-small-container" class="nav-primary nav-small">	<button class="mobile-menu-toggle">
 		<span aria-hidden="false" class="browse">Browse</span>
 		<span aria-hidden="" class="close">Close</span>
@@ -110,10 +131,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<div class="search-group">
 			
 <form role="search" method="get" class="search-form" action="https://thewirecutter.com/">
-	<label for="search-form-5b0b1664ce47d">
+	<label for="search-form-5c2a74a60ce62">
 		<span class="screen-reader-text">Search Wirecutter For:</span>
 	</label>
-	<input type="search" id="search-form-5b0b1664ce47d" class="search-field" placeholder="Show me the best..." value="Box fan" name="s">
+	<input type="search" id="search-form-5c2a74a60ce62" class="search-field" placeholder="Show me the best..." value="" name="s">
 	<button type="submit" class="search-submit">
 		<span class="screen-reader-text">Search</span>
 	</button>
@@ -136,11 +157,29 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<li id="menu-item-8302" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8302"><a href="https://thewirecutter.com/electronics/networking/" class="nav-link sub-link">Networking</a></li>
 	<li id="menu-item-21631" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21631"><a href="https://thewirecutter.com/office/printers-scanners/" class="nav-link sub-link">Printers &amp; Scanners</a></li>
 	<li id="menu-item-8303" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8303"><a href="https://thewirecutter.com/electronics/projectors/" class="nav-link sub-link">Projectors</a></li>
-	<li id="menu-item-23667" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-23667"><a href="https://thewirecutter.com/home-garden/smart-home/" class="nav-link sub-link">Smart Home</a></li>
+	<li id="menu-item-23667" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-23667"><a href="https://thewirecutter.com/home-garden/smart-home/" class="nav-link sub-link">Smart Home Devices</a></li>
 	<li id="menu-item-8304" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8304"><a href="https://thewirecutter.com/electronics/smartphones/" class="nav-link sub-link">Smartphones</a></li>
 	<li id="menu-item-8305" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8305"><a href="https://thewirecutter.com/electronics/storage-devices/" class="nav-link sub-link">Storage</a></li>
 	<li id="menu-item-8306" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8306"><a href="https://thewirecutter.com/electronics/tablets/" class="nav-link sub-link">Tablets</a></li>
 	<li id="menu-item-8307" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8307"><a href="https://thewirecutter.com/electronics/tvs/" class="nav-link sub-link">TVs</a></li>
+	<li id="menu-item-66692" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-66692"><a href="https://thewirecutter.com/electronics/usb-c/" class="nav-link sub-link">USB-C</a></li>
+</ul>
+</li>
+<li id="menu-item-8275" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-8275"><a href="https://thewirecutter.com/home-garden/" class="nav-link top-link">Home &amp; Garden</a>
+<ul class="sub-menu">
+<li class="menu-item section-all"><a href="https://thewirecutter.com/home-garden/" class="nav-link sub-link all-link">All Home &amp; Garden</a></li>	<li id="menu-item-8261" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8261"><a href="https://thewirecutter.com/home-garden/bathroom/" class="nav-link sub-link">Bathroom</a></li>
+	<li id="menu-item-8262" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8262"><a href="https://thewirecutter.com/home-garden/bedroom/" class="nav-link sub-link">Bedroom</a></li>
+	<li id="menu-item-8263" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8263"><a href="https://thewirecutter.com/home-garden/cleaning/" class="nav-link sub-link">Cleaning</a></li>
+	<li id="menu-item-8264" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8264"><a href="https://thewirecutter.com/home-garden/closet-laundry/" class="nav-link sub-link">Closet &amp; Laundry</a></li>
+	<li id="menu-item-8265" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8265"><a href="https://thewirecutter.com/home-garden/entertaining-home/" class="nav-link sub-link">Entertaining</a></li>
+	<li id="menu-item-8266" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8266"><a href="https://thewirecutter.com/home-garden/furniture/" class="nav-link sub-link">Furniture</a></li>
+	<li id="menu-item-8267" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8267"><a href="https://thewirecutter.com/home-garden/garage/" class="nav-link sub-link">Garage</a></li>
+	<li id="menu-item-8268" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8268"><a href="https://thewirecutter.com/home-garden/gardening/" class="nav-link sub-link">Gardening</a></li>
+	<li id="menu-item-13625" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-13625"><a href="https://thewirecutter.com/home-garden/safety-home-garden/" class="nav-link sub-link">Safety</a></li>
+	<li id="menu-item-8277" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8277"><a href="https://thewirecutter.com/home-garden/smart-home/" class="nav-link sub-link">Smart Home Devices</a></li>
+	<li id="menu-item-8278" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8278"><a href="https://thewirecutter.com/home-garden/storage-home-garden/" class="nav-link sub-link">Storage</a></li>
+	<li id="menu-item-8279" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8279"><a href="https://thewirecutter.com/home-garden/tools/" class="nav-link sub-link">Tools</a></li>
+	<li id="menu-item-8280" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8280"><a href="https://thewirecutter.com/home-garden/weather/" class="nav-link sub-link">Weather</a></li>
 </ul>
 </li>
 <li id="menu-item-21633" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-21633"><a href="https://thewirecutter.com/kitchen-dining/" class="nav-link top-link">Kitchen &amp; Dining</a>
@@ -156,7 +195,43 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<li id="menu-item-21638" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21638"><a href="https://thewirecutter.com/kitchen-dining/wine-bar/" class="nav-link sub-link">Wine &amp; Bar</a></li>
 </ul>
 </li>
-<li id="menu-item-8240" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-8240"><a href="https://thewirecutter.com/health-fitness/" class="nav-link top-link">Health &amp; Fitness</a>
+<li id="menu-item-8287" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-8287"><a href="https://thewirecutter.com/money/" class="nav-link top-link">Money</a>
+<ul class="sub-menu">
+<li class="menu-item section-all"><a href="https://thewirecutter.com/money/" class="nav-link sub-link all-link">All Money</a></li>	<li id="menu-item-73065" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-73065"><a href="https://thewirecutter.com/money/credit-cards/" class="nav-link sub-link">Best Credit Cards</a></li>
+	<li id="menu-item-73062" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-73062"><a href="https://thewirecutter.com/money/managing-money/" class="nav-link sub-link">Managing Your Money</a></li>
+	<li id="menu-item-73063" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-73063"><a href="https://thewirecutter.com/money/managing-debt/" class="nav-link sub-link">Paying Down Debt</a></li>
+	<li id="menu-item-73064" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-73064"><a href="https://thewirecutter.com/money/retirement/" class="nav-link sub-link">Planning for Retirement</a></li>
+</ul>
+</li>
+<li id="js-medium-overflow" class="nav-overflow nav-overflow-medium">
+					<a href="#" class="nav-link more-categories">More categories...</a>
+					<ul class="sub-menu"><li id="menu-item-8298" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-8298"><a href="https://thewirecutter.com/travel/" class="nav-link top-link">Travel</a>
+<ul class="sub-menu">
+<li class="menu-item section-all"><a href="https://thewirecutter.com/travel/" class="nav-link sub-link all-link">All Travel</a></li>	<li id="menu-item-8252" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8252"><a href="https://thewirecutter.com/travel/backpacks/" class="nav-link sub-link">Backpacks</a></li>
+	<li id="menu-item-8253" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8253"><a href="https://thewirecutter.com/travel/bags/" class="nav-link sub-link">Bags</a></li>
+	<li id="menu-item-8254" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8254"><a href="https://thewirecutter.com/travel/gear-travel/" class="nav-link sub-link">Gear</a></li>
+	<li id="menu-item-8299" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8299"><a href="https://thewirecutter.com/travel/luggage/" class="nav-link sub-link">Luggage</a></li>
+</ul>
+</li>
+<li id="menu-item-8290" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-8290"><a href="https://thewirecutter.com/office/" class="nav-link top-link">Office</a>
+<ul class="sub-menu">
+<li class="menu-item section-all"><a href="https://thewirecutter.com/office/" class="nav-link sub-link all-link">All Office</a></li>	<li id="menu-item-8273" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8273"><a href="https://thewirecutter.com/office/furniture-office/" class="nav-link sub-link">Furniture</a></li>
+	<li id="menu-item-8291" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8291"><a href="https://thewirecutter.com/office/home-office/" class="nav-link sub-link">Home Office</a></li>
+	<li id="menu-item-8292" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8292"><a href="https://thewirecutter.com/office/printers-scanners/" class="nav-link sub-link">Printers &amp; Scanners</a></li>
+</ul>
+</li>
+<li id="js-large-overflow" class="nav-overflow nav-overflow-large">
+					<a href="#" class="nav-link more-categories">More categories...</a>
+					<ul class="sub-menu"><li id="menu-item-8224" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-8224"><a href="https://thewirecutter.com/appliances/" class="nav-link top-link">Appliances</a>
+<ul class="sub-menu">
+<li class="menu-item section-all"><a href="https://thewirecutter.com/appliances/" class="nav-link sub-link all-link">All Appliances</a></li>	<li id="menu-item-8308" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8308"><a href="https://thewirecutter.com/appliances/large/" class="nav-link sub-link">Large Appliances</a></li>
+	<li id="menu-item-8309" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8309"><a href="https://thewirecutter.com/appliances/small/" class="nav-link sub-link">Small Appliances</a></li>
+	<li id="menu-item-8310" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8310"><a href="https://thewirecutter.com/appliances/vacuums/" class="nav-link sub-link">Vacuum Cleaners</a></li>
+</ul>
+</li>
+<li id="js-x-large-overflow" class="nav-overflow nav-overflow-x-large">
+					<a href="#" class="nav-link more-categories">More categories...</a>
+					<ul class="sub-menu"><li id="menu-item-8240" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-8240"><a href="https://thewirecutter.com/health-fitness/" class="nav-link top-link">Health &amp; Fitness</a>
 <ul class="sub-menu">
 <li class="menu-item section-all"><a href="https://thewirecutter.com/health-fitness/" class="nav-link sub-link all-link">All Health &amp; Fitness</a></li>	<li id="menu-item-29112" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-29112"><a href="https://thewirecutter.com/health-fitness/cycling/" class="nav-link sub-link">Cycling</a></li>
 	<li id="menu-item-8243" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8243"><a href="https://thewirecutter.com/health-fitness/exercise/" class="nav-link sub-link">Exercise</a></li>
@@ -165,9 +240,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<li id="menu-item-8313" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8313"><a href="https://thewirecutter.com/health-fitness/wearables/" class="nav-link sub-link">Wearables</a></li>
 </ul>
 </li>
-<li id="js-medium-overflow" class="nav-overflow nav-overflow-medium">
-					<a href="#" class="nav-link more-categories">More categories...</a>
-					<ul class="sub-menu"><li id="menu-item-8226" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-8226"><a href="https://thewirecutter.com/baby-kid/" class="nav-link top-link">Baby &amp; Kid</a>
+<li id="menu-item-8226" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-8226"><a href="https://thewirecutter.com/baby-kid/" class="nav-link top-link">Baby &amp; Kid</a>
 <ul class="sub-menu">
 <li class="menu-item section-all"><a href="https://thewirecutter.com/baby-kid/" class="nav-link sub-link all-link">All Baby &amp; Kid</a></li>	<li id="menu-item-8227" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8227"><a href="https://thewirecutter.com/baby-kid/baby/" class="nav-link sub-link">Baby</a></li>
 	<li id="menu-item-15912" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-15912"><a href="https://thewirecutter.com/baby-kid/pregnancy-nursing/" class="nav-link sub-link">Pregnancy &amp; Nursing</a></li>
@@ -187,49 +260,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<li id="menu-item-13624" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-13624"><a href="https://thewirecutter.com/home-garden/weather/" class="nav-link sub-link">Weather</a></li>
 </ul>
 </li>
-<li id="menu-item-8290" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-8290"><a href="https://thewirecutter.com/office/" class="nav-link top-link">Office</a>
-<ul class="sub-menu">
-<li class="menu-item section-all"><a href="https://thewirecutter.com/office/" class="nav-link sub-link all-link">All Office</a></li>	<li id="menu-item-8273" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8273"><a href="https://thewirecutter.com/office/furniture-office/" class="nav-link sub-link">Furniture</a></li>
-	<li id="menu-item-8291" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8291"><a href="https://thewirecutter.com/office/home-office/" class="nav-link sub-link">Home Office</a></li>
-	<li id="menu-item-8292" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8292"><a href="https://thewirecutter.com/office/printers-scanners/" class="nav-link sub-link">Printers &amp; Scanners</a></li>
-</ul>
-</li>
-<li id="js-large-overflow" class="nav-overflow nav-overflow-large">
-					<a href="#" class="nav-link more-categories">More categories...</a>
-					<ul class="sub-menu"><li id="menu-item-8298" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-8298"><a href="https://thewirecutter.com/travel/" class="nav-link top-link">Travel</a>
-<ul class="sub-menu">
-<li class="menu-item section-all"><a href="https://thewirecutter.com/travel/" class="nav-link sub-link all-link">All Travel</a></li>	<li id="menu-item-8252" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8252"><a href="https://thewirecutter.com/travel/backpacks/" class="nav-link sub-link">Backpacks</a></li>
-	<li id="menu-item-8253" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8253"><a href="https://thewirecutter.com/travel/bags/" class="nav-link sub-link">Bags</a></li>
-	<li id="menu-item-8254" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8254"><a href="https://thewirecutter.com/travel/gear-travel/" class="nav-link sub-link">Gear</a></li>
-	<li id="menu-item-8299" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8299"><a href="https://thewirecutter.com/travel/luggage/" class="nav-link sub-link">Luggage</a></li>
-</ul>
-</li>
-<li id="js-x-large-overflow" class="nav-overflow nav-overflow-x-large">
-					<a href="#" class="nav-link more-categories">More categories...</a>
-					<ul class="sub-menu"><li id="menu-item-8275" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-8275"><a href="https://thewirecutter.com/home-garden/" class="nav-link top-link">Home &amp; Garden</a>
-<ul class="sub-menu">
-<li class="menu-item section-all"><a href="https://thewirecutter.com/home-garden/" class="nav-link sub-link all-link">All Home &amp; Garden</a></li>	<li id="menu-item-8261" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8261"><a href="https://thewirecutter.com/home-garden/bathroom/" class="nav-link sub-link">Bathroom</a></li>
-	<li id="menu-item-8262" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8262"><a href="https://thewirecutter.com/home-garden/bedroom/" class="nav-link sub-link">Bedroom</a></li>
-	<li id="menu-item-8263" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8263"><a href="https://thewirecutter.com/home-garden/cleaning/" class="nav-link sub-link">Cleaning</a></li>
-	<li id="menu-item-8264" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8264"><a href="https://thewirecutter.com/home-garden/closet-laundry/" class="nav-link sub-link">Closet &amp; Laundry</a></li>
-	<li id="menu-item-8265" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8265"><a href="https://thewirecutter.com/home-garden/entertaining-home/" class="nav-link sub-link">Entertaining</a></li>
-	<li id="menu-item-8266" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8266"><a href="https://thewirecutter.com/home-garden/furniture/" class="nav-link sub-link">Furniture</a></li>
-	<li id="menu-item-8267" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8267"><a href="https://thewirecutter.com/home-garden/garage/" class="nav-link sub-link">Garage</a></li>
-	<li id="menu-item-8268" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8268"><a href="https://thewirecutter.com/home-garden/gardening/" class="nav-link sub-link">Gardening</a></li>
-	<li id="menu-item-13625" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-13625"><a href="https://thewirecutter.com/home-garden/safety-home-garden/" class="nav-link sub-link">Safety</a></li>
-	<li id="menu-item-8277" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8277"><a href="https://thewirecutter.com/home-garden/smart-home/" class="nav-link sub-link">Smart Home</a></li>
-	<li id="menu-item-8278" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8278"><a href="https://thewirecutter.com/home-garden/storage-home-garden/" class="nav-link sub-link">Storage</a></li>
-	<li id="menu-item-8279" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8279"><a href="https://thewirecutter.com/home-garden/tools/" class="nav-link sub-link">Tools</a></li>
-	<li id="menu-item-8280" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8280"><a href="https://thewirecutter.com/home-garden/weather/" class="nav-link sub-link">Weather</a></li>
-</ul>
-</li>
-<li id="menu-item-8224" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-8224"><a href="https://thewirecutter.com/appliances/" class="nav-link top-link">Appliances</a>
-<ul class="sub-menu">
-<li class="menu-item section-all"><a href="https://thewirecutter.com/appliances/" class="nav-link sub-link all-link">All Appliances</a></li>	<li id="menu-item-8308" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8308"><a href="https://thewirecutter.com/appliances/large/" class="nav-link sub-link">Large Appliances</a></li>
-	<li id="menu-item-8309" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8309"><a href="https://thewirecutter.com/appliances/small/" class="nav-link sub-link">Small Appliances</a></li>
-	<li id="menu-item-8310" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8310"><a href="https://thewirecutter.com/appliances/vacuums/" class="nav-link sub-link">Vacuum Cleaners</a></li>
-</ul>
-</li>
 <li id="menu-item-8297" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-8297"><a href="https://thewirecutter.com/pets/" class="nav-link top-link">Pets</a>
 <ul class="sub-menu">
 <li class="menu-item section-all"><a href="https://thewirecutter.com/pets/" class="nav-link sub-link all-link">All Pets</a></li>	<li id="menu-item-8270" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8270"><a href="https://thewirecutter.com/pets/cats/" class="nav-link sub-link">Cats</a></li>
@@ -242,15 +272,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <li class="menu-item section-all"><a href="https://thewirecutter.com/hobby-crafts/" class="nav-link sub-link all-link">All Hobby &amp; Crafts</a></li>	<li id="menu-item-8314" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8314"><a href="https://thewirecutter.com/hobby-crafts/music/" class="nav-link sub-link">Music</a></li>
 </ul>
 </li>
-<li id="menu-item-8287" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-8287"><a href="https://thewirecutter.com/money/" class="nav-link top-link">Money</a>
-<ul class="sub-menu">
-<li class="menu-item section-all"><a href="https://thewirecutter.com/money/" class="nav-link sub-link all-link">All Money</a></li>	<li id="menu-item-8259" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8259"><a href="https://thewirecutter.com/money/banking/" class="nav-link sub-link">Banking</a></li>
-	<li id="menu-item-8260" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8260"><a href="https://thewirecutter.com/money/credit-cards/" class="nav-link sub-link">Credit Cards</a></li>
-	<li id="menu-item-8288" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8288"><a href="https://thewirecutter.com/money/insurance/" class="nav-link sub-link">Insurance</a></li>
-	<li id="menu-item-8289" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8289"><a href="https://thewirecutter.com/money/investing/" class="nav-link sub-link">Investing</a></li>
-</ul>
-</li>
 <li id="menu-item-8239" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8239"><a href="https://thewirecutter.com/holiday-gifts/" class="nav-link top-link">Holiday &amp; Gift Guides</a></li>
+<li id="menu-item-65309" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-65309"><a href="https://thewirecutter.com/software/" class="nav-link top-link">Software &amp; Apps</a></li>
 <li id="menu-item-8228" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-8228"><a href="https://thewirecutter.com/cars/" class="nav-link top-link">Cars</a>
 <ul class="sub-menu">
 <li class="menu-item section-all"><a href="https://thewirecutter.com/cars/" class="nav-link sub-link all-link">All Cars</a></li>	<li id="menu-item-8229" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8229"><a href="https://thewirecutter.com/cars/accessories-auto/" class="nav-link sub-link">Accessories</a></li>
@@ -269,10 +292,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="search-group">
 						
 <form role="search" method="get" class="search-form" action="https://thewirecutter.com/">
-	<label for="search-form-5b0b1c4632f12">
+	<label for="search-form-5c2a80f570c35">
 		<span class="screen-reader-text">Search Wirecutter For:</span>
 	</label>
-	<input type="search" id="search-form-5b0b1c4632f12" class="search-field" placeholder="Show me the best..." value="" name="s">
+	<input type="search" id="search-form-5c2a80f570c35" class="search-field" placeholder="Show me the best..." value="" name="s">
 	<button type="submit" class="search-submit">
 		<span class="screen-reader-text">Search</span>
 	</button>
@@ -303,11 +326,29 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<li id="menu-item-8333" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8333"><a href="https://thewirecutter.com/electronics/networking/" class="nav-link sub-link">Networking</a></li>
 	<li id="menu-item-21630" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21630"><a href="https://thewirecutter.com/office/printers-scanners/" class="nav-link sub-link">Printers &amp; Scanners</a></li>
 	<li id="menu-item-8334" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8334"><a href="https://thewirecutter.com/electronics/projectors/" class="nav-link sub-link">Projectors</a></li>
-	<li id="menu-item-23661" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-23661"><a href="https://thewirecutter.com/home-garden/smart-home/" class="nav-link sub-link">Smart Home</a></li>
+	<li id="menu-item-23661" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-23661"><a href="https://thewirecutter.com/home-garden/smart-home/" class="nav-link sub-link">Smart Home Devices</a></li>
 	<li id="menu-item-8335" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8335"><a href="https://thewirecutter.com/electronics/smartphones/" class="nav-link sub-link">Smartphones</a></li>
 	<li id="menu-item-8336" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8336"><a href="https://thewirecutter.com/electronics/storage-devices/" class="nav-link sub-link">Storage</a></li>
 	<li id="menu-item-8337" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8337"><a href="https://thewirecutter.com/electronics/tablets/" class="nav-link sub-link">Tablets</a></li>
 	<li id="menu-item-8338" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8338"><a href="https://thewirecutter.com/electronics/tvs/" class="nav-link sub-link">TVs</a></li>
+	<li id="menu-item-66676" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-66676"><a href="https://thewirecutter.com/electronics/usb-c/" class="nav-link sub-link">USB-C</a></li>
+</ul>
+</li>
+<li id="menu-item-8372" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-8372"><a href="https://thewirecutter.com/home-garden/" class="nav-link top-link">Home &amp; Garden</a>
+<ul class="sub-menu">
+<li class="menu-item section-all"><a href="https://thewirecutter.com/home-garden/" class="nav-link sub-link all-link">All Home &amp; Garden</a></li>	<li id="menu-item-21606" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21606"><a href="https://thewirecutter.com/home-garden/bathroom/" class="nav-link sub-link">Bathroom</a></li>
+	<li id="menu-item-21607" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21607"><a href="https://thewirecutter.com/home-garden/bedroom/" class="nav-link sub-link">Bedroom</a></li>
+	<li id="menu-item-21608" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21608"><a href="https://thewirecutter.com/home-garden/cleaning/" class="nav-link sub-link">Cleaning</a></li>
+	<li id="menu-item-21609" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21609"><a href="https://thewirecutter.com/home-garden/closet-laundry/" class="nav-link sub-link">Closet &amp; Laundry</a></li>
+	<li id="menu-item-15914" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-15914"><a href="https://thewirecutter.com/home-garden/garage/" class="nav-link sub-link">Garage</a></li>
+	<li id="menu-item-21610" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21610"><a href="https://thewirecutter.com/home-garden/entertaining-home/" class="nav-link sub-link">Entertaining</a></li>
+	<li id="menu-item-21611" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21611"><a href="https://thewirecutter.com/home-garden/furniture/" class="nav-link sub-link">Furniture</a></li>
+	<li id="menu-item-21612" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21612"><a href="https://thewirecutter.com/home-garden/gardening/" class="nav-link sub-link">Gardening</a></li>
+	<li id="menu-item-8408" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8408"><a href="https://thewirecutter.com/home-garden/safety-home-garden/" class="nav-link sub-link">Safety</a></li>
+	<li id="menu-item-8409" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8409"><a href="https://thewirecutter.com/home-garden/smart-home/" class="nav-link sub-link">Smart Home Devices</a></li>
+	<li id="menu-item-21615" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21615"><a href="https://thewirecutter.com/home-garden/storage-home-garden/" class="nav-link sub-link">Storage</a></li>
+	<li id="menu-item-21613" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21613"><a href="https://thewirecutter.com/home-garden/tools/" class="nav-link sub-link">Tools</a></li>
+	<li id="menu-item-8412" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8412"><a href="https://thewirecutter.com/home-garden/weather/" class="nav-link sub-link">Weather</a></li>
 </ul>
 </li>
 <li id="menu-item-21620" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-21620"><a href="https://thewirecutter.com/kitchen-dining/" class="nav-link top-link">Kitchen &amp; Dining</a>
@@ -323,18 +364,50 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<li id="menu-item-21626" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21626"><a href="https://thewirecutter.com/kitchen-dining/wine-bar/" class="nav-link sub-link">Wine &amp; Bar</a></li>
 </ul>
 </li>
-<li id="menu-item-8397" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section current-review-ancestor menu-item-has-children menu-item-8397"><a href="https://thewirecutter.com/health-fitness/" class="nav-link top-link">Health &amp; Fitness</a>
+<li id="menu-item-8392" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-8392"><a href="https://thewirecutter.com/money/" class="nav-link top-link">Money</a>
 <ul class="sub-menu">
-<li class="menu-item section-all"><a href="https://thewirecutter.com/health-fitness/" class="nav-link sub-link all-link">All Health &amp; Fitness</a></li>	<li id="menu-item-29115" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section current-review-ancestor current-menu-parent current-review-parent menu-item-29115"><a href="https://thewirecutter.com/health-fitness/cycling/" class="nav-link sub-link">Cycling</a></li>
+<li class="menu-item section-all"><a href="https://thewirecutter.com/money/" class="nav-link sub-link all-link">All Money</a></li>	<li id="menu-item-73058" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-73058"><a href="https://thewirecutter.com/money/credit-cards/" class="nav-link sub-link">Best Credit Cards</a></li>
+	<li id="menu-item-73059" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-73059"><a href="https://thewirecutter.com/money/managing-money/" class="nav-link sub-link">Managing Your Money</a></li>
+	<li id="menu-item-73060" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-73060"><a href="https://thewirecutter.com/money/managing-debt/" class="nav-link sub-link">Paying Down Debt</a></li>
+	<li id="menu-item-73061" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-73061"><a href="https://thewirecutter.com/money/retirement/" class="nav-link sub-link">Planning for Retirement</a></li>
+</ul>
+</li>
+<li id="js-medium-overflow" class="nav-overflow nav-overflow-medium">
+					<a href="#" class="nav-link more-categories">More categories...</a>
+					<ul class="sub-menu"><li id="menu-item-8387" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-8387"><a href="https://thewirecutter.com/travel/" class="nav-link top-link">Travel</a>
+<ul class="sub-menu">
+<li class="menu-item section-all"><a href="https://thewirecutter.com/travel/" class="nav-link sub-link all-link">All Travel</a></li>	<li id="menu-item-8389" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8389"><a href="https://thewirecutter.com/travel/bags/" class="nav-link sub-link">Bags</a></li>
+	<li id="menu-item-8390" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8390"><a href="https://thewirecutter.com/travel/gear-travel/" class="nav-link sub-link">Gear</a></li>
+	<li id="menu-item-8391" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8391"><a href="https://thewirecutter.com/travel/luggage/" class="nav-link sub-link">Luggage</a></li>
+</ul>
+</li>
+<li id="menu-item-8368" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-8368"><a href="https://thewirecutter.com/office/" class="nav-link top-link">Office</a>
+<ul class="sub-menu">
+<li class="menu-item section-all"><a href="https://thewirecutter.com/office/" class="nav-link sub-link all-link">All Office</a></li>	<li id="menu-item-8370" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8370"><a href="https://thewirecutter.com/office/home-office/" class="nav-link sub-link">Home Office</a></li>
+	<li id="menu-item-8371" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8371"><a href="https://thewirecutter.com/office/printers-scanners/" class="nav-link sub-link">Printers &amp; Scanners</a></li>
+</ul>
+</li>
+<li id="js-large-overflow" class="nav-overflow nav-overflow-large">
+					<a href="#" class="nav-link more-categories">More categories...</a>
+					<ul class="sub-menu"><li id="menu-item-21619" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-21619"><a href="https://thewirecutter.com/appliances/" class="nav-link top-link">Appliances</a>
+<ul class="sub-menu">
+<li class="menu-item section-all"><a href="https://thewirecutter.com/appliances/" class="nav-link sub-link all-link">All Appliances</a></li>	<li id="menu-item-21721" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21721"><a href="https://thewirecutter.com/appliances/large/" class="nav-link sub-link">Large Appliances</a></li>
+	<li id="menu-item-21719" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21719"><a href="https://thewirecutter.com/appliances/small/" class="nav-link sub-link">Small Appliances</a></li>
+	<li id="menu-item-21722" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21722"><a href="https://thewirecutter.com/appliances/vacuums/" class="nav-link sub-link">Vacuum Cleaners</a></li>
+</ul>
+</li>
+<li id="js-x-large-overflow" class="nav-overflow nav-overflow-x-large">
+					<a href="#" class="nav-link more-categories">More categories...</a>
+					<ul class="sub-menu"><li id="menu-item-8397" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-8397"><a href="https://thewirecutter.com/health-fitness/" class="nav-link top-link">Health &amp; Fitness</a>
+<ul class="sub-menu">
+<li class="menu-item section-all"><a href="https://thewirecutter.com/health-fitness/" class="nav-link sub-link all-link">All Health &amp; Fitness</a></li>	<li id="menu-item-29115" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-29115"><a href="https://thewirecutter.com/health-fitness/cycling/" class="nav-link sub-link">Cycling</a></li>
 	<li id="menu-item-8400" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8400"><a href="https://thewirecutter.com/health-fitness/exercise/" class="nav-link sub-link">Exercise</a></li>
 	<li id="menu-item-21616" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21616"><a href="https://thewirecutter.com/health-fitness/medical-supplies/" class="nav-link sub-link">Medical Supplies</a></li>
 	<li id="menu-item-8402" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8402"><a href="https://thewirecutter.com/health-fitness/personal-care/" class="nav-link sub-link">Personal Care</a></li>
 	<li id="menu-item-8403" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8403"><a href="https://thewirecutter.com/health-fitness/wearables/" class="nav-link sub-link">Wearables</a></li>
 </ul>
 </li>
-<li id="js-medium-overflow" class="nav-overflow nav-overflow-medium">
-					<a href="#" class="nav-link more-categories">More categories...</a>
-					<ul class="sub-menu"><li id="menu-item-8381" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-8381"><a href="https://thewirecutter.com/baby-kid/" class="nav-link top-link">Baby &amp; Kid</a>
+<li id="menu-item-8381" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-8381"><a href="https://thewirecutter.com/baby-kid/" class="nav-link top-link">Baby &amp; Kid</a>
 <ul class="sub-menu">
 <li class="menu-item section-all"><a href="https://thewirecutter.com/baby-kid/" class="nav-link sub-link all-link">All Baby &amp; Kid</a></li>	<li id="menu-item-8382" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8382"><a href="https://thewirecutter.com/baby-kid/baby/" class="nav-link sub-link">Baby</a></li>
 	<li id="menu-item-15907" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-15907"><a href="https://thewirecutter.com/baby-kid/pregnancy-nursing/" class="nav-link sub-link">Pregnancy &amp; Nursing</a></li>
@@ -346,53 +419,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <ul class="sub-menu">
 <li class="menu-item section-all"><a href="https://thewirecutter.com/outdoors/" class="nav-link sub-link all-link">All Outdoors</a></li>	<li id="menu-item-8359" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8359"><a href="https://thewirecutter.com/outdoors/apparel/" class="nav-link sub-link">Apparel</a></li>
 	<li id="menu-item-8360" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8360"><a href="https://thewirecutter.com/outdoors/camping/" class="nav-link sub-link">Camping</a></li>
-	<li id="menu-item-29114" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section current-review-ancestor current-menu-parent current-review-parent menu-item-29114"><a href="https://thewirecutter.com/health-fitness/cycling/" class="nav-link sub-link">Cycling</a></li>
+	<li id="menu-item-29114" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-29114"><a href="https://thewirecutter.com/health-fitness/cycling/" class="nav-link sub-link">Cycling</a></li>
 	<li id="menu-item-8363" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8363"><a href="https://thewirecutter.com/outdoors/gear/" class="nav-link sub-link">Gear</a></li>
 	<li id="menu-item-8364" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8364"><a href="https://thewirecutter.com/outdoors/hiking/" class="nav-link sub-link">Hiking</a></li>
 	<li id="menu-item-8366" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8366"><a href="https://thewirecutter.com/outdoors/snow/" class="nav-link sub-link">Snow</a></li>
 	<li id="menu-item-8367" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8367"><a href="https://thewirecutter.com/outdoors/swim/" class="nav-link sub-link">Swim</a></li>
 	<li id="menu-item-13909" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-13909"><a href="https://thewirecutter.com/home-garden/weather/" class="nav-link sub-link">Weather</a></li>
-</ul>
-</li>
-<li id="menu-item-8368" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-8368"><a href="https://thewirecutter.com/office/" class="nav-link top-link">Office</a>
-<ul class="sub-menu">
-<li class="menu-item section-all"><a href="https://thewirecutter.com/office/" class="nav-link sub-link all-link">All Office</a></li>	<li id="menu-item-8370" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8370"><a href="https://thewirecutter.com/office/home-office/" class="nav-link sub-link">Home Office</a></li>
-	<li id="menu-item-8371" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8371"><a href="https://thewirecutter.com/office/printers-scanners/" class="nav-link sub-link">Printers &amp; Scanners</a></li>
-</ul>
-</li>
-<li id="js-large-overflow" class="nav-overflow nav-overflow-large">
-					<a href="#" class="nav-link more-categories">More categories...</a>
-					<ul class="sub-menu"><li id="menu-item-8387" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-8387"><a href="https://thewirecutter.com/travel/" class="nav-link top-link">Travel</a>
-<ul class="sub-menu">
-<li class="menu-item section-all"><a href="https://thewirecutter.com/travel/" class="nav-link sub-link all-link">All Travel</a></li>	<li id="menu-item-8389" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8389"><a href="https://thewirecutter.com/travel/bags/" class="nav-link sub-link">Bags</a></li>
-	<li id="menu-item-8390" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8390"><a href="https://thewirecutter.com/travel/gear-travel/" class="nav-link sub-link">Gear</a></li>
-	<li id="menu-item-8391" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8391"><a href="https://thewirecutter.com/travel/luggage/" class="nav-link sub-link">Luggage</a></li>
-</ul>
-</li>
-<li id="js-x-large-overflow" class="nav-overflow nav-overflow-x-large">
-					<a href="#" class="nav-link more-categories">More categories...</a>
-					<ul class="sub-menu"><li id="menu-item-8372" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section current-review-ancestor current-menu-parent current-review-parent menu-item-has-children menu-item-8372"><a href="https://thewirecutter.com/home-garden/" class="nav-link top-link">Home &amp; Garden</a>
-<ul class="sub-menu">
-<li class="menu-item section-all"><a href="https://thewirecutter.com/home-garden/" class="nav-link sub-link all-link">All Home &amp; Garden</a></li>	<li id="menu-item-21606" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21606"><a href="https://thewirecutter.com/home-garden/bathroom/" class="nav-link sub-link">Bathroom</a></li>
-	<li id="menu-item-21607" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21607"><a href="https://thewirecutter.com/home-garden/bedroom/" class="nav-link sub-link">Bedroom</a></li>
-	<li id="menu-item-21608" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21608"><a href="https://thewirecutter.com/home-garden/cleaning/" class="nav-link sub-link">Cleaning</a></li>
-	<li id="menu-item-21609" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21609"><a href="https://thewirecutter.com/home-garden/closet-laundry/" class="nav-link sub-link">Closet &amp; Laundry</a></li>
-	<li id="menu-item-15914" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section current-review-ancestor current-menu-parent current-review-parent menu-item-15914"><a href="https://thewirecutter.com/home-garden/garage/" class="nav-link sub-link">Garage</a></li>
-	<li id="menu-item-21610" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21610"><a href="https://thewirecutter.com/home-garden/entertaining-home/" class="nav-link sub-link">Entertaining</a></li>
-	<li id="menu-item-21611" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21611"><a href="https://thewirecutter.com/home-garden/furniture/" class="nav-link sub-link">Furniture</a></li>
-	<li id="menu-item-21612" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21612"><a href="https://thewirecutter.com/home-garden/gardening/" class="nav-link sub-link">Gardening</a></li>
-	<li id="menu-item-8408" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8408"><a href="https://thewirecutter.com/home-garden/safety-home-garden/" class="nav-link sub-link">Safety</a></li>
-	<li id="menu-item-8409" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8409"><a href="https://thewirecutter.com/home-garden/smart-home/" class="nav-link sub-link">Smart Home</a></li>
-	<li id="menu-item-21615" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21615"><a href="https://thewirecutter.com/home-garden/storage-home-garden/" class="nav-link sub-link">Storage</a></li>
-	<li id="menu-item-21613" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21613"><a href="https://thewirecutter.com/home-garden/tools/" class="nav-link sub-link">Tools</a></li>
-	<li id="menu-item-8412" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8412"><a href="https://thewirecutter.com/home-garden/weather/" class="nav-link sub-link">Weather</a></li>
-</ul>
-</li>
-<li id="menu-item-21619" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-21619"><a href="https://thewirecutter.com/appliances/" class="nav-link top-link">Appliances</a>
-<ul class="sub-menu">
-<li class="menu-item section-all"><a href="https://thewirecutter.com/appliances/" class="nav-link sub-link all-link">All Appliances</a></li>	<li id="menu-item-21721" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21721"><a href="https://thewirecutter.com/appliances/large/" class="nav-link sub-link">Large Appliances</a></li>
-	<li id="menu-item-21719" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21719"><a href="https://thewirecutter.com/appliances/small/" class="nav-link sub-link">Small Appliances</a></li>
-	<li id="menu-item-21722" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21722"><a href="https://thewirecutter.com/appliances/vacuums/" class="nav-link sub-link">Vacuum Cleaners</a></li>
 </ul>
 </li>
 <li id="menu-item-8344" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-8344"><a href="https://thewirecutter.com/pets/" class="nav-link top-link">Pets</a>
@@ -407,14 +439,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <li class="menu-item section-all"><a href="https://thewirecutter.com/hobby-crafts/" class="nav-link sub-link all-link">All Hobby &amp; Crafts</a></li>	<li id="menu-item-8407" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8407"><a href="https://thewirecutter.com/hobby-crafts/music/" class="nav-link sub-link">Music</a></li>
 </ul>
 </li>
-<li id="menu-item-8392" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-8392"><a href="https://thewirecutter.com/money/" class="nav-link top-link">Money</a>
-<ul class="sub-menu">
-<li class="menu-item section-all"><a href="https://thewirecutter.com/money/" class="nav-link sub-link all-link">All Money</a></li>	<li id="menu-item-8393" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8393"><a href="https://thewirecutter.com/money/banking/" class="nav-link sub-link">Banking</a></li>
-	<li id="menu-item-8394" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8394"><a href="https://thewirecutter.com/money/credit-cards/" class="nav-link sub-link">Credit Cards</a></li>
-	<li id="menu-item-8395" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8395"><a href="https://thewirecutter.com/money/insurance/" class="nav-link sub-link">Insurance</a></li>
-	<li id="menu-item-8396" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8396"><a href="https://thewirecutter.com/money/investing/" class="nav-link sub-link">Investing</a></li>
-</ul>
-</li>
+<li id="menu-item-65310" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-65310"><a href="https://thewirecutter.com/software/" class="nav-link top-link">Software &amp; Apps</a></li>
 <li id="menu-item-8417" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8417"><a href="https://thewirecutter.com/holiday-gifts/" class="nav-link top-link">Holiday &amp; Gifts</a></li>
 <li id="menu-item-8413" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-8413"><a href="https://thewirecutter.com/cars/" class="nav-link top-link">Cars</a>
 <ul class="sub-menu">
@@ -427,142 +452,144 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<span aria-hidden="false" class="browse">Browse</span>
 		<span aria-hidden="" class="close">Close</span>
 	</button>
-	<ul id="primary-large-sticky" class="menu nav-primary-sticky-menu" aria-hidden=""><li id="menu-item-8322" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-8322"><a href="https://thewirecutter.com/electronics/" class="nav-link top-link">Electronics</a>
+	<ul id="primary-large-sticky" class="menu nav-primary-sticky-menu" aria-hidden=""><li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-8322"><a href="https://thewirecutter.com/electronics/" class="nav-link top-link">Electronics</a>
 <ul class="sub-menu">
-<li class="menu-item section-all"><a href="https://thewirecutter.com/electronics/" class="nav-link sub-link all-link">All Electronics</a></li>	<li id="menu-item-8323" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8323"><a href="https://thewirecutter.com/electronics/accessories/" class="nav-link sub-link">Accessories</a></li>
-	<li id="menu-item-8324" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8324"><a href="https://thewirecutter.com/electronics/audio/" class="nav-link sub-link">Audio</a></li>
-	<li id="menu-item-8325" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8325"><a href="https://thewirecutter.com/electronics/batteries/" class="nav-link sub-link">Batteries and Charging</a></li>
-	<li id="menu-item-8326" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8326"><a href="https://thewirecutter.com/electronics/cameras/" class="nav-link sub-link">Cameras</a></li>
-	<li id="menu-item-8327" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8327"><a href="https://thewirecutter.com/electronics/camera-accessories/" class="nav-link sub-link">Camera Accessories</a></li>
-	<li id="menu-item-8328" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8328"><a href="https://thewirecutter.com/electronics/computers/" class="nav-link sub-link">Computers</a></li>
-	<li id="menu-item-13907" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-13907"><a href="https://thewirecutter.com/health-fitness/exercise/" class="nav-link sub-link">Exercise</a></li>
-	<li id="menu-item-8329" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8329"><a href="https://thewirecutter.com/electronics/gaming/" class="nav-link sub-link">Gaming</a></li>
-	<li id="menu-item-8330" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8330"><a href="https://thewirecutter.com/electronics/headphones/" class="nav-link sub-link">Headphones</a></li>
-	<li id="menu-item-8331" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8331"><a href="https://thewirecutter.com/electronics/home-theater/" class="nav-link sub-link">Home Theater</a></li>
-	<li id="menu-item-8332" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8332"><a href="https://thewirecutter.com/electronics/laptops/" class="nav-link sub-link">Laptops</a></li>
-	<li id="menu-item-8333" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8333"><a href="https://thewirecutter.com/electronics/networking/" class="nav-link sub-link">Networking</a></li>
-	<li id="menu-item-21630" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21630"><a href="https://thewirecutter.com/office/printers-scanners/" class="nav-link sub-link">Printers &amp; Scanners</a></li>
-	<li id="menu-item-8334" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8334"><a href="https://thewirecutter.com/electronics/projectors/" class="nav-link sub-link">Projectors</a></li>
-	<li id="menu-item-23661" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-23661"><a href="https://thewirecutter.com/home-garden/smart-home/" class="nav-link sub-link">Smart Home</a></li>
-	<li id="menu-item-8335" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8335"><a href="https://thewirecutter.com/electronics/smartphones/" class="nav-link sub-link">Smartphones</a></li>
-	<li id="menu-item-8336" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8336"><a href="https://thewirecutter.com/electronics/storage-devices/" class="nav-link sub-link">Storage</a></li>
-	<li id="menu-item-8337" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8337"><a href="https://thewirecutter.com/electronics/tablets/" class="nav-link sub-link">Tablets</a></li>
-	<li id="menu-item-8338" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8338"><a href="https://thewirecutter.com/electronics/tvs/" class="nav-link sub-link">TVs</a></li>
+<li class="menu-item section-all"><a href="https://thewirecutter.com/electronics/" class="nav-link sub-link all-link">All Electronics</a></li>	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8323"><a href="https://thewirecutter.com/electronics/accessories/" class="nav-link sub-link">Accessories</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8324"><a href="https://thewirecutter.com/electronics/audio/" class="nav-link sub-link">Audio</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8325"><a href="https://thewirecutter.com/electronics/batteries/" class="nav-link sub-link">Batteries and Charging</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8326"><a href="https://thewirecutter.com/electronics/cameras/" class="nav-link sub-link">Cameras</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8327"><a href="https://thewirecutter.com/electronics/camera-accessories/" class="nav-link sub-link">Camera Accessories</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8328"><a href="https://thewirecutter.com/electronics/computers/" class="nav-link sub-link">Computers</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-13907"><a href="https://thewirecutter.com/health-fitness/exercise/" class="nav-link sub-link">Exercise</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8329"><a href="https://thewirecutter.com/electronics/gaming/" class="nav-link sub-link">Gaming</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8330"><a href="https://thewirecutter.com/electronics/headphones/" class="nav-link sub-link">Headphones</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8331"><a href="https://thewirecutter.com/electronics/home-theater/" class="nav-link sub-link">Home Theater</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8332"><a href="https://thewirecutter.com/electronics/laptops/" class="nav-link sub-link">Laptops</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8333"><a href="https://thewirecutter.com/electronics/networking/" class="nav-link sub-link">Networking</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21630"><a href="https://thewirecutter.com/office/printers-scanners/" class="nav-link sub-link">Printers &amp; Scanners</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8334"><a href="https://thewirecutter.com/electronics/projectors/" class="nav-link sub-link">Projectors</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-23661"><a href="https://thewirecutter.com/home-garden/smart-home/" class="nav-link sub-link">Smart Home Devices</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8335"><a href="https://thewirecutter.com/electronics/smartphones/" class="nav-link sub-link">Smartphones</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8336"><a href="https://thewirecutter.com/electronics/storage-devices/" class="nav-link sub-link">Storage</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8337"><a href="https://thewirecutter.com/electronics/tablets/" class="nav-link sub-link">Tablets</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8338"><a href="https://thewirecutter.com/electronics/tvs/" class="nav-link sub-link">TVs</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-66676"><a href="https://thewirecutter.com/electronics/usb-c/" class="nav-link sub-link">USB-C</a></li>
 </ul>
 </li>
-<li id="menu-item-21620" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-21620"><a href="https://thewirecutter.com/kitchen-dining/" class="nav-link top-link">Kitchen &amp; Dining</a>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-8372"><a href="https://thewirecutter.com/home-garden/" class="nav-link top-link">Home &amp; Garden</a>
 <ul class="sub-menu">
-<li class="menu-item section-all"><a href="https://thewirecutter.com/kitchen-dining/" class="nav-link sub-link all-link">All Kitchen &amp; Dining</a></li>	<li id="menu-item-21621" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21621"><a href="https://thewirecutter.com/kitchen-dining/baking/" class="nav-link sub-link">Baking</a></li>
-	<li id="menu-item-21622" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21622"><a href="https://thewirecutter.com/kitchen-dining/coffee/" class="nav-link sub-link">Coffee</a></li>
-	<li id="menu-item-21623" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21623"><a href="https://thewirecutter.com/kitchen-dining/cookware/" class="nav-link sub-link">Cookware</a></li>
-	<li id="menu-item-21624" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21624"><a href="https://thewirecutter.com/kitchen-dining/entertaining/" class="nav-link sub-link">Dining &amp; Entertaining</a></li>
-	<li id="menu-item-21627" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21627"><a href="https://thewirecutter.com/kitchen-dining/large-appliances/" class="nav-link sub-link">Large Appliances</a></li>
-	<li id="menu-item-21628" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21628"><a href="https://thewirecutter.com/kitchen-dining/small-appliances/" class="nav-link sub-link">Small Appliances</a></li>
-	<li id="menu-item-21629" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21629"><a href="https://thewirecutter.com/kitchen-dining/storage/" class="nav-link sub-link">Storage</a></li>
-	<li id="menu-item-21625" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21625"><a href="https://thewirecutter.com/kitchen-dining/tools-kitchen-dining/" class="nav-link sub-link">Tools</a></li>
-	<li id="menu-item-21626" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21626"><a href="https://thewirecutter.com/kitchen-dining/wine-bar/" class="nav-link sub-link">Wine &amp; Bar</a></li>
+<li class="menu-item section-all"><a href="https://thewirecutter.com/home-garden/" class="nav-link sub-link all-link">All Home &amp; Garden</a></li>	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21606"><a href="https://thewirecutter.com/home-garden/bathroom/" class="nav-link sub-link">Bathroom</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21607"><a href="https://thewirecutter.com/home-garden/bedroom/" class="nav-link sub-link">Bedroom</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21608"><a href="https://thewirecutter.com/home-garden/cleaning/" class="nav-link sub-link">Cleaning</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21609"><a href="https://thewirecutter.com/home-garden/closet-laundry/" class="nav-link sub-link">Closet &amp; Laundry</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-15914"><a href="https://thewirecutter.com/home-garden/garage/" class="nav-link sub-link">Garage</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21610"><a href="https://thewirecutter.com/home-garden/entertaining-home/" class="nav-link sub-link">Entertaining</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21611"><a href="https://thewirecutter.com/home-garden/furniture/" class="nav-link sub-link">Furniture</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21612"><a href="https://thewirecutter.com/home-garden/gardening/" class="nav-link sub-link">Gardening</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8408"><a href="https://thewirecutter.com/home-garden/safety-home-garden/" class="nav-link sub-link">Safety</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8409"><a href="https://thewirecutter.com/home-garden/smart-home/" class="nav-link sub-link">Smart Home Devices</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21615"><a href="https://thewirecutter.com/home-garden/storage-home-garden/" class="nav-link sub-link">Storage</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21613"><a href="https://thewirecutter.com/home-garden/tools/" class="nav-link sub-link">Tools</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8412"><a href="https://thewirecutter.com/home-garden/weather/" class="nav-link sub-link">Weather</a></li>
 </ul>
 </li>
 <li id="js-medium-overflow" class="nav-overflow nav-overflow-medium">
 					<a href="#" class="nav-link more-categories">More categories...</a>
-					<ul class="sub-menu"><li id="menu-item-8397" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-8397"><a href="https://thewirecutter.com/health-fitness/" class="nav-link top-link">Health &amp; Fitness</a>
+					<ul class="sub-menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-21620"><a href="https://thewirecutter.com/kitchen-dining/" class="nav-link top-link">Kitchen &amp; Dining</a>
 <ul class="sub-menu">
-<li class="menu-item section-all"><a href="https://thewirecutter.com/health-fitness/" class="nav-link sub-link all-link">All Health &amp; Fitness</a></li>	<li id="menu-item-29115" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-29115"><a href="https://thewirecutter.com/health-fitness/cycling/" class="nav-link sub-link">Cycling</a></li>
-	<li id="menu-item-8400" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8400"><a href="https://thewirecutter.com/health-fitness/exercise/" class="nav-link sub-link">Exercise</a></li>
-	<li id="menu-item-21616" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21616"><a href="https://thewirecutter.com/health-fitness/medical-supplies/" class="nav-link sub-link">Medical Supplies</a></li>
-	<li id="menu-item-8402" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8402"><a href="https://thewirecutter.com/health-fitness/personal-care/" class="nav-link sub-link">Personal Care</a></li>
-	<li id="menu-item-8403" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8403"><a href="https://thewirecutter.com/health-fitness/wearables/" class="nav-link sub-link">Wearables</a></li>
+<li class="menu-item section-all"><a href="https://thewirecutter.com/kitchen-dining/" class="nav-link sub-link all-link">All Kitchen &amp; Dining</a></li>	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21621"><a href="https://thewirecutter.com/kitchen-dining/baking/" class="nav-link sub-link">Baking</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21622"><a href="https://thewirecutter.com/kitchen-dining/coffee/" class="nav-link sub-link">Coffee</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21623"><a href="https://thewirecutter.com/kitchen-dining/cookware/" class="nav-link sub-link">Cookware</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21624"><a href="https://thewirecutter.com/kitchen-dining/entertaining/" class="nav-link sub-link">Dining &amp; Entertaining</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21627"><a href="https://thewirecutter.com/kitchen-dining/large-appliances/" class="nav-link sub-link">Large Appliances</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21628"><a href="https://thewirecutter.com/kitchen-dining/small-appliances/" class="nav-link sub-link">Small Appliances</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21629"><a href="https://thewirecutter.com/kitchen-dining/storage/" class="nav-link sub-link">Storage</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21625"><a href="https://thewirecutter.com/kitchen-dining/tools-kitchen-dining/" class="nav-link sub-link">Tools</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21626"><a href="https://thewirecutter.com/kitchen-dining/wine-bar/" class="nav-link sub-link">Wine &amp; Bar</a></li>
 </ul>
 </li>
 <li id="js-large-overflow" class="nav-overflow nav-overflow-large">
 					<a href="#" class="nav-link more-categories">More categories...</a>
-					<ul class="sub-menu"><li id="menu-item-8381" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-8381"><a href="https://thewirecutter.com/baby-kid/" class="nav-link top-link">Baby &amp; Kid</a>
+					<ul class="sub-menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-8392"><a href="https://thewirecutter.com/money/" class="nav-link top-link">Money</a>
 <ul class="sub-menu">
-<li class="menu-item section-all"><a href="https://thewirecutter.com/baby-kid/" class="nav-link sub-link all-link">All Baby &amp; Kid</a></li>	<li id="menu-item-8382" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8382"><a href="https://thewirecutter.com/baby-kid/baby/" class="nav-link sub-link">Baby</a></li>
-	<li id="menu-item-15907" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-15907"><a href="https://thewirecutter.com/baby-kid/pregnancy-nursing/" class="nav-link sub-link">Pregnancy &amp; Nursing</a></li>
-	<li id="menu-item-8385" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8385"><a href="https://thewirecutter.com/baby-kid/school/" class="nav-link sub-link">School</a></li>
-	<li id="menu-item-8386" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8386"><a href="https://thewirecutter.com/baby-kid/toys/" class="nav-link sub-link">Toys</a></li>
+<li class="menu-item section-all"><a href="https://thewirecutter.com/money/" class="nav-link sub-link all-link">All Money</a></li>	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-73058"><a href="https://thewirecutter.com/money/credit-cards/" class="nav-link sub-link">Best Credit Cards</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-73059"><a href="https://thewirecutter.com/money/managing-money/" class="nav-link sub-link">Managing Your Money</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-73060"><a href="https://thewirecutter.com/money/managing-debt/" class="nav-link sub-link">Paying Down Debt</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-73061"><a href="https://thewirecutter.com/money/retirement/" class="nav-link sub-link">Planning for Retirement</a></li>
 </ul>
 </li>
 <li id="js-x-large-overflow" class="nav-overflow nav-overflow-x-large">
 					<a href="#" class="nav-link more-categories">More categories...</a>
-					<ul class="sub-menu"><li id="menu-item-8358" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-8358"><a href="https://thewirecutter.com/outdoors/" class="nav-link top-link">Outdoors</a>
+					<ul class="sub-menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-8387"><a href="https://thewirecutter.com/travel/" class="nav-link top-link">Travel</a>
 <ul class="sub-menu">
-<li class="menu-item section-all"><a href="https://thewirecutter.com/outdoors/" class="nav-link sub-link all-link">All Outdoors</a></li>	<li id="menu-item-8359" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8359"><a href="https://thewirecutter.com/outdoors/apparel/" class="nav-link sub-link">Apparel</a></li>
-	<li id="menu-item-8360" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8360"><a href="https://thewirecutter.com/outdoors/camping/" class="nav-link sub-link">Camping</a></li>
-	<li id="menu-item-29114" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-29114"><a href="https://thewirecutter.com/health-fitness/cycling/" class="nav-link sub-link">Cycling</a></li>
-	<li id="menu-item-8363" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8363"><a href="https://thewirecutter.com/outdoors/gear/" class="nav-link sub-link">Gear</a></li>
-	<li id="menu-item-8364" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8364"><a href="https://thewirecutter.com/outdoors/hiking/" class="nav-link sub-link">Hiking</a></li>
-	<li id="menu-item-8366" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8366"><a href="https://thewirecutter.com/outdoors/snow/" class="nav-link sub-link">Snow</a></li>
-	<li id="menu-item-8367" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8367"><a href="https://thewirecutter.com/outdoors/swim/" class="nav-link sub-link">Swim</a></li>
-	<li id="menu-item-13909" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-13909"><a href="https://thewirecutter.com/home-garden/weather/" class="nav-link sub-link">Weather</a></li>
+<li class="menu-item section-all"><a href="https://thewirecutter.com/travel/" class="nav-link sub-link all-link">All Travel</a></li>	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8389"><a href="https://thewirecutter.com/travel/bags/" class="nav-link sub-link">Bags</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8390"><a href="https://thewirecutter.com/travel/gear-travel/" class="nav-link sub-link">Gear</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8391"><a href="https://thewirecutter.com/travel/luggage/" class="nav-link sub-link">Luggage</a></li>
 </ul>
 </li>
-<li id="menu-item-8368" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-8368"><a href="https://thewirecutter.com/office/" class="nav-link top-link">Office</a>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-8368"><a href="https://thewirecutter.com/office/" class="nav-link top-link">Office</a>
 <ul class="sub-menu">
-<li class="menu-item section-all"><a href="https://thewirecutter.com/office/" class="nav-link sub-link all-link">All Office</a></li>	<li id="menu-item-8370" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8370"><a href="https://thewirecutter.com/office/home-office/" class="nav-link sub-link">Home Office</a></li>
-	<li id="menu-item-8371" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8371"><a href="https://thewirecutter.com/office/printers-scanners/" class="nav-link sub-link">Printers &amp; Scanners</a></li>
+<li class="menu-item section-all"><a href="https://thewirecutter.com/office/" class="nav-link sub-link all-link">All Office</a></li>	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8370"><a href="https://thewirecutter.com/office/home-office/" class="nav-link sub-link">Home Office</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8371"><a href="https://thewirecutter.com/office/printers-scanners/" class="nav-link sub-link">Printers &amp; Scanners</a></li>
 </ul>
 </li>
-<li id="menu-item-8387" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-8387"><a href="https://thewirecutter.com/travel/" class="nav-link top-link">Travel</a>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-21619"><a href="https://thewirecutter.com/appliances/" class="nav-link top-link">Appliances</a>
 <ul class="sub-menu">
-<li class="menu-item section-all"><a href="https://thewirecutter.com/travel/" class="nav-link sub-link all-link">All Travel</a></li>	<li id="menu-item-8389" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8389"><a href="https://thewirecutter.com/travel/bags/" class="nav-link sub-link">Bags</a></li>
-	<li id="menu-item-8390" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8390"><a href="https://thewirecutter.com/travel/gear-travel/" class="nav-link sub-link">Gear</a></li>
-	<li id="menu-item-8391" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8391"><a href="https://thewirecutter.com/travel/luggage/" class="nav-link sub-link">Luggage</a></li>
+<li class="menu-item section-all"><a href="https://thewirecutter.com/appliances/" class="nav-link sub-link all-link">All Appliances</a></li>	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21721"><a href="https://thewirecutter.com/appliances/large/" class="nav-link sub-link">Large Appliances</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21719"><a href="https://thewirecutter.com/appliances/small/" class="nav-link sub-link">Small Appliances</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21722"><a href="https://thewirecutter.com/appliances/vacuums/" class="nav-link sub-link">Vacuum Cleaners</a></li>
 </ul>
 </li>
-<li id="menu-item-8372" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section current-auxiliary-section-ancestor current-menu-ancestor current-menu-parent current-auxiliary-section-parent menu-item-has-children menu-item-8372"><a href="https://thewirecutter.com/home-garden/" class="nav-link top-link">Home &amp; Garden</a>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-8397"><a href="https://thewirecutter.com/health-fitness/" class="nav-link top-link">Health &amp; Fitness</a>
 <ul class="sub-menu">
-<li class="menu-item section-all"><a href="https://thewirecutter.com/home-garden/" class="nav-link sub-link all-link">All Home &amp; Garden</a></li>	<li id="menu-item-21606" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21606"><a href="https://thewirecutter.com/home-garden/bathroom/" class="nav-link sub-link">Bathroom</a></li>
-	<li id="menu-item-21607" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21607"><a href="https://thewirecutter.com/home-garden/bedroom/" class="nav-link sub-link">Bedroom</a></li>
-	<li id="menu-item-21608" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21608"><a href="https://thewirecutter.com/home-garden/cleaning/" class="nav-link sub-link">Cleaning</a></li>
-	<li id="menu-item-21609" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21609"><a href="https://thewirecutter.com/home-garden/closet-laundry/" class="nav-link sub-link">Closet &amp; Laundry</a></li>
-	<li id="menu-item-15914" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-15914"><a href="https://thewirecutter.com/home-garden/garage/" class="nav-link sub-link">Garage</a></li>
-	<li id="menu-item-21610" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21610"><a href="https://thewirecutter.com/home-garden/entertaining-home/" class="nav-link sub-link">Entertaining</a></li>
-	<li id="menu-item-21611" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21611"><a href="https://thewirecutter.com/home-garden/furniture/" class="nav-link sub-link">Furniture</a></li>
-	<li id="menu-item-21612" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21612"><a href="https://thewirecutter.com/home-garden/gardening/" class="nav-link sub-link">Gardening</a></li>
-	<li id="menu-item-8408" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8408"><a href="https://thewirecutter.com/home-garden/safety-home-garden/" class="nav-link sub-link">Safety</a></li>
-	<li id="menu-item-8409" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8409"><a href="https://thewirecutter.com/home-garden/smart-home/" class="nav-link sub-link">Smart Home</a></li>
-	<li id="menu-item-21615" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21615"><a href="https://thewirecutter.com/home-garden/storage-home-garden/" class="nav-link sub-link">Storage</a></li>
-	<li id="menu-item-21613" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section current-menu-item menu-item-21613"><a href="https://thewirecutter.com/home-garden/tools/" class="nav-link sub-link">Tools</a></li>
-	<li id="menu-item-8412" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8412"><a href="https://thewirecutter.com/home-garden/weather/" class="nav-link sub-link">Weather</a></li>
+<li class="menu-item section-all"><a href="https://thewirecutter.com/health-fitness/" class="nav-link sub-link all-link">All Health &amp; Fitness</a></li>	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-29115"><a href="https://thewirecutter.com/health-fitness/cycling/" class="nav-link sub-link">Cycling</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8400"><a href="https://thewirecutter.com/health-fitness/exercise/" class="nav-link sub-link">Exercise</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21616"><a href="https://thewirecutter.com/health-fitness/medical-supplies/" class="nav-link sub-link">Medical Supplies</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8402"><a href="https://thewirecutter.com/health-fitness/personal-care/" class="nav-link sub-link">Personal Care</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8403"><a href="https://thewirecutter.com/health-fitness/wearables/" class="nav-link sub-link">Wearables</a></li>
 </ul>
 </li>
-<li id="menu-item-21619" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-21619"><a href="https://thewirecutter.com/appliances/" class="nav-link top-link">Appliances</a>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-8381"><a href="https://thewirecutter.com/baby-kid/" class="nav-link top-link">Baby &amp; Kid</a>
 <ul class="sub-menu">
-<li class="menu-item section-all"><a href="https://thewirecutter.com/appliances/" class="nav-link sub-link all-link">All Appliances</a></li>	<li id="menu-item-21721" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21721"><a href="https://thewirecutter.com/appliances/large/" class="nav-link sub-link">Large Appliances</a></li>
-	<li id="menu-item-21719" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21719"><a href="https://thewirecutter.com/appliances/small/" class="nav-link sub-link">Small Appliances</a></li>
-	<li id="menu-item-21722" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21722"><a href="https://thewirecutter.com/appliances/vacuums/" class="nav-link sub-link">Vacuum Cleaners</a></li>
+<li class="menu-item section-all"><a href="https://thewirecutter.com/baby-kid/" class="nav-link sub-link all-link">All Baby &amp; Kid</a></li>	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8382"><a href="https://thewirecutter.com/baby-kid/baby/" class="nav-link sub-link">Baby</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-15907"><a href="https://thewirecutter.com/baby-kid/pregnancy-nursing/" class="nav-link sub-link">Pregnancy &amp; Nursing</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8385"><a href="https://thewirecutter.com/baby-kid/school/" class="nav-link sub-link">School</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8386"><a href="https://thewirecutter.com/baby-kid/toys/" class="nav-link sub-link">Toys</a></li>
 </ul>
 </li>
-<li id="menu-item-8344" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-8344"><a href="https://thewirecutter.com/pets/" class="nav-link top-link">Pets</a>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-8358"><a href="https://thewirecutter.com/outdoors/" class="nav-link top-link">Outdoors</a>
 <ul class="sub-menu">
-<li class="menu-item section-all"><a href="https://thewirecutter.com/pets/" class="nav-link sub-link all-link">All Pets</a></li>	<li id="menu-item-8345" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8345"><a href="https://thewirecutter.com/pets/cats/" class="nav-link sub-link">Cats</a></li>
-	<li id="menu-item-8346" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8346"><a href="https://thewirecutter.com/pets/dogs/" class="nav-link sub-link">Dogs</a></li>
-	<li id="menu-item-8347" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8347"><a href="https://thewirecutter.com/pets/gear-pets/" class="nav-link sub-link">Gear</a></li>
+<li class="menu-item section-all"><a href="https://thewirecutter.com/outdoors/" class="nav-link sub-link all-link">All Outdoors</a></li>	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8359"><a href="https://thewirecutter.com/outdoors/apparel/" class="nav-link sub-link">Apparel</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8360"><a href="https://thewirecutter.com/outdoors/camping/" class="nav-link sub-link">Camping</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-29114"><a href="https://thewirecutter.com/health-fitness/cycling/" class="nav-link sub-link">Cycling</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8363"><a href="https://thewirecutter.com/outdoors/gear/" class="nav-link sub-link">Gear</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8364"><a href="https://thewirecutter.com/outdoors/hiking/" class="nav-link sub-link">Hiking</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8366"><a href="https://thewirecutter.com/outdoors/snow/" class="nav-link sub-link">Snow</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8367"><a href="https://thewirecutter.com/outdoors/swim/" class="nav-link sub-link">Swim</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-13909"><a href="https://thewirecutter.com/home-garden/weather/" class="nav-link sub-link">Weather</a></li>
 </ul>
 </li>
-<li id="menu-item-8404" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-8404"><a href="https://thewirecutter.com/hobby-crafts/" class="nav-link top-link">Hobby &amp; Crafts</a>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-8344"><a href="https://thewirecutter.com/pets/" class="nav-link top-link">Pets</a>
 <ul class="sub-menu">
-<li class="menu-item section-all"><a href="https://thewirecutter.com/hobby-crafts/" class="nav-link sub-link all-link">All Hobby &amp; Crafts</a></li>	<li id="menu-item-8407" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8407"><a href="https://thewirecutter.com/hobby-crafts/music/" class="nav-link sub-link">Music</a></li>
+<li class="menu-item section-all"><a href="https://thewirecutter.com/pets/" class="nav-link sub-link all-link">All Pets</a></li>	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8345"><a href="https://thewirecutter.com/pets/cats/" class="nav-link sub-link">Cats</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8346"><a href="https://thewirecutter.com/pets/dogs/" class="nav-link sub-link">Dogs</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8347"><a href="https://thewirecutter.com/pets/gear-pets/" class="nav-link sub-link">Gear</a></li>
 </ul>
 </li>
-<li id="menu-item-8392" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-8392"><a href="https://thewirecutter.com/money/" class="nav-link top-link">Money</a>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-8404"><a href="https://thewirecutter.com/hobby-crafts/" class="nav-link top-link">Hobby &amp; Crafts</a>
 <ul class="sub-menu">
-<li class="menu-item section-all"><a href="https://thewirecutter.com/money/" class="nav-link sub-link all-link">All Money</a></li>	<li id="menu-item-8393" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8393"><a href="https://thewirecutter.com/money/banking/" class="nav-link sub-link">Banking</a></li>
-	<li id="menu-item-8394" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8394"><a href="https://thewirecutter.com/money/credit-cards/" class="nav-link sub-link">Credit Cards</a></li>
-	<li id="menu-item-8395" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8395"><a href="https://thewirecutter.com/money/insurance/" class="nav-link sub-link">Insurance</a></li>
-	<li id="menu-item-8396" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8396"><a href="https://thewirecutter.com/money/investing/" class="nav-link sub-link">Investing</a></li>
+<li class="menu-item section-all"><a href="https://thewirecutter.com/hobby-crafts/" class="nav-link sub-link all-link">All Hobby &amp; Crafts</a></li>	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8407"><a href="https://thewirecutter.com/hobby-crafts/music/" class="nav-link sub-link">Music</a></li>
 </ul>
 </li>
-<li id="menu-item-8417" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8417"><a href="https://thewirecutter.com/holiday-gifts/" class="nav-link top-link">Holiday &amp; Gifts</a></li>
-<li id="menu-item-8413" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-8413"><a href="https://thewirecutter.com/cars/" class="nav-link top-link">Cars</a>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-65310"><a href="https://thewirecutter.com/software/" class="nav-link top-link">Software &amp; Apps</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8417"><a href="https://thewirecutter.com/holiday-gifts/" class="nav-link top-link">Holiday &amp; Gifts</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-8413"><a href="https://thewirecutter.com/cars/" class="nav-link top-link">Cars</a>
 <ul class="sub-menu">
-<li class="menu-item section-all"><a href="https://thewirecutter.com/cars/" class="nav-link sub-link all-link">All Cars</a></li>	<li id="menu-item-8414" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8414"><a href="https://thewirecutter.com/cars/accessories-auto/" class="nav-link sub-link">Accessories</a></li>
-	<li id="menu-item-8415" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8415"><a href="https://thewirecutter.com/cars/passenger-cars/" class="nav-link sub-link">Passenger Cars</a></li>
+<li class="menu-item section-all"><a href="https://thewirecutter.com/cars/" class="nav-link sub-link all-link">All Cars</a></li>	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8414"><a href="https://thewirecutter.com/cars/accessories-auto/" class="nav-link sub-link">Accessories</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8415"><a href="https://thewirecutter.com/cars/passenger-cars/" class="nav-link sub-link">Passenger Cars</a></li>
 </ul>
 </li>
-<li id="menu-item-17277" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-17277"><a href="https://thewirecutter.com/adult/" class="nav-link top-link">Adult</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-17277"><a href="https://thewirecutter.com/adult/" class="nav-link top-link">Adult</a></li>
 </ul></li></ul></li></ul></li></ul></nav><nav id="secondary-large-container" class="nav-secondary"><ul id="secondary-large" class="menu nav-secondary-menu"><li id="menu-item-8421" class="deals-link menu-item menu-item-type-custom menu-item-object-custom menu-item-8421"><a href="https://thewirecutter.com/deals/" class="nav-link top-link">Deals</a></li>
 <li id="menu-item-33527" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-33527"><a href="https://thewirecutter.com/blog/" class="nav-link top-link">Blog</a></li>
 </ul></nav>			</div>
@@ -570,7 +597,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<aside class="statement js-statement">
 		<div class="statement-row">
 			<span class="heading" aria-label="Statement">Reviews for the real world.</span>
-			<p>Wirecutter supports our readers with thousands of hours of reporting and testing to help you <strong>find the stuff you need in order to live a better life</strong>. You support us through our independently chosen links, which earn us a commission. <a href="https://thewirecutter.com/about/">Read more about what we do.</a></p>
+			<p>Wirecutter is reader-supported. When you buy through links on our site, we may earn an affiliate commission. <a href="https://thewirecutter.com/about/">Learn more</a></p>
 		</div>
 	</aside>
 		</header>
@@ -581,7 +608,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<h1 class="headline">Privacy Policy</h1>
 			</header>
 			<section class="content">
-								<section class="intro"><p><em>Last updated: May 23, 2018</em></p>
+								<section class="intro js-intro"><p><em>Last updated: May 23, 2018</em></p>
 <p>The operator of this website, Wirecutter, Inc. (“<strong>Wirecutter</strong>,” “<strong>we</strong>” or “<strong>us</strong>”) cares about your privacy and the security of your information. We want you to be familiar with how we collect, use and disclose information. This Privacy Policy describes our practices in connection with information that we collect through  this website (the “<strong>Site</strong>”), social media pages (“<strong>Social Media Pages</strong>”), HTML-formatted email message that we send to you (“<strong>Emails</strong>”), our offline contacts and any other services that display this Privacy Policy (“<strong>Other Services</strong>”) (collectively referenced in this Privacy Policy as the “<strong>Services</strong>”). </p>
 <h3>To contact us</h3>
 <p>Wirecutter, Inc., located at 620 Eighth Avenue, New York NY 10018, is the company responsible for collection, use and disclosure of your personal information (as defined below) under this Privacy Policy<br>
@@ -740,152 +767,43 @@ Attn.: Privacy Counsel</p>
 				</div>
 	</main>
 		<footer class="site-footer" role="contentinfo">
-		<div class="site-footer-row">
+		<div id="js-site-footer" class="site-footer-row">
 			<div class="group">
-				<p class="tagline">Wirecutter is a list of wonderful things by Brian Lam and friends, founded in 2011 and a part of The New York Times Company since 2016. Have a question? <a href="https://thewirecutter.com/contact-us/?feedback-src-url=https%3A%2F%2Fthewirecutter.com%2Fprivacy%2F">Just ask</a>.</p>
-				<nav id="footer-categories-container" class="footer-categories"><ul id="footer-categories" class="menu category-list"><li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-8322"><a href="https://thewirecutter.com/electronics/" class="nav-link top-link">Electronics</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8323"><a href="https://thewirecutter.com/electronics/accessories/" class="nav-link sub-link">Accessories</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8324"><a href="https://thewirecutter.com/electronics/audio/" class="nav-link sub-link">Audio</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8325"><a href="https://thewirecutter.com/electronics/batteries/" class="nav-link sub-link">Batteries and Charging</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8326"><a href="https://thewirecutter.com/electronics/cameras/" class="nav-link sub-link">Cameras</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8327"><a href="https://thewirecutter.com/electronics/camera-accessories/" class="nav-link sub-link">Camera Accessories</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8328"><a href="https://thewirecutter.com/electronics/computers/" class="nav-link sub-link">Computers</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-13907"><a href="https://thewirecutter.com/health-fitness/exercise/" class="nav-link sub-link">Exercise</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8329"><a href="https://thewirecutter.com/electronics/gaming/" class="nav-link sub-link">Gaming</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8330"><a href="https://thewirecutter.com/electronics/headphones/" class="nav-link sub-link">Headphones</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8331"><a href="https://thewirecutter.com/electronics/home-theater/" class="nav-link sub-link">Home Theater</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8332"><a href="https://thewirecutter.com/electronics/laptops/" class="nav-link sub-link">Laptops</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8333"><a href="https://thewirecutter.com/electronics/networking/" class="nav-link sub-link">Networking</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21630"><a href="https://thewirecutter.com/office/printers-scanners/" class="nav-link sub-link">Printers &amp; Scanners</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8334"><a href="https://thewirecutter.com/electronics/projectors/" class="nav-link sub-link">Projectors</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-23661"><a href="https://thewirecutter.com/home-garden/smart-home/" class="nav-link sub-link">Smart Home</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8335"><a href="https://thewirecutter.com/electronics/smartphones/" class="nav-link sub-link">Smartphones</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8336"><a href="https://thewirecutter.com/electronics/storage-devices/" class="nav-link sub-link">Storage</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8337"><a href="https://thewirecutter.com/electronics/tablets/" class="nav-link sub-link">Tablets</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8338"><a href="https://thewirecutter.com/electronics/tvs/" class="nav-link sub-link">TVs</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-21620"><a href="https://thewirecutter.com/kitchen-dining/" class="nav-link top-link">Kitchen &amp; Dining</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21621"><a href="https://thewirecutter.com/kitchen-dining/baking/" class="nav-link sub-link">Baking</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21622"><a href="https://thewirecutter.com/kitchen-dining/coffee/" class="nav-link sub-link">Coffee</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21623"><a href="https://thewirecutter.com/kitchen-dining/cookware/" class="nav-link sub-link">Cookware</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21624"><a href="https://thewirecutter.com/kitchen-dining/entertaining/" class="nav-link sub-link">Dining &amp; Entertaining</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21627"><a href="https://thewirecutter.com/kitchen-dining/large-appliances/" class="nav-link sub-link">Large Appliances</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21628"><a href="https://thewirecutter.com/kitchen-dining/small-appliances/" class="nav-link sub-link">Small Appliances</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21629"><a href="https://thewirecutter.com/kitchen-dining/storage/" class="nav-link sub-link">Storage</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21625"><a href="https://thewirecutter.com/kitchen-dining/tools-kitchen-dining/" class="nav-link sub-link">Tools</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21626"><a href="https://thewirecutter.com/kitchen-dining/wine-bar/" class="nav-link sub-link">Wine &amp; Bar</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-8397"><a href="https://thewirecutter.com/health-fitness/" class="nav-link top-link">Health &amp; Fitness</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-29115"><a href="https://thewirecutter.com/health-fitness/cycling/" class="nav-link sub-link">Cycling</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8400"><a href="https://thewirecutter.com/health-fitness/exercise/" class="nav-link sub-link">Exercise</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21616"><a href="https://thewirecutter.com/health-fitness/medical-supplies/" class="nav-link sub-link">Medical Supplies</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8402"><a href="https://thewirecutter.com/health-fitness/personal-care/" class="nav-link sub-link">Personal Care</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8403"><a href="https://thewirecutter.com/health-fitness/wearables/" class="nav-link sub-link">Wearables</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-8381"><a href="https://thewirecutter.com/baby-kid/" class="nav-link top-link">Baby &amp; Kid</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8382"><a href="https://thewirecutter.com/baby-kid/baby/" class="nav-link sub-link">Baby</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-15907"><a href="https://thewirecutter.com/baby-kid/pregnancy-nursing/" class="nav-link sub-link">Pregnancy &amp; Nursing</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8385"><a href="https://thewirecutter.com/baby-kid/school/" class="nav-link sub-link">School</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8386"><a href="https://thewirecutter.com/baby-kid/toys/" class="nav-link sub-link">Toys</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-8358"><a href="https://thewirecutter.com/outdoors/" class="nav-link top-link">Outdoors</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8359"><a href="https://thewirecutter.com/outdoors/apparel/" class="nav-link sub-link">Apparel</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8360"><a href="https://thewirecutter.com/outdoors/camping/" class="nav-link sub-link">Camping</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-29114"><a href="https://thewirecutter.com/health-fitness/cycling/" class="nav-link sub-link">Cycling</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8363"><a href="https://thewirecutter.com/outdoors/gear/" class="nav-link sub-link">Gear</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8364"><a href="https://thewirecutter.com/outdoors/hiking/" class="nav-link sub-link">Hiking</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8366"><a href="https://thewirecutter.com/outdoors/snow/" class="nav-link sub-link">Snow</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8367"><a href="https://thewirecutter.com/outdoors/swim/" class="nav-link sub-link">Swim</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-13909"><a href="https://thewirecutter.com/home-garden/weather/" class="nav-link sub-link">Weather</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-8368"><a href="https://thewirecutter.com/office/" class="nav-link top-link">Office</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8370"><a href="https://thewirecutter.com/office/home-office/" class="nav-link sub-link">Home Office</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8371"><a href="https://thewirecutter.com/office/printers-scanners/" class="nav-link sub-link">Printers &amp; Scanners</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-8387"><a href="https://thewirecutter.com/travel/" class="nav-link top-link">Travel</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8389"><a href="https://thewirecutter.com/travel/bags/" class="nav-link sub-link">Bags</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8390"><a href="https://thewirecutter.com/travel/gear-travel/" class="nav-link sub-link">Gear</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8391"><a href="https://thewirecutter.com/travel/luggage/" class="nav-link sub-link">Luggage</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section current-review-ancestor menu-item-has-children menu-item-8372"><a href="https://thewirecutter.com/home-garden/" class="nav-link top-link">Home &amp; Garden</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section current-review-ancestor current-menu-parent current-review-parent menu-item-21606"><a href="https://thewirecutter.com/home-garden/bathroom/" class="nav-link sub-link">Bathroom</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21607"><a href="https://thewirecutter.com/home-garden/bedroom/" class="nav-link sub-link">Bedroom</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21608"><a href="https://thewirecutter.com/home-garden/cleaning/" class="nav-link sub-link">Cleaning</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21609"><a href="https://thewirecutter.com/home-garden/closet-laundry/" class="nav-link sub-link">Closet &amp; Laundry</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-15914"><a href="https://thewirecutter.com/home-garden/garage/" class="nav-link sub-link">Garage</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21610"><a href="https://thewirecutter.com/home-garden/entertaining-home/" class="nav-link sub-link">Entertaining</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21611"><a href="https://thewirecutter.com/home-garden/furniture/" class="nav-link sub-link">Furniture</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21612"><a href="https://thewirecutter.com/home-garden/gardening/" class="nav-link sub-link">Gardening</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8408"><a href="https://thewirecutter.com/home-garden/safety-home-garden/" class="nav-link sub-link">Safety</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8409"><a href="https://thewirecutter.com/home-garden/smart-home/" class="nav-link sub-link">Smart Home</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21615"><a href="https://thewirecutter.com/home-garden/storage-home-garden/" class="nav-link sub-link">Storage</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21613"><a href="https://thewirecutter.com/home-garden/tools/" class="nav-link sub-link">Tools</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8412"><a href="https://thewirecutter.com/home-garden/weather/" class="nav-link sub-link">Weather</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-21619"><a href="https://thewirecutter.com/appliances/" class="nav-link top-link">Appliances</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21721"><a href="https://thewirecutter.com/appliances/large/" class="nav-link sub-link">Large Appliances</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21719"><a href="https://thewirecutter.com/appliances/small/" class="nav-link sub-link">Small Appliances</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-21722"><a href="https://thewirecutter.com/appliances/vacuums/" class="nav-link sub-link">Vacuum Cleaners</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-8344"><a href="https://thewirecutter.com/pets/" class="nav-link top-link">Pets</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8345"><a href="https://thewirecutter.com/pets/cats/" class="nav-link sub-link">Cats</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8346"><a href="https://thewirecutter.com/pets/dogs/" class="nav-link sub-link">Dogs</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8347"><a href="https://thewirecutter.com/pets/gear-pets/" class="nav-link sub-link">Gear</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-8404"><a href="https://thewirecutter.com/hobby-crafts/" class="nav-link top-link">Hobby &amp; Crafts</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8407"><a href="https://thewirecutter.com/hobby-crafts/music/" class="nav-link sub-link">Music</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-8392"><a href="https://thewirecutter.com/money/" class="nav-link top-link">Money</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8393"><a href="https://thewirecutter.com/money/banking/" class="nav-link sub-link">Banking</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8394"><a href="https://thewirecutter.com/money/credit-cards/" class="nav-link sub-link">Credit Cards</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8395"><a href="https://thewirecutter.com/money/insurance/" class="nav-link sub-link">Insurance</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8396"><a href="https://thewirecutter.com/money/investing/" class="nav-link sub-link">Investing</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8417"><a href="https://thewirecutter.com/holiday-gifts/" class="nav-link top-link">Holiday &amp; Gifts</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-has-children menu-item-8413"><a href="https://thewirecutter.com/cars/" class="nav-link top-link">Cars</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8414"><a href="https://thewirecutter.com/cars/accessories-auto/" class="nav-link sub-link">Accessories</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-8415"><a href="https://thewirecutter.com/cars/passenger-cars/" class="nav-link sub-link">Passenger Cars</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-17277"><a href="https://thewirecutter.com/adult/" class="nav-link top-link">Adult</a></li>
+				<p class="tagline">
+					Wirecutter is a list of wonderful things by Brian Lam and friends, founded in 2011 and a part of The New York Times Company since 2016. Have a question?
+					<a href="https://thewirecutter.com/contact-us/" rel="noindex nofollow">Just ask</a>.
+				</p>
+				<nav id="footer-categories-container" class="footer-categories"><ul id="footer-categories" class="menu category-list"><li id="menu-item-69205" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-69205"><a href="https://thewirecutter.com/electronics/" class="nav-link top-link">Electronics</a></li>
+<li id="menu-item-69207" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-69207"><a href="https://thewirecutter.com/home-garden/" class="nav-link top-link">Home &amp; Garden</a></li>
+<li id="menu-item-69208" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-69208"><a href="https://thewirecutter.com/kitchen-dining/" class="nav-link top-link">Kitchen &amp; Dining</a></li>
+<li id="menu-item-69209" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-69209"><a href="https://thewirecutter.com/money/" class="nav-link top-link">Money</a></li>
+<li id="menu-item-69210" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-69210"><a href="https://thewirecutter.com/travel/" class="nav-link top-link">Travel</a></li>
+<li id="menu-item-69211" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-69211"><a href="https://thewirecutter.com/office/" class="nav-link top-link">Office</a></li>
+<li id="menu-item-69212" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-69212"><a href="https://thewirecutter.com/appliances/" class="nav-link top-link">Appliances</a></li>
+<li id="menu-item-69213" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-69213"><a href="https://thewirecutter.com/baby-kid/" class="nav-link top-link">Baby &amp; Kid</a></li>
+<li id="menu-item-69214" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-69214"><a href="https://thewirecutter.com/health-fitness/" class="nav-link top-link">Health &amp; Fitness</a></li>
+<li id="menu-item-69215" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-69215"><a href="https://thewirecutter.com/outdoors/" class="nav-link top-link">Outdoors</a></li>
+<li id="menu-item-69216" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-69216"><a href="https://thewirecutter.com/pets/" class="nav-link top-link">Pets</a></li>
+<li id="menu-item-69217" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-69217"><a href="https://thewirecutter.com/hobby-crafts/" class="nav-link top-link">Hobby &amp; Crafts</a></li>
+<li id="menu-item-69218" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-69218"><a href="https://thewirecutter.com/holiday-gifts/" class="nav-link top-link">Holiday &amp; Gift Guides</a></li>
+<li id="menu-item-69219" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-69219"><a href="https://thewirecutter.com/cars/" class="nav-link top-link">Cars</a></li>
+<li id="menu-item-69220" class="menu-item menu-item-type-taxonomy menu-item-object-auxiliary-section menu-item-69220"><a href="https://thewirecutter.com/adult/" class="nav-link top-link">Adult</a></li>
+<li id="menu-item-69222" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-69222"><a href="https://thewirecutter.com/deals/" class="nav-link top-link">Deals</a></li>
+<li id="menu-item-69223" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-69223"><a href="https://thewirecutter.com/blog/" class="nav-link top-link">Blog</a></li>
+<li id="menu-item-69224" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-69224"><a href="https://thewirecutter.com/news/" class="nav-link top-link">News</a></li>
 </ul></nav>				<div class="footer-menus">
 					<ul class="menu info-menu">
-						<li class="menu-item"><a class="info-menu-link" href="https://thewirecutter.com/about" title="About Wirecutter">About Wirecutter</a></li>
-						<li class="menu-item"><a class="info-menu-link" href="https://thewirecutter.com/masthead" title="Masthead">Masthead</a></li>
-						<li class="menu-item"><a class="info-menu-link" href="https://thewirecutter.com/jobs" title="Jobs">Jobs</a></li>
-						<li class="menu-item"><a class="info-menu-link" href="https://thewirecutter.com/contact-us" title="Contact Us">Contact Us</a></li>
+						<li class="menu-item"><a class="info-menu-link" href="https://thewirecutter.com/about/" title="About Wirecutter">About Wirecutter</a></li>
+						<li class="menu-item"><a class="info-menu-link" href="https://thewirecutter.com/masthead/" title="Masthead">Masthead</a></li>
+						<li class="menu-item"><a class="info-menu-link" href="https://thewirecutter.com/jobs/" title="Jobs">Jobs</a></li>
+						<li class="menu-item"><a class="info-menu-link" href="https://thewirecutter.com/contact-us/" title="Contact Us">Contact Us</a></li>
 					</ul>
 					<ul class="menu policy-menu">
-						<li class="menu-item"><a class="policy-menu-link" href="https://thewirecutter.com/privacy" title="Privacy Policy">Privacy Policy</a></li>
-						<li class="menu-item"><a class="policy-menu-link" href="https://thewirecutter.com/terms" title="Terms of Use">Terms of Use</a></li>
-						<li class="menu-item"><a class="policy-menu-link" href="https://thewirecutter.com/cookie-policy" title="Cookie Policy">Cookie Policy</a></li>
-						<li class="menu-item"><a class="policy-menu-link" href="https://thewirecutter.com/partners" title="Partnerships &amp; Advertising">Partnerships &amp; Advertising</a></li>
-						<li class="menu-item"><a class="policy-menu-link" href="https://thewirecutter.com/feed/rss/" title="RSS Feed" target="_blank">RSS Feed</a></li>
+						<li class="menu-item"><a class="policy-menu-link" href="https://thewirecutter.com/privacy/" title="Privacy Policy">Privacy Policy</a></li>
+						<li class="menu-item"><a class="policy-menu-link" href="https://thewirecutter.com/terms/" title="Terms of Use">Terms of Use</a></li>
+						<li class="menu-item"><a class="policy-menu-link" href="https://thewirecutter.com/cookie-policy/" title="Cookie Policy">Cookie Policy</a></li>
+						<li class="menu-item"><a class="policy-menu-link" href="https://thewirecutter.com/partners/" title="Partnerships &amp; Advertising">Partnerships &amp; Advertising</a></li>
+						<li class="menu-item"><a class="policy-menu-link" href="https://thewirecutter.com/feed/" title="RSS Feed" target="_blank">RSS Feed</a></li>
 					</ul>
 					<div class="menu social-accounts">
 						<p class="social-intro">Let's be friends!</p>
@@ -894,44 +812,88 @@ Attn.: Privacy Counsel</p>
 							<li class="social-menu-item"><a class="social-menu-link instagram" target="_blank" href="https://www.instagram.com/wirecutter/" title="Wirecutter's Instagram"></a></li>
 							<li class="social-menu-item"><a class="social-menu-link twitter" target="_blank" href="https://twitter.com/wirecutter" title="Wirecutter's Twitter"></a></li>
 						</ul>
-						<p class="contact">You can <a href="https://thewirecutter.com/contact-us" class="contact-link">send us a note</a> too.</p>
+						<p class="contact">You can <a href="https://thewirecutter.com/contact-us/" class="contact-link">send us a note</a> too.</p>
 					</div>
 				</div>
 				<div class="copy">
-					<p class="copyright">© Wirecutter, Inc. 2018</p>
-				</div>
+	<p class="copyright">© 2018 Wirecutter, Inc.</p>
+</div>
 			</div>
 		</div>
 	</footer>
 </div><!-- close page -->
+
+<div class="modal" id="js-nam-modal" aria-hidden="true">
+	<div class="modal__overlay" tabindex="-1" data-micromodal-close="">
+		<div class="modal__container" role="dialog" aria-modal="true" aria-labelledby="nam-title">
+					<img class="modal__image modal__image--large" src="https://cdn.thewirecutter.com/wp-content/uploads/2018/08/dealsToast-desktop.png">
+							<img class="modal__image modal__image--small" src="https://cdn.thewirecutter.com/wp-content/uploads/2018/08/dealsToast-mobile.png">
+					<button class="modal__close" aria-label="Close modal" data-micromodal-close="">
+				<span class="modal__close-icon" data-micromodal-close=""></span>
+			</button>
+
+			<div class="modal__content" id="js-nam-modal-content">
+				<h2 class="modal__title" id="js-nam-title">The best deals, delivered daily</h2>
+				<div class="modal__description" id="js-nam-description">
+					<p>Subscribe to our daily deals newsletter to get the best deals delivered straight to your inbox.</p>
+				</div>
+				<form class="modal__form" id="js-nam-form" method="POST" action="https://thewirecutter.com/wp-json/slc/v1/subscriptions/">
+					<input type="email" class="modal__input" placeholder="name@example.com" id="js-nam-email" name="email" required="" autocomplete="email">
+					<input type="hidden" name="nam_type" id="js-nam-type" value="daily">
+					<button type="submit" class="modal__submit">Subscribe</button>
+				</form>
+				<p class="modal__unsubscribe" id="js-nam-opt-out">Opt out or <a class="modal__unsubscribe-link" href="https://thewirecutter.com/contact-details/">contact us</a> at any time.</p>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="nam-toaster__container" id="js-toaster-container" aria-hidden="true">
+	<button type="button" data-micromodal-trigger="js-nam-modal" class="nam-toaster__button nam-toaster__button--daily">
+		<span class="nam-toaster__text nam-toaster__text--desktop">Subscribe to our daily deals newsletter</span>
+		<span class="nam-toaster__text nam-toaster__text--mobile">Subscribe to our daily deals newsletter</span>
+	</button>
+	<button class="nam-toaster__close" aria-label="Close Newsletter Toaster" id="js-nam-toaster-close">
+		<span class="nam-toaster__close-icon"></span>
+	</button>
+</div>
+<script type="text/javascript" src="https://cdn.thewirecutter.com/wp-includes/js/jquery/jquery.js"></script>
+<script type="text/javascript" src="https://cdn.thewirecutter.com/wp-includes/js/underscore.min.js?ver=1.8.3"></script>
+<script type="text/javascript" src="https://cdn.thewirecutter.com/wp-content/plugins/ElasticPress/features/facets/assets/js/facets.min.js?ver=2.6.1"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var phoenixOutbound = {"linkRouterHost":"wclink.co","ajaxUrl":"https:\/\/thewirecutter.com\/wp-json\/phnx\/v1\/outbound-tracking"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://cdn.thewirecutter.com/wp-content/mu-plugins/phoenix-customizations/assets/js/frontend/outbound.js?ver=1527200774"></script>
+<script type="text/javascript" src="https://cdn.thewirecutter.com/wp-content/mu-plugins/phoenix-customizations/assets/js/frontend/outbound.js?ver=1546127780"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var productMerchant = {"linkRouterHost":"wclink.co","ajaxUrl":"https:\/\/thewirecutter.com\/wp-json\/phnx\/v1\/product-merchant"};
+var productMerchant = {"linkRouterHost":"wclink.co","ajaxUrl":"https:\/\/thewirecutter.com\/wp-json\/phnx\/v1\/product-merchant","objectID":""};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://cdn.thewirecutter.com/wp-content/mu-plugins/phoenix-customizations/assets/js/frontend/product-merchant.js?ver=1527200774"></script>
-<script type="text/javascript" src="https://cdn.thewirecutter.com/wp-content/plugins/visualizer/js/lib/clipboardjs/clipboard.min.js?ver=3.0.5"></script>
-<script type="text/javascript" src="https://cdn.thewirecutter.com/wp-includes/js/underscore.min.js?ver=1.8.3"></script>
+<script type="text/javascript" src="https://cdn.thewirecutter.com/wp-content/mu-plugins/phoenix-customizations/assets/js/frontend/product-merchant.js?ver=1546127780"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var yetiDfp = {"renderAds":"0"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://cdn.thewirecutter.com/wp-content/themes/yeti/assets/build/yetiInit.js?ver=1546127722"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://cdn.thewirecutter.com/wp-includes/js/wp-util.min.js?ver=4.9.6"></script>
+<script type="text/javascript" src="https://cdn.thewirecutter.com/wp-includes/js/wp-util.min.js?ver=4.9.8"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
+var yetiMobileTocExpand = {"enabled":""};
 var yetiDev = {"jsDev":""};
-var yetiAjax = {"subscriptionsEndpoint":"https:\/\/thewirecutter.com\/wp-json\/slc\/v1\/subscriptions\/","expiredDealEndpoint":"https:\/\/thewirecutter.com\/wp-json\/slc\/v1\/deals-expired-title\/","nonce":"1b5348f7cf"};
+var yetiAjax = {"subscriptionsEndpoint":"https:\/\/thewirecutter.com\/wp-json\/slc\/v1\/subscriptions\/","expiredDealEndpoint":"https:\/\/thewirecutter.com\/wp-json\/slc\/v1\/deals-expired-title\/","nonce":"64de072e2f"};
+var yetiNAM = {"enabled":"1"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://cdn.thewirecutter.com/wp-content/themes/yeti/assets/build/yeti.js?ver=1527200775"></script>
-<script type="text/javascript" src="https://cdn.thewirecutter.com/wp-includes/js/wp-embed.min.js?ver=4.9.6"></script>
-<script type="application/ld+json">[]</script><script type="application/ld+json">[]</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"a1e1910a56","applicationID":"9883288","transactionName":"YFwDZUcCW0NSABUPDFkWIFJBClpeHBMAAQY=","queueTime":0,"applicationTime":66,"atts":"TBsAEw8YSE0=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<script type="text/javascript" src="https://cdn.thewirecutter.com/wp-content/themes/yeti/assets/build/yeti.js?ver=1546127722"></script>
+<script type="text/javascript" src="https://cdn.thewirecutter.com/wp-includes/js/wp-embed.min.js?ver=4.9.8"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"a1e1910a56","applicationID":"9883288","transactionName":"YFwDZUcCW0NSABUPDFkWIFJBClpeHBMAAQY=","queueTime":0,"applicationTime":58,"atts":"TBsAEw8YSE0=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
