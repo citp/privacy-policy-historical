@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the attendthisevent.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220075027id_/https%3A//instantteleseminar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the attendthisevent.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231182254id_/https%3A//instantteleseminar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Instant Teleseminar
 
@@ -12,7 +12,7 @@ We may request personally-identifiable information from you such as your name, b
 
 ### Removal From Email List
 
-You can choose to be removed from our email list at any time via a unique unsubscribe link sent with each email message, located at the very bottom or "footer" of the message. You may also be removed from our mailing list by contacting our support team at support.instantteleseminar.com, by emailing support@instantteleseminar.com, or by calling 503-290-5600. 
+You can choose to be removed from our email list at any time via a unique unsubscribe link sent with each email message, located at the very bottom or "footer" of the message. You may also be removed from our mailing list by contacting our support team at [support.instantteleseminar.com](https://support.instantteleseminar.com/), by emailing support@InstantTeleseminar.com, or by calling 503-290-5600. 
 
 Removal from our mailing list may prevent you from receiving timely information which may directly or even negatively impact you or your business. These notifications may include maintenance windows, changes to the way service is delivered, and other messages important to the operation of your service. 
 
@@ -57,5 +57,5 @@ N Partners, LLC
 Cheyenne WY 82001  
 
 
-Email: support@instantteleseminar.com  
+Email: support@InstantTeleseminar.com  
 Phone: 503-290-5600
