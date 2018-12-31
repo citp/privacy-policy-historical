@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the massport.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524002727id_/http%3A//massport.com/massport/about-massport/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massport.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231133434id_/http%3A//www.massport.com/massport/about-massport/privacy) for the most accurate reproduction.*
 
 # Massport Privacy Policy
 
@@ -35,12 +35,15 @@ If you have enrolled in any of our special services and wish to be removed from 
 
 For any questions or comments regarding Massport’s Privacy Policy, you may contact us:
 
-**E-mail:** | [communications@massport.com](mailto:communications@massport.com)  
----|---  
-**Phone:** | 617-568-5000 (between 9am-5pm ET)  
-**Mail:** | Massachusetts Port Authority  
-c/o Internet Administrator, Information Technology  
-One Harborside Drive, Suite 200S  
-East Boston, MA 02128-2909  
-  
+Email: [communications@massport.com ](mailto:communications@massport.com)
+
+Phone: [ 617-568-5000](tel:+16175685000) (between 9AM-5PM ET)
+
+Mail:
+
+Massachusetts Port Authority  
+c/o Internet Administrator, Information Technology   
+One Harborside Drive, Suite 200S   
+East Boston, MA 021280-2909
+
 Copyright Notice - Copyright 2010 Massachusetts Port Authority. All rights reserved.
