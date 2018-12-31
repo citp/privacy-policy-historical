@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bostonmarket.com privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508215323id_/https%3A//www.bostonmarket.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bostonmarket.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231074400id_/https%3A//www.bostonmarket.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Boston Market
 
