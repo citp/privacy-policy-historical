@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lilsugar.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625231127id_/https%3A//www.popsugar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lilsugar.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231220630id_/https%3A//www.popsugar.com/privacy) for the most accurate reproduction.*
 
 # POPSUGAR Privacy Policy
 
-**Effective Date: May 25, 2018**
+**Effective Date: November 26, 2018**
 
 **UPDATED PRIVACY POLICY**
 
@@ -25,9 +25,11 @@ We may collect "personally identifiable" information, which means information th
 
 We also collect **"Other Information"** from you or other sources which is information not considered Personal Information. Other Information may include, but is not limited to, information such as:
 
-* Article preferences or topics of interest;
-* Photos, for example, account photos and photos you submit to our [Twinning](http://twinning.popsugar.com/) Service; 
-* "About" information you provide;
+* Article preferences, topics of interest or other content preferences by using "Like" or "Dislike" settings or creating lists;
+* Display name, which in some cases may be different from your user name; 
+* Photos, for example, account photos and photos you submit to our [Twinning](http://twinning.popsugar.com/) Service;
+* "About" or other biographical information you provide and/or post on the Services;
+* Comments or other information you post on the Services, which may also contain Personal Information if such information identifies you;
 * Links to your social media accounts and websites;
 * Browsing history, including the pages of the Services you visited and third party pages or services you visited other than the Services;
 * Device type, settings and software used;
@@ -47,7 +49,7 @@ All Personal Information and Other Information that we hold about you is referre
 
 We collect User Information across our Services, including as follows:
 
-* When you register for our Services (for example, name, username, password, country or state of location, zip code, postal mail address and email address);
+* When you register for our Services (for example, name, username, display name, password, country or state of location, zip code, postal mail address and email address);
 * If you sign up for an email subscription on our Services, we collect your email address and may also collect other information about your subscription preferences and interests;
 * For some of our Services, you may be asked to provide your mobile phone number in order to receive text messages containing information you have requested and other information that we think may be of interest to you;
 * When you view or interact with our Services, we may collect certain data, including IP Address, language setting, operating system type, page you requested, Advertising ID, user agent, and time stamp;
@@ -69,10 +71,11 @@ We (and third parties with whom we partner) may also deliver a file known as a w
 User Information is used to provide Services to you by POPSUGAR and its partners, which includes using such information to:
 
 * Allow you to set up an account and profile and log into your account on the Services and to access certain parts of the Services through such account;
+* Allow you to share certain information about yourself with other users through your account profile;
 * For our POPSUGAR [Voices](https://www.popsugar.com/voices) or Influencer platforms, to determine what assignments or projects are a good fit for your skills and interests and to process payments for your services if you are selected for a paid assignment;
 * Personalize and improve the Services;
 * Connect you across multiple devices or platforms where you are accessing our content;
-* Customize the Services to provide advertisements, content or features on the Services or on other platforms (for example, social media platforms) that match your interests;
+* Customize the Services to provide advertisements, content, features or recommendations on the Services or on other platforms (for example, social media platforms) that match your interests;
 * Send you notices, updates and other administrative messages;
 * Process transactions and send you related information;
 * Send emails or newsletters to you, which may also offer or advertise POPSUGAR or third party products and/or services;
@@ -136,7 +139,7 @@ We may use social plugins on our Services, for instance plugins of the social ne
 
 ### User profiles and submissions
 
-Certain User Information from your profile such as a your user name or any video or image content that you have uploaded to the Services may be displayed to other users to facilitate user interaction within the Service or address your request for Services. For our POPSUGAR [Voices](https://www.popsugar.com/voices) and Influencer platforms, User Information from your profile may be shared with third parties including advertisers in connection with an advertising campaign, which may include publicly-available metrics related to your social media channels and a description of your blog or other content you have created in the past.
+Certain User Information from your profile such as a your user name, display name, biographical information, or any comments or video or image content that you have uploaded to the Services may be displayed to other users to facilitate user interaction within the Service or address your request for Services. In some applications, information you share in your profile will be publicly available to other users. For example, for our [Binge](https://binge.popsugar.com/) service, certain profile information and a link to your complete profile may be found in the Binge public search feature. You may opt out of being included in the public search feature on Binge by turning off this setting in the profile tab of the Binge application. For our POPSUGAR [Voices](https://www.popsugar.com/voices) and Influencer platforms, User Information from your profile may be shared with third parties including advertisers in connection with an advertising campaign, which may include publicly-available metrics related to your social media channels and a description of your blog or other content you have created in the past.
 
 ### Third party offers
 
@@ -161,6 +164,10 @@ We assume no liability or responsibility for disclosure of your information due 
 ### Twinning
 
 For our [Twinning](http://twinning.popsugar.com/) Service, we collect photos you submit and may provide them to our third party service providers for analysis and matching with similar-looking celebrities or public figures. When you submit a photo to Twinning, we post a composite image of your photo and your celebrity look-a-likes on a public URL for you to reference and share with your friends. While we only provide this unique URL to you, the URL is public and may be viewed by anyone who has the link. You can request removal of any unique URL created in connection with your photos through Twinning by contacting us at [community@popsugar.com](mailto:community@popsugar.com). 
+
+### What the Face
+
+When you use the What the Face application (currently available on iPhone X only), the app uses Apple's ARKit Face Tracking technology and the front-facing camera of the iPhone X to analyze your facial expressions to match emoji images in the game. Apple's technology processes the information and communicates a confirmation to the app if you make the correct expression. The app uses this information to determine whether you made a particular expression at the appropriate time in order to score your performance in connection with the game. Scores based on your performance in the game are generated by the app but are not collected, stored or transferred off your device by POPSUGAR. You may share a GIF from a video of your performance recorded during your game, which remains stored only locally on your mobile device and can be deleted by your deleting the app. For purposes of clarity, no facial recognition data or other biometric information is collected, accessed, stored or transferred off your device by POPSUGAR in connection with this app.
 
 ### International partners
 
@@ -210,7 +217,7 @@ In order to de-link your POPSUGAR account from an account on another service suc
 
 ### Push notifications
 
-You may adjust the "Settings" on your mobile device to disable push notifications for any of our mobile applications for which you would like to stop receiving such notifications. You may adjust the "Notification" settings usually found in your browser "Preferences" or "Settings" to block or remove certain browser-based push notifications.
+You may adjust the "Settings" on your mobile device settings (or within the "profile" tab of certain applications) to disable push notifications for any of our mobile applications for which you would like to stop receiving such notifications. You may adjust the "Notification" settings usually found in your browser "Preferences" or "Settings" to block or remove certain browser-based push notifications.
 
 ### Third party offers
 
