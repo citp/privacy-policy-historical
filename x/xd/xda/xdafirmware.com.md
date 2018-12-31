@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the xdafirmware.com privacy policy that was archived on 2018-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180127222408id_/https%3A//firmwarefile.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xdafirmware.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231011509id_/https%3A//gsmusbdriver.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy of Firmware File
+# Privacy Policy of GSM USB Driver
 
-At firmwarefile.com, we respect the privacy of our visitors!
+At gsmusbdriver.com, we respect the privacy of our visitors!
 
  **Declaration of consent** :
 
@@ -16,7 +16,7 @@ During your visit to our website, we collect your IP address and use cookies and
 
  **What Are Cookies** :
 
-As is common practice with almost all professional websites this site uses cookies, which are tiny files that are downloaded to your computer, to improve your experience. This page describes what information they gather, how we use it and why we sometimes need to store these cookies. We will also share how you can prevent these cookies from being stored however this may downgrade or ‘break’ certain elements of the site’s functionality. For more general information on cookies see the Wikipedia article on HTTP Cookies.
+As is common practice with almost all professional websites this site uses cookies, which are tiny files that are downloaded to your computer, to improve your experience. This page describes what information they gather, how we use it and why we sometimes need to store these cookies. We will also share how you can prevent these cookies from being stored however this may downgrade or ‘break’ certain elements of the functionality of the site. For more general information on cookies see the Wikipedia article on HTTP Cookies.
 
  **How We Use Cookies** :
 
@@ -51,4 +51,4 @@ We use adverts to offset the costs of running this site and provide funding for 
 
  **More Information** :
 
-Hopefully, that has clarified things for you and as was previously mentioned if there is something that you aren’t sure whether you need or not it’s usually safer to leave cookies enabled in case it does interact with one of the features you use on our site. However, if you are still looking for more information then you can contact us using the [contact form](https://firmwarefile.com/contact).
+Hopefully, that has clarified things for you and as was previously mentioned if there is something that you aren’t sure whether you need or not it’s usually safer to leave cookies enabled in case it does interact with one of the features you use on our site. However if you are still looking for more information then you can contact us using the [contact form](https://gsmusbdriver.com/contact).
