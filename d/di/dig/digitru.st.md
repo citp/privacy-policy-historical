@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitru.st privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628115836id_/http%3A//www.digitru.st/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitru.st privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231224921id_/http%3A//www.digitru.st/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DigiTrust
 
@@ -30,7 +30,7 @@ We may share User Information for a variety of reasons. For example:
 • We may share User Information for legal, protection, security, and safety purposes, including: to comply with laws or regulatory requirements and to respond to lawful requests and legal process; to protect the rights and property of DigiTrust, our agents, participating companies, and others, including enforcing our agreements, policies, and terms of use and protecting our network and physical assets; and/or in an emergency, including protecting the safety of our employees and agents, our customers, or any person.  
 • We may share User Information with parties who may use that information to provide us with services or do work for us, such as bookkeeping.  
 • We may share User Information as part of a transfer of ownership of DigiTrust, including at bankruptcy.  
-• We may share User Information to conduct research and analytics, operate and improve our website, and for any other purpose specified at the time of collection. 
+• We may share User Information to conduct research and analytics, operate and improve our website, and for any other purpose specified at the time of collection, or as otherwise described in this Privacy Policy. 
 
 **Your Choices**  
 You may make choices about the use of DigiTrust Technology to generate and transmit the DigiTrust ID via the WebChoices tool administered by the DAA located at <http://www.aboutads.info/choices>. Through this tool, you may opt out directly from DigiTrust. 
