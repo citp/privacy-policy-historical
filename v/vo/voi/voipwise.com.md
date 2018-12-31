@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voipwise.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630191608id_/http%3A//www.voipwise.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voipwise.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231150210id_/https%3A//www.voipwise.com/privacy) for the most accurate reproduction.*
 
 # VoipWise Free Calls
 
@@ -30,7 +30,7 @@ DELLMONT uses your Personal Data for the provision of Services and billing purp
 
 DELLMONT may use your Personal Data to improve their Services.
 
-DELLMONT may use your Personal Data to defect misuse of its system and / or a customer account.
+DELLMONT may use your Personal Data to detect misuse of its system and / or a customer account.
 
 DELLMONT may use the Personal Data to provide you with information relating to your account.
 
