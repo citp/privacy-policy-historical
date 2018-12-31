@@ -1,111 +1,85 @@
-> *The following text is extracted and transformed from the superbooyah.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404174419id_/http%3A//rumorfix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superbooyah.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231084630id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Privacy Policy - RumorFix - The Anti Tabloid
+# HugeDomains.com - Privacy Policy
 
-**Zealot Networks, Inc.**
+HUGEDOMAINS.COM PRIVACY POLICY
 
-**Privacy Policy**
+HugeDomains's Privacy Policy describes how this site collects and uses the personally identifiable information provided by customers/consumers/users of this site. It also describes the choices available to customers regarding HugeDomains's use of customer's personally identifiable information and how that information may be accessed and updated by customers and how it may be provided to third-parties.
 
-Last Updated: October 20, 2015
+If you do not agree to HugeDomains's Privacy Policy and/or [Terms of Service](https://web.archive.org/terms.cfm), you must immediately cease use of HugeDomains.com. If you do not agree, do not use HugeDomains's website or services,  do not purchase domains and do not enter into payment plans with HugeDomains.com.
 
-Zealot Networks, Inc. (“Zealot” or “we” or “our” or “us”) knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy (this “Privacy Policy”). By visiting or using one of our network of websites, applications, products, software, data feeds, and services provided to you by Zealot (collectively, the “Service”), or viewing our Content (“Content” includes the text, software, scripts, graphics, photos, sounds, music, videos, audiovisual combinations, interactive features and other materials you may view on, access through, or contribute to the Service), you are accepting the practices outlined in this Privacy Policy.   **If you do not agree to the collection and use of information from or about you in accordance with this Privacy Policy and our[Terms of Service](http://rumorfix.com/sample-page), then you may not use the Service.**
+HugeDomains.com is a United States company, located in Denver, Colorado, USA. HugeDomains complies with the U.S-EU Safe Harbor framework which is dictated and set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries. HugeDomains further complies with the California Online Privacy Protection Act and the Children's Online Privacy Protection Act (COPPA).
 
-This Privacy Policy covers our treatment of personal information that we gather when you visit or use our Service. This Privacy Policy does not apply to the practices of third parties that we do not own or control, or to individuals that we do not employ or manage. The Service may contain links to third party websites that are not owned or controlled by us.  We have no control over, and assume no responsibility for, the content, privacy policies, or practices of any third party websites. In addition, we will not and cannot censor or edit the content of any third-party site. By using the Service, you expressly relieve Zealot from any and all liability arising from your use of any third-party website.
+**What Information HugeDomains Collects**
 
-**Information Collected by Us**
+HugeDomains must collect certain personal data in order to conduct business, provide customer service and provide a customer with relevant requested services. Personal information is collected from customers when  a customer contacts HugeDomains through the website, when a customer purchases a domain, whenever a customer fills out a contact form on the HugeDomains platform; when a customer submits payment to HugeDomains; and when a customer contacts HugeDomains via phone or chat. HugeDomains will further collect certain personal information from customers as needed in order to continue to provide services to its customers and as required by any relevant law, rule, regulation, and other method that ensures the safety of HugeDomains, its customers, and the general public.
 
-We only collect personal information that is relevant to the purpose of the Service. This information allows us to provide you with a customized and efficient experience. We do not process this information in a way that is incompatible with this objective. We collect the following types of information from users of the Service:
+HugeDomains collects customers' relevant personal information, including but not limited to: name, address, phone number, fax number (if applicable), email address and other data used to directly or indirectly to identify you in connection to your use of HugeDomains's services. Many products/services may require a customer to provide HugeDomains with additional information such as credit card information, associated billing information, or other financial and payment information. In order to protect HugeDomains and its customers, as well as intellectual property rights, HugeDomains may require customers to provide government identification and/or other documentation as proof of identity and physical address.
 
-1\. Information You Provide to Us: We receive and store any information you enter on the Service or provide to us in any other way. For instance, we may collect information you provide to us if you register on the Service, respond to surveys, contact us through customer service or by other means, or participate in promotions that we may offer from time to time. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features. 
+**Why HugeDomains Collects This Information**
 
-2\. Automatic Information:
+HugeDomains collects customer information for several reasons, including but not limited to: following relevant and required ICANN data collection requirements, along with and to abide and comply with United States laws, rules, and regulations. Further, HugeDomains collects such information in order to allow HugeDomains to: 
 
-  * We receive and store certain types of information whenever you interact with the Service. Zealot, and our authorized agents, automatically receive and record certain “traffic data” on server logs, including your IP address, cookie information, the page you requested, device and software characteristics (such as type and operating system), location, activity on the Service, ad data, referral URLs, device identifiers or other unique identifiers such as advertising identifiers (e.g., “ad-ID” or “IDFA”).
-  * This traffic data is used to help diagnose problems with servers, analyze trends and administer the Service.
-  * We may collect and, on any page, display the total counts that page has been viewed.
-  * Many companies offer programs that help you to visit or use the Service anonymously. While we will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.
+a. **To personalize customer experience**  \- customer information helps HugeDomains better respond to customer's individual needs.
 
+b. **To improve the HugeDomains website and services** \- HugeDomains continually strives to improve its website offerings and services based on the information and feedback received from customers.
 
+c. **To improve customer service** \- customer information helps HugeDomains more effectively respond to specific customer service requests and support needs. Should a customer contact HugeDomains for service or support, it will keep an internal record of such correspondence, whether email or telephone call, along with an internal record of support given.
 
-**E-mail Communications**
+d. **To process transactions**  \- other than specifically provided in this provision, or required by law, customer information, whether public or private, will not be sold, exchanged, transferred, or given to any other company without direct and express customer consent.
 
-We are very concerned about your privacy and we will never provide your email address to a third party without your explicit permission, as detailed in the “Sharing Your Information” section below. We may send out e-mails with Zealot-related news, products, offers, surveys or promotions.
+e. **To send periodic emails** \- customer email addresses provided for order processing, will be used to send customers relevant and pertinent information and updates pertaining to their HugeDomains account and registered domain names and/or other services. These communications include, but are not limited, to: HugeDomains updates and questions or concerns regarding the customer, their account, or specific services. If a customer chooses to opt-in to a mailing list, they will receive email communications that may include company news, updates, related product or service information, as set per email preferences which is customizable from within each users' account.
 
-**Cookies and Similar Technologies**
+f. **Domain ownership information**  \- HugeDomains.com sells domain names, and all domain name purchases require registrant information in order to complete the purchase and facilitate the transfer of the domain name. The information provided by a customer when purchasing a domain can and will be used to transfer ownership of said domain names. The registration information provided for a domain is recorded and shared with trusted parties in order to deliver such purchases to domain buyers. If a customer does not opt-in for privacy protection, the whois information provided when buying domain names may be shared via a public record called "whois".
 
-Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in the Service are visited and by how many people. Our cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or your screen name or e-mail address.
+**How HugeDomains Collects this Information**
 
-The “help” portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of the coolest features of the Service.
+HugeDomains utilizes a variety of security measures to maintain the safety of customers' personal information. All supplied financial information (including credit card data) is transmitted via Secure Socket Layer (SSL) technology and then encrypted into the company's payment gateway provider's database. This database and the sensitive information contained within are only accessible by those authorized with special access rights to such systems and are required to keep the information confidential. 
 
-In addition to cookies, we may use other technologies such as web beacons or pixel tags, which can be embedded in web pages, videos, or emails, to collect certain types of information from your browser, check whether you have viewed a particular web page or email message, and determine, among other things, the time and date on which you viewed the Content, the IP address of your computer, and the URL of the web page from which the Content was viewed.
+HugeDomains uses cookies (and other technologies such as web beacons, pixels, tags, scrips) to identify you so you don't need to log in each time you visit a HugeDomains website or its mobile applications. The cookies are linked to your customer account, which is associated with the information in your account. HugeDomains uses cookies to help remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that it can offer better site experiences and tools in the future. If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most modern websites, if you turn your cookies off, some of HugeDomains's services may not function properly or function at all. HugeDomains does not test its website for this and does not guarantee use of services with cookies disabled. 
 
-**Third Party Advertising and Statistics – Choices**
+HugeDomains, like most companies, obtains information about its customers automatically and stores this information in its internal databases. This information may include but is not limited to: Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring entry/exit pages, operating system, date/time stamp and/or clickstream data, and other data that could directly or indirectly identify you. HugeDomains uses this information to help personalize your experience and search results, diagnose problems with its systems, to administer the services on this site, and for other corporate uses.
 
-We use third-party advertising companies to serve ads when you visit or use the Service. These companies may use information (not including your name, address email address or telephone number) about your visits and use of the Service in order to provide advertisements about goods and services of interest to you. 
+**How HugeDomains Uses this Information**
 
-In addition, we allow third parties to monitor the Service for the purpose of reporting traffic, statistics, advertisements, “click-throughs” and/or other activities, and such third parties may use cookies, web beacons and other monitoring technologies to compile aggregate and anonymous statistics about our users. 
+HugeDomains must first and foremost abide by local law. As a US company, HugeDomains will first abide by US laws and regulations when two laws might differ and/or conflict with one another.
 
-**California Do Not Track Disclosures**
+HugeDomains securely holds on to personal data internally. Such data can be held indefinitely in order to keep accurate records that may be required under local law and regulation. 
 
-We may also use tracking technologies to collect information about your visits over time and across third-party websites or other online services. **If you would like more information about this practice and to know your choices about not having this information used by these companies** **and to opt-out of most third-party tracking, you may go to:**
+HugeDomains uses customer information to communicate directly with their customers. It is important for customers to keep their email address up to date and check their email regularly for updates regarding a HugeDomains account. 
 
-[**http://www.networkadvertising.org/managing/opt_out.asp**](http://www.networkadvertising.org/managing/opt_out.asp) **or**
+HugeDomains may have the need to provide customer information to third parties for certain services required by HugeDomains, including but not limited to, credit card processors, technical support services, shipping of goods or services, customer relationship management, SMS delivery, Collections Agencies,  registry compliance, law enforcement, among other third parties for other similar such reasons. When a domain is purchased which is managed at a partner registrar, HugeDomains reserves the right to automatically push said domain name(s) into an account at that domain name registrar in order to provide the relevant purchased product(s) to the customer. HugeDomains will only share information that is necessary for the third party to provide the required services. This information will not be sold nor voluntarily disseminated unless reasonably needed at HugeDomains's sole discretion. 
 
-[**http://www.aboutads.info/choices**](http://www.aboutads.info/choices)
+When a HugeDomains account is cancelled/suspended/terminated, either voluntarily or involuntarily, this does not mean that the customer's personally identifiable information has been deleted entirely from HugeDomains's systems and databases. Some or all this information may be retained by HugeDomains, including but not limited, to comply with legal obligations, resolve disputes, prevent fraud and/or enforce company agreements.  In addition, you will not be able to submit a form on this website without providing the exact information required to complete that specific action. It is forbidden and against of ICANN's rules to provide false Registrant information about any domain name registration(s). Providing false or fake information may and will result in suspension of the customer's HugeDomains account and forfeiture of any related domain name(s) registered with HugeDomains or any of its affiliate companies or domain name registrars.
 
-**Sharing Your Information**
+HugeDomains will cooperate with government, law enforcement officials and relevant private parties to enforce and comply with Unites States law and with applicable and mandatory regulations regarding the services it provides. If necessary, HugeDomains will disclose any customer information to the relevant officials or private parties when appropriate or deemed reasonably necessary. Further, if HugeDomains believes, in its sole discretion, (including without limitation to subpoenas), that the preservation of certain customer information is necessary to protect its rights or the property and/or the rights of a third party. HugeDomains may further maintain or share customer information in order to protect the safety of the public or any person, to prevent or stop activity HugeDomains considers to be illegal based on applicable laws, or to otherwise uphold the law.  By using HugeDomains's website and services, all customers expressly consent to this Privacy Policy. HugeDomains further reserves the right to modify this Policy at any time. If changes are made to this Policy, those changes will be publicly posted. HugeDomains is not required to directly notify its customers of changes made to this Policy, however, if material changes are made, HugeDomains will notify its customers by email or through a public notice on its website.
 
-We neither rent nor sell your personal information to anyone and we will share your personal information only as described below.
+**To Access, Update, or Delete Your Personal Information**
 
-Personnel: Our personnel and authorized consultants and/or contractors may have access to user information if necessary in the normal course of our business.
+You have the right to correct any personal information held about you that is inaccurate or incomplete. If there is information located on HugeDomains servers you wish to correct, you will be required to login to your account and update the appropriate information. This includes account owner information, information submitted for various products and services offered through this website, including but not limited to purchased domain names and payment methods linked to your account.
 
-Business Transfers: In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if the Service or Zealot, or substantially all of its assets, were acquired, user information would be one of the assets that is transferred.
+You have the right issue a request that HugeDomains delete your personal data. HugeDomains will review your request and delete data if possible. HugeDomains reserves the right, in its sole discretion, to retain any personal data. Personal data may be retained for several reasons, including, but not limited to: fraud mitigation; preserving or enforcing legal and/or contractual rights; data retention mandated by local law,  domain registrars processing of your data, relevant domain registries, contracts, or reasons necessary to HugeDomains's business and operate such services. If you wish to have your data erased, you can use the contact details found on the bottom of this page, please provide as many details as possible as to your request, and the company will determine if you have a valid basis for the erasure of your data. If you have questions about data retention you may contact us with your questions or concerns. You have the right to lodge a complaint with a relevant supervisory authority.
 
-Protection of Zealot and Others: We may release personal information when we believe in good faith that release is necessary to comply with a law; to enforce or apply our Terms of Service and other policies; or to protect the rights, property, or safety of Zealot, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+**Third Parties**
 
-Syndication: We allow for the RSS syndication of public Content from the Service.
+HugeDomains.com may share your personal information with affiliated companies within its corporate family and other third-parties that integrate with HugeDomains services, and to provide products and services, including but not limited to: Customer Relationship Management; processing payments; fraud prevention; management of domain names; and serving advertisements. Many of these third parties are affiliate companies, and work in conjunction with HugeDomains to provide customers the products and services provided by HugeDomains to HugeDomains's customers.
 
-**Security of Your Information**
+Targeted ads may be provided to HugeDomains customers based upon their webpages and Internet activity. These ads and offers may be displayed as product banners provided while you are engaged in Internet browsing or using HugeDomains.com and its services. In some instances, HugeDomains partners with third parties to manage advertising, including targeted advertising on HugeDomains webpages and other websites. These third-party partners may use certain data collection tools such as cookies in order to collect information about customer activities to provide customers with customized advertisements. When possible, such providers will give ways to opt-out of any such advertisements.
 
-Security Measures: We have put in place physical, electronic, and managerial procedures designed to help prevent unauthorized access, to maintain data security, and to use correctly the information we collect online. These safeguards vary based on the sensitivity of the information that we collect and store.
+HugeDomains's website may contain links to third party websites. HugeDomains is not responsible for the privacy policy and data collection of third-party sites. You are solely responsible for reviewing any third-party privacy practices on all such websites.
 
-No Security Guarantees: Although we take appropriate measures to safeguard against unauthorized disclosures of Information, we cannot assure you that Information will never be disclosed, altered or destroyed in a manner that is inconsistent with this Privacy Policy.
+Some Internet browsers may allow users to receive notifications when a website is utilizing tracking technology and may allow that user to use a "do not track" signal. There is no industry standard or agreement among industry participates as to what this "do not track" signal entails. As there is not set definition or regulation regarding this process, HugeDomains does not make any adjustments or alternations in its operating processes when a "do not track" signal is received from an Internet browser.
 
-**Children Under  13 Years of Age**
+**Corporate Reorganization**
 
-The Service is not directed to children. You must be 13 years and older to register to use the Service. As a result, we do not knowingly collect information from children under the age of 13. If we learn that information has been collected from a child under the age of 13, we will delete that information as quickly as possible. We recommend that minors between the ages of 13 and 18 ask and receive their parents’ permission before using the Service or sending information about themselves or anyone else over the Internet.
-
-**California Privacy Rights**
-
-If you are a California resident, you may have certain additional rights. California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information by us to third parties for the third parties’ direct marketing purposes. California Business and Professions Code Section 22581 permits registered users who are minors to request and obtain deletion of certain posted content. To make any such requests, please send an email to legal@zealotnetworks.com or write us at:
-
-Zealot Networks, Inc.
-
-660 Venice Blvd.
-
-Venice, CA 90291
-
-Attn: California Privacy Rights
-
-**Changes to this  Privacy Policy**
-
-We may amend this Privacy Policy from time to time, at our sole discretion. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by posting an announcement on our website so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed.
-
-**Conditions of Use**
-
-If you decide to visit or use the Service, your visit and use and any possible dispute over privacy is subject to this Privacy Policy and our [Terms of Service](http://rumorfix.com/sample-page), including limitations on damages, arbitration of disputes, and application of California state law, and you consent to having your information or data transferred to and processed in the United States. If you do not agree to this Privacy Policy, please do not use the Service.
+If HugeDomains were to merge with another company or if HugeDomains is involved in an acquisition or sale of all a substantial portion of assets, or other similar sale transaction, your information will be transferred as part of that transaction and you will be notified by email and/or notice on HugeDomains website of any such transfer and any choices you may have regarding your information.
 
 **Contact Information**
 
-If you have any questions regarding this Privacy Policy, you may email us at legal@zealotnetworks.com or contact us by mail addressed to:
+If you have any other questions about this Privacy Policy, the practices of HugeDomains you may use the contact us form on this web site to request additional information, or you can reach us  by phone at +1 (303) 893-0552 or by email at sales@hugedomains.com 
 
-  
-Zealot Networks, Inc.
+\---
 
-660 Venice Blvd.
+Last Revised: July 05, 2018
 
-Venice, CA 90291
-
-**Effective Date of this  Privacy Policy**
-
-This Privacy Policy is effective as of June 24, 2011 and last updated October 20, 2015.
+Copyright 2005-2018 HugeDomains.com. All Rights Reserved.
