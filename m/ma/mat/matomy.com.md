@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the matomy.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626191356id_/http%3A//www.matomy.com/global-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matomy.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231190536id_/http%3A//www.matomy.com/global-privacy-policy) for the most accurate reproduction.*
 
 # Matomy Media Group | Privacy Policy
 
@@ -97,7 +97,7 @@ We are not responsible for the personally identifiable information that you choo
 
 When you contact us, or when we contact you, we will receive and process any personally identifiable information that you provide us.
 
-We display personal testimonials of satisfied Customers on the Site in addition to other endorsements. With your consent we will post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5121233827303228113c30253e3c287f323e3c)  
+We display personal testimonials of satisfied Customers on the Site in addition to other endorsements. With your consent we will post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at: [privacy@matomy.com](mailto:privacy@matomy.com)  
   
 #### We maintain the Service, make it better and continue developing it, and protect us and the Service from misuse and law violations.
 
@@ -135,7 +135,7 @@ Additionally, a merger, acquisition or any other structural change will require 
 
 We use standard analytics tools. The privacy practices of these tools are subject to their own privacy policies and they use their own cookies to provide their service (for further information about cookies, please see the 'Cookies' section in this policy).
 
-We use the standard analytics tools of Google Analytics and we will use additional or other analytics tools, from time to time. The privacy practices of these tools are subject to their own privacy policies. See Google Analytics Privacy Policy at: <http://www.google.com/analytics/learn/privacy.html>.
+We use the standard analytics tools of Google Analytics and we will use additional or other analytics tools, from time to time. The privacy practices of these tools are subject to their own privacy policies. See Google Analytics Privacy Policy at: [http://www.google.com/analytics/learn/privacy.html](https://www.google.com/analytics/learn/privacy.html).
 
 We use anonymous, statistical or aggregated information and will share it with our partners for legitimate business purposes. It has no effect on your privacy, because there is no reasonable way to extract data from the aggregated information that we or others can associate specifically to you.  
   
@@ -147,11 +147,11 @@ We use anonymous, statistical or aggregated information and will share it with o
 
 #### **Your Choice**
 
-At any time, you can unsubscribe from our mailing lists or newsletters, by sending us an opt-out request to: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#98e8eaf1eef9fbe1d8f5f9ecf7f5e1b6fbf7f5).
+At any time, you can unsubscribe from our mailing lists or newsletters, by sending us an opt-out request to: [privacy@matomy.com](mailto:privacy@matomy.com).
 
 At any time, you can disable your account through your account page.
 
-At any time, you can exercise your following opt-out options: (i) object to the disclosure of your personally identifiable information to a third party, other than to third parties who act as our agents to perform tasks on our behalf and under our instructions, or (ii) object to the use of your personally identifiable information for a purpose that is materially different from the purposes for which we originally collected such information, pursuant to this policy, or you subsequently authorized such use. You can exercise your choice by contacting us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#08787a617e696b714865697c676571266b6765).
+At any time, you can exercise your following opt-out options: (i) object to the disclosure of your personally identifiable information to a third party, other than to third parties who act as our agents to perform tasks on our behalf and under our instructions, or (ii) object to the use of your personally identifiable information for a purpose that is materially different from the purposes for which we originally collected such information, pursuant to this policy, or you subsequently authorized such use. You can exercise your choice by contacting us at: [privacy@matomy.com](mailto:privacy@matomy.com).
 
 We request and collect minimal personally identifiable information that we need for the purposes that we describe in this policy. Following the termination or expiration of the Service, we will stop collecting any personally identifiable information from or about you. However, we will store and continue using or making available your personally identifiable information according with our data retention section in this policy.
 
@@ -159,7 +159,7 @@ Some web browsers offer a "Do Not Track" ("DNT") signal. A DNT signal is a HTTP 
 
 **Your California Privacy Rights**
 
-If you are a California resident, California Civil Code Section 1798.83 permits you to request in writing a list of the categories of personally identifiable information relating third parties to which we have disclosed certain categories of personally identifiable information during the preceding year for the third parties’ direct marketing purposes. To make such a request, please contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
+If you are a California resident, California Civil Code Section 1798.83 permits you to request in writing a list of the categories of personally identifiable information relating third parties to which we have disclosed certain categories of personally identifiable information during the preceding year for the third parties’ direct marketing purposes. To make such a request, please contact us at: privacy@matomy.com.  
   
 #### At any time, you can request access to your personally identifiable information.
 
@@ -169,7 +169,7 @@ If you are a California resident, California Civil Code Section 1798.83 permits 
 
 If you find that the information on your account is not accurate, complete or up-to-date, please provide us the necessary information to correct it.
 
-At any time, you can contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and request to access the personally identifiable information that we keep about you. We will need to ask you to provide us certain credentials to make sure that you are who you claim to be and to the extent required under the applicable law, will make good-faith efforts to locate your personally identifiable information that you request to access.
+At any time, you can contact us at: privacy@matomy.com and request to access the personally identifiable information that we keep about you. We will need to ask you to provide us certain credentials to make sure that you are who you claim to be and to the extent required under the applicable law, will make good-faith efforts to locate your personally identifiable information that you request to access.
 
 If you are eligible for the right of access under the applicable law, you can obtain confirmation from us of whether we are processing personally identifiable information   about you, and receive a copy of that data, so that you could:
 
@@ -219,7 +219,7 @@ Note that when you send us a request to exercise your rights, we will need to re
 
 If we need to delete your personal data following your request, it will take some time until we completely delete residual copies of your personal data from our active servers and from our backup systems.
 
-If you have any concerns about the way we process your personal data, you are welcome to contact our data protection officer at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d6a6a4bfa0b7b5af96bbb7a2b9bbaff8b5b9bb). We will look into your inquiry and make good-faith efforts to respond promptly.
+If you have any concerns about the way we process your personal data, you are welcome to contact our data protection officer at: [privacy@matomy.com](mailto:privacy@matomy.com). We will look into your inquiry and make good-faith efforts to respond promptly.
 
 Representative in the EU
 
@@ -235,7 +235,7 @@ We retain different types of personally identifiable information for different p
 
 For example, we will need to keep the information for several years due to tax related requirements, for accounts settling, record keeping, archiving and legal issues. 
 
-We will maintain your contact details, to help us stay in contact with you. At any time before or after the termination of your account, you can contact our data protection officer at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3545475c4354564c755854415a584c1b565a58) and request to delete your contact details. Note that we will keep your details without using them unless necessary, and for the necessary period, for legal requirements and proceedings.
+We will maintain your contact details, to help us stay in contact with you. At any time before or after the termination of your account, you can contact our data protection officer at: [privacy@matomy.com](mailto:privacy@matomy.com) and request to delete your contact details. Note that we will keep your details without using them unless necessary, and for the necessary period, for legal requirements and proceedings.
 
 We will keep aggregated non-identifiable information without limitation, and to the extent reasonable we will delete or de-identify potentially identifiable information, when we no longer need to process the information.
 
@@ -277,13 +277,13 @@ We and our hosting services implement systems, applications and procedures to se
 
 These measures provide sound industry standard security. However, although we make efforts to protect your privacy, we cannot guarantee that the Service will be immune from any wrongdoings, malfunctions, unlawful interceptions or access, or other kinds of abuse and misuse.  
   
-#### Contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#bdcdcfd4cbdcdec4fdd0dcc9d2d0c493ded2d0) or write us for every request and complaint. We will make good-faith efforts to resolve any existing or potential dispute with you.
+#### Contact us at: [privacy@matomy.com](mailto:privacy@matomy.com) or write us for every request and complaint. We will make good-faith efforts to resolve any existing or potential dispute with you.
 
 | 
 
 #### **Dispute Resolution**
 
-We do periodical assessments of our data processing and privacy practices, to make sure that we comply with this policy, to update the policy when we believe that we need to, and to verify that we display the policy properly and in an accessible manner. If you have any concerns about the way we process your personally identifiable information, you are welcome to contact our data protection officer at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#9ceceef5eafdffe5dcf1fde8f3f1e5b2fff3f1), or write to us. Our address is published on our website at: [www.matomy.com](http://www.matomy.com/) and, if applicable, is indicated in your subscription agreement with us.
+We do periodical assessments of our data processing and privacy practices, to make sure that we comply with this policy, to update the policy when we believe that we need to, and to verify that we display the policy properly and in an accessible manner. If you have any concerns about the way we process your personally identifiable information, you are welcome to contact our data protection officer at: [privacy@matomy.com](mailto:privacy@matomy.com), or write to us. Our address is published on our website at: [www.matomy.com](http://www.matomy.com/) and, if applicable, is indicated in your subscription agreement with us.
 
 We will look into your query and make good-faith efforts to resolve any existing or potential dispute with you.  
   
@@ -301,4 +301,4 @@ Until the new policy takes effect, if it materially reduces the protection of yo
 
 #### **Contact Us**
 
-#### Please contact our Data Protection Officer at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5a2a28332c3b39231a373b2e35372374393537) for further information.
+#### Please contact our Data Protection Officer at: [privacy@matomy.com](mailto:privacy@matomy.com) for further information.
