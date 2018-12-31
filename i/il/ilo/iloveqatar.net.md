@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iloveqatar.net privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624192236id_/https%3A//www.iloveqatar.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iloveqatar.net privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231021704id_/https%3A//www.iloveqatar.net/privacy) for the most accurate reproduction.*
 
 # ILoveQatar.net (ILQ)
 
@@ -61,7 +61,7 @@ Except for the purposes of providing the Services, we will not give your name or
 
 Cookies are small pieces of information which are issued to your computer when you visit a website and which store and sometimes track information about your use of the Service. ILoveQatar uses cookies to help recognize you as a repeat visitor, to improve the quality of our Service, and to try and make your browsing experience meaningful. When you enter our Site, our web server sends a cookie to your computer which allows us to recognize your computer but not specifically who is using it. By associating the identification numbers in the cookies with other customer information when, for example, you log-in to the Service, then we know that the cookie information relates to you. Some of the cookies used by our Service are served by us, and some are served by third parties who are delivering services on our behalf. 
 
-Most web browsers automatically accept cookies but, if you prefer, you can change your browser to prevent that or to notify you each time a cookie is set. You can also learn more about cookies by visiting [www.allaboutcookies.org](https://web.archive.org/web/20180624192236id_/https%3A//www.iloveqatar.net/www.allaboutcookies.org "www.allaboutcookies.org") which includes additional useful information on cookies and how to block cookies using different browsers. By blocking or deleting cookies used on our Service, you may not be able to take full advantage of our Service. 
+Most web browsers automatically accept cookies but, if you prefer, you can change your browser to prevent that or to notify you each time a cookie is set. You can also learn more about cookies by visiting [www.allaboutcookies.org](https://web.archive.org/web/20181231021704id_/https%3A//www.iloveqatar.net/www.allaboutcookies.org "www.allaboutcookies.org") which includes additional useful information on cookies and how to block cookies using different browsers. By blocking or deleting cookies used on our Service, you may not be able to take full advantage of our Service. 
 
 ## Voluntary Disclosure
 
