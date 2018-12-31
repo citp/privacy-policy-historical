@@ -1,13 +1,22 @@
-> *The following text is extracted and transformed from the umpquabank.com privacy policy that was archived on 2017-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170402210359id_/https%3A//www.umpquabank.com/ask-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the umpquabank.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231133412id_/https%3A//www.umpquabank.com/help-center/privacy-policy) for the most accurate reproduction.*
 
-# Umpqua Bank -- your privacy policy
+# Privacy Policy
 
-Your privacy always comes first. Learn about how we use and protect your information. 
+### Your Privacy & Security
+
+Your privacy always comes first. Learn about how we use and protect your information.
 
 Your personal information is your personal information. That means you have the right to choose how we share and use certain personal information about you.
 
 Click on the links below to learn more about our Privacy Policies.
 
-[What does Umpqua Bank do with your Personal Information?](https://web.archive.org/uploadedFiles/Corporate/Content/Security/Privacy%20Policy.pdf "Privacy Policy 2")
+[What does Umpqua Bank do with your Personal Information?](https://web.archive.org/globalassets/media/documents/privacy_policy.pdf)
 
-[What does Umpqua Bank do with information about online website visitors?](https://web.archive.org/uploadedFiles/Corporate/Content/Security/Online%20Privacy%20Policy%20v.10.14.1.pdf "What does Umpqua Bank do with information about online website visitors?")
+[What does Umpqua Bank do with information about online website visitors?](https://web.archive.org/globalassets/media/documents/online_privacy_policy_v.10.14.1.pdf "What does Umpqua Bank do with information about online website visitors?")
+
+**Questions?**  
+Give us a call at  
+[(866) 486-7782](tel:+18664867782)  
+Mon-Fri, 7am-7pm  
+Sat-Sun, 8am-5pm  
+or drop us an [email](https://web.archive.org/contact-us/).
