@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yoast.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625220830id_/https%3A//yoast.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoast.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231210726id_/https%3A//yoast.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • Yoast
 
