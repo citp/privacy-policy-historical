@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webdesign.com privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619033151id_/http%3A//www.webdesign.com/digimedia_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webdesign.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231021054id_/http%3A//webdesign.com/digimedia_privacy_policy.html) for the most accurate reproduction.*
 
 # 
 
