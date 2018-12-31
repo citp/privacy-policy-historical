@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pitchero.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627034824id_/https%3A//www.pitchero.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pitchero.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231031928id_/https%3A//www.pitchero.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Pitchero
 
@@ -171,7 +171,7 @@
 10.1.12
     to software suppliers when you use the chat forums with our applications. The software analyses user generated content to identify any anomalies which may indicate behaviour that poses a threat to children. Where such a threat is identified further to analysis of the individual’s behaviour, we may take action we consider appropriate including but not limited to removing you as a registered user and/or the notification of law enforcement organisations; and
 10.1.13
-    to the Perform Group who work with various third parties to identify audience segments to advertise to. Software is used to track website use and helps build a profile resulting in adverts being sent to you which match your profile. As a consequence, you will see third party advertisements relevant to your interests and lifestyle when you visit our website. Please note that the only information we share with the Perform Group is your sex (M/F) and whether you are a youth player (where you have disclosed this information to us). You cannot be identified from this information. The Perform Group is required to adhere to strict guidelines when advertising to our users and we prohibit the use of advertisements containing adult or salacious content. You can find out more about how Perform Group will treat this data by viewing [Perform’s privacy policy](http://www.performgroup.com/media-privacy-notice). You may also go to [www.youronlinechoices.eu](https://www.youronlinechoices.eu/) if you are in Europe, or to [www.aboutads.info](http://www.aboutads.info/choices) if you are anywhere else for instructions on how to disable cookies which may be used by advertisers to target You.
+    to Minute Media who work with various third parties to identify audience segments to advertise to. Software is used to track website use and helps build a profile resulting in adverts being sent to you which match your profile. As a consequence, you will see third party advertisements relevant to your interests and lifestyle when you visit our website. Please note that the only information we share with Minute Media is your sex (M/F) and whether you are a youth player (where you have disclosed this information to us). You cannot be identified from this information. Minute Media is required to adhere to strict guidelines when advertising to our users and we prohibit the use of advertisements containing adult or salacious content. You can find out more about how Minute Media will treat this data by viewing [Minute Media’s privacy policy](https://www.minutemedia.com/privacy-policy). You may also go to [www.youronlinechoices.eu](https://www.youronlinechoices.eu/) if you are in Europe, or to [www.aboutads.info](http://www.aboutads.info/choices) if you are anywhere else for instructions on how to disable cookies which may be used by advertisers to target You.
 
 11
     
@@ -265,4 +265,4 @@
 18.1
      If You have any questions, comments or requests regarding this policy or how We use Your Data please contact our Data Protection Lead at [support@pitchero.com](mailto:support@pitchero.com). This is in addition to your right to contact the Information Commissioners Office if you are unsatisfied with our response to any issues you raise at [https://ico.org.uk/global/contact-us](https://ico.org.uk/global/contact-us/). 
 
-Privacy Policy last updated: April 2018
+Privacy Policy last updated: October 2018
