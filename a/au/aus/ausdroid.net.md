@@ -1,158 +1,95 @@
-> *The following text is extracted and transformed from the ausdroid.net privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610150022id_/http%3A//ausdroid.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ausdroid.net privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231093517id_/https%3A//ausdroid.net/about-ausdroid/privacy-policy) for the most accurate reproduction.*
 
-# Privacy - Ausdroid
+# Privacy Policy - Ausdroid
 
-**Privacy policy**
+## 
 
-This website is owned and operated by Ausdroid Media Pty Ltd, ABN 93 162 673 789 (Ausdroid, we, us or our).
+## Who we are
 
-Ausdroid is not bound by the National Privacy Principles (NPPs) in the Privacy Act 1988. This is because we are a small organisation with an annual turnover well below the threshold.
+We are Ausdroid Media Pty Ltd. We run this website, at [https://ausdroid.net](https://ausdroid.net/).
 
-However, we choose to comply with them as best we can, and this Privacy Policy applies to Ausdroid and the websites it operates.
+## What personal data we collect and why we collect it
 
-This Privacy Policy applies to all Ausdroid’s business activities. Also, to the extent that it relates to personal information supplied by users of our websites, it forms part of the terms and conditions of those websites. This is explained in more detail in the terms and conditions of each of the websites we operate.
+### Comments
 
-This Privacy Policy outlines how Ausdroid handles personal information. “Personal information” is information or an opinion that identifies an individual, or from which an individual’s identity reasonably can be ascertained.
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
-**1\. What personal information do we collect and why?**
+An anonymised string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: <https://automattic.com/privacy/>. After approval of your comment, your profile picture (if provided by Gravatar) is visible to the public in the context of your comment.
 
-(a) Website Users
+### Media
 
-Much of the personal information that Ausdroid collects is information that website users volunteer to us (through our websites).
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
 
-For instance, personal information is provided by users who register for our website services (Registration Information), including:
+### Contact forms
 
-  * _Discussion Boards_ : Sometimes we provide a discussion board service on our websites so that users can discuss common topics of interest. If a user chooses to sign up to a discussion board service, they must provide us with some personal information including a valid email address. Ausdroid uses this personal information to identify users who leave comments prohibited by our terms and conditions of use, and also to identify topics of interest to discussion board users; and
-  * _Comments_ : Also, website users can choose to leave comments on particular articles of interest. To leave a comment, users must submit personal information including a valid email address. Ausdroid uses this information to screen out users who leave comments prohibited by our terms and conditions of use only.
+If you complete a contact form on this website (there are two – the ability to make a [general contact](https://ausdroid.net/contact/), or to [submit a tip](https://ausdroid.net/tip-us/)) then we ask you to provide some information so we can respond to you. We ask you to provide your name, your email address, and the reason for your contact. This information is stored on a Google Form, with access limited to key Ausdroid personnel.
 
+### Cookies
 
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
 
-Also, Ausdroid may aggregate personal information that is Registration Information. This is for research purposes only (and the aggregated data will not identify any individual users).
+If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
 
-The discussion boards and comment pages that we provide through our websites are public spaces. For this reason, website users who post information to discussion boards or comment pages are taken to consent to such information and comments being disclosed to other users of those websites.
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
 
-(b) Competition Entrants
+If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
 
-As explained in the terms and conditions of our websites, from time to time, Ausdroid conducts competitions and promotions. Ausdroid will collect personal information when it does so, in order to distribute prizes and administer the relevant competition or promotion.
+### Embedded content from other websites
 
-If we collect personal information in this way, when you enter the competition or promotion we also ask you to consent to us using that information for marketing purposes or for other purposes.
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
 
-You may, of course, opt out of receiving any future communications from us. We will always offer you this option.
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.
 
-(c) Business Contacts
+### Analytics
 
-We also collect personal information from people we do business with, such as contact people in our external service providers and related bodies corporate. This information is needed so that we can manage our business, and is collected in the ordinary course of business.
+Ausdroid uses Google Analytics to analyse the traffic visiting our website. You can view [Google’s Privacy Policy for Analytics](https://support.google.com/analytics/answer/6004245?hl=en) for further information about what is collected and stored by Google.
 
-(d) Journalism Subjects
+## Who we share your data with
 
-In the course of operating our websites, Ausdroid operates as a media organisation (ie in that it collects and disseminates of news and information, and related commentary and opinions). The NPPs do not apply to acts done or practices engaged in by media organisations in the course of journalism if they are publicly committed to observing standards that deal with privacy in the context of their media activities, and which have been published in writing.
+Generally speaking, no one. Only key Ausdroid personnel have access to Ausdroid’s user database and contact forms.
 
-In operating our websites, Ausdroid is committed to complying with the Journalism Privacy Standards in Annexure A of this Privacy Policy.
+We share de-identified analytics data (that does not contain IP addresses, logged in usernames or any other personal identifiers) with some of our partners. The kinds of information disclosed are aggregate visitor numbers, geographic location (by country), return visitor percentages, and so on. No personally identifiable information is exchanged.
 
-(e) Employees
+## How long we retain your data
 
-Ausdroid also collects personal information about its own employees, but its handling of employee information is not within the scope of this privacy policy.
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognise and approve any follow-up comments automatically instead of holding them in a moderation queue.
 
-(f) Newsletter subscribers
+For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
 
-Users who subscribe to our newsletter are required to provide their name and a valid email address. We use the email address provided to provide a newsletter service, which we run from time to time. We also run competitions, giveaways and other promotions via our newsletter. Lastly, we do – from time to time – allow sponsors to send messages to our newsletter subscribers (we send this on their behalf; your personal information is never disclosed). By signing up to our newsletter, you consent to our use of your information for these purposes.
+## What rights you have over your data
 
-(f) Cookies and tracking
+If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
 
-Personal information that visitors submit and the cookie applied via our website is used as detailed below:
+To make such a request for your data, or for your data to be deleted, please use our [Contact Form](https://ausdroid.net/contact/).
 
-(i) Sponsored Question:
+## Where we send your data
 
-When you respond in the affirmative (yes) to a particular sponsored question we will be supplying your contact details and cookie to that sponsor only, this sponsor may use this information to contact you or display relevant offers on their or 3rd party websites for the duration of the cookie
+Visitor comments may be checked through an automated spam detection service.
 
-(ii) Generic Question:
+## Your contact information
 
-When you respond to a generic question (no sponsor mentioned) we may make available your cookie data to 3rd party advertisers who may use this data to display relevant offers on their or 3rd party websites. They will not be passed any contact details from your profile
+You can contact Ausdroid through our [Contact Page](https://ausdroid.net/contact/), which has our contact form, email address and postal address.
 
-We may also use your personal information to create aggregate data about our website visitors, such as statistics relating to age, gender and demographics. This personal information is only used for our statistical purposes.
+## Additional information
 
-If you were to view your tracking cookies available on your browser you can identify the cookies placed by iCumulus these are identified as “site = inimbus.com.au” and you can opt out from further tracking by iCumulus by [clicking this link](http://trk.inimbus.com.au/optout/).
+### How we protect your data
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to sign in or use other interactive features of OfferCloud and services that depend on cookies, and some advertising preferences that are dependent on cookies may not be able to be respected. If you choose to accept cookies, you also have the ability to later delete cookies that you have accepted. If you chose to delete cookies, any settings and preferences, including advertising preferences, controlled by those cookies will be deleted and may need to be recreated.
+Ausdroid stores your data on a dedicated (non-shared) server located in a secure data centre facility in Sydney, New South Wales. Only one person has server-level access, and only key Ausdroid personnel have administrative access to our website platform. User access to each is protected by secure passwords and other measures to minimise the risk of intrusion.
 
-Cookies information for sponsors have a lifetime of 30-60 days from time you have last visited our website
+Note, though, that Ausdroid is not bound (by law) to comply with the Australian Privacy Principles, though we do our best to comply with them in spirit.
 
-**2\. Will personal information be given to anyone else?**
+### What data breach procedures we have in place
 
-Subject to the exceptions outlined below, Ausdroid’s policy is not to disclose personal information that is Registration Information to third parties.
+If we become aware of a breach of our user data, we will disclose that fact in due course.
 
-Like most businesses, Ausdroid uses a number of external service providers to help us perform functions such as delivery, mailing, IT and website support. For our service providers to perform those functions effectively and efficiently it is sometimes necessary for them to handle personal information on our behalf. This may include Registration Information and other personal information held by us. Under the terms of our service agreements with our service providers, we require those external service providers to respect your privacy, and authorise them only to use personal information that we disclose to them in order to provide the services we require.
+### What third parties we receive data from
 
-We may also disclose personal information we are under a legal requirement to do so (eg under a court order, or if required under legislation), or if an authorised request is made (eg from a law enforcement agency).
+Where you opt to do so, we may receive limited third party information from social networks where you sign in with one of those platforms. The kinds of information we may receive (but we do not necessarily receive) include an email address, a profile picture, and a name.
 
-As noted above, website users who post information to discussion boards or comment pages consent to such information and comments being disclosed to other users of those websites.
+### What automated decision making and/or profiling we do with user data
 
-**3\. Access and Correction**
+When comments are run through our automated spam detection service, your name, email address, IP address and comment text may be provided to a third party. That service is provided by Automattic Inc, and you can read more about the [Akismet service](https://akismet.com/) here.
 
-Under the Privacy Act, you have a right to seek access to information which we hold about you (although there are some exceptions to this). You also have the right to ask us to correct information about you which is inaccurate, incomplete or out of date.
+### Industry regulatory disclosure requirements
 
-As noted, the personal information that we hold about you will generally be information that you have provided to us. However, if you wish to exercise your right under the Privacy Act to seek access to personal information that we hold about you, we ask that you contact our Privacy Officer (details at point 7 below), who will explain how we will handle your access request. Our policy is to consider any requests for correction in a timely way.
-
-**4\. Is personal information stored safely?**
-
-Ausdroid takes reasonable steps to ensure that the personal information we hold is stored in a secure environment protected from unauthorised access, modification or disclosure. We remind our staff and contractors of the importance of storing personal information in a secure way, and to treat it like confidential information.
-
-**5\. Cookies and Log Files**
-
-_Cookies_ : The discussion boards hosted by our websites may use cookies. A cookie is a piece of data stored on the user’s computer tied to information about the user. We may use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user’s hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions.
-
-By setting a cookie on an Ausdroid site, users will not have to log in a password more than once, thereby saving time while on the site’s discussion board. We store a cookie on each user’s machine that contains a username and encrypted password. You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. If you reject all cookies, you will not be able to use any products or services we offer that require you to “sign in,” and you may not be able to take full advantage of all offerings. However, not all of our services require that you accept cookies.
-
-_Log Files_ : Like most standard web site servers we use log files. This includes internet protocol (IP) addresses, information about you browser type and your internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks you make. This is used to analyse trends, administer the site, track users’ movements in the aggregate, and gather broad demographic information for aggregate use. However, this information is not linked to the personal information that you provide to the site.
-
-**6\. Email/SMS Marketing**
-
-We will not email or SMS you marketing material unless you have consented to this. This is a requirement of the Spam Act 2003. Further, you can unsubscribe from our electronic communications by using the “unsubscribe” facility contained in each electronic publication we send.
-
-**7\. Contact Us**
-
-If you have any questions or comments about this privacy policy, or if you wish to complain about how we have handled personal information about you, please contact our Privacy Officer via email: [privacy@ausdroid.net](mailto:privacy@ausdroid.net).
-
-**8\. Changes to this Privacy Policy**
-
-We review our privacy policy from time to time to make sure it is complying with legislative requirements and is in line with our users’ expectations. We reserve the right to change the policy accordingly.
-
-This policy was last updated in March 2013.
-
-**Annexure A: Journalism Privacy Standards**
-
-**Introduction**
-
-The National Privacy Principles contained in the Privacy Act 1988 do not apply to “acts done or practices engaged in by a media organisation in the course of journalism”, so long as that media organisation is publicly committed to observing standards that deal with privacy in the context of its activities and those standards have been published in writing by the organisation.
-
-Ausdroid is a media organisation to the extent that it operates a news website. These Journalism Privacy Standards (Standards) outline how Ausdroid’s employees who are engaged in the provision of content for the Website (Journalists) will handle personal information.
-
-The objective of these Standards is to balance the right of a person to privacy against the media’s right to inform the public about newsworthy matters and other matters of public interest.
-
-**What is personal information?**
-
-“Personal information” is information or an opinion that identifies an individual, or from which an individual’s identity reasonably can be ascertained.
-
-**Collection of personal information by Journalists**
-
-Journalists will collect personal information in the course of compiling reports and other information for the Website. Journalists should only collect personal information that is needed for an actual or anticipated report or Website posting.
-
-**How will personal information be used or disclosed by Journalists?**
-
-Personal information collected by Journalists should be used or disclosed for the purpose for which it was collected (eg for the publication of a story on the Website) or for related purposes (eg formulating commentary about such information, for publication on the Website). Personal information should only be disclosed on the Website if it is relevant to the story in question.
-
-**How will personal information be stored and checked?**
-
-It is a responsibility of Journalists to take reasonable steps to check that the personal information they use is accurate, complete and up-to-date, and that it is stored in a secure way.
-
-**Can our sources stay anonymous?**
-
-Journalists are not required by privacy laws to reveal the identity of confidential sources.
-
-**What is sensitive information?**
-
-Under the NPPs, sensitive information includes details of a person’s religion, race, sexual preferences, health or union/association membership. Sometimes, media organisations need to collect sensitive information if it is relevant information for a story. Journalists must take care in relation to the use of sensitive information by taking reasonable steps to ensure that they do not portray any person in a negative light on the basis of that information only (eg by placing gratuitous emphasis on age, colour, gender, national origin, physical or mental disability, race, religion or sexual preference). The focus should be upon the conduct or omissions, rather than the racial or other sensitive characteristics of the person who engages (or fails to engage in) in the relevant conduct.
-
-**Complaints**
-
-If you have a complaint about the handling of personal information by Journalists, please contact our Privacy Officer (see details in section 7 of the Ausdroid Privacy Policy).
+Nil applicable.
