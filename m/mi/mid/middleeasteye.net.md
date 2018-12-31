@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the middleeasteye.net privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630024602id_/http%3A//www.middleeasteye.net/privacy-policy-1507814569) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the middleeasteye.net privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231092153id_/https%3A//www.middleeasteye.net/privacy-policy-1507814569) for the most accurate reproduction.*
 
 # Privacy policy | Middle East Eye
 
@@ -33,7 +33,7 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: [info@middleeasteye.org](mailto:info@middleeasteye.org)
 
 Middle East Eye  
-[www.middleeasteye.net](http://www.middleeasteye.net/)
+[www.middleeasteye.net](https://www.middleeasteye.net/)
 
 [ **Click here for our Privacy Notice.**](https://drive.google.com/file/d/12aJJ8ZFwkwbAomzXSGRi8SP-s2XQdEME/view?usp=sharing)
 
