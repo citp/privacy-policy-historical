@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joomla.org privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624131232id_/https%3A//www.joomla.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomla.org privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231115029id_/https%3A//www.joomla.org/privacy-policy.html) for the most accurate reproduction.*
 
 # Joomla! Privacy Policy
 
@@ -41,7 +41,7 @@ Your name, email, phone number, IP to allow us to answer your request. These dat
 Your name and email to allow us to answer your request. These data are sent by email to the Joomla Project and are stored in the servers of our mail hosting provider. No data are stored in the hosting server of the sites.
   * **Newsletters**
     * joomla.org, developer.joomla.org, extensions.joomla.org, magazine.joomla.org  
-Your name, email and IP are collected and stored on our hosting provider’s servers, and backups are stored at Amazon services and/or hour hosting provider, in order to be able to send you by email news and information you subscribed to.
+Your name, email and IP are collected and stored on our hosting provider’s servers, and backups are stored at Amazon services and/or our hosting provider, in order to be able to send you by email news and information you subscribed to.
 
 
 
@@ -89,11 +89,14 @@ For more information on the use, management and deletion of cookies for all brow
 ### Google Services
 
   * **Analytics**  
-This website uses Analytics services from Google LLC. Google Analytics uses "cookies", which are stored on your computer, to help the website analyze how users use the site during their visit. The collected data (including your truncated IP address) is transmitted and stored on a server controlled by Google, located in the United States.  
-Google will use this information about your use of the website to generate reports on website activity for website operators and to provide other services relating to website activity and internet usage. Google will not link the IP address provided by your browser in Google Analytics to any other Google data.  
-Google will retain user and event data for 26 months.  
-You can deactivate the installation and use of Cookies by simply setting up your web browser. However, you will not be able to access all the functions of the site in an optimal way. If you wish to prevent the storage of personal data (including your IP address) and their use by Google, you can install the plugin: [ ](https://tools.google.com/dlpage/gaoptout)<https://tools.google.com/dlpage/gaoptout>  
-For more information, please see the terms of use [ ](https://www.google.com/analytics/terms/us.html)<https://www.google.com/analytics/terms/us.html>  and the privacy policy [ ](https://support.google.com/analytics/answer/6004245?hl=en)<https://support.google.com/analytics/answer/6004245?hl=en>  of Google Analytics.
+We use Analytics services from Google LLC. Google Analytics uses "cookies", which are stored on your computer, in order to help the website analyze how users use the site during their visit. The nature of these cookies is mainly for performance, as also for marketing. The collected data (information about your web preferences, ads based on what you visit or even your language) are analyzed and categorized in order to create a useful report about how this website is used and emphasize on its performance. These data are transmitted and stored on a server controlled by Google, located in the United States.  
+Google will use all this information, determined by the way you are using our website, in order to generate reports based on website’s activity for website operators and to provide other services related to website activity and internet usage. Your IP address is anonymized before being sent to Google.  
+All user level and event data are being deleted from Google Analytics 14 months after the last visit in our website.  
+You can deactivate the installation and use of Cookies by simply setting up your web browser’s preferences. However, you might have access to a less functional or even malfunctional environment within the site. If you wish to prevent the storage of personal data (including your anonymized IP address) and their use only by Google, you can install the following plugin: <https://tools.google.com/dlpage/gaoptout>[  
+](https://tools.google.com/dlpage/gaoptout)For more information, please see the terms of use <https://www.google.com/analytics/terms/us.html> and the privacy policy <https://support.google.com/analytics/answer/6004245?hl=en> of Google Analytics.
+  * **Google Tag Manager (GTM)**  
+Google Tag Manager (GTM) is a tag management system to manage JavaScript and HTML tags used for tracking and analytics on websites. Tags are small code elements that, among other things, are used to measure traffic and visitor behaviour, to understand the effect of online advertising and social channels. We occasionally set up remarketing and orientation towards target groups. We might also set them up when testing or optimising websites. We use GTM on our websites to include the following tracking tools: Google Analytics.  
+For more information about GTM’s privacy practices can be found at <https://policies.google.com/privacy?hl=en> and terms of use at <https://www.google.com/analytics/tag-manager/use-policy/>.
   * **reCAPTCHA**  
 Several of our domains (joomla.org, opensourcematters.org, developers.joomla.org) use Google LLC's reCAPTCHA service to protect submissions and prevent spam on the site. It checks if you are a person to prevent certain features of the website from being abused by spam bots.  
 By filling out the forms using this plugin, you consent to sending your IP address and possibly other data required by Google for the reCAPTCHA service. Your data will be communicated to Google and used by their services. However, your IP address will first be truncated by Google in EU Member States - or in other states that are part of the European Economic Area agreement. In exceptional cases, your full IP address will be transmitted to a Google server in the United States and then subsequently truncated. Google will use this information to evaluate your use of this service. The IP address provided to reCAPTCHA through your browser will not be merged with any other Google data.  
