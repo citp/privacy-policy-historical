@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readersdigest.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627212521id_/https%3A//www.trustedmediabrands.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readersdigest.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231082706id_/https%3A//www.trustedmediabrands.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TMB
 
@@ -115,7 +115,7 @@ You can also change your promotional and newsletter email preferences for all ou
 
 If you opt out of promotional or newsletter emails from any of our Family of Publications, we may continue to send you certain communications such as service announcements and administrative messages, relating to the Company or the Service that are necessary to our relationship with you.
 
-If you wish to opt out of our promotion lists for receiving offers via postal mail or telemarketing from third parties for their products and services, contact customer service at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#25465056514a484057464457406557410b464a48) or at:
+If you wish to opt out of our promotion lists for receiving offers via postal mail or telemarketing from third parties for their products and services, contact customer service at [customercare@rd.com](mailto:customercare@rd.com) or at:
 
 Trusted Media Brands, Inc.
 
