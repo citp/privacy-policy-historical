@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the team-dignitas.net privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629210846id_/http%3A//team-dignitas.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the team-dignitas.net privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231184129id_/http%3A//www.team-dignitas.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Pages - Team Dignitas
+# Privacy Policy - Pages - Dignitas
 
 Team-Dignitas (“ **we** ”, “ **us** ”) is committed to safeguarding and respecting the privacy of all visitors and their personal data. This privacy policy explains and aims to provide the detailed information of what happens to the personal data that you provide to us, or that we collect from you, including the details of our steps towards its procession and protection. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
