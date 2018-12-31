@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the thefader.com privacy policy that was archived on 2018-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180623130037id_/http%3A//www.thefader.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thefader.com privacy policy that was archived on 2018-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181231234500id_/http%3A//www.thefader.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><!--[if !IE]><!--><!--<![endif]--><head>
     <title>Privacy Policy | The FADER</title>
 
-    <link rel="stylesheet" media="all" href="/assets/application-bf002a39f5eeb0e94f3695be2f51d788b7df107526a8c17897ea0c40bd667a31.css">
+    <link rel="stylesheet" media="all" href="/assets/application-7bbdebc717cff8efbe02c2efc29c3f19dbd086655e08c268dcf9f351d1853284.css">
 
-      <script src="https://js-agent.newrelic.com/nr-1044.min.js"></script><script async="" src="//static.ads-twitter.com/uwt.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="/assets/application-05191bf4ab98d324c06c8abbe909109e785a83acbaeb4a546fb1b4d4fccb252d.js"></script>
+      <script src="https://js-agent.newrelic.com/nr-1044.min.js"></script><script async="" src="//static.ads-twitter.com/uwt.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="/assets/application-b16fa9bab0b87f25a0d198c197c19bd5eecb3dd7e577068a5ea7513eecc8d23a.js"></script>
 
     <script async="" src="https://www.google-analytics.com/analytics.js"></script>
 
@@ -29,44 +29,57 @@
 </script>
 
 <script type="text/javascript">
-  googletag.cmd.push(function() {
+ googletag.cmd.push(function() {
 
+   // Infinite scroll requires SRA
+   googletag.pubads().enableSingleRequest();
 
-  
-  
-  
-  
-  
-  
-  
-  
+   // Disable initial load, we will use refresh() to fetch ads.
+   // Calling this function means that display() calls just
+   // register the slot as ready, but do not fetch ads for it.
+   googletag.pubads().disableInitialLoad();
 
-  // Infinite scroll requires SRA
-  googletag.pubads().enableSingleRequest();
+   var params={};
+   window.location.search
+         .replace(/[?&]+([^=&]+)=([^&]*)/gi,
+                  function(str,key,value) {
+                    params[key.toLowerCase()] = value;
+                  }
+         );
 
-  // Disable initial load, we will use refresh() to fetch ads.
-  // Calling this function means that display() calls just
-  // register the slot as ready, but do not fetch ads for it.
-  googletag.pubads().disableInitialLoad();
+   for (var k in params){
+     if(k.indexOf("utm") === 0)
+       {
+         googletag.pubads().setTargeting(k,params[k]);
+       }
+   }
 
-    var params={};
-    window.location.search
-          .replace(/[?&]+([^=&]+)=([^&]*)/gi,
-                   function(str,key,value) {
-                     params[key.toLowerCase()] = value;
-                   }
-          );
+   /* googletag.pubads().enableLazyLoad({
+    *   fetchMarginPercent: 0,  // Fetch slots within 1 viewports.
+    *   renderMarginPercent: 0,  // Render slots within 1 viewports.
+    *   mobileScaling: 1.0
+    * });*/
 
-    for (var k in params){
-      if(k.indexOf("utm") === 0)
-        {
-          googletag.pubads().setTargeting(k,params[k]);
-        }
-    }
-
-    googletag.enableServices();
-});
+   googletag.enableServices();
+ });
 </script>
+
+<script type="text/javascript">
+
+ //declare this in the head before jita
+ var jitaJS = window.jitaJS || {};
+ jitaJS.que = jitaJS.que || [];
+
+ //Do not fetch bids for these ad units
+ window.rtkLazyAdUnitCodes = [
+   
+ ];
+
+
+</script>
+
+<script type="text/javascript" src="//creative.thefader.com/tZzh//jita.js?dfp=1" async="" defer=""></script>
+
 
 <!-- Quantcast Tag, part 1 -->
 <script type="text/javascript">
@@ -129,7 +142,7 @@
 
 
     <meta name="csrf-param" content="authenticity_token">
-<meta name="csrf-token" content="3sU/tLOBbGMHONYJKTkl7UM3i/1TdLFFtyDj7JTdr+geZUEfIGT4ClSQ+1H348JwUN6cHCgIvWMoehfGBknwTQ==">
+<meta name="csrf-token" content="olip8hoTSyBAFgzktQnLEsbDd5Zl9NMyg2wvHkjIywwbQsOGBGvyPCGAKqc626JramAQWkxlqfFtTRACHhKHHg==">
 
 <meta name="viewport" content="initial-scale=1, maximum-scale=1">
 <meta name="msvalidate.01" content="CFDCCD68D11A9B3C2CE7EE854D821682">
@@ -137,19 +150,19 @@
 <meta itemprop="name" content="The FADER">
 
 
-    <link rel="canonical" href="http://www.thefader.com/privacy-policy">
+    <link rel="canonical" href="https://www.thefader.com/privacy-policy">
 
 
     <meta name="description" content="The FADER is the definitive voice of music and the lifestyle that surrounds it.">
 
     <meta itemprop="description" content="The FADER is the definitive voice of music and the lifestyle that surrounds it.">
 
-    <meta property="image" content="http://www.thefader.com/assets/Fader-New-Black-FB-d2aaa59a0df7666f2ffae62bf70a70896fa5d60656f2c33d97f9ce70d98a2209.png">
+    <meta property="image" content="https://www.thefader.com/assets/Fader-New-Black-FB-d2aaa59a0df7666f2ffae62bf70a70896fa5d60656f2c33d97f9ce70d98a2209.png">
 
     <meta property="og:title" content="The FADER">
     <meta property="og:description" content="The FADER is the definitive voice of music and the lifestyle that surrounds it.">
-    <meta property="og:url" content="http://www.thefader.com">
-    <meta property="og:image" content="http://www.thefader.com/assets/Fader-New-Black-FB-d2aaa59a0df7666f2ffae62bf70a70896fa5d60656f2c33d97f9ce70d98a2209.png">
+    <meta property="og:url" content="https://www.thefader.com">
+    <meta property="og:image" content="https://www.thefader.com/assets/Fader-New-Black-FB-d2aaa59a0df7666f2ffae62bf70a70896fa5d60656f2c33d97f9ce70d98a2209.png">
     <meta property="og:image:width" content="708">
     <meta property="og:image:height" content="500">
 
@@ -165,10 +178,12 @@
 
       <link rel="stylesheet" media="all" href="/assets/max_width_override-b16e257bdcc41d34b78299b1581c879f545df70bc356776916dcedd9187a9584.css">
 
+    <!-- <script>(function(w,d,s,u,n,i,f,g,e,c){w.WDMObject=n;w[n]=w[n]||function(){(w[n].q=w[n].q||[]).push(arguments);};w[n].l=1*new Date();w[n].i=i;w[n].f=f;w[n].g=g;e=d.createElement(s);e.async=1;e.src=u;c=d.getElementsByTagName(s)[0];c.parentNode.insertBefore(e,c);})(window,document,"script","//api.dmcdn.net/pxl/cpe/client.min.js","cpe","5bbfae0db085fe029c91ec58",{scroll_to_pause:true});</script> -->
+
   </head>
   <body class="united_states">
 
-    <script type="text/javascript" src="http://secure-dcr.imrworldwide.com/novms/js/2/ggcmb500.js"></script>
+    <script type="text/javascript" src="https://secure-dcr.imrworldwide.com/novms/js/2/ggcmb500.js"></script>
 
 
     <div class="main_wrapper" id="main_wrapper">
@@ -185,9 +200,14 @@
   
   <div class="ad-container">
     <div id="div-leaderboard-ad">
-  <script type="text/javascript">
-    displayAdSlot('div-leaderboard-ad', 'fader_v3_sitewide_top_728_90', [728, 90]);
-  </script>
+
+
+    <div id="RTK_ILc8" style="overflow:hidden"></div>
+    <!-- 
+         <script>
+         /setupRtkAdObserver('RTK_ILc8');
+         </script> -->
+
 </div>
 
   </div>
@@ -198,24 +218,24 @@
         <a data-ga-event-category="Logo Nav" data-ga-event-action="click" data-ga-on="click" href="/home" class="logo_wrap">
           <div class="logo "></div>
         </a>
-          <a href="/magazine/113" class="current_issue_link">
+          <a href="/magazine/115" class="current_issue_link">
             <div class="current_issue">
               <div class="issue_info">
                 <span class="mono_heading size_16">ON NEWSSTANDS</span>
                 <div class="wrapper">
                   <div class="issue_number_wrapper" style="color: ; border-color: ">
-                      <div class="issue_number">113</div>
+                      <div class="issue_number">115</div>
                   </div>
                   <div class="issue_title">
-                    <span class="date">Summer 2018</span>
-                    <span>Summer Music</span>
+                    <span class="date">Winter 2018</span>
+                    <span>The Now Issue</span>
                   </div>
                 </div>
               </div>
               <div class="issue_img">
 
 
-                <img class="" srcset="http://thefader-res.cloudinary.com/images/w_220,c_limit,f_auto,q_auto:eco/rwador2nvnbvppipltbr/113.jpg 220w,http://thefader-res.cloudinary.com/images/w_300,c_limit,f_auto,q_auto:eco/rwador2nvnbvppipltbr/113.jpg 300w,http://thefader-res.cloudinary.com/images/w_400,c_limit,f_auto,q_auto:eco/rwador2nvnbvppipltbr/113.jpg 400w,http://thefader-res.cloudinary.com/images/w_600,c_limit,f_auto,q_auto:eco/rwador2nvnbvppipltbr/113.jpg 600w,http://thefader-res.cloudinary.com/images/w_750,c_limit,f_auto,q_auto:eco/rwador2nvnbvppipltbr/113.jpg 750w,http://thefader-res.cloudinary.com/images/w_840,c_limit,f_auto,q_auto:eco/rwador2nvnbvppipltbr/113.jpg 840w,http://thefader-res.cloudinary.com/images/w_960,c_limit,f_auto,q_auto:eco/rwador2nvnbvppipltbr/113.jpg 960w,http://thefader-res.cloudinary.com/images/w_1260,c_limit,f_auto,q_auto:eco/rwador2nvnbvppipltbr/113.jpg 1260w,http://thefader-res.cloudinary.com/images/w_1800,c_limit,f_auto,q_auto:eco/rwador2nvnbvppipltbr/113.jpg 1800w,http://thefader-res.cloudinary.com/images/w_2400,c_limit,f_auto,q_auto:eco/rwador2nvnbvppipltbr/113.jpg 2400w," sizes="212px" src="http://thefader-res.cloudinary.com/images/w_200,c_limit,f_auto,q_auto:eco/rwador2nvnbvppipltbr/113.jpg" alt="">
+                <img class="" srcset="https://thefader-res.cloudinary.com/images/w_220,c_limit,f_auto,q_auto:eco/qaafisq9ssnf3mg3nj9x/115.jpg 220w,https://thefader-res.cloudinary.com/images/w_300,c_limit,f_auto,q_auto:eco/qaafisq9ssnf3mg3nj9x/115.jpg 300w,https://thefader-res.cloudinary.com/images/w_400,c_limit,f_auto,q_auto:eco/qaafisq9ssnf3mg3nj9x/115.jpg 400w,https://thefader-res.cloudinary.com/images/w_600,c_limit,f_auto,q_auto:eco/qaafisq9ssnf3mg3nj9x/115.jpg 600w,https://thefader-res.cloudinary.com/images/w_750,c_limit,f_auto,q_auto:eco/qaafisq9ssnf3mg3nj9x/115.jpg 750w,https://thefader-res.cloudinary.com/images/w_840,c_limit,f_auto,q_auto:eco/qaafisq9ssnf3mg3nj9x/115.jpg 840w,https://thefader-res.cloudinary.com/images/w_960,c_limit,f_auto,q_auto:eco/qaafisq9ssnf3mg3nj9x/115.jpg 960w,https://thefader-res.cloudinary.com/images/w_1260,c_limit,f_auto,q_auto:eco/qaafisq9ssnf3mg3nj9x/115.jpg 1260w,https://thefader-res.cloudinary.com/images/w_1800,c_limit,f_auto,q_auto:eco/qaafisq9ssnf3mg3nj9x/115.jpg 1800w,https://thefader-res.cloudinary.com/images/w_2400,c_limit,f_auto,q_auto:eco/qaafisq9ssnf3mg3nj9x/115.jpg 2400w," sizes="212px" src="https://thefader-res.cloudinary.com/images/w_200,c_limit,f_auto,q_auto:eco/qaafisq9ssnf3mg3nj9x/115.jpg" alt="">
 
                 
               </div>
@@ -407,9 +427,6 @@
     </div>
   </div>
 
-    <div class="full-site-alert" style="">
-      <a href="https://actionnetwork.org/fundraising/bondfund">Donate to RAICES Texas’s Family Reunification and Bond Fund.</a>
-    </div>
 
 
 
@@ -425,7 +442,7 @@
         <p></p><h3>Effective Date: 11/10/2015</h3><p></p>
 
         <p>
-          This Privacy Policy explains how The FADER, Inc., our affiliates, partners and service providers (individually and/or collectively, “The FADER” or “we” or “us” or “our”) collect, use, secure, store and share the personal information we obtain when you (“you” and/or “your”) access, visit or use The FADER Websites (as defined in the&nbsp;Terms of Use). You must read this&nbsp;Privacy Policy and the&nbsp;Terms of Use (<a href="http://www.thefader.com/terms-of-use">www.thefader.com/terms-of-use</a>) carefully before accessing, visiting or using any of The FADER Websites. By accessing, visiting or using The FADER Websites, you agree to be bound by this&nbsp;Privacy Policy&nbsp;and the&nbsp;Terms of Use. If you do not agree to be bound by this Privacy Policy or the Terms of Use, you may not access, visit or use The FADER Websites.
+          This Privacy Policy explains how The FADER, Inc., our affiliates, partners and service providers (individually and/or collectively, “The FADER” or “we” or “us” or “our”) collect, use, secure, store and share the personal information we obtain when you (“you” and/or “your”) access, visit or use The FADER Websites (as defined in the&nbsp;Terms of Use). You must read this&nbsp;Privacy Policy and the&nbsp;Terms of Use (<a href="/terms-of-use">www.thefader.com/terms-of-use</a>) carefully before accessing, visiting or using any of The FADER Websites. By accessing, visiting or using The FADER Websites, you agree to be bound by this&nbsp;Privacy Policy&nbsp;and the&nbsp;Terms of Use. If you do not agree to be bound by this Privacy Policy or the Terms of Use, you may not access, visit or use The FADER Websites.
         </p>
 
         <h3>1. Information We Collect Automatically</h3>
@@ -511,9 +528,10 @@
 
 <div class="card_inner_wrapper">
 
+    <div class="fader_partner">Partner</div>
 
   <div class="bottom card_info_wrapper">
-    <a href="/2018/06/16/beyonce-and-jay-z-release-the-video-for-their-single-apeshit" class="permalink">
+    <a href="/2018/12/28/bad-bunnys-third-eye-will-actually-predict-your-future" class="permalink">
 
       <div class="card_media">
     
@@ -521,14 +539,14 @@
 
 
   
-  <img class="photo fit_w" srcset="http://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_533,w_1023,x_0,y_43/w_220,c_limit,f_auto,q_auto:eco/THUMBNAIL-12_amodds/beyonce-and-jay-z-release-the-video-for-their-single-apeshit.jpg 220w,http://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_533,w_1023,x_0,y_43/w_300,c_limit,f_auto,q_auto:eco/THUMBNAIL-12_amodds/beyonce-and-jay-z-release-the-video-for-their-single-apeshit.jpg 300w,http://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_533,w_1023,x_0,y_43/w_400,c_limit,f_auto,q_auto:eco/THUMBNAIL-12_amodds/beyonce-and-jay-z-release-the-video-for-their-single-apeshit.jpg 400w,http://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_533,w_1023,x_0,y_43/w_600,c_limit,f_auto,q_auto:eco/THUMBNAIL-12_amodds/beyonce-and-jay-z-release-the-video-for-their-single-apeshit.jpg 600w,http://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_533,w_1023,x_0,y_43/w_750,c_limit,f_auto,q_auto:eco/THUMBNAIL-12_amodds/beyonce-and-jay-z-release-the-video-for-their-single-apeshit.jpg 750w,http://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_533,w_1023,x_0,y_43/w_840,c_limit,f_auto,q_auto:eco/THUMBNAIL-12_amodds/beyonce-and-jay-z-release-the-video-for-their-single-apeshit.jpg 840w,http://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_533,w_1023,x_0,y_43/w_960,c_limit,f_auto,q_auto:eco/THUMBNAIL-12_amodds/beyonce-and-jay-z-release-the-video-for-their-single-apeshit.jpg 960w,http://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_533,w_1023,x_0,y_43/w_1260,c_limit,f_auto,q_auto:eco/THUMBNAIL-12_amodds/beyonce-and-jay-z-release-the-video-for-their-single-apeshit.jpg 1260w,http://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_533,w_1023,x_0,y_43/w_1800,c_limit,f_auto,q_auto:eco/THUMBNAIL-12_amodds/beyonce-and-jay-z-release-the-video-for-their-single-apeshit.jpg 1800w,http://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_533,w_1023,x_0,y_43/w_2400,c_limit,f_auto,q_auto:eco/THUMBNAIL-12_amodds/beyonce-and-jay-z-release-the-video-for-their-single-apeshit.jpg 2400w," src="http://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_533,w_1023,x_0,y_43/w_400,c_limit,f_auto,q_auto:eco/THUMBNAIL-12_amodds/THUMBNAIL-12_amodds.jpg" sizes="" alt="Beyoncé and Jay Z release the video for their single “Apeshit”">
+  <img class="photo fit_w" srcset="https://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_576,w_1024,x_0,y_21/w_220,c_limit,f_auto,q_auto:eco/unnamed_5_lgzoa6/bad-bunnys-third-eye-will-actually-predict-your-future.jpg 220w,https://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_576,w_1024,x_0,y_21/w_300,c_limit,f_auto,q_auto:eco/unnamed_5_lgzoa6/bad-bunnys-third-eye-will-actually-predict-your-future.jpg 300w,https://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_576,w_1024,x_0,y_21/w_400,c_limit,f_auto,q_auto:eco/unnamed_5_lgzoa6/bad-bunnys-third-eye-will-actually-predict-your-future.jpg 400w,https://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_576,w_1024,x_0,y_21/w_600,c_limit,f_auto,q_auto:eco/unnamed_5_lgzoa6/bad-bunnys-third-eye-will-actually-predict-your-future.jpg 600w,https://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_576,w_1024,x_0,y_21/w_750,c_limit,f_auto,q_auto:eco/unnamed_5_lgzoa6/bad-bunnys-third-eye-will-actually-predict-your-future.jpg 750w,https://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_576,w_1024,x_0,y_21/w_840,c_limit,f_auto,q_auto:eco/unnamed_5_lgzoa6/bad-bunnys-third-eye-will-actually-predict-your-future.jpg 840w,https://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_576,w_1024,x_0,y_21/w_960,c_limit,f_auto,q_auto:eco/unnamed_5_lgzoa6/bad-bunnys-third-eye-will-actually-predict-your-future.jpg 960w,https://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_576,w_1024,x_0,y_21/w_1260,c_limit,f_auto,q_auto:eco/unnamed_5_lgzoa6/bad-bunnys-third-eye-will-actually-predict-your-future.jpg 1260w,https://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_576,w_1024,x_0,y_21/w_1800,c_limit,f_auto,q_auto:eco/unnamed_5_lgzoa6/bad-bunnys-third-eye-will-actually-predict-your-future.jpg 1800w,https://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_576,w_1024,x_0,y_21/w_2400,c_limit,f_auto,q_auto:eco/unnamed_5_lgzoa6/bad-bunnys-third-eye-will-actually-predict-your-future.jpg 2400w," src="https://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_576,w_1024,x_0,y_21/w_400,c_limit,f_auto,q_auto:eco/unnamed_5_lgzoa6/unnamed_5_lgzoa6.jpg" sizes="" alt="Bad Bunny’s third eye will actually predict your future">
   
 
       </div>
 
       <div class="card_info">
-	      <h3 class="card_headline">Beyoncé and Jay Z release the video for their single “Apeshit”</h3>
-	        <p class="card_summary">Beyoncé and Jay Z release the first track from their joint album, Everything Is Love.</p>
+	      <h3 class="card_headline">Bad Bunny’s third eye will actually predict your future</h3>
+	        <p class="card_summary">Bad Bunny El Ojo X 100Pre</p>
       </div>
 
     </a>
@@ -558,19 +576,19 @@
     <div class="posts_wrapper gutter_all_margin">
 	  <div class="mini_card gutter_margin_all" data-ga-event-category="Recirculation" data-ga-event-label="Post Mini Card" data-ga-on="click" data-ga-event-action="click">
 
-      <a href="/2018/06/23/rick-ross-future-green-gucci-suit" class="permalink post-93007">
+      <a href="/2018/12/31/kanye-west-twitter-drake-demand-apology" class="permalink post-96977">
   
     <div class="mini_card_media">
 
 
 
 
-        <img class="photo fit_h" srcset="http://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_572,w_981,x_0,y_92/h_100,w_100,c_fill,g_face,f_auto,q_auto:eco/Rick-Ross-Green-Gucci-Suit-Ft-Future_kwpcgj/rick-ross-future-green-gucci-suit.jpg 100w,http://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_572,w_981,x_0,y_92/h_200,w_200,c_fill,g_face,f_auto,q_auto:eco/Rick-Ross-Green-Gucci-Suit-Ft-Future_kwpcgj/rick-ross-future-green-gucci-suit.jpg 200w,http://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_572,w_981,x_0,y_92/h_300,w_300,c_fill,g_face,f_auto,q_auto:eco/Rick-Ross-Green-Gucci-Suit-Ft-Future_kwpcgj/rick-ross-future-green-gucci-suit.jpg 300w," src="http://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_572,w_981,x_0,y_92/h_100,w_100,c_fill,g_face,f_auto,q_auto:eco/Rick-Ross-Green-Gucci-Suit-Ft-Future_kwpcgj/Rick-Ross-Green-Gucci-Suit-Ft-Future_kwpcgj.jpg" alt="Hear Rick Ross and Future’s “Green Gucci Suit”" sizes="100px">
+        <img class="photo fit_h" srcset="https://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_508,w_952,x_34,y_31/h_100,w_100,c_fill,g_face,f_auto,q_auto:eco/pjimage_37_nzaces/kanye-west-twitter-drake-demand-apology.jpg 100w,https://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_508,w_952,x_34,y_31/h_200,w_200,c_fill,g_face,f_auto,q_auto:eco/pjimage_37_nzaces/kanye-west-twitter-drake-demand-apology.jpg 200w,https://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_508,w_952,x_34,y_31/h_300,w_300,c_fill,g_face,f_auto,q_auto:eco/pjimage_37_nzaces/kanye-west-twitter-drake-demand-apology.jpg 300w," src="https://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_508,w_952,x_34,y_31/h_100,w_100,c_fill,g_face,f_auto,q_auto:eco/pjimage_37_nzaces/pjimage_37_nzaces.jpg" alt="Kanye West demands apology from Drake in new Twitter spree" sizes="100px">
         
     </div>
 
     <div class="mini_card_info">
-      <h3 class="mini_card_headline"><span>Hear Rick Ross and Future’s “Green Gucci Suit”</span></h3>
+      <h3 class="mini_card_headline"><span>Kanye West demands apology from Drake in new Twitter spree</span></h3>
     </div>
 
   </a>
@@ -579,19 +597,19 @@
 
 	  <div class="mini_card gutter_margin_all" data-ga-event-category="Recirculation" data-ga-event-label="Post Mini Card" data-ga-on="click" data-ga-event-action="click">
 
-      <a href="/2018/06/22/nile-rogers-chic-vic-mensa-mura-masa-till-the-world-falls" class="permalink post-93006">
+      <a href="/2018/12/31/nipsey-hussle-victory-lap-video" class="permalink post-96976">
   
     <div class="mini_card_media">
 
 
 
 
-        <img class="photo fit_h" srcset="http://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_558,w_1024,x_0,y_4/h_100,w_100,c_fill,g_face,f_auto,q_auto:eco/GettyImages-848632518_pjczqc/nile-rogers-chic-vic-mensa-mura-masa-till-the-world-falls.jpg 100w,http://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_558,w_1024,x_0,y_4/h_200,w_200,c_fill,g_face,f_auto,q_auto:eco/GettyImages-848632518_pjczqc/nile-rogers-chic-vic-mensa-mura-masa-till-the-world-falls.jpg 200w,http://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_558,w_1024,x_0,y_4/h_300,w_300,c_fill,g_face,f_auto,q_auto:eco/GettyImages-848632518_pjczqc/nile-rogers-chic-vic-mensa-mura-masa-till-the-world-falls.jpg 300w," src="http://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_558,w_1024,x_0,y_4/h_100,w_100,c_fill,g_face,f_auto,q_auto:eco/GettyImages-848632518_pjczqc/GettyImages-848632518_pjczqc.jpg" alt="Nile Rogers and Chic link up with Vic Mensa, Mura Masa and Cosa on “Till The World Falls”" sizes="100px">
+        <img class="photo fit_h" srcset="https://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_569,w_913,x_27,y_0/h_100,w_100,c_fill,g_face,f_auto,q_auto:eco/Screen_Shot_2018-12-31_at_2.39.44_PM_ck9tpu/nipsey-hussle-victory-lap-video.jpg 100w,https://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_569,w_913,x_27,y_0/h_200,w_200,c_fill,g_face,f_auto,q_auto:eco/Screen_Shot_2018-12-31_at_2.39.44_PM_ck9tpu/nipsey-hussle-victory-lap-video.jpg 200w,https://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_569,w_913,x_27,y_0/h_300,w_300,c_fill,g_face,f_auto,q_auto:eco/Screen_Shot_2018-12-31_at_2.39.44_PM_ck9tpu/nipsey-hussle-victory-lap-video.jpg 300w," src="https://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_569,w_913,x_27,y_0/h_100,w_100,c_fill,g_face,f_auto,q_auto:eco/Screen_Shot_2018-12-31_at_2.39.44_PM_ck9tpu/Screen_Shot_2018-12-31_at_2.39.44_PM_ck9tpu.jpg" alt="Watch Nipsey Hussle’s “Victory Lap” video" sizes="100px">
         
     </div>
 
     <div class="mini_card_info">
-      <h3 class="mini_card_headline"><span>Nile Rogers and Chic link up with Vic Mensa, Mura Masa and Cosa on “Till The World Falls”</span></h3>
+      <h3 class="mini_card_headline"><span>Watch Nipsey Hussle’s “Victory Lap” video</span></h3>
     </div>
 
   </a>
@@ -600,19 +618,19 @@
 
 	  <div class="mini_card gutter_margin_all" data-ga-event-category="Recirculation" data-ga-event-label="Post Mini Card" data-ga-on="click" data-ga-event-action="click">
 
-      <a href="/2018/06/22/cupcakke-new-single-hot-pockets" class="permalink post-93005">
+      <a href="/2018/12/31/dej-loaf-new-ep-go-dej-go" class="permalink post-96974">
   
     <div class="mini_card_media">
 
 
 
 
-        <img class="photo fit_h" srcset="http://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_450,w_859,x_5,y_6/h_100,w_100,c_fill,g_face,f_auto,q_auto:eco/Cupcakke-1_vi6bju/cupcakke-new-single-hot-pockets.jpg 100w,http://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_450,w_859,x_5,y_6/h_200,w_200,c_fill,g_face,f_auto,q_auto:eco/Cupcakke-1_vi6bju/cupcakke-new-single-hot-pockets.jpg 200w,http://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_450,w_859,x_5,y_6/h_300,w_300,c_fill,g_face,f_auto,q_auto:eco/Cupcakke-1_vi6bju/cupcakke-new-single-hot-pockets.jpg 300w," src="http://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_450,w_859,x_5,y_6/h_100,w_100,c_fill,g_face,f_auto,q_auto:eco/Cupcakke-1_vi6bju/Cupcakke-1_vi6bju.jpg" alt="Hear CupcakKe’s new single “Hot Pockets”" sizes="100px">
+        <img class="photo fit_h" srcset="https://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_637,w_792,x_165,y_0/h_100,w_100,c_fill,g_face,f_auto,q_auto:eco/GettyImages-1020441340_pw2aer/dej-loaf-new-ep-go-dej-go.jpg 100w,https://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_637,w_792,x_165,y_0/h_200,w_200,c_fill,g_face,f_auto,q_auto:eco/GettyImages-1020441340_pw2aer/dej-loaf-new-ep-go-dej-go.jpg 200w,https://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_637,w_792,x_165,y_0/h_300,w_300,c_fill,g_face,f_auto,q_auto:eco/GettyImages-1020441340_pw2aer/dej-loaf-new-ep-go-dej-go.jpg 300w," src="https://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_637,w_792,x_165,y_0/h_100,w_100,c_fill,g_face,f_auto,q_auto:eco/GettyImages-1020441340_pw2aer/GettyImages-1020441340_pw2aer.jpg" alt="Stream DeJ Loaf’s new EP Go DeJ Go Vol. 1" sizes="100px">
         
     </div>
 
     <div class="mini_card_info">
-      <h3 class="mini_card_headline"><span>Hear CupcakKe’s new single “Hot Pockets”</span></h3>
+      <h3 class="mini_card_headline"><span>Stream DeJ Loaf’s new EP <i>Go DeJ Go Vol. 1</i></span></h3>
     </div>
 
   </a>
@@ -621,19 +639,19 @@
 
 	  <div class="mini_card gutter_margin_all" data-ga-event-category="Recirculation" data-ga-event-label="Post Mini Card" data-ga-on="click" data-ga-event-action="click">
 
-      <a href="/2018/06/22/wiz-khalifa-gucci-mane-real-rich-music-video" class="permalink post-93003">
+      <a href="/2018/12/31/lana-del-rey-new-single-tease" class="permalink post-96973">
   
     <div class="mini_card_media">
 
 
 
 
-        <img class="photo fit_h" srcset="http://thefader-res.cloudinary.com/private_images/h_100,w_100,c_fill,g_face,f_auto,q_auto:eco/Screen_Shot_2018-06-22_at_2.10.45_PM_ukkt71/wiz-khalifa-gucci-mane-real-rich-music-video.jpg 100w,http://thefader-res.cloudinary.com/private_images/h_200,w_200,c_fill,g_face,f_auto,q_auto:eco/Screen_Shot_2018-06-22_at_2.10.45_PM_ukkt71/wiz-khalifa-gucci-mane-real-rich-music-video.jpg 200w,http://thefader-res.cloudinary.com/private_images/h_300,w_300,c_fill,g_face,f_auto,q_auto:eco/Screen_Shot_2018-06-22_at_2.10.45_PM_ukkt71/wiz-khalifa-gucci-mane-real-rich-music-video.jpg 300w," src="http://thefader-res.cloudinary.com/private_images/h_100,w_100,c_fill,g_face,f_auto,q_auto:eco/Screen_Shot_2018-06-22_at_2.10.45_PM_ukkt71/Screen_Shot_2018-06-22_at_2.10.45_PM_ukkt71.jpg" alt="Wiz Khalifa and Gucci Mane share “Real Rich” music video" sizes="100px">
+        <img class="photo fit_h" srcset="https://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_565,w_1018,x_6,y_99/h_100,w_100,c_fill,g_face,f_auto,q_auto:eco/GettyImages-1055500778_fdkgim/lana-del-rey-new-single-tease.jpg 100w,https://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_565,w_1018,x_6,y_99/h_200,w_200,c_fill,g_face,f_auto,q_auto:eco/GettyImages-1055500778_fdkgim/lana-del-rey-new-single-tease.jpg 200w,https://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_565,w_1018,x_6,y_99/h_300,w_300,c_fill,g_face,f_auto,q_auto:eco/GettyImages-1055500778_fdkgim/lana-del-rey-new-single-tease.jpg 300w," src="https://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_565,w_1018,x_6,y_99/h_100,w_100,c_fill,g_face,f_auto,q_auto:eco/GettyImages-1055500778_fdkgim/GettyImages-1055500778_fdkgim.jpg" alt="Lana Del Rey might be dropping new music next week" sizes="100px">
         
     </div>
 
     <div class="mini_card_info">
-      <h3 class="mini_card_headline"><span>Wiz Khalifa and Gucci Mane share “Real Rich” music video</span></h3>
+      <h3 class="mini_card_headline"><span>Lana Del Rey might be dropping new music next week</span></h3>
     </div>
 
   </a>
@@ -649,9 +667,15 @@
   <div class="ad_outer_wrapper">
     <div class="ad_inner_wrapper">
       <div id="div-footer-ad">
-  <script type="text/javascript">
-    displayAdSlot('div-footer-ad', 'fader_v3_sitewide_footer_728_90', [728, 90]);
-  </script>
+
+
+
+    <div id="RTK_NCgF" style="overflow:hidden"></div>
+    <!-- 
+         <script>
+         setupRtkAdObserver("RTK_NCgF");
+         </script> -->
+
 </div>
 
     </div>
@@ -691,24 +715,24 @@
         <a href="/magazine" class="header mono_heading size_21">Magazine</a>
         <div class="issue_info gutter_left">
           <div class="issue_number_wrapper">
-            <a href="/magazine/113">
-              <div class="issue_number_sm" style="color: ; border:2px solid ">113</div>
+            <a href="/magazine/115">
+              <div class="issue_number_sm" style="color: ; border:2px solid ">115</div>
             </a>
           </div>
           
-          <a href="/magazine/113" class="issue_text_wrapper">
-            <div class="issue_date">Summer 2018</div>
-            <div class="issue_title">Summer Music</div>
+          <a href="/magazine/115" class="issue_text_wrapper">
+            <div class="issue_date">Winter 2018</div>
+            <div class="issue_title">The Now Issue</div>
           </a>
         </div>
       </div>
-      <a href="/magazine/113" class="issue_cover">
+      <a href="/magazine/115" class="issue_cover">
 
 
-        <img class="fit_w" srcset="http://thefader-res.cloudinary.com/images/w_220,c_limit,f_auto,q_auto:eco/rwador2nvnbvppipltbr/113.jpg 220w,http://thefader-res.cloudinary.com/images/w_300,c_limit,f_auto,q_auto:eco/rwador2nvnbvppipltbr/113.jpg 300w,http://thefader-res.cloudinary.com/images/w_400,c_limit,f_auto,q_auto:eco/rwador2nvnbvppipltbr/113.jpg 400w,http://thefader-res.cloudinary.com/images/w_600,c_limit,f_auto,q_auto:eco/rwador2nvnbvppipltbr/113.jpg 600w,http://thefader-res.cloudinary.com/images/w_750,c_limit,f_auto,q_auto:eco/rwador2nvnbvppipltbr/113.jpg 750w,http://thefader-res.cloudinary.com/images/w_840,c_limit,f_auto,q_auto:eco/rwador2nvnbvppipltbr/113.jpg 840w,http://thefader-res.cloudinary.com/images/w_960,c_limit,f_auto,q_auto:eco/rwador2nvnbvppipltbr/113.jpg 960w,http://thefader-res.cloudinary.com/images/w_1260,c_limit,f_auto,q_auto:eco/rwador2nvnbvppipltbr/113.jpg 1260w,http://thefader-res.cloudinary.com/images/w_1800,c_limit,f_auto,q_auto:eco/rwador2nvnbvppipltbr/113.jpg 1800w,http://thefader-res.cloudinary.com/images/w_2400,c_limit,f_auto,q_auto:eco/rwador2nvnbvppipltbr/113.jpg 2400w," sizes="320px" src="http://thefader-res.cloudinary.com/images/w_320,c_limit,f_auto,q_auto:eco/rwador2nvnbvppipltbr/113.jpg" alt="">
+        <img class="fit_w" srcset="https://thefader-res.cloudinary.com/images/w_220,c_limit,f_auto,q_auto:eco/qaafisq9ssnf3mg3nj9x/115.jpg 220w,https://thefader-res.cloudinary.com/images/w_300,c_limit,f_auto,q_auto:eco/qaafisq9ssnf3mg3nj9x/115.jpg 300w,https://thefader-res.cloudinary.com/images/w_400,c_limit,f_auto,q_auto:eco/qaafisq9ssnf3mg3nj9x/115.jpg 400w,https://thefader-res.cloudinary.com/images/w_600,c_limit,f_auto,q_auto:eco/qaafisq9ssnf3mg3nj9x/115.jpg 600w,https://thefader-res.cloudinary.com/images/w_750,c_limit,f_auto,q_auto:eco/qaafisq9ssnf3mg3nj9x/115.jpg 750w,https://thefader-res.cloudinary.com/images/w_840,c_limit,f_auto,q_auto:eco/qaafisq9ssnf3mg3nj9x/115.jpg 840w,https://thefader-res.cloudinary.com/images/w_960,c_limit,f_auto,q_auto:eco/qaafisq9ssnf3mg3nj9x/115.jpg 960w,https://thefader-res.cloudinary.com/images/w_1260,c_limit,f_auto,q_auto:eco/qaafisq9ssnf3mg3nj9x/115.jpg 1260w,https://thefader-res.cloudinary.com/images/w_1800,c_limit,f_auto,q_auto:eco/qaafisq9ssnf3mg3nj9x/115.jpg 1800w,https://thefader-res.cloudinary.com/images/w_2400,c_limit,f_auto,q_auto:eco/qaafisq9ssnf3mg3nj9x/115.jpg 2400w," sizes="320px" src="https://thefader-res.cloudinary.com/images/w_320,c_limit,f_auto,q_auto:eco/qaafisq9ssnf3mg3nj9x/115.jpg" alt="">
         
       </a>
-      <a class="subscribe_button border_btn white" href="http://shop.thefader.com/collections/subscriptions" target="_blank">Subscribe</a>
+      <a class="subscribe_button border_btn white" href="https://shop.thefader.com/collections/subscriptions" target="_blank">Subscribe</a>
     </div>
 
     <div class="updates_form">
@@ -760,7 +784,7 @@
 </script>
 <noscript>
   <div style="display: none;">
-    <img src="http://pixel.quantserve.com/pixel/p-test123.gif" height="1" width="1" alt="Quantcast"/>
+    <img src="https://pixel.quantserve.com/pixel/p-test123.gif" height="1" width="1" alt="Quantcast"/>
   </div>
 </noscript>
 
@@ -843,6 +867,7 @@ assetid:assetidRnd,
 
     </div>
 
+      <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us3.list-manage.com","uuid":"47e24c510ba5e583e081e747e","lid":"58ecd52b41","uniqueMethods":true}) })</script>
 
     <script>
 
