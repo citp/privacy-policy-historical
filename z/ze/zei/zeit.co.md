@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zeit.co privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625093709id_/https%3A//zeit.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeit.co privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231090114id_/https%3A//zeit.co/privacy) for the most accurate reproduction.*
 
 # ZEIT – Privacy Policy
 
@@ -71,7 +71,7 @@ Information from Third Party Services. From time to time, we may combine informa
 
 ### When We Share Information
 
-We retain the services of other companies that help us to run our business (“Service Providers”). These companies provide services to help us deliver customer support, process credit card payments, manage and contact existing Customers as well as sales leads, provide marketing support, and otherwise operate and improve our Services. These Service Providers may only process personal information pursuant to our instructions and in compliance both with this Privacy Policy and other applicable confidentiality and security measures and regulations, including our obligations under the EU-US and Swiss-US Privacy Shield frameworks described in Section 6, below.
+We retain the services of other companies that help us to run our business (“Service Providers”). These companies provide services to help us deliver customer support, process credit card payments, manage and contact existing Customers as well as sales leads, provide marketing support, and otherwise operate and improve our Services. These Service Providers may only process personal information pursuant to our instructions and in compliance both with this Privacy Policy and other applicable confidentiality and security measures and regulations. ZEIT commits to cooperate with EU data protection authorities (DPAs) and comply with the advice given by such authorities with regard to human resources data transferred from the EU in the context of an employment relationship.
 
 We do not permit our Service Providers to use any personal information we share with them for their own marketing purposes or for any other purpose than in connection with the services they provide to us.
 
@@ -96,11 +96,7 @@ When you interact with ZEIT through our Services, we receive and store certain n
 
 ZEIT is a US Delaware corporation with primarily storage of your information in the United States and the European Economic Area (the “EEA”). To facilitate our global operations, we may transfer and access such information from around the world, including from other countries in which ZEIT has operations to provide the Services.
 
-Whenever ZEIT shares personal information originating in the EEA or Switzerland with a ZEIT entity outside the EEA or Switzerland, it will do so under the EU standard contractual clauses or the Privacy Shield Frameworks detailed in this section.
-
 If you are accessing or using our Websites or Services or otherwise providing information to us, you are agreeing to the transfer of your personal information to the United States and other jurisdictions in which we operate.
-
-ZEIT is certified under both the EU-U.S. and the Swiss-U.S. Privacy Shield Frameworks as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the EEA and Switzerland to the United States, respectively. If there is any conflict between the terms in this Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. For more information on the EU-U.S. Privacy Shield or Swiss-U.S. Privacy Shield, please visit the U.S. Department of Commerce’s Privacy Shield website at: <https://www.privacyshield.gov/welcome>.
 
 ### What Are Your Data Rights
 
@@ -108,7 +104,7 @@ ZEIT is certified under both the EU-U.S. and the Swiss-U.S. Privacy Shield Frame
 
  **End Users** : ZEIT has no direct relationship with End Users. We rely on our Customers to comply with the underlying legal requirements for subject access requests. If an End User requests that we access, correct, update, or delete their information, or no longer wishes to be contacted by one of our Customers that use our Services, we will direct that End User to contact the Customer website(s) with which they interacted directly. Our Customers are solely responsible for ensuring compliance with all applicable laws and regulations with respect to their website users.
 
- **Subject Access Requests**. We consider it important to verify that a requestor is inquiring about their own information before we can assist with any request. Where a SAR implicates the personal data of another individual, we balance the request against the risk of violating another person’s rights. We will comply with subject access requests to the extent required by applicable law or the US-EU or US-Swiss Privacy Shield.
+ **Subject Access Requests**. We consider it important to verify that a requestor is inquiring about their own information before we can assist with any request. Where a SAR implicates the personal data of another individual, we balance the request against the risk of violating another person’s rights. We will comply with subject access requests to the extent required by applicable law.
 
 ### How to Change Your Communication Preferences
 
