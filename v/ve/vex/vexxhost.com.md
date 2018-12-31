@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vexxhost.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625130119id_/https%3A//vexxhost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vexxhost.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231122736id_/https%3A//vexxhost.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy & Policy - VEXXHOST
 
