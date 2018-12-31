@@ -1,99 +1,75 @@
-> *The following text is extracted and transformed from the gab.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626192154id_/http%3A//www.gab.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gab.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231224052id_/https%3A//gab.com/about/privacy) for the most accurate reproduction.*
 
-# Gab | Discover, Share & Gab about the things that interest you
+# gab | Privacy
 
-Last modified: August 1st, 2012
+_Last updated: August 18th, 2016_
 
-We are committed to protecting your privacy. We created this Gab Online, LLC Privacy Policy (this "Privacy Policy") to describe our information collection and use practices in connection with our online services and mobile applications (the "Service"), which is made available to you through a variety of platforms, such as through gab.com (the "Website"), through Facebook, and other social media (collectively, "Social Media"), and through cell phones, personal digital assistants, and other mobile devices (collectively, the "Mobile Devices"). The Website, our Social Media pages, and the Mobile Devices are collectively referred to as the "Platforms." "Gab," "we," "us," and "our" refers to Gab Online, LLC, the company that owns and operates this Website.
+Protecting your privacy is important to us. With this in mind, we're providing this Privacy Policy to explain our practices regarding the collection, use and disclosure of information that we receive through our Services. This Privacy Policy does not apply to any third-party websites, services or applications, even if they are accessible through our Services. Also, please note that, unless we define a term in this Privacy Policy, all capitalized terms used in this Privacy Policy have the same meanings as in our [Terms of Service](https://gab.com/about/tos). So, please make sure that you have read and understand our [Terms of Service](https://gab.com/about/tos).
 
-By visiting our Website, and/or using our Service on any of the Platforms, you are agreeing to the terms of this Privacy Policy and the accompanying Terms of Use.
+Any information that is collected via our Services is covered by the Privacy Policy in effect at the time such information is collected. We may revise this Privacy Policy from time to time. If we make any material changes to this Privacy Policy, we'll notify you of those changes by posting them on the Services or by sending you an email or other notification, and we'll update the "Last Updated Date" above to indicate when those changes will become effective.
 
-### Information we collect
+## Collection and Use of Information
 
-We collect information to provide better services to all of our users – from figuring out basic stuff like what you like to do, to more complex things like which ads you’ll find most useful or the people whose opinions matter most to you online.
+### Information Collected or Received from You
 
-We collect information in two ways:
+Our primary goals in collecting information are to provide and improve our Services, to administer your use of the Services (including your Account, if you are an Account holder), and to enable you to enjoy and easily navigate our Services. Account Information. If you create an Account, we will collect certain information that can be used to identify you, such as your email address and, if you opt to add it, a photograph or picture of you ("PII"). Creating an Account also requires a username, which may or may not be PII depending on your username. You have the option to choose to provide other information about yourself, which will be made part of your Account's profile ("Profile").
 
- **Information you give us.**
+### Information Collected Using Technologies.
 
-When you visit our Website and use our Service, you may provide us with personally identifiable information about you, such as your name, e-mail address, telephone number, mailing address, personal interests, and other information (collectively, the "Personal Information"). We do not collect any Personal Information from you when you visit the Website unless you provide us with the Personal Information voluntarily (for example, by registering for an account, either directly through our Website or through Social Media).
+Like many app operators, we use automated data collection tools to collect certain information. Some third party services providers that we engage may also track and report information about how and when you interact with our App and information about your mobile device (such as device hardware, operating system, and location). We may use that information to customize and improve our Services. Note that this Privacy Policy covers only our use of technologies and does not include use of technologies by third parties.
 
- **Information we get from your use of the Website and the Service.**
+### Information Related to Use of the Services.
 
-We may collect information about the Website, the Service and Platforms that you use and how you use them, like when you visit our Website or a website that uses our advertising services or you view and interact with our ads and content. This information includes:
+Our servers automatically record certain information about how a person uses our Services (we refer to this information as "Log Data"), including both Account holders and non-Account holders (either, a "User"). Log Data may include information such as a User's Internet Protocol (IP) address, operating system, the features of our Services to which a User browsed and the time spent on those features, search terms, the links on our Services that a User clicked on and other statistics. We use Log Data to administer the Services and we analyze (and may engage third parties to analyze) Log Data to improve, customize and enhance our Services by expanding their features and functionality and tailoring them to our Users' needs and preferences. We may use a person's IP address to generate aggregate, non-identifying information about how our Services are used.
 
-### Device information
+### Information Sent by Your Mobile Device.
 
-We may collect device-specific information (such as your hardware model, operating system version, unique device identifiers, and mobile network information including phone number). We may associate your device identifiers or phone number with your Gab Account or Facebook Account.
+We collect certain information that your mobile device sends when you use our Services, like a device identifier, user settings, and the operating system of your device, as well as information about your use of our Services. Location Information. When you use our App and have enabled location services on your mobile device, we may collect and store information about your location by converting your IP address into a rough geolocation or by accessing your mobile device's GPS coordinates or course location. With your permission, we may use location information to improve, personalize and offer certain features of our Services to you, such as letting you check-in to locations, offering lists of nearby venues and calculating the distances and number of footsteps that you walk in a given day. If you do not want us to collect location information, you may disable that feature on your mobile device.
 
-### Log information
+### Information that We Share with Third Parties
 
-When you use our Platforms or view content provided by Gab, we may automatically collect and store certain information in server logs. This may include: 
+We will not share any PII that we have collected from or regarding you except as described below: Information Shared with Other Account Holders. Your User Content and Profile, which includes your username, display name and, if you choose to include it, your photograph or picture, will be visible to other Account holders whom you have approved as friends to view your Profile and User Content ("Friends"). In addition, unless you opt out of the default setting, your User Content and Profile will be visible to other Account holders who were approved by your Friends to view their User Content. In other words, friends of your Friends can see your Profile and User Content unless you change the setting in your App. The email address you provide to create your Account is not shared by us with other Account holders (but may appear in your Friends' address books if you provided it to them).
 
-  * details of how you used our service, such as your search queries.
-  * telephony log information like your phone number, calling-party number, forwarding numbers, time and date of calls, duration of calls, SMS routing information and types of calls.
-  * Internet protocol address.
-  * Device event information such as crashes, system activity, hardware settings, browser type, browser language, the date and time of your request and referral URL.
-  * cookies that may uniquely identify your browser or your account.
-  * Location information
-  * When you use a location-enabled service, we may collect and process information about your actual location, like GPS signals sent by a mobile device. We may also use various technologies to determine location, such as sensor data from your device that may, for example, provide information on nearby Wi-Fi access points and cell towers.
+### Information Shared with Our Services Providers.
 
+We may engage third party services providers to work with us to administer and provide the Services. These third party services providers will have access to your PII only for the purpose of performing services on our behalf and will be expressly obligated not to disclose or use your PII for any other purpose.
 
+### Information Shared with Third Parties.
 
-### Local storage
+We may share aggregated information and non-identifying information with third parties for industry research and analysis, demographic profiling and other similar purposes. Information Disclosed in Connection with Business Transactions. Information that we collect from our users, including PII, is considered to be a business asset. Thus, if we are acquired by a third party as a result of a transaction such as a merger, acquisition or asset sale or if our assets are acquired by a third party in the event we go out of business or enter bankruptcy, some or all of our assets, including your PII, may be disclosed or transferred to a third party acquirer in connection with the transaction.
 
-We may collect and store information (including Personal Information) locally on your device using mechanisms such as browser web storage (including HTML 5) and application data caches.
+### Information Disclosed for Our Protection and the Protection of Others.
 
-### How we use and share information we collect
+We cooperate with government and law enforcement officials or private parties to enforce and comply with the law. We may disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate: (i) to respond to claims, legal process (including subpoenas); (ii) to protect our property, rights and safety and the property, rights and safety of a third party or the public in general; and (iii) to stop any activity that we consider illegal or legally actionable activity.
 
-We use the Personal Information, the geolocational information, and the other information (a) to provide you the Service, (b) to send you information about Gab or the Service, (c) to customize and tailor your experience on the Website, and (d) to provide you with content that we think you might be interested in and according to your preferences. We may also use your contact information to inform you about other products and services that may be available through Gab, and/or companies with which we have a marketing relationship, and to provide you a customer survey to assess your satisfaction with our Service.
+## Your Choices
 
-### We may share Personal Information with third parties as described below:
+We offer you choices regarding the collection, use and sharing of your PII and we'll respect the choices you make. Please note that if you decide not to provide us with the PII that we request, you may not be able to access all of the features of the Services.
 
-We may employ other companies and individuals to perform functions on our behalf. Examples may include providing marketing assistance and customer service. These other companies will have access to your Personal Information only as necessary to perform their functions and to the extent permitted by law.
+## Opt-Out.
 
-We will share your Personal Information to your friends and also at our discretion to a general feed.
+We may periodically send you free emails that directly promote our Services. When you receive such promotional communications from us, you will have the opportunity to "opt-out" (either through your Account or by following the unsubscribe instructions provided in the email you receive). We do need to send you certain communications regarding the Services (e.g., account management and updates to our [Terms of Service](https://gab.com/about/tos) or this Privacy Policy) and you will not be able to opt-out of those communications.
 
-As long as you have explicitly consented, we may from time to time share your Personal Information with the public and with other companies which may provide you with information about the products and services they offer. However, you will have the opportunity to stop this sharing by giving a notice of objection at any time. Please send the notice to: support@gab.com.
+## Modifying Your Information.
 
-To the extent permitted by law, we may also disclose Personal Information when required by law, court order, or other government or law enforcement authority or regulatory agency, or whenever we believe that disclosing the Personal Information is necessary or advisable, for example, to protect the rights, property, or safety of Gab or others.
+You can access and modify the information contained in your Profile through the App. If you want us to delete your PII and your Account, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#08646d6f6964486f696a266961) with your request. We'll take steps to delete your information as soon we can, but some information may remain in archived/backup copies for our records or as otherwise required by law.
 
-We may also disclose aggregated user statistics in order to describe our services to current and prospective business affiliates and to other third parties for other lawful purposes.
+## The Security of Your Information
 
-If Gab is involved in a merger, acquisition or asset sale, we expect that the Personal Information would be transferred along with the other business assets.  If such a transaction occurs, we will continue to ensure the confidentiality of any Personal Information and give affected users notice before Personal Information is transferred or becomes subject to a different privacy policy. 
+We take reasonable administrative, physical and electronic measures designed to protect the information that we collect from or about you (including your PII) from unauthorized access, use or disclosure. Please be aware, however, that no method of transmitting information over the Internet or storing information is completely secure. Accordingly, we cannot guarantee the absolute security of any information. 
 
-### Information you share
+## Links to Other Sites
 
-Many of our services let you share information with others. Remember that when you share information publicly, it may be indexable by search engines. Our Services and Platforms provide you with different options on sharing and removing your content.
+Our Services may contain links to websites and services that are owned or operated by third parties (each, a "Third Party Service"). Any information that you provide on or to a Third Party Service or that is collected by a Third Party Service is provided directly to the owner or operator of the Third Party Service and is subject to the owner's or operator's privacy policy. We're not responsible for the content, privacy or security practices and policies of any Third Party Service. To protect your information we recommend that you carefully review the privacy policies of all Third Party Services that you access.
 
-If you choose to post user-generated content on the Website or any of our other Platforms, you should be aware that any personally identifiable information included with your user-generated content can be read, collected, or used by other users, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in your user-generated content.
+## International Transfer
 
-### Accessing and modifying personal information and communication preferences
+Your PII may be transferred to, and maintained on, computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you're located outside the United States and choose to provide your PII to us, we may transfer your PII to the United States and process it there.
 
-You can review and manage the Personal Information that you have provided to us through the account settings on our Website, and you can remove or change any information in your profile or account at any time. In addition, you may manage your receipt of marketing and non-transactional communications by clicking on the "unsubscribe" link located on the bottom of any Gab marketing e-mails. We will use commercially reasonable efforts to process such requests in a timely manner. You should be aware, however, that it is not always possible to completely remove or modify information in our subscription databases. You cannot opt-out of receiving transactional e-mails related to your account with Gab.
+## Our Policy Toward Children
 
-### How we protect visitor information
+Our Services are not directed to children under the age of 13 and we do not knowingly collect PII from children under age 13. If we learn that we have collected PII from a child under 13 years of age, we will take steps to delete such information from our files as soon as possible.
 
-We strive to maintain reasonable physical, electronic, and procedural safeguards to secure Personal Information from loss, misuse and unauthorized access, disclosure, alteration, and destruction. We use industry-standard SSL ("Secure Socket Layer") encryption technology, a secure server, and other physical and procedural safeguards to protect the security of such information. Please understand, however, that no security system is impenetrable. We cannot guarantee the security of our databases, nor can we guarantee that the information you supply will not be intercepted while being transmitted to and from us over the Internet.
+## Questions?
 
-If you have any questions regarding this Privacy Policy, please contact us as described in the "How to Contact Us" section. We will investigate your question, respond to your inquiry, and attempt to resolve any concerns regarding your privacy question.
-
-### Enforcement
-
-We regularly review our compliance with our Privacy Policy. When we receive formal written complaints, we will contact the person who made the complaint to follow up. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that we cannot resolve with our users directly.
-
-### Changes
-
-Our Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of privacy policy changes). We will also keep prior versions of this Privacy Policy in an archive for your review.
-
-### External web sites
-
-The Website may contain links to third-party web sites. Gab has no control over the privacy practices or the content of any of our business affiliates, advertisers, sponsors, or other web sites to which we provide links from the Website and the Service. As such, Gab is not responsible for the content or the privacy policies of web sites to which our Website or Service may link. You should check the applicable privacy policy of the web site sponsor when visiting any other web sites.
-
-### Changes to this privacy policy
-
-This Privacy Policy is effective as of the date stated at the top of this Privacy Policy. We may change this Privacy Policy from time to time. By accessing the Service and the Website or providing us Personal Information after we make any such changes to this Privacy Policy, you are deemed to have accepted such changes. Please refer back to this Privacy Policy on a regular basis.
-
-### How to contact us
-
-If you have questions about this Privacy Policy, please contact Gab via e-mail at support@gab.com with "PRIVACY POLICY" in the subject line.
+Please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5b373e3c3a371b3c3a39753a32) if you have any questions about our Privacy Policy.
