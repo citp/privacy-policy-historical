@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the herts.ac.uk privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630124921id_/https%3A//www.herts.ac.uk/about-us/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herts.ac.uk privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231124907id_/https%3A//www.herts.ac.uk/about-us/legal/privacy) for the most accurate reproduction.*
 
-# Privacy | University of Hertfordshire
+# University of Hertfordshire | Privacy
 
 At the University of Hertfordshire we believe strongly in protecting our users' privacy. We will not wilfully disclose information about our users to any third party without first receiving the relevant user's consent. This Privacy Policy sets out the privacy practices for the services offered on any University of Hertfordshire ('the University') owned and/or operated websites ('the Website'). Some parts of our on-line systems and services and our collaborative agreements are operated on our behalf by third-party organisations. By submitting your personal information you are consenting to the University holding it, in accordance with this policy, and where necessary carrying out these services by providing the relevant information to such organisations.
 
