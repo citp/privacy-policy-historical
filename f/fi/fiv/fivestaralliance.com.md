@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fivestaralliance.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002233755id_/https%3A//www.fivestaralliance.com/luxury-hotel-experts/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fivestaralliance.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231150223id_/https%3A//www.fivestaralliance.com/luxury-hotel-experts/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Five Star Alliance
+# Privacy Policy | Five Star Alliance
 
-Last Updated 02/08/2017
+Last Updated 05/25/2018
 
-[](https://privacy.truste.com/privacy-seal/validation?rid=dcabe2fe-feb7-4664-9fea-3ed77ccbf71b)
+[](https://trustsealinfo.websecurity.norton.com/splash?form_file=fdf/splash.fdf&dn=www.fivestaralliance.com&lang=en)     [](https://privacy.truste.com/privacy-seal/validation?rid=dcabe2fe-feb7-4664-9fea-3ed77ccbf71b)
 
 If you have questions or complaints regarding our privacy policy or practices you should first contact Five Star Alliance's privacy policy administrator, by phone at +1 (703) 836-0692.
 
@@ -20,7 +20,7 @@ This policy clearly explains the type of personally identifiable information we 
 
 The only personally identifiable information we collect is information that you voluntarily provide to us. This includes your email address and optional demographic information (such as zip code, gender and year of birth), collected when you sign up for our newsletter, and the information you provide to us when you book a hotel reservation. Booking information, required by hotels, includes name, address, contact information, and the credit card details used to hold a reservation.
 
-We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputers, and enforce our agreements. If you wish to cancel your account or request that we no longer use or delete your information to provide you services [contact us here](http://www.fivestaralliance.com/luxury-hotel-experts/contact-us). We will respond to your request within a reasonable timeframe.
+We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputers, and enforce our agreements. If you wish to cancel your account or request that we no longer use or delete your information to provide you services [contact us here](https://www.fivestaralliance.com/luxury-hotel-experts/contact-us). We will respond to your request within a reasonable timeframe.
 
 ### How we use the information we collect
 
@@ -42,7 +42,7 @@ We follow generally accepted industry standards to protect the personally identi
 
 The security of your personally identifiable information is important to us. When you enter sensitive information (such as your credit card number) on our reservation form, we encrypt that information using secure socket layer technology (SSL).
 
-Five Star Alliance uses the leading security technology available, including SSL, to protect and secure your information. We are certified by the industry-leading Verisign. To learn more about SSL, and for more information on our security certification, please click the Verisign logo.
+Five Star Alliance uses the leading security technology available, including SSL, to protect and secure your information. We are certified by the industry-leading TRUSTe and use the security services of [Norton Secured Powered by DigiCert](https://trustsealinfo.websecurity.norton.com/splash?form_file=fdf/splash.fdf&dn=www.fivestaralliance.com&lang=en). DigiCert, Inc., with the acquisition of Symantec Website Security, is the leading global provider of digital certificates. To learn more about SSL, and for more information on our security certification, [please click here](https://trustsealinfo.websecurity.norton.com/splash?form_file=fdf/splash.fdf&dn=www.fivestaralliance.com&lang=en) or on the Norton Secured logo.
 
 ### Tracking Technologies
 
@@ -58,15 +58,15 @@ As is true of most websites, we gather certain information automatically and sto
 
 ### Behavioral Targeting / Re-Targeting
 
-We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our partner may use technologies such as cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by [Clicking Here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+We partner with a third party to either display advertising on our web site or to manage our advertising on other sites. If you are outside of the EU, our partner may use technologies such as cookies and web beacons to collect non-personally identifiable information about your activities on this and other web sites to provide you targeted advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by [CLICKING HERE](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served all advertising. You will still continue to receive generic ads.
 
 ### How we share information
 
 We do not share your profile with other third parties, other than the instances detailed in the following two paragraphs.
 
-The information you provide to us when you book a hotel reservation is delivered directly to the relevant hotel, and is not shared with any other party. This information includes your name, address, contact information, and credit card details.
+The information you provide to us when you book a travel reservation is delivered directly to the relevant travel supplier, and is not shared with any other party. This information includes what you've provided us when making your reservation, including your name, address, contact information, and credit card details.
 
-The information you provide when you sign up for our newsletter, including email address and optional demographic information (such as zip code, gender), is not shared with other parties unless you explicitly allow us to do so. All explicit agreements will be "opt-in", rather than "opt-out". This means that by default we will not share your information, unless you take an action that allows us to do so.
+The information you provide when you sign up for our newsletter, including email address and optional demographic information (such as zip code, gender, phone number), is not shared with other parties unless you explicitly allow us to do so. All explicit agreements will be "opt-in", rather than "opt-out". This means that by default we will not share your information, unless you take an action that allows us to do so.
 
 We may provide your personally identifiable information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personally identifiable information only as necessary to provide these services to us.
 
@@ -74,7 +74,7 @@ We may provide your personally identifiable information to companies that provid
 
 We strive to give you full control over the information you provide to us. To unsubscribe from our newsletter and all promotional communications, we provide clear instructions on our web site (via the newsletter link found on every page). You may also unsubscribe via the link at the bottom of all emails delivered to you, or you may unsubscribe by sending us [by email](https://web.archive.org/luxury-hotel-experts/contact-us).
 
-Due to the nature of the hotel industry's Global Distribution System (GDS), it is not currently feasible to automatically update the details of a reservation over our web site. Thus, should you need to make an update to your booking information, we ask that you [contact us](https://web.archive.org/luxury-hotel-experts/contact-us). We will be happy to assist you. You may reach us by phone at +1 (703) 836-0692, and links to [our contact information](https://web.archive.org/luxury-hotel-experts/contact-us), are provided on every page of our site.
+Due to the nature of the travel industry's inventory systems, including the Global Distribution System (GDS), it is not currently feasible to automatically update the details of a reservation over our web site. Thus, should you need to make an update to your booking information, we ask that you [contact us](https://web.archive.org/luxury-hotel-experts/contact-us). We will be happy to assist you. You may reach us by phone at +1 (703) 836-0692, and links to [our contact information](https://web.archive.org/luxury-hotel-experts/contact-us), are provided on every page of our site.
 
 ### Links to 3rd Party Sites
 
@@ -82,7 +82,7 @@ Our Site includes links to other Web sites whose privacy practices may differ fr
 
 ### Social Media Widgets
 
-Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+Our web site may include social media features such as the "share this button" or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social Media features and widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these features are governed by the privacy policy of the company providing it.
 
 ### Changes to this policy
 
@@ -95,9 +95,11 @@ In addition, as our business changes, we may buy or sell various assets. In the 
 If you have any questions or suggestions regarding our privacy policy, please contact us at:
 
 Five Star Alliance  
-1900 L Street NW, 4th Floor  
+1050 Connecticut Avenue NW #65462  
 Washington, DC 20036 USA  
 +1 (703) 836-0692  
-<http://www.fivestaralliance.com/>
+<https://www.fivestaralliance.com/>
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=dcabe2fe-feb7-4664-9fea-3ed77ccbf71b)
+
+[](https://trustsealinfo.websecurity.norton.com/splash?form_file=fdf/splash.fdf&dn=www.fivestaralliance.com&lang=en)
