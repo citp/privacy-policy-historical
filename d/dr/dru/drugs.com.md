@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the drugs.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625130039id_/https%3A//www.drugs.com/support/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drugs.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231122652id_/https%3A//www.drugs.com/support/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Drugs.com
 
-Effective date: May 22nd, 2018
+Effective date: October 2nd, 2018
 
 Drugsite Trust ("us", "we", or "our") operates the https://www.drugs.com website (the "Service").
 
@@ -71,11 +71,11 @@ We may use your Personal Data to contact you with newsletters, marketing or prom
 
 In order to use some areas of this web site, you must first complete the registration form. During registration you are required to provide information such as your name, age, email address, preferred username, password and preferred subscriptions. You should be aware that your chosen username will be publicly visible on the Drugs.com web site.
 
-To store a medication list, you will need to create a Drugs.com account. You control who can access or edit your medication list. Your account will not be accessible to anyone except for authorized web site support staff. We do not share personal information with any third party partner except for the purpose of collecting and reporting aggregate drug usage statistics, drug interaction data and drug treatment combinations or when required by law enforcement investigation (such as to comply with a judicial proceeding, court order or subpoena).
+To store a medication list, you will need to create a Drugs.com account. You control who can access or edit your medication list. Your account will not be accessible to anyone except for authorized web site support staff. We do not share personal information with any third party partner except for the purpose of collecting and reporting aggregate drug usage statistics, analysing website traffic and user behavior using Google Analytics and cookie data, drug interaction data and drug treatment combinations or when required by law enforcement investigation (such as to comply with a judicial proceeding, court order or subpoena). Analytics and cookie data may be used to contextualize and personalize advertisements.
 
-If you choose to create a public profile and add Personal Data about yourself (or any other person), this information will be publicly accessible.
+If you choose to create a public profile and add Personal Data about yourself (or any other person), this information will be publicly accessible. If you wish to request removal of your information from our directory, you can contact us via our contact details at the bottom of this page.
 
-If you choose to participate in any community oriented parts of our web site, such as a forum, blog, chatroom, Q&A, reviews or comments, you should be aware that any Personal Data you choose to submit is public and can be read, collected, used by others and may appear in search engines.
+If you choose to participate in any community oriented parts of our web site, such as a forum, blog, chatroom, Q&A, reviews or comments, you should be aware that any Personal Data you choose to submit is public and can be read, collected, used by others and may appear in search engines. To request removal of your personal information from our blog or community forum, contact us us via our contact details at the bottom of this page. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 #### Usage Data
 
@@ -87,7 +87,7 @@ When you access the Service by or through a mobile device, this Usage Data may i
 
 #### Tracking & Cookies Data
 
-We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.
+Drugsite Trust and its partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service.
 
 Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.
 
@@ -165,9 +165,9 @@ You can enable or disable Do Not Track by visiting the Preferences or Settings p
 
 Drugsite Trust aims to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.
 
-Whenever made possible, you can update your Personal Data directly within your account settings section. If you are unable to change your Personal Data, please contact us to make the required changes.
+Whenever made possible, you can update your Personal Data directly within your account settings section. If you are unable to change your Personal Data, please contact us via our contact details at the bottom of this page to make the required changes.
 
-If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please contact us.
+If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please contact us via our contact details at the bottom of this page.
 
 In certain circumstances, you have the right:
 
@@ -246,6 +246,6 @@ If you have any questions about this Privacy Policy, please contact us by visiti
 > Telephone: +64 9 476 8500  
 > By e-mail: 
 
-Reviewed: May 22nd, 2018
+Reviewed: November 6th, 2018
 
 Historical changes can be [viewed here](https://web.archive.org/support/privacy-history.html).
