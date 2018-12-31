@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roaring.earth privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625120934id_/http%3A//roaring.earth/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roaring.earth privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231113633id_/https%3A//roaring.earth/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,9 +6,14 @@ Protecting your personal information is our priority. This Privacy Policy applie
 
  **Collection and Use of Personally Identifiable Information:**
 
-Roaring Earth does not currently ask Site users to provide personally identifiable information directly to Roaring Earth, except that if you reside outside of the European Economic Area you may submit content to Roaring Earth or to the Site and you must provide an email address as part of the submission process. Roaring Earth may use this personally identifiable information to contact you regarding the uploaded materials, other matters relating to this Site or Roaring Earth’s business, or matters which Roaring Earth believes will be of interest to you. 
+Roaring Earth does not currently ask Site users to provide personally identifiable information directly to Roaring Earth, except in the following instances: 
 
-**Collection and Use of Non-Personally Identifiable Information:**
+  1. If you reside outside of the European Economic Area you may submit content to Roaring Earth or to the Site and you must provide an email address as part of the submission process. Roaring Earth may use this personally identifiable information to contact you regarding the uploaded materials, other matters relating to this Site or Roaring Earth’s business, or matters which Roaring Earth believes will be of interest to you.
+  2. We use MailChimp to manage our newsletter and other email lists. MailChimp is an active participant of the EU-U.S. Privacy Shield Framework that regulates the correct and protected data transfer of personal data.  MailChimp’s privacy policy is available at <http://mailchimp.com/legal/privacy>.
+
+
+
+ **Collection and Use of Non-Personally Identifiable Information:**
 
 Roaring Earth collects and uses information about your interactions with the Site in way that does not identify you as an individual (“non-personally identifiable information”). Roaring Earth may collect, use, and disclose non-personally identifiable information in a variety of ways such as the following:
 
@@ -53,4 +58,4 @@ If Roaring Earth updates this Privacy Policy, the changes will be posted on the 
 
 Roaring Earth welcomes your questions or comments regarding this Privacy Policy and the Site. You can reach Roaring Earth by email at  [Info@roaring.earth](mailto:info@roaring.earth).
 
-Last modified May 9, 2018
+Last modified September 20, 2018
