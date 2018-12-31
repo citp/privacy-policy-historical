@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the indexexchange.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629112608id_/http%3A//www.indexexchange.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indexexchange.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231224614id_/https%3A//www.indexexchange.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Index Exchange
 
-**Last Updated** : May 25, 2018
+**Last Updated** : November 26, 2018
 
 Index Exchange, Inc. (“Index Exchange”) believes in all Internet users’ rights to privacy. This Policy explains the information collection, use, and disclosure practices of Index Exchange. It applies to all information received by Index Exchange whether in electronic, paper or verbal format.
 
@@ -62,16 +62,15 @@ Index Exchange does not honor the ‘DNT’ browser signal. Instead, we utilize 
 
 Cross-Device Linking is the process of making assumptions that certain devices are related to each other, i.e. they belong to the same user/household. Index Exchange may engage in Cross Device Linking for personalized advertising, ad delivery, and reporting. _If you would like to opt-out of having Cross-Device Linking used by Index Exchange on your devices, please see the “Your Choices” section below._
 
-**_Cookies_**
+**_Cookies (HTTP Cookies and HTML5 Cookies or Local Storage)_**
 
-A cookie is a small amount of data, which often includes a unique identifier that is sent to your browser from a website’s computer and stored on your computer’s hard drive. Index Exchange uses both session and persistent cookies on our website. These are needed for site navigation and to perform aggregate analysis of what is viewed on our site. Cookies are considered Personal Data under the General Data Protection Regulation.
+An **HTTP cookie** is an object that stores a small amount of data on behalf of a browser on a given device.  By saving information in a cookie, websites can remember preferences or recognize browsers from one visit to another or from one website to another. Index Exchange uses both session-only and persistent cookies. More specifically, Index Exchange uses certain cookies that last only for the duration of a user’s internet session and expire when that user closes his or her browser, as well as certain other cookies that are used to remember a user when he or she returns to a website and will last for longer.
 
-The Index Platform uses cookies for tracking when an Internet user has seen an advertisement. These cookies serve two purposes:
+**HTML5 cookies** , also known as HTML5 Web Storage, or local storage, is a technology that allows a website or application to store information locally on a user’s computer or mobile device. Index Exchange uses HTML5 cookies, or local storage, in connection with its platform and website to support publisher monetization objectives and speed up page load time.
 
-  1. To inform the Index Platform if an advertisement has been served to the same computer before, and if so, when the advertisement was served. _These cookies are not used by Index Exchange to build a profile of a user’s behavior nor are they used by Index Exchange for the purposes of behavioral tracking or behavioral targeting._
-  2. To facilitate retargeting at a campaign level. Retargeting is the process of serving an ad from a particular advertiser to a user, based on the fact that the user has previously visited the advertiser’s website. Retargeting occurs within the confines of a user-to-advertiser relationship, and is not available for general targeting on Index Exchange. Retargeting is not available for Sensitive Data as defined by the General Data Protection Regulation.
+Index Exchange ultimately uses these technologies (referred to as “ **cookies** ” going forward)  to facilitate transactions between buyers and sellers of digital advertising inventory and, among other things, to enable its demand-side partners, publishers, data management platforms, and other third-party clients (collectively referred to as “ **Index Exchange clients/partners”** moving forward) to effectively: (a) target advertisements to users of digital media properties, (b) evaluate and assess their advertisements and campaigns; and (c) view and enforce user opt-out choices. Index Exchange’s platform further uses cookies to associate information that does not directly identify an individual user with browsers and devices, so that Index Exchange’s platform and Index Exchange clients/partners can then use the information to select advertisements and campaigns for delivery via the Index Exchange platform. Index Exchange engages in cookie syncing, which is the matching of Index Exchange cookie IDs to Index Exchange clients’/partners’ cookie IDs.
 
-
+Index Exchange collects and stores IDs from a variety of domains, including [adsrvr.org](http://adsrvr.org/) and [casalemedia.com](http://casalemedia.com/). These IDs are stored in either Index Exchange’s domain ([casalemedia.com](http://casalemedia.com/)) or the publisher’s first party domain.
 
 **_PII, PI, and Personal Data of Index Exchange Members_**
 
@@ -131,16 +130,12 @@ You can make a request to access or delete your Personal Data via Index Exchange
 
 If you have a complaint regarding the response to your request to access or delete information, please contact our Data Protection Officer:
 
-Lucid Privacy Group
-
-Address:
-
 Attn: Index Exchange Data Protection Officer  
-Lucid Privacy Group  
-1556 Shrader Street  
-San Francisco, CA 94117  
-USA  
-Email: [dpo@lucidprivacy.io](mailto:dpo@lucidprivacy.io)
+Legal Army, S.L.  
+B88103700  
+María de Molina, 60 4th   
+28006 Madrid (Spain)  
+Email: [gdpr@legalarmy.net](mailto:gdpr@legalarmy.net)
 
 **_ _** ** _Recourse Mechanisms_**
 
