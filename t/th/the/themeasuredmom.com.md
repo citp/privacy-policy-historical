@@ -1,13 +1,6 @@
-> *The following text is extracted and transformed from the themeasuredmom.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625184213id_/https%3A//www.themeasuredmom.com/disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themeasuredmom.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231175022id_/https%3A//www.themeasuredmom.com/disclosure) for the most accurate reproduction.*
 
 # Disclosure - The Measured Mom
-
-  * [ ](https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.themeasuredmom.com%2Fdisclosure%2F&description=)
-  * [ ](https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.themeasuredmom.com%2Fdisclosure%2F)
-  * [ ](https://twitter.com/intent/tweet?text=Disclosure&url=https%3A%2F%2Fwww.themeasuredmom.com%2Fdisclosure%2F)
-  * [ ](https://plus.google.com/share?url=https%3A%2F%2Fwww.themeasuredmom.com%2Fdisclosure%2F)
-
-
 
 _This policy was last updated on May 11, 2018.  _
 
@@ -123,10 +116,3 @@ I will not transfer your personal data unless I am under legal obligation to do 
 **Contact**
 
 If you would like your information to be removed from our systems, or have questions about this privacy policy, please email anna@themeasuredmom.com.
-
-  * [ ](https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.themeasuredmom.com%2Fdisclosure%2F&description=)
-  * [ ](https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.themeasuredmom.com%2Fdisclosure%2F)
-  * [ ](https://twitter.com/intent/tweet?text=Disclosure&url=https%3A%2F%2Fwww.themeasuredmom.com%2Fdisclosure%2F)
-  * [ ](https://plus.google.com/share?url=https%3A%2F%2Fwww.themeasuredmom.com%2Fdisclosure%2F)
-
-
