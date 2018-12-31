@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bargainbrute.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625085420id_/https%3A//www.bargainbrute.com/store/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bargainbrute.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231081948id_/https%3A//www.bargainbrute.com/store/privacy) for the most accurate reproduction.*
 
-# BargainBrute.com is 'Your One Stop Life Shop' Privacy Policy
+# HUGE Online Shopping Mall | Save Money at Bargainbrute.com.
 
 #### Privacy
 
