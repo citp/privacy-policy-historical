@@ -1,125 +1,74 @@
-> *The following text is extracted and transformed from the pchlotto.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325040811id_/http%3A//privacy.pch.com/play-and-win-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pchlotto.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231210205id_/http%3A//privacy.pch.com) for the most accurate reproduction.*
 
-# PCH Privacy Policy
+# Privacy Policy Home
 
-**PCHbingo, PCHlotto, PCHslots and PCHBlackJack Privacy Policy**
+[Collection and Use»
 
-Last Updated: December 11, 2013 
+](https://privacy.pch.com/collection-use)
 
-At Publishers Clearing House (operator of PCHbingo, PCHlotto, PCHslots and PCHBlackJack) we take your privacy seriously, which is why we developed this privacy policy to explain our online information collection and use practices
+We collect certain personal information from our visitors to process and fulfill online sweepstakes entries and online orders for the products and services we offer. Such information may include full name, email address and date of birth. To provide our users with a more personalized and relevant web service, we may also collect and use personal data to identify users' specific interests and needs and may, at times, use your personally identifiable information to exchange, link or combine it with third party data groups to help understand your needs and provide you with better and more relevant service.
 
-This Privacy Policy applies to the PCHbingo, PCHlotto, PCHslots and PCHBlackJack sites and is provided to explain the online information collection and use practices of these websites. Unless otherwise noted, the information and descriptions in this online Privacy Policy are limited strictly to online transactions at PCHbingo, PCHlotto, PCHslots and PCHBlackJack and do not apply to the offline privacy, data collection and data transfer policies of PCHbingo, PCHlotto, PCHslots and PCHBlackJack.
+[learn more »](https://privacy.pch.com/collection-use)
 
-At Publishers Clearing House (operator of PCHbingo, PCHlotto, PCHslots and PCHBlackJack) we take your privacy seriously, which is why we developed this privacy policy to explain our online information collection and use practices. Unless otherwise noted, the information and descriptions in this online Privacy Policy are limited strictly to online transactions and do not apply to the off line privacy, data collection and data transfer policies of PCHbingo, PCHlotto, PCHslots and PCHBlackJack.
+[Tracking Technologies»
 
-PCHbingo, PCHlotto and PCHslots are participants in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. As the web sites,[www.pchbingo.com](http://www.pchbingo.com/), [www.PCHlotto.com](http://www.pchlotto.com/), [www.PCHslots.com](http://www.pchslots.com/) and [blackjack.pch.com](http://blackjack.pch.com/) want to demonstrate their commitment to your privacy, they have agreed to disclose their information practices and have their privacy practices monitored for compliance by TRUSTe. If you have questions or concerns regarding this policy, you should first contact us at [privacychoices@pchmail.com](mailto:privacychoices@pchmail.com) This e-mail address is being protected from spambots. You need JavaScript enabled to view it. . If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you may contact TRUSTe at [http://watchdog.truste.com/pvr.php?page=complaint&url==www.pchlotto.com](http://watchdog.truste.com/pvr.php?page=complaint&url=www.pchlotto.com). TRUSTe will then serve as a liaison with these web sites to resolve your concerns. The TRUSTe program covers only information that is collected through these web sites, and does not cover information that may be collected through software downloaded from these sites.
+](https://privacy.pch.com/tracking-technologies)
 
-PCHbingo, PCHlotto, PCHslots and PCHBlackJack may occasionally change the features and content found on their sites. Consequently, our privacy policy may be modified to reflect any revisions to the sites. We suggest you revisit our privacy policy from time to time to be sure that you are familiar with our practices.
+Through the use of “cookies”, “pixel tags” and "flash cookies" we may collect data on, among other things, the following information:
 
-**Changes to the Privacy Policy**
+  * The website that referred you to us
+  * The web pages you viewed on our site
+  * The advertisements you viewed and clicked on at our site
+  * Coupon activity including the types of coupons that you choose
+  * Store your preferences such as volume control or high game score
+  * Display content based upon what you view on our site or mobile apps to personalize your visit. To learn more about our Targeted or Behavioral Advertising practices, please click [here.](https://privacy.pch.com/advertising)
 
-By using this Web site, you consent to the collection and use of your information as outlined in this policy and to our Terms of Use. We may decide to change this Privacy Policy from time to time. When we make material changes to our policy, we will post a prominent notice on the home page of the Web site so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it. Please review this Privacy Policy from time to time so that you will be apprised of any changes.
 
-**ACCEPTANCE OF PRIVACY POLICY**
 
-By completing and submitting a registration and/or entry format at PCHbingo, PCHlotto, PCHslots and PCHBlackJack, you signify your agreement to this Privacy Policy. If you do not accept the terms of this Privacy Policy, please do not use the PCHbingo, PCHlotto, PCHslots and PCHBlackJack sites. We reserve the right, at our discretion to change, modify, add or remove portions of this Privacy Policy. You should check this page periodically for any changes and to insure you are familiar with our current practices. This policy and all of our legal obligations under this policy are subject to the laws of New York and the USA regardless of the location of the user. This Privacy Policy was last updated in December 2013.
+[learn more »](https://privacy.pch.com/tracking-technologies)
 
-**1\. Why do PCHbingo, PCHlotto, PCHslots and PCHBlackJack collect personal information?**
+[Data Security»
 
-PCHbingo, PCHlotto, PCHslots and PCHBlackJack collect certain personal information from our visitors primarily to process and fulfill online entries. For example, we need your full name, postal and email address to enter you in the PCHbingo, PCHlotto, PCHslots and PCHBlackJack giveaways, confirm your entry, contact you if you have won and notify you about any updates or changes to our sites. We may also use the personal data we collect for systems administration and troubleshooting purposes, and to report aggregate information to our marketing partners and others.
+](https://privacy.pch.com/data-security)
 
-For each day that you play, we will send you an email confirmation with the number of bonus Diamonds earned and/or of the numbers you have chosen for entry at PCHlotto and/or your Jackpot ball progress and the nightly drawing card you may submit at PCHbingo. We may utilize the services of service providers and subcontractors to collect such information on our behalf for administrative and other purposes that we may deem necessary to maintain service and improve the user experience. We may forward personally identifiable information to select vendors or third parties necessary for the fulfilment of any prize you may win. These service providers are prohibited from using your personally identifiable information for any other purpose including their own marketing.
+We have implemented a number of security features. throughout the pch.com site that are intended to prevent the unauthorized release of or access to the user information we collect online.
 
-To provide our users with a more personalized and relevant web experience, we may collect and use personal data to identify users' specific interests and needs. If given permission, we may notify our users by email of special contests, announcements and offers we feel may be of interest to them that are available from PCHbingo, PCHlotto, PCHslots and PCHBlackJack and/or our marketing partners who send information on our behalf. Users may unsubscribe from such future offers by clicking to remove the check in the permission notice box before submitting the registration and entry form. You may also unsubscribe from such offers at any time by using the unsubscribe link in such emails, by clicking on the “Contact PCHbingo/PCHlotto/PCHslots/PCHBlackjack” link or by writing directly to us care of: Consumer & Privacy Affairs, 382 Channel Drive, Port Washington, New York, 11050.
+[learn more »](https://privacy.pch.com/data-security)
 
-From time to time, we may post customer testimonials on our web sites which may contain personally identifiable information such as the customer's name. If the testimonial contains personally identifiable information, we do obtain the customer's consent prior to posting these testimonials.
+[Data Sharing»
 
-**2\. How and what information does PCHbingo, PCHlotto, PCHslots and PCHBlackJack gather or track?**
+](https://privacy.pch.com/data-sharing)
 
-We collect personal data from our users mainly during the initial registration process for PCHbingo, PCHlotto, PCHslots and PCHBlackJack. Such information is collected to process and fulfill online entries. For example, we need your full name, postal and email address to enter you in the PCHbingo, PCHlotto, PCHslots and PCHBlackJack giveaways, confirm your entry, contact you if you have won, and notify you about any updates or changes to our site. We will also send you an email confirmation each day of the numbers you have chosen for entry at PCHlotto and/or the number of Diamonds earned at PCHslots. We will also send you an email confirmation each day that you play, of the numbers you submitted for the Last Chance Drawing and the current number of Jackpot balls you possess and when they expire. We may also forward personally identifiable information to select vendors or third parties necessary for the fulfillment of any prize you may win. We may utilize the services of service providers and subcontractors to collect such information on our behalf for administrative and other purposes that we may deem necessary to maintain service and improve the user experience. We may also request additional information about the offers and services on our sites. We gather this data in order to better understand our users' interests and provide them with relevant offers and information.
+PCH may disclose user information in aggregate form to marketing partners. For example, we might tell a marketing partner how many users visited PCH over a period of time, but we will never tell them who it was that saw or clicked on their offer, unless that user has provided permission to do so.
 
-Through the use of "cookies" and "pixel tags" (both described below) and online and registration forms, we may collect personal data on, among other things, the following information:
+We may share your personal information with select third parties vendors such as credit card processors and e-mail service providers to provide services such as order fulfillment and e-mail delivery on our site. These third parties are prohibited from using your personal information for any other purpose. We may also use your personally identifiable information to exchange, link or combine it with third party data groups to help understand your needs and provide you with better and more relevant service..
 
-**Demographic**
+[learn more »](https://privacy.pch.com/data-sharing)
 
-| 
+[Advertising»
 
-**Technical**
+](https://privacy.pch.com/advertising)
 
-| 
+This website/app utilizes Interest Based Advertising. Publishers Clearing House adheres to DAA (Digital Advertising Alliance) standards and principals. Click here [ http://www.aboutads.info/consumers](http://www.aboutads.info/consumers) to learn more. Publishers Clearing House Mobile APP users can use the following links to download the DAA AppChoices App that lets you opt out from interest-based advertising with a particular company: [Apple App Store](https://itunes.apple.com/us/app/appchoices/id894822870) or [Google Play Store](https://play.google.com/store/apps/details?id=com.DAA.appchoices). If you engage with PCH on multiple devices, you must opt out on each device separately. 
 
-**Reference**  
-  
----|---|---  
-  
-Age  
-Gender  
-Income level
+If you would like to opt out from being shown targeted advertising by our 3rd party providers, including Google, please click [here](http://preferences-mgr.trustarc.com/?pid=pch01&aid=pch_pub01&type=pch): Please note that this will opt you out of targeted ads from pch.com and any other participating advertisers. If you opt out, you will continue to receive online advertising from Publishers Clearing House; however, these ads may not be as relevant to you.
 
-| 
+[learn more »](https://privacy.pch.com/advertising)
 
-IP address  
-Domain name  
-e-mail address  
-Site traffic
+[User Options»
 
-| 
+](https://privacy.pch.com/user-options)
 
-Name  
-Postal address  
-Telephone number  
-Password  
-  
-**3\. What are Cookies?**
+Receiving email messages from pch.com, our affiliates and partners is optional. Users can access the personal information they have provided to pch.com for the purposes of reviewing and updating such information.
 
-"Cookies" are small pieces of information that are stored by your web browser software on your computer's hard drive or temporarily in your computer's memory. The use of cookies is an industry standard, and users will find them on most major web sites. PCHbingo, PCHlotto, PCHslots and PCHBlackJack place and store Internet cookies on a user's hard drive. Cookies can save any type of information noted above. Cookies enable us to recognize you and personalize your viewing experience on our sites. For example, we use cookies to recognize user access privileges, track site usage and traffic patterns, add advertisements for goods or services that we think may interest you, and estimate our audience size. We also use cookies to store user names and information that are supplied at registration. Although most web browsers are initially set up to accept cookies, you can decline the placement of a cookie on your hard drive by using the appropriate feature(s) of your web browser software (if available) to delete the cookie. Please note, however, that certain areas on the sites will not function properly if your web browser does not accept cookies.
+[learn more »](https://privacy.pch.com/user-options)
 
-As is true of most web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, to analyze trends, to administer the sites, to track users movements around the sites and to gather demographic information about our user base as a whole. We do not link this automatically-collected data to personally identifiable information.
+[Other Information»
 
-We utilize software from several third party companies that places tracking technologies on our web sites. We have control over these third party cookies and javascript tags which we use to analyze the data they generate, in aggregate. Some of the reasons for collecting this data is to determine the most popular offers on our sites, the most popular areas for users to click on a screen with many buttons to click, etc. We also use one of these services to estimate broad demographic patterns for our users in order to present our site audience as a whole to advertisers.
+](https://privacy.pch.com/additional-information)
 
-When you register with PCHbingo, PCHlotto, PCHslots and PCHBlackJack, we may share your name and information with third parties who may contact you by mail with relevant offers. If you wish to opt out of such exchanges you may [click here](http://prism.pch.com/PrismOptout/GenericOptout.aspx). 
+The pch.com site is not directed to visitors residing outside of the United States. The pch.com site is not targeted nor directed to children under the age of thirteen.
 
-**4\. Targeted or Behavioral Advertising:**
+To contact us, please visit the [Info Center](http://info.pch.com/consumer-information) of the site or write directly to Christopher L. Irving, Consumer & Privacy Affairs, pch.com, 300 Jericho Quadrangle #300 Jericho, NY 11753.
 
-Targeted advertising (also known as Behavioral Advertising) uses information collected about an individual’s web browsing behavior such as the pages they have visited or the searches they have made. This information is then used to select which advertisement should be displayed to a particular individual on websites other than pch.com. For example, if you have shown a preference for cooking while visiting pch.com, you may be served an advertisement from pch.com for cooking related products when you visit a site other than pch.com. The information collected is linked to an anonymous cookie ID (random alphanumeric number); it does not include any information that could be linked back to a particular person, such as name, address or credit card number. The information used for targeted advertising either comes from pch.com or through third party website publishers. If you would like to opt out of targeted advertising from pch.com that occurs when visiting our third party advertising publishers, please click here. Please note that this will opt you out of targeted ads from Publishers Clearing House and any other participating advertisers. If you opt out, you will continue to receive online advertising from Publishers Clearing House; however, these ads may not be as relevant to you.
-
-When you use AdChoices to bookmark and share our products and site, you will be taken to a third party site. Please note that their privacy policy governs the collection and use of the information collected on those sites.
-
-You may use the AdChoices widget to tell your friends about the site, you will need to provide your friends email address to tell them about the site. PCHbingo, PCHlotto, PCHslots and PCHBlackJack have no access to this third party information, please read AdChoices’ privacy policy to learn more about their privacy practices.
-
-**5\. Do PCHbingo, PCHlotto, PCHslots and PCHBlackJack disclose user information to third parties?**
-
-PCHbingo, PCHlotto, PCHslots and PCHBlackJack disclose user information in aggregate form to marketing partners. For example, we might tell a marketing partner how many users visited our sites over a period of time, but we will never tell them who it was that saw or clicked on their offer, unless that user has given us permission to do so.
-
-We forward personally identifiable information to select vendors or third parties necessary for the fulfillment of any prize you may win. We utilize the services of and disclose user information to our service providers and subcontractors for purposes of collecting information on our behalf and for administrative and other purposes that we may deem necessary to maintain service and improve the user experience. Unless otherwise noted in this Privacy Policy or at the point of collection, we will not share personally identifiable information with marketing partners.
-
-Visitors who do not want to hear about PCHbingo, PCHlotto, PCHslots and PCHBlackJack opportunities may follow the simple unsubscribe procedure of removing the check mark located at the permission notice box appearing on each site's registration and/or entry page. If an opt out is not submitted, we may notify users by email about special opportunities, drawings, contests, and events. In the event of a merger, acquisition, or change of control, customer data would be considered a business asset and may be transferred. We will disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena. We may also disclose personal information as required by law or to protect the safety and security of our users.
-
-**6\. Can I opt-out of PCHbingo, PCHlotto, PCHslots and PCHBlackJack data collection and/or distribution?**
-
-Receiving email messages is optional. As noted earlier, the collection, use, and distribution of personal data helps us create a more personalized, relevant, and intelligent web service for our users. Our sites will not contact you with email offers and announcements from us or from select marketing partners if you follow the simple opt-out procedure of removing the check mark located at the permission notice box appearing on the sites registration and/or entry pages. To update your password or update, correct, or delete registration information, please go to MY ACCOUNT. 
-
-If you are already receiving emails and no longer wish to receive such communications, simply follow the "unsubscribe" instructions that appear in the e-mail, or click on the "Contact PCHbingo,PCHlotto/PCHslots,PCHBlackjack" link or write directly to us care of: Consumer & Privacy Affairs, 382 Channel Drive, Port Washington, New York, 11050. Please note that we will confirm each entry into PCHlotto with an email summary of the number you have selected and each entry into PCHbingo with an email summary of the numbers you have selected. 
-
-If you have provided personal information directly to our third party marketing partners and are receiving email communications directly from these third parties, PCHbingo, PCHlotto, PCHslots and PCHBlackJack cannot, in most instances, unsubscribe users from these third parties. If you wish to unsubscribe from one of our marketing partner's e-mail programs, please follow their unsubscribe procedures which will be found within their e-mails or in their privacy policy.
-
-**7\. What about external web sites?**
-
-To the extent hyperlinks or banner advertisements incorporating hyperlinks are utilized on our Sites to access third party sites, users should be aware that these third party web sites are not controlled by PCHbingo, PCHlotto, PCHslots and PCHBlackJack and, therefore, are not subject to this privacy policy. We recommend that users check the privacy policies of these individual sites to see how their personal information will be utilized.
-
-**8\. What do PCHbingo, PCHlotto, PCHslots and PCHBlackJack do to keep their sites secure?**
-
-We have implemented a number of security features throughout our sites that are intended to prevent the unauthorized release of or access to the user information we collect online. For example, database information is firewall protected. Also, only authorized personnel and approved service providers have access to any stored personal information we collect from our users. While we strive to create secure and reliable sites for our users, the confidentiality of any communication or material transmitted over the Internet cannot be 100% guaranteed. Users should keep in mind that any information submitted through an Internet transaction is potentially accessible to the public, and consequently, can be collected and used by others without their consent. PCHbingo, PCHlotto, PCHslots and PCHBlackJack are not responsible or liable for illegal interception of personal data via any Internet transaction.
-
-**9\. Does PCHbingo, PCHlotto, PCHslots and PCHBlackJack collect information from users outside of the United States?**
-
-Our sites are not directed to visitors residing outside of the United States and such users are not eligible to submit online sweepstakes entries. If we become aware that a user who does not reside in the United States has registered with the PCHbingo, PCHlotto, PCHslots and PCHBlackJack sites, we will use reasonable efforts to remove such information from our files.
-
-**10\. Your California Privacy Rights:**
-
-As stated in this Privacy Policy we do not share information with third parties for their direct marketing purposes unless you affirmatively agree to such disclosure. Please note that if you opt-in to receive future communications from a third party, your information will be subject to that third party's privacy policy. If you later decide that you do not want that third party to use your information, you will need to contact the third party directly, as we have no control over how third parties use information. You should always review the privacy policy of any party that collects your information to determine how that entity will handle your information. If you do not want your name passed on to other companies for the purpose of receiving marketing offers do not complete the consent found on the offer page. You can also contact us at any time with questions or your request to unsubscribe by clicking on the "Contact PCHbingo/PCHlotto/PCHslots" link or by writing directly to us care of: Consumer & Privacy Affairs, 382 Channel Drive, Port Washington, New York, 11050 and we will be pleased to respect your wishes.
-
-**11\. Further Questions?**
-
-We welcome any questions or comments you may have regarding this privacy policy and our information sharing practices. To contact us, please click on the “Contact PCHbingo/PCHlotto/PCHslots/PCHBlackJack" link or write directly to us at Consumer & Privacy Affairs, 382 Channel Drive, Port Washington, New York, 11050. Or you may visit our online customer support tool at <http://pch.custhelp.com/app/answers/detail/a_id/174>.
+[learn more »](https://privacy.pch.com/additional-information)
